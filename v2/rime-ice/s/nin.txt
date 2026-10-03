@@ -1,0 +1,192 @@
+nin de	您的	501736
+nin shi	您是	500593
+nin ke yi	您可以	500293
+nin suo	您所	500263
+nin hai mei you	您还没有	410090
+nin hao	您好	373220
+nin xian zai	您现在	337875
+nin dui	您对	280035
+nin de wei zhi	您的位置	243885
+nin you	您有	190485
+nin bu	您不	184635
+nin xiang	您想	173070
+nin hai	您还	147845
+nin ye	您也	122240
+nin mei you	您没有	102995
+nin yao	您要	97670
+nin jiu	您就	94450
+nin neng	您能	84380
+nin ren wei	您认为	78345
+nin shi fou	您是否	70550
+nin mei you quan xian	您没有权限	61255
+nin bu ke yi	您不可以	58985
+nin de shou ji	您的手机	53040
+nin yong	您用	51985
+nin zhi xu	您只需	43775
+nin shuo	您说	40290
+nin kan	您看	37420
+nin hai ke yi	您还可以	32975
+nin suo xu	您所需	29140
+nin lai	您来	28295
+nin zheng zai	您正在	27755
+nin hai wei	您还未	26080
+nin men	您们	25260
+nin zhe	您这	23585
+nin dao	您到	17560
+nin yu	您与	17555
+nin lao	您老	16460
+nin zhen	您真	11580
+nin qu	您去	11490
+nin jia	您家	10645
+nin dou	您都	9999
+nin dou shi	您都是	9999
+nin lai le	您来了	9999
+nin lei	您嘞	9999
+nin qing kan	您请看	9999
+nin zai	您在	9999
+nin xian	您先	9660
+nin na	您呐	8888
+nin ke yi yong	您可以用	8720
+nin de ming zi	您的名字	8670
+nin bie	您别	7805
+nin zen me kan	您怎么看	7115
+nin tian xie	您填写	5430
+nin ke yi dao	您可以到	5265
+nin ne	您呢	4535
+nin di yi ci	您第一次	4275
+nin qing	您请	4065
+nin ke neng hui	您可能会	3845
+nin de dao	您得到	3840
+nin dei dao	您得到	3840
+nin men hao	您们好	3725
+nin liu xia	您留下	3580
+nin sao	您扫	3333
+nin rang	您让	2935
+nin qiao	您瞧	2790
+nin zui xi huan	您最喜欢	2440
+nin zuo	您坐	2315
+nin wu bi	您务必	1530
+nin zui xi ai	您最喜爱	1205
+nin yi	您已	1180
+nin cai	您猜	935
+nin zui xiang	您最想	930
+nin shi fou hui	您是否会	745
+nin na	您那	674
+nin dong	您懂	630
+nin lai zi yu	您来自于	585
+nin pa	您怕	440
+nin xin dong	您心动	300
+nin zhi yao	您只要	230
+nin que ding	您确定	199
+nin gang cai fa song de xiao xi	您刚才发送的消息	130
+nin zao	您早	123
+nin bang mang	您帮忙	104
+nin bi xu	您必须	100
+nin bie zhao ji	您别着急	100
+nin bo da de	您拨打的	100
+nin bo da de dian hua	您拨打的电话	100
+nin bu bi dan xin	您不必担心	100
+nin cai zen me zhao	您猜怎么着	100
+nin cai zen me zhe	您猜怎么着	100
+nin can jia	您参加	100
+nin cuo le	您错了	100
+nin de an quan	您的安全	100
+nin de cao zuo xi tong	您的操作系统	100
+nin de dang qian wei zhi	您的当前位置	100
+nin de dao lai	您的到来	100
+nin de di zhi	您的地址	100
+nin de dian zi you jian di zhi	您的电子邮件地址	100
+nin de fan	您的饭	100
+nin de hang ye	您的行业	100
+nin de jue se	您的角色	100
+nin de lai dao	您的来到	100
+nin de le ba	您得了吧	100
+nin de lian xi dian hua	您的联系电话	100
+nin de lian xi fang shi	您的联系方式	100
+nin de lian xi xin xi	您的联系信息	100
+nin de mian	您的面	100
+nin de shou cang	您的收藏	100
+nin de shou cang jia	您的收藏夹	100
+nin de wen ti	您的问题	100
+nin de you xiang di zhi	您的邮箱地址	100
+nin dong de	您懂得	100
+nin fang xin	您放心	100
+nin fen fu	您吩咐	100
+nin hai bie bu xin	您还别不信	100
+nin hai ge	您还搁	100
+nin hai hao ma	您还好吗	100
+nin hai ke yi shu ru	您还可以输入	100
+nin hai ke yi zhao	您还可以找	100
+nin hai man yi ma	您还满意吗	100
+nin hai wei deng lu	您还未登录	100
+nin hao na wei	您好哪位	100
+nin hao ya	您好呀	100
+nin jiang de dao	您将得到	100
+nin jiang huo de	您将获得	100
+nin jin tian	您今天	100
+nin jiu gei wo	您就给我	100
+nin jiu gei wo shuo zhe ge	您就给我说这个	100
+nin jiu gei wo zhe ge	您就给我这个	100
+nin jue de	您觉得	100
+nin jue de zen me yang	您觉得怎么样	100
+nin kan ren jia	您看人家	100
+nin ke huo de	您可获得	100
+nin ke lai	您可来	100
+nin ke lai le	您可来了	100
+nin ke lai lei	您可来嘞	100
+nin ke neng hai xi huan	您可能还喜欢	100
+nin ke yi huo de	您可以获得	100
+nin ke yuan yi	您可愿意	100
+nin ke zhi	您克制	100
+nin kuai dao	您快到	100
+nin lai la	您来啦	100
+nin lai le a	您来了啊	100
+nin lai lei	您来嘞	100
+nin lai lei a	您来嘞啊	100
+nin li bian er qing	您里边儿请	100
+nin li bian qing	您里边请	100
+nin liao jie	您了解	100
+nin man yong	您慢用	100
+nin mang zhe ne	您忙着呢	100
+nin mei kan cuo	您没看错	100
+nin mei shi ba	您没事吧	100
+nin qiao qiao	您瞧瞧	100
+nin qu mang	您去忙	100
+nin qu mang ba	您去忙吧	100
+nin sao wo	您扫我	100
+nin shang wei	您尚未	100
+nin shi shuo	您是说	100
+nin shi zhi	您是指	100
+nin shuo le suan	您说了算	100
+nin suo zai di qu	您所在地区	100
+nin teng wo	您疼我	100
+nin ting wo shuo	您听我说	100
+nin wu hui	您误会	100
+nin wu hui le	您误会了	100
+nin xiang yao liao jie geng duo	您想要了解更多	100
+nin xin ku le	您辛苦了	100
+nin xu yao	您需要	100
+nin xu yao shen me	您需要什么	100
+nin yao liao jie	您要了解	100
+nin yao shen me	您要什么	100
+nin you shen me yi jian	您有什么意见	100
+nin zen me lai la	您怎么来啦	100
+nin zen me lai le	您怎么来了	100
+nin zhao wo	您找我	100
+nin zhe shi	您这是	100
+nin zhe xie nian	您这些年	100
+nin zheng zai shou kan de shi	您正在收看的是	100
+nin zou le	您走了	100
+nin zui xi huan de	您最喜欢的	100
+nin xian mang	您先忙	92
+nin yi jing	您已经	74
+nin you kong	您有空	64
+nin zuo tian	您昨天	64
+nin ye shi	您也是	63
+nin zhi jie	您直接	62
+nin bu dao	您不到	35
+nin kan yi xia	您看一下	12
+nin zhe bian	您这边	12
+nin na bian	您那边	8
+nin gong si	您公司	1
+nin zhe zhu yao shi	您这主要是	1

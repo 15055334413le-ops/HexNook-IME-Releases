@@ -1,0 +1,191 @@
+pen ben	盆苯	0
+pen bi gui shu	喷鼻龟属	0
+pen bu	盆部	0
+pen bu luo er	喷布洛尔	0
+pen cai	盆菜	0
+pen cai guai	盆才怪	0
+pen cao xi xin	盆草细辛	0
+pen cheng jie dao	湓城街道	0
+pen cheng kuo	盆成括	0
+pen cheng zhen	湓城镇	0
+pen chi he	喷赤河	0
+pen chu yan	喷出岩	0
+pen chun hua ling	盆唇华鲮	0
+pen dai	盆带	0
+pen deng	喷灯	0
+pen di	盆地	0
+pen di fan zhuan	盆地反转	0
+pen di gong neng zhang ai	盆底功能障碍	0
+pen di ji ying shu	盆地寄蝇属	0
+pen di mo ni	盆地模拟	0
+pen di qun dai	盆地群代	0
+pen di xiao ying	盆地效应	0
+pen di yi shi	盆地意识	0
+pen dian bian se long	喷点变色龙	0
+pen du	喷镀	0
+pen du yan jing she	喷毒眼镜蛇	0
+pen fa	喷发	0
+pen fa jiao	喷发胶	0
+pen fa yan	喷发岩	0
+pen fa zhu	喷发柱	0
+pen fu hou pan yu shu	盆腹喉盘鱼属	0
+pen gu	盆骨	0
+pen gu yuan	盆骨缘	0
+pen gua	喷瓜	0
+pen gua shu	喷瓜属	0
+pen guan	喷管	0
+pen guan	喷灌	0
+pen han	喷銲	0
+pen hu	喷壶	0
+pen hui die shu	盆灰蝶属	0
+pen hui die zu	盆灰蝶族	0
+pen hui lan shu	盆蕙兰属	0
+pen huo	喷火	0
+pen huo deng	喷火灯	0
+pen huo guai xing	喷火怪星	0
+pen huo long	喷火龙	0
+pen huo qi	喷火器	0
+pen huo shi zhan dou ji	喷火式战斗机	0
+pen huo tan ke	喷火坦克	0
+pen huo tuo	喷火驼	0
+pen huo wan	喷火湾	0
+pen huo zhan dou ji	喷火战斗机	0
+pen huo zhan ji yue dui	喷火战机乐队	0
+pen huo zhan ji yue tuan	喷火战机乐团	0
+pen ji xiang	盆吉乡	0
+pen jia shu	盆架树	0
+pen jia shu shu	盆架树属	0
+pen jin dan	喷进弹	0
+pen jin pao	喷进炮	0
+pen jin pao	喷进砲	0
+pen jin qi	喷进器	0
+pen jing	盆景	0
+pen jing ji yi	盆景技艺	0
+pen jing mao	盆景猫	0
+pen jing xiao mao	盆景小猫	0
+pen ju chu	盆句除	0
+pen ju lan	盆距兰	0
+pen ju lan shu	盆距兰属	0
+pen ju shan	盆驹山	0
+pen kong	喷孔	0
+pen lie ke	喷䴕科	0
+pen liu	喷流	0
+pen man	盆蛮	0
+pen mo da yin ji	喷墨打印机	0
+pen mo yin biao ji	喷墨印表机	0
+pen nu li	盆奴里	0
+pen nu li guo	盆奴里国	0
+pen pu jie dao	湓浦街道	0
+pen qi	喷漆	0
+pen qi bei bao	喷气背包	0
+pen qi fa dong ji	喷气发动机	0
+pen qi fa men	喷气阀门	0
+pen qi fei ji	喷气飞机	0
+pen qi ji	喷气机	0
+pen qi kong	喷气孔	0
+pen qi mei guo hang kong	喷气美国航空	0
+pen qi shi	喷气式	0
+pen qi shi fa dong ji	喷气式发动机	0
+pen qi shi fei ji	喷气式飞机	0
+pen qi shi fei xing bao	喷气式飞行包	0
+pen qi shi huo che	喷气式火车	0
+pen qi shi ke ji	喷气式客机	0
+pen qi shi min hang ke ji	喷气式民航客机	0
+pen qi shi zhan ji shi dai hua fen	喷气式战机世代划分	0
+pen qi tu ya	喷漆涂鸦	0
+pen qi tui jin shi yan shi	喷气推进实验室	0
+pen qi tui jin shi yan shi xian shang li shu xi tong	喷气推进实验室线上历书系统	0
+pen qi tui jin shi yan shi zai xian li shu xi tong	喷气推进实验室在线历书系统	0
+pen qiang	喷枪	0
+pen qiang	盆腔	0
+pen qiang hua zhuang	喷枪化妆	0
+pen qiang jian cha	盆腔检查	0
+pen qiang qi guan tuo chui	盆腔器官脱垂	0
+pen qiang qing xi	盆腔清洗	0
+pen qiang yan	盆腔炎	0
+pen quan	喷泉	0
+pen quan dong	喷泉洞	0
+pen quan guang chang bao zha an	喷泉广场爆炸案	0
+pen quan guang chang bao zha shi jian	喷泉广场爆炸事件	0
+pen quan ji	喷泉蓟	0
+pen quan ma	喷泉码	0
+pen quan xiu dao yuan	喷泉修道院	0
+pen se ka tong	喷色卡通	0
+pen sha	喷砂	0
+pen sha chu li	喷砂处理	0
+pen sha fang	喷砂房	0
+pen sha xing dong	喷沙行动	0
+pen sha zhuang zhi	喷沙装置	0
+pen sha zhuang zhi	喷砂装置	0
+pen shan xian	盆山县	0
+pen she bei bao	喷射背包	0
+pen she chuan	喷射船	0
+pen she fa dong ji	喷射发动机	0
+pen she fei hang	喷射飞航	0
+pen she feng ling shou	喷射风灵兽	0
+pen she gong you	喷射供油	0
+pen she ji	喷射机	0
+pen she ji yue tuan	喷射机乐团	0
+pen she jie ge	喷射杰格	0
+pen she ke ji	喷射客机	0
+pen she kuai ting	喷射快艇	0
+pen she mei shao nv	喷射美少女	0
+pen she qi	喷射器	0
+pen she qi liu	喷射气流	0
+pen she shi fei ji	喷射式飞机	0
+pen she tui jin shi yan shi	喷射推进实验室	0
+pen she tui jin yan jiu suo	喷射推进研究所	0
+pen she wu tan	喷射物毯	0
+pen she yin qing	喷射引擎	0
+pen she zhan shi	喷射战士	0
+pen she zi you niao	喷射自由鸟	0
+pen shui che	喷水车	0
+pen shui chi	喷水池	0
+pen shui chi zhan	喷水池站	0
+pen shui dong	喷水洞	0
+pen shui ji rou fan	喷水鸡肉饭	0
+pen shui mao sha	喷水冒砂	0
+pen shui tui jin qi	喷水推进器	0
+pen si ban	喷丝板	0
+pen ta mi	喷他脒	0
+pen ta zuo xin	喷他佐辛	0
+pen tang che liang ji di	盆唐车辆基地	0
+pen tang qu	盆唐区	0
+pen tang qu	盆塘区	0
+pen tang qu jiao tong	盆唐区交通	0
+pen tang ruo han sheng tang	盆唐若翰圣堂	0
+pen tang xian	盆唐线	0
+pen ti	喷嚏	0
+pen ti da mo wang	喷嚏大魔王	0
+pen ti suan	喷替酸	0
+pen ti xiong	喷嚏熊	0
+pen tuo lei si	喷托雷司	0
+pen wan	喷丸	0
+pen wu	喷雾	0
+pen wu	盆舞	0
+pen wu qi	喷雾器	0
+pen xi	喷锡	0
+pen xi	盆烯	0
+pen xi luo wei	喷昔洛韦	0
+pen xi ping yuan	盆西平原	0
+pen xiu	盆休	0
+pen yan zhe	喷烟者	0
+pen yao che	喷药车	0
+pen yao xiang	盆尧乡	0
+pen yao zhen	盆尧镇	0
+pen yin	喷音	0
+pen yin la sui dao	盆因拉隧道	0
+pen yong	盆踊	0
+pen you qi	喷油器	0
+pen yun xian	盆允县	0
+pen zai	盆栽	0
+pen zai mao	盆栽猫	0
+pen zai xiao mao	盆栽小猫	0
+pen zhan	呠站	0
+pen zhong pen	盆中盆	0
+pen zhou	盆舟	0
+pen zhou shan di zhu	盆周山地猪	0
+pen zhuang dai shi shu	盆状袋狮属	0
+pen zi	喷子	0
+pen zi gun cu	喷子滚粗	0
+pen zui	喷嘴	0

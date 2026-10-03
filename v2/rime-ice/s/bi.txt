@@ -1,0 +1,3488 @@
+bi xu	必须	502404
+bi jiao	比较	501534
+bi ru	比如	500817
+bi sai	比赛	500668
+bi li	比例	500647
+bi mian	避免	500470
+bi ye sheng	毕业生	500362
+bi ye	毕业	500344
+bi zhe	笔者	500324
+bi jing	毕竟	500286
+bi yao de	必要的	500278
+bi ran	必然	474755
+bi ji ben	笔记本	454380
+bi zhong	比重	373425
+bi yao	必要	368375
+bi ci	彼此	340690
+bi shang nian	比上年	248970
+bi ji ben dian nao	笔记本电脑	219795
+bi jiang	必将	217955
+bi ye hou	毕业后	200000
+bi ru shuo	比如说	197440
+bi shi	笔试	195995
+bi wo	比我	192835
+bi bei	必备	187445
+bi zi	鼻子	178415
+bi ye yu	毕业于	177955
+bi yao shi	必要时	170660
+bi ji	笔记	164510
+bi qi	比起	154325
+bi xu you	必须有	150465
+bi ya di	比亚迪	147538
+bi kai	避开	143375
+bi zhi	壁纸	138495
+bi lv	比率	129715
+bi ding	必定	121610
+bi xu	必需	117555
+bi yu	比喻	115900
+bi bu ke shao	必不可少	115735
+bi jiao hao	比较好	107735
+bi mian le	避免了	105720
+bi qu nian	比去年	105380
+bi xia	陛下	104020
+bi jing shi	毕竟是	103055
+bi yao xing	必要性	100140
+bi you	必有	99460
+bi duan	弊端	94940
+bi ye lun wen	毕业论文	93510
+bi zhen	逼真	91870
+bi ta	比他	90625
+bi jiao duo	比较多	88770
+bi xu fu he	必须符合	87395
+bi ran hui	必然会	86925
+bi ni	比你	86070
+bi xu jian chi	必须坚持	85690
+bi jiao da	比较大	85610
+bi ci de	彼此的	85105
+bi li shi	比利时	83755
+bi xu ju bei	必须具备	83230
+bi fen	比分	83190
+bi yun	避孕	82985
+bi lu	笔录	80668
+bi jiao rong yi	比较容易	79945
+bi xu de	必须的	77670
+bi shi	鄙视	76015
+bi li wei	比例为	75150
+bi xu de	必需的	70865
+bi er	比尔	68330
+bi sa	比萨	67765
+bi ye zheng shu	毕业证书	65580
+bi du	必读	65085
+bi xu ba	必须把	62970
+bi ye zheng	毕业证	62460
+bi yun tao	避孕套	61660
+bi yi qian	比以前	58755
+bi ming	笔名	58095
+bi shang yan jing	闭上眼睛	57565
+bi jiao gao	比较高	57445
+bi xu xian	必须先	56805
+bi shou	匕首	56510
+bi bie ren	比别人	56135
+bi bie de	比别的	56000
+bi jin	逼近	54460
+bi an	彼岸	53775
+bi xia	笔下	53530
+bi yao tiao jian	必要条件	53345
+bi ran yao qiu	必然要求	52330
+bi jiao jian dan	比较简单	51765
+bi shang	闭上	50900
+bi jiao xi huan	比较喜欢	49315
+bi ye yuan xiao	毕业院校	48870
+bi lei	壁垒	47695
+bi mo	笔墨	47685
+bi tian	必填	47055
+bi shang	比上	46910
+bi zhao	比照	46660
+bi xiu ke	必修课	46250
+bi mu	闭幕	46235
+bi te	比特	45055
+bi qiu	比丘	44515
+bi zhe	比这	44005
+bi ye she ji	毕业设计	43970
+bi jiao fu za	比较复杂	43650
+bi kong	鼻孔	41405
+bi xu xiang	必须向	41405
+bi ran shi	必然是	41275
+bi bu shang	比不上	39625
+bi po	逼迫	39415
+bi yun yao	避孕药	39115
+bi bi jie shi	比比皆是	38890
+bi zhi	笔直	38320
+bi ye xue xiao	毕业学校	38290
+bi jiao shao	比较少	37920
+bi qian	比前	36885
+bi qi lai	比起来	35580
+bi he	闭合	35490
+bi ta	比她	35020
+bi fang shuo	比方说	34925
+bi kan	必看	34760
+bi qu nian tong qi zeng zhang	比去年同期增长	34600
+bi ye le	毕业了	34300
+bi shi	必是	34035
+bi sheng	必胜	33660
+bi zhi	比值	33620
+bi shang	必上	33333
+bi zhi	必至	33333
+bi jiao kun nan	比较困难	33225
+bi jiao di	比较低	32950
+bi lu	秘鲁	32530
+bi ye shi	毕业时	32315
+bi ni	比拟	32240
+bi sheng	毕生	32220
+bi lv	碧绿	31665
+bi zai	比在	31475
+bi yi	鄙夷	31350
+bi jiao gao de	比较高的	31240
+bi kao	必考	30640
+bi bing	弊病	29960
+bi se	闭塞	29615
+bi qiang	鼻腔	29515
+bi neng	必能	29330
+bi zuo	比作	29195
+bi shui	避税	28910
+bi zhi	比之	28875
+bi ci zhi jian	彼此之间	28730
+bi xian	必先	28410
+bi jiao he shi	比较合适	27660
+bi ti	鼻涕	27140
+bi jia suo	毕加索	27085
+bi xu jia qiang	必须加强	26990
+bi wei	比为	26570
+bi ran xing	必然性	25695
+bi ding hui	必定会	25675
+bi shei	比谁	25080
+bi jiao xiao	比较小	24955
+bi zhe	逼着	24490
+bi ding shi	必定是	24340
+bi jiu	必究	24285
+bi ye shi jian	毕业时间	24210
+bi liang	鼻梁	24180
+bi jiao tu chu	比较突出	24135
+bi yi	笔译	23985
+bi jiao zhong	比较重	23850
+bi jiao yan zhong	比较严重	23700
+bi de	逼得	23595
+bi lu dian shi	闭路电视	23530
+bi bo	碧波	23060
+bi zai	必在	23000
+bi xiu	必修	22995
+bi zai	必再	22810
+bi ran qu shi	必然趋势	22800
+bi ji	笔迹	22795
+bi jia	比价	22710
+bi jing	必经	22595
+bi zui	闭嘴	22585
+bi sai shi jian	比赛时间	22195
+bi jiao wan shan	比较完善	22090
+bi mu shi	闭幕式	21910
+bi ran xuan ze	必然选择	21830
+bi zhe yan jing	闭着眼睛	21785
+bi fang	比方	21560
+bi fa	笔法	21555
+bi hu	庇护	21400
+bi ren	逼人	21385
+bi juan	闭卷	21225
+bi chuan tong	比传统	21095
+bi nan	避难	20855
+bi xu chong fen	必须充分	20760
+bi yan	鼻炎	20620
+bi ci jian	彼此间	20605
+bi shang yue	比上月	20570
+bi sai shi	比赛时	20560
+bi jiao nan	比较难	20525
+bi shi	比试	20320
+bi jiao wen ding	比较稳定	19915
+bi jiao man yi	比较满意	19860
+bi xu shou xian	必须首先	19705
+bi jian	鼻尖	19700
+bi jian	比肩	19465
+bi ren	比人	19420
+bi yan	闭眼	19270
+bi hui	必会	19060
+bi luo chun	碧螺春	19041
+bi ru wo	比如我	18930
+bi jiao ming xian	比较明显	18765
+bi jiang cheng wei	必将成为	18745
+bi jiao kuai	比较快	18540
+bi sai	鼻塞	18460
+bi ran jie guo	必然结果	18385
+bi ping shi	比平时	18160
+bi mu	闭目	18125
+bi suo	闭锁	18050
+bi jing	闭经	17975
+bi sha	必杀	17835
+bi ru ni	比如你	17795
+bi wo	逼我	17790
+bi xu an zhuang	必须安装	17770
+bi jing zhi lu	必经之路	17705
+bi jiao feng fu	比较丰富	17555
+bi bei tiao jian	必备条件	17550
+bi xu pin	必需品	17485
+bi ye ban	毕业班	17420
+bi ding	吡啶	17290
+bi hou	壁厚	17285
+bi da	比大	17145
+bi gua	壁挂	17025
+bi shang yan	闭上眼	16750
+bi ta	比它	16635
+bi bu	必不	16550
+bi zuo	必做	16520
+bi zu	鼻祖	16400
+bi guan	闭关	16260
+bi nian chu	比年初	16170
+bi jiao fa	比较法	16150
+bi yi bi	比一比	16150
+bi mei	比美	16110
+bi guo qu	比过去	16030
+bi xu dei	必须得	15850
+bi rang	避让	15820
+bi zhi	币值	15815
+bi sha ji	必杀技	15675
+bi de	必得	15655
+bi lu	壁炉	15535
+bi jiao man	比较慢	15335
+bi bang	臂膀	15290
+bi xian	避险	14985
+bi ji ni	比基尼	14975
+bi tong	笔筒	14885
+bi zhong da dao	比重达到	14680
+bi guo	避过	14675
+bi hua	比画	14665
+bi xu zuo	必须做	14580
+bi li chi	比例尺	14535
+bi yao cuo shi	必要措施	14530
+bi xuan	必选	14525
+bi qi ta	比其他	14305
+bi sai xiang mu	比赛项目	14220
+bi bi	比比	14005
+bi xie	辟邪	13980
+bi jiao cha	比较差	13940
+bi shi	鼻屎	13880
+bi sai jie shu	比赛结束	13855
+bi hui	避讳	13690
+bi huan	闭环	13680
+bi yun fang fa	避孕方法	13065
+bi shi	闭市	13000
+bi dou yan	鼻窦炎	12975
+bi men	闭门	12800
+bi shen me	比什么	12625
+bi xiu ke cheng	必修课程	12625
+bi jiao chang	比较长	12620
+bi li guan xi	比例关系	12560
+bi jiao tong xing	比较通行	12500
+bi hai yin sha	碧海银沙	12442
+bi sai qian	比赛前	12435
+bi sheng ke	必胜客	12340
+bi zhen	避震	12330
+bi shi	彼时	12120
+bi jian	笔尖	12090
+bi yao	碧瑶	12040
+bi lei qi	避雷器	11920
+bi yu	避雨	11875
+bi yong	比用	11800
+bi sai jie guo	比赛结果	11735
+bi xu fu cong	必须服从	11675
+bi qu	必去	11670
+bi ye dian li	毕业典礼	11645
+bi jiao qi lai	比较起来	11565
+bi hu	壁虎	11465
+bi wang nian	比往年	11400
+bi jiao liao jie	比较了解	11285
+bi xu liao jie	必须了解	11280
+bi jiao he li	比较合理	11210
+bi yi	裨益	11190
+bi yan ai	鼻咽癌	11165
+bi gui	壁柜	10790
+bi yun cuo shi	避孕措施	10730
+bi yun jie yu	避孕节育	10715
+bi ming	毙命	10680
+bi kou	闭口	10525
+bi ta	逼他	10485
+bi yong	必用	10450
+bi tou	笔头	10335
+bi ou quan	碧欧泉	10325
+bi wo da	比我大	10320
+bi jiao an quan	比较安全	10310
+bi yu wei	比喻为	10165
+bi jiao luo hou	比较落后	10125
+bi shu shan zhuang	避暑山庄	10110
+bi ba	必把	9999
+bi bao	闭包	9999
+bi bi	逼逼	9999
+bi can	比惨	9999
+bi chi	必吃	9999
+bi di xia	笔底下	9999
+bi ding yu	必定与	9999
+bi dong	壁咚	9999
+bi dui	比对	9999
+bi dui zi ji	比对自己	9999
+bi er	鼻儿	9999
+bi gan er	笔杆儿	9999
+bi guan tiao zhi	笔管条直	9999
+bi hu quan	庇护权	9999
+bi hua yuan yin	鼻化元音	9999
+bi ji ben shi ji suan ji	笔记本式计算机	9999
+bi kou yun	闭口韵	9999
+bi kuang	币矿	9999
+bi kuang chi	币矿池	9999
+bi lai	比来	9999
+bi lan	比烂	9999
+bi li shi wang guo	比利时王国	9999
+bi li shui	比例税	9999
+bi na	比那	9999
+bi pang dou	鼻旁窦	9999
+bi quan	币圈	9999
+bi quan er	币圈儿	9999
+bi shi wang qiu	壁式网球	9999
+bi tou	鼻头	9999
+bi tou er	笔头儿	9999
+bi tui	逼退	9999
+bi wan	必玩	9999
+bi wan xiang mu	必玩项目	9999
+bi wo de	比我的	9999
+bi xiao	闭校	9999
+bi yao chan pin	必要产品	9999
+bi yi niao	比翼鸟	9999
+bi you you	碧油油	9999
+bi za	必砸	9999
+bi za le	必砸了	9999
+bi sai kai shi	比赛开始	9990
+bi shu	避暑	9950
+bi chu	逼出	9880
+bi ye sheng jiu ye lv	毕业生就业率	9865
+bi zhe	闭着	9815
+bi dao	逼到	9750
+bi qi	闭气	9655
+bi te lv	比特率	9620
+bi jiao mang	比较忙	9605
+bi sai gui ze	比赛规则	9570
+bi sai hou	比赛后	9545
+bi le	比了	9390
+bi feng gang	避风港	9385
+bi ci xiang ai	彼此相爱	9355
+bi hua	笔画	9280
+bi you zhi lu	必由之路	9255
+bi gao	比高	9215
+bi xie	鼻血	9180
+bi xue	鼻血	9180
+bi shang	壁上	9080
+bi bo dang yang	碧波荡漾	8980
+bi deng	壁灯	8960
+bi an	币安	8888
+bi sai chang di	比赛场地	8800
+bi wen	逼问	8795
+bi guang	避光	8785
+bi xi	鼻息	8650
+bi yan	鼻咽	8645
+bi hua	壁画	8640
+bi ran lian xi	必然联系	8640
+bi xi	碧玺	8620
+bi cheng	必成	8500
+bi shang	臂上	8430
+bi sai cheng ji	比赛成绩	8405
+bi ye yi hou	毕业以后	8395
+bi jiao gui fan	比较规范	8385
+bi ji ben dian chi	笔记本电池	8355
+bi bai	必败	8270
+bi jing zhi di	必经之地	8245
+bi shun	笔顺	8245
+bi si mai	俾斯麦	8245
+bi jiao min gan	比较敏感	8150
+bi lin	比邻	8135
+bi ting	笔挺	8080
+bi nv	婢女	8060
+bi yu cheng	比喻成	8000
+bi si wu yi	必死无疑	7945
+bi dao	必到	7925
+bi lei zhen	避雷针	7910
+bi de	比得	7855
+bi da	必达	7810
+bi qiu ni	比丘尼	7810
+bi men zao che	闭门造车	7780
+bi chu	必出	7777
+bi yang	逼样	7777
+bi bu	鼻部	7715
+bi jiao ruo	比较弱	7695
+bi xu bao kuo	必须包括	7660
+bi gui yuan	碧桂园	7645
+bi gong bi jing	毕恭毕敬	7590
+bi tian	比天	7560
+bi li fen pei	比例分配	7550
+bi gua shi	壁挂式	7505
+bi lei	避雷	7475
+bi yi zhi yan	闭一只眼	7450
+bi lu	闭路	7405
+bi de shang	比得上	7335
+bi dou	鼻窦	7305
+bi suo	比索	7285
+bi jiao zao	比较早	7280
+bi yan hu	鼻烟壶	7225
+bi zi shang	鼻子上	7175
+bi jiao fa da	比较发达	7150
+bi mu yang shen	闭目养神	7085
+bi ye wen ping	毕业文凭	7070
+bi qu nian tong qi xia jiang	比去年同期下降	7020
+bi lao	比老	7010
+bi chu	壁橱	6950
+bi sai zhong de	比赛中的	6890
+bi jiao shun li	比较顺利	6865
+bi diao	笔调	6815
+bi shu sheng di	避暑胜地	6810
+bi deng	彼等	6775
+bi jiao er yan	比较而言	6695
+bi feng	逼疯	6666
+bi hao	必好	6666
+bi ling	必令	6666
+bi mai	必买	6666
+bi mai de	必买的	6666
+bi zhong	必中	6666
+bi zhuan	必赚	6666
+bi duan	彼端	6595
+bi le	毙了	6590
+bi mu qian	比目前	6585
+bi ji	比及	6545
+bi nan suo	避难所	6505
+bi jiao zhuan ye	比较专业	6495
+bi jiao qing chu	比较清楚	6445
+bi yin	鼻音	6425
+bi ni	逼你	6420
+bi hai lan tian	碧海蓝天	6400
+bi jiao yuan	比较远	6370
+bi mu yu	比目鱼	6366
+bi yun yao ju	避孕药具	6325
+bi li	笔力	6320
+bi jiang shi	必将是	6305
+bi shang zhou	比上周	6265
+bi bu guo	比不过	6255
+bi sai xian chang	比赛现场	6250
+bi zhe yan	闭着眼	6225
+bi jiao gui	比较贵	6200
+bi zhong jiu qing	避重就轻	6195
+bi xian li qi qi	必先利其器	6090
+bi ru xiang	比如像	6060
+bi gan	笔杆	6055
+bi sai di dian	比赛地点	6050
+bi xia	比下	6040
+bi chu	笔触	5999
+bi ke	必可	5945
+bi jiao li xiang	比较理想	5900
+bi ye fen pei	毕业分配	5890
+bi ping	逼平	5855
+bi jia shan	笔架山	5850
+bi er ba e	毕尔巴鄂	5805
+bi wo qiang	比我强	5790
+bi sa bing	比萨饼	5785
+bi juan kao shi	闭卷考试	5700
+bi zhen qi	避震器	5680
+bi jiao wan	比较晚	5670
+bi jiao qi	比较器	5614
+bi dian	笔电	5555
+bi feng	避风	5555
+bi lai	必来	5555
+bi lu	笔路	5555
+bi si	必死	5555
+bi wan	比完	5555
+bi wan sai	比完赛	5555
+bi xiong	比熊	5555
+bi duan	笔端	5505
+bi jiao jin	比较近	5490
+bi jiao chong fen	比较充分	5475
+bi li	臂力	5470
+bi zhe	比着	5430
+bi jia	笔架	5420
+bi jiang hui	必将会	5390
+bi dang	必当	5375
+bi sai li	比赛里	5375
+bi mu shi shang	闭幕式上	5370
+bi ai	必爱	5350
+bi jiao yun suan fu	比较运算符	5339
+bi mian yang guang	避免阳光	5320
+bi zheng zhi di	必争之地	5320
+bi bei pin	必备品	5280
+bi shi ni	鄙视你	5275
+bi qing yan zhong	鼻青眼肿	5265
+bi ta hai	碧塔海	5210
+bi jiao yan ge	比较严格	5195
+bi li yue wei	比例约为	5190
+bi kong	碧空	5155
+bi zhong	鼻中	5155
+bi yi wang ren he shi hou dou	比以往任何时候都	5150
+bi hua zhe	比画着	5135
+bi lu jian kong	闭路监控	5130
+bi jiao duan	比较短	5120
+bi de bao	彼得堡	5110
+bi da yu li	弊大于利	5100
+bi xin	笔芯	5090
+bi xue	必学	5080
+bi jiao chuan tong	比较传统	5065
+bi ri	蔽日	5065
+bi wu	笔误	5033
+bi zheng	必争	5015
+bi ta	逼她	5010
+bi xue	碧血	5005
+bi li	哔哩	5000
+bi ban	壁板	4990
+bi li shi tiao	比例失调	4940
+bi xian	避嫌	4875
+bi cong qian	比从前	4865
+bi wo hao	比我好	4840
+bi you	庇佑	4815
+bi ji ben nei cun	笔记本内存	4780
+bi ye kao shi	毕业考试	4750
+bi lu	毕露	4705
+bi huan kong zhi	闭环控制	4685
+bi mian jie chu	避免接触	4650
+bi wo xing fu	比我幸福	4645
+bi shang	逼上	4625
+bi hua shu	笔画数	4580
+bi si	逼死	4565
+bi you	笔友	4495
+bi li shui lv	比例税率	4485
+bi li	壁立	4470
+bi ji	逼急	4444
+bi le	闭了	4444
+bi ting	逼停	4444
+bi zhan	哔站	4444
+bi chu	比出	4425
+bi cao	碧草	4340
+bi zhi	必知	4315
+bi jiao ji	比较级	4305
+bi guan	闭馆	4290
+bi jiang shi	必将使	4280
+bi wu	比武	4279
+bi shan	碧山	4235
+bi jiang dao zhi	必将导致	4190
+bi shi	避世	4185
+bi zi	笔资	4160
+bi jiao mo hu	比较模糊	4140
+bi tan	笔谈	4110
+bi ma	蓖麻	4095
+bi ma can	蓖麻蚕	4095
+bi ma du	蓖麻毒	4095
+bi yi shuang fei	比翼双飞	4075
+bi xu xue	必须学	4065
+bi shui	碧水	4037
+bi guo	比过	4035
+bi jing	鼻镜	4015
+bi shi	逼事	4000
+bi ti chong	鼻涕虫	4000
+bi shi	壁饰	3999
+bi shao	比少	3995
+bi er bu tan	避而不谈	3965
+bi tao	碧桃	3960
+bi you wo shi	必有我师	3945
+bi cong	必从	3940
+bi shi	笔势	3910
+bi shang nian du	比上年度	3840
+bi jin de	逼近的	3825
+bi ji ben pei jian	笔记本配件	3810
+bi huo	避祸	3780
+bi men geng	闭门羹	3775
+bi liang	比量	3765
+bi guan suo guo	闭关锁国	3750
+bi sheng jing li	毕生精力	3745
+bi jian	比剑	3740
+bi bu	臂部	3735
+bi shi ti	笔试题	3699
+bi xing	必行	3680
+bi jiao hua suan	比较划算	3675
+bi chong lin	吡虫啉	3670
+bi wu	必无	3621
+bi guan zi shou	闭关自守	3620
+bi han	避寒	3555
+bi jiao guan xin	比较关心	3555
+bi tan	碧潭	3550
+bi bei ruan jian	必备软件	3535
+bi zao	必遭	3535
+bi nv	彼女	3475
+bi xu dong de	必须懂得	3475
+bi lang	碧浪	3465
+bi wu da hui	比武大会	3465
+bi yi	鼻翼	3458
+bi ge	比个	3455
+bi li qian ren	壁立千仞	3445
+bi zhi bu ji	避之不及	3445
+bi re	比热	3435
+bi gong	逼供	3425
+bi xin ji	比心机	3399
+bi ni da	比你大	3395
+bi zi yi suan	鼻子一酸	3375
+bi xia	碧霞	3355
+bi chen	必沉	3333
+bi chou	必抽	3333
+bi ge	逼格	3333
+bi ge man man	逼格满满	3333
+bi hong	必红	3333
+bi huan	必换	3333
+bi kui	必亏	3333
+bi kui wu yi	必亏无疑	3333
+bi lian	必练	3333
+bi lu zhong	壁炉钟	3333
+bi tu	必吐	3333
+bi tuo	鼻托	3333
+bi wai mian	比外面	3333
+bi xie	必写	3333
+bi xin shou shi	比心手势	3333
+bi ye mao	毕业帽	3333
+bi zhi	彼之	3333
+bi zhong zhi	比中指	3333
+bi zhuang	必装	3333
+bi zi mao qi	鼻子冒气	3333
+bi shang ji du	比上季度	3310
+bi kao ke mu	必考科目	3305
+bi bei	必被	3300
+bi jie shi	毕节市	3285
+bi xi rou	鼻息肉	3285
+bi shi	逼视	3275
+bi deng tian hai nan	比登天还难	3265
+bi ma you	蓖麻油	3260
+bi geng	笔耕	3255
+bi jin le	逼近了	3240
+bi suan	笔算	3180
+bi xu chuan	必须穿	3180
+bi le	避了	3170
+bi qian nian	比前年	3160
+bi jiao fan	比较烦	3145
+bi fa	必发	3140
+bi luo	碧螺	3080
+bi yue xiu hua	闭月羞花	3070
+bi zhong	币种	3063
+bi bu liao	比不了	3055
+bi xing	笔形	3050
+bi de da di	彼得大帝	3040
+bi da ge la si	毕达哥拉斯	3035
+bi shan xian	璧山县	3035
+bi jiao lan	比较懒	3010
+bi ci bi ci	彼此彼此	3000
+bi ji le	逼急了	2970
+bi jiu	比旧	2960
+bi zhang	臂章	2950
+bi mian si suo	避免死锁	2942
+bi hun	逼婚	2930
+bi ci liao jie	彼此了解	2905
+bi sai guan jun	比赛冠军	2875
+bi yi ji du	比一季度	2855
+bi bei tiao kuan	必备条款	2845
+bi jiao jia ge	比较价格	2845
+bi liang shang	鼻梁上	2805
+bi sai chang	比赛场	2775
+bi jin	必尽	2770
+bi mu ci	闭幕词	2755
+bi yan	碧眼	2755
+bi yan	鼻烟	2735
+bi ze	逼仄	2735
+bi shi	逼使	2730
+bi chang	臂长	2720
+bi zhi	币制	2655
+bi geng bu chuo	笔耕不辍	2625
+bi guan xiu lian	闭关修炼	2620
+bi ye zhao	毕业照	2585
+bi ran gui lv	必然规律	2565
+bi he xing	闭合性	2540
+bi feng xia	碧峰峡	2535
+bi yan	笔砚	2535
+bi zhu	闭住	2525
+bi ji ben zhuan yong	笔记本专用	2515
+bi jiao xian jin	比较先进	2510
+bi da ti	必答题	2500
+bi jiao zhai	比较窄	2495
+bi shi jiu xu	避实就虚	2480
+bi gan zi	笔杆子	2475
+bi zou	逼走	2475
+bi hu suo	庇护所	2465
+bi da	笔答	2450
+bi gong	逼宫	2435
+bi chu	彼处	2430
+bi sa xie ta	比萨斜塔	2430
+bi hui	闭会	2424
+bi jiao shi zai	比较实在	2420
+bi li yuan ze	比例原则	2405
+bi mao	鼻毛	2405
+bi shang bu zu	比上不足	2405
+bi bu ke que	必不可缺	2400
+bi sai guo cheng	比赛过程	2400
+bi xiang	逼向	2390
+bi qi gong yu yi yi	毕其功于一役	2380
+bi zhi xia zai	壁纸下载	2380
+bi you jin you	必有近忧	2365
+bi yun gong ju	避孕工具	2345
+bi nian mo	鼻黏膜	2340
+bi gen	鼻根	2335
+bi ye lv	毕业率	2335
+bi shu	逼数	2333
+bi he zhi	笔和纸	2305
+bi bi kan	比比看	2300
+bi di	毙敌	2295
+bi shang zui	闭上嘴	2295
+bi jiao jiu	比较久	2290
+bi men bu chu	闭门不出	2290
+bi lv se	碧绿色	2285
+bi kou bu tan	闭口不谈	2265
+bi xia you yu	比下有余	2260
+bi li fa	比例阀	2255
+bi se	碧色	2250
+bi wu zhao qin	比武招亲	2250
+bi shang	毙伤	2230
+bi da	必答	2225
+bi cao	笔槽	2222
+bi ge	逼哥	2222
+bi ke	鼻科	2222
+bi shua	笔刷	2222
+bi wai	比外	2222
+bi zhu	臂助	2222
+bi kan	壁龛	2215
+bi hu xia	庇护下	2210
+bi dui fang	比对方	2185
+bi ying	必应	2180
+bi po xia	逼迫下	2170
+bi shang liang shan	逼上梁山	2170
+bi chang	比长	2155
+bi luan	避乱	2155
+bi ting	必听	2150
+bi shang qi	比上期	2140
+bi bie	币别	2135
+bi qiang	逼抢	2135
+bi ji ben dian nao shi chang	笔记本电脑市场	2125
+bi dai	笔袋	2115
+bi he	笔盒	2095
+bi lei	笔类	2095
+bi bo wan qing	碧波万顷	2085
+bi men qi	闭门器	2085
+bi wa	碧瓦	2080
+bi yu	碧玉	2079
+bi sai jing yan	比赛经验	2070
+bi er bu jian	避而不见	2045
+bi jiao biao zhun	比较标准	2045
+bi xia qu	比下去	2015
+bi yin	庇荫	2005
+bi ni wan	比你晚	2000
+bi jiao jin	比较紧	1999
+bi li	笔立	1999
+bi qi	鄙弃	1999
+bi xue	碧雪	1995
+bi yi qi fei	比翼齐飞	1990
+bi diao	毙掉	1980
+bi ni duo	比你多	1980
+bi ye hui kao	毕业会考	1945
+bi quan	碧泉	1935
+bi cai	比才	1925
+bi li kong zhi	比例控制	1920
+bi yao ji shu te zheng	必要技术特征	1919
+bi yun huan	避孕环	1910
+bi dao	比到	1900
+bi te liu	比特流	1895
+bi qi	荸荠	1845
+bi sai jie zou	比赛节奏	1845
+bi shi kai ke	比什凯克	1845
+bi shi zhe	逼视着	1845
+bi xiu ke mu	必修科目	1840
+bi jiao cong ming	比较聪明	1825
+bi lou	鄙陋	1790
+bi zhai	逼债	1790
+bi yao xian du	必要限度	1770
+bi xi	笔洗	1760
+bi mian shuang chong zheng shui	避免双重征税	1755
+bi de yi shi	彼得一世	1750
+bi nei kui jing	鼻内窥镜	1750
+bi tan	壁毯	1750
+bi jing jie duan	必经阶段	1740
+bi zheng	弊政	1735
+bi jiao ben	比较笨	1725
+bi li shi ren	比利时人	1720
+bi yun yao wu	避孕药物	1690
+bi zhe yu	笔者与	1690
+bi tao	碧涛	1680
+bi le tuo li ya	比勒陀利亚	1675
+bi mo zhi yan	笔墨纸砚	1675
+bi li biao	比例表	1670
+bi guan	笔管	1665
+bi sai fu	比赛服	1650
+bi jiao xian shi	比较现实	1640
+bi sai yong qiu	比赛用球	1635
+bi zhe	避着	1635
+bi mian cuo wu	避免错误	1632
+bi yan jing	闭眼睛	1620
+bi zi	箅子	1617
+bi xu xian xing	必须先行	1615
+bi yun si	碧云寺	1615
+bi er bu da	避而不答	1595
+bi tou	碧透	1590
+bi sai lu xiang	比赛录像	1580
+bi bi	哔哔	1565
+bi mei you hao	比没有好	1565
+bi pu	婢仆	1560
+bi ye xiang	毕业相	1551
+bi ma wen	弼马温	1550
+bi hua shu ru	笔画输入	1545
+bi yi	笔意	1541
+bi kou	鼻口	1535
+bi you yi shi	必有一失	1530
+bi yang xian	泌阳县	1525
+bi guang bao cun	避光保存	1515
+bi rong	比容	1505
+bi zuo	笔座	1505
+bi tian gao	比天高	1490
+bi cheng	逼成	1485
+bi qian mian	比前面	1485
+bi te bi	比特币	1483
+bi ye xue fen	毕业学分	1475
+bi lian	碧莲	1470
+bi kuo qi	比阔气	1465
+bi yi bi	避一避	1465
+bi da xiao	比大小	1445
+bi zi xia mian	鼻子下面	1440
+bi ran wang guo	必然亡国	1430
+bi jiao xian zhu	比较显著	1425
+bi xun chang	比寻常	1420
+bi se xing	闭塞性	1405
+bi he	逼和	1400
+bi bi deng	必比登	1395
+bi chu lai	逼出来	1385
+bi lei sen yan	壁垒森严	1385
+bi yun yong pin	避孕用品	1385
+bi si	鼻饲	1375
+bi zhu	逼住	1375
+bi yun zhen	避孕针	1365
+bi yu zan	碧玉簪	1355
+bi zi	篦子	1355
+bi lu lan lv	筚路蓝缕	1350
+bi ye jian ding	毕业鉴定	1345
+bi bo	臂膊	1335
+bi qi	闭起	1335
+bi jiao zhi chi	比较支持	1325
+bi tian	蔽天	1325
+bi bi	笔笔	1315
+bi ge si	比格斯	1315
+bi mu hui	闭幕会	1310
+bi you hou fu	必有后福	1300
+bi chuan	比穿	1290
+bi tao	笔套	1290
+bi qi feng mang	避其锋芒	1280
+bi su	鄙俗	1280
+bi you shi	必有失	1278
+bi le bi	比了比	1275
+bi liang wei chang	逼良为娼	1275
+bi ran she ji	必然涉及	1275
+bi shi ji xu	避实击虚	1260
+bi mian tong	避免同	1250
+bi yi nian qian	比一年前	1245
+bi biao mian	比表面	1240
+bi li fa	比例法	1240
+bi lai bi qu	比来比去	1225
+bi xu ren shi	必须认识	1225
+bi zi di xia	鼻子底下	1225
+bi xiao pu	毕晓普	1205
+bi jiao xiang mu	比较项目	1200
+bi lei zhuang zhi	避雷装置	1200
+bi jiao pang	比较胖	1195
+bi gao er qu xia	避高而趋下	1180
+bi gong jing zhi	必恭敬止	1180
+bi qi lai	闭起来	1180
+bi shui dong liu zhi ci hui	碧水东流至此回	1180
+bi wo hai yuan ne	比我还远呢	1180
+bi xian ku qi xin zhi	必先苦其心志	1180
+bi xian yu zhi	必先予之	1180
+bi xu gao	必须搞	1180
+bi ying shu ru fa	必应输入法	1180
+bi yu zhuang cheng yi shu gao	碧玉妆成一树高	1180
+bi zhe ge qiang	比这个强	1180
+bi zhe ge qiang de	比这个强的	1180
+bi su du	比速度	1175
+bi mao	笔帽	1170
+bi wu chang	比武场	1170
+bi hai	避害	1165
+bi ye kao	毕业考	1165
+bi he dian lu	闭合电路	1150
+bi men xie ke	闭门谢客	1150
+bi yao de	必要地	1150
+bi gai	必改	1145
+bi lian tian	碧连天	1130
+bi hui	逼回	1125
+bi lu zhi	俾路支	1115
+bi a	比啊	1111
+bi an ping tai	币安平台	1111
+bi bu	壁布	1111
+bi cang	逼仓	1111
+bi chen	避谶	1111
+bi cheng	鄙称	1111
+bi dai	必带	1111
+bi ding yu	必定于	1111
+bi duo	必多	1111
+bi en	比恩	1111
+bi fan	必反	1111
+bi feng	笔锋	1111
+bi fu	闭服	1111
+bi hui	必回	1111
+bi kai	必开	1111
+bi ke	逼氪	1111
+bi lu dui	秘鲁队	1111
+bi lu gu shi	秘鲁股市	1111
+bi lu ma ka	秘鲁玛卡	1111
+bi lu zheng fu	秘鲁政府	1111
+bi lun	诐论	1111
+bi pao	必跑	1111
+bi qie	嬖妾	1111
+bi rou	髀肉	1111
+bi rou fu sheng	髀肉复生	1111
+bi shu	必输	1111
+bi shua	必刷	1111
+bi suan	鼻酸	1111
+bi wo de	逼我的	1111
+bi xi	赑屃	1111
+bi xiong	避凶	1111
+bi ya	比呀	1111
+bi yi bi	逼一逼	1111
+bi ying	必赢	1111
+bi you qi qiao	必有蹊跷	1111
+bi zhang	必涨	1111
+bi shi yi xia	比试一下	1110
+bi ci lian xi	彼此联系	1105
+bi qu	逼取	1105
+bi re rong	比热容	1105
+bi shui wan	碧水湾	1105
+bi lan	碧蓝	1098
+bi kong ru xi	碧空如洗	1095
+bi men si guo	闭门思过	1095
+bi shi bi shi	比试比试	1095
+bi li suo fang	比例缩放	1085
+bi jiao fa yan jiu	比较法研究	1076
+bi zhou zi zhen	敝帚自珍	1060
+bi xin	比心	1055
+bi bu liao	避不了	1050
+bi bi	避避	1045
+bi de guo	比得过	1045
+bi ji	哔叽	1045
+bi ji bu	笔记簿	1035
+bi de ge le	彼得格勒	1030
+bi qu jian	闭区间	1030
+bi jian er li	比肩而立	1025
+bi li yin zi	比例因子	1025
+bi yao shi qing	必要时请	1015
+bi ta	逼它	1010
+bi zhou	臂肘	1010
+bi ang si	碧昂丝	1005
+bi mian shuang chong zheng shui xie ding	避免双重征税协定	1005
+bi zhong ji	比重计	1000
+bi bao	壁报	999
+bi bo	毕剥	999
+bi gu	辟谷	999
+bi hai	弊害	999
+bi ji	避忌	999
+bi jian	鄙见	999
+bi keng	避坑	999
+bi run	笔润	999
+bi zang	壁葬	999
+bi tan	避谈	995
+bi yun yong ju	避孕用具	995
+bi dou e hai yuan	比窦娥还冤	985
+bi dou e yuan	比窦娥冤	985
+bi dao	避到	980
+bi sheng xin xin	必胜信心	980
+bi sheng xin nian	必胜信念	975
+bi ji jian ding	笔迹鉴定	965
+bi ran de shi	必然的事	960
+bi feng tou	避风头	950
+bi bi hua hua	比比画画	945
+bi duo li shao	弊多利少	940
+bi shui	避水	933
+bi jiao wang	比较旺	930
+bi shang guan	壁上观	930
+bi fen ling xian	比分领先	915
+bi ye ge	毕业歌	910
+bi fa	必罚	905
+bi ren er mu	避人耳目	905
+bi liang gu	鼻梁骨	900
+bi ti	蔽体	895
+bi zou long she	笔走龙蛇	885
+bi bang	敝帮	880
+bi bi feng tou	避避风头	875
+bi hui	笔会	874
+bi qing lian zhong	鼻青脸肿	872
+bi kao ti	必考题	870
+bi zhuan	壁砖	870
+bi wan	臂弯	852
+bi duan	避短	845
+bi li xi shu	比例系数	840
+bi yue	闭月	835
+bi bu ke mian	必不可免	830
+bi bei neng li	必备能力	825
+bi ke gui	闭壳龟	824
+bi mu se ting	闭目塞听	820
+bi suo zhuang zhi	闭锁装置	820
+bi ti	笔体	810
+bi jia	鼻甲	800
+bi luo huang quan	碧落黄泉	800
+bi ma zi	蓖麻籽	795
+bi she	毕设	789
+bi ji ben bao jia	笔记本报价	780
+bi zhu hai	比猪还	777
+bi sai huan jing	比赛环境	775
+bi xiong quan	比熊犬	775
+bi huan	鼻环	765
+bi si	敝寺	765
+bi ci xie tiao	彼此协调	760
+bi guan zheng ce	闭关政策	755
+bi hai shen	比海深	755
+bi shu wu yi	必输无疑	755
+bi li niu si shan	比利牛斯山	750
+bi zhen xing	逼真性	750
+bi lan se	碧蓝色	740
+bi mu shi	闭幕时	730
+bi wu dao	比武岛	728
+bi xia ci	碧霞祠	715
+bi yuan	闭园	707
+bi jia	笔夹	705
+bi nang	笔囊	705
+bi zhu	比诸	705
+bi chi	碧池	700
+bi zha	笔札	700
+bi zi jian	鼻子尖	695
+bi ji ben qu dong	笔记本驱动	685
+bi li mo xing	比例模型	685
+bi shui qing shan	碧水青山	685
+bi li bu bian	比例不变	680
+bi yin jie	闭音节	680
+bi shao	比绍	670
+bi ling	必灵	666
+bi cao ru yin	碧草如茵	665
+bi hu zhe	庇护着	635
+bi re	避热	625
+bi gu	鼻骨	620
+bi li qiu jing	笔力遒劲	620
+bi si kai wan	比斯开湾	615
+bi hai qing tian ye ye xin	碧海青天夜夜心	585
+bi gu gu zhe	鼻骨骨折	571
+bi hai qing tian	碧海青天	570
+bi si zhi xin	必死之心	555
+bi feng tang	避风塘	546
+bi jiao fan rong	比较繁荣	545
+bi zi yan jing	鼻子眼睛	540
+bi ya di ji tuan	比亚迪集团	538
+bi duo chun	吡哆醇	535
+bi ye liu nian	毕业留念	530
+bi dan	笔胆	520
+bi kong chao tian	鼻孔朝天	520
+bi yi shi	彼一时	520
+bi yun lv	避孕率	520
+bi ji ben xing	笔记本型	505
+bi you yi de	必有一得	505
+bi kan shu hao	比看书好	500
+bi ru xian	比如县	500
+bi zhi gai ge	币制改革	500
+bi sheng dou	毕生都	495
+bi yao qian ti	必要前提	487
+bi gao xia	比高下	485
+bi jia	壁架	485
+bi xue gan bang	比学赶帮	485
+bi yun ce yun	避孕测孕	485
+bi li shi dui	比利时队	480
+bi kao	必靠	475
+bi xi	敝屣	475
+bi ji ni yong yi	比基尼泳衣	470
+bi zhi ze ji	避之则吉	465
+bi li shi qiao ke li	比利时巧克力	462
+bi yi bu xie	鄙夷不屑	460
+bi jiao chou	比较臭	456
+bi kong wan li	碧空万里	455
+bi mo guan si	笔墨官司	455
+bi xian guo dang	避险过当	455
+bi jie di qu	毕节地区	452
+bi qiong	比穷	450
+bi you yi shang	必有一伤	450
+bi ming	毕命	444
+bi xue gan bang chao	比学赶帮超	440
+bi yi	比翼	433
+bi you da yi	必有大疫	432
+bi bu jian mian	避不见面	430
+bi ding jia suan	吡啶甲酸	425
+bi liu	碧柳	425
+bi xu di fang	必须提防	425
+bi ke ji	闭壳肌	419
+bi ding ji	吡啶基	415
+bi ji ben shi	笔记本式	415
+bi li si	碧利斯	415
+bi lu bian	壁炉边	415
+bi xia sheng hua	笔下生花	410
+bi yan yan	鼻咽炎	410
+bi you fang cao	必有芳草	410
+bi te la ke	彼特拉克	405
+bi xi	碧溪	401
+bi xing	敝姓	400
+bi zai	彼在	400
+bi shan gao	比山高	395
+bi gen dong	毕根东	385
+bi gu	秕谷	385
+bi gu zi	秕谷子	385
+bi men du shu	闭门读书	385
+bi xiao lin	毕肖林	385
+bi li niu si shan mai	比利牛斯山脉	380
+bi shu min	毕淑敏	372
+bi zhi yan	闭只眼	370
+bi li	薜荔	369
+bi xuan	比选	369
+bi gai	笔盖	367
+bi mian xing	避免性	366
+bi pang	比胖	365
+bi zhai	避债	365
+bi ci zhao ying	彼此照应	360
+bi ting	必停	360
+bi fen shu	比分数	355
+bi lu ren	秘鲁人	355
+bi ran shi jian	必然事件	355
+bi shi xun huan	闭式循环	350
+bi zhou	敝帚	350
+bi bu	裨补	340
+bi shui	必睡	333
+bi zhang	壁障	333
+bi ju	鼻疽	330
+bi luo jing feng yu	笔落惊风雨	330
+bi bu de yi	逼不得已	326
+bi duo quan	吡哆醛	325
+bi gong xin	逼供信	325
+bi mi tian	比蜜甜	320
+bi lu jia	壁炉架	315
+bi kou bu yan	闭口不言	310
+bi ju qi yi	必居其一	305
+bi kou he tong	闭口合同	305
+bi nan chu	避难处	305
+bi ran xing yu ou ran xing	必然性与偶然性	305
+bi shan	壁扇	305
+bi she	笔舌	305
+bi yun dong	碧云洞	305
+bi gu qi gen ben	必固其根本	304
+bi jian jie zhong	比肩接踵	300
+bi li shi pi jiu	比利时啤酒	298
+bi shi er ji xu	避实而击虚	295
+bi zi zui ba	鼻子嘴巴	290
+bi xu zhan	必须站	287
+bi ji te zheng	笔迹特征	280
+bi zhao ban li	比照办理	280
+bi qi rui qi	避其锐气	275
+bi ren min	比人民	275
+bi kai wei xian	避开危险	270
+bi yue	璧月	270
+bi ni	避匿	265
+bi ye wu	笔业务	263
+bi duo shao	比多少	260
+bi er bu zhan	避而不战	260
+bi fa	笔伐	260
+bi hai	碧海	260
+bi peng gui ze	避碰规则	260
+bi le bi yan	闭了闭眼	256
+bi ming	币名	255
+bi jue feng qing	弊绝风清	253
+bi shui	比谁	250
+bi si yu	必死于	250
+bi suo hua	闭锁花	246
+bi mu dian li	闭幕典礼	235
+bi ran ming yun	必然命运	230
+bi sha chu	碧纱橱	230
+bi zhong ge	鼻中隔	229
+bi fei yong	笔费用	225
+bi yi nian	比一年	223
+bi dian	必点	222
+bi jia	臂甲	222
+bi jiao xi	比较细	222
+bi ren	敝人	222
+bi zhang	蔽障	222
+bi zhi	笔致	222
+bi luo wan tong	吡咯烷酮	221
+bi shou qi luan	必受其乱	220
+bi xian yu zhi	必先与之	220
+bi zhong yao	比重要	218
+bi li bian huan	比例变换	217
+bi jun qi quan yuan	必浚其泉源	216
+bi yi fei	比翼飞	215
+bi jiao li yi	比较利益	211
+bi jiao xing	比较性	208
+bi chun gou	鼻唇沟	207
+bi da ge la si ding li	毕达哥拉斯定理	200
+bi ji fang	碧鸡坊	200
+bi li ji weng	毕力吉翁	200
+bi ling	比零	200
+bi bi yu	避避雨	197
+bi shui lan shan	碧水蓝山	196
+bi li ya lei	比利亚雷	195
+bi xuan guang	比旋光	195
+bi yun lu	碧云路	195
+bi li ya lei ya er	比利亚雷亚尔	193
+bi shui gong cheng	碧水工程	193
+bi zi tang	避子汤	193
+bi wo er	比沃尔	192
+bi bi feng	避避风	190
+bi du shu	必读书	190
+bi jia	逼嫁	190
+bi mian cuo guo	避免错过	190
+bi xing	嬖幸	190
+bi shi bao ming	笔试报名	188
+bi jing dong liu qu	毕竟东流去	187
+bi hui jiang shan	笔绘江山	186
+bi le fei er de	比勒费尔德	183
+bi sai di er	比赛第二	182
+bi zi	婢子	181
+bi er bu xian	蔽而不显	180
+bi kang	秕糠	180
+bi qu nian gao	比去年高	180
+bi ye ge hui	毕业歌会	180
+bi zhe jin lai	笔者近来	180
+bi sai jia you	比赛加油	179
+bi shi mian shi	笔试面试	179
+bi mian lang fei	避免浪费	178
+bi xian zi gong	必先自宫	178
+bi shou qiang	匕首枪	175
+bi can da hui	比惨大会	174
+bi ye nian ji	毕业年级	174
+bi hu man bu	壁虎漫步	173
+bi liu he	碧流河	172
+bi yong bo	比永博	172
+bi feng lu	笔峰路	171
+bi bu chu	逼不出	170
+bi er jin	比尔金	168
+bi lei fen ming	壁垒分明	168
+bi ye shi	毕业诗	168
+bi xuan ti	必选题	167
+bi an qi	比安奇	165
+bi lu han liu	秘鲁寒流	165
+bi yao de rang bu	必要的让步	165
+bi jian shen ming	比肩神明	164
+bi ji jie dao	碧鸡街道	161
+bi bi sai	比比赛	160
+bi hong wei	毕宏伟	158
+bi jiao yan jun	比较严峻	158
+bi xu zhi fang suan	必需脂肪酸	157
+bi jiao wen tuo	比较稳妥	155
+bi la xie er	比拉谢尔	151
+bi shang bu zu bi xia you yu	比上不足比下有余	151
+bi jiao hou	比较后	150
+bi jiao guang gao	比较广告	148
+bi qing lu	璧青路	145
+bi shi cheng ji	笔试成绩	145
+bi zuo tong	吡唑酮	145
+bi huo tu	避火图	144
+bi gao wen	避高温	143
+bi xu yan cheng	必须严惩	142
+bi bi fan	笔笔返	140
+bi bu qi	比不起	140
+bi zai dian	避灾点	139
+bi yao shi ke	必要时刻	137
+bi lan dang an	碧蓝档案	135
+bi shi zhe	笔试者	135
+bi cheng	碧澄	132
+bi xu dao wei	必须到位	132
+bi yan fei	碧研菲	132
+bi zhong ge pian qu	鼻中隔偏曲	131
+bi qu nian hao	比去年好	130
+bi che lei ma	敝车羸马	128
+bi che nu ma	敝车驽马	128
+bi shui hua cheng	碧水花城	127
+bi te yi	比特易	126
+bi xu tian	必须填	126
+bi you xian zi	碧游仙子	126
+bi yun yao mo	避孕药膜	125
+bi jie he neng	比结合能	124
+bi sai bao ming	比赛报名	124
+bi cao sheng quan	必操胜券	123
+bi he qu xian ji fen	闭合曲线积分	123
+bi jiao cao	比较糙	123
+bi jiao chong	比较冲	123
+bi jiao chou	比较丑	123
+bi jiao cu	比较粗	123
+bi jiao cuo	比较矬	123
+bi jiao fei	比较肥	123
+bi jiao hua	比较滑	123
+bi jiao huai	比较坏	123
+bi jiao ji	比较急	123
+bi jiao jiu	比较旧	123
+bi jiao ku	比较苦	123
+bi jiao la	比较辣	123
+bi jiao lan	比较烂	123
+bi jiao lao	比较老	123
+bi jiao lei	比较累	123
+bi jiao mei	比较美	123
+bi jiao nao	比较孬	123
+bi jiao nen	比较嫩	123
+bi jiao qing	比较轻	123
+bi jiao ruan	比较软	123
+bi jiao se	比较涩	123
+bi jiao shou	比较瘦	123
+bi jiao shun	比较顺	123
+bi jiao song	比较松	123
+bi jiao suan	比较酸	123
+bi jiao sun	比较损	123
+bi jiao tian	比较甜	123
+bi jiao xian	比较咸	123
+bi jiao xian	比较鲜	123
+bi jiao xiang	比较香	123
+bi jiao xu	比较虚	123
+bi jiao ying	比较硬	123
+bi mao	笔毛	123
+bi sa ka	比萨卡	123
+bi xin ye	毕鑫业	123
+bi jiao se	比较色	122
+bi you cun	碧游村	122
+bi ran xing tui li	必然性推理	120
+bi xu gei	必须给	120
+bi jiao fa xue	比较法学	117
+bi te pai	比特派	117
+bi you yong fu	必有勇夫	117
+bi an dao	彼岸岛	116
+bi sheng zhi yan	毕生之研	116
+bi jiao you cai	比较有才	115
+bi you wo shi yan	必有我师焉	115
+bi du shu mu	必读书目	112
+bi jie tang yuan	毕节汤圆	112
+bi ai	嬖爱	111
+bi cao	必操	111
+bi chong	避铳	111
+bi dian	闭店	111
+bi fen	必分	111
+bi gong	笔供	111
+bi he	必合	111
+bi hu	必糊	111
+bi jia	闭架	111
+bi jiao xi	比较稀	111
+bi jie	必解	111
+bi ke	比克	111
+bi po	必破	111
+bi qiu	壁球	111
+bi ren	鄙人	111
+bi shu xing	必输性	111
+bi shui	鼻水	111
+bi ting	闭庭	111
+bi wai	壁外	111
+bi yun	碧云	111
+bi zhan	臂展	111
+bi bi ba ba	哔哔叭叭	110
+bi ji ni xiu	比基尼秀	110
+bi li shui zhi	比例税制	109
+bi ye ri qi	毕业日期	109
+bi yao gong tong su song ren	必要共同诉讼人	108
+bi bing	鼻病	107
+bi xia yuan jun	碧霞元君	107
+bi xu jin xing dou zheng	必须进行斗争	107
+bi an you jing	彼岸游境	106
+bi bo xian zi	碧波仙子	106
+bi quan jie dao	璧泉街道	105
+bi tou fa	篦头发	105
+bi xia lai	比下来	105
+bi yi bian	篦一遍	105
+bi zu	逼租	105
+bi ci xin ren	彼此信任	104
+bi hai geng shen	比海更深	104
+bi xu dai kou zhao	必须戴口罩	104
+bi men peng hu	荜门蓬户	101
+bi ai la	比埃拉	100
+bi ai xin	比爱心	100
+bi ai zi ba bo	比埃兹巴伯	100
+bi an hua	彼岸花	100
+bi an hua kai	彼岸花开	100
+bi an ling	狴犴令	100
+bi ban er	逼班儿	100
+bi bang shang	臂膀上	100
+bi bao bi sai	壁报比赛	100
+bi bao mo han	笔饱墨酣	100
+bi bei gu shi	必背古诗	100
+bi bei gu shi wen	必背古诗文	100
+bi bei liang yao	必备良药	100
+bi bi jie ran	比比皆然	100
+bi bi lai lai	逼逼赖赖	100
+bi bi liang ju	逼逼两句	100
+bi bi niao	比比鸟	100
+bi bi pa pa	哔哔啪啪	100
+bi bi sha	哔哔啥	100
+bi bi sha	逼逼啥	100
+bi bi sheng	哔哔声	100
+bi bie ren dou	比别人都	100
+bi bo long	碧波龙	100
+bi bo xing	碧波行	100
+bi bu de	比不得	100
+bi bu guo a	比不过啊	100
+bi bu guo ni	比不过你	100
+bi bu ke neng	必不可能	100
+bi bu ke shao de yi huan	必不可少的一环	100
+bi bu ke shao zu cheng	必不可少组成	100
+bi bu liao la	比不了啦	100
+bi bu liao ya	比不了呀	100
+bi bu liao ye	毕不了业	100
+bi bu liao zui	闭不了嘴	100
+bi bu shang le	比不上了	100
+bi bu shi	必不是	100
+bi bu shi shen me hao shi	必不是什么好事	100
+bi bu zuo da	避不作答	100
+bi can zao hua	笔参造化	100
+bi chang bu jing	匕鬯不惊	100
+bi chang chun	毕长春	100
+bi chang ci he	彼倡此和	100
+bi chang ci he	彼唱此和	100
+bi chao shi pian yi	比超市便宜	100
+bi cheng cheng	碧澄澄	100
+bi cheng qi zhong	必承其重	100
+bi chi shen me	比吃什么	100
+bi chu dao	必出道	100
+bi chu jin	必出金	100
+bi chu lai de	逼出来的	100
+bi chu ni	苾刍尼	100
+bi chu qu	逼出去	100
+bi ci cheng zhang	彼此成长	100
+bi ci de guan dian	彼此的观点	100
+bi ci de guan xi	彼此的关系	100
+bi ci de zun zhong	彼此的尊重	100
+bi ci dong de	彼此懂得	100
+bi ci dou zhi dao	彼此都知道	100
+bi ci guan xi	彼此关系	100
+bi ci ke zhi	彼此克制	100
+bi ci zhen zhong	彼此珍重	100
+bi ci zhi jian de guan xi	彼此之间的关系	100
+bi ci zun zhong	彼此尊重	100
+bi cong se ming	蔽聪塞明	100
+bi cui ke si	毕翠克丝	100
+bi da ka	必打卡	100
+bi da ka di	必打卡地	100
+bi da ka zhi di	必打卡之地	100
+bi da ru chuan	笔大如椽	100
+bi dai er	笔袋儿	100
+bi dai li	笔袋里	100
+bi dai yu	比待遇	100
+bi dai yu yue bi xin xiong yue zhai	比待遇越比心胸越窄	100
+bi dan keng	避弹坑	100
+bi dan yi	避弹衣	100
+bi dao da zhong dian geng mei hao	比到达终点更美好	100
+bi dao jue lu	逼到绝路	100
+bi dao le	逼到了	100
+bi dao le qiang jiao	逼到了墙角	100
+bi dao zhi di	必到之地	100
+bi de bao lian	彼得堡联	100
+bi de bo le	彼得伯勒	100
+bi de da di hao	彼得大帝号	100
+bi de da di wan	彼得大帝湾	100
+bi de de lu ke	彼得德鲁克	100
+bi de ge shi	比得哥什	100
+bi de han sai er	彼得汉塞尔	100
+bi de hou shu	彼得后书	100
+bi de la er ka	彼得拉尔卡	100
+bi de luo	彼得罗	100
+bi de luo fu	彼得罗夫	100
+bi de luo wei qi	彼得洛维奇	100
+bi de luo wei qi	彼得罗维奇	100
+bi de man	彼得曼	100
+bi de mo la ke	彼得莫拉克	100
+bi de pan	彼得潘	100
+bi de pan ling	彼得潘领	100
+bi de qian shu	彼得前书	100
+bi de san shi	彼得三世	100
+bi de sen	彼得森	100
+bi de si	彼得斯	100
+bi de tai ji	逼得太急	100
+bi de tai jin	逼得太紧	100
+bi de tu	彼得兔	100
+bi de tu	比得兔	100
+bi de wang sheng	必得往生	100
+bi de yuan li	彼得原理	100
+bi de zou tou wu lu	逼得走投无路	100
+bi de zou tou wu lu le	逼得走投无路了	100
+bi di li	比迪丽	100
+bi di sheng hua	笔底生花	100
+bi diao le	毙掉了	100
+bi ding bu ge	必定不鸽	100
+bi ding bu hui	必定不会	100
+bi ding cheng zhen	必定成真	100
+bi ding hui fu chu	必定会付出	100
+bi ding jia suan xin	吡啶甲酸锌	100
+bi ding ka si	必定卡死	100
+bi ding ke yi	必定可以	100
+bi ding lin	吡啶啉	100
+bi ding liu tong xin	吡啶硫酮锌	100
+bi ding you	必定有	100
+bi ding you gong	必定有功	100
+bi ding yu wo	必定与我	100
+bi dou rang ni zhuang le	逼都让你装了	100
+bi du de	必读的	100
+bi du ke	比度克	100
+bi du wan	避毒丸	100
+bi duan zai yu	弊端在于	100
+bi dui fa	比对法	100
+bi dui fu cha	比对复查	100
+bi e hui jin	鼻垩挥斤	100
+bi er bo	比尔博	100
+bi er bu dang	比而不党	100
+bi er bu zhou	比而不周	100
+bi er hou yi	毙而后已	100
+bi er ji wo te	比尔吉沃特	100
+bi er mu	彼尔姆	100
+bi er yuan zhi	避而远之	100
+bi fan fu li	必翻福利	100
+bi fan jiu jian	避繁就简	100
+bi fang niao	毕方鸟	100
+bi fang shang you	彼方尚有	100
+bi fang shang you rong guang	彼方尚有荣光	100
+bi fei du	比飞度	100
+bi fen die	碧粉蝶	100
+bi fen luo hou	比分落后	100
+bi fen luo hou shi	比分落后时	100
+bi feng chu	避风处	100
+bi feng die	碧凤蝶	100
+bi feng le	逼疯了	100
+bi feng tai	避风台	100
+bi fo li shan	比佛利山	100
+bi fu jian	毕福剑	100
+bi gan jin	比干劲	100
+bi gan le	滗干了	100
+bi gan miao	比干庙	100
+bi gan pou xin	比干剖心	100
+bi gan sai	比杆赛	100
+bi gan wa xin	比干挖心	100
+bi gao di	比高低	100
+bi ge da ge er ge	比个大哥二哥	100
+bi ge gao di	比个高低	100
+bi ge gao xia	比个高下	100
+bi ge mi	俾格米	100
+bi ge san ding	鼻歌三丁	100
+bi ge san ding jian wei zhan	鼻歌三丁箭尾斩	100
+bi gong bi jing	必恭必敬	100
+bi gong bu cheng	逼宫不成	100
+bi gong cuan wei	逼宫篡位	100
+bi gong lv	比功率	100
+bi gong you xu	閟宫有侐	100
+bi gu dan	辟谷丹	100
+bi gu jian fei	辟谷减肥	100
+bi gu jue li	辟谷绝粒	100
+bi gu qi	辟谷期	100
+bi gu qi jian	辟谷期间	100
+bi gu yang sheng	辟谷养生	100
+bi gua fang li	避瓜防李	100
+bi gua kong tiao	壁挂空调	100
+bi gua lu	壁挂炉	100
+bi gua shi kong tiao	壁挂式空调	100
+bi guan le	闭馆了	100
+bi guan mian	笔管面	100
+bi guan qu	闭关去	100
+bi guan que sao	闭关却扫	100
+bi guan xiu xing	闭关修行	100
+bi guang huan	碧光环	100
+bi guang zhu	避光珠	100
+bi gui yuan di chan	碧桂园地产	100
+bi guo lai	比过来	100
+bi guo lai	逼过来	100
+bi guo nei pian yi	比国内便宜	100
+bi guo qu	逼过去	100
+bi guo qu	避过去	100
+bi guo yong	毕国勇	100
+bi ha er bang	比哈尔邦	100
+bi hai cang tian	碧海苍天	100
+bi hai geng yao yuan	比海更遥远	100
+bi hai hai shen	比海还深	100
+bi hai jiu li	避害就利	100
+bi hai qing kong	碧海晴空	100
+bi he bi tuo	必和必拓	100
+bi he biao qian	闭合标签	100
+bi he zhu lian	璧合珠联	100
+bi he zhu lian	璧合珠连	100
+bi hen ren zai hen yi dian	比狠人再狠一点	100
+bi hou yan gan	币厚言甘	100
+bi hu da yue dui	壁虎大乐队	100
+bi hu guan men	闭户关门	100
+bi hu hua piao	比葫画瓢	100
+bi hu liu shi	庇护六世	100
+bi hu zhi di	庇护之地	100
+bi hua dong zuo	比画动作	100
+bi hua fan cha	笔画反查	100
+bi hua guo xiao	碧华国小	100
+bi hua guo zhong	碧华国中	100
+bi hua jian zi biao	笔画检字表	100
+bi hua shun xu	笔画顺序	100
+bi hua suo yin	笔画索引	100
+bi hua yi xia	比画一下	100
+bi huan kong zhi xi tong	闭环控制系统	100
+bi huan mo shi	闭环模式	100
+bi huan ti xi	闭环体系	100
+bi huan xi tong	闭环系统	100
+bi huan yun xing	闭环运行	100
+bi huang jin hai gui	比黄金还贵	100
+bi hui lai	逼回来	100
+bi hui qu	逼回去	100
+bi hun a	逼婚啊	100
+bi huo jiu fu	避祸就福	100
+bi ji ba du	碧姬芭杜	100
+bi ji ben chong zhuang xi tong	笔记本重装系统	100
+bi ji ben ji suan ji	笔记本计算机	100
+bi ji ben shang mian	笔记本上面	100
+bi ji ben wen du	笔记本温度	100
+bi ji ben xi tong	笔记本系统	100
+bi ji ben yu suan	笔记本预算	100
+bi ji hua	哔计划	100
+bi ji ku	笔记库	100
+bi ji man zhi	碧鸡漫志	100
+bi ji ni dao	比基尼岛	100
+bi ji ruan jian	笔记软件	100
+bi ji xiao shuo	笔记小说	100
+bi ji xing	笔记型	100
+bi ji xing dian nao	笔记型电脑	100
+bi jia cha jian	比价插件	100
+bi jia gu	鼻甲骨	100
+bi jia guan xi	比价关系	100
+bi jia qie chu shu	鼻甲切除术	100
+bi jia shi	闭架式	100
+bi jian er lin	比肩而邻	100
+bi jian ji zhong	比肩继踵	100
+bi jian wei dao	避箭畏刀	100
+bi jiang zuo you wei nan	必将左右为难	100
+bi jiao an dan	比较暗淡	100
+bi jiao an quan de di fang	比较安全的地方	100
+bi jiao cai	比较菜	100
+bi jiao cai de	比较菜的	100
+bi jiao chang jian	比较常见	100
+bi jiao chang jian de	比较常见的	100
+bi jiao chang jian de yi zhong	比较常见的一种	100
+bi jiao chang yong	比较常用	100
+bi jiao cui ruo	比较脆弱	100
+bi jiao dan diao	比较单调	100
+bi jiao de	比较的	100
+bi jiao di diao	比较低调	100
+bi jiao du	比较堵	100
+bi jiao duo lv	比较多虑	100
+bi jiao e	比较饿	100
+bi jiao e lie	比较恶劣	100
+bi jiao fan gan	比较反感	100
+bi jiao fen xi	比较分析	100
+bi jiao fo xi	比较佛系	100
+bi jiao guan xi	比较关系	100
+bi jiao guang fan	比较广泛	100
+bi jiao guo fen	比较过分	100
+bi jiao guo fen le	比较过分了	100
+bi jiao han jian	比较罕见	100
+bi jiao hao de	比较好的	100
+bi jiao hao de xiao guo	比较好的效果	100
+bi jiao hao qi a	比较好奇啊	100
+bi jiao hou	比较厚	100
+bi jiao hou hui	比较后悔	100
+bi jiao hou zhong	比较厚重	100
+bi jiao huo	比较火	100
+bi jiao huo de	比较火的	100
+bi jiao huo po	比较活泼	100
+bi jiao ji shi a	比较及时啊	100
+bi jiao jian	比较尖	100
+bi jiao jiang hua	比较僵化	100
+bi jiao jie di qi	比较接地气	100
+bi jiao jie sheng	比较节省	100
+bi jiao jie sheng shi jian	比较节省时间	100
+bi jiao jing ji xue	比较经济学	100
+bi jiao ka	比较卡	100
+bi jiao kan zhong	比较看重	100
+bi jiao kuai le	比较快乐	100
+bi jiao kun nan de	比较困难的	100
+bi jiao kun rao	比较困扰	100
+bi jiao la ji	比较垃圾	100
+bi jiao le guan	比较乐观	100
+bi jiao leng	比较冷	100
+bi jiao liang	比较凉	100
+bi jiao liu xing	比较流行	100
+bi jiao liu xing de shuo fa	比较流行的说法	100
+bi jiao ma fan	比较麻烦	100
+bi jiao nai yong	比较耐用	100
+bi jiao nan de	比较难得	100
+bi jiao nong	比较浓	100
+bi jiao pian yi	比较便宜	100
+bi jiao qi dai	比较期待	100
+bi jiao qi qu	比较崎岖	100
+bi jiao qiang	比较强	100
+bi jiao rong yi huo de	比较容易获得	100
+bi jiao shan chang	比较擅长	100
+bi jiao shen	比较深	100
+bi jiao shen zhong	比较慎重	100
+bi jiao sheng	比较省	100
+bi jiao sheng qian	比较省钱	100
+bi jiao sheng xin	比较省心	100
+bi jiao sheng xin de	比较省心的	100
+bi jiao sheng you	比较省油	100
+bi jiao shi	比较时	100
+bi jiao shi he	比较适合	100
+bi jiao shu shi	比较舒适	100
+bi jiao si wen	比较斯文	100
+bi jiao tiao pi	比较调皮	100
+bi jiao tong ku	比较痛苦	100
+bi jiao tu shu guan xue	比较图书馆学	100
+bi jiao wei nan	比较为难	100
+bi jiao wen dang	比较稳当	100
+bi jiao wen xue	比较文学	100
+bi jiao wen zhong	比较稳重	100
+bi jiao wu nai	比较无奈	100
+bi jiao xi guan	比较习惯	100
+bi jiao xi guan yi dian	比较习惯一点	100
+bi jiao xi huan de	比较喜欢的	100
+bi jiao xi tong	比较系统	100
+bi jiao xin	比较新	100
+bi jiao xin de guo	比较信得过	100
+bi jiao yan jiu	比较研究	100
+bi jiao yi	比较仪	100
+bi jiao you ming qi de	比较有名气的	100
+bi jiao you shi	比较优势	100
+bi jiao zhao ji	比较着急	100
+bi jiao zheng shi	比较正式	100
+bi jiao zhi de	比较值得	100
+bi jiao zhong shi	比较重视	100
+bi jiao zhu zhong	比较注重	100
+bi jie wo ying	彼竭我盈	100
+bi jin lai	逼进来	100
+bi jin qu	逼进去	100
+bi jing bu shi	毕竟不是	100
+bi jing bu shi shen me	毕竟不是什么	100
+bi jing ceng jing xiang ai guo	毕竟曾经相爱过	100
+bi jing di	必经地	100
+bi jing hai zi hai xiao	毕竟孩子还小	100
+bi jing ji ren zhen de lu	毕竟几人真得鹿	100
+bi jing na	毕竟那	100
+bi jing na suan	毕竟那算	100
+bi jing na suan ge	毕竟那算个	100
+bi jing ni	毕竟你	100
+bi jing ni ye	毕竟你也	100
+bi jing ru keng	避井入坑	100
+bi jing shi ceng jing	毕竟是曾经	100
+bi jing shi lao le	毕竟是老了	100
+bi jing shi zhu jue	毕竟是主角	100
+bi jing ta	毕竟他	100
+bi jing ta ye	毕竟他也	100
+bi jing wo	毕竟我	100
+bi jing wo ye	毕竟我也	100
+bi jing ye shi ge	毕竟也是个	100
+bi jing zai yu le quan	毕竟在娱乐圈	100
+bi jing zhang bei	毕竟长辈	100
+bi jing zhi dao	必经之道	100
+bi jing zhi shi ge	毕竟只是个	100
+bi juan kao	闭卷考	100
+bi jun san she	辟君三舍	100
+bi ka qiu	比卡丘	100
+bi ka suo	毕卡索	100
+bi kai chu xing gao feng	避开出行高峰	100
+bi kai le	避开了	100
+bi kan de	必看的	100
+bi ke da mo wang	比克大魔王	100
+bi ke ti ni	比克提尼	100
+bi ke yi	必可以	100
+bi keng jian yi	避坑建议	100
+bi keng luo jing	避坑落井	100
+bi keng zhi nan	避坑指南	100
+bi kong hang qing	逼空行情	100
+bi kong lv	闭孔率	100
+bi kong qi zhong	比空气重	100
+bi kou bu da	闭口不答	100
+bi kou bu fen	鼻口部分	100
+bi kou bu shuo	闭口不说	100
+bi kou bu shuo hua	闭口不说话	100
+bi kou wu yan	闭口无言	100
+bi ku hai nan kan	比哭还难看	100
+bi kun tong	碧坤通	100
+bi la duo	彼拉多	100
+bi la ti si	彼拉提斯	100
+bi lai bi qu	逼来逼去	100
+bi lan lun	比烂论	100
+bi lao ye	毕姥爷	100
+bi le fei er de ying yong ke xue da xue	比勒费尔德应用科学大学	100
+bi le gou	哔了狗	100
+bi le ni	毙了你	100
+bi le yan	闭了眼	100
+bi le ye	毕了业	100
+bi le ye le	毕了业了	100
+bi le zui	闭了嘴	100
+bi lei xian	避雷线	100
+bi lei yi xin	壁垒一新	100
+bi leng leng	碧冷冷	100
+bi li bi li	哔哩哔哩	100
+bi li bi li dan mu wang	哔哩哔哩弹幕网	100
+bi li bu xie tiao	比例不协调	100
+bi li dai biao zhi	比例代表制	100
+bi li dan jing	毕力殚精	100
+bi li de	比例的	100
+bi li duo	薜荔多	100
+bi li gang ding	笔力扛鼎	100
+bi li gui	比例规	100
+bi li hao	比例号	100
+bi li jin	必利劲	100
+bi li jin xiao guo	必利劲效果	100
+bi li niu si	庇里牛斯	100
+bi li niu si	比利牛斯	100
+bi li niu si shan	庇里牛斯山	100
+bi li pa la	哔里啪啦	100
+bi li qian jun	笔力千钧	100
+bi li shi	比例式	100
+bi li si fu fa	比例伺服阀	100
+bi li tiao jie	比例调节	100
+bi li tiao jie fa	比例调节阀	100
+bi li tiao zheng	比例调整	100
+bi li tong xin	毕力同心	100
+bi li wan jun	笔力万钧	100
+bi li xian gua	避李嫌瓜	100
+bi li xie tiao	比例协调	100
+bi li yan zhong shi tiao	比例严重失调	100
+bi li yun chen	比例匀称	100
+bi li zhong xiang	比例中项	100
+bi lian hai da	比脸还大	100
+bi lian hui	毕联会	100
+bi lin er ju	比邻而居	100
+bi liu jie qiang	比六节强	100
+bi lu a lei ji pa sheng dian	秘鲁阿雷基帕圣殿	100
+bi lu dian shi jian kong xi tong	闭路电视监控系统	100
+bi lu dian shi xi tong	闭路电视系统	100
+bi lu jian kong xi tong	闭路监控系统	100
+bi lu pu si	比卢普斯	100
+bi lu shou du li ma	秘鲁首都利马	100
+bi lu si	比鲁斯	100
+bi lu zhi jie fang jun	俾路支解放军	100
+bi lu zhi sheng	俾路支省	100
+bi luo hai	碧落海	100
+bi luo ke tong yi chun an yan	吡罗克酮乙醇胺盐	100
+bi luo ti ni	吡咯替尼	100
+bi luo wan	吡咯烷	100
+bi lv de cao di	碧绿的草地	100
+bi ma du su	蓖麻毒素	100
+bi ma tong hai zang	比马桶还脏	100
+bi ma wei	毕马威	100
+bi mai	闭麦	100
+bi mai bang	必买榜	100
+bi mei you qiang	比没有强	100
+bi men bu na	闭门不纳	100
+bi men du ke	闭门杜客	100
+bi men gui dou	筚门闺窦	100
+bi men lou xiang	筚门陋巷	100
+bi men mi ju	闭门觅句	100
+bi men que sao	闭门却扫	100
+bi men se dou	闭门塞窦	100
+bi mi hai tian	比蜜还甜	100
+bi mi tang	滗米汤	100
+bi mian chang shi jian	避免长时间	100
+bi mian chong dao fu zhe	避免重蹈覆辙	100
+bi mian chong fu	避免重复	100
+bi mian chong fu jian she	避免重复建设	100
+bi mian chu xing	避免出行	100
+bi mian chuan ran	避免传染	100
+bi mian dan diao	避免单调	100
+bi mian de	避免的	100
+bi mian dui kang	避免对抗	100
+bi mian e xing jing zheng	避免恶性竞争	100
+bi mian guo du jin zhang	避免过度紧张	100
+bi mian guo du lao lei	避免过度劳累	100
+bi mian guo du pi lao	避免过度疲劳	100
+bi mian zhao liang	避免着凉	100
+bi ming se cong	蔽明塞聪	100
+bi mo nan yi xing rong	笔墨难以形容	100
+bi mo sheng ya	笔墨生涯	100
+bi mo zhen qi	笔墨畛畦	100
+bi mou xie ren	比某些人	100
+bi mu dai si	闭目待死	100
+bi mu yin yue hui	闭幕音乐会	100
+bi na ge	比那个	100
+bi na ge qiang	比那个强	100
+bi na ge qiang duo	比那个强多	100
+bi na ge qiang duo le	比那个强多了	100
+bi na xia	必拿下	100
+bi na xie	比那些	100
+bi nan quan	避难权	100
+bi nan tong	吡喃酮	100
+bi neng shi hang zhen he mu	必能使行阵和睦	100
+bi ni cong ming	比你聪明	100
+bi ni cong ming duo le	比你聪明多了	100
+bi ni de	比你的	100
+bi ni dong	比你懂	100
+bi ni duo dian	比你多点	100
+bi ni duo yi dian	比你多一点	100
+bi ni geng cha	比你更差	100
+bi ni geng dong	比你更懂	100
+bi ni geng gao	比你更高	100
+bi ni geng qiang	比你更强	100
+bi ni hai cha	比你还差	100
+bi ni hai di	比你还低	100
+bi ni hai dong	比你还懂	100
+bi ni hai nu li	比你还努力	100
+bi ni hai ruo	比你还弱	100
+bi ni hai xun	比你还逊	100
+bi ni hai you	比你还有	100
+bi ni hai you ben shi	比你还有本事	100
+bi ni jiu fan	逼你就范	100
+bi ni lao	比你老	100
+bi ni ma fan	比你麻烦	100
+bi ni ma fan dian	比你麻烦点	100
+bi ni man	陛尼曼	100
+bi ni men	比你们	100
+bi ni men qiang	比你们强	100
+bi ni na ge	比你那个	100
+bi ni qiang	比你强	100
+bi ni qing chu	比你清楚	100
+bi ni xiao	比你小	100
+bi ni xuan ze	逼你选择	100
+bi nian bu deng	比年不登	100
+bi nian mo yan	鼻黏膜炎	100
+bi niu er	鼻牛儿	100
+bi nuo shi	比诺什	100
+bi nv ren hai mei	比女人还美	100
+bi nv ren hai nv ren	比女人还女人	100
+bi pin	比拼	100
+bi pin su du	比拼速度	100
+bi qi lai	逼起来	100
+bi qi na ge	比起那个	100
+bi qi shu	荸荠属	100
+bi qi ta di fang	比其他地方	100
+bi qi wo qu	彼弃我取	100
+bi qi zhe ge	比起这个	100
+bi qian ke	壁钱科	100
+bi qian zhu	壁钱蛛	100
+bi qiang du	比强度	100
+bi qiang du gao	比强度高	100
+bi qiang gan zao	鼻腔干燥	100
+bi qiang pen wu qi	鼻腔喷雾器	100
+bi qiang zi bao	彼强自保	100
+bi qin er zi	比亲儿子	100
+bi qin er zi dou	比亲儿子都	100
+bi qin er zi dou qin	比亲儿子都亲	100
+bi qin er zi hai qin	比亲儿子还亲	100
+bi qin ma hai qin	比亲妈还亲	100
+bi qin tong	吡嗪酮	100
+bi qiu jie	比丘戒	100
+bi qiu ni jie	比丘尼戒	100
+bi qiu shou	比丘兽	100
+bi qu ge	笔趣阁	100
+bi qu nian di	比去年低	100
+bi qu nian di hao duo	比去年低好多	100
+bi qu nian di le	比去年低了	100
+bi qu nian gao hao duo	比去年高好多	100
+bi qu nian gao le	比去年高了	100
+bi qu nian nan	比去年难	100
+bi qu zhi di	必去之地	100
+bi quan liang li	比权量力	100
+bi quan luan	币圈乱	100
+bi quan zhen luan	币圈真乱	100
+bi ran bu tuo	必然不妥	100
+bi ran de	必然地	100
+bi ran de	必然的	100
+bi ran de	碧然德	100
+bi ran de lian xi	必然的联系	100
+bi ran de yin guo guan xi	必然的因果关系	100
+bi ran guan xi	必然关系	100
+bi ran hui shi	必然会使	100
+bi ran hui shi	必然会是	100
+bi ran hui shi zhe zhong jie ju	必然会是这种结局	100
+bi ran jiu shi	必然就是	100
+bi ran jiu shi yuan yu	必然就是源于	100
+bi ran neng	必然能	100
+bi ran ru ci	必然如此	100
+bi ran shi lei si yu	必然是类似于	100
+bi ran wang guo	必然王国	100
+bi ran yao	必然要	100
+bi ran you	必然有	100
+bi ran zhi shi	必然之事	100
+bi ran zhi shi	必然之势	100
+bi rang xing ren	避让行人	100
+bi re fa	比热法	100
+bi ren duo	比人多	100
+bi ren he ren	比任何人	100
+bi ren he ren dou	比任何人都	100
+bi ren he ren dou ke ku	比任何人都刻苦	100
+bi ren zhi shi	辟人之士	100
+bi ri gan xiao	蔽日干霄	100
+bi ri gan yun	蔽日干云	100
+bi ri zhe tian	蔽日遮天	100
+bi rou hai gui	比肉还贵	100
+bi rou hai hao chi	比肉还好吃	100
+bi ru chong qing	比如重庆	100
+bi ru gong hang	比如工行	100
+bi ru hang ye	比如行业	100
+bi ru quan yong	笔如泉涌	100
+bi ru shui jiao	比如睡觉	100
+bi ru shuo na ge	比如说那个	100
+bi ru shuo na ge shen me	比如说那个什么	100
+bi ru su du	比如速度	100
+bi ru ta	比如他	100
+bi rui hao	比睿号	100
+bi rui hao zhan lie jian	比睿号战列舰	100
+bi sai can sai	比赛参赛	100
+bi sai de	比赛的	100
+bi sai de fen	比赛得分	100
+bi sai de ji lie cheng du	比赛的激烈程度	100
+bi sai de jing cai cheng du	比赛的精彩程度	100
+bi sai de qiang du	比赛的强度	100
+bi sai de shi hou	比赛的时候	100
+bi sai de yi bu fen	比赛的一部分	100
+bi sai de zhong yao xing	比赛的重要性	100
+bi sai di	比赛地	100
+bi sai di tu	比赛地图	100
+bi sai gan jue	比赛感觉	100
+bi sai gui mo	比赛规模	100
+bi sai hai mei jie shu	比赛还没结束	100
+bi sai hai mei you jie shu	比赛还没有结束	100
+bi sai jie shu le	比赛结束了	100
+bi sai jin xing dao di san jie	比赛进行到第三节	100
+bi sai jin xing dao di si jie	比赛进行到第四节	100
+bi sai jin xing shi	比赛进行时	100
+bi sai jin xing zhong	比赛进行中	100
+bi sai jing cai cheng du	比赛精彩程度	100
+bi sai kai shi le	比赛开始了	100
+bi sai le	比赛了	100
+bi sai ma	比赛吗	100
+bi sai mi du	比赛密度	100
+bi sai mo shi	比赛模式	100
+bi sai nan du	比赛难度	100
+bi sai qiang du	比赛强度	100
+bi sai qu xiao le	比赛取消了	100
+bi sai shang	比赛上	100
+bi sai shi chang	比赛时长	100
+bi sai su du	比赛速度	100
+bi sai tai du	比赛态度	100
+bi sai wan le	比赛完了	100
+bi sai xi tong	比赛系统	100
+bi sai yi jing guo le	比赛已经过了	100
+bi sai yin yue	比赛音乐	100
+bi sai zhi bo	比赛直播	100
+bi sai zhi du	比赛制度	100
+bi sao qian bing	笔扫千兵	100
+bi sao qian jun	笔扫千军	100
+bi se fen xi	比色分析	100
+bi se ji	比色计	100
+bi se luo hou	闭塞落后	100
+bi se xian lu	闭塞贤路	100
+bi se yan jing zhuo ma que	闭塞眼睛捉麻雀	100
+bi sha a	必杀啊	100
+bi sha gang	碧沙岗	100
+bi shan geng gao	比山更高	100
+bi shan hai gao	比山还高	100
+bi shan shui ta	碧山水獭	100
+bi shan tang jia bao	璧山唐家堡	100
+bi shang an	必上岸	100
+bi shang ban hai lei	比上班还累	100
+bi shang ci hai di	比上次还低	100
+bi shang gu ding pao	壁上固定炮	100
+bi shang jue lu	逼上绝路	100
+bi shang lai	逼上来	100
+bi shang le jue lu	逼上了绝路	100
+bi shang le yan	闭上了眼	100
+bi shang le yan jing	闭上了眼睛	100
+bi shang le zui	闭上了嘴	100
+bi shang le zui ba	闭上了嘴巴	100
+bi shang nian tong qi xia jiang	比上年同期下降	100
+bi shang nian tong qi zeng zhang	比上年同期增长	100
+bi shang qu	逼上去	100
+bi shang shuang yan	闭上双眼	100
+bi shang shuang yan wo you kan jian	闭上双眼我又看见	100
+bi shang zui ba	闭上嘴巴	100
+bi shao li duo	弊少利多	100
+bi shei dou	比谁都	100
+bi shei dou duo	比谁都多	100
+bi shei dou qing chu	比谁都清楚	100
+bi shen chu	蔽身处	100
+bi shen me dou	比什么都	100
+bi shen me dou guan yong	比什么都管用	100
+bi shen me dou hao	比什么都好	100
+bi shen me dou hao shi	比什么都好使	100
+bi shen me dou qiang	比什么都强	100
+bi shen me dou zhong yao	比什么都重要	100
+bi sheng de	毕生的	100
+bi sheng fa zhan	毕生发展	100
+bi sheng ju	必胜局	100
+bi sheng ke zi zhu	必胜客自助	100
+bi sheng ming geng zhong yao	比生命更重要	100
+bi sheng qiu tan	必胜球探	100
+bi sheng suo xue	毕生所学	100
+bi shi bi ke	彼时彼刻	100
+bi shi ding li	毕氏定理	100
+bi shi he mian shi	笔试和面试	100
+bi shi jue su	避世绝俗	100
+bi shi mo ni	笔试模拟	100
+bi shi pai hang bang	鄙视排行榜	100
+bi shi qie cuo	比试切磋	100
+bi shi qie cuo yi xia	比试切磋一下	100
+bi shi san	毕十三	100
+bi shi ti dian pian yi	比实体店便宜	100
+bi shi xi tong	闭式系统	100
+bi shou cang	必收藏	100
+bi shou hua jiao	比手划脚	100
+bi shu di	避暑地	100
+bi shu du jia	避暑度假	100
+bi shu lv you mu di di	避暑旅游目的地	100
+bi shu sheng di a	避暑胜地啊	100
+bi shu xing gong	避暑行宫	100
+bi shu zhi di	避暑之地	100
+bi shui cang tian	碧水苍天	100
+bi shui chang liu	碧水长流	100
+bi shui dou	比谁都	100
+bi shui dou duo	比谁都多	100
+bi shui dou qing chu	比谁都清楚	100
+bi shui gang	避税港	100
+bi shui hai gan jing	比水还干净	100
+bi shui li cheng	碧水俪城	100
+bi shui ling shou	碧水灵兽	100
+bi shui yu	壁水㺄	100
+bi si hai nan shou	比死还难受	100
+bi si hai yao	比死还要	100
+bi si hai yao ku	比死还要苦	100
+bi si kai	比斯开	100
+bi si nuo lan	碧斯诺兰	100
+bi si qiang po zheng	逼死强迫症	100
+bi si te	比斯特	100
+bi si zhi zheng	必死之症	100
+bi sui bu deng	比岁不登	100
+bi suo dao	避缩到	100
+bi suo qi	闭锁期	100
+bi ta cong ming	比他聪明	100
+bi ta dong	比他懂	100
+bi ta geng dong	比他更懂	100
+bi ta geng xiong can	比他更凶残	100
+bi ta jiu fan	逼他就范	100
+bi ta jiu fan	逼她就范	100
+bi ta men	比他们	100
+bi ta men jin qu	逼他们进去	100
+bi ta men qiang	比他们强	100
+bi ta qing chu	比他清楚	100
+bi ta xuan ze	逼他选择	100
+bi ta xuan ze	逼她选择	100
+bi ta xuan ze	逼它选择	100
+bi ta zui wai	鼻塌嘴歪	100
+bi tai feng	避台风	100
+bi te bi di zhi	比特币地址	100
+bi te bi hang qing	比特币行情	100
+bi te bi hang qing fen xi	比特币行情分析	100
+bi te bi hang qing zou shi	比特币行情走势	100
+bi te bi le suo bing du	比特币勒索病毒	100
+bi te bi shi shen me	比特币是什么	100
+bi te bi xi tong	比特币系统	100
+bi te xiao dui	比特小队	100
+bi tian geng gao	比天更高	100
+bi tian hai da	比天还大	100
+bi tian hai gao	比天还高	100
+bi tong hang	比同行	100
+bi tong shu	笔筒树	100
+bi tong xin suan	鼻痛心酸	100
+bi tou chu huo	鼻头出火	100
+bi tu mo gan	笔秃墨干	100
+bi tu xiang ding li	闭图像定理	100
+bi tu zi hai kuai	比兔子还快	100
+bi tui chang	比腿长	100
+bi tui yi bu	逼退一步	100
+bi wa zhu meng	碧瓦朱甍	100
+bi wai diao cha	壁外调查	100
+bi wan yi	逼玩意	100
+bi wan yi er	逼玩意儿	100
+bi wang jue lu	逼往绝路	100
+bi wei li	比威力	100
+bi wei li nai te	碧薇莉耐特	100
+bi wei ting	碧伟蜓	100
+bi wen peng	毕文鹏	100
+bi wo cha	比我差	100
+bi wo cong ming	比我聪明	100
+bi wo da de	比我大的	100
+bi wo dong	比我懂	100
+bi wo geng cha	比我更差	100
+bi wo geng dong	比我更懂	100
+bi wo geng gao	比我更高	100
+bi wo geng nuan	比我更暖	100
+bi wo geng qiang	比我更强	100
+bi wo geng ruo	比我更弱	100
+bi wo hai	比我还	100
+bi wo hai cha	比我还差	100
+bi wo hai da	比我还大	100
+bi wo hai dong	比我还懂	100
+bi wo hai gao	比我还高	100
+bi wo hai kuai	比我还快	100
+bi wo hai qiang	比我还强	100
+bi wo hai ruo	比我还弱	100
+bi wo hai xiao	比我还小	100
+bi wo hai xun	比我还逊	100
+bi wo hai you	比我还有	100
+bi wo hai you ben shi	比我还有本事	100
+bi wo hao duo le	比我好多了	100
+bi wo jiu fan	逼我就范	100
+bi wo men	比我们	100
+bi wo men cha	比我们差	100
+bi wo men cha de	比我们差的	100
+bi wo men duo	比我们多	100
+bi wo men qiang	比我们强	100
+bi wo nian zhang	比我年长	100
+bi wo qiang duo le	比我强多了	100
+bi wo qing chu	比我清楚	100
+bi wo xiao de	比我小的	100
+bi wo xuan ze	逼我选择	100
+bi wu ci shi	必无此事	100
+bi wu gong	比武功	100
+bi wu ke bi	避无可避	100
+bi wu ke feng	比屋可封	100
+bi wu lian lei	比物连类	100
+bi wu liang zhu	鼻无梁柱	100
+bi wu zhao qin dong fang xin	比武招亲动芳心	100
+bi xi na	毕希纳	100
+bi xi ru lei	鼻息如雷	100
+bi xi te la tu	庇西特拉图	100
+bi xi zun rong	敝屣尊荣	100
+bi xia ben ren	陛下本人	100
+bi xia bi xia	陛下陛下	100
+bi xia chao sheng	笔下超生	100
+bi xia chun feng	笔下春风	100
+bi xia en chong	陛下恩宠	100
+bi xia en zhun	陛下恩准	100
+bi xia he gu xian jiang	陛下何故先降	100
+bi xia jia dao	陛下驾到	100
+bi xia lai	逼下来	100
+bi xia liu qing	笔下留情	100
+bi xia qi	比下棋	100
+bi xia qi jia	陛下起驾	100
+bi xia qing	陛下请	100
+bi xia qu	逼下去	100
+bi xia san si	陛下三思	100
+bi xia san si a	陛下三思啊	100
+bi xia tai	逼下台	100
+bi xia yi yi zi mou	陛下亦宜自谋	100
+bi xia yu	必下雨	100
+bi xian da zhan	笔仙大战	100
+bi xian yuan yi	避嫌远疑	100
+bi xian zai	比现在	100
+bi xian zai hai hao	比现在还好	100
+bi xian zai hao	比现在好	100
+bi xiang xiang zhong de	比想象中的	100
+bi xiang xiang zhong de hai	比想象中的还	100
+bi xiang xiang zhong de hai yao	比想象中的还要	100
+bi xiang xiang zhong hai	比想象中还	100
+bi xiang xiang zhong hai yao	比想象中还要	100
+bi xiao shi	闭校式	100
+bi xiao tian	毕啸天	100
+bi xiao ying	壁效应	100
+bi xiao zhu yan chang	鼻小柱延长	100
+bi xie bao ping an	辟邪保平安	100
+bi xie hua sha	辟邪化煞	100
+bi xie jian fa	辟邪剑法	100
+bi xie jian pu	辟邪剑谱	100
+bi xie yao hai guan yong	比泻药还管用	100
+bi xie yu	辟邪玉	100
+bi xie zhen zhai	辟邪镇宅	100
+bi xie zhi wu	辟邪之物	100
+bi xin bi	比心币	100
+bi xiong jiu ji	避凶就吉	100
+bi xiong qu ji	避凶趋吉	100
+bi xiu ke	必修科	100
+bi xiu mo kuai	必修模块	100
+bi xiu wu	毕宿五	100
+bi xiu xing tuan	毕宿星团	100
+bi xu an zhao	必须按照	100
+bi xu cai qu xing dong	必须采取行动	100
+bi xu can jia	必须参加	100
+bi xu chang huan	必须偿还	100
+bi xu chi	必须吃	100
+bi xu dao	必须到	100
+bi xu de a	必须的啊	100
+bi xu de bi	必须的必	100
+bi xu de ma	必须的嘛	100
+bi xu dei cheng ren	必须得承认	100
+bi xu dei dao	必须得到	100
+bi xu dei mai	必须得买	100
+bi xu dei si	必须得死	100
+bi xu dei xiang	必须得想	100
+bi xu dei zuo	必须得做	100
+bi xu gao du zhong shi	必须高度重视	100
+bi xu gui huan	必须归还	100
+bi xu huan	必须还	100
+bi xu ji zhong qi lai	必须集中起来	100
+bi xu jiang	必须将	100
+bi xu jiang di	必须降低	100
+bi xu jie di	必须接地	100
+bi xu jin xing zhao biao	必须进行招标	100
+bi xu li ke	必须立刻	100
+bi xu li ke qu	必须立刻去	100
+bi xu luo shi	必须落实	100
+bi xu lv xing	必须履行	100
+bi xu po yi	必须破亿	100
+bi xu qiang diao	必须强调	100
+bi xu qu	必须去	100
+bi xu rang	必须让	100
+bi xu shang	必须上	100
+bi xu shen me	必须什么	100
+bi xu shen zhong	必须慎重	100
+bi xu shen zhong kao lv	必须慎重考虑	100
+bi xu sheng	必须胜	100
+bi xu sheng li	必须胜利	100
+bi xu shi	必须是	100
+bi xu shou cang	必须收藏	100
+bi xu si	必须死	100
+bi xu tiao zheng	必须调整	100
+bi xu xing	必须行	100
+bi xu xing dong	必须行动	100
+bi xu xuan	必须选	100
+bi xu yan ge zhi xing	必须严格执行	100
+bi xu yao	必须要	100
+bi xu yao de dao	必须要得到	100
+bi xu yao liao jie	必须要了解	100
+bi xu yao qu de di fang	必须要去的地方	100
+bi xu yao zhong shi	必须要重视	100
+bi xu yao zuo	必须要做	100
+bi xu yao zuo dian shen me	必须要做点什么	100
+bi xu yi	必须以	100
+bi xu ying	必须赢	100
+bi xu ying a	必须赢啊	100
+bi xu zai	必须在	100
+bi xu zhi xing	必须执行	100
+bi xu zhong shi	必须重视	100
+bi xu zhuan hui lai	必须赚回来	100
+bi xu zou	必须走	100
+bi xu zun zhong	必须尊重	100
+bi xu zuo de geng hao	必须做得更好	100
+bi xu zuo dian shen me	必须做点什么	100
+bi xu zuo shen me	必须做什么	100
+bi xuan de le	必选的了	100
+bi xuan ke	必选课	100
+bi xuan ke cheng	必选课程	100
+bi xuan zhi di	必选之地	100
+bi xue bao bian	笔削褒贬	100
+bi xue bi kao	必学必考	100
+bi ya di a	比亚迪啊	100
+bi ya di che zhu	比亚迪车主	100
+bi ya di qi che	比亚迪汽车	100
+bi ya di wang chao	比亚迪王朝	100
+bi ya di wang chao xi lie	比亚迪王朝系列	100
+bi ya qiao	比亚乔	100
+bi yan he	鼻烟盒	100
+bi yan hu	碧眼胡	100
+bi yan huan zhe	鼻炎患者	100
+bi yan jin fa	碧眼金发	100
+bi yan shui jiao	闭眼睡觉	100
+bi yan te xiao	闭眼特效	100
+bi yan zi ran	碧眼紫髯	100
+bi yan zi xu	碧眼紫须	100
+bi yang de	逼养的	100
+bi yao chu xing	必要出行	100
+bi yao de tiao zheng	必要的调整	100
+bi yao de xing dong	必要的行动	100
+bi yao de xing zheng	必要的行政	100
+bi yao de zheng ju	必要的证据	100
+bi yao de zheng ming cai liao	必要的证明材料	100
+bi yao de zun zhong	必要的尊重	100
+bi yao lao dong	必要劳动	100
+bi yao lv xing	必要旅行	100
+bi yao ma	必要吗	100
+bi yao ming hai gao	比姚明还高	100
+bi yao tiao zheng	必要调整	100
+bi yao xing dong	必要行动	100
+bi yao xing he ke xing xing	必要性和可行性	100
+bi ye can	毕业餐	100
+bi ye da bian	毕业答辩	100
+bi ye de xue xiao	毕业的学校	100
+bi ye deng yu shi ye	毕业等于失业	100
+bi ye dou peng	毕业斗篷	100
+bi ye fa xing	毕业发型	100
+bi ye ji shi ye	毕业即失业	100
+bi ye jiu shi ye	毕业就失业	100
+bi ye kuai le	毕业快乐	100
+bi ye kuai le ya	毕业快乐呀	100
+bi ye la	毕业啦	100
+bi ye le ba	毕业了吧	100
+bi ye le ma	毕业了吗	100
+bi ye le zhi hou	毕业了之后	100
+bi ye li xiao	毕业离校	100
+bi ye lun wen cha chong	毕业论文查重	100
+bi ye lv xing	毕业旅行	100
+bi ye mei duo jiu	毕业没多久	100
+bi ye nan du	毕业难度	100
+bi ye nian du	毕业年度	100
+bi ye qian	毕业前	100
+bi ye sheng chu ci jiu ye lv	毕业生初次就业率	100
+bi ye sheng de jiu ye lv	毕业生的就业率	100
+bi ye sheng fan xiao	毕业生返校	100
+bi ye sheng gui mo	毕业生规模	100
+bi ye sheng jiu ye lv gao	毕业生就业率高	100
+bi ye sheng li xiao	毕业生离校	100
+bi ye sheng luo hu	毕业生落户	100
+bi ye shi xi	毕业实习	100
+bi ye xiao you	毕业校友	100
+bi ye yan	毕业宴	100
+bi ye yi nian le	毕业一年了	100
+bi ye yin yue hui	毕业音乐会	100
+bi ye yu huang pu jun xiao	毕业于黄埔军校	100
+bi ye yu ming xiao	毕业于名校	100
+bi ye yu xia men da xue	毕业于厦门大学	100
+bi ye zuo zhou	俾夜作昼	100
+bi yi bi jiu	比一比就	100
+bi yi bi jiu zhi dao	比一比就知道	100
+bi yi bi ni	逼一逼你	100
+bi yi bi zi ji	逼一逼自己	100
+bi yi dan shi	敝衣箪食	100
+bi yi er xing	比翼而行	100
+bi yi ge	比一个	100
+bi yi juan	臂一卷	100
+bi yi lian zhi	比翼连枝	100
+bi yi qie	比一切	100
+bi yi shi ci yi shi	彼一时此一时	100
+bi yi shu shi	敝衣疏食	100
+bi yi xia	比一下	100
+bi yi xia jiu	比一下就	100
+bi yi xia jiu zhi dao	比一下就知道	100
+bi yi zhong ren	畀以重任	100
+bi yin du	比印度	100
+bi yin hang	比银行	100
+bi yin le fen	比音勒芬	100
+bi ying di tu	必应地图	100
+bi ying sou suo	必应搜索	100
+bi ying yi xia	必应一下	100
+bi you cun xin jie jiao	碧游村新截教	100
+bi you gao lun	必有高论	100
+bi you guo	必有果	100
+bi you huan ying ni	碧游欢迎你	100
+bi you hui xiang	必有回响	100
+bi you jiang dong	庇佑江东	100
+bi you jin yi	必有进益	100
+bi you long	毕游龙	100
+bi you qi tu	必有其徒	100
+bi you qi zi	必有其子	100
+bi you shen yi	必有深意	100
+bi you suo qiu	必有所求	100
+bi you xia	庇佑下	100
+bi you xie ren	比有些人	100
+bi you xie ren qiang duo le	比有些人强多了	100
+bi you yi ge	必有一个	100
+bi you yong	必有用	100
+bi you zhi di	必游之地	100
+bi you zhong xie	必有重谢	100
+bi yu dao	碧玉刀	100
+bi yu ji feng	毕雨箕风	100
+bi yu ji zhong de	比预计中的	100
+bi yu ji zhong de hao xie	比预计中的好些	100
+bi yu qi de tui chi	比预期的推迟	100
+bi yu qi de tui chi le	比预期的推迟了	100
+bi yu shi dang	比喻失当	100
+bi yuan	闭源	100
+bi yuan cao zuo xi tong	闭源操作系统	100
+bi yuan de	闭源的	100
+bi yuan lai	比原来	100
+bi yuan le	闭园了	100
+bi yuan ruan jian	闭源软件	100
+bi yuan su	铋元素	100
+bi yuan xi tong	闭源系统	100
+bi yuan yin	闭元音	100
+bi yue ke	比约克	100
+bi yue ke man	比约克曼	100
+bi yue wu	毕月乌	100
+bi yun fa	避孕法	100
+bi yun mu	鼻韵母	100
+bi yun pian	避孕片	100
+bi yun tian	碧云天	100
+bi yun tie	避孕贴	100
+bi yun wan	避孕丸	100
+bi zai zi	逼崽子	100
+bi zhe ceng	笔者曾	100
+bi zhe de yan jing	闭着的眼睛	100
+bi zhe gan	比着干	100
+bi zhe jian dao shou	比着剪刀手	100
+bi zhe jue de	笔者觉得	100
+bi zhe liao jie	笔者了解	100
+bi zhe liao jie dao	笔者了解到	100
+bi zhe ni	逼着你	100
+bi zhe shuang yan	闭着双眼	100
+bi zhe ta	逼着他	100
+bi zhe ta	逼着她	100
+bi zhe wo	逼着我	100
+bi zhe xue	逼着学	100
+bi zhe yan jing mai	闭着眼睛买	100
+bi zhe yan jing xuan	闭着眼睛选	100
+bi zhe yan jing zou	闭着眼睛走	100
+bi zhe yan mai	闭着眼买	100
+bi zhe zui	闭着嘴	100
+bi zhen cheng du	逼真程度	100
+bi zhen du	逼真度	100
+bi zhen huan yuan	逼真还原	100
+bi zhen liao fa	鼻针疗法	100
+bi zhen xi tong	避震系统	100
+bi zheng ming de zheng ming	毕正明的证明	100
+bi zhi bi hui	必知必会	100
+bi zhi chu	彼之初	100
+bi zhi de	笔直的	100
+bi zhi de da chang tui	笔直的大长腿	100
+bi zhi fei	毕志飞	100
+bi zhi hui	比智慧	100
+bi zhi li	比智力	100
+bi zhi ru fu	比之如父	100
+bi zhi shang	比智商	100
+bi zhi yin qing	壁纸引擎	100
+bi zhong bu tong	比众不同	100
+bi zhong chu huo	鼻中出火	100
+bi zhong di	比重低	100
+bi zhong gao	比重高	100
+bi zhong jiao qing	比重较轻	100
+bi zhong qing	比重轻	100
+bi zhong ti gao	比重提高	100
+bi zhong ti sheng	比重提升	100
+bi zhong wo gua	彼众我寡	100
+bi zhong xiao	比重小	100
+bi zhong yan gan	币重言甘	100
+bi zhou qian jin	敝帚千金	100
+bi zhou zuo ye	俾昼作夜	100
+bi zhuan gui pian yi	比专柜便宜	100
+bi zi bian chang	鼻子变长	100
+bi zi chang	鼻子长	100
+bi zi du se	鼻子堵塞	100
+bi zi ji	逼自己	100
+bi zi ji	闭子集	100
+bi zi li xiao	鼻子里笑	100
+bi zi shang gua xiang yu	鼻子上挂鲞鱼	100
+bi zi tou er	鼻子头儿	100
+bi zi yan	鼻子眼	100
+bi zui ba	闭嘴吧	100
+bi zui ba ni	闭嘴吧你	100
+bi zui bu shuo	闭嘴不说	100
+bi zui bu shuo hua	闭嘴不说话	100
+bi zui er	闭嘴儿	100
+bi zui la	闭嘴啦	100
+bi zui la ni	闭嘴啦你	100
+bi zui le	闭嘴了	100
+bi zuo fu ren	婢作夫人	100
+bi zuo yu xi	必作于细	100
+bi zuo yu yi	必作于易	100
+bi bo	鄙薄	99
+bi yi	鄙意	99
+bi jiao cheng ben	比较成本	98
+bi xian an nei	必先安内	98
+bi zhi zhan	笔直站	95
+bi jiao kong	比较空	94
+bi sheng yuan	碧生源	93
+bi jia ruan jian	比价软件	92
+bi shu ru	笔输入	91
+bi chi	鼻翅	90
+bi nan tao sheng	避难逃生	87
+bi de qi	比得起	85
+bi jie xian	毕节县	85
+bi ji ben shang	笔记本上	84
+bi le yan jing	闭了眼睛	84
+bi li shi zui gao shui ping	比历史最高水平	80
+bi ming	逼命	80
+bi zi yan er	鼻子眼儿	80
+bi jiao wen hua	比较文化	79
+bi lv gao	比率高	78
+bi xie	笔写	78
+bi ye	比耶	77
+bi yi	避役	77
+bi dui biao	比对表	76
+bi lv xia ren	碧绿虾仁	76
+bi ran huai gui tai	必然怀鬼胎	75
+bi shi	鼻饰	75
+bi zi	秕子	75
+bi jiao xia	比较下	74
+bi shi ta	鄙视他	73
+bi shou hua jiao	比手画脚	73
+bi er zi	比儿子	71
+bi jiao hao yong	比较好用	71
+bi dui xia	比对下	70
+bi duo an	吡哆胺	70
+bi neng sha ren	笔能杀人	70
+bi bing du	鼻病毒	69
+bi jiao gan	比较赶	69
+bi hai yun tian	碧海云天	68
+bi kao xiang	必考项	68
+bi lu xi tong	笔录系统	68
+bi mian bu liao	避免不了	68
+bi shi yi qian	闭市以前	68
+bi yu mu biao	比喻目标	68
+bi jiao niu	比较牛	67
+bi you hao bao	必有好报	67
+bi ren jia	比人家	66
+bi guo nei	比国内	65
+bi jiao si	比较死	65
+bi jiao yu yan xue	比较语言学	65
+bi ni wo	比你我	65
+bi sheng hua	笔生花	65
+bi jiao zu	比较足	64
+bi zhan	笔战	64
+bi luo	碧落	63
+bi shi wo	鄙视我	63
+bi jiao cao zuo	比较操作	62
+bi niao ji	逼尿肌	62
+bi tong	痹痛	62
+bi cong shen jing sun shang	臂丛神经损伤	61
+bi ren tai shen	逼人太甚	61
+bi xu you	必须由	61
+bi yu	躄鱼	61
+bi guan jie	臂关节	60
+bi lin	贲临	60
+bi shui yun tian	碧水云天	60
+bi xu dui	必须对	58
+bi ke nao	比克瑙	56
+bi an	狴犴	55
+bi jiao xing qing guang yan	闭角型青光眼	55
+bi ma du dan bai	蓖麻毒蛋白	55
+bi sheng shou yong	毕生受用	55
+bi shu	笔述	55
+bi kong jiao zhu	鼻孔教主	54
+bi lei guan	鼻泪管	54
+bi gui hua cheng	碧桂花城	53
+bi nv	鼻衄	51
+bi mian jiao tong du se	避免交通堵塞	50
+bi xiao shi	毕晓世	50
+bi xing	毕姓	50
+bi zhang	笔账	50
+bi shi ti ku	笔试题库	49
+bi li wan ren	壁立万仞	48
+bi ma zi	蓖麻子	46
+bi yao zhe	必要者	46
+bi chi er	鼻翅儿	45
+bi tu xian	碧土县	45
+bi bu liao	闭不了	44
+bi luo xi kang	吡罗昔康	44
+bi sai sai	比赛赛	44
+bi ge lie tong	吡格列酮	43
+bi han mo bao	笔酣墨饱	42
+bi sha ji	必杀计	42
+bi cong shen jing	臂丛神经	40
+bi jia fei da	鼻甲肥大	40
+bi jiao fa zai zhong guo	比较法在中国	40
+bi si mai hai	俾斯麦海	40
+bi zheng	笔政	40
+bi zhi bo dong	币值波动	40
+bi shan cun	碧山村	38
+bi yun qi	避孕器	38
+bi sai ma	比赛马	36
+bi chuang	鼻疮	35
+bi hai hua yuan	碧海花园	35
+bi jia shan shui chang	笔架山水厂	35
+bi wei lun chong	臂尾轮虫	35
+bi yu xi	毕玉玺	35
+bi bo hua yuan	碧波花园	34
+bi de bi er te gong si	彼得比尔特公司	34
+bi ye zheng ming	必也正名	33
+bi la er duo	比拉尔多	31
+bi yu dao	比喻道	31
+bi yu ye	碧玉叶	31
+bi he xing nao sun shang	闭合性脑损伤	30
+bi jin wo tui	彼进我退	30
+bi nan jiu yi	避难就易	30
+bi xu yao you	必须要有	30
+bi ju jia dan bao jun	鼻疽假单胞菌	29
+bi kai qi	薜凯琪	29
+bi sheng lu	毕升路	29
+bi huo du	比活度	28
+bi men zi shou	闭门自守	28
+bi xiu	壁宿	28
+bi xiu	毕宿	28
+bi yao hua yuan	碧瑶花园	28
+bi yu zuo	比喻做	28
+bi kong	闭孔	27
+bi qiang yi wu	鼻腔异物	27
+bi shui zhuang yuan	碧水庄园	27
+bi gou	鼻沟	26
+bi he bi li	比和比例	26
+bi ke gui shu	闭壳龟属	26
+bi nan tang	吡喃糖	26
+bi ran cheng	必然呈	26
+bi xu hua	必须化	26
+bi yan kang pian	鼻炎康片	26
+bi you wu shi	必有吾师	26
+bi you yi biao	必有一彪	26
+bi zhong ge chuan kong	鼻中隔穿孔	26
+bi bi bo bo	毕毕剥剥	25
+bi chuan zhi zuo	必传之作	25
+bi de xiang	逼得像	25
+bi hu zhu fu	庇护祝福	25
+bi hua cha zi fa	笔画查字法	25
+bi jiang jin lou	碧江金楼	25
+bi ju bing	鼻疽病	25
+bi liang er	鼻梁儿	25
+bi liu chun	吡硫醇	25
+bi shi suan fa ti	笔试算法题	25
+bi xiang jie	碧湘街	25
+bi ji ben ji	笔记本机	24
+bi zhong ge ruan gu	鼻中隔软骨	24
+bi ye ri	毕业日	23
+bi ye zheng ming hu	必也正名乎	23
+bi li zhi	比例制	22
+bi qi yi pin guo	荸荠一品锅	21
+bi qiu shi	壁球室	21
+bi sha hu	碧沙湖	21
+bi te bi kai fa	比特币开发	21
+bi gao	鼻高	20
+bi jia cun	毕家村	20
+bi ling cun	碧岭村	20
+bi qiang chong xi	鼻腔冲洗	20
+bi sha long	碧纱笼	20
+bi tian ru shui	碧天如水	20
+bi yong zhen	碧涌镇	20
+bi zhe ne	比着呢	20
+bi qin xian an	吡嗪酰胺	19
+bi cheng qie	荜澄茄	18
+bi hu lu hua piao	比葫芦画瓢	18
+bi xi cun	碧溪村	18
+bi xi dong	毕熙东	18
+bi le ge shou shi	比了个手势	17
+bi he	比荷	16
+bi he ren si	彼何人斯	16
+bi hua xiu yue	闭花羞月	16
+bi ji qi de yi	必积其德义	16
+bi ji xiang	篦箕巷	16
+bi ka lu an	比卡鲁胺	16
+bi li shi fa	比利时法	16
+bi qian ting	鼻前庭	16
+bi suo zong he zheng	闭锁综合征	16
+bi xia sheng hui	笔下生辉	16
+bi yan pian	鼻炎片	16
+bi ye shi wu song hu	必也使无讼乎	16
+bi zhong ge jiao zheng shu	鼻中隔矫正术	16
+bi bi zhi zhi	笔笔直直	15
+bi bu zhu	闭不住	15
+bi ci yi yang	彼此一样	15
+bi hu du shu	闭户读书	15
+bi kui tong	吡喹酮	15
+bi te jing ling	比特精灵	15
+bi ya di qin	比亚迪秦	15
+bi yun shan zhuang	碧云山庄	15
+bi yun shuan	避孕栓	15
+bi cong	臂丛	14
+bi tong	臂痛	14
+bi xi bao	壁细胞	14
+bi fei jia chang ye	臂非加长也	13
+bi he huan lu	闭合环路	13
+bi he shi	闭合式	13
+bi kong shen jing	闭孔神经	13
+bi sai ting	比赛厅	13
+bi yao gong tong su song zhi du	必要共同诉讼制度	13
+bi ying sou suo yin qing	必应搜索引擎	13
+bi yue xiu guang jian	闭月羞光剑	13
+bi dui guo	比对过	12
+bi jiao cun	弼教村	12
+bi jiao quan	比较全	12
+bi li niu si ao quan	比利牛斯獒犬	12
+bi mu yu ji	比目鱼肌	12
+bi zhe ge	比这个	12
+bi chen	嬖臣	11
+bi chou	避仇	11
+bi jing xi hu liu yue zhong	毕竟西湖六月中	11
+bi li dai	比例带	11
+bi li tong	必理通	11
+bi luo	吡咯	11
+bi ming se cong	闭明塞聪	11
+bi pei	比配	11
+bi qiu	鼻丘	11
+bi se xing dong mai ying hua	闭塞性动脉硬化	11
+bi ya	比亚	11
+bi yuan	鼻渊	11
+bi han	鼻鼾	10
+bi lang hu	碧浪湖	10
+bi nan guo	避难国	10
+bi nei jing jian cha	鼻内镜检查	10
+bi wu zhao qin	比舞招亲	10
+bi yang guan	鼻氧管	10
+bi ying	闭营	10
+bi zhe ne	闭着呢	10
+bi zheng xing shu	鼻整形术	10
+bi bu de yi er qu	必不得已而去	9
+bi fu	比附	9
+bi gan jing	滗干净	9
+bi hai lu	碧海路	9
+bi shou zhuan jing	匕首专精	9
+bi suo bian zhi	比索贬值	9
+bi tang yao	滗汤药	9
+bi xing	比兴	9
+bi zhai	笔债	9
+bi zheng	痹症	9
+bi zhong	壁钟	9
+bi zi bei	必自卑	9
+bi bo gun gun	碧波滚滚	8
+bi bu zao hua	笔补造化	8
+bi chu	滗出	8
+bi ge mo wu	笔歌墨舞	8
+bi hai gong yuan	碧海公园	8
+bi jing yuan	碧景苑	8
+bi liang zi	鼻梁子	8
+bi qi ge tu	毕其格图	8
+bi qian ting yan	鼻前庭炎	8
+bi shou tou qiang	匕首投枪	8
+bi shui qing long	碧水青龙	8
+bi wei bu qi	敝帷不弃	8
+bi yuan xi lu	毕塬西路	8
+bi bing	痹病	7
+bi cheng zhen	璧城镇	7
+bi ci zhan	彼此站	7
+bi de xi can	彼德西餐	7
+bi ding ji cu suan gong	吡啶基醋酸汞	7
+bi ding tong	吡啶酮	7
+bi hao	笔毫	7
+bi li niu si mu yang quan	比利牛斯牧羊犬	7
+bi qiang ji ruo	避强击弱	7
+bi yan hu er	碧眼胡儿	7
+bi yan ling	鼻炎灵	7
+bi ye kuang juan hu	必也狂狷乎	7
+bi yu lou	碧玉楼	7
+bi yuan dong lu	毕塬东路	7
+bi de	彼得	6
+bi feng li	壁缝里	6
+bi gu zao	鼻骨凿	6
+bi guan shi xun huan xi tong	闭管式循环系统	6
+bi guan zhu yi	闭关主义	6
+bi huo gu	碧火谷	6
+bi huo qiu fu	避祸求福	6
+bi jing yuan	碧景园	6
+bi ke er	比科尔	6
+bi li rou sheng	髀里肉生	6
+bi li shi te fu lun quan	比利时特弗伦犬	6
+bi luo lin	吡咯啉	6
+bi men sao gui	闭门扫轨	6
+bi meng cheng	比蒙城	6
+bi nong nian du	比浓黏度	6
+bi suo luo er	比索洛尔	6
+bi tong ning jiao nang	痹痛宁胶囊	6
+bi xi le	比希勒	6
+bi yun mao	避孕帽	6
+bi an	弊案	5
+bi bo zhong xue	碧波中学	5
+bi chu lai	滗出来	5
+bi chuan	臂钏	5
+bi ci jia	彼此家	5
+bi ding	鼻钉	5
+bi hu zhu shu	闭户著书	5
+bi jing tu jing	必经途经	5
+bi kui tong pian	吡喹酮片	5
+bi lu gu	壁炉谷	5
+bi men cun	碧门村	5
+bi mi si te jia	吡嘧司特钾	5
+bi mu ming xin	闭目冥心	5
+bi mu se er	闭目塞耳	5
+bi qiao jiang	闭鞘姜	5
+bi ran yu zi you	必然与自由	5
+bi ren yan mu	避人眼目	5
+bi sheng	毕昇	5
+bi shi san yuan shu zu	毕氏三元数组	5
+bi shui hao yuan	碧水豪园	5
+bi wo lan	比我懒	5
+bi xi nu yan	婢膝奴颜	5
+bi xi wei wen wen zi yu	避席畏闻文字狱	5
+bi yan cun	碧岩村	5
+bi yan ning jiao nang	鼻炎宁胶囊	5
+bi yan pen ji	鼻炎喷剂	5
+bi yan zhen	碧岩镇	5
+bi yi ke	避役科	5
+bi yi yi shi fei	彼亦一是非	5
+bi zhong du	铋中毒	5
+bi bing du gan ran	鼻病毒感染	4
+bi bo tian ji	碧波田鸡	4
+bi cheng xing shu	鼻成形术	4
+bi dou nang zhong	鼻窦囊肿	4
+bi duo	比多	4
+bi er xiang	比尔乡	4
+bi hu bu neng chu	闭户不能出	4
+bi hun xue	避魂靴	4
+bi jia lin chang	笔架林场	4
+bi jiu bi	比就必	4
+bi keng cun	碧坑村	4
+bi li	毕力	4
+bi nao	臂臑	4
+bi pai suan	吡哌酸	4
+bi ru xiang	比如乡	4
+bi shi	笔石	4
+bi wen zhao qin	比文招亲	4
+bi xi fu ran	鼻息咈然	4
+bi xian bu de yi	避险不得已	4
+bi yu shu	躄鱼属	4
+bi zhong ge kui yang	鼻中隔溃疡	4
+bi bo yuan	碧波园	3
+bi di chun feng	笔底春风	3
+bi feng si	碧峰寺	3
+bi gan jian er si	比干谏而死	3
+bi gong bi qin	必躬必亲	3
+bi gua	比卦	3
+bi gua	贲卦	3
+bi he sheng you quan	碧荷生幽泉	3
+bi huan	璧还	3
+bi jia xiang	毕家乡	3
+bi jian lin	鼻间鳞	3
+bi jiang xian	碧江县	3
+bi jiang zhong xue	碧江中学	3
+bi jiao cheng ben shuo	比较成本说	3
+bi jiao xin li xue	比较心理学	3
+bi jiao xing fa ji guo ji xing fa zhuan lun	比较刑法暨国际刑法专论	3
+bi lang xiang	碧朗乡	3
+bi li	鄙俚	3
+bi li guo	薜荔果	3
+bi li niu si bei shan yang	比利牛斯北山羊	3
+bi li zi	薜荔籽	3
+bi lin	鼻鳞	3
+bi lin fu meng	鄙吝复萌	3
+bi luo xi kang pian	吡罗昔康片	3
+bi min	弊民	3
+bi qu	滗取	3
+bi ran lv	必然律	3
+bi se xing dong mai ying hua zheng	闭塞性动脉硬化症	3
+bi shi ke fu	彼什科夫	3
+bi shui shen shi	碧水神石	3
+bi si fa	鼻饲法	3
+bi suo shi	闭锁式	3
+bi suo shi gu pen	闭锁式骨盆	3
+bi te li	比特力	3
+bi tu xiang	碧土乡	3
+bi wu qi lao feng huang zhi	碧梧栖老凤凰枝	3
+bi xia lu	碧霞路	3
+bi xian si si zhe	必先斯四者	3
+bi xie	碧血	3
+bi xue fu ren	婢学夫人	3
+bi yan huo ti qu yang qian	鼻咽活体取样钳	3
+bi yi	碧漪	3
+bi yi shen hou zhi	必以身后之	3
+bi yi yan xia zhi	必以言下之	3
+bi you ke guan zhe yan	必有可观者焉	3
+bi you zhong xin ru qiu zhe yan	必有忠信如丘者焉	3
+bi yu	鲾鱼	3
+bi yu wan dou ren	碧玉豌豆仁	3
+bi zai zao shu	鼻再造术	3
+bi zhou zi xiang	敝帚自享	3
+bi zou	滗走	3
+bi bei dong mai	鼻背动脉	2
+bi ben yu si	必本于思	2
+bi bi lv	比比率	2
+bi bo	荜拨	2
+bi bo	觱发	2
+bi bu de yi	必不得已	2
+bi cheng zhi zhan	泌城之战	2
+bi de bao xi can ting	彼得堡西餐厅	2
+bi de yuan	弼德院	2
+bi dou	毕都	2
+bi dou e xing zhong liu	鼻窦恶性肿瘤	2
+bi fu	比富	2
+bi fu	比弗	2
+bi fu duan xian duo	弊服断线多	2
+bi gan	鼻干	2
+bi guan hu tong	笔管胡同	2
+bi gui lu kou	碧桂路口	2
+bi heng gou	鼻横沟	2
+bi jia gang	毕家岗	2
+bi jia shan zhuang	笔架山庄	2
+bi jian bing qi	比肩并起	2
+bi jiao mian yi xue	比较免疫学	2
+bi jiao min shi su song fa guo ji yan tao hui lun wen ji	比较民事诉讼法国际研讨会论文集	2
+bi kou cang she	闭口藏舌	2
+bi kuang	比况	2
+bi la xi tan	吡拉西坦	2
+bi lei cheng	壁垒城	2
+bi li	秕粒	2
+bi li an zhu	壁里安柱	2
+bi li shi la kan nuo si mu yang quan	比利时拉坎诺斯牧羊犬	2
+bi lin	鄙吝	2
+bi lu guo hui	秘鲁国会	2
+bi lv hu	碧绿湖	2
+bi mei jun jia cai	彼美君家菜	2
+bi men gui yu	筚门圭窬	2
+bi men jin hu	闭门墐户	2
+bi men se hu	闭门塞户	2
+bi men wei xiang	筚门委巷	2
+bi nan	吡喃	2
+bi nan qu yi	避难趋易	2
+bi nuo ke xin	吡诺克辛	2
+bi qiang e xing zhong liu	鼻腔恶性肿瘤	2
+bi qin	吡嗪	2
+bi ren	彼人	2
+bi ru	必入	2
+bi ruo jiu chuang yi	必若救疮痍	2
+bi se	蔽塞	2
+bi shan	鼻煽	2
+bi shang hong qi piao luo zhao	壁上红旗飘落照	2
+bi shi	壁虱	2
+bi shi	币市	2
+bi shi	拂士	2
+bi shi le	比施勒	2
+bi shi qiang dong	避世墙东	2
+bi shou ling	匕首岭	2
+bi shu	比数	2
+bi shui zhuang yuan she qu	碧水庄园社区	2
+bi sou ping	必嗽平	2
+bi suo wei dao qi yi tun	笔所未到气已吞	2
+bi tou sheng hua	笔头生花	2
+bi wei lun chong shu	臂尾轮虫属	2
+bi wu shu shi	比物属事	2
+bi xi	滗析	2
+bi xiao	碧霄	2
+bi xie	萆薢	2
+bi xie	避邪	2
+bi yan ling pian	鼻炎灵片	2
+bi ye e	篦夜蛾	2
+bi yi	辟易	2
+bi you xiang	弼佑乡	2
+bi yu	畀予	2
+bi yu cun	碧玉村	2
+bi yu san	碧玉散	2
+bi za	逼拶	2
+bi zhi er wu han	敝之而无憾	2
+bi zuo	吡唑	2
+bi a wang weng	比阿王鹟	1
+bi ban da tou nuo man	臂斑大头糯鳗	1
+bi ban zhi xia hu	臂斑植鰕虎	1
+bi bei di er	吡贝地尔	1
+bi bi qing ye	闭壁清野	1
+bi bi shi mao nian	毕比氏毛鲶	1
+bi bi shi zhao chao xie	毕比氏招潮蟹	1
+bi bian se er zuo	必变色而作	1
+bi bo	馝馞	1
+bi bo shen nv	碧波神女	1
+bi bo yuan	碧波苑	1
+bi bu nang zhong	鼻部囊肿	1
+bi bu nao bei	必不挠北	1
+bi bu que lou	裨补阙漏	1
+bi bu zhu qi	闭不住气	1
+bi chang wu jing	匕鬯无惊	1
+bi dao cui niao	俾岛翠鸟	1
+bi di chao sheng	笔底超生	1
+bi di long she	笔底龙蛇	1
+bi di yan hua	笔底烟花	1
+bi diao	比雕	1
+bi dou yan kou fu ye	鼻窦炎口服液	1
+bi duan chu huo	鼻端出火	1
+bi duan e ping	痹短额鲆	1
+bi duan hai you wu hu xin	笔端还有五湖心	1
+bi duan sheng huo	鼻端生火	1
+bi e gan dang wo zai	彼恶敢当我哉	1
+bi e jiao	比阿胶	1
+bi er jin dun	比尔金顿	1
+bi fa kou zhu	笔伐口诛	1
+bi fan dou jie	避烦斗捷	1
+bi fei	蔽芾	1
+bi feng hu tong	碧峰胡同	1
+bi gai bu qi	敝盖不弃	1
+bi gan	比干	1
+bi ge ao	彼格奥	1
+bi ge ke	襞蛤科	1
+bi ge mi di yu ren zhong	俾格米地域人种	1
+bi ge si guo	闭阁思过	1
+bi ge zi ze	闭阁自责	1
+bi geng yan tian	笔耕砚田	1
+bi gu sang tun	敝鼓丧豚	1
+bi guan jue shi	闭关绝市	1
+bi guan xue	髀关穴	1
+bi guan zi zhu	闭关自主	1
+bi han ru liu	笔翰如流	1
+bi he lu jing ji lian meng tong yi shang biao fa	比荷卢经济联盟统一商标法	1
+bi he si guo	闭合思过	1
+bi he xing qi xiong	闭合性气胸	1
+bi he zi ze	闭合自责	1
+bi hu die dang	闭户螲蟷	1
+bi hu ke feng	比户可封	1
+bi huan hong xiu	碧鬟红袖	1
+bi huan yuan chun	闭环缘蝽	1
+bi hui jiu yu	避毁就誉	1
+bi huo fu	避火服	1
+bi huo xiao jing	碧火小径	1
+bi ji cang shi	避迹藏时	1
+bi ji jin lin yu	鼻棘金鳞鱼	1
+bi ji jin ma	碧鸡金马	1
+bi ji ni gou wen chun	比基尼勾吻鯙	1
+bi ji wei xin	避迹违心	1
+bi ji xing du fu yu	鼻棘星杜父鱼	1
+bi jia ai wei	比嘉爱未	1
+bi jia ba lai niao	比加巴莱鸟	1
+bi jia gang jie dao	毕家岗街道	1
+bi jia zhan chuang yu	笔架沾窗雨	1
+bi jian dao wei	臂间倒位	1
+bi jian die ji	比肩叠迹	1
+bi jian die ji	比肩迭迹	1
+bi jian die zhong	比肩叠踵	1
+bi jian die zhong	比肩迭踵	1
+bi jian er shi	比肩而事	1
+bi jian jie ji	比肩接迹	1
+bi jian jie shi	比肩皆是	1
+bi jian lian mei	比肩联袂	1
+bi jian qi sheng	比肩齐声	1
+bi jian sui zhong	比肩随踵	1
+bi jian wei dao	避箭隈刀	1
+bi jian xi zhong	比肩系踵	1
+bi jian xiang qin	比肩相亲	1
+bi jiang	沘江	1
+bi jiang	碧江	1
+bi jiao chi ye e	碧角翅夜蛾	1
+bi jiao min shi su song lun cong	比较民事诉讼论丛	1
+bi jiao xing wei dong wu xue	比较行为动物学	1
+bi jie	毕节	1
+bi jin gui	臂金龟	1
+bi jing ru kan	避井入坎	1
+bi jing ru keng	避阱入坑	1
+bi jing zi shou	闭境自守	1
+bi ju tong shi	比居同势	1
+bi jun san she	避君三舍	1
+bi kong liao tian	鼻孔撩天	1
+bi kong shan	闭孔疝	1
+bi kou bu she	闭口捕舌	1
+bi kou jie she	闭口结舌	1
+bi la xi tan pian	吡拉西坦片	1
+bi lang hu xiao qu	碧浪湖小区	1
+bi lao mo xiu	笔老墨秀	1
+bi lei cong shi	比类从事	1
+bi li	觱篥	1
+bi li chi li	必里迟离	1
+bi li du kang	笔力独扛	1
+bi li hui chun	笔力回春	1
+bi li lan	碧丽兰	1
+bi li niu si da gou	庇里牛斯大狗	1
+bi li qian lou	鄙俚浅陋	1
+bi li qian ren wu yi yi	壁立千仞无依倚	1
+bi li shi guan	比利时馆	1
+bi li shi hui ji	比利时烩鸡	1
+bi li shi liao nuo quan	比利时料诺犬	1
+bi li shi ma li nuo mu yang quan	比利时玛丽诺牧羊犬	1
+bi li shi mu niu quan	比利时牧牛犬	1
+bi li shi zhang mu shi yan	比利时帐幕石燕	1
+bi liang fu yan	避凉附炎	1
+bi liang qi guan	比量齐观	1
+bi ling wei tong ke li	荜铃胃痛颗粒	1
+bi liu li hua jing wu chen	碧琉璃滑净无尘	1
+bi long duo chi le	庇隆多齿鳓	1
+bi long le	庇隆鳓	1
+bi long shi ni dan jiao tun	庇隆氏拟单角鲀	1
+bi long xiang	碧龙乡	1
+bi lu a pu la dang	秘鲁阿普拉党	1
+bi lu ao lin pi ke wei yuan hui	秘鲁奥林匹克委员会	1
+bi lu bai mei zhen wei que	秘鲁白眉针尾雀	1
+bi lu bai nian bei	秘鲁百年杯	1
+bi lu ban	秘鲁斑	1
+bi lu ban nie zhi li	秘鲁半啮脂鲤	1
+bi lu ban wei feng niao	秘鲁斑尾蜂鸟	1
+bi lu bei	秘鲁杯	1
+bi lu bian fu yu	秘鲁蝙蝠鱼	1
+bi lu bing nian	秘鲁兵鲶	1
+bi lu cai huan	秘鲁彩鹮	1
+bi lu cao di liu	秘鲁草地鹨	1
+bi lu cao sheng qiao	秘鲁草绳桥	1
+bi lu chao ji bei	秘鲁超级杯	1
+bi lu chao ji zu qiu lian sai	秘鲁超级足球联赛	1
+bi lu da mao xian	秘鲁大冒险	1
+bi lu da qu	秘鲁大区	1
+bi lu di diao	秘鲁笛鲷	1
+bi lu di li	秘鲁地理	1
+bi lu di zhen	秘鲁地震	1
+bi lu dong bu shan mai	秘鲁东部山脉	1
+bi lu dun nang nian	秘鲁钝囊鲶	1
+bi lu duo chi le	秘鲁多齿鳓	1
+bi lu fan li zhi	秘鲁番荔枝	1
+bi lu fu jing nian	秘鲁副鲸鲶	1
+bi lu fu mao	秘鲁副矛	1
+bi lu fu wang qu	秘鲁副王区	1
+bi lu fu zhi ping	秘鲁腹肢鲆	1
+bi lu gao	秘鲁膏	1
+bi lu gao yuan shu shu	秘鲁高原鼠属	1
+bi lu ge lun bi ya hang kong	秘鲁哥伦比亚航空	1
+bi lu gong chan dang	秘鲁共产党	1
+bi lu gong he guo	秘鲁共和国	1
+bi lu gong he guo guo qi	秘鲁共和国国旗	1
+bi lu gong min qian zheng yao qiu	秘鲁公民签证要求	1
+bi lu gou chi zhi li	秘鲁钩齿脂鲤	1
+bi lu gou nian	秘鲁钩鲶	1
+bi lu gu lan fen zhi	秘鲁钴蓝粉趾	1
+bi lu guang chang	秘鲁广场	1
+bi lu guang ya bao lian yu	秘鲁光牙宝莲鱼	1
+bi lu guo	秘鲁国	1
+bi lu guo ge	秘鲁国歌	1
+bi lu guo hui	秘鲁国徽	1
+bi lu guo jia tu shu guan	秘鲁国家图书馆	1
+bi lu guo jia zu qiu dui	秘鲁国家足球队	1
+bi lu guo qi	秘鲁国旗	1
+bi lu guo ying hang kong	秘鲁国营航空	1
+bi lu guo ying hang kong gong si	秘鲁国营航空公司	1
+bi lu hai jun	秘鲁海军	1
+bi lu hai liu	秘鲁海流	1
+bi lu hang kong	秘鲁航空	1
+bi lu he bi guang	敝庐何必广	1
+bi lu hong guan	秘鲁红鹳	1
+bi lu hou he jia nian	秘鲁厚颌甲鲶	1
+bi lu hua ren	秘鲁华人	1
+bi lu huang jin bo wu guan yu shi jie wu qi bo wu guan	秘鲁黄金博物馆与世界武器博物馆	1
+bi lu jia zu zu qiu lian sai	秘鲁甲组足球联赛	1
+bi lu jian niao	秘鲁鲣鸟	1
+bi lu jiao	秘鲁胶	1
+bi lu jiao shu	秘鲁胶树	1
+bi lu jiao xiao	秘鲁角鸮	1
+bi lu jin nie zhi li	秘鲁金啮脂鲤	1
+bi lu jing ji	秘鲁经济	1
+bi lu ju ren wu gong	秘鲁巨人蜈蚣	1
+bi lu jun shi	秘鲁军事	1
+bi lu ku zhi	秘鲁苦蘵	1
+bi lu kuan kui nian	秘鲁宽盔鲶	1
+bi lu lan chi ying ge	秘鲁蓝翅鹦哥	1
+bi lu lei shi nian	秘鲁雷氏鲇	1
+bi lu li ma	秘鲁利马	1
+bi lu li ma sheng dian	秘鲁利马圣殿	1
+bi lu li shi	秘鲁历史	1
+bi lu liang liu	秘鲁凉流	1
+bi lu lin jiao xiao	秘鲁林角鸮	1
+bi lu ling que wu	秘鲁岭雀鹀	1
+bi lu luo bei dian man	秘鲁裸背电鳗	1
+bi lu ma tuo lu	秘鲁马驼鹿	1
+bi lu mao bi nian	秘鲁毛鼻鲶	1
+bi lu mao kou nian	秘鲁毛口鲶	1
+bi lu mao li yu	秘鲁矛丽鱼	1
+bi lu mei nian	秘鲁魅鲶	1
+bi lu mian zao	秘鲁绵枣	1
+bi lu mian zao er	秘鲁绵枣儿	1
+bi lu min zu zhu yi dang	秘鲁民族主义党	1
+bi lu mo ya zhi li	秘鲁磨牙脂鲤	1
+bi lu nai shi xue	秘鲁奈氏鳕	1
+bi lu nan mei hang kong	秘鲁南美航空	1
+bi lu nan mei hang kong hang dian	秘鲁南美航空航点	1
+bi lu nei bu chong tu	秘鲁内部冲突	1
+bi lu ni si yan jiang	秘鲁拟四眼鳉	1
+bi lu ni wu chi zhi li	秘鲁拟无齿脂鲤	1
+bi lu ni xi gai nian	秘鲁拟喜盖鲶	1
+bi lu nie chi zhi li	秘鲁啮齿脂鲤	1
+bi lu nie zhi li	秘鲁啮脂鲤	1
+bi lu pi ti	秘鲁䴙䴘	1
+bi lu pi zhi li	秘鲁魮脂鲤	1
+bi lu ping guo	秘鲁苹果	1
+bi lu qi hou	秘鲁气候	1
+bi lu qi zhi	秘鲁旗帜	1
+bi lu qi zhi li	秘鲁奇脂鲤	1
+bi lu qian qi you	秘鲁前鳍鲉	1
+bi lu qian zheng zheng ce	秘鲁签证政策	1
+bi lu qing cao cha	秘鲁青草茶	1
+bi lu qu fu shu	秘鲁鼩负鼠	1
+bi lu quan ya shi shou yu	秘鲁犬牙石首鱼	1
+bi lu ren hang kong	秘鲁人航空	1
+bi lu ren kou	秘鲁人口	1
+bi lu ren min dang	秘鲁人民党	1
+bi lu ren wen zhu yi dang	秘鲁人文主义党	1
+bi lu ru xiang qi nian	秘鲁乳项鳍鲶	1
+bi lu shai er nian	秘鲁筛耳鲶	1
+bi lu shan jiang	秘鲁山鳉	1
+bi lu shen xian hua yi	秘鲁神仙花鮨	1
+bi lu sheng fen	秘鲁省份	1
+bi lu shi heng	秘鲁石鸻	1
+bi lu shi jian	秘鲁时间	1
+bi lu shi jie yi chan ming lu	秘鲁世界遗产名录	1
+bi lu shi xing nian	秘鲁视星鲶	1
+bi lu shi ye que	秘鲁拾叶雀	1
+bi lu shu shu	秘鲁鼠属	1
+bi lu shui ta	秘鲁水獭	1
+bi lu si tan da zhi li	秘鲁斯坦达脂鲤	1
+bi lu si xia hu yu	秘鲁似鰕虎鱼	1
+bi lu si xing zhi du	秘鲁死刑制度	1
+bi lu suo er	秘鲁索尔	1
+bi lu ta hao li yu	秘鲁塔豪丽鱼	1
+bi lu tai tuo zhi li	秘鲁泰托脂鲤	1
+bi lu tai yang xun zhang	秘鲁太阳勋章	1
+bi lu te lu xi lve sheng dian	秘鲁特鲁希略圣殿	1
+bi lu ti	秘鲁鳀	1
+bi lu ti yu da xue	秘鲁体育大学	1
+bi lu tian lun zhu	秘鲁天轮柱	1
+bi lu tu wen zhi li	秘鲁突吻脂鲤	1
+bi lu tuan jie dang	秘鲁团结党	1
+bi lu wei sheng bu	秘鲁卫生部	1
+bi lu wen hua	秘鲁文化	1
+bi lu wu chan jie ji dang	秘鲁无产阶级党	1
+bi lu wu chi zhi li	秘鲁无齿脂鲤	1
+bi lu wu mao quan	秘鲁无毛犬	1
+bi lu wu xu nian	秘鲁无须鲶	1
+bi lu wu xu xue	秘鲁无须鳕	1
+bi lu wu zhuang bu dui	秘鲁武装部队	1
+bi lu xi ban ya yu	秘鲁西班牙语	1
+bi lu xi jia mei nian	秘鲁细甲美鲶	1
+bi lu xi jiang	秘鲁溪鳉	1
+bi lu xi nan bu xue xiao	秘鲁西南部穴鸮	1
+bi lu xi shui nian	秘鲁喜水鲶	1
+bi lu xi xiao jiang	秘鲁吸小鳉	1
+bi lu xiang	秘鲁香	1
+bi lu xiang gao	秘鲁香膏	1
+bi lu xiang jiao	秘鲁香胶	1
+bi lu xiang shu	秘鲁香树	1
+bi lu xiang zhi	秘鲁香脂	1
+bi lu xiao ba weng	秘鲁小霸鹟	1
+bi lu xiao er qu	秘鲁小耳鼩	1
+bi lu xiao you nian	秘鲁小油鲶	1
+bi lu xin suo er	秘鲁新索尔	1
+bi lu xing hang kong	秘鲁星航空	1
+bi lu xing zheng qu hua	秘鲁行政区划	1
+bi lu xiu liu	秘鲁鸺鹠	1
+bi lu ya han yu	秘鲁牙汉鱼	1
+bi lu ya ma xun shen hua	秘鲁亚马逊神话	1
+bi lu ya shou hai nian	秘鲁雅首海鲶	1
+bi lu yan ou	秘鲁燕鸥	1
+bi lu yang liu	秘鲁洋流	1
+bi lu ye hou	秘鲁夜猴	1
+bi lu yi hui	秘鲁议会	1
+bi lu yi ju	秘鲁蚁鵙	1
+bi lu yin dai li yu	秘鲁隐带丽鱼	1
+bi lu yin di	秘鲁印地	1
+bi lu yin di	秘鲁因蒂	1
+bi lu yin hua yi	秘鲁银花鮨	1
+bi lu yin jia lan hua quan	秘鲁印加兰花犬	1
+bi lu ying pi gou nian	秘鲁硬皮钩鲶	1
+bi lu yu kuai hang kong	秘鲁愉快航空	1
+bi lu yu mao qiu guo ji xi lie sai	秘鲁羽毛球国际系列赛	1
+bi lu yue xiong cuan niao	秘鲁月胸窜鸟	1
+bi lu zhen jia nian	秘鲁真甲鲶	1
+bi lu zhen wei que	秘鲁针尾雀	1
+bi lu zheng zhi	秘鲁政治	1
+bi lu zhi nie yu	秘鲁栉啮鱼	1
+bi lu zhi shi shou yu	秘鲁栉石首鱼	1
+bi lu zhi xian zhi li	秘鲁直线脂鲤	1
+bi lu zhong bu shan mai	秘鲁中部山脉	1
+bi lu zhong can	秘鲁中餐	1
+bi lu zhong hui jing	秘鲁中喙鲸	1
+bi lu zhuang mian wei	秘鲁壮绵鳚	1
+bi lu zong du qu	秘鲁总督区	1
+bi lu zong du xia qu	秘鲁总督辖区	1
+bi lu zong gong hui	秘鲁总工会	1
+bi lu zong li	秘鲁总理	1
+bi lu zong tong	秘鲁总统	1
+bi lu zu qiu chao ji lian sai	秘鲁足球超级联赛	1
+bi lu zu qiu jia ji lian sai	秘鲁足球甲级联赛	1
+bi lu zu qiu xie hui	秘鲁足球协会	1
+bi lu zu qiu yi ji lian sai	秘鲁足球乙级联赛	1
+bi lu zui gao fa yuan	秘鲁最高法院	1
+bi luo ruo zai yan	薜萝若在眼	1
+bi ma wen bing du	弼马温病毒	1
+bi man qi jing jie	必慢其经界	1
+bi mao zhen zhe shui zao	鼻锚真哲水蚤	1
+bi mei du	鼻梅毒	1
+bi mei mo si	吡美莫司	1
+bi mei yang e	蔽美扬恶	1
+bi mei yu shan guo	彼美玉山果	1
+bi men bu gan chu	闭门不敢出	1
+bi men chu cai ban yuan ding	闭门锄菜伴园丁	1
+bi men han ge	闭门酣歌	1
+bi men he zhe	闭门合辙	1
+bi men que gui	闭门却轨	1
+bi men sao ji	闭门扫迹	1
+bi men si qian	闭门思愆	1
+bi men tou xia	闭门投辖	1
+bi meng mu xue	比蒙墓穴	1
+bi mian yin xing	避面尹邢	1
+bi min you chang xing	彼民有常性	1
+bi mo heng zi	笔墨横姿	1
+bi mo zhi lin	笔墨之林	1
+bi mu lian zhi	比目连枝	1
+bi mu se cong	闭目塞聪	1
+bi mu yan er	闭目掩耳	1
+bi nan gu di	避难谷地	1
+bi nan ying	避难营	1
+bi neng bi bu que lou	必能裨补阙漏	1
+bi ni	俾倪	1
+bi ni shan yu	避溺山隅	1
+bi nian	比年	1
+bi nuo ke xin na di yan ye	吡诺克辛钠滴眼液	1
+bi qi dao you yuan er wu ren	彼其道幽远而无人	1
+bi qi dao yuan er xian	彼其道远而险	1
+bi qi feng	比奇峰	1
+bi qian sheng zhi jia	必千乘之家	1
+bi qiang da ruo	避强打弱	1
+bi qiang ji duo	避强击惰	1
+bi qiang la gou	鼻腔拉钩	1
+bi qiang liang ji chong	鼻腔两极虫	1
+bi qiang zhi dan	笔枪纸弹	1
+bi qiang zhi huan chong	鼻腔指环虫	1
+bi qing e zhong	鼻青额肿	1
+bi qing yan wu	鼻青眼乌	1
+bi qing yan zi	鼻青眼紫	1
+bi qiu lei ma	敝裘羸马	1
+bi quan he	壁泉河	1
+bi rang xian lu	避让贤路	1
+bi ren	嬖人	1
+bi ren ren he qi duo you ye	彼仁人何其多忧也	1
+bi rou bi xing	吡柔比星	1
+bi rui	比叡	1
+bi rui shan	比叡山	1
+bi se ji shu	比色技术	1
+bi se yun xia jia	碧色云霞甲	1
+bi sha ke ding	比沙可啶	1
+bi sha ke ding chang rong pian	比沙可啶肠溶片	1
+bi shan she qu	璧山社区	1
+bi shan zhong ri si wu jin	碧山终日思无尽	1
+bi shang zhi you	蔽伤之忧	1
+bi sheng chun yi	笔生春意	1
+bi shi bing xia hu yu	彼氏冰鰕虎鱼	1
+bi shi ci shi	彼时此时	1
+bi shi er hou ren	必世而后仁	1
+bi shi gong xu	避实攻虚	1
+bi shi jin ma	避世金马	1
+bi shi jin men	避世金门	1
+bi shi li su	避世离俗	1
+bi shi yang zu yi shi fu mu	必使仰足以事父母	1
+bi shi yuan ruo ling	彼视渊若陵	1
+bi shou	笔受	1
+bi shou nian	匕首鲶	1
+bi shou shu dao	鼻手术刀	1
+bi shu	鵖属	1
+bi shu shi pian	鼻舒适片	1
+bi shui fu	避水符	1
+bi shui hao hao yun mang mang	碧水浩浩云茫茫	1
+bi shui jia	避水甲	1
+bi si yao dan cheng	必死耀丹诚	1
+bi su qu xin	避俗趋新	1
+bi sui	比岁	1
+bi sun shang	鼻损伤	1
+bi ta chun qing	鼻塌唇青	1
+bi tao hong jing tian niu	碧桃红颈天牛	1
+bi te	彼特	1
+bi ti e su	敝绨恶粟	1
+bi ti men	鼻涕门	1
+bi tian ru shui ye yun qing	碧天如水夜云轻	1
+bi tian yi se	碧天一色	1
+bi tong di bi ji	鼻通滴鼻剂	1
+bi tong ning di ji	鼻通宁滴剂	1
+bi tou feng huang luo	笔投凤凰螺	1
+bi tu	碧土	1
+bi tu qu yu	闭凸区域	1
+bi tuo mu	比托姆	1
+bi wa zhu meng zhao cheng guo	碧瓦朱甍照城郭	1
+bi wan jie	碧湾街	1
+bi wei shui shu ya ke	笔尾睡鼠亚科	1
+bi wen di chong	鼻吻滴虫	1
+bi wu chou lei	比物丑类	1
+bi wu ci zhi	比物此志	1
+bi wu er feng	比屋而封	1
+bi wu jia shi	比物假事	1
+bi wu ke zhu	比屋可诛	1
+bi wu lian meng	比屋连甍	1
+bi xi lei ming	鼻息雷鸣	1
+bi xi rou zhai chu shu	鼻息肉摘除术	1
+bi xia you tie	笔下有铁	1
+bi xian shou yi	避嫌守义	1
+bi xian xiong ting	鼻掀胸挺	1
+bi xiang	壁厢	1
+bi xiao	毕肖	1
+bi xiao	逼肖	1
+bi xiao xi jing	避嚣习静	1
+bi xie shou zhuo	避邪手镯	1
+bi xin lu	碧欣路	1
+bi xing hai	毕星海	1
+bi xiong yue ke quan	比熊约克犬	1
+bi xu wu yun feng bu qi	碧虚无云风不起	1
+bi xue	笔削	1
+bi ya di gu fen	比亚迪股份	1
+bi ya jin xing chi e	比亚金星尺蛾	1
+bi ya ke dao zhe zhong ying wu	比亚克岛折衷鹦鹉	1
+bi yan lei ju	鄙言累句	1
+bi yan miu shuo	秕言谬说	1
+bi yan ning ke li	鼻炎宁颗粒	1
+bi yan zhao shan gu	碧眼照山谷	1
+bi yang	泌阳	1
+bi yang zhan dou	泌阳战斗	1
+bi ye dui	毕业队	1
+bi ye lin shi er ju	必也临事而惧	1
+bi yi	敝衣	1
+bi yi li shi	敝衣粝食	1
+bi yi lian zhi dang ri yuan	比翼连枝当日愿	1
+bi yi que sun xiu fu shu	鼻翼缺损修复术	1
+bi yi xiao fu	敝衣枵腹	1
+bi yi ye	鼻溢液	1
+bi ying lian ji	避影敛迹	1
+bi ying ni xing	避影匿形	1
+bi yong qiang zhuang nie	鼻用枪状镊	1
+bi you	必由	1
+bi you si zhou	臂有四肘	1
+bi yu bu xie	鄙于不屑	1
+bi yu diao ying	碧玉雕影	1
+bi yu kuang dong	碧玉矿洞	1
+bi yu sao tou luo shui zhong	碧玉搔头落水中	1
+bi yu xiao jia nv	碧玉小家女	1
+bi yu ya mu	躄鱼亚目	1
+bi yu yin xin duan jue	比喻音信断绝	1
+bi yuan shu kou fu ye	鼻渊舒口服液	1
+bi yuan tan	币原坦	1
+bi yuan tang jiang	鼻渊糖浆	1
+bi yuan tong qiao ke li	鼻渊通窍颗粒	1
+bi zai bi zai	彼哉彼哉	1
+bi zhang bi li	比张比李	1
+bi zhe xian xing	秕者先行	1
+bi zhen bi xiao	逼真逼肖	1
+bi zheng xi xian chang zhi	必正席先尝之	1
+bi zhi pin mei er bu zhi pin zhi suo yi mei	彼知颦美而不知颦之所以美	1
+bi zhi ruo mei	避之若浼	1
+bi zhi zhan	邲之战	1
+bi zhong ge cheng xing shu	鼻中隔成形术	1
+bi zhong ge nong zhong	鼻中隔脓肿	1
+bi zhong mo chi	笔冢墨池	1
+bi zhong yan chuan	笔冢研穿	1
+bi zhong yan qing	鼻肿眼青	1
+bi zhong zhu qing	避重逐轻	1
+bi zhu mo fa	笔诛墨伐	1
+bi zhu xiang	跸驻乡	1
+bi zi jie jie dao	篦子街街道	1
+bi zuo ji chi	璧坐玑驰	1

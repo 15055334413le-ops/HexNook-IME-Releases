@@ -1,0 +1,1132 @@
+yan fa	研发	182626
+yan jiu yuan	研究院	106061
+yan jiu yuan	研究员	93228
+yan hai	沿海	86113
+yan suan	盐酸	61337
+yan xun	烟熏	53502
+yan pin	赝品	36524
+yan zhong cheng du	严重程度	28682
+yan qi	延期	22535
+yan suan	烟酸	12392
+yan zheng ma	验证码	10393
+yan ke	眼科	10370
+yan kuang	眼眶	10243
+yan chi jia zai	延迟加载	9465
+yan he	沿河	8947
+yan zheng	炎症	8670
+yan rou	眼肉	8618
+yan hou	咽喉	7808
+yan hua liao luan	眼花缭乱	7483
+yan mai pian	燕麦片	6875
+yan zhen yi dai	严阵以待	6565
+yan cao zhuan mai fa	烟草专卖法	6473
+yan chi shi jian	延迟时间	6088
+yan zhi hong	胭脂红	5119
+yan an shi	延安市	4681
+yan zi	晏子	4632
+yan sheng pin	衍生品	4393
+yan tai shi	烟台市	4379
+yan yan yi xi	奄奄一息	4374
+yan xi shan	阎锡山	4258
+yan shui ya	盐水鸭	4166
+yan cheng shi	盐城市	4141
+yan shan	燕山	4136
+yan yu lv ji	严于律己	3955
+yan chuan shen jiao	言传身教	3721
+yan mian	颜面	3649
+yan ren er mu	掩人耳目	3500
+yan chi zhi xing	延迟执行	3177
+yan cao zong gong si	烟草总公司	3173
+yan huang zi sun	炎黄子孙	3167
+yan se kong jian	颜色空间	2974
+yan cheng bu dai	严惩不贷	2973
+yan zhong cuo wu	严重错误	2723
+yan wo zhou	燕窝粥	2573
+yan xiao yun san	烟消云散	2530
+yan ling	炎陵	2356
+yan jian yi gai	言简意赅	2354
+yan se zhi	颜色值	2316
+yan an lu	延安路	2278
+yan zhi zao zao	言之凿凿	2161
+yan ta	雁塔	2083
+yan shi jia zai	延时加载	2035
+yan qi xi gu	偃旗息鼓	1932
+yan di	炎帝	1866
+yan xing yi zhi	言行一致	1842
+yan huang	炎黄	1815
+yan shi cheng xu	演示程序	1776
+yan jian	眼睑	1750
+yan liang	阎良	1721
+yan xian an	烟酰胺	1704
+yan zheng yong hu ming	验证用户名	1696
+yan wai zhi yi	言外之意	1662
+yan yao shui	眼药水	1641
+yan guo ba mao	雁过拔毛	1617
+yan tan ju zhi	言谈举止	1604
+yan er dao ling	掩耳盗铃	1599
+yan nian yi shou	延年益寿	1569
+yan shi	厌食	1434
+yan jiang da dao	沿江大道	1347
+yan shou ce shi	验收测试	1345
+yan shi zi	咽拭子	1309
+yan se jian bian	颜色渐变	1277
+yan guo qi shi	言过其实	1204
+yan jiang lu	沿江路	1199
+yan shi han shu	延时函数	1179
+yan cao zhuan mai fa lv fa gui	烟草专卖法律法规	1165
+yan yan	咽炎	1163
+yan se xuan ze qi	颜色选择器	1150
+yan hai yun shu	沿海运输	1137
+yan zheng cheng xu	验证程序	1077
+yan qi hu	雁栖湖	1073
+yan ji shou kuai	眼疾手快	1071
+yan you zai er	言犹在耳	1062
+yan ting ji cong	言听计从	1045
+yan zheng kuang jia	验证框架	1037
+yan bian zhou	延边州	1026
+yan se dai ma	颜色代码	1005
+yan pi	燕皮	1001
+yan gao shou di	眼高手低	979
+yan se biao	颜色表	966
+yan zi ji	燕子矶	941
+yan chao ji	验钞机	911
+yan ge	阉割	908
+yan jiu sheng ji shi	研究生机试	896
+yan xing bu yi	言行不一	870
+yan hou yan	咽喉炎	852
+yan si he feng	严丝合缝	843
+yan zhi you wu	言之有物	835
+yan xun pai gu	烟熏排骨	832
+yan ji shi	延吉市	810
+yan dan	盐蛋	802
+yan dou	盐都	787
+yan sheng wu	衍生物	771
+yan zheng xi tong	验证系统	759
+yan fa guo cheng	研发过程	758
+yan he lu	沿河路	757
+yan hui he	烟灰盒	753
+yan xing jun fa	严刑峻法	737
+yan wo	眼窝	710
+yan shi shi	偃师市	679
+yan zheng kong jian	验证控件	664
+yan ge	岩鸽	656
+yan la rou	腌腊肉	648
+yan du	盐度	646
+yan bo hao miao	烟波浩渺	641
+yan chang	烟厂	640
+yan wu bu jin	言无不尽	636
+yan su ji	盐酥鸡	614
+yan ya	眼压	600
+yan er wu xin	言而无信	569
+yan ge mo shi	严格模式	564
+yan fu	严复	563
+yan tang	堰塘	552
+yan mian sao di	颜面扫地	550
+yan an xi lu	延安西路	549
+yan qi xian	焉耆县	540
+yan zhi you li	言之有理	514
+yan bu you zhong	言不由衷	508
+yan chuan	延川	488
+yan jin	盐津	464
+yan zheng fan ying	炎症反应	464
+yan er you xin	言而有信	446
+yan an dong lu	延安东路	444
+yan pi lao	眼疲劳	444
+yan chong	眼虫	440
+yan zheng suan fa	验证算法	436
+yan chun	宴春	431
+yan shi cao zuo	延时操作	430
+yan shi kou	盐市口	426
+yan se zhi fang tu	颜色直方图	419
+yan suan jin gang wan an	盐酸金刚烷胺	394
+yan chi ji suan	延迟计算	391
+yan yao	眼药	381
+yan zhou shi	兖州市	378
+yan zhen qing	颜真卿	375
+yan xi tang	燕喜堂	372
+yan xi	沿溪	357
+yan yun lou	燕云楼	357
+yan zheng ma shi bie	验证码识别	354
+yan shan lu	沿山路	348
+yan wai shang	眼外伤	346
+yan bing	盐饼	343
+yan fa guan li	研发管理	342
+yan an zhong lu	延安中路	339
+yan bi er guo	掩鼻而过	339
+yan guan liu lu	眼观六路	337
+yan hou tong	咽喉痛	332
+yan shan lu	燕山路	330
+yan die	眼蝶	323
+yan ling	鄢陵	318
+yan yuan	盐源	316
+yan jing mian	眼镜面	308
+yan jiu bao gao	研究报告	307
+yan jie mo	眼结膜	306
+yan xun san wen yu	烟熏三文鱼	302
+yan ping	延平	300
+yan zheng shou ji hao	验证手机号	283
+yan jian rou	盐煎肉	276
+yan jin	延津	273
+yan bei	雁北	253
+yan ke xue	眼科学	253
+yan wei xin sheng	言为心声	248
+yan chi ren wu	延迟任务	247
+yan zi	晏紫	246
+yan ci yuan ze	言词原则	242
+yan gui zheng zhuan	言归正传	237
+yan cheng xu	言承旭	236
+yan dai xie jie	烟袋斜街	233
+yan qiu po lie	眼球破裂	233
+yan di chu xie	眼底出血	231
+yan shan	盐山	231
+yan ju ji	盐局鸡	228
+yan ting	盐亭	227
+yan jing	盐井	224
+yan ming shou kuai	眼明手快	221
+yan suan ke lun te luo	盐酸克仑特罗	219
+yan cao shi chang	烟草市场	214
+yan dun	烟墩	207
+yan dou	燕都	206
+yan qi zhen	雁栖镇	205
+yan hai gong lu	沿海公路	200
+yan bu jian wei jing	眼不见为净	194
+yan ta xi lu	雁塔西路	191
+yan zhi cheng li	言之成理	190
+yan jiao kai fa qu	燕郊开发区	173
+yan wu	演武	173
+yan yang jun	厌氧菌	171
+yan he xian	沿河县	166
+yan bian	盐边	165
+yan cheng	郾城	165
+yan se xi tong	颜色系统	163
+yan suan wei ma huang jian	盐酸伪麻黄碱	163
+yan zhi lu	胭脂路	159
+yan duo bi shi	言多必失	158
+yan mo wu wen	湮没无闻	158
+yan jia	晏家	151
+yan gui yu hao	言归于好	148
+yan hua san yue xia yang zhou	烟花三月下扬州	148
+yan tan	沿滩	147
+yan zhe wu zui	言者无罪	147
+yan se jian dan	颜色减淡	145
+yan wo su	燕窝酥	145
+yan zi wo	燕子窝	142
+yan chuan	燕川	141
+yan qing xian zheng fu	延庆县政府	137
+yan chang lu	延长路	135
+yan zhi wu wu	言之无物	133
+yan tou	岩头	131
+yan kuan	严宽	127
+yan an nan lu	延安南路	125
+yan song	严嵩	125
+yan ran yi xiao	嫣然一笑	122
+yan hang	雁行	120
+yan suan yu	腌酸鱼	119
+yan er dao	燕儿岛	118
+yan guo liu sheng	雁过留声	118
+yan ling	延陵	117
+yan jiu	验旧	116
+yan an lu kou	延安路口	115
+yan nan lu	燕南路	115
+yan huang yi shu guan	炎黄艺术馆	114
+yan ti	演替	113
+yan men	岩门	112
+yan nan lu	雁南路	111
+yan bu ji yi	言不及义	109
+yan hua mo xing	演化模型	109
+yan ya lun	炎亚纶	108
+yan shui cai xin	盐水菜心	107
+yan ye shui zan xing tiao li	烟叶税暂行条例	107
+yan tian	岩田	106
+yan bu jian xin bu fan	眼不见心不烦	105
+yan zi ling	燕子岭	105
+yan qing	燕青	104
+yan zhong fen ge	严重分割	101
+yan chi	雁翅	99
+yan li xiao jiao nang	炎立消胶囊	99
+yan jing jun er	岩井俊二	98
+yan an xin cun	延安新村	96
+yan jing pi jiu ji tuan	燕京啤酒集团	96
+yan sheng chan pin	衍生产品	96
+yan zhi chong hong	胭脂虫红	96
+yan he tu jia zu zi zhi xian	沿河土家族自治县	95
+yan ji ci	严济慈	95
+yan dan chen	颜丹晨	93
+yan feng ying	严凤英	92
+yan huo ju ji	盐火局鸡	91
+yan zhuang	燕庄	91
+yan guan liu lu er ting ba fang	眼观六路耳听八方	89
+yan zi	眼子	89
+yan fa gong ju	研发工具	88
+yan po	鄢颇	87
+yan huang bai	盐黄柏	86
+yan ren ren shu	言人人殊	86
+yan he nan lu	沿河南路	84
+yan suan ma lin gua pian	盐酸吗啉胍片	84
+yan zheng zhe	验证者	83
+yan guang ming	颜光明	82
+yan qing xian yan qing zhen	延庆县延庆镇	82
+yan hu suo	延胡索	81
+yan hui gang gai	烟灰缸盖	81
+yan qian	岩前	80
+yan luo bo gan	腌萝卜干	79
+yan shen	验审	77
+yan chang zhong lu	延长中路	76
+yan dao jie	盐道街	76
+yan jiang lu	燕江路	76
+yan chi xian	延迟线	75
+yan qiu zhen chan	眼球震颤	75
+yan shu	晏殊	75
+yan an	阎安	74
+yan chun jiu lou	宴春酒楼	74
+yan se shi bie	颜色识别	74
+yan shan jie	燕山街	74
+yan suan jin gang yi an	盐酸金刚乙胺	74
+yan ping lu	延平路	73
+yan xian gui yu	腌鲜鳜鱼	73
+yan bian niu	延边牛	72
+yan bian ping guo li	延边苹果梨	72
+yan feng	岩峰	72
+yan qing xian yi yuan	延庆县医院	72
+yan kou	沿口	71
+yan yin lu	雁引路	71
+yan yang li	艳阳里	68
+yan jing cun	盐井村	65
+yan zhe zhun zhun	言者谆谆	65
+yan ping jun wang ci	延平郡王祠	64
+yan qiu tu chu	眼球突出	64
+yan wei	严伟	64
+yan liao fang	颜料坊	63
+yan yu zhi liao	言语治疗	63
+yan gang lu	沿港路	62
+yan se qu yang qi	颜色取样器	62
+yan suan xi bu qu ming	盐酸西布曲明	62
+yan ling xiang	延龄巷	60
+yan zheng	严政	60
+yan de hu zi	焉得虎子	59
+yan dian qing tian zi yi xing	雁点青天字一行	59
+yan qing nan cai yuan	延庆南菜园	59
+yan quan	岩泉	59
+yan wan	岩湾	59
+yan ying	晏婴	59
+yan che fei yong	验车费用	58
+yan yi tui li	演绎推理	57
+yan cong	严从	56
+yan bu qiu jia	盐步秋茄	55
+yan wu liao fa	厌恶疗法	55
+yan qiu dun cuo shang	眼球钝挫伤	54
+yan xia yan	咽峡炎	53
+yan xian gui yu	腌鲜桂鱼	52
+yan zhi he	胭脂河	51
+yan tu	盐土	50
+yan zi yan	燕子岩	50
+yan jia cun	严家村	49
+yan shan	岩山	49
+yan wu bing	烟雾病	49
+yan zhi zhun zhun	言之谆谆	49
+yan cun	闫村	48
+yan suan ma huang jian	盐酸麻黄碱	48
+yan xiao yan yan	言笑晏晏	48
+yan chang lu jie dao	盐场路街道	47
+yan jiu sheng fa xue	研究生法学	47
+yan suan liu an su	盐酸硫胺素	47
+yan jia gou	闫家沟	46
+yan jing li	延静里	46
+yan suan er jia shuang gua	盐酸二甲双胍	46
+yan suan qu ma duo pian	盐酸曲马多片	46
+yan dang mao feng cha	雁荡毛峰茶	43
+yan bi xin xing bi guo	言必信行必果	42
+yan chu fa sui	言出法随	42
+yan jiang bei lu	沿江北路	42
+yan lie	眼裂	42
+yan yu	阎宇	42
+yan tao	严涛	41
+yan zhi tui	颜之推	41
+yan zhuang	闫庄	41
+yan qian cun	岩前村	40
+yan shan shui ni chang	燕山水泥厂	40
+yan cheng xian	郾城县	39
+yan nei yan	眼内炎	39
+yan quan xiong	眼圈熊	38
+yan suan yi bing qin	盐酸异丙嗪	38
+yan tai men zi	烟台焖子	38
+yan zhou gan cai ya	严州干菜鸭	38
+yan suan lin ke mei su	盐酸林可霉素	37
+yan ya jian cha	眼压检查	37
+yan bu shun ze shi bu cheng	言不顺则事不成	36
+yan li ben	阎立本	36
+yan lun za ji	眼轮匝肌	36
+yan wen jing	严文井	36
+yan zhi wu wen	言之无文	36
+yan ming xin liang	眼明心亮	35
+yan he cheng	沿河城	34
+yan he dong lu	沿河东路	34
+yan an lu qing chun lu kou	延安路庆春路口	33
+yan ban gui	眼斑龟	33
+yan bing zi	盐饼子	33
+yan dian jie	盐店街	33
+yan dao	严道	32
+yan tou cun	堰头村	32
+yan jia nong	严家弄	31
+yan jian jing luan	眼睑痉挛	31
+yan chi lv xing jin	延迟履行金	30
+yan hu ning	炎琥宁	30
+yan mai fan	燕麦饭	30
+yan ming	晏明	30
+yan qing huo che zhan	延庆火车站	30
+yan jia shan	严家山	29
+yan mian rou rou	燕面揉揉	29
+yan shi xian	偃师县	29
+yan suan lv bing na lin	盐酸氯丙那林	29
+yan xing men	延兴门	29
+yan you jin er yi wu qiong	言有尽而意无穷	29
+yan yu xiao qu	烟雨小区	29
+yan zhong ding rou zhong ci	眼中钉肉中刺	29
+yan an dong lu wai tan	延安东路外滩	28
+yan dan	燕丹	28
+yan jian yi shen	言简意深	28
+yan kou	堰口	28
+yan qian niao	燕千鸟	28
+yan suan ben yi shuang gua	盐酸苯乙双胍	28
+yan fa jia gou	研发架构	27
+yan le hu tong	演乐胡同	27
+yan wa chi	砚瓦池	27
+yan yu lv yi	严于律已	27
+yan zi ge	燕子鸽	27
+yan jin wu gu ji	盐津乌骨鸡	26
+yan long xiang	岩垅乡	26
+yan men cun	岩门村	26
+yan bi you ju	言必有据	25
+yan bo jiang shang shi ren chou	烟波江上使人愁	25
+yan gong miao	晏公庙	25
+yan pie lan si er	腌苤蓝丝儿	25
+yan qi chu li	延期处理	25
+yan qin	闫勤	25
+yan shui zhou hua er	盐水肘花儿	25
+yan tian cun	盐田村	25
+yan zhi xiang	胭脂巷	25
+yan zi li san	燕子李三	25
+yan di dong mai ying hua	眼底动脉硬化	24
+yan jian shui zhong	眼睑水肿	24
+yan jin zhi yuan	言近旨远	24
+yan ling xi lu	延陵西路	24
+yan qiu chuan tong shang	眼球穿通伤	24
+yan que hu	燕雀湖	24
+yan suan shen shang xian su	盐酸肾上腺素	24
+yan xiao hua	颜晓华	24
+yan yan pian	咽炎片	24
+yan zi cun	燕子村	24
+yan gang	燕港	23
+yan hui zhu	言慧珠	23
+yan shou huan fei	燕瘦环肥	23
+yan tou	堰头	23
+yan bao zai ge	芫爆仔鸽	22
+yan dai xiang	烟袋乡	22
+yan guan si lu	眼观四路	22
+yan jian bi he bu quan	眼睑闭合不全	22
+yan jian shou kuai	眼尖手快	22
+yan jiao huo che zhan	燕郊火车站	22
+yan jie mo re	咽结膜热	22
+yan kuang zhong liu	眼眶肿瘤	22
+yan pi si	燕皮丝	22
+yan suan nai fu pan zhu she ye	盐酸奈福泮注射液	22
+yan wo si zi	燕窝四字	22
+yan bu gu zhi	盐补骨脂	21
+yan du	盐渎	21
+yan sha qiao nan	燕莎桥南	21
+yan suan xiao bo jian	盐酸小檗碱	21
+yan zhao wang	燕昭王	21
+yan fang lu	燕房路	20
+yan gu guan yan kou	咽鼓管咽口	20
+yan jia cun	颜家村	20
+yan yan	严颜	20
+yan gang yi yuan	盐港医院	19
+yan hui qing	颜惠庆	19
+yan ji jing luan	咽肌痉挛	19
+yan jiang yuan	燕江园	19
+yan jing yao	严景耀	19
+yan shan ying ju yuan	燕山影剧院	19
+yan da jie	盐大街	18
+yan hou yi wu	咽喉异物	18
+yan kang	延康	18
+yan li si	延历寺	18
+yan mo qi	研磨器	18
+yan suan si huan su	盐酸四环素	18
+yan suan zuo yang fu sha xing pian	盐酸左氧氟沙星片	18
+yan wu zhi liao	厌恶治疗	18
+yan jia tang	晏家塘	17
+yan liang	颜良	17
+yan shi cai yao qu	言师采药去	17
+yan shou cun	延寿村	17
+yan suan zuo yang fu sha xing	盐酸左氧氟沙星	17
+yan an bin guan	延安宾馆	16
+yan bao du si	芫爆肚丝	16
+yan chi	雁池	16
+yan jian	严健	16
+yan mo tu	掩模图	16
+yan niu jiao jin	腌牛脚筋	16
+yan shan xue hua da ru xi	燕山雪花大如席	16
+yan suan duo ba an	盐酸多巴胺	16
+yan bian er shou che wang	延边二手车网	15
+yan chi zhuan yi	延迟转移	15
+yan dao ping	盐道坪	15
+yan feng cun	岩峰村	15
+yan ge zi dan	烟鸽子蛋	15
+yan jia bao	晏家堡	15
+yan jian yan	眼睑炎	15
+yan long han shui yue long sha	烟笼寒水月笼沙	15
+yan qi	眼气	15
+yan qing qi che zhan	延庆汽车站	15
+yan qing yi zhong	延庆一中	15
+yan quan jie dao	燕泉街道	15
+yan san xian er	烟三鲜儿	15
+yan xi	延熹	15
+yan yu mang cang cang	烟雨莽苍苍	15
+yan cao da lou	烟草大楼	14
+yan che qian zi	盐车前子	14
+yan dao yu	烟刀鱼	14
+yan jian cuo shang	眼睑挫伤	14
+yan suan an xiu suo	盐酸氨溴索	14
+yan wei tao hua	燕尾桃花	14
+yan yan zhi	颜延之	14
+yan jia ping jie dao	晏家坪街道	13
+yan ju peng	言菊朋	13
+yan lv nan	严律南	13
+yan qing dong guan	延庆东关	13
+yan suan jin mei su yan gao	盐酸金霉素眼膏	13
+yan xiang dong	严向东	13
+yan cao qian ye e	烟草潜叶蛾	12
+yan chen	严辰	12
+yan pi zhi ji su	盐皮质激素	12
+yan ping	沿平	12
+yan qian wu lu xiang hui tou	眼前无路想回头	12
+yan suan er qing ai tuo fei	盐酸二氢埃托啡	12
+yan suan ke le ding	盐酸可乐定	12
+yan suan lei ni ti ding jiao nang	盐酸雷尼替丁胶囊	12
+yan ya zhang er	烟鸭掌儿	12
+yan an lu jie fang lu kou	延安路解放路口	11
+yan ban	烟斑	11
+yan dan cun	燕丹村	11
+yan dong xiang	岩东乡	11
+yan guang	延光	11
+yan jia ci	严家祠	11
+yan jiang gong ye yuan qu	沿江工业园区	11
+yan ling xian da yuan nong chang	炎陵县大院农场	11
+yan mian zai fa xing pi yan	颜面再发性皮炎	11
+yan sha qiao dong	燕莎桥东	11
+yan shi fan	严世蕃	11
+yan si qi	颜思齐	11
+yan suan er jia shuang gua pian	盐酸二甲双胍片	11
+yan suan qu mei ta qin	盐酸曲美他嗪	11
+yan sui ma bi	延髓麻痹	11
+yan tian ma tou	盐田码头	11
+yan yang lu	艳阳路	11
+yan yi shu ju ku	演绎数据库	11
+yan zhang cun	盐张村	11
+yan zheng hua	严正花	11
+yan an gong yuan	延安公园	10
+yan jia long kou	严家弄口	10
+yan pang jian xi	咽旁间隙	10
+yan qu mei	烟曲霉	10
+yan shan qu	燕山区	10
+yan xing xi rou	炎性息肉	10
+yan zhen	眼震	10
+yan cao hua ye bing du	烟草花叶病毒	9
+yan heng	严恒	9
+yan hu she qu	沿湖社区	9
+yan men tai shou xing	雁门太守行	9
+yan qian dao lu wu jing wei	眼前道路无经纬	9
+yan qing jiao tong ju	延庆交通局	9
+yan suan bei na pu li pian	盐酸贝那普利片	9
+yan suan lv bing qin zhu she	盐酸氯丙嗪注射	9
+yan yan sui bo qian wan li	滟滟随波千万里	9
+yan ying	雁影	9
+yan yu she qu	烟雨社区	9
+yan yuan	颜元	9
+yan cao ru bi si	燕草如碧丝	8
+yan cheng xian	盐城县	8
+yan di xiang	淹底乡	8
+yan er	岩二	8
+yan hai hang biao guan li ban fa	沿海航标管理办法	8
+yan hui gang qian	烟灰缸前	8
+yan ji xi lu	延吉西路	8
+yan jia xiang	晏家乡	8
+yan jian cheng xing shu	眼睑成形术	8
+yan jiu jian bao	研究简报	8
+yan ling dong lu	延陵东路	8
+yan men kou	岩门口	8
+yan shui li ji	盐水里脊	8
+yan suan bi ge lie tong	盐酸吡格列酮	8
+yan suan ke lin mei su	盐酸克林霉素	8
+yan suan ke lun te luo pian	盐酸克仑特罗片	8
+yan suan mei li qu xin	盐酸美利曲辛	8
+yan suan xiao bo jian pian	盐酸小檗碱片	8
+yan yuan	雁园	8
+yan yue long	闫跃龙	8
+yan zheng hou se su chen zhuo	炎症后色素沉着	8
+yan zhi hu tong	胭脂胡同	8
+yan zhuang cun	阎庄村	8
+yan bian tao ti	咽扁桃体	7
+yan cheng shi min zheng ju	盐城市民政局	7
+yan du he	严独鹤	7
+yan gang	颜港	7
+yan he jin	燕禾金	7
+yan he lu kou	沿河路口	7
+yan hu	延胡	7
+yan hua	岩花	7
+yan jia qu	闫家渠	7
+yan jia zhuang	燕家庄	7
+yan jiang	颜江	7
+yan long	炎龙	7
+yan men guan xiang	雁门关乡	7
+yan qiao	颜桥	7
+yan qing er xiao	延庆二小	7
+yan qing er zhong	延庆二中	7
+yan shan bin guan	燕山宾馆	7
+yan shou tang yao gao	延寿堂药糕	7
+yan suan a ding huang	盐酸吖啶黄	7
+yan suan duo ba an zhu she ye	盐酸多巴胺注射液	7
+yan suan xi bu qu ming jiao nang	盐酸西布曲明胶囊	7
+yan tian da ming	岩田达明	7
+yan xing jia liu	炎性假瘤	7
+yan an xi lu kai xuan lu	延安西路凯旋路	6
+yan di	严迪	6
+yan dou xian	盐都县	6
+yan er wo	燕尔窝	6
+yan guang ning er mu shan zi	烟光凝而暮山紫	6
+yan hu xiang	盐湖乡	6
+yan hu xiao qu	沿湖小区	6
+yan jia cun	晏家村	6
+yan jia qu	严家渠	6
+yan jiao	岩角	6
+yan qiao	闫桥	6
+yan qing jiu xian	延庆旧县	6
+yan qing nan cai yuan zong zhan	延庆南菜园总站	6
+yan ran wei lei gui wu ji	燕然未勒归无计	6
+yan rou dan mai man fen	烟肉蛋麦满分	6
+yan suan ben hai la ming	盐酸苯海拉明	6
+yan suan ben huan ren zhi pian	盐酸苯环壬酯片	6
+yan suan ma huang jian di bi ye	盐酸麻黄碱滴鼻液	6
+yan suan pai jia zhi	盐酸哌甲酯	6
+yan suan pu lu ka yin	盐酸普鲁卡因	6
+yan suan qu mei ta qin pian	盐酸曲美他嗪片	6
+yan ta xi lu dong kou	雁塔西路东口	6
+yan tai san kang ji	烟台糁糠鸡	6
+yan tao wei mang xin nan qiu	烟涛微茫信难求	6
+yan ting	颜廷	6
+yan wen qing	闫文清	6
+yan wu	颜屋	6
+yan wu cun	岩屋村	6
+yan yu tang	严裕棠	6
+yan yuan xiang	盐源乡	6
+yan zi fei lai fei qu	燕子飞来飞去	6
+yan zi lai shi xin she	燕子来时新社	6
+yan chen	颜琛	5
+yan chong bing	眼虫病	5
+yan gao qing	颜杲卿	5
+yan guo ba	烟锅巴	5
+yan he kou cun	沿河口村	5
+yan he lu	延河路	5
+yan hu ning zhu she ye	炎琥宁注射液	5
+yan jia qu cun	闫家渠村	5
+yan jiao zhong mei yi yuan	燕郊中美医院	5
+yan kuang wai shang	眼眶外伤	5
+yan kun	严昆	5
+yan lu gong suo jie	燕鲁公所街	5
+yan ping jia yuan	燕平家园	5
+yan shan shi chang	沿山市场	5
+yan shui jie pi	腌水芥皮	5
+yan shui yu	盐水浴	5
+yan shui zhun hua	盐水肫花	5
+yan suan an xiu suo pian	盐酸氨溴索片	5
+yan suan duo xi huan su	盐酸多西环素	5
+yan suan fen fu la ming	盐酸芬氟拉明	5
+yan suan fu pai sai dun	盐酸氟哌噻吨	5
+yan suan jin mei su	盐酸金霉素	5
+yan suan ma fei pian	盐酸吗啡片	5
+yan suan nai fu pan pian	盐酸奈福泮片	5
+yan suan qu ma duo zhu she ye	盐酸曲马多注射液	5
+yan suan xiu ji xin	盐酸溴己新	5
+yan suan zuo xuan mi zuo	盐酸左旋咪唑	5
+yan tou	沿头	5
+yan wang xiang	燕王乡	5
+yan xi xiang	烟溪乡	5
+yan xun ya zi	烟薰鸭子	5
+yan zhuang	阎庄	5
+yan ban zhao gui	眼斑沼龟	4
+yan dai zheng xing shu	眼袋整形术	4
+yan dian lou zhen	阎店楼镇	4
+yan dian tu	眼电图	4
+yan feng jie dao	沿丰街道	4
+yan hou bi nong zhong	咽后壁脓肿	4
+yan hou kui yang	咽喉溃疡	4
+yan hu ji tuan	盐湖集团	4
+yan hu ying	盐湖蝇	4
+yan huang lian	岩黄连	4
+yan hui wang	燕惠王	4
+yan jia lu	颜嘉璐	4
+yan jiao xiang	岩脚乡	4
+yan ju an chun dan	盐焗鹌鹑蛋	4
+yan ke ning pian	炎可宁片	4
+yan ling lu kou	燕灵路口	4
+yan lou zhen	阎楼镇	4
+yan mei dong xiang	烟煤洞乡	4
+yan mo	咽磨	4
+yan qian wu chang wu	眼前无长物	4
+yan qing gong an ju	延庆公安局	4
+yan qing wu zhong	延庆五中	4
+yan qing yu	阎青妤	4
+yan shi ping zhen	雁石坪镇	4
+yan si jie dao	闫寺街道	4
+yan suan an dian tong	盐酸胺碘酮	4
+yan suan an fei ta tong	盐酸安非他酮	4
+yan suan an xiu suo zhu she ye	盐酸氨溴索注射液	4
+yan suan duo nai pai qi	盐酸多奈哌齐	4
+yan suan duo nai pai qi pian	盐酸多奈哌齐片	4
+yan suan fu gui li qin jiao nang	盐酸氟桂利嗪胶囊	4
+yan suan fu xi ting	盐酸氟西汀	4
+yan suan huang lian su pian	盐酸黄连素片	4
+yan suan ke lin mei su jiao nang	盐酸克林霉素胶囊	4
+yan suan na luo tong	盐酸纳洛酮	4
+yan suan na qu tong	盐酸纳曲酮	4
+yan suan pa luo xi ting pian	盐酸帕罗西汀片	4
+yan suan qu yang shen shang xian su	盐酸去氧肾上腺素	4
+yan suan yi bing qin zhu she ye	盐酸异丙嗪注射液	4
+yan ta	岩塔	4
+yan wo dun xue li	燕窝炖雪梨	4
+yan wu kou xiang	岩屋口乡	4
+yan xian fa	阎仙垡	4
+yan zhi hu tong	言志胡同	4
+yan zhou xue li	严州雪梨	4
+yan zhuang cun	颜庄村	4
+yan ben xun	岩本薰	3
+yan bian leng mian	延边冷面	3
+yan bo qiao	烟波桥	3
+yan cai hui guo rou	盐菜回锅肉	3
+yan chang zhu zhai xiao qu	烟厂住宅小区	3
+yan chi he xiang	砚池河乡	3
+yan chi tiao kuan	延迟条款	3
+yan dai tai lang	岩代太郎	3
+yan dan yi xin jiao nang	延丹益心胶囊	3
+yan dang bai yun cha	雁荡白云茶	3
+yan ge zhuang zhen	闫各庄镇	3
+yan hao	严颢	3
+yan huo	眼火	3
+yan jia tai cun	燕家台村	3
+yan jia yuan zi	严家院子	3
+yan jiao mei shao dou shi hen	眼角眉梢都似恨	3
+yan jiao ye jin yi ju	燕郊冶金一局	3
+yan ping xiang	燕平乡	3
+yan qing di shui ju	延庆地税局	3
+yan qing fu you bao jian yuan	延庆妇幼保健院	3
+yan qing ling	严庆龄	3
+yan qing zhong yi yuan	延庆中医院	3
+yan qiu chuan kong shang	眼球穿孔伤	3
+yan sha qiao bei	燕莎桥北	3
+yan sha qiao xi	燕莎桥西	3
+yan sha yuan zi	盐沙苑子	3
+yan shan yue shi gou	燕山月似钩	3
+yan sheng hu bao ye	延生护宝液	3
+yan shu ming	严淑明	3
+yan song le	岩松了	3
+yan suan ben hai suo pian	盐酸苯海索片	3
+yan suan du luo xi ting	盐酸度洛西汀	3
+yan suan luo bei lin zhu she ye	盐酸洛贝林注射液	3
+yan suan mei jin gang	盐酸美金刚	3
+yan suan pai ti ding	盐酸哌替啶	3
+yan suan pu nai luo er pian	盐酸普萘洛尔片	3
+yan suan ti luo fei ban	盐酸替罗非班	3
+yan suan wei fu an	盐酸胃复安	3
+yan suan yi an ding chun	盐酸乙胺丁醇	3
+yan tao cun	雁陶村	3
+yan tian cun	烟田村	3
+yan wan cun	闫湾村	3
+yan wei	严蔚	3
+yan wen qing	阎文清	3
+yan xia zhi ma	岩下志麻	3
+yan xun san wen yu sha la	烟熏三文鱼沙拉	3
+yan yan han pian	咽炎含片	3
+yan yang lu	严杨路	3
+yan yuan di shi er	颜渊第十二	3
+yan yue	严岳	3
+yan zhang cun	彦张村	3
+yan zhen dian tu	眼震电图	3
+yan zheng du wo chang	炎蒸毒我肠	3
+yan zhi er shi zai	焉知二十载	3
+yan zhuang cun wei hui	闫庄村委会	3
+yan zi bu gui chun shi wan	燕子不归春事晚	3
+yan zi shuang fei qu	燕子双飞去	3
+yan an lan	晏安澜	2
+yan an lu di dao	延安路地道	2
+yan an lu wai tan	延安路外滩	2
+yan an nan lu jie dao	延安南路街道	2
+yan bu yi gan zheng	咽部异感症	2
+yan cheng	严澄	2
+yan cheng yuan	燕城苑	2
+yan chu	延初	2
+yan de zhu jia zuo nong qi	焉得铸甲作农器	2
+yan di cun	岩底村	2
+yan er po	燕儿坡	2
+yan feng chui sha ai	炎风吹沙埃	2
+yan gao bai yun tun	岩高白云屯	2
+yan hai hang yun quan	沿海航运权	2
+yan hou jian xi	咽后间隙	2
+yan hu hu xiang yu	奄忽互相逾	2
+yan hua luo jing shui di mian	眼花落井水底眠	2
+yan ji zhen	阎集镇	2
+yan jia bao cun	晏家堡村	2
+yan jia rong	阎家溶	2
+yan jia tan	严家潭	2
+yan jia zhai	严家宅	2
+yan jian de chui fan le zhe jia	眼见的吹翻了这家	2
+yan jian shi zhen	眼睑湿疹	2
+yan jian zhong liu	眼睑肿瘤	2
+yan jiao ying bin lu kou	燕郊迎宾路口	2
+yan jin xian xin xing nong chang	延津县新兴农场	2
+yan jing xue	眼镜学	2
+yan kan ren jin zui	眼看人尽醉	2
+yan ke jun	严可均	2
+yan ku ji jian gu	眼枯即见骨	2
+yan kuang ji bing	眼眶疾病	2
+yan liu duan chang chu	烟柳断肠处	2
+yan ming fei ge fu zhang qiao	眼明飞阁俯长桥	2
+yan ning jiao nang	炎宁胶囊	2
+yan po cun	岩坡村	2
+yan qiu nei xian	眼球内陷	2
+yan ran yi xiao zhu li jian	嫣然一笑竹篱间	2
+yan sheng quan zheng	衍生权证	2
+yan shu hong li li	岩树红离离	2
+yan suan an ji pu tao tang	盐酸氨基葡萄糖	2
+yan suan ben hai suo	盐酸苯海索	2
+yan suan chuan qiong qin	盐酸川芎嗪	2
+yan suan da ke luo ning jiao jiang	盐酸达克罗宁胶浆	2
+yan suan di fen ni duo pian	盐酸地芬尼多片	2
+yan suan ding bing nuo fei	盐酸丁丙诺啡	2
+yan suan duo sai ping	盐酸多塞平	2
+yan suan duo sai ping pian	盐酸多塞平片	2
+yan suan fa di na fei	盐酸伐地那非	2
+yan suan jia yang lv pu an	盐酸甲氧氯普胺	2
+yan suan ke lun te luo shuan	盐酸克仑特罗栓	2
+yan suan lai an suan	盐酸赖氨酸	2
+yan suan li tuo jun pian	盐酸利托君片	2
+yan suan luo mei sha xing jiao nang	盐酸洛美沙星胶囊	2
+yan suan luo mei sha xing pian	盐酸洛美沙星片	2
+yan suan lv an tong zhu she ye	盐酸氯胺酮注射液	2
+yan suan lv bing qin	盐酸氯丙嗪	2
+yan suan ma fei zhu she ye	盐酸吗啡注射液	2
+yan suan mei ta huan su pian	盐酸美他环素片	2
+yan suan mi nuo huan su jiao nang	盐酸米诺环素胶囊	2
+yan suan tou bao jia wo	盐酸头孢甲肟	2
+yan suan xi ti li qin	盐酸西替利嗪	2
+yan suan xiu ji xin pian	盐酸溴己新片	2
+yan suan xiu ji xin zhu she ye	盐酸溴己新注射液	2
+yan suan yi tuo bi li	盐酸伊托必利	2
+yan suan zuo xuan mi zuo pian	盐酸左旋咪唑片	2
+yan sui bei wai ce zong he zheng	延髓背外侧综合征	2
+yan tai dao	烟台道	2
+yan tang cun	雁塘村	2
+yan tang xiang	盐塘乡	2
+yan tang zhen	晏塘镇	2
+yan ti xi lie	演替系列	2
+yan tong tun	烟筒屯	2
+yan xian fa cun	阎仙垡村	2
+yan xiang	阎象	2
+yan xiao long	闫晓龙	2
+yan xiao ri chu bu jian ren	烟销日出不见人	2
+yan xiao wei yue dan chang kong	烟霄微月澹长空	2
+yan yong he	严用和	2
+yan zhong lu	严中路	2
+yan zhou xian	兖州县	2
+yan zhu xiang	烟竹乡	2
+yan zhuang cun	严庄村	2
+yan an bei lu jie dao	延安北路街道	1
+yan bai cai su	岩白菜素	1
+yan bai hu	严白虎	1
+yan bi xiang	岩比乡	1
+yan bing xue	眼病学	1
+yan bo dan dang yao kong bi	烟波澹荡摇空碧	1
+yan bo jin chu yi dian bai	烟波尽处一点白	1
+yan bo lu	烟波路	1
+yan bu dai zhuang pao zhen	眼部带状疱疹	1
+yan cang cun	盐仓村	1
+yan cang jie	盐仓街	1
+yan chang gong zuo shi jian zhi du	延长工作时间制度	1
+yan chang zhen	延长镇	1
+yan ci	厌次	1
+yan cun cun wei hui	闫村村委会	1
+yan dan lu kou xi	燕丹路口西	1
+yan de bing zhou kuai jian dao	焉得并州快剪刀	1
+yan de ren ren er ji zhi	焉得人人而济之	1
+yan de si ru tao xie shou	焉得思如陶谢手	1
+yan er mei	阎尔梅	1
+yan er wu wen xing zhi bu yuan	言而无文行之不远	1
+yan fu mao jiao yan	烟腹毛脚燕	1
+yan fu si	衍福寺	1
+yan gang	严纲	1
+yan ge qing jie	阉割情结	1
+yan guan	严观	1
+yan guang min	颜光敏	1
+yan hai long	盐海龙	1
+yan hu ruo biao chen	奄忽若飙尘	1
+yan hu sui wu hua	奄忽随物化	1
+yan hu suo yi su	延胡索乙素	1
+yan hua bu kan jian	烟花不堪剪	1
+yan hua chun fu qiu	烟花春复秋	1
+yan hui shui er yi zhi	淹回水而疑滞	1
+yan ji dao	延吉道	1
+yan ji zhuo pu tao	燕姬酌蒲萄	1
+yan jia ba	闫家坝	1
+yan jia he	鄢家河	1
+yan jia hu tong	燕家胡同	1
+yan jia tan	阎家滩	1
+yan jia tang xiang	晏家塘巷	1
+yan jia tun	阎家屯	1
+yan jia wei cun	严家圩村	1
+yan jia xiang	严家乡	1
+yan jian ning pian	炎见宁片	1
+yan jian nong zhong	眼睑脓肿	1
+yan jian tao zhu xiao	厌见桃株笑	1
+yan jian wai fan jiao zheng shu	眼睑外翻矫正术	1
+yan jian wai shang	眼睑外伤	1
+yan jian yue zhong gui	偃蹇月中桂	1
+yan jian zheng xing shu	眼睑整形术	1
+yan jiang jie dao	延江街道	1
+yan jiao xue yuan jie	燕郊学院街	1
+yan jiao yan chao ming jiu chang	燕郊燕潮酩酒厂	1
+yan jiao zhong yan xiao qu	燕郊中燕小区	1
+yan jing mi dan bo	烟景弥淡泊	1
+yan juan hu er xiao	掩卷忽而笑	1
+yan ke ning	炎可宁	1
+yan ke xue ji chu	眼科学基础	1
+yan la miao zu bu yi zu xiang	岩腊苗族布依族乡	1
+yan lei bei qian gu	掩泪悲千古	1
+yan li xiao	炎立消	1
+yan li xiao pian	炎立消片	1
+yan ling she qu	延陵社区	1
+yan ling tai xia tong jiang shui	严陵台下桐江水	1
+yan ling xiang	沿岭乡	1
+yan ling xiang	雁岭乡	1
+yan liu bu zhe lou jiao duan	烟柳不遮楼角断	1
+yan liu yi he yi	淹留亦何益	1
+yan lu ru kang jiao nang	岩鹿乳康胶囊	1
+yan lu zhong du	盐卤中毒	1
+yan luan xing qiong kua	岩峦行穹跨	1
+yan ma xiang	沿码乡	1
+yan ming xiao qu dong men	雁鸣小区东门	1
+yan mu jiang	言穆江	1
+yan nan tian	燕南天	1
+yan neng shou jiu qiu	焉能守旧丘	1
+yan neng xi er bu shi	焉能系而不食	1
+yan nian zhi cha yi	延年直差易	1
+yan qian wan li jiang shan	眼前万里江山	1
+yan qian yi bei jiu	眼前一杯酒	1
+yan que xue zong he zheng	眼缺血综合征	1
+yan ran zong song you long jing	嫣然纵送游龙惊	1
+yan ru yi	严如熤	1
+yan se tian xia zhong	艳色天下重	1
+yan shan hong jie dao	艳山红街道	1
+yan shan ying cun	燕山营村	1
+yan shang wu xin yun xiang zhu	岩上无心云相逐	1
+yan shao shang	眼烧伤	1
+yan sheng sun	严绳孙	1
+yan sheng yuan guo xiao xiang qu	雁声远过潇湘去	1
+yan sheng zhen	演圣镇	1
+yan shi shi liu sou	燕诗示刘叟	1
+yan shuang wu yue diao gui zhi	严霜五月凋桂枝	1
+yan suan a bi duo er	盐酸阿比朵尔	1
+yan suan a bi duo er jiao nang	盐酸阿比朵尔胶囊	1
+yan suan a mei su	盐酸阿霉素	1
+yan suan a mi ti lin	盐酸阿米替林	1
+yan suan a mo di kui pian	盐酸阿莫地喹片	1
+yan suan a mo luo fen cha ji	盐酸阿莫罗芬搽剂	1
+yan suan an dian tong jiao nang	盐酸胺碘酮胶囊	1
+yan suan an dian tong zhu she ye	盐酸胺碘酮注射液	1
+yan suan an ji pu tao tang pian	盐酸氨基葡萄糖片	1
+yan suan an xiu suo tang jiang	盐酸氨溴索糖浆	1
+yan suan ba ma ting	盐酸巴马汀	1
+yan suan bei na pu li	盐酸贝那普利	1
+yan suan bei ni di ping	盐酸贝尼地平	1
+yan suan ben hai la ming pian	盐酸苯海拉明片	1
+yan suan bi ge lie tong pian	盐酸吡格列酮片	1
+yan suan bi liu chun zhu she ye	盐酸吡硫醇注射液	1
+yan suan biao rou bi xing	盐酸表柔比星	1
+yan suan bu gui qin	盐酸布桂嗪	1
+yan suan ding ge di er	盐酸丁咯地尔	1
+yan suan duo sai ping ru gao	盐酸多塞平乳膏	1
+yan suan er qing ai tuo fei pian	盐酸二氢埃托啡片	1
+yan suan er yang bing qin	盐酸二氧丙嗪	1
+yan suan fa shu di er	盐酸法舒地尔	1
+yan suan huan bing sha xing	盐酸环丙沙星	1
+yan suan huan bing sha xing jiao nang	盐酸环丙沙星胶囊	1
+yan suan huan bing sha xing pian	盐酸环丙沙星片	1
+yan suan huan shi pian	烟酸缓释片	1
+yan suan jin gang wan an pian	盐酸金刚烷胺片	1
+yan suan jin mei su ruan gao	盐酸金霉素软膏	1
+yan suan lei ni ti ding	盐酸雷尼替丁	1
+yan suan lei ni ti ding pian	盐酸雷尼替丁片	1
+yan suan liu an	盐酸硫胺	1
+yan suan luo mei sha xing	盐酸洛美沙星	1
+yan suan lv an tong	盐酸氯胺酮	1
+yan suan mei ta huan su	盐酸美他环素	1
+yan suan na luo tong she xia pian	盐酸纳洛酮舌下片	1
+yan suan nai jia zuo lin	盐酸萘甲唑啉	1
+yan suan nai jia zuo lin	盐酸萘甲唑林	1
+yan suan nai ti fen rong ye	盐酸萘替芬溶液	1
+yan suan nai ti fen ru gao	盐酸萘替芬乳膏	1
+yan suan pai ti ding pian	盐酸哌替啶片	1
+yan suan pian	烟酸片	1
+yan suan pu luo pa tong pian	盐酸普罗帕酮片	1
+yan suan qing teng jian	盐酸青藤碱	1
+yan suan qu jia wan gu mei su	盐酸去甲万古霉素	1
+yan suan qu ma duo huan shi pian	盐酸曲马多缓释片	1
+yan suan rou hong mei su	盐酸柔红霉素	1
+yan suan sai geng ding	盐酸赛庚啶	1
+yan suan sai lv pi ding	盐酸噻氯匹定	1
+yan suan sha ge lei zhi	盐酸沙格雷酯	1
+yan suan sha ge lei zhi pian	盐酸沙格雷酯片	1
+yan suan shan lang dang jian	盐酸山莨菪碱	1
+yan suan si huan su jiao nang	盐酸四环素胶囊	1
+yan suan si mi zuo	盐酸四咪唑	1
+yan suan te bi nai fen ru gao	盐酸特比萘芬乳膏	1
+yan suan te la zuo qin	盐酸特拉唑嗪	1
+yan suan te la zuo qin pian	盐酸特拉唑嗪片	1
+yan suan tou bao ta mei	盐酸头孢他美	1
+yan suan tou bao ta mei zhi	盐酸头孢他美酯	1
+yan suan tuo pai tong	盐酸托哌酮	1
+yan suan tuo pu ti kang	盐酸拓扑替康	1
+yan suan tuo wan si qiong	盐酸托烷司琼	1
+yan suan wan gu mei su	盐酸万古霉素	1
+yan suan wei la pa mi pian	盐酸维拉帕米片	1
+yan suan xi bu qu ming pian	盐酸西布曲明片	1
+yan suan xi ti li qin di ji	盐酸西替利嗪滴剂	1
+yan suan xi ti li qin pian	盐酸西替利嗪片	1
+yan suan yi bing qin pian	盐酸异丙嗪片	1
+yan suan yi li ti kang	盐酸伊立替康	1
+yan suan ying su jian	盐酸罂粟碱	1
+yan suan ying su jian zhu she ye	盐酸罂粟碱注射液	1
+yan suan zu an suan	盐酸组氨酸	1
+yan suan zuo xi ti li qin pian	盐酸左西替利嗪片	1
+yan tai guo ji che zhan	烟台国际车展	1
+yan tao jia ting zi	宴陶家亭子	1
+yan tian guang yang	岩田光央	1
+yan tuan zhen	阎疃镇	1
+yan xi	延熙	1
+yan xi cun	盐西村	1
+yan xia xiang	燕夏乡	1
+yan xia yun fang he	岩下云方合	1
+yan xiao wu yan shi	言笑无厌时	1
+yan xin	燕薪	1
+yan xing bang	阎兴邦	1
+yan xing xiao qu	燕兴小区	1
+yan xu zhui wu hen	烟絮坠无痕	1
+yan yan	严衍	1
+yan yan cun	沿岩村	1
+yan yan qing pian	咽炎清片	1
+yan yan shao kong hong fu sang	焰焰烧空红佛桑	1
+yan yin chou xin qu	雁引愁心去	1
+yan ying jin shu	燕影金蔬	1
+yan yong shen du wan	焉用身独完	1
+yan yu an qian jia	烟雨暗千家	1
+yan yu que di hui	烟雨却低回	1
+yan yuan	演园	1
+yan yuan kui ran tan yue	颜渊喟然叹曰	1
+yan yuan shan xi ni	盐源山溪鲵	1
+yan zhe suo yi zai yi	言者所以在意	1
+yan zhen chan	眼震颤	1
+yan zhi bi ke xing ye	言之必可行也	1
+yan zhi suo bu neng lun	言之所不能论	1
+yan zhi zhen	胭脂镇	1
+yan zhong zhan guo cheng zheng lu	眼中战国成争鹿	1
+yan zhou	燕洲	1
+yan zhuang cun cun wei hui	闫庄村村委会	1
+yan zhuang cun wei hui	烟庄村委会	1
+yan zi shuang fei lai you qu	燕子双飞来又去	1
+yan zong lin	阎宗临	1
+yan zuo zhen you zi	岩佐真悠子	1
+yan an hong ji jiao chan	延安红脊角蝉	0
+yan an ni xian nv chong	沿岸拟仙女虫	0
+yan ba guan shui mu	眼八管水母	0
+yan ban a hu xia hu	眼斑阿胡鰕虎	0
+yan ban bao luo	眼斑宝螺	0
+yan ban bi yu	眼斑躄鱼	0
+yan ban chi jing tian niu	眼斑齿胫天牛	0
+yan ban duo ye sai	眼斑多叶鳃	0
+yan ban fan qi du fu yu	眼斑帆鳍杜父鱼	0
+yan ban gou xia hu yu	眼瓣沟鰕虎鱼	0
+yan ban guang dun piao chong	眼斑广盾瓢虫	0
+yan ban hai lu	眼斑海鹿	0
+yan ban hou mang chun	眼斑厚盲蝽	0
+yan ban ni chun yu	眼斑拟唇鱼	0
+yan ban ni deng e	延斑拟灯蛾	0
+yan ban qian ping	眼斑潜鲆	0
+yan ban qiang wen xue	眼斑腔吻鳕	0
+yan ban ru tu tian zhu diao	眼斑乳突天竺鲷	0
+yan ban tu shou ji	眼斑吐绶鸡	0
+yan ban xian qi ping	眼斑线鳍鮃	0
+yan ban xing bei li yu	眼斑星背丽鱼	0
+yan ban xu ba weng	眼斑须霸鹟	0
+yan ban xu yi	眼斑须鮨	0
+yan ban ying zhong niao	眼斑营冢鸟	0
+yan bian shan zhi	盐边山蛭	0
+yan cao mu ye chan	烟草木叶蝉	0
+yan cao yan fen shi	烟草烟粉虱	0
+yan cao yan mang chun	烟草烟盲蝽	0
+yan cao ye e	烟草夜娥	0
+yan chang fu xian hu chong	延长抚仙湖虫	0
+yan ci qian shou luo	岩刺千手螺	0
+yan dai ju lin xia hu yu	眼带锯鳞鰕虎鱼	0
+yan dai lan zi yu	眼带篮子鱼	0
+yan dai lian qi hou pan yu	眼带连鳍喉盘鱼	0
+yan dai wei xia hu	眼带鳚鰕虎	0
+yan dai wei xia hu yu	眼带鳚虾虎鱼	0
+yan dai xia xia hu yu	眼带狭鰕虎鱼	0
+yan dai xiao xia hu yu	眼带小鰕虎鱼	0
+yan dai ye xia hu yu	眼带叶鰕虎鱼	0
+yan dang niao	雁荡鸟	0
+yan dian bai jing xia hu yu	眼点白睛鰕虎鱼	0
+yan dian duan wen shi zi yu	眼点短吻狮子鱼	0
+yan dian fu chi zhi li	眼点副齿脂鲤	0
+yan dian fu du fu yu	眼点鮄杜父鱼	0
+yan dian fu ji ping	眼点副棘鲆	0
+yan dian gou mu yu	眼点狗母鱼	0
+yan dian gou xia hu yu	眼点沟鰕虎鱼	0
+yan dian qiang wen hai long	眼点枪吻海龙	0
+yan dian xi jiang	眼点溪鳉	0
+yan dian xiao wen chi e	眼点小纹尺蛾	0
+yan dou long shu	盐都龙属	0
+yan fu ya kou yu	烟腹亚口鱼	0
+yan gou tong xiong xiao ye jia	眼沟筒胸肖叶甲	0
+yan guan luo	延管螺	0
+yan hao bo wen e	岩浩波纹蛾	0
+yan heng ke	燕鸻科	0
+yan hong ba jiao luo	豔紅芭蕉螺	0
+yan hong mei fa luo	豔紅美法螺	0
+yan hong yu luo	豔紅芋螺	0
+yan hua bo wen e	岩华波纹蛾	0
+yan huang du e	岩黄毒蛾	0
+yan hui die ya ke	眼灰蝶亚科	0
+yan ji ba jiao luo	岩棘芭蕉螺	0
+yan ji qian shou gu luo	岩棘千手骨螺	0
+yan jin shui niu	盐津水牛	0
+yan ju ke	燕鵙科	0
+yan kuan ruo ta	盐宽箬鳎	0
+yan kui long lei	岩盔龙类	0
+yan li si qi ying diao	豔丽丝鳍鹦鲷	0
+yan mai ying jin xiao feng	燕麦蝇金小蜂	0
+yan men guan chu huang	雁门关雏蝗	0
+yan nian luo	豔捻螺	0
+yan ou ya ke	燕鸥亚科	0
+yan rou	鷃肉	0
+yan sheng gu bei fei shi	盐生古北飞虱	0
+yan suan di fen nuo zhi	盐酸地芬诺脂	0
+yan tai yi shou shui mu	烟台异手水母	0
+yan wei feng hu	燕尾蜂虎	0
+yan wei lan mo	燕尾蓝魔	0
+yan wen mu zhou e	眼纹木舟蛾	0
+yan xing zhi huan chong	燕形指环虫	0
+yan xiong bu xing chong	艳胸步行虫	0
+yan xiong huang xing bu xing chong	艳胸黄星步行虫	0
+yan yan ban hua tang	艳眼斑花螳	0
+yan yuan juan zhi xi xie	盐源卷肢溪蟹	0
+yan yuan shan zhi	盐源山蛭	0
+yan zi feng huang luo	燕子凤凰螺	0

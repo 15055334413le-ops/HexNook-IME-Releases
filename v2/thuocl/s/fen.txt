@@ -1,0 +1,418 @@
+fen xiang	分享	723186
+fen ge	分割	364626
+fen pei	分配	150441
+fen ju	分居	112083
+fen e	份额	56823
+fen ge fu	分隔符	27962
+fen ye	分页	27703
+fen hua	分化	19642
+fen tiao	粉条	18601
+fen hong	分红	17834
+fen fa you wei	奋发有为	11859
+fen bu shi xi tong	分布式系统	10828
+fen mian	分娩	10410
+fen dian	分店	10353
+fen ge xian	分割线	10053
+fen kuai	分块	10036
+fen mi	分泌	8761
+fen zhi ta lai	纷至沓来	7576
+fen ye jing ying	分业经营	7427
+fen da	芬达	7410
+fen bu shi ji suan	分布式计算	6704
+fen pi	粉皮	6308
+fen xi gong ju	分析工具	6243
+fen qu biao	分区表	5664
+fen bu shi ying yong	分布式应用	5378
+fen men bie lei	分门别类	5345
+fen zhi	分治	5255
+fen bu gu shen	奋不顾身	4939
+fen sui xing gu zhe	粉碎性骨折	4917
+fen shui ling	分水岭	4902
+fen zhi fa	分治法	4652
+fen bu shi cun chu	分布式存储	4467
+fen bu shi huan cun	分布式缓存	4366
+fen zheng rou	粉蒸肉	4323
+fen ye cha xun	分页查询	3861
+fen bu shi shu ju ku	分布式数据库	3591
+fen zhi he bing	分支合并	3554
+fen biao	分表	3521
+fen qi fu kuan	分期付款	3460
+fen bu shi shi wu	分布式事务	3367
+fen lei suan fa	分类算法	3356
+fen ge xian	分隔线	3023
+fen si tang	粉丝汤	2887
+fen dao yang biao	分道扬镳	2778
+fen ye xian shi	分页显示	2689
+fen ping	分屏	2606
+fen dong xiang	分动箱	2586
+fen fen bu ping	愤愤不平	2571
+fen ge zi fu chuan	分割字符串	2569
+fen fa xiang shang	奋发向上	2556
+fen bao	分包	2532
+fen tang	粉汤	2489
+fen bu shi chu li	分布式处理	2242
+fen ku fen biao	分库分表	2148
+fen fa tu qiang	奋发图强	2127
+fen bu shi ji qun	分布式集群	2103
+fen cha	分叉	1897
+fen qi zhi zhui	奋起直追	1849
+fen mo deng chang	粉墨登场	1818
+fen ci qi	分词器	1770
+fen he	汾河	1753
+fen zhi guan li	分支管理	1747
+fen xiao shang	分销商	1705
+fen beng li xi	分崩离析	1701
+fen guo	粉果	1621
+fen lei tao lun	分类讨论	1580
+fen zhi jie gou	分支结构	1550
+fen bu shi jia gou	分布式架构	1538
+fen pei quan xian	分配权限	1491
+fen bu shi fu wu	分布式服务	1421
+fen cheng bao	分承包	1418
+fen xi han shu	分析函数	1410
+fen bu shi suo	分布式锁	1399
+fen xiang gong neng	分享功能	1336
+fen zhi suan fa	分治算法	1320
+fen zu cha xun	分组查询	1303
+fen li chu	分理处	1292
+fen pin dian	分频点	1277
+fen jie zhi yin shu	分解质因数	1269
+fen ye ji zhi	分页机制	1256
+fen fen yang yang	纷纷扬扬	1195
+fen nei zhi shi	分内之事	1188
+fen zi sheng wu xue	分子生物学	1149
+fen miao bi zheng	分秒必争	1130
+fen bu shi xiao xi	分布式消息	1099
+fen bie bian yi	分别编译	1057
+fen ting kang li	分庭抗礼	1053
+fen zu jiao huan	分组交换	1020
+fen san hua	分散化	966
+fen bu ji suan	分布计算	946
+fen zhi ce lve	分治策略	913
+fen fa ji zhi	分发机制	855
+fen zhi si xiang	分治思想	836
+fen zu han shu	分组函数	823
+fen xi jie duan	分析阶段	803
+fen bi ji shu	奋笔疾书	787
+fen xi mo xing	分析模型	779
+fen bu shi suan fa	分布式算法	751
+fen shen sui gu	粉身碎骨	728
+fen wen bu qu	分文不取	706
+fen duan kong jian	分段控件	658
+fen ji pei xun	分级培训	653
+fen xi	汾西	649
+fen xing	分形	642
+fen jing tou ju ben	分镜头剧本	639
+fen dan sun shi	分担损失	628
+fen jie dian	分界点	623
+fen zhi yu ce	分支预测	620
+fen feng	分蜂	614
+fen yu	粉鱼	608
+fen fen bu ping	忿忿不平	570
+fen bu shi kai fa	分布式开发	558
+fen yang shi	汾阳市	556
+fen dian ji	分电机	554
+fen zhi zhi ling	分支指令	550
+fen bu shi kuang jia	分布式框架	545
+fen shu gui hua	分数规划	545
+fen nie	分蘖	541
+fen fen rao rao	纷纷扰扰	523
+fen zheng pai gu	粉蒸排骨	508
+fen shi ji su	愤世嫉俗	493
+fen bu shi suo fu wu	分布式锁服务	486
+fen ling	粉岭	481
+fen zu bei bao	分组背包	481
+fen bu shi ji shu	分布式技术	469
+fen li	粉利	462
+fen hao bu cha	分毫不差	458
+fen xi shi	分析师	457
+fen bian lv shi pei	分辨率适配	448
+fen er zhi zhi	分而治之	428
+fen wai yao rao	分外妖娆	424
+fen zu chang du	分组长度	416
+fen zu mi ma	分组密码	411
+fen ji	粉剂	407
+fen bu shi pei zhi	分布式配置	396
+fen dian qi gai	分电器盖	396
+fen bu mo shi	分布模式	392
+fen shi cao zuo xi tong	分时操作系统	389
+fen shi tai ping	粉饰太平	381
+fen ye lei	分页类	371
+fen ye ji shu	分页技术	370
+fen jiao	粉饺	361
+fen huo tou	分火头	353
+fen tai	酚酞	345
+fen zhi xian jie fa	分支限界法	343
+fen bie cai chan zhi	分别财产制	335
+fen lei shi bie	分类识别	334
+fen ceng tu	分层图	324
+fen fa ying yong	分发应用	317
+fen zhi xian jie	分支限界	316
+fen shi diao du	分时调度	310
+fen tang jiao zi	粉汤饺子	299
+fen shui ling suan fa	分水岭算法	292
+fen hua wa jie	分化瓦解	291
+fen jiang lu	汾江路	290
+fen ceng bian li	分层遍历	289
+fen zhi fu gai	分支覆盖	289
+fen yi	分宜	284
+fen shui	汾水	282
+fen kuai cha zhao	分块查找	273
+fen fa ban	分发版	271
+fen zheng niu rou	粉蒸牛肉	266
+fen bu shi wang zhan	分布式网站	252
+fen mo ye jin chan pin	粉末冶金产品	248
+fen pei mo shi	分配模式	237
+fen pei dan wei	分配单位	235
+fen niao	粪尿	231
+fen qun	分群	229
+fen bi dei	芬必得	210
+fen jin he ji	分进合击	207
+fen ji guan li	分级管理	192
+fen wen wei qu	分文未取	192
+fen chen man	粉尘螨	186
+fen yong dang xian	奋勇当先	182
+fen zi yi chuan xue	分子遗传学	181
+fen bu shi pa chong	分布式爬虫	180
+fen zu jiao huan wang	分组交换网	163
+fen ye cheng xu	分页程序	161
+fen xiang	粉巷	159
+fen jie zhi yin zi	分解质因子	158
+fen bu shi ji suan ji	分布式计算机	156
+fen pi mian jin	粉皮面筋	152
+fen bu shi kong zhi	分布式控制	150
+fen jia xi chan	分家析产	150
+fen bu dian rong	分布电容	149
+fen shu keng ru	焚书坑儒	149
+fen zhi xian jie sou suo	分支限界搜索	149
+fen jie	分节	148
+fen gang xian	分缸线	146
+fen bian li	分辨力	145
+fen lei xue	分类学	143
+fen lie zheng	分裂症	142
+fen zhong si	分钟寺	140
+fen ge wen ben	分割文本	138
+fen bao xian ye wu	分保险业务	127
+fen jie tou	分接头	119
+fen li yuan jian	分立元件	110
+fen shen wu shu	分身无术	109
+fen xi shu xing	分析属性	107
+fen ya	分压	104
+fen zu chuan song	分组传送	92
+fen nie qi	分蘖期	89
+fen tang yang xue	粉汤羊血	88
+fen chang	粉厂	85
+fen san pian	分散片	78
+fen wen bu zhi	分文不值	78
+fen guang guang du ji	分光光度计	76
+fen xiang peng you quan	分享朋友圈	72
+fen mi xing zhong er yan	分泌性中耳炎	71
+fen yang lu	汾阳路	70
+fen xi lu	汾西路	68
+fen pi zi	粉皮子	66
+fen pian mo shi	分片模式	66
+fen bu shi rong cuo	分布式容错	63
+fen ge fang di chan	分割房地产	62
+fen quan shu zhi	酚醛树脂	62
+fen gao ji gui	焚膏继晷	59
+fen zhen ji	粉针剂	58
+fen ceng chou yang	分层抽样	57
+fen pai cheng xu	分派程序	57
+fen zhi gan jun	分枝杆菌	57
+fen kuai suan fa	分块算法	55
+fen fang fu yu	芬芳馥郁	54
+fen tai ni	芬太尼	54
+fen dian pan gai	分电盘盖	52
+fen shui xian	分水线	50
+fen pai biao	分派表	48
+fen zi bing du xue	分子病毒学	48
+fen zheng yang rou	粉蒸羊肉	47
+fen cang jiao yi	分仓交易	46
+fen bu shi pai xu	分布式排序	45
+fen si ting	分司厅	45
+fen zhen	粉针	45
+fen fen rang rang	纷纷攘攘	44
+fen mi xing	分泌型	42
+fen shui ao	分水坳	41
+fen ge lun	分割论	40
+fen shi chu li	分时处理	40
+fen lin er lie	焚林而猎	39
+fen qin zhu he	焚琴煮鹤	38
+fen duan biao zhi	分段标志	37
+fen hu xie	汾湖蟹	37
+fen xing ji he	分形几何	37
+fen zi shi bie	分子识别	36
+fen bu shi duo mei ti	分布式多媒体	35
+fen xi gong ji	分析攻击	35
+fen san kong zhi	分散控制	34
+fen guang ji	分光计	33
+fen ji kong zhi	分级控制	33
+fen jiu niu rou	汾酒牛肉	32
+fen shi	粪石	32
+fen lei qun	分类群	30
+fen liu shu	分流术	29
+fen zu ceng	分组层	28
+fen bu shi cun chu qi	分布式存储器	26
+fen yang xian	汾阳县	26
+fen tu dang nian wan hu hou	粪土当年万户侯	25
+fen zhuang yu qi	粉妆玉砌	25
+fen bu fu zai	分布负载	24
+fen jiang nan	汾江南	24
+fen zhuang yu zhuo	粉妆玉琢	24
+fen zheng niu yang rou	粉蒸牛羊肉	23
+fen zi mian yi xue	分子免疫学	23
+fen si ting hu tong	分司厅胡同	22
+fen guang guang du fa	分光光度法	21
+fen nai jing	奋乃静	21
+fen san ti xi	分散体系	21
+fen bu tou ming xing	分布透明性	20
+fen cang dan	分舱单	20
+fen shui cun	汾水村	20
+fen bu fen jiao nang	芬布芬胶囊	19
+fen fu la ming	芬氟拉明	19
+fen mi xi bao	分泌细胞	17
+fen shen sui gu hun bu pa	粉身碎骨浑不怕	17
+fen bu lei xing	分部类型	16
+fen mi dan bai	分泌蛋白	16
+fen bian jian cha	粪便检查	15
+fen jie xie tiao	分解协调	15
+fen ka ma min jiao nang	酚咖麻敏胶囊	15
+fen ma mei min pian	酚麻美敏片	15
+fen pu	粉铺	15
+fen guo	分果	14
+fen zhuang	汾庄	14
+fen ju ling	分居令	13
+fen mi shen jing	分泌神经	13
+fen tai pian	酚酞片	13
+fen nie jie	分蘖节	12
+fen pi la yu	粉皮辣鱼	12
+fen zi za jiao	分子杂交	12
+fen ji bao gan ti zhi	分级包干体制	11
+fen tian fen di zhen mang	分田分地真忙	11
+fen zhi tiao jian fu gai	分支条件覆盖	11
+fen bu lei xing	分布类型	10
+fen lie qing gan xing jing shen bing	分裂情感性精神病	10
+fen shui xiao qu	汾水小区	10
+fen zheng gui yu	粉蒸鳜鱼	10
+fen ge ma	分隔马	9
+fen lan xun lu	芬兰驯鹿	9
+fen dong gong yu	汾东公寓	8
+fen gu sui shen hun bu pa	粉骨碎身浑不怕	8
+fen shang cun	坟上村	8
+fen xian jing ying	分线经营	8
+fen zi yao li xue	分子药理学	8
+fen ge shi ran shao shi	分隔式燃烧室	7
+fen zi bing li xue	分子病理学	7
+fen jin jie	分金街	6
+fen ning bai tang mian hua gao	汾宁白糖棉花糕	6
+fen tuo la ming	酚妥拉明	6
+fen wu ji you ci nei mei xi	纷吾既有此内美兮	6
+fen zhang hu tong	奋章胡同	6
+fen zhong si qiao xi	分钟寺桥西	6
+fen zi hu tong	粉子胡同	6
+fen ban ye e	粉斑夜蛾	5
+fen chang hu tong	粉厂胡同	5
+fen fang liu li jie she qu	粉房琉璃街社区	5
+fen he dao	汾河道	5
+fen mi zu zhi	分泌组织	5
+fen pei fang an	分配方案	5
+fen shui dao	汾水道	5
+fen shui xiao qu zong zhan	汾水小区总站	5
+fen zi ying xiang xue	分子影像学	5
+fen bu fen	芬布芬	4
+fen chang	粪厂	4
+fen dou jing ying suo	奋斗经营所	4
+fen ji fen shui zhi	分级分税制	4
+fen jiang li jiao	汾江立交	4
+fen li ji	分离剂	4
+fen san fa	分散法	4
+fen bai long mao	粉白龙猫	3
+fen chen cai yang qi	粉尘采样器	3
+fen dou zhen	奋斗镇	3
+fen fen kai qie luo	纷纷开且落	3
+fen hang zhi	分行制	3
+fen huang yi an zhu she ye	酚磺乙胺注射液	3
+fen lan si mao quan	芬兰丝毛犬	3
+fen lie xing ren ge zhang ai	分裂型人格障碍	3
+fen lou	粪瘘	3
+fen si hai mi qin cai tang	粉丝海米芹菜汤	3
+fen si xiang gu dan tang	粉丝香菇蛋汤	3
+fen ai pi er qing liang	氛埃辟而清凉	2
+fen bian ming	酚苄明	2
+fen ci li xiao jing	粉刺立消净	2
+fen fen mu xue xia yuan men	纷纷暮雪下辕门	2
+fen liu shi zhi yu lie	奋六世之余烈	2
+fen mi xing fu xie	分泌性腹泻	2
+fen ming yuan hen qu zhong lun	分明怨恨曲中论	2
+fen mo ye jin chen tao	粉末冶金衬套	2
+fen shen qian bai yi	分身千百亿	2
+fen tai ni tou pi tie ji	芬太尼透皮贴剂	2
+fen tang cai jiao	粉汤彩饺	2
+fen wo yi bei geng	分我一杯羹	2
+fen xiang ru yan	焚香入宴	2
+fen xiang yin you bu	焚香引幽步	2
+fen zi xi bao yi chuan xue	分子细胞遗传学	2
+fen an ka min pian	酚氨咖敏片	1
+fen bai mei ren cha	粉白美人茶	1
+fen bie bei shu ji zai	分别背书记载	1
+fen chan jian gan jun	粪产碱杆菌	1
+fen chen cun	汾陈村	1
+fen fen bang yu he lao wen	纷纷谤誉何劳问	1
+fen fen ci ke duo ting bi	纷纷辞客多停笔	1
+fen fen hong zi yi cheng chen	纷纷红紫已成尘	1
+fen hong shi shou reng wu gu	粉红石首仍无骨	1
+fen hu bian shi zi ling tan	分湖便是子陵滩	1
+fen hua yin zi	分化因子	1
+fen ji gu ding yong jin zhi	分级固定佣金制	1
+fen ju bu li hun	分居不离婚	1
+fen li zhou cheng ka huang	分离轴承卡簧	1
+fen li zhu	分离柱	1
+fen lie sheng zhi	分裂生殖	1
+fen lie zi you shi	奋烈自有时	1
+fen mi cheng fen	分泌成分	1
+fen qi ke xi xi	纷其可喜兮	1
+fen qing wu lin wan	分清五淋丸	1
+fen shen yong suo wen	奋身勇所闻	1
+fen shui rao guan xie	汾水绕关斜	1
+fen si ju gao xie	粉丝焗膏蟹	1
+fen tu dang nian wan hu hou	粪土当年万户候	1
+fen wen shu er ku xing fa	焚文书而酷刑法	1
+fen xi xi bao xue	分析细胞学	1
+fen xin huang rui hua ye	粉心黄蕊花靥	1
+fen xun mao yi bai shuang er	奋迅毛衣摆双耳	1
+fen zhong du	酚中毒	1
+fen zhou hu tong	汾州胡同	1
+fen ban cong ju	粉斑丛鵙	0
+fen ban cong ju shu	粉斑丛鵙属	0
+fen bei tong xiong xiao ye jia	粉背筒胸肖叶甲	0
+fen cai ji ding chong	粉彩吉丁虫	0
+fen cha gui	分叉鱥	0
+fen cha shi piao xia hu yu	分叉氏瓢鰕虎鱼	0
+fen cui ye e	粉翠夜蛾	0
+fen dian shan ye e	粉点闪夜蛾	0
+fen dian xia hu	粉点虾虎	0
+fen dian xia hu yu	粉点虾虎鱼	0
+fen diao yu	粉吊鱼	0
+fen die deng e	粉蝶灯蛾	0
+fen die di e	粉蝶敌蛾	0
+fen die ya ke	粉蝶亚科	0
+fen e qing ting	粉额蜻蜓	0
+fen e zao ji ying	粉额蚤寄蝇	0
+fen feng hu	粉蜂虎	0
+fen fu cai wu	粉腹彩鹀	0
+fen he zhou sai xia hu yu	芬河皱鳃鰕虎鱼	0
+fen hong ping bi hai tun	粉红瓶鼻海豚	0
+fen hong qing hua qian zu chong	粉红氰化千足虫	0
+fen hong quan ju bei gui	粉红圈锯背龟	0
+fen hong xiao ying ha	粉红小樱蛤	0
+fen hong xiong ge bai ling	粉红胸歌百灵	0
+fen hong yu luo	粉紅玉螺	0
+fen hong zhui zhe luo	粉紅錐折螺	0
+fen ju ji feng ya ke	分距姬蜂亚科	0
+fen lan la pu he de quan	芬兰拉普赫德犬	0
+fen li shi jie ba fei ji	芬利氏结耙非鲫	0
+fen qi jiao chong	分歧焦虫	0
+fen shi bi	芬氏鵖	0
+fen shi ling ye ming	芬氏羚野螟	0
+fen xian jing ying shang gui mo	分线经营上规模	0
+fen xiong ban jiu	粉胸斑鸠	0

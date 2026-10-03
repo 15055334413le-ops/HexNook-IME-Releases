@@ -1,0 +1,166 @@
+ti sheng	提升	641506
+ti nei	体内	42460
+ti zhong	体重	37618
+ti gao xiao lv	提高效率	23164
+ti zhi	体质	22322
+ti yu guan	体育馆	22276
+ti shi xin xi	提示信息	20622
+ti xi jie gou	体系结构	20264
+ti yu chang	体育场	15132
+ti wen	体温	14771
+ti yu zhong xin	体育中心	11741
+ti gong shu ju	提供数据	10803
+ti jiao shu ju	提交数据	9501
+ti jiao biao dan	提交表单	8704
+ti shi kuang	提示框	8616
+ti cai	体彩	8569
+ti la mi su	提拉米苏	7989
+ti jiao shi wu	提交事务	7782
+ti xin diao dan	提心吊胆	7205
+ti jiao dai ma	提交代码	5904
+ti zheng	体征	4826
+ti du xia jiang	梯度下降	4300
+ti wai	体外	4205
+ti xiao jie fei	啼笑皆非	3927
+ti gao gong zuo xiao lv	提高工作效率	3735
+ti huan zi fu chuan	替换字符串	3510
+ti tan	体坛	3077
+ti du xia jiang fa	梯度下降法	2845
+ti gong cheng xu	提供程序	2620
+ti ye	体液	2461
+ti gong fang	提供方	2206
+ti xiao	体校	2009
+ti ge jian cha	体格检查	1792
+ti shi chuang kou	提示窗口	1583
+ti lan qiao jian yu	提篮桥监狱	1314
+ti yu chang lu	体育场路	1301
+ti zhi gai ge ban gong shi	体制改革办公室	1232
+ti yu xi lu	体育西路	1131
+ti jiao shen he	提交审核	1081
+ti du xia jiang suan fa	梯度下降算法	1042
+ti wai xun huan	体外循环	1032
+ti wen ji	体温计	932
+ti yu lu	体育路	896
+ti xu	体虚	850
+ti yu da jie	体育大街	832
+ti mu jie xi	题目解析	788
+ti wu wan fu	体无完肤	787
+ti tie ru wei	体贴入微	781
+ti zhong jian qing	体重减轻	697
+ti hu guan ding	醍醐灌顶	688
+ti jiao zhuang tai	提交状态	626
+ti gang qie ling	提纲挈领	624
+ti huan suan fa	替换算法	571
+ti yu da xue	体育大学	546
+ti zhi xing	体制性	491
+ti dan	提单	470
+ti mao	体毛	423
+ti yu guan lu	体育馆路	415
+ti xi bao	体细胞	383
+ti wen guo di	体温过低	346
+ti yu zhong xin nan	体育中心南	316
+ti tian xing dao	替天行道	315
+ti mu fen lei	题目分类	292
+ti huan ce lve	替换策略	282
+ti lan qiao	提篮桥	205
+ti biao mian ji	体表面积	204
+ti ka xi lin	替卡西林	193
+ti qu ye	提取液	191
+ti yu xun lian zhong xin	体育训练中心	170
+ti dai xuan ze	替代选择	166
+ti huan kong ge	替换空格	139
+ti yu chang lu kou	体育场路口	131
+ti xuan	体癣	128
+ti men	梯门	120
+ti du jie	提督街	116
+ti huo dan	提货单	112
+ti wei xing di xue ya	体位性低血压	98
+ti yu nan lu	体育南路	97
+ti yu nan da jie	体育南大街	89
+ti e	提额	84
+ti yuan	体元	76
+ti ye mian yi	体液免疫	66
+ti xun huan	体循环	53
+ti yu zhong xin xi men	体育中心西门	53
+ti lei jiao jia	涕泪交加	51
+ti sheng jin cheng quan xian	提升进程权限	50
+ti jiang yue bing	提浆月饼	48
+ti dai mi ma	替代密码	46
+ti jian hui zhi	体检回执	46
+ti yu guan xi lu	体育馆西路	44
+ti xu gan mao	体虚感冒	40
+ti yuan lu	体院路	40
+ti mu xiang jie	题目详解	36
+ti wai chong ji bo sui shi	体外冲击波碎石	35
+ti nei ping heng	体内平衡	33
+ti wai ji sheng chong	体外寄生虫	33
+ti xiao zuo	替硝唑	33
+ti ji hao han	啼饥号寒	29
+ti si heng liu	涕泗横流	29
+ti yu chang xi men	体育场西门	29
+ti jiao fen	蹄角粉	26
+ti jie	体节	26
+ti lei jiao liu	涕泪交流	26
+ti yu zhong xin xi	体育中心西	26
+ti wai pei yu niu huang	体外培育牛黄	25
+ti yuan bei	体院北	20
+ti dai shi chang fa	替代市场法	19
+ti mi sha tan	替米沙坦	17
+ti gao ji	提睾肌	15
+ti ye tiao jie	体液调节	13
+ti yu chang lu gao jia	体育场路高架	12
+ti yu chang xiao qu	体育场小区	12
+ti shu	体术	11
+ti yu	鮧鱼	11
+ti jian er	剔尖儿	9
+ti nei guo cheng	体内过程	9
+ti dai xing shi chang fa	替代性市场法	8
+ti du cheng nan zhuang	题都城南庄	8
+ti xi bao tu bian	体细胞突变	8
+ti jue	鶗鴃	7
+ti po shan si hou chan yuan	题破山寺后禅院	7
+ti kao la ning	替考拉宁	6
+ti shi	体虱	6
+ti mo zuo an	替莫唑胺	5
+ti pu rui tong	替普瑞酮	5
+ti shi ji yu shui cao lang	题诗寄与水曹郎	5
+ti xie yu long wei jun si	提携玉龙为君死	4
+ti yu gong yuan bei men	体育公园北门	4
+ti yuan bei lu	体院北路	4
+ti hu xiang	醍醐乡	3
+ti jia fu	替加氟	3
+ti si fa gao	提丝发糕	3
+ti cheng	剔成	2
+ti jin cheng lin he yi lou	题金城临河驿楼	2
+ti mi sha tan pian	替米沙坦片	2
+ti shi jing qie meng	啼时惊妾梦	2
+ti wai fan bo zhi liao	体外反搏治疗	2
+ti xia zhuang	提辖庄	2
+ti xiang zhang ai	体像障碍	2
+ti zhi xing ai xiao	体质性矮小	2
+ti ba gong de shui	题八功德水	1
+ti chi zhou nong shui ting	题池州弄水亭	1
+ti dai qiang hua	替代强化	1
+ti jian chu yan jing	提剑出燕京	1
+ti kai hong yan jiu fei e	剔开红焰救飞蛾	1
+ti ke yi jian shuang xue	蹄可以践霜雪	1
+ti li ning you ju	题李凝幽居	1
+ti mi sha tan jiao nang	替米沙坦胶囊	1
+ti pu rui tong jiao nang	替普瑞酮胶囊	1
+ti ren chui lei dao tian ming	替人垂泪到天明	1
+ti shan shi liu hua	题山石榴花	1
+ti shi ba jiao hua	题诗芭蕉滑	1
+ti xiao zuo shuan	替硝唑栓	1
+ti xie ku zhong er	提携袴中儿	1
+ti yang zhou chan zhi si	题扬州禅智寺	1
+ti yu mu	鮧鱼目	1
+ti yu sai shi he tong	体育赛事合同	1
+ti zhe suo yi zai tu	蹄者所以在兔	1
+ti ban mo shi ya ying	梯斑墨食蚜蝇	0
+ti fu	鹈鳺	0
+ti hai xing ya gang	体海星亚纲	0
+ti huan jia die	提环蛱蝶	0
+ti wen yan tai e	梯纹豔苔蛾	0
+ti xiao wei bin fu chong	体小维宾夫虫	0
+ti xing mu	鷈形目	0
+ti zhu hai zhu yu	体珠海猪鱼	0

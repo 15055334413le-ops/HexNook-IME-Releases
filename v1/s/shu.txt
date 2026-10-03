@@ -1,0 +1,3785 @@
+shu ju	数据	501335
+shu liang	数量	500996
+shu yu	属于	500845
+shu ru	输入	500844
+shu zi	数字	500631
+shu ju ku	数据库	500574
+shu xing	属性	500500
+shu xi	熟悉	500469
+shu xue	数学	500355
+shu chu	输出	500346
+shu ju cha xun	数据查询	500309
+shu li	树立	500301
+shu ma	数码	500276
+shu cai	蔬菜	500255
+shu biao	鼠标	428055
+shu ji	书籍	385730
+shu zu	数组	357924
+shu shi	舒适	331015
+shu mian	书面	303035
+shu de	书的	298830
+shu ma xiang ji	数码相机	297445
+shu e	数额	287855
+shu fa	书法	281070
+shu zhi	数值	209275
+shu xie	书写	209185
+shu mu	数目	199110
+shu zhong	书中	196205
+shu dian	书店	191035
+shu lian	熟练	190980
+shu zi hua	数字化	187795
+shu fu	舒服	177025
+shu de	数的	167435
+shu hua	书画	161995
+shu mu	树木	153865
+shu shu	叔叔	146520
+shu hou	术后	138510
+shu kong	数控	135350
+shu yu zi ji	属于自己	129375
+shu yu	术语	128545
+shu song	输送	127440
+shu fu	束缚	127400
+shu ju xian	数据线	125570
+shu zi dian shi	数字电视	125055
+shu ru fa	输入法	121505
+shu ju ku de	数据库的	121480
+shu shi de	舒适的	120590
+shu ju jie gou	数据结构	118113
+shu ming	书名	117950
+shu ju lei xing	数据类型	116821
+shu sheng	书生	110585
+shu jia	暑假	105675
+shu bai	数百	102190
+shu ju bao	数据包	101120
+shu li	梳理	98255
+shu shang	书上	90830
+shu ju xian shi	数据显示	90485
+shu fang	书房	90250
+shu qian	书签	88905
+shu ye	树叶	88520
+shu guang	曙光	88320
+shu lin	树林	88020
+shu mian tong zhi	书面通知	87035
+shu nian	数年	86095
+shu ju chuan shu	数据传输	85640
+shu qian	数千	81830
+shu qi	暑期	75810
+shu shang	树上	74040
+shu hui	赎回	73695
+shu mu	书目	72370
+shu fa jia	书法家	71860
+shu ben	书本	71010
+shu ma chan pin	数码产品	70895
+shu huan	舒缓	69130
+shu niu	枢纽	67700
+shu ci	数次	67520
+shu yuan	书院	66975
+shu kan	书刊	65690
+shu zhi	树脂	65675
+shu zhi	树枝	63145
+shu ju cai ji	数据采集	62965
+shu zhong	树种	62920
+shu de	树的	61705
+shu xing	树形	61655
+shu ren	熟人	61460
+shu hu	疏忽	60630
+shu ming	署名	60060
+shu ju zhong xin	数据中心	59965
+shu nv	淑女	59810
+shu xia	属下	56945
+shu wan	数万	55515
+shu san	疏散	55340
+shu hao	书号	55185
+shu biao you jian	鼠标右键	55095
+shu bao	书包	54085
+shu luan guan	输卵管	52995
+shu rong	殊荣	51930
+shu ku	书库	51710
+shu xia	树下	51650
+shu zhan	舒展	51285
+shu kong ji chuang	数控机床	51270
+shu mian shen qing	书面申请	50985
+shu qing	抒情	50835
+shu ge	数个	50050
+shu ju ku zhong	数据库中	50035
+shu tong	疏通	49605
+shu ju chu li	数据处理	49265
+shu zhi	熟知	49035
+shu dao	疏导	47860
+shu shi xing	舒适性	47740
+shu mian xing shi	书面形式	45875
+shu ju yuan	数据源	45666
+shu bu zhi	殊不知	45210
+shu ma she xiang ji	数码摄像机	44330
+shu yue	数月	44080
+shu chang	舒畅	43990
+shu shi	属实	43440
+shu xie	输血	42805
+shu xue	输血	42805
+shu fa	抒发	42320
+shu jia	书架	42115
+shu de	熟的	41295
+shu bu	恕不	41285
+shu ju hui fu	数据恢复	40970
+shu ji	书记	40540
+shu cheng	书城	38835
+shu ju cun chu	数据存储	38457
+shu qian	术前	38270
+shu ju biao	数据表	37725
+shu ye	输液	37555
+shu ju fen xi	数据分析	37085
+shu shi	术士	36675
+shu ju jiao huan	数据交换	36335
+shu li	书里	36020
+shu gei	输给	35575
+shu shi nian	数十年	35305
+shu ri	数日	35225
+shu xin	舒心	34940
+shu gan	树干	34780
+shu de	输的	34265
+shu li qi	树立起	33775
+shu chu gong lv	输出功率	33615
+shu hua jia	书画家	32655
+shu you	书友	32615
+shu qi	竖起	32085
+shu ju ji	数据集	31988
+shu zi xin hao	数字信号	31495
+shu ming	数名	31490
+shu zhi	竖直	31420
+shu ru mi ma	输入密码	31335
+shu ma ying xiang	数码影像	31065
+shu xue jia	数学家	30975
+shu ru shu chu	输入输出	30725
+shu shi xing	舒适型	30575
+shu ju liu	数据流	30085
+shu ju bei fen	数据备份	30075
+shu wu	书屋	29320
+shu chu dian ya	输出电压	29260
+shu ma he	舒马赫	29075
+shu shou wu ce	束手无策	28975
+shu li	数理	28955
+shu ma ke ji you xian gong si	数码科技有限公司	28510
+shu mian bao gao	书面报告	28395
+shu shan	蜀山	28155
+shu mian tong yi	书面同意	28125
+shu ju ku lian jie	数据库连接	27928
+shu shuo	述说	27470
+shu yuan	疏远	27405
+shu biao zuo jian	鼠标左键	27400
+shu xing she zhi	属性设置	26875
+shu bian dian	输变电	26710
+shu liang you xian	数量有限	26710
+shu ru liu	输入流	26683
+shu yu wo	属于我	26580
+shu ju tong xin	数据通信	26550
+shu ren	数人	26540
+shu ju wen jian	数据文件	26480
+shu bei	数倍	26290
+shu ju jia zai zhong	数据加载中	26170
+shu zi shi	数字式	25860
+shu pi	树皮	25675
+shu chu liu	输出流	25299
+shu zhuo	书桌	25165
+shu shi ge	数十个	25095
+shu zu yuan su	数组元素	24992
+shu ying	输赢	24930
+shu ma zhao pian	数码照片	24765
+shu fa zuo pin	书法作品	24105
+shu song	疏松	23745
+shu shi du	舒适度	23710
+shu di	属地	23690
+shu yi	数以	23670
+shu ju ye wu	数据业务	23555
+shu ju guan li	数据管理	23500
+shu bai wan	数百万	23350
+shu qi	舒淇	23160
+shu mian cai liao	书面材料	23150
+shu yu ni	属于你	22945
+shu ju cang ku	数据仓库	22610
+shu ma she bei	数码设备	22525
+shu lie	数列	22480
+shu liang shang	数量上	22370
+shu yi wan ji	数以万计	22360
+shu ru dian ya	输入电压	22355
+shu ma dan fan	数码单反	22250
+shu zi xian shi	数字显示	22105
+shu shan qu	蜀山区	22025
+shu ju	书局	22000
+shu zhi	述职	21930
+shu song ji	输送机	21825
+shu ju liang	数据量	21720
+shu sheng	殊胜	21665
+shu ji yuan	书记员	21605
+shu shi wan	数十万	20800
+shu zi jia ting	数字家庭	20615
+shu zi jian	数字键	20515
+shu guan	树冠	20490
+shu shi	熟食	20385
+shu kou	漱口	20380
+shu ju xin xi	数据信息	20205
+shu xue mo xing	数学模型	20170
+shu xue xi	数学系	20075
+shu gen	树根	19930
+shu ju zi liao	数据资料	19860
+shu zi zheng shu	数字证书	19860
+shu zhuang	树状	19830
+shu shui	熟睡	19745
+shu shi	熟识	19435
+shu bu qing de	数不清的	19310
+shu ju ku cao zuo	数据库操作	19123
+shu jia	数家	19015
+shu ju biao ming	数据表明	19015
+shu ju an quan	数据安全	18995
+shu ru kuang	输入框	18964
+shu lou	疏漏	18825
+shu tian	数天	18825
+shu mian xu ke	书面许可	18790
+shu ju wa jue	数据挖掘	18725
+shu guo	属国	18685
+shu dian	输电	18565
+shu ju kuai	数据块	18504
+shu tan	舒坦	18500
+shu shui	输水	18455
+shu xiao shi	数小时	18450
+shu qian nian	数千年	18310
+shu kong xi tong	数控系统	18185
+shu fu	叔父	18175
+shu lin li	树林里	18140
+shu yu	疏于	18030
+shu ju ku biao	数据库表	18027
+shu kong ji shu	数控技术	17690
+shu liang duo	数量多	17680
+shu gao	书稿	17670
+shu ju lai yuan	数据来源	17670
+shu min	庶民	17650
+shu yu wo de	属于我的	17640
+shu tong	书童	17435
+shu tou	梳头	17410
+shu bu sheng shu	数不胜数	17400
+shu ju jie kou	数据接口	17330
+shu ru xin hao	输入信号	17230
+shu guan	书馆	17220
+shu ren	树人	17195
+shu xing zhi	属性值	17185
+shu tiao	薯条	17145
+shu guo	蔬果	17005
+shu hua zuo pin	书画作品	16875
+shu de	倏地	16850
+shu ji chu shu ji	书记处书记	16850
+shu li tong ji	数理统计	16850
+shu bai ming	数百名	16765
+shu mian yi jian	书面意见	16740
+shu li	竖立	16690
+shu di guan li	属地管理	16600
+shu bai nian	数百年	16545
+shu ju diu shi	数据丢失	16525
+shu zhong	数种	16450
+shu ju ku fu wu qi	数据库服务器	16360
+shu fa yi shu	书法艺术	16340
+shu mian da fu	书面答复	16305
+shu xue zhi shi	数学知识	16290
+shu zi qian ming	数字签名	16155
+shu cai sheng chan	蔬菜生产	16020
+shu ju bao cun	数据保存	15823
+shu cong	树丛	15715
+shu mian xie yi	书面协议	15585
+shu ma ke ji	数码科技	15535
+shu ju fang wen	数据访问	15291
+shu zheng	书证	15250
+shu zi shi pin	数字视频	15140
+shu cai shui guo	蔬菜水果	15100
+shu li	疏离	14950
+shu yi shu er	数一数二	14885
+shu yu wo men	属于我们	14855
+shu ru duan	输入端	14795
+shu zi mei ti	数字媒体	14760
+shu shu	数数	14755
+shu ju fu wu	数据服务	14605
+shu liang zui duo	数量最多	14595
+shu miao	树苗	14495
+shu ju mo xing	数据模型	14490
+shu niao guan	输尿管	14470
+shu shi zhong	数十种	14350
+shu ju cao zuo	数据操作	14331
+shu ju zhuan huan	数据转换	14316
+shu han	蜀汉	14285
+shu zhai	书斋	14250
+shu biao dian ji	鼠标点击	14175
+shu hua yuan	书画院	14175
+shu biao dian	鼠标垫	14160
+shu zu chang du	数组长度	14035
+shu chu jie kou	输出接口	13810
+shu bai ge	数百个	13600
+shu ju duan	数据段	13530
+shu hua yi shu	书画艺术	13505
+shu yi qian ji	数以千计	13495
+shu pian	薯片	13475
+shu du	熟读	13455
+shu diao	输掉	13435
+shu zi dian lu	数字电路	13330
+shu ju bao	数据报	13290
+shu yi	数亿	13235
+shu luo	数落	13205
+shu zi yin pin	数字音频	13135
+shu gei le	输给了	13110
+shu song dai	输送带	13085
+shu bo te	舒伯特	13022
+shu bai ren	数百人	12950
+shu zi yin yue	数字音乐	12935
+shu guo	蜀国	12850
+shu chu xin hao	输出信号	12820
+shu yi	鼠疫	12740
+shu zhe	数着	12740
+shu dao	数到	12645
+shu ju ge shi	数据格式	12585
+shu liang guan xi	数量关系	12515
+shu ju ku guan li xi tong	数据库管理系统	12500
+shu ka gu fen	舒卡股份	12500
+shu ma guang chang	数码广场	12385
+shu hua zhan	书画展	12365
+shu zhi bao gao	述职报告	12350
+shu song dao	输送到	12290
+shu xie	抒写	12195
+shu xue jian mo	数学建模	12155
+shu ying	树影	12025
+shu ling	树龄	12005
+shu xin feng	树新风	12005
+shu xue xue xi	数学学习	12005
+shu zhi shu lian	述职述廉	12005
+shu shang	书商	11970
+shu shi	数十	11944
+shu de	输得	11925
+shu kong che chuang	数控车床	11885
+shu ma gang	数码港	11815
+shu li hua	数理化	11805
+shu shu fu fu	舒舒服服	11735
+shu chu duan	输出端	11690
+shu xi	梳洗	11670
+shu dian xian lu	输电线路	11635
+shu ju ku wen jian	数据库文件	11620
+shu shi ren	数十人	11570
+shu bao	书报	11565
+shu zhuang	梳妆	11565
+shu biao cao zuo	鼠标操作	11485
+shu biao zhi zhen	鼠标指针	11435
+shu zi nei rong	数字内容	11405
+shu yu de	术语的	11400
+shu xiang	竖向	11345
+shu qiu	输球	11320
+shu shi gan	舒适感	11320
+shu mian biao da	书面表达	11315
+shu ma cheng	数码城	11305
+shu song le	输送了	11270
+shu ran	倏然	11180
+shu e jiao da	数额较大	11055
+shu ma she ying	数码摄影	11015
+shu you	书有	11015
+shu yang xian	沭阳县	10995
+shu ru shu ju	输入数据	10975
+shu zui bing fa	数罪并罚	10965
+shu ju tong bu	数据同步	10941
+shu zhou	数周	10900
+shu xue lao shi	数学老师	10785
+shu she	书社	10765
+shu ju chuan song	数据传送	10705
+shu ju chuan shu lv	数据传输率	10665
+shu lei	薯类	10640
+shu shuang	舒爽	10640
+shu zhan	书展	10635
+shu ji chu	书记处	10620
+shu ji	熟记	10595
+shu mi	疏密	10565
+shu ju gong xiang	数据共享	10555
+shu mian he tong	书面合同	10525
+shu ju ku cha xun	数据库查询	10476
+shu ju xiang	数据项	10470
+shu xue wen ti	数学问题	10420
+shu jing guan	输精管	10390
+shu e ju da	数额巨大	10370
+shu xiang	属相	10318
+shu ru le	输入了	10260
+shu shi yi	数十亿	10235
+shu ju chuan di	数据传递	10201
+shu qian	数钱	10200
+shu fang li	书房里	10160
+shu fei	书费	10155
+shu ju ku xi tong	数据库系统	10143
+shu tou	熟透	10140
+shu ming quan	署名权	10125
+shu zhi shang	树枝上	10125
+shu qian ming	数千名	10075
+shu xue gong shi	数学公式	10073
+shu ma yin shua	数码印刷	10060
+shu zhuang tai	梳妆台	10035
+shu ju ji lu	数据记录	10030
+shu biao shou	鼠标手	9999
+shu bo	叔伯	9999
+shu gui	书柜	9999
+shu hang zi	树行子	9999
+shu liang er	树凉儿	9999
+shu qie gou dao	鼠窃狗盗	9999
+shu qie gou tou	鼠窃狗偷	9999
+shu shao	树梢	9999
+shu tan er	书摊儿	9999
+shu wei gang	数位港	9999
+shu xing ci	属性词	9999
+shu ya	树丫	9999
+shu yin liang er	树荫凉儿	9999
+shu zang	树葬	9999
+shu zi gang	数字港	9999
+shu zi yin pin guang pan	数字音频光盘	9999
+shu zou	赎走	9999
+shu liang shao	数量少	9955
+shu pei dian	输配电	9930
+shu chu dian liu	输出电流	9920
+shu ye	书页	9905
+shu li	数里	9900
+shu xing jie gou	树形结构	9894
+shu qing de	抒情的	9805
+shu yi ci	输一次	9800
+shu qian wan	数千万	9795
+shu xue ji chu	数学基础	9790
+shu cai zhong zhi	蔬菜种植	9760
+shu zi bian jiao	数字变焦	9760
+shu ju qu	数据区	9688
+shu zhong	蜀中	9635
+shu wan yuan	数万元	9610
+shu cai lei	蔬菜类	9575
+shu dai zi	书呆子	9505
+shu zhe	竖着	9445
+shu xue ke	数学课	9415
+shu liang xian zhi	数量限制	9400
+shu xing xiang	树形象	9335
+shu zu ming	数组名	9215
+shu fa zhuan ke	书法篆刻	9170
+shu cai ji di	蔬菜基地	9110
+shu xue jiao shi	数学教师	9030
+shu qi	树起	9000
+shu shi wei	数十位	8990
+shu lai	数来	8930
+shu qin	竖琴	8930
+shu ju jia mi	数据加密	8925
+shu ren	庶人	8920
+shu juan	书卷	8880
+shu ru gong lv	输入功率	8825
+shu nv	熟女	8760
+shu ma ji shu	数码技术	8725
+shu ju geng xin	数据更新	8697
+shu ma guan	数码管	8560
+shu ben zhi shi	书本知识	8495
+shu ma shang cheng	数码商城	8470
+shu ru she bei	输入设备	8465
+shu mian zheng ming	书面证明	8460
+shu you	输油	8460
+shu cai tang	蔬菜汤	8421
+shu gao	树高	8365
+shu yi yi ji	数以亿计	8345
+shu ju chi jiu hua ceng	数据持久化层	8333
+shu yi bai ji	数以百计	8280
+shu jia qi jian	暑假期间	8275
+shu jia	书价	8265
+shu zi	梳子	8245
+shu zi dian ying	数字电影	8235
+shu ju shu ru	数据输入	8220
+shu jia shang	书架上	8195
+shu bu qing	数不清	8185
+shu xue ti	数学题	8160
+shu zhuang	树桩	8155
+shu ju jiao hu	数据交互	8122
+shu diao le	输掉了	8115
+shu zu lei xing	数组类型	8058
+shu biao jian	鼠标键	8045
+shu ru wen zi	输入文字	8040
+shu xue cheng ji	数学成绩	8035
+shu ju fu zhi	数据复制	8026
+shu zhuang shu zu	树状数组	8010
+shu yin	树荫	8000
+shu xue ke cheng	数学课程	7970
+shu shu	属鼠	7956
+shu chong	书虫	7950
+shu wan ren	数万人	7840
+shu xue fen xi	数学分析	7830
+shu ru shi	输入时	7760
+shu ju ku lian jie chi	数据库连接池	7735
+shu tu tong gui	殊途同归	7735
+shu le	输了	7690
+shu ju bang ding	数据绑定	7651
+shu chu jie guo	输出结果	7645
+shu lun	数论	7645
+shu zhi	数只	7640
+shu ling	属灵	7620
+shu chu she bei	输出设备	7615
+shu ping	竖屏	7598
+shu xue jing sai	数学竞赛	7595
+shu ju bao hu	数据保护	7575
+shu mian wen jian	书面文件	7550
+shu fu le	舒服了	7495
+shu xing wen jian	属性文件	7465
+shu zi tu xiang	数字图像	7455
+shu ju du qu	数据读取	7441
+shu jin	赎金	7440
+shu ju shou ji	数据收集	7395
+shu ju lu ru	数据录入	7390
+shu li ke xue fa zhan guan	树立科学发展观	7380
+shu zhi mo ni	数值模拟	7310
+shu hou	树后	7305
+shu tan	书坛	7305
+shu jie gou	树结构	7267
+shu ke	熟客	7260
+shu li liang hao	树立良好	7260
+shu liang bi	数量比	7250
+shu yao	束腰	7230
+shu ben hua	叔本华	7215
+shu ju ku fang wen	数据库访问	7201
+shu miao	数秒	7195
+shu xin	书信	7195
+shu jia	输家	7180
+shu ju liu liang	数据流量	7140
+shu ming de	署名的	7140
+shu ben shang	书本上	7135
+shu ju jia zai	数据加载	7127
+shu sheng	数声	7120
+shu ju wang luo	数据网络	7090
+shu li xin xin	树立信心	7090
+shu ju huan cun	数据缓存	7086
+shu shi nian lai	数十年来	7080
+shu song she bei	输送设备	7070
+shu mian wei tuo	书面委托	7065
+shu zhi gao ge	束之高阁	7025
+shu si	殊死	7000
+shu zi hong gou	数字鸿沟	6990
+shu mian sheng ming	书面声明	6960
+shu ju ku ming	数据库名	6930
+shu mi yuan	枢密院	6920
+shu qi le	竖起了	6910
+shu ya re dai	属亚热带	6900
+shu jing	竖井	6890
+shu hai	鼠害	6855
+shu du	数度	6845
+shu ru duan zi	输入端子	6840
+shu liang ji	数量级	6835
+shu hai	书海	6785
+shu bai yuan	数百元	6740
+shu bu	数步	6730
+shu yue	书曰	6700
+shu zhuo shang	书桌上	6690
+shu ju ku she ji	数据库设计	6683
+shu dao	数道	6666
+shu mu kui	枢木葵	6666
+shu xu guan	鼠须管	6666
+shu shu a yi	叔叔阿姨	6655
+shu hu	倏忽	6600
+shu ju zhen	数据帧	6600
+shu ma lu yin	数码录音	6585
+shu zi jian pan	数字键盘	6570
+shu shi ci	数十次	6565
+shu zhang ya	舒张压	6540
+shu ju zi dian	数据字典	6534
+shu shi ban	舒适版	6520
+shu nian lai	数年来	6500
+shu ju tong xun	数据通讯	6490
+shu yi bai wan ji	数以百万计	6460
+shu chu liang	输出量	6415
+shu fa zhan	书法展	6410
+shu xue fang fa	数学方法	6380
+shu zi zi fu	数字字符	6356
+shu ru cuo wu	输入错误	6355
+shu di yuan ze	属地原则	6340
+shu wo	恕我	6335
+shu biao yi dong	鼠标移动	6327
+shu er ci	舒尔茨	6275
+shu ju lian jie	数据连接	6255
+shu ma xiang pian	数码相片	6255
+shu liang bu zu	数量不足	6230
+shu ju lian lu ceng	数据链路层	6223
+shu ru guo	输入过	6200
+shu wang	输往	6175
+shu bian	数遍	6160
+shu hui	数回	6154
+shu yuan le	疏远了	6140
+shu zi shi dai	数字时代	6135
+shu kuan	书款	6115
+shu qi	输气	6095
+shu chu ge shi	输出格式	6089
+shu ben fei	书本费	6035
+shu zi xin xi	数字信息	5995
+shu chu gong neng	输出功能	5980
+shu zhe	梳着	5970
+shu li dian xing	树立典型	5920
+shu zhi ji suan	数值计算	5910
+shu hua	熟化	5905
+shu ju ya suo	数据压缩	5900
+shu re	暑热	5900
+shu bu qi	输不起	5875
+shu wan ming	数万名	5870
+shu er	舒尔	5855
+shu kong xi chuang	数控铣床	5845
+shu fen	数分	5825
+shu ru ming ling	输入命令	5815
+shu dao	蜀道	5780
+shu zhi ping yi	述职评议	5775
+shu niu gong cheng	枢纽工程	5770
+shu di hua	属地化	5750
+shu shi li	数十里	5750
+shu shu	术数	5748
+shu dong	树洞	5745
+shu biao jian pan	鼠标键盘	5740
+shu qian ge	数千个	5735
+shu ju ku ying xiao	数据库营销	5690
+shu jun	疏浚	5675
+shu mian yu	书面语	5670
+shu xiang men di	书香门第	5670
+shu fang	淑芳	5665
+shu gan shang	树干上	5640
+shu ju dao ru	数据导入	5628
+shu zhi shu ju	数值数据	5625
+shu man	舒曼	5620
+shu chu duan kou	输出端口	5595
+shu zi xiang ji	数字相机	5585
+shu hua da sai	书画大赛	5575
+shu hua ming jia	书画名家	5560
+shu shou	熟手	5560
+shu tiao	数条	5555
+shu chi	数尺	5530
+shu chu pin lv	输出频率	5530
+shu zi tong xin	数字通信	5530
+shu yin xia	树荫下	5495
+shu ju wan zheng xing	数据完整性	5475
+shu xing lie biao	属性列表	5455
+shu chu fang shi	输出方式	5445
+shu shui fa	疏水阀	5420
+shu ju shu chu	数据输出	5410
+shu zi tu shu	数字图书	5400
+shu chu	数出	5395
+shu ju ku lei	数据库类	5345
+shu ping	书评	5330
+shu ju yi zhi xing	数据一致性	5315
+shu huai	抒怀	5300
+shu xue ke jian	数学课件	5280
+shu ma chong yin	数码冲印	5275
+shu xue xue ke	数学学科	5275
+shu ju zong xian	数据总线	5265
+shu ru zhong wen	输入中文	5255
+shu nei	书内	5240
+shu gou	属狗	5235
+shu qing shi	抒情诗	5235
+shu ju chi jiu hua	数据持久化	5231
+shu chu duan zi	输出端子	5230
+shu ru shou ji	输入手机	5225
+shu ru xin xi	输入信息	5195
+shu hu da yi	疏忽大意	5190
+shu jing	输精	5160
+shu mian ping zheng	书面凭证	5155
+shu mian zhong cai xie yi	书面仲裁协议	5140
+shu zui	恕罪	5135
+shu zhang	舒张	5120
+shu pai	竖排	5115
+shu liang zeng zhang	数量增长	5080
+shu xian	竖线	5060
+shu ju fen bu	数据分布	5059
+shu wei cao	鼠尾草	5040
+shu ri hou	数日后	4975
+shu luan guan yan	输卵管炎	4970
+shu de	数得	4950
+shu ju nei rong	数据内容	4950
+shu le kou qi	舒了口气	4920
+shu you guan dao	输油管道	4920
+shu wai	书外	4895
+shu bu jin de	数不尽的	4890
+shu ju qing qiu	数据请求	4889
+shu xing lan	属性栏	4875
+shu yuan	书苑	4860
+shu zi ying xiang	数字影像	4855
+shu zhai	书摘	4825
+shu chu guo	输出国	4820
+shu lin	疏林	4795
+shu bao li	书包里	4775
+shu ren	熟稔	4755
+shu ji suan	数计算	4750
+shu zhuo qian	书桌前	4725
+shu ji zhuang zhen	书籍装帧	4715
+shu mian que ren	书面确认	4695
+shu shou jiu qin	束手就擒	4695
+shu huan	鼠患	4679
+shu yi	数一	4675
+shu shi mi	数十米	4655
+shu cai da peng	蔬菜大棚	4645
+shu song xi tong	输送系统	4640
+shu wei	数位	4640
+shu fu ma	舒服吗	4615
+shu zhong zi you	书中自有	4615
+shu zu pai xu	数组排序	4583
+shu chu wen jian	输出文件	4580
+shu neng	孰能	4580
+shu chu	书橱	4575
+shu qi	数起	4575
+shu li xing xiang	树立形象	4570
+shu mo	数模	4570
+shu ren	输人	4565
+shu zi kong zhi	数字控制	4560
+shu xian	数显	4557
+shu dao	书道	4540
+shu jing	书经	4535
+shu mian yu yan	书面语言	4525
+shu cai zhi	蔬菜汁	4515
+shu xiang	书香	4512
+shu ju mu lu	数据目录	4505
+shu lan	疏懒	4495
+shu ru xiang guan	输入相关	4495
+shu ma kuai yin	数码快印	4490
+shu yi shu	数一数	4490
+shu lei	鼠类	4485
+shu zi gao qing	数字高清	4485
+shu ci	数词	4475
+shu jiao	树胶	4475
+shu jie	舒解	4470
+shu ju kong jian	数据空间	4462
+shu ru dian liu	输入电流	4445
+shu fa	术法	4444
+shu xian	书仙	4444
+shu yao	树妖	4444
+shu zui	赎罪	4444
+shu pang	树旁	4430
+shu you shu lie	孰优孰劣	4430
+shu ju que fa	数据缺乏	4386
+shu shi bei	数十倍	4375
+shu xue shi ti	数学试题	4325
+shu ju wei	数据位	4320
+shu xue shang	数学上	4310
+shu di	树敌	4295
+shu ju feng zhuang	数据封装	4293
+shu li bang yang	树立榜样	4290
+shu xia	数下	4280
+shu pian	数篇	4275
+shu liang jiao shao	数量较少	4265
+shu yu ta	属于他	4250
+shu ju ku pei zhi	数据库配置	4244
+shu qian	输钱	4240
+shu ren	蜀人	4230
+shu bao ting	书报亭	4220
+shu liao	孰料	4215
+shu chu zu kang	输出阻抗	4210
+shu ru fang fa	输入方法	4210
+shu xue han shu	数学函数	4197
+shu zi xing	数字型	4195
+shu shen	树身	4180
+shu xue kao shi	数学考试	4160
+shu yun	疏运	4155
+shu bu tui huan	恕不退还	4150
+shu xi	数系	4150
+shu zhi fen xi	数值分析	4150
+shu hui	书会	4145
+shu xue wu li	数学物理	4145
+shu gong	叔公	4140
+shu chu shu ju	输出数据	4110
+shu ju ku jie gou	数据库结构	4105
+shu zi xin hao chu li qi	数字信号处理器	4105
+shu ju ku dui xiang	数据库对象	4090
+shu xie zhe	书写着	4080
+shu ru can shu	输入参数	4075
+shu gan	疏肝	4060
+shu ju ji zhong	数据集中	4045
+shu zi wang luo	数字网络	4040
+shu tan	书摊	4035
+shu ju tong ji	数据统计	4010
+shu ju lei xing zhuan huan	数据类型转换	3992
+shu zhi	叔侄	3985
+shu ding	树顶	3970
+shu ju jie xi	数据解析	3944
+shu fa	束发	3940
+shu jie	疏解	3940
+shu ru duan kou	输入端口	3920
+shu guang lu	曙光路	3915
+shu zi shi bo qi	数字示波器	3915
+shu zi shu ju	数字数据	3910
+shu lan	熟烂	3905
+shu xue ke	数学科	3905
+shu zu yue jie	数组越界	3903
+shu zu zhi zhen	数组指针	3901
+shu niu gang	枢纽港	3895
+shu zai	数载	3880
+shu yun	书云	3875
+shu xing dong hua	属性动画	3871
+shu bao kan	书报刊	3870
+shu guo	数过	3870
+shu le shu	数了数	3870
+shu shan	书山	3870
+shu niu zhan	枢纽站	3860
+shu qi ban	暑期班	3850
+shu fang	书坊	3840
+shu mian jian cha	书面检查	3835
+shu si bo dou	殊死搏斗	3835
+shu ru han zi	输入汉字	3810
+shu ju qian yi	数据迁移	3800
+shu hu	属虎	3795
+shu niu	属牛	3795
+shu zhu	属猪	3795
+shu ju ku yin qing	数据库引擎	3772
+shu zi ka	数字卡	3770
+shu ju xi tong	数据系统	3760
+shu xing xing	数星星	3755
+shu ru shu chu liu	输入输出流	3753
+shu juan qi	书卷气	3750
+shu ju dui xiang	数据对象	3745
+shu ma she xiang	数码摄像	3740
+shu bai yi	数百亿	3730
+shu ju fang wen ceng	数据访问层	3709
+shu sen	树森	3695
+shu ye qi	输液器	3690
+shu biao shi jian	鼠标事件	3685
+shu qi	暑气	3665
+shu ju ku shi wu	数据库事务	3662
+shu ming wen zhang	署名文章	3635
+shu ju wei hu	数据维护	3625
+shu dian	数点	3615
+shu jian	书简	3610
+shu ju xiu fu	数据修复	3605
+shu dai	束带	3575
+shu qi lai	竖起来	3575
+shu mei	树莓	3570
+shu cai pi fa shi chang	蔬菜批发市场	3564
+shu mi shi	枢密使	3525
+shu zi dian shi biao zhun	数字电视标准	3515
+shu jia zuo ye	暑假作业	3510
+shu ju xin hao	数据信号	3510
+shu zui	数罪	3505
+shu cha	树杈	3490
+shu zi xi tong	数字系统	3490
+shu song guan dao	输送管道	3485
+shu ju ku guan li	数据库管理	3466
+shu fa jie	书法界	3465
+shu xue yu yan	数学语言	3465
+shu zi	庶子	3465
+shu zi zhuan huan	数字转换	3459
+shu cheng xian	舒城县	3450
+shu zi shang	数字上	3445
+shu da zhao feng	树大招风	3430
+shu tiao	竖条	3425
+shu ba tan	舒巴坦	3400
+shu ru xi tong	输入系统	3395
+shu ju huo qu	数据获取	3379
+shu xi	熟习	3375
+shu ju ku ying yong	数据库应用	3374
+shu nan zhu hai	蜀南竹海	3370
+shu mao	梳毛	3365
+shu ju rong yu	数据冗余	3361
+shu wei	殊为	3360
+shu ye	术业	3355
+shu cha	熟茶	3345
+shu shi tiao	数十条	3345
+shu ma yin yue	数码音乐	3335
+shu cai sha la	蔬菜沙拉	3333
+shu chang	数场	3333
+shu dai zi lian	书呆子脸	3333
+shu di	竖笛	3333
+shu lan	树懒	3333
+shu lan xian sheng	树懒先生	3333
+shu qian biao qian	书签标签	3333
+shu shi gao	熟石膏	3333
+shu shi hui	熟石灰	3333
+shu shu	鼠鼠	3333
+shu wan gou	竖弯钩	3333
+shu wan gou er	竖弯钩儿	3333
+shu zhong zhi	竖中指	3333
+shu xue zu	数学组	3330
+shu yu jing er feng bu zhi	树欲静而风不止	3330
+shu chu xi tong	输出系统	3315
+shu liang ju da	数量巨大	3310
+shu rou	熟肉	3310
+shu zhang	署长	3310
+shu an	熟谙	3305
+shu liang xing	数量型	3305
+shu ju ke shi hua	数据可视化	3286
+shu de	熟得	3285
+shu mi	书迷	3285
+shu yue hou	数月后	3280
+shu er bu lou	疏而不漏	3275
+shu dao	输到	3270
+shu ru su du	输入速度	3270
+shu ju guang bo	数据广播	3260
+shu bai wei	数百位	3255
+shu ma bao bei	数码宝贝	3250
+shu you hui	书友会	3250
+shu yu ta	属于她	3250
+shu ju cun qu	数据存取	3245
+shu jie	纾解	3230
+shu zhuang da ban	梳妆打扮	3230
+shu guo	输过	3225
+shu ju biao shi	数据表示	3224
+shu zi chuan shu	数字传输	3205
+shu ju lian	数据链	3200
+shu song ji xie	输送机械	3195
+shu xing jie he	数形结合	3195
+shu ju ku bei fen	数据库备份	3176
+shu shen	束身	3175
+shu xue shi juan	数学试卷	3175
+shu zhuang	梳状	3175
+shu ju dao chu	数据导出	3170
+shu sheng	书圣	3165
+shu li luo ji	数理逻辑	3160
+shu ju hua	数据化	3155
+shu zi cun chu	数字存储	3140
+shu shi shu fei	孰是孰非	3135
+shu ju bian ma	数据编码	3134
+shu liang fen xi	数量分析	3130
+shu ji guan	书记官	3125
+shu mu cun guang	鼠目寸光	3125
+shu ru gong neng	输入功能	3115
+shu liang hua	数量化	3100
+shu xie	疏泄	3100
+shu an	书案	3095
+shu hui fei lv	赎回费率	3090
+shu ce	书册	3070
+shu mu wei	数目为	3065
+shu xie shi	书写时	3050
+shu jin	输进	3045
+shu ju qu dong	数据驱动	3031
+shu chu xin xi	输出信息	3025
+shu ju zheng li	数据整理	2995
+shu qing shu zhong	孰轻孰重	2980
+shu zhi gong yi pin	树脂工艺品	2960
+shu fu jia	舒肤佳	2955
+shu chu chong ding xiang	输出重定向	2938
+shu sheng	数省	2935
+shu li zhe	竖立着	2925
+shu bei	鼠辈	2905
+shu shu	书塾	2900
+shu wang	树王	2900
+shu ju shuo ming	数据说明	2895
+shu ru kou	输入口	2885
+shu ju yan zheng	数据验证	2882
+shu ju cuo wu	数据错误	2870
+shu zi luo ji	数字逻辑	2870
+shu ru mo kuai	输入模块	2860
+shu xing ye	属性页	2845
+shu zi	叔子	2830
+shu zu chu shi hua	数组初始化	2829
+shu ji	属鸡	2825
+shu xue jie	数学界	2820
+shu ju ka	数据卡	2815
+shu wan	输完	2815
+shu fu zhe	束缚着	2800
+shu bao za zhi	书报杂志	2795
+shu ying heng xie	疏影横斜	2795
+shu zhi	孰知	2795
+shu ju tong dao	数据通道	2785
+shu chu dian ping	输出电平	2740
+shu ju lian lu	数据链路	2740
+shu guang le	输光了	2735
+shu hou	属猴	2720
+shu shen	赎身	2715
+shu ju bao gao	数据报告	2710
+shu chu di	输出地	2690
+shu qi guan dao	输气管道	2670
+shu ru huan chong qu	输入缓冲区	2661
+shu ju pai xu	数据排序	2658
+shu zhao	数招	2650
+shu zu	叔祖	2635
+shu dan	书单	2630
+shu bai	叔伯	2620
+shu tu	殊途	2605
+shu ji	书脊	2600
+shu ju cheng yuan	数据成员	2600
+shu xue li lun	数学理论	2600
+shu ye ping	输液瓶	2600
+shu zha	书札	2600
+shu kou shui	漱口水	2580
+shu ju bao biao	数据报表	2575
+shu xie neng li	书写能力	2570
+shu jin huo luo	舒筋活络	2565
+shu le	熟了	2562
+shu chu kong zhi	输出控制	2560
+shu qi	束起	2560
+shu wo zhi yan	恕我直言	2535
+shu xie zhe	书写者	2530
+shu dao nan	蜀道难	2520
+shu xun	书讯	2510
+shu dian xian	输电线	2500
+shu ju yuan su	数据元素	2490
+shu zheng gou	树正沟	2490
+shu ju ku guan li yuan	数据库管理员	2487
+shu ming	属名	2475
+shu zi bian ma	数字编码	2475
+shu xue shi	数学史	2465
+shu biao qi	鼠标器	2455
+shu hua jie	书画界	2455
+shu cheng	梳成	2450
+shu mai	赎买	2450
+shu kuang	疏狂	2445
+shu ru yi ci	输入一次	2435
+shu zhi	数制	2435
+shu ru ren he	输入任何	2430
+shu qing ge qu	抒情歌曲	2425
+shu yuan	淑媛	2425
+shu yang	输氧	2420
+shu zhou	数轴	2420
+shu neng wu guo	孰能无过	2405
+shu tai	舒泰	2400
+shu chu mo kuai	输出模块	2390
+shu guo	数国	2385
+shu ru yan zheng	输入验证	2379
+shu shi wen xin	舒适温馨	2375
+shu zheng qun hai	树正群海	2375
+shu ju dui bi	数据对比	2370
+shu ru wen jian	输入文件	2370
+shu shui xing	疏水性	2365
+shu cong li	树丛里	2360
+shu kan za zhi	书刊杂志	2360
+shu mian	梳棉	2360
+shu dui	属对	2345
+shu biao jie kou	鼠标接口	2330
+shu chu dian lu	输出电路	2330
+shu dui	书堆	2330
+shu you guan	输油管	2330
+shu ju jian suo	数据检索	2325
+shu nv zhuang	淑女装	2315
+shu chu bian ya qi	输出变压器	2310
+shu huan	纾缓	2310
+shu bu jie dai	恕不接待	2305
+shu jin	蜀锦	2305
+shu ru mo shi	输入模式	2292
+shu chu xian	输出线	2290
+shu mei pai	树莓派	2288
+shu biao xuan ting	鼠标悬停	2285
+shu dian jia	书店价	2280
+shu liang tong ji	数量统计	2245
+shu lun	书论	2240
+shu shui guan	输水管	2235
+shu song neng li	输送能力	2225
+shu luo	熟络	2222
+shu mei	孰美	2222
+shu wu	树屋	2222
+shu hai	树海	2205
+shu ju zhong duan	数据终端	2200
+shu de ye zi	树的叶子	2195
+shu xie zhi	书写纸	2190
+shu chi	梳齿	2180
+shu ju jiao yan	数据校验	2180
+shu ju zu zhi	数据组织	2177
+shu xing biao	属性表	2172
+shu ju ku kai fa	数据库开发	2168
+shu zheng pu bu	树正瀑布	2165
+shu chu zhi	输出值	2160
+shu tian	暑天	2155
+shu pi	书皮	2150
+shu liang biao zhun	数量标准	2145
+shu shu	疏疏	2145
+shu guang	输光	2140
+shu zu cao zuo	数组操作	2139
+shu qian	树前	2135
+shu ju dan yuan	数据单元	2130
+shu nei	数内	2130
+shu nian	鼠年	2120
+shu ju hua fen	数据划分	2115
+shu qing xing	抒情性	2115
+shu li mian	书里面	2100
+shu ru lan	输入栏	2100
+shu zi lv bo qi	数字滤波器	2100
+shu sheng	书声	2095
+shu zi tu xiang chu li	数字图像处理	2085
+shu xing xuan ze qi	属性选择器	2083
+shu cun	数寸	2080
+shu xue ku	数学库	2061
+shu le he	疏勒河	2060
+shu lian pou fen	树链剖分	2058
+shu lan shi	舒兰市	2055
+shu qing	数清	2055
+shu shou	戍守	2055
+shu ma	属马	2045
+shu jin	束紧	2030
+shu juan	舒卷	2030
+shu qian yi	数千亿	2030
+shu song xian	输送线	2030
+shu de qi	输得起	2025
+shu song che	输送车	2025
+shu song ren cai	输送人才	2025
+shu du	疏堵	2020
+shu hua she	书画社	2020
+shu zhuang jing	梳妆镜	2020
+shu cai	熟菜	2015
+shu xie	书协	2012
+shu ju ji	数据机	2010
+shu hai mang mang	书海茫茫	2000
+shu ru he	输入和	1991
+shu ju ping tai	数据平台	1985
+shu zhi yu bao	数值预报	1980
+shu ju zi duan	数据字段	1975
+shu xue fu hao	数学符号	1975
+shu cai zai pei	蔬菜栽培	1970
+shu liang zhi biao	数量指标	1960
+shu zi tong xun	数字通讯	1960
+shu fang	竖放	1955
+shu mi you zhi	疏密有致	1955
+shu ye shang	树叶上	1955
+shu zi hua sheng cun	数字化生存	1940
+shu ben xue xi	书本学习	1935
+shu pu	书谱	1935
+shu nv wu	淑女屋	1930
+shu wan	数完	1930
+shu zi ge shi	数字格式	1930
+shu zhan zhe	舒展着	1920
+shu yi	殊异	1915
+shu zi xin hao chu li	数字信号处理	1902
+shu gan de	树干的	1900
+shu mian shen su	书面申诉	1900
+shu ju yuan pei zhi	数据源配置	1884
+shu ju yu chu li	数据预处理	1882
+shu dian wang zu	数典忘祖	1880
+shu ju xiu gai	数据修改	1875
+shu sheng qi	书生气	1875
+shu ju ku ji qun	数据库集群	1864
+shu di xia	树底下	1855
+shu ru zi fu	输入字符	1850
+shu niao guan jie shi	输尿管结石	1845
+shu shi nian ru yi ri	数十年如一日	1840
+shu xing zhu ru	属性注入	1840
+shu dao yong shi fang hen shao	书到用时方恨少	1835
+shu ju ku suo yin	数据库索引	1829
+shu ju zhi	数据值	1820
+shu ju ku yu yan	数据库语言	1815
+shu zi di tu	数字地图	1815
+shu hua ji	书画集	1800
+shu se	曙色	1800
+shu xue	鼠穴	1800
+shu lin zi	树林子	1785
+shu xue yuan li	数学原理	1785
+shu zi lv bo	数字滤波	1780
+shu ding	输定	1775
+shu xue gui na fa	数学归纳法	1770
+shu chu su du	输出速度	1765
+shu zhi bu jin	数之不尽	1765
+shu ju tou shi	数据透视	1745
+shu yu biao zhun	术语标准	1745
+shu yuan	属员	1740
+shu fu ji le	舒服极了	1735
+shu gan li qi	疏肝理气	1730
+shu ju chi jiu	数据持久	1726
+shu ting	书亭	1720
+shu ye	树液	1720
+shu yuan	树园	1720
+shu suan	数算	1710
+shu tou fa	梳头发	1710
+shu you beng	输油泵	1705
+shu ju ding yi	数据定义	1700
+shu mian zheng ju	书面证据	1700
+shu ri nei	数日内	1700
+shu shuo	数说	1700
+shu you guan xian	输油管线	1690
+shu zhang	数张	1689
+shu she	属蛇	1680
+shu wu	殊无	1680
+shu zhi	树汁	1680
+shu ji shi	庶吉士	1675
+shu ju ku mu lu	数据库目录	1675
+shu ju zu	数据组	1670
+shu hua yu	树化玉	1665
+shu ju dian	数据点	1660
+shu ju shou ce	数据手册	1655
+shu zi wan yong biao	数字万用表	1655
+shu fan	熟饭	1650
+shu mian fa yan	书面发言	1645
+shu mian ji	梳棉机	1625
+shu gan jie yu	疏肝解郁	1620
+shu ming hao	书名号	1615
+shu qing ge	抒情歌	1610
+shu xin wang lai	书信往来	1610
+shu fa gan qing	抒发感情	1600
+shu chu	庶出	1595
+shu chu mo shi	输出模式	1595
+shu ju zhun bei	数据准备	1595
+shu te	舒特	1595
+shu zu can shu	数组参数	1590
+shu ju chou xiang	数据抽象	1585
+shu xiu	蜀绣	1585
+shu ju	数句	1580
+shu xian biao	数显表	1580
+shu ye guan	输液管	1575
+shu luo	疏落	1570
+shu mian shen li	书面审理	1570
+shu liang fang mian	数量方面	1565
+shu wu	庶务	1565
+shu zi shou ji	数字手机	1555
+shu dai xiong	树袋熊	1550
+shu lu	熟路	1550
+shu zi biao	数字表	1545
+shu dao	输导	1540
+shu ju ku geng xin	数据库更新	1534
+shu mu zi	数目字	1530
+shu liang fang fa	数量方法	1525
+shu ju chu cun	数据储存	1522
+shu li	淑丽	1515
+shu ru guo	输入国	1510
+shu shou dai bi	束手待毙	1505
+shu yan	淑艳	1505
+shu shi bu	数十部	1500
+shu hui jia ge	赎回价格	1495
+shu qing san wen	抒情散文	1495
+shu wu	书物	1495
+shu xue zuo ye	数学作业	1490
+shu zheng	疏证	1490
+shu shi de jia	舒适的家	1485
+shu ju ku hui fu	数据库恢复	1481
+shu zi fu hao	数字符号	1480
+shu ju ji cun qi	数据寄存器	1478
+shu zu	戍卒	1470
+shu zhi zhuang	树枝状	1460
+shu chuan dian tai	数传电台	1455
+shu shou shu jiao	束手束脚	1455
+shu ju ku bian cheng	数据库编程	1447
+shu bei li zhuan	树碑立传	1445
+shu ying	书影	1445
+shu zi dian hua	数字电话	1440
+shu yu biao	术语表	1435
+shu ju jian mo	数据建模	1432
+shu ju shu xing	数据属性	1427
+shu mo zhuan huan qi	数模转换器	1420
+shu nian shi jian	数年时间	1420
+shu zhi fan wei	数值范围	1420
+shu ju ku an zhuang	数据库安装	1417
+shu ju ji shi	数据集市	1410
+shu zhou hou	数周后	1410
+shu zhuan huan	数转换	1405
+shu fa ji	书法集	1400
+shu ju mo kuai	数据模块	1400
+shu mian chen shu	书面陈述	1400
+shu zhi fang fa	数值方法	1400
+shu xing qi	数星期	1375
+shu zhe	输者	1375
+shu bei	书背	1370
+shu fa da jia	书法大家	1355
+shu jia	书夹	1355
+shu liang ji	数量积	1350
+shu ju ku fang mian	数据库方面	1323
+shu hua	疏花	1320
+shu le	数了	1316
+shu ben	数本	1315
+shu jia	鼠夹	1315
+shu luan guan nei	输卵管内	1315
+shu du	数独	1313
+shu jiu han tian	数九寒天	1305
+shu ju liu tu	数据流图	1305
+shu zhuang	束状	1305
+shu kui	蜀葵	1295
+shu shu	树树	1292
+shu jiu	数九	1285
+shu mo zhuan huan	数模转换	1285
+shu ju ce shi	数据测试	1278
+shu bei	数杯	1270
+shu ding	书钉	1270
+shu han	书函	1270
+shu zi	竖子	1265
+shu zi shu ru	数字输入	1264
+shu biao an niu	鼠标按钮	1260
+shu li	数粒	1260
+shu liang kong zhi	数量控制	1255
+shu ru yuan	输入源	1250
+shu qi gong	暑期工	1245
+shu er bu zuo	述而不作	1240
+shu ju guo lv	数据过滤	1240
+shu lu	书录	1235
+shu xi da ban	梳洗打扮	1225
+shu mian da bian	书面答辩	1220
+shu neng wu qing	孰能无情	1220
+shu ju bu	数据部	1205
+shu ju shan chu	数据删除	1205
+shu ju ji cheng	数据集成	1204
+shu li qi lai	竖立起来	1200
+shu zi mo ni	数字模拟	1200
+shu dao hu sun san	树倒猢狲散	1195
+shu yi qi gao	数易其稿	1195
+shu hu bu de	疏忽不得	1185
+shu ru kong zhi	输入控制	1185
+shu yi xia	数一下	1185
+shu zu bian li	数组遍历	1185
+shu dou shu bu qing	数都数不清	1180
+shu guang chu zhao yan bing chang	曙光初照演兵场	1180
+shu hu de	属虎的	1180
+shu jing guang	输精光	1180
+shu li le yi bian	梳理了一遍	1180
+shu shan you lu qin wei jing	书山有路勤为径	1180
+shu sheng feng di li ting wan	数声风笛离亭晚	1180
+shu ju ku you hua	数据库优化	1177
+shu huai	舒怀	1175
+shu le qiu	输了球	1175
+shu zu fu zhi	数组复制	1172
+shu qi	输棋	1165
+shu zi bu fen	数字部分	1165
+shu ju ke xue jia	数据科学家	1163
+shu chu	赎出	1160
+shu ru dian zu	输入电阻	1150
+shu dao	树倒	1140
+shu ju bian ji	数据编辑	1130
+shu ji shi	书记室	1125
+shu chu xing shi	输出形式	1120
+shu ju bao mi	数据保密	1120
+shu zhu	数珠	1115
+shu ban	竖版	1111
+shu biao	数表	1111
+shu che	赎车	1111
+shu fen	书粉	1111
+shu jiang	蜀江	1111
+shu kun	纾困	1111
+shu tou	鼠头	1111
+shu xin	竖心	1111
+shu xu	鼠须	1111
+shu ye	书业	1111
+shu yun	暑运	1111
+shu zai	竖在	1111
+shu chu mai chong	输出脉冲	1110
+shu yu fang fan	疏于防范	1110
+shu zi shi bie	数字识别	1102
+shu li	属吏	1100
+shu zi mo xing	数字模型	1100
+shu shi	书市	1098
+shu dang	赎当	1095
+shu xing kuang	属性框	1090
+shu pin	书品	1085
+shu zi chuan	数字串	1075
+shu ju yao qiu	数据要求	1070
+shu li	树篱	1060
+shu ping	述评	1058
+shu tong guan xi	疏通关系	1055
+shu ju ye	数据页	1050
+shu zhi biao shi	数值表示	1050
+shu ju cha ru	数据插入	1045
+shu lai bao	数来宝	1045
+shu ming ju bao	署名举报	1045
+shu dan	疏淡	1040
+shu long	属龙	1040
+shu shi shang	书市上	1040
+shu tu	属兔	1040
+shu yang	属羊	1040
+shu ju ku qian yi	数据库迁移	1038
+shu ju yi lai	数据依赖	1037
+shu lve	述略	1035
+shu ru lian jie	输入连接	1030
+shu shi qi	数十起	1030
+shu xue qi wang	数学期望	1024
+shu yu	数域	1024
+shu ju ke xue	数据科学	1023
+shu ju bu fen	数据部分	1020
+shu zi yun suan	数字运算	1020
+shu ju fen lei	数据分类	1015
+shu ju kuan du	数据宽度	1010
+shu liang ci	数量词	1010
+shu tong wen	书同文	1010
+shu biao zhong jian	鼠标中键	1002
+shu jun	蜀军	999
+shu ke bei ta	舒克贝塔	999
+shu lang	疏朗	999
+shu mu	叔母	999
+shu po	叔婆	999
+shu song	舒松	999
+shu xiang	书箱	999
+shu ju qing xi	数据清洗	996
+shu ru ji ke	输入即可	995
+shu tian	树田	995
+shu zi biao zhi	数字标志	993
+shu ju ku sheng ji	数据库升级	992
+shu chu han shu	输出函数	990
+shu xi	漱洗	990
+shu ju wa jue suan fa	数据挖掘算法	984
+shu chi	书痴	980
+shu ju yin qing	数据引擎	980
+shu qing qu	抒情曲	980
+shu huai	述怀	975
+shu san ren yuan	疏散人员	975
+shu zu	庶族	975
+shu ru shu chu she bei	输入输出设备	974
+shu ben	树本	970
+shu shi an yi	舒适安逸	970
+shu yang	数羊	970
+shu chu you xian ji	输出优先级	956
+shu ju qing dan	数据清单	950
+shu ju qing li	数据清理	950
+shu shui qi	疏水器	945
+shu zhuang	书状	945
+shu ju ku mo xing	数据库模型	941
+shu ju bao wen	数据报文	935
+shu ru bu fen	输入部分	935
+shu ru qu	输入区	935
+shu xie ban	书写板	935
+shu bu jin	数不尽	930
+shu bei	树碑	925
+shu hang	竖行	925
+shu xiang shi jia	书香世家	920
+shu ju ti qu	数据提取	915
+shu zi yin xiang	数字音响	915
+shu bi	数笔	910
+shu ju ku huan cun	数据库缓存	910
+shu shui	疏水	906
+shu ding chun	叔丁醇	905
+shu ju mo shi	数据模式	905
+shu ju yuan ming cheng	数据源名称	905
+shu sao	叔嫂	905
+shu chu jing du	输出精度	900
+shu dan	书丹	900
+shu ju chou qu	数据抽取	895
+shu ju qu yu	数据区域	890
+shu lai shu qu	数来数去	890
+shu ren	赎人	890
+shu qi she hui	暑期社会	886
+shu qi guan	输气管	885
+shu yuan lu	书院路	877
+shu liang zhe kou	数量折扣	875
+shu xue ke ben	数学课本	875
+shu zi duan	数字段	873
+shu guan	竖管	870
+shu ju can kao	数据参考	870
+shu jie	秫秸	865
+shu xin lai wang	书信来往	865
+shu ju zhi liang	数据质量	862
+shu dun	树墩	855
+shu zhang	数丈	847
+shu bi	梳篦	845
+shu zhi jie	数值解	845
+shu zu fang fa	数组方法	845
+shu ju kong zhi yu yan	数据控制语言	844
+shu er	数儿	840
+shu liang zhi liang	数量质量	840
+shu xin ti	书信体	840
+shu zhu	束住	840
+shu mu yuan	树木园	835
+shu tie	熟铁	835
+shu jie	数届	830
+shu le xian	疏勒县	825
+shu cuo	数错	820
+shu duo ying shao	输多赢少	820
+shu cuan	鼠窜	815
+shu ru dian lu	输入电路	810
+shu ju zhong duan she bei	数据终端设备	805
+shu ju qing xie	数据倾斜	800
+shu ru fa ruan jian	输入法软件	800
+shu xing xiu gai qi	属性修改器	800
+shu ji tui jian	书籍推荐	799
+shu han	书翰	795
+shu ru shu chu han shu	输入输出函数	792
+shu ti	舒体	790
+shu zhuang tu	树状图	787
+shu fang	输方	785
+shu ju ku fu zhi	数据库复制	778
+shu jia qian	书架前	775
+shu ju zhi zhen	数据指针	775
+shu ru yu yan	输入语言	775
+shu jian	疏剪	770
+shu jing	淑静	770
+shu ju ku huan jing	数据库环境	767
+shu lv	熟虑	765
+shu si	书肆	765
+shu zi	熟字	765
+shu ye you zhuan gong	术业有专攻	763
+shu ju xiang guan	数据相关	750
+shu zi ce tu	数字测图	750
+shu wei	戍卫	749
+shu mu chao guo	数目超过	745
+shu zhi biao da shi	数值表达式	745
+shu ju jie gou shi yan	数据结构实验	742
+shu ju jin ru	数据进入	740
+shu liang que ding	数量确定	740
+shu dai	书袋	735
+shu ju ku yuan li	数据库原理	733
+shu fen	淑芬	727
+shu fu xian	疏附县	725
+shu jian	树尖	725
+shu ju cai yang	数据采样	725
+shu ju ku jue se	数据库角色	725
+shu hui lai	赎回来	720
+shu zi zhong	数字钟	720
+shu ju dao ru dao chu	数据导入导出	718
+shu ru ma	输入码	715
+shu ju yi dong	数据移动	710
+shu zhi kong jing	数值孔径	710
+shu zi fang zhen	数字仿真	710
+shu chu dian rong	输出电容	705
+shu ji zhu jiao	枢机主教	705
+shu xing zi fu chuan	属性字符串	702
+shu ju fen xi shi	数据分析师	701
+shu ju cao zong yu yan	数据操纵语言	694
+shu lie pai xu	数列排序	692
+shu ru dian rong	输入电容	690
+shu ju you xiao xing	数据有效性	689
+shu zhi	疏枝	689
+shu zi ji suan ji	数字计算机	685
+shu zi jiao huan	数字交换	685
+shu zi shu chu	数字输出	685
+shu ju ku jie kou	数据库接口	683
+shu gai nian	属概念	680
+shu san qun zhong	疏散群众	680
+shu mei shu	熟没熟	678
+shu dian wang	输电网	675
+shu ju ding yi yu yan	数据定义语言	675
+shu ju jiao huan ge shi	数据交换格式	675
+shu mu	庶母	675
+shu xue bo shi	数学博士	675
+shu chu lai	输出来	670
+shu hu	庶乎	670
+shu xie bi	书写笔	670
+shu ju lu jing	数据路径	668
+shu ju zhua qu	数据抓取	666
+shu ding shang	树顶上	665
+shu guang gu fen	曙光股份	665
+shu ju ku fen ye	数据库分页	665
+shu bian zi	梳辫子	660
+shu ju ku wei hu	数据库维护	658
+shu ju she ji	数据设计	658
+shu liang dui bi	数量对比	655
+shu shu	输输	655
+shu ju cao zong	数据操纵	653
+shu shi	树势	651
+shu chu fu du	输出幅度	650
+shu de	淑德	650
+shu de zhao	数得着	650
+shu zi fen xi	数字分析	650
+shu ju jia mi biao zhun	数据加密标准	647
+shu huang	书荒	645
+shu li	树理	645
+shu wu	庶物	645
+shu ju wa jue ji shu	数据挖掘技术	643
+shu li jing ji xue	数理经济学	640
+shu ju guan xi	数据关系	635
+shu guo	梳过	630
+shu ju he bing	数据合并	630
+shu chu dian zu	输出电阻	625
+shu ju pan	数据盘	625
+shu du bai bian	书读百遍	620
+shu bian	戍边	616
+shu fang	疏放	615
+shu zi hua dian shi	数字化电视	615
+shu ju chong tu	数据冲突	611
+shu chu kai guan	输出开关	600
+shu ju zi	数据字	595
+shu ju jia gou	数据架构	593
+shu ji hu	庶几乎	590
+shu ji zhang	书记长	590
+shu jie	数节	590
+shu xian shu hou	孰先孰后	590
+shu ju tu	数据图	585
+shu chu cuo wu	输出错误	580
+shu jia	赎价	580
+shu tao shu	树套树	577
+shu zu han shu	数组函数	576
+shu hao xing xiang	树好形象	575
+shu hu zhi jian	倏忽之间	575
+shu liang biao	数量表	575
+shu guo	疏果	570
+shu ju fan hui	数据返回	570
+shu ju jie gou suan fa	数据结构算法	570
+shu tou	数头	570
+shu ju ku kuang jia	数据库框架	568
+shu cheng	熟成	567
+shu du	熟度	567
+shu qing fang shi	抒情方式	565
+shu zi xu lie	数字序列	565
+shu gui zheng zhuan	书归正传	560
+shu ru qu yu	输入区域	560
+shu zi san jiao xing	数字三角形	560
+shu ju ku an quan	数据库安全	559
+shu ju ku han shu	数据库函数	559
+shu du	书牍	555
+shu li li xiang	树立理想	555
+shu mei	舒眉	555
+shu sheng lang lang	书声琅琅	555
+shu si zhan	殊死战	555
+shu xue lei	数学类	550
+shu zhuang	束装	550
+shu zi ma	数字码	550
+shu biao zuo biao	鼠标坐标	546
+shu cai xue	蔬菜学	540
+shu chuan ling	舒喘灵	540
+shu ju jiang wei	数据降维	540
+shu xing lei xing	属性类型	540
+shu xun	殊勋	540
+shu zi you xi	数字游戏	540
+shu ru zi xi tong	输入子系统	532
+shu bu dao	数不到	530
+shu long	梳拢	530
+shu ju ku ji	数据库集	525
+shu shu	束束	525
+shu yi ji	述异记	525
+shu ru jiao yan	输入校验	524
+shu di tai duo	树敌太多	520
+shu fen	输分	520
+shu nan	恕难	520
+shu wo mao mei	恕我冒昧	520
+shu bu chu	数不出	515
+shu fu	疏附	515
+shu jiu han dong	数九寒冬	515
+shu ju mian	数据面	515
+shu shu kan	数数看	515
+shu song wang dai	输送网带	515
+shu ju liu fen xi	数据流分析	511
+shu bao tan	书报摊	510
+shu shang kai hua	树上开花	510
+shu sheng qi shi zu	书生气十足	510
+shu si	熟思	510
+shu shi	疏失	509
+shu kan hao	书刊号	505
+shu nv feng ge	淑女风格	505
+shu qi	舒气	500
+shu bai xiong di	叔伯兄弟	495
+shu cai bing gan	蔬菜饼干	492
+shu fang zhai	漱芳斋	490
+shu ju jing du	数据精度	487
+shu ru gui mo	输入规模	487
+shu ju ku jian mo	数据库建模	486
+shu chu yu ju	输出语句	485
+shu cong	书丛	485
+shu ruo	孰若	475
+shu ye er	树叶儿	475
+shu bian li	树遍历	474
+shu zi chu li	数字处理	472
+shu da gen shen	树大根深	470
+shu hua	树花	468
+shu pou	树剖	468
+shu ju xuan ze	数据选择	465
+shu lve	疏略	465
+shu mei	书眉	465
+shu di	蜀地	464
+shu yao	鼠药	461
+shu kan shi chang	书刊市场	460
+shu kuo	疏阔	460
+shu yong hu	属用户	460
+shu shang de	书上的	456
+shu zu fen ge	数组分割	456
+shu hao	数好	455
+shu xing ji cheng	属性继承	453
+shu xue suan fa	数学算法	451
+shu xue tui li	数学推理	451
+shu chu dai	输出带	450
+shu lie	竖列	450
+shu xing cai dan	树形菜单	448
+shu hou	书后	446
+shu bu yi yi	恕不一一	445
+shu shou jiu fu	束手就缚	445
+shu mi	枢密	444
+shu yu	输于	444
+shu zai	鼠灾	444
+shu xing tu	树形图	440
+shu mi du	疏密度	435
+shu xing fen lei	属性分类	435
+shu qiong	输穷	434
+shu qiong le	输穷了	434
+shu ta wen ti	数塔问题	434
+shu ju jia mi suan fa	数据加密算法	432
+shu ju tong lu	数据通路	431
+shu xie ti	书写体	430
+shu xing kong jian	树形控件	430
+shu ju beng	数据泵	429
+shu ru han shu	输入函数	425
+shu shen	叔婶	425
+shu si dou zheng	殊死斗争	425
+shu tao	书套	425
+shu chu jin cheng	输出进程	421
+shu dao hua jie	疏导化解	420
+shu min de sheng li	庶民的胜利	420
+shu mu ling	树木岭	419
+shu zi shi zhong	数字时钟	416
+shu bu feng pei	恕不奉陪	415
+shu bu jin yan	书不尽言	415
+shu nian yi hou	数年以后	415
+shu ru hang	输入行	415
+shu ru zu kang	输入阻抗	415
+shu xi bu	鼠蹊部	415
+shu xi yi fan	梳洗一番	415
+shu ju chan pin	数据产品	413
+shu bao fei	书报费	405
+shu long shi	鼠笼式	405
+shu jie	淑洁	400
+shu li	输理	400
+shu yu	殊遇	395
+shu ju chu li xi tong	数据处理系统	392
+shu zi huo bi	数字货币	392
+shu dian	书典	390
+shu ma yin	数码音	390
+shu ye	数夜	390
+shu fang	漱芳	385
+shu ru fu wu	输入服务	385
+shu tu	熟土	385
+shu xie ji qiao	书写技巧	385
+shu xiang yuan	书香园	380
+shu jing	秫茎	375
+shu ju bao jiao huan	数据包交换	375
+shu mi	秫米	375
+shu yu	熟语	375
+shu ju ti gong cheng xu	数据提供程序	374
+shu ru fu hao	输入符号	374
+shu ju ku gong cheng	数据库工程	370
+shu ju ku wan zheng xing	数据库完整性	367
+shu ren jun zi	淑人君子	365
+shu zhong wu da jiang	蜀中无大将	365
+shu zi cheng ming	竖子成名	365
+shu zi dui xiang	数字对象	365
+shu ju ku wen ti	数据库问题	363
+shu ren bu shu zhen	输人不输阵	360
+shu huo jin gu	舒活筋骨	355
+shu qi lai	数起来	355
+shu ru xu lie	输入序列	355
+shu san	舒散	355
+shu shui xi tong	输水系统	355
+shu fu	束腹	350
+shu ju xi lie	数据系列	350
+shu juan zi ru	舒卷自如	350
+shu li	殊礼	350
+shu qu	输去	350
+shu shi tu	树视图	350
+shu wang han lai	暑往寒来	350
+shu ying	疏影	349
+shu ju ku jia gou	数据库架构	345
+shu kuan	赎款	345
+shu shou	束手	345
+shu wa	树蛙	345
+shu xie liao cao	书写潦草	345
+shu xing dong tai gui hua	树型动态规划	345
+shu guo qu	数过去	340
+shu qi zuo ye	暑期作业	340
+shu ru yu ju	输入语句	335
+shu su	菽粟	335
+shu ju ben di hua	数据本地化	334
+shu ju ji gou	数据机构	334
+shu xue si wei	数学思维	333
+shu zhi hua	数值化	330
+shu ju chong jian	数据重建	326
+shu lian bao gao	述廉报告	325
+shu ju ku biao she ji	数据库表设计	321
+shu ke shu ke	舒克舒克	321
+shu ju ku zhong jian jian	数据库中间件	320
+shu liang xing	数量性	320
+shu ju chong zu	数据重组	319
+shu zu qu zhong	数组去重	317
+shu xing yu fa	属性语法	316
+shu zu qing ling	数组清零	314
+shu zhi ren	述职人	312
+shu cai gong si	蔬菜公司	311
+shu wan le	输完了	311
+shu se	殊色	305
+shu ju huan jing	数据环境	304
+shu ju ku tiao you	数据库调优	304
+shu xi	树蜥	302
+shu yuan jie	书院街	301
+shu nan cong ming	恕难从命	300
+shu xing bao	属性包	300
+shu ying an xiang	疏影暗香	300
+shu ju wen jian cun chu	数据文件存储	298
+shu dai zi qi	书呆子气	295
+shu guo lai	数过来	295
+shu ru biao ge	输入表格	295
+shu yu hui bian	术语汇编	295
+shu zi cheng kong jiao huan	数字程控交换	295
+shu fen zhi	树分治	293
+shu han lu	蜀汉路	291
+shu fa zhe	书法者	290
+shu xiang qi	书香气	290
+shu xing qu dong	属性驱动	286
+shu bao dai	书包带	285
+shu ju ku ji cheng	数据库集成	285
+shu xie fu hao	书写符号	285
+shu fa xue xiao	书法学校	280
+shu zhuang he	梳妆盒	280
+shu zhi zhuan huan	数制转换	276
+shu de shang	数得上	275
+shu ju que ren	数据确认	275
+shu ka qi	数卡器	275
+shu ru dai	输入带	275
+shu ru zhuan huan	输入转换	275
+shu gen	数根	271
+shu ju yuan kong jian	数据源控件	271
+shu xue ke xue xue yuan	数学科学学院	270
+shu ma wei	数码味	265
+shu ru fa lun tan	输入法论坛	265
+shu zi zu	数字组	265
+shu chu ming ling	输出命令	260
+shu ge	书阁	260
+shu li ji	梳理机	260
+shu zi tou ying yi	数字投影仪	260
+shu ju yue shu	数据约束	259
+shu zu cha zhao	数组查找	258
+shu fu	鼠妇	256
+shu ju ku jiao ben	数据库脚本	255
+shu zhang	数章	255
+shu ju cai ji xi tong	数据采集系统	252
+shu zu gong	树组工	252
+shu dan	鼠胆	250
+shu le ge jing guang	输了个精光	250
+shu ru shu chu jie kou	输入输出接口	250
+shu cai zhang yi	疏财仗义	245
+shu ju cao zuo yu yan	数据操作语言	245
+shu ju du li xing	数据独立性	245
+shu ma zhao xiang ji	数码照相机	245
+shu miao	疏苗	245
+shu qian	疏浅	245
+shu shui beng	疏水泵	245
+shu zhi biao	数值表	245
+shu de duo	输得多	240
+shu zao	数遭	240
+shu du	书蠹	235
+shu jie dian	树节点	235
+shu jin qu	输进去	235
+shu ju yun ying	数据运营	235
+shu mei shu	输没输	234
+shu ju ku fan shi	数据库范式	233
+shu shang de	树上的	231
+shu lie de ji xian	数列的极限	230
+shu ru jin cheng	输入进程	230
+shu wen	书文	222
+shu ju qu zhong	数据去重	221
+shu gao qian zhang	树高千丈	220
+shu ju jie gou ti	数据结构题	218
+shu ma shi shang	数码时尚	218
+shu dang	书档	215
+shu zi qian nian ban quan fa	数字千年版权法	213
+shu xie fang xiang	书写方向	212
+shu le	梳了	210
+shu ru zu	输入组	210
+shu sheng ben se	书生本色	210
+shu xue ti mu	数学题目	209
+shu xue gui lv	数学规律	207
+shu zi jian ying	数字减影	207
+shu mian yan yu	书面言语	205
+shu ju fen xi xi tong	数据分析系统	204
+shu xue xing tai xue	数学形态学	202
+shu biao shou shi	鼠标手势	200
+shu chu kuang	输出框	200
+shu fu de	舒福德	200
+shu guo zeng	舒国增	200
+shu ju yin si	数据隐私	200
+shu xin pang	竖心旁	200
+shu yu ci dian	术语词典	200
+shu zhi shang	数值上	200
+shu zi mei jie	数字媒介	200
+shu ju hui xian	数据回显	199
+shu yuan ke ji	数源科技	198
+shu bei si	舒背思	195
+shu ma cai dian	数码彩电	195
+shu ze shu lian	述责述廉	194
+shu zi ji shu	数字技术	194
+shu jia zuo ye ben	暑假作业本	193
+shu fen	数份	192
+shu ju jie gou shu	数据结构书	192
+shu ma ban	数码版	192
+shu xue si xiang	数学思想	192
+shu xue tian cai	数学天才	192
+shu qian ci	数千次	190
+shu gao shu di	孰高孰低	189
+shu ju hui	数据汇	188
+shu shi	塾师	188
+shu mian zuo ye	书面作业	186
+shu kou ji	漱口剂	185
+shu ming mu lu	书名目录	185
+shu gou tu	竖构图	184
+shu ju mian ban	数据面板	184
+shu li mi gong	树篱迷宫	184
+shu chang cun	书场村	181
+shu gao qian chi	树高千尺	181
+shu bu liao	输不了	180
+shu chu xian lu	输出线路	180
+shu zi bu zu yu mou	竖子不足与谋	180
+shu ju gui fan hua	数据规范化	179
+shu la ju	蜀辣居	179
+shu zi tu shu guan	数字图书馆	179
+shu xue yun suan han shu	数学运算函数	177
+shu dao shi	数到十	176
+shu zi xiang cun	数字乡村	176
+shu xue zuo ye ben	数学作业本	175
+shu zhi fa	数值法	175
+shu xue ji qiao	数学技巧	174
+shu zhi guai	数值怪	172
+shu gang gong lu	疏港公路	171
+shu zi xin feng	数字信封	171
+shu zi ren	数字人	169
+shu ju tong xin zhong	数据通信中	168
+shu qi an quan	暑期安全	167
+shu xue gui na	数学归纳	167
+shu yu ren min	属于人民	167
+shu ju nv gong	数据女工	166
+shu zi pai xu	数字排序	165
+shu zui quan	赎罪券	165
+shu xue man fen	数学满分	164
+shu lie you xu	数列有序	161
+shu ju tong xun she bei	数据通讯设备	160
+shu qu qiu lai	暑去秋来	159
+shu zi ren min bi	数字人民币	159
+shu hai tun	鼠海豚	158
+shu li mu biao	树立目标	158
+shu xiang zhong guo	书香中国	158
+shu yuan lai xin	书院来信	158
+shu zi qian ming biao zhun	数字签名标准	158
+shu dai song hua niu	书戴嵩画牛	157
+shu guo	树果	157
+shu de dao	数得到	155
+shu jia dang	暑假档	155
+shu niao guan yan	输尿管炎	155
+shu niu di	枢纽地	155
+shu xing chuan zhi	属性传值	153
+shu bu ke ren	孰不可忍	152
+shu qu cao	鼠曲草	152
+shu lan xian	舒兰县	150
+shu nv gong lve	庶女攻略	150
+shu ou	数偶	150
+shu zi shi yi biao	数字式仪表	150
+shu zi jia mi	数字加密	149
+shu ren xue xiao	树人学校	147
+shu feng liu ren wu	数风流人物	145
+shu fu	数伏	145
+shu bo mo ting	舒波莫廷	144
+shu zi ge shi hua	数字格式化	144
+shu ju wang	数据王	140
+shu xue yu wen	数学语文	140
+shu zhuo xia	书桌下	140
+shu chu te xing	输出特性	139
+shu di guan xia quan	属地管辖权	139
+shu he	沭河	139
+shu jia da yuan	舒家大院	139
+shu xue ruan jian	数学软件	139
+shu nv jian	淑女剑	138
+shu ju liu yu yan	数据流语言	137
+shu ju miao shu yu yan	数据描述语言	136
+shu mei du hao	书没读好	136
+shu dun zi	树墩子	135
+shu ru chuan	输入串	135
+shu xie kun nan	书写困难	135
+shu xie liu yan	书写留言	135
+shu di guan xia	属地管辖	134
+shu ju yi chang	数据异常	134
+shu jiu ge	数九歌	133
+shu wen hua	鼠文化	133
+shu dian yu sheng feng yue zhu	数点雨声风约住	132
+shu shang bei zeng	树上倍增	132
+shu jin wan	舒筋丸	130
+shu ju ku suo you zhe	数据库所有者	130
+shu ju ming	数据名	130
+shu cai pi fa	蔬菜批发	128
+shu cheng jia	书城价	128
+shu ju ju bu xing	数据局部性	127
+shu zhi jing pian	树脂镜片	127
+shu guang bin guan	曙光宾馆	126
+shu tai shen	舒泰神	126
+shu fei	书扉	125
+shu guang ying xiong	曙光英雄	125
+shu jiu yan han	数九严寒	125
+shu ju gao su huan cun	数据高速缓存	125
+shu li	树里	125
+shu guang tiao zhan zhe	曙光挑战者	124
+shu ju suan fa	数据算法	124
+shu ke yu bei ta	舒克与贝塔	123
+shu liao	熟料	122
+shu xiang tie lu	书香铁路	122
+shu ye beng	输液泵	122
+shu fa guan	束发冠	121
+shu guang shou hu zhe	曙光守护者	121
+shu jian	舒健	121
+shu ke	舒克	121
+shu ju zi dian shi tu	数据字典视图	120
+shu nv	庶女	120
+shu ye mao sheng	树叶茂盛	120
+shu zi feng hui	数字峰会	119
+shu biao ye	鼠标也	118
+shu hen jiao	舒痕胶	117
+shu zi ren sheng	数字人生	117
+shu guang xin cheng	曙光新城	116
+shu chu zu	输出组	115
+shu ju ku bao	数据库包	115
+shu ren tou	数人头	115
+shu ju ku xiu fu	数据库修复	114
+shu guo da pei	蔬果搭配	113
+shu mei	淑美	113
+shu san yan lian	疏散演练	113
+shu zu zui da zhi	数组最大值	113
+shu cuo	输错	111
+shu dao	熟道	111
+shu gao	熟稿	111
+shu ge	属格	111
+shu jia	书家	111
+shu jiao	束脚	111
+shu lian	鼠脸	111
+shu mo xun hang	数墨循行	111
+shu sheng lang lang	书声朗朗	111
+shu tang	书堂	111
+shu wen	竖纹	111
+shu yu	殊誉	111
+shu dao zhe	疏导者	110
+shu li xue	数理学	110
+shu sheng	庶生	110
+shu yu fang bei	疏于防备	110
+shu zi ji shi qi	数字计时器	110
+shu du hua yuan	蜀都花园	109
+shu yu wai	数语外	109
+shu xia ye hu	树下野狐	108
+shu dian gong lv	输电功率	105
+shu ju ku guan li he she ji	数据库管理和设计	105
+shu ju shi	数据时	105
+shu ru te xing	输入特性	105
+shu ti	书体	105
+shu zi sheng huo	数字生活	105
+shu zi shi pin guang pan	数字视频光盘	105
+shu zi shui yin	数字水印	105
+shu dao shi	疏导师	104
+shu jia sheng huo zhi dao	暑假生活指导	104
+shu si yao	舒思瑶	104
+shu zi qian bao	数字钱包	104
+shu di	熟地	103
+shu ju cha cuo	数据差错	103
+shu hu li	梳乎厘	102
+shu ju sun huai	数据损坏	102
+shu mei hong	树莓红	102
+shu an ji	叔氨基	101
+shu de ji he	数的几何	101
+shu mei shu	数没数	101
+shu qu liang lai	暑去凉来	101
+shu an bing fa	数案并发	100
+shu bai bu	数百步	100
+shu bai ceng	数百层	100
+shu bai nian shi jian	数百年时间	100
+shu bai zi	数百字	100
+shu bao fang	书包放	100
+shu bei zeng zhang	数倍增长	100
+shu bian ren	戍边人	100
+shu biao ling min du	鼠标灵敏度	100
+shu biao su du	鼠标速度	100
+shu biao wei dong	鼠标微动	100
+shu biao yi dong su du	鼠标移动速度	100
+shu bing mo ma	束兵秣马	100
+shu bo jie mei	叔伯姐妹	100
+shu bu duo	数不多	100
+shu bu guo lai	数不过来	100
+shu bu jian qin	疏不见亲	100
+shu bu jian qin	疏不间亲	100
+shu bu jin	书不尽	100
+shu bu jin yi	书不尽意	100
+shu bu ling xing tong zhi	恕不另行通知	100
+shu bu qi jiu bie wan	输不起就别玩	100
+shu bu shang	数不上	100
+shu bu shu chu	输不输出	100
+shu bu shu chu a	输不输出啊	100
+shu bu shu chu ya	输不输出呀	100
+shu bu shu fu	舒不舒服	100
+shu bu shu fu a	舒不舒服啊	100
+shu bu shu fu ya	舒不舒服呀	100
+shu bu shu yu	属不属于	100
+shu bu shu yu a	属不属于啊	100
+shu bu shu yu ba	属不属于吧	100
+shu bu shu yu la	属不属于啦	100
+shu bu shu yu lou	属不属于喽	100
+shu bu shu yu ma	属不属于吗	100
+shu bu shu yu o	属不属于哦	100
+shu bu shu yu wa	属不属于哇	100
+shu bu shu yu ya	属不属于呀	100
+shu bu wai jie	恕不外借	100
+shu bu wan	数不完	100
+shu bu yuan song	恕不远送	100
+shu bu zhao	数不着	100
+shu cai di	蔬菜地	100
+shu cai guai	树才怪	100
+shu cai hang qing	蔬菜行情	100
+shu cai hang ye	蔬菜行业	100
+shu cai ji ma	蔬菜蓟马	100
+shu cai san ming zhi	蔬菜三明治	100
+shu cai sheng chan ji di	蔬菜生产基地	100
+shu cai sheng zhang	蔬菜生长	100
+shu cai xia	蔬菜侠	100
+shu cai ye	蔬菜业	100
+shu cai zhong yi	疏财重义	100
+shu cai zhong zhi ji di	蔬菜种植基地	100
+shu cang	数仓	100
+shu cha zi	树杈子	100
+shu chong zi	树虫子	100
+shu chu bao biao le	输出爆表了	100
+shu chu bian ya	输出变压	100
+shu chu biao	输出表	100
+shu chu can shu	输出参数	100
+shu chu dao	输出到	100
+shu chu de	输出的	100
+shu chu de gong lv	输出的功率	100
+shu chu de shi	输出的是	100
+shu chu dian ya jing du	输出电压精度	100
+shu chu dian ya tiao jie	输出电压调节	100
+shu chu fang	输出方	100
+shu chu fen bian lv	输出分辨率	100
+shu chu gong lv da	输出功率大	100
+shu chu gong lv gao	输出功率高	100
+shu chu guan	输出管	100
+shu chu ji di	输出基地	100
+shu chu lv	输出率	100
+shu chu mei shu chu	输出没输出	100
+shu chu nei rong	输出内容	100
+shu chu pin	输出品	100
+shu chu qiang jing	输出强劲	100
+shu chu qu	输出区	100
+shu chu qu	输出去	100
+shu chu ru	输出入	100
+shu chu tiao jie	输出调节	100
+shu chu xiao lv	输出效率	100
+shu chu ye	输出业	100
+shu chu yi ge	输出一个	100
+shu chuan mo kuai	数传模块	100
+shu ci qi tan	书此奇谭	100
+shu cuan lang ben	鼠窜狼奔	100
+shu da wang	鼠大王	100
+shu dai ding guan	束带顶冠	100
+shu dan guan	输胆管	100
+shu dao gang	疏导岗	100
+shu dao gen cui	树倒根摧	100
+shu dao ji tuan	蜀道集团	100
+shu dao nan xing	蜀道难行	100
+shu dao san	数到三	100
+shu dao shan	蜀道山	100
+shu dao zhi nan	蜀道之难	100
+shu de bi	熟得比	100
+shu de bu neng zai shu	熟得不能再熟	100
+shu de bu yuan	输得不冤	100
+shu de can	输得惨	100
+shu de che di	输得彻底	100
+shu de gao du	树的高度	100
+shu de hen can	输得很惨	100
+shu de hen che di	输得很彻底	100
+shu de ji shu xue yuan	树德技术学院	100
+shu de jia shang	树德家商	100
+shu de jian xiu	术德兼修	100
+shu de jing guang	输得精光	100
+shu de ke	鼠得克	100
+shu de ke ji da xue	树德科技大学	100
+shu de li ren	树德立人	100
+shu de na ge	输的那个	100
+shu de qing	数得清	100
+shu de qing jia dang chan	输得倾家荡产	100
+shu de shen me ye	输的什么液	100
+shu de sheng zhang	树的生长	100
+shu de tai can	输得太惨	100
+shu de xiang	熟得像	100
+shu de xin fu kou fu	输得心服口服	100
+shu de yi bai tu di	输得一败涂地	100
+shu de yi fang	输的一方	100
+shu de yi ta hu tu	输得一塌糊涂	100
+shu de ying zi	树的影子	100
+shu de zhu ren	书的主人	100
+shu de zui can	输得最惨	100
+shu dei kuai	熟得快	100
+shu di dan wei	属地单位	100
+shu di dang wei zheng fu	属地党委政府	100
+shu di fang kong	属地防控	100
+shu di fu ze	属地负责	100
+shu di gong an	属地公安	100
+shu di guan li yuan ze	属地管理原则	100
+shu di guan li ze ren	属地管理责任	100
+shu di hua guan li	属地化管理	100
+shu di hua yuan ze	属地化原则	100
+shu di huang	熟地黄	100
+shu di jian guan	属地监管	100
+shu di jian guan ze ren	属地监管责任	100
+shu di jie dao	属地街道	100
+shu di jie dao ban shi chu	属地街道办事处	100
+shu di pai chu suo	属地派出所	100
+shu di shan yao zhou	熟地山药粥	100
+shu di she qu	属地社区	100
+shu di wei zhu	属地为主	100
+shu di xiang zhen	属地乡镇	100
+shu di ze ren	属地责任	100
+shu di zhen	属地镇	100
+shu di zhen jie	属地镇街	100
+shu di zheng fu	属地政府	100
+shu dian er qian	输点儿钱	100
+shu dian qian	输点钱	100
+shu dian xi tong	输电系统	100
+shu ding ji li	叔丁基锂	100
+shu ding le	输定了	100
+shu dou shu bu guo lai	数都数不过来	100
+shu dou shu bu wan	数都数不完	100
+shu dou shu bu wan ba	数都数不完吧	100
+shu du da dao	蜀都大道	100
+shu du de hao	书读得好	100
+shu du de shao	书读得少	100
+shu du fu	蜀都赋	100
+shu du geng ye	数度哽咽	100
+shu du hai	属都海	100
+shu du hu	属都湖	100
+shu du ji chang	鼠肚鸡肠	100
+shu du wan juan	书读万卷	100
+shu er bu shi	疏而不失	100
+shu er fu	鼠耳蝠	100
+shu er ting	舒尔廷	100
+shu er ying er	数二英二	100
+shu fa chang juan	书法长卷	100
+shu fa chuan tong	书法传统	100
+shu fa feng bo	束发封帛	100
+shu fa jia cui	恕乏价催	100
+shu fa jin guan	束发金冠	100
+shu fa ke	书法课	100
+shu fa sheng	书法生	100
+shu fa shi	书法史	100
+shu fa xi	书法系	100
+shu fan qie	树番茄	100
+shu fang jue yu	殊方绝域	100
+shu fang tong zhi	殊方同致	100
+shu fang xi lie	书房系列	100
+shu fang yi lei	殊方异类	100
+shu fang yi yu	殊方异域	100
+shu fang yong cha	书房用茶	100
+shu fang zhu	鼠坊主	100
+shu fen zhi cha	数分之差	100
+shu fu a	舒服啊	100
+shu fu bu shu fu	舒服不舒服	100
+shu fu cheng du	舒服程度	100
+shu fu chong	鼠妇虫	100
+shu fu de biao qing	舒服的表情	100
+shu fu de gan jue	舒服的感觉	100
+shu fu de guan xi	舒服的关系	100
+shu fu de hen	舒服得很	100
+shu fu de wen du	舒服的温度	100
+shu fu dian	舒服点	100
+shu fu du	舒服度	100
+shu fu duo le	舒服多了	100
+shu fu ji chang	鼠腹鸡肠	100
+shu fu jiu xing	舒服就行	100
+shu fu le ma	舒服了吗	100
+shu fu wo chang	鼠腹蜗肠	100
+shu fu wu che	书富五车	100
+shu gan chong bi	鼠肝虫臂	100
+shu gan duan	树干断	100
+shu gan li dan	输肝沥胆	100
+shu gan pou dan	输肝剖胆	100
+shu gan xing qi	疏肝行气	100
+shu gan yi yang	疏肝益阳	100
+shu gang guan	数钢管	100
+shu gao qian zhang luo ye gui gen	树高千丈落叶归根	100
+shu ge you tou	梳个油头	100
+shu gei bie ren	输给别人	100
+shu gei le shi jian	输给了时间	100
+shu gei le zhong guo	输给了中国	100
+shu gei ni	输给你	100
+shu gei ta	输给他	100
+shu gei wo	输给我	100
+shu gei zi ji	输给自己	100
+shu gen tou	树根头	100
+shu gou de	属狗的	100
+shu gu sheng chun	黍谷生春	100
+shu guang nv shen	曙光女神	100
+shu guang nv shen lei ou na	曙光女神蕾欧娜	100
+shu guang nv shen zhi kuan shu	曙光女神之宽恕	100
+shu guang zha xian	曙光乍现	100
+shu guo lai	梳过来	100
+shu guo lai	输过来	100
+shu guo qu	梳过去	100
+shu guo qu	输过去	100
+shu hai shi ying	输还是赢	100
+shu han hou zhu liu shan	蜀汉后主刘禅	100
+shu han shuai yi	蜀汉衰矣	100
+shu han si xiang	蜀汉四相	100
+shu han wang chao	蜀汉王朝	100
+shu han zi	输汉字	100
+shu hang ye	树行业	100
+shu he gu dao	沭河古道	100
+shu hei lun bai	数黑论白	100
+shu hei lun huang	数黑论黄	100
+shu hong bing	舒红兵	100
+shu hong dao	疏洪道	100
+shu hong le yan	输红了眼	100
+shu hou de	属猴的	100
+shu hou xing gu	曙后星孤	100
+shu hou zhu liu shan	蜀后主刘禅	100
+shu hu le	疏忽了	100
+shu hu zhi shou	疏忽职守	100
+shu hua hui	书画会	100
+shu hua shou cang	书画收藏	100
+shu hua yuan yuan zhang	书画院院长	100
+shu hua zhan	书画毡	100
+shu huan de yin yue	舒缓的音乐	100
+shu huan yin yue	舒缓音乐	100
+shu huang dao hei	数黄道黑	100
+shu huang di	熟荒地	100
+shu hui mei na	淑惠美娜	100
+shu hui quan	赎回权	100
+shu huo shi pin	书或视频	100
+shu ji ci	输几次	100
+shu ji dan	竖鸡蛋	100
+shu ji de	属鸡的	100
+shu ji fei	书籍费	100
+shu ji huo shi pin	书籍或视频	100
+shu ji huo zhe shi pin	书籍或者视频	100
+shu ji ji ren	恕己及人	100
+shu ji ji wu	恕己及物	100
+shu ji ming jian	数奇命蹇	100
+shu ji shi	书籍是	100
+shu ji shi ren lei jin bu de jie ti	书籍是人类进步的阶梯	100
+shu ji shi zhang	书记市长	100
+shu ji wu kui	庶几无愧	100
+shu ji xiao zhang	书记校长	100
+shu jia ban	暑假班	100
+shu jia de yi tian	暑假的一天	100
+shu jia ji hua biao	暑假计划表	100
+shu jia kai shi le	暑假开始了	100
+shu jia kuai dao le	暑假快到了	100
+shu jia kuai le	暑假快乐	100
+shu jia lai le	暑假来了	100
+shu jia li	暑假里	100
+shu jia liu xiao	暑假留校	100
+shu jia ren duo	暑假人多	100
+shu jia tun	舒家屯	100
+shu jia zhen	数家珍	100
+shu jian en chou lu	书剑恩仇录	100
+shu jian piao ling	书剑飘零	100
+shu jiang he zai	蜀将何在	100
+shu jiao xie	树胶鞋	100
+shu jie fei shou du gong neng	疏解非首都功能	100
+shu jie jiang dan	树界降诞	100
+shu jie jiang lin	树界降临	100
+shu jin lai	输进来	100
+shu jing guan du se	输精管堵塞	100
+shu jing wei shi	树精卫士	100
+shu jiu tian	数九天	100
+shu ju biao xian	数据表现	100
+shu ju bing xing	数据并行	100
+shu ju cai ji ji qing xi	数据采集及清洗	100
+shu ju cai ji mo kuai	数据采集模块	100
+shu ju cai ji qing xi	数据采集清洗	100
+shu ju can shu	数据参数	100
+shu ju cang	数据舱	100
+shu ju chang du	数据长度	100
+shu ju chong fu	数据重复	100
+shu ju chu li su du	数据处理速度	100
+shu ju chuan shu an quan	数据传输安全	100
+shu ju chuan shu fang shi	数据传输方式	100
+shu ju chuan shu ji shu	数据传输技术	100
+shu ju chuan shu liang	数据传输量	100
+shu ju chuan shu neng li	数据传输能力	100
+shu ju chuan shu su du	数据传输速度	100
+shu ju chuan shu su lv	数据传输速率	100
+shu ju chuan shu xi tong	数据传输系统	100
+shu ju chuan shu xian	数据传输线	100
+shu ju cun chu xi tong	数据存储系统	100
+shu ju de	数据的	100
+shu ju de chuan shu	数据的传输	100
+shu ju de yi zhi xing	数据的一致性	100
+shu ju di tu	数据地图	100
+shu ju diao cha	数据调查	100
+shu ju diao yan	数据调研	100
+shu ju diao yan ji gou	数据调研机构	100
+shu ju dou	数据都	100
+shu ju fen xi mo xing	数据分析模型	100
+shu ju guan li xi tong	数据管理系统	100
+shu ju gui mo	数据规模	100
+shu ju hai xian shi	数据还显示	100
+shu ju hang qing	数据行情	100
+shu ju hang ye	数据行业	100
+shu ju huan yuan	数据还原	100
+shu ju hui chuan	数据回传	100
+shu ju hui liu	数据回流	100
+shu ju ji gou yu suan fa	数据机构与算法	100
+shu ju ji gou yu suan fa zhi mei	数据机构与算法之美	100
+shu ju jia mi chuan shu	数据加密传输	100
+shu ju jia mi le	数据加密了	100
+shu ju jie gou yu suan fa	数据结构与算法	100
+shu ju jie mian	数据介面	100
+shu ju jin gong can kao	数据仅供参考	100
+shu ju ku ruan jian	数据库软件	100
+shu ju ku xi tong gong cheng shi	数据库系统工程师	100
+shu ju ku zhi xing	数据库执行	100
+shu ju lv	数据率	100
+shu ju mai dian	数据埋点	100
+shu ju mo ni	数据模拟	100
+shu ju pai hang	数据排行	100
+shu ju qu dong she ji	数据驱动设计	100
+shu ju shang	数据上	100
+shu ju shang chuan	数据上传	100
+shu ju shen du	数据深度	100
+shu ju shi jia mi	数据是加密	100
+shu ju shi jia mi de	数据是加密的	100
+shu ju shi shen me	数据是什么	100
+shu ju shi shi chuan shu	数据实时传输	100
+shu ju shi shi shang chuan	数据实时上传	100
+shu ju su du	数据速度	100
+shu ju su lv	数据速率	100
+shu ju ti xi	数据体系	100
+shu ju tiao zheng	数据调整	100
+shu ju tiao zhi jie tiao qi	数据调制解调器	100
+shu ju wei du	数据维度	100
+shu ju xia jiang	数据下降	100
+shu ju xie lou	数据泄露	100
+shu ju yin hang	数据银行	100
+shu ju zeng zhang	数据增长	100
+shu ju zhong xin hang ye	数据中心行业	100
+shu ju zhuan xian	数据专线	100
+shu juan jiang	书卷奖	100
+shu jue de	叔觉得	100
+shu jun ji	疏浚机	100
+shu ke ren shen bu ke ren	叔可忍婶不可忍	100
+shu ke ren shen er bu ke ren	叔可忍婶儿不可忍	100
+shu ke ren shu bu ke ren	孰可忍孰不可忍	100
+shu kong duo duo	书空咄咄	100
+shu kong hang ye	数控行业	100
+shu kong ji chuang hang ye	数控机床行业	100
+shu kong mu ju	数控模具	100
+shu kong si fu	数控伺服	100
+shu kong tan huang ji	数控弹簧机	100
+shu kong xi tong wei xiu	数控系统维修	100
+shu kong zhe wan ji mu ju	数控折弯机模具	100
+shu kou bei	漱口杯	100
+shu kou shui shu kou	漱口水漱口	100
+shu kou yao shui	漱口药水	100
+shu lai han wang	暑来寒往	100
+shu lai hu wang	倏来忽往	100
+shu lai shu qu	输来输去	100
+shu lan ke	树懒科	100
+shu lan shu	树懒属	100
+shu lao chen	恕老臣	100
+shu lao chen zhi yan	恕老臣直言	100
+shu le ba	输了吧	100
+shu le bi sai	输了比赛	100
+shu le cheng	疏勒城	100
+shu le de hua	输了的话	100
+shu le duo shao	输了多少	100
+shu le ge	梳了个	100
+shu le ge you tou	梳了个油头	100
+shu le guo	疏勒国	100
+shu le hai shi ying le	输了还是赢了	100
+shu le hen duo qian	输了很多钱	100
+shu le ji shi wan	输了几十万	100
+shu le jiu shi shu le	输了就是输了	100
+shu le ma	输了吗	100
+shu le mei	熟了没	100
+shu le qi lai	竖了起来	100
+shu le qian	输了钱	100
+shu le shen	赎了身	100
+shu le shi	舒乐氏	100
+shu le yi chang	输了一场	100
+shu le yi ju	输了一局	100
+shu le yi kou qi	舒了一口气	100
+shu le yi qi kang	输了一起扛	100
+shu le yi wan shang	输了一晚上	100
+shu le ying le	输了赢了	100
+shu le you xi	输了游戏	100
+shu le zen me ban	输了怎么办	100
+shu li di ren	树立敌人	100
+shu li fen xi	数理分析	100
+shu li hang ye biao gan	树立行业标杆	100
+shu li le	树立了	100
+shu li le bang yang	树立了榜样	100
+shu li le biao gan	树立了标杆	100
+shu li le dian fan	树立了典范	100
+shu li le xin xin	树立了信心	100
+shu li mai xiu	黍离麦秀	100
+shu li nai chui	数粒乃炊	100
+shu li quan wei	树立权威	100
+shu li shu wai	书里书外	100
+shu li xi	数理系	100
+shu li zheng que	树立正确	100
+shu li zhi bei	黍离之悲	100
+shu li zhi tong	黍离之痛	100
+shu li zhong dian	梳理重点	100
+shu lian cheng du	熟练程度	100
+shu lian de	熟练地	100
+shu lian du	熟练度	100
+shu lian du bu gou	熟练度不够	100
+shu liang ci	输两次	100
+shu liang dan wei	数量单位	100
+shu liang de	数量的	100
+shu liang gui mo	数量规模	100
+shu liang he	叔梁纥	100
+shu liang he gui mo	数量和规模	100
+shu liang tiao kong	数量调控	100
+shu liang xia jiang	数量下降	100
+shu liang you xian xian dao xian de	数量有限先到先得	100
+shu lin cao di	疏林草地	100
+shu lin di	疏林地	100
+shu lin gui	树林龟	100
+shu lin zhen	树林镇	100
+shu ling zui chang	树龄最长	100
+shu liu zhen shi	漱流枕石	100
+shu long de	属龙的	100
+shu lu tong gui	殊路同归	100
+shu luan guan du se	输卵管堵塞	100
+shu luan guan jie za	输卵管结扎	100
+shu luan guan zu se	输卵管阻塞	100
+shu luo hai zi	数落孩子	100
+shu luo you zhi	疏落有致	100
+shu ma ai hao zhe	数码爱好者	100
+shu ma bao bei er	数码宝贝儿	100
+shu ma bao bei xi lie	数码宝贝系列	100
+shu ma bao long	数码暴龙	100
+shu ma de	属马的	100
+shu ma hang ye	数码行业	100
+shu ma hua	数码化	100
+shu ma ke	舒马克	100
+shu ma li zhi	数码荔枝	100
+shu ma sao miao	数码扫描	100
+shu ma tong	数码通	100
+shu ma xuan che	束马悬车	100
+shu ma yu le	数码娱乐	100
+shu mao li li	属毛离里	100
+shu mao zi	树毛子	100
+shu mei dao dan	数枚导弹	100
+shu mei du	书没读	100
+shu mei lang mu	疏眉朗目	100
+shu mei shu chu	输没输出	100
+shu mei shu chu a	输没输出啊	100
+shu mei shu chu ya	输没输出呀	100
+shu mei shu ru	输没输入	100
+shu mei shu ru a	输没输入啊	100
+shu mei shu ru ya	输没输入呀	100
+shu mei xi tong	输煤系统	100
+shu mei xiu mu	疏眉秀目	100
+shu mei zhan yan	舒眉展眼	100
+shu meng lan	舒梦兰	100
+shu mi cheng du	疏密程度	100
+shu mi de dang	疏密得当	100
+shu mi er chui	数米而炊	100
+shu mi guan xi	疏密关系	100
+shu mi ma	输密码	100
+shu mi you du	疏密有度	100
+shu mian hao jie	蜀面豪杰	100
+shu mian ren	鼠面人	100
+shu mian shang	书面上	100
+shu mian zhi	书面纸	100
+shu mian zi liao	书面资料	100
+shu min wen hua	庶民文化	100
+shu mo hun he	数模混合	100
+shu mo xing	树模型	100
+shu mo xun hang	数墨寻行	100
+shu mo zhuang zhi	输墨装置	100
+shu mu can tian	树木参天	100
+shu mu cong sheng	树木丛生	100
+shu mu de sheng zhang	树木的生长	100
+shu mu fen cha	树木分杈	100
+shu mu mao sheng	树木茂盛	100
+shu mu sheng zhang	树木生长	100
+shu mu zhang tou	鼠目獐头	100
+shu nai nai	树奈奈	100
+shu neng wu huo	孰能无惑	100
+shu nian hou	数年后	100
+shu nian kuai le	鼠年快乐	100
+shu nian xian ding	鼠年限定	100
+shu niu de	属牛的	100
+shu niu di dai	枢纽地带	100
+shu niu di wei	枢纽地位	100
+shu nv che	淑女车	100
+shu pai xian shi	竖排显示	100
+shu pei dian xi tong	输配电系统	100
+shu pi er	书皮儿	100
+shu ping ban	书评版	100
+shu ping mo shi	竖屏模式	100
+shu ping ren	书评人	100
+shu qi bi ren	暑气逼人	100
+shu qi bu	暑期部	100
+shu qi chu xing	暑期出行	100
+shu qi dang	暑期档	100
+shu qi er duo	竖起耳朵	100
+shu qi ji liang	竖起脊梁	100
+shu qi lai	梳起来	100
+shu qi lai	输起来	100
+shu qi le da mu zhi	竖起了大拇指	100
+shu qi le er duo	竖起了耳朵	100
+shu qi le zhong zhi	竖起了中指	100
+shu qi shi jian	暑期实践	100
+shu qi xue xiao	暑期学校	100
+shu qi zi ran	竖起自然	100
+shu qian li	数千里	100
+shu qian tong bu	书签同步	100
+shu qing chang huai	抒情畅怀	100
+shu qing wen	抒情文	100
+shu qing yin yue	抒情音乐	100
+shu qiu ni le	数求你了	100
+shu qu mu	树鼩目	100
+shu quan fei ri	蜀犬吠日	100
+shu ren guan xi	熟人关系	100
+shu ren he mo sheng ren	熟人和陌生人	100
+shu ren he peng you	熟人和朋友	100
+shu ren mao fa	竖人毛发	100
+shu ren shu ren	熟人熟人	100
+shu ri zhi jiu	数日之久	100
+shu ru de	输入的	100
+shu ru de shi	输入的是	100
+shu ru di zhi	输入地址	100
+shu ru fa jiang	输入法匠	100
+shu ru fa jin cheng	输入法进程	100
+shu ru fa lian xiang	输入法联想	100
+shu ru fa pei zhi	输入法配置	100
+shu ru fa pi fu	输入法皮肤	100
+shu ru fa qu yu she zhi	输入法区域设置	100
+shu ru fa shu ru	输入法输入	100
+shu ru fa yin qing	输入法引擎	100
+shu ru fang an	输入方案	100
+shu ru fang shi	输入方式	100
+shu ru fu ma	输入辅码	100
+shu ru gong lv he dian liu	输入功率和电流	100
+shu ru ling min du	输入灵敏度	100
+shu ru mei shu ru	输入没输入	100
+shu ru mi yao	输入密钥	100
+shu ru mi yue	输入密钥	100
+shu ru mu di di	输入目的地	100
+shu ru nin	输入您	100
+shu ru pin	输入品	100
+shu ru pin lv	输入频率	100
+shu ru pin yin	输入拼音	100
+shu ru shen me	输入什么	100
+shu ru shu chu mo kuai	输入输出模块	100
+shu ru ti yan	输入体验	100
+shu ru wan	输入完	100
+shu ru wan bi	输入完毕	100
+shu ru wan bi le	输入完毕了	100
+shu ru xing	输入性	100
+shu ru ying wen	输入英文	100
+shu ru zhong	输入中	100
+shu ru zhong guo	输入中国	100
+shu rui ma	恕瑞玛	100
+shu san cuo shi	疏散措施	100
+shu san fa	疏散法	100
+shu sha liang	输沙量	100
+shu shan chuan qi	蜀山传奇	100
+shu shan jian xia zhuan	蜀山剑侠传	100
+shu shan jian xian	蜀山剑仙	100
+shu shan qi sheng	蜀山七圣	100
+shu shan qi zi	蜀山七子	100
+shu shan wu	蜀山兀	100
+shu shan xian jian pai	蜀山仙剑派	100
+shu shan xun bao	书山寻宝	100
+shu shan zhuan	蜀山传	100
+shu shang diao zhe	树上吊着	100
+shu shang lai	数上来	100
+shu shang qu	数上去	100
+shu shang you ge hao di fang	树上有个好地方	100
+shu shao ying duo	输少赢多	100
+shu she de	属蛇的	100
+shu shen me	属什么	100
+shu shen me ye	输什么液	100
+shu shen xiu xing	束身修行	100
+shu shen zhen nian	殊深轸念	100
+shu shen zi hao	束身自好	100
+shu shen zi xiu	束身自修	100
+shu sheng mu yang	书生模样	100
+shu sheng zhi jian	书生之见	100
+shu shi bi	暑湿痹	100
+shu shi bu yi	蔬食布衣	100
+shu shi cheng du	舒适程度	100
+shu shi chu xing	舒适出行	100
+shu shi de chuan zhuo ti yan	舒适的穿着体验	100
+shu shi de gan jue	舒适的感觉	100
+shu shi de hen	舒适得很	100
+shu shi de ti	舒适得体	100
+shu shi de wen du	舒适的温度	100
+shu shi di dai	舒适地带	100
+shu shi du fang mian	舒适度方面	100
+shu shi du gao	舒适度高	100
+shu shi du geng gao	舒适度更高	100
+shu shi du hao	舒适度好	100
+shu shi du ti sheng	舒适度提升	100
+shu shi du yao qiu	舒适度要求	100
+shu shi du zhi shu	舒适度指数	100
+shu shi feng han	暑湿风寒	100
+shu shi jia ju xi tong	舒适家居系统	100
+shu shi mei dao dan	数十枚导弹	100
+shu shi mo shi	舒适模式	100
+shu shi qu	舒适区	100
+shu shi qu nei	舒适区内	100
+shu shi quan nei	舒适圈内	100
+shu shi ri	数十日	100
+shu shi shen me	书是什么	100
+shu shi shen me	数是什么	100
+shu shi shi ge	属实是个	100
+shu shi wen du	舒适温度	100
+shu shi xi tong	舒适系统	100
+shu shi xing kong tiao	舒适性空调	100
+shu shi ya dang	术士亚当	100
+shu shi yin	舒适音	100
+shu shi yin shui	疏食饮水	100
+shu shi zhen liu	漱石枕流	100
+shu shi zhu su	舒适住宿	100
+shu shou bei qin	束手被擒	100
+shu shou dai si	束手待死	100
+shu shou dai yuan	束手待援	100
+shu shou jiu bi	束手就毙	100
+shu shou pang guan	束手旁观	100
+shu shou shou fu	束手受缚	100
+shu shou shou qin	束手受擒	100
+shu shou wu ji	束手无计	100
+shu shu bo bo	叔叔伯伯	100
+shu shu bo bo men	叔叔伯伯们	100
+shu shu bu dang	殊属不当	100
+shu shu bu yi	殊属不易	100
+shu shu de	属鼠的	100
+shu shu er	数数儿	100
+shu shu hao	叔叔好	100
+shu shu jian	数数兼	100
+shu shu kou	漱漱口	100
+shu shu luo luo	疏疏落落	100
+shu shu mi mi	疏疏密密	100
+shu shu wo	叔叔我	100
+shu shu wo a	叔叔我啊	100
+shu shu wo men	叔叔我们	100
+shu shu wo ya	叔叔我呀	100
+shu shu zai jian	叔叔再见	100
+shu shui cheng huan	菽水承欢	100
+shu shui dan piao	疏水箪瓢	100
+shu shui guan xian	输水管线	100
+shu shui qu	输水渠	100
+shu shui zhi huan	菽水之欢	100
+shu si	熟丝	100
+shu song chang du	输送长度	100
+shu song du	疏松度	100
+shu song gao du	输送高度	100
+shu song guan	输送管	100
+shu song hang ye	输送行业	100
+shu song ji xi lie	输送机系列	100
+shu song jia	输送架	100
+shu song jie zhi wen du	输送介质温度	100
+shu song mei jie	输送媒介	100
+shu song pao dan	输送炮弹	100
+shu song su du	输送速度	100
+shu song xiao lv	输送效率	100
+shu song xiao lv gao	输送效率高	100
+shu song yao mo jing	束诵妖魔精	100
+shu song zheng	疏松症	100
+shu tai duo le	输太多了	100
+shu tan de duo	舒坦得多	100
+shu tan dian	舒坦点	100
+shu tan dian er	舒坦点儿	100
+shu tan qi lai	舒坦起来	100
+shu ti sheng zhang	树体生长	100
+shu ti ya	叔提雅	100
+shu ti ya ren	叔提雅人	100
+shu tian hou	数天后	100
+shu tiao er	薯条儿	100
+shu tiao xia	薯条侠	100
+shu tiao yan	竖挑眼	100
+shu tiao zhan jiang	薯条蘸酱	100
+shu tong di lou	疏通地漏	100
+shu tong du se	疏通堵塞	100
+shu tong er you	书通二酉	100
+shu tong huo bi zheng ce chuan dao	疏通货币政策传导	100
+shu tou gou qie	鼠偷狗窃	100
+shu tou jie di	梳头姐弟	100
+shu tou shu nao	鼠头鼠脑	100
+shu tou shu nao de	鼠头鼠脑的	100
+shu tu de	属兔的	100
+shu tu ke	鼠兔科	100
+shu tu tong gui	殊涂同归	100
+shu tu tong hui	殊涂同会	100
+shu tu tong zhi	殊涂同致	100
+shu tu yi zhi	殊涂一致	100
+shu wan li	数万里	100
+shu wan nian	数万年	100
+shu wan nian ku xiu	数万年苦修	100
+shu wan nian lai	数万年来	100
+shu wan nian qian	数万年前	100
+shu wan zai	数万载	100
+shu wang zhi lai	数往知来	100
+shu wei ban	数位板	100
+shu wei bei	数维杯	100
+shu wei hua	数位化	100
+shu wei kong zhi	数位控制	100
+shu wei nan de	殊为难得	100
+shu wei qi	数位器	100
+shu wei shu ru fa	数位输入法	100
+shu wei wang lu	数位网路	100
+shu wei xian shi	数位显示	100
+shu wei xiang ji	数位相机	100
+shu wei xin hao	数位信号	100
+shu wei yi shu	数位艺术	100
+shu wu chong bai	庶物崇拜	100
+shu wu gan er bu yuan	树无干而不缘	100
+shu wu yuan	庶务员	100
+shu xi chang di	熟悉场地	100
+shu xi cheng du	熟悉程度	100
+shu xi de di fang	熟悉的地方	100
+shu xi de gan jue	熟悉的感觉	100
+shu xi de jue se	熟悉的角色	100
+shu xi de ren dou zhi dao	熟悉的人都知道	100
+shu xi de xiao yuan	熟悉的校园	100
+shu xi de yin yue	熟悉的音乐	100
+shu xi di xing	熟悉地形	100
+shu xi du	熟悉度	100
+shu xi guan	数息观	100
+shu xi hang ye	熟悉行业	100
+shu xi kuai ji	熟悉会计	100
+shu xi liao jie	熟悉了解	100
+shu xi ta de ren dou zhi dao	熟悉他的人都知道	100
+shu xi wan bi	梳洗完毕	100
+shu xi xi tong	熟悉系统	100
+shu xi xiao yuan	熟悉校园	100
+shu xi yin hang	熟悉银行	100
+shu xia gao ci	属下告辞	100
+shu xia men	属下们	100
+shu xia ni he wo	树下你和我	100
+shu xia qu	输下去	100
+shu xia zun ming	属下遵命	100
+shu xiang lan jun	书香蓝郡	100
+shu xiang she hui	书香社会	100
+shu xiang xiao yuan	书香校园	100
+shu xiang xiao yuan jian she	书香校园建设	100
+shu xiao hu	薯小虎	100
+shu xie chuan bo	输血传播	100
+shu xie chuan qi	书写传奇	100
+shu xie su du	书写速度	100
+shu xie tai	书写台	100
+shu xie xi tong	书写系统	100
+shu xie yu yan	书写语言	100
+shu xin chuan da	书信传达	100
+shu xin de gan jue	舒心的感觉	100
+shu xin fu yi	输心服意	100
+shu xin ji	书信集	100
+shu xin li mi	束薪粒米	100
+shu xin tie yi	输心贴意	100
+shu xin wang fan	书信往返	100
+shu xing ban zhen shang han	鼠型斑疹伤寒	100
+shu xing cheng zhang	属性成长	100
+shu xing dian	属性点	100
+shu xing guai zhuang	殊形怪状	100
+shu xing gui zhuang	殊形诡状	100
+shu xing liao luo	疏星寥落	100
+shu xing tiao zheng	属性调整	100
+shu xiong bei bao	树熊背抱	100
+shu xiong bei bao shi	树熊背抱式	100
+shu xiu ban	暑修班	100
+shu xu bi	鼠须笔	100
+shu xu guan er	鼠须管儿	100
+shu xu guan pei zhi	鼠须管配置	100
+shu xu zhi guan	鼠须之管	100
+shu xue bu xing	数学不行	100
+shu xue chuan bo	输血传播	100
+shu xue da ti	数学大题	100
+shu xue guan xi	数学关系	100
+shu xue jian mo jing sai	数学建模竞赛	100
+shu xue juan zi	数学卷子	100
+shu xue ke shang	数学课上	100
+shu xue lao shi jiao de	数学老师教的	100
+shu xue mei guo xian	数学没过线	100
+shu xue miao	数学秒	100
+shu xue mo ni	数学模拟	100
+shu xue wu li xue	数学物理学	100
+shu xue xue de hao	数学学得好	100
+shu xun ban	暑训班	100
+shu xun mao ji	殊勋茂绩	100
+shu xun yi ji	殊勋异绩	100
+shu ya que jiao	鼠牙雀角	100
+shu ya song	舒雅颂	100
+shu yan bie yu	殊言别语	100
+shu yang de	属羊的	100
+shu yao chang qun	束腰长裙	100
+shu yao ku	束腰裤	100
+shu ye luo	树叶落	100
+shu ye piao luo	树叶飘落	100
+shu ye shi	输液室	100
+shu ye shu bu wan	数也数不完	100
+shu ye su du	输液速度	100
+shu ye wei gui	数夜未归	100
+shu yi ge	梳一个	100
+shu yi ge you tou	梳一个油头	100
+shu yi jun miao	鼠疫菌苗	100
+shu yi shen jia	数亿身家	100
+shu yi shi wan ji	数以十万计	100
+shu yi wu gu	树蓺五谷	100
+shu yi ying yi	数一英一	100
+shu yi yu shi	殊异于世	100
+shu yin yuan	树荫苑	100
+shu ying bu ji	输赢不计	100
+shu ying chuang chuang	树影幢幢	100
+shu ying wen	输英文	100
+shu ying yin xiao jie	书影音小结	100
+shu you ru ci	树犹如此	100
+shu you shu dao	鼠有鼠道	100
+shu you tou	梳油头	100
+shu yu ci lei	属于此类	100
+shu yu jing	树欲静	100
+shu yu jing er feng bu ning	树欲静而风不宁	100
+shu yu ke	薯蓣科	100
+shu yu lu que	数与虏确	100
+shu yu mu	薯蓣目	100
+shu yu na	属于那	100
+shu yu ni zi ji	属于你自己	100
+shu yu ni zi ji de	属于你自己的	100
+shu yu ou	属于偶	100
+shu yu qi han	暑雨祁寒	100
+shu yu qi zhong	属于其中	100
+shu yu qi zhong yi ge	属于其中一个	100
+shu yu qi zhong yi ge fang mian	属于其中一个方面	100
+shu yu shen me	属于什么	100
+shu yu shen me cha	属于什么茶	100
+shu yu shen me dang ci	属于什么档次	100
+shu yu shi	属于是	100
+shu yu shu	薯蓣属	100
+shu yu tian	叔于田	100
+shu yu wo de di fang	属于我的地方	100
+shu yu xi er feng bu ting	树欲息而风不停	100
+shu yu yin du	属于印度	100
+shu yu yin hang	属于银行	100
+shu yu yu le quan	属于娱乐圈	100
+shu yu zhou zi lu	殊域周咨录	100
+shu yu zi ji de	属于自己的	100
+shu yu zi ji de di fang	属于自己的地方	100
+shu yu zi ji de jue se	属于自己的角色	100
+shu yu zuo meng	属于做梦	100
+shu yuan liang	树原亮	100
+shu yuan yuan zhang	书院院长	100
+shu yue zhi hou	数月之后	100
+shu yun dao	输运到	100
+shu zai le qi pao xian	输在了起跑线	100
+shu zai xia	恕在下	100
+shu zai xia bu neng	恕在下不能	100
+shu zhang li min	束杖理民	100
+shu zhang mu	叔丈母	100
+shu zhang ren	叔丈人	100
+shu zhang zi	庶长子	100
+shu zhao lu zhi qing liu	漱朝露之清流	100
+shu zhe bao	竖着抱	100
+shu zhe da bei tou	梳着大背头	100
+shu zhe er duo	竖着耳朵	100
+shu zhe fang	竖着放	100
+shu zhe jin lai	竖着进来	100
+shu zhe kan	竖着看	100
+shu zhe ne	熟着呢	100
+shu zhe qie	竖着切	100
+shu zhe ri zi	数着日子	100
+shu zhe shuang ma wei	梳着双马尾	100
+shu zhe wan zi tou	梳着丸子头	100
+shu zhe xing xing	数着星星	100
+shu zhe you tou	梳着油头	100
+shu zhe zhang	竖着长	100
+shu zhen shu jia	孰真孰假	100
+shu zhen wei xiong	树枕尾熊	100
+shu zhi bu wei ling	数值不为零	100
+shu zhi ceng	树脂层	100
+shu zhi chao xian	数值超限	100
+shu zhi fen cha	树枝分杈	100
+shu zhi guan xi	叔侄关系	100
+shu zhi hua	数智化	100
+shu zhi ji	树脂剂	100
+shu zhi ji si	树之祭祀	100
+shu zhi jiao zhu ti	树脂浇筑体	100
+shu zhi kong zhi	数值控制	100
+shu zhi ma	数值码	100
+shu zhi mo shi	数值模式	100
+shu zhi mo xing	数值模型	100
+shu zhi su jiao	树脂塑胶	100
+shu zhi su jiao pian	树脂塑胶片	100
+shu zhi tiao zheng	数值调整	100
+shu zhi tong gui	殊致同归	100
+shu zhi zi	数值字	100
+shu zhong bao guo	摅忠报国	100
+shu zhong de zhu jue	书中的主角	100
+shu zhong jue se	书中角色	100
+shu zhong shu qing	孰重孰轻	100
+shu zhong zi you qian zhong su	书中自有千钟粟	100
+shu zhu de	属猪的	100
+shu zhu nian fo	数珠念佛	100
+shu zhu shang liang	竖柱上梁	100
+shu zhuang dai fa	束装待发	100
+shu zhuang dao jin	束装盗金	100
+shu zhuang mo he	梳妆魔盒	100
+shu zhuang shi	梳妆室	100
+shu zhuang xi bao	树状细胞	100
+shu zi ban quan guan li	数字版权管理	100
+shu zi cang pin	数字藏品	100
+shu zi chuan bo	数字传播	100
+shu zi chuan gan qi	数字传感器	100
+shu zi chuan mei	数字传媒	100
+shu zi da wai	数字大外	100
+shu zi di bang	数字地磅	100
+shu zi di bang yao kong qi	数字地磅遥控器	100
+shu zi di zhi	数字地址	100
+shu zi ding gou xian lu	数字订购线路	100
+shu zi fa xing	数字发行	100
+shu zi fen pin	数字分频	100
+shu zi gao cheng mo xing	数字高程模型	100
+shu zi geng da	数字更大	100
+shu zi gong lv ji	数字功率计	100
+shu zi hua cheng du	数字化程度	100
+shu zi hua chong gou	数字化重构	100
+shu zi hua chong su	数字化重塑	100
+shu zi hua guan li xi tong	数字化管理系统	100
+shu zi hua mo xing	数字化模型	100
+shu zi hua xi tong	数字化系统	100
+shu zi hua xiao yuan	数字化校园	100
+shu zi hua xiao yuan jian she	数字化校园建设	100
+shu zi hua yin hang	数字化银行	100
+shu zi hui yi xi tong	数字会议系统	100
+shu zi huo bi fa xing	数字货币发行	100
+shu zi huo bi hang qing	数字货币行情	100
+shu zi huo bi xi tong	数字货币系统	100
+shu zi ji	数字机	100
+shu zi jian kong xi tong	数字监控系统	100
+shu zi jian mo	数字建模	100
+shu zi jiang zao	数字降噪	100
+shu zi jiao huan ji	数字交换机	100
+shu zi ke du	数字刻度	100
+shu zi kong zhi xi tong	数字控制系统	100
+shu zi liang shu chu mo kuai	数字量输出模块	100
+shu zi liang shu ru mo kuai	数字量输入模块	100
+shu zi luan sheng	数字孪生	100
+shu zi luan sheng mo xing	数字孪生模型	100
+shu zi ming li xue	数字命理学	100
+shu zi mo shi	数字模式	100
+shu zi qian nian ban quan fa an	数字千年版权法案	100
+shu zi shao bing	数字哨兵	100
+shu zi sheng ming	数字生命	100
+shu zi sheng tai xi tong	数字生态系统	100
+shu zi shi di bang	数字式地磅	100
+shu zi shi jue	数字视觉	100
+shu zi tiao yin tai	数字调音台	100
+shu zi tiao zhi	数字调制	100
+shu zi wang	数字网	100
+shu zi wen du	数字温度	100
+shu zi wen du chuan gan qi	数字温度传感器	100
+shu zi wen du ji	数字温度计	100
+shu zi xi lie	数字系列	100
+shu zi xi shu	数字系数	100
+shu zi xiao yuan	数字校园	100
+shu zi xiao yuan jian she	数字校园建设	100
+shu zi xie	梳子蟹	100
+shu zi xue hua	数字雪花	100
+shu zi yi chan	数字遗产	100
+shu zi yi min	数字移民	100
+shu zi yin hang	数字银行	100
+shu zi yin hang ka	数字银行卡	100
+shu zi yin yue chan ye	数字音乐产业	100
+shu zi yin yue ping tai	数字音乐平台	100
+shu zi yong sheng	数字永生	100
+shu zi yu le	数字娱乐	100
+shu zi yu le chan ye	数字娱乐产业	100
+shu zi zeng zhang	数字增长	100
+shu zi zhong biao	数字钟表	100
+shu zu qie pian	数组切片	100
+shu zui ri	赎罪日	100
+shu zui ri zhan zheng	赎罪日战争	100
+shu zui wei qiong	书罪未穷	100
+shu ba	书吧	99
+shu fu	暑伏	99
+shu zhi ji fen	数值积分	99
+shu zhuang shu zu	数状数组	99
+shu xing bei bao	树形背包	98
+shu zi fan zhuan	数字反转	98
+shu chu yi lai	输出依赖	96
+shu xing dong tai gui hua	树形动态规划	96
+shu xu	数序	96
+shu ju lian jie kong zhi	数据链接控制	95
+shu ju ti gong fang	数据提供方	95
+shu ju zuo	数据座	95
+shu mian zhi xie	书面致谢	95
+shu she yu	舒舍予	95
+shu song lu xian	输送路线	95
+shu zhi fen	树脂分	95
+shu zi ji cheng dian lu	数字集成电路	91
+shu chong zi	书虫子	90
+shu fu tou ding	舒服透顶	90
+shu ju wa jue fen xi	数据挖掘分析	90
+shu mi bu yi	疏密不一	90
+shu nian	数念	90
+shu qing ting	竖蜻蜓	90
+shu ru mai chong	输入脉冲	90
+shu shang mo dui	树上莫队	90
+shu niu lou	枢纽楼	89
+shu yi gan jun	鼠疫杆菌	89
+shu li wang	数理网	88
+shu dun xin xi	数盾信息	87
+shu guang xin xi chan ye bei jing you xian gong si	曙光信息产业北京有限公司	87
+shu ju jia jie mi fu wu ping tai	数据加解密服务平台	87
+shu ke ban shi	数科版式	87
+shu ke ban shi ruan jian	数科版式软件	87
+shu ke wang wei	数科网维	87
+shu ke wang wei ji shu you xian ze ren gong si	数科网维技术有限责任公司	87
+shu ke wen dang	数科文档	87
+shu ke yue du qi	数科阅读器	87
+shu sheng ban shi	书生版式	87
+shu sheng ban shi ruan jian	书生版式软件	87
+shu sheng dian zi	书生电子	87
+shu sheng dian zi qian zhang xi tong	书生电子签章系统	87
+shu sheng yue du qi	书生阅读器	87
+shu luan guan zhan lian	输卵管粘连	86
+shu tian	书田	86
+shu chu wu	输出物	85
+shu fen kuai	树分块	85
+shu gang lu	疏港路	85
+shu jiao	戍角	85
+shu shu	树薯	85
+shu ju fen xi wa jue	数据分析挖掘	84
+shu xi	书系	84
+shu dou	树兜	83
+shu jing guan jie za	输精管结扎	83
+shu ye fan ying	输液反应	83
+shu fu de tang	舒服地躺	81
+shu ju bao zha	数据爆炸	80
+shu ju ge shi zhuan huan	数据格式转换	80
+shu qing pian	抒情片	80
+shu tuo	疏脱	80
+shu zhi zhan ye	舒枝展叶	80
+shu zhuo	数桌	80
+shu zu mu	叔祖母	80
+shu ju jie gou shi jian	数据结构实践	79
+shu jun	蜀郡	77
+shu li biao	梳理表	76
+shu mu hui hu	曙暮辉弧	75
+shu nian	熟年	75
+shu wu zu	庶务组	75
+shu xie	疏懈	75
+shu song zhi	输送至	74
+shu zi di qiu	数字地球	73
+shu shou wu cuo	束手无措	72
+shu guo shi chang	蔬果市场	71
+shu pei shui	输配水	71
+shu cai nong chang	蔬菜农场	70
+shu de lian	输得连	70
+shu long	鼠龙	70
+shu mian tong xin	书面通信	70
+shu ming suo yin	书名索引	70
+shu zhi suan fa	数值算法	70
+shu guang nan lu	曙光南路	69
+shu xiang ren jia	书香人家	69
+shu ji ku	书籍库	68
+shu li fang an	梳理方案	68
+shu qu guo	鼠曲粿	68
+shu shi wei hun	属实未婚	68
+shu xie qing kuang	书写情况	68
+shu yu fan yi	术语翻译	68
+shu cai bi sa	蔬菜比萨	67
+shu ju chuan shu zhi ling	数据传输指令	67
+shu san kou	疏散口	67
+shu ju chu li zhong xin	数据处理中心	66
+shu ju lian lu kong zhi	数据链路控制	66
+shu ji jian guan li	书记兼管理	65
+shu ju li	数据里	65
+shu ma ping	数码屏	65
+shu nian ping an	鼠年平安	65
+shu xiang qing	蜀乡情	65
+shu shu qian	数数钱	64
+shu tu zhuang xi bao	树突状细胞	64
+shu yu	薯蓣	64
+shu zu zhi	数组值	64
+shu ru su lv	输入速率	63
+shu shi ming bai	属实明白	62
+shu yao	枢要	62
+shu de bi	输得比	60
+shu ju ku zuo ye	数据库作业	60
+shu ju pian xie	数据偏斜	60
+shu ru ji	输入集	60
+shu shui zhuang zhi	输水装置	60
+shu xing xian shi	树型显示	60
+shu yu bu	属于部	60
+shu zhi ji fen fa	数值积分法	60
+shu lie te zheng	数列特征	59
+shu qi he xian	属七和弦	57
+shu zi she ji	数字设计	57
+shu xing	舒姓	55
+shu zi hua cai dian	数字化彩电	55
+shu ru shu chu guan li	输入输出管理	54
+shu shi	庶士	54
+shu tu xi bao	树突细胞	54
+shu pai xu	梳排序	53
+shu zi dian zi ji shu	数字电子技术	52
+shu qiao	舒巧	51
+shu ru shu chu dui lie	输入输出队列	51
+shu de shao	输得少	50
+shu guang li	曙光里	50
+shu han lu dong	蜀汉路东	50
+shu ji ju	书记局	50
+shu ju jia mi mi yao	数据加密密钥	50
+shu ju jia mi mi yue	数据加密密钥	50
+shu nian yun qi	鼠年运气	50
+shu nian yun shi	鼠年运势	50
+shu mu ling lu	树木岭路	48
+shu wang	树网	48
+shu zi hua yi	数字化仪	48
+shu zi mei ti ji shu	数字媒体技术	48
+shu biao yi shang shi	鼠标移上时	47
+shu fen	书愤	47
+shu yi kang	舒亦康	47
+shu zhi you hua	数值优化	47
+shu zu lin jie biao	数组邻接表	47
+shu wei tong ji	数位统计	46
+shu xue ji chu zhi shi	数学基础知识	46
+shu bi shi	梳篦式	45
+shu bu chu shou	恕不出售	45
+shu dian xiao lv	输电效率	45
+shu gen dan gao	树根蛋糕	45
+shu pin zui	数贫嘴	45
+shu shu shen hong chu qian huang	数树深红出浅黄	45
+shu zi hua kong jian	数字化空间	45
+shu dai cao	书带草	44
+shu nian yun cheng	鼠年运程	43
+shu ju ku chong gou	数据库重构	42
+shu luan guan ren shen	输卵管妊娠	42
+shu xing fang yu	属性防御	42
+shu xue ji he	数学几何	42
+shu shang zui chang lian	树上最长链	41
+shu bai di xiong	叔伯弟兄	40
+shu bu liao	赎不了	40
+shu gou	竖沟	40
+shu ju bao bao tou	数据包报头	40
+shu mei deng yan	竖眉瞪眼	40
+shu mian ding dan	书面订单	40
+shu zhuang hua yuan	菽庄花园	40
+shu chu ti jiao	输出提交	39
+shu ru yi lai	输入依赖	39
+shu xing dong gui	树形动规	39
+shu xun	树勋	39
+shu jin tong luo	舒筋通络	38
+shu le an ding	舒乐安定	38
+shu ming ye	书名页	38
+shu qian ming	书签名	38
+shu ru tong	输入通	38
+shu te le	舒特勒	38
+shu fa shang ping	书法赏评	37
+shu zhi chang	树脂厂	37
+shu feng yuan	蜀风园	36
+shu ju chuang	数据窗	36
+shu ju shou tao	数据手套	36
+shu zi shu ju wang	数字数据网	36
+shu chang	书场	35
+shu chu da	输出打	35
+shu ju fang wen lu jing	数据访问路径	35
+shu qing shi ti	抒情诗体	35
+shu shui xian	输水线	35
+shu tu	树突	35
+shu wei jiao	鼠尾胶	35
+shu xing	束姓	35
+shu luan guan ji shui	输卵管积水	34
+shu mian	输面	34
+shu ying heng xie shui qing qian	疏影横斜水清浅	34
+shu zi zhao xiang ji	数字照相机	34
+shu de li	树德里	33
+shu ju duo yang xing	数据多样性	33
+shu jue	树蕨	33
+shu wei	鼠尾	33
+shu ying lu	疏影路	33
+shu tu	鼠兔	32
+shu xiu wen	舒绣文	32
+shu yu	述语	32
+shu luan guan jie za shu	输卵管结扎术	31
+shu ru wen ben lei xing	输入文本类型	31
+shu wa jie	暑袜街	31
+shu ju pai sheng	数据派生	30
+shu ru neng	输入能	30
+shu zhe ne	数着呢	30
+shu zi bai ye	梳子百页	30
+shu guang xin cun	曙光新村	29
+shu hua dun tu ji	树花炖土鸡	29
+shu zhi jing du	数值精度	29
+shu hou zhen tong	术后镇痛	28
+shu ming jia	书名家	28
+shu zi shi pin jie kou	数字视频接口	28
+shu jing guan jie za shu	输精管结扎术	27
+shu ju mei ti	数据媒体	27
+shu ju wa jue yuan li	数据挖掘原理	27
+shu ju jiao huan ji	数据交换机	26
+shu lun suan fa	数论算法	26
+shu wei nong	蜀味浓	26
+shu zhuang lou	梳妆楼	26
+shu zi zi fu ji	数字字符集	26
+shu ben shi mu lu	书本式目录	25
+shu fu wu	束缚物	25
+shu ju guan xi tu	数据关系图	25
+shu sheng bao guo wu ta wu	书生报国无他物	25
+shu xing huan cun	属性缓存	25
+shu yao	竖窑	25
+shu yin liang	树荫凉	25
+shu ju guan li cheng xu	数据管理程序	24
+shu niao guan xia zhai	输尿管狭窄	24
+shu xin cheng	舒新城	24
+shu zhi gu niao	树枝孤鸟	24
+shu gu bu ru wu chi	数罟不入洿池	23
+shu liang	薯莨	23
+shu shu lang lang	疏疏朗朗	23
+shu dou da dao hong xing lu kou	蜀都大道红星路口	22
+shu fei	淑妃	22
+shu ji	枢机	22
+shu lie	树列	22
+shu xian	淑贤	22
+shu xing bi bao	属性闭包	22
+shu biao zhong jian dan ji	鼠标中键单击	21
+shu de bu duo	输得不多	20
+shu fa jiao yuan	书法教员	20
+shu guang jie	曙光街	20
+shu guang li xiao qu	曙光里小区	20
+shu jia ming	署假名	20
+shu ru you xian ji	输入优先级	20
+shu yu jing er feng bu xi	树欲静而风不息	20
+shu han xi lu	蜀汉西路	19
+shu xing shu zu	树形数组	19
+shu dian xi tong	书店系统	18
+shu ju liu ji suan ji	数据流计算机	17
+shu niao guan kuo zhang	输尿管扩张	17
+shu bei	树北	16
+shu jiang zhi	舒降之	16
+shu ru shu chu xun lian	输入输出训练	16
+shu bo qi quan	舒伯齐犬	15
+shu cheng lan hua	舒城兰花	15
+shu de tai duo le	输得太多了	15
+shu de ye	输的液	15
+shu huang	熟荒	15
+shu ji shang	书籍商	15
+shu jia cun	舒家村	15
+shu ju ku bu	数据库部	15
+shu ju su	数据宿	15
+shu lun zhuan ti	数论专题	15
+shu ma ying yin yu le	数码影音娱乐	15
+shu mei ji	输煤机	15
+shu nan gou tong	恕难苟同	15
+shu nian ru yi	数年如一	15
+shu ru cheng yuan	输入成员	15
+shu wei dong gui	数位动规	15
+shu xing	树行	15
+shu xue huan suan	数学换算	15
+shu zhi zhi wu	树脂植物	15
+shu guang gong yu	曙光公寓	14
+shu ju cai jue	数据采掘	14
+shu ju ku chong zu	数据库重组	14
+shu ju ku ji	数据库机	14
+shu lou li xi	赎楼利息	14
+shu ru hu tong	输入胡同	14
+shu xing bei	束星北	14
+shu ye bing	树叶饼	14
+shu bu cong ming	恕不从命	13
+shu chu duan yan	输出断言	13
+shu er jin	舒尔金	13
+shu guang hua yuan	曙光花园	13
+shu lin shi	树林市	13
+shu lu	束鹿	13
+shu zi jian ying xi tong	数字减影系统	13
+shu ji guan zhuan ye	书记官专业	12
+shu ke he bei ta li xian ji	舒克和贝塔历险记	12
+shu luan guan san	输卵管伞	12
+shu niao guan sun shang	输尿管损伤	12
+shu ru ban	输入板	12
+shu xiang tuo guan	书香托管	12
+shu zi fa ting	数字法庭	12
+shu biao suo ding	鼠标锁定	11
+shu fen gao	薯粉糕	11
+shu gua	树挂	11
+shu huan yi liao	舒缓医疗	11
+shu ju fang xie lou	数据防泄露	11
+shu ju ni xiang	数据逆向	11
+shu lian	述廉	11
+shu luan guan wen he shu	输卵管吻合术	11
+shu qing chun	舒庆春	11
+shu song jie di zu zhi	疏松结缔组织	11
+shu wei cao fen	鼠尾草粉	11
+shu bao er	书包儿	10
+shu guan er	书馆儿	10
+shu guang chu shang	曙光初上	10
+shu han lu xi	蜀汉路西	10
+shu ji xian xi	庶绩咸熙	10
+shu luan guan jie he	输卵管结核	10
+shu mian shen ji	书面审计	10
+shu qian fei	数钱费	10
+shu rong xi xiang	舒溶溪乡	10
+shu shou fu jiao	束手缚脚	10
+shu shu bu guan	束书不观	10
+shu zhe ne	竖着呢	10
+shu ba tan na	舒巴坦钠	9
+shu dian wang zong	数典忘宗	9
+shu han lu tong he lu kou	蜀汉路同和路口	9
+shu hao	舒浩	9
+shu ji yuan xuan du fa ting ji lv	书记员宣读法庭纪律	9
+shu jin ding tong	舒筋定痛	9
+shu luan guan tong ye shu	输卵管通液术	9
+shu niao guan ji xing	输尿管畸形	9
+shu xiang ming men	书香名门	9
+shu zhu gao ge	束诸高阁	9
+shu dao zhi nan nan yu shang qing tian	蜀道之难难于上青天	8
+shu dao zu zhi	输导组织	8
+shu gan jian wei wan	舒肝健胃丸	8
+shu li bi mei	鼠李铋镁	8
+shu liang xing zhuang	数量性状	8
+shu qi yi lai	书契以来	8
+shu shi shui yin	疏食水饮	8
+shu sun tong	叔孙通	8
+shu tian	舒天	8
+shu xiang yu fang	蜀相渔舫	8
+shu yuan lu	蜀源路	8
+shu zhen	书镇	8
+shu bu ke ren ye	孰不可忍也	7
+shu fei	舒妃	7
+shu feng ding tong wan	疏风定痛丸	7
+shu jing guan yan	输精管炎	7
+shu liu	树瘤	7
+shu luan guan tong shui	输卵管通水	7
+shu mao	数毛	7
+shu qian jie	署前街	7
+shu re zheng	暑热症	7
+shu shou	书首	7
+shu tai xiang	树台乡	7
+shu wei	书尾	7
+shu xin yuan	舒心苑	7
+shu yuan nan jie	书院南街	7
+shu zhi zhuang xi bao	树枝状细胞	7
+shu zi die	数字蝶	7
+shu zuo	书佐	7
+shu bi li	舒必利	6
+shu bo jia bi	束帛加璧	6
+shu chu zi	输出字	6
+shu guan zhen	束馆镇	6
+shu jin huo luo jiu	舒筋活络酒	6
+shu li tang	鼠李糖	6
+shu shu la la	疏疏拉拉	6
+shu ta xi lin	舒他西林	6
+shu xiang ren jia	蜀乡人家	6
+shu yu lei shu cai	薯芋类蔬菜	6
+shu zhuang jiu dao	束装就道	6
+shu zi shi wan yong dian biao	数字式万用电表	6
+shu bai lun huang	数白论黄	5
+shu can le	输惨了	5
+shu ci bi shi	属词比事	5
+shu de fei	倏地飞	5
+shu de xue xiao	树德学校	5
+shu duan lun chang	数短论长	5
+shu jiang xi zao kou bi	书江西造口壁	5
+shu jing guan fu tong shu	输精管复通术	5
+shu jing guan wen he shu	输精管吻合术	5
+shu ju bai du	数据摆渡	5
+shu ju qing qiu duan	数据请求端	5
+shu ju ti gong duan	数据提供端	5
+shu ju yan xi	数据沿袭	5
+shu kan yin shua chan pin zhi liang jian du guan li zan xing ban fa	书刊印刷产品质量监督管理暂行办法	5
+shu lin yuan	书林苑	5
+shu ma qi	数码器	5
+shu ma yi dong tong xun	数码移动通讯	5
+shu mian wu hui	庶免误会	5
+shu mu pei xue	腧募配穴	5
+shu nan	熟男	5
+shu shui cheng huan	菽水成欢	5
+shu tou hua luo wei cheng yin	树头花落未成阴	5
+shu yi	书衣	5
+shu yong yu dun	疏慵愚钝	5
+shu yuan qiao	书院桥	5
+shu zhi tong xin	数值通信	5
+shu cai zhu bian	输财助边	4
+shu dai li chao	束带立朝	4
+shu fen tai ni	舒芬太尼	4
+shu fu zhou shui	书符咒水	4
+shu guang	疏广	4
+shu guang jing ying suo	曙光经营所	4
+shu guo duo xian shan	蜀国多仙山	4
+shu jin ding tong pian	舒筋定痛片	4
+shu niao guan jing sui shi shu	输尿管镜碎石术	4
+shu shi guang gao	舒适广告	4
+shu shui	蜀水	4
+shu xiang	殊相	4
+shu yin zhao shui ai qing rou	树阴照水爱晴柔	4
+shu yu di wu tong	疏雨滴梧桐	4
+shu bao wen zhai	书报文摘	3
+shu dao hu sun san	树倒猢孙散	3
+shu de gan cui	输得干脆	3
+shu de qi long	蜀得其龙	3
+shu de wu zi	树德务滋	3
+shu di guan xia yuan ze	属地管辖原则	3
+shu fu wang ling	束缚亡灵	3
+shu gan zhi tong wan	舒肝止痛丸	3
+shu jing guan zao ying	输精管造影	3
+shu jiu nong wu di	蜀酒浓无敌	3
+shu li zhi gan	黍离之感	3
+shu lin suan	舒林酸	3
+shu lin zi xiang	树林子乡	3
+shu liu	树鹨	3
+shu lu xian	束鹿县	3
+shu luan guan luan chao nong zhong	输卵管卵巢脓肿	3
+shu luan guan nang zhong	输卵管囊肿	3
+shu luan guan ti qu ban	输卵管提取板	3
+shu luo bo	树萝卜	3
+shu mai bu bian	菽麦不辨	3
+shu mu xi lin	树木希林	3
+shu qu	树鼩	3
+shu que jian tuo	书缺简脱	3
+shu ren guan xia	属人管辖	3
+shu ren guan xia quan	属人管辖权	3
+shu ren guan xia yuan ze	属人管辖原则	3
+shu ren you le bu zhi huan	蜀人游乐不知还	3
+shu rong	舒荣	3
+shu sheng qiao	树生桥	3
+shu shou wu shu	束手无术	3
+shu wen ye ru he	数问夜如何	3
+shu xi ke	鼠𬶮科	3
+shu xi mu	鼠𬶮目	3
+shu xian ke	鼠𮬣科	3
+shu xiang da qing	书香大庆	3
+shu xin ning pian	舒心宁片	3
+shu xing zhi huo	属性之火	3
+shu xue	腧穴	3
+shu yi	鼠蚁	3
+shu ying	树莺	3
+shu ying jie	蜀营街	3
+shu zhi gao ge	束置高阁	3
+shu bing	薯饼	2
+shu bu xiang	术布乡	2
+shu cun	淑村	2
+shu dai li yu chao	束带立于朝	2
+shu de qi ma	输得起吗	2
+shu de xiang	梳得像	2
+shu dou she qu	树兜社区	2
+shu du wu che	书读五车	2
+shu er tuo tuo xi	舒而脱脱兮	2
+shu fen guo	薯粉果	2
+shu feng wu yu li xie yang	数峰无语立斜阳	2
+shu fu zhi yang ding	舒肤止痒酊	2
+shu gan pian	舒肝片	2
+shu gong li ye	树功立业	2
+shu gong mo shou	输攻墨守	2
+shu hui	淑慧	2
+shu ji she yu	庶几赦余	2
+shu jia ba xiang	舒家坝乡	2
+shu jia ying jie dao	舒家营街道	2
+shu jiao shui cai hua	树胶水彩画	2
+shu jiao xiang	舒郊乡	2
+shu jin jiao nang	舒筋胶囊	2
+shu ke bei ta li xian ji	舒克贝塔历险记	2
+shu ke he bei ta	舒克和贝塔	2
+shu ke wang bian se	戍客望边色	2
+shu lao	庶老	2
+shu le	疏勒	2
+shu li	疏理	2
+shu li ru yun feng	数里入云峰	2
+shu liang yi chuan xue	数量遗传学	2
+shu lin	书林	2
+shu luan guan ji nong	输卵管积脓	2
+shu mian jiao nang	舒眠胶囊	2
+shu ming	赎命	2
+shu neng yi zhi	孰能一之	2
+shu nian hua shu	鼠年话鼠	2
+shu niao guan qie kai qu shi shu	输尿管切开取石术	2
+shu qi	熟漆	2
+shu qin man you	疏亲慢友	2
+shu qing zhang ai	述情障碍	2
+shu re gan mao ke li	暑热感冒颗粒	2
+shu re zheng	暑热证	2
+shu rong	淑容	2
+shu seng bao lv qi	蜀僧抱绿绮	2
+shu shen jing sheng zhang yin zi	鼠神经生长因子	2
+shu shu	蜀黍	2
+shu shui bang liu zei	蜀水帮流贼	2
+shu tan luo	舒坦罗	2
+shu tong an tu mo ji	疏痛安涂膜剂	2
+shu tou tan nao	舒头探脑	2
+shu wei zhang	鼠尾掌	2
+shu xi long	树息龙	2
+shu xian	熟娴	2
+shu xiong jiao nang	舒胸胶囊	2
+shu xue	书学	2
+shu yang mian zhao	输氧面罩	2
+shu yi	树蓺	2
+shu yi	淑懿	2
+shu yu zao gan	薯蓣皂苷	2
+shu zhang	熟张	2
+shu zhen	数阵	2
+shu zhi	殊致	2
+shu zhi bu xiang bian ting ku	孰知不向边庭苦	2
+shu zhi chuan dao zu zhi	束支传导阻滞	2
+shu zi	黍子	2
+shu bao pin yu su	庶保贫与素	1
+shu bei han xi	束贝含犀	1
+shu bi er seng	蜀鄙二僧	1
+shu bi ji gan	鼠臂虮肝	1
+shu bi li pian	舒必利片	1
+shu bi qing chu se	束比青刍色	1
+shu bo ge lei shi nian	舒伯格雷氏鲶	1
+shu bo shan dao zhong bi	书博山道中壁	1
+shu bo te ba	舒伯特鲃	1
+shu bo te qi dan bao jun	舒伯特气单胞菌	1
+shu bu shi shou	书不释手	1
+shu cai cha wan zheng	蔬菜茶碗蒸	1
+shu cai ji rou bing	蔬菜鸡肉饼	1
+shu cai kao ji ya	蔬菜烤鸡鸭	1
+shu cai kao niu rou	蔬菜烤牛肉	1
+shu cai niu rou pa	蔬菜牛肉扒	1
+shu cai pi yan	蔬菜皮炎	1
+shu cai shang qi	疏财尚气	1
+shu cai wei sheng su tang	蔬菜维生素汤	1
+shu cai zha niu nao	蔬菜炸牛脑	1
+shu cai zha yang pai	蔬菜炸羊排	1
+shu cai zhu rou bing	蔬菜猪肉饼	1
+shu cheng	输诚	1
+shu chuan wei zhu	束椽为柱	1
+shu ci he chao e	疏刺褐巢蛾	1
+shu ci yu qiao zhu shang	书此语桥柱上	1
+shu cong xiao quan	树丛小犬	1
+shu cuan feng shi	鼠窜蜂逝	1
+shu cuan gou dao	鼠窜狗盗	1
+shu cun she qu	树村社区	1
+shu dai jie fa	束带结发	1
+shu dang bu ju	疏宕不拘	1
+shu dao	数叨	1
+shu dao gou qie	鼠盗狗窃	1
+shu de bi	竖得比	1
+shu di wu ren geng	黍地无人耕	1
+shu du bei hu	叔度陂湖	1
+shu fei yue ji ying	梳飞跃寄蝇	1
+shu feng xie re	疏风泄热	1
+shu feng zai zao wan	疏风再造丸	1
+shu fu	熟妇	1
+shu fu	腧府	1
+shu fu xue	腧府穴	1
+shu fu ying zhan shi	束缚鹰战士	1
+shu gan he wei wan	舒肝和胃丸	1
+shu gan li dan	摅肝沥胆	1
+shu gan wan	舒肝丸	1
+shu gan xie dan	输肝写胆	1
+shu gao zhao feng	树高招风	1
+shu ge juan jia	束戈卷甲	1
+shu gong jin jie	殊功劲节	1
+shu gong yang ming	树功扬名	1
+shu gu	束骨	1
+shu gu duan ren xing	戍鼓断人行	1
+shu guang hua yuan she qu	曙光花园社区	1
+shu guang jie	曙光节	1
+shu guang jiu xia	束广就狭	1
+shu guo ceng wen zi gui niao	蜀国曾闻子规鸟	1
+shu he	裋褐	1
+shu he shi zhai bi	书何氏宅壁	1
+shu hou gu xing	曙后孤星	1
+shu hu tian niu	曙虎天牛	1
+shu hua du juan	淑花杜鹃	1
+shu hua mao you	书画卯酉	1
+shu huan shi	输换式	1
+shu huang dao bai	数黄道白	1
+shu huang lun hei	数黄论黑	1
+shu hui	淑惠	1
+shu hui chang xu ming	鼠灰长须螟	1
+shu hui fei	淑惠妃	1
+shu hui zi lan	树蕙滋兰	1
+shu hun	赎魂	1
+shu ji	庶几	1
+shu ji bu ou	数奇不偶	1
+shu ji hu ming	鼠技虎名	1
+shu ji hu zong	鼠迹狐踪	1
+shu ji pian pian	书记翩翩	1
+shu ji wei xin	黍稷惟馨	1
+shu ji you shi shuai	庶几有时衰	1
+shu jia mai yao	蜀贾卖药	1
+shu jia san tian le	暑假三天乐	1
+shu jian lian xi	束肩敛息	1
+shu jian mao wu xian lin shui	数间茅屋闲临水	1
+shu jiang	输将	1
+shu jiang shui bi shu shan qing	蜀江水碧蜀山青	1
+shu jiao	鼠蛟	1
+shu jiao guan wen	束教管闻	1
+shu jin tong luo ke li	舒筋通络颗粒	1
+shu jin wu ling	蜀锦吴绫	1
+shu jing guan que ru	输精管缺如	1
+shu ju qing qiu fang	数据请求方	1
+shu juan zhan shi feng gu ren	书卷展时逢古人	1
+shu ke	术科	1
+shu kou	书口	1
+shu kou zhi jia ke yi wu ji yi	数口之家可以无饥矣	1
+shu lai bao	鼠来宝	1
+shu lan cheng xing	疏懒成性	1
+shu li	署理	1
+shu li qi neng	舒丽启能	1
+shu li yi zu bao wo ji	疏粝亦足饱我饥	1
+shu luan guan e xing zhong liu	输卵管恶性肿瘤	1
+shu luan guan fa yu yi chang	输卵管发育异常	1
+shu luan guan ti qu gou	输卵管提取钩	1
+shu luan guan tong qi ji	输卵管通气机	1
+shu ma que	树麻雀	1
+shu ma wu yan zi gu tong	蜀麻吴盐自古通	1
+shu mi liang chai	数米量柴	1
+shu mi zao feng luan	树蜜早蜂乱	1
+shu ming ka	书名卡	1
+shu mo ke tao chong	鼠膜壳绦虫	1
+shu mu jin he ru	树木今何如	1
+shu nang wu di	书囊无底	1
+shu neng wei zhi da	孰能为之大	1
+shu nian he ci	鼠年贺词	1
+shu nian shuo shu	鼠年说鼠	1
+shu niao guan yi zhuang jie chang wen he shu	输尿管乙状结肠吻合术	1
+shu niao guan zhong liu	输尿管肿瘤	1
+shu nie chong chuan	鼠啮虫穿	1
+shu nie du shi	鼠啮蠹蚀	1
+shu ping mian	数平面	1
+shu ping she gui	鼠凭社贵	1
+shu ping xiang	树坪乡	1
+shu pu wei fu	束蒲为脯	1
+shu pu xiang	书铺巷	1
+shu qi cui huang niao	淑气催黄鸟	1
+shu qi yi jiang	书契以降	1
+shu qi yu yang tan shi hui	数骑渔阳探使回	1
+shu qian ying xi xun	书签映隙曛	1
+shu qin gu luo	竖琴骨螺	1
+shu qiu mei er shi nv	孰求美而释女	1
+shu que	树鹊	1
+shu que you jian	书缺有间	1
+shu que zhi bei	鼠雀之辈	1
+shu que zhi ya	鼠雀之牙	1
+shu ren cun ma pu	书任村马铺	1
+shu ren er mu	属人耳目	1
+shu ren ji wei yu	蜀人几为鱼	1
+shu ren yi shi chang ku jian	蜀人衣食常苦艰	1
+shu ri yue xue	蜀日越雪	1
+shu ru niu jiao	鼠入牛角	1
+shu ruo you qing shi	树若有情时	1
+shu shang kai hua zhi ji	树上开花之计	1
+shu shang qi xia	束上起下	1
+shu shen jiu fu	束身就缚	1
+shu shen shi jian lu	树深时见鹿	1
+shu shen shou ming	束身受命	1
+shu shen zi ai	束身自爱	1
+shu shi gan mao ke li	暑湿感冒颗粒	1
+shu shi guan hai long	舒氏冠海龙	1
+shu shi wu geng	鼠屎污羹	1
+shu shou fen shi	鼠首偾事	1
+shu shou jiu kun	束手就困	1
+shu shou jiu yi	束手就殪	1
+shu shou shu zu	束手束足	1
+shu shou ting ming	束手听命	1
+shu shou zi bi	束手自毙	1
+shu shou zuo shi	束手坐视	1
+shu shu	秫秫	1
+shu shu li feng xue	树树立风雪	1
+shu shui dan piao	蔬水箪瓢	1
+shu song ru zhi	输送乳汁	1
+shu su li hua	树俗立化	1
+shu tong ba yi	树同拔异	1
+shu tou gou dao	鼠偷狗盗	1
+shu tu tong zhi	殊途同致	1
+shu tui han xi	暑退寒袭	1
+shu tuo hua tian niu	蜀驼花天牛	1
+shu wang gong ji ke	庶往共饥渴	1
+shu wang wu jin xin	蜀王无近信	1
+shu wen hu tao ge	疏纹胡桃蛤	1
+shu wen zhi zi	梳文栉字	1
+shu wu yong zhi zhi ye	树无用之指也	1
+shu xi	鼠蹊	1
+shu xia dou ji chang	树下斗鸡场	1
+shu xian jiang	鼠衔姜	1
+shu xiang men hu	书香门户	1
+shu xiao piao chong	束小瓢虫	1
+shu xin lang fei	鼠心狼肺	1
+shu xing bi shi mu	树形笔石目	1
+shu xing gong jian wang e	树形拱肩网蛾	1
+shu xing gui se	殊形诡色	1
+shu xing miao zhuang	殊形妙状	1
+shu xiu	束脩	1
+shu xiu	舒羞	1
+shu xiu gong ting	黍秀宫庭	1
+shu xiu qing zhuo	庶羞清酌	1
+shu xue xun yang	鼠穴寻羊	1
+shu yao wei shi	树妖卫士	1
+shu yao zhan shi	树妖战士	1
+shu yi	舒乙	1
+shu yi hu gong lu	殊异乎公路	1
+shu yi hu gong xing	殊异乎公行	1
+shu yi hu gong zu	殊异乎公族	1
+shu yi shan zi ming	庶以善自名	1
+shu ying xu dai ju zhong tou	输赢须待局终头	1
+shu yong yu dun	疏庸愚钝	1
+shu you suo bu dai	数有所不逮	1
+shu yu guo zhong tiao	疏雨过中条	1
+shu yu jing er feng bu ting	树欲静而风不停	1
+shu yu li qi	疏郁理气	1
+shu yuan lei	树猿类	1
+shu yuan li di	树元立嫡	1
+shu yun cha yu zhi shan e	孰云察余之善恶	1
+shu yun qi huo	束蕴乞火	1
+shu yun qing huo	束蕴请火	1
+shu yun wang hui hui	孰云网恢恢	1
+shu zai gao ge	束在高阁	1
+shu zai zi	树栽子	1
+shu zheng	暑证	1
+shu zhi	束之	1
+shu zhi gao wu	束之高屋	1
+shu zhi suo bu neng fen ye	数之所不能分也	1
+shu zhi suo bu neng qiong ye	数之所不能穷也	1
+shu zhi ying	束植蝇	1
+shu zhi ying cai	淑质英才	1
+shu zhi zhen liang	淑质贞亮	1
+shu zhuang dai ming	束装待命	1
+shu zhuang ge nang xing chong	梳状革囊星虫	1
+shu zhuang you mao lun chong	梳状疣毛轮虫	1
+shu zi hua chao sheng gong zuo zhan	数字化超声工作站	1
+shu zi hua zhi sheng ji	数字化直升机	1
+shu zi yi wei	殊滋异味	1
+shu zi ying xiang jie shou xi tong	数字影像接收系统	1
+shu zui ai nu	赎罪爱奴	1
+shu zui dao	赎罪岛	1

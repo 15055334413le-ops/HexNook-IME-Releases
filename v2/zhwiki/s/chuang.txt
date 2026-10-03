@@ -1,0 +1,437 @@
+chuang ban	床伴	0
+chuang ban die shu	窗斑蝶属	0
+chuang ban qing dan	床伴清单	0
+chuang ban ren	创办人	0
+chuang ban ren ji nian ri	创办人纪念日	0
+chuang ban shan hu	床板珊瑚	0
+chuang ban yu xing jie	床板鱼形介	0
+chuang ban zhu ge shu	床伴逐个数	0
+chuang bian de a che	窗边的阿彻	0
+chuang bian de xiao dou dou	窗边的小荳荳	0
+chuang bian de xiao dou dou	窗边的小豆豆	0
+chuang bian du xin de shao nv	窗边读信的少女	0
+chuang bian gu shi	床边故事	0
+chuang bian jian ce	床边检测	0
+chuang bian nai nai mei	窗边奈奈美	0
+chuang bian nv hai yan zhong dui jie de wu zhong nv zi	窗边女孩眼中对街的屋中女子	0
+chuang bian nv hai yu dui jie wu zhong de nv zi	窗边女孩与对街屋中的女子	0
+chuang bian pao xiao	窗边咆哮	0
+chuang bian xue tang jian ce	床边血糖检测	0
+chuang bian xue ye jing hua	床边血液净化	0
+chuang bian yao guai	床边妖怪	0
+chuang bian zu	窗边族	0
+chuang bo che zhan	床波车站	0
+chuang bo zhan	床波站	0
+chuang chi cun	床尺寸	0
+chuang chi lan tian ji shu	创驰蓝天技术	0
+chuang chi ye chan shu	窗翅叶蝉属	0
+chuang chong	床虫	0
+chuang chong shu	床虫属	0
+chuang chuang	创创	0
+chuang ci zhu er lang	床次竹二郎	0
+chuang da ba shi	创大巴士	0
+chuang da ke ji	创达科技	0
+chuang da qi che yun shu	创大汽车运输	0
+chuang dan	床单	0
+chuang dan che zhan	床丹车站	0
+chuang dan zhan	床丹站	0
+chuang dang	床挡	0
+chuang di feng yun	床地风云	0
+chuang dian	床垫	0
+chuang dian bao hu tao	床垫保护套	0
+chuang dong li mei ti	创动力媒体	0
+chuang du e shu	窗毒蛾属	0
+chuang du fu yu	床杜父鱼	0
+chuang fa	创发	0
+chuang fu dao che chang	创富道车厂	0
+chuang fu fang	创富坊	0
+chuang fu sheng wu ke ji	创富生物科技	0
+chuang fu wen hua	创富文化	0
+chuang gan zhi zhu	幢竿支柱	0
+chuang ge bi luo	窗格笔螺	0
+chuang ge gu luo	窗格骨螺	0
+chuang ge juan guan luo	窗格卷管螺	0
+chuang ge nian luo	窗格捻螺	0
+chuang ge qi	窗格棋	0
+chuang ge tai xian chong	窗格苔藓虫	0
+chuang gu ren bo qie	创古仁波切	0
+chuang gu si	创古寺	0
+chuang guan dong	闯关东	0
+chuang han shu	窗函数	0
+chuang hao fang	创豪坊	0
+chuang hong deng	闯红灯	0
+chuang hu	窗户	0
+chuang hu shui	窗户税	0
+chuang hua	窗花	0
+chuang hua lun	创化论	0
+chuang huo	创惑	0
+chuang ji chao ji cheng	创纪超级城	0
+chuang ji fang di chan tou zi xin tuo ji jin	创纪房地产投资信托基金	0
+chuang ji su guang lun	创极速光轮	0
+chuang ji zhi cheng	创纪之城	0
+chuang jia	床架	0
+chuang jia da xue	创价大学	0
+chuang jia die shu	窗蛱蝶属	0
+chuang jia nv zi duan qi da xue	创价女子短期大学	0
+chuang jia xue hui	创价学会	0
+chuang jia xue xiao	创价学校	0
+chuang jia xue yuan	创价学园	0
+chuang jia yu shi shu	疮痂鱼虱属	0
+chuang jian	创见	0
+chuang jian jue se	创建角色	0
+chuang jian li liang	创建力量	0
+chuang jian tai ping yang	创见太平洋	0
+chuang jian xin yi tian	创建新一天	0
+chuang jian xing mo shi	创建型模式	0
+chuang jian zhe	创建者	0
+chuang jian zhe xiao ying	创建者效应	0
+chuang jian zi xun	创见资讯	0
+chuang jiang ling	闯将令	0
+chuang jie luo	窗结螺	0
+chuang jing lu zhan	创景路站	0
+chuang ju	床具	0
+chuang ju	创巨	0
+chuang jue qi	创崛起	0
+chuang jun	闯军	0
+chuang ke	创客	0
+chuang ke ju	创科局	0
+chuang ke kong jian	创客空间	0
+chuang ke shi ye	创科实业	0
+chuang ke shu	创科署	0
+chuang ke tie	创可贴	0
+chuang kou	窗口	0
+chuang kou bian de xiao dou dou	窗口边的小荳荳	0
+chuang kou bian de xiao dou dou	窗口边的小豆豆	0
+chuang kou dou dong	窗口抖动	0
+chuang kou gong si	窗口公司	0
+chuang kou guan li cheng shi	窗口管理程式	0
+chuang kou guan li qi	窗口管理器	0
+chuang kou qi ye	窗口企业	0
+chuang kou shi kong tiao	窗口式空调	0
+chuang kou shui	窗口税	0
+chuang kou tie	创口贴	0
+chuang kou xi tong	窗口系统	0
+chuang kou xiao bu jian	窗口小部件	0
+chuang le zhe	创乐者	0
+chuang li nv hai jie dui mian de fang zhong nv ren	窗里女孩街对面的房中女人	0
+chuang lian	窗帘	0
+chuang lian de gong neng	窗帘的功能	0
+chuang lian shi fa xing	窗帘式发型	0
+chuang lian wei rao	窗帘围绕	0
+chuang long chuan	创龙传	0
+chuang ming lu zhan	创明路站	0
+chuang mu	床母	0
+chuang nu	床弩	0
+chuang pao biao pi gan zhuang jun	疮疱表皮杆状菌	0
+chuang pao bing suan gan jun	疮疱丙酸杆菌	0
+chuang pu	床铺	0
+chuang pu	创普	0
+chuang qian ming yue guang	床前明月光	0
+chuang ru	床褥	0
+chuang ru	闯入	0
+chuang ru hei dong jin qu	闯入黑洞禁区	0
+chuang ru zhe	闯入者	0
+chuang ru zhe chu ji	闯入者出击	0
+chuang rui xun	创锐讯	0
+chuang rui xun gong si	创锐讯公司	0
+chuang sha	床沙	0
+chuang shan	床山	0
+chuang shang	创伤	0
+chuang shang	创商	0
+chuang shang de dao ying	创伤的倒影	0
+chuang shang gan jun shu	创伤杆菌属	0
+chuang shang hou xin li ya li jin zhang zheng hou qun	创伤后心理压力紧张症候群	0
+chuang shang hou xin li ya li jin zhang zong he zheng	创伤后心理压力紧张综合症	0
+chuang shang hou ya li xin li zhang ai zheng	创伤后压力心理障碍症	0
+chuang shang hou ya li zheng	创伤后压力症	0
+chuang shang hou ya li zong he zheng	创伤后压力综合征	0
+chuang shang hou ya li zong he zheng	创伤后压力综合症	0
+chuang shang hou yi zheng	创伤后遗症	0
+chuang shang hou ying ji fan ying zhang ai	创伤后应激反应障碍	0
+chuang shang hou ying ji zhang ai	创伤后应激障碍	0
+chuang shang hou ying ji zong he zheng	创伤后应激综合征	0
+chuang shang hou zheng hou qun	创伤后症候群	0
+chuang shang hu jun	创伤弧菌	0
+chuang shang ke	创伤科	0
+chuang shang qiu jun shu	创伤球菌属	0
+chuang shang ru qin zhe zhi ge	床上入侵者之歌	0
+chuang shang shi shou jing	创伤式受精	0
+chuang shang shi shou jing	创伤式授精	0
+chuang shang wai ke	创伤外科	0
+chuang shang xi	床上戏	0
+chuang shang xing nao sun shang	创伤性脑损伤	0
+chuang shang xue	创伤学	0
+chuang shang yi xue	创伤医学	0
+chuang shang yong pin	床上用品	0
+chuang shang yu he	创伤愈合	0
+chuang shang zhong xin	创伤中心	0
+chuang shen xing	创神星	0
+chuang sheng	创升	0
+chuang sheng da tian shi	创圣大天使	0
+chuang sheng de da tian shi	创圣的大天使	0
+chuang sheng de ji xie tian shi	创圣的机械天使	0
+chuang sheng de ya ku ai li weng	创圣的亚库艾里翁	0
+chuang sheng ji xiao mie suan fu	创生及消灭算符	0
+chuang sheng ji xie tian shi	创圣机械天使	0
+chuang sheng ji yan mie suan fu	创生及湮灭算符	0
+chuang sheng kong gu	创生控股	0
+chuang sheng suan fu	创生算符	0
+chuang sheng zhi zhu	创生之柱	0
+chuang shi	床虱	0
+chuang shi	创世	0
+chuang shi da bao zha	创世大爆炸	0
+chuang shi de da he	创世的大河	0
+chuang shi dian shi	创世电视	0
+chuang shi gai ming	创氏改名	0
+chuang shi ji	创世纪	0
+chuang shi ji	创世记	0
+chuang shi ji hao	创世纪号	0
+chuang shi ji he chang tuan	创世纪合唱团	0
+chuang shi ji jin hui	创世基金会	0
+chuang shi ji miao wen	创世纪苗文	0
+chuang shi ji nian	创世纪年	0
+chuang shi ji shi kan	创世纪诗刊	0
+chuang shi ji shi qun	创世纪诗群	0
+chuang shi ji shi she	创世纪诗社	0
+chuang shi ji shi za zhi she	创世纪诗杂志社	0
+chuang shi ji tu shu guan	创世纪图书馆	0
+chuang shi ji tu shu guan	创世记图书馆	0
+chuang shi ji xi lie	创世纪系列	0
+chuang shi ji xian shang	创世纪线上	0
+chuang shi ji yi zhang yi jie	创世纪一章一节	0
+chuang shi ji yuan	创世纪元	0
+chuang shi ji yue tuan	创世纪乐团	0
+chuang shi ju	创世驹	0
+chuang shi kuang ren	创世狂人	0
+chuang shi lun	创世论	0
+chuang shi lun tu pu	创世论图谱	0
+chuang shi ren	创始人	0
+chuang shi ri ji	创世日记	0
+chuang shi she hui fu li ji jin hui	创世社会福利基金会	0
+chuang shi shen	创世神	0
+chuang shi shen hua	创世神话	0
+chuang shi shi san zu	创世十三祖	0
+chuang shi tu ji	创世图集	0
+chuang shi xi xue gui	创始吸血鬼	0
+chuang shi yi hao	创始一号	0
+chuang shi zhe xiao ying	创始者效应	0
+chuang shi zhe zhi yan	创世者之眼	0
+chuang shi zhi guang	创世之光	0
+chuang shi zhi shu	创世之书	0
+chuang shui	窗税	0
+chuang si	创思	0
+chuang si da xue	创価大学	0
+chuang si xue hui	创価学会	0
+chuang tai	窗台	0
+chuang tai shang de nan ren	窗台上的男人	0
+chuang tian chuan cheng	创天传承	0
+chuang tian kuan shu	床田宽树	0
+chuang tian kuan shu	床田寛树	0
+chuang tian zong he tong ren ji	创天综合同人祭	0
+chuang tong	创通	0
+chuang tong ying xiang	创通映像	0
+chuang tou	创投	0
+chuang tou ban	床头板	0
+chuang tou gong si	创投公司	0
+chuang tou gui	床头柜	0
+chuang tou po po	床头婆婆	0
+chuang wai	窗外	0
+chuang wai you lan tian	窗外有兰天	0
+chuang wai you lan tian	窗外有蓝天	0
+chuang wai you nan tian	窗外有男天	0
+chuang wai you zhang lian	窗外有张脸	0
+chuang wan	窗烷	0
+chuang wang	闯王	0
+chuang wang qi	闯王棋	0
+chuang wang zhen	闯王镇	0
+chuang wei	床围	0
+chuang wei	创维	0
+chuang wei dian shi	创维电视	0
+chuang wei ji tuan	创维集团	0
+chuang wei qi che	创维汽车	0
+chuang wei shu ma	创维数码	0
+chuang wei shu zi	创维数字	0
+chuang wei yi	创卫一	0
+chuang wen zao ke	窗纹藻科	0
+chuang wu er	床兀儿	0
+chuang xi	床戏	0
+chuang xi ling shu	窗溪蛉属	0
+chuang xian zheng you huo dong	创先争优活动	0
+chuang xiang	创想	0
+chuang xiang bing tuan	创想兵团	0
+chuang xiang san wei	创想三维	0
+chuang xiang ta	创享塔	0
+chuang xiang ta yuan qu	创享塔园区	0
+chuang xin	创新	0
+chuang xin da dao	创新大道	0
+chuang xin fang	创新方	0
+chuang xin fu wu zhou	创新服务周	0
+chuang xin gang dong zhan	创新港东站	0
+chuang xin gang zhan	创新港站	0
+chuang xin gong chang	创新工场	0
+chuang xin gu zhan	创新谷站	0
+chuang xin guan li	创新管理	0
+chuang xin guo ji	创信国际	0
+chuang xin ji ke ji ju	创新及科技局	0
+chuang xin ji tuan	创信集团	0
+chuang xin jie dao	创新街道	0
+chuang xin ke ji	创新科技	0
+chuang xin ke ji bo wu guan	创新科技博物馆	0
+chuang xin ke ji bu	创新科技部	0
+chuang xin ke ji da chen	创新科技大臣	0
+chuang xin ke ji ji gong ye ju	创新科技及工业局	0
+chuang xin ke ji shu	创新科技署	0
+chuang xin kuo san	创新扩散	0
+chuang xin lu zhan	创新路站	0
+chuang xin neng yuan	创新能源	0
+chuang xin wei lai	创新未来	0
+chuang xin xia shu	创新虾属	0
+chuang xin xin ling shou	创新新零售	0
+chuang xin yi lu zhan	创新一路站	0
+chuang xin yi ren jing ji gong si	创新艺人经纪公司	0
+chuang xin yi shu da xue	创新艺术大学	0
+chuang xin yu le	创新娱乐	0
+chuang xin zhan dui	创新战队	0
+chuang xin zhong lu zhan	创新中路站	0
+chuang xin zhong xin	创新中心	0
+chuang xing	创行	0
+chuang xing ji tuan	创兴集团	0
+chuang xing shu yuan	创兴书院	0
+chuang xing shui shang huo dong zhong xin	创兴水上活动中心	0
+chuang xing yin hang	创兴银行	0
+chuang yan fu shou	床沿扶手	0
+chuang ye	创业	0
+chuang ye ban	创业板	0
+chuang ye ban zhi	创业板指	0
+chuang ye cheng jie dao	创业城街道	0
+chuang ye cun	创业村	0
+chuang ye cun zhan	创业村站	0
+chuang ye fang an	创业方案	0
+chuang ye gong chang	创业工厂	0
+chuang ye gong chang	创业工场	0
+chuang ye gong si	创业公司	0
+chuang ye huan bao	创业环保	0
+chuang ye ji tuan kong gu	创业集团控股	0
+chuang ye jia	创业家	0
+chuang ye jia xiong di	创业家兄弟	0
+chuang ye jie dao	创业街道	0
+chuang ye lu jie dao	创业路街道	0
+chuang ye lu zhan	创业路站	0
+chuang ye ming shu	窗野螟属	0
+chuang ye nian dai	创业年代	0
+chuang ye nong chang	创业农场	0
+chuang ye qi ye	创业企业	0
+chuang ye sha yu bang	创业鲨鱼帮	0
+chuang ye shang chang	创业商场	0
+chuang ye shi	创业史	0
+chuang ye shi dai	创业时代	0
+chuang ye tou zi	创业投资	0
+chuang ye wan jia	创业玩家	0
+chuang ye xiang	创业乡	0
+chuang ye xiao zi	创业小子	0
+chuang ye xuan	创业轩	0
+chuang ye yuan jie dao	创业园街道	0
+chuang ye zhai wu	创业债务	0
+chuang ye zhi guo	创业之国	0
+chuang ye zhong xin	创业中心	0
+chuang yi	创意	0
+chuang yi	创艺	0
+chuang yi chan ye	创意产业	0
+chuang yi chu ban she	创艺出版社	0
+chuang yi dian ying	创艺电影	0
+chuang yi dian zi	创意电子	0
+chuang yi duo nao he	创艺多脑河	0
+chuang yi fang	创艺坊	0
+chuang yi fen he fa	创意分合法	0
+chuang yi gong ye	创意工业	0
+chuang yi gong yong	创意共用	0
+chuang yi gong yong shou quan	创意公用授权	0
+chuang yi jia zu	创意家族	0
+chuang yi jian bao	创意简报	0
+chuang yi jiao shi she qun	创意教师社群	0
+chuang yi kong gu	创毅控股	0
+chuang yi lv xing she you lan che shi gu	创意旅行社游览车事故	0
+chuang yi pin dao	创意频道	0
+chuang yi shi ji	创意市集	0
+chuang yi si fang	创意私房	0
+chuang yi si wei	创意思维	0
+chuang yi wu ye fu wu gu wen	创毅物业服务顾问	0
+chuang yi xiang gang	创意香港	0
+chuang yi xie zuo	创意写作	0
+chuang yi xing dong gao xiong	创意行动高雄	0
+chuang yi yi shu da xue	创意艺术大学	0
+chuang yi yuan zhan	创意园站	0
+chuang yi zhang	创意长	0
+chuang yi zhi you ji hua	创意智优计划	0
+chuang yi zhuan ye ren shi	创意专业人士	0
+chuang yi zong jian	创意总监	0
+chuang ying she	创映社	0
+chuang ying shu	窗萤属	0
+chuang you	床友	0
+chuang yu shu	窗玉属	0
+chuang yuan ke ji	创元科技	0
+chuang yue mo fa jin shu mu lu	创约魔法禁书目录	0
+chuang zao	创造	0
+chuang zao an na	创造安娜	0
+chuang zao fen lei xue	创造分类学	0
+chuang zao gong yong	创造共用	0
+chuang zao han guo dang	创造韩国党	0
+chuang zao jin hua lun	创造进化论	0
+chuang zao ke xue	创造科学	0
+chuang zao li	创造力	0
+chuang zao li shang shu	创造力商数	0
+chuang zao li tuan ti	创造力团体	0
+chuang zao li yu le	创造力娱乐	0
+chuang zao lun	创造论	0
+chuang zao lun yu ke xue	创造论与科学	0
+chuang zao mo shi	创造模式	0
+chuang zao qing yuan	创造情缘	0
+chuang zao ri yue xing chen he zhi wu	创造日月星辰和植物	0
+chuang zao shang shu	创造商数	0
+chuang zao she	创造社	0
+chuang zao shen	创造神	0
+chuang zao shen hua	创造神话	0
+chuang zao wo de xin	创造我的心	0
+chuang zao xing de ke shi hua	创造性的可视化	0
+chuang zao xing di li	创造性地理	0
+chuang zao xing hui mie	创造性毁灭	0
+chuang zao xing ke shi hua	创造性可视化	0
+chuang zao xing kong jian	创造性空间	0
+chuang zao xing po huai	创造性破坏	0
+chuang zao xing xiang xiang	创造性想像	0
+chuang zao ya dang	创造亚当	0
+chuang zao yin qing	创造引擎	0
+chuang zao ying ya zhou	创造营亚洲	0
+chuang zao yu zhou shou si nan	创造宇宙寿司男	0
+chuang zao zhe zhang	创造者章	0
+chuang zao zhe zu qiu ju le bu	创造者足球俱乐部	0
+chuang zao zhi shen	创造之神	0
+chuang zao zhi zhu	创造之柱	0
+chuang zao zhuang zu	创造壮族	0
+chuang zei	闯贼	0
+chuang zhan ji	创战纪	0
+chuang zhi	创制	0
+chuang zhi fang	创智坊	0
+chuang zhi fu jue	创制复决	0
+chuang zhi jian	床之间	0
+chuang zhi jian zheng zuo nv hai	床之间正坐女孩	0
+chuang zhi quan	创制权	0
+chuang zhi tian di	创智天地	0
+chuang zhi ying jia	创智赢家	0
+chuang zhi zhong xin	创智中心	0
+chuang zhi zhong xue	创知中学	0
+chuang zi	床笫	0
+chuang zi nu	床子弩	0
+chuang zi zhi huan	床笫之欢	0
+chuang zuo	创作	0
+chuang zuo bi nv de lian ai gong shi	创作彼女的恋爱公式	0
+chuang zuo er ge gu shi ji	创作儿歌故事集	0
+chuang zuo ge shou	创作歌手	0
+chuang zuo gong xiang	创作共享	0
+chuang zuo gong yong	创作共用	0
+chuang zuo han zi	创作汉字	0
+chuang zuo nan ge shou	创作男歌手	0
+chuang zuo nv ge shou	创作女歌手	0
+chuang zuo xing ge shou	创作型歌手	0
+chuang zuo yi shu da xue	创作艺术大学	0
+chuang zuo zhe	创作者	0

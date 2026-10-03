@@ -1,0 +1,1312 @@
+min zu	民族	500485
+min zhu	民主	471905
+min jian	民间	442525
+min sheng	民生	370864
+min ying qi ye	民营企业	260875
+min jing	民警	242295
+min zhong	民众	240605
+min gan	敏感	219870
+min shi	民事	192500
+min ying	民营	143625
+min yong	民用	137630
+min jie	敏捷	134135
+min su	民俗	120180
+min ban	民办	119505
+min gong	民工	118005
+min guo	民国	116245
+min hang	民航	113895
+min fa	民法	91525
+min ban xue xiao	民办学校	88805
+min yi	民意	83910
+min zheng	民政	81040
+min gan de	敏感的	78330
+min ju	民居	74130
+min zheng bu men	民政部门	73850
+min ying jing ji	民营经济	72845
+min zu wen hua	民族文化	69715
+min zhu zheng zhi	民主政治	68360
+min ge	民歌	67900
+min zhu guan li	民主管理	64940
+min zheng ju	民政局	63265
+min zu jing shen	民族精神	59120
+min bing	民兵	58435
+min gan xing	敏感性	57035
+min rui de	敏锐的	54045
+min ban jiao yu	民办教育	53085
+min zheng bu	民政部	52570
+min jian zu zhi	民间组织	52325
+min shi su song fa	民事诉讼法	50730
+min rui	敏锐	50610
+min shi su song	民事诉讼	48700
+min zhu jian du	民主监督	48305
+min zhu hua	民主化	47155
+min fa tong ze	民法通则	46060
+min zhu ping yi	民主评议	44870
+min qi	民企	43345
+min zhu ji zhong zhi	民主集中制	41895
+min shi ze ren	民事责任	40180
+min xin	民心	39715
+min zhu sheng huo hui	民主生活会	39440
+min hang qu	闵行区	38645
+min shi xing wei neng li	民事行为能力	36622
+min nan	闽南	35780
+min zu tuan jie	民族团结	35610
+min zhu dang pai	民主党派	35575
+min sheng yin hang	民生银行	34990
+min yao	民谣	34355
+min feng	民风	34220
+min zu zhu yi	民族主义	33860
+min fa dian	民法典	33805
+min yong jian zhu	民用建筑	33475
+min zu zi zhi	民族自治	33255
+min zu di qu	民族地区	33140
+min zhu fa zhi	民主法制	32870
+min zu te se	民族特色	31865
+min ying ke ji	民营科技	31725
+min hang	闵行	30390
+min zu qi shi	民族歧视	29250
+min ban gao xiao	民办高校	28695
+min shi an jian	民事案件	28603
+min ying qi ye jia	民营企业家	28150
+min zu chou hen	民族仇恨	27805
+min zhu dang	民主党	27605
+min qing	民情	27530
+min yong hang kong	民用航空	27450
+min zhu jue ce	民主决策	27070
+min zhu quan li	民主权力	26730
+min hang zong ju	民航总局	25895
+min jian yi shu	民间艺术	25855
+min jin dang	民进党	25600
+min zu feng qing	民族风情	24975
+min zhu xuan ju	民主选举	22955
+min zu xiang	民族乡	22605
+min jian zi ben	民间资本	22115
+min gan du	敏感度	21905
+min zhu fa zhi	民主法治	21850
+min meng	民盟	21750
+min fang	民房	21590
+min su feng qing	民俗风情	21005
+min bei	闽北	19690
+min zu chuan tong	民族传统	19550
+min su wen hua	民俗文化	19025
+min zu pin pai	民族品牌	18310
+min xin gong cheng	民心工程	18060
+min zhu zhi du	民主制度	18035
+min jian wen hua	民间文化	17910
+min yi diao cha	民意调查	17720
+min shi pei chang	民事赔偿	17420
+min zhai	民宅	17330
+min jiang	岷江	17280
+min zhu zhu yi	民主主义	17015
+min shi cai ding	民事裁定	16995
+min jian	民建	16880
+min quan	民权	16795
+min shi jiu fen	民事纠纷	16275
+min zu ying xiong	民族英雄	16250
+min rui de	敏锐地	16125
+min zheng gong zuo	民政工作	15825
+min ying jing ji fa zhan	民营经济发展	15640
+min jian chuan shuo	民间传说	15280
+min guo shi qi	民国时期	14990
+min zu guo jia	民族国家	14690
+min zhu ce ping	民主测评	14565
+min shang shi	民商事	14480
+min zheng ting	民政厅	14470
+min chu	民初	14265
+min jiang	闽江	13830
+min zu zong jiao	民族宗教	13650
+min ying zi ben	民营资本	13575
+min jian wen xue	民间文学	13285
+min zhu sheng huo	民主生活	13255
+min mie	泯灭	13120
+min zu xing	民族性	12900
+min shi fa lv xing wei	民事法律行为	12640
+min ban fei qi ye dan wei	民办非企业单位	12535
+min feng shi ye	民丰实业	12500
+min min	敏敏	12475
+min shang	民商	12390
+min wei	民为	12065
+min shi xing wei	民事行为	11730
+min shi quan li	民事权利	11510
+min shang fa	民商法	11200
+min zu gong ye	民族工业	11155
+min nan yu	闽南语	10990
+min zu fu zhuang	民族服装	10895
+min tai	闽台	10885
+min dong	闽东	10830
+min jian gu shi	民间故事	10810
+min zhu ge ming	民主革命	10640
+min zu guan xi	民族关系	10460
+min zhu ji zhong zhi yuan ze	民主集中制原则	10435
+min gan qu	敏感区	10395
+min zu yin yue	民族音乐	10325
+min yi shi wei tian	民以食为天	10215
+min zu du li	民族独立	10145
+min fang yan	闽方言	9999
+min jia	民家	9999
+min su	民宿	9999
+min xi	悯惜	9999
+min zhu gong he guo	民主共和国	9999
+min fang	民防	9815
+min fa xue	民法学	9480
+min ying yi yuan	民营医院	9405
+min zu feng ge	民族风格	9205
+min shi shen pan	民事审判	9130
+min ge	民革	9125
+min shi zhu ti	民事主体	9035
+min sheng wen ti	民生问题	8790
+min jian yi ren	民间艺人	8740
+min gan bu wei	敏感部位	8625
+min jian gong yi	民间工艺	8580
+min zu xue	民族学	8525
+min zhi	民智	8370
+min zu zheng ce	民族政策	8295
+min zui	抿嘴	8280
+min guo chu nian	民国初年	8225
+min you	民有	8180
+min gan hua ti	敏感话题	8175
+min shi huo dong	民事活动	8135
+min gan qu yu	敏感区域	8025
+min jian yin yue	民间音乐	7840
+min zu jie fang	民族解放	7810
+min rui xing	敏锐性	7805
+min su xue	民俗学	7770
+min zu jiao yu	民族教育	7705
+min shi fa lv guan xi	民事法律关系	7695
+min gan wen ti	敏感问题	7675
+min ying hua	民营化	7665
+min bu liao sheng	民不聊生	7585
+min sheng	民声	7540
+min shi fa lv	民事法律	7480
+min zu xue yuan	民族学院	7455
+min shi pan jue	民事判决	7415
+min gan xin xi	敏感信息	7285
+min ben	民本	7270
+min zhu yu fa zhi	民主与法制	7220
+min zhu jian she	民主建设	7190
+min zu yu yan	民族语言	7145
+min jian chuan tong	民间传统	7135
+min zu yi yao	民族医药	7065
+min zu wen ti	民族问题	7055
+min ban da xue	民办大学	6935
+min ban jiao shi	民办教师	6890
+min zu zi chan jie ji	民族资产阶级	6870
+min su cun	民俗村	6855
+min yong ji chang	民用机场	6850
+min xuan	民选	6785
+min zhu ping yi hang feng	民主评议行风	6775
+min zu yue qi	民族乐器	6770
+min zu fu shi	民族服饰	6755
+min shan	岷山	6660
+min zu qu yu zi zhi zhi du	民族区域自治制度	6645
+min yue	闽粤	6545
+min diao	民调	6455
+min zu cun	民族村	6455
+min jian tuan ti	民间团体	6330
+min zhu guo jia	民主国家	6205
+min jing men	民警们	6200
+min zhu zhi	民主制	6180
+min jian wu dao	民间舞蹈	6155
+min yi ce yan	民意测验	6110
+min jian jiu fen	民间纠纷	6085
+min yue	民乐	6020
+min zu qu yu zi zhi	民族区域自治	6010
+min zu hua	民族化	5935
+min jian wen yi	民间文艺	5860
+min su lv you	民俗旅游	5855
+min li	民力	5850
+min zhu yi shi	民主意识	5825
+min fu	民富	5700
+min gong gong zi	民工工资	5670
+min jian jie dai	民间借贷	5635
+min qin	民勤	5585
+min zhu xing	民主性	5575
+min jie de	敏捷的	5555
+min zu zi hao gan	民族自豪感	5515
+min wei	民委	5415
+min zu chan ye	民族产业	5325
+min sheng lu	民生路	5225
+min shi pan jue shu	民事判决书	5175
+min shi quan li neng li	民事权利能力	5130
+min zu zun yan	民族尊严	5055
+min zu li yi	民族利益	5030
+min su	民诉	5000
+min jian wu	民间舞	4990
+min feng chun pu	民风淳朴	4985
+min zhu gai ge	民主改革	4960
+min zhu ren shi	民主人士	4935
+min shang shi an jian	民商事案件	4890
+min zu jing ji	民族经济	4810
+min nan hua	闽南话	4740
+min zu mao dun	民族矛盾	4720
+min zu wu dao	民族舞蹈	4715
+min hang ye	民航业	4690
+min jie xing	敏捷性	4640
+min gan cheng du	敏感程度	4615
+min zu su zhi	民族素质	4600
+min pin	民品	4590
+min zhu xie shang	民主协商	4560
+min shi qin quan	民事侵权	4555
+min zhu zi you	民主自由	4525
+min yong fei ji	民用飞机	4475
+min xian	岷县	4440
+min shi su song zheng ju	民事诉讼证据	4395
+min shi quan yi	民事权益	4370
+min zu yi shi	民族意识	4355
+min jie kai fa	敏捷开发	4342
+min jie de	敏捷地	4315
+min su fa	民诉法	4300
+min gan ji fu	敏感肌肤	4215
+min tuan	民团	4175
+min meng zhong yang	民盟中央	4140
+min zu qu yu zi zhi fa	民族区域自治法	4095
+min zu da dao	民族大道	4090
+min fa	闽发	4065
+min zu yi shu	民族艺术	4055
+min zhong	闽中	4045
+min shi cai ding shu	民事裁定书	4020
+min zu lu	民族路	4015
+min zu da xue	民族大学	3985
+min nv	民女	3965
+min hang ji chang	民航机场	3955
+min zu wu	民族舞	3950
+min zu zhu yi zhe	民族主义者	3895
+min le	抿了	3890
+min zu te dian	民族特点	3860
+min jian ji gou	民间机构	3830
+min zu da yi	民族大义	3790
+min zu zi ben	民族资本	3750
+min ban gong zhu	民办公助	3740
+min yan	民谚	3685
+min zhe	抿着	3650
+min zu gan qing	民族感情	3600
+min qing	闽清	3585
+min jian jian zhi	民间剪纸	3575
+min zhu yun dong	民主运动	3555
+min yao	民窑	3540
+min fen	民愤	3530
+min sheng zhi ben	民生之本	3445
+min hang ju	民航局	3430
+min xiao	民校	3380
+min zu jie fang yun dong	民族解放运动	3375
+min hou xian	闽侯县	3360
+min zu rong he	民族融合	3335
+min chun	抿唇	3333
+min ke	民科	3333
+min xu	悯恤	3333
+min you	民忧	3330
+min cai	闽菜	3325
+min zhu si xiang	民主思想	3325
+min bao	民报	3275
+min tian	民田	3245
+min zhe zui	抿着嘴	3235
+min er	敏儿	3180
+min shi su song fa xue	民事诉讼法学	3160
+min ying gong si	民营公司	3120
+min zhu pai	民主派	3120
+min zhu zuo feng	民主作风	3105
+min yuan	民怨	3095
+min gan dian	敏感点	3085
+min zhu zheng fu	民主政府	3065
+min zu qi jie	民族气节	3040
+min bing zu zhi	民兵组织	2980
+min gan shu ju	敏感数据	2975
+min shi guan xi	民事关系	2950
+min zu xing ge	民族性格	2935
+min shi zhi xing	民事执行	2820
+min zu ping deng	民族平等	2820
+min zu chang fa	民族唱法	2790
+min shi xing zheng	民事行政	2785
+min zu shi	民族史	2745
+min zu shi wu	民族事务	2730
+min gan yuan jian	敏感元件	2680
+min ge zhong yang	民革中央	2670
+min zhu dang ren	民主党人	2585
+min cui zhu yi	民粹主义	2580
+min fu	民夫	2545
+min she	民社	2540
+min zhu gong he	民主共和	2475
+min shi he tong	民事合同	2425
+min zu ya po	民族压迫	2420
+min shi su song cheng xu	民事诉讼程序	2400
+min jian xing	民间性	2395
+min chuan	民船	2380
+min hui	敏慧	2345
+min jian li liang	民间力量	2345
+min guo yuan nian	民国元年	2335
+min yun	民运	2315
+min zhu zheng ti	民主政体	2290
+min rui du	敏锐度	2255
+min zu ge ming	民族革命	2235
+min jiang lu	闽江路	2230
+min zu hun	民族魂	2200
+min zu shi wu wei yuan hui	民族事务委员会	2165
+min zu wen hua gong	民族文化宫	2165
+min xiang	民享	2125
+min nan ren	闽南人	2105
+min yong chan pin	民用产品	2105
+min zhu yuan ze	民主原则	2100
+min bian	民变	2095
+min jian hua	民间化	2075
+min shi li fa	民事立法	2055
+min zong ju	民宗局	2045
+min zhi min gao	民脂民膏	2040
+min zu xi guan	民族习惯	2015
+min qin xian	民勤县	2000
+min zu xin li	民族心理	1995
+min gan di dai	敏感地带	1990
+min jian she tuan	民间社团	1990
+min yi dai biao	民意代表	1990
+min zu se cai	民族色彩	1990
+min zu ti yu	民族体育	1975
+min hui	民会	1940
+min shi tiao jie	民事调解	1940
+min zu ge wu tuan	民族歌舞团	1935
+min quan yun dong	民权运动	1910
+min yi ting	民一庭	1905
+min zhu xian zheng	民主宪政	1900
+min qiang	民强	1805
+min shang fa lv	民商法律	1800
+min gong chao	民工潮	1795
+min gan shi qi	敏感时期	1790
+min zu yu	民族语	1780
+min zheng shi wu	民政事务	1755
+min quan xian	民权县	1715
+min ying yin hang	民营银行	1710
+min gan zhe	敏感者	1695
+min zu he jie	民族和解	1670
+min gao guan	民告官	1655
+min zu min zhu	民族民主	1625
+min zhe gan	闽浙赣	1585
+min zu jian zhu	民族建筑	1570
+min li	民立	1555
+min zu xing shi	民族形式	1510
+min ban xiao xue	民办小学	1485
+min shi tiao jie shu	民事调解书	1480
+min zhu she hui zhu yi	民主社会主义	1480
+min hang shou piao	民航售票	1470
+min zu zhi lin	民族之林	1460
+min sheng bao	民生报	1450
+min shi zhi cai	民事制裁	1450
+min yong hang kong fa	民用航空法	1420
+min qi	民气	1415
+min er ting	民二庭	1390
+min xi	闽西	1382
+min shi zheng yi	民事争议	1380
+min qing xian	闽清县	1370
+min xin suo xiang	民心所向	1355
+min sheng zhu yi	民生主义	1350
+min zheng hao	闵政浩	1350
+min cui	民粹	1330
+min zhong can yu	民众参与	1330
+min yong gong ye	民用工业	1325
+min yuan fei teng	民怨沸腾	1315
+min zu wei yuan hui	民族委员会	1305
+min hua	敏化	1290
+min ji	闽籍	1290
+min shi yi wu	民事义务	1245
+min zu fen lie zhu yi	民族分裂主义	1220
+min zu zhi	民族志	1220
+min shi fa lv ze ren	民事法律责任	1200
+min yong hang kong yun shu	民用航空运输	1200
+min zu yun dong	民族运动	1200
+min shi shen pan ting	民事审判庭	1190
+min zhu xing	民主型	1185
+min su xue jia	民俗学家	1180
+min fu guo qiang	民富国强	1165
+min shi dai li	民事代理	1140
+min zu da tuan jie	民族大团结	1140
+min wang	民望	1135
+min zhuang lu	闵庄路	1130
+min ban ke ji	民办科技	1125
+min zhu quan	民主权	1115
+min cai	民财	1111
+min gao	民膏	1111
+min jiu	抿酒	1111
+min kou	抿口	1111
+min kou jiu	抿口酒	1111
+min tui	民退	1111
+min xu	民需	1111
+min zhi	民脂	1111
+min zi di	皿字底	1111
+min quan zhu yi	民权主义	1095
+min san ting	民三庭	1075
+min yong jian zhu jie neng tiao li	民用建筑节能条例	1042
+min hang ban ji	民航班机	1035
+min zu tong yi	民族统一	1020
+min zu yi xue	民族医学	1000
+min ming	民命	975
+min zhu lu	民主路	974
+min er hao xue	敏而好学	970
+min zu zi zhi qu	民族自治区	970
+min quan lu	民权路	940
+min zu zi jue	民族自决	930
+min ting	民庭	920
+min zu bao	民族报	905
+min le xian	民乐县	900
+min si bo ke	敏思博客	895
+min zu zi jue quan	民族自决权	880
+min le min	抿了抿	860
+min yun hui	民运会	860
+min he xian	民和县	850
+min an	民安	848
+min hang ji piao	民航机票	825
+min zu qing	民族情	820
+min zu chong tu	民族冲突	800
+min ku	民苦	780
+min wu xin bu li	民无信不立	780
+min zhong le yuan	民众乐园	760
+min xue	敏学	755
+min yong jun	民拥军	750
+min zong wei	民宗委	750
+min shi su zhuang	民事诉状	745
+min yu	闽语	745
+min zu tong yi zhan xian	民族统一战线	745
+min zu bai lei	民族败类	740
+min shang he yi	民商合一	710
+min zheng ji guan	民政机关	700
+min sheng diao bi	民生凋敝	695
+min zhu tui xuan	民主推选	690
+min shu ji	民数记	680
+min feng xian	民丰县	655
+min xiong	敏雄	640
+min yong ji shu	民用技术	630
+min bu wei si	民不畏死	626
+min xin xiang bei	民心向背	625
+min gan ci	敏感词	624
+min nong	悯农	620
+min zhu	抿住	620
+min hang ji	民航机	615
+min zu jie fang zhen xian	民族解放阵线	610
+min shi cai pan	民事裁判	606
+min shi fa ting	民事法庭	605
+min zhong fu wu	民众服务	595
+min fu fa	闽福发	585
+min zhu dang pai fu ze ren	民主党派负责人	585
+min yong jian zhu jie neng guan li gui ding	民用建筑节能管理规定	556
+min fu	民妇	550
+min zu yue dui	民族乐队	535
+min xuan zong tong	民选总统	525
+min zhong tuan ti	民众团体	525
+min ke shi you zhi	民可使由之	515
+min yong hua	民用化	515
+min zhong jiao yu	民众教育	515
+min zu xue jia	民族学家	510
+min wei	民伟	500
+min yi ji guan	民意机关	500
+min gan zheng	敏感症	495
+min zu gong tong yu	民族共同语	490
+min zu jie	民族街	490
+min su wen hua cun	民俗文化村	485
+min wei bang ben	民惟邦本	485
+min zei	民贼	475
+min zhe zui xiao	抿着嘴笑	455
+min hui	敏惠	450
+min mian	黾勉	450
+min zhu jian guo hui	民主建国会	445
+min cui pai	民粹派	440
+min zu yue pai	民族乐派	435
+min hang bu	民航部	430
+min xing ke	民行科	430
+min fei	闵妃	420
+min hang guan li ju	民航管理局	419
+min sheng dong lu	民生东路	390
+min nan ge	闽南歌	385
+min zu jing ying	民族精英	385
+min ban fei qi ye dan wei deng ji guan li zan xing tiao li	民办非企业单位登记管理暂行条例	383
+min gui jun qing	民贵君轻	380
+min zu jiu fen	民族纠纷	380
+min cong	敏聪	370
+min zu tong hua	民族同化	365
+min zu da qian xi	民族大迁徙	360
+min bu kan ming	民不堪命	345
+min jian lian	民建联	345
+min shi zhi xing cheng xu	民事执行程序	343
+min he	民和	324
+min hang jie	民航界	310
+min zu zi zhi xian	民族自治县	306
+min hang lu	民航路	299
+min you	民友	280
+min mo	泯没	275
+min gong dui	民工队	265
+min zu yi yuan	民族医院	261
+min jian fei ying li zu zhi kuai ji zhi du	民间非营利组织会计制度	253
+min yong hang kong qi you xian quan	民用航空器优先权	250
+min yong bao zha wu pin guan li tiao li	民用爆炸物品管理条例	248
+min xin ju	民信局	245
+min quan dong lu	民权东路	225
+min jie shi jian	敏捷实践	216
+min qing	民青	215
+min yun bu	民运部	205
+min zu de xi wang	民族的希望	200
+min kao min	民考民	198
+min shi cheng xu fa	民事程序法	196
+min cai er	闵采尔	195
+min sheng xue yuan	民生学院	192
+min you suo hu	民有所呼	191
+min chu	泯除	190
+min yue jia yuan	民岳家园	189
+min feng yuan	民丰苑	188
+min jiang qiao	岷江桥	186
+min hang xiao qu	民航小区	185
+min min zi	敏敏子	185
+min zhu zhu yi ge ming	民主主义革命	184
+min ban ben ke	民办本科	183
+min zu qi ye	民族企业	182
+min zu qi che	民族汽车	173
+min jian dui	民间队	172
+min zhi suo you	民之所忧	172
+min zu you xi wang	民族有希望	171
+min jing dui	民警队	165
+min sheng pin dao	民生频道	165
+min zhi suo pan	民之所盼	165
+min le yuan	民乐园	161
+min hang ke ji	民航客机	160
+min xing chu	民行处	156
+min bing dui	民兵队	155
+min shi te bie fa	民事特别法	154
+min jian gao shou	民间高手	153
+min guo ban	民国版	151
+min yong ji	民用机	151
+min gan ci guo lv	敏感词过滤	148
+min nan shi fan da xue	闽南师范大学	146
+min hang wang	民航网	144
+min shi zhi xing quan	民事执行权	144
+min jiang gong yuan	闽江公园	143
+min shi qi zha xing wei	民事欺诈行为	143
+min hang zong yi yuan	民航总医院	142
+min zhu xi lu	民主西路	142
+min zu wei da fu xing	民族伟大复兴	138
+min hang ren	民航人	134
+min xi zhen	闵希珍	133
+min xiong gui wu	民雄鬼屋	133
+min yong he an quan she bei jian du guan li tiao li	民用核安全设备监督管理条例	131
+min hang fei ji	民航飞机	127
+min fu	民服	123
+min hua ji	敏化剂	123
+min zhu jie	民主街	122
+min hang xue yuan	民航学院	120
+min jie kai fa guo cheng	敏捷开发过程	120
+min sheng wu xiao shi	民生无小事	120
+min sheng yuan	民生园	120
+min shi ze ren cheng dan fang shi	民事责任承担方式	120
+min zhi suo wang	民之所望	120
+min sheng di xian	民生底线	118
+min hou shang jie	闽侯上街	117
+min ban gao deng xue xiao ban xue guan li ruo gan gui ding	民办高等学校办学管理若干规定	115
+min wang yuan	民旺园	115
+min xing	闵姓	115
+min zhu qing nian tong meng	民主青年同盟	115
+min jie kai fa yuan ze	敏捷开发原则	114
+min dian	民电	111
+min fu	民负	111
+min gui	民贵	111
+min shui	民水	111
+min zu xing	民族兴	111
+min hou	闽侯	110
+min tian lu	民田路	109
+min yue shui zhen	闽越水镇	109
+min shi jiu fen jie jue	民事纠纷解决	106
+min zhi suo yu	民之所欲	106
+min shi guan xia quan	民事管辖权	105
+min hang kuai di	民航快递	103
+min yong jian zhu ge sheng she ji gui fan	民用建筑隔声设计规范	103
+min bu gao	民不告	101
+min bu ju	民不举	101
+min bu wei si	暋不畏死	101
+min hang bao	民航报	101
+min zu jian shen cao	民族健身操	101
+min an guo tai	民安国泰	100
+min an wu fu	民安物阜	100
+min ban ben ke gao xiao	民办本科高校	100
+min ban chu zhong xue xiao	民办初中学校	100
+min ban er ben	民办二本	100
+min ban gao deng xue xiao	民办高等学校	100
+min ban gao zhi yuan xiao	民办高职院校	100
+min ban pei xun xue xiao	民办培训学校	100
+min ban pu tong gao deng xue xiao	民办普通高等学校	100
+min ban pu tong gao xiao	民办普通高校	100
+min ban xiao	民办校	100
+min ban xue xiao jiao shi	民办学校教师	100
+min ban xue xiao zhao sheng	民办学校招生	100
+min ban yi wu jiao yu xue xiao	民办义务教育学校	100
+min ban yuan xiao	民办院校	100
+min ban zhong xiao xue xiao	民办中小学校	100
+min bao hang ye	民爆行业	100
+min bei di qu	闽北地区	100
+min bei ren	闽北人	100
+min bei yu	闽北语	100
+min ben zhu yi	民本主义	100
+min bian feng qi	民变蜂起	100
+min bian zai ji	民变在即	100
+min bing dui zhang	民兵队长	100
+min bing lian zhang	民兵连长	100
+min bing tiao zheng gai ge	民兵调整改革	100
+min bing xun lian ji di	民兵训练基地	100
+min bing ying zhang	民兵营长	100
+min bu jia fu	民不加赋	100
+min bu min zhu	民不民主	100
+min bu min zhu a	民不民主啊	100
+min bu min zhu ba	民不民主吧	100
+min bu min zhu la	民不民主啦	100
+min bu min zhu lou	民不民主喽	100
+min bu min zhu ma	民不民主吗	100
+min bu min zhu o	民不民主哦	100
+min bu min zhu wa	民不民主哇	100
+min bu min zhu ya	民不民主呀	100
+min chu qi ren zhuan	民初奇人传	100
+min chun su hou	民淳俗厚	100
+min da fu	民大附	100
+min diao ji gou	民调机构	100
+min diao jie guo	民调结果	100
+min diao ju yi wen lu	民调局异闻录	100
+min diao shu ju	民调数据	100
+min diao xian shi	民调显示	100
+min diao zhi chi lv	民调支持率	100
+min diao zhong xin	民调中心	100
+min dong di qu	闽东地区	100
+min dong yu	闽东语	100
+min du lu	民都鲁	100
+min du wen hua	闽都文化	100
+min du xi	敏度希	100
+min du yun	闵度允	100
+min er ting ting zhang	民二庭庭长	100
+min fa dian shi xing	民法典施行	100
+min fa dian xuan chuan	民法典宣传	100
+min fa dian xue xi xuan chuan	民法典学习宣传	100
+min fang zhao huo	民房着火	100
+min feng gu pu	民风古朴	100
+min feng guo fu	民丰国富	100
+min feng tu su	民风土俗	100
+min feng wu fu	民丰物阜	100
+min gan de	敏感地	100
+min gan di qu	敏感地区	100
+min gan du gao	敏感度高	100
+min gan du jiang di	敏感度降低	100
+min gan du xia jiang	敏感度下降	100
+min gan hang ye	敏感行业	100
+min gan mo shi	敏感模式	100
+min gan nei rong	敏感内容	100
+min gan qi	敏感期	100
+min gan wu zhi	敏感物质	100
+min gan xing jiang di	敏感性降低	100
+min gan xing xia jiang	敏感性下降	100
+min gan zi	敏感字	100
+min ge jie	民歌节	100
+min ge shou	民歌手	100
+min ge xiao diao	民歌小调	100
+min ge you xin	民各有心	100
+min ge zhong guo	民歌中国	100
+min gong xi	敏攻系	100
+min gong xi hun shi	敏攻系魂师	100
+min gong zi di xue xiao	民工子弟学校	100
+min guo chuan qi	民国传奇	100
+min guo ri bao	民国日报	100
+min guo tong su yan yi	民国通俗演义	100
+min hang fei xing	民航飞行	100
+min hang fei xing xue yuan	民航飞行学院	100
+min hang fei xing yuan	民航飞行员	100
+min hang hang ye	民航行业	100
+min hang ji zhang	民航机长	100
+min hang ju fu ju zhang	民航局副局长	100
+min hang ju ju zhang	民航局局长	100
+min hang kai fa qu	闵行开发区	100
+min hang qi bao	闵行七宝	100
+min hang qu wei	闵行区委	100
+min hang shi	民航史	100
+min hang shi shang de qi ji	民航史上的奇迹	100
+min hang ti yu gong yuan	闵行体育公园	100
+min hang xi tong	民航系统	100
+min hang xiao qu	闵行校区	100
+min hang xin zhuang	闵行莘庄	100
+min he hui zu tu zu zi zhi xian	民和回族土族自治县	100
+min he nian feng	民和年丰	100
+min he nian ren	民和年稔	100
+min he wei	民和委	100
+min ji ren shi	闽籍人士	100
+min jia fu nv	民家妇女	100
+min jian chuan cheng	民间传承	100
+min jian chuan qi	民间传奇	100
+min jian chuan shuo gu shi	民间传说故事	100
+min jian chuan shuo zhong	民间传说中	100
+min jian chuan tong gong yi	民间传统工艺	100
+min jian chuan tong wen hua	民间传统文化	100
+min jian chuan wen	民间传闻	100
+min jian chuan yan	民间传言	100
+min jian diao cha	民间调查	100
+min jian he hui	民间合会	100
+min jian he zhang	民间河长	100
+min jian ji ku	民间疾苦	100
+min jian ji ku sheng	民间疾苦声	100
+min jian jie dai guan xi	民间借贷关系	100
+min jian jie dai li lv	民间借贷利率	100
+min jian jie dai li lv shang xian	民间借贷利率上限	100
+min jian liu chuan	民间流传	100
+min jian liu chuan zhe	民间流传着	100
+min jian liu xing	民间流行	100
+min jian mi mi zu zhi	民间秘密组织	100
+min jian min ge	民间民歌	100
+min jian sheng wei	民建省委	100
+min jian shou cang	民间收藏	100
+min jian shou cang jia	民间收藏家	100
+min jian te se	民间特色	100
+min jian wu tuan	民间舞团	100
+min jian wu zhuang	民间武装	100
+min jian xi su	民间习俗	100
+min jian xiang chuan	民间相传	100
+min jian xiao diao	民间小调	100
+min jian yan yu	民间谚语	100
+min jian yi shu tuan	民间艺术团	100
+min jian yu	民间语	100
+min jian yu le	民间娱乐	100
+min jian yue qi	民间乐器	100
+min jiang liu yu	闽江流域	100
+min jiao guan	民教馆	100
+min jie bian xie	敏捷便鞋	100
+min jie chong	敏捷虫	100
+min jie du	敏捷度	100
+min jie zhi shu	敏捷之书	100
+min jin dang ban	民进党版	100
+min jin dang ji	民进党籍	100
+min jin dang tuan	民进党团	100
+min jin dang yuan	民进党员	100
+min jing de zhi	民警得知	100
+min jing diao cha	民警调查	100
+min jing diao cha fa xian	民警调查发现	100
+min jing lian xi	民警联系	100
+min jing liao jie	民警了解	100
+min jing liao jie dao	民警了解到	100
+min jing liao jie qing kuang hou	民警了解情况后	100
+min jing tong guo diao cha	民警通过调查	100
+min ju cuo luo	民居错落	100
+min ju yuan luo	民居院落	100
+min kang wu fu	民康物阜	100
+min ke fu si ji	闵科夫斯基	100
+min kuan hong	闵宽弘	100
+min le lu	民乐路	100
+min le min chun	抿了抿唇	100
+min le min zui	抿了抿嘴	100
+min le yi kou	抿了一口	100
+min le zhen	民乐镇	100
+min mian cong shi	黾勉从事	100
+min nan chuan tong	闽南传统	100
+min nan di qu	闽南地区	100
+min nan ke ji	闽南科技	100
+min nan shi fan	闽南师范	100
+min nan wu	闽南舞	100
+min nan yao	闽南摇	100
+min pin di ji	民贫地瘠	100
+min qing wu li	民情物理	100
+min qing xun	闵庆勋	100
+min qiong cai jin	民穷财尽	100
+min qiong cai kui	民穷财匮	100
+min qiong guo kun	民穷国困	100
+min quan chu bu	民权初步	100
+min quan si xiang	民权思想	100
+min rui de chu jue	敏锐的触觉	100
+min rui de fa xian	敏锐地发现	100
+min rui de gan jue	敏锐的感觉	100
+min rui de shang ye xiu jue	敏锐的商业嗅觉	100
+min rui de shi chang xiu jue	敏锐的市场嗅觉	100
+min rui de xiu jue	敏锐的嗅觉	100
+min rui de yi shi dao	敏锐地意识到	100
+min rui de zhi jue	敏锐的直觉	100
+min rui gan jue	敏锐感觉	100
+min rui xiu jue	敏锐嗅觉	100
+min rui zei	敏锐贼	100
+min rui zhi jue	敏锐直觉	100
+min rui zhi li	敏锐之力	100
+min san mei	皿三昧	100
+min she dang	民社党	100
+min sheng bao zhang	民生保障	100
+min sheng di chan	民生地产	100
+min sheng guo ji	民生国计	100
+min sheng hang ye	民生行业	100
+min sheng ji ku	民生疾苦	100
+min sheng qu	民生渠	100
+min sheng tu tan	民生涂炭	100
+min sheng wei yao	民生为要	100
+min sheng wen du	民生温度	100
+min sheng xi lu	民生西路	100
+min sheng yin hang ka	民生银行卡	100
+min sheng zhong dian	民生重点	100
+min shi bing su	悯时病俗	100
+min shi fa lv xing wei wu xiao	民事法律行为无效	100
+min shi fa lv zhi du	民事法律制度	100
+min shi fan	民事犯	100
+min shi su song zhi du	民事诉讼制度	100
+min shi xing zheng jian cha	民事行政检察	100
+min shi xing zheng jian cha bu	民事行政检察部	100
+min shi xing zheng jian cha gong zuo	民事行政检察工作	100
+min shi zhi xing jian du	民事执行监督	100
+min su chan pin	民宿产品	100
+min su chan ye	民宿产业	100
+min su chan ye fa zhan	民宿产业发展	100
+min su chuan tong	民俗传统	100
+min su cun	民宿村	100
+min su duan zu	民宿短租	100
+min su fa zhan	民宿发展	100
+min su fang dong	民宿房东	100
+min su fu wu	民宿服务	100
+min su gai zao	民宿改造	100
+min su guan jia	民宿管家	100
+min su guan li	民宿管理	100
+min su hang ye	民宿行业	100
+min su ji qun	民宿集群	100
+min su jia ge	民宿价格	100
+min su jia ju	民宿家具	100
+min su jian she	民宿建设	100
+min su jing ji	民宿经济	100
+min su jing ying	民宿经营	100
+min su jing ying zhe	民宿经营者	100
+min su jiu dian	民宿酒店	100
+min su ke fang	民宿客房	100
+min su ke zhan	民宿客栈	100
+min su lao ban	民宿老板	100
+min su li	民宿里	100
+min su lun	民俗论	100
+min su lv you	民宿旅游	100
+min su pin pai	民宿品牌	100
+min su ping tai	民宿平台	100
+min su qi ye	民宿企业	100
+min su qu	民宿区	100
+min su qu yi	民俗曲艺	100
+min su qun	民宿群	100
+min su ru zhu	民宿入住	100
+min su she ji	民宿设计	100
+min su sheng yi	民宿生意	100
+min su shi chang	民宿市场	100
+min su ti yan	民宿体验	100
+min su tou zi	民宿投资	100
+min su tui jian	民宿推荐	100
+min su wen hua	民宿文化	100
+min su xiang mu	民宿项目	100
+min su xiao yuan	民宿小院	100
+min su xie hui	民宿协会	100
+min su xue shi	民俗学史	100
+min su ye	民宿业	100
+min su ye zhu	民宿业主	100
+min su yu chuan shuo	民俗与传说	100
+min su yu ding	民宿预订	100
+min su yu ding ping tai	民宿预订平台	100
+min su yun ying	民宿运营	100
+min su zhu	民宿主	100
+min su zhu ren	民宿主人	100
+min su zhuang xiu	民宿装修	100
+min tai di qu	闽台地区	100
+min tai yin hang	民泰银行	100
+min wang suo gui	民望所归	100
+min wei gui	民为贵	100
+min wei gui jun wei qing	民为贵君为轻	100
+min xi fang qi	闽系房企	100
+min xi wu fu	民熙物阜	100
+min xiao lin	闵孝琳	100
+min xin min yi	民心民意	100
+min xin qu xiang	民心趋向	100
+min xin wang zhi	民心望治	100
+min xiong xiang	民雄乡	100
+min yao ge qu	民谣歌曲	100
+min yao ge shou	民谣歌手	100
+min yao yin yue	民谣音乐	100
+min yao yin yue ren	民谣音乐人	100
+min yao yue dui	民谣乐队	100
+min yi diao cha jie guo	民意调查结果	100
+min yi diao cha xian shi	民意调查显示	100
+min yi diao cha zhong xin	民意调查中心	100
+min yi ji chu	民意基础	100
+min yi ji gou	民意机构	100
+min yi ting fu ting zhang	民一庭副庭长	100
+min yi ting ting zhang	民一庭庭长	100
+min yi xiang bei	民意向背	100
+min yi zhi chi lv	民意支持率	100
+min yin cai fu	民殷财阜	100
+min yin guo fu	民殷国富	100
+min ying shi ye	民营事业	100
+min yong dian	民用电	100
+min yong hang kong qi shi hang zheng shu	民用航空器适航证书	100
+min yong he she shi	民用核设施	100
+min yu biao	鳘鱼鳔	100
+min yu du	鳘鱼肚	100
+min yu ji	敏于伎	100
+min yu jiao	鳘鱼胶	100
+min yu sha	鳘鱼沙	100
+min yu sha cun	鳘鱼沙村	100
+min yu xing	敏于行	100
+min yu zhi	闽语支	100
+min yuan ding fei	民怨鼎沸	100
+min yuan tian nu	民怨天怒	100
+min yue di qu	闽粤地区	100
+min yue dui	民乐队	100
+min yue gan	闽粤赣	100
+min yue he zou	民乐合奏	100
+min yue lun	民约论	100
+min yue ren shi	闽粤人士	100
+min yue tuan	民乐团	100
+min yue xi	民乐系	100
+min yue yan zou	民乐演奏	100
+min yun ren shi	民运人士	100
+min zei du fu	民贼独夫	100
+min zhe zui chun	抿着嘴唇	100
+min zheng bu bu zhang	民政部部长	100
+min zheng bu fu bu zhang	民政部副部长	100
+min zheng cun	民政村	100
+min zheng dang	民政党	100
+min zheng ju ju zhang	民政局局长	100
+min zheng ju zhang	民政局长	100
+min zheng li	民政里	100
+min zheng ting zhang	民政厅长	100
+min zheng xi tong	民政系统	100
+min zheng zhi ye da xue	民政职业大学	100
+min zhi suo xiang	民之所向	100
+min zhi wei kai	民智未开	100
+min zhong chu xing	民众出行	100
+min zhong dai biao	民众代表	100
+min zhong dang	民众党	100
+min zhong fu wu she	民众服务社	100
+min zhong kong huang	民众恐慌	100
+min zhong li yi	民众利益	100
+min zhong you xing	民众游行	100
+min zhong yu	闽中语	100
+min zhu can yu	民主参与	100
+min zhu chao liu	民主潮流	100
+min zhu dang can yi yuan	民主党参议员	100
+min zhu dang ji	民主党籍	100
+min zhu dang yuan	民主党员	100
+min zhu feng hui	民主峰会	100
+min zhu guan li zhi du	民主管理制度	100
+min zhu guo	民主国	100
+min zhu jian gang xie jin lian meng	民主建港协进联盟	100
+min zhu jin bu dang	民主进步党	100
+min zhu jin bu dang ji	民主进步党籍	100
+min zhu le zui chun	抿住了嘴唇	100
+min zhu lian meng	民主联盟	100
+min zhu qiang	民主墙	100
+min zhu quan li	民主权利	100
+min zhu xing dong dang	民主行动党	100
+min zhu zhu yi zhe	民主主义者	100
+min zhu zhuan zheng	民主专政	100
+min zhui tu tan	民坠涂炭	100
+min zu chang sheng	民族昌盛	100
+min zu chuan cheng	民族传承	100
+min zu chuan tong jie ri	民族传统节日	100
+min zu chuan tong nai zhi pin	民族传统奶制品	100
+min zu chuan tong ti yu	民族传统体育	100
+min zu chuan tong wen hua	民族传统文化	100
+min zu dang	民族党	100
+min zu de	民族的	100
+min zu de ji liang	民族的脊梁	100
+min zu di qu fa zhan	民族地区发展	100
+min zu di qu jiao yu	民族地区教育	100
+min zu dong lu	民族东路	100
+min zu fu xing yun dong	民族复兴运动	100
+min zu guan xian yue	民族管弦乐	100
+min zu jue xing	民族觉醒	100
+min zu min jian yin yue	民族民间音乐	100
+min zu min zhu ge ming	民族民主革命	100
+min zu qi yue	民族器乐	100
+min zu qiang	民族强	100
+min zu qing xu	民族情绪	100
+min zu she hui zhu yi	民族社会主义	100
+min zu sheng hui	民族盛会	100
+min zu sheng yue	民族声乐	100
+min zu sheng zhuang	民族盛装	100
+min zu tuan jie jin bu mo fan	民族团结进步模范	100
+min zu wen hua chuan cheng	民族文化传承	100
+min zu wen hua chuan tong	民族文化传统	100
+min zu xi lu	民族西路	100
+min zu xian	民族线	100
+min zu xue xiao	民族学校	100
+min zu yao fu xing	民族要复兴	100
+min zu yin yue hui	民族音乐会	100
+min zu you xiu chuan tong wen hua	民族优秀传统文化	100
+min zu yuan xiao	民族院校	100
+min zu yue	民族乐	100
+min zu yue tuan	民族乐团	100
+min zu za ju di qu	民族杂居地区	100
+min zu zhi shang	民族至上	100
+min zu zhi ye ji shu xue xiao	民族职业技术学校	100
+min zu zhu yi qing xu	民族主义情绪	100
+min zu zi zhi di fang	民族自治地方	100
+min zui xiao	抿嘴笑	100
+min ju	闽剧	99
+min yue	民约	99
+min hang yi yuan	民航医院	98
+min le cun	民乐村	97
+min zu yuan	民族园	97
+min shi su song mu di	民事诉讼目的	96
+min shi qiang zhi zhi xing fa	民事强制执行法	94
+min ying jing ji kai fa qu	民营经济开发区	93
+min shi fa	民事法	92
+min de lu	民德路	90
+min ban jiao yu jia	民办教育家	87
+min sheng zhi you	民生之忧	87
+min shi shen pan zhi dao yu can kao	民事审判指导与参考	86
+min yi you qi you	民亦忧其忧	86
+min an lu	民安路	84
+min shi su song yuan gao	民事诉讼原告	80
+min ying jing ji bao	民营经济报	78
+min yi le qi le	民亦乐其乐	76
+min zhu gang guo	民主刚果	75
+min sheng jie	民生街	74
+min zheng you fu dui xiang	民政优抚对象	74
+min hang da sha	民航大厦	71
+min zhu she qu	民主社区	71
+min fei zu zhi	民非组织	68
+min gan xing pi fu	敏感性皮肤	67
+min shi ze ren jing he	民事责任竞合	67
+min zheng xue yuan	民政学院	67
+min quan jie	民权街	66
+min bei hua	闽北话	65
+min ge qing	民歌情	65
+min xin	民新	63
+min yuan lu	民院路	63
+min zu bu	民族部	60
+min zu yuan	民族院	60
+min jiang da qiao	闽江大桥	59
+min yong ji chang guan li tiao li	民用机场管理条例	58
+min yong yun li guo fang dong yuan tiao li	民用运力国防动员条例	57
+min zhi fu mu	民之父母	56
+min bao wu yu	民胞物与	55
+min jiang lu	岷江路	52
+min de gui hou yi	民德归厚矣	51
+min zheng da sha	民政大厦	51
+min shi du cu qi su	民事督促起诉	50
+min zi	抿子	50
+min xing lu	民星路	49
+min hou xian wei	闽侯县委	47
+min ying qi ye fa lv gu wen	民营企业法律顾问	47
+min feng lu	民丰路	45
+min yi fei teng	民意沸腾	45
+min mian er wu chi	民免而无耻	42
+min shi wei tuo dai li he tong	民事委托代理合同	42
+min xi jiu dian	闽西酒店	42
+min yong jian zhu jie neng xin xi gong shi ban fa	民用建筑节能信息公示办法	40
+min shi tiao jie zhi du	民事调解制度	39
+min hang ban che	民航班车	38
+min zhuang	闵庄	38
+min ban gao deng xue xiao she zhi zan xing gui ding	民办高等学校设置暂行规定	37
+min dian zu qi	敏电阻器	37
+min jie gong ju	敏捷工具	36
+min sheng zai qin	民生在勤	36
+min hang zhan	民航站	34
+min zhu xin cun	民主新村	32
+min zhu guang chang	民主广场	31
+min gong liu	民工流	30
+min yi pai	民意牌	30
+min feng cun	民丰村	29
+min gao min zhi	民膏民脂	28
+min sheng zheng quan	民生证券	27
+min shi jue ding shu	民事决定书	27
+min shi qin quan gou cheng yao jian	民事侵权构成要件	27
+min yu shi er shen yu yan	敏于事而慎于言	27
+min nan tai yu	闽南台语	26
+min shi su song cheng xu gong yue	民事诉讼程序公约	26
+min quan xi lu	民权西路	25
+min zu yue qi chang	民族乐器厂	25
+min hang lu kou	民航路口	24
+min yong hang kong qi rong zi zu lin	民用航空器融资租赁	24
+min zhu lu xiao xue	民主路小学	24
+min shi ze ren gou cheng yao jian	民事责任构成要件	23
+min shi su song zhi du gai ge yan jiu	民事诉讼制度改革研究	21
+min yong hang kong yun shu xiao shou dai li ye guan li gui ding	民用航空运输销售代理业管理规定	21
+min an cun	民安村	20
+min jie kai fa gong ju	敏捷开发工具	20
+min jie yun wei	敏捷运维	20
+min sheng guo	闽生果	20
+min shi xi guan diao cha bao gao lu	民事习惯调查报告录	20
+min ying ke ji qi ye guan li tiao li	民营科技企业管理条例	20
+min an jie	民安街	19
+min shang shen pan jian ming shou ce	民商审判简明手册	19
+min zhu dong jie	民主东街	19
+min hang zhong xin yi yuan	闵行中心医院	18
+min shang fa zai zhi yan jiu sheng	民商法在职研究生	18
+min shi cai pan fang fa	民事裁判方法	18
+min an yuan	民安苑	16
+min jiang da xue	闽江大学	16
+min ping	民平	16
+min yong jian zhu gong re ji liang guan li ban fa	民用建筑供热计量管理办法	16
+min bing hao	民兵号	15
+min bu wei wei	民不畏威	15
+min qiao	民桥	15
+min shi cuo su ze ren	民事错诉责任	15
+min xi qiao	闵西桥	15
+min yong hang kong qi ye ji chang lian he chong zu gai zhi guan li gui ding	民用航空企业机场联合重组改制管理规定	15
+min zhu jian yi	民主建议	15
+min qing lu	民庆路	14
+min shi cheng xu xuan ze quan	民事程序选择权	14
+min jie ti sheng	敏捷提升	13
+min sheng dong lu	民声东路	13
+min sheng jie dao	民胜街道	13
+min shi su song wei tuo dai li he tong	民事诉讼委托代理合同	13
+min shui yuan	闽水园	13
+min ying qi ye fa lv shi yong zhi dao	民营企业法律实用指导	13
+min yong hang kong an quan xin xi guan li gui ding	民用航空安全信息管理规定	13
+min sheng da lou	民生大楼	12
+min shi shou quan wei tuo shu	民事授权委托书	12
+min ying qi ye jing ying huan jing	民营企业经营环境	12
+min zhu nan lu	民主南路	12
+min jia cun	闵家村	11
+min kang hu tong	民康胡同	11
+min le xin cun	民乐新村	11
+min li diao bi	民力凋敝	11
+min shi	民实	11
+min yong hang kong guan li zhi du	民用航空管理制度	11
+min yun qi che bei zhan	闽运汽车北站	11
+min di	闵帝	10
+min mo	闵默	10
+min yong ji chang shi yong xu ke gui ding	民用机场使用许可规定	10
+min zhi lu	民治路	10
+min zhi wei dao ye	民之为道也	10
+min zhu shi ye	民主视野	10
+min guo fa xue lun wen jing cui	民国法学论文精萃	9
+min jie zhi	敏捷之	9
+min shi cheng xu fa yan jiu	民事程序法研究	9
+min zhi cun	民治村	9
+min zhu dao	民主道	9
+min bao yu xin	民保于信	8
+min fu lu	民府路	8
+min hang bin guan	民航宾馆	8
+min he lu	民和路	8
+min jing lu	民京路	8
+min ning	旻宁	8
+min yong bao zha wu pin sheng chan xu ke shi shi ban fa	民用爆炸物品生产许可实施办法	8
+min yong ji chang dian ci huan jing bao hu gui ding	民用机场电磁环境保护规定	8
+min feng li	民丰里	7
+min hang lu	闵行路	7
+min quan gong yue ping zhu	民权公约评注	7
+min yong ji chang guan li zan xing gui ding	民用机场管理暂行规定	7
+min zhi cun wei	民治村委	7
+min he cun	民和村	6
+min shi bu ke huan ye	民事不可缓也	6
+min shi jian yi cheng xu yan jiu	民事简易程序研究	6
+min shi su song zhong jie	民事诉讼终结	6
+min yong bao zha wu pin jian she xiang mu yan shou guan li ban fa	民用爆炸物品建设项目验收管理办法	6
+min yong hang kong qi mao yi xie yi	民用航空器贸易协议	6
+min zhu zi jue quan	民主自决权	6
+min jia zhen	闵家镇	5
+min jiang jie	闽江街	5
+min jin cun	民进村	5
+min jing yi lu	民经一路	5
+min ke fu si ji bu deng shi	闵可夫斯基不等式	5
+min shang fa wen ti yan jiu yu shi yong	民商法问题研究与适用	5
+min shang shi an jian cai pan fang fa	民商事案件裁判方法	5
+min shi shen pan shou ce	民事审判手册	5
+min wang she qu	民旺社区	5
+min yu	鳘鱼	5
+min an yuan	民安园	4
+min fa tong ze ji pei tao gui ding xin shi xin jie	民法通则及配套规定新释新解	4
+min feng hu tong	民丰胡同	4
+min feng ni ya	民丰尼雅	4
+min fu yuan	民富园	4
+min guo ming ren su song an	民国名人诉讼案	4
+min wu ming he yi li	民物命何以立	4
+min zheng jie	民政街	4
+min zhu bei jie she qu	民主北街社区	4
+min zu jie dao	民族街道	4
+min an ju	民安居	3
+min ban fei qi ye dan wei deng ji guan li zan xing ban fa	民办非企业单位登记管理暂行办法	3
+min fa fa dian hua yan jiu	民法法典化研究	3
+min feng te zhi	民丰特纸	3
+min gai	敏盖	3
+min hang da yuan	民航大院	3
+min jiang shi ji guang chang	闽江世纪广场	3
+min sheng lu jie dao	民生路街道	3
+min shi shen pan jian yi cheng xu	民事审判简易程序	3
+min shi su song cheng xu gai ge bao gao	民事诉讼程序改革报告	3
+min shi wu xiao xing wei	民事无效行为	3
+min si wei xia yi	民斯为下矣	3
+min yi qiu zhi zhe ye	敏以求之者也	3
+min yong hang kong qi xiang ren yuan zhi zhao guan li gui ze	民用航空气象人员执照管理规则	3
+min yuan shen nu	民怨神怒	3
+min ban fei qi ye dan wei wen ti yan jiu	民办非企业单位问题研究	2
+min fa dian jie gou she ji bi jiao yan jiu	民法典结构设计比较研究	2
+min fa dian tan suo yu zhan wang	民法典探索与展望	2
+min fa min shi su song fa ji chu ke tang bi ji	民法民事诉讼法基础课堂笔记	2
+min feng	民丰	2
+min guo shi qi xi zang fa zhi yan jiu	民国时期西藏法制研究	2
+min hou lu	闽侯路	2
+min jian gu shi xuan kan	民间故事选刊	2
+min kang yao ye	民康药业	2
+min shang fa ci dian	民商法辞典	2
+min shi an jian you gui ding	民事案件由规定	2
+min shi bao quan cheng xu yan jiu	民事保全程序研究	2
+min shi jiu fen fa lv zhi shi shou ce	民事纠纷法律知识手册	2
+min shi qiang zhi zhi xing ji ben wen ti yan jiu	民事强制执行基本问题研究	2
+min shi qiang zhi zhi xing xin lun	民事强制执行新论	2
+min shi su song an li jing xi	民事诉讼案例精析	2
+min shi su song cheng xu gai ge re dian wen ti yan jiu	民事诉讼程序改革热点问题研究	2
+min shi zheng ju li fa qian yan wen ti yan jiu	民事证据立法前沿问题研究	2
+min ting le min pa	民听了民怕	2
+min wei bing she ye	民未病涉也	2
+min xiang yuan	民祥园	2
+min xin wu chang	民心无常	2
+min yan lu	民晏路	2
+min ying jing ji yu min shang fa lv zhi du chuang xin	民营经济与民商法律制度创新	2
+min yong bao po qi cai an quan sheng chan xu ke zheng shi shi ban fa	民用爆破器材安全生产许可证实施办法	2
+min yong hang kong fei xing qian pai yuan zhi zhao guan li gui ze	民用航空飞行签派员执照管理规则	2
+min yun jie	民运街	2
+min zhi xiang	民治乡	2
+min zhi yu ren ye	民之于仁也	2
+min zhu cun wei hui	民主村委会	2
+min zhu jie ju wei hui	民主街居委会	2
+min zhuang	民壮	2
+min zu shang wu jiu dian	民族商务酒店	2
+min an hu tong	民安胡同	1
+min bai mei hou	敏白眉猴	1
+min bu an zhen	民不安枕	1
+min chu li si wen ti de fa lv yu cai pan	民初立嗣问题的法律与裁判	1
+min da na gu luo	岷答那骨螺	1
+min dao si shi rong	岷岛司氏戎	1
+min dao yu jin cheng zhi	民到于今称之	1
+min dao yu jin shou qi ci	民到于今受其赐	1
+min dun	皿墩	1
+min dun er	皿墩儿	1
+min er hao gu	敏而好古	1
+min fa tong ze jing yao yu yi ju zhi yin	民法通则精要与依据指引	1
+min fu er fu ku shi	民富而府库实	1
+min fu yuan xi men	民富园西门	1
+min gei bo jie shi	敏给搏捷矢	1
+min hang qu xin zhuang zhen	闵行区莘庄镇	1
+min hua zuo yong	敏化作用	1
+min jian ji gou wei yuan hui	民间机构委员会	1
+min jiang dian pao chong	岷江碘泡虫	1
+min jie de ran liao	敏捷的染料	1
+min jie jing ling duan jian	敏捷精灵短剑	1
+min jie jing ling gong	敏捷精灵弓	1
+min jie mo fa tou kui	敏捷魔法头盔	1
+min jie shi qian shou	敏捷诗千首	1
+min jie xi dian yao shui	敏捷洗点药水	1
+min jie xiang lian	敏捷项链	1
+min jie zhi pai	敏捷纸牌	1
+min jie zhu fu	敏捷祝福	1
+min kun guo pin	民困国贫	1
+min lu jiao	敏鲈胶	1
+min luan si zhi	闵乱思治	1
+min mian ji ying	黾勉棘蝇	1
+min mo	民瘼	1
+min pi shi lao	民疲师老	1
+min qing mao jiao ji	闽清毛脚鸡	1
+min qing tu su	民情土俗	1
+min quan men li jiao qiao	民权门立交桥	1
+min sheng ge you suo le xi	民生各有所乐兮	1
+min sheng xiang	闽省巷	1
+min shi cai pan biao zhun gui fan	民事裁判标准规范	1
+min shi cheng xu fa lv tiao wen fu xi ji qiao	民事程序法律条文复习技巧	1
+min shi qiang zhi zhi xing xin shi ye	民事强制执行新视野	1
+min shi shen pan ji neng	民事审判技能	1
+min shi zheng ju gui ze ying yong	民事证据规则应用	1
+min wu de er cheng yan	民无得而称焉	1
+min wu jiao lei	民无噍类	1
+min xin bu yi	民心不一	1
+min xin ji tuan	闽信集团	1
+min xing chang xiao yao zhu	皿形长逍遥蛛	1
+min yi jie dao	民意街道	1
+min yi shi wei ben	民以食为本	1
+min yong bao zha wu pin jin chu kou guan li ban fa	民用爆炸物品进出口管理办法	1
+min yong hang kong you liao shi hang guan li gui ding	民用航空油料适航管理规定	1
+min yong jian zhu gong cheng shi nei huan jing wu ran kong zhi gui cheng	民用建筑工程室内环境污染控制规程	1
+min you cai se	民有菜色	1
+min yuan ying tu	民怨盈涂	1
+min zhu ju wei hui	民主居委会	1
+min zhuang nan li	闵庄南里	1
+min zu da xue she qu	民族大学社区	1

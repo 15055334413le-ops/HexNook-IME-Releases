@@ -1,0 +1,824 @@
+pao dao	跑到	216880
+pao mo	泡沫	204030
+pao le	跑了	140160
+pao qi	抛弃	121695
+pao che	跑车	100325
+pao pao	泡泡	87320
+pao qu	跑去	76610
+pao bu	跑步	66055
+pao guang	抛光	65410
+pao cai	泡菜	65243
+pao chu	抛出	62445
+pao kai	抛开	53240
+pao dan	炮弹	45905
+pao chu	跑出	45810
+pao pao	跑跑	45295
+pao lai	跑来	43700
+pao chu yi chang	抛出异常	40479
+pao dao	跑道	33355
+pao xiao	咆哮	32960
+pao tai	炮台	31860
+pao diao	跑调	31800
+pao de	跑得	31565
+pao qi le	抛弃了	31285
+pao bing	炮兵	29520
+pao zhi	炮制	29450
+pao shou	抛售	29295
+pao zai	泡在	28405
+pao huo	炮火	28260
+pao cha	泡茶	25925
+pao niu	泡妞	25735
+pao jin	跑进	25635
+pao ba	泡吧	22295
+pao guo lai	跑过来	21655
+pao guo	跑过	21550
+pao zhuan yin yu	抛砖引玉	20785
+pao de	跑的	20590
+pao zhen	疱疹	20260
+pao dian	泡点	19755
+pao dong	跑动	19705
+pao guo qu	跑过去	18910
+pao diao	跑掉	18535
+pao mo su liao	泡沫塑料	17765
+pao chu lai	跑出来	17575
+pao shang	跑上	16735
+pao de	泡的	16725
+pao ma	跑马	16000
+pao le	抛了	15210
+pao dao	抛到	15095
+pao zhe	跑着	14985
+pao mo jing ji	泡沫经济	14624
+pao mian	泡面	14615
+pao kai	跑开	14585
+pao hong	炮轰	14565
+pao le	泡了	13875
+pao ta	炮塔	13480
+pao ma deng	跑马灯	13175
+pao wen quan	泡温泉	13045
+pao lai pao qu	跑来跑去	12375
+pao bian	跑遍	12005
+pao ji	炮击	11875
+pao chu qu	抛出去	11850
+pao wu xian	抛物线	11160
+pao lu	跑路	10960
+pao pao long	泡泡龙	10880
+pao tui	跑腿	10860
+pao chu qu	跑出去	10825
+pao zao	泡澡	10740
+pao xiang	跑向	10480
+pao che	炮车	9999
+pao diao er	跑调儿	9999
+pao fen	跑分	9999
+pao fen er	跑分儿	9999
+pao ge	泡个	9999
+pao hu deng chang	袍笏登场	9999
+pao jian wai jiao	炮舰外交	9999
+pao jie	抛接	9999
+pao ma mai xie	跑马卖解	9999
+pao ma xie	跑马解	9999
+pao pian	跑偏	9999
+pao pian le	跑偏了	9999
+pao sa	抛洒	9999
+pao sha	跑啥	9999
+pao tang er	跑堂儿	9999
+pao wai	跑外	9999
+pao wu mian jing	抛物面镜	9999
+pao xia	抛下	9999
+pao xie ma	跑解马	9999
+pao you	炮友	9999
+pao mao	抛锚	9950
+pao wan	跑完	9935
+pao zai	跑在	9815
+pao zi	袍子	9705
+pao mo	泡馍	9585
+pao bu ji	跑步机	9470
+pao xiang	抛向	9355
+pao tang	泡汤	9305
+pao guang zhuan	抛光砖	9300
+pao shang	泡上	9100
+pao guang ji	抛光机	9095
+pao jiao	泡脚	9075
+pao de kuai	跑得快	8905
+pao ying	泡影	8695
+pao long tao	跑龙套	8680
+pao bu liao	跑不了	8460
+pao shui	泡水	8190
+pao sheng	炮声	7610
+pao qi lai	跑起来	7420
+pao xie	跑鞋	7310
+pao shou	炮手	6995
+pao ti	跑题	6685
+pao dao	泡到	6666
+pao mei	泡妹	6666
+pao dao shang	跑道上	6585
+pao pan	抛盘	6580
+pao tou lu mian	抛头露面	6350
+pao hao	泡好	6305
+pao wei	跑位	6270
+pao hui	炮灰	6245
+pao xiao zhe	咆哮着	6230
+pao diao	抛掉	6005
+pao teng pian	泡腾片	5835
+pao fu	泡芙	5780
+pao zhen bing du	疱疹病毒	5725
+pao fan	泡饭	5690
+pao que	抛却	5615
+pao bu diao	跑不掉	5575
+pao fang	炮房	5555
+pao na	跑哪	5555
+pao na er	跑哪儿	5555
+pao nan	跑男	5555
+pao quan	跑圈	5555
+pao quan er	跑圈儿	5555
+pao zhi	抛掷	5315
+pao mian	泡棉	5310
+pao jiao	泡椒	5285
+pao qu	抛去	5275
+pao guan yao guan	跑官要官	5205
+pao tang le	泡汤了	5200
+pao hui lai	跑回来	5195
+pao yi tang	跑一趟	4930
+pao zhi	泡制	4870
+pao san	跑散	4679
+pao tong	跑通	4678
+pao ye wu	跑业务	4550
+pao jue	炮决	4444
+pao zhe	泡着	4390
+pao ba	跑吧	4335
+pao ruan	泡软	4320
+pao ya	抛压	4295
+pao pao tang	泡泡糖	4290
+pao yuan	跑远	4245
+pao jin lai	跑进来	4175
+pao qi	抛起	4150
+pao kou	炮口	4030
+pao bu dong	跑不动	3995
+pao gen wen di	刨根问底	3920
+pao zai nao hou	抛在脑后	3915
+pao ti le	跑题了	3905
+pao ma chang	跑马场	3730
+pao tong	泡桐	3660
+pao jiu	泡酒	3640
+pao sa	抛撒	3625
+pao qiu	抛球	3530
+pao jie za shua	抛接杂耍	3333
+pao kai shi shi	抛开事实	3333
+pao kai shi shi bu tan	抛开事实不谈	3333
+pao lei	跑累	3333
+pao lei le	跑累了	3333
+pao tuan	跑团	3333
+pao zao de ren	泡澡的人	3333
+pao kai	泡开	3290
+pao zou	跑走	3290
+pao chang tu	跑长途	3085
+pao lou	炮楼	3080
+pao ma di	跑马地	3050
+pao hui	跑回	2908
+pao kong	抛空	2875
+pao zi	泡子	2875
+pao tang	跑堂	2870
+pao tou lu	抛头颅	2870
+pao guan	炮管	2815
+pao jian	炮舰	2810
+pao zi	狍子	2750
+pao pao yu	泡泡浴	2710
+pao zhu	炮竹	2695
+pao lai	抛来	2680
+pao de geng kuai	跑得更快	2670
+pao mei yan	抛媚眼	2670
+pao de bi	跑得比	2655
+pao jin	抛进	2640
+pao zhang	炮仗	2630
+pao bing tuan	炮兵团	2600
+pao qian pao hou	跑前跑后	2550
+pao she	抛射	2505
+pao de	泡得	2485
+pao shi	抛尸	2460
+pao tiao	跑跳	2425
+pao xia lai	跑下来	2415
+pao zhan	炮战	2390
+pao fu	袍服	2335
+pao shang lai	跑上来	2330
+pao chu	刨除	2317
+pao qu	刨去	2317
+pao tang de	跑堂的	2315
+pao zai shui li	泡在水里	2305
+pao jiu ba	泡酒吧	2290
+pao ting	炮艇	2245
+pao guang	跑光	2240
+pao li	抛离	2235
+pao ge hui	袍哥会	2222
+pao xiu qiu	抛绣球	2180
+pao mo ban	泡沫板	2075
+pao wei	炮位	2045
+pao xiao sheng	咆哮声	2020
+pao ding	庖丁	1975
+pao mo zhuang	泡沫状	1940
+pao mo cai liao	泡沫材料	1935
+pao ding jie niu	庖丁解牛	1925
+pao guang fen	抛光粉	1865
+pao yun shu	跑运输	1865
+pao de	抛得	1795
+pao bing zhen di	炮兵阵地	1785
+pao guan	跑官	1725
+pao teng	泡腾	1675
+pao tu	跑图	1670
+pao bing ying	炮兵营	1665
+pao wu mian	抛物面	1660
+pao xiao dao	咆哮道	1650
+pao tou	抛投	1635
+pao bing lian	炮兵连	1610
+pao xia qu	跑下去	1600
+pao bu chu	跑不出	1495
+pao guang ji	抛光剂	1460
+pao shang qian qu	跑上前去	1430
+pao xiao qi lai	咆哮起来	1410
+pao de	抛的	1385
+pao bing bu dui	炮兵部队	1375
+pao dui	炮队	1360
+pao yi hu	泡一壶	1360
+pao yan	炮眼	1345
+pao wang ba	泡网吧	1305
+pao zhuan	抛砖	1300
+pao luo	炮烙	1295
+pao kuai	跑快	1290
+pao qu kan	跑去看	1255
+pao da fen	泡打粉	1240
+pao bi luo chun	泡碧螺春	1180
+pao chu lai	抛出来	1180
+pao guo	泡过	1180
+pao guo lai	抛过来	1180
+pao long jing cha	泡龙井茶	1180
+pao ruan le	泡软了	1180
+pao huo lian tian	炮火连天	1155
+pao mo hong cha	泡沫红茶	1145
+pao du	跑毒	1111
+pao ge	跑个	1111
+pao gei	抛给	1111
+pao lian	炮连	1111
+pao tuan	炮团	1111
+pao xi	泡洗	1111
+pao xi gan jing	泡洗干净	1111
+pao xi shi	庖牺氏	1111
+pao yi	跑一	1111
+pao bei cha	泡杯茶	1045
+pao de man	跑得慢	1030
+pao wan ji	抛丸机	1020
+pao chang	跑场	1015
+pao di	刨地	1015
+pao huang	抛荒	999
+pao yuan chang	跑圆场	999
+pao le pao	跑了跑	987
+pao sheng long long	炮声隆隆	985
+pao hu cha	泡壶茶	980
+pao long jing	泡龙井	980
+pao mo mie huo qi	泡沫灭火器	970
+pao lei yuan	跑垒员	965
+pao yi hu cha	泡一壶茶	960
+pao pao bu	跑跑步	945
+pao pao ba	泡泡吧	930
+pao wan le	跑完了	893
+pao bu dao	跑不到	890
+pao ma deng xiao guo	跑马灯效果	882
+pao guang lun	抛光轮	875
+pao yi pao	跑一跑	870
+pao pao sha	泡泡纱	830
+pao su	跑速	815
+pao diu	跑丢	805
+pao jiang hu	跑江湖	795
+pao tou	泡透	770
+pao mo ji	泡沫剂	720
+pao pao tiao tiao	跑跑跳跳	710
+pao bing shi	炮兵师	695
+pao wu mian tian xian	抛物面天线	690
+pao tu	刨土	670
+pao jie	跑街	645
+pao keng	刨坑	645
+pao ma ji	跑马机	639
+pao ma zi	泡马子	635
+pao chu	抛储	625
+pao le ge mei yan	抛了个媚眼	620
+pao tong shu	泡桐树	620
+pao tang	炮膛	615
+pao bu dao	泡不到	610
+pao lei	跑垒	585
+pao dan bang	跑单帮	565
+pao gen	刨根	555
+pao wan qing li ji	抛丸清理机	540
+pao ze	袍泽	515
+pao biao	跑表	510
+pao mei mei	泡美眉	505
+pao bu zhe	跑步者	495
+pao han chuan	跑旱船	485
+pao zhi	炮炙	485
+pao xiao ru lei	咆哮如雷	480
+pao chu	抛除	470
+pao dan	跑单	459
+pao mo shi	泡沫式	420
+pao shi ji	抛石机	410
+pao hua jian	泡花碱	405
+pao yao	泡药	396
+pao sheng yi	跑生意	370
+pao yang	抛秧	369
+pao xia qu	抛下去	365
+pao de kuai	跑的快	353
+pao tan zi	泡坛子	350
+pao kai	刨开	346
+pao gen jiu di	刨根究底	335
+pao le ge bian	跑了个遍	335
+pao chu qu wan	跑出去玩	330
+pao shi	抛石	330
+pao ma tou	跑码头	315
+pao zuo	炮座	315
+pao ku	跑酷	301
+pao mo fa sheng qi	泡沫发生器	300
+pao shi	刨食	299
+pao shi er	刨食儿	299
+pao zi	炮子	290
+pao fan	跑反	285
+pao chu lai	泡出来	270
+pao du	跑肚	265
+pao pao ju le bu	泡泡俱乐部	250
+pao dan zhuan jia	炮弹专家	245
+pao she	抛舍	245
+pao mo qing xi ji	泡沫清洗剂	240
+pao wei	跑味	235
+pao dao wo men	跑到我们	230
+pao tong zi	炮筒子	225
+pao diao le	跑掉了	222
+pao diao le ma	跑掉了吗	222
+pao shuan	炮栓	210
+pao gong xiao	跑供销	200
+pao jiao mo yu zai	泡椒墨鱼仔	196
+pao bian quan guo	跑遍全国	195
+pao mian ya	泡面压	195
+pao cha he	泡茶喝	187
+pao jiao niu wa	泡椒牛蛙	187
+pao xiao hu	咆哮虎	184
+pao bing zhi hui xue yuan	炮兵指挥学院	180
+pao bu zou	跑步走	180
+pao cai wei	泡菜味	180
+pao tang rou	刨汤肉	180
+pao tui fei	跑腿费	180
+pao mian da dang	泡面搭档	179
+pao jiao tian ji	泡椒田鸡	178
+pao dian	跑电	175
+pao mai mai	跑买卖	175
+pao jiao niu rou	泡椒牛肉	174
+pao mian pai dang	泡面拍档	173
+pao ji jin men	炮击金门	167
+pao qin qi	跑亲戚	162
+pao cai yu	泡菜鱼	160
+pao tui er	跑腿儿	160
+pao bu jin chang	跑步进场	151
+pao xia lai	抛下来	150
+pao xiao zhe	咆哮者	150
+pao bu zi shi	跑步姿势	149
+pao zhi xue	炮制学	149
+pao ku you xi	跑酷游戏	147
+pao jian zheng ce	炮舰政策	145
+pao she ti	抛射体	145
+pao yi	炮衣	145
+pao fu lao shi	泡芙老师	142
+pao de xiang	跑得像	140
+pao ge wen quan	泡个温泉	140
+pao le bei cha	泡了杯茶	140
+pao pao a	跑跑啊	140
+pao pu ka	泡普卡	140
+pao she de	抛射的	140
+pao hu long	泡狐龙	136
+pao shan zhu	跑山猪	136
+pao dao zai	跑刀仔	133
+pao bing hao	泡病号	130
+pao cai guo	泡菜国	130
+pao chu	庖厨	128
+pao bu xie	跑步鞋	123
+pao gan	抛竿	123
+pao huo	抛货	123
+pao le pao	泡了泡	123
+pao tong	炮筒	123
+pao yi pao	泡一泡	123
+pao huo sheng	炮火声	121
+pao you gao	泡油糕	121
+pao hong jin men	炮轰金门	120
+pao mo xiao ying	泡沫效应	117
+pao ya zi	泡崖子	112
+pao bu	跑不	111
+pao diao le	跑调了	111
+pao diao le ma	跑调了吗	111
+pao fa	泡发	111
+pao jie	炮姐	111
+pao shang	跑商	111
+pao xiang	炮响	111
+pao ying	跑赢	111
+pao gen er	刨根儿	105
+pao mo gu	泡蘑菇	105
+pao wu liu	跑物流	104
+pao yi pao	抛一抛	104
+pao wang	泡网	103
+pao ma la song	跑马拉松	102
+pao xiao shi	咆哮式	102
+pao diao guang gao	跑调广告	101
+pao ba bai	跑八百	100
+pao ban tian	跑半天	100
+pao bao fang bian mian	泡包方便面	100
+pao bie de nv ren	泡别的女人	100
+pao bie ren de nv ren	泡别人的女人	100
+pao bing pai	跑冰排	100
+pao bing qun	炮兵群	100
+pao bing xue xiao	炮兵学校	100
+pao bu de shi hou	跑步的时候	100
+pao bu de su du	跑步的速度	100
+pao bu diao le	跑不掉了	100
+pao bu dong le	跑不动了	100
+pao bu guo	跑不过	100
+pao bu guo le	跑不过了	100
+pao bu ji lu	跑步记录	100
+pao bu kuai	跑不快	100
+pao bu liao de	跑不了的	100
+pao bu liao le	跑不了了	100
+pao bu liao miao	跑不了庙	100
+pao bu liao si	跑不了寺	100
+pao bu pao	跑不跑	100
+pao bu pao lu	跑不跑路	100
+pao bu pao lu a	跑不跑路啊	100
+pao bu pao lu ba	跑不跑路吧	100
+pao bu pao lu la	跑不跑路啦	100
+pao bu pao lu lou	跑不跑路喽	100
+pao bu pao lu ma	跑不跑路吗	100
+pao bu pao lu o	跑不跑路哦	100
+pao bu pao lu wa	跑不跑路哇	100
+pao bu pao lu ya	跑不跑路呀	100
+pao bu qi lai	跑不起来	100
+pao bu qu	跑步去	100
+pao bu qu le	跑步去了	100
+pao bu su du	跑步速度	100
+pao bu tao li	抛补套利	100
+pao bu xiao lv	跑步效率	100
+pao bu yu jia	跑步瑜伽	100
+pao cai mei	泡菜妹	100
+pao cai you xi	泡菜游戏	100
+pao che xi lie	跑车系列	100
+pao chu cuo wu	抛出错误	100
+pao chu jia su du	跑出加速度	100
+pao chu lai	刨出来	100
+pao chu lai le	抛出来了	100
+pao chu lai le	跑出来了	100
+pao chu le	抛出了	100
+pao chu le gan lan zhi	抛出了橄榄枝	100
+pao cuo di fang	跑错地方	100
+pao dan gong ji	炮弹攻击	100
+pao dan hong zha	炮弹轰炸	100
+pao dan ke	炮弹壳	100
+pao dan keng	炮弹坑	100
+pao dan xi ji	炮弹袭击	100
+pao dao chang du	跑道长度	100
+pao dao shen me di fang	跑到什么地方	100
+pao dao xue xiao	跑到学校	100
+pao de bi jiao kuai	跑得比较快	100
+pao de bi jiao man	跑得比较慢	100
+pao de bi shei dou kuai	跑得比谁都快	100
+pao de bi shui dou kuai	跑得比谁都快	100
+pao de bi tu zi hai kuai	跑得比兔子还快	100
+pao de bu kuai	跑得不快	100
+pao de cha	泡的茶	100
+pao de cha ye	泡的茶叶	100
+pao de diao	跑得掉	100
+pao de dong	跑得动	100
+pao de dong	跑的动	100
+pao de duo	跑得多	100
+pao de fei chang kuai	跑得非常快	100
+pao de fei kuai	跑得飞快	100
+pao de geng yuan	跑得更远	100
+pao de guo	跑得过	100
+pao de hao	跑得好	100
+pao de hen kuai	跑得很快	100
+pao de hen man	跑得很慢	100
+pao de liao	跑得了	100
+pao de liao he shang	跑得了和尚	100
+pao de liao he shang pao bu liao miao	跑得了和尚跑不了庙	100
+pao de pao	跑的跑	100
+pao de tai kuai	跑得太快	100
+pao de tai man	跑得太慢	100
+pao de yuan	跑得远	100
+pao de zai kuai	跑得再快	100
+pao de zei kuai	跑的贼快	100
+pao de zhen kuai	跑得真快	100
+pao de zui kuai	跑得最快	100
+pao di di a	跑滴滴啊	100
+pao di di qu	跑滴滴去	100
+pao di tu	跑地图	100
+pao dong pao xi	跑东跑西	100
+pao dong su du	跑动速度	100
+pao dou bu gan pao	跑都不敢跑	100
+pao dou pao bu diao	跑都跑不掉	100
+pao dou pao bu liao	跑都跑不了	100
+pao duan le tui	跑断了腿	100
+pao er ju	炮儿局	100
+pao fa lv	泡发率	100
+pao fang bian mian	泡方便面	100
+pao fen chu lai le	跑分出来了	100
+pao fen jie guo	跑分结果	100
+pao feng peng long	炮凤烹龙	100
+pao ge jiao ben	跑个脚本	100
+pao ge qi jia	抛戈弃甲	100
+pao ge ti	跑个题	100
+pao ge xie jia	抛戈卸甲	100
+pao gong di	跑工地	100
+pao gou qi	泡枸杞	100
+pao guan xi	跑关系	100
+pao guang bu	抛光布	100
+pao guang pian	抛光片	100
+pao guo qu yi kan	跑过去一看	100
+pao huang di	抛荒地	100
+pao hui ni xi shou ce	炮灰逆袭手册	100
+pao hui qu	跑回去	100
+pao hui su she	跑回宿舍	100
+pao huo xuan tian	炮火喧天	100
+pao jia she ye	抛家舍业	100
+pao jia shi ye	抛家失业	100
+pao jiao yu tou	泡椒鱼头	100
+pao jiao zhi bo	泡椒直播	100
+pao jiao zhu shou	泡椒助手	100
+pao ka fei	泡咖啡	100
+pao kai le	抛开了	100
+pao ku di tu	跑酷地图	100
+pao lai gan ma	跑来干嘛	100
+pao lai pao qu	抛来抛去	100
+pao lai zhao	跑来找	100
+pao lai zhao ni	跑来找你	100
+pao lai zhao ta	跑来找他	100
+pao lai zhao wo	跑来找我	100
+pao le cha	泡了茶	100
+pao le chu lai	跑了出来	100
+pao le ge	抛了个	100
+pao le ge yan se	抛了个眼色	100
+pao le guo lai	跑了过来	100
+pao le guo qu	跑了过去	100
+pao le he shang	跑了和尚	100
+pao le he shang pao bu liao si	跑了和尚跑不了寺	100
+pao le ma	跑了吗	100
+pao le qi lai	跑了起来	100
+pao le tang	泡了汤	100
+pao le yi ci	跑了一次	100
+pao le yi quan	跑了一圈	100
+pao le yi tang	跑了一趟	100
+pao le yi tian	跑了一天	100
+pao li jing	泡立净	100
+pao long jie	炮龙节	100
+pao long peng feng	炮龙烹凤	100
+pao long tao de	跑龙套的	100
+pao lu ba	跑路吧	100
+pao lu bu	跑路不	100
+pao lu la	跑路啦	100
+pao lu le	跑路了	100
+pao lu le ba	跑路了吧	100
+pao lu le ma	跑路了吗	100
+pao lu ya	跑路呀	100
+pao lu yun	跑路云	100
+pao lun tan	泡论坛	100
+pao luo bo	泡萝卜	100
+pao luo zhi xing	炮烙之刑	100
+pao ma guan hua	跑马观花	100
+pao ma quan di	跑马圈地	100
+pao ma shan	跑马山	100
+pao ma ting	跑马厅	100
+pao mao ji	刨毛机	100
+pao mei mei	泡妹妹	100
+pao mei ying	跑没影	100
+pao men chuan men	跑门串门	100
+pao mi fan	泡米饭	100
+pao mian ge	泡面哥	100
+pao mian jie	泡面姐	100
+pao mian shi chang	泡面市场	100
+pao mian zhe xue	泡面哲学	100
+pao mo di dian	泡沫地垫	100
+pao mo dong jing	泡沫冬景	100
+pao mo fa jiao	泡沫发胶	100
+pao mo li shu	泡沫栗鼠	100
+pao mo mie huo xi tong	泡沫灭火系统	100
+pao mo mu ju	泡沫模具	100
+pao mo xiang jiao	泡沫橡胶	100
+pao mo zhi xia	泡沫之夏	100
+pao na er le	跑哪儿了	100
+pao na er qu le	跑哪儿去了	100
+pao na le	跑哪了	100
+pao na li qu le	跑哪里去了	100
+pao na me yuan	跑那么远	100
+pao na qu le	跑哪去了	100
+pao nan lai le	跑男来了	100
+pao nan zhi yu le tian wang	跑男之娱乐天王	100
+pao niu er	泡妞儿	100
+pao nv ren	泡女人	100
+pao pao cai	抛抛蔡	100
+pao pao dao	泡泡岛	100
+pao pao jiang bing ren	跑跑姜饼人	100
+pao pao jiao	泡泡脚	100
+pao pao ka ding che	跑跑卡丁车	100
+pao pao kou xiang tang	泡泡口香糖	100
+pao pao qiu zhen zhu nai cha hong dou kou wei	泡泡球珍珠奶茶红豆口味	100
+pao pao qiu zhen zhu nai cha yuan wei	泡泡球珍珠奶茶原味	100
+pao pao quan	泡泡圈	100
+pao pao quan tian tian quan dan gao	泡泡圈甜甜圈蛋糕	100
+pao pao tang	泡泡堂	100
+pao pao wa	泡泡袜	100
+pao pao xia	泡泡虾	100
+pao pao yu lu	泡泡浴露	100
+pao qi bie zi	抛妻别子	100
+pao qi chuan tong	抛弃传统	100
+pao qi lai	抛起来	100
+pao qi lai	泡起来	100
+pao qi le yi qie	抛弃了一切	100
+pao qi qi zi	抛妻弃子	100
+pao quan cheng	跑全程	100
+pao quan shui	泡泉水	100
+pao ren jia zu fen	刨人家祖坟	100
+pao ren zu fen	刨人祖坟	100
+pao shang pao xia	跑上跑下	100
+pao she dao dan	炮射导弹	100
+pao she wu	抛射物	100
+pao shen er	跑神儿	100
+pao shen me	跑什么	100
+pao shi an	抛尸案	100
+pao shi di dian	抛尸地点	100
+pao shi lu gu	抛尸露骨	100
+pao shi quan	跑十圈	100
+pao shui he	泡水喝	100
+pao tai zi	跑台子	100
+pao tang er de	跑堂儿的	100
+pao tang yan	刨汤宴	100
+pao tou de shou	抛投得手	100
+pao tu le	跑吐了	100
+pao tuan bang	跑团邦	100
+pao tui de	跑腿的	100
+pao wan tu	跑完图	100
+pao wan zhi hou	跑完之后	100
+pao wei er	跑味儿	100
+pao wu jin si	炮五进四	100
+pao xia mao	抛下锚	100
+pao xiang li jing	抛乡离井	100
+pao xiao de	咆哮的	100
+pao xiao gong tang	咆哮公堂	100
+pao xiao shan zhuang	咆哮山庄	100
+pao xiao ti	咆哮体	100
+pao xing bao chong bing	泡型包虫病	100
+pao xuan chuan	跑宣传	100
+pao yi chang	抛异常	100
+pao yi dai	泡一袋	100
+pao yi dai fang bian mian	泡一袋方便面	100
+pao yi pao bu	跑一跑步	100
+pao yi quan	跑一圈	100
+pao yi quan er	跑一圈儿	100
+pao yi wan nong cha	泡一碗浓茶	100
+pao yi xia	跑一下	100
+pao yin hang	跑银行	100
+pao ying hang ye	跑赢行业	100
+pao ying kong hua	泡影空花	100
+pao ying le da pan	跑赢了大盘	100
+pao you ku ye	匏有苦叶	100
+pao yuan le	跑远了	100
+pao zao pao zao	泡澡泡澡	100
+pao zao zao	泡澡澡	100
+pao ze zhi qing	袍泽之情	100
+pao ze zhi yi	袍泽之义	100
+pao ze zhi yi	袍泽之谊	100
+pao zhao ta	泡罩塔	100
+pao zhe chi	泡着吃	100
+pao zhe he	泡着喝	100
+pao zhe me yuan	跑这么远	100
+pao zhe pao zhe	跑着跑着	100
+pao zhe wen quan	泡着温泉	100
+pao zhe yi tang	跑这一趟	100
+pao zhen di	炮阵地	100
+pao zhi hua cha	炮制花茶	100
+pao zhi nao hou	抛之脑后	100
+pao zhong gu	抛忠骨	100
+pao zhu nao hou	抛诸脑后	100
+pao zhu tang	刨猪汤	100
+pao mao di lou	跑冒滴漏	99
+pao pao dian dian	跑跑颠颠	99
+pao dai	袍带	96
+pao le ge zao	泡了个澡	95
+pao zhen xing yan xia yan	疱疹性咽峡炎	92
+pao dao xian	跑道线	90
+pao jing bao	跑警报	90
+pao da	炮打	89
+pao cai niu du si	泡菜牛肚丝	85
+pao chu chuang wai	抛出窗外	80
+pao guo	抛锅	77
+pao shang qu	跑上去	76
+pao yi bian	跑一遍	75
+pao zhe ne	泡着呢	75
+pao pao you gao	泡泡油糕	74
+pao yi tian	跑一天	74
+pao kai le	跑开了	73
+pao bu kai	跑不开	65
+pao zhang	跑账	65
+pao da si ling bu	炮打司令部	64
+pao dai	庖代	60
+pao de dao	跑得到	60
+pao pao zou zou	跑跑走走	60
+pao bu liao	泡不了	50
+pao chong	炮铳	45
+pao ma sai	跑马赛	45
+pao er you gao	泡儿油糕	40
+pao xiao ge	咆哮哥	37
+pao zhe ne	跑着呢	35
+pao xi	跑犀	34
+pao shou	跑手	32
+pao tong shu jie	泡桐树街	32
+pao le he shang pao bu liao miao	跑了和尚跑不了庙	28
+pao ti yun dong	抛体运动	27
+pao po	跑坡	25
+pao zu fen	刨祖坟	25
+pao jiang	炮姜	24
+pao li bu xiang rong yuan li	泡利不相容原理	21
+pao she yun dong	抛射运动	20
+pao bu qi	跑步器	18
+pao chang xiao qu	炮厂小区	16
+pao jiao fei chang	泡椒肥肠	16
+pao tai cun	炮台村	16
+pao de bi	泡得比	15
+pao ju	炮局	15
+pao ju hu tong	炮局胡同	15
+pao yi hui er	跑一会儿	15
+pao zhuan yin yu zhi ji	抛砖引玉之计	15
+pao chang xi xiao qu	炮厂西小区	13
+pao pao ya	泡泡鸭	13
+pao bu tong	跑不通	12
+pao chu qu	刨出去	12
+pao lian	炮炼	11
+pao xiao sheng	跑校生	11
+pao wu xian de zhou	抛物线的轴	10
+pao zi er	炮子儿	10
+pao cai wei ji	泡菜危机	9
+pao da deng	炮打灯	9
+pao zhu gun yu	抛珠滚玉	8
+pao jiao zhu gan	泡椒猪肝	7
+pao jiao huang la ding	泡椒黄辣丁	6
+pao mo shan hu	泡沫珊瑚	6
+pao she ji	抛射剂	6
+pao xiao wan li chu long men	咆哮万里触龙门	6
+pao jiao he man	泡椒河鳗	5
+pao kong	跑空	5
+pao li xiang	袍里乡	5
+pao zui man	跑最慢	5
+pao diao yi guan ru fen rang	抛掉一官如粪壤	4
+pao guang gao	抛光膏	4
+pao tuan dong zu miao zu xiang	炮团侗族苗族乡	4
+pao cai chao rou mo	泡菜炒肉末	3
+pao cai rou mo	泡菜肉末	3
+pao gen wa di	刨根挖底	3
+pao huo	刨活	3
+pao huo er	刨活儿	3
+pao jiao ji pian	泡椒鸡片	3
+pao jiao ru ge	泡椒乳鸽	3
+pao liang xiang	炮梁乡	3
+pao lv cai hua	泡绿菜花	3
+pao teng beng jie ji	泡腾崩解剂	3
+pao cai e chang	泡菜鹅肠	2
+pao dan xiu ke	炮弹休克	2
+pao ge	袍哥	2
+pao gua	匏瓜	2
+pao huo	泡货	2
+pao ma gang	跑马岗	2
+pao mo chan	泡沫蝉	2
+pao mo shan hu ya mu	泡沫珊瑚亚目	2
+pao nang	泡囊	2
+pao shu sou gen	刨树搜根	2
+pao tai shan gong yuan	炮台山公园	2
+pao xiao chu	咆哮出	2
+pao zi ji	狍子脊	2
+pao zui kuai	跑最快	2
+pao bing dui de xin de	炮兵队的心得	1
+pao cai dou fu bao	泡菜豆腐煲	1
+pao cai jiao	泡菜饺	1
+pao dao	跑刀	1
+pao ge	炮格	1
+pao gua kong xuan	匏瓜空悬	1
+pao gua tu xuan	匏瓜徒悬	1
+pao jiao xiang luo pian	泡椒响螺片	1
+pao jiao zheng shui yu	泡椒蒸水鱼	1
+pao jin qi gu	抛金弃鼓	1
+pao lai ji yu	泡莱鲫鱼	1
+pao luan chai feng	抛鸾拆凤	1
+pao mo nei gou shan hu shu	泡沫内沟珊瑚属	1
+pao mo shan hu shu	泡沫珊瑚属	1
+pao mo xiao chao	泡馍小炒	1
+pao mo zhu shan hu shu	泡沫柱珊瑚属	1
+pao niang	炮娘	1
+pao pao tong	泡泡通	1
+pao qi bu gu	脬气不固	1
+pao qi qi hai	抛妻弃孩	1
+pao qi qi jia	抛旗弃甲	1
+pao san shi	炮三士	1
+pao shang	跑墒	1
+pao sheng xuan qiao	抛声炫俏	1
+pao sheng xuan qiao	抛声衒俏	1
+pao xi	庖牺	1
+pao xing zhi ma bao luo	泡形芝麻宝螺	1
+pao zhe	跑者	1
+pao zhen xing jie mo yan	疱疹性结膜炎	1
+pao zhen xing nao mo yan	疱疹性脑膜炎	1
+pao zhen yang pi yan	疱疹样皮炎	1
+pao zhuan yin yu ji	抛砖引玉计	1

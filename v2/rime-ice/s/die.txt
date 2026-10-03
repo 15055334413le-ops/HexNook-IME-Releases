@@ -1,0 +1,347 @@
+die dai	迭代	67601
+die jia	叠加	53110
+die fu	跌幅	48950
+die dao	跌倒	45130
+die luo	跌落	39550
+die die	爹爹	34445
+die pian	碟片	33690
+die po	跌破	33625
+die zhi	跌至	31360
+die dai qi	迭代器	29397
+die jia	跌价	24535
+die dao	跌到	21925
+die fa	蝶阀	20645
+die ting	跌停	19595
+die niang	爹娘	18865
+die die bu xiu	喋喋不休	17635
+die die zhuang zhuang	跌跌撞撞	17270
+die wu	蝶舞	16060
+die ru	跌入	15695
+die zi	碟子	15045
+die dang qi fu	跌宕起伏	14110
+die shi	跌势	13655
+die lian hua	蝶恋花	11685
+die de	跌的	11165
+die ma	爹妈	10125
+die di	爹地	9999
+die fen	跌份	9999
+die he	叠合	9999
+die ji	碟机	9999
+die man	叠满	9999
+die wei	爹味	9999
+die wei er	爹味儿	9999
+die dang	跌宕	8840
+die zuo	跌坐	8160
+die chu	迭出	8010
+die xia	跌下	7110
+die jin	跌进	6930
+die ke lian	楪可怜	6666
+die da sun shang	跌打损伤	6165
+die qi	迭起	5850
+die de	跌得	5695
+die yong	蝶泳	5665
+die fang	叠放	5310
+die le	跌了	5300
+die zai	跌在	5090
+die xie	喋血	4860
+die xue	喋血	4860
+die yi	蝶衣	4660
+die ci	叠词	4568
+die bao	谍报	4530
+die chu	跌出	4490
+die ceng	叠层	4440
+die hao	叠好	4385
+die ting ban	跌停板	3920
+die zhang	叠嶂	3905
+die cheng	叠成	3815
+die po le	跌破了	3635
+die yin	叠印	3520
+die shi	叠石	3495
+die hen	爹很	3333
+die cai shan	叠彩山	3310
+die xing	蝶形	2965
+die xia lai	跌下来	2875
+die lian	蝶恋	2845
+die die	叠叠	2695
+die shang	跌伤	2490
+die xing	碟形	2310
+die dai qi mo shi	迭代器模式	2255
+die bei	叠被	2222
+die er	碟儿	2222
+die po yan jing	跌破眼镜	2150
+die cai	叠彩	1955
+die xia qu	跌下去	1795
+die chuan	跌穿	1775
+die jiao	跌跤	1735
+die qi lai	叠起来	1710
+die shui	跌水	1700
+die zi	叠字	1645
+die zhi	叠置	1625
+die ying	谍影	1570
+die yun	叠韵	1505
+die ying	蝶影	1430
+die shi	蝶式	1355
+die luo han	叠罗汉	1340
+die dai fa	迭代法	1279
+die bu	迭部	1220
+die pian	叠片	1115
+die can	跌惨	1111
+die can le	跌惨了	1111
+die zhan	谍战	1111
+die zhan ju	谍战剧	1111
+die cui	叠翠	999
+die die	喋喋	985
+die le	叠了	945
+die le qi lai	叠了起来	940
+die luo zhi	跌落至	900
+die dai qi shi xiao	迭代器失效	870
+die bao ren yuan	谍报人员	845
+die ying chong chong	谍影重重	765
+die shan qu	蝶山区	735
+die cai qu	叠彩区	680
+die zu	跌足	675
+die jia yuan li	叠加原理	610
+die bu xian	迭部县	605
+die lei	蝶类	600
+die gu	蝶骨	565
+die dan	叠氮	560
+die xie	蹀躞	505
+die shan	蝶山	490
+die pian shu	碟片数	430
+die chuang jia wu	叠床架屋	403
+die ci	迭次	380
+die zhang	跌涨	370
+die zhao	谍照	366
+die dai jia shen sou suo	迭代加深搜索	339
+die duo zhang shao	跌多涨少	310
+die dai jia shen	迭代加深	306
+die gen tou	跌跟头	300
+die xing luo mu	蝶形螺母	285
+die ling	叠岭	275
+die dai shi	迭代式	270
+die fa chang	蝶阀厂	270
+die lan	蝶兰	230
+die liang	叠梁	230
+die yong	蝶蛹	210
+die jia quan	叠加券	179
+die yi die	叠一叠	171
+die zhi du	蝶之毒	156
+die luo shen tan	跌落神坛	150
+die dai sou suo	迭代搜索	136
+die xing hua	蝶形花	135
+die bu die	跌不跌	131
+die ma zai	叠码仔	130
+die jia	叠甲	124
+die zi fu hao	叠字符号	124
+die you hui	碟友会	119
+die bian	蝶变	111
+die chao	跌超	111
+die er	蝶儿	111
+die jin	跌近	111
+die yu	跌逾	111
+die jian	鲽鹣	105
+die bao ji	叠暴击	100
+die bao yuan	谍报员	100
+die ceng shi	叠层石	100
+die ceng yan	叠层岩	100
+die chu bu qiong	叠出不穷	100
+die chu die ru	迭出迭入	100
+die chu lai	叠出来	100
+die chu qu	叠出去	100
+die da yao	跌打药	100
+die dai bian liang	迭代变量	100
+die dai su du	迭代速度	100
+die dan ben	叠氮苯	100
+die dan hua an	叠氮化铵	100
+die dan hua dian	叠氮化碘	100
+die dan hua jia	叠氮化钾	100
+die dan hua na	叠氮化钠	100
+die dan hua qian	叠氮化铅	100
+die dan hua yin	叠氮化银	100
+die dang bu ji	跌宕不羁	100
+die dang bu ji	跌荡不羁	100
+die dang fang yan	跌荡放言	100
+die dang feng liu	跌宕风流	100
+die dang zhao zhang	跌宕昭彰	100
+die dao de di fang	跌倒的地方	100
+die dao duo shao	跌到多少	100
+die dao gu di	跌到谷底	100
+die dao le	跌倒了	100
+die dao le gu di	跌到了谷底	100
+die dao le jiu	跌倒了就	100
+die dao le jiu yao	跌倒了就要	100
+die dao zai di	跌倒在地	100
+die de duo	跌得多	100
+die di bao bei	爹地宝贝	100
+die di ma mi	爹地妈咪	100
+die die bu yi	喋喋不已	100
+die die die die	爹爹爹爹	100
+die die kan	叠叠看	100
+die die le	叠叠乐	100
+die die niang niang	爹爹娘娘	100
+die die qiang qiang	跌跌跄跄	100
+die dui die	谍对谍	100
+die er lian san	叠二连三	100
+die fa xi lie	蝶阀系列	100
+die fei xi lie	碟飞系列	100
+die fen feng huang	蝶粉蜂黄	100
+die fu yi shen	跌幅已深	100
+die ge qian zhi he	叠个千纸鹤	100
+die gong su	叠攻速	100
+die hen ai shang	爹很爱上	100
+die hen xi huan	爹很喜欢	100
+die hui qu	跌回去	100
+die jia tai	叠加态	100
+die jian ceng chu	叠见层出	100
+die jian za chu	迭见杂出	100
+die jiao chui xiong	跌脚捶胸	100
+die jie meng meng	蝶结萌虻	100
+die jin lai	跌进来	100
+die jin qu	跌进去	100
+die jing cai yi	蝶精彩依	100
+die kuang feng luan	蝶狂蜂乱	100
+die lai die qu	叠来叠去	100
+die lai die qu	跌来跌去	100
+die lang feng kuang	蝶浪蜂狂	100
+die le bu shao	跌了不少	100
+die le yi jiao	跌了一跤	100
+die li die xie	蹀里蹀斜	100
+die luan feng kuang	蝶乱蜂狂	100
+die luo bao xian	跌落保险	100
+die luo ce shi	跌落测试	100
+die luo chen ai	跌落尘埃	100
+die luo de ren tou	跌落的人头	100
+die luo di gu	跌落低谷	100
+die luo fan chen	跌落凡尘	100
+die luo fan jian	跌落凡间	100
+die luo gao du	跌落高度	100
+die luo gu di	跌落谷底	100
+die luo le	跌落了	100
+die luo le shen tan	跌落了神坛	100
+die luo shan ya	跌落山崖	100
+die luo shen yuan	跌落深渊	100
+die luo shi	跌落式	100
+die luo shi rong duan qi	跌落式熔断器	100
+die luo shi yan	跌落试验	100
+die luo shi yan ji	跌落试验机	100
+die luo shi yan tai	跌落试验台	100
+die luo xuan ya	跌落悬崖	100
+die po fa xing jia	跌破发行价	100
+die po le yan jing	跌破了眼镜	100
+die qun	蝶群	100
+die ru le	跌入了	100
+die ru le gu di	跌入了谷底	100
+die sha ren shu	叠杀人书	100
+die shi feng mei	蝶使蜂媒	100
+die shi jian pan	蝶式键盘	100
+die si wa	跌丝袜	100
+die ting le dou	跌停了都	100
+die xia le	跌下了	100
+die xia le shen tan	跌下了神坛	100
+die xian qian zhuan	碟仙前传	100
+die xie chang jiang	喋血长江	100
+die xing hua guan	蝶形花冠	100
+die xing mu	鲽形目	100
+die xing tan huang	碟形弹簧	100
+die xue chang jiang	喋血长江	100
+die yan die yu	爹言爹语	100
+die yan jing	跌眼镜	100
+die yi fu	叠衣服	100
+die ying xing dong	谍影行动	100
+die you fa xian	迭有发现	100
+die you jia ji	迭有佳绩	100
+die you zhan huo	迭有斩获	100
+die yuan bao	叠元宝	100
+die zai shui zhong	跌在水中	100
+die zai yi chu	叠在一处	100
+die zhang ceng luan	叠嶂层峦	100
+die zhi ai shang	爹之哀伤	100
+die zhi gu di	跌至谷底	100
+die zhong die	碟中谍	100
+die zhong mo jian	叠踵摩肩	100
+die zu chui xiong	跌足捶胸	100
+die dang you zhi	跌宕有致	95
+die fen er	跌份儿	95
+die hui lai	跌回来	92
+die dan na	叠氮钠	90
+die die ceng ceng	叠叠层层	90
+die dan hua wu	叠氮化物	85
+die feng	跌风	85
+die lian	迭连	70
+die bu xia qu	跌不下去	64
+die da gun pa	跌打滚爬	60
+die dai han shu	迭代函数	60
+die lou	堞楼	55
+die de xiang	叠得像	50
+die xing ling dai	蝶形领带	45
+die dai gai jin	迭代改进	43
+die cai feng ling	叠彩峰岭	35
+die da wan	跌打丸	33
+die die pa pa	跌跌爬爬	33
+die die peng peng	跌跌碰碰	30
+die kou	堞口	30
+die die chong chong	跌跌冲冲	28
+die dou	蝶窦	22
+die pian jie gou	迭片结构	20
+die nan	叠南	18
+die pian guo lv qi	叠片过滤器	18
+die ying chong chong zhi shang hai	谍影重重之上海	16
+die dai zhi	迭代值	15
+die de bi	跌得比	15
+die die ban ban	跌跌绊绊	13
+die shi wei shan	叠石为山	13
+die da wan hua you	跌打万花油	11
+die fei hua wu	蝶飞花舞	8
+die jia fa	叠加法	8
+die shan zhen	叠山镇	8
+die xing	碟型	8
+die ying wei qing	叠影危情	8
+die an	蝶鞍	7
+die da yao jiu	跌打药酒	7
+die dai xing	迭代形	5
+die du	牒牍	5
+die duo	蹀踱	5
+die han shu	迭函数	5
+die luan	蝶卵	5
+die wei bin zhu	迭为宾主	5
+die wen	牒文	5
+die yong sai	蝶泳赛	5
+die die gun gun	跌跌滚滚	4
+die da hong yao pian	跌打红药片	3
+die cai lu	叠彩路	2
+die dang ke	螲蟷科	2
+die dao fa zuo	跌倒发作	2
+die hua zhuang sheng	蝶化庄生	2
+die ying mi hun	谍影迷魂	2
+die da feng shi yao jiu	跌打风湿药酒	1
+die da sheng gu ke li	跌打生骨颗粒	1
+die da sun shang wan	跌打损伤丸	1
+die da zhi tong ye	跌打止痛液	1
+die dang	螲蟷	1
+die dang bu ju	跌宕不拘	1
+die dang fang yan	跌宕放言	1
+die dang qiu li	跌宕遒丽	1
+die fei er	蝶飞儿	1
+die ge	迭戈	1
+die he fa	迭合法	1
+die hua bai he	蝶花百合	1
+die hua zhuang zhou	蝶化庄周	1
+die jian ceng chu	迭见层出	1
+die jian za chu	叠见杂出	1
+die jiao ban shou	跌脚绊手	1
+die ju chong gui	叠矩重规	1
+die ju chong gui	迭矩重规	1
+die ke ceng deng	跌磕蹭蹬	1
+die li jian bei	鲽离鹣背	1
+die lian feng kuang	蝶恋蜂狂	1
+die ling ceng luan	叠岭层峦	1
+die qi shi zhu yin jiao guan	蝶栖石竹银交关	1
+die rao xiu yi hua	蝶绕绣衣花	1
+die shan lu	迭山路	1
+die wa	叠瓦	1
+die wei mo long jing	蝶尾墨龙睛	1
+die xie bu xia	蹀躞不下	1
+die yang mai	跌阳脉	1
+die yi ying qing	蝶意莺情	1
+die yuan qiong qi	蝶怨蛩凄	1
+die zhang ceng luan	迭嶂层峦	1

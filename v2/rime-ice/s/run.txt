@@ -1,0 +1,125 @@
+run hua you	润滑油	102370
+run hua	润滑	98065
+run hua ji	润滑剂	49215
+run ze	润泽	32055
+run hua zhi	润滑脂	22845
+run fu	润肤	21735
+run fei	润肺	21520
+run chang	润肠	12700
+run shi	润湿	11800
+run fa	润发	10985
+run zao	润燥	10230
+run miao	闰秒	9999
+run tu	闰土	9999
+run xue	润学	9999
+run se	润色	9965
+run chun gao	润唇膏	9260
+run fu lu	润肤露	7955
+run wu xi wu sheng	润物细无声	7090
+run ming	润明	6831
+run hua ye	润滑液	6295
+run fu shuang	润肤霜	5530
+run da	润达	5250
+run hou	润喉	4850
+run sheng	润生	4775
+run yue	闰月	4680
+run wu	润物	4625
+run hua xi tong	润滑系统	4605
+run ge	润格	4235
+run nian	闰年	4115
+run hua xing	润滑性	3780
+run run	润润	3685
+run zhi	润之	3430
+run shi	润饰	2935
+run ye	润叶	2760
+run fu ru	润肤乳	2695
+run hua zuo yong	润滑作用	2625
+run xia	润霞	2425
+run hua you zhi	润滑油脂	1715
+run chun	润唇	1680
+run shi ji	润湿剂	1510
+run fu you	润肤油	1390
+run hua xing neng	润滑性能	1375
+run yang da qiao	润扬大桥	1290
+run bi	润笔	1215
+run wu xi sheng	润物稀声	1180
+run shi xing	润湿性	1165
+run hou pian	润喉片	1135
+run ma	润吗	1111
+run hua she bei	润滑设备	875
+run dong	润东	835
+run hua you beng	润滑油泵	835
+run fu gao	润肤膏	690
+run hua you chang	润滑油厂	685
+run hou tang	润喉糖	660
+run chang tong bian	润肠通便	527
+run ying	润英	520
+run si	润丝	515
+run san yue	闰三月	470
+run shen	润身	450
+run fei zhi ke	润肺止咳	394
+run si jing	润丝精	380
+run hua wu	润滑物	145
+run xi	润喜	145
+run ri	闰日	135
+run ze yuan	润泽苑	132
+run yi run	润一润	128
+run yuan li	润园里	124
+run zhou qu	润州区	124
+run le run	润了润	123
+run he cai liao	润禾材料	117
+run dao	润到	111
+run ze yue xi	润泽悦溪	110
+run zi	润资	110
+run nian pan duan	闰年判断	108
+run ba yue	闰八月	100
+run bing cai	润饼菜	100
+run bu run	润不润	100
+run chu qu	润出去	100
+run du gu fen	润都股份	100
+run er yue	闰二月	100
+run hua du	润滑度	100
+run hua you hang ye	润滑油行业	100
+run hua you nian du	润滑油黏度	100
+run hua you xi tong	润滑油系统	100
+run hui lai	润回来	100
+run hui qu	润回去	100
+run jiu yue	闰九月	100
+run liu yue	闰六月	100
+run qi yue	闰七月	100
+run shi er yue	闰十二月	100
+run shi qi	润湿器	100
+run shi yi yue	闰十一月	100
+run shi yue	闰十月	100
+run si yue	闰四月	100
+run wu yue	闰五月	100
+run yi yue	闰一月	100
+run yu lu xi ya	润羽露西娅	100
+run ze du	润泽度	100
+run ze you guang	润泽有光	100
+run zhou yuan	润州园	100
+run zhu jia yuan	润竹嘉园	100
+run zou le	润走了	100
+run er bu you	润而不油	85
+run guo	润锅	77
+run chang jiao nang	润肠胶囊	40
+run zao hua tan	润燥化痰	34
+run tong jiao nang	润通胶囊	33
+run quan bao shi	润泉保湿	32
+run da hua yuan	润达花园	10
+run fei zhi sou wan	润肺止嗽丸	9
+run chang wan	润肠丸	7
+run xing jia yuan	润星家园	5
+run zhou	润州	5
+run yi rong jiao nang	润伊容胶囊	2
+run de ban dao	润德半岛	1
+run fei gao	润肺膏	1
+run fu xiang shui	润肤香水	1
+run hua feng tian	润华丰田	1
+run li	润例	1
+run sheng lian sheng shui	润胜莲生水	1
+run tu	润土	1
+run wu run shen	润屋润身	1
+run wu wu sheng chun you gong	润物无声春有功	1
+run zao fu ni	润燥腐腻	1
+run zao zhi yang jiao nang	润燥止痒胶囊	1

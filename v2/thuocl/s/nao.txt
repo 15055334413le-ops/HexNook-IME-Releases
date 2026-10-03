@@ -1,0 +1,119 @@
+nao chu xie	脑出血	4205
+nao xiu cheng nu	恼羞成怒	4018
+nao zhen dang	脑震荡	3274
+nao xue guan	脑血管	2777
+nao si wang	脑死亡	2530
+nao geng se	脑梗塞	2441
+nao zu zhong	脑卒中	1925
+nao mo yan	脑膜炎	1623
+nao bing	脑病	1591
+nao lin zhi	脑磷脂	1468
+nao shen jing	脑神经	1247
+nao gan	脑干	1242
+nao yan	脑炎	1065
+nao geng si	脑梗死	856
+nao ji shui	脑积水	811
+nao shui zhong	脑水肿	781
+nao wei suo	脑萎缩	752
+nao dian tu	脑电图	554
+nao ji sui ye	脑脊髓液	541
+nao shan	脑疝	487
+nao gan chu xie	脑干出血	480
+nao xue guan yi wai	脑血管意外	400
+nao dong mai	脑动脉	300
+nao dong mai ying hua	脑动脉硬化	291
+nao cuo shang	脑挫伤	256
+nao xue guan po lie	脑血管破裂	228
+nao shi	脑室	222
+nao mo	脑膜	210
+nao shuan se	脑栓塞	184
+nao xue guan ji xing	脑血管畸形	183
+nao mo liu	脑膜瘤	182
+nao xing tan huan	脑性瘫痪	181
+nao gan sun shang	脑干损伤	173
+nao ke xue	脑科学	156
+nao xue shuan hou yi zheng	脑血栓后遗症	148
+nao mo nao yan	脑膜脑炎	103
+nao xue guan zao ying	脑血管造影	97
+nao bai jin	脑白金	79
+nao chu xie hou yi zheng	脑出血后遗症	68
+nao xue shuan xing cheng	脑血栓形成	68
+nao bo	脑波	66
+nao nei xue zhong	脑内血肿	66
+nao man chang fei	脑满肠肥	65
+nao yan hou yi zheng	脑炎后遗症	63
+nao kang tai jiao nang	脑康泰胶囊	61
+nao xue guan liu	脑血管瘤	61
+nao nong zhong	脑脓肿	59
+nao xun huan	脑循环	56
+nao ji ye	脑脊液	44
+nao shi chu xie	脑室出血	43
+nao chong	蛲虫	38
+nao gan geng se	脑干梗塞	38
+nao gan nao yan	脑干脑炎	37
+nao lu gu	脑颅骨	29
+nao ji jie kou	脑机接口	27
+nao mo ci ji zheng	脑膜刺激征	27
+nao qiao	脑桥	27
+nao ming	脑鸣	24
+nao xin tong	脑心通	24
+nao dong jing mai ji xing	脑动静脉畸形	23
+nao ma le	闹麻了	23
+nao chong bing	蛲虫病	21
+nao dao	脑岛	21
+nao gong neng cheng xiang	脑功能成像	18
+nao xin tong jiao nang	脑心通胶囊	18
+nao xing nve ji	脑型疟疾	18
+nao bai zhi ying yang bu liang	脑白质营养不良	16
+nao nang chong bing	脑囊虫病	16
+nao mu geng su mu	脑木更苏木	15
+nao ruan hua	脑软化	15
+nao wai shang hou zong he zheng	脑外伤后综合征	15
+nao gou	脑沟	13
+nao xin qing pian	脑心清片	12
+nao nang zhong	脑囊肿	11
+nao sai tong wan	脑塞通丸	11
+nao ji sui mo yan	脑脊髓膜炎	10
+nao mo xing	脑模型	10
+nao shi nei chu xie	脑室内出血	10
+nao huo su	脑活素	9
+nao fu kang	脑复康	8
+nao lie	脑裂	8
+nao qing song	脑轻松	8
+nao si wang yu qi guan yi zhi	脑死亡与器官移植	8
+nao bai zhi bing	脑白质病	7
+nao ji mo yan	脑脊膜炎	7
+nao dong mai yan	脑动脉炎	6
+nao luo tong jiao nang	脑络通胶囊	6
+nao qi zhi xing jing shen bing	脑器质性精神病	6
+nao xin shu kou fu ye	脑心舒口服液	6
+nao dan bai shui jie wu	脑蛋白水解物	5
+nao ji mo	脑脊膜	5
+nao tai jiao nang	脑肽胶囊	5
+nao xue shuan pian	脑血栓片	5
+nao gan ji tai	脑苷肌肽	4
+nao li qing wan	脑立清丸	4
+nao xin an jiao nang	脑心安胶囊	4
+nao li qing	脑立清	3
+nao shuan tong jiao nang	脑栓通胶囊	3
+nao dan bai shui jie wu pian	脑蛋白水解物片	2
+nao ling su jiao nang	脑灵素胶囊	2
+nao mo bai xue bing	脑膜白血病	2
+nao qiao	闹桥	2
+nao qiao chu xie	脑桥出血	2
+nao xin shu	脑心舒	2
+nao an ke li	脑安颗粒	1
+nao bao gou cun	脑包沟村	1
+nao de sheng pian	脑得生片	1
+nao di xing tu	脑地形图	1
+nao dong mai jing luan	脑动脉痉挛	1
+nao hu	脑户	1
+nao li bao wan	脑力宝丸	1
+nao li qing jiao nang	脑立清胶囊	1
+nao ling tong	脑灵通	1
+nao shi bu zhi chun se chu	闹市不知春色处	1
+nao shi yan	脑室炎	1
+nao xin zong he zheng	脑心综合征	1
+nao zhen dang hou zong he zheng	脑震荡后综合征	1
+nao lu wei ying	瑙鲁苇莺	0
+nao zhua fan she	挠抓反射	0

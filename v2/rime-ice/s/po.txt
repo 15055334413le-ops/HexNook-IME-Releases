@@ -1,0 +1,888 @@
+po huai	破坏	500340
+po jie	破解	348135
+po chan	破产	160905
+po jie ban	破解版	142135
+po po	婆婆	139370
+po an	破案	131289
+po you	颇有	120865
+po wei	颇为	115140
+po lie	破裂	111260
+po shi	迫使	106810
+po sui	破碎	96805
+po qie	迫切	90430
+po huai min zu tuan jie	破坏民族团结	85200
+po sun	破损	78165
+po qie xu yao	迫切需要	70110
+po huai le	破坏了	69995
+po ju	颇具	68670
+po huai she hui wen ding	破坏社会稳定	63890
+po bu ji dai	迫不及待	60375
+po jie ban xia zai	破解版下载	44305
+po du	坡度	42400
+po jiu	破旧	41205
+po duo	颇多	37550
+po chu	破除	36090
+po mie	破灭	33775
+po hai	迫害	32430
+po zhan	破绽	31475
+po huai xing	破坏性	30905
+po yu	迫于	29900
+po li	魄力	27890
+po zai mei jie	迫在眉睫	26820
+po lan	破烂	25785
+po shou	颇受	25155
+po yi	破译	23620
+po huo	破获	21070
+po chan qi ye	破产企业	20265
+po huai xian fa	破坏宪法	19405
+po ge	破格	19295
+po jie bu ding	破解补丁	19135
+po men	破门	18040
+po suo	婆娑	17895
+po bu de yi	迫不得已	16605
+po kou da ma	破口大骂	16540
+po feng	颇丰	16275
+po luo men	婆罗门	16275
+po jia	婆家	16185
+po qie yao qiu	迫切要求	16065
+po huai li	破坏力	15680
+po chan cai chan	破产财产	15530
+po sui ji	破碎机	15440
+po gao	颇高	15385
+po de	破的	15250
+po li	破例	15055
+po yang hu	鄱阳湖	14630
+po bai	破败	14485
+po you xie	颇有些	13815
+po niang	婆娘	13665
+po zi	婆子	13595
+po shang	坡上	13235
+po la	泼辣	12530
+po shui	泼水	12495
+po gan	颇感	11940
+po kong	破空	11915
+po chan qing suan	破产清算	11795
+po chan fa	破产法	11710
+po dao	坡道	11655
+po bing	破冰	11415
+po chan cheng xu	破产程序	11360
+po cai	破财	11285
+po yang	鄱阳	11095
+po ba	破八	9999
+po chuang xiao ying	破窗效应	9999
+po du zi	破读字	9999
+po er	破二	9999
+po fang	破防	9999
+po fang le	破防了	9999
+po lie mo ca yin	破裂摩擦音	9999
+po lie yin	破裂音	9999
+po liu	破六	9999
+po qi	破七	9999
+po san	破三	9999
+po shi	破事	9999
+po shu	破书	9999
+po si	破四	9999
+po tian	泼天	9999
+po wan	破万	9999
+po wan yi	破玩意	9999
+po xi	婆媳	9905
+po sa	泼洒	9775
+po tian huang	破天荒	9435
+po shen	颇深	9215
+po huai huan jing	破坏环境	8995
+po ke	破壳	8888
+po tu dong gong	破土动工	8835
+po jin	迫近	8815
+po da	颇大	8690
+po fu chen zhou	破釜沉舟	8295
+po jiang	迫降	7920
+po ju gui mo	颇具规模	7895
+po shang feng	破伤风	7780
+po bu	颇不	7760
+po mie le	破灭了	7705
+po mo	泼墨	7515
+po fu	泼妇	7435
+po bi	破壁	7375
+po miao	破庙	7310
+po qie xi wang	迫切希望	7115
+po po ma ma	婆婆妈妈	7025
+po dong	破洞	6885
+po che	破车	6845
+po xiao	破晓	6755
+po qie xing	迫切性	6660
+po shui jie	泼水节	6500
+po kui	破溃	6485
+po chan le	破产了	6475
+po huai zhe	破坏者	6440
+po kai	破开	6410
+po fei	颇费	6385
+po fei	破费	6360
+po jia	颇佳	6340
+po huai huo dong	破坏活动	6205
+po huai zuo yong	破坏作用	6065
+po chan an jian	破产案件	5975
+po le	破了	5830
+po po lan lan	破破烂烂	5755
+po ding	坡顶	5675
+po kou	破口	5610
+po chu men	破处门	5604
+po hou	泼猴	5555
+po ju	破局	5555
+po ju dian	破局点	5555
+po luo	破落	5465
+po you dian	颇有点	5255
+po jia	破甲	5250
+po ti	破题	5240
+po de	颇得	5110
+po huo le	破获了	5100
+po you ming qi	颇有名气	5100
+po wu	破屋	5050
+po bu	破布	5030
+po lan bu kan	破烂不堪	4930
+po neng	颇能	4865
+po ti wei xiao	破涕为笑	4730
+po diao	破掉	4725
+po leng shui	泼冷水	4690
+po lu	坡路	4580
+po jie	破戒	4490
+po shou huan ying	颇受欢迎	4340
+po huai xing wei	破坏行为	4330
+po tu	破土	4205
+po you wei ci	颇有微词	4150
+po pi	泼皮	4100
+po xia	坡下	4095
+po men er ru	破门而入	4065
+po lang	破浪	3920
+po chan shen qing	破产申请	3840
+po wang	破网	3820
+po tu er chu	破土而出	3815
+po zhen	破阵	3810
+po xie	破鞋	3705
+po xi guan xi	婆媳关系	3610
+po pi	破皮	3420
+po jing chong yuan	破镜重圆	3345
+po di	破敌	3333
+po du	破肚	3333
+po jian	破茧	3333
+po huai sheng tai	破坏生态	3330
+po huai zi ran	破坏自然	3295
+po qie yuan wang	迫切愿望	3265
+po ju ying xiang li	颇具影响力	3260
+po jiu bu kan	破旧不堪	3225
+po huai sheng tai huan jing	破坏生态环境	3145
+po chan shen qing de	破产申请的	3100
+po yi	婆姨	3095
+po da de	颇大的	3075
+po lie hou	破裂后	3055
+po guan zi po shuai	破罐子破摔	3030
+po chu mi xin	破除迷信	2995
+po jue	颇觉	2985
+po yu ya li	迫于压力	2970
+po ge jin sheng	破格晋升	2955
+po zhe hao	破折号	2925
+po xiang	破相	2920
+po cheng	破城	2870
+po shuo po you li	婆说婆有理	2620
+po dao	朴刀	2565
+po gan xing qu	颇感兴趣	2565
+po ge ti ba	破格提拔	2535
+po an lv	破案率	2520
+po guan	破关	2510
+po ji lu	破纪录	2505
+po xian	颇显	2445
+po chuan	破船	2335
+po dao	泼到	2320
+po shi	泼湿	2306
+po ju ying xiang	颇具影响	2275
+po huai cheng du	破坏程度	2270
+po tou	坡头	2250
+po po	破破	2230
+po jian	破剑	2222
+po yi	破亿	2222
+po hao	颇好	2215
+po chu	破处	2205
+po po jia	婆婆家	2190
+po you xin de	颇有心得	2135
+po gan yi wai	颇感意外	2125
+po si jiu	破四旧	2075
+po pian	破片	2050
+po chan dao bi	破产倒闭	2040
+po ge lu qu	破格录取	2035
+po jian	颇见	2020
+po wei de yi	颇为得意	2015
+po ce	叵测	2005
+po bai	破百	1990
+po bu liao	破不了	1980
+po de	破得	1950
+po luo men jiao	婆罗门教	1930
+po zhong	颇重	1905
+po huai cheng xu	破坏程序	1855
+po te	珀特	1825
+po dun	破盾	1800
+po chan ren	破产人	1780
+po mao	破帽	1775
+po ke er chu	破壳而出	1765
+po jia	破家	1735
+po chu qu	泼出去	1720
+po guan po shuai	破罐破摔	1655
+po chan huan zhai cheng xu	破产还债程序	1615
+po luo zhou	婆罗洲	1610
+po fei zhou zhe	颇费周折	1580
+po tong lan tie	破铜烂铁	1520
+po huai dian li she bei	破坏电力设备	1501
+po chan guan li ren	破产管理人	1495
+po shen	破身	1485
+po yi fu	破衣服	1450
+po chan an	破产案	1415
+po gai ti	坡改梯	1405
+po zhan bai chu	破绽百出	1385
+po di er	破地儿	1365
+po di fang	破地方	1365
+po jiu li xin	破旧立新	1365
+po sui xu kong	破碎虚空	1350
+po jing	破镜	1340
+po yi lan shan	破衣烂衫	1340
+po huai ji suan ji xin xi xi tong zui	破坏计算机信息系统罪	1330
+po ji lu de	破纪录的	1310
+po shang	泼上	1295
+po bing chuan	破冰船	1275
+po sun lv	破损率	1260
+po zhan	破站	1234
+po di	坡地	1221
+po ju jiang xin	颇具匠心	1215
+po tou qu	坡头区	1210
+po zhu	破竹	1205
+po cheng	破成	1200
+po zhen zi	破阵子	1200
+po fu zhong wang	颇孚众望	1180
+po jie guo	破解过	1180
+po wu	破五	1180
+po yi shen wu shui	泼一身污水	1180
+po wa	破瓦	1165
+po huai neng li	破坏能力	1160
+po fu ma jie	泼妇骂街	1125
+po wei bu man	颇为不满	1115
+po fa	破发	1111
+po fang	破房	1111
+po gou	破狗	1111
+po shi er	破事儿	1111
+po xian	坡县	1111
+po yong	破蛹	1111
+po you dao li	颇有道理	1100
+po jin de	迫近的	1080
+po jie ban ben	破解版本	1075
+po chan bao hu	破产保护	1060
+po chu	泼出	1060
+po huai she hui zhi xu	破坏社会秩序	1030
+po ji	破击	1010
+po shi	破十	1010
+po gen	坡跟	999
+po geng	破梗	999
+po jun	破军	999
+po mu	婆母	999
+po zhi	破执	991
+po men de fen	破门得分	990
+po gua	破瓜	985
+po hao	破耗	985
+po mian	坡面	985
+po ke	颇可	980
+po jian	泼溅	950
+po xia	泼下	950
+po luo hu	破落户	940
+po you jia zhi	颇有价值	940
+po yu xing shi	迫于形势	930
+po you tong gan	颇有同感	925
+po lou	破漏	900
+po dan	破胆	895
+po lang qian jin	破浪前进	885
+po sui lv	破碎率	885
+po cai xiao zai	破财消灾	835
+po wei xia die	破位下跌	835
+po yue	破月	800
+po zang shui	泼脏水	795
+po zhi	颇知	795
+po huai fen zi	破坏分子	780
+po luo	笸箩	750
+po xi	破袭	740
+po xin	婆心	740
+po ling	迫令	725
+po le	泼了	693
+po chan zhe	破产者	670
+po nai	叵耐	665
+po sui xian	破碎险	655
+po xiao shi fen	破晓时分	645
+po mo shan shui	泼墨山水	635
+po ge ti sheng	破格提升	630
+po men er chu	破门而出	625
+po huo an jian	破获案件	610
+po suo qi wu	婆娑起舞	605
+po shang feng de	破伤风的	585
+po wei zhong yao	颇为重要	585
+po chan zhong jie	破产终结	580
+po ge lu yong	破格录用	570
+po xin ge	珀辛格	562
+po gen xie	坡跟鞋	560
+po lie sheng	破裂声	560
+po qu	泼去	555
+po di	颇低	530
+po le ge dong	破了个洞	520
+po yang hu pan	鄱阳湖畔	520
+po zi jie	坡子街	520
+po hai zhi si	迫害致死	510
+po wu	泼污	510
+po bao	破包	495
+po dan	破蛋	490
+po wan yi er	破玩意儿	490
+po zhu zhi shi	破竹之势	485
+po lian	破脸	475
+po can	破残	435
+po song fen bu	泊松分布	435
+po chuang	破窗	432
+po lou	破陋	415
+po ju	破句	410
+po jin	破禁	405
+po guan	破罐	400
+po luo sang zi	破锣嗓子	400
+po diao	泼掉	390
+po lan er	破烂儿	390
+po hui	破毁	375
+po chan jing di	破产境地	370
+po hai zhe	迫害者	365
+po xiao	朴硝	360
+po jie zhu ce	破解注册	357
+po luo fu tu	婆罗浮屠	355
+po xi zhan	破袭战	355
+po jie ma	破解码	341
+po yan	破颜	320
+po jiu	颇久	315
+po po men	婆婆们	315
+po wang	破亡	295
+po yang hu ping yuan	鄱阳湖平原	290
+po ti wei xiao	破啼为笑	275
+po lan huo	破烂货	270
+po shao	颇少	265
+po sheng	破声	265
+po yan wei xiao	破颜微笑	260
+po wei fei jie	颇为费解	255
+po le ge da dong	破了个大洞	235
+po mo hua	泼墨画	235
+po you da jiang zhi feng	颇有大将之风	225
+po ji zhan	破击战	210
+po ti	破涕	205
+po du bian hua	坡度变化	200
+po huai qi fen	破坏气氛	199
+po xiao chuan shuo	破晓传说	198
+po po zui	婆婆嘴	195
+po yi	破衣	195
+po tei tou	破忒头	193
+po jie zu	破解组	192
+po sui gan	破碎感	192
+po liu suan	泼硫酸	186
+po liu xi jin	泼留希金	186
+po gu wan ren chui	破鼓万人捶	183
+po jie nan ti	破解难题	177
+po bai yi	破百亿	174
+po lang qian xing	破浪前行	174
+po sui qian qiu	破碎铅秋	171
+po ji wu	坡积物	170
+po jin	泼进	170
+po mian ao	破棉袄	168
+po jiang hang ban	迫降航班	167
+po du	破读	165
+po jiu yi fu	破旧衣服	165
+po mo gong	破魔弓	164
+po shi jing ying	破事精英	164
+po zai mei shao	迫在眉梢	164
+po fen	泼粪	160
+po hui	颇会	160
+po tian xia	破天下	158
+po huai xing di zhen ying ji tiao li	破坏性地震应急条例	157
+po su bao	破酥包	147
+po huai jun hun	破坏军婚	146
+po shi jie ji lu	破世界纪录	146
+po bing er chu	破冰而出	145
+po mo dao	破魔刀	141
+po po gong zhu	颇颇公主	141
+po bai wan	破百万	135
+po jing nan yuan	破镜难圆	135
+po tian	坡田	135
+po po sa sa	泼泼洒洒	130
+po ci yuan	破次元	123
+po zi	坡子	123
+po bi	破敝	120
+po huai jian	破坏剑	120
+po xi wa er	珀西瓦尔	118
+po la yu	泼辣鱼	117
+po bai wang	破败王	116
+po po hao	婆婆好	115
+po chao	破钞	111
+po gong	破功	111
+po quan	破圈	111
+po que	破缺	111
+po shi	泼屎	111
+po xian	破限	111
+po zai	泼在	111
+po bie ren leng shui	泼别人冷水	110
+po leng	颇冷	110
+po shui sheng	泼水声	110
+po bai wang zhe	破败王者	108
+po hu zhen	坡胡镇	107
+po sun yan zhong	破损严重	106
+po lai	泼赖	105
+po bing zhe	破冰者	103
+po chuang qi	破窗器	103
+po su bao zi	破酥包子	103
+po an le	破案了	100
+po an zi	破案子	100
+po ba fu	破吧服	100
+po bai bu kan	破败不堪	100
+po bai wang zhe zhi ren	破败王者之刃	100
+po bai zhi wang	破败之王	100
+po bai zhi wang fo ye ge	破败之王佛耶戈	100
+po ben liu	破奔流	100
+po bi er qu	破壁而去	100
+po bi fei qu	破壁飞去	100
+po bi hui gui	破璧毁圭	100
+po bi ji hua	破壁计划	100
+po bi lv	破壁率	100
+po bi ren	破壁人	100
+po bi teng xiang	破壁腾骧	100
+po bing jian	破冰舰	100
+po bing qian xing	破冰前行	100
+po bing xing dong	破冰行动	100
+po bing xing dong dian shi ban	破冰行动电视版	100
+po bing xing dong quan ji	破冰行动全集	100
+po bu ji dai de	迫不及待地	100
+po bu ke dai	迫不可待	100
+po bu liao an	破不了案	100
+po bu liao yi	破步撩衣	100
+po bu qi dai	迫不期待	100
+po bu zi	破布子	100
+po cai mian zai	破财免灾	100
+po ce zhi xin	叵测之心	100
+po chan cai tuan	破产财团	100
+po chan chong zheng	破产重整	100
+po chan chong zheng cheng xu	破产重整程序	100
+po chan chong zu	破产重组	100
+po chan chong zu fang an	破产重组方案	100
+po chan chuan wen	破产传闻	100
+po chan lv	破产率	100
+po chan zhi du	破产制度	100
+po chao wan luan	破巢完卵	100
+po chao yu luan	破巢余卵	100
+po cheng	泼成	100
+po chou wei xi	破愁为喜	100
+po chou wei xiao	破愁为笑	100
+po chu dan zi	泼出胆子	100
+po chu lai	泼出来	100
+po chu le	破除了	100
+po chu qu de shui	泼出去的水	100
+po da an	破大案	100
+po da fang	破大防	100
+po da fang le	破大防了	100
+po dan han xin	破胆寒心	100
+po dang shen yao	魄荡神摇	100
+po dao fu zhu xi tong	坡道辅助系统	100
+po di yu	破地狱	100
+po dian ying	破电影	100
+po dong de niu zai ku	破洞的牛仔裤	100
+po dong niu zai	破洞牛仔	100
+po dong niu zai duan ku	破洞牛仔短裤	100
+po dong niu zai ku	破洞牛仔裤	100
+po dong niu zai ku da pei	破洞牛仔裤搭配	100
+po dong niu zai ku nv	破洞牛仔裤女	100
+po du da	坡度大	100
+po du dou	坡度陡	100
+po du jiao da	坡度较大	100
+po du jiao dou	坡度较陡	100
+po du ping huan	坡度平缓	100
+po du qiang ren	破毒强人	100
+po er sai fu nie	珀耳塞福涅	100
+po er tu	破耳兔	100
+po fa cheng gong lv	破发成功率	100
+po fa dian	破发点	100
+po fa lv	破发率	100
+po fa zhe	破法者	100
+po fan le ma	婆饭了吗	100
+po fang le po fang le	破防了破防了	100
+po fang zi	破房子	100
+po feng ya	破风鸭	100
+po fu chen zhou shi	破釜沉舟式	100
+po fu dai	破福袋	100
+po fu fen zhou	破釜焚舟	100
+po fu que qiang	破斧缺斨	100
+po fu sheng ming	颇负盛名	100
+po ge jie	破个戒	100
+po geng di	坡耕地	100
+po gu wei yuan	破觚为圆	100
+po gua bi yu	破瓜碧玉	100
+po gua zhi nian	破瓜之年	100
+po guo wang jia	破国亡家	100
+po hai he shi shi	迫害和逝世	100
+po hou long	破喉咙	100
+po hu fu	破乎服	100
+po hua tuan	泼花团	100
+po huai chuan tong	破坏传统	100
+po huai da wang	破坏大王	100
+po huai di qiu	破坏地球	100
+po huai geng di	破坏耕地	100
+po huai guan xi	破坏关系	100
+po huai ji suan ji xin xi xi tong	破坏计算机信息系统	100
+po huai le ge	破坏了个	100
+po huai le gui ju	破坏了规矩	100
+po huai liang an guan xi	破坏两岸关系	100
+po huai long	破坏龙	100
+po huai mo shi	破坏模式	100
+po huai qiu	破坏球	100
+po huai shen	破坏神	100
+po huai shi di	破坏湿地	100
+po huai tu di	破坏土地	100
+po huai wang	破坏王	100
+po huai xi tong	破坏系统	100
+po huai xing di zhen	破坏性地震	100
+po huai xing dong	破坏行动	100
+po huai yan zhong	破坏严重	100
+po huai yu	破坏欲	100
+po huo xi lie dao qie an	破获系列盗窃案	100
+po jia bai chan	破家败产	100
+po jia dan	破甲弹	100
+po jia dang chan	破家荡产	100
+po jia de xian ling	破家的县令	100
+po jia san ye	破家散业	100
+po jia wang guo	破家亡国	100
+po jia wang shen	破家亡身	100
+po jia wei guo	破家为国	100
+po jia xian	破甲线	100
+po jia xian ling	破家县令	100
+po jia yu zi	破家鬻子	100
+po jian chong sheng	破茧重生	100
+po jian cui gang	破坚摧刚	100
+po jian er chu	破茧而出	100
+po jian fa fu	破奸发伏	100
+po jian huang hou	破茧皇后	100
+po jian ren	泼贱人	100
+po jian zhi yi	破茧之衣	100
+po jiang shi	迫降时	100
+po jie le	破解了	100
+po jie le ta de	破解了他的	100
+po jie qi	破解器	100
+po jie ri	破节日	100
+po jie ruan jian	破解软件	100
+po jie you xi	破解游戏	100
+po jie yuan ma	破解源码	100
+po jie zhi xing nan	破解执行难	100
+po jin lai	泼进来	100
+po jin qu	泼进去	100
+po jing chong he	破镜重合	100
+po jing fen chai	破镜分钗	100
+po jing lv	破净率	100
+po jing nan chong yuan	破镜难重圆	100
+po ju nan du	颇具难度	100
+po ju wei yuan	破矩为圆	100
+po ju zhi ce	破局之策	100
+po jun tan lang	破军贪狼	100
+po jun xing	破军星	100
+po kai ci jie	破开此界	100
+po kai le feng xi	破开了缝隙	100
+po kou er chu	破口而出	100
+po kou shang ren	破口伤人	100
+po la la	泼辣辣	100
+po la xiu tu	泼辣修图	100
+po lan de yi shang	破烂的衣裳	100
+po lan shen	破烂神	100
+po lang cheng feng	破浪乘风	100
+po le an	破了案	100
+po le chan	破了产	100
+po le dian er pi	破了点儿皮	100
+po le dian pi	破了点皮	100
+po le dong	破了洞	100
+po le gong	破了功	100
+po le ji lu	破了纪录	100
+po le jie	破了戒	100
+po le leng shui	泼了冷水	100
+po le li	破了例	100
+po le lian	破了脸	100
+po le pen leng shui	泼了盆冷水	100
+po le pi	破了皮	100
+po le shen	破了身	100
+po le xiang	破了相	100
+po le yi pen leng shui	泼了一盆冷水	100
+po le yi pen liang shui	泼了一盆凉水	100
+po li dan	破立丹	100
+po lie qiang du	破裂强度	100
+po lie qiang du shi yan ji	破裂强度试验机	100
+po lie zhe	破裂者	100
+po lu zhan	破路战	100
+po luo duo	婆罗多	100
+po luo gui zu	破落贵族	100
+po ma bu	破抹布	100
+po ma du an	泊马度胺	100
+po ma zhang fei	破马张飞	100
+po mao tuan	泼毛团	100
+po men er ru zhe	破门而入者	100
+po mian ji qiao	坡面技巧	100
+po mian zhang ai	坡面障碍	100
+po mian zhang ai ji qiao	坡面障碍技巧	100
+po mie xing chen	破灭星辰	100
+po mo hui hao	泼墨挥毫	100
+po mo ru hao	泼墨濡毫	100
+po mo zhi gong	破魔之弓	100
+po nan po nv	泼男泼女	100
+po nan xing dong	破难行动	100
+po nao ku xin	破脑刳心	100
+po niang zi	婆娘子	100
+po ning zhi zhan	破泞之战	100
+po ning zhi zhu de shu jun san cha ji	破泞之主的疏浚三叉戟	100
+po pan jia	破盘价	100
+po pian shou liu dan	破片手榴弹	100
+po po dai	破破袋	100
+po po de tai du	婆婆的态度	100
+po po duo lun	破破舵轮	100
+po po he ma ma	婆婆和妈妈	100
+po po lai le	婆婆来了	100
+po po zhong nan qing nv	婆婆重男轻女	100
+po qie de	迫切地	100
+po qin jue xian	破琴绝弦	100
+po quan er	破圈儿	100
+po sa chu qu	泼洒出去	100
+po san hun fei	魄散魂飞	100
+po san hun li	魄散魂离	100
+po san hun xiao	魄散魂消	100
+po san jiu xiao	魄散九霄	100
+po sang hun diu	魄丧魂丢	100
+po sang hun fei	魄丧魂飞	100
+po shang lai	泼上来	100
+po shang qu	泼上去	100
+po shu ke di	破蜀克敌	100
+po shui cheng bing	泼水成冰	100
+po shui jiang wen	泼水降温	100
+po shui nan shou	泼水难收	100
+po sui de	破碎的	100
+po sui ji xi lie	破碎机系列	100
+po sui lv gao	破碎率高	100
+po sui qun dao	破碎群岛	100
+po sui wang zuo	破碎王座	100
+po sui xi tong	破碎系统	100
+po sui xiao lv	破碎效率	100
+po sui xiao lv gao	破碎效率高	100
+po sui zhi li	破碎支离	100
+po sun cheng du	破损程度	100
+po suo zhi yang	婆娑之洋	100
+po ti cheng xiao	破涕成笑	100
+po ti di yi zao	破题第一遭	100
+po ti er xiao	破涕而笑	100
+po ti zi	破梯子	100
+po tian da huo	泼天大祸	100
+po tian yi jian	破天一剑	100
+po tie tong zhen	破铁桶阵	100
+po tou lan e	破头烂额	100
+po tu dian li	破土典礼	100
+po wa han yao	破瓦寒窑	100
+po wa tui yuan	破瓦颓垣	100
+po wan juan	破万卷	100
+po wan po shuai	破碗破摔	100
+po wang ba	破网吧	100
+po wei di diao	颇为低调	100
+po wei le	破位了	100
+po wei xia xing	破位下行	100
+po wei you qu	颇为有趣	100
+po wei zi de	颇为自得	100
+po wen ti	破问题	100
+po xi de guan xi	婆媳的关系	100
+po xi guan xi bu hao	婆媳关系不好	100
+po xi guan xi chu li	婆媳关系处理	100
+po xi guan xi jin zhang	婆媳关系紧张	100
+po xi guan xi rong qia	婆媳关系融洽	100
+po xi zhi jian de guan xi	婆媳之间的关系	100
+po xia lai	泼下来	100
+po xia qu	泼下去	100
+po xiao hai	破晓海	100
+po xiao xing	破晓星	100
+po xiao zhe	破晓者	100
+po xue xiao	破学校	100
+po yan hua	泼烟花	100
+po yang xian	鄱阳县	100
+po ye shi chan	破业失产	100
+po you di wei	颇有地位	100
+po you jian di	颇有见地	100
+po you jiu huo	泼油救火	100
+po you nan du	颇有难度	100
+po you suo de	颇有所得	100
+po yu mei jie	迫于眉睫	100
+po yuan su	钋元素	100
+po yuan su	钷元素	100
+po zai le	泼在了	100
+po zai mei jie a	迫在眉睫啊	100
+po zai mei jie ya	迫在眉睫呀	100
+po zeng bu gu	破甑不顾	100
+po zeng sheng chen	破甑生尘	100
+po zhen yue	破阵乐	100
+po zhen zhan jiang	破阵斩将	100
+po zhi ji ke	破之即可	100
+po zhu jian ling	破竹建瓴	100
+po zhu qiu jian	破柱求奸	100
+po zi xing che	破自行车	100
+po zai yan qian	迫在眼前	96
+po lin	迫临	95
+po chan fang mian	破产方面	87
+po dian shi ying xiao	破点式营销	87
+po ju xing	破局性	87
+po han	泼悍	85
+po li shi zui gao ji lu	破历史最高纪录	85
+po ti er di yi zao	破题儿第一遭	85
+po yang pen di	鄱阳盆地	85
+po la huo	泼辣货	80
+po shang feng kang du su	破伤风抗毒素	80
+po chan zhai wu ren	破产债务人	79
+po san	泼散	75
+po xi tong	破系统	72
+po da fen	泼大粪	70
+po li	坡里	67
+po er	珀尔	64
+po huai xing cai kuang zui	破坏性采矿罪	58
+po mie shi kong	破灭时空	56
+po yue	破约	55
+po gu xi bao	破骨细胞	54
+po si li gong	破私立公	50
+po guan zhan jiang	破关斩将	45
+po jiao	坡角	41
+po huai jiao tong she bei zui	破坏交通设备罪	40
+po jie fen xi	破解分析	37
+po chan wei xian	破产危险	35
+po fu	颇孚	35
+po ren wu	破任务	33
+po shu	朴树	33
+po yang hu shi zi tou	鄱阳湖狮子头	33
+po huai she hui zhu yi jing ji zhi xu zui	破坏社会主义经济秩序罪	32
+po fei cai ce	颇费猜测	30
+po gen liang xie	坡跟凉鞋	30
+po ni song	泼尼松	27
+po shang cun	坡上村	22
+po de xiang	泼得像	20
+po ge ren yong	破格任用	20
+po gong fu	破工夫	20
+po zi	泊子	18
+po yi zhe	破译者	17
+po jun sha jiang	破军杀将	16
+po ti er	破题儿	16
+po yan yi xiao	破颜一笑	16
+po chuang yuan li	破窗原理	15
+po ti zi	破体字	15
+po shang feng lei du su	破伤风类毒素	13
+po chan qi zha zui	破产欺诈罪	11
+po fei	迫肥	11
+po liu cun	坡刘村	11
+po wan	破碗	11
+po jin ding li	迫近定理	10
+po lang shen	破浪神	10
+po li yi hui	破例一回	10
+po shang feng ren mian yi qiu dan bai	破伤风人免疫球蛋白	10
+po yang lu	鄱阳路	10
+po yin zi	破音字	10
+po sui shan he	破碎山河	9
+po zhi	破之	9
+po ni song long	泼尼松龙	8
+po sui de shui jing	破碎的水晶	8
+po tian chui	破天锤	8
+po bi	破笔	7
+po cha	破碴	7
+po chuang	破床	7
+po dan nu hou	破胆怒吼	7
+po jia gong ji	破甲攻击	7
+po lou	坡楼	7
+po yang jun	鄱阳郡	6
+po hun jiang shi	破魂僵尸	5
+po luo men shen	婆罗门参	5
+po fu men	泼妇门	4
+po shang feng du su	破伤风毒素	4
+po zhen	迫真	4
+po di jie dao	坡底街道	3
+po he xiang	坡荷乡	3
+po huai yong jiu xing ce liang biao zhi zui	破坏永久性测量标志罪	3
+po jiao zhen	坡脚镇	3
+po lu	坡鹿	3
+po lu bao xiang	破鲁堡乡	3
+po tang	坡塘	3
+po gou	坡狗	2
+po huai ming sheng gu ji zui	破坏名胜古迹罪	2
+po jia dang ye	破家荡业	2
+po jia wei guo	破家危国	2
+po kou nu ma	破口怒骂	2
+po la	泼剌	2
+po su gang lu	破酥缸炉	2
+po tuo	陂陀	2
+po bi liao huo	破壁燎火	1
+po chan bu wei jia	破产不为家	1
+po chan dang ye	破产荡业	1
+po dan sang hun	破胆丧魂	1
+po dang hun fei	魄荡魂飞	1
+po dang hun yao	魄荡魂摇	1
+po fu chen chuan	破釜沉船	1
+po gan mi wei	破肝糜胃	1
+po gang xiang	泊岗乡	1
+po gu luan ren chui	破鼓乱人捶	1
+po gu wei yuan	破觚为圜	1
+po gu zhuo diao	破觚斫雕	1
+po guo wang zong	破国亡宗	1
+po huai jie bei jie zhuang zui	破坏界碑界桩罪	1
+po jia jie chan	破家竭产	1
+po jia sang chan	破家丧产	1
+po jie ban	破解办	1
+po jin qing shan chen man mao	破尽青衫尘满帽	1
+po jiu du kou	破旧渡口	1
+po jun shen gong	破军神功	1
+po keng	坡坑	1
+po kou tong ma	破口痛骂	1
+po lan	笸篮	1
+po lan liu diu	破烂流丢	1
+po lang hai tan	破浪海滩	1
+po lang qian fan zhen ma lai	破浪千帆阵马来	1
+po lang xue	破浪靴	1
+po lei	坡垒	1
+po li cun	坡李村	1
+po luan qing chao	破卵倾巢	1
+po luo sha mu	泊洛沙姆	1
+po luo zhou chang wei kuo zui niao	婆罗洲长尾阔嘴鸟	1
+po luo zhou feng luo	婆罗洲凤螺	1
+po luo zhou ju ren cheng bian	婆罗洲巨人橙边	1
+po mei er	破谜儿	1
+po men	魄门	1
+po mie mo ren ze bu bu	破灭魔人泽布卜	1
+po mie qi shi	破灭骑士	1
+po mo	破墨	1
+po mo yun niu	婆莫云牛	1
+po mo zi	泼墨紫	1
+po na shu geng	破衲疏羹	1
+po po ling ling	坡坡岭岭	1
+po pu fu lian she	坡普腹链蛇	1
+po qie chen ci	迫切陈词	1
+po qin shi jue	破琴示绝	1
+po san hun piao	魄散魂飘	1
+po shen chui	破神锤	1
+po sheng lang qi	泼声浪气	1
+po shi chang wen song shu	泊氏长吻松鼠	1
+po shu pu dun mu shi	朴树朴盾木虱	1
+po si	珀斯	1
+po si po huo	泼死泼活	1
+po si wang sheng	破死忘生	1
+po sui de bao shi	破碎的宝石	1
+po sui de yu shi	破碎的玉石	1
+po sui ling cheng bao	破碎岭城堡	1
+po sui shi zhu	破碎石柱	1
+po ti wei huan	破涕为欢	1
+po tian yuan wang	泼天冤枉	1
+po tong zhi ye	破桐之叶	1
+po tou shan bei bei shan nan	破头山北北山南	1
+po wan yi	破万亿	1
+po wen lie xian ren	颇闻列仙人	1
+po xiao ju fu	破晓巨斧	1
+po xin ku kou	婆心苦口	1
+po xiu po de	婆修婆德	1
+po ya jue jiao	破崖绝角	1
+po yang fu shuang shen chong	鄱阳副双身虫	1
+po yang hu ni shuang shen chong	鄱阳湖拟双身虫	1
+po yang mao shou chong	鄱阳锚首虫	1
+po ying xia gu	破影峡谷	1
+po you yu yi shi	颇有余衣食	1
+po yu chui zhu	破玉锤珠	1
+po zhi ru huo jian	迫之如火煎	1

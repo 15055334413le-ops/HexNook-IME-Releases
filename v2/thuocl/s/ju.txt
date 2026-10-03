@@ -1,0 +1,554 @@
+ju yi xi	聚乙烯	80610
+ju bu bian liang	局部变量	56599
+ju zi	桔子	53939
+ju le bu	俱乐部	52991
+ju bu	拘捕	49731
+ju tou	巨头	40710
+ju wei hui	居委会	38061
+ju bing	句柄	31907
+ju lv yi xi	聚氯乙烯	26629
+ju yuan	剧院	17396
+ju yi fan san	举一反三	13004
+ju zhu quan	居住权	12605
+ju zu qing zhong	举足轻重	11820
+ju shi zhu mu	举世瞩目	11230
+ju lei	聚类	10187
+ju zhong dou ou	聚众斗殴	9369
+ju zhi men wai	拒之门外	7328
+ju jing hui shen	聚精会神	6100
+ju shou	拒收	6043
+ju chuan	拘传	6040
+ju you fa lv yue shu li	具有法律约束力	5916
+ju yi xi chun	聚乙烯醇	5524
+ju jue	咀嚼	4855
+ju zhong xian shi	居中显示	4763
+ju wei ji you	据为己有	4624
+ju zhen cheng fa	矩阵乘法	4564
+ju chuan	据传	4009
+ju zai feng xian	巨灾风险	3902
+ju he han shu	聚合函数	3792
+ju yi er chun	聚乙二醇	3447
+ju lei suan fa	聚类算法	3419
+ju an si wei	居安思危	3366
+ju zhen xiang cheng	矩阵相乘	3359
+ju min dian	居民点	3236
+ju shou zhi lao	举手之劳	3116
+ju long	巨龙	3012
+ju jue fang wen	拒绝访问	3006
+ju fu	拒付	2850
+ju shi wen ming	举世闻名	2683
+ju zhen yun suan	矩阵运算	2625
+ju ji suo yin	聚集索引	2604
+ju gao lin xia	居高临下	2538
+ju zhen kuai su mi	矩阵快速幂	2468
+ju ji guan	局机关	2461
+ju gong jin cui	鞠躬尽瘁	2365
+ju li li zheng	据理力争	2216
+ju zi zhou	橘子洲	2213
+ju shou tou zu	举手投足	2182
+ju he guan xi	聚合关系	2168
+ju jue fu wu	拒绝服务	1949
+ju bu nei bu lei	局部内部类	1903
+ju zhen bian huan	矩阵变换	1882
+ju li ji suan	距离计算	1811
+ju zhen fen jie	矩阵分解	1665
+ju guo shang xia	举国上下	1644
+ju zhong dou ou zui	聚众斗殴罪	1627
+ju ti fan zui	具体犯罪	1531
+ju jue fu wu gong ji	拒绝服务攻击	1500
+ju lei fen xi	聚类分析	1450
+ju bu shua xin	局部刷新	1441
+ju zhen ji suan	矩阵计算	1338
+ju cu suo yin	聚簇索引	1293
+ju bu te zheng	局部特征	1273
+ju li du liang	距离度量	1215
+ju zhen cao zuo	矩阵操作	1109
+ju qi bu ding	举棋不定	1096
+ju zai bao xian zhi du	巨灾保险制度	1094
+ju bing	桔饼	1021
+ju mu wu qin	举目无亲	983
+ju zhi	聚酯	966
+ju zi zhou tou	橘子洲头	887
+ju rong shi	句容市	860
+ju zhong ruo qing	举重若轻	836
+ju xin po ce	居心叵测	818
+ju ding xi	聚丁烯	772
+ju zhen zhuan zhi	矩阵转置	758
+ju sha cheng ta	聚沙成塔	754
+ju fan	焗饭	728
+ju chun yuan	聚春园	704
+ju zi zhou da qiao	橘子洲大桥	698
+ju he shu ju	聚合数据	676
+ju li fu ren	居里夫人	623
+ju bu cun chu	局部存储	615
+ju fu lou	聚福楼	612
+ju bu sheng ju	举不胜举	581
+ju shi wu shuang	举世无双	578
+ju zhen lian cheng	矩阵连乘	557
+ju fa fen xi	句法分析	528
+ju bu ma zui	局部麻醉	517
+ju ti er wei	具体而微	505
+ju yi ding xi	聚异丁烯	503
+ju ye	巨野	502
+ju yong guan chang cheng	居庸关长城	472
+ju gang quan	居港权	470
+ju zhong zi shi	聚众滋事	464
+ju fa gui ze	句法规则	452
+ju xin bu liang	居心不良	447
+ju zhen lun	矩阵论	440
+ju xing fu gai	矩形覆盖	438
+ju long	聚龙	413
+ju jie	具结	400
+ju xiang yuan	咀香园	390
+ju li xiang liang	距离向量	387
+ju bu zuo biao xi	局部坐标系	377
+ju nan	莒南	371
+ju hua gao	菊花糕	370
+ju li	居里	356
+ju xing mian ji bing	矩形面积并	353
+ju ping	鞠萍	352
+ju hua huo guo	菊花火锅	349
+ju da er	巨大儿	348
+ju zhen fen xi	矩阵分析	295
+ju hua	巨化	280
+ju pu tao tang	聚葡萄糖	271
+ju zhen xuan zhuan	矩阵旋转	263
+ju lu	巨鹿	251
+ju tou wang ming yue	举头望明月	251
+ju zhen gou zao	矩阵构造	241
+ju bing lei	句柄类	240
+ju gong zi ao	居功自傲	239
+ju zhen lian cheng	矩阵链乘	239
+ju zheng ze ren dao zhi yuan ze	举证责任倒置原则	235
+ju feng lu	巨峰路	234
+ju shi xi bao	巨噬细胞	225
+ju sheng huai nan ze wei ju	橘生淮南则为橘	224
+ju cu bu an	局促不安	219
+ju zhen jian pan	矩阵键盘	219
+ju hua su	菊花酥	215
+ju er jia ji gui yang wan	聚二甲基硅氧烷	206
+ju wei tong dian rong ye	聚维酮碘溶液	204
+ju hua guo	菊花锅	198
+ju feng de	聚丰德	197
+ju yu wang ji shu	局域网技术	186
+ju fa jie gou	句法结构	177
+ju zhen ying yong	矩阵应用	174
+ju shi jie zhi	举世皆知	172
+ju ren yu qian li zhi wai	拒人于千里之外	170
+ju zhen jia su	矩阵加速	170
+ju miao tang zhi gao	居庙堂之高	169
+ju chuan piao	拘传票	157
+ju an qi mei	举案齐眉	156
+ju hua yu sheng	菊花鱼生	156
+ju hong gao	桔红糕	149
+ju zhen qiu dao	矩阵求导	147
+ju yuan	菊园	143
+ju bu gan ran	局部感染	140
+ju xi bao bing du	巨细胞病毒	138
+ju bu min gan ha xi	局部敏感哈希	136
+ju ju	菊苣	135
+ju jue shang ye hui lu	拒绝商业贿赂	135
+ju zhen you hua	矩阵优化	135
+ju hua lu yu	菊花鲈鱼	134
+ju zheng	居正	130
+ju bei yao ming yue	举杯邀明月	127
+ju jue pian	咀嚼片	126
+ju lian	居廉	125
+ju chao	居巢	124
+ju hua niang yu du	菊花酿鱼肚	124
+ju shao cheng duo	聚少成多	124
+ju ju du xing	踽踽独行	114
+ju yi suan yi xi zhi	聚乙酸乙烯酯	114
+ju guo yi zhi	举国一致	111
+ju xing	聚星	110
+ju yan	巨眼	110
+ju bu mo shi	局部模式	109
+ju hua lian	菊花链	105
+ju bu gu zhang	局部故障	104
+ju chao qu	居巢区	103
+ju hua yuan	菊花园	103
+ju tang	聚糖	103
+ju xi wu yi	巨细无遗	103
+ju bu zong xian	局部总线	102
+ju zhi da fang	举止大方	102
+ju long wan	聚龙湾	94
+ju er hu tong	菊儿胡同	92
+ju yu wang fu wu qi	局域网服务器	92
+ju zhen lian cheng fa	矩阵链乘法	91
+ju bu jian nan	举步艰难	89
+ju hong gao	橘红糕	87
+ju bu ying yong	局部应用	85
+ju bu fan ying	局部反应	83
+ju da bu yi	居大不易	83
+ju chao	巨潮	80
+ju gong jin cui si er hou yi	鞠躬尽瘁死而后已	80
+ju he mei	聚合酶	76
+ju hua you yu	菊花鱿鱼	73
+ju you	聚友	73
+ju yuan xiao qu	桔园小区	73
+ju yu wang jiao huan ji	局域网交换机	71
+ju pi	拒批	70
+ju ren qian li zhi wai	拒人千里之外	70
+ju min zi zhi zhang cheng	居民自治章程	69
+ju jue ji	咀嚼肌	68
+ju fu yuan	聚福园	67
+ju tou	咀头	67
+ju chi chui jing	巨齿槌鲸	66
+ju bu guang zhao mo xing	局部光照模型	65
+ju hua gou qi cha	菊花枸杞茶	65
+ju zhi yan tan	举止言谈	64
+ju hua zhu gan tang	菊花猪肝汤	59
+ju yuan suan xi di na fei	枸橼酸西地那非	58
+ju gu	距骨	54
+ju shan	巨山	54
+ju zhen shi yan shi	矩阵实验室	54
+ju kou	巨口	53
+ju rong xian	句容县	53
+ju song fen yun	聚讼纷纭	53
+ju xing ji suan ji	巨型计算机	53
+ju yu wang guang bo	局域网广播	52
+ju hua shao mai	菊花烧卖	51
+ju fa shu	句法树	50
+ju fen	菊粉	50
+ju bao men	聚宝门	47
+ju he mei lian shi fan ying	聚合酶链式反应	47
+ju ren qian li	拒人千里	47
+ju chang	具厂	46
+ju ru zheng	巨乳症	46
+ju shi jie zhuo wo du qing	举世皆浊我独清	46
+ju gao sheng zi yuan	居高声自远	45
+ju ge zhuang	巨各庄	45
+ju jia qiao lu	居家桥路	45
+ju jue cheng fu	拒绝承付	44
+ju zhen shu ding li	矩阵树定理	43
+ju zhu qu ji dao lu	居住区级道路	43
+ju yu wang wang guan	局域网网关	42
+ju hua guo zi	菊花锅子	40
+ju gan you zhi fang suan zhi	聚甘油脂肪酸酯	39
+ju he mei lian fan ying	聚合酶链反应	39
+ju bing xi xian an	聚丙烯酰胺	38
+ju hua dou fu	菊花豆腐	38
+ju hua qing yu	菊花青鱼	38
+ju qian jie	局前街	37
+ju gong jue wei	居功厥伟	36
+ju yu	菊芋	36
+ju hu	菊虎	35
+ju cheng	具城	34
+ju luo	橘络	34
+ju yuan zhou da qiao	橘园洲大桥	33
+ju lun jie dao	巨轮街道	32
+ju zi zhou wei	橘子洲尾	32
+ju e jiao yi	巨额交易	31
+ju jia qiao	居家桥	31
+ju jie	居节	30
+ju zhu zhu ti gong yuan	居住主题公园	30
+ju yuan zhou	橘园洲	29
+ju cuo shi dang	举措失当	28
+ju hua li ji	菊花里脊	28
+ju zhong chi xie jie yu zui	聚众持械劫狱罪	28
+ju ren	居仁	27
+ju yang	桔阳	27
+ju ye lu	巨野路	27
+ju zhen xiao qu	矩阵小区	27
+ju zi pian duan	句子片段	27
+ju bu ma zui yao	局部麻醉药	26
+ju gan you dan ying zhi suan zhi	聚甘油单硬脂酸酯	25
+ju xing lu feng long	巨型禄丰龙	25
+ju zi fang	驹子房	25
+ju wu qiu an	居无求安	23
+ju xian ren neng	举贤任能	23
+ju bu fei pang	局部肥胖	22
+ju bu shi xiao	局部失效	22
+ju ren men	居仁门	22
+ju fa guan xi	句法关系	21
+ju hua dong sun	菊花冬笋	21
+ju bu mian yi	局部免疫	20
+ju fu	聚富	20
+ju lu shi	居鲁士	20
+ju she	巨舌	20
+ju yuan suan lv mi fen pian	枸橼酸氯米芬片	20
+ju jing er xing jian	居敬而行简	19
+ju zhen qie huan qi	矩阵切换器	19
+ju hua li	菊花里	18
+ju hua long hu feng she geng	菊花龙虎凤蛇羹	17
+ju hua yu wan	菊花鱼丸	17
+ju mu ji sha qi an	锯木机杀妻案	17
+ju tou yi jue qian shan lv	举头已觉千山绿	17
+ju zi fang cun	驹子房村	17
+ju hua juan	菊花卷	16
+ju ren guan	巨人观	16
+ju xi	举溪	16
+ju an li	居安里	15
+ju cheng lu	桔城路	15
+ju feng de fan dian	聚丰德饭店	15
+ju jian mou li	居间牟利	15
+ju le yuan	居乐园	15
+ju she zheng	巨舌症	15
+ju xing pa lu si qiu yin	巨型帕卢斯蚯蚓	15
+ju can you you ao shuang zhi	菊残犹有傲霜枝	14
+ju di lin zi	菊地凛子	14
+ju jia ji bing xi suan jia zhi	聚甲基丙烯酸甲酯	14
+ju jian er xing jian	居简而行简	14
+ju yu wang duo bo	局域网多播	14
+ju gu gu zhe	距骨骨折	13
+ju zhang	句章	13
+ju ban yu yuan	橘瓣鱼圆	12
+ju ji	巨记	12
+ju min zi zhi gong yue	居民自治公约	12
+ju quan	聚泉	12
+ju ru suo xiao shu	巨乳缩小术	12
+ju yuan lu	菊苑路	12
+ju bo hua yuan	聚博花园	11
+ju he xi bao	巨核细胞	11
+ju hua xin	菊花心	11
+ju hua ye ku xian chong	菊花叶枯线虫	11
+ju huang dong fang tun	菊黄东方鲀	11
+ju ping	巨平	11
+ju bu jie pou xue	局部解剖学	10
+ju fa mo shi shi bie	句法模式识别	10
+ju he shi jian	聚合事件	10
+ju hu yun ying	菊湖云影	10
+ju hua su bing	菊花酥饼	10
+ju huai yi xing zhuang si fei	俱怀逸兴壮思飞	10
+ju xing gong si	巨星公司	10
+ju bu jin run ma zui	局部浸润麻醉	9
+ju bu zuo yong	局部作用	9
+ju yang zhen	泃阳镇	9
+ju bei xiao chou chou geng chou	举杯销愁愁更愁	8
+ju bei xiao chou chou geng chou	举杯消愁愁更愁	8
+ju li	炬力	8
+ju ren cun	居仁村	8
+ju shan nong chang	巨山农场	8
+ju yang	聚阳	8
+ju yuan	举源	8
+ju zhi cuo zhu wang	举直错诸枉	8
+ju tian xia zhi guang ju	居天下之广居	7
+ju you hong xi bao xing pin xue	巨幼红细胞性贫血	7
+ju que	巨阙	6
+ju ren gong zhu wu ling yuan	居人共住武陵源	6
+ju ren li	居仁里	6
+ju ya ke	鮈亚科	6
+ju zhi	巨指	6
+ju chi yuan	锯齿缘	5
+ju guan ci	局关祠	5
+ju hong ke li	橘红颗粒	5
+ju hua huang jin gao	菊花黄浸膏	5
+ju li lu	居里路	5
+ju ming jiang ya wan	菊明降压丸	5
+ju que xue	巨阙穴	5
+ju wang cuo zhu zhi	举枉错诸直	5
+ju yuan suan gai	枸橼酸钙	5
+ju yuan suan lv mi fen	枸橼酸氯米芬	5
+ju yuan suan tie an	枸橼酸铁铵	5
+ju bao xin cheng	聚宝新城	4
+ju chuan lian	菊川怜	4
+ju fu shan zhuang	聚福山庄	4
+ju ge zhuang cun	巨各庄村	4
+ju guang	具广	4
+ju he tan	巨合滩	4
+ju hua fo shou su	菊花佛手酥	4
+ju ji bao zhu she ye	聚肌胞注射液	4
+ju jiang	菊江	4
+ju le xiang	俱乐乡	4
+ju ming jiao tai zhu she ye	聚明胶肽注射液	4
+ju ri he zhen	巨日合镇	4
+ju rong shi fang shan cha chang	句容市方山茶场	4
+ju shan li zhi	聚山梨酯	4
+ju shao ba	桔烧巴	4
+ju sheng hua yuan	聚胜花园	4
+ju shi xi bao xi tong	巨噬细胞系统	4
+ju shui yue zai shou	掬水月在手	4
+ju ti chu fa xing wei	具体处罚行为	4
+ju wei tong dian	聚维酮碘	4
+ju wei ye	居维叶	4
+ju yuan suan bi jia pian	枸橼酸铋钾片	4
+ju bao she qu	聚宝社区	3
+ju cheng he	拒城河	3
+ju chi kuan	菊池宽	3
+ju fu lin	聚福林	3
+ju gu an suan	聚谷氨酸	3
+ju guang xiang	炬光乡	3
+ju hao yuan xiao qu	聚豪园小区	3
+ju hong she qu	拒洪社区	3
+ju hong tan ke jian gao	橘红痰咳煎膏	3
+ju hua dao xiang	菊花岛乡	3
+ju hua dui xie	菊花对蟹	3
+ju hua guo	聚花果	3
+ju hua hai xian guo	菊花海鲜锅	3
+ju hua he tai ku	菊花何太苦	3
+ju lan kang liu gan pian	菊蓝抗流感片	3
+ju long guan ye	巨龙管业	3
+ju shen fu qing chi	举身赴清池	3
+ju tou wang shan yue	举头望山月	3
+ju tou wen que xi	举头闻鹊喜	3
+ju yan cheng wai lie tian jiao	居延城外猎天骄	3
+ju yun xin pian zhi	剧韵新篇至	3
+ju zhang hu tong	驹章胡同	3
+ju bao zhuang zhen	巨宝庄镇	2
+ju bing xi xian an ning jiao	聚丙烯酰胺凝胶	2
+ju chang cun	剧场村	2
+ju cheng	拒城	2
+ju cun	巨村	2
+ju dou zhi bu zhi	句读之不知	2
+ju du fu yu	鮈杜父鱼	2
+ju er jia gui yang wan	聚二甲硅氧烷	2
+ju fang zhi bao wan	局方至宝丸	2
+ju gan you bi ma chun zhi	聚甘油蓖麻醇酯	2
+ju he jia yuan	聚和家园	2
+ju he xing cuo chuang	聚合性痤疮	2
+ju hong tan ke ye	橘红痰咳液	2
+ju ji bao	聚肌胞	2
+ju jia zhen	巨家镇	2
+ju ju xiao ju tong jia	巨屦小屦同贾	2
+ju le lu dong	菊乐路东	2
+ju liao	巨髎	2
+ju lu tang yuan	橘露汤圆	2
+ju qiu dan bai	巨球蛋白	2
+ju qu meng xun	沮渠蒙逊	2
+ju qu mu jian	沮渠牧犍	2
+ju rui du ying zhi	菊蕊独盈枝	2
+ju xi bao dong mai yan	巨细胞动脉炎	2
+ju xian xing duo han zheng	局限性多汗症	2
+ju yi chun suan	聚乙醇酸	2
+ju yi shi dai	居易时代	2
+ju yuan cun	举源村	2
+ju yuan dong zhan	菊园东站	2
+ju yuan suan pen tuo wei lin pian	枸橼酸喷托维林片	2
+ju zhi chang	聚酯厂	2
+ju an fang	居安坊	1
+ju ban yu cuan	桔瓣鱼汆	1
+ju bei hai zhi bin	居北海之滨	1
+ju bian fang qian tu	举鞭访前途	1
+ju bu xing fen	局部兴奋	1
+ju cheng cun	句城村	1
+ju chi zhi zi	菊池智子	1
+ju dong zi zhuan you	举动自专由	1
+ju er hu tong	局儿胡同	1
+ju er hu tong	桔儿胡同	1
+ju guang xiang	莒光乡	1
+ju hai xing	菊海星	1
+ju he wan	橘核丸	1
+ju hong hua tan wan	橘红化痰丸	1
+ju hong jiao nang	橘红胶囊	1
+ju hong tan ke pao teng pian	橘红痰咳泡腾片	1
+ju hua jing	桔花晶	1
+ju hua sheng huo qu	巨化生活区	1
+ju hua xu cha man tou gui	菊花须插满头归	1
+ju huai hong gu zhi	俱怀鸿鹄志	1
+ju ji zhen	居集镇	1
+ju jia yi gong yang	举假以供养	1
+ju jian shan shui xiang	俱兼山水乡	1
+ju jiang cun	菊江村	1
+ju jiao dou yan jing	锯角豆芫菁	1
+ju kou cun	举口村	1
+ju kui yuan	聚奎园	1
+ju lan kang liu gan jiao nang	菊蓝抗流感胶囊	1
+ju long xiang	巨龙乡	1
+ju lu guo er ru fu	举鲁国而儒服	1
+ju mang bao mu	巨蟒保姆	1
+ju ming jiao tai	聚明胶肽	1
+ju mu shan he yi	举目山河异	1
+ju qiao	鞠桥	1
+ju qu wu hui	沮渠无讳	1
+ju ren si ke ke si jia	居人思客客思家	1
+ju san xian	聚三鲜	1
+ju san zhen rong yi	聚散真容易	1
+ju shang bai yan wang qing tian	举觞白眼望青天	1
+ju shi hu fa	具誓护法	1
+ju shi lei	菊石类	1
+ju shi zheng cheng ye wa jian	举世争称邺瓦坚	1
+ju shou xie bang	巨首楔蚌	1
+ju ti yun suan jie duan	具体运算阶段	1
+ju tou hong ri jin	举头红日近	1
+ju wei xi	橘未稀	1
+ju xi bao bing du xing fei yan	巨细胞病毒性肺炎	1
+ju xi cun	举溪村	1
+ju xiang da dao	桔乡大道	1
+ju xing ke ji	巨星科技	1
+ju yan wei xin fu	举言谓新妇	1
+ju yi pei gong yan bao xiang wang	具以沛公言报项王	1
+ju yi xi chun di yan ye	聚乙烯醇滴眼液	1
+ju yu shi wu nv	剧于十五女	1
+ju yuan shang chang	聚源商场	1
+ju yuan shi yan xue xiao	菊园实验学校	1
+ju yuan suan bi jia jiao nang	枸橼酸铋钾胶囊	1
+ju yuan suan fen tai ni	枸橼酸芬太尼	1
+ju yuan suan lv mi fen jiao nang	枸橼酸氯米芬胶囊	1
+ju yuan suan pai qin	枸橼酸哌嗪	1
+ju yuan suan xin	枸橼酸锌	1
+ju zhang shi xi she tian lang	举长矢兮射天狼	1
+ju zhou jia jing ru ping hua	橘洲佳景如屏画	1
+ju zhou tian tu reng gao yu	橘洲田土仍膏腴	1
+ju zhuang	鞠庄	1
+ju zi ning meng bu ding	桔子柠檬布丁	1
+ju an niu ye e	桔安纽夜蛾	0
+ju an niu ye e	桔安钮夜蛾	0
+ju bai bei fen tian niu	榉白背粉天牛	0
+ju ban fu chi e	桔斑幅尺蛾	0
+ju chi dun xing ti deng chong	锯齿楯形提灯虫	0
+ju chi fen die	矩翅粉蝶	0
+ju chi he ban nan xing	具齿褐斑南星	0
+ju chi jin xing chi e	巨翅金星尺蛾	0
+ju chi lin gou xia	锯齿鳞钩虾	0
+ju chi qi hua	锯齿奇花	0
+ju chi wei fu sai cong	巨齿尾腹鳃蟌	0
+ju chi wei xi cong	巨齿尾溪蟌	0
+ju chi zhen jian shui zao	锯齿真剑水蚤	0
+ju chun piao xia hu yu	锯唇瓢鰕虎鱼	0
+ju ci fu biao shui zao	距刺复镖水蚤	0
+ju da hua qian jin gui	巨大花潜金龟	0
+ju dian mo tang li	桔点磨塘鳢	0
+ju dian ni zao ya yu	桔点拟凿牙鱼	0
+ju dian yuan tun	桔点圆鲀	0
+ju e mao shi ying	巨额毛实蝇	0
+ju gao dai gao xi chong	巨睾带睾吸虫	0
+ju gao li zhi xi chong	巨睾狸殖吸虫	0
+ju gen jie yan tian niu	桔根接眼天牛	0
+ju gen ju tian niu	桔根锯天牛	0
+ju guang lv tian niu	橘光绿天牛	0
+ju hai qiao shu	菊海鞘属	0
+ju he juan e	矩褐卷蛾	0
+ju hua gen jie xian chong	菊花根结线虫	0
+ju huang dao mo chan	桔黄稻沫蝉	0
+ju huang xiao dun mo chan	橘黄小盾沫蝉	0
+ju ji hua yi	菊棘花鮨	0
+ju ji hua yi	距棘花鮨	0
+ju ji jin guan ya	菊姬尽管蚜	0
+ju ji lu ke	巨棘鲈科	0
+ju ke ban mao	具壳半毛	0
+ju lin bing du fu yu	锯鳞冰杜父鱼	0
+ju mang dun yi chun	橘盲盾异蝽	0
+ju mao bi can	锯毛鼻蚕	0
+ju mao shui si yin	巨毛水丝蚓	0
+ju mei dai xing xi chong	鵙鹛带形吸虫	0
+ju nang dai chong	巨囊袋虫	0
+ju ni ji wei	巨匿棘鳚	0
+ju ni xiong xu ye e	锯拟胸须夜蛾	0
+ju qian e ji xiao feng	桔潜蛾姬小蜂	0
+ju quan li yu	锯全丽鱼	0
+ju que weng	鵙雀鹟	0
+ju san niao	鵙伞鸟	0
+ju shi ni bi qian	居室拟壁钱	0
+ju shou fu ying	巨手浮萤	0
+ju shou zuo li mu	巨兽佐利姆	0
+ju si wen ju ji jiao an kang	巨丝吻巨棘角鮟鱇	0
+ju tou gu luo	鵴头骨螺	0
+ju wei hou mao tou yu zao	巨尾后锚头鱼蚤	0
+ju wei long bei zao	锯尾隆背蚤	0
+ju wei ye xiang	居维叶象	0
+ju xiao mao chi lin	桔肖毛翅麟	0
+ju xiao mao chi ye e	橘肖毛翅夜蛾	0
+ju xiao rou wei xie	巨小肉伪蝎	0
+ju xiao tong tian niu	菊小筒天牛	0
+ju xing gu guang chi hou	巨型古广翅鲎	0
+ju xing shi qian dai shu	巨型史前袋鼠	0
+ju xing yuan gu kun chong	巨型远古昆虫	0
+ju yuan hui die	锯缘灰蝶	0
+ju yuan lu gui	锯缘陆龟	0
+ju yuan tun da ting	巨圆臀大蜓	0
+ju yuan yuan gui	锯缘圆龟	0
+ju yuan zhen jian shui zao	锯缘真剑水蚤	0
+ju zhao chao xie	巨招潮蟹	0
+ju zhao wan wei zao	锯爪弯尾蚤	0
+ju zhong hua xiang bai yi	居中华象白蚁	0
+ju zhu tong chong ju zhe hai qiao	巨住筒虫巨褶海鞘	0

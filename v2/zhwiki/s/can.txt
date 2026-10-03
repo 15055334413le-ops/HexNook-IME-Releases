@@ -1,0 +1,729 @@
+can ao	残奥	0
+can ao bing qiu	残奥冰球	0
+can ao du mu zhou	残奥独木舟	0
+can ao hui	残奥会	0
+can ao hui mei guo dai biao tuan	残奥会美国代表团	0
+can ao hui xiang mu	残奥会项目	0
+can ao hui ying guo dai biao tuan	残奥会英国代表团	0
+can ao hui zhong guo dai biao tuan	残奥会中国代表团	0
+can ao hui zhong hua ren min gong he guo dai biao tuan	残奥会中华人民共和国代表团	0
+can ao ma shu	残奥马术	0
+can ao pi hua ting	残奥皮划艇	0
+can ao tian jing	残奥田径	0
+can ao wei hui	残奥委会	0
+can ba	参峇	0
+can ba jiang	参巴酱	0
+can ba jiang	参峇酱	0
+can ba la jiao jiang	参巴辣椒酱	0
+can bai	参拜	0
+can ban e shu	灿斑蛾属	0
+can ban ye chan shu	残瓣叶蝉属	0
+can bao bao	蚕宝宝	0
+can bao bei ji xiong	残暴北极熊	0
+can bao jia die	灿豹蛱蝶	0
+can bao shi	残暴狮	0
+can bao si wang jin shu	残暴死亡金属	0
+can bao xiang	参宝乡	0
+can bao zhen	参宝镇	0
+can bi dian ji	参比电极	0
+can bi ping shu	残臂鲆属	0
+can bian liang	参变量	0
+can bo jia deng ta	残波岬灯塔	0
+can bo lang qian hu suo	参卜郎千户所	0
+can bu la ke shan	灿布拉克山	0
+can cai	蚕菜	0
+can can you song jia	餐餐有宋家	0
+can cao	参草	0
+can cen bei ge shan	灿岑贝格山	0
+can cha	参察	0
+can cha	餐叉	0
+can cha	残差	0
+can cha ping fang he	残差平方和	0
+can cha shen jing wang luo	残差神经网络	0
+can cha sheng guo shou shu dao	餐叉胜过手术刀	0
+can chan	参禅	0
+can che	餐车	0
+can che da chu	餐车大厨	0
+can cheng	灿成	0
+can chi li	残齿鲤	0
+can chi li shu	残齿鲤属	0
+can chi xian	残齿藓	0
+can chong	蚕虫	0
+can chu	参厨	0
+can ci	残磁	0
+can cong	蚕丛	0
+can cong shi	蚕丛氏	0
+can cun guo jia	残存国家	0
+can cun zheng fu	残存政府	0
+can cun zheng quan	残存政权	0
+can da fu zhong	餐大附中	0
+can dan	餐单	0
+can dao	参道	0
+can dao	餐刀	0
+can dao ren	残道人	0
+can de er	灿德尔	0
+can de er huan xing shan	灿德尔环形山	0
+can deng you ling san geng tian	残灯幽灵三更天	0
+can dian	餐点	0
+can die	灿蝶	0
+can die ke	灿蝶科	0
+can dong	残冬	0
+can dou	蚕豆	0
+can dou bing	蚕豆病	0
+can dou bing du shu	蚕豆病毒属	0
+can dou chong shu	蚕豆虫属	0
+can dou ha ke	蚕豆蛤科	0
+can dou jin bo li jie	蚕豆金玻璃介	0
+can dou mi ding	蚕豆嘧啶	0
+can dou mu	蚕豆目	0
+can dou shu	蚕豆属	0
+can dou zheng	蚕豆症	0
+can dun ji	参炖鸡	0
+can duo	灿多	0
+can duo de xing guang shan yao de ye wan	灿多的星光闪耀的夜晚	0
+can e	蚕蛾	0
+can e chun	蚕蛾醇	0
+can e ke	蚕蛾科	0
+can e xian jia die	残锷线蛱蝶	0
+can e zong ke	蚕蛾总科	0
+can er guang xian fang da qi	掺铒光纤放大器	0
+can fang yuan zi	蚕房院子	0
+can fei	残废	0
+can fei can	残废餐	0
+can fei ruan jian	残废软件	0
+can fu jia die	灿福蛱蝶	0
+can ge	参哥	0
+can ge	餐哥	0
+can ge	残割	0
+can ge nv xing sheng zhi qi	残割女性生殖器	0
+can gong	参公	0
+can gong dan wei	参公单位	0
+can gong ji xing dian tie	参宫急行电铁	0
+can gong qiao che zhan	参宫桥车站	0
+can gong qiao ji wan	参宫桥急弯	0
+can gong qiao zhan	参宫桥站	0
+can gong shi ye dan wei	参公事业单位	0
+can gong tie dao	参宫铁道	0
+can gong xian	参宫线	0
+can guan	餐馆	0
+can guan la chan ke	残管蜡蝉科	0
+can guang liao	灿光寮	0
+can guang liao shan	灿光寮山	0
+can guang liao zhuang	灿光藔庄	0
+can guo tan cun mu di	参果滩村墓地	0
+can hai mi ma	残骸密码	0
+can hao ji	参号机	0
+can he	参合	0
+can he	餐盒	0
+can he bei	参合陂	0
+can he bei zhi yi	参合陂之役	0
+can he bei zhi zhan	参合陂之战	0
+can he ji jiu zi	参河纪久子	0
+can hong	灿鸿	0
+can hou jiu	餐后酒	0
+can hou shi shui	餐后嗜睡	0
+can hou tian jiu	餐后甜酒	0
+can hu	参胡	0
+can hua lei	残花泪	0
+can hua tou	参话头	0
+can hua zhu ren	粲花主人	0
+can hui yi long	残喙翼龙	0
+can hui yi long ya ke	残喙翼龙亚科	0
+can huo	灿惑	0
+can ji	残基	0
+can ji	残疾	0
+can ji ceng	残积层	0
+can ji dong ji liang xiang	残疾冬季两项	0
+can ji mu zhi	残积母质	0
+can ji ping gu deng ji zheng	残疾评估登记证	0
+can ji qi shi	残疾歧视	0
+can ji ren	残疾人	0
+can ji ren ao lin pi ke yun dong hui	残疾人奥林匹克运动会	0
+can ji ren ao yun hui	残疾人奥运会	0
+can ji ren bing qiu	残疾人冰球	0
+can ji ren jiu ye bao zhang jin	残疾人就业保障金	0
+can ji ren ma shu	残疾人马术	0
+can ji ren pan yan	残疾人攀岩	0
+can ji ren pi hua ting	残疾人皮划艇	0
+can ji ren ping pang qiu	残疾人乒乓球	0
+can ji ren quan li gong yue	残疾人权利公约	0
+can ji ren quan li yun dong	残疾人权利运动	0
+can ji ren she jian	残疾人射箭	0
+can ji ren shi	残疾人士	0
+can ji ren shi ao lin pi ke yun dong hui	残疾人士奥林匹克运动会	0
+can ji ren shi ao yun hui	残疾人士奥运会	0
+can ji ren shi deng ji zheng	残疾人士登记证	0
+can ji ren ti yu	残疾人体育	0
+can ji ren tian jing	残疾人田径	0
+can ji ren you yong	残疾人游泳	0
+can ji ren yu mao qiu	残疾人羽毛球	0
+can ji ren yun dong pan deng	残疾人运动攀登	0
+can ji ren yun dong pan yan	残疾人运动攀岩	0
+can ji ren zhi ye kang fu he jiu ye gong yue	残疾人职业康复和就业公约	0
+can ji ren zhuo qiu	残疾人桌球	0
+can ji tang	参鸡汤	0
+can ji wei ling	残机为零	0
+can ji wu	残积物	0
+can ji ying di	残疾营地	0
+can ji yu fang ri	残疾预防日	0
+can ji yun dong yuan	残疾运动员	0
+can ji zheng	残疾证	0
+can jia	掺假	0
+can jia die	灿蛱蝶	0
+can jia die shu	灿蛱蝶属	0
+can jian	参见	0
+can jian	参键	0
+can jian cao	蚕茧草	0
+can jian ke zhan	蚕茧客栈	0
+can jian zhen jiang hu	残剑震江湖	0
+can jiang	参将	0
+can jiang	叅将	0
+can jin	餐巾	0
+can jin	残津	0
+can jin jiao dai	参觐交代	0
+can jin jiao ti	参觐交替	0
+can jin que yu	残金缺玉	0
+can jiu	餐酒	0
+can jiu zhen wo	参究真我	0
+can jiu zi wo	参究自我	0
+can ju	餐具	0
+can jun	参军	0
+can jun shi	参军事	0
+can jun xi	参军戏	0
+can jun zhang	参军长	0
+can kao	参考	0
+can kao bai se	参考白色	0
+can kao biao ji	参考标记	0
+can kao biao jia	参考标架	0
+can kao dian ya	参考电压	0
+can kao fu wu	参考服务	0
+can kao gong ju shu	参考工具书	0
+can kao guan yuan	参考馆员	0
+can kao kuang jia	参考框架	0
+can kao mei ri she ru liang	参考每日摄入量	0
+can kao mu lu	参考目录	0
+can kao ping mian	参考平面	0
+can kao qun ti	参考群体	0
+can kao shan shi she ru liang	参考膳食摄入量	0
+can kao shi xian	参考实现	0
+can kao shi zuo	参考实作	0
+can kao shu	参考书	0
+can kao shu mu	参考书目	0
+can kao tu shu guan	参考图书馆	0
+can kao tuan ti	参考团体	0
+can kao tuo qiu	参考椭球	0
+can kao wang xiang	参考妄想	0
+can kao wen ti	参考问题	0
+can kao wen xian	参考文献	0
+can kao wu tan	参考晤谈	0
+can kao xi	参考系	0
+can kao xi tuo ye	参考系拖曳	0
+can kao xi tuo zhuai	参考系拖拽	0
+can kao xiao xi	参考消息	0
+can kao zi liao	参考资料	0
+can kao zi yuan	参考资源	0
+can kao zuo biao	参考坐标	0
+can kao zuo biao	参考座标	0
+can ke wa	灿科瓦	0
+can ke wa qu	灿科瓦区	0
+can ke wa shi zhen	灿科瓦市镇	0
+can kong jun shu	残孔菌属	0
+can ku da jie	残酷大街	0
+can ku da shi ji	残酷大世纪	0
+can ku de ai	残酷的爱	0
+can ku de guan zhong men	残酷的观众们	0
+can ku de lang man	残酷的浪漫	0
+can ku de shi xi sheng	残酷的实习生	0
+can ku de si ge jie duan	残酷的四个阶段	0
+can ku de wen rou	残酷的温柔	0
+can ku fei zhou	残酷非洲	0
+can ku he bu xun chang de cheng fa	残酷和不寻常的惩罚	0
+can ku hua chi long	残酷滑齿龙	0
+can ku ji lu pian	残酷纪录片	0
+can ku jie long	残酷接龙	0
+can ku ju chang	残酷剧场	0
+can ku kao	残酷考	0
+can ku nv yin mo	残酷女淫魔	0
+can ku ren sheng	残酷人生	0
+can ku shi jie	残酷世界	0
+can ku shi ren zu	残酷食人族	0
+can ku tian shi	残酷天使	0
+can ku tian shi de xing dong gang ling	残酷天使的行动纲领	0
+can ku wei e shou	残酷伟鳄兽	0
+can ku wu tai	残酷舞台	0
+can ku xi ju	残酷戏剧	0
+can ku xia ji	残酷夏季	0
+can ku yi ding	残酷一叮	0
+can ku zhan zheng shi lu	残酷战争实录	0
+can kua ke	粲夸克	0
+can kui zu shi	惭愧祖师	0
+can kun	灿坤	0
+can kun shi ye gu fen you xian gong si	灿坤实业股份有限公司	0
+can lan bang wei	灿烂棒鳚	0
+can lan ci zu zhu	灿烂刺足蛛	0
+can lan de jin shun	灿烂的金顺	0
+can lan de qian xing	灿烂的前行	0
+can lan de wai mu	灿烂的外母	0
+can lan de yi chan	灿烂的遗产	0
+can lan de zhuan shen	灿烂的转身	0
+can lan hua mian xie	灿烂滑面蟹	0
+can lan kuang deng yu	灿烂眶灯鱼	0
+can lan mi jiang	灿烂秘鳉	0
+can lan pu li yu	灿烂朴丽鱼	0
+can lan qian yang	灿烂千阳	0
+can lan ren sheng	灿烂人生	0
+can lan sheng tian zhu diao	灿烂圣天竺鲷	0
+can lan shi guang	灿烂时光	0
+can lan sui yue	灿烂岁月	0
+can lan ti xing xie	灿烂梯形蟹	0
+can lan yong heng	灿烂永恒	0
+can le zuo zhui luo	参肋左锥螺	0
+can li shan	参里山	0
+can li yu	灿丽鱼	0
+can li yu shu	灿丽鱼属	0
+can li yuan	残粒园	0
+can li zhan	参礼站	0
+can lian	残联	0
+can lian hui	参联会	0
+can lian hui zhu xi	参联会主席	0
+can liang	参量	0
+can liang li diao	灿亮丽鲷	0
+can liang wai shi	残梁外史	0
+can liao zi	参寥子	0
+can lie	灿烈	0
+can lin zhi zhu	残林之主	0
+can ling	参领	0
+can ling	喰霊	0
+can ling	孱陵	0
+can ling hou	孱陵侯	0
+can ling xian	蚕陵县	0
+can liu bian dai	残留边带	0
+can liu di qi ya	残留低气压	0
+can liu jie gou	残留结构	0
+can liu qi	残留妻	0
+can liu qiang li	残留强力	0
+can liu ri ben bing	残留日本兵	0
+can liu shan qiu	残留山丘	0
+can liu xing zhi	残留性质	0
+can lu	参露	0
+can lu teng	参露藤	0
+can luan zou si zhi dong luo ma di guo	蚕卵走私至东罗马帝国	0
+can lv	餐旅	0
+can lv fu zhong	餐旅附中	0
+can lv gao ji zhong xue	餐旅高级中学	0
+can lv gao zhong	餐旅高中	0
+can lv guo zhong	餐旅国中	0
+can ma yi si ji si bo zhang chu yi si zhai bo	参马亦思吉思卜长出亦思宅卜	0
+can mei	残美	0
+can mei	蚕莓	0
+can mei	澯美	0
+can mei er	灿美尔	0
+can mei er liu lang zhe zu qiu hui	灿美尔流浪者足球会	0
+can mei er liu lang zu qiu hui	灿美尔流浪足球会	0
+can mei er zu qiu hui	灿美尔足球会	0
+can mei xian jia die	残眉线蛱蝶	0
+can meng	残梦	0
+can mi	参蜜	0
+can mou	参谋	0
+can mou ben bu	参谋本部	0
+can mou bu	参谋部	0
+can mou shi guan	参谋士官	0
+can mou shou zhang lian xi hui	参谋首长联席会	0
+can mou xue tang	参谋学堂	0
+can mou zhang	参谋长	0
+can mou zhang lian xi hui	参谋长联席会	0
+can mou zhang lian xi hui yi	参谋长联席会议	0
+can mou zhang wei yuan hui	参谋长委员会	0
+can mou zheng shi	参谋政事	0
+can mou zong bu	参谋总部	0
+can mou zong zhang	参谋总长	0
+can mu qun	参木群	0
+can nei xiang	参内乡	0
+can nei zhen	参内镇	0
+can ni li yu	灿拟丽鱼	0
+can ni si yan jiang	灿拟四眼鳉	0
+can nian nv gan bu	残念女干部	0
+can nian zhang fu	残念丈夫	0
+can nv	蚕女	0
+can nv fu hua yi li	掺钕氟化钇锂	0
+can nv yi lv shi liu shi ji guang qi	掺钕钇铝石榴石激光器	0
+can nv yi lv shi liu shi lei she	掺钕钇铝石榴石雷射	0
+can pai	餐牌	0
+can pian	残片	0
+can po shi dai	残破时代	0
+can qi	参旗	0
+can qi	参棋	0
+can qi ba	参旗八	0
+can qi cao	参漆草	0
+can qi liu	参旗六	0
+can qi qi	参旗七	0
+can qi san	参旗三	0
+can qi xin pu xun jiang	残鳍辛普逊鳉	0
+can qi zeng er	参旗增二	0
+can qi zeng liu	参旗增六	0
+can qi zeng qi	参旗增七	0
+can qi zeng shi	参旗增十	0
+can qi zeng si	参旗增四	0
+can qi zeng wu	参旗增五	0
+can qi zeng yi	参旗增一	0
+can qian jiu	餐前酒	0
+can qian jiu he can hou jiu	餐前酒和餐后酒	0
+can qiang	蚕羌	0
+can qin jiao dai	参勤交代	0
+can qu xiang hou	参蘧乡侯	0
+can que de qi pan wen ti	残缺的棋盘问题	0
+can que jia ting	残缺家庭	0
+can que yi hui	残缺议会	0
+can que ying xiang	残缺影像	0
+can ran shu wu	灿然书屋	0
+can ran yi xin	灿然一新	0
+can ren	残忍	0
+can ren de lei ni la	残忍的雷妮拉	0
+can ren si wang jin shu	残忍死亡金属	0
+can ren xiao hua	残忍笑话	0
+can rou	餐肉	0
+can san qi	参三七	0
+can sang	蚕桑	0
+can sang che zhan	蚕桑车站	0
+can sang zhan	蚕桑站	0
+can sen hu	灿森湖	0
+can sha	残杀	0
+can sha wei	残杀威	0
+can shan	残山	0
+can shan guo jia feng jing qu	参山国家风景区	0
+can she hui	惨社会	0
+can shen xing	灿神星	0
+can sheng	参生	0
+can sheng	惨胜	0
+can sheng	灿盛	0
+can shi	参事	0
+can shi	餐匙	0
+can shi	蚕室	0
+can shi ao lin pi ke ti yu chang	蚕室奥林匹克体育场	0
+can shi ao lin pi ke zhu jing ji chang	蚕室奥林匹克主竞技场	0
+can shi bang qiu chang	蚕室棒球场	0
+can shi da qiao	蚕室大桥	0
+can shi du kou zhan	蚕室渡口站	0
+can shi guan	参事官	0
+can shi shi	参事室	0
+can shi shi nei ti yu guan	蚕室室内体育馆	0
+can shi ti yu chang	蚕室体育场	0
+can shi tie qiao	蚕室铁桥	0
+can shi wen yu	灿食蚊鱼	0
+can shi xin chuan zhan	蚕室新川站	0
+can shi ye duo fu	灿实也多福	0
+can shi yi dao su	餐时胰岛素	0
+can shi yuan	参事院	0
+can shi yun dong chang	蚕室运动场	0
+can shi zhan	蚕室站	0
+can shi zong he yun dong chang	蚕室综合运动场	0
+can shou zhai	孱守斋	0
+can shu	参薯	0
+can shu	参数	0
+can shu	蚕书	0
+can shu	䅟属	0
+can shu	粲数	0
+can shu	䱗属	0
+can shu bian huan fa	参数变换法	0
+can shu dan gao	参薯蛋糕	0
+can shu ding li	残数定理	0
+can shu duo tai	参数多态	0
+can shu fang cheng	参数方程	0
+can shu fu za xing	参数复杂性	0
+can shu gu ce	参数估测	0
+can shu gu ji	参数估计	0
+can shu hua cha xun	参数化查询	0
+can shu hua dan yuan	参数化单元	0
+can shu hua duo tai	参数化多态	0
+can shu hua fu za xing	参数化复杂性	0
+can shu hua hou niu dun zhong li xing shi	参数化后牛顿重力形式	0
+can shu hua lei xing	参数化类型	0
+can shu qu xian	参数曲线	0
+can shu shi	参数式	0
+can shu tong ji	参数统计	0
+can shu wei du	参数纬度	0
+can shu zhen dang qi	参数振荡器	0
+can shu zhi	参数值	0
+can shui lie jiu	掺水烈酒	0
+can shui yuan	参水猿	0
+can si	蚕丝	0
+can si dan bai	蚕丝蛋白	0
+can si fu te cheng zu qiu hui	灿斯福特城足球会	0
+can si fu te zu qiu hui	灿斯福特足球会	0
+can su	参宿	0
+can su er	参宿二	0
+can su liu	参宿六	0
+can su qi	参宿七	0
+can su qi hao chen mo shi jian	参宿七号沉没事件	0
+can su san	参宿三	0
+can su si	参宿四	0
+can su wu	参宿五	0
+can su yi	参宿一	0
+can su yin	参苏饮	0
+can su zeng ba	参宿增八	0
+can su zeng er	参宿增二	0
+can su zeng er shi liu	参宿增二十六	0
+can su zeng jiu	参宿增九	0
+can su zeng nian	参宿增廿	0
+can su zeng sa er	参宿增卅二	0
+can su zeng sa jiu	参宿增卅九	0
+can su zeng sa liu	参宿增卅六	0
+can su zeng sa qi	参宿增卅七	0
+can su zeng sa san	参宿增卅三	0
+can su zeng sa si	参宿增卅四	0
+can su zeng sa wu	参宿增卅五	0
+can su zeng sa yi	参宿增卅一	0
+can su zeng san	参宿增三	0
+can su zeng shi	参宿增十	0
+can su zeng si	参宿增四	0
+can su zeng yi	参宿增一	0
+can sui ban jing	残碎斑晶	0
+can sui suo cao	䅟穗莎草	0
+can sun	参孙	0
+can sun da jiao tang	参孙大教堂	0
+can sun de mu qin	参孙的母亲	0
+can sun pen quan	参孙喷泉	0
+can sun xuan xiang	参孙选项	0
+can sun yu da li la	参孙与大利拉	0
+can sun zhu jiao zuo tang	参孙主教座堂	0
+can tai xian	蚕台县	0
+can tang	残唐	0
+can tang wu dai shi yan yi	残唐五代史演义	0
+can tang wu dai yan yi	残唐五代演义	0
+can te	灿特	0
+can te ba he he	灿特巴赫河	0
+can ti zi	残体字	0
+can tian lv	参天律	0
+can tian zhi yao	参天制药	0
+can tiao	䱗鲦	0
+can tiao liang ji chong	粲鲦两极虫	0
+can tie jia shu	残铁甲属	0
+can ting	餐厅	0
+can ting cheng shi	餐厅城市	0
+can ting lao ban	餐厅老板	0
+can ting lei xing	餐厅类型	0
+can ting tian tuan	餐厅天团	0
+can tong de zhan zheng	惨痛的战争	0
+can tong qi	参同契	0
+can tong xia ri	惨痛夏日	0
+can wei ai	残胃癌	0
+can wei hui	残委会	0
+can wei shan fang	蚕尾山房	0
+can wen tong ge	蚕纹铜戈	0
+can wo shui ku	参窝水库	0
+can wu hui	餐舞会	0
+can xia	残夏	0
+can xia weng	餐霞翁	0
+can xian lao guai	参仙老怪	0
+can xiang che zhan	参乡车站	0
+can xiang san ge	残响散歌	0
+can xiang zhan	参乡站	0
+can xie zhi li	参谢之礼	0
+can xin	残心	0
+can xin ban dao ti	灿芯半导体	0
+can xing	参姓	0
+can xing	残形	0
+can xing wen hua	灿星文化	0
+can xing yu zhou lun	残形宇宙论	0
+can xing yu zhou xue	残形宇宙学	0
+can xing zhi zuo	灿星制作	0
+can xu xi yu	灿魣蜥鱼	0
+can xuan	参选	0
+can xuan lian shu	参选连署	0
+can xuan ren	参选人	0
+can xue	残雪	0
+can ye	蚕业	0
+can ye e shu	灿夜蛾属	0
+can yi	参议	0
+can yi	参诣	0
+can yi chao zheng	参议朝政	0
+can yi de shi	参议得失	0
+can yi fa	参夷法	0
+can yi fu	参议府	0
+can yi hui	参议会	0
+can yi yuan	参议员	0
+can yi yuan	参议院	0
+can yi yuan bi li qu	参议院比例区	0
+can yi yuan dou tang	参议院豆汤	0
+can yi yuan ge dang ling xiu	参议院各党领袖	0
+can yi yuan gong	参议院宫	0
+can yi yuan hai shan ha	参议员海扇蛤	0
+can yi yuan li yu	参议院礼遇	0
+can yi yuan lin shi yi zhang	参议院临时议长	0
+can yi yuan lin shi zhu xi	参议院临时主席	0
+can yi yuan qing bao wei yuan hui	参议院情报委员会	0
+can yi yuan qing bao zhuan ze wei yuan hui	参议院情报专责委员会	0
+can yi yuan quan guo qu	参议院全国区	0
+can yi yuan shao shu dang dang bian	参议院少数党党鞭	0
+can yi yuan si fa wei yuan hui	参议院司法委员会	0
+can yi yuan tai wan lian xian	参议院台湾连线	0
+can yi yuan wai jiao wei yuan hui	参议院外交委员会	0
+can yi yuan xie yi	参议院协议	0
+can yi yuan yi shi lu	参议院议事录	0
+can yi yuan yi yuan chang gui xuan ju	参议院议员常规选举	0
+can yi yuan yi yuan tong chang xuan ju	参议院议员通常选举	0
+can yi yuan zi li	参议员资历	0
+can yin	餐饮	0
+can yin dian	餐饮店	0
+can yin fu wu	餐饮服务	0
+can yin jia	餐饮家	0
+can yin pin pai guo ji	餐饮品牌国际	0
+can yin ye	餐饮业	0
+can ying	残影	0
+can ying ju shi	餐英居士	0
+can ying kong jian	残影空间	0
+can ying yi	灿樱鮨	0
+can ying yu xiang	残影余像	0
+can yong	蚕蛹	0
+can yong kai fu ha	蚕蛹开腹蛤	0
+can yu chao zheng	参豫朝政	0
+can yu dong ji ao lin pi ke yun dong hui de re dai guo jia	参与冬季奥林匹克运动会的热带国家	0
+can yu feng xian	残余风险	0
+can yu guan cha	参与观察	0
+can yu guo hui	残余国会	0
+can yu guo hui	残馀国会	0
+can yu guo jia	残余国家	0
+can yu hu	残余湖	0
+can yu hui yi	参预会议	0
+can yu huo zai	残余火灾	0
+can yu jing ji	参与经济	0
+can yu min zhu	参与民主	0
+can yu min zhu zhi	参予民主制	0
+can yu shi	参与式	0
+can yu shi min zhu	参与式民主	0
+can yu shi she ji	参与式设计	0
+can yu shi yu suan	参与式预算	0
+can yu shi zheng zhi	参与式政治	0
+can yu xing jing ji	参与型经济	0
+can yu xing zhi	残余性质	0
+can yu yi hui	残余议会	0
+can yu yi hui	残馀议会	0
+can yu ying li	残余应力	0
+can yu zhe mo shi	参与者模式	0
+can yu zheng quan	残余政权	0
+can yu zu jian xi nan cai jing da xue de xi ke	参与组建西南财经大学的系科	0
+can yuan	残元	0
+can yuan tun	灿圆鲀	0
+can yuan zhan	蚕院站	0
+can yue	残月	0
+can yue	蚕月	0
+can yue ba ri	参月捌日	0
+can yue can ri	参月参日	0
+can yue can shi ri	参月参拾日	0
+can yue can shi yi ri	参月参拾壹日	0
+can yue er ri	参月贰日	0
+can yue er shi ba ri	参月贰拾捌日	0
+can yue er shi can ri	参月贰拾参日	0
+can yue er shi er ri	参月贰拾贰日	0
+can yue er shi jiu ri	参月贰拾玖日	0
+can yue er shi lu ri	参月贰拾陆日	0
+can yue er shi qi ri	参月贰拾柒日	0
+can yue er shi ri	参月贰拾日	0
+can yue er shi si ri	参月贰拾肆日	0
+can yue er shi wu ri	参月贰拾伍日	0
+can yue er shi yi ri	参月贰拾壹日	0
+can yue jiu ri	参月玖日	0
+can yue lu ri	参月陆日	0
+can yue mo dou	残月魔都	0
+can yue nian ba ri	参月廿捌日	0
+can yue nian can ri	参月廿参日	0
+can yue nian er ri	参月廿贰日	0
+can yue nian jiu ri	参月廿玖日	0
+can yue nian lu ri	参月廿陆日	0
+can yue nian qi ri	参月廿柒日	0
+can yue nian ri	参月廿日	0
+can yue nian si ri	参月廿肆日	0
+can yue nian wu ri	参月廿伍日	0
+can yue nian yi ri	参月廿壹日	0
+can yue qi ri	参月柒日	0
+can yue sa ri	参月卅日	0
+can yue sa yi ri	参月卅壹日	0
+can yue shi ba ri	参月拾捌日	0
+can yue shi can ri	参月拾参日	0
+can yue shi er ri	参月拾贰日	0
+can yue shi jiu ri	参月拾玖日	0
+can yue shi lu ri	参月拾陆日	0
+can yue shi qi ri	参月拾柒日	0
+can yue shi ri	参月拾日	0
+can yue shi si ri	参月拾肆日	0
+can yue shi wu ri	参月拾伍日	0
+can yue shi yi ri	参月拾壹日	0
+can yue si ri	参月肆日	0
+can yue wu ri	参月伍日	0
+can yue yi ri	参月壹日	0
+can yue yin feng chui gu lou	残月阴风吹古楼	0
+can za	掺杂	0
+can za ban dao ti	掺杂半导体	0
+can za ji	掺杂剂	0
+can za wu	掺杂物	0
+can za zhi	掺杂质	0
+can zai cai	参仔菜	0
+can zai cao	参仔草	0
+can zai li xian ji	孱仔历险记	0
+can zai ye	参仔叶	0
+can zan	参赞	0
+can zan da chen	参赞大臣	0
+can zhan meng jun si ling bu	参战盟军司令部	0
+can zhan piao dai	参战飘带	0
+can zhang	残障	0
+can zhang ao lin pi ke bi sai	残障奥林匹克比赛	0
+can zhang ao lin pi ke yun dong hui	残障奥林匹克运动会	0
+can zhang ao yun	残障奥运	0
+can zhang dian ti	残障电梯	0
+can zhang ji mi	参掌机密	0
+can zhang ren shi	残障人士	0
+can zhang te kao	残障特考	0
+can zhang xiang guan yu nan zhe ai dao ri	残障相关遇难者哀悼日	0
+can zhang zhe	残障者	0
+can zhao	参照	0
+can zhao gong wu yuan fa guan li	参照公务员法管理	0
+can zhao gong wu yuan guan li	参照公务员管理	0
+can zhao ji shu	参照计数	0
+can zhao ju bu xing	参照局部性	0
+can zhao qun ti	参照群体	0
+can zhao shi zhuang	参照实装	0
+can zhao wan zheng xing	参照完整性	0
+can zhao wang xiang	参照妄想	0
+can zhao wu	参照物	0
+can zhao xi	参照系	0
+can zhao xi tuo zhuai	参照系拖拽	0
+can zheng	参政	0
+can zheng dang	参政党	0
+can zheng hu tong	参政胡同	0
+can zheng hui	参政会	0
+can zheng quan	参政权	0
+can zheng si	参政司	0
+can zheng xi xiang	参政西巷	0
+can zheng xiao xi	参政消息	0
+can zheng yuan	参政院	0
+can zhi	参知	0
+can zhi	蚕支	0
+can zhi bian se long	残肢变色龙	0
+can zhi hu shu	残趾虎属	0
+can zhi ji wu	参知机务	0
+can zhi she che zhan	蚕之社车站	0
+can zhi she zhan	蚕之社站	0
+can zhi xi shu	残肢蜥属	0
+can zhi zheng shi	参知政事	0
+can zhong	餐中	0
+can zhong liang yuan lian xi hui yi	参众两院联席会议	0
+can zhou	参州	0
+can zhou e shu	蚕舟蛾属	0
+can zhu luo	参珠螺	0
+can zhuang yuan huan yin	参状远环蚓	0
+can zhuang yuan mang yin	参状远盲蚓	0
+can zhuang zhen	蚕庄镇	0
+can zhuo li yi	餐桌礼仪	0
+can zhuo lin si	参卓林寺	0
+can zhuo shi	餐桌匙	0
+can zhuo yan	餐桌盐	0
+can zhuo zhuan pan	餐桌转盘	0
+can zi	参子	0
+can zi	䅟子	0
+can zi hu	参子湖	0
+can zong ke	参棕科	0
+can zong shu	参棕属	0
+can zong ya ke	参棕亚科	0
+can zong zu	参棕族	0
+can zuan guang yu	参钻光鱼	0
+can zui di jiang	残嘴底鳉	0

@@ -1,0 +1,873 @@
+cu an ben feng	醋氨苯砜	0
+cu an ben suan	醋氨苯酸	0
+cu an fen	醋氨酚	0
+cu an yan	粗安岩	0
+cu bai zhu shu	簇白珠属	0
+cu ban bi luo	粗斑笔螺	0
+cu ban e luo	粗斑峨螺	0
+cu bao mei shu	簇孢霉属	0
+cu bao qiu hun	粗暴求婚	0
+cu bao qu mei	粗孢曲霉	0
+cu bao zhu	粗豹蛛	0
+cu bei bian fu yu	粗背蝙蝠鱼	0
+cu bei du fu yu shu	粗背杜父鱼属	0
+cu bei jiang	粗背鳉	0
+cu bei jiang shu	粗背鳉属	0
+cu bei yao	粗背鳐	0
+cu bing du wei cao	粗柄独尾草	0
+cu bing le mao jue	粗柄肋毛蕨	0
+cu bing mao leng jue	粗柄毛冷蕨	0
+cu bing ni jue xian	粗柄拟蕨藓	0
+cu bing qi	粗柄槭	0
+cu bing shuang gai jue	粗柄双盖蕨	0
+cu bing ti gai jue	粗柄蹄盖蕨	0
+cu bing tie xian lian	粗柄铁线莲	0
+cu bing wa wei	粗柄瓦韦	0
+cu bing xian ke	粗柄藓科	0
+cu bing xian shu	粗柄藓属	0
+cu bing ye mu gua	粗柄野木瓜	0
+cu bing yu shan zhu	粗柄玉山竹	0
+cu bu he luo	粗布核螺	0
+cu cai nong chang	促猜农场	0
+cu cai si jie guan yin si	促猜四街观音寺	0
+cu cao ba qia	粗糙菝葜	0
+cu cao cha mao peng	粗糙叉毛蓬	0
+cu cao cong lin bai zhu	粗糙丛林白珠	0
+cu cao duan chang jue	粗糙短肠蕨	0
+cu cao duan feng jie	粗糙短蜂介	0
+cu cao duan pan xi chong	粗糙短盘吸虫	0
+cu cao e guan cao	粗糙鹅观草	0
+cu cao fang chui luo	粗糙纺锤螺	0
+cu cao fang ci kai xia	粗糙仿刺铠虾	0
+cu cao feng wei jue	粗糙凤尾蕨	0
+cu cao gou du fu yu	粗糙钩杜父鱼	0
+cu cao hong jing tian	粗糙红景天	0
+cu cao huang jin	粗糙黄堇	0
+cu cao ji	粗糙集	0
+cu cao ji meng shui zao	粗糙棘猛水蚤	0
+cu cao jia mu zei	粗糙假木贼	0
+cu cao jiao xing shan hu	粗糙角星珊瑚	0
+cu cao juan guan luo	粗糙卷管螺	0
+cu cao kong jun shu	粗糙孔菌属	0
+cu cao lin gai san	粗糙鳞盖伞	0
+cu cao ma yi shan	粗糙马尾杉	0
+cu cao mai bao jun	粗糙脉孢菌	0
+cu cao mai bao mei	粗糙脉孢霉	0
+cu cao mao ke xie	粗糙毛壳蟹	0
+cu cao mao xie zhu	粗糙毛蟹蛛	0
+cu cao nang tai cao	粗糙囊苔草	0
+cu cao nei zhi wang	粗糙内质网	0
+cu cao ni mi kong jun	粗糙拟迷孔菌	0
+cu cao niao ha	粗糙鸟蛤	0
+cu cao peng zi cai	粗糙蓬子菜	0
+cu cao qiu fu xie	粗糙酋妇蟹	0
+cu cao sha guai zao	粗糙沙拐枣	0
+cu cao shi ci kai xia	粗糙似刺铠虾	0
+cu cao shi ling xie	粗糙蚀菱蟹	0
+cu cao shi wu	粗糙食物	0
+cu cao shu	粗糙数	0
+cu cao shuang gai jue	粗糙双盖蕨	0
+cu cao shuang zhi lin chong	粗糙双指鳞虫	0
+cu cao wan bei jie	粗糙弯贝介	0
+cu cao xi feng qin	粗糙西风芹	0
+cu cao xi lin yu	粗糙喜林芋	0
+cu cao xiao guang ke tai	粗糙小光壳炱	0
+cu cao yan ci xie	粗糙岩瓷蟹	0
+cu cao ye du juan	粗糙叶杜鹃	0
+cu cao yi yan mai	粗糙异燕麦	0
+cu cao zhen ti luo	粗糙真蹄螺	0
+cu cao zhu jie liu shan hu	粗糙竹节柳珊瑚	0
+cu cao zhu xing xi	粗糙柱星螅	0
+cu cha jian	醋茶碱	0
+cu chang mao he gen ya	粗长毛禾根蚜	0
+cu chao	粗炒	0
+cu chen xian ti	粗衬线体	0
+cu chi ai de meng dun jia long	粗齿埃德蒙顿甲龙	0
+cu chi cha jue	粗齿叉蕨	0
+cu chi chun luo	粗齿鹑螺	0
+cu chi ci shuo ma	粗齿刺蒴麻	0
+cu chi cui shuo bao chun	粗齿脆蒴报春	0
+cu chi da ci zao	粗齿大茨藻	0
+cu chi da er wen yi long	粗齿达尔文翼龙	0
+cu chi er jue	粗齿耳蕨	0
+cu chi ge ye zi qi	粗齿革叶紫萁	0
+cu chi guan yin zuo lian	粗齿观音座莲	0
+cu chi guan zhong	粗齿贯众	0
+cu chi gui ying	粗齿桂樱	0
+cu chi huang qin	粗齿黄芩	0
+cu chi jin cai	粗齿堇菜	0
+cu chi kuo yu guan zhong	粗齿阔羽贯众	0
+cu chi leng shui hua	粗齿冷水花	0
+cu chi liang se qi	粗齿两色槭	0
+cu chi lin mao jue	粗齿鳞毛蕨	0
+cu chi long	粗齿龙	0
+cu chi lou ti cao	粗齿楼梯草	0
+cu chi mao jue	粗齿毛蕨	0
+cu chi meng gu li	粗齿蒙古栎	0
+cu chi mi hou tao	粗齿猕猴桃	0
+cu chi qian jue	粗齿黔蕨	0
+cu chi shui dong ge	粗齿水东哥	0
+cu chi sou shu	粗齿溲疏	0
+cu chi suo luo	粗齿桫椤	0
+cu chi suo luo	粗齿梭罗	0
+cu chi ti shu	粗齿鳀属	0
+cu chi tian ming jing	粗齿天名精	0
+cu chi tie xian lian	粗齿铁线莲	0
+cu chi tu er feng	粗齿兔儿风	0
+cu chi tu er feng	粗齿兔耳风	0
+cu chi wang teng jue	粗齿网藤蕨	0
+cu chi xi nan shui su	粗齿西南水苏	0
+cu chi xiang cha cai	粗齿香茶菜	0
+cu chi xiao bo	粗齿小檗	0
+cu chi zhi wei xian	粗齿雉尾藓	0
+cu chi zi jing bao chun	粗齿紫晶报春	0
+cu chi zi qi	粗齿紫萁	0
+cu chui xian	粗垂藓	0
+cu chun fu fei li	粗唇副绯鲤	0
+cu chun gao yuan qiu	粗唇高原鳅	0
+cu chun gui zi	粗唇龟鲻	0
+cu chun hai ji	粗唇海鲫	0
+cu chun huang chang yu	粗唇黄鲿鱼	0
+cu chun ni chang	粗唇拟鲿	0
+cu chun tian zhu diao	粗唇天竺鲷	0
+cu ci cao cao	粗刺草草	0
+cu ci da wei zao	粗刺大尾蚤	0
+cu ci hui xian	粗雌灰藓	0
+cu ci shen xia gu	粗刺深虾蛄	0
+cu ci zao shu	粗刺藻属	0
+cu cu	醋醋	0
+cu da la ji	粗大垃圾	0
+cu da yun dong gong neng fen lei xi tong	粗大运动功能分类系统	0
+cu dao bing	猝倒病	0
+cu deng jiang	粗灯鳉	0
+cu di feng	醋地砜	0
+cu di wen ha	粗帝纹蛤	0
+cu dian xin	粗点心	0
+cu dian xin zhan zheng	粗点心战争	0
+cu diao lie luo	粗雕裂螺	0
+cu die ju shi	粗碟菊石	0
+cu dong qi	促动器	0
+cu du fu yu shu	粗杜父鱼属	0
+cu duan deng long yu	粗短灯笼鱼	0
+cu duan mao guan ya	粗短毛管蚜	0
+cu duan zhou kong shan hu	粗短轴孔珊瑚	0
+cu dui xia shu	粗对虾属	0
+cu dun zhen ji ju xie	粗盾真寄居蟹	0
+cu fan	醋饭	0
+cu fang chang	粗仿鲿	0
+cu fang nong ye	粗放农业	0
+cu fei	粗榧	0
+cu fei shu	粗榧属	0
+cu feng you	粗蜂鲉	0
+cu fu la nuo	醋氟拉诺	0
+cu fu lan nuo	醋氟兰诺	0
+cu gan	醋酐	0
+cu gan an suan	醋甘氨酸	0
+cu gan jun ke	醋杆菌科	0
+cu gan jun shu	醋杆菌属	0
+cu gan que bai	粗秆雀稗	0
+cu gao qi you	粗高鳍鲉	0
+cu ge li luo	粗格粒螺	0
+cu gen da ji	粗根大戟	0
+cu gen jing suo cao	粗根茎莎草	0
+cu gen jiu	粗根韭	0
+cu gen lao guan cao	粗根老鹳草	0
+cu gen long dan	粗根龙胆	0
+cu gen shu er jie	粗根鼠耳芥	0
+cu gen xun ma	粗根荨麻	0
+cu gen yuan wei	粗根鸢尾	0
+cu geng chou li	粗梗稠李	0
+cu geng cu ye mu	粗梗粗叶木	0
+cu geng hu jiao	粗梗胡椒	0
+cu geng huang jin	粗梗黄堇	0
+cu geng jin cao	粗梗荩草	0
+cu geng mu lian	粗梗木莲	0
+cu geng shui jue	粗梗水蕨	0
+cu geng tang jie	粗梗糖芥	0
+cu geng tao ye shan hu	粗梗桃叶珊瑚	0
+cu geng tuo wu	簇梗橐吾	0
+cu geng tuo wu	蔟梗橐吾	0
+cu geng zi jin niu	粗梗紫金牛	0
+cu gou shuang ren xiao fa luo	粗沟双刃小法螺	0
+cu gu tu	粗骨土	0
+cu gu xiao ye jia shu	粗股肖叶甲属	0
+cu gu ying ke	粗股蝇科	0
+cu guan ma xian hao	粗管马先蒿	0
+cu guan shang di yin hao	粗管上低音号	0
+cu guang pai jian zhu shi	粗犷派建筑师	0
+cu guang shui zao	粗光水蚤	0
+cu guang zhu yi	粗犷主义	0
+cu guo ting ji	粗果庭荠	0
+cu hao qiu hai tang	粗嚎秋海棠	0
+cu he fu shi bi yu	粗颌福氏躄鱼	0
+cu he wu	簇合物	0
+cu hei ji su	促黑激素	0
+cu hei su xi bao ji su	促黑素细胞激素	0
+cu hong	促红	0
+cu hong xi bao sheng cheng su	促红细胞生成素	0
+cu hou wa shu	粗厚蛙属	0
+cu hu jun shu	醋弧菌属	0
+cu hu you	粗虎鲉	0
+cu hua	粗话	0
+cu hua cao ke	簇花草科	0
+cu hua cao shu	簇花草属	0
+cu hua cha biao zi	簇花茶藨子	0
+cu hua chun zhu ju tai	簇花唇柱苣苔	0
+cu hua deng xin cao	簇花灯心草	0
+cu hua mi hou tao	簇花猕猴桃	0
+cu hua pu tao	簇花蒲桃	0
+cu hua qin	簇花芹	0
+cu hua qin shu	簇花芹属	0
+cu hua qing feng teng	簇花清风藤	0
+cu hua qiu zi cao	簇花球子草	0
+cu hua she gen cao	簇花蛇根草	0
+cu hua wu tou	粗花乌头	0
+cu hua ye xia zhu	簇花叶下珠	0
+cu hua zhang ya cai	簇花獐牙菜	0
+cu hua zui yu cao	簇花醉鱼草	0
+cu huang nei zhi jia	醋磺内酯钾	0
+cu huang ti ji su	促黄体激素	0
+cu huang ti su	促黄体素	0
+cu hui chong shi	粗喙虫实	0
+cu hui qiu hai tang	粗喙秋海棠	0
+cu hui ying wu shu	粗喙鹦鹉属	0
+cu ji bi yu	粗棘鼻鱼	0
+cu ji chun yin han yu	粗棘唇银汉鱼	0
+cu ji ci bi yu	粗棘刺躄鱼	0
+cu ji he	粗集合	0
+cu ji ji chang	粗棘脊鲿	0
+cu ji lin ban xie	粗棘鳞斑蟹	0
+cu ji mao guan ya	粗基毛管蚜	0
+cu ji su	促激素	0
+cu ji xi xian shu	粗棘蜥䲗属	0
+cu ji xiong ji diao	粗脊胸棘鲷	0
+cu jia dan jian	醋甲胆碱	0
+cu jia lie e xie	粗甲裂额蟹	0
+cu jia zhuang xian ji su	促甲状腺激素	0
+cu jia zhuang xian ji su shi fang ji su	促甲状腺激素释放激素	0
+cu jia zhuang xian shi fang ji su	促甲状腺释放激素	0
+cu jia zhuang xian su	促甲状腺素	0
+cu jia zuo an	醋甲唑胺	0
+cu jian zhi xi bao ji su	促间质细胞激素	0
+cu jiang cao	酢浆草	0
+cu jiang cao	酢酱草	0
+cu jiang cao hei fen jun	酢浆草黑粉菌	0
+cu jiang cao ke	酢浆草科	0
+cu jiang cao ke	醋浆草科	0
+cu jiang cao mu	酢浆草目	0
+cu jiang cao shu	酢浆草属	0
+cu jiang cao shu	酢酱草属	0
+cu jiang cao suan	酢浆草酸	0
+cu jiang cao zu zhi	酢酱草组织	0
+cu jiang hui die	酢浆灰蝶	0
+cu jiang hui die	酢酱灰蝶	0
+cu jiang shu	酢浆薯	0
+cu jiao e ke	粗角蛾科	0
+cu jiao lie zhu	粗脚猎蛛	0
+cu jiao lou ti cao	粗角楼梯草	0
+cu jiao tiao jia shu	粗角跳甲属	0
+cu jiao wang chun	粗角网蝽	0
+cu jiao ye jia shu	粗角叶甲属	0
+cu jiao yi shu	粗角蚁属	0
+cu jie	簇芥	0
+cu jie di zu zhi zeng sheng xing xiao yuan xi bao zhong liu	促结缔组织增生性小圆细胞肿瘤	0
+cu jie hun lv	粗结婚率	0
+cu jie jian zhu	粗节箭竹	0
+cu jie shu	簇芥属	0
+cu jin chan ye sheng ji tiao li	促进产业升级条例	0
+cu jin da nao de ren zhi gong neng	促进大脑的认知功能	0
+cu jin dao de fang fan zui e wei yuan hui	促进道德防范罪恶委员会	0
+cu jin guo ji yue du su yang yan jiu	促进国际阅读素养研究	0
+cu jin ji	促进剂	0
+cu jin jie dao	簇锦街道	0
+cu jin kuo san	促进扩散	0
+cu jin min zhu lun tan	促进民主论坛	0
+cu jin mu ru wei bu wei yuan hui	促进母乳喂哺委员会	0
+cu jin tu si	促浸土司	0
+cu jin xian	粗锦藓	0
+cu jin xiang	促进乡	0
+cu jin xing kuo san	促进性扩散	0
+cu jin zhan	簇锦站	0
+cu jin zhong guo xian dai hua xue shu yan jiu ji jin hui	促进中国现代化学术研究基金会	0
+cu jin zhuan xing zheng yi wei yuan hui	促进转型正义委员会	0
+cu jing	醋精	0
+cu jing bei mu	粗茎贝母	0
+cu jing feng xian hua	粗茎凤仙花	0
+cu jing gui	粗颈龟	0
+cu jing gui shu	粗颈龟属	0
+cu jing hao	粗茎蒿	0
+cu jing he ding lan	粗茎鹤顶兰	0
+cu jing hong jing tian	粗茎红景天	0
+cu jing juan bai	粗茎卷柏	0
+cu jing leng zi qin	粗茎棱子芹	0
+cu jing lin mao jue	粗茎鳞毛蕨	0
+cu jing mao lan	粗茎毛兰	0
+cu jing ni jue xian	粗茎拟蕨藓	0
+cu jing qin jiao	粗茎秦艽	0
+cu jing she xiang bai he	粗茎麝香百合	0
+cu jing shi zhu	簇茎石竹	0
+cu jing tuo ti ban	粗茎驼蹄瓣	0
+cu jing tuo wu	粗茎橐吾	0
+cu jing wu tou	粗茎乌头	0
+cu jing ya jiao teng	粗茎崖角藤	0
+cu jing yu teng	粗茎鱼藤	0
+cu jing zao shu he	粗茎早熟禾	0
+cu jing zi jin	粗颈紫堇	0
+cu jing zi jin niu	粗茎紫金牛	0
+cu ju	蹴鞠	0
+cu ju	蹴踘	0
+cu ju	酢橘	0
+cu ju chi ji ning	粗锯齿荠苧	0
+cu ju cui que hua	粗距翠雀花	0
+cu ju da li cui que hua	粗距大理翠雀花	0
+cu ju mao cui que hua	粗距毛翠雀花	0
+cu ju she hui lan	粗距舌喙兰	0
+cu ju xiao zi	蹴鞠小子	0
+cu ju zi jin	粗距紫堇	0
+cu ka xiu niao	醋卡溴脲	0
+cu kang a lan	粗糠阿兰	0
+cu kang chai	粗糠柴	0
+cu kang shu	粗糠树	0
+cu kang teng	粗糠藤	0
+cu ke li ding	醋克利定	0
+cu ke yuan jin hua chong	粗刻猿金花虫	0
+cu keng ba	粗坑坝	0
+cu keng da qiao bi	粗坑大峭壁	0
+cu keng fa dian chang	粗坑发电厂	0
+cu keng kou shan	粗坑口山	0
+cu kou	粗口	0
+cu kou yan jiu	粗口研究	0
+cu kui nian	粗盔鲶	0
+cu kui nian shu	粗盔鲇属	0
+cu kui nian shu	粗盔鲶属	0
+cu kun bu	醋昆布	0
+cu lai lin wa	徂徕林蛙	0
+cu lai shan ge ming yi zhi	徂徕山革命遗址	0
+cu lai shan kang ri wu zhuang qi yi jiu zhi	徂徕山抗日武装起义旧址	0
+cu lai shan ke jing	徂徕山刻经	0
+cu lai shan mo ya shi ke	徂徕山摩崖石刻	0
+cu lai shu yuan	徂徕书院	0
+cu lai xian sheng	徂徕先生	0
+cu lai zhen	徂徕镇	0
+cu lan ya	簇蓝鸦	0
+cu le cao	粗肋草	0
+cu le cao shu	粗肋草属	0
+cu le feng wei xian	粗肋凤尾藓	0
+cu le hai shan ha	粗肋海扇蛤	0
+cu le heng lian ha	粗肋横帘蛤	0
+cu le jie luo	粗肋结螺	0
+cu le suan pan ha	粗肋算盘蛤	0
+cu le yu shu luo	粗肋玉黍螺	0
+cu li	醋栗	0
+cu li chi hai man shu	粗犁齿海鳗属	0
+cu li ke	醋栗科	0
+cu li man shu	粗犁鳗属	0
+cu li shi shan xie	粗粒石扇蟹	0
+cu li shu	醋栗属	0
+cu li xiao mai fen	粗粒小麦粉	0
+cu li zao shu	粗粒藻属	0
+cu liang	粗粮	0
+cu lie feng mao ju	粗裂风毛菊	0
+cu lie fu ye er jue	粗裂复叶耳蕨	0
+cu lie kuan ju cui que hua	粗裂宽距翠雀花	0
+cu lin bian	粗鳞鳊	0
+cu lin bian shu	粗鳞鳊属	0
+cu lin deng long yu	粗鳞灯笼鱼	0
+cu lin diao ke	粗鳞鲷科	0
+cu lin jia san ji tun	粗鳞假三棘鲀	0
+cu lin mang	粗鳞蟒	0
+cu lin mao tou fu	粗鳞矛头蝮	0
+cu lin mao tou fu	粗鳞茅头蝮	0
+cu lin san wen ye e	粗鳞散纹夜蛾	0
+cu lin suo	粗鳞鮻	0
+cu lin tu wen xue	粗鳞突吻鳕	0
+cu lin xing du fu yu	粗鳞星杜父鱼	0
+cu lin zhu ce yu	粗鳞竹䇲鱼	0
+cu liu feng huang luo	粗瘤凤凰螺	0
+cu liu hei zhong luo	粗瘤黑钟螺	0
+cu liu shan hu ke	粗柳珊瑚科	0
+cu liu zu	醋溜族	0
+cu lu	粗鲁	0
+cu luan pao ji su	促卵泡激素	0
+cu lun chong mu	簇轮虫目	0
+cu lv fen suan	醋氯芬酸	0
+cu lv pao cheng shu ji su	促滤泡成熟激素	0
+cu lv pao ji su	促滤泡激素	0
+cu lv pao su	促滤泡素	0
+cu lve chu jue	粗略触觉	0
+cu mai dong qing	粗脉冬青	0
+cu mai du juan	粗脉杜鹃	0
+cu mai er jue	粗脉耳蕨	0
+cu mai gui	粗脉桂	0
+cu mai shi xian tao	粗脉石仙桃	0
+cu mai tai cao	粗脉苔草	0
+cu mai ti gai jue	粗脉蹄盖蕨	0
+cu mai zi jin niu	粗脉紫金牛	0
+cu mang shi chong meng shu	簇芒食虫虻属	0
+cu mang ye gu cao	粗芒野古草	0
+cu mao a er tai gou wa hua	粗毛阿尔泰狗娃花	0
+cu mao bian dan gan	粗毛扁担杆	0
+cu mao ci guo teng	粗毛刺果藤	0
+cu mao dian di mei	粗毛点地梅	0
+cu mao dong qing	粗毛冬青	0
+cu mao du juan	粗毛杜鹃	0
+cu mao du juan	簇毛杜鹃	0
+cu mao er cao	粗毛耳草	0
+cu mao fu shu	粗毛蝠属	0
+cu mao fu zhu	蔟毛复蛛	0
+cu mao gan cao	粗毛甘草	0
+cu mao guan er luo	粗毛冠耳螺	0
+cu mao hai nan yuan zhi	粗毛海南远志	0
+cu mao hong shan cha	粗毛红山茶	0
+cu mao huang jing	粗毛黄精	0
+cu mao huang qi	粗毛黄耆	0
+cu mao jian zhu	粗毛箭竹	0
+cu mao jin ji er	粗毛锦鸡儿	0
+cu mao kou nian	粗毛口鲶	0
+cu mao lin gai jue	粗毛鳞盖蕨	0
+cu mao ling mu	粗毛柃木	0
+cu mao liu su tai cao	粗毛流苏苔草	0
+cu mao ma xian hao	粗毛马先蒿	0
+cu mao mang mao ju tai	粗毛芒毛苣苔	0
+cu mao mao lin ju	粗毛毛鳞菊	0
+cu mao mu yang quan	粗毛牧羊犬	0
+cu mao nang shu shu	粗毛囊鼠属	0
+cu mao ni ge gai jun	粗毛拟革盖菌	0
+cu mao nie chong shu	粗毛啮虫属	0
+cu mao niu xi ju	粗毛牛膝菊	0
+cu mao que she mu	粗毛雀舌木	0
+cu mao rong	粗毛榕	0
+cu mao rou guo cao	粗毛肉果草	0
+cu mao sao ke	粗毛溞科	0
+cu mao shan liu ju	粗毛山柳菊	0
+cu mao shi bi mu	粗毛石笔木	0
+cu mao shi ya	粗毛虱蚜	0
+cu mao shui jin shu	粗毛水锦树	0
+cu mao shui shu shu	粗毛水鼠属	0
+cu mao song mu	粗毛楤木	0
+cu mao teng	粗毛藤	0
+cu mao teng shan liu	粗毛藤山柳	0
+cu mao teng shu	粗毛藤属	0
+cu mao tu	粗毛兔	0
+cu mao tu shu	粗毛兔属	0
+cu mao tu zai cai	粗毛兔仔菜	0
+cu mao wang ti shi ya	粗毛网体虱蚜	0
+cu mao wu chi qiu hai tang	粗毛无翅秋海棠	0
+cu mao xian kong jun	粗毛纤孔菌	0
+cu mao xiao mi ju	粗毛小米菊	0
+cu mao xuan gou zi	粗毛悬钩子	0
+cu mao ya zui cao	粗毛鸭嘴草	0
+cu mao yang ti jia	粗毛羊蹄甲	0
+cu mao yang tong	粗毛杨桐	0
+cu mao ye tong	粗毛野桐	0
+cu mao yin yang huo	粗毛淫羊藿	0
+cu mao yu ye jin hua	粗毛玉叶金花	0
+cu mao zao ke	粗毛蚤科	0
+cu mao zao shu	粗毛蚤属	0
+cu mao zhang ye	粗毛掌叶	0
+cu mao zhou luo	粗毛胄螺	0
+cu mao zhu long cao	粗毛猪笼草	0
+cu mao zu ya shu	粗毛足蚜属	0
+cu mi luo	粗米螺	0
+cu mi luo ke	粗米螺科	0
+cu mi luo shu	粗米螺属	0
+cu mian	粗面	0
+cu mian an shan yan	粗面安山岩	0
+cu mian jie ke	粗面介科	0
+cu mian nei zhi wang	粗面内质网	0
+cu mian xuan wu yan	粗面玄武岩	0
+cu mian yan	粗面岩	0
+cu mie	猝灭	0
+cu mu shi shu	粗木虱属	0
+cu neng li ji hua	粗能力计划	0
+cu ni ci can	粗拟刺参	0
+cu ni long tou yu	粗拟隆头鱼	0
+cu niang zi	醋娘子	0
+cu ning xue mei yuan ji mei	促凝血酶原激酶	0
+cu nong die shu	簇弄蝶属	0
+cu pai long	醋哌隆	0
+cu pi an	粗皮桉	0
+cu pi chong ke	粗皮虫科	0
+cu pi chong shu	粗皮虫属	0
+cu pi chou yao	粗皮丑鳐	0
+cu pi dan ji tun	粗皮单棘鲀	0
+cu pi fu rong pi you	粗皮副绒皮鲉	0
+cu pi ji jiao ke	粗皮棘鲛科	0
+cu pi ji wa	粗皮姬蛙	0
+cu pi jiao chan	粗皮角蟾	0
+cu pi man luo	粗皮鬘螺	0
+cu pi nian shu	粗皮鲶属	0
+cu pi shan hu luo	粗皮珊瑚螺	0
+cu pi shi ma mian dan ji tun	粗皮似马面单棘鲀	0
+cu pi tao nian shu	粗皮陶鲶属	0
+cu pi tun	粗皮鲀	0
+cu pi xiang tun	粗皮箱鲀	0
+cu pi yu	粗皮鱼	0
+cu pi zhi su	促皮质素	0
+cu pi zi yuan	粗皮渍螈	0
+cu qi fu	粗气符	0
+cu qi hua she man	粗鳍花蛇鳗	0
+cu qi li zhi li	粗鳍丽脂鲤	0
+cu qi pi	粗鳍魮	0
+cu qi yu	粗鳍鱼	0
+cu qi yu ke	粗鳍鱼科	0
+cu qi yu shu	粗鳍鱼属	0
+cu qi zhu hai long	粗鳍猪海龙	0
+cu qiang ding suan	醋羟丁酸	0
+cu qiang zei	粗枪鲗	0
+cu qiang zei shu	粗枪鲗属	0
+cu qiao jie dao	簇桥街道	0
+cu qiao zhan	簇桥站	0
+cu qie zui luo shu	粗切嘴螺属	0
+cu qin tu si	促侵土司	0
+cu qiu	蹴毬	0
+cu qiu	蹴球	0
+cu qiu bao zi jun	粗球孢子菌	0
+cu qiu chang	蹴球场	0
+cu qiu guo ting li	粗球果葶苈	0
+cu qiu mei jun	粗球霉菌	0
+cu qiu nian	粗鳅鲶	0
+cu qiu nian shu	粗鳅鲇属	0
+cu qiu shao nv	蹴球少女	0
+cu qiu tuan	蹴球团	0
+cu qu jing	粗鼩鼱	0
+cu quan	醋醛	0
+cu que mai	粗雀麦	0
+cu re jun shu	醋热菌属	0
+cu rong	蹙戎	0
+cu rong bian dan gan	粗茸扁担杆	0
+cu rong hai ying	簇绒海鹦	0
+cu rong mian	粗绒棉	0
+cu rui jin hua cha	簇蕊金花茶	0
+cu sai ji hai long	粗鳃嵴海龙	0
+cu sha lin	粗沙鳞	0
+cu sha lin ke	粗沙鳞科	0
+cu sha lin shu	粗沙鳞属	0
+cu sha lin ya ke	粗沙鳞亚科	0
+cu sha shan hu	粗沙珊瑚	0
+cu sha tang	粗砂糖	0
+cu sha yan	粗砂岩	0
+cu shan zao shu	粗珊藻属	0
+cu shang che zhan	蹴上车站	0
+cu shang zhan	蹴上站	0
+cu she hua yi	粗舌花鮨	0
+cu she ju zui niao shu	簇舌巨嘴鸟属	0
+cu she tuo kong shu	簇舌鵎鵼属	0
+cu she wei shu	粗蛇尾属	0
+cu shen hai yao	粗深海鳐	0
+cu shen shang xian pi zhi ji su	促肾上腺皮质激素	0
+cu shen shang xian pi zhi su	促肾上腺皮质素	0
+cu shen shang xian pi zhi su shi fang su	促肾上腺皮质素释放素	0
+cu shen shi zun jia nian	粗身似鳟甲鲶	0
+cu sheng	促声	0
+cu sheng	簇生	0
+cu sheng chai hu	簇生柴胡	0
+cu sheng huang ren san	簇生黄韧伞	0
+cu sheng jiao	簇生椒	0
+cu sheng jin qian gu	簇生金钱菇	0
+cu sheng juan er	簇生卷耳	0
+cu sheng sha xian	簇生砂藓	0
+cu sheng wei ling cai	簇生委陵菜	0
+cu sheng wu xin cai	簇生无心菜	0
+cu sheng yun	促声韵	0
+cu sheng zi liu shan hu	簇生紫柳珊瑚	0
+cu shi han shu	粗饰蚶属	0
+cu shi jiang zhen	粗石江镇	0
+cu shi shan	粗石山	0
+cu shi xian	粗石藓	0
+cu shi xian ke	粗石藓科	0
+cu shi xian shu	粗石藓属	0
+cu shou hu you	粗首虎鲉	0
+cu shou ma kou yu	粗首马口鱼	0
+cu shou mei zhou gui	粗首美洲鱥	0
+cu shou shuang chi qi sai man	粗首双齿七鳃鳗	0
+cu shou xian	粗首䲗	0
+cu shu tiao zhu	粗树跳蛛	0
+cu shuai bian	簇衰变	0
+cu shuang dai ha	粗双带蛤	0
+cu shui zheng	猝睡症	0
+cu si	猝死	0
+cu si jun shu	醋丝菌属	0
+cu si ke shu	簇丝壳属	0
+cu si mu	粗丝木	0
+cu si mu shu	粗丝木属	0
+cu suan	酢酸	0
+cu suan	醋酸	0
+cu suan a bi te long	醋酸阿比特龙	0
+cu suan a fa duo long	醋酸阿法多龙	0
+cu suan an	醋酸铵	0
+cu suan ba	醋酸钯	0
+cu suan bei	醋酸钡	0
+cu suan ben gong	醋酸苯汞	0
+cu suan di	醋酸镝	0
+cu suan di sai mi song	醋酸地塞米松	0
+cu suan ding zhi	醋酸丁酯	0
+cu suan fu yun tong	醋酸氟孕酮	0
+cu suan gai	醋酸钙	0
+cu suan gan	醋酸酐	0
+cu suan gan jun	醋酸杆菌	0
+cu suan ge	醋酸镉	0
+cu suan ge la ti lei	醋酸格拉替雷	0
+cu suan gen	醋酸根	0
+cu suan gen li zi	醋酸根离子	0
+cu suan gui nuo tong	醋酸炔诺酮	0
+cu suan huan bing lv di yun tong	醋酸环丙氯地孕酮	0
+cu suan huan bing yun tong	醋酸环丙孕酮	0
+cu suan ji	醋酸基	0
+cu suan jia	醋酸钾	0
+cu suan jia nai qing kun	醋酸甲萘氢醌	0
+cu suan jia qiang yun tong	醋酸甲羟孕酮	0
+cu suan jia zhi	醋酸甲酯	0
+cu suan jun	醋酸菌	0
+cu suan jun ke	醋酸菌科	0
+cu suan lan	醋酸镧	0
+cu suan lin ci er chun	醋酸邻雌二醇	0
+cu suan lv	醋酸铝	0
+cu suan mai di mei su	醋酸麦迪霉素	0
+cu suan mei	醋酸镁	0
+cu suan meng	醋酸锰	0
+cu suan na	醋酸钠	0
+cu suan nie	醋酸镍	0
+cu suan nv	醋酸钕	0
+cu suan qian	醋酸铅	0
+cu suan qing na	醋酸氢钠	0
+cu suan qun bo long	醋酸群勃龙	0
+cu suan shuang yang you	醋酸双氧铀	0
+cu suan si	醋酸锶	0
+cu suan ta	醋酸铊	0
+cu suan ti	醋酸锑	0
+cu suan tong	醋酸铜	0
+cu suan wu li si ta	醋酸乌利司他	0
+cu suan xian wei	醋酸纤维	0
+cu suan ya ge	醋酸亚铬	0
+cu suan ya shen suan tong	醋酸亚砷酸铜	0
+cu suan ya xi	醋酸亚锡	0
+cu suan yan	醋酸盐	0
+cu suan yan gong yang jun ke	醋酸盐共养菌科	0
+cu suan yi xi	醋酸乙烯	0
+cu suan yi zhi	醋酸乙酯	0
+cu suan you	醋酸铕	0
+cu suan you xian	醋酸铀酰	0
+cu suan zuo gui nuo yun tong	醋酸左炔诺孕酮	0
+cu sui da jie zhu	粗穗大节竹	0
+cu sui hu jiao	粗穗胡椒	0
+cu sui long zhu	粗穗龙竹	0
+cu sui ma tang	粗穗马唐	0
+cu sui she gu	粗穗蛇菰	0
+cu sui tai cao	簇穗苔草	0
+cu tai	醋苔	0
+cu ti	粗体	0
+cu ti bi gou bi yu	粗体臂钩躄鱼	0
+cu ti cao wei	粗体草鳚	0
+cu ti ci sha	粗体刺鲨	0
+cu ti duan wen shi zi yu	粗体短吻狮子鱼	0
+cu ti gao wei	粗体高鳚	0
+cu ti guang wei sha	粗体光尾鲨	0
+cu ti she ta	粗体舌鳎	0
+cu ti tian zhu diao	粗体天竺鲷	0
+cu ti tu wen xue	粗体突吻鳕	0
+cu ti wen zi	粗体文字	0
+cu ti yin han yu	粗体银汉鱼	0
+cu ti zi	粗体字	0
+cu tong	醋酮	0
+cu tong ju tai	粗筒苣苔	0
+cu tong tu er cao	粗筒兔耳草	0
+cu tou ji tai wei	粗头棘胎鳚	0
+cu tou qiang wen xue	粗头腔吻鳕	0
+cu tou yan you wei	粗头岩游鳚	0
+cu tou you shu	粗头鲉属	0
+cu tou zhuang mian wei	粗头壮绵鳚	0
+cu tui hou wen xie	粗腿厚纹蟹	0
+cu tui tou chi e shu	粗腿透翅蛾属	0
+cu tuo fei	醋托啡	0
+cu wang lie luo	粗网裂螺	0
+cu wei chuan shan jia	粗尾穿山甲	0
+cu wei dai shu ya ke	粗尾袋鼠亚科	0
+cu wei fu shu	粗尾负鼠	0
+cu wei he shi jia nian	粗尾赫氏甲鲶	0
+cu wei ju wei sha	粗尾锯尾鲨	0
+cu wei juan wei shu shu	粗尾卷尾鼠属	0
+cu wei jun shu	醋微菌属	0
+cu wei kuo bu long	粗尾阔步龙	0
+cu wei mao bi nian	粗尾毛鼻鲶	0
+cu wei qian jiao dan ji tun	粗尾前角单棘鲀	0
+cu wei qian jiao tun	粗尾前角鲀	0
+cu wei shu fu shu shu	粗尾鼠负鼠属	0
+cu wei shu shu	粗尾鼠属	0
+cu wei ta fu shu	粗尾獭负鼠	0
+cu wei xia kou nian	粗尾下口鲶	0
+cu wei xie shu	粗尾蝎属	0
+cu wei xue	粗尾鳕	0
+cu wei xue shu	粗尾鳕属	0
+cu wei ye su	促胃液素	0
+cu wei ying hou	粗尾婴猴	0
+cu wei zhu ru hu hou	粗尾侏儒狐猴	0
+cu wen ban die	粗纹斑蝶	0
+cu wen bi	粗纹鲾	0
+cu wen chang pian	粗纹唱片	0
+cu wen dan luo	粗纹蜑螺	0
+cu wen ding gai luo	粗纹顶盖螺	0
+cu wen duan dai wei	粗吻短带鳚	0
+cu wen e luo	粗纹峨螺	0
+cu wen hai long	粗吻海龙	0
+cu wen hai long shu	粗吻海龙属	0
+cu wen hong yin han yu	粗吻虹银汉鱼	0
+cu wen hua wo niu	粗纹华蜗牛	0
+cu wen ju tang li	粗吻锯塘鳢	0
+cu wen juan guan luo	粗纹卷管螺	0
+cu wen ma bi	粗纹马鲾	0
+cu wen nai shi xue	粗吻奈氏鳕	0
+cu wen nie kong xue	粗吻颞孔鳕	0
+cu wen qing ban die	粗纹青斑蝶	0
+cu wen san xian tai guo hu	粗纹三线泰国虎	0
+cu wen shuang xu shen hai you yu	粗吻双须深海鼬鱼	0
+cu wen tian shi sha	粗吻田氏鲨	0
+cu wen wen zhuang ha	粗纹吻状蛤	0
+cu wen ying ha	粗纹樱蛤	0
+cu wen yu shu luo	粗纹玉黍螺	0
+cu wen zao shu	粗纹藻属	0
+cu wen zhi wen luo	粗纹织纹螺	0
+cu xi	粗溪	0
+cu xi bao fen lie ji	促细胞分裂剂	0
+cu xi shu	粗蜥属	0
+cu xi zhuang	粗溪庄	0
+cu xian chong shu	醋线虫属	0
+cu xian qi	粗线期	0
+cu xian wei zeng sheng xing cheng xian wei xi bao liu	促纤维增生性成纤维细胞瘤	0
+cu xiao	促销	0
+cu xiao dan qu	促销单曲	0
+cu xiao huo dong	促销活动	0
+cu xiao ji	促效剂	0
+cu xiao nv lang	促销女郎	0
+cu xie zao shu	粗楔藻属	0
+cu xing	醋姓	0
+cu xing xian ji su	促性腺激素	0
+cu xing xian su	促性腺素	0
+cu xu bai jia yu	粗须白甲鱼	0
+cu xu cao	簇序草	0
+cu xu cao shu	簇序草属	0
+cu xu chan he yu	粗须铲颌鱼	0
+cu xu nan xing	粗序南星	0
+cu xu run nan	簇序润楠	0
+cu xu tu wen xue	粗须突吻鳕	0
+cu xu zhong ji sheng	粗序重寄生	0
+cu xue xiao ban sheng cheng su	促血小板生成素	0
+cu ya e zhang chai	粗芽鹅掌柴	0
+cu yan dong shu	粗眼鮗属	0
+cu yan gan jun shu	醋盐杆菌属	0
+cu yan hui yu	粗言秽语	0
+cu yan xi bao yin zi	促炎细胞因子	0
+cu yan xing xi bao yin zi	促炎性细胞因子	0
+cu yan yan niu rou	粗盐腌牛肉	0
+cu yang chun shu	粗仰蝽属	0
+cu yao qing ting	粗腰蜻蜓	0
+cu yao zhong luo	粗腰钟螺	0
+cu ye di tao hua	粗叶地桃花	0
+cu ye er cao	粗叶耳草	0
+cu ye juan bai	粗叶卷柏	0
+cu ye ma xian hao	粗野马先蒿	0
+cu ye mi hou tao	粗叶猕猴桃	0
+cu ye mu	粗叶木	0
+cu ye mu pu tao	粗叶木蒲桃	0
+cu ye mu shu	粗叶木属	0
+cu ye ni tan xian	粗叶泥炭藓	0
+cu ye pai	粗野派	0
+cu ye qing mao xian	粗叶青毛藓	0
+cu ye rong	粗叶榕	0
+cu ye shui jin shu	粗叶水锦树	0
+cu ye xin mu jiang zi	簇叶新木姜子	0
+cu ye xuan gou zi	粗叶悬钩子	0
+cu ye yan jie cao	簇叶沿阶草	0
+cu ye zhu yi	粗野主义	0
+cu yi bai ying ha	粗异白樱蛤	0
+cu yi ha	粗衣蛤	0
+cu yi luan liu	醋意乱流	0
+cu yi nv ai	酢乙女爱	0
+cu yi ye su	促胰液素	0
+cu yin	促音	0
+cu ying chun kong jun	粗硬春孔菌	0
+cu ying tou hai nian	粗硬头海鲶	0
+cu you bi hu	粗疣壁虎	0
+cu you xi jin gui	粗尤犀金龟	0
+cu you xian	粗疣藓	0
+cu you xian shu	粗疣藓属	0
+cu yu bei shu	簇玉杯属	0
+cu yu mi fen	粗玉米粉	0
+cu yu zhi xian	粗羽枝藓	0
+cu yu zhong shu	簇玉钟属	0
+cu zhang da quan xie	粗掌大权蟹	0
+cu zhang fu	醋丈夫	0
+cu zhang lu	粗长鲈	0
+cu zhao la la teng	粗沼拉拉藤	0
+cu zhi	促织	0
+cu zhi bing can	粗枝柄参	0
+cu zhi bu xue cao	簇枝补血草	0
+cu zhi dong qing	粗枝冬青	0
+cu zhi du juan	粗枝杜鹃	0
+cu zhi jie su	促脂解素	0
+cu zhi la di ya te	粗制拉迪亚特	0
+cu zhi man xian	粗枝蔓藓	0
+cu zhi mu ma huang	粗枝木麻黄	0
+cu zhi tian zi	促织天子	0
+cu zhi xian ling	粗枝腺柃	0
+cu zhi xian shu	粗枝藓属	0
+cu zhi xiao you shui zao	粗指小柚水蚤	0
+cu zhi xin xuan xian	粗枝新悬藓	0
+cu zhi ya mo	粗枝崖摩	0
+cu zhi yao	促智药	0
+cu zhi you	粗制铀	0
+cu zhi yu shan zhu	粗枝玉山竹	0
+cu zhi zhu jie liu shan hu	粗枝竹节柳珊瑚	0
+cu zhi zhu mao cai	粗枝猪毛菜	0
+cu zhong li yu	粗中丽鱼	0
+cu zhou rao hua	粗轴荛花	0
+cu zhu chi yu	粗猪齿鱼	0
+cu zhu deng xin cao	粗柱灯心草	0
+cu zhu du juan	粗柱杜鹃	0
+cu zhu tao mei su	醋竹桃霉素	0
+cu zhu zhi zhen zhu bang	粗猪趾真珠蚌	0
+cu zhuan hui	促转会	0
+cu zhuang bai fen jun	粗壮白粉菌	0
+cu zhuang bang ren	粗壮傍人	0
+cu zhuang cui que	粗壮翠雀	0
+cu zhuang dan hua ji	粗壮单花荠	0
+cu zhuang die ye lou ti cao	粗壮叠叶楼梯草	0
+cu zhuang die ye lou ti cao	粗壮迭叶楼梯草	0
+cu zhuang er jue	粗壮耳蕨	0
+cu zhuang feng xian hua	粗壮凤仙花	0
+cu zhuang fu shui cao	粗壮腹水草	0
+cu zhuang gao yuan qiu	粗壮高原鳅	0
+cu zhuang gou si ke	粗壮钩丝壳	0
+cu zhuang gu wei yu	粗壮骨尾鱼	0
+cu zhuang guan chun hua	粗壮冠唇花	0
+cu zhuang jian lei shou	粗壮渐雷兽	0
+cu zhuang jiao e cui que hua	粗壮角萼翠雀花	0
+cu zhuang jin xian ba	粗壮金线鲃	0
+cu zhuang jin xian pi	粗壮金线魮	0
+cu zhuang jing tian	粗壮景天	0
+cu zhuang nan fang gu yuan	粗壮南方古猿	0
+cu zhuang nan qiu	粗壮南鳅	0
+cu zhuang ni yong die	粗壮拟庸鲽	0
+cu zhuang nv zhen	粗壮女贞	0
+cu zhuang qin jiao	粗壮秦艽	0
+cu zhuang qiong nan	粗壮琼楠	0
+cu zhuang qu ban lai mu	粗壮曲瓣梾木	0
+cu zhuang run nan	粗壮润楠	0
+cu zhuang shan xiang yuan	粗壮山香圆	0
+cu zhuang sheng teng	粗壮省藤	0
+cu zhuang song cao	粗壮嵩草	0
+cu zhuang tang song cao	粗壮唐松草	0
+cu zhuang wen jian shui zao	粗壮温剑水蚤	0
+cu zhuang xian ren zhang	粗壮仙人掌	0
+cu zhuang xiao ye zhi ma	粗壮小野芝麻	0
+cu zhuang xiao yuan wei	粗壮小鸢尾	0
+cu zhuang xing nan yuan	粗壮型南猿	0
+cu zhuang yan huang qi	粗壮岩黄耆	0
+cu zhuang ye qing mao	粗壮野青茅	0
+cu zhuang yi li yu	粗壮鮨丽鱼	0
+cu zhuang yin di jue	粗壮阴地蕨	0
+cu zhuang yin lian hua	粗壮银莲花	0
+cu zhuang yuan shi zu niao	粗壮原始祖鸟	0
+cu zhuang zhang ya cai	粗壮獐牙菜	0
+cu zhuang zhen zhu cai	粗壮珍珠菜	0
+cu zong zhu	粗棕竹	0

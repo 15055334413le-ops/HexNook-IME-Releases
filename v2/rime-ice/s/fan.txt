@@ -1,0 +1,3145 @@
+fan wei	范围	500898
+fan ying	反应	500440
+fan wei nei	范围内	500395
+fan hui	返回	500363
+fan yi	翻译	500331
+fan dui	反对	500278
+fan er	反而	479010
+fan dian	饭店	470715
+fan fu	反复	439175
+fan ying	反映	400450
+fan kui	反馈	355775
+fan zui	犯罪	354860
+fan zheng	反正	330675
+fan nao	烦恼	327255
+fan shi	凡是	270665
+fan rong	繁荣	250150
+fan ying le	反映了	225180
+fan si	反思	200825
+fan chou	范畴	180480
+fan tie	饭贴	170450
+fan huan	返还	169165
+fan zhi	繁殖	167530
+fan she	反射	134270
+fan kang	反抗	129375
+fan long duan	反垄断	128035
+fan zui xian yi ren	犯罪嫌疑人	125735
+fan hua	繁华	115795
+fan zhi	反之	113670
+fan ying chu	反映出	109915
+fan ji	反击	108925
+fan ying de	反映的	103290
+fan chang	反常	99999
+fan ren	烦人	99140
+fan mang	繁忙	97980
+fan fu chang lian	反腐倡廉	95505
+fan li	返利	89075
+fan shi	凡事	85905
+fan lan	泛滥	83485
+fan ben	范本	82330
+fan long duan fa	反垄断法	81386
+fan dong	反动	81160
+fan cai	饭菜	77690
+fan qie	番茄	77005
+fan hou	饭后	76515
+fan gan	反感	76460
+fan le	犯了	75830
+fan guo lai	反过来	75715
+fan zai	凡在	73645
+fan shen	翻身	70985
+fan xiang	反响	70795
+fan ti zhong wen	繁体中文	70420
+fan qing xiao	反倾销	67845
+fan xing	反省	66770
+fan xiang	反向	66280
+fan gui	犯规	66060
+fan yu	繁育	65795
+fan bo	反驳	65015
+fan xin	翻新	62935
+fan le	翻了	62175
+fan zao	烦躁	61930
+fan zhong	繁重	61620
+fan kai	翻开	60495
+fan kai le	翻开了	60495
+fan zui fen zi	犯罪分子	60315
+fan dao	反倒	60075
+fan chang	翻唱	58245
+fan ren	犯人	57615
+fan cha	反差	56645
+fan mai	贩卖	53575
+fan ren	凡人	53560
+fan er hui	反而会	53010
+fan tan	反弹	51645
+fan guang	反光	51580
+fan kong	反恐	50180
+fan yi gong si	翻译公司	47345
+fan duo	繁多	47205
+fan zui tuan huo	犯罪团伙	46830
+fan ti	繁体	45545
+fan bing du	反病毒	44880
+fan zhuan	翻转	44350
+fan wei zhi nei	范围之内	44335
+fan hui jie guo	返回结果	44309
+fan fu bai	反腐败	43565
+fan za	繁杂	43000
+fan mian	反面	42215
+fan ye	翻页	42215
+fan hua de	繁华的	41865
+fan yan	繁衍	41790
+fan zui xing wei	犯罪行为	41730
+fan chuan	帆船	40825
+fan yue	翻阅	40710
+fan wen	反问	40560
+fan wei shi	范围是	39740
+fan qi	泛起	39460
+fan gun	翻滚	38075
+fan yi cheng	翻译成	37230
+fan bing bing	范冰冰	36195
+fan guan	饭馆	35985
+fan you	凡有	35950
+fan ying zai	反映在	35515
+fan cuo wu	犯错误	35110
+fan wan	饭碗	34750
+fan fu	反腐	34290
+fan zhuan	反转	32990
+fan gong	反攻	32845
+fan le	烦了	32495
+fan fu bai dou zheng	反腐败斗争	32255
+fan guo	翻过	31120
+fan yue	翻越	31065
+fan xi qian	反洗钱	31055
+fan kui xin xi	反馈信息	30880
+fan kan	翻看	30875
+fan zhu san jiao	泛珠三角	30505
+fan fu	繁复	29999
+fan cuo	犯错	29975
+fan ben wang	凡本网	29910
+fan fu bai gong zuo	反腐败工作	29840
+fan er shi	反而是	29475
+fan gai	翻盖	29185
+fan fu	凡夫	28825
+fan shou	反手	28015
+fan pan	反叛	27870
+fan cheng	返程	27460
+fan zui xian yi	犯罪嫌疑	27445
+fan hui shou ye	返回首页	26615
+fan xiang	返乡	25885
+fan xing	泛型	25331
+fan zui shi shi	犯罪事实	24875
+fan zhe	泛着	24810
+fan chu	翻出	24745
+fan xia	犯下	24720
+fan fu he	凡符合	24350
+fan guan	反观	24350
+fan li	范例	23460
+fan qie jiang	番茄酱	23451
+fan xing	繁星	23090
+fan hui zhi	返回值	22680
+fan tian fu di	翻天覆地	22160
+fan bu	帆布	22005
+fan ban	翻版	21840
+fan zhi	泛指	21795
+fan bu zheng dang jing zheng fa	反不正当竞争法	21580
+fan bu	反哺	21470
+fan qian	饭前	21440
+fan wen	范文	21305
+fan qing xiao shui	反倾销税	21180
+fan teng	翻腾	20995
+fan zhuo	饭桌	20765
+fan zi	贩子	20750
+fan du	贩毒	20705
+fan hui	反悔	20560
+fan kui yi jian	反馈意见	20285
+fan zui huo dong	犯罪活动	20275
+fan gong	返工	19820
+fan ying qing kuang	反映情况	19805
+fan ying su du	反应速度	19340
+fan fan	翻翻	19250
+fan yi fu wu	翻译服务	19145
+fan ying qi	反应器	19015
+fan he	饭盒	18595
+fan mao	繁茂	18495
+fan fu qiang diao	反复强调	18415
+fan zheng shi	反正是	18330
+fan dao	翻到	17925
+fan bing du ruan jian	反病毒软件	17895
+fan lian	翻脸	17895
+fan lian le	翻脸了	17895
+fan fu fa zuo	反复发作	17730
+fan zhou	泛舟	17725
+fan ge ming	反革命	17680
+fan fa	犯法	17520
+fan ju	饭局	17505
+fan fan fu fu	反反复复	17465
+fan ying qi ye	反映企业	17115
+fan si zhe	范思哲	17015
+fan jian	凡间	16470
+fan dong	翻动	16195
+fan qing xiao diao cha	反倾销调查	16020
+fan xiu	返修	15985
+fan you	犯有	15780
+fan lai fu qu	翻来覆去	15765
+fan zuo yong	反作用	15225
+fan piao	饭票	15145
+fan fa xi si	反法西斯	15085
+fan ying dui	反应堆	15070
+fan zui an jian	犯罪案件	14775
+fan fang	反方	14510
+fan sheng	繁盛	14365
+fan dui zhe	反对者	14320
+fan ying shi jian	反应时间	14275
+fan ying neng li	反应能力	14225
+fan bei	翻倍	14190
+fan dao shi	反倒是	14110
+fan ti zi	繁体字	13970
+fan le yi fan	翻了一番	13655
+fan chen	凡尘	13645
+fan zhe	翻着	13525
+fan huang	泛黄	13315
+fan men	烦闷	13265
+fan chao	反超	13140
+fan gou mai	凡购买	13120
+fan fen lie	反分裂	13005
+fan le	反了	13005
+fan shen tou	反渗透	12935
+fan ying wen ti	反映问题	12935
+fan hua	繁花	12890
+fan xiao	返校	12765
+fan dui pai	反对派	12680
+fan shu	番薯	12530
+fan hai jian she	泛海建设	12500
+fan qian	反潜	12465
+fan dui yi jian	反对意见	12270
+fan zhuang	饭庄	12240
+fan gong	反共	12190
+fan xu lie hua	反序列化	12149
+fan xin	烦心	12120
+fan tang	饭堂	12115
+fan fei	翻飞	11985
+fan ti ban	繁体版	11960
+fan kong jing ying	反恐精英	11955
+fan de	反的	11800
+fan pai	翻拍	11715
+fan zhong yan	范仲淹	11700
+fan mei	反美	11640
+fan bei	反被	11630
+fan yi gong zuo	翻译工作	11500
+fan yi ren yuan	翻译人员	11385
+fan zao bu an	烦躁不安	11310
+fan zhi yi ran	反之亦然	11300
+fan fang xiang	反方向	11255
+fan che	翻车	11160
+fan pu	反扑	11150
+fan qing	烦请	11145
+fan wen	梵文	11115
+fan can jia	凡参加	11060
+fan wen dao	反问道	11050
+fan dong pai	反动派	10940
+fan guo lai shuo	反过来说	10940
+fan zui gou cheng	犯罪构成	10875
+fan jian die	反间谍	10715
+fan rong chang sheng	繁荣昌盛	10715
+fan guang jing	反光镜	10710
+fan du	泛读	10685
+fan ying xing	反应性	10675
+fan bian yi	反编译	10644
+fan fan	泛泛	10510
+fan she ji zhi	反射机制	10474
+fan tuan	饭团	10255
+fan dian ye	饭店业	10240
+fan ji jie	反季节	10160
+fan guo	犯过	10125
+fan zhan	反战	10090
+fan xiang	反相	10050
+fan ben er	翻本儿	9999
+fan bian	翻遍	9999
+fan chang	返场	9999
+fan di gang cheng guo	梵蒂冈城国	9999
+fan er	范儿	9999
+fan er ding	凡尔丁	9999
+fan gua	番瓜	9999
+fan guang deng	反光灯	9999
+fan jia fu zhai	泛家浮宅	9999
+fan jie qi	犯节气	9999
+fan nang	饭囊	9999
+fan pi	翻皮	9999
+fan pian	翻篇	9999
+fan pian er	翻篇儿	9999
+fan qi xuan	反气旋	9999
+fan quan	饭圈	9999
+fan su	凡俗	9999
+fan suo	繁琐	9999
+fan wai	番外	9999
+fan wai pian	番外篇	9999
+fan wen ru li	繁文缛礼	9999
+fan xian	返现	9999
+fan yi xin	犯疑心	9999
+fan zha	反诈	9999
+fan zhe	反着	9999
+fan zhong	繁中	9999
+fan suo	烦琐	9998
+fan hua	番话	9785
+fan tan	反贪	9780
+fan ci zhong zhong	凡此种种	9695
+fan dui piao	反对票	9675
+fan xiu	翻修	9665
+fan ying chi dun	反应迟钝	9665
+fan wei	反胃	9645
+fan gan di	范甘迪	9595
+fan yun	贩运	9575
+fan hong	泛红	9515
+fan xie gang	反斜杠	9500
+fan shu	翻书	9480
+fan shu	凡属	9460
+fan jian dao dan	反舰导弹	9450
+fan chou	犯愁	9410
+fan qie hong su	番茄红素	9400
+fan ying zhe	反映着	9360
+fan lan cheng zai	泛滥成灾	9320
+fan hang	返航	9215
+fan ti zhong wen ban	繁体中文版	9145
+fan qi	翻起	9110
+fan chu	泛出	9040
+fan ri	反日	9030
+fan pa	反扒	9000
+fan di gang	梵蒂冈	8915
+fan chang	返厂	8888
+fan chang wei xiu	返厂维修	8888
+fan ting	饭厅	8865
+fan kong bu	反恐怖	8670
+fan yan sheng xi	繁衍生息	8660
+fan dao ban	反盗版	8615
+fan suo	反锁	8580
+fan zui lv	犯罪率	8565
+fan ni	范尼	8560
+fan fen lie guo jia fa	反分裂国家法	8531
+fan liang fan	翻两番	8500
+fan qing xiao cuo shi	反倾销措施	8460
+fan guo lai	翻过来	8445
+fan shi lin	凡士林	8445
+fan er zai	反而在	8405
+fan yi ci	反义词	8400
+fan bu tie	反补贴	8355
+fan ti ci	繁体词	8333
+fan yin	翻印	8325
+fan tian	梵天	8255
+fan dan bao	反担保	8205
+fan tian	翻天	8175
+fan liang	饭量	8135
+fan hui bei jing	返回北京	8055
+fan shan yue ling	翻山越岭	8035
+fan pa	反爬	8000
+fan jian	犯贱	7975
+fan jia	返家	7925
+fan zhu	泛珠	7855
+fan hua	反华	7835
+fan mu	反目	7820
+fan zheng jiu shi	反正就是	7790
+fan di	反帝	7785
+fan dui dang	反对党	7775
+fan yu	梵语	7755
+fan jian	反间	7745
+fan wei zhi wai	范围之外	7700
+fan chu lai	翻出来	7690
+fan hao	番号	7685
+fan yi jia	翻译家	7650
+fan xiang dai li	反向代理	7637
+fan hui jian	返回键	7629
+fan jian	翻建	7600
+fan chen	反衬	7530
+fan le fan	翻了翻	7515
+fan le yi ge	犯了一个	7515
+fan tan ju	反贪局	7490
+fan xiang lian jie	反向链接	7465
+fan liu	反流	7440
+fan jian	繁简	7340
+fan hua	泛化	7335
+fan bu fu he	凡不符合	7330
+fan hui mu lu	返回目录	7325
+fan gao	梵高	7320
+fan fu su zi	凡夫俗子	7315
+fan chuan tong	反传统	7305
+fan tan ke	反坦克	7305
+fan ying fu	反应釜	7300
+fan ying she hui	反映社会	7295
+fan fu wu chang	反复无常	7235
+fan tiao	反跳	7205
+fan ji zhan	反击战	7195
+fan pu gui zhen	返璞归真	7190
+fan she xing	反射性	7165
+fan fu yan jiu	反复研究	7160
+fan zui ji tuan	犯罪集团	7145
+fan er jue de	反而觉得	7140
+fan jing	返京	7135
+fan hei	反黑	7060
+fan pai	反派	7050
+fan dao	翻倒	7010
+fan er sai	凡尔赛	6925
+fan qiang	翻墙	6820
+fan rao	烦扰	6815
+fan kui biao	反馈表	6740
+fan chao	翻炒	6720
+fan xiang qiang lie	反响强烈	6700
+fan fan	翻番	6682
+fan nan	犯难	6680
+fan gang jia nai zi	饭冈佳奈子	6666
+fan zhi	反智	6666
+fan zhi zhu yi	反智主义	6666
+fan fa xi si zhan zheng	反法西斯战争	6600
+fan jing shan	梵净山	6595
+fan yong	翻涌	6560
+fan yin	泛音	6555
+fan you	烦忧	6545
+fan she lv	反射率	6495
+fan rong fu qiang	繁荣富强	6480
+fan ban	帆板	6460
+fan di fan feng jian	反帝反封建	6460
+fan yin	凡因	6440
+fan hui shi	返回时	6405
+fan she chu	反射出	6390
+fan zhuan pian	反转片	6360
+fan zui ren	犯罪人	6355
+fan hua si jin	繁花似锦	6345
+fan you	反右	6345
+fan xu	凡需	6320
+fan xi qian fa	反洗钱法	6267
+fan bai wei sheng	反败为胜	6260
+fan qie hua yuan	番茄花园	6260
+fan jiang dao hai	翻江倒海	6175
+fan yi	凡以	6175
+fan si le	烦死了	6155
+fan qian	饭钱	6110
+fan xin shi	烦心事	6100
+fan qi dao er xing zhi	反其道而行之	6090
+fan shi liu	番石榴	6068
+fan feng	反讽	6065
+fan bai	泛白	6060
+fan li	反例	6055
+fan pan	翻盘	6050
+fan qing	反清	6000
+fan tong	饭桶	5950
+fan suan	泛酸	5930
+fan cuo de	犯错的	5925
+fan chou nei	范畴内	5915
+fan she jing	反射镜	5900
+fan she guang	反射光	5840
+fan zheng	反证	5835
+fan neng	凡能	5810
+fan shen	返身	5810
+fan juan	翻卷	5760
+fan shou	贩售	5745
+fan zhi	反制	5715
+fan feng jian	反封建	5710
+fan she shi	反射式	5695
+fan an	翻案	5690
+fan lao huan tong	返老还童	5650
+fan mei	泛美	5635
+fan bu zhao	犯不着	5605
+fan rong jing xiang	繁荣景象	5605
+fan ling	翻领	5600
+fan lu	翻录	5585
+fan hui bian	反汇编	5577
+fan li	樊篱	5555
+fan xuan	反选	5555
+fan xiang dao gui	翻箱倒柜	5515
+fan zui zhu ti	犯罪主体	5500
+fan xing fen ji	反兴奋剂	5480
+fan zui zhe	犯罪者	5480
+fan cheng	翻成	5470
+fan zui ji lu	犯罪记录	5405
+fan luan	烦乱	5400
+fan ge	翻个	5335
+fan qing	返青	5315
+fan ci	凡此	5305
+fan xiao	返销	5290
+fan ying wu	反应物	5290
+fan le ge shen	翻了个身	5280
+fan xia	翻下	5265
+fan kui xi tong	反馈系统	5195
+fan bai yan	翻白眼	5185
+fan hui cang	返回舱	5125
+fan ka	饭卡	5080
+fan a	烦啊	5045
+fan chang xian	繁昌县	5015
+fan qing xiao an	反倾销案	5005
+fan yi ruan jian	翻译软件	4955
+fan chuan	反串	4930
+fan zui shou duan	犯罪手段	4914
+fan bu	反不	4890
+fan tan ke dao dan	反坦克导弹	4870
+fan shi	反噬	4860
+fan yun fu yu	翻云覆雨	4825
+fan zui xian chang	犯罪现场	4825
+fan mu cheng chou	反目成仇	4820
+fan shang	犯上	4810
+fan xiao xuan	范晓萱	4810
+fan yi	反义	4770
+fan bo shuo	反驳说	4755
+fan zheng dou shi	反正都是	4740
+fan cheng piao	返程票	4715
+fan chong	反冲	4710
+fan zuo yong li	反作用力	4705
+fan fan	凡凡	4700
+fan ying qiang lie	反应强烈	4695
+fan dui ri ben	反对日本	4690
+fan fu zuo	反复做	4690
+fan dang	反党	4675
+fan ying shi chang	反映市场	4670
+fan zheng fu	反政府	4670
+fan yi li lun	翻译理论	4655
+fan yi	反以	4635
+fan an zhuang	反安装	4590
+fan fu tui qiao	反复推敲	4585
+fan gang	返港	4575
+fan le cuo	犯了错	4575
+fan gai shou ji	翻盖手机	4560
+fan zui qing jie	犯罪情节	4550
+fan gun zhe	翻滚着	4535
+fan shang ye hui lu	反商业贿赂	4530
+fan yi ren cai	翻译人才	4530
+fan fu shi yan	反复试验	4475
+fan mian jiao cai	反面教材	4470
+fan guang ban	反光板	4445
+fan cha	反查	4444
+fan yong	返佣	4444
+fan xin	凡心	4430
+fan du zhi qin quan	反渎职侵权	4407
+fan cheng	返城	4405
+fan kun	犯困	4340
+fan lai zhang kou	饭来张口	4335
+fan le zui	犯了罪	4320
+fan li	饭粒	4295
+fan nao ma	烦恼吗	4295
+fan pai	翻牌	4280
+fan pai er	翻牌儿	4280
+fan bi li	反比例	4275
+fan qie zhi	番茄汁	4270
+fan xie jiao	反邪教	4255
+fan chuan	翻船	4225
+fan mu ma	反木马	4225
+fan jie	犯戒	4215
+fan dui shen me	反对什么	4165
+fan kui qing kuang	反馈情况	4135
+fan er sai gong	凡尔赛宫	4120
+fan guan li	饭馆里	4100
+fan sha	犯傻	4085
+fan bing	犯病	4055
+fan dong tong zhi	反动统治	4050
+fan dong shi li	反动势力	4035
+fan ke wei zhu	反客为主	4025
+fan wei	凡未	4000
+fan xiao guo	反效果	3985
+fan xiu lv	返修率	3980
+fan huan cai chan	返还财产	3935
+fan zheng fu wu zhuang	反政府武装	3930
+fan bu zheng dang	反不正当	3920
+fan xing lei	泛型类	3910
+fan kong zhan zheng	反恐战争	3895
+fan hui an niu	返回按钮	3886
+fan ge ming fen zi	反革命分子	3880
+fan she hui	反社会	3880
+fan an	犯案	3820
+fan chu	反刍	3820
+fan fu si kao	反复思考	3820
+fan cha	翻查	3805
+fan sheng	凡圣	3775
+fan chong xi	反冲洗	3760
+fan shan	翻山	3760
+fan mai du pin	贩卖毒品	3720
+fan chun xiang ji	反唇相讥	3715
+fan wu zhi	反物质	3710
+fan zui xue	犯罪学	3700
+fan bu fan	烦不烦	3690
+fan fu xue xi	反复学习	3690
+fan kui liu yan ban	反馈留言板	3685
+fan zui zheng ju	犯罪证据	3680
+fan huang	反黄	3670
+fan zhen	藩镇	3665
+fan tui	反推	3635
+fan de	翻得	3630
+fan bi	反比	3615
+fan zuo bi	反作弊	3595
+fan dao	反导	3590
+fan ying shi	反应式	3590
+fan xing lei xing	泛型类型	3576
+fan ni	烦你	3530
+fan xing dian dian	繁星点点	3530
+fan si xing	反思性	3515
+fan pin	返聘	3495
+fan bu xie	帆布鞋	3445
+fan bai	翻白	3435
+fan tai	翻台	3435
+fan tai	返台	3435
+fan er na	凡尔纳	3425
+fan ying liang hao	反映良好	3420
+fan hui han shu	返回函数	3411
+fan mai du pin zui	贩卖毒品罪	3383
+fan guo qu	翻过去	3365
+fan bai yan er	翻白眼儿	3333
+fan quan pang	反犬旁	3333
+fan quan pang er	反犬旁儿	3333
+fan sha	反杀	3333
+fan shou shi zhi xiang shang zhi	反手食指向上指	3333
+fan shou shi zhi xiang xia zhi	反手食指向下指	3333
+fan shou shi zhi xiang you zhi	反手食指向右指	3333
+fan shou shi zhi xiang zuo zhi	反手食指向左指	3333
+fan si la	烦死啦	3333
+fan zhe	犯着	3333
+fan wen ru jie	繁文缛节	3320
+fan ke xue	反科学	3315
+fan guang cai liao	反光材料	3310
+fan re	烦热	3305
+fan zou si	反走私	3290
+fan yi fan	翻一翻	3285
+fan zhi yi	范志毅	3285
+fan jian	反舰	3275
+fan bi shui	反避税	3250
+fan bu tie cuo shi	反补贴措施	3250
+fan zui dui xiang	犯罪对象	3240
+fan she qi	反射器	3225
+fan qing fu ming	反清复明	3210
+fan yan	反演	3210
+fan zui zhong zhi	犯罪中止	3185
+fan ying	帆影	3150
+fan zei	反贼	3120
+fan zhi neng li	繁殖能力	3115
+fan han shu	反函数	3110
+fan hua du shi	繁华都市	3070
+fan ran hui wu	幡然悔悟	3070
+fan she zhe	反射着	3070
+fan bai	反白	3065
+fan yao	凡要	3065
+fan fan er tan	泛泛而谈	3055
+fan shen zhang	翻身仗	3050
+fan lv	泛绿	3040
+fan shi	范式	3030
+fan qi dao	反其道	3010
+fan guo	反过	3000
+fan zui wei sui	犯罪未遂	2995
+fan pen	饭盆	2985
+fan guo	返国	2965
+fan ma	反码	2948
+fan diao	反调	2945
+fan geng	翻耕	2940
+fan mian dian xing	反面典型	2930
+fan zui yu bei	犯罪预备	2895
+fan yi zhe	翻译者	2890
+fan si	烦死	2880
+fan lao	烦劳	2860
+fan jian tong	繁简通	2840
+fan zui ke ti	犯罪客体	2840
+fan mi	繁密	2790
+fan gong	翻供	2785
+fan teng zhe	翻腾着	2780
+fan tie	钒铁	2780
+fan zhi li	繁殖力	2780
+fan qin lve	反侵略	2730
+fan li	藩篱	2681
+fan rong wen ding	繁荣稳定	2680
+fan xing fang fa	泛型方法	2680
+fan ying ji zhi	反应机制	2680
+fan jie	反接	2650
+fan se	反色	2640
+fan shen tou mo	反渗透膜	2630
+fan chu dong wu	反刍动物	2615
+fan jia	贩假	2610
+fan mei	凡没	2610
+fan ran xing wu	幡然醒悟	2610
+fan bu tie diao cha	反补贴调查	2590
+fan shi yu ze li	凡事预则立	2575
+fan zui xin li	犯罪心理	2530
+fan zao	反遭	2525
+fan fu	翻覆	2520
+fan tan ke pao	反坦克炮	2505
+fan guo shen	翻过身	2475
+fan fu xing	反复性	2470
+fan ying su lv	反应速率	2470
+fan li	凡例	2445
+fan huan yuan wu	返还原物	2435
+fan zui wen ti	犯罪问题	2435
+fan tan wu	反贪污	2400
+fan nao zhang	烦恼障	2395
+fan shi	犯事	2365
+fan bu tie shui	反补贴税	2355
+fan guo	饭锅	2350
+fan qing	泛青	2350
+fan yue wei	反越位	2340
+fan dui zhan zheng	反对战争	2335
+fan zui zu zhi	犯罪组织	2335
+fan cheng	泛称	2330
+fan ru	翻入	2325
+fan chang ge qu	翻唱歌曲	2320
+fan hui di zhi	返回地址	2300
+fan mian ren wu	反面人物	2290
+fan hua	反话	2280
+fan guang mo	反光膜	2265
+fan kui zhi du	反馈制度	2250
+fan han fen xi	泛函分析	2240
+fan ying wen du	反应温度	2230
+fan yin hao	反引号	2227
+fan lai	翻来	2225
+fan tou le	烦透了	2225
+fan yue zhe	翻阅着	2225
+fan dian	饭点	2222
+fan dian er	饭点儿	2222
+fan guo	翻锅	2222
+fan ji	反季	2222
+fan tong	反同	2222
+fan zhao	翻找	2222
+fan zhe	饭辙	2222
+fan kui kong zhi	反馈控制	2220
+fan bian yi gong ju	反编译工具	2207
+fan yi fan	翻一番	2206
+fan zhi chang	繁殖场	2205
+fan yu	凡于	2200
+fan chang xian xiang	反常现象	2190
+fan chou	反抽	2185
+fan fu shuo	反复说	2185
+fan you	泛油	2185
+fan mu gua	番木瓜	2180
+fan yi yuan	翻译员	2175
+fan men de	烦闷的	2160
+fan xiang	凡响	2160
+fan lai fan qu	翻来翻去	2150
+fan shi	凡世	2145
+fan du ji tuan	贩毒集团	2130
+fan zui dong ji	犯罪动机	2125
+fan di gu	犯嘀咕	2120
+fan fu kao lv	反复考虑	2120
+fan shi	矾石	2120
+fan zui de ren	犯罪的人	2120
+fan wen ju	反问句	2110
+fan ying zhe	反应者	2100
+fan fan zhi bei	泛泛之辈	2095
+fan jiang	反将	2090
+fan gen tou	翻跟头	2080
+fan zhi hou dai	繁殖后代	2080
+fan dou	翻斗	2075
+fan zhi lv	繁殖率	2065
+fan zhi qi	繁殖期	2040
+fan xiang chuan bo	反向传播	2037
+fan ben	翻本	2030
+fan ying man	反应慢	2020
+fan chuan sai	帆船赛	2015
+fan zui gu yi	犯罪故意	1995
+fan ji	犯忌	1990
+fan suan	反酸	1985
+fan bao luo	范堡罗	1980
+fan gai shi	翻盖式	1970
+fan wen wang	范文网	1970
+fan long	樊笼	1965
+fan seng	番僧	1965
+fan zui gan	犯罪感	1965
+fan hui di mian	返回地面	1960
+fan wu	凡无	1960
+fan zheng fa	反证法	1955
+fan jin	犯禁	1935
+fan wen	反文	1935
+fan yu	反语	1920
+fan mian jue se	反面角色	1905
+fan rong xing wang	繁荣兴旺	1905
+fan jian	翻检	1900
+fan xing bian cheng	泛型编程	1891
+fan lian bu ren ren	翻脸不认人	1875
+fan shi	烦事	1875
+fan pu	饭铺	1870
+fan shui	泛水	1870
+fan chui	反吹	1865
+fan rong qi	繁荣期	1860
+fan di	翻地	1855
+fan mai ji	贩卖机	1850
+fan yi xi tong	翻译系统	1840
+fan zhao	反照	1835
+fan bang	反绑	1830
+fan qi zha	反欺诈	1820
+fan zui gou cheng yao jian	犯罪构成要件	1816
+fan jie	反诘	1815
+fan ying lun	反映论	1815
+fan de	烦得	1805
+fan jin dou	翻筋斗	1801
+fan ying fei chang	反应非常	1785
+fan zui mu di	犯罪目的	1780
+fan guang	泛光	1775
+fan zui xin li xue	犯罪心理学	1775
+fan gu	反骨	1765
+fan shai	翻晒	1765
+fan gu	反顾	1760
+fan she ji shu	反射技术	1760
+fan kang zhe	反抗者	1755
+fan cheng qu	樊城区	1750
+fan ying	凡应	1750
+fan xing jie kou	泛型接口	1749
+fan de zhao	犯得着	1740
+fan wei hen da	范围很大	1740
+fan wei jiao	反围剿	1740
+fan zui yu fang	犯罪预防	1740
+fan jue	反觉	1730
+fan zui ji sui	犯罪既遂	1730
+fan jiao	反角	1725
+fan qian zhi sheng ji	反潜直升机	1725
+fan ru	繁缛	1725
+fan yi qi	翻译器	1725
+fan ai	泛爱	1710
+fan she hui zhu yi	反社会主义	1705
+fan xiang	饭香	1705
+fan rong shi chang	繁荣市场	1685
+fan jian ji	反间计	1670
+fan ge yi ji	反戈一击	1665
+fan tan li	反弹力	1655
+fan ge ming ji tuan	反革命集团	1650
+fan rong jing ji	繁荣经济	1650
+fan qing xiao fa	反倾销法	1645
+fan yi guan	翻译官	1645
+fan shi	饭食	1642
+fan dou che	翻斗车	1635
+fan yao yi kou	反咬一口	1635
+fan du	反毒	1625
+fan nan	繁难	1625
+fan she zuo yong	反射作用	1620
+fan xiao	烦嚣	1620
+fan ba	反把	1610
+fan ce	反侧	1610
+fan bang	番邦	1605
+fan li	反力	1605
+fan ying guo du	反应过度	1605
+fan yao	反要	1600
+fan ge ming zheng bian	反革命政变	1595
+fan gui	返归	1575
+fan kang jun	反抗军	1575
+fan she ceng	反射层	1565
+fan hong	翻红	1550
+fan sha	翻砂	1550
+fan she hu	反射弧	1550
+fan pan zhe	反叛者	1545
+fan hui can shu	返回参数	1535
+fan fu zheng ming	反复证明	1525
+fan chang	梵唱	1520
+fan biao zhu	凡标注	1515
+fan gong da lu	反攻大陆	1510
+fan she bo	反射波	1500
+fan ke	翻刻	1495
+fan tu	矾土	1490
+fan du zhi qin quan ju	反渎职侵权局	1482
+fan ji shi po sui ji	反击式破碎机	1480
+fan ye xiao guo	翻页效果	1478
+fan chuan	反穿	1450
+fan fei	饭费	1450
+fan hou fu	饭后服	1450
+fan qian ji	反潜机	1445
+fan wan	翻完	1445
+fan da	反打	1410
+fan ba	反霸	1405
+fan fu she dao dan	反辐射导弹	1405
+fan le ge bai yan	翻了个白眼	1400
+fan she ban	反射板	1400
+fan nian	返黏	1399
+fan zhang	反掌	1395
+fan zhe	反折	1395
+fan bu guo	翻不过	1380
+fan shou	翻手	1380
+fan qie ji dan	番茄鸡蛋	1377
+fan pai jue se	反派角色	1375
+fan fan	反反	1370
+fan qie	反切	1365
+fan zui xian xiang	犯罪现象	1365
+fan she mian	反射面	1360
+fan shou wei yun	翻手为云	1360
+fan hong hua	番红花	1355
+fan yao	反咬	1355
+fan qing xiao guan shui	反倾销关税	1350
+fan dang ji tuan	反党集团	1345
+fan xiang	翻向	1340
+fan ying guo	反映过	1340
+fan dong fen zi	反动分子	1335
+fan hai xin	范海辛	1335
+fan dong zhe	翻动着	1325
+fan mao	翻毛	1325
+fan zhe ne	烦着呢	1325
+fan zu	返祖	1325
+fan dao qie zui	犯盗窃罪	1315
+fan xiang hen da	反响很大	1315
+fan bu bao	帆布包	1310
+fan shui	反水	1310
+fan xie xian	反斜线	1310
+fan zhi zhe	繁殖者	1310
+fan mai ren kou	贩卖人口	1305
+fan you	泛游	1305
+fan kong	反控	1300
+fan si ren	烦死人	1295
+fan zui jie guo	犯罪结果	1295
+fan bu shang	犯不上	1290
+fan tuo la si	反托拉斯	1290
+fan zhen ge ju	藩镇割据	1290
+fan zui xing zhi	犯罪性质	1290
+fan dui zi you zhu yi	反对自由主义	1285
+fan jiao	翻搅	1280
+fan di	返抵	1275
+fan bu liao	翻不了	1270
+fan she xiao shi	反射消失	1265
+fan zui gong ju	犯罪工具	1260
+fan yi quan	翻译权	1255
+fan guo	藩国	1250
+fan jian ti	繁简体	1250
+fan dui guan liao zhu yi	反对官僚主义	1246
+fan nao si	烦恼丝	1245
+fan zhen cha	反侦查	1234
+fan de	反得	1230
+fan ying fang shi	反应方式	1230
+fan bian yi qi	反编译器	1225
+fan ren	番人	1225
+fan ran	幡然	1205
+fan dai	翻袋	1200
+fan qiu zhu ji	反求诸己	1200
+fan yi fang fa	翻译方法	1195
+fan chi guo le	饭吃过了	1185
+fan chi guo le ma	饭吃过了吗	1185
+fan nong	翻弄	1185
+fan chi hao le	饭吃好了	1180
+fan er dao	反而倒	1180
+fan fan wo qiang han zhe	凡犯我强汉者	1180
+fan hua yang	翻花样	1180
+fan jing ru shen lin	返景入深林	1180
+fan yu	凡与	1180
+fan chuan yun dong	帆船运动	1175
+fan ye jian	翻页键	1175
+fan zui xing tai	犯罪形态	1175
+fan you qing	反右倾	1165
+fan jiang	凡将	1160
+fan yu	反于	1160
+fan ji	反激	1145
+fan hui ding bu	返回顶部	1137
+fan shang zuo luan	犯上作乱	1115
+fan tuo la si fa	反托拉斯法	1115
+fan dian	返点	1111
+fan dian er	返点儿	1111
+fan mian	翻面	1111
+fan wen hao	反问号	1111
+fan wen pang	反文旁	1111
+fan xue	返学	1111
+fan yuan	返院	1111
+fan zi kuang	反字框	1111
+fan bu sheng fan	烦不胜烦	1105
+fan yan	翻眼	1105
+fan yi ji shu	翻译技术	1105
+fan an feng	翻案风	1095
+fan chao	返潮	1095
+fan de shang	犯得上	1095
+fan hui	翻悔	1095
+fan xi	反洗	1095
+fan you tai	反犹太	1090
+fan mao jin	反冒进	1085
+fan shen lun	泛神论	1080
+fan wei tiao zheng	范围调整	1080
+fan shu	藩属	1075
+fan qian dao dan	反潜导弹	1070
+fan diao	翻掉	1065
+fan qin lve zhan zheng	反侵略战争	1065
+fan qi lai	翻起来	1055
+fan du an	贩毒案	1045
+fan she xi shu	反射系数	1045
+fan tu	翻土	1045
+fan shao	饭勺	1035
+fan tan gong zuo	反贪工作	1035
+fan hua guan xi	泛化关系	1032
+fan ding long shi	反町隆史	1030
+fan hui lu jing	返回路径	1030
+fan zhuang jia	反装甲	1020
+fan te	反特	1015
+fan wei	反为	1015
+fan you pai dou zheng	反右派斗争	1015
+fan she hui lai	反射回来	1010
+fan si	贩私	1010
+fan shi xian	繁峙县	1005
+fan su	反诉	1004
+fan she lu	反射炉	1000
+fan yi ji	翻译机	1000
+fan zui dang an	犯罪档案	1000
+fan chu	犯怵	999
+fan qian	返迁	999
+fan suo zhe xue	烦琐哲学	999
+fan ye bu chi	饭也不吃	995
+fan zuo	翻作	995
+fan xiang chuan bo suan fa	反向传播算法	993
+fan song	返送	990
+fan zhi zi	反质子	990
+fan wang	藩王	987
+fan chao liu	反潮流	985
+fan dao dan	反导弹	975
+fan su qing qiu	反诉请求	975
+fan jiang	翻浆	970
+fan fu de shuo	反复地说	960
+fan hao	翻好	960
+fan zhu	藩主	960
+fan du lin lun	反杜林论	955
+fan guang zhao ming	泛光照明	955
+fan min zhu	反民主	955
+fan tan wu hui lu ju	反贪污贿赂局	942
+fan luan	繁乱	940
+fan li zhi	番荔枝	929
+fan zui yuan yin	犯罪原因	925
+fan yong	反用	920
+fan ya	泛亚	917
+fan chang gui	反常规	915
+fan shi	反式	915
+fan hua si jin	繁华似锦	910
+fan yin	梵音	910
+fan zui lei xing	犯罪类型	910
+fan zhuan lian biao	反转链表	902
+fan du fen zi	贩毒分子	895
+fan she dong zuo	反射动作	890
+fan qie dan tang	番茄蛋汤	885
+fan bian	反编	875
+fan zhen cha	反侦察	860
+fan fan kan	翻翻看	855
+fan he	反核	855
+fan fu jiang	反复讲	850
+fan jian	反剪	850
+fan kui ka	反馈卡	845
+fan wan	翻腕	845
+fan jing	犯境	840
+fan shen jie fang	翻身解放	840
+fan wen	繁文	835
+fan guo shi er	犯过事儿	833
+fan dui tai du	反对台独	830
+fan hui jia	返回家	830
+fan yi	犯疑	830
+fan ying mo shi	反应模式	825
+fan fu xun wen	反复询问	820
+fan qie sha si	番茄沙司	820
+fan ying ye	反应液	820
+fan kui zuo yong	反馈作用	810
+fan zhe	烦着	805
+fan mei	返美	800
+fan shu teng	番薯藤	800
+fan nao de ren	烦恼的人	795
+fan zhuan ju	反转剧	795
+fan bi guan xi	反比关系	790
+fan chang xing wei	反常行为	790
+fan da cuo	犯大错	790
+fan wu	反诬	790
+fan yi hao	翻译好	790
+fan yi hao de	翻译好的	790
+fan yi hao le	翻译好了	790
+fan gong zi xing	反躬自省	789
+fan er deng	凡尔登	785
+fan zao jiu chi guo le	饭早就吃过了	785
+fan chi guo le mei you	饭吃过了没有	780
+fan dui ben ben zhu yi	反对本本主义	780
+fan dui chen	反对称	780
+fan ge	反戈	765
+fan ji	燔祭	765
+fan huang	贩黄	760
+fan si ni	烦死你	759
+fan fen lie fa	反分裂法	755
+fan ying lv	反应率	755
+fan li zi	反粒子	750
+fan rong jie duan	繁荣阶段	750
+fan juan zhe	翻卷着	740
+fan kang zhe	反抗着	740
+fan xiang gong cheng	反向工程	739
+fan zhuan zi fu chuan	反转字符串	737
+fan xian	反显	735
+fan fa tong meng	反法同盟	730
+fan lun	泛论	720
+fan yan zhe	繁衍着	715
+fan yong	凡庸	715
+fan chen	翻沉	705
+fan lian wu qing	翻脸无情	705
+fan ying qi	反应期	705
+fan gang	钒钢	700
+fan zhuan fu chong	反转负冲	700
+fan bao wei	反包围	695
+fan ni	烦腻	690
+fan she xin hao	反射信号	690
+fan jue	反角	689
+fan dian yu ding	饭店预订	685
+fan mian yi jian	反面意见	685
+fan bu guo shen	翻不过身	680
+fan guo cuo	犯过错	680
+fan ying kuai de	反应快的	680
+fan kou	反口	675
+fan ying zhong guo	反映中国	666
+fan ke	凡客	665
+fan she kang jin	反射亢进	665
+fan shen dai ci	反身代词	665
+fan tan qiu	反弹球	655
+fan gong dao suan	反攻倒算	650
+fan le ge bian	翻了个遍	650
+fan shou wei gong	反守为攻	650
+fan kui dian lu	反馈电路	645
+fan du an jian	贩毒案件	640
+fan qie chao ji dan	番茄炒鸡蛋	636
+fan le ge cuo wu	犯了个错误	630
+fan qiang	帆樯	630
+fan tian wang	梵天王	630
+fan zu xian xiang	返祖现象	630
+fan chang jiang xin wen jiang	范长江新闻奖	627
+fan hua shi jie	繁华世界	625
+fan tai du	反台独	625
+fan xi fang	反西方	625
+fan gui dong zuo	犯规动作	620
+fan nao	繁闹	620
+fan fan zhi jiao	泛泛之交	615
+fan zui gou cheng li lun	犯罪构成理论	611
+fan du pin	反毒品	610
+fan xun	翻寻	610
+fan xing suan fa	泛型算法	603
+fan ban yun dong	帆板运动	600
+fan xiang yun dong	反向运动	600
+fan yi ye	翻一页	600
+fan zi dian	翻字典	595
+fan she jiao	反射角	585
+fan hua da dao	繁华大道	584
+fan gong zi wen	反躬自问	580
+fan yong zhe	翻涌着	575
+fan yi cheng xu	翻译程序	566
+fan han	返汉	565
+fan qian fei ji	反潜飞机	565
+fan wei cha xun	范围查询	565
+fan zuo	反坐	565
+fan duo yao	范铎耀	562
+fan bu chu	翻不出	560
+fan gan rao	反干扰	555
+fan san jiao han shu	反三角函数	550
+fan pai ren wu	反派人物	540
+fan zui ke guan fang mian	犯罪客观方面	536
+fan wei qi	范玮琪	534
+fan dong si xiang	反动思想	530
+fan jiu zhang	翻旧账	530
+fan mu wei chou	反目为仇	530
+fan nan	烦难	530
+fan zhuan zhe	翻转着	530
+fan she sun hao	反射损耗	525
+fan xu li tai	范徐丽泰	525
+fan chun ren	范纯仁	520
+fan zheng qie	反正切	520
+fan ji xing	反极性	515
+fan cui qu	反萃取	512
+fan xing	梵行	511
+fan shang lai	翻上来	510
+fan she ti	反射体	505
+fan wu	繁芜	505
+fan long duan an	反垄断案	500
+fan qian de	饭前的	500
+fan shi	反诗	500
+fan xu	反序	500
+fan cha	梵刹	485
+fan zu yu	范祖禹	480
+fan zhi	反治	470
+fan tai	钒钛	468
+fan lian bu ren	翻脸不认	460
+fan shu guo	藩属国	460
+fan wu	烦恶	460
+fan du ju	反渎局	459
+fan ben huan yuan	返本还原	455
+fan she fa	反射法	455
+fan lang fei	反浪费	450
+fan di gang cheng	梵蒂冈城	445
+fan chou	烦愁	440
+fan de hen	烦得很	440
+fan qian xi shou	饭前洗手	440
+fan jin	凡近	425
+fan mian jiao yuan	反面教员	425
+fan yan zhi jian	犯颜直谏	425
+fan ying wo guo	反映我国	425
+fan bian ma	反编码	418
+fan hong	泛洪	418
+fan nong zhe	翻弄着	415
+fan yin bi jiu	翻印必究	415
+fan chang jiang	范长江	407
+fan bu bei bao	帆布背包	405
+fan chang qing kuang	反常情况	405
+fan kang de ren	反抗的人	405
+fan ce	翻侧	400
+fan xiang tou ying	反向投影	396
+fan mai jun huo	贩卖军火	395
+fan peng	帆篷	395
+fan shu	范数	395
+fan ge ming bao luan	反革命暴乱	390
+fan dong ji tuan	反动集团	385
+fan li xing zhu yi	反理性主义	385
+fan rong	烦冗	385
+fan di li bian ma	反地理编码	381
+fan diao shi	反调试	380
+fan chun	犯蠢	379
+fan gui dang	反归档	378
+fan gao	反告	375
+fan ying man de	反应慢的	375
+fan de zhao ma	犯得着吗	374
+fan bei bu wan	泛北部湾	373
+fan long duan zheng ce	反垄断政策	371
+fan dian dong shi	反电动势	370
+fan fu da	反复打	360
+fan qing xiao ri luo fu shen	反倾销日落复审	356
+fan xuan	反旋	355
+fan tuan zi	饭团子	350
+fan zhan shi wei	反战示威	350
+fan bai xian shi	反白显示	345
+fan mai nu li	贩卖奴隶	345
+fan ben	繁本	340
+fan fan zhe	泛泛者	339
+fan xing lei xing can shu	泛型类型参数	337
+fan du	反读	334
+fan wei	番位	333
+fan shen me	烦什么	330
+fan zui di dian	犯罪地点	329
+fan li	范蠡	325
+fan xiang guan	反相关	325
+fan qie gong zuo fa	番茄工作法	324
+fan bu chang	帆布厂	320
+fan kong jiang	反空降	320
+fan ye bu xiang chi	饭也不想吃	320
+fan gang	返岗	315
+fan she ding lv	反射定律	310
+fan xiang sou suo	反向搜索	310
+fan xiao ri	返校日	310
+fan chu qu	翻出去	305
+fan shen	烦神	300
+fan zheng xian	反正弦	300
+fan ying xing jing shen bing	反应性精神病	299
+fan gai	翻改	295
+fan ji la zhi rou	樊记腊汁肉	291
+fan zhong xin	范忠信	290
+fan fu zou zu	贩夫走卒	289
+fan yan	烦言	285
+fan yu xian	反余弦	285
+fan wei bian liang	范围变量	280
+fan fu	贩夫	275
+fan ke	犯科	275
+fan le ge da cuo	犯了个大错	275
+fan yun hu	贩运户	275
+fan bu qi	翻不起	265
+fan ke	烦渴	265
+fan tie ci	反铁磁	265
+fan ying	返英	265
+fan tian	畈田	260
+fan she hui xing wei	反社会行为	259
+fan yao yue	反要约	255
+fan xing	范性	254
+fan zao	翻造	250
+fan jian zhi ji	反间之计	245
+fan nao jie yin qiang chu tou	烦恼皆因强出头	245
+fan yi wen dang	翻译文档	242
+fan zu	返租	240
+fan hun	犯浑	235
+fan she deng	反射灯	235
+fan shu tang shui	番薯糖水	231
+fan zhuan dan lian biao	反转单链表	230
+fan ying su	反应素	229
+fan er deng zhan yi	凡尔登战役	225
+fan le ge gen tou	翻了个跟头	225
+fan hui lai	返回来	222
+fan pa chong	反爬虫	222
+fan lei da	反雷达	221
+fan bo zhe	反驳者	220
+fan heng	帆桁	220
+fan bai	凡百	216
+fan le ge jin dou	翻了个筋斗	210
+fan le ge ge er	翻了个个儿	205
+fan mian cai liao	反面材料	205
+fan shen zuo zhu	翻身做主	205
+fan qing qiu	反请求	201
+fan jiao	梵教	200
+fan jiao	番椒	200
+fan ni kai ke	范尼凯克	200
+fan she tie tu	反射贴图	200
+fan hong bao	返红包	199
+fan hui bian cheng xu	反汇编程序	199
+fan ji lu	翻记录	199
+fan long duan ju	反垄断局	199
+fan nao duo	烦恼多	196
+fan zha lan	翻栅栏	196
+fan dui shu	反对数	195
+fan qi cai	反器材	195
+fan suo zhe xue	繁琐哲学	195
+fan tan	泛谈	195
+fan yi min	樊亦敏	195
+fan mai jiao lv	贩卖焦虑	194
+fan rong fa zhan	繁荣发展	192
+fan xing lian	泛性恋	192
+fan qie chao dan	番茄炒蛋	190
+fan shuai qi	范帅琦	190
+fan da zi	饭搭子	188
+fan fu dou zheng	反腐斗争	188
+fan lan gan	翻栏杆	187
+fan shi zhi fang	反式脂肪	187
+fan wo sen	范沃森	187
+fan xiao dan	樊晓丹	187
+fan ying hua	范英华	187
+fan duo tai	反堕胎	186
+fan ge ge er	翻个个儿	185
+fan ge ming zhan zheng	反革命战争	185
+fan hui	犯讳	185
+fan ji	犯急	185
+fan kui en	范奎恩	184
+fan xiao ma	返校码	182
+fan qie dan hua tang	番茄蛋花汤	181
+fan xiao qian	返校前	181
+fan xiao tiao jian	返校条件	181
+fan li ming	樊丽明	180
+fan hai kong gu	泛海控股	176
+fan gui qiu	犯规球	175
+fan ma ren ya	范马刃牙	175
+fan qian jian	反潜舰	175
+fan tan wu xiao	反弹无效	175
+fan ren zhi qu	凡人之躯	174
+fan chang pi fu	返场皮肤	173
+fan chu shi	范厨师	173
+fan yi chen	范逸臣	173
+fan de bei ke	范德贝克	172
+fan kai jie	樊凯杰	172
+fan qi lu	范崎路	172
+fan ya ti	反押题	172
+fan bu chuang	帆布床	170
+fan bu qi	泛不起	170
+fan ma yong ci lang	范马勇次郎	170
+fan wei gong	反围攻	170
+fan fu li te	范弗利特	168
+fan gong	反弓	168
+fan xiao tong zhi	返校通知	168
+fan hui di qiu	返回地球	167
+fan jing shan zi ran bao hu qu	梵净山自然保护区	165
+fan zheng yi yang	反正一样	165
+fan zhi cuo shi	反制措施	163
+fan dui lang fei	反对浪费	162
+fan fang xiang de zhong	反方向的钟	162
+fan zhuan di qiu	反转地球	162
+fan er bu jiao	犯而不校	160
+fan dui bao li	反对暴力	159
+fan pen dao guan	翻盆倒罐	158
+fan qie yi mian	番茄意面	158
+fan cun xiang	范村乡	157
+fan da er	范达尔	156
+fan cheng zhen	繁城镇	155
+fan dian chi	钒电池	155
+fan zhong zu ge li	反种族隔离	155
+fan ren ying xiong	凡人英雄	153
+fan de fa te	范德法特	151
+fan fu guan kan	反复观看	151
+fan wa lu	樊洼路	151
+fan dui jie shi	反对解释	150
+fan cha se	反差色	147
+fan zheng yi	范争一	147
+fan tian lei	范天雷	145
+fan mi er	梵米尔	144
+fan liang liang	范亮亮	143
+fan pao pao	范跑跑	142
+fan ke xin	范可欣	141
+fan dao xi tong	反导系统	140
+fan fen shu	繁分数	140
+fan xiao hou	返校后	139
+fan wei	饭味	137
+fan wen lan	范文澜	137
+fan zhi xing dong	反制行动	136
+fan ling lun	泛灵论	135
+fan xiang de	反向地	135
+fan xiao liang	返销粮	135
+fan xiao shi jian	返校时间	135
+fan ying zhou qi	反应周期	135
+fan zhuan lai	反转来	135
+fan zui da shi	犯罪大师	135
+fan dian lao ban	饭店老板	134
+fan dian xin zha pian	反电信诈骗	133
+fan bo	繁博	130
+fan dao zhi zi	饭岛直子	130
+fan de er	范德尔	130
+fan di gang jiao huang	梵蒂冈教皇	130
+fan gong xuan chuan	反共宣传	130
+fan hui shi jian	返回时间	130
+fan le ge shen zi	翻了个身子	130
+fan nve dai	反虐待	130
+fan qie huo guo	番茄火锅	130
+fan ji pian	反击篇	129
+fan zhe mai	反着买	129
+fan cheng gao feng	返程高峰	126
+fan xiang ren yuan	返乡人员	126
+fan xiao ri qi	返校日期	126
+fan gao zhuan	梵高传	125
+fan mei kai fa yin hang	泛美开发银行	125
+fan nv quan	反女权	125
+fan wei	帆桅	125
+fan xian ji guan	繁弦急管	125
+fan xiang you hua	反向优化	123
+fan po zhen	范坡镇	121
+fan qie dou fu	番茄豆腐	121
+fan dai	饭袋	120
+fan fan zui	反犯罪	120
+fan wei shu xing	范围属性	120
+fan da jiang jun	范大将军	119
+fan xiao shen qing	返校申请	119
+fan yi xie zuo	翻译写作	119
+fan hua qing xu	反华情绪	118
+fan na cui	反纳粹	118
+fan dui wu xiao	反对无效	117
+fan hu xiang	范湖乡	117
+fan gu ping	犯孤平	116
+fan hua xin cheng	泛华新城	116
+fan nve dai dong wu fa	反虐待动物法	116
+fan dong tou ding	反动透顶	115
+fan hong bao	翻红包	115
+fan kai shu ye	翻开书页	115
+fan wei	范伟	115
+fan yi xia	翻一下	115
+fan yi da sai	翻译大赛	113
+fan zhong jie	范中杰	112
+fan bao	饭煲	111
+fan ben huan yuan	返本还元	111
+fan bian	翻边	111
+fan bian er	翻边儿	111
+fan chun xiang ji	反唇相稽	111
+fan dai	反代	111
+fan fan	饭饭	111
+fan gei	返给	111
+fan hui lai	翻回来	111
+fan ju	番剧	111
+fan lai	饭来	111
+fan mou	范某	111
+fan neng	饭能	111
+fan ping	藩屏	111
+fan qiao	反翘	111
+fan sheng	翻升	111
+fan xi	繁细	111
+fan yang	范阳	111
+fan ye	反野	111
+fan yong	凡用	111
+fan zeng	范增	111
+fan shou wei yun fu shou wei yu	翻手为云覆手为雨	110
+fan xing zhong fu	繁刑重赋	110
+fan ying fang cheng	反应方程	110
+fan guan mai	反关脉	109
+fan guo na zuo shan	翻过那座山	109
+fan jia ge long duan gui ding	反价格垄断规定	109
+fan chang qu	繁昌区	108
+fan chang dao du	翻肠倒肚	106
+fan zheng jiu	反正就	106
+fan bu chu lai	翻不出来	105
+fan huo	贩货	105
+fan le ge cuo	犯了个错	105
+fan shang ye	翻上页	105
+fan shi dou ying liang li er xing	凡事都应量力而行	105
+fan shi zong shi you nan er yi	凡事总是由难而易	105
+fan zui cheng ben	犯罪成本	105
+fan bu liao	反不了	104
+fan han jie	范汉杰	104
+fan rui ping	范锐平	104
+fan de bi er te	范德比尔特	103
+fan sheng peng	范胜鹏	103
+fan yi xia	翻译下	103
+fan shu wan	番薯丸	102
+fan xuan pin	反宣品	102
+fan fu cheng e	反腐惩恶	101
+fan qing cha shou	烦请查收	101
+fan ai le shan	泛爱乐善	100
+fan bai yuan yin	梵呗圆音	100
+fan bai zi	反白字	100
+fan ban die	翻版碟	100
+fan ban shu	翻版书	100
+fan bang gui di	反绑跪地	100
+fan bao sheng yu shi	饭饱生余事	100
+fan bei hang qing	翻倍行情	100
+fan bei zeng zhang	翻倍增长	100
+fan ben chao yuan	返本朝元	100
+fan ben gui zhen	返本归真	100
+fan ben huan yuan	返本还源	100
+fan ben su yuan	反本溯源	100
+fan ben xiu gu	反本修古	100
+fan bi yan	犯鼻炎	100
+fan bian kou dai	翻遍口袋	100
+fan bian ku dai	翻遍裤袋	100
+fan bian ku dou	翻遍裤兜	100
+fan bian niu zai ku	翻边牛仔裤	100
+fan bin wei zhu	反宾为主	100
+fan bin zuo zhu	反宾作主	100
+fan bo yi	樊博艺	100
+fan bu bing di lei	反步兵地雷	100
+fan bu chi	饭不吃	100
+fan bu dai	帆布袋	100
+fan bu fan a	烦不烦啊	100
+fan bu fan cuo	犯不犯错	100
+fan bu fan cuo a	犯不犯错啊	100
+fan bu fan cuo ya	犯不犯错呀	100
+fan bu fan mang	繁不繁忙	100
+fan bu fan nao a	烦不烦恼啊	100
+fan bu fan ren	烦不烦人	100
+fan bu fan yi	翻不翻译	100
+fan bu fan yi a	翻不翻译啊	100
+fan bu fan yi ya	翻不翻译呀	100
+fan bu liao pan	翻不了盘	100
+fan bu liao shen	翻不了身	100
+fan bu liao shen de	翻不了身的	100
+fan bu liao shen le	翻不了身了	100
+fan bu liao tian	翻不了天	100
+fan bu yi	帆布椅	100
+fan ce bei ye	梵册贝叶	100
+fan cha biao	反差婊	100
+fan cha meng	反差萌	100
+fan chan tou	饭铲头	100
+fan chang de	反常地	100
+fan chang de	反常的	100
+fan chang de	返场的	100
+fan chang de di fang	反常的地方	100
+fan chang fen shou	反常分手	100
+fan chang ge shou	翻唱歌手	100
+fan chang jiao du	翻肠搅肚	100
+fan chang long	范长龙	100
+fan chang yin yue	翻唱音乐	100
+fan chang zhong	返场中	100
+fan chao le	反超了	100
+fan chao le bi fen	反超了比分	100
+fan che le	翻车了	100
+fan che tun	翻车鲀	100
+fan che tun ke	翻车鲀科	100
+fan che xian chang	翻车现场	100
+fan che yu	翻车鱼	100
+fan chen chu xin	翻陈出新	100
+fan chen su nian	凡尘俗念	100
+fan cheng bo yin	繁称博引	100
+fan cheng jie tuo	反成解脱	100
+fan cheng yu	范成玉	100
+fan cheng zhi xia	繁城之下	100
+fan chi dao liu	反赤道流	100
+fan chi le ma	饭吃了嘛	100
+fan chi le me	饭吃了么	100
+fan chi le mei	饭吃了没	100
+fan chi she	饭匙蛇	100
+fan chi wan le	饭吃完了	100
+fan chong li	反冲力	100
+fan chou hang qing	反抽行情	100
+fan chou lun	范畴论	100
+fan chu lai	泛出来	100
+fan chuan fang pian lian meng	反传防骗联盟	100
+fan chuan gong yuan	樊川公园	100
+fan chuan ji di	帆船基地	100
+fan chuan ju le bu	帆船俱乐部	100
+fan chuan jue se	反串角色	100
+fan chuan le	翻船了	100
+fan chuan suan fa	反传算法	100
+fan chuan xiao	反传销	100
+fan chuan zhi du	帆船之都	100
+fan chun nong she	翻唇弄舌	100
+fan cuo bu fan cuo	犯错不犯错	100
+fan cuo le	犯错了	100
+fan cuo mei fan cuo	犯错没犯错	100
+fan cuo wu le	犯错误了	100
+fan da er lu kui	范达尔鹿盔	100
+fan da lu	泛大陆	100
+fan da ren	范大人	100
+fan da yang	泛大洋	100
+fan dai qiu	翻袋球	100
+fan dai shu	泛代数	100
+fan dai zi	翻袋子	100
+fan dan dao dao dan	反弹道导弹	100
+fan dao dan xi tong	反导弹系统	100
+fan dao dao dan	反导导弹	100
+fan dao hui	反倒会	100
+fan dao hui shi	反倒会是	100
+fan dao jue de	反倒觉得	100
+fan dao lan jie dan	反导拦截弹	100
+fan dao shi hui	反倒是会	100
+fan dao shi wo	反倒是我	100
+fan dao shi yao	反倒是要	100
+fan dao xiang	反导向	100
+fan dao you dian	反倒有点	100
+fan dao you dian xiang	反倒有点像	100
+fan dao you dian xiang shi	反倒有点像是	100
+fan de che di	翻得彻底	100
+fan de ge la fu	范德格拉夫	100
+fan de ge la fu qi dian ji	范德格拉夫起电机	100
+fan de lei	烦的嘞	100
+fan de lin te	范德林特	100
+fan de sa	范德萨	100
+fan de wa er si	范德瓦耳斯	100
+fan de wa er si li	范德瓦耳斯力	100
+fan de wei de	范德维德	100
+fan de wei er	范德维尔	100
+fan de yao si	烦得要死	100
+fan deng bao	范登堡	100
+fan deng bao kong jun ji di	范登堡空军基地	100
+fan di gu le	犯嘀咕了	100
+fan di qiu	反地球	100
+fan di su	反低俗	100
+fan dian chi fan	饭店吃饭	100
+fan dian hang ye	饭店行业	100
+fan dian xin zha pian xuan chuan	反电信诈骗宣传	100
+fan dian zha xuan chuan	反电诈宣传	100
+fan dian zi	反电子	100
+fan ding jin	返定金	100
+fan ding li	反定理	100
+fan dong yan lun	反动言论	100
+fan dou bu chi	饭都不吃	100
+fan dou bu gei chi	饭都不给吃	100
+fan dou bu rang chi	饭都不让吃	100
+fan dou cheng	反斗城	100
+fan dou chi	饭都吃	100
+fan dou chi bu bao	饭都吃不饱	100
+fan dou chi bu qi	饭都吃不起	100
+fan dou chi bu qi le	饭都吃不起了	100
+fan dou chi bu shang	饭都吃不上	100
+fan dou chi bu xia	饭都吃不下	100
+fan dou fan si le	烦都烦死了	100
+fan dou mei chi	饭都没吃	100
+fan dou zuo hao	饭都做好	100
+fan dou zuo hao le	饭都做好了	100
+fan du dian	贩毒点	100
+fan du hai	反毒害	100
+fan du zhe	贩毒者	100
+fan dui chen guan xi	反对称关系	100
+fan dui chen xing	反对称性	100
+fan dui chuan tong	反对传统	100
+fan dui de qing ju shou	反对的请举手	100
+fan dui he huai yi	反对和怀疑	100
+fan dui huo huai yi	反对或怀疑	100
+fan dui jia mei you bang zhu	反对加没有帮助	100
+fan dui jia ru bei yue	反对加入北约	100
+fan dui lv	反对率	100
+fan dui pu zhang lang fei	反对铺张浪费	100
+fan dui qing ling	反对清零	100
+fan dui shang tian	反对上天	100
+fan dui sheng	反对声	100
+fan dui si xing	反对死刑	100
+fan dui tai du	反对态度	100
+fan dui tan he	反对弹劾	100
+fan dui xian fa	反对宪法	100
+fan dui you xiao	反对有效	100
+fan duo la	范朵拉	100
+fan duo shao bei	翻多少倍	100
+fan duo tai fa	反堕胎法	100
+fan e xin	犯恶心	100
+fan e yi ruan jian	反恶意软件	100
+fan er geng	反而更	100
+fan er geng rong yi	反而更容易	100
+fan er hai	反而还	100
+fan er hai yin wei	反而还因为	100
+fan er hua cheng le	反而化成了	100
+fan er hui jia zhong	反而会加重	100
+fan er hui jiang di	反而会降低	100
+fan er hui shi de qi fan	反而会适得其反	100
+fan er jia zhong	反而加重	100
+fan er jiang di	反而降低	100
+fan er jiao wo	反而叫我	100
+fan er jue de hen	反而觉得很	100
+fan er jue de hen zheng chang	反而觉得很正常	100
+fan er neng shi	反而能使	100
+fan er rong yi	反而容易	100
+fan er sai wen xue	凡尔赛文学	100
+fan er shi de qi fan	反而适得其反	100
+fan er shi xian zai	反而是现在	100
+fan er shi xian zai you	反而是现在又	100
+fan er shi xian zai you bei	反而是现在又被	100
+fan er shi yi zhong jie tuo	反而是一种解脱	100
+fan er xia jiang	反而下降	100
+fan er yao	反而要	100
+fan er yao si	反而要死	100
+fan er yao si le	反而要死了	100
+fan er yue	反而越	100
+fan er yue bu hao	反而越不好	100
+fan fa de	犯法的	100
+fan fa le	犯法了	100
+fan fa ma	犯法吗	100
+fan fan de	泛泛地	100
+fan fan de	泛泛的	100
+fan fan fan fan	烦烦烦烦	100
+fan fan fu fu de	反反复复地	100
+fan fan fu fu fa	反反复复发	100
+fan fan zeng zhang	翻番增长	100
+fan fan zhi bei	范范之辈	100
+fan fei zhu yi	泛非主义	100
+fan fu bai xie tiao xiao zu	反腐败协调小组	100
+fan fu bu chang	反复不常	100
+fan fu bu ding	反复不定	100
+fan fu bu yi	反复不一	100
+fan fu chang lian jiao yu ji di	反腐倡廉教育基地	100
+fan fu chong fu	反复重复	100
+fan fu chong qi	反复重启	100
+fan fu de	反复地	100
+fan fu diao yan	反复调研	100
+fan fu guo	饭麸果	100
+fan fu heng tiao	反复横跳	100
+fan fu ju jue	反复咀嚼	100
+fan fu li du	反腐力度	100
+fan fu mo ni	反复模拟	100
+fan fu nian ya	反复碾压	100
+fan fu rou yan	凡夫肉眼	100
+fan fu ru ci	反复如此	100
+fan fu si liang	反复思量	100
+fan fu si wei	反复思维	100
+fan fu su fu	凡夫俗妇	100
+fan fu tiao shi	反复调试	100
+fan fu tiao zheng	反复调整	100
+fan fu wen ti	反腐问题	100
+fan fu wu chang	翻复无常	100
+fan fu xie tiao	反复协调	100
+fan fu xing dong	反腐行动	100
+fan fu xuan chuan	反复宣传	100
+fan fu zhang dou	反复长痘	100
+fan fu zhi	反复制	100
+fan gan du	反感度	100
+fan gang lv	返岗率	100
+fan gang wu	范纲武	100
+fan gao chao	反高潮	100
+fan ge de	范戈德	100
+fan ge di chao tian	翻个底朝天	100
+fan ge fan	翻个番	100
+fan ge ming an jian	反革命案件	100
+fan ge ming xuan chuan	反革命宣传	100
+fan ge ming xuan chuan shan dong zui	反革命宣传煽动罪	100
+fan ge ming zui	反革命罪	100
+fan ge shen	翻个身	100
+fan gen dou	翻跟斗	100
+fan gong cheng	范公偁	100
+fan gong di	范公堤	100
+fan gong fu guo	反攻复国	100
+fan gong fu guo da ye	反攻复国大业	100
+fan gong kang e	反共抗俄	100
+fan gong lv	返工率	100
+fan gong wei shou	反攻为守	100
+fan gong zhu yi	反共主义	100
+fan gong zi ze	反躬自责	100
+fan gu zai	反骨仔	100
+fan guan er	饭馆儿	100
+fan guan nei zhao	返观内照	100
+fan guan yu jue	贩官鬻爵	100
+fan guan zi ji	反观自己	100
+fan guang du	反光度	100
+fan guang gao	反广告	100
+fan guang hui	范广惠	100
+fan guang jing yue dui	反光镜乐队	100
+fan guang lv	反光率	100
+fan guang mian	反光面	100
+fan guang xiang ji	反光相机	100
+fan gui le	犯规了	100
+fan gui zhe	犯规者	100
+fan guo cuo wu	犯过错误	100
+fan guo jin dou	翻过筋斗	100
+fan guo lai le	反过来了	100
+fan guo li	饭锅里	100
+fan guo qiang	翻过墙	100
+fan hai lun	范海伦	100
+fan hai mei chi	饭还没吃	100
+fan han dui yin	梵汉对音	100
+fan hao duo ye	翻好多页	100
+fan hao ji ye	翻好几页	100
+fan hao le	饭好了	100
+fan he jin	钒合金	100
+fan hei lu ren jia	反黑路人甲	100
+fan hen duo ye	翻很多页	100
+fan hong hua se	番红花色	100
+fan hong sen	范洪森	100
+fan hou bai bu zou	饭后百步走	100
+fan hou bai bu zou huo dao jiu shi jiu	饭后百步走活到九十九	100
+fan hou fu yong	饭后服用	100
+fan hou shu kou	饭后漱口	100
+fan hou zhong	饭后钟	100
+fan hua cheng du	繁华程度	100
+fan hua da du shi	繁华大都市	100
+fan hua de di duan	繁华的地段	100
+fan hua de du shi	繁华的都市	100
+fan hua di dai	繁华地带	100
+fan hua di duan	繁华地段	100
+fan hua di qu	繁华地区	100
+fan hua jie	繁华街	100
+fan hua luo jin	繁华落尽	100
+fan hua luo jin	繁花落尽	100
+fan hua luo mu	繁华落幕	100
+fan hua meng	繁华梦	100
+fan hua ru jin	繁花如锦	100
+fan hua ru ye	繁花缛叶	100
+fan hua sheng jing	繁华盛景	100
+fan hua sheng kai	繁花盛开	100
+fan hua sheng shi	繁华盛世	100
+fan hua shi li	反华势力	100
+fan hua zhi di	繁华之地	100
+fan huan bao fei	返还保费	100
+fan huan bao zheng jin	返还保证金	100
+fan huan ben jin	返还本金	100
+fan huan biao zhun	返还标准	100
+fan huan bu dang de li	返还不当得利	100
+fan huan cai li	返还彩礼	100
+fan huan ding jin	返还定金	100
+fan huan hua fei	返还话费	100
+fan huan jin e	返还金额	100
+fan huan lv	返还率	100
+fan huan qing qiu quan	返还请求权	100
+fan huan shi ye bao xian fei	返还失业保险费	100
+fan huan wang	返还网	100
+fan huan xian jin	返还现金	100
+fan huan xing	返还型	100
+fan huan xing bao xian	返还型保险	100
+fan huan xing zhong ji xian	返还型重疾险	100
+fan huan yong jin	返还佣金	100
+fan huan zhan you	返还占有	100
+fan hui di	返回地	100
+fan hui ji di	返回基地	100
+fan hui ju le bu	返回俱乐部	100
+fan hui qu	返回去	100
+fan hui ren yuan	返回人员	100
+fan hui shi	返回式	100
+fan hui tou	反回头	100
+fan hui xiao yuan	返回校园	100
+fan hui xue xiao	返回学校	100
+fan hui ying di	返回营地	100
+fan hui yuan di	返回原地	100
+fan hun fa shu	返魂乏术	100
+fan hun hua	返魂花	100
+fan ji de shou	反击得手	100
+fan ji du	反基督	100
+fan ji qiang	反击枪	100
+fan ji shi bei	翻几十倍	100
+fan ji su du	反击速度	100
+fan ji xing dong	反击行动	100
+fan jia hua	范嘉骅	100
+fan jia ju hang ye	泛家居行业	100
+fan jia qian	范家谦	100
+fan jian a	犯贱啊	100
+fan jian chuan	樊建川	100
+fan jian dan dao dao dan	反舰弹道导弹	100
+fan jian ting	反舰艇	100
+fan jian ting xun hang dao dan	反舰艇巡航导弹	100
+fan jian xun hang dao dan	反舰巡航导弹	100
+fan jian zhuan huan	繁简转换	100
+fan jiang jiao hai	翻江搅海	100
+fan jiang lv	返奖率	100
+fan jiang lv gao	返奖率高	100
+fan jiao cuo	反交错	100
+fan jin zhong ju	范进中举	100
+fan jing cong quan	反经从权	100
+fan jing he dao	反经合道	100
+fan jing he yi	反经合义	100
+fan jiu li	范九利	100
+fan jiu yin	犯酒瘾	100
+fan juan zi	翻卷子	100
+fan jue sha	反绝杀	100
+fan kai le xin de yi ye	翻开了新的一页	100
+fan kai xin de yi ye	翻开新的一页	100
+fan kai yi ye	翻开一页	100
+fan kan xiang ce	翻看相册	100
+fan kan zhe	翻看着	100
+fan kang bu ming xian	反抗不明显	100
+fan kang shang tian	反抗上天	100
+fan kang xing wei	反抗行为	100
+fan ke ben	翻刻本	100
+fan ke li fu	范克里夫	100
+fan ke qin	范可钦	100
+fan kong chu qi	翻空出奇	100
+fan kong xing dong	反恐行动	100
+fan kong xuan chuan	反恐宣传	100
+fan kou dai	翻口袋	100
+fan ku dai	翻裤袋	100
+fan ku dou	翻裤兜	100
+fan ku xing zhe mo gong yue	反酷刑折磨公约	100
+fan kua ke	反夸克	100
+fan kui diao cha	反馈调查	100
+fan kui lv	反馈率	100
+fan kui su du	反馈速度	100
+fan kui tiao jie	反馈调节	100
+fan kui yi xia	反馈一下	100
+fan kui zhu li	反馈助理	100
+fan kun le	犯困了	100
+fan la ji tong	翻垃圾桶	100
+fan lai kai kou	饭来开口	100
+fan lao hai tong	返老孩童	100
+fan lao san	范老三	100
+fan le ba	反了吧	100
+fan le bai yan	翻了白眼	100
+fan le ban tian	翻了半天	100
+fan le bing	犯了病	100
+fan le che	翻了车	100
+fan le chou	犯了愁	100
+fan le chu lai	翻了出来	100
+fan le chuan	翻了船	100
+fan le cuo wu	犯了错误	100
+fan le da cuo	犯了大错	100
+fan le da ji	犯了大忌	100
+fan le duo shao bei	翻了多少倍	100
+fan le fa	犯了法	100
+fan le fan	翻了番	100
+fan le ge di chao tian	翻了个底朝天	100
+fan le gui	犯了规	100
+fan le gui le	犯了规了	100
+fan le guo lai	反了过来	100
+fan le guo lai	翻了过来	100
+fan le hao ji ye	翻了好几页	100
+fan le hen duo bei	翻了很多倍	100
+fan le hen duo cuo wu	犯了很多错误	100
+fan le hu tu	犯了糊涂	100
+fan le ji bei	翻了几倍	100
+fan le ji fan	翻了几番	100
+fan le ji hui	犯了忌讳	100
+fan le ji ye	翻了几页	100
+fan le lao mao bing	犯了老毛病	100
+fan le lian	翻了脸	100
+fan le liang bei	翻了两倍	100
+fan le liang fan	翻了两番	100
+fan le ma zai	饭了吗在	100
+fan le nan	犯了难	100
+fan le ni le	反了你了	100
+fan le san bei	翻了三倍	100
+fan le shen	翻了身	100
+fan le shen me cuo	犯了什么错	100
+fan le shen me shi	犯了什么事	100
+fan le shen me zui	犯了什么罪	100
+fan le shen me zui a	犯了什么罪啊	100
+fan le shi	犯了事	100
+fan le shi bei	翻了十倍	100
+fan le si zui	犯了死罪	100
+fan le tian	反了天	100
+fan le tian	翻了天	100
+fan le tian tiao	犯了天条	100
+fan le yan yin	犯了烟瘾	100
+fan le yan zhong de cuo wu	犯了严重的错误	100
+fan le yi bai bei	翻了一百倍	100
+fan le yi bei	翻了一倍	100
+fan le yi xie cuo wu	犯了一些错误	100
+fan le zhong nu	犯了众怒	100
+fan le zhong zui	犯了重罪	100
+fan li	饭里	100
+fan li mo shi	返利模式	100
+fan li wang	返利网	100
+fan li xi tong	返利系统	100
+fan li xiao zhu shou	返利小助手	100
+fan lian bi fan shu hai kuai	翻脸比翻书还快	100
+fan liang ye	翻两页	100
+fan ling chang xiu	翻领长袖	100
+fan liu xing	返流性	100
+fan long duan diao cha	反垄断调查	100
+fan lou shang qu	反搂上去	100
+fan lu bing du	反录病毒	100
+fan lu le	反撸了	100
+fan lu xiang	番路乡	100
+fan luan bing	反乱并	100
+fan lun tie nuo	范伦铁诺	100
+fan lv shu	繁缕属	100
+fan lv shuang	范履霜	100
+fan mai bu	贩卖部	100
+fan mai fa shu de za huo pu	贩卖法术的杂货铺	100
+fan mai qing huai	贩卖情怀	100
+fan mai shi jian	贩卖时间	100
+fan mai yin hang ka	贩卖银行卡	100
+fan mang cheng du	繁忙程度	100
+fan mang de xing cheng	繁忙的行程	100
+fan mang de yi tian	繁忙的一天	100
+fan mang du shi	繁忙都市	100
+fan mei chi	饭没吃	100
+fan mei fan cuo	犯没犯错	100
+fan mei fan cuo a	犯没犯错啊	100
+fan mei fan cuo ya	犯没犯错呀	100
+fan mei fan yi	翻没翻译	100
+fan mei fan yi a	翻没翻译啊	100
+fan mei fan yi ya	翻没翻译呀	100
+fan mei hang kong	泛美航空	100
+fan mei le xiu	饭没了秀	100
+fan mei shi gong zuo	反美是工作	100
+fan mei zhu yi	泛美主义	100
+fan mi li er	饭米粒儿	100
+fan mian er	反面儿	100
+fan mian pi	翻面皮	100
+fan mian wen zhang	反面文章	100
+fan mian wu qing	反面无情	100
+fan min zhu pai	泛民主派	100
+fan mo shi	反模式	100
+fan mou mou	范某某	100
+fan mu gua ke	番木瓜科	100
+fan mu gua shu	番木瓜属	100
+fan nang yi jia	饭囊衣架	100
+fan nao de	烦恼的	100
+fan nao ge	烦恼歌	100
+fan nao you xi	烦恼游戏	100
+fan nei juan	反内卷	100
+fan ni sha	凡妮莎	100
+fan ni si te lu yi	范尼斯特鲁伊	100
+fan niu tu gou	饭牛屠狗	100
+fan nve dai dong wu	反虐待动物	100
+fan ou jin qi	凡偶近器	100
+fan pa ce lve	反爬策略	100
+fan pa cuo shi	反爬措施	100
+fan pa min jing	反扒民警	100
+fan pai da shi xiong	反派大师兄	100
+fan pai fu li	翻牌福利	100
+fan pai na ka	翻牌拿卡	100
+fan pai pei jue	反派配角	100
+fan pai si yu hua duo	反派死于话多	100
+fan pai ying le	反派赢了	100
+fan pai zhu jue	反派主角	100
+fan pan chao ting	反叛朝廷	100
+fan pan dang	反叛党	100
+fan pan fen zi	反叛分子	100
+fan pan jun	反叛军	100
+fan pang xie	翻螃蟹	100
+fan pei xi	范佩西	100
+fan pi ping	反批评	100
+fan pian jing cha	反骗警察	100
+fan pian tian xia	反骗天下	100
+fan ping fu geng	泛萍浮梗	100
+fan pu huan chun	返朴还淳	100
+fan qi dao er xing	反其道而行	100
+fan qi dao xing zhi	反其道行之	100
+fan qi fei	范琪斐	100
+fan qi le	泛起了	100
+fan qi le hong xia	泛起了红霞	100
+fan qi xi se	泛起喜色	100
+fan qi zha xi tong	反欺诈系统	100
+fan qian chi hai shi fan hou chi	饭前吃还是饭后吃	100
+fan qian ting	反潜艇	100
+fan qiang er guo	翻墙而过	100
+fan qiao zha le suo zui	犯敲诈勒索罪	100
+fan qie chang ting	番茄畅听	100
+fan qie ding	番茄丁	100
+fan qie gu	番茄谷	100
+fan qie guo	番茄锅	100
+fan qie guo di	番茄锅底	100
+fan qie hong	番茄红	100
+fan qie hua yuan xi tong	番茄花园系统	100
+fan qie ji dan mian	番茄鸡蛋面	100
+fan qie ji dan tang	番茄鸡蛋汤	100
+fan qie jia yuan	番茄家园	100
+fan qie jiang shi liang	番茄酱适量	100
+fan qie jiang zhi	番茄酱汁	100
+fan qie jun	番茄君	100
+fan qie kuai	番茄块	100
+fan qie miao	番茄苗	100
+fan qie niu nan	番茄牛腩	100
+fan qie niu nan mian	番茄牛腩面	100
+fan qie niu rou	番茄牛肉	100
+fan qie nv hai	番茄女孩	100
+fan qie pai	番茄派	100
+fan qie pi	番茄皮	100
+fan qie pin zhong	番茄品种	100
+fan qie qian ye e	番茄潜叶蛾	100
+fan qie qie kuai	番茄切块	100
+fan qie qu pi	番茄去皮	100
+fan qie se	番茄色	100
+fan qie shi jian	番茄时间	100
+fan qie shi pin	番茄视频	100
+fan qie shi zhong	番茄时钟	100
+fan qie su	番茄素	100
+fan qie tai	番茄台	100
+fan qie tang	番茄汤	100
+fan qie tian	番茄田	100
+fan qie tu dou	番茄土豆	100
+fan qie wei	番茄味	100
+fan qie xi jing	番茄洗净	100
+fan qie yu	番茄鱼	100
+fan qie zhi bo	番茄直播	100
+fan qie zhi pin	番茄制品	100
+fan qie zhong	番茄钟	100
+fan qie zhong zhi	番茄种植	100
+fan qie zhong zi	番茄种子	100
+fan qin lve zhan	反侵略战	100
+fan qing bao	反情报	100
+fan qing fei	返青肥	100
+fan qiu fu chu	反裘负刍	100
+fan qiu fu xin	反裘负薪	100
+fan qiu ru cao	饭糗茹草	100
+fan qu gong	反曲弓	100
+fan qu xun huan	翻去循环	100
+fan qu zhi gong	反曲之弓	100
+fan quan huang niu	返券黄牛	100
+fan quan nv hai	饭圈女孩	100
+fan ran bian ji	幡然变计	100
+fan ran gai tu	幡然改图	100
+fan re yi shen sao	反惹一身臊	100
+fan ren bu ke mao xiang	凡人不可貌相	100
+fan ren dao zui	反人道罪	100
+fan ren dao zui xing	反人道罪行	100
+fan ren er chong chang	凡人二重唱	100
+fan ren fei xian zhuan	凡人飞仙传	100
+fan ren ge	凡人歌	100
+fan ren lei	反人类	100
+fan ren lei bao xing	反人类暴行	100
+fan ren lei zui	反人类罪	100
+fan ren lei zui xing	反人类罪行	100
+fan ren wen dao	凡人问道	100
+fan ren xiao shi	凡人小事	100
+fan ren xiu xian	凡人修仙	100
+fan ren xiu xian zhuan	凡人修仙传	100
+fan ren xiu zhen	凡人修真	100
+fan ren zao yang	凡人遭殃	100
+fan ri you xing	反日游行	100
+fan rong cheng du	繁荣程度	100
+fan rong dang	繁荣党	100
+fan rong du	繁荣度	100
+fan rong he fa zhan	繁荣和发展	100
+fan rong he wen ding	繁荣和稳定	100
+fan rong qiang sheng	繁荣强盛	100
+fan rong sheng shi	繁荣盛世	100
+fan rong xing sheng	繁荣兴盛	100
+fan ruo ruo	范若若	100
+fan san she	反散射	100
+fan shan dao hai	翻山倒海	100
+fan shang ci jia	反伤刺甲	100
+fan shang liu yu	泛商流羽	100
+fan shang qu	翻上去	100
+fan shao hua	樊少华	100
+fan she hu chang	反射弧长	100
+fan she hu tai chang	反射弧太长	100
+fan she liao fa	反射疗法	100
+fan she qu zhi liao	反射区治疗	100
+fan she xian	反射线	100
+fan she xing yun	反射星云	100
+fan shen luo ma	翻身落马	100
+fan shen tou fa	反渗透法	100
+fan shen tou xi tong	反渗透系统	100
+fan sheng shi dai	繁盛时代	100
+fan sheng wu zhan	反生物战	100
+fan shi bu neng yi gai er lun	凡事不能一概而论	100
+fan shi bu si	反是不思	100
+fan shi dan	范士丹	100
+fan shi de jie guo	反噬的结果	100
+fan shi dou ju you	凡事都具有	100
+fan shi dou neng	凡事都能	100
+fan shi dou yao	凡事都要	100
+fan shi dou yao you ge du	凡事都要有个度	100
+fan shi dou you dai jia	凡事都有代价	100
+fan shi dou you di yi ci	凡事都有第一次	100
+fan shi dou you ge du	凡事都有个度	100
+fan shi dou you li wai	凡事都有例外	100
+fan shi dou you liang mian	凡事都有两面	100
+fan shi dou you liang mian xing	凡事都有两面性	100
+fan shi gang	饭是钢	100
+fan shi hua	范式化	100
+fan shi ji bei	翻十几倍	100
+fan shi qi tou nan	凡事起头难	100
+fan shi ran	范诗然	100
+fan shi san si er hou xing	凡事三思而后行	100
+fan shi tong gong si	凡世通公司	100
+fan shi wu guo du	凡事勿过度	100
+fan shi you du	凡事有度	100
+fan shi zhen	反时针	100
+fan shi zhong	反时钟	100
+fan shi zhong fang xiang	反时钟方向	100
+fan shi zhuan yi	范式转移	100
+fan shi zong you kai tou	凡事总有开头	100
+fan shi zong you yi ge kai tou	凡事总有一个开头	100
+fan shou gou	反收购	100
+fan shou gou cuo shi	反收购措施	100
+fan shou liang	贩售量	100
+fan shou qi jiu	反受其咎	100
+fan shou qi yang	反受其殃	100
+fan shou yun fu shou yu	翻手云覆手雨	100
+fan shu shao	番薯烧	100
+fan shu ye	番薯叶	100
+fan shuang bin	繁霜鬓	100
+fan shui bu shou	反水不收	100
+fan shui tou kao	反水投靠	100
+fan si fan si	反思反思	100
+fan si ge ren	烦死个人	100
+fan si guai	反思怪	100
+fan si lan en	范思蓝恩	100
+fan si le xian zai	烦死了现在	100
+fan si ren le	烦死人了	100
+fan si tan	范斯坦	100
+fan si wei	范思威	100
+fan si wo	烦死我	100
+fan si wo le	烦死我了	100
+fan si yao	范思瑶	100
+fan song zhong	反送中	100
+fan su yuan	范苏圆	100
+fan su zhuang	反诉状	100
+fan suo ying you	凡所应有	100
+fan tai gu fen	钒钛股份	100
+fan tai hu tu	泛太湖图	100
+fan tai lv	翻台率	100
+fan tai lv gao	翻台率高	100
+fan tai rou yan	凡胎肉眼	100
+fan tai su gu	凡胎俗骨	100
+fan tai sui	犯太岁	100
+fan tai zhuo gu	凡胎浊骨	100
+fan tai zhuo ti	凡胎浊体	100
+fan tan chi xu	反弹持续	100
+fan tan dao dan	反弹导弹	100
+fan tan de gao du	反弹的高度	100
+fan tan de kong jian	反弹的空间	100
+fan tan de li du	反弹的力度	100
+fan tan dong neng	反弹动能	100
+fan tan fa li	反弹乏力	100
+fan tan feng xian	反弹风险	100
+fan tan fu	反贪腐	100
+fan tan fu du	反弹幅度	100
+fan tan gao dian	反弹高点	100
+fan tan gao du	反弹高度	100
+fan tan guo cheng zhong	反弹过程中	100
+fan tan guo hou	反弹过后	100
+fan tan hang qing	反弹行情	100
+fan tan hou	反弹后	100
+fan tan hui chao	反弹回潮	100
+fan tan hui lai	反弹回来	100
+fan tan hui sheng	反弹回升	100
+fan tan ji xiang	反弹迹象	100
+fan tan ji xu	反弹继续	100
+fan tan jian cang	反弹减仓	100
+fan tan jie duan	反弹阶段	100
+fan tan jie shu	反弹结束	100
+fan tan ju ju zhang	反贪局局长	100
+fan tan ju zhang	反贪局长	100
+fan tan ke	反贪科	100
+fan tan ke di lei	反坦克地雷	100
+fan tan ke lei	反坦克雷	100
+fan tan ke neng	反弹可能	100
+fan tan ke qi	反弹可期	100
+fan tan kong	反弹空	100
+fan tan kong jian	反弹空间	100
+fan tan li du	反弹力度	100
+fan tan lv	反弹率	100
+fan tan neng li	反弹能力	100
+fan tan pi pa	反弹琵琶	100
+fan tan qi	反弹期	100
+fan tan qi lai	反弹起来	100
+fan tan qu shi	反弹趋势	100
+fan tan shang hai	反弹伤害	100
+fan tan shang xing	反弹上行	100
+fan tan shang zhang	反弹上涨	100
+fan tan shi	反弹时	100
+fan tan shi tou	反弹势头	100
+fan tan shou zu	反弹受阻	100
+fan tan tu po	反弹突破	100
+fan tan wu li	反弹无力	100
+fan tan xian feng	反弹先锋	100
+fan tan xian xiang	反弹现象	100
+fan tan xiao guo	反弹效果	100
+fan tan xin hao	反弹信号	100
+fan tan xing	反弹性	100
+fan tan xiu zheng	反弹修正	100
+fan tan ya li	反弹压力	100
+fan tan yan xu	反弹延续	100
+fan tan yu qi	反弹预期	100
+fan tan yu zu	反弹遇阻	100
+fan tan zhi hou	反弹之后	100
+fan tan zhi lu	反弹之路	100
+fan tan zhi shi	反弹之势	100
+fan tan zhong	反弹中	100
+fan tan zhou qi	反弹周期	100
+fan tan zou gao	反弹走高	100
+fan tan zou shi	反弹走势	100
+fan tan zu li	反弹阻力	100
+fan tan zuo kong	反弹做空	100
+fan tao hua	犯桃花	100
+fan te er	范特尔	100
+fan te xi	范特西	100
+fan ti ci ku	繁体词库	100
+fan ti he jian ti	繁体和简体	100
+fan ti jian ti	繁体简体	100
+fan ti pin yin	繁体拼音	100
+fan ti qie huan	繁体切换	100
+fan ti quan pin	繁体全拼	100
+fan ti yong hu	繁体用户	100
+fan ti yu jian ti	繁体与简体	100
+fan ti zhuan jian ti	繁体转简体	100
+fan ti zhuan yong	繁体专用	100
+fan tian cheng	范天成	100
+fan tian di fu	翻天地覆	100
+fan tian fu di de bian hua	翻天覆地的变化	100
+fan tian fu di de gai bian	翻天覆地的改变	100
+fan tian fu di de ju bian	翻天覆地的巨变	100
+fan tian le	翻天了	100
+fan tian nao di	烦天恼地	100
+fan tian tiao	犯天条	100
+fan tian wu	饭田舞	100
+fan tian xia zhi bu wei	犯天下之不韪	100
+fan tiao xi	反调戏	100
+fan tong wang	饭统网	100
+fan tuan er	饭团儿	100
+fan tuan ri ji	饭团日记	100
+fan tui li	反推力	100
+fan tuo la si fa an	反托拉斯法案	100
+fan wai gua xi tong	反外挂系统	100
+fan wei bu da	范围不大	100
+fan wei bu xiao	范围不小	100
+fan wei e xin	反胃恶心	100
+fan wei le	反胃了	100
+fan wei nei de	范围内的	100
+fan wei suan	反胃酸	100
+fan wei tuo zhan	范围拓展	100
+fan wei xing dao dan	反卫星导弹	100
+fan wei zhi guang	范围之广	100
+fan wen can kao	范文参考	100
+fan wen er	反文儿	100
+fan wen hu	范文虎	100
+fan wen mo jie	繁文末节	100
+fan wen mu ban	范文模板	100
+fan wen tong	范文同	100
+fan wen wo	反问我	100
+fan wen yu qi	反问语气	100
+fan wen zhao	范文照	100
+fan wen zheng gong	范文正公	100
+fan wo jiang jie	犯我疆界	100
+fan wo zhong hua	犯我中华	100
+fan wo zhong hua zhe	犯我中华者	100
+fan wo zhong hua zhe sui yuan bi zhu	犯我中华者虽远必诛	100
+fan wu le qing qing xing ming	反误了卿卿性命	100
+fan wu qi	樊於期	100
+fan wu ren ji xi tong	反无人机系统	100
+fan wu tuo bang	反乌托邦	100
+fan xi qian xuan chuan	反洗钱宣传	100
+fan xia de cuo	犯下的错	100
+fan xia de da cuo	犯下的大错	100
+fan xia de zui xing	犯下的罪行	100
+fan xia lai	翻下来	100
+fan xia le da cuo	犯下了大错	100
+fan xia qu	翻下去	100
+fan xia zui xing	犯下罪行	100
+fan xiang ci dian	反向词典	100
+fan xiang dai huo	反向带货	100
+fan xiang dao long	翻箱倒笼	100
+fan xiang de	返乡的	100
+fan xiang ding gui	反向定轨	100
+fan xiang er xing	反向而行	100
+fan xiang guan xi	反向关系	100
+fan xiang hua xing	反向滑行	100
+fan xiang hui jia	返乡回家	100
+fan xiang liu dong	反向流动	100
+fan xiang tiao piao	反向跳票	100
+fan xiang yan chang xian	反向延长线	100
+fan xiang yun xing	反向运行	100
+fan xiang zheng ce	返乡政策	100
+fan xiang zheng ming	返乡证明	100
+fan xiao an pai	返校安排	100
+fan xiao bao dao	返校报到	100
+fan xiao deng ji	返校登记	100
+fan xiao fan	范筱梵	100
+fan xiao fu ke	返校复课	100
+fan xiao fu xue	返校复学	100
+fan xiao hui	樊小慧	100
+fan xiao ji	返校季	100
+fan xiao ji hua	返校计划	100
+fan xiao jie	范小姐	100
+fan xiao kai xue	返校开学	100
+fan xiao kao	返校考	100
+fan xiao mei	樊小妹	100
+fan xiao qin	范小勤	100
+fan xiao ren shu	返校人数	100
+fan xiao shang ke	返校上课	100
+fan xiao shi	返校时	100
+fan xiao shi sheng	返校师生	100
+fan xiao tu zhong	返校途中	100
+fan xiao xin xi	返校信息	100
+fan xiao xue sheng	返校学生	100
+fan xiao xue xi	返校学习	100
+fan xiao you hui	返校优惠	100
+fan xiao yuan bao li	反校园暴力	100
+fan xiao yuan qi ling	反校园欺凌	100
+fan xiao zhun bei	返校准备	100
+fan xie gui zheng	反邪归正	100
+fan xie gui zheng	反邪皈正	100
+fan xie jiao xuan chuan	反邪教宣传	100
+fan xie ye	番泻叶	100
+fan xin chu qi	翻新出奇	100
+fan xin hou	翻新后	100
+fan xin ji	翻新机	100
+fan xin lun	泛心论	100
+fan xing ba	反省吧	100
+fan xing de ti xing	凡性的提醒	100
+fan xing fan xing	反省反省	100
+fan xing qi lai	反省起来	100
+fan xing xing bian	范性形变	100
+fan xing yin you	繁星吟游	100
+fan xing zhong fu	烦刑重赋	100
+fan xing zi ji	反省自己	100
+fan xing zi shen	反省自身	100
+fan xiu lv di	返修率低	100
+fan xiu lv gao	返修率高	100
+fan xuan wei	范萱蔚	100
+fan ya ling	梵哑铃	100
+fan yan bu xiang shi	反眼不相识	100
+fan yan chang sheng	繁衍昌盛	100
+fan yan er lai	繁衍而来	100
+fan yan ji jian	犯颜极谏	100
+fan yan ku jian	犯颜苦谏	100
+fan yan sui ci	烦言碎辞	100
+fan yan sui yu	烦言碎语	100
+fan yan xiang xiang	反颜相向	100
+fan yan yin	犯烟瘾	100
+fan yan yu ming	凡言与冥	100
+fan yan yun dong	反烟运动	100
+fan yan zu qun	繁衍族群	100
+fan yang ye bian	范阳夜变	100
+fan ye chi le	饭也吃了	100
+fan ye mei chi	饭也没吃	100
+fan ye zhe	翻页者	100
+fan yi ban	翻译版	100
+fan yi bu fan yi	翻译不翻译	100
+fan yi cheng le	翻译成了	100
+fan yi chu	翻译出	100
+fan yi ci shi shen me	反义词是什么	100
+fan yi dai	翻衣袋	100
+fan yi dan	翻译蛋	100
+fan yi de bu cuo	翻译得不错	100
+fan yi de bu hao	翻译得不好	100
+fan yi de geng	翻译得更	100
+fan yi de geng hao	翻译得更好	100
+fan yi de geng zhun que	翻译得更准确	100
+fan yi de hao	翻译得好	100
+fan yi de hen hao	翻译得很好	100
+fan yi dou	翻衣兜	100
+fan yi dou er	翻衣兜儿	100
+fan yi fan yi	翻译翻译	100
+fan yi fu dou	翻衣服兜	100
+fan yi hang ye	翻译行业	100
+fan yi jiao dui	翻译校对	100
+fan yi jun	翻译君	100
+fan yi lin	范忆琳	100
+fan yi mei fan yi	翻译没翻译	100
+fan yi pin	翻译品	100
+fan yi shang shu	翻译上述	100
+fan yi she	翻译社	100
+fan yi shen me	翻译什么	100
+fan yi su du	翻译速度	100
+fan yi wei chou	反义为仇	100
+fan yi wen	范怡文	100
+fan yi xi	翻译系	100
+fan yi xia lie	翻译下列	100
+fan yi yi xia	翻译一下	100
+fan yi zhe ge	翻译这个	100
+fan yi zhe ju	翻译这句	100
+fan yi zhe ju hua	翻译这句话	100
+fan yi zhe qun	翻译这群	100
+fan yi zhe xie	翻译这些	100
+fan yi zi	反义字	100
+fan yin cu jie	繁音促节	100
+fan yin fu yin	返吟复吟	100
+fan yin gu	梵音谷	100
+fan yin li	反引力	100
+fan ying cheng du	反应程度	100
+fan ying chu	反应出	100
+fan ying chu lai	反映出来	100
+fan ying dao	反映到	100
+fan ying du	反应度	100
+fan ying dui ran liao yuan jian	反应堆燃料元件	100
+fan ying dui xin	反应堆芯	100
+fan ying fu cheng zhong mo kuai	反应釜称重模块	100
+fan ying guo lai	反应过来	100
+fan ying guo lai	反映过来	100
+fan ying hen da	反应很大	100
+fan ying le shen me	反映了什么	100
+fan ying ling min du	反应灵敏度	100
+fan ying lu	反应炉	100
+fan ying man	反映慢	100
+fan ying qi	范应期	100
+fan ying re	反应热	100
+fan ying shen me	反映什么	100
+fan ying shi	反应时	100
+fan ying su du geng kuai	反应速度更快	100
+fan ying su du kuai	反应速度快	100
+fan ying su du man	反应速度慢	100
+fan ying ta	反应塔	100
+fan ying ti xi	反应体系	100
+fan ying wu nong du	反应物浓度	100
+fan ying xi tong	反应系统	100
+fan ying xiao lv	反应效率	100
+fan ying xiong	反英雄	100
+fan ying yi xia	反应一下	100
+fan yong huan liu qi	反用换流器	100
+fan yong ma	返甬码	100
+fan you tai zhu yi	反犹太主义	100
+fan you tu	繁有徒	100
+fan you yun dong	反右运动	100
+fan yu fa	反语法	100
+fan yu ji di	繁育基地	100
+fan yu le hang ye	泛娱乐行业	100
+fan yu lin gong	梵宇琳宫	100
+fan yu liu shang	泛羽流商	100
+fan yu qi	繁育期	100
+fan yuan dou zheng	反袁斗争	100
+fan yuan su	钒元素	100
+fan yuan yun dong	反袁运动	100
+fan za xing	繁杂性	100
+fan zao de hen	烦躁得很	100
+fan zao du shou	反遭毒手	100
+fan zeng xian sheng	范曾先生	100
+fan zha biao yu	反诈标语	100
+fan zha pian	反诈骗	100
+fan zha pian xuan chuan	反诈骗宣传	100
+fan zha xuan chuan	反诈宣传	100
+fan zha zhong xin	反诈中心	100
+fan zhai fu jia	泛宅浮家	100
+fan zhan bu fan mei	反战不反美	100
+fan zhan fen zi	反战分子	100
+fan zhan kang yi	反战抗议	100
+fan zhan you xing	反战游行	100
+fan zhang ji shu	范张鸡黍	100
+fan zhang wang	帆张网	100
+fan zhang zhe zhi	反掌折枝	100
+fan zhao hui guang	返照回光	100
+fan zhao jing	反照镜	100
+fan zhao lv	反照率	100
+fan zhe bai yan	翻着白眼	100
+fan zhe bu tong de zui	犯着不同的罪	100
+fan zhe chuan	反着穿	100
+fan zhe dai	反着戴	100
+fan zhe gan	反着干	100
+fan zhe gen tou	翻着跟头	100
+fan zhe guang	泛着光	100
+fan zhe lai	反着来	100
+fan zhe lai de	反着来的	100
+fan zhe lv guang	泛着绿光	100
+fan zhe you guang	泛着油光	100
+fan zhe zuo	反着做	100
+fan zhen cha neng li	反侦查能力	100
+fan zhen cha yi shi	反侦查意识	100
+fan zhen dong	樊振东	100
+fan zheng bi	反正比	100
+fan zheng bo yin	繁征博引	100
+fan zheng bu xin	反正不信	100
+fan zheng dao shi hou	反正到时候	100
+fan zheng dao shi hou jiu	反正到时候就	100
+fan zheng dao shi hou jiu zhi dao	反正到时候就知道	100
+fan zheng dao shi hou jiu zhi dao le	反正到时候就知道了	100
+fan zheng dou	反正都	100
+fan zheng dou shi si	反正都是死	100
+fan zheng dou yao	反正都要	100
+fan zheng dou yao zuo	反正都要做	100
+fan zheng dou yi yang	反正都一样	100
+fan zheng hao xiang	反正好想	100
+fan zheng hao xiang ye	反正好想也	100
+fan zheng hao xiang ye mei	反正好想也没	100
+fan zheng hao xiang ye mei sha	反正好想也没啥	100
+fan zheng jiang lai	反正将来	100
+fan zheng jiu suan	反正就算	100
+fan zheng pian yi	反正便宜	100
+fan zheng qie han shu	反正切函数	100
+fan zheng shi xin de	反正是信的	100
+fan zheng wo	反正我	100
+fan zheng wo bu xin	反正我不信	100
+fan zheng wo jue de	反正我觉得	100
+fan zheng wo xin le	反正我信了	100
+fan zheng wu lun	反正无论	100
+fan zheng wu lun ru he	反正无论如何	100
+fan zheng xiang	范正祥	100
+fan zheng you	反正有	100
+fan zhi di	繁殖地	100
+fan zhi gu	范植谷	100
+fan zhi guan	繁殖关	100
+fan zhi ji di	繁殖基地	100
+fan zhi jue	反直觉	100
+fan zhi lun	反智论	100
+fan zhi lv gao	繁殖率高	100
+fan zhi na xie	泛指那些	100
+fan zhi sheng zhang	繁殖生长	100
+fan zhi shi	反知识	100
+fan zhi shi zhu yi	反智识主义	100
+fan zhi su du	繁殖速度	100
+fan zhi su du kuai	繁殖速度快	100
+fan zhi wei	范植伟	100
+fan zhi xi shu	繁殖系数	100
+fan zhi yan xing	反智言行	100
+fan zhong de gong zuo	繁重的工作	100
+fan zhong de gong zuo ren wu	繁重的工作任务	100
+fan zhong de jia wu	繁重的家务	100
+fan zhong de ke ye	繁重的课业	100
+fan zhong de lao dong	繁重的劳动	100
+fan zhong de nong huo	繁重的农活	100
+fan zhong de ren wu	繁重的任务	100
+fan zhong de ti li lao dong	繁重的体力劳动	100
+fan zhong de xue xi	繁重的学习	100
+fan zhong de xue xi ren wu	繁重的学习任务	100
+fan zhong de xue ye	繁重的学业	100
+fan zhong de zuo ye	繁重的作业	100
+fan zhong gong zuo	繁重工作	100
+fan zhong lao dong	繁重劳动	100
+fan zhong li	反重力	100
+fan zhong li zhuang zhi	反重力装置	100
+fan zhong yi	反中医	100
+fan zhong yi lian meng	反中医联盟	100
+fan zhong zi	反中子	100
+fan zhu jiang san jiao	泛珠江三角	100
+fan zhu ni zei	反助逆贼	100
+fan zhu wei ke	反主为客	100
+fan zhu xian	范筑先	100
+fan zhuan bu ting	反转不停	100
+fan zhuan diao da	反转吊打	100
+fan zhuan er cha shu	翻转二叉树	100
+fan zhuan hang qing	反转行情	100
+fan zhuan jian	繁转简	100
+fan zhuan le	反转了	100
+fan zhuan shu shi	反转术式	100
+fan zhuan xi lie	翻转系列	100
+fan zhuan xuan ze	反转选择	100
+fan zhuang li	反撞力	100
+fan zi fan xing	反自反性	100
+fan zi ming	范子铭	100
+fan zi quan	翻子拳	100
+fan zi ran shen lun	泛自然神论	100
+fan zi ye	范子烨	100
+fan zong pei	范宗沛	100
+fan zu ren	番族人	100
+fan zui de	犯罪的	100
+fan zui de gan jue	犯罪的感觉	100
+fan zui de zheng ju	犯罪的证据	100
+fan zui diao cha	犯罪调查	100
+fan zui du shi	犯罪都市	100
+fan zui fa	犯罪法	100
+fan zui le	犯罪了	100
+fan zui lv gao	犯罪率高	100
+fan zui nong she	翻嘴弄舌	100
+fan zui suo de	犯罪所得	100
+fan zui suo de shou yi zui	犯罪所得收益罪	100
+fan zui xian chang diao cha	犯罪现场调查	100
+fan zui xian yi gou	犯罪嫌疑狗	100
+fan zui xian yi mao	犯罪嫌疑猫	100
+fan zui xing dong	犯罪行动	100
+fan zui xuan yi	犯罪悬疑	100
+fan zui xuan yi ju	犯罪悬疑剧	100
+fan zuo bi xi tong	反作弊系统	100
+fan zuo de	饭做得	100
+fan zuo hao le	饭做好了	100
+fan kou	饭口	99
+fan dao zai di	翻倒在地	98
+fan wei bu mei	反为不美	98
+fan cheng da	范成大	95
+fan kui zhi	反馈至	95
+fan li zi	反离子	95
+fan qie pian	番茄片	95
+fan ren	返任	95
+fan shi lin you	凡士林油	95
+fan sui	繁碎	95
+fan yi shuo ming	翻译说明	95
+fan fu yin yong	反复吟咏	90
+fan shou pai	反手拍	90
+fan zheng xian han shu	反正弦函数	90
+fan dui fa	反对法	88
+fan huan shi	返还式	87
+fan ying hao man	反应好慢	87
+fan xiao chong	范小冲	86
+fan ke	犯克	85
+fan lao zhang	翻老账	85
+fan shu fen	番薯粉	85
+fan yi ji yin	反义基因	85
+fan yun zhe	贩运者	85
+fan liu xing shi guan yan	反流性食管炎	83
+fan jia cun	范家村	82
+fan zui ke guan yao jian	犯罪客观要件	81
+fan er	幡儿	80
+fan jia tun	范家屯	80
+fan jue	翻掘	80
+fan le yi xia	翻了一下	76
+fan wei xian	范围线	76
+fan wen fang	范文芳	76
+fan gan zhe	反感者	75
+fan qing bang mang	烦请帮忙	75
+fan shi bu ke ban tu er fei	凡事不可半途而废	75
+fan suan yan	钒酸盐	75
+fan zui wei wan cheng	犯罪未完成	74
+fan wei li	范围里	72
+fan zheng bu shi	反正不是	72
+fan bian yi cheng xu	反编译程序	71
+fan yi gao	翻译稿	71
+fan de bi	翻得比	70
+fan ge er	翻个儿	70
+fan ju	帆具	70
+fan yi wan	翻译完	70
+fan ben huan yuan	反本还原	69
+fan bo xing	反驳性	68
+fan dao zheng ming	反倒证明	68
+fan fan er lun	泛泛而论	68
+fan gei	反给	68
+fan gei ni	返给你	68
+fan kui he shi	反馈核实	68
+fan wai guo zhi cai fa	反外国制裁法	68
+fan xi qian gong zuo bu ji lian xi hui yi zhi du	反洗钱工作部际联席会议制度	68
+fan ying chu shi	反映出是	68
+fan long duan fa yan jiu	反垄断法研究	67
+fan ying man le	反应慢了	67
+fan shen tou she bei	反渗透设备	66
+fan xiu pin	返修品	66
+fan yi wei	翻译为	66
+fan bu dao	翻不到	65
+fan chong dong	犯冲动	65
+fan dian qian	饭点前	65
+fan dui xing	反对性	65
+fan gei nin	返给您	65
+fan hui gei wo	返回给我	65
+fan yan zhi jian	犯言直谏	65
+fan lan	翻烂	64
+fan rui ping	范瑞平	64
+fan zhe gong neng	泛着功能	63
+fan zheng na ge	反正那个	63
+fan kui wo	反馈我	61
+fan bo guan	返波管	60
+fan li hua	樊梨花	60
+fan qie yu pian	番茄鱼片	60
+fan sha gong	翻砂工	60
+fan mai yin hui wu pin zui	贩卖淫秽物品罪	58
+fan lei da dao dan	反雷达导弹	56
+fan si	藩司	56
+fan xing lei xing bian liang	泛型类型变量	56
+fan bing	翻饼	55
+fan hang shi jian	返航时间	55
+fan jiao suo	帆脚索	55
+fan xiang chuan zhi	反向传值	55
+fan yi ming yi ji	翻译名义集	55
+fan ying xing ran liao	反应性染料	55
+fan yu qie	反余切	55
+fan zhuan yun dong	翻转运动	55
+fan hui jian jian ting	返回键监听	54
+fan xian	范闲	54
+fan dao ai	饭岛爱	50
+fan hong	番红	49
+fan hua li	繁华里	47
+fan bing du gong cheng shi	反病毒工程师	46
+fan jian die zhuan jia	反间谍专家	46
+fan wei jie xian	范围界限	46
+fan zhi xing wei	繁殖行为	46
+fan zui gou cheng ke guan fang mian	犯罪构成客观方面	46
+fan gan tou ding	反感透顶	45
+fan mang shi jie	繁忙时节	45
+fan qi yi er yong zhi	反其意而用之	44
+fan fang yi bian	反方一辩	43
+fan dou xing	反斗星	42
+fan ce su	反测速	41
+fan jin bi kao	凡进必考	41
+fan bu zhi en	反哺之恩	40
+fan jing xing quan	反经行权	40
+fan nao tou ding	烦恼透顶	40
+fan she ku	反射库	40
+fan shen cun	翻身村	40
+fan tui li	反推理	40
+fan mu bie	番木鳖	39
+fan xiang hui fu	反向恢复	39
+fan xing lei xing ding yi	泛型类型定义	39
+fan jia chuan xiang	樊家川乡	38
+fan sai si	凡赛斯	38
+fan ku	藩库	35
+fan mu wu qing	反目无情	35
+fan yu xian han shu	反余弦函数	35
+fan gong	反躬	34
+fan pai	反拍	34
+fan sha yu tou	反沙芋头	34
+fan bu zhi qing	反哺之情	33
+fan jiao	反嚼	33
+fan zai guo li	饭在锅里	33
+fan hei ke	反黑客	32
+fan ge zhuang	范各庄	31
+fan qing nin	烦请您	31
+fan de qi	翻得起	30
+fan qian kuang	钒铅矿	30
+fan suan gai	泛酸钙	27
+fan bing du gong ju	反病毒工具	26
+fan hui tiao jian	返回条件	25
+fan hun cao	返魂草	25
+fan shi xiao chu	反式消除	25
+fan xiang ying she	反向映射	25
+fan xiang zhuan yun	反向转运	25
+fan zheng ge	反正割	25
+fan fan zhi tan	泛泛之谈	24
+fan qie chao dou fu	番茄炒豆腐	24
+fan tiao tong	反跳痛	24
+fan xiang tui li	反向推理	24
+fan xi xiang	樊西巷	23
+fan cun	梵村	22
+fan guan jiu	范关酒	22
+fan jiao po man	反骄破满	22
+fan li biao shi	范例表示	22
+fan jia ying cun	范家营村	21
+fan liu xing wei yan	反流性胃炎	21
+fan shan she shui	翻山涉水	21
+fan xiang dao qie	翻箱倒箧	21
+fan ke wei zhu zhi ji	反客为主之计	20
+fan shai gan cao	翻晒干草	20
+fan shi yi gou ti	反式异构体	20
+fan yu ge	反余割	20
+fan zheng mei ren yao	反正没人要	20
+fan zhuang cun	樊庄村	19
+fan bei cun	范北村	18
+fan bu lun	范布伦	18
+fan dui jie chi ren zhi guo ji gong yue	反对劫持人质国际公约	18
+fan ji lv	反击率	18
+fan jia zhuang	范家庄	18
+fan jing wen	范景文	18
+fan lan ping yuan	泛滥平原	18
+fan shao zeng	范绍增	18
+fan she xue	反射学	18
+fan zhuan zhou	翻转轴	18
+fan zhuan lu	反转录	17
+fan jia yuan	范家园	16
+fan shi ba bing	繁峙疤饼	16
+fan xiang xin dao	反向信道	16
+fan dao shu	反导数	15
+fan she shang hai	反射伤害	15
+fan shen me a	烦什么啊	15
+fan shi jian jie	反式剪接	15
+fan ti bao	繁体包	15
+fan wen xuan du	范文选读	15
+fan zhan xuan yan	反战宣言	15
+fan zhe dao zhi dong	反者道之动	15
+fan dang fan guo	反党反国	14
+fan nan cun	范南村	14
+fan jiang guan	樊江关	13
+fan qie song shu yu	番茄松鼠鱼	13
+fan qing xiao chan ye sun hai diao cha yu cai jue gui ding	反倾销产业损害调查与裁决规定	13
+fan shi sheng	范石生	13
+fan yi lai	反依赖	13
+fan ying guo	反应锅	13
+fan ai zhong er qin ren	泛爱众而亲仁	12
+fan hui hui fu	返回恢复	12
+fan jian li	翻简历	12
+fan kui gei	反馈给	12
+fan xue feng	樊学峰	12
+fan ying ge	反映个	12
+fan zhuan lu bing du	反转录病毒	12
+fan zu dao bao	反租倒包	12
+fan gu	反古	11
+fan guang deng	泛光灯	11
+fan pin	返贫	11
+fan qie niu rou geng	番茄牛肉羹	11
+fan su	返俗	11
+fan xi	蕃息	11
+fan zi dong	范紫东	11
+fan bian ma lian	反编码链	10
+fan de hua	范德华	10
+fan le ge shen shuo	翻了个身说	10
+fan qie yao liu	番茄腰柳	10
+fan shi gou xiang	反式构象	10
+fan shi zhen fang xiang	反时针方向	10
+fan xiao sheng	返校生	10
+fan yi ji yi	翻译记忆	10
+fan yi pian	翻译片	10
+fan zhuan ji gou	翻转机构	10
+fan feng xian	繁峰县	9
+fan ji du zhe	反基督者	9
+fan jia xin yuan	范家新苑	9
+fan jin	范进	9
+fan qie huang gu yu tang	番茄黄骨鱼汤	9
+fan shen chuang	翻身床	9
+fan shi de	反式的	9
+fan wen cheng	范文程	9
+fan zhuan lu mei	反转录酶	9
+fan jian mai gui	贩贱卖贵	8
+fan lou chuan xi ji fen he	泛楼船兮济汾河	8
+fan she xing dian xian	反射性癫痫	8
+fan tai	凡胎	8
+fan bai cao	翻白草	7
+fan ji yin qi shi fa	反基因歧视法	7
+fan mai jia yao zui	贩卖假药罪	7
+fan mu gua jian	番木瓜碱	7
+fan qie qi fu bing	番茄脐腐病	7
+fan yin fu yin	反吟伏吟	7
+fan zhen xu	范振绪	7
+fan ge xiang xiang	反戈相向	6
+fan hou tian shi	饭后甜食	6
+fan ku jie	藩库街	6
+fan li duo yi	繁礼多仪	6
+fan qie ji bao	番茄鸡煲	6
+fan qie men	番茄门	6
+fan qie zi	番茄籽	6
+fan shou zuo yun fu shou yu	翻手作云覆手雨	6
+fan shu yin shui	饭蔬饮水	6
+fan xiang yi chuan xue	反向遗传学	6
+fan xing	番杏	6
+fan yan gan jian	犯颜敢谏	6
+fan bai	梵呗	5
+fan cui	反萃	5
+fan cui fa	反萃法	5
+fan cuo gou xiang	反错构象	5
+fan dan dao dao dan dao dan	反弹道导弹导弹	5
+fan dian xiang	梵殿乡	5
+fan die gou xiang	反叠构象	5
+fan e er ni nuo xian xiang	反厄尔尼诺现象	5
+fan hong da	范鸿达	5
+fan hua sheng di	繁华胜地	5
+fan hua shi san zhu xiang chen	繁华事散逐香尘	5
+fan jian gong rong	繁简共容	5
+fan ju	范雎	5
+fan qing xiao chu bu cai ding	反倾销初步裁定	5
+fan qing xiao tui shui zan xing gui ze	反倾销退税暂行规则	5
+fan qing xiao zui zhong cai ding	反倾销最终裁定	5
+fan shao	翻勺	5
+fan she yi chang	反射异常	5
+fan shen	反身	5
+fan sheng bu er	凡圣不二	5
+fan shi tu	范氏图	5
+fan shi xing bing du	泛嗜性病毒	5
+fan tan fa gui	反贪法规	5
+fan xiang hun he	反向混合	5
+fan xiang xing cheng	反向形成	5
+fan ying pu an	泛影葡胺	5
+fan zhe she	反折射	5
+fan zhi yi shi	反之亦是	5
+fan zhi yu	繁殖羽	5
+fan zhong xiu	樊钟秀	5
+fan bu zhi si	反哺之私	4
+fan cheng di	藩城堤	4
+fan fu fan fu	贩夫贩妇	4
+fan jia lin	范家林	4
+fan qie ma ti	番茄马蹄	4
+fan shan guo ling	翻山过岭	4
+fan she niao	反舌鸟	4
+fan shi liu ye	番石榴叶	4
+fan shou kang	范寿康	4
+fan xi yu ya mu	帆蜥鱼亚目	4
+fan yang lu bei kou	樊羊路北口	4
+fan yi hou xiu shi	翻译后修饰	4
+fan zhi song	樊志松	4
+fan zui qing bao fen xi	犯罪情报分析	4
+fan ban shu	翻瓣术	3
+fan bu zhi si	返哺之私	3
+fan cui ting	樊粹庭	3
+fan cun cun wei hui	范村村委会	3
+fan di yi ci da wei jiao	反第一次大围剿	3
+fan dian xiang	范店乡	3
+fan gu shui jun xiao qu	梵古水郡小区	3
+fan guan nei shi	返观内视	3
+fan guang yang	范光阳	3
+fan ji rou jia mo	樊记肉加馍	3
+fan jia zhai	樊家寨	3
+fan kong bai niao shi shi jian	翻空白鸟时时见	3
+fan li zhi yan	藩篱之鷃	3
+fan long duan fa yu jing ji xue	反垄断法与经济学	3
+fan niao cui ji	繁鸟萃棘	3
+fan nong hua zhu	泛农花猪	3
+fan qiang nan	翻墙男	3
+fan qie zhu huang dou	番茄煮黄豆	3
+fan qie zi you	番茄籽油	3
+fan qiu zhu ji er yi yi	反求诸己而已矣	3
+fan rui fang	范瑞芳	3
+fan san	饭糁	3
+fan san fan	翻三番	3
+fan she hui dang ren fei chang fa	反社会党人非常法	3
+fan shou ke de	反手可得	3
+fan ya	番鸭	3
+fan yan ruo bu xiang shi	反眼若不相识	3
+fan zhang zhi yi	反掌之易	3
+fan zhuang cun wei hui	范庄村委会	3
+fan bian huan	反变换	2
+fan bu tie yu zhong guo chan ye an quan	反补贴与中国产业安全	2
+fan chen du	反衬度	2
+fan cheng mo	范承谟	2
+fan chi qing xue jia	樊迟请学稼	2
+fan cun he xiang	樊村河乡	2
+fan ding xi er suan	反丁烯二酸	2
+fan dong fu yao yang jiao	翻动扶摇羊角	2
+fan dou	饭豆	2
+fan fa xing nong pao xing yin xie bing	泛发性脓疱型银屑病	2
+fan feng mie huo	反风灭火	2
+fan fou	饭否	2
+fan ge zhuang xiang	范各庄乡	2
+fan gong nei xing	反躬内省	2
+fan hai jiu dian	泛海酒店	2
+fan han	泛函	2
+fan jia	反甲	2
+fan jia ren min bi jiang li ban fa	反假人民币奖励办法	2
+fan jia si	樊家寺	2
+fan jia zhuo zi xiang	范家卓子乡	2
+fan jian zi	繁简字	2
+fan kuai	樊哙	2
+fan kuai ce qi dun yi zhuang	樊哙侧其盾以撞	2
+fan kuai fu qi dun yu di	樊哙覆其盾于地	2
+fan kui dan	反馈单	2
+fan kun	泛醌	2
+fan long duan de jing ji xue fen xi	反垄断的经济学分析	2
+fan qie hai zhe	番茄海蜇	2
+fan qie pao dan tang	番茄泡蛋汤	2
+fan ran gai hui	幡然改悔	2
+fan shan yue shui	翻山越水	2
+fan shan yun qi	番山云气	2
+fan she zhong shu	反射中枢	2
+fan shen da dao	翻身大道	2
+fan sheng	返生	2
+fan shi	繁峙	2
+fan shi sheng nv hao	反是生女好	2
+fan wen cheng	范文成	2
+fan wen ying	范文英	2
+fan xi cun	范溪村	2
+fan xi qian de li lun yu shi jian	反洗钱的理论与实践	2
+fan xiang tuan	返乡团	2
+fan xing	范姓	2
+fan yang	返样	2
+fan ye	范晔	2
+fan yi hao	反一号	2
+fan ying jie gou	反应结构	2
+fan ying qu dang	泛应曲当	2
+fan zeng xiang	樊增祥	2
+fan zhi qi shen	反治其身	2
+fan zhi xi jie	繁枝细节	2
+fan zui yu ke	反嘴鹬科	2
+fan ao mang chun	泛奥盲蝽	1
+fan bai wei gong	反败为功	1
+fan bai yi xin	凡百一新	1
+fan ben qiu yuan	返本求源	1
+fan bian fen	反变分	1
+fan bin	范斌	1
+fan bu wei en	反哺为恩	1
+fan bu xian shi	反哺衔食	1
+fan bu zhi en	返哺之恩	1
+fan cai qian shi	凡才浅识	1
+fan cao xi pu feng ye an	蕃草席铺枫叶岸	1
+fan ce huo an	反侧获安	1
+fan ce wei an	反侧未安	1
+fan ce zi an	反侧自安	1
+fan cha tao yin	反差套印	1
+fan chang	翻场	1
+fan chi cong you yu wu yu zhi xia	樊迟从游于舞雩之下	1
+fan chong tan hui	反冲弹回	1
+fan chu wei	反刍胃	1
+fan chuan	樊川	1
+fan chun ding	反唇疔	1
+fan chun hui	樊春晖	1
+fan dao bai de	反道败德	1
+fan di er ci da wei jiao	反第二次大围剿	1
+fan die wen zhang	反跌文章	1
+fan dui xie jiao bao zhang ren quan	反对邪教保障人权	1
+fan fa wei tiao	犯法违条	1
+fan fan ling xing man hui tang	翻翻菱荇满回塘	1
+fan fan qi ci	泛泛其词	1
+fan fan zhi ren	泛泛之人	1
+fan fang	返防	1
+fan feng gun yu	翻风滚雨	1
+fan fu zao li	贩夫皂隶	1
+fan gong	梵宫	1
+fan gou cun	范沟村	1
+fan gu xi sui	反骨洗髓	1
+fan guan pai ta	犯关排闼	1
+fan guang hou jing	反光喉镜	1
+fan hao mo cang	泛浩摩苍	1
+fan hu er zhe ye	反乎尔者也	1
+fan hua sun zhi	繁华损枝	1
+fan hua zhi	翻花痔	1
+fan huang	翻黄	1
+fan huang dao zao	翻黄倒皂	1
+fan hui lan zhou	返回兰州	1
+fan hui yu shi xie	凡卉与时谢	1
+fan hun	泛婚	1
+fan hun cao ke li	返魂草颗粒	1
+fan hun fa shu	反魂乏术	1
+fan ji yin zu	反基因组	1
+fan jia ci	范家祠	1
+fan jia cun bei zhan	樊家村北站	1
+fan jia guan zhuang	范家官庄	1
+fan jia qiao	范家桥	1
+fan jia zhuang xiang	范家庄乡	1
+fan jia zhuang zi	范家庄子	1
+fan jian ti jian rong	繁简体兼容	1
+fan jiang meng jiao	翻江猛蛟	1
+fan jiao mai ming	贩交买名	1
+fan jing he quan	反经合权	1
+fan ju fen rao	繁剧纷扰	1
+fan jun zui xiang jing	烦君最相警	1
+fan kang jun ying di	反抗军营地	1
+fan ke	烦苛	1
+fan ke dao jiu	番窠倒臼	1
+fan ke wei zhu ji	反客为主计	1
+fan keng jiu nang	饭坑酒囊	1
+fan kuai cong liang zuo	樊哙从良坐	1
+fan kui de	反馈的	1
+fan lan bo wen	泛滥博文	1
+fan lao cheng tong	返老成童	1
+fan lao gui tong	返老归童	1
+fan lao wei shao	返老为少	1
+fan lao wei yi	反劳为逸	1
+fan li	繁丽	1
+fan li ru shu	饭粝茹蔬	1
+fan liao ji	翻料机	1
+fan long duan gong yi su song	反垄断公益诉讼	1
+fan mai du pin zui yan jiu	贩卖毒品罪研究	1
+fan mao di zhong ying	泛毛地种蝇	1
+fan mi ma zi	反密码子	1
+fan mian she ji	反面设计	1
+fan ming	范明	1
+fan nang jiu weng	饭囊酒瓮	1
+fan pei shou fan	返辔收帆	1
+fan qi ji yu	反奇棘鱼	1
+fan qi tai jiang yu	帆鳍胎鳉鱼	1
+fan qie gan	番茄苷	1
+fan qie ji ding chao fan	番茄鸡丁炒饭	1
+fan qie ji tang	番茄鸡汤	1
+fan qie nai you tu dou tuan	番茄奶油土豆团	1
+fan qie shu zai niu wei tang	番茄薯仔牛尾汤	1
+fan qie tong xin fen	番茄通心粉	1
+fan qie zhi mo gu zheng yu	番茄汁蘑菇蒸鱼	1
+fan qie zhi zha yu	番茄汁炸鱼	1
+fan qie zhi zheng yu	番茄汁蒸鱼	1
+fan qie zhu hong shan yu	番茄煮红衫鱼	1
+fan qin	范钦	1
+fan qin dao zhen	翻衾倒枕	1
+fan qing xiao ying dui yi dian tong	反倾销应对一点通	1
+fan qiu shang pi	反裘伤皮	1
+fan ran gai jin	幡然改进	1
+fan ran gai tu	幡然改途	1
+fan ran gai wu	幡然改悟	1
+fan ran hui guo	幡然悔过	1
+fan sha cun	范沙村	1
+fan shang	反伤	1
+fan shao qing	范少卿	1
+fan she hai si luo	反射海蛳螺	1
+fan she ji	反射计	1
+fan she jian	反射剑	1
+fan she zhi dun	反射之盾	1
+fan shen gua ying zi teng ta	翻身挂影恣腾蹋	1
+fan shen guan xi	反身关系	1
+fan shen yue ru qi ren fang	翻身跃入七人房	1
+fan shen zi wen	反身自问	1
+fan shi mie huo	反式灭活	1
+fan shi nei zhao	返视内照	1
+fan shi qi	范世锜	1
+fan shi qie ge	反式切割	1
+fan shi zhen fang xiang	返时针方向	1
+fan shi zu yi	反式阻抑	1
+fan shou ba she	反首拔舍	1
+fan shu keng ru	燔书坑儒	1
+fan shui	返水	1
+fan shui mo shan	范水模山	1
+fan si ji guan	繁丝急管	1
+fan su	泛素	1
+fan suo die zhuan	矾索叠砖	1
+fan suo yi you zhi shu	凡所宜有之书	1
+fan tan dong tai	反贪动态	1
+fan tao su li	凡桃俗李	1
+fan teng zhi zhu she ye	矾藤痔注射液	1
+fan tian cu di	翻天蹙地	1
+fan tian xia zhi da bu wei	犯天下之大不韪	1
+fan tian zuo di	翻天作地	1
+fan ting nei shi	反听内视	1
+fan ting shou shi	反听收视	1
+fan wan ji zhi	返完即止	1
+fan wan tou ji pan xuan feng	反绾头髻盘旋风	1
+fan wang chang xue	反王长靴	1
+fan wang ken en	反王肯恩	1
+fan wang kui jia	反王盔甲	1
+fan wang shou tao	反王手套	1
+fan wang tou kui	反王头盔	1
+fan wei	翻胃	1
+fan wei ji jiu	范围急救	1
+fan wei shang	反微商	1
+fan wen jun piao chong	梵文菌瓢虫	1
+fan wen ru li	烦文缛礼	1
+fan wo chu fu	返我初服	1
+fan xi luo wei	泛昔洛韦	1
+fan xi luo wei pian	泛昔洛韦片	1
+fan xiang fa zuo yong li	反向法作用力	1
+fan xie gui zheng	返邪归正	1
+fan xin juan mu	烦心倦目	1
+fan xing	樊姓	1
+fan xing dian dian xi le yang yang	繁星点点喜乐洋洋	1
+fan xing liang deng	反行两登	1
+fan xing ping	繁星鲆	1
+fan xing zhong lian	繁刑重敛	1
+fan xu ru hun	返虚入浑	1
+fan xue	蕃学	1
+fan yan	犯颜	1
+fan yan bu shi	反眼不识	1
+fan yan jin jian	犯颜进谏	1
+fan ye zhi kou	反掖之寇	1
+fan yi gua he gan suan	反义寡核苷酸	1
+fan yin fu yin	反吟复吟	1
+fan yin fu yin	反阴复阴	1
+fan ying dui xin	反应堆心	1
+fan ying zao	反应灶	1
+fan yong	泛用	1
+fan yong qi	范永祺	1
+fan yu xu ci	泛语虚辞	1
+fan yuan san nong die	反缘伞弄蝶	1
+fan zeng	饭甑	1
+fan zeng shui xiang yu yue	范增说项羽曰	1
+fan zeng shuo mu xiang wang	范增数目项王	1
+fan zheng bo luan	反正拨乱	1
+fan zheng bo luan	返正拨乱	1
+fan zheng fan she	翻正反射	1
+fan zheng huan chun	反正还淳	1
+fan zheng jie	藩正街	1
+fan zhi jie	范之杰	1
+fan zhi rong yi fen fen luo	繁枝容易纷纷落	1
+fan zhou nan bei liang hu tou	泛舟南北两湖头	1
+fan zhu qing ni fang di qin	饭煮青泥坊底芹	1
+fan zhuan ji zhi	翻转机制	1
+fan zhuan ni yuan tou ge	反转拟猿头蛤	1
+fan zui heng ke	反嘴鸻科	1
+fan zui zhe de shou xia	犯罪者的手下	1
+fan zui zhong duan	犯罪中断	1

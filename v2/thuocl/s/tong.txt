@@ -1,0 +1,638 @@
+tong ji	统计	474538
+tong dao	通道	330021
+tong xun	通讯	77199
+tong zhan bu	统战部	42430
+tong ji	同级	19538
+tong huo peng zhang	通货膨胀	12930
+tong chou jian gu	统筹兼顾	10847
+tong xin fen	通心粉	9718
+tong xin xie yi	通信协议	9381
+tong ji da xue	同济大学	8935
+tong hao	茼蒿	8201
+tong bu fang fa	同步方法	7920
+tong yang xi	童养媳	7603
+tong bu ji zhi	同步机制	7408
+tong zhou gong ji	同舟共济	7107
+tong yong bie ke	通用别克	7039
+tong su yi dong	通俗易懂	6960
+tong ji fen xi	统计分析	5356
+tong xin tong de	同心同德	5189
+tong bu dai ma kuai	同步代码块	4971
+tong bu suo	同步锁	4813
+tong pan	通盘	4637
+tong ling	铜陵	4625
+tong bu cao zuo	同步操作	4591
+tong yuan	同源	4236
+tong xun xie yi	通讯协议	4057
+tong xin xie li	同心协力	4045
+tong xin ji zhi	通信机制	4040
+tong ding si tong	痛定思痛	3943
+tong zhang lv	通胀率	3934
+tong hua	通化	3872
+tong bu qing qiu	同步请求	3503
+tong chuan shi	铜川市	3070
+tong ku liu ti	痛哭流涕	2921
+tong ji xue	统计学	2848
+tong hua lu yin	通话录音	2793
+tong le	同乐	2764
+tong liao shi	通辽市	2716
+tong yong fang fa	通用方法	2711
+tong ji	同济	2700
+tong zhi ji zhi	通知机制	2631
+tong li he zuo	通力合作	2580
+tong yong ji cun qi	通用寄存器	2558
+tong liang	铜梁	2555
+tong zhi	同治	2537
+tong ji yi yuan	同济医院	2533
+tong luo shao	铜锣烧	2504
+tong xin ji shou	痛心疾首	2458
+tong ling shi	铜陵市	2382
+tong lu	桐庐	2299
+tong nan	潼南	2298
+tong gan gong ku	同甘共苦	2282
+tong qiang tie bi	铜墙铁壁	2279
+tong zhi zhong xin	通知中心	2251
+tong pai xu	桶排序	2188
+tong xiao da dan	通宵达旦	2164
+tong gui yu jin	同归于尽	2123
+tong ren tang	同仁堂	2072
+tong feng	痛风	2069
+tong ji xue xi	统计学习	2047
+tong chou di kai	同仇敌忾	1983
+tong bu han shu	同步函数	1955
+tong kong	瞳孔	1951
+tong bu kong zhi	同步控制	1915
+tong bu yu sheng	痛不欲生	1890
+tong qing	同庆	1797
+tong jing	痛经	1754
+tong xin ji shu	通信技术	1638
+tong xiang	桐乡	1622
+tong ren shi	铜仁市	1601
+tong ji mo xing	统计模型	1569
+tong lian	通联	1530
+tong yuan ce lve	同源策略	1463
+tong xin xi tong	通信系统	1446
+tong bu fu zhi	同步复制	1410
+tong dao xian	通道县	1359
+tong huo jin suo	通货紧缩	1341
+tong huo	通货	1326
+tong xin kuang jia	通信框架	1324
+tong xin jie kou	通信接口	1266
+tong yi hui ji zhi du	统一会计制度	1245
+tong hua ji lu	通话记录	1226
+tong hua shi	通化市	1212
+tong bing xiang lian	同病相怜	1208
+tong xin wang luo	通信网络	1172
+tong da wei	佟大为	1143
+tong an	同安	1132
+tong yong dai ma	通用代码	1115
+tong yong gong ju	通用工具	1098
+tong xin mo xing	通信模型	1084
+tong cheng	通城	1082
+tong shi lv xing kang bian	同时履行抗辩	1082
+tong gai qian fei	痛改前非	1079
+tong ji gong ju	统计工具	1060
+tong wen	同文	1035
+tong liu he wu	同流合污	1033
+tong xiang shi	桐乡市	1029
+tong shan qu	铜山区	1005
+tong shi lv xing kang bian quan	同时履行抗辩权	974
+tong zhu ren	同住人	973
+tong bai lu	桐柏路	966
+tong bu tong xin	同步通信	933
+tong bu yi bu	同步异步	916
+tong xin lian jie	通信连接	882
+tong yi jian mo yu yan	统一建模语言	854
+tong shan	通山	850
+tong yu fang cheng	同余方程	803
+tong ye jing zheng guan xi	同业竞争关系	798
+tong liang xian	铜梁县	782
+tong ri er yu	同日而语	768
+tong cheng	同城	725
+tong cheng shi	桐城市	721
+tong bu yuan yu	同步原语	718
+tong zhou dian lan	同轴电缆	717
+tong bu chuan shu	同步传输	690
+tong he ju	同和居	687
+tong bai	桐柏	686
+tong yong mu ban	通用模板	672
+tong ji ji qi xue xi	统计机器学习	666
+tong zhi yan jiu	同志研究	653
+tong tou xing	通透性	627
+tong bu hu chi	同步互斥	610
+tong zi	桐梓	592
+tong xin yuan li	通信原理	588
+tong zi ji	桶子鸡	567
+tong qing da li	通情达理	545
+tong xin ruan jian	通信软件	544
+tong ling lu	铜陵路	524
+tong chuan lu	铜川路	504
+tong bu xu lie	同步序列	464
+tong ji tu biao	统计图表	463
+tong xing	同兴	458
+tong sou wu qi	童叟无欺	449
+tong yu ding li	同余定理	444
+tong xin wei min	童心未泯	441
+tong xin zi wang	通信子网	432
+tong chuang yi meng	同床异梦	422
+tong guo yan chi	通过延迟	416
+tong xin lei	通信类	410
+tong zi po lu	桐梓坡路	403
+tong xin an quan	通信安全	393
+tong wei	通渭	373
+tong yuan xing	同源性	363
+tong yong chuan xing zong xian	通用串行总线	355
+tong xu	通许	338
+tong ji fa shi shi xi ze	统计法实施细则	337
+tong yong ying yong	通用应用	327
+tong feng fa	通风阀	325
+tong xian	通县	322
+tong ji lu	同济路	313
+tong ji shu ju ku	统计数据库	313
+tong cheng lu	桐城路	312
+tong xin shi chang	通信市场	312
+tong fu	同福	308
+tong zhou bei yuan	通州北苑	305
+tong xin lu	同心路	297
+tong bu shua xin	同步刷新	296
+tong da huan	童大焕	294
+tong guan ban	统管办	286
+tong shi cao ge	同室操戈	286
+tong kuai lin li	痛快淋漓	277
+tong chuang gong zhen	同床共枕	275
+tong lin ge	佟麟阁	270
+tong jian lou	统建楼	269
+tong ji nan ti	统计难题	263
+tong yong ji suan ji	通用计算机	253
+tong chuan xin qu	铜川新区	249
+tong xin he li	同心合力	249
+tong jing	统景	241
+tong xin bian cheng	通信编程	234
+tong zi po	桐梓坡	230
+tong yong cao zuo xi tong	通用操作系统	227
+tong yu	通榆	225
+tong shan xian	铜山县	219
+tong ji qiao	通济桥	216
+tong feng xing guan jie yan	痛风性关节炎	203
+tong wei	同尾	201
+tong zhi jie	同志街	195
+tong xin ji chu	通信基础	193
+tong sheng xiang ying	同声相应	191
+tong xin cun	同心村	191
+tong pei mei kuang zong gong si	统配煤矿总公司	190
+tong sheng tong qi	同声同气	188
+tong yong bian cheng yu yan	通用编程语言	188
+tong ji men	通济门	185
+tong chuan li	同川梨	178
+tong bu suan fa	同步算法	176
+tong pan	铜盘	175
+tong zi lin	桐梓林	173
+tong cao	通草	165
+tong qi xiang qiu	同气相求	159
+tong yong lei xing xi tong	通用类型系统	159
+tong yuan men	通远门	149
+tong bu hua	同步化	148
+tong yong lei ku	通用类库	148
+tong chu yi zhe	同出一辙	147
+tong rou xian sheng	佟柔先生	145
+tong tai lu	同泰路	144
+tong jun ge	桐君阁	143
+tong cheng	铜城	139
+tong ren lu	同仁路	137
+tong sheng gong si	同生共死	135
+tong yong shi tu	通用视图	134
+tong ye chai jie shi chang li lv	同业拆借市场利率	132
+tong dao mo shi	通道模式	131
+tong shi xing	同时性	123
+tong chang	铜厂	118
+tong ji tui li	统计推理	117
+tong jia	童家	117
+tong jiang shi	同江市	114
+tong tai jie	通泰街	111
+tong qiao	通桥	109
+tong le lu	同乐路	106
+tong jia yuan zi	童家院子	105
+tong xin gu zhang	通信故障	104
+tong feng shi	痛风石	103
+tong yu mo ding li	同余模定理	101
+tong gu jin zhi bian	通古今之变	100
+tong jiang lu	通江路	99
+tong ji xi	统计系	98
+tong ji tang	同济堂	95
+tong jia xiang	童家巷	95
+tong de lu	同德路	93
+tong qi lian zhi	同气连枝	92
+tong shi tian ya lun luo ren	同是天涯沦落人	90
+tong yong ci	通用词	89
+tong bian ling jiao nang	通便灵胶囊	88
+tong xing lu	同兴路	88
+tong gang	通港	83
+tong zhua	桶抓	83
+tong ji mo shi shi bie	统计模式识别	80
+tong pan lu	铜盘路	78
+tong xin lu li	同心戮力	78
+tong zi rong	童自荣	78
+tong xin ce shi	通信测试	72
+tong pu lu	同普路	71
+tong le cun	同乐村	70
+tong luan shuang sheng	同卵双生	70
+tong xin gong ji	同心共济	70
+tong di zhou	童第周	69
+tong lin ge lu	佟麟阁路	69
+tong dao jie kou	通道接口	67
+tong ji mo ni	统计模拟	67
+tong san gao su gong lu	同三高速公路	67
+tong wei gu fen	通威股份	67
+tong ji shi chang	同济市场	64
+tong le guan	同乐关	64
+tong ji jia she	统计假设	63
+tong hai lu	通海路	62
+tong yang zhen	烔炀镇	62
+tong zhou shi	通州市	61
+tong kang zuo	酮康唑	60
+tong hui men	通惠门	59
+tong zhong du	铜中毒	59
+tong an xian	同安县	58
+tong dao ming ling	通道命令	58
+tong ren lu	铜仁路	58
+tong yuan tang	同源堂	58
+tong xiao	通霄	56
+tong chuan dou chi	潼川豆豉	55
+tong bei lu	通北路	52
+tong jin qiao	通锦桥	52
+tong yi dai ma biao shi zhi du	统一代码标识制度	52
+tong an ge	童安格	51
+tong lian fa	佟连发	51
+tong zi lin nan lu	桐梓林南路	51
+tong li	通里	50
+tong ren yi yuan yi zhuang fen yuan	同仁医院亦庄分院	50
+tong zi ji	筒子鸡	50
+tong zheng	通政	47
+tong zhi chuan zhi	通知传值	46
+tong ru gu sui	痛入骨髓	45
+tong xin kong zhi qi	通信控制器	45
+tong fu yu gong ye qu	同富裕工业区	44
+tong he xin cun	通河新村	44
+tong xin luo jiao nang	通心络胶囊	44
+tong ling	桐岭	43
+tong zi lin dong lu	桐梓林东路	43
+tong bu zong xian	同步总线	39
+tong jue	铜爵	38
+tong lin	桐林	38
+tong yi shi ti gui fan	统一实体规范	38
+tong zhou fu you bao jian yuan	通州妇幼保健院	38
+tong hua wan li dan shan lu	桐花万里丹山路	36
+tong wu cun	桐坞村	36
+tong an feng rou	同安封肉	35
+tong feng xing shen bing	痛风性肾病	35
+tong guo liang	通过量	35
+tong zheng	酮症	34
+tong wei lu	童卫路	33
+tong dan	桐蛋	32
+tong hua lu	同华路	32
+tong yong jian pan	通用键盘	32
+tong yong tu ling ji	通用图灵机	32
+tong guan	童贯	31
+tong hu di lou	铜壶滴漏	31
+tong ji shi fen fu yong	统计时分复用	31
+tong nan lu	通南路	31
+tong xuan li fei wan	通宣理肺丸	31
+tong zi liu qi ren	童子六七人	31
+tong ning	童宁	29
+tong ren lv dou fen	铜仁绿豆粉	29
+tong ji zhi fa jian cha gui ding	统计执法检查规定	28
+tong ye ba ba	桐叶粑粑	28
+tong yi lu	统一路	28
+tong ren lu kou	同仁路口	27
+tong se san jiao xing	同色三角形	27
+tong ji bian ma	统计编码	26
+tong ju cai chan	同居财产	26
+tong shen	通什	26
+tong yin li	桐荫里	25
+tong tian kou fu ye	通天口服液	24
+tong yang yun he	通扬运河	24
+tong hua xi	同华西	23
+tong hui	同会	23
+tong che xiang	桶车乡	22
+tong zhou dong guan	通州东关	22
+tong gang lu	通港路	21
+tong he lu	通河路	21
+tong ju zhang gan li	同居长干里	21
+tong xin fang zhen	通信仿真	21
+tong xin ji chu zhi shi	通信基础知识	21
+tong dao shi pei qi	通道适配器	20
+tong xin shi pei qi	通信适配器	20
+tong zuo fang	铜作坊	19
+tong huai guan yue miao	通淮关岳庙	18
+tong ji jian du zhi neng	统计监督职能	18
+tong jia zhuang zhen	同家庄镇	18
+tong pen hu	铜盆湖	18
+tong shan jie dao	桐山街道	18
+tong shun jie	通顺街	18
+tong xing yuan	同兴园	18
+tong zhou li zhuang	通州李庄	18
+tong zhou zhong yi yuan	通州中医院	18
+tong bing yi zhi	同病异治	17
+tong que chun shen suo er qiao	铜雀春深锁二乔	17
+tong wen	通文	17
+tong yi cun	同意村	17
+tong yu	痛阈	17
+tong cheng xian	桐城县	16
+tong xie lu kou	同协路口	16
+tong xing quan	通行权	16
+tong xing shi zhen	桶形失真	16
+tong yong xin xi mo xing	通用信息模型	16
+tong zhou san zhong	通州三中	16
+tong ji jue ce li lun	统计决策理论	15
+tong ji lu	同集路	15
+tong ke	通科	15
+tong shen shi	通什市	15
+tong wei	佟韦	15
+tong xi he xiang	统溪河乡	15
+tong xiang lu	通香路	15
+tong xing	通兴	15
+tong yuan mao	同源茂	15
+tong jian da jiang yuan	统建大江园	14
+tong pu zhen	铜普镇	14
+tong xin chu li ji	通信处理机	14
+tong xin da sha	通信大厦	14
+tong yun qiao	通运桥	14
+tong zhou yang zhuang	通州杨庄	14
+tong zi lin xiao qu	桐梓林小区	14
+tong lin cun	桐林村	13
+tong qing jie	同庆街	13
+tong xun tuan	通讯团	13
+tong cao ji yu tang	通草鲫鱼汤	12
+tong cheng zhen	鲖城镇	12
+tong luo zhai	铜锣寨	12
+tong pan he	铜盘河	12
+tong shu kou shuang jiao nang	通舒口爽胶囊	12
+tong bi er shi si shi	通臂二十四式	11
+tong bu shi fen fu yong	同步时分复用	11
+tong dao kong zhi qi	通道控制器	11
+tong luo hu	铜锣湖	11
+tong ren she fan	铜仁社饭	11
+tong yuan lu	通园路	11
+tong zhi ling	童芷苓	11
+tong bu pei yang	同步培养	10
+tong dian	童店	10
+tong fang bu	同方部	10
+tong hua ji su	同化激素	10
+tong luo fen	酮洛芬	10
+tong luo hu nong chang	铜锣湖农场	10
+tong mu xi xiang	桐木溪乡	10
+tong xing jing luan	痛性痉挛	10
+tong zhou ban bi dian	通州半壁店	10
+tong zhou gu cheng	通州古城	10
+tong zhou jiao tong dui	通州交通队	10
+tong gong mei	同工酶	9
+tong hai dou mo tang	通海豆末糖	9
+tong kong fan she	瞳孔反射	9
+tong ren wu ji bai feng wan	同仁乌鸡白凤丸	9
+tong shu ye	童书业	9
+tong bian ling	通便灵	8
+tong bu sheng zhang	同步生长	8
+tong jin	通金	8
+tong jue guo min	痛觉过敏	8
+tong qiao	桐桥	8
+tong ren xian	铜仁县	8
+tong ti fen	酮替芬	8
+tong xiang xian	桐乡县	8
+tong yong chang	通用厂	8
+tong zhi di	同治帝	8
+tong zi hu tong	桐梓胡同	8
+tong bi jiao nang	通痹胶囊	7
+tong cun	童村	7
+tong dao zhi	通道制	7
+tong kou	桐口	7
+tong luo qu tong gao	通络祛痛膏	7
+tong luo xia ru	通络下乳	7
+tong mai yang xin wan	通脉养心丸	7
+tong ren li	同仁里	7
+tong shan zhong xue	铜山中学	7
+tong shi	童市	7
+tong wen lu	同文路	7
+tong xi cun	桐溪村	7
+tong zhi qi	通知期	7
+tong zhou guo shui ju	通州国税局	7
+tong bao jing zheng zhang ai	同胞竞争障碍	6
+tong can	童参	6
+tong da zhen	通达镇	6
+tong feng ding pian	痛风定片	6
+tong feng shu jiao nang	痛风舒胶囊	6
+tong kang zuo xi ji	酮康唑洗剂	6
+tong ku liu jun ju gao su	恸哭六军俱缟素	6
+tong liao xian	通辽县	6
+tong ping	同平	6
+tong ren an shen wan	同仁安神丸	6
+tong rong	通容	6
+tong shan xian zheng fu	铜山县政府	6
+tong suan	酮酸	6
+tong xing jia ge ding jia fa	通行价格定价法	6
+tong yi quan guo shui zheng	统一全国税政	6
+tong you lu kou	同友路口	6
+tong yu qin shou ju	同与禽兽居	6
+tong zhou qu yi yuan	通州区医院	6
+tong zhou xiao jie qiao dong	通州小街桥东	6
+tong an yi zhen	通安驿镇	5
+tong chang zi	铜厂子	5
+tong cheng kong gu	通程控股	5
+tong dao nan jie	通道南街	5
+tong guan dao	潼关道	5
+tong ji bao gao	统计报告	5
+tong ji nan ke yi yuan	同济男科医院	5
+tong ji zhi lu	同济支路	5
+tong jiang qiao	通江桥	5
+tong jing xiang su mian	铜井巷素面	5
+tong ling shu	通灵术	5
+tong pu jie	铜铺街	5
+tong rang tie lu	通让铁路	5
+tong ren da huo luo wan	同仁大活络丸	5
+tong shan qiao heng jie	同善桥横街	5
+tong sheng hu lu	同升湖路	5
+tong xian xing	同线性	5
+tong xuan	童轩	5
+tong xue shao nian duo bu jian	同学少年多不贱	5
+tong yi zhuang	同义庄	5
+tong zhuang xiong	桶状胸	5
+tong zi pai	桐子排	5
+tong an dao	同安道	4
+tong bao	童堡	4
+tong cao pai gu tang	通草排骨汤	4
+tong da ka	通达卡	4
+tong da nian	童大年	4
+tong gu mei ling	桐谷美玲	4
+tong hua yuan xiao qu	同华园小区	4
+tong ji zhong lu	同济中路	4
+tong jia fen	佟家坟	4
+tong keng cun	桐坑村	4
+tong mai jiang tang jiao nang	通脉降糖胶囊	4
+tong nan	童南	4
+tong shan lu	同善路	4
+tong shi zhang gan ren	同是长干人	4
+tong shu jiao nang	痛舒胶囊	4
+tong wang	童王	4
+tong xiang chun feng ge zi chou	同向春风各自愁	4
+tong xin dian lan chang	通信电缆厂	4
+tong zhou er zhong	通州二中	4
+tong zhou nan guan	通州南关	4
+tong bu zhen	统部镇	3
+tong cao dun zhu jiao	通草炖猪脚	3
+tong cheng yin xiang	同城印象	3
+tong fang yuan	铜坊苑	3
+tong fu xiang	通伏乡	3
+tong ge lu	通阁路	3
+tong gou cun	仝沟村	3
+tong jia cun	佟家村	3
+tong ka zhen	同卡镇	3
+tong le miao zu xiang	同乐苗族乡	3
+tong lou gong yuan	佟楼公园	3
+tong lou xiang	桐楼乡	3
+tong mei cun	同美村	3
+tong nan lu	同南路	3
+tong qiao bi yan pian	通窍鼻炎片	3
+tong ru zhen ci	痛如针刺	3
+tong shan huo chang	铜山货场	3
+tong sheng gong ye qu	同胜工业区	3
+tong shi huan you ren	同是宦游人	3
+tong shu xia	桐树下	3
+tong sun wei jie gong geng zhi	童孙未解供耕织	3
+tong xin er li ju	同心而离居	3
+tong yan	佟岩	3
+tong yin kuang ge kong du ri	痛饮狂歌空度日	3
+tong yuan ran se ti	同源染色体	3
+tong zhou guo shui ju bei	通州国税局北	3
+tong zhou liu zhuang	通州刘庄	3
+tong zhou san jian fang	通州三间房	3
+tong zhou tong lin ge da jie	通州佟麟阁大街	3
+tong bang chang	铜棒厂	2
+tong bian xiao cuo pian	通便消痤片	2
+tong cheng qu	通城区	2
+tong cheng xiang	通城巷	2
+tong ding xiang	铜鼎乡	2
+tong gu	通谷	2
+tong gu yi ji wen shen yong	铜鼓一击文身踊	2
+tong gu yu	铜鼓峪	2
+tong hang jie lang bei	同行皆狼狈	2
+tong hang lu	通航路	2
+tong hu nong chang	桐湖农场	2
+tong ji bei lu	同济北路	2
+tong ji yin gu sui yi zhi	同基因骨髓移植	2
+tong jun zhuang	统军庄	2
+tong kang zuo ru gao	酮康唑乳膏	2
+tong ku qiu yuan he chu cun	恸哭秋原何处村	2
+tong li cun	统里村	2
+tong lu bai li	桐庐白梨	2
+tong mai jiao nang	通脉胶囊	2
+tong mai ke li	通脉颗粒	2
+tong mou zhao tou biao xing wei	通谋招投标行为	2
+tong mu shan	桐木山	2
+tong pei jie dao	铜沛街道	2
+tong qiao er long wan	通窍耳聋丸	2
+tong san yi qiu li gao	通三益秋梨膏	2
+tong shan xian guo shui ju	铜山县国税局	2
+tong tai jie	同泰街	2
+tong tan jun	童坦君	2
+tong tian xue	通天穴	2
+tong xie yao fang	痛泻要方	2
+tong xin bu she qu	通信部社区	2
+tong xin xue yuan fu li qu	通信学院福利区	2
+tong xing fan ying	同形反应	2
+tong xun qi cai chang	通讯器材厂	2
+tong yan sheng	童炎生	2
+tong ye geng	童叶庚	2
+tong yong jian yu biao zhun jian	通用件与标准件	2
+tong yuan si bei ti	同源四倍体	2
+tong zhong kang ti	同种抗体	2
+tong zhong kang yuan	同种抗原	2
+tong zhou gu wan cheng	通州古玩城	2
+tong zhou yang zhuang nan kou	通州杨庄南口	2
+tong chuan qu he ye jie	通川区荷叶街	1
+tong ci xiang	铜茨乡	1
+tong da yuan she qu	通达园社区	1
+tong da zhong	佟大中	1
+tong dao xian di lian lin chang	通道县地连林场	1
+tong er qie shi zhai	童儿且时摘	1
+tong gu lou	铜鼓楼	1
+tong guan tang	统管糖	1
+tong hai bao ying	同害报应	1
+tong hang cun	桐杭村	1
+tong he zhuang	同合庄	1
+tong heng	童衡	1
+tong hua shun	同花顺	1
+tong jia wu cun	佟家务村	1
+tong jian huang jin tu	铜剪黄金涂	1
+tong jiang he zhe zu sheng yu pian	同江赫哲族生鱼片	1
+tong jiang xian	同江县	1
+tong jie chu ye zai jiang nan	同嗟除夜在江南	1
+tong jing kang long	筒井康隆	1
+tong jing ruan gao	痛经软膏	1
+tong kang ta suo ru gao	酮康他索乳膏	1
+tong kang zuo jiao nang	酮康唑胶囊	1
+tong kang zuo pian	酮康唑片	1
+tong li san qu	瞳里三区	1
+tong ling qiao	通灵桥	1
+tong lu xian jia yu	桐庐县甲鱼	1
+tong lu zhen	桐庐镇	1
+tong luo fen cha ji	酮洛芬搽剂	1
+tong luo sheng gu jiao nang	通络生骨胶囊	1
+tong ma lu kou	通马路口	1
+tong mai jiang zhi pian	通脉降脂片	1
+tong mei nong chang	同美农场	1
+tong mu luo yao zu xiang	桐木漯瑶族乡	1
+tong nian sui jun shi jun ce	同辇随君侍君侧	1
+tong ping	童坪	1
+tong ping zhu lu hua	铜缾煮露华	1
+tong qiao cun	潼桥村	1
+tong qiao huo xue tang	通窍活血汤	1
+tong qiao jiu xin you	通窍救心油	1
+tong qiao yi xin wan	通窍益心丸	1
+tong qin jie dao	通钦街道	1
+tong shi bei bi po	同是被逼迫	1
+tong shi bei liu duo shang dao	同时辈流多上道	1
+tong shi xiang	同石乡	1
+tong shu ping	桐树坪	1
+tong shun hu tong	通顺胡同	1
+tong tian xiang	通天乡	1
+tong tie chang	铜铁厂	1
+tong tong shui shi xiang jiang dong	潼潼水势向江东	1
+tong tuo ye lai ku	铜驼夜来哭	1
+tong xi yi shu jia yuan	同曦艺术家园	1
+tong xi yi zhi	同系移植	1
+tong xian chong bing	筒线虫病	1
+tong xin xie zhu zhi fa fa an	通信协助执法法案	1
+tong xin yi ren qu	同心一人去	1
+tong xing yuan she qu	同兴园社区	1
+tong xuan li fei pian	通宣理肺片	1
+tong xue hong	童雪鸿	1
+tong yi zhuang cun	同义庄村	1
+tong yin cong lai bie you chang	痛饮从来别有肠	1
+tong yin lian xiao zui	痛饮连宵醉	1
+tong ying cun	佟营村	1
+tong yong jing ji fa	通用经济法	1
+tong yu	童钰	1
+tong yu bu tong shen	痛玉不痛身	1
+tong yuan liang si	桐原亮司	1
+tong ze wu hao ye	同则无好也	1
+tong zhi kai jing fei	童稚开荆扉	1
+tong zhi xie hu jiang	童稚携壶浆	1
+tong zhou dian zi	同洲电子	1
+tong zhou ma fang	通州马房	1
+tong zhou ma fang cun	通州马坊村	1
+tong zhou san jian fang xi	通州三间房西	1
+tong zhou yang zhuang bei kou	通州杨庄北口	1
+tong zhuang cun	仝庄村	1
+tong zi jie yin zhang hen qu	童子解吟长恨曲	1
+tong zuo zhu chen jun geng yuan	同作逐臣君更远	1
+tong bei si ji ba weng	通贝斯唧霸鹟	0
+tong cao mu ye e	通草木夜蛾	0
+tong fu zhong hao ying	铜腹重毫蝇	0
+tong gu er zhong lie gou	通古尔中鬣狗	0
+tong he jiao xiong xiao ye jia	铜褐角胸肖叶甲	0
+tong lu zhi zhu	桐庐指蛛	0
+tong lv xing hua jin gui	铜绿星花金龟	0
+tong qi gui jia	筒杞龟甲	0
+tong se lv xiong kou jia	铜色驴胸叩甲	0
+tong se yuan ye jia	铜色猿叶甲	0
+tong xin jia fu ying	同心假浮萤	0
+tong zhou mao	筒轴茅	0

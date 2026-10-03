@@ -1,0 +1,152 @@
+biao zhu	标注	577717
+biao qian	标签	274313
+biao dan	表单	49900
+biao shi fu	标识符	39960
+biao qiang	标枪	30930
+biao ming	表名	27830
+biao sheng	飙升	26668
+biao jie gou	表结构	17418
+biao zhun shu chu	标准输出	17353
+biao zhun shu ru	标准输入	14883
+biao ben	标本	13989
+biao ji yu yan	标记语言	10401
+biao kong jian	表空间	10336
+biao ti lan	标题栏	9809
+biao shu ju	表数据	9470
+biao dan ti jiao	表单提交	9233
+biao liang	标量	6839
+biao di e	标的额	6565
+biao shi ceng	表示层	5787
+biao qian ye	标签页	5784
+biao qian ku	标签库	4386
+biao qian ming	标签名	4281
+biao xian ceng	表现层	4213
+biao zhun cha	标准差	4178
+biao pi	表皮	3909
+biao dan yan zheng	表单验证	3907
+biao zhi deng ju	标志灯具	3578
+biao zhi fu	标志符	3228
+biao lian jie	表连接	3109
+biao zhun ku han shu	标准库函数	2783
+biao guan lian	表关联	2303
+biao da shi yu yan	表达式语言	2172
+biao qian shu xing	标签属性	2150
+biao zhun mu ban ku	标准模板库	2073
+biao da shi ji suan	表达式计算	1955
+biao xin li yi	标新立异	1806
+biao mian wen zhang	表面文章	1800
+biao zhun gui fan	标准规范	1785
+biao di che	标的车	1747
+biao qian lan	标签栏	1702
+biao zhun wen jian	标准文件	1628
+biao zhun shu ru liu	标准输入流	1502
+biao shi tu	表视图	1465
+biao zhun shu chu liu	标准输出流	1465
+biao mian que xian	表面缺陷	1293
+biao fen qu	表分区	1279
+biao shi tu	表示图	1151
+biao zhun cheng xu ku	标准程序库	1118
+biao shu fan yi	标书翻译	972
+biao li ru yi	表里如一	947
+biao ji bian liang	标记变量	737
+biao xing da han	彪形大汉	670
+biao zhun yu yan	标准语言	624
+biao zhun cuo wu liu	标准错误流	600
+biao fu zhi	表复制	580
+biao li bu yi	表里不一	576
+biao shi xing wei	表示行为	554
+biao da shi shu	表达式树	531
+biao qian yang shi	标签样式	517
+biao ge bu ju	表格布局	506
+biao zhun dui xiang	标准对象	498
+biao qing shi bie	表情识别	451
+biao mian huo xing ji	表面活性剂	415
+biao wai ke mu	表外科目	370
+biao shi bian liang	标识变量	363
+biao zhun shu chu wen jian	标准输出文件	357
+biao mian zhang li	表面张力	347
+biao chu li	表处理	343
+biao zhi fu hao	标志符号	329
+biao zhun shu ru wen jian	标准输入文件	323
+biao dan jiao yan	表单校验	293
+biao qian yun	标签云	279
+biao yue shu	表约束	264
+biao fei ti zhuang	膘肥体壮	258
+biao ji lei xing	标记类型	245
+biao zheng	表证	239
+biao ji wu	标记物	237
+biao zhun hua fa	标准化法	203
+biao qian ji	标签集	196
+biao xing	表型	177
+biao pi xi bao	表皮细胞	161
+biao ying	标营	156
+biao sheng	飚升	152
+biao zhun gong ju lan	标准工具栏	150
+biao li shan he	表里山河	149
+biao ge kong jian	表格控件	138
+biao qian kuan du	标签宽度	136
+biao mian kang yuan	表面抗原	130
+biao pi sheng zhang yin zi	表皮生长因子	116
+biao ti an niu	标题按钮	116
+biao zhun dan yuan	标准单元	104
+biao hui	标绘	93
+biao shi jian bie	标识鉴别	89
+biao qian tiao zhuan	标签跳转	73
+biao ceng jie gou	表层结构	72
+biao zhun cao zuo cheng xu	标准操作程序	72
+biao wei	表位	69
+biao xian fan	表现犯	64
+biao bu ju	表布局	55
+biao qing ji	表情肌	55
+biao xian dai li	表现代理	55
+biao zhun zhong duan	标准中断	44
+biao mian ma zui	表面麻醉	42
+biao mian jie gou	表面结构	41
+biao li yi zhi	表里一致	38
+biao dan mei hua	表单美化	36
+biao qian fen zu	标签分组	30
+biao jue qi	表决器	28
+biao da zai ti	表达载体	26
+biao jin	标金	26
+biao zhi xu lie	标志序列	23
+biao chu li yu yan	表处理语言	21
+biao pi pu tao qiu jun	表皮葡萄球菌	20
+biao liang chu li qi	标量处理器	19
+biao zhun hua bing ren	标准化病人	19
+biao zhun rong ye	标准溶液	18
+biao ge cao zuo	表格操作	17
+biao jue quan hui bi zhi du	表决权回避制度	17
+biao zhun chu li fang shi	标准处理方式	14
+biao er tuo kuo yi xiang	膘尔托阔依乡	12
+biao shi liang	标示量	12
+biao zhun wu cha	标准误差	12
+biao han	表寒	11
+biao mian an zhuang ji shu	表面安装技术	10
+biao pi zhi	表皮痣	9
+biao li ju cheng che	表里俱澄澈	8
+biao xian du	表现度	7
+biao a mei su	表阿霉素	5
+biao yan xing ren ge zhang ai	表演型人格障碍	5
+biao da xing shi yu	表达性失语	3
+biao jue quan xian zhi zhi du	表决权限制制度	3
+biao pi nang zhong	表皮囊肿	3
+biao zhuang ruan gu	杓状软骨	3
+biao er cha su	表儿茶素	2
+biao han li re	表寒里热	2
+biao ju	瘭疽	2
+biao li ju re	表里俱热	2
+biao mian pei yang	表面培养	2
+biao pi yang nang zhong	表皮样囊肿	2
+biao qi bu gu	表气不固	2
+biao zhun xing tan huang dian juan	标准型弹簧垫圈	2
+biao bei hu tong	裱褙胡同	1
+biao gan hu tong	标杆胡同	1
+biao han li re zheng	表寒里热证	1
+biao mian dian he	表面电荷	1
+biao mian xiao du	表面效度	1
+biao shou	表首	1
+biao zhi hua shi	标志化石	1
+biao zhun wu	标准误	1
+biao ha	杓蛤	0
+biao ke chong mu	表壳虫目	0
+biao zhun mo xi ge wu mao quan	标准墨西哥无毛犬	0

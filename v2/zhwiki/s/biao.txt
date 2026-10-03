@@ -1,0 +1,783 @@
+biao ba	标靶	0
+biao ba qiu chang	标靶球场	0
+biao ba yao wu	标靶药物	0
+biao ba zhi liao	标靶治疗	0
+biao ba zhong xin	标靶中心	0
+biao bai	表白	0
+biao bai si zhen	表白寺镇	0
+biao ban	表板	0
+biao ban sui dao	俵坂隧道	0
+biao bao	飑暴	0
+biao bei	裱褙	0
+biao bei zhen	标贝镇	0
+biao bei zhen qu	标贝镇区	0
+biao ben	标本	0
+biao ben chong ke	标本虫科	0
+biao ben dan wan chun tong	表本胆烷醇酮	0
+biao ben jia ke	标本甲科	0
+biao ben tang	标本唐	0
+biao ben tang jia	标本唐家	0
+biao bi da	标必达	0
+biao biao mian	彪彪面	0
+biao bo	表伯	0
+biao bo li	表玻璃	0
+biao bu	髟部	0
+biao can	标参	0
+biao can dao	表参道	0
+biao can dao che zhan	表参道车站	0
+biao can dao shan	表参道山	0
+biao can dao tong	表参道通	0
+biao can dao zhan	表参道站	0
+biao can dao zhi qiu	表参道之丘	0
+biao cao	藨草	0
+biao cao shu	藨草属	0
+biao cao zhen	蔈草镇	0
+biao ceng dai	表层带	0
+biao ceng jie gou	表层结构	0
+biao ceng wang lu	表层网路	0
+biao cha che zhan	标茶车站	0
+biao cha ting	标茶町	0
+biao cha ting ying gui dao	标茶町营轨道	0
+biao cha zhan	标茶站	0
+biao che	飙车	0
+biao che dang	飙车党	0
+biao che zhi che shen chuan shuo	飙车之车神传说	0
+biao che zu	飙车族	0
+biao cheng	飙城	0
+biao cheng	飚城	0
+biao chun shi hu	杓唇石斛	0
+biao ci san chun	表雌三醇	0
+biao cun li su zu xiang	表村傈僳族乡	0
+biao cun xing long si	彪村兴隆寺	0
+biao cuo can	标错参	0
+biao cuo qi ri qing	表错七日情	0
+biao da bao	标达堡	0
+biao da ceng	表达层	0
+biao da ci hui	表达词汇	0
+biao da fa	表达法	0
+biao da fang shi	表达方式	0
+biao da gui ze	表达规则	0
+biao da shi	表达式	0
+biao da shi yu yan	表达式语言	0
+biao da xing ci hui	表达性词汇	0
+biao da yu yan neng li	表达语言能力	0
+biao da zai ti	表达载体	0
+biao da zi you	表达自由	0
+biao dai	表带	0
+biao dan	表单	0
+biao de	标德	0
+biao de li shi	标得利士	0
+biao deng qiang wen xue	标灯腔吻鳕	0
+biao deng yu shu	标灯鱼属	0
+biao di	表弟	0
+biao di wu	标的物	0
+biao di zi chan	标的资产	0
+biao dian	标点	0
+biao dian fu hao	标点符号	0
+biao ding	标定	0
+biao en zhi	表恩智	0
+biao er	表儿	0
+biao er cai	杓儿菜	0
+biao er tuo kuo yi xiang	膘尔托阔依乡	0
+biao feng bu gui lu	飙风不归路	0
+biao feng lao die	飙风老爹	0
+biao feng lei ge	飙风雷哥	0
+biao feng te gong	飙风特攻	0
+biao feng te jing	飙风特警	0
+biao feng xiao jing	飙风笑警	0
+biao feng yin qing	飙风引擎	0
+biao feng zhan dou ji	飙风战斗机	0
+biao feng zhan ji	飙风战机	0
+biao feng zhan jing	飙风战警	0
+biao gan qi ye jiang	标竿企业奖	0
+biao gan ren sheng	标竿人生	0
+biao gan zhuan an jiang	标竿专案奖	0
+biao gao	标高	0
+biao gao dao xian	表高岛线	0
+biao gao tong	表睾酮	0
+biao ge	表哥	0
+biao ge	表格	0
+biao ge dao	表哥到	0
+biao ge de ban jia ru zhu zheng li wu fa jin xing la	表哥的搬家入住整理无法进行啦	0
+biao ge de ban jia zheng li hao wu jin zhan	表哥的搬家整理毫无进展	0
+biao ge fa	表格法	0
+biao ge jian	表格键	0
+biao gong pai fang	表功牌坊	0
+biao gong xun zhang	表功勋章	0
+biao gu	表姑	0
+biao guan hua	鳔冠花	0
+biao guan hua shu	鳔冠花属	0
+biao guan ji yin	表观基因	0
+biao guan ji yin zu xue	表观基因组学	0
+biao guan su du	表观速度	0
+biao guan yi chuan	表观遗传	0
+biao guan yi chuan ge dai chuan di xiao ying	表观遗传隔代传递效应	0
+biao guan yi chuan xiu shi	表观遗传修饰	0
+biao guan yi chuan xue	表观遗传学	0
+biao guo	骠国	0
+biao guo gu cheng yi zhi	骠国古城遗址	0
+biao ha ke	杓蛤科	0
+biao ha shu	杓蛤属	0
+biao hai hai ju ha	彪海海菊蛤	0
+biao han	飙捍	0
+biao han she jiang	飙悍射将	0
+biao he	标赫	0
+biao hua	标话	0
+biao hua	裱画	0
+biao hua ren sheng	标化人生	0
+biao hui	标会	0
+biao hui mei	表惠美	0
+biao hui mei	表慧美	0
+biao hui yan ji	杓会厌肌	0
+biao huo	镳火	0
+biao ji	杓肌	0
+biao ji	标记	0
+biao ji	表记	0
+biao ji de ren zhi wei du	标记的认知维度	0
+biao ji fa	标记法	0
+biao ji fa de ren zhi wei du	标记法的认知维度	0
+biao ji sheng	藨寄生	0
+biao ji sheng shu	藨寄生属	0
+biao ji shi yu yan	标记式语言	0
+biao ji xi tong	标记系统	0
+biao ji yu yan	标记语言	0
+biao jia cong	标架丛	0
+biao jian dai li	表见代理	0
+biao jian ju	标检局	0
+biao jian shui zao ke	镖剑水蚤科	0
+biao jiang	表匠	0
+biao jiao zhen	彪角镇	0
+biao jie	表楬	0
+biao jie	表姐	0
+biao jie di	表姐弟	0
+biao jie mei	表姐妹	0
+biao jie ni hao	表姐你好	0
+biao jin chuan	标津川	0
+biao jin jun	标津郡	0
+biao jin ting	标津町	0
+biao jin xian	标津线	0
+biao jiu	表舅	0
+biao ju	镖局	0
+biao jue	表决	0
+biao jue fang shi dong yi	表决方式动议	0
+biao jue ji chu	表决基础	0
+biao kai ti	标楷体	0
+biao ke	镖客	0
+biao ke bei shi bie	杓壳背石鳖	0
+biao ke ji	婊科技	0
+biao ke man ke	表刻螨科	0
+biao ke man shu	表刻螨属	0
+biao ke man zong ke	表刻螨总科	0
+biao ke san bu qu	镖客三部曲	0
+biao ke san bu qu	镳客三部曲	0
+biao ke yan	表壳岩	0
+biao kong jian	表空间	0
+biao kong shan hu shu	表孔珊瑚属	0
+biao kou xiang	俵口乡	0
+biao kou zhen	俵口镇	0
+biao ku che shen	飙酷车神	0
+biao kuang	标况	0
+biao lan	杓兰	0
+biao lan shu	杓兰属	0
+biao lan ya ke	杓兰亚科	0
+biao li bian zheng	表里辨证	0
+biao li ru yi	表里如一	0
+biao li si	标立斯	0
+biao li yi zhi	表里一致	0
+biao li zhen	标里镇	0
+biao liang	标量	0
+biao liang bo shai zi	标量玻色子	0
+biao liang can kua ke	标量粲夸克	0
+biao liang chang	标量场	0
+biao liang chang lun	标量场论	0
+biao liang cheng fa	标量乘法	0
+biao liang chu li qi	标量处理器	0
+biao liang di kua ke	标量底夸克	0
+biao liang dian zhong wei zi	标量电中微子	0
+biao liang dian zi	标量电子	0
+biao liang ding kua ke	标量顶夸克	0
+biao liang ji	标量积	0
+biao liang lei bie	标量类别	0
+biao liang lei xing	标量类型	0
+biao liang li zi	标量粒子	0
+biao liang qi kua ke	标量奇夸克	0
+biao liang qu lv	标量曲率	0
+biao liang san chong ji	标量三重积	0
+biao liang shang kua ke	标量上夸克	0
+biao liang shui ping	标量水平	0
+biao liang tou ying	标量投影	0
+biao liang xia kua ke	标量下夸克	0
+biao liang zhi han shu	标量值函数	0
+biao liang zhong wei zi	标量中微子	0
+biao lie bu luo	表列部落	0
+biao lie zhong xing	表列种姓	0
+biao long	彪龙	0
+biao long ke	彪龙科	0
+biao long shu	彪龙属	0
+biao lu shu	镖鲈属	0
+biao lu ya ke	镖鲈亚科	0
+biao luo	彪罗	0
+biao lv chun	表氯醇	0
+biao ma	彪马	0
+biao ma	表马	0
+biao ma shi shi xiu	彪马实时秀	0
+biao ma ye lang	飙马野郎	0
+biao man hua	标曼话	0
+biao man yu	标曼语	0
+biao mao lin chong shu	镖毛鳞虫属	0
+biao me zhi	标么值	0
+biao mei	表妹	0
+biao mei ci chun	表美雌醇	0
+biao mei ji xiang	表妹吉祥	0
+biao mei li	标梅利	0
+biao mei shi zi er cha su mei shi zi suan zhi	表没食子儿茶素没食子酸酯	0
+biao men	镖门	0
+biao mian	表面	0
+biao mian an zhuang ji shu	表面安装技术	0
+biao mian bao zhi gong zhen	表面胞质共振	0
+biao mian bo	表面波	0
+biao mian bo gui mo	表面波规模	0
+biao mian bo zhen ji	表面波震级	0
+biao mian ceng	表面层	0
+biao mian chen ai zhi liang fen xi yi	表面尘埃质量分析仪	0
+biao mian chu li	表面处理	0
+biao mian chu li ji shu	表面处理技术	0
+biao mian chuan dao dian zi fa she xian shi qi	表面传导电子发射显示器	0
+biao mian deng li ji hua ji yuan	表面等离极化激元	0
+biao mian deng li ji yuan	表面等离激元	0
+biao mian deng li zi gong zhen	表面等离子共振	0
+biao mian deng li zi ti	表面等离子体	0
+biao mian deng li zi ti gong zhen	表面等离子体共振	0
+biao mian dian he	表面电荷	0
+biao mian dian jiang zi	表面电浆子	0
+biao mian dian zi jie gou	表面电子结构	0
+biao mian fen ning	表面分凝	0
+biao mian gai xing ji shu	表面改性技术	0
+biao mian gong cheng	表面工程	0
+biao mian hua xue	表面化学	0
+biao mian huo hua ji	表面活化剂	0
+biao mian huo xing	表面活性	0
+biao mian ji	表面积	0
+biao mian ji shu	表面技术	0
+biao mian jing liu	表面径流	0
+biao mian jing liu	表面迳流	0
+biao mian kang yuan	表面抗原	0
+biao mian ke xue	表面科学	0
+biao mian kuo san	表面扩散	0
+biao mian leng ning qi	表面冷凝器	0
+biao mian li	表面力	0
+biao mian liang du	表面亮度	0
+biao mian ma	表面码	0
+biao mian min	表面皿	0
+biao mian neng	表面能	0
+biao mian neng liang tong liang	表面能量通量	0
+biao mian nian tie ji shu	表面黏贴技术	0
+biao mian nian zhu ji shu	表面黏著技术	0
+biao mian shang pi jian zhi zhong liu	表面上皮间质肿瘤	0
+biao mian sheng bo	表面声波	0
+biao mian tie pian	表面贴片	0
+biao mian tie zhuang	表面贴装	0
+biao mian tie zhuang ji shu	表面贴装技术	0
+biao mian tu fu ji shu	表面涂复技术	0
+biao mian tu fu ji shu	表面涂覆技术	0
+biao mian wen li	表面纹理	0
+biao mian wu li xue	表面物理学	0
+biao mian xing jue	表面星蕨	0
+biao mian yang wen	表面洋温	0
+biao mian ying hua	表面硬化	0
+biao mian zeng qiang la man guang pu	表面增强拉曼光谱	0
+biao mian zeng qiang la man san she	表面增强拉曼散射	0
+biao mian zeng qiang la man xiao ying	表面增强拉曼效应	0
+biao mian zhang li	表面张力	0
+biao mian zheng gong	表面证供	0
+biao mian zhong gou	表面重构	0
+biao mian zhong li	表面重力	0
+biao mian zhuang tai	表面状态	0
+biao min fang yan	标敏方言	0
+biao min hua	标敏话	0
+biao min xiu	表民秀	0
+biao min yu	标敏语	0
+biao ming	标名	0
+biao ming xin pu xun jiang	标名辛普逊鳉	0
+biao mu che zhan	骉木车站	0
+biao mu shan che zhan	表木山车站	0
+biao mu shan zhan	表木山站	0
+biao mu zhan	骉木站	0
+biao na ha shu	杓拿蛤属	0
+biao pan	表盘	0
+biao pi	表皮	0
+biao pi ceng	表皮层	0
+biao pi ji di ceng	表皮基底层	0
+biao pi jun ke	表皮菌科	0
+biao pi la zhi	表皮蜡质	0
+biao pi man ke	表皮螨科	0
+biao pi man shu	表皮螨属	0
+biao pi rong jie shui pao zheng	表皮溶解水疱症	0
+biao pi sheng zhang yin zi	表皮生长因子	0
+biao pi tan qing hua he wu	表皮碳氢化合物	0
+biao pi xi tong	表皮系统	0
+biao pi xiao ying	表皮效应	0
+biao pi xuan jun	表皮癣菌	0
+biao pi yang ai	表皮样癌	0
+biao pi yang bao han nang zhong	表皮样包涵囊肿	0
+biao pi yang nang zhong	表皮样囊肿	0
+biao ping	标屏	0
+biao pu	标普	0
+biao pu dao qiong si zhi shu	标普道琼斯指数	0
+biao pu dao qiong si zhi shu gong si	标普道琼斯指数公司	0
+biao pu dao qiong si zhi shu you xian gong si	标普道琼斯指数有限公司	0
+biao pu huan qiu	标普环球	0
+biao pu quan qiu	标普全球	0
+biao qi fei yang	镖旗飞扬	0
+biao qian	标签	0
+biao qian hua	标签化	0
+biao qian jia	表千家	0
+biao qian ku	标签库	0
+biao qian li lun	标签理论	0
+biao qian lian he	标签联合	0
+biao qian lun	标签论	0
+biao qian tu dang ge shi	标签图档格式	0
+biao qian tu xiang wen jian ge shi	标签图像文件格式	0
+biao qian wai shi yong	标签外使用	0
+biao qian xiao ying	标签效应	0
+biao qian ye	标签页	0
+biao qian yun	标签云	0
+biao qiang	标枪	0
+biao qiang	骉羌	0
+biao qiang bu bing zhan che	标枪步兵战车	0
+biao qiang fang kong dao dan	标枪防空导弹	0
+biao qiang fei dan	标枪飞弹	0
+biao qiang hao qu zhu jian	标枪号驱逐舰	0
+biao qiang nv shen	标枪女神	0
+biao qiang sheng mu	标枪圣母	0
+biao qiang shi jin po wu qi xi tong	标枪式近迫武器系统	0
+biao qiang zhan dou ji	标枪战斗机	0
+biao qiang zhen guan luo	标枪真管螺	0
+biao qiao zhan	标桥站	0
+biao qin	表亲	0
+biao qin hun	表亲婚	0
+biao qin hun yin	表亲婚姻	0
+biao qin lun	表亲论	0
+biao qing	标清	0
+biao qing	表情	0
+biao qing bao	表情包	0
+biao qing bao da zhan	表情包大战	0
+biao qing dian shi	标清电视	0
+biao qing fu bu fu	表情符不符	0
+biao qing fu hao	表情符号	0
+biao qing qi huan mao xian	表情奇幻冒险	0
+biao qing shang dian	表情商店	0
+biao qing tie	表情贴	0
+biao qing tie tu	表情贴图	0
+biao qing tu	表情图	0
+biao qing tu an	表情图案	0
+biao qing tu biao	表情图标	0
+biao qing tu pian	表情图片	0
+biao qing tu shi	表情图示	0
+biao qing tu shi ri	表情图示日	0
+biao ren	镖人	0
+biao ren	骠人	0
+biao ren cheng bang	骠人城邦	0
+biao ren ri zhi	婊人日志	0
+biao ri	标日	0
+biao ri ben	表日本	0
+biao sai	彪赛	0
+biao sha ling	标杀令	0
+biao shao ti	骠绍梯	0
+biao shao ti min bing	骠绍梯民兵	0
+biao she	标蛇	0
+biao sheng dong wu xiang	表生动物相	0
+biao shi	标识	0
+biao shi	标势	0
+biao shi	标示	0
+biao shi	镖师	0
+biao shi ceng	表示层	0
+biao shi ceng zhuang tai zhuan hua	表示层状态转化	0
+biao shi ceng zhuang tai zhuan huan	表示层状态转换	0
+biao shi fa	表示法	0
+biao shi fu	标识符	0
+biao shi fu hao	标识符号	0
+biao shi han shu	表示函数	0
+biao shi han zi	表示函子	0
+biao shi hao	标识号	0
+biao shi hao	标示号	0
+biao shi li lun	表示理论	0
+biao shi lun	表示论	0
+biao shi rong liang	标示容量	0
+biao shi shi	表示式	0
+biao shi wu ren	表十五人	0
+biao shi yu yan	标识语言	0
+biao shi yu yan	标示语言	0
+biao shu	骠叔	0
+biao shu	表叔	0
+biao shu xing zhuang tai zhuan yi	表述性状态转移	0
+biao shui zao ke	镖水蚤科	0
+biao su yin qing	飙速引擎	0
+biao su zhai nan	飙速宅男	0
+biao tao	表桃	0
+biao teng tai	俵藤太	0
+biao ti	标题	0
+biao ti biao	标题表	0
+biao ti dang	标题党	0
+biao ti jue se	标题角色	0
+biao ti ren wu	标题人物	0
+biao ti yin yue	标题音乐	0
+biao tian che zhan	俵田车站	0
+biao tian zhan	俵田站	0
+biao ting	表町	0
+biao ting tong	表町通	0
+biao tou	标头	0
+biao tou	表头	0
+biao tou dang	标头档	0
+biao tou dang	表头档	0
+biao tou zi duan	标头字段	0
+biao tu	表土	0
+biao wa tu zu xiang	杓哇土族乡	0
+biao wai han zi zi ti biao	表外汉字字体表	0
+biao wai xiang mu	表外项目	0
+biao wai ye wu	表外业务	0
+biao wang	标王	0
+biao wang	表网	0
+biao wang zu	飙网族	0
+biao wei	表位	0
+biao wei si dao ke	表韦斯道克	0
+biao wen	骠文	0
+biao wen xue shu	镖吻鳕属	0
+biao wu	俵物	0
+biao wu ju chang	骉舞剧场	0
+biao wu zong da	表屋宗达	0
+biao wu zong da	俵屋宗达	0
+biao xi xiang	标溪乡	0
+biao xian	飑线	0
+biao xian ceng	表现层	0
+biao xian ceng zhuang tai zhuan hua	表现层状态转化	0
+biao xian ceng zhuang tai zhuan huan	表现层状态转换	0
+biao xian ceng zhuang tai zhuan yi	表现层状态转移	0
+biao xian du	表现度	0
+biao xian xing	表现型	0
+biao xian xing zhi	表现型值	0
+biao xian zeng qiang wu zhi	表现增强物质	0
+biao xian zeng qiang yao wu	表现增强药物	0
+biao xian zhu yi	表现主义	0
+biao xian zi you	表现自由	0
+biao xiang	标箱	0
+biao xiang	表象	0
+biao xiang li lun	表象理论	0
+biao xin zhi	表芯纸	0
+biao xing	表型	0
+biao xing	表姓	0
+biao xing cha yi	表型差异	0
+biao xing hun he	表型混合	0
+biao xing ke su xing	表型可塑性	0
+biao xing ma	表形码	0
+biao xing ma shu ru fa	表形码输入法	0
+biao xing mo xie	表型模写	0
+biao xing niao chun luo	标形鸟唇螺	0
+biao xing wen zi	表形文字	0
+biao xiong	表兄	0
+biao xiong di	表兄弟	0
+biao xiong di su shu	表兄弟素数	0
+biao xiong di zhi shu	表兄弟质数	0
+biao xiong di zi mei	表兄弟姊妹	0
+biao xiong mei	表兄妹	0
+biao xiong tong	表雄酮	0
+biao xun si	表训寺	0
+biao ya	表压	0
+biao yan	表演	0
+biao yan bi xu ji xu	表演必须继续	0
+biao yan bi xu ji xu xia qu	表演必须继续下去	0
+biao yan gong zuo fang	表演工作坊	0
+biao yan ji qi ren	表演机器人	0
+biao yan jiang da man guan	表演奖大满贯	0
+biao yan ju	表演剧	0
+biao yan nv lang	表演女郎	0
+biao yan sai	表演赛	0
+biao yan shi ge	表演诗歌	0
+biao yan shi kang yi	表演式抗疫	0
+biao yan shi ke	表演时刻	0
+biao yan shi xuan ju	表演式选举	0
+biao yan wu ju yuan	表演屋剧院	0
+biao yan xiang mu	表演项目	0
+biao yan xie	表岩屑	0
+biao yan xing	表演性	0
+biao yan xing ren ge	表演型人格	0
+biao yan xing xuan ju	表演性选举	0
+biao yan yi shu	表演艺术	0
+biao yan zhe	表演者	0
+biao yao zhi	标幺值	0
+biao yi	表姨	0
+biao yi	表艺	0
+biao yi fu hao	表意符号	0
+biao yi gou wu	表异构物	0
+biao yi wen zi	表意文字	0
+biao yi zhen	表艺珍	0
+biao yin	标音	0
+biao yin ge	表印哥	0
+biao yin wen zi	表音文字	0
+biao yong rui	表永瑞	0
+biao you mei	摽有梅	0
+biao yu	杓鹬	0
+biao yu	标语	0
+biao yu	骠语	0
+biao yu	表语	0
+biao yu bian dai xi chong	杓鹬鞭带吸虫	0
+biao yu pan shu	杓鹬盘属	0
+biao yu shan dou jian	表羽扇豆碱	0
+biao yu shu	杓鹬属	0
+biao yu wen zi	表语文字	0
+biao yu zhai ti xi chong	杓鹬窄体吸虫	0
+biao yuan xuan tai	表原玄太	0
+biao yue	骠越	0
+biao yun wan chun tong	表孕烷醇酮	0
+biao zai	飙仔	0
+biao zai chun	表甾醇	0
+biao zhang jiang zhang	表彰奖章	0
+biao zheng	表征	0
+biao zheng	表证	0
+biao zheng ce shi	表征测试	0
+biao zheng xue xi	表征学习	0
+biao zheng yi chuan xue	表征遗传学	0
+biao zhi	摽帜	0
+biao zhi	标指	0
+biao zhi	标帜	0
+biao zhi	标志	0
+biao zhi	标致	0
+biao zhi	表纸	0
+biao zhi che chang	标致车厂	0
+biao zhi dao qie	标志盗窃	0
+biao zhi de ruan chao de xing zheng dan wei	标志的阮朝的行政单位	0
+biao zhi fu	标志符	0
+biao zhi gang gu nei di di chan	标智港股内地地产	0
+biao zhi gang gu nei di xiao fei	标智港股内地消费	0
+biao zhi ming ju	标志名驹	0
+biao zhi qi che	标致汽车	0
+biao zhi shi pi zhi li	标致氏魮脂鲤	0
+biao zhi shuang zi	标志双子	0
+biao zhi ta	标志塔	0
+biao zhi wei lai	表之未来	0
+biao zhi wu zhi	表之五知	0
+biao zhi xing jian zhu	标志性建筑	0
+biao zhi xing wai mao	标志性外貌	0
+biao zhi xue tie long	标致雪铁龙	0
+biao zhi xue tie long ji tuan	标致雪铁龙集团	0
+biao zhi xun	表志勋	0
+biao zhi yin he	表之银河	0
+biao zhi zhi neng	表之智能	0
+biao zhi zhong bu fa	标志重捕法	0
+biao zhong ta	表忠塔	0
+biao zhu jia man shu	表珠甲螨属	0
+biao zhuang hui yan bi	杓状会厌襞	0
+biao zhuang jun shu	标桩菌属	0
+biao zhuang ruan gu	杓状软骨	0
+biao zhuang xu shui zao	杓状许水蚤	0
+biao zhun	标准	0
+biao zhun a er ji li ya bai bai er yu	标准阿尔及利亚柏柏尔语	0
+biao zhun a la bo wen shu zi	标准阿拉伯文数字	0
+biao zhun a la bo yu	标准阿拉伯语	0
+biao zhun bao	标准报	0
+biao zhun biao zhen zu qiu hui	标准表针足球会	0
+biao zhun bu jian gong ju xiang	标准部件工具箱	0
+biao zhun bu ju lei xing	标准布局类型	0
+biao zhun can kao wu zhi	标准参考物质	0
+biao zhun cang yu	标准藏语	0
+biao zhun cao shu	标准草书	0
+biao zhun cao zuo cheng xu	标准操作程序	0
+biao zhun cao zuo gui cheng	标准操作规程	0
+biao zhun ce shi tu xiang	标准测试图像	0
+biao zhun ce shi zi liao ge shi	标准测试资料格式	0
+biao zhun cha	标准差	0
+biao zhun chao xian yu	标准朝鲜语	0
+biao zhun che	标准车	0
+biao zhun chi	标准尺	0
+biao zhun chuan liu	标准串流	0
+biao zhun cuo wu shu chu	标准错误输出	0
+biao zhun da qi ya	标准大气压	0
+biao zhun dan bai an ji suan	标准蛋白胺基酸	0
+biao zhun dan wei	标准单位	0
+biao zhun dan yuan	标准单元	0
+biao zhun dao dan	标准导弹	0
+biao zhun de yu	标准德语	0
+biao zhun di yu tong ji dan yuan	标准地域统计单元	0
+biao zhun dian ji dian shi	标准电极电势	0
+biao zhun dian ji dian wei	标准电极电位	0
+biao zhun dong cha	标准动差	0
+biao zhun er xing fei dan	标准二型飞弹	0
+biao zhun fa yin	标准发音	0
+biao zhun fan fu she dao dan	标准反辐射导弹	0
+biao zhun fang cha	标准方差	0
+biao zhun fang yan	标准方言	0
+biao zhun fen	标准分	0
+biao zhun fen shu	标准分数	0
+biao zhun gan	标准杆	0
+biao zhun gao cheng ling dian	标准高程零点	0
+biao zhun ge shi qi yue	标准格式契约	0
+biao zhun gong shi	标准工时	0
+biao zhun guan hua	标准官话	0
+biao zhun gui	标准轨	0
+biao zhun gui hua	标准轨化	0
+biao zhun gui ju	标准轨距	0
+biao zhun guo pin	标准果品	0
+biao zhun hai shi tong xin yong yu	标准海事通信用语	0
+biao zhun hai ya	标准海压	0
+biao zhun han guo yu	标准韩国语	0
+biao zhun han yu	标准汉语	0
+biao zhun han zi	标准汉字	0
+biao zhun hang kong jian	标准航空件	0
+biao zhun hao tian	标准灏天	0
+biao zhun he ming	标准和名	0
+biao zhun he tong	标准合同	0
+biao zhun hua	标准化	0
+biao zhun hua bing ren	标准化病人	0
+biao zhun hua dian li ji che	标准化电力机车	0
+biao zhun hua fang yan	标准化方言	0
+biao zhun hua ji gou	标准化机构	0
+biao zhun hua kao shi	标准化考试	0
+biao zhun hua shi	标准化石	0
+biao zhun hua xie yi	标准化协议	0
+biao zhun hua yu	标准华语	0
+biao zhun hua zhi	标准画质	0
+biao zhun hua zhi li ce yan	标准化智力测验	0
+biao zhun hua zu zhi	标准化组织	0
+biao zhun huo gui	标准货柜	0
+biao zhun ji cha	标准机差	0
+biao zhun jian yan ju	标准检验局	0
+biao zhun jie pou zi shi	标准解剖姿势	0
+biao zhun jie xi du dian shi	标准解析度电视	0
+biao zhun jing	标准镜	0
+biao zhun jing tou	标准镜头	0
+biao zhun jiu du	标准酒度	0
+biao zhun jiu fen	标准九分	0
+biao zhun jiu jing du	标准酒精度	0
+biao zhun jiu jing nong du	标准酒精浓度	0
+biao zhun jiu jing qiang du	标准酒精强度	0
+biao zhun ju	标准矩	0
+biao zhun ju	标准具	0
+biao zhun ju yuan	标准剧院	0
+biao zhun ku	标准库	0
+biao zhun kuang wu xue	标准矿物学	0
+biao zhun li cha	标准离差	0
+biao zhun li fang ying chi	标准立方英尺	0
+biao zhun li lun	标准理论	0
+biao zhun lie ri	标准列日	0
+biao zhun lie ri zu qiu ju le bu	标准列日足球俱乐部	0
+biao zhun lie zhi	标准列治	0
+biao zhun lie zhi	标准烈治	0
+biao zhun lie zhi zu qiu hui	标准列治足球会	0
+biao zhun lie zhi zu qiu ju le bu	标准列治足球俱乐部	0
+biao zhun ling dian	标准零点	0
+biao zhun liu	标准流	0
+biao zhun liu lang	标准流浪	0
+biao zhun lu gui	标准路轨	0
+biao zhun luo ji	标准逻辑	0
+biao zhun ma	标准马	0
+biao zhun ma lai yu	标准马来语	0
+biao zhun mei	标准煤	0
+biao zhun mei guo yin	标准美国音	0
+biao zhun mei yu	标准美语	0
+biao zhun mo er ran shao han	标准摩尔燃烧焓	0
+biao zhun mo er ran shao re	标准摩尔燃烧热	0
+biao zhun mo er shang	标准摩尔熵	0
+biao zhun mo er shang	标准莫耳熵	0
+biao zhun mo er sheng cheng han	标准摩尔生成焓	0
+biao zhun mo er sheng cheng han	标准莫耳生成焓	0
+biao zhun mo luo ge bai bai er yu	标准摩洛哥柏柏尔语	0
+biao zhun mo xing	标准模型	0
+biao zhun mu ban ku	标准模板库	0
+biao zhun nuo wei yu	标准挪威语	0
+biao zhun ou yu	标准欧语	0
+biao zhun pai shui liang	标准排水量	0
+biao zhun pian cha	标准偏差	0
+biao zhun pu er	标准普尔	0
+biao zhun pu tong hua	标准普通话	0
+biao zhun qi che gong si	标准汽车公司	0
+biao zhun qi wen he qi ya	标准气温和气压	0
+biao zhun qi xiang nian	标准气象年	0
+biao zhun qi yue	标准契约	0
+biao zhun qing dian ji	标准氢电极	0
+biao zhun qing kuang	标准情况	0
+biao zhun qing xi du dian shi	标准清晰度电视	0
+biao zhun ren shou	标准人寿	0
+biao zhun ri ben yu	标准日本语	0
+biao zhun rong ye	标准溶液	0
+biao zhun rui dian yu	标准瑞典语	0
+biao zhun san xing dao dan	标准三型导弹	0
+biao zhun san xing fei dan	标准三型飞弹	0
+biao zhun shang san ji jie pi	标准上三脊节蜱	0
+biao zhun sheng cheng han	标准生成焓	0
+biao zhun sheng cheng re	标准生成热	0
+biao zhun shi	标准时	0
+biao zhun shi hang zheng	标准适航证	0
+biao zhun shi jian	标准时间	0
+biao zhun shi jian biao zhun pin lv fa bo tai	标准时间标准频率发播台	0
+biao zhun shi you	标准石油	0
+biao zhun shi zhi zao	表准时制造	0
+biao zhun shou cang	标准收藏	0
+biao zhun shou cang ban gong si	标准收藏版公司	0
+biao zhun shu chu	标准输出	0
+biao zhun shu ru	标准输入	0
+biao zhun tai yang mo xing	标准太阳模型	0
+biao zhun tai yu	标准泰语	0
+biao zhun tan suan qing yan	标准碳酸氢盐	0
+biao zhun ti	标准体	0
+biao zhun tie gui	标准铁轨	0
+biao zhun tong yong biao ji yu yan	标准通用标记语言	0
+biao zhun tong yong zhi biao yu yan	标准通用置标语言	0
+biao zhun tu er qi yu	标准土耳其语	0
+biao zhun wan bao	标准晚报	0
+biao zhun wen du he ya li	标准温度和压力	0
+biao zhun wu	标准舞	0
+biao zhun wu	标准误	0
+biao zhun wu cha	标准误差	0
+biao zhun xi ban ya yu	标准西班牙语	0
+biao zhun xi bo lai yu	标准希伯来语	0
+biao zhun xian dai han yu	标准现代汉语	0
+biao zhun xiang	标准箱	0
+biao zhun xiao fang shi tiao fa ze	标准消防十条法则	0
+biao zhun xiao xue xiao she	标准小学校舍	0
+biao zhun xin jia po ying yu	标准新加坡英语	0
+biao zhun xing neng ping gu gong si	标准性能评估公司	0
+biao zhun xue na rui	标准雪纳瑞	0
+biao zhun yan chi ge shi	标准延迟格式	0
+biao zhun yi biao li chang cheng xu	标准仪表离场程序	0
+biao zhun yi chuan mi ma	标准遗传密码	0
+biao zhun yi da li yu	标准意大利语	0
+biao zhun yi xing dao dan	标准一型导弹	0
+biao zhun yi xing fei dan	标准一型飞弹	0
+biao zhun yin	标准音	0
+biao zhun yin gao	标准音高	0
+biao zhun yin hang	标准银行	0
+biao zhun yin li can shu	标准引力参数	0
+biao zhun yin yue miao shu yu yan	标准音乐描述语言	0
+biao zhun yin yue zi ti bu ju	标准音乐字体布局	0
+biao zhun ying guo yin	标准英国音	0
+biao zhun ying yin	标准英音	0
+biao zhun ying yu	标准英语	0
+biao zhun you gong si	标准油公司	0
+biao zhun yu	标准语	0
+biao zhun yu yan	标准语言	0
+biao zhun yu zhou xue mo xing	标准宇宙学模型	0
+biao zhun yue yu	标准粤语	0
+biao zhun zhen ji xun lian ke cheng	标准侦缉训练课程	0
+biao zhun zheng jiao biao jia cong	标准正交标架丛	0
+biao zhun zheng jiao ji	标准正交基	0
+biao zhun zheng quan deng ji	标准证券登记	0
+biao zhun zheng tai fen bu	标准正态分布	0
+biao zhun zhong li	标准重力	0
+biao zhun zhong wen	标准中文	0
+biao zhun zhou kan	标准周刊	0
+biao zhun zhu guang	标准烛光	0
+biao zhun zhu yin jian pan	标准注音键盘	0
+biao zhun zhuang kuang	标准状况	0
+biao zhun zhuang tai	标准状态	0
+biao zhun zhuang yu	标准壮语	0
+biao zhun zi yuan	标准资源	0
+biao zhun zu zhi	标准组织	0
+biao zhun zuo ye cheng xu	标准作业程序	0
+biao zhun zuo ye liu cheng	标准作业流程	0
+biao zhun zuo ye xi tong	标准作业系统	0
+biao zi	杓子	0
+biao zi	婊子	0
+biao zi	表姊	0
+biao zi	表字	0
+biao zi qian ceng mian	婊子千层面	0
+biao zi zhan zheng	婊子战争	0

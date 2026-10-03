@@ -1,0 +1,1019 @@
+bu men	部门	1709250
+bu tie	补贴	167303
+bu chang	补偿	114081
+bu wei	部位	66422
+bu shi	不适	45057
+bu zhou	步骤	43778
+bu ju wen jian	布局文件	41794
+bu ding	布丁	30974
+bu chen zhi	不称职	25383
+bu zhi xing	不执行	20695
+bu ke si yi	不可思议	18980
+bu zheng zhi feng	不正之风	18949
+bu shen	布什	18703
+bu zhe bu kou	不折不扣	18574
+bu jian rong	不兼容	18305
+bu dong chan	不动产	16757
+bu xing jie	步行街	16648
+bu ding qi	不定期	16361
+bu fen che xing	部分车型	16272
+bu yue er tong	不约而同	15230
+bu tong ban ben	不同版本	14767
+bu zhi bu jue	不知不觉	14263
+bu ban	补办	13873
+bu de er zhi	不得而知	13727
+bu yi yu li	不遗余力	12844
+bu yan er yu	不言而喻	12652
+bu qu fen da xiao xie	不区分大小写	11410
+bu yi er fei	不翼而飞	11020
+bu men fa	部门法	10569
+bu lang	布朗	10130
+bu liao liao zhi	不了了之	9877
+bu he chang li	不合常理	9614
+bu yi wei ran	不以为然	9266
+bu ke hu shi	不可忽视	9121
+bu liang fan ying	不良反应	9041
+bu zhi suo cuo	不知所措	8956
+bu jue yu er	不绝于耳	8680
+bu jia di	布加迪	8649
+bu yi le hu	不亦乐乎	8378
+bu quan	补全	8344
+bu zhi qu xiang	不知去向	8074
+bu zhu jin	补助金	7244
+bu mou er he	不谋而合	7221
+bu huo yi chang	捕获异常	6715
+bu zu	补足	6522
+bu he shi yi	不合时宜	6313
+bu rong le guan	不容乐观	6243
+bu qie shi ji	不切实际	6225
+bu ma	补码	5885
+bu lv xing he tong	不履行合同	5857
+bu zu wei qi	不足为奇	5391
+bu xing ren shi	不省人事	5349
+bu ze shou duan	不择手段	5114
+bu yan qi fan	不厌其烦	5081
+bu ke kai jiao	不可开交	5061
+bu jie zhi yuan	不解之缘	4914
+bu ji qi shu	不计其数	4829
+bu ru shi ming	不辱使命	4790
+bu kan she xiang	不堪设想	4770
+bu you zi zhu	不由自主	4756
+bu chang mao yi	补偿贸易	4585
+bu ke gu liang	不可估量	4495
+bu liang xing wei ji lu	不良行为记录	4448
+bu sheng mei ju	不胜枚举	4325
+bu wu zheng ye	不务正业	4132
+bu shi shi ji	不失时机	3999
+bu lai er	布莱尔	3983
+bu wen bu wen	不闻不问	3924
+bu xiang shang xia	不相上下	3910
+bu ke duo de	不可多得	3841
+bu gan shi ruo	不甘示弱	3784
+bu ru qi	哺乳期	3738
+bu ke mo mie	不可磨灭	3632
+bu yi bu rao	不依不饶	3421
+bu jing er zou	不胫而走	3393
+bu gui ze	不规则	3229
+bu qi yong	不启用	3166
+bu gu yi qie	不顾一切	3073
+bu su zhi ke	不速之客	3044
+bu wan quan lv xing	不完全履行	2960
+bu rong zhi yi	不容置疑	2944
+bu men guan xia	部门管辖	2914
+bu diao yi zhi	步调一致	2909
+bu zai hua xia	不在话下	2893
+bu ju guan li qi	布局管理器	2866
+bu fu zhong wang	不负众望	2857
+bu ke yu yue	不可逾越	2855
+bu ke tong ri er yu	不可同日而语	2826
+bu ju yi ge	不拘一格	2825
+bu jia si suo	不假思索	2816
+bu qu bu nao	不屈不挠	2816
+bu ke bian dui xiang	不可变对象	2772
+bu ke chong fu du	不可重复读	2763
+bu xia	布下	2740
+bu neng zi ba	不能自拔	2737
+bu huan er san	不欢而散	2734
+bu dong sheng se	不动声色	2724
+bu yi zhi xing	不一致性	2680
+bu yi er zu	不一而足	2675
+bu shen	补肾	2662
+bu ji	布吉	2590
+bu shi zhi xu	不时之需	2587
+bu yun bu yu	不孕不育	2546
+bu jin ze tui	不进则退	2514
+bu ju you fa lv xiao li	不具有法律效力	2513
+bu xie yi gu	不屑一顾	2422
+bu xue	补血	2397
+bu han er li	不寒而栗	2362
+bu you fen shuo	不由分说	2331
+bu yi zhi cai	不义之财	2308
+bu tou ming du	不透明度	2277
+bu an quan shi pin	不安全食品	2220
+bu xu ci xing	不虚此行	2215
+bu yuan wan li	不远万里	2174
+bu zhi he gu	不知何故	2155
+bu de yi er wei zhi	不得已而为之	2134
+bu gong zi po	不攻自破	2129
+bu pian bu yi	不偏不倚	2079
+bu kan yi ji	不堪一击	2070
+bu qi er yu	不期而遇	2058
+bu lai en	布莱恩	2052
+bu shu xiang mu	部署项目	2047
+bu lv pan shan	步履蹒跚	2023
+bu ming bu bai	不明不白	2019
+bu lao er huo	不劳而获	2015
+bu er biao da shi	布尔表达式	1994
+bu lv wei jian	步履维艰	1991
+bu jin ren qing	不近人情	1969
+bu jin bu man	不紧不慢	1966
+bu jian dong hua	补间动画	1915
+bu ci er bie	不辞而别	1904
+bu guan bu gu	不管不顾	1843
+bu ke kang li shi jian	不可抗力事件	1842
+bu an quan xing wei	不安全行为	1832
+bu zhi ke fou	不置可否	1827
+bu yi wei yi	不以为意	1813
+bu bu wei ying	步步为营	1805
+bu de ren xin	不得人心	1797
+bu yuan qian li	不远千里	1766
+bu ke gao ren	不可告人	1745
+bu ke dong yao	不可动摇	1686
+bu kan hui shou	不堪回首	1673
+bu chu suo liao	不出所料	1661
+bu yu	不育	1651
+bu tong bu yang	不痛不痒	1634
+bu huang bu mang	不慌不忙	1630
+bu zhi suo zhong	不知所终	1618
+bu lun bu lei	不伦不类	1592
+bu ming yuan yin fei yan	不明原因肺炎	1591
+bu an kang bian quan	不安抗辩权	1567
+bu feng zhuo ying	捕风捉影	1555
+bu ju shu xing	布局属性	1533
+bu bu gao	步步高	1526
+bu kan ru mu	不堪入目	1453
+bu gan ji mo	不甘寂寞	1449
+bu shu huan jing	部署环境	1438
+bu ke kang ju	不可抗拒	1412
+bu fen qing hong zao bai	不分青红皂白	1382
+bu bao he zhi fang suan	不饱和脂肪酸	1367
+bu xiu gang fa	不锈钢阀	1339
+bu cheng fang yuan	不成方圆	1300
+bu ke li yu	不可理喻	1290
+bu ke shou shi	不可收拾	1258
+bu ju kong jian	布局控件	1250
+bu ke bian lei	不可变类	1236
+bu lai ke	布莱克	1210
+bu zhi zhi zheng	不治之症	1207
+bu la te	布拉特	1196
+bu tong fan xiang	不同凡响	1148
+bu lu nuo	布鲁诺	1137
+bu gao bu li	不告不理	1132
+bu sheng qi fan	不胜其烦	1108
+bu zuo wei fan	不作为犯	1086
+bu gou yan xiao	不苟言笑	1071
+bu gao	布告	1052
+bu sheng bu xiang	不声不响	1044
+bu zu wei guai	不足为怪	1027
+bu shu tu	部署图	1024
+bu huai hao yi	不怀好意	1021
+bu ke xian liang	不可限量	1010
+bu ke pian fei	不可偏废	986
+bu ye	补液	979
+bu er fa men	不二法门	975
+bu zhi suo yun	不知所云	957
+bu ke yi shi	不可一世	951
+bu ju you hua	布局优化	915
+bu er yun suan	布尔运算	904
+bu ju rong qi	布局容器	904
+bu leng bu re	不冷不热	900
+bu shi ren jian yan huo	不食人间烟火	880
+bu bu gao sheng	步步高升	864
+bu bian shi	不变式	837
+bu bei bu kang	不卑不亢	820
+bu mao zhi di	不毛之地	777
+bu tai	步态	770
+bu ci lao ku	不辞劳苦	769
+bu ding fang cheng	不定方程	769
+bu zhuo bian ji	不着边际	763
+bu tuo	布托	749
+bu neng zi zhu	不能自主	740
+bu yu zheng	不育症	740
+bu cheng wen fa	不成文法	732
+bu fei chui hui zhi li	不费吹灰之力	705
+bu fen bi ci	不分彼此	705
+bu ju xiao jie	不拘小节	701
+bu gan gou tong	不敢苟同	681
+bu fa qi ren	不乏其人	666
+bu xiu bian fu	不修边幅	610
+bu shi	布施	590
+bu huo zhi nian	不惑之年	579
+bu ju yi ge jiang ren cai	不拘一格降人才	577
+bu ju dong hua	布局动画	562
+bu zhong yi qi	补中益气	550
+bu xun si qing	不徇私情	546
+bu xue wu shu	不学无术	542
+bu ou mao	布偶猫	539
+bu zhi yi bo	不值一驳	539
+bu neng zi yi	不能自已	532
+bu long guo lv qi	布隆过滤器	530
+bu bai zhi yuan	不白之冤	510
+bu wen qing hong zao bai	不问青红皂白	507
+bu luo fen	布洛芬	498
+bu xi gong ben	不惜工本	476
+bu cang	补仓	475
+bu mou qi zheng	不谋其政	467
+bu guan san qi er shi yi	不管三七二十一	462
+bu neng wang huai	不能忘怀	451
+bu men guan li	部门管理	449
+bu fu	步幅	448
+bu lu sheng se	不露声色	424
+bu er dai shu	布尔代数	417
+bu san bu si	不三不四	417
+bu kan ru er	不堪入耳	414
+bu ya	补牙	409
+bu huan gua er huan bu jun	不患寡而患不均	406
+bu ke jiu yao	不可救药	401
+bu de dan ren guo jia	不得担任国家	400
+bu po bu li	不破不立	399
+bu luo su tao	不落俗套	380
+bu qiu you gong	不求有功	379
+bu yi wei chi	不以为耻	379
+bu she zhou ye	不舍昼夜	378
+bu jiao bu zao	不骄不躁	372
+bu zu gua chi	不足挂齿	372
+bu lan ke	布兰科	365
+bu yu ze fei	不预则废	363
+bu fen li	不分离	356
+bu jian tian ri	不见天日	354
+bu lei ke	布雷克	349
+bu chong bao zhang	补充保障	344
+bu fen bo zhong	不分伯仲	340
+bu zhi zen de	不知怎的	340
+bu hui wei	不回位	338
+bu men yue quan	部门越权	336
+bu lan ni	布兰妮	333
+bu dao chang cheng fei hao han	不到长城非好汉	329
+bu liu yu di	不留余地	316
+bu ju gui ze	布局规则	315
+bu qiu shang jin	不求上进	314
+bu jin dian ji	步进电机	313
+bu zhi tian gao di hou	不知天高地厚	313
+bu bian mo shi	不变模式	312
+bu ji bu xu	不疾不徐	310
+bu er jin	布尔津	304
+bu wei fu yun zhe wang yan	不畏浮云遮望眼	302
+bu fa xian li	不乏先例	298
+bu shang bu xia	不上不下	297
+bu qiu shen jie	不求甚解	293
+bu shi shi wu	不识时务	290
+bu shen liao liao	不甚了了	285
+bu tou	埠头	285
+bu zi liang li	不自量力	278
+bu ji mian pei lv te yue xian	不计免赔率特约险	276
+bu ce	簿册	275
+bu zhi xia luo	不知下落	271
+bu yu da ren	捕鱼达人	269
+bu dong chan deng ji fa	不动产登记法	261
+bu fen han shu yi lai	部分函数依赖	254
+bu ke zhuo mo	不可捉摸	254
+bu yan bu yu	不言不语	253
+bu da bu xiang shi	不打不相识	251
+bu xian bu dan	不咸不淡	251
+bu gong dai tian	不共戴天	248
+bu gan bu jing	不干不净	247
+bu zu wei wai ren dao	不足为外人道	246
+bu de qi men er ru	不得其门而入	245
+bu lu	补炉	238
+bu yi gui ju	不以规矩	232
+bu bing	布病	228
+bu yue lei chi	不越雷池	228
+bu jue ru lv	不绝如缕	227
+bu zuo wei qin quan	不作为侵权	224
+bu dong zhuang dong	不懂装懂	223
+bu gan yue lei chi yi bu	不敢越雷池一步	223
+bu xiang zhi zhao	不祥之兆	220
+bu ke sheng shu	不可胜数	219
+bu shi lu shan zhen mian mu	不识庐山真面目	213
+bu lu shi jun bing	布鲁氏菌病	208
+bu er	布尔	207
+bu chong xie yi	补充协议	206
+bu rong fen shuo	不容分说	205
+bu da zi zhao	不打自招	201
+bu kan nan	布坎南	190
+bu ke qi ji	不可企及	188
+bu wen cang sheng wen gui shen	不问苍生问鬼神	187
+bu ding zhi bao xian he tong	不定值保险合同	183
+bu zhi shen qian	不知深浅	183
+bu ding dan gao	布丁蛋糕	177
+bu lv xing he yue	不履行合约	175
+bu chi xia wen	不耻下问	174
+bu yao shi he tong	不要式合同	171
+bu ji nong pi shi chang	布吉农批市场	170
+bu fen chao xi	部分抄袭	169
+bu zhi qi ke ye	不知其可也	168
+bu gu da ju	不顾大局	166
+bu jin	补进	165
+bu ju ce lve	布局策略	164
+bu qiu you gong dan qiu wu guo	不求有功但求无过	163
+bu bai zhi di	不败之地	158
+bu zhi suo yi	不知所以	157
+bu ke ni jia mi	不可逆加密	156
+bu zai qi wei	不在其位	151
+bu zu wei lv	不足为虑	149
+bu dai zou yi pian yun cai	不带走一片云彩	147
+bu gan zao ci	不敢造次	147
+bu tuo	布拖	146
+bu ping ze ming	不平则鸣	139
+bu ding qi hang ban	不定期航班	137
+bu bu deng gao	步步登高	135
+bu jian duan dian yuan	不间断电源	135
+bu lei mo	布雷默	133
+bu lv jiao jian	步履矫健	133
+bu xin lu	布心路	132
+bu ke yan chuan	不可言传	131
+bu ren zu du	不忍卒读	129
+bu zhi hao dai	不知好歹	128
+bu ding ji fen	不定积分	125
+bu fen sheng fu	不分胜负	125
+bu qiang ban	补强板	122
+bu qing bai	不清白	121
+bu po lou lan zhong bu hai	不破楼兰终不还	118
+bu cheng ti tong	不成体统	117
+bu ming shi li	不明事理	115
+bu si bu huo	不死不活	113
+bu zi	堡子	111
+bu deng da ya zhi tang	不登大雅之堂	110
+bu ce feng yun	不测风云	109
+bu ha la	布哈拉	109
+bu ke ming zhuang	不可名状	109
+bu ke yan yu	不可言喻	108
+bu xiao zi sun	不肖子孙	108
+bu gan bu ga	不尴不尬	107
+bu ru tui er jie wang	不如退而结网	107
+bu gan wen jin	不敢问津	105
+bu chong fu sui ji shu	不重复随机数	104
+bu mei	不寐	104
+bu neng cheng fang yuan	不能成方圆	104
+bu jiao er zhu	不教而诛	98
+bu luo ci ji	布罗茨基	98
+bu de shan zhong	不得善终	97
+bu jia	补价	96
+bu ren bu yi	不仁不义	96
+bu pa yi wan jiu pa wan yi	不怕一万就怕万一	95
+bu ji lu	布吉路	93
+bu xian gui ze	布线规则	93
+bu lai xi te	布莱希特	92
+bu zhi jiu li	不知就里	91
+bu wei wu dou mi zhe yao	不为五斗米折腰	90
+bu yao er yu	不药而愈	88
+bu shi tai ju	不识抬举	87
+bu zhi fan ji	不知凡几	87
+bu neng fan wei sui	不能犯未遂	86
+bu guan feng chui lang da	不管风吹浪打	85
+bu luo ke jiu	不落窠臼	85
+bu zhi wei bu zhi	不知为不知	85
+bu zhi jin xi he xi	不知今夕何夕	82
+bu zhi qing zhong	不知轻重	82
+bu ci zhang zuo ling nan ren	不辞长作岭南人	81
+bu zhi si huo	不知死活	81
+bu zhi you han	不知有汉	81
+bu zhui qing yun zhi zhi	不坠青云之志	81
+bu wan quan shu ju	不完全数据	80
+bu yi er fu qie gui	不义而富且贵	80
+bu ai hong zhuang ai wu zhuang	不爱红装爱武装	79
+bu jin xi xing	不矜细行	78
+bu ming yi wen	不名一文	78
+bu zu wei xun	不足为训	78
+bu bian zhen wei	不辨真伪	76
+bu lin ci jiao	不吝赐教	75
+bu sha lu	布沙路	75
+bu dian xing zeng sheng	不典型增生	73
+bu ru gui qu	不如归去	73
+bu ke shi zhi zhi	不可使知之	71
+bu lun	布伦	70
+bu shi yuan jia bu ju tou	不是冤家不聚头	69
+bu wei wa quan	不为瓦全	69
+bu jian dang nian qin shi huang	不见当年秦始皇	68
+bu zu wei ping	不足为凭	67
+bu rong zhi hui	不容置喙	66
+bu guo er er	不过尔尔	65
+bu ke bu cha ye	不可不察也	63
+bu ke di lai	不可抵赖	63
+bu ru hu xue	不入虎穴	63
+bu wan quan xing	不完全性	63
+bu xiang wei mou	不相为谋	62
+bu deng chang bian ma	不等长编码	61
+bu jian tu zi bu sa ying	不见兔子不撒鹰	61
+bu gu zhi	补骨脂	60
+bu fen xuan zhi	不分轩轾	59
+bu ke qin fan quan	不可侵犯权	59
+bu long gong lu	布龙公路	58
+bu xing er yan zhong	不幸而言中	57
+bu jia di wei hang	布加迪威航	56
+bu jian guan cai bu diao lei	不见棺材不掉泪	56
+bu zhi qi ke	不知其可	56
+bu shi hao dai	不识好歹	54
+bu zhi yi shen	不值一哂	54
+bu ke ju wu zhu	不可居无竹	53
+bu xue yao	补血药	53
+bu zu wei wai ren dao ye	不足为外人道也	53
+bu shen yi shou jiao nang	补肾益寿胶囊	51
+bu zu wei ju	不足为据	51
+bu man bu zhi	不蔓不枝	50
+bu qiang ren suo nan	不强人所难	50
+bu qiu wen da	不求闻达	50
+bu sheng bu mie	不生不灭	50
+bu yi jun zi hu	不亦君子乎	50
+bu zhi tian shang gong que	不知天上宫阙	50
+bu huan pin er huan bu an	不患贫而患不安	49
+bu wu xiao bu	不无小补	49
+bu bi jian xian	不避艰险	47
+bu ji hai guan	布吉海关	47
+bu jin chang jiang gun gun lai	不尽长江滚滚来	47
+bu dao huang he xin bu si	不到黄河心不死	45
+bu zhong yi qi tang	补中益气汤	45
+bu jian guan cai bu luo lei	不见棺材不落泪	44
+bu jian lian jie	部件连接	44
+bu yuan qian li er lai	不远千里而来	44
+bu dan fang jie chu	不单方接触	43
+bu ren hou chen	步人后尘	43
+bu ce zhi you	不测之忧	42
+bu chuai mao mei	不揣冒昧	42
+bu rong zhi bian	不容置辩	42
+bu cun	布村	40
+bu gui ze yin dao chu xie	不规则阴道出血	40
+bu fei jiang he wan gu liu	不废江河万古流	39
+bu lang	步廊	39
+bu lu shi gan jun bing	布鲁氏杆菌病	39
+bu ji wang lun song wo qing	不及汪伦送我情	38
+bu qing zhi qing	不情之请	38
+bu wei nong shi	不违农时	38
+bu jian jing zhuan	不见经传	37
+bu tai pan shan	步态蹒跚	37
+bu zhong yi qi wan	补中益气丸	37
+bu ke gu ming xue ba wang	不可沽名学霸王	36
+bu luo xin	布洛欣	36
+bu shi da ti	不识大体	36
+bu ru hu xue yan de hu zi	不入虎穴焉得虎子	34
+bu ru xiang wang yu jiang hu	不如相忘于江湖	34
+bu shi nu er ha chi yi long	布氏努尔哈赤翼龙	34
+bu xu bu ji	不徐不疾	34
+bu zu wei dao	不足为道	34
+bu ke yan zhuang	不可言状	33
+bu ying qi	不应期	33
+bu zhi suo yan	不知所言	33
+bu cha hao li	不差毫厘	32
+bu ni ya bing du ke	布尼亚病毒科	32
+bu zhi qi xing ming	不知其姓名	32
+bu cha shang xia	不差上下	31
+bu guan tong yang	不关痛痒	31
+bu ha lin	布哈林	31
+bu ji lian jian zhan	布吉联检站	31
+bu gai qi le	不改其乐	30
+bu luo he	布洛赫	30
+bu ping zhi ming	不平之鸣	30
+bu ti	补体	30
+bu xi zhi zhou	不系之舟	30
+bu zai qi wei bu mou qi zheng	不在其位不谋其政	30
+bu zhi rou wei	不知肉味	30
+bu de qi xiang	不得其详	29
+bu ge	布格	29
+bu huan ren zhi bu ji zhi	不患人之不己知	29
+bu neng deng da ya zhi tang	不能登大雅之堂	29
+bu tai fen xi	步态分析	29
+bu zha ye	布渣叶	29
+bu zhi lao zhi jiang zhi	不知老之将至	29
+bu zhi qi ji qian li ye	不知其几千里也	29
+bu chang shi wu	补偿事务	28
+bu fu shui tu	不服水土	28
+bu ke sheng ji	不可胜计	28
+bu lu feng mang	不露锋芒	28
+bu tan wei bao	不贪为宝	28
+bu zhi qiu si luo shui jia	不知秋思落谁家	28
+bu ren shi juan	不忍释卷	27
+bu shi gan jun	布氏杆菌	27
+bu zhi he chu shi ta xiang	不知何处是他乡	27
+bu fu zhong wang	不孚众望	26
+bu que ding zhi shi	不确定知识	26
+bu gu si huo	不顾死活	25
+bu jiu ji wang	不咎既往	25
+bu lv jian xin	步履艰辛	25
+bu pi yi fei	补脾益肺	25
+bu xin hua yuan	布心花园	25
+bu yan qi xiang	不厌其详	25
+bu yu you xi	捕鱼游戏	25
+bu zi you wu ning si	不自由毋宁死	25
+bu fen di wo	不分敌我	24
+bu kan seng mian kan fo mian	不看僧面看佛面	24
+bu li wen zi	不立文字	24
+bu shen wan	补肾丸	24
+bu yu zhi yu	不虞之誉	24
+bu zhen zheng bu zuo wei fan	不真正不作为犯	24
+bu zhi jin tui	不知进退	24
+bu zi li	堡子里	24
+bu gan wen lai ren	不敢问来人	23
+bu gui ling zhi	不归零制	23
+bu kang bu bei	不亢不卑	23
+bu shi	卜筮	23
+bu shi zhi gong	不世之功	23
+bu yi qi dao de zhi	不以其道得之	23
+bu zhi jin xi shi he nian	不知今夕是何年	23
+bu zuo wei zhai wu	不作为债务	23
+bu er sou suo	布尔搜索	22
+bu ke zhong ri	不可终日	22
+bu ken guo jiang dong	不肯过江东	22
+bu luo fen huan shi jiao nang	布洛芬缓释胶囊	22
+bu luo fen hun xuan ye	布洛芬混悬液	22
+bu qi an shi	不欺暗室	22
+bu wan quan xin xi	不完全信息	22
+bu yao shi fa lv xing wei	不要式法律行为	22
+bu an yu shi	不安于室	21
+bu dong chan xin yong kong zhi	不动产信用控制	21
+bu gan hou ren	不甘后人	21
+bu gu bu jin	不古不今	21
+bu pian jiu bi	补偏救弊	21
+bu que ding xing tui li	不确定性推理	21
+bu xi jie dao	布溪街道	21
+bu xiao	步校	21
+bu xiao niao	不孝鸟	21
+bu zhi qi xiang	不知其详	21
+bu jian qu nian ren	不见去年人	20
+bu lu e mu xun jue	布鲁厄姆勋爵	20
+bu gan wei tian xia xian	不敢为天下先	19
+bu ke bi mian pi lu yuan ze	不可避免披露原则	19
+bu lai de lei	布莱德雷	19
+bu li qi dun	布里奇顿	19
+bu ren jian qi si	不忍见其死	19
+bu xi yi bu ju	不喜亦不惧	19
+bu yu qin sai tong ren yan	不与秦塞通人烟	19
+bu que ding xing jing ji xue	不确定性经济学	18
+bu zhi xi ye shui cai chu	不知细叶谁裁出	18
+bu cheng ren zhi e	不成人之恶	17
+bu qiu wen da yu zhu hou	不求闻达于诸侯	17
+bu shi hua zhong pian ai ju	不是花中偏爱菊	17
+bu wen ji zhu sheng	不闻机杼声	17
+bu yi ren fei yan	不以人废言	17
+bu zu	步足	17
+bu fei yan	步非烟	16
+bu ji zhen zheng fu	布吉镇政府	16
+bu jiao hu ma du yin shan	不教胡马度阴山	16
+bu jin kong zhi	步进控制	16
+bu lang zu cai	布朗族菜	16
+bu shu qing dan	部署清单	16
+bu yao ren kua yan se hao	不要人夸颜色好	16
+bu zuo wei fan yan jiu	不作为犯研究	16
+bu jia zong he zheng	布加综合征	15
+bu ke fen zhi zhai	不可分之债	15
+bu gui ze san guang	不规则散光	14
+bu ke yi ri wu ci jun	不可一日无此君	14
+bu liang zi chan chu zhi	不良资产处置	14
+bu luo fen huan shi pian	布洛芬缓释片	14
+bu que ding tui li	不确定推理	14
+bu ren shi qi rou	不忍食其肉	14
+bu si tun ge mu chang	布斯屯格牧场	14
+bu yu gang	捕鱼港	14
+bu zhi zhuan ru ci zhong lai	不知转入此中来	14
+bu ke bu zhi ye	不可不知也	13
+bu kong	补空	13
+bu lun tuo hai	布伦托海	13
+bu qi qi yu pin jian	不戚戚于贫贱	13
+bu shi sheng shi qi	不使胜食气	13
+bu yi zu	布衣族	13
+bu ji ji yu fu gui	不汲汲于富贵	12
+bu lai te na	布莱特纳	12
+bu lei dong	布勒东	12
+bu neng zheng qi shen	不能正其身	12
+bu shan bu neng gai	不善不能改	12
+bu te la ge nuo	布特拉格诺	12
+bu xi	埠西	12
+bu xin shi chang	布心市场	11
+bu yong cun	步涌村	11
+bu zhi di zhi hou ye	不知地之厚也	11
+bu zhi tian zhi gao ye	不知天之高也	11
+bu chong sheng nan chong sheng nv	不重生男重生女	10
+bu de chun feng hua bu kai	不得春风花不开	10
+bu de yi er yong zhi	不得已而用之	10
+bu zhi yi wen qian	不值一文钱	10
+bu zi	埠子	10
+bu chang xing cai zheng zheng ce	补偿性财政政策	9
+bu lang he xiang	补浪河乡	9
+bu yao zhe duo xue	不要这多雪	9
+bu yi wang zi fei bo	不宜妄自菲薄	9
+bu zhen zheng lian dai zhi zhai	不真正连带之债	9
+bu ke che xiao dai kuan cheng nuo	不可撤销贷款承诺	8
+bu lu cha jia	布鲁查加	8
+bu shen gu chi	补肾固齿	8
+bu wan quan liu chan	不完全流产	8
+bu yi san yu fan	不以三隅反	8
+bu de zhong hang er yu zhi	不得中行而与之	7
+bu gu zhi su	补骨脂素	7
+bu kou	埠口	7
+bu lian gou	不连沟	7
+bu lu jun bing	布鲁菌病	7
+bu luo fen hun xuan di ji	布洛芬混悬滴剂	7
+bu neng jing shu er yu ge bi	不能竟书而欲搁笔	7
+bu qi shi dai yu	不歧视待遇	7
+bu zhi xin hen shui	不知心恨谁	7
+bu an tui zong he zheng	不安腿综合征	6
+bu di nai de	布地奈德	6
+bu jin chang jiang gun gun liu	不尽长江滚滚流	6
+bu ju yi ge jiang ren cai	不拘一格降人材	6
+bu kan ying shou zeng	不堪盈手赠	6
+bu lin bing	卟啉病	6
+bu luo fen ke li	布洛芬颗粒	6
+bu luo fen pian	布洛芬片	6
+bu shen tian jing wan	补肾填精丸	6
+bu shi tian shu	布氏田鼠	6
+bu sui yi yun dong	不随意运动	6
+bu xue kou fu ye	补血口服液	6
+bu yue xiang	补约乡	6
+bu zhang nao xin tong	步长脑心通	6
+bu zhi dong fang zhi ji bai	不知东方之既白	6
+bu bian xian yuan he chu xun	不辨仙源何处寻	5
+bu chan	步阐	5
+bu chu xian yi jian	不处嫌疑间	5
+bu dai yin tai	布袋寅泰	5
+bu de er	布德尔	5
+bu jian you ren hai	不见有人还	5
+bu ke yi wei zi	不可以为子	5
+bu lai mei yue dui	不莱梅乐队	5
+bu shang	埠上	5
+bu shi ren jian zao nie qian	不使人间造孽钱	5
+bu xi ge zhe ku	不惜歌者苦	5
+bu yang hai wu tang	补阳还五汤	5
+bu yao ren kua hao yan se	不要人夸好颜色	5
+bu zhi he chu diao xiang jun	不知何处吊湘君	5
+bu zhou shan xia hong qi luan	不周山下红旗乱	5
+bu bian yi	不便宜	4
+bu cai ming zhu qi	不才明主弃	4
+bu ci bing xue wei qing re	不辞冰雪为卿热	4
+bu dai ao	布袋澳	4
+bu er da	布尔达	4
+bu gui nan de zhi huo	不贵难得之货	4
+bu gui ze re	不规则热	4
+bu huan mo ji zhi	不患莫己知	4
+bu jian ding wang cheng jiu chu	不见定王城旧处	4
+bu jiao er sha wei zhi nve	不教而杀谓之虐	4
+bu ke sai er	布克赛尔	4
+bu lie dian mao	不列颠猫	4
+bu luo fen jiao nang	布洛芬胶囊	4
+bu luo jiao	不落教	4
+bu mei ta ni	布美他尼	4
+bu pi yi chang wan	补脾益肠丸	4
+bu qin duo nian leng shi tie	布衾多年冷似铁	4
+bu ru deng gao zhi bo jian ye	不如登高之博见也	4
+bu ru xu yu zhi suo xue ye	不如须臾之所学也	4
+bu ru zao hai jia	不如早还家	4
+bu shen yi nao jiao nang	补肾益脑胶囊	4
+bu wan quan ku xing dang an	不完全酷刑档案	4
+bu wen xian wang zhi yi yan	不闻先王之遗言	4
+bu xu yao	补虚药	4
+bu xue su tang	补血酥糖	4
+bu yi zi sheng wan	补益资生丸	4
+bu yu xing	不育性	4
+bu zhi jiang yue dai he ren	不知江月待何人	4
+bu zhi lao zhi jiang zhi yun er	不知老之将至云尔	4
+bu zhi ming jing li	不知明镜里	4
+bu zhi yuan li shu	不知园里树	4
+bu bi qu chang tu	不必取长途	3
+bu can shi shang ying	不惭世上英	3
+bu de zhong gu si	不得中顾私	3
+bu gan shao yu yue	不敢稍逾约	3
+bu gan tan feng chen	不敢叹风尘	3
+bu gu zhi ding	补骨脂酊	3
+bu jian chang an jian chen wu	不见长安见尘雾	3
+bu jian xuan cao hua	不见萱草花	3
+bu ke yi wei ren	不可以为人	3
+bu lu sai er cu mao lie quan	布鲁塞尔粗毛猎犬	3
+bu lun ping di yu shan jian	不论平地与山尖	3
+bu nan	埠南	3
+bu qin ting jin yao	不寝听金钥	3
+bu ru lian qu yan qian ren	不如怜取眼前人	3
+bu ru qiu zhi hao xue ye	不如丘之好学也	3
+bu ru shi zhi shen ye	不如是之甚也	3
+bu shen yang xue wan	补肾养血丸	3
+bu ti xi tong	补体系统	3
+bu xi qian jin mai bao dao	不惜千金买宝刀	3
+bu xia	埠下	3
+bu xing duan ming si yi	不幸短命死矣	3
+bu xue yi mu ke li	补血益母颗粒	3
+bu ya xiang	布雅乡	3
+bu yi qian li cheng ye	不以千里称也	3
+bu yi qiang xin pian	补益强心片	3
+bu yi wen hai ci	不以文害辞	3
+bu yuan lun zan hu	不愿论簪笏	3
+bu yuan sheng ji zhe	不怨胜己者	3
+bu zhi cheng yue ji ren gui	不知乘月几人归	3
+bu zhi lao jiang zhi	不知老将至	3
+bu zhuo	步卓	3
+bu chen qing mei chang zhu jiu	不趁青梅尝煮酒	2
+bu de dao liao xi	不得到辽西	2
+bu de qi yan ze qu	不得其言则去	2
+bu di nai de qi wu ji	布地奈德气雾剂	2
+bu dun hua mu chang	布敦化牧场	2
+bu fen guan	部分冠	2
+bu fu wo nan yang	不复卧南阳	2
+bu gan yan er gan nu	不敢言而敢怒	2
+bu gu fu mu zhi yang	不顾父母之养	2
+bu gu gou zhen	步古沟镇	2
+bu guo shu ren er xia	不过数仞而下	2
+bu hen ci hua fei jin	不恨此花飞尽	2
+bu huan jin zheng qi san	不换金正气散	2
+bu ji yuan wu yan	不击元无烟	2
+bu jian wu ling hao jie mu	不见五陵豪杰墓	2
+bu jian yu yan kong si chu	不见玉颜空死处	2
+bu jue chun feng huan liu tiao	不觉春风换柳条	2
+bu jue qing lin mei wan chao	不觉青林没晚潮	2
+bu kai kou xiao shi chi ren	不开口笑是痴人	2
+bu ke de er gui	不可得而贵	2
+bu ke de er hai	不可得而害	2
+bu ke de er jian	不可得而贱	2
+bu ke de er li	不可得而利	2
+bu ke de er shu	不可得而疏	2
+bu ke de er wen ye	不可得而闻也	2
+bu ke sheng yong ye	不可胜用也	2
+bu ke tu xing ye	不可徒行也	2
+bu ke yi chang chu le	不可以长处乐	2
+bu ke yi jiu chu yue	不可以久处约	2
+bu ke yi zuo wu yi	不可以作巫医	2
+bu ke yu yan er yu zhi yan	不可与言而与之言	2
+bu lang zu dai zu zi zhi xian	布朗族傣族自治县	2
+bu lian jin dan bu zuo chan	不炼金丹不坐禅	2
+bu luo fen ruan jiao nang	布洛芬软胶囊	2
+bu luo wei ma fen san pian	布洛伪麻分散片	2
+bu neng zheng wu yin	不能正五音	2
+bu neng zhi e yi wu ta	不能止遏意无他	2
+bu qi sheng ti	补气升提	2
+bu qian yu xue lai	不遣雨雪来	2
+bu ren wei zhi xia	不忍为之下	2
+bu ru shuo shu jie cang shen	不如硕鼠解藏身	2
+bu ru yin mei jiu	不如饮美酒	2
+bu sa li bie jian	不洒离别间	2
+bu shan ren zhi shi	不善人之师	2
+bu shen gu chi wan	补肾固齿丸	2
+bu shen qiang shen jiao nang	补肾强身胶囊	2
+bu shi qi suo zhe jiu	不失其所者久	2
+bu shi yi fan han che gu	不是一番寒彻骨	2
+bu sui yi ji	不随意肌	2
+bu te ha qi	布特哈旗	2
+bu tou jiang miao zu xiang	步头降苗族乡	2
+bu tuo fei nuo	布托啡诺	2
+bu wei	不韦	2
+bu wei shang gu bu geng tian	不为商贾不耕田	2
+bu xian zhe shi qi xiao zhe	不贤者识其小者	2
+bu xin bi lai zhang xia lei	不信比来长下泪	2
+bu xin shan hu ju zong zhan	布心山湖居总站	2
+bu xu geng dai fei zi xiao	不须更待妃子笑	2
+bu xue fei zi ran	不学非自然	2
+bu yi bing qiang tian xia	不以兵强天下	2
+bu yi li jie zhi	不以礼节之	2
+bu yi wan wu yi tiao zhi yi	不以万物易蜩之翼	2
+bu yong qing ming jian shang si	不用清明兼上巳	2
+bu yong su li shang	不用诉离觞	2
+bu you bo yi zhe hu	不有博弈者乎	2
+bu yu li hua tong meng	不与梨花同梦	2
+bu yu wo yan xi	不与我言兮	2
+bu yu xu ning xi e shi	不与徐凝洗恶诗	2
+bu yuan ju gong che ma qian	不愿鞠躬车马前	2
+bu yun miao zhe ye	不耘苗者也	2
+bu zhi fu shu cheng zi wei	不知腐鼠成滋味	2
+bu zhi nan fang bu ken xiu	不指南方不肯休	2
+bu zhi tian di you qing shuang	不知天地有清霜	2
+bu zhi xiang ji si	不知香积寺	2
+bu zhi xue wen zhi da ye	不知学问之大也	2
+bu zi ba xiang	堡子坝乡	2
+bu zi li jie dao	堡子里街道	2
+bu zu yi shi fu mu	不足以事父母	2
+bu zu yi wei shi yi	不足以为士矣	2
+bu ba shuang mei dou hua zhang	不把双眉斗画长	1
+bu bao jin ren ai gu ren	不薄今人爱古人	1
+bu bei kou wu shi	不悲口无食	1
+bu bei shen wu yi	不悲身无衣	1
+bu bi ruo yu zhi shou lu	不必若余之手录	1
+bu cai xiu zi xian	不采羞自献	1
+bu ceng fu gui bu ceng qiong	不曾富贵不曾穷	1
+bu cheng qi shen yi	不诚其身矣	1
+bu chi chu yu shan yu	步踟蹰于山隅	1
+bu chou ming yue jin	不愁明月尽	1
+bu chu men lai you shu xun	不出门来又数旬	1
+bu chu san shi nian	不出三十年	1
+bu chu xi cheng men	步出西城门	1
+bu dai zhi shu qiu	不待致书求	1
+bu dao han xiang jian	不道含香贱	1
+bu dao jiu guan qi bi	不道九关齐闭	1
+bu de gu cai wei	不得顾采薇	1
+bu de qi zhi ze qu	不得其职则去	1
+bu de tong qi dao	不得通其道	1
+bu de zhi du xing qi dao	不得志独行其道	1
+bu dong guan jie	不动关节	1
+bu du ming chao wei zi tui	不独明朝为子推	1
+bu dui fang chun jiu	不对芳春酒	1
+bu dui she qu	部队社区	1
+bu duo xiang	布多乡	1
+bu duo yin jiu lan yin shi	不多饮酒懒吟诗	1
+bu er xiang	补尔乡	1
+bu fa er min wei	不罚而民畏	1
+bu fan wu yang gua qiu feng	布帆无恙挂秋风	1
+bu fei huo xue jiao nang	补肺活血胶囊	1
+bu fu zhuang er qi hui xi	不抚壮而弃秽兮	1
+bu ga hui zu xiang	布嘎回族乡	1
+bu gan di tou kan	不敢低头看	1
+bu gan hen chang sha	不敢恨长沙	1
+bu gan huai fei yu qiao zhuo	不敢怀非誉巧拙	1
+bu gan pan gui de	不敢攀贵德	1
+bu gan tang	补肝汤	1
+bu geng zi you yu	不耕自有余	1
+bu guan qi lai ting	不惯起来听	1
+bu guan qing han yu pan zhai	不管清寒与攀摘	1
+bu gui yang ze gui mo	不归杨则归墨	1
+bu gui ze gu	不规则骨	1
+bu guo er shi li er	不过二十里耳	1
+bu guo san shi ri	不过三十日	1
+bu hen gu ren wu bu jian	不恨古人吾不见	1
+bu hui de qing qing ru ci	不会得青青如此	1
+bu ji lai shi lu	不记来时路	1
+bu ji lin jian zi zai ti	不及林间自在啼	1
+bu ji lu jia you mo chou	不及卢家有莫愁	1
+bu ji zai jia pin	不及在家贫	1
+bu jian gao ren wang you cheng	不见高人王右丞	1
+bu jian juan lian ren	不见卷帘人	1
+bu jian min gong san shi nian	不见旻公三十年	1
+bu jian wu kuang er	不见吾狂耳	1
+bu jian yi ren lai	不见一人来	1
+bu jiang yan se tuo chun feng	不将颜色托春风	1
+bu jie shi cheng wei zhi bao	不戒视成谓之暴	1
+bu jin ren qing yan	不近人情焉	1
+bu jing qi jun zhe ye	不敬其君者也	1
+bu jue bi shan mu	不觉碧山暮	1
+bu jue chun yi shen	不觉春已深	1
+bu jue dong yan se	不觉动颜色	1
+bu jue lei xia zhan yi shang	不觉泪下沾衣裳	1
+bu jue nian chi mu	不觉年齿暮	1
+bu jue shan ran lei yan di	不觉潸然泪眼低	1
+bu kan feng ku re	不堪逢苦热	1
+bu kan you meng tai cong cong	不堪幽梦太匆匆	1
+bu ke che xiao	不可撤销	1
+bu ke yi yan chuan ye	不可以言传也	1
+bu ke yi yu shang ye	不可以语上也	1
+bu ke zhi zhe ye	不可知者也	1
+bu ku yi zu yi	不哭亦足矣	1
+bu lai ke yi da li nuo quan	布莱克意大利诺犬	1
+bu lao dai er	布劳岱尔	1
+bu li qiang xia zhi xing shi	不离墙下至行时	1
+bu li yi shi zhong	不离一室中	1
+bu li zhi shi	布里芝士	1
+bu lian he	布连河	1
+bu lin zuo an	布林佐胺	1
+bu lu sai er xiao gou	布鲁塞尔小狗	1
+bu lu sai er yi shi quan	布鲁塞尔翼狮犬	1
+bu luo fen huan shi hun xuan ji	布洛芬缓释混悬剂	1
+bu mei bai you sheng	不寐百忧生	1
+bu mei bing	不寐病	1
+bu mian you zhan fa	不眠忧战伐	1
+bu nai wei da dao ji zhe ye	不乃为大盗积者也	1
+bu nao an shen pian	补脑安神片	1
+bu nei wai yin	不内外因	1
+bu neng cheng yi shi	不能成一事	1
+bu neng fa sheng ku	不能发声哭	1
+bu neng ting zhong lei ru yu	不能听终泪如雨	1
+bu neng wang qing yin	不能忘情吟	1
+bu neng wu shi li	不能五十里	1
+bu neng yi li rang wei guo	不能以礼让为国	1
+bu neng yu zhi yu huai	不能喻之于怀	1
+bu nian ju an si wei	不念居安思危	1
+bu nian xie shou hao	不念携手好	1
+bu pei he qiang jian	不配合强奸	1
+bu po wan zuo	不破万作	1
+bu qi chu hu fan zhong	不蕲畜乎樊中	1
+bu qi er hui zhong huan yan	不期而会重欢宴	1
+bu qi jing cu yan	不期精粗焉	1
+bu qian liu tiao qing	不遣柳条青	1
+bu qin leng shi tie	布衾冷似铁	1
+bu que xing tiao kuan	补缺性条款	1
+bu ren bian yong jue	不忍便永诀	1
+bu ren er zai gao wei	不仁而在高位	1
+bu ren zhe yuan yi	不仁者远矣	1
+bu ru bu xiang jian	不如不相见	1
+bu ru bu yu qing cheng se	不如不遇倾城色	1
+bu ru dang shen zi zan ying	不如当身自簪缨	1
+bu ru sao di fa	不如扫地法	1
+bu ru wen zao hai que yuan	不如闻早还却愿	1
+bu ru xiang lian er di xia	不如向帘儿底下	1
+bu ru yi pan su	不如一盘粟	1
+bu ru yin shan yu zhi	不如因善遇之	1
+bu ru ying shi qian xi shi	不如应是欠西施	1
+bu ruo gui yu lan	不若桂与兰	1
+bu ruo xiang wang yu jiang hu	不若相忘于江湖	1
+bu shang er min quan	不赏而民劝	1
+bu shen yi qi jiao nang	补肾益气胶囊	1
+bu shi ai feng chen	不是爱风尘	1
+bu shi ci chi bian	不似此池边	1
+bu shi ming	布施明	1
+bu shi ren jian fu gui hua	不是人间富贵花	1
+bu shi ren jian pian wo lao	不是人间偏我老	1
+bu shi sha ren zhe neng yi zhi	不嗜杀人者能一之	1
+bu shi shao nian shi jie	不似少年时节	1
+bu shi wen si suo ji	不是闻思所及	1
+bu si de an ge xiu qu	不思得岸各休去	1
+bu sui tao li yi shi kai	不随桃李一时开	1
+bu ta xiang	布塔乡	1
+bu ti nai fen	布替萘芬	1
+bu ti shou ti	补体受体	1
+bu tuo suo yi wo yue ming	不脱蓑衣卧月明	1
+bu wan quan xian xing	不完全显性	1
+bu wei chang tan xi	不为长叹息	1
+bu wei kun qiong ning you ci	不为困穷宁有此	1
+bu wei liu jia xian sheng wu	不为刘家贤圣物	1
+bu wei qiong yue qu su	不为穷约趋俗	1
+bu wen lang ma si	不闻郎马嘶	1
+bu wu zhi qi yi yi xi	不吾知其亦已兮	1
+bu xiang zi hu tong	布巷子胡同	1
+bu xin jun kan yi qi zhe	不信君看弈棋者	1
+bu xu chou chang yuan fang shi	不须惆怅怨芳时	1
+bu xue tou tuo fa	不学头陀法	1
+bu ye yue lin guan	不夜月临关	1
+bu yi bian shi zhi	不以辩饰知	1
+bu yi zhi qiong de	不以知穷德	1
+bu yi zhi qiong tian xia	不以知穷天下	1
+bu ying dun xing shang sui gong	不应墩姓尚随公	1
+bu yong zuan gui yu zhu shi	不用钻龟与祝蓍	1
+bu you she ji qing	不忧社稷倾	1
+bu you yu jian feng	不有雨兼风	1
+bu yu wo shi xi	不与我食兮	1
+bu yu yu lian po zheng lie	不欲与廉颇争列	1
+bu zhi he chu shi xi tian	不知何处是西天	1
+bu zhi he chu zang	不知何处葬	1
+bu zhi he chu zui	不知何处醉	1
+bu zhi he shi yi er bu xu	不知何时已而不虚	1
+bu zhi he yong gui	不知何用归	1
+bu zhi long shen xiang ji duo	不知龙神享几多	1
+bu zhi qi bu sheng ren ye	不知其不胜任也	1
+bu zhi qi meng ye	不知其梦也	1
+bu zhi qi ren ke hu	不知其人可乎	1
+bu zhi qiang wai shi shui jia	不知墙外是谁家	1
+bu zhi rou shi zhe	不知肉食者	1
+bu zhi xiu he xing	不知修何行	1
+bu zhi yi wo yin he shi	不知忆我因何事	1
+bu zhi yin yang tan	不知阴阳炭	1
+bu zhi yun yu san	不知云雨散	1
+bu zhi yun yu wo ju dong	不知云与我俱东	1
+bu zhong yi qi ke li	补中益气颗粒	1
+bu zi de er de bi zhe	不自得而得彼者	1
+bu zu yi wei bian	不足以为辩	1
+bu zu yi wei guang	不足以为广	1
+bu zu yi zi quan	不足以自全	1
+bu chang jia fu xiang chang	布昌加副项鲿	0
+bu de san zu lou chong	布德三足篓虫	0
+bu deng chi tu mao ying	不等齿突猫萤	0
+bu deng ci mao yuan xian chong	不等刺毛圆线虫	0
+bu deng ye hua xi xie	不等叶华溪蟹	0
+bu dui cheng zhao chao xie	不对称招潮蟹	0
+bu fa luo qiang ji du fu yu	布法罗强棘杜父鱼	0
+bu gui ze fang chui luo	不规则纺锤螺	0
+bu gui ze gan lan chong	不规则橄榄虫	0
+bu gui ze gu bei lei	不规则古杯类	0
+bu gui ze hai dan ya gang	不规则海胆亚纲	0
+bu kan nan shi wen xiong zhao	布坎南氏纹胸鮡	0
+bu lai si xin guang chun yu	布莱斯新光唇鱼	0
+bu lao quan yu	不老泉鱼	0
+bu lei di xiao kou chong	布雷迪笑口虫	0
+bu lei wei mao kou nian	布雷维毛口鲶	0
+bu lei wei zhao chao xie	布雷维招潮蟹	0
+bu li qi bo yu	布里奇波鱼	0
+bu li si ke mao li yu	布里斯克矛丽鱼	0
+bu li si tuo er zhu wen jin	布里斯托尔朱文金	0
+bu lie dian gao shou shui mu	不列颠高手水母	0
+bu lie dian ge lun bi ya lang	不列颠哥伦比亚狼	0
+bu long si ge luo fu long	布隆斯格罗夫龙	0
+bu long si ge luo fu long shu	布隆斯格罗夫龙属	0
+bu lu dao shan wei ying ge	布鲁岛扇尾鹦哥	0
+bu lu dao zhang ban shang feng die	布鲁岛长斑裳凤蝶	0
+bu lu juan ju	布鲁鹃鵙	0
+bu lu la mei li nu yang	布鲁拉美利奴羊	0
+bu lu mu long shou shu	布鲁姆龙兽属	0
+bu lu nuo ru la lie quan	布鲁诺汝拉猎犬	0
+bu lu sai er juan mao quan	布鲁塞尔卷毛犬	0
+bu lu shi ye ling	布鲁氏野鲮	0
+bu lu si gui xie	布鲁斯鬼蟹	0
+bu lu tai ke lie huan xiong quan	布鲁泰克猎浣熊犬	0
+bu lu xiu yan niao	布鲁绣眼鸟	0
+bu luo ke shi hai zhu yu	布罗克氏海蠋鱼	0
+bu ming zhen xiang	布榠珍象	0
+bu mu po lai ying ha	布目泊来樱蛤	0
+bu ru nong suo	哺乳浓缩	0
+bu ru xing ju chi shou	哺乳形巨齿兽	0
+bu shi du fu yuan qi yu	布氏杜父圆鳍鱼	0
+bu shi gang guo deng jiang	布氏刚果灯鳉	0
+bu shi juan guan luo	布氏捲管螺	0
+bu shi ni qiang ya ju kou yu	布氏拟强牙巨口鱼	0
+bu shi xia jiang	布氏鰕鳉	0
+bu shi ying yi	布氏樱鮨	0
+bu shi zhang hui jing	布氏长喙鲸	0
+bu shi zhu ru ju xi	布氏侏儒巨蜥	0
+bu shu neng shou yin du mang	捕鼠能手印度蟒	0
+bu wen man luo	布紋鬘螺	0
+bu xi lei deng long ji jiao	布希勒灯笼棘鲛	0
+bu xi lei fu dan ji tun	布希勒副单棘鲀	0
+bu xian kou bi ying	不显口鼻蝇	0
+bu xin guang chun yu	布新光唇鱼	0

@@ -1,0 +1,942 @@
+nv ren	女人	500957
+nv xing	女性	500651
+nv hai	女孩	500470
+nv zi	女子	500340
+nv shi	女士	472350
+nv sheng	女生	441040
+nv hai zi	女孩子	319465
+nv you	女友	216245
+nv peng you	女朋友	204030
+nv de	女的	187630
+nv zhuang	女装	108570
+nv er	女儿	99999
+nv shen	女神	97100
+nv fang	女方	94700
+nv zhu jue	女主角	84320
+nv wang	女王	82520
+nv lang	女郎	74950
+nv zhi gong	女职工	68160
+nv da xue sheng	女大学生	50895
+nv xu	女婿	46210
+nv xing	女星	46195
+nv ge shou	女歌手	45915
+nv ren shi	女人是	42810
+nv gong	女工	36565
+nv yan yuan	女演员	35455
+nv ren men	女人们	35260
+nv hai er	女孩儿	34490
+nv shi	女式	31570
+nv tong xue	女同学	30780
+nv ren wei	女人味	29535
+nv sheng	女声	29355
+nv ren dou	女人都	28505
+nv wu	女巫	28390
+nv zhu ren	女主人	27765
+nv xue sheng	女学生	27760
+nv wa	女娲	26315
+nv gui	女鬼	24295
+nv ming xing	女明星	24225
+nv zu	女足	23910
+nv shi men	女士们	23595
+nv pai	女排	23275
+nv bing	女兵	23245
+nv tong	女童	22895
+nv xing peng you	女性朋友	22120
+nv jiao shi	女教师	21375
+nv huang	女皇	21240
+nv dan	女单	19805
+nv yong	女用	19130
+nv qing nian	女青年	18630
+nv zuo jia	女作家	18120
+nv tong shi	女同事	17465
+nv gan bu	女干部	16640
+nv ying	女婴	16035
+nv dui	女队	15805
+nv you	女优	15675
+nv qiang ren	女强人	15495
+nv xie	女鞋	15465
+nv tong zhi	女同志	15005
+nv shi	女尸	14715
+nv shuang	女双	14265
+nv xia	女侠	14060
+nv lao shi	女老师	13420
+nv sheng su she	女生宿舍	13010
+nv xing hua	女性化	12640
+nv ban	女伴	12595
+nv pu	女仆	12585
+nv hu shi	女护士	12415
+nv ren hui	女人会	12355
+nv yi ren	女艺人	12210
+nv zhen	女真	12010
+nv yao	女妖	11770
+nv mi shu	女秘书	11740
+nv ji zhe	女记者	11445
+nv shi xiang shui	女士香水	11350
+nv yong	女佣	11230
+nv sheng men	女生们	10985
+nv lao ban	女老板	10700
+nv hai men	女孩们	10120
+nv zhu ren gong	女主人公	10110
+nv lan	女篮	10020
+nv han zi	女汉子	9999
+nv kuan	女款	9999
+nv li nv qi	女里女气	9999
+nv piao	女票	9999
+nv pin	女频	9999
+nv ping	女乒	9999
+nv xiang	女相	9999
+nv xue	女靴	9999
+nv zhu	女主	9999
+nv hai zi men	女孩子们	9990
+nv yi sheng	女医生	9805
+nv se	女色	9610
+nv jing	女警	9510
+nv ren xi huan	女人喜欢	9285
+nv si ji	女司机	8425
+nv zhen	女贞	8310
+nv jiang	女将	7955
+nv quan	女权	7900
+nv jia	女家	7850
+nv ren a	女人啊	7795
+nv qi ye jia	女企业家	7725
+nv fu wu yuan	女服务员	7615
+nv bao	女包	7420
+nv tie peng	钕铁硼	7360
+nv tong bao	女同胞	7290
+nv xing zhu yi	女性主义	7270
+nv bo shi	女博士	7215
+nv ren xin	女人心	7035
+nv zhuang pin pai	女装品牌	6955
+nv wang you	女网友	6930
+nv shen	女身	6810
+nv mo	女模	6666
+nv zi zu	女子组	6545
+nv ren jie	女人街	6520
+nv xing sheng zhi	女性生殖	6495
+nv gao yin	女高音	6445
+nv zhong	女中	6275
+nv fang jia	女方家	6120
+nv shi ren	女诗人	6085
+nv ke	女客	6015
+nv ren ma	女人吗	5770
+nv ku	女裤	5740
+nv zhu chi	女主持	5675
+nv ce suo	女厕所	5665
+nv ti	女体	5590
+nv bao	女宝	5555
+nv quan zhu yi	女权主义	5530
+nv mo te	女模特	5490
+nv zhan shi	女战士	5490
+nv sheng qin shi	女生寝室	5385
+nv yuan gong	女员工	5280
+nv wa	女娃	5180
+nv ren de shen ti	女人的身体	5160
+nv zi dan da	女子单打	5110
+nv zhi yuan	女职员	5080
+nv yi hao	女一号	5030
+nv quan	女拳	5000
+nv pei jue	女配角	4975
+nv xing mei li	女性魅力	4955
+nv ban nan zhuang	女扮男装	4875
+nv ren xiang	女人香	4850
+nv zhen zi	女贞子	4790
+nv xing xing xiang	女性形象	4720
+nv shen xiang	女神像	4690
+nv zi shi er yue fang	女子十二乐坊	4670
+nv xuan shou	女选手	4640
+nv zhu jue jiang	女主角奖	4625
+nv zi da xue	女子大学	4510
+nv jue	女角	4435
+nv xing jue se	女性角色	4410
+nv xiao	女校	4400
+nv zhu chi ren	女主持人	4345
+nv er jia	女儿家	4330
+nv tuan	女团	4300
+nv ying xiong	女英雄	4290
+nv shu	女书	4280
+nv zi tuan ti	女子团体	4275
+nv jie	女杰	4145
+nv gong	女红	4125
+nv mo tou	女魔头	4120
+nv zhuang pi fa	女装批发	4100
+nv yan jiu sheng	女研究生	4095
+nv ren hua	女人花	4070
+nv jiao shou	女教授	4045
+nv di zi	女弟子	3990
+nv tong xing lian	女同性恋	3930
+nv xing yong pin	女性用品	3910
+nv guan	女官	3875
+nv er hong	女儿红	3840
+nv yong qi ju	女用器具	3815
+nv nv	女女	3790
+nv nu	女奴	3650
+nv jing cha	女警察	3595
+nv ce	女厕	3580
+nv lv shi	女律师	3385
+nv xing sheng li	女性生理	3380
+nv nan	女男	3360
+nv yan yuan jiang	女演员奖	3355
+nv ban gong shi zhi yuan	女办公室职员	3333
+nv chao ji da fan pai	女超级大反派	3333
+nv chao ji ying xiong	女超级英雄	3333
+nv cheng xu yuan	女程序员	3333
+nv chu shi	女厨师	3333
+nv da fan pai	女大反派	3333
+nv dai fu	女大夫	3333
+nv deng shen	女灯神	3333
+nv dian gong	女电工	3333
+nv fa shi	女法师	3333
+nv fan pai	女反派	3333
+nv gong chang gong ren	女工厂工人	3333
+nv gong ren	女工人	3333
+nv hua xue jia	女化学家	3333
+nv huai dan	女坏蛋	3333
+nv ji gong	女技工	3333
+nv ji shu yuan	女技术员	3333
+nv jian zhu gong	女建筑工	3333
+nv jian zhu gong ren	女建筑工人	3333
+nv jiang shi	女僵尸	3333
+nv jing ling	女精灵	3333
+nv ju zhong yun dong yuan	女举重运动员	3333
+nv kai fa ren yuan	女开发人员	3333
+nv ke xue jia	女科学家	3333
+nv ma chu	女码畜	3333
+nv ma nong	女码农	3333
+nv man hua jia	女漫画家	3333
+nv mo shu shi	女魔术师	3333
+nv nong min gong	女农民工	3333
+nv ren de	女人的	3333
+nv sang shi	女丧尸	3333
+nv sheng chong lang	女生冲浪	3333
+nv sheng ju zhong	女生举重	3333
+nv sheng wan shui qiu	女生玩水球	3333
+nv sheng you yong	女生游泳	3333
+nv shi biao zhi	女士标志	3333
+nv shi chen shan	女士衬衫	3333
+nv shi fu hao	女士符号	3333
+nv shi liang xie	女式凉鞋	3333
+nv shi qian bao	女士钱包	3333
+nv shui guan gong	女水管工	3333
+nv wei bing	女卫兵	3333
+nv wei shi	女卫士	3333
+nv xi shou jian	女洗手间	3333
+nv xi xie gui	女吸血鬼	3333
+nv xi xue gui	女吸血鬼	3333
+nv xiao fang yuan	女消防员	3333
+nv xin lang	女新郎	3333
+nv xing shi zou rou	女行尸走肉	3333
+nv xiu li gong	女修理工	3333
+nv yao gun ge shou	女摇滚歌手	3333
+nv yi hu ren yuan	女医护人员	3333
+nv yi shu jia	女艺术家	3333
+nv zhen tan	女侦探	3333
+nv shi	女师	3315
+nv zai	女仔	3260
+nv fan	女犯	3170
+nv juan	女眷	3165
+nv shang si	女上司	3115
+nv jing guan	女警官	3105
+nv yun dong yuan	女运动员	3085
+nv zi shuang da	女子双打	3045
+nv shi	女侍	3035
+nv sha shou	女杀手	3005
+nv xing xing yu	女性性欲	2995
+nv bin	女宾	2985
+nv wa	女袜	2830
+nv ge xing	女歌星	2820
+nv xing nei yi	女性内衣	2785
+nv qiu mi	女球迷	2765
+nv shi you xian	女士优先	2760
+nv jing li	女经理	2750
+nv zhao dai	女招待	2730
+nv ji si	女祭司	2715
+nv di	女帝	2700
+nv gao zhong sheng	女高中生	2700
+nv ren yuan	女人缘	2675
+nv bai ling	女白领	2660
+nv hua jia	女画家	2660
+nv dao yan	女导演	2625
+nv zei	女贼	2610
+nv liu mang	女流氓	2525
+nv mo	女魔	2525
+nv wa bu tian	女娲补天	2475
+nv ban	女版	2390
+nv zhong xue sheng	女中学生	2365
+nv zhi gong lao dong	女职工劳动	2361
+nv ying xing	女影星	2355
+nv xing zi wei	女性自慰	2335
+nv zhong hao jie	女中豪杰	2325
+nv zhi qing	女知青	2280
+nv liu	女流	2265
+nv zhen zu	女真族	2245
+nv qiang	女枪	2222
+nv cheng ke	女乘客	2215
+nv zhui nan	女追男	2175
+nv dian yuan	女店员	2170
+nv ren yi sheng	女人一生	2135
+nv yin	女阴	2130
+nv zi jian yu	女子监狱	2125
+nv ren shi jie	女人世界	2080
+nv dian zhu	女店主	2065
+nv shuo shi	女硕士	2060
+nv ban nan	女扮男	2040
+nv fa guan	女法官	2040
+nv qun	女裙	2040
+nv wang bi xia	女王陛下	2025
+nv xing bu yun	女性不孕	2015
+nv zhi gong lao dong bao hu	女职工劳动保护	2004
+nv xing xiao fei	女性消费	1980
+nv er qiang	女儿墙	1915
+nv zhu shou	女助手	1890
+nv sheng du chang	女声独唱	1885
+nv ren jia	女人家	1880
+nv shi nei yi	女士内衣	1875
+nv hui yuan	女会员	1835
+nv mo fa shi	女魔法师	1815
+nv chao ren	女超人	1760
+nv pa jia cuo lang	女怕嫁错郎	1740
+nv quan yun dong	女权运动	1720
+nv hai zi jia	女孩子家	1710
+nv huang di	女皇帝	1695
+nv wa wa	女娃娃	1645
+nv zi wang qiu	女子网球	1640
+nv shi zhu	女施主	1620
+nv da dang jia	女大当嫁	1610
+nv se lang	女色狼	1605
+nv zi zu qiu	女子足球	1600
+nv guan jia	女管家	1595
+nv fa yan ren	女发言人	1575
+nv qiu	女囚	1570
+nv dao shi	女道士	1550
+nv sheng ban	女生版	1545
+nv ge shou jiang	女歌手奖	1540
+nv shou huo yuan	女售货员	1515
+nv jiang jun	女将军	1475
+nv jun guan	女军官	1475
+nv zhong yin	女中音	1460
+nv fei xing yuan	女飞行员	1435
+nv biao	女表	1430
+nv sheng bu	女生部	1430
+nv xing qi zhi	女性气质	1425
+nv zhu chang	女主唱	1425
+nv de a	女的啊	1415
+nv shi zhu	女事主	1415
+nv shi	女史	1400
+nv yong ren	女佣人	1345
+nv zi pai qiu	女子排球	1345
+nv da shi ba bian	女大十八变	1340
+nv lei	女垒	1320
+nv wang feng	女王蜂	1305
+nv ti cheng	女体盛	1285
+nv gong wei	女工委	1280
+nv qi shi	女骑士	1240
+nv liu xue sheng	女留学生	1205
+nv ren qi	女人气	1195
+nv liu zhi bei	女流之辈	1190
+nv zi wu cai bian shi de	女子无才便是德	1190
+nv jian cha guan	女检察官	1185
+nv zhuang she ji	女装设计	1185
+nv fang dong	女房东	1175
+nv ju shi	女居士	1175
+nv bo jue	女伯爵	1170
+nv fei zei	女飞贼	1155
+nv er jie	女儿节	1140
+nv qiang	女腔	1139
+nv xing jing	女刑警	1115
+nv fei	女匪	1111
+nv fu wu sheng	女服务生	1111
+nv tong	女同	1111
+nv xing men	女性们	1111
+nv yi	女一	1111
+nv yuan	女院	1111
+nv zun	女尊	1111
+nv bian ji	女编辑	1060
+nv qiang	女墙	1060
+nv zhi gong lao dong bao hu gui ding	女职工劳动保护规定	1048
+nv bao	女报	1026
+nv zhu guan	女主管	1015
+nv zhuang yuan	女状元	1010
+nv zi lan qiu	女子篮球	1010
+nv jian	女监	999
+nv qi	女气	999
+nv wa zi	女娃子	970
+nv zi xiang mu	女子项目	970
+nv fu ma	女驸马	950
+nv zhu li	女助理	930
+nv sheng ban	女声版	905
+nv yu shi	女浴室	900
+nv pian zi	女骗子	875
+nv zhuang dian	女装店	875
+nv qi jing	女骑警	870
+nv xing xue	女性学	855
+nv guan	女冠	835
+nv xiao zhang	女校长	820
+nv er he	女儿和	812
+nv xing wei	女性为	811
+nv min bing	女民兵	775
+nv jiao yuan	女教员	750
+nv bi	女婢	745
+nv gong zi	女公子	725
+nv shi zhang	女市长	725
+nv she ji shi	女设计师	700
+nv mo te er	女模特儿	695
+nv mao	女帽	685
+nv yao jing	女妖精	685
+nv chen shan	女衬衫	675
+nv er xue xi	女儿学习	670
+nv hang tian yuan	女航天员	670
+nv shang yi	女上衣	660
+nv ying mi	女影迷	655
+nv bi ye sheng	女毕业生	630
+nv ren xin shi	女人心事	625
+nv yi yuan	女议员	620
+nv er jing	女儿经	605
+nv xue zhe	女学者	595
+nv ren pian	女人篇	590
+nv gong jue	女公爵	585
+nv ji cheng ren	女继承人	575
+nv da bu zhong liu	女大不中留	570
+nv bao biao	女保镖	555
+nv di yin	女低音	545
+nv ge chang jia	女歌唱家	545
+nv neng ren	女能人	545
+nv ren shi de	女人似的	535
+nv she ying shi	女摄影师	530
+nv er he	女儿河	505
+nv hai dao	女海盗	495
+nv lao zong	女老总	490
+nv fang ke	女房客	480
+nv ren meng	女人梦	475
+nv xiu dao yuan	女修道院	475
+nv zi quan neng	女子全能	465
+nv shi zhe	女侍者	460
+nv su she	女宿舍	455
+nv geng yi shi	女更衣室	450
+nv qing nian hui	女青年会	450
+nv shan	女衫	440
+nv tu	女徒	440
+nv you xie zhen	女优写真	440
+nv wu shi	女巫师	435
+nv che shou	女车手	430
+nv da yi	女大衣	425
+nv jie	女诫	425
+nv cheng wu yuan	女乘务员	420
+nv cai feng	女裁缝	415
+nv yu hang yuan	女宇航员	405
+nv wu shi	女武士	400
+nv pai sai	女排赛	395
+nv da shi	女大使	390
+nv bin xiang	女傧相	385
+nv ye zhu	女业主	375
+nv zhan shen	女战神	375
+nv nu li	女奴隶	370
+nv guan zi	女冠子	365
+nv shi zhen tu	女史箴图	365
+nv ren zhi	女人志	364
+nv mu shi	女牧师	360
+nv qi gai	女乞丐	350
+nv zi dui	女子队	335
+nv zu sai	女足赛	335
+nv ren mei	女人美	320
+nv dao shi	女导师	305
+nv shi xi fu	女式西服	300
+nv zhu xi	女主席	295
+nv zhao nan	女找男	275
+nv guan yuan	女官员	265
+nv lie ren	女猎人	265
+nv wu ban	女舞伴	255
+nv ju ren	女巨人	245
+nv zi ming	女子名	245
+nv yao guai	女妖怪	235
+nv bian nan	女变男	230
+nv jia zhang	女家长	230
+nv niu zai	女牛仔	205
+nv she	女舍	205
+nv zi qian qiu	女子铅球	200
+nv wang hong	女网红	199
+nv ju zhang	女局长	196
+nv ke ren	女客人	195
+nv zu zhang	女族长	195
+nv wang dian xia	女王殿下	194
+nv wei jia	女未嫁	193
+nv xing tong bao	女性同胞	193
+nv er nv xu	女儿女婿	191
+nv you shi jiao	女友视角	189
+nv dui yuan	女队员	187
+nv you cheng shuang	女友成双	187
+nv pu ka fei	女仆咖啡	182
+nv xia jie	女侠节	182
+nv te wu	女特务	181
+nv er guo guo wang	女儿国国王	179
+nv ge dou	女格斗	177
+nv zu ke	女租客	177
+nv qiang shou	女枪手	173
+nv fu jing	女辅警	170
+nv pu ka fei ting	女仆咖啡厅	166
+nv zi ju zhong	女子举重	165
+nv gui qiao	女鬼桥	164
+nv shen jiang lin	女神降临	163
+nv bian ju	女编剧	161
+nv hei ren	女黑人	160
+nv yu yan jia	女预言家	160
+nv guan zhong	女观众	159
+nv shu ji	女书记	158
+nv dan jue sai	女单决赛	156
+nv ci ke	女刺客	155
+nv qiang fei	女抢匪	155
+nv shui yi	女睡衣	150
+nv rou dao	女柔道	149
+nv ji qi ren	女机器人	148
+nv sheng zhi qi	女生殖器	145
+nv tian gou	女天狗	144
+nv bao jie	女保洁	142
+nv ren ming	女人名	140
+nv you ke	女游客	140
+nv xia shu	女下属	139
+nv zhi zhai	女织寨	138
+nv qi shou	女骑手	136
+nv xing men	女星们	136
+nv qiang nan ruo	女强男弱	131
+nv shu shi	女术士	131
+nv bo li	钕玻璃	130
+nv wu mao	女巫帽	130
+nv dan guan jun	女单冠军	126
+nv ji zhong ying	女集中营	125
+nv ren ru hua	女人如花	125
+nv tuan wu	女团舞	123
+nv hai wang	女海王	122
+nv ping pang	女乒乓	121
+nv tong bao men	女同胞们	121
+nv sheng you	女声优	119
+nv de ban	女德班	115
+nv xin li shi	女心理师	115
+nv zi ti cao	女子体操	115
+nv bao jun	女暴君	113
+nv che	女车	111
+nv da	女大	111
+nv er	女二	111
+nv fen	女粉	111
+nv ming	女名	111
+nv pei	女配	111
+nv shang	女上	111
+nv tu	女图	111
+nv xue	女学	111
+nv bao an	女保安	110
+nv xing yong hu	女性用户	109
+nv zi ben ruo	女子本弱	108
+nv pu ren	女仆人	105
+nv zi fang shen shu	女子防身术	102
+nv an mo shi	女按摩师	100
+nv ban zhang	女班长	100
+nv bu ru zang	女不入藏	100
+nv bu zhang	女部长	100
+nv chang ku	女长裤	100
+nv chang kuan	女长款	100
+nv chang xiu	女长袖	100
+nv chang xiu chen shan	女长袖衬衫	100
+nv chou ju chang	女丑剧场	100
+nv chu zhang	女处长	100
+nv cun zhang	女村长	100
+nv da bi fu	女大避父	100
+nv da nan liu	女大难留	100
+nv da xu jia	女大须嫁	100
+nv da xue sheng su she	女大学生宿舍	100
+nv da yao shi ba bian	女大要十八变	100
+nv dan yao	女弹药	100
+nv dan zi you hua	女单自由滑	100
+nv dian zhang	女店长	100
+nv diao si	女屌丝	100
+nv dong shi zhang	女董事长	100
+nv dui zhang	女队长	100
+nv duo nan shao	女多男少	100
+nv e mo	女恶魔	100
+nv er can jia	女儿参加	100
+nv er cha	女儿茶	100
+nv er chu jia le	女儿出嫁了	100
+nv er dao	女儿岛	100
+nv er de	女儿的	100
+nv er de cheng zhang	女儿的成长	100
+nv er de zhang xiang	女儿的长相	100
+nv er fen	女二粉	100
+nv er guo	女儿国	100
+nv er hai xiao	女儿还小	100
+nv er qing	女儿情	100
+nv er qing chang mai zang	女儿情长埋葬	100
+nv er shen	女儿身	100
+nv er shen bian	女儿身边	100
+nv er zhang da	女儿长大	100
+nv er zhang da hou	女儿长大后	100
+nv er zhang xiang	女儿长相	100
+nv fang jia zhang	女方家长	100
+nv fen hong	女粉红	100
+nv fen si	女粉丝	100
+nv fu xian zhang	女副县长	100
+nv gao tui li ban	女高推理班	100
+nv ge dou jia	女格斗家	100
+nv gu shou	女鼓手	100
+nv hai cheng zhang	女孩成长	100
+nv hai chuan zhe	女孩穿着	100
+nv hai de	女孩的	100
+nv hai de gan jue	女孩的感觉	100
+nv hai de jia zhang	女孩的家长	100
+nv hai dou xi huan	女孩都喜欢	100
+nv hai gan jue	女孩感觉	100
+nv hai xin sheng	女孩心声	100
+nv hai yi ge	女孩一个	100
+nv hai zhang da	女孩长大	100
+nv hai zhang da hou	女孩长大后	100
+nv hai zi dou hui xi huan	女孩子都会喜欢	100
+nv hai zi dou xi huan	女孩子都喜欢	100
+nv han zhi	女汉纸	100
+nv hong jun	女红军	100
+nv ji shi	女技师	100
+nv ji zhang	女机长	100
+nv jia nan hun	女嫁男婚	100
+nv jian zhang	女舰长	100
+nv jiao e	女娇娥	100
+nv jing yuan	女警员	100
+nv jue dou shi	女角斗士	100
+nv jue se	女角色	100
+nv kong cheng	女空乘	100
+nv kong zhong cheng wu yuan	女空中乘务员	100
+nv kuai ji	女会计	100
+nv kuan chang xiu	女款长袖	100
+nv kuan yun dong chang ku	女款运动长裤	100
+nv lan sai	女篮赛	100
+nv lang ju le bu	女狼俱乐部	100
+nv lao qian	女老千	100
+nv liu wei xin	女留微信	100
+nv liu wei xin nan zi qiang	女留微信男自强	100
+nv mao lang cai	女貌郎才	100
+nv nan ping deng	女男平等	100
+nv niu zai ku	女牛仔裤	100
+nv pai bi sai	女排比赛	100
+nv pai dui zhang	女排队长	100
+nv pai jia you	女排加油	100
+nv pang pang	女胖胖	100
+nv pei chong sheng	女配重生	100
+nv pei jue jiang	女配角奖	100
+nv peng you le	女朋友了	100
+nv peng you ma	女朋友吗	100
+nv peng you mei	女朋友没	100
+nv pu you huo	女仆诱惑	100
+nv pu zhuang	女仆装	100
+nv qi shou	女旗手	100
+nv qin shi	女寝室	100
+nv qing jie	女清洁	100
+nv qiu zhang	女酋长	100
+nv quan ba	女拳霸	100
+nv quan ju le bu	女权俱乐部	100
+nv ren chi shen me	女人吃什么	100
+nv ren dang nan ren yong	女人当男人用	100
+nv ren dao le zhong nian	女人到了中年	100
+nv ren de di wei	女人的地位	100
+nv ren de gan jue	女人的感觉	100
+nv ren de kuai le	女人的快乐	100
+nv ren de yi sheng	女人的一生	100
+nv ren de zhi jue	女人的直觉	100
+nv ren di wei	女人地位	100
+nv ren dou xi huan	女人都喜欢	100
+nv ren dou yi yang	女人都一样	100
+nv ren dui	女人堆	100
+nv ren dui li	女人堆里	100
+nv ren er dui	女人儿堆	100
+nv ren er dui li	女人儿堆里	100
+nv ren gan jue	女人感觉	100
+nv ren he gou	女人和狗	100
+nv ren he gou jiao pei	女人和狗交配	100
+nv ren he gou xing jiao	女人和狗性交	100
+nv ren he hai zi	女人和孩子	100
+nv ren he nan ren	女人和男人	100
+nv ren he nan ren yi yang	女人和男人一样	100
+nv ren he nv ren	女人和女人	100
+nv ren he xiao hai	女人和小孩	100
+nv ren he xiao hai er	女人和小孩儿	100
+nv ren he xiao hai zi	女人和小孩子	100
+nv ren hui jue de	女人会觉得	100
+nv ren jie le hun	女人结了婚	100
+nv ren ju le bu	女人俱乐部	100
+nv ren jue de	女人觉得	100
+nv ren lai zi jin xing	女人来自金星	100
+nv ren ma	女人嘛	100
+nv ren mei you	女人没有	100
+nv ren qiang	女人腔	100
+nv ren shen me	女人什么	100
+nv ren shen mei	女人审美	100
+nv ren sheng le hai zi	女人生了孩子	100
+nv ren shi shen me	女人是什么	100
+nv ren shuo	女人说	100
+nv ren wei er	女人味儿	100
+nv ren wei er shi zu	女人味儿十足	100
+nv ren wei shi zu	女人味十足	100
+nv ren xin hai di zhen	女人心海底针	100
+nv ren yao dong de	女人要懂得	100
+nv ru zheng	女乳症	100
+nv shang nan xia	女上男下	100
+nv shang wei	女上位	100
+nv shao nan duo	女少男多	100
+nv she jian	女舍监	100
+nv she zhang	女社长	100
+nv shen cao	女神操	100
+nv shen de mu yang	女神的模样	100
+nv shen di wei	女神地位	100
+nv shen fan dian	女神饭店	100
+nv shen ji	女神祭	100
+nv shen jia	女神家	100
+nv shen jia dao	女神驾到	100
+nv shen jie	女神节	100
+nv shen jie kuai le	女神节快乐	100
+nv shen lai le	女神来了	100
+nv shen mian dan	女神免单	100
+nv shen mo te	女神模特	100
+nv shen mu yang	女神模样	100
+nv shen pai hang bang	女神排行榜	100
+nv shen shi you	女神室友	100
+nv shen wang ka	女神网咖	100
+nv shen xi lie	女神系列	100
+nv shen xiao hua	女神校花	100
+nv shen xie zhen	女神写真	100
+nv shen you li	女神有礼	100
+nv shen yu le	女神娱乐	100
+nv shen zhi lei	女神之泪	100
+nv sheng chang fa	女生长发	100
+nv sheng chang qi	女生长期	100
+nv sheng dou hen xi huan	女生都很喜欢	100
+nv sheng dou xi huan	女生都喜欢	100
+nv sheng dou xian mu	女生都羡慕	100
+nv sheng dou zhi dao	女生都知道	100
+nv sheng guan xi	女生关系	100
+nv sheng hai shi nan sheng	女生还是男生	100
+nv sheng hui jue de	女生会觉得	100
+nv sheng jie kuai le	女生节快乐	100
+nv sheng jue de	女生觉得	100
+nv sheng kan le	女生看了	100
+nv sheng kan le hui	女生看了会	100
+nv sheng kan le hui liu lei	女生看了会流泪	100
+nv sheng shen mei	女生审美	100
+nv sheng su she lou	女生宿舍楼	100
+nv sheng su she xi lie	女生宿舍系列	100
+nv sheng ti zhong	女生体重	100
+nv sheng xiao fu	女生校服	100
+nv sheng xiao shuo	女生小说	100
+nv sheng xue shen me	女生学什么	100
+nv sheng zi yong	女生自用	100
+nv shi niu zai ku	女式牛仔裤	100
+nv shi you	女室友	100
+nv shi zhuan qu	女士专区	100
+nv shi zi	女世子	100
+nv su guan	女宿管	100
+nv te jing	女特警	100
+nv tong ban	女童班	100
+nv tong jun	女童军	100
+nv tong liang xie	女童凉鞋	100
+nv tong niu zai ku	女童牛仔裤	100
+nv tong xi lie	女同系列	100
+nv tu fu	女土蝠	100
+nv tuan cheng zhang zong yi	女团成长综艺	100
+nv tuan dui zhang	女团队长	100
+nv tuan qing chun cheng zhang jie mu	女团青春成长节目	100
+nv tui you	女推友	100
+nv wa chuan shuo zhi ling zhu	女娲传说之灵珠	100
+nv wa er	女娃儿	100
+nv wa hou ren	女娲后人	100
+nv wa hou yi	女娲后裔	100
+nv wa pi fu	女娲皮肤	100
+nv wa shi	女娲氏	100
+nv wai mai yuan	女外卖员	100
+nv wang bei	女王杯	100
+nv wang jiang lin	女王降临	100
+nv wang jin xing shi	女王进行时	100
+nv wang men	女王们	100
+nv wu qian xian	女巫前线	100
+nv wu sen lin	女巫森林	100
+nv wu shen	女武神	100
+nv xi jia zu	女系家族	100
+nv xian zhang	女县长	100
+nv xiao hua	女校花	100
+nv xiao you	女校友	100
+nv xing an quan	女性安全	100
+nv xing bian yi	女性贬抑	100
+nv xing can yu	女性参与	100
+nv xing cheng zhang	女性成长	100
+nv xing dao le geng nian qi	女性到了更年期	100
+nv xing de	女性的	100
+nv xing de di wei	女性的地位	100
+nv xing de jiao du	女性的角度	100
+nv xing de jue se	女性的角色	100
+nv xing de she hui di wei	女性的社会地位	100
+nv xing de zun zhong	女性的尊重	100
+nv xing di er xing zheng	女性第二性征	100
+nv xing di wei	女性地位	100
+nv xing di wei di	女性地位低	100
+nv xing duo luo	女性堕落	100
+nv xing fei xing yuan	女性飞行员	100
+nv xing gan jue	女性感觉	100
+nv xing jiao du	女性角度	100
+nv xing jie za	女性结扎	100
+nv xing jing dui zhang	女刑警队长	100
+nv xing jue xing	女性觉醒	100
+nv xing nei fen mi shi tiao	女性内分泌失调	100
+nv xing ning shi	女性凝视	100
+nv xing quan li	女性权利	100
+nv xing quan yi	女性权益	100
+nv xing she hui di wei	女性社会地位	100
+nv xing sheng zhi xi tong	女性生殖系统	100
+nv xing tiao li	女性调理	100
+nv xing yan wu	女性厌恶	100
+nv xing yi shi de jue xing	女性意识的觉醒	100
+nv xing yi shu	女性艺术	100
+nv xing yi shu shi	女性艺术史	100
+nv xing zhang bei	女性长辈	100
+nv xing zhu jue	女性主角	100
+nv xiu cai	女秀才	100
+nv xiu dao	女修道	100
+nv xiu shi	女修士	100
+nv xiu xian chang ku	女休闲长裤	100
+nv xu ku shi na	女婿库什纳	100
+nv xu nan dang	女婿难当	100
+nv xu ri	女婿日	100
+nv xue shi	女学士	100
+nv ye bu shuang	女也不爽	100
+nv yi ming fei zhuan	女医明妃传	100
+nv yong nei yi	女用内衣	100
+nv yong pin	女用品	100
+nv you fen shou	女友分手	100
+nv you huai yun le	女友怀孕了	100
+nv you li	女友力	100
+nv you nan zuo	女右男左	100
+nv you pai hang	女优排行	100
+nv you xi lie	女优系列	100
+nv you xi lie	女友系列	100
+nv yuan su	钕元素	100
+nv yuan zhang	女院长	100
+nv zao shen	女灶神	100
+nv zhang gui	女掌柜	100
+nv zhang xu jia	女长须嫁	100
+nv zhen bu luo	女真部落	100
+nv zhi dan xi	女之耽兮	100
+nv zhi nan geng	女织男耕	100
+nv zhi shi	女执事	100
+nv zhong chang kuan kai shan	女中长款开衫	100
+nv zhong yao shun	女中尧舜	100
+nv zhong zhang fu	女中丈夫	100
+nv zhu bo	女主播	100
+nv zhu chong sheng	女主重生	100
+nv zhu dang	女主党	100
+nv zhu jue men	女主角们	100
+nv zhu jue ming zi	女主角名字	100
+nv zhu jue shi shei	女主角是谁	100
+nv zhu jue shi shui	女主角是谁	100
+nv zhu jue zhi yi	女主角之一	100
+nv zhuang xi lie	女装系列	100
+nv zhuang zhi bo	女装直播	100
+nv zi bing hu	女子冰壶	100
+nv zi bing qiu	女子冰球	100
+nv zi da tiao tai	女子大跳台	100
+nv zi de	女子的	100
+nv zi de yi sheng	女子的一生	100
+nv zi gao xiao	女子高校	100
+nv zi hua hua	女子花滑	100
+nv zi jie li	女子接力	100
+nv zi li	女子力	100
+nv zi ping pang qiu	女子乒乓球	100
+nv zi qiang	女自强	100
+nv zi shi fan xue xiao	女子师范学校	100
+nv zi shu yuan	女子书院	100
+nv zi shuang ren	女子双人	100
+nv zi su she	女子宿舍	100
+nv zi tiao shui	女子跳水	100
+nv zi xiao sheng	女子校生	100
+nv zi xue xiao	女子学校	100
+nv zi yue dui	女子乐队	100
+nv zu bi sai	女足比赛	100
+nv zu duo guan	女足夺冠	100
+nv zu gu niang	女足姑娘	100
+nv zu guan jun	女足冠军	100
+nv zu jia you	女足加油	100
+nv zu jing shen	女足精神	100
+nv zu jue sai	女足决赛	100
+nv zu niu bi	女足牛逼	100
+nv zu qiu	女足球	100
+nv zu shi jie bei	女足世界杯	100
+nv zu shi jie pai ming	女足世界排名	100
+nv zu ya zhou bei	女足亚洲杯	100
+nv zu zhi bo	女足直播	100
+nv zuo nan you	女左男右	100
+nv pin shuang wen	女频爽文	99
+nv wei yue ji zhe rong	女为悦己者容	99
+nv ren de meng	女人的梦	86
+nv xiong	女兄	85
+nv er xue	女儿学	83
+nv qin shu	女亲属	80
+nv wu po	女巫婆	80
+nv zhao dai yuan	女招待员	80
+nv zong du	女总督	75
+nv quan zhu yi fa xue	女权主义法学	74
+nv ren pa lao	女人怕老	71
+nv zhu shen	女主审	68
+nv mao xian jia	女冒险家	65
+nv guan zhi du	女官制度	54
+nv ban duan nei ku	女半短内裤	45
+nv duan nei ku	女短内裤	45
+nv ren ru yan	女人如烟	45
+nv xun an	女巡按	45
+nv yong chun yao	女用春药	45
+nv xing tian di	女性天地	38
+nv zi guo	女子国	33
+nv xiu	女宿	28
+nv shan hu da zha xie	女山湖大闸蟹	21
+nv zi jia	女子家	20
+nv xing jia liang xing ji xing	女性假两性畸形	19
+nv zhen zi jiu	女贞子酒	17
+nv xiong shou	女凶手	15
+nv wu zu	女巫族	13
+nv yi ren	女一人	13
+nv zi bao	女子胞	13
+nv wa shen qiang	女娲神枪	12
+nv pin wang wen	女频网文	11
+nv jian gong	女监工	10
+nv yao mo	女妖魔	10
+nv shen zhi jian	女神之剑	9
+nv bao shi shang	女报时尚	8
+nv shan zei	女山贼	8
+nv shen se	女神色	8
+nv xing yi wai xian	女性意外险	6
+nv shen ge	女神蛤	5
+nv xian	女仙	5
+nv xiang	女像	5
+nv xing sheng zhi qi guan e xing zhong liu	女性生殖器官恶性肿瘤	4
+nv xing zi wo fang wei	女性自我防卫	4
+nv shen zhi yan	女神之眼	3
+nv shi jie yin	女士洁阴	3
+nv zu xian	女祖先	3
+nv gao	女高	2
+nv wa lian shi bu tian chu	女娲炼石补天处	2
+nv xiu	女修	2
+nv zhi	女织	2
+nv chan yuan xi wei yu tai xi	女婵媛兮为余太息	1
+nv er nian ji shi wu liu	女儿年几十五六	1
+nv huang feng huang luo	女皇凤凰螺	1
+nv lang jian xia yuan yang jin	女郎剪下鸳鸯锦	1
+nv lang shi	女郎诗	1
+nv lao fu	女劳复	1
+nv ling	女伶	1
+nv luo yan	女萝岩	1
+nv ren bu yi zuo	女人不易做	1
+nv ren zhe chu ji	女忍者出击	1
+nv shen huang wen ge	女神黄文蛤	1
+nv shen nuo fu ke san qi wei	女神诺福克三鳍鳚	1
+nv shen xiang wei she	女神响尾蛇	1
+nv wa xi huang tu	女娲戏黄土	1
+nv wu ling	女巫岭	1
+nv wu xiao wu	女巫小屋	1
+nv xing gan bing	女性肝病	1
+nv yi wu suo si	女亦无所思	1
+nv yi wu suo yi	女亦无所忆	1
+nv zhen chi huo	女贞尺蠖	1
+nv zhen huang	女贞黄	1
+nv zhen juan ye mian ya	女贞卷叶绵蚜	1
+nv zhen qian ye tiao jia	女贞潜叶跳甲	1
+nv zhen shi gun ji ma	女贞饰棍蓟马	1
+nv zi qiang	女子腔	1
+nv zi wu cai bian shi fu	女子无才便是福	1

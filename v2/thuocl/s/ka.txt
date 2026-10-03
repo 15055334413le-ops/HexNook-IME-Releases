@@ -1,0 +1,177 @@
+ka fei yin	咖啡因	49733
+ka fei dou	咖啡豆	29973
+ka te	卡特	6799
+ka hao	卡号	6650
+ka si te luo	卡斯特罗	5037
+ka sai	卡赛	4584
+ka en	卡恩	3298
+ka luo si	卡洛斯	3219
+ka shi shi	喀什市	1911
+ka la jiao	卡拉胶	1855
+ka bu ji nuo	卡布基诺	1811
+ka nei ji	卡内基	1321
+ka te lan shu	卡特兰数	1145
+ka mi la	卡米拉	1138
+ka fei tang	咖啡糖	1077
+ka er man lv bo	卡尔曼滤波	825
+ka zi	卡滋	784
+ka li ji	咖哩鸡	711
+ka xie	咯血	647
+ka fu ka	卡夫卡	573
+ka sen	卡森	544
+ka jie miao	卡介苗	426
+ka fang jian yan	卡方检验	409
+ka er sen	卡尔森	362
+ka shi jian	卡时间	349
+ka chang shu	卡常数	333
+ka te er	卡特尔	304
+ka nai ji	卡耐基	297
+ka jing du	卡精度	284
+ka bao	卡包	282
+ka la mu	卡拉姆	260
+ka li niu rou	咖哩牛肉	207
+ka zhong	卡种	198
+ka la kun lun shan	喀喇昆仑山	181
+ka er wen	卡尔文	157
+ka fu qi miao jiang	卡夫奇妙酱	126
+ka na mei su	卡那霉素	99
+ka fei bing gan	咖啡饼干	92
+ka huan	卡环	89
+ka tong dan gao	卡通蛋糕	85
+ka tuo pu li	卡托普利	83
+ka tuo bu lai pa si	卡托布莱帕斯	76
+ka fu guo zhen	卡夫果珍	74
+ka fei ban	咖啡斑	68
+ka yi zhi	卡依之	62
+ka te han mu	卡特汉姆	52
+ka ma xi ping	卡马西平	51
+ka sa nuo wa	卡萨诺瓦	49
+ka ni ji ya	卡尼吉亚	42
+ka zhong xin	卡中心	37
+ka la tuo bie xiang	喀拉托别乡	32
+ka wa si	卡瓦斯	32
+ka fei ou lei	咖啡欧蕾	30
+ka long	卡龙	30
+ka la bu lei gen xiang	喀拉布勒根乡	29
+ka yang	卡样	29
+ka er ba qian shan	喀尔巴阡山	27
+ka tong mo tuo	卡通摩托	25
+ka zan qi jie dao	喀赞其街道	20
+ka ba xiang	卡坝乡	19
+ka la da la xiang	喀拉达拉乡	18
+ka la qin	喀喇沁	18
+ka er si ba de jue yi	卡尔斯巴德决议	17
+ka fei xiao zhen	咖啡小镇	17
+ka la tuo hai xiang	喀拉托海乡	17
+ka pu a si ni she	卡普阿斯泥蛇	17
+ka fan lun tan	卡饭论坛	16
+ka er jiao xiang	喀尔交乡	15
+ka pei ta bin	卡培他滨	14
+ka pian chuan kong	卡片穿孔	14
+ka shi ga li	喀什噶里	14
+ka di gen wei er shi ke ji	卡迪根威尔士柯基	13
+ka fei suan	咖啡酸	11
+ka la ye mu lei xiang	喀拉也木勒乡	11
+ka na si	卡纳斯	11
+ka shi dong lu jie dao	喀什东路街道	11
+ka ma xi ping pian	卡马西平片	10
+ka ta xing zhong er yan	卡他性中耳炎	10
+ka er ma ke si	卡尔马克思	9
+ka sa er si	卡萨尔斯	9
+ka ta xing jie mo yan	卡他性结膜炎	9
+ka wei di luo	卡维地洛	9
+ka er ke xiang	喀尔克乡	8
+ka fei dan gao juan	咖啡蛋糕卷	8
+ka la xi li ke xiang	喀拉希力克乡	8
+ka lei ka	卡雷卡	8
+ka pei ta bin pian	卡培他滨片	8
+ka tuo pu li pian	卡托普利片	8
+ka la xiang	卡拉乡	7
+ka re ke qi ke xiang	喀热克其克乡	7
+ka fei xiao zhao man	咖啡小爪螨	6
+ka bo	卡铂	5
+ka la ka shi zhen	喀拉喀什镇	5
+ka bo xi rou liu	卡波西肉瘤	4
+ka fei er	卡菲尔	4
+ka jie jun duo tang he suan	卡介菌多糖核酸	4
+ka lei duo er	卡蕾多儿	4
+ka qian lie su an ding san chun	卡前列素氨丁三醇	4
+ka ya ke	卡亚克	4
+ka bo mu	卡波姆	3
+ka da xiang	卡达乡	3
+ka de bei si tai er quan	卡德卑斯太尔犬	3
+ka jia dao xiang	卡加道乡	3
+ka la jiao xiang	卡拉脚乡	3
+ka mai xiang	卡麦乡	3
+ka niang	卡娘	3
+ka niang xiang	卡娘乡	3
+ka po fen jing	卡泊芬净	3
+ka wa ke xiang	喀瓦克乡	3
+ka ba la ting	卡巴拉汀	2
+ka bu luo er ba xi kao rou	卡布罗尔巴西烤肉	2
+ka li pu duo	卡立普多	2
+ka mai long ju wa	喀麦隆巨蛙	2
+ka xie bing	咯血病	2
+ka bi duo ba	卡比多巴	1
+ka bu qi nuo bing ka fei	卡布奇诺冰咖啡	1
+ka dui xiang	卡堆乡	1
+ka er da nuo	卡尔达诺	1
+ka er duo bu chang	卡尔多补偿	1
+ka fu shi pin	卡夫食品	1
+ka ha luo xiang	卡哈洛乡	1
+ka li ou ge	卡里欧鸽	1
+ka long xiang	卡龙乡	1
+ka luo lai na ying ge niao	卡罗莱纳鹦哥鸟	1
+ka luo xiang	卡罗乡	1
+ka ma duo xiang	卡玛多乡	1
+ka mo fu	卡莫氟	1
+ka nuo shi gu ding ye	卡诺氏固定液	1
+ka po san chun	卡泊三醇	1
+ka qian lie jia zhi shuan	卡前列甲酯栓	1
+ka ruo zhen	卡若镇	1
+ka shi nang keng rou	喀什馕坑肉	1
+ka wei di luo pian	卡维地洛片	1
+ka xiang	卡乡	1
+ka zhen tiao liao	卡真调料	1
+ka ban nuo zhen yi	卡斑诺针鮨	0
+ka bu wei dun wu mei wei	卡布维顿无眉鳚	0
+ka di bo dou quan	卡迪博斗犬	0
+ka di wei er shi ke ji	卡狄威尔士柯基	0
+ka duo ci shi pi	卡多朿氏魮	0
+ka er wen chong	卡尔文虫	0
+ka er wen chong shu	卡尔文虫属	0
+ka fei bao ke juan guan luo	咖啡薄壳卷管螺	0
+ka fei mie zi ji hu tian niu	咖啡灭字脊虎天牛	0
+ka gang du fu yu	卡冈杜父鱼	0
+ka ke li he ping qi wei	卡克里河平鳍鮠	0
+ka lu dan tu yu	卡路弹涂鱼	0
+ka lu hai jiao lu gui	卡鲁海角陆龟	0
+ka luo lin fu piao xia hu yu	卡罗林腹瓢鰕虎鱼	0
+ka luo lin jin si yan	卡罗琳金丝燕	0
+ka luo lin na zhang wei ying wu	卡罗林那长尾鹦鹉	0
+ka luo ta yi li yu	卡洛塔鮨丽鱼	0
+ka luo wei jiao liao	卡罗苇鹪鹩	0
+ka mai long bei	喀麦隆鹎	0
+ka mai long duan chi ying	喀麦隆短翅莺	0
+ka mai long wei da niao	喀麦隆维达鸟	0
+ka mai long ye ling	喀麦隆野鲮	0
+ka mai long yi wen xiang bi yu	喀麦隆异吻象鼻鱼	0
+ka mai long yu mao wei	喀麦隆羽毛尾	0
+ka mai long zhuo mu niao	喀麦隆啄木鸟	0
+ka mei ge mao nian	卡梅哥毛鲶	0
+ka mo long pi	卡莫隆魮	0
+ka mo zhu mu li yu	卡默珠母丽鱼	0
+ka mu lu po zun	卡姆卢珀鳟	0
+ka pei ai zhang he yu	卡佩矮长颌鱼	0
+ka po lin da tou yi	卡泼林大头蚁	0
+ka pu tuo bao luo	卡普托宝螺	0
+ka shi bu la mu zhi li	卡氏布拉姆脂鲤	0
+ka shi xiao cha chi mao bi nian	卡氏小叉齿毛鼻鲶	0
+ka shi xie zhu	卡氏蟹蛛	0
+ka si ta mei yi bao luo	卡斯塔梅易宝螺	0
+ka si te hai si luo	卡斯特海蛳螺	0
+ka si te ma lu	喀斯特马陆	0
+ka ta li na jin gang ying wu	卡塔利那金刚鹦鹉	0
+ka xi tai ya kou yu	卡希太亚口鱼	0
+ka xi wan jiao hu	卡西弯脚虎	0
+ka ye chang shen	卡椰鲳鲹	0

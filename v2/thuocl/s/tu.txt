@@ -1,0 +1,504 @@
+tu dou	土豆	1777511
+tu po	突破	293449
+tu shu guan	图书馆	163292
+tu di chu rang jin	土地出让金	55750
+tu po kou	突破口	33771
+tu di li yong zong ti gui hua	土地利用总体规划	27932
+tu di guan li fa	土地管理法	21498
+tu di cheng bao jing ying quan	土地承包经营权	21223
+tu di deng ji	土地登记	19689
+tu xing jie mian	图形界面	18475
+tu xiang chu li	图像处理	14058
+tu pian zi yuan	图片资源	11668
+tu ceng	图层	11505
+tu si	吐司	11293
+tu xing hua	图形化	11194
+tu sheng tu zhang	土生土长	10861
+tu wen	吐温	10076
+tu pian jia zai	图片加载	9183
+tu wen bing mao	图文并茂	8683
+tu pian shang chuan	图片上传	8664
+tu xing	图形	8293
+tu dou ni	土豆泥	7791
+tu pian xian shi	图片显示	7781
+tu biao	图表	7757
+tu pian huan cun	图片缓存	6250
+tu bian	突变	5678
+tu di fu ken	土地复垦	5575
+tu di chan quan	土地产权	5421
+tu lun	图论	5262
+tu xing yong hu jie mian	图形用户界面	4955
+tu zai chang	屠宰场	4953
+tu pian xia zai	图片下载	4630
+tu fa shi jian ying dui fa	突发事件应对法	4582
+tu li	图例	4514
+tu pian chu li	图片处理	4508
+tu rang wu ran	土壤污染	4437
+tu di cheng bao fa	土地承包法	4392
+tu fa gong gong wei sheng shi jian	突发公共卫生事件	4100
+tu jia zu	土家族	3555
+tu xing hua jie mian	图形化界面	3486
+tu xiang shi bie	图像识别	3143
+tu xiang fen ge	图像分割	2768
+tu pian ya suo	图片压缩	2673
+tu xiang xian shi	图像显示	2536
+tu xing ku	图形库	2484
+tu xing chu li	图形处理	2377
+tu di cheng bao he tong	土地承包合同	2203
+tu pian zhuan huan	图片转换	2183
+tu pian suo fang	图片缩放	2106
+tu xing hui zhi	图形绘制	2090
+tu xing xue	图形学	1973
+tu ba	图吧	1951
+tu di huang mo hua	土地荒漠化	1896
+tu keng	土坑	1896
+tu xiang te zheng	图像特征	1837
+tu xiang zhi liang	图像质量	1777
+tu pian zhan shi	图片展示	1774
+tu duo bian xing	凸多边形	1665
+tu dou bing	土豆饼	1644
+tu di jiao yi jia ge	土地交易价格	1633
+tu xing xuan ran	图形渲染	1621
+tu yuan	凸缘	1609
+tu xiang ya suo	图像压缩	1598
+tu xing shang xia wen	图形上下文	1594
+tu di guo you	土地国有	1525
+tu pian fu wu qi	图片服务器	1503
+tu xiang fen lei	图像分类	1483
+tu pian fang da	图片放大	1456
+tu pian ge shi	图片格式	1426
+tu lou	土楼	1387
+tu xing tu xiang	图形图像	1384
+tu suan fa	图算法	1356
+tu xing yin qing	图形引擎	1332
+tu er xun	吐尔逊	1329
+tu pian cai jian	图片裁剪	1306
+tu jie gou	图结构	1296
+tu you hua	凸优化	1273
+tu lu fan pu tao	吐鲁番葡萄	1216
+tu pian jia zai kuang jia	图片加载框架	1198
+tu pian liu lan qi	图片浏览器	1167
+tu xiang jian suo	图像检索	1150
+tu biao ku	图表库	1116
+tu ling jiang	图灵奖	1095
+tu pian liu lan	图片浏览	1094
+tu wen hun pai	图文混排	1087
+tu beng wa jie	土崩瓦解	1074
+tu pian yi bu jia zai	图片异步加载	1045
+tu sun dong	土笋冻	1041
+tu wen jiao cheng	图文教程	1038
+tu xing bian cheng	图形编程	1018
+tu pian qie huan	图片切换	1011
+tu di hou	土地后	1003
+tu di chan quan zhi du	土地产权制度	1001
+tu pian lun bo	图片轮播	992
+tu lu fan shi	吐鲁番市	968
+tu men	土门	957
+tu xing she bei	图形设备	955
+tu pian xuan zhuan	图片旋转	951
+tu xiang zeng qiang	图像增强	933
+tu xiang bian huan	图像变换	928
+tu de bian li	图的遍历	926
+tu di chu bei guan li ban fa	土地储备管理办法	886
+tu pian la shen	图片拉伸	884
+tu xing xi tong	图形系统	882
+tu xiang kong jian	图像空间	843
+tu pian shui yin	图片水印	822
+tu qiao	土桥	795
+tu xiang suo fang	图像缩放	768
+tu xiang xu lie	图像序列	768
+tu xiang jin zi ta	图像金字塔	765
+tu lao wu gong	徒劳无功	759
+tu xing fu hao	图形符号	753
+tu xing chu li qi	图形处理器	734
+tu xiang xuan zhuan	图像旋转	710
+tu pian yu lan	图片预览	709
+tu cheng	土城	705
+tu xing yong hu jie kou	图形用户接口	669
+tu pian bian ji	图片编辑	665
+tu di zhao pai gua zhi du	土地招拍挂制度	651
+tu pian shi bie	图片识别	645
+tu pian sou suo	图片搜索	617
+tu xiang lv bo	图像滤波	603
+tu de cun chu	图的存储	601
+tu di zhao biao pai mai gua pai	土地招标拍卖挂牌	595
+tu mou bu gui	图谋不轨	593
+tu xiang pi pei	图像匹配	592
+tu pian xuan ze	图片选择	591
+tu xiang bian ma	图像编码	579
+tu xiang chu li suan fa	图像处理算法	576
+tu chang	土场	565
+tu shan	土山	564
+tu xiang ti du	图像梯度	557
+tu di deng ji ban fa	土地登记办法	547
+tu dou dun niu rou	土豆炖牛肉	547
+tu zhi mo fen	涂脂抹粉	546
+tu pian he cheng	图片合成	545
+tu di di ya quan	土地抵押权	521
+tu you xu ming	徒有虚名	519
+tu xiang te zheng ti qu	图像特征提取	510
+tu biao zi ti	图标字体	509
+tu gu na xin	吐故纳新	509
+tu pian gun dong	图片滚动	492
+tu xing jie gou	图形结构	485
+tu pian guan li	图片管理	478
+tu di you chang shi yong he tong	土地有偿使用合同	474
+tu xiang pei zhun	图像配准	462
+tu shu guan li xi tong	图书管理系统	461
+tu di deng ji gui ze	土地登记规则	455
+tu xiang pin jie	图像拼接	447
+tu xiang ping mian	图像平面	443
+tu xiang chu li	图象处理	442
+tu wu da	吐乌大	435
+tu xiang he cheng	图像合成	431
+tu pian xuan ze qi	图片选择器	422
+tu xing shu ju ku	图形数据库	421
+tu pian yan zheng ma	图片验证码	417
+tu biao she ji	图标设计	415
+tu er qi ka fei	土耳其咖啡	410
+tu pian cha kan qi	图片查看器	409
+tu xiang zhi fang tu	图像直方图	405
+tu shu ju ku	图数据库	394
+tu xiang qu zao	图像去噪	387
+tu pian yuan jiao	图片圆角	381
+tu pian you hua	图片优化	377
+tu pian lun bo qi	图片轮播器	364
+tu xiang suan fa	图像算法	364
+tu xiang ping hua	图像平滑	361
+tu xing ji shu	图形技术	358
+tu dou shao pai gu	土豆烧排骨	355
+tu ling ce shi	图灵测试	344
+tu xiang sou suo	图像搜索	341
+tu xiang rong he	图像融合	329
+tu xing zi fu	图形字符	329
+tu mu shu ke shi	图木舒克市	327
+tu bian li	图遍历	313
+tu xing kai fa	图形开发	309
+tu di diao cha tiao li	土地调查条例	303
+tu xing tu xiang chu li	图形图像处理	303
+tu ling ji qi ren	图灵机器人	293
+tu xiang lv jing	图像滤镜	292
+tu gou	土沟	290
+tu lun suan fa	图论算法	285
+tu pian jian qie	图片剪切	285
+tu pian shi pei	图片适配	285
+tu xiang cai jian	图像裁剪	282
+tu sou suo	图搜索	280
+tu di deng ji zhi du	土地登记制度	275
+tu xiang han shu	图像函数	262
+tu tou bao	兔头煲	253
+tu di fen deng ding ji	土地分等定级	249
+tu lao wu yi	徒劳无益	241
+tu di er lun yan bao	土地二轮延包	240
+tu xiang chong jian	图像重建	235
+tu pian zi shi ying	图片自适应	232
+tu xing xin pian	图形芯片	232
+tu men shi	图们市	222
+tu di zhu ce chu	土地注册处	216
+tu shan	涂山	215
+tu ge nie fu	屠格涅夫	214
+tu fu ling	土茯苓	210
+tu xing suan fa	图形算法	207
+tu dou shao rou	土豆烧肉	205
+tu pian jian cai	图片剪裁	202
+tu fa xing er long	突发性耳聋	199
+tu pian te xiao	图片特效	197
+tu xiang shu ju ku	图像数据库	196
+tu xiang te xiao	图像特效	196
+tu di fa zhan quan	土地发展权	192
+tu mei su	土霉素	192
+tu cai hai ming	图财害命	184
+tu pian	涂片	183
+tu xiang li jie	图像理解	183
+tu xiang rui hua	图像锐化	182
+tu hai he	徒骇河	178
+tu hao lie shen	土豪劣绅	177
+tu si zi	菟丝子	174
+tu di cheng bao jing ying he tong	土地承包经营合同	169
+tu you qi ming	徒有其名	169
+tu zi bu chi wo bian cao	兔子不吃窝边草	165
+tu zi tu sun	徒子徒孙	161
+tu bian ji yin	突变基因	159
+tu yang jie he	土洋结合	156
+tu pian kuang jia	图片框架	154
+tu biao lei xing	图标类型	153
+tu ling wan bei	图灵完备	153
+tu fu	图符	152
+tu xiang fu yuan	图像复原	150
+tu chu	突触	149
+tu you hua	图优化	149
+tu wan	土湾	145
+tu xing gong zuo zhan	图形工作站	140
+tu xiang zhi liang ping jia	图像质量评价	139
+tu di chu shi deng ji	土地初始登记	135
+tu fa chuan shu	突发传输	134
+tu fa gong gong shi jian guan li	突发公共事件管理	132
+tu xing bao	图形包	129
+tu pu	兔脯	119
+tu xiang ju bu te zheng	图像局部特征	119
+tu xiang yuan	图像元	119
+tu di fang wu quan zheng	土地房屋权证	117
+tu di yan zi hua	土地盐渍化	117
+tu an	土安	114
+tu xing yu yan	图形语言	109
+tu di quan shu bian geng deng ji	土地权属变更登记	108
+tu cheng tou	土城头	104
+tu jue yu	突厥语	102
+tu si hu bei	兔死狐悲	98
+tu xiang tu xiang	图像图像	98
+tu shan bu zu yi wei zheng	徒善不足以为政	96
+tu qiong bi xian	图穷匕见	94
+tu er hu te	土尔扈特	90
+tu jia chong	涂家冲	89
+tu xiang qu wu	图像去雾	87
+tu xing shi bie	图形识别	86
+tu di ce hui	土地测绘	84
+tu xing shi pei qi	图形适配器	83
+tu xiang shi bie suan fa	图像识别算法	80
+tu lun zhi shi	图论知识	78
+tu ba ge	兔八哥	76
+tu rang gai liang ji	土壤改良剂	75
+tu rang wei sheng wu	土壤微生物	72
+tu di fa zhan gong si	土地发展公司	71
+tu rang xue	土壤学	71
+tu fei yuan xian er	土肥原贤二	65
+tu ling	土岭	65
+tu bian ti	突变体	59
+tu fa	秃发	59
+tu xiang dai ma	图像代码	59
+tu fa bu neng yi zi xing	徒法不能以自行	58
+tu long	土龙	58
+tu xing da yin	图形打印	58
+tu di chu rang shi yong quan	土地出让使用权	50
+tu rang zhi di	土壤质地	49
+tu xing tu biao	图形图表	49
+tu cheng zi	土城子	48
+tu huo luo wen	吐火罗文	48
+tu di sheng chan qian li	土地生产潜力	47
+tu si gou peng	兔死狗烹	45
+tu di qian	土地前	44
+tu wen dian shi	图文电视	41
+tu yang	土羊	41
+tu long lu kou	土龙路口	40
+tu yan	兔眼	40
+tu shu zi liao	图书资料	39
+tu ceng lu jing	图层路径	37
+tu er qi wen quan yu	土耳其温泉鱼	36
+tu mei	图美	36
+tu rang xing cheng	土壤形成	36
+tu men jie	涂门街	34
+tu xing she bei jie mian	图形设备界面	32
+tu xing xue ji chu	图形学基础	32
+tu bian lv	突变率	31
+tu dun	土遁	30
+tu qiong bi shou xian	图穷匕首见	30
+tu tong gou	图同构	30
+tu biao ji zhong	图标集中	29
+tu tuo kong yan	徒托空言	29
+tu di an jie	土地按揭	28
+tu qi yang mei	吐气扬眉	28
+tu dou pai gu tang	土豆排骨汤	27
+tu xing jie gou	图型结构	27
+tu xing shu ru ban	图形输入板	26
+tu cheng shi	土城市	25
+tu tan sheng ling	涂炭生灵	25
+tu di zhuan rang guo hu	土地转让过户	23
+tu jia ling	涂家岭	23
+tu ling	涂岭	23
+tu cheng zi cun	土城子村	22
+tu di ling	土地岭	22
+tu bie chong	土鳖虫	21
+tu men xin shi chang	土门新市场	21
+tu mu gong cheng he tong guan li	土木工程合同管理	20
+tu xiang ji he xue	图像几何学	20
+tu gen bao shan yang	吐根堡山羊	19
+tu shan cun	土山村	19
+tu di ding zhe wu	土地定着物	18
+tu xing shi zhen	图形失真	18
+tu long	屠隆	17
+tu zuo	土佐	17
+tu an die jia	图案叠加	16
+tu re bing	兔热病	16
+tu ba zi	土坝子	15
+tu nan yu qi yi	图难于其易	14
+tu yuan shu xing	图元属性	14
+tu shou ti cao	徒手体操	13
+tu di quan shu zhi du	土地权属制度	12
+tu wai te xiang	吐外特乡	12
+tu yan xing jia zhuang xian zhong	突眼性甲状腺肿	12
+tu yuan xing ru chong	土源性蠕虫	12
+tu fa zao sheng	突发噪声	11
+tu keng cun	土坑村	11
+tu la zhen	图拉真	11
+tu long shan zhen	土龙山镇	11
+tu rang dong wu	土壤动物	11
+tu shu guan ke hu duan	图书馆客户端	11
+tu xing bao zhen	图形保真	11
+tu yang cun	土洋村	11
+tu bo te	图伯特	10
+tu di wang	土地网	10
+tu fen jie	凸分解	10
+tu jing jie	土荆芥	10
+tu mei su pian	土霉素片	10
+tu te mo si	图特摩斯	10
+tu xiang bian jie ma qi	图像编解码器	10
+tu xing	土型	10
+tu xing xue yuan li	图形学原理	10
+tu yu fa	图语法	10
+tu zhai	涂寨	10
+tu zhuang	土庄	10
+tu men	涂门	9
+tu rang pou mian	土壤剖面	9
+tu bei mu	土贝母	8
+tu bu jia xiang	土布加乡	8
+tu di di ya quan shi xian	土地抵押权实现	8
+tu er hu tong	土儿胡同	8
+tu men lu	图门路	8
+tu zhi	土直	8
+tu dai li	兔袋狸	7
+tu men guan xiang	土门关乡	7
+tu rou dun ji jiao	兔肉炖鸡脚	7
+tu shou ji ke	吐绶鸡科	7
+tu te chan pin shi chang	土特产品市场	7
+tu da huang	土大黄	6
+tu di gong you shi yong quan	土地共有使用权	6
+tu di po	土地坡	6
+tu di wei	土地围	6
+tu ha qie fu si ji	图哈切夫斯基	6
+tu ji	屠寄	6
+tu jie xing fa shi yong da quan	图解刑法适用大全	6
+tu men shang sha	土门商厦	6
+tu rang re	土壤热	6
+tu tie mu er	图帖睦尔	6
+tu yin fei jie he	涂阴肺结核	6
+tu yuan cha	凸缘叉	6
+tu zha xiang	涂乍乡	6
+tu chu ke su xing	突触可塑性	5
+tu di deng ji dai li he tong	土地登记代理合同	5
+tu di zhu ce chu chu zhang	土地注册处处长	5
+tu dou ba ba	土豆粑粑	5
+tu dou shao shu le	土豆烧熟了	5
+tu dou song gao	土豆松糕	5
+tu er shan	兔儿山	5
+tu gu	土鼓	5
+tu ling	涂凌	5
+tu lu fan xian	吐鲁番县	5
+tu wu an na	土屋安娜	5
+tu zhang wang	涂长望	5
+tu dou shao rou ding	土豆烧肉丁	4
+tu hou lei	兔猴类	4
+tu jing cun xi kou	土井村西口	4
+tu lao fei	土老肥	4
+tu mo ji	涂膜剂	4
+tu mu xiang	土木香	4
+tu ba zi jie dao	土坝孜街道	3
+tu bu xin su mu	图布信苏木	3
+tu di chu bei zheng	土地储备证	3
+tu di cun	土堤村	3
+tu di ying zi fei yong	土地影子费用	3
+tu dou huo tui sha la	土豆火腿沙拉	3
+tu er cao quan	兔耳草醛	3
+tu jia xiang	涂家乡	3
+tu jie zhen	兔街镇	3
+tu ju	图距	3
+tu mu shu ke shi qu	图木舒克市区	3
+tu shan si du you	涂山寺独游	3
+tu shou shang	徒手伤	3
+tu te mo si san shi	图特摩斯三世	3
+tu zhai cun	涂寨村	3
+tu ba zi	土坝孜	2
+tu cheng zi jie dao	土城子街道	2
+tu chu hou mo	突触后膜	2
+tu chu qian mo	突触前膜	2
+tu er cao	兔耳草	2
+tu long da bai yi	土垄大白蚁	2
+tu mu ji zhen	图牧吉镇	2
+tu mu shu ke shi yong an ba	图木舒克市永安坝	2
+tu nian ye liu bing bing du	兔粘液瘤病病毒	2
+tu qiao xin cun	土桥新村	2
+tu shan cun	涂山村	2
+tu shan jiao er bu re	土山焦而不热	2
+tu shan lai qu shu	涂山来去熟	2
+tu shan xiang	涂山乡	2
+tu xie bing	吐血病	2
+tu yi wu liang ren zai ye	徒以吾两人在也	2
+tu yong	屠滽	2
+tu you e fu er bu zhi fa	涂有饿莩而不知发	2
+tu zi ning	涂紫凝	2
+tu chu qian yi zhi	突触前抑制	1
+tu ci yi qing fen	徒此揖清芬	1
+tu cong gou dou ru	兔从狗窦入	1
+tu da huang gan	土大黄苷	1
+tu dai li ke	兔袋狸科	1
+tu di liang	土地梁	1
+tu di shen cai chu fa guan	土地审裁处法官	1
+tu di zhi fa da quan	土地执法大全	1
+tu dou dan gao	土豆蛋糕	1
+tu dou guan men ji	土豆罐焖鸡	1
+tu fa wu gu	秃发乌孤	1
+tu fa xing mao nang yan	秃发性毛囊炎	1
+tu gan ji dan tang	兔肝鸡蛋汤	1
+tu gen tang jiang	吐根糖浆	1
+tu gou xiang	土沟乡	1
+tu gu dong cun	土古洞村	1
+tu gui wu la xiang	土贵乌拉乡	1
+tu jiao jiao	屠娇娇	1
+tu lai ya er rong mao quan	图莱亚尔绒毛犬	1
+tu lao hen fei sheng	徒劳恨费声	1
+tu ling shang jiang hui shen bi	徒令上将挥神笔	1
+tu liu wu suo shi	徒留无所施	1
+tu lun zhou wei zhi gan zhi qi	凸轮轴位置感知器	1
+tu mei su gai	土霉素钙	1
+tu men da qiao	土门大桥	1
+tu men er da jue	屠门而大嚼	1
+tu miao zi cun	土庙子村	1
+tu mu jun zhi gao yi ye	徒慕君之高义也	1
+tu nan wei ke liao	图南未可料	1
+tu qiao	涂桥	1
+tu ru liu xing guo	突如流星过	1
+tu tuo ma bing	土沱麻饼	1
+tu wu qiu chang jin xiu feng	突兀球场锦绣峰	1
+tu xing cun	土型村	1
+tu yao jiao lang bi bing kan	徒要教郎比并看	1
+tu yin dou miao fei	兔隐豆苗肥	1
+tu ying	涂瀛	1
+tu yuan	土园	1
+tu a mo tu shi ban yu	土阿莫土石斑鱼	0
+tu bei mao xu yin chi chong	凸背毛须隐翅虫	0
+tu biao ha	凸杓蛤	0
+tu bo lu si guan cong xi shuai	图伯鲁斯灌丛蟋蟀	0
+tu chu gu hu she wei	突出古湖蛇尾	0
+tu er qi fan ke di si mao	土耳其梵科迪斯猫	0
+tu er qi gong bei yi	土耳其弓背蚁	0
+tu er qi hei fei wei xie	土耳其黑肥尾蝎	0
+tu er qi xi hu	土耳其蜥虎	0
+tu gu lu long	吐谷鲁龙	0
+tu jia kuan qiao jian feng	凸颊宽鞘茧蜂	0
+tu jia nian	兔甲鲶	0
+tu jiao xiao fen die	突角小粉蝶	0
+tu ku man xiu liu	图库曼鸺鹠	0
+tu lin gen chuang long shu	图林根窗龙属	0
+tu lu ci long	吐鲁茨龙	0
+tu lu fan gui	吐鲁番鱥	0
+tu lu fan lv	吐鲁番驴	0
+tu men du fu yu	图们杜父鱼	0
+tu men gui	图们鱥	0
+tu men jiang du fu yu	图们江杜父鱼	0
+tu men jiang ya luo yu	图门江雅罗鱼	0
+tu men jiang zhong ju	图门江中鮈	0
+tu men jiang zhong ju	图们江中鮈	0
+tu qiu	鵚鹙	0
+tu shi jia nian	兔匙甲鲶	0
+tu wei cai xiao du	秃尾材小蠹	0
+tu wen jian bi xiang tun	突吻尖鼻箱鲀	0
+tu wen jiao gu yu	突吻叫姑鱼	0
+tu xing duo mian shui mu	凸形多面水母	0
+tu xiong chuang ying	突胸窗萤	0
+tu yan xiao beng huang	突眼小蹦蝗	0
+tu ye wei e hua ying	突叶伪额花蝇	0
+tu yuan lu jiao shan hu	凸圆鹿角珊瑚	0
+tu yuan ye chan	突缘叶蝉	0
+tu zuo wan bi de hu die yu	土佐湾彼得蝴蝶鱼	0
+tu zuo wan xie hua yi teng	土佐湾楔花鮨鰧	0
+tu zuo xie hua yi teng	土佐楔花鮨鰧	0
+tu zuo zhan xing yu	土佐瞻星鱼	0

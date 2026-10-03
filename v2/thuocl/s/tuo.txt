@@ -1,0 +1,204 @@
+tuo pan	托盘	128371
+tuo che	拖车	45621
+tuo qian	拖欠	32167
+tuo ying er chu	脱颖而出	31974
+tuo zhuai	拖拽	21493
+tuo guan	托管	16403
+tuo feng	驼峰	15464
+tuo jia	托架	12572
+tuo qian gong cheng kuan	拖欠工程款	12354
+tuo ma si	托马斯	8396
+tuo shui	脱水	6512
+tuo cha	沱茶	6080
+tuo zhi niu nai	脱脂牛奶	5991
+tuo pu pai xu	拓扑排序	4949
+tuo tai huan gu	脱胎换骨	4823
+tuo kou er chu	脱口而出	4502
+tuo ni	托尼	4096
+tuo zhi nai fen	脱脂奶粉	3041
+tuo ji	脱机	2890
+tuo ye	唾液	2560
+tuo shou cheng fu	托收承付	1929
+tuo luo yi	陀螺仪	1910
+tuo fa	脱发	1825
+tuo pi	脱皮	1741
+tuo yang he tang he suan	脱氧核糖核酸	1558
+tuo ye bi shi	拖曳臂式	1351
+tuo guan dai ma	托管代码	1260
+tuo shou ke de	唾手可得	1050
+tuo er si tai	托尔斯泰	901
+tuo mao	脱毛	881
+tuo chu	脱出	861
+tuo yan zheng	拖延症	856
+tuo min	脱敏	783
+tuo wei	脱位	768
+tuo ni dai shui	拖泥带水	709
+tuo ke xun	托克逊	540
+tuo pan tu biao	托盘图标	425
+tuo si tuo ye fu si ji	陀思妥耶夫斯基	388
+tuo zhuai bi	拖拽臂	384
+tuo xie	脱屑	342
+tuo ye bi shi xuan jia	拖曳臂式悬架	341
+tuo ye fen mi	唾液分泌	302
+tuo chui	脱垂	243
+tuo mei xian xiang	脱媒现象	235
+tuo zhan ou ji li de	拓展欧几里得	224
+tuo jiang he	沱江河	216
+tuo shou	托收	213
+tuo la ji chang	拖拉机厂	195
+tuo zhan zhi shi	拓展知识	189
+tuo min zhi liao	脱敏治疗	151
+tuo ye xian	唾液腺	146
+tuo pu	托普	136
+tuo ye jian ce	唾液检测	120
+tuo jiang zhi ma	脱缰之马	109
+tuo er jin	托尔金	101
+tuo luo ci ji	托洛茨基	95
+tuo cao	托槽	93
+tuo guan shu ju	托管数据	93
+tuo zhi ru	脱脂乳	89
+tuo er si	拓尔思	88
+tuo ke tuo	托克托	84
+tuo ji gong zuo	脱机工作	77
+tuo li	坨里	67
+tuo zhi mian	脱脂棉	66
+tuo yi xian jia qiao su	脱乙酰甲壳素	65
+tuo qing yi suan	脱氢乙酸	61
+tuo sui qiao	脱髓鞘	60
+tuo bu pai xu	拓补排序	51
+tuo mian zi gan	唾面自干	49
+tuo ba dao	拓跋焘	47
+tuo zhi sha bu	脱脂纱布	36
+tuo ye	拖叶	35
+tuo zi	砣子	34
+tuo min liao fa	脱敏疗法	33
+tuo ji chu li	脱机处理	28
+tuo ba gui	拓跋珪	27
+tuo jiang li	沱江里	27
+tuo yun mu chang	托云牧场	26
+tuo fang ying	驼房营	24
+tuo ge la ke lei ke xiang	托格拉克勒克乡	24
+tuo feng bi	驼峰鼻	23
+tuo ye suan	唾液酸	21
+tuo min ya gao	脱敏牙膏	20
+tuo qing yi suan na	脱氢乙酸钠	20
+tuo ye	托叶	19
+tuo yun xiang	托云乡	19
+tuo bu mei su	妥布霉素	18
+tuo ti tong shan a	托体同山阿	18
+tuo se ji	脱色剂	17
+tuo lei	拖雷	16
+tuo luo ni jing chuang	陀罗尼经幢	16
+tuo pu tie re ke xiang	托普铁热克乡	16
+tuo jin gui	驼金龟	14
+tuo ye dian fen mei	唾液淀粉酶	14
+tuo fang ying cun	驼房营村	12
+tuo kong	鵎鵼	12
+tuo ban dou fu	托板豆腐	11
+tuo fu sha xing	托氟沙星	11
+tuo niao wang da sha	鸵鸟王大厦	11
+tuo pa luo fu	托帕洛夫	11
+tuo pu yi gou mei	拓扑异构酶	11
+tuo ba si	拓跋嗣	10
+tuo si te xiang	托斯特乡	10
+tuo jiang lu	沱江路	9
+tuo yi bao lei di zhen	托依堡勒迪镇	9
+tuo bi ka an	托吡卡胺	7
+tuo jiang jie dao	鮀江街道	7
+tuo pu tie re ke zhen	托普铁热克镇	7
+tuo ri xin neng	拓日新能	7
+tuo xian	唾腺	7
+tuo yuan nang	椭圆囊	7
+tuo zheng	脱证	7
+tuo ba hong	拓跋弘	6
+tuo er ta yi nong chang	托尔塔依农场	6
+tuo ke lao	托克劳	6
+tuo kong ke	鵎鵼科	6
+tuo le jia jie qu	托乐嘉街区	6
+tuo li zhen	托里镇	6
+tuo ma si jie fu xun	托马斯杰佛逊	6
+tuo suo	脱羧	6
+tuo yuan jie dao	坨院街道	6
+tuo ba	拖坝	5
+tuo ba xiang	拖坝乡	5
+tuo gu ji zhao	脱骨鸡爪	5
+tuo tian	托田	5
+tuo bu mei su di yan ye	妥布霉素滴眼液	4
+tuo hu lou kou	脱户漏口	4
+tuo jin gua shi bi	脱巾挂石壁	4
+tuo ba	妥坝	3
+tuo ba jun	拓跋濬	3
+tuo feng shan	驼峰山	3
+tuo hu la xiang	托胡拉乡	3
+tuo ma si mo er	托马斯莫尔	3
+tuo mao lu ding wang gong qian	脱帽露顶王公前	3
+tuo mao shuang	脱毛霜	3
+tuo pu ruan jian yuan	托普软件园	3
+tuo shui chuan xin lian nei zhi	脱水穿心莲内酯	3
+tuo wan si qiong	托烷司琼	3
+tuo bei shu	驼背树	2
+tuo bi zhi pian	托吡酯片	2
+tuo ding li su zu xiang	拖顶傈僳族乡	2
+tuo ge ri ga zi xiang	托格日尕孜乡	2
+tuo mu xiang	拖木乡	2
+tuo rui mi fen	托瑞米芬	2
+tuo si man mu chang	托斯曼牧场	2
+tuo sui qiao bing	脱髓鞘病	2
+tuo wu xiang	拖乌乡	2
+tuo yang dan suan	脱氧胆酸	2
+tuo yang he tang he suan mei	脱氧核糖核酸酶	2
+tuo ye guan	唾液管	2
+tuo ye xian yan	唾液腺炎	2
+tuo zhan qi quan	拓展期权	2
+tuo ba xian	妥坝县	1
+tuo ba xiang	妥坝乡	1
+tuo ba yu	拓跋余	1
+tuo bei bi yu	驼背躄鱼	1
+tuo he jie dao	沱河街道	1
+tuo hun bu	托浑布	1
+tuo ni nai suan pian	托尼萘酸片	1
+tuo pin xian an	托品酰胺	1
+tuo pu jie dao	鮀浦街道	1
+tuo qi ru fen wan	唾弃如粪丸	1
+tuo qiao	拖桥	1
+tuo tou miao cun	陀头庙村	1
+tuo xing mei bu qian	托兴每不浅	1
+tuo yao zi zhen	驼腰子镇	1
+tuo ye ma xiang	托叶玛乡	1
+tuo ye suan mei	唾液酸酶	1
+tuo yuan bei jiao wu chi bang	椭圆背角无齿蚌	1
+tuo zha min xiang	托扎敏乡	1
+tuo bei dai long zhan li yu	驼背带龙占丽鱼	0
+tuo bei du zhi wu fang	驼背独指乌鲂	0
+tuo bei duan wen zhang wei xue	驼背短吻长尾鳕	0
+tuo bei ji an kang	驼背棘鮟鱇	0
+tuo bei long zhe shui zao	驼背隆哲水蚤	0
+tuo bei lu bian yi	驼背鲈扁鮨	0
+tuo bei qian yu	驼背潜鱼	0
+tuo bei san ci jiao chan	驼背三刺角蝉	0
+tuo bei xia xia hu yu	驼背狭鰕虎鱼	0
+tuo bei yi li yu	驼背鮨丽鱼	0
+tuo bei zhen san leng xiang tun	驼背真三棱箱鲀	0
+tuo cha xiao ye jia	驼茶肖叶甲	0
+tuo er ni gou shen	托尔逆沟鰺	0
+tuo er ni gou shen	托尔逆钩鰺	0
+tuo feng da ying zui yu	驼峰大鹦嘴鱼	0
+tuo fu bi ni feng	驼腹壁泥蜂	0
+tuo jiao chan	驼角蝉	0
+tuo jiao xiong xiao ye jia	驼角胸肖叶甲	0
+tuo jin gui ke	驼金龟科	0
+tuo jing ying zui yu	驼颈鹦嘴鱼	0
+tuo luo yi wei man nian	托罗异味鳗鲶	0
+tuo ma si nuo zhao cai mao	托马斯诺招财猫	0
+tuo pi jin zao bao luo	脱皮金枣宝螺	0
+tuo shi chang luo	托氏琩螺	0
+tuo shi nuo fu ke san qi wei	托氏诺福克三鳍鳚	0
+tuo ti ji	驼蹄鸡	0
+tuo xie zhou luo	拖鞋舟螺	0
+tuo yuan hou ke ha	椭圆厚壳蛤	0
+tuo yuan mao xie zhu	椭圆毛蟹蛛	0
+tuo yuan qian die	椭圆前鲽	0
+tuo yuan qiang fu yu	椭圆腔蝠鱼	0
+tuo yuan shi fen man	椭圆食粉螨	0
+tuo yuan si ji chong	椭圆四极虫	0
+tuo yuan zhan ti chong	椭圆粘体虫	0

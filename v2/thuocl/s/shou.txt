@@ -1,0 +1,393 @@
+shou fa	守法	3056429
+shou gou	收购	2083165
+shou ru	收入	454330
+shou an	手按	129965
+shou qu	收取	117667
+shou shu	手术	117069
+shou xi zhi xing guan	首席执行官	116146
+shou yi	收益	102220
+shou sun	受损	97533
+shou quan wei tuo shu	授权委托书	94247
+shou hui	受贿	65518
+shou hui	收回	48925
+shou fei zhan	收费站	35901
+shou chuang	首创	34603
+shou fu	首府	28478
+shou dong bian su xiang	手动变速箱	26975
+shou zi mu	首字母	20163
+shou pan	收盘	19418
+shou xu fei	手续费	18417
+shou shi	手势	16841
+shou gou jian bing	收购兼并	16702
+shou xi yun ying guan	首席运营官	16200
+shou yi lv	收益率	15458
+shou hui	受惠	13678
+shou hu jin cheng	守护进程	13475
+shou du ji chang	首都机场	12423
+shou quan jing ying	授权经营	11044
+shou bu	首部	9506
+shou dang qi chong	首当其冲	9337
+shou dong hao hua	手动豪华	8689
+shou kuan	收款	7889
+shou chu	收储	6519
+shou quan wen jian	授权文件	6361
+shou shi jia	收市价	6347
+shou yi fei qian	受益匪浅	6275
+shou dang	收当	6030
+shou ji duan	手机端	5999
+shou qu yi zhi	首屈一指	5537
+shou fu kuan	首付款	5312
+shou ding	售定	5092
+shou hui tu di shi yong quan	收回土地使用权	4620
+shou xi lv shi	首席律师	4599
+shou xuan xiang	首选项	4574
+shou dong kong tiao	手动空调	4304
+shou kuan ping zheng	收款凭证	3956
+shou wang xiang zhu	守望相助	3898
+shou zu wu cuo	手足无措	3844
+shou wei tuo ren	受委托人	3839
+shou dong shu ru	手动输入	3793
+shou xian	寿险	3680
+shou tu you ze	守土有责	3639
+shou hu xian cheng	守护线程	3527
+shou an	收案	3406
+shou mang jiao luan	手忙脚乱	3366
+shou zu kou bing	手足口病	3318
+shou ji ying yong	手机应用	3251
+shou gou	手钩	3250
+shou la hu lu	手拉葫芦	3162
+shou zhua yang rou	手抓羊肉	2908
+shou xi da fa guan	首席大法官	2860
+shou cang jia	收藏夹	2810
+shou you	手游	2711
+shou gou tu di	收购土地	2662
+shou rang gu quan	受让股权	2589
+shou xi fa lv gu wen	首席法律顾问	2576
+shou wu zu dao	手舞足蹈	2486
+shou ji xi tong	手机系统	2479
+shou shi shi bie	手势识别	2413
+shou wu cun tie	手无寸铁	2216
+shou ji liu lan qi	手机浏览器	2070
+shou shi	收市	2037
+shou yi fang	受益方	2011
+shou ti	受体	2010
+shou zhu dai tu	守株待兔	1931
+shou ji you xi	手机游戏	1835
+shou zhi yu ren	受制于人	1775
+shou ji kai fa	手机开发	1680
+shou ren min jian du	受人民监督	1666
+shou fei gong lu guan li tiao li	收费公路管理条例	1613
+shou hu cheng xu	守护程序	1600
+shou pan jia	收盘价	1500
+shou zhong zheng qin	寿终正寝	1419
+shou shi cao zuo	手势操作	1410
+shou ji zhu shou	手机助手	1319
+shou fang ji	收放机	1304
+shou xia liu qing	手下留情	1297
+shou jin	收进	1280
+shou jing luan	受精卵	1209
+shou xie dai ma	手写代码	1194
+shou ji cao zuo xi tong	手机操作系统	1177
+shou kou ru ping	守口如瓶	1177
+shou chong ruo jing	受宠若惊	1172
+shou ci bao yang	首次保养	1107
+shou ji duan xin	手机短信	1088
+shou gou dan wei	收购单位	1057
+shou ye jie huo	授业解惑	1014
+shou yi zhan	兽医站	961
+shou guang shi	寿光市	954
+shou yao guan li tiao li	兽药管理条例	951
+shou jing	受精	939
+shou du tu shu guan	首都图书馆	933
+shou ji xing hao	手机型号	914
+shou jian zhi xing	收监执行	903
+shou shi hua dong	手势滑动	893
+shou zhang	手杖	870
+shou gong ce shi	手工测试	860
+shou si niu rou	手撕牛肉	858
+shou lou bu	售楼部	840
+shou xie shu zi	手写数字	832
+shou xin he tong	授信合同	810
+shou quan biao	授权表	797
+shou xi jia gou shi	首席架构师	788
+shou hui feng xian	收汇风险	722
+shou fu wu lu mu qi	首府乌鲁木齐	715
+shou xing suo jin	首行缩进	706
+shou shi shi bie qi	手势识别器	700
+shou si ji	手撕鸡	693
+shou yang	寿阳	693
+shou shan zhi qu	首善之区	683
+shou ji zhen dong	手机震动	660
+shou ji ce shi	手机测试	656
+shou xie ti	手写体	648
+shou ji tong xun lu	手机通讯录	636
+shou cang pin	收藏品	616
+shou ji shi chang	手机市场	592
+shou fei ruan jian	收费软件	577
+shou hui quan	收回权	564
+shou pai dang	手排挡	543
+shou gu lin xun	瘦骨嶙峋	527
+shou ji zhi fu	手机支付	527
+shou wei xiang lian	首尾相连	522
+shou bao hu zi yuan	受保护资源	508
+shou quan qian zi ren	授权签字人	500
+shou ji wang zhan	手机网站	480
+shou hui	售汇	461
+shou xie shu zi shi bie	手写数字识别	439
+shou xie shi bie	手写识别	432
+shou dao qin lai	手到擒来	430
+shou ji guan jia	手机管家	426
+shou ren yi bing	授人以柄	418
+shou suo ya	收缩压	418
+shou ji an quan	手机安全	386
+shou shi jian ting	手势监听	381
+shou hui	收汇	380
+shou ning	寿宁	365
+shou yi ren	受益人	359
+shou ji ye mian	手机页面	355
+shou shi mi ma	手势密码	344
+shou chun lu	寿春路	339
+shou ji wang ye	手机网页	332
+shou ji you xi kai fa	手机游戏开发	323
+shou yi lu	首义路	307
+shou you kai fa	手游开发	302
+shou si bao cai	手撕包菜	294
+shou quan xu ke zheng	授权许可证	277
+shou wu	首乌	275
+shou zu zhi qing	手足之情	274
+shou ji yan zheng ma	手机验证码	269
+shou hui cheng ming	收回成命	257
+shou zhua mian	手抓面	253
+shou ji ying yong kai fa	手机应用开发	244
+shou quan xing gui fan	授权性规范	241
+shou gu	手骨	236
+shou shi chong tu	手势冲突	232
+shou yan tong tian	手眼通天	228
+shou wang zhe	守望者	217
+shou kong fang wen	受控访问	214
+shou bu shi juan	手不释卷	212
+shou shi jie suo	手势解锁	209
+shou ji shi pin	手机视频	208
+shou yi xue	兽医学	203
+shou bi nan shan	寿比南山	202
+shou ju	首局	199
+shou wu fu ji zhi li	手无缚鸡之力	198
+shou shi fan hui	手势返回	192
+shou dao bing chu	手到病除	189
+shou si de luo tuo bi ma da	瘦死的骆驼比马大	182
+shou ji yan zheng	手机验证	179
+shou ji biao dan	收集表单	171
+shou shen ru yu	守身如玉	161
+shou shu liang duan	首鼠两端	161
+shou ji an quan wei shi	手机安全卫士	146
+shou ji hun	收继婚	146
+shou cang lan	收藏栏	145
+shou guang ji	寿光鸡	131
+shou gang yi yuan	首钢医院	129
+shou yin xi tong	收银系统	127
+shou zhi sang yu	收之桑榆	126
+shou zu xuan	手足癣	126
+shou ji wang you	手机网游	123
+shou gou ren	收购人	118
+shou shu xian wei jing	手术显微镜	115
+shou cha yi chang	受查异常	112
+shou rong jiao yu suo	收容教育所	108
+shou shan	首山	108
+shou si bing	手撕饼	108
+shou zu xin re	手足心热	105
+shou shu liao fa	手术疗法	103
+shou lv	收率	98
+shou suo qi	收缩期	98
+shou ji bing du	手机病毒	97
+shou kong fa	手控阀	97
+shou zhua rou	手抓肉	97
+shou gong ye guan li ju	手工业管理局	95
+shou gou zhe	收购者	94
+shou xuan	手癣	94
+shou quan xing gui ze	授权性规则	92
+shou huo yi	收获蚁	89
+shou shi suo	手势锁	85
+shou zhua yang pai	手抓羊排	82
+shou ti zu zhi ji	受体阻滞剂	79
+shou kong dui xiang	受控对象	73
+shou quan gui fan	授权规范	72
+shou shi chu mo	手势触摸	68
+shou zhong zhi chong	手冢治虫	68
+shou ji zhi bo	手机直播	64
+shou ji yan kuai	手疾眼快	61
+shou ba hong qi qi bu shi	手把红旗旗不湿	60
+shou wei liang duan	首尾两端	57
+shou yang shan	首阳山	57
+shou yin ruan jian	收银软件	56
+shou lou chu	售楼处	55
+shou fu	手斧	54
+shou gou fang	收购方	53
+shou si kao tu	手撕烤兔	52
+shou zi yi ti qi che	手自一体汽车	52
+shou wu gan pian	首乌肝片	51
+shou shan zhi di	首善之地	50
+shou dong bian su xiang you	手动变速箱油	49
+shou shan fu hai	寿山福海	48
+shou duan cuo wu	手段错误	46
+shou shi gui ji	手势轨迹	46
+shou gu ru chai	瘦骨如柴	40
+shou you ce shi	手游测试	40
+shou gong jian ku	手工建库	39
+shou guang xian	寿光县	39
+shou quan shu	授权书	35
+shou shi jiu shan he	收拾旧山河	35
+shou xian fang wen	受限访问	35
+shou zu jun lie	手足皲裂	35
+shou wu teng	首乌藤	33
+shou heng xing	守恒性	32
+shou yao zhu ce ban fa	兽药注册办法	32
+shou xiao du ji	手消毒剂	31
+shou jiao gan jing	手脚干净	30
+shou xing jie	寿星街	29
+shou feng	首峰	28
+shou lian ji	收敛剂	28
+shou pan bao	收盘报	28
+shou gang chang dong men	首钢厂东门	27
+shou yang ming da chang jing	手阳明大肠经	27
+shou dong cha sha	手动查杀	26
+shou li jian	手里剑	25
+shou gong yang pin	手工样品	24
+shou pa kou nan jie	手帕口南街	24
+shou tuo bao guan ren	受托保管人	24
+shou ji gong ju	手机工具	23
+shou pian zu zhi	手胼足胝	23
+shou xing yao wu	手性药物	23
+shou ti dan bai zhi	受体蛋白质	22
+shou shou bu qin	授受不亲	21
+shou zhi ji xing	手指畸形	21
+shou shao yin xin jing	手少阴心经	19
+shou bi zhen dong bing	手臂振动病	17
+shou jin	售尽	16
+shou jue yin xin bao jing	手厥阴心包经	16
+shou qu guan shan wu shi zhou	收取关山五十州	16
+shou tai yin fei jing	手太阴肺经	16
+shou gong yang zi nv	受供养子女	15
+shou bao zhuang	寿宝庄	14
+shou ci jiu ye he tong	首次就业合同	14
+shou bi shan	寿比山	13
+shou zhuo gui yuan tian	守拙归园田	13
+shou gang xiao qu	首钢小区	12
+shou ji shi pin kai fa	手机视频开发	12
+shou shao yang san jiao jing	手少阳三焦经	11
+shou ji ruan jian ce shi	手机软件测试	10
+shou xi cai wu guan	首席财务官	10
+shou hui zui bian hu	受贿罪辩护	9
+shou ji fu she fa	手机辐射法	9
+shou li	寿里	9
+shou quan li fa yan jiu	授权立法研究	9
+shou tai yang xiao chang jing	手太阳小肠经	9
+shou fu	寿富	8
+shou guan ri	收官日	8
+shou ming biao	寿命表	8
+shou san li	手三里	8
+shou yang tou nao	寿阳头脑	8
+shou bao zhuang cun	寿宝庄村	7
+shou gong piao	手工票	7
+shou guo xiao ying	首过效应	7
+shou ji xing shi zheng ju shi wu	收集刑事证据实务	7
+shou kou fang hua mo	手扣防划膜	7
+shou meng	寿梦	7
+shou ren yu bai jun zhi ji	受任于败军之际	7
+shou shi jin ou yi pian	收拾金瓯一片	7
+shou shu fang da jing	手术放大镜	7
+shou yao guang gao shen cha ban fa	兽药广告审查办法	7
+shou duan bu neng fan	手段不能犯	6
+shou sun zhe	受损者	6
+shou wu ji ding	首乌鸡丁	6
+shou xing bu zhi	寿星补汁	6
+shou yi bao	收益宝	6
+shou hui zui yan jiu xin dong xiang	受贿罪研究新动向	5
+shou le zhen	寿乐镇	5
+shou wu zhi wen wen zhe hu	受物之汶汶者乎	5
+shou zhong zhi chong	手塚治虫	5
+shou du shi fan da xue bei men	首都师范大学北门	4
+shou gang jiao hua chang	首钢焦化厂	4
+shou shui he	受水河	4
+shou yu zhe	授予者	4
+shou zhi zai zao shu	手指再造术	4
+shou zu xu dong zheng	手足徐动症	4
+shou bi hu tong	寿比胡同	3
+shou fei shou ju	收费收据	3
+shou guang da ji	寿光大鸡	3
+shou ji	手肌	3
+shou jin deng hua you yi xiao	瘦尽灯花又一宵	3
+shou ju	手鞠	3
+shou kuan yin hang xie yi	收款银行协议	3
+shou pa hu tong	手帕胡同	3
+shou shan si xiang	寿山寺乡	3
+shou shui xiang	收水乡	3
+shou ti nan lu nan kou	首体南路南口	3
+shou tuo ren	受托人	3
+shou wu yan shou pian	首乌延寿片	3
+shou zhi bu ke qu shen	手指不可屈伸	3
+shou ba wen shu kou cheng chi	手把文书口称敕	2
+shou dao bu feng ji	守道不封己	2
+shou gang shi yan chang	首钢试验厂	2
+shou ge yi	收割蚁	2
+shou hu shan lin chang	守虎山林场	2
+shou ji	收肌	2
+shou min lu	寿民路	2
+shou ming shan jiao nang	首明山胶囊	2
+shou rong cun	受荣村	2
+shou ru lei zong heng	收汝泪纵横	2
+shou shen li xi xin bu cheng	首身离兮心不惩	2
+shou sheng zhi guan	受盛之官	2
+shou si huo bei yu	手撕火焙鱼	2
+shou sun shang	手损伤	2
+shou tian xia zhi bing	收天下之兵	2
+shou wu qiang shen pian	首乌强身片	2
+shou xia you qing he	首夏犹清和	2
+shou zhuo gui tian yuan	守拙归田园	2
+shou zi wu xiang da xia	寿字五香大虾	2
+shou zu ni leng	手足逆冷	2
+shou bao xiang	寿保乡	1
+shou bao zhuang bei zhan	寿宝庄北站	1
+shou bi shan pian	寿比山片	1
+shou can shen bao jiao nang	手参肾宝胶囊	1
+shou chang ru guan gu	瘦长如鹳鹄	1
+shou chi lv yu zhang	手持绿玉杖	1
+shou chuang zhi ye	首创置业	1
+shou dao you	手岛优	1
+shou guan xiao chu	首关消除	1
+shou guan zhu	受关注	1
+shou hai	收还	1
+shou ji dong fa	手继动阀	1
+shou jie hui	收结汇	1
+shou jie qing bu yi	守节情不移	1
+shou li ren	受理人	1
+shou lv hong xing rui	手捋红杏蕊	1
+shou nan du ling ping	瘦男独伶俜	1
+shou ren qiao jie	守仁桥街	1
+shou san li xue	手三里穴	1
+shou shi zhen	手湿疹	1
+shou sui zun wu jiu	守岁尊无酒	1
+shou ti tuo min	受体脱敏	1
+shou ti xin hua qing song zhang	手提新画青松障	1
+shou ti zhi hai cui da fu	手提掷还崔大夫	1
+shou wu jin shi gu	寿无金石固	1
+shou wu shu di dun tu rou	首乌熟地炖兔肉	1
+shou yan wei hong ge yun mu	兽焰微红隔云母	1
+shou yang deng ji gong zuo gui fan	收养登记工作规范	1
+shou yu bai hu tong	寿逾百胡同	1
+shou yuan li	寿园里	1
+shou zai li zi dai wo gui	手栽荔子待我归	1
+shou zhi ping heng ding jia fa	收支平衡定价法	1
+shou zhong dao qiang duo nu hou	兽中刀枪多怒吼	1
+shou zhou gu	手舟骨	1
+shou dai juan wei	绶带卷尾	0
+shou dai zhang wei feng niao	绶带长尾风鸟	0
+shou fu di zhong ying	瘦腹地种蝇	0
+shou huo yi shu	收获蚁属	0
+shou lie ju ao zhu	狩猎巨螯蛛	0
+shou lie ju xie zhu	狩猎巨蟹蛛	0
+shou mao qian xian luo	瘦毛嵌线螺	0
+shou ti bo yu	瘦体波鱼	0
+shou wa duo zhu	首哇朵蛛	0
+shou yao gao shou shui mu	首要高手水母	0
+shou ye wei nie	瘦叶围啮	0
+shou zhang huang dao xie	首长黄道蟹	0

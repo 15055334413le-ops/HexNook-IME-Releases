@@ -1,0 +1,402 @@
+rao an	饶安	0
+rao an ding	饶安鼎	0
+rao an gong zhu	饶安公主	0
+rao an xian	饶安县	0
+rao bao shu	饶宝书	0
+rao bei yue	饶北岳	0
+rao bi chen	饶弼臣	0
+rao bin	饶斌	0
+rao bin yin	饶宾印	0
+rao bo lian	饶伯濂	0
+rao bo sen	饶伯森	0
+rao bo sheng	饶博生	0
+rao bo yong	饶伯永	0
+rao bo yu	饶伯舆	0
+rao bo zi	饶伯子	0
+rao bu zhen	饶埠镇	0
+rao chan ti	饶羼提	0
+rao chang	饶唱	0
+rao chang lin	饶昌麟	0
+rao chao	绕朝	0
+rao che	饶车	0
+rao cheng shan	饶城山	0
+rao cun xiang	饶村乡	0
+rao da ni	饶达尼	0
+rao dao	绕道	0
+rao dao xun hang	绕岛巡航	0
+rao dao yan	饶道延	0
+rao de cao	饶德操	0
+rao dong	扰动	0
+rao dong bin	饶东滨	0
+rao dong ding li	扰动定理	0
+rao dong guan cha fa	扰动观察法	0
+rao dong han shu	扰动函数	0
+rao dong jin	饶东津	0
+rao dong wei	扰动位	0
+rao e	饶娥	0
+rao er zhen	绕二镇	0
+rao fang quan	饶芳权	0
+rao fen die	娆粉蝶	0
+rao fen die shu	娆粉蝶属	0
+rao feng guan zhi zhan	饶凤关之战	0
+rao feng huang	饶凤璜	0
+rao feng zhen	饶丰镇	0
+rao feng zhen	饶峰镇	0
+rao feng zhu	饶凤翥	0
+rao fu	饶富	0
+rao gan	饶干	0
+rao gao ping	饶高平	0
+rao ge ping	饶戈平	0
+rao gu	桡骨	0
+rao gu an	饶固庵	0
+rao gu ding zhou xuan zhuan	绕固定轴旋转	0
+rao gu ling	饶古灵	0
+rao guang jiu nan dao	饶广九南道	0
+rao gui feng	饶桂丰	0
+rao guo hua	饶国华	0
+rao guo liang	饶国梁	0
+rao guo liang ji nian tang	饶国梁纪念堂	0
+rao han xiang	饶汉祥	0
+rao he	饶河	0
+rao he fan ri you ji da dui	饶河反日游击大队	0
+rao he fan ri you ji dui	饶河反日游击队	0
+rao he jie	饶河街	0
+rao he jie guan guang ye shi	饶河街观光夜市	0
+rao he jie ye shi	饶河街夜市	0
+rao he kang ri you ji da dui	饶河抗日游击大队	0
+rao he kang ri you ji dui	饶河抗日游击队	0
+rao he min zhong fan ri you ji da dui	饶河民众反日游击大队	0
+rao he nong chang	饶河农场	0
+rao he nong gong yi yong jun	饶河农工义勇军	0
+rao he pu ge ming gen ju di	饶和埔革命根据地	0
+rao he pu su qu	饶和埔苏区	0
+rao he pu xian	饶和埔县	0
+rao he pu zhao ge ming gen ju di	饶和埔诏革命根据地	0
+rao he pu zhao su qu	饶和埔诏苏区	0
+rao he pu zhao xian	饶和埔诏县	0
+rao he xian	饶河县	0
+rao he ye shi	饶河夜市	0
+rao he you ji dui	饶河游击队	0
+rao he zhen	饶河镇	0
+rao hong	饶宏	0
+rao hong ji	饶弘济	0
+rao hong wei	饶宏伟	0
+rao hou guo	饶侯国	0
+rao hu chen	饶虎臣	0
+rao hu tian	饶湖田	0
+rao hua	荛花	0
+rao hua shu	荛花属	0
+rao hua xiang cha cai	荛花香茶菜	0
+rao huai wen	饶怀文	0
+rao huan	饶桓	0
+rao huang shan	饶黄山	0
+rao hui die shu	娆灰蝶属	0
+rao hui die zu	娆灰蝶族	0
+rao hui ling	饶慧玲	0
+rao hui shan	饶慧珊	0
+rao hui tan	饶惠谭	0
+rao hui yuan	饶惠元	0
+rao ji gui dao	绕极轨道	0
+rao ji nan	饶霁南	0
+rao ji xiang	饶吉祥	0
+rao jia	绕家	0
+rao jia hui	饶家辉	0
+rao jia ju	饶家驹	0
+rao jia ren	绕家人	0
+rao jia yu	绕家语	0
+rao jian feng	饶剑峰	0
+rao jian feng	饶剑锋	0
+rao jian xin	饶建新	0
+rao jiao lei	桡脚类	0
+rao jiao zhi yi	绕角之役	0
+rao jie	饶节	0
+rao jie	饶介	0
+rao jie ba sang	饶阶巴桑	0
+rao jie teng	饶杰腾	0
+rao jin	饶谨	0
+rao jin gang	饶近刚	0
+rao jin pao	绕襟袍	0
+rao jin xiang	绕金乡	0
+rao jing	饶京	0
+rao jing	绕境	0
+rao jing	遶境	0
+rao jing bei xin	绕颈背心	0
+rao jing cheng	饶敬承	0
+rao jing hui	饶景晖	0
+rao jing shang yi	绕颈上衣	0
+rao jing wen	饶静文	0
+rao jing yang	饶景旸	0
+rao jing yao	饶景曜	0
+rao jiong	饶迥	0
+rao jiong	绕迥	0
+rao jiong ji nian	绕迥纪年	0
+rao jue qing	饶厥卿	0
+rao jun da	饶君大	0
+rao kai xun	饶开勋	0
+rao kao xiang	饶考祥	0
+rao ke fei	饶可飞	0
+rao ke gong	饶克恭	0
+rao ke qin	饶克勤	0
+rao kou ling	绕口令	0
+rao kun pu	饶昆圃	0
+rao kun yuan	饶崐源	0
+rao le du du fu	饶乐都督府	0
+rao le shui	饶乐水	0
+rao lei si	饶勒斯	0
+rao lei si zhan	饶勒斯站	0
+rao lei si zhu yi	饶勒斯主义	0
+rao li	饶礼	0
+rao li xin	饶立新	0
+rao li zhi	饶立之	0
+rao liang	绕梁	0
+rao liang xian	饶良县	0
+rao liang zhen	饶良镇	0
+rao lin hong	饶林红	0
+rao liu	扰流	0
+rao liu ban	扰流板	0
+rao long zong	扰龙宗	0
+rao lu	饶鲁	0
+rao lu xiang	绕鲁乡	0
+rao luan he ping zui	扰乱和平罪	0
+rao lun	饶仑	0
+rao luo yang	饶罗扬	0
+rao ma lu shu	绕马陆属	0
+rao man ni	饶曼妮	0
+rao meng kan	饶孟侃	0
+rao meng ren	饶孟任	0
+rao mi seng	饶宓僧	0
+rao mian xian	饶勉县	0
+rao min	扰民	0
+rao ming li	饶明俐	0
+rao ming xian	饶明先	0
+rao nai	饶鼐	0
+rao nan hu	饶南湖	0
+rao nao	饶瑙	0
+rao pei jun	饶佩君	0
+rao pei jun	饶珮君	0
+rao ping	饶平	0
+rao ping chao zhou hua	饶平潮州话	0
+rao ping cuo	饶平厝	0
+rao ping cuo zhuang	饶平厝庄	0
+rao ping hua	饶平话	0
+rao ping ke jia	饶平客家	0
+rao ping ke jia hua	饶平客家话	0
+rao ping ke jia ren	饶平客家人	0
+rao ping qiang	饶平腔	0
+rao ping ru	饶平如	0
+rao ping shi nan	饶平石楠	0
+rao ping xian	饶平县	0
+rao ping xian wen wu bao hu dan wei	饶平县文物保护单位	0
+rao ping xuan gou zi	饶平悬钩子	0
+rao ping xue gong	饶平学宫	0
+rao ping zhan	饶平站	0
+rao po gan	饶珀玕	0
+rao qi	绕棋	0
+rao qian hou	饶倩侯	0
+rao qiao zhan	饶桥站	0
+rao qin	饶钦	0
+rao qin zhi	饶钦止	0
+rao qing ling	饶庆铃	0
+rao qiong	饶琼	0
+rao qu	扰曲	0
+rao quan	饶权	0
+rao quan qiu	绕圈球	0
+rao quan sai	绕圈赛	0
+rao rang san	饶让三	0
+rao ren an	饶任庵	0
+rao ren kan	饶仁侃	0
+rao ren zuo	饶仁作	0
+rao sai can kang	绕赛参康	0
+rao sai xiang qing zhen si	绕赛巷清真寺	0
+rao sai zan kang	绕赛赞康	0
+rao san xi	饶三溪	0
+rao san zhang	饶三章	0
+rao shao feng	饶绍锋	0
+rao she	饶舌	0
+rao she	绕舌	0
+rao she	绕射	0
+rao she ge qu	饶舌歌曲	0
+rao she ge shou	饶舌歌手	0
+rao she jiao	绕射角	0
+rao she jin shu	饶舌金属	0
+rao she le	饶舌乐	0
+rao she ren qian si	饶舌人钱斯	0
+rao she she ji shi	饶舌设计师	0
+rao she tian shen	饶舌天神	0
+rao she yin yue	饶舌音乐	0
+rao she zhe qian si	饶舌者钱斯	0
+rao she zuo yong	绕射作用	0
+rao shen	饶伸	0
+rao shen bu shi	饶申布士	0
+rao shen jing	桡神经	0
+rao sheng wu	饶绳武	0
+rao sheng xia jiang	绕绳下降	0
+rao shi lu	饶师鲁	0
+rao shi qiao	饶士翘	0
+rao shi quan	饶石泉	0
+rao shi rui	饶士瑞	0
+rao shi shu	饶氏属	0
+rao shi teng	饶士腾	0
+rao shi xiang	遶市乡	0
+rao shi ying	饶世缨	0
+rao shi yuan zhi shu wa	饶氏原指树蛙	0
+rao shi zhen	遶市镇	0
+rao shi zong ci	饶氏宗祠	0
+rao shou kun	饶守坤	0
+rao shu	饶恕	0
+rao shu	绕数	0
+rao shu guang	饶叔光	0
+rao shu han	饶书涵	0
+rao shu jing	饶叔净	0
+rao shu jing	饶叔浄	0
+rao shu shi	饶漱石	0
+rao shuang feng	饶双峰	0
+rao si	饶泗	0
+rao si cheng	饶思诚	0
+rao si cong	饶思聪	0
+rao si yu	饶嗣玉	0
+rao su ri ming	饶速日命	0
+rao su ri zun	饶速日尊	0
+rao tai	饶台	0
+rao tai	绕台	0
+rao tai dao xun hang	绕台岛巡航	0
+rao tang	饶榶	0
+rao tian min	饶天民	0
+rao ting kui	饶廷奎	0
+rao ting li	饶廷立	0
+rao ting sheng	饶廷升	0
+rao ting xi	饶廷锡	0
+rao ting xian	饶廷献	0
+rao ting xuan	饶廷选	0
+rao ting yi	饶廷抑	0
+rao ting yu	饶廷宇	0
+rao ting zong	饶廷宗	0
+rao tong sai	绕桶赛	0
+rao wei	饶威	0
+rao wei	饶位	0
+rao wei hui	饶伟辉	0
+rao wei yue	饶维岳	0
+rao wen lin	饶文霖	0
+rao wen min	饶文敏	0
+rao wen ming	饶文命	0
+rao wen yuan	饶文元	0
+rao wen zhi	饶文质	0
+rao wen zhong	饶文中	0
+rao wen zhong	饶文仲	0
+rao wu	饶兀	0
+rao xi xiang	绕溪乡	0
+rao xi zhen	绕溪镇	0
+rao xian die shu	娆蚬蝶属	0
+rao xian mu	绕线目	0
+rao xian zhuan zi ma da	绕线转子马达	0
+rao xiang	饶相	0
+rao xiang tai	饶象台	0
+rao xiang xian	饶象贤	0
+rao xiao zhi	饶晓志	0
+rao xin	饶忻	0
+rao xin xian	饶辛咸	0
+rao xin xian	饶鑫贤	0
+rao xing	饶姓	0
+rao xing dao lu	绕行道路	0
+rao xing fu	饶性甫	0
+rao xing li	饶兴礼	0
+rao xing su	饶行素	0
+rao xing wan	饶型万	0
+rao xing xing	饶星星	0
+rao xing xing bian gui	绕行星变轨	0
+rao xiu	饶秀	0
+rao xuan chun	饶绚春	0
+rao xuan tang	饶选堂	0
+rao xue man	饶雪漫	0
+rao xue shi	饶学诗	0
+rao xue shu	饶学曙	0
+rao yan nian	饶延年	0
+rao yang	饶阳	0
+rao yang dao zhao wang	饶阳悼昭王	0
+rao yang dian zhen	饶阳店镇	0
+rao yang gong zhu	饶阳公主	0
+rao yang he	绕阳河	0
+rao yang he zhan	绕阳河站	0
+rao yang he zhen	绕阳河镇	0
+rao yang jie dao	饶阳街道	0
+rao yang jun	饶阳郡	0
+rao yang wang	饶阳王	0
+rao yang xian	饶阳县	0
+rao yang xian bo	饶阳县伯	0
+rao yang xian zi	饶阳县子	0
+rao yang zhan	饶阳站	0
+rao yang zhen	饶洋镇	0
+rao yang zhen	饶阳镇	0
+rao yao	饶尧	0
+rao yao wu	饶耀武	0
+rao ye ming	饶业明	0
+rao yi	饶毅	0
+rao yi gang	饶益刚	0
+rao yi hou	饶以侯	0
+rao yi si	饶益寺	0
+rao yi song	饶倚松	0
+rao yi zhi	饶抑之	0
+rao ying	饶颖	0
+rao ying qi	饶应祺	0
+rao ying qi	饶颖奇	0
+rao ying yuan	饶映垣	0
+rao yong an	饶庸盦	0
+rao yong yu	饶用虞	0
+rao yong zhong	饶用中	0
+rao yu	饶裕	0
+rao yu jian	饶余鉴	0
+rao yu ling	饶与龄	0
+rao yu shi	饶宇栻	0
+rao yu tai	饶毓泰	0
+rao yu tai wu li jiang	饶毓泰物理奖	0
+rao yu wei	饶余威	0
+rao yuan gong	饶元珙	0
+rao yuan li	饶元礼	0
+rao yue fu zhan	饶乐府站	0
+rao yue gui dao	绕月轨道	0
+rao yun fu	饶允服	0
+rao yun jiang	饶云江	0
+rao yun pu	饶筠圃	0
+rao zhang feng	饶彰风	0
+rao zhen	饶轸	0
+rao zheng	饶政	0
+rao zheng tai lang	饶正太郎	0
+rao zheng xi	饶正锡	0
+rao zheng yi	饶正绎	0
+rao zhi chu	饶之初	0
+rao zhi weng	饶止翁	0
+rao zhi xiang	饶芝祥	0
+rao zhi yin	饶志尹	0
+rao zhong	饶中	0
+rao zhong can	饶仲璨	0
+rao zhong shi	饶仲实	0
+rao zhong yuan	饶仲元	0
+rao zhou	饶州	0
+rao zhou bing bei dao	饶州兵备道	0
+rao zhou fu	饶州府	0
+rao zhou fu wen miao	饶州府文庙	0
+rao zhou jie dao	饶州街道	0
+rao zhou lu	饶州路	0
+rao zhou yao	饶州窑	0
+rao zhu di qiu pao	绕著地球跑	0
+rao zi	饶孜	0
+rao zi fu	饶子复	0
+rao zi he	饶子和	0
+rao zi jian	饶子健	0
+rao zi li	饶子离	0
+rao zi wei	饶子维	0
+rao zi wen	饶子闻	0
+rao zi yi	饶子仪	0
+rao zong yi	饶宗颐	0
+rao zong yi wen hua guan	饶宗颐文化馆	0
+rao zong zhao	饶宗召	0
+rao zu	桡足	0
+rao zu	绕组	0
+rao zu chong	桡足虫	0
+rao zu dong wu	桡足动物	0
+rao zu dong wu	绕足动物	0
+rao zu gang	桡足纲	0
+rao zu ji shu	绕组技术	0
+rao zu lei	桡足类	0
+rao zu ya gang	桡足亚纲	0
+rao zuo lin	饶作霖	0

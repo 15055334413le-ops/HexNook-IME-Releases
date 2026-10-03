@@ -1,0 +1,331 @@
+cha chu	查处	595249
+cha xun	查询	264946
+cha ju	差距	133647
+cha huo	查获	78697
+cha feng	查封	26363
+cha tang	茶汤	24191
+cha ru shu ju	插入数据	23364
+cha jia	差价	19584
+cha xun yu ju	查询语句	17847
+cha duo fen	茶多酚	17598
+cha e	差额	13800
+cha ru pai xu	插入排序	10482
+cha dui	插队	8951
+cha ru tu pian	插入图片	7703
+cha yuan	茶园	7645
+cha zhao wen jian	查找文件	6968
+cha wei si	查韦斯	6672
+cha zhao zi fu	查找字符	6327
+cha bing	茶饼	6210
+cha shao bao	叉烧包	5272
+cha fen	差分	4937
+cha kan yuan ma	查看源码	4905
+cha jian an zhuang	插件安装	4090
+cha shu gu	茶树菇	3708
+cha kan yuan dai ma	查看源代码	3635
+cha xun huan cun	查询缓存	3501
+cha xun yu yan	查询语言	3276
+cha ru jie dian	插入节点	3197
+cha yu fan hou	茶余饭后	2925
+cha ji	叉积	2903
+cha ling	茶陵	2630
+cha yi hua	差异化	2566
+cha zhao suan fa	查找算法	2435
+cha shan	茶山	2433
+cha jian kai fa	插件开发	2412
+cha xun you hua	查询优化	2326
+cha cao	插槽	2206
+cha qiang ren yi	差强人意	2051
+cha zhao shu	查找树	2047
+cha zhao shi jian	查找时间	1844
+cha zhi	插值	1816
+cha jian shi yong	插件使用	1749
+cha jian hua	插件化	1724
+cha lu kou	岔路口	1659
+cha ru wen ben	插入文本	1649
+cha zhao ti huan	查找替换	1608
+cha cheng	叉乘	1598
+cha zi yan hong	姹紫嫣红	1501
+cha xun jie kou	查询接口	1494
+cha xun fen xi qi	查询分析器	1397
+cha can ting	茶餐厅	1393
+cha ha er	察哈尔	1161
+cha chang	茶厂	1154
+cha cuo kong zhi	差错控制	1036
+cha shu	叉树	961
+cha fen yue shu xi tong	差分约束系统	930
+cha biao fa	查表法	912
+cha xun biao da shi	查询表达式	907
+cha chang	茶场	894
+cha kou	岔口	841
+cha fen yue shu	差分约束	837
+cha dian zi	茶店子	820
+cha yan guan se	察言观色	778
+cha dou	茶都	771
+cha xun guan jian zi	查询关键字	716
+cha ke da hun	插科打诨	708
+cha zhao ji lu	查找记录	644
+cha lou bu que	查漏补缺	635
+cha shao su	叉烧酥	621
+cha ru lie	插入列	598
+cha fang	茶坊	593
+cha ting	茶亭	585
+cha jian ku	插件库	555
+cha xun mo shi	查询模式	510
+cha zhi qi	插值器	478
+cha cuo jian ce	差错检测	439
+cha bu cha er xian	察布查尔县	430
+cha ru yi chang	插入异常	415
+cha wu shi ju	查无实据	365
+cha zhi hao li	差之毫厘	356
+cha yuan xin qu	茶园新区	345
+cha ji zou si	查缉走私	326
+cha xun bian liang	查询变量	311
+cha bei jia	茶杯架	295
+cha zhen	插针	254
+cha xun zi ju	查询子句	244
+cha jian hua kai fa	插件化开发	243
+cha he	岔河	237
+cha lin	茶林	233
+cha yu	察隅	225
+cha jian	茶碱	212
+cha zhao er cha shu	查找二叉树	210
+cha san	茶馓	206
+cha chi nan tao	插翅难逃	197
+cha er dun	查尔顿	193
+cha bie lian he	差别联合	187
+cha sheng	茶圣	174
+cha cuo hui fu	差错恢复	172
+cha cuo jiao yan	差错校验	171
+cha feng cai ding	查封裁定	168
+cha bu cha er	察布查尔	150
+cha fen xu lie	差分序列	149
+cha bu qi	插补器	145
+cha zhi fa	插值法	145
+cha chi nan fei	插翅难飞	143
+cha ha er lu	察哈尔路	137
+cha dian zi gong jiao zhan	茶店子公交站	127
+cha peng	茶棚	127
+cha che yong	叉车用	126
+cha ke la	查克拉	122
+cha ru xiang mu	插入项目	112
+cha shao ji	叉烧鸡	103
+cha lu kou	叉路口	98
+cha yue fa tiao	查阅法条	98
+cha ya	察雅	85
+cha fen yue shu	查分约束	79
+cha kou	叉口	71
+cha yuan shan	茶园山	68
+cha lu jie	岔路街	66
+cha zi shan lu	茶子山路	64
+cha shao ya	叉烧鸭	58
+cha zhi cha zhao	插值查找	56
+cha duan	茶段	52
+cha tai	茶太	48
+cha tang	茶堂	39
+cha zhang cun	茶张村	39
+cha long	查龙	37
+cha ji	搽剂	36
+cha ru cheng yuan	插入成员	36
+cha bu cha er xi bo	察布查尔锡伯	35
+cha ji er	查吉尔	34
+cha che chang	叉车厂	33
+cha li wang xiao lie quan	查理王小猎犬	33
+cha ye zhou	茶叶粥	33
+cha ling jian yu	茶陵监狱	32
+cha jian shi li	插件示例	29
+cha ting gong yuan	茶亭公园	29
+cha shao yu	叉烧鱼	28
+cha yuan po lu	茶园坡路	28
+cha hui xiao qu	茶会小区	24
+cha shao e	茶梢蛾	24
+cha gan nuo er long	查干诺尔龙	23
+cha gang xiang	插岗乡	23
+cha ge si qun dao	查戈斯群岛	23
+cha he tai	察合台	22
+cha keng	茶坑	22
+cha ku	查库	22
+cha shao bao zi	叉烧包子	22
+cha cuo kong zhi bian ma	差错控制编码	21
+cha li man	查理曼	21
+cha shan liu	茶山刘	21
+cha ting cun	茶亭村	21
+cha zhi hao li miu yi qian li	差之毫厘谬以千里	21
+cha hua cun	茶花村	20
+cha xiang gu	茶香骨	20
+cha xiao xin	查小欣	20
+cha li da di	查理大帝	18
+cha dian zi xi kou	茶店子西口	17
+cha diao	茶调	16
+cha ji	叉棘	16
+cha kao gui yu	叉烤鳜鱼	16
+cha su qi xing xing chi lun	差速器行星齿轮	16
+cha gen er	插根儿	15
+cha guang cun	茶光村	15
+cha jian lan	插件栏	15
+cha han cai kai xiang	查汗采开乡	14
+cha bei long	叉背龙	12
+cha bei quan	茶杯犬	10
+cha ke xin	查可欣	10
+cha lu xiang	岔路乡	10
+cha shi dao qie	茶食刀切	10
+cha yong	槎涌	10
+cha yuan hu tong	察院胡同	10
+cha shao zhu rou	叉烧猪肉	9
+cha ling lu	茶陵路	8
+cha shu gu shao ji	茶树菇烧鸡	8
+cha ye ji yu tang	茶叶鲫鱼汤	8
+cha ye xun ji	茶叶熏鸡	8
+cha dao kou cun	岔道口村	7
+cha li xiang	查理乡	7
+cha qiao cun	槎桥村	7
+cha shi biao	查士标	7
+cha ya	茶垭	7
+cha yi biao da	差异表达	7
+cha zhang bai jie	茶长白蚧	7
+cha han wu su zhen	察汗乌苏镇	6
+cha kou	茶口	6
+cha lu hei zhu	岔路黑猪	6
+cha luo xiang	茶洛乡	6
+cha ru pian duan	插入片段	6
+cha shao chao mian	叉烧炒面	6
+cha tai ming xu	茶台茗叙	6
+cha zhong gu jiu shi meng shan	茶中故旧是蒙山	6
+cha an cun	茶庵村	5
+cha bei gui bin quan	茶杯贵宾犬	5
+cha dan xiang	查旦乡	5
+cha dang xiang	查当乡	5
+cha ji	茶基	5
+cha jian huan shi pian	茶碱缓释片	5
+cha shao ya zi	叉烧鸭子	5
+cha yuan qiao	茶园桥	5
+cha zi huo shi	叉子火食	5
+cha ben hai ming	茶苯海明	4
+cha bu xiang	察布乡	4
+cha er hu tong	茶儿胡同	4
+cha jia fen	茶家坟	4
+cha lv se su	茶绿色素	4
+cha yu jiao nang	茶愈胶囊	4
+cha yuan ping	茶园坪	4
+cha an cun	岔鞍村	3
+cha ba la xiang	茶巴拉乡	3
+cha ben hai ming pian	茶苯海明片	3
+cha chang juan ye e	茶长卷叶蛾	3
+cha gan ha da	查干哈达	3
+cha jian ma huang jian pian	茶碱麻黄碱片	3
+cha ya shan xiang	嵖岈山乡	3
+cha yan er guan se	察言而观色	3
+cha ye kou zhen	茶叶口镇	3
+cha zha	茶扎	3
+cha jia cun	茶家村	2
+cha li	查礼	2
+cha long xiang	查龙乡	2
+cha ru xu lie	插入序列	2
+cha shi kou cun	岔石口村	2
+cha si li	查嗣瑮	2
+cha su qi xiao chi lun	差速器小齿轮	2
+cha ting li	茶亭里	2
+cha wu xiang	查务乡	2
+cha xu	查旭	2
+cha xun ba zhao yu	茶熏八爪鱼	2
+cha yan qing yang luo hua feng	茶烟轻扬落花风	2
+cha ye gou	茶叶沟	2
+cha ye shi yan chang	茶叶实验场	2
+cha yi xin li xue	差异心理学	2
+cha yuan si	茶院寺	2
+cha dong cun	茶洞村	1
+cha er qi zhen	察尔其镇	1
+cha gan nao er zhen	查干淖尔镇	1
+cha guan xiang	茶馆巷	1
+cha hua ting yuan	茶花庭院	1
+cha jian kong shi jiao nang	茶碱控释胶囊	1
+cha jin lu	茶金路	1
+cha ju du juan	茶菊杜鹃	1
+cha ke si ze yi	差科死则已	1
+cha la xiang	察拉乡	1
+cha pu qiao	槎浦桥	1
+cha ru luo mu	插入螺母	1
+cha shan gong ye qu	茶山工业区	1
+cha shao jian e	茶梢尖蛾	1
+cha sheng	查升	1
+cha sheng shuai zhi li	察盛衰之理	1
+cha shu ye yuan jie	茶树椰圆蚧	1
+cha sun jin chan wei	茶笋尽禅味	1
+cha wu huo che zhan	茶坞火车站	1
+cha xi cun	茶西村	1
+cha xin na min pian	茶新那敏片	1
+cha ya chu gu xu	叉牙出骨须	1
+cha ya luan feng he	槎牙乱峰合	1
+cha yang cun	杈杨村	1
+cha zi hu tong	岔子胡同	1
+cha an zhe shui zao	叉暗哲水蚤	0
+cha ba duan she qing	叉耙短蛇鲭	0
+cha ban shui chi e	叉斑水尺蛾	0
+cha bei jin xian ba	叉背金线鲃	0
+cha bei long ke	叉背龙科	0
+cha bei mao	茶杯猫	0
+cha bei yan li yu	叉杯咽丽鱼	0
+cha bei zhu	茶杯猪	0
+cha bing dun jie	茶并盾蚧	0
+cha dao li yu	查岛蛎鹬	0
+cha dao qu weng	查岛鸲鹟	0
+cha dao ye ying	查岛夜鹰	0
+cha dao yuan wei hu	查岛圆尾鹱	0
+cha dao zao ci ying	查岛噪刺莺	0
+cha du e hei luan feng	茶毒蛾黑卵蜂	0
+cha er si wang zi xi shu wa	查尔斯王子溪树蛙	0
+cha fu jiao xiao	茶腹角鸮	0
+cha fu ming jiao xiao	茶腹鸣角鸮	0
+cha fu shi zi que	茶腹食籽雀	0
+cha ge si qun dao mo tang li	查戈斯群岛磨塘鳢	0
+cha gong chi e	茶贡尺蛾	0
+cha he dao lie chun	茶褐盗猎蝽	0
+cha he fu yi	茶褐伏翼	0
+cha he guang chi e la chan	茶褐广翅蛾蜡蝉	0
+cha he wei dun jie	茶褐围盾蚧	0
+cha hua hong ji jiao chan	茶花红脊角蝉	0
+cha hua jie ke chong	茶花蚧壳虫	0
+cha hua qian ye e	茶花潜叶蛾	0
+cha hua xie zhu	叉花蟹蛛	0
+cha hua ye du juan	茶花叶杜鹃	0
+cha hua yu luo	茶花芋螺	0
+cha ji	叉襀	0
+cha ji ding chong	茶吉丁虫	0
+cha ji guan wang chun	茶脊冠网蝽	0
+cha ji lian qi	叉棘连鳍	0
+cha jing zhi huan chong	叉茎指环虫	0
+cha ka gao yuan qiu	茶卡高原鳅	0
+cha long zhan li yu	叉龙占丽鱼	0
+cha mao mao mao chong	叉毛矛毛虫	0
+cha mei yan jing xiao	茶眉眼镜鸮	0
+cha mo si wang lie quan	查默斯王猎犬	0
+cha mo si wang quan	查默斯王犬	0
+cha mu jing mang chun	檫木颈盲蝽	0
+cha ning chi jiang	叉泞齿鳉	0
+cha ou ge mu shi	察偶个木虱	0
+cha pu lin bao zhu	查普林豹蛛	0
+cha shao jian e zhang ti jian feng	茶梢尖蛾长体茧蜂	0
+cha shi xi xiao yin han yu	查氏细小银汉鱼	0
+cha shu cha huang ying ji ma	茶树茶黄硬蓟马	0
+cha shu cha mu li jie	茶树茶牡蛎蚧	0
+cha shu cha xiao juan ye e	茶树茶小卷叶蛾	0
+cha shu hong yuan jie	茶树红圆蚧	0
+cha shu jia yan xiao lv ye chan	茶树假眼小绿叶蝉	0
+cha shu su tie he dian dun jie	茶树苏铁褐点盾蚧	0
+cha shu xiao bai wen du e	茶树小白纹毒蛾	0
+cha ta mu dao hui shan wei weng	查塔姆岛灰扇尾鹟	0
+cha ta mu dao xin tian weng	查塔姆岛信天翁	0
+cha ta mu xi mi niao	查塔姆吸蜜鸟	0
+cha wei dai long zhan li yu	叉尾带龙占丽鱼	0
+cha wei fu du fu yu	叉尾鮄杜父鱼	0
+cha wei juan wei	叉尾卷尾	0
+cha wei ying yu	叉尾鹰鱼	0
+cha wei yuan he zhen yu	叉尾圆颌针鱼	0
+cha wei zhu ba weng	叉尾侏霸鹟	0
+cha wen chi xing chun xiang	叉纹赤星椿象	0
+cha wu hua mi niao	察武花蜜鸟	0
+cha xiao ye jia	茶肖叶甲	0
+cha ya zhi yu	叉牙指鱼	0
+cha yao ji	茶药鸡	0
+cha yu chu nie	察隅触啮	0
+cha zu jian shui zao	叉足剑水蚤	0

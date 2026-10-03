@@ -1,0 +1,594 @@
+jiao che	轿车	1424796
+jiao yi	交易	258370
+jiao na	缴纳	96884
+jiao yu bu	教育部	77007
+jiao fei	缴费	45688
+jiao jing da dui	交警大队	35379
+jiao jing zhi dui	交警支队	31250
+jiao yi suo	交易所	28424
+jiao zheng	矫正	19094
+jiao xue lou	教学楼	17273
+jiao yan	椒盐	15133
+jiao tong ju	交通局	14607
+jiao ben yu yan	脚本语言	14587
+jiao yi e	交易额	13941
+jiao ta shi di	脚踏实地	13433
+jiao yi liang	交易量	12802
+jiao yi ri	交易日	12689
+jiao tong da xue	交通大学	11982
+jiao yu kao shi yuan	教育考试院	11918
+jiao tong yin hang	交通银行	10229
+jiao nang	胶囊	10031
+jiao bai	茭白	8349
+jiao tang	焦糖	7940
+jiao tong shi gu chu li	交通事故处理	7495
+jiao da	交大	6924
+jiao yan he	校验和	6751
+jiao tou qing dan	交投清淡	6704
+jiao che hua	轿车化	6510
+jiao xiang hui ying	交相辉映	6397
+jiao tou huo yue	交投活跃	6311
+jiao cha bian yi	交叉编译	5767
+jiao jin nao zhi	绞尽脑汁	5550
+jiao yu xue yuan	教育学院	5517
+jiao yu lu	焦裕禄	5347
+jiao zhi	矫治	4858
+jiao yu ji tuan	教育集团	4849
+jiao jing dui	交警队	4773
+jiao zuo shi	焦作市	4005
+jiao hu fang shi	交互方式	3871
+jiao mo	角膜	3810
+jiao tong shi gu sun hai pei chang	交通事故损害赔偿	3758
+jiao ge	交割	3492
+jiao tou lan e	焦头烂额	3414
+jiao hua ji	叫化鸡	3362
+jiao cha bian yi qi	交叉编译器	3350
+jiao ku bu die	叫苦不迭	3270
+jiao tong shi gu ren ding shu	交通事故认定书	3104
+jiao hang	交行	3092
+jiao yan ma	校验码	3013
+jiao jing zhong dui	交警中队	2943
+jiao cha gan ran	交叉感染	2821
+jiao dao	交道	2795
+jiao kou cheng zan	交口称赞	2792
+jiao tong yong du fei	交通拥堵费	2686
+jiao zhou wan	胶州湾	2598
+jiao cha yan zheng	交叉验证	2518
+jiao dian	角点	2505
+jiao hu she ji	交互设计	2438
+jiao zhou shi	胶州市	2414
+jiao che fa dong ji	轿车发动机	2376
+jiao dong	胶东	2288
+jiao zi yan	饺子宴	2272
+jiao quan	焦圈	2227
+jiao nan shi	胶南市	2189
+jiao kuan	缴款	2178
+jiao huan pai xu	交换排序	2169
+jiao jing er da dui	交警二大队	1979
+jiao yi qu	交易区	1871
+jiao mu	酵母	1791
+jiao yuan dan bai	胶原蛋白	1695
+jiao tang se	焦糖色	1616
+jiao yu fu jia fei	教育附加费	1565
+jiao wang guo zheng	矫枉过正	1511
+jiao gong	教工	1483
+jiao jing	角鲸	1386
+jiao chang kou	较场口	1370
+jiao jie chu	交接处	1236
+jiao dian wang tan	焦点网谈	1206
+jiao sheng guan yang	娇生惯养	1170
+jiao jing san da dui	交警三大队	1165
+jiao tong dui	交通队	1158
+jiao hu tu	交互图	1150
+jiao yi shang	交易商	1140
+jiao cha lian jie	交叉连接	1131
+jiao tong zhong xin	交通中心	1127
+jiao zao bu an	焦躁不安	1122
+jiao cha bian yi huan jing	交叉编译环境	1098
+jiao tong xue yuan	交通学院	1042
+jiao yu shou fei gong shi zhi du	教育收费公示制度	1037
+jiao jiang	椒江	1013
+jiao zhou lu	胶州路	994
+jiao yan qi	校验器	988
+jiao tou jie er	交头接耳	956
+jiao cha yin yong	交叉引用	917
+jiao ya liu suan na	焦亚硫酸钠	891
+jiao cha dian	交叉点	886
+jiao tong zhi ye ji shu xue yuan	交通职业技术学院	875
+jiao huan yuan su	交换元素	857
+jiao gu gu	叫姑姑	825
+jiao ku lian tian	叫苦连天	823
+jiao tuan	搅团	820
+jiao cha bu tie	交叉补贴	818
+jiao dian jian ce	角点检测	801
+jiao shi gong yu	教师公寓	784
+jiao ben bian cheng	脚本编程	781
+jiao ben cuo wu	脚本错误	740
+jiao jia	角甲	733
+jiao gan shen jing	交感神经	732
+jiao tong	绞痛	727
+jiao ao zi man	骄傲自满	709
+jiao tang bu ding	焦糖布丁	708
+jiao yin	交银	707
+jiao hu she ji shi	交互设计师	699
+jiao nang ji	胶囊剂	688
+jiao tong lu	交通路	676
+jiao jing zhi hui zhong xin	交警指挥中心	632
+jiao mo yi zhi	角膜移植	627
+jiao shi jin xiu xue xiao	教师进修学校	625
+jiao huan ji shu	交换技术	619
+jiao xue xiang zhang	教学相长	604
+jiao xing	矫形	556
+jiao tong an quan chan pin	交通安全产品	555
+jiao ben kai fa	脚本开发	532
+jiao cha gong ju lian	交叉工具链	528
+jiao ling	蕉岭	526
+jiao cheng	交城	517
+jiao she yin yi	骄奢淫逸	507
+jiao mo yan	角膜炎	506
+jiao zhi ceng	角质层	503
+jiao da lu	交大路	497
+jiao yu bu zhong dian shi yan shi	教育部重点实验室	485
+jiao huan ma	交换码	484
+jiao zu	缴足	464
+jiao ma ji	椒麻鸡	459
+jiao quan	脚圈	456
+jiao dao kou	交道口	445
+jiao qiang xian	交强险	435
+jiao dong cai	胶东菜	434
+jiao tong shi gu shang can jian ding	交通事故伤残鉴定	423
+jiao hu zuo yong	交互作用	418
+jiao yuan	胶原	398
+jiao ben ji shu	脚本技术	394
+jiao rou zao zuo	矫揉造作	388
+jiao yan xia	椒盐虾	385
+jiao men	角门	381
+jiao xing qi	矫形器	366
+jiao dian tu	焦点图	363
+jiao yi chu li	交易处理	362
+jiao yi shui	交易税	354
+jiao tu san ku	狡兔三窟	346
+jiao lin suan na	焦磷酸钠	342
+jiao men	蕉门	321
+jiao he shi	蛟河市	312
+jiao deng	脚瞪	309
+jiao hu ji shu	交互技术	282
+jiao lv zhuang tai	焦虑状态	282
+jiao dou	角都	272
+jiao chou	脚臭	264
+jiao cha cun qu	交叉存取	261
+jiao gong lu	教工路	250
+jiao hua tong ji	叫化童鸡	248
+jiao tong xue xiao	交通学校	245
+jiao bu zhan di	脚不沾地	243
+jiao tong qiang zhi xian	交通强制险	240
+jiao ben bian cheng yu yan	脚本编程语言	228
+jiao mu tang ji chu ji	胶姆糖基础剂	225
+jiao tong yi yuan	交通医院	224
+jiao lian chang	教练场	220
+jiao chi	角齿	219
+jiao ta liang zhi chuan	脚踏两只船	218
+jiao ban qi	搅拌器	216
+jiao shi xin cun	教师新村	204
+jiao yi ting	交易厅	200
+jiao hua	角化	197
+jiao yan pai gu	椒盐排骨	196
+jiao zheng shu	矫正术	186
+jiao cheng lei	教程类	174
+jiao cha gai lv	交叉概率	173
+jiao huan xin pian	交换芯片	168
+jiao jiao	脚胶	160
+jiao mo kui yang	角膜溃疡	160
+jiao gu lan	绞股蓝	152
+jiao he gu cheng	交河故城	145
+jiao tong ju le bu	交通俱乐部	137
+jiao chang	教场	134
+jiao jia	焦家	134
+jiao xiao ling long	娇小玲珑	133
+jiao cha hu huan	交叉互换	131
+jiao huan pei ou	交换配偶	129
+jiao li kun	焦立坤	126
+jiao jia	焦痂	120
+jiao du	焦度	118
+jiao zhuo bu an	焦灼不安	118
+jiao en jun	焦恩俊	110
+jiao shi cun	教师村	108
+jiao zi	角子	108
+jiao cha suan zi	交叉算子	103
+jiao yuan xian wei	胶原纤维	101
+jiao gong shi tang	教工食堂	99
+jiao hu she bei	交互设备	99
+jiao cheng tui jian	教程推荐	98
+jiao jiang da qiao	椒江大桥	96
+jiao li	角里	94
+jiao hu shi chu li	交互式处理	92
+jiao mo bai ban	角膜白斑	90
+jiao shan	焦山	89
+jiao zhu su du	浇注速度	87
+jiao tong da sha	交通大厦	86
+jiao qiang	胶墙	85
+jiao zhi qi	矫治器	79
+jiao xi ling	蕉溪岭	78
+jiao yao shi he tong	交钥匙合同	78
+jiao yu yong fang	教育用房	78
+jiao yuan	蕉园	78
+jiao he	交河	75
+jiao zhuang hu	焦庄户	75
+jiao cuo lu jing	交错路径	70
+jiao han	脚汗	69
+jiao tong xi lu	交通西路	68
+jiao dan bai	角蛋白	66
+jiao gong lu kou	教工路口	65
+jiao zheng xin hao	校正信号	64
+jiao gan	脚杆	62
+jiao kou zan yu	交口赞誉	62
+jiao da nan men	交大南门	59
+jiao jia cun	焦家村	59
+jiao mo shui zhong	角膜水肿	58
+jiao xing wai ke	矫形外科	57
+jiao jie ke che	铰接客车	56
+jiao chan	角蝉	55
+jiao zhan tuan ti	交战团体	54
+jiao gan shen jing xi tong	交感神经系统	53
+jiao jiao	脚脚	52
+jiao mo hun zhuo	角膜混浊	52
+jiao zhou	交州	52
+jiao xi	蕉溪	51
+jiao cha fan ying	交叉反应	50
+jiao ya liu suan jia	焦亚硫酸钾	50
+jiao yan tao pian	椒盐桃片	48
+jiao da feng	焦达峰	47
+jiao tian	角田	47
+jiao bo	焦波	46
+jiao cha kai guan	交叉开关	46
+jiao hu shi yu yan	交互式语言	45
+jiao yan zhuang tai	校验状态	45
+jiao yu jie	教育街	45
+jiao bei huan zhan	交杯换盏	43
+jiao he ban chang	胶合板厂	43
+jiao lin suan er qing er na	焦磷酸二氢二钠	43
+jiao dao kou nan	交道口南	42
+jiao ge dan	交割单	42
+jiao yuan mei	胶原酶	42
+jiao cha ou he	交叉耦合	41
+jiao cai zhong xin	教材中心	40
+jiao lai he	胶莱河	40
+jiao jia cun gong jiao zhong xin zhan	焦家村公交中心站	39
+jiao mo yi zhi shu	角膜移植术	39
+jiao yi gui ze	交易规则	39
+jiao chang kou	校场口	38
+jiao huo jia	交货价	38
+jiao jie he	交界河	38
+jiao yi chang	交易场	38
+jiao zhong qing	焦仲卿	38
+jiao zhuang	焦庄	38
+jiao ben yu yan bian cheng	脚本语言编程	36
+jiao bie	角鳖	36
+jiao bing bi bai	骄兵必败	36
+jiao cun	教村	36
+jiao hua guo du	角化过度	35
+jiao ma ji pian	椒麻鸡片	35
+jiao shan zha	焦山楂	35
+jiao zhi mu xi bao liu	胶质母细胞瘤	35
+jiao hu shi dian shi	交互式电视	34
+jiao xie	角斜	34
+jiao bei	胶北	33
+jiao jiao he han nv	皎皎河汉女	33
+jiao nan xian	胶南县	32
+jiao tong wei zhang wei fa xing wei	交通违章违法行为	32
+jiao da dian nao cheng	交大电脑城	31
+jiao jiang	胶浆	30
+jiao nan	郊南	30
+jiao yan zong zi	椒盐粽子	30
+jiao dao you fang	教导有方	29
+jiao zhu gu se	胶柱鼓瑟	29
+jiao da shang chang	交大商场	28
+jiao gao ti jin yan diao	角高体金眼鲷	28
+jiao die	角蝶	27
+jiao qiang xian pei chang fan wei	交强险赔偿范围	27
+jiao bu dian di	脚不点地	26
+jiao da ke ji yuan	交大科技园	26
+jiao dao kou dong	交道口东	26
+jiao guo	酵粿	26
+jiao jiang yao zu xiang	蕉江瑶族乡	26
+jiao xian	胶县	26
+jiao huan xu dian lu	交换虚电路	25
+jiao cai ke	教材科	24
+jiao tong ji xiao	交通技校	24
+jiao shi zhi cheng ping ding zhi du	教师职称评定制度	23
+jiao xing xie	矫形鞋	23
+jiao yan san zi	椒盐馓子	23
+jiao tan	蛟潭	22
+jiao wang zhuang	焦王庄	22
+jiao xin	交信	22
+jiao zai	角仔	22
+jiao zi ba	饺子粑	21
+jiao men bei lu	角门北路	20
+jiao tong xin shen	交通心肾	20
+jiao yi shi jian	交易时间	20
+jiao zhu	脚猪	20
+jiao chang cun	教场村	19
+jiao du fu yu	角杜父鱼	19
+jiao zheng she hui gong zuo	矫正社会工作	19
+jiao gong xin cun	教工新村	18
+jiao tong an quan xue xiao	交通安全学校	18
+jiao xiao hu dong xi	叫嚣乎东西	18
+jiao cun	滘村	17
+jiao hu cuo wu	交互错误	17
+jiao hu yun zuo	交互运作	17
+jiao hui fa da quan	教会法大全	17
+jiao jie	酵解	17
+jiao kou ke yun zhan	窖口客运站	17
+jiao qu jie dao	郊区街道	17
+jiao zi hu tong	教子胡同	17
+jiao jie zhi	交界痣	16
+jiao xi	焦溪	16
+jiao yan hua juan	椒盐花卷	15
+jiao cha cun chu qi	交叉存储器	14
+jiao mai ya	焦麦芽	14
+jiao cha mian yi	交叉免疫	13
+jiao cha sou suo	交叉搜索	13
+jiao gai shao bing	焦盖烧饼	13
+jiao huan pai lie	交换排列	13
+jiao hui xue	交会穴	13
+jiao ji lu	交暨路	13
+jiao jia zhuang	焦家庄	13
+jiao qing zheng zhong jin xiang shi	交情郑重金相似	13
+jiao shen qu	焦神曲	13
+jiao ya tao luo	焦亚陶罗	13
+jiao gan xing yan yan	交感性眼炎	12
+jiao jing zhong xin	交警中心	12
+jiao mo bian xing	角膜变性	12
+jiao mo xin sheng xue guan	角膜新生血管	12
+jiao ran hou zhi kun	教然后知困	12
+jiao ti rong ye	胶体溶液	12
+jiao zi hu tong	轿子胡同	12
+jiao ban er	脚板儿	11
+jiao de zhou tian han che	搅得周天寒彻	11
+jiao gan shen jing xing jing chui bing	交感神经型颈椎病	11
+jiao gong fan zhang	角弓反张	11
+jiao hong	焦竑	11
+jiao mo ca shang	角膜擦伤	11
+jiao shi fa zhi jiao yu du ben	教师法治教育读本	11
+jiao xia	礁下	11
+jiao liao	鹪鹩	10
+jiao mo yi wu	角膜异物	10
+jiao mo ying yang bu liang	角膜营养不良	10
+jiao tang cun	角塘村	10
+jiao tong da lou	交通大楼	10
+jiao tong you mo	交通幽默	10
+jiao yan guo kui	椒盐锅魁	10
+jiao chang kou	教场口	9
+jiao chang men he le	教场门饸饹	9
+jiao da er yuan	交大二院	9
+jiao gong zhen	角弓镇	9
+jiao keng	蕉坑	9
+jiao mo hun zhuo	角膜浑浊	9
+jiao tong hu tong	交通胡同	9
+jiao tong shi gu pei chang xiang mu	交通事故赔偿项目	9
+jiao yan ba bao ji	椒盐八宝鸡	9
+jiao yan hai bao she	椒盐海豹蛇	9
+jiao yan ti bang	椒盐蹄膀	9
+jiao zhi xing cheng xi bao	角质形成细胞	9
+jiao zhou dong lu	胶州东路	9
+jiao zhou xi lu	胶州西路	9
+jiao zuo wan fang	焦作万方	9
+jiao chang ba	教场坝	8
+jiao chang kou hu tong	校场口胡同	8
+jiao ge ri	交割日	8
+jiao hu	蛟湖	8
+jiao jia fen	焦家坟	8
+jiao keng cun	蕉坑村	8
+jiao lv xing zhang ai	焦虑性障碍	8
+jiao tong xing zheng zhi fa gui fan	交通行政执法规范	8
+jiao wan	焦湾	8
+jiao yuan cun	椒园村	8
+jiao da san cun	交大三村	7
+jiao hu lu	蛟湖路	7
+jiao lu gong ren fei ai	焦炉工人肺癌	7
+jiao na xiang	郊纳乡	7
+jiao shu	胶束	7
+jiao tang ka fei xing bing le	焦糖咖啡星冰乐	7
+jiao tang pao fu	焦糖泡芙	7
+jiao yuan bing	胶原病	7
+jiao chan ke	角蝉科	6
+jiao chang hu tong	教场胡同	6
+jiao cu si	搅醋丝	6
+jiao da lu xi	交大路西	6
+jiao hua fen chang	焦化分厂	6
+jiao hua ji pi liu	角化棘皮瘤	6
+jiao jia jin kuang	焦家金矿	6
+jiao jiao kong zhong gu yue lun	皎皎空中孤月轮	6
+jiao jing shi gu chu li zhong xin	交警事故处理中心	6
+jiao liu fei chang	焦溜肥肠	6
+jiao ma xiang	交麻乡	6
+jiao sha xi jiao wan	角鲨烯胶丸	6
+jiao ti shen tou ya	胶体渗透压	6
+jiao wang zhuang nan kou	焦王庄南口	6
+jiao xi cun	蕉溪村	6
+jiao zhai xing chang geng zu	绞窄性肠梗阻	6
+jiao bing	焦炳	5
+jiao du zi	脚肚子	5
+jiao gang	焦港	5
+jiao gong mo yuan	角巩膜缘	5
+jiao he cheng	交河城	5
+jiao he man	椒河鳗	5
+jiao huo dan	交货单	5
+jiao jian cheng	焦建成	5
+jiao mo ban hen	角膜瘢痕	5
+jiao mo xue guan yi	角膜血管翳	5
+jiao wu zhuan yue	教务专约	5
+jiao you bian dou	椒油扁豆	5
+jiao bei jie dao	蕉北街道	4
+jiao dian hei se	脚垫黑色	4
+jiao dong	郊东	4
+jiao ge zhuang	焦各庄	4
+jiao hua bing	角化病	4
+jiao men nan zhan	角门南站	4
+jiao mu zu xiang	脚木足乡	4
+jiao shi	焦湿	4
+jiao shi da sha	教师大厦	4
+jiao ti guo jiao bi jiao nang	胶体果胶铋胶囊	4
+jiao xia	焦下	4
+jiao yan zhou zi	椒盐肘子	4
+jiao you jiao bai	椒油茭白	4
+jiao you yin er	椒油银耳	4
+jiao yuan xiang	椒园乡	4
+jiao zhe bi yi zheng	教者必以正	4
+jiao cha xiang	交岔乡	3
+jiao chi bu pa ren cai	娇痴不怕人猜	3
+jiao da dong lu nan kou	交大东路南口	3
+jiao di xiang	浇底乡	3
+jiao fang	角方	3
+jiao ge ju yu yu yan zhi zhong	胶鬲举于鱼盐之中	3
+jiao jiang da jiu dian	椒江大酒店	3
+jiao jiang zhong yi yuan	椒江中医院	3
+jiao li xiang	交里乡	3
+jiao liao chao yu shen lin	鹪鹩巢于深林	3
+jiao ling	角岭	3
+jiao lv xing yi yu zheng	焦虑性抑郁症	3
+jiao men dong li yi she qu	角门东里一社区	3
+jiao mo cuo shang	角膜挫伤	3
+jiao sheng man tian qiu se li	角声满天秋色里	3
+jiao ti guo jiao bi	胶体果胶铋	3
+jiao wei xiao qu	教委小区	3
+jiao yan guo kui	椒盐锅盔	3
+jiao yi chi	交易池	3
+jiao yi zhou	交椅洲	3
+jiao zheng jie	校正街	3
+jiao bu zhong xi yuan zhang	交不忠兮怨长	2
+jiao cha pei xue shi yan	交叉配血试验	2
+jiao da jing fa xue xiao	交大经发学校	2
+jiao dian hua ti	焦点话题	2
+jiao dian wen ti	焦点问题	2
+jiao gu lan zong dai pian	绞股蓝总甙片	2
+jiao jiao ming qiu yue	皎皎明秋月	2
+jiao mo pu tao zhong	角膜葡萄肿	2
+jiao mo ying guang fa	角膜映光法	2
+jiao nai yi qi he	交乃意气合	2
+jiao ni bu hua yuan wang qian	教你不花冤枉钱	2
+jiao ping jie dao	焦坪街道	2
+jiao qing	角清	2
+jiao ruo yun jian yue	皎若云间月	2
+jiao shan men	焦山门	2
+jiao sui wu dou fang zhuo ran	焦遂五斗方卓然	2
+jiao tong xing zheng zhi fa shi wu	交通行政执法实务	2
+jiao tou wo	蕉头窝	2
+jiao wang zhuang lu kou	焦王庄路口	2
+jiao xiang xiang kou	蛟翔巷口	2
+jiao yi mi ma	交易密码	2
+jiao yuan xiang	焦园乡	2
+jiao zhu fu ren liang fang	校注妇人良方	2
+jiao zhun qu xian	校准曲线	2
+jiao zi jie	椒子街	2
+jiao ai tang	胶艾汤	1
+jiao an kang ya mu	角鮟鱇亚目	1
+jiao bai chao mao dou	茭白炒毛豆	1
+jiao cha nai shou	交叉耐受	1
+jiao cuo yao yue	交错要约	1
+jiao dao kou nan er tiao	交道口南二条	1
+jiao dao yi jie	交道一街	1
+jiao fang jie	椒房街	1
+jiao fang you zou bie li ge	教坊犹奏别离歌	1
+jiao fang you zou li bie ge	教坊犹奏离别歌	1
+jiao gong lu bei kou	教工路北口	1
+jiao gong ye qu	滘工业区	1
+jiao gu ding	角骨顶	1
+jiao hang da sha	交行大厦	1
+jiao he wei xi shui yi	蛟何为兮水裔	1
+jiao hua bu liang	角化不良	1
+jiao hua bu quan	角化不全	1
+jiao huan zi	交换子	1
+jiao jiao ya	角叫鸭	1
+jiao jie guo hou yuan	狡捷过猴猿	1
+jiao jie liu	交界瘤	1
+jiao jie wu dou xiong	交结五都雄	1
+jiao jun gui yi ren hui xi	矫菌桂以纫蕙兮	1
+jiao jun zi yi lian	教君恣意怜	1
+jiao keng	角坑	1
+jiao long de yu qi lie dong	蛟龙得雨鬐鬣动	1
+jiao men bei lu dong kou	角门北路东口	1
+jiao men dong li xi she qu	角门东里西社区	1
+jiao mo ji zhi huan zhi ru shu	角膜基质环植入术	1
+jiao mo ji zhi yan	角膜基质炎	1
+jiao mo lou	角膜瘘	1
+jiao mo yi	角膜翳	1
+jiao mu	焦墓	1
+jiao qi chong xin	脚气冲心	1
+jiao qie ruo wei rong	教妾若为容	1
+jiao ren qian zhi shui di ju	鲛人潜织水底居	1
+jiao ru yu shu lin feng qian	皎如玉树临风前	1
+jiao ruo tai yang sheng zhao xia	皎若太阳升朝霞	1
+jiao sha mei su pian	交沙霉素片	1
+jiao sheng gu qi xi yang lou	角声孤起夕阳楼	1
+jiao sun	角孙	1
+jiao sun xue	角孙穴	1
+jiao wang zhuang bei kou	焦王庄北口	1
+jiao wen long	焦文龙	1
+jiao xi xiang	皎西乡	1
+jiao xing gou	角形钩	1
+jiao yan du jian	椒盐肚尖	1
+jiao yan ma bing	椒盐麻饼	1
+jiao yan xia ren	椒盐虾仁	1
+jiao yang hua wei lin	骄阳化为霖	1
+jiao yao shi	交钥匙	1
+jiao yi zhi nan	交易指南	1
+jiao yin huan qiu	交银环球	1
+jiao yin shi luo de	交银施罗德	1
+jiao yin tian li	交银添利	1
+jiao yu ji shi kan zan shang	教育及时堪赞赏	1
+jiao yuan dan bai hai mian	胶原蛋白海绵	1
+jiao zheng yun dong	矫正运动	1
+jiao zhi jiao zhao	矫制矫诏	1
+jiao zhi xin li xue	矫治心理学	1
+jiao ban chong	角版虫	0
+jiao ban gu du e	角斑古毒蛾	0
+jiao ban hou li mang chun	角斑后丽盲蝽	0
+jiao ban huang du e	角斑黄毒蛾	0
+jiao ban mang guo zhu	角斑芒果蛛	0
+jiao ban xia kou nian	角半下口鲶	0
+jiao ban yin yan die	角斑荫眼蝶	0
+jiao bei gui	铰背龟	0
+jiao bei shui mu	角杯水母	0
+jiao bi long shu	角鼻龙属	0
+jiao bi long xia mu	角鼻龙下目	0
+jiao bing fang fu	角兵鲂鮄	0
+jiao cha lai shu	角叉莱属	0
+jiao chi fen die	角翅粉蝶	0
+jiao chi nong die	角翅弄蝶	0
+jiao chi shu ji ma	角翅梳蓟马	0
+jiao chi ye ming	角翅野螟	0
+jiao chi yu ke	角齿鱼科	0
+jiao chi yu zong mu	角齿鱼总目	0
+jiao dai hua ji chun	角带花姬蝽	0
+jiao die deng e	角蝶灯蛾	0
+jiao gao gai zao	角高盖蚤	0
+jiao gen qian jiao tun	交亘前角鲀	0
+jiao guan niao	角官鸟	0
+jiao ha shu	角蛤属	0
+jiao hai ji shui mu	角海棘水母	0
+jiao hong xie zhu	角红蟹蛛	0
+jiao hou ye e	角后夜蛾	0
+jiao hu ban chi e	角虎斑尺蛾	0
+jiao hua lan chong	角花篮虫	0
+jiao huang mao bi luo	教皇帽筆螺	0
+jiao ji jiao xiong xiao ye jia	角基角胸肖叶甲	0
+jiao jia dan mai sui feng	角颊淡脉隧蜂	0
+jiao jian bi tun	角尖鼻鲀	0
+jiao jian chun ting	铰剪春蜓	0
+jiao jin xian ba	角金线鲃	0
+jiao jing ha	角镜蛤	0
+jiao jing zhou e	角茎舟蛾	0
+jiao ju shou can	角距手参	0
+jiao ju tou fu	角菊头蝠	0
+jiao kong wei luo	绞孔胃螺	0
+jiao lu	礁鹿	0
+jiao mu ye die	角木叶鲽	0
+jiao ni xing gen chong	角拟星根虫	0
+jiao qie feng	绞切蜂	0
+jiao tang ba xi	焦糖巴西	0
+jiao wei zhu nang chong	角胃住囊虫	0
+jiao xiong bu jia	角胸步甲	0
+jiao yi chong	胶衣虫	0
+jiao zhang ti jian feng	姣长体茧蜂	0
+jiao zhang wen gui luo	角长吻龟螺	0

@@ -1,0 +1,2106 @@
+han guo	韩国	500496
+han you	含有	500291
+han liang	含量	500259
+han shu	函数	400000
+han zi	汉字	225450
+han yu	汉语	207750
+han gai	涵盖	192400
+han jie	焊接	172570
+han zu	汉族	172000
+han leng	寒冷	152065
+han hua	汉化	125660
+han shui	汗水	99210
+han shu de	函数的	70665
+han dao	喊道	70270
+han zi	汉子	69955
+han yu	韩语	68220
+han shou	函授	67820
+han jian de	罕见的	67655
+han hua ban	汉化版	65700
+han jia	寒假	63525
+han dai	汉代	62760
+han jian	罕见	61225
+han xu	含蓄	57150
+han shu diao yong	函数调用	54803
+han wei	捍卫	52095
+han ju	韩剧	52055
+han feng	寒风	50320
+han shu fan hui	函数返回	50277
+han bao	汉堡	49995
+han ren	汉人	49725
+han xiao	含笑	49135
+han yu yan	汉语言	49020
+han zhe	喊着	47185
+han le	喊了	39970
+han shui	含税	38425
+han jian	汉奸	35785
+han zhe	含着	34815
+han dong	寒冬	34200
+han wen	韩文	33910
+han guo ren	韩国人	33345
+han jin liang	含金量	32160
+han wu di	汉武帝	32130
+han yang	涵养	31940
+han dan shi	邯郸市	31895
+han yu pin yin	汉语拼音	31550
+han lei	含泪	28695
+han shu	汉书	28670
+han hua bu ding	汉化补丁	28300
+han chao	汉朝	26510
+han chu	喊出	26035
+han bing	寒冰	25645
+han hu	含糊	24975
+han qi	寒气	24250
+han wen	汉文	23965
+han jiao	喊叫	23355
+han shui liang	含水量	23235
+han shu zhi zhen	函数指针	23199
+han guang	寒光	22955
+han shu can shu	函数参数	22862
+han lin	翰林	22575
+han xuan	寒暄	20465
+han wang	汉王	20110
+han shui lv	含水率	19810
+han shu ding yi	函数定义	19660
+han yan	汗颜	19525
+han jian	函件	19295
+han bi	韩币	18670
+han sheng	喊声	18635
+han shu ti	函数体	18460
+han feng	焊缝	18135
+han shui	含水	17875
+han zai	含在	17520
+han gong	焊工	17465
+han dong	撼动	17065
+han shu shi xian	函数实现	16829
+han liu	寒流	16795
+han tang	汉唐	16795
+han qing	旱情	16450
+han guan	焊管	16405
+han guo dui	韩国队	16325
+han nuo wei	汉诺威	16160
+han ma	悍马	15990
+han zhu	含住	15720
+han shu	寒暑	15270
+han shu ku	函数库	15256
+han shu sheng ming	函数声明	15246
+han fu	汉服	15030
+han zai	旱灾	15025
+han di	旱地	14805
+han lin yuan	翰林院	14665
+han guo yu	韩国语	14320
+han you	罕有	14295
+han ri	韩日	13925
+han ban	韩版	13615
+han ye	汗液	13615
+han hou	憨厚	13520
+han de	含的	13400
+han zhong shi	汉中市	13395
+han shu jia	寒暑假	13260
+han jun	汉军	13195
+han wei sheng su	含维生素	12935
+han tiao	焊条	12760
+han le	含了	12710
+han zi shu ru	汉字输入	12645
+han xue	汉学	12520
+han tang	含糖	12455
+han you	含油	12440
+han guo zheng fu	韩国政府	12075
+han xue	韩雪	12070
+han shou	颔首	12045
+han xian	汗腺	12010
+han re	寒热	11970
+han sheng	鼾声	11965
+han shui	汉水	11875
+han guo shi pin	韩国饰品	11760
+han feng zhong	寒风中	11735
+han hua	喊话	11675
+han qian	含铅	11430
+han hu bu qing	含糊不清	10910
+han bai yu	汉白玉	10855
+han tie	含铁	10795
+han ying	汉英	10635
+han guo dian ying	韩国电影	10620
+han suan	寒酸	10480
+han xin	寒心	10440
+han ma gong lao	汗马功劳	10395
+han bao bao	汉堡包	10335
+han min zu	汉民族	10230
+han chang lin li	酣畅淋漓	10035
+han bei xin	汗背心	9999
+han dian wang	汉典网	9999
+han gou ren ru	含垢忍辱	9999
+han gua er	汗褂儿	9999
+han hun bu qing	含混不清	9999
+han mo la bi	汉谟拉比	9999
+han ni	喊你	9999
+han nuan	寒暖	9999
+han sha	喊杀	9999
+han suan xiang	寒酸相	9999
+han yu shui ping kao shi	汉语水平考试	9999
+han zheng	汗蒸	9999
+han tang liang	含糖量	9945
+han mu	汉墓	9805
+han mi er dun	汉密尔顿	9730
+han yang qu	汉阳区	9655
+han jie she bei	焊接设备	9615
+han gai	含钙	9610
+han pian	含片	9245
+han dao	喊到	9230
+han jia ban	寒假班	8910
+han sha	喊啥	8888
+han xiu	含羞	8880
+han pan	焊盘	8825
+han guo san xing	韩国三星	8755
+han han	憨憨	8745
+han hong	韩红	8720
+han liang	寒凉	8690
+han ye	寒夜	8635
+han qing mo mo	含情脉脉	8630
+han liu jia bei	汗流浃背	8570
+han zhan	寒战	8570
+han chuang	寒窗	8565
+han liao	焊料	8415
+han guo jin kou	韩国进口	8410
+han jie ji shu	焊接技术	8380
+han wen hua	汉文化	8365
+han shui	酣睡	8290
+han mao	汗毛	8190
+han liu	含硫	8145
+han jie gong yi	焊接工艺	8005
+han xin ru ku	含辛茹苦	8005
+han fei zi	韩非子	8000
+han ta	喊他	7990
+han gong	含汞	7984
+han yu	韩娱	7777
+han tong	含铜	7643
+han xi	韩系	7610
+han shou zhan	函授站	7565
+han jiang	寒江	7495
+han zhu	汗珠	7425
+han hu de	含糊的	7420
+han ke si	汉克斯	7420
+han mei	寒梅	7405
+han hou de	憨厚的	7380
+han fang	汉方	7210
+han chao	寒潮	7170
+han hai	瀚海	7170
+han jin	含金	7150
+han min	汉民	7015
+han gao	函告	6775
+han dan de	含氮的	6770
+han shu ming	函数名	6755
+han yi sheng	喊一声	6750
+han yi sheng er	喊一声儿	6750
+han guo liao li	韩国料理	6670
+han chang	酣畅	6665
+han dan	邯郸	6627
+han lv	含氯	6620
+han shuang	寒霜	6610
+han yu	韩愈	6540
+han qing	含情	6505
+han jie cai liao	焊接材料	6500
+han shu dui xiang	函数对象	6446
+han hua bao	汉化包	6360
+han zhe lei	含着泪	6290
+han xue jia	汉学家	6235
+han shan si	寒山寺	6035
+han yi ying	汉译英	6015
+han yuan	喊冤	5910
+han yang liang	含氧量	5840
+han shou jiao yu	函授教育	5815
+han lu	寒露	5770
+han yu jiao xue	汉语教学	5760
+han chuan	汉川	5745
+han zheng jie	汉正街	5700
+han lin xue shi	翰林学士	5690
+han gao zu	汉高祖	5680
+han shui jia	含税价	5650
+han shu zhong zai	函数重载	5612
+han xiu cao	含羞草	5605
+han tan liang	含碳量	5560
+han shi	憾事	5550
+han liang zui gao	含量最高	5450
+han zhong lu	汉中路	5430
+han yue	寒月	5385
+han jiang	悍将	5380
+han guo ming xing	韩国明星	5335
+han wu	汉武	5255
+han zuo	旱作	5255
+han jie ji	焊接机	5245
+han shan	汗衫	5225
+han jiu jing	含酒精	5200
+han ran	悍然	5120
+han de	喊得	5115
+han jiang qu	邗江区	5100
+han shu shi bian cheng	函数式编程	5062
+han yuan	韩元	5052
+han cheng	汉城	5003
+han tai ke ju	憨态可掬	5000
+han dai	寒带	4980
+han ta	喊她	4970
+han geng	韩庚	4930
+han zhe yan lei	含着眼泪	4875
+han ji	旱季	4845
+han hai	翰海	4835
+han zi	汗渍	4835
+han men	寒门	4770
+han wen di	汉文帝	4725
+han kou hao	喊口号	4710
+han liu liang	含硫量	4695
+han yan	含盐	4645
+han ge	焊割	4635
+han yang	含氧	4565
+han ji	焊剂	4510
+han chen	寒碜	4500
+han shu shi	函数式	4473
+han lei	喊累	4444
+han shui	鼾睡	4444
+han tan	寒潭	4444
+han jian	汉简	4430
+han zu ren	汉族人	4395
+han gong	汉宫	4375
+han xing	寒性	4340
+han ni ba	汉尼拔	4335
+han zang	汉藏	4305
+han shang	含上	4195
+han yan	含烟	4185
+han jia	喊价	4120
+han guang	汉光	4080
+han qi lai	喊起来	4070
+han zi shu ru fa	汉字输入法	4070
+han wu ji	寒武纪	4035
+han da an	含答案	4015
+han hu de	含糊地	3940
+han wei zhe	捍卫者	3890
+han yan	旱烟	3865
+han shui	寒水	3850
+han gu qu	汉沽区	3815
+han she	寒舍	3785
+han bao	含苞	3780
+han qu	旱区	3770
+han shui ceng	含水层	3770
+han lao bao shou	旱涝保收	3765
+han xian di	汉献帝	3755
+han shou ban	函授班	3750
+han hen	含恨	3695
+han gao	焊膏	3675
+han xie	寒邪	3670
+han han hu hu	含含糊糊	3660
+han tie liang	含铁量	3655
+han ya	寒鸦	3655
+han xu de	含蓄地	3650
+han bao dai fang	含苞待放	3640
+han shi	汗湿	3630
+han hu qi ci	含糊其词	3620
+han sha she ying	含沙射影	3610
+han yuan	含冤	3600
+han gai liang	含钙量	3575
+han you liang	含油量	3575
+han qi de	韩启德	3561
+han yan liang	含盐量	3510
+han shou da xue	函授大学	3500
+han qi bi ren	寒气逼人	3490
+han guo zong tong	韩国总统	3475
+han qiang	焊枪	3455
+han yi	含义	3414
+han yi	含意	3413
+han shui fen	含水分	3380
+han dan gang tie	邯郸钢铁	3360
+han wei	汗味	3355
+han fu	韩服	3333
+han jin	含进	3333
+han lei de xiao lian	含泪的笑脸	3333
+han lei xiao lian	含泪笑脸	3333
+han zhi	汉纸	3333
+han niu chong dong	汗牛充栋	3325
+han guo han cheng	韩国汉城	3315
+han guo mei nv	韩国美女	3315
+han feng	汉风	3310
+han dian	含碘	3295
+han guo ban	韩国版	3285
+han qiong	喊穷	3250
+han chu lai	喊出来	3225
+han wu da di	汉武大帝	3185
+han guo gong si	韩国公司	3175
+han kuo	涵括	3165
+han zang yu xi	汉藏语系	3165
+han gu guan	函谷关	3150
+han zi bian ma	汉字编码	3110
+han lai	喊来	3100
+han shu zhi	函数值	3095
+han dan lu	邯郸路	3090
+han jing di	汉景帝	3090
+han mao	寒毛	3090
+han tan	含碳	3075
+han guo xuan shou	韩国选手	3060
+han zhu	喊住	3060
+han lao	旱涝	3055
+han fu	含氟	3048
+han zhuang	焊装	3035
+han fei	悍匪	2975
+han ting	喊停	2940
+han sha sheng	喊杀声	2935
+han yi	寒意	2935
+han chuan shi	汉川市	2925
+han wei	寒微	2920
+han shu mu ban	函数模板	2910
+han qiu	寒秋	2900
+han yin	汉阴	2880
+han zi qi ye	韩资企业	2880
+han yin	含银	2815
+han jiao sheng	喊叫声	2810
+han feng ci gu	寒风刺骨	2750
+han han	韩寒	2742
+han guo shou er	韩国首尔	2705
+han zhong men	汉中门	2705
+han zuo nong ye	旱作农业	2700
+han liu	汗流	2685
+han zheng	鼾症	2680
+han cai	焊材	2675
+han tian	寒天	2665
+han ban	汉办	2650
+han xian wei	含纤维	2650
+han ying ci dian	汉英词典	2650
+han feng lin lie	寒风凛冽	2640
+han guo mei ti	韩国媒体	2630
+han jia zuo ye	寒假作业	2630
+han suan	含酸	2630
+han chan	寒蝉	2580
+han dong la yue	寒冬腊月	2575
+han ta	旱獭	2575
+han ren	喊人	2570
+han qiao sheng	韩乔生	2560
+han tian	旱田	2550
+han guo pao cai	韩国泡菜	2545
+han jiang qu	涵江区	2545
+han ju	汉剧	2535
+han guo	喊过	2530
+han bao yu fang	含苞欲放	2520
+han guo che	韩国车	2515
+han shu fan hui zhi	函数返回值	2510
+han zha	涵闸	2475
+han yu pin yin zi mu	汉语拼音字母	2465
+han xi si	焊锡丝	2460
+han bing xie	旱冰鞋	2420
+han cheng shi	韩城市	2395
+han li	汉隶	2395
+han shou sheng	函授生	2330
+han jie fang fa	焊接方法	2320
+han xin	韩信	2312
+han da	喊打	2305
+han jiu ming	喊救命	2295
+han shu biao da shi	函数表达式	2295
+han ji	焊机	2294
+han yu pin yin fang an	汉语拼音方案	2290
+han chuan fo jiao	汉传佛教	2270
+han qi	喊起	2240
+han dian fen	含淀粉	2230
+han dian	汉典	2222
+han fu	含服	2222
+han lei	旱雷	2222
+han mo	汉末	2222
+han mei	含镁	2220
+han tai	憨态	2195
+han quan	寒泉	2190
+han bing	旱冰	2175
+han guo shi shang	韩国时尚	2175
+han xiao	憨笑	2160
+han du	含毒	2140
+han jin	寒噤	2135
+han kou huo che zhan	汉口火车站	2133
+han zhi	憨直	2130
+han yue fu	汉乐府	2115
+han jie jie gou	焊接结构	2110
+han wang chao	汉王朝	2110
+han ka	汉卡	2095
+han lin er	韩林儿	2030
+han xia	含下	2030
+han yu yu fa	汉语语法	2010
+han tai qu	汉台区	1990
+han dan xue bu	邯郸学步	1985
+han chou	汗臭	1965
+han guo liu xing	韩国流行	1950
+han jian	焊件	1940
+han ran	酣然	1930
+han yin xian	汉阴县	1930
+han dou	憨豆	1925
+han you fei	含邮费	1920
+han zhan	酣战	1920
+han nuo	汉诺	1900
+han hua	含化	1890
+han guo pian	韩国片	1875
+han shang	喊上	1875
+han er bu lu	含而不露	1870
+han ru yu xia	汗如雨下	1855
+han xi tiao	焊锡条	1850
+han sha liang	含沙量	1845
+han zi xi tong	汉字系统	1820
+han jin	汗巾	1810
+han lai shu wang	寒来暑往	1805
+han qu	寒区	1785
+han qing	含氢	1770
+han zi xian shi	汉字显示	1770
+han guo ying shi	韩国影视	1765
+han diao	函调	1760
+han guo zong yi	韩国综艺	1740
+han long	汉龙	1735
+han liu	韩流	1731
+han guo cai	韩国菜	1715
+han shu bang ding	函数绑定	1691
+han qi xi ren	寒气袭人	1670
+han shou xue xiao	函授学校	1660
+han bei	汉碑	1655
+han fu	悍妇	1650
+han hua xin shi ji	汉化新世纪	1645
+han ya zi	旱鸭子	1645
+han shu yong fa	函数用法	1620
+han jiang xue	寒江雪	1615
+han jie dian	焊接点	1600
+han shi	韩式	1600
+han ren	撼人	1585
+han you zi	含邮资	1580
+han yun	含蕴	1575
+han shi	寒湿	1572
+han da	函大	1565
+han ren xin po	撼人心魄	1555
+han zi ku	汉字库	1555
+han pu dun	汉普顿	1550
+han zhong wang	汉中王	1545
+han bu	汗布	1535
+han dan xian	邯郸县	1520
+han bang	汉邦	1510
+han wei zhe	捍卫着	1500
+han yu da ci dian	汉语大词典	1495
+han zhi	罕至	1495
+han qing	汗青	1485
+han xin liang	含锌量	1485
+han po kou	含鄱口	1480
+han yin liang	含银量	1480
+han yu ci dian	汉语词典	1480
+han bin qu	汉滨区	1475
+han shi ku	函式库	1465
+han wen ban	韩文版	1465
+han di	汗滴	1450
+han jian	含碱	1450
+han han	喊喊	1440
+han dao	旱稻	1425
+han lian	颔联	1425
+han bei	含悲	1415
+han guan	函馆	1415
+han jie gong ju	焊接工具	1415
+han bu	焊补	1410
+han shi jie	寒食节	1410
+han shang	焊上	1400
+han dong	涵洞	1399
+han chuan	旱船	1395
+han de er	韩德尔	1395
+han xiao jiu quan	含笑九泉	1390
+han yong	悍勇	1390
+han guo nv xing	韩国女星	1370
+han shou bu	函授部	1365
+han xi	焊锡	1360
+han sheng ru lei	鼾声如雷	1356
+han shan qu	邯山区	1340
+han shu hui diao	函数回调	1334
+han ku	寒苦	1315
+han xin	含锌	1285
+han shan	寒山	1280
+han yuan dian	含元殿	1280
+han di he xia tu	汗滴禾下土	1265
+han guo shou du	韩国首都	1260
+han dian	焊点	1254
+han jie guo cheng	焊接过程	1250
+han xi gao	焊锡膏	1250
+han nu	含怒	1240
+han zhu	汉主	1240
+han se	寒色	1220
+han dou xian sheng	憨豆先生	1215
+han hao niao	寒号鸟	1205
+han mao kong	汗毛孔	1205
+han you lv	含油率	1200
+han ru	含入	1190
+han shou jiao xue	函授教学	1190
+han zheng	寒症	1190
+han bu chu	喊不出	1185
+han guan	涵管	1185
+han zi xin xi	汉字信息	1185
+han dan shu mu	邯郸书目	1180
+han shi dong feng yu liu xie	寒食东风御柳斜	1180
+han xing	喊醒	1180
+han ya qi fu jing	寒鸦栖复惊	1180
+han yu lian jiang ye ru wu	寒雨连江夜入吴	1180
+han shu zhan	函数栈	1168
+han liu man mian	汗流满面	1165
+han tou	焊头	1165
+han shu ying yong	函数应用	1158
+han ju zhang	韩局长	1139
+han xi dang jia	憨媳当家	1124
+han tian dong di	撼天动地	1115
+han ce	旱厕	1111
+han di	寒地	1111
+han du	寒毒	1111
+han kuan	韩款	1111
+han lou	寒陋	1111
+han mai	喊麦	1111
+han na	含钠	1111
+han na liang	含钠量	1111
+han yi	韩裔	1111
+han shu fen xi	函数分析	1107
+han xin dian bing	韩信点兵	1090
+han guo fu shi	韩国服饰	1085
+han shi wai zhuan	韩诗外传	1085
+han shu zhi zhen shu zu	函数指针数组	1077
+han wei zu guo	捍卫祖国	1075
+han ji	函寄	1070
+han lu	旱路	1070
+han shu fu gai	函数覆盖	1061
+han ge qi	焊割气	1060
+han gang ao tai	含港澳台	1055
+han fu lai	汉弗莱	1050
+han yuan xian	汉源县	1035
+han si	焊丝	1031
+han si	焊死	1030
+han xia	喊下	1030
+han mo	翰墨	1029
+han dian	函电	1025
+han jie gong	焊接工	1025
+han san ping	韩三平	1020
+han shu lun	函数论	1020
+han jin shu	含金属	1015
+han ba	喊吧	1005
+han fei	韩非	1000
+han hun	含混	999
+han man	韩漫	999
+han mo la bi fa dian	汉谟拉比法典	999
+han wo	喊我	999
+han yuan	含怨	999
+han lao zai hai	旱涝灾害	990
+han dan	含氮	987
+han lin	含磷	987
+han jie chu	焊接处	970
+han hu de shuo	含糊地说	955
+han chou wei	汗臭味	940
+han guo shi pin	韩国食品	915
+han fang	韩方	913
+han bing chang	旱冰场	910
+han xiang zi	韩湘子	888
+han zhong li	汉钟离	888
+han ji	汗迹	885
+han lin hui	翰林汇	880
+han yin	酣饮	860
+han shu bian cheng	函数编程	844
+han jie que xian	焊接缺陷	840
+han yi	汉译	840
+han zhu zi	汗珠子	840
+han tai	汉台	835
+han xing	韩星	826
+han de yi si	含的意思	825
+han xian	汉显	815
+han yi ming que	含义明确	815
+han yu xi	汉语系	810
+han jin jin	汗津津	805
+han bao da xue	汉堡大学	800
+han suo	函索	800
+han po sang zi	喊破嗓子	780
+han hou lao shi	憨厚老实	775
+han meng	酣梦	775
+han jia	汉家	774
+han shu yi lai	函数依赖	772
+han ban	汗斑	770
+han gao di	汉高帝	760
+han guang lu	含光路	759
+han ben	含苯	747
+han bai yu shi	汉白玉石	745
+han ma	汉麻	745
+han tang sheng shi	汉唐盛世	745
+han yan dai	旱烟袋	745
+han bao zi	韩包子	744
+han jia yuan	韩家园	740
+han yu liang	寒羽良	740
+han zi shi bie	汉字识别	740
+han wei	汉魏	738
+han guo you	韩国游	735
+han bai	汉柏	730
+han peng	含硼	730
+han jiao	汗脚	715
+han qing	函请	715
+han xue jie	汉学界	715
+han bo	汉帛	710
+han bu chu lai	喊不出来	710
+han chen liang	含尘量	710
+han ming ju li	汉明距离	695
+han yi feng fu	含义丰富	690
+han ju	焊炬	685
+han sha	憨傻	685
+han dao	含到	680
+han yong	罕用	680
+han chu	汉初	678
+han zi zi ti	汉字字体	675
+han shu chuan can	函数传参	667
+han shi	憨实	660
+han shui lin li	汗水淋漓	660
+han shi	汉室	657
+han gou	汗垢	647
+han lv	含铝	642
+han dan ji	邯郸记	640
+han zi shu ru ji shu	汉字输入技术	640
+han nian	旱年	635
+han wang bi	汉王笔	635
+han wen	罕闻	635
+han chan qi qie	寒蝉凄切	630
+han su	寒素	630
+han bu chu sheng	喊不出声	615
+han tie	焊铁	615
+han shi	寒食	612
+han xin	汉芯	611
+han shu shi jie kou	函数式接口	606
+han jing	旱井	600
+han leng ci gu	寒冷刺骨	595
+han cen cen	汗涔涔	590
+han hao	喊好	585
+han xiang	旱象	585
+han zui	酣醉	585
+han bao dui	汉堡队	580
+han yuan er si	含冤而死	580
+han zi jie gou	汉字结构	580
+han chuan xian	汉川县	570
+han tui	寒腿	570
+han zhong	汉中	570
+han mei lin	韩美林	568
+han ge	酣歌	560
+han yu	寒雨	558
+han mian	酣眠	555
+han cheng	喊成	550
+han ran fa dong	悍然发动	550
+han jiang xian	邗江县	540
+han cheng gong lve	韩城攻略	535
+han qi	悍妻	535
+han ran ru meng	酣然入梦	535
+han ying ju hua	含英咀华	525
+han lao	焊牢	520
+han shi liang	含湿量	520
+han hai	寒害	500
+han shu biao	函数表	500
+han tang de	汉唐的	500
+han yi nong sun	含饴弄孙	499
+han zei	汉贼	495
+han jie bian xing	焊接变形	490
+han shu biao	寒暑表	485
+han li	寒栗	480
+han yu da zi dian	汉语大字典	480
+han nuo ta	汉诺塔	475
+han jun	含菌	474
+han shen	含砷	474
+han gou	函购	470
+han lin lin	汗淋淋	465
+han jie fa	焊接法	450
+han ri	汉日	450
+han lin de	含磷的	440
+han ming ma	汉明码	440
+han yang xian	汉阳县	440
+han shi	寒士	438
+han shu ji	函数集	435
+han yang suan	含氧酸	435
+han ge	含镉	432
+han nie	含镍	432
+han tie zhi	含铁质	425
+han mu la bi	汉穆拉比	420
+han ru kou zhong	含入口中	415
+han kao ke	汉考克	410
+han guang men	含光门	401
+han bing ma yong	汉兵马俑	400
+han shu	寒树	400
+han kou lu	汉口路	393
+han hao yue	韩浩月	390
+han you shen yi	含有深意	390
+han jiu zhu	韩玖竹	385
+han yu ban	韩语版	385
+han bian	焓变	369
+han di	汉地	369
+han sa tong meng	汉萨同盟	365
+han qiao	旱桥	355
+han suan	汗酸	355
+han dao	涵道	350
+han ya xi shui	寒鸦戏水	350
+han guan liu	汗管瘤	345
+han jiu	酣酒	345
+han tan de	含碳的	345
+han wang jian	汉王简	340
+han xiao jie	韩晓杰	339
+han mo	旱魔	333
+han fen	含愤	330
+han hen er si	含恨而死	330
+han qiong	寒蛩	330
+han dong sheng	汉东省	321
+han xi	含硒	321
+han zi gai ge	汉字改革	315
+han shu fa	函数法	307
+han zi bu jian	汉字部件	305
+han zi	憨子	300
+han sen zhai	韩森寨	299
+han hun	喊魂	295
+han qian	焊钳	295
+han jiao liang	含胶量	290
+han shu you hua	函数优化	288
+han nan	汉南	285
+han fu	函复	282
+han tian lei	旱天雷	280
+han yang ling	汉阳陵	276
+han zui	焊嘴	275
+han yu	寒玉	271
+han shi shi	寒食诗	270
+han shi tou le	汗湿透了	265
+han jiang	汉江	264
+han yang lin	涵养林	264
+han guan chang	焊管厂	260
+han zhu er	汗珠儿	260
+han hen er zhong	含恨而终	255
+han pu jun	汉普郡	255
+han wei ta ming	含维他命	251
+han yang men	汉阳门	251
+han lan	寒兰	250
+han xiong	含胸	246
+han gou	含垢	245
+han sheng zhi wu	旱生植物	245
+han yi	寒衣	245
+han tou han nao	憨头憨脑	240
+han xi chang long	汉溪长隆	231
+han dan tie lu	汉丹铁路	230
+han ru	汉儒	227
+han leng qi	寒冷期	225
+han shan xian	含山县	223
+han zi nei ma	汉字内码	223
+han jin qu	含进去	222
+han yao	焊药	220
+han guo cheng	韩国城	219
+han sen sen	寒森森	215
+han xian ji	焊线机	215
+han xian wei de	含纤维的	215
+han shu jiang jie	函数讲解	214
+han dan xue yuan	邯郸学院	210
+han jian zou gou	汉奸走狗	210
+han yang de	含氧的	210
+han jian de shi	罕见的事	205
+han shu ru kou	函数入口	205
+han zi	蚶子	205
+han guo lv shi	韩国律师	202
+han bing jian	寒冰箭	200
+han jun ba qi	汉军八旗	200
+han zi ang	韩子昂	200
+han jing xuan	翰景轩	199
+han kou xi lu	汉口西路	199
+han jia	含钾	198
+han fu ya gao	含氟牙膏	195
+han shen de	含砷的	195
+han shu ji	含漱剂	195
+han tian	酣甜	195
+han dan dong zhan	邯郸东站	194
+han jing feng	韩景枫	194
+han ma	汗马	194
+han fei long	韩飞龙	193
+han zhan	韩战	193
+han nan qu	汉南区	192
+han diao si	韩貂寺	189
+han guo guo qi	韩国国旗	188
+han guo nei zhan	韩国内战	188
+han wei guo	韩卫国	186
+han xiao xin	韩小信	186
+han lao mo	韩老魔	185
+han qiao	寒峭	185
+han san	旱伞	185
+han gu jie	汉沽街	182
+han su xi	韩素希	182
+han dan jiao yu	邯郸教育	181
+han jia kuai le	寒假快乐	180
+han wei zhan shi	捍卫战士	180
+han lin hu	翰林湖	179
+han tai zhen	邯邰镇	179
+han guo da xuan	韩国大选	178
+han hao lin	韩昊霖	175
+han mou mou	韩某某	175
+han wu di	焊武帝	175
+han fu	汉赋	174
+han guo guo ji	韩国国籍	173
+han ban zhang	韩班长	171
+han chao yu jing	寒潮预警	170
+han shu ming ming	函数命名	170
+han sen xiong	汉森熊	169
+han xiu bei lei	含羞蓓蕾	169
+han men gui zi	寒门贵子	167
+han hong ji jin hui	韩红基金会	166
+han sha	含沙	165
+han yu guo ji	汉语国际	165
+han cheng lu	汉城路	163
+han si ji mo	汉斯季默	163
+han zhi cheng	韩知城	163
+han mu en	韩沐恩	161
+han zi zi	汗渍渍	160
+han zhuang	韩庄	158
+han ju re xian	韩剧热线	156
+han si zhen	韩寺镇	156
+han jia an quan	寒假安全	155
+han he lu	旱河路	151
+han xi lu	汉西路	147
+han shu guang	韩曙光	146
+han yao fu	寒窑赋	143
+han dou mei chu	汗都没出	142
+han cun he	韩村河	141
+han si	旱死	141
+han xiu bao	含羞苞	141
+han teng ge li feng	汗腾格里峰	140
+han wen xiu	韩文秀	140
+han dan zhan	邯郸站	139
+han ting qu	寒亭区	139
+han zai fen	韩再芬	138
+han chao lai xi	寒潮来袭	137
+han feng hao	汉风号	136
+han pei quan	韩佩泉	135
+han zi bu shou	汉字部首	135
+han wen gong ci	韩文公祠	134
+han chu san jie	汉初三杰	130
+han guo chi bo	韩国吃播	130
+han xuan yu	寒暄语	130
+han han kou hao	喊喊口号	129
+han jia le	韩家乐	129
+han zi shi	汉字时	128
+han le han	喊了喊	127
+han jia sheng huo	寒假生活	125
+han guo liu xue sheng	韩国留学生	124
+han cai shu	蔊菜属	123
+han dong	汉东	123
+han feng hu xiao	寒风呼啸	123
+han qian luo	寒千落	123
+han shou	汗手	123
+han yi han	喊一喊	123
+han guo wang you	韩国网友	119
+han jia ji hua	寒假计划	119
+han guang bai huo	汉光百货	118
+han jia qi	韩佳奇	118
+han mei zhuo hua wei	寒梅着花未	118
+han kou li	汉口里	117
+han lu jie qi	寒露节气	117
+han zhao lie di	汉昭烈帝	117
+han xin yi	韩心怡	116
+han dao bi	涵道比	115
+han shi fu xiao	汉师附小	114
+han xuan di	汉宣帝	114
+han guo yi ren	韩国艺人	113
+han bu er xi	含哺而熙	111
+han jin qu	喊进去	111
+han jun	韩军	111
+han ling ba shan	撼岭拔山	111
+han mei	韩媒	111
+han mei	韩美	111
+han mou	韩某	111
+han si	汗死	111
+han xie	汗血	111
+han xue	汗血	111
+han yang	憨样	111
+han gui de	含硅的	110
+han mu	汉姆	108
+han xing xing	韩星星	108
+han cheng yi hao	汉城壹号	105
+han yu liang	韩玉亮	105
+han zhi guo	韩志国	105
+han guo dui wu	韩国队伍	104
+han shu shi xian duan shu	函数式线段树	103
+han xia	颔下	103
+han jiang shan	汉江山	102
+han shen kuang wu	含砷矿物	101
+han ai dou	韩爱豆	100
+han ai jing	韩爱晶	100
+han ba	旱魃	100
+han ba wei nve	旱魃为虐	100
+han bai yu zu	汉白语族	100
+han ban chang xiu	韩版长袖	100
+han ban chuan qi	韩版传奇	100
+han ban dao	韩半岛	100
+han ban e zuo ju zhi wen	韩版恶作剧之吻	100
+han ban niu zai ku	韩版牛仔裤	100
+han ban zhong chang kuan	韩版中长款	100
+han bao bao tao can	汉堡包套餐	100
+han bao de	汉宝德	100
+han bao gao di	汉堡高地	100
+han bao gou	憨包狗	100
+han bao wang	汉堡王	100
+han bao wei fang	含苞未放	100
+han bao xiao zi	汉堡小子	100
+han bao yi	韩宝仪	100
+han bei yin qi	含悲饮泣	100
+han bi du shi	韩笔杜诗	100
+han bie ren	喊别人	100
+han bing di yu	寒冰地狱	100
+han bing han jiang	汉兵汉将	100
+han bing jian	寒冰剑	100
+han bing qi xi	寒冰气息	100
+han bing she shou	寒冰射手	100
+han bing she shou ai xi	寒冰射手艾希	100
+han bing yang	韩冰洋	100
+han bu er xi	含哺而嬉	100
+han bu gu fu	含哺鼓腹	100
+han bu la ji de	憨不啦唧的	100
+han bu si yi	寒不思衣	100
+han bu ze yi	寒不择衣	100
+han bu zi le	含哺自乐	100
+han cai ying	韩彩英	100
+han chan ming	寒蝉鸣	100
+han chan zhang ma	寒蝉仗马	100
+han chang an cheng	汉长安城	100
+han chang cheng	汉长城	100
+han chang fu	韩长赋	100
+han chao er shi si dai	汉朝二十四代	100
+han chao er shi si dai xian di	汉朝二十四代先帝	100
+han chao gong zhu	汉朝公主	100
+han chao guan xi	韩朝关系	100
+han chao huang di	汉朝皇帝	100
+han chao jian li	汉朝建立	100
+han chao jiang wen	寒潮降温	100
+han chao jun dui	汉朝军队	100
+han chao lao chen	汉朝老臣	100
+han chao li shi	汉朝历史	100
+han chao ren	汉朝人	100
+han chao shi	汉朝时	100
+han chao shi qi	汉朝时期	100
+han chao su hai	韩潮苏海	100
+han chao zong	韩朝宗	100
+han chen nong du	含尘浓度	100
+han cheng ren	汉城人	100
+han cheng te bie shi	汉城特别市	100
+han chi dai fa	含齿戴发	100
+han chu jia bei	汗出浃背	100
+han chu qu	喊出去	100
+han chu ru jiang	汗出如浆	100
+han chu ru yu	汗出如雨	100
+han chu sheng	喊出声	100
+han chu sheng lai	喊出声来	100
+han chuan zhang	韩船长	100
+han chuang shi zai	寒窗十载	100
+han cun le	韩村乐	100
+han da di	韩大地	100
+han da han sha	喊打喊杀	100
+han dai fu	韩大夫	100
+han dai ren	汉代人	100
+han dan che huo	邯郸车祸	100
+han dan deng di	邯郸等地	100
+han dan di qu	邯郸地区	100
+han dan er	憨蛋儿	100
+han dan fen hang	邯郸分行	100
+han dan ren she	邯郸人社	100
+han dan xian zhen jing	邯郸先震惊	100
+han dan yi qing	邯郸疫情	100
+han dan yi zhong	邯郸一中	100
+han dan yin hang	邯郸银行	100
+han dao xing	悍刀行	100
+han de ci dian	汉德词典	100
+han de geng shen	含得更深	100
+han de han si	旱的旱死	100
+han de li	汉得利	100
+han de tai da sheng	喊得太大声	100
+han de xin xi	汉得信息	100
+han de zi dian	汉德字典	100
+han di ba cong	旱地拔葱	100
+han di ba cong xing	旱地拔葱型	100
+han di bing hu	旱地冰壶	100
+han di bing qiu	旱地冰球	100
+han di fo jiao	汉地佛教	100
+han di hei tu	寒地黑土	100
+han di shi ba sheng	汉地十八省	100
+han di zhe	撼地者	100
+han di zuo wu	旱地作物	100
+han dong fei long	寒冬飞龙	100
+han dong jiang zhi	寒冬将至	100
+han dong ni de	撼动你的	100
+han dong ni de di wei	撼动你的地位	100
+han dong sheng wei	汉东省委	100
+han dong tian di	撼动天地	100
+han dong zhi yong	寒冬之拥	100
+han dou liu xia lai	汗都流下来	100
+han dou liu xia lai le	汗都流下来了	100
+han du yi she	韩都衣舍	100
+han fa ci dian	汉法词典	100
+han fa zi dian	汉法字典	100
+han fei dou shi	悍匪都是	100
+han fei dou shi xiao bao bei	悍匪都是小宝贝	100
+han fei ye	韩飞叶	100
+han feng chang du	焊缝长度	100
+han feng hu	汉丰湖	100
+han feng ku yu	寒风苦雨	100
+han feng liao qiao	寒风料峭	100
+han feng qiang du	焊缝强度	100
+han feng sou sou	寒风飕飕	100
+han fu chu xing	汉服出行	100
+han fu hao	含符号	100
+han fu mo te	汉服模特	100
+han fu ping guo	寒富苹果	100
+han fu ren	寒夫人	100
+han fu rui	韩福瑞	100
+han fu si	汉福斯	100
+han fu xin yuan	韩府新苑	100
+han gai le	涵盖了	100
+han gai yin hang	涵盖银行	100
+han gan hua ma	韩干画马	100
+han gang tiao	焊钢条	100
+han gao jie pei	汉皋解佩	100
+han gao le tai	汉高乐泰	100
+han ge heng wu	酣歌恒舞	100
+han ge mai	喊个麦	100
+han ge miao wu	酣歌妙舞	100
+han geng re yun	寒耕热耘	100
+han geng shu yun	寒耕暑耘	100
+han gong ju zhi	含宫咀徵	100
+han gong pei xun xue xiao	焊工培训学校	100
+han gong qiu	汉宫秋	100
+han gong qiu yue	汉宫秋月	100
+han gou na wu	含垢纳污	100
+han gou ren chi	含垢忍耻	100
+han gou ren wu	含垢忍污	100
+han gou yang hui	含垢养晦	100
+han gu lv	含固率	100
+han guan wei yi	汉官威仪	100
+han guang sha fang di chan	汉广厦房地产	100
+han guang shan shan	寒光闪闪	100
+han guo cai fa	韩国财阀	100
+han guo chan ye yin hang	韩国产业银行	100
+han guo chao dao	韩国超导	100
+han guo chao xian	韩国朝鲜	100
+han guo che mo	韩国车模	100
+han guo chuan qi	韩国传奇	100
+han guo chuan tong	韩国传统	100
+han guo de	韩国的	100
+han guo de yu le quan	韩国的娱乐圈	100
+han guo di qu	韩国地区	100
+han guo dian ying fen ji zhi du	韩国电影分级制度	100
+han guo fan gui	韩国犯规	100
+han guo fang jia	韩国房价	100
+han guo fang jia da die	韩国房价大跌	100
+han guo gong he guo	韩国共和国	100
+han guo guo ge	韩国国歌	100
+han guo hua	韩国话	100
+han guo huo	韩国货	100
+han guo jiao lian	韩国教练	100
+han guo jie dian	韩国节点	100
+han guo le tian	韩国乐天	100
+han guo le tian ji tuan	韩国乐天集团	100
+han guo lian he can mou ben bu	韩国联合参谋本部	100
+han guo lian he tong xun she	韩国联合通讯社	100
+han guo liu xing yin yue	韩国流行音乐	100
+han guo lv xing	韩国旅行	100
+han guo ma jiang	韩国麻将	100
+han guo mei nv che mo	韩国美女车模	100
+han guo mei nv mo te	韩国美女模特	100
+han guo mian ji	韩国面积	100
+han guo ming xiao	韩国名校	100
+han guo mo te	韩国模特	100
+han guo nv tuan	韩国女团	100
+han guo nv zhu bo	韩国女主播	100
+han guo nv zhu bo piao ni mai	韩国女主播朴妮唛	100
+han guo nv zu	韩国女足	100
+han guo qian zong tong	韩国前总统	100
+han guo ren er	韩国人儿	100
+han guo ri ben	韩国日本	100
+han guo shen yi	韩国申遗	100
+han guo shi	韩国史	100
+han guo shi wen chao dao	韩国室温超导	100
+han guo shou du quan	韩国首都圈	100
+han guo shou du shou er	韩国首都首尔	100
+han guo wai zhang	韩国外长	100
+han guo xi lie	韩国系列	100
+han guo xin nv tuan	韩国新女团	100
+han guo xing	韩国行	100
+han guo xuan xiu	韩国选秀	100
+han guo xue xiao	韩国学校	100
+han guo yang hang	韩国央行	100
+han guo yin hang	韩国银行	100
+han guo yin yue	韩国音乐	100
+han guo you ling ying er	韩国幽灵婴儿	100
+han guo yu le	韩国娱乐	100
+han guo yu le quan	韩国娱乐圈	100
+han guo yu shan	韩国蔚山	100
+han guo yun dong yuan	韩国运动员	100
+han guo zhan dui	韩国战队	100
+han guo zhi	韩国制	100
+han guo zhi xing	韩国之行	100
+han guo zi you xing	韩国自由行	100
+han hai su chao	韩海苏潮	100
+han han de	憨憨地	100
+han han de	憨憨的	100
+han han de xiao	憨憨地笑	100
+han han yuan	喊喊冤	100
+han hao ji qi	寒号饥泣	100
+han he di liu zhao	汉和帝刘肇	100
+han hen zai xin	含恨在心	100
+han hong guang da	含弘光大	100
+han hou chun pu	憨厚淳朴	100
+han hou pu shi	憨厚朴实	100
+han hu bu qing de shuo	含糊不清地说	100
+han hu luo bo	含胡萝卜	100
+han hua ban ben	汉化版本	100
+han hua jin du	汉化进度	100
+han hua ju ying	含华咀英	100
+han hua wan jie	寒花晚节	100
+han hua zu	汉化组	100
+han hui gao mu	寒灰槁木	100
+han hui lai	喊回来	100
+han hui qu	喊回去	100
+han hun mo hu	含混模糊	100
+han ji dai feng	含讥带讽	100
+han ji feng yi	含讥讽意	100
+han jia de shi hou	寒假的时候	100
+han jia lai le	寒假来了	100
+han jia lang	汉家郎	100
+han jia li	寒假里	100
+han jia mo shi	寒假模式	100
+han jia nv	汉家女	100
+han jia sheng huo zhi dao	寒假生活指导	100
+han jia shi ke	寒假十课	100
+han jia yu kuai	寒假愉快	100
+han jia yuan di	寒假园地	100
+han jia zhang	喊家长	100
+han jia zong jie	寒假总结	100
+han jia zuo ye ben	寒假作业本	100
+han jiang chuan shi	悍将传世	100
+han jiang liu yu	韩江流域	100
+han jiang qi ji	汉江奇迹	100
+han jiang shi fan	汉江师范	100
+han jiang wei guo	捍疆卫国	100
+han jiang zhong xue	邗江中学	100
+han jiao dai chen	含娇带嗔	100
+han jiao shou dao	寒郊瘦岛	100
+han jie can shu	焊接参数	100
+han jie gong yi can shu	焊接工艺参数	100
+han jie hang ye	焊接行业	100
+han jie qiang du	焊接强度	100
+han jie su du	焊接速度	100
+han jie su du kuai	焊接速度快	100
+han jie wen du	焊接温度	100
+han jie xi tong	焊接系统	100
+han jie xiao lv	焊接效率	100
+han jie yi shu	焊接艺术	100
+han jin jin	汗浸浸	100
+han jin lai	喊进来	100
+han jin long	韩金龙	100
+han jin ru gu	涵今茹古	100
+han jing de	韩竞德	100
+han jing di liu qi	汉景帝刘启	100
+han jing ge	韩婧格	100
+han jing ri	韩京日	100
+han jing yang	韩景阳	100
+han ju nan zhu jue	韩剧男主角	100
+han ju nv zhu jue	韩剧女主角	100
+han jun qi rong jiao	含菌气溶胶	100
+han kang mai yao	韩康卖药	100
+han kou jiang tan	汉口江滩	100
+han kou shi	汉口市	100
+han kou yin hang	汉口银行	100
+han kou zhan	汉口站	100
+han kou zhen	汉口镇	100
+han ku ke	汉库克	100
+han ku ke	汉库珂	100
+han lai han qu	喊来喊去	100
+han le ban tian	喊了半天	100
+han le duo nian	喊了多年	100
+han le ji sheng	喊了几声	100
+han le jin qu	含了进去	100
+han le ju	喊了句	100
+han le sheng	喊了声	100
+han le xin	寒了心	100
+han le yi ju	喊了一句	100
+han le yi sang zi	喊了一嗓子	100
+han le yi sheng	喊了一声	100
+han le yi sheng mei	喊了一声美	100
+han lei de li qu	含泪地离去	100
+han lei huo zhe	含泪活着	100
+han lei xiao	含泪笑	100
+han lei zhi chi	含泪支持	100
+han leng de	寒冷的	100
+han leng de di fang	寒冷的地方	100
+han leng di dai	寒冷地带	100
+han leng di qu	寒冷地区	100
+han lian she	韩联社	100
+han liang jiang di	含量降低	100
+han liao zhi zai	旱潦之灾	100
+han lin bei yuan	翰林北苑	100
+han lin xue xiao	翰林学校	100
+han lin you ji wu	含磷有机物	100
+han ling ba shan	撼岭巴山	100
+han ling sha	韩菱纱	100
+han liu bu zhi	汗流不止	100
+han liu fen	含硫分	100
+han liu qia bei	汗流洽背	100
+han liu ru yu	汗流如雨	100
+han liu xia lai	汗流下来	100
+han liu xia lai le	汗流下来了	100
+han lv xiao du ji	含氯消毒剂	100
+han ma liang	含妈量	100
+han ma zhi gong	汗马之功	100
+han ma zhi ji	汗马之绩	100
+han ma zhi lao	汗马之劳	100
+han man meng hui zang	汉满蒙回藏	100
+han mao zhong	汗毛重	100
+han mei nv	韩美女	100
+han men qing xiang	寒门卿相	100
+han men xiao hu	寒门小户	100
+han men yuan	焊门员	100
+han meng de	韩蒙德	100
+han mi te	含米特	100
+han mi te ren	含米特人	100
+han mi te yu	含米特语	100
+han miao de yu	旱苗得雨	100
+han ming di liu zhuang	汉明帝刘庄	100
+han miu bu ren	悍谬不仁	100
+han mo wei chu	汉末魏初	100
+han mo zhi	翰墨志	100
+han mou ren	韩某人	100
+han mu bo	韩沐伯	100
+han na shan	汉拿山	100
+han nan dong	汉南洞	100
+han ni ba	喊你爸	100
+han ni di	喊你弟	100
+han ni di di	喊你弟弟	100
+han ni die	喊你爹	100
+han ni er zi	喊你儿子	100
+han ni ge	喊你哥	100
+han ni hai zi	喊你孩子	100
+han ni jie	喊你姐	100
+han ni lai	喊你来	100
+han ni ma	喊你妈	100
+han ni mei	喊你妹	100
+han ni mei mei	喊你妹妹	100
+han ni niang	喊你娘	100
+han ni nv er	喊你女儿	100
+han ni si	汉尼斯	100
+han po hou long	喊破喉咙	100
+han po hou long ye mei you yong	喊破喉咙也没有用	100
+han qi lai	含起来	100
+han qi tai zhong	寒气太重	100
+han qi zhi lei	含气之类	100
+han qi zhong	寒气重	100
+han qu jiao yuan	喊屈叫冤	100
+han quan zhi si	寒泉之思	100
+han ran bu gu	悍然不顾	100
+han ran hui yue	悍然毁约	100
+han ren ming	喊人名	100
+han ren wang chao	汉人王朝	100
+han ri ci dian	汉日词典	100
+han ri guan xi	韩日关系	100
+han ri shi jie bei	韩日世界杯	100
+han rong neng li	涵容能力	100
+han rong ze	韩镕泽	100
+han ru kou nei	含入口内	100
+han rui ze	韩瑞泽	100
+han sang zi	喊嗓子	100
+han shan ba shu	撼山拔树	100
+han shan shi fan	韩山师范	100
+han shan shi fan xue yuan	韩山师范学院	100
+han shan yue	寒山月	100
+han shang ju zhi	含商咀徵	100
+han shang lai	喊上来	100
+han shang qu	喊上去	100
+han shang qu	焊上去	100
+han shao jun	韩少军	100
+han shao jun	韩少君	100
+han shen me	喊什么	100
+han shen yi dian	含深一点	100
+han sheng xuan	韩生宣	100
+han sheng yu	韩胜宇	100
+han sheng zhu	韩升洙	100
+han shi fu	喊师父	100
+han shi qing tui	汉室倾颓	100
+han shi shuai luo	汉室衰落	100
+han shi suo ai	憾失所爱	100
+han shi yi	韩十一	100
+han shi zhang	韩市长	100
+han shi zhong	寒湿重	100
+han shi zong	汉世宗	100
+han shi zu	汉世祖	100
+han shou di mei	颔首低眉	100
+han shou ke	函授课	100
+han shou ke cheng	函授课程	100
+han shou si xin	汗手死心	100
+han shou tou xiang	韩寿偷香	100
+han shou wei xiao	颔首微笑	100
+han shou zhi jiao	颔首之交	100
+han shu dan diao xing	函数单调性	100
+han shu de can shu	函数的参数	100
+han shu de dan diao xing	函数的单调性	100
+han shu de ji ou xing	函数的奇偶性	100
+han shu de zi bian liang	函数的自变量	100
+han shu di gui	函数递归	100
+han shu di gui diao yong zi ji	函数递归调用自己	100
+han shu guan xi	函数关系	100
+han shu guan xi shi	函数关系式	100
+han shu ji	寒暑计	100
+han shu jun	韩书俊	100
+han shu nei	函数内	100
+han shu pi fu	撼树蚍蜉	100
+han shu tu xing ji suan	函数图形计算	100
+han shu yi jie	寒暑易节	100
+han shu yi wen zhi	汉书艺文志	100
+han shu zhi xing	函数执行	100
+han shu zhong de	函数中的	100
+han shui lv di	含水率低	100
+han shui lv gao	含水率高	100
+han si dun er	汉斯顿尔	100
+han si dun er chang pian	汉斯顿尔唱片	100
+han si jun	汉四郡	100
+han su yin	韩素音	100
+han ta bing du	汉他病毒	100
+han ta er	汗褟儿	100
+han ta lai	喊他来	100
+han ta lai	喊她来	100
+han ta lai	喊它来	100
+han tai zong	汉太宗	100
+han tai zu	汉太祖	100
+han tang jie	汉唐街	100
+han tang liang dai	汉唐两代	100
+han tang wei	喊堂威	100
+han tao ren er	憨桃人儿	100
+han teng ge li shan	汗腾格里山	100
+han teng liang	含腾量	100
+han teng teng	韩藤藤	100
+han tian feng	韩天峰	100
+han tian zhen di	撼天震地	100
+han tie pi	焊铁皮	100
+han tie tiao	焊铁条	100
+han ting jiu dian	汉庭酒店	100
+han ting kuai jie	汉庭快捷	100
+han tong shuai luo	汉统衰落	100
+han wai zhang	韩外长	100
+han wang shu lai	寒往暑来	100
+han wang zhen	汉旺镇	100
+han wei chen	韩维辰	100
+han wei juan yong	含味隽永	100
+han wei liu chao	汉魏六朝	100
+han wei rong yao	捍卫荣耀	100
+han wen zi mu	韩文字母	100
+han wo lai	喊我来	100
+han wo men	喊我们	100
+han wo yi sheng	喊我一声	100
+han wo zuo	喊我做	100
+han wu bao fa	寒武爆发	100
+han wu di liu che	汉武帝刘彻	100
+han wu ji da bao fa	寒武纪大爆发	100
+han wu ji sheng ming da bao fa	寒武纪生命大爆发	100
+han wu ren ru	含污忍辱	100
+han wu sheng shi	汉武盛世	100
+han wu xi	寒武系	100
+han xi chang long zhan	汉溪长隆站	100
+han xi che	韩系车	100
+han xi che xing	韩系车型	100
+han xi chuan da	韩系穿搭	100
+han xi feng	韩系风	100
+han xi feng ge	韩系风格	100
+han xi lin li	酣嬉淋漓	100
+han xi pin pai	韩系品牌	100
+han xi ru lei	鼾息如雷	100
+han xi shao nv	韩系少女	100
+han xi sheng	鼾息声	100
+han xi xian dai	韩系现代	100
+han xi xiao jie jie	韩系小姐姐	100
+han xia lai	喊下来	100
+han xia qu	喊下去	100
+han xia xian	颔下腺	100
+han xia zhi zhu	颔下之珠	100
+han xiang jian	寒香见	100
+han xiang wu	寒香舞	100
+han xiao er si	含笑而死	100
+han xiao er zhong	含笑而终	100
+han xiao zhou	韩孝周	100
+han xin deng tan	韩信登坛	100
+han xin pi fu	韩信皮肤	100
+han xin suan bi	寒心酸鼻	100
+han xin suan gua	韩信算卦	100
+han xin xiao zhi	寒心销志	100
+han xin xin pi fu	韩信新皮肤	100
+han xiong jue zhan	汉匈决战	100
+han xiu bei lei li li ya	含羞蓓蕾莉莉娅	100
+han xiu dai kui	含羞带愧	100
+han xiu dai xiao	含羞带笑	100
+han xiu ren chi	含羞忍耻	100
+han xiu tian shi	含羞舔舐	100
+han xuan di liu xun	汉宣帝刘询	100
+han xuan ji ju	寒暄几句	100
+han xuan le ji ju	寒暄了几句	100
+han xue xi	汉学系	100
+han xue zhe	汉学者	100
+han ya hang kong	韩亚航空	100
+han ya long	韩亚龙	100
+han ya yin hang	韩亚银行	100
+han yan du	含盐度	100
+han yan guan	旱烟管	100
+han yan long wu	含烟笼雾	100
+han yan lv	含盐率	100
+han yan rou	寒烟柔	100
+han yan shuai cao	寒烟衰草	100
+han yan tong	旱烟筒	100
+han yan wu di	汗颜无地	100
+han yan zhi	韩彦直	100
+han yang fu	汉阳府	100
+han yang hua tie	含氧化铁	100
+han yang tian	旱秧田	100
+han yang zi	韩阳子	100
+han yao fang	汉药方	100
+han ye nuan	寒夜暖	100
+han yi chen	韩以晨	100
+han yi ge	汗一个	100
+han yi lei	韩一磊	100
+han yi liao qiao	寒意料峭	100
+han yi se	韩艺瑟	100
+han yi xuan song	汉仪玄宋	100
+han yi yu sheng	寒意愈盛	100
+han yi zheng chang	喊亦正常	100
+han yi zi ku	汉仪字库	100
+han ying ci dian	汉英辞典	100
+han ying hu yi	汉英互译	100
+han ying zi dian	汉英字典	100
+han yong zi	罕用字	100
+han you de	罕有的	100
+han you hu luo bo su	含有胡萝卜素	100
+han you na	韩尤娜	100
+han you ni gu ding	含有尼古丁	100
+han you qi pi	罕有其匹	100
+han you shen me	含有什么	100
+han you yan	含油岩	100
+han you zhong jin shu	含有重金属	100
+han yu cheng yu	汉语成语	100
+han yu fen	韩娱粉	100
+han yu jiao du	汉语角度	100
+han yu pu tong hua	汉语普通话	100
+han yu qin	韩雨芹	100
+han yu shi shi	寒燠失时	100
+han yu xi	韩语系	100
+han yu xue xiao	汉语学校	100
+han yu yin yun xue	汉语音韵学	100
+han yu zhong	汉语中	100
+han yu zi dian	汉语字典	100
+han yu zu	汉语族	100
+han yuan er si	含怨而死	100
+han yuan er zhong	含冤而终	100
+han yuan er zhong	含怨而终	100
+han yuan fu qu	含冤负屈	100
+han yuan yi yuan	翰苑颐园	100
+han yue qing xiao qi meng hui	寒月清宵绮梦回	100
+han yun xi	韩云溪	100
+han yun xi	韩芸汐	100
+han zai kou nei	含在口内	100
+han zai kou zhong	含在口中	100
+han zai qu	旱灾区	100
+han zai zui li	含在嘴里	100
+han zhang lao	韩长老	100
+han zhao di liu fu ling	汉昭帝刘弗陵	100
+han zhe chi	含着吃	100
+han zhe hao zi	喊着号子	100
+han zhe jin tang chi	含着金汤匙	100
+han zhe jin tang chi chu sheng	含着金汤匙出生	100
+han zhe jin tang chi zhang da	含着金汤匙长大	100
+han zhe jin tang shao	含着金汤勺	100
+han zhe jin tang shao chu sheng	含着金汤勺出生	100
+han zhe kou hao	喊着口号	100
+han zhe lei hua	含着泪花	100
+han zhe lei shui	含着泪水	100
+han zhe nai zui	含着奶嘴	100
+han zhe re lei	含着热泪	100
+han zhe ru tou	含着乳头	100
+han zhe xiang liang de kou hao	喊着响亮的口号	100
+han zhe xiao	含着笑	100
+han zhe yin tang chi chu sheng	含着银汤匙出生	100
+han zhe yin tang shao chu sheng	含着银汤勺出生	100
+han zhen qiang fan	悍镇强藩	100
+han zhi en	韩智恩	100
+han zhi jun	韩智俊	100
+han zhi yun	汉之云	100
+han zhong di qu	汉中地区	100
+han zhong du du	汉中都督	100
+han zhong fu	汉中府	100
+han zhong guan xi	韩中关系	100
+han zhong jin shu	含重金属	100
+han zhong pen di	汉中盆地	100
+han zhong zong	汉中宗	100
+han zhu le	含住了	100
+han zhu su	含住宿	100
+han zhu tu yu	含珠吐玉	100
+han zi cha zi fa	汉字查字法	100
+han zi hao	寒字号	100
+han zi hua	汉字化	100
+han zi wen hua quan	汉字文化圈	100
+han zi zi pin	汉字字频	100
+han zi zi pin biao	汉字字频表	100
+han zong zhi	韩宗志	100
+han zu chuan tong	汉族传统	100
+han zu wang chao	汉族王朝	100
+han cai	蔊菜	99
+han zhen	汗疹	95
+han xin yong bing	韩信用兵	93
+han yuan jiao qu	喊冤叫屈	93
+han shu jie liu	函数节流	92
+han si gan pi	汉斯干啤	91
+han dao	旱道	90
+han er bu fa	含而不发	90
+han ge	捍格	90
+han xing	寒星	89
+han gao an quan ban shu ju ku xi tong	瀚高安全版数据库系统	87
+han gao ji chu ruan jian	瀚高基础软件	87
+han gao ji chu ruan jian gu fen you xian gong si	瀚高基础软件股份有限公司	87
+han bu dao	喊不到	85
+han kui	含愧	85
+han wo	酣卧	85
+han yang ke yun zhong xin	汉阳客运中心	85
+han zhao di	汉昭帝	83
+han jia cun	韩家村	82
+han shan lu	含山路	81
+han lian	含殓	80
+han zi bian ma fang an	汉字编码方案	80
+han bing men	寒冰门	79
+han fu ju	韩复榘	78
+han ge	含铬	77
+han jie fei	焊接费	77
+han shui yin suo	汉水银梭	76
+han shi zhong	韩世忠	75
+han yong jin	韩永进	75
+han shui yun	含税运	73
+han yu jia yuan	韩娱家园	73
+han xi men	汉西门	72
+han zi shu chu	汉字输出	72
+han guo jin hu	韩国锦湖	71
+han de bi	喊得比	70
+han gou	罕觏	70
+han yan cui	寒烟翠	70
+han zi chuan	汉字串	70
+han meng	含锰	69
+han guang wu di	汉光武帝	65
+han guo qu	韩国去	65
+han jian	汗碱	65
+han shui bu han shui	含税不含税	65
+han tan bing du	汉坦病毒	65
+han xin nuo	汉欣诺	65
+han jie shu liang	焊接数量	64
+han zhong mi mian pi	汉中米面皮	61
+han you ceng	含油层	60
+han zhu	焊珠	60
+han kong	汗孔	56
+han wang xiao xi	汉网消息	56
+han zi shu ru fang an	汉字输入方案	55
+han cheng di	汉成帝	53
+han yuan di	汉元帝	53
+han wang da sha	汉王大厦	52
+han wei dian zi	汉威电子	51
+han bu zhu	喊不住	50
+han ling	函令	50
+han tang he ying	寒塘鹤影	49
+han jia wan cun	韩家湾村	48
+han zheng	寒证	48
+han zi qu wei ma	汉字区位码	48
+han ming di	汉明帝	47
+han gong chun	汉宫春	46
+han jiang du diao	寒江独钓	45
+han kou da jie	汉口大街	45
+han yuan jiu quan	含冤九泉	45
+han bing bao bao	旱冰宝宝	44
+han zhe re zhi	寒者热之	43
+han gu	汉沽	41
+han han hou hou	憨憨厚厚	40
+han xian chu	韩先楚	40
+han yu zi dong fen ci	汉语自动分词	40
+han zi dai ma	汉字代码	38
+han sheng jiao	汉生胶	37
+han guo wu qu	韩国舞曲	36
+han qing yu shuo gong zhong shi	含情欲说宫中事	36
+han guo ban fan	韩国拌饭	35
+han guo han hua	韩国韩华	35
+han bing zhi shi	寒冰之石	34
+han tu chu wa	汉图楚娃	34
+han de qin	韩德勤	33
+han nan	汉喃	33
+han nan wen	汉喃文	33
+han zei bu liang li	汉贼不两立	33
+han gui	含硅	32
+han xiu	含溴	32
+han qin	旱芹	31
+han yuan	翰苑	31
+han chan bian	寒蝉变	30
+han cheng shang ye jie	汉城商业街	30
+han gou cang ji	含垢藏疾	30
+han hao chong	寒号虫	30
+han hui di	汉惠帝	30
+han guo	汗国	29
+han leng xing xun ma zhen	寒冷性荨麻疹	28
+han ling di	汉灵帝	28
+han shi shan	韩石山	28
+han yu zhe	汉语者	28
+han jia chuan	韩家川	27
+han zi ji	汉字集	27
+han ning qi zhi	寒凝气滞	26
+han yuan mo bai	含冤莫白	26
+han zi lu	韩子卢	26
+han bei lu	汉北路	25
+han jie he jin	焊接合金	25
+han shen	焊神	25
+han shou	函售	25
+han shu ji hao	函数记号	25
+han suan qi	寒酸气	25
+han sui yi ye qu	寒随一夜去	25
+han wei da sha	汉威大厦	25
+han xiao zhu	韩孝珠	25
+han zhen zhen	韩真真	25
+han qiao cun	汉桥村	23
+han bing hu ti	寒冰护体	22
+han xin jiang bing	韩信将兵	22
+han cheng xian	韩城县	21
+han dong nuan bei	寒冬暖被	21
+han zhang di	汉章帝	21
+han zhong mi pi	汉中米皮	21
+han jun xi bao	含菌细胞	20
+han liao wen ji	含蓼问疾	20
+han pin	函聘	20
+han qing gan	含氰苷	20
+han wen di liu heng	汉文帝刘恒	20
+han yu fen xi	汉语分析	20
+han zhu you	含猪油	20
+han zi na	韩姿娜	20
+han bao	憨包	19
+han can	汉餐	19
+han jia ba	韩家坝	19
+han tai lun tai you xian gong si	韩泰轮胎有限公司	19
+han yuan shou qu	含冤受屈	19
+han zi shu ru ma	汉字输入码	19
+han cha xiang	韩岔乡	18
+han jiang he di	汉江河堤	18
+han leng xing zhi mo yan	寒冷性脂膜炎	18
+han xi men	旱西门	18
+han yuan dian yi zhi	含元殿遗址	18
+han jia zhuang	韩家庄	17
+han lin xue yuan	瀚林学院	17
+han zong	韩综	17
+han hua guo ji fan dian	汉华国际饭店	16
+han qi ci gu	寒气刺骨	16
+han re cuo za	寒热错杂	16
+han bu chu hua	喊不出话	15
+han bu gan chu	汗不敢出	15
+han gang bin guan	邯钢宾馆	15
+han kou dao	汉口道	15
+han miao	韩庙	15
+han ning jiao	含凝胶	15
+han ping di	汉平帝	15
+han shu chu kou	函数出口	15
+han tang	旱塘	15
+han zhe ne	含着呢	15
+han guo jun	韩国钧	14
+han shi	寒石	14
+han ban xiang	憨班乡	13
+han mi dun	汉弥顿	13
+han qi xiang	韩起祥	13
+han shi chang	韩世昌	13
+han shi qiao shi di	汉石桥湿地	13
+han yang lu	汉阳路	13
+han zhong bang bang mian	汉中梆梆面	13
+han bing fa shi	寒冰法师	12
+han bu han	含不含	12
+han chun	含春	12
+han dan meng	邯郸梦	12
+han lin hua yuan	翰林花园	12
+han shu mo xing	函数模型	12
+han shun di	汉顺帝	12
+han tang	汉塘	12
+han ting dong	韩庭栋	12
+han yang jie	汉阳街	12
+han yu yu yin shi bie	汉语语音识别	12
+han dou	汉兜	11
+han he di	汉和帝	11
+han lin	寒林	11
+han sen	汉森	11
+han shi	顸实	11
+han shui shi	寒水石	11
+han xue mei zhong jin	寒雪梅中尽	11
+han yuan lu kou	含元路口	11
+han zi jiao huan ma	汉字交换码	11
+han zi xin xi chu li	汉字信息处理	11
+han bu liao	撼不了	10
+han cheng xiao qu	汉城小区	10
+han dan shi di yi yi yuan	邯郸市第一医院	10
+han fei lu	韩非路	10
+han jia tan	韩家潭	10
+han lin lu zhong duan	翰林路中段	10
+han shu cheng xu she ji	函数程序设计	10
+han xiu ren ru	含羞忍辱	10
+han xuan di ling	汉宣帝陵	10
+han bi	寒痹	9
+han fei li tian	翰飞戾天	9
+han guo ren shen ji	韩国人参鸡	9
+han ji sheng re	寒极生热	9
+han si	汉斯	9
+han zhi gan mai	寒滞肝脉	9
+han bao zi	旱包子	8
+han chu ru you	汗出如油	8
+han guo mei si	韩国美思	8
+han niu xiang	汗牛乡	8
+han shen zhai	韩慎斋	8
+han su qing bai zhuo ru ni	寒素清白浊如泥	8
+han tian dong di	寒天冻地	8
+han wen di xing zhi gai ge	汉文帝刑制改革	8
+han xian yan	汗腺炎	8
+han zhong zhong xue	汉中中学	8
+han zhuang zi nan	韩庄子南	8
+han an di	汉安帝	7
+han ba	含钯	7
+han bo	含铂	7
+han cheng qi yuan	汉城奇缘	7
+han dan shi jian she gong cheng zhao biao tou biao tiao li	邯郸市建设工程招标投标条例	7
+han de fen lei ci yu shou ce	汉德分类词语手册	7
+han fan	含钒	7
+han gu	含钴	7
+han hu bu ming	含糊不明	7
+han huan di	汉桓帝	7
+han jie dian hu	焊接电弧	7
+han lao	含铑	7
+han li	含锂	7
+han mu	含钼	7
+han ru	含铷	7
+han ti	含锑	7
+han xu hun tai qing	涵虚混太清	7
+han yi	含铱	7
+han ying fa lv fan yi jiao cheng	汉英法律翻译教程	7
+han yu	含玉	7
+han bing sui pian	寒冰碎片	6
+han da gai su mu	罕达盖苏木	6
+han de le	汉德勒	6
+han gu ru jin	涵古茹今	6
+han guang lu nan kou	含光路南口	6
+han hao xiang	汉豪乡	6
+han jia hu tong	韩家胡同	6
+han jia shan	韩家山	6
+han liu zhi zhong	汗流至踵	6
+han shou xian	汉寿县	6
+han yan gua yu	罕言寡语	6
+han yu yan xue yuan	汉语言学院	6
+han cai xue li bing tang zhi	蔊菜雪梨冰糖汁	5
+han dan xiang xiao cui ye can	菡萏香销翠叶残	5
+han de jing ji he jing ji fa ci dian	汉德经济和经济法词典	5
+han fu	憾负	5
+han gou ni xia	含垢匿瑕	5
+han guo min shi zhi xing fa	韩国民事执行法	5
+han hu hu	憨乎乎	5
+han jia qiao	韩家桥	5
+han jiang	韩江	5
+han jie guan	焊接馆	5
+han keng li	旱坑里	5
+han lin xiang	汉林乡	5
+han mu chun hua	寒木春华	5
+han shu de kuo zhang	函数的扩张	5
+han shu ling zhi	函数零值	5
+han tang yue fu	汉唐乐府	5
+han ting	汉廷	5
+han wu lu	汉武路	5
+han xi huo che zhan	汉西火车站	5
+han xiu guo	含羞果	5
+han yao dai	旱腰带	5
+han yin han yong	寒因寒用	5
+han yu bo de	瀚宇博德	5
+han zhong jie dao	汉中街道	5
+han zhuang zi bei	韩庄子北	5
+han bing jue	寒冰诀	4
+han fu de	韩福德	4
+han hai lan gan bai zhang bing	瀚海阑干百丈冰	4
+han hong lin	韩红林	4
+han ji shan gu	寒脊山谷	4
+han jia tun	韩家屯	4
+han kong jiao hua zheng	汗孔角化症	4
+han kou cun	涵口村	4
+han leng xing duo xing hong ban	寒冷性多形红斑	4
+han liang jun yun du	含量均匀度	4
+han lin ya ju	翰林雅居	4
+han niu sai wu	汗牛塞屋	4
+han pei ying	韩佩颖	4
+han po ling	韩婆岭	4
+han rong guang	韩荣光	4
+han shan zhuan cang cui	寒山转苍翠	4
+han shang xing	寒伤形	4
+han sheng ze fu	寒胜则浮	4
+han wei guo jia fa lv zun yan	捍卫国家法律尊严	4
+han xia bai deng dao	汉下白登道	4
+han xing leng yue	寒星冷月	4
+han xiu wan zi	含羞丸子	4
+han yuan zi	韩园子	4
+han zhi wu nan	憨直舞男	4
+han zhong jun	汉中郡	4
+han zu dui	汉族队	4
+han ai di	汉哀帝	3
+han bang qing	韩邦庆	3
+han cong gou zhen	寒葱沟镇	3
+han cong zhong sheng	寒从中生	3
+han dan shi zhong yi yuan	邯郸市中医院	3
+han deng du ye ren	寒灯独夜人	3
+han dian jiao chi	函电交驰	3
+han gao zu liu bang	汉高祖刘邦	3
+han han pang pang	憨憨胖胖	3
+han hao zhuang	韩郝庄	3
+han jia lin	韩家麟	3
+han jia shan dong er bai zhou	汉家山东二百州	3
+han jiang jie dao	汉江街道	3
+han ling tou xiang	韩令偷香	3
+han qia zi tan ha sa ke zu xiang	旱卡子滩哈萨克族乡	3
+han qin hu	韩擒虎	3
+han ren huai yi	含仁怀义	3
+han shan pian shi	寒山片石	3
+han shao di	汉少帝	3
+han shi kao you yu	韩式烤鱿鱼	3
+han shi li	寒湿痢	3
+han shui jie tian hui	汉水接天回	3
+han shui qiao jie dao	汉水桥街道	3
+han wei fa	捍卫法	3
+han xian zi	含仙子	3
+han ya nang zhong	含牙囊肿	3
+han yi zhen xian mi	寒衣针线密	3
+han ying	寒樱	3
+han zhe gu tou lou zhe rou	含着骨头露着肉	3
+han bai gong lu	汉白公路	2
+han chuan zu pa ke li	寒喘祖帕颗粒	2
+han da qi zhen	罕达汽镇	2
+han dai cun	涵埭村	2
+han dan	菡萏	2
+han dan dao	邯郸道	2
+han dan fa he hua	菡萏发荷花	2
+han dan yi li feng dong zhi	邯郸驿里逢冬至	2
+han deng du ke qin	寒灯独可亲	2
+han en zi qian hu en shen	汉恩自浅胡恩深	2
+han ge zhuang	韩各庄	2
+han gu er he zhen	汉古尔河镇	2
+han guang zhao tie yi	寒光照铁衣	2
+han huang zhong se si qing guo	汉皇重色思倾国	2
+han jia chuan nan zhan	韩家川南站	2
+han jia cun cun	韩家村村	2
+han jia qing shi shang	汉家青史上	2
+han jia zhuang zi	韩家庄子	2
+han jiang cun	蚶江村	2
+han jiang jie	汉江街	2
+han jiang xue liu ri xin qing	寒江雪柳日新晴	2
+han jin ying	韩金英	2
+han jing ju hua	含菁咀华	2
+han ke	汉克	2
+han kou	汉口	2
+han li	韩立	2
+han li gu han	寒栗鼓颔	2
+han li zhi lai wu xiang	悍吏之来吾乡	2
+han lin kong jian ri xie shi	寒林空见日斜时	2
+han mang	寒芒	2
+han mei zhuo hua wei	寒梅著花未	2
+han qing yi wei ying	含情易为盈	2
+han rong	涵容	2
+han san qi	韩三奇	2
+han shan cun	含山村	2
+han shan tong	韩山童	2
+han shi	韩氏	2
+han shi ye wang yin	寒食野望吟	2
+han si	含锶	2
+han song ling	韩松龄	2
+han tan bing du fei zong he zheng	汉坦病毒肺综合征	2
+han tian cui ri duan	寒天催日短	2
+han wu fan han	寒无犯寒	2
+han xiang guan	韩香馆	2
+han xiao ru di	含笑入地	2
+han xin ren ku	含辛忍苦	2
+han xing	汉姓	2
+han xing nong zhong	寒性脓肿	2
+han xiong	韩兄	2
+han ya dai jiao	含牙带角	2
+han ya dai jiao	含牙戴角	2
+han yong you you	涵泳优游	2
+han yuan dian cun	含元殿村	2
+han yuan xiang	韩院乡	2
+han zhang tian ting	含章天挺	2
+han zhang ting sheng	含章挺生	2
+han zhi min	韩志旼	2
+han zhi min	韩智敏	2
+han zhu ting	含珠停	2
+han zhuang cun cun wei hui	韩庄村村委会	2
+han zhuang ke ju	憨状可掬	2
+han ai hou	韩哀侯	1
+han ai ri ke xiang	罕艾日克乡	1
+han ba bai ye cha	旱魃拜夜叉	1
+han ba wei sui	旱魃为祟	1
+han ba wei zai	旱魃为灾	1
+han bao tu e	含苞吐萼	1
+han bi er yu	罕比而喻	1
+han bing de wu qi	寒冰的武器	1
+han bing duan jian	寒冰短剑	1
+han bing fan dan	寒冰反弹	1
+han bing gong dian	寒冰宫殿	1
+han bing mo huan	寒冰魔环	1
+han bing ru bo	含冰茹檗	1
+han bing yi lve di	汉兵已略地	1
+han bu la ji	憨不啦唧	1
+han chan jiang niao	寒蝉僵鸟	1
+han chan ming gao liu	寒蝉鸣高柳	1
+han chao cheng se jing bao	寒潮橙色警报	1
+han chao pin xuan jiang	汉朝频选将	1
+han cheng yang rou he le	韩城羊肉饸饹	1
+han cheng yang rou sao zi he le	韩城羊肉臊子饸饹	1
+han chong di	汉冲帝	1
+han chu qia bei	汗出洽背	1
+han chu rong ju you	寒初荣橘柚	1
+han cun cun wei hui	韩村村委会	1
+han dan jin fu rong	菡萏金芙蓉	1
+han dan pu fu	邯郸匍匐	1
+han dan sheng ni wan yi nan	菡萏生泥玩亦难	1
+han dan zhi meng	邯郸之梦	1
+han dang	韩当	1
+han di she	寒地蛇	1
+han di yao tian	撼地摇天	1
+han diao	汉调	1
+han dong hui zu xiang	汉东回族乡	1
+han dong lang ji xi wei shi xiang song	韩冬郎即席为诗相送	1
+han dong shi er yue	寒冬十二月	1
+han en zi qian hu zi shen	汉恩自浅胡自深	1
+han fang zi ruo	酣放自若	1
+han feng qin ji	寒风侵肌	1
+han feng xia gu	寒风峡谷	1
+han fu duan shi	寒腹短识	1
+han fu xing	韩复兴	1
+han gai chong zhou	函盖充周	1
+han ge bu ru	扞格不入	1
+han ge bu ru	捍格不入	1
+han ge bu tong	扞格不通	1
+han ge zui wu	酣歌醉舞	1
+han gong shi nv an chui lei	汉宫侍女暗垂泪	1
+han gou bao xiu	含垢包羞	1
+han gou qi xia	含垢弃瑕	1
+han gu hui chun	寒谷回春	1
+han guang bing hun	寒光冰魂	1
+han guang wu di liu xiu	汉光武帝刘秀	1
+han guo duo duo	韩国多多	1
+han guo zhuan li zhi du	韩国专利制度	1
+han hao ming jian	含毫命简	1
+han hao shun mo	含毫吮墨	1
+han hui geng ran	寒灰更然	1
+han hui yuan	含晖苑	1
+han ji	韩吉	1
+han ji shan	寒脊山	1
+han ji shan xiao jing	寒脊山小径	1
+han ji song	汉肌松	1
+han jia chuan bei zhan	韩家川北站	1
+han jia chuan xiang	韩家川乡	1
+han jia dian xiang	韩家店乡	1
+han jiang	寒螀	1
+han jiang gong ye yuan guan wei hui	邗江工业园管委会	1
+han ke ni xing gen chong	汉克拟星根虫	1
+han kou xi dao	汉口西道	1
+han kou xi yang xie du niao	汉口夕阳斜渡鸟	1
+han lei	韩磊	1
+han lin du shu yan huai	翰林读书言怀	1
+han ling kun	韩令坤	1
+han ling pian shi	韩陵片石	1
+han liu jia fu	汗流浃肤	1
+han liu jia ti	汗流浃体	1
+han liu jia zhong	汗流浃踵	1
+han liu jie zhong	汗流接踵	1
+han liu qia yi	汗流洽衣	1
+han lu zhu kuai	韩卢逐块	1
+han lu zhu qun	韩卢逐逡	1
+han lv shi hui	含氯石灰	1
+han ma gong ji	汗马功绩	1
+han ma xun lao	汗马勋劳	1
+han man dong gao shang	汗漫东皋上	1
+han mao zhuo shu	寒毛卓竖	1
+han mei dian zhui qiong zhi ni	寒梅点缀琼枝腻	1
+han mei yi zuo dong feng xin	寒梅已作东风信	1
+han ming yin ji	含明隐迹	1
+han na	汉娜	1
+han na	汉纳	1
+han niu chong wu	汗牛充屋	1
+han niu sai dong	汗牛塞栋	1
+han nuo wei lie quan	汉诺威猎犬	1
+han nuo wei xiu lie quan	汗挪威嗅猎犬	1
+han pao zheng	汗疱症	1
+han pi er yu	罕譬而喻	1
+han qi qie fu	寒气切肤	1
+han qia gu li	汗洽股栗	1
+han qiao jie	汉桥街	1
+han qing tou bai	汗青头白	1
+han qing yu yu du wu chu	含情欲语独无处	1
+han qu er si	含屈而死	1
+han quan che di you	寒泉彻底幽	1
+han re bi jiao nang	寒热痹胶囊	1
+han ren zhu ze	汉人煮箦	1
+han ri jiu cheng xian	汉日旧称贤	1
+han ruo ning	韩若凝	1
+han sa tong meng hui zhang	汉萨同盟徽章	1
+han sai chuang	含腮疮	1
+han sha	汉莎	1
+han shan pian shi	韩山片石	1
+han shang gong	韩上宫	1
+han sheng yi ye chuan diao dou	寒声一夜传刁斗	1
+han shi gong ren bu da qiu	寒食宫人步打球	1
+han shi jie xiong	寒实结胸	1
+han shi jin yan	寒食禁烟	1
+han shi kun pi	寒湿困脾	1
+han shi la jiang you yu si	韩式辣酱鱿鱼丝	1
+han shi leng ti	汉氏棱鳀	1
+han shi nei ren chang bai da	寒食内人长白打	1
+han shi ou zhou e	韩氏偶舟蛾	1
+han shi qing ming chun yu po	寒食清明春欲破	1
+han shi xiang gong	函矢相攻	1
+han shi yi tong	韩氏医通	1
+han shi zheng	寒湿证	1
+han shou fen xiang	韩寿分香	1
+han shu hu liu yi	寒暑忽流易	1
+han shuang gou	寒霜钩	1
+han shuang lv xue	含霜履雪	1
+han shuang zhi yan	寒霜之焰	1
+han shui dao	涵水道	1
+han shui jiu ru lian	汉水旧如练	1
+han shui zhen	寒水镇	1
+han song	韩嵩	1
+han suan luo po	寒酸落魄	1
+han sui	韩遂	1
+han tang	喊堂	1
+han tang de	喊堂的	1
+han tao ye	汉桃叶	1
+han tao ye ruan jiao nang	汉桃叶软胶囊	1
+han tian cao mu huang luo jin	寒天草木黄落尽	1
+han tiao	悍跳	1
+han tong lin li	酣痛淋漓	1
+han wang gong mu	汉王公墓	1
+han wen gua jian	罕闻寡见	1
+han wen hai	韩文海	1
+han wen hou	韩文侯	1
+han wen hua	韩文华	1
+han wu	寒武	1
+han wu bei guan chong	寒武杯管虫	1
+han wu ren gou	含污忍垢	1
+han wu tuo gu	汉武托孤	1
+han xi guo yang hua wu mei	含硒过氧化物酶	1
+han xia ji gou	含瑕积垢	1
+han xia ru liu	汗下如流	1
+han xiao hua chun	含笑花醇	1
+han xiao kan wu gou	含笑看吴钩	1
+han xie chan yu	韩邪单于	1
+han xin ru tu	含辛茹荼	1
+han xin xiao zhi	寒心消志	1
+han xing	韩姓	1
+han xu yun jie	含蓄蕴藉	1
+han xue bing feng	寒雪冰风	1
+han ya dai fa	含牙戴发	1
+han yang dao	汉阳道	1
+han yang gong zhu jin ji qiu	汉阳宫主进鸡球	1
+han yang lu qiao	汉阳路桥	1
+han yi chu chu cui dao chi	寒衣处处催刀尺	1
+han yi gu	韩伊谷	1
+han yi qi sun	含饴弃孙	1
+han yi wei shen	含意未申	1
+han yin lu	汉阴路	1
+han ying ba weng	憨蝇霸鹟	1
+han ying zhi bai shi kuang hua	寒樱枝白是狂花	1
+han yong wan suo	涵泳玩索	1
+han yu	捍御	1
+han yu fei wei shi shu dian	寒雨霏微时数点	1
+han yuan bao hen	含冤抱恨	1
+han yuan bao tong	含冤抱痛	1
+han yue xiu	瀚粤秀	1
+han zai xi	韩宰锡	1
+han ze qi shou	寒则气收	1
+han zhao hou	韩昭侯	1
+han zheng	韩正	1
+han zheng bei mu ji	旱蒸贝母鸡	1
+han zhi di	汉质帝	1
+han zhu shan he jin xiu zhong	汉主山河锦绣中	1
+han zhuang cun wei hui	韩庄村委会	1

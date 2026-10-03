@@ -1,0 +1,457 @@
+lv shi	律师	306161
+lv you ju	旅游局	59056
+lv xing he tong	履行合同	42386
+lv dou tang	绿豆汤	20591
+lv rou	驴肉	17022
+lv you he tong	旅游合同	14704
+lv jian bu xian	屡见不鲜	14553
+lv hua jia	氯化钾	12815
+lv dou ya	绿豆芽	9756
+lv da gun	驴打滚	6848
+lv zhou	绿洲	6634
+lv shui qing shan	绿水青山	6492
+lv jing	滤镜	5830
+lv cheng	绿城	5528
+lv xing di	履行地	5334
+lv xing fa ding zhi ze	履行法定职责	5280
+lv hua gai	氯化钙	5105
+lv hou	吕后	4808
+lv dou gao	绿豆糕	4620
+lv dou zhou	绿豆粥	4399
+lv se shi pin ren zheng	绿色食品认证	3849
+lv xing jiao che	旅行轿车	3517
+lv you fa	旅游法	3466
+lv liang shi	吕梁市	3313
+lv hua mei	氯化镁	3028
+lv jiao bu gai	屡教不改	2902
+lv you ji san zhong xin	旅游集散中心	2756
+lv an tong	氯胺酮	2066
+lv dao	绿岛	2029
+lv xing kang bian quan	履行抗辩权	1908
+lv se jia yuan	绿色家园	1869
+lv shi bu shuang	屡试不爽	1757
+lv shi shou fei	律师收费	1638
+lv you xue yuan	旅游学院	1628
+lv rou huo shao	驴肉火烧	1586
+lv se ban	绿色版	1461
+lv dou	绿都	1223
+lv zhan lv bai	屡战屡败	1130
+lv cheng	绿橙	1116
+lv dou bing	绿豆饼	1027
+lv xing fang che	旅行房车	927
+lv you wei yuan hui	旅游委员会	919
+lv cao ru yin	绿草如茵	870
+lv xing bu neng	履行不能	812
+lv chang	铝厂	803
+lv hua dan jian	氯化胆碱	789
+lv jing xiao guo	滤镜效果	773
+lv yuan	绿园	727
+lv ping guo	绿苹果	704
+lv bo lang	绿波廊	699
+lv mei su	氯霉素	688
+lv ke yun shu he tong	旅客运输合同	664
+lv hua na	氯化钠	631
+lv zhong mei	吕忠梅	628
+lv you ke chi xu fa zhan	旅游可持续发展	570
+lv liu ju	绿柳居	534
+lv bo suan fa	滤波算法	493
+lv jing	绿景	479
+lv bu	吕布	403
+lv jian	氯碱	377
+lv jing	吕静	376
+lv yang cun	绿杨村	314
+lv li ping	吕丽萍	301
+lv shi shi wu suo	律师事务所	261
+lv xing chi yan	履行迟延	244
+lv liang wei	吕良伟	229
+lv shi wen zhai	律师文摘	222
+lv shun kou	旅顺口	218
+lv cha dan gao	绿茶蛋糕	206
+lv ge	旅鸽	203
+lv jian	绿建	202
+lv yuan	绿苑	194
+lv bin	吕滨	191
+lv dong bin	吕洞宾	176
+lv ben fu	吕本富	173
+lv hua xi	氯化烯	173
+lv chun bu dui ma zui	驴唇不对马嘴	171
+lv hua meng	氯化锰	171
+lv chun	绿春	170
+lv shi zhi ye xing wei gui fan	律师执业行为规范	159
+lv nong gan jun	绿脓杆菌	158
+lv yi xi	氯乙烯	150
+lv dou fen pi	绿豆粉皮	143
+lv zheng cao	吕正操	142
+lv you fa xue	旅游法学	141
+lv ping	绿萍	134
+lv chu ye	滤出液	132
+lv di shi ji cheng	绿地世纪城	132
+lv guo	滤过	132
+lv cao	葎草	128
+lv ban chang	驴板肠	126
+lv meng ke ji	绿盟科技	126
+lv zhou hua yuan	绿洲花园	126
+lv hua ji di	绿化基地	115
+lv yan	吕燕	115
+lv dou liang fen	绿豆凉粉	110
+lv yuan suan	绿原酸	110
+lv mu	律母	109
+lv yin ge	绿茵阁	107
+lv jian	吕建	106
+lv shu hua	吕淑华	102
+lv meng	吕蒙	101
+lv pao	滤泡	101
+lv you zi xun dian hua	旅游咨询电话	99
+lv tou lang	驴头狼	96
+lv qi zhong du	氯气中毒	95
+lv qin	吕钦	90
+lv shu xiang	吕叔湘	90
+lv bing qin	氯丙嗪	88
+lv shi wei zheng zui	律师伪证罪	87
+lv hua na zhu she ye	氯化钠注射液	82
+lv yuan xiao qu	绿苑小区	82
+lv bu wei	吕不韦	78
+lv lan sha	绿兰莎	77
+lv shu cun bian he	绿树村边合	77
+lv hua an	氯化铵	76
+lv qi	滤器	75
+lv kui	氯喹	72
+lv shi ti qian jie ru	律师提前介入	72
+lv tu zhi bin	率土之滨	72
+lv kun	吕坤	68
+lv xiao ming	吕晓明	67
+lv jing ku	滤镜库	66
+lv hua hu po dan jian	氯化琥珀胆碱	64
+lv dan ping	氯氮平	60
+lv xue	吕学	58
+lv bi ge lei	氯吡格雷	56
+lv cha su	绿茶酥	56
+lv fei hong shou	绿肥红瘦	55
+lv ci san fan	屡次三番	53
+lv jing cao zuo	滤镜操作	51
+lv kai	吕凯	51
+lv zhi	吕雉	50
+lv zhou jia yuan	绿洲家园	50
+lv zu qian	吕祖谦	50
+lv lei ta ding	氯雷他定	49
+lv mei su di yan ye	氯霉素滴眼液	49
+lv xiao xi pan	氯硝西泮	48
+lv dong cun jie dao	绿东村街道	46
+lv si mian	吕思勉	41
+lv cun	吕村	40
+lv liu ju cai guan	绿柳居菜馆	39
+lv cao niu	绿草牛	38
+lv shan	吕山	38
+lv xiao zhai	吕小寨	38
+lv ning si	吕宁思	37
+lv jia ying	吕家营	34
+lv xian ru yi	履险如夷	34
+lv dou wan zi	绿豆丸子	33
+lv xiang	吕翔	31
+lv rou guan	驴肉馆	30
+lv yi xin pei jiu	绿蚁新醅酒	30
+lv yin bai tu jiao	绿茵白兔饺	30
+lv you fa yan jiu	旅游法研究	30
+lv bin	吕宾	29
+lv rong	吕荣	29
+lv shi zhi du yu shi wu	律师制度与实务	29
+lv xie	绿蝎	29
+lv zhu	绿珠	28
+lv zhuang cun	吕庄村	27
+lv cheng xi zi	绿城西子	26
+lv hao	吕浩	26
+lv tou bu dui ma zui	驴头不对马嘴	26
+lv ben na min	氯苯那敏	25
+lv shun kai fa qu	旅顺开发区	24
+lv tan suan mei	铝碳酸镁	24
+lv dou tu	绿豆凸	23
+lv shun lu	旅顺路	23
+lv cuo	吕厝	22
+lv duan	吕端	22
+lv se guo yuan	绿色果园	22
+lv se you hua zhi dou	绿色油化之都	22
+lv ye cheng yin	绿叶成荫	21
+lv guang	吕光	20
+lv bo wang	吕伯望	19
+lv dou dou	绿豆兜	19
+lv jiao bu xue ke li	驴胶补血颗粒	19
+lv dai	吕岱	18
+lv gong	吕公	18
+lv xian ting jie dao	吕仙亭街道	18
+lv cun cun wei hui	吕村村委会	17
+lv dan zhuo	氯氮卓	17
+lv hua na rong ye	氯化钠溶液	17
+lv shang	吕尚	16
+lv yao gao	绿药膏	16
+lv guo mo	滤过膜	15
+lv jing er lu	绿景二路	15
+lv se ting che chang	绿色停车场	15
+lv wang	吕王	15
+lv yao juan	绿咬鹃	15
+lv qin yuan	绿沁园	14
+lv jing hua yuan	绿景花园	13
+lv liu liang	吕留良	13
+lv yun kang cheng	绿韵康城	13
+lv bo she	吕伯奢	12
+lv ji	吕纪	12
+lv sha tan	氯沙坦	12
+lv yin xiao qu	绿茵小区	12
+lv yuan ju	绿园居	12
+lv zhan meng	吕旃蒙	12
+lv dao jia yuan	绿岛家园	11
+lv ding er xi	氯丁二烯	11
+lv fen huang min pian	氯芬黄敏片	11
+lv jian	吕坚	11
+lv lei ta ding pian	氯雷他定片	11
+lv mei zha tong	氯美扎酮	11
+lv yuan	吕元	11
+lv yuan lu	绿苑路	11
+lv cao lv chong	绿草履虫	10
+lv hou shan	吕厚山	10
+lv hua jia zhu she ye	氯化钾注射液	10
+lv jing xiao qu	绿景小区	10
+lv se liu lan qi	绿色浏览器	10
+lv tan suan mei pian	铝碳酸镁片	10
+lv yang yan wai xiao han qing	绿杨烟外晓寒轻	10
+lv chun yang	吕纯阳	9
+lv guo lv	滤过率	9
+lv dan ping pian	氯氮平片	8
+lv dou hua yuan	绿都花园	8
+lv feng jia yuan	绿丰家园	8
+lv gong bao zhen	吕公堡镇	8
+lv mei su zhu she ye	氯霉素注射液	8
+lv shui ren jia rao	绿水人家绕	8
+lv zhuan	旅专	8
+lv bian shan yuan bai man chuan	绿遍山原白满川	7
+lv bing kui	吕炳奎	7
+lv cha mu si	绿茶慕斯	7
+lv fan	吕范	7
+lv hua ya gong	氯化亚汞	7
+lv xing she gong gao zhi du	旅行社公告制度	7
+lv xiong	吕熊	7
+lv yang yin li bai sha di	绿杨阴里白沙堤	7
+lv ying hua yuan	吕营花园	7
+lv gu	率谷	6
+lv hui sheng	吕惠生	6
+lv ye fa hua zi	绿叶发华滋	6
+lv bing mi qin	氯丙咪嗪	5
+lv bing xi	氯丙烯	5
+lv chen fei	铝尘肺	5
+lv chi	吕赤	5
+lv cuo chuang	氯痤疮	5
+lv dao gong yuan	绿岛公园	5
+lv di	吕地	5
+lv hai huan	吕海寰	5
+lv huang bing niao	氯磺丙脲	5
+lv liu zhu lun zou dian che	绿柳朱轮走钿车	5
+lv pao xing lin ba liu	滤泡性淋巴瘤	5
+lv sai tong	氯噻酮	5
+lv sha tan jia	氯沙坦钾	5
+lv shi ze ren bao xian zhi du	律师责任保险制度	5
+lv shui qing shan wang zi duo	绿水青山枉自多	5
+lv shui zhong chu chang	绿水种畜场	5
+lv yang dai yu chui chui zhong	绿杨带雨垂垂重	5
+lv yi wan	氯乙烷	5
+lv yin shu xia yang jing shen	绿荫树下养精神	5
+lv yuan	吕渊	5
+lv yuan lin chang	绿源林场	5
+lv biao	吕标	4
+lv bing na lin	氯丙那林	4
+lv dao hua ting	绿岛华庭	4
+lv dou dong gua tang	绿豆冬瓜汤	4
+lv dou ru yin liao	绿豆乳饮料	4
+lv dou xiao mi xi fan	绿豆小米稀饭	4
+lv jie lin ding	氯解磷定	4
+lv jiu yi bei ge yi bian	绿酒一杯歌一遍	4
+lv ju	吕据	4
+lv lei ta ding jiao nang	氯雷他定胶囊	4
+lv mei zha tong pian	氯美扎酮片	4
+lv shi jie	吕世杰	4
+lv song xiao	吕宋小	4
+lv ting duo luo ye	榈庭多落叶	4
+lv xin zong cheng	滤芯总成	4
+lv yang qiao	绿杨桥	4
+lv ye cheng yin zi man zhi	绿叶成阴子满枝	4
+lv you jing ji zheng ce	旅游经济政策	4
+lv cha nuo mi juan	绿茶糯米卷	3
+lv chuan ying zi	绿川英子	3
+lv dou tuan	绿豆团	3
+lv huang	吕璜	3
+lv lei ta ding tang jiang	氯雷他定糖浆	3
+lv mei su pian	氯霉素片	3
+lv pai si ting	氯哌斯汀	3
+lv se hong zha ji	绿色轰炸机	3
+lv sha tan jia pian	氯沙坦钾片	3
+lv shang chun	吕尚春	3
+lv tan suan mei ju jue pian	铝碳酸镁咀嚼片	3
+lv tao	吕陶	3
+lv xiao xi pan pian	氯硝西泮片	3
+lv xing zhang ai fa yan jiu	履行障碍法研究	3
+lv yang feng dong wu yao hui	绿杨风动舞腰回	3
+lv yi pin	吕一品	3
+lv you fa lun cong	旅游法论丛	3
+lv yuan ai she	绿园爱舍	3
+lv yuan du jia cun	绿园度假村	3
+lv zuo xi lin	氯唑西林	3
+lv ben	吕本	2
+lv cha ruan tang	绿茶软糖	2
+lv chang	吕常	2
+lv dou xiao jian bing	绿豆小煎饼	2
+lv fu ting	吕佛庭	2
+lv hua na di yan ye	氯化钠滴眼液	2
+lv huai	吕怀	2
+lv huai gao liu yan xin chan	绿槐高柳咽新蝉	2
+lv huang bing niao pian	氯磺丙脲片	2
+lv jia zhuang cun wei hui	吕家庄村委会	2
+lv jiao bu xue chong ji	驴胶补血冲剂	2
+lv jin wen	吕锦文	2
+lv lin suan er na jiao nang	氯膦酸二钠胶囊	2
+lv lu sun guan tou	绿芦笋罐头	2
+lv mei jia hun xuan ye	铝镁加混悬液	2
+lv po qiong qing wei	旅泊穷清渭	2
+lv qian	吕虔	2
+lv shan cun	吕山村	2
+lv shi jie xi te xu jing ying	律师解析特许经营	2
+lv shu	吕墅	2
+lv tan suan mei ke li	铝碳酸镁颗粒	2
+lv tang xiang	绿塘乡	2
+lv wei lu	律纬路	2
+lv wu	吕屋	2
+lv xian	吕献	2
+lv xian ji	吕贤基	2
+lv xing zhe fu xie	旅行者腹泻	2
+lv xiong ba se dong	绿胸八色鸫	2
+lv yang yi zuo liang jia chun	绿杨宜作两家春	2
+lv yi xi zhong du	氯乙烯中毒	2
+lv yin xi qu	绿荫西区	2
+lv zhen	吕震	2
+lv zhu ru you jing	绿竹入幽径	2
+lv an hong yan hun ke shi	绿暗红嫣浑可事	1
+lv bin cheng shuang peng	绿鬓成霜蓬	1
+lv bo jin ye man nong guang	绿波浸叶满浓光	1
+lv bo lang chuan dian	绿波廊船点	1
+lv bu tun	吕布屯	1
+lv cha gao dian	绿茶糕点	1
+lv cheng mao jiang cong	缕橙芼姜葱	1
+lv chuan guang	绿川光	1
+lv chuan xiao qu	绿川小区	1
+lv ci jian bai you	旅次兼百忧	1
+lv ci xiang yuan you huai ling jun	旅次湘沅有怀灵均	1
+lv cui ru fu rong	绿翠如芙蓉	1
+lv cun nan zhan	吕村南站	1
+lv cuo cun	吕厝村	1
+lv de	吕得	1
+lv di yi yuan	绿地医院	1
+lv di yun tong	氯地孕酮	1
+lv dou dou sha bao	绿豆豆沙包	1
+lv fen	氯酚	1
+lv gong	吕宫	1
+lv guan han deng du bu mian	旅馆寒灯独不眠	1
+lv he bao fan chen xu ren	绿荷包饭趁虚人	1
+lv hong cun	吕虹村	1
+lv hua jia huan shi pian	氯化钾缓释片	1
+lv hua jia pian	氯化钾片	1
+lv ji	吕及	1
+lv ji zhou	吕继周	1
+lv jiao yin yue mei qing sao	绿娇隐约眉轻扫	1
+lv jie lin ding zhu she ye	氯解磷定注射液	1
+lv jin guang wei qing	绿金光伪蜻	1
+lv jing di chan	绿景地产	1
+lv jiu chu chang ren yi zui	绿酒初尝人易醉	1
+lv lang dong xi nan bei shui	绿浪东西南北水	1
+lv lei ta ding ju jue pian	氯雷他定咀嚼片	1
+lv lin ding	氯磷定	1
+lv long	吕隆	1
+lv ma si ting	氯马斯汀	1
+lv nong gan jun xing fei yan	绿脓杆菌性肺炎	1
+lv nuo xi kang	氯诺昔康	1
+lv pao shang pi xi bao	滤泡上皮细胞	1
+lv pu ba qu	吕浦八区	1
+lv se liu	绿色瘤	1
+lv sheng yuan	绿盛源	1
+lv shi shi yong kou cai	律师实用口才	1
+lv shi wei quan an li xuan	律师维权案例选	1
+lv shi zhi ye ji ben su yang	律师执业基本素养	1
+lv shu zhong yin gai si lin	绿树重阴盖四邻	1
+lv shui xin chi man	绿水新池满	1
+lv tian cheng	吕天成	1
+lv wu qiang rao qing tai yuan	绿芜墙绕青苔院	1
+lv xi ci mi	氯烯雌醚	1
+lv xiao bai	吕小白	1
+lv xiao liu an	氯硝柳胺	1
+lv xing lin	吕兴林	1
+lv ya shi pian huo qian chun	绿芽十片火前春	1
+lv yan shang yun gui zi sai	旅雁上云归紫塞	1
+lv yang shu xia yang jing shen	绿杨树下养精神	1
+lv yang xiang mo qiu feng qi	绿杨巷陌秋风起	1
+lv yang xin cun	绿杨新村	1
+lv ye xi zi jing	绿叶兮紫茎	1
+lv yi ding	氯已定	1
+lv yin yuan xiao qu	绿茵园小区	1
+lv yu xia er you mi lu	侣鱼虾而友麋鹿	1
+lv yuan chen guang	绿苑晨光	1
+lv yue bao han	履约保函	1
+lv yue lv	履约率	1
+lv zhi zun er zhi liu he	履至尊而制六合	1
+lv zhong gui shen jing	律中鬼神惊	1
+lv zhou wan gong yu	绿洲湾公寓	1
+lv zuo xi lin na	氯唑西林钠	1
+lv an lu xi	绿安禄蜥	0
+lv ban jia gou xia hu yu	绿斑颊沟鰕虎鱼	0
+lv ban jiao chi du die	绿斑角翅毒蝶	0
+lv ban xiao shao	侣伴肖蛸	0
+lv ban yun fen die	绿斑云粉蝶	0
+lv cang hua tian niu	绿苍花天牛	0
+lv cao chan	绿草蝉	0
+lv cao mei gui ying wu	绿草玫瑰鹦鹉	0
+lv cha zhi gan xing shan hu	绿叉枝干星珊瑚	0
+lv chi hui ban ya	绿翅灰斑鸭	0
+lv chi xie tian niu	绿翅楔天牛	0
+lv chi ye ming e	绿翅野螟蛾	0
+lv chi zhen hua tian niu	绿翅真花天牛	0
+lv dian bing ji tian niu	绿点并脊天牛	0
+lv ding hui feng niao	绿顶辉蜂鸟	0
+lv er bao luo	驴耳鲍螺	0
+lv fu ji zhang jiao shi e	绿腹姬长角石蛾	0
+lv fu zhang wei feng niao	绿腹长尾风鸟	0
+lv gong yan cao	绿宫延草	0
+lv guan yue xiong cuan niao	绿冠月胸窜鸟	0
+lv he ying ge yu	绿颌鹦哥鱼	0
+lv hou mang guo feng niao	绿喉芒果蜂鸟	0
+lv hu jiao fen he jia chong	绿胡椒粉盒甲虫	0
+lv ling	驴羚	0
+lv lu feng	绿芦蜂	0
+lv lv niu kou shan hu	绿绿纽扣珊瑚	0
+lv mei cui li	绿眉翠鴗	0
+lv mo gu kui hua shan hu	绿蘑菇葵花珊瑚	0
+lv mo tian niu	绿墨天牛	0
+lv pi she	绿疲蛇	0
+lv qi hua jin gui	绿奇花金龟	0
+lv qi zhong luo	綠臍鐘螺	0
+lv se feng chao shan hu	绿色蜂巢珊瑚	0
+lv se hong mei hua que	绿色红梅花雀	0
+lv se hong zha ji ru chong	绿色轰炸机蠕虫	0
+lv se xiao yan gao jiao zhu	绿色小眼高脚蛛	0
+lv shan wei ying ge	绿扇尾鹦哥	0
+lv song cui feng die	吕宋翠凤蝶	0
+lv song feng ye ying	吕宋缝叶莺	0
+lv song hua yi	吕宋花鮨	0
+lv song ji jiu	吕宋鸡鸠	0
+lv song jiao xiao	吕宋角鸮	0
+lv song xiao quan rong	吕宋小泉戎	0
+lv tou zhang he yu	驴头长颌鱼	0
+lv wei xiao juan e	绿尾小卷蛾	0
+lv wen er	绿蚊儿	0
+lv xi fu ba weng	绿希夫霸鹟	0
+lv xiao guan dong	绿啸冠鸫	0
+lv xiao weng	绿小鹟	0
+lv xie ge bi	绿胁歌鵖	0
+lv xie lv ba weng	绿胁绿霸鹟	0
+lv xiong bao shi feng niao	绿胸宝石蜂鸟	0
+lv yan bai mao	绿眼白猫	0
+lv yan bai se mao	绿眼白色猫	0
+lv yan tiao wen bu xing chong	绿艳条纹步行虫	0
+lv yan zhang jiao hua jin gui	绿艳长脚花金龟	0
+lv ye hai wo niu	绿叶海蜗牛	0
+lv ye zhao chao xie	绿叶招潮蟹	0
+lv yu gou shu	绿鱼狗属	0

@@ -1,0 +1,417 @@
+gui fan	规范	3247208
+gui huan	归还	174946
+gui fan xing	规范性	104607
+gui fan xing wen jian	规范性文件	65947
+gui zhou mao tai	贵州茅台	31714
+gui zhou sheng	贵州省	31219
+gui zhang	规章	27150
+gui hua xu ke zheng	规划许可证	25233
+gui mo xiao yi	规模效益	21298
+gui fan xing wei	规范行为	11864
+gui bing pai xu	归并排序	11460
+gui yang shi	贵阳市	10807
+gui gu	硅谷	10499
+gui gen jie di	归根结底	10289
+gui yi hua	归一化	9568
+gui hua	归化	7320
+gui gen dao di	归根到底	6858
+gui jin shu	贵金属	5896
+gui lin mi fen	桂林米粉	5755
+gui ling gao	龟苓膏	5113
+gui lin shi	桂林市	3997
+gui dang wen jian	归档文件	2944
+gui suan lv	硅酸铝	2742
+gui suan gai	硅酸钙	2172
+gui dang ri zhi	归档日志	2061
+gui ling	归零	2058
+gui gui sui sui	鬼鬼祟祟	2029
+gui dong	桂东	1631
+gui fei ji	贵妃鸡	1631
+gui fan quan li	规范权力	1612
+gui yang	桂阳	1582
+gui kou guan li	归口管理	1551
+gui hua wei	规划委	1524
+gui fu shen gong	鬼斧神工	1310
+gui gang shi	贵港市	1283
+gui yue	归约	1180
+gui xin si jian	归心似箭	1080
+gui ze yin qing	规则引擎	940
+gui shan	龟山	932
+gui ze ji	规则集	916
+gui fa xiang	桂发祥	879
+gui fei	贵妃	860
+gui bin ting	贵宾厅	858
+gui ji	诡计	830
+gui shi shen chai	鬼使神差	824
+gui xi shi	贵溪市	743
+gui ze ku	规则库	666
+gui ya na	圭亚那	661
+gui quan	桂醛	637
+gui ping shi	桂平市	495
+gui mi xin qiao	鬼迷心窍	490
+gui ding	贵定	439
+gui lin lu	桂林路	419
+gui suan yan	硅酸盐	409
+gui xi	桂西	399
+gui xi	桂溪	378
+gui hua yuan	桂花园	341
+gui hua lu	桂花路	336
+gui hua nuo mi ou	桂花糯米藕	323
+gui zhang zhi ding cheng xu tiao li	规章制定程序条例	323
+gui zhong	桂中	321
+gui hua tang ou	桂花糖藕	310
+gui chi	贵池	308
+gui fa xiang ma hua	桂发祥麻花	301
+gui fan yu fa lv	规范与法律	297
+gui zhi	桂枝	286
+gui zhou lu	贵州路	272
+gui ju fang yuan	规矩方圆	266
+gui suan	硅酸	247
+gui hua cun	桂花村	243
+gui ding xing zheng cuo shi	规定行政措施	220
+gui hu	桂湖	219
+gui shan	桂山	218
+gui dang jie dang	归档解档	215
+gui ge shuo ming	规格说明	211
+gui na tui li	归纳推理	183
+gui hua gang	桂花岗	174
+gui you	硅油	173
+gui lin dian zi ke ji da xue	桂林电子科技大学	172
+gui tang	圭塘	167
+gui zhou sheng wei ning xian	贵州省威宁县	165
+gui ku lang hao	鬼哭狼嚎	164
+gui hua shen pi quan	规划审批权	144
+gui man te	炔螨特	141
+gui shan dao	桂山岛	140
+gui xiang jiao	硅橡胶	138
+gui gu da jie	硅谷大街	133
+gui ji duo duan	诡计多端	132
+gui qu lai xi	归去来兮	130
+gui na xue xi	归纳学习	124
+gui liang	桂良	123
+gui lin ren	桂林人	117
+gui zao tu	硅藻土	117
+gui zhou	桂洲	117
+gui jue duo bian	诡谲多变	113
+gui gang shi gang nan qu	贵港市港南区	111
+gui xi jie dao	桂溪街道	109
+gui fan ming	规范名	106
+gui ping xi shan cha	桂平西山茶	99
+gui fan xing jie shi	规范性解释	96
+gui chi lu	贵池路	93
+gui fan fa xue	规范法学	93
+gui fen ji yi fa	归分记忆法	93
+gui hua xi tong	规划系统	90
+gui lin wan bao	桂林晚报	87
+gui lin gong yuan	桂林公园	86
+gui nan	贵南	85
+gui hua su tang	桂花酥糖	84
+gui ya lei	归亚蕾	84
+gui hua gan bei	桂花干贝	82
+gui hua lin	桂花林	82
+gui xi gong jiao zhan	桂溪公交站	82
+gui gen jie di	归根结蒂	81
+gui gang shi gang bei qu	贵港市港北区	79
+gui ban	龟板	78
+gui che	鬼扯	75
+gui hua cheng	桂花城	72
+gui fei ji chi	贵妃鸡翅	69
+gui hua rou	桂花肉	68
+gui ping lu	桂平路	66
+gui hua li zi geng	桂花栗子羹	65
+gui ge	桂格	64
+gui fan yu jia zhi	规范与价值	62
+gui tong	硅酮	62
+gui ke hua she	龟壳花蛇	60
+gui lin cun	桂林村	60
+gui shan dao	龟山岛	60
+gui hua jin gao	桂花浸膏	57
+gui hua tang zhou	桂花糖粥	57
+gui hua lian ou	桂花莲藕	55
+gui tang lu	圭塘路	55
+gui zai zhi xin	贵在知心	55
+gui hua chou jiu	桂花稠酒	53
+gui tou yan	龟头炎	52
+gui hua chi zi	桂花翅子	51
+gui hua jie	桂花街	50
+gui xian	贵县	50
+gui kun tie lu	贵昆铁路	48
+gui lin jie	桂林街	46
+gui yuan lu	桂园路	46
+gui zhi tang	桂枝汤	46
+gui fei bing	贵妃饼	44
+gui hua tang nian gao	桂花糖年糕	44
+gui bao long	瑰宝龙	43
+gui yang jie	贵阳街	43
+gui hua xiang	桂花巷	42
+gui hua xian li geng	桂花鲜栗羹	40
+gui ning jiao	硅凝胶	39
+gui yan bo ye	贵研铂业	39
+gui lin yi xue yuan	桂林医学院	38
+gui yang lu	贵阳路	38
+gui hua cha bing	桂花茶饼	37
+gui miao xin cun	桂庙新村	37
+gui she suo da jiang	龟蛇锁大江	36
+gui pi wan	归脾丸	35
+gui tang zhen	桂塘镇	35
+gui xing ju bu	规行矩步	35
+gui fu	桂馥	34
+gui yong qing	桂永清	34
+gui lin tian luo	桂林田螺	32
+gui tou gui nao	鬼头鬼脑	32
+gui hua jiu niang yuan xiao	桂花酒酿元宵	31
+gui hu lu	龟湖路	30
+gui he jie	贵和街	29
+gui hua san lu	规划三路	29
+gui wang qiao	桂王桥	29
+gui hua lian pian	鬼话连篇	28
+gui hua yuan xiao	桂花元宵	28
+gui ji qu xian	轨迹曲线	28
+gui zi piao xiang	桂子飘香	28
+gui ren duo wang shi	贵人多忘事	27
+gui lin ri bao	桂林日报	26
+gui lin su tang	桂林酥糖	26
+gui you guang	归有光	26
+gui hua zuo yong	硅化作用	25
+gui yuan xiao xue	桂园小学	25
+gui fei ji huo guo	贵妃鸡火锅	24
+gui jiang lu	桂江路	24
+gui hua yu tiao	桂花鱼条	23
+gui jia jiao	龟甲胶	23
+gui ze tui li	规则推理	23
+gui pi tang	归脾汤	22
+gui shan han mu	龟山汉墓	22
+gui gang shi gang bei	贵港市港北	21
+gui hua ming	规划名	21
+gui lu	桂路	21
+gui lv suan na	硅铝酸钠	21
+gui zi yue zhong luo	桂子月中落	21
+gui chuan guang chang	妫川广场	20
+gui mo jing ji xue	规模经济学	20
+gui wen piao chong	龟纹瓢虫	20
+gui gu xiao qu	硅谷小区	19
+gui xi xian	贵溪县	19
+gui yang cun	桂阳村	19
+gui yuan lu	桂元路	19
+gui zhen cao	鬼针草	19
+gui hua	硅化	18
+gui hua chi dou tang	桂花赤豆汤	18
+gui gang shi gang nan	贵港市港南	17
+gui hua he tao dong	桂花核桃冻	17
+gui hua tang da li	桂花糖大栗	17
+gui hua tang yu nai	桂花糖芋艿	17
+gui nuo tong	炔诺酮	17
+gui yu hui yu du zhong	龟玉毁于椟中	17
+gui mo gu ji	规模估计	16
+gui sheng	贵绳	16
+gui hua tian jiu niang	桂花甜酒酿	15
+gui huo mao	鬼火冒	15
+gui lin song gao	桂林松糕	15
+gui lin xi jie	桂林西街	15
+gui ping xian	桂平县	15
+gui zhou zhong xue	桂洲中学	15
+gui dong dian li	桂东电力	14
+gui fu di huang wan	桂附地黄丸	14
+gui ge hua chu li	规格化处理	14
+gui hua jing	桂花井	14
+gui hua zhong	桂花中	14
+gui yang jun	桂阳郡	14
+gui dian	桂电	13
+gui hua xiang gao	桂花香糕	13
+gui jie yuan li	归结原理	13
+gui lin xi gua shuang	桂林西瓜霜	13
+gui shan cun	龟山村	13
+gui tai lang	桂太郎	13
+gui yuan lu	桂苑路	13
+gui zhou bai ling	贵州百灵	13
+gui feng	贵峰	12
+gui hua yuan xiang	桂花园乡	12
+gui ji	桂集	12
+gui wang	桂王	12
+gui ji mo xing	轨迹模型	11
+gui ji yan se	轨迹颜色	11
+gui lin gong xue yuan	桂林工学院	11
+gui ma niu rou	鬼马牛肉	11
+gui hua da tou cai	桂花大头菜	10
+gui lin zhong xue	桂林中学	10
+gui guan feng tou ying wu	鲑冠凤头鹦鹉	9
+gui hua bing	桂花并	9
+gui lin dong jie	桂林东街	9
+gui ren tou shang bu ceng rao	贵人头上不曾饶	9
+gui tou cun	贵头村	9
+gui shan cha	龟山茶	8
+gui cheng jia you zhan	桂城加油站	7
+gui hua bin jiang lu	规划滨江路	7
+gui lv suan gai	硅铝酸钙	7
+gui pan lu	桂畔路	7
+gui yang	桂洋	7
+gui yang shi he bin gong yuan	贵阳市河滨公园	7
+gui yu nai you dong	鲑鱼奶油冻	7
+gui guo zhen	桂果镇	6
+gui hua zha gao	桂花楂糕	6
+gui shao di huang wan	归芍地黄丸	6
+gui suan yi zhi	癸酸乙酯	6
+gui you lian ye shang	龟游莲叶上	6
+gui zhi fu ling wan	桂枝茯苓丸	6
+gui zhuang	归庄	6
+gui bao ke ji	硅宝科技	5
+gui bie wan	龟鳖丸	5
+gui chuan ruo liu feng	归穿弱柳风	5
+gui hua jian she fa gui	规划建设法规	5
+gui hua li bing	桂花栗饼	5
+gui li he ye	龟梨和也	5
+gui lin lv you xue yuan	桂林旅游学院	5
+gui min xiang	贵民乡	5
+gui qu feng chi kua	归去凤池夸	5
+gui xin zhe da dao	归心折大刀	5
+gui yuan xiao qu	贵园小区	5
+gui yuan yang rou bao	桂圆羊肉煲	5
+gui chi xian	贵池县	4
+gui ci chun	炔雌醇	4
+gui ci chun pian	炔雌醇片	4
+gui feng cun	贵峰村	4
+gui guo lu	桂果路	4
+gui he yan nian tang	龟鹤延年汤	4
+gui hua chao mi gao	桂花炒米糕	4
+gui hua jiang ji	桂花酱鸡	4
+gui hua la jiang jie	桂花辣酱芥	4
+gui hua li zi su	桂花栗子酥	4
+gui hua ren xing tian qiao	规划人行天桥	4
+gui li qin	桂利嗪	4
+gui lin zong zi	桂林粽子	4
+gui liu he zhen	归流河镇	4
+gui long ke chuan ning	桂龙咳喘宁	4
+gui man	妫满	4
+gui mo jing ji zheng ce	规模经济政策	4
+gui pan xiao xue	桂畔小学	4
+gui xiang xin cun	桂巷新村	4
+gui yang shi qian ling gong yuan	贵阳市黔灵公园	4
+gui yu jiang gai su	鲑鱼降钙素	4
+gui zhu yuan	桂竹园	4
+gui chi shi	贵池市	3
+gui fu ren yi chen ci xi	跪敷衽以陈辞兮	3
+gui hua hong shao rou	桂花红烧肉	3
+gui pai qi te	桂哌齐特	3
+gui pin	贵嫔	3
+gui po chu sheng qiu lu wei	桂魄初生秋露微	3
+gui qing lu	桂箐路	3
+gui wo nan shan chui	归卧南山陲	3
+gui yang shi shi ba zhong	贵阳市十八中	3
+gui yuan qiong yu chong ji	桂圆琼玉冲剂	3
+gui can shan yao zhu yao	归参山药猪腰	2
+gui dou lu	贵都路	2
+gui e	桂萼	2
+gui fan fu tian lao	归帆拂天姥	2
+gui fei song hua bing	贵妃松花饼	2
+gui guai yi yi min	诡怪以疑民	2
+gui hua bai tang bing	桂花白糖饼	2
+gui hua bei	桂花北	2
+gui hua gan lan	桂花橄榄	2
+gui jing lu	桂菁路	2
+gui lai xun jiu qi	归来寻旧蹊	2
+gui lin bin guan	桂林宾馆	2
+gui lin lu tian lin lu	桂林路田林路	2
+gui long ke chuan ning pian	桂龙咳喘宁片	2
+gui mi ri yan	鬼迷日眼	2
+gui pu	桂埔	2
+gui pu shen qing jiao nang	桂蒲肾清胶囊	2
+gui shan da jiu dian	桂山大酒店	2
+gui tou shan	鬼头山	2
+gui yan luo yang bian	归雁洛阳边	2
+gui yang lu ji li hua yuan	贵阳路吉利花园	2
+gui yang shi shi yan er zhong	贵阳市实验二中	2
+gui yao jing mai	贵要静脉	2
+gui you	贵由	2
+gui yu sa kong cao	鬼雨洒空草	2
+gui yuan nan li	贵园南里	2
+gui zhi fu ling jiao nang	桂枝茯苓胶囊	2
+gui zhou kai yang xian jin zhong zhen	贵州开阳县金中镇	2
+gui zun yu yang zhi ji shu	鲑鳟鱼养殖技术	2
+gui chang lu	归昌路	1
+gui ci mi	炔雌醚	1
+gui de hei qiu pi yang	贵德黑裘皮羊	1
+gui ding xing tong zhi	规定性通知	1
+gui fu li zhong wan	桂附理中丸	1
+gui han chao chu kai ming guang	匦函朝出开明光	1
+gui hang lu	归航路	1
+gui heng	桂衡	1
+gui hong sheng duan can yun bi	归鸿声断残云碧	1
+gui hua bai tang tian cai tiao	桂花白糖甜菜条	1
+gui hua cheng shi xiang qiu rong	桂花成实向秋荣	1
+gui hua cun	桂华村	1
+gui hua hu tong	桂花胡同	1
+gui hua qiu jiao jie	桂华秋皎洁	1
+gui hua shi san hao lu	规划十三号路	1
+gui hua song zi chang man di	桂花松子常满地	1
+gui ji	贵姬	1
+gui jia cun	桂家村	1
+gui jia xi ji chen	归家喜及辰	1
+gui jia zhai	桂家宅	1
+gui jian bu zai ji	贵贱不在己	1
+gui jing hui li	龟井绘里	1
+gui jing zi ju	龟井兹矩	1
+gui ke qian li zhi	归客千里至	1
+gui lai fang fu san geng	归来仿佛三更	1
+gui lai he tai chi	归来何太迟	1
+gui lai hua fa cang yan	归来华发苍颜	1
+gui lai wei jian qin huai bi	归来唯见秦淮碧	1
+gui lai xue	归来穴	1
+gui lai yan ping le	归来宴平乐	1
+gui lai zhan zhuan dao wu geng	归来展转到五更	1
+gui lao jiang hu bian	归老江湖边	1
+gui lin lv you	桂林旅游	1
+gui lin nan lu	桂林南路	1
+gui lu er jiao wan	龟鹿二胶丸	1
+gui lu er xian gao	龟鹿二仙膏	1
+gui pi ke li	归脾颗粒	1
+gui pi quan	桂皮醛	1
+gui ping xiao qu	桂平小区	1
+gui ping zhen	桂平镇	1
+gui ren jie guai nu	贵人皆怪怒	1
+gui ru wu ling yuan	归入武陵源	1
+gui shan she qu	桂山社区	1
+gui shu	鱥属	1
+gui shu he tuan tuan	桂树何团团	1
+gui shu qian xun	鬼束千寻	1
+gui si yu zhan jin	归思欲沾巾	1
+gui tou bo luo sheng mei tai	龟头剥落生莓苔	1
+gui tu xing yu xun	归途行欲曛	1
+gui xiang lou	桂香楼	1
+gui xin hai wai jian ming yue	归心海外见明月	1
+gui xuan jin xiu xiang	归轩锦绣香	1
+gui yan lai shi shu fu shu	归雁来时数附书	1
+gui yang shi huan xi xiao xue	贵阳市环西小学	1
+gui yang shi shi jiu zhong	贵阳市十九中	1
+gui yu jiang gai su zhu she ye	鲑鱼降钙素注射液	1
+gui yu pai gu	桂鱼排骨	1
+gui yuan dong li	贵园东里	1
+gui yuan jian nao pian	归元健脑片	1
+gui yuan jie	桂圆街	1
+gui zhi ke li	桂枝颗粒	1
+gui zhi ren shen tang	桂枝人参汤	1
+gui zhou zhang	桂洲长	1
+gui fei yu luo	貴妃芋螺	0
+gui gan lan chong	龟橄榄虫	0
+gui hong wei meng que wu	桂红尾猛雀鹀	0
+gui huan mi xia	归还米虾	0
+gui jiao chong wu sha	硅胶宠物砂	0
+gui li qi xi yu	瑰丽七夕鱼	0
+gui lin lou ti cao	桂林楼梯草	0
+gui mian guan dao	鬼面关刀	0
+gui quan de hai si luo	桂全德海蛳螺	0
+gui xi hua nan xi xie	贵溪华南溪蟹	0
+gui xing duan wen shi zi yu	鬼形短吻狮子鱼	0
+gui xing fu piao xia hu yu	鬼形腹瓢鰕虎鱼	0
+gui xing hua pi	龟形花蜱	0
+gui xing jian wei hou he teng	鬼形剑尾后颌鰧	0
+gui xing zhang zui lie	鲑形长嘴鱲	0
+gui ya na bao li yu	圭亚那宝丽鱼	0
+gui ya na da wen dian man	圭亚那大吻电鳗	0
+gui ya na duan yi zhi li	圭亚那短蜴脂鲤	0
+gui ya na fu kang ji man	圭亚那副康吉鳗	0
+gui ya na guan san niao	圭亚那冠伞鸟	0
+gui ya na hong san niao	圭亚那红伞鸟	0
+gui ya na luo bei dian man	圭亚那裸背电鳗	0
+gui ya na quan chi he zhi li	圭亚那犬齿河脂鲤	0
+gui ze jian hai shen	规则间海参	0
+gui zhou yu mang gan ying	贵州羽芒秆蝇	0

@@ -1,0 +1,391 @@
+pin ban	拼版	0
+pin ban zhou	拼板舟	0
+pin bao	品报	0
+pin bing suo luo	频鞞娑逻	0
+pin bu	拼布	0
+pin cha yao lu	品茶要录	0
+pin che	拼车	0
+pin chi e	贫齿鳄	0
+pin chi e shu	贫齿鳄属	0
+pin chi ha mu	贫齿蛤目	0
+pin chi long	贫齿龙	0
+pin chi long shu	贫齿龙属	0
+pin chi mu	贫齿目	0
+pin chi xin ji jie	贫齿新脊介	0
+pin chi ya mu	贫齿亚目	0
+pin chi zong mu	贫齿总目	0
+pin chu zu che	拼出租车	0
+pin chuan	品川	0
+pin chuan a lin chong	品川阿鳞虫	0
+pin chuan che zhan	品川车站	0
+pin chuan hai bin che zhan	品川海滨车站	0
+pin chuan hai bin zhan	品川海滨站	0
+pin chuan huo che zhan	品川火车站	0
+pin chuan mi er lang	品川弥二郎	0
+pin chuan nv zi xue yuan	品川女子学院	0
+pin chuan qu	品川区	0
+pin chuan shen she	品川神社	0
+pin chuan shui zu guan	品川水族馆	0
+pin chuan su	品川宿	0
+pin chuan tai chang	品川台场	0
+pin chuan wang zi da fan dian	品川王子大饭店	0
+pin chuan xin zhan	品川新站	0
+pin chuan yi	品川駅	0
+pin chuan zhan	品川站	0
+pin ci	频次	0
+pin ci	品词	0
+pin ci dao	拼刺刀	0
+pin ci xue pai	频次学派	0
+pin cong	品葱	0
+pin cong wang	品葱网	0
+pin cou yu	拼凑语	0
+pin da	品达	0
+pin da de	品达德	0
+pin da er he	品达尔河	0
+pin da luo si	品达罗斯	0
+pin da ya	品达亚	0
+pin dai	频带	0
+pin dai hui	贫代会	0
+pin dai li yong lv	频带利用率	0
+pin dao	频道	0
+pin dao bian ma	频道编码	0
+pin dao hao ma	频道号码	0
+pin dao qi dian shi wang	频道七电视网	0
+pin dao rong liang	频道容量	0
+pin dao zhi pian gong si	频道制片公司	0
+pin de	品德	0
+pin de ji tuan	品德集团	0
+pin de jiao yu	品德教育	0
+pin de yu she hui	品德与社会	0
+pin de yu sheng huo	品德与生活	0
+pin deng	品等	0
+pin di shi	拼的士	0
+pin die	拼爹	0
+pin die die	拼爹爹	0
+pin ding shi ye	品顶实业	0
+pin dou si shan	品都斯山	0
+pin duan	频段	0
+pin dui chang	拼对场	0
+pin duo duo	拼多多	0
+pin duo duo dai biao dui	拼多多代表队	0
+pin duo duo kong gu	拼多多控股	0
+pin fa jie mei wu yu	贫乏姐妹物语	0
+pin fa shen	贫乏神	0
+pin fa shen lai le	贫乏神来了	0
+pin fa zi mei wu yu	贫乏姉妹物语	0
+pin fan feng bao xing dong	频繁风暴行动	0
+pin fei	嫔妃	0
+pin fen duo lu fu yong	频分多路复用	0
+pin fen duo lu tong xin	频分多路通信	0
+pin fen duo zhi	频分多址	0
+pin fen fu yong	频分复用	0
+pin fen shuang gong	频分双工	0
+pin feng xing dong	频风行动	0
+pin fu	姘夫	0
+pin fu	姘妇	0
+pin fu	贫富	0
+pin fu bu jun	贫富不均	0
+pin fu cha ju	贫富差距	0
+pin fu fen hua	贫富分化	0
+pin fu shi xi	贫富世袭	0
+pin fu xuan shu	贫富悬殊	0
+pin ga	嫔伽	0
+pin ge jiao yu	品格教育	0
+pin gu yu ke	贫骨鱼科	0
+pin gu yu ya mu	贫骨鱼亚目	0
+pin guan	品管	0
+pin guan	品冠	0
+pin guan qi da shou fa	品管七大手法	0
+pin guan quan	品管圈	0
+pin guan xin qi da shou fa	品管新七大手法	0
+pin hao fan	拼好饭	0
+pin he xian	品鹤线	0
+pin hong	品红	0
+pin hong fu hua yi	品红副花鮨	0
+pin hong se	品红色	0
+pin hua bao jian	品花宝鉴	0
+pin hua e guan cao	贫花鹅观草	0
+pin hua hou ke gui	贫花厚壳桂	0
+pin hua san mao cao	贫花三毛草	0
+pin hua you	贫化铀	0
+pin hua you dan	贫化铀弹	0
+pin ji zhai e tun	贫棘窄额鲀	0
+pin jie	品阶	0
+pin jie rou	拼接肉	0
+pin jie tu dian zi you xi	拼接图电子游戏	0
+pin jie xian shi	拼接显示	0
+pin jin	聘金	0
+pin jin shu	贫金属	0
+pin jin shu xing	贫金属星	0
+pin jing zhao che zhan	品井沼车站	0
+pin jing zhao zhan	品井沼站	0
+pin jiu shi	品酒师	0
+pin jiu yao zai cheng wei fu qi hou	品酒要在成为夫妻后	0
+pin jiu yao zai cheng wei fu qi zhi hou	品酒要在成为夫妻之后	0
+pin ju	姘居	0
+pin jue qi che	品爵汽车	0
+pin ke	品克	0
+pin ke	品客	0
+pin ke hu	品克湖	0
+pin ke shu pian	品客薯片	0
+pin kong	品控	0
+pin kuan	频宽	0
+pin kuan yan chi cheng ji	频宽延迟乘积	0
+pin kun	贫困	0
+pin kun lv	贫困率	0
+pin kun lv you	贫困旅游	0
+pin kun nv xing hua	贫困女性化	0
+pin kun ren kou	贫困人口	0
+pin kun xian	贫困县	0
+pin kun xian	贫困线	0
+pin kun xian jing	贫困陷阱	0
+pin kun xun huan	贫困循环	0
+pin lan	品蓝	0
+pin lan hai xia	品兰海峡	0
+pin lan se	品蓝色	0
+pin lan wan	品兰湾	0
+pin le xiao ni ri yue bei	贫肋小拟日月贝	0
+pin lei lun	品类论	0
+pin lei sha shou	品类杀手	0
+pin lei zu lun	品类足论	0
+pin li	聘礼	0
+pin li zhu	品丽珠	0
+pin liu qi	拼六棋	0
+pin lv	频率	0
+pin lv	品绿	0
+pin lv bian huan qi	频率变换器	0
+pin lv bu chang	频率补偿	0
+pin lv cuo jue	频率错觉	0
+pin lv diao bian	频率调变	0
+pin lv fen bu	频率分布	0
+pin lv fen ge duo gong	频率分隔多工	0
+pin lv fen ji	频率分集	0
+pin lv fen xi	频率分析	0
+pin lv ling huo tai yang she dian wang yuan jing	频率灵活太阳射电望远镜	0
+pin lv pei zhi hua fen	频率配置划分	0
+pin lv pian yi diao bian	频率偏移调变	0
+pin lv pian yi tiao zhi	频率偏移调制	0
+pin lv qu yang fa	频率取样法	0
+pin lv tiao zhi	频率调制	0
+pin lv xiang ying	频率响应	0
+pin lv xuan ze mian	频率选择面	0
+pin lv xue pai tong ji	频率学派统计	0
+pin lv xue pai tui duan	频率学派推断	0
+pin lv xue pai tui li	频率学派推理	0
+pin lv yu	频率域	0
+pin mai hai tong	贫脉海桐	0
+pin mang ya shu	贫芒亚属	0
+pin mei	贫煤	0
+pin mei guan yin	颦眉观音	0
+pin min	贫民	0
+pin min bai wan fu weng	贫民百万富翁	0
+pin min bai wan ge xing	贫民百万歌星	0
+pin min fu weng	贫民富翁	0
+pin min ku	贫民窟	0
+pin min ku de bai wan fu weng	贫民窟的百万富翁	0
+pin min qu	贫民区	0
+pin min shi zi jun	贫民十字军	0
+pin min ying xiong	贫民英雄	0
+pin min yuan	贫民院	0
+pin ming	拼命	0
+pin ming	品茗	0
+pin ming lang yue han ni	拼命郎约翰尼	0
+pin ming san lang	拼命三郎	0
+pin ming zhan yang	拼命战羊	0
+pin mo gang	贫膜纲	0
+pin mu xuan yan	品木宣言	0
+pin na chun	嚬哪醇	0
+pin na chun	频哪醇	0
+pin na chun	频那醇	0
+pin na chun ou lian fan ying	频哪醇偶联反应	0
+pin na chun peng suan zhi	频哪醇硼酸酯	0
+pin na chun peng wan	频那醇硼烷	0
+pin na chun tong	频哪醇酮	0
+pin na chun zhong pai	嚬哪醇重排	0
+pin na chun zhong pai	频哪醇重排	0
+pin na ji chun	频哪基醇	0
+pin na tong	频哪酮	0
+pin na tong zhong pai fan ying	频哪酮重排反应	0
+pin na ye jia	频那夜迦	0
+pin niao zheng	频尿症	0
+pin nong	贫农	0
+pin nong wei yuan hui	贫农委员会	0
+pin nv shi deng	贫女施灯	0
+pin pai	品牌	0
+pin pai ce lve	品牌策略	0
+pin pai chuan di xiao guo	品牌传递效果	0
+pin pai gong cheng	品牌工程	0
+pin pai guan li	品牌管理	0
+pin pai jie chi	品牌劫持	0
+pin pai ming cheng	品牌名称	0
+pin pai quan yi	品牌权益	0
+pin pai yan shen	品牌延伸	0
+pin pai zhan lve	品牌战略	0
+pin pai zhang	品牌长	0
+pin pai zhong cheng du	品牌忠诚度	0
+pin pai zhong guo	品牌中国	0
+pin pai zong jian	品牌总监	0
+pin pan	拼盘	0
+pin pan jun ke	贫盘菌科	0
+pin pei cha	拼配茶	0
+pin pi suo luo	频毗娑罗	0
+pin pi suo luo	频毘娑罗	0
+pin pian	频偏	0
+pin pin	品品	0
+pin pin ai	拼拼爱	0
+pin po	频婆	0
+pin po guo	频婆果	0
+pin po sha luo wang	频婆沙罗王	0
+pin po suo luo	频婆娑罗	0
+pin pu	频谱	0
+pin pu fen xi yi	频谱分析仪	0
+pin pu tu	频谱图	0
+pin pu xiao lv	频谱效率	0
+pin qiong	贫穷	0
+pin qiong bing	贫穷病	0
+pin qiong bu shi she hui zhu yi	贫穷不是社会主义	0
+pin qiong gui gong zi	贫穷贵公子	0
+pin qiong jie mei wu yu	贫穷姐妹物语	0
+pin qiong jing ji xue	贫穷经济学	0
+pin qiong men kan	贫穷门槛	0
+pin qiong nan zi	贫穷男子	0
+pin qiong nian qing ren de xiao shuo	贫穷年轻人的小说	0
+pin qiong nv xing hua	贫穷女性化	0
+pin qiong se qing	贫穷色情	0
+pin qiong shen	贫穷神	0
+pin qiong wu pin	贫穷物品	0
+pin qiong xian	贫穷线	0
+pin qiong xian zhi le wo de xiang xiang li	贫穷限制了我的想象力	0
+pin qiong xiu nv hui	贫穷修女会	0
+pin qiong yi shu	贫穷艺术	0
+pin qiong zi mei wu yu	贫穷姊妹物语	0
+pin qu zhi	品趣志	0
+pin ren na he	品仁纳河	0
+pin ren na qu	品任纳区	0
+pin ren na wan	品仁纳湾	0
+pin ru	贫乳	0
+pin ru	品如	0
+pin ru de yi fu	品如的衣服	0
+pin san	聘三	0
+pin shan deng	频闪灯	0
+pin shan guan ce qi	频闪观测器	0
+pin shan xiao ying	频闪效应	0
+pin sheng	品胜	0
+pin sheng bao	拼胜堡	0
+pin shi	姘识	0
+pin shi chuan	贫士传	0
+pin shuo	频数	0
+pin si ke	品斯克	0
+pin ta bing	品他病	0
+pin te	品特	0
+pin ti	品题	0
+pin tian mu chang	品田牧场	0
+pin tian qian feng	品田前峰	0
+pin tian shan	品田山	0
+pin tie hua	拼贴画	0
+pin tie yi shu	拼贴艺术	0
+pin tou	姘头	0
+pin tou sha luo	频头沙罗	0
+pin tou suo luo	频头娑罗	0
+pin tu	拼图	0
+pin tu jie	拼图戒	0
+pin tu pei jian	拼图配件	0
+pin tu qiu	拼图球	0
+pin tu sha ren kuang	拼图杀人狂	0
+pin tui chong	贫腿虫	0
+pin tui chong ke	贫腿虫科	0
+pin tui chong shu	贫腿虫属	0
+pin tuo	品脱	0
+pin tuo he qi ming	品陀和气命	0
+pin wei	品位	0
+pin wei	品味	0
+pin wei ka fei	品味咖啡	0
+pin wei qi shi	品味歧视	0
+pin wei qu ge	品味区隔	0
+pin wei tu wen yu	品味突吻鱼	0
+pin wei zhu san jiao	品味珠三角	0
+pin wu qi	拼五棋	0
+pin xi	品系	0
+pin xi xi	拼夕夕	0
+pin xia zhong nong	贫下中农	0
+pin xie	拼写	0
+pin xie	贫协	0
+pin xie fa	拼写法	0
+pin xie fa yin	拼写发音	0
+pin xie gai ge	拼写改革	0
+pin xie jian cha	拼写检查	0
+pin xie zi mu	拼写字母	0
+pin xing zhang ai	品行障碍	0
+pin xue	贫血	0
+pin xue zheng	贫血症	0
+pin yang	频阳	0
+pin yang jun shu	贫养菌属	0
+pin ye	频耶	0
+pin ye da la	频耶达拉	0
+pin ye e shu	贫夜蛾属	0
+pin ye tuo luo	频耶陀罗	0
+pin ye zao shu he	贫叶早熟禾	0
+pin yi jian kong	频移键控	0
+pin yin	拼音	0
+pin yin bai wen	拼音白文	0
+pin yin da zhan	拼音大战	0
+pin yin hua	拼音化	0
+pin yin jia jia	拼音加加	0
+pin yin pai jian fa	拼音排检法	0
+pin yin shu ru fa	拼音输入法	0
+pin yin shun xu	拼音顺序	0
+pin yin suo xie	拼音缩写	0
+pin yin wen zi	拼音文字	0
+pin yin xing wen zi	拼音型文字	0
+pin yin xu	拼音序	0
+pin yin zi mu shun xu	拼音字母顺序	0
+pin yin zi mu yin yi	拼音字母音译	0
+pin yin zi pu	拼音字谱	0
+pin ying yi qi	品英仪器	0
+pin you	贫铀	0
+pin you dan	贫铀弹	0
+pin you dan xin	贫铀弹芯	0
+pin you dan yao	贫铀弹药	0
+pin you zhuang jia	贫铀装甲	0
+pin yu	嫔御	0
+pin yu	频域	0
+pin yu fen bian guang xue kai guan	频域分辨光学开关	0
+pin yu que mai	贫育雀麦	0
+pin yu zao shu he	贫育早熟禾	0
+pin zao	品藻	0
+pin zhen lou	聘珍楼	0
+pin zhi	品秩	0
+pin zhi	品质	0
+pin zhi bao zheng	品质保证	0
+pin zhi cheng ben	品质成本	0
+pin zhi gong cheng	品质工程	0
+pin zhi gong ye da sha	品质工业大厦	0
+pin zhi guan jian dian	品质关键点	0
+pin zhi guan jian yao su	品质关键要素	0
+pin zhi guan li	品质管理	0
+pin zhi guan zhi	品质管制	0
+pin zhi guo ji	品质国际	0
+pin zhi ji neng zhan kai	品质机能展开	0
+pin zhi jun	品治郡	0
+pin zhi ken te	品治肯特	0
+pin zhi kong zhi	品质控制	0
+pin zhi shu xing	品质属性	0
+pin zhi xi shu	品质系数	0
+pin zhi xi tong	品质系统	0
+pin zhi yin shu	品质因数	0
+pin zhi yin zi	品质因子	0
+pin zhi you xian gong si	品质有限公司	0
+pin zhi yuan yu she ji	品质源于设计	0
+pin zhong	品种	0
+pin zhuang	拼装	0
+pin zhuang li lun	拼装理论	0
+pin zhuang rou	拼装肉	0
+pin zhuang wan ju	拼装玩具	0
+pin zi bi sai	拼字比赛	0
+pin zi cai mi	拼字猜谜	0
+pin zi da sai	拼字大赛	0
+pin zi jian cha	拼字检查	0
+pin zi mi feng	拼字蜜蜂	0
+pin zi shui ku mai	贫子水苦荬	0
+pin zong	拼棕	0
+pin zui zhang da min de xing fu sheng huo	贫嘴张大民的幸福生活	0
