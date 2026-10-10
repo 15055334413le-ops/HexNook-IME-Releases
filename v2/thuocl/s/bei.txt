@@ -1,0 +1,998 @@
+bei jing	北京	1119506
+bei jing shi	北京市	189725
+bei chuan	北川	116127
+bei jing xian dai	北京现代	99890
+bei wang lu	备忘录	95339
+bei an	备案	73378
+bei fang	北方	67870
+bei jing da xue	北京大学	53165
+bei dao	被盗	48115
+bei zhi xing ren	被执行人	46073
+bei da	北大	37718
+bei chai qian ren	被拆迁人	26144
+bei dong an quan	被动安全	22646
+bei mei	北美	21980
+bei jing se	背景色	20001
+bei jing yan se	背景颜色	18372
+bei bu	背部	15826
+bei jing tu pian	背景图片	14186
+bei zhan	北站	13974
+bei jing shi fan da xue	北京师范大学	12477
+bei lu	北路	10151
+bei men	北门	10070
+bei dao er chi	背道而驰	7996
+bei an	北岸	7602
+bei qi kong gu	北汽控股	6850
+bei jing zhan	北京站	6606
+bei fen wen jian	备份文件	6363
+bei jing tu	背景图	6363
+bei shui che xin	杯水车薪	6092
+bei jing xi zhan	北京西站	6048
+bei jiang	北疆	5931
+bei shu	背书	5914
+bei jing lu	北京路	5712
+bei shi da	北师大	5614
+bei dong an quan xing	被动安全性	5448
+bei lu si ke ni	贝卢斯科尼	5159
+bei jiao	北郊	4948
+bei bei	北碚	4780
+bei jing hang kong hang tian da xue	北京航空航天大学	4483
+bei jing nan zhan	北京南站	4180
+bei bu xin qu	北部新区	4016
+bei bao wen ti	背包问题	3997
+bei shu zhuan rang	背书转让	3785
+bei er huan	北二环	3712
+bei gao zhu suo di	被告住所地	3680
+bei jie	北街	3665
+bei diao yong zhe	被调用者	3553
+bei jing li xiang	背井离乡	3546
+bei jing jiao tong da xue	北京交通大学	2962
+bei tong yu jue	悲痛欲绝	2844
+bei sai er qu xian	贝塞尔曲线	2807
+bei wang lu mo shi	备忘录模式	2774
+bei da jie	北大街	2649
+bei lin	碑林	2625
+bei jing nan	北京南	2615
+bei cheng	北城	2577
+bei jing er tong yi yuan	北京儿童医院	2368
+bei jing gu gong	北京故宫	2362
+bei shan	北山	2154
+bei guan suo	悲观锁	2138
+bei hu	北湖	1965
+bei ke han mu	贝克汉姆	1953
+bei shui yi zhan	背水一战	1913
+bei hai shi	北海市	1865
+bei jing lin ye da xue	北京林业大学	1778
+bei jing gong ye da xue	北京工业大学	1691
+bei lun	北仑	1691
+bei duo fen	贝多芬	1662
+bei yang	北洋	1628
+bei dao	北岛	1617
+bei jing tou ming	背景透明	1573
+bei hai gong yuan	北海公园	1479
+bei yuan	北苑	1456
+bei chuan xian	北川县	1450
+bei huan lu	北环路	1399
+bei shi	北市	1333
+bei jiao	北滘	1312
+bei ye si gong shi	贝叶斯公式	1305
+bei fen hui fu	备份恢复	1299
+bei wei	北魏	1293
+bei jing yu yan da xue	北京语言大学	1284
+bei jing dong wu yuan	北京动物园	1267
+bei huan li he	悲欢离合	1228
+bei tai wan	北台湾	1218
+bei guan	北关	1217
+bei jing ti yu da xue	北京体育大学	1210
+bei yuan	北园	1191
+bei yi san yuan	北医三院	1186
+bei jing xi lu	北京西路	1163
+bei li	贝利	1104
+bei jing dong lu	北京东路	1077
+bei jing zhi wu yuan	北京植物园	1072
+bei en	贝恩	1055
+bei jing si zhong	北京四中	1047
+bei cai ding wei	被裁定为	1026
+bei da huang	北大荒	1001
+bei ye si wang luo	贝叶斯网络	988
+bei er na	贝尔纳	978
+bei xin	北新	954
+bei huan da dao	北环大道	941
+bei ye si fang fa	贝叶斯方法	928
+bei yun he	北运河	822
+bei dong xi yan	被动吸烟	820
+bei qi kong gu gong si	北汽控股公司	788
+bei bin lu	北滨路	767
+bei gang	北港	762
+bei xin qi yi	背信弃义	726
+bei ban	背板	683
+bei tou	北头	667
+bei jing fu chan yi yuan	北京妇产医院	637
+bei lou	北楼	617
+bei fen huan yuan	备份还原	611
+bei ye si fen lei	贝叶斯分类	609
+bei fen guo cheng	备份过程	598
+bei fu jin	备付金	576
+bei da ke ta zhou	北达科他州	556
+bei guo feng guang	北国风光	556
+bei li gong	北理工	554
+bei ye si fen lei qi	贝叶斯分类器	550
+bei kong	北控	543
+bei tun	北屯	516
+bei jing cheng shi xue yuan	北京城市学院	505
+bei tian min ren	悲天悯人	505
+bei ye si gu ji	贝叶斯估计	500
+bei tang	北塘	488
+bei guan yan shi	悲观厌世	475
+bei liu shi	北流市	475
+bei qiao tou	北桥头	467
+bei cong zhong lai	悲从中来	463
+bei jing zhan lan guan	北京展览馆	463
+bei xin qiao	北新桥	460
+bei jing jian mo	背景建模	446
+bei da qing niao	北大青鸟	433
+bei men kou	北门口	431
+bei jing yin hang	北京银行	425
+bei jing nong xue yuan	北京农学院	419
+bei wang	北望	412
+bei zhan	北展	407
+bei qi jia	北七家	398
+bei shen qing zhi xing ren	被申请执行人	398
+bei tun shi	北屯市	396
+bei xi mo si	贝希摩斯	396
+bei gong ye qu	北工业区	389
+bei sai er qu xian	贝赛尔曲线	389
+bei jing jie	北京街	388
+bei ji ge	北极阁	384
+bei zeng suan fa	倍增算法	384
+bei mu	贝母	381
+bei ye si suan fa	贝叶斯算法	380
+bei jing tian tan	北京天坛	379
+bei shi chang	北市场	364
+bei yi lu	北一路	363
+bei yuan chun	北园春	362
+bei ji xing fa dong ji	北极星发动机	356
+bei fang gong ye da xue	北方工业大学	351
+bei gong qu xi	卑躬屈膝	339
+bei fen ruan jian	备份软件	338
+bei ma li ya na qun dao	北马里亚纳群岛	334
+bei an he	北安河	324
+bei xin jie	北新街	303
+bei hai wang xiang	被害妄想	302
+bei gong she ying	杯弓蛇影	298
+bei ling da jie	北陵大街	297
+bei shi da fu zhong	北师大附中	293
+bei jing shi gong lu tiao li	北京市公路条例	283
+bei gong men	北宫门	270
+bei jing ben chi dai ke	北京奔驰戴克	267
+bei jing yi he yuan	北京颐和园	261
+bei jing shi ji tan yi yuan	北京世纪坛医院	260
+bei jing wu zi xue yuan	北京物资学院	259
+bei ling	北岭	258
+bei dao	北道	255
+bei chen xi lu	北辰西路	252
+bei rui	贝瑞	248
+bei jing tu ceng	背景图层	247
+bei jing nan lu	北京南路	241
+bei feng	北峰	239
+bei di lu	北翟路	237
+bei qiao	北桥	235
+bei gao	北皋	233
+bei tu cheng	北土城	233
+bei xing	北星	232
+bei ye si tui li	贝叶斯推理	228
+bei jie	北界	224
+bei he	北河	218
+bei qiao xin pian	北桥芯片	217
+bei ta	贝塔	217
+bei zhai	北宅	217
+bei cai	北蔡	215
+bei gong	北宫	215
+bei ye si fen xi	贝叶斯分析	214
+bei da di	北大地	212
+bei jian	备件	211
+bei jing xi zhan nan guang chang	北京西站南广场	211
+bei jing lu pai chu suo	北京路派出所	208
+bei hua da xue	北华大学	206
+bei tai ping zhuang	北太平庄	206
+bei lu kou	北路口	205
+bei mo ji	被膜剂	200
+bei xi jiao ji	悲喜交集	199
+bei sha tan	北沙滩	198
+bei shan cun	北山村	195
+bei xi	北溪	195
+bei si te	贝斯特	193
+bei jing ye sheng dong wu yuan	北京野生动物园	192
+bei zheng jie	北正街	192
+bei da qiao	北大桥	191
+bei cheng qu	北城区	190
+bei jing xuan ze qi	背景选择器	177
+bei ce	背侧	176
+bei hai jie	北海街	174
+bei sheng	北盛	171
+bei du	北渡	169
+bei ye si jue ce	贝叶斯决策	167
+bei chen dong lu	北辰东路	166
+bei xiao he	北小河	163
+bei ying	北营	163
+bei zong bu hu tong	北总布胡同	161
+bei jie cun	北街村	160
+bei zhen	北镇	159
+bei ji yan ou	北极燕鸥	158
+bei an shi	北安市	157
+bei men qiao	北门桥	155
+bei shu bu lian xu	背书不连续	151
+bei hu gong yuan	北湖公园	147
+bei shi	背时	147
+bei er bu yong	备而不用	146
+bei tai	北台	146
+bei xin lu qiao	北新路桥	144
+bei di	北堤	140
+bei ren ji tuan	北人集团	140
+bei jing shi di zhen ju	北京市地震局	138
+bei jing you le yuan	北京游乐园	137
+bei lin	北林	137
+bei zha	北栅	136
+bei chi zi	北池子	135
+bei zhan lu	北站路	134
+bei long	贝隆	133
+bei yuan jia yuan	北苑家园	131
+bei jing lu kou	北京路口	130
+bei ken bao er	贝肯鲍尔	128
+bei yuan xiao qu	北苑小区	125
+bei men jie	北门街	121
+bei mo	被膜	119
+bei wu cun	北坞村	119
+bei wen quan	北温泉	118
+bei yuan lu	北园路	117
+bei zai jiao	背仔角	117
+bei chen lu	北辰路	116
+bei yuan chun shi chang	北园春市场	115
+bei bi wu chi	卑鄙无耻	114
+bei zhuang	北庄	114
+bei jing da guan yuan	北京大观园	113
+bei jing dong zhan	北京东站	109
+bei jing nong ye zhi ye xue yuan	北京农业职业学院	109
+bei wei lu	北圩路	109
+bei jing zhao yang gong yuan	北京朝阳公园	108
+bei jiao ke yun zhan	北郊客运站	107
+bei xin jing	北新泾	107
+bei jing yuan	北景园	106
+bei tou	陂头	105
+bei shan gong yuan	北山公园	104
+bei ji	背肌	102
+bei da lu	北大路	100
+bei an lu	北安路	99
+bei jing dong wu yuan xiong mao guan	北京动物园熊猫馆	97
+bei mei ye niu	北美野牛	95
+bei di miao	北帝庙	93
+bei pan lang ji	杯盘狼藉	92
+bei chi tou	北池头	91
+bei jing jiao hua chang	北京焦化厂	90
+bei ye wu	北野武	90
+bei dou lu	北斗路	89
+bei wu	北务	89
+bei piao shi	北票市	88
+bei jie kou	北街口	86
+bei yue zi you tong yi fa an	北约自由统一法案	85
+bei hai ren cheng nuo	被害人承诺	84
+bei wei lu	北纬路	83
+bei zhang cun	北张村	82
+bei er jie	北二街	81
+bei zhang	北张	81
+bei jiang da qiao	北江大桥	79
+bei shao men	北稍门	79
+bei wa lu	北洼路	79
+bei yu	北渔	79
+bei fen yu kong zhi qi	备份域控制器	77
+bei gong sen lin gong yuan	北宫森林公园	77
+bei sha shen	北沙参	77
+bei zheng	北正	75
+bei yin mei	贝因美	73
+bei dong mian yi	被动免疫	70
+bei lun	贝伦	70
+bei tan	北坦	70
+bei hai gang	北海港	66
+bei he kou	北河口	66
+bei jiu shi bing quan	杯酒释兵权	66
+bei tu cheng lu	北土城路	66
+bei feng wo lu	北蜂窝路	64
+bei qiu	贝丘	64
+bei yan	北岩	64
+bei jing yu yuan tan gong yuan	北京玉渊潭公园	63
+bei yong xi tong	备用系统	63
+bei shan po	北山坡	62
+bei jiao chang	北较场	61
+bei jing ren wen da xue	北京人文大学	61
+bei xiao ying	北小营	60
+bei jiao yi yuan	北滘医院	59
+bei lin deng geng	贝林登梗	59
+bei ling dun geng	贝灵顿梗	59
+bei shi cao	北石槽	59
+bei yuan	北原	59
+bei shen shu	北神树	57
+bei men lu	北门路	54
+bei da ke ji yuan	北大科技园	53
+bei hu jie	北湖街	53
+bei dian zi	北店子	52
+bei xia guan	北下关	52
+bei jing hua qiao cheng	北京华侨城	50
+bei men she qu	北门社区	50
+bei jiao yi yuan	北郊医院	49
+bei shi da fu xiao	北师大附小	49
+bei shi zhang	贝时璋	49
+bei shun cheng jie	北顺城街	49
+bei che ying	北车营	48
+bei jing shi jie	北京市界	48
+bei qi jue dou shi	北汽角斗士	48
+bei zi zhi wu zhong du shuo	被子植物中毒说	48
+bei jing di tan gong yuan	北京地坛公园	47
+bei yuan lu bei zhan	北苑路北站	47
+bei ma lu	北马路	46
+bei yuan	北源	46
+bei jiang lu	北江路	44
+bei luo gu xiang	北锣鼓巷	44
+bei tou cun	北头村	44
+bei zhen shi	北镇市	44
+bei hong lu	北虹路	43
+bei huan xi lu	北环西路	43
+bei jing shi zhi wu yuan	北京市植物园	43
+bei shi	北石	42
+bei jing da xing qu jiu gong zhen	北京大兴区旧宫镇	41
+bei tu cheng dong lu	北土城东路	41
+bei bei tuo	贝贝托	40
+bei dong yun dong	被动运动	40
+bei fang jiao da	北方交大	40
+bei guan qiao	北关桥	40
+bei jing tai yang cheng	北京太阳城	40
+bei lin lu	北林路	40
+bei chang	北场	39
+bei hui gui xian biao zhi ta	北回归线标志塔	39
+bei ta le ke	倍他乐克	39
+bei zhan huo chang	北站货场	39
+bei fu li qi	贝弗里奇	38
+bei ji ai qu xian	贝济埃曲线	38
+bei jing shui zhu yu	北京水煮鱼	38
+bei kuo ji	背阔肌	38
+bei miao	贝苗	38
+bei sha	北沙	38
+bei wei	北围	38
+bei hua	北华	37
+bei nang dong wu	被囊动物	37
+bei yi dong lu	北一东路	37
+bei yuan qiao	北苑桥	37
+bei jing shun yi qu ren he zhen	北京顺义区仁和镇	36
+bei shan men	北山门	36
+bei lu yuan	北潞园	35
+bei xiao qu	北小区	35
+bei xin zhuang	北辛庄	35
+bei zhi wu shen gao lun	卑之无甚高论	35
+bei gu	北固	34
+bei jing jing mao zhi ye xue yuan	北京经贸职业学院	34
+bei jing shi dong wu yuan	北京市动物园	34
+bei ke	鹎科	34
+bei kuang	北矿	34
+bei jing ben chi bo rui	北京奔驰铂锐	33
+bei chen xi qiao nan	北辰西桥南	32
+bei gang cun	北岗村	32
+bei gang cun	北港村	32
+bei ji bei	北寄贝	32
+bei ye	北冶	32
+bei ye zheng ci	北野政次	32
+bei zhong zhi wu	杯中之物	32
+bei nan xiang	椑南乡	31
+bei han	北寒	30
+bei jiao zhong xue	北滘中学	30
+bei xiao qiang	北肖墙	30
+bei xin an	北辛安	30
+bei bao xing lu	北宝兴路	29
+bei cun	背村	29
+bei dou xiao xue	北斗小学	29
+bei gong jiao cuo	杯觥交错	29
+bei jing shun yi qu li qiao zhen	北京顺义区李桥镇	29
+bei jing zhan qian jie	北京站前街	29
+bei tian tang cun	北天堂村	29
+bei yong fei	备用费	29
+bei zhuo yan tian guang	背灼炎天光	29
+bei bi wo chuo	卑鄙龌龊	28
+bei bi xiang	北壁乡	28
+bei de li	贝德利	28
+bei dou	北陡	28
+bei jia er ya luo	贝加尔雅罗	28
+bei wu dang zhen	北武当镇	28
+bei xiao jie huo kou	北小街豁口	28
+bei ban tan suan na	倍半碳酸钠	27
+bei fang you jia ren	北方有佳人	27
+bei hu tong	北胡同	27
+bei jing shi zhong	北京十中	27
+bei jing zhan kou	北京站口	27
+bei lang zhong	北郎中	27
+bei yao	北窑	27
+bei jing shi jing shan you le yuan	北京石景山游乐园	26
+bei jing zhi yao chang	北京制药厂	26
+bei keng	北坑	26
+bei ning shi	北宁市	26
+bei nu niao	贝努鸟	26
+bei ou xiao zhen	北欧小镇	26
+bei ping xiang	北屏乡	26
+bei yang jing lu	北洋泾路	26
+bei jing da xing qu huang cun zhen	北京大兴区黄村镇	25
+bei jing he bing	背景合并	25
+bei jing zhi wu yuan nan men	北京植物园南门	25
+bei qi jia zhen zheng fu	北七家镇政府	25
+bei xin cang	北新仓	25
+bei xu	北徐	25
+bei cai yuan	北菜园	24
+bei gang zi	北岗子	24
+bei hai bei men	北海北门	24
+bei jian	北涧	24
+bei jiao chang xi lu	北较场西路	24
+bei jing ti yu guan	北京体育馆	24
+bei liu xian	北流县	24
+bei qu qi che zhan	北区汽车站	24
+bei jing xi zhan dong	北京西站东	23
+bei jing zi zhu yuan gong yuan	北京紫竹院公园	23
+bei shi lu	北石路	23
+bei tai ping qiao xi	北太平桥西	23
+bei yuan cun	北苑村	23
+bei zhong lu	北中路	23
+bei ai lu	北艾路	22
+bei jing guo ji diao su yuan	北京国际雕塑园	22
+bei men suo yue	北门锁钥	22
+bei xu zhuang cun	北徐庄村	22
+bei chi	北池	21
+bei jing za ji tuan	北京杂技团	21
+bei shan gong ye qu	北山工业区	21
+bei xi cun	北溪村	21
+bei yang	陂洋	21
+bei bo gu fen	北玻股份	20
+bei chen shi ye	北辰实业	20
+bei jing li er	北京利尔	20
+bei shu ren	背书人	20
+bei yan	北堰	20
+bei ying fang	北营房	20
+bei chuan jing zi	北川景子	19
+bei ji ge li fen fan ding quan	贝吉格里芬凡丁犬	19
+bei jia er hu shui zhi	贝加尔湖水蛭	19
+bei jing gong dian ju	北京供电局	19
+bei jing tao ran ting gong yuan	北京陶然亭公园	19
+bei yang cun	北杨村	19
+bei zu	北组	19
+bei ao	贝澳	18
+bei bing ma si hu tong	北兵马司胡同	18
+bei chi	贝齿	18
+bei guan ting	北官厅	18
+bei li bei lu	贝丽北路	18
+bei si wei tou	北四卫头	18
+bei bing ma si	北兵马司	17
+bei guang xiang	北洸乡	17
+bei luo	北洛	17
+bei tan	北潭	17
+bei jiao qu	北郊区	16
+bei jing da xue xi men	北京大学西门	16
+bei cheng jie	北城街	15
+bei hu nong chang	北湖农场	15
+bei jiao chang tu qi che zhan	北郊长途汽车站	15
+bei jiao gang	北滘港	15
+bei jing ao lin pi ke hua yuan	北京奥林匹克花园	15
+bei jing guo tou	北京国投	15
+bei jing shi jie gong yuan	北京世界公园	15
+bei lun dian chang	北仑电厂	15
+bei tan	北坛	15
+bei dian jia yuan	北店嘉园	14
+bei guo	北果	14
+bei hai yu cun	北海渔村	14
+bei jiang zhong xue	北江中学	14
+bei jing bin wei dong wu zhong xin	北京濒危动物中心	14
+bei lv	北旅	14
+bei shan jiao	北山脚	14
+bei zang cun zhen zheng fu	北臧村镇政府	14
+bei da fen xiao	北大分校	13
+bei da xi yang lu ji jing	北大西洋露脊鲸	13
+bei fang	北坊	13
+bei huan tie lu	北环铁路	13
+bei jing shuan yang rou	北京涮羊肉	13
+bei kang cun	北康村	13
+bei lu zhi fa	被庐之法	13
+bei shang tai hang shan	北上太行山	13
+bei xin zhuang	北新庄	13
+bei zhan xi lu jie dao	北站西路街道	13
+bei bu jing luan	背部痉挛	12
+bei dou xi xiang	北斗溪乡	12
+bei guan xin cun	北关新村	12
+bei guan zha	北关闸	12
+bei hu qu cun	北湖渠村	12
+bei jing ba da chu gong yuan	北京八大处公园	12
+bei jing dong lu wai tan	北京东路外滩	12
+bei jing lian hua chi gong yuan	北京莲花池公园	12
+bei liu ma lu	北六马路	12
+bei men qun yi guan	北门群艺馆	12
+bei men yao cai gong si	北门药材公司	12
+bei pu tuo ying shi cheng	北普陀影视城	12
+bei shi qiao	北石桥	12
+bei si	北寺	12
+bei tai ping zhuang she qu	北太平庄社区	12
+bei tao	被套	12
+bei tian cun	北田村	12
+bei xin cun	北新村	12
+bei ying huo che zhan	北营火车站	12
+bei an qiao	北安桥	11
+bei chen qiao xi	北辰桥西	11
+bei guo	北郭	11
+bei hu cun	北湖村	11
+bei hua	北花	11
+bei jing she ji chang	北京射击场	11
+bei keng	陂坑	11
+bei ling cun	北岭村	11
+bei liu cun	北刘村	11
+bei ting da du hu fu	北庭大都护府	11
+bei tuan jie jie	北团结街	11
+bei zha zi cun	北栅子村	11
+bei ao zhen	北岙镇	10
+bei bai	北白	10
+bei bao cun	北堡村	10
+bei cai zhong xue	北蔡中学	10
+bei cheng xiang	北呈乡	10
+bei guo wen quan zhi xiang	北国温泉之乡	10
+bei huan xin cun	北环新村	10
+bei jiao nong chang qiao dong	北郊农场桥东	10
+bei jing la cai	北京辣菜	10
+bei mo bei xi sheng bie li	悲莫悲兮生别离	10
+bei nuo zhi	贝诺酯	10
+bei shan lin chang	北山林场	10
+bei shang qian hui zi	倍赏千惠子	10
+bei shen jia qiao	北沈家桥	10
+bei ta jie dao	北塔街道	10
+bei xing she qu	北星社区	10
+bei yao tou	北窑头	10
+bei bang	北傍	9
+bei gou yan hu tong	北沟沿胡同	9
+bei guan ban shi chu	北关办事处	9
+bei huo shan hu tong	北火扇胡同	9
+bei ji ge hu tong	北极阁胡同	9
+bei ji guang chang	北极广场	9
+bei jing fen hang	北京分行	9
+bei jing you hu lu	北京油葫芦	9
+bei liu zhi zhen	北留智镇	9
+bei liu zhuang	北刘庄	9
+bei ma cun	北马村	9
+bei wang zhuang cun	北王庄村	9
+bei wu wei zi	北五味子	9
+bei xin cang hu tong	北新仓胡同	9
+bei yuan lu da tun	北苑路大屯	9
+bei a er zuo te	贝阿尔佐特	8
+bei ban jie hu tong	北半截胡同	8
+bei can tou shi	钡餐透视	8
+bei dong ti wei	被动体位	8
+bei er xi lu	北二西路	8
+bei jin cheng lu	北津城路	8
+bei jing da xing qu yu fa zhen	北京大兴区榆垡镇	8
+bei jing er tong yi yuan xi men	北京儿童医院西门	8
+bei jing ren jia xiao qu	北京人家小区	8
+bei jing ri tan gong yuan	北京日坛公园	8
+bei jing tian qiao	北京天桥	8
+bei jing tong zhou qu tai hu zhen	北京通州区台湖镇	8
+bei sha tan qiao dong	北沙滩桥东	8
+bei shi jia cun	北石家村	8
+bei shi ti qiu mo zhu tie	贝氏体球墨铸铁	8
+bei su she	北宿舍	8
+bei xia zhuang xiang	北下庄乡	8
+bei ya	碑垭	8
+bei yao cun	北姚村	8
+bei zhou zhuang	北周庄	8
+bei fang cun	北方村	7
+bei fang ming zhu she qu	北方明珠社区	7
+bei gao zhuang cun	北高庄村	7
+bei gou yan	北沟沿	7
+bei hai hou men	北海后门	7
+bei hu qu	北湖渠	7
+bei jing tong zhou qu yong shun zhen	北京通州区永顺镇	7
+bei ju	北咀	7
+bei lin dun geng	贝林顿梗	7
+bei ta mi song	倍他米松	7
+bei yang ji xiang	北杨集乡	7
+bei yin hu tong	背阴胡同	7
+bei zhai xiang	北寨乡	7
+bei zhang ke cun	北章客村	7
+bei cha	北岔	6
+bei chen xi qiao bei	北辰西桥北	6
+bei cheng gen	北城根	6
+bei dan che xiang	北耽车乡	6
+bei dao san lang	北岛三郎	6
+bei de ling dun geng	贝德灵顿梗	6
+bei feng juan di bai cao zhe	北风卷地白草折	6
+bei fu qing tian chao xia kan	背负青天朝下看	6
+bei guan gong ye yuan	北关工业园	6
+bei hao	北号	6
+bei jia di	北甲地	6
+bei jiao shi chang	北郊市场	6
+bei jie ju wei hui	北街居委会	6
+bei jing da xiong mao guan	北京大熊猫馆	6
+bei jing dong zhan bei	北京东站北	6
+bei jing hong ling jin gong yuan	北京红领巾公园	6
+bei jing ke ji da xue bei men	北京科技大学北门	6
+bei jing tong zhou qu song zhuang zhen	北京通州区宋庄镇	6
+bei jing zhi ai dong wu yi yuan	北京挚爱动物医院	6
+bei men wai da jie	北门外大街	6
+bei na pu li	贝那普利	6
+bei nang	被囊	6
+bei shen zhou xiang	北什轴乡	6
+bei shun she qu	北顺社区	6
+bei tai ping qiao nan	北太平桥南	6
+bei tiao si	北条司	6
+bei tu cheng xi lu dong kou	北土城西路东口	6
+bei tuan jie	北团结	6
+bei wa zi cun	北洼子村	6
+bei wang xiang	北汪乡	6
+bei ya hua yuan	北亚花园	6
+bei yao yuan di	被遥远地	6
+bei ye chang	北野场	6
+bei an xian	北安县	5
+bei da wu shan	北大武山	5
+bei dai he zhong xin shi yan zhan	北戴河中心实验站	5
+bei er ge mi	贝尔戈米	5
+bei fang zhong ye	北方种业	5
+bei gan yi yuan	北干一苑	5
+bei gu xiang	北固乡	5
+bei guan fang hu tong	北官房胡同	5
+bei he hu tong	北河胡同	5
+bei jing fang shan qu zhang gou zhen	北京房山区长沟镇	5
+bei jing gong ye da xue nan men	北京工业大学南门	5
+bei jing jin rong xue yuan	北京金融学院	5
+bei jing jun zheng	北京君正	5
+bei jing lv you	北京旅游	5
+bei jing shi fan da xue nan men	北京师范大学南门	5
+bei jing yue tan gong yuan	北京月坛公园	5
+bei jing zhi xian chang	北京制线厂	5
+bei kong gan xiu suo	北空干休所	5
+bei lin ban shi chu	北林办事处	5
+bei ling nong chang	北陵农场	5
+bei san xiang	北三乡	5
+bei sha gou	北沙沟	5
+bei shan kou	北山口	5
+bei shui guan	北水关	5
+bei wei xiang	北位乡	5
+bei wu	北吴	5
+bei xi he	北溪河	5
+bei xia guan she qu	北下关社区	5
+bei xing zhu fei tang	北杏猪肺汤	5
+bei zhong	备中	5
+bei an he xi kou	北安河西口	4
+bei bai dai cun	北白岱村	4
+bei cang dao	北仓道	4
+bei dong kuo san	被动扩散	4
+bei dou gen pian	北豆根片	4
+bei fang ao zhi zhao chao	北方凹指招潮	4
+bei fang lan qi jin qiang yu	北方蓝鳍金枪鱼	4
+bei feng chui yan xue fen fen	北风吹雁雪纷纷	4
+bei gang qiao	北岗桥	4
+bei guo cun cun wei hui	北郭村村委会	4
+bei he zhuang zhen	北河庄镇	4
+bei hei shan	北黑山	4
+bei jiao zhen	北窖镇	4
+bei jing fa yuan zhi dao an li	北京法院指导案例	4
+bei jing lun tai chang	北京轮胎厂	4
+bei jing qing nian hu gong yuan	北京青年湖公园	4
+bei jing shi gong xiao xue xiao	北京市供销学校	4
+bei jing wu zi xue yuan nan zhan	北京物资学院南站	4
+bei jing zhong hua shu ju	北京中华书局	4
+bei jiu mo jing chun shui zhong	被酒莫惊春睡重	4
+bei luo ping cun	北洛平村	4
+bei pi dao	备皮刀	4
+bei sha tan qiao bei	北沙滩桥北	4
+bei shan zha	北山楂	4
+bei shang po cun	北上坡村	4
+bei tang pai wu he	北塘排污河	4
+bei tang zi hu tong	北堂子胡同	4
+bei wa lu bei kou	北洼路北口	4
+bei wang zhuang	北王庄	4
+bei xiang feng hu tong	北翔凤胡同	4
+bei ye cun	北冶村	4
+bei yuan lu da tun bei zhan	北苑路大屯北站	4
+bei yuan zhi xing	北苑之星	4
+bei zhuang tou	北庄头	4
+bei cao	北操	3
+bei cao chang hu tong	北草厂胡同	3
+bei da she	北大社	3
+bei dian	北甸	3
+bei dou gen	北豆根	3
+bei dou gen jiao nang	北豆根胶囊	3
+bei fang jia bin	北方嘉宾	3
+bei feng gong ye qu	北峰工业区	3
+bei fu	北附	3
+bei gan er yuan	北干二苑	3
+bei guan cun cun wei hui	北关村村委会	3
+bei guo zhuang	北郭庄	3
+bei hou	北侯	3
+bei jiang xiang	北江乡	3
+bei jing chang pu he gong yuan	北京菖蒲河公园	3
+bei jing dian ji zong chang	北京电机总厂	3
+bei jing hai dian qu shang zhuang zhen	北京海淀区上庄镇	3
+bei jing mei jing	北京美晶	3
+bei jing qing long hu gong yuan	北京青龙湖公园	3
+bei jing ren jia bei men	北京人家北门	3
+bei liang zhuang	北梁庄	3
+bei lu cao yuan hu tong	北芦草园胡同	3
+bei ma fang	北马房	3
+bei ma zhuang	北马庄	3
+bei mang shan tou shao xian tu	北邙山头少闲土	3
+bei mei zhi ying	北美之鹰	3
+bei mei zhi ying hao	北美之鹰号	3
+bei mi hu	卑弥呼	3
+bei nai ji yi	北乃纪伊	3
+bei qi shou rou	北芪瘦肉	3
+bei qi wu jia pian	北芪五加片	3
+bei shan bai yun li	北山白云里	3
+bei shi li pu xi cun	北十里铺西村	3
+bei tai ping lu kou	北太平路口	3
+bei tan xiao qu	北探小区	3
+bei wa lu xi li	北洼路西里	3
+bei wang xiang	北王乡	3
+bei wei gong ye qu	北围工业区	3
+bei xia wa zi hu tong	北下洼子胡同	3
+bei xian ge	北线阁	3
+bei xin tun cun	北辛屯村	3
+bei ya yao zu xiang	北牙瑶族乡	3
+bei yang zhuang cun	北杨庄村	3
+bei yuan li ying	北原里英	3
+bei zhan li jiao qiao	北站立交桥	3
+bei zhuang er	杯状耳	3
+bei an lu bei san hu tong	北安路北三胡同	2
+bei cai cun	北彩村	2
+bei cang zhu	北苍术	2
+bei chuan cun	北川村	2
+bei cun yi hui	北村一辉	2
+bei da jie dong kou	北大街东口	2
+bei di	备抵	2
+bei di jun	北地郡	2
+bei dou jian chun yuan	北斗兼春远	2
+bei feng xiang	北峰乡	2
+bei fu wan yu su	被服纨与素	2
+bei guan chang hu tong	北官场胡同	2
+bei guan tao	北馆陶	2
+bei hai ji tuan	北海集团	2
+bei hu gong yuan nan	北湖公园南	2
+bei jiao nong chang qiao xi	北郊农场桥西	2
+bei jing cai zheng xue yuan	北京财政学院	2
+bei jing chang ping qu sha he zhen	北京昌平区沙河镇	2
+bei jing da xing qu an ding zhen	北京大兴区安定镇	2
+bei jing hua lian	北京华联	2
+bei jing ke rui	北京科锐	2
+bei jing long tan hu gong yuan	北京龙潭湖公园	2
+bei jing ren ding hu gong yuan	北京人定湖公园	2
+bei jing tuan jie hu gong yuan	北京团结湖公园	2
+bei ka luo lai zhou	北卡罗来州	2
+bei ke han mu fa an	贝克汉姆法案	2
+bei li chai san lang	北里柴三郎	2
+bei li jia zhuang	北李家庄	2
+bei liu lu	北留路	2
+bei lu cao yuan	北芦草园	2
+bei lu yao ye	北陆药业	2
+bei lv mi song	倍氯米松	2
+bei man te gang	北满特钢	2
+bei mu hua	贝母花	2
+bei mu jia yu cun	北穆家峪村	2
+bei mu pi pa tang jiang	贝母枇杷糖浆	2
+bei pu zhou ying cun	北蒲州营村	2
+bei qing he	北清河	2
+bei que xiu shang shu	北阙休上书	2
+bei sha tan qiao nan	北沙滩桥南	2
+bei sha tan qiao xi	北沙滩桥西	2
+bei shan nong chang	北山农场	2
+bei shan shi yu nan ping tong	北山始与南屏通	2
+bei shang zhuang cun	北上庄村	2
+bei ta mi song wu suan zhi	倍他米松戊酸酯	2
+bei tang cun	北汤村	2
+bei tou ying xiang	北头营乡	2
+bei wan zi	北湾子	2
+bei wei lun tu	贝韦伦兔	2
+bei xiao shuan hu tong	北小栓胡同	2
+bei xiao shun hu tong	北孝顺胡同	2
+bei xin hu tong	北新胡同	2
+bei xin ping hu tong	北新平胡同	2
+bei xing can di lao ya tang	北杏参地老鸭汤	2
+bei xiong	背胸	2
+bei ya ji tuan	北亚集团	2
+bei yan fa cun	北研垡村	2
+bei yang jing lu	北洋径路	2
+bei ying fang xi li she qu	北营房西里社区	2
+bei zhang hua bang	北张华浜	2
+bei ao shi chang	北澳市场	1
+bei bei kong long yi zhi	北碚恐龙遗址	1
+bei bi li xi dai nv luo	被薜荔兮带女萝	1
+bei cao chang	北草厂	1
+bei ce qiu nao	背侧丘脑	1
+bei cheng xin feng	北城新风	1
+bei chu xiang	北褚乡	1
+bei chuang xue luo lu yan zhi	背窗雪落炉烟直	1
+bei da jie ju wei hui	北大街居委会	1
+bei dao bu	北道埠	1
+bei dao de xiang	北道德乡	1
+bei deng he yue jiu hua yin	背灯和月就花阴	1
+bei dong yun shu	被动运输	1
+bei dou lan gan nan dou xie	北斗阑干南斗斜	1
+bei dou qi xing gao	北斗七星高	1
+bei fa zhi sou kuang er chi	被发之叟狂而痴	1
+bei feng chui qun dai	北风吹裙带	1
+bei feng chui shu ji	北风吹树急	1
+bei feng he can li	北风何惨栗	1
+bei feng she qu	北峰社区	1
+bei feng wo lu nan kou	北蜂窝路南口	1
+bei gan chi cun	北甘池村	1
+bei gang jie	北岗街	1
+bei ge wei li yuan	悲歌为黎元	1
+bei guan yuan hu tong	北官园胡同	1
+bei guo tang cheng yin bai mao	背郭堂成荫白茅	1
+bei guo zhen	北漍镇	1
+bei hai yin hang	北海银行	1
+bei han xiang	北韩乡	1
+bei he cun	北何村	1
+bei he xi	北河西	1
+bei hong men cun	北红门村	1
+bei hu	背湖	1
+bei hu shan	北湖山	1
+bei ji chao ting zhong bu gai	北极朝廷终不改	1
+bei ji xiang hu tong	北吉祥胡同	1
+bei jia bi xiang	北贾壁乡	1
+bei jia zao zhen	倍加皂镇	1
+bei jian shan	北尖山	1
+bei jiang da sha	北江大厦	1
+bei jiang xiang	北疆乡	1
+bei jiao mian fen chang	北郊面粉厂	1
+bei jie cun cun wei hui	北街村村委会	1
+bei jie cun wei hui	北街村委会	1
+bei jing chao lai nong yi yuan	北京朝来农艺园	1
+bei jing da xing qu yi zhuang zhen	北京大兴区亦庄镇	1
+bei jing dong yuan	北景东苑	1
+bei jing er hu tong	北井儿胡同	1
+bei jing fang shan qu liang xiang zhen	北京房山区良乡镇	1
+bei jing gong ye da xue bei zhan	北京工业大学北站	1
+bei jing ji xie chang	北京机械厂	1
+bei jing ju zhu zheng zhi	北京居住证制	1
+bei jing kou qiang yi xue	北京口腔医学	1
+bei jing liu yin gong yuan	北京柳荫公园	1
+bei jing mi jian guo pu	北京蜜饯果脯	1
+bei jing shen sha hai gong yuan	北京什刹海公园	1
+bei jing shi shuang he nong chang	北京市双河农场	1
+bei jing shun yi qu nan cai zhen	北京顺义区南彩镇	1
+bei jing tai yang gong gong yuan	北京太阳宫公园	1
+bei jing zhou cheng chang	北京轴承厂	1
+bei ke zhi	贝克痣	1
+bei la zhen	北拉镇	1
+bei lang zhong jia you zhan	北郎中加油站	1
+bei li qiao	北丽桥	1
+bei li wang dong cun	北里王东村	1
+bei lin deng geng quan	贝林登梗犬	1
+bei ling gong yuan	北岭公园	1
+bei ling jiao nang	贝羚胶囊	1
+bei lou xi wang man qing kong	北楼西望满晴空	1
+bei lu xiang	北炉乡	1
+bei ma qiao	北马桥	1
+bei mei li pian	倍美力片	1
+bei ni di ping	贝尼地平	1
+bei nuo zhi pian	贝诺酯片	1
+bei pao she qu	北炮社区	1
+bei piao xian	北票县	1
+bei qiang wan	北墙湾	1
+bei qing qiao	贝青乔	1
+bei qu bu yi quan yu ji	被驱不异犬与鸡	1
+bei qu yi lu	北区一路	1
+bei shan cao mu he you jian	北山草木何由见	1
+bei shan di	北山底	1
+bei shan dong ying cun	北山东营村	1
+bei shan gen cun	北山根村	1
+bei shan hong guang	北山宏光	1
+bei shan jin chou yuan	北山尽仇怨	1
+bei shang mei jin zi	倍赏美津子	1
+bei shen gou	北深沟	1
+bei shen shu dong kou	北神树东口	1
+bei shen shu xi kou	北神树西口	1
+bei shen ze ku zhi	悲甚则哭之	1
+bei shi dao jie	北石道街	1
+bei shi jie dao	北市街道	1
+bei shi lan xi dai du heng	被石兰兮带杜衡	1
+bei shi wu jing lu	北十五经路	1
+bei shui jiu cun	北水旧村	1
+bei shui lu kou	北水路口	1
+bei si ba cai dan	贝丝扒菜胆	1
+bei song zhuang cun	北宋庄村	1
+bei sun ge zhuang	北孙各庄	1
+bei sun zhuang cun	北孙庄村	1
+bei ta mi long	倍他米隆	1
+bei tai ping lu dong kou	北太平路东口	1
+bei tai ping qiao dong	北太平桥东	1
+bei tai xiang	北台乡	1
+bei te luo	贝特洛	1
+bei wa lu nan kou	北洼路南口	1
+bei wan zi hu tong	北湾子胡同	1
+bei wang ping cun	北王平村	1
+bei wang wu ling jian	北望五陵间	1
+bei wei hu wen long yi gu	背为虎文龙翼骨	1
+bei wu cun xi zhan	北坞村西站	1
+bei xi zhuang	北西庄	1
+bei xiao he xi	北小河西	1
+bei xiao shun hu tong	北晓顺胡同	1
+bei xiao zhuang xiang	北小庄乡	1
+bei xin an da jie she qu	北辛安大街社区	1
+bei xin an jie dao	北辛安街道	1
+bei xin jie bei kou	北新街北口	1
+bei xin ke ji yuan	北新科技园	1
+bei xin zhuang cun cun wei hui	北辛庄村村委会	1
+bei xing jian xing hua	北行见杏花	1
+bei yan li jiao qiao	北延立交桥	1
+bei yang dao	北洋道	1
+bei ye chang cun	北野厂村	1
+bei ye si ding li	贝叶斯定理	1
+bei ying men	北营门	1
+bei yuan cun bei zhan	北苑村北站	1
+bei yuan zi cun	北园子村	1
+bei yue cun	北岳村	1
+bei zha kou zhen da lu zhuang cun	北闸口镇大芦庄村	1
+bei zhang lu	北长路	1
+bei zhao tai cun	北照台村	1
+bei zhong jiu bu kong	杯中酒不空	1
+bei bei ken yuan	北碚肯蚖	0
+bei bi bei yan zhang he yu	贝比背眼长颌鱼	0
+bei bu su men da la xi niu	北部苏门答腊犀牛	0
+bei bu wan la wei xie	北部湾拉伪蝎	0
+bei cha chu jiao wei	背叉触角鳚	0
+bei ci bei yan zhang he yu	贝茨背眼长颌鱼	0
+bei da xiao mao	北大校猫	0
+bei dai weng	背带螉	0
+bei deng geng	贝登挭	0
+bei dian ji chi dao yu	背点棘赤刀鱼	0
+bei dun lang ya mian wei	背楯狼牙绵鳚	0
+bei duo mu yu luo	贝多姆芋螺	0
+bei fang du xing cai	北方独行菜	0
+bei fang hei zhu yu hei ye	北方黑猪鱼黑叶	0
+bei fang hua lu bao luo	北方花鹿宝螺	0
+bei fang ju gui	北方鮈鱥	0
+bei fang pu du lu	北方普度鹿	0
+bei fang xiao huang ban feng	北方小黄斑蜂	0
+bei fang xue wei te yang	北方雪维特羊	0
+bei fang ya bo da zhao long	北方亚伯达爪龙	0
+bei fei fei wei sha shu	北非肥尾沙鼠	0
+bei fei hei fei wei xie	北非黑肥尾蝎	0
+bei fei hei lian zhi bu niao	北非黑脸织布鸟	0
+bei fei sha mo wei	北非沙漠猬	0
+bei huang dao xie	北黄道蟹	0
+bei jia er hu cu du fu yu	贝加尔湖粗杜父鱼	0
+bei jia er hu du fu yu	贝加尔湖杜父鱼	0
+bei jia er hu xun lu	贝加尔湖驯鹿	0
+bei jing mei weng xi chong	北京眉鹟吸虫	0
+bei jue	鹎鴂	0
+bei ke shi di xian lie	贝克氏低线鱲	0
+bei li ye sui chun pi	贝里耶穗唇魮	0
+bei li zi mu yu luo	贝利字母芋螺	0
+bei lin deng geng	贝林登更	0
+bei lin deng geng	贝林登挭	0
+bei lin ke ni si xu pi	贝林克拟四须魮	0
+bei lu shi lv hou feng hu	贝卢氏绿喉蜂虎	0
+bei mao she qian chong	背毛蛇潜虫	0
+bei mei de ke sa si li yu	北美得克萨斯丽鱼	0
+bei mei huan wei mao xiong	北美环尾猫熊	0
+bei mei la ni xi ya juan ju	北美拉尼西亚鹃鵙	0
+bei mei lin di xun lu	北美林地驯鹿	0
+bei mei xiao ye ying	北美小夜鹰	0
+bei mei zhu ru xiang wei she	北美侏儒响尾蛇	0
+bei nuo chong shu	贝诺虫属	0
+bei ou rong mao quan	北欧绒毛犬	0
+bei pu du lu	北普度鹿	0
+bei pu zhi da wen	北埔栉大蚊	0
+bei qie guan ye chong	卑怯管叶虫	0
+bei shi bai mao chong	贝氏白毛虫	0
+bei shi bian long tou yu	贝氏扁隆头鱼	0
+bei shi bing du fu yu	贝氏冰杜父鱼	0
+bei shi jie ba fei ji	贝氏结耙非鲫	0
+bei shi luo hua tang li	贝氏裸滑塘鳢	0
+bei shi mo luo gui	贝氏莫罗鱥	0
+bei si ban chong	杯四瓣虫	0
+bei te si wan bao luo	贝特斯湾宝螺	0
+bei ti chong bing	杯体虫病	0
+bei xie chi shou lei	北楔齿兽类	0
+bei xie ke hui die	北协珂灰蝶	0
+bei yu yuan jian xiao ye jia	北域圆肩肖叶甲	0
+bei yuan shi zuo ping	北原氏左鮃	0
+bei yue zhang wei qu	北越长尾鼩	0
+bei zhi bei zhi xi chong	杯殖杯殖吸虫	0
+bei zu zu yang mei xie	背足足杨梅蟹	0

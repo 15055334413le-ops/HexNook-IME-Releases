@@ -1,0 +1,1090 @@
+po an	破案	0
+po an cun	泊岸村	0
+po an guai shou	破案怪兽	0
+po an gui zu shuai zhi shi	破案贵族帅执事	0
+po an lv	破案率	0
+po an san ren xing	破案三人行	0
+po an shen shou	破案神手	0
+po an shen tan	破案神探	0
+po an tian cai jia li lve	破案天才伽利略	0
+po an tian cai qi na	破案天才奇娜	0
+po an xi yi	破案蜥蜴	0
+po an zu xian	破庵祖先	0
+po bao	破报	0
+po bao jia die	珀豹蛱蝶	0
+po bei he	泼陂河	0
+po bei he zhen	泼陂河镇	0
+po ben bing nai	迫苯并萘	0
+po bi	坡币	0
+po bi ji	破壁机	0
+po bi shu	破壁书	0
+po bian zhou	破边洲	0
+po biao kou an	坡标口岸	0
+po bing chuan	破冰船	0
+po bing chuan bing chuan	破冰船冰川	0
+po bing fu	破冰斧	0
+po bing huo dong	破冰活动	0
+po bing sheng ming	破冰生命	0
+po bing xing dong	破冰行动	0
+po bo er ba he he	珀伯尔巴赫河	0
+po bo kan	破盋龛	0
+po bu mu	破布木	0
+po bu mu shu	破布木属	0
+po bu wu	破布乌	0
+po bu ye	破布叶	0
+po bu ye shu	破布叶属	0
+po bu zi	破布子	0
+po bu zi ke	破布子科	0
+po bu zi liu jie pi	破布子瘤节蜱	0
+po ca yin	破擦音	0
+po can	坡参	0
+po cang si	珀藏斯	0
+po cang xiang	坡仓乡	0
+po chan	破产	0
+po chan bao hu	破产保护	0
+po chan chong zu	破产重组	0
+po chan fa	破产法	0
+po chan guan li shu	破产管理署	0
+po chan jie mei	破产姐妹	0
+po chan jie mei hua	破产姐妹花	0
+po chan qing suan	破产清算	0
+po chan san jie mei	破产三姐妹	0
+po chan san zi mei	破产三姊妹	0
+po chan tu tou	破产秃头	0
+po chan yu tu tou	破产与秃头	0
+po chan zi mei	破产姊妹	0
+po chan zi mei hua	破产姊妹花	0
+po chen shi tai yin shan	珀辰施泰因山	0
+po cheng chui	破城槌	0
+po cheng zi yi zhi	破城子遗址	0
+po chou zhong yu gui	破丑重遇贵	0
+po chu	破处	0
+po chu nv wang	破处女王	0
+po chu zi chan jie ji de fa quan si xiang	破除资产阶级的法权思想	0
+po chuan	泊川	0
+po chuan che zhan	粕川车站	0
+po chuan che zhan	迫川车站	0
+po chuan pen quan	破船喷泉	0
+po chuan zhan	粕川站	0
+po chuan zhan	迫川站	0
+po chuang li lun	破窗理论	0
+po chuang miu lun	破窗谬论	0
+po chuang xiao ying	破窗效应	0
+po cun	泊村	0
+po dan san ci	破胆三次	0
+po dan zhe	破蛋者	0
+po dao	朴刀	0
+po dao jiao	坡道角	0
+po dao pang gai si lin gen	坡道旁盖斯林根	0
+po dao qing nian zu qiu hui	坡道青年足球会	0
+po de jing jiu zhe	坡的敬酒者	0
+po de la la xiang	珀德拉拉乡	0
+po de tong wei su	钋的同位素	0
+po de tong wei su	钷的同位素	0
+po di	泊地	0
+po di	坡底	0
+po di	坡地	0
+po di bao	珀蒂堡	0
+po di cun zhan	坡底村站	0
+po di fei	珀蒂费	0
+po di hai zhan	泊地海战	0
+po di jiao	珀迪角	0
+po di jie dao	坡底街道	0
+po di ka na lei	珀蒂卡纳勒	0
+po di ke lu wa	珀蒂克鲁瓦	0
+po di luo zong he zheng	珀蒂洛综合征	0
+po di ma ni	珀蒂马尼	0
+po di mei ni lei	珀蒂梅尼勒	0
+po di meng	珀蒂蒙	0
+po di nu wa	珀蒂努瓦	0
+po di nuo si shan	珀蒂诺斯山	0
+po di peng cao	婆地淎艚	0
+po di ru dong	坡地蠕动	0
+po di shi	婆地市	0
+po di shi she	婆地市社	0
+po di te fang dan	珀蒂特方丹	0
+po di te fu lei	珀蒂特福雷	0
+po di te lu de ni pu	珀蒂特鲁德尼普	0
+po di te shao	珀蒂特绍	0
+po di te te er dao	珀蒂特特尔岛	0
+po di te te er qun dao	珀蒂特特尔群岛	0
+po di te yan	珀蒂特岩	0
+po di te yi lei	珀蒂特伊勒	0
+po di wa lei	珀蒂瓦勒	0
+po di wei er	珀蒂维尔	0
+po di xia zhan	坡底下站	0
+po di xiang	坡底乡	0
+po di yu	珀蒂鱼	0
+po di yu	破地狱	0
+po di yu shu	珀蒂鱼属	0
+po ding da xian	珀丁达县	0
+po du	坡度	0
+po du	破读	0
+po du da xue	珀杜大学	0
+po du feng	珀杜峰	0
+po du qiang ren	破毒强人	0
+po du zhen	坡渡镇	0
+po duo luo fu ren	破多罗夫人	0
+po e qu pu sa	破恶趣菩萨	0
+po e sheng lun	破恶声论	0
+po en ba he	珀恩巴赫	0
+po er	珀尔	0
+po er ba he he	珀尔巴赫河	0
+po er ba ke di huo shan	珀尔巴克蒂火山	0
+po er bo yi	珀尔伯伊	0
+po er cha ma	珀尔察马	0
+po er dai fu er dai	珀尔代弗尔代	0
+po er dao	珀尔岛	0
+po er di nuo a sa xiang	珀尔蒂诺阿萨乡	0
+po er ga mo si	珀耳伽摩斯	0
+po er ge lei shen di xiang	珀尔格雷什蒂乡	0
+po er gong si	颇尔公司	0
+po er he he mi si huan jiao	珀尔和赫米斯环礁	0
+po er jiang hai zi zhen	泊尔江海子镇	0
+po er mi ci	珀尔米茨	0
+po er qi xi	珀尔齐希	0
+po er ruo er xiang	珀尔若尔乡	0
+po er sai fu nie	珀尔塞福涅	0
+po er sai fu nie	珀耳塞福涅	0
+po er sai si	珀耳塞斯	0
+po er shen ke wei ni xiang	珀尔什科韦尼乡	0
+po er si	珀尔斯	0
+po er si ke fu xiang	珀尔斯科夫乡	0
+po er tiao zhan	破二挑战	0
+po er tie xiao ying	珀耳帖效应	0
+po er wa	珀尔瓦	0
+po er wa se he	珀尔瓦瑟河	0
+po er wa xian	珀尔瓦县	0
+po er wa xiang	珀尔瓦乡	0
+po er wen shan	珀尔文山	0
+po er xiao	珀尔肖	0
+po er xiu si	珀尔修斯	0
+po er xiu si	珀耳修斯	0
+po fa	破发	0
+po fei	婆非	0
+po feng	破风	0
+po feng die	珀凤蝶	0
+po feng mu	破风墓	0
+po feng zhe chuan	破风者船	0
+po fu an zhu ren	破佛盫主人	0
+po fu chen zhou	破釜沉舟	0
+po fu li te	珀弗利特	0
+po fu luo ji	破釜逻辑	0
+po fu shen zhou	破斧沈舟	0
+po fu shen zhou	破釜沈舟	0
+po fu tuo jia zhan yan na	婆浮陀迦旃延那	0
+po ga fan	婆伽梵	0
+po ga po	婆伽婆	0
+po ga suo si	珀伽索斯	0
+po gan xiang	珀玕乡	0
+po gang	泊港	0
+po gang hu	破岗湖	0
+po gang ka si te zhi bei bao hu qu	坡岗喀斯特植被保护区	0
+po gang tie lu	泊港铁路	0
+po gang xiang	泊岗乡	0
+po gao	颇高	0
+po ge	破格	0
+po ge shi ta er	珀格施塔尔	0
+po gen	破哏	0
+po geng	破梗	0
+po gong	婆共	0
+po gong he	坡贡河	0
+po gong zhen	坡贡镇	0
+po gu	粕谷	0
+po gu xi bao	破骨细胞	0
+po gu xiong tai	粕谷雄太	0
+po gu you zi	粕谷祐子	0
+po gu yu tai	粕谷裕太	0
+po gu zhi	破故纸	0
+po guan	破关	0
+po guan zi a liao sha	破罐子阿廖沙	0
+po guo	破果	0
+po guo zi	破果子	0
+po hai	迫害	0
+po hai fa lun gong	迫害法轮功	0
+po hai wang xiang	迫害妄想	0
+po han bo	泊寒波	0
+po he ha mo er fu hao	珀赫哈默尔符号	0
+po he he seng	破和合僧	0
+po he ku fu lei	珀和库富勒	0
+po he neng fa dian chang	泊核能发电厂	0
+po he shui ku	泼河水库	0
+po he xiang	坡荷乡	0
+po he zhan	泼河站	0
+po hong zhen	坡洪镇	0
+po hou	泼猴	0
+po hu	泊湖	0
+po hu wa tuo xian	珀胡瓦托县	0
+po hu zhen	坡胡镇	0
+po hua gai	钋化钙	0
+po hua jia	钋化钾	0
+po hua li	钋化锂	0
+po hua mei	钋化镁	0
+po hua na	钋化钠	0
+po hua qian	钋化铅	0
+po hua qing	钋化氢	0
+po hua wu	钋化物	0
+po huai	破坏	0
+po huai cao	破坏草	0
+po huai dian li she bei zui	破坏电力设备罪	0
+po huai dian ya	破坏电压	0
+po huai he ping zui	破坏和平罪	0
+po huai huo dong	破坏活动	0
+po huai huo dong fang zhi fa	破坏活动防止法	0
+po huai ji suan ji xin xi xi tong zui	破坏计算机信息系统罪	0
+po huai jiao tong gong ju zui	破坏交通工具罪	0
+po huai jiao tong she shi zui	破坏交通设施罪	0
+po huai jun hun	破坏军婚	0
+po huai jun hun zui	破坏军婚罪	0
+po huai mo ding guang	破坏魔定光	0
+po huai mo ding guang	破壊魔定光	0
+po huai nuo wei de jun zhong shui chang	破坏挪威德军重水厂	0
+po huai ou xiang	破坏偶像	0
+po huai ou xiang zhu yi	破坏偶像主义	0
+po huai she hui zhu yi shi chang jing ji zhi xu zui	破坏社会主义市场经济秩序罪	0
+po huai shen ma gu	破坏神玛谷	0
+po huai sheng xiang	破坏圣像	0
+po huai shi chuang xin	破坏式创新	0
+po huai shi ji shu	破坏式技术	0
+po huai shou	破坏兽	0
+po huai shuang wang ting	破坏双亡亭	0
+po huai tu ji dui	破坏突击队	0
+po huai tu xiang lun zheng	破坏图像论争	0
+po huai wan	破坏湾	0
+po huai wang	破坏王	0
+po huai wu lun	破坏五伦	0
+po huai xing ban kuai bian jie	破坏性板块边界	0
+po huai xing ban kuai bian yuan	破坏性板块边缘	0
+po huai xing chuang xin	破坏性创新	0
+po huai xing dong	破坏行动	0
+po huai xing gan she	破坏性干涉	0
+po huai xing jing zheng	破坏性竞争	0
+po huai xing ke ji	破坏性科技	0
+po huai xing shi yan	破坏性实验	0
+po huai xing shi yan	破坏性试验	0
+po huai xing zi liao ya suo	破坏性资料压缩	0
+po huai ye ren	破坏野人	0
+po huai yi ran yi bao she bei zui	破坏易燃易爆设备罪	0
+po huai zai he	破坏载荷	0
+po huai zhe	破坏者	0
+po huai zhe ao xia	破坏者螯虾	0
+po huai zhen cha long	破坏侦察龙	0
+po huai zhi jian yu di an xi	破坏之茧与蒂安希	0
+po huai zhi wang	破坏之王	0
+po hui die shu	珀灰蝶属	0
+po hun	迫婚	0
+po huo shan kou	婆火山口	0
+po huo shan kou	破火山口	0
+po ji cuo	婆基错	0
+po ji shan	婆髻山	0
+po ji wu	坡积物	0
+po ji zhen	泼机镇	0
+po jia	婆家	0
+po jia dan	破甲弹	0
+po jia jiu shi ni jia	婆家就是你家	0
+po jia liu dan	破甲榴弹	0
+po jian	破茧	0
+po jian bian yuan	破茧边缘	0
+po jian kuang long	破茧狂龙	0
+po jian tian mo	破茧天魔	0
+po jiang	鄱江	0
+po jiang a bu jia	迫降阿布贾	0
+po jiang hang ban	迫降航班	0
+po jiang hao xun luo jian	鄱江号巡逻舰	0
+po jiang wei ji	迫降危机	0
+po jiao	酦酵	0
+po jiao ci	婆轿祠	0
+po jiao dou jiang	酦酵豆酱	0
+po jiao jia zu	酦酵家族	0
+po jiao miao	婆娇庙	0
+po jiao miao	婆轿庙	0
+po jiao xiang	坡脚乡	0
+po jiao zhen	坡脚镇	0
+po jie	婆姐	0
+po jie	破解	0
+po jie du xin li	破解读心理	0
+po jie dui	破解队	0
+po jie mi ma	破解密码	0
+po jie nv huang	破解女皇	0
+po jie ruan ti	破解软体	0
+po jie xiang	坡结乡	0
+po jie xin pian	破解芯片	0
+po jie zhe	破解者	0
+po jin ai er mo	珀金埃尔默	0
+po jin fan ying	珀金反应	0
+po jin huan xing shan	珀金环形山	0
+po jin jiang zhang	珀金奖章	0
+po jin si fa dong ji	珀金斯发动机	0
+po jin si shan	珀金斯山	0
+po jin zhi ri	迫近之日	0
+po jing	珀京	0
+po jing	破镜	0
+po jing chong yuan	破镜重圆	0
+po jing mou sha an	破镜谋杀案	0
+po jing shou	破镜兽	0
+po jing yu	破镜欲	0
+po jing zheng xing	迫井政行	0
+po jiu li xin	破旧立新	0
+po ju	珀居	0
+po ju	珀菊	0
+po ju chuan	泊居川	0
+po ju jun	泊居郡	0
+po ju lei	珀聚勒	0
+po ju shu	珀菊属	0
+po ju ting	泊居町	0
+po ju zhi ting	泊居支厅	0
+po juan er chu	破卷而出	0
+po jun	破军	0
+po jun xing	破军星	0
+po kan ya	坡坎崖	0
+po ke	珀客	0
+po ke feng	珀克峰	0
+po ke lang jia lai ta	婆克朗加莱塔	0
+po ke zhong guo	泊客中国	0
+po ke zhu shu	颇克蛛属	0
+po kong ji guang	破空极光	0
+po kong yan	破空焰	0
+po kou xiang	泊口乡	0
+po kou zhen	泊口镇	0
+po ku lei qi xiang	珀库雷齐乡	0
+po la	珀拉	0
+po la ku qi e	泼辣酷企鹅	0
+po la mei si	珀拉美斯	0
+po la shu	颇剌淑	0
+po la si kai bao	珀拉斯凯堡	0
+po la si kai xian	珀拉斯凯县	0
+po la si kai zhen qu	珀拉斯凯镇区	0
+po la te he	珀拉特河	0
+po lai	珀赖	0
+po lai ban de te bing yuan dao feng	珀莱班德特冰原岛峰	0
+po lai di zi dao	珀赖蒂兹岛	0
+po lai ha shu	泊来蛤属	0
+po lai ya	珀莱雅	0
+po lai yin huan xing shan	珀赖因环形山	0
+po lan	坡兰	0
+po lan	破兰	0
+po lan de dian ti	破烂的电梯	0
+po lan de si	泼兰的斯	0
+po lan hui	泊岚汇	0
+po lan hui guo ji hui zhan zhong xin	泊岚汇国际会展中心	0
+po lan qian jin bei zi zi de yuan hun yue zhe ni ai zhu	破烂千金被姊姊的原婚约者溺爱著	0
+po lan xian	婆览县	0
+po lang	破浪	0
+po lang bao bing	破浪刨冰	0
+po lang er chu	破浪而出	0
+po lang hao feng fan xun lian jian	破浪号风帆训练舰	0
+po lang jiao	破浪礁	0
+po lang qiang ni	破浪强尼	0
+po lao	珀劳	0
+po lao bei ge	珀劳贝格	0
+po lao fu jin she nei ge	珀劳附近舍内格	0
+po lei	坡垒	0
+po lei de bu er	珀勒德布尔	0
+po lei de bu er zhuan qu	珀勒德布尔专区	0
+po lei shen kai	珀勒什凯	0
+po lei shu	坡垒属	0
+po lei weng	泼勒翁	0
+po lei wu xiang	珀勒乌乡	0
+po li	泊里	0
+po li	颇黎	0
+po li	婆黎	0
+po li	婆利	0
+po li	珀利	0
+po li a si	珀利阿斯	0
+po li cai nv	颇梨采女	0
+po li ci	珀利茨	0
+po li du li he li	婆利睹梨诃利	0
+po li e ji ren	珀里俄基人	0
+po li ha hui wei feng niao	珀里哈辉尾蜂鸟	0
+po li jiao tang	坡里教堂	0
+po li jiu dian	珀丽酒店	0
+po li ju shi	坡离俱市	0
+po li sheng mu da dian	坡里圣母大殿	0
+po li si te la	珀里斯特拉	0
+po li ti pi	颇哩提毗	0
+po li tian zhu jiao tang	坡里天主教堂	0
+po li wan	珀丽湾	0
+po li wan ba shi	珀丽湾巴士	0
+po li wan du lun ma tou	珀丽湾渡轮码头	0
+po li wan ke yun	珀丽湾客运	0
+po li wan lin hai guang chang	珀丽湾临海广场	0
+po li wan ma tou	珀丽湾码头	0
+po li wan shang chang	珀丽湾商场	0
+po li xi	珀利希	0
+po li ya ke fu	泊里雅科夫	0
+po li ying zui yu	珀利鹦嘴鱼	0
+po li zhan	泊里站	0
+po li zhan	坡里站	0
+po li zhen	泊里镇	0
+po li zhu zong zhong	泊里主宗重	0
+po lian chi xue yuan	破廉耻学园	0
+po liang chi qiang	迫良持枪	0
+po liang zhen	破凉镇	0
+po liao	坡寮	0
+po liao zhuang	坡藔庄	0
+po lie mo ca yin	破裂摩擦音	0
+po lie ti	破裂体	0
+po lie yin	破裂音	0
+po lie zhang	破裂章	0
+po lie zhui	破裂锥	0
+po liu	坡柳	0
+po liu han	破六韩	0
+po liu han ba ling	破六韩拔陵	0
+po liu han ba ling	破六汗拔陵	0
+po liu han chang	破六韩常	0
+po liu han kong que	破六韩孔雀	0
+po liu han xing	破六韩姓	0
+po liu shu	坡柳属	0
+po liu si	珀琉斯	0
+po long gou da qiao	迫龙沟大桥	0
+po long gou te da qiao	迫龙沟特大桥	0
+po long shan	珀隆山	0
+po lou na	婆楼那	0
+po lu	坡鹿	0
+po lu	珀鲁	0
+po lu bao ning jing si	破鲁堡宁静寺	0
+po lu bao xiang	破鲁堡乡	0
+po lu cun	坡路村	0
+po lu hu	破虏湖	0
+po lu hu zhan yi	破虏湖战役	0
+po lu jiang jun	破虏将军	0
+po lu jie	珀鲁杰	0
+po lu jie xian	珀鲁杰县	0
+po lu jun	破虏军	0
+po lu mu pei man da	婆卢木裴满达	0
+po lu sai	珀卢塞	0
+po lu si	珀卢斯	0
+po lu zhan	坡路站	0
+po lu zhen qu	珀鲁镇区	0
+po lun dao	珀伦岛	0
+po luo	婆罗	0
+po luo bi li tuo ge na	婆罗必栗托仡那	0
+po luo bian ping xie	婆罗扁平蟹	0
+po luo bo qi	婆罗播棋	0
+po luo bo wen	婆罗钵文	0
+po luo bo yu	婆罗波鱼	0
+po luo bo yu	婆罗钵语	0
+po luo duo	婆罗多	0
+po luo duo bu er	婆罗多布尔	0
+po luo duo guo	婆罗多国	0
+po luo duo mou ni	婆罗多牟尼	0
+po luo duo mu qin	婆罗多母亲	0
+po luo duo wu	婆罗多舞	0
+po luo fu tu	婆罗浮屠	0
+po luo han ba ling	破落汗拔陵	0
+po luo han shi	破落汗氏	0
+po luo jiao gu yu	婆罗叫姑鱼	0
+po luo li	婆罗鲤	0
+po luo li shu	婆罗鲤属	0
+po luo luo si	珀罗洛斯	0
+po luo luo yan xi shu	颇罗裸眼蜥属	0
+po luo men	婆罗门	0
+po luo men ba li ya	婆罗门巴里亚	0
+po luo men ba li ya xian	婆罗门巴里亚县	0
+po luo men can	婆罗门参	0
+po luo men fo ta	婆罗门佛塔	0
+po luo men ji	婆罗门鸡	0
+po luo men jiao	婆罗门教	0
+po luo men niu	婆罗门牛	0
+po luo men pa la wu pa qi la	婆罗门帕拉乌帕齐拉	0
+po luo men shen	婆罗门神	0
+po luo men si	婆罗门寺	0
+po luo men wang chao	婆罗门王朝	0
+po luo men zao jia	婆罗门皂荚	0
+po luo mi wen	婆罗谜文	0
+po luo mi wen	婆罗米文	0
+po luo mi xi wen zi	婆罗米系文字	0
+po luo mi zi mu	婆罗米字母	0
+po luo mo huo shan	婆罗摩火山	0
+po luo mo ji duo	婆罗摩笈多	0
+po luo mo ji duo gong shi	婆罗摩笈多公式	0
+po luo na	婆罗那	0
+po luo na	破洛那	0
+po luo na cheng	婆罗捺城	0
+po luo nai	颇罗鼐	0
+po luo nai	婆罗乃	0
+po luo nang luo	婆罗囊螺	0
+po luo ne	珀洛讷	0
+po luo nie si	婆罗痆斯	0
+po luo pu si	珀罗普斯	0
+po luo sha mu	泊洛沙姆	0
+po luo shu	泊螺属	0
+po luo shu zhen	桲椤树镇	0
+po luo tai xiang	桲罗台乡	0
+po luo tai zhen	桲罗台镇	0
+po luo wen chun yu	婆罗纹唇鱼	0
+po luo xi	婆罗犀	0
+po luo xi	婆罗蜥	0
+po luo xi ke	婆罗蜥科	0
+po luo xi shu	婆罗蜥属	0
+po luo yi jian shui zao	婆罗异剑水蚤	0
+po luo yue ju shu	婆罗越橘属	0
+po luo zhen sha	婆罗真鲨	0
+po luo zhou	婆罗州	0
+po luo zhou	婆罗洲	0
+po luo zhou bai xu chang bi yuan	婆罗洲白须长臂猿	0
+po luo zhou chun chi chang	婆罗洲唇齿鲿	0
+po luo zhou dao	婆罗洲岛	0
+po luo zhou de zhu long cao	婆罗洲的猪笼草	0
+po luo zhou di di yu lin	婆罗洲低地雨林	0
+po luo zhou di du juan	婆罗洲地杜鹃	0
+po luo zhou di shu	婆罗洲地鼠	0
+po luo zhou fan ri tong meng hui	婆罗洲反日同盟会	0
+po luo zhou fang wei nian	婆罗洲方尾鲶	0
+po luo zhou gao yuan guo hui yi xi	婆罗洲高原国会议席	0
+po luo zhou gong bao	婆罗洲公报	0
+po luo zhou gong chan dang	婆罗洲共产党	0
+po luo zhou hai wan wu qi yao	婆罗洲海湾无鳍鳐	0
+po luo zhou hang kong	婆罗洲航空	0
+po luo zhou ji shi bao	婆罗洲纪事报	0
+po luo zhou jin mao	婆罗洲金猫	0
+po luo zhou jin nian	婆罗洲近鲶	0
+po luo zhou kai gong yu	婆罗洲铠弓鱼	0
+po luo zhou kong que zhi	婆罗洲孔雀雉	0
+po luo zhou li tou yao	婆罗洲犁头鳐	0
+po luo zhou long ji tun	婆罗洲龙脊鲀	0
+po luo zhou lv xi que	婆罗洲绿喜鹊	0
+po luo zhou ma lai xiong bao yu zhong xin	婆罗洲马来熊保育中心	0
+po luo zhou man hu nian	婆罗洲鳗胡鲶	0
+po luo zhou ni du xi	婆罗洲拟毒蜥	0
+po luo zhou pan qiu	婆罗洲潘鳅	0
+po luo zhou pang nian	婆罗洲庞鲶	0
+po luo zhou ri ju shi qi	婆罗洲日据时期	0
+po luo zhou sen lin kan fa	婆罗洲森林砍伐	0
+po luo zhou shao zu shu	婆罗洲少足属	0
+po luo zhou shou bei jun	婆罗洲守备军	0
+po luo zhou tiao qiu	婆罗洲条鳅	0
+po luo zhou wen chun yu	婆罗洲纹唇鱼	0
+po luo zhou wen hua bo wu guan	婆罗洲文化博物馆	0
+po luo zhou xian wen bian	婆罗洲线纹鳊	0
+po luo zhou xiang	婆罗洲象	0
+po luo zhou xiang jia lan	婆罗洲香荚兰	0
+po luo zhou xiao mei tai	婆罗洲小煤炱	0
+po luo zhou xing xing	婆罗洲猩猩	0
+po luo zhou xu zhu	婆罗洲须猪	0
+po luo zhou xuan nian	婆罗洲绚鲶	0
+po luo zhou xue mang	婆罗洲血蟒	0
+po luo zhou yang bi tun	婆罗洲仰鼻鲀	0
+po luo zhou yun bao	婆罗洲云豹	0
+po luo zhou zhan yi	婆罗洲战役	0
+po luo zhou zhi jing qi yu	婆罗洲栉精器鱼	0
+po luo zhou zhi xin	婆罗洲之心	0
+po luo zhou zhou shu	婆罗洲州属	0
+po luo zhou zhu long cao	婆罗洲猪笼草	0
+po luo zhou zhu ru xiang	婆罗洲侏儒象	0
+po lv gao shi	坡缕缟石	0
+po lv jia	坡旅甲	0
+po lv shi	坡缕石	0
+po ma du an	泊马度胺	0
+po ma guan xi	婆妈关系	0
+po ma hua shu	坡麻花属	0
+po ma ni ya huo	珀玛拟牙䱛	0
+po ma nv xu	婆妈女婿	0
+po ma xiu chi	破麻羞耻	0
+po ma xiu ru	破麻羞辱	0
+po mei zhen	坡妹镇	0
+po men	破门	0
+po men chui	破门锤	0
+po men lv	破门律	0
+po men ru wu	破门入屋	0
+po meng you xi	破梦游戏	0
+po mi	破密	0
+po mian	破面	0
+po mian zhang ai ji qiao	坡面障碍技巧	0
+po miao	破庙	0
+po mie	破灭	0
+po mie de wang guo	破灭的王国	0
+po mie huang zhu	破篾黄竹	0
+po ming ri cai	泊明日菜	0
+po mo	泼墨	0
+po mo gong	破魔弓	0
+po mo he jin	坡莫合金	0
+po mo shan shui tu	破墨山水图	0
+po mo shao nv	泼墨少女	0
+po mo shi	破魔矢	0
+po mo xian ren	泼墨仙人	0
+po mou feng	婆缪峰	0
+po mu	婆母	0
+po mu	破墓	0
+po mu la pu huo shan	珀木拉普火山	0
+po mu li te	珀姆里特	0
+po na er ba she	珀纳尔巴舍	0
+po na er xi sa er	珀纳尔希萨尔	0
+po na jia ta	婆那加塔	0
+po na si	珀纳思	0
+po na si	珀纳斯	0
+po na suo	婆那娑	0
+po nai zhu dan kang	泊奈珠单抗	0
+po nan bu ke xiu liu	珀南布科鸺鹠	0
+po nang hu jun ke	破囊壶菌科	0
+po nao	珀瑙	0
+po ne te wu xiang	珀讷特乌乡	0
+po nei keng	坡内坑	0
+po nei te xiang	珀内特乡	0
+po ni da dao	珀尼达岛	0
+po ni ka zhi	泼尼卡酯	0
+po ni ke hai ya	珀尼克海崖	0
+po ni song	泼尼松	0
+po ni song long	泼尼松龙	0
+po nie luo po	珀涅罗珀	0
+po nuo lei	珀诺勒	0
+po o fu di	婆哦缚帝	0
+po pei lei ke hai qiong	珀佩雷克海穹	0
+po pei yu	泼佩语	0
+po pi	泼皮	0
+po pi er shi	珀辟二世	0
+po pi gao er	泼皮高二	0
+po pi nan shi	泼皮男士	0
+po pi wu	破皮乌	0
+po pi yi shi	珀辟一世	0
+po pian	破片	0
+po pian dan	破片弹	0
+po pian sha shang	破片杀伤	0
+po pian shou lei	破片手雷	0
+po ping yin shi	坡平尹氏	0
+po po	婆婆	0
+po po dai	破破袋	0
+po po ding	婆婆丁	0
+po po duo lun	破破舵轮	0
+po po er she he	珀珀尔舍河	0
+po po guo jia	婆婆国家	0
+po po hao	婆婆蒿	0
+po po he ma ma	婆婆和妈妈	0
+po po na	婆婆纳	0
+po po na shu	婆婆纳属	0
+po po sheng	婆婆生	0
+po po zhen	婆婆针	0
+po po zhen dai er	婆婆针袋儿	0
+po po zhen qian bao	婆婆针钱包	0
+po po zhen xian bao	婆婆针线包	0
+po po zhen zha er	婆婆针扎儿	0
+po po zheng fu	婆婆政府	0
+po pu duan tui chan	珀普短腿蟾	0
+po pu fu	珀普伏	0
+po pu fu lian she	坡普腹链蛇	0
+po pu fu shu	坡普蝮属	0
+po pu lai ke si ling	珀普莱克斯岭	0
+po pu lan ge	珀普兰格	0
+po pu luo gong men	珀普罗拱门	0
+po pu zhu ye qing she	坡普竹叶青蛇	0
+po qi	婆崎	0
+po qi dao	珀奇岛	0
+po qiang cheng	破羌城	0
+po qiang ruan jian	破墙软件	0
+po qiang xian	破羌县	0
+po qie de wei ji	迫切的危机	0
+po qin	婆抋	0
+po qing	珀青	0
+po ren zhi jian	破刃之剑	0
+po rui	珀瑞	0
+po run	婆润	0
+po run	婆闰	0
+po sai dun	坡赛顿	0
+po sai er	珀塞尔	0
+po sai er xue yuan	珀塞尔雪原	0
+po sai kou	珀赛蔻	0
+po san ju shu	破伞菊属	0
+po san jue	破伞蕨	0
+po se	珀瑟	0
+po se fen	泊瑟芬	0
+po se lei ni xiang	珀瑟雷尼乡	0
+po se wei lun si shan	珀瑟维伦斯山	0
+po seng	破僧	0
+po sha kang zuo	泊沙康唑	0
+po sha zhuang	婆沙庄	0
+po shan	泊山	0
+po shan	坡山	0
+po shan chan shi	破山禅师	0
+po shan cun	坡山村	0
+po shan fu yuan jun	坡山府院君	0
+po shan hai ming	破山海明	0
+po shan han ge ming	破衫汉革命	0
+po shan han zhan zheng	破衫汉战争	0
+po shan he shang	破山和尚	0
+po shang duan bei shan	迫上断背山	0
+po shang feng	破伤风	0
+po shang feng kang du su	破伤风抗毒素	0
+po shang feng lei du su	破伤风类毒素	0
+po shang feng mian yi qiu dan bai	破伤风免疫球蛋白	0
+po shang feng suo jun	破伤风梭菌	0
+po shang feng suo zhuang ya bao gan jun	破伤风梭状芽胞杆菌	0
+po shang feng ya bao gan jun	破伤风芽孢杆菌	0
+po shang feng yi miao	破伤风疫苗	0
+po shang feng yu fang zhu she ji	破伤风预防注射剂	0
+po she shu	婆蛇属	0
+po shen duo er fu	珀申多尔夫	0
+po shen duo fu	珀申多夫	0
+po shen jia luo di er	婆什迦罗第二	0
+po shen jia luo di yi	婆什迦罗第一	0
+po sheng ti gai jue	坡生蹄盖蕨	0
+po shi ce huang xi chong	泼氏侧黄吸虫	0
+po shi ding lv	坡氏定律	0
+po shi ding ze	坡氏定则	0
+po shi er	破事儿	0
+po shi fa ze	坡氏法则	0
+po shi jing ying	破事精英	0
+po shi kong jun shu	泊氏孔菌属	0
+po shi luo nan ji yu	珀氏裸南极鱼	0
+po shi po	婆师婆	0
+po shi qi sai man	泼氏七鳃鳗	0
+po shi she mian wei	珀氏蛇绵鳚	0
+po shi shu xu yu	珀氏树须鱼	0
+po shi xi xing zhi li	珀氏蜥形脂鲤	0
+po shi ying chong shu	珀氏缨虫属	0
+po shi zhang wen song shu	珀氏长吻松鼠	0
+po shou	泊手	0
+po shui	破水	0
+po shui er chu	破水而出	0
+po shui jie	泼水节	0
+po shui jie dao	泊水街道	0
+po shui jie mo wang	泼水节魔王	0
+po shui jiu chang	迫水久常	0
+po shui ping	破水平	0
+po si	珀斯	0
+po si an bo yi	珀斯安博伊	0
+po si cheng shi gui dao lie che	珀斯城市轨道列车	0
+po si du hui tie lu xi tong	珀斯都会铁路系统	0
+po si guang hui	珀斯光辉	0
+po si guang rong	珀斯光荣	0
+po si guo ji ji chang	珀斯国际机场	0
+po si he jin luo si	珀斯和金罗斯	0
+po si ji chang	珀斯机场	0
+po si jiu	破四旧	0
+po si ju xing ti yu chang	珀斯矩形体育场	0
+po si jun	珀斯郡	0
+po si kan mu	坡斯坎木	0
+po si nei ke	珀斯内克	0
+po si re dai qi xuan jing gao zhong xin	珀斯热带气旋警告中心	0
+po si re huo	珀斯热火	0
+po si shan	珀斯山	0
+po si shang xue yan jiu sheng yuan	珀斯商学研究生院	0
+po si shang xue yuan	珀斯商学院	0
+po si shang ye yan jiu sheng yuan	珀斯商业研究生院	0
+po si sheng wu	珀斯生物	0
+po si shi	珀斯市	0
+po si shi zheng ting	珀斯市政厅	0
+po si tang ren jie	珀斯唐人街	0
+po si te lei wei ni xiang	珀斯特勒韦尼乡	0
+po si te ling bei ge jiao tang	珀斯特灵贝格教堂	0
+po si te ling bei ge shan	珀斯特灵贝格山	0
+po si ti yu chang	珀斯体育场	0
+po si ti yu guan	珀斯体育馆	0
+po si tian wen tai	珀斯天文台	0
+po si tiao yue	珀斯条约	0
+po si xian	珀斯县	0
+po si zao bi chang	珀斯造币厂	0
+po si zha	婆私咤	0
+po si zhan	珀斯站	0
+po si zhu bi chang	珀斯铸币厂	0
+po si zhu bi chang jin tiao	珀斯铸币厂金条	0
+po si zhu bi chang yin tiao	珀斯铸币厂银条	0
+po song	泊松	0
+po song bi	泊松比	0
+po song chao dai shu	泊松超代数	0
+po song chao liu xing	泊松超流形	0
+po song dai shu	泊松代数	0
+po song fang cheng	泊松方程	0
+po song fen bu	泊松分布	0
+po song guang ban	泊松光斑	0
+po song guo cheng	泊松过程	0
+po song hui gui	泊松回归	0
+po song ji xian ding li	泊松极限定理	0
+po song jie gou	泊松结构	0
+po song kuo hao	泊松括号	0
+po song li qun	泊松李群	0
+po song liang ban	泊松亮斑	0
+po song liu xing	泊松流形	0
+po song qiu he gong shi	泊松求和公式	0
+po song shan	泊松山	0
+po song shi bi	泊松式比	0
+po song shi yan	泊松试验	0
+po song shuang xiang liang	泊松双向量	0
+po song xi shu	泊松系数	0
+po song ying she	泊松映射	0
+po song yun shi keng	泊松陨石坑	0
+po song zao sheng	泊松噪声	0
+po sou	婆薮	0
+po sou tuo luo	婆薮陀罗	0
+po su ji	婆苏吉	0
+po su ji she shu	婆苏吉蛇属	0
+po su lu	婆速路	0
+po su mi duo luo	婆苏密多罗	0
+po su ye	泊肃叶	0
+po su ye ding lv	泊肃叶定律	0
+po su ye liu	泊肃叶流	0
+po su ye liu dong	泊肃叶流动	0
+po suan	泼酸	0
+po sui	破碎	0
+po sui dai	破碎带	0
+po sui de shi dai	破碎的时代	0
+po sui de shi guang	破碎的时光	0
+po sui de shi jie	破碎的世界	0
+po sui de wo	破碎的我	0
+po sui de xin	破碎的心	0
+po sui de yong bao	破碎的拥抱	0
+po sui di dai	破碎地带	0
+po sui dui jiao xian	破碎对角线	0
+po sui e shu	破碎鳄属	0
+po sui gu shi zhi xin	破碎故事之心	0
+po sui ji	破碎机	0
+po sui jin gang kou long	破碎金刚口龙	0
+po sui long	破碎龙	0
+po sui long shu	破碎龙属	0
+po sui shi dai	破碎时代	0
+po sui shi guang	破碎时光	0
+po sui ti	破碎体	0
+po sui xi yi	破碎蜥蜴	0
+po sui xin	破碎心	0
+po sui xu kong	破碎虚空	0
+po sui yin he xi	破碎银河系	0
+po sui zhi hua	破碎之花	0
+po sui zhi jia	破碎之家	0
+po sui zhong guo xu gu long	破碎中国虚骨龙	0
+po sun de er duo	破损的耳朵	0
+po suo fu	婆娑府	0
+po suo hu	婆娑湖	0
+po suo luo	婆娑罗	0
+po suo ni shi jin	婆娑尼师今	0
+po suo niao	婆娑鸟	0
+po ta	泼塔	0
+po ta cheng	破塌城	0
+po tai yuan	泊太苑	0
+po tan xiang	皤滩乡	0
+po tan zhen	皤滩镇	0
+po tang	坡膛	0
+po te er la jie lai	珀特尔拉杰莱	0
+po te er si duo fu	珀特尔斯多夫	0
+po te lei tai	珀特雷泰	0
+po te lei wu qi xiang	珀特勒乌齐乡	0
+po te lun	坡特仑	0
+po te mei si	珀特梅斯	0
+po ti	破体	0
+po ti li jia	婆提梨迦	0
+po tian huang	破天慌	0
+po tian huang	破天荒	0
+po tian huang you xi	破天荒游戏	0
+po tian sha zhi	迫田沙织	0
+po tian shen ji	破天神记	0
+po ting	泊町	0
+po ting	坡亭	0
+po ting	珀廷	0
+po ting ge er gu di tu	坡廷格尔古地图	0
+po ting ge er tu biao	坡廷格尔图表	0
+po tong	珀通	0
+po tong lan tie	破铜烂铁	0
+po tong lan tie yue dui	破铜烂铁乐队	0
+po tong qian	破铜钱	0
+po tou	泊头	0
+po tou	坡头	0
+po tou hu	泊头湖	0
+po tou huo chai	泊头火柴	0
+po tou jie dao	坡头街道	0
+po tou jing ji kai fa qu	泊头经济开发区	0
+po tou pan	破头潘	0
+po tou qing zhen si	泊头清真寺	0
+po tou qu	坡头区	0
+po tou shi	泊头市	0
+po tou si	珀透斯	0
+po tou tai shan miao	坡头泰山庙	0
+po tou xi zhan	泊头西站	0
+po tou xian	泊头县	0
+po tou xiang	坡头乡	0
+po tou yi zhi	坡头遗址	0
+po tou yu gang	坡头渔港	0
+po tou zhan	泊头站	0
+po tou zhen	泊头镇	0
+po tou zhen	坡头镇	0
+po tou zhen zhan	泊头镇站	0
+po tou zhen zhan dou	泊头镇战斗	0
+po tou zhi ye xue yuan	泊头职业学院	0
+po tu	破土	0
+po tu chong sheng	破土重生	0
+po tu lai lai xiang	珀图莱莱乡	0
+po tuo	珀托	0
+po tuo si	珀托斯	0
+po wa	颇瓦	0
+po wa	破瓦	0
+po wa fa	颇瓦法	0
+po wa fa	破瓦法	0
+po wan	泊湾	0
+po wan	钋烷	0
+po wang	破网	0
+po wang gong ju	破网工具	0
+po wang ji shu	破网技术	0
+po wang ruan jian	破网软件	0
+po wang shi ke	破网时刻	0
+po wei lv ying zui yu	破尾绿鹦嘴鱼	0
+po wei si bing chuan	珀维斯冰川	0
+po wei si feng	珀维斯峰	0
+po wei si jiao	珀维斯角	0
+po wu chu ru kou	粕屋出入口	0
+po wu jie	破五节	0
+po wu ka xiang	珀乌卡乡	0
+po wu kong wang chun	破无孔网蝽	0
+po wu li shen xiang	珀乌利什乡	0
+po wu nei shen di xiang	珀乌内什蒂乡	0
+po wu ting	粕屋町	0
+po wu xian sheng	破屋先生	0
+po wu xie shen di xiang	珀乌谢什蒂乡	0
+po xi	婆媳	0
+po xi bu sen	泊西布森	0
+po xi da dou fa	婆媳大斗法	0
+po xi da zhan	婆媳大战	0
+po xi guan xi	婆媳关系	0
+po xi guo zhao qi shi hui	婆媳过招七十回	0
+po xi jia zu	珀西家族	0
+po xi la en	珀希拉恩	0
+po xi nu si	珀西努斯	0
+po xi nuo si	珀西诺斯	0
+po xi ping han tie lu zhan dou	破袭平汉铁路战斗	0
+po xi shan	珀西山	0
+po xi shui pa shui	婆媳谁怕谁	0
+po xi wa er	珀西瓦尔	0
+po xi wa li	珀西瓦里	0
+po xi wa ye ling	珀西瓦野鲮	0
+po xi ya	珀西亚	0
+po xian	坡县	0
+po xiang zong	破相宗	0
+po xiao	朴硝	0
+po xiao	破晓	0
+po xiao chen zhong	破晓晨钟	0
+po xiao chuan qi	破晓传奇	0
+po xiao de ai	破晓的爱	0
+po xiao de qing shu	破晓的情书	0
+po xiao dong fang	破晓东方	0
+po xiao er	珀肖尔	0
+po xiao hao	破晓号	0
+po xiao hao jin xing tan ce qi	破晓号金星探测器	0
+po xiao hao tan ce qi	破晓号探测器	0
+po xiao jue si dou	破晓决死斗	0
+po xiao kai zhan	破晓开战	0
+po xiao shi fen	破晓时分	0
+po xiao xing dong	破晓行动	0
+po xiao zhi ai	破晓之爱	0
+po xiao zhi yi	破晓之翼	0
+po xiao zhi zhan	破晓之战	0
+po xie lun xu	破邪论序	0
+po xie xiang bian	破邪详辩	0
+po xin	坡心	0
+po xin	珀辛	0
+po xin zhen	坡心镇	0
+po xin zhuang	坡心庄	0
+po xiong ti	破胸体	0
+po xiu si	珀休斯	0
+po xiu si	珀修斯	0
+po xue dan	破血丹	0
+po ya er	珀雅尔	0
+po ya ge shu	坡芽歌书	0
+po ya qing ge	坡芽情歌	0
+po yan lun	婆衍崘	0
+po yang	鄱阳	0
+po yang bei zhan	鄱阳北站	0
+po yang fu	鄱阳府	0
+po yang gong zhu	鄱阳公主	0
+po yang guo	鄱阳国	0
+po yang hu	鄱阳湖	0
+po yang hu da ba	鄱阳湖大坝	0
+po yang hu da qiao	鄱阳湖大桥	0
+po yang hu er qiao	鄱阳湖二桥	0
+po yang hu ping yuan	鄱阳湖平原	0
+po yang hu sheng tai jing ji qu	鄱阳湖生态经济区	0
+po yang hu shi zi tou	鄱阳湖狮子头	0
+po yang hu shui ba	鄱阳湖水坝	0
+po yang hu shui dian zhan	鄱阳湖水电站	0
+po yang hu shui li shu niu	鄱阳湖水利枢纽	0
+po yang hu shui zhan	鄱阳湖水战	0
+po yang hu zhi zhan	鄱阳湖之战	0
+po yang hu zi ran bao hu qu	鄱阳湖自然保护区	0
+po yang jie	鄱阳街	0
+po yang jun	鄱阳郡	0
+po yang jun gong	鄱阳郡公	0
+po yang jun kai guo hou	鄱阳郡开国侯	0
+po yang jun wang	鄱阳郡王	0
+po yang shi zi	鄱阳世子	0
+po yang si wang	鄱阳嗣王	0
+po yang wang	鄱阳王	0
+po yang xian	鄱阳县	0
+po yang xian kai guo hou	鄱阳县开国侯	0
+po yang zhan	鄱阳站	0
+po yang zhang gong zhu	鄱阳长公主	0
+po yang zhen	鄱阳镇	0
+po yao fu	破窑赋	0
+po yao xiao dai long	破妖小呆龙	0
+po yi	婆姨	0
+po yi	珀伊	0
+po yi	破译	0
+po yi	迫移	0
+po yi de xiang	珀伊德乡	0
+po yi ju mian	迫移局面	0
+po yi tuo	珀伊托	0
+po yin	破音	0
+po yin ting	坡印廷	0
+po yin ting ding li	坡印亭定理	0
+po yin ting ding li	坡印廷定理	0
+po yin ting huan xing shan	坡印廷环形山	0
+po yin ting shi liang	坡印亭矢量	0
+po yin ting shi liang	坡印廷矢量	0
+po yin ting xiang liang	坡印廷向量	0
+po yin zi	破音字	0
+po you gan	坡油甘	0
+po you gan shu	坡油甘属	0
+po you meng gu yan han gong qiu	破幽梦孤雁汉宫秋	0
+po yu	泊寓	0
+po yu	坡芋	0
+po yu	珀御	0
+po yu	破狱	0
+po yu di ai	珀于蒂艾	0
+po yu fang	珀御坊	0
+po yu zhen	泊于镇	0
+po yuan	坡元	0
+po yuan che zhan	粕渊车站	0
+po yuan xian	婆员县	0
+po yuan zhan	粕渊站	0
+po yue	珀悦	0
+po yue	珀玥	0
+po zai	粕仔	0
+po zai liao qia yi tang	泊仔寮洽义堂	0
+po zai mei shao	迫在眉梢	0
+po zao lu	坡皂鲈	0
+po zao zhen	坡造镇	0
+po ze shen qun dao	珀泽申群岛	0
+po zhan	泊站	0
+po zhan	破战	0
+po zhan	破绽	0
+po zhan zhe	破战者	0
+po zhang	泼张	0
+po zhang sa ba	颇章萨巴	0
+po zhang xiang	颇章乡	0
+po zhao nv pai	珀兆女排	0
+po zhe	婆者	0
+po zhe hao	破折号	0
+po zhen	泊镇	0
+po zhen qing zhen si	泊镇清真寺	0
+po zhen yong hua huo chai gu fen you xian gong si	泊镇永华火柴股份有限公司	0
+po zhen zhan	泊镇站	0
+po zhen zi	破阵子	0
+po zheng	婆争	0
+po zhi sui	泊志穂	0
+po zhi sui	泊志穗	0
+po zhou	坡州	0
+po zhou bao	破周报	0
+po zhou chu ban wen hua qing bao shi ye tuan di	坡州出版文化情报事业团地	0
+po zhou jun	坡州郡	0
+po zhou lian shi	坡州廉氏	0
+po zhou shi	坡州市	0
+po zhou zhan	坡州站	0
+po zhu jiang	婆猪江	0
+po zhu jiang zhan dou	婆猪江战斗	0
+po zhuang mu qun	泊庄墓群	0
+po zi	婆姊	0
+po zi cao	破子草	0
+po zi cuo	坡孜错	0
+po zi fa chang wan qu	珀兹伐场弯曲	0
+po zi jie	坡子街	0
+po zi jie jie dao	坡子街街道	0
+po zi xing mang	珀兹星蟒	0
+po zong zhong	泊宗重	0
+po zu	婆祖	0
+po zu	珀祖	0
+po zui he chang tuan	破嘴合唱团	0
+po zui yue tuan	破嘴乐团	0

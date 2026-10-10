@@ -1,0 +1,584 @@
+niao an suan	鸟氨酸	0
+niao an suan	鸟胺酸	0
+niao an suan wei jun shu	鸟氨酸微菌属	0
+niao an suan wei qiu jun shu	鸟氨酸微球菌属	0
+niao an suan xun huan	鸟氨酸循环	0
+niao an suan ya bao gan jun shu	鸟氨酸芽胞杆菌属	0
+niao ban long tou li yu	鸟斑隆头丽鱼	0
+niao beng	尿崩	0
+niao beng zheng	尿崩症	0
+niao bin che zhan	鸟滨车站	0
+niao bin zhan	鸟滨站	0
+niao bu	鸟部	0
+niao bu	尿布	0
+niao bu shi	尿不湿	0
+niao bu shi zhen de	鸟不是真的	0
+niao bu wan li zi	鸟部万里子	0
+niao bu yi zu	尿布一族	0
+niao bu zhen	尿布疹	0
+niao cao	尿槽	0
+niao ce	尿厕	0
+niao chang gui	尿常规	0
+niao chang wai jing shu	尿肠外颈属	0
+niao chao	鸟巢	0
+niao chao ba zhi chong	鸟巢八枝虫	0
+niao chao dao	鸟巢岛	0
+niao chao feng li shu	鸟巢凤梨属	0
+niao chao jue	鸟巢厥	0
+niao chao jue	鸟巢蕨	0
+niao chao jun ke	鸟巢菌科	0
+niao chao jun mu	鸟巢菌目	0
+niao chao jun shu	鸟巢菌属	0
+niao chao lan	鸟巢兰	0
+niao chao lan li zao	鸟巢兰狸藻	0
+niao chao lan shu	鸟巢兰属	0
+niao chao mang	鸟巢芒	0
+niao chao wan	鸟巢湾	0
+niao chao zhuang xue lian	鸟巢状雪莲	0
+niao cheng yun	鸟成云	0
+niao cheng zhan	鸟城站	0
+niao chi e	鸟赤蛾	0
+niao chi she gu	鸟黐蛇菰	0
+niao chong	鸟铳	0
+niao chong shou	鸟铳手	0
+niao chong shu	鸟虫书	0
+niao chong ti	鸟虫体	0
+niao chong tou	鸟铳头	0
+niao chong tou zhuang	鸟铳头庄	0
+niao chong wen	鸟虫文	0
+niao chong zhuan	鸟虫篆	0
+niao chuan	鸟船	0
+niao chuan ran xing zhi qi guan yan bing du	鸟传染性支气管炎病毒	0
+niao chuang	尿床	0
+niao chun luo shu	鸟唇螺属	0
+niao dai	尿袋	0
+niao dan	鸟蛋	0
+niao dan su	尿胆素	0
+niao dao	鸟岛	0
+niao dao	尿道	0
+niao dao ai	尿道癌	0
+niao dao gan ran	尿道感染	0
+niao dao ge li	尿道割礼	0
+niao dao guan li zhan yi zhi	鸟岛管理站遗址	0
+niao dao hai mian ti	尿道海绵体	0
+niao dao he yan	鸟嶋和彦	0
+niao dao ji	尿道嵴	0
+niao dao jiao	尿道交	0
+niao dao jin hai di zhen	鸟岛近海地震	0
+niao dao kou	尿道口	0
+niao dao kuo yue ji	尿道括约肌	0
+niao dao long lei	鸟盗龙类	0
+niao dao qiu xian	尿道球腺	0
+niao dao wai kou	尿道外口	0
+niao dao xia lie	尿道下裂	0
+niao dao yan	尿道炎	0
+niao dao zhan	鸟岛站	0
+niao dao zi ran bao hu qu	鸟岛自然保护区	0
+niao dao zong he zheng	尿道综合征	0
+niao de fei xing	鸟的飞行	0
+niao de gu shi	鸟的故事	0
+niao diao shan	鸟吊山	0
+niao dong	鸟洞	0
+niao dong guo jia gong yuan	鸟洞国家公园	0
+niao dong xin hao chang	鸟洞信号场	0
+niao dong zhan	鸟洞站	0
+niao dou	鸟兜	0
+niao dou	尿兜	0
+niao dou	尿斗	0
+niao du zheng	尿毒症	0
+niao du zheng xing xin bao yan	尿毒症性心包炎	0
+niao dui	鸟队	0
+niao e	鸟鳄	0
+niao e ke	鸟鳄科	0
+niao e lei	鸟鳄类	0
+niao e shu	鸟鳄属	0
+niao er	鸟儿	0
+niao fei	鸟飞	0
+niao fei xing	鸟飞行	0
+niao fen	鸟粪	0
+niao fen dao fa	鸟粪岛法	0
+niao fen dao yu fa	鸟粪岛屿法	0
+niao fen piao ling	鸟粪嘌呤	0
+niao fen shi	鸟粪石	0
+niao fen xi	尿分析	0
+niao fen zhu	鸟粪蛛	0
+niao fen zhu shu	鸟粪蛛属	0
+niao feng die shu	鸟凤蝶属	0
+niao gan	鸟苷	0
+niao gan	尿苷	0
+niao gan dan lin suan	鸟苷单磷酸	0
+niao gan dan lin suan	尿苷单磷酸	0
+niao gan er lin suan	尿苷二磷酸	0
+niao gan er lin suan gan lu tang	鸟苷二磷酸甘露糖	0
+niao gan jun shu	鸟杆菌属	0
+niao gan san lin suan	鸟苷三磷酸	0
+niao gan san lin suan	尿苷三磷酸	0
+niao gan suan	鸟苷酸	0
+niao gan suan	尿苷酸	0
+niao gan suan huan hua mei ou lian shou ti	鸟苷酸环化酶偶联受体	0
+niao gan suan jie he dan bai	鸟苷酸结合蛋白	0
+niao gan suan zhuan yi mei	鸟苷酸转移酶	0
+niao gan yi lin suan	鸟苷一磷酸	0
+niao gan yi lin suan	尿苷一磷酸	0
+niao gang	鸟纲	0
+niao ge	鸟歌	0
+niao ge re	鸟格惹	0
+niao gu jing	鸟谷敬	0
+niao gu long	鸟骨龙	0
+niao guan cao	尿罐草	0
+niao guan shi zi yu	鸟冠狮子鱼	0
+niao guan shi zi yu shu	鸟冠狮子鱼属	0
+niao guan xing	尿管型	0
+niao ha ke	鸟蛤科	0
+niao ha mu	鸟蛤目	0
+niao ha ya ke	鸟蛤亚科	0
+niao ha zong ke	鸟蛤总科	0
+niao hai	鸟海	0
+niao hai dan	鸟海胆	0
+niao hai dan shu	鸟海胆属	0
+niao hai guo ding gong yuan	鸟海国定公园	0
+niao hai hao fu	鸟海浩辅	0
+niao hai hao lie che	鸟海号列车	0
+niao hai hao zhong xun yang jian	鸟海号重巡洋舰	0
+niao hai lian zhi	鸟海连志	0
+niao hai shan	鸟海山	0
+niao hai shan da wu ji shen she	鸟海山大物忌神社	0
+niao hai shan lu xian	鸟海山麓线	0
+niao he xiang	鸟河乡	0
+niao hei suan	尿黑酸	0
+niao hu	尿壶	0
+niao hua	鸟话	0
+niao huai long shu	鸟踝龙属	0
+niao huang chuang	鸟黄创	0
+niao hui	鸟喙	0
+niao hui er	鸟喙二	0
+niao hui gu	鸟喙骨	0
+niao hui liu	鸟喙六	0
+niao hui lu li	鸟喙芦鲤	0
+niao hui ming biao shui zao	鸟喙明镖水蚤	0
+niao hui qi	鸟喙七	0
+niao hui san	鸟喙三	0
+niao hui si	鸟喙四	0
+niao hui wu	鸟喙五	0
+niao hui xiao cui ha	鸟喙小脆蛤	0
+niao hui yi	鸟喙一	0
+niao hui zeng yi	鸟喙增一	0
+niao ji	鸟击	0
+niao ji	尿极	0
+niao ji jia suan	脲基甲酸	0
+niao ji mei	尿激酶	0
+niao ji mei shou ti	尿激酶受体	0
+niao jia	鸟甲	0
+niao jia nu	鸟家奴	0
+niao jia xing	鸟甲姓	0
+niao jian	尿检	0
+niao jian ting chu ru kou	鸟见町出入口	0
+niao jiang zhen	鸟江镇	0
+niao jiao	鸟叫	0
+niao jiao lei	鸟脚类	0
+niao jiao sheng	鸟叫声	0
+niao jiao xia mu	鸟脚下目	0
+niao jiao ya mu	鸟脚亚目	0
+niao jie mei de fan cha sheng huo	鸟姐妹的反差生活	0
+niao jie tang	鸟结糖	0
+niao jin gong cang	鸟尽弓藏	0
+niao jin ji du	尿浸基督	0
+niao jing bing chuan	鸟井冰川	0
+niao jing lei	鸟颈类	0
+niao jing lei chu long	鸟颈类初龙	0
+niao jing lei zhu long	鸟颈类主龙	0
+niao jing mei sha	鸟井美沙	0
+niao jing shan	鸟井山	0
+niao jing xin wu	鸟井信吾	0
+niao jing xin zhi lang	鸟井信治郎	0
+niao jing zong mu	鸟颈总目	0
+niao ju	鸟居	0
+niao ju ben che zhan	鸟居本车站	0
+niao ju ben zhan	鸟居本站	0
+niao ju che zhan	鸟居车站	0
+niao ju long cang	鸟居龙藏	0
+niao ju nai gu meng	鸟居奈古梦	0
+niao ju qian che zhan	鸟居前车站	0
+niao ju qian sui	鸟居千穗	0
+niao ju qian zhan	鸟居前站	0
+niao ju qiang you wei men	鸟居强右卫门	0
+niao ju qiang you wei men	鸟居强右衞门	0
+niao ju qing xin	鸟居清信	0
+niao ju qing zhang	鸟居清长	0
+niao ju xin ping	鸟居信平	0
+niao ju yi xiong	鸟居一雄	0
+niao ju yuan zhong	鸟居元忠	0
+niao ju zhan	鸟居站	0
+niao ju zhong chun	鸟居忠春	0
+niao ju zhong guang	鸟居忠广	0
+niao ju zhong ji	鸟居忠吉	0
+niao ju zhong zheng	鸟居忠政	0
+niao kan	鸟瞰	0
+niao kan di qiu	鸟瞰地球	0
+niao kan suan	尿刊酸	0
+niao kan suan shui he mei	尿刊酸水合酶	0
+niao kan tu	鸟瞰图	0
+niao kan xin chong qing	鸟瞰新重庆	0
+niao ke dao lin	鸟窠道林	0
+niao ke lei	鸟科勒	0
+niao ke re	鸟克惹	0
+niao ku zi	尿裤子	0
+niao lai bo yu shi san yi	鸟来伯与十三姨	0
+niao lang	鸟浪	0
+niao lang zhen	鸟浪阵	0
+niao lei	鸟类	0
+niao lei bao hu	鸟类保护	0
+niao lei ce liang	鸟类测量	0
+niao lei chuan tong fen lei xi tong	鸟类传统分类系统	0
+niao lei de zhi xing	鸟类的趾型	0
+niao lei dong wu	鸟类动物	0
+niao lei fei xing	鸟类飞行	0
+niao lei fen lei xi tong	鸟类分类系统	0
+niao lei guan cha	鸟类观察	0
+niao lei guan zhuang bing du	鸟类冠状病毒	0
+niao lei huan zhi	鸟类环志	0
+niao lei jie pou xue	鸟类解剖学	0
+niao lei mao yi	鸟类贸易	0
+niao lei ming sheng	鸟类鸣声	0
+niao lei qian xi	鸟类迁徙	0
+niao lei qu ti sheng li xue	鸟类躯体生理学	0
+niao lei sheng li jie pou xue	鸟类生理解剖学	0
+niao lei shi ge huang yan	鸟类是个谎言	0
+niao lei tu jian	鸟类图鉴	0
+niao lei tu zhi	鸟类图志	0
+niao lei xue	鸟类学	0
+niao lei xue jia	鸟类学家	0
+niao lei yan hua	鸟类演化	0
+niao li	褭里	0
+niao li	鸟梨	0
+niao li zai tang	鸟梨仔糖	0
+niao liang su hai	鸟梁素海	0
+niao liao	尿疗	0
+niao liao fa	尿疗法	0
+niao liu dong li xue	尿流动力学	0
+niao liu lv ji	尿流率计	0
+niao liu lv tu	尿流率图	0
+niao long	鸟笼	0
+niao long jing ji	鸟笼经济	0
+niao long niao	鸟龙鸟	0
+niao long niao ke	鸟龙鸟科	0
+niao long niao shu	鸟龙鸟属	0
+niao long shan dian shi gou wu	鸟笼山电视购物	0
+niao long shan jiao fei ji	鸟笼山剿匪记	0
+niao long zhuang de fang ke jin ri ye yong lan	鸟笼庄的房客今日也慵懒	0
+niao long zi li lun	鸟笼子理论	0
+niao lu	尿路	0
+niao lu dong li xue	尿路动力学	0
+niao lu gan ran	尿路感染	0
+niao lu jie shi	尿路结石	0
+niao lu mu qi	鸟鲁木齐	0
+niao luan	鸟卵	0
+niao luan dao	鸟卵岛	0
+niao luo	茑萝	0
+niao luo shu	茑萝属	0
+niao luo song	茑萝松	0
+niao mei	脲酶	0
+niao mi ding	尿嘧啶	0
+niao mi ding	脲嘧啶	0
+niao mian long	鸟面龙	0
+niao mian long shu	鸟面龙属	0
+niao ming	鸟鸣	0
+niao mu	鸟母	0
+niao nan	鸟男	0
+niao nang su	尿囊素	0
+niao nang suan	尿囊酸	0
+niao niang ka fei	鸟娘咖啡	0
+niao niao	尿尿	0
+niao niao ji du	尿尿基督	0
+niao niao niao	鸟鸟鸟	0
+niao niao nv tong	尿尿女童	0
+niao niao shao nv	尿尿少女	0
+niao niao xi yang qing	袅袅夕阳情	0
+niao niao xiao mei	尿尿小妹	0
+niao niao xiao tong	尿尿小童	0
+niao niao xu ni ge shou	袅袅虚拟歌手	0
+niao pan lei	鸟盘类	0
+niao pan mu	鸟盘目	0
+niao pen	尿盆	0
+niao pian	尿片	0
+niao piao ling	鸟嘌呤	0
+niao piao ling he gan suan	鸟嘌呤核苷酸	0
+niao piao ling tuo an mei	鸟嘌呤脱氨酶	0
+niao qi che zhan	鸟栖车站	0
+niao qi guo jia gong yuan	鸟栖国家公园	0
+niao qi sha yan	鸟栖沙岩	0
+niao qi sha yan	鸟栖砂岩	0
+niao qi shi	鸟栖市	0
+niao qi ti yu chang	鸟栖体育场	0
+niao qi zhan	鸟栖站	0
+niao qiang	鸟枪	0
+niao qiang fa	鸟枪法	0
+niao qiao	袅桥	0
+niao qin lei liu xing xing gan mao	鸟禽类流行性感冒	0
+niao qu	鸟取	0
+niao qu che zhan	鸟取车站	0
+niao qu cheng	鸟取城	0
+niao qu cheng zhi zhan	鸟取城之战	0
+niao qu da xue	鸟取大学	0
+niao qu di zhen	鸟取地震	0
+niao qu duan qi da xue	鸟取短期大学	0
+niao qu er shi shi ji li ji nian guan	鸟取二十世纪梨纪念馆	0
+niao qu fan	鸟取藩	0
+niao qu fei xiang	鸟取飞翔	0
+niao qu feng gang gong jin zi dong che dao	鸟取丰冈宫津自动车道	0
+niao qu hua hui lang	鸟取花回廊	0
+niao qu ji chang	鸟取机场	0
+niao qu jia ta li	鸟取加塔利	0
+niao qu kuai che	鸟取快车	0
+niao qu nan jiao liu dao	鸟取南交流道	0
+niao qu san jin zi	鸟取三津子	0
+niao qu sha qiu	鸟取沙丘	0
+niao qu sha qiu	鸟取砂丘	0
+niao qu shi	鸟取市	0
+niao qu xi dao lu	鸟取西道路	0
+niao qu xi jiao liu dao	鸟取西交流道	0
+niao qu xian	鸟取县	0
+niao qu xian	鸟取県	0
+niao qu xian gong an wei yuan hui	鸟取县公安委员会	0
+niao qu xian ji dao gen xian can yi yuan he tong xuan ju qu	鸟取县及岛根县参议院合同选举区	0
+niao qu xian li bo wu guan	鸟取县立博物馆	0
+niao qu xian li mi zi dong gao deng xue xiao	鸟取县立米子东高等学校	0
+niao qu xian li mi zi dong gao ji zhong xue	鸟取县立米子东高级中学	0
+niao qu xian li niao qu xi gao deng xue xiao	鸟取县立鸟取西高等学校	0
+niao qu xian qi	鸟取县旗	0
+niao qu xian xi bu di zhen	鸟取县西部地震	0
+niao qu xian xing zheng qu hua	鸟取县行政区划	0
+niao qu xian xuan ju qu	鸟取县选举区	0
+niao qu xian zhi shi	鸟取县知事	0
+niao qu yin hang	鸟取银行	0
+niao qu zhan	鸟取站	0
+niao qu zhi zhuang che zhan	鸟取之庄车站	0
+niao qu zhi zhuang zhan	鸟取之庄站	0
+niao qu zi dong che dao	鸟取自动车道	0
+niao qun	鸟群	0
+niao qun zi	尿裙子	0
+niao ren	鸟人	0
+niao ren ai wei si	鸟人爱维斯	0
+niao ren an de sen	鸟人安德森	0
+niao ren ji hua	鸟人计划	0
+niao ren zhan dui	鸟人战队	0
+niao rong	鸟榕	0
+niao rong shu	鸟榕树	0
+niao ru zi	鸟如子	0
+niao se qing	尿色情	0
+niao shan ming	鸟山明	0
+niao shan qi	鸟山启	0
+niao shan qiu	鸟山求	0
+niao shan shi yan	鸟山石燕	0
+niao she lan	鸟舌兰	0
+niao she lan shu	鸟舌兰属	0
+niao shen nv yao	鸟身女妖	0
+niao shen xing	鸟神星	0
+niao sheng fu ren	鸟生夫人	0
+niao sheng zhi san jiao	尿生殖三角	0
+niao shi	鸟屎	0
+niao shi	鸟市	0
+niao shi hai tan	鸟石海滩	0
+niao shi jin	尿失禁	0
+niao shi ke	鸟虱科	0
+niao shi lun	鸟施仑	0
+niao shi rong	鸟屎榕	0
+niao shi su	尿石素	0
+niao shou	鸟兽	0
+niao shou ban kuai	鸟首板块	0
+niao shou jiao lei	鸟兽脚类	0
+niao shou jiao zong ke	鸟兽脚总科	0
+niao shou long mu	鸟首龙目	0
+niao shou ren wu xi hua	鸟兽人物戏画	0
+niao shou xi hua	鸟兽戏画	0
+niao shou zhuang qi	鸟首状器	0
+niao shou zun	鸟兽尊	0
+niao shu	鸟书	0
+niao shu	鸟叔	0
+niao shu shan	鸟鼠山	0
+niao shu shan ren	鸟鼠山人	0
+niao shu tong xue	鸟鼠同穴	0
+niao si fou yu	鸟饲否宇	0
+niao si xing bo	鸟饲行博	0
+niao song	茑松	0
+niao song	鸟松	0
+niao song bao	茑松堡	0
+niao song gao zhong	茑松高中	0
+niao song jiao	鸟松脚	0
+niao song jiao kai nong gong	茑松脚开农宫	0
+niao song jiao liu dao	鸟松交流道	0
+niao song jiao zhuang	鸟松脚庄	0
+niao song li	鸟松里	0
+niao song qu	鸟松区	0
+niao song shi di	鸟松湿地	0
+niao song shi di gong yuan	鸟松湿地公园	0
+niao song wen hua	茑松文化	0
+niao song xiang	鸟松乡	0
+niao song yi gao	茑松艺高	0
+niao song yi shu gao zhong	茑松艺术高中	0
+niao song zhuang	茑松庄	0
+niao song zhuang	鸟松庄	0
+niao su	尿素	0
+niao su dan	尿素氮	0
+niao su jia quan shu zhi	尿素甲醛树脂	0
+niao su jiang di lv	尿素降低率	0
+niao su mei	尿素酶	0
+niao su ru gao	尿素乳膏	0
+niao su xiu nan	鸟宿秀男	0
+niao su xun huan	尿素循环	0
+niao su ya bao gan jun shu	尿素芽胞杆菌属	0
+niao suan	尿酸	0
+niao suan yang hua mei	尿酸氧化酶	0
+niao tang ji suan	尿羰基酸	0
+niao ti	鸟啼	0
+niao ti ge	鸟啼歌	0
+niao tiao li su	尿调理素	0
+niao tong	尿痛	0
+niao tou ban dao	鸟头半岛	0
+niao tou ji	鸟头荠	0
+niao tou ji shu	鸟头荠属	0
+niao tou long mu	鸟头龙目	0
+niao tou long shu	鸟头龙属	0
+niao tou wan	鸟头湾	0
+niao tou xiang fa luo	鸟头象法螺	0
+niao tou ye jiang dou	鸟头叶豇豆	0
+niao tun lei	鸟臀类	0
+niao tun mu	鸟臀目	0
+niao wan	尿烷	0
+niao wan	脲烷	0
+niao wei ha ke	鸟尾蛤科	0
+niao wei ha ya ke	鸟尾蛤亚科	0
+niao wei ha zong ke	鸟尾蛤总科	0
+niao wei hua	鸟尾花	0
+niao wei yi	鸟卫一	0
+niao wei zao shu	鸟尾藻属	0
+niao wen lei	鸟吻类	0
+niao wen xiang zun	鸟纹象尊	0
+niao wen zhai rong zhi	鸟文斋荣之	0
+niao wu	茑屋	0
+niao wu shu dian	茑屋书店	0
+niao wu zhong san lang	茑屋重三郎	0
+niao xi long san	鸟潟隆三	0
+niao xing	鸟姓	0
+niao xing che zhan	鸟形车站	0
+niao xing kong long	鸟型恐龙	0
+niao xing kong long	鸟形恐龙	0
+niao xing yin le	尿性淫乐	0
+niao xing zhan	鸟形站	0
+niao xiong	尿胸	0
+niao xiong gu lei	鸟胸骨类	0
+niao xiong lei	鸟胸类	0
+niao xiu zheng	尿羞症	0
+niao yan la jiao	鸟眼辣椒	0
+niao yao	鸟妖	0
+niao yao tou	尿摇头	0
+niao ye	尿液	0
+niao ye fen xi	尿液分析	0
+niao ye guan xing	尿液管型	0
+niao ye hua yan	尿液化验	0
+niao ye jian cha	尿液检查	0
+niao ye jian yan shi zhi	尿液检验试纸	0
+niao ye shi zhi	尿液试纸	0
+niao ye zhi liu	尿液滞留	0
+niao ye zhu xing	尿液铸型	0
+niao yi	鸟夷	0
+niao yi die	鸟翼蝶	0
+niao yi die shu	鸟翼蝶属	0
+niao yi feng die shu	鸟翼凤蝶属	0
+niao yi lei	鸟翼类	0
+niao yi shang feng die	鸟翼裳凤蝶	0
+niao yi zhan dou	鸟衣战斗	0
+niao ying tao he	鸟樱桃河	0
+niao yu	鸟屿	0
+niao yu	鸟语	0
+niao yu che zhan	鸟羽车站	0
+niao yu cheng	鸟羽城	0
+niao yu ding shi	鸟鱼锭石	0
+niao yu e ke	鸟羽蛾科	0
+niao yu fa dian chang	鸟屿发电厂	0
+niao yu fu de gong	鸟屿福德宫	0
+niao yu fu jian zhi zhan	鸟羽伏见之战	0
+niao yu hao lie che	鸟羽号列车	0
+niao yu hou miao	鸟屿后庙	0
+niao yu hua xiang	鸟语花香	0
+niao yu jie dao che zhan	鸟羽街道车站	0
+niao yu jie dao zhan	鸟羽街道站	0
+niao yu jin shan dian	鸟屿金山殿	0
+niao yu jun zheng	鸟羽俊正	0
+niao yu kou	鸟羽口	0
+niao yu lei	鸟羽类	0
+niao yu long	鸟羽龙	0
+niao yu meng fei xing	鸟与梦飞行	0
+niao yu mi feng	鸟与蜜蜂	0
+niao yu qian miao	鸟屿前庙	0
+niao yu seng zheng	鸟羽僧正	0
+niao yu shang chuan gao deng zhuan men xue xiao	鸟羽商船高等专门学校	0
+niao yu shang huang	鸟羽上皇	0
+niao yu shi	鸟羽市	0
+niao yu shu	鸟羽曙	0
+niao yu shui zu guan	鸟羽水族馆	0
+niao yu tian huang	鸟羽天皇	0
+niao yu xian	鸟羽线	0
+niao yu xu han	鸟羽须蚶	0
+niao yu yu	鸟羽玉	0
+niao yu yuan	鸟羽院	0
+niao yu zhan	鸟羽站	0
+niao yu zhi shan xi chong	鸟羽之山喜充	0
+niao yu zhong che zhan	鸟羽中车站	0
+niao yu zhong zhan	鸟羽中站	0
+niao yuan jue shi	鸟园爵士	0
+niao yuan ti shu	脲原体属	0
+niao yue hao zhi zhan	鸟越号志站	0
+niao yue hui	鸟越恵	0
+niao yue hui	鸟越惠	0
+niao yue jun tai lang	鸟越俊太郎	0
+niao yun	鸟云	0
+niao zai bing	鸟仔饼	0
+niao zai lan shu	鸟仔兰属	0
+niao zang	鸟葬	0
+niao ze che zhan	鸟泽车站	0
+niao ze zhan	鸟泽站	0
+niao zhan	鸟占	0
+niao zhang	鸟樟	0
+niao zhang shu	鸟樟树	0
+niao zhang yi long	鸟掌翼龙	0
+niao zhen	尿震	0
+niao zhen jing hun	鸟阵惊魂	0
+niao zhi	鸟志	0
+niao zhi hai ting che qu	鸟之海停车区	0
+niao zhi lei	鸟跖类	0
+niao zhi liu	尿滞留	0
+niao zhi liu	尿置留	0
+niao zhi mu che zhan	鸟之木车站	0
+niao zhi mu zhan	鸟之木站	0
+niao zhi shi	鸟之诗	0
+niao zhi shi nan chuan shen	鸟之石楠船神	0
+niao zhi shu	尿殖属	0
+niao zhi xing	鸟之星	0
+niao zhi yuan ti shu	尿枝原体属	0
+niao zhi yuan ti shu	脲支原体属	0
+niao zhi yuan zhan	鸟致院站	0
+niao zhi ze lin shi cheng jiang chang	鸟之泽临时乘降场	0
+niao zhong de ji du	尿中的基督	0
+niao zhu liu	尿潴留	0
+niao zhu xing	尿铸型	0
+niao zhuan	鸟啭	0
+niao zhuang	鸟撞	0
+niao zhuang fei ji	鸟撞飞机	0
+niao zhuang ji dou	鸟状棘豆	0
+niao zu lan	鸟足兰	0
+niao zu lan shu	鸟足兰属	0
+niao zu long	鸟足龙	0
+niao zu long dan	鸟足龙胆	0
+niao zu long shu	鸟足龙属	0
+niao zu mao gen	鸟足毛茛	0
+niao zu wu lian mei	鸟足乌蔹莓	0
+niao zui	鸟嘴	0
+niao zui chong	鸟嘴铳	0
+niao zui ke	鸟嘴科	0
+niao zui lian	鸟嘴莲	0
+niao zui shan	鸟嘴山	0
+niao zui shu	鸟嘴属	0
+niao zui tan ren gong hu	鸟嘴潭人工湖	0
+niao zui yi long	鸟嘴翼龙	0
+niao zui yi sheng	鸟嘴医生	0

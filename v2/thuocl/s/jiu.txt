@@ -1,0 +1,490 @@
+jiu yuan	救援	315250
+jiu dian	酒店	201212
+jiu cai	韭菜	73374
+jiu hu che	救护车	48645
+jiu rou	酒肉	28866
+jiu niang	酒酿	22449
+jiu lang	酒廊	17409
+jiu jiang	九江	11071
+jiu er jiu zhi	久而久之	9768
+jiu jing yin liao	酒精饮料	8156
+jiu jian	九间	7969
+jiu zhou	九州	6481
+jiu shi	救市	5743
+jiu shi suan	酒石酸	5034
+jiu si fu shang	救死扶伤	4851
+jiu xu zhuang tai	就绪状态	4720
+jiu ban	旧版	4570
+jiu long po	九龙坡	4174
+jiu huang	韭黄	3930
+jiu chang	酒厂	3815
+jiu shi lun shi	就事论事	3036
+jiu zhi	久治	3027
+jiu jiang shi	九江市	2873
+jiu cai hua	韭菜花	2822
+jiu ceng ta	九层塔	2762
+jiu ji	九级	2365
+jiu fu sheng ming	久负盛名	2258
+jiu hua shan	九华山	2214
+jiu quan shi	酒泉市	2173
+jiu di qu cai	就地取材	2119
+jiu shi zhu	救世主	1626
+jiu you zi qu	咎由自取	1387
+jiu qian	九千	1360
+jiu huo shi chang	旧货市场	1349
+jiu jing zhong du	酒精中毒	1349
+jiu zu fan bao	酒足饭饱	1344
+jiu niu yi mao	九牛一毛	1317
+jiu wang tu cun	救亡图存	1263
+jiu zhou	九洲	1234
+jiu chan bu qing	纠缠不清	1096
+jiu hua	九华	1049
+jiu cai zi	韭菜子	1046
+jiu si yi sheng	九死一生	998
+jiu niu er hu zhi li	九牛二虎之力	985
+jiu bing fu fa	旧病复发	958
+jiu zhong	九中	902
+jiu xin qiao ke li	酒心巧克力	901
+jiu jiu cheng fa biao	九九乘法表	846
+jiu hua	韭花	835
+jiu bao	九堡	830
+jiu wo	酒窝	826
+jiu niang yuan zi	酒酿圆子	807
+jiu yang	九阳	791
+jiu xian qiao	酒仙桥	751
+jiu feng	九峰	749
+jiu cai he	韭菜盒	741
+jiu gong ge	九宫格	706
+jiu long hu	九龙湖	705
+jiu yan qiao	九眼桥	684
+jiu long cheng	九龙城	679
+jiu you	酒友	677
+jiu gong	旧宫	666
+jiu ye zhong xin	就业中心	660
+jiu shi chong ti	旧事重提	644
+jiu zhuan da chang	九转大肠	635
+jiu ru	九如	614
+jiu bie chong feng	久别重逢	609
+jiu li	九里	568
+jiu ren yi ming	救人一命	568
+jiu hu zhan	救护站	560
+jiu long shan	九龙山	534
+jiu tai shi	九台市	472
+jiu cuo ma	纠错码	429
+jiu long zhai	九龙斋	428
+jiu xi	九溪	410
+jiu zhan que chao	鸠占鹊巢	390
+jiu xiao yun wai	九霄云外	384
+jiu quan zhi xia	九泉之下	375
+jiu pian	揪片	373
+jiu xin wan	救心丸	338
+jiu tian lan yue	九天揽月	332
+jiu zai juan zeng guan li ban fa	救灾捐赠管理办法	324
+jiu du	九度	312
+jiu he	九和	309
+jiu qu qiao	九曲桥	303
+jiu cai bao	韭菜包	283
+jiu da nei zhi dui xiang	九大内置对象	269
+jiu cai he zi	韭菜合子	267
+jiu niang bing	酒酿饼	262
+jiu wu zhi zun	九五之尊	250
+jiu hua chong ti	旧话重提	246
+jiu ping zhuang xin jiu	旧瓶装新酒	244
+jiu ye zhi dao	就业指导	242
+jiu nan	就南	236
+jiu xian	旧县	234
+jiu ji dong che jiao yi shi chang	旧机动车交易市场	233
+jiu kong bao	九孔鲍	229
+jiu jiang lu	九江路	226
+jiu han er re	酒酣耳热	221
+jiu yuan hei ji	旧院黑鸡	214
+jiu di chong you	旧地重游	198
+jiu zhou gang	九洲港	197
+jiu long cun	九龙村	196
+jiu bing cheng yi	久病成医	192
+jiu li piao xiang	九里飘香	187
+jiu shi rang	久石让	185
+jiu hua shan zhuang	九华山庄	184
+jiu hua shan lu	九华山路	183
+jiu dou lu	九都路	179
+jiu zhang suan fa	九章算法	179
+jiu dou	九都	178
+jiu zhou tong	九州通	171
+jiu jing deng	酒精灯	165
+jiu jia wan	九家湾	163
+jiu jing fa zi	酒井法子	161
+jiu chang	酒肠	160
+jiu che jiao yi shi chang	旧车交易市场	158
+jiu cai yuan	韭菜园	154
+jiu keng mao jian	鸠坑毛尖	154
+jiu fa	灸法	153
+jiu ku jiu nan	救苦救难	150
+jiu cai chao rou	韭菜炒肉	148
+jiu di zheng fa	就地正法	143
+jiu ye you lu	就业有路	143
+jiu jiu gui yi	九九归一	140
+jiu wei	九尾	139
+jiu shi wang xie tang qian yan	旧时王谢堂前燕	138
+jiu ji bu jiu qiong	救急不救穷	132
+jiu dui	九队	126
+jiu feng sen lin dong wu yuan	九峰森林动物园	120
+jiu long cha	九龙茶	120
+jiu juan	九卷	118
+jiu jing xing zhi fang gan	酒精性脂肪肝	117
+jiu guan	旧关	116
+jiu li di gong jiao zhan	九里堤公交站	115
+jiu long	久隆	115
+jiu dao wan	九道湾	114
+jiu an	九安	109
+jiu jing xing gan ying hua	酒精性肝硬化	109
+jiu hua mao feng	九华毛峰	108
+jiu chi rou lin	酒池肉林	102
+jiu cai bao zi	韭菜包子	96
+jiu li di bei lu	九里堤北路	96
+jiu zhang suan shu	九章算术	95
+jiu long cang ji tuan	九龙仓集团	94
+jiu bi ying	救必应	93
+jiu long lu	九龙路	90
+jiu mao bian xin yan	旧貌变新颜	89
+jiu shi yi tuan	九十一团	88
+jiu cun	九村	87
+jiu feng	九丰	87
+jiu hou shi yan	酒后失言	85
+jiu xian shan	九仙山	83
+jiu jiang jian dui	九江煎堆	81
+jiu jing zhuang	久敬庄	80
+jiu zui he tian ji	酒醉河田鸡	80
+jiu ba shi ying sheng	酒吧侍应生	79
+jiu shi suan qing jia	酒石酸氢钾	79
+jiu li shan	九里山	78
+jiu li xiang	九里香	72
+jiu ling	九岭	69
+jiu long cheng qu	九龙城区	69
+jiu huang rou si	韭黄肉丝	67
+jiu jing xing gan yan	酒精性肝炎	67
+jiu li di nan lu	九里堤南路	67
+jiu yan	九眼	66
+jiu wei hu	九尾狐	64
+jiu long kou	九龙口	62
+jiu lian xin cun	九莲新村	60
+jiu che zhan	旧车站	59
+jiu dou	九斗	59
+jiu jing ca yu	酒精擦浴	59
+jiu li song	九里松	59
+jiu wan li feng peng zheng ju	九万里风鹏正举	59
+jiu shi lu	酒十路	58
+jiu mo luo shen	鸠摩罗什	57
+jiu xing da dao	九兴大道	56
+jiu min yu shui huo	救民于水火	55
+jiu long shan zhuang	九龙山庄	53
+jiu huo jiao yi shi chang	旧货交易市场	51
+jiu nang fan dai	酒囊饭袋	51
+jiu jiang	鸠江	49
+jiu tou shi zi cao	九头狮子草	49
+jiu zai fan long li	久在樊笼里	48
+jiu rou peng you	酒肉朋友	47
+jiu wan fang	九万方	46
+jiu yang gu fen you xian gong si	九阳股份有限公司	46
+jiu se cai qi	酒色财气	45
+jiu xian cheng	旧县城	44
+jiu diao chong tan	旧调重弹	41
+jiu shui lu jie dao	九水路街道	41
+jiu zhai gou feng jing ming sheng qu	九寨沟风景名胜区	41
+jiu hou wu de	酒后无德	40
+jiu cai yuan lu	韭菜园路	39
+jiu tian kai chu yi cheng dou	九天开出一成都	39
+jiu shui	旧水	38
+jiu shi suan qing dan jian	酒石酸氢胆碱	37
+jiu zhou cheng	九洲城	37
+jiu han feng gan yu	久旱逢甘雨	36
+jiu ru cun	九茹村	36
+jiu huang bing	九黄饼	35
+jiu jiang yi yuan	九江医院	35
+jiu jing yi ren	臼井仪人	35
+jiu long gang	九龙岗	35
+jiu ri shan	九日山	35
+jiu san fen ju	九三分局	35
+jiu wei chong	九尾冲	32
+jiu gong di qu	旧宫地区	31
+jiu lv deng hong	酒绿灯红	30
+jiu shui li guan	旧水利馆	30
+jiu si bu hui	九死不悔	30
+jiu zhai	旧寨	30
+jiu niang mian zi yuan	酒酿棉子圆	29
+jiu wen da ming	久闻大名	29
+jiu zui fan bao	酒醉饭饱	28
+jiu qu cun	九曲村	27
+jiu jian fang	九间房	26
+jiu xi mei gui yuan	九溪玫瑰园	26
+jiu du xiang	九渡乡	25
+jiu ping xin jiu	旧瓶新酒	23
+jiu zai xu huan	救灾恤患	23
+jiu ceng ta jian dan	九层塔煎蛋	22
+jiu hao yuan	九号院	22
+jiu jing feng shuang	久经风霜	22
+jiu jiang tou cao tao chong	九江头槽绦虫	21
+jiu long xia	九龙峡	21
+jiu qi yi yuan	九七医院	21
+jiu zha bi	酒渣鼻	21
+jiu dian bian	酒店边	20
+jiu jing lu	九经路	20
+jiu zong	九总	20
+jiu pian zi	揪片子	19
+jiu yuan lv	厩苑律	19
+jiu cai chao he xia	韭菜炒河虾	18
+jiu cheng jian yu guan li fen ju	九成监狱管理分局	18
+jiu fa	九发	18
+jiu hao ma tou	九号码头	18
+jiu mo da yu yu de	咎莫大于欲得	18
+jiu sheng	酒圣	18
+jiu xi cun	九溪村	18
+jiu jiang	九降	17
+jiu long you le yuan	九龙游乐园	17
+jiu wei lu	九纬路	17
+jiu long jia yuan	九龙家园	16
+jiu ru cun	九如村	16
+jiu zao tang yuan	酒糟汤圆	16
+jiu zhu pi dan	九珠皮蛋	16
+jiu cai chi yan xun wen	韭菜迟眼蕈蚊	15
+jiu feng gong yuan	九峰公园	15
+jiu cuo	旧厝	14
+jiu dao guai	九道拐	14
+jiu jie chang pu	九节菖蒲	14
+jiu ye zheng ce gong yue	就业政策公约	14
+jiu yun si	九运司	14
+jiu zhai cun	旧寨村	14
+jiu dian shi yong fa gui	酒店实用法规	13
+jiu hua	九画	13
+jiu jiang jun	九江郡	13
+jiu wang fen	九王坟	13
+jiu ye yu chuang ye zhi dao	就业与创业指导	13
+jiu jing zhong du xing nao bing	酒精中毒性脑病	12
+jiu li te cai	久立特材	12
+jiu wei gang	九圩港	12
+jiu yi jie	九一街	12
+jiu yi shan shang bai yun fei	九嶷山上白云飞	12
+jiu zhou da sha	九洲大厦	12
+jiu han xiong dan shang kai zhang	酒酣胸胆尚开张	11
+jiu sheng lu	久盛路	11
+jiu zhou sheng qi shi feng lei	九州生气恃风雷	11
+jiu cai zhuang xiang	韭菜庄乡	10
+jiu er quan	九耳犬	10
+jiu jiu jiu	九九久	10
+jiu qu huang he wan li sha	九曲黄河万里沙	10
+jiu si nan huang wu bu hen	九死南荒吾不恨	10
+jiu tai jie dao	九台街道	10
+jiu xian qiao shang chang	酒仙桥商场	10
+jiu xing bu zai tian	酒星不在天	10
+jiu ba yi yuan	九八医院	9
+jiu gui jiu	酒鬼酒	9
+jiu ji lu bian ji	九记路边鸡	9
+jiu long miao	九龙庙	9
+jiu long xin yu	九龙新寓	9
+jiu tai xian	九台县	9
+jiu tian chang he kai gong dian	九天阊阖开宫殿	9
+jiu xiang	旧乡	9
+jiu zhou hua yuan	九洲花园	9
+jiu cu zhi	酒醋汁	8
+jiu lian shan lu	九连山路	8
+jiu qu shui	九曲水	8
+jiu ru li	九如里	8
+jiu tiao ling	九条岭	8
+jiu dong	久东	7
+jiu er lu	九二路	7
+jiu fu ying	厩腐蝇	7
+jiu hua cun	九华村	7
+jiu li xiang di	九里香堤	7
+jiu long ya yuan	九龙雅苑	7
+jiu shi tang	九食堂	7
+jiu shu gong yu	九树公寓	7
+jiu you dao er zheng yan	就有道而正焉	7
+jiu zhong jin xiang	九中金乡	7
+jiu zhou cun	九洲村	7
+jiu gang	九岗	6
+jiu hao ba	九号坝	6
+jiu mu cun	九亩村	6
+jiu pao tai	旧炮台	6
+jiu you ling yun zhi	久有凌云志	6
+jiu zhou dao	九洲岛	6
+jiu bao dai ren	久保带人	5
+jiu cai xiang	九彩巷	5
+jiu dong kuang quan shui	九洞矿泉水	5
+jiu jie he jun su	旧结核菌素	5
+jiu shu bu yan bai hui du	旧书不厌百回读	5
+jiu tai zhuang yuan	九台庄园	5
+jiu wei qiang huo wan	九味羌活丸	5
+jiu wo cheng xing shu	酒窝成形术	5
+jiu xie	久泄	5
+jiu yue ting yuan	九月庭院	5
+jiu zhen zheng fu	旧镇政府	5
+jiu cai gen qu	韭菜根蛆	4
+jiu cai xian you	韭菜鲜鱿	4
+jiu cai xiang	九彩乡	4
+jiu dian guan li jing dian an li	酒店管理经典案例	4
+jiu dou xiang	九都乡	4
+jiu fu lu	久福路	4
+jiu gong er cun	旧宫二村	4
+jiu guang wu	旧广武	4
+jiu hua gao	九华膏	4
+jiu jiao jie dao	九郊街道	4
+jiu kou xiang	九口乡	4
+jiu li bu	九里步	4
+jiu ling	九令	4
+jiu quan xian	酒泉县	4
+jiu shi	酒石	4
+jiu shi suan ti jia	酒石酸锑钾	4
+jiu xing tuan yuan	九姓团圆	4
+jiu yao bu wang ping sheng zhi yan	久要不忘平生之言	4
+jiu yuan gong lu	九园公路	4
+jiu fen chang	九分场	3
+jiu gong dong kou	旧宫东口	3
+jiu jiu qi niao guo	啾啾栖鸟过	3
+jiu long jian	九龙涧	3
+jiu long yi hao	九龙一号	3
+jiu nan	久南	3
+jiu qiao lu	九樵路	3
+jiu qu wan nong chang	九曲湾农场	3
+jiu ri huang hua jiu	九日黄花酒	3
+jiu shi mao dian she lin bian	旧时茅店社林边	3
+jiu shi suan ji ta mei su	酒石酸吉他霉素	3
+jiu wei gan tai jiao nang	九味肝泰胶囊	3
+jiu wei qiang huo tang	九味羌活汤	3
+jiu wei shuang jie kou fu ye	九味双解口服液	3
+jiu xian qiao zhong xin xiao xue	酒仙桥中心小学	3
+jiu xian zhen she qu	旧县镇社区	3
+jiu xin jin wan	救心金丸	3
+jiu xing shi wang shi chou chang	酒醒时往事愁肠	3
+jiu zhi da huang wan	九制大黄丸	3
+jiu zhou dao lu wu chai hu	九州道路无豺虎	3
+jiu bao nong mao shi chang	九堡农贸市场	2
+jiu bao tian li shen	久保田利伸	2
+jiu bu dao liu ling fen shang tu	酒不到刘伶坟上土	2
+jiu cai guo	韭菜馃	2
+jiu cheng qu jie dao	旧城区街道	2
+jiu du fu shu xiang luo yang	九度附书向洛阳	2
+jiu feng cun	九丰村	2
+jiu gang ling	九岗岭	2
+jiu gong san cun	旧宫三村	2
+jiu gong yi cun	旧宫一村	2
+jiu guan cun	旧馆村	2
+jiu gui jia long	九鬼嘉隆	2
+jiu hao qiao	九号桥	2
+jiu hua zhang li meng hun jing	九华帐里梦魂惊	2
+jiu jia zhuang	九家庄	2
+jiu jing xing gan sun huai	酒精性肝损坏	2
+jiu lian cun	桕联村	2
+jiu lin cun	鸠林村	2
+jiu long nan lu	九龙南路	2
+jiu mu ren jia gui zang duo	旧墓人家归葬多	2
+jiu qi xiang wang da di tou	酒旗相望大堤头	2
+jiu qiang nao li qing	久强脑立清	2
+jiu ru qiong ji ban zui	酒入琼姬半醉	2
+jiu shan bei lu	九山北路	2
+jiu shi suan zuo bi tan pian	酒石酸唑吡坦片	2
+jiu wei	鸠尾	2
+jiu wei jian shen jiao nang	九味健肾胶囊	2
+jiu wei qiang huo ke li	九味羌活颗粒	2
+jiu weng kai xin cao	酒瓮开新槽	2
+jiu xiang jiao yan zhou zi	酒香椒盐肘子	2
+jiu xing da dao chuang ye lu kou	九兴大道创业路口	2
+jiu yi li	九仪里	2
+jiu yi yun wu zhi jin chou	九疑云物至今愁	2
+jiu yuan gou xiang	韭园沟乡	2
+jiu yue shang liu han	九月尚流汗	2
+jiu zhai xun chang xing chu you	酒债寻常行处有	2
+jiu zhong geng you chi er nv	就中更有痴儿女	2
+jiu zhou huan yu	九洲环宇	2
+jiu ca cun	九礤村	1
+jiu cai chao huang shan	韭菜炒黄鳝	1
+jiu cai chao lv dou ya	韭菜炒绿豆芽	1
+jiu cai chao wo sun si	韭菜炒莴笋丝	1
+jiu cai mo yu si	韭菜墨鱼丝	1
+jiu chong quan di long zhi wu	九重泉底龙知无	1
+jiu dian keng	酒店坑	1
+jiu gang chang qu	酒钢厂区	1
+jiu gong shan feng jing ming sheng qu	九宫山风景名胜区	1
+jiu gu	旧股	1
+jiu gu quan	九股泉	1
+jiu gu you chu jin	旧谷犹储今	1
+jiu han er re wang tou bai	酒酣耳热忘头白	1
+jiu han ye bie huai yin shi	酒酣夜别淮阴市	1
+jiu hen chun jiang liu wei duan	旧恨春江流未断	1
+jiu hou chang kuang zha zuo dian	酒后猖狂诈作颠	1
+jiu hou jing feng cai	酒后竞风采	1
+jiu hua zhi chuang shuan	九华痔疮栓	1
+jiu jia yan zi bang shui fei	旧家燕子傍谁飞	1
+jiu jian chang chou ke shao	酒贱常愁客少	1
+jiu jiang shi fu pin ban	九江市扶贫办	1
+jiu jing cai ming	酒井彩名	1
+jiu jing mei ji	酒井美纪	1
+jiu jing zhong ci	酒井忠次	1
+jiu jing zhong sheng	酒井忠胜	1
+jiu jing zhuang she qu	久敬庄社区	1
+jiu ke shi shu gong	酒客十数公	1
+jiu kuang guang chang jie dao	九矿广场街道	1
+jiu lai hao shi jin neng fou	旧来好事今能否	1
+jiu li song hua yuan	九里松花苑	1
+jiu ling shu da zi	九龄书大字	1
+jiu long xiang	九龙巷	1
+jiu mian gao liu ri fang rong	鸠眠高柳日方融	1
+jiu nan cun	就南村	1
+jiu niang ban jiu	酒酿斑鸠	1
+jiu nong chang	九农场	1
+jiu pu cun	旧埔村	1
+jiu qu chen li tou xian	九衢尘里偷闲	1
+jiu shi suan chang chun rui bin	酒石酸长春瑞滨	1
+jiu shi suan mei tuo luo er	酒石酸美托洛尔	1
+jiu shi suan mei tuo luo er pian	酒石酸美托洛尔片	1
+jiu shi suan tuo te luo ding	酒石酸托特罗定	1
+jiu shi tian qi jiu shi yi	旧时天气旧时衣	1
+jiu si yi shen lie	就死意甚烈	1
+jiu si yi sheng ru zuo	九死一生如昨	1
+jiu tu li li zuo zhou dao	酒徒历历坐洲岛	1
+jiu tun man zu xiang	旧屯满族乡	1
+jiu wei chen xiang jiao nang	九味沉香胶囊	1
+jiu wei shi hui hua san	九味石灰华散	1
+jiu wei xue	鸠尾穴	1
+jiu wen min shi ya tou lv	久闻岷石鸭头绿	1
+jiu wu qiao	酒务桥	1
+jiu xi shan zhuang	九溪山庄	1
+jiu xing que zi jie	酒醒却咨嗟	1
+jiu xing zhi zai hua qian zuo	酒醒只在花前坐	1
+jiu yi bin xi bing ying	九嶷缤兮并迎	1
+jiu yi shi qing shui yu gong	酒意诗情谁与共	1
+jiu yu chu qing tian qi xin	久雨初晴天气新	1
+jiu yue han zhen cui mu ye	九月寒砧催木叶	1
+jiu yue jin nian wei shou yi	九月今年未授衣	1
+jiu yue shi ri ji shi	九月十日即事	1
+jiu zhe bi er cheng yi xi	九折臂而成医兮	1
+jiu zhi luo ru shang	久致罗襦裳	1
+jiu zhong hua er chen ci	就重华而陈词	1
+jiu zhong zui ai ni chang wu	就中最爱霓裳舞	1
+jiu zhong zui hao shi jin zhao	就中最好是今朝	1
+jiu zhong zui yi wu jiang wei	就中最忆吴江隈	1
+jiu zhou shi can ma	九州始蚕麻	1
+jiu zui hai lai hua xia mian	酒醉还来花下眠	1
+jiu ban shi zhi piao chong	九斑食植瓢虫	0
+jiu bao sa hui die	久保洒灰蝶	0
+jiu cai tiao mang chun	韭菜跳盲蝽	0
+jiu da lu hao zhu	旧大陆豪猪	0
+jiu dai ju ya tian zhu diao	九带巨牙天竺鲷	0
+jiu dai wu xian ta	九带无线鳎	0
+jiu dai yi	九带鮨	0
+jiu dao san feng chi jiao	九道三峰齿鲛	0
+jiu hui yu	九绘鱼	0
+jiu ji zhang qi ying diao	九棘长鳍鹦鲷	0
+jiu jian bei	九间贝	0
+jiu jian diao	九间吊	0
+jiu jian shi li yu	九间始丽鱼	0
+jiu jian tiao lu	九间跳鲈	0
+jiu jiang hua xi xie	九江华溪蟹	0
+jiu jiao kong long	九角恐龙	0
+jiu jiao long yu	九角龙鱼	0
+jiu jiao shui mu	九角水母	0
+jiu jie mu zhang hui tian e	九节木长喙天蛾	0
+jiu kai bo luo	九开菠萝	0
+jiu kong bao luo	九孔鮑螺	0
+jiu kong wen chun yu	九孔纹唇鱼	0
+jiu lin bo yu	九鳞波鱼	0
+jiu ying ye jia	韭萤叶甲	0
+jiu zhi bu deng ci xian chong	久治不等刺线虫	0

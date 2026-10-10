@@ -1,0 +1,425 @@
+pu tao jiu	葡萄酒	298849
+pu er cha	普洱茶	143106
+pu jing	普京	49718
+pu dong	浦东	30983
+pu tao gan	葡萄干	28287
+pu tong yong hu	普通用户	14189
+pu tao you	葡萄柚	12184
+pu zhang lang fei	铺张浪费	8980
+pu tao zhi	葡萄汁	8909
+pu tian gai di	铺天盖地	8799
+pu shuo mi li	扑朔迷离	6434
+pu yi	溥仪	6392
+pu kou	浦口	6032
+pu dong ji chang	浦东机场	5624
+pu tao tang suan gai	葡萄糖酸钙	5330
+pu jiang	浦江	4665
+pu li mao si	普利茅斯	4655
+pu fa	浦发	3782
+pu xi	浦西	3483
+pu fa yin hang	浦发银行	3412
+pu tao yuan	葡萄园	3177
+pu bu liu	瀑布流	3154
+pu ping dao lu	铺平道路	3120
+pu tao tang	葡萄糖	3065
+pu tao tang suan xin	葡萄糖酸锌	2992
+pu su bei ye si	朴素贝叶斯	2946
+pu yang	濮阳	2839
+pu tao zi ti qu wu	葡萄籽提取物	2545
+pu er shi	普洱市	2478
+pu tian shi	莆田市	2212
+pu gong ying	蒲公英	2089
+pu zhang	普涨	2051
+pu jiang	蒲江	1936
+pu shi wu hua	朴实无华	1725
+pu cun xin	濮存昕	1432
+pu yang shi	濮阳市	1422
+pu zhao	普照	1369
+pu tao tang suan ya tie	葡萄糖酸亚铁	1230
+pu ning shi	普宁市	1129
+pu bu mo xing	瀑布模型	989
+pu tuo shan	普陀山	975
+pu tong gu	普通股	971
+pu cheng	蒲城	946
+pu shi dan ta	葡式蛋挞	902
+pu rui wei ya	普瑞维亚	771
+pu tian tong qing	普天同庆	714
+pu bian hui sheng	普遍回升	703
+pu bu liu bu ju	瀑布流布局	658
+pu tong xing shi an jian	普通刑事案件	656
+pu xi jin	普希金	639
+pu dong nan lu	浦东南路	593
+pu la di ni	普拉蒂尼	591
+pu hui zhi dai yu	普惠制待遇	532
+pu er cha jing	普洱茶经	500
+pu cheng	浦城	479
+pu shu	朴树	441
+pu die	普跌	428
+pu ju lei	谱聚类	427
+pu song ling	蒲松龄	403
+pu lan	普兰	396
+pu tao qiu jun	葡萄球菌	374
+pu dong da dao	浦东大道	352
+pu du	普渡	343
+pu tian zhi xia	普天之下	331
+pu huang yu	蒲黄榆	316
+pu re xi tong	扑热息痛	312
+pu tao zi	葡萄籽	308
+pu li mu suan fa	普里姆算法	303
+pu ju tang mei	葡聚糖酶	284
+pu tian	普天	263
+pu ka	普卡	245
+pu zhou	蒲州	234
+pu lan dian shi	普兰店市	228
+pu lang ke	普朗克	228
+pu dong xin	浦东新	225
+pu fen xi	谱分析	201
+pu tao jiu chang	葡萄酒厂	194
+pu ding	普定	192
+pu tong bian cheng	普通编程	181
+pu tao tang suan nei zhi	葡萄糖酸内酯	175
+pu ji	普济	174
+pu bei	浦北	173
+pu du zhong sheng	普度众生	173
+pu tao yu	葡萄鱼	162
+pu yin an sheng	浦银安盛	161
+pu dong tu shu guan	浦东图书馆	157
+pu gai mian	铺盖面	157
+pu ming	普明	151
+pu nan yi yuan	浦南医院	149
+pu yan	浦沿	148
+pu bian you hui zhi	普遍优惠制	147
+pu ge	普格	140
+pu yuan	浦沅	138
+pu yin	浦银	130
+pu bian guan xia quan	普遍管辖权	124
+pu xie shi	蒲鞋市	123
+pu ma zhen	蒲麻镇	121
+pu tao mei jiu ye guang bei	葡萄美酒夜光杯	117
+pu dong ji	浦东鸡	116
+pu jian lu	浦建路	108
+pu la di xiang	普拉底乡	107
+pu zhao si	普照寺	107
+pu tao tang zhu she ye	葡萄糖注射液	104
+pu tao mo yan	葡萄膜炎	100
+pu san lu	浦三路	99
+pu qia ke qi xiang	普恰克其乡	92
+pu dong	普东	91
+pu zhen	铺镇	89
+pu an lu	普安路	84
+pu dian lu	浦电路	79
+pu bei lu	浦北路	78
+pu ji	普迹	71
+pu su wu hua	朴素无华	68
+pu xin	埔心	68
+pu lan er lu	普澜二路	65
+pu na de	普纳德	61
+pu jia xin cun	濮家新村	60
+pu lu mo	普卢默	59
+pu tong kuang	普通鵟	56
+pu zhen xi	朴真熙	55
+pu tao cun	葡萄村	53
+pu ci mao si tiao yue	朴茨茅斯条约	52
+pu shan lu	普善路	52
+pu tao peng	葡萄棚	51
+pu tao tang suan meng	葡萄糖酸锰	50
+pu qi	蒲圻	48
+pu na ka tiao yue	普那卡条约	47
+pu tao tai	葡萄胎	47
+pu fa yun dong	普法运动	45
+pu ji	铺集	44
+pu jiang mi hua tang	蒲江米花糖	44
+pu tuo si	普陀寺	42
+pu ning xian	普宁县	41
+pu tao pi hong	葡萄皮红	41
+pu tuo shan fu cha	普陀山佛茶	40
+pu yong xun	朴永训	39
+pu huang	蒲黄	38
+pu tao tang suan jia	葡萄糖酸钾	38
+pu bian	埔边	36
+pu ji shao ji	普集烧鸡	36
+pu heng lv shi shi wu suo	普衡律师事务所	34
+pu cheng lu	浦城路	33
+pu dong yun he	浦东运河	33
+pu li te	普利特	33
+pu min	普民	33
+pu tao tang suan mei	葡萄糖酸镁	31
+pu de cun	普德村	30
+pu ding	铺顶	29
+pu pu feng chen	仆仆风尘	29
+pu hui tang lu	蒲汇塘路	28
+pu tao qiu jun gan ran	葡萄球菌感染	28
+pu tian	埔田	28
+pu tong yu yan xue	普通语言学	28
+pu ping	普坪	27
+pu tai	普泰	27
+pu ning dou gan	普宁豆干	26
+pu dong jin qiao	浦东金桥	25
+pu huang yu di er she qu	蒲黄榆第二社区	24
+pu jin	铺锦	24
+pu lu shi pu tong bang fa	普鲁士普通邦法	24
+pu an cun	普安村	23
+pu nai luo er	普萘洛尔	23
+pu kou xiang	铺口乡	22
+pu le dao	普乐道	22
+pu he	浦河	21
+pu tao fang	葡萄仿	21
+pu san	朴三	20
+pu tao jiu fen ji zhi du	葡萄酒分级制度	20
+pu tao tang suan tong	葡萄糖酸铜	20
+pu an suan	脯氨酸	19
+pu jin cun	铺锦村	19
+pu ming zhen	普明镇	19
+pu tao mo	葡萄膜	19
+pu tao tang quan suan	葡萄糖醛酸	19
+pu yuan	璞园	19
+pu jun xu	普君墟	18
+pu si ka shen	普斯卡什	18
+pu yan lu bin wen lu kou	浦沿路滨文路口	18
+pu zhi guo	朴枳果	18
+pu lu ka yin	普鲁卡因	17
+pu tao qiu jun chang du su	葡萄球菌肠毒素	17
+pu tao tang suan na	葡萄糖酸钠	17
+pu ban	蒲坂	16
+pu er xian	普洱县	16
+pu jia dong cun	濮家东村	16
+pu xiong lu	普雄路	16
+pu bian you hui zhi yuan ze	普遍优惠制原则	15
+pu fa ta ting	普伐他汀	15
+pu lu ta ke	普鲁塔克	15
+pu luo pa tong	普罗帕酮	15
+pu xin cun	埔心村	15
+pu da	葡达	14
+pu dong	蒲东	14
+pu ji te hui shui zhi du	普及特惠税制度	14
+pu lu lan mei	普鲁兰酶	14
+pu dong ba shi	浦东巴士	13
+pu tao zui	葡萄嘴	13
+pu tuo yi yuan	普陀医院	13
+pu di lan xiao yan kou fu ye	蒲地蓝消炎口服液	12
+pu di lan xiao yan pian	蒲地蓝消炎片	12
+pu er min pian	扑尔敏片	12
+pu jiang yuan	浦江苑	12
+pu qing	普庆	12
+pu shang cun	铺尚村	12
+pu cheng chuan tou zheng mo	蒲城椽头蒸馍	11
+pu fu jing	匍匐茎	11
+pu hui nan li	普惠南里	11
+pu nan lu	埔南路	11
+pu yan zhen	浦沿镇	11
+pu bian guo ji fa	普遍国际法	10
+pu bian zhong	普遍种	10
+pu ding	埔顶	10
+pu le ke fu	普乐可复	10
+pu quan suan na zhu she ye	葡醛酸钠注射液	10
+pu shang cun	铺上村	10
+pu ji he dao	普济河道	9
+pu tao hua	葡萄花	9
+pu xi	蒲西	9
+pu yan cha kou	浦沿叉口	9
+pu luo pu zhen	溥洛铺镇	8
+pu qian cun	铺前村	8
+pu shi xiang	普诗乡	8
+pu tu	普秃	8
+pu bao zhen	普保镇	7
+pu dong jie	浦东街	7
+pu er wei ma pian	扑尔伪麻片	7
+pu hai ri	朴海日	7
+pu ning mian xian	普宁面线	7
+pu tao tang lv hua na	葡萄糖氯化钠	7
+pu tong wai ke xue	普通外科学	7
+pu weng xiang	普翁乡	7
+pu xi xiang	蒲西乡	7
+pu ze zhi shu	浦泽直树	7
+pu zhao she qu	普照社区	7
+pu zhi yuan	朴趾源	7
+pu zi	蒲子	7
+pu dong hua yuan	浦东花园	6
+pu ji po chan zhu yi	普及破产主义	6
+pu jun kui	朴俊奎	6
+pu lu ka yin an	普鲁卡因胺	6
+pu ma	普马	6
+pu sheng zhi yao	普生制药	6
+pu tao tang gan	葡萄糖苷	6
+pu tao tang suan gai pian	葡萄糖酸钙片	6
+pu yan zhong xue	浦沿中学	6
+pu dong xing zheng zhong xin	浦东行政中心	5
+pu gong ying jie	蒲公英节	5
+pu lan zhen	普兰镇	5
+pu le an pian	普乐安片	5
+pu li mao si qi che gong si	普利茅斯汽车公司	5
+pu ming she qu	普明社区	5
+pu qi xian	蒲圻县	5
+pu shan	朴山	5
+pu shang lu	濮上路	5
+pu shi tai pian	普适泰片	5
+pu tian shou yi	普天收益	5
+pu tuo xian	普陀县	5
+pu wei	埔尾	5
+pu xiong zhen	普雄镇	5
+pu yin an sheng ji jin	浦银安盛基金	5
+pu zhi guo	朴枳粿	5
+pu an xin cun	普安新村	4
+pu bei sheng	普贝生	4
+pu bian xing guan xia quan	普遍性管辖权	4
+pu fu bei yu ma huai xi	仆夫悲余马怀兮	4
+pu ji he dao li jiao qiao	普济河道立交桥	4
+pu jiang xie geng	浦江蟹羹	4
+pu long xiang	普隆乡	4
+pu lu ka yin qing mei su	普鲁卡因青霉素	4
+pu luo gu fen	普洛股份	4
+pu luo kang yu	普洛康裕	4
+pu mei	埔美	4
+pu qi shi	蒲圻市	4
+pu quan nei zhi	葡醛内酯	4
+pu sha rong	普沙绒	4
+pu tao tang suan xin kou fu ye	葡萄糖酸锌口服液	4
+pu tong shi	普通鳾	4
+pu wei cun	埔尾村	4
+pu wo xiang	蒲窝乡	4
+pu xiang lu	普祥路	4
+pu yang xing	濮阳兴	4
+pu yi	朴一	4
+pu zhang xiang	蒲掌乡	4
+pu zhi	蹼趾	4
+pu bian you hui zhi shui	普遍优惠制税	3
+pu dong she qu	葡东社区	3
+pu fa ta ting na	普伐他汀钠	3
+pu gou	蒲沟	3
+pu huang shi jia	葡皇世家	3
+pu huang yu di san she qu	蒲黄榆第三社区	3
+pu hui nan li she qu	普惠南里社区	3
+pu hui si she qu	普惠寺社区	3
+pu jia wan	蒲家湾	3
+pu le an jiao nang	普乐安胶囊	3
+pu li	葡立	3
+pu li ge jin	普里戈金	3
+pu shan lu hu tai lu	普善路沪太路	3
+pu si fu te	普斯福特	3
+pu tai xiang	蒲台乡	3
+pu tao bo luo xing zhi	葡萄菠萝杏汁	3
+pu tao tang suan gai zhu she ye	葡萄糖酸钙注射液	3
+pu tao tang suan xin ke li	葡萄糖酸锌颗粒	3
+pu tao xue ji	葡萄雪鸡	3
+pu tou cun	埔头村	3
+pu xia cun	铺下村	3
+pu zhong	蒲中	3
+pu zhou hua yuan	浦洲花园	3
+pu ba rong xiang	普巴绒乡	2
+pu chang zhen	普昌镇	2
+pu dang xiang	普当乡	2
+pu di lan xiao yan jiao nang	蒲地蓝消炎胶囊	2
+pu di xiang	菩堤乡	2
+pu dong xiao qu	葡东小区	2
+pu er cun	朴二村	2
+pu fa ta ting na pian	普伐他汀钠片	2
+pu fu cun	普福村	2
+pu he	普荷	2
+pu hua	扑花	2
+pu le an	普乐安	2
+pu ling xiang	普岭乡	2
+pu mi fan chang	普米饭肠	2
+pu mi ke dou bao	普米克都保	2
+pu mi tong	扑米酮	2
+pu nan xin cun	浦南新村	2
+pu pai lu	蒲排路	2
+pu quan nei zhi pian	葡醛内酯片	2
+pu sa mu chang	普萨牧场	2
+pu shang	埔上	2
+pu shi hui fan	葡式烩饭	2
+pu tai qun dao	蒲台群岛	2
+pu tao tang suan lv yi ding	葡萄糖酸氯已定	2
+pu tao zhuang rou liu	葡萄状肉瘤	2
+pu tian lv rong rong	铺田绿茸茸	2
+pu tian wu li heng suo qian	普天无吏横索钱	2
+pu tian zhai quan	普天债券	2
+pu tong xing pian tou tong	普通型偏头痛	2
+pu tou	埔头	2
+pu wei ren ru si	蒲苇纫如丝	2
+pu xian tong	扑痫酮	2
+pu xing lu	浦兴路	2
+pu yong yu	朴勇宇	2
+pu zai	埔仔	2
+pu ban cun	蒲坂村	1
+pu bei yi zu xiang	浦贝彝族乡	1
+pu can	仆参	1
+pu ceng mo mo	铺层馍馍	1
+pu chuang fu xi zhi geng fan	铺床拂席置羹饭	1
+pu da bang	浦大邦	1
+pu da lu	浦达路	1
+pu dang cun	埔当村	1
+pu de er zhi shi quan	普德尔指示犬	1
+pu dian lu pu dong nan lu	浦电路浦东南路	1
+pu dong jian she	浦东建设	1
+pu er fan shu wa	普洱泛树蛙	1
+pu er ta	普尔塔	1
+pu fang lu xi kou	蒲方路西口	1
+pu gong ying jiao nang	蒲公英胶囊	1
+pu gong ying ke li	蒲公英颗粒	1
+pu ji he dong dao	普济河东道	1
+pu jian lian quan	蒲间濂泉	1
+pu jian lian quan	蒲涧帘泉	1
+pu jiang zhu you mi hua tang	蒲江猪油米花糖	1
+pu jin cun	埔锦村	1
+pu la luo fen	普拉洛芬	1
+pu lei ge er	普雷格尔	1
+pu lou di wan zhao	浦楼低晚照	1
+pu luo bu kao pian	普罗布考片	1
+pu ma xiang	普马乡	1
+pu nuo di qin	普诺地嗪	1
+pu qi long	浦起龙	1
+pu qian dong lu	浦前东路	1
+pu qing qiao	普庆桥	1
+pu shan	铺山	1
+pu shang xiang	蒲上乡	1
+pu shang xiang	铺上乡	1
+pu tao er huang ban ye chan	葡萄二黄斑叶蝉	1
+pu tao gan chao fan	葡萄干炒饭	1
+pu tao jiu se zhi	葡萄酒色痣	1
+pu tao mian pai	葡萄面排	1
+pu tao mo da nao yan	葡萄膜大脑炎	1
+pu tao tang suan xin bi pen ji	葡萄糖酸锌鼻喷剂	1
+pu tao tang suan xin ju jue pian	葡萄糖酸锌咀嚼片	1
+pu tao tang suan xin pian	葡萄糖酸锌片	1
+pu tao tang suan ya tie pian	葡萄糖酸亚铁片	1
+pu tao you sha la	葡萄柚沙拉	1
+pu tian zhai	普天债	1
+pu tong lou yan	普通楼燕	1
+pu tong you hui zhi	普通优惠制	1
+pu wei yi shi ren	蒲苇一时纫	1
+pu yang	蒲洋	1
+pu yin hong li	浦银红利	1
+pu yuan	浦远	1
+pu ze	浦泽	1
+pu zhou qing shi	蒲州清柿	1
+pu ai bu lan nai wang she	普埃布兰奶王蛇	0
+pu bian se ye e	朴变色夜蛾	0
+pu chi e	菩尺蛾	0
+pu dao jin zhi que	普岛金织雀	0
+pu du lu	普度鹿	0
+pu er jia tuo li hou	普尔加托里猴	0
+pu er qiao jia	普尔锹甲	0
+pu er shu wa	普洱树蛙	0
+pu hu xian mao lv	普湖县毛驴	0
+pu ji la ma ke bao luo	普吉拉马克宝螺	0
+pu ji nei juan chi can	普吉内卷齿蚕	0
+pu ji te hai wan chou you	普吉特海湾臭鼬	0
+pu jing hu	普京虎	0
+pu kua zhou e	普胯舟蛾	0
+pu la si lin ji lin yu	普拉斯林棘鳞鱼	0
+pu li hua xi qiu	埔里华吸鳅	0
+pu lu ma quan geng quan	普露马犭更犬	0
+pu shi di zhong hai xia hu yu	普氏地中海鰕虎鱼	0
+pu shi zhan mang man	蒲氏粘盲鳗	0
+pu shi zhan mang man yu	蒲氏粘盲鳗鱼	0
+pu shu	纀属	0
+pu shu pu dun mu shi	朴树朴盾木虱	0
+pu tao ya bo deng ge quan	葡萄牙波登哥犬	0
+pu ti zhe nong die	菩提赭弄蝶	0
+pu tong gu yuan	普通古蚖	0
+pu tong jiao wei ye jia	普通角伪叶甲	0
+pu tong xiao huang fen die	普通小黄粉蝶	0
+pu tong zhang jiao hu feng	普通长脚胡蜂	0
+pu tong zhi mai ye feng	普通直脉叶蜂	0
+pu yuan shi qiang wen xue	蒲原氏腔吻鱈	0
+pu zhang ti jian feng	朴长体茧蜂	0

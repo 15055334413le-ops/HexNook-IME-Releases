@@ -1,0 +1,2935 @@
+shui ping	水平	501164
+shui guo	水果	436700
+shui shou	税收	427640
+shui jing	水晶	422275
+shui ni	水泥	383385
+shui wu ji guan	税务机关	285425
+shui fen	水分	270435
+shui jiao	睡觉	256865
+shui zi yuan	水资源	246630
+shui de	水的	241040
+shui ku	水库	214170
+shui mian	睡眠	210445
+shui wu	税务	206210
+shui zhi	水质	198550
+shui zhong	水中	192630
+shui kuan	税款	192175
+shui lv	税率	183245
+shui yuan	水源	172565
+shui zhun	水准	171520
+shui dian	水电	153635
+shui neng	谁能	138840
+shui ye	谁也	135070
+shui de	谁的	122960
+shui chan	水产	120370
+shui dao	水稻	119795
+shui shang	水上	119020
+shui fei	税费	112290
+shui fa	税法	111340
+shui shi	谁是	105460
+shui chan pin	水产品	101080
+shui yu	水域	100440
+shui wu ju	税务局	90260
+shui liu	水流	85985
+shui liang	水量	83725
+shui wen	水温	81995
+shui li gong cheng	水利工程	79645
+shui lai	谁来	78280
+shui mu	水母	78147
+shui beng	水泵	78055
+shui wen	水文	77985
+shui jin	税金	76280
+shui wei	水位	75180
+shui tu bao chi	水土保持	73365
+shui zhong	水肿	73140
+shui le	睡了	71145
+shui e	税额	70755
+shui wu deng ji	税务登记	69970
+shui guan	水管	69650
+shui ti	水体	65290
+shui shuo	谁说	65215
+shui zhao le	睡着了	63465
+shui chu li	水处理	62765
+shui yin	水印	62530
+shui li	水里	62035
+shui dai	睡袋	60825
+shui xiang	水箱	60120
+shui huo	水货	56195
+shui tu liu shi	水土流失	55835
+shui bu	谁不	55690
+shui li bu	水利部	55460
+shui xia	水下	55100
+shui zhao	睡着	54610
+shui zhe	睡着	54610
+shui li shui dian	水利水电	54340
+shui zai	睡在	54055
+shui shou zheng ce	税收政策	53410
+shui xing	睡醒	53280
+shui yi	睡衣	52140
+shui ping zuo	水瓶座	51175
+shui jiu	谁就	50655
+shui chi	水池	49960
+shui wu ran	水污染	49955
+shui qian	睡前	49860
+shui yun	水运	48635
+shui zai	谁在	48555
+shui shou	水手	48055
+shui lu	水路	46525
+shui yuan	税源	46140
+shui mo	水墨	45300
+shui jiao de	睡觉的	44350
+shui you	谁有	43915
+shui wu bu men	税务部门	43170
+shui cao	水草	43030
+shui dian zhan	水电站	42895
+shui xian	水仙	41935
+shui xi	水洗	41830
+shui zhong	税种	41290
+shui xiang	水乡	39435
+shui chang	水厂	38880
+shui long tou	水龙头	38580
+shui ne	谁呢	38505
+shui fu	税负	38445
+shui shen	水深	37955
+shui zu	水族	37615
+shui de	睡得	37420
+shui wu deng ji zheng	税务登记证	37030
+shui wu	水务	35970
+shui bu zhao	睡不着	35690
+shui di	水滴	34820
+shui hu	水壶	34505
+shui gan	谁敢	34285
+shui shou you hui zheng ce	税收优惠政策	34090
+shui ping	水瓶	33980
+shui jie	水解	33690
+shui qu	睡去	33000
+shui shou zheng guan	税收征管	32930
+shui rong xing	水溶性	32875
+shui kong	税控	32675
+shui dao	水道	32620
+shui jun	水军	32515
+shui li ju	水利局	32345
+shui ni chang	水泥厂	32220
+shui jia	水价	31645
+shui jia	谁家	30880
+shui chan yang zhi	水产养殖	29700
+shui pao	水泡	29700
+shui you	谁又	29360
+shui tong	水桶	28995
+shui shou you hui	税收优惠	28495
+shui yue	水月	28175
+shui fei	水费	28150
+shui dao	睡到	27910
+shui jing	水井	27720
+shui di	水底	27345
+shui yao	谁要	27315
+shui hou	税后	27310
+shui de	睡的	27300
+shui hai	谁还	27055
+shui li	水利	26515
+shui rang	谁让	26225
+shui zhu	水珠	26135
+shui huo	水火	26130
+shui leng	水冷	26065
+shui mi tao	水蜜桃	25919
+shui cao	水槽	25780
+shui jiao le	睡觉了	25405
+shui biao	水表	25180
+shui tu	水土	25155
+shui mu	税目	25065
+shui li jian she	水利建设	24885
+shui jiao shi	睡觉时	24605
+shui qian	税前	24205
+shui jiao	谁叫	24125
+shui qian kou chu	税前扣除	24095
+shui ping kao shi	水平考试	24040
+shui qu	水区	23945
+shui wu zong ju	税务总局	23895
+shui wu dai li	税务代理	23885
+shui jing	水景	23825
+shui li	水力	22725
+shui mian shang	水面上	22700
+shui nuan	水暖	22620
+shui li ting	水利厅	22055
+shui yin	水银	21625
+shui jiao	水饺	21300
+shui shou guan li	税收管理	21135
+shui qi	水汽	21120
+shui shou shou ru	税收收入	21075
+shui lai	水来	21020
+shui bian	水边	20955
+shui zhu yu	水煮鱼	20850
+shui ba	睡吧	20830
+shui ya	水压	20660
+shui xian	谁先	20600
+shui zai	水灾	20595
+shui dao qu cheng	水到渠成	20250
+shui yi	睡意	20150
+shui rong ye	水溶液	20045
+shui mu	水木	19805
+shui shou chou hua	税收筹划	19765
+shui zhang chuan gao	水涨船高	19435
+shui qing	水清	19365
+shui ya	谁呀	19010
+shui jiao qian	睡觉前	18960
+shui neng	水能	18730
+shui tang	水塘	18455
+shui hu zhuan	水浒传	18390
+shui liao	水疗	18285
+shui ze	税则	18040
+shui cai	水彩	17935
+shui bei	水杯	17885
+shui ling	水灵	17695
+shui wang	水王	17555
+shui xiang	谁想	17225
+shui dian fei	水电费	17200
+shui du	水都	16920
+shui hua	水花	16920
+shui bo	水波	16780
+shui tou	水头	16750
+shui wu ju	水务局	16725
+shui mian shi jian	睡眠时间	16585
+shui hou li run	税后利润	16400
+shui lu yun shu	水路运输	16365
+shui mian bu zu	睡眠不足	15895
+shui niu	水牛	15745
+shui fa	水发	15625
+shui qu	谁去	15330
+shui lu	水陆	15315
+shui kong shou kuan ji	税控收款机	15225
+shui ni lu	水泥路	15220
+shui wu xing zheng	税务行政	14775
+shui wu	水雾	14645
+shui ping bu gao	水平不高	14550
+shui shi	水师	14465
+shui shou zheng guan fa	税收征管法	14440
+shui gou	水沟	14285
+shui er	水儿	14185
+shui dui	谁对	14100
+shui bu zhao jiao	睡不着觉	14085
+shui shou fa lv	税收法律	14025
+shui qing	水情	13935
+shui fa	水法	13780
+shui zu xiang	水族箱	13760
+shui jing qiu	水晶球	13665
+shui fei gai ge	税费改革	13660
+shui tu bu fu	水土不服	13585
+shui se	水色	13580
+shui long	水龙	13550
+shui zuan	水钻	13525
+shui xie bu tong	水泄不通	13495
+shui ba	水坝	13350
+shui ba	水吧	13195
+shui ta	水塔	13120
+shui ji	水迹	13100
+shui mo hua	水墨画	12940
+shui jiang	谁将	12905
+shui qu	水渠	12785
+shui nen	水嫩	12770
+shui xiang	税项	12730
+shui le	水了	12720
+shui wu ren yuan	税务人员	12560
+shui zheng qi	水蒸气	12430
+shui shou zheng shou guan li fa	税收征收管理法	12370
+shui che	水车	12305
+shui ni sha jiang	水泥砂浆	12295
+shui luo shi chu	水落石出	12265
+shui bing	水兵	12130
+shui wu shi shi wu suo	税务师事务所	11970
+shui ni sheng chan	水泥生产	11960
+shui meng zhong	睡梦中	11950
+shui fen	水粉	11905
+shui shou zhi du	税收制度	11880
+shui jin	水浸	11840
+shui zhi gai ge	税制改革	11800
+shui gou	水垢	11795
+shui li she shi	水利设施	11685
+shui ping xian	水平线	11680
+shui wan	水湾	11580
+shui qiang	水枪	11560
+shui wu ji cha	税务稽查	11515
+shui yi jiao	睡一觉	11450
+shui xia	睡下	11430
+shui wen di zhi	水文地质	11385
+shui ge	睡个	11180
+shui yang suan	水杨酸	11145
+shui zi	水渍	11090
+shui fen zi	水分子	11050
+shui qin	水芹	11050
+shui li gong zuo	水利工作	11025
+shui liao	谁料	10965
+shui yu	水浴	10960
+shui zhi	谁知	10845
+shui niao	水鸟	10725
+shui dian kai fa	水电开发	10550
+shui shou zheng shou	税收征收	10545
+shui wang	水网	10505
+shui shen	水神	10455
+shui mian zhi liang	睡眠质量	10320
+shui tan	水潭	10315
+shui ji	水剂	10275
+shui lian dong	水帘洞	10170
+shui li shu niu	水利枢纽	10105
+shui zha	水闸	10085
+shui qin	水禽	10050
+shui zu guan	水族馆	10005
+shui dong	水洞	10000
+shui bie zi	水鳖子	9999
+shui ceng	谁曾	9999
+shui gen	谁跟	9999
+shui gu gu	水鸪鸪	9999
+shui jian	税检	9999
+shui lu tan ke	水陆坦克	9999
+shui mi wu jiao	水米无交	9999
+shui niu er	水牛儿	9999
+shui run	水润	9999
+shui shang ju min	水上居民	9999
+shui shao	水烧	9999
+shui shao de zen me yang le	水烧得怎么样了	9999
+shui shao hao	水烧好	9999
+shui shua shi	水刷石	9999
+shui yan dou	水烟斗	9999
+shui yong	谁用	9999
+shui zuo	谁做	9999
+shui meng	睡梦	9860
+shui yan	水淹	9835
+shui yu	谁与	9765
+shui guo	睡过	9755
+shui shui	谁谁	9755
+shui rong	水溶	9745
+shui dou	水痘	9700
+shui cai hua	水彩画	9640
+shui shang yun dong	水上运动	9595
+shui zhi biao zhun	水质标准	9545
+shui dai	水袋	9530
+shui wen zhan	水文站	9500
+shui he wu	水合物	9390
+shui li bu men	水利部门	9305
+shui lan jiao	睡懒觉	9270
+shui dian gong cheng	水电工程	9245
+shui lian	睡莲	9130
+shui wu chou hua	税务筹划	9120
+shui ping you xian	水平有限	9100
+shui jing gong	水晶宫	9070
+shui shan	水杉	9070
+shui zi	睡姿	9000
+shui li fa dian	水力发电	8985
+shui lei	水雷	8965
+shui qin cai	水芹菜	8850
+shui wu xi tong	税务系统	8850
+shui ku yi min	水库移民	8835
+shui shang	睡上	8820
+shui wu jian cha	税务检查	8780
+shui fu	税赋	8720
+shui hao	睡好	8705
+shui bu hao	睡不好	8690
+shui yun	水云	8625
+shui zi yuan bao hu	水资源保护	8580
+shui piao	税票	8420
+shui sheng sheng wu	水生生物	8395
+shui shi	水势	8095
+shui wu ran fang zhi fa	水污染防治法	8065
+shui gang	水缸	8045
+shui mei ren	睡美人	8000
+shui neng zi yuan	水能资源	7975
+shui jing shi	水晶石	7855
+shui shou jian mian	税收减免	7850
+shui jing shi pin	水晶饰品	7805
+shui kan	谁看	7800
+shui chan ye	水产业	7785
+shui qian li run	税前利润	7765
+shui chuang	睡床	7755
+shui guo dao	水果刀	7755
+shui ru jiao rong	水乳交融	7745
+shui zhu	水煮	7725
+shui xian hua	水仙花	7720
+shui wu gan bu	税务干部	7715
+shui mian zhong	睡眠中	7705
+shui yao	水妖	7705
+shui huo shou ji	水货手机	7645
+shui wu guan li	税务管理	7640
+shui lu jiao tong	水陆交通	7565
+shui zhi	水蛭	7562
+shui sheng dong wu	水生动物	7560
+shui guai	水怪	7515
+shui li dian li	水利电力	7510
+shui xun huan	水循环	7455
+shui mo	水磨	7415
+shui shang le yuan	水上乐园	7400
+shui guan	水罐	7245
+shui xiu	水秀	7220
+shui sheng zhi wu	水生植物	7215
+shui keng	水坑	7145
+shui zhi jian ce	水质监测	7130
+shui cuo	谁错	7040
+shui hai	水害	7000
+shui li	税利	6985
+shui ping mian	水平面	6925
+shui mian zhuang tai	睡眠状态	6920
+shui mei jiang	水煤浆	6815
+shui shen huo re	水深火热	6815
+shui xing tu liao	水性涂料	6810
+shui yuan bao hu	水源保护	6810
+shui zao	水蚤	6789
+shui bu ying	水卜樱	6666
+shui chuan jin	水川堇	6666
+shui dao jin shi	水岛津实	6666
+shui gu xin yin	水谷心音	6666
+shui hu xiang nai	水户香奈	6666
+shui jiao	谁教	6666
+shui wu lai you xia	水无濑优夏	6666
+shui xi mei li	水稀美里	6666
+shui ye chao yang	水野朝阳	6666
+shui yuan mei yuan	水原美园	6666
+shui ze nai nai	水泽乃乃	6666
+shui huan	水患	6660
+shui jing gong yi pin	水晶工艺品	6585
+shui fang	睡房	6555
+shui qiu	水球	6535
+shui yan	睡眼	6520
+shui lian	水帘	6515
+shui fa	水阀	6420
+shui mian zhang ai	睡眠障碍	6415
+shui wang wang de	水汪汪的	6370
+shui yu	水鱼	6325
+shui wen ju	水文局	6315
+shui shi jie	水世界	6280
+shui da jiao	睡大觉	6230
+shui tie	水帖	6230
+shui hua	水化	6220
+shui ni zhi pin	水泥制品	6220
+shui jing fang	水井坊	6185
+shui jing ban	水晶般	6150
+shui diao ge tou	水调歌头	6140
+shui mu qing hua	水木清华	6115
+shui qu liu	水曲柳	6070
+shui xian	水线	6070
+shui pen	水盆	6065
+shui dian fen	水淀粉	6055
+shui lun	水轮	6040
+shui dian an zhuang	水电安装	6025
+shui jing bo li	水晶玻璃	6000
+shui lun ji	水轮机	5925
+shui jiao	水窖	5895
+shui li zi yuan	水力资源	5890
+shui fei	水肥	5835
+shui guo sha la	水果沙拉	5830
+shui he	水合	5820
+shui jiao ba	睡觉吧	5820
+shui jing zhu	水经注	5815
+shui li shi ye	水利事业	5765
+shui ceng	水层	5725
+shui chan ju	水产局	5700
+shui chu	谁出	5700
+shui xing	水性	5689
+shui han	水旱	5620
+shui xi de	水系的	5600
+shui guang	水光	5575
+shui a	睡啊	5555
+shui cheng	水程	5555
+shui gei	谁给	5555
+shui hui	睡会	5555
+shui ren	水人	5555
+shui tun	水豚	5555
+shui gai	税改	5540
+shui jing deng	水晶灯	5505
+shui pao	睡袍	5495
+shui mu	水幕	5385
+shui dian qi	水电气	5380
+shui jing ling	水精灵	5380
+shui ke	说客	5375
+shui zhi	税制	5341
+shui shou fa gui	税收法规	5315
+shui ping ping gu	水平评估	5290
+shui wen	水纹	5250
+shui shou	睡熟	5225
+shui shu	睡熟	5225
+shui jing tou	水晶头	5210
+shui ping tou ying	水平投影	5200
+shui ling ling	水灵灵	5180
+shui shi	水湿	5175
+shui ka	水卡	5159
+shui zhai	水寨	5140
+shui men	水门	5105
+shui ni di	水泥地	5100
+shui gui	水鬼	4975
+shui ni ban	水泥板	4965
+shui huo bu rong	水火不容	4940
+shui jing hua	水晶花	4915
+shui fu	谁负	4890
+shui pei	水培	4845
+shui lv biao	税率表	4830
+shui ti wu ran	水体污染	4755
+shui jing zhi lian	水晶之恋	4695
+shui di	水地	4690
+shui xing qi	水性漆	4675
+shui zai	谁再	4675
+shui jing xie	水晶鞋	4670
+shui dian chang	水电厂	4645
+shui zhan	水站	4625
+shui dong	水东	4615
+shui shang gong yuan	水上公园	4600
+shui nuan qi cai	水暖器材	4595
+shui zhi wu ran	水质污染	4590
+shui mai	水脉	4555
+shui de wen du	水的温度	4550
+shui mo shi	水磨石	4545
+shui yuan su	水元素	4525
+shui ju	税局	4520
+shui bi	水笔	4505
+shui feng	水封	4505
+shui tu zi yuan	水土资源	4455
+shui li xue	水力学	4445
+shui zhan	水战	4445
+shui dao	水刀	4444
+shui mian jian ting	水面舰艇	4435
+shui zu qi cai	水族器材	4405
+shui bu	水部	4370
+shui xi	水系	4355
+shui re	水热	4350
+shui ru	水乳	4335
+shui zhong yue	水中月	4300
+shui pa	谁怕	4175
+shui zhi qing ze wu yu	水至清则无鱼	4175
+shui yan xing song	睡眼惺忪	4110
+shui hou	水后	4080
+shui ta	水獭	4080
+shui qun	睡裙	4065
+shui le yi jiao	睡了一觉	4060
+shui tian yi se	水天一色	4050
+shui dian mei qi	水电煤气	4045
+shui lian	水莲	4015
+shui mei	水美	4015
+shui diao	水貂	4005
+shui ping xian shang	水平线上	3980
+shui liu tuan ji	水流湍急	3965
+shui pei hua hui	水培花卉	3965
+shui qian	水浅	3950
+shui shen huo re zhi zhong	水深火热之中	3940
+shui wa	水洼	3915
+shui shou wen ti	税收问题	3905
+shui kai	谁开	3840
+shui yi tian	睡一天	3837
+shui chu li ji	水处理剂	3805
+shui gou	睡够	3795
+shui yan	水烟	3775
+shui gan	谁干	3765
+shui man	水满	3755
+shui ken	谁肯	3705
+shui fen hua	水粉画	3700
+shui gui	水龟	3698
+shui ke	水课	3686
+shui guo hu	水果湖	3685
+shui lv	水绿	3660
+shui piao	水漂	3650
+shui bu zhao le	睡不着了	3645
+shui dian zi yuan	水电资源	3640
+shui wu jiao	睡午觉	3640
+shui zhang	水涨	3615
+shui jiao qu le	睡觉去了	3610
+shui de shi hou	睡的时候	3490
+shui li fang	水立方	3475
+shui zhu	水柱	3475
+shui hu	水浒	3473
+shui sheng	水生	3461
+shui dian ju	水电局	3415
+shui mian mo shi	睡眠模式	3390
+shui she	水蛇	3385
+shui dan	税单	3360
+shui shou xie ding	税收协定	3340
+shui ba zi	水拔子	3333
+shui geng	谁更	3333
+shui guan	谁管	3333
+shui guo yin liao	水果饮料	3333
+shui jiao de ren	睡觉的人	3333
+shui lou	睡喽	3333
+shui ma	睡吗	3333
+shui mian fu hao	睡眠符号	3333
+shui si	睡死	3333
+shui si le	睡死了	3333
+shui zhi dao	谁知道	3333
+shui zhi dao ne	谁知道呢	3333
+shui zui	谁最	3333
+shui shou zhang	水手长	3320
+shui yun jian	水云间	3315
+shui chi li	水池里	3300
+shui xing le	睡醒了	3270
+shui ni jia ge	水泥价格	3255
+shui xin	谁信	3210
+shui bo li	水玻璃	3205
+shui ni jiang	水泥浆	3205
+shui zhi fen xi	水质分析	3200
+shui bu zhao de	睡不着的	3180
+shui wan le	睡晚了	3179
+shui liu liang	水流量	3175
+shui shou men	水手们	3170
+shui ya	水鸭	3165
+shui shui	睡睡	3135
+shui shang	谁上	3065
+shui po	水泊	3045
+shui beng chang	水泵厂	3040
+shui jiu	水酒	3015
+shui chan shi chang	水产市场	3010
+shui de zhao	睡得着	2990
+shui han zai hai	水旱灾害	2985
+shui qi	睡起	2940
+shui hu lu	水葫芦	2915
+shui jing zhi pin	水晶制品	2900
+shui ping sao miao	水平扫描	2900
+shui shang fei ji	水上飞机	2900
+shui ni gong si	水泥公司	2890
+shui lang	水浪	2885
+shui chuang	水床	2875
+shui xing	水星	2869
+shui wu	谁无	2860
+shui bo wen	水波纹	2845
+shui wu shi	税务师	2845
+shui xiu	水袖	2820
+shui chan zi yuan	水产资源	2800
+shui jing ni	水晶泥	2795
+shui po liang shan	水泊梁山	2785
+shui jing cheng	水晶城	2775
+shui man jin shan	水漫金山	2725
+shui ju	水具	2715
+shui ping wei zhi	水平位置	2705
+shui chan si liao	水产饲料	2700
+shui wen xue	水文学	2665
+shui qiang	水墙	2655
+shui li xue	水利学	2650
+shui li zi yuan	水利资源	2640
+shui luo	水落	2640
+shui guo tang	水果糖	2635
+shui guo wei	水果味	2635
+shui de xiang	睡得香	2625
+shui ni shi chang	水泥市场	2590
+shui hua	水华	2585
+shui wen biao	水温表	2578
+shui zu	睡足	2570
+shui guo pin pan	水果拼盘	2560
+shui ting	水亭	2560
+shui mi	水密	2530
+shui wen hua	水文化	2530
+shui jing li pin	水晶礼品	2505
+shui ning jiao	水凝胶	2500
+shui zheng	水蒸	2500
+shui zhun yi	水准仪	2500
+shui cai bi	水彩笔	2495
+shui de zheng xiang	睡得正香	2495
+shui di shi chuan	水滴石穿	2495
+shui guo tan	水果摊	2475
+shui guo guan tou	水果罐头	2470
+shui neng zai zhou	水能载舟	2470
+shui ya shi yan	水压试验	2465
+shui pai	水排	2460
+shui ping yi	水平仪	2450
+shui wu ran shi gu	水污染事故	2440
+shui guo dian	水果店	2430
+shui wen	谁问	2430
+shui rao si men	水绕四门	2415
+shui bu xing	睡不醒	2400
+shui long yin	水龙吟	2395
+shui cheng	水城	2385
+shui guo zhi	水果汁	2370
+shui xie	水鞋	2368
+shui de hao	睡得好	2360
+shui zhong hua	水中花	2335
+shui jiao	水胶	2330
+shui leng shi	水冷式	2320
+shui hong	水红	2315
+shui jiao di	水浇地	2300
+shui wang wang	水汪汪	2300
+shui kou	水口	2285
+shui li you	水里游	2260
+shui yu guo	水浴锅	2260
+shui shang ren jia	水上人家	2250
+shui shou tiao jie	税收调节	2245
+shui jing xiang lian	水晶项链	2235
+shui duo	水多	2222
+shui ma	睡嘛	2222
+shui mai	谁买	2222
+shui na	睡哪	2222
+shui li xin xi	水利信息	2215
+shui wu deng ji hao	税务登记号	2210
+shui guo dan gao	水果蛋糕	2208
+shui quan	税权	2195
+shui guo lan zi	水果篮子	2180
+shui ze	水泽	2180
+shui wu gu wen	税务顾问	2165
+shui wei ji	水位计	2160
+shui guo tou	睡过头	2155
+shui fei	水肺	2150
+shui shou wei fa xing wei	税收违法行为	2145
+shui hui bi	水灰比	2120
+shui yin zhu	水银柱	2100
+shui sheng	水声	2096
+shui fei	水沸	2090
+shui tian	水田	2088
+shui leng que	水冷却	2065
+shui guo	水国	2060
+shui hua si jian	水花四溅	2055
+shui ke	水客	2050
+shui xi ji	水洗机	2030
+shui shou guan xia quan	税收管辖权	2025
+shui chi bian	水池边	2010
+shui he jing	水合肼	2000
+shui jiao shi jian	睡觉时间	2000
+shui gong	水工	1990
+shui huo zhi zhong	水火之中	1985
+shui gen	水根	1975
+shui xing de	睡醒的	1975
+shui wei ji	水危机	1940
+shui jiao a	睡觉啊	1935
+shui jing qing yuan	水晶情缘	1925
+shui zheng	税政	1925
+shui zhen	谁真	1920
+shui huo bu xiang rong	水火不相容	1910
+shui chu li yao ji	水处理药剂	1905
+shui men shi jian	水门事件	1890
+shui xing yang hua	水性杨花	1890
+shui ren	谁人	1887
+shui chong shi	水冲式	1885
+shui dao tian	水稻田	1885
+shui ji	税基	1875
+shui li qu	水里去	1875
+shui guo qu	睡过去	1860
+shui fu rong	水芙蓉	1855
+shui yun tian	水云天	1850
+shui yu wu ran	水域污染	1840
+shui ya ji	水压机	1835
+shui mian xia	水面下	1825
+shui shang piao	水上漂	1825
+shui fu	水富	1815
+shui ling long	水玲珑	1815
+shui sheng wu	水生物	1805
+shui jing shou lian	水晶手链	1795
+shui jing zuan	水晶钻	1765
+shui li fa dian chang	水力发电厂	1765
+shui gou li	水沟里	1750
+shui jing bao biao	水晶报表	1750
+shui dian bu	水电部	1745
+shui mu dian ying	水幕电影	1745
+shui beng fang	水泵房	1700
+shui lao	水牢	1695
+shui wen qi xiang	水文气象	1690
+shui xie	谁写	1678
+shui zhu niu rou	水煮牛肉	1678
+shui zhu rou pian	水煮肉片	1676
+shui wei xian	水位线	1675
+shui xiang	睡相	1675
+shui jing ti	水晶体	1660
+shui shou bao quan cuo shi	税收保全措施	1637
+shui she liu	水射流	1620
+shui lu liang yong	水陆两用	1605
+shui shi yan	水试验	1605
+shui zang	水葬	1605
+shui li mian	水里面	1590
+shui guo jiao	睡过觉	1580
+shui qian shou ru	税前收入	1580
+shui shou gang gan	税收杠杆	1565
+shui ya li	水压力	1545
+shui fen ping heng	水分平衡	1540
+shui ping chi	水平尺	1540
+shui lan	水兰	1530
+shui jian bao	水煎包	1519
+shui ni chi	水泥池	1510
+shui lai tu yan	水来土掩	1505
+shui dong	谁懂	1495
+shui huang	水荒	1495
+shui li xi	水利系	1495
+shui sha zhi	水砂纸	1494
+shui juan	税捐	1490
+shui wen du	水温度	1490
+shui nian	水碾	1485
+shui zhun ce liang	水准测量	1470
+shui fa hai shen	水发海参	1458
+shui lun fa dian ji	水轮发电机	1455
+shui qia	税卡	1455
+shui guo lan	水果篮	1450
+shui gui	水柜	1435
+shui di zhuang	水滴状	1430
+shui bin	水滨	1420
+shui pao	水炮	1415
+shui shou li fa	税收立法	1410
+shui shang yun dong zhong xin	水上运动中心	1405
+shui qian fu	睡前服	1400
+shui lu liang qi	水陆两栖	1395
+shui mo	水沫	1390
+shui jing guan	水晶棺	1380
+shui guo	水锅	1370
+shui ping fan zhuan	水平翻转	1365
+shui chang liu	水长流	1355
+shui dui	水碓	1355
+shui xie	水泻	1355
+shui mi wan	水蜜丸	1350
+shui yin deng	水银灯	1350
+shui ping heng	水平衡	1335
+shui dui zi	水碓子	1330
+shui yi meng long	睡意蒙眬	1325
+shui jian	水煎	1323
+shui de jian mian	税的减免	1305
+shui zhao jiao	睡着觉	1305
+shui zhe jiao	睡着觉	1305
+shui dou	谁都	1298
+shui mian	水面	1296
+shui zhi jian yan	水质检验	1285
+shui cheng xian	水城县	1280
+shui jing fen	水晶粉	1280
+shui mei qi	水煤气	1275
+shui wu shu	水务署	1275
+shui zhen ji	水针剂	1275
+shui dun	水遁	1255
+shui ping ru jing	水平如镜	1255
+shui tong yao	水桶腰	1255
+shui jie chan wu	水解产物	1245
+shui li zhan	水利站	1245
+shui ping wei yi	水平尾翼	1235
+shui ku zhong	水库中	1234
+shui zai shuo	谁再说	1233
+shui lin lin	水淋淋	1230
+shui piao	水瓢	1222
+shui mi	水米	1220
+shui ping fen xi	水平分析	1220
+shui ping wei yi	水平位移	1220
+shui le ba	睡了吧	1205
+shui jing yan	水晶盐	1200
+shui wu dang ju	税务当局	1195
+shui jie fan ying	水解反应	1185
+shui bian de a di li na	水边的阿狄丽娜	1180
+shui bu zai shen	水不在深	1180
+shui cun shan guo jiu qi feng	水村山郭酒旗风	1180
+shui dian gong ying	水电供应	1180
+shui guang lian yan qing fang hao	水光潋滟晴方好	1180
+shui jing	水警	1180
+shui li fa dian zhan	水力发电站	1180
+shui lian dong zhi qi	水帘洞之奇	1180
+shui shang yi tian	睡上一天	1180
+shui shi	水室	1180
+shui tian yi xian	水天一线	1180
+shui wen diao cha	水文调查	1180
+shui wu chang xing	水无常形	1180
+shui yi ting	水翼艇	1180
+shui yin ci er zhi liu	水因此而制流	1180
+shui zhi xing	水之形	1180
+shui li hua	水利化	1175
+shui shou lou dong	税收漏洞	1175
+shui zui	水嘴	1165
+shui li ji suan	水力计算	1160
+shui liu sheng	水流声	1160
+shui wu	水舞	1155
+shui xi de	水洗的	1155
+shui xian zi	水仙子	1150
+shui zhuang yuan	水状元	1150
+shui wen chuan gan qi	水温传感器	1148
+shui mi xing	水密性	1145
+shui fen chong zu	水分充足	1140
+shui niu cheng	水牛城	1130
+shui dou fu	水豆腐	1125
+shui lu huo wu yun shu	水路货物运输	1125
+shui nuan gong	水暖工	1125
+shui fu lian	水浮莲	1120
+shui wen xin xi	水文信息	1120
+shui leng bi	水冷壁	1115
+shui a	水啊	1111
+shui cheng	睡城	1111
+shui dai	谁带	1111
+shui dang	谁当	1111
+shui hao	税号	1111
+shui jie	谁接	1111
+shui jiu	睡久	1111
+shui ma	水马	1111
+shui man	睡满	1111
+shui na	睡那	1111
+shui qun	水群	1111
+shui yang	水养	1111
+shui de bi	睡得比	1110
+shui shi	水蚀	1110
+shui yan meng long	睡眼蒙眬	1110
+shui zhong du	水中毒	1110
+shui zhong bing	水肿病	1105
+shui jing li	水晶梨	1100
+shui ping zhuang tai	水平状态	1100
+shui biao	水标	1095
+shui ku	睡裤	1090
+shui xia qu	睡下去	1085
+shui jie dan bai	水解蛋白	1060
+shui shun	水顺	1055
+shui ni you xian	水泥有限	1046
+shui hou shou ru	税后收入	1045
+shui mei bing	水霉病	1035
+shui ni dai	水泥袋	1035
+shui yan dai	水烟袋	1035
+shui dian lu	水电路	1027
+shui guan gong	水管工	1025
+shui ping du	水平度	1025
+shui de jing hua	水的净化	1020
+shui xie	水榭	1014
+shui fen duo	水分多	1010
+shui ling er	水灵儿	1010
+shui lu lv ke yun shu	水路旅客运输	1010
+shui de wan	睡得晚	1005
+shui wu suo	税务所	1005
+shui yun qi ye	水运企业	1005
+shui lian hua	水莲花	1000
+shui qian jia ge	税前价格	1000
+shui cong	水葱	999
+shui fang	水房	999
+shui gan	水感	999
+shui gan bu cuo	水感不错	999
+shui gan hao	水感好	999
+shui hao	谁好	999
+shui qiao	水橇	999
+shui rong	睡容	999
+shui song	水松	999
+shui xue	水靴	999
+shui zao	水藻	999
+shui an	税案	990
+shui xiang ze guo	水乡泽国	990
+shui yue dong tian	水月洞天	985
+shui ru yan	水如烟	980
+shui yue jing hua	水月镜花	970
+shui de shi jian	睡的时间	960
+shui li dian li bu	水利电力部	955
+shui xia le	睡下了	955
+shui lu bing jin	水陆并进	950
+shui hou shou yi	税后收益	945
+shui wu si	税务司	945
+shui mo gou qu	水磨沟区	940
+shui zi liu	水自流	940
+shui hai chan pin	水海产品	930
+shui wen qing bao	水文情报	930
+shui she yao	水蛇腰	910
+shui pao	水疱	909
+shui guo shang	水果商	900
+shui hua xue	水化学	895
+shui lao	水涝	890
+shui ding	谁定	880
+shui jing ban	水晶板	880
+shui ni shi	水泥石	875
+shui e ji suan	税额计算	870
+shui liang ping heng	水量平衡	870
+shui fei ji su	水飞蓟素	855
+shui ni zhuan	水泥砖	850
+shui yan qi jun	水淹七军	845
+shui chan chan	水潺潺	840
+shui he lv quan	水合氯醛	840
+shui qian	税钱	840
+shui xiu	水锈	840
+shui yi ku	睡衣裤	840
+shui guo pai	水果派	835
+shui huo ji	水货机	835
+shui fen li qi	水分离器	830
+shui mo gou	水磨沟	830
+shui yan tong	水烟筒	820
+shui lu yun shu	水陆运输	815
+shui cang	水仓	810
+shui chi	水尺	810
+shui huo wu qing	水火无情	790
+shui shou fa	税收法	790
+shui fu xian	水富县	785
+shui zhong lao yue	水中捞月	780
+shui yang suan jia zhi	水杨酸甲酯	779
+shui xiang	水相	777
+shui guo le	睡过了	757
+shui cui	水淬	755
+shui shou jing zheng	税收竞争	750
+shui wen yu bao	水文预报	750
+shui lu liang lu	水陆两路	745
+shui xing ling ri	水星凌日	740
+shui de hen wan	睡得很晚	735
+shui guang shan se	水光山色	735
+shui mo hua jia	水墨画家	735
+shui bo bu xing	水波不兴	730
+shui hai shi shui	水还是水	725
+shui zhu kai	水煮开	715
+shui lu lian yun	水陆联运	710
+shui tai	睡态	710
+shui shou jie gou	税收结构	700
+shui xiao du	水消毒	700
+shui zhe ne	睡着呢	685
+shui li ji xie	水力机械	680
+shui shi ying	水师营	680
+shui wen guan ce	水文观测	675
+shui le shui	睡了睡	674
+shui bu ta shi	睡不踏实	670
+shui yan	水堰	670
+shui dao suo	水稻所	665
+shui men ting	水门汀	665
+shui bu liao	睡不了	655
+shui hua wu	水化物	650
+shui li	税吏	645
+shui nuan she bei	水暖设备	645
+shui xia zuo ye	水下作业	645
+shui zai	水栽	640
+shui long dai	水龙带	635
+shui yin kai guan	水银开关	635
+shui ping tiao zheng	水平调整	630
+shui sheng shu cai	水生蔬菜	625
+shui ma tou	水码头	620
+shui chan gong si	水产公司	610
+shui liao fa	水疗法	600
+shui mian fang shi	睡眠方式	600
+shui guo le tou	睡过了头	595
+shui li shi	水利史	585
+shui jing bing	水晶饼	576
+shui he	谁何	575
+shui shi qing de	水是清的	572
+shui le hui	睡了会	570
+shui jing	水镜	569
+shui shang fen ju	水上分局	569
+shui dang	水荡	560
+shui lv jie gou	税率结构	560
+shui ni de	睡你的	560
+shui o	谁哦	560
+shui wu guan	税务官	555
+shui jiao	水脚	550
+shui mo hei	水墨黑	550
+shui ping jiao	水平角	550
+shui xia deng	水下灯	550
+shui di deng	水底灯	545
+shui shang fei	水上飞	545
+shui jiao zhong	睡觉中	540
+shui ke zai zhou	水可载舟	540
+shui shou gui fan xing wen jian	税收规范性文件	540
+shui yue guan yin	水月观音	530
+shui dian ting	水电厅	525
+shui de zao	睡得早	520
+shui wei cha	水位差	520
+shui han lun zuo	水旱轮作	515
+shui jing di jiao	水晶滴胶	515
+shui shui jiao	睡睡觉	515
+shui jing zhou zi	水晶肘子	514
+shui dai	水带	509
+shui yang suan yan	水杨酸盐	505
+shui chao	水潮	500
+shui jing	水经	494
+shui shi lv de	水是绿的	492
+shui de xiang	睡得像	490
+shui ya	水涯	490
+shui zhi su	水蛭素	490
+shui xi men	水西门	478
+shui ping chui zhi ju zhong	水平垂直居中	477
+shui guan zi	水管子	475
+shui le ge lan jue	睡了个懒觉	475
+shui yi	睡椅	475
+shui he zuo yong	水合作用	470
+shui mao	睡帽	470
+shui xiang	水巷	469
+shui po bu jin	水泼不进	460
+shui beng zhan	水泵站	450
+shui ni ji	水泥机	450
+shui ta pi	水獭皮	450
+shui ying	水影	444
+shui di sui dao	水底隧道	440
+shui huan beng	水环泵	440
+shui xi bu	水洗布	435
+shui li ping heng	水力平衡	430
+shui ping kong zhi	水平控制	430
+shui shang wu tai	水上舞台	430
+shui tie zhi	水贴纸	430
+shui lu liang yong tan ke	水陆两用坦克	420
+shui ni hua	水泥化	420
+shui bei	水贝	417
+shui chu li cai liao	水处理材料	415
+shui jie zuo yong	水解作用	415
+shui jing xiang shui ping	水晶香水瓶	413
+shui jing ta	水晶塔	410
+shui wei biao	水位表	410
+shui jing lan	水晶蓝	405
+shui se shan guang	水色山光	405
+shui bu dao	睡不到	400
+shui shou guan li quan xian	税收管理权限	400
+shui cun shan guo	水村山郭	390
+shui mian yan jiu	睡眠研究	385
+shui ni ding	水泥钉	385
+shui tian jie	水田芥	385
+shui yi chuan	水翼船	385
+shui mu nian hua	水木年华	384
+shui ni de an wen jiao	睡你的安稳觉	380
+shui xi men da jie	水西门大街	379
+shui chan ting	水产厅	375
+shui qiu dui	水球队	375
+shui wu shu	税务署	375
+shui wu yuan	税务员	375
+shui jing xia jiao	水晶虾饺	371
+shui huo gun	水火棍	370
+shui qin	水侵	370
+shui min	水黾	369
+shui shao	水勺	369
+shui piao er	水漂儿	365
+shui dao xian zai	睡到现在	358
+shui dian duan	水电段	350
+shui yao jing	水妖精	350
+shui jing	水精	342
+shui fa shi shi xi ze	税法实施细则	340
+shui xia bao po	水下爆破	340
+shui cheng nan lu	水城南路	339
+shui ni gong	水泥工	335
+shui ping shu song	水平输送	335
+shui shu	谁输	333
+shui yi qi	睡一起	333
+shui ying	谁赢	333
+shui dian bu men	水电部门	330
+shui ge hui long jiao	睡个回笼觉	330
+shui guan zhan	水管站	326
+shui wo	水涡	325
+shui shui shou	睡睡瘦	323
+shui qing qian	水清浅	318
+shui biao mian	水表面	315
+shui le ge hao jue	睡了个好觉	315
+shui lu dao chang	水陆道场	315
+shui dao bing chong hai fang zhi	水稻病虫害防治	311
+shui chong ji	水冲击	310
+shui jing hun	水晶婚	310
+shui shou qiang zhi zhi xing cuo shi	税收强制执行措施	310
+shui xing	谁行	306
+shui chan feng fu	水产丰富	305
+shui jing yao rou	水晶肴肉	304
+shui hou ying yu	税后盈余	300
+shui zhun yuan dian	水准原点	300
+shui ba	水霸	290
+shui mo fang	水磨坊	290
+shui ni cai wa	水泥彩瓦	290
+shui yin ban	水印版	289
+shui chan yang zhi chang	水产养殖场	288
+shui ping zi	水瓶子	285
+shui pi	水皮	281
+shui dou	水斗	280
+shui huo xiang ji	水火相济	280
+shui ni de an wen jiao ba	睡你的安稳觉吧	280
+shui yin zhong du	水银中毒	280
+shui yuan bi	水缘币	273
+shui an mo	水按摩	270
+shui qi	税契	270
+shui guo ta	水果塔	269
+shui he	谁和	260
+shui kou shan	水口山	252
+shui liu li	水琉璃	250
+shui yang mei	水杨梅	250
+shui nian he	水碾河	249
+shui wu suo zhang	税务所长	245
+shui xin	水心	242
+shui guo bu ding	水果布丁	240
+shui guo ji	水果鸡	237
+shui mi men	水密门	235
+shui fen bao chi ji	水分保持剂	232
+shui lu liang qi dong wu	水陆两栖动物	232
+shui shang shi jie	水上世界	231
+shui chan guan tou	水产罐头	230
+shui mian zheng fa	水面蒸发	230
+shui pu	水浦	230
+shui nan	水南	228
+shui dou yi miao	水痘疫苗	225
+shui yi shui	水一水	223
+shui beng ye lun	水泵叶轮	222
+shui na li	睡哪里	222
+shui jun yi	水均益	220
+shui pei feng chang	水佩风裳	220
+shui zi yuan suo you quan	水资源所有权	220
+shui ni guan dao	水泥管道	215
+shui zhu	水竹	213
+shui jing nan hai	水晶男孩	205
+shui le ge wu jiao	睡了个午觉	205
+shui leng que qi	水冷却器	205
+shui pen yang rou	水盆羊肉	202
+shui a	谁啊	201
+shui rong xing wei sheng su	水溶性维生素	201
+shui bu shui	睡不睡	200
+shui dao kou	水道口	200
+shui gu sun	水谷隼	200
+shui wang zong heng	水网纵横	200
+shui jing ji qiao	水晶机巧	199
+shui zhong deng ji	税种登记	197
+shui yi	水翼	195
+shui zha men	水闸门	195
+shui mu wang	水母王	192
+shui ting men	水亭门	192
+shui bing er	水冰儿	191
+shui dao chan liang	水稻产量	190
+shui ge	谁个	190
+shui fa er	税法二	187
+shui ni qi	水逆期	187
+shui dao zhi fu	水稻之父	185
+shui du hao ting	水都豪庭	185
+shui shou dui	水手队	185
+shui zhi ling	水之灵	185
+shui guo xing qiu	水果星球	184
+shui guan jie e	水官解厄	183
+shui cheng yan	水成岩	180
+shui liang xi	睡凉席	180
+shui bu re	睡不热	179
+shui zhi jing hua	水之精华	179
+shui qian xiao gu shi	睡前小故事	178
+shui bo dan	水波蛋	175
+shui di sheng	水滴声	175
+shui geng qing	水更清	175
+shui mian li	睡眠力	175
+shui yun yi xiang tai	水运仪象台	175
+shui chan wang	水产网	174
+shui ling zhu	水灵珠	174
+shui diao ge cheng	水调歌城	170
+shui gai ji	水改机	170
+shui ku li	水库里	170
+shui ni gang ding	水泥钢钉	170
+shui ping fen liang	水平分量	170
+shui an lan ting	水岸蓝庭	168
+shui shu	水书	168
+shui qing xia	水庆霞	167
+shui de jiao	睡的觉	165
+shui jing hua ni	水晶花泥	165
+shui ran	水蚺	163
+shui re tan	水热毯	163
+shui dian ke	水电科	160
+shui li xi tong	水利系统	160
+shui zhi qing	水至清	160
+shui dian	税点	158
+shui jing mei gui	水晶玫瑰	158
+shui mao jian	水猫剑	158
+shui mu tou	水母头	158
+shui dian jie zhi	水电解质	156
+shui kou cun	水口村	156
+shui men tang	水门塘	156
+shui yu lan ting	水御兰庭	156
+shui tai si	睡太死	155
+shui yang	水样	155
+shui dian qi ju	水电七局	152
+shui luo guan	水落管	150
+shui ou	水沤	150
+shui gua zhuang	水挂庄	148
+shui hao zi	水耗子	148
+shui jing rou	水晶肉	146
+shui shi sheng ming zhi yuan	水是生命之源	145
+shui huo tu	水火土	144
+shui li gong cheng gong shui jia ge guan li ban fa	水利工程供水价格管理办法	143
+shui hong hua zi	水红花子	140
+shui hu shu kui	水户蜀葵	140
+shui li tou	水里头	140
+shui mo lan ting	水墨兰亭	140
+shui mu cheng dian	水木城典	140
+shui quan	水泉	140
+shui zi yuan bu	水资源部	140
+shui li you de	水里游的	138
+shui wei	水尾	138
+shui wu diao cha	税务调查	135
+shui ping ji	水平集	132
+shui de tai si	睡得太死	130
+shui mu shan	水目山	130
+shui chan lu	水产路	129
+shui kou yi yuan	水口医院	129
+shui ru tao zhuang	水乳套装	129
+shui yun ge	水云阁	128
+shui zhi jing ling	水之精灵	127
+shui guan qiao	水关桥	126
+shui wu tai	水舞台	126
+shui yu huo	水与火	126
+shui zhang lang	水蟑螂	126
+shui wu fa	税务法	125
+shui yu	水峪	125
+shui yun wan	水云湾	125
+shui guo xian	水果馅	124
+shui men qiao	水门桥	124
+shui xi cun	水西村	124
+shui jing li cheng	水晶郦城	123
+shui le shui	水了水	123
+shui yi shui	睡一睡	123
+shui deng jie	水灯节	122
+shui po zhen	水坡镇	122
+shui qian wang ba duo	水浅王八多	122
+shui yun shan cheng	水韵山城	122
+shui yin ti wen ji	水银体温计	121
+shui guo yue bing	水果月饼	120
+shui sheng cun	水生村	120
+shui dian shi ju	水电十局	119
+shui wu zang	水武藏	116
+shui xie hua dou	水榭花都	116
+shui yu bing	水俣病	116
+shui ge gou	睡个够	115
+shui wei cun	水围村	115
+shui an hui suo	水岸会所	113
+shui jian bao zi	水煎包子	113
+shui ping fen pian	水平分片	113
+shui zhao la	睡着啦	113
+shui wu ren	税务人	112
+shui zai shuo	谁在说	112
+shui chi	谁吃	111
+shui duo	睡多	111
+shui hu	水狐	111
+shui huai	谁坏	111
+shui lei	睡嘞	111
+shui mai	谁卖	111
+shui na li	睡那里	111
+shui piao	水票	111
+shui tu bu fu	水土不伏	111
+shui wan	谁玩	111
+shui xiang	睡乡	111
+shui you	水友	111
+shui yi shou hu zhe	睡衣守护者	110
+shui wu ji cha bao gao	税务稽查报告	107
+shui lu an	水陆庵	106
+shui lu liang qi qi che	水陆两栖汽车	106
+shui shang pu	睡上铺	106
+shui chang pu	水菖蒲	105
+shui li xue jia	水利学家	105
+shui wu chu	税务处	105
+shui zhao	水沼	105
+shui qiong yun qi	水穷云起	104
+shui ye	水野	103
+shui ge	水阁	101
+shui nv pu	水女仆	101
+shui tun shi chang	水屯市场	101
+shui ba ni	睡吧你	100
+shui ba sha	水芭莎	100
+shui ba shui ba	睡吧睡吧	100
+shui bao gong	水爆弓	100
+shui beng gong lv	水泵功率	100
+shui beng hang ye	水泵行业	100
+shui beng jie dian xi tong	水泵节电系统	100
+shui beng yun xing	水泵运行	100
+shui bi zai	水笔仔	100
+shui bian de lou tai	水边的楼台	100
+shui bian zhi ye	水边之夜	100
+shui biao yi chai	水表已拆	100
+shui bing chong	睡病虫	100
+shui bing yue	水冰月	100
+shui bo bu jing	水波不惊	100
+shui bo cao	水波槽	100
+shui bo dang yang	水波荡漾	100
+shui bu ceng	谁不曾	100
+shui bu guan	睡不惯	100
+shui bu hao jiao	睡不好觉	100
+shui bu liao jiao	睡不了觉	100
+shui bu liao le	睡不了了	100
+shui bu shi hang jia	谁不是行家	100
+shui bu shui	水不水	100
+shui bu shui jiao	睡不睡觉	100
+shui bu shui jiao a	睡不睡觉啊	100
+shui bu shui jiao ba	睡不睡觉吧	100
+shui bu shui jiao la	睡不睡觉啦	100
+shui bu shui jiao le	睡不睡觉了	100
+shui bu shui jiao lou	睡不睡觉喽	100
+shui bu shui jiao ma	睡不睡觉吗	100
+shui bu shui jiao o	睡不睡觉哦	100
+shui bu shui jiao wa	睡不睡觉哇	100
+shui bu shui jiao ya	睡不睡觉呀	100
+shui bu zhao a	睡不着啊	100
+shui bu zhao de ren	睡不着的人	100
+shui bu zhao le a	睡不着了啊	100
+shui bu zhao le ba	睡不着了吧	100
+shui bu zhao le ma	睡不着了吗	100
+shui bu zhao ma	睡不着吗	100
+shui bu zhao shi	睡不着时	100
+shui bu zhao ya	睡不着呀	100
+shui bu zhao zen me ban	睡不着怎么办	100
+shui cai gan	水才干	100
+shui cai hua jia	水彩画家	100
+shui cai shi zhu jue	谁才是主角	100
+shui cai yan liao	水彩颜料	100
+shui cao feng sheng	水草丰盛	100
+shui cao mao sheng	水草茂盛	100
+shui cao sheng zhang	水草生长	100
+shui cao tian	水草田	100
+shui ceng liao xiang	谁曾料想	100
+shui ceng xiang	谁曾想	100
+shui ceng xiang dao	谁曾想到	100
+shui ceng xiang guo	谁曾想过	100
+shui chan hang ye	水产行业	100
+shui chan yang zhi hang ye	水产养殖行业	100
+shui chan yang zhi ji di	水产养殖基地	100
+shui chan zhan	水产展	100
+shui chang chang	水长长	100
+shui chang cheng	水长城	100
+shui chi gui	水池龟	100
+shui chu li hang ye	水处理行业	100
+shui chu li pu qi	水处理曝气	100
+shui chu li xi tong	水处理系统	100
+shui chuan dou hao kan	谁穿都好看	100
+shui ci hou shei	谁伺候谁	100
+shui da de	谁打的	100
+shui dai li	睡袋里	100
+shui dai li mian	睡袋里面	100
+shui dan qiang	水弹枪	100
+shui dang dang	水当当	100
+shui dao ji di	水稻基地	100
+shui dao sheng zhang	水稻生长	100
+shui dao wu jin wu wang huan	谁道吾今无往还	100
+shui dao yu xing	水到鱼行	100
+shui dao zhang shi	水稻长势	100
+shui dao zhong zhi ji di	水稻种植基地	100
+shui de an wen	睡得安稳	100
+shui de bi gou wan	睡得比狗晚	100
+shui de bu hao	睡得不好	100
+shui de bu hao a	睡得不好啊	100
+shui de bu shi hen hao	睡得不是很好	100
+shui de bu ta shi	睡得不踏实	100
+shui de chen	睡得沉	100
+shui de duo	睡得多	100
+shui de geng hao	睡得更好	100
+shui de geng xiang	睡得更香	100
+shui de gou zao	睡得够早	100
+shui de gou zao ya	睡得够早呀	100
+shui de guan	睡得惯	100
+shui de guan ma	睡得惯吗	100
+shui de hao a	睡得好啊	100
+shui de hao bu hao	睡得好不好	100
+shui de hao ma	睡得好吗	100
+shui de hao ma	睡的好吗	100
+shui de hen chen	睡得很沉	100
+shui de hen hao	睡得很好	100
+shui de hen hao a	睡得很好啊	100
+shui de hen hao ba	睡得很好吧	100
+shui de hen hao ya	睡得很好呀	100
+shui de hen shou	睡得很熟	100
+shui de hen shu	睡得很熟	100
+shui de hen si	睡得很死	100
+shui de hen xiang	睡得很香	100
+shui de hen zao	睡得很早	100
+shui de jian shang mei you guo chi hen	谁的肩上没有过齿痕	100
+shui de ke hao	睡得可好	100
+shui de mi du	水的密度	100
+shui de mi mi hu hu	睡得迷迷糊糊	100
+shui de shao	睡得少	100
+shui de shen du	水的深度	100
+shui de shou re de fa tang	谁的手热得发烫	100
+shui de shu fu	睡得舒服	100
+shui de si	睡得死	100
+shui de ta shi	睡得踏实	100
+shui de tai duo	睡得太多	100
+shui de tai wan	睡得太晚	100
+shui de ting xiang	睡得挺香	100
+shui de xiang tian	睡得香甜	100
+shui de ying du	水的硬度	100
+shui de zen me yang	睡得怎么样	100
+shui de zhao jiao	睡得着觉	100
+shui de zhao ma	睡得着吗	100
+shui de zhe ne	睡得着呢	100
+shui de zhen chen	睡得真沉	100
+shui de zhen si	睡得真死	100
+shui de zhong liang	水的重量	100
+shui de zhong yao xing	水的重要性	100
+shui di ban	睡地板	100
+shui di bi	水地比	100
+shui di chou	水滴筹	100
+shui di lao zhen	水底捞针	100
+shui di man kong	水地漫空	100
+shui di mi gong	水底迷宫	100
+shui di nuan	水地暖	100
+shui di pao ji	水地炮击	100
+shui di pu	睡地铺	100
+shui di tan ce qi	水滴探测器	100
+shui di tou	水滴头	100
+shui di xiang ji	水底相机	100
+shui di xie zi ban	水底写字板	100
+shui di yin	水滴音	100
+shui di yuan re beng	水地源热泵	100
+shui dian gong	水电工	100
+shui dian hang ye	水电行业	100
+shui dian mei	水电煤	100
+shui dian wa si	水电瓦斯	100
+shui dian wa si fei	水电瓦斯费	100
+shui dian xi tong	水电系统	100
+shui diao ge tou ci yi shou	水调歌头词一首	100
+shui ding de zhu	谁顶得住	100
+shui ding de zhu a	谁顶得住啊	100
+shui dong de	谁懂得	100
+shui dou ai	谁都爱	100
+shui dou bi bu guo	谁都比不过	100
+shui dou bie xiang	谁都别想	100
+shui dou bu	谁都不	100
+shui dou bu ai	谁都不爱	100
+shui dou bu de zui	谁都不得罪	100
+shui dou bu fang zai yan li	谁都不放在眼里	100
+shui dou bu fu	谁都不服	100
+shui dou bu fu shei	谁都不服谁	100
+shui dou bu gan bao zheng	谁都不敢保证	100
+shui dou bu gan re	谁都不敢惹	100
+shui dou bu hao	谁都不好	100
+shui dou bu hui xiang dao	谁都不会想到	100
+shui dou bu li	谁都不理	100
+shui dou bu neng bao zheng	谁都不能保证	100
+shui dou bu pa	谁都不怕	100
+shui dou bu ren shi	谁都不认识	100
+shui dou bu rong yi	谁都不容易	100
+shui dou bu sha	谁都不傻	100
+shui dou bu shi	谁都不是	100
+shui dou bu shi sha zi	谁都不是傻子	100
+shui dou bu shi shei de shei	谁都不是谁的谁	100
+shui dou bu xi huan	谁都不喜欢	100
+shui dou bu xiang	谁都不想	100
+shui dou bu xin	谁都不信	100
+shui dou bu yuan yi	谁都不愿意	100
+shui dou bu yuan yi kan dao	谁都不愿意看到	100
+shui dou bu zhi dao	谁都不知道	100
+shui dou da bu guo	谁都打不过	100
+shui dou dang bu zhu	谁都挡不住	100
+shui dou dong	谁都懂	100
+shui dou guan	谁都管	100
+shui dou guan bu zhao	谁都管不着	100
+shui dou hui	谁都会	100
+shui dou hui fan cuo	谁都会犯错	100
+shui dou hui xi huan	谁都会喜欢	100
+shui dou kan de chu lai	谁都看得出来	100
+shui dou ke wang	谁都渴望	100
+shui dou ke wang yu jian ni	谁都渴望遇见你	100
+shui dou ke yi	谁都可以	100
+shui dou ke yi zuo	谁都可以做	100
+shui dou lan bu zhu	谁都拦不住	100
+shui dou mei ban fa	谁都没办法	100
+shui dou mei cuo	谁都没错	100
+shui dou mei xiang dao	谁都没想到	100
+shui dou mei yi jian	谁都没意见	100
+shui dou mei you	谁都没有	100
+shui dou mei you cuo	谁都没有错	100
+shui dou mei you xiang dao	谁都没有想到	100
+shui dou ming bai	谁都明白	100
+shui dou neng	谁都能	100
+shui dou neng gan	谁都能干	100
+shui dou neng kan chu lai	谁都能看出来	100
+shui dou neng zuo	谁都能做	100
+shui dou pa	谁都怕	100
+shui dou qing chu	谁都清楚	100
+shui dou re bu qi	谁都惹不起	100
+shui dou ren shi	谁都认识	100
+shui dou shi	谁都是	100
+shui dou shuo bu zhun	谁都说不准	100
+shui dou tao bu guo	谁都逃不过	100
+shui dou ti dai bu liao	谁都替代不了	100
+shui dou wu fa yu ce	谁都无法预测	100
+shui dou wu fa yu liao	谁都无法预料	100
+shui dou xi huan	谁都喜欢	100
+shui dou xi wang	谁都希望	100
+shui dou xiang	谁都想	100
+shui dou xiang bu dao	谁都想不到	100
+shui dou xing	谁都行	100
+shui dou yi yang	谁都一样	100
+shui dou you	谁都有	100
+shui dou you de yi de shi hou	谁都有得意的时候	100
+shui dou you guo	谁都有过	100
+shui dou you ji hui	谁都有机会	100
+shui dou you mi mi	谁都有秘密	100
+shui dou zhe yang	谁都这样	100
+shui dou zhi dao	谁都知道	100
+shui du liu	水都流	100
+shui duan lu jue	水断陆绝	100
+shui dun shui luan bo	水遁水乱波	100
+shui duo le	睡多了	100
+shui fa dian	水发电	100
+shui fa ran qi	水发燃气	100
+shui fa xuan chuan	税法宣传	100
+shui fan yue fu qi liang qu	谁翻乐府凄凉曲	100
+shui fei yi ti hua xi tong	水肥一体化系统	100
+shui fen feng ge	水粉风格	100
+shui fen huo du	水分活度	100
+shui fen huo du yi	水分活度仪	100
+shui fen li yong xiao lv	水分利用效率	100
+shui fen shen	水分身	100
+shui fen shen shu	水分身术	100
+shui fen shen zhi shu	水分身之术	100
+shui feng shan	水风扇	100
+shui fu chong	水斧虫	100
+shui fu lv	税负率	100
+shui fu shan chong	水复山重	100
+shui fu zhi	税负制	100
+shui gan de hao	谁干得好	100
+shui gan de zui wo	谁敢得罪我	100
+shui gan diao	水干掉	100
+shui gang yi yuan	水钢医院	100
+shui ge an wen jiao	睡个安稳觉	100
+shui ge hao jiao	睡个好觉	100
+shui ge jiao	睡个觉	100
+shui ge lan jiao	睡个懒觉	100
+shui ge mei rong jiao	睡个美容觉	100
+shui ge tong kuai	睡个痛快	100
+shui ge wu jiao	睡个午觉	100
+shui geng fa	水耕法	100
+shui geng zhi de mai	谁更值得买	100
+shui geng zhong yao	谁更重要	100
+shui guan chang cheng	水关长城	100
+shui guan de zhao	谁管得着	100
+shui guan du se	水管堵塞	100
+shui guan gong ren	水管工人	100
+shui guan yuan	水管员	100
+shui guang jie tian	水光接天	100
+shui guang yun ying	水光云影	100
+shui gui jiao	水鬼蕉	100
+shui gui jiao shu	水鬼蕉属	100
+shui gui sheng cheng huang	水鬼升城隍	100
+shui gun le	水滚了	100
+shui guo cha	水果茶	100
+shui guo chan di	水果产地	100
+shui guo de	水果的	100
+shui guo fan qie	水果番茄	100
+shui guo hang ye	水果行业	100
+shui guo ji di	水果基地	100
+shui guo jiu	水果酒	100
+shui guo lao	水果捞	100
+shui guo le yuan	水果乐园	100
+shui guo luo bo	水果萝卜	100
+shui guo sheng yan	水果盛宴	100
+shui guo tang yuan	水果汤圆	100
+shui guo tian xin	水果甜心	100
+shui guo tong	水果桶	100
+shui guo wei er	水果味儿	100
+shui guo wei er le	水果味儿了	100
+shui guo wei le	水果味了	100
+shui guo xi lie	水果系列	100
+shui guo ye	水果业	100
+shui guo zhong zhi ji di	水果种植基地	100
+shui hai bu dong	谁还不懂	100
+shui hai bu shi ge	谁还不是个	100
+shui hai bu shi ge bao bao	谁还不是个宝宝	100
+shui hai bu zhi dao	谁还不知道	100
+shui hai gan	谁还敢	100
+shui hai gan ai zhe ge ren	谁还敢爱这个人	100
+shui hai guan	谁还管	100
+shui hai hui	谁还会	100
+shui hai ji de	谁还记得	100
+shui hai neng	谁还能	100
+shui hai qu	谁还去	100
+shui hai xiang xin	谁还相信	100
+shui hai yao	谁还要	100
+shui hai yong	谁还用	100
+shui hai you xin si	谁还有心思	100
+shui hai zai	谁还在	100
+shui hang ye	水行业	100
+shui hao jiao	睡好觉	100
+shui hao le ma	睡好了吗	100
+shui he dan dan	水何澹澹	100
+shui he lian an	水合联氨	100
+shui he qing li zi	水合氢离子	100
+shui he yang hua lv	水合氧化铝	100
+shui he yang hua wu	水合氧化物	100
+shui hen shen a	水很深啊	100
+shui hou gong zi	税后工资	100
+shui hou xin zi	税后薪资	100
+shui hou zi	水猴子	100
+shui hu di	睡虎地	100
+shui hu di qin jian	睡虎地秦简	100
+shui hu gai	水壶盖	100
+shui hu hou zhuan	水浒后传	100
+shui hu men yan	水户门炎	100
+shui hu quan zhuan	水浒全传	100
+shui hu xiao zhuan	水浒笑传	100
+shui hu yu	水虎鱼	100
+shui hu zhuan li	水浒传里	100
+shui hu zhuan li mian	水浒传里面	100
+shui hu zhuan ren wu	水浒传人物	100
+shui hu zhuan zhi ying xiong ben se	水浒传之英雄本色	100
+shui hu zhuan zhong	水浒传中	100
+shui hua sheng	水花生	100
+shui huan jing	水环境	100
+shui huang hou	睡皇后	100
+shui huang long	水荒龙	100
+shui hui er jiao	睡会儿觉	100
+shui hui ji de	谁会记得	100
+shui hui jiao	睡会觉	100
+shui hui long jiao	睡回笼觉	100
+shui huo bu bi	水火不避	100
+shui huo bu ci	水火不辞	100
+shui huo dao bing	水火刀兵	100
+shui huo ji ji	水火既济	100
+shui huo lei feng tu	水火雷风土	100
+shui huo nan rong	水火难容	100
+shui huo xiang rong	水火相容	100
+shui ji chong	水急冲	100
+shui ji de	谁记得	100
+shui ji qie xiao ye	水基切削液	100
+shui jia jin ye pian zhou zi	谁家今夜扁舟子	100
+shui jia tiao zheng	水价调整	100
+shui jian gui	水箭龟	100
+shui jiao bu an wen	睡觉不安稳	100
+shui jiao bu hao	睡觉不好	100
+shui jiao bu lao shi	睡觉不老实	100
+shui jiao bu ta shi	睡觉不踏实	100
+shui jiao chu han	睡觉出汗	100
+shui jiao chuan	睡觉穿	100
+shui jiao da han	睡觉打鼾	100
+shui jiao da hu	睡觉打呼	100
+shui jiao da hu lu	睡觉打呼噜	100
+shui jiao dan	水鲛弹	100
+shui jiao dan shu	水鲛弹术	100
+shui jiao de chuang	睡觉的床	100
+shui jiao de di fang	睡觉的地方	100
+shui jiao de duo	税交得多	100
+shui jiao de hai zi	睡觉的孩子	100
+shui jiao de shao	税交得少	100
+shui jiao de shi hou	睡觉的时候	100
+shui jiao de shi jian	睡觉的时间	100
+shui jiao de xi guan	睡觉的习惯	100
+shui jiao de yang zi	睡觉的样子	100
+shui jiao de zhao pian	睡觉的照片	100
+shui jiao de zi shi	睡觉的姿势	100
+shui jiao er	水饺儿	100
+shui jiao fan shen	睡觉翻身	100
+shui jiao fang shi	睡觉方式	100
+shui jiao hao	睡觉好	100
+shui jiao hou	睡觉后	100
+shui jiao hui bian bai	睡觉会变白	100
+shui jiao jiao	睡觉觉	100
+shui jiao kan	睡觉看	100
+shui jiao la	睡觉啦	100
+shui jiao la ni	睡觉啦你	100
+shui jiao le a	睡觉了啊	100
+shui jiao le ma	睡觉了吗	100
+shui jiao le mei you	睡觉了没有	100
+shui jiao le o	睡觉了哦	100
+shui jiao lei	睡觉嘞	100
+shui jiao lian	水教练	100
+shui jiao liu kou shui	睡觉流口水	100
+shui jiao lo	睡觉咯	100
+shui jiao lou	睡觉喽	100
+shui jiao ma	睡觉吗	100
+shui jiao mei	睡觉没	100
+shui jiao mo ya	睡觉磨牙	100
+shui jiao ne	睡觉呢	100
+shui jiao o	睡觉哦	100
+shui jiao qi lai	睡觉起来	100
+shui jiao qu	睡觉去	100
+shui jiao qu ba	睡觉去吧	100
+shui jiao qu la	睡觉去啦	100
+shui jiao shen qi	睡觉神器	100
+shui jiao shi hou	睡觉时候	100
+shui jiao shi liu kou shui	睡觉时流口水	100
+shui jiao shu fu	睡觉舒服	100
+shui jiao shui dao zi ran xing	睡觉睡到自然醒	100
+shui jiao shui jiao	睡觉睡觉	100
+shui jiao wan shou ji	睡觉玩手机	100
+shui jiao wen ti	睡觉问题	100
+shui jiao xi guan	睡觉习惯	100
+shui jiao xi zao	睡觉洗澡	100
+shui jiao xiu xi	睡觉休息	100
+shui jiao ya	睡觉呀	100
+shui jiao yi yang	睡觉一样	100
+shui jiao you shui bu zhao	睡觉又睡不着	100
+shui jiao zhi liang	睡觉质量	100
+shui jiao zhi qian	睡觉之前	100
+shui jiao zi shi	睡觉姿势	100
+shui jiao zuo meng	睡觉做梦	100
+shui jie cheng du	水解程度	100
+shui jie du	水解度	100
+shui jin chuan gan qi	水浸传感器	100
+shui jin e fei	水尽鹅飞	100
+shui jin shan qiong	水尽山穷	100
+shui jing bei	水晶杯	100
+shui jing chuang	水晶床	100
+shui jing dan	水晶弹	100
+shui jing de jie gou	水晶的结构	100
+shui jing deng huo ling	水晶灯火灵	100
+shui jing di chan	水景地产	100
+shui jing die	水晶蝶	100
+shui jing e fei	水净鹅飞	100
+shui jing gong zu qiu ju le bu	水晶宫足球俱乐部	100
+shui jing jian	水晶剑	100
+shui jing jie	水晶节	100
+shui jing lan de	水晶蓝的	100
+shui jing lian	水精帘	100
+shui jing lin	水精鳞	100
+shui jing luo bo	水晶萝卜	100
+shui jing po po	水晶婆婆	100
+shui jing qiang	水晶墙	100
+shui jing sheng dou shi	水晶圣斗士	100
+shui jing shi nv	水晶室女	100
+shui jing shu niu	水晶枢纽	100
+shui jing tai li	水晶台历	100
+shui jing tong	水精通	100
+shui jing wang	水晶网	100
+shui jing xi lie	水晶系列	100
+shui jing xia	水晶虾	100
+shui jing xian feng	水晶先锋	100
+shui jing xian feng si ka na	水晶先锋斯卡纳	100
+shui jing xie long shen	水晶血龙参	100
+shui jing xue long shen	水晶血龙参	100
+shui jing yan	水精盐	100
+shui jing yan	水经验	100
+shui jing zhi du	水晶之都	100
+shui jing zhi hen	水晶之痕	100
+shui juan chu	税捐处	100
+shui juan ji zheng	税捐稽征	100
+shui juan ji zheng chu	税捐稽征处	100
+shui jun du du	水军都督	100
+shui kai le	水开了	100
+shui kai lou	水开喽	100
+shui kang de zhu	谁扛得住	100
+shui ke mo jing xiao	水客莫惊咲	100
+shui ke si	税课司	100
+shui kong tiao	水空调	100
+shui kong xi tong	税控系统	100
+shui ku an quan du xun	水库安全度汛	100
+shui ku da ba an quan guan li tiao li	水库大坝安全管理条例	100
+shui ku diao du	水库调度	100
+shui la chong	水蜡虫	100
+shui la shu	水蜡树	100
+shui lai shui qu	睡来睡去	100
+shui lai ye xing	谁来也行	100
+shui lai zhe	谁来着	100
+shui lai zhong di	谁来种地	100
+shui lan de zhu	谁拦得住	100
+shui lan de zhu shei	谁拦得住谁	100
+shui lan jiao le	睡懒觉了	100
+shui lan se	水蓝色	100
+shui lan se de	水蓝色的	100
+shui lao shu	水牢术	100
+shui lao ya	水老鸦	100
+shui lao zhi shu	水牢之术	100
+shui le a	睡了啊	100
+shui le chi	睡了吃	100
+shui le duo jiu	睡了多久	100
+shui le guo qu	睡了过去	100
+shui le jiao	睡了觉	100
+shui le jiao le	睡了觉了	100
+shui le liang ge xiao shi	睡了两个小时	100
+shui le ma	睡了吗	100
+shui le ma	睡了嘛	100
+shui le ma ni	睡了吗你	100
+shui le ma ni men	睡了吗你们	100
+shui le me	睡了么	100
+shui le mei	睡了没	100
+shui le yi hui	睡了一会	100
+shui le yi wan	睡了一晚	100
+shui le yi xia wu	睡了一下午	100
+shui le yi ye	睡了一夜	100
+shui le you shui	睡了又睡	100
+shui le yuan	水乐园	100
+shui lei ting	水雷艇	100
+shui lei zhun	水雷屯	100
+shui leng kong tiao	水冷空调	100
+shui leng que xi tong	水冷却系统	100
+shui leng xi tong	水冷系统	100
+shui li bu	水力部	100
+shui li bu bu zhang	水利部部长	100
+shui li bu fu bu zhang	水利部副部长	100
+shui li deng hang ye	水利等行业	100
+shui li deng zhong da gong cheng	水利等重大工程	100
+shui li fu he	水力负荷	100
+shui li gong cheng xi	水利工程系	100
+shui li gu feng	水力鼓风	100
+shui li hang ye	水利行业	100
+shui li hang ye qiang jian guan	水利行业强监管	100
+shui li he hu po ju	水利和湖泊局	100
+shui li hui	水利会	100
+shui li jia	水利家	100
+shui li ju ju zhang	水利局局长	100
+shui li mo xing	水力模型	100
+shui li na gua	水里纳瓜	100
+shui li shu niu gong cheng	水利枢纽工程	100
+shui li xiang	水里乡	100
+shui li zhi	水利制	100
+shui lian liu luo jiang hu shang	谁怜流落江湖上	100
+shui lian mu	睡莲目	100
+shui lian rong zu di	谁怜容足地	100
+shui lian shu	睡莲属	100
+shui lian xi	谁联系	100
+shui lian xia	水帘峡	100
+shui lian ye	睡莲叶	100
+shui liang diao du	水量调度	100
+shui liang ji	水量计	100
+shui liang tiao jie	水量调节	100
+shui liao jie	谁了解	100
+shui lin xiang	水林乡	100
+shui ling ling de	水灵灵地	100
+shui liu de su du	水流的速度	100
+shui liu ji	水流计	100
+shui liu jie jie	水流湝湝	100
+shui liu su du	水流速度	100
+shui liu xin bu jing	水流心不惊	100
+shui liu yun san	水流云散	100
+shui liu zhi shu	水流之术	100
+shui long bian	水龙鞭	100
+shui long dan	水龙弹	100
+shui long dan zhi shu	水龙弹之术	100
+shui long gu ke	水龙骨科	100
+shui long juan	水龙卷	100
+shui long tou bu chu shui	水龙头不出水	100
+shui long tou du	水龙头堵	100
+shui long tou du le	水龙头堵了	100
+shui long tou du se	水龙头堵塞	100
+shui long tou du zhu	水龙头堵住	100
+shui long tou du zhu le	水龙头堵住了	100
+shui lu bi bei	水陆毕备	100
+shui lu bi chen	水陆毕陈	100
+shui lu bi ju	水陆毕具	100
+shui lu guo	水芦果	100
+shui lu ju bei	水陆俱备	100
+shui lu qi zhen	水陆奇珍	100
+shui lu shi	水陆师	100
+shui lu xi tong	水路系统	100
+shui lun beng	水轮泵	100
+shui lun fa dian	水轮发电	100
+shui lun fa dong	水轮发动	100
+shui lun fa dong ji	水轮发动机	100
+shui luo bo	水萝卜	100
+shui luo gui cao	水落归槽	100
+shui luo kou	水落口	100
+shui lv di	税率低	100
+shui lv gao	税率高	100
+shui lv ji ju	税率级距	100
+shui lv ji suan	税率计算	100
+shui lv jiang di	税率降低	100
+shui lv lan	税率栏	100
+shui lv se	水绿色	100
+shui lv se de	水绿色的	100
+shui lv shan qing	水绿山青	100
+shui lv tiao zheng	税率调整	100
+shui lv xia tiao	税率下调	100
+shui man wei huan	水满为患	100
+shui mei dian	谁没点	100
+shui mei dian er	谁没点儿	100
+shui mei guo	水没过	100
+shui mei nian qing guo	谁没年轻过	100
+shui mei rong jiao	睡美容觉	100
+shui mei shi	谁没事	100
+shui mei shui	睡没睡	100
+shui mei shui jiao	睡没睡觉	100
+shui mei shui jiao a	睡没睡觉啊	100
+shui mei shui jiao ya	睡没睡觉呀	100
+shui mei you	谁没有	100
+shui mei you guo qu	谁没有过去	100
+shui mei you zi ji	谁没有自己	100
+shui men an	水门案	100
+shui mian chong	睡眠虫	100
+shui mian de zhong yao xing	睡眠的重要性	100
+shui mian er sai	睡眠耳塞	100
+shui mian ge ming	睡眠革命	100
+shui mian jian	水面舰	100
+shui mian qu	睡眠曲	100
+shui mian ri	睡眠日	100
+shui mian shi chang	睡眠时长	100
+shui mian shi jian guo chang	睡眠时间过长	100
+shui mian shi tiao	睡眠失调	100
+shui mian xi shu	水面系数	100
+shui mian xi tong	睡眠系统	100
+shui mian xiao lv	睡眠效率	100
+shui mian yan zhong bu zu	睡眠严重不足	100
+shui mian yu	睡眠欲	100
+shui mian zhe	睡眠者	100
+shui mian zhi liang jiang di	睡眠质量降低	100
+shui mian zhi liang xia jiang	睡眠质量下降	100
+shui mo dan qing	水墨丹青	100
+shui mo fang	水魔方	100
+shui mo gong fu	水磨工夫	100
+shui mo shen	水魔神	100
+shui mo shi di ban	水磨石地板	100
+shui mo shi di mian	水磨石地面	100
+shui mo shi di ping	水磨石地坪	100
+shui mo shou	水魔兽	100
+shui mu ben yuan	水木本源	100
+shui mu dun	水母盾	100
+shui mu gen yuan	水木根源	100
+shui mu ti	水母体	100
+shui mu zhan qing hua	水木湛清华	100
+shui na de duo	税纳得多	100
+shui na de shao	税纳得少	100
+shui na me wan	睡那么晚	100
+shui neng ding de zhu	谁能顶得住	100
+shui neng xiang de dao	谁能想得到	100
+shui neng yuan	水能源	100
+shui ni	水逆	100
+shui ni cheng	水泥城	100
+shui ni dan	水泥弹	100
+shui ni de ba	睡你的吧	100
+shui ni de jiao	睡你的觉	100
+shui ni deng hang ye	水泥等行业	100
+shui ni di ban	水泥地板	100
+shui ni di mian	水泥地面	100
+shui ni di mian ying hua ji	水泥地面硬化剂	100
+shui ni di ping	水泥地坪	100
+shui ni feng bi kong	水泥封鼻孔	100
+shui ni guan mu ju	水泥管模具	100
+shui ni hang qing	水泥行情	100
+shui ni hang ye	水泥行业	100
+shui ni kuai	水泥块	100
+shui ni le	水逆了	100
+shui ni qi	水泥漆	100
+shui ni qiang du	水泥强度	100
+shui niu ji	水牛机	100
+shui niu ji	水牛记	100
+shui niu qun	水牛群	100
+shui nong de	谁弄得	100
+shui nou huo geng	水耨火耕	100
+shui pao de kuai	谁跑得快	100
+shui ping bu xing	水平不行	100
+shui ping cen ci bu qi	水平参差不齐	100
+shui ping de	水平的	100
+shui ping di	水平低	100
+shui ping duo	水平舵	100
+shui ping fei xing	水平飞行	100
+shui ping fen bian lv	水平分辨率	100
+shui ping fen qu	水平分区	100
+shui ping gao	水平高	100
+shui ping gao di	水平高低	100
+shui ping he chui zhi	水平和垂直	100
+shui ping jian jin xian	水平渐近线	100
+shui ping jiao du	水平角度	100
+shui ping jing	水平井	100
+shui ping ju zhong	水平居中	100
+shui ping luo hou	水平落后	100
+shui ping neng jian du	水平能见度	100
+shui ping su du	水平速度	100
+shui ping tiao jie	水平调节	100
+shui ping xia jiang	水平下降	100
+shui ping xian	水平弦	100
+shui ping xian shi	水平显示	100
+shui ping zeng zhang	水平增长	100
+shui ping zhou	水平轴	100
+shui ping zu sheng zhi chi	水平阻生智齿	100
+shui qi lai	睡起来	100
+shui qi zheng teng	水汽蒸腾	100
+shui qian chang liu	水浅长流	100
+shui qian gong zi	税前工资	100
+shui qian li run lv	税前利润率	100
+shui qian xiao xi	睡前消息	100
+shui qian xin zi	税前薪资	100
+shui qian yu jia	睡前瑜伽	100
+shui qian yun dong	睡前运动	100
+shui qing bo	水清波	100
+shui qing gang	水青冈	100
+shui qing gou	水清沟	100
+shui qing ke jian	水清可鉴	100
+shui qing shan xiu	水清山秀	100
+shui qing shei zhong	谁轻谁重	100
+shui qing wu yu	水清无鱼	100
+shui qiong shan jin	水穷山尽	100
+shui qiu qian	水秋千	100
+shui qiu sai	水球赛	100
+shui qu ba	睡去吧	100
+shui qu le	睡去了	100
+shui rao shan huan	水绕山环	100
+shui ren ceng yu ping shuo	谁人曾与评说	100
+shui ren da de tai ji quan	谁人打的太极拳	100
+shui ren de	谁认得	100
+shui ren de si zhang gong zi	谁人得似张公子	100
+shui ren yue dui	谁人乐队	100
+shui rong rong	水溶溶	100
+shui rong xing jia	水溶性钾	100
+shui rong xing jia fei	水溶性钾肥	100
+shui rong xing lin	水溶性磷	100
+shui rong xing lin fei	水溶性磷肥	100
+shui rong xing qie xiao ye	水溶性切削液	100
+shui rong xing yan	水溶性盐	100
+shui rou xi lie	水柔系列	100
+shui ru di yu	谁入地狱	100
+shui run du	水润度	100
+shui run run	水润润	100
+shui san jiao	睡三觉	100
+shui san tian	睡三天	100
+shui shan jian	水山蹇	100
+shui shang ba lei	水上芭蕾	100
+shui shang bao xian	水上保险	100
+shui shang bei	水伤杯	100
+shui shang de lou tai	水上的楼台	100
+shui shang fei xing	水上飞行	100
+shui shang jia shui	税上加税	100
+shui shang jing cha	水上警察	100
+shui shang lai	睡上来	100
+shui shang le yuan she bei	水上乐园设备	100
+shui shang mo tuo	水上摩托	100
+shui shang mo tuo che	水上摩托车	100
+shui shang qie	水上切	100
+shui shang qu	睡上去	100
+shui shang tuo zhan	水上拓展	100
+shui shang xiang	水上乡	100
+shui shang xing zou	水上行走	100
+shui shang yi jiao	睡上一觉	100
+shui shang you le	水上游乐	100
+shui shang you le she bei	水上游乐设备	100
+shui shang you le she shi	水上游乐设施	100
+shui shang you le xiang mu	水上游乐项目	100
+shui shang you le yuan	水上游乐园	100
+shui shang yu le	水上娱乐	100
+shui shang yu le xiang mu	水上娱乐项目	100
+shui shang zi xing che	水上自行车	100
+shui she zuo	水蛇座	100
+shui shen huo you re	水深火又热	100
+shui shen me	水什么	100
+shui shen me jiao	睡什么觉	100
+shui shen me shui	睡什么睡	100
+shui shen yu ju	水深鱼聚	100
+shui shen yu zhi ju	水深鱼知聚	100
+shui sheng hua	水生花	100
+shui sheng sheng tai xi tong	水生生态系统	100
+shui sheng tai xi tong	水生态系统	100
+shui shi mu wen ji	水式模温机	100
+shui shi shen me	水是什么	100
+shui shi tu	水使徒	100
+shui shi xiong yong	水势汹涌	100
+shui shi yun juan	水逝云卷	100
+shui shi zhu jue	谁是主角	100
+shui shou cang	谁收藏	100
+shui shou de liao	谁受得了	100
+shui shou fan huan	税收返还	100
+shui shou fu	水手服	100
+shui shou pa shui	水手怕水	100
+shui shou qun	水手裙	100
+shui shou ti xi	税收体系	100
+shui shou wa di	税收洼地	100
+shui shou xuan chuan	税收宣传	100
+shui shou xuan chuan yue	税收宣传月	100
+shui shou zeng zhang	税收增长	100
+shui shu shui ying hai bu yi ding	谁输谁赢还不一定	100
+shui shu xing	水属性	100
+shui shui gu	睡睡菇	100
+shui shui guan guan	水水灌灌	100
+shui shui lan jiao	睡睡懒觉	100
+shui shui run	水水润	100
+shui shui shui	水水水	100
+shui shui ta	水水獭	100
+shui shui xing xing	睡睡醒醒	100
+shui shuo de piao liang	谁说得漂亮	100
+shui shuo wo jie bu liao hun	谁说我结不了婚	100
+shui si lou	水司楼	100
+shui song shan ying	水送山迎	100
+shui su feng can	水宿风餐	100
+shui su shan xing	水宿山行	100
+shui tai shen le	水太深了	100
+shui tai si le	睡太死了	100
+shui ti shen	水替身	100
+shui ti tou ming du	水体透明度	100
+shui ti wen du	水体温度	100
+shui tian bao xi	水天包袭	100
+shui tian xiang jie	水天相接	100
+shui tian xiang lian	水天相连	100
+shui tian xu	水天需	100
+shui tian yi bi	水天一碧	100
+shui ting ni nan yu	谁听呢喃语	100
+shui tong gai	水桶盖	100
+shui tu liu shi yan zhong	水土流失严重	100
+shui wan de guo	谁玩得过	100
+shui wan de guo shui	谁玩得过谁	100
+shui wang di chu liu	水往低处流	100
+shui wei chuan gan qi	水位传感器	100
+shui wei gao du	水位高度	100
+shui wei luo cha	水位落差	100
+shui wei tian di kuan	谁谓天地宽	100
+shui wei tu	水位图	100
+shui wei xia jiang	水位下降	100
+shui wen ban huo zhan	水稳拌和站	100
+shui wen di li xue	水文地理学	100
+shui wen di zhi gong cheng di zhi	水文地质工程地质	100
+shui wen di zhi kan cha	水文地质勘察	100
+shui wen di zhi tiao jian	水文地质条件	100
+shui wen di zhi xue	水文地质学	100
+shui wen kong tiao	水温空调	100
+shui wen mo xing	水文模型	100
+shui wen tiao jie	水温调节	100
+shui weng cai	水蕹菜	100
+shui wu hang ye	水务行业	100
+shui wu ju ju zhang	水务局局长	100
+shui wu ju ju zhang	税务局局长	100
+shui wu ju zhang	税务局长	100
+shui wu kuai ji	税务会计	100
+shui wu kuai ji shi	税务会计师	100
+shui wu ran yan zhong	水污染严重	100
+shui wu shi hang ye	税务师行业	100
+shui wu tian	睡五天	100
+shui wu xi tong	水务系统	100
+shui wu xing zheng chu fa	税务行政处罚	100
+shui wu xing zheng fu yi	税务行政复议	100
+shui wu xing zheng xu ke	税务行政许可	100
+shui wu yue bai	水无月白	100
+shui wu zhi du	税务制度	100
+shui xi fa da	水系发达	100
+shui xi fa shi	水系法师	100
+shui xi fa shu	水系法术	100
+shui xi gang liu hao yu	水袭刚流豪雨	100
+shui xi gong cheng	水系工程	100
+shui xi jian she	水系建设	100
+shui xi jing guan	水系景观	100
+shui xi lian tong	水系连通	100
+shui xi lian tong gong cheng	水系连通工程	100
+shui xi lie	水系列	100
+shui xi mo fa	水系魔法	100
+shui xi mo fa shi	水系魔法师	100
+shui xi niu zai	水洗牛仔	100
+shui xi niu zai ku	水洗牛仔裤	100
+shui xi sheng tai	水系生态	100
+shui xi ti	水螅体	100
+shui xi tong	水系统	100
+shui xi tong zhong yang kong tiao	水系统中央空调	100
+shui xi zhi li	水系治理	100
+shui xi zong he zhi li	水系综合治理	100
+shui xia hang xing	水下航行	100
+shui xia hang xing qi	水下航行器	100
+shui xia he bao zha	水下核爆炸	100
+shui xia he shi yan	水下核试验	100
+shui xia lai	睡下来	100
+shui xia pu	睡下铺	100
+shui xian shei hou	谁先谁后	100
+shui xian shui hou	谁先谁后	100
+shui xian wen	水仙文	100
+shui xian yi xia	水线以下	100
+shui xiang de dao	谁想得到	100
+shui xiang wen du	水箱温度	100
+shui xiang xi lie	水箱系列	100
+shui xiang yu	水翔羽	100
+shui xiao dao zui hou shei xiao de zui hao	谁笑到最后谁笑得最好	100
+shui xiao de	谁晓得	100
+shui xiao de zui hao	谁笑得最好	100
+shui xiao zai zui hou shei xiao de zui hao	谁笑在最后谁笑得最好	100
+shui xie hua dou xiao qu	水榭花都小区	100
+shui xie tang wan	水榭塘湾	100
+shui xing bi gong	水刑逼供	100
+shui xing di ping qi	水性地坪漆	100
+shui xing hou	睡醒后	100
+shui xing huan yang di ping	水性环氧地坪	100
+shui xing huan yang di ping qi	水性环氧地坪漆	100
+shui xing ji nian	水星纪念	100
+shui xing le ma	睡醒了吗	100
+shui xing mo nv	水星魔女	100
+shui xing ni xing	水星逆行	100
+shui xing qian feng cui dai chang	水荇牵风翠带长	100
+shui xing shang	水星上	100
+shui xing shui shang	谁行谁上	100
+shui xing shun xing	水星顺行	100
+shui xing ti xi	水性体系	100
+shui xing xia	水行侠	100
+shui xing yi jiao	睡醒一觉	100
+shui xing zheng	水行政	100
+shui xing zheng zhi fa	水行政执法	100
+shui xing zheng zhu guan bu men	水行政主管部门	100
+shui xing zhi hou	睡醒之后	100
+shui xiu shan ming	水秀山明	100
+shui xiu shan qing	水秀山清	100
+shui xun huan xi tong	水循环系统	100
+shui xun shou	水蕈兽	100
+shui ya dan	水牙弹	100
+shui ya ji	水压计	100
+shui yan mo	水淹没	100
+shui yang shu	水杨树	100
+shui yao ri	水曜日	100
+shui ye bang bu liao ni	谁也帮不了你	100
+shui ye bu ceng xiang dao	谁也不曾想到	100
+shui ye bu de zui	谁也不得罪	100
+shui ye bu xing	谁也不行	100
+shui ye cha	水夜叉	100
+shui ye jiu bu liao ni	谁也救不了你	100
+shui ye mei	谁也没	100
+shui ye mei ban fa	谁也没办法	100
+shui ye mei jian guo	谁也没见过	100
+shui ye mei liao dao	谁也没料到	100
+shui ye mei xiang dao	谁也没想到	100
+shui ye mei you	谁也没有	100
+shui ye mei you ban fa	谁也没有办法	100
+shui ye mei you liao dao	谁也没有料到	100
+shui ye mei you xiang dao	谁也没有想到	100
+shui ye shuo fu bu liao shei	谁也说服不了谁	100
+shui yi bu	水伊布	100
+shui yi chong	水一冲	100
+shui yi gan	水已干	100
+shui yi hui	睡一会	100
+shui yi hui er	睡一会儿	100
+shui yi jiao ba	睡一觉吧	100
+shui yi jiao jiu hao	睡一觉就好	100
+shui yi jiao qi lai	睡一觉起来	100
+shui yi jiao xing lai	睡一觉醒来	100
+shui yi lai le	睡意来了	100
+shui yi na yuan	水饴拿原	100
+shui yi quan wu	睡意全无	100
+shui yi quan xiao	睡意全消	100
+shui yi zheng nong	睡意正浓	100
+shui yin cao	水银槽	100
+shui yin ji	水银计	100
+shui yin qing	水引擎	100
+shui yin wen du ji	水银温度计	100
+shui yin xie di	水银泻地	100
+shui yin ya li	水银压力	100
+shui yin zhi xue	水银之靴	100
+shui ying du	水硬度	100
+shui you chong	水又冲	100
+shui you qing lie	水尤清冽	100
+shui you shi bie ma	税优识别码	100
+shui yu shi	水俣市	100
+shui yu zan	水玉簪	100
+shui yu zan ke	水玉簪科	100
+shui yu zan shu	水玉簪属	100
+shui yu zheng	水俣症	100
+shui yu zhong	水域中	100
+shui yuan bao hu di	水源保护地	100
+shui yuan di	水源地	100
+shui yuan di a	水源地啊	100
+shui yuan di bao hu	水源地保护	100
+shui yuan di bao hu qu	水源地保护区	100
+shui yuan di shui zhi	水源地水质	100
+shui yuan han yang di	水源涵养地	100
+shui yuan lu	水源路	100
+shui yuan san xing	水原三星	100
+shui yuan shan chang	水远山长	100
+shui yuan shan yao	水远山遥	100
+shui yuan shi	水原市	100
+shui yue da shi	水月大师	100
+shui yue yu	水跃鱼	100
+shui yun cao	水蕴草	100
+shui yun gui	水云归	100
+shui yun hang ye	水运行业	100
+shui zai chong	水再冲	100
+shui zai le	睡在了	100
+shui zai le yi qi	睡在了一起	100
+shui zai wo shang pu de xiong di	睡在我上铺的兄弟	100
+shui ze jie	水泽节	100
+shui zhang ai	水障碍	100
+shui zhao de hai zi	睡着的孩子	100
+shui zhao de shi hou	睡着的时候	100
+shui zhao hou	睡着后	100
+shui zhao le ba	睡着了把	100
+shui zhao le ma	睡着了吗	100
+shui zhao le me	睡着了么	100
+shui zhao le mei	睡着了没	100
+shui zhao le mei you	睡着了没有	100
+shui zhao le ne	睡着了呢	100
+shui zhao shi	睡着时	100
+shui zhao yi hou	睡着以后	100
+shui zhe shui zhe	睡着睡着	100
+shui zhen bi	水阵壁	100
+shui zheng jiao	睡整觉	100
+shui zhi can shu	水质参数	100
+shui zhi da biao lv	水质达标率	100
+shui zhi du	水之都	100
+shui zhi e hua	水质恶化	100
+shui zhi en ai zhong	谁知恩爱重	100
+shui zhi feng	水彘蜂	100
+shui zhi jian ce xi tong	水质监测系统	100
+shui zhi ren	水之刃	100
+shui zhi tiao jie	水质调节	100
+shui zhi xia jiang	水质下降	100
+shui zhi ying du	水质硬度	100
+shui zhi zai xian jian ce xi tong	水质在线监测系统	100
+shui zhong gui zu	水中贵族	100
+shui zhong ren shen	水中人参	100
+shui zhong yan zhong	水肿严重	100
+shui zhong yang	水中央	100
+shui zhong yao	谁重要	100
+shui zhong zhuo yue	水中捉月	100
+shui zhou zhou	水皱皱	100
+shui zhu dan	水煮蛋	100
+shui zhu huo yu	水煮活鱼	100
+shui zhu ji dan	水煮鸡蛋	100
+shui zhun gao di	水准高低	100
+shui zhun qi	水准器	100
+shui zhun zhi shang	水准之上	100
+shui zi huo	水渍货	100
+shui zui zhong yao	谁最重要	100
+shui mo	睡魔	99
+shui jiao zi	水饺子	98
+shui beng chu shui guan	水泵出水管	95
+shui mo ting yuan	水墨庭院	95
+shui ni qiu chang	水泥球场	95
+shui zhi se	水之色	95
+shui bu	水步	94
+shui zhong zhi yue	水中之月	93
+shui zi yuan kai fa li yong gui hua	水资源开发利用规划	93
+shui ku nan kou	水库南口	91
+shui zhu yu jia chang cai	水煮鱼家常菜	91
+shui lu liang yong fei ji	水陆两用飞机	90
+shui neng zai zhou yi neng fu zhou	水能载舟亦能覆舟	90
+shui qiu yun dong	水球运动	90
+shui shou shan	水手衫	90
+shui si guo qu	睡死过去	90
+shui cheng lu	水城路	89
+shui nian he lu	水碾河路	89
+shui jing dan gao	水晶蛋糕	88
+shui lv xing	税率型	87
+shui shan li wan wu er bu zheng	水善利万物而不争	87
+shui tu qi	水土气	87
+shui xiang jian	水箱间	87
+shui zhu tian ji	水煮田鸡	85
+shui mu lan ting	水木兰亭	83
+shui niu jiao	水牛角	83
+shui zhu yang rou	水煮羊肉	83
+shui ji san qian li	水击三千里	82
+shui gua liu	水瓜柳	81
+shui shang cheng	水上城	80
+shui shou che xiao quan	税收撤销权	80
+shui zong guan	水总管	80
+shui yi xia	睡一下	77
+shui de zheng tian	睡得正甜	75
+shui chang lu	水厂路	74
+shui nuan jing	水暖井	67
+shui tian cun	水田村	67
+shui zhuan ye	水专业	67
+shui de qian	睡的浅	65
+shui di xin yong	水滴信用	65
+shui gou jiao	睡够觉	65
+shui ping gou	水平够	65
+shui wo zi	水窝子	65
+shui yao zi	水舀子	65
+shui feng jing	水风井	64
+shui guan jing	水管井	64
+shui yi xia	水一下	64
+shui kong	水孔	63
+shui wu shang	税务上	63
+shui zhi qi	水之气	63
+shui huo da xue	水货大学	62
+shui ku xin cun	水库新村	62
+shui xing jiao	睡醒觉	62
+shui guo xing	水果行	61
+shui mo cun	水磨村	60
+shui xian pai	水仙牌	60
+shui zi yuan bao hu fa	水资源保护法	60
+shui zi yuan kan cha	水资源勘察	59
+shui mu xing	水木行	58
+shui jing su	水晶酥	57
+shui hui	谁会	56
+shui wen zhi shi deng	水温指示灯	56
+shui hou huan dai	税后还贷	55
+shui jing ruan tang	水晶软糖	55
+shui lu yun fei	水路运费	55
+shui ping she cheng	水平射程	55
+shui qian li lv	税前利率	55
+shui zhen	水圳	55
+shui zi	水子	55
+shui wen gan ying sai	水温感应塞	54
+shui wen deng	水温灯	53
+shui chan xue yuan	水产学院	51
+shui guo di pi shi	水过地皮湿	51
+shui guo lai	睡过来	50
+shui mian liao fa	睡眠疗法	50
+shui ni pao dao	水泥跑道	50
+shui wen xue jia	水文学家	50
+shui yin ya li ji	水银压力计	50
+shui quan gou	水泉沟	48
+shui tu	水突	47
+shui ci ba	水糍粑	46
+shui qing lu	水清路	45
+shui shou hao zi	水手号子	45
+shui xing	水刑	44
+shui ba kuai	水八块	43
+shui li da sha	水利大厦	43
+shui shou cheng xu xing quan li	税收程序性权利	43
+shui jing dao	水晶岛	42
+shui jing fang	水晶坊	42
+shui pao bing gan	水泡饼干	41
+shui fei ji bin	水飞蓟宾	40
+shui lu lu	水漉漉	40
+shui mian zheng	睡眠症	40
+shui wu ting	税务厅	40
+shui jie mei	水解酶	38
+shui nong du	水浓度	38
+shui dian lu qiao	水电路桥	36
+shui dian xue yuan	水电学院	36
+shui guo nai you dan gao	水果奶油蛋糕	36
+shui kou si	水口寺	36
+shui dian jie zhi wen luan	水电解质紊乱	35
+shui gai fei	税改费	35
+shui mi wei zhan	水米未沾	35
+shui tou she qu	水头社区	35
+shui bi shan qing	水碧山青	34
+shui ku	水裤	32
+shui beng jin shui guan	水泵进水管	31
+shui chong ye	水虫也	31
+shui bao shan huan	水抱山环	30
+shui guan mian	水管面	30
+shui guo zha	水果渣	30
+shui mo lin xi xiao qu	水墨林溪小区	30
+shui pen da rou	水盆大肉	30
+shui bei	水背	29
+shui bu han mu	水不涵木	29
+shui dui zi bei li	水碓子北里	29
+shui qing mu hua	水清木华	29
+shui zhu sun guan tou	水煮笋罐头	29
+shui jing hua yuan	水晶花园	28
+shui jing ji	水晶鸡	28
+shui jing nan gua	水晶南瓜	28
+shui lou	水楼	28
+shui an lan qiao	水岸蓝桥	27
+shui bei yi lu	水贝一路	27
+shui quan liu zhuan	水权流转	27
+shui chan zi yuan fan zhi bao hu tiao li	水产资源繁殖保护条例	26
+shui cheng qiao	水澄桥	26
+shui gu jing wei	水谷精微	26
+shui jing zhu lian	水晶珠链	26
+shui zhi di	水之地	26
+shui mu mao	水木茂	25
+shui wan lu	水湾路	25
+shui zhu shan yu	水煮鳝鱼	25
+shui ta jie dao	水塔街道	24
+shui zhu yu tou	水煮鱼头	24
+shui dou chi	水豆豉	23
+shui ke zai zhou yi ke fu zhou	水可载舟亦可覆舟	23
+shui long cun	水龙村	23
+shui mu qin huai	水木秦淮	23
+shui shou jiu ji fa	税收救济法	23
+shui mu gong	水母宫	22
+shui ti zi jing zuo yong	水体自净作用	22
+shui yuan xi zi	水原希子	22
+shui hu lu xiang jia	水葫芦象甲	21
+shui nan zhuang	水南庄	21
+shui zhu cun	水竹村	21
+shui cen cen	水涔涔	20
+shui chan chang	水产场	20
+shui chan da xue	水产大学	20
+shui dao hui fei shi	水稻灰飞虱	20
+shui liu hua xie	水流花谢	20
+shui qiu chang	水球场	20
+shui ai xiang	水隘乡	19
+shui bei cun	水北村	19
+shui chan cun	水产村	19
+shui wu jin zhi diao cha	税务尽职调查	19
+shui zhu	水注	19
+shui dian xin cun	水电新村	18
+shui jing kuang shi	水晶矿石	18
+shui jing gu	水晶谷	17
+shui qu zheng fu	水区政府	17
+shui quan zi	水泉子	17
+shui chan xue xiao	水产学校	16
+shui guo xian bing	水果馅饼	16
+shui li shui li qu	水里水里去	16
+shui shang xin cun	水上新村	16
+shui sheng you ke dong wu	水生有壳动物	16
+shui zheng jian cha gong zuo zhang cheng	水政监察工作章程	16
+shui guan xi	水管系	15
+shui jing ke li	水晶颗粒	15
+shui jing xie fen juan	水晶蟹粉卷	15
+shui lu ke yun zhan	水路客运站	15
+shui ping she ji	水平射击	15
+shui zhu nian yu	水煮鲶鱼	15
+shui ping cai	水平菜	14
+shui shou zhi fa jian cha gui ze	税收执法检查规则	14
+shui yun ju	水云居	14
+shui an ren jia	水岸人家	13
+shui chan shi yan chang	水产试验场	13
+shui dao nian chong	水稻黏虫	13
+shui dong jiang jie dao	水东江街道	13
+shui jiang bu ru	水浆不入	13
+shui jin	水尽	13
+shui man qiao	水漫桥	13
+shui yue qin huai	水月秦淮	13
+shui zhi meng	水之梦	13
+shui dui zi she qu	水碓子社区	12
+shui guan ju	水管局	12
+shui guo fei	水果费	12
+shui guo ya bei	水过鸭背	12
+shui pao zhen	水疱疹	12
+shui shou dan xing fa	税收单行法	12
+shui tan cun	水潭村	12
+shui tian yi jie	水田一街	12
+shui wan tou	水湾头	12
+shui xia wen hua yi chan bao hu gong yue	水下文化遗产保护公约	12
+shui yun gong cheng shi gong jian li zhao biao tou biao guan li ban fa	水运工程施工监理招标投标管理办法	12
+shui zhu ti hua	水煮蹄花	12
+shui cheng	水丞	11
+shui feng lu	水丰路	11
+shui guo yi pin	水果一品	11
+shui jing yin ju gao	水晶银菊糕	11
+shui li niao	水利尿	11
+shui shui	水水	11
+shui yu kou	水峪口	11
+shui zhu xiang	水竹乡	11
+shui chan jing	水产经	10
+shui ge cun	水阁村	10
+shui han pin reng	水旱频仍	10
+shui huo bu ji	水火不济	10
+shui jing dong xue	水晶洞穴	10
+shui jing lian dong wei feng qi	水晶帘动微风起	10
+shui ku da ba zhu ce deng ji ban fa	水库大坝注册登记办法	10
+shui lu za chen	水陆杂陈	10
+shui man	水幔	10
+shui mo tou	水磨头	10
+shui ni chen fei	水泥尘肺	10
+shui niu jiao nong suo fen	水牛角浓缩粉	10
+shui pi er	水皮儿	10
+shui quan zi cun	水泉子村	10
+shui shang gong yuan xi lu	水上公园西路	10
+shui yin kang ting	水印康庭	10
+shui yue gong	水月宫	10
+shui yun fei	水运费	10
+shui zhen liao fa	水针疗法	10
+shui beng bu jian	水泵部件	9
+shui bian	谁边	9
+shui ping cun	水坪村	9
+shui wei gan ying qi	水位感应器	9
+shui wu dai li ye wu gui cheng	税务代理业务规程	9
+shui xi cun	水溪村	9
+shui yin cheng	水印城	9
+shui yun gong cheng zhi liang jian du gui ding	水运工程质量监督规定	9
+shui che qian	水车前	8
+shui dao nong chang	水稻农场	8
+shui guan yin	水观音	8
+shui hu huang men	水户黄门	8
+shui jing cheng	水景城	8
+shui jing ju zi	水晶橘子	8
+shui li feng jing qu guan li ban fa	水利风景区管理办法	8
+shui liu cun	水流村	8
+shui long gu	水龙骨	8
+shui lu wei xian huo wu yun shu gui ze	水路危险货物运输规则	8
+shui men cun	水门村	8
+shui yang suan na	水杨酸钠	8
+shui zhu lian yu	水煮鲢鱼	8
+shui ban xia	水半夏	7
+shui guan xin cun	水关新村	7
+shui guo jia xin dan gao	水果夹心蛋糕	7
+shui huang lian	水黄连	7
+shui jin jie	水浸街	7
+shui jing cun	水径村	7
+shui li lv you xiang mu guan li ban fa	水利旅游项目管理办法	7
+shui liu hua luo	水流花落	7
+shui lu cao mu zhi hua	水陆草木之花	7
+shui mu jin tang	水木锦堂	7
+shui shou ban	水手版	7
+shui shou dang ban	税收档板	7
+shui xiang gong yu	水湘公寓	7
+shui xie hua ting	水榭华庭	7
+shui cao tang	水草堂	6
+shui che hu tong	水车胡同	6
+shui hu rou	水浒肉	6
+shui jing kou rou	水晶扣肉	6
+shui jing tou	水井头	6
+shui kuan xiang	水宽乡	6
+shui nuan ya	水暖鸭	6
+shui shang gong yuan lu	水上公园路	6
+shui shou ji li xiao ying	税收激励效应	6
+shui sui tian qu qiu wu ji	水随天去秋无际	6
+shui xie bu tou	水泄不透	6
+shui ying jian	水影剑	6
+shui yuan li lun	水猿理论	6
+shui cai li	水菜丽	5
+shui chun	水唇	5
+shui dao she bei	水道设备	5
+shui guan che	水管车	5
+shui guo su	水果酥	5
+shui heng zhi	水横枝	5
+shui hong miao	水洪庙	5
+shui jing deng long	水晶灯笼	5
+shui jing mei hua bao	水晶梅花包	5
+shui kou li	水口里	5
+shui lu ju chen	水陆俱陈	5
+shui lun ji chang	水轮机厂	5
+shui luo xiang	水洛乡	5
+shui ma	谁嘛	5
+shui mei chuan fen	水媒传粉	5
+shui mei hua	水媒花	5
+shui men dong	水门洞	5
+shui ni gong ren	水泥工人	5
+shui qing shi xian	水清石见	5
+shui shang gong yuan dong lu	水上公园东路	5
+shui shi yan bo heng	水是眼波横	5
+shui shou hui bao li lun	税收回报理论	5
+shui tian ping	水田坪	5
+shui wu jian cha zheng guan li zan xing ban fa	税务检查证管理暂行办法	5
+shui xian jie	水仙街	5
+shui xian rong gou cha	水仙茸勾茶	5
+shui xuan wo	水漩涡	5
+shui yao xiang	水窑乡	5
+shui zhu ti	水柱体	5
+shui an ya yuan	水岸雅苑	4
+shui beng dian	水泵垫	4
+shui bo ji	水簸箕	4
+shui di tong dao	水底通道	4
+shui feng kong luo yan qian hua	水风空落眼前花	4
+shui ge da jie	水阁大街	4
+shui gong jin shu jie gou fang fu shi gong zuo guan li ban fa	水工金属结构防腐蚀工作管理办法	4
+shui gu zhi hai	水谷之海	4
+shui jing fei cui jiao	水晶翡翠饺	4
+shui jing pi pa	水晶枇杷	4
+shui jing ti bang xiang yao rou	水晶蹄膀香肴肉	4
+shui jing tou	水镜头	4
+shui kan	水刊	4
+shui lu yun shu wei zhang chu fa gui ding	水路运输违章处罚规定	4
+shui ni yao chun di wen yu re fa dian ji shu da quan	水泥窑纯低温余热发电技术大全	4
+shui ru yi pi lian	水如一匹练	4
+shui shang gong yuan bei dao	水上公园北道	4
+shui wei zhi er han yu shui	水为之而寒于水	4
+shui xiang fu shui hu	水箱副水壶	4
+shui xiang jiao dian	水箱胶垫	4
+shui xiu xin cun	水秀新村	4
+shui xu tang	水絮塘	4
+shui ye ya mei	水野亚美	4
+shui ye zhen ji	水野真纪	4
+shui ye zi	水叶子	4
+shui yu guan zhen	水峪贯镇	4
+shui ao	水澳	3
+shui bu men dou	水部门兜	3
+shui chai	水虿	3
+shui dan dan xi sheng yan	水澹澹兮生烟	3
+shui dao hong	水岛宏	3
+shui dao liang zhong chang	水稻良种场	3
+shui dian chi	水电池	3
+shui dui lu kou nan	水碓路口南	3
+shui fen xue	水分穴	3
+shui gua	水瓜	3
+shui huo bu jian rong	水火不兼容	3
+shui huo zhi yin	水火之印	3
+shui jian bing	水煎饼	3
+shui jin nan tian bu jian yun	水尽南天不见云	3
+shui jing kuang dong	水晶矿洞	3
+shui jing mao	水晶帽	3
+shui jing ming xia qiu	水晶明虾球	3
+shui jing mo zhang	水晶魔杖	3
+shui kui huo wang	水亏火旺	3
+shui li	帨缡	3
+shui ling jie zhi	水灵戒指	3
+shui ling shou tao	水灵手套	3
+shui ling xiang	水岭乡	3
+shui lu	水鹿	3
+shui lu yi shuang xue	水路疑霜雪	3
+shui ma	水麻	3
+shui mei	水媒	3
+shui men she qu	水门社区	3
+shui qing zhen	水箐镇	3
+shui shen jie zhi	水神戒指	3
+shui shen yi	水神衣	3
+shui sheng dong zhi wu zi ran bao hu qu guan li ban fa	水生动植物自然保护区管理办法	3
+shui shou ke zheng quan	税收课征权	3
+shui shu yu cun	水树峪村	3
+shui ta cun	水踏村	3
+shui tu bao chi gong zuo xie tiao xiao zu	水土保持工作协调小组	3
+shui tu xue	水突穴	3
+shui wo bu ning	睡卧不宁	3
+shui wu gong	水蜈蚣	3
+shui xin cai chang	水心菜场	3
+shui yang qiao	水漾桥	3
+shui yang ren jia	水漾人家	3
+shui yin kuang	水银矿	3
+shui ying	水蝇	3
+shui yuan mu ben	水源木本	3
+shui zhi	水雉	3
+shui zhi guo	水之国	3
+shui zhi xian luo	水之陷落	3
+shui zhong yue se chang bu gai	水中月色长不改	3
+shui zhu bai zha rou	水煮白扎肉	3
+shui chan qian jie	水产前街	2
+shui chong cun	水冲村	2
+shui dang	水凼	2
+shui dao zi hu tong	水道子胡同	2
+shui di lao yue	水底捞月	2
+shui dian cun	水电村	2
+shui dian qi	水电器	2
+shui gou xue	水沟穴	2
+shui gu feng	水谷丰	2
+shui gu li	水谷痢	2
+shui han cai	水蔊菜	2
+shui jiao dou sha jian bing	水饺豆沙煎饼	2
+shui jin jie	水津街	2
+shui jing ju hua su	水晶菊花酥	2
+shui jing tuan zi	水晶团子	2
+shui jiu	水韭	2
+shui jue	水蕨	2
+shui keng hu	水坑湖	2
+shui long xiang	水龙乡	2
+shui lu er xian dan	水陆二仙丹	2
+shui men	谁们	2
+shui mian jian hu xi tong	睡眠监护系统	2
+shui ming shan xiu	水明山秀	2
+shui mo diao	水磨调	2
+shui mo hu tong	水磨胡同	2
+shui mo qiang	水磨腔	2
+shui ni san chang	水泥三厂	2
+shui niu lu	水牛鹿	2
+shui qi ling xin	水气凌心	2
+shui se yi zhu shui	水色异诸水	2
+shui shang jiao tong wei zhang chu fa gui ding	水上交通违章处罚规定	2
+shui shang qing ying bu wei yue	水上轻盈步微月	2
+shui shang zhuang bei	水上装备	2
+shui shen bo lang kuo	水深波浪阔	2
+shui shen yu ji le	水深鱼极乐	2
+shui shou dai zheng ren yuan	税收代征人员	2
+shui shou jiao kuan shu	税收缴款书	2
+shui shu nai nai	水树奈奈	2
+shui tai	水苔	2
+shui ti zhong fu zhi zhi	水体中腐殖质	2
+shui wai jia yi wu	税外加一物	2
+shui wei shui zu xiang	水尾水族乡	2
+shui wu ju xiang	税务局巷	2
+shui xi	水螅	2
+shui xie	水蝎	2
+shui yang quan wo	水杨醛肟	2
+shui yang suan ruan gao	水杨酸软膏	2
+shui ye	水椰	2
+shui ye mei ji	水野美纪	2
+shui ying	水营	2
+shui yong keng	水拥坑	2
+shui yuan shu	水原数	2
+shui zhi	水制	2
+shui zhi yuan qi	水之元气	2
+shui zhu hui tou yu	水煮回头鱼	2
+shui zuo yu hong liu	水作玉虹流	2
+shui an cheng shi hua yuan	水岸城市花园	1
+shui an xi	水安息	1
+shui bi	水碧	1
+shui bu cai	水卜菜	1
+shui bu hua qi	水不化气	1
+shui cai bu jiao	水菜不交	1
+shui cai tian	水采田	1
+shui cao ye fei pei fang	水草液肥配方	1
+shui chan da lou	水产大楼	1
+shui cheng shan yi	水程山驿	1
+shui chuan cheng xia zuo lei ming	水穿城下作雷鸣	1
+shui da yu duo	水大鱼多	1
+shui da yuan	水大院	1
+shui dao chi ban hei mo chan	水稻赤斑黑沫蝉	1
+shui dao hei wei ye chan	水稻黑尾叶蝉	1
+shui dao qian ye ying	水稻潜叶蝇	1
+shui dao xiang	水道巷	1
+shui dao xue	水道穴	1
+shui dao yu	水岛裕	1
+shui dao zi	水道子	1
+shui di mo yue	水底摸月	1
+shui di na gua	水底纳瓜	1
+shui di qi pan zhan	水滴棋盘战	1
+shui dian feng lai an xiang man	水殿风来暗香满	1
+shui dian zhan da ba an quan ding qi jian cha ban fa	水电站大坝安全定期检查办法	1
+shui dian zhan da ba an quan zhu ce ban fa	水电站大坝安全注册办法	1
+shui dong ning ru yu	水冻凝如瘀	1
+shui duan lu jue	水断路绝	1
+shui duo	水舵	1
+shui fei ji bin jiao nang	水飞蓟宾胶囊	1
+shui fei ji bin pu jia an pian	水飞蓟宾葡甲胺片	1
+shui fo si	睡佛寺	1
+shui fu nan zai shou	水覆难再收	1
+shui fu sheng he mai	水府生禾麦	1
+shui gang cun	水缸村	1
+shui ge xu liang yu dian kong	水阁虚凉玉簟空	1
+shui gu	水臌	1
+shui guang shan se yu ren qin	水光山色与人亲	1
+shui guo ji dong	水果鸡冻	1
+shui guo lian zi geng	水果莲子羹	1
+shui guo mian bao bu ding	水果面包布丁	1
+shui guo xian nai mai hu	水果鲜奶麦糊	1
+shui han she fei	水寒射肺	1
+shui hao bei liu quan	水号北流泉	1
+shui he xian	睡鹤仙	1
+shui hong qiu	水红球	1
+shui hu dao	水弧刀	1
+shui hu ye xi hua tian niu	水户野细花天牛	1
+shui huo bing chong	水火兵虫	1
+shui huo wu jiao	水火无交	1
+shui ji chun tang wan	水积春塘晚	1
+shui jian	水碱	1
+shui jian ru bing	水煎乳饼	1
+shui jian wen jiang kou	水槛温江口	1
+shui jiao dong chuang ri yi hong	睡觉东窗日已红	1
+shui jiao han deng li	睡觉寒灯里	1
+shui jiao yuan	水饺元	1
+shui jie bing qing	水洁冰清	1
+shui jie ming jiao	水解明胶	1
+shui jin feng	水金凤	1
+shui jing duan jian	水晶短剑	1
+shui jing kui jia	水晶盔甲	1
+shui jing lan	水晶兰	1
+shui jing lian ying geng tong feng	水晶帘莹更通风	1
+shui jing ling zhi gong	水精灵之弓	1
+shui jing qi	水晶棋	1
+shui jing shou tao	水晶手套	1
+shui jing zi ran fa zhang	水晶自然法杖	1
+shui jun	水君	1
+shui ku shi lan	水枯石烂	1
+shui kuo shan gao	水阔山高	1
+shui li bu xin fang gong zuo ban fa	水利部信访工作办法	1
+shui li gong cheng jian she xiang mu shi gong fen bao guan li zan xing gui ding	水利工程建设项目施工分包管理暂行规定	1
+shui li shui dian gong cheng yi min zheng ce fa gui	水利水电工程移民政策法规	1
+shui li ting nong chang	水利厅农场	1
+shui ling zhi zhu	水灵之主	1
+shui liu	水鹨	1
+shui liu xin bu jing	水流心不竞	1
+shui long lin kui jia	水龙鳞盔甲	1
+shui lu luo ba zhen	水陆罗八珍	1
+shui lu xuan jiao yan zhen su	水陆轩椒盐真酥	1
+shui lu zhi zhuan	水陆之馔	1
+shui luo shang cun qin dai shi	水落尚存秦代石	1
+shui luo yu liang qian	水落鱼梁浅	1
+shui lv tian qing bu qi chen	水绿天青不起尘	1
+shui ma xiao tou mu shi	水麻小头木虱	1
+shui man jing	水蔓菁	1
+shui men ting lei	水门汀类	1
+shui mi tao huang men ji	水蜜桃黄焖鸡	1
+shui mi tao yin er tang	水蜜桃银耳汤	1
+shui mi wu gan	水米无干	1
+shui mian chu ping yun jiao di	水面初平云脚低	1
+shui mian ping jia xi tong	睡眠评价系统	1
+shui mian tao hua nong chun lian	水面桃花弄春脸	1
+shui mo shi yu luo	水磨石芋螺	1
+shui mu jin quan rong	水母近泉戎	1
+shui mu mu xia	水母目虾	1
+shui mu niu	水母牛	1
+shui mu ti sou zhi xi	水母体薮枝螅	1
+shui mu yi lang	水木一郎	1
+shui niao dai bo fei xi yang	水鸟带波飞夕阳	1
+shui ning lv ya liu li qian	水凝绿鸭琉璃钱	1
+shui niu chang miao xi chong	水牛长妙吸虫	1
+shui niu fang	水牛坊	1
+shui niu guo he	水牛过河	1
+shui niu shen shang ba gen mao	水牛身上拔根毛	1
+shui niu wu yin dai xian chong	水牛无引带线虫	1
+shui pai	水牌	1
+shui pao de mian bao	水泡的面包	1
+shui pao yu yuan	水泡鱼元	1
+shui ping chai fen	水平拆分	1
+shui ping chuan di	水平传递	1
+shui qian er zhou da ye	水浅而舟大也	1
+shui qiang tou	水枪头	1
+shui qiao	水桥	1
+shui qing bo lian yan	水清波潋滟	1
+shui qu	水鸲	1
+shui qu yun hui hen bu sheng	水去云回恨不胜	1
+shui quan	水圈	1
+shui ru huan pei yue ru jin	水如环佩月如襟	1
+shui ru zhi he	水乳之合	1
+shui ruan shan wen	水软山温	1
+shui shan bi zhai e	水杉避债蛾	1
+shui shang feng xing	水上风行	1
+shui shao	水筲	1
+shui shen hu wan	水神护腕	1
+shui shen jia	水神甲	1
+shui shen kai	水神铠	1
+shui shen kui	水神盔	1
+shui shen xiang lian	水神项链	1
+shui shen xue	水神靴	1
+shui shen yao dai	水神腰带	1
+shui sheng ji ji feng chui yi	水声激激风吹衣	1
+shui sheng meng si	睡生梦死	1
+shui sheng shan can	水剩山残	1
+shui shi qing hua	水石清华	1
+shui shou jiu ji quan	税收救济权	1
+shui shou qiang zhi zhi xing zhi du	税收强制执行制度	1
+shui shou wan shui zheng	税收完税证	1
+shui shu xing dou peng	水属性斗篷	1
+shui si qing tian zhao yan ming	水似青天照眼明	1
+shui su hei xiao juan e	水苏黑小卷蛾	1
+shui su yan yu han	水宿烟雨寒	1
+shui ta feng li	水塔凤梨	1
+shui tang bao yi zu miao zu xiang	水塘堡彝族苗族乡	1
+shui tao su	水桃酥	1
+shui tun cun wei hui	水屯村委会	1
+shui tun jia yuan	水屯家园	1
+shui wa xiang	水洼乡	1
+shui wei yi	水委一	1
+shui wen zhen dian si you you	水纹珍簟思悠悠	1
+shui weng hua	水翁花	1
+shui xi dao	水西道	1
+shui xi mo gu	水系魔菇	1
+shui xian	水险	1
+shui xian chang lan	水仙菖兰	1
+shui xian ming jing zhuan	水闲明镜转	1
+shui xian qian shou fo shan hu	水仙千手佛珊瑚	1
+shui xiang lian zi qi	水香莲子齐	1
+shui xiang mai bai wu	水乡霾白屋	1
+shui xie bu lou	水泄不漏	1
+shui xing liu xia	水性流下	1
+shui xing sui xie	水性随邪	1
+shui ya jiao zhu	水涯狡蛛	1
+shui yan shan mei	水眼山眉	1
+shui yang mei	水扬梅	1
+shui yang suan ben fen tie gao	水杨酸苯酚贴膏	1
+shui ye ba jiao tie jia	水椰八角铁甲	1
+shui yi diao qun	睡衣吊裙	1
+shui yi shan cheng	水驿山程	1
+shui yin shu shi	水饮疏食	1
+shui yin xiang	水音乡	1
+shui ying bing fu jin xiao feng	水蝇柄腹金小蜂	1
+shui yu huo de chan mian	水与火的缠绵	1
+shui yu jie zhi	水域戒指	1
+shui yu shou zhuo	水域手镯	1
+shui yu xiang lian	水域项链	1
+shui yu zhe zhi	水郁折之	1
+shui yuan mu ben	水原木本	1
+shui yuan shan chang chu chu tong	水远山长处处同	1
+shui yuan su ci pan	水元素磁盘	1
+shui yuan su shi zhe	水元素使者	1
+shui yue jing xiang	水月镜像	1
+shui yue tong chan ji	水月通禅寂	1
+shui yun gong cheng ji dian she bei zhao biao tou biao guan li ban fa	水运工程机电设备招标投标管理办法	1
+shui zha an quan jian ding guan li ban fa	水闸安全鉴定管理办法	1
+shui zha tong hua	水闸通话	1
+shui zhi shi	水芝士	1
+shui zhi ya	水之牙	1
+shui zhong ne bu	睡中呢哺	1
+shui zhong zao xing jiao heng	水中藻荇交横	1
+shui zhong zhu yan	水中著盐	1
+shui zhou xi tang xia	水周兮堂下	1
+shui zhu feng pian	水煮凤片	1

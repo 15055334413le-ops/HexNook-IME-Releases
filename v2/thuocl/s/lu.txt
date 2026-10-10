@@ -1,0 +1,879 @@
+lu bian	路边	130486
+lu kou	路口	99482
+lu si	露丝	34254
+lu jun	陆军	33698
+lu sun	芦笋	26473
+lu de	路德	25906
+lu zhou lao jiao	泸州老窖	16618
+lu suo	卢梭	16502
+lu jing he	路径和	12754
+lu shan	芦山	12469
+lu rou	鹿肉	12445
+lu xun	鲁迅	12366
+lu cai	鲁菜	12015
+lu jing ming	路径名	11148
+lu di xun yang jian	陆地巡洋舰	10139
+lu wei	卤味	9267
+lu qiao	路桥	6906
+lu su deng	卤素灯	6621
+lu jia zui	陆家嘴	6513
+lu you biao	路由表	6407
+lu kuang xia	路况下	5799
+lu feng qi che	陆风汽车	5715
+lu nao sun shang	颅脑损伤	5102
+lu dian	鲁甸	4913
+lu zhou shi	泸州市	4641
+lu yin zhi pin	录音制品	3884
+lu an shi	六安市	3863
+lu bei	路北	3715
+lu yi si	路易斯	3619
+lu dan	卤蛋	3474
+lu feng feng hua	陆风风华	3288
+lu ba	陆霸	3059
+lu nan	路南	3025
+lu cheng	鹿城	2964
+lu xi	路西	2896
+lu mian	卤面	2689
+lu ni	鲁尼	2689
+lu zhong	路中	2640
+lu jiao jiao	鹿角胶	2606
+lu gu	颅骨	2554
+lu nei chu xue	颅内出血	2542
+lu di	路帝	2384
+lu dong	路东	2275
+lu wu xuan	卢武铉	2267
+lu you xie yi	路由协议	2235
+lu jing ya suo	路径压缩	2014
+lu shan yun wu	庐山云雾	1926
+lu nan	鲁南	1846
+lu you xuan ze	路由选择	1839
+lu niu rou	卤牛肉	1808
+lu feng shi	陆丰市	1803
+lu zheng zhi fa	路政执法	1726
+lu xi	泸溪	1718
+lu jiang	庐江	1653
+lu yi si an na zhou	路易斯安那州	1653
+lu wan	卢湾	1634
+lu chuan	陆川	1377
+lu quan shi	鹿泉市	1285
+lu jian bu ping	路见不平	1217
+lu gu gu zhe	颅骨骨折	1176
+lu chu ma jiao	露出马脚	1113
+lu shan yun wu cha	庐山云雾茶	1110
+lu huo chun qing	炉火纯青	1104
+lu shan zhen mian mu	庐山真面目	1099
+lu zhi shi pin	录制视频	1080
+lu yan	陆岩	1059
+lu ban	鲁班	1029
+lu er dao	鹿儿岛	1025
+lu lu wu wei	碌碌无为	1013
+lu chong	卤虫	1005
+lu jiao	鹿角	1004
+lu yi	陆毅	990
+lu jing gui hua	路径规划	982
+lu qiao gong si	路桥公司	916
+lu ka si	卢卡斯	898
+lu you pei zhi	路由配置	892
+lu gang	陆港	886
+lu rong	鹿茸	868
+lu ying che	露营车	868
+lu li tong xin	戮力同心	821
+lu jing sou suo	路径搜索	809
+lu you	陆游	798
+lu ji dan	卤鸡蛋	779
+lu yin zhi zuo zhe quan	录音制作者权	773
+lu gu	麓谷	758
+lu ren jie zhi	路人皆知	735
+lu yu	陆羽	676
+lu ke dong wu	鹿科动物	629
+lu dou fu	卤豆腐	616
+lu quan	禄劝	606
+lu cheng shi	潞城市	580
+lu yi	鹿邑	568
+lu ding	泸定	558
+lu quan xian	禄劝县	558
+lu xi	芦溪	544
+lu ji jing	露脊鲸	530
+lu man man qi xiu yuan xi	路漫漫其修远兮	523
+lu ning	鲁宁	517
+lu you qi pei zhi	路由器配置	506
+lu si shei shou	鹿死谁手	504
+lu xun gong yuan	鲁迅公园	467
+lu xiang	鲁巷	449
+lu bin xun	鲁滨逊	445
+lu xian cao	鹿衔草	442
+lu you xuan ze xie yi	路由选择协议	438
+lu dong	芦洞	434
+lu sun guan tou	芦笋罐头	407
+lu qiao	陆桥	404
+lu ya chi	卤鸭翅	395
+lu shui pin pan	卤水拼盘	394
+lu xi	泸西	393
+lu di gu zhe	颅底骨折	387
+lu zhong	炉中	385
+lu he yi yuan	潞河医院	369
+lu jing biao da shi	路径表达式	361
+lu sheng ji zhui dong wu	陆生脊椎动物	352
+lu gu	鲁谷	342
+lu jian	鲁健	340
+lu shui e zhang	卤水鹅掌	338
+lu ban lu	鲁班路	325
+lu shan lu	庐山路	316
+lu feng	禄丰	314
+lu jiang	鹭江	297
+lu shan shi yu	庐山石鱼	285
+lu yao zhi ma li	路遥知马力	275
+lu bu shi yi	路不拾遗	274
+lu ya	炉鸭	274
+lu gen	芦根	267
+lu jing ji lu	路径记录	267
+lu shan shi ji	庐山石鸡	256
+lu xi niu	鲁西牛	253
+lu hui jiu	芦荟酒	250
+lu huo	炉霍	250
+lu qiu	录囚	240
+lu you xuan ze suan fa	路由选择算法	229
+lu yi shi si	路易十四	228
+lu jing lu	麓景路	223
+lu ye	鹿野	212
+lu zuo fu	卢作孚	212
+lu song shi chang	芦淞市场	211
+lu long	卢龙	209
+lu zhi qiang	卢志强	208
+lu shang xing ren yu duan hun	路上行人欲断魂	206
+lu feng long	禄丰龙	202
+lu jun	陆骏	202
+lu jin	陆金	201
+lu jing fen xi	路径分析	201
+lu xue yi	陆学艺	198
+lu he	陆河	196
+lu yin yi zhu	录音遗嘱	196
+lu yong he tong	录用合同	190
+lu xun ji nian guan	鲁迅纪念馆	185
+lu xiang guang chang	鲁巷广场	183
+lu shi chuan shuo	炉石传说	182
+lu yi shi san	路易十三	180
+lu han	卢汉	177
+lu jia bang lu	陆家浜路	171
+lu de wei xi	路德维希	161
+lu ding yi	陆定一	153
+lu wa	鹿娃	151
+lu yan	卢燕	151
+lu ling	庐陵	149
+lu hao chao xiang gan	芦蒿炒香干	147
+lu you jiao huan	路由交换	147
+lu ke	鲈科	146
+lu bin si tan	鲁宾斯坦	145
+lu tian ming	陆天明	145
+lu xin hua	陆新华	143
+lu shan lu	麓山路	139
+lu jiang lu	庐江路	138
+lu tou	炉头	136
+lu ping	鲁平	133
+lu te dan gong yue	鹿特丹公约	133
+lu an lu	六安路	131
+lu jian bu ping ba dao xiang zhu	路见不平拔刀相助	131
+lu shan shi er	庐山石耳	131
+lu an di qu	六安地区	128
+lu dan cun	鹿丹村	127
+lu tai	鲁泰	126
+lu jing ming ling	路径命令	123
+lu you dong si gu	路有冻死骨	123
+lu dao pei	陆道培	122
+lu nei ya	颅内压	122
+lu yun	陆云	119
+lu an gua pian cha	六安瓜片茶	117
+lu xiao man	陆小曼	117
+lu xun zhong xue	鲁迅中学	117
+lu tou	路头	114
+lu qiang	颅腔	111
+lu bao jie you	路宝节油	110
+lu dong	鲁东	110
+lu ji	陆机	107
+lu feng xin shi jie	陆风新饰界	106
+lu qin	陆禽	106
+lu su	鲁肃	106
+lu zhu	炉猪	105
+lu gu que sun	颅骨缺损	103
+lu lin hao han	绿林好汉	103
+lu ding	芦丁	102
+lu xi	潞西	97
+lu feng xian	陆丰县	94
+lu gan shi xi ji	炉甘石洗剂	93
+lu rou tang	鹿肉汤	93
+lu nei dong mai liu	颅内动脉瘤	92
+lu shan feng jing ming sheng qu	庐山风景名胜区	90
+lu hao dong	陆皓东	88
+lu zhou	庐洲	86
+lu xun	陆逊	79
+lu nei gao ya	颅内高压	74
+lu di	路底	71
+lu jiang dao	鹭江道	71
+lu zhi	陆治	71
+lu dao	鹿导	70
+lu su tou deng	卤素头灯	70
+lu liang xian ren min fa yuan	陆良县人民法院	69
+lu mei	鲁美	69
+lu xun	陆巡	69
+lu rou pian	鹿肉片	68
+lu wei chang	芦苇场	68
+lu zhi liang fen	卤汁凉粉	68
+lu jun yi	卢俊义	67
+lu xi shi	潞西市	67
+lu gu da dao	麓谷大道	66
+lu zi pu	路子铺	66
+lu jia cun	鲁家村	65
+lu nei ya zeng gao	颅内压增高	65
+lu zi e	卤子鹅	65
+lu cong jin ye bai	露从今夜白	63
+lu yun lu	麓云路	63
+lu chao	鲁超	62
+lu chong mao	卢宠茂	62
+lu er kuai	卤饵块	62
+lu sheng zhi wu	陆生植物	62
+lu shen jing	颅神经	59
+lu sun shou juan	芦笋手卷	59
+lu jia xi	卢嘉锡	58
+lu mei ni ge	鲁梅尼格	56
+lu jia he	芦家河	55
+lu jia cun	陆家村	54
+lu jiu yuan	陆九渊	53
+lu kou cun	路口村	53
+lu shi jian er	卤什件儿	53
+lu yin	鲁银	53
+lu di yan	芦笛岩	52
+lu dan	鹿弹	51
+lu tian ji shi	露天集市	51
+lu wei ying	芦苇莺	51
+lu jia zui di tie zhan	陆家嘴地铁站	50
+lu wei zhao ze	芦苇沼泽	50
+lu gou xin qiao	卢沟新桥	49
+lu jing	陆靖	49
+lu hua lu	芦花路	48
+lu kai	陆凯	48
+lu yu guang	卢宇光	48
+lu yuan	陆原	45
+lu gong	鲁公	44
+lu hun	陆浑	44
+lu xiu fu	陆秀夫	44
+lu cheng xian	潞城县	43
+lu zheng	陆正	43
+lu fei kui	陆费逵	42
+lu yan guan liu	颅咽管瘤	42
+lu yuan ji	鹿苑鸡	42
+lu zhou	路州	42
+lu cheng gong ye qu	鹿城工业区	41
+lu tou	芦头	40
+lu shui fu qi	露水夫妻	39
+lu yang	鲁阳	39
+lu ying	陆英	39
+lu zhi an	陆志安	39
+lu zhi quan	录制权	39
+lu zhou	鹭洲	39
+lu xiao feng	陆小凤	38
+lu ai gong	鲁哀公	37
+lu tong	卢仝	37
+lu ding lu	泸定路	36
+lu hai kong jun xing fa	陆海空军刑法	36
+lu rou guo kui	卤肉锅盔	36
+lu yu ming	卢煜明	36
+lu zhu du juan	露珠杜鹃	36
+lu rong	陆蓉	35
+lu wen fu	陆文夫	35
+lu feng lu	麓枫路	34
+lu nei ya sheng gao	颅内压升高	34
+lu tian lu	麓天路	34
+lu an lan cha	六安篮茶	33
+lu feng gu yuan	禄丰古猿	33
+lu kang	陆康	33
+lu shui xian liu ku zhen	泸水县六库镇	33
+lu song lu	麓松路	33
+lu an	鲁安	32
+lu rong ting	陆荣廷	32
+lu mu qi	鲁木齐	31
+lu shan	炉山	31
+lu zhao lin	卢照邻	31
+lu an chun dan	卤鹌鹑蛋	30
+lu bi ya	鲁比亚	30
+lu feng kong long bo wu guan	禄丰恐龙博物馆	30
+lu shan zhen mian	庐山真面	30
+lu xi nan huang niu	鲁西南黄牛	30
+lu zheng	鲁证	30
+lu er si	卤饵丝	29
+lu nan wei yi	鲁难未已	29
+lu xia	炉下	29
+lu jia yi	路嘉怡	28
+lu lai hei zhu	鲁莱黑猪	28
+lu run xiang	陆润庠	28
+lu fen	卤粉	27
+lu jing tiao jian	路径条件	27
+lu mi xian	卤米线	27
+lu gan shi	炉甘石	26
+lu lei cun	胪雷村	26
+lu yong xiang	卢永祥	26
+lu bang kong zhi	鲁棒控制	25
+lu gu lu	鲁谷路	25
+lu jing	鹿颈	25
+lu nan ru bing	路南乳饼	25
+lu xin zhi	陆新之	25
+lu de ming	卢德铭	24
+lu gui meng	陆龟蒙	24
+lu jia	芦家	24
+lu qin	路禽	24
+lu rou jia guo kui	卤肉夹锅魁	24
+lu zhi	陆贽	24
+lu an xian	六安县	23
+lu ao	陆奥	23
+lu cheng	芦城	23
+lu jia	陆贾	23
+lu jiao qiao jia	鹿角锹甲	23
+lu jia zui hua yuan	陆家嘴花园	22
+lu tian	芦田	22
+lu wei jia	露尾甲	22
+lu rou guo kui	卤肉锅魁	21
+lu sen bao yi hui	卢森堡议会	21
+lu bang san shi	鲁邦三世	20
+lu hui jiao nang	芦荟胶囊	20
+lu ji tang mian zha gao	陆记烫面炸糕	20
+lu ming yuan	鹭鸣苑	20
+lu qiao	鲁桥	20
+lu run	鲁润	20
+lu tao	陆韬	20
+lu xing	陆行	20
+lu gai	颅盖	19
+lu jia wan	卢家湾	19
+lu qiao yin	卢巧音	19
+lu shi	鹿石	19
+lu xi	路溪	19
+lu ya ke	鹿亚科	19
+lu yi	陆怡	19
+lu zhi	卢志	19
+lu di	炉地	18
+lu guo guo	芦蝈蝈	18
+lu hong	陆洪	18
+lu jia cun	路家村	18
+lu lan	鹿栏	18
+lu lin	鹿林	18
+lu ling	芦岭	18
+lu lun	卢纶	18
+lu mi cang hu tong	禄米仓胡同	18
+lu zhuang gong	鲁庄公	18
+lu jia cun	卢家村	17
+lu jia tan	鲁家滩	17
+lu qi	卢琦	17
+lu sun niu rou	芦笋牛肉	17
+lu wan zhong xue	卢湾中学	17
+lu xiang gong	鲁襄公	17
+lu xuan	陆宣	17
+lu yong	路涌	17
+lu zhao gong	鲁昭公	17
+lu zhuang	鲁庄	17
+lu de ming	陆德明	16
+lu gao jian lu rou	陆稿荐卤肉	16
+lu ji ju xie	陆寄居蟹	16
+lu jia zhai	陆家宅	16
+lu man man qi xiu yuan xi	路曼曼其修远兮	16
+lu qin	露禽	16
+lu you qi kai fa	路由器开发	16
+lu yuan nan da jie	潞苑南大街	16
+lu zhuang	陆庄	16
+lu ban jiu	卤斑鸠	15
+lu fu sha xing	芦氟沙星	15
+lu hu	鹿湖	15
+lu jiao chong	鹿角虫	15
+lu shan zhen	芦山镇	15
+lu she yi	路舍蚁	15
+lu tong	卢同	15
+lu wo	鹿窝	15
+lu xie	陆蟹	15
+lu zheng yu	卢正雨	15
+lu zhuang	卢庄	15
+lu feng hua qiao nong chang	陆丰华侨农场	14
+lu ju yang mei ci di xin	卢橘杨梅次第新	14
+lu kang	陆抗	14
+lu lin shi chang	路林市场	14
+lu mi cang	禄米仓	14
+lu rong	陆容	14
+lu xun xiao xue	鲁迅小学	14
+lu zheng xiang	陆徵祥	14
+lu gu xiu bu shu	颅骨修补术	13
+lu lin	陆琳	13
+lu long shan zhuang	卢龙山庄	13
+lu men	鹿门	13
+lu nei dong jing mai ji xing	颅内动静脉畸形	13
+lu xun	卢循	13
+lu ying	芦莺	13
+lu ying	芦映	13
+lu zhi	卢植	13
+lu da ha	鹿大哈	12
+lu gu lu dong kou	鲁谷路东口	12
+lu jia zhai	陆家寨	12
+lu jing	芦井	12
+lu ping xiang	芦坪乡	12
+lu rong can bian jiu	鹿茸参鞭酒	12
+lu tong ning ke li	颅痛宁颗粒	12
+lu zhuang	路庄	12
+lu bao	陆宝	11
+lu cai	陆采	11
+lu ji	芦集	11
+lu ji	陆绩	11
+lu jiao shuang	鹿角霜	11
+lu ting ao xiang	炉亭坳乡	11
+lu tun xiang	卢屯乡	11
+lu an jiang ya	六安酱鸭	10
+lu bian jing	路边井	10
+lu ding gong	鲁定公	10
+lu gou qiao nong chang	卢沟桥农场	10
+lu gu xi zhan	鲁谷西站	10
+lu hao	陆灏	10
+lu hu lu wei chang	漉湖芦苇场	10
+lu jia xiang	陆家巷	10
+lu ma deng xiang	鹿马登乡	10
+lu shan da sha	庐山大厦	10
+lu shi	陆师	10
+lu sun ji kuai	芦笋鸡块	10
+lu tou xiang	鹿头乡	10
+lu xun yuan	鲁迅园	10
+lu yan	路演	10
+lu yan	鲁彦	10
+lu cheng	炉城	9
+lu dong cun	陆东村	9
+lu fa yan	陆法言	9
+lu jing	陆景	9
+lu long qi	陆陇其	9
+lu nan yi zu zi zhi xian	路南彝族自治县	9
+lu nei zhan wei xing bing bian	颅内占位性病变	9
+lu shan cun	芦山村	9
+lu tian	炉田	9
+lu wu	芦鹀	9
+lu yan zhou	鲁彦周	9
+lu zhong wo	颅中窝	9
+lu bian bu jiu	鹿鞭补酒	8
+lu bian zhuang yang tang	鹿鞭壮阳汤	8
+lu gan shi fen	炉甘石粉	8
+lu gu jie dao	鲁谷街道	8
+lu guang wei	卢广伟	8
+lu huan gong	鲁桓公	8
+lu huan xiao xing sai che chang	路环小型赛车场	8
+lu jia zui lu	陆家嘴路	8
+lu kou	陆口	8
+lu shen	陆深	8
+lu ye	卢野	8
+lu yi fan	卢一凡	8
+lu zai qi zhong yi	禄在其中矣	8
+lu zhi dou gan	卤汁豆干	8
+lu gang	陆钢	7
+lu gu ke ji yuan	麓谷科技园	7
+lu huo zhao tian di	炉火照天地	7
+lu jia wan cun	卢家湾村	7
+lu li jie	甪里街	7
+lu ma cun	鹿马村	7
+lu nan bei te	鲁南贝特	7
+lu quan lu	麓泉路	7
+lu ren	陆仁	7
+lu sheng ji ju xie	陆生寄居蟹	7
+lu shi chang	卢世昌	7
+lu wang	路旺	7
+lu wei ming	陆卫明	7
+lu yuan jie jie dao	炉院街街道	7
+lu yuan lu	麓源路	7
+lu zhou shi	芦洲市	7
+lu ban guan	鲁班馆	6
+lu chuan lin	鹿传霖	6
+lu dan lin	陆丹林	6
+lu ge zhuang cun	芦各庄村	6
+lu hui	陆恢	6
+lu jiang jun	庐江郡	6
+lu jiang xiao hong tou	庐江小红头	6
+lu jiao pian	鹿角片	6
+lu miao	鲁苗	6
+lu quan cun	鹿圈村	6
+lu shan dao	鲁山道	6
+lu shi shuang ji sha	路氏双髻鲨	6
+lu shi xiao shu wa	卢氏小树蛙	6
+lu si ta ye ling	露斯塔野鲮	6
+lu tian cun	芦田村	6
+lu xin yuan	陆心源	6
+lu xing jing	陆行鲸	6
+lu yi	陆艺	6
+lu yin gong	鲁隐公	6
+lu can	陆灿	5
+lu cun	鹿村	5
+lu han tie lu jie kuan he tong	芦汉铁路借款合同	5
+lu huai shen	卢怀慎	5
+lu jie li	鲁杰里	5
+lu liang nian yu	陆良鲇鱼	5
+lu long sai	卢龙塞	5
+lu nong zhuang	鹿农庄	5
+lu ping	炉坪	5
+lu qi dong wu	陆栖动物	5
+lu quan	卢犬	5
+lu rong niu rou juan	鹿茸牛肉卷	5
+lu rong yang can pian	鹿茸洋参片	5
+lu shang fen cun	芦上坟村	5
+lu shui dao	渌水道	5
+lu sun chao niu rou	芦笋炒牛肉	5
+lu tian qu	露天区	5
+lu xi gong	鲁僖公	5
+lu xi xian	潞西县	5
+lu xing zhong xue	陆行中学	5
+lu xiu jing	陆修静	5
+lu yi xian ren min jian cha yuan	鹿邑县人民检察院	5
+lu zhou lu	泸州路	5
+lu ai lin shen tai hua	路隘林深苔滑	4
+lu an huan neng	潞安环能	4
+lu an qi che ju le bu	路安汽车俱乐部	4
+lu cuo	卢厝	4
+lu di qian fen jie	露涤铅粉节	4
+lu ding sa song feng	露顶洒松风	4
+lu ge zhuang	芦各庄	4
+lu ge zhuang	鲁各庄	4
+lu hong lu	麓虹路	4
+lu jia gou	芦家沟	4
+lu jia jie dao	芦家街道	4
+lu jian ceng	卢见曾	4
+lu jiu shao	陆九韶	4
+lu kai	陆楷	4
+lu kong bao xian	陆空保险	4
+lu le	路乐	4
+lu qi	陆圻	4
+lu qiu	卢求	4
+lu shan dong nan wu lao feng	庐山东南五老峰	4
+lu shen jing sun hai	颅神经损害	4
+lu sun bao yu tang	芦笋鲍鱼汤	4
+lu tian	鹿田	4
+lu wei bian jiu	鹿尾鞭酒	4
+lu wei zhen	芦圩镇	4
+lu xi cun	路西村	4
+lu yin zheng	露阴症	4
+lu you	陆友	4
+lu yuan mo zhi zhi	路远莫致之	4
+lu yun long	陆云龙	4
+lu zhen	陆珍	4
+lu zhen fei	路振飞	4
+lu zheng gang wei	路政岗位	4
+lu zhuang qiao	路庄桥	4
+lu an di	六安地	3
+lu bian she qu	路边社区	3
+lu cun cun	路村村	3
+lu da huang	路大荒	3
+lu di ju	卤地菊	3
+lu dong sheng	卢冬生	3
+lu fang	陆坊	3
+lu gu xiang	鹿固乡	3
+lu hong jie	卢鸿杰	3
+lu hou wo	颅后窝	3
+lu hua gang	芦花港	3
+lu ji xiang	鲁基乡	3
+lu ji xiang	鲁吉乡	3
+lu jia zhai	卢家寨	3
+lu jiang	露江	3
+lu jiao	露礁	3
+lu jing gang	芦泾港	3
+lu jiu ling	陆九龄	3
+lu lie	颅裂	3
+lu long lu	麓龙路	3
+lu qiao	泸桥	3
+lu qiao xiang	路桥乡	3
+lu shan cun	鲁山村	3
+lu shou an shen ke li	鹿首安神颗粒	3
+lu song	陆嵩	3
+lu sun da xia	芦笋大虾	3
+lu wan zhen	陆婉珍	3
+lu wei wan feng qi	芦苇晚风起	3
+lu xi qu	芦溪区	3
+lu xi xing	陆西星	3
+lu xin li qing chang	路新沥青厂	3
+lu yi kong ji lu ji	鹿邑孔集卤鸡	3
+lu ying	路英	3
+lu yu dao	卢于道	3
+lu yuan qi	陆元琪	3
+lu yun he	鲁运河	3
+lu zheng rong	陆峥嵘	3
+lu zhou yu tou huo guo	泸州鱼头火锅	3
+lu zi xia	炉子下	3
+lu bian hui chun jiao nang	鹿鞭回春胶囊	2
+lu bu ge zhen	鲁布格镇	2
+lu cheng nan kou	芦城南口	2
+lu cheng yao zu xiang	潞城瑶族乡	2
+lu de zhi	鲁得之	2
+lu feng dou ji zhe	路逢斗鸡者	2
+lu gong zhen	鲁贡镇	2
+lu gu lu ya men kou	鲁谷路衙门口	2
+lu han gong lu	芦汉公路	2
+lu he cun wei hui	鲁河村委会	2
+lu hua zhuang	芦花庄	2
+lu hui gong	鲁惠公	2
+lu ji	陆玑	2
+lu jia bang tang zao	陆家浜糖枣	2
+lu jia wan cun	陆家湾村	2
+lu jia xiang	卢家巷	2
+lu jia yuan	陆家苑	2
+lu jia yuan zi	卢家院子	2
+lu jia yuan zi	陆家院子	2
+lu jian guan jie	颅间关节	2
+lu jun	鲁郡	2
+lu ma feng	陆马蜂	2
+lu mu gong	鲁穆公	2
+lu mu zhen	陆慕镇	2
+lu nan qiao	卢南樵	2
+lu nan ru shan	路南乳扇	2
+lu pan	卢盼	2
+lu qian wo	颅前窝	2
+lu qing gong	鲁顷公	2
+lu qu	陆渠	2
+lu quan yi cun	鹿圈一村	2
+lu ren jie wen yao zhao shou	路人借问遥招手	2
+lu rong dun yang shen	鹿茸炖羊肾	2
+lu shi hua	鲁石化	2
+lu shui dang yang qing yuan ti	渌水荡漾清猿啼	2
+lu si gang xiang	鹭鸶港乡	2
+lu tang xiang	芦塘乡	2
+lu tian yao	陆天尧	2
+lu wan	陆完	2
+lu wen gong	鲁文公	2
+lu xi cun	鹿溪村	2
+lu xi xiong	陆锡熊	2
+lu xiang sheng	卢象升	2
+lu xiao gong	鲁孝公	2
+lu xing cun	炉星村	2
+lu xuan gong	鲁宣公	2
+lu xun	卢逊	2
+lu yan	炉岩	2
+lu yang zhen	鲁阳镇	2
+lu yao	陆耀	2
+lu yi ge de	路易歌德	2
+lu yi si an na hei xiong	路易斯安那黑熊	2
+lu yi tian	陆以湉	2
+lu yin jiu dian	鹿茵酒店	2
+lu zeng	陆增	2
+lu zhao ling	卢照龄	2
+lu zheng wei	鲁政委	2
+lu zhong fei nan jin	露重飞难进	2
+lu zhuan xi qiao hu jian	路转溪桥忽见	2
+lu an da jie	禄安大街	1
+lu bai cai	滷白菜	1
+lu chao	卢潮	1
+lu cheng xi kou	芦城西口	1
+lu cheng ying si cun	潞城营四村	1
+lu dao gong	鲁悼公	1
+lu dao huai	陆道淮	1
+lu de dao shi long zi	鲁德岛石龙子	1
+lu di cun	炉地村	1
+lu di gen	鹿地亘	1
+lu di hong xie	陆地红蟹	1
+lu ding pian	芦丁片	1
+lu dun long	鲁钝龙	1
+lu e ke	鹿蛾科	1
+lu fei gu cui tiao geng mei	鲈肥菰脆调羹美	1
+lu feng dian zhong long	禄丰滇中龙	1
+lu gao	卢镐	1
+lu gu gu liu	颅骨骨瘤	1
+lu gu xian xing gu zhe	颅骨线形骨折	1
+lu gua duo tai zhu she ye	鹿瓜多肽注射液	1
+lu guan lu jiang xi	路贯庐江兮	1
+lu guang	陆广	1
+lu han ren yuan ji xiang ying	露寒人远鸡相应	1
+lu hong chun	卢洪春	1
+lu hong tao	陆洪涛	1
+lu hou you you se	鲁侯有忧色	1
+lu hua shen ze jing chui lun	芦花深泽静垂纶	1
+lu hui gan	芦荟苷	1
+lu ji er shi zuo wen fu	陆机二十作文赋	1
+lu jia wan xiang	芦家湾乡	1
+lu jia wan zhen	逯家湾镇	1
+lu jia yao	陆家窑	1
+lu jia zhuang cun	卢家庄村	1
+lu jia zhuang zi	陆家庄子	1
+lu jiang xiao li zhong qing qi	庐江小吏仲卿妻	1
+lu jiang zhu ren fu	庐江主人妇	1
+lu jiao bei xing shan hu	鹿角杯形珊瑚	1
+lu jin zhuang gu jiu	鹿筋壮骨酒	1
+lu jing qing	陆晶清	1
+lu jiu bu ke zui	鲁酒不可醉	1
+lu ju yang mei shang dai suan	卢橘杨梅尚带酸	1
+lu ken xiao	露龈笑	1
+lu lei ting	胪雷亭	1
+lu ling ou yang xiu ye	庐陵欧阳修也	1
+lu lou jie dao	鹿楼街道	1
+lu lun	卢伦	1
+lu min gong	鲁闵公	1
+lu mu qi shi	鲁木齐市	1
+lu nan xin kang	鲁南欣康	1
+lu nv dong chuang xia	鲁女东窗下	1
+lu pei	陆培	1
+lu quan xiang	鹿圈乡	1
+lu ren wei zhang fu	鲁人为长府	1
+lu ren zhong zhi zuo	鲁人重织作	1
+lu rong kou fu ye	鹿茸口服液	1
+lu shan cun	炉山村	1
+lu shan ye zhu	庐山野猪	1
+lu shang ren kun jian lv si	路上人困蹇驴嘶	1
+lu shang zhi ye	鲁商置业	1
+lu shi	鲁虱	1
+lu shi dao	陆师道	1
+lu shi ma pian	卢氏麻片	1
+lu shi yi wei zhi	漉豉以为汁	1
+lu shu yi wei zhi	漉菽以为汁	1
+lu shui hu	卢水胡	1
+lu sou tan wu jing	鲁叟谈五经	1
+lu sun chao ji liu	芦笋炒鸡柳	1
+lu sun jian huang cai	芦笋煎黄菜	1
+lu sun xia qiu	芦笋虾球	1
+lu tian cun	炉田村	1
+lu ting can	陆廷灿	1
+lu wan cha	鹿宛茶	1
+lu wei jia ke	露尾甲科	1
+lu wei yuan	芦苇园	1
+lu xing lu	麓星路	1
+lu yang gong	鲁炀公	1
+lu yao yu	陆耀遹	1
+lu you mei yi xian ai	路幽昧以险隘	1
+lu you wu zhe shu shan wu zhi	鲁有兀者叔山无趾	1
+lu yuan cun	芦院村	1
+lu yuan jiang shen yu qu nan	路远江深欲去难	1
+lu zhen	鲁贞	1
+lu zhi de	卢致德	1
+lu zhi ye	鲁置业	1
+lu zhong gou	颅中沟	1
+lu zhou lai	卢周来	1
+lu zhu cun	芦竹村	1
+lu zhuang	鹿庄	1
+lu zhuang cun cun wei hui	路庄村村委会	1
+lu zhuang cun wei hui	路庄村委会	1
+lu zhuang er qu	芦庄二区	1
+lu zhuang liu qu	芦庄六区	1
+lu zhuang xiao qu	芦庄小区	1
+lu a pu la wan he xiang bi	卢阿普拉弯颌象鼻	0
+lu an qi xu wei	鲁安歧须鮠	0
+lu ao ji guan wei	陆奥鸡冠鳚	0
+lu ban wei da yan diao	鹿斑伪大眼鲷	0
+lu ban yu luo	鹿斑芋螺	0
+lu ban yuan tong xiang	鹿斑圆筒象	0
+lu chong shu	卤虫属	0
+lu de que mei	路德雀鹛	0
+lu di mu shi an guang yu	鲁迪穆氏暗光鱼	0
+lu di shu dai she	陆地束带蛇	0
+lu ding ke xi mi ying wu	鹿顶客吸蜜鹦鹉	0
+lu dong pa qiu	禄峒爬鳅	0
+lu dun jiao chan	露盾角蝉	0
+lu er dao duan jiang xie	鹿儿岛短浆蟹	0
+lu er dao fu rong pi you	鹿儿岛副绒皮鮋	0
+lu er dao qian yu	鹿儿岛潜鱼	0
+lu er shi pu li yu	穋尔氏朴丽鱼	0
+lu fei ji fu chi zhi li	鲁菲吉复齿脂鲤	0
+lu feng shi mao xiong	禄丰始猫熊	0
+lu feng xi wa gu yuan	禄丰西瓦古猿	0
+lu fu hun mao mang chun	露腹混毛盲蝽	0
+lu fu tu wen yu	卢福突吻鱼	0
+lu guang chi e	庐光尺蛾	0
+lu he cao ming	芦禾草螟	0
+lu hua shi ban yu	鲈滑石斑鱼	0
+lu hui die	鹿灰蝶	0
+lu hui hai kui	芦荟海葵	0
+lu ji jing ke dong wu	露脊鲸科动物	0
+lu jia duan wen shi zi yu	陆架短吻狮子鱼	0
+lu jiao chan	鹿角蝉	0
+lu jiao hua shan hu	鹿角花珊瑚	0
+lu jiao lu diao	鹿角芦鲷	0
+lu jiao nang dai chong	鹿角囊袋虫	0
+lu jiao qiao xing chong	鹿角锹形虫	0
+lu jiao san jiao lan chong	鹿角三角篮虫	0
+lu jie xing	颅接型	0
+lu ka mao bi nian	卢卡毛鼻鲶	0
+lu ka si geng quan	卢卡斯梗犬	0
+lu ka ya yu luo	芦卡亚芋螺	0
+lu ke	鯥科	0
+lu ke er ye shi jun	鲁克尔耶氏菌	0
+lu ke shi xian weng	鲁克氏仙鹟	0
+lu ku ye ling	卢库野鲮	0
+lu kuan qiao jian feng	璐宽鞘茧蜂	0
+lu lei ya lou long	卢雷亚楼龙	0
+lu liang he jun piao chong	陆良褐菌瓢虫	0
+lu lu a pi	卢卢阿魮	0
+lu lun zhen xiao li	卢伦真小鲤	0
+lu mao chi chi e	陆毛翅尺蛾	0
+lu mo long shu	卢默龙属	0
+lu mu bi xu ya luo yu	卢姆比须雅罗鱼	0
+lu mu bo sha lun chong	卢姆伯砂轮虫	0
+lu mu shi zun	卢姆氏鳟	0
+lu mu shu	芦木属	0
+lu na wen xiong zhao	路那纹胸鮡	0
+lu nang chong	芦囊虫	0
+lu pei er shi ying wu	鲁佩尔氏鹦鹉	0
+lu qi ya mu	陆栖亚目	0
+lu qin hu bai gui	卢钦湖白鲑	0
+lu rong ruan shan hu	鹿茸软珊瑚	0
+lu se shi si xia hu yu	卢瑟氏丝鰕虎鱼	0
+lu shan hua qiong zhong	庐山华穹螽	0
+lu shan ju xie zhu	庐山巨蟹蛛	0
+lu shan niu tui shan yang	鲁山牛腿山羊	0
+lu sheng mo yuan	陆生膜螈	0
+lu shi ai xia hu yu	路氏矮鰕虎鱼	0
+lu shi ai zhang he yu	卢氏矮长颌鱼	0
+lu shi bian bi li yu	卢氏扁鼻丽鱼	0
+lu shi fu hou	卢氏跗猴	0
+lu shi hei ju	卢氏黑鵙	0
+lu shi hei kou yu	鲁氏黑口鱼	0
+lu shi long tou li yu	鲁氏隆头丽鱼	0
+lu shi mai xia hu yu	卢氏麦鰕虎鱼	0
+lu shi ni dong	卢氏拟鮗	0
+lu shi ni long tai wei	鲁氏拟隆胎鳚	0
+lu shi ni zhen ci shui zao	芦氏拟真刺水蚤	0
+lu shi qie ye feng	芦氏切叶蜂	0
+lu shi san ci jiao chan	路氏三刺角蝉	0
+lu shi si long tou yu	卢氏丝隆头鱼	0
+lu shi tu	卢氏兔	0
+lu shi wu ba hou pan yu	路氏无耙喉盘鱼	0
+lu shi xi xian you nian	芦氏细线油鲶	0
+lu shi xia kou nian	卢氏下口鲶	0
+lu shi xian weng	鲁氏仙鹟	0
+lu shi xiao you nian	鲁氏小油鲶	0
+lu shi ye er hai luo	鲁氏耶尔海螺	0
+lu shi ye ling	鲁氏野鲮	0
+lu shi yi bi	卢氏蚁鵖	0
+lu shi yi nei li yu	露氏依内丽鱼	0
+lu shi yuan tun	路氏圆鲀	0
+lu shi zhang zui lie	卢氏长嘴鱲	0
+lu shui hu wei hou	露水狐尾猴	0
+lu si bo xiao lei shi nian	鲁斯伯小雷氏鲶	0
+lu si duan ti xian chong	卢斯短体线虫	0
+lu si e luo	露丝峨螺	0
+lu si na lao fu quan	卢斯纳劳佛犬	0
+lu si ta ye ling nan ya	露斯塔野鲮南亚	0
+lu sun mu du e	芦笋木蠹蛾	0
+lu sun shi si dian fu ni chong	芦笋十四点负泥虫	0
+lu tai fang ba	芦台鲂鲌	0
+lu tao ze xie	陆桃泽蟹	0
+lu tun ya ke	鹿豚亚科	0
+lu wang wei xian chong	鹿网尾线虫	0
+lu wei bao du e rong jian feng	芦苇豹蠹蛾绒茧蜂	0
+lu wei juan ye zhu	芦苇卷叶蛛	0
+lu wei lv fei shi	芦苇绿飞虱	0
+lu wei xiang jia	芦苇象甲	0
+lu wei ye e	鹿尾夜蛾	0
+lu wei zhang tu fei shi	芦苇长突飞虱	0
+lu wen ye ying	鲁文夜鹰	0
+lu wo kou fu fei ji	鲁沃口孵非鲫	0
+lu wu ling ping gao xi chong	鹭无领平睾吸虫	0
+lu xi cai niu	鲁西菜牛	0
+lu xi ka mo tou yu	露西卡墨头鱼	0
+lu xi ya nuo long	卢西亚诺龙	0
+lu xi zhi kou ling	泸溪直口鲮	0
+lu xing jing ke	陆行鲸科	0
+lu xing ni mian xie	颅形拟绵蟹	0
+lu ya ai zhi li	卢亚矮脂鲤	0
+lu yan yu ke	炉眼鱼科	0
+lu ye bo wen she mu die	鹿野波纹蛇目蝶	0
+lu ye shi jun	鲁耶氏菌	0
+lu yi sha ju xia hu yu	路易莎鮈鰕虎鱼	0
+lu yi shi shuang ji sha	路易氏双髻鲨	0
+lu yi shi tong xiong xiao ye jia	路易氏筒胸肖叶甲	0
+lu yi si an na nai she	路易斯安那奶蛇	0
+lu yi si an na zhou chou you	路易斯安那州臭鼬	0
+lu yi si xia hai long	路伊斯鰕海龙	0
+lu yin chi e	鹿印尺蛾	0
+lu zan en ge shi yu luo	卢赞恩格氏芋螺	0
+lu zhang lv tian niu	路长绿天牛	0
+lu zhu bao luo	露珠宝螺	0
+lu zhu yu shu luo	露珠玉黍螺	0

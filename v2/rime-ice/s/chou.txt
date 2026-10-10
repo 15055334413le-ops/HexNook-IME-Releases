@@ -1,0 +1,897 @@
+chou bei	筹备	133275
+chou cha	抽查	125700
+chou xiang	抽象	122345
+chou yan	抽烟	107725
+chou chu	抽出	102270
+chou jian	筹建	94540
+chou zi	筹资	93655
+chou yang	抽样	85205
+chou hen	仇恨	83655
+chou ji	筹集	76250
+chou qu	抽取	70410
+chou hua	筹划	67375
+chou xiang de	抽象的	61495
+chou ma	筹码	58940
+chou jiang	抽奖	57065
+chou lou	丑陋	55695
+chou cuo	筹措	54335
+chou jian	抽检	52720
+chou diao	抽调	51885
+chou ti	抽屉	45885
+chou xiang lei	抽象类	44620
+chou yang diao cha	抽样调查	44525
+chou chang	惆怅	42640
+chou wen	丑闻	37300
+chou bei gong zuo	筹备工作	36865
+chou yang	臭氧	36750
+chou ren	仇人	35535
+chou chu	抽搐	35355
+chou qian	抽签	34415
+chou dou fu	臭豆腐	33437
+chou le	抽了	31105
+chou le yi bian	抽了一鞭	31105
+chou le yi bian zi	抽了一鞭子	31105
+chou ji zi jin	筹集资金	31055
+chou ban	筹办	30360
+chou wei	臭味	28365
+chou kong	抽空	25145
+chou jin	抽筋	25015
+chou jin	酬金	23685
+chou e	丑恶	23640
+chou xiang fang fa	抽象方法	20568
+chou cuo zi jin	筹措资金	19910
+chou dong	抽动	19325
+chou shui	抽水	18795
+chou you yan ji	抽油烟机	17990
+chou ti li	抽屉里	17685
+chou jiang huo dong	抽奖活动	17505
+chou chu	踌躇	16725
+chou mei	臭美	16700
+chou lao	酬劳	16265
+chou duan	绸缎	15915
+chou yang ceng	臭氧层	15700
+chou xiao zi	臭小子	14580
+chou kuan	筹款	14295
+chou dao	抽到	14010
+chou nv	丑女	13805
+chou shen	抽身	13675
+chou zhe	瞅着	13610
+chou cha zhong	抽查中	13535
+chou shi	仇视	13245
+chou wei hui	筹委会	13170
+chou de	丑的	12960
+chou bei zu	筹备组	12810
+chou xiao ya	丑小鸭	12620
+chou zhe	抽着	12355
+chou di	仇敌	12285
+chou xie	抽血	12060
+chou xue	抽血	12060
+chou mei ku lian	愁眉苦脸	11895
+chou chu shi jian	抽出时间	11810
+chou yan	抽验	11670
+chou qi	臭气	11315
+chou xi	抽吸	11085
+chou yang he ge lv	抽样合格率	10825
+chou jia	仇家	10765
+chou she	抽射	10540
+chou cha jie guo	抽查结果	10360
+chou song	抽送	10000
+chou chou er	抽抽儿	9999
+chou fei bu shou	抽肥补瘦	9999
+chou hu hu	臭乎乎	9999
+chou ren	愁人	9999
+chou ren guang zuo	稠人广坐	9999
+chou shou	抽手	9999
+chou shui	抽税	9999
+chou suo	抽缩	9999
+chou wei er	臭味儿	9999
+chou ying	酬应	9999
+chou zhun	瞅准	9999
+chou zui	臭嘴	9999
+chou shi jian	抽时间	9975
+chou chu man zhi	踌躇满志	9863
+chou hui	抽回	9845
+chou bin	酬宾	9660
+chou xiang si wei	抽象思维	9525
+chou ku	愁苦	9235
+chou hua	丑化	9210
+chou ni	瞅你	8888
+chou ni men	瞅你们	8888
+chou qi	抽齐	8888
+chou sha	瞅啥	8888
+chou sha ne	瞅啥呢	8888
+chou zhi	抽纸	8888
+chou ji dan	臭鸡蛋	8385
+chou ming zhao zhu	臭名昭著	8355
+chou chou	瞅瞅	8325
+chou li	抽离	8295
+chou lian	臭脸	8257
+chou xie	酬谢	8095
+chou chu lai	抽出来	8010
+chou de	抽的	8000
+chou mi	稠密	7900
+chou si	抽死	7777
+chou cha	抽插	7730
+chou zhi	抽脂	7710
+chou tu	丑图	7654
+chou xu	愁绪	7570
+chou chong	臭虫	7535
+chou da	抽打	7505
+chou zhong	抽中	7295
+chou feng	抽风	6955
+chou si	丑死	6666
+chou sha	仇杀	6580
+chou de	臭的	6505
+chou rong	愁容	6335
+chou shi	丑事	6315
+chou qi	抽气	6255
+chou zou	抽走	6245
+chou mei bu zhan	愁眉不展	6040
+chou wan	抽完	6025
+chou nan	丑男	5965
+chou ma	臭骂	5905
+chou qi	臭棋	5810
+chou jue	丑角	5760
+chou dian	抽点	5640
+chou bu	抽不	5555
+chou ni	臭泥	5555
+chou ni za de	瞅你咋的	5555
+chou ni za di	瞅你咋的	5555
+chou si	臭死	5555
+chou cha jian yan	抽查检验	5545
+chou pi	臭屁	5485
+chou le	瞅了	5440
+chou le yi yan	瞅了一眼	5440
+chou yang jian yan	抽样检验	5415
+chou shui ma tong	抽水马桶	5320
+chou bei wei yuan hui	筹备委员会	5235
+chou bei zhong	筹备中	5230
+chou qian	筹钱	5200
+chou yang fang fa	抽样方法	5160
+chou xiang gong chang	抽象工厂	5083
+chou bu chu	抽不出	5050
+chou sha	抽杀	4999
+chou cha le	抽查了	4985
+chou xiang yi shu	抽象艺术	4795
+chou sui	抽穗	4740
+chou diao	抽掉	4625
+chou she	筹设	4555
+chou de	筹得	4510
+chou de	抽得	4490
+chou xiang xing	抽象性	4485
+chou xiang hua	抽象化	4480
+chou nan ren	臭男人	4470
+chou zhen kong	抽真空	4465
+chou bao	丑爆	4444
+chou xiang gong chang mo shi	抽象工厂模式	4426
+chou ba guai	丑八怪	4420
+chou tao chu zi	抽逃出资	4420
+chou tai	丑态	4345
+chou yuan	仇怨	4340
+chou du	稠度	4300
+chou yang jian cha	抽样检查	4245
+chou qu	抽去	4230
+chou xiang ji lei	抽象基类	4202
+chou ji le	筹集了	4065
+chou ya tou	臭丫头	4055
+chou gan	抽干	4010
+chou si	抽丝	4000
+chou qian jue ding	抽签决定	3930
+chou you	臭鼬	3925
+chou yang fa sheng qi	臭氧发生器	3885
+chou xiang gai nian	抽象概念	3870
+chou e xian xiang	丑恶现象	3810
+chou ce	抽测	3770
+chou tao	抽逃	3730
+chou qi zhe	抽泣着	3695
+chou shi ji	抽湿机	3675
+chou qu le	抽取了	3630
+chou wei xiang tou	臭味相投	3630
+chou wa zi	臭袜子	3525
+chou qi xun tian	臭气熏天	3520
+chou ji dao	筹集到	3515
+chou tou	抽头	3515
+chou de yao si	臭得要死	3491
+chou de yao ming	臭得要命	3467
+chou diao	臭掉	3456
+chou xie	臭鞋	3456
+chou shui ji	抽水机	3445
+chou xuan	抽选	3435
+chou he	酬和	3400
+chou yun	愁云	3400
+chou si	愁思	3395
+chou cheng	抽成	3340
+chou pai	抽牌	3333
+chou ri	仇日	3333
+chou bei chu	筹备处	3240
+chou mou	筹谋	3205
+chou you ji	抽油机	3165
+chou chou	抽抽	3130
+chou pai	筹拍	3130
+chou zi wei	愁滋味	3110
+chou guo	抽过	3085
+chou mei	愁眉	3040
+chou chang	愁肠	3035
+chou qi	抽起	3035
+chou xing	丑行	2995
+chou xiang xing zheng xing wei	抽象行政行为	2990
+chou chu zhe	抽搐着	2985
+chou xiang de	抽象地	2965
+chou han	臭汗	2920
+chou nv ren	丑女人	2885
+chou you	抽油	2880
+chou dao	筹到	2865
+chou ti shi	抽屉式	2835
+chou bei hui	筹备会	2830
+chou jin	抽紧	2790
+chou xiang hua	抽象画	2790
+chou hua	稠化	2780
+chou jiao	臭脚	2730
+chou mou	绸缪	2710
+chou men	愁闷	2705
+chou shui	臭水	2680
+chou you	稠油	2665
+chou shang	抽上	2580
+chou dai	绸带	2560
+chou shui gou	臭水沟	2550
+chou zu	筹组	2530
+chou jian	瞅见	2515
+chou kong er	抽空儿	2500
+chou jian chu	筹建处	2480
+chou shi	丑时	2460
+chou tao zi jin	抽逃资金	2455
+chou si le	臭死了	2385
+chou yang de	臭氧的	2365
+chou de yao ming	愁得要命	2318
+chou mei	仇美	2222
+chou ming	臭名	2165
+chou yu	臭鱼	2050
+chou zi	绸子	2035
+chou da	抽搭	1999
+chou xiang shu ju lei xing	抽象数据类型	1950
+chou le chou	瞅了瞅	1945
+chou pi jiang	臭皮匠	1920
+chou kong qu	抽空去	1910
+chou zi cheng ben	筹资成本	1875
+chou chun	臭椿	1870
+chou kao	抽考	1845
+chou dao	抽刀	1835
+chou wei	筹委	1815
+chou ming yuan yang	臭名远扬	1790
+chou de	稠的	1765
+chou mu	筹募	1760
+chou hua zhe	筹划着	1750
+chou huan	抽换	1735
+chou e zui lian	丑恶嘴脸	1685
+chou qian	臭钱	1685
+chou xiang pai	抽象派	1675
+chou bei hui yi	筹备会议	1635
+chou rong man mian	愁容满面	1625
+chou yang nong du	臭氧浓度	1550
+chou xiang ceng ci	抽象层次	1541
+chou tai bai chu	丑态百出	1475
+chou shi	抽湿	1460
+chou hua	丑话	1455
+chou qi sheng	抽泣声	1455
+chou pi nang	臭皮囊	1440
+chou ju	丑剧	1420
+chou si le	愁死了	1407
+chou dong zhe	抽动着	1400
+chou dan	臭蛋	1380
+chou gou	臭狗	1370
+chou lao jiu	臭老九	1360
+chou dong zheng	抽动症	1335
+chou yun can wu	愁云惨雾	1335
+chou de yao si	愁得要死	1321
+chou bu ke wen	臭不可闻	1320
+chou hou	稠厚	1320
+chou hong hong	臭烘烘	1300
+chou shen er qu	抽身而去	1300
+chou kong lai	抽空来	1265
+chou shui zhan	抽水站	1265
+chou yang wu cha	抽样误差	1245
+chou xiang han shu	抽象函数	1242
+chou chou de	臭臭的	1234
+chou jie	筹借	1225
+chou si le	丑死了	1225
+chou da zhe	抽打着	1215
+chou qi	抽泣	1203
+chou chu bu qian	踌躇不前	1180
+chou xian yu	臭咸鱼	1180
+chou chou ye ye	抽抽噎噎	1165
+chou sui qi	抽穗期	1115
+chou bi	丑逼	1111
+chou bu kai	抽不开	1111
+chou bu kai shen	抽不开身	1111
+chou gen	抽根	1111
+chou gen er	抽根儿	1111
+chou gen yan	抽根烟	1111
+chou ka	抽卡	1111
+chou kai	抽开	1111
+chou kai shen	抽开身	1111
+chou kong	瞅空	1111
+chou lian	抽脸	1111
+chou ma	抽吗	1111
+chou sha	愁啥	1111
+chou tuan	丑团	1111
+chou yi gen	抽一根	1111
+chou yong	抽佣	1111
+chou zang	臭脏	1111
+chou zhao	丑照	1111
+chou chu zhe	踌躇着	1090
+chou ya	抽芽	1090
+chou qiu	抽球	1075
+chou tai	抽薹	1075
+chou zuo	酬酢	1075
+chou dao duan shui shui geng liu	抽刀断水水更流	1060
+chou xiang lao dong	抽象劳动	1060
+chou da	酬答	1055
+chou chang	酬唱	1050
+chou ma yi dun	臭骂一顿	1045
+chou chang bai jie	愁肠百结	1030
+chou de yan	抽的烟	1025
+chou you beng	抽油泵	1010
+chou zhi yan	抽支烟	1010
+chou fu xin li	仇富心理	1005
+chou xing	丑星	999
+chou de	臭得	995
+chou lian	丑脸	965
+chou de hen	臭得很	963
+chou fan	愁烦	960
+chou ren	抽人	950
+chou feng ji	抽风机	915
+chou duan zhuang	绸缎庄	900
+chou jia zi	臭架子	885
+chou du	绸都	875
+chou ren xiang jian	仇人相见	865
+chou xiang zhu yi	抽象主义	835
+chou shu	丑数	826
+chou de hen	愁得很	823
+chou huai	愁怀	795
+chou suan	筹算	790
+chou lao gong	臭老公	784
+chou gui	丑鬼	770
+chou chou	稠稠	765
+chou niu	丑牛	740
+chou qiu	臭球	734
+chou bei zhe	筹备着	725
+chou yang	丑样	725
+chou mao	臭猫	720
+chou dao duan shui	抽刀断水	715
+chou guang	抽光	715
+chou lou de ren	丑陋的人	715
+chou duan ban	绸缎般	710
+chou lei	丑类	710
+chou ti yuan li	抽屉原理	704
+chou yan zhe	抽烟者	695
+chou zhou	稠粥	680
+chou zhen	抽帧	678
+chou qi chong tian	臭气冲天	645
+chou yang ji	臭氧机	645
+chou ti xiao guo	抽屉效果	628
+chou tou	臭头	585
+chou ye	抽咽	585
+chou tao chu zi zui	抽逃出资罪	581
+chou le	臭了	580
+chou chu shen	抽出身	570
+chou ge kong	抽个空	570
+chou hu	稠糊	570
+chou yang dong	臭氧洞	555
+chou jia huo	臭家伙	530
+chou qi ji	抽气机	530
+chou chu bu jue	踌躇不决	525
+chou xiang dai shu	抽象代数	522
+chou hua zhe	筹划者	520
+chou xiang	丑相	510
+chou yang fen bu	抽样分布	510
+chou fu	丑妇	495
+chou yun can dan	愁云惨淡	495
+chou qi beng	抽气泵	490
+chou bi zi	抽鼻子	480
+chou gui yu	臭鳜鱼	476
+chou hua shuo zai qian tou	丑话说在前头	475
+chou wa	臭袜	468
+chou wai	仇外	465
+chou le	丑了	444
+chou de yao ming	丑得要命	432
+chou chou da da	抽抽搭搭	420
+chou zhe kuai	仇者快	410
+chou juan	绸绢	385
+chou ming	丑名	385
+chou yi	抽绎	380
+chou de hen	丑得很	379
+chou yi	筹议	375
+chou zhi	抽枝	369
+chou de bu duo	抽得不多	365
+chou chu kong	抽出空	360
+chou yang xiao du ji	臭氧消毒机	355
+chou bu	丑不	333
+chou leng zi	抽冷子	330
+chou wu	绸舞	325
+chou lv	抽滤	321
+chou chu bu ding	踌躇不定	315
+chou gu niang	丑姑娘	315
+chou cheng zhen kong	抽成真空	305
+chou xian	抽闲	305
+chou de qian	抽的签	290
+chou si wo le	愁死我了	290
+chou dui	酬对	280
+chou yang she bei	臭氧设备	280
+chou dou	抽斗	275
+chou kong kan kan	抽空看看	268
+chou cha fa	抽查法	265
+chou shi	臭屎	265
+chou chu qu	抽出去	245
+chou yi chou	瞅一瞅	234
+chou bu	愁不	222
+chou chou ni	瞅瞅你	222
+chou sha bi	臭傻逼	222
+chou si ren	愁死人	222
+chou si ren le	愁死人了	222
+chou dan	臭弹	220
+chou shui tang	臭水塘	220
+chou xian	臭腺	220
+chou wen	抽问	210
+chou liao	绸料	205
+chou lv	愁虑	200
+chou jue se	抽角色	199
+chou shang	筹商	195
+chou gen hua zi	抽根华子	189
+chou ling dan	臭灵丹	187
+chou yi fu	丑衣服	185
+chou wu	愁雾	180
+chou qian yi shi	抽签仪式	176
+chou bu chou	丑不丑	175
+chou bu qi	抽不起	175
+chou yu	愁郁	175
+chou yin ben	抽印本	170
+chou mang he	抽盲盒	165
+chou bu liao	抽不了	155
+chou shan	绸扇	155
+chou mei jin suo	愁眉紧锁	144
+chou jiang fang shi	抽奖方式	136
+chou ding	抽丁	135
+chou jiang ci shu	抽奖次数	132
+chou hua zi	抽华子	131
+chou de xiang	丑得像	130
+chou jiang la	抽奖啦	130
+chou hong hong de	臭烘烘的	128
+chou bu chou	臭不臭	125
+chou shui jing	抽水晶	124
+chou ku	丑哭	123
+chou le chou	抽了抽	123
+chou yi chou	抽一抽	123
+chou jiang ji hui	抽奖机会	121
+chou da jiang	抽大奖	120
+chou mian dan	抽免单	120
+chou ka ji lu	抽卡记录	119
+chou jin yin gen	抽紧银根	115
+chou bao	抽爆	111
+chou bei	抽呗	111
+chou bi	抽鼻	111
+chou bu	绸布	111
+chou ding ba xie	抽钉拔楔	111
+chou duo	抽多	111
+chou duo le	抽多了	111
+chou si ren	臭死人	111
+chou si ren le	臭死人了	111
+chou zhi yan	抽纸烟	111
+chou de yao si	丑得要死	107
+chou chou de	丑丑的	101
+chou an hui	筹安会	100
+chou ba ba	臭爸爸	100
+chou bai le tou	愁白了头	100
+chou ban chu	筹办处	100
+chou bao le	丑爆了	100
+chou bao men	臭宝们	100
+chou bei zi	抽杯子	100
+chou bei zu zu zhang	筹备组组长	100
+chou bi le	丑毙了	100
+chou bi zheng	臭鼻症	100
+chou biao gong	丑表功	100
+chou biao zi	臭婊子	100
+chou bu chou yan a	抽不抽烟啊	100
+chou bu chou yan ba	抽不抽烟吧	100
+chou bu chou yan la	抽不抽烟啦	100
+chou bu chou yan lou	抽不抽烟喽	100
+chou bu chou yan ma	抽不抽烟吗	100
+chou bu chou yan o	抽不抽烟哦	100
+chou bu chou yan wa	抽不抽烟哇	100
+chou bu chou yan ya	抽不抽烟呀	100
+chou bu chu a	抽不出啊	100
+chou bu dai	愁布袋	100
+chou bu ke dang	臭不可当	100
+chou bu si	抽不死	100
+chou bu si ni	抽不死你	100
+chou bu yao lian de	臭不要脸的	100
+chou bu zhun	瞅不准	100
+chou cai dan	抽彩蛋	100
+chou cha he ge lv	抽查合格率	100
+chou cha sheng	抽插声	100
+chou chang cun duan	愁肠寸断	100
+chou chang jiu zhuan	愁肠九转	100
+chou chang qian jie	愁肠千结	100
+chou chang ruo shi	惆怅若失	100
+chou chi chou he	臭吃臭喝	100
+chou chou hua	臭臭花	100
+chou chou ni	臭臭泥	100
+chou chou yu	丑丑鱼	100
+chou chou zui jiao	抽抽嘴角	100
+chou chu bing jian	愁除病减	100
+chou chu le liang xia	抽搐了两下	100
+chou chu le yi xia	抽搐了一下	100
+chou chu qi lai	抽搐起来	100
+chou chu xin gao du	丑出新高度	100
+chou dao mei peng you	丑到没朋友	100
+chou de bao	仇得报	100
+chou de chu qi	丑得出奇	100
+chou de gan gan jing jing	抽得干干净净	100
+chou de hao	抽得好	100
+chou de yi bi	丑得一逼	100
+chou di di	臭弟弟	100
+chou dian zi yan	抽电子烟	100
+chou diao gan bu	抽调干部	100
+chou diao jing gan jing li	抽调精干警力	100
+chou diao jing gan li liang	抽调精干力量	100
+chou diao jing li	抽调警力	100
+chou diao ren yuan	抽调人员	100
+chou diao si	臭屌丝	100
+chou diao xing zhen	抽调刑侦	100
+chou diao ye wu gu gan	抽调业务骨干	100
+chou diao zhuan ren	抽调专人	100
+chou ding ba xie	抽丁拔楔	100
+chou duo bu shao	抽多补少	100
+chou e de zui lian	丑恶的嘴脸	100
+chou e mian mu	丑恶面目	100
+chou e xing jing	丑恶行径	100
+chou fu dai	抽福袋	100
+chou fu ka	抽福卡	100
+chou fu shen qi	臭腐神奇	100
+chou gan jing	抽干净	100
+chou ge da	仇疙瘩	100
+chou ge dan	抽个蛋	100
+chou ge ge	臭哥哥	100
+chou ge yan	抽个烟	100
+chou gen er yan	抽根儿烟	100
+chou geng chou	愁更愁	100
+chou gong bao de	酬功报德	100
+chou guo lun	仇国论	100
+chou hen jiao yu	仇恨教育	100
+chou hen shen nong	仇恨深浓	100
+chou hen zui	仇恨罪	100
+chou hen zui xing	仇恨罪行	100
+chou hong can lv	愁红惨绿	100
+chou hou tui	抽后腿	100
+chou hua zhong da shi xiang	筹划重大事项	100
+chou hua zhong da zi chan chong zu	筹划重大资产重组	100
+chou huan fa	抽换法	100
+chou hui bu kan	臭秽不堪	100
+chou ji fa	筹集法	100
+chou jian he ge lv	抽检合格率	100
+chou jiang gai lv	抽奖概率	100
+chou jiang song ma	抽奖送码	100
+chou jiang song ma huo dong	抽奖送码活动	100
+chou jiang xi tong	抽奖系统	100
+chou jiang xiao zhu shou	抽奖小助手	100
+chou jiang xing shi	抽奖形式	100
+chou jiang zhou	抽奖周	100
+chou jiao ya zi	臭脚丫子	100
+chou jie jie	臭姐姐	100
+chou jin ba pi	抽筋扒皮	100
+chou jin lai	抽进来	100
+chou jin qu	抽进去	100
+chou jun xu	抽军需	100
+chou ka gai lv	抽卡概率	100
+chou ka ji hui	抽卡机会	100
+chou ka xi tong	抽卡系统	100
+chou kong dao	抽空到	100
+chou kong shan	愁空山	100
+chou ku le	丑哭了	100
+chou la la	丑剌剌	100
+chou lao ba	臭老爸	100
+chou le chou bi zi	抽了抽鼻子	100
+chou le dian	丑了点	100
+chou le ge	抽了个	100
+chou le qi	抽了气	100
+chou le qi de qi qiu	抽了气的气球	100
+chou le qi de qi qiu yi ban	抽了气的气球一般	100
+chou le ta yi yan	瞅了他一眼	100
+chou le yi ge	抽了一个	100
+chou le yi kou	抽了一口	100
+chou lei e wu	丑类恶物	100
+chou lei shen	抽雷神	100
+chou liang huan zhu	抽梁换柱	100
+chou lou de yi mian	丑陋的一面	100
+chou luo yuan wang	愁罗怨网	100
+chou ma gao du ji zhong	筹码高度集中	100
+chou ma ji zhong du	筹码集中度	100
+chou ma le	臭骂了	100
+chou ma le yi dun	臭骂了一顿	100
+chou ma mian	筹码面	100
+chou ma shen du	筹码深度	100
+chou mao bing	臭毛病	100
+chou mei chou jiang	抽没抽奖	100
+chou mei chou jiang a	抽没抽奖啊	100
+chou mei chou jiang ya	抽没抽奖呀	100
+chou mei ku yan	愁眉苦眼	100
+chou mei lei yan	愁眉泪眼	100
+chou mei mei	臭妹妹	100
+chou mei suo yan	愁眉锁眼	100
+chou mou le xie shen me	筹谋了些什么	100
+chou mou qian quan	绸缪缱绻	100
+chou mou wei wo	绸缪帷幄	100
+chou mou you hu	绸缪牖户	100
+chou mu dao	筹募到	100
+chou mu yang	臭模样	100
+chou ni xiang	瞅你像	100
+chou ni zhang de xiang	瞅你长得像	100
+chou nu er	丑奴儿	100
+chou nv wu di	丑女无敌	100
+chou nv xiao pin	丑女效颦	100
+chou pan bing shen	愁潘病沈	100
+chou pi qi	臭脾气	100
+chou qi lai	抽起来	100
+chou qi nong du	臭气浓度	100
+chou qi qi	愁戚戚	100
+chou qi su lv	抽气速率	100
+chou qian ma	抽签码	100
+chou qing lv	臭情侣	100
+chou qu di xia shui	抽取地下水	100
+chou qu fu dai	抽取福袋	100
+chou ren duo zuo guai	丑人多作怪	100
+chou ren guang zhong	稠人广众	100
+chou rong zi	筹融资	100
+chou san ba	臭三八	100
+chou sha cheng gong	抽杀成功	100
+chou sha dui	仇杀队	100
+chou sha ye	抽纱业	100
+chou shan men hai	愁山闷海	100
+chou shang lai	抽上来	100
+chou shang qu	抽上去	100
+chou shen er tui	抽身而退	100
+chou shen he	抽申鹤	100
+chou shen me	愁什么	100
+chou shen me feng	抽什么疯	100
+chou shen me feng	抽什么风	100
+chou shen me yan	抽什么烟	100
+chou sheng si yi	丑声四溢	100
+chou sheng yuan bo	丑声远播	100
+chou shi fan wu	抽十返五	100
+chou shi zhen chou	丑是真丑	100
+chou shou hou che	抽手后撤	100
+chou shui beng	抽水泵	100
+chou si la	臭死啦	100
+chou si lou	愁死喽	100
+chou si mang mang	愁思茫茫	100
+chou si ni	抽死你	100
+chou ta yi yan	瞅他一眼	100
+chou tai huan gu	抽胎换骨	100
+chou tong wei	臭铜味	100
+chou tou guai lian	丑头怪脸	100
+chou tou guai nao	丑头怪脑	100
+chou wai di	臭外地	100
+chou wai di de	臭外地的	100
+chou wai xin li	仇外心理	100
+chou wang ba dan	臭王八蛋	100
+chou wen an	丑闻案	100
+chou wen di	抽温迪	100
+chou wen zhi	绸纹纸	100
+chou xi fu	丑媳妇	100
+chou xi fu zong dei yao jian gong po	丑媳妇总得要见公婆	100
+chou xiang ci	抽象词	100
+chou xiang ming ci	抽象名词	100
+chou xiang yu	抽象域	100
+chou xiao gong	抽宵宫	100
+chou xin zhi fei	抽薪止沸	100
+chou xu fa dian	抽蓄发电	100
+chou xue jia	抽雪茄	100
+chou xun xun	臭熏熏	100
+chou ya tou	丑丫头	100
+chou yan bu	抽烟不	100
+chou yan de	抽烟的	100
+chou yan he jiu	抽烟喝酒	100
+chou yan he jiu tiao pi li	抽烟喝酒跳霹雳	100
+chou yan ma	抽烟吗	100
+chou yan pi	抽烟屁	100
+chou yan shi	抽烟室	100
+chou yang fa	抽样法	100
+chou yang li lun	抽样理论	100
+chou yang zi	丑样子	100
+chou yao fan de	臭要饭的	100
+chou yi bu fen	抽一部分	100
+chou yi chu	抽绎出	100
+chou yi ge	抽一个	100
+chou yi ge	瞅一个	100
+chou yi gen er	抽一根儿	100
+chou you pu	臭鼬噗	100
+chou you tian	稠油田	100
+chou you wang	臭鼬王	100
+chou you yan	抽油烟	100
+chou yu mao	臭羽毛	100
+chou yun bei wu	愁云悲雾	100
+chou yun shi zhe	愁云使者	100
+chou yun shi zhe wei gu si	愁云使者薇古丝	100
+chou zei sheng	丑贼生	100
+chou zhe bi zi	抽着鼻子	100
+chou zhe bu hao chi	瞅着不好吃	100
+chou zhe cha bu duo de yan	抽着差不多的烟	100
+chou zhe xiang yan	抽着香烟	100
+chou zhe xue jia	抽着雪茄	100
+chou zhe yan	抽着烟	100
+chou zhe yi zhang lian	臭着一张脸	100
+chou zhen kong xi tong	抽真空系统	100
+chou zhi shou shu	抽脂手术	100
+chou zhong le	抽中了	100
+chou zhou yin hang	稠州银行	100
+chou zi er	臭子儿	100
+chou zi gui mo	筹资规模	100
+chou zui ba	抽嘴巴	100
+chou zui jiao	抽嘴角	100
+chou cao	臭草	99
+chou ti wu	抽提物	98
+chou zi liao de	愁字了得	98
+chou shi	丑史	95
+chou gan	愁感	85
+chou ge qian	抽个签	85
+chou zhuang ding	抽壮丁	85
+chou bei fei yong	筹备费用	65
+chou yin	抽印	65
+chou chou kan	瞅瞅看	64
+chou shui ji zhan	抽水机站	60
+chou zhe ne	愁着呢	60
+chou bu chou	愁不愁	55
+chou kong er	瞅空儿	55
+chou tai bi lu	丑态毕露	51
+chou de bi	抽得比	50
+chou de qi	抽得起	50
+chou mi xing	稠密性	49
+chou ku	臭哭	44
+chou ta	抽他	44
+chou de xiang	稠得像	40
+chou ge kong er	抽个空儿	40
+chou ge tou er	抽个头儿	35
+chou qing	抽青	35
+chou ta	抽她	33
+chou hu hu	稠乎乎	30
+chou po zi	丑婆子	30
+chou ren xiang jian fen wai yan hong	仇人相见分外眼红	30
+chou ge jiang	抽个奖	25
+chou ming zhao zhang	臭名昭彰	25
+chou zhe ne	瞅着呢	25
+chou shen si hai	仇深似海	23
+chou ta	抽它	22
+chou ren	丑人	19
+chou chu wei jue	踌躇未决	16
+chou de xiang	臭得像	15
+chou de chu lai	抽的出来	12
+chou li tou chuan	抽离透传	12
+chou niang niang	丑娘娘	12
+chou mao	丑猫	11
+chou xiao	臭小	11
+chou chang hai yi jiu	惆怅还依旧	10
+chou shi chuan qian li	丑事传千里	10
+chou ti hu tong	抽屉胡同	10
+chou le tian yang zhou chu feng xi shang jian zeng	酬乐天扬州初逢席上见赠	9
+chou qian shen	抽签审	9
+chou ta	瞅他	8
+chou bao	臭宝	7
+chou dong hui yu zong he zheng	抽动秽语综合征	7
+chou gui	臭鬼	7
+chou ju	丑橘	7
+chou niao	臭鸟	7
+chou shou	臭手	7
+chou ta	瞅她	7
+chou wa	臭哇	7
+chou zhu	臭猪	7
+chou gui pai	抽鬼牌	6
+chou shen	酬神	6
+chou shu tang zhen	稠树塘镇	6
+chou si kan chun bu dang chun	愁思看春不当春	6
+chou ta	瞅它	6
+chou wa	丑哇	6
+chou xi zhi ye	畴昔之夜	6
+chou zao xi yang zhi	愁噪夕阳枝	6
+chou de xiang	抽得像	5
+chou jue er	丑角儿	5
+chou ling dan cao	臭灵丹草	5
+chou mou shu xin	绸缪束薪	5
+chou pi dai	臭皮袋	5
+chou wa	丑娃	5
+chou xi fu zong dei jian gong po	丑媳妇总得见公婆	5
+chou han zheng	臭汗症	4
+chou rou	臭肉	4
+chou sha	抽纱	4
+chou shi wai yang	丑事外扬	4
+chou yang ceng zi	臭氧层子	4
+chou yi ya ke	臭蚁亚科	4
+chou yun can dan wan li ning	愁云惨淡万里凝	4
+chou hui	臭秽	3
+chou qian lun ci chang huan fa	抽签轮次偿还法	3
+chou ren guang zuo	稠人广座	3
+chou wa	臭蛙	3
+chou wu tong ye	臭梧桐叶	3
+chou xi	仇隙	3
+chou bao	酬报	2
+chou bei wen	筹备文	2
+chou bu	稠不	2
+chou chang nian ban bai	惆怅年半百	2
+chou chou	仇雠	2
+chou di	丑诋	2
+chou huang dui bai	抽黄对白	2
+chou si	筹思	2
+chou xi	畴昔	2
+chou xian hui bi yuan ze	仇嫌回避原则	2
+chou yan yu shuai bin	愁颜与衰鬓	2
+chou ye	抽噎	2
+chou yuan	仇冤	2
+chou zhang si ma zeng mo	酬张司马赠墨	2
+chou ba you lou	抽拔幽陋	1
+chou bei xue	筹备学	1
+chou bin ming zhao you yi nian	愁鬓明朝又一年	1
+chou bu chou	稠不稠	1
+chou bu qi	抽不齐	1
+chou chang dai jiu shu	愁肠待酒舒	1
+chou chang jiu hui	愁肠九回	1
+chou chang kong zhi si hou hui	惆怅空知思后会	1
+chou chang nan zai shu	惆怅难再述	1
+chou chang nian hua an huan	惆怅年华暗换	1
+chou chang zhong he ji	惆怅中何寄	1
+chou cheng	愁城	1
+chou cheng nan jie	愁城难解	1
+chou chu	愁楚	1
+chou chu er yan hang	踌躇而雁行	1
+chou dan	丑旦	1
+chou dao duan si	抽刀断丝	1
+chou di qu tang guan shang cao	愁抵瞿唐关上草	1
+chou die lian mian	稠迭连绵	1
+chou dou fu shao ang ci yu	臭豆腐烧昂刺鱼	1
+chou duo ye chang	愁多夜长	1
+chou gong gei xiao	酬功给效	1
+chou hai sui wo shang gao lou	愁还随我上高楼	1
+chou hai wu ya	愁海无涯	1
+chou hong yuan lv	愁红怨绿	1
+chou huan shu yao	绸环束腰	1
+chou huang li bai	抽黄俪白	1
+chou jian lu ma	抽简禄马	1
+chou jin ba gu	抽筋拔骨	1
+chou le tian yong lao jian shi	酬乐天咏老见示	1
+chou lei	俦类	1
+chou mei	丑妹	1
+chou mei bu kai	愁眉不开	1
+chou mei bu shu	愁眉不舒	1
+chou mei cu e	愁眉蹙额	1
+chou mei ku mu	愁眉苦目	1
+chou mei lei jie	愁眉泪睫	1
+chou mei zhou yan	愁眉皱眼	1
+chou mi cheng yan	抽秘骋妍	1
+chou mou sang tu	绸缪桑土	1
+chou mou wei yu	绸缪未雨	1
+chou mou wei zhang	绸缪帷帐	1
+chou mou zhang yi	绸缪帐扆	1
+chou ni keng	臭泥坑	1
+chou nuo	抽搦	1
+chou piao qi xia hu yu	丑瓢鳍鰕虎鱼	1
+chou qiang e tai	丑腔恶态	1
+chou qing pei bai	抽青配白	1
+chou qing xiang yu xuan	愁情相与悬	1
+chou ren zheng zai shu chuang xia	愁人正在书窗下	1
+chou ren zhi ye chang	愁人知夜长	1
+chou rou lai ying	臭肉来蝇	1
+chou sha fang nian you	愁杀芳年友	1
+chou shuang ji mao wen hai long	丑双棘矛吻海龙	1
+chou tai jin lu	丑态尽露	1
+chou ti shi yan	抽屉试验	1
+chou tu	丑土	1
+chou weng xiao kou da nan kai	愁翁笑口大难开	1
+chou xi fu shao bu de jian gong po	丑媳妇少不得见公婆	1
+chou xu ming ming	愁绪冥冥	1
+chou xu ru ma	愁绪如麻	1
+chou yan bu zhan	愁颜不展	1
+chou yan wei yan	抽演微言	1
+chou yang ceng hao jie	臭氧层耗竭	1
+chou ying ru liu	酬应如流	1
+chou yun ku wu	愁云苦雾	1
+chou zan san fa	抽簪散发	1
+chou zhu xia hu yu	丑侏鰕虎鱼	1
+chou zi bo cai	畴咨博采	1
+chou zi zhi you	畴咨之忧	1

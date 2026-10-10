@@ -1,0 +1,136 @@
+mie huo	灭火	70725
+mie wang	灭亡	62335
+mie jun	灭菌	54910
+mie shi	灭世	50000
+mie shi	灭失	45830
+mie jue	灭绝	35020
+mie shi	蔑视	28935
+mie huo qi	灭火器	25010
+mie shu	灭鼠	16800
+mie huo xi tong	灭火系统	14975
+mie diao	灭掉	11965
+mie ding zhi zai	灭顶之灾	10995
+mie ba	灭霸	9999
+mie huo ji	灭火剂	9235
+mie kou	灭口	8315
+mie men	灭门	7530
+mie wen	灭蚊	6805
+mie huo	灭活	5555
+mie ping	灭屏	5555
+mie zhi	灭之	4780
+mie mie	咩咩	4665
+mie chong	灭虫	4295
+mie sha	灭杀	3885
+mie jin	灭尽	3810
+mie zu	灭族	3300
+mie ying	灭蝇	2945
+mie le	灭了	2868
+mie chu	灭除	2700
+mie jun qi	灭菌器	2365
+mie jue ren xing	灭绝人性	2225
+mie guo	灭国	2200
+mie shu yao	灭鼠药	2050
+mie di ling	灭滴灵	1715
+mie ding	灭顶	1520
+mie mie	灭灭	1470
+mie ji	灭迹	1460
+mie huo ji	灭火机	1265
+mie shen	灭神	1265
+mie cheng	蔑称	1225
+mie xie	乜斜	1150
+mie men an	灭门案	1095
+mie cha	灭茬	1025
+mie lou	篾篓	999
+mie jun gui	灭菌柜	987
+mie zhong	灭种	890
+mie wen qi	灭蚊器	765
+mie wen deng	灭蚊灯	735
+mie deng	灭灯	680
+mie jiang	篾匠	610
+mie men zhi huo	灭门之祸	545
+mie bu liao	灭不了	490
+mie huang	灭蝗	425
+mie huo yi miao	灭活疫苗	405
+mie pian	篾片	400
+mie huo dan	灭火弹	360
+mie xi	篾席	275
+mie zai	灭灾	240
+mie huo qi xiang	灭火器箱	230
+mie huo dui	灭火队	175
+mie jue zhong zu	灭绝种族	165
+mie ci zhao shi	灭此朝食	155
+mie chong gong si	灭虫公司	139
+mie yi mie	灭一灭	123
+mie zhe	灭着	111
+mie wang xun lei	灭亡迅雷	109
+mie chong ji	灭虫剂	100
+mie chong ning	灭虫宁	100
+mie deng ba	灭灯吧	100
+mie deng le	灭灯了	100
+mie huang xian	灭荒县	100
+mie hun ding	灭魂钉	100
+mie huo de	灭火的	100
+mie huo jiu yuan xing dong	灭火救援行动	100
+mie huo qi yue tuan	灭火器乐团	100
+mie huo xing dong	灭火行动	100
+mie jin sha jue	灭尽杀绝	100
+mie jun nai	灭菌奶	100
+mie jun wen du	灭菌温度	100
+mie le ba	灭了吧	100
+mie le deng	灭了灯	100
+mie le huo	灭了火	100
+mie le men	灭了门	100
+mie le ni	灭了你	100
+mie le ta	灭了他	100
+mie le ta	灭了它	100
+mie le wo	灭了我	100
+mie li yang	咩利羊	100
+mie men ci shi	灭门刺史	100
+mie men de ci shi	灭门的刺史	100
+mie mie jiao	咩咩叫	100
+mie mie mie	咩咩咩	100
+mie mie xie xie	乜乜斜斜	100
+mie mie yang	咩咩羊	100
+mie shen ji	灭神记	100
+mie shi zhe	灭世者	100
+mie shi zhe de si wang zhi mao	灭世者的死亡之帽	100
+mie wen xing dong	灭蚊行动	100
+mie yi si	咩意思	100
+mie yin qi	灭音器	100
+mie zhang shen qi	灭蟑神器	100
+mie zhong zui	灭种罪	100
+mie zhu jie luo chang	灭烛解罗裳	100
+mie zui xiu yin	灭罪修因	100
+mie gong	篾工	85
+mie meng	蠛蠓	80
+mie dao	篾刀	70
+mie huo zhuan yong	灭火专用	65
+mie tuan zhi xing	灭团之星	54
+mie fo	灭佛	44
+mie jun ji shu	灭菌技术	43
+mie zi xing wu	灭资兴无	35
+mie huang	篾黄	30
+mie jun ji	灭菌剂	29
+mie dou de	乜都得	23
+mie huo chu	灭火处	15
+mie jun fa	灭菌法	9
+mie jue ren huan	灭绝人寰	7
+mie zhu lian guang man	灭烛怜光满	6
+mie jun zhu she yong shui	灭菌注射用水	5
+mie men jue hu	灭门绝户	5
+mie liu guo zhe liu guo ye	灭六国者六国也	3
+mie shi tong	灭湿痛	3
+mie huo sha	灭火砂	2
+mie shen zhang	灭神杖	2
+mie de li wei	灭德立违	1
+mie di zhan	灭敌斩	1
+mie guo qu yu	灭虢取虞	1
+mie ji qi jue yan	灭迹栖绝𪩘	1
+mie jing zhui feng	灭景追风	1
+mie lun bei li	蔑伦悖理	1
+mie mo jie zhi	灭魔戒指	1
+mie qing	篾青	1
+mie si feng gong	灭私奉公	1
+mie tian zhi qiang	灭天之枪	1
+mie tiao	篾条	1
+mie zi	篾子	1

@@ -1,0 +1,509 @@
+men hu wang zhan	门户网站	709334
+men pai	门派	502063
+men kou	门口	452560
+men piao	门票	293820
+men hu	门户	237785
+men chuang	门窗	173110
+men kan	门槛	170695
+men qian	门前	167100
+men zhen	门诊	161975
+men wai	门外	161460
+men dian	门店	118195
+men lei	门类	81675
+men jiang	门将	66155
+men suo	门锁	63395
+men shi jia	门市价	58745
+men mian	门面	57625
+men shang	门上	48850
+men xia	门下	47475
+men wei	门卫	32260
+men jin	门禁	29965
+men zhen bu	门诊部	28875
+men nei	门内	27990
+men hou	门后	27290
+men men	闷闷	27160
+men lu	门路	26755
+men shi bu	门市部	24285
+men ban	门板	23595
+men bian	门边	22720
+men ling	门铃	21180
+men li	门里	21105
+men tu	门徒	20180
+men kuang	门框	18875
+men zhong	门中	18495
+men piao jia ge	门票价格	18210
+men ren	门人	17405
+men re	闷热	16690
+men lou	门楼	16565
+men ting	门厅	15935
+men zhu	门主	15435
+men dao	门道	14215
+men pai	门牌	14075
+men zhu	门柱	14040
+men lian	门帘	13650
+men men bu le	闷闷不乐	13210
+men jin xi tong	门禁系统	13180
+men shen	门神	12560
+men mian fang	门面房	12375
+men kai le	门开了	12220
+men tou gou qu	门头沟区	12125
+men ba	门把	11470
+men dong	门洞	11330
+men tou gou	门头沟	11000
+men ya	门牙	10885
+men tou	门头	10620
+men ye	门业	10145
+men cha guan er	门插关儿	9999
+men deng	门灯	9999
+men dong er	门洞儿	9999
+men dou	门斗	9999
+men dun	门墩	9999
+men guan zi	闷罐子	9999
+men lian er	门脸儿	9999
+men shi	门市	9999
+men tong	门童	9999
+men zuo	闷坐	9999
+men feng	门缝	9850
+men pang	门旁	9645
+men ci	门磁	9615
+men piao shou ru	门票收入	9360
+men wai han	门外汉	9340
+men mei	门楣	9310
+men sao	闷骚	9120
+men di	门第	8690
+men xin zi wen	扪心自问	8675
+men sheng	门生	8615
+men zi	门子	8500
+men tao	门套	8480
+men jing mai	门静脉	8280
+men dang hu dui	门当户对	8125
+men kai	门开	8120
+men shan	门扇	7910
+men ting	门庭	7790
+men fang	门房	7285
+men lian	门脸	7265
+men jing	门径	7055
+men pai hao	门牌号	6915
+men re de	闷热的	6835
+men zhen liang	门诊量	6725
+men ba shou	门把手	6520
+men er	门儿	6420
+men dao men	门到门	6345
+men shou	门首	6080
+men ting ruo shi	门庭若市	6080
+men ke	门客	6010
+men lian	门联	5920
+men qiu	门球	5915
+men zai	闷在	5850
+men tou	闷头	5745
+men qiao	门桥	5695
+men lang	门廊	5685
+men de	们的	5555
+men song	门松	5555
+men men	门门	5480
+men qi	闷气	5465
+men kong	门控	5360
+men xian	门限	5160
+men de	闷的	4935
+men le	闷了	4825
+men pai hao ma	门牌号码	4675
+men ji zhen	门急诊	4505
+men shi qi zhong ji	门式起重机	4355
+men de	门的	4351
+men ke luo que	门可罗雀	4190
+men fa	门阀	4185
+men si	闷死	4010
+men kan shang	门槛上	3895
+men qian san bao	门前三包	3780
+men jin kao qin	门禁考勤	3680
+men shuan	门闩	3670
+men hao	门号	3600
+men gui	门规	3595
+men fei	门扉	3570
+men mian	焖面	3333
+men kuang shang	门框上	3210
+men tie	门贴	3190
+men sheng	闷声	3140
+men hu zhan	门户站	3135
+men lei	闷雷	3060
+men jin ji	门禁机	3000
+men qiang	门墙	2970
+men gun	闷棍	2960
+men e	门额	2805
+men ba	门巴	2785
+men hu zhi jian	门户之见	2755
+men dian lu	门电路	2680
+men de	闷得	2625
+men ce	门侧	2565
+men chi	门齿	2550
+men ba zu	门巴族	2470
+men zhen shi	门诊室	2355
+men feng	门风	2240
+men guan	门关	2222
+men huan	门环	2150
+men ting leng luo	门庭冷落	2150
+men zai xin li	闷在心里	2105
+men zhe	闷着	2095
+men zhen bing ren	门诊病人	2095
+men ka	门卡	1975
+men luo	门罗	1970
+men si le	闷死了	1935
+men chuang wu jin	门窗五金	1915
+men chuang chang	门窗厂	1845
+men gang	门岗	1815
+men sheng bu xiang	闷声不响	1745
+men mian mo shi	门面模式	1695
+men de huang	闷得慌	1665
+men zhe tou	闷着头	1555
+men jiu	闷酒	1515
+men hu kai fang	门户开放	1465
+men hu lu	闷葫芦	1390
+men da xia	焖大虾	1364
+men ding	门丁	1340
+men zhen lie	门阵列	1270
+men zhen fei	门诊费	1225
+men bo dong wu wan li chuan	门泊东吴万里船	1180
+men qian liu shui shang neng xi	门前流水尚能西	1180
+men dui mian	门对面	1175
+men qing	门清	1115
+men dui men	门对门	1111
+men heng	闷哼	1111
+men heng le yi sheng	闷哼了一声	1111
+men heng yi sheng	闷哼一声	1111
+men bian	门匾	1085
+men sun	焖笋	1033
+men zhen huan zhe	门诊患者	1015
+men ding	门钉	999
+men jing	门镜	999
+men la shou	门拉手	995
+men niu nan	焖牛腩	968
+men er	闷儿	940
+men qian leng luo	门前冷落	935
+men dong an suan	门冬氨酸	900
+men mei suo	门没锁	900
+men kai guan	门开关	865
+men jin ka	门禁卡	825
+men zhen bu zhu ren	门诊部主任	815
+men shao	焖烧	775
+men yuan xian	门源县	765
+men zhou	门轴	755
+men xin	扪心	750
+men kou	门扣	730
+men zi	焖子	697
+men xiao	闷笑	665
+men kan er	门槛儿	645
+men diao	门吊	610
+men dao	闷到	575
+men ren	闷人	520
+men hu kai fang zheng ce	门户开放政策	500
+men er qing	门儿清	485
+men sheng men qi	闷声闷气	480
+men tie	门帖	475
+men gong	门拱	455
+men sheng fa da cai	闷声发大财	455
+men yuan hui zu zi zhi xian	门源回族自治县	455
+men luo zhu yi	门罗主义	450
+men hu dong kai	门户洞开	440
+men qian leng luo che ma xi	门前冷落车马稀	435
+men zhong ren	门中人	435
+men dao men yun shu	门到门运输	430
+men guan che	闷罐车	325
+men jie	门阶	320
+men jing	门警	290
+men sheng gu li	门生故吏	285
+men qiu yun dong	门球运动	280
+men bing	焖饼	274
+men lian zi	门帘子	270
+men ding rou bing	门钉肉饼	267
+men wei guan hao	门未关好	260
+men men de	闷闷的	251
+men de hen	闷得很	245
+men jin sen yan	门禁森严	245
+men beng	门泵	225
+men jing	门晶	201
+men di xia	门底下	200
+men zu	门卒	180
+men zhu zi	门柱子	179
+men dou mei chu	门都没出	173
+men xian jie wei	门线解围	168
+men yang nan	焖羊腩	168
+men piao qian	门票钱	164
+men bu men	闷不闷	160
+men bian dou	焖扁豆	153
+men tu hui	门徒会	151
+men que kai le	门却开了	148
+men qian da qiao xia	门前大桥下	147
+men bei da kai	门被打开	146
+men bei tui kai	门被推开	145
+men bian kuang	门边框	145
+men huang shan	焖黄鳝	144
+men hu zhi jian	门户之间	140
+men gou rou	焖狗肉	139
+men jiu	门臼	130
+men bei	门背	123
+men yi men	焖一焖	123
+men rou mian	焖肉面	122
+men mian hua	门面话	120
+men sheng gan da shi	闷声干大事	120
+men de si	门德斯	112
+men yan	门檐	112
+men yan er	门檐儿	112
+men guan	闷罐	111
+men xiang	闷响	111
+men zhu	焖煮	111
+men ba shou shang	门把手上	100
+men bu zuo sheng	闷不作声	100
+men chao da hai	门朝大海	100
+men chuang chuan gan qi	门窗传感器	100
+men chuang hang ye	门窗行业	100
+men chuang mu qiang hang ye	门窗幕墙行业	100
+men chuang xi tong	门窗系统	100
+men da bu kai	门打不开	100
+men da kai le	门打开了	100
+men dan hu jin	门殚户尽	100
+men dao hu shuo	门到户说	100
+men de er mi	闷得儿蜜	100
+men de yao si	闷得要死	100
+men dian di tu	门店地图	100
+men dian di zhi	门店地址	100
+men dian dian zhang	门店店长	100
+men dian guan li xi tong	门店管理系统	100
+men dian gui mo	门店规模	100
+men dian mo shi	门店模式	100
+men dian tuo zhan	门店拓展	100
+men dian xi tong	门店系统	100
+men dian zeng zhang	门店增长	100
+men diao er	门吊儿	100
+men dou chu bu qu	门都出不去	100
+men dou guan hao	门都关好	100
+men dou guan hao le	门都关好了	100
+men dou mei you	门都没有	100
+men dui zi	门对子	100
+men dun er	闷墩儿	100
+men er dou mei you	门儿都没有	100
+men fa zhi du	门阀制度	100
+men feng li kan ren	门缝里看人	100
+men guan bu shang	门关不上	100
+men hai chou shan	闷海愁山	100
+men hu da kai	门户大开	100
+men hu xi tong	门户系统	100
+men hu zhi shuo	门户之说	100
+men jie hu xi	门阶户席	100
+men jin guan li xi tong	门禁管理系统	100
+men jin kao qin xi tong	门禁考勤系统	100
+men jin kong zhi xi tong	门禁控制系统	100
+men kai zhe	门开着	100
+men kan de jiang di	门槛的降低	100
+men kan di	门槛低	100
+men kan gao	门槛高	100
+men kan jiang di	门槛降低	100
+men kan luo que	门堪罗雀	100
+men ke bang	门客榜	100
+men ke cheng	门课程	100
+men kou de	门口的	100
+men kou deng wo	门口等我	100
+men kou di dian	门口地垫	100
+men kou ji he	门口集合	100
+men kou xiao ying	门口效应	100
+men li chu shen	门里出身	100
+men li men wai	门里门外	100
+men li ren	门里人	100
+men ling ma	门铃码	100
+men ling xiang le	门铃响了	100
+men lv zhi wang	门闾之望	100
+men mei guan	门没关	100
+men men bu yu	闷闷不语	100
+men men bu yue	闷闷不悦	100
+men men de	闷闷地	100
+men men wu yan	闷闷无言	100
+men mian bei	门面杯	100
+men mian pu xi ren	门面铺席人	100
+men pai zhu di	门派驻地	100
+men piao jiang jia	门票降价	100
+men piao pian yi	门票便宜	100
+men qian men hou	门前门后	100
+men qian qing	门前清	100
+men qian qing xian ding	门前清限定	100
+men qian qing zi mo	门前清自摸	100
+men qian qing zi mo hu	门前清自摸和	100
+men qian xiu jue	门前嗅觉	100
+men re de gan jue	闷热的感觉	100
+men re de tian	闷热的天	100
+men re de tian qi	闷热的天气	100
+men sao xing	闷骚型	100
+men shao guo	焖烧锅	100
+men shao guo	闷烧锅	100
+men shen li bian juan zao ye	门神里边卷灶爷	100
+men shen li jing	扪参历井	100
+men sheng fa cai	闷声发财	100
+men sheng gu jiao	门生故交	100
+men sheng gu jiu	门生故旧	100
+men sheng yue dui	门生乐队	100
+men shi de zao	扪虱得蚤	100
+men shi di zhi	门市地址	100
+men shi er tan	扪虱而谈	100
+men shi er yan	扪虱而言	100
+men suo huai le	门锁坏了	100
+men ting leng luo che ma xi	门庭冷落车马稀	100
+men ting ru shi	门庭如市	100
+men tou he jiu	闷头喝酒	100
+men tu shi yue	门徒誓约	100
+men wai chuan lai	门外传来	100
+men wai di zi	门外弟子	100
+men wai hai	门外还	100
+men wei shi	门卫室	100
+men wu za bin	门无杂宾	100
+men wu za ke	门无杂客	100
+men xi lie	门系列	100
+men xia sheng	门下省	100
+men xie wu yi	门胁舞以	100
+men xin wu kui	扪心无愧	100
+men xin zi xing	扪心自省	100
+men xing ge la de ba he	门兴格拉德巴赫	100
+men ya ta	门牙塔	100
+men yao shi	门钥匙	100
+men you ping	闷油瓶	100
+men yuan su	钔元素	100
+men zen me ye da bu kai	门怎么也打不开	100
+men zhen suo	门诊所	100
+men zhu da ren	门主大人	100
+men zhu jiao	焖猪脚	100
+men zhu shang	门柱上	100
+men zhu shou	焖猪手	100
+men zhu ti	焖猪蹄	100
+men zuo shi qi zhong ji	门座式起重机	100
+men chuang men hu	门窗门户	87
+men jie lie fu	门捷列夫	87
+men qian leng luo an ma xi	门前冷落鞍马稀	86
+men cha xiao	门插销	85
+men tou er	闷头儿	85
+men ye mei you	门也没有	81
+men chen chen	闷沉沉	80
+men mai gao ya	门脉高压	78
+men xian	门线	77
+men bai shan	焖白鳝	71
+men tou gan huo	闷头干活	68
+men wei xing xiang	门卫形象	68
+men ban shou	门扳手	64
+men fan	焖饭	64
+men jing mai gao ya	门静脉高压	63
+men mei you guan	门没有关	63
+men juan	闷倦	60
+men yu tou	焖鱼头	60
+men deng kai guan	门灯开关	55
+men niu rou	焖牛肉	51
+men fang deng ji	门房登记	40
+men jiao tiao	门胶条	37
+men kuang hu tong	门框胡同	33
+men lou xia yao zu xiang	门楼下瑶族乡	32
+men de xiang	闷得像	30
+men hu zhi zheng	门户之争	26
+men mian huo	门面活	25
+men zi che	闷子车	25
+men yan huang hun	门掩黄昏	24
+men dun	闷墩	22
+men bi er	门鼻儿	20
+men bian shi tiao	门边饰条	20
+men fang zhuang tiao	门防撞条	20
+men kong tong dao	门控通道	20
+men yan chi	门延迟	20
+men tou men nao	闷头闷脑	18
+men zhe ne	闷着呢	15
+men pai fang	门牌坊	13
+men qi	门起	12
+men shi	门式	11
+men qian jin zhi ting che	门前禁止停车	10
+men xiang	门响	10
+men dong an suan jia mei	门冬氨酸钾镁	9
+men tou gou ying ju yuan	门头沟影剧院	9
+men shi xiang	门士乡	8
+men tang	门樘	8
+men tou gou quan men	门头沟圈门	8
+men di	门迪	7
+men feng er	门缝儿	7
+men guo	焖锅	7
+men ya zhang	焖鸭掌	7
+men ya zhang er	焖鸭掌儿	7
+men bu xiang	门布乡	6
+men qian chi xing ji	门前迟行迹	6
+men qiang tao li	门墙桃李	6
+men ti niu	门提钮	6
+men yuan	门源	6
+men zai gu li	闷在鼓里	6
+men hu ren jia	门户人家	5
+men liao diao er	门钌铞儿	5
+men qing zi mo	门清自摸	5
+men ti fen liu shu	门体分流术	5
+men wai zhi zhi	门外之治	5
+men dong xian an mei	门冬酰胺酶	4
+men dong yi dao su	门冬胰岛素	4
+men dui zhe jiang chao	门对浙江潮	4
+men lou hu tong	门楼胡同	4
+men tou xin cun	门头新村	4
+men dong yi dao su zhu she ye	门冬胰岛素注射液	3
+men niu she	焖牛舌	3
+men qian feng jing yu lai jia	门前风景雨来佳	3
+men qing long	门清龙	3
+men rou	焖肉	3
+men shi	扪虱	3
+men tou gou bin he xiao qu	门头沟滨河小区	3
+men zhuang xiang	门庄乡	3
+men zui hu lu	闷嘴葫芦	3
+men dong an suan jia	门冬氨酸钾	2
+men guan	门馆	2
+men li	门吏	2
+men liao diao	门钌铞	2
+men qian pai	门前牌	2
+men qian qiu shui ke yang ling	门前秋水可扬舲	2
+men qian wan gan zhu	门前万竿竹	2
+men sui she er chang guan	门虽设而常关	2
+men tan lu	门谭路	2
+men tou gou nan cun	门头沟南村	2
+men xian shi xiang	门限石乡	2
+men bo	门钹	1
+men bu ting bin	门不停宾	1
+men bu ye guan	门不夜关	1
+men bu ye jiong	门不夜扃	1
+men chuang xing	门窗型	1
+men da shuang wei hui die	门答双尾灰蝶	1
+men dao ye hou	门岛叶猴	1
+men dong an suan jia mei zhu she ye	门冬氨酸钾镁注射液	1
+men dong an suan niao an suan	门冬氨酸鸟氨酸	1
+men dong xian an	门冬酰胺	1
+men dui	门对	1
+men fa ren wu	门阀任务	1
+men he tai guo tian luo	门河泰国田螺	1
+men hua shui	焖划水	1
+men jing fu qing xi	门径俯清溪	1
+men ke zhang luo	门可张罗	1
+men kong xiao shuang ding chong	门孔小双顶虫	1
+men lu shao bing	闷炉烧饼	1
+men mei dao ta	门楣倒塌	1
+men na er hu	门纳尔湖	1
+men nei zhi kou	门内之口	1
+men qian ke luo que	门前可罗雀	1
+men qian ruo shi	门前若市	1
+men qian you liu shui	门前有流水	1
+men qian zhuang shi qi ru yun	门前壮士气如云	1
+men ren hou zang zhi	门人厚葬之	1
+men ren yu hou zang zhi	门人欲厚葬之	1
+men sha ji	焖沙鸡	1
+men shan chun	焖山鹑	1
+men shen li jing yang xie xi	扪参历井仰胁息	1
+men sheng gu li zhi duo shao	门生故吏知多少	1
+men tang xiang	门堂乡	1
+men ting he yi	门庭赫奕	1
+men ting zhang zhe che	门听长者车	1
+men tong	闷痛	1
+men tou gou cao jia gou	门头沟曹家沟	1
+men wai bai pao ru li hu	门外白袍如立鹄	1
+men wai cao qi qi	门外草萋萋	1
+men wai han qin hu	门外韩擒虎	1
+men wai wan li	门外万里	1
+men wu ting ke	门无停客	1
+men xi fa xia	扪隙发罅	1
+men xia zhi shi	门下之士	1
+men xiao niu xiong kou	焖小牛胸口	1
+men xin qing ye	扪心清夜	1
+men yang bai cai juan	焖洋白菜卷	1
+men yuan duan xi xiang	门源短喜象	1

@@ -1,0 +1,152 @@
+zhuang ze dong	庄则栋	25496
+zhuang tai lan	状态栏	17155
+zhuang tai zhuan yi	状态转移	13207
+zhuang tai ma	状态码	13169
+zhuang tai ji	状态机	6677
+zhuang shi deng	装饰灯	5954
+zhuang shi duan wan	壮士断腕	5158
+zhuang shi mo shi	装饰模式	4231
+zhuang tai mo shi	状态模式	3536
+zhuang lie xi sheng	壮烈牺牲	3123
+zhuang tai bao cun	状态保存	2849
+zhuang tai tu	状态图	2622
+zhuang shi gong si	装饰公司	2581
+zhuang tai ya suo	状态压缩	2425
+zhuang zu	壮族	2332
+zhuang shi qi mo shi	装饰器模式	1968
+zhuang zi	庄子	1655
+zhuang shi zhe mo shi	装饰者模式	1433
+zhuang xi tong	装系统	1424
+zhuang ya	状压	1242
+zhuang tai fang cheng	状态方程	1136
+zhuang long zuo ya	装聋作哑	1054
+zhuang mu zuo yang	装模作样	983
+zhuang tai zi	状态字	961
+zhuang si	装死	940
+zhuang tai kong jian	状态空间	939
+zhuang tai lan gao du	状态栏高度	924
+zhuang shi she ji mo shi	装饰设计模式	853
+zhuang dian men mian	装点门面	814
+zhuang tai lan yan se	状态栏颜色	687
+zhuang xie fei yong	装卸费用	623
+zhuang qiang zuo shi	装腔作势	486
+zhuang he shi	庄河市	424
+zhuang zhi hao qing	壮志豪情	417
+zhuang ru cheng xu	装入程序	392
+zhuang tai zhuan yi tu	状态转移图	386
+zhuang feng mai sha	装疯卖傻	368
+zhuang zhi wei chou	壮志未酬	337
+zhuang xiang chai xiang	装箱拆箱	326
+zhuang shen nong gui	装神弄鬼	302
+zhuang xiang wen ti	装箱问题	298
+zhuang hu	庄户	295
+zhuang zhi ling yun	壮志凌云	262
+zhuang lang	庄浪	233
+zhuang yuan ji di zhou	状元及第粥	201
+zhuang xin bu yi	壮心不已	183
+zhuang shang	庄上	144
+zhuang tai zhan	状态栈	144
+zhuang ru mo kuai	装入模块	134
+zhuang tou	庄头	116
+zhuang sha chong leng	装傻充愣	113
+zhuang zhou	庄周	112
+zhuang tai dui lie	状态队列	111
+zhuang guan tian xia wu	壮观天下无	109
+zhuang qiao	庄桥	108
+zhuang pei jian	装配件	105
+zhuang hui	庄辉	102
+zhuang nei	庄内	97
+zhuang yong	庄泳	87
+zhuang tai kong jian sou suo	状态空间搜索	71
+zhuang ji shang	撞击伤	65
+zhuang yuan fu	状元府	63
+zhuang li cun	庄里村	62
+zhuang pei tu	装配图	62
+zhuang dian ci guan shan	装点此关山	61
+zhuang zhou meng die	庄周梦蝶	59
+zhuang yuan jie	状元街	55
+zhuang shi yi qu xi bu fu hai	壮士一去兮不复还	41
+zhuang yuan jing	状元境	38
+zhuang li he er bing	庄里合儿饼	34
+zhuang yan	庄岩	33
+zhuang shi bing gan	装饰饼干	32
+zhuang huang men mian	装潢门面	31
+zhuang shang cun	庄上村	30
+zhuang yu	庄羽	23
+zhuang tian	庄田	22
+zhuang yu ting	庄玉庭	21
+zhuang yao jian shen wan	壮腰健肾丸	19
+zhuang qian	庄前	18
+zhuang tai bao zha	状态爆炸	18
+zhuang he xian	庄河县	17
+zhuang shan	庄山	17
+zhuang tai kong jian biao shi	状态空间表示	16
+zhuang xie huo shi jian	装卸货时间	15
+zhuang yun qian jian yan xie yi	装运前检验协议	15
+zhuang zhi ye wu wei	壮志也无违	15
+zhuang fei	庄妃	14
+zhuang yun kuan	庄蕴宽	14
+zhuang zong	庄宗	14
+zhuang jia cun	庄家村	13
+zhuang su	庄肃	13
+zhuang yuan zhou jie dao	状元洲街道	13
+zhuang you gong	庄有恭	12
+zhuang zhi ji can hu lu rou	壮志饥餐胡虏肉	12
+zhuang shi shi nian gui	壮士十年归	11
+zhuang wu	壮武	10
+zhuang tian cun	庄田村	9
+zhuang sheng xiao meng mi hu die	庄生晓梦迷蝴蝶	8
+zhuang yang	庄阳	8
+zhuang ba di sheng wen fu xu	妆罢低声问夫婿	7
+zhuang ta xiang	庄塌乡	7
+zhuang tou yu cun	庄头峪村	7
+zhuang quan	庄泉	6
+zhuang shang zhen	庄上镇	6
+zhuang shi zhuang huang	装饰装璜	6
+zhuang cheng	庄城	5
+zhuang guan	桩冠	5
+zhuang he ji zhen	庄禾集镇	5
+zhuang yao bu shen wan	壮腰补肾丸	5
+zhuang wo	庄窝	4
+zhuang chuo	庄绰	3
+zhuang lou	庄楼	3
+zhuang ren she qu	庄任社区	3
+zhuang xi xiang	壮溪乡	3
+zhuang zhang gong	庄长恭	3
+zhuang zi ying	庄子营	3
+zhuang chang	庄昶	2
+zhuang ding tun cun	壮丁屯村	2
+zhuang gu guan jie wan	壮骨关节丸	2
+zhuang gu shen jin jiao nang	壮骨伸筋胶囊	2
+zhuang jia cha	壮家叉	2
+zhuang nei cun	庄内村	2
+zhuang shan cun	庄山村	2
+zhuang xin yu tian hai	壮心欲填海	2
+zhuang cheng mei bei qiu niang du	妆成每被秋娘妒	1
+zhuang ding	庄顶	1
+zhuang fou you ke ji	庄缶犹可击	1
+zhuang gu guan jie jiao nang	壮骨关节胶囊	1
+zhuang gu she xiang zhi tong gao	壮骨麝香止痛膏	1
+zhuang gu yao jiu	壮骨药酒	1
+zhuang guang sheng fen mian	妆光生粉面	1
+zhuang heng	庄恒	1
+zhuang ke xiang	庄窠乡	1
+zhuang mao ru fu ren	状貌如妇人	1
+zhuang ren	庄任	1
+zhuang shi fa chong guan	壮士发冲冠	1
+zhuang shou jia	庄绶甲	1
+zhuang sui jing qi yong wan fu	壮岁旌旗拥万夫	1
+zhuang tai jiao lv	状态焦虑	1
+zhuang yang chun jiao nang	壮阳春胶囊	1
+zhuang yuan bu shen jiu	壮元补身酒	1
+zhuang yuan lu wei	状元卤味	1
+zhuang zao cun	庄灶村	1
+zhuang ze ru wei shou	庄则入为寿	1
+zhuang zhen feng	庄臻凤	1
+zhuang zhou you yu diao ling zhi fan	庄周游于雕陵之樊	1
+zhuang zi chi gan bu gu	庄子持竿不顾	1
+zhuang zi diao yu pu shui	庄子钓于濮水	1
+zhuang kai pu dun bao luo	壮开普墩宝螺	0
+zhuang ti chang chun bian	壮体长春鳊	0
+zhuang ti deng kong diao	壮体灯孔鲷	0
+zhuang wei huan mao yin	壮伟环毛蚓	0

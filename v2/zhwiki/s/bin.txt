@@ -1,0 +1,1407 @@
+bin ai	滨艾	0
+bin ai fa	宾艾法	0
+bin ai fu li	宾艾佛力	0
+bin ai hua	宾艾化	0
+bin an guang ya bao lian yu	滨岸光牙宝莲鱼	0
+bin an hu xiong nian	滨岸护胸鲶	0
+bin an ri he	滨岸日和	0
+bin an xi wang	邠安僖王	0
+bin an zhen	宾安镇	0
+bin ba shi fu	宾巴师父	0
+bin bai he hao lie che	滨百合号列车	0
+bin bai jia	宾柏加	0
+bin ban che zhan	滨坂车站	0
+bin ban jiu ju	滨斑鸠菊	0
+bin ban zhan	滨坂站	0
+bin bao gao su gong lu	滨保高速公路	0
+bin bao ji tuan	宾堡集团	0
+bin bei che zhan	滨北车站	0
+bin bei da qiao	滨北大桥	0
+bin bei er xian	宾贝尔县	0
+bin bei jie dao	滨北街道	0
+bin bei lei ta ma	宾贝雷塔马	0
+bin bei qu	滨北区	0
+bin bei shi	滨北市	0
+bin bei tie lu	滨北铁路	0
+bin bei xian	滨北线	0
+bin bei zhan	滨北站	0
+bin bei zhuan qu	滨北专区	0
+bin ben dou zhan	滨本斗站	0
+bin ben you wei	滨本由惟	0
+bin bi jia dao	滨比嘉岛	0
+bin bi ya	彬比亚	0
+bin bian bu shi hai tang hong	鬓边不是海棠红	0
+bin bian mei bo	滨边美波	0
+bin bin	彬彬	0
+bin bo	宾博	0
+bin bu cheng	宾步程	0
+bin bu la chi chi chong	宾布菈赤翅虫	0
+bin bu li jin jie wo de	宾布里金杰沃德	0
+bin bu luo suo mu	宾布洛索姆	0
+bin cai xian si shun	彬彩贤斯顺	0
+bin can yu	宾灿昱	0
+bin cao	宾曹	0
+bin cen	宾岑	0
+bin cha wen	宾查文	0
+bin chang zu meng shu	滨长足虻属	0
+bin chen	宾臣	0
+bin cheng	槟城	0
+bin cheng	滨城	0
+bin cheng ba shi	槟城巴士	0
+bin cheng da hui tang	槟城大会堂	0
+bin cheng da qiao	槟城大桥	0
+bin cheng da ying yi xue	槟城大英义学	0
+bin cheng dan gui	槟城单轨	0
+bin cheng di er da qiao	槟城第二大桥	0
+bin cheng dong fang da jiu dian	槟城东方大酒店	0
+bin cheng dong jia jiu dian	槟城东家酒店	0
+bin cheng er qiao	槟城二桥	0
+bin cheng fang	滨城坊	0
+bin cheng fu jian hua	槟城福建话	0
+bin cheng gan zai yuan xiu dao yuan guo min xing hua wen zhong xue	槟城柑仔园修道院国民型华文中学	0
+bin cheng gang kou	槟城港口	0
+bin cheng guan yin ting	槟城观音亭	0
+bin cheng guang fu gong	槟城广福宫	0
+bin cheng guo ji hui yi zhan lan zhong xin	槟城国际会议展览中心	0
+bin cheng guo ji hui zhan zhong xin	槟城国际会展中心	0
+bin cheng guo ji ji chang	槟城国际机场	0
+bin cheng guo ji ti yu jing ji chang	槟城国际体育竞技场	0
+bin cheng guo jia gong yuan	槟城国家公园	0
+bin cheng hai xia	槟城海峡	0
+bin cheng hai zhan	槟城海战	0
+bin cheng han jiang zhong xue	槟城韩江中学	0
+bin cheng heng yi guo min xing hua wen zhong xue	槟城恒毅国民型华文中学	0
+bin cheng heng yi hua wen zhong xue	槟城恒毅华文中学	0
+bin cheng heng yi zhong xue	槟城恒毅中学	0
+bin cheng hu guo ling xiu xun zhang	槟城护国领袖勋章	0
+bin cheng hu guo rong yu xun zhang	槟城护国荣誉勋章	0
+bin cheng hu guo wu da ma xun zhang	槟城护国乌达玛勋章	0
+bin cheng hu guo xiao zhong xun zhang	槟城护国效忠勋章	0
+bin cheng hua	槟城话	0
+bin cheng hua ren	槟城华人	0
+bin cheng hui	槟城徽	0
+bin cheng ji le si	槟城极乐寺	0
+bin cheng jiao tong	槟城交通	0
+bin cheng jiao tong zong ti gui hua	槟城交通总体规划	0
+bin cheng kong sheng miao zhong hua guo min xing hua wen zhong xue	槟城孔圣庙中华国民型华文中学	0
+bin cheng kuai jie tong	槟城快捷通	0
+bin cheng mian si	槟城缅寺	0
+bin cheng min nan yu	槟城闽南语	0
+bin cheng pu ti guo min xing hua wen zhong xue	槟城菩提国民型华文中学	0
+bin cheng qiao zhi shi de li shi	槟城乔治市的历史	0
+bin cheng qu	滨城区	0
+bin cheng she miao	槟城蛇庙	0
+bin cheng sheng qiao zhi jiao tang	槟城圣乔治教堂	0
+bin cheng shi bao	滨城时报	0
+bin cheng shi chang	滨城市场	0
+bin cheng shi li ti yu chang	槟城市立体育场	0
+bin cheng shou xi bu zhang	槟城首席部长	0
+bin cheng shou xun ji jia jiang zhi du	槟城授勋及嘉奖制度	0
+bin cheng shou zhang	槟城首长	0
+bin cheng shui shang qing zhen si	槟城水上清真寺	0
+bin cheng sui cheng sui xia	槟城随乘随下	0
+bin cheng sun zhong shan ji nian guan	槟城孙中山纪念馆	0
+bin cheng tian gong tan	槟城天公坛	0
+bin cheng wo fo si	槟城卧佛寺	0
+bin cheng xie he guo min xing hua wen zhong xue	槟城协和国民型华文中学	0
+bin cheng xie he xiao you hui	槟城协和校友会	0
+bin cheng xuan qu	槟城选区	0
+bin cheng ye jiao jie bai nian guan yin ting	槟城椰脚街百年观音亭	0
+bin cheng yu huang miao	槟城玉皇庙	0
+bin cheng yuan	槟城元	0
+bin cheng yue shu bao she sun zhong shan ji nian guan	槟城阅书报社孙中山纪念馆	0
+bin cheng zhan	滨城站	0
+bin cheng zhen zhu sha tan du jia jiu dian	槟城珍珠沙滩度假酒店	0
+bin cheng zhi luo ba xiang yu hua xiao xue	槟城直落巴巷育华小学	0
+bin cheng zhi min di	槟城殖民地	0
+bin cheng zhi wu yuan	槟城植物园	0
+bin cheng zhi xia zhi min di	槟城直辖殖民地	0
+bin cheng zhi yi	槟城之役	0
+bin cheng zhong huan guang chang	槟城中环广场	0
+bin cheng zhong ling du li zhong xue	槟城锺灵独立中学	0
+bin cheng zhong ling guo min xing hua wen zhong xue	槟城钟灵国民型华文中学	0
+bin cheng zhong ling guo min xing hua wen zhong xue	槟城锺灵国民型华文中学	0
+bin cheng zhong ling hua wen zhong xue	槟城锺灵华文中学	0
+bin cheng zhong yang che zhan	槟城中央车站	0
+bin cheng zhou	槟城州	0
+bin cheng zhou ge	槟城州歌	0
+bin cheng zhou hua wen xiao xue	槟城州华文小学	0
+bin cheng zhou hui	槟城州徽	0
+bin cheng zhou li fa yi hui	槟城州立法议会	0
+bin cheng zhou li qing zhen si	槟城州立清真寺	0
+bin cheng zhou qi	槟城州旗	0
+bin cheng zhou shou xun ji jia jiang zhi du	槟城州授勋及嘉奖制度	0
+bin cheng zhou xing zheng qu hua	槟城州行政区划	0
+bin cheng zhou yi hui	槟城州议会	0
+bin cheng zhou yuan shou	槟城州元首	0
+bin cheng zhou zheng fu	槟城州政府	0
+bin cheng zu qiu hui	槟城足球会	0
+bin cheng zu qiu xie hui	槟城足球协会	0
+bin chuan	宾川	0
+bin chuan guan tong ji chang	宾川官统机场	0
+bin chuan hua qiu	宾川花楸	0
+bin chuan jiao chan	宾川角蟾	0
+bin chuan lu che zhan	滨钏路车站	0
+bin chuan lu ji	滨川路己	0
+bin chuan lu zhan	滨钏路站	0
+bin chuan qi che zhan	滨川崎车站	0
+bin chuan qi zhan	滨川崎站	0
+bin chuan qi zhi xian	滨川崎支线	0
+bin chuan tie xian lian	宾川铁线莲	0
+bin chuan wen miao	宾川文庙	0
+bin chuan wu tou	宾川乌头	0
+bin chuan xian	宾川县	0
+bin chuan xian ji zu shan tong wa dian	宾川县鸡足山铜瓦殿	0
+bin chuan xian ji zu shan zhu sheng si	宾川县鸡足山祝圣寺	0
+bin chuan xian wen wu bao hu dan wei	宾川县文物保护单位	0
+bin chuan zhang ya cai	宾川獐牙菜	0
+bin chuan zhou	宾川州	0
+bin chuang dan che zhan	滨床丹车站	0
+bin chuang dan lin shi cheng jiang chang	滨床丹临时乘降场	0
+bin chuang dan zhan	滨床丹站	0
+bin chun	斌椿	0
+bin chun ke	滨蝽科	0
+bin chun shi tuan	斌椿使团	0
+bin chun shu	滨蝽属	0
+bin ci	宾茨	0
+bin ci bei ge shan	宾茨贝格山	0
+bin ci cao	滨刺草	0
+bin ci cao shu	滨刺草属	0
+bin ci he	宾茨河	0
+bin ci qin	滨刺芹	0
+bin ci wen quan gong	宾茨温泉宫	0
+bin ci zhan qiao	宾茨栈桥	0
+bin cong	髌丛	0
+bin cong xian	宾从县	0
+bin cun che zhan	滨村车站	0
+bin cun hong yi	滨村弘一	0
+bin cun zhan	滨村站	0
+bin cuo ga wa	宾错嘎哇	0
+bin da	宾大	0
+bin da bo wu guan	宾大博物馆	0
+bin da er	宾达尔	0
+bin da ji	滨大戟	0
+bin da jin che zhan	滨大津车站	0
+bin da jin zhan	滨大津站	0
+bin da xiang	宾达乡	0
+bin da xiao guo	宾大效果	0
+bin da xiao ying	宾大效应	0
+bin da ya	宾达亚	0
+bin da ya zhen qu	宾达亚镇区	0
+bin da yi yuan zhan	宾大医院站	0
+bin da yu	宾达语	0
+bin da zha	彬达扎	0
+bin dang gui	滨当归	0
+bin dao	斌道	0
+bin dao	槟岛	0
+bin dao dou	滨刀豆	0
+bin dao du lun ma tou	槟岛渡轮码头	0
+bin dao shi	槟岛市	0
+bin dao shi zheng ting	槟岛市政厅	0
+bin dao yu ying	滨岛裕英	0
+bin de	宾得	0
+bin de	宾德	0
+bin de er	宾德尔	0
+bin de gao su gong lu	滨德高速公路	0
+bin de hu	宾德湖	0
+bin de ji	宾德基	0
+bin de la	宾德拉	0
+bin de la he	宾德拉赫	0
+bin de lai	彬德莱	0
+bin de lei	宾德勒	0
+bin de lei wang	宾德勒王	0
+bin de nai mu	宾德奈姆	0
+bin de sha de lei bing chuan	宾德沙德勒冰川	0
+bin de shi	宾得士	0
+bin de xian	宾德县	0
+bin de xie de lei bing liu	宾德谢德勒冰流	0
+bin de ya	宾德亚	0
+bin de ya zhen qu	宾德亚镇区	0
+bin deng shan mai	宾登山脉	0
+bin di ge di qiu chang	宾迪葛迪球场	0
+bin di ji	宾迪基	0
+bin di liu hei fen jun	宾地瘤黑粉菌	0
+bin di zhen cheng	滨地真澄	0
+bin diao	滨鲷	0
+bin diao shu	滨鲷属	0
+bin dong zhu yu xu	宾动主语序	0
+bin dou	滨豆	0
+bin du	宾杜	0
+bin du la	宾杜拉	0
+bin du luo	宾度罗	0
+bin dui xia shu	滨对虾属	0
+bin dun	宾顿	0
+bin dun bie che zhan	滨顿别车站	0
+bin dun bie ting	滨顿别町	0
+bin dun bie zhan	滨顿别站	0
+bin dun shi ba shi kuai su jiao tong xi tong	宾顿市巴士快速交通系统	0
+bin dun shi min yi yuan	宾顿市民医院	0
+bin duo fu	宾多夫	0
+bin e mu	宾厄姆	0
+bin e mu bing chuan	宾厄姆冰川	0
+bin e mu dun	宾厄姆顿	0
+bin e mu xia gu kuang	宾厄姆峡谷矿	0
+bin e mu xian	宾厄姆县	0
+bin e mu yun shi keng	宾厄姆陨石坑	0
+bin e mu zhen qu	宾厄姆镇区	0
+bin en feng	宾恩峰	0
+bin en guo jia gong yuan	槟恩国家公园	0
+bin er hua shu	滨珥花属	0
+bin er qiao	槟二桥	0
+bin fa cao	滨发草	0
+bin fang	缤放	0
+bin fang feng	滨防风	0
+bin fang feng shu	滨防风属	0
+bin fei jia	宾菲加	0
+bin fei jia ti yu hui	宾菲加体育会	0
+bin fei jia zu qiu hui	宾菲加足球会	0
+bin fen	缤纷	0
+bin fen cai hong	滨纷彩虹	0
+bin fen hai bin dou niu chang	缤纷海滨斗牛场	0
+bin fen jie shu	宾粉蚧属	0
+bin fen le qiao ke li	缤纷乐巧克力	0
+bin fen le yuan	缤纷乐园	0
+bin fen sheng huo	缤纷生活	0
+bin fen xi ni	缤纷悉尼	0
+bin feng	宾峰	0
+bin feng hao lie che	滨风号列车	0
+bin feng hao qu zhu jian	滨风号驱逐舰	0
+bin feng jie dao	豳风街道	0
+bin feng lie che	滨风列车	0
+bin feng tu	豳风图	0
+bin fu shou	宾福寿	0
+bin fu te	宾福特	0
+bin fu te she qu qiu chang	宾福特社区球场	0
+bin fu te zu qiu hui	宾福特足球会	0
+bin ga luo	宾伽罗	0
+bin gang	槟港	0
+bin gang he dian chang	滨冈核电厂	0
+bin gang he dian zhan	滨冈核电站	0
+bin gang tie lu	滨港铁路	0
+bin gang ting che zhan	滨冈町车站	0
+bin gang ting zhan	滨冈町站	0
+bin gang xian	滨港线	0
+bin gao	宾告	0
+bin gao cheng	宾高城	0
+bin gao cheng zu qiu hui	宾高城足球会	0
+bin ge	宾格	0
+bin ge a er	宾格阿尔	0
+bin ge bu lv ke	宾格布吕克	0
+bin ge du li jie gou	宾格独立结构	0
+bin ge er	宾格尔	0
+bin ge er fan ying	宾格尔反应	0
+bin ge er sheng	宾格尔省	0
+bin ge lao	宾格劳	0
+bin ge li	宾格利	0
+bin ge yu yan	宾格语言	0
+bin gen	宾根	0
+bin gen de he de jia	宾根的赫德嘉	0
+bin gen de xi er de jia de	宾根的希尔德加德	0
+bin gen fu jin wei lei	宾根附近魏勒	0
+bin gong chang shuang	滨弓场双	0
+bin gu	髌骨	0
+bin gu ji jian yan	髌骨肌腱炎	0
+bin guan	宾馆	0
+bin guan xi lu zhan	宾馆西路站	0
+bin guang chun	宾光椿	0
+bin guo	宾果	0
+bin guo	豳国	0
+bin guo da zhang gong zhu	邠国大长公主	0
+bin guo gong	豳国公	0
+bin guo gong zhu	邠国公主	0
+bin guo shui	宾果税	0
+bin ha man	宾哈曼	0
+bin hai	滨海	0
+bin hai a er bei si	滨海阿尔卑斯	0
+bin hai a er bei si sheng	滨海阿尔卑斯省	0
+bin hai a he ta er si ke	滨海阿赫塔尔斯克	0
+bin hai a lei ni si	滨海阿雷尼斯	0
+bin hai a re lai si	滨海阿热莱斯	0
+bin hai ai er mang wei er	滨海埃尔芒维尔	0
+bin hai ai ke lei te wei er	滨海埃克雷特维尔	0
+bin hai ai ta bu lei	滨海埃塔布勒	0
+bin hai an na wei er	滨海安娜维尔	0
+bin hai ang ke lei te wei er	滨海昂克雷特维尔	0
+bin hai ao di li	滨海奥地利	0
+bin hai ao guo wei sheng	滨海奥果韦省	0
+bin hai ao ke te wei er	滨海奥克特维尔	0
+bin hai ao luo ne	滨海奥洛讷	0
+bin hai ba	滨海巴	0
+bin hai ba niu er si	滨海巴纽尔斯	0
+bin hai ba yi gang	滨海巴伊港	0
+bin hai bai rong cao	滨海白绒草	0
+bin hai ban jiu ju	滨海斑鸠菊	0
+bin hai bei er wei dai lei	滨海贝尔韦代雷	0
+bin hai bei ke si xi er	滨海贝克斯希尔	0
+bin hai bei la sheng	滨海贝拉省	0
+bin hai bei ni	滨海贝尼	0
+bin hai bei tang ku er	滨海贝唐库尔	0
+bin hai bei wei er	滨海贝维尔	0
+bin hai bei zhan	滨海北站	0
+bin hai bi er qin dun	滨海比尔琴顿	0
+bin hai bi la sa er	滨海比拉萨尔	0
+bin hai bi ni ke ai ta bu lei	滨海比尼克埃塔布勒	0
+bin hai bian jiang qu	滨海边疆区	0
+bin hai bian jiang zhou	滨海边疆州	0
+bin hai bian qu lin shi zheng fu	滨海边区临时政府	0
+bin hai bo li ni ya nuo	滨海波利尼亚诺	0
+bin hai bo lve	滨海博略	0
+bin hai bo na mu	滨海伯纳姆	0
+bin hai bo nei er wei er	滨海伯内尔维尔	0
+bin hai bo sai	滨海博赛	0
+bin hai bo wa	滨海博瓦	0
+bin hai bu lan wei er	滨海布兰维尔	0
+bin hai bu lei di ni ao lei	滨海布雷蒂尼奥勒	0
+bin hai bu lei mu	滨海布雷姆	0
+bin hai bu lei wei er	滨海布雷维尔	0
+bin hai bu li ke wei er	滨海布里克维尔	0
+bin hai bu long wei er	滨海布隆维尔	0
+bin hai bu luo nie	滨海布洛涅	0
+bin hai bu luo nie shi	滨海布洛涅市	0
+bin hai cha biao zi	滨海茶藨子	0
+bin hai ci qin	滨海刺芹	0
+bin hai cu zhi teng	滨海粗指䲢	0
+bin hai da dao	滨海大道	0
+bin hai da dao zhan	滨海大道站	0
+bin hai da qiao	滨海大桥	0
+bin hai da xue	滨海大学	0
+bin hai di ba	滨海堤坝	0
+bin hai di wo	滨海迪沃	0
+bin hai dong pi ai er	滨海栋皮埃尔	0
+bin hai dong zhan	滨海东站	0
+bin hai du luo	滨海杜罗	0
+bin hai e te wei er	滨海厄特维尔	0
+bin hai fa er ke na la	滨海法尔科纳拉	0
+bin hai fang	滨海舫	0
+bin hai feng te nai	滨海丰特奈	0
+bin hai fu lan ka wei la	滨海弗兰卡维拉	0
+bin hai fu si	滨海佛司	0
+bin hai fu si	滨海福斯	0
+bin hai gang zhan	滨海港站	0
+bin hai gang zhen	滨海港镇	0
+bin hai gao su gong lu	滨海高速公路	0
+bin hai gao su gong lu nan bu tong dao	滨海高速公路南部通道	0
+bin hai gao xin qu	滨海高新区	0
+bin hai ge lai	滨海格赖	0
+bin hai ge ne wei er	滨海戈讷维尔	0
+bin hai gong lu	滨海公路	0
+bin hai gong yuan	滨海公园	0
+bin hai gu wei er	滨海古维尔	0
+bin hai gu yuan	滨海古园	0
+bin hai gui tai jiao yi shi chang	滨海柜台交易市场	0
+bin hai guo ji hui zhan zhong xin	滨海国际会展中心	0
+bin hai guo ji ji chang	滨海国际机场	0
+bin hai guo ji ji chang dong zhan	滨海国际机场东站	0
+bin hai guo ji ji chang zhan	滨海国际机场站	0
+bin hai hai xia	滨海海峡	0
+bin hai hang mu zhu ti gong yuan	滨海航母主题公园	0
+bin hai he guo mu	滨海核果木	0
+bin hai he shan qu xian	滨海和山区县	0
+bin hai hou he teng	滨海后颌䲢	0
+bin hai ji bei wei er	滨海基贝维尔	0
+bin hai ji chang	滨海机场	0
+bin hai ji dong	滨海棘鮗	0
+bin hai jian yu	滨海监狱	0
+bin hai jie dao	滨海街道	0
+bin hai ka fu lei la	滨海卡夫雷拉	0
+bin hai ka ma lei	滨海卡马雷	0
+bin hai ka mei er	滨海卡梅尔	0
+bin hai ka nei te	滨海卡内特	0
+bin hai ka nie	滨海卡涅	0
+bin hai ka sa lai	滨海卡萨莱	0
+bin hai ka si te li na	滨海卡斯特利纳	0
+bin hai ka wa lai er	滨海卡瓦莱尔	0
+bin hai ka yue	滨海卡约	0
+bin hai kai sa li ya	滨海凯撒里亚	0
+bin hai kai sa li ya	滨海凯撒利亚	0
+bin hai kan pi li ya	滨海坎皮利亚	0
+bin hai ke ji guan	滨海科技馆	0
+bin hai ke la ke dun	滨海克拉克顿	0
+bin hai ke lei wei er	滨海科勒维尔	0
+bin hai ke li ye lei	滨海克里耶勒	0
+bin hai ke wei er	滨海科维尔	0
+bin hai ku de wei er	滨海库德维尔	0
+bin hai ku er se lei	滨海库尔瑟勒	0
+bin hai ku pu la	滨海库普拉	0
+bin hai kuai su	滨海快速	0
+bin hai kuai xian	滨海快线	0
+bin hai la a mei te li ya	滨海拉阿梅特利亚	0
+bin hai la fu te	滨海拉福特	0
+bin hai la ku a er de	滨海拉库阿尔德	0
+bin hai la pu lai ne	滨海拉普莱讷	0
+bin hai la pu lan	滨海拉普兰	0
+bin hai la sai er wa	滨海拉塞尔瓦	0
+bin hai la sai na	滨海拉塞纳	0
+bin hai la sai ne	滨海拉塞讷	0
+bin hai la te lang shen	滨海拉特朗什	0
+bin hai la te li ni tai	滨海拉特里尼泰	0
+bin hai la yue lei ka na dai lei	滨海拉约勒卡纳代勒	0
+bin hai lai ji yong	滨海莱吉永	0
+bin hai lang ge lv ne	滨海朗格吕讷	0
+bin hai lei ke li yong	滨海勒克利永	0
+bin hai lei nie wei er	滨海勒涅维尔	0
+bin hai lei wei er dong	滨海勒韦尔东	0
+bin hai lei wei wei ye	滨海勒维维耶	0
+bin hai li	滨海利	0
+bin hai li weng	滨海利翁	0
+bin hai long ge	滨海隆格	0
+bin hai long ri wei er	滨海隆日维尔	0
+bin hai long shu	滨海龙属	0
+bin hai lu	滨海路	0
+bin hai lu feng jing qu	滨海路风景区	0
+bin hai lu jie dao	滨海路街道	0
+bin hai luo ke ta si	滨海罗克塔斯	0
+bin hai luo xi ni ya nuo	滨海罗西尼亚诺	0
+bin hai lv ke	滨海吕克	0
+bin hai lv you qu	滨海旅游区	0
+bin hai lve lei te	滨海略雷特	0
+bin hai ma er ge la te	滨海马尔格拉特	0
+bin hai ma er qia na	滨海马尔恰纳	0
+bin hai ma ge da lai na qu	滨海马格达莱纳区	0
+bin hai ma rang ya qu	滨海马让雅区	0
+bin hai ma sa	滨海马萨	0
+bin hai man che si te	滨海曼彻斯特	0
+bin hai mei shu guan	滨海美术馆	0
+bin hai meng ma dan	滨海蒙马丹	0
+bin hai meng te lei yi	滨海蒙特勒伊	0
+bin hai meng te luo suo	滨海蒙特罗索	0
+bin hai meng te luo tong duo	滨海蒙特罗通多	0
+bin hai meng te wei er di	滨海蒙特韦尔迪	0
+bin hai mi ne wei er	滨海米讷维尔	0
+bin hai mo ai lang	滨海莫埃朗	0
+bin hai mo pei er di	滨海莫佩尔蒂	0
+bin hai mo xin bu wa	滨海莫辛布瓦	0
+bin hai mu hao	滨海牡蒿	0
+bin hai mu lan	滨海木蓝	0
+bin hai nan	滨海南	0
+bin hai nan di tie zhan	滨海南地铁站	0
+bin hai nan kai zhong xue zhan	滨海南开中学站	0
+bin hai nan ma tou	滨海南码头	0
+bin hai nan ma tou di tie zhan	滨海南码头地铁站	0
+bin hai nan ma tou zhan	滨海南码头站	0
+bin hai nan zhan	滨海南站	0
+bin hai nei wei er	滨海内维尔	0
+bin hai ni yue lei	滨海尼约勒	0
+bin hai nu wa ye lei	滨海努瓦耶勒	0
+bin hai nuo ya ke	滨海诺雅克	0
+bin hai ou er	滨海欧尔	0
+bin hai ou te wei er	滨海欧特维尔	0
+bin hai ou tuo	滨海欧托	0
+bin hai pei li ya ke	滨海佩里亚克	0
+bin hai pi li ya ke	滨海皮里亚克	0
+bin hai pi nei da	滨海皮内达	0
+bin hai pu la ya	滨海普拉亚	0
+bin hai pu lang	滨海普朗	0
+bin hai pu lei mi ya	滨海普雷米亚	0
+bin hai qi	滨海槭	0
+bin hai qian hu	滨海前胡	0
+bin hai qiao	滨海桥	0
+bin hai qu	滨海区	0
+bin hai qun dao	滨海群岛	0
+bin hai sa er te ben	滨海萨尔特本	0
+bin hai sa fan na	滨海萨凡纳	0
+bin hai sa lei	滨海萨勒	0
+bin hai sa na jia zhou	滨海萨纳加州	0
+bin hai sa na jia zhou	滨海萨那加州	0
+bin hai sa na li	滨海萨纳里	0
+bin hai sai na sheng	滨海塞纳省	0
+bin hai sang di li ya na	滨海桑蒂利亚纳	0
+bin hai sen lin gong yuan	滨海森林公园	0
+bin hai sha lun zhan	滨海沙仑站	0
+bin hai shao sen de	滨海绍森德	0
+bin hai she	滨海蛇	0
+bin hai she qu	滨海社区	0
+bin hai sheng	滨海省	0
+bin hai sheng ai er pi di ao	滨海圣埃尔皮迪奥	0
+bin hai sheng ba tuo luo mei ao	滨海圣巴托洛梅奥	0
+bin hai sheng bo er	滨海圣波尔	0
+bin hai sheng bo lei	滨海圣波勒	0
+bin hai sheng bo nu wa	滨海圣伯努瓦	0
+bin hai sheng bu li ya ke	滨海圣布里亚克	0
+bin hai sheng hu an	滨海圣胡安	0
+bin hai sheng ke lu wa	滨海圣克鲁瓦	0
+bin hai sheng luo lang	滨海圣洛朗	0
+bin hai sheng luo lun zuo	滨海圣洛伦佐	0
+bin hai sheng ma ge li te	滨海圣玛格丽特	0
+bin hai sheng ma li	滨海圣玛丽	0
+bin hai sheng mang de li ye	滨海圣芒德里耶	0
+bin hai sheng ou ban	滨海圣欧班	0
+bin hai sheng pa lai	滨海圣帕莱	0
+bin hai sheng pai er	滨海圣派尔	0
+bin hai sheng si te fan nuo	滨海圣斯特凡诺	0
+bin hai sheng xi er	滨海圣西尔	0
+bin hai sheng ya qu	滨海圣雅屈	0
+bin hai shi	滨海市	0
+bin hai shi bao	滨海时报	0
+bin hai shi qu xian	滨海市区线	0
+bin hai shui ku	滨海水库	0
+bin hai su la ke	滨海苏拉克	0
+bin hai suo er hai mu	滨海索尔海姆	0
+bin hai suo er te ben	滨海索尔特本	0
+bin hai suo te wei er	滨海索特维尔	0
+bin hai tai cao	滨海苔草	0
+bin hai tai er ge lv ke	滨海泰尔格吕克	0
+bin hai tai wu lei	滨海泰乌勒	0
+bin hai te la xi	滨海特拉西	0
+bin hai te lu wei er	滨海特鲁维尔	0
+bin hai tie lu ju	滨海铁路局	0
+bin hai tou zi	滨海投资	0
+bin hai tu shu guan	滨海图书馆	0
+bin hai tuo sa	滨海托萨	0
+bin hai wa lang ri wei er	滨海瓦朗日维尔	0
+bin hai wan	滨海湾	0
+bin hai wan bei jie	滨海弯贝介	0
+bin hai wan di tie zhan	滨海湾地铁站	0
+bin hai wan fu dong wu tai	滨海湾浮动舞台	0
+bin hai wan fu dong yun dong chang	滨海湾浮动运动场	0
+bin hai wan gong yuan	滨海湾公园	0
+bin hai wan hua yuan	滨海湾花园	0
+bin hai wan jie qu sai dao	滨海湾街区赛道	0
+bin hai wan jin rong zhong xin	滨海湾金融中心	0
+bin hai wan jin sha	滨海湾金沙	0
+bin hai wan shi jie sai dao	滨海湾市街赛道	0
+bin hai wan xin qu	滨海湾新区	0
+bin hai wan zhan	滨海湾站	0
+bin hai wei er	滨海韦尔	0
+bin hai wei ke	滨海维克	0
+bin hai wei lai	滨海维莱	0
+bin hai wei si dun	滨海威斯顿	0
+bin hai wei si dun	滨海韦斯顿	0
+bin hai wei si dun zu qiu ju le bu	滨海韦斯顿足球俱乐部	0
+bin hai wei si te gai te	滨海韦斯特盖特	0
+bin hai wei ye te li	滨海维耶特里	0
+bin hai wei ye wei er	滨海维耶维尔	0
+bin hai wen hua zhong xin	滨海文化中心	0
+bin hai wo	滨海沃	0
+bin hai wo lai te	滨海沃莱特	0
+bin hai xi zhan	滨海西站	0
+bin hai xia lang de sheng	滨海夏朗德省	0
+bin hai xian	滨海县	0
+bin hai xiang	滨海乡	0
+bin hai xiao lei mu	滨海肖勒姆	0
+bin hai xin mao	滨海新貌	0
+bin hai xin qu	滨海新区	0
+bin hai xue yuan	滨海学院	0
+bin hai xun hang	滨海巡航	0
+bin hai ya er	滨海雅尔	0
+bin hai yi shan zhan	滨海义山站	0
+bin hai yi shu zhong xin	滨海艺术中心	0
+bin hai yi xi ni	滨海伊西尼	0
+bin hai yu di kong	滨海于蒂孔	0
+bin hai yu ne	滨海于讷	0
+bin hai zhan	滨海站	0
+bin hai zhan dou jian	濒海战斗舰	0
+bin hai zhen	滨海镇	0
+bin hai zhen zhu cai	滨海珍珠菜	0
+bin hai zhong xin	滨海中心	0
+bin hai zhong xin zhan	滨海中心站	0
+bin hai zhong yang shang wu qu zhan	滨海中央商务区站	0
+bin hai zhou	滨海州	0
+bin hai zhuan qu	滨海专区	0
+bin hai zi you cheng	滨海自由城	0
+bin hai zuo zhan tuan	滨海作战团	0
+bin hai zuo zhan zhi hui bu	滨海作战指挥部	0
+bin han	宾汉	0
+bin han dun	宾罕顿	0
+bin han dun	宾汉顿	0
+bin han dun da xue	宾汉顿大学	0
+bin han dun qiang ji an	宾汉顿枪击案	0
+bin han gu tong kuang chang	宾汉谷铜矿场	0
+bin han ji qu zhu jian	宾汉级驱逐舰	0
+bin han liu ti	宾汉流体	0
+bin han long qi	宾汉隆起	0
+bin han mu dun	宾汉姆顿	0
+bin han mu feng	宾汉姆峰	0
+bin han su liao	宾汉塑料	0
+bin han su xing liu ti	宾汉塑性流体	0
+bin hao nei zhi	滨蒿内酯	0
+bin he a er ke lai a	滨河阿尔科莱阿	0
+bin he a lan di li ya	滨河阿兰迪利亚	0
+bin he ao lu la	滨河奥卢拉	0
+bin he ba er de pu la duo	滨河巴尔德普拉多	0
+bin he ba er wei de	滨河巴尔韦德	0
+bin he bi li ya wei de	滨河比利亚韦德	0
+bin he da dao	滨河大道	0
+bin he fu lei si nuo	滨河弗雷斯诺	0
+bin he jia lie ge si	滨河加列戈斯	0
+bin he jie dao	滨河街道	0
+bin he ka la si ka er	滨河卡拉斯卡尔	0
+bin he ka na lai ha si	滨河卡纳莱哈斯	0
+bin he ka si di er bu lan ke	滨河卡斯蒂尔布兰科	0
+bin he kan bo si	滨河坎波斯	0
+bin he ke er mei na er	滨河科尔梅纳尔	0
+bin he ke li ya	滨河科里亚	0
+bin he liang bei nian	滨河亮背鲶	0
+bin he liang ye	滨河粮液	0
+bin he lu	滨河路	0
+bin he lu jie dao	滨河路街道	0
+bin he lu zhan	滨和路站	0
+bin he lu zhan	滨河路站	0
+bin he luo la	滨河洛拉	0
+bin he ma ding	滨河马丁	0
+bin he meng te ma yue er	滨河蒙特马约尔	0
+bin he nei che zhan	滨河内车站	0
+bin he nei zhan	滨河内站	0
+bin he pa er ma	滨河帕尔马	0
+bin he pa luo ma lei si	滨河帕洛马雷斯	0
+bin he pa te na	滨河帕特纳	0
+bin he pei la yue si	滨河佩拉约斯	0
+bin he pi li si	滨河皮里斯	0
+bin he pi nuo	滨河皮诺	0
+bin he que qi nian	滨河缺鳍鲇	0
+bin he sai la di li ya	滨河塞拉迪利亚	0
+bin he sheng he sai	滨河圣何塞	0
+bin he sheng hu an	滨河圣胡安	0
+bin he sheng ke la er	滨河圣克拉尔	0
+bin he sheng ke lai mang	滨河圣克莱芒	0
+bin he sheng la fei er	滨河圣拉斐尔	0
+bin he sheng ma li ya	滨河圣玛丽亚	0
+bin he sheng mi ge er	滨河圣米格尔	0
+bin he sheng ni gu la si	滨河圣尼古拉斯	0
+bin he sheng ou fei mi ya	滨河圣欧费米娅	0
+bin he sheng ou la li ya	滨河圣欧拉利娅	0
+bin he sheng pei de luo	滨河圣佩德罗	0
+bin he sheng pi ai er	滨河圣皮埃尔	0
+bin he sheng qiao zhi	滨河圣乔治	0
+bin he sheng rang	滨河圣让	0
+bin he sheng ri er man	滨河圣日耳曼	0
+bin he sheng yue se fu	滨河圣约瑟夫	0
+bin he ti yu zhong xin	滨河体育中心	0
+bin he tuo la er wa	滨河托拉尔瓦	0
+bin he tuo lei si	滨河托雷斯	0
+bin he xi lu ha lai si	滨河锡鲁哈莱斯	0
+bin he xin cheng nan zhan	滨河新城南站	0
+bin he xin cheng zhan	滨河新城站	0
+bin he xin qu jie dao	滨河新区街道	0
+bin he zhen	滨河镇	0
+bin he zhong xue	滨河中学	0
+bin heng zhen	宾亨镇	0
+bin hou	彬侯	0
+bin hou	斌候	0
+bin hou an che zhan	滨厚岸车站	0
+bin hou an zhan	滨厚岸站	0
+bin hou zhen che zhan	滨厚真车站	0
+bin hou zhen zhan	滨厚真站	0
+bin hu	滨湖	0
+bin hu	滨虎	0
+bin hu a fu li ci	滨湖阿夫里茨	0
+bin hu bai en wei er	滨湖拜恩维尔	0
+bin hu bi er si duo fu	滨湖比尔斯多夫	0
+bin hu bo de er si duo fu	滨湖波德尔斯多夫	0
+bin hu bo de si duo fu	滨湖波德斯多夫	0
+bin hu bo meng	滨湖博蒙	0
+bin hu cai er	滨湖采尔	0
+bin hu da dao	滨湖大道	0
+bin hu duo bin	滨湖多宾	0
+bin hu duo er gen	滨湖多尔根	0
+bin hu e te wei er	滨湖厄特维尔	0
+bin hu fei er de	滨湖费尔德	0
+bin hu fu shi er	滨湖富施尔	0
+bin hu gai si huo en	滨湖盖斯霍恩	0
+bin hu guo jia sen lin gong yuan	滨湖国家森林公园	0
+bin hu ha en	滨湖哈恩	0
+bin hu ha er te er en	滨湖哈尔特尔恩	0
+bin hu ha er teng	滨湖哈尔滕	0
+bin hu hui zhan zhong xin zhan	滨湖会展中心站	0
+bin hu jie dao	滨湖街道	0
+bin hu kai er	滨湖凯尔	0
+bin hu ke er	滨湖克尔	0
+bin hu ke he er	滨湖科赫尔	0
+bin hu ke la ke	滨湖克拉科	0
+bin hu ke yi cha he	滨湖科伊查赫	0
+bin hu ku yi ci duo fu	滨湖库伊茨多夫	0
+bin hu kui ci duo fu	滨湖奎茨多夫	0
+bin hu la sha pei lei di lu	滨湖拉沙佩勒迪卢	0
+bin hu lai xi bu lu ke	滨湖莱希布鲁克	0
+bin hu le suo zi	滨湖勒索兹	0
+bin hu lei bu er xie	滨湖勒布尔歇	0
+bin hu lei lu	滨湖勒卢	0
+bin hu lu zhan	滨湖路站	0
+bin hu lun ci	滨湖伦茨	0
+bin hu luo si hai mu	滨湖洛斯海姆	0
+bin hu luo te	滨湖罗特	0
+bin hu mo er bi shi	滨湖默尔比施	0
+bin hu mu er	滨湖穆尔	0
+bin hu ni ya jia la	滨湖尼亚加拉	0
+bin hu pu lao	滨湖普劳	0
+bin hu qu	滨湖区	0
+bin hu qu tu shu guan	滨湖区图书馆	0
+bin hu sen lin gong yuan	滨湖森林公园	0
+bin hu shan ren	濒湖山人	0
+bin hu shang bang	滨湖尚邦	0
+bin hu shang te lu mu	滨湖上特鲁姆	0
+bin hu she qu	滨湖社区	0
+bin hu sheng ai lai na	滨湖圣埃莱娜	0
+bin hu sheng ma dan	滨湖圣马丹	0
+bin hu shi ji cheng zhan	滨湖世纪城站	0
+bin hu shi tai yin bei ge	滨湖施泰因贝格	0
+bin hu shi tu ben bei ge	滨湖施图本贝格	0
+bin hu ta xing	滨湖塔兴	0
+bin hu tuo er ge luo	滨湖托尔格洛	0
+bin hu wa jing	滨湖瓦京	0
+bin hu wei deng	滨湖魏登	0
+bin hu wei li	滨湖维利	0
+bin hu wei li ye	滨湖韦里耶	0
+bin hu wei wei ye	滨湖维维耶	0
+bin hu wen deng	滨湖温登	0
+bin hu xi fu ling	滨湖席弗灵	0
+bin hu xiang	滨湖乡	0
+bin hu xin cheng	滨湖新城	0
+bin hu xin qu	滨湖新区	0
+bin hu xin xi de er	滨湖新锡德尔	0
+bin hu xin xi de er xian	滨湖新锡德尔县	0
+bin hu yu di kong	滨湖于蒂孔	0
+bin hu zhen	滨湖镇	0
+bin hu zhu yuan zhan	滨湖竹园站	0
+bin hua nv zi guo min xing hua wen zhong xue	槟华女子国民型华文中学	0
+bin hua nv zi zhong xue	槟华女子中学	0
+bin hua xian	宾化县	0
+bin huai	滨槐	0
+bin huai gao su	滨淮高速	0
+bin huai zhen	滨淮镇	0
+bin hui lian	宾惠廉	0
+bin hui zi	滨惠子	0
+bin huo en wen shi jiao long	宾霍恩温氏角龙	0
+bin ji dao	宾吉道	0
+bin ji tai wan xue xiao	槟吉台湾学校	0
+bin ji tai xiao	槟吉台校	0
+bin ji tian che zhan	滨吉田车站	0
+bin ji tian zhan	滨吉田站	0
+bin ji wen	宾纪文	0
+bin jia	宾加	0
+bin jia fei lu hao lie che	滨甲斐路号列车	0
+bin jia ji che zhan	滨加积车站	0
+bin jia ji zhan	滨加积站	0
+bin jia man ke	滨甲螨科	0
+bin jia man shu	滨甲螨属	0
+bin jia man zong ke	滨甲螨总科	0
+bin jia shan	宾加山	0
+bin jia shan	宾嘉山	0
+bin jian dao gu	滨剪刀股	0
+bin jian ren	滨健人	0
+bin jiang	滨江	0
+bin jiang bao long cheng	滨江宝龙城	0
+bin jiang da dao	滨江大道	0
+bin jiang dao	滨江道	0
+bin jiang dong lu	滨江东路	0
+bin jiang dong lu zhan	滨江东路站	0
+bin jiang dong zhan	滨江东站	0
+bin jiang dou	滨豇豆	0
+bin jiang gao jiao yuan qu	滨江高教园区	0
+bin jiang gao xin ji shu kai fa qu	滨江高新技术开发区	0
+bin jiang gong yuan	滨江公园	0
+bin jiang huo che zhan	滨江火车站	0
+bin jiang jie dao	滨江街道	0
+bin jiang kai yuan guang chang	滨江开元广场	0
+bin jiang long hu tian jie	滨江龙湖天街	0
+bin jiang lu	滨江路	0
+bin jiang qu	滨江区	0
+bin jiang qu ti yu guan	滨江区体育馆	0
+bin jiang sen lin gong yuan	滨江森林公园	0
+bin jiang sheng	滨江省	0
+bin jiang shi	滨江市	0
+bin jiang shi zhong	滨江实中	0
+bin jiang ti yu guan	滨江体育馆	0
+bin jiang ting	滨江厅	0
+bin jiang wen hua yuan	滨江文化园	0
+bin jiang xi lu	滨江西路	0
+bin jiang xian	滨江县	0
+bin jiang xiang	滨江乡	0
+bin jiang xin cheng	滨江新城	0
+bin jiang xin qu	滨江新区	0
+bin jiang xue yuan	滨江学院	0
+bin jiang yi lu zhan	滨江一路站	0
+bin jiang yi yuan	滨江医院	0
+bin jiang yin tai	滨江银泰	0
+bin jiang zhan	彬江站	0
+bin jiang zhan	滨江站	0
+bin jiang zhen	彬江镇	0
+bin jiang zhen	滨江镇	0
+bin jiang zhong lu	滨江中路	0
+bin jiao	彬礁	0
+bin jie	滨芥	0
+bin jie li	宾杰里	0
+bin jie li qi yi	宾杰里起义	0
+bin jin gu che zhan	滨金谷车站	0
+bin jin gu zhan	滨金谷站	0
+bin jing hua yuan	滨景花园	0
+bin jing shi li	宾京士利	0
+bin jiu	滨酒	0
+bin ju	滨菊	0
+bin ju he	宾居河	0
+bin ju hua qiao guan li qu	宾居华侨管理区	0
+bin ju hua qiao nong chang	宾居华侨农场	0
+bin ju shu	滨菊属	0
+bin ju zhen	宾居镇	0
+bin jun zhai	宾俊宅	0
+bin kang	宾康	0
+bin kang lu	滨康路	0
+bin kang lu zhan	滨康路站	0
+bin ke	宾客	0
+bin ke	缤客	0
+bin ke shi da	宾科士打	0
+bin ke si jiao	宾科斯角	0
+bin kou ai zi	滨口爱子	0
+bin kou dian zi	滨口典子	0
+bin kou hua cai li	滨口华菜里	0
+bin kou jing zi	滨口京子	0
+bin kou ling nai	滨口绫乃	0
+bin kou long jie	滨口竜介	0
+bin kou long jie	滨口龙介	0
+bin kou nei ge	滨口内阁	0
+bin kou shi lang	滨口史郎	0
+bin kou ting che zhan	滨口町车站	0
+bin kou ting ting liu chang	滨口町停留场	0
+bin kou ting zhan	滨口町站	0
+bin kou xi bo	滨口喜博	0
+bin kou xiong xing	滨口雄幸	0
+bin kou xiu shu	滨口秀树	0
+bin kou yao da	滨口遥大	0
+bin kou you	滨口优	0
+bin kou zhi shu	滨口直树	0
+bin ku cai	滨苦菜	0
+bin la deng	宾拉登	0
+bin la deng zhi si	宾拉登之死	0
+bin lai gao su gong lu	滨莱高速公路	0
+bin lan	宾兰	0
+bin lang	宾朗	0
+bin lang jie dao	斌郎街道	0
+bin lang xiang	斌郎乡	0
+bin lang yu	滨浪鹬	0
+bin lang yu shu	滨浪鹬属	0
+bin lang zhen qu	宾朗镇区	0
+bin li	宾利	0
+bin li	滨藜	0
+bin li	滨李	0
+bin li bing chuan	宾利冰川	0
+bin li fei chi	宾利飞驰	0
+bin li gong en ci ting yuan	滨离宫恩赐庭园	0
+bin li gong ting yuan	滨离宫庭园	0
+bin li hao	滨梨号	0
+bin li mu shang	宾利慕尚	0
+bin li nan hai	宾利男孩	0
+bin li ou lu fei chi	宾利欧陆飞驰	0
+bin li qi che	宾利汽车	0
+bin li shu	滨藜属	0
+bin li tian yue	宾利添越	0
+bin li ye	滨藜叶	0
+bin li ye ke	滨藜叶科	0
+bin li ye long kui	滨黎叶龙葵	0
+bin li ye shu	滨藜叶属	0
+bin li zhuang li	滨藜状藜	0
+bin lian long	滨镰龙	0
+bin lian long shu	滨镰龙属	0
+bin lie long	滨猎龙	0
+bin lie long shu	滨猎龙属	0
+bin lin beng kui bian yuan de nv ren	濒临崩溃边缘的女人	0
+bin lin jue zhong	濒临绝种	0
+bin lin jue zhong ye sheng dong zhi wu guo ji mao yi gong yue	濒临绝种野生动植物国际贸易公约	0
+bin lin xian	宾林县	0
+bin ling	滨柃	0
+bin liu hai kui ke	滨瘤海葵科	0
+bin liu hai kui shu	滨瘤海葵属	0
+bin long	彬龙	0
+bin long hui yi	彬龙会议	0
+bin long xie yi	彬龙协议	0
+bin lu	彬路	0
+bin lu che zhan	滨路车站	0
+bin lu gong yuan zhan	滨路公园站	0
+bin lu jing	滨路晶	0
+bin lu yi shi mu	宾路易师母	0
+bin lu zhan	滨路站	0
+bin luo ke	滨螺科	0
+bin luo shu	滨螺属	0
+bin luo xing mu	滨螺形目	0
+bin ma er	宾马尔	0
+bin ma na	宾马拿	0
+bin ma na	彬马那	0
+bin ma na xian	彬马那县	0
+bin ma na zhen qu	彬马那镇区	0
+bin mai	滨麦	0
+bin man ju shu	滨蔓菊属	0
+bin mei	宾美	0
+bin mei	滨梅	0
+bin mei ren	宾媚人	0
+bin mei tan	滨湄滩	0
+bin mei zhi	滨美枝	0
+bin men	宾门	0
+bin mian shi shang	滨面仕上	0
+bin min	斌敏	0
+bin ming da qiao	滨名大桥	0
+bin ming hao lie che	滨名号列车	0
+bin ming hu	滨名湖	0
+bin ming hu fu wu qu	滨名湖服务区	0
+bin ming hu hua bo	滨名湖花博	0
+bin ming hu qiao	滨名湖桥	0
+bin ming hu zuo jiu mi che zhan	滨名湖佐久米车站	0
+bin ming hu zuo jiu mi zhan	滨名湖佐久米站	0
+bin ming jun	滨名郡	0
+bin ming qu	滨名区	0
+bin ming xiao xing	滨名孝行	0
+bin mu huan	滨木患	0
+bin mu huan shu	滨木患属	0
+bin mu mian	滨木棉	0
+bin mu mian zi	滨木绵子	0
+bin mu xi lan	滨木犀榄	0
+bin na	宾纳	0
+bin na ge er feng	宾纳格尔峰	0
+bin na si	宾娜丝	0
+bin na yue an	宾拿约安	0
+bin na yun di	宾拿云迪	0
+bin nan an	滨南案	0
+bin nan bang	宾南邦	0
+bin nan gao su	宾南高速	0
+bin nan gong ye qu	滨南工业区	0
+bin nen	宾嫩	0
+bin nen hu	宾嫩湖	0
+bin nen ma si	宾嫩马斯	0
+bin nen mi li ci hu	宾嫩米里茨湖	0
+bin ni	宾尼	0
+bin ni chui er tu	宾尼垂耳兔	0
+bin ni di si	宾尼迪斯	0
+bin ni fa li na	宾尼法利纳	0
+bin ni fa rui na	宾尼法瑞纳	0
+bin ni ke	宾尼克	0
+bin ni tu	宾尼兔	0
+bin ni ye he da	宾尼耶赫达	0
+bin ni ye si ti yu hui	宾尼耶斯体育会	0
+bin ning	斌宁	0
+bin ning ba ge hu	宾宁巴格湖	0
+bin ning fu yan jie du da shi	邠宁鄜延节度大使	0
+bin ning gen	宾宁根	0
+bin ning jie du shi	邠宁节度使	0
+bin ning qing jie du du zhi ying tian guan cha shi	邠宁庆节度度支营田观察使	0
+bin ning qing jie du shi	邠宁庆节度使	0
+bin nu	宾努	0
+bin ping che zhan	滨平车站	0
+bin ping zhan	滨平站	0
+bin pu cai nai	滨浦彩乃	0
+bin qi bo si	滨崎博嗣	0
+bin qi bu	滨崎步	0
+bin qi bu	滨琦步	0
+bin qi bu ge qu yi lan	滨崎步歌曲一览	0
+bin qi bu huo jiang ji lu	滨崎步获奖纪录	0
+bin qi bu yan chu ji lu	滨崎步演出纪录	0
+bin qi bu zuo pin mu lu	滨崎步作品目录	0
+bin qi chang hong	滨崎昌弘	0
+bin qi che zhan	滨崎车站	0
+bin qi gong he guo	滨崎共和国	0
+bin qi lai mei	滨崎来美	0
+bin qi li xu	滨崎里绪	0
+bin qi na xian	宾奇纳县	0
+bin qi nai nai	滨崎奈奈	0
+bin qi rong yi lang	滨崎荣一郎	0
+bin qi xian	斌沏县	0
+bin qi ya you mei	滨崎亚由美	0
+bin qi zhan	滨崎站	0
+bin qi zhen xu	滨崎真绪	0
+bin qian hua nang yan	髌前滑囊炎	0
+bin qiao si qu	宾乔斯区	0
+bin qiao xiang	彬桥乡	0
+bin qin gao su gong lu	宾钦高速公路	0
+bin qiu ma shi	滨丘麻矢	0
+bin qu	缤趣	0
+bin qu mai	滨瞿麦	0
+bin rong	滨榕	0
+bin sai si xian	宾塞斯县	0
+bin sen ma	宾森马	0
+bin sen shi dan luo	宾森氏蜑螺	0
+bin sha	宾沙	0
+bin sha xia	宾沙夏	0
+bin shan gong yuan bei kou che zhan	滨山公园北口车站	0
+bin shan gong yuan bei kou zhan	滨山公园北口站	0
+bin shan hu shu	滨珊瑚属	0
+bin shang gu lei gu mu zi	宾尚古勒古穆兹	0
+bin she chuang	滨蛇床	0
+bin she man	宾舍曼	0
+bin sheng lu	滨盛路	0
+bin sheng zi	彬圣子	0
+bin shi	宾士	0
+bin shi di na	宾史迪拿	0
+bin shi gao su gong lu	滨石高速公路	0
+bin shi guang da	滨矢广大	0
+bin shi jiao sai zhi li	宾氏角鳃脂鲤	0
+bin shi li hua jie	宾氏丽花介	0
+bin shi ma	宾施马	0
+bin shi ma	宾士马	0
+bin shi qi che	宾士汽车	0
+bin shi shi	滨世市	0
+bin shi tai te	宾施泰特	0
+bin shi tai te hu	宾施泰特湖	0
+bin shi xian sheng	宾士先生	0
+bin shi yu	宾士域	0
+bin shi yu de ka luo lin	宾士域的卡罗琳	0
+bin shi zhen	宾士镇	0
+bin shi zhen ju kou yu	宾氏真巨口鱼	0
+bin shi zhen shi	宾士镇市	0
+bin shou si	滨寿司	0
+bin shu	豳叔	0
+bin shu ke	滨鼠科	0
+bin shu qi	滨树杞	0
+bin shu shu	滨鼠属	0
+bin shui dai	滨水带	0
+bin si	濒死	0
+bin si che zhan qian che zhan	滨寺车站前车站	0
+bin si che zhan qian ting liu chang	滨寺车站前停留场	0
+bin si che zhan qian zhan	滨寺车站前站	0
+bin si chuan xi	濒死喘息	0
+bin si de di qiu	濒死的地球	0
+bin si duo fu	宾斯多夫	0
+bin si fei er de	宾斯费尔德	0
+bin si gong yuan che zhan	滨寺公园车站	0
+bin si gong yuan zhan	滨寺公园站	0
+bin si hu xi	濒死呼吸	0
+bin si huo teng	宾斯霍滕	0
+bin si jin min zi	滨四津敏子	0
+bin si jing li	濒死经历	0
+bin si jing yan	濒死经验	0
+bin si ti yan	濒死体验	0
+bin si wan gen	宾斯万根	0
+bin si wang gen	宾斯旺根	0
+bin si xian xiang	濒死现象	0
+bin si yan jiu	濒死研究	0
+bin si zhan qian che zhan	滨寺站前车站	0
+bin si zhan qian ting liu chang	滨寺站前停留场	0
+bin si zhan qian zhan	滨寺站前站	0
+bin si zhi yan	濒死之眼	0
+bin song	滨松	0
+bin song che zhan	滨松车站	0
+bin song cheng	滨松城	0
+bin song guo ji gang qin bi sai	滨松国际钢琴比赛	0
+bin song ji di	滨松基地	0
+bin song jiao dao fei xing shi tuan	滨松教导飞行师团	0
+bin song lu jun fei xing xue xiao	滨松陆军飞行学校	0
+bin song shi	滨松市	0
+bin song shi li zhong yang tu shu guan	滨松市立中央图书馆	0
+bin song su	滨松宿	0
+bin song ting	滨松町	0
+bin song ting ba shi zong zhan	滨松町巴士总站	0
+bin song ting che zhan	滨松町车站	0
+bin song ting ke yun zong zhan	滨松町客运总站	0
+bin song ting zhan	滨松町站	0
+bin song xi jiao liu dao	滨松西交流道	0
+bin song xue yuan da xue duan qi da xue bu	滨松学院大学短期大学部	0
+bin song yi ke da xue	滨松医科大学	0
+bin song zhan	滨松站	0
+bin sou	豳叟	0
+bin sui tie lu	滨绥铁路	0
+bin sui xian	滨绥线	0
+bin suo wan	宾索万	0
+bin ta gong gu	宾塔贡古	0
+bin tai gao su gong lu	滨台高速公路	0
+bin tan dao	宾坦岛	0
+bin tan shan xian	宾坦山县	0
+bin te li	宾特利	0
+bin te na	宾特拿	0
+bin te pei	宾特佩	0
+bin te xun	宾特逊	0
+bin te zhu bai lei	宾特朱拜勒	0
+bin tian	宾天	0
+bin tian	殡天	0
+bin tian bang yan	滨田邦彦	0
+bin tian chao guang	滨田朝光	0
+bin tian chao guang	濵田朝光	0
+bin tian che zhan	滨田车站	0
+bin tian cheng	滨田城	0
+bin tian chong yu	滨田崇裕	0
+bin tian cong	滨田聪	0
+bin tian di zhen	滨田地震	0
+bin tian fan	滨田藩	0
+bin tian geng zuo	滨田耕作	0
+bin tian guang	滨田广	0
+bin tian guo song	滨田国松	0
+bin tian hao fu	滨田浩辅	0
+bin tian hong yi	滨田宏一	0
+bin tian ji zhi lang	滨田吉治郎	0
+bin tian jia ji	滨田嘉纪	0
+bin tian jing yi	滨田靖一	0
+bin tian jun ji	滨田骏吉	0
+bin tian long chen	滨田龙臣	0
+bin tian mei sui	滨田美穗	0
+bin tian mi bing wei	滨田弥兵卫	0
+bin tian pu che zhan	滨田浦车站	0
+bin tian pu zhan	滨田浦站	0
+bin tian qian sui	滨田千穗	0
+bin tian ri luo gong yuan dao zhi yi	滨田日落公园道之驿	0
+bin tian shan	滨田山	0
+bin tian shan che zhan	滨田山车站	0
+bin tian shan zhan	滨田山站	0
+bin tian shang li	滨田尚里	0
+bin tian shi	滨田市	0
+bin tian shi jun shu	滨田氏菌属	0
+bin tian shui ku	滨田水库	0
+bin tian sun xiong	滨田隼雄	0
+bin tian tai gui	滨田太贵	0
+bin tian wo te	滨田沃特	0
+bin tian xian	滨田县	0
+bin tian xian er	滨田贤二	0
+bin tian xiang zi	滨田翔子	0
+bin tian ya gong	滨田雅功	0
+bin tian yang ping	滨田洋平	0
+bin tian yi	滨田毅	0
+bin tian yi ji	滨田一纪	0
+bin tian yi yi	滨田义一	0
+bin tian ying ming	滨田英明	0
+bin tian you li	滨田由梨	0
+bin tian yue	滨田岳	0
+bin tian zhan	滨田站	0
+bin tian zhang zi	滨田彰子	0
+bin tian zhen you	滨田真由	0
+bin tian zheng	滨田正	0
+bin tian zhi bo	滨田智博	0
+bin tian zhuang si	滨田庄司	0
+bin tian zi dong che dao	滨田自动车道	0
+bin tiao chong ke	滨跳虫科	0
+bin tie	镔铁	0
+bin ting	滨町	0
+bin ting che zhan	滨町车站	0
+bin ting gong lang che zhan	滨町拱廊车站	0
+bin ting gong lang ting liu chang	滨町拱廊停留场	0
+bin ting gong lang zhan	滨町拱廊站	0
+bin ting shang dian jie che zhan	滨町商店街车站	0
+bin ting shang dian jie ting liu chang	滨町商店街停留场	0
+bin ting shang dian jie zhan	滨町商店街站	0
+bin ting zhan	滨町站	0
+bin ting zhan	滨汀站	0
+bin tong	斌桐	0
+bin tong	滨通	0
+bin tong long	宾瞳胧	0
+bin tong long	宾瞳龙	0
+bin tong long	宾童龙	0
+bin tong long chao	宾童龙朝	0
+bin tong long guo	宾童龙国	0
+bin tong long zhan cheng	宾童龙占城	0
+bin tong long zhan po	宾童龙占婆	0
+bin tong mai shen qi	斌通卖身契	0
+bin tou lu	宾头卢	0
+bin tou lu zun zhe	宾头卢尊者	0
+bin tou sha luo	宾头沙罗	0
+bin tou suo luo	宾头娑罗	0
+bin tu	宾兔	0
+bin tu bi	宾土比	0
+bin tu bi ren	宾土比人	0
+bin tu bi yu	宾土比语	0
+bin tu hou	宾徒侯	0
+bin tu jun wang qi	宾图郡王旗	0
+bin tu ni	宾图尼	0
+bin tu ni wan	宾图尼湾	0
+bin tu qi	宾图旗	0
+bin tu wang	宾图王	0
+bin tu xian wang	宾徒县王	0
+bin tui lu	宾退录	0
+bin tuo	宾托	0
+bin wang	豳王	0
+bin wang	邠王	0
+bin wang lu	宾王录	0
+bin wang zou che zhan	滨网走车站	0
+bin wang zou zhan	滨网走站	0
+bin wei	濒危	0
+bin wei da qiao	槟威大桥	0
+bin wei dong wu	濒危动物	0
+bin wei hai xia	槟威海峡	0
+bin wei jing jie	滨尾京介	0
+bin wei lian	宾威廉	0
+bin wei lin	宾为霖	0
+bin wei shi jie yi chan	濒危世界遗产	0
+bin wei shi jie yi chan ming lu	濒危世界遗产名录	0
+bin wei si lang	滨尾四郎	0
+bin wei wen lang	滨尾文郎	0
+bin wei wu zhong	濒危物种	0
+bin wei ye sheng dong zhi wu wu zhong guo ji mao yi gong yue	濒危野生动植物物种国际贸易公约	0
+bin wei ye sheng dong zhi wu zhong guo ji mao yi gong yue	濒危野生动植物种国际贸易公约	0
+bin wei yu yan	濒危语言	0
+bin wei yu yan hong pi shu	濒危语言红皮书	0
+bin wei zhu jie gou	宾谓主结构	0
+bin wei zu	滨尾组	0
+bin wen gao jiao yuan qu	滨文高教园区	0
+bin wen na	彬文那	0
+bin wo di	宾沃迪	0
+bin wo zheng zhi	滨涡正志	0
+bin wu jiang tai	滨屋将太	0
+bin wu lun	彬乌伦	0
+bin wu lun xian	彬乌伦县	0
+bin wu lun zhen	彬乌伦镇	0
+bin xi bei zhan	宾西北站	0
+bin xi dong zhan	宾西东站	0
+bin xi fa ni de yu	宾夕法尼德语	0
+bin xi fa ni he lan yu	宾夕法尼荷兰语	0
+bin xi fa ni ya	宾夕法尼亚	0
+bin xi fa ni ya	宾西法尼亚	0
+bin xi fan ni ya	宾夕凡尼亚	0
+bin xi fan ni ya da xue	宾夕凡尼亚大学	0
+bin xi fan ni ya lian bang	宾夕凡尼亚联邦	0
+bin xi fan ni ya zhou	宾夕凡尼亚州	0
+bin xi liang	滨西谅	0
+bin xi mi niao	鬓吸蜜鸟	0
+bin xi mu	宾希姆	0
+bin xi you xi zi	滨西由希子	0
+bin xi zhan	宾西站	0
+bin xi zhen	宾西镇	0
+bin xia	滨下	0
+bin xia dong	宾霞洞	0
+bin xia wu zhi	滨下武志	0
+bin xian	宾县	0
+bin xian	彬县	0
+bin xian	滨县	0
+bin xian	邠县	0
+bin xian da fo si	彬县大佛寺	0
+bin xian kai yuan si ta	彬县开元寺塔	0
+bin xian ta	邠县塔	0
+bin xian zhan	彬县站	0
+bin xiang	傧相	0
+bin xiao qing shui che zhan	滨小清水车站	0
+bin xiao qing shui zhan	滨小清水站	0
+bin xie shu	滨蟹属	0
+bin xing	宾兴	0
+bin xing	膑刑	0
+bin xing guan	宾兴馆	0
+bin xing jie dao	滨兴街道	0
+bin xu	宾虚	0
+bin xu chuan	宾虚传	0
+bin xu xin shi ji	宾虚新世纪	0
+bin xuan hua	滨旋花	0
+bin xuan hua shu	滨旋花属	0
+bin xue fa ni ya zhou shou wang tai sheng jing shu	宾雪法尼亚州守望台圣经书	0
+bin ya	彬牙	0
+bin ya wang chao	彬牙王朝	0
+bin ya wang guo	彬牙王国	0
+bin yan	玢岩	0
+bin yan fu mu	滨盐肤木	0
+bin yang	宾阳	0
+bin yang guan hua	宾阳官话	0
+bin yang jie dao	宾阳街道	0
+bin yang men zhan	宾阳门站	0
+bin yang xian	宾阳县	0
+bin yang zhan	宾阳站	0
+bin yang zhan dou	宾阳战斗	0
+bin yang zhong xue	宾阳中学	0
+bin yang zhuan qu	宾阳专区	0
+bin yao lie shi ji nian ci	滨药烈士纪念祠	0
+bin ye	宾页	0
+bin ye che zhan	滨野车站	0
+bin ye chun	滨野纯	0
+bin ye da hui	滨野大辉	0
+bin ye mi si lang	滨野弥四郎	0
+bin ye qian tai	滨野谦太	0
+bin ye wu xiang	滨野舞香	0
+bin ye yi san	滨野一三	0
+bin ye yu er	滨野裕二	0
+bin ye zhan	滨野站	0
+bin ye zhen xiang	滨野真香	0
+bin yi	殡仪	0
+bin yi cun	滨益村	0
+bin yi guan	殡仪馆	0
+bin yi jun	滨益郡	0
+bin yi qu	滨益区	0
+bin yi ye	殡仪业	0
+bin yu	宾语	0
+bin yu bian dai xi chong	滨鹬鞭带吸虫	0
+bin yu ge	宾语格	0
+bin yu mie jue de shi da wu zhong	濒于灭绝的十大物种	0
+bin yu rui	滨玉蕊	0
+bin yu shu	滨鹬属	0
+bin yu ying	彬与瑛	0
+bin yu zan	宾玉瓒	0
+bin yuan che zhan	滨原车站	0
+bin yuan zhan	滨原站	0
+bin yue ge	宾约哥	0
+bin yue ge zu qiu hui	宾约哥足球会	0
+bin yue ge zu qiu ju le bu	宾约哥足球俱乐部	0
+bin zai	彬仔	0
+bin zai	斌仔	0
+bin zang	殡葬	0
+bin zang xue	殡葬学	0
+bin zang ye	殡葬业	0
+bin zao	滨枣	0
+bin zao shu	滨枣属	0
+bin zhan xian	滨沾线	0
+bin zheng wu	滨正悟	0
+bin zhi	宾治	0
+bin zhi	槟椥	0
+bin zhi gong che zhan	滨之宫车站	0
+bin zhi gong zhan	滨之宫站	0
+bin zhi jiu	宾治酒	0
+bin zhi sheng	槟椥省	0
+bin zhi sheng	槟知省	0
+bin zhi shi	槟椥市	0
+bin zhi shi	槟知市	0
+bin zhi shi she	槟椥市社	0
+bin zhi shi she	槟知市社	0
+bin zhi xi zhan	宾治西站	0
+bin zhong che zhan	滨中车站	0
+bin zhong hai shui yu chang che zhan	滨中海水浴场车站	0
+bin zhong hai shui yu chang zhan	滨中海水浴场站	0
+bin zhong ting	滨中町	0
+bin zhong ting ying gui dao	滨中町营轨道	0
+bin zhong zhan	滨中站	0
+bin zhong zhi	滨中治	0
+bin zhou	宾周	0
+bin zhou	宾州	0
+bin zhou	宾舟	0
+bin zhou	彬州	0
+bin zhou	槟州	0
+bin zhou	滨州	0
+bin zhou	濵州	0
+bin zhou	豳州	0
+bin zhou	邠州	0
+bin zhou bei zhan	滨州北站	0
+bin zhou bo li heng	宾州伯利恒	0
+bin zhou che zhan	宾州车站	0
+bin zhou che zhan san ming zhi	宾州车站三明治	0
+bin zhou cheng qiang yi zhi	滨州城墙遗址	0
+bin zhou da dao	宾州大道	0
+bin zhou da xue	宾州大学	0
+bin zhou da xue	宾洲大学	0
+bin zhou da xue fa xue yuan	宾州大学法学院	0
+bin zhou dang an	宾州档案	0
+bin zhou de guo ren	宾州德国人	0
+bin zhou de yu	宾州德语	0
+bin zhou di qu	滨州地区	0
+bin zhou dong nan bu ji hua sheng yu zu zhi su kai xi an	宾州东南部计划生育组织诉凯西案	0
+bin zhou dong nan di qu jiao tong ju	宾州东南地区交通局	0
+bin zhou dong zhan	彬州东站	0
+bin zhou dong zhan	滨州东站	0
+bin zhou duo fo xue qu an	宾州多佛学区案	0
+bin zhou fu	宾州府	0
+bin zhou gong bei yi	宾州弓背蚁	0
+bin zhou guang chang yi hao	宾州广场一号	0
+bin zhou hao dao dan hu wei jian	滨州号导弹护卫舰	0
+bin zhou hua ren da hui tang	槟州华人大会堂	0
+bin zhou hui long zu qiu ju le bu	彬州辉龙足球俱乐部	0
+bin zhou jia fang wen hua jie	滨州家纺文化节	0
+bin zhou lu	宾州路	0
+bin zhou nan qiao	宾州南桥	0
+bin zhou rou bing jie	宾州肉饼节	0
+bin zhou shi	彬州市	0
+bin zhou shi	滨州市	0
+bin zhou shi fan zhuan ke xue xiao	滨州师范专科学校	0
+bin zhou shou fei gong lu	宾州收费公路	0
+bin zhou shou xi bu zhang	槟州首席部长	0
+bin zhou tie lu	宾州铁路	0
+bin zhou tie lu	滨州铁路	0
+bin zhou tie lu	滨洲铁路	0
+bin zhou ting	宾州厅	0
+bin zhou xian	宾州线	0
+bin zhou xian	滨洲线	0
+bin zhou xue yuan	滨州学院	0
+bin zhou yi xue yuan	滨州医学院	0
+bin zhou yin di an na da xue	宾州印第安那大学	0
+bin zhou zhan	宾州站	0
+bin zhou zhan	彬州站	0
+bin zhou zhan	滨州站	0
+bin zhou zhen	宾州镇	0
+bin zhou zhi li ting	宾州直隶厅	0
+bin zhou zhi li zhou	滨州直隶州	0
+bin zhou zhi li zhou	邠州直隶州	0
+bin zhou zhi zhan	邠州之战	0
+bin zhou zhong yang jiao tong gong si	宾州中央交通公司	0
+bin zhou zhong yang tie lu	宾州中央铁路	0
+bin zhou zhou li	宾州州立	0
+bin zhou zhou li da xue xing qin er tong chou wen	宾州州立大学性侵儿童丑闻	0
+bin zhu dong yu xu	宾主动语序	0
+bin zhu wei jie gou	宾主谓结构	0
+bin zi cao	滨紫草	0
+bin zi cao shu	滨紫草属	0
+bin zi nv wang	彬子女王	0
+bin zuo lv jian che zhan	滨佐吕间车站	0
+bin zuo lv jian zhan	滨佐吕间站	0

@@ -1,0 +1,2983 @@
+yao qiu	要求	504204
+yao pin	药品	500447
+yao wu	药物	500382
+yao de	要的	500330
+yao you	要有	500312
+yao qing	邀请	500306
+yao zai	要在	500293
+yao ba	要把	493875
+yao shi	要是	451000
+yao su	要素	367885
+yao kong	遥控	363210
+yao zhu yi	要注意	341785
+yao xiang	要想	329440
+yao zai	咬在	300030
+yao cong	要从	286030
+yao zuo	要做	282305
+yao dian	要点	272425
+yao yong	要用	269735
+yao qu	要去	265435
+yao jia qiang	要加强	264880
+yao kong qi	遥控器	253975
+yao yi	要以	242025
+yao me	要么	236655
+yao jiang	要将	219340
+yao bi	要比	217650
+yao dui	要对	209995
+yao shi	钥匙	206595
+yao rang	要让	197245
+yao bu	要不	196190
+yao kan	要看	192165
+yao ren zhen	要认真	175780
+yao jian chi	要坚持	165310
+yao chong fen	要充分	156110
+yao shuo	要说	152040
+yao zhi dao	要知道	147280
+yao jin yi bu	要进一步	144990
+yao gen ju	要根据	142080
+yao yu	要与	141655
+yao dian	药店	140830
+yao tou	摇头	139030
+yao yue	要约	133850
+yao tong guo	要通过	133700
+yao pin jian du guan li	药品监督管理	131025
+yao gun	摇滚	129895
+yao he	要和	129410
+yao dao	要到	127830
+yao gei	要给	127255
+yao duo	要多	126270
+yao xiang	要向	119510
+yao wo	要我	118990
+yao jian li	要建立	117765
+yao hao	要好	115330
+yao wei	要为	115285
+yao zou	要走	114290
+yao jin xing	要进行	112750
+yao shi	要使	112330
+yao xian	要先	110830
+yao yan ge	要严格	109915
+yao cai	药材	108155
+yao kao	要靠	103970
+yao jia	要加	102410
+yao shen	药神	99999
+yao pin jian du guan li ju	药品监督管理局	99045
+yao qie shi	要切实	94965
+yao zhao	要找	92735
+yao ji xu	要继续	91725
+yao zuo dao	要做到	91460
+yao pei	要陪	89650
+yao yuan de	遥远的	88275
+yao ye you xian gong si	药业有限公司	86735
+yao ni	要你	81060
+yao pin sheng chan	药品生产	79050
+yao yuan	遥远	78405
+yao pin jian du	药品监督	78005
+yao an	要按	77905
+yao mai	要买	77165
+yao shi yong	要使用	76860
+yao da dao	要达到	75985
+yao yao tou	摇摇头	75815
+yao bu yao	要不要	74320
+yao de	药的	74120
+yao dai	腰带	73130
+yao bu	腰部	72710
+yao zuo hao	要做好	70380
+yao zai	要再	69570
+yao lai	要来	69235
+yao shi xian	要实现	68670
+yao bei	要被	67660
+yao bu ran	要不然	67085
+yao le yao tou	摇了摇头	66090
+yao chi	要吃	65650
+yao bu shi	要不是	64490
+yao jing	妖精	63225
+yao ji	药剂	63130
+yao ta	要他	62990
+yao hua	要花	62425
+yao jian	要件	62223
+yao te bie	要特别	62010
+yao gen	要跟	60865
+yao qian	要钱	60440
+yao jie jue	要解决	59565
+yao yong	药用	59210
+yao wen	要问	57245
+yao pei	要配	56785
+yao gao	要高	56380
+yao jin	要紧	56220
+yao guai	妖怪	54775
+yao lan	摇篮	54170
+yao ti gao	要提高	54140
+yao da li	要大力	54015
+yao dai	要带	52900
+yao qiu xue sheng	要求学生	52680
+yao shi	药师	51955
+yao yan de	耀眼的	51845
+yao da	要打	51705
+yao jiang	要讲	51280
+yao hui	要回	51125
+yao xuan ze	要选择	51050
+yao guai	要怪	50780
+yao wu zhi liao	药物治疗	50400
+yao xie	要写	49780
+yao fang	药房	49495
+yao sai	要塞	49285
+yao shui	药水	48800
+yao ling	要领	48795
+yao jian	腰间	48380
+yao deng	要等	48165
+yao xue hui	要学会	47670
+yao jing guo	要经过	46970
+yao xiang	要像	46765
+yao qing le	邀请了	46240
+yao si	要死	45860
+yao liao jie	要了解	44725
+yao you	要由	44300
+yao huang	摇晃	44140
+yao xue	要学	44085
+yao yue shou gou	要约收购	43399
+yao qiu wo men	要求我们	43285
+yao ta	要她	43055
+yao cheng wei	要成为	42895
+yao ming	要命	42750
+yao neng	要能	42145
+yao gan	遥感	41680
+yao jin liang	要尽量	41605
+yao shan yu	要善于	41485
+yao quan mian	要全面	40555
+yao qing han	邀请函	40355
+yao yan	谣言	40310
+yao yan	耀眼	40280
+yao kuai	要快	40155
+yao shang	要上	39900
+yao qiu ti gong	要求提供	39615
+yao zhong dian	要重点	39170
+yao zhu zhong	要注重	38525
+yao bai	摇摆	37695
+yao zu zhi	要组织	36860
+yao xiao xin	要小心	36750
+yao hai	要害	36650
+yao xiao	药效	36550
+yao jian jue	要坚决	35745
+yao zuo	要坐	35650
+yao qiang	要强	35610
+yao chang	药厂	35200
+yao ye	摇曳	35130
+yao guo	要过	35000
+yao gao	要搞	34580
+yao ya	咬牙	33785
+yao qing	要请	33425
+yao jiao	要交	33325
+yao shu li	要树立	33060
+yao xuan	要选	32795
+yao fa zhan	要发展	32190
+yao chu	要出	31845
+yao wan cheng	要完成	31615
+yao jian ju	药监局	31445
+yao jin kuai	要尽快	31260
+yao di	要低	31115
+yao na	要拿	30810
+yao zuo	要作	30610
+yao bao	腰包	30310
+yao fang	药方	30275
+yao kai	要开	30210
+yao zhua zhu	要抓住	30190
+yao xiao	要小	30135
+yao li	药理	29665
+yao zi ji	要自己	29210
+yao dong	摇动	28730
+yao wei	腰围	28590
+yao dang	要当	28280
+yao ji zhu	要记住	28200
+yao qiu gao	要求高	27965
+yao shou	要受	27755
+yao zhua jin	要抓紧	27575
+yao qiu kao sheng	要求考生	27410
+yao ya qie chi	咬牙切齿	27275
+yao shao	要少	27130
+yao yan jiu	要研究	26815
+yao guan	要管	26780
+yao jian	药监	26750
+yao wen	要闻	26700
+yao he	要喝	26375
+yao he	吆喝	26270
+yao zhe	咬着	26185
+yao qiu zi ji	要求自己	26105
+yao pin guan li fa	药品管理法	25795
+yao kao	要考	25620
+yao ting	要听	25585
+yao que bao	要确保	25325
+yao wang	遥望	25250
+yao zhe	夭折	25230
+yao zhua	要抓	25120
+yao ren	要人	25110
+yao shen me	要什么	24885
+yao song	要送	24375
+yao yao	遥遥	24280
+yao tong	要同	24255
+yao mo	妖魔	24245
+yao qiu pei chang	要求赔偿	23935
+yao zhu	咬住	23595
+yao gai	要改	23515
+yao zhua hao	要抓好	23275
+yao shi you	要是有	23205
+yao chu li	要处理	22905
+yao tong	腰痛	22785
+yao li yong	要利用	22410
+yao qiu jiang	要求将	22190
+yao pin guang gao	药品广告	22050
+yao pin jia ge	药品价格	21975
+yao rao	妖娆	21860
+yao zhui	腰椎	21805
+yao shi ni	要是你	21795
+yao qing sai	邀请赛	21500
+yao wo men	要我们	21355
+yao zeng jia	要增加	21035
+yao pin ming cheng	药品名称	21005
+yao hai qu	瑶海区	21000
+yao de shi	要的是	20880
+yao jian	要见	20770
+yao qiu qi ye	要求企业	20755
+yao ban	要办	20510
+yao wan	药丸	20420
+yao jue	要诀	20210
+yao shu	要数	20210
+yao deng dao	要等到	19815
+yao gun yue	摇滚乐	19745
+yao de	要得	19590
+yao yan su	要严肃	19265
+yao yao huang huang	摇摇晃晃	19245
+yao jia	药价	18975
+yao dong de	要懂得	18945
+yao pin zhi liang	药品质量	18940
+yao xie	要挟	18855
+yao shang	腰上	18585
+yao jiao	要叫	18460
+yao tiao	窈窕	18460
+yao jin shen	要谨慎	18190
+yao ma	要吗	18100
+yao yan	妖艳	18075
+yao shi bu	要是不	17990
+yao can jia	要参加	17880
+yao shang	腰伤	17777
+yao mai	要卖	17765
+yao shang	咬伤	17755
+yao yue	邀约	17750
+yao bu ke ji	遥不可及	17700
+yao pin ling shou	药品零售	17640
+yao zhuo li	要着力	17625
+yao bang	要帮	17420
+yao zhui jiu	要追究	17275
+yao dian	药典	17220
+yao gao	药膏	17050
+yao wan	要完	17000
+yao kan dao	要看到	16925
+yao pian	药片	16830
+yao ye gu fen you xian gong si	药业股份有限公司	16805
+yao huo de	要获得	16795
+yao qu de	要取得	16790
+yao li xue	药理学	16720
+yao zhe	摇着	16635
+yao qin zi	要亲自	16530
+yao bang zhu	要帮助	16520
+yao zhi chi	要支持	16470
+yao jin ru	要进入	16460
+yao yi	要义	16450
+yao ju you	要具有	16410
+yao shen yi bian	摇身一变	16385
+yao jia	要价	16335
+yao qiu ni	要求你	16320
+yao ta men	要他们	16270
+yao shi kou	钥匙扣	16260
+yao yao	摇摇	16145
+yao gan	要干	16140
+yao de dao	要得到	16125
+yao pin shi chang	药品市场	16020
+yao cha	要查	15840
+yao shi	要事	15680
+yao ye ji tuan	药业集团	15665
+yao dai tou	要带头	15545
+yao qiu ta	要求他	15480
+yao huan	要还	15350
+yao yao ling xian	遥遥领先	15305
+yao yao	夭夭	15225
+yao me jiu shi	要么就是	15145
+yao fu chu	要付出	15070
+yao tan	要谈	14925
+yao fu	要付	14735
+yao yue ren	要约人	14725
+yao zhe tou	摇着头	14660
+yao xing	药性	14645
+yao bu jiu	要不就	14620
+yao zhun bei	要准备	14380
+yao pin zhu ce	药品注册	14365
+yao ge	要个	14210
+yao qiu dui fang	要求对方	14035
+yao chi	瑶池	13980
+yao kai shi	要开始	13965
+yao fei	药费	13910
+yao xiu	要修	13895
+yao gan	摇杆	13870
+yao huan	要换	13855
+yao jian she	要建设	13840
+yao dong	窑洞	13830
+yao a	要啊	13730
+yao gan xie	要感谢	13715
+yao yao yu zhui	摇摇欲坠	13660
+yao zhe ya	咬着牙	13595
+yao che di	要彻底	13510
+yao gao hao	要搞好	13495
+yao pai	要拍	13410
+yao jie shou	要接受	13265
+yao li zuo yong	药理作用	13265
+yao ren	咬人	13265
+yao shou dao	要受到	13255
+yao zi jue	要自觉	13255
+yao nv	妖女	13160
+yao chong	要冲	13025
+yao zhui jian pan	腰椎间盘	12975
+yao gan yu	要敢于	12930
+yao ku	要哭	12910
+yao jiu	药酒	12885
+yao ke fu	要克服	12865
+yao li	要离	12785
+yao jiang jiu	要讲究	12700
+yao lu	窑炉	12670
+yao cao	药草	12595
+yao hua bo li	耀华玻璃	12500
+yao hui	要会	12275
+yao duo shao	要多少	12130
+yao huang zhe	摇晃着	12120
+yao jia	要嫁	12085
+yao pin bao zhuang	药品包装	12065
+yao suan	腰酸	12060
+yao shi mei you	要是没有	11855
+yao fang	要放	11800
+yao zhui	要追	11675
+yao zhuo zhong	要着重	11620
+yao pin xiao shou	药品销售	11595
+yao he	咬合	11515
+yao bao	要报	11490
+yao zhen xi	要珍惜	11415
+yao hua fei	要花费	11290
+yao zuo shen me	要做什么	11280
+yao tiao zheng	要调整	11230
+yao yong zhi wu	药用植物	11230
+yao wang	要往	11180
+yao liang	药量	10985
+yao bei	腰背	10775
+yao zou le	要走了	10770
+yao li zu	要立足	10720
+yao yong dao	要用到	10705
+yao de	腰的	10675
+yao qiu bi xu	要求必须	10660
+yao si	咬死	10575
+yao yong jia zhi	药用价值	10545
+yao yuan	要员	10490
+yao dao	要道	10445
+yao qian shu	摇钱树	10265
+yao cha	要差	10260
+yao mu	要目	10240
+yao di	要地	10170
+yao yong you	要拥有	10070
+yao ai	要爱	9999
+yao bi gan	摇笔杆	9999
+yao bi gan er	摇笔杆儿	9999
+yao bian	要变	9999
+yao bian mei	要变美	9999
+yao bian shuai	要变帅	9999
+yao bu jie	要不价	9999
+yao can	要惨	9999
+yao e mao shan	摇鹅毛扇	9999
+yao huo	要火	9999
+yao jie	妖界	9999
+yao jin er	要劲儿	9999
+yao mian hua	药棉花	9999
+yao miao hui	要秒回	9999
+yao nian zi	药捻子	9999
+yao sha	要啥	9999
+yao she	咬舌	9999
+yao she er	咬舌儿	9999
+yao xi	腰细	9999
+yao zhen	药针	9999
+yao zi yan er	咬字眼儿	9999
+yao zu	妖族	9999
+yao xiang	药箱	9970
+yao qiu yan ge	要求严格	9895
+yao shi shi	要实施	9870
+yao xiang hu ying	遥相呼应	9745
+yao ju	药具	9700
+yao yao wu qi	遥遥无期	9660
+yao yao ya	咬咬牙	9640
+yao hui jia	要回家	9625
+yao lao ji	要牢记	9585
+yao qiu zheng fu	要求政府	9515
+yao ben zhe	要本着	9480
+yao xue yuan	药学院	9455
+yao ce	遥测	9430
+yao jiao hui	药交会	9425
+yao suan bei tong	腰酸背痛	9425
+yao zhi	要旨	9355
+yao qiu shang	要求上	9335
+yao shang	药商	9285
+yao ping	要凭	9255
+yao cheng gong	要成功	9250
+yao xiang	遥想	9250
+yao ming bai	要明白	9240
+yao pin zhao shang	药品招商	9150
+yao xue zhuan ye	药学专业	9130
+yao le yi kou	咬了一口	9095
+yao pin mu lu	药品目录	8985
+yao tou shuo	摇头说	8980
+yao shun	尧舜	8965
+yao zhi	要职	8920
+yao li	药力	8915
+yao ye	妖冶	8885
+yao tiao shu nv	窈窕淑女	8835
+yao jin ya guan	咬紧牙关	8810
+yao le	要了	8797
+yao qi	妖气	8775
+yao tou huang nao	摇头晃脑	8770
+yao wan quan	要完全	8735
+yao chuan	谣传	8680
+yao duo shao qian	要多少钱	8630
+yao xian shi	要显示	8475
+yao jiu	要就	8445
+yao yun	摇匀	8320
+yao fen	药粉	8280
+yao hai zi	要孩子	8275
+yao yang cheng	要养成	8255
+yao tuo shan	要妥善	8220
+yao ping	药瓶	8205
+yao ming	姚明	8155
+yao fa yang	要发扬	8105
+yao gun yue dui	摇滚乐队	8005
+yao qing shu	邀请书	7970
+yao pin pi fa	药品批发	7935
+yao jian suo	药检所	7920
+yao pin jian guan	药品监管	7860
+yao jiang	要降	7777
+yao ma	要嘛	7777
+yao mei	妖媚	7775
+yao ye	药业	7732
+yao da kai	要打开	7700
+yao hu	妖狐	7670
+yao bi	摇臂	7660
+yao le yao	摇了摇	7660
+yao nie	妖孽	7630
+yao shu ru	要输入	7610
+yao yu	药浴	7605
+yao po	咬破	7585
+yao huo	要活	7525
+yao ji shi	药剂师	7525
+yao shou	摇手	7480
+yao fu	腰腹	7475
+yao bai bu ding	摇摆不定	7435
+yao guan	要关	7425
+yao zhan	腰斩	7396
+yao fan	要饭	7360
+yao lian	要脸	7335
+yao de	咬得	7310
+yao qiu yuan gong	要求员工	7300
+yao chu qu	要出去	7220
+yao gan shen me	要干什么	7200
+yao wu liu chan	药物流产	7165
+yao fu cong	要服从	7100
+yao dai dong li xue	药代动力学	7095
+yao fan	要犯	7095
+yao huo	要货	7050
+yao tou wan	摇头丸	7030
+yao jing ti	要警惕	7015
+yao qiu bie ren	要求别人	6985
+yao mo gui guai	妖魔鬼怪	6980
+yao yi kou	咬一口	6945
+yao fang	要防	6930
+yao gu	腰鼓	6895
+yao qiu zhong guo	要求中国	6790
+yao li	腰力	6789
+yao mao	要冒	6780
+yao pin shuo ming shu	药品说明书	6780
+yao tie	要贴	6760
+yao yao	瑶瑶	6715
+yao ye gong si	药业公司	6705
+yao pin cai gou	药品采购	6695
+yao dai	要戴	6666
+yao shen	妖神	6666
+yao hui fu	要恢复	6655
+yao pin zhao biao	药品招标	6630
+yao shui	要睡	6620
+yao wu hua xue	药物化学	6610
+yao xue	药学	6586
+yao huai le	要坏了	6560
+yao hui da	要回答	6540
+yao tui	腰腿	6535
+yao zhi	腰肢	6535
+yao guo	腰果	6530
+yao shi du	要适度	6490
+yao kong yao shi	遥控钥匙	6486
+yao zhao	要招	6470
+yao gan	腰杆	6450
+yao jian	药检	6450
+yao fan de	要饭的	6415
+yao de	咬的	6395
+yao hai	药害	6395
+yao bu de	要不得	6390
+yao qiu jia qiang	要求加强	6380
+yao qiu ta	要求她	6380
+yao ji xue	药剂学	6340
+yao hui lai	要回来	6275
+yao lei	药类	6255
+yao xia	咬下	6245
+yao qing xin	邀请信	6205
+yao ren qing	要认清	6200
+yao yi	摇椅	6095
+yao li	腰里	6075
+yao ji ke	药剂科	6055
+yao wen jiao zi	咬文嚼字	6040
+yao wu yang wei	耀武扬威	6025
+yao ji	妖姬	5975
+yao ding	咬定	5970
+yao lve	要略	5940
+yao wu zhi ji	药物制剂	5920
+yao xi	要洗	5915
+yao bu de	腰部的	5890
+yao qin	瑶琴	5880
+yao tui tong	腰腿痛	5845
+yao liu	药流	5840
+yao qiu pei chang sun shi	要求赔偿损失	5805
+yao da	要大	5780
+yao yi zhi	要一直	5775
+yao you nai xin	要有耐心	5720
+yao wu	要务	5705
+yao pei ge	要配个	5665
+yao he	药盒	5650
+yao shi guan li	药事管理	5640
+yao wei	药味	5595
+yao wu xing	药物性	5575
+yao liang	要凉	5555
+yao liao	要聊	5555
+yao liao shen me	要聊什么	5555
+yao wo	咬我	5555
+yao zheng	要争	5555
+yao dang xin	要当心	5525
+yao mo hua	妖魔化	5470
+yao pu	药铺	5455
+yao qi na han	摇旗呐喊	5425
+yao bao	药包	5395
+yao ming	药名	5390
+yao zhan	要站	5385
+yao zhao ge	要找个	5385
+yao dai	要待	5380
+yao lan qu	摇篮曲	5380
+yao ban	腰板	5330
+yao kai fa	要开发	5235
+yao yi	妖异	5225
+yao lai le	要来了	5170
+yao bu liao	要不了	5165
+yao yong wan	要用完	5150
+yao de	摇的	5140
+yao nin	邀您	5075
+yao yue yao qing	要约邀请	5075
+yao mang	要忙	5030
+yao shi zhen de	要是真的	5010
+yao yi	徭役	5010
+yao duan	咬断	4990
+yao gan ji shu	遥感技术	4990
+yao si le	要死了	4980
+yao xiang	遥相	4945
+yao pin jiang jia	药品降价	4915
+yao tai	瑶台	4910
+yao xiang de dao	要想得到	4900
+yao fen qing	要分清	4825
+yao chu	摇出	4800
+yao wen	要稳	4789
+yao dao	腰刀	4770
+yao cong yan	要从严	4755
+yao shu	要输	4748
+yao shu	妖术	4740
+yao chan wan guan	腰缠万贯	4700
+yao dang	摇荡	4685
+yao hai bu wei	要害部位	4665
+yao ze ling	要责令	4620
+yao bai de	摇摆的	4600
+yao bu shi wo	要不是我	4505
+yao min	药敏	4460
+yao shi	药事	4450
+yao ren	摇人	4444
+yao shan	要删	4444
+yao an	要案	4420
+yao he zhe	吆喝着	4345
+yao mu	耀目	4335
+yao qing ta	邀请他	4335
+yao jin	咬紧	4330
+yao shang ban	要上班	4315
+yao pa	要爬	4290
+yao ji lao sun	腰肌劳损	4275
+yao diao	要掉	4270
+yao xue hao	要学好	4265
+yao dai zhe	要带着	4245
+yao qiu de dao	要求得到	4210
+yao ji	幺鸡	4165
+yao tou tan xi	摇头叹息	4165
+yao zhi	药汁	4165
+yao xing	摇醒	4155
+yao gun yin yue	摇滚音乐	4095
+yao fu bu	腰腹部	4090
+yao hui fu	要回复	4085
+yao teng	腰疼	4085
+yao guang	要广	4055
+yao liao	药疗	4045
+yao qiu li ji	要求立即	4040
+yao qiu ke hu	要求客户	4030
+yao wu zuo yong	药物作用	4030
+yao zu	瑶族	3966
+yao wu zhong du	药物中毒	3940
+yao ye zhe	摇曳着	3900
+yao si kao	要思考	3875
+yao bu	药补	3865
+yao zi	咬字	3865
+yao chi fan	要吃饭	3840
+yao duo jiu	要多久	3840
+yao wu yin xin	杳无音信	3790
+yao zi	腰子	3785
+yao qiu guo gao	要求过高	3780
+yao luo	摇落	3760
+yao le yao	咬了咬	3720
+yao gong	邀功	3710
+yao li rong	摇粒绒	3695
+yao yao bai bai	摇摇摆摆	3695
+yao wu nong du	药物浓度	3655
+yao gen zhe	要跟着	3640
+yao mian zi	要面子	3640
+yao yao	咬咬	3635
+yao qiu jin kuai	要求尽快	3625
+yao he sheng	吆喝声	3610
+yao tu	要吐	3605
+yao qiu jie chu he tong	要求解除合同	3600
+yao ban	耀斑	3595
+yao qiu que ren	要求确认	3575
+yao wu guo min	药物过敏	3570
+yao wen yuan	姚文元	3555
+yao yan duo mu	耀眼夺目	3555
+yao zhu yi le	要注意了	3540
+yao dao	咬到	3520
+yao you xin xin	要有信心	3505
+yao shi tong yuan	药食同源	3485
+yao qiu fu kuan	要求付款	3480
+yao guo	咬过	3420
+yao xue hui	药学会	3420
+yao shi fo	药师佛	3380
+yao zai ci	要再次	3370
+yao yao xiang wang	遥遥相望	3345
+yao bei na	要被那	3333
+yao bei na ge	要被那个	3333
+yao geng	要更	3333
+yao gun nan ge shou	摇滚男歌手	3333
+yao gun nv ge shou	摇滚女歌手	3333
+yao gun shou shi	摇滚手势	3333
+yao ku le	要哭了	3333
+yao niang	药娘	3333
+yao rao de	妖娆的	3333
+yao yi jin	约一斤	3333
+yao yi jin rou	约一斤肉	3333
+yao zhai	要债	3333
+yao zhu zui chun	咬住嘴唇	3333
+yao qing xi	要清洗	3330
+yao xue	要穴	3320
+yao zha	药渣	3315
+yao kao shi	要考试	3310
+yao hang	药行	3295
+yao wa	要挖	3280
+yao shi quan	钥匙圈	3265
+yao ku	药库	3255
+yao mian	药棉	3245
+yao kong kai guan	遥控开关	3235
+yao sui	咬碎	3235
+yao chang	要唱	3232
+yao wu liao fa	药物疗法	3230
+yao wu xue	药物学	3220
+yao shi bao	钥匙包	3200
+yao bai zhe	摇摆着	3185
+yao sha ta	要杀他	3180
+yao bei bu	腰背部	3170
+yao wu yin xun	杳无音讯	3155
+yao yao xiang dui	遥遥相对	3155
+yao qiu jin bu	要求进步	3145
+yao xiao xue	药效学	3145
+yao gun ge shou	摇滚歌手	3125
+yao hao xie	要好些	3115
+yao qiu bu yan	要求不严	3100
+yao xie	妖邪	3070
+yao she de	要舍得	3060
+yao xiao xin le	要小心了	3040
+yao hai bu men	要害部门	3035
+yao ci	爻辞	3030
+yao dao bing chu	药到病除	3015
+yao shi chuan	钥匙串	2990
+yao a yao	摇啊摇	2965
+yao hua duo shao qian	要花多少钱	2940
+yao nan	要男	2940
+yao shi lian	钥匙链	2940
+yao kan	要砍	2915
+yao sha	要杀	2896
+yao yi yao	摇一摇	2880
+yao fa	妖法	2870
+yao ju	药局	2870
+yao zhi	遥指	2865
+yao cai zhong zhi	药材种植	2855
+yao kong che	遥控车	2845
+yao ling	摇铃	2840
+yao wu	妖物	2840
+yao tu	要图	2835
+yao wang zhe	遥望着	2835
+yao qing ma	邀请码	2825
+yao wu lan yong	药物滥用	2815
+yao lan	要览	2790
+yao cha	药茶	2780
+yao xiang shou	要享受	2765
+yao bang	耀邦	2760
+yao gou	咬钩	2755
+yao zheng shi	要正视	2750
+yao di fang	要提防	2735
+yao chu lai	要出来	2715
+yao yan	妖言	2700
+yao dao	摇到	2685
+yao wo xue	要我学	2685
+yao chuan	要穿	2681
+yao qing song	要轻松	2670
+yao jian	遥见	2665
+yao lian	腰链	2660
+yao qiu ti qian	要求提前	2650
+yao ye	药液	2650
+yao de	摇得	2640
+yao shuo hua	要说话	2615
+yao diao	咬掉	2580
+yao du qu	尧都区	2570
+yao zhou	耀州	2570
+yao zhui bing	腰椎病	2560
+yao ting	要停	2558
+yao sha ren	要杀人	2550
+yao shi kong	钥匙孔	2540
+yao han	摇撼	2515
+yao shan	药膳	2512
+yao che	要车	2510
+yao chuang	摇床	2505
+yao qing ren	邀请人	2505
+yao nong	药农	2500
+yao si yao huo	要死要活	2465
+yao ye sheng zi	摇曳生姿	2465
+yao wan le	要晚了	2440
+yao fu	要附	2430
+yao mo	药膜	2430
+yao gu dui	腰鼓队	2420
+yao wei ba	摇尾巴	2420
+yao ya	要呀	2415
+yao kou	窑口	2405
+yao tou bai wei	摇头摆尾	2385
+yao wu ji liang	药物剂量	2385
+yao shan dai	要善待	2380
+yao bei tong	腰背痛	2375
+yao you gao du	要有高度	2295
+yao pin hui kou	药品回扣	2290
+yao er	药饵	2285
+yao ze	要则	2275
+yao gong	窑工	2255
+yao chu shou	要出售	2245
+yao dan	药单	2245
+yao jie	要接	2222
+yao qi	药企	2222
+yao ri	耀日	2222
+yao zhu	要住	2222
+yao gan xin xi	遥感信息	2215
+yao hai	瑶海	2200
+yao shi	药石	2200
+yao xia	腰下	2200
+yao zi	窑子	2195
+yao sha ta	要杀她	2180
+yao zu	耀祖	2155
+yao le	咬了	2139
+yao lu	摇橹	2120
+yao shang wang	要上网	2105
+yao pin jing ying zhi liang guan li gui fan	药品经营质量管理规范	2087
+yao ban jia	要搬家	2065
+yao wu	耀武	2065
+yao yan huo zhong	妖言惑众	2065
+yao zha	要炸	2065
+yao hua	腰花	2050
+yao li kai ni	要离开你	2005
+yao jin qu	要进去	2000
+yao nv	要女	2000
+yao wan le	要完了	2000
+yao jin	要进	1990
+yao zhen	药枕	1990
+yao chu chai	要出差	1980
+yao zhen	药疹	1980
+yao gui	药柜	1975
+yao kong xi tong	遥控系统	1965
+yao tang	药汤	1960
+yao dong zhe	摇动着	1955
+yao jian pan tu chu	腰间盘突出	1945
+yao qi	摇起	1945
+yao qi	舀起	1940
+yao bi ye le	要毕业了	1925
+yao yin	药引	1905
+yao suan bei teng	腰酸背疼	1890
+yao zhi	遥知	1880
+yao ren ming	要人命	1860
+yao yong li	要用力	1850
+yao qiu tui kuan	要求退款	1820
+yao kong zhuang zhi	遥控装置	1810
+yao tou tan qi	摇头叹气	1810
+yao yao shou	摇摇手	1810
+yao cha	药叉	1800
+yao gan wei xing	遥感卫星	1795
+yao zhe wei ba	摇着尾巴	1795
+yao zen me shuo	要怎么说	1790
+yao jin bu	要进步	1785
+yao pai	腰牌	1775
+yao qiu shuo ming	要求说明	1775
+yao xue xi	药学系	1770
+yao qing ke	要请客	1755
+yao lu	要路	1745
+yao an	姚安	1735
+yao nei	窑内	1735
+yao kao yan	要考研	1730
+yao qu	咬去	1725
+yao yi xia	摇一下	1724
+yao wu	杳无	1720
+yao hao kan	要好看	1715
+yao ai	要隘	1690
+yao min	瑶民	1680
+yao xia yu	要下雨	1680
+yao chu	舀出	1660
+yao ai xi	要爱惜	1635
+yao bu dao	要不到	1635
+yao qi	摇旗	1630
+yao jin	要津	1625
+yao liao	药料	1615
+yao ming	杳冥	1595
+yao ren jia	要人家	1595
+yao shou	咬手	1590
+yao zhou yao	耀州窑	1590
+yao yuan xing	药源性	1585
+yao zhe chun	咬着唇	1585
+yao chu zu	要出租	1575
+yao shui	舀水	1575
+yao shun yu tang	尧舜禹汤	1551
+yao shun yu	尧舜禹	1550
+yao wang miao	药王庙	1550
+yao gan shu ju	遥感数据	1535
+yao xia yu le	要下雨了	1520
+yao yan	腰眼	1520
+yao wen	遥闻	1500
+yao yi xie	要一些	1495
+yao huai	咬坏	1485
+yao xiang zhe	要想着	1475
+yao bu yao a	要不要啊	1470
+yao gun yue tuan	摇滚乐团	1470
+yao ba	摇把	1465
+yao fan	药贩	1465
+yao jin ya	咬紧牙	1450
+yao gun yue shou	摇滚乐手	1440
+yao gun ge qu	摇滚歌曲	1430
+yao chun	咬唇	1410
+yao zhu	遥祝	1410
+yao zhuan	肴馔	1410
+yao ran	杳然	1400
+yao er duo	咬耳朵	1390
+yao gui	要贵	1380
+yao ye duo zi	摇曳多姿	1380
+yao xiang xin wo	要相信我	1375
+yao ding qing shan bu fang song	咬定青山不放松	1358
+yao shi	腰饰	1355
+yao rou	肴肉	1348
+yao yao	约约	1330
+yao chan	腰缠	1325
+yao chuan	摇船	1315
+yao po	妖婆	1315
+yao dao	妖刀	1300
+yao yan si qi	谣言四起	1300
+yao chuang	摇窗	1297
+yao pin guan li fa shi shi tiao li	药品管理法实施条例	1281
+yao kua	腰胯	1260
+yao bai ji	摇摆机	1255
+yao chu shi	要出事	1255
+yao zhu	珧柱	1253
+yao ni guan	要你管	1250
+yao qiao	要瞧	1250
+yao wang	药王	1236
+yao si le	咬死了	1234
+yao ying	要赢	1234
+yao qiu	要球	1225
+yao xiao xin dian	要小心点	1190
+yao kong fei ji	遥控飞机	1185
+yao bei ren zhi ban ri xiu	遥被人知半日羞	1180
+yao chen zhe	要趁着	1180
+yao chu mei le	要出梅了	1180
+yao duan le	咬断了	1180
+yao gao de	要搞的	1180
+yao gui hen duo	要贵很多	1180
+yao hao	摇号	1180
+yao huai le	咬坏了	1180
+yao kan pu bu gua qian chuan	遥看瀑布挂前川	1180
+yao kan yin shan pai tian lang	要看银山拍天浪	1180
+yao qing xi	要清晰	1180
+yao ru mei le	要入梅了	1180
+yao ru men	要入门	1180
+yao shou bing	摇手柄	1180
+yao ta	要它	1180
+yao tai you lu	瑶台有路	1180
+yao wang dong ting shan shui se	遥望洞庭山水色	1180
+yao xia lai le	要下来了	1180
+yao xiang gong jin dang nian	遥想公瑾当年	1180
+yao yong wan le	要用完了	1180
+yao yuan	要远	1180
+yao zao	要造	1180
+yao zhi bu shi xue	遥知不是雪	1180
+yao zhi xiong di deng gao chu	遥知兄弟登高处	1180
+yao chong	邀宠	1175
+yao bi zuan	摇臂钻	1170
+yao hou	妖猴	1170
+yao tun	腰臀	1170
+yao tun bi	腰臀比	1170
+yao cao	瑶草	1160
+yao long	妖龙	1160
+yao jiang ji	摇奖机	1155
+yao lai yao qu	摇来摇去	1150
+yao shen	腰身	1150
+yao zi fan shen	鹞子翻身	1150
+yao wei	摇尾	1145
+yao guan zi	药罐子	1115
+yao can	要残	1111
+yao can jian ce	药残检测	1111
+yao chai	要拆	1111
+yao cheng	要成	1111
+yao cheng le	要成了	1111
+yao du	要读	1111
+yao jie	要借	1111
+yao lun	要论	1111
+yao pao	要跑	1111
+yao pin	要拼	1111
+yao ren pei	要人陪	1111
+yao wang	妖王	1111
+yao wo	腰窝	1111
+yao xian	腰线	1111
+yao yi yao	咬一咬	1111
+yao zhuang	要装	1111
+yao gu	腰骨	1105
+yao su fen xi	要素分析	1100
+yao de a	要的啊	1080
+yao chun gu she	摇唇鼓舌	1075
+yao jiao qian	要交钱	1075
+yao er	幺儿	1060
+yao hao yong	要好用	1055
+yao hao yong	要耗用	1050
+yao jiang	摇奖	1049
+yao yong dong wu	药用动物	1045
+yao ding ni	要定你	1030
+yao fu	要赴	1030
+yao sheng le	要生了	1025
+yao wei qi lian	摇尾乞怜	1020
+yao qing ka	邀请卡	1015
+yao le	摇了	1006
+yao chuan	要传	1005
+yao shi zhi dao	要是知道	1001
+yao qiu de	要求的	1000
+yao huan	吆唤	999
+yao shang	邀赏	999
+yao xie	药械	999
+yao yan	要言	999
+yao chu jia	要出嫁	995
+yao pian	腰片	994
+yao shi	咬噬	985
+yao yu	耀宇	985
+yao dao zou	要倒走	980
+yao sha ta	要杀它	975
+yao qi lai	摇起来	970
+yao suan tui tong	腰酸腿痛	965
+yao guang	摇光	950
+yao zhui gu zhe	腰椎骨折	947
+yao shi pan	钥匙盘	935
+yao qiu zhe	要求者	910
+yao xiang	爻象	910
+yao feng	妖风	905
+yao ji ban zhong	药剂拌种	905
+yao si bu huo	要死不活	890
+yao ke da xue	药科大学	885
+yao pin guang gao shen cha ban fa	药品广告审查办法	884
+yao shi guan li yu fa gui	药事管理与法规	883
+yao duan	要端	880
+yao si a	要死啊	860
+yao le yi xia	摇了一下	850
+yao ren	邀人	850
+yao ying	鹞鹰	850
+yao wei	要位	845
+yao gan zi	腰杆子	840
+yao gui	妖鬼	835
+yao yi bei	要一杯	835
+yao ce xi tong	遥测系统	830
+yao yin zi	药引子	830
+yao bai	要败	820
+yao qi	咬起	820
+yao de xiang	摇得像	815
+yao yin	药瘾	815
+yao zao	药皂	810
+yao ji	腰际	789
+yao ren	妖人	787
+yao gong qing shang	邀功请赏	785
+yao shi ka	钥匙卡	785
+yao an xian	姚安县	775
+yao bing	摇柄	775
+yao gun yue mi	摇滚乐迷	770
+yao lan	咬烂	765
+yao wu he liu	吆五喝六	755
+yao hen	咬痕	750
+yao wu yao	要唔要	747
+yao lin xian jing	瑶琳仙境	740
+yao qi zi	摇旗子	739
+yao qi lai	咬起来	735
+yao pin jie shao	药品介绍	730
+yao shi fa	药事法	719
+yao zhu bu fang	咬住不放	710
+yao qiu gui huan	要求归还	705
+yao zhang	要账	700
+yao qing zhe	邀请者	695
+yao tui teng	腰腿疼	695
+yao shu	药书	690
+yao jiang zheng zhi	要讲政治	670
+yao ji	瑶姬	666
+yao li	妖力	666
+yao wo gan	要我干	665
+yao ma	要骂	663
+yao cai dian	药材店	660
+yao yu	鳐鱼	660
+yao bai nv lang	摇摆女郎	655
+yao wu chu li	药物处理	650
+yao yao zai wang	遥遥在望	650
+yao tong	药筒	640
+yao xue xi	要学习	636
+yao jing tou	摇镜头	630
+yao su du	要速度	630
+yao jiao fei	要交费	625
+yao shi he tong	要式合同	625
+yao hai zhi chu	要害之处	605
+yao kong shou bing	遥控手柄	604
+yao wu	妖雾	600
+yao wu xue jia	药物学家	600
+yao she zi jin	咬舌自尽	595
+yao pin liu tong jian du guan li ban fa	药品流通监督管理办法	593
+yao che	摇车	590
+yao zhe yao na	要这要那	590
+yao chang	窑厂	581
+yao shi guan li xue	药事管理学	577
+yao xi suan ruan	腰膝酸软	566
+yao de bu	要得不	560
+yao chuan gei	要传给	555
+yao mian	药面	555
+yao ta	约塔	555
+yao tang	舀汤	555
+yao zhu	要著	555
+yao shi shang	要时尚	535
+yao shen	摇身	533
+yao chu fa	要出发	520
+yao li xue jia	药理学家	520
+yao fei	腰肥	515
+yao bu qu xian	腰部曲线	510
+yao yan zhi yu zhi zhe	谣言止于智者	510
+yao bu dui zheng	药不对症	505
+yao mei	幺妹	505
+yao ren de gou	咬人的狗	505
+yao chi de	要吃的	502
+yao wu bu liang fan ying	药物不良反应	502
+yao wu ren ji	杳无人迹	500
+yao jiang	摇桨	490
+yao pin guang gao shen cha fa bu biao zhun	药品广告审查发布标准	486
+yao pin biao zhun	药品标准	479
+yao li yao qi	妖里妖气	470
+yao liu qing bai zai ren jian	要留清白在人间	470
+yao nang	药囊	470
+yao ping zi	药瓶子	470
+yao bai wu	摇摆舞	465
+yao xia le	要下了	465
+yao shan	瑶山	458
+yao yi zhi	要抑制	456
+yao wu ren yan	杳无人烟	455
+yao men	窑门	450
+yao qiu mei guo	要求美国	448
+yao wen	摇蚊	445
+yao cai shi chang	药材市场	437
+yao qiu cha	要求查	435
+yao xing	姚姓	435
+yao qing ta	邀请她	434
+yao yan man tian fei	谣言满天飞	430
+yao shan yao shui	乐山乐水	425
+yao shun di	尧舜帝	424
+yao wu zong ji	杳无踪迹	420
+yao zui	咬嘴	420
+yao dao	妖道	419
+yao zui chun	咬嘴唇	415
+yao pin zhao hui guan li ban fa	药品召回管理办法	411
+yao bai yue	摇摆乐	410
+yao yan bu fan	要言不烦	401
+yao gao jia	要高价	395
+yao wu zong ying	杳无踪影	395
+yao xiao chi jiu	药效持久	390
+yao ai hua	姚爱华	385
+yao bu yao zuo	要不要做	384
+yao pin cha bi jia gui ze	药品差比价规则	380
+yao hua lu	耀华路	378
+yao shi kai guan	钥匙开关	375
+yao ce ji shu	遥测技术	370
+yao ming	窈冥	370
+yao yi zhi	要移至	369
+yao cai liao	要材料	364
+yao xing	耀兴	360
+yao hui gu	要回顾	355
+yao zhen shi	要真是	354
+yao bi zhou	摇臂轴	350
+yao gun mi	摇滚迷	350
+yao qu tang	要去趟	349
+yao ping zi	摇瓶子	346
+yao ju	姚剧	345
+yao qiu yan	要求严	345
+yao yi xia	要一下	345
+yao yuan de ta	遥远的他	345
+yao chi sha	要吃啥	342
+yao ting yin yue	要听音乐	340
+yao yuan de ta	遥远的她	340
+yao bu wen wen	要不问问	339
+yao bu yao huan	要不要换	339
+yao hao dian	要好点	339
+yao zi sha	要自杀	339
+yao na yi ge	要哪一个	338
+yao qiu you xian	要求优先	335
+yao du	妖都	333
+yao yao ling	幺幺零	333
+yao zhuo	谣诼	330
+yao pin guan zhi	药品管制	329
+yao dang zhen	要当真	325
+yao wu fan ying	药物反应	323
+yao yang	摇漾	320
+yao shui le	要睡了	317
+yao pin shi yong dan wei	药品使用单位	316
+yao ya dao	咬牙道	307
+yao chu qu le	要出去了	306
+yao pin xing zheng bao hu	药品行政保护	305
+yao ru huang he	杳如黄鹤	300
+yao shang le	要上了	290
+yao tou biao	要投标	290
+yao tong bu	要同步	289
+yao yi yao	要一要	289
+yao yi zhi	要一致	288
+yao gan tu xiang	遥感图像	284
+yao ji xiang	要几箱	272
+yao lai bian lai	要来便来	270
+yao zi qing xi	咬字清晰	270
+yao kou fen	要扣分	266
+yao cai shang	药材商	265
+yao guan	药罐	264
+yao li	窑里	263
+yao gu wu	腰鼓舞	260
+yao shui ping	药水瓶	260
+yao gu	摇鼓	250
+yao tian	药田	246
+yao bu li kou	药不离口	242
+yao shi xing wei	要式行为	242
+yao qu de	要去的	241
+yao qi chong tian	妖气冲天	240
+yao wang	夭亡	235
+yao huo	窑火	234
+yao wen ming	要文明	232
+yao bu gei ni	要不给你	229
+yao chong qi	要重启	229
+yao dui fang	要对方	229
+yao ju jue	要拒绝	229
+yao dui wo	要对我	224
+yao you qian	要有钱	223
+yao yue shi xiao	要约失效	223
+yao chang chang	要常常	222
+yao jian kang	要健康	222
+yao qu	要娶	222
+yao cai gong si	药材公司	216
+yao lv rou	肴驴肉	215
+yao yao he he	吆吆喝喝	215
+yao huang huang	要晃晃	213
+yao wu nai shou xing	药物耐受性	211
+yao chu you	要出游	210
+yao su	谣俗	210
+yao di	幺弟	203
+yao li jie	要理解	202
+yao bu yao mai	要不要买	200
+yao gan ma a	要干嘛啊	200
+yao miao	杳渺	200
+yao shi mai	要是买	200
+yao wen you chong	摇蚊幼虫	200
+yao zhi he	尧治河	198
+yao dian xian	咬电线	195
+yao jia yuan	姚家园	195
+yao ming yue	邀明月	195
+yao qiu chang	要求厂	195
+yao zi	舀子	195
+yao an shi mei	药安食美	194
+yao gao yuan	姚高员	193
+yao guai gong yu	妖怪公寓	192
+yao jing yuan	姚景元	192
+yao lai gan ma	要来干嘛	191
+yao xiao tang	姚晓棠	190
+yao yan	药言	190
+yao hao you	邀好友	188
+yao pin chang	药品厂	188
+yao xiang zi	药箱子	188
+yao shi fa lv xing wei	要式法律行为	187
+yao yi yang	要一样	187
+yao nian	遥念	185
+yao shi	夭逝	185
+yao xing shi lian	妖行试炼	185
+yao yi tian	姚译添	185
+yao zhe wei wang	妖者为王	185
+yao dian ren	药店人	182
+yao hong xia	姚红霞	182
+yao ni	邀你	181
+yao bin	耀彬	180
+yao hui	窑灰	180
+yao jia gou	姚家沟	179
+yao wu xi shou	药物吸收	177
+yao si	尧斯	175
+yao gun dong wu yuan	摇滚动物园	174
+yao qi zhi	姚期智	174
+yao you ya	要优雅	172
+yao shi gua jian	钥匙挂件	171
+yao zhi ge	曜之阁	171
+yao bu gu zhen	窑埠古镇	170
+yao mi	摇蜜	170
+yao tan qiu	要探求	170
+yao wo zhong hua	耀我中华	170
+yao yu chen	姚昱辰	166
+yao jie er	窑姐儿	165
+yao yao ming ming	窈窈冥冥	165
+yao zuo jiu zuo	要做就做	164
+yao guai du shi	妖怪都市	163
+yao zhu si	珧柱丝	163
+yao zi ling	姚子羚	163
+yao heng	药衡	160
+yao keng	窑坑	160
+yao mai	邀买	160
+yao run hao	姚润昊	159
+yao yang	姚洋	158
+yao yi yao	邀一邀	157
+yao ji	遥寄	156
+yao yong de	姚永德	156
+yao dai chu qu	要带出去	155
+yao kan yi xia	要看一下	155
+yao tian biao	要填表	155
+yao chu chang an	妖出长安	154
+yao shai zi	摇色子	153
+yao zhong ren	姚中仁	153
+yao qiu guo	要求国	152
+yao ji xiang si	遥寄相思	151
+yao xue fu wu	药学服务	151
+yao bu yong	要不用	149
+yao geng huan	要更换	149
+yao kao he	要考核	149
+yao xian shou	妖仙兽	148
+yao ling dang	摇铃铛	147
+yao qing xin ren	邀请新人	144
+yao liao fa	药疗法	140
+yao pi bo li	耀皮玻璃	140
+yao qiu	药球	140
+yao qing xin yong hu	邀请新用户	139
+yao pin lin chuang shi yan guan li gui fan	药品临床试验管理规范	138
+yao yu de yu	要雨得雨	133
+yao tan dong	姚檀栋	132
+yao huang de hong jiu bei	摇晃的红酒杯	131
+yao pin zhi liang biao zhun	药品质量标准	131
+yao ban er	腰板儿	130
+yao wa hu qiao	窑洼湖桥	130
+yao yi pian	要一片	130
+yao feng si qi	妖风四起	127
+yao xi tui chang	腰细腿长	127
+yao feng zhen zhen	妖风阵阵	125
+yao yong kun chong	药用昆虫	124
+yao ni	咬你	123
+yao ping	摇瓶	123
+yao yi xia	邀一下	123
+yao yue le	要哕了	123
+yao hui li	要回礼	121
+yao xiu xi	要休息	121
+yao zi xi	要仔细	121
+yao ding mu biao	咬定目标	120
+yao jian mian	要见面	120
+yao bao gu le	腰包鼓了	117
+yao ji jin	姚基金	117
+yao suan tui teng	腰酸腿疼	116
+yao liang	腰梁	115
+yao xian ceng	腰线层	115
+yao zi qing chu	咬字清楚	115
+yao yue wen jian	要约文件	114
+yao bai ren	摇摆人	113
+yao wu dai xie	药物代谢	113
+yao wu yi lai xing	药物依赖性	113
+yao cao qi hua	瑶草琪花	111
+yao chang chang	要尝尝	111
+yao cheng	咬成	111
+yao dan	妖丹	111
+yao huang	妖皇	111
+yao lan	姚岚	111
+yao mou	姚某	111
+yao nao	要闹	111
+yao niang	幺娘	111
+yao pu	药圃	111
+yao qiang	要抢	111
+yao ri	要日	111
+yao she	要射	111
+yao shou	妖兽	111
+yao ti	要提	111
+yao tiao	要跳	111
+yao tuo	要脱	111
+yao xiao	要笑	111
+yao zhang	要涨	111
+yao zhuang	药妆	111
+yao ding zuo	要定做	110
+yao ling	窑岭	109
+yao wu xiang hu zuo yong	药物相互作用	109
+yao wan ping	药丸屏	108
+yao lu di	腰路堤	107
+yao dian qiao lu	尧典桥路	106
+yao nian	药捻	105
+yao zheng ming	要证明	105
+yao gai yi xia	要改一下	104
+yao an na	姚安娜	103
+yao feng zhen	瑶峰镇	103
+yao gun ju xing	摇滚巨星	103
+yao yi zhi	要移植	103
+yao guai shu	妖怪书	102
+yao jia cun	姚家村	102
+yao jia jiu jia	要嫁就嫁	102
+yao mei tian	要每天	101
+yao xiang xi	要详细	101
+yao ai ai	要爱爱	100
+yao ai zi ji	要爱自己	100
+yao ba gong ming bao	要把功名报	100
+yao ba ling	幺八零	100
+yao ba wu	幺八五	100
+yao bai ke	摇摆客	100
+yao bai nian	要拜年	100
+yao bai zhu	摇摆猪	100
+yao bang mang	要帮忙	100
+yao bang mang bu	要帮忙不	100
+yao bao bao	要包包	100
+yao bao chou	要报仇	100
+yao bao dao	要报道	100
+yao bao kao	要报考	100
+yao bei da	要被打	100
+yao bei ju	要悲剧	100
+yao bei ju le	要悲剧了	100
+yao bei na	姚贝娜	100
+yao bian cheng	要变成	100
+yao bie ren cai	要别人猜	100
+yao bie ren xiang	要别人想	100
+yao bing shi	幺并矢	100
+yao bu de gao zu sheng jian	咬不得高祖生煎	100
+yao bu gei wo	要不给我	100
+yao bu hui lai	要不回来	100
+yao bu hui lai le	要不回来了	100
+yao bu jie yi	要不介意	100
+yao bu ke	要补课	100
+yao bu ke de	杳不可得	100
+yao bu ke wen	杳不可闻	100
+yao bu liao ming	要不了命	100
+yao bu liao ni	邀不了你	100
+yao bu liao wo de ming	要不了我的命	100
+yao bu ni gei wo	要不你给我	100
+yao bu ni guo lai	要不你过来	100
+yao bu ni xian qu	要不你先去	100
+yao bu qi	要不起	100
+yao bu ran gun	要不然滚	100
+yao bu ran ni	要不然你	100
+yao bu ran ni men	要不然你们	100
+yao bu ran wo si le	要不然我死了	100
+yao bu shan	要不删	100
+yao bu shan le	要不删了	100
+yao bu shan le ba	要不删了吧	100
+yao bu shi shi	要不试试	100
+yao bu shi yin wei	要不是因为	100
+yao bu si ni	咬不死你	100
+yao bu suan le	腰不酸了	100
+yao bu tiao jie	腰部调节	100
+yao bu wo gei ni	要不我给你	100
+yao bu xia ci	要不下次	100
+yao bu xing	腰不行	100
+yao bu yao ba	要不要吧	100
+yao bu yao ba	要不要把	100
+yao bu yao ba ni	要不要把你	100
+yao bu yao ba ta	要不要把他	100
+yao bu yao ba ta	要不要把她	100
+yao bu yao ba ta	要不要把它	100
+yao bu yao ba wo	要不要把我	100
+yao bu yao de	要不要得	100
+yao bu yao ge li	要不要隔离	100
+yao bu yao hui qu	要不要回去	100
+yao bu yao lian	要不要脸	100
+yao bu yao mai cai	要不要买菜	100
+yao bu yao yi qi	要不要一起	100
+yao bu yao yong	要不要用	100
+yao bu zan lia	要不咱俩	100
+yao bu zan men	要不咱们	100
+yao bu zhe yang ba	要不这样吧	100
+yao bu zhi	要布置	100
+yao bu zhi cheng tiao jie	腰部支撑调节	100
+yao bu zuo ye	要补作业	100
+yao cai ji di	药材基地	100
+yao cai jia ge hang qing	药材价格行情	100
+yao cai li	要彩礼	100
+yao cai zhong zhi ji di	药材种植基地	100
+yao can jia ma	要参加吗	100
+yao cao cha	药草茶	100
+yao cao qi hua	瑶草奇花	100
+yao cao qi pa	瑶草奇葩	100
+yao ce ji	遥测计	100
+yao cha ru	要插入	100
+yao cha shen me	要查什么	100
+yao cha zhao	要查找	100
+yao chai le	要拆了	100
+yao chang shi	要尝试	100
+yao chang shi zhe	要尝试着	100
+yao chang tui duan	腰长腿短	100
+yao cheng dan	要承担	100
+yao cheng zhu	要撑住	100
+yao chi dao le	要迟到了	100
+yao chi duo le	药吃多了	100
+yao chi jiao zi	要吃饺子	100
+yao chi jin mu	瑶池金母	100
+yao chi ku tou	要吃苦头	100
+yao chi ku tou de	要吃苦头的	100
+yao chi lang yuan	瑶池阆苑	100
+yao chi le ma	药吃了吗	100
+yao chi li	要吃梨	100
+yao chi mian tiao	要吃面条	100
+yao chi sheng di	瑶池圣地	100
+yao chi tang	要吃糖	100
+yao chi yu ye	瑶池玉液	100
+yao chi yuan xiao	要吃元宵	100
+yao chong zuo	要重做	100
+yao chu cheng ji	要出成绩	100
+yao chu dao	要出道	100
+yao chu fen le	要出分了	100
+yao chu fen shu xian	要出分数线	100
+yao chu fen shu xian le	要出分数线了	100
+yao chu han	要出汗	100
+yao chu men	要出门	100
+yao chu qu chi fan	要出去吃饭	100
+yao chu qu shua	要出去耍	100
+yao chu sheng	要出省	100
+yao chu xin ying xiong	要出新英雄	100
+yao chu xin ying xiong le	要出新英雄了	100
+yao chu xing	耀出行	100
+yao chu zhong quan	要出重拳	100
+yao chuan wai tao	要穿外套	100
+yao chuan xiao fu	要穿校服	100
+yao chun bo she	摇唇播舌	100
+yao chun nong she	摇唇弄舌	100
+yao cong ci lu guo	要从此路过	100
+yao cou dan	要凑单	100
+yao da du	要大度	100
+yao da gong	要打工	100
+yao da sao chu	要大扫除	100
+yao da sao wei sheng	要打扫卫生	100
+yao da xie ma	要大写吗	100
+yao da yi jia	要打一架	100
+yao da ying wo	要答应我	100
+yao da zhang	要打仗	100
+yao dai hao	要戴好	100
+yao dai hui jia	要带回家	100
+yao dai hui lai	要带回来	100
+yao dai hui qu	要带回去	100
+yao dai shen me	要带什么	100
+yao dai tou kui	要戴头盔	100
+yao dai zhe guang	要带着光	100
+yao dai zhe ni	要带着你	100
+yao dai zhe ni yuan zou	要带着你远走	100
+yao dan du	要单独	100
+yao dang bu ting	摇荡不停	100
+yao dang zi sui	遥荡恣睢	100
+yao dao bi	要倒闭	100
+yao dao bi le	要倒闭了	100
+yao dao chang	要到场	100
+yao dao er	摇到二	100
+yao dao hui chun	药到回春	100
+yao dao ji	妖刀记	100
+yao dao le	摇到了	100
+yao dao le	要到了	100
+yao dao liu	摇到六	100
+yao dao ming chu	药到命除	100
+yao dao san	摇到三	100
+yao dao she tou	咬到舌头	100
+yao dao shen me cheng du	要到什么程度	100
+yao dao si	摇到四	100
+yao dao wu	摇到五	100
+yao dao yi	摇到一	100
+yao dao zi ji she tou	咬到自己舌头	100
+yao de dong	咬得动	100
+yao de hen jin	咬得很紧	100
+yao de hen li hai	摇得很厉害	100
+yao de hua	要的话	100
+yao de li hai	摇得厉害	100
+yao de pi fu	瑶的皮肤	100
+yao de shi hou	要的时候	100
+yao di diao	要低调	100
+yao di li	遥地里	100
+yao di ren	幺地人	100
+yao dian er lian	要点儿脸	100
+yao dian hang ye	药店行业	100
+yao dian lian	要点脸	100
+yao dian lian ba	要点脸吧	100
+yao dian lian bu	要点脸不	100
+yao dian lian de	要点脸的	100
+yao dian zhi yi	要点之一	100
+yao diao zi	药铫子	100
+yao ding ya gen	咬定牙根	100
+yao ding ya guan	咬定牙关	100
+yao ding zheng	要订正	100
+yao dong bu ting	摇动不停	100
+yao dong de zhen xi	要懂得珍惜	100
+yao dong qi lai	摇动起来	100
+yao dou bu yao	要都不要	100
+yao dou bu yao le	要都不要了	100
+yao dou shi	要都是	100
+yao dou shi zhe yang	要都是这样	100
+yao dou suan le	腰都酸了	100
+yao dou zhi bu qi lai	腰都直不起来	100
+yao du de shu	要读的书	100
+yao du zai xian	药都在线	100
+yao dui fu de	要对付的	100
+yao dui ni shuo	要对你说	100
+yao duo chang shi jian	要多长时间	100
+yao duo chuan	要多穿	100
+yao duo chuan dian	要多穿点	100
+yao duo de duo	要多得多	100
+yao duo guan	要夺冠	100
+yao duo shao fen	要多少分	100
+yao duo shao ren	要多少人	100
+yao duo xiu xi	要多休息	100
+yao duo zao gao	要多糟糕	100
+yao e zi	幺蛾子	100
+yao er er	幺二二	100
+yao er yu	药而愈	100
+yao fa ge	要发歌	100
+yao fa jiu fa	要发就发	100
+yao fa kui lei	药发傀儡	100
+yao fa piao	要发票	100
+yao fan chang	要返厂	100
+yao fan lai le	要饭来了	100
+yao fan pan	要翻盘	100
+yao fan qiang	要翻墙	100
+yao fan tian le	要翻天了	100
+yao fan xiao	要返校	100
+yao fan xiao le	要返校了	100
+yao fan yi yang	要饭一样	100
+yao fang da zhao le	要放大招了	100
+yao fang er	药方儿	100
+yao fang qi	要放弃	100
+yao fang qi le	要放弃了	100
+yao fang song	要放松	100
+yao fen shu	要分数	100
+yao feng bi	要封闭	100
+yao feng cheng	要封城	100
+yao feng cheng le	要封城了	100
+yao feng de feng	要风得风	100
+yao feng hao ni de shang	要缝好你的伤	100
+yao feng kong	要封控	100
+yao feng le	要封了	100
+yao feng le	要疯了	100
+yao feng lu	要封路	100
+yao feng xiao	要封校	100
+yao feng xiao qu	要封小区	100
+yao fu ke	要复刻	100
+yao fu ke	要复课	100
+yao fu li	要福利	100
+yao fu zhi	要复制	100
+yao gai gai ma	要改改吗	100
+yao gai ge	要改革	100
+yao gai ma	要改吗	100
+yao gan che	要赶车	100
+yao gan le	要干了	100
+yao gan sha a	要干啥啊	100
+yao gan sha ya	要干啥呀	100
+yao gan shen me a	要干什么啊	100
+yao gan shen me ya	要干什么呀	100
+yao gan xie ni	要感谢你	100
+yao gan xie ni men	要感谢你们	100
+yao gan xie ta	要感谢他	100
+yao gan xie ta	要感谢她	100
+yao gan xie ta men	要感谢他们	100
+yao gan xie ta men	要感谢她们	100
+yao gao dian	要高点	100
+yao gao wei sheng	要搞卫生	100
+yao ge shuo fa	要个说法	100
+yao ge zhong	要各种	100
+yao ge zhong de	要各种的	100
+yao gei lao shi	要给老师	100
+yao gei wo ma	要给我妈	100
+yao gen ni shuo	要跟你说	100
+yao geng an	要更暗	100
+yao geng cha	要更差	100
+yao geng chang	要更长	100
+yao geng chao	要更吵	100
+yao geng chou	要更丑	100
+yao geng da	要更大	100
+yao geng di	要更低	100
+yao geng duan	要更短	100
+yao geng duo	要更多	100
+yao geng fu	要更富	100
+yao geng gao	要更高	100
+yao geng hao	要更好	100
+yao geng huai	要更坏	100
+yao geng jia	要更加	100
+yao geng jiu	要更久	100
+yao geng jiu	要更旧	100
+yao geng kuai	要更快	100
+yao geng kuan	要更宽	100
+yao geng leng	要更冷	100
+yao geng liang	要更亮	100
+yao geng man	要更慢	100
+yao geng mang	要更忙	100
+yao geng mei	要更美	100
+yao geng nao	要更闹	100
+yao geng nuan	要更暖	100
+yao geng pang	要更胖	100
+yao geng piao liang	要更漂亮	100
+yao geng qian	要更浅	100
+yao geng qiong	要更穷	100
+yao geng re	要更热	100
+yao geng ruan	要更软	100
+yao geng shao	要更少	100
+yao geng shen	要更深	100
+yao geng shou	要更瘦	100
+yao geng shuai	要更帅	100
+yao geng xian	要更闲	100
+yao geng xiao	要更小	100
+yao geng xin	要更新	100
+yao geng ying	要更硬	100
+yao geng zhai	要更窄	100
+yao gong qiu shang	邀功求赏	100
+yao gu ye	幺姑爷	100
+yao guai chi ren	妖怪吃人	100
+yao guai jiu guai	要怪就怪	100
+yao guai lai le	妖怪来了	100
+yao guai ni	要怪你	100
+yao guan fu	要关服	100
+yao guang shi	耀光使	100
+yao guang tan	瑶光滩	100
+yao gun chuan qi	摇滚传奇	100
+yao gun hong yu hei	摇滚红与黑	100
+yao gun kuang hua	摇滚狂花	100
+yao gun nian dai	摇滚年代	100
+yao gun qiang yin	摇滚强音	100
+yao gun quan	摇滚圈	100
+yao gun tuan	摇滚团	100
+yao gun xiao yuan	摇滚校园	100
+yao gun xue xiao	摇滚学校	100
+yao gun yin yue hui	摇滚音乐会	100
+yao gun yin yue jie	摇滚音乐节	100
+yao gun yin yue ren	摇滚音乐人	100
+yao gun zang ao	摇滚藏獒	100
+yao gun zhu ye su	摇滚主耶稣	100
+yao guo guan xin	药裹关心	100
+yao guo he	要过河	100
+yao guo lv	要过滤	100
+yao guo nian le	要过年了	100
+yao guo zhen	姚国祯	100
+yao hai zhi di	要害之地	100
+yao hang jie	药行街	100
+yao hao bao zhong	摇号包中	100
+yao hao cheng qian	要好成歉	100
+yao hao hao huo zhe	要好好活着	100
+yao hao hao xiu xi	要好好休息	100
+yao hao hao xue xi	要好好学习	100
+yao hao zhong qian lv	摇号中签率	100
+yao he bing	要合并	100
+yao he bu zheng	咬合不正	100
+yao he guan xi	咬合关系	100
+yao he nai cha	要喝奶茶	100
+yao he ni pin ming	要和你拼命	100
+yao he ping	要和平	100
+yao he suan	要核酸	100
+yao he suan jian ce	要核酸检测	100
+yao he tiao zheng	咬合调整	100
+yao he yao he	吆喝吆喝	100
+yao he yi sheng	吆喝一声	100
+yao hong bao	要红包	100
+yao hou guang qian	耀后光前	100
+yao hu wai yi	妖狐外衣	100
+yao hu xiang ying	遥呼相应	100
+yao hu xiao qu	瑶湖校区	100
+yao hu zhi yi	妖狐之衣	100
+yao hua men	尧化门	100
+yao hua tui	摇花腿	100
+yao huai diao le	要坏掉了	100
+yao huan huo	要还货	100
+yao huan ren	要换人	100
+yao huan san chong zou	妖幻三重奏	100
+yao huan su she	要换宿舍	100
+yao huan yu er	瑶环瑜珥	100
+yao huang bu ting	摇晃不停	100
+yao huang wei zi	姚黄魏紫	100
+yao hui dao	要回到	100
+yao hui lai bu	要回来不	100
+yao hui lai ma	要回来吗	100
+yao hui xue xiao	要回学校	100
+yao huo hong hu	妖火红狐	100
+yao ji ai si	遥寄哀思	100
+yao ji de	要记得	100
+yao ji de wo	要记得我	100
+yao ji ge	要几个	100
+yao ji he	要几盒	100
+yao ji huo	要激活	100
+yao ji liang	药剂量	100
+yao ji nong du	药剂浓度	100
+yao ji pu ke	姚记扑克	100
+yao ji shi	药剂士	100
+yao ji shi	要及时	100
+yao ji xia	咬几下	100
+yao ji zhong	要集中	100
+yao jia cha	药价差	100
+yao jia huan jia	要价还价	100
+yao jia jiu jia hui tai lang	要嫁就嫁灰太狼	100
+yao jia niu nai	要加牛奶	100
+yao jia qian	要加钱	100
+yao jia qian a	要加钱啊	100
+yao jia qian ma	要加钱吗	100
+yao jia tiao	要假条	100
+yao jia you a	要加油啊	100
+yao jia zhai	姚家寨	100
+yao jian ce	要检测	100
+yao jian gua	腰间挂	100
+yao jian gua le	腰间挂了	100
+yao jian gua le ge	腰间挂了个	100
+yao jian gua shang	腰间挂上	100
+yao jian gua shang le	腰间挂上了	100
+yao jian ji	腰间系	100
+yao jian pan	腰间盘	100
+yao jian xi tong	药监系统	100
+yao jian zhang jian zhan fan fu	腰间仗剑斩凡夫	100
+yao jiang dao li	要讲道理	100
+yao jiang dao li a	要讲道理啊	100
+yao jiang wen	要降温	100
+yao jiang xia cu	咬姜呷醋	100
+yao jiang zhe ge	要将这个	100
+yao jiao xue fei	要交学费	100
+yao jie feng	要解封	100
+yao jie le ni de kuang	要戒了你的狂	100
+yao jie song	要接送	100
+yao jie suo	要解锁	100
+yao jin bo	姚劲波	100
+yao jin chi	要矜持	100
+yao jin de	要紧的	100
+yao jin de chai shi	要紧的差事	100
+yao jin de ji shi	要紧的急事	100
+yao jin de ji shi er	要紧的急事儿	100
+yao jin de shi	要紧的事	100
+yao jin de shi er	要紧的事儿	100
+yao jin de shi qing	要紧的事情	100
+yao jin fu chang	遥襟甫畅	100
+yao jin gong	要进宫	100
+yao jin gong	要进攻	100
+yao jin ling	姚金铃	100
+yao jin pei zi	腰金佩紫	100
+yao jin shi	要紧事	100
+yao jin shi er	要紧事儿	100
+yao jin tuo zi	腰金拖紫	100
+yao jin ya gen	咬紧牙根	100
+yao jin yi zi	腰金衣紫	100
+yao jin yu zi	腰金纡紫	100
+yao jing gu	妖精谷	100
+yao jing gui guai	妖精鬼怪	100
+yao jing gui mei	妖精鬼魅	100
+yao jing kou dai	妖精口袋	100
+yao jing xi	妖精系	100
+yao jing xuan	要竞选	100
+yao jiu pai	幺九牌	100
+yao jiu xing	药就行	100
+yao jiu zhen qie	幺九振切	100
+yao ju jia	要居家	100
+yao jun jie	姚俊杰	100
+yao jun sheng	姚均晟	100
+yao kai fu	要开服	100
+yao kai gong	要开工	100
+yao kai hei	要开黑	100
+yao kai kai xin xin	要开开心心	100
+yao kai kong tiao	要开空调	100
+yao kai le	要开了	100
+yao kai she xiang tou	要开摄像头	100
+yao kai xin dian	要开心点	100
+yao kai xue le	要开学了	100
+yao kan de shu	要看的书	100
+yao kan jiu yi qi kan	要看就一起看	100
+yao kan ni	要看你	100
+yao kan qing	要看清	100
+yao kan qing chu	要看清楚	100
+yao kan qing chu le	要看清楚了	100
+yao kan qing le	要看清了	100
+yao kan zen me xiang	要看怎么想	100
+yao kan zhun	要看准	100
+yao kan zhun le	要看准了	100
+yao kang ji lou	要扛几楼	100
+yao kao hao	要考好	100
+yao kao zi ji	要靠自己	100
+yao ke chuan mei	耀客传媒	100
+yao ke zhi	要克制	100
+yao kong bo che	遥控泊车	100
+yao kong cao zuo	遥控操作	100
+yao kong dai ke bo che	遥控代客泊车	100
+yao kong hang pai fei xing qi	遥控航拍飞行器	100
+yao kong mo xing	遥控模型	100
+yao kong niu	遥控钮	100
+yao kong zha dan	遥控炸弹	100
+yao kou bu ren	咬口不认	100
+yao kou zhao	要口罩	100
+yao kua ni	要夸你	100
+yao kua nian	要跨年	100
+yao kua ta	要夸他	100
+yao kua wo	要夸我	100
+yao kuai duan le	腰快断了	100
+yao la jiao	要辣椒	100
+yao la jiao ma	要辣椒吗	100
+yao lai ke ren	要来客人	100
+yao lai la	要来啦	100
+yao lan bai he	摇篮百合	100
+yao le	舀了	100
+yao le ni de ming	要了你的命	100
+yao le qi lai	摇了起来	100
+yao le wo	要了我	100
+yao le wo de ming	要了我的命	100
+yao le xiao ming	要了小命	100
+yao le yao wei ba	摇了摇尾巴	100
+yao le yao ya	咬了咬牙	100
+yao le yi kou er	咬了一口儿	100
+yao le yi xiao kou	咬了一小口	100
+yao le yi xiao kou er	咬了一小口儿	100
+yao li ying	腰里硬	100
+yao lian ji	要联机	100
+yao lian ren le	要连任了	100
+yao lian xi	要联系	100
+yao liang de duo	要亮得多	100
+yao liang le	要凉了	100
+yao liang li er xing	要量力而行	100
+yao ling er si	幺零二四	100
+yao liu yi	要留意	100
+yao liu yi o	要留意哦	100
+yao long zhong wu	药笼中物	100
+yao luo ping	鹞落坪	100
+yao ma dou you	要嘛都有	100
+yao ma fan	要麻烦	100
+yao mai sha	要买啥	100
+yao mao zhuan	妖猫传	100
+yao me fang qi	要么放弃	100
+yao me jiu	要么就	100
+yao me shi	要么是	100
+yao me shou	要么瘦	100
+yao me shuo shi hua	要么说实话	100
+yao me si	要么死	100
+yao me yi wei	要么以为	100
+yao mei de xiao	妖媚的笑	100
+yao mei de xiao yi	妖媚的笑意	100
+yao meng dao wo	要梦到我	100
+yao meng yao	姚梦瑶	100
+yao mian er	药面儿	100
+yao mian fei le	要免费了	100
+yao ming kang de	药明康德	100
+yao ming la	要命啦	100
+yao ming ma	要命吗	100
+yao ming yi tiao	要命一条	100
+yao mo heng xing	妖魔横行	100
+yao mo xiao chou	幺麽小丑	100
+yao mou fan	要谋反	100
+yao mou mou	姚某某	100
+yao mu xi	姚沐希	100
+yao na ge	要哪个	100
+yao na gu niang yu ta bi mu yang	要拿姑娘与它比模样	100
+yao na me	要那么	100
+yao na tou ming zhuang	要纳投名状	100
+yao nan yi xie	要难一些	100
+yao nao na er yang	要闹哪儿样	100
+yao nao na yang	要闹哪样	100
+yao neng zhao dao	要能找到	100
+yao ni bang wo	要你帮我	100
+yao ni cai	要你猜	100
+yao ni de	要你的	100
+yao ni de ming	要你的命	100
+yao ni he yong	要你何用	100
+yao ni ming	要你命	100
+yao ni ming san qian	要你命三千	100
+yao ni san geng si	要你三更死	100
+yao ni shou zhi tou	咬你手指头	100
+yao ni si	要你死	100
+yao ni tian li	要逆天理	100
+yao ni yi kou	咬你一口	100
+yao ni zen me yang	要你怎么样	100
+yao nian de shu	要念的书	100
+yao nian shun ri	尧年舜日	100
+yao nie heng xing	妖孽横行	100
+yao nie nai ba zai du shi	妖孽奶爸在都市	100
+yao nie ren sheng	妖孽人生	100
+yao nin can jia	邀您参加	100
+yao nong ming bai	要弄明白	100
+yao nu li	要努力	100
+yao pao lu	要跑路	100
+yao pin dian	药品店	100
+yao pin hang ye	药品行业	100
+yao pin leng cang xiang	药品冷藏箱	100
+yao qi lei gu	摇旗擂鼓	100
+yao qi shi jian	妖骑士剑	100
+yao qian bu yao ming	要钱不要命	100
+yao qian de	要钱的	100
+yao qian hai shi yao ming	要钱还是要命	100
+yao qian hu	咬钱虎	100
+yao qian ji hu gong yu	遥迁集乎宫宇	100
+yao qian mei you	要钱没有	100
+yao qing bie ren	邀请别人	100
+yao qing can guan	邀请参观	100
+yao qing can jia	邀请参加	100
+yao qing han mu ban	邀请函模板	100
+yao qing hui da	邀请回答	100
+yao qing jia zhang	邀请家长	100
+yao qing le zhu ming	邀请了著名	100
+yao qing ming xing	邀请明星	100
+yao qing ni	邀请你	100
+yao qing ni men	邀请你们	100
+yao qing ren jia	邀请人家	100
+yao qing sheng nei wai	邀请省内外	100
+yao qing ta can jia	邀请他参加	100
+yao qing ta men	邀请他们	100
+yao qing ta ren	邀请他人	100
+yao qing wo	邀请我	100
+yao qing wo men	邀请我们	100
+yao qing yi ge ren	邀请一个人	100
+yao qiu bei song	要求背诵	100
+yao qiu bei song de	要求背诵的	100
+yao qiu he	要求和	100
+yao qiu ma	要求吗	100
+yao qiu tai gao	要求太高	100
+yao qu chao shi	要去超市	100
+yao qu de di fang	要去的地方	100
+yao qu ge	要取个	100
+yao qu ge	要娶个	100
+yao qu na	要去哪	100
+yao qu na er	要去哪儿	100
+yao qu na li	要去哪里	100
+yao qu na li ya	要去哪里呀	100
+yao qu na wan	要去哪玩	100
+yao qu shang ban le	要去上班了	100
+yao quan er	钥圈儿	100
+yao rang ni	要让你	100
+yao rao de	妖娆地	100
+yao rao wu mei	妖娆妩媚	100
+yao re hua le	要热化了	100
+yao ren bao guan	要人保管	100
+yao ren gou er bu lou chi	咬人狗儿不露齿	100
+yao ren ming a	要人命啊	100
+yao ren ming de	要人命的	100
+yao ren zhen lv xing	要认真履行	100
+yao ruo liu wan su	腰若流纨素	100
+yao san ba	幺三八	100
+yao san he si	吆三喝四	100
+yao sao ma	要扫码	100
+yao sao mu	要扫墓	100
+yao sha dou you	要啥都有	100
+yao sha fa	咬沙发	100
+yao sha le ni	要杀了你	100
+yao sha le wo	要杀了我	100
+yao sha li wu	要啥礼物	100
+yao sha mei sha	要啥没啥	100
+yao sha mei sha a	要啥没啥啊	100
+yao sha ni	要杀你	100
+yao sha wo	要杀我	100
+yao sha yan se	要啥颜色	100
+yao sha yao gua	要杀要剐	100
+yao sha you sha a	要啥有啥啊	100
+yao sha zi xing che	要啥自行车	100
+yao shan shun	尧禅舜	100
+yao shan zhou	药膳粥	100
+yao shang chang de	要上场的	100
+yao shang de shang	腰上的伤	100
+yao shang shi	要上市	100
+yao shang tian	要上天	100
+yao shang wan zi xi	要上晚自习	100
+yao shang wang ke	要上网课	100
+yao shang ying	要上映	100
+yao she gu chun	摇舌鼓唇	100
+yao she le	要射了	100
+yao shen me yan se	要什么颜色	100
+yao shen me you shen me	要什么有什么	100
+yao sheng huo fei	要生活费	100
+yao sheng wen	要升温	100
+yao sheng yao qi	妖声妖气	100
+yao sheng yao si	要生要死	100
+yao sheng zhi	姚升志	100
+yao shi bu jie yi	要是不介意	100
+yao shi bu jie yi de hua	要是不介意的话	100
+yao shi bu ti	要是不提	100
+yao shi bu yao qiu	要是不要求	100
+yao shi diao le	钥匙掉了	100
+yao shi diu le	钥匙丢了	100
+yao shi dou	药师兜	100
+yao shi dui bie ren	要是对别人	100
+yao shi gei wo	要是给我	100
+yao shi gei wo	钥匙给我	100
+yao shi huan	钥匙环	100
+yao shi jie yi	要是介意	100
+yao shi jie yi de hua	要是介意的话	100
+yao shi jing	药师经	100
+yao shi ke	要时刻	100
+yao shi lan	曜石蓝	100
+yao shi lan de	曜石蓝的	100
+yao shi liu li guang fu	药师琉璃光佛	100
+yao shi mei you de hua	要是没有的话	100
+yao shi neng chong lai	要是能重来	100
+yao shi ni bu ti	要是你不提	100
+yao shi ru lai	药师如来	100
+yao shi shu le	要是输了	100
+yao shi suo	钥匙锁	100
+yao shi wang xiao	药石罔效	100
+yao shi wo	要是我	100
+yao shi wo neng fei jiu hao le	要是我能飞就好了	100
+yao shi xin bu guo	要是信不过	100
+yao shi ying	要适应	100
+yao shi ying le	要是赢了	100
+yao shi you de hua	要是有的话	100
+yao shi zai na	钥匙在哪	100
+yao shi zai na li	钥匙在哪里	100
+yao shi zhi yan	药石之言	100
+yao shou bai wei	摇首摆尾	100
+yao shou cang	要收藏	100
+yao shou du shi	妖兽都市	100
+yao shou gang	姚守岗	100
+yao shou shi dong xi	要收拾东西	100
+yao shou tu she	摇首吐舌	100
+yao shou ze she	摇首咋舌	100
+yao shou zhi tou	咬手指头	100
+yao shu huo zhong	妖术惑众	100
+yao shu xie fa	妖术邪法	100
+yao shua liu mang	要耍流氓	100
+yao shui er	药水儿	100
+yao shui ge	药水歌	100
+yao shui le ma	要睡了嘛	100
+yao shui le me	要睡了么	100
+yao shui wei	药水味	100
+yao shun shan rang	尧舜禅让	100
+yao shun tai jie er shang	要顺台阶而上	100
+yao shuo shen me	要说什么	100
+yao si a ni	要死啊你	100
+yao si ge ren	要四个人	100
+yao si la	要死啦	100
+yao si le yao si	要死了要死	100
+yao si le yao si le	要死了要死了	100
+yao si lian	姚思廉	100
+yao si ni	咬死你	100
+yao si ren le	要死人了	100
+yao si ta	咬死他	100
+yao si ta	咬死她	100
+yao si ta	咬死它	100
+yao si wei	姚思为	100
+yao si wo	咬死我	100
+yao si wo le	咬死我了	100
+yao si yao huo de	要死要活的	100
+yao su cha jue	要素察觉	100
+yao su rong	姚苏蓉	100
+yao suan le	腰酸了	100
+yao ta ming	要他命	100
+yao ta ming a	要他命啊	100
+yao ta ming ya	要他命呀	100
+yao ta shou zhi tou	咬他手指头	100
+yao ta shou zhi tou	咬她手指头	100
+yao tai jing	瑶台镜	100
+yao tai qiong shi	瑶台琼室	100
+yao tai yin que	瑶台银阙	100
+yao tao nong li	夭桃秾李	100
+yao ti huan	要替换	100
+yao tian tian kai xin	要天天开心	100
+yao tian zhi xing	邀天之幸	100
+yao tiao fan	要跳反	100
+yao tiao ji	要调剂	100
+yao tiao xiu	要调休	100
+yao ting fu	要停服	100
+yao ting fu le	要停服了	100
+yao ting hua	要听话	100
+yao ting ke	要停课	100
+yao ting shui	要停水	100
+yao ting zhi	腰挺直	100
+yao ting zhi le	腰挺直了	100
+yao tong zhi	要统治	100
+yao tong zhi	要通知	100
+yao tou bai nao	摇头摆脑	100
+yao tou dao	摇头道	100
+yao tou piao	要投票	100
+yao tou shi xiao	摇头失笑	100
+yao tui sai	要退赛	100
+yao tui yi	要退役	100
+yao wai chu	要外出	100
+yao wan	要玩	100
+yao wan gu zhen	窑湾古镇	100
+yao wan na	要完呐	100
+yao wan yi dian	要晚一点	100
+yao wan zhen	窑湾镇	100
+yao wang gu	药王谷	100
+yao wang mi chuan	药王秘传	100
+yao wang na li qu	要往哪里去	100
+yao wang pu sa	药王菩萨	100
+yao wang yi xia	遥望一下	100
+yao wen ai nai qu	遥闻欸乃曲	100
+yao wen du	要温度	100
+yao wen gu she	摇吻鼓舌	100
+yao wen ni	要问你	100
+yao wen za zi	咬文咂字	100
+yao wen zhu	要稳住	100
+yao wo cai	要我猜	100
+yao wo dai hua	要我带话	100
+yao wo de ming	要我的命	100
+yao wo ming	要我命	100
+yao wo shou zhi tou	咬我手指头	100
+yao wo shuo	要我说	100
+yao wo shuo hua ma	要我说话吗	100
+yao wo shuo ne	要我说呢	100
+yao wo zen me yang	要我怎么样	100
+yao wu cheng yin	药物成瘾	100
+yao wu jiang wen	药物降温	100
+yao wu lin chuang	药物临床	100
+yao wu lin chuang shi yan	药物临床试验	100
+yao wu ming	药物名	100
+yao wu ming cheng	药物名称	100
+yao wu ren zong	杳无人踪	100
+yao wu suo zhi	杳无所知	100
+yao wu tiao li	药物调理	100
+yao wu tiao zheng	药物调整	100
+yao wu tu mo	药物涂抹	100
+yao wu xin xi	杳无信息	100
+yao wu yang wei yi fan	耀武扬威一番	100
+yao xi deng le	要熄灯了	100
+yao xi guan	要习惯	100
+yao xi tui cu	腰细腿粗	100
+yao xi xin	要细心	100
+yao xia bao yu	要下暴雨	100
+yao xia duo jiu	要下多久	100
+yao xia jia	要下架	100
+yao xia lai	摇下来	100
+yao xia xue	要下雪	100
+yao xia xue le	要下雪了	100
+yao xia yu le ba	要下雨了吧	100
+yao xian hui	药仙会	100
+yao xian ting na ge	要先听哪个	100
+yao xiang cong ci guo	要想从此过	100
+yao xiang dang nian	遥想当年	100
+yao xiang fu	要想富	100
+yao xiang qing li	要想清理	100
+yao xiang ren bu zhi	要想人不知	100
+yao xiang xin	要相信	100
+yao xiang xin zi ji	要相信自己	100
+yao xiao jiang di	药效降低	100
+yao xiao long	姚小龙	100
+yao xiao xie ma	要小写吗	100
+yao xie bu	要写不	100
+yao xie zai	要卸载	100
+yao xin yuan	摇心愿	100
+yao xin yuan	要心愿	100
+yao xing guai zhuang	妖形怪状	100
+yao xing le	摇醒了	100
+yao xing qi	药性气	100
+yao xing she	曜星社	100
+yao xing wu ming zhi shi	要兴无名之师	100
+yao xiu xi hao	要休息好	100
+yao xuan hao	要选好	100
+yao xuan piao	要选票	100
+yao xue shen me	要学什么	100
+yao xue zhuan ke xue xiao	药学专科学校	100
+yao ya chi	咬牙齿	100
+yao ya gen	咬牙根	100
+yao ya sui qian	要压岁钱	100
+yao yan a	谣言啊	100
+yao yan ba	谣言吧	100
+yao yan chi	要延迟	100
+yao yan chuan bo	谣言传播	100
+yao yan hen duo	谣言很多	100
+yao yan jian huo	妖艳贱货	100
+yao yan man tian	谣言满天	100
+yao yan miao dao	要言妙道	100
+yao yan qi	要延期	100
+yao yan qing chun	耀眼青春	100
+yao yan zheng guang	耀眼争光	100
+yao yan zhi	要言之	100
+yao yan zhi yu	谣言止于	100
+yao yang er	要样儿	100
+yao yao bing	摇摇冰	100
+yao yao dang dang	摇摇荡荡	100
+yao yao de	遥遥的	100
+yao yao duan le	腰要断了	100
+yao yao er	幺幺二	100
+yao yao huang huang de zou	摇摇晃晃地走	100
+yao yao jiu	幺幺九	100
+yao yao le	摇摇乐	100
+yao yao luo hou	遥遥落后	100
+yao yao shu tiao	摇摇薯条	100
+yao yao si	幺幺四	100
+yao yao wu	幺幺五	100
+yao yao yao	要要要	100
+yao ye bu teng	腰也不疼	100
+yao ye feng ling	摇曳风铃	100
+yao ye man	摇曳鳗	100
+yao yi di zu	徭役地租	100
+yao yi guan	妖医馆	100
+yao yi ling	姚懿玲	100
+yao yi ti	姚以缇	100
+yao yi xia cai wu bao gao	要一下财务报告	100
+yao yi xia dian hua	要一下电话	100
+yao yi xia dian hua hao ma	要一下电话号码	100
+yao yi xia shou ji hao	要一下手机号	100
+yao yi xia wu xian mi ma	要一下无线密码	100
+yao yi yao guang gao	摇一摇广告	100
+yao yi yao yi yao	摇咿摇咿摇	100
+yao ying ren jian bing xue yang	遥映人间冰雪样	100
+yao yong jun	药用菌	100
+yao you ai	要有爱	100
+yao you guang	要有光	100
+yao you hua	要优化	100
+yao you shi jian	要有时间	100
+yao you yi ge	要有一个	100
+yao you yi ge ren	要有一个人	100
+yao you yi shi gan	要有仪式感	100
+yao you ze	姚有则	100
+yao you zi xin	要有自信	100
+yao yu gu ming	要誉沽名	100
+yao yu mao shan	摇羽毛扇	100
+yao yuan	药园	100
+yao yuan de chuan shuo	遥远的传说	100
+yao yuan de di fang	遥远的地方	100
+yao yuan de di ping xian	遥远的地平线	100
+yao yuan de guo du	遥远的国度	100
+yao yuan de ji yi	遥远的记忆	100
+yao yuan de xing xi	遥远的星系	100
+yao yuan di fang	遥远地方	100
+yao yuan guo du	遥远国度	100
+yao yuan xing xi	遥远星系	100
+yao yue dui	腰乐队	100
+yao yue kao	要月考	100
+yao yue lai yue hao	要越来越好	100
+yao yue ren wu	邀约任务	100
+yao yun che	要晕车	100
+yao zao dian shui	要早点睡	100
+yao zen me	要怎么	100
+yao zen me cheng fa	要怎么惩罚	100
+yao zen me fa	要怎么罚	100
+yao zen me fa ni	要怎么罚你	100
+yao zen me fa ta	要怎么罚他	100
+yao zen me fa wo	要怎么罚我	100
+yao zen me pan	要怎么判	100
+yao zen me shou huo xian zen me zai	要怎么收获先怎么栽	100
+yao zen me zhi	要怎么治	100
+yao zen me zhi liao	要怎么治疗	100
+yao zen me zuo	要怎么做	100
+yao zhan bu	要占卜	100
+yao zhan wen	要站稳	100
+yao zhan wen a	要站稳啊	100
+yao zhang gao	要长高	100
+yao zhang wo	要掌握	100
+yao zhao de ren	要找的人	100
+yao zhao gu hao zi ji	要照顾好自己	100
+yao zhao yi ge	要找一个	100
+yao zhe bu fang	咬着不放	100
+yao zhe chi	咬着吃	100
+yao zhe dong xi	要这东西	100
+yao zhe er duo	咬着耳朵	100
+yao zhe hou cao ya	咬着后槽牙	100
+yao zhe li	咬这里	100
+yao zhe lv	夭折率	100
+yao zhe me zuo	要这么做	100
+yao zhe pu shan	摇着蒲扇	100
+yao zhe shan zi	摇着扇子	100
+yao zhe xia chun	咬着下唇	100
+yao zhe ya jian chi	咬着牙坚持	100
+yao zhe yan guan	咬着烟管	100
+yao zhe yang she ji	要这样设计	100
+yao zhe zui chun	咬着嘴唇	100
+yao zheng chu	药政处	100
+yao zheng gai	要整改	100
+yao zheng qi	要争气	100
+yao zhi ding	要指定	100
+yao zhi fu	要致富	100
+yao zhi pu	瑶之圃	100
+yao zhi xing hua cun	遥指杏花村	100
+yao zhi yuan	姚志源	100
+yao zhong le	要中了	100
+yao zhong shu	要中暑	100
+yao zhong yi xie	要重一些	100
+yao zhou qu	耀州区	100
+yao zhu an hao	遥祝安好	100
+yao zhu duo jiu	要住多久	100
+yao zhu wei gong shang	邀诸位共赏	100
+yao zhu xiao	要住校	100
+yao zhu yi an quan	要注意安全	100
+yao zhu yi shen ti	要注意身体	100
+yao zhu yi xiu xi	要注意休息	100
+yao zhua zhu zhong dian	要抓住重点	100
+yao zhuang dian	药妆店	100
+yao zhuang pin	药妆品	100
+yao zhuang xian	姚壮宪	100
+yao zhuang xiu	要装修	100
+yao zhuang xiu le	要装修了	100
+yao zhui jian pan tu chu	腰椎间盘突出	100
+yao zhui jian pan tu chu zheng	腰椎间盘突出症	100
+yao zhui shang	要追上	100
+yao zhuo na	要捉拿	100
+yao zi bu zhun	咬字不准	100
+yao zi fei	要自费	100
+yao zi jin	姚子衿	100
+yao zi you	要自由	100
+yao zi zhi	要自制	100
+yao zou a	要走啊	100
+yao zou le a	要走了啊	100
+yao zou qin qi	要走亲戚	100
+yao zou wo	要揍我	100
+yao zou wo ne	要揍我呢	100
+yao zu dui	要组队	100
+yao zu guang zong	耀祖光宗	100
+yao zui le	要醉了	100
+yao zun yan	要尊严	100
+yao zun zhong	要尊重	100
+yao zuo hao fang hu	要做好防护	100
+yao zuo he suan	要做核酸	100
+yao zuo jue ding	要做决定	100
+yao zuo jue ding le	要做决定了	100
+yao zuo ren wu	要做任务	100
+yao dai shang	要带上	99
+yao gai bian	要改变	99
+yao gan di tu	遥感地图	99
+yao jie shi	要解释	99
+yao pin fei lin chuang yan jiu zhi liang guan li gui fan	药品非临床研究质量管理规范	99
+yao zhi ban	要值班	98
+yao shi zai	要是在	97
+yao zhi jia	咬指甲	96
+yao ce yi	遥测仪	95
+yao gun wu	摇滚舞	95
+yao hu	吆呼	95
+yao jiu	肴酒	95
+yao ting o	要听哦	95
+yao pin jia cheng lv	药品加成率	93
+yao shi zheng quan	要式证券	93
+yao gei ta	要给她	92
+yao xia zhou	要下周	92
+yao jie he	要结合	90
+yao shang	夭殇	90
+yao wu du xing fan ying	药物毒性反应	90
+yao bu qu	要不去	89
+yao kuai le	要快乐	88
+yao gan sha	要干啥	86
+yao pin yu yi liao qi xie	药品与医疗器械	86
+yao yuan jian	要原件	86
+yao wang dong	药王洞	84
+yao ji	咬肌	83
+yao zhui chuan ci	腰椎穿刺	83
+yao yue che hui	要约撤回	82
+yao guo ji ding	腰果鸡丁	81
+yao wu xing gan yan	药物性肝炎	81
+yao jiu	舀酒	80
+yao zi	疟子	80
+yao pin tong yong ming	药品通用名	79
+yao qiu qing pan	要求轻判	79
+yao zhi xing	要执行	77
+yao fang dao	要放到	76
+yao qing jia	要请假	76
+yao wu fen xi	药物分析	76
+yao zao dian	要早点	76
+yao de qi	要得起	75
+yao guo nian	要过年	75
+yao shen he	要审核	75
+yao yi lin	姚依林	75
+yao zhi ji	药制剂	75
+yao kong zhi	要控制	74
+yao min shi yan	药敏试验	74
+yao sheng ji	要升级	74
+yao wen wen	要问问	74
+yao xue yin	姚雪垠	74
+yao zuo wei	要作为	74
+yao fu kuan	要付款	72
+yao geng gai	要更改	72
+yao miao	瑶淼	72
+yao qi dong	要启动	72
+yao wan shang	要晚上	72
+yao yong qian	要用钱	72
+yao na xie	要哪些	71
+yao shang bao	要上报	71
+yao zhu ming	要注明	70
+yao hao jiu	要好久	69
+yao juan	咬鹃	69
+yao le ge	要了个	69
+yao zhan zai	要站在	69
+yao bu lai	要不来	68
+yao fa qian	要罚钱	68
+yao fen kai	要分开	68
+yao fu he	要符合	68
+yao hai si	要害死	68
+yao jie chu	要解除	68
+yao kan xia	要看下	68
+yao qiu lv xing	要求履行	68
+yao shi shui	要试水	68
+yao tiao jie	要调解	68
+yao de ji	要的急	67
+yao fang zai	要放在	67
+yao kai che	要开车	67
+yao kan zhe	要看着	67
+yao li zhi	要离职	67
+yao mi ma	要密码	67
+yao shan chu	要删除	67
+yao she ji	要设计	67
+yao bao liu	要保留	66
+yao pian yi	要便宜	66
+yao qiu shi	要求是	66
+yao wu jing ji xue	药物经济学	66
+yao xia zai	要下载	66
+yao zuo cheng	要做成	66
+yao bai zhe	摇摆者	65
+yao kong jie shou qi	遥控接收器	65
+yao qing chu	要清楚	65
+yao shan diao	要删掉	65
+yao su biao	要素表	65
+yao xia wu	要下午	65
+yao bu ming tian	要不明天	64
+yao chu huo	要出货	64
+yao dao qi	要到期	64
+yao duo wan	要多晚	64
+yao ge ren	摇个人	64
+yao he yi xia	吆喝一下	64
+yao hua qian	要花钱	64
+yao pin shang	药品商	64
+yao qiu you	要求有	64
+yao yi xia	咬一下	64
+yao zai jia	要在家	64
+yao zi liao	要资料	64
+yao bao hu	要保护	63
+yao bu rang	要不让	63
+yao bu zhe yang	要不这样	63
+yao gan tu xiang chu li	遥感图像处理	63
+yao ju ti	要具体	63
+yao qiu zuo	要求做	63
+yao wu xing bi yan	药物性鼻炎	63
+yao zen yang	要怎样	63
+yao gen ta	要跟他	62
+yao kai piao	要开票	62
+yao luo shi	要落实	62
+yao qiu jiao fei	要求交费	62
+yao rang wo	要让我	62
+yao zhong shi	要重视	62
+yao zhu ce	要注册	62
+yao pin you xiao qi	药品有效期	61
+yao shu an	妖书案	61
+yao xing zai xian	妖星再现	61
+yao ba zi	摇把子	60
+yao jiang lu	姚江路	59
+yao run	要润	56
+yao nian er	药捻儿	55
+yao shan tang	药膳堂	55
+yao guan	遥观	54
+yao wang jie	药王街	54
+yao jia ling	姚家岭	53
+yao tiao	遥调	53
+yao bi zong cheng	摇臂总成	50
+yao cai gen	咬菜根	50
+yao pin jian du xing zheng chu fa cheng xu gui ding	药品监督行政处罚程序规定	50
+yao wan	腰弯	50
+yao wu he cheng	药物合成	50
+yao wu ji xing	药物剂型	50
+yao yi da kou	咬一大口	50
+yao you	舀油	50
+yao wu guo min fan ying	药物过敏反应	48
+yao zuo lao de	要坐牢的	48
+yao wan jie dao	窑湾街道	47
+yao chan shi wan	腰缠十万	46
+yao er yan zhi	要而言之	46
+yao jia zhuang	姚家庄	46
+yao yong shou	药用兽	46
+yao tou cun	窑头村	45
+yao wu xiao	药无效	45
+yao rou mian	肴肉面	41
+yao yao ming ming	杳杳冥冥	41
+yao jin er	药劲儿	40
+yao yuan xing ji bing	药源性疾病	39
+yao tong bing	腰痛病	37
+yao da ji	腰大肌	35
+yao shi min shi fa lv xing wei	要式民事法律行为	35
+yao tai cun	瑶台村	35
+yao chong	姚崇	34
+yao wu xu ji	药物蓄积	34
+yao jian cha	要检查	33
+yao wu xiao xi	杳无消息	32
+yao chong xin	要重新	30
+yao qiu bu	要求部	30
+yao zhui jie he	腰椎结核	30
+yao zhun	邀准	30
+yao wu xi tuo zhi jia	药物洗脱支架	29
+yao rao ge	妖娆哥	28
+yao zhuang cun	姚庄村	28
+yao jia xiang	姚家巷	27
+yao pin zhi liang jian du chou yan guan li gui ding	药品质量监督抽验管理规定	26
+yao yue xiao li	要约效力	26
+yao cai bu	药材部	25
+yao guo	腰锅	25
+yao po	窑坡	24
+yao po shan	窑坡山	24
+yao shi zhen	腰市镇	24
+yao wen ke	摇蚊科	24
+yao bu chu	要不出	23
+yao dai fu	姚大夫	23
+yao jie	窑姐	23
+yao hua xin cun	尧化新村	22
+yao xin	尧新	22
+yao yuan si xiang	姚园寺巷	22
+yao tian shun ri	尧天舜日	21
+yao xing	姚兴	21
+yao ya guan	咬牙关	21
+yao jia wan	姚家湾	20
+yao qiu jia	要求价	20
+yao wan he	药丸盒	20
+yao fang men	姚坊门	19
+yao jiang gong yuan	姚江公园	19
+yao pin zhao biao dai li ji gou zi ge ren ding ji jian du guan li ban fa	药品招标代理机构资格认定及监督管理办法	19
+yao zhu tang	珧柱汤	19
+yao zu feng qing yuan	瑶族风情园	19
+yao jia ling cun	姚家岭村	18
+yao xiang	瑶乡	18
+yao yang guan	腰阳关	18
+yao zhong ying	姚中英	18
+yao ai lu	姚隘路	17
+yao jia yu	姚家峪	17
+yao jiang fu cun	耀江福村	17
+yao wu min gan shi yan	药物敏感试验	17
+yao wu yuan	药物园	17
+yao zi tou xiang	窑子头乡	17
+yao wu pai xie	药物排泄	16
+yao wu zai ti	药物载体	16
+yao cai jia	药材甲	15
+yao ce di zhen yi	遥测地震仪	15
+yao de qi jin	摇得起劲	15
+yao lou	摇耧	15
+yao mo dang dao	妖魔当道	15
+yao wu dai xie dong li xue	药物代谢动力学	15
+yao you ren xing	妖由人兴	15
+yao zhui bi tong wan	腰椎痹痛丸	15
+yao cai ying	姚采颖	14
+yao dong xue	药动学	14
+yao wen jun	姚文俊	14
+yao bi tong jiao nang	腰痹通胶囊	13
+yao de cai gen	咬得菜根	13
+yao gang lu	姚港路	13
+yao guo hui	姚国辉	13
+yao wen xi e	爻纹细蛾	13
+yao zheng guan li tiao li	药政管理条例	13
+yao zhi song gao jie	要知松高洁	13
+yao bu shang	摇不上	12
+yao bu shuo	要不说	12
+yao dao si	要到四	12
+yao gang	姚港	12
+yao gei wo	要给我	12
+yao guo lai	要过来	12
+yao jia xiao qu	姚家小区	12
+yao shou ji	要手机	12
+yao ti qian	要提前	12
+yao wang dong ting shan shui cui	遥望洞庭山水翠	12
+yao wu dong li xue	药物动力学	12
+yao yong zhi wu xue	药用植物学	12
+yao zhi qin	姚智勤	12
+yao zhui chuan ci shu	腰椎穿刺术	12
+yao juan mu	咬鹃目	11
+yao wo zhi tian jia	邀我至田家	11
+yao xie	药蟹	11
+yao yao mo gu hong	杳杳没孤鸿	11
+yao yi wei	姚一苇	11
+yao dian fei long	药店飞龙	10
+yao guo xia qiu	腰果虾球	10
+yao jiang guang sha	耀江广厦	10
+yao pin jian du guan li zheng ce fa gui hui bian	药品监督管理政策法规汇编	10
+yao ping xiang	姚坪乡	10
+yao sai cheng	要塞城	10
+yao shi zhi dao	药师指导	10
+yao zi er	咬字儿	10
+yao zi yan	咬字眼	10
+yao zu ba ba	瑶族粑粑	10
+yao cong	姚琮	9
+yao ding	窑顶	9
+yao gong	药工	9
+yao gun zhi wang	摇滚之王	9
+yao hong	姚弘	9
+yao hui qu	要回去	9
+yao jia ying	姚家营	9
+yao jia yuan xi li	姚家园西里	9
+yao li xiao ying	药理效应	9
+yao neng yi jia bing	药能医假病	9
+yao sao chu yi qie hai ren chong	要扫除一切害人虫	9
+yao seng	妖僧	9
+yao wa hu qiao dong	窑洼湖桥东	9
+yao yan xue	腰眼穴	9
+yao yao yu duo	摇摇欲堕	9
+yao zi	要子	9
+yao ai tiao	药艾条	8
+yao bu jiu shi	要不就是	8
+yao shan	摇扇	8
+yao tui tong wan	腰腿痛丸	8
+yao xi tong jiao nang	腰息痛胶囊	8
+yao yong tan	药用炭	8
+yao zhuang cun	腰庄村	8
+yao bu sheng de	妖不胜德	7
+yao cu	腰粗	7
+yao gei ni	要给你	7
+yao gun xiu	摇滚秀	7
+yao hong	姚泓	7
+yao jian zhan	药检站	7
+yao lan	姚澜	7
+yao nai	要奶	7
+yao qi sheng	姚启圣	7
+yao shui nong	药水弄	7
+yao tao	要逃	7
+yao tong ning jiao nang	腰痛宁胶囊	7
+yao tu	腰突	7
+yao wu fen bu	药物分布	7
+yao xiu gai	要修改	7
+yao zhou chun xiao	药洲春晓	7
+yao cun cun	姚村村	6
+yao gen qian li	遥亘千里	6
+yao jia yuan bei yi lu	姚家园北一路	6
+yao jia yuan xi kou	姚家园西口	6
+yao lin qiong shu	瑶林琼树	6
+yao pin ling shou lian suo qi ye you guan gui ding	药品零售连锁企业有关规定	6
+yao shui juan	姚水娟	6
+yao shui shuang hua shu	药水霜化术	6
+yao tou ba	摇头吧	6
+yao wu xing wei yan	药物性胃炎	6
+yao zhuo wei yu yi shan yin	谣诼谓余以善淫	6
+yao chun	姚椿	5
+yao ding	药锭	5
+yao fa li le	要发力了	5
+yao hai qu gong ye yuan	瑶海区工业园	5
+yao lao le	要老了	5
+yao lin mao du zhen	腰林毛都镇	5
+yao min fen xi yi	药敏分析仪	5
+yao ming da	姚名达	5
+yao nai	姚鼐	5
+yao qian cun	窑前村	5
+yao ren an	姚仁安	5
+yao sao	要扫	5
+yao shan	腰疝	5
+yao shou dun zu	摇手顿足	5
+yao tang xiang	幺塘乡	5
+yao tong dian	腰痛点	5
+yao wen nie zi	咬文啮字	5
+yao wu hu tong	耀武胡同	5
+yao ya hen chi	咬牙恨齿	5
+yao yao zhu mu	遥遥注目	5
+yao yi ge	要一个	5
+yao chang cun	窑场村	4
+yao chang cun	药场村	4
+yao er lun zhi	要而论之	4
+yao he qi	咬合器	4
+yao jia yuan dong	姚家园东	4
+yao jia zhuang xiang	要家庄乡	4
+yao jian zhi	姚柬之	4
+yao li cun	窑里村	4
+yao lian xiao er nv	遥怜小儿女	4
+yao lu yao zu xiang	瑶麓瑶族乡	4
+yao meng jie dao	姚孟街道	4
+yao sao	腰臊	4
+yao shan cun	尧山村	4
+yao shi er cun	尧石二村	4
+yao shi fa xue	药事法学	4
+yao shou dun zu	摇首顿足	4
+yao shun qi you bing zhu	尧舜其犹病诸	4
+yao si kun lun beng jue bi	要似昆仑崩绝壁	4
+yao suo xiang	尧梭乡	4
+yao wu yi chuan xue	药物遗传学	4
+yao xiao dong li xue	药效动力学	4
+yao yang	尧阳	4
+yao yang guan xue	腰阳关穴	4
+yao yong cao ye	药用草叶	4
+yao bao zhong	要保重	3
+yao bi ji lai	摇笔即来	3
+yao er	靿儿	3
+yao fang ji	腰方肌	3
+yao gu bai mian chun lei fa	腰鼓百面春雷发	3
+yao hui	邀会	3
+yao ji heng	姚际恒	3
+yao jia ba cun	姚家坝村	3
+yao jia ban	要加班	3
+yao jia yuan xi	姚家园西	3
+yao jian xin cun	尧建新村	3
+yao jing cheng bao	妖精城堡	3
+yao kan han shui ya tou lv	遥看汉水鸭头绿	3
+yao ling da gu	摇铃打鼓	3
+yao ming she li	邀名射利	3
+yao pin jian ce che shi yong guan li zan xing gui ding	药品检测车使用管理暂行规定	3
+yao pin shang shi xu ke ren zhi du	药品上市许可人制度	3
+yao ren shou	姚仁寿	3
+yao shui xiang	尧水乡	3
+yao tiao yan cheng guo	窈窕艳城郭	3
+yao tui tong tie	腰腿痛贴	3
+yao wang jiu hua feng	遥望九华峰	3
+yao wei gui yu bi cheng zai	妖为鬼蜮必成灾	3
+yao wu du li xue	药物毒理学	3
+yao xi po zuo	摇席破座	3
+yao xian yin liu	药线引流	3
+yao xie	姚燮	3
+yao ye chen chen	遥夜沉沉	3
+yao yi ling	徭役令	3
+yao yi xia	约一下	3
+yao yi xin zhao	遥以心照	3
+yao yi yao	约一约	3
+yao yong gai	姚永概	3
+yao yong gao fen zi cai liao	药用高分子材料	3
+yao zhou	姚州	3
+yao zhuang xiang	腰庄乡	3
+yao an xin cun	尧安新村	2
+yao an zhen xiang	摇鞍镇乡	2
+yao chi	药匙	2
+yao diao	药铫	2
+yao diao er	药铫儿	2
+yao e	夭阏	2
+yao fang zhi fan gu shi dan	药方只贩古时丹	2
+yao fu	妖妇	2
+yao ge zhuang	姚哥庄	2
+yao gu shan	腰鼓山	2
+yao guo qin xin	腰果芹心	2
+yao hua chuang jian da sha	耀华创建大厦	2
+yao hua xi can ting	耀华西餐厅	2
+yao huai xiang	姚怀祥	2
+yao ji jian xi gan ran	咬肌间隙感染	2
+yao jia	姚家	2
+yao jia	瑶家	2
+yao jiang da jiu dian	耀江大酒店	2
+yao jiang yu zhou kan ti mi	要将宇宙看稊米	2
+yao jing yu sheng xiang dui xiao	瑶井玉绳相对晓	2
+yao lin lu	瑶琳路	2
+yao long ji tuan	耀隆集团	2
+yao luo shen zhi song yu bei	摇落深知宋玉悲	2
+yao mo cheng bao	妖魔城堡	2
+yao mo dou shi	妖魔斗士	2
+yao mo fa shi	妖魔法师	2
+yao mo gong jian shou	妖魔弓箭手	2
+yao mo yi jie lu	妖魔异界录	2
+yao nv zi	幺女子	2
+yao sao	幺嫂	2
+yao shan yao zu xiang	瑶山瑶族乡	2
+yao shao	药勺	2
+yao sheng	药圣	2
+yao ti	姚体	2
+yao wang bing	尧王饼	2
+yao wang qi zhou jiu dian yan	遥望齐州九点烟	2
+yao wen han	姚文瀚	2
+yao wu he cheng fan ying	药物合成反应	2
+yao wu lin chuang shi yan lun li shen cha gong zuo zhi dao yuan ze	药物临床试验伦理审查工作指导原则	2
+yao xiang xiao xiang zhi jin	要向潇湘直进	2
+yao xiang ying he	遥相应和	2
+yao xue zong he zhi shi yu ji neng	药学综合知识与技能	2
+yao yao yu huan ren	摇摇欲唤人	2
+yao you ge	要有个	2
+yao yuan	瑶螈	2
+yao yue di er shi	尧曰第二十	2
+yao zai	姚仔	2
+yao zhi bai guo wei mang wai	遥知百国微茫外	2
+yao zhi hong lou shi qie jia	遥指红楼是妾家	2
+yao zhu	窑主	2
+yao zhu niu rou zhou	珧柱牛肉粥	2
+yao zi	鹞子	2
+yao an feng ji	姚安封鸡	1
+yao bai gui	耀白鲑	1
+yao bai xie shou luo	摇摆蟹守螺	1
+yao ban sao ren can luo ying	要伴骚人餐落英	1
+yao ban yu lan gan	耀斑玉栏杆	1
+yao bao jie dao	腰堡街道	1
+yao bei chen	姚北辰	1
+yao bi nong she	摇笔弄舌	1
+yao bian	窑变	1
+yao bu	幺部	1
+yao can	药残	1
+yao cao qi pa	瑶草琪葩	1
+yao ce xin dian tu	遥测心电图	1
+yao cen cun bi	遥岑寸碧	1
+yao che	轺车	1
+yao chen	姚晨	1
+yao chen	姚琛	1
+yao chi chun	瑶池春	1
+yao chi guan yue	瑶池贯月	1
+yao chi mu li	咬齿牡蛎	1
+yao chi nv shi	瑶池女使	1
+yao chi tian jiang	瑶池天将	1
+yao chong zhao huo	要宠召祸	1
+yao chou na de gong fu	要愁那得功夫	1
+yao chu xiao han shang	杳出霄汉上	1
+yao chun gu hui	摇唇鼓喙	1
+yao chun gu wen	摇唇鼓吻	1
+yao chun zhi	耀唇指	1
+yao dai	腰袋	1
+yao dang hua jian yu	摇荡花间雨	1
+yao di	姚笛	1
+yao dian long	药店龙	1
+yao dong mai	腰动脉	1
+yao dui min shan yang	遥对岷山阳	1
+yao fei ti zhuang	腰肥体壮	1
+yao gan cong jiang bao	腰肝葱姜煲	1
+yao ge man wu	妖歌曼舞	1
+yao gong xi chong	邀功希宠	1
+yao gu bai mian ru chun lei	腰鼓百面如春雷	1
+yao gu xiong di	腰鼓兄弟	1
+yao guai de nian zhu	妖怪的念珠	1
+yao guang	耀光	1
+yao guang jie	摇光戒	1
+yao guang san ci jiao chan	耀光三刺角蝉	1
+yao guang xi er de kang ji man	耀光希尔德康吉鳗	1
+yao hong ye	姚洪业	1
+yao huan lu	瑶环路	1
+yao huang chuan fen	姚黄传粉	1
+yao huang wei pin	姚黄魏品	1
+yao huo	摇惑	1
+yao ji	邀击	1
+yao ji	邀集	1
+yao ji hai xi tou	遥寄海西头	1
+yao ji lu	姚集鲁	1
+yao jia qiao	姚家桥	1
+yao jia qiao cun	姚家桥村	1
+yao jia wei peng	谣甲尾鹏	1
+yao jia wen	姚佳雯	1
+yao jian fei chen ru jian zhang	遥见飞尘入建章	1
+yao jiang cun	姚江村	1
+yao jiang hu tong	姚江胡同	1
+yao jiao	夭矫	1
+yao jiao bu qun	夭矫不群	1
+yao jiao zhuan kong bi	夭矫转空碧	1
+yao jin cong huang ting yu sheng	要近丛篁听雨声	1
+yao jin qi he	腰金骑鹤	1
+yao jin yuan	姚觐元	1
+yao jing zhi cun	妖精之村	1
+yao jing zhi gong	妖精之弓	1
+yao jing zhi wang	妖精之王	1
+yao ju long shu	耀炬龙属	1
+yao juan cui ye hong jing feng die	咬鹃翠叶红颈凤蝶	1
+yao juan shu	咬鹃属	1
+yao kan meng jin he	遥看孟津河	1
+yao kan yi chu zan yun shu	遥看一处攒云树	1
+yao kong qi luo chao ke	钥孔嘁螺超科	1
+yao lan po yue xuan	遥岚破月悬	1
+yao li dao ming	要利盗名	1
+yao li xiu	姚礼修	1
+yao lin yu shu	瑶林玉树	1
+yao liu qiao hui zu xiang	幺六桥回族乡	1
+yao liu qing bai zai ren jian	要留青白在人间	1
+yao long zhi xu	药笼之需	1
+yao ming gong	姚明恭	1
+yao mo	幺麽	1
+yao mo bu luo	妖魔部落	1
+yao mo jiang shi	妖魔僵尸	1
+yao mo jing wei	妖魔警卫	1
+yao mo shi	妖魔尸	1
+yao mo xun shou	妖魔巡守	1
+yao mo zhan shi hu shen fu	妖魔战士护身符	1
+yao nie fu xi	妖孽伏息	1
+yao niu qiao fu	妖牛樵夫	1
+yao nuan ri yang zhong	腰暖日阳中	1
+yao pei cui lang gan	腰佩翠琅玕	1
+yao pei qian	姚培谦	1
+yao pin jia gong chu kou guan li gui ding	药品加工出口管理规定	1
+yao pin lei yi zhi du hua xue pin guan li ban fa	药品类易制毒化学品管理办法	1
+yao pin yi liao qi xie fa lv wen shu zhi zuo shi wu	药品医疗器械法律文书制作实务	1
+yao ping xiang	窑坪乡	1
+yao pu ji leng chi xiang	药铺脊棱齿象	1
+yao qi	腰奇	1
+yao qi dou peng	妖气斗篷	1
+yao qi xue	腰奇穴	1
+yao qin zhi	姚勤智	1
+yao qiong cun	瑶琼村	1
+yao qiu shi yong	要求试用	1
+yao qu shun bu	尧趋舜步	1
+yao que qu	摇鹊鸲	1
+yao qun	咬群	1
+yao qun	耀群	1
+yao ren cuan shu	咬人蹿鼠	1
+yao ren mao hei ban piao chong	咬人猫黑斑瓢虫	1
+yao sai jun xie ku	要塞军械库	1
+yao sao chu	要扫除	1
+yao sao miao	要扫描	1
+yao shan bao shui yu	药膳煲水鱼	1
+yao shan hua yuan	窑山花园	1
+yao sheng guai qi	妖声怪气	1
+yao shi gao yuan qiu	姚氏高原鳅	1
+yao shi nian pan chong	钥匙鲶盘虫	1
+yao shi tou cun	钥匙头村	1
+yao shou	夭寿	1
+yao shou	姚绶	1
+yao shou chu jin	摇手触禁	1
+yao shu	腰腧	1
+yao shu xue	腰腧穴	1
+yao shun yu tang wen wu zhou kong jie wei hui	尧舜禹汤文武周孔皆为灰	1
+yao suan bei zhang	腰酸背胀	1
+yao sui	姚燧	1
+yao tai yu lu	瑶台玉露	1
+yao tan jian xi qiu	窑滩间吸鳅	1
+yao tao	姚涛	1
+yao tiao ming ming	窈窕冥冥	1
+yao tiao wu shuang yan ru yu	窈窕无双颜如玉	1
+yao tong ba fa	药筒拔法	1
+yao tong xue	腰痛穴	1
+yao tou bu suan dian tou suan	摇头不算点头算	1
+yao tou xiang	窑头乡	1
+yao tun mu liu	幺豚暮鹨	1
+yao wan	窑湾	1
+yao wang zhi shuo	妖妄之说	1
+yao wei er qiu shi	摇尾而求食	1
+yao wei pi	耀尾魮	1
+yao wei qi ming	摇尾乞命	1
+yao wei qiu shi	摇尾求食	1
+yao wei tu zhong	摇尾涂中	1
+yao wei yun	尧蔚云	1
+yao wo deng yun tai	邀我登云台	1
+yao wu ai juan	药物艾卷	1
+yao wu cun	瑶坞村	1
+yao wu fen xi shi yan fang fa xue	药物分析实验方法学	1
+yao wu yin hao	杳无音耗	1
+yao wu ying xiang	杳无影响	1
+yao xi bu sheng wu	腰细不胜舞	1
+yao xi meng	姚希孟	1
+yao xi po zuo	摇席破坐	1
+yao xian gu yun	幺弦孤韵	1
+yao xian xiang	崾崄乡	1
+yao xiang er shi nian qian	遥想二十年前	1
+yao xiang ying he	摇相应和	1
+yao xing kuang deng yu	耀星眶灯鱼	1
+yao xing luo bo	药性萝卜	1
+yao xu hui wu xiu	要须回舞袖	1
+yao xue jian hu	药学监护	1
+yao xue ying yu	药学英语	1
+yao yan di deng yu	耀眼底灯鱼	1
+yao yan gui shui yun	摇艳桂水云	1
+yao yao hua zhou	摇摇华胄	1
+yao yao hua zhou	遥遥华胄	1
+yao yao tian di hu mo chu	杳杳天低鹘没处	1
+yao yao yi que	峣峣易缺	1
+yao yao zhi xi jing	遥遥至西荆	1
+yao yao zhong sheng wan	杳杳钟声晚	1
+yao ye bi yun xie	摇曳碧云斜	1
+yao ye guo lv lv mo	药液过滤滤膜	1
+yao ye ying	耀夜萤	1
+yao yi jia	姚以价	1
+yao yin za zi	咬音咂字	1
+yao yong tan pian	药用炭片	1
+yao yong zhi wu hai chong	药用植物害虫	1
+yao yu shun feng	尧雨舜风	1
+yao yuan cun	窑院村	1
+yao yue chang	邀月唱	1
+yao yun zhu	姚芸竹	1
+yao zhen zhao chao xie	摇震招潮蟹	1
+yao zhi kong zhong yan zuo geng	遥指空中雁作羹	1
+yao zhi tu she	咬指吐舌	1
+yao zhi wei jun ye	尧之为君也	1
+yao zhi zi cui jian	遥知紫翠间	1
+yao zhui di hua	腰椎骶化	1
+yao zhui yong ti xing gu zao	腰椎用梯形骨凿	1
+yao zhuo fen yun	谣诼纷纭	1
+yao zi bo qi gen	要自拨其根	1
+yao zu gou yu	腰足沟鱼	1
+yao zu rong zong	耀祖荣宗	1
+yao zu yi shou	妖族异兽	1
+yao zui diao she	摇嘴掉舌	1

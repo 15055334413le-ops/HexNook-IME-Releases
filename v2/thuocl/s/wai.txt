@@ -1,0 +1,219 @@
+wai zi	外资	51027
+wai ke	外科	28090
+wai hui	外汇	26022
+wai shang	外伤	17157
+wai jian	外键	14380
+wai wang	外网	10383
+wai bu lei	外部类	9287
+wai zi bao xian gong si	外资保险公司	9001
+wai shi ban	外事办	8887
+wai guo yu xue xiao	外国语学校	8097
+wai tan	外滩	7933
+wai zhai	外债	6993
+wai bi	外币	5614
+wai xiao	外销	5565
+wai mao yi jing ying zhe	外贸易经营者	5344
+wai bu diao yong	外部调用	5008
+wai bao	外包	4765
+wai lian jie	外连接	4306
+wai guo zhuan jia ju	外国专家局	4111
+wai bu cun chu	外部存储	4064
+wai ke shou shu	外科手术	3938
+wai jian yue shu	外键约束	3883
+wai bu cheng xu	外部程序	3827
+wai bian ju	外边距	3383
+wai guan mo shi	外观模式	3198
+wai feng xie qi	歪风邪气	2901
+wai wei she bei	外围设备	2670
+wai guo yu xue yuan	外国语学院	2645
+wai zi yin hang guan li tiao li	外资银行管理条例	2547
+wai lian	外链	2518
+wai bu zhong duan	外部中断	2261
+wai gao qiao	外高桥	2257
+wai jian guan lian	外键关联	2067
+wai mao dai li	外贸代理	2020
+wai huan xian	外环线	1782
+wai hui guan li	外汇管理	1707
+wai bu biao	外部表	1402
+wai huan lu	外环路	1373
+wai pai xu	外排序	1142
+wai cun	外村	1133
+wai wang fang wen	外网访问	1072
+wai bu pai xu	外部排序	1056
+wai bu yang shi biao	外部样式表	1043
+wai yu xue yuan	外语学院	1041
+wai men xie dao	歪门邪道	1039
+wai fan	外翻	971
+wai zhan	外展	928
+wai bu gong ju	外部工具	892
+wai yin	外阴	811
+wai gao qiao bao shui qu	外高桥保税区	736
+wai tao mo	外套膜	702
+wai bu yang shi	外部样式	692
+wai lun dai li gong si	外轮代理公司	588
+wai hui guan zhi	外汇管制	551
+wai hui zi jin	外汇资金	551
+wai guan ju	外管局	542
+wai da zheng zhao	歪打正着	532
+wai pan	外盘	508
+wai gan	外感	447
+wai cun chu qi	外存储器	439
+wai mo shi	外模式	408
+wai xie	外邪	408
+wai bu zong xian	外部总线	375
+wai ke xue	外科学	353
+wai hui zi chan	外汇资产	345
+wai er dao	外耳道	319
+wai shi xue yuan	外事学院	312
+wai qiang zhong gan	外强中干	288
+wai he	外河	277
+wai sheng zhi qi	外生殖器	275
+wai guo zhong cai cai jue gong yue	外国仲裁裁决公约	272
+wai bu wang guan xie yi	外部网关协议	254
+wai shang du zi bao xian gong si	外商独资保险公司	230
+wai gao	外高	227
+wai da lu jia	外大陆架	209
+wai rou nei gang	外柔内刚	194
+wai gan feng han	外感风寒	182
+wai ke ji bing	外科疾病	165
+wai po jia zui yu	外婆家醉鱼	149
+wai yin sao yang	外阴瘙痒	149
+wai yuan nei fang	外圆内方	136
+wai ceng kong jian fa	外层空间法	127
+wai jie cheng xu	外接程序	123
+wai wen fan yi	外文翻译	120
+wai lian jie	外联结	116
+wai zhi	外痔	115
+wai qi	外戚	98
+wai ban	外板	95
+wai hui bao zheng jin kai hu	外汇保证金开户	91
+wai mao wu liu	外贸物流	83
+wai yin yan	外阴炎	83
+wai shang xing bai nei zhang	外伤性白内障	77
+wai huan dong lu	外环东路	75
+wai huan nan lu	外环南路	75
+wai huan xi lu	外环西路	73
+wai cai jian	外裁剪	72
+wai shan	外山	72
+wai lian wang	外联网	69
+wai xing ying er	外星婴儿	64
+wai yuan ji yin	外源基因	64
+wai xian zi	外显子	62
+wai ling ding dao	外伶仃岛	61
+wai ke ming ling	外壳命令	58
+wai ceng	外曾	52
+wai wai	外外	52
+wai ke jin cheng	外壳进程	51
+wai sha	外沙	47
+wai huang	外黄	45
+wai zhou zu li	外周阻力	44
+wai ceng kong jian wu qi	外层空间武器	42
+wai du su	外毒素	42
+wai ke jiao ben	外壳脚本	42
+wai fang nei yuan	外方内圆	40
+wai gang nei rou	外刚内柔	39
+wai guo tou zi fa	外国投资法	38
+wai huan lu zhan	外环路站	34
+wai mao xue xiao	外贸学校	34
+wai jiao bu jie	外交部街	31
+wai bu wei xie	外部威胁	29
+wai guan	外关	29
+wai guo yin hang	外国银行	29
+wai bu xie yi	外部协议	27
+wai guan xue	外关穴	25
+wai ba	外坝	24
+wai fen mi	外分泌	22
+wai fen mi xian	外分泌腺	22
+wai pei ceng fa yu bu liang	外胚层发育不良	22
+wai huan bei lu	外环北路	21
+wai ce ban yue ban	外侧半月板	20
+wai er dao yi wu	外耳道异物	20
+wai mao cang ku	外贸仓库	18
+wai wen yin shua chang	外文印刷厂	18
+wai guan xie jie	外馆斜街	17
+wai bi	外鼻	16
+wai mao dai li zhi du	外贸代理制度	16
+wai pei ceng	外胚层	16
+wai tai mi yao	外台秘要	16
+wai zhuan wai yu	外专外语	16
+wai ke yu yan	外壳语言	15
+wai mao zhong xin jiu dian	外贸中心酒店	15
+wai chu jing ying xu ke zheng	外出经营许可证	14
+wai guan she ji fa lv bao hu	外观设计法律保护	14
+wai wei chu li ji	外围处理机	14
+wai wu xu ren yu	外侮需人御	14
+wai xie shi	外斜视	14
+wai bi guo zhai	外币国债	13
+wai bu ye biao	外部页表	12
+wai er dao bi suo	外耳道闭锁	12
+wai yuan ning ji su	外源凝集素	11
+wai guan wen jian	外观文件	10
+wai guo zhi jie tou zi	外国直接投资	10
+wai long	外龙	10
+wai zhai	外宅	10
+wai hui bao	外汇宝	9
+wai zhai	外寨	9
+wai pao cun	外炮村	8
+wai yin kui yang	外阴溃疡	8
+wai yuan xing gan ran	外源性感染	8
+wai yun si	外运司	8
+wai ao	外岙	7
+wai lao gong	外劳宫	7
+wai qi shen er shen cun	外其身而身存	7
+wai yin yin dao yan	外阴阴道炎	7
+wai zhao she man xing fang she bing	外照射慢性放射病	7
+wai gou men xiang	外沟门乡	6
+wai huai jian	外踝尖	6
+wai ke hu li xue	外科护理学	6
+wai lai zhong duan mao mao	外来种短毛猫	6
+wai shi xue yuan bei qu	外事学院北区	6
+wai xiang chun jie	外湘春街	6
+wai yin ai gen zhi shu	外阴癌根治术	6
+wai yin ying yang bu liang	外阴营养不良	6
+wai da qiao	外大桥	5
+wai fan zu	外翻足	5
+wai hui tong	外汇通	5
+wai lang ying cun	外郎营村	5
+wai pu xiang	外埔乡	5
+wai wen yin shua chang xi men	外文印刷厂西门	5
+wai zhou jing mai ya	外周静脉压	5
+wai bi cun	外碧村	4
+wai qiao si	外乔司	4
+wai yong wu di gao	外用无敌膏	4
+wai bing	外丙	3
+wai er dao dan zhi liu	外耳道胆脂瘤	3
+wai er dao ru tou zhuang liu	外耳道乳头状瘤	3
+wai huan hua	外浣花	3
+wai lei you xin qi	外累由心起	3
+wai shan cun	外山村	3
+wai yin wei suo	外阴萎缩	3
+wai dong xi	歪东西	2
+wai gan feng han ke li	外感风寒颗粒	2
+wai ju bu qi chou	外举不弃仇	2
+wai mao fa lv shi wu	外贸法律实务	2
+wai xian lv	外显率	2
+wai yin jian rui shi you	外阴尖锐湿疣	2
+wai yin xie	外隐斜	2
+wai cun gong yuan	外村公园	1
+wai er dao jie	外耳道疖	1
+wai fei shi fan ying	外斐氏反应	1
+wai guo fa yuan shuo	外国法院说	1
+wai hui jiao yi	外汇交易	1
+wai mao qi xiu chang	外贸汽修厂	1
+wai qu cuan gai ta ren zuo pin	歪曲篡改他人作品	1
+wai rong bai hai chang	外融百骸畅	1
+wai shang ke	外上髁	1
+wai shang tou zi liu tong ye	外商投资流通业	1
+wai tie pu xiang	外铁铺巷	1
+wai wu qi gong qiang jin zhi qin	外无期功强近之亲	1
+wai wu shao neng bi	外物少能逼	1
+wai xian ji yi	外显记忆	1
+wai xiao xuan ti	外消旋体	1
+wai yin bai se bing bian	外阴白色病变	1
+wai yong ying ji ruan gao	外用应急软膏	1
+wai yu da xue she qu	外语大学社区	1
+wai zhai cun	外寨村	1
+wai zhan shen jing	外展神经	1
+wai zhao she ji xing fang she bing	外照射急性放射病	1
+wai zhuang cun	外庄村	1
+wai gao jia suo ou bian	外高加索欧鳊	0

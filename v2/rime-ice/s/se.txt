@@ -1,0 +1,382 @@
+se cai	色彩	500479
+se qing	色情	219740
+se ze	色泽	148150
+se diao	色调	125230
+se su	色素	78525
+se lang	色狼	56550
+se cha	色差	34170
+se xiang	色相	31140
+se xi	色系	30610
+se dai	色带	30135
+se ban	色斑	29905
+se ka	色卡	22845
+se qing dian ying	色情电影	21540
+se pu	色谱	20990
+se du	色度	20200
+se bian	色变	19900
+se wen	色温	19900
+se kuai	色块	18650
+se cai da pei	色彩搭配	17305
+se cai ban lan	色彩斑斓	16255
+se mang	色盲	16180
+se la you	色拉油	15520
+se su chen zhuo	色素沉着	14710
+se san	色散	14000
+se jie	色阶	13635
+se cai xian yan	色彩鲜艳	13395
+se qing nei rong	色情内容	12905
+se la	色拉	12445
+se xiang wei	色香味	12105
+se qing wang zhan	色情网站	12010
+se pu fa	色谱法	11800
+se cai yan li	色彩艳丽	11690
+se guang	色光	11665
+se xiang wei ju quan	色香味俱全	11452
+se dan	色胆	9480
+se ji shi kong	色即是空	9085
+se qing tu pian	色情图片	8900
+se se fa dou	瑟瑟发抖	8740
+se se de	涩涩的	8560
+se lao du	色牢度	8540
+se cai bin fen	色彩缤纷	7830
+se biao	色标	7620
+se gui	色鬼	7505
+se wei shu	色位数	7350
+se ze xian yan	色泽鲜艳	7265
+se pu yi	色谱仪	7065
+se zhun	色准	6983
+se cai guan li	色彩管理	6945
+se qing xiao shuo	色情小说	6690
+se pian	色偏	6685
+se gu mei xi	涩谷美希	6666
+se ying	色影	6065
+se cai she ji	色彩设计	5845
+se yu	色欲	5760
+se mo	色魔	5740
+se xin	色心	5720
+se an suan	色氨酸	5710
+se liao	色料	5695
+se qing wang	色情网	5690
+se you	色诱	5575
+se jiang	色浆	5460
+se zhi	色纸	5270
+se ruo	色弱	5225
+se hao	色号	4865
+se de	涩的	4555
+se kong	色空	4535
+se shen	色深	4525
+se fen	色粉	4485
+se gou	色狗	4444
+se mu li	色母粒	4340
+se qian	色浅	4300
+se cai bao he du	色彩饱和度	4135
+se la si	色拉寺	4130
+se cai dui bi	色彩对比	3990
+se wei	涩味	3985
+se cai xuan ze	色彩选择	3920
+se suo	瑟缩	3920
+se nv	色女	3800
+se qing pian	色情片	3635
+se cai xian ming	色彩鲜明	3375
+se su ban	色素斑	3000
+se fa	色法	2845
+se gan	色感	2845
+se qing ye	色情业	2835
+se cai kong jian	色彩空间	2820
+se jue	色觉	2690
+se cai xue	色彩学	2685
+se mu	色母	2625
+se man	瑟曼	2505
+se zhi bu	色织布	2485
+se qing fu wu	色情服务	2445
+se pian	色片	2415
+se yang	色样	2370
+se dang	色当	2315
+se zhi	色值	2260
+se chun	色纯	2155
+se nan	色男	2145
+se qiu	色球	2125
+se da	色达	2055
+se yi	色艺	2000
+se cai gan	色彩感	1950
+se qing wang zhi	色情网址	1875
+se bu yi kong	色不异空	1860
+se pu fen xi	色谱分析	1825
+se qing kuang	色情狂	1800
+se tiao	色条	1735
+se tu	色图	1700
+se gu	涩谷	1680
+se mi mi	色眯眯	1680
+se nv lang	涩女郎	1675
+se qing wen xue	色情文学	1460
+se se	瑟瑟	1427
+se dan bao tian	色胆包天	1405
+se li nei ren	色厉内荏	1330
+se ji	色基	1295
+se bao he du	色饱和度	1285
+se cai he xie	色彩和谐	1235
+se ban	色板	1180
+se shi gua gu gang dao	色是刮骨钢刀	1180
+se cai fen cheng	色彩纷呈	1165
+se mu ren	色目人	1130
+se bi	色笔	1111
+se jie	色戒	1111
+se xing	色性	1111
+se yin	色淫	1111
+se se	色色	1072
+se qing za zhi	色情杂志	1035
+se ze xian ming	色泽鲜明	995
+se yun	色晕	980
+se se	涩涩	954
+se qing nan nv	色情男女	900
+se shuai	色衰	900
+se zhi	色织	885
+se guo zi	色果子	851
+se qing ying pian	色情影片	845
+se qing man hua	色情漫画	800
+se dai jia	色带架	780
+se fu	啬夫	750
+se kou	涩口	689
+se yu	色域	688
+se cai zhuan huan	色彩转换	650
+se er bu yin	色而不淫	640
+se suo zhe	瑟缩着	625
+se pu chun	色谱纯	606
+se jie tian	色界天	580
+se bao	瑟堡	565
+se da xian	色达县	565
+se zhi	涩滞	565
+se qing guang gao	色情广告	550
+se nv lang	色女郎	510
+se qu	色区	490
+se ca yin	塞擦音	485
+se ge la	色格拉	475
+se mei mei	色妹妹	440
+se you	色釉	430
+se du ji	色度计	390
+se lun	色轮	389
+se du xue	色度学	355
+se zhi chang	色织厂	350
+se dai he	色带盒	325
+se yi shuang jue	色艺双绝	315
+se suo	瑟索	310
+se lin cuo	色林错	275
+se leng ge he	色楞格河	250
+se qing ka tong	色情卡通	205
+se nv ren	色女人	185
+se cai xing	色彩性	180
+se mang huan zhe	色盲患者	180
+se li ya	瑟莉亚	175
+se xi	瑟曦	123
+se cai ceng	色彩层	120
+se cai fan wei	色彩范围	115
+se ze	塞责	112
+se qun	色群	111
+se wang	色网	111
+se mang zheng	色盲症	110
+se san li	色散力	105
+se biao chuan gan qi	色标传感器	100
+se bu mi ren	色不迷人	100
+se bu mi ren ren zi mi	色不迷人人自迷	100
+se cai bao he du gao	色彩饱和度高	100
+se cai chun du	色彩纯度	100
+se cai dan diao	色彩单调	100
+se cai de	色彩的	100
+se cai de bao he du	色彩的饱和度	100
+se cai di dai	色彩地带	100
+se cai du	色彩度	100
+se cai dui bi du	色彩对比度	100
+se cai gan jue	色彩感觉	100
+se cai guan li xi tong	色彩管理系统	100
+se cai guan xi	色彩关系	100
+se cai huan yuan	色彩还原	100
+se cai huan yuan du	色彩还原度	100
+se cai huan yuan neng li	色彩还原能力	100
+se cai huan yuan zhun que	色彩还原准确	100
+se cai ji diao	色彩基调	100
+se cai jiao zheng	色彩校正	100
+se cai jiao zhun	色彩校准	100
+se cai jing du	色彩精度	100
+se cai jing zhun du	色彩精准度	100
+se cai liang du	色彩亮度	100
+se cai ming du	色彩明度	100
+se cai mo shi	色彩模式	100
+se cai nong zhong	色彩浓重	100
+se cai san yao su	色彩三要素	100
+se cai shen du	色彩深度	100
+se cai shi jue	色彩视觉	100
+se cai ti xi	色彩体系	100
+se cai tiao he	色彩调和	100
+se cai tiao jie	色彩调节	100
+se cai tiao pei	色彩调配	100
+se cai tiao xie	色彩调谐	100
+se cai tiao zheng	色彩调整	100
+se cai xi lie	色彩系列	100
+se cai xi tong	色彩系统	100
+se cai xie tiao	色彩协调	100
+se cai zhun que du	色彩准确度	100
+se dan ru tian	色胆如天	100
+se diao bian hua	色调变化	100
+se diao da pei	色调搭配	100
+se diao dan ya	色调淡雅	100
+se diao dan yi	色调单一	100
+se diao de da pei	色调的搭配	100
+se diao de xuan ze	色调的选择	100
+se diao dui bi	色调对比	100
+se diao feng ge	色调风格	100
+se diao he xie	色调和谐	100
+se diao ming kuai	色调明快	100
+se diao pian an	色调偏暗	100
+se diao qing xin	色调清新	100
+se diao she ji	色调设计	100
+se diao tong yi	色调统一	100
+se diao wei zhu	色调为主	100
+se diao xuan ze	色调选择	100
+se diao yi zhi	色调一致	100
+se diao ying she	色调映射	100
+se du yi	色度仪	100
+se gu guo bu	涩谷果步	100
+se gu la mei	涩谷辣妹	100
+se gu xi	涩谷系	100
+se jue yi chang	色觉异常	100
+se la jiang	色拉酱	100
+se la zan en	瑟拉赞恩	100
+se lao du gao	色牢度高	100
+se li ci yan	色厉词严	100
+se li ya	瑟利亚	100
+se ling zhi hun	色令智昏	100
+se mang mo shi	色盲模式	100
+se nong qin tiao	瑟弄琴调	100
+se qing du wu	色情读物	100
+se qing hang ye	色情行业	100
+se qing wang ye	色情网页	100
+se qing you xi	色情游戏	100
+se qing zuo pin	色情作品	100
+se ru si hui	色如死灰	100
+se ruo si hui	色若死灰	100
+se san jiao zheng	色散矫正	100
+se san zhi	色散值	100
+se se qiu feng	瑟瑟秋风	100
+se shou hun yu	色授魂与	100
+se shou xiang xing shi	色受想行识	100
+se shuai ai chi	色衰爱弛	100
+se su chen zhuo ban	色素沉着斑	100
+se su ti	色素体	100
+se tiao qin nong	瑟调琴弄	100
+se wen chuan gan qi	色温传感器	100
+se wen tiao jie	色温调节	100
+se xi da pei	色系搭配	100
+se xi de da pei	色系的搭配	100
+se xi jun tuan	色系军团	100
+se xi lie	色系列	100
+se xi man hua	色系漫画	100
+se xiang bao he du	色相饱和度	100
+se yi wu shuang	色艺无双	100
+se ying wu ji	色影无忌	100
+se you shu	色诱术	100
+se yu fu gai lv	色域覆盖率	100
+se yu zhi zui	色欲之罪	100
+se yuan ba ben	塞源拔本	100
+se yuan su	铯元素	100
+se yuan zi	铯原子	100
+se yuan zi zhong	铯原子钟	100
+se ze du	色泽度	100
+se zhong e gui	色中饿鬼	100
+se zhuang ni	瑟庄妮	100
+se zi tou shang yi ba dao	色字头上一把刀	100
+se zi tou shang you ba dao	色字头上有把刀	100
+se yin ding	瑟银锭	95
+se cai ping	色彩屏	88
+se diao fen li	色调分离	80
+se su zhi	色素痣	69
+se qiu yi	色球衣	65
+se cai lun	色彩论	60
+se cai shu	色彩数	59
+se du tu	色度图	56
+se de xiang	涩得像	50
+se kong jian	色空间	50
+se yi	色夷	35
+se ka xiang	色卡乡	30
+se mo xing	色模型	29
+se chang zhi xie	涩肠止泻	27
+se yin xiong di hui	瑟银兄弟会	26
+se su xing shi wang mo yan	色素性视网膜炎	24
+se du zuo biao	色度坐标	22
+se su mo	色素膜	21
+se jian	色键	20
+se su jian tui	色素减退	20
+se su tuo shi	色素脱失	19
+se ping heng	色平衡	18
+se se suo suo	瑟瑟缩缩	16
+se dan	色淡	15
+se pa ba yi xiang	色帕巴依乡	15
+se wu xiang	色务乡	15
+se zhe ne	色着呢	15
+se bi	色逼	11
+se di xiang	色地乡	11
+se gan suan na	色甘酸钠	11
+se yin	塞音	11
+se bo qie er	瑟伯切尔	10
+se se ju quan	色色俱全	10
+se an	色胺	9
+se zhan	色站	9
+se qi	色气	7
+se jue jian cha	色觉检查	6
+se shu fen	色树坟	6
+se bi	涩笔	5
+se er gu xiang	色尔古乡	5
+se han zheng	色汗症	5
+se pi pei	色匹配	5
+se qing xiang	色庆乡	5
+se se xing xing	色色形形	5
+se ti li xiang	色提力乡	5
+se ge zi ku le xiang	色格孜库勒乡	3
+se la sai en	瑟拉塞恩	3
+se li er nei ren	色厉而内荏	3
+se qu ren er xing wei	色取仁而行违	3
+se su xing mao biao pi zhi	色素性毛表皮痣	3
+se wu mei fei	色舞眉飞	3
+se xi di xiang	色西底乡	3
+se you zhi shu	色诱之术	3
+se di xiang	色底乡	2
+se gan suan na di yan ye	色甘酸钠滴眼液	2
+se gan suan na qi wu ji	色甘酸钠气雾剂	2
+se he pu zhen	色河铺镇	2
+se jie	色界	2
+se jing shen song li	色静深松里	2
+se ka bu si ku	瑟卡布斯库	2
+se lun	瑟伦	2
+se se gu zhong feng	瑟瑟谷中风	2
+se shuai ai qin	色衰爱寝	2
+se su xing qing guang yan	色素性青光眼	2
+se ze ban bo	色泽斑驳	2
+se cong zong ke	色蟌总科	1
+se dan mi tian	色胆迷天	1
+se fei mei wu	色飞眉舞	1
+se gen shi	瑟根石	1
+se hou	色后	1
+se ji feng gong	啬己奉公	1
+se jiao ban hua tian niu	色角斑花天牛	1
+se ka bu si ku de ying di	瑟卡布斯库的营地	1
+se ke	啬刻	1
+se la dan	瑟拉丹	1
+se lei si yan bao luo	瑟雷四眼宝螺	1
+se lu ji zhi jian	瑟鲁基之剑	1
+se mai he can	色脉合参	1
+se mao mu	色矛目	1
+se niu	色妞	1
+se pai	色拍	1
+se qiang bing na	色羟丙钠	1
+se ren xing wei	色仁行违	1
+se se de	色色的	1
+se shi pu	瑟氏獛	1
+se su shi jin zheng	色素失禁症	1
+se sui qi hua	色随气华	1
+se ti	瑟提	1
+se wei xiang	色威乡	1
+se xiong xiang	色雄乡	1
+se yi jue lun	色艺绝伦	1
+se yi liang jue	色艺两绝	1
+se yin dun ci	瑟银盾刺	1
+se yu chun ting mu	色与春庭暮	1
+se yu yan lun	涩于言论	1

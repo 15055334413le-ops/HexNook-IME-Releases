@@ -1,0 +1,1729 @@
+sha fa	沙发	235615
+sha shou	杀手	207140
+sha ren	杀人	194905
+sha si	杀死	164105
+sha mo	沙漠	162425
+sha du ruan jian	杀毒软件	144240
+sha la	沙拉	121544
+sha tan	沙滩	120895
+sha che	刹车	120870
+sha long	沙龙	113545
+sha du	杀毒	105165
+sha sha de	傻傻地	99999
+sha jun	杀菌	88005
+sha gua	傻瓜	85270
+sha fa shang	沙发上	81935
+sha hai	杀害	62685
+sha diao	杀掉	52845
+sha zi	傻子	48570
+sha yu	鲨鱼	43440
+sha shang li	杀伤力	41930
+sha xian	纱线	39745
+sha te	沙特	39570
+sha lu	杀戮	37275
+sha chong ji	杀虫剂	35350
+sha bu	纱布	35095
+sha jiang	砂浆	34205
+sha shang	杀伤	33780
+sha qi	杀气	33080
+sha shi bi ya	莎士比亚	30880
+sha tan shang	沙滩上	27995
+sha chong	杀虫	27830
+sha xiao	傻笑	25180
+sha qiu	沙丘	24775
+sha si le	杀死了	23930
+sha sha de	傻傻的	23745
+sha sha	傻傻	23070
+sha men	沙门	22835
+sha lun	砂轮	22660
+sha te a la bo	沙特阿拉伯	22440
+sha jun ji	杀菌剂	22270
+sha de	啥的	22222
+sha chen bao	沙尘暴	22190
+sha wo	杀我	21750
+sha ta	杀他	20265
+sha ru	杀入	20230
+sha chu	杀出	19905
+sha guo	砂锅	19525
+sha ji	杀机	18770
+sha di	杀敌	18405
+sha chang	沙场	17785
+sha yan	砂岩	17585
+sha tang	砂糖	17410
+sha ni	杀你	17330
+sha sheng	杀生	17175
+sha le ta	杀了他	17145
+sha shou jian	杀手锏	16710
+sha tu	沙土	16315
+sha zhou	沙洲	16145
+sha dao	杀到	15760
+sha ping ba qu	沙坪坝区	15635
+sha huang	沙皇	15610
+sha shi hou	啥时候	14980
+sha zhi	砂纸	14927
+sha zhu	杀猪	14905
+sha cheng	沙城	14865
+sha chuang	纱窗	14785
+sha pan	沙盘	14760
+sha yan	傻眼	14295
+sha ren shi jian	杀人事件	14205
+sha jing	沙井	14080
+sha mo li	沙漠里	13930
+sha che deng	刹车灯	13840
+sha chen	沙尘	13295
+sha le ni	杀了你	13205
+sha mo zhong	沙漠中	12720
+sha xian	沙县	12690
+sha he kou qu	沙河口区	12315
+sha seng	沙僧	12045
+sha ren an	杀人案	12015
+sha ren fan	杀人犯	12010
+sha qing	杀青	11725
+sha qing le	杀青了	11725
+sha qing le ba	杀青了吧	11725
+sha qing le ma	杀青了吗	11725
+sha qing le mei	杀青了没	11725
+sha guang	杀光	11645
+sha hu hu	傻乎乎	11540
+sha shi	啥事	11515
+sha ping ba	沙坪坝	11285
+sha shi	啥是	11111
+sha de	傻的	10980
+sha shi	傻事	10660
+sha e	沙俄	10435
+sha shi	霎时	10360
+sha fei ku xin	煞费苦心	10335
+sha la jiang	沙拉酱	10136
+sha yan	沙眼	10025
+sha diao	傻屌	9999
+sha dou	啥都	9999
+sha ge	杀个	9999
+sha guo qian er	砂锅浅儿	9999
+sha he	沙盒	9999
+sha hu qiu	沙狐球	9999
+sha jiao	啥叫	9999
+sha leng zi	傻愣子	9999
+sha mie	杀灭	9999
+sha qian er	砂浅儿	9999
+sha que	傻缺	9999
+sha shi	沙石	9999
+sha shu	杀熟	9999
+sha te a la bo wang guo	沙特阿拉伯王国	9999
+sha wan yi	啥玩意	9999
+sha ye	啥也	9999
+sha ying	沙鹰	9999
+sha yong	啥用	9999
+sha zi	啥子	9999
+sha jin	杀进	9985
+sha keng	沙坑	9880
+sha cha	傻叉	9800
+sha shi	煞是	9470
+sha jia	杀价	9465
+sha li	沙粒	9415
+sha le	杀了	9350
+sha le yan	傻了眼	9285
+sha mo hua	沙漠化	9020
+sha dai	沙袋	8965
+sha shi	砂石	8888
+sha hai le	杀害了	8835
+sha che pian	刹车片	8785
+sha guo	杀过	8740
+sha qi	煞气	8670
+sha tou jiao	沙头角	8540
+sha ji	杀鸡	8505
+sha ya tou	傻丫头	8420
+sha bao	沙包	8205
+sha ding yu	沙丁鱼	8165
+sha fa li	沙发里	8030
+sha bai	煞白	8010
+sha men shi jun	沙门氏菌	7910
+sha ren kuang	杀人狂	7790
+sha li	沙砾	7785
+sha bao	傻宝	7777
+sha sha	啥啥	7777
+sha bi	傻逼	7500
+sha tan pai qiu	沙滩排球	7480
+sha you jie shi	煞有介事	7455
+sha hai zi	傻孩子	7425
+sha zi	沙子	7295
+sha shi	啥时	7280
+sha shi jian	霎时间	7220
+sha xiao zi	傻小子	7210
+sha jia	沙加	7110
+sha gua shi	傻瓜式	6805
+sha zhu	刹住	6795
+sha ke	沙克	6770
+sha shen zhi huo	杀身之祸	6755
+sha ruan	杀软	6715
+sha yi	杀意	6695
+sha cang zhen cai	纱仓真菜	6666
+sha de	傻得	6666
+sha feng	杀疯	6666
+sha feng le	杀疯了	6666
+sha sha yuan bai he	纱纱原百合	6666
+sha yue hui nai	沙月惠奈	6666
+sha yue ya yi	沙月芽衣	6666
+sha sha	杀杀	6630
+sha lou	沙漏	6600
+sha hai	沙海	6495
+sha jia bang	沙家浜	6455
+sha die	杀跌	6315
+sha che you	刹车油	6305
+sha ren fang huo	杀人放火	6295
+sha mi	沙弥	6200
+sha tou	杀头	6175
+sha qi teng teng	杀气腾腾	6130
+sha ren mie kou	杀人灭口	6085
+sha jun zuo yong	杀菌作用	6040
+sha zi	砂子	6005
+sha de	杀的	5935
+sha zhi	沙质	5935
+sha de	杀得	5765
+sha la bo wa	莎拉波娃	5735
+sha li	纱丽	5555
+sha li fu	纱丽服	5555
+sha me	啥么	5555
+sha mei	啥没	5555
+sha mu	纱幕	5555
+sha niao	傻鸟	5555
+sha yao	啥药	5555
+sha chang	纱厂	5480
+sha ya	啥呀	5460
+sha lang	莎朗	5430
+sha le ta	杀了她	5365
+sha wu she	杀无赦	5350
+sha fa chuang	沙发床	5325
+sha qi	傻气	5280
+sha fu	杀父	5110
+sha zhong	沙中	5110
+sha zha	刹闸	5105
+sha mian	沙面	5100
+sha ren zhe	杀人者	5095
+sha jin	纱巾	5065
+sha bing du	杀病毒	4980
+sha yang	啥样	4965
+sha xing	沙星	4900
+sha yi si	啥意思	4815
+sha bao	沙暴	4805
+sha dan	傻蛋	4765
+sha ne	啥呢	4684
+sha xing	煞星	4580
+sha diao	傻掉	4567
+sha yao	杀妖	4444
+sha gou	傻狗	4321
+sha a	啥啊	4295
+sha po tou	沙坡头	4290
+sha bao liang	沙宝亮	4285
+sha shi hao kan	煞是好看	4275
+sha po lang	杀破狼	4255
+sha ren xiong shou	杀人凶手	4125
+sha tian you	沙田柚	4125
+sha jin	杀尽	3990
+sha ou	沙鸥	3985
+sha dui	沙堆	3980
+sha ren bu zha yan	杀人不眨眼	3980
+sha mao	傻冒	3945
+sha de hen	傻得很	3885
+sha dong	沙东	3885
+sha bu liao	杀不了	3875
+sha ji qu luan	杀鸡取卵	3870
+sha gua hua	傻瓜化	3860
+sha zao	沙枣	3854
+sha ba ke	沙巴克	3825
+sha fa	杀伐	3790
+sha chen tian qi	沙尘天气	3785
+sha feng jing	煞风景	3595
+sha chu chong wei	杀出重围	3520
+sha qi ma	沙琪玛	3520
+sha ji	沙棘	3475
+sha xi zhen	沙溪镇	3470
+sha di shang	沙地上	3460
+sha mu ma	杀木马	3460
+sha che pan	刹车盘	3450
+sha yang	沙洋	3445
+sha qi	杀妻	3410
+sha yan	砂眼	3390
+sha he zhen	沙河镇	3385
+sha man	杀螨	3375
+sha nv	傻女	3355
+sha bu	傻不	3333
+sha fa he deng	沙发和灯	3333
+sha ge	啥歌	3333
+sha gua lian	傻瓜脸	3333
+sha hui	杀回	3333
+sha la	傻啦	3333
+sha tan liang xie	沙滩凉鞋	3333
+sha tan san	沙滩伞	3333
+sha ting	刹停	3333
+sha wan	杀完	3333
+sha wei	啥味	3333
+sha wei er	啥味儿	3333
+sha che ta ban	刹车踏板	3275
+sha qun	纱裙	3270
+sha zhao	杀招	3175
+sha sha sheng	沙沙声	3150
+sha shen	杀身	3150
+sha yu er gui	铩羽而归	3085
+sha yi sha	杀一杀	3030
+sha diao	沙雕	3015
+sha hua	傻话	3005
+sha shu ji	杀鼠剂	2990
+sha gua xiang ji	傻瓜相机	2910
+sha shi qu	沙市区	2865
+sha a	傻啊	2860
+sha xiao zhe	傻笑着	2805
+sha ding	纱锭	2790
+sha yang	傻样	2785
+sha he shang	沙和尚	2760
+sha le	傻了	2688
+sha mo zhi ying	沙漠之鹰	2675
+sha si jin cheng	杀死进程	2622
+sha ren ru ma	杀人如麻	2615
+sha men	纱门	2600
+sha chong	沙虫	2580
+sha jia	沙迦	2550
+sha yang xian	沙洋县	2535
+sha he kou	沙河口	2525
+sha du gong ju	杀毒工具	2495
+sha che ju li	刹车距离	2465
+sha gou	杀狗	2455
+sha ren mo	杀人魔	2430
+sha tan xie	沙滩鞋	2430
+sha ren an jian	杀人案件	2425
+sha jin	沙金	2422
+sha man ji	杀螨剂	2415
+sha tai lu	沙太路	2405
+sha sha zuo xiang	沙沙作响	2390
+sha zhi	砂质	2380
+sha zei	杀贼	2360
+sha shang xing	杀伤性	2335
+sha jin	砂金	2315
+sha ren zui	杀人罪	2300
+sha ren yue huo	杀人越货	2290
+sha mo feng bao	沙漠风暴	2235
+sha ba	傻吧	2222
+sha bi	傻屄	2222
+sha lu	沙鲁	2222
+sha niu	杀牛	2222
+sha dong xi	啥东西	2175
+sha sha	沙沙	2120
+sha fa tao	沙发套	2115
+sha tan che	沙滩车	2115
+sha tan yi	沙滩椅	2095
+sha che sheng	刹车声	2080
+sha da jie	傻大姐	2045
+sha ying	沙影	2020
+sha xiao de	傻笑的	2010
+sha can	沙蚕	2005
+sha ni	沙泥	1980
+sha yi jing bai	杀一儆百	1962
+sha le ba	傻了吧	1945
+sha zhi	杀之	1940
+sha fa yi	沙发椅	1930
+sha wen zhu yi	沙文主义	1895
+sha gua xing	傻瓜型	1875
+sha di	沙地	1865
+sha fu	杀夫	1855
+sha zi	杀子	1855
+sha xie	歃血	1835
+sha xue	歃血	1835
+sha zhang	纱帐	1815
+sha guo yu	砂锅鱼	1792
+sha yang	杀羊	1790
+sha fu zhi chou	杀父之仇	1765
+sha li wen	沙利文	1765
+sha bi li	沙比利	1760
+sha fu	沙夫	1740
+sha bi	煞笔	1725
+sha te dui	沙特队	1725
+sha ren	啥人	1720
+sha shi lu	砂石路	1710
+sha cha jiang	沙茶酱	1700
+sha xiang	沙箱	1665
+sha lun ji	砂轮机	1660
+sha mao	杀猫	1650
+sha jie	杀戒	1615
+sha yan	沙岩	1615
+sha hu hu de	傻乎乎的	1610
+sha fa bu	沙发布	1605
+sha he he	傻呵呵	1590
+sha shi zhi jian	霎时之间	1580
+sha hua	沙化	1560
+sha nv ren	傻女人	1560
+sha tui	杀退	1520
+sha sha de xiao	傻傻地笑	1480
+sha luo	纱罗	1470
+sha ya	傻呀	1460
+sha xing	砂型	1450
+sha zhu dao	杀猪刀	1435
+sha jun deng	杀菌灯	1415
+sha che xian	莎车县	1410
+sha ren	傻人	1390
+sha zhu	煞住	1385
+sha pi gou	沙皮狗	1380
+sha mo zhi hu	沙漠之狐	1345
+sha wen	沙文	1345
+sha le	傻乐	1335
+sha ren chang ming	杀人偿命	1330
+sha ren you sha fu	傻人有傻福	1330
+sha di bai	沙地柏	1315
+sha ma	傻吗	1310
+sha guo qu	杀过去	1290
+sha mu	杀母	1290
+sha chang	杀场	1275
+sha yi ba ke qu	沙依巴克区	1265
+sha li sha qi	傻里傻气	1260
+sha fu ji pin	杀富济贫	1255
+sha zhan	傻站	1255
+sha die niu rou	沙爹牛肉	1250
+sha fei	煞费	1245
+sha huang	沙荒	1235
+sha bao	砂煲	1234
+sha hu	砂壶	1231
+sha man	沙曼	1230
+sha zhen jun ji	杀真菌剂	1225
+sha liu	沙柳	1214
+sha he fen	沙河粉	1201
+sha shen cheng ren	杀身成仁	1200
+sha jin	傻劲	1185
+sha nuan shui yuan yang	沙暖睡鸳鸯	1180
+sha ren yi you xian	杀人亦有限	1180
+sha zhan zhe	傻站着	1180
+sha bu diao	杀不掉	1175
+sha zu kang	沙祖康	1175
+sha mo ji	砂磨机	1160
+sha jue	杀绝	1155
+sha chang dian bing	沙场点兵	1135
+sha chong yao	杀虫药	1125
+sha ha	沙哈	1125
+sha chui	沙槌	1113
+sha a	杀啊	1111
+sha ba	杀吧	1111
+sha dao	傻到	1111
+sha fang	沙方	1111
+sha guai	杀怪	1111
+sha guan	砂罐	1111
+sha guo	沙果	1111
+sha he	沙河	1111
+sha le	啥了	1111
+sha me	傻么	1111
+sha mei	傻妹	1111
+sha niu	傻妞	1111
+sha pao	纱袍	1111
+sha ping	沙瓶	1111
+sha po	啥破	1111
+sha shou	杀熟	1111
+sha yi	纱衣	1111
+sha yu	杀鱼	1111
+sha zhao	纱罩	1111
+sha zhen	杀阵	1111
+sha zhuang	啥装	1111
+sha zui	啥嘴	1111
+sha jun ji	杀菌机	1110
+sha lang	杀狼	1105
+sha zhi rang tu	砂质壤土	1100
+sha hu qiu	沙壶球	1095
+sha da ge	傻大个	1090
+sha yan	沙燕	1090
+sha guo yu tou	砂锅鱼头	1080
+sha gu niang	傻姑娘	1060
+sha jin cheng	杀进程	1059
+sha ying	杀婴	1053
+sha lve	杀掠	1040
+sha tan ku	沙滩裤	1040
+sha ya	沙哑	1032
+sha cha mian	沙茶面	1030
+sha ya zhe	沙哑着	1030
+sha shi jian	啥时间	1027
+sha guo lai	杀过来	1025
+sha de ke yi	傻的可以	1015
+sha fa chang	沙发厂	1015
+sha lao yue	沙捞越	1005
+sha fa dian	沙发垫	1000
+sha yu	沙浴	998
+sha chan ye	沙产业	990
+sha xi	沙溪	989
+sha ceng	沙层	985
+sha cha	沙茶	980
+sha die	沙爹	980
+sha tou sha nao	傻头傻脑	970
+sha bu zhu	刹不住	955
+sha bu guo	杀不过	945
+sha yan	霎眼	945
+sha ji jing hou	杀鸡儆猴	940
+sha luo man she	沙罗曼蛇	935
+sha deng	纱灯	925
+sha li tao jin	沙里淘金	912
+sha qian dao de	杀千刀的	885
+sha ren xing wei	杀人行为	885
+sha mo di	沙漠地	875
+sha ji gei hou kan	杀鸡给猴看	855
+sha tan zhuang	沙滩装	850
+sha bing	啥病	825
+sha ba	刹把	810
+sha chu lai	杀出来	800
+sha xing zhu zao	砂型铸造	800
+sha shi yu	沙石峪	790
+sha ya xian	沙雅县	780
+sha er	沙二	775
+sha wan qu	沙湾区	775
+sha long	纱笼	770
+sha mi ni	沙弥尼	765
+sha yu	铩羽	760
+sha yang zi	啥样子	755
+sha yang zi a	啥样子啊	755
+sha wu jing	沙悟净	745
+sha yuan zi	沙苑子	726
+sha luo shuang shu	沙罗双树	725
+sha wei	煞尾	725
+sha he lu jing	沙盒路径	722
+sha ren	砂仁	714
+sha he ji zhi	沙盒机制	686
+sha er	傻儿	677
+sha xi ji	砂洗机	670
+sha chu qu	杀出去	660
+sha yi si a	啥意思啊	660
+sha weng	沙翁	653
+sha ji yong niu dao	杀鸡用牛刀	645
+sha mo zhi zhou	沙漠之舟	645
+sha chuan	杀穿	644
+sha diao jie	沙雕节	640
+sha weng qing shi	莎翁情史	640
+sha bu zhu che	刹不住车	630
+sha se	沙色	590
+sha da wang	沙打旺	570
+sha zi tang	砂子塘	567
+sha qi an	杀妻案	565
+sha lu zhan chang	杀戮战场	540
+sha qi	砂器	530
+sha zi kou	沙子口	526
+sha bu sha	傻不傻	525
+sha ya	杀呀	494
+sha yu rou	鲨鱼肉	485
+sha ling zi	沙岭子	480
+sha pi	砂皮	470
+sha ji yan yong niu dao	杀鸡焉用牛刀	465
+sha yi sha	刹一刹	456
+sha wan yi er	啥玩意儿	455
+sha bu tiao	纱布条	450
+sha men shi gan jun	沙门氏杆菌	445
+sha shei	杀谁	444
+sha shui	杀谁	444
+sha le a	傻了啊	440
+sha mo qi guan	沙漠奇观	430
+sha zhi tu	沙质土	430
+sha mo yue ye che	沙漠越野车	426
+sha xin	杀心	421
+sha da hei cu	傻大黑粗	420
+sha ke er	沙克尔	420
+sha ren feng	杀人蜂	420
+sha fa jue duan	杀伐决断	410
+sha mao	纱帽	406
+sha bu dao	杀不到	404
+sha shi shi	沙市市	400
+sha wei bang	杀威棒	400
+sha gan	傻干	385
+sha mo zhi hu	沙漠之虎	384
+sha shang ban jing	杀伤半径	380
+sha wan lu	沙湾路	376
+sha gua ban	傻瓜版	375
+sha fei xin ji	煞费心机	370
+sha zhu	沙柱	370
+sha ding an chun	沙丁胺醇	363
+sha sha xiang	沙沙响	360
+sha sheng hai ming	杀生害命	360
+sha hui ma qiang	杀回马枪	355
+sha yuan	沙原	350
+sha da ge er	傻大个儿	345
+sha xia qu	杀下去	345
+sha yi ba ke	沙依巴克	345
+sha ren fang huo shou zhao an	杀人放火受招安	344
+sha lang	沙狼	335
+sha jing zi ji	杀精子剂	330
+sha yuan	沙园	321
+sha he te	沙赫特	320
+sha chang lao jiang	沙场老将	315
+sha men shi jun shu	沙门氏菌属	310
+sha gong da luo	沙恭达罗	305
+sha ji qu dan	杀鸡取蛋	300
+sha mo che	沙漠车	300
+sha qu fa yuan	沙区法院	300
+sha le sha	杀了杀	298
+sha lang niu pai	沙朗牛排	296
+sha ren bu guo tou dian di	杀人不过头点地	295
+sha bu	砂布	281
+sha mo ke	沙摩柯	280
+sha ren bu yong dao	杀人不用刀	280
+sha huang tong zhi	沙皇统治	275
+sha he shi	沙河市	273
+sha ma	沙马	269
+sha mo gong lu	沙漠公路	265
+sha ren ying ye	杀人盈野	265
+sha hu gong yuan	沙湖公园	264
+sha qian dao	杀千刀	260
+sha guo fan	砂锅饭	253
+sha tang li	沙塘鳢	250
+sha xin	砂心	250
+sha che qian	刹车钳	248
+sha hai	沙害	245
+sha ban	啥班	235
+sha chu	纱橱	235
+sha ji huang	沙棘黄	232
+sha he qiao	沙河桥	230
+sha bin lu	沙滨路	228
+sha cao zuo	啥操作	228
+sha rang	沙瓤	225
+sha bi men	傻逼们	222
+sha feng	傻疯	222
+sha la	杀啦	222
+sha ta	杀她	222
+sha xia	杀下	222
+sha xiang	杀向	222
+sha ou xiang ji	沙鸥翔集	220
+sha che ban	刹车板	215
+sha mi fen	沙米粉	215
+sha gou	沙沟	210
+sha ji can an	沙基惨案	210
+sha shi pin	啥视频	207
+sha po	沙坡	206
+sha ren dou you	啥人都有	205
+sha ren sui shi	杀人碎尸	205
+sha wa di ni	莎娃蒂妮	205
+sha cha niu rou	沙茶牛肉	204
+sha ji zhi	沙棘汁	204
+sha mao jie	纱帽街	202
+sha mi la	沙弥拉	199
+sha tan bin guan	沙滩宾馆	197
+sha yu ya	鲨鱼牙	197
+sha che shi ling	刹车失灵	196
+sha ren man hua	杀人漫画	196
+sha hui	砂灰	195
+sha ya sheng	沙哑声	195
+sha tou jiao hai guan	沙头角海关	192
+sha yi lan	沙依兰	191
+sha lu	沙鹿	190
+sha ren wei sui	杀人未遂	188
+sha chang jian yue	沙场检阅	187
+sha yu ji	鲨鱼肌	186
+sha he la ni	沙赫拉尼	185
+sha zui cun	沙嘴村	185
+sha chuan	沙船	184
+sha sha	莎莎	183
+sha chong yao ji	杀虫药剂	180
+sha he xiao qu	沙河校区	179
+sha qing te ji	杀青特辑	178
+sha ren kuang mo	杀人狂魔	178
+sha li ye	沙利叶	177
+sha wan xian	沙湾县	177
+sha ji sha ya	杀鸡杀鸭	176
+sha ren cheng xing	杀人成性	175
+sha mei te	沙梅特	174
+sha fa wen	沙发吻	173
+sha zhu xiang	砂珠巷	172
+sha yu dao	鲨鱼刀	169
+sha nan	沙南	168
+sha wa xiang	沙洼乡	167
+sha wei cun	沙尾村	166
+sha fei nv shi de ri ji	莎菲女士的日记	165
+sha fu ka te	沙夫卡特	164
+sha gang gu fen	沙钢股份	164
+sha lou xing	沙漏型	164
+sha gang xu	沙岗墟	160
+sha qi pian bao	杀妻骗保	156
+sha shi che	砂石车	155
+sha tang	沙塘	154
+sha ye mei xie	啥也没写	154
+sha qian	沙钱	151
+sha shou zhi wang	杀手之王	151
+sha zhi shou hu	沙之守护	151
+sha chi long	鲨齿龙	150
+sha guo cun	沙郭村	150
+sha yu jia	鲨鱼夹	147
+sha sheng shi	杀生石	146
+sha he da ji	沙河大集	145
+sha mi er	沙米尔	145
+sha qing yan	杀青宴	145
+sha ren ji	杀人技	145
+sha fu chou ren	杀父仇人	144
+sha mi la	莎弥拉	143
+sha yi pan	杀一盘	140
+sha jin er	傻劲儿	135
+sha nang	砂囊	135
+sha de er	沙德尔	132
+sha ji yuan jiang	沙棘原浆	132
+sha qi li	沙奇里	131
+sha le ge jing guang	杀了个精光	130
+sha le tou zhu	杀了头猪	130
+sha shu yao	杀鼠药	130
+sha yu hai zhi ge	砂与海之歌	129
+sha sha su	莎莎苏	128
+sha ren gui	杀人鬼	124
+sha bi ba	傻逼吧	123
+sha bi si	杀必死	123
+sha le sha	刹了刹	123
+sha lu you xi	杀戮游戏	123
+sha wang	沙王	123
+sha yi	沙溢	123
+sha qing da ji	杀青大吉	122
+sha wo de ren	杀我的人	120
+sha jing yi	沙井驿	118
+sha ma zhen	刹马镇	118
+sha yu ku	鲨鱼裤	117
+sha mo yu	沙漠鱼	116
+sha mao er	傻冒儿	115
+sha men shi jun gan ran	沙门氏菌感染	115
+sha mi la	莎米拉	115
+sha yu xian	鲨鱼线	115
+sha ling	沙岭	113
+sha feng	啥风	111
+sha gan	沙肝	111
+sha gan er	沙肝儿	111
+sha guo ren	杀过人	111
+sha la	啥啦	111
+sha ping hua	沙瓶画	111
+sha ping hua hua	沙瓶画画	111
+sha qi	沙碛	111
+sha shen	杀神	111
+sha ta	杀它	111
+sha xia	莎夏	111
+sha xuan	沙宣	111
+sha shui ping	啥水平	110
+sha hu gang wan	沙湖港湾	107
+sha xi liang cha	沙溪凉茶	107
+sha di yi qian	杀敌一千	106
+sha he xian	沙河县	105
+sha yi ting	沙一汀	105
+sha tou cun	沙头村	104
+sha shi zhen	沙石镇	103
+sha yu ren	鲨鱼人	103
+sha xi cun	沙溪村	102
+sha ping cun	沙坪村	101
+sha pu wei	沙浦围	101
+sha qing kuai le	杀青快乐	101
+sha ba ke chuan qi	沙巴克传奇	100
+sha bai tian	傻白甜	100
+sha bai tian de jue se	傻白甜的角色	100
+sha bao da	砂煲大	100
+sha bao da de	砂煲大的	100
+sha bao da de quan tou	砂煲大的拳头	100
+sha bao da zang	砂暴大葬	100
+sha bao song zang	砂暴送葬	100
+sha bao xian	纱包线	100
+sha bi a	傻逼啊	100
+sha bi ba ni	傻逼吧你	100
+sha bi er dai	傻逼二代	100
+sha bi la	傻逼啦	100
+sha bi le	傻逼了	100
+sha bi le ba	傻逼了吧	100
+sha bi ma ni	傻逼吗你	100
+sha bi ya	傻逼呀	100
+sha bi yang	傻逼样	100
+sha bi yang er	傻逼样儿	100
+sha bi yang zi	傻逼样子	100
+sha bi yi yang	傻逼一样	100
+sha bi zi	纱箅子	100
+sha bu beng dai	纱布绷带	100
+sha bu de	杀不得	100
+sha bu diao de	杀不掉的	100
+sha bu diao wo	杀不掉我	100
+sha bu diao wo de	杀不掉我的	100
+sha bu dong le	杀不动了	100
+sha bu kou zhao	纱布口罩	100
+sha bu lan	纱布蓝	100
+sha bu liu qiu	傻不溜秋	100
+sha bu neng sha	杀不能杀	100
+sha bu sha a	傻不傻啊	100
+sha bu sha a ni	傻不傻啊你	100
+sha bu sha bi	傻不傻屄	100
+sha bu sha bi	傻不傻逼	100
+sha bu sha bi a	傻不傻逼啊	100
+sha bu sha bi ba	傻不傻逼吧	100
+sha bu sha bi la	傻不傻逼啦	100
+sha bu sha bi lou	傻不傻逼喽	100
+sha bu sha bi ma	傻不傻逼吗	100
+sha bu sha bi o	傻不傻逼哦	100
+sha bu sha bi wa	傻不傻逼哇	100
+sha bu sha bi ya	傻不傻逼呀	100
+sha bu si	杀不死	100
+sha bu si de	杀不死的	100
+sha bu wan	杀不完	100
+sha bu wan de	杀不完的	100
+sha bu zhi dao	啥不知道	100
+sha cao ji	杀草剂	100
+sha cao kuai	杀草快	100
+sha cha ba ni	傻叉吧你	100
+sha chang lao bing	沙场老兵	100
+sha chang qiu dian bing	沙场秋点兵	100
+sha che ba	刹车把	100
+sha che bu ling	刹车不灵	100
+sha che fu zhu xi tong	刹车辅助系统	100
+sha che hen ji	刹车痕迹	100
+sha che li du	刹车力度	100
+sha che pian hou du	刹车片厚度	100
+sha che shi jian	刹车事件	100
+sha che shi ling shi jian	刹车失灵事件	100
+sha che xi tong	刹车系统	100
+sha cheng gou	傻成狗	100
+sha cheng gou	杀成狗	100
+sha chong qi	杀虫器	100
+sha chu ge	杀出个	100
+sha chu ge li ming	杀出个黎明	100
+sha cuo le ren	杀错了人	100
+sha da te	沙达特	100
+sha dai dai	傻呆呆	100
+sha dang sha li	啥当啥立	100
+sha de ba	啥的吧	100
+sha de duo	杀得多	100
+sha de hao	杀得好	100
+sha de hen a	傻得很啊	100
+sha de ke ai	傻得可爱	100
+sha de liao	杀得了	100
+sha de ma	啥的吗	100
+sha de mao pao	傻得冒泡	100
+sha de pian jia bu liu	杀得片甲不留	100
+sha de tai duo	杀得太多	100
+sha de tai duo le	杀得太多了	100
+sha de xiang ge dan	傻的像个蛋	100
+sha de xing	啥德行	100
+sha de xing qi	杀得兴起	100
+sha de zhu	刹得住	100
+sha di a la bo	沙地阿拉伯	100
+sha di bu	啥地步	100
+sha di li	沙地里	100
+sha di mo shi	沙地模式	100
+sha di si	沙迪斯	100
+sha di si ban	沙迪斯班	100
+sha di xue	沙地靴	100
+sha di zhi guo	杀敌致果	100
+sha diao le	傻掉了	100
+sha diao sai	沙雕赛	100
+sha diao suo you ren	杀掉所有人	100
+sha die jiang	沙爹酱	100
+sha dou bu	啥都不	100
+sha dou bu cha	啥都不差	100
+sha dou bu chi	啥都不吃	100
+sha dou bu dong	啥都不懂	100
+sha dou bu gan	啥都不干	100
+sha dou bu guan	啥都不管	100
+sha dou bu hui	啥都不会	100
+sha dou bu pa	啥都不怕	100
+sha dou bu que	啥都不缺	100
+sha dou bu shi	啥都不是	100
+sha dou bu xiang	啥都不想	100
+sha dou bu xin	啥都不信	100
+sha dou bu xing	啥都不行	100
+sha dou bu zhi	啥都不知	100
+sha dou bu zhi dao	啥都不知道	100
+sha dou bu zuo	啥都不做	100
+sha dou chi	啥都吃	100
+sha dou dong	啥都懂	100
+sha dou gan	啥都干	100
+sha dou hao	啥都好	100
+sha dou hui	啥都会	100
+sha dou mei	啥都没	100
+sha dou mei gan	啥都没干	100
+sha dou mei kan	啥都没看	100
+sha dou mei kan dao	啥都没看到	100
+sha dou mei mai	啥都没买	100
+sha dou mei mai dao	啥都没买到	100
+sha dou mei zuo	啥都没做	100
+sha dou ming bai	啥都明白	100
+sha dou neng gan	啥都能干	100
+sha dou que	啥都缺	100
+sha dou sha bu wan	杀都杀不完	100
+sha dou shou	啥都收	100
+sha dou wen bu dao	啥都闻不到	100
+sha dou xin	啥都信	100
+sha dou xing	啥都行	100
+sha dou you	啥都有	100
+sha dou zhi dao	啥都知道	100
+sha dou zuo	啥都做	100
+sha er ke	沙尔克	100
+sha er na	莎尔娜	100
+sha fa guo duan	杀伐果断	100
+sha fa jiao luo	沙发角落	100
+sha fa ka zuo	沙发卡座	100
+sha fa shang le	沙发上了	100
+sha fa shang shui jiao	沙发上睡觉	100
+sha fa wei wang chao	沙法维王朝	100
+sha fa xi lie	沙发系列	100
+sha fei zhou zhang	煞费周章	100
+sha fen shen	砂分身	100
+sha fu chou ren	杀夫仇人	100
+sha fu jiu	砂缚柩	100
+sha gan jue	啥感觉	100
+sha ge dou hui	啥歌都会	100
+sha ge ren	杀个人	100
+sha gua dan	傻瓜蛋	100
+sha guan xi a	啥关系啊	100
+sha gun gun	沙滚滚	100
+sha guo cai	砂锅菜	100
+sha guo mian	砂锅面	100
+sha guo ren le	杀过人了	100
+sha guo ren ma	杀过人吗	100
+sha guo ren mei	杀过人没	100
+sha guo ren mei you	杀过人没有	100
+sha guo zhou	砂锅粥	100
+sha ha jia yu jia	霎哈嘉瑜伽	100
+sha hai shi bu sha	杀还是不杀	100
+sha hai yi ji	沙海遗迹	100
+sha han han	傻憨憨	100
+sha he ma	沙河马	100
+sha he mo ni	沙盒模拟	100
+sha he mo shi	沙盒模式	100
+sha he xi	沙河西	100
+sha hong le yan	杀红了眼	100
+sha hu hu de	傻乎乎地	100
+sha hu hu de xiao	傻乎乎地笑	100
+sha hu zhan jiao	杀虎斩蛟	100
+sha hua tu di	沙化土地	100
+sha huang e guo	沙皇俄国	100
+sha huang se	沙黄色	100
+sha huang zha dan	沙皇炸弹	100
+sha hui lai	杀回来	100
+sha ji an cang	杀机暗藏	100
+sha ji ba luan yong	啥鸡巴卵用	100
+sha ji ba wan yi	啥鸡巴玩意	100
+sha ji ba wan yi er	啥鸡巴玩意儿	100
+sha ji chong chong	杀机重重	100
+sha ji chui shu	杀鸡炊黍	100
+sha ji kuang chuang	砂积矿床	100
+sha ji la	沙基拉	100
+sha ji la si	沙基拉斯	100
+sha ji mi man	杀机弥漫	100
+sha ji shu	沙棘属	100
+sha ji wei shu	杀鸡为黍	100
+sha ji zai e	杀鸡宰鹅	100
+sha jia mian du	沙加缅度	100
+sha jia ting	啥家庭	100
+sha jian yi	啥建议	100
+sha jiang qiang du	砂浆强度	100
+sha jie gu yan	啥节骨眼	100
+sha jie gu yan er	啥节骨眼儿	100
+sha jin lai	杀进来	100
+sha jin qu	杀进去	100
+sha jin shi	砂金石	100
+sha jin tou	啥劲头	100
+sha jing jie	沙靖杰	100
+sha jing kou	沙井口	100
+sha jun lv	杀菌率	100
+sha jun ma zhe lu pang er	杀君马者路旁儿	100
+sha jun wen du	杀菌温度	100
+sha jun xi tong	杀菌系统	100
+sha jun xiao lv	杀菌效率	100
+sha ke yi miao	沙克疫苗	100
+sha keng gan	沙坑杆	100
+sha la ba	沙拉吧	100
+sha la gong zhu	莎拉公主	100
+sha la ji wan yi	啥垃圾玩意	100
+sha la man de	沙拉曼德	100
+sha la pei lin	莎拉佩林	100
+sha la you	沙拉油	100
+sha lang ren	杀狼人	100
+sha le ba	杀了吧	100
+sha le ba ji	傻了吧唧	100
+sha le ba ni	傻了吧你	100
+sha le chu lai	杀了出来	100
+sha le dui fang	杀了对方	100
+sha le ge gan jing	杀了个干净	100
+sha le ge hui ma qiang	杀了个回马枪	100
+sha le guo lai	杀了过来	100
+sha le he	傻乐和	100
+sha le hen duo ren	杀了很多人	100
+sha le hui lai	杀了回来	100
+sha le ji ge ren	杀了几个人	100
+sha le luo wa	沙勒罗瓦	100
+sha le ma	傻了吗	100
+sha le ni men	杀了你们	100
+sha le qi zi	杀了妻子	100
+sha le ren	杀了人	100
+sha le ren le	杀了人了	100
+sha le suan le	杀了算了	100
+sha le wo	杀了我	100
+sha le wo ba	杀了我吧	100
+sha le wo suan le	杀了我算了	100
+sha leng leng	傻愣愣	100
+sha leng zhe	傻愣着	100
+sha li bei er	沙里贝尔	100
+sha li fu	沙里夫	100
+sha li gong zhu	沙粒公主	100
+sha li huai te mai en	莎莉怀特迈恩	100
+sha li mi qing	纱丽迷情	100
+sha li qi	沙里奇	100
+sha li wen jing yuan	沙澧文景苑	100
+sha li wu	啥礼物	100
+sha li zhi zu	砂砾之足	100
+sha ling xian ren zhang	沙铃仙人掌	100
+sha long ba si	沙隆巴斯	100
+sha lou yao	沙漏腰	100
+sha lu de tian shi	杀戮的天使	100
+sha lu de yu wang	杀戮的欲望	100
+sha lu di dai	杀戮地带	100
+sha lu du shi	杀戮都市	100
+sha lu jian ta	杀戮尖塔	100
+sha lu ke han	沙鲁克汗	100
+sha lu mo shi	杀戮模式	100
+sha lu sheng yan	杀戮盛宴	100
+sha lu zhen	沙鹿镇	100
+sha lu zhi du	杀戮之都	100
+sha luo ji	杀螺剂	100
+sha lv qi	砂滤器	100
+sha ma hai ye ke	莎玛海耶克	100
+sha ma hui che	杀马毁车	100
+sha mao bing mei you	啥毛病没有	100
+sha mao er	傻帽儿	100
+sha mei sha guo	杀没杀过	100
+sha mei sha guo ren	杀没杀过人	100
+sha mei sha ren	杀没杀人	100
+sha mei sha ren a	杀没杀人啊	100
+sha mei sha ren ne	杀没杀人呢	100
+sha mei sha ren ya	杀没杀人呀	100
+sha men jun	沙门菌	100
+sha mi dou	沙蜜豆	100
+sha mi jie	沙弥戒	100
+sha mo a	沙漠啊	100
+sha mo bao zang	沙漠宝藏	100
+sha mo da zang	沙漠大葬	100
+sha mo di dai	沙漠地带	100
+sha mo di qu	沙漠地区	100
+sha mo di tu	沙漠地图	100
+sha mo di tu zhong	沙漠地图中	100
+sha mo di xing	沙漠地形	100
+sha mo feng bao xing dong	沙漠风暴行动	100
+sha mo fu di	沙漠腹地	100
+sha mo gao di	沙漠高地	100
+sha mo huang di	沙漠皇帝	100
+sha mo huang di a zi er	沙漠皇帝阿兹尔	100
+sha mo lv xing	沙漠旅行	100
+sha mo mao	沙漠猫	100
+sha mo mei gui	沙漠玫瑰	100
+sha mo mei gui sha mi la	沙漠玫瑰莎弥拉	100
+sha mo nai ya	沙漠奈亚	100
+sha mo qing ting	沙漠蜻蜓	100
+sha mo ren shen	沙漠人参	100
+sha mo shi	啥模式	100
+sha mo si shen	沙漠死神	100
+sha mo si shen nei se si	沙漠死神内瑟斯	100
+sha mo tu	沙漠图	100
+sha mo zhi feng	沙漠之风	100
+sha mu san	莎木三	100
+sha mu sha yi he	沙姆沙伊赫	100
+sha na la	沙娜拉	100
+sha nai duo	沙奈朵	100
+sha ni dou xin	啥你都信	100
+sha ni ge	杀你个	100
+sha ni le	杀你了	100
+sha ni ma	啥你妈	100
+sha ni ma wan yi	啥你妈玩意	100
+sha ni ma wan yi er	啥你妈玩意儿	100
+sha ni men ge	杀你们个	100
+sha ni men quan jia	杀你们全家	100
+sha ni mie kou	杀你灭口	100
+sha ni quan jia	杀你全家	100
+sha ni ya te	沙尼亚特	100
+sha niu zai yang	杀牛宰羊	100
+sha pa wan	沙扒湾	100
+sha pan mo ni	沙盘模拟	100
+sha pan mo xing	沙盘模型	100
+sha pan mo xing gong si	沙盘模型公司	100
+sha pan mo xing zhi zuo	沙盘模型制作	100
+sha pan tui yan	沙盘推演	100
+sha pan yan lian	沙盘演练	100
+sha ping ba	沙坪霸	100
+sha po tou qu	沙坡头区	100
+sha pu	沙埔	100
+sha pu song zang	砂瀑送葬	100
+sha qi chou ren	杀妻仇人	100
+sha qi qiu jiang	杀妻求将	100
+sha qi tai zhong	杀气太重	100
+sha qi zhi chou	杀妻之仇	100
+sha qing kuang	啥情况	100
+sha qiu lian	沙丘链	100
+sha qiu wa	沙丘娃	100
+sha que wan yi	傻缺玩意	100
+sha que wan yi er	傻缺玩意儿	100
+sha ren bu chang ming	杀人不偿命	100
+sha ren bu fan fa	杀人不犯法	100
+sha ren bu zha yan a	杀人不眨眼啊	100
+sha ren bu zha yan de e mo	杀人不眨眼的恶魔	100
+sha ren bu zha yan jing	杀人不眨眼睛	100
+sha ren de	杀人的	100
+sha ren de dong ji	杀人的动机	100
+sha ren de zheng ju	杀人的证据	100
+sha ren e mo	杀人恶魔	100
+sha ren fang huo jin yao dai	杀人放火金腰带	100
+sha ren fu mu	杀人父母	100
+sha ren hai yao zhu xin	杀人还要诛心	100
+sha ren hai zhu xin	杀人还诛心	100
+sha ren hong chen zhong	杀人红尘中	100
+sha ren jian	杀人剑	100
+sha ren jing	杀人鲸	100
+sha ren la	杀人啦	100
+sha ren le	杀人了	100
+sha ren shu	杀人书	100
+sha ren wang	杀人王	100
+sha ren wu shu	杀人无数	100
+sha ren ye	杀人夜	100
+sha ren ying cheng	杀人盈城	100
+sha ren you xi	杀人游戏	100
+sha ren zhe si	杀人者死	100
+sha ren zhu xin	杀人诛心	100
+sha ri zi	啥日子	100
+sha ru chong wei	杀入重围	100
+sha ru zhan chang	杀入战场	100
+sha rui jin	沙瑞金	100
+sha rui shan	沙瑞山	100
+sha sha bu xing	啥啥不行	100
+sha sha de ai	傻傻地爱	100
+sha sha de deng	傻傻地等	100
+sha sha de deng dai	傻傻地等待	100
+sha sha de fen bu qing	傻傻地分不清	100
+sha sha de fen bu qing chu	傻傻地分不清楚	100
+sha sha de jian chi	傻傻地坚持	100
+sha sha de kan	傻傻地看	100
+sha sha de xiao le	傻傻地笑了	100
+sha sha sha	啥啥啥	100
+sha sha sha	杀杀杀	100
+sha sha sha	沙沙沙	100
+sha sha sha sha	杀杀杀杀	100
+sha sha sha sha sha	杀杀杀杀杀	100
+sha sha sha sha sha sha	杀杀杀杀杀杀	100
+sha sha sha sha sha sha sha	杀杀杀杀杀杀杀	100
+sha sha wu	莎莎舞	100
+sha shang li da	杀伤力大	100
+sha shang li tai da	杀伤力太大	100
+sha shang li tai xiao	杀伤力太小	100
+sha shang li tai xiao le	杀伤力太小了	100
+sha shang li xiao	杀伤力小	100
+sha shen e mo	杀神恶魔	100
+sha shen me a	傻什么啊	100
+sha shen mo shi	杀神模式	100
+sha sheng cheng fo	杀生成佛	100
+sha sheng dao zhan xiang si	杀生刀斩相思	100
+sha sheng ji cheng fo	杀生即成佛	100
+sha sheng ying	杀生樱	100
+sha shi gu liao hang ye	砂石骨料行业	100
+sha shi hang ye	砂石行业	100
+sha shi hou a	啥时候啊	100
+sha shi hou bei	啥时候被	100
+sha shi hou dao	啥时候到	100
+sha shi hou de shi	啥时候的事	100
+sha shi hou de shi er	啥时候的事儿	100
+sha shi hou fang jia	啥时候放假	100
+sha shi hou guo lai	啥时候过来	100
+sha shi hou huan	啥时候还	100
+sha shi hou hui lai	啥时候回来	100
+sha shi hou hui lai a	啥时候回来啊	100
+sha shi hou qing ling	啥时候清零	100
+sha shi hou qu	啥时候去	100
+sha shi hou shui a	啥时候睡啊	100
+sha shi hou si	啥时候死	100
+sha shi hou zou	啥时候走	100
+sha shi hou zou a	啥时候走啊	100
+sha shi hou zou ya	啥时候走呀	100
+sha shi hui lai	啥时回来	100
+sha shi jian	杀时间	100
+sha shi qing dou neng yong	啥事情都能用	100
+sha shou bu tai leng jing	杀手不太冷静	100
+sha shou ji	杀手级	100
+sha shou ji ying yong	杀手级应用	100
+sha shou li jian	砂手里剑	100
+sha shou mei you jia qi	杀手没有假期	100
+sha shou xi lie	杀手系列	100
+sha shou zu zhi	杀手组织	100
+sha si bi er	杀死比尔	100
+sha si le bi sai	杀死了比赛	100
+sha si ni	杀死你	100
+sha si yi zhi	杀死一只	100
+sha ta ge	杀他个	100
+sha ta ge cuo shou bu ji	杀他个措手不及	100
+sha ta men quan jia	杀他们全家	100
+sha ta quan jia	杀他全家	100
+sha ta si cheng	沙塔斯城	100
+sha tan chang qun	沙滩长裙	100
+sha tan du jia	沙滩度假	100
+sha tan lei jiang ya yao	沙坦类降压药	100
+sha tan shu	沙滩树	100
+sha tan yin yue jie	沙滩音乐节	100
+sha tang fen	砂糖粉	100
+sha tang fen de	砂糖粉的	100
+sha tang ju	砂糖橘	100
+sha te a la bo ren	沙特阿拉伯人	100
+sha te guo wang sa le man	沙特国王萨勒曼	100
+sha te li ya de	沙特利雅得	100
+sha te lu	沙特鲁	100
+sha ti la	莎缇拉	100
+sha tian qi	啥天气	100
+sha tian qi a	啥天气啊	100
+sha tie jie fa	砂铁界法	100
+sha tie shi yu	砂铁时雨	100
+sha tou le	傻透了	100
+sha tou le	杀头了	100
+sha tu di	沙土地	100
+sha tuo di	沙坨地	100
+sha wa lang	沙瓦郎	100
+sha wa ma	沙瓦玛	100
+sha wan yi a	啥玩意啊	100
+sha wan yi er a	啥玩意儿啊	100
+sha wei ma	沙威玛	100
+sha wei ma chuan qi	沙威玛传奇	100
+sha wen ti	啥问题	100
+sha wo luo bo	沙窝萝卜	100
+sha wo men quan jia	杀我们全家	100
+sha wo mie kou	杀我灭口	100
+sha wo quan jia	杀我全家	100
+sha wu di	沙乌地	100
+sha wu di a la bo	沙乌地阿拉伯	100
+sha xi chang	砂洗厂	100
+sha xi fu er	傻媳妇儿	100
+sha xi mi	沙西米	100
+sha xia gao su	沙厦高速	100
+sha xian wai mai	沙县外卖	100
+sha xiao guang	沙小光	100
+sha xiong zhi nian	杀兄之念	100
+sha xue xiao	啥学校	100
+sha ya tou wu zhuang xiao cao xin	傻丫头误撞校草心	100
+sha yan shan qiu	砂岩山丘	100
+sha ye bie gan	啥也别干	100
+sha ye bie shuo	啥也别说	100
+sha ye bie shuo le	啥也别说了	100
+sha ye bie ti	啥也别提	100
+sha ye bu dong	啥也不懂	100
+sha ye bu gan	啥也不干	100
+sha ye bu guan	啥也不管	100
+sha ye bu shi	啥也不是	100
+sha ye bu shuo	啥也不说	100
+sha ye bu shuo le	啥也不说了	100
+sha ye bu yao shuo	啥也不要说	100
+sha ye bu yong	啥也不用	100
+sha ye bu yong gan	啥也不用干	100
+sha ye bu yong zhun bei	啥也不用准备	100
+sha ye bu zhi dao	啥也不知道	100
+sha ye mei	啥也没	100
+sha ye mei gan	啥也没干	100
+sha ye mei mai	啥也没买	100
+sha ye mei xue hui	啥也没学会	100
+sha ye mei you	啥也没有	100
+sha ye mei zuo	啥也没做	100
+sha ye sha bu wan	杀也杀不完	100
+sha yi si a ni	啥意思啊你	100
+sha yin cun	砂隐村	100
+sha yin ren zhe cun	砂隐忍者村	100
+sha ying dui	沙鹰队	100
+sha ying xiang	啥影响	100
+sha yong bei	沙涌北	100
+sha yong mei you	啥用没有	100
+sha yong xian xiang	砂涌现象	100
+sha you qi shi	煞有其事	100
+sha yu chong	沙鱼涌	100
+sha yu di	杀鱼弟	100
+sha yu guan	鲨鱼馆	100
+sha yu sheng hua	杀欲生花	100
+sha yuan li	啥原理	100
+sha yuan li ne	啥原理呢	100
+sha zai na li	傻在那里	100
+sha zhan zai	傻站在	100
+sha zhan zai na	傻站在那	100
+sha zhan zai na er	傻站在那儿	100
+sha zhan zai na li	傻站在那里	100
+sha zhao deng	纱罩灯	100
+sha zhen jun	杀真菌	100
+sha zhi dun	砂之盾	100
+sha zhi er hou kuai	杀之而后快	100
+sha zhi jiao zi	杀彘教子	100
+sha zhi jie jie	沙织姐姐	100
+sha zhi kai	砂之铠	100
+sha zhi kai jia	砂之铠甲	100
+sha zhi yan	沙之眼	100
+sha zhi yong	沙脂蛹	100
+sha zhu le	刹住了	100
+sha zhu le che	刹住了车	100
+sha zhu pan	杀猪盘	100
+sha zhu zai yang	杀猪宰羊	100
+sha zhuan ye	啥专业	100
+sha zi cai	傻子才	100
+sha zi cai xin	傻子才信	100
+sha zi die	沙子爹	100
+sha zi dou ba shi	啥子都巴适	100
+sha zi dou zhi dao	傻子都知道	100
+sha zi shi de	傻子似的	100
+sha zi tu xiong	杀姊屠兄	100
+sha zi wei	沙子味	100
+sha zi yu bai chi	傻子与白痴	100
+sha zi zhou	沙子洲	100
+sha zuo zhe	傻坐着	100
+sha shi chang	沙石场	99
+sha tian qu	沙田区	97
+sha bu zhu le	刹不住了	95
+sha hai zhe	杀害者	95
+sha tong	纱筒	95
+sha wo qiao	沙窝桥	95
+sha xiang mu	啥项目	95
+sha yang	砂样	95
+sha zi o	啥子哦	95
+sha diao le	杀掉了	93
+sha du yin qing	杀毒引擎	93
+sha he jie	沙河街	90
+sha ji yan yong zai niu dao	杀鸡焉用宰牛刀	90
+sha mo yan jiu	沙漠研究	90
+sha ren fan fa	杀人犯法	90
+sha duan	沙段	87
+sha hai zun qin shu zui	杀害尊亲属罪	87
+sha jia ge	啥价格	87
+sha wan cun	沙湾村	87
+sha yan yi yuan ti	沙眼衣原体	86
+sha huo dong	啥活动	82
+sha jiao	沙礁	80
+sha yan se	啥颜色	80
+sha hu yan dan	沙湖盐蛋	78
+sha ye gan bu liao	啥也干不了	78
+sha tian cun	沙田村	75
+sha zhu fan	杀猪饭	75
+sha bei	沙北	72
+sha dou shi	啥都是	71
+sha de xiang	傻得像	70
+sha tu shi	沙图什	70
+sha he lu	厦禾路	69
+sha shi hou yao	啥时候要	69
+sha tou jiao bao shui qu	沙头角保税区	69
+sha tai du	啥态度	68
+sha xi tong	啥系统	68
+sha xing zhi	啥性质	68
+sha zi qing kuang	啥子情况	68
+sha dou yao	啥都要	67
+sha he zi	沙河子	66
+sha guo na mian	砂锅哪面	65
+sha han	傻憨	65
+sha nei rong	啥内容	65
+sha xiao guai	杀小怪	65
+sha biao qing	啥表情	64
+sha lei xing	啥类型	62
+sha ye mei shuo	啥也没说	62
+sha zi wen ti	啥子问题	62
+sha shi de	纱似的	60
+sha da	沙大	59
+sha rang tu	沙壤土	56
+sha xing zi	煞性子	55
+sha bian	沙边	53
+sha he di qu	沙河地区	52
+sha ting	沙汀	51
+sha ji hai hou	杀鸡骇猴	50
+sha dun	沙墩	49
+sha long da	沙隆达	49
+sha wan jiang zhuang nai	沙湾姜撞奶	49
+sha he ji chang	沙河机场	48
+sha ren yang rou tang	砂仁羊肉汤	48
+sha pu ai si	莎普爱思	46
+sha long lu	沙龙路	45
+sha sha dai dai	傻傻呆呆	45
+sha zai	沙灾	45
+sha gang cun	沙岗村	43
+sha you yi si	啥有意思	41
+sha zhou ba zhen	沙洲坝镇	41
+sha zhi	纱织	38
+sha le mei	莎乐美	37
+sha xian hun tun	沙县馄饨	37
+sha wan da pan ji	沙湾大盘鸡	36
+sha zhu	沙蠋	36
+sha bing du ji	杀病毒剂	35
+sha ge du	沙圪堵	35
+sha guo ya yu	砂锅雅鱼	35
+sha shan jie	砂山街	35
+sha zi	痧子	35
+sha he shi chang	沙河市场	34
+sha chong	沙冲	33
+sha bu la ji	傻不啦唧	30
+sha xing	沙姓	30
+sha zi bing	砂子饼	30
+sha guo yang rou	砂锅羊肉	29
+sha cha kao rou chuan	沙茶烤肉串	28
+sha po cun	沙坡村	28
+sha shu	沙鼠	28
+sha zi ying	沙子营	27
+sha di cun	沙堤村	26
+sha zhou wei	沙洲尾	26
+sha chang lu	纱厂路	25
+sha guo fei chang	砂锅肥肠	25
+sha li yuan	沙梨园	25
+sha ren zi you sha fu	傻人自有傻福	25
+sha shang xi bao	杀伤细胞	24
+sha cun	厦村	23
+sha ji xia hou	杀鸡吓猴	23
+sha keng cun	沙坑村	23
+sha tou jiao zhen	沙头角镇	23
+sha ren ru cao	杀人如草	22
+sha guo gou rou	砂锅狗肉	21
+sha guo yu tou dou fu	砂锅鱼头豆腐	20
+sha sha ya ya	沙沙哑哑	20
+sha wei jin	纱围巾	20
+sha xue	沙雪	20
+sha zao	砂皂	20
+sha chong mi	杀虫脒	19
+sha pu cun	沙浦村	19
+sha yang jian yu guan li ju	沙洋监狱管理局	19
+sha ding xiang	沙丁乡	18
+sha lv hai xian juan	沙律海鲜卷	18
+sha ming	沙明	18
+sha shen yu zhu lao ya tang	沙参玉竹老鸭汤	18
+sha ji you	沙棘油	17
+sha po wei	沙坡尾	17
+sha xia cun	沙吓村	17
+sha shang jian ta	沙上建塔	16
+sha shen	煞神	16
+sha yuan shi chang	沙园市场	16
+sha bo gou rou	砂钵狗肉	15
+sha la dan	沙拉蛋	15
+sha li ya fa gui	沙里亚法规	15
+sha wan bai bing	沙湾白饼	15
+sha zao	沙蚤	15
+sha zhe ne	傻着呢	15
+sha chang jing yun ming	沙场竟殒命	14
+sha ya jian yu	沙雅监狱	14
+sha ding an chun qi wu ji	沙丁胺醇气雾剂	13
+sha he bei da qiao	沙河北大桥	13
+sha ruan chang shang	杀软厂商	13
+sha te er mao	沙特尔猫	13
+sha zhou ta cui	沙舟踏翠	13
+sha gao	杉篙	12
+sha jie jie	傻姐姐	12
+sha qian	砂潜	12
+sha shi bing gan	沙式饼干	12
+sha tou jiao jie dao dang gong wei	沙头角街道党工委	12
+sha wan hai guan	沙湾海关	12
+sha xi jie dao	沙溪街道	12
+sha yu yan	啥语言	12
+sha bu cun	沙埠村	11
+sha bu leng deng	傻不棱登	11
+sha bu sha	杀不杀	11
+sha che nong chang	莎车农场	11
+sha hua	沙画	11
+sha mo di shu gui	沙漠地鼠龟	11
+sha qi san shi zuo zhen yun	杀气三时作阵云	11
+sha tang	砂塘	11
+sha tang wan jie dao	沙塘湾街道	11
+sha guo wei lu jin	砂锅煨鹿筋	10
+sha jiao cun	沙滘村	10
+sha qiang xiang	沙腔乡	10
+sha yu er hui	铩羽而回	10
+sha ba tai	沙巴台	9
+sha hu tuo	沙滹沱	9
+sha jing hu tong	沙井胡同	9
+sha li du an	沙利度胺	9
+sha qiao cun	沙桥村	9
+sha qiu yi zhi	沙丘遗址	9
+sha qu cun	沙渠村	9
+sha shen mai dong tang	沙参麦冬汤	9
+sha wo bei qiao	沙窝北桥	9
+sha yan jie	沙堰街	9
+sha chang	纱场	8
+sha li xiang	沙梨乡	8
+sha li ya fa yuan	沙里亚法院	8
+sha mao cun	纱帽村	8
+sha mei te luo	沙美特罗	8
+sha gang lu	沙岗路	7
+sha ge	杀割	7
+sha jing da dao	沙井大道	7
+sha le hua	沙乐华	7
+sha long xiang	沙龙乡	7
+sha luan	傻卵	7
+sha mei cun	沙美村	7
+sha tang she qu	沙塘社区	7
+sha tuo	沙陀	7
+sha yu gou	沙峪沟	7
+sha zhou xian	沙洲县	7
+sha zhu	傻猪	7
+sha er xiang	沙耳乡	6
+sha gang	沙钢	6
+sha gu dui	沙古堆	6
+sha huang dan jiao su	沙黄蛋角酥	6
+sha la chuan	沙拉船	6
+sha mao bei jie	纱帽北街	6
+sha qi teng teng	煞气腾腾	6
+sha sheng zhi bing	杀生之柄	6
+sha shi lu kou dong	沙石路口东	6
+sha shi tian du suan tou	沙市甜独蒜头	6
+sha wei gong ye qu	沙尾工业区	6
+sha ye	沙耶	6
+sha gan chun	鲨肝醇	5
+sha gu	沙骨	5
+sha guo dun lv rou	砂锅炖驴肉	5
+sha hao jiao	沙蒿胶	5
+sha he dan gao	沙河蛋糕	5
+sha he gong ye yuan	沙河工业园	5
+sha he tan	沙河滩	5
+sha jing da wang shan	沙井大王山	5
+sha kui na wei	沙奎那韦	5
+sha mao long tou	纱帽笼头	5
+sha wa	沙洼	5
+sha zai	傻仔	5
+sha zao ye	沙枣叶	5
+sha zhu yu xiang	沙珠玉乡	5
+sha cha guo	沙茶粿	4
+sha cun cun	砂村村	4
+sha dian zhen	沙甸镇	4
+sha dong zhen	沙垌镇	4
+sha gong xiang	沙贡乡	4
+sha he kou huo che zhan	沙河口火车站	4
+sha hu shan guan li chu	沙湖山管理处	4
+sha jia cun	沙家村	4
+sha ju cun	沙咀村	4
+sha lian	傻脸	4
+sha liu lu	沙柳路	4
+sha luo xiang	沙洛乡	4
+sha man	沙螨	4
+sha mo sai dao	沙漠赛道	4
+sha pei lin	沙培林	4
+sha shen zhi ke tang san	沙参止咳汤散	4
+sha shi	沙虱	4
+sha si niu wei	沙司牛尾	4
+sha wan tou	沙湾头	4
+sha wei kang	沙维康	4
+sha wo	沙我	4
+sha xian dou fu wan	沙县豆腐丸	4
+sha xiang	杀降	4
+sha bo huang pi san he	砂钵黄陂三合	3
+sha bu la ji	傻不拉唧	3
+sha chong lu jie dao	沙冲路街道	3
+sha cong	沙葱	3
+sha dong xiang	沙东乡	3
+sha dui xiang	沙堆乡	3
+sha er zong xiang	沙尔宗乡	3
+sha gang zi	沙岗子	3
+sha ge cun	沙格村	3
+sha ge lei zhi	沙格雷酯	3
+sha ge tuo zhen	沙圪坨镇	3
+sha he jing ji ji shu kai fa qu	沙河经济技术开发区	3
+sha he xi zhan	沙河西站	3
+sha hu bin guan	沙湖宾馆	3
+sha jie	沙芥	3
+sha jing zhen	沙迳镇	3
+sha li yao zu xiang	沙里瑶族乡	3
+sha lian bao xiang	沙连堡乡	3
+sha mao	傻猫	3
+sha mei te luo ti ka song	沙美特罗替卡松	3
+sha qu yi yuan	沙区医院	3
+sha ran	沙蚺	3
+sha ri hao lai zhen	沙日浩来镇	3
+sha shen	沙参	3
+sha shen bao guo	杀身报国	3
+sha shi ji	砂时计	3
+sha tou du kou	沙头渡口	3
+sha tou ju wei hui	沙头居委会	3
+sha wan lian jian zhan	沙湾联检站	3
+sha wan shi	沙湾市	3
+sha xian	沙羡	3
+sha xie	沙蟹	3
+sha yang lu kou	沙阳路口	3
+sha yang lu she qu	沙阳路社区	3
+sha yu kou	沙峪口	3
+sha zi yan	沙子堰	3
+sha ba	沙坝	2
+sha ba	沙巴	2
+sha bao yu tou	砂煲鱼头	2
+sha bi	沙币	2
+sha bi bei	傻逼呗	2
+sha bi shi de	傻逼似的	2
+sha bi wan yi	傻逼玩意	2
+sha bi wan yi er	傻逼玩意儿	2
+sha chang dian qiu bing	沙场点秋兵	2
+sha chuang zui meng zhong	纱窗醉梦中	2
+sha de xiang	沙德乡	2
+sha diao	砂铫	2
+sha diao er	砂铫儿	2
+sha gang	沙冈	2
+sha guan xi	啥关系	2
+sha guo san dan	砂锅散丹	2
+sha guo san wei	砂锅三味	2
+sha guo shan hai	砂锅山海	2
+sha he cun wei hui	沙河村委会	2
+sha he gou	沙河沟	2
+sha hu	沙湖	2
+sha hu	沙狐	2
+sha hu lu kou	沙湖路口	2
+sha huo	傻货	2
+sha ji zi you	沙棘籽油	2
+sha jia si	沙家寺	2
+sha jia xiang	沙家巷	2
+sha la	莎拉	2
+sha lao	傻佬	2
+sha leng he xiang	沙塄河乡	2
+sha ling	沙陵	2
+sha liu bei lu	沙柳北路	2
+sha long jie	沙龙街	2
+sha ma la da xiang	沙马拉达乡	2
+sha ma xiang	沙马乡	2
+sha ming xiang	沙明乡	2
+sha mo lin ye shi yan zhong xin	沙漠林业实验中心	2
+sha mu	杉木	2
+sha qi jue	杀气诀	2
+sha qiu cheng xia ji du fu	沙丘城下寄杜甫	2
+sha ren	砂忍	2
+sha ren gao	砂仁糕	2
+sha shen chu sheng	杀身出生	2
+sha shen xin fei tang	沙参心肺汤	2
+sha sheng yu duo	杀生予夺	2
+sha sheng zhi quan	杀生之权	2
+sha shi	沙士	2
+sha shi nong chang	沙市农场	2
+sha tan shi	沙坦市	2
+sha te er lan mao	沙特尔蓝猫	2
+sha tian	沙田	2
+sha tou jiao qu	沙头角区	2
+sha wan	沙湾	2
+sha wo cun	沙沃村	2
+sha xin xiang	沙心乡	2
+sha yu gou cun	沙峪沟村	2
+sha zao yuan	沙枣园	2
+sha zha	唼喋	2
+sha ba ban ye zhi hu	沙坝半叶趾虎	1
+sha ba he xiang	沙坝河乡	1
+sha bao zhou ban shi chu	沙堡洲办事处	1
+sha bei jie dao	沙北街道	1
+sha bi	沙赑	1
+sha bi ba	傻屄吧	1
+sha bi bei	傻屄呗	1
+sha bi men	傻屄们	1
+sha bi shi de	傻屄似的	1
+sha bi wan yi	傻屄玩意	1
+sha bi wan yi er	傻屄玩意儿	1
+sha bian dai zhi jin	沙边待至今	1
+sha bu beng dai jian	纱布绷带剪	1
+sha bu bo li qian	纱布剥离钳	1
+sha cha chao xian you	沙茶炒鲜鱿	1
+sha chang feng huo qin hu yue	沙场烽火侵胡月	1
+sha chao dong dou	砂炒冻豆	1
+sha che	莎车	1
+sha che mo ca xi shu	刹车摩擦系数	1
+sha chuang ji du chun guang mu	纱窗几度春光暮	1
+sha chui ying di	砂槌营地	1
+sha dai xiang	沙岱乡	1
+sha de	沙德	1
+sha de bi	傻得比	1
+sha de bi	杀得比	1
+sha de la luo	沙德拉洛	1
+sha de la luo	莎德拉罗	1
+sha de la luo ji tan	莎德拉罗祭坛	1
+sha di da yan chang chun	沙地大眼长蝽	1
+sha die yang rou chuan	沙爹羊肉串	1
+sha ding you yu	沙丁油鱼	1
+sha er hu re zhen	沙尔呼热镇	1
+sha er wa sa	沙尔瓦萨	1
+sha fa cheng shang jie	沙发城上街	1
+sha fei chun she	煞费唇舌	1
+sha fei jing ying	煞费经营	1
+sha fu shi duo	沙夫氏多	1
+sha gan chun pian	鲨肝醇片	1
+sha gang xiang	沙岗乡	1
+sha ge ta xiang	沙圪塔乡	1
+sha gua de tian cai	傻瓜的天才	1
+sha guo cai fan	砂锅菜饭	1
+sha guo dun cai xin	砂锅炖菜心	1
+sha guo pang xie	砂锅螃蟹	1
+sha guo tu ji bao	砂锅土鸡煲	1
+sha guo you yu	砂锅鱿鱼	1
+sha ha hu shen fu	沙哈护身符	1
+sha ha jie zhi	沙哈戒指	1
+sha ha zhi gong	沙哈之弓	1
+sha ha zhi shi	沙哈之石	1
+sha he pu lu kou	沙河铺路口	1
+sha hu xiang	沙湖乡	1
+sha huan	沙獾	1
+sha ji che bo	杀鸡扯脖	1
+sha ji chi hou	杀鸡哧猴	1
+sha ji hai kuang qu	砂吉海矿区	1
+sha ji mo bo	杀鸡抹脖	1
+sha jia bang cun	沙家浜村	1
+sha jia dian zhen	沙家店镇	1
+sha jia shu nan	杀家纾难	1
+sha jia xiao mo xiang jing	沙加小抹香鲸	1
+sha jiang	砂姜	1
+sha jiao lu kou	沙滘路口	1
+sha jiao yi yuan	沙滘医院	1
+sha jin cao lv zhu shu yi	纱巾草履竹疏衣	1
+sha jin xi cun ji	杀尽西村鸡	1
+sha jin zhan jue	杀尽斩绝	1
+sha ke te	莎克特	1
+sha la hai xian juan	沙拉海鲜卷	1
+sha la li	莎拉李	1
+sha lao yue hai tun	沙捞越海豚	1
+sha le shi bo yu	沙勒氏搏鱼	1
+sha li mao shou chong	沙鳢锚首虫	1
+sha li si	沙丽思	1
+sha li wen su niu yue shi bao an	沙利文诉纽约时报案	1
+sha li zhai hei pi zhu	沙里寨黑皮猪	1
+sha li zhai hei zhu	沙里寨黑猪	1
+sha lin ya	莎琳雅	1
+sha liu nan lu	沙柳南路	1
+sha long er huan	沙龙耳环	1
+sha long xie wei jiao	沙龙蝎尾蕉	1
+sha lou yu luo	沙漏芋螺	1
+sha lou zhuang zhi zhu	沙漏状蜘蛛	1
+sha lu you xi	沙鲁游戏	1
+sha lv yun tun	沙律云吞	1
+sha mei leng yan	傻眉愣眼	1
+sha men chan zhu	沙门禅珠	1
+sha men hu wan	沙门护腕	1
+sha men seng zhuang	沙门僧装	1
+sha men xie	沙门鞋	1
+sha meng yu	沙鯭鱼	1
+sha mi shou chi e	沙弥绶尺蛾	1
+sha mo chang er fu	沙漠长耳蝠	1
+sha mo chang er lu	沙漠长耳鹿	1
+sha mo dong wu qiu sheng ji	沙漠动物求生记	1
+sha mo lan zhen zhu jiang	沙漠蓝珍珠鳉	1
+sha mo mian wei tu	沙漠棉尾兔	1
+sha mo ye zhao dao ba li	沙漠也找到巴黎	1
+sha mo zhu feng	沙漠蛛蜂	1
+sha mo zhu ru cang shu	沙漠侏儒仓鼠	1
+sha mu xin dong yang jin lin yu	莎姆新东洋金鳞鱼	1
+sha nai	纱奈	1
+sha nang ban kou xian chong	砂囊瓣口线虫	1
+sha neng jie	沙能街	1
+sha ping cao lv jian li xi	沙平草绿见吏稀	1
+sha ping shui xi sheng ying jue	沙平水息声影绝	1
+sha qing fu jiu	杀青甫就	1
+sha ren ru bu neng ju	杀人如不能举	1
+sha ren ru hao	杀人如蒿	1
+sha ren ru jian cao	杀人如剪草	1
+sha ren ru jie	杀人如芥	1
+sha ren ru ruo	杀人如爇	1
+sha ren ru yi	杀人如艺	1
+sha ren yi ting yu ren	杀人以梃与刃	1
+sha san miao yu san wei	杀三苗于三危	1
+sha shang xing ren que hui shou	沙上行人却回首	1
+sha shen cheng ming	杀身成名	1
+sha shen cheng yi	杀身成义	1
+sha shi	沙市	1
+sha shi dao	沙市道	1
+sha shi dao ying chun li	沙市道迎春里	1
+sha shi luan piao yang	沙石乱飘扬	1
+sha shi xia zhen	沙氏下鱵	1
+sha shi yu	砂时雨	1
+sha shi zhi mang chun	沙氏植盲蝽	1
+sha tian hu bi	煞天护臂	1
+sha tian shi sui	煞天噬髓	1
+sha tian xia kai	煞天下铠	1
+sha tian zhan kui	煞天战盔	1
+sha tou jiao zhen zheng fu	沙头角镇政府	1
+sha tuan yan hong shui	杀湍湮洪水	1
+sha wo cun wei hui	沙窝村委会	1
+sha wo jiao zhi da yu tou	沙窝椒汁大鱼头	1
+sha wo qiao bei	沙窝桥北	1
+sha wo qiao dong	沙窝桥东	1
+sha wo qiao xi	沙窝桥西	1
+sha wo she qu	沙窝社区	1
+sha wu lai	沙勿来	1
+sha xi	沙蜥	1
+sha yi li bai	杀一利百	1
+sha yi li bai	杀一砺百	1
+sha yin	砂隐	1
+sha you chong ji	杀幼虫剂	1
+sha yu bao lin	铩羽暴鳞	1
+sha yu er tao	铩羽而逃	1
+sha yu he lin	铩羽涸鳞	1
+sha yu wan mei gui bao luo	鲨鱼湾玫瑰宝螺	1
+sha yue jie	沙跃街	1
+sha zao cha	沙枣茶	1
+sha zhan yu	沙展鱼	1
+sha zhu ke	沙蠋科	1
+sha zuan	沙钻	1

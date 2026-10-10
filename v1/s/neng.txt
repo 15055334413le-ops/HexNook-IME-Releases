@@ -1,0 +1,1166 @@
+neng li	能力	804674
+neng gou	能够	501639
+neng fou	能否	500286
+neng yuan	能源	500265
+neng zai	能在	500254
+neng liang	能量	476965
+neng bu neng	能不能	232910
+neng shi	能使	212205
+neng you	能有	207740
+neng ba	能把	172590
+neng gou zai	能够在	167495
+neng gei	能给	166430
+neng wei	能为	162695
+neng jiang	能将	161345
+neng li qiang	能力强	150050
+neng bu	能不	146460
+neng yong	能用	141930
+neng cong	能从	136505
+neng zuo	能做	130530
+neng he	能和	111605
+neng yu	能与	111160
+neng dui	能对	108750
+neng hao	能耗	105505
+neng shuo	能说	103515
+neng li jian she	能力建设	100725
+neng rang	能让	99999
+neng yi	能以	96920
+neng bei	能被	96275
+neng de dao	能得到	77550
+neng man zu	能满足	70680
+neng zai	能再	69595
+neng xiang	能像	68575
+neng kan dao	能看到	67520
+neng kan	能看	63855
+neng da dao	能达到	60845
+neng zhao dao	能找到	60175
+neng shou	能手	54860
+neng cheng wei	能成为	49220
+neng bang	能帮	49095
+neng zuo dao	能做到	48950
+neng bi	能比	48505
+neng chi ku	能吃苦	46285
+neng chi	能吃	45900
+neng jin	能进	45750
+neng shi yong	能使用	45660
+neng tong guo	能通过	45115
+neng gan	能干	45030
+neng qu	能去	44690
+neng dai	能带	41745
+neng gou ba	能够把	40480
+neng gen	能跟	39485
+neng ting	能听	39005
+neng da	能打	38315
+neng bang zhu	能帮助	38160
+neng shang	能上	35685
+neng jian	能见	34680
+neng gou shi	能够使	33540
+neng ren	能人	33310
+neng jie shou	能接受	33265
+neng zou	能走	32435
+neng dong	能动	32190
+neng shi ying	能适应	31970
+neng ling	能令	31930
+neng chu	能出	31195
+neng chan	能产	30600
+neng cu jin	能促进	30385
+neng dai	能戴	30300
+neng xiao	能效	29960
+neng fa	能发	29060
+neng suan	能算	28615
+neng gou da dao	能够达到	27350
+neng qi dao	能起到	27185
+neng xie	能写	26925
+neng cheng shou	能承受	26905
+neng zhuan	能赚	26535
+neng dao	能到	26520
+neng nai	能耐	26485
+neng li cha	能力差	26155
+neng mai	能买	26000
+neng mai	能卖	25710
+neng li jie	能理解	25260
+neng yuan xiao hao	能源消耗	24740
+neng cheng	能成	23905
+neng lai	能来	21810
+neng huo	能活	21005
+neng xiang	能想	20660
+neng shou	能收	20295
+neng jian du	能见度	20110
+neng guo	能过	19455
+neng sheng	能生	18845
+neng gai bian	能改变	18785
+neng li ce shi	能力测试	18250
+neng jian chi	能坚持	18160
+neng zhi	能治	18155
+neng gai	能改	17935
+neng da	能达	17865
+neng kan jian	能看见	17830
+neng li ce yan	能力测验	17760
+neng kong zhi	能控制	17035
+neng wan	能玩	17000
+neng xue	能学	16825
+neng xia	能下	16705
+neng sheng ren	能胜任	16220
+neng xing	能行	15975
+neng shuo ming	能说明	15950
+neng yuan xiao fei	能源消费	15500
+neng gan de	能干的	14720
+neng ban	能办	14355
+neng yuan zi yuan	能源资源	14225
+neng li bu zu	能力不足	14155
+neng mai dao	能买到	13735
+neng ren	能忍	13660
+neng na dao	能拿到	13640
+neng kai	能开	13535
+neng he	能喝	13500
+neng bian	能变	13285
+neng dong xing	能动性	13180
+neng shi ren	能使人	13005
+neng jin ru	能进入	12970
+neng yuan gong ying	能源供应	12400
+neng jin kuai	能尽快	12150
+neng fei	能飞	12085
+neng rong na	能容纳	12060
+neng ren	能认	11990
+neng li you xian	能力有限	11890
+neng du	能读	11820
+neng yi zhi	能抑制	11735
+neng ji	能级	11670
+neng pao	能跑	11625
+neng ma	能吗	11460
+neng liao jie	能了解	11450
+neng zhe	能者	11205
+neng yuan jia ge	能源价格	11070
+neng lian	能连	10980
+neng jiang	能讲	10620
+neng li fang mian	能力方面	10465
+neng liu	能留	10385
+neng jiu	能救	10325
+neng gao su wo	能告诉我	10185
+neng gou sheng ren	能够胜任	10170
+neng zuo shen me	能做什么	10045
+neng yuan bu	能源部	10005
+neng dang	能当	9999
+neng de	能的	9999
+neng deng	能等	9999
+neng deng wo	能等我	9999
+neng huan	能换	9999
+neng huan lai	能换来	9999
+neng jiao	能叫	9999
+neng kao	能靠	9999
+neng na	能拿	9999
+neng qi	能起	9999
+neng xian	能先	9999
+neng xian rang	能先让	9999
+neng ying	能赢	9999
+neng zhao	能找	9999
+neng yuan jie gou	能源结构	9835
+neng sheng chan	能生产	9705
+neng de dao de	能得到的	9545
+neng ji fa	能激发	9420
+neng qu	能取	9190
+neng yuan kai fa	能源开发	8875
+neng jiang	能降	8850
+neng ge shan wu	能歌善舞	8765
+neng gong qiao jiang	能工巧匠	8680
+neng shang neng xia	能上能下	8605
+neng ting dong	能听懂	8525
+neng yan	能言	8510
+neng liang xiao hao	能量消耗	8415
+neng shui	能睡	8385
+neng ru ci	能如此	8125
+neng li shui ping	能力水平	8100
+neng bi mian	能避免	8000
+neng jian	能减	7915
+neng jie	能借	7560
+neng yuan wen ti	能源问题	7280
+neng yuan guan li	能源管理	7210
+neng zhu	能住	7195
+neng shuo hui dao	能说会道	7100
+neng yuan xu qiu	能源需求	6980
+neng yuan ji shu	能源技术	6965
+neng yuan xiao lv	能源效率	6935
+neng zhi	能指	6789
+neng dan	能担	6666
+neng bu xiang	能不像	6556
+neng ren zhen	能认真	6485
+neng ren shi	能认识	6305
+neng xi shou	能吸收	6160
+neng yuan wei ji	能源危机	6150
+neng bu	能补	6000
+neng shang wang	能上网	5955
+neng kan dong	能看懂	5855
+neng shou	能守	5780
+neng yuan zhan lve	能源战略	5605
+neng ding	能定	5555
+neng fu	能付	5555
+neng fu ma	能付吗	5555
+neng hua	能花	5555
+neng shi	能是	5555
+neng zheng	能挣	5555
+neng jie shi	能解释	5455
+neng a	能啊	5425
+neng xiang dao	能想到	5425
+neng yuan chan ye	能源产业	5380
+neng yuan shi chang	能源市场	5345
+neng xin	能信	5265
+neng ke fu	能克服	5210
+neng gan	能赶	5165
+neng hao di	能耗低	5120
+neng yuan gong si	能源公司	5080
+neng da kai	能打开	5010
+neng zou duo yuan	能走多远	4955
+neng yuan zheng ce	能源政策	4875
+neng yuan ling yu	能源领域	4795
+neng yuan gong ye	能源工业	4665
+neng bei	能背	4530
+neng yan	能演	4345
+neng dao da	能到达	4325
+neng li qing xiang ce yan	能力倾向测验	4140
+neng tui	能退	4080
+neng yuan jie yue	能源节约	4040
+neng mian	能免	4000
+neng li fan wei	能力范围	3825
+neng liang dai xie	能量代谢	3750
+neng bian	能辨	3570
+neng yuan jian she	能源建设	3570
+neng yuan duan que	能源短缺	3560
+neng yan shan bian	能言善辩	3545
+neng gan shi	能干事	3485
+neng yuan you xian	能源有限	3470
+neng li wen ti	能力问题	3445
+neng sheng cun	能生存	3365
+neng dian	能点	3333
+neng fang	能放	3333
+neng zhen dong	能震动	3333
+neng yuan hang ye	能源行业	3300
+neng liang zhuan huan	能量转换	3240
+neng gou chong xin	能够重新	3220
+neng yuan xiang mu	能源项目	2935
+neng sha si	能杀死	2875
+neng huo zhe	能活着	2840
+neng li qing xiang	能力倾向	2725
+neng bu neng gou	能不能够	2720
+neng gou zhan	能够站	2715
+neng liang chang	能量场	2675
+neng gao su wo ma	能告诉我吗	2625
+neng yuan ju	能源局	2545
+neng dui fu	能对付	2485
+neng li ji qiang	能力极强	2445
+neng di yu	能抵御	2425
+neng shen	能伸	2375
+neng liang zhuan hua	能量转化	2275
+neng feng	能封	2222
+neng fu	能富	2222
+neng tong	能同	2222
+neng zhan	能站	2222
+neng wen	能文	2205
+neng yuan fa	能源法	2135
+neng yang huo	能养活	2110
+neng zheng shan zhan	能征善战	2105
+neng liang shi fang	能量释放	2060
+neng qu neng shen	能屈能伸	2045
+neng kai fa	能开发	2040
+neng chuan tou	能穿透	2005
+neng fen bie	能分别	2000
+neng liang shou heng	能量守恒	2000
+neng gan de ren	能干的人	1995
+neng gong	能攻	1920
+neng yuan bu zhang	能源部长	1905
+neng ba	能拔	1900
+neng fang xia	能放下	1870
+neng yan shan dao	能言善道	1860
+neng jian fei	能减肥	1820
+neng yuan wei yuan hui	能源委员会	1743
+neng da fu du	能大幅度	1730
+neng pu	能谱	1720
+neng ren nai	能忍耐	1690
+neng gou rong ren	能够容忍	1660
+neng kan	能侃	1650
+neng wen neng wu	能文能武	1605
+neng ya	能呀	1545
+neng xiang xiang	能想象	1480
+neng liang shou heng ding lv	能量守恒定律	1475
+neng gen zhe	能跟着	1400
+neng rong jie	能溶解	1390
+neng zheng shi	能证实	1360
+neng wei quan	能为权	1340
+neng zhi	能知	1301
+neng dan ren	能担任	1300
+neng kan zhe	能看着	1290
+neng li suo ji	能力所及	1280
+neng pei ni	能陪你	1280
+neng yuan jing ji	能源经济	1280
+neng zhe duo lao	能者多劳	1260
+neng hu xi	能呼吸	1255
+neng duo	能夺	1200
+neng li cha yi	能力差异	1195
+neng bu xiang ma	能不像吗	1185
+neng bu yi jiang nan	能不忆江南	1180
+neng chai	能拆	1180
+neng chong	能充	1180
+neng fu yu ren	能服于人	1180
+neng sheng ze sheng	能省则省	1180
+neng yin di bian hua er qu sheng zhe	能因敌变化而取胜者	1180
+neng liang jiao huan	能量交换	1165
+neng yuan ke xue	能源科学	1160
+neng gou xue	能够学	1135
+neng chu	能处	1111
+neng de	能得	1111
+neng ding	能顶	1111
+neng dui	能堆	1111
+neng fan sha	能反杀	1111
+neng feng	能疯	1111
+neng gao	能搞	1111
+neng gao ding	能搞定	1111
+neng guan	能管	1111
+neng hua	能画	1111
+neng jia	能加	1111
+neng jia ni	能加你	1111
+neng kang	能扛	1111
+neng kao	能考	1111
+neng lian	能练	1111
+neng liao	能聊	1111
+neng ling	能领	1111
+neng sha	能杀	1111
+neng sha chu	能杀出	1111
+neng si	能死	1111
+neng si a	能死啊	1111
+neng tou	能投	1111
+neng xi	能洗	1111
+neng xian	能显	1111
+neng xiu	能修	1111
+neng yang	能养	1111
+neng zhan	能战	1111
+neng zhang	能涨	1111
+neng zhui	能追	1111
+neng liang chuan di	能量传递	1100
+neng pei	能陪	1080
+neng chu li de	能处理的	1045
+neng nai wo he	能奈我何	1035
+neng liang chu cun	能量储存	1030
+neng yuan zuo wu	能源作物	1020
+neng liang sun hao	能量损耗	1000
+neng pu yi	能谱仪	975
+neng mian ze mian	能免则免	935
+neng zhe wei shi	能者为师	910
+neng li yan jiu	能力研究	900
+neng yong le	能用了	865
+neng jing shou zhu	能经受住	840
+neng sheng yu	能生育	800
+neng dong le	能动了	750
+neng shuo hua de	能说话的	745
+neng ji suan de	能计算的	725
+neng chen	能臣	707
+neng ji	能及	689
+neng chi neng he	能吃能喝	660
+neng zai du	能再度	660
+neng liang zhuan yi	能量转移	650
+neng shuo ma	能说吗	605
+neng fang shui	能防水	595
+neng zou dong	能走动	595
+neng jie jue ma	能解决吗	593
+neng qia hui suan	能掐会算	580
+neng hua diao	能花掉	555
+neng ren si	能仁寺	535
+neng zuo zi ji	能做自己	525
+neng yi	能译	505
+neng chuan song	能传送	490
+neng gong shan shou	能攻善守	480
+neng fei xiang	能飞翔	475
+neng li she ji	能力设计	455
+neng shuo shuo ma	能说说吗	450
+neng shang chang	能上场	445
+neng yuan jie	能源界	400
+neng bei jie shou	能被接受	370
+neng ju	能剧	369
+neng gan sha	能干啥	365
+neng jin qu pi	能近取譬	355
+neng pei he	能配合	340
+neng gou bao liu	能够保留	339
+neng shuo hua le	能说话了	310
+neng bu neng dao	能不能到	290
+neng zhi liao de	能治疗的	290
+neng yuan xiao lv biao zhi guan li ban fa	能源效率标志管理办法	278
+neng kao duo shao	能考多少	276
+neng li shi yan	能力试验	265
+neng ren zi an	能忍自安	240
+neng bai	能摆	222
+neng cha	能查	222
+neng jiao	能交	222
+neng pai	能拍	222
+neng qu de	能去的	222
+neng li ji	能力极	218
+neng gou you	能够有	211
+neng ling dao	能领到	200
+neng dan zhong ren	能担重任	197
+neng liang ti	能量体	195
+neng yuan ji tuan	能源集团	190
+neng da zhang	能打仗	189
+neng dong jiu xing	能动就行	189
+neng kan de dao	能看得到	189
+neng fu zhi	能复制	185
+neng zhuan bian wei	能转变为	180
+neng yuan ta	能源塔	175
+neng shi gui tui mo	能使鬼推磨	168
+neng da ying zhang	能打硬仗	166
+neng tuo dan	能脱单	163
+neng fang zhu	能放住	156
+neng xiao de	能笑的	155
+neng fan yi	能翻译	152
+neng ti yan	能体验	152
+neng jin bu neng chu	能进不能出	147
+neng kong zhi zhu	能控制住	147
+neng bu neng kan dao	能不能看到	144
+neng jian dao	能捡到	144
+neng ling qu	能领取	144
+neng ding ban bian tian	能顶半边天	143
+neng li pei yang	能力培养	142
+neng hao shuang kong	能耗双控	141
+neng liang ping	能量瓶	141
+neng fang da	能放大	137
+neng li ruo	能力弱	136
+neng zhu li	能助力	135
+neng hao bi	能耗比	134
+neng zhi yu	能治愈	130
+neng yuan zhi cheng	能源之城	129
+neng da ying	能打赢	128
+neng zou jiu zou	能走就走	125
+neng hui ke ji	能辉科技	119
+neng guo jiu xing	能过就行	117
+neng cheng shou zhi	能承受之	113
+neng bai	能白	111
+neng bai hui lai	能白回来	111
+neng cha	能差	111
+neng cheng	能撑	111
+neng chuan	能穿	111
+neng deng	能登	111
+neng dong	能懂	111
+neng fang	能防	111
+neng fu	能服	111
+neng huo	能火	111
+neng jie	能接	111
+neng pai	能排	111
+neng pei	能配	111
+neng qu	能娶	111
+neng sheng	能省	111
+neng shua	能刷	111
+neng song	能送	111
+neng sui	能随	111
+neng ti	能提	111
+neng tong	能通	111
+neng xiu	能休	111
+neng he cheng	能合成	108
+neng zhi fu	能致富	108
+neng bu neng hui jia	能不能回家	105
+neng shi xian ma	能实现吗	105
+neng zhen dong	能振动	105
+neng da sheng zhang	能打胜仗	102
+neng ba ren	能把人	100
+neng ba ren qi si	能把人气死	100
+neng ban de	能办的	100
+neng bang de shang mang	能帮得上忙	100
+neng bang duo shao	能帮多少	100
+neng bang ji yu shi chao	能谤讥于市朝	100
+neng bang shang mang de	能帮上忙的	100
+neng bao ming	能保命	100
+neng bao sha	能报啥	100
+neng bao shang	能报上	100
+neng bei li yong	能被利用	100
+neng bi de	能比的	100
+neng bi xie	能辟邪	100
+neng bian shi fei	能辨是非	100
+neng biao shi	能表示	100
+neng bu dan xin	能不担心	100
+neng bu dan xin ma	能不担心吗	100
+neng bu lai	能不来	100
+neng bu lai ma	能不来吗	100
+neng bu neng bao	能不能报	100
+neng bu neng bie kan le	能不能别看了	100
+neng bu neng bu yao	能不能不要	100
+neng bu neng da bai	能不能打败	100
+neng bu neng fa huo	能不能发货	100
+neng bu neng hui qu	能不能回去	100
+neng bu neng huo zhe hui lai	能不能活着回来	100
+neng bu neng jiang	能不能降	100
+neng bu neng jie feng	能不能解封	100
+neng bu neng kan jian	能不能看见	100
+neng bu neng li jie	能不能理解	100
+neng bu neng ling hui	能不能领会	100
+neng bu neng ling shuo	能不能另说	100
+neng bu neng pian yi dian	能不能便宜点	100
+neng bu neng po	能不能破	100
+neng bu neng shang ban	能不能上班	100
+neng bu neng shi yi shi	能不能试一试	100
+neng bu neng shou	能不能守	100
+neng bu neng shou	能不能收	100
+neng bu neng shou dao	能不能收到	100
+neng bu neng shou zhu	能不能守住	100
+neng bu neng tou	能不能投	100
+neng bu neng tou xiang	能不能投降	100
+neng bu neng tui jian	能不能推荐	100
+neng bu neng xing	能不能行	100
+neng bu neng xing a	能不能行啊	100
+neng bu neng zai kuai dian	能不能再快点	100
+neng bu neng zai kuai dian er	能不能再快点儿	100
+neng bu neng zai kuai dian er ma	能不能再快点儿吗	100
+neng bu neng zai kuai dian ma	能不能再快点吗	100
+neng bu neng zuo hao	能不能做好	100
+neng bu pa	能不怕	100
+neng bu pa ma	能不怕吗	100
+neng bu shang ma	能补上吗	100
+neng bu shuo ma	能不说吗	100
+neng bu wan	能不玩	100
+neng bu wan	能补完	100
+neng bu wan er	能不玩儿	100
+neng bu wan er ma	能不玩儿吗	100
+neng bu wan ma	能不玩吗	100
+neng bu wen ma	能不问吗	100
+neng bu xie	能不写	100
+neng can jia	能参加	100
+neng cha dao	能查到	100
+neng cha duo shao	能差多少	100
+neng cha jue	能察觉	100
+neng cha le	能查了	100
+neng chang cun	能长存	100
+neng chang sheng	能长生	100
+neng chang shou	能长寿	100
+neng che hui	能撤回	100
+neng chen de zhu qi	能沉得住气	100
+neng cheng dan	能承担	100
+neng cheng duo jiu	能撑多久	100
+neng cheng duo jiu a	能撑多久啊	100
+neng cheng duo jiu ya	能撑多久呀	100
+neng cheng hen jiu	能撑很久	100
+neng cheng hen jiu ba	能撑很久吧	100
+neng cheng qi da	能成其大	100
+neng cheng wei shen me	能成为什么	100
+neng cheng zhang	能成长	100
+neng chi bao jiu xing	能吃饱就行	100
+neng chi dao	能吃到	100
+neng chi de qi	能吃得起	100
+neng chi jiu xing	能吃就行	100
+neng chi shen me	能吃什么	100
+neng chong fu	能重复	100
+neng chu chai	能出差	100
+neng chu cun	能出村	100
+neng chu jie guo	能出结果	100
+neng chuan bo	能传播	100
+neng chuan cheng	能传承	100
+neng chuan di	能传递	100
+neng chuan duo shao	能穿多少	100
+neng chuan qiu	能传球	100
+neng cou qi	能凑齐	100
+neng cu jin sheng zhang	能促进生长	100
+neng da bai	能打败	100
+neng da bai di ren	能打败敌人	100
+neng da bai di ren de	能打败敌人的	100
+neng da chu lai	能打出来	100
+neng da da jiang di	能大大降低	100
+neng da de guo	能打得过	100
+neng da duo shao	能打多少	100
+neng da fu du ti sheng	能大幅度提升	100
+neng da si	能打死	100
+neng dai lai shen me	能带来什么	100
+neng dai ren	能带人	100
+neng dai shou ji	能带手机	100
+neng dai ti	能代替	100
+neng dao xue xiao	能到学校	100
+neng de chang	能得偿	100
+neng de chu	能得出	100
+neng de dao geng duo	能得到更多	100
+neng de dao shen me	能得到什么	100
+neng de fen	能得分	100
+neng deng hui	能等会	100
+neng deng hui er	能等会儿	100
+neng deng ma mei zi	能登麻美子	100
+neng di kang	能抵抗	100
+neng di kang de	能抵抗的	100
+neng dian bu	能点不	100
+neng ding de zhu	能顶得住	100
+neng dong de	能懂得	100
+neng dong tan	能动弹	100
+neng du guo	能度过	100
+neng du neng jiang	能读能讲	100
+neng du neng shuo	能读能说	100
+neng du neng xie	能读能写	100
+neng duo da	能多大	100
+neng duo da jiu duo da	能多大就多大	100
+neng duo guan	能夺冠	100
+neng duo ji shi	能躲几时	100
+neng duo jiu	能多久	100
+neng fa huo	能发货	100
+neng fa huo bu	能发货不	100
+neng fa huo ma	能发货吗	100
+neng fan huan	能返还	100
+neng fang xin ma	能放心吗	100
+neng fei xing	能飞行	100
+neng fen shan e	能分善恶	100
+neng fou chang jiu	能否长久	100
+neng fou cheng xing	能否成行	100
+neng fou jie wo	能否借我	100
+neng fou luo shi	能否落实	100
+neng fu dan de qi	能负担得起	100
+neng fu xian	能复现	100
+neng fu xian ma	能复现吗	100
+neng fu zhong	能负重	100
+neng gai bu	能改不	100
+neng gai di zhi	能改地址	100
+neng gai yi xia	能改一下	100
+neng gan ba ba	能干巴巴	100
+neng gan bei	能干杯	100
+neng gan cui	能干脆	100
+neng gan de mei mei	能干的妹妹	100
+neng gan hao	能干耗	100
+neng gan jue	能感觉	100
+neng gan jue chu	能感觉出	100
+neng gan jue chu lai	能感觉出来	100
+neng gan jue dao	能感觉到	100
+neng gan jue de dao	能感觉得到	100
+neng gan ma	能干吗	100
+neng gan rao	能干扰	100
+neng gan she	能干涉	100
+neng gan shen me	能干什么	100
+neng gan yu	能干预	100
+neng gan zhao ji	能干着急	100
+neng gao ding ma	能搞定吗	100
+neng gei chu	能给出	100
+neng gei shen me	能给什么	100
+neng gong neng shou	能攻能守	100
+neng gou can jia	能够参加	100
+neng gou cha jue	能够察觉	100
+neng gou chang jiu	能够长久	100
+neng gou cheng zhang	能够成长	100
+neng gou chu ren tou di	能够出人头地	100
+neng gou de dao	能够得到	100
+neng gou de zhi	能够得知	100
+neng gou dong de	能够懂得	100
+neng gou fu dan de qi	能够负担得起	100
+neng gou gan jue	能够感觉	100
+neng gou gan jue dao	能够感觉到	100
+neng gou huo de	能够获得	100
+neng gou ji de	能够记得	100
+neng gou jiao hao de	能够较好地	100
+neng gou jiao ta shi di	能够脚踏实地	100
+neng gou kan de chu lai	能够看得出来	100
+neng gou kuai le	能够快乐	100
+neng gou liao jie	能够了解	100
+neng gou liao jie dao	能够了解到	100
+neng gou liu chang yun xing	能够流畅运行	100
+neng gou mai de qi	能够买得起	100
+neng gou ming xian de gan jue dao	能够明显的感觉到	100
+neng gou ming xian gan jue dao	能够明显感觉到	100
+neng gou mo fang	能够模仿	100
+neng gou sheng zhang	能够生长	100
+neng gou xi guan	能够习惯	100
+neng gou xiang dao	能够想到	100
+neng gou yun xing	能够运行	100
+neng gou zhi jie	能够直接	100
+neng gou zhi xing	能够执行	100
+neng gou zhong shi	能够重视	100
+neng gou zuo dao shen me	能够做到什么	100
+neng gou zuo shen me	能够做什么	100
+neng gou zuo xie shen me	能够做些什么	100
+neng guo de an wen	能过得安稳	100
+neng guo xian	能过线	100
+neng han dong	能撼动	100
+neng hao chi	能好吃	100
+neng hao chi ma	能好吃吗	100
+neng hao guan li xi tong	能耗管理系统	100
+neng hao he	能好喝	100
+neng hao he ma	能好喝吗	100
+neng hao jian ce xi tong	能耗监测系统	100
+neng hao jiang di	能耗降低	100
+neng hao xia jiang	能耗下降	100
+neng he shang	能喝上	100
+neng he wan	能喝完	100
+neng hen hao de	能很好地	100
+neng hou bu	能候补	100
+neng huan yuan	能还原	100
+neng hui qu bu	能回去不	100
+neng huo de	能获得	100
+neng huo de geng duo	能获得更多	100
+neng ji qi	能集齐	100
+neng ji yu	能给予	100
+neng ji zhu le	能记住了	100
+neng ji zhu le ma	能记住了吗	100
+neng jian du bu zu	能见度不足	100
+neng jian du cha	能见度差	100
+neng jian du di	能见度低	100
+neng jian du gao	能见度高	100
+neng jian du hao	能见度好	100
+neng jian du hen di	能见度很低	100
+neng jian du jiang di	能见度降低	100
+neng jian du jiao cha	能见度较差	100
+neng jian du jiao di	能见度较低	100
+neng jian du xia jiang	能见度下降	100
+neng jian mian	能见面	100
+neng jian mian le	能见面了	100
+neng jian ren	能坚忍	100
+neng jian ren zhe me duo nian	能坚忍这么多年	100
+neng jiang di	能降低	100
+neng jiang di dan gu chun	能降低胆固醇	100
+neng jiang di xie ya	能降低血压	100
+neng jiang di xue ya	能降低血压	100
+neng jiang huo	能降火	100
+neng jiang neng du	能讲能读	100
+neng jiang neng ting	能讲能听	100
+neng jiang neng xie	能讲能写	100
+neng jiang wen	能降温	100
+neng jiang xie tang	能降血糖	100
+neng jiang xie ya	能降血压	100
+neng jiang xie zhi	能降血脂	100
+neng jiang xue tang	能降血糖	100
+neng jiang xue ya	能降血压	100
+neng jiang xue zhi	能降血脂	100
+neng jiao hui	能教会	100
+neng jiao liu	能交流	100
+neng jie dian hua ma	能接电话吗	100
+neng jie du	能解毒	100
+neng jie feng	能解封	100
+neng jie jue	能解决	100
+neng jie jue shen me	能解决什么	100
+neng jie kai	能解开	100
+neng jin chu	能进出	100
+neng jin fu shi	能进复试	100
+neng jin neng chu	能进能出	100
+neng jin neng tui	能进能退	100
+neng jin neng tui nai zhen zheng fa qi	能进能退乃真正法器	100
+neng jin qu bu	能进去不	100
+neng kai de qi	能开得起	100
+neng kai tuo	能开拓	100
+neng kan dao bu	能看到不	100
+neng kan dao ma	能看到吗	100
+neng kan dao me	能看到么	100
+neng kan dao shen me	能看到什么	100
+neng kan de	能看的	100
+neng kan de chu	能看得出	100
+neng kan de chu lai	能看得出来	100
+neng kan de dong	能看得懂	100
+neng kan de jian	能看得见	100
+neng kan de le	能看的了	100
+neng kan de qing	能看得清	100
+neng kan kan ni ma	能看看你吗	100
+neng kan neng jiang	能看能讲	100
+neng kan neng shuo	能看能说	100
+neng kan neng ting	能看能听	100
+neng kan neng xie	能看能写	100
+neng kan ni ma	能看你吗	100
+neng kang de zhu	能扛得住	100
+neng kang zhu	能扛住	100
+neng kao duo shao fen	能考多少分	100
+neng ke zhi	能克制	100
+neng kong zhi ni	能控制你	100
+neng kuai le	能快乐	100
+neng lai can jia	能来参加	100
+neng lan de zhu	能拦得住	100
+neng li bu gou	能力不够	100
+neng li bu xing	能力不行	100
+neng li cheng zhang	能力成长	100
+neng li de	能力的	100
+neng li de dao ti sheng	能力得到提升	100
+neng li de zeng zhang	能力的增长	100
+neng li de zheng ming	能力的证明	100
+neng li di xia	能力低下	100
+neng li hai bu gou	能力还不够	100
+neng li jue xing	能力觉醒	100
+neng li mo xing	能力模型	100
+neng li qian jia	能力欠佳	100
+neng li su zhi	能力素质	100
+neng li ti sheng xing dong	能力提升行动	100
+neng li ti xi	能力体系	100
+neng li tuo zhan	能力拓展	100
+neng li wei zhong	能力为重	100
+neng li xia jiang	能力下降	100
+neng li yan zhong bu zu	能力严重不足	100
+neng li yi ban	能力一般	100
+neng li zeng zhang	能力增长	100
+neng li zhi	能力值	100
+neng lian xi	能联系	100
+neng liang bu ji zhan	能量补给站	100
+neng liang bu mie	能量不灭	100
+neng liang bu mie ding lv	能量不灭定律	100
+neng liang chu bei	能量储备	100
+neng liang chuan bo	能量传播	100
+neng liang chuan shu	能量传输	100
+neng liang dan	能量弹	100
+neng liang de	能量的	100
+neng liang de chuan di	能量的传递	100
+neng liang fen bian lv	能量分辨率	100
+neng liang guan li xi tong	能量管理系统	100
+neng liang hui shou xi tong	能量回收系统	100
+neng liang li yong lv	能量利用率	100
+neng liang mi du	能量密度	100
+neng liang mi du da	能量密度大	100
+neng liang mi du di	能量密度低	100
+neng liang mi du gao	能量密度高	100
+neng liang mi du geng gao	能量密度更高	100
+neng liang mi du ti sheng	能量密度提升	100
+neng liang peng pai	能量澎湃	100
+neng liang qiang du	能量强度	100
+neng liang qiu	能量球	100
+neng liang tiao jie	能量调节	100
+neng liang xi tong	能量系统	100
+neng liang xiao lv	能量效率	100
+neng liang xu qiu	能量需求	100
+neng liang yu	能量雨	100
+neng liang zhi qiu	能量之球	100
+neng liang zhuan hua xiao lv	能量转化效率	100
+neng liang zhuan huan xiao lv	能量转换效率	100
+neng liao de lai	能聊得来	100
+neng liao jie dao	能了解到	100
+neng ling hui	能领会	100
+neng ling xiao hao si jiao chao tian	能令小号四脚朝天	100
+neng liu ze liu	能留则留	100
+neng lu qu	能录取	100
+neng lu shang	能录上	100
+neng luo di	能落地	100
+neng luo hu	能落户	100
+neng luo shi	能落实	100
+neng mai dao cai	能买到菜	100
+neng mai de qi	能买得起	100
+neng mai dian	能买点	100
+neng man guo	能瞒过	100
+neng man tian guo hai	能瞒天过海	100
+neng mian ci gua ren	能面刺寡人	100
+neng mian ci gua ren zhi guo	能面刺寡人之过	100
+neng mian ci gua ren zhi guo zhe	能面刺寡人之过者	100
+neng ming xian de gan jue dao	能明显的感觉到	100
+neng ming xian gan jue dao	能明显感觉到	100
+neng mo fang	能模仿	100
+neng mo ni	能模拟	100
+neng mo yu	能摸鱼	100
+neng mou shan duan	能谋善断	100
+neng na de chu shou	能拿得出手	100
+neng nai da le	能耐大了	100
+neng nai de zhu ji mo	能耐得住寂寞	100
+neng nai he de liao	能奈何得了	100
+neng nan dao ni	能难倒你	100
+neng neng neng	能能能	100
+neng pao neng tiao	能跑能跳	100
+neng pi mei	能媲美	100
+neng pian yi	能便宜	100
+neng qiang hua	能强化	100
+neng qing chu de kan dao	能清楚地看到	100
+neng qing wo	能请我	100
+neng qing xi de kan dao	能清晰地看到	100
+neng qu de	能取得	100
+neng qu de di fang	能去的地方	100
+neng qu de dou qu le	能去的都去了	100
+neng qu na li	能去哪里	100
+neng rang ni hu ran xiang qi wo	能让你忽然想起我	100
+neng rang ren	能让人	100
+neng rang wo da yi cheng ma	能让我搭一程吗	100
+neng re si	能热死	100
+neng ren de zhu	能忍得住	100
+neng ren suo bu neng	能人所不能	100
+neng ren ze an	能忍则安	100
+neng ren ze ren	能忍则忍	100
+neng run jin run	能润尽润	100
+neng run ze run	能润则润	100
+neng ruo neng qiang	能弱能强	100
+neng sao chu lai	能扫出来	100
+neng shang gao zhong	能上高中	100
+neng shang jiu shang	能上就上	100
+neng shang liang	能商量	100
+neng shang na	能上哪	100
+neng shang tian ru di	能上天入地	100
+neng shang wang ma	能上网吗	100
+neng shang yi zhong ma	能上一中吗	100
+neng she de	能舍得	100
+neng shen neng qu	能伸能屈	100
+neng sheng bu shao qian	能省不少钱	100
+neng sheng jiu sheng	能省就省	100
+neng sheng qian	能省钱	100
+neng sheng yi dian shi yi dian	能省一点是一点	100
+neng sheng you	能省油	100
+neng sheng zhang	能生长	100
+neng shi bie	能识别	100
+neng shi bie ma	能识别吗	100
+neng shi ni	能使你	100
+neng shi ni men	能使你们	100
+neng shi shan hua	能诗善画	100
+neng shi shan wen	能诗善文	100
+neng shi ta men	能使他们	100
+neng shi ta men	能使她们	100
+neng shi wo	能使我	100
+neng shi wo men	能使我们	100
+neng shi xing	能实行	100
+neng shi ying chu chai	能适应出差	100
+neng shou cang	能收藏	100
+neng shou dao	能收到	100
+neng shou dao bu	能收到不	100
+neng shou dao ma	能收到吗	100
+neng shou de zhu	能守得住	100
+neng shou neng gong	能守能攻	100
+neng shu shan hua	能书善画	100
+neng shui ge hao jiao	能睡个好觉	100
+neng shui jiao	能睡觉	100
+neng shui zhao ma	能睡着吗	100
+neng shuo bu neng gan	能说不能干	100
+neng shuo de mi mi	能说的秘密	100
+neng shuo de shang hua	能说得上话	100
+neng shuo guan dao	能说惯道	100
+neng shuo ming shen me	能说明什么	100
+neng shuo neng du	能说能读	100
+neng shuo neng jiang	能说能讲	100
+neng shuo neng ting	能说能听	100
+neng shuo neng xie	能说能写	100
+neng shuo shan dao	能说善道	100
+neng shuo shen me	能说什么	100
+neng sui sui bian bian	能随随便便	100
+neng tan de lai	能谈得来	100
+neng tang shi	能堂食	100
+neng tang shi le	能堂食了	100
+neng ti dai	能替代	100
+neng ti gong shen me	能提供什么	100
+neng tiao ji	能调剂	100
+neng tiao li	能调理	100
+neng ting dao bu	能听到不	100
+neng ting de dong	能听得懂	100
+neng ting neng du	能听能读	100
+neng ting neng jiang	能听能讲	100
+neng ting neng kan	能听能看	100
+neng ting neng shuo	能听能说	100
+neng ting neng xie	能听能写	100
+neng ting yin yue	能听音乐	100
+neng tu cao de di fang	能吐槽的地方	100
+neng tu cao de di fang tai duo	能吐槽的地方太多	100
+neng tu cao de di fang tai duo le	能吐槽的地方太多了	100
+neng tui huan	能退换	100
+neng tui neng jin	能退能进	100
+neng wan cheng ma	能完成吗	100
+neng wei ni zuo shen me	能为你做什么	100
+neng wen shan wu	能文善武	100
+neng xi guan	能习惯	100
+neng xia dan	能下单	100
+neng xia di	能下地	100
+neng xiang dao de	能想到的	100
+neng xiang xin	能相信	100
+neng xiang xin ma	能相信吗	100
+neng xiao zhong	能消肿	100
+neng xie duo shao	能写多少	100
+neng xie neng du	能写能读	100
+neng xie neng jiang	能写能讲	100
+neng xie neng shuo	能写能说	100
+neng xie neng ting	能写能听	100
+neng xie shan suan	能写善算	100
+neng xie tiao	能协调	100
+neng xie wan bu	能写完不	100
+neng xing dong	能行动	100
+neng xing ma	能行吗	100
+neng xing zou	能行走	100
+neng xiu de hao	能修得好	100
+neng xiu de jia	能休的假	100
+neng xiu hao	能修好	100
+neng xuan chuan	能宣传	100
+neng xue dao shen me	能学到什么	100
+neng xue de	能学得	100
+neng xue ruo	能削弱	100
+neng ya li chi	能牙利齿	100
+neng ya ma	能压吗	100
+neng yan chang	能延长	100
+neng yan hui dao	能言会道	100
+neng yan kuai yu	能言快语	100
+neng yan neng chang	能演能唱	100
+neng yan qiao bian	能言巧辩	100
+neng yan she bian	能言舌辩	100
+neng yang de qi	能养得起	100
+neng yang hao	能养好	100
+neng yao hui lai	能要回来	100
+neng yao hui lai ma	能要回来吗	100
+neng yao ji ge	能要几个	100
+neng yao ren ming	能要人命	100
+neng yao ren ming de	能要人命的	100
+neng yi yang ma	能一样吗	100
+neng yin cang	能隐藏	100
+neng yong jiu xing	能用就行	100
+neng yong wan	能用完	100
+neng yong yi tian	能用一天	100
+neng yong yi tian ma	能用一天吗	100
+neng yong yu	能用于	100
+neng you dian chu xi	能有点出息	100
+neng you ji fen	能有几分	100
+neng you ji ge	能有几个	100
+neng you shen me	能有什么	100
+neng you shen me ban fa	能有什么办法	100
+neng you shen me ban fa ma	能有什么办法吗	100
+neng you shen me ban fa ne	能有什么办法呢	100
+neng you shen me bian hua	能有什么变化	100
+neng you shen me huai xin si	能有什么坏心思	100
+neng you shen me qing fen	能有什么情分	100
+neng you shen me shi	能有什么事	100
+neng yu le	能娱乐	100
+neng yuan bu bu zhang	能源部部长	100
+neng yuan da sheng	能源大省	100
+neng yuan deng hang ye	能源等行业	100
+neng yuan dian li hang ye	能源电力行业	100
+neng yuan dong ci	能愿动词	100
+neng yuan fei	能源费	100
+neng yuan fei yong	能源费用	100
+neng yuan guan li ti xi	能源管理体系	100
+neng yuan guan li ti xi ren zheng	能源管理体系认证	100
+neng yuan guan li xi tong	能源管理系统	100
+neng yuan hua gong ji di	能源化工基地	100
+neng yuan ji di	能源基地	100
+neng yuan jie gou tiao zheng	能源结构调整	100
+neng yuan ju ju zhang	能源局局长	100
+neng yuan li yong lv	能源利用率	100
+neng yuan li yong xiao lv	能源利用效率	100
+neng yuan shi yong xiao lv	能源使用效率	100
+neng yuan ti xi	能源体系	100
+neng yuan xi tong	能源系统	100
+neng yun xing	能运行	100
+neng za de	能咋的	100
+neng za di	能咋的	100
+neng zai kuai dian er	能再快点儿	100
+neng zai kuai dian er ma	能再快点儿吗	100
+neng zai kuai dian ma	能再快点吗	100
+neng zai xue xiao	能在学校	100
+neng zai yin hang	能在银行	100
+neng zao zou	能早走	100
+neng zen me	能怎么	100
+neng zen me jie shi	能怎么解释	100
+neng zen me zuo	能怎么做	100
+neng zeng zhang	能增长	100
+neng zhan dou	能战斗	100
+neng zhan sheng	能战胜	100
+neng zhan zai	能站在	100
+neng zhang cheng	能长成	100
+neng zhang gao	能长高	100
+neng zhe duo lao ma	能者多劳嘛	100
+neng zheng guan zhan	能征惯战	100
+neng zhi hao de	能治好的	100
+neng zhi jie	能直接	100
+neng zhi jie chi	能直接吃	100
+neng zhi jie chi ma	能直接吃吗	100
+neng zhi ke ma	能止咳吗	100
+neng zhi tian xia shi	能知天下事	100
+neng zhi xing	能执行	100
+neng zhong he	能中和	100
+neng zhua dao	能抓到	100
+neng zi jue	能自觉	100
+neng zi zhi	能自制	100
+neng zou diao	能走掉	100
+neng zu dui	能组队	100
+neng zun zhong	能尊重	100
+neng zuo cheng zhe yang	能做成这样	100
+neng zuo dao ma	能做到吗	100
+neng zuo dao shen me	能做到什么	100
+neng zuo de	能做的	100
+neng zuo de dou zuo le	能做的都做了	100
+neng zuo de ni dou zuo le	能做的你都做了	100
+neng zuo de ta dou zuo le	能做的他都做了	100
+neng zuo de wo dou zuo le	能做的我都做了	100
+neng zuo de zhu	能坐得住	100
+neng zuo dian shen me	能做点什么	100
+neng zuo shang	能坐上	100
+neng zuo xie shen me	能做些什么	100
+neng zuo zhu	能做主	100
+neng rang ta	能让她	99
+neng jie shu	能结束	98
+neng she dao	能射到	95
+neng xing bu	能行不	88
+neng cheng qi hou	能成气候	85
+neng ren li	能仁里	80
+neng li shang	能力上	78
+neng li ren	能力人	75
+neng liao liao ma	能聊聊吗	75
+neng ting dao ma	能听到吗	75
+neng ting jian ma	能听见吗	75
+neng yuan shu	能源署	73
+neng bu neng ba	能不能把	72
+neng li biao	能力表	72
+neng xing	能姓	70
+neng yuan cheng	能远程	70
+neng ma fan	能麻烦	69
+neng bu neng qu	能不能去	68
+neng da yin	能打印	68
+neng kao jin kao	能考尽考	68
+neng gei ge	能给个	67
+neng hui qu	能回去	67
+neng wang ji	能忘记	67
+neng fa wo	能发我	65
+neng lai bu	能来不	65
+neng li yue qiang	能力越强	65
+neng bu rang	能不让	64
+neng bu yong	能不用	64
+neng chui hui kan	能吹会侃	64
+neng gan shang	能赶上	64
+neng ti qian	能提前	64
+neng bu neng fa	能不能发	63
+neng ba wo	能把我	62
+neng bu qu	能不去	62
+neng wen xia	能问下	62
+neng liang zhi	能量之	61
+neng kuai dian ma	能快点吗	60
+neng liang zui di yuan li	能量最低原理	60
+neng yuan xian zhang tiao yue	能源宪章条约	51
+neng shi bi yi	能事毕矣	48
+neng fan mu zhu bao xian bao fei bu tie guan li zan xing ban fa	能繁母猪保险保费补贴管理暂行办法	47
+neng bei tong guo	能被通过	40
+neng ren zhe zi an	能忍者自安	40
+neng tao jiu tao	能逃就逃	38
+neng li shuo	能力说	33
+neng yin yi bei wu	能饮一杯无	33
+neng bu shou ma	能不瘦吗	31
+neng bu ding ma	能不顶吗	27
+neng chuan kong	能穿孔	25
+neng yu qi	能预期	23
+neng yuan gong ying he tong	能源供应合同	21
+neng yuan guan li fa	能源管理法	19
+neng ying yong de	能应用的	16
+neng li fen zu	能力分组	15
+neng liang zui you	能量最优	15
+neng liang hao san	能量耗散	14
+neng rou neng gang	能柔能刚	14
+neng dao gang	能到岗	12
+neng gao de ding	能搞得定	12
+neng jin qu	能进去	12
+neng chuan	能传	11
+neng dan	能单	11
+neng jiao	能教	11
+neng jie	能解	11
+neng ying	能硬	11
+neng gang neng rou	能刚能柔	10
+neng xie hui suan	能写会算	10
+neng guan neng min	能官能民	8
+neng hui lai	能回来	8
+neng yong ma	能用吗	8
+neng bang wo	能帮我	7
+neng kai er yue hua	能开二月花	7
+neng yue	能乐	7
+neng ren qiao jiang	能人巧匠	5
+neng de ji shi hao	能得几时好	4
+neng liang meng ji	能量猛击	4
+neng ru ying er hu	能如婴儿乎	4
+neng xing wu zhe yu tian xia	能行五者于天下	4
+neng liang duo qu	能量夺取	3
+neng liang po huai	能量破坏	3
+neng bu cheng guan	能不称官	2
+neng ke xiang	能科乡	2
+neng mian	能面	2
+neng shi wang zhe zhi	能使枉者直	2
+neng xiao ling jun si ji duo	能校灵均死几多	2
+neng ban lao fu fou	能伴老夫否	1
+neng bian ren jian shi	能变人间世	1
+neng bu liang gong	能不两工	1
+neng cheng	能称	1
+neng gou ba wo kan jian	能够把我看见	1
+neng she li chi	能舌利齿	1
+neng shi	能事	1
+neng shi hui fu	能诗会赋	1
+neng shi ni mou	能士匿谋	1
+neng shi qing liang tou bu re	能使清凉头不热	1
+neng shu bu ze bi	能书不择笔	1
+neng xiang hua qian ji hui zui	能向花前几回醉	1
+neng xie neng suan	能写能算	1
+neng xing bian shi zhen xiu dao	能行便是真修道	1
+neng yan kuai shuo	能言快说	1
+neng yan ying wu	能言鹦鹉	1
+neng yi bing yan hua	能医病眼花	1
+neng yi jing cheng zhi hun po	能以精诚致魂魄	1
+neng yin shan zhe gu	能吟山鹧鸪	1
+neng yuan biao zhun hua guan li ban fa	能源标准化管理办法	1
+neng zheng guan zhan	能争惯战	1
+neng zuo	能坐	1

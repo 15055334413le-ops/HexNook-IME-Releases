@@ -1,0 +1,984 @@
+zou xiang	走向	500281
+zou le	走了	500263
+zou dao	走到	448435
+zou jin	走进	416940
+zou chu	走出	385770
+zou shi	走势	250660
+zou guo	走过	236440
+zou zai	走在	211510
+zou shang	走上	169195
+zou qu	走去	162985
+zou lu	走路	155340
+zou lang	走廊	109695
+zou chu qu	走出去	100315
+zou fang	走访	97135
+zou jin	走近	96745
+zou si	走私	89810
+zou ba	走吧	87155
+zou lai	走来	86850
+zou ru	走入	70795
+zou jin le	走进了	65540
+zou chu le	走出了	63465
+zou zhe	走着	61605
+zou shang le	走上了	55840
+zou dong	走动	53355
+zou gao	走高	50815
+zou guo lai	走过来	48150
+zou xiang shi jie	走向世界	47740
+zou guang	走光	46190
+zou chu lai	走出来	45605
+zou kai	走开	44685
+zou zou	走走	43675
+zou guo qu	走过去	43045
+zou hou	走后	41860
+zou ren	走人	40520
+zou di	走低	39730
+zou guo le	走过了	38395
+zou fang le	走访了	37335
+zou hong	走红	35355
+zou wan	走完	34935
+zou qiang	走强	33650
+zou shi tu	走势图	33320
+zou hao	走好	32875
+zou xia	走下	32810
+zou xiao	奏效	31040
+zou bu	走不	25795
+zou bian	走遍	24795
+zou xia qu	走下去	24290
+zou hui	走回	21670
+zou dao na li	走到那里	21550
+zou dao	走道	21030
+zou shi	走时	20430
+zou zi ji de lu	走自己的路	20320
+zou lai zou qu	走来走去	18525
+zou de shi	走的是	17685
+zou a	走啊	17050
+zou qiao	走俏	17015
+zou dao na li	走到哪里	16440
+zou tou wu lu	走投无路	15805
+zou dao yi qi	走到一起	15570
+zou jin lai	走进来	14940
+zou cuo	走错	14770
+zou xiang	奏响	14645
+zou lang li	走廊里	14560
+zou guo chang	走过场	13875
+zou jin qu	走进去	13110
+zou xiang cheng gong	走向成功	13070
+zou zai qian mian	走在前面	12925
+zou lang shang	走廊上	12905
+zou zhe zou zhe	走着走着	12890
+zou zai lu shang	走在路上	12780
+zou shi	走失	12610
+zou huo ru mo	走火入魔	12260
+zou xiang shi chang	走向市场	11800
+zou gou	走狗	11495
+zou chu	奏出	11065
+zou ming qu	奏鸣曲	11005
+zou ma guan hua	走马观花	10785
+zou diao	走掉	10460
+zou zhi	走之	10200
+zou bu jin	走不进	9999
+zou diao er	走调儿	9999
+zou fei	揍飞	9999
+zou ge	走个	9999
+zou lao lu	走老路	9999
+zou ni	揍你	9999
+zou ni men	揍你们	9999
+zou pian	走偏	9999
+zou shi yun	走时运	9999
+zou ta	揍他	9999
+zou ta men	揍他们	9999
+zou wo	揍我	9999
+zou wo men	揍我们	9999
+zou xiu	走秀	9999
+zou yue	奏乐	9999
+zou yun	走运	9999
+zou yi bu	走一步	9955
+zou shen	走神	9625
+zou ma	走吗	9605
+zou lou	走漏	9515
+zou yang	走样	9220
+zou shang qian	走上前	9145
+zou xia po lu	走下坡路	9040
+zou bu chu	走不出	8790
+zou kai le	走开了	8705
+zou qing	奏请	8325
+zou qi lu lai	走起路来	8320
+zou zai jie shang	走在街上	8125
+zou zhe	奏折	7965
+zou bian le	走遍了	7940
+zou ruo	走弱	7615
+zou zou ting ting	走走停停	7490
+zou ping	邹平	7185
+zou shang qian qu	走上前去	7160
+zou yin	走音	6789
+zou ma deng	走马灯	6485
+zou xia lai	走下来	6480
+zou ruan	走软	6460
+zou shou	走兽	6355
+zou hun	走婚	6245
+zou ma shang ren	走马上任	6115
+zou shi fen xi	走势分析	6095
+zou duo yuan	走多远	6025
+zou cheng	邹城	6015
+zou bu liao	走不了	5945
+zou du	走读	5755
+zou wan lu	走弯路	5710
+zou chu di gu	走出低谷	5665
+zou dao jin tou	走到尽头	5645
+zou hou men	走后门	5600
+zou le mei	走了没	5555
+zou le mei a	走了没啊	5555
+zou lei	走嘞	5555
+zou lou	走喽	5555
+zou mei	走没	5555
+zou guang tu	走光图	5540
+zou zhang	奏章	5530
+zou bian zhong guo	走遍中国	5320
+zou tian xia	走天下	4940
+zou huo	走火	4910
+zou nan chuang bei	走南闯北	4860
+zou jie chuan xiang	走街串巷	4795
+zou ji duan	走极端	4790
+zou san	走散	4745
+zou shang qu	走上去	4745
+zou zhe qiao	走着瞧	4710
+zou bu dong	走不动	4650
+zou qi lai	走起来	4610
+zou le ma	走了吗	4405
+zou shui	走水	4395
+zou wei	走位	4395
+zou qin fang you	走亲访友	4335
+zou bu	走步	4080
+zou xue	走穴	3985
+zou shang zheng gui	走上正轨	3950
+zou guang le	走光了	3945
+zou jie jing	走捷径	3920
+zou cheng shi	邹城市	3825
+zou ya	走呀	3815
+zou si zui	走私罪	3760
+zou bu dao	走不到	3670
+zou le	揍了	3495
+zou shang lai	走上来	3495
+zou gang si	走钢丝	3370
+zou zou kan kan	走走看看	3345
+zou cha	走岔	3333
+zou cha le	走岔了	3333
+zou dui	走对	3333
+zou me	走么	3333
+zou na	走那	3333
+zou zhi	走至	3333
+zou guo lai le	走过来了	3305
+zou qin qi	走亲戚	3280
+zou qi	奏起	3250
+zou cuo lu	走错路	3220
+zou lei le	走累了	3210
+zou bian mei guo	走遍美国	3200
+zou zi pai	走资派	3190
+zou cuo le	走错了	3100
+zou ye lu	走夜路	3090
+zou ping xian	邹平县	3065
+zou jiu zou	走就走	3040
+zou bi	走笔	3020
+zou xiang si wang	走向死亡	3015
+zou cun chuan hu	走村串户	3010
+zou yan	走眼	2950
+zou fang diao cha	走访调查	2930
+zou guang tou pai	走光偷拍	2930
+zou bao	奏报	2900
+zou jin xiao yuan	走进校园	2890
+zou si fang	走四方	2785
+zou zhi	走纸	2765
+zou shi yu ce	走势预测	2710
+zou si an	走私案	2710
+zou tai	走台	2710
+zou dao zhe li	走到这里	2595
+zou lu	邹鲁	2585
+zou xiang ji duan	走向极端	2580
+zou ji	邹忌	2565
+zou si fan si	走私贩私	2555
+zou shu	奏疏	2550
+zou hui qu	走回去	2540
+zou hui tou lu	走回头路	2490
+zou yi	奏议	2480
+zou si an jian	走私案件	2450
+zou hui jia	走回家	2395
+zou hui lai	走回来	2375
+zou jiang hu	走江湖	2360
+zou xing	走形	2325
+zou si xing wei	走私行为	2300
+zou xing shi	走形式	2290
+zou bu kai	走不开	2265
+zou chu wu qu	走出误区	2260
+zou kuai	走快	2245
+zou cuo le lu	走错了路	2235
+zou guang tu pian	走光图片	2235
+zou qi	走起	2222
+zou xi kou	走西口	2205
+zou diao	走调	2165
+zou le a	走了啊	2135
+zou chu guo men	走出国门	2035
+zou shang tai	走上台	2020
+zou du sheng	走读生	1970
+zou guo ge	奏国歌	1855
+zou jia hua	邹家华	1840
+zou qi	走棋	1800
+zou de tai yuan	走得太远	1790
+zou zou zou	走走走	1770
+zou zu	走卒	1770
+zou xiang qian	走向前	1765
+zou bi	走避	1745
+zou yan	邹衍	1735
+zou xia po	走下坡	1725
+zou de kuai	走得快	1705
+zou xiang	走相	1690
+zou de	走的	1595
+zou ming	奏明	1525
+zou si qi che	走私汽车	1480
+zou tuo	走脱	1440
+zou bian quan guo	走遍全国	1390
+zou bu zou	走不走	1390
+zou ren	揍人	1380
+zou de bi	走得比	1370
+zou kai	奏凯	1370
+zou wang	走往	1325
+zou jin ke xue	走近科学	1315
+zou ben	奏本	1305
+zou biao	走镖	1205
+zou wei shang ce	走为上策	1205
+zou kuai le	走快了	1190
+zou yi bian	走一遍	1190
+zou bu jin chu xia qin guan	走不尽楚峡秦关	1180
+zou xian	走线	1180
+zou cun ru hu	走村入户	1175
+zou de hao	走得好	1170
+zou de man	走得慢	1165
+zou fang	诹访	1150
+zou jia chuan hu	走家串户	1135
+zou chu fei zhou	走出非洲	1125
+zou ti	走题	1115
+zou diu	走丢	1111
+zou diu le	走丢了	1111
+zou liang	走量	1111
+zou na	走哪	1111
+zou ni	走你	1111
+zou re	走热	1111
+zou si	揍死	1111
+zou ta	揍她	1111
+zou ta men	揍她们	1111
+zou yuan	走远	1111
+zou yuan le	走远了	1111
+zou zhe	走这	1111
+zou zhi pang	走之旁	1111
+zou zhe lai	走着来	1100
+zou zhe qu	走着去	1070
+zou dian	走点	1065
+zou ming	奏鸣	1065
+zou qu	奏曲	1055
+zou si huo	走私货	1050
+zou du ban	走读班	1040
+zou si zhe	走私者	1030
+zou la	走啦	1000
+zou wei shang ji	走为上计	1000
+zou xin	走心	999
+zou you	走油	999
+zou wa	走哇	995
+zou mai cheng	走麦城	975
+zou shui lu	走水路	965
+zou ming qu shi	奏鸣曲式	940
+zou si fan	走私犯	925
+zou lou feng sheng	走漏风声	920
+zou hao yun	走好运	900
+zou gong	奏功	880
+zou si wu pin	走私物品	870
+zou bian	揍扁	855
+zou ma kan hua	走马看花	855
+zou xia tai	走下台	810
+zou de	走得	787
+zou tao hua yun	走桃花运	785
+zou ru qi tu	走入歧途	780
+zou ban	走板	745
+zou wei	走味	745
+zou cuo yi bu	走错一步	725
+zou si ji tuan	走私集团	725
+zou shen er	走神儿	705
+zou xing	走行	693
+zou xian	走险	605
+zou dian	走电	585
+zou ma huan jiang	走马换将	570
+zou bu de	走不得	555
+zou lou xiao xi	走漏消息	555
+zou zi	走子	525
+zou lu xiao xin	走路小心	520
+zou pian feng	走偏锋	505
+zou kai ge	奏凯歌	500
+zou shang po lu	走上坡路	490
+zou he qi	走合期	485
+zou xiang qian qu	走向前去	475
+zou le o	走了哦	470
+zou le zou	走了走	456
+zou yi zou	走一走	456
+zou ya zou	走呀走	455
+zou men chuan hu	走门串户	450
+zou zou guang guang	走走逛逛	450
+zou shu	奏书	440
+zou jie	奏捷	435
+zou biao	奏表	420
+zou jin lu	走近路	400
+zou gou peng	走狗烹	395
+zou qin	奏琴	395
+zou xiao wei	邹晓薇	385
+zou guo	奏过	380
+zou rou	走肉	380
+zou zhe bian	走这边	375
+zou dan qi	走单骑	373
+zou ma	走马	359
+zou xiang chuan hu	走乡串户	345
+zou lu le	走路了	333
+zou xing	邹姓	330
+zou rong	邹容	325
+zou tao fen	邹韬奋	313
+zou feng	走风	300
+zou bu guo qu	走不过去	280
+zou xiang qian lai	走向前来	260
+zou bei yun	走背运	240
+zou suo	走索	235
+zou zui	走嘴	230
+zou shang ji bu	走上几步	223
+zou shang ceng lu xian	走上层路线	220
+zou lei	走累	210
+zou dao er	走道儿	200
+zou yin ren	走阴人	200
+zou du xue sheng	走读学生	195
+zou ge	走舸	195
+zou rong lu	邹容路	192
+zou shen zou shi	走深走实	191
+zou se	走色	190
+zou guo dao	走国道	189
+zou fang bu shun yi	诹访部顺一	183
+zou men lu	走门路	180
+zou xiang hui huang	走向辉煌	180
+zou zhang	走账	180
+zou fa lv	走法律	175
+zou zai qian	走在前	175
+zou bu cheng	走不成	170
+zou xiang fu qiang	走向富强	163
+zou shang liang bu	走上两步	158
+zou jin ji ceng	走进基层	152
+zou jing yuan	邹敬园	152
+zou di yu	走地鱼	147
+zou lu zi shi	走路姿势	147
+zou de qiang	邹德强	146
+zou san guan	走三关	142
+zou kou	走口	140
+zou piao	走票	140
+zou fang zhen	走方阵	138
+zou xiang wei lai	走向未来	137
+zou xiang wo	走向我	136
+zou fang lang zhong	走方郎中	135
+zou qin	走禽	135
+zou lo	走咯	134
+zou jiang nan	走江南	133
+zou chu chang	走出厂	130
+zou ji ceng	走基层	130
+zou qi lai	奏起来	130
+zou sheng suo	走绳索	130
+zou cong	驺从	125
+zou le ge ban si	揍了个半死	125
+zou le zou	揍了揍	123
+zou yi zou	揍一揍	123
+zou fang dui	走方队	122
+zou ding xue tang zhang cheng	奏定学堂章程	121
+zou xian qing xi	走线清晰	121
+zou de dao	走得到	120
+zou long she	走龙蛇	120
+zou na suan na	走哪算哪	117
+zou jin qun zhong	走进群众	116
+zou ji	奏技	115
+zou zhong chen	邹忠臣	115
+zou ma lou	走马楼	113
+zou huo	走货	111
+zou mou	邹某	111
+zou mou mou	邹某某	111
+zou tou mei lu	走投没路	111
+zou wen	走稳	111
+zou wen dian	走稳点	111
+zou wen dian er	走稳点儿	111
+zou zhi	奏之	111
+zou zhe ne	走着呢	110
+zou gui dang	走鬼档	107
+zou tian qiao	走天桥	107
+zou pian men	走偏门	106
+zou le ge lai hui	走了个来回	105
+zou shi jiao wo	走时叫我	105
+zou zou qin qi	走走亲戚	105
+zou a zou	走啊走	100
+zou an xiang	走暗巷	100
+zou ba ni	走吧你	100
+zou ba zou ba	走吧走吧	100
+zou bai bu	走百步	100
+zou ban ma xian	走斑马线	100
+zou bei zi	走背字	100
+zou bei zi er	走背字儿	100
+zou ben ke	走本科	100
+zou bi cheng zhang	走笔成章	100
+zou bi fei yan	走壁飞檐	100
+zou bi ji shu	走笔疾书	100
+zou bi ru fei	走笔如飞	100
+zou bian ni	揍扁你	100
+zou bian shi jie ge di	走遍世界各地	100
+zou bian tian xia dou bu pa	走遍天下都不怕	100
+zou bie ren de lao lu	走别人的老路	100
+zou bu chang	走不长	100
+zou bu chang jiu	走不长久	100
+zou bu chang yuan	走不长远	100
+zou bu chu qu	走不出去	100
+zou bu de	揍不得	100
+zou bu dong le	走不动了	100
+zou bu duo yuan	走不多远	100
+zou bu liao le	走不了了	100
+zou bu liao lu	走不了路	100
+zou bu shang	走不上	100
+zou bu si ni	揍不死你	100
+zou bu tong	走不通	100
+zou bu xia qu	走不下去	100
+zou bu zou a	走不走啊	100
+zou cheng men	走城门	100
+zou cheng men ne	走城门呢	100
+zou chu chuan tong	走出传统	100
+zou chu di qiu	走出地球	100
+zou chu du li hang qing	走出独立行情	100
+zou chu fan tan	走出反弹	100
+zou chu ge	走出个	100
+zou chu ge hu hu sheng feng	走出个虎虎生风	100
+zou chu ge huang ruo ge shi	走出个恍若隔世	100
+zou chu ge yi ri qian li	走出个一日千里	100
+zou chu kao chang	走出考场	100
+zou chu lai	奏出来	100
+zou chu lai de	走出来的	100
+zou chu lai le	走出来了	100
+zou chu le da shan	走出了大山	100
+zou chu le guo men	走出了国门	100
+zou chu le jia men	走出了家门	100
+zou chu le kun jing	走出了困境	100
+zou chu qu	奏出去	100
+zou chu su she	走出宿舍	100
+zou chu tai yang xi	走出太阳系	100
+zou chu xiao men	走出校门	100
+zou chu xiao yuan	走出校园	100
+zou chu xue xiao	走出学校	100
+zou chuan wei	邹传伟	100
+zou chuan zang	走川藏	100
+zou chuan zang xian	走川藏线	100
+zou cun chuan zhai	走村串寨	100
+zou cun ru hu xuan chuan	走村入户宣传	100
+zou cuo di fang	走错地方	100
+zou cuo le di fang	走错了地方	100
+zou cuo le fang xiang	走错了方向	100
+zou cuo le pian chang	走错了片场	100
+zou cuo le yi bu	走错了一步	100
+zou cuo lu le	走错路了	100
+zou da jie	走大街	100
+zou dao di	走到底	100
+zou dao hei	走到黑	100
+zou dao jin tian	走到今天	100
+zou dao jin tian zhe bu	走到今天这步	100
+zou dao jin tian zhe yi bu	走到今天这一步	100
+zou dao le	走到了	100
+zou dao le jin tian	走到了今天	100
+zou dao le jin tou	走到了尽头	100
+zou dao le yi qi	走到了一起	100
+zou dao le zui hou	走到了最后	100
+zou dao na dou shi jiao dian	走到哪都是焦点	100
+zou dao na le	走到哪了	100
+zou dao na li dou shi jiao dian	走到哪里都是焦点	100
+zou dao xian zai zhe yi bu	走到现在这一步	100
+zou dao xue xiao	走到学校	100
+zou dao zhe yi bu	走到这一步	100
+zou dao zui hou yi ri	走到最后一日	100
+zou de bi jiao jin	走得比较近	100
+zou de bi qing lian zhong	揍得鼻青脸肿	100
+zou de chang jiu	走得长久	100
+zou de chang yuan	走得长远	100
+zou de di fang	走的地方	100
+zou de dong	走得动	100
+zou de duo	走得多	100
+zou de geng hao	走得更好	100
+zou de geng jin	走得更近	100
+zou de geng kuai	走得更快	100
+zou de geng wen	走得更稳	100
+zou de geng yuan	走得更远	100
+zou de guo jin	走得过近	100
+zou de hen an xiang	走得很安详	100
+zou de hen hao	走得很好	100
+zou de hen hao a	走得很好啊	100
+zou de hen hao ba	走得很好吧	100
+zou de hen hao ya	走得很好呀	100
+zou de hen jin	走得很近	100
+zou de hen kuai	走得很快	100
+zou de hen kuai a	走得很快啊	100
+zou de hen man	走得很慢	100
+zou de hen yuan	走得很远	100
+zou de ji	走得急	100
+zou de jin	走得近	100
+zou de jue ran	走得决然	100
+zou de liao	走得了	100
+zou de qiao	走得巧	100
+zou de qiao le	走得巧了	100
+zou de shi hou	走的时候	100
+zou de shun chang	走得顺畅	100
+zou de tai cong mang	走得太匆忙	100
+zou de tai ji	走得太急	100
+zou de tai ji a	走得太急啊	100
+zou de tai jin	走得太近	100
+zou de tai kuai	走得太快	100
+zou de tai man	走得太慢	100
+zou de tong	走得通	100
+zou de wen	走得稳	100
+zou de xiao sa	走得潇洒	100
+zou de yuan	走得远	100
+zou de zao	走得早	100
+zou de zheng	走得正	100
+zou de zou	走的走	100
+zou de zui jin	走得最近	100
+zou de zui yuan	走得最远	100
+zou di ji	走地鸡	100
+zou di mian	走地面	100
+zou dong zou dong	走动走动	100
+zou dou zou bu dong	走都走不动	100
+zou dui le	走对了	100
+zou dui le lu	走对了路	100
+zou duo shao bu	走多少步	100
+zou fa lv cheng xu	走法律程序	100
+zou fan le	揍翻了	100
+zou fang diao yan	走访调研	100
+zou fang lian xi	走访联系	100
+zou fang liao jie	走访了解	100
+zou fang xuan chuan	走访宣传	100
+zou fei ni	揍飞你	100
+zou feng lou shui	走风漏水	100
+zou fu le	揍服了	100
+zou gang suo	走钢索	100
+zou ge guo chang	走个过场	100
+zou ge hu hu sheng feng	走个虎虎生风	100
+zou ge huang ruo ge shi	走个恍若隔世	100
+zou ge liu cheng	走个流程	100
+zou ge sha	走个啥	100
+zou ge xing shi	走个形式	100
+zou ge yi ri qian li	走个一日千里	100
+zou ge zhong	走各种	100
+zou ge zhong de	走各种的	100
+zou gou dou ji	走狗斗鸡	100
+zou gou shi yun	走狗屎运	100
+zou gu xing shi	走骨行尸	100
+zou guan xi	走关系	100
+zou guo ban sheng de lu	走过半生的路	100
+zou guo de di fang	走过的地方	100
+zou guo de lu	走过的路	100
+zou guo hen duo di fang	走过很多地方	100
+zou guo lu guo	走过路过	100
+zou guo qu le	走过去了	100
+zou guo qu le ma	走过去了吗	100
+zou guo ru	邹国如	100
+zou guo xi xiang	走过西厢	100
+zou guo xi xiang pu bi yi zhen xiang	走过西厢扑鼻一阵香	100
+zou guo zui chang de lu	走过最长的路	100
+zou hai shi bu zou	走还是不走	100
+zou hai shi liu	走还是留	100
+zou hao xin shi dai chang zheng lu	走好新时代长征路	100
+zou hong de su du	走红的速度	100
+zou hong di tan	走红地毯	100
+zou hong yun	走红运	100
+zou hou men er	走后门儿	100
+zou hua lu	走花路	100
+zou hui lu	走回路	100
+zou hui qu	揍回去	100
+zou hui qu le	揍回去了	100
+zou hui qu le	走回去了	100
+zou hui tou	走回头	100
+zou hui zuo wei	走回座位	100
+zou ji bu	走几步	100
+zou ji feng qi wang	邹忌讽齐王	100
+zou ji feng qi wang na jian	邹忌讽齐王纳谏	100
+zou ji pai dui	揍击派对	100
+zou jia chuan shang	走斝传觞	100
+zou jia fei gong	走斝飞觥	100
+zou jia fei shang	走斝飞觞	100
+zou jiang hu a	走江湖啊	100
+zou jie chuan hu	走街串户	100
+zou jin chang chun	走进长春	100
+zou jin chang sha	走进长沙	100
+zou jin chao xian	走进朝鲜	100
+zou jin chong qing	走进重庆	100
+zou jin da xue xiao yuan	走进大学校园	100
+zou jin dang di	走进当地	100
+zou jin dao	走近道	100
+zou jin di tie	走进地铁	100
+zou jin dong guan	走进东莞	100
+zou jin gao xiao	走进高校	100
+zou jin gong di	走进工地	100
+zou jin le hun yin	走进了婚姻	100
+zou jin le hun yin de dian tang	走进了婚姻的殿堂	100
+zou jin le qian jia wan hu	走进了千家万户	100
+zou jin shi jie	走进世界	100
+zou jin su she	走进宿舍	100
+zou jin tian jian di tou	走进田间地头	100
+zou jin wo xiao	走进我校	100
+zou jin xi zang	走进西藏	100
+zou jin xia men	走进厦门	100
+zou jin xiao men	走进校门	100
+zou jin xin shi dai	走进新时代	100
+zou jin xue xiao	走进学校	100
+zou jin yin hang	走进银行	100
+zou jin yu le quan	走进娱乐圈	100
+zou jiu zou de lv xing	走就走的旅行	100
+zou kai a	走开啊	100
+zou kai ba	走开吧	100
+zou kai la	走开啦	100
+zou kai ya	走开呀	100
+zou kuai dian	走快点	100
+zou kuai dian er	走快点儿	100
+zou kuan le	走宽了	100
+zou la zou la	走啦走啦	100
+zou lai hui	走来回	100
+zou lang deng guan shang	走廊灯关上	100
+zou lao yun	走老运	100
+zou le ba	走了吧	100
+zou le ban tian	走了半天	100
+zou le bu shao	走了不少	100
+zou le bu shao wan lu	走了不少弯路	100
+zou le chu lai	走了出来	100
+zou le da yun	走了大运	100
+zou le duo shao	走了多少	100
+zou le duo shao lu	走了多少路	100
+zou le feng sheng	走了风声	100
+zou le ge	走了个	100
+zou le gou shi yun	走了狗屎运	100
+zou le guo qu	走了过去	100
+zou le ha	走了哈	100
+zou le hao jiu	走了好久	100
+zou le he shang zou bu liao miao	走了和尚走不了庙	100
+zou le hen duo wan lu	走了很多弯路	100
+zou le hen jiu	走了很久	100
+zou le hen yuan	走了很远	100
+zou le hen yuan de lu	走了很远的路	100
+zou le hou men	走了后门	100
+zou le hui lai	走了回来	100
+zou le ji bu	走了几步	100
+zou le ji duan	走了极端	100
+zou le jie jing	走了捷径	100
+zou le jin lai	走了进来	100
+zou le liang bu	走了两步	100
+zou le ma jiao	走了马脚	100
+zou le na me jiu	走了那么久	100
+zou le qi lai	走了起来	100
+zou le shen	走了神	100
+zou le wai lu	走了歪路	100
+zou le wan lu	走了弯路	100
+zou le xia lai	走了下来	100
+zou le xin	走了心	100
+zou le xu duo	走了许多	100
+zou le xu jiu	走了许久	100
+zou le yan	走了眼	100
+zou le yang	走了样	100
+zou le yi ban	走了一半	100
+zou le yi bian	走了一遍	100
+zou le yi bo	走了一波	100
+zou le yi bu	走了一步	100
+zou le yi duan	走了一段	100
+zou le yi duan lu	走了一段路	100
+zou le yi dui	走了一堆	100
+zou le yi dun	揍了一顿	100
+zou le yi ge	走了一个	100
+zou le yi hou	走了以后	100
+zou le yi hui	走了一会	100
+zou le yi hui er	走了一会儿	100
+zou le yi lu	走了一路	100
+zou le yi quan	走了一圈	100
+zou le yi qun	走了一群	100
+zou le yi tang	走了一趟	100
+zou le yi tian	走了一天	100
+zou le yi xie wan lu	走了一些弯路	100
+zou le yi zao	走了一遭	100
+zou le you lai	走了又来	100
+zou le zhe me jiu	走了这么久	100
+zou le zhi hou	走了之后	100
+zou le zou le	走了走了	100
+zou li xiao qu	邹李小区	100
+zou liang bu	走两步	100
+zou liang bu er	走两步儿	100
+zou lie shi lu	走劣势路	100
+zou liu cheng	走流程	100
+zou lou le feng sheng	走漏了风声	100
+zou lou le xiao xi	走漏了消息	100
+zou lu cao	走路草	100
+zou lu dai feng	走路带风	100
+zou lu dai feng de gan jue	走路带风的感觉	100
+zou lu de su du	走路的速度	100
+zou lu dou	走路都	100
+zou lu dou dai feng	走路都带风	100
+zou lu hen man	走路很慢	100
+zou lu lu	走陆路	100
+zou lu man man de	走路慢慢的	100
+zou lu shang ban	走路上班	100
+zou lu su du	走路速度	100
+zou lu yi feng	邹鲁遗风	100
+zou lu yi guai yi guai	走路一拐一拐	100
+zou ma dao ren	走马到任	100
+zou ma deng le	走马灯了	100
+zou ma dou ji	走马斗鸡	100
+zou ma fu ren	走马赴任	100
+zou ma gan	走马疳	100
+zou ma jiang hu dao	走马江湖道	100
+zou ma xing jiu li	走马行酒礼	100
+zou ma zhang tai	走马章台	100
+zou mei yun	走霉运	100
+zou mei zou dao	走没走到	100
+zou mei zou dao a	走没走到啊	100
+zou mei zou dao ya	走没走到呀	100
+zou min ban	走民办	100
+zou ni ma bi	走你妈逼	100
+zou ni ne	揍你呢	100
+zou ni ya de	揍你丫的	100
+zou ni yi dun	揍你一顿	100
+zou pian le	走偏了	100
+zou ping tai	走平台	100
+zou qi lai xiang ya zi	走起来像鸭子	100
+zou ren fu	走人夫	100
+zou ren le	走人了	100
+zou ren xing dao	走人行道	100
+zou ren xing heng dao	走人行横道	100
+zou rou xing shi	走肉行尸	100
+zou ru le hun yin de dian tang	走入了婚姻的殿堂	100
+zou ru xiao yuan	走入校园	100
+zou san le	走散了	100
+zou shan men	走山门	100
+zou shang hong di tan	走上红地毯	100
+zou shang le bu gui lu	走上了不归路	100
+zou shang le bu tong de dao lu	走上了不同的道路	100
+zou shang le jiang tai	走上了讲台	100
+zou shang le ren sheng de dian feng	走上了人生的巅峰	100
+zou shang le ren sheng dian feng	走上了人生巅峰	100
+zou shang le wai lu	走上了歪路	100
+zou shang le wu tai	走上了舞台	100
+zou shang le yi tiao bu gui lu	走上了一条不归路	100
+zou shang le zheng gui	走上了正轨	100
+zou shang ren sheng dian feng	走上人生巅峰	100
+zou shang xie lu	走上邪路	100
+zou shen me	走什么	100
+zou shen me lu	走什么路	100
+zou shen me lu xian	走什么路线	100
+zou shen me yang de lu	走什么样的路	100
+zou sheng dao	走省道	100
+zou shi di dian	走失地点	100
+zou shi fei sha	走石飞沙	100
+zou shi guan	奏事官	100
+zou shi jing du	走时精度	100
+zou shi qiang jing	走势强劲	100
+zou shou fei qin	走兽飞禽	100
+zou shou hou	走售后	100
+zou shui la	走水啦	100
+zou si chuan	走私船	100
+zou si ni	揍死你	100
+zou si ni men	揍死你们	100
+zou si pin	走私品	100
+zou si ta	揍死他	100
+zou si ta men	揍死他们	100
+zou si wo	揍死我	100
+zou si wo men	揍死我们	100
+zou ta ya de	揍他丫的	100
+zou ta yi dun	揍他一顿	100
+zou ta yi dun	揍她一顿	100
+zou tian ya	走天涯	100
+zou tou wu lu zhi ji	走投无路之际	100
+zou wai le	走歪了	100
+zou wan ni ban	走丸逆坂	100
+zou wei er	走味儿	100
+zou wei shang	走为上	100
+zou wei shang zhao	走为上着	100
+zou wei xian	走为先	100
+zou wei zou wei	走位走位	100
+zou wen zou shi	走稳走实	100
+zou wo ne	揍我呢	100
+zou wo yi dun	揍我一顿	100
+zou xia le	走下了	100
+zou xia le shen tan	走下了神坛	100
+zou xia liu cheng	走下流程	100
+zou xiang di yu	走向地狱	100
+zou xiang duan ceng	走向断层	100
+zou xiang duo luo	走向堕落	100
+zou xiang fu xing	走向复兴	100
+zou xiang hua dong duan ceng	走向滑动断层	100
+zou xiang le	走向了	100
+zou xiang le guo ji	走向了国际	100
+zou xiang le shi jie	走向了世界	100
+zou xiang min zhu	走向民主	100
+zou xiang mo luo	走向没落	100
+zou xiang shuai luo	走向衰落	100
+zou xiang shuai wang	走向衰亡	100
+zou xiang sui xiang	走乡随乡	100
+zou xiang tiao zheng	走向调整	100
+zou xiao sheng	走校生	100
+zou xin di	走心地	100
+zou xin le	走心了	100
+zou xin ru meng de ren	走心入梦的人	100
+zou xing bu	走行部	100
+zou xing er	走形儿	100
+zou xiu mo te	走秀模特	100
+zou xue xiao	邹学校	100
+zou ya qi	邹雅琦	100
+zou yi bu kan yi bu	走一步看一步	100
+zou yi bu kan yi bu ba	走一步看一步吧	100
+zou yi bu suan yi bu	走一步算一步	100
+zou yi bu suan yi bu ba	走一步算一步吧	100
+zou yi ge hu hu sheng feng	走一个虎虎生风	100
+zou yi ge huang ruo ge shi	走一个恍若隔世	100
+zou yi ge yi ri qian li	走一个一日千里	100
+zou yi qi	走一起	100
+zou yi qi a	走一起啊	100
+zou yi quan	走一圈	100
+zou yi shu	走艺术	100
+zou yi tang	走一趟	100
+zou yi wan bu	走一万步	100
+zou yi zao	走一遭	100
+zou yin jing she	走蚓惊蛇	100
+zou ying qi zi	邹缨齐紫	100
+zou you shi lu	走优势路	100
+zou you zou xiang	走有走相	100
+zou yu chen	邹雨宸	100
+zou yuan chang	走圆场	100
+zou yuan lu	走远路	100
+zou yuan qing	邹元清	100
+zou yue de	奏乐的	100
+zou zai hang ye qian lie	走在行业前列	100
+zou zai le	走在了	100
+zou zai le qian lie	走在了前列	100
+zou zai le qian mian	走在了前面	100
+zou zai le yi qi	走在了一起	100
+zou zai quan sheng qian lie	走在全省前列	100
+zou zai xiao yuan	走在校园	100
+zou zai xiao yuan li	走在校园里	100
+zou zhai le	走窄了	100
+zou zhao gong sui	走召弓虽	100
+zou zhe er	走这儿	100
+zou zhe kan	走着看	100
+zou zhe lu	走着路	100
+zou zhe qiao ba	走着瞧吧	100
+zou zhe tiao lu	走这条路	100
+zou zhe zou zhe jiu	走着走着就	100
+zou zhe zou zhe jiu que le	走着走着就瘸了	100
+zou zhe zou zhe jiu san le	走着走着就散了	100
+zou zhen xian	邹振先	100
+zou zhi dao	走直道	100
+zou zhi hou	走之后	100
+zou zhi qian	走之前	100
+zou zhuan ke ba	走专科吧	100
+zou zi	走资	100
+zou zou ba	走走吧	100
+zou zou dao	走走道	100
+zou zou guan xi	走走关系	100
+zou zou kan	走走看	100
+zou zu fan fu	走卒贩夫	100
+zou you gen	邹侑根	98
+zou you rou	走油肉	98
+zou niang jia	走娘家	95
+zou tao	邹涛	95
+zou ma ling	走马岭	93
+zou nei xian	走内线	90
+zou shu	走数	78
+zou di tan	走低碳	75
+zou jin nong min gong	走进农民工	72
+zou shan	走扇	70
+zou si zhi du wu pin zui	走私制毒物品罪	69
+zou fang qian	走访前	68
+zou zi ji	走自己	68
+zou de wan	走得晚	66
+zou fu	走赴	65
+zou gang	邹冈	65
+zou an hua	邹安华	64
+zou da xian	邹大鲜	64
+zou zai shang	走在上	62
+zou zhe ge	走这个	62
+zou du xue xiao	走读学校	55
+zou ma jie	走马街	46
+zou qu	邹区	46
+zou ma gang	走马岗	44
+zou chu yuan	走出院	40
+zou ma tang	走马塘	38
+zou bi zhi ci	走笔至此	36
+zou heng fu	邹恒甫	33
+zou ye	走野	33
+zou ren hu	走人户	32
+zou da	揍打	30
+zou yang er	走样儿	30
+zou si pu tong huo wu wu pin zui	走私普通货物物品罪	28
+zou bo qi	邹伯奇	22
+zou chu xiang ya ta	走出象牙塔	22
+zou zhuang	奏状	22
+zou ma ping	走马坪	20
+zou guo ying	邹国英	18
+zou yi bu	走一部	18
+zou de wan de	走得晚的	15
+zou jia cun	邹家村	15
+zou zhi qu	奏之曲	15
+zou sa	走撒	14
+zou juan	走鹃	13
+zou ma ping bai zu xiang	走马坪白族乡	12
+zou ta	揍它	11
+zou shao meng	邹绍孟	10
+zou sheng suo zhe	走绳索者	10
+zou shi qiu jiu	走失求救	10
+zou yi gui	邹一桂	10
+zou de zhong	邹德忠	9
+zou jian feng	邹建锋	9
+zou ping lu	邹平路	9
+zou jun	邹骏	8
+zou xian	走先	8
+zou dan	走单	7
+zou yi xia	走一下	7
+zou zhong	邹忠	6
+zou de zao de	走得早的	5
+zou gang si zhe	走钢丝者	5
+zou yuan biao	邹元标	5
+zou jing	邹靖	4
+zou qian	邹谦	4
+zou gui	走鬼	3
+zou ji	诹吉	3
+zou ji ben ma	走及奔马	3
+zou shou yi	邹守益	3
+zou bing wen	邹秉文	2
+zou jia	邹家	2
+zou liu shui yi he can	奏流水以何惭	2
+zou ma chuan xing feng song feng da fu chu shi xi zheng	走马川行奉送封大夫出师西征	2
+zou quan	邹泉	2
+zou tao	邹弢	2
+zou xiao	走校	2
+zou yi ge	走一个	2
+zou yue dui	奏乐队	2
+zou an	邹安	1
+zou bang han mei fang xiao xi	走傍寒梅访消息	1
+zou bian	走边	1
+zou bian xi tou wu mi chu	走遍溪头无觅处	1
+zou cao yuan	奏曹掾	1
+zou dao da kai de chuang qian	走到打开的窗前	1
+zou fu wu di	走伏无地	1
+zou he	走合	1
+zou hua liu bing	走花溜冰	1
+zou hua liu shui	走花溜水	1
+zou li wu	邹立武	1
+zou lin ying	邹林颖	1
+zou lou tian ji	走漏天机	1
+zou ma chuan xing feng song chu shi xi zheng	走马川行奉送出师西征	1
+zou ma ya gan	走马牙疳	1
+zou ma zhi ren	走马之任	1
+zou ming he	邹鸣鹤	1
+zou mu gong	邹穆公	1
+zou ping zhen	邹平镇	1
+zou sha jin gang zuo sha fo	走杀金刚坐杀佛	1
+zou sheng	走绳	1
+zou sheng quan	邹声泉	1
+zou xian	邹县	1
+zou xuan	邹铉	1
+zou yan tan tian	邹衍谈天	1
+zou you dou chi kou rou	走油豆豉扣肉	1
+zou zhuang	邹庄	1

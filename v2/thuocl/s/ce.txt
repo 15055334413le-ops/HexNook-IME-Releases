@@ -1,0 +1,114 @@
+ce shi shu ju	测试数据	41464
+ce liang	测量	36689
+ce shi yong li	测试用例	22124
+ce shi lei	测试类	19446
+ce shi cheng xu	测试程序	14716
+ce shi huan jing	测试环境	13771
+ce shi fang fa	测试方法	10857
+ce shi ji	测试机	8696
+ce shi gong ju	测试工具	7259
+ce shi ren yuan	测试人员	7232
+ce lve mo shi	策略模式	6950
+ce shi guo cheng	测试过程	6237
+ce wei	侧围	5805
+ce shi kuang jia	测试框架	5061
+ce yan	测验	4724
+ce shi dian	测试点	3559
+ce bian lan	侧边栏	3408
+ce shi jie duan	测试阶段	3252
+ce shi jiao ben	测试脚本	3090
+ce shi bao gao	测试报告	3071
+ce shi yun xing	测试运行	2662
+ce hua cai dan	侧滑菜单	2461
+ce shi ji hua	测试计划	2402
+ce shi qu dong kai fa	测试驱动开发	2360
+ce zhuan xiang deng	侧转向灯	1685
+ce shi shi jian	测试时间	1596
+ce shi gong cheng shi	测试工程师	1485
+ce hui fa	测绘法	1450
+ce shi liu cheng	测试流程	1372
+ce shi ming ling	测试命令	1339
+ce shi she bei	测试设备	1268
+ce shi zi yuan	测试资源	912
+ce chuang bo li	侧窗玻璃	909
+ce shi kai fa	测试开发	902
+ce shi ren wu	测试任务	853
+ce shi ce lve	测试策略	692
+ce shi she ji	测试设计	660
+ce shi guan li	测试管理	517
+ce shi qu dong cheng xu	测试驱动程序	517
+ce shi zi dong hua	测试自动化	483
+ce bi	侧壁	436
+ce shi jing yan	测试经验	412
+ce shi fu gai	测试覆盖	406
+ce lve she ji mo shi	策略设计模式	373
+ce shi sheng cheng	测试生成	356
+ce shi wen ben	测试文本	350
+ce lve lu you	策略路由	262
+ce shi ri zhi	测试日志	236
+ce liang fan wei	测量范围	235
+ce hua lan	侧滑栏	201
+ce hua shan chu	侧滑删除	198
+ce lei	策勒	194
+ce shi ping gu	测试评估	192
+ce shi guan li gong ju	测试管理工具	188
+ce shi li lun	测试理论	157
+ce heng	册亨	138
+ce shi li cheng	测试例程	138
+ce shi bei jing	测试背景	132
+ce la cai dan	侧拉菜单	121
+ce hui da dui	测绘大队	118
+ce wei ban	侧围板	116
+ce shi shun xu	测试顺序	113
+ce shi si xiang	测试思想	98
+ce mu er shi	侧目而视	84
+ce shi xiang ying	测试响应	74
+ce shi ji qiao	测试技巧	73
+ce shi yu yan	测试语言	64
+ce shi ban	测试板	61
+ce shi you xiao xing	测试有效性	60
+ce yi zhi	侧抑制	55
+ce shi ping shen	测试评审	53
+ce gen	侧根	46
+ce yin zhi xin	恻隐之心	46
+ce shi zhi dao	测试之道	45
+ce hua shi yan tai	侧滑试验台	39
+ce bai ye	侧柏叶	38
+ce shi ti shi	测试提示	36
+ce nao shi	侧脑室	35
+ce ding fang fa	测定方法	32
+ce shi qu dong qi	测试驱动器	24
+ce shi tai	测试台	24
+ce lian	侧链	23
+ce shi gui yue	测试规约	19
+ce shi yun wei	测试运维	17
+ce jing gui ya mu	侧颈龟亚目	14
+ce shi zong he	测试综合	12
+ce shi tan zhen	测试探针	11
+ce shi za zhi	测试杂志	11
+ce zhi bu yi qi dao	策之不以其道	7
+ce jing gui ke	侧颈龟科	5
+ce jing xiang	册井乡	4
+ce da ya xiang	策达雅乡	3
+ce dan yan	侧单眼	3
+ce shen tian di geng huai gu	侧身天地更怀古	3
+ce zuo mei tai cao ying shen	侧坐莓苔草映身	3
+ce qiang mu	侧腔目	2
+ce shen xi wang zhang zi jie	侧身西望长咨嗟	2
+ce chu an sha feng ban si	侧出岸沙枫半死	1
+ce fu lao yi liu qi	策扶老以流憩	1
+ce ling xiang	侧岭乡	1
+ce lve yan jiu	策略研究	1
+ce shen shang xia sui you yu	侧身上下随游鱼	1
+ce yan jiao lv	测验焦虑	1
+ce zhang gui qu lai	策杖归去来	1
+ce chang xi ye xi chong	侧肠锡叶吸虫	0
+ce chu jiao xi	侧触角螅	0
+ce dian jiang qi li yu	侧点桨鳍丽鱼	0
+ce jiao ju xiong jin xiao feng	侧角矩胸金小蜂	0
+ce mo jue lei zhi wu	侧膜蕨类植物	0
+ce tou dai long zhan li yu	侧头带龙占丽鱼	0
+ce wen a hu xia hu yu	侧纹阿胡鰕虎鱼	0
+ce wen he xie zhu	侧纹褐蟹蛛	0
+ce xian bao fang fu yu	侧线豹鲂鮄鱼	0
+ce zhi wen chang yu	侧殖文昌鱼	0

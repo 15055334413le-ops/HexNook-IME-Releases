@@ -1,0 +1,649 @@
+chang jiang	长江	107102
+chang sha shi	长沙市	57257
+chang fang	厂房	46103
+chang huan	偿还	34550
+chang ren li shi guo	常任理事国	29663
+chang cheng	长城	24250
+chang qu	厂区	21238
+chang zhu hu kou	常住户口	19913
+chang zhi jiu an	长治久安	18732
+chang yong fang fa	常用方法	18300
+chang chun shi	长春市	15403
+chang yong ming ling	常用命令	11870
+chang wei	肠胃	10087
+chang you	畅游	9972
+chang fen	肠粉	9724
+chang e	嫦娥	9317
+chang an ma zi da	长安马自达	8572
+chang he ling mu	昌河铃木	8526
+chang suo yu yan	畅所欲言	7910
+chang dao	肠道	7020
+chang zhou shi	常州市	6954
+chang de shi	常德市	6936
+chang ci yi wang	长此以往	6047
+chang an jie	长安街	5832
+chang tu qi che zhan	长途汽车站	5435
+chang tong wu zu	畅通无阻	5425
+chang liang chi	常量池	5254
+chang yong shu xing	常用属性	4889
+chang zhai	偿债	4838
+chang yong cao zuo	常用操作	4621
+chang jian cuo wu	常见错误	4058
+chang tu ba she	长途跋涉	3962
+chang fu	偿付	3780
+chang yong han shu	常用函数	3764
+chang liang qu	常量区	3659
+chang cheng ha fu	长城哈弗	3536
+chang shou mian	长寿面	3465
+chang jiang lu	长江路	3203
+chang yong gong neng	常用功能	2986
+chang jiu zhi ji	长久之计	2943
+chang liang zhi zhen	常量指针	2749
+chang yong kuai jie jian	常用快捷键	2630
+chang qing	长青	2584
+chang huan qian kuan	偿还欠款	2225
+chang yong lei	常用类	2222
+chang geng zu	肠梗阻	2213
+chang tong gong cheng	畅通工程	1958
+chang ji zhou	昌吉州	1948
+chang nian lei yue	长年累月	1920
+chang yong gong ju	常用工具	1910
+chang sha huo che zhan	长沙火车站	1855
+chang zu jin zhan	长足进展	1851
+chang zheng lu	长征路	1699
+chang dou	昌都	1652
+chang cheng jiao che	长城轿车	1587
+chang shu shi	常熟市	1570
+chang yong suan fa	常用算法	1543
+chang ji shi	昌吉市	1519
+chang hua ji xie shi	昌化鸡血石	1314
+chang men kou	厂门口	1311
+chang dao chuan ran bing	肠道传染病	1289
+chang yong zhi ling	常用指令	1260
+chang yong pei zhi	常用配置	1178
+chang ping fa yuan	昌平法院	1176
+chang le lu	长乐路	1155
+chang jing qie huan	场景切换	1142
+chang jiang xi lu	长江西路	1137
+chang an fu te fu ke si	长安福特福克斯	1130
+chang zhi zhen	常指针	1127
+chang shan	常山	1108
+chang xing wu zu	畅行无阻	1032
+chang an da xue	长安大学	1020
+chang ning shi	常宁市	1013
+chang wang mian	肠旺面	1011
+chang yan	肠炎	997
+chang an zhi xiang	长安志翔	993
+chang ting	长汀	986
+chang jian suan fa	常见算法	981
+chang chu xie xing da chang gan jun	肠出血性大肠杆菌	973
+chang tu qi che zong zhan	长途汽车总站	971
+chang xiu shan wu	长袖善舞	948
+chang cheng jia yu	长城嘉誉	942
+chang sheng	长生	935
+chang yong kong jian	常用控件	934
+chang zheng yi yuan	长征医院	933
+chang an lu	长安路	932
+chang tu che zhan	长途车站	921
+chang yin yong	常引用	905
+chang yong ruan jian	常用软件	891
+chang shou lu	长寿路	888
+chang pu	菖蒲	879
+chang pian da lun	长篇大论	867
+chang qu zhi ru	长驱直入	849
+chang yong gong ju lei	常用工具类	812
+chang mao mao	长毛猫	735
+chang yong cha jian	常用插件	732
+chang ying	常营	724
+chang yong biao qian	常用标签	723
+chang yong she zhi	常用设置	722
+chang le shi	长乐市	703
+chang jiang zhong lu	长江中路	688
+chang li	昌黎	683
+chang jiang dong lu	长江东路	665
+chang wei bing	肠胃病	661
+chang jian yi chang	常见异常	658
+chang qing lu	常青路	655
+chang yong zu jian	常用组件	655
+chang ming bai sui	长命百岁	653
+chang cheng yuan han shu	常成员函数	648
+chang cheng bao hu tiao li	长城保护条例	636
+chang sheng bu lao	长生不老	618
+chang jiang xian	昌江县	613
+chang an yi yuan	长安医院	606
+chang dao bing du	肠道病毒	594
+chang he	昌河	593
+chang sha lu	长沙路	565
+chang yong dai ma	常用代码	557
+chang bu	场部	554
+chang jiang hou lang tui qian lang	长江后浪推前浪	544
+chang feng po lang hui you shi	长风破浪会有时	522
+chang sheng jiang jun	常胜将军	481
+chang hong lu	长虹路	463
+chang bei bu xie	常备不懈	451
+chang chun lu	长春路	443
+chang yong yu fa	常用语法	409
+chang jiang shui chan yan jiu suo	长江水产研究所	396
+chang du yu	长度域	376
+chang le	昌乐	372
+chang jiang cun	长江村	371
+chang he ling mu li ya na	昌河铃木利亚纳	364
+chang xing lu	长兴路	363
+chang de lu	常德路	362
+chang dui tai xi	唱对台戏	359
+chang liu shui	长流水	346
+chang wei fen fang cheng	常微分方程	345
+chang yong ku	常用库	344
+chang tong gong cheng xu	畅通工程续	337
+chang ran ruo shi	怅然若失	336
+chang xu duan tan	长吁短叹	327
+chang yong kuang jia	常用框架	319
+chang yong ci	常用词	308
+chang ju	常居	296
+chang sha shi jie zhi chuang	长沙世界之窗	293
+chang shu lu	常熟路	285
+chang chuan kong	肠穿孔	283
+chang she zhong cai ji gou	常设仲裁机构	281
+chang jiang nan lu	长江南路	274
+chang jian ji shu	常见技术	267
+chang qing lu	长青路	263
+chang an wo er wo	长安沃尔沃	242
+chang an qu zheng fu	长安区政府	228
+chang ting	长亭	225
+chang ma tou	常码头	223
+chang tu	昌图	222
+chang hao	常昊	219
+chang zhong lu	场中路	209
+chang yi shi	昌邑市	205
+chang jiang jie	长江街	203
+chang gang lu	昌岗路	197
+chang xiang yu	常香玉	192
+chang tu qi che dong zhan	长途汽车东站	190
+chang pian lei du	长篇累牍	189
+chang jiang qi hao	长江七号	188
+chang ting dou fu gan	长汀豆腐干	187
+chang chun juan	长春卷	185
+chang sha da xue	长沙大学	182
+chang yong lei ku	常用类库	180
+chang ping lu	昌平路	177
+chang ning	昌宁	176
+chang qing jie	长青街	176
+chang yong fa lv shou ce	常用法律手册	172
+chang an xian	长安县	168
+chang qiao	厂桥	160
+chang hua duan shuo	长话短说	159
+chang pin	场频	155
+chang yong xiao guo	常用效果	147
+chang yong wang zhan	常用网站	143
+chang zheng chu fa di	长征出发地	138
+chang mao tu	长毛兔	129
+chang zhuang	常庄	129
+chang sheng qiao	长生桥	121
+chang hua lu	昌化路	118
+chang xi mo	肠系膜	118
+chang he luo ri yuan	长河落日圆	117
+chang rong mian	长绒棉	117
+chang xing jie	长兴街	116
+chang yuan	常远	116
+chang hua shan he tao	昌化山核桃	115
+chang du su	肠毒素	113
+chang an cun	长安村	112
+chang le po	长乐坡	110
+chang sha hai di shi jie	长沙海底世界	110
+chang cheng fan dian	长城饭店	109
+chang an xiao qu	长安小区	107
+chang le fang	长乐坊	106
+chang xi rou	肠息肉	106
+chang yong kai fa gong ju	常用开发工具	106
+chang ge dang ku	长歌当哭	102
+chang yi ji zong he zheng	肠易激综合征	102
+chang yong zi yuan	常用资源	102
+chang zhan lian	肠粘连	102
+chang jiang tian qian	长江天堑	101
+chang sha ma wang dui han mu	长沙马王堆汉墓	101
+chang jue yi shi	猖獗一时	100
+chang zhou lu	常州路	99
+chang ping nan kou	昌平南口	96
+chang tu ke yun zhong xin	长途客运中心	94
+chang jiang yi yuan	长江医院	92
+chang ye man man	长夜漫漫	89
+chang yong mu ban	常用模板	89
+chang yuan	昌源	88
+chang nei ying yang	肠内营养	86
+chang le cun	长乐村	85
+chang ping xi guan huan dao	昌平西关环岛	85
+chang tao die	肠套叠	85
+chang ying lu	长缨路	85
+chang an li jiao	长安立交	82
+chang ping qu yi yuan	昌平区医院	77
+chang shou xian	长寿县	76
+chang feng po lang	长风破浪	75
+chang zhou dao	常州到	75
+chang liang shuo ming	常量说明	74
+chang jing lou	唱经楼	73
+chang ran se ti	常染色体	72
+chang da	昌大	71
+chang dao bing du gan ran	肠道病毒感染	71
+chang long cun	长龙村	71
+chang ping xi guan	昌平西关	71
+chang xi	场西	71
+chang ping xian	昌平县	70
+chang chu xie	肠出血	69
+chang lou	肠瘘	69
+chang cheng da sha	长城大厦	67
+chang cheng jing ling qi che	长城精灵汽车	66
+chang rong jiao nang	肠溶胶囊	66
+chang cheng gan bai pu tao jiu	长城干白葡萄酒	65
+chang yi lu	昌邑路	64
+chang le gong	长乐宫	63
+chang sheng bu si	长生不死	63
+chang sheng lu	昌盛路	63
+chang jiang shui ku	长江水库	62
+chang qing gong yuan	常青公园	62
+chang shou gao	长寿糕	62
+chang li lu	昌里路	60
+chang jiang dao	长江道	59
+chang jing luan	肠痉挛	59
+chang yong wang zhi	常用网址	59
+chang gan jun	肠杆菌	57
+chang an yi zhong	长安一中	56
+chang chun cun	长春村	56
+chang qing si dui	长青四队	55
+chang cheng hua yuan	长城花园	53
+chang wai ying yang	肠外营养	53
+chang shu jiao hua ji	常熟叫化鸡	51
+chang bao	常宝	49
+chang tu qi che xi zhan	长途汽车西站	49
+chang jiao	常教	47
+chang sha zhong da	长沙中大	47
+chang jian cuo wu hui zong	常见错误汇总	46
+chang mao xi niu	长毛犀牛	46
+chang ning xian	常宁县	46
+chang li	昌里	45
+chang ning gong	常宁宫	44
+chang sha jun	长沙郡	43
+chang shou qiao	长寿桥	43
+chang xing lu	常兴路	43
+chang ming yin	肠鸣音	42
+chang jie he	肠结核	41
+chang he	常河	39
+chang ping dong guan	昌平东关	39
+chang cheng ji dian	长城机电	38
+chang he lu	长河路	38
+chang le wei yang	长乐未央	38
+chang li dong lu	昌里东路	38
+chang bei lu kou	厂北路口	37
+chang zheng di yi du	长征第一渡	37
+chang an	昌安	36
+chang jiang xin cun	长江新村	36
+chang she qu	厂社区	36
+chang qing yuan	常青园	35
+chang cheng zhong xue	长城中学	34
+chang jiang lu jiu hao	长江路九号	33
+chang zhou da ma gao	常州大麻糕	33
+chang ping xin zhuang	昌平辛庄	32
+chang run cha	常润茶	31
+chang xing she qu	长兴社区	31
+chang yu chun	常遇春	31
+chang cheng cun	长城村	30
+chang kuan	常宽	30
+chang an shui bian duo li ren	长安水边多丽人	29
+chang huai qian sui you	常怀千岁忧	29
+chang ping er zhong	昌平二中	29
+chang shu he bing	常数合并	29
+chang an da xue wei shui xiao qu	长安大学渭水校区	28
+chang niu zhuan	肠扭转	28
+chang wai lou	肠外瘘	28
+chang chun ming zhu	长春明珠	27
+chang dao ji sheng chong bing	肠道寄生虫病	27
+chang jiang shi chang	长江市场	27
+chang nan	厂南	27
+chang qing gong yuan	长青公园	27
+chang xi mo shang dong mai	肠系膜上动脉	27
+chang jiang xiao qu	长江小区	26
+chang lu	昌路	26
+chang an qi che zhan	长安汽车站	25
+chang bei	厂北	25
+chang kong yan jiao shuang chen yue	长空雁叫霜晨月	25
+chang ma bi	肠麻痹	25
+chang de xian	常德县	24
+chang guan lou	畅观楼	24
+chang zhang qi	肠胀气	24
+chang chun xin jian	长春新碱	23
+chang dong	场东	23
+chang guan	常关	23
+chang sha jia da	长沙加大	23
+chang zheng qiao	长征桥	23
+chang hong xi lu	长虹西路	22
+chang ying	常颖	22
+chang yong wang luo ming ling	常用网络命令	22
+chang e ying hui tou ling yao	嫦娥应悔偷灵药	21
+chang gong neng wen luan	肠功能紊乱	21
+chang guo	昌国	21
+chang cheng ka	长城卡	20
+chang ping yi zhong	昌平一中	20
+chang sha shi lao dong dong lu	长沙市劳动东路	20
+chang ye fan	常业犯	20
+chang ban	长坂	19
+chang bi suo	肠闭锁	19
+chang ji xi ting ri mu	常记溪亭日暮	19
+chang tan ju	肠炭疽	19
+chang yi yuan	厂医院	19
+chang an ban li	长安板栗	18
+chang chun qiao lu	长春桥路	18
+chang qian lu	厂前路	18
+chang wa	厂洼	18
+chang ying min zu jia yuan	常营民族家园	18
+chang yong fa lv xin bian	常用法律新编	18
+chang yong gong ju dai ma	常用工具代码	18
+chang zhai	常寨	18
+chang an lu kou	长安路口	17
+chang le xian	长乐县	17
+chang xi mo shang jing mai	肠系膜上静脉	17
+chang yi xian	昌邑县	17
+chang lun	常伦	16
+chang ming wu jue shuai	长命无绝衰	16
+chang ping bei zhan	昌平北站	16
+chang sheng dong jie	昌盛东街	16
+chang yong gong neng dai ma	常用功能代码	16
+chang zai yu xian yuan	常在于险远	16
+chang an shi shang jiu jia mian	长安市上酒家眠	15
+chang he zhong xue	长河中学	15
+chang jiang bei yi zhi	长江悲已滞	15
+chang an hui wang xiu cheng dui	长安回望绣成堆	14
+chang kui yang	肠溃疡	14
+chang pan gui zi	常盘贵子	14
+chang qing yuan she qu	长青园社区	14
+chang sha gan ma xiang	长沙干马乡	14
+chang ting cun	长汀村	14
+chang hong ke ji da sha	长虹科技大厦	13
+chang sheng cun	常胜村	13
+chang tun xiang	常屯乡	13
+chang xian	肠线	13
+chang bai shan ye sheng ma yi	长白山野生蚂蚁	12
+chang cheng bo luo bing	长城饽椤饼	12
+chang hong qiao dong	长虹桥东	12
+chang hong qiao nan	长虹桥南	12
+chang ping he ying zhan	昌平何营站	12
+chang shu xian	常熟县	12
+chang xia jiang cun shi shi you	长夏江村事事幽	12
+chang zheng xin cun	长征新村	12
+chang an chan ye yuan	长安产业园	11
+chang chun xiang	长春巷	11
+chang jia zhuang	常家庄	11
+chang jiang zhi jia	长江之家	11
+chang le xiao qu	常乐小区	11
+chang ping feng shan	昌平凤山	11
+chang qing er dui	长青二队	11
+chang zhou da dao	昌州大道	11
+chang zhou dao	常州道	11
+chang chai	常柴	10
+chang feng che qiao	畅丰车桥	10
+chang gang zhong	昌岗中	10
+chang he qiao	长河桥	10
+chang qing cha	肠清茶	10
+chang shi cun	长石村	10
+chang ting lu	长汀路	10
+chang xi fan	常习犯	10
+chang xing yuan	长兴苑	10
+chang cheng huan dao	长城环岛	9
+chang de dao	常德道	9
+chang hua xin cun	昌化新村	9
+chang kang jiao nang	肠康胶囊	9
+chang shan jun	常山郡	9
+chang sun shang	肠损伤	9
+chang ye nan ming chi xian tian	长夜难明赤县天	9
+chang an hua yuan	长安花园	8
+chang chun dao	长春道	8
+chang chun rui bin	长春瑞滨	8
+chang le xin cun	长乐新村	8
+chang qing zhong jie	长青中街	8
+chang sha da bei nong	长沙大北农	8
+chang shang han	肠伤寒	8
+chang shou xin cun	长寿新村	8
+chang su bing	尝酥饼	8
+chang yan ning jiao nang	肠炎宁胶囊	8
+chang yong	肠痈	8
+chang zhou xiang	昌洲乡	8
+chang bin	常彬	7
+chang fa yin zuo	长发银座	7
+chang jia wan	常家湾	7
+chang jian cuo wu fen lei jing jiang	常见错误分类精讲	7
+chang le si	常乐寺	7
+chang li hua yuan	昌里花园	7
+chang mo can zhao ce yan	常模参照测验	7
+chang ping hu zhuang	昌平胡庄	7
+chang ping zhong xin gong yuan	昌平中心公园	7
+chang pu jiu mei qing zun gong	菖蒲酒美清尊共	7
+chang ren xia	常任侠	7
+chang sha tian yi	长沙天一	7
+chang shou xi	长寿西	7
+chang yan ning ke li	肠炎宁颗粒	7
+chang an yi pian yue	长安一片月	6
+chang chun jian	长春碱	6
+chang he xiang	长河乡	6
+chang jian ji zheng chu li	常见急症处理	6
+chang jiu cun	长久村	6
+chang mao xian luo mao	长毛暹罗猫	6
+chang ping nan da jie	昌平南大街	6
+chang ping shui ni chang	昌平水泥厂	6
+chang ping zhong yi yuan	昌平中医院	6
+chang rong mao	肠绒毛	6
+chang sha jie dao ban shi chu	长沙街道办事处	6
+chang wang jiang tou jiang shui sheng	怅望江头江水声	6
+chang xing shi chang	长兴市场	6
+chang ying xi lu	常营西路	6
+chang yong hu li ji shu	常用护理技术	6
+chang an bu jian shi ren chou	长安不见使人愁	5
+chang an lou	长安楼	5
+chang da chun	常大淳	5
+chang dai	常袋	5
+chang e gu qi yu shui lin	嫦娥孤栖与谁邻	5
+chang ge xiang	唱歌乡	5
+chang jiang jie dao	长江街道	5
+chang lai	常赖	5
+chang mao xie	长毛蟹	5
+chang mao zhi zhu ying	长毛蜘蛛鹰	5
+chang ming fang	常明芳	5
+chang ping gong an ju	昌平公安局	5
+chang sha guo jia yi zhai	长沙过贾谊宅	5
+chang sheng bei lu	昌盛北路	5
+chang sheng wang	常胜网	5
+chang shu dong nan kai fa qu	常熟东南开发区	5
+chang wang qian qiu yi sa lei	怅望千秋一洒泪	5
+chang zhan lian song jie shu	肠粘连松解术	5
+chang zhou jie	常州街	5
+chang zhou li	常州里	5
+chang an tu jia zu xiang	长安土家族乡	4
+chang an xin cheng she qu	长安新城社区	4
+chang ba zhen	场坝镇	4
+chang chun yi shou gao	长春益寿膏	4
+chang de jun wang dai xiao kan	常得君王带笑看	4
+chang hong qiao xi	长虹桥西	4
+chang jiao	昌教	4
+chang le xiang	长乐巷	4
+chang sha gong ma xiang	长沙贡马乡	4
+chang shou she	长寿社	4
+chang wei ning pian	肠胃宁片	4
+chang xia zhai	肠狭窄	4
+chang yan ning pian	肠炎宁片	4
+chang ying bei lu	常营北路	4
+chang ying bin guan	长缨宾馆	4
+chang zhang xiang	常张乡	4
+chang zhao dai suo	厂招待所	4
+chang zheng bu shi nan kan ri	长征不是难堪日	4
+chang an da dao heng jiu tian	长安大道横九天	3
+chang an fu te xin fu ke si	长安福特新福克斯	3
+chang bao xiang	常堡乡	3
+chang bing xing zhi duan pi yan	肠病性肢端皮炎	3
+chang bo xiang	昌波乡	3
+chang cheng ji tuan	长城集团	3
+chang chun jie dao	长春街道	3
+chang chun lu bian tang	长春鹿鞭汤	3
+chang chun xi ting	长春西汀	3
+chang e ben yue bing	嫦娥奔月饼	3
+chang feng	昌锋	3
+chang gang lu zong zhan	昌岗路总站	3
+chang hong xin cun	长虹新村	3
+chang jian yi zhi zhu	尝见一蜘蛛	3
+chang jiang bu ken xiang xi liu	长江不肯向西流	3
+chang jiang guo ji hua yuan	长江国际花园	3
+chang jiang rao guo zhi yu mei	长江绕郭知鱼美	3
+chang kong qiu jie zhi	常恐秋节至	3
+chang le hui e	长乐灰鹅	3
+chang ping cui cun	昌平崔村	3
+chang ping huan bao ju	昌平环保局	3
+chang qiao hu tong	厂桥胡同	3
+chang qing jing ying suo	长青经营所	3
+chang sheng jie	长生街	3
+chang ting li	长汀里	3
+chang wei shu jiao nang	肠胃舒胶囊	3
+chang xi guan fan	常习惯犯	3
+chang ye zhan shi he you che	长夜沾湿何由彻	3
+chang yi cun xing	场依存性	3
+chang yin chou bin ban	长吟愁鬓斑	3
+chang ying min zu xiao qu	常营民族小区	3
+chang you gao yuan chang xiao	常有高猿长啸	3
+chang zheng guang chang	长征广场	3
+chang zhuang cun wei hui	常庄村委会	3
+chang an cheng zhong bai wan jia	长安城中百万家	2
+chang an da dao lian xia xie	长安大道连狭斜	2
+chang an mo shang wu qiong shu	长安陌上无穷树	2
+chang ba qiu fen chou wei xie	唱罢秋坟愁未歇	2
+chang bi yuan ke dong wu	长臂猿科动物	2
+chang chun bao wan	长春宝丸	2
+chang chun lu	常春路	2
+chang chun xi ting zhu she ye	长春西汀注射液	2
+chang cun bao zhu xin	常存抱柱信	2
+chang duan jiang cheng yan	肠断江城雁	2
+chang fa xi lu	长发西路	2
+chang huang ru huo cun	怅恍如或存	2
+chang jiang lv dao	长江绿岛	2
+chang le nan yuan	长乐南苑	2
+chang li xiao qu	昌里小区	2
+chang ling lu	昌凌路	2
+chang liu	肠瘤	2
+chang long xiang	昌龙乡	2
+chang ma he xiang	昌麻河乡	2
+chang ming li yi dan	长鸣力已殚	2
+chang nian bei juan you	长年悲倦游	2
+chang niu jie	肠扭结	2
+chang ping di shui ju	昌平地税局	2
+chang ping wu zhong	昌平五中	2
+chang qi feng mi dan gao	长崎蜂蜜蛋糕	2
+chang qian jie dao	厂前街道	2
+chang sha guang an	长沙广安	2
+chang sheng yuan she qu	昌盛园社区	2
+chang shou bao cui	长寿薄脆	2
+chang shou long xu mian	长寿龙须面	2
+chang shou xiang	长寿巷	2
+chang ting jiu yi piao	长亭酒一瓢	2
+chang wei	厂卫	2
+chang wei ying	肠胃蝇	2
+chang xi mo xia jing mai	肠系膜下静脉	2
+chang xian ren jian zuo yu lang	常羡人间琢玉郎	2
+chang xing gong yu	长兴公寓	2
+chang yin wang zhuo jing	长吟望浊泾	2
+chang yu ji cheng er bai zhi	常于几成而败之	2
+chang zheng gong yuan	长征公园	2
+chang zhou de tai heng	常州德泰恒	2
+chang ai xia yang xian	常爱夏阳县	1
+chang an chen ran zuo chan yi	长安尘染坐禅衣	1
+chang an dong cun	昌安东村	1
+chang an zai ri bian	长安在日边	1
+chang cha mei hua zui	常插梅花醉	1
+chang cheng lv you xue yuan	长城旅游学院	1
+chang cheng te gang	长城特钢	1
+chang chi xiang	苌池乡	1
+chang chuan xie luo yue	长川泻落月	1
+chang de liang zhou yi wai sheng	唱得凉州意外声	1
+chang duo tang pian	肠多糖片	1
+chang feng xiang	常丰乡	1
+chang fu feng hua yuan	常府风华苑	1
+chang fu zhen	昌付镇	1
+chang he di zhu en	常荷地主恩	1
+chang he xiao qu	长河小区	1
+chang hong li	常红利	1
+chang ji xian	昌吉县	1
+chang jia cun cun	常家村村	1
+chang jian qi che pin pai	常见汽车品牌	1
+chang jiang bu jian yu shu zhi	长江不见鱼书至	1
+chang jiang wan li qing	长江万里清	1
+chang jiang xi yuan	长江西苑	1
+chang jie	肠结	1
+chang juan mao lie quan	长卷毛猎犬	1
+chang kong qiu feng zao	常恐秋风早	1
+chang ku sha beng sun yao lan	常苦沙崩损药栏	1
+chang le bao	肠乐宝	1
+chang le bei yuan	长乐北苑	1
+chang le zhen	昌乐镇	1
+chang li ying cun	常里营村	1
+chang lian lu	场联路	1
+chang mao ling xiang	长毛岭乡	1
+chang men jin ri wu shu xi	长门尽日无梳洗	1
+chang nei ying yang hun xuan ye	肠内营养混悬液	1
+chang nei ying yang ru ji	肠内营养乳剂	1
+chang pai shang xin shi	常排伤心事	1
+chang ping gu lou dong jie	昌平鼓楼东街	1
+chang ping gu lou xi jie	昌平鼓楼西街	1
+chang ping xi huan bei lu	昌平西环北路	1
+chang ping yong an lu	昌平永安路	1
+chang pu hua fa wu yun gao	菖蒲花发五云高	1
+chang qi li nai	长崎莉奈	1
+chang qing hu tong	长青胡同	1
+chang ran yin shi wei	怅然吟式微	1
+chang rong kong xin jiao nang	肠溶空心胶囊	1
+chang sha qian ren wan ren chu	长沙千人万人出	1
+chang shan xiang	常山乡	1
+chang shen jie bu de	肠深解不得	1
+chang shen jing guan neng zheng	肠神经官能症	1
+chang sheng jiu shi zhi dao	长生久视之道	1
+chang sheng xiang	长生巷	1
+chang shi di tou song jing shi	常时低头诵经史	1
+chang shi ru jun huai	长逝入君怀	1
+chang shi wei gua ren wei zhi	尝试为寡人为之	1
+chang shi xiang dui liang san feng	常时相对两三峰	1
+chang shun gan huo	昌顺干货	1
+chang ting lv shi nian	昌亭旅食年	1
+chang wo xin chun bai jia yi	怅卧新春白袷衣	1
+chang xi mo lin ba jie jie he	肠系膜淋巴结结核	1
+chang xi mo xia dong mai	肠系膜下动脉	1
+chang xia men qian yu mu chun	长夏门前欲暮春	1
+chang xiao qi ruo lan	长啸气若兰	1
+chang xiao yang	常晓阳	1
+chang xin cun	常辛村	1
+chang xing ji xiang	长兴集乡	1
+chang yi shen yi bi pei gong	常以身翼蔽沛公	1
+chang yi wu ji guan hou zhi	偿义务机关后置	1
+chang yi yuan she qu	昌艺园社区	1
+chang ying bei zhan	常营北站	1
+chang yong yao shi fa gui qian wen	常用药事法规千问	1
+chang yu	肠郁	1
+chang yu chun meng ji duo shi	长于春梦几多时	1
+chang zai yu xian yuan	常在於险远	1
+chang zeng lu	常增路	1
+chang zhong che lun zhuan	肠中车轮转	1
+chang zhou dao chang zhou li	常州道常州里	1
+chang zhou dao jing tai li	常州道靖泰里	1
+chang dao bai dian bing	肠道白点病	0
+chang jing lu tian niu	长颈鹿天牛	0
+chang jing lu xiang bi chong	长颈鹿象鼻虫	0
+chang mao chui er xi ban ya quan	长毛垂耳西班牙犬	0
+chang mao ke zhao mang chun	长毛刻爪盲蝽	0
+chang mao meng shu	长毛獴属	0
+chang mao mo hua jin gui	长毛莫花金龟	0
+chang mao sun luo	长矛笋螺	0
+chang mao xi ying	长毛隰蝇	0
+chang mao xiao mao piao chong	长毛小毛瓢虫	0
+chang mao xie zhu	长毛蟹蛛	0
+chang mao yan chi e	长毛岩尺蛾	0
+chang mao yuan jin hua chong	长毛猿金花虫	0
+chang mao zhen xi ying	长毛真喜萤	0
+chang mo dian pao chong	肠膜碘泡虫	0
+chang sha shen yuan	长沙深远	0
+chang sha wei ye	长沙伟业	0
+chang she chun lie zhao feng	长舌唇裂爪蜂	0
+chang yuan mo dai chong	长圆膜带虫	0
+chang yuan you mao lun chong	长圆疣毛轮虫	0
+chang zu yao wen	长足摇蚊	0
+chang zu ying zhao xia	长足鹰爪虾	0

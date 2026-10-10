@@ -1,0 +1,256 @@
+duan qi	短期	110737
+duan kou hao	端口号	41229
+duan tou tai	断头台	12058
+duan xian	短线	8670
+duan dian xu chuan	断点续传	4775
+duan cuo wu	段错误	3425
+duan kou ying she	端口映射	3050
+duan zhang qu yi	断章取义	3003
+duan dian tiao shi	断点调试	2854
+duan lian jie	短连接	2829
+duan di zhi	段地址	2584
+duan qiao	断桥	2006
+duan kou zhuan fa	端口转发	1620
+duan zhang du	段长度	1604
+duan kou zhan yong	端口占用	1553
+duan xin fa song	短信发送	1532
+duan kou chong tu	端口冲突	1221
+duan bing xiang jie	短兵相接	1121
+duan xiao jing han	短小精悍	1013
+duan bi can yuan	断壁残垣	979
+duan dian xia zai	断点下载	940
+duan xi tong	端系统	916
+duan kou sao miao	端口扫描	896
+duan lian jie	短链接	770
+duan xin yan zheng ma	短信验证码	757
+duan jin shao liang	短斤少两	691
+duan zheng shu	短整数	646
+duan zhou	端州	590
+duan qi rui	段祺瑞	429
+duan zi jue sun	断子绝孙	372
+duan yuan zhu gun zi zhou cheng	短圆柱滚子轴承	339
+duan wei yuan	短尾猿	325
+duan ying she	段映射	322
+duan xin jie kou	短信接口	288
+duan xin lan jie	短信拦截	285
+duan shi guan	断事官	283
+duan dian	断点	266
+duan wei mao	短尾猫	239
+duan he duan	段和段	234
+duan jie	端接	230
+duan lv men	端履门	218
+duan jue wang lai	断绝往来	207
+duan suo	段锁	207
+duan lu qi	断路器	192
+duan fu gai	段覆盖	184
+duan yuan can bi	断垣残壁	161
+duan zhi zai zhi	断指再植	157
+duan yu	段誉	140
+duan zhi zai zhi	断肢再植	139
+duan xin mao	短信猫	133
+duan li	端粒	129
+duan ru	断乳	126
+duan xuan	段暄	106
+duan long mu	煅龙牡	102
+duan kai ke hu	断开客户	98
+duan ai qun	段爱群	59
+duan fen	端芬	59
+duan zhuang	段庄	56
+duan xiao jing gan	短小精干	55
+duan ya chang	锻压厂	53
+duan zao chang	锻造厂	53
+duan mu hong liang	端木蕻良	50
+duan tang	段塘	49
+duan xin ke hu duan	短信客户端	47
+duan yu cai	段玉裁	43
+duan ting	段婷	42
+duan xian feng zheng	断线风筝	40
+duan de chang	段德昌	38
+duan duan xu xu	断断续续	38
+duan jing tui yuan	断井颓垣	37
+duan biao di zhi	段表地址	34
+duan jie dian zu	端接电阻	34
+duan dian kai guan	断点开关	32
+duan zhi gui	段芝贵	32
+duan ti jiao xie yi	段提交协议	30
+duan chang ren zai tian ya	断肠人在天涯	29
+duan mu li	煅牡蛎	28
+duan rong quan	短融券	28
+duan qi diao du	短期调度	27
+duan zao gong si	锻造公司	27
+duan ping	段平	26
+duan ban shi lu	断斑石鲈	25
+duan jia cun	段家村	24
+duan sui	段随	24
+duan cheng shi	段成式	22
+duan lu gu zhang	短路故障	22
+duan xue liu jiao nang	断血流胶囊	22
+duan chang zong he zheng	短肠综合征	19
+duan gai ju zhi li	短盖巨脂鲤	18
+duan zhi	短肢	18
+duan mao jia mao	短毛家猫	17
+duan jia zhai xiang	段家寨乡	16
+duan ya ji chuang chang	锻压机床厂	16
+duan nao	端脑	15
+duan yu jie gou yu fa	短语结构语法	14
+duan dian bei lu jie dao	段店北路街道	13
+duan dui duan chuan song	端对端传送	13
+duan guang qing	段光清	13
+duan jia shan	段家山	12
+duan tou jin ri yi ru he	断头今日意如何	12
+duan jiao	短角	11
+duan zhi	短指	10
+duan jia ying	段家营	9
+duan lie ji yin	断裂基因	9
+duan mao lie hu geng	短毛猎狐梗	9
+duan ri zhao zhi wu	短日照植物	8
+duan zhi xing	段智兴	8
+duan ju chi sheng ming	端居耻圣明	7
+duan qi	段琦	7
+duan rong	段嵘	7
+duan wu lin zhong xia	端午临中夏	7
+duan dian cun	段店村	6
+duan ku hu tong	缎库胡同	6
+duan mao xi quan	短毛细犬	6
+duan wei li ke	短尾鴗科	6
+duan cang	短仓	5
+duan bo yu	段伯宇	4
+duan gu	短骨	4
+duan jian	段坚	4
+duan xue liu	断血流	4
+duan ju yi yuan zhong	端居一院中	3
+duan xing zhi	段兴智	3
+duan de	短的	2
+duan gui	段珪	2
+duan jiong	段颎	2
+duan nan xin cun	段南新村	2
+duan ye	段业	2
+duan zhe bu wei bu zu	短者不为不足	2
+duan zhi ti shou ru	断肢体受辱	2
+duan zhuang za liu li	端庄杂流丽	2
+duan bo liao fa	短波疗法	1
+duan da zhang	段大章	1
+duan dao pian wen chang yu	短刀偏文昌鱼	1
+duan di heng chui ge long wen	短笛横吹隔陇闻	1
+duan di wu qiang xin kou chui	短笛无腔信口吹	1
+duan gan jun tai	短杆菌肽	1
+duan ge wei yin bu neng zhang	短歌微吟不能长	1
+duan jia cun cun	段家村村	1
+duan jin su zhou ci shi chang	断尽苏州刺史肠	1
+duan liu xiang	段柳乡	1
+duan qing zhao zi xi ru mao	短檠照字细如毛	1
+duan shi gao	煅石膏	1
+duan wu bei en rong	端午被恩荣	1
+duan wu xiao xi shi liu hong	断无消息石榴红	1
+duan zhou shi gong qiao ru shen	端州石工巧如神	1
+duan zhuang cun wei hui	段庄村委会	1
+duan zhuang guang chang	段庄广场	1
+duan ban yan zhi tai wei	断斑眼指胎鳚	0
+duan bang zhen fu ying	短棒真浮萤	0
+duan bei qi pi ke zhen	短背鳍皮颏鱵	0
+duan bi duan yin	短臂短鮣	0
+duan bi duan yin yu	短臂短印鱼	0
+duan bi shi	断笔石	0
+duan bu jia	段步甲	0
+duan chi hua lai huang	短翅华癞蝗	0
+duan chi xiao lin fang shi lu	短翅小鳞仿石鲈	0
+duan chi zhi bei huang	短翅直背蝗	0
+duan ci fu di zhong ying	短刺跗地种蝇	0
+duan ci lu jiao chan	短刺鹿角蝉	0
+duan ci zhi fu ying	短刺直浮萤	0
+duan cu fan shi shui mu	端粗范氏水母	0
+duan dai chun	短带鰆	0
+duan fu ni ping	短腹拟鮃	0
+duan fu ping zhi zao	短腹平直蚤	0
+duan fu shi tong chun	短腹匙同蝽	0
+duan fu tou dai bing yu	短腹头带冰鱼	0
+duan fu xin kang yuan	短跗新康蚖	0
+duan fu you cong	短腹幽蟌	0
+duan fu zhui xu jin xiao feng	短腹赘须金小蜂	0
+duan gai fei zhi li dan shui	短盖肥脂鲤淡水	0
+duan gai mu bi bai yi	短盖木鼻白蚁	0
+duan gai ye ling	短盖野鲮	0
+duan gou duan gang tiao	断沟短肛螩	0
+duan gou wei zhi huan chong	短钩伪指环虫	0
+duan gou wen man luo	短沟纹鬘螺	0
+duan he zhang fu ying ye jia	端褐长跗萤叶甲	0
+duan hu chi juan e	椴弧翅卷蛾	0
+duan hui kuo zui weng	缎辉阔嘴鹟	0
+duan ji fang chui xia hu yu	短棘纺锤鰕虎鱼	0
+duan ji zhu xia hu yu	短棘侏鰕虎鱼	0
+duan jiao ai shi hai kui	短角爱氏海葵	0
+duan jiao cang zhu e	短角苍祝蛾	0
+duan jiao chuang du fu yu	短角床杜父鱼	0
+duan jiao chuang ying shu	短角窗萤属	0
+duan jiao cu mao zao	短角粗毛蚤	0
+duan jiao di wen geng	短脚狄文更	0
+duan jiao di wen geng	短脚狄文挭	0
+duan jiao huang ban nong die	短蕉黄斑弄蝶	0
+duan jiao shuang yan gou xia	短角双眼钩虾	0
+duan jiao ying chang mao lie quan	短脚硬长毛猎犬	0
+duan jiao zhang er quan	短脚长耳犬	0
+duan jie fu gou tao chong	短节斧钩绦虫	0
+duan mang qie tu shi chong meng	短芒切突食虫虻	0
+duan mao shou chong	短锚首虫	0
+duan mao si fu jin xiao feng	短毛斯夫金小蜂	0
+duan mao tai cang xiao lie quan	短毛太仓小猎犬	0
+duan ni ci gai xia hu yu	短拟刺盖鰕虎鱼	0
+duan niu chong	端纽虫	0
+duan piao xia hu yu	短瓢鰕虎鱼	0
+duan qi cu ji xi	短鳍粗棘蜥	0
+duan qi xin deng long yu	短鳍新灯笼鱼	0
+duan shen quan hai long	短身拳海龙	0
+duan shou da hai kui	短手大海葵	0
+duan sui tie xian cai	短穗铁苋菜	0
+duan ti bei qiu	短体北鳅	0
+duan ti fu qiu	短体副鳅	0
+duan tun jin hong ju	短臀近红鮈	0
+duan tun zhong bo yu	短臀中波鱼	0
+duan tuo gui jia	短椭龟甲	0
+duan wei ao hu jian shui zao	短尾奥湖剑水蚤	0
+duan wei cu wen hai long	短尾粗吻海龙	0
+duan wei cui li	短尾翠鴗	0
+duan wei duan ci yuan tun	短尾短刺圆鲀	0
+duan wei feng mao shu	短尾锋毛鼠	0
+duan wei gu chuang xie	短尾鼓窗蟹	0
+duan wei gui	短尾鱥	0
+duan wei lan hui die	短尾蓝灰蝶	0
+duan wei ma xie er xian chong	短尾马歇尔线虫	0
+duan wei mang kang xia	短尾盲糠虾	0
+duan wei piao qi xia hu yu	短尾瓢鳍鰕虎鱼	0
+duan wei qiang wen xue	短尾腔吻鳕	0
+duan wei que wu shu	短尾雀鹀属	0
+duan wei que ying	短尾雀鹰	0
+duan wei rou chui feng niao	短尾肉垂风鸟	0
+duan wei wei	短尾鮠	0
+duan wei wei a ma meng shui zao	短尾伪阿玛猛水蚤	0
+duan wei xiao lu	短尾小鲈	0
+duan wei xiong ci shui zao	短尾胸刺水蚤	0
+duan wei ya ba weng	短尾哑霸鹟	0
+duan wei yuan ban xiao juan e	短尾圆斑小卷蛾	0
+duan wei yue du huang	短尾跃度蝗	0
+duan wei zei ou	短尾贼鸥	0
+duan wei zhang he xu ju	短尾长颌须鮈	0
+duan wei zhang shen yu	短尾长身鱊	0
+duan wei zhu ru cang shu	短尾侏儒仓鼠	0
+duan wen da tou nuo man	短吻大头糯鳗	0
+duan wen fei xuan yuan hai tun	短吻飞旋原海豚	0
+duan wen hai zhu yu	短吻海蠋鱼	0
+duan wen he ban wen xia hu yu	短吻褐斑吻鰕虎鱼	0
+duan wen hei zhao	短吻黑鮡	0
+duan wen hong ban wen xia hu yu	短吻红斑吻鰕虎鱼	0
+duan wen lie qi ya kou yu	短吻裂鳍亚口鱼	0
+duan wen qian gang man	短吻前肛鳗	0
+duan wen yu fu	短吻鱼畐	0
+duan xi jian jiao huang	短膝剑角蝗	0
+duan xiao ni wu jiao xie	短小拟五角蟹	0
+duan xiao xiong dian man	端小胸电鳗	0
+duan xiong zhang xiao yao zhu	短胸长逍遥蛛	0
+duan xiong zhang xie zhu	短胸长蟹蛛	0
+duan xu yu mang	短须鱼芒	0
+duan yi zhen zhu bei	短翼珍珠贝	0
+duan yuan jia ying	短圆荚萤	0
+duan zhang ji ju xie	短掌寄居蟹	0
+duan zhao ao si wo ji ying	短爪奥斯渥寄蝇	0
+duan zhao luo bei ji ying	短爪裸背寄蝇	0
+duan zhi chun zhi	短指唇指	0

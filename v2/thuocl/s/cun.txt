@@ -1,0 +1,119 @@
+cun li	村里	94459
+cun kuan	存款	61000
+cun wei hui	村委会	48969
+cun fang	存放	41015
+cun chu kong jian	存储空间	40904
+cun dan	存单	37641
+cun min wei yuan hui	村民委员会	36403
+cun jin	寸金	32606
+cun chu shu ju	存储数据	28999
+cun chu guo cheng	存储过程	23783
+cun chu fang shi	存储方式	13988
+cun kou	村口	11895
+cun chu jie gou	存储结构	11391
+cun chu wei zhi	存储位置	9611
+cun chu dan yuan	存储单元	9362
+cun chu yin qing	存储引擎	8629
+cun chu xi tong	存储系统	7078
+cun huo	存货	5688
+cun wei sheng shi	村卫生室	5495
+cun chu wen jian	存储文件	4910
+cun bu nan xing	寸步难行	4007
+cun tou	村头	3916
+cun min wei yuan hui zu zhi fa	村民委员会组织法	3317
+cun qu su du	存取速度	3227
+cun chu lei xing	存储类型	3146
+cun dai kuan	存贷款	3081
+cun chu guan li	存储管理	3034
+cun chu rong liang	存储容量	2774
+cun qu fang fa	存取方法	1874
+cun bu bu li	寸步不离	1639
+cun kuan ren	存款人	1446
+cun chu ji shu	存储技术	1156
+cun qu shi jian	存取时间	1114
+cun qian	村前	1038
+cun cao bu sheng	寸草不生	1036
+cun dang wen jian	存档文件	872
+cun dao wen jian	存到文件	871
+cun chu pei zhi	存储配置	813
+cun chu zhuan fa	存储转发	763
+cun bu bu rang	寸步不让	718
+cun chu kong jian bu zu	存储空间不足	640
+cun qu kong zhi	存取控制	544
+cun chu zhen lie	存储阵列	432
+cun chu mo kuai	存储模块	427
+cun chu mei ti	存储媒体	420
+cun chu mi du	存储密度	415
+cun chu bao hu	存储保护	391
+cun chu xin pian	存储芯片	388
+cun tu bu rang	寸土不让	383
+cun chu ti	存储体	333
+cun tu bi zheng	寸土必争	319
+cun chu ju zhen	存储矩阵	309
+cun wei	村尾	245
+cun chu zhan	存储栈	240
+cun min zi zhi fa	村民自治法	226
+cun ding qi	存定期	221
+cun qu xu ke	存取许可	203
+cun chu xu ni hua	存储虚拟化	196
+cun shang chun shu	村上春树	179
+cun chu sui pian	存储碎片	165
+cun qu biao	存取表	152
+cun you suo chang	寸有所长	149
+cun chu qi ceng ci	存储器层次	146
+cun chu qi fen pei	存储器分配	126
+cun dan gua shi	存单挂失	124
+cun qu quan	存取权	98
+cun bu nan yi	寸步难移	95
+cun chu guan li fu wu	存储管理服务	92
+cun fang chu	存放处	85
+cun chu zhou qi	存储周期	84
+cun chu qi dai kuan	存储器带宽	80
+cun chu yuan jian	存储元件	73
+cun chu dai kuan	存储带宽	70
+cun cao chun hui	寸草春晖	65
+cun qu lei xing	存取类型	65
+cun hu yi xin	存乎一心	59
+cun chu qi zong xian	存储器总线	54
+cun er bu lun	存而不论	45
+cun qu ju zhen	存取矩阵	38
+cun wang xu jue	存亡续绝	32
+cun qu bi	存取臂	30
+cun shang long	村上龙	29
+cun xin bu liang	存心不良	25
+cun qu ji bie	存取级别	22
+cun wang jue xu	存亡绝续	21
+cun chu xuan qu	存储选区	20
+cun qu kong zhi ji zhi	存取控制机制	19
+cun gong ye qu	村工业区	18
+cun qu dui lie	存取队列	18
+cun qu fan chou	存取范畴	17
+cun ren	存仁	16
+cun kuan bao xian fa lv zhi du	存款保险法律制度	14
+cun chu guan li bu jian	存储管理部件	11
+cun chu guan li ce lve	存储管理策略	11
+cun qu chong tu	存取冲突	10
+cun xing qi	寸性奇	8
+cun zhuang cun	村庄村	8
+cun ge xiang	村戈乡	7
+cun qian lu	村前路	4
+cun chang cun	村场村	3
+cun kuan bao xian zhi du	存款保险制度	3
+cun zhuang er nv ge dang jia	村庄儿女各当家	3
+cun bian xing hua bai	村边杏花白	2
+cun dou cun	村兜村	2
+cun guan chi	寸关尺	2
+cun min shi yong fa lv shou ce	村民实用法律手册	2
+cun nan cun bei xiang sao che	村南村北响缫车	2
+cun qiao yuan shu shi wu xiang	村桥原树似吾乡	2
+cun wei zong zhan	村尾总站	2
+cun zhe qie tou sheng	存者且偷生	2
+cun ge	村戈	1
+cun jin jie dao	寸金街道	1
+cun na mo xian tao hua fa	村南无限桃花发	1
+cun shang ai	村上爱	1
+cun shang long dian ying xiao shuo	村上龙电影小说	1
+cun tou fang	村头坊	1
+cun wang bu ke zhi	存亡不可知	1
+cun xia cun	村下村	1
+cun zhe wu xiao xi	存者无消息	1

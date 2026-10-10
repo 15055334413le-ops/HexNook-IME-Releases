@@ -1,0 +1,2711 @@
+chi cun	尺寸	500450
+chi xu	持续	500442
+chi you	持有	497505
+chi fan	吃饭	422140
+chi le	吃了	299400
+chi de	吃的	278850
+chi bang	翅膀	176265
+chi jiu	持久	174260
+chi gu	持股	123070
+chi jing	吃惊	120045
+chi du	尺度	103745
+chi xu fa zhan	持续发展	97215
+chi lun	齿轮	93365
+chi guo	吃过	88030
+chi ping	持平	83065
+chi wan	吃完	80210
+chi de	吃得	79310
+chi you ren	持有人	78700
+chi dao	迟到	70500
+chi chi	迟迟	66100
+chi dao	吃到	65365
+chi kui	吃亏	59975
+chi cang	持仓	55085
+chi diao	吃掉	54420
+chi yi	迟疑	54185
+chi ming shang biao	驰名商标	51895
+chi ku nai lao	吃苦耐劳	50610
+chi tang	池塘	49840
+chi zhi yi heng	持之以恒	47850
+chi yao	吃药	47430
+chi zao	迟早	46895
+chi xu zeng zhang	持续增长	46890
+chi zhe	吃着	46655
+chi li	吃力	46270
+chi xu shi jian	持续时间	45510
+chi ru	耻辱	44595
+chi mi	痴迷	43865
+chi ka ren	持卡人	43710
+chi dong xi	吃东西	41890
+chi qing	痴情	40135
+chi xu le	持续了	38960
+chi ku	吃苦	38360
+chi le yi jing	吃了一惊	38265
+chi cheng	驰骋	37460
+chi shen me	吃什么	37175
+chi dian	吃点	36610
+chi rou	吃肉	35600
+chi luo	赤裸	34935
+chi xu xing	持续性	34035
+chi huan	迟缓	33280
+chi xie	吃些	33045
+chi bao	吃饱	32850
+chi zi	斥资	32705
+chi dun	迟钝	32305
+chi he	吃喝	31985
+chi jiu hua	持久化	31591
+chi zheng	持证	31570
+chi luo luo	赤裸裸	31430
+chi zheng shang gang	持证上岗	30620
+chi cun wei	尺寸为	30580
+chi re	炽热	29485
+chi shang	吃上	29465
+chi xu dao	持续到	29240
+chi you zhe	持有者	29220
+chi fan shi	吃饭时	28860
+chi zhu	吃住	28835
+chi zhong	池中	28605
+chi you	蚩尤	28255
+chi bi	赤壁	27665
+chi wan fan	吃完饭	27600
+chi ming	驰名	27090
+chi fa	吃法	27050
+chi qi lai	吃起来	27050
+chi cu	吃醋	25570
+chi dao	赤道	25225
+chi ka	持卡	24735
+chi bu	吃不	24180
+chi zi	尺子	24130
+chi chi	痴痴	24020
+chi ba	吃吧	23370
+chi ze	斥责	22955
+chi he wan le	吃喝玩乐	22755
+chi dai	痴呆	22710
+chi dao le	迟到了	22615
+chi wan fan	吃晚饭	22605
+chi xia	吃下	21525
+chi chi	吃吃	21380
+chi zi	赤字	21345
+chi xu gai jin	持续改进	21225
+chi yu	吃鱼	21210
+chi hao	吃好	21135
+chi su	吃素	20735
+chi shui	池水	20720
+chi gu bi li	持股比例	20650
+chi xin	痴心	20565
+chi ren	吃人	19925
+chi zhi chi	持支持	19650
+chi xu jian kang fa zhan	持续健康发展	19400
+chi nai	吃奶	19230
+chi wan le	吃完了	18695
+chi rou bing	吃肉饼	18500
+chi bao le	吃饱了	18150
+chi jiao	赤脚	18130
+chi le	迟了	18075
+chi tou	吃透	17640
+chi dao	持刀	17575
+chi xu wen ding	持续稳定	17370
+chi dao de	迟到的	16680
+chi xu bu duan	持续不断	16510
+chi fan le	吃饭了	16295
+chi jiu xing	持久性	16215
+chi cao	吃草	15880
+chi zao can	吃早餐	15500
+chi feng shi	赤峰市	15380
+chi shui	吃水	15035
+chi duo le	吃多了	15005
+chi chu	吃出	14900
+chi zao hui	迟早会	14755
+chi zhi yi bi	嗤之以鼻	14550
+chi jie	持戒	14315
+chi qiang	持枪	14285
+chi shui guo	吃水果	14195
+chi huo guo	吃火锅	14055
+chi zi	池子	13990
+chi dai zheng	痴呆症	13935
+chi wu fan	吃午饭	13775
+chi jiu zhan	持久战	13715
+chi a	吃啊	13675
+chi jin	吃进	13050
+chi jin	吃紧	12155
+chi cai	吃菜	12020
+chi you xiao	持有效	11850
+chi ming zhong wai	驰名中外	11805
+chi guo fan	吃过饭	11710
+chi bu xiao	吃不消	11675
+chi zao fan	吃早饭	11495
+chi se	赤色	11385
+chi zha feng yun	叱咤风云	11375
+chi bu bao	吃不饱	11315
+chi cang liang	持仓量	11295
+chi guang	吃光	11180
+chi yi xie	吃一些	11060
+chi piao ren	持票人	10885
+chi xiao	耻笑	10870
+chi fan ba	吃饭吧	10850
+chi zhe	持着	10790
+chi zi	赤子	10715
+chi xia qu	吃下去	10685
+chi xu shang sheng	持续上升	10675
+chi tang	吃糖	10615
+chi zhi	迟滞	10595
+chi yi dun	吃一顿	10525
+chi zhou shi	池州市	10485
+chi piao	持票	10465
+chi lai	迟来	10305
+chi nei	池内	10200
+chi gu	耻骨	10105
+chi bu kai	吃不开	9999
+chi bu lai	吃不来	9999
+chi dou fu fan	吃豆腐饭	9999
+chi duo	吃多	9999
+chi er	吃儿	9999
+chi gan	吃干	9999
+chi gan fan	吃干饭	9999
+chi gan zha jing	吃干榨净	9999
+chi ge	吃个	9999
+chi gong fu	吃功夫	9999
+chi gua	吃瓜	9999
+chi gua lao	吃挂落	9999
+chi gua lao er	吃挂落儿	9999
+chi he er	吃喝儿	9999
+chi hui	吃灰	9999
+chi huo	吃货	9999
+chi kai kou fan	吃开口饭	9999
+chi kong e	吃空额	9999
+chi kong xiang	吃空饷	9999
+chi la mian	吃拉面	9999
+chi le ge	吃了个	9999
+chi ling zui	吃零嘴	9999
+chi mai	斥卖	9999
+chi nv	痴女	9999
+chi pai fan	吃派饭	9999
+chi pian shi	吃偏食	9999
+chi shang pin liang	吃商品粮	9999
+chi shen	持身	9999
+chi shen yan zheng	持身严正	9999
+chi shi tang	吃食堂	9999
+chi tou er	尺头儿	9999
+chi tu	吃土	9999
+chi wa pian er	吃瓦片儿	9999
+chi wang	痴望	9999
+chi xi	吃席	9999
+chi xian cheng fan	吃现成饭	9999
+chi yan zun	赤眼鳟	9999
+chi ye	尺页	9999
+chi yu	耻于	9999
+chi yu zhi huo	池鱼之祸	9999
+chi zhou	吃粥	9999
+chi zong	吃粽	9999
+chi zui	痴醉	9999
+chi cheng	吃撑	9777
+chi ling shi	吃零食	9775
+chi ci	持此	9755
+chi sheng	吃剩	9485
+chi mian	吃面	9445
+chi pang xie	吃螃蟹	9435
+chi hong	赤红	9405
+chi hai xian	吃海鲜	9255
+chi jiu	吃酒	9160
+chi ju zi	斥巨资	9110
+chi cheng	赤诚	8725
+chi xu kuai su zeng zhang	持续快速增长	8435
+chi chao	赤潮	8410
+chi kuang	痴狂	8400
+chi shen luo ti	赤身裸体	8400
+chi zha	叱咤	8240
+chi ma	吃吗	8180
+chi bo	赤膊	8155
+chi lie	炽烈	8130
+chi bi zhi zhan	赤壁之战	7990
+chi bu wan	吃不完	7970
+chi zu	赤足	7945
+chi ma	尺码	7881
+chi le fan	吃了饭	7865
+chi bu dao	吃不到	7735
+chi cha	吃茶	7710
+chi la	吃辣	7470
+chi zheng ren	持证人	7445
+chi bu liao	吃不了	7410
+chi di	池底	7335
+chi dun fan	吃顿饭	7325
+chi tiao	齿条	7225
+chi zi zhi xin	赤子之心	7105
+chi yi dian	吃一点	7060
+chi chuan	吃穿	6975
+chi huai yi tai du	持怀疑态度	6765
+chi mu li lan	赤目丽兰	6666
+chi wen	持稳	6666
+chi wan hou	吃完后	6665
+chi jia	持家	6635
+chi ku zai qian	吃苦在前	6625
+chi shao	赤芍	6595
+chi bao	迟报	6560
+chi lun beng	齿轮泵	6505
+chi shou kong quan	赤手空拳	6485
+chi jin	吃尽	6460
+chi song	赤松	6360
+chi tang li	池塘里	6265
+chi qiu	持球	6250
+chi long	赤龙	6185
+chi dun de	迟钝的	6180
+chi ren shuo meng	痴人说梦	6120
+chi qi	吃起	6100
+chi lun xiang	齿轮箱	6005
+chi bu xia	吃不下	5985
+chi ji	吃鸡	5775
+chi ping guo	吃苹果	5735
+chi ding	吃定	5555
+chi ding le	吃定了	5555
+chi pian	吃片	5555
+chi quan	赤犬	5555
+chi tao	吃桃	5555
+chi zhe zhong	持这种	5510
+chi lun you	齿轮油	5500
+chi jiu ceng	持久层	5481
+chi bi dai gou	持币待购	5405
+chi ren	痴人	5375
+chi bian	吃遍	5325
+chi fan shui jiao	吃饭睡觉	5295
+chi fan shi jian	吃饭时间	5290
+chi bao he zu	吃饱喝足	5195
+chi li bu tao hao	吃力不讨好	5185
+chi luo zhe	赤裸着	5150
+chi jiu he ping	持久和平	5110
+chi ge fan	吃个饭	5105
+chi fan wen ti	吃饭问题	5025
+chi xi gua	吃西瓜	4985
+chi chi	嗤嗤	4950
+chi xu geng xin	持续更新	4950
+chi he la sa	吃喝拉撒	4920
+chi tiao tiao	赤条条	4855
+chi jian	持剑	4830
+chi gu shu	持股数	4825
+chi ke	齿科	4810
+chi chi he he	吃吃喝喝	4800
+chi jiao zi	吃饺子	4770
+chi sheng	炽盛	4730
+chi tu	赤兔	4725
+chi pan	池畔	4715
+chi zhi	持之	4665
+chi na qia yao	吃拿卡要	4590
+chi hou	斥候	4585
+chi xiang	吃相	4580
+chi fan dui	持反对	4490
+chi ling	叱令	4444
+chi wei	吃味	4444
+chi wei er	吃味儿	4444
+chi xu ji cheng	持续集成	4388
+chi de hao	吃得好	4375
+chi shi	吃屎	4375
+chi xiao dou	赤小豆	4310
+chi bi guan wang	持币观望	4295
+chi lun chuan dong	齿轮传动	4295
+chi mei	魑魅	4225
+chi dao zao tui	迟到早退	4195
+chi jiu li	持久力	4175
+chi wei dui	赤卫队	4155
+chi wan can	吃晚餐	4120
+chi zhong	持重	4090
+chi de tai duo	吃得太多	4080
+chi pai	持牌	4030
+chi qing	吃请	4025
+chi shen	赤身	4025
+chi xing	齿形	4020
+chi xiao	嗤笑	3910
+chi yi kou	吃一口	3905
+chi jin shen tai du	持谨慎态度	3890
+chi mu	迟暮	3860
+chi xi can	吃西餐	3840
+chi kong	齿孔	3810
+chi yan	吃盐	3795
+chi ling	敕令	3790
+chi sha	吃啥	3785
+chi tang bian	池塘边	3780
+chi wei	斥为	3750
+chi bao fan	吃饱饭	3690
+chi xin wang xiang	痴心妄想	3690
+chi he piao du	吃喝嫖赌	3680
+chi fan ne	吃饭呢	3675
+chi bi shi	赤壁市	3665
+chi xu	尺许	3665
+chi mei wang liang	魑魅魍魉	3655
+chi you yi yi	持有异议	3635
+chi fan a	吃饭啊	3630
+chi yi zhe	迟疑着	3610
+chi wu can	吃午餐	3605
+chi yin	齿龈	3590
+chi qiang li	持枪礼	3550
+chi bu shang	吃不上	3520
+chi kui le	吃亏了	3510
+chi tu ma	赤兔马	3510
+chi de bao	吃得饱	3455
+chi dou	吃豆	3425
+chi dao	斥道	3410
+chi le guan tai du	持乐观态度	3410
+chi dian shen me	吃点什么	3380
+chi fan de ren	吃饭的人	3375
+chi pin	赤贫	3335
+chi an	吃俺	3333
+chi bang qian	翅膀钱	3333
+chi bi sa	吃比萨	3333
+chi bi sa bing	吃比萨饼	3333
+chi gou	吃够	3333
+chi li	吃梨	3333
+chi me	吃么	3333
+chi ni	吃你	3333
+chi wan	吃碗	3333
+chi wan er	吃碗儿	3333
+chi wo	吃我	3333
+chi zhu	赤柱	3310
+chi xiang de	吃香的	3300
+chi shui he	赤水河	3230
+chi chi	哧哧	3205
+chi jie	持节	3190
+chi zhe jiao	赤着脚	3190
+chi gu liang	持股量	3185
+chi fa	迟发	3146
+chi dou fu	吃豆腐	3080
+chi xie	迟些	3080
+chi yang rou	吃羊肉	3065
+chi zong zi	吃粽子	3065
+chi fou ding tai du	持否定态度	3050
+chi guan	吃惯	3050
+chi zao dian	吃早点	3050
+chi shui shi	赤水市	3035
+chi mi zhe	痴迷者	3030
+chi cun jing du	尺寸精度	3020
+chi da kui	吃大亏	3020
+chi jiao yi sheng	赤脚医生	3010
+chi zhi wei	斥之为	3000
+chi shen me yao	吃什么药	2985
+chi qu	驰去	2975
+chi mian tiao	吃面条	2965
+chi cheng yu	驰骋于	2950
+chi gou rou	吃狗肉	2920
+chi jiao	迟交	2905
+chi ke	吃客	2905
+chi yi yi	持异议	2900
+chi kou	吃口	2895
+chi lian	痴恋	2885
+chi ni	吃腻	2885
+chi bao le cheng de	吃饱了撑的	2840
+chi xin	赤心	2840
+chi cun tu	尺寸图	2830
+chi ruan fan	吃软饭	2785
+chi de duo	吃得多	2755
+chi bing qi lin	吃冰淇淋	2740
+chi huai	吃坏	2740
+chi tian shi	吃甜食	2740
+chi bi fu	赤壁赋	2735
+chi cha jia	吃差价	2730
+chi jin ku tou	吃尽苦头	2720
+chi de	嗤的	2715
+chi jiu hua cun chu	持久化存储	2712
+chi yuan	驰援	2700
+chi bu tong	持不同	2680
+chi kan qu	赤坎区	2675
+chi xia zhu	赤霞珠	2660
+chi fan qu	吃饭去	2640
+chi jin	赤金	2600
+chi nan yuan nv	痴男怨女	2570
+chi xiang	吃香	2555
+chi mei	赤眉	2550
+chi nian ye fan	吃年夜饭	2550
+chi zhi	迟至	2545
+chi zhai	吃斋	2535
+chi fu	尺幅	2525
+chi hun	吃荤	2520
+chi cuo yao	吃错药	2470
+chi xin bu gai	痴心不改	2460
+chi le ma	吃了吗	2420
+chi zhu xing	吃住行	2415
+chi ji ji	持积极	2410
+chi fu lin	迟福林	2402
+chi dao ji nei ya	赤道几内亚	2365
+chi shu	吃书	2345
+chi mao	吃毛	2340
+chi bu guan	吃不惯	2335
+chi dao zhe	迟到者	2335
+chi hui kou	吃回扣	2330
+chi lun jian su	齿轮减速	2310
+chi de shao	吃得少	2290
+chi bu tong yi jian	持不同意见	2270
+chi kuai can	吃快餐	2270
+chi you	吃油	2265
+chi jiu ceng kuang jia	持久层框架	2260
+chi shu	齿数	2255
+chi de guo bao	吃得过饱	2250
+chi niu rou	吃牛肉	2250
+chi zhao	池沼	2250
+chi mu ru	吃母乳	2240
+chi he	叱喝	2230
+chi qu	吃去	2225
+chi fa	赤发	2222
+chi wen	叱问	2222
+chi de guo duo	吃得过多	2200
+chi de ren	吃的人	2200
+chi qiang qiang jie	持枪抢劫	2190
+chi ken ding tai du	持肯定态度	2185
+chi xie	持械	2180
+chi cheng	吃成	2155
+chi ran	炽然	2155
+chi bo shang zhen	赤膊上阵	2125
+chi tu	赤土	2105
+chi tie kuang	赤铁矿	2090
+chi bao liu tai du	持保留态度	2085
+chi zao shi	迟早是	2085
+chi du	尺牍	2080
+chi ming shi jie	驰名世界	2065
+chi zhong yao	吃中药	2065
+chi xiao ye	吃宵夜	2060
+chi dian xin	吃点心	2030
+chi bu de	吃不得	2025
+chi fan dui tai du	持反对态度	2020
+chi you suo duan	尺有所短	2010
+chi yan	迟延	2000
+chi yi bu jue	迟疑不决	1995
+chi bian tian xia	吃遍天下	1990
+chi hen	齿痕	1980
+chi bu chi	吃不吃	1975
+chi chu	踟蹰	1970
+chi de xiao	吃得消	1970
+chi lao ben	吃老本	1970
+chi shang bin	迟尚斌	1965
+chi bi	持币	1960
+chi hao le	吃好了	1950
+chi zheng	持正	1940
+chi de xia	吃得下	1920
+chi da guo fan	吃大锅饭	1915
+chi yi fen	吃一份	1895
+chi mi fan	吃米饭	1890
+chi gu gong si	持股公司	1881
+chi zhuang	齿状	1875
+chi he fan	吃盒饭	1870
+chi quan	齿圈	1865
+chi shou	吃手	1862
+chi guo	驰过	1860
+chi bao chuan nuan	吃饱穿暖	1850
+chi cun gong cha	尺寸公差	1850
+chi cuo	吃错	1850
+chi er	痴儿	1845
+chi lai	驰来	1820
+chi ka zhe	持卡者	1815
+chi ping xian	茌平县	1800
+chi yu	池鱼	1780
+chi han	痴汉	1775
+chi li pa wai	吃里爬外	1770
+chi kui shang dang	吃亏上当	1765
+chi mai cang liang	持卖仓量	1765
+chi mai cang liang	持买仓量	1760
+chi ma	斥骂	1750
+chi de ku zhong ku	吃得苦中苦	1745
+chi dan zhong xin	赤胆忠心	1730
+chi huan	弛缓	1705
+chi yu	池浴	1700
+chi bao zi	吃包子	1670
+chi cheng zhi xin	赤诚之心	1670
+chi liang	吃粮	1655
+chi liu	哧溜	1655
+chi yu	驰誉	1655
+chi bu zhun	吃不准	1640
+chi ge gou	吃个够	1635
+chi ze	叱责	1635
+chi bu zhao	吃不着	1615
+chi fou ding	持否定	1615
+chi zhe wan li	吃着碗里	1615
+chi fan le ma	吃饭了吗	1605
+chi bi yun yao	吃避孕药	1590
+chi lun chang	齿轮厂	1590
+chi dao bao	吃到饱	1585
+chi hui tou cao	吃回头草	1580
+chi de kai	吃得开	1570
+chi gu	尺骨	1540
+chi huang liang	吃皇粮	1540
+chi song zi	赤松子	1540
+chi hao he hao	吃好喝好	1535
+chi chi de xiao	痴痴地笑	1530
+chi zhong can	吃中餐	1530
+chi wei	赤纬	1470
+chi mao	耻毛	1465
+chi qiu	耻丘	1465
+chi hao fan	吃好饭	1435
+chi shou	赤手	1435
+chi cheng huang lv qing lan zi	赤橙黄绿青蓝紫	1430
+chi xu yi nian	持续一年	1430
+chi zhai	持斋	1430
+chi huan ying	持欢迎	1415
+chi jian	齿间	1415
+chi shui nan	吃水难	1385
+chi fan zao	吃饭早	1380
+chi su	尺素	1370
+chi cao	齿槽	1360
+chi fan qu le	吃饭去了	1360
+chi chu	彳亍	1355
+chi jing si liao	吃精饲料	1350
+chi xiang	痴想	1350
+chi guan si	吃官司	1345
+chi ai	痴爱	1340
+chi yin	齿音	1335
+chi zhong wu	池中物	1335
+chi chi de xiao sheng	吃吃的笑声	1310
+chi ruan bu chi ying	吃软不吃硬	1310
+chi xia lai	吃下来	1280
+chi shi	吃食	1269
+chi xia	赤霞	1205
+chi shui	赤水	1202
+chi shu	敕书	1195
+chi ye	驰野	1188
+chi bu chu	吃不出	1185
+chi fan wan	吃饭晚	1185
+chi ri	赤日	1185
+chi tong	赤铜	1185
+chi bi zhi di	赤壁之笛	1180
+chi le chuan	敕勒川	1180
+chi qian wang ba duo	池浅王八多	1180
+chi ri jiang shan li	迟日江山丽	1180
+chi sha tang	赤砂糖	1180
+chi zhe	赤着	1180
+chi zhi gan	迟滞感	1180
+chi qiang zheng	持枪证	1170
+chi zhong	吃重	1170
+chi bian	池边	1169
+chi shang le	吃上了	1165
+chi de shen me	吃的什么	1160
+chi cheng jiang chang	驰骋疆场	1155
+chi yin	齿印	1155
+chi de bi	吃得比	1150
+chi zhe yang	持这样	1150
+chi gen	齿根	1145
+chi he se	赤褐色	1145
+chi le	敕勒	1120
+chi ku tou	吃苦头	1115
+chi bing	吃饼	1111
+chi bo	吃播	1111
+chi chong	吃虫	1111
+chi dun	吃顿	1111
+chi kua	吃垮	1111
+chi kua le	吃垮了	1111
+chi ne	吃呢	1111
+chi si	吃死	1111
+chi ta	吃它	1111
+chi wai	池外	1111
+chi wen	螭吻	1111
+chi wo	持握	1111
+chi zui	吃嘴	1111
+chi xian fan	吃闲饭	1105
+chi jiao da xian	赤脚大仙	1100
+chi zhi	豉汁	1100
+chi ba	尺八	1085
+chi zhi	斥之	1085
+chi bi men geng	吃闭门羹	1075
+chi hua	赤化	1070
+chi sha	痴傻	1060
+chi qu	驰驱	1055
+chi pan	齿盘	1050
+chi gui	尺规	1045
+chi shen me hao	吃什么好	1035
+chi bu	耻部	1030
+chi xiao	痴笑	1030
+chi er nv	痴儿女	1015
+chi ri yan yan	赤日炎炎	1015
+chi de qi	吃得起	1010
+chi ya ba kui	吃哑巴亏	1010
+chi long xia	吃龙虾	1005
+chi pi ping tai du	持批评态度	1000
+chi xiang he la	吃香喝辣	1000
+chi mu	驰目	999
+chi xiang	吃翔	999
+chi yan feng	赤眼蜂	995
+chi pang	吃胖	987
+chi tan	侈谈	980
+chi bu tong zheng jian zhe	持不同政见者	975
+chi chuan zhu xing	吃穿住行	975
+chi jiao de	赤脚的	960
+chi su shi	吃素食	950
+chi di	赤地	940
+chi gu zhe	持股者	935
+chi hun tun	吃馄饨	935
+chi jun	赤军	935
+chi huai yi	持怀疑	930
+chi ren bu tu gu tou	吃人不吐骨头	930
+chi wu	迟误	930
+chi bei guan	持悲观	925
+chi dan	赤胆	925
+chi li	池里	925
+chi dou	赤豆	907
+chi he feng	吃喝风	905
+chi wang	炽旺	888
+chi ren rou	吃人肉	885
+chi duo	褫夺	865
+chi shei	吃谁	855
+chi shui	吃谁	855
+chi zhai nian fo	吃斋念佛	850
+chi cheng xian	赤城县	845
+chi jiu bu shuai	持久不衰	840
+chi chi de deng	痴痴地等	835
+chi dao die xue	赤道叠雪	833
+chi xian	赤县	830
+chi bai shi	吃白食	825
+chi de liao	吃得了	825
+chi le ge jing guang	吃了个精光	825
+chi tong	齿痛	820
+chi tian da zuo	池田大作	815
+chi ji	持戟	810
+chi lun zu	齿轮组	805
+chi bai fan	吃白饭	800
+chi gua zi	吃瓜子	800
+chi le mei you	吃了没有	800
+chi yan	赤焰	800
+chi yan	赤炎	799
+chi zu de	赤足的	794
+chi wang	驰往	790
+chi yan	炽焰	790
+chi cun bi li	尺寸比例	780
+chi de dao	吃得到	775
+chi dan	吃蛋	773
+chi shi	齿式	765
+chi bai zhang	吃败仗	760
+chi dao yi	赤道仪	760
+chi du shi	吃独食	750
+chi yao hou	吃药后	750
+chi de xiang	吃得香	745
+chi yi	翅翼	745
+chi qiang dai tu	持枪歹徒	740
+chi lin yu	赤鳞鱼	737
+chi bu tong kan fa	持不同看法	735
+chi fei	痴肥	735
+chi guan	齿冠	725
+chi leng	齿冷	725
+chi xie	吃血	725
+chi xue	吃血	725
+chi zhun	吃准	725
+chi dao zi	吃刀子	720
+chi ming yu shi	驰名于世	720
+chi pang xie zhe	吃螃蟹者	705
+chi qiong	吃穷	705
+chi du kong jian	尺度空间	704
+chi mao	持矛	700
+chi tou	吃头	700
+chi zhu	驰逐	700
+chi guo	翅果	690
+chi di qian li	赤地千里	685
+chi fan mei you	吃饭没有	680
+chi zhong zhi wu	池中之物	675
+chi chou	持筹	670
+chi zi	匙子	666
+chi bie	吃瘪	665
+chi ling	饬令	665
+chi yi kou fan	吃一口饭	655
+chi tui	斥退	650
+chi chi yi yi	迟迟疑疑	645
+chi zuo	池座	645
+chi xu jiao fu	持续交付	628
+chi zhou	驰骤	625
+chi guo liang	吃过量	620
+chi ju	齿距	620
+chi meng	痴梦	610
+chi qing de ren	痴情的人	610
+chi ma	叱骂	605
+chi dun de ren	迟钝的人	600
+chi ma	赤马	600
+chi le a	吃了啊	595
+chi qing cao	吃青草	590
+chi bi	持笔	580
+chi ge bao	吃个饱	580
+chi jing	齿鲸	580
+chi fan le mei you	吃饭了没有	570
+chi shen me le	吃什么了	570
+chi lu	赤露	565
+chi qu fa	尺取法	563
+chi chun xue	池春雪	562
+chi jiao zi lao hu	吃角子老虎	560
+chi zhi you gu	持之有故	560
+chi zi	翅子	555
+chi chao sheng wu	赤潮生物	553
+chi de xiang	吃得像	550
+chi lian she	赤练蛇	550
+chi xu lian jie	持续连接	550
+chi guo tian wang	持国天王	545
+chi zhu	斥逐	545
+chi fan nan	吃饭难	530
+chi yi qian zhang yi zhi	吃一堑长一智	529
+chi mi	侈靡	520
+chi chu lai	吃出来	515
+chi ming tian xia	驰名天下	515
+chi yi ban	吃一半	510
+chi le xie	迟了些	505
+chi yu zhi yang	池鱼之殃	505
+chi yuan	池苑	505
+chi bu liao dou zhe zou	吃不了兜着走	504
+chi jian	翅尖	499
+chi bu zhu	吃不住	495
+chi he	斥喝	495
+chi diao ta	吃掉他	490
+chi yang	赤杨	485
+chi lai chi qu	吃来吃去	480
+chi kang yan cai	吃糠咽菜	470
+chi mei le	吃美了	468
+chi qing nv	痴情女	465
+chi ru hu xi	齿如瓠犀	465
+chi shang guan si	吃上官司	465
+chi zi	痴子	465
+chi er bu zhang	弛而不张	460
+chi xian tang	赤藓糖	455
+chi qi fan lai	吃起饭来	450
+chi ku zai xian	吃苦在先	440
+chi jiu lian jie	持久连接	425
+chi jin	吃劲	420
+chi zhuo	炽灼	420
+chi xu ji cheng xi tong	持续集成系统	418
+chi yao shi	吃药时	415
+chi xi tang	吃喜糖	410
+chi hou bing	斥候兵	405
+chi pi bing	赤皮病	405
+chi chuan yong du	吃穿用度	395
+chi dai dai	痴呆呆	395
+chi xiao zao	吃小灶	395
+chi diao ta	吃掉她	390
+chi xin ren	痴心人	390
+chi dao mian	赤道面	385
+chi de wan	吃得完	385
+chi guo le ma	吃过了吗	385
+chi heng	持衡	385
+chi huo guo le	吃火锅了	385
+chi lin	赤磷	385
+chi yi qian	吃一堑	380
+chi zhang	痴长	380
+chi xin	吃心	375
+chi bu tou	吃不透	370
+chi ba	齿耙	360
+chi da hu	吃大户	355
+chi tu	驰突	350
+chi xin han	痴心汉	350
+chi zao hui lai	迟早会来	350
+chi jin	弛禁	345
+chi fan xian xi shou	吃饭先洗手	340
+chi gui zuo tu	尺规作图	340
+chi guo zhong fan	吃过中饭	340
+chi le yi ge	吃了一个	340
+chi lun de	齿轮的	340
+chi ji qu	吃鸡去	339
+chi lun de chi	齿轮的齿	335
+chi qiu zhe	持球者	335
+chi she	齿舌	335
+chi wo de	吃我的	333
+chi qiang zhe	持枪者	330
+chi fa xing bian tai fan ying	迟发型变态反应	323
+chi mu gang xian	赤木刚宪	320
+chi xu wen ding de zeng zhang	持续稳定地增长	320
+chi lun chi tiao shi zhuan xiang	齿轮齿条式转向	316
+chi cheng zong heng	驰骋纵横	315
+chi ji	齿及	315
+chi shui xian	吃水线	315
+chi li	斥力	312
+chi kang	吃糠	311
+chi le ge fan	吃了个饭	310
+chi shui	迟睡	310
+chi you du pin	持有毒品	300
+chi qiang quan	持枪权	297
+chi jiao	吃教	295
+chi hao hao	吃好好	292
+chi sang zhen	赤桑镇	290
+chi xian shen zhou	赤县神州	290
+chi zui bu qi	吃罪不起	290
+chi fan jia huo	吃饭家伙	280
+chi mao shu	吃猫鼠	279
+chi you pian jian	持有偏见	275
+chi chu bu qian	踟蹰不前	270
+chi jia sheng xiang	齿颊生香	265
+chi mu	赤木	265
+chi fan le ba	吃饭了吧	260
+chi yan qian kui	吃眼前亏	260
+chi you quan	持有权	260
+chi gang ta	赤岗塔	257
+chi ying bao tai	持盈保泰	255
+chi bei	赤背	250
+chi pin zhe	赤贫者	250
+chi re de	吃热的	250
+chi you quan zheng	持有权证	249
+chi kong	吃空	246
+chi kao quan yang	吃烤全羊	245
+chi qing	炽情	245
+chi xian cheng	吃现成	245
+chi fen	吃粉	239
+chi de shang	吃得上	235
+chi geng	齿更	235
+chi chen	赤忱	230
+chi xie	赤血	230
+chi xing	吃杏	230
+chi xue	赤血	230
+chi ying bu chi ruan	吃硬不吃软	225
+chi feng	赤峰	222
+chi yong	吃用	222
+chi de qi ku	吃得起苦	220
+chi ya dan	吃鸭蛋	220
+chi bu zhu jin	吃不住劲	215
+chi you jia bi zui	持有假币罪	213
+chi tian shi	炽天使	211
+chi bei ou tan	池北偶谈	200
+chi bu qi fan	吃不起饭	200
+chi guan zi	吃馆子	200
+chi kao chang	吃烤肠	200
+chi ping qu	茌平区	198
+chi gu jian	螭骨剑	197
+chi mu gua	吃木瓜	197
+chi tang guo	吃糖果	197
+chi cheng xiang jian	赤诚相见	195
+chi de wan	吃得晚	195
+chi gua jiao	赤瓜礁	195
+chi guo tian	持国天	195
+chi hao tian	迟浩田	195
+chi bao cheng de	吃饱撑的	194
+chi jing sha xi	赤井沙希	193
+chi jiao zi le ma	吃饺子了吗	192
+chi gua ren	吃瓜人	191
+chi yang shen guang	炽阳神光	191
+chi diao ta	吃掉它	190
+chi tang yuan	吃汤圆	190
+chi xu tui dong	持续推动	188
+chi xu sheng wen	持续升温	186
+chi mai dang lao	吃麦当劳	185
+chi xin xun tian	赤心巡天	185
+chi bing bang	吃冰棒	184
+chi cun bu he ge	尺寸不合格	183
+chi ban li	赤坂丽	181
+chi dong mai	尺动脉	180
+chi xu fa li	持续发力	180
+chi yi yi zhe	持异议者	180
+chi xian tang chun	赤藓糖醇	179
+chi hao shui hao	吃好睡好	178
+chi nan gua	吃南瓜	178
+chi bu zhu le	吃不住了	175
+chi le ge gan jing	吃了个干净	175
+chi shao bing	吃烧饼	172
+chi lun xi	齿轮系	170
+chi dao shang ren	持刀伤人	169
+chi dou yuan xiao	赤豆元宵	169
+chi sha zi	吃沙子	168
+chi bing fen	吃冰粉	167
+chi jing	赤颈	167
+chi jiu fa zhan	持久发展	167
+chi tian yi lai sha	池田依来沙	167
+chi yan pao xiao hu	炽焰咆哮虎	166
+chi hua	痴话	165
+chi shang le	吃伤了	165
+chi you qi	蚩尤旗	163
+chi le jiao zi	吃了饺子	161
+chi liang mian	吃凉面	161
+chi xu shu chu	持续输出	161
+chi fu	迟复	160
+chi sha	赤沙	160
+chi shui liang	吃水量	160
+chi xin nv zi	痴心女子	160
+chi fa	持法	159
+chi qing dan dian	吃清淡点	159
+chi chi bu lai	迟迟不来	158
+chi xi hong shi	吃西红柿	156
+chi dou jiang	吃豆浆	155
+chi xu shang hai	持续伤害	155
+chi hao he hao wan hao	吃好喝好玩好	154
+chi hen she	齿痕舌	153
+chi fei rou	吃肥肉	152
+chi gang chong	赤岗冲	152
+chi ku gua	吃苦瓜	152
+chi chu wei er	赤楚卫二	151
+chi ge pi	吃个屁	150
+chi zhe ne	吃着呢	150
+chi duo feng hao	褫夺封号	148
+chi fan kan dian ying	吃饭看电影	148
+chi gua chi gua	吃瓜吃瓜	148
+chi yi xia	吃一下	148
+chi qing tuan	吃青团	146
+chi bao he hao	吃饱喝好	145
+chi bao mei shi gan	吃饱没事干	145
+chi ge ji dan	吃个鸡蛋	145
+chi le ge bian	吃了个遍	145
+chi ji mo shi	吃鸡模式	144
+chi qing zhong	痴情冢	144
+chi you zi	吃柚子	142
+chi hu shu sheng	赤狐书生	141
+chi yan shou	赤焰兽	140
+chi yan yao	赤焰妖	139
+chi lan mei	吃蓝莓	138
+chi hao wan hao	吃好玩好	137
+chi guang jian	赤光剑	136
+chi le dian fan	吃了点饭	136
+chi men zi	吃焖子	136
+chi xu fen dou	持续奋斗	136
+chi bao yu	吃鲍鱼	135
+chi er guang	吃耳光	135
+chi hou hui yao	吃后悔药	135
+chi xin nv zi fu xin han	痴心女子负心汉	135
+chi da zha xie	吃大闸蟹	132
+chi he jin	炽合金	132
+chi su de shi zi	吃素的狮子	131
+chi ge bian	吃个遍	130
+chi da e	吃大鹅	127
+chi hu yu dao	吃虎鱼刀	127
+chi liang fen	吃两份	126
+chi song feng	赤松枫	126
+chi yi duan	吃一段	126
+chi ge	斥革	125
+chi xing lian	齿形链	125
+chi xu shi	持续式	125
+chi da xi	吃大席	123
+chi ge ping guo	吃个苹果	123
+chi guo jian guo	吃过见过	123
+chi qiu lv	持球率	123
+chi xing	驰行	123
+chi yi chi	吃一吃	123
+chi hu zhen	赤湖镇	122
+chi san huo fan	吃散伙饭	121
+chi zao cha	吃早茶	121
+chi zhe huo guo	吃着火锅	121
+chi fa qiu	吃发球	120
+chi le ge da kui	吃了个大亏	120
+chi li zhi	吃荔枝	118
+chi feng bin guan	赤峰宾馆	116
+chi xi cun	赤溪村	116
+chi xie dou ou	持械斗殴	115
+chi tuan yuan fan	吃团圆饭	114
+chi pi pa	吃枇杷	113
+chi gua qun	吃瓜群	112
+chi jue hu	吃绝户	112
+chi shen miao	池神庙	112
+chi bing	吃冰	111
+chi dun	持盾	111
+chi feng	敕封	111
+chi hou	吃后	111
+chi hu	赤狐	111
+chi hua	吃花	111
+chi mo	齿模	111
+chi ya yu hui	齿牙余慧	111
+chi yi bu jue	持疑不决	111
+chi yi wei jue	迟疑未决	111
+chi yong	持用	111
+chi you	豉油	111
+chi duo	叱咄	110
+chi yang mei	吃杨梅	109
+chi yue han	池约翰	109
+chi huo dou	吃货豆	108
+chi shi zhen	池石镇	108
+chi xu gai shan	持续改善	108
+chi mu zhi nian	迟暮之年	106
+chi xu fa jiao	持续发酵	106
+chi de lai	吃得来	105
+chi de zhu	吃得住	105
+chi jiu wen gu	持久稳固	105
+chi ling lu	赤岭路	105
+chi qiang zi	吃枪子	105
+chi wan jiao zi	吃完饺子	103
+chi feng lu	赤峰路	102
+chi tu zhi si	赤兔之死	102
+chi mei le	吃没了	101
+chi yan le	吃厌了	101
+chi ai you xi	炽爱游戏	100
+chi an lao sun	吃俺老孙	100
+chi an lao sun yi bang	吃俺老孙一棒	100
+chi ba a	吃吧啊	100
+chi ba ba	吃粑粑	100
+chi ba fang	吃八方	100
+chi ba wang can	吃霸王餐	100
+chi bai chun hong	齿白唇红	100
+chi bai jia fan zhang da	吃百家饭长大	100
+chi bai luo bo	吃白萝卜	100
+chi bai xiang	吃白象	100
+chi ban dao mian	吃板刀面	100
+chi ban dou shi	尺板斗食	100
+chi ban ming	赤坂明	100
+chi bang bang tang	吃棒棒糖	100
+chi bang xi tong	翅膀系统	100
+chi bang ying le	翅膀硬了	100
+chi bang zhang ying	翅膀长硬	100
+chi bang zhe	持棒者	100
+chi bao cheng zhe	吃饱撑着	100
+chi bao di	吃保底	100
+chi bao jiu xing	吃饱就行	100
+chi bao la	吃饱啦	100
+chi bao le ba	吃饱了吧	100
+chi bao le cai you li qi	吃饱了才有力气	100
+chi bao le cheng	吃饱了撑	100
+chi bao le cheng zhe	吃饱了撑着	100
+chi bao le fan	吃饱了饭	100
+chi bao le fan cheng de	吃饱了饭撑的	100
+chi bao le jiu shui	吃饱了就睡	100
+chi bao le ma	吃饱了吗	100
+chi bao le ma	吃饱了嘛	100
+chi bao le me	吃饱了么	100
+chi bao le mei	吃饱了没	100
+chi bao le mei shi gan	吃饱了没事干	100
+chi bao le mei shi zuo	吃饱了没事做	100
+chi bao le shui	吃饱了睡	100
+chi bao le ya	吃饱了呀	100
+chi bao mei	吃饱没	100
+chi bao mei chi bao	吃饱没吃饱	100
+chi bao pai	赤宝牌	100
+chi bi ao bing	赤壁鏖兵	100
+chi bi huai gu	赤壁怀古	100
+chi bi xian	赤壁县	100
+chi bian cheng cai	驰辩逞才	100
+chi bian fan	吃便饭	100
+chi bie le	吃瘪了	100
+chi bie le ba	吃瘪了吧	100
+chi bing gan	吃饼干	100
+chi bo hang ye	吃播行业	100
+chi bu bao fan	吃不饱饭	100
+chi bu chi a	吃不吃啊	100
+chi bu chi de bao	吃不吃得饱	100
+chi bu chi de bao a	吃不吃得饱啊	100
+chi bu chi de bao ya	吃不吃得饱呀	100
+chi bu chi de liao	吃不吃得了	100
+chi bu chi de liao ku	吃不吃得了苦	100
+chi bu chi de wan	吃不吃得完	100
+chi bu chi de xia	吃不吃得下	100
+chi bu chi fan	吃不吃饭	100
+chi bu chi fan a	吃不吃饭啊	100
+chi bu chi fan ba	吃不吃饭吧	100
+chi bu chi fan fan	吃不吃饭饭	100
+chi bu chi fan la	吃不吃饭啦	100
+chi bu chi fan lou	吃不吃饭喽	100
+chi bu chi fan ma	吃不吃饭吗	100
+chi bu chi fan o	吃不吃饭哦	100
+chi bu chi fan wa	吃不吃饭哇	100
+chi bu chi fan ya	吃不吃饭呀	100
+chi bu chi jing	吃不吃惊	100
+chi bu chi jing a	吃不吃惊啊	100
+chi bu chi jing ya	吃不吃惊呀	100
+chi bu chi le	吃不吃了	100
+chi bu chi ya	吃不吃呀	100
+chi bu chi yao	吃不吃药	100
+chi bu chi yao a	吃不吃药啊	100
+chi bu chi yao ya	吃不吃药呀	100
+chi bu chu a	吃不出啊	100
+chi bu chu lai	吃不出来	100
+chi bu dao pu tao shuo pu tao suan	吃不到葡萄说葡萄酸	100
+chi bu de ku	吃不得苦	100
+chi bu dong le	吃不动了	100
+chi bu dou su	尺布斗粟	100
+chi bu fu	吃不服	100
+chi bu hui lai	吃不回来	100
+chi bu jin	吃不进	100
+chi bu jin qu	吃不进去	100
+chi bu liao duo shao	吃不了多少	100
+chi bu liao fan	吃不了饭	100
+chi bu liao ji	吃不了鸡	100
+chi bu liao ku	吃不了苦	100
+chi bu liao la	吃不了辣	100
+chi bu liao le	吃不了了	100
+chi bu liao re dou fu	吃不了热豆腐	100
+chi bu pang niang	吃不胖娘	100
+chi bu qi le	吃不起了	100
+chi bu shang cai	吃不上菜	100
+chi bu shang fan	吃不上饭	100
+chi bu shang fan le	吃不上饭了	100
+chi bu shang le	吃不上了	100
+chi bu shang rou	吃不上肉	100
+chi bu sheng qu	尺步绳趋	100
+chi bu si ni	吃不死你	100
+chi bu tong zheng jian	持不同政见	100
+chi bu wan de	吃不完的	100
+chi bu wan dou zhe zou	吃不完兜着走	100
+chi bu xi guan	吃不习惯	100
+chi bu xia le	吃不下了	100
+chi bu xia qu	吃不下去	100
+chi bu xian le	吃不闲了	100
+chi bu xiao le	吃不消了	100
+chi bu ying	吃不赢	100
+chi cai cai	吃菜菜	100
+chi cai cai ba	吃菜菜吧	100
+chi cang ji zhong du	持仓集中度	100
+chi cang ying	吃苍蝇	100
+chi chang min	池昌民	100
+chi chang shou mian	吃长寿面	100
+chi chang zhai	吃长斋	100
+chi cheng la	吃撑啦	100
+chi cheng le	吃撑了	100
+chi cheng le ba	吃撑了吧	100
+chi cheng le ma	吃撑了吗	100
+chi cheng sha chang	驰骋沙场	100
+chi cheng tian xia	驰骋天下	100
+chi cheng xiang dai	赤诚相待	100
+chi cheng yi ge	吃成一个	100
+chi cheng yi ge pang zi	吃成一个胖子	100
+chi cheng zhang kuai le	吃成长快乐	100
+chi chi bu chu xian	迟迟不出现	100
+chi chi bu fa huo	迟迟不发货	100
+chi chi bu huan	迟迟不还	100
+chi chi chi	吃吃吃	100
+chi chi de	痴痴地	100
+chi chi de	痴痴的	100
+chi chi de ai zhe	痴痴地爱着	100
+chi chi de wang	痴痴地望	100
+chi chi de wang zhe	痴痴地望着	100
+chi chi de xiao le	痴痴地笑了	100
+chi chi mei you jin zhan	迟迟没有进展	100
+chi chi sha sha	痴痴傻傻	100
+chi chong qing	吃重庆	100
+chi chong yang gao	吃重阳糕	100
+chi chou wo suan	持筹握算	100
+chi chu bu jin	踟蹰不进	100
+chi chuan pian wa	尺椽片瓦	100
+chi chuan zhu yong xing	吃穿住用行	100
+chi chun bing	吃春饼	100
+chi chun bing a	吃春饼啊	100
+chi chun bing le	吃春饼了	100
+chi chun bing le ma	吃春饼了吗	100
+chi chun juan	吃春卷	100
+chi ci zhai ju	摛词摘句	100
+chi cong chi suan bu chi jiang	吃葱吃蒜不吃姜	100
+chi cu la	吃醋啦	100
+chi cu le	吃醋了	100
+chi cu nian suan	吃醋拈酸	100
+chi cun can kao	尺寸参考	100
+chi cun can shu	尺寸参数	100
+chi cun chang	尺寸长	100
+chi cun guo da	尺寸过大	100
+chi cun he zhong liang	尺寸和重量	100
+chi cun jing du gao	尺寸精度高	100
+chi cun jing du yao qiu	尺寸精度要求	100
+chi cun qian li	尺寸千里	100
+chi cun tiao zheng	尺寸调整	100
+chi cun xi lie	尺寸系列	100
+chi cun zhi di	尺寸之地	100
+chi cun zhi lao	尺寸之劳	100
+chi cun zhong liang	尺寸重量	100
+chi cuo dong xi	吃错东西	100
+chi cuo le dong xi	吃错了东西	100
+chi cuo le shen me yao	吃错了什么药	100
+chi cuo le yao	吃错了药	100
+chi cuo yao le	吃错药了	100
+chi da bian le	吃大便了	100
+chi da can	吃大餐	100
+chi da kuai de chun rou	吃大块的纯肉	100
+chi da kuai de rou	吃大块的肉	100
+chi da kui le	吃大亏了	100
+chi dai meng dong	痴呆懵懂	100
+chi dao chuang qia	持刀闯卡	100
+chi dao de zhu fu	迟到的祝福	100
+chi dao di qu	赤道地区	100
+chi dao dong zhang	持刀动杖	100
+chi dao fu jin	赤道附近	100
+chi dao huan	赤道环	100
+chi dao ni liu	赤道逆流	100
+chi dao nong bang	持刀弄棒	100
+chi dao qiang jie	持刀抢劫	100
+chi dao qu	赤道区	100
+chi dao xing xiong	持刀行凶	100
+chi dao yi ge	吃到一个	100
+chi dao yu lin	赤道雨林	100
+chi de an quan	吃得安全	100
+chi de an xin	吃得安心	100
+chi de bao bao	吃得饱饱	100
+chi de bao bao de	吃得饱饱的	100
+chi de bao chuan de nuan	吃得饱穿得暖	100
+chi de bao fan	吃得饱饭	100
+chi de bi jiao duo	吃得比较多	100
+chi de bu duo	吃得不多	100
+chi de bu hao	吃得不好	100
+chi de bu hao a	吃得不好啊	100
+chi de bu yi le hu	吃得不亦乐乎	100
+chi de cha	吃得差	100
+chi de cha bu duo	吃得差不多	100
+chi de cha bu duo le	吃得差不多了	100
+chi de chu	吃得出	100
+chi de chu lai	吃得出来	100
+chi de di fang	吃的地方	100
+chi de fang xin	吃得放心	100
+chi de geng duo	吃得更多	100
+chi de geng fang xin	吃得更放心	100
+chi de geng hao	吃得更好	100
+chi de geng jian kang	吃得更健康	100
+chi de gou	吃得够	100
+chi de guan	吃得惯	100
+chi de guan ma	吃得惯吗	100
+chi de guo yin	吃得过瘾	100
+chi de hai ke yi	吃得还可以	100
+chi de hao a	吃得好啊	100
+chi de hao ba	吃得好吧	100
+chi de hao bao	吃得好饱	100
+chi de hao bu hao	吃得好不好	100
+chi de he de	吃的喝的	100
+chi de hen bao	吃得很饱	100
+chi de hen hao	吃得很好	100
+chi de hen hao a	吃得很好啊	100
+chi de hen hao ba	吃得很好吧	100
+chi de hen hao ya	吃得很好呀	100
+chi de hen kai xin	吃得很开心	100
+chi de hen li hai	吃得很厉害	100
+chi de hen shao	吃得很少	100
+chi de hen xiang	吃得很香	100
+chi de jian kang	吃得健康	100
+chi de jin jin you wei	吃得津津有味	100
+chi de kai xin	吃得开心	100
+chi de ku	吃得苦	100
+chi de kuai	吃得快	100
+chi de liao ku	吃得了苦	100
+chi de liao la	吃得了辣	100
+chi de man	吃得慢	100
+chi de man yi	吃得满意	100
+chi de qing dan	吃得清淡	100
+chi de shang fan	吃得上饭	100
+chi de shen me a	吃的什么啊	100
+chi de shen me cai	吃的什么菜	100
+chi de shi shen me	吃的是什么	100
+chi de shu fu	吃得舒服	100
+chi de shu xin	吃得舒心	100
+chi de shuang	吃得爽	100
+chi de si si	吃得死死	100
+chi de su du	吃的速度	100
+chi de tai bao	吃得太饱	100
+chi de tai duo le	吃得太多了	100
+chi de tai hao	吃得太好	100
+chi de tai kuai	吃得太快	100
+chi de tai shao	吃得太少	100
+chi de tai xian	吃得太咸	100
+chi de tai you ni	吃得太油腻	100
+chi de ting bu xia lai	吃得停不下来	100
+chi de ting xiang	吃得挺香	100
+chi de wan ma	吃得完吗	100
+chi de xia fan	吃得下饭	100
+chi de ye bu duo	吃得也不多	100
+chi de yi gan er jing	吃得一干二净	100
+chi de ying yang	吃得营养	100
+chi de yue duo yue hao	吃得越多越好	100
+chi de zen me yang	吃得怎么样	100
+chi de zhen cha	吃得真差	100
+chi de zhen hao	吃得真好	100
+chi de zui duo	吃得最多	100
+chi de zui hao	吃得最好	100
+chi di cun jie	尺地寸阶	100
+chi di gou you	吃地沟油	100
+chi di gua	吃地瓜	100
+chi di mian	吃地面	100
+chi di nv zi	赤地女子	100
+chi dian ba	迟点吧	100
+chi dian cai	吃点菜	100
+chi dian dong xi	吃点东西	100
+chi dian dong xi ba	吃点东西吧	100
+chi dian er	吃点儿	100
+chi dian er cai	吃点儿菜	100
+chi dian er hao de	吃点儿好的	100
+chi dian er kui	吃点儿亏	100
+chi dian er kui ba	吃点儿亏吧	100
+chi dian hao de	吃点好的	100
+chi dian jiao zi	吃点饺子	100
+chi dian kui	吃点亏	100
+chi dian kui ba	吃点亏吧	100
+chi dian re hu	吃点热乎	100
+chi dian re hu de	吃点热乎的	100
+chi dian yao ba	吃点药吧	100
+chi dian yuan xiao	吃点元宵	100
+chi diao le	吃掉了	100
+chi diao ni de	吃掉你的	100
+chi ding ni le	吃定你了	100
+chi dong kai	赤胴铠	100
+chi dong xi le ma	吃东西了吗	100
+chi dou chi bu wan	吃都吃不完	100
+chi dou dou	吃豆豆	100
+chi dou gan	吃豆干	100
+chi dou ren	吃豆人	100
+chi dou zhou	赤豆粥	100
+chi du ba wo	尺度把握	100
+chi du bi jiao da	尺度比较大	100
+chi du biao zhun	尺度标准	100
+chi du bu song	尺度不松	100
+chi du bu yi	尺度不一	100
+chi du da	尺度大	100
+chi du da dan	尺度大胆	100
+chi du da kai	尺度大开	100
+chi du de ba wo	尺度的把握	100
+chi du dian ying	尺度电影	100
+chi du fei chang da	尺度非常大	100
+chi du gan	尺度感	100
+chi du geng da	尺度更大	100
+chi du guo da	尺度过大	100
+chi du hen da	尺度很大	100
+chi du hua	尺度化	100
+chi du ji da de tu pian	尺度极大的图片	100
+chi du jiao da	尺度较大	100
+chi du jing ren	尺度惊人	100
+chi du si pai	尺度私拍	100
+chi du tai da	尺度太大	100
+chi du wen ti	尺度问题	100
+chi du xiao	尺度小	100
+chi du you dian da	尺度有点大	100
+chi du zhi da	尺度之大	100
+chi du zi pai	尺度自拍	100
+chi du zui da	尺度最大	100
+chi duan xin	吃短信	100
+chi dun bian fan	吃顿便饭	100
+chi dun hao de	吃顿好的	100
+chi duo bing quan	褫夺兵权	100
+chi duo chang	尺多长	100
+chi duo chang shi jian	吃多长时间	100
+chi duo gong quan	褫夺公权	100
+chi duo le bu hao	吃多了不好	100
+chi duo le da yu da rou	吃多了大鱼大肉	100
+chi duo le hui pang	吃多了会胖	100
+chi duo le rong yi shang huo	吃多了容易上火	100
+chi duo le shang huo	吃多了上火	100
+chi duo shao ku tou	吃多少苦头	100
+chi er shuo meng	痴儿说梦	100
+chi er xiu cai	尺二秀才	100
+chi fa xing sun shang	迟发性损伤	100
+chi fan bu ji ji	吃饭不积极	100
+chi fan de	吃饭的	100
+chi fan de di er	吃饭的地儿	100
+chi fan de di fang	吃饭的地方	100
+chi fan de shi hou	吃饭的时候	100
+chi fan de su du	吃饭的速度	100
+chi fan di dian	吃饭地点	100
+chi fan dou cheng wen ti	吃饭都成问题	100
+chi fan fan	吃饭饭	100
+chi fan fan ba	吃饭饭吧	100
+chi fan fang ye	吃饭防噎	100
+chi fan hang qing	吃饭行情	100
+chi fan he shui jiao	吃饭和睡觉	100
+chi fan le a	吃饭了啊	100
+chi fan le ma	吃饭了嘛	100
+chi fan le me	吃饭了么	100
+chi fan le mei	吃饭了没	100
+chi fan le mei a	吃饭了没啊	100
+chi fan le mei you a	吃饭了没有啊	100
+chi fan le ne	吃饭了呢	100
+chi fan lo	吃饭咯	100
+chi fan ma	吃饭吗	100
+chi fan mei	吃饭没	100
+chi fan mei a	吃饭没啊	100
+chi fan mei wei kou	吃饭没胃口	100
+chi fan mei you a	吃饭没有啊	100
+chi fan qian	吃饭前	100
+chi fan qie	吃番茄	100
+chi fan qu lou	吃饭去喽	100
+chi fan qu ma	吃饭去吗	100
+chi fan shui jiao da dou dou	吃饭睡觉打豆豆	100
+chi fan su du	吃饭速度	100
+chi fan zhu su	吃饭住宿	100
+chi fen ruo	赤奋若	100
+chi feng di qu	赤峰地区	100
+chi feng dui diao	赤峰对调	100
+chi feng fen hang	赤峰分行	100
+chi feng shi ke shi ke teng qi	赤峰市克什克腾旗	100
+chi fu qian li	尺幅千里	100
+chi ga li	吃咖喱	100
+chi gan cu	吃干醋	100
+chi gan le	吃干了	100
+chi gan mo jing	吃干抹净	100
+chi ge bao fan	吃个饱饭	100
+chi ge bian fan	吃个便饭	100
+chi ge fan jiu	吃个饭就	100
+chi ge fan jiu zou	吃个饭就走	100
+chi ge ji ba	吃个鸡巴	100
+chi ge li	吃蛤蜊	100
+chi ge pi a	吃个屁啊	100
+chi ge sha	吃个啥	100
+chi ge shao kao	吃个烧烤	100
+chi ge wan can	吃个晚餐	100
+chi ge wu can	吃个午餐	100
+chi ge xi gua	吃个西瓜	100
+chi ge xue gao	吃个雪糕	100
+chi ge ya ba kui	吃个哑巴亏	100
+chi ge ye xiao	吃个夜宵	100
+chi ge yue bing	吃个月饼	100
+chi ge zao can	吃个早餐	100
+chi ge zao fan	吃个早饭	100
+chi gong ka	持工卡	100
+chi gu huan mi	吃谷还米	100
+chi gu ji zhong du	持股集中度	100
+chi gua de	吃瓜的	100
+chi gua le	吃瓜了	100
+chi gua qun zhong	吃瓜群众	100
+chi guan le	吃惯了	100
+chi guan le da yu da rou	吃惯了大鱼大肉	100
+chi guan wang tai du	持观望态度	100
+chi guang le	吃光了	100
+chi gui wang	赤鬼王	100
+chi guo de ren dou zhi dao	吃过的人都知道	100
+chi guo fan le ba	吃过饭了吧	100
+chi guo fan le ma	吃过饭了吗	100
+chi guo fan le mei	吃过饭了没	100
+chi guo le	吃过了	100
+chi guo le na	吃过了那	100
+chi guo mei	吃过没	100
+chi guo mian	吃过面	100
+chi guo shen me	吃过什么	100
+chi guo shi fei	耻过饰非	100
+chi guo sui fei	耻过遂非	100
+chi guo zhi quan	持国执权	100
+chi guo zhu rou	吃过猪肉	100
+chi hai shen	吃海参	100
+chi hai shi bu chi	吃还是不吃	100
+chi han xi lie	痴汉系列	100
+chi hao fan le	吃好饭了	100
+chi hao le ba	吃好了吧	100
+chi hao le ma	吃好了嘛	100
+chi hao le me	吃好了么	100
+chi he jia huan	吃合家欢	100
+chi he tun	吃河豚	100
+chi he wan	吃喝玩	100
+chi he wan le gou	吃喝玩乐购	100
+chi he wan le yi tiao long	吃喝玩乐一条龙	100
+chi he wan le yi zhan shi	吃喝玩乐一站式	100
+chi he xiang le	吃喝享乐	100
+chi he yong du	吃喝用度	100
+chi he zhu xing	吃喝住行	100
+chi hen duo ku tou	吃很多苦头	100
+chi hong jia	赤红甲	100
+chi hong se	赤红色	100
+chi hong se de	赤红色的	100
+chi hong xin zhe	驰宏锌锗	100
+chi hu luo bo	吃胡萝卜	100
+chi hua jiao	吃花椒	100
+chi hua jie	池华街	100
+chi huai hua	吃槐花	100
+chi huai le dong xi	吃坏了东西	100
+chi huai le du zi	吃坏了肚子	100
+chi huan de	迟缓的	100
+chi hui guan wang	迟回观望	100
+chi hui zhuang tai	吃灰状态	100
+chi hun dang po	驰魂宕魄	100
+chi hun duo po	驰魂夺魄	100
+chi huo e	尺蠖蛾	100
+chi huo tou tong	齿豁头童	100
+chi huo tui	吃火腿	100
+chi huo zhi qu	尺蠖之屈	100
+chi ji a	吃鸡啊	100
+chi ji ba	吃鸡吧	100
+chi ji da bu da	吃鸡打不打	100
+chi ji jia	吃鸡架	100
+chi ji la	吃鸡啦	100
+chi ji le	吃鸡了	100
+chi ji li	吃几粒	100
+chi ji lv	吃鸡率	100
+chi ji pa	吃鸡扒	100
+chi ji pai	吃鸡排	100
+chi ji se cong	赤基色蟌	100
+chi ji shou shi wu	吃鸡手势舞	100
+chi ji wan gan fan	吃几碗干饭	100
+chi ji wu fu	尺籍伍符	100
+chi ji yao	吃鸡摇	100
+chi jia fan e ye shi	吃家饭屙野屎	100
+chi jian zhi tian	持剑指天	100
+chi jiang ya yao	吃降压药	100
+chi jiao lv shi	赤脚律师	100
+chi jiao xing zou	赤脚行走	100
+chi jiao zi qu	吃饺子去	100
+chi jin dang guang	吃尽当光	100
+chi jin le ku tou	吃尽了苦头	100
+chi jin qu	吃进去	100
+chi jin shen le guan tai du	持谨慎乐观态度	100
+chi jing bu chi jing	吃惊不吃惊	100
+chi jing de	吃惊地	100
+chi jing de fa xian	吃惊地发现	100
+chi jing yu	赤睛鱼	100
+chi jiu de guan xi	持久的关系	100
+chi jiu du	持久度	100
+chi jiu lin rou	池酒林肉	100
+chi jiu lin zi	池酒林胾	100
+chi jiu xing du ji	持久性毒剂	100
+chi ju ren hou	耻居人后	100
+chi ju ren xia	耻居人下	100
+chi ju wang hou	耻居王后	100
+chi kai fang tai du	持开放态度	100
+chi kan lou	赤崁楼	100
+chi kao ji a	吃烤鸡啊	100
+chi kao ma hou	赤尻马猴	100
+chi kao rou	吃烤肉	100
+chi kao ya	吃烤鸭	100
+chi ke ai duo zhang da	吃可爱多长大	100
+chi ke ai zhang da de	吃可爱长大的	100
+chi ken de ji	吃肯德基	100
+chi kou mian	吃口面	100
+chi kou mian ba	吃口面吧	100
+chi kou ri	赤口日	100
+chi kou shao cheng	赤口烧城	100
+chi ku xiang le zai yi qi	吃苦享乐在一起	100
+chi ku zhong ku	吃苦中苦	100
+chi kuai tang	吃块糖	100
+chi kui bu shi fu	吃亏不是福	100
+chi kui jiu shi zhan pian yi	吃亏就是占便宜	100
+chi kui mei chi kui	吃亏没吃亏	100
+chi kui shi fu	吃亏是福	100
+chi kui shi fu ma	吃亏是福吗	100
+chi kuo xiu xing	齿廓修形	100
+chi la mian	吃辣面	100
+chi lai de	迟来的	100
+chi lai de ai	迟来的爱	100
+chi lai de shen qing	迟来的深情	100
+chi lai de zhu fu	迟来的祝福	100
+chi lai guang	池赖广	100
+chi lao fan	吃牢饭	100
+chi le an kui	吃了暗亏	100
+chi le ba	吃了吧	100
+chi le bai zhang	吃了败仗	100
+chi le ban ge yue	吃了半个月	100
+chi le bao zi dan	吃了豹子胆	100
+chi le bi men geng	吃了闭门羹	100
+chi le bie	吃了瘪	100
+chi le bu shang huo	吃了不上火	100
+chi le bu shao de kui	吃了不少的亏	100
+chi le bu shao ku	吃了不少苦	100
+chi le bu shao ku tou	吃了不少苦头	100
+chi le bu shao kui	吃了不少亏	100
+chi le cai	吃了菜	100
+chi le cang ying	吃了苍蝇	100
+chi le cheng tuo	吃了秤砣	100
+chi le cheng tuo tie le xin	吃了秤砣铁了心	100
+chi le chi le	吃了吃了	100
+chi le da kui	吃了大亏	100
+chi le di yi kou	吃了第一口	100
+chi le dian	吃了点	100
+chi le dian dong xi	吃了点东西	100
+chi le dian kui	吃了点亏	100
+chi le ding xin wan	吃了定心丸	100
+chi le dong xi	吃了东西	100
+chi le dou shuo hao	吃了都说好	100
+chi le dui shen ti bu hao	吃了对身体不好	100
+chi le dun	吃了顿	100
+chi le dun fan	吃了顿饭	100
+chi le dun zao fan	吃了顿早饭	100
+chi le duo shao	吃了多少	100
+chi le duo shao ku	吃了多少苦	100
+chi le e mo guo shi	吃了恶魔果实	100
+chi le fan le	吃了饭了	100
+chi le fan zai zou	吃了饭再走	100
+chi le fang fu ji	吃了防腐剂	100
+chi le gan mao yao	吃了感冒药	100
+chi le ge ya ba kui	吃了个哑巴亏	100
+chi le ge zheng zhao	吃了个正着	100
+chi le guan si	吃了官司	100
+chi le hai xiang chi	吃了还想吃	100
+chi le hao	吃了好	100
+chi le hao duo	吃了好多	100
+chi le hen duo ku	吃了很多苦	100
+chi le hou	吃了后	100
+chi le hui kou	吃了回扣	100
+chi le hui la du zi	吃了会拉肚子	100
+chi le hui pang	吃了会胖	100
+chi le huo guo	吃了火锅	100
+chi le huo yao	吃了火药	100
+chi le ji	吃了鸡	100
+chi le ji ci	吃了几次	100
+chi le ji kou	吃了几口	100
+chi le ji shi nian	吃了几十年	100
+chi le ji tian	吃了几天	100
+chi le jian fei	吃了减肥	100
+chi le jin ji bi yun yao	吃了紧急避孕药	100
+chi le jiu hao	吃了就好	100
+chi le jiu shui	吃了就睡	100
+chi le jiu tu	吃了就吐	100
+chi le kao rou	吃了烤肉	100
+chi le ke ding xin wan	吃了颗定心丸	100
+chi le ku	吃了苦	100
+chi le ku tou	吃了苦头	100
+chi le kui	吃了亏	100
+chi le la du zi	吃了拉肚子	100
+chi le liang kou	吃了两口	100
+chi le liang tian	吃了两天	100
+chi le ma	吃了嘛	100
+chi le ma ni	吃了吗你	100
+chi le ma ni men	吃了吗你们	100
+chi le ma nin	吃了吗您	100
+chi le me	吃了么	100
+chi le mei	吃了没	100
+chi le mei a	吃了没啊	100
+chi le mei shi	吃了没事	100
+chi le mei wen hua de kui	吃了没文化的亏	100
+chi le na me duo	吃了那么多	100
+chi le ni	吃了你	100
+chi le pang xie	吃了螃蟹	100
+chi le qi lai	吃了起来	100
+chi le ren	吃了人	100
+chi le rou	吃了肉	100
+chi le san tian	吃了三天	100
+chi le sha	吃了啥	100
+chi le shang dun mei xia dun	吃了上顿没下顿	100
+chi le shang huo	吃了上火	100
+chi le shen me	吃了什么	100
+chi le shen me dong xi	吃了什么东西	100
+chi le shen me yao	吃了什么药	100
+chi le shi	吃了屎	100
+chi le shui	吃了睡	100
+chi le shui shui le chi	吃了睡睡了吃	100
+chi le ta	吃了它	100
+chi le tai duo	吃了太多	100
+chi le tang	吃了糖	100
+chi le tang seng rou	吃了唐僧肉	100
+chi le tu	吃了吐	100
+chi le tui shao yao	吃了退烧药	100
+chi le wan fan	吃了晚饭	100
+chi le wo	吃了我	100
+chi le wu fan	吃了午饭	100
+chi le xia lai	吃了下来	100
+chi le xian dan	吃了仙丹	100
+chi le xiang	吃了翔	100
+chi le xiang yi yang	吃了翔一样	100
+chi le xie	吃了些	100
+chi le xing fen ji	吃了兴奋剂	100
+chi le xiong xin bao zi dan	吃了熊心豹子胆	100
+chi le ya ba kui	吃了哑巴亏	100
+chi le yao	吃了药	100
+chi le yi ba gou liang	吃了一把狗粮	100
+chi le yi ban	吃了一半	100
+chi le yi bei zi	吃了一辈子	100
+chi le yi bo gou liang	吃了一波狗粮	100
+chi le yi bu	迟了一步	100
+chi le yi ci	吃了一次	100
+chi le yi dian	吃了一点	100
+chi le yi duan shi jian	吃了一段时间	100
+chi le yi dun	吃了一顿	100
+chi le yi dun da can	吃了一顿大餐	100
+chi le yi dun fan	吃了一顿饭	100
+chi le yi hou	吃了以后	100
+chi le yi jin	吃了一斤	100
+chi le yi ke	吃了一颗	100
+chi le yi ke ding xin wan	吃了一颗定心丸	100
+chi le yi kou	吃了一口	100
+chi le yi kuai	吃了一块	100
+chi le yi wan	吃了一碗	100
+chi le you du	吃了有毒	100
+chi le zao can	吃了早餐	100
+chi le zao fan	吃了早饭	100
+chi leng mian	吃冷面	100
+chi leng xin han	齿冷心寒	100
+chi li hong yan	侈丽闳衍	100
+chi lian xian zi	赤炼仙子	100
+chi liang wan	吃两碗	100
+chi liang wan er	吃两碗儿	100
+chi ling jian	赤灵剑	100
+chi ling shi bu	吃零食不	100
+chi liu chu lv	赤留出律	100
+chi liu shi	吃流食	100
+chi liu yi xia	哧溜一下	100
+chi long ke	驰龙科	100
+chi lou fan	吃喽饭	100
+chi lou fan jiu zou	吃喽饭就走	100
+chi lun chi tiao chuan dong	齿轮齿条传动	100
+chi lun chuan dong ji gou	齿轮传动机构	100
+chi lun er	齿轮儿	100
+chi lun guai	齿轮怪	100
+chi lun hang ye	齿轮行业	100
+chi lun mo shu	齿轮模数	100
+chi luo bo	吃萝卜	100
+chi luo fa bai	齿落发白	100
+chi luo luo de	赤裸裸的	100
+chi luo zhe shang shen	赤裸着上身	100
+chi luo zhe shen ti	赤裸着身体	100
+chi ma la tang	吃麻辣烫	100
+chi ma ma xiang	吃嘛嘛香	100
+chi ma tang	吃麻糖	100
+chi ma tui jian	尺码推荐	100
+chi ma ya	赤麻鸭	100
+chi man tou	吃馒头	100
+chi mei chi	吃没吃	100
+chi mei chi bao	吃没吃饱	100
+chi mei chi bao a	吃没吃饱啊	100
+chi mei chi bao ya	吃没吃饱呀	100
+chi mei chi fan	吃没吃饭	100
+chi mei chi fan a	吃没吃饭啊	100
+chi mei chi fan ya	吃没吃饭呀	100
+chi mei chi kui	吃没吃亏	100
+chi mei chi kui a	吃没吃亏啊	100
+chi mei chi kui ya	吃没吃亏呀	100
+chi mei chi wan	吃没吃完	100
+chi mei chi wan a	吃没吃完啊	100
+chi mei chi wan ya	吃没吃完呀	100
+chi mei chi yao	吃没吃药	100
+chi mei chi yao a	吃没吃药啊	100
+chi mei chi yao ne	吃没吃药呢	100
+chi mei chi yao ya	吃没吃药呀	100
+chi mei jun	赤霉菌	100
+chi mei lin	吃美林	100
+chi mei su	赤霉素	100
+chi mi bu zhi mi jia	吃米不知米价	100
+chi mi chen lun	痴迷沉沦	100
+chi mi cheng du	痴迷程度	100
+chi mi yu	痴迷于	100
+chi mian long	赤面龙	100
+chi mian ying du	齿面硬度	100
+chi mo yan	赤魔眼	100
+chi mu hu wen	鸱目虎吻	100
+chi na ge ku	吃那个苦	100
+chi na me	吃那么	100
+chi nai de jin	吃奶的劲	100
+chi nai de jin er	吃奶的劲儿	100
+chi nai de li qi	吃奶的力气	100
+chi nai de qi li	吃奶的气力	100
+chi nai nai	吃奶奶	100
+chi nai shui	吃奶水	100
+chi nai zhi li	吃奶之力	100
+chi nai zi	吃奶子	100
+chi ni jia	吃你家	100
+chi ni jia da mi le	吃你家大米了	100
+chi ni le	吃腻了	100
+chi ni le da yu da rou	吃腻了大鱼大肉	100
+chi ni ma bi	吃你妈逼	100
+chi nian guo	赤念果	100
+chi niao lei	齿鸟类	100
+chi nv xi	痴女系	100
+chi pang le	吃胖了	100
+chi peng gang	吃碰杠	100
+chi pian fan	吃偏饭	100
+chi pian yi	吃便宜	100
+chi pin ru xi	赤贫如洗	100
+chi ping guo bu	吃苹果不	100
+chi ping guo mei	吃苹果没	100
+chi ping guo mei you	吃苹果没有	100
+chi ping zhi lun	持平之论	100
+chi pu tao	吃葡萄	100
+chi qi lai te bie de xiang	吃起来特别地香	100
+chi qi ren	持旗人	100
+chi qi yong	赤崎勇	100
+chi qi zhe	持旗者	100
+chi qian lou	赤嵌楼	100
+chi qiang yao	吃枪药	100
+chi qiao cai	吃敲才	100
+chi qiao jiu xia	赤鞘九侠	100
+chi qiao ke li	吃巧克力	100
+chi qie zi	吃茄子	100
+chi qing zhou	痴情咒	100
+chi qiu mei	池秋美	100
+chi quan shi shi	持权恃势	100
+chi que xian shu	赤雀衔书	100
+chi re de wen du	炽热的温度	100
+chi re hu	吃热乎	100
+chi re hu de	吃热乎的	100
+chi re huo shan yun	炽热火山云	100
+chi re rong dong	炽热溶洞	100
+chi re ti	炽热体	100
+chi re xiang lu	炽热香炉	100
+chi ren chi fu	痴人痴福	100
+chi ren chong	吃人虫	100
+chi ren de liang ge zi	吃人的两个字	100
+chi ren shen	吃人参	100
+chi ren shuo meng hua	痴人说梦话	100
+chi rou bao zi	吃肉包子	100
+chi rou bu chi suan	吃肉不吃蒜	100
+chi rou gan zhi ran ran xi	持柔竿之冉冉兮	100
+chi rou rou	吃肉肉	100
+chi rou rou ba	吃肉肉吧	100
+chi ru bian bei	齿如编贝	100
+chi ru tang	耻辱堂	100
+chi ruan fan de	吃软饭的	100
+chi ruo bian bei	齿若编贝	100
+chi san wan	吃三碗	100
+chi san wan er	吃三碗儿	100
+chi se de	赤色的	100
+chi se yao sai	赤色要塞	100
+chi sha xian	吃啥馅	100
+chi sha zhi xie	赤砂之蝎	100
+chi shang bian dang	池上便当	100
+chi shang le mei	吃上了没	100
+chi shang quan hou ying	持觞劝侯嬴	100
+chi shang xiang	池上乡	100
+chi shao ji a	吃烧鸡啊	100
+chi shao kao	吃烧烤	100
+chi she shao cheng	赤舌烧城	100
+chi shen bu zheng	持身不正	100
+chi shen me a	吃什么啊	100
+chi shen me bi jiao hao	吃什么比较好	100
+chi shen me bu shen	吃什么补肾	100
+chi shen me bu shen me	吃什么补什么	100
+chi shen me bu xie	吃什么补血	100
+chi shen me bu xue	吃什么补血	100
+chi shen me cai	吃什么菜	100
+chi shen me dong xi	吃什么东西	100
+chi shen me fan	吃什么饭	100
+chi shen me jian fei	吃什么减肥	100
+chi shen me la shen me	吃什么拉什么	100
+chi shen me nai fen	吃什么奶粉	100
+chi shen me rou	吃什么肉	100
+chi shen me shi wu	吃什么食物	100
+chi shen me shui guo	吃什么水果	100
+chi shen me shui guo hao	吃什么水果好	100
+chi shen me tu shen me	吃什么吐什么	100
+chi shen me ya	吃什么呀	100
+chi shen me zao can	吃什么早餐	100
+chi shen me zui hao	吃什么最好	100
+chi sheng guang fo	炽盛光佛	100
+chi sheng guang fo bing wu xing tu	炽盛光佛并五星图	100
+chi sheng guang fo ding	炽盛光佛顶	100
+chi sheng guang ru lai	炽盛光如来	100
+chi sheng wan zu	赤绳绾足	100
+chi shi ba	吃屎吧	100
+chi shi dou gan bu shang	吃屎都赶不上	100
+chi shi dou gan bu shang re huo de	吃屎都赶不上热和的	100
+chi shi fang	吃十方	100
+chi shi he yuan ke yan	敕使河原克彦	100
+chi shi ju gui	持势倨贵	100
+chi shi la	吃屎啦	100
+chi shi la ni	吃屎啦你	100
+chi shi lang gu	鸱视狼顾	100
+chi shi le	吃屎了	100
+chi shi qu	吃屎去	100
+chi shi qu ba	吃屎去吧	100
+chi shi qu ba ni	吃屎去吧你	100
+chi shi zhou su	耻食周粟	100
+chi shou si	吃寿司	100
+chi shu gao ji	驰书告急	100
+chi shu tiao	吃薯条	100
+chi shu tiao er	吃薯条儿	100
+chi shuang zhan	炽霜斩	100
+chi shui shen du	吃水深度	100
+chi shui zhang bo	尺水丈波	100
+chi si ni	吃死你	100
+chi si ni ba	吃死你吧	100
+chi si ni de le	吃死你得了	100
+chi si ni de le ba	吃死你得了吧	100
+chi si wo ba	吃死我吧	100
+chi song zhuang liang	池松壮亮	100
+chi su de	吃素的	100
+chi suan le	吃算了	100
+chi tai duo	吃太多	100
+chi tan he ping	侈谈和平	100
+chi tang bu	吃糖不	100
+chi tang gua	吃糖瓜	100
+chi tang wan	吃糖丸	100
+chi tang yuan hai shi jiao zi	吃汤圆还是饺子	100
+chi tao er	吃桃儿	100
+chi tao tao	吃桃桃	100
+chi tao zi	吃桃子	100
+chi tian luo	吃田螺	100
+chi tian shi zhi yong	炽天使之拥	100
+chi tiao chi lun	齿条齿轮	100
+chi tiao chuan dong	齿条传动	100
+chi tiao qian jin ding	齿条千斤顶	100
+chi tie cheng	池铁城	100
+chi ting jiu	吃挺久	100
+chi ting jiu le	吃挺久了	100
+chi tong kai	赤铜铠	100
+chi tong kuang	赤铜矿	100
+chi tu da lu	赤土大陆	100
+chi tu dou si	吃土豆丝	100
+chi tu dou si er	吃土豆丝儿	100
+chi tu ren	吃土人	100
+chi tuan yuan fan le	吃团圆饭了	100
+chi tuan yuan fan le ma	吃团圆饭了吗	100
+chi tuo zan bi	持橐簪笔	100
+chi wai ka can sai	持外卡参赛	100
+chi wai mai	吃外卖	100
+chi wan fan ba	吃完饭吧	100
+chi wan fan ba	吃晚饭吧	100
+chi wan fan jiu	吃完饭就	100
+chi wan fan jiu zou	吃完饭就走	100
+chi wan fan le	吃晚饭了	100
+chi wan fan le ma	吃完饭了吗	100
+chi wan fan le me	吃完饭了么	100
+chi wan fan mei you	吃完饭没有	100
+chi wan hai xiang chi	吃完还想吃	100
+chi wan la	吃完啦	100
+chi wan le fan	吃完了饭	100
+chi wan le ma	吃完了吗	100
+chi wan le yi hou	吃完了以后	100
+chi wan lo	吃完咯	100
+chi wan lou	吃完喽	100
+chi wan mei chi wan	吃完没吃完	100
+chi wan mian	吃完面	100
+chi wan nian ye fan	吃完年夜饭	100
+chi wan tu pao pao	吃完吐泡泡	100
+chi wan wan fan	吃完晚饭	100
+chi wan wu fan	吃完午饭	100
+chi wan yi kou	吃完一口	100
+chi wan zao fan	吃完早饭	100
+chi wan zhe dun fan	吃完这顿饭	100
+chi wang ling	赤王陵	100
+chi wei fa tu	齿危发秃	100
+chi wei fa xiu	齿危发秀	100
+chi wei jun	赤卫军	100
+chi wei yu	赤尾屿	100
+chi wen zi	吃蚊子	100
+chi wen zi de hua	吃蚊子的花	100
+chi wo yi bang	吃我一棒	100
+chi wo yi ji	吃我一击	100
+chi wo yi ji	吃我一戟	100
+chi wo yi ji	吃我一记	100
+chi wu fan le ma	吃午饭了吗	100
+chi xi er	吃席儿	100
+chi xi qu	吃席去	100
+chi xia le	吃下了	100
+chi xia le ding xin wan	吃下了定心丸	100
+chi xia le yi ke ding xin wan	吃下了一颗定心丸	100
+chi xian chun	赤藓醇	100
+chi xian hong	赤藓红	100
+chi xian hua	吃闲话	100
+chi xian yu	池贤宇	100
+chi xiang de he la de	吃香的喝辣的	100
+chi xiang tai chou	吃相太丑	100
+chi xiao fei liao	迟效肥料	100
+chi xiao jian	赤霄剑	100
+chi xiao qi chang	持效期长	100
+chi xiao ran	池笑然	100
+chi xie shen me	吃些什么	100
+chi xin bao guo	赤心报国	100
+chi xin bu chun	持心不纯	100
+chi xin shou ku	吃辛受苦	100
+chi xin wang xiang a	痴心妄想啊	100
+chi xin wang xiang ne	痴心妄想呢	100
+chi xin xiang dai	赤心相待	100
+chi xin yi pian	痴心一片	100
+chi xu bao ji	持续暴击	100
+chi xu bu duan de	持续不断地	100
+chi xu bu shu	持续部署	100
+chi xu chang	持续长	100
+chi xu chang jiu	持续长久	100
+chi xu cheng zhang	持续成长	100
+chi xu chuan bo	持续传播	100
+chi xu de	持续地	100
+chi xu de	持续得	100
+chi xu ding gou	持续订购	100
+chi xu du	持续度	100
+chi xu duo chang shi jian	持续多长时间	100
+chi xu e hua	持续恶化	100
+chi xu fan tan	持续反弹	100
+chi xu fei xing	持续飞行	100
+chi xu gong lv	持续功率	100
+chi xu hen chang shi jian	持续很长时间	100
+chi xu hen chang yi duan shi jian	持续很长一段时间	100
+chi xu hui luo	持续回落	100
+chi xu hui tiao	持续回调	100
+chi xu jian xing	持续践行	100
+chi xu jiang di	持续降低	100
+chi xu jiang jia	持续降价	100
+chi xu jiang wen	持续降温	100
+chi xu jiang yu	持续降雨	100
+chi xu jin xing zhong	持续进行中	100
+chi xu le hao ji nian	持续了好几年	100
+chi xu le hen chang shi jian	持续了很长时间	100
+chi xu le yi duan shi jian	持续了一段时间	100
+chi xu luo di	持续落地	100
+chi xu luo shi	持续落实	100
+chi xu qiang jiang yu	持续强降雨	100
+chi xu qiang jing	持续强劲	100
+chi xu qiang jing zeng zhang	持续强劲增长	100
+chi xu re du	持续热度	100
+chi xu shang xing	持续上行	100
+chi xu sheng zhang	持续生长	100
+chi xu shi chang	持续时长	100
+chi xu shi jian bu chang	持续时间不长	100
+chi xu shi jian chang	持续时间长	100
+chi xu shi jian geng chang	持续时间更长	100
+chi xu shi jian guo chang	持续时间过长	100
+chi xu shi jian jiao chang	持续时间较长	100
+chi xu shi jian yan chang	持续时间延长	100
+chi xu shi jian zhi chang	持续时间之长	100
+chi xu shi jian zui chang	持续时间最长	100
+chi xu tiao kong	持续调控	100
+chi xu tiao zheng	持续调整	100
+chi xu tuo zhan	持续拓展	100
+chi xu wen ding zeng zhang	持续稳定增长	100
+chi xu wen jian zeng zhang	持续稳健增长	100
+chi xu xia jiang	持续下降	100
+chi xu xia xing	持续下行	100
+chi xu xing dong	持续行动	100
+chi xu xing jiang shui	持续性降水	100
+chi xu xing jiang yu	持续性降雨	100
+chi xu xing zhi wu ren zhuang tai	持续性植物人状态	100
+chi xu xing zhi wu zhuang tai	持续性植物状态	100
+chi xu xuan chuan	持续宣传	100
+chi xu yin	持续音	100
+chi xu yun xing	持续运行	100
+chi xu zhi xing	持续执行	100
+chi xue gao	吃雪糕	100
+chi ya bo	吃鸭脖	100
+chi ya bo er	吃鸭脖儿	100
+chi ya nei	池衙内	100
+chi ya wei huo	齿牙为祸	100
+chi ya yu hui	齿牙余惠	100
+chi ya yu lun	齿牙余论	100
+chi yan jun	赤焰军	100
+chi yan jun shao shuai	赤焰军少帅	100
+chi yan lv xing	迟延履行	100
+chi yan lv xing jin	迟延履行金	100
+chi yan ni an	赤焰逆案	100
+chi yan ren guo	耻言人过	100
+chi yan yi an	赤焰一案	100
+chi yan zhan chang	赤焰战场	100
+chi yan zhen hun qin	赤焰镇魂琴	100
+chi yan zhi an	赤焰之案	100
+chi yao ba	吃药吧	100
+chi yao chi yao	吃药吃药	100
+chi yao le ma	吃药了吗	100
+chi yao le ma	吃药了嘛	100
+chi yao le me	吃药了么	100
+chi yao mei chi yao	吃药没吃药	100
+chi yao qian	吃药前	100
+chi yao tiao li	吃药调理	100
+chi ye chi bu wan	吃也吃不完	100
+chi ye xiao	吃夜宵	100
+chi yi bu	迟一步	100
+chi yi bu qian	迟疑不前	100
+chi yi da	吃益达	100
+chi yi da kuai de chun rou	吃一大块的纯肉	100
+chi yi da kuai de rou	吃一大块的肉	100
+chi yi da kuai rou	吃一大块肉	100
+chi yi dian er	吃一点儿	100
+chi yi dun qing gong yan	吃一顿庆功宴	100
+chi yi fen fan	吃一份饭	100
+chi yi jian	持异见	100
+chi yi jian zhe	持异见者	100
+chi yi kan shi	吃一看十	100
+chi yi liang ge	吃一两个	100
+chi yi wan	吃一碗	100
+chi yi wan er	吃一碗儿	100
+chi yi wei jue	持疑未决	100
+chi yi xiao kou	吃一小口	100
+chi yin chan yin	齿龈颤音	100
+chi yin yan	齿龈炎	100
+chi yin yin	齿龈音	100
+chi ying ji feng	赤影疾锋	100
+chi ying shou cheng	持盈守成	100
+chi you bu luo	蚩尤部落	100
+chi you hou yi	蚩尤后裔	100
+chi you huang chao mian	豉油皇炒面	100
+chi you lao fan	豉油捞饭	100
+chi you lv	持有率	100
+chi you suo chang	尺有所长	100
+chi you suo duan cun you suo chang	尺有所短寸有所长	100
+chi you wu	持有物	100
+chi yu chi rou	吃鱼吃肉	100
+chi yu long niao	池鱼笼鸟	100
+chi yu ying	赤羽营	100
+chi yu ying zhu jiang	赤羽营主将	100
+chi yu ying zhu jiang lin shu	赤羽营主将林殊	100
+chi yuan bao	吃元宝	100
+chi yuan xiao	吃元宵	100
+chi yuan xing dong	驰援行动	100
+chi yue bing	吃月饼	100
+chi yue bing le ma	吃月饼了吗	100
+chi yue chuan shuo	赤月传说	100
+chi yue e mo	赤月恶魔	100
+chi yue fu su	赤月复苏	100
+chi zao de	迟早得	100
+chi zao diao zhang	摛藻雕章	100
+chi zao dou yao huan	迟早都要还	100
+chi zao fan le	吃早饭了	100
+chi zao fan le ma	吃早饭了吗	100
+chi zao fan mei	吃早饭没	100
+chi zao fen	迟早分	100
+chi zao tang	吃灶糖	100
+chi zao yao	迟早要	100
+chi zao yao hou hui	迟早要后悔	100
+chi zao yao huan	迟早要还	100
+chi zao yao wan	迟早要完	100
+chi zao yao yang wei	迟早要阳痿	100
+chi ze le	斥责了	100
+chi zha chi chi zha	叱咤叱叱咤	100
+chi zha chi zha chi zha zha	叱咤叱咤叱咤咤	100
+chi zha ji	吃炸鸡	100
+chi zha tian xia	叱咤天下	100
+chi zha yin wu	叱咤喑呜	100
+chi zha yu le quan	叱咤娱乐圈	100
+chi zha yue tan	叱咤乐坛	100
+chi zhai ba su	持斋把素	100
+chi zhai shu shi	持斋蔬食	100
+chi zhang hui ju	摛章绘句	100
+chi zhang tu liu	笞杖徒流	100
+chi zhe bing gun	吃着冰棍	100
+chi zhe bing qi lin	吃着冰淇淋	100
+chi zhe bo	赤着膊	100
+chi zhe cai	吃着菜	100
+chi zhe dian xin	吃着点心	100
+chi zhe dong xi	吃着东西	100
+chi zhe fan	吃着饭	100
+chi zhe fang xin	吃着放心	100
+chi zhe ge ku	吃这个苦	100
+chi zhe hai xian	吃着海鲜	100
+chi zhe huo guo chang zhe ge	吃着火锅唱着歌	100
+chi zhe jiao zi	吃着饺子	100
+chi zhe kao rou	吃着烤肉	100
+chi zhe ling shi	吃着零食	100
+chi zhe mei shi	吃着美食	100
+chi zhe mei wei	吃着美味	100
+chi zhe nian ye fan	吃着年夜饭	100
+chi zhe pao mian	吃着泡面	100
+chi zhe rou	吃着肉	100
+chi zhe shao kao	吃着烧烤	100
+chi zhe shui guo	吃着水果	100
+chi zhe tao	吃这套	100
+chi zhe wai mai	吃着外卖	100
+chi zhe wan li de	吃着碗里的	100
+chi zhe wan li kan zhe guo li	吃着碗里看着锅里	100
+chi zhe wan li qiao zhe guo li	吃着碗里瞧着锅里	100
+chi zhe xi gua	吃着西瓜	100
+chi zhe xiang	吃着香	100
+chi zhe xue gao	吃着雪糕	100
+chi zhe yi tao	吃这一套	100
+chi zhe yue bing	吃着月饼	100
+chi zhe zha ji	吃着炸鸡	100
+chi zheng bu e	持正不阿	100
+chi zheng lv	持证率	100
+chi zheng shang gang zhi du	持证上岗制度	100
+chi zhi bu qian	迟滞不前	100
+chi zhi qiang	迟志强	100
+chi zhi yi heng de	持之以恒地	100
+chi zhi yi heng de	持之以恒的	100
+chi zhi zhi shui	迟滞之水	100
+chi zhong duan fang	持重端方	100
+chi zhong gu lian ban yue mian	池中孤莲伴月眠	100
+chi zhong guo	池忠国	100
+chi zhong jin	斥重金	100
+chi zhong kou wei	吃重口味	100
+chi zhong kou wei shi wu	吃重口味食物	100
+chi zhong lao cheng	持重老成	100
+chi zhong li tai du	持中立态度	100
+chi zhong yao tiao li	吃中药调理	100
+chi zhou zi	吃肘子	100
+chi zhu dou zai	吃住都在	100
+chi zhu jiao mian	吃猪脚面	100
+chi zhu tou rou	吃猪头肉	100
+chi zhu xing you gou yu	吃住行游购娱	100
+chi zhuang du	持妆度	100
+chi zhuang wu	齿状物	100
+chi zi cang tou	赤子苍头	100
+chi zi lei lei	赤字累累	100
+chi zi lv	赤字率	100
+chi zi qing	赤子情	100
+chi zi xin	赤子心	100
+chi zu le ku tou	吃足了苦头	100
+chi dian	驰电	99
+chi lun	持论	99
+chi ni	赤泥	99
+chi tou	尺头	99
+chi dao le	吃到了	97
+chi jiu xing you ji wu	持久性有机物	96
+chi bu qi ku	吃不起苦	95
+chi sheng ji zu	赤绳系足	95
+chi kou	池口	92
+chi ni de	吃你的	92
+chi dao ban	赤道板	90
+chi le ge tong kuai	吃了个痛快	90
+chi le ye bai chi	吃了也白吃	90
+chi qu	尺取	90
+chi si	驰思	90
+chi huan xing	弛缓性	87
+chi zhou zhong yuan	池州中院	87
+chi duan cun chang	尺短寸长	85
+chi gu fen	持股份	85
+chi yi xie	迟一些	85
+chi zui	吃罪	85
+chi wan chun	迟万春	81
+chi de zhao	吃得着	80
+chi zhi zheng pai gu	豉汁蒸排骨	79
+chi gang lu	赤岗路	75
+chi lu	齿录	75
+chi bi lu xiao xue	赤壁路小学	74
+chi zao tang chun	赤藻糖醇	74
+chi fei	弛废	70
+chi wan fan le ma	吃晚饭了吗	70
+chi wan mei	吃完没	70
+chi cheng jie dao	赤城街道	66
+chi mu hu	眵目糊	65
+chi xiu	鸱鸺	65
+chi cun zhi gong	尺寸之功	64
+chi fu wei qian	迟复为歉	63
+chi shen lu ti	赤身露体	61
+chi wei dao	赤尾岛	61
+chi qiang	齿腔	60
+chi jie yun zhong	持节云中	58
+chi gu hui	持股会	57
+chi shen jing	尺神经	57
+chi dao zuo biao xi	赤道坐标系	55
+chi lao bao	吃劳保	55
+chi le ge ban bao	吃了个半饱	55
+chi lun shi gai	齿轮室盖	55
+chi an	赤岸	54
+chi shan bu	赤山埠	54
+chi zhong rui	迟重瑞	52
+chi shan lu	赤山路	51
+chi gang cun	赤岗村	49
+chi gu lian he	耻骨联合	49
+chi pian	翅片	45
+chi zheng zhi fan	吃政治饭	45
+chi pai	吃牌	44
+chi mi bu wu	痴迷不悟	43
+chi chuan ci lang	赤川次郎	41
+chi dao	赤岛	41
+chi wan mian	吃碗面	40
+chi wan quan	持完全	40
+chi man	迟慢	39
+chi mian	齿面	38
+chi tian zhi yi	炽天之翼	38
+chi wu	驰骛	37
+chi yi bu ding	迟疑不定	36
+chi zhi	赤芝	36
+chi zhuo can zha	炽灼残渣	36
+chi ben	迟笨	35
+chi kui lun	吃亏论	35
+chi ma	耻骂	35
+chi ren shen guo	吃人参果	35
+chi lao	赤佬	34
+chi shui cun	赤水村	33
+chi gui	池龟	32
+chi yi guan wang	迟疑观望	31
+chi bu zhu li	吃不住力	30
+chi ran	弛然	30
+chi sha le	吃啥了	30
+chi yin chuan di	尺蚓穿堤	30
+chi yuan wang	吃冤枉	30
+chi zhe ne	持着呢	30
+chi zhuo bu jin	吃着不尽	30
+chi ma	吃麻	29
+chi feng dao	赤峰道	28
+chi xiao kui zhan da pian yi	吃小亏占大便宜	27
+chi bu zhu le	持不住了	25
+chi chun yin	齿唇音	25
+chi dao qian nian	迟到千年	25
+chi dao he bei ji	赤道和北极	23
+chi tang cun	赤塘村	23
+chi zhen qi	持针器	23
+chi dao	吃刀	22
+chi gang dong	赤岗东	22
+chi hua	池化	21
+chi ji jian	持己见	21
+chi jiao da dao	赤脚大盗	21
+chi ling cun	赤岭村	21
+chi shui liang	持水量	21
+chi pan	痴盼	20
+chi shi zhi	赤石脂	20
+chi shou shang zhen	赤手上阵	20
+chi xiao dou zhou	赤小豆粥	20
+chi xing	赤星	20
+chi zhi	痴滞	20
+chi mai	翅脉	18
+chi nei bo zhi	池内博之	18
+chi song de zan	赤松德赞	18
+chi gang da tang	赤岗大塘	17
+chi zhen xi	池珍熙	17
+chi shan cun	赤山村	16
+chi yu	痴愚	16
+chi keng	赤坑	15
+chi xie	弛懈	15
+chi cheng tian xia zhi zhi jian	驰骋天下之至坚	14
+chi jing dong	赤颈鸫	14
+chi men	赤门	14
+chi tang lian hua	池塘莲花	14
+chi zi tang	翅子汤	14
+chi dao nv	持刀女	13
+chi qiao cun	赤桥村	13
+chi shi cun	赤石村	13
+chi tu cun	赤土村	13
+chi xin wei guo	赤心为国	13
+chi yu si gu yuan	池鱼思故渊	13
+chi cheng lu	赤城路	12
+chi hao de	吃好的	12
+chi dun ai de hua shi jun	迟钝爱德华氏菌	11
+chi hu	吃虎	11
+chi huo	尺蠖	11
+chi lie	齿列	11
+chi ming	敕命	11
+chi shu	驰书	11
+chi wen	鸱吻	11
+chi xiang	豉香	11
+chi yan	池盐	11
+chi fei yong zhong	痴肥臃肿	10
+chi gu qian	持骨钳	10
+chi jiao	池窖	10
+chi le ni ne	吃了你呢	10
+chi quan cheng piao	持全程票	10
+chi shen jing sun shang	尺神经损伤	10
+chi shi cheng yang	叱石成羊	10
+chi zhou di qu	池州地区	10
+chi zu	吃租	10
+chi mei xi ren guo	魑魅喜人过	9
+chi shui xing bo	尺水兴波	9
+chi wei tian qiao	赤尾天桥	9
+chi ba dun	吃八顿	8
+chi gen cai	赤根菜	8
+chi jiu zhi ji	持久之计	8
+chi ming li xiang	赤名莉香	8
+chi rou bu tu gu tou	吃肉不吐骨头	8
+chi tang sheng chun cao	池塘生春草	8
+chi ze	尺泽	8
+chi zhang re	弛张热	8
+chi zhuang hui	齿状回	8
+chi ba	赤巴	7
+chi shan jie dao	斥山街道	7
+chi xi ren	赤西仁	7
+chi yu	弛豫	7
+chi ze xue	尺泽穴	7
+chi zhi tai jiao jin hai luo	豉汁泰椒浸海螺	7
+chi bang zi	翅膀子	6
+chi chi wu xing	迟迟吾行	6
+chi cun ke qu	尺寸可取	6
+chi fa xing yun dong zhang ai	迟发性运动障碍	6
+chi luo she dun	齿落舌钝	6
+chi ma shi jian	驰马试剑	6
+chi man	赤螨	6
+chi shao yao	赤芍药	6
+chi shui xian	赤水县	6
+chi wan san lu	赤湾三路	6
+chi bai yan	吃白眼	5
+chi de ju zun	齿德俱尊	5
+chi de xiang	痴得像	5
+chi feng xian	赤峰县	5
+chi fu	迟付	5
+chi jia	吃家	5
+chi kuo	齿廓	5
+chi liang bu guan shi	吃粮不管事	5
+chi mo xia chui	赤膜下垂	5
+chi qiao	翅鞘	5
+chi ru qi bei	齿如齐贝	5
+chi xian	齿线	5
+chi xiao wen	鸱鸮纹	5
+chi xu xing fa re	持续性发热	5
+chi yu nan	吃鱼难	5
+chi zhi mu bi you jie mu	尺之木必有节目	5
+chi ce wan qu ji	尺侧腕屈肌	4
+chi feng jie	赤峰街	4
+chi huang	吃晃	4
+chi mei	赤霉	4
+chi ren kou ruan	吃人口软	4
+chi shang bi tai san si dian	池上碧苔三四点	4
+chi shang fu qu jing shao qing	池上芙蕖净少情	4
+chi sui	齿髓	4
+chi wan liu lu	赤湾六路	4
+chi xu xing yao yue	持续性要约	4
+chi yu shi jian	弛豫时间	4
+chi zhi liang gua men xie	豉汁凉瓜焖蟹	4
+chi bei	池背	3
+chi bu liao xi kang	吃不了细糠	3
+chi chi zhi meng	蚩蚩之氓	3
+chi diao	赤鲷	3
+chi hu cun	赤湖村	3
+chi jiao chao niu rou	豉椒炒牛肉	3
+chi jing ya	赤颈鸭	3
+chi kou bai she	赤口白舌	3
+chi lao	持牢	3
+chi leng zhu rou	吃冷猪肉	3
+chi liang dang bing	吃粮当兵	3
+chi ling	齿蛉	3
+chi lu yang jiao	持禄养交	3
+chi lu zhen zhu ji	持炉珍珠鸡	3
+chi nv	齿衄	3
+chi qiang ling	持枪令	3
+chi ran	赤髯	3
+chi ruan chen cai liao	齿软衬材料	3
+chi shan	池杉	3
+chi shang qiu you lai	池上秋又来	3
+chi shou	持守	3
+chi shou gui fu	螭首龟趺	3
+chi tu deng	赤兔镫	3
+chi tu she qu	赤土社区	3
+chi tu zhi feng	尺土之封	3
+chi wan	赤丸	3
+chi wan wu lu	赤湾五路	3
+chi wei jie dao	池尾街道	3
+chi xiao	鸱鸮	3
+chi xie ju zhong pan luan zui	持械聚众叛乱罪	3
+chi xu tong	持续痛	3
+chi xu xing zhen hou wei	持续性枕后位	3
+chi yan mei wen qi da niao	斥鷃每闻欺大鸟	3
+chi yan ran shao	赤焰燃烧	3
+chi yu pan	赤玉盘	3
+chi ze zhi ni	尺泽之鲵	3
+chi zhi pan long shan	豉汁盘龙鳝	3
+chi zhong dai ji	持重待机	3
+chi zhu bu jin	吃著不尽	3
+chi bao ma	驰宝马	2
+chi bi lou chuan sao di kong	赤壁楼船扫地空	2
+chi cai xin gun rou pian tang	迟菜心滚肉片汤	2
+chi chi zhong gu chu chang ye	迟迟钟鼓初长夜	2
+chi chong	豉虫	2
+chi gang	赤岗	2
+chi gou	齿垢	2
+chi hua cun	赤花村	2
+chi huang	赤黄	2
+chi jiao mo yu qiu	豉椒墨鱼球	2
+chi jiao pai gu	豉椒排骨	2
+chi jing pi ti	赤颈䴙䴘	2
+chi li	赤痢	2
+chi lian	赤练	2
+chi lian	赤蔹	2
+chi lin jiao long	赤鳞蛟龙	2
+chi lu	池鹭	2
+chi lun gong yun	持论公允	2
+chi ren chang duan	持人长短	2
+chi se shi	赤色石	2
+chi sha shui ku	赤沙水库	2
+chi shen jing ma bi	尺神经麻痹	2
+chi tian qian	持田茜	2
+chi wei fu dian	持危扶颠	2
+chi wei han zhe xin	持为寒者薪	2
+chi xian hong lv se dian	赤藓红铝色淀	2
+chi xiao dou su mi xu sheng yu tang	赤小豆粟米须生鱼汤	2
+chi xie qian he	池胁千鹤	2
+chi ye wei zhi xiao	赤也为之小	2
+chi you fan zui yan jiu	持有犯罪研究	2
+chi zhi yu yun	豉汁鱼云	2
+chi zong yu	赤鯮鱼	2
+chi ao ba jiu	持螯把酒	1
+chi ao feng ju	持鳌封菊	1
+chi ao xia jiu	持鳌下酒	1
+chi bai rou ji	赤白肉际	1
+chi ban duan qi suo you	赤斑短鳍蓑鲉	1
+chi ban qian	持板钳	1
+chi bang qian chi	持棒钳持	1
+chi bao	赤鲍	1
+chi bao lu	驰宝路	1
+chi ben dan	持本单	1
+chi bi cun yin	尺壁寸阴	1
+chi bi ge song bie	赤壁歌送别	1
+chi bi leng ti	赤鼻棱鳀	1
+chi bi she cun	齿敝舌存	1
+chi biao du tian	尺表度天	1
+chi biao du tian	持表度天	1
+chi bing cun tie	尺兵寸铁	1
+chi bing jiu	豉饼灸	1
+chi bo dian xie	尺波电谢	1
+chi bu	彳部	1
+chi cang bu dong	持仓不动	1
+chi ce wan shen ji	尺侧腕伸肌	1
+chi cheng	赤城	1
+chi chi bu xiu	侈侈不休	1
+chi chi chun ri nong qing rou	迟迟春日弄轻柔	1
+chi chi gui lu she	迟迟归路赊	1
+chi chi long fu	侈侈隆富	1
+chi chi shuang zhi jiao ying	赤翅双栉角萤	1
+chi chi tong zhi xi	嗤嗤童稚戏	1
+chi chi zhe min	蚩蚩者民	1
+chi chu cun jian	尺楮寸缣	1
+chi ci shan hu bai yu bian	敕赐珊瑚白玉鞭	1
+chi ci zu wei le	持此足为乐	1
+chi cu zheng feng	吃醋争风	1
+chi cun zhi bing	尺寸之兵	1
+chi cun zhi bing	尺寸之柄	1
+chi cun zhi xiao	尺寸之效	1
+chi dan zhong gan	赤胆忠肝	1
+chi dao zhi gun	持刀执棍	1
+chi di	赤帝	1
+chi dian cun	池店村	1
+chi dian fu wei	持颠扶危	1
+chi ding da fen die	赤顶大粉蝶	1
+chi ding fen die	赤顶粉蝶	1
+chi ding guo jiu	赤顶果鸠	1
+chi ding jiao weng	赤顶娇鹟	1
+chi ding qian	持钉钳	1
+chi dou luo	赤豆螺	1
+chi duo xiang	赤多乡	1
+chi e jiao	吃阿胶	1
+chi en xi chong	侈恩席宠	1
+chi er yuan jia	尺二冤家	1
+chi fa	齿发	1
+chi fang hong ying	赤方红萤	1
+chi fei bu shen ye	池非不深也	1
+chi fei diu shou	吃肥丢瘦	1
+chi feng che dian	驰风掣电	1
+chi feng cheng yu	驰风骋雨	1
+chi fu cun jian	尺幅寸缣	1
+chi fu song bai gen	赤腹松柏根	1
+chi fu ye yuan xian chong	齿蝠夜圆线虫	1
+chi fu zhi jiao ying	赤腹栉角萤	1
+chi gan	叱干	1
+chi gan cheng fei	齿甘乘肥	1
+chi gao wu yuan	弛高骛远	1
+chi gao wu yuan	驰高骛远	1
+chi ge shi ma	持戈试马	1
+chi gu chong	吃骨虫	1
+chi gu shu	耻骨梳	1
+chi gu zang ao	赤古藏獒	1
+chi guo jian sui	齿过肩随	1
+chi han zhen zao	摛翰振藻	1
+chi he	池河	1
+chi he ai jiao chan	赤褐埃角蝉	1
+chi he fu zhui wei ying wu	赤褐腹锥尾鹦鹉	1
+chi he huan lu zhong	赤褐环露螽	1
+chi heng yong xuan	持衡拥璇	1
+chi hu	赤湖	1
+chi hu dan	吃虎胆	1
+chi huai bu jue	迟徊不决	1
+chi huai guan wang	迟徊观望	1
+chi huang	齿黄	1
+chi hui chang wei jiu	赤灰长尾鸠	1
+chi hun dang po	弛魂宕魄	1
+chi huo qiu shen	尺蠖求伸	1
+chi huo tou tong	尺豁头童	1
+chi ji	赤麂	1
+chi ji chun	赤鸡鹑	1
+chi ji shan chai lang ren	赤脊山豺狼人	1
+chi ji xia gu	赤脊峡谷	1
+chi ji ying	持棘蝇	1
+chi jia dan you si li bi	持家但有四立壁	1
+chi jia gua ren	齿颊挂人	1
+chi jia huang shu	赤颊黄鼠	1
+chi jia ji yin	持家基因	1
+chi jia sheng xiang	尺颊生香	1
+chi jian	敕建	1
+chi jian fu cun	赤涧傅村	1
+chi jian ru gui	齿剑如归	1
+chi jian yu	池建玗	1
+chi jiao chang xu	赤脚长须	1
+chi jiao gui zhu	赤脚鬼蛛	1
+chi jiao zheng la rou	豉椒蒸腊肉	1
+chi jin fu	赤金斧	1
+chi jin guan	赤锦冠	1
+chi jin wan	赤锦腕	1
+chi jin yi	赤锦衣	1
+chi jing guo gong chong	赤颈郭公虫	1
+chi jing shou pa	吃惊受怕	1
+chi jing wa wei ming	池静蛙未鸣	1
+chi jiu xing dou zhuang jiao hua guo du zheng	持久性豆状角化过度症	1
+chi ju lu huan chong	池菊鲈环虫	1
+chi kan	赤坎	1
+chi ke duan zao he jin	齿科锻造合金	1
+chi ke fu he zhi ru cai liao	齿科复合植入材料	1
+chi ke jin shu	齿科金属	1
+chi ke suan shi ji	齿科酸蚀剂	1
+chi ke tan su zhi ru cai liao	齿科碳素植入材料	1
+chi ke yu fang bao jian cai liao	齿科预防保健材料	1
+chi ke zhi ru cai liao	齿科植入材料	1
+chi ke zhu zao he jin	齿科铸造合金	1
+chi kong suan	齿孔酸	1
+chi kou du she	赤口毒舌	1
+chi lai bai	迟来白	1
+chi le ge	敕勒歌	1
+chi li ce hai	持蠡测海	1
+chi liang chi fei	持梁齿肥	1
+chi liang ci fei	持粱刺肥	1
+chi lin xia guan	赤鳞霞冠	1
+chi lin zhang	赤鳞杖	1
+chi long huan cai	赤龙焕彩	1
+chi lu	斥卤	1
+chi lu	赤鹿	1
+chi lu bao wei	持禄保位	1
+chi lu gu chong	持禄固宠	1
+chi lu qu rong	持禄取荣	1
+chi lu yang shen	持禄养身	1
+chi lv dou su	尺缕斗粟	1
+chi mai guan bu	赤脉贯布	1
+chi man jie ying	持满戒盈	1
+chi mei dun yan	迟眉钝眼	1
+chi mi bai yan	赤米白盐	1
+chi mian ku	赤棉裤	1
+chi ming dang shi	驰名当世	1
+chi nan xiang	赤南乡	1
+chi niao jia ri	赤鸟夹日	1
+chi ou zhou e	齿偶舟蛾	1
+chi peng di	吃碰提	1
+chi pian cun	赤片村	1
+chi ping	茌平	1
+chi qian dun chi yu	赤嵌钝齿鱼	1
+chi qian mai hua shu	持钱买花树	1
+chi qiang hu li	持枪鹄立	1
+chi qiang shi dan	持枪实弹	1
+chi qing	吃青	1
+chi quan he bian	持权合变	1
+chi quan wen fu	赤犬吻蝠	1
+chi ran bi yan lao xian bei	赤髯碧眼老鲜卑	1
+chi ren guan ting	侈人观听	1
+chi ren yi yu	痴人呓语	1
+chi ri jiang shan mu	迟日江山暮	1
+chi ri kuang jiu	迟日旷久	1
+chi sha luo	驰莎洛	1
+chi shan	赤山	1
+chi shan cun shui	尺山寸水	1
+chi shao qi rui	齿少气锐	1
+chi shao xin rui	齿少心锐	1
+chi sheng zou yu	弛声走誉	1
+chi sheng zou yu	驰声走誉	1
+chi shi bi zhong	敕始毖终	1
+chi shi hu gu	鸱视虎顾	1
+chi shou qi jia	赤手起家	1
+chi shu cun hong	尺树寸泓	1
+chi shu tuo jiang	痴鼠拖姜	1
+chi shui guan wei zheng	池水观为政	1
+chi shui suo luo jing guan kun chong	赤水桫椤景观昆虫	1
+chi shui zhu xiang ji	赤水竹乡鸡	1
+chi si fang fan	吃四方饭	1
+chi si qiu mai	赤丝虬脉	1
+chi si wang xiang	痴思妄想	1
+chi si xia xiang	驰思遐想	1
+chi song jian	赤松健	1
+chi ta	赤塔	1
+chi tai zhong gu	池台钟鼓	1
+chi tai zhu shu san mu yu	池台竹树三亩余	1
+chi tang xiao yue	池塘晓月	1
+chi ti mang xia hu yu	赤体盲鰕虎鱼	1
+chi ti shang zhen	赤体上阵	1
+chi tian li dai zi	池田理代子	1
+chi ting duo piao feng	赤亭多飘风	1
+chi tong duan wei xiao feng	赤铜短尾小蜂	1
+chi tu chan	齿突蟾	1
+chi tu mao ying	齿突猫萤	1
+chi tui chang wei xiao feng	齿腿长尾小蜂	1
+chi wan lu	赤湾路	1
+chi wang she cun	齿亡舌存	1
+chi wang xun zhi	尺枉寻直	1
+chi wei	鸱尾	1
+chi wei fei shi	赤尾飞狮	1
+chi wei gu ming lu zhong	齿尾鼓鸣露螽	1
+chi wei wei ying	赤尾胃蝇	1
+chi wen di chi e	齿纹涤尺蛾	1
+chi wen fei zhou niao ge	齿纹非洲鸟蛤	1
+chi xi gui	赤蠵龟	1
+chi xian tong tang	赤藓酮糖	1
+chi xiao kui de da pian yi	吃小亏得大便宜	1
+chi xiao nong she	鸱鸮弄舌	1
+chi xin	池心	1
+chi xin feng guo	赤心奉国	1
+chi xin fu ren fu xin han	痴心妇人负心汉	1
+chi xing	池姓	1
+chi xing gou xing	赤型构型	1
+chi xing hai ying	齿形海萤	1
+chi xiong bian qiao tian niu	赤胸扁鞘天牛	1
+chi xiong ci wei hua tian niu	齿胸刺尾花天牛	1
+chi xue bu wu	痴学不悟	1
+chi ya chun se	齿牙春色	1
+chi ya shi shu	鸱鸦嗜鼠	1
+chi ya wei hua	齿牙为猾	1
+chi ya zhi hua	齿牙之猾	1
+chi yan jue	赤焰诀	1
+chi yan lian	赤炎镰	1
+chi yan shan zhai	赤眼山寨	1
+chi yan shao lu yun	赤焰烧虏云	1
+chi yan shuang gou	赤炎双钩	1
+chi yan zhi gong	赤焰之弓	1
+chi yan zhi jian	赤焰之剑	1
+chi yao mei hua que	赤腰梅花雀	1
+chi ye feng lin bai she ming	赤叶枫林百舌鸣	1
+chi ye hong	赤页红	1
+chi yi bu ding	持疑不定	1
+chi yi bu duan	迟疑不断	1
+chi yi gu wang	迟疑顾望	1
+chi yi mei shi	侈衣美食	1
+chi yi xiang hu zhi	持一象笏至	1
+chi yi zuo kun	迟疑坐困	1
+chi yin jie ban	齿龈结瓣	1
+chi ying shou xu	持盈守虚	1
+chi you huang ru ge	豉油皇乳鸽	1
+chi yu cun xia	尺瑜寸瑕	1
+chi yu kuai wu	耻与哙伍	1
+chi yu lin mu	池鱼林木	1
+chi yu mu yan	池鱼幕燕	1
+chi yu tang yan	池鱼堂燕	1
+chi yu zao yang	池鱼遭殃	1
+chi yu zhi lv	池鱼之虑	1
+chi yuan ci lie chun xiang	齿缘刺猎椿象	1
+chi yuan mao jiao hua tian niu	赤缘毛角花天牛	1
+chi yun ni yu	痴云腻雨	1
+chi zao	敕造	1
+chi zao hui ju	摛藻绘句	1
+chi zhai ning fo	持斋佞佛	1
+chi zhang men hu	鸱张门户	1
+chi zhang shu fu	鸱张鼠伏	1
+chi zhang yi ju	鸱张蚁聚	1
+chi zhang yu lan	鸱张鱼烂	1
+chi zhen nie	持针镊	1
+chi zheng bu nao	持正不挠	1
+chi zhi	褫职	1
+chi zhi dun guo luo	齿直盾蜾蠃	1
+chi zhi huang mao ji	豉汁黄毛鸡	1
+chi zhi ku gua	豉汁苦瓜	1
+chi zhi mu li	豉汁牡蛎	1
+chi zhi yi wu	驰志伊吾	1
+chi zhi zheng xiao pai	豉汁蒸小排	1
+chi zhou	池州	1
+chi zhou	赤洲	1
+chi zhu wu fu	尺竹伍符	1
+chi zhu yi	赤朱衣	1
+chi zi bai zu	赤髭白足	1
+chi zong	瘛疭	1
+chi zong tou gou	侈纵偷苟	1

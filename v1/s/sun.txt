@@ -1,0 +1,501 @@
+sun shi	损失	500466
+sun hai	损害	500318
+sun huai	损坏	368405
+sun shang	损伤	262155
+sun zi	孙子	89015
+sun hao	损耗	85305
+sun zhong shan	孙中山	77785
+sun yi	损益	73245
+sun wu kong	孙悟空	61670
+sun hui	损毁	57850
+sun hai pei chang	损害赔偿	49510
+sun quan	孙权	40960
+sun nv	孙女	28285
+sun yan zi	孙燕姿	27065
+sun xian sheng	孙先生	26285
+sun zi bing fa	孙子兵法	25950
+sun shi le	损失了	23165
+sun mou	孙某	15995
+sun shi can zhong	损失惨重	15535
+sun ce	孙策	15405
+sun lao	孙老	14920
+sun yi biao	损益表	14675
+sun jia	孙家	13385
+sun wen	孙文	12685
+sun li	孙俪	12475
+sun ren li ji	损人利己	11955
+sun jian	孙建	10090
+sun gan er	笋干儿	9999
+sun tou	榫头	9999
+sun zei	孙贼	9999
+sun zhao er	损招儿	9999
+sun shi	孙氏	9490
+sun jian	孙坚	9475
+sun nan	孙楠	9380
+sun bin	孙膑	8670
+sun xiao jie	孙小姐	8650
+sun er	孙儿	7955
+sun hai pei chang ze ren	损害赔偿责任	7730
+sun shang xiang	孙尚香	6650
+sun si miao	孙思邈	6520
+sun nv shi	孙女士	6270
+sun ren	损人	5815
+sun mao	榫卯	5555
+sun shi fei	损失费	5235
+sun gan	笋干	5125
+sun yi tiao zheng	损益调整	4735
+sun en	孙恩	4660
+sun hong lei	孙红雷	4585
+sun shi lv	损失率	4545
+sun wu	孙吴	4520
+sun zhi gang	孙志刚	4250
+sun you	损友	4230
+sun da sheng	孙大圣	3885
+sun shi pei chang	损失赔偿	3770
+sun shi han shu	损失函数	3684
+sun guo qing	孙国庆	3470
+sun a	损啊	3333
+sun hai cheng du	损害程度	3325
+sun hao	孙皓	3320
+sun shi cheng du	损失程度	3270
+sun hou zi	孙猴子	3070
+sun ren bu li ji	损人不利己	3040
+sun gong fei si	损公肥私	2910
+sun bei	孙辈	2890
+sun bing zhe jiang	损兵折将	2765
+sun xing zhe	孙行者	2755
+sun hai dao	损害到	2695
+sun er niang	孙二娘	2560
+sun hao lv	损耗率	2465
+sun shi e	损失额	2355
+sun shi xian	损失险	2300
+sun fu ren	孙夫人	2235
+sun hai zhe	损害者	2235
+sun shang xing	损伤性	2130
+sun huai cheng du	损坏程度	2035
+sun hai pei chang qing qiu quan	损害赔偿请求权	1850
+sun jian	孙剑	1850
+sun hai pei chang jiu fen	损害赔偿纠纷	1800
+sun qian	孙乾	1747
+sun shi zhe	损失者	1740
+sun shi bao xian	损失保险	1715
+sun wu xian	孙吴县	1710
+sun yi ning	孙一宁	1680
+sun po po	孙婆婆	1450
+sun shi qing dan	损失清单	1280
+sun xi fu	孙媳妇	1185
+sun huai lv	损坏率	1125
+sun yang	孙杨	1111
+sun zhao er	损着儿	1111
+sun gang lu	笋岗路	1060
+sun bin bing fa	孙膑兵法	1005
+sun jia wan	孙家湾	910
+sun yi xian	孙逸仙	875
+sun shi ji suan	损失计算	860
+sun hai pei chang su song	损害赔偿诉讼	850
+sun shan	孙山	790
+sun jing	孙静	789
+sun shi ze ren	损失责任	785
+sun hai xing	损害性	755
+sun hao liang	损耗量	700
+sun nv xu	孙女婿	690
+sun yan	榫眼	665
+sun huai zhe	损坏者	650
+sun lin	孙林	643
+sun wu kong san da bai gu jing	孙悟空三打白骨精	605
+sun zhi you sun	损之又损	585
+sun rui	孙睿	574
+sun ke	笋壳	567
+sun jia xu	孙佳旭	562
+sun jing bo	孙敬博	562
+sun kai zhi	孙楷智	562
+sun hao jiao	损耗角	535
+sun qian	孙谦	534
+sun yun xiao	孙云晓	514
+sun ye ye	孙爷爷	505
+sun jie	孙洁	481
+sun li qun	孙立群	466
+sun hai ying	孙海英	428
+sun de zheng	孙得证	385
+sun ruo feng	孙若丰	385
+sun sheng chao	孙胜超	385
+sun ya fei	孙亚菲	385
+sun liang	孙亮	376
+sun ji	笋鸡	375
+sun fu hui	孙福辉	340
+sun er ye	孙二爷	339
+sun ning	孙宁	314
+sun fei	孙飞	305
+sun wen xue shuo	孙文学说	305
+sun wen	孙雯	269
+sun ye fang	孙冶方	261
+sun li ren	孙立人	243
+sun hai pei chang fa	损害赔偿法	235
+sun sheng xi	孙盛希	200
+sun yun yun	孙芸芸	200
+sun bo fu	孙伯符	199
+sun huai yan zhong	损坏严重	198
+sun jia cheng	孙嘉诚	192
+sun yuan liang	孙元良	191
+sun hui yan zhong	损毁严重	189
+sun cheng ji	孙成吉	187
+sun shu tao	孙述涛	187
+sun xi ming	孙希鸣	187
+sun yi han	孙伊涵	181
+sun shi fen dan	损失分担	178
+sun yi ning	孙艺宁	178
+sun hai hou guo	损害后果	177
+sun li cheng	孙立成	177
+sun yi hang	孙亦航	177
+sun xin yang	孙新阳	168
+sun de shun	孙德顺	167
+sun de lin	孙德林	166
+sun lu yu	孙鲁育	166
+sun yu min	孙毓敏	165
+sun qian	孙倩	163
+sun guo you	孙国友	162
+sun ming hui	孙铭徽	161
+sun de rong	孙德荣	160
+sun mao li	孙茂利	158
+sun san niang	孙三娘	158
+sun zhe ping	孙哲平	157
+sun li jun	孙力军	156
+sun zhun hao	孙准浩	152
+sun hao dong	孙浩东	151
+sun hai shang shi gong si li yi zui	损害上市公司利益罪	150
+sun zi sun nv	孙子孙女	148
+sun qiao lu	孙侨潞	146
+sun gang jie dao	笋岗街道	145
+sun ya ya	孙亚亚	145
+sun zhong huai	孙忠怀	144
+sun le sun	损了损	143
+sun shi rui	孙世睿	143
+sun jia jun	孙佳俊	141
+sun gan	孙淦	140
+sun qiao	孙桥	140
+sun gang cun	笋岗村	138
+sun yi wen	孙一文	138
+sun fan qing	孙凡清	134
+sun cai ying	孙彩瑛	133
+sun xi jiu	孙锡久	133
+sun da wu	孙大午	131
+sun hai feng	孙海峰	131
+sun fei fei	孙菲菲	130
+sun qi sheng	孙起生	129
+sun guo wen	孙国文	127
+sun qi wei	孙启伟	127
+sun ding	笋丁	125
+sun pian	笋片	125
+sun yi sun	损一损	123
+sun lu lu	孙路路	121
+sun ruo wei	孙若微	121
+sun xin min	孙新民	121
+sun yi zhen	孙艺祯	117
+sun zu zhen	孙祖镇	116
+sun wei	孙威	115
+sun wu hu	孙武湖	115
+sun xiao meng	孙晓萌	115
+sun wu	孙武	111
+sun xing	孙姓	111
+sun guo shuai	孙国帅	110
+sun xu	孙婿	110
+sun chuan fang	孙传芳	108
+sun ren hai ji	损人害己	108
+sun xiang xiang	孙香香	108
+sun guo xiang	孙国相	107
+sun zhuang	孙庄	107
+sun gan lu	孙甘露	106
+sun yu lou	孙玉楼	103
+sun ba yi	孙八一	100
+sun bai yang	孙白杨	100
+sun bo hao	孙博豪	100
+sun bo shi	孙博士	100
+sun ce pi fu	孙策皮肤	100
+sun cui feng	孙翠凤	100
+sun da dao yan	孙大导演	100
+sun da ge	孙大哥	100
+sun da jie	孙大姐	100
+sun da qian	孙大千	100
+sun dai fu	孙大夫	100
+sun dao yan	孙导演	100
+sun dao zhang	孙道长	100
+sun er nv	孙儿女	100
+sun fu ji	孙福集	100
+sun fu jia	孙伏伽	100
+sun ge ge	孙哥哥	100
+sun gong si	孙公司	100
+sun guo bing	孙国兵	100
+sun guo ting	孙过庭	100
+sun hai de	损害的	100
+sun hao cheng du	损耗程度	100
+sun hao hui	孙皓辉	100
+sun hao ning	孙浩宁	100
+sun hao pin	损耗品	100
+sun hao yan zhong	损耗严重	100
+sun hao yang	孙浩洋	100
+sun hao ying	孙浩英	100
+sun he di qu	孙河地区	100
+sun hong tao	孙宏涛	100
+sun hong yi	孙宏义	100
+sun huang hou	孙皇后	100
+sun hui cheng du	损毁程度	100
+sun ji bin	孙集斌	100
+sun ji hai	孙继海	100
+sun jia min	孙嘉敏	100
+sun jia peng	孙家鹏	100
+sun jia tai	孙家台	100
+sun jia yi	孙嘉一	100
+sun jian ning	孙健宁	100
+sun jian ping	孙建平	100
+sun jiang zhe bing	损将折兵	100
+sun jiao shou	孙教授	100
+sun jie jie	孙姐姐	100
+sun ju zhang	孙局长	100
+sun jun zhe jiang	损军折将	100
+sun ke zhang	孙科长	100
+sun kong kong	孙空空	100
+sun lao shi	孙老师	100
+sun lu xi	孙璐西	100
+sun luo ke	笋螺科	100
+sun luo shu	笋螺属	100
+sun mei mei	孙妹妹	100
+sun mei nan	孙美楠	100
+sun nv er	孙女儿	100
+sun pei en	孙培恩	100
+sun pei yuan	孙培源	100
+sun ren yi ji	损人益己	100
+sun ru yun	孙如云	100
+sun shang bu da	损伤不大	100
+sun shang bu xiao	损伤不小	100
+sun shang can zhong	损伤惨重	100
+sun shang cheng du	损伤程度	100
+sun shang dao	损伤到	100
+sun shang de cheng du	损伤的程度	100
+sun shang long ti	损伤龙体	100
+sun shang lv	损伤率	100
+sun shang yan zhong	损伤严重	100
+sun shang yi ding bu da	损伤一定不大	100
+sun shang yi ding bu xiao	损伤一定不小	100
+sun shang yi xia	损上益下	100
+sun shao cheng	孙绍骋	100
+sun shao long	孙绍龙	100
+sun sheng nan	孙胜男	100
+sun shi fu	孙师傅	100
+sun shi le bu shao	损失了不少	100
+sun shi le shen me	损失了什么	100
+sun shi yan wu	损失厌恶	100
+sun shi yan zhong	损失严重	100
+sun shi ying lie	孙氏英烈	100
+sun shi zui can zhong	损失最惨重	100
+sun shu mei	孙淑媚	100
+sun shuo shi	孙硕士	100
+sun si yao	孙思尧	100
+sun si yi	孙思怡	100
+sun tai tai	孙太太	100
+sun tian yu	孙天宇	100
+sun tou tou	孙头头	100
+sun wen yong	孙闻雍	100
+sun wu fan	孙悟饭	100
+sun wu kong bei ya wu xing shan	孙悟空被压五行山	100
+sun wu tian	孙悟天	100
+sun wu zi	孙武子	100
+sun xian ze	孙咸泽	100
+sun xiao lei	孙霄磊	100
+sun xiao liang	孙晓亮	100
+sun xiao mei	孙小妹	100
+sun xiao mei	孙小美	100
+sun xiao yang	笋小样	100
+sun xiao zhang	孙校长	100
+sun xie zhi	孙协志	100
+sun xuan yang	孙瑄阳	100
+sun yao lu	孙耀路	100
+sun yao wei	孙耀威	100
+sun yi cheng	孙益程	100
+sun yi qiu	孙弈秋	100
+sun yi xiang di	损益相抵	100
+sun yi xin	孙艺心	100
+sun yi zhen	孙艺珍	100
+sun yi zhou	孙艺洲	100
+sun ying ying	孙颖颖	100
+sun yu bo	孙玉伯	100
+sun yu tang	孙毓棠	100
+sun yuan liang	孙远良	100
+sun yuan zhang	孙院长	100
+sun zhang lao	孙长老	100
+sun zhao guo	孙兆国	100
+sun zhe xing	孙者行	100
+sun zheng liang	孙正良	100
+sun zhi li	孙志立	100
+sun zhong mou	孙仲谋	100
+sun zhu ren	孙主任	100
+sun zi da zhuan	孙子大传	100
+sun zi hang	孙子航	100
+sun zi qing	孙紫晴	100
+sun zi ding li	孙子定理	97
+sun wei	孙卫	93
+sun li na	孙丽娜	85
+sun zhi gang an	孙志刚案	85
+sun dao lin	孙道临	81
+sun wei	孙玮	78
+sun jia cun	孙家村	75
+sun shao hai shen	笋烧海参	75
+sun mei	孙梅	73
+sun bin	孙滨	69
+sun dian ying	孙殿英	65
+sun jia bu	孙家埠	60
+sun hang	孙航	53
+sun kun	孙坤	53
+sun yi fei	孙逸飞	49
+sun yong zheng	孙勇征	49
+sun zhong	孙仲	49
+sun jia zhuang	孙家庄	43
+sun yi xiang di gui ze	损益相抵规则	42
+sun liang	孙梁	40
+sun zao	榫凿	40
+sun de	孙德	38
+sun he xiang zheng fu	孙河乡政府	35
+sun zhi wei	孙志伟	34
+sun bao shan	孙宝珊	31
+sun yi jun	孙艺军	31
+sun he cun	孙河村	29
+sun zhen	孙桢	29
+sun gang cang ku	笋岗仓库	24
+sun ji li ren	损己利人	24
+sun wen tao	孙文涛	20
+sun jia po	孙家坡	17
+sun jun	孙峻	17
+sun xing yan	孙星衍	17
+sun xia yi shang	损下益上	16
+sun yi rang	孙诒让	16
+sun geng	孙庚	15
+sun jia nai	孙家鼐	15
+sun ming jin	孙明瑾	15
+sun yu chu li	损余处理	15
+sun hong gang	孙虹钢	14
+sun jia wan jie dao	孙家湾街道	14
+sun zhi hong	孙志宏	14
+sun jia gou	孙家沟	13
+sun jia qiao	孙家桥	13
+sun qi feng	孙奇逢	13
+sun shi yi	孙士毅	13
+sun die	孙蝶	12
+sun jia gan	孙嘉淦	12
+sun jia gou xiang	孙家沟乡	12
+sun long	孙隆	12
+sun ming wei	孙明伟	12
+sun yu sheng	孙宇声	12
+sun zhong tong	孙忠同	12
+sun zi	笋子	11
+sun deng	孙登	10
+sun duan	孙端	10
+sun yong qing	孙永清	10
+sun kai hua	孙开华	9
+sun pang dou zhi	孙庞斗智	9
+sun yu wen	孙毓汶	9
+sun zhao	损招	9
+sun chun	孙纯	8
+sun gan	孙干	8
+sun jia ji	孙家集	8
+sun jia qiao cun	孙家桥村	8
+sun kang ying xue	孙康映雪	8
+sun jia ping	孙家坪	7
+sun jia ping xiang	孙家坪乡	7
+sun shao	孙韶	7
+sun tong xuan	孙桐萱	7
+sun xing min	孙兴慜	7
+sun you yu bu bu zu	损有余补不足	7
+sun lang	孙浪	6
+sun shi shan cun	孙史山村	6
+sun wang	孙旺	6
+sun cheng ze	孙承泽	5
+sun dao jing	孙道静	5
+sun dao ming	孙道明	5
+sun gao	孙高	5
+sun guan	孙观	5
+sun guo zhu	孙国柱	5
+sun jia gang	孙家岗	5
+sun si	笋丝	5
+sun xue ni	孙雪泥	5
+sun bao yu tang	笋鲍鱼汤	4
+sun chuan ting	孙传庭	4
+sun huan	孙桓	4
+sun jia yuan zi	孙家院子	4
+sun kai	孙楷	4
+sun ming dong	孙明东	4
+sun qiao nong ye yuan qu	孙桥农业园区	4
+sun ben wen	孙本文	3
+sun bing shu	孙秉枢	3
+sun cheng en	孙承恩	3
+sun cong	孙琮	3
+sun er zhun	孙尔准	3
+sun gua	损卦	3
+sun guang yu	孙光裕	3
+sun he dong zhan	孙河东站	3
+sun hui	孙蕙	3
+sun jiao	孙皎	3
+sun ke hong	孙克弘	3
+sun tang	孙堂	3
+sun yi yan	孙衣言	3
+sun zhu qiu qian you nv bing	笋柱秋千游女并	3
+sun zhuang cun wei hui	孙庄村委会	3
+sun zhuang zi	孙庄子	3
+sun bu er	孙不二	2
+sun chao ceng	孙超曾	2
+sun dian qi	孙殿起	2
+sun du jie dao	孙渡街道	2
+sun gan dian xiang	孙甘店乡	2
+sun gang	孙刚	2
+sun guang da	孙光大	2
+sun guang si	孙光祀	2
+sun guang xian	孙光宪	2
+sun hai pei chang cai jue	损害赔偿裁决	2
+sun hao	孙灏	2
+sun jia tan kai fa qu	孙家滩开发区	2
+sun jia zhai	孙家宅	2
+sun kou xiang	孙口乡	2
+sun kuang	孙匡	2
+sun lang	孙朗	2
+sun meng ya	孙梦雅	2
+sun qiang ming	孙锵鸣	2
+sun ting quan	孙廷铨	2
+sun wa cun	孙洼村	2
+sun wang chang cun	孙王场村	2
+sun yue ban	孙岳颁	2
+sun zhi zheng	孙智正	2
+sun zhong xin	孙中新	2
+sun ben zhu mo	损本逐末	1
+sun chang min	孙昌慜	1
+sun ci tang cun	孙祠堂村	1
+sun cun kai fa qu	孙村开发区	1
+sun de qian	孙德谦	1
+sun dong shan	孙东山	1
+sun dou cun	孙都村	1
+sun gan huang dou	笋干黄豆	1
+sun gang	笋岗	1
+sun gong	孙恭	1
+sun gua	笋瓜	1
+sun ji li wu	损己利物	1
+sun jia xiao zhuang	孙家小庄	1
+sun jiao si bao tang	荪角四宝汤	1
+sun ju	孙据	1
+sun le yang	孙乐扬	1
+sun long	孙珑	1
+sun quan bu qi gu	孙权不欺孤	1
+sun rao xi lan jing	荪桡兮兰旌	1
+sun ren an ji	损人安己	1
+sun ren fei ji	损人肥己	1
+sun shao xian	孙少先	1
+sun shen xing	孙慎行	1
+sun shi chang lu	孙氏长鲈	1
+sun shu cheng	孙树成	1
+sun si bai ye	笋丝百叶	1
+sun wu she qu	笋浯社区	1
+sun xiao ru	孙小茹	1
+sun yao	孙窑	1
+sun yu	孙瑜	1
+sun yu ting	孙玉庭	1
+sun yue	孙悦	1
+sun yue	孙越	1
+sun yue yang	孙乐扬	1
+sun zhuang cun cun wei hui	孙庄村村委会	1
+sun zi	榫子	1

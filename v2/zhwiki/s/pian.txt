@@ -1,0 +1,584 @@
+pian an	偏安	0
+pian an	骗案	0
+pian an chao dai	偏安朝代	0
+pian an chao ting	偏安朝廷	0
+pian an guo jia	偏安国家	0
+pian an zheng fu	偏安政府	0
+pian an zheng quan	偏安政权	0
+pian bai xiang	偏柏乡	0
+pian ban hua	偏瓣花	0
+pian ban hua shu	偏瓣花属	0
+pian bao	骗保	0
+pian bao zao shu	骈胞藻属	0
+pian bei che zhan	片贝车站	0
+pian bei zhan	片贝站	0
+pian ben san fen	偏苯三酚	0
+pian ben san jia suan	偏苯三甲酸	0
+pian bin che zhan	片滨车站	0
+pian bin zhan	片滨站	0
+pian bu	片部	0
+pian bu liao ren de nan ren	骗不了人的男人	0
+pian cai pian se	骗财骗色	0
+pian cang che zhan	片仓车站	0
+pian cang jia shi	片仓佳史	0
+pian cang jing gang	片仓景纲	0
+pian cang shi	片仓氏	0
+pian cang shou xin	片仓守信	0
+pian cang ting che zhan	片仓町车站	0
+pian cang ting zhan	片仓町站	0
+pian cang xi duo	片仓喜多	0
+pian cang xiao shi lang	片仓小十郎	0
+pian cang zhan	片仓站	0
+pian cang zhong gang	片仓重纲	0
+pian cang zhong zhang	片仓重长	0
+pian ce she chong cao	偏侧蛇虫草	0
+pian ce xing	偏侧性	0
+pian ceng pang zhu	片层庞蛛	0
+pian cha	偏差	0
+pian cha	片茶	0
+pian cha she hui xue	偏差社会学	0
+pian cha tong ji	偏差统计	0
+pian cha xin xi liang zhun ze	偏差信息量准则	0
+pian cha xing wei	偏差行为	0
+pian cha yang ben	偏差样本	0
+pian cha yin	偏差音	0
+pian cha zhi	偏差值	0
+pian chang xi tong	片场系统	0
+pian cheng gu cheng zhi	偏城古城址	0
+pian cheng jun	偏城郡	0
+pian cheng xiang	偏城乡	0
+pian cheng zhen	偏城镇	0
+pian chi e shu	片尺蛾属	0
+pian chi guo fu	偏齿果蝠	0
+pian chi long dan	偏翅龙胆	0
+pian chi tang song cao	偏翅唐松草	0
+pian da jie	片打街	0
+pian dan jie	片弹街	0
+pian dan jie lu	片弹街路	0
+pian dan shi lu	片弹石路	0
+pian dao	偏导	0
+pian dao	片刀	0
+pian dao fu hao	偏导符号	0
+pian dao hao	偏导号	0
+pian dao shu	偏导数	0
+pian dao shu fu hao	偏导数符号	0
+pian dao shu hao	偏导数号	0
+pian de dun	片的顿	0
+pian de dun yun ji keng	片的顿陨击坑	0
+pian di dun	片迪顿	0
+pian di dun yun ji keng	片迪顿陨击坑	0
+pian di gui han shu	偏递归函数	0
+pian di huang yan	骗地谎言	0
+pian di pao	偏底泡	0
+pian dian xiang	偏店乡	0
+pian dian zhan	偏店站	0
+pian ding ha	偏顶蛤	0
+pian ding ha shu	偏顶蛤属	0
+pian du	偏度	0
+pian duan	片段	0
+pian duan biao shi fu	片段标识符	0
+pian duan guan li	片段管理	0
+pian duan ji pu fa	片段记谱法	0
+pian duan zhuo se qi	片断着色器	0
+pian duan zhuo se yin qing	片段着色引擎	0
+pian e	偏俄	0
+pian er chuan	片儿川	0
+pian er cuan	片儿汆	0
+pian er jia ji jing	偏二甲基肼	0
+pian er jia ji lian an	偏二甲基联胺	0
+pian er jia jing	偏二甲肼	0
+pian er lv yi xi	偏二氯乙烯	0
+pian er ya liu suan	偏二亚硫酸	0
+pian fan ming	片仮名	0
+pian fan suan an	偏钒酸氨	0
+pian fan suan an	偏钒酸铵	0
+pian fan suan jia	偏钒酸钾	0
+pian fan suan na	偏钒酸钠	0
+pian fang	偏方	0
+pian fang	偏房	0
+pian fang mian ti	偏方面体	0
+pian fang san ba mian ti	偏方三八面体	0
+pian fei bing du	偏肺病毒	0
+pian feng za zhi	偏锋杂志	0
+pian feng zao shu	偏缝藻属	0
+pian fu	骈赋	0
+pian gai luo ke	偏盖螺科	0
+pian gai luo shu	偏盖螺属	0
+pian gang an you mei	片冈安祐美	0
+pian gang che zhan	片冈车站	0
+pian gang cong	片冈聡	0
+pian gang cong	片冈聪	0
+pian gang dou mei	片冈都美	0
+pian gang fu zhi	片冈富枝	0
+pian gang he tai lang	片冈鹤太郎	0
+pian gang li zi	片冈礼子	0
+pian gang qi lang	片冈七郎	0
+pian gang qian ye	片冈谦也	0
+pian gang qian zhi zhu	片冈千之助	0
+pian gang qian zhu	片冈千珠	0
+pian gang sha shu	片冈沙树	0
+pian gang shi yi	片冈十一	0
+pian gang wu chan	片冈物产	0
+pian gang xiao tai lang	片冈孝太郎	0
+pian gang xin he	片冈信和	0
+pian gang yan	片冈岩	0
+pian gang yi ze	片冈一则	0
+pian gang yi zhi	片冈易之	0
+pian gang yu zi	片冈玉子	0
+pian gang zhan	片冈站	0
+pian gang zhen shi	片冈真实	0
+pian gang zhi da	片冈治大	0
+pian gang zhi ren	片冈直人	0
+pian gang zhi wen	片冈直温	0
+pian gang zi	片冈梓	0
+pian gao dian suan	偏高碘酸	0
+pian ge	片格	0
+pian gou wai hui zui	骗购外汇罪	0
+pian guan	偏关	0
+pian guan he	偏关河	0
+pian guan wu cheng yi zhi	偏关吴城遗址	0
+pian guan xian	偏关县	0
+pian guan xian wen wu bao hu dan wei	偏关县文物保护单位	0
+pian guan zhan dou	偏关战斗	0
+pian guang jing	偏光镜	0
+pian guang pian	偏光片	0
+pian guang tai yang jing	偏光太阳镜	0
+pian guang wu ran	偏光污染	0
+pian guang yan jing	偏光眼镜	0
+pian gui suan na	偏硅酸钠	0
+pian guo dian suan	偏过碘酸	0
+pian hai gong sheng	偏害共生	0
+pian hai gong sheng	片害共生	0
+pian hai hao qing	骗海豪情	0
+pian hai man ze	片塰満则	0
+pian hai man ze	片塰满则	0
+pian han shu	偏函数	0
+pian hao	偏好	0
+pian hao guan xi	偏好关系	0
+pian he	偏何	0
+pian hong qing	片红青	0
+pian hua	片花	0
+pian hua bao chun	偏花报春	0
+pian hua er shu	片花耳属	0
+pian hua guan mu tong	偏花关木通	0
+pian hua huang qin	偏花黄芩	0
+pian hua jiao	偏滑角	0
+pian hua ma dou ling	偏花马兜铃	0
+pian hui	偏讳	0
+pian hui	片讳	0
+pian hui fang	翩汇坊	0
+pian ji	片剂	0
+pian ji cang er	偏基苍耳	0
+pian ji fu	片基夫	0
+pian ji fu qi	片基夫齐	0
+pian ji hua	偏极化	0
+pian ji ke fu si ke ye hu	片季科夫斯科耶湖	0
+pian ji liang tai	片寄凉太	0
+pian ji nuo nong cun ju min dian	片基诺农村居民点	0
+pian ji nuo shi zhen	片基诺市镇	0
+pian ji xiang	偏吉乡	0
+pian ji ye chan shu	片脊叶蝉属	0
+pian ji zi	偏极子	0
+pian jia ming	片假名	0
+pian jia ming kuo zhan	片假名扩展	0
+pian jia ming pin yin kuo zhan	片假名拼音扩展	0
+pian jia ming yu yin kuo zhan	片假名语音扩展	0
+pian jia suan na	偏镓酸钠	0
+pian jian	偏见	0
+pian jian	骗奸	0
+pian jian de gu shi	偏见的故事	0
+pian jian leng jia man shu	片尖棱甲螨属	0
+pian jian mang dian	偏见盲点	0
+pian jian mao tang shu	偏尖毛螳属	0
+pian jiang	偏将	0
+pian jiang jun	偏将军	0
+pian jiang xue si	片江学巳	0
+pian jiang yun	片姜允	0
+pian jiao	片礁	0
+pian jiao fei shi shu	偏角飞虱属	0
+pian jiao lei	片脚类	0
+pian jiao xiang	片角乡	0
+pian jiao zhen	片角镇	0
+pian jie zu tang shu	偏捷足螳属	0
+pian jin dian jiao	偏近点角	0
+pian jin si ji qu	片津斯基区	0
+pian jing	骗经	0
+pian jing gan chan shu	片胫杆蝉属	0
+pian ju	骈句	0
+pian ju	骗局	0
+pian ju huang qing	骗局谎情	0
+pian ke fu si ke ye hu	片科夫斯科耶湖	0
+pian ke ge nie yi wan	片克格涅伊湾	0
+pian ke wei	片科韦	0
+pian ke zao shu	片壳藻属	0
+pian kou ha ke	偏口蛤科	0
+pian kou ha shu	偏口蛤属	0
+pian kou ha zong ke	偏口蛤总科	0
+pian kou xiang	片口乡	0
+pian kuang xing jing shen fen lie zheng	偏狂型精神分裂症	0
+pian lai bai tian che zhan	片濑白田车站	0
+pian lai bai tian zhan	片濑白田站	0
+pian lai hao lie che	片濑号列车	0
+pian lai jiang zhi dao che zhan	片濑江之岛车站	0
+pian lai jiang zhi dao zhan	片濑江之岛站	0
+pian lai jiang zhi dao zhan	片瀬江之岛站	0
+pian lai mei yue	片濑美月	0
+pian lai na nai	片濑那奈	0
+pian lai na nai	片瀬那奈	0
+pian lai shan che zhan	片濑山车站	0
+pian lai shan zhan	片濑山站	0
+pian lai wei	片濑唯	0
+pian li	片理	0
+pian li	片栗	0
+pian li cheng du	偏离程度	0
+pian li fen	片栗粉	0
+pian li gong qi	偏利共栖	0
+pian li gong sheng	偏利共生	0
+pian li gong sheng	片利共生	0
+pian li xue	偏历穴	0
+pian lian cheng cheng zhi	偏脸城城址	0
+pian lie guan yin zuo lian	片裂观音座莲	0
+pian lin suan	偏磷酸	0
+pian lin suan an	偏磷酸铵	0
+pian lin suan bei	偏磷酸钡	0
+pian lin suan gen	偏磷酸根	0
+pian lin suan gu	偏磷酸钴	0
+pian lin suan nie	偏磷酸镍	0
+pian lin suan tu	偏磷酸钍	0
+pian lin suan yan	偏磷酸盐	0
+pian lin suan yin	偏磷酸银	0
+pian lin suan you xian	偏磷酸铀酰	0
+pian ling wu jiao er shi si mian ti	偏菱五角二十四面体	0
+pian ling zhan	偏岭站	0
+pian ling zhen	偏岭镇	0
+pian liu	片流	0
+pian lun che	片轮车	0
+pian lun shao nv	片轮少女	0
+pian luo qi	偏罗俟	0
+pian lv qi	偏滤器	0
+pian lv suan gai	偏铝酸钙	0
+pian lv suan li	偏铝酸锂	0
+pian lv suan mei	偏铝酸镁	0
+pian lv suan na	偏铝酸钠	0
+pian lv suan si	偏铝酸锶	0
+pian lv suan yan	偏铝酸盐	0
+pian lv zhi huo cheng yan	偏铝质火成岩	0
+pian ma	片马	0
+pian ma er jue	片马耳蕨	0
+pian ma fu ye er jue	片马复叶耳蕨	0
+pian ma hao	片马蒿	0
+pian ma jia liu jue	片马假瘤蕨	0
+pian ma jian zhu	片马箭竹	0
+pian ma jie zhi jue	片马节肢蕨	0
+pian ma she shu	片马社鼠	0
+pian ma tuan wa	片马湍蛙	0
+pian ma wa wei	片马瓦韦	0
+pian ma xiang	片马乡	0
+pian ma yan	片麻岩	0
+pian ma yi zu xiang	片马彝族乡	0
+pian ma you yuan	片马疣螈	0
+pian ma zhang shuo ju tai	片马长蒴苣苔	0
+pian ma zhang ya cai	片马獐牙菜	0
+pian ma zhen	片马镇	0
+pian mai er cao	偏脉耳草	0
+pian man ze	片满则	0
+pian men	偏门	0
+pian men gong zuo	偏门工作	0
+pian men hang ye	偏门行业	0
+pian mian bian hu	片面辩护	0
+pian mian shi shi	片面事实	0
+pian mian yin dao	片面引导	0
+pian mian zhen li	片面真理	0
+pian mo er liang	偏莫耳量	0
+pian mo er xing zhi	偏莫耳性质	0
+pian nao	片脑	0
+pian nei zhi xing	片内执行	0
+pian ni pian dao ai shang ni	骗你骗到爱上你	0
+pian ni suan ge	偏铌酸镉	0
+pian ni suan na	偏铌酸钠	0
+pian ni suan yan	偏铌酸盐	0
+pian niu	犏牛	0
+pian nong die shu	翩弄蝶属	0
+pian nuo zao gan yuan	偏诺皂苷元	0
+pian pai xu	偏排序	0
+pian pan jun ke	偏盘菌科	0
+pian pang	偏旁	0
+pian peng suan	偏硼酸	0
+pian peng suan bei	偏硼酸钡	0
+pian peng suan jia	偏硼酸钾	0
+pian peng suan li	偏硼酸锂	0
+pian peng suan na	偏硼酸钠	0
+pian pi fen zhi long	偏僻分支龙	0
+pian pi ya	片皮鸭	0
+pian pian	翩翩	0
+pian pian ai shang ni	偏偏爱上你	0
+pian pian ai shang ni	骗骗爱上你	0
+pian pian da xiao jie	骗骗大小姐	0
+pian pian leng shao qiao jia ren	翩翩冷少俏佳人	0
+pian pian wo que dou ji de	偏偏我却都记得	0
+pian pian xi huan ni	偏偏喜欢你	0
+pian pian xi ling	翩翩夕零	0
+pian pian xian ru ni	骗骗陷入你	0
+pian pin cun	片品村	0
+pian ping jin zuo	片平晋作	0
+pian po bu yi zu xiang	偏坡布依族乡	0
+pian po ying man zu xiang	偏坡营满族乡	0
+pian po ying zhen	偏坡营镇	0
+pian pu hong dao	片浦弘道	0
+pian qian ruan ti	骗钱软体	0
+pian qiao shui ku	偏桥水库	0
+pian qiao wei	偏桥卫	0
+pian qiao zi zhen	偏桥子镇	0
+pian qin shi	片侵蚀	0
+pian qiu jun	片球菌	0
+pian qiu jun shu	片球菌属	0
+pian qiu zao shu	片球藻属	0
+pian qu	骗取	0
+pian ren bu	骗人布	0
+pian ren niao	骗人鸟	0
+pian ren si ji qu	片任斯基区	0
+pian san jia ben	偏三甲苯	0
+pian san jiao mian	偏三角面	0
+pian san lun mo tuo che	偏三轮摩托车	0
+pian shan chou	片山愁	0
+pian shan dong xiong	片山东熊	0
+pian shan gao yue	片山皋月	0
+pian shan gong yi	片山恭一	0
+pian shan gui guang	片山贵光	0
+pian shan he zhi	片山和之	0
+pian shan hu zhi zhu	片山虎之助	0
+pian shan jin ben ting che zhan	片山津本町车站	0
+pian shan jin ben ting zhan	片山津本町站	0
+pian shan jin che zhan	片山津车站	0
+pian shan jin xian	片山津线	0
+pian shan jin zhan	片山津站	0
+pian shan li hui	片山梨绘	0
+pian shan liang tai	片山凉太	0
+pian shan mei zuo zi	片山美佐子	0
+pian shan meng mei	片山萌美	0
+pian shan nei ge	片山内阁	0
+pian shan qi	片山启	0
+pian shan qian	片山潜	0
+pian shan qian hui zi	片山千惠子	0
+pian shan san lang	片山三郎	0
+pian shan sha xi	片山纱希	0
+pian shan shi yu chi diao	片山氏愈齿鲷	0
+pian shan wen nan	片山文男	0
+pian shan wu yue	片山五月	0
+pian shan xian tai lang	片山宪太郎	0
+pian shan ya hua yi	片山牙花鮨	0
+pian shan yang	片山洋	0
+pian shan yang jia	片山阳加	0
+pian shan yi liang	片山一良	0
+pian shan you jing	片山右京	0
+pian shan you xi	片山友希	0
+pian shan yu ya yi	片山愈牙鮨	0
+pian shan zhe	片山哲	0
+pian shan zheng tong	片山正通	0
+pian shang	片商	0
+pian shang fa sheng	片上发声	0
+pian shang fa yin	片上发音	0
+pian shang guang wang luo	片上光网络	0
+pian shang shen	片上伸	0
+pian shang wang luo	片上网络	0
+pian shang xi tong	片上系统	0
+pian shi lu bie	片市鲁别	0
+pian shi shan fang	片石山房	0
+pian shi tang yi zhi	片石堂遗址	0
+pian shi xi lu dou da chu	偏食细路斗大厨	0
+pian shou xing	偏手性	0
+pian shu	骗术	0
+pian shu ji fu wu	骗术即服务	0
+pian shuo xian	偏蒴藓	0
+pian shuo xian shu	偏蒴藓属	0
+pian si jia ben	偏四甲苯	0
+pian si jiao mian ti	偏四角面体	0
+pian si ke	片斯克	0
+pian sui cao ke	偏穗草科	0
+pian sui chou cao	偏穗臭草	0
+pian sui deng xin cao	片髓灯心草	0
+pian sui e guan cao	偏穗鹅观草	0
+pian sui jiang	偏穗姜	0
+pian sui jiang shu	偏穗姜属	0
+pian sui que mai	偏穗雀麦	0
+pian suo luo shu	骗梭螺属	0
+pian tai	偏态	0
+pian tai fen bu	偏态分布	0
+pian tai suan	偏钛酸	0
+pian tai suan na	偏钛酸钠	0
+pian tan	偏瘫	0
+pian tang	片糖	0
+pian tao mu	偏桃木	0
+pian ti	骈体	0
+pian ti chong ke	偏体虫科	0
+pian ti chong mu	偏体虫目	0
+pian ti chong shu	偏体虫属	0
+pian ti mu	偏体目	0
+pian ti wen	骈体文	0
+pian ting che zhan	片町车站	0
+pian ting xian	片町线	0
+pian ting zhan	片町站	0
+pian tong bi yan die	偏瞳蔽眼蝶	0
+pian tong cai zi	片桐彩子	0
+pian tong chu tai	片桐雏太	0
+pian tong jin li xiang	片桐襟理香	0
+pian tong qie yuan	片桐且元	0
+pian tong qing er	片桐清二	0
+pian tong ren	片桐仁	0
+pian tong ru	片桐入	0
+pian tong zhen long	片桐贞隆	0
+pian tong zhou tai lang	片桐周太郎	0
+pian tou	片头	0
+pian tou guan	偏头关	0
+pian tou guan qian hu suo	偏头关千户所	0
+pian tou qu	片头曲	0
+pian tou tong	偏头痛	0
+pian tou zi mu	片头字幕	0
+pian tu	骗徒	0
+pian tu shan yang cao	偏凸山羊草	0
+pian wei cai dan	片尾彩蛋	0
+pian wei fen	偏微分	0
+pian wei fen fang cheng	偏微分方程	0
+pian wei fen fu hao	偏微分符号	0
+pian wei fen hao	偏微分号	0
+pian wei fu hao	偏微符号	0
+pian wei hao	偏微号	0
+pian wei lei shi nian	偏尾雷氏鲶	0
+pian wei pian duan	片尾片段	0
+pian wei qu	片尾曲	0
+pian wei zi mu	片尾字幕	0
+pian wen	骈文	0
+pian wen chang yu	偏文昌鱼	0
+pian wu	偏误	0
+pian wu lie huo	片雾烈火	0
+pian wu mang dian	偏误盲点	0
+pian wu suan na	偏钨酸钠	0
+pian wu yang ben	偏误样本	0
+pian xi jing	片西景	0
+pian xi qun	偏系群	0
+pian xi shu	片蟋属	0
+pian xi suan	偏锡酸	0
+pian xi suan gai	偏矽酸钙	0
+pian xiang hua	偏向花	0
+pian xiang lu you	偏向路由	0
+pian xie jia hua jie	偏斜假花介	0
+pian xie jin xiang cao	偏斜锦香草	0
+pian xie xiu shi yu	偏斜修饰语	0
+pian xie yin yang huo	偏斜淫羊藿	0
+pian xin lv	偏心率	0
+pian xin mao ling	偏心毛柃	0
+pian xin ye ling	偏心叶柃	0
+pian xin yin zi	偏心因子	0
+pian xing	片型	0
+pian xing ji kong shan hu	片形棘孔珊瑚	0
+pian xing ke	片形科	0
+pian xing shu	片形属	0
+pian xiong zhu	片熊蛛	0
+pian xu	偏序	0
+pian xu guan xi	偏序关系	0
+pian xu ji	偏序集	0
+pian xu ji he	偏序集合	0
+pian xu qiao hua shu	偏序鞘花属	0
+pian ya	偏压	0
+pian ya luo yu	偏雅罗鱼	0
+pian ya shen suan li	偏亚砷酸锂	0
+pian ya shen suan na	偏亚砷酸钠	0
+pian ya shen suan xin	偏亚砷酸锌	0
+pian yan	片岩	0
+pian yan he	偏岩河	0
+pian yan jin xiao feng shu	偏眼金小蜂属	0
+pian yan xiang	偏岩乡	0
+pian ye bai chi xian	偏叶白齿藓	0
+pian ye ban zhi hong	片野坂知宏	0
+pian ye chan shu	片叶蝉属	0
+pian ye che zhan	片野车站	0
+pian ye de wei	片叶的苇	0
+pian ye kuan li	片野宽理	0
+pian ye sha xian	偏叶砂藓	0
+pian ye ti deng xian	偏叶提灯藓	0
+pian ye xian shu	偏叶藓属	0
+pian ye ze xian	偏叶泽藓	0
+pian ye zhan	片野站	0
+pian ye zhi wei	片叶之苇	0
+pian yi	骈邑	0
+pian yi fang	便宜坊	0
+pian yi fang men lu kao ya ji yi	便宜坊焖炉烤鸭技艺	0
+pian yi jiao	偏移角	0
+pian yi liang	偏移量	0
+pian yi ya kou yu	偏翼亚口鱼	0
+pian yu	片羽	0
+pian yu	片语	0
+pian yu	片玉	0
+pian yu e shu	片羽蛾属	0
+pian yu jie gou gui ze	片语结构规则	0
+pian yuan di qu	偏远地区	0
+pian yuan hao yi lang	片渊浩一郎	0
+pian yuan hao yi lang	片渕浩一郎	0
+pian yuan ting che zhan	片原町车站	0
+pian yuan ting zhan	片原町站	0
+pian yuan xu zhi	片渊须直	0
+pian yuan xu zhi	片渕须直	0
+pian yuan xun fu	偏沅巡抚	0
+pian zai huang	片仔癀	0
+pian zhang chun shu	片长蝽属	0
+pian zhang fen xi	篇章分析	0
+pian zhang han	偏胀蚶	0
+pian zhe	偏折	0
+pian zhe jiao	偏折角	0
+pian zhe suan gu	偏锗酸钴	0
+pian zhe suan na	偏锗酸钠	0
+pian zhe suan qian	偏锗酸铅	0
+pian zhen	偏振	0
+pian zhen ce liang	偏振测量	0
+pian zhen guang	偏振光	0
+pian zhen ji	偏振计	0
+pian zhen jing	偏振镜	0
+pian zhen pian	偏振片	0
+pian zhen tuo yuan	偏振椭圆	0
+pian zhen zi	偏振子	0
+pian zheng	偏正	0
+pian zheng ci zu	偏正词组	0
+pian zheng duan yu	偏正短语	0
+pian zheng fu ju	偏正复句	0
+pian zheng jie gou	偏正结构	0
+pian zhi	偏执	0
+pian zhi	偏置	0
+pian zhi	胼胝	0
+pian zhi ken te	片治肯特	0
+pian zhi kuang	偏执狂	0
+pian zhi kuang ji qi ren	偏执狂机器人	0
+pian zhi lan shu	胼胝兰属	0
+pian zhi mian	偏执面	0
+pian zhi ti	胼胝体	0
+pian zhi ti gou	胼胝体沟	0
+pian zhi ti shang hui	胼胝体上回	0
+pian zhi ti xia hui	胼胝体下回	0
+pian zhi ti xia qu	胼胝体下区	0
+pian zhi xing jing shen bing	偏执性精神病	0
+pian zhi xing ren ge	偏执型人格	0
+pian zhi xing ren ge zhang ai	偏执型人格障碍	0
+pian zhi xing ren ge zhang ai	偏执性人格障碍	0
+pian zhi yin kuang	偏执音狂	0
+pian zhi zhi	胼胝质	0
+pian zhong	片种	0
+pian zhong chuan qi	骗中传奇	0
+pian zhong pian	骗中骗	0
+pian zhong zi mu	片中字幕	0
+pian zhou luo	扁舟螺	0
+pian zhou xiao mo xiang jing shu	扁舟小抹香鲸属	0
+pian zhu xuan xin ha	片助旋心蛤	0
+pian zhuang ji guang	片状激光	0
+pian zhuang lie li	片状裂理	0
+pian zhuang wen li	片状纹理	0
+pian zi	骗子	0
+pian zi ji	骗自己	0
+pian zi lei bian	骈字类编	0
+pian zi yu xiao tou dang	骗子与小偷党	0
+pian zi zheng hou qun	骗子症候群	0
+pian zu diao fu	片足吊缚	0
+pian zu fu	胼足蝠	0
+pian zu fu shu	胼足蝠属	0
+pian zu ya mu	胼足亚目	0
+pian zui luo fu jiang	偏嘴裸腹鳉	0
+pian zui tu wen yu	偏嘴突吻鱼	0
+pian zui xiao er cheng hui gui	偏最小二乘回归	0

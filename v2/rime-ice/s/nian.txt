@@ -1,0 +1,1392 @@
+nian ling	年龄	500590
+nian dai	年代	500559
+nian du	年度	500550
+nian qing	年轻	500350
+nian di	年底	500269
+nian qian	年前	500257
+nian lai	年来	372410
+nian qing ren	年轻人	352635
+nian zhong	年中	346975
+nian nei	年内	319655
+nian chu	年初	306840
+nian hou	年后	271060
+nian jian	年间	245670
+nian ji	年级	217480
+nian du bao gao	年度报告	215498
+nian ban	年版	212620
+nian xian	年限	200380
+nian fen	年份	192770
+nian ji	年纪	191660
+nian chan	年产	174695
+nian tou	念头	173650
+nian mo	年末	170925
+nian yue ri	年月日	154240
+nian jian	年检	138335
+nian hui	年会	126815
+nian dai chu	年代初	111500
+nian nian	年年	109915
+nian xin	年薪	99290
+nian fo	念佛	95235
+nian zhong	年终	88535
+nian jun	年均	86655
+nian bao	年报	79375
+nian xia	年下	78430
+nian ping jun	年平均	75295
+nian yue	年月	71270
+nian zeng zhang	年增长	67235
+nian zhong jiang	年终奖	66423
+nian jun zeng zhang	年均增长	61470
+nian shou ru	年收入	59555
+nian shen	年审	59435
+nian jin	年仅	56790
+nian di qian	年底前	54670
+nian cheng	年成	53615
+nian man	年满	53530
+nian jian	年鉴	53415
+nian tou	年头	51705
+nian chan liang	年产量	49440
+nian ling duan	年龄段	47455
+nian du ji hua	年度计划	47240
+nian chan zhi	年产值	46590
+nian xiao shou e	年销售额	44040
+nian hua	年华	43540
+nian du kao he	年度考核	42655
+nian lao	年老	40705
+nian qing shi	年轻时	39420
+nian mai	年迈	35365
+nian ban	年半	35275
+nian shao	年少	35060
+nian du gong zuo	年度工作	34615
+nian xiao shou shou ru	年销售收入	34110
+nian zhang	年长	33670
+nian shu	念书	33620
+nian lao	年牢	33333
+nian sheng chan	年生产	32375
+nian you	年幼	31815
+nian sheng chan neng li	年生产能力	30550
+nian zeng jia	年增加	30435
+nian zhan	年展	30375
+nian jin	年金	30285
+nian fei	年费	30260
+nian mo	黏膜	27515
+nian xing	黏性	24070
+nian nian bu wang	念念不忘	23880
+nian du zui jia	年度最佳	23065
+nian hua	年画	22495
+nian zhi	年制	22000
+nian qing hua	年轻化	21685
+nian jiao	黏胶	21605
+nian nian	念念	21015
+nian dao	念叨	20900
+nian le	念了	20795
+nian zhe	念着	19950
+nian jin	年近	19455
+nian qing gan bu	年轻干部	18885
+nian sui	年岁	18700
+nian qing yi dai	年轻一代	18545
+nian hao	年号	18320
+nian jing	念经	17440
+nian fu yi nian	年复一年	16960
+nian guan	年关	16900
+nian du cai wu	年度财务	16755
+nian chou	黏稠	16080
+nian du	黏度	15815
+nian ye fan	年夜饭	15200
+nian qing nv xing	年轻女性	15165
+nian li run	年利润	14955
+nian tou zi	年投资	14930
+nian ling jie gou	年龄结构	14695
+nian du che	年度车	14391
+nian zeng zhang lv	年增长率	14255
+nian lun	年轮	13940
+nian du ren wu	年度人物	13890
+nian shu	年数	13800
+nian huo	年货	13455
+nian ye	黏液	12920
+nian ji	念及	12560
+nian qing nv zi	年轻女子	12515
+nian ya	碾压	12345
+nian guo qu le	年过去了	12320
+nian song	念诵	12315
+nian dai li	年代里	11970
+nian ling ceng	年龄层	11900
+nian lv	年率	11645
+nian li lv	年利率	11275
+nian ji qing qing	年纪轻轻	11040
+nian du yu suan	年度预算	10685
+nian shou yi lv	年收益率	10625
+nian xin zhi	年薪制	10617
+nian qing piao liang	年轻漂亮	10335
+nian zhong kao he	年终考核	10250
+nian ji zu	年级组	10160
+nian du mu biao	年度目标	10125
+nian ba	蔫巴	9999
+nian bu ji	蔫不唧	9999
+nian cai	年菜	9999
+nian fu	黏附	9999
+nian gun zi	碾磙子	9999
+nian he	黏合	9999
+nian he ji	黏合剂	9999
+nian jiu er	拈阄儿	9999
+nian ka	年卡	9999
+nian mu	年暮	9999
+nian nian zhuan er	捻捻转儿	9999
+nian ren	黏人	9999
+nian shen sui jiu	年深岁久	9999
+nian xiang	念想	9999
+nian xiang er	念想儿	9999
+nian xin er	念心儿	9999
+nian yi pa nan	拈易怕难	9999
+nian yu	鲇鱼	9999
+nian zhuo	黏着	9999
+nian qing nv hai	年轻女孩	9960
+nian piao	年票	9890
+nian shi	念诗	9850
+nian wan	念完	9805
+nian nian you ci	念念有词	9600
+nian chu	念出	9480
+nian ni	念你	9340
+nian qing nan zi	年轻男子	9305
+nian dao	念到	9270
+nian jie	年节	9175
+nian dao	念道	9085
+nian li	年礼	8999
+nian xiao liang	年销量	8940
+nian li	年里	8910
+nian ling xian zhi	年龄限制	8880
+nian fu li qiang	年富力强	8855
+nian jie ji	黏结剂	8795
+nian zhong jiang jin	年终奖金	8660
+nian di kai shi	年底开始	8520
+nian zhu	念珠	8490
+nian shao shi	年少时	8380
+nian biao	年表	8270
+nian ji xue sheng	年级学生	8260
+nian pu	年谱	8190
+nian qing de xin	年轻的心	8080
+nian tu	黏土	7995
+nian jiu shi xiu	年久失修	7980
+nian ling zu	年龄组	7885
+nian shi yi gao	年事已高	7880
+nian ling zui da	年龄最大	7810
+nian qing you wei	年轻有为	7775
+nian wu	廿五	7755
+nian zhu jun	念珠菌	7720
+nian ji qing	年纪轻	7440
+nian fang	年方	7385
+nian tu zhuan	黏土砖	7155
+nian shou	年收	7100
+nian jun zeng zhang lv	年均增长率	7025
+nian lao ti ruo	年老体弱	7010
+nian zhong zong jie	年终总结	6995
+nian dai jiu yuan	年代久远	6980
+nian zi	年资	6830
+nian zai	黏在	6666
+nian fa dian liang	年发电量	6610
+nian du ye ji	年度业绩	6550
+nian du shen ji	年度审计	6495
+nian di yi qian	年底以前	6490
+nian ji xiao	年纪小	6355
+nian qi	念起	6355
+nian ling xiao	年龄小	6330
+nian zu jin	年租金	6320
+nian nu jiao	念奴娇	6300
+nian guo	念过	6175
+nian zhou	念咒	6175
+nian shou	年首	6135
+nian qing mao mei	年轻貌美	6125
+nian ling pian da	年龄偏大	5965
+nian shao qing kuang	年少轻狂	5945
+nian sui	碾碎	5925
+nian jing	年景	5810
+nian sheng cun lv	年生存率	5650
+nian jia	年假	5630
+nian ling jie duan	年龄阶段	5585
+nian hua	年化	5555
+nian le	蔫了	5555
+nian qing qiu yuan	年轻球员	5555
+nian wei	年尾	5485
+nian xiao shou liang	年销售量	5360
+nian fan	年饭	5310
+nian nian sui sui	年年岁岁	5290
+nian zai	念在	5185
+nian san shi	年三十	5050
+nian qing qi sheng	年轻气盛	4885
+nian de	念得	4810
+nian qing nan nv	年轻男女	4780
+nian ji da de	年纪大的	4770
+nian chou du	黏稠度	4715
+nian jiu	念旧	4695
+nian xiu jia	年休假	4655
+nian zhang zhe	年长者	4570
+nian chou de	黏稠的	4545
+nian guo	碾过	4510
+nian jiang yu liang	年降雨量	4445
+nian wei	年味	4444
+nian wei er	年味儿	4412
+nian guo ban bai	年过半百	4410
+nian kan	年刊	4400
+nian hua	拈花	4365
+nian du ji	黏度计	4350
+nian ping jun zeng zhang	年平均增长	4310
+nian ling te zheng	年龄特征	4285
+nian qing fu fu	年轻夫妇	4265
+nian qing bai ling	年轻白领	4260
+nian gei	念给	4215
+nian cheng	念成	4165
+nian qing nv ren	年轻女人	4080
+nian qing li zhuang	年轻力壮	4010
+nian jiu	年久	3990
+nian qing gu niang	年轻姑娘	3970
+nian zu	年租	3890
+nian shi	年事	3745
+nian yue ri shi	年月日时	3745
+nian feng	年丰	3605
+nian qing tang gu la shan	念青唐古拉山	3555
+nian hua re cao	拈花惹草	3490
+nian nian	黏黏	3455
+nian cheng	碾成	3435
+nian qing dui yuan	年轻队员	3390
+nian shang	撵上	3385
+nian fa	念法	3375
+nian bang	年榜	3333
+nian gao	年糕	3333
+nian le	黏了	3333
+nian ni	黏腻	3333
+nian san	廿三	3333
+nian li shui	年利税	3275
+nian nian you yu	年年有余	3180
+nian chan neng li	年产能力	3160
+nian jin bao xian	年金保险	3150
+nian qing shi shang	年轻时尚	3145
+nian geng yao	年羹尧	3110
+nian zi	碾子	3065
+nian zou	撵走	2950
+nian ping jun zeng zhang lv	年平均增长率	2895
+nian zhi	黏滞	2875
+nian ji	年祭	2845
+nian yuan dan	年元旦	2843
+nian ya	黏牙	2793
+nian you wu zhi	年幼无知	2790
+nian mo	碾磨	2775
+nian ye	年夜	2740
+nian xi	年息	2695
+nian qing shi dai	年轻时代	2595
+nian guang	年光	2590
+nian ji hai xiao	年纪还小	2590
+nian nian de	黏黏的	2590
+nian sheng	念生	2560
+nian ling fen bu	年龄分布	2525
+nian qing fu nv	年轻妇女	2520
+nian jun	捻军	2425
+nian ye xing	黏液性	2425
+nian qing ying jun	年轻英俊	2405
+nian yun	年运	2395
+nian zhong pan dian	年终盘点	2360
+nian bai	念白	2350
+nian xiao	年销	2330
+nian xiu	年休	2330
+nian yu gu xi	年逾古稀	2300
+nian guo hua jia	年过花甲	2270
+nian chu yi	年初一	2265
+nian hao	念好	2245
+nian er	廿二	2222
+nian gao	念稿	2222
+nian gao er	念稿儿	2222
+nian gao zi	念稿子	2222
+nian li	念力	2222
+nian yi xia	念一下	2222
+nian cheng jiao e	年成交额	2195
+nian cuo	念错	2165
+nian qing xuan shou	年轻选手	2160
+nian qing fu qi	年轻夫妻	2135
+nian mi	碾米	2070
+nian hu	黏糊	2065
+nian fa zhan	年发展	2061
+nian qing yan yuan	年轻演员	2050
+nian zhou yu	念咒语	2035
+nian ji zhu ren	年级主任	2010
+nian ye zhi	黏液质	1955
+nian shao wu zhi	年少无知	1950
+nian lao ti shuai	年老体衰	1840
+nian zhe ni	念着你	1830
+nian zhu jun bing	念珠菌病	1830
+nian chu	撵出	1805
+nian yi shi ji	廿一世纪	1795
+nian hua si shui	年华似水	1790
+nian shou	年寿	1775
+nian ce	年册	1765
+nian li ka	年历卡	1735
+nian shao qi sheng	年少气盛	1730
+nian zhong kao ping	年终考评	1690
+nian du jue suan	年度决算	1680
+nian jian fei	年检费	1680
+nian zi shan	碾子山	1670
+nian lao se shuai	年老色衰	1600
+nian qi lai	念起来	1530
+nian xiong	年兄	1520
+nian jin hua jia	年近花甲	1500
+nian lao duo bing	年老多病	1430
+nian lai	拈来	1405
+nian jin xian zhi	年金现值	1395
+nian zhong jie suan	年终结算	1370
+nian yu hua jia	年逾花甲	1350
+nian shou fei	年收费	1340
+nian xiang	拈香	1325
+nian fu xing	黏附性	1295
+nian shen ri jiu	年深日久	1270
+nian chu san	年初三	1250
+nian zhi	年值	1245
+nian nian ru ci	年年如此	1240
+nian gao	年高	1231
+nian jin gu xi	年近古稀	1225
+nian yu xiao ying	鲇鱼效应	1225
+nian li	年利	1222
+nian zuo	念作	1215
+nian si	碾死	1210
+nian shi	年市	1206
+nian bu shang	撵不上	1180
+nian dou bao	黏豆包	1180
+nian hu hu	黏糊糊	1180
+nian nian zuo leng shan men	年年坐冷山门	1180
+nian qu qu qian li yan bo	念去去千里烟波	1180
+nian shang lai	撵上来	1180
+nian shao pao ren rong yi qu	年少抛人容易去	1180
+nian sui wan mu shi yi xie	年岁晚暮时已斜	1180
+nian tian di zhi you you	念天地之悠悠	1180
+nian tu kuang	黏土矿	1145
+nian du zhi shu	黏度指数	1140
+nian mi ji	碾米机	1135
+nian di wan gong	年底完工	1115
+nian er le	蔫儿了	1111
+nian fang er ba	年方二八	1111
+nian fu	年付	1111
+nian huai	蔫坏	1111
+nian le	撵了	1111
+nian mao	年貌	1111
+nian pao	年抛	1111
+nian ru	年入	1111
+nian wo	撵我	1111
+nian yi	廿一	1111
+nian yu	鲶鱼	1111
+nian zhu	黏住	1111
+nian zun	年尊	1111
+nian du diao cha	年度调查	1095
+nian pan	碾盘	1095
+nian xian ji	捻线机	1090
+nian ni	黏泥	1085
+nian jin ban bai	年近半百	1080
+nian li	年历	1078
+nian dai ji	年代记	1075
+nian de	碾得	1050
+nian ci	年次	1040
+nian zong chan	年总产	1030
+nian su	年俗	1010
+nian zi zai zi	念兹在兹	1000
+nian hu hu	蔫乎乎	999
+nian jie	年届	999
+nian nian yue yue	年年月月	999
+nian gen	年根	990
+nian yue ri shi fen	年月日时分	990
+nian mai ti ruo	年迈体弱	970
+nian de	黏的	945
+nian ling yin su	年龄因素	945
+nian hu hu de	黏糊糊的	940
+nian zhi xing	黏滞性	935
+nian zhuo xing	黏着性	913
+nian zhuo li	黏着力	889
+nian ba	廿八	888
+nian du di	黏度低	880
+nian qing mei mao	年轻美貌	880
+nian zhuo ji	黏着剂	856
+nian bao xian fei	年保险费	855
+nian guo gu xi	年过古稀	815
+nian he xing	黏合性	785
+nian le nian	念了念	784
+nian qi	廿七	777
+nian yi nian	念一念	770
+nian chi	年齿	755
+nian qing tang gu la shan mai	念青唐古拉山脉	755
+nian hua	黏滑	740
+nian du ji suan	年度计算	735
+nian nian hu hu	黏黏糊糊	730
+nian tu ceng	黏土层	725
+nian lao zhe	年老者	705
+nian ke	撵客	678
+nian lao li shuai	年老力衰	675
+nian mo yan	黏膜炎	675
+nian liu	廿六	666
+nian chu qu	撵出去	660
+nian shao you wei	年少有为	660
+nian ci an	念慈安	645
+nian qing nv lang	年轻女郎	625
+nian geng	年庚	615
+nian mi chang	碾米厂	610
+nian nian you yu	年年有鱼	600
+nian qing pa zhong	拈轻怕重	595
+nian zai	年载	590
+nian jiu	拈阄	555
+nian chong	黏虫	551
+nian zhi du	黏滞度	545
+nian xu	捻须	540
+nian yu	年逾	537
+nian xu	拈须	535
+nian he jiao	黏合胶	530
+nian qing shao nv	年轻少女	515
+nian feng	年俸	495
+nian sui	捻碎	495
+nian hua zhi	拈花指	485
+nian chu shi	年初十	477
+nian zi shan qu	碾子山区	475
+nian zhong qing suan	年终清算	450
+nian shi	年时	444
+nian zi	捻子	440
+nian qi	捻起	425
+nian du mo	年度末	421
+nian ling qi	年龄期	405
+nian gong da jian	拈弓搭箭	375
+nian you zhe	年幼者	365
+nian chu ji	年初几	360
+nian fang	碾坊	360
+nian chou wu	黏稠物	345
+nian chu lai	念出来	340
+nian bu qi	念不起	335
+nian wo	黏我	333
+nian de	黏得	320
+nian gao de shao	年高德劭	320
+nian xi	捻熄	310
+nian wen ti	年问题	302
+nian li bai wan	年利百万	300
+nian zhuo wei	黏着位	300
+nian xu yao liang	年需要量	290
+nian jing li	年净利	280
+nian qing shi	年轻是	276
+nian zhi	捻指	265
+nian si le	捻死了	256
+nian yi nian	捻一捻	256
+nian nian bu she	念念不舍	255
+nian nian sui sui hua xiang si	年年岁岁花相似	255
+nian long	年龙	253
+nian shao zhe	年少者	245
+nian tou er	年头儿	245
+nian gu	年古	243
+nian you	年友	235
+nian zi gou	碾子沟	232
+nian duan	捻断	225
+nian yu bu huo	年逾不惑	225
+nian wu	念物	220
+nian bei	年辈	215
+nian long	念龙	210
+nian du ge qu	年度歌曲	200
+nian du kao he biao	年度考核表	200
+nian tou da nao	蔫头耷脑	200
+nian xin bai wan	年薪百万	200
+nian hou fa	年后发	196
+nian zhong hui kui	年终回馈	196
+nian du hui suan	年度汇算	191
+nian jin zhi	年金制	190
+nian zhong li	年终礼	189
+nian mei long	黏美龙	187
+nian zhong bao gao	年终报告	186
+nian huo da ji	年货大集	185
+nian chu liu	年初六	180
+nian mi	黏米	180
+nian qing jiu shi hao	年轻就是好	178
+nian du zhang dan	年度账单	176
+nian zhang dan	年账单	176
+nian qing lao shi	年轻老师	173
+nian du you xi	年度游戏	172
+nian duan zhang	年段长	172
+nian xing wu	黏性物	170
+nian ling ji suan qi	年龄计算器	167
+nian zong jie	年总结	167
+nian huo da li bao	年货大礼包	165
+nian du yi ren	年度艺人	164
+nian chu qi	年初七	163
+nian du da hui yuan	年度大会员	163
+nian qie jiu shi	年且九十	163
+nian hou jian	年后见	160
+nian er jiu	年二九	158
+nian du pan dian	年度盘点	156
+nian gen er	年根儿	155
+nian guang jiu	年广久	155
+nian yu xiao ying	鲶鱼效应	153
+nian yi xia	年以下	152
+nian chu si	年初四	151
+nian yi qian	年以前	151
+nian ji li	年级里	150
+nian qing mei li	年轻美丽	149
+nian zhong hui	年中会	148
+nian nian jian	年年见	146
+nian bu zou	撵不走	145
+nian chu jiu	年初九	145
+nian shi lan	年世兰	145
+nian du ge dan	年度歌单	144
+nian dai chi	年代尺	143
+nian chu lai	撵出来	140
+nian ling shi dang	年龄适当	140
+nian pao	撵跑	140
+nian si le	碾死了	134
+nian zhong kuang huan	年终狂欢	133
+nian chu ba	年初八	130
+nian wei jian nong	年味渐浓	130
+nian de bi	念得比	125
+nian yi nian	撵一撵	124
+nian hou zai shuo	年后再说	123
+nian le nian	捻了捻	123
+nian yi nian	碾一碾	123
+nian fu fen zi	黏附分子	121
+nian bao zi chong	黏孢子虫	120
+nian mo mian yi	黏膜免疫	120
+nian yu	年余	118
+nian chu wu	年初五	113
+nian jie	黏结	111
+nian qi	年期	111
+nian suan chi cu	捻酸吃醋	111
+nian zhong wu xiu	年中无休	110
+nian du bao biao	年度报表	104
+nian du sheng dian	年度盛典	103
+nian le nian	碾了碾	103
+nian ba du	廿八都	100
+nian ba du gu zhen	廿八都古镇	100
+nian bai fen lv	年百分率	100
+nian ban yan	黏板岩	100
+nian bao hang qing	年报行情	100
+nian chang	碾场	100
+nian chang de nv ren	年长的女人	100
+nian chou de jing ye	黏稠的精液	100
+nian chou du gao	黏稠度高	100
+nian chou du zeng gao	黏稠度增高	100
+nian chou du zeng jia	黏稠度增加	100
+nian chu he	年楚河	100
+nian dai chuan qi ju	年代传奇剧	100
+nian dai di ceng	年代地层	100
+nian dai di ceng dan wei	年代地层单位	100
+nian dai mo	年代末	100
+nian dai xue	年代学	100
+nian dai yi lai	年代以来	100
+nian de bing gao	年德并高	100
+nian de li	粘得力	100
+nian de shu	念的书	100
+nian di a	年底啊	100
+nian di chong ye ji	年底冲业绩	100
+nian di hang qing	年底行情	100
+nian di le	年底了	100
+nian di zang jing	念地藏经	100
+nian dong li	念动力	100
+nian du an pai	年度安排	100
+nian du an quan	年度安全	100
+nian du ban	年度版	100
+nian du ban jiang	年度颁奖	100
+nian du ban jiang dian li	年度颁奖典礼	100
+nian du ban jiang sheng dian	年度颁奖盛典	100
+nian du bang	年度榜	100
+nian du bang dan	年度榜单	100
+nian du bao gao zhi du	年度报告制度	100
+nian du bao kuan	年度爆款	100
+nian du bei	黏度杯	100
+nian du bi kan	年度必看	100
+nian du bian hua	黏度变化	100
+nian du biao xian	年度表现	100
+nian du biao zhang	年度表彰	100
+nian du biao zhang da hui	年度表彰大会	100
+nian du bu tie	年度补贴	100
+nian du cai gou	年度采购	100
+nian du cai wu bao biao	年度财务报表	100
+nian du cai wu bao gao	年度财务报告	100
+nian du cai wu kuai ji bao gao	年度财务会计报告	100
+nian du cai zheng yu suan	年度财政预算	100
+nian du ce lve	年度策略	100
+nian du ce ping	年度测评	100
+nian du chan pin	年度产品	100
+nian du che shou zong guan jun	年度车手总冠军	100
+nian du che xing	年度车型	100
+nian du cheng ji dan	年度成绩单	100
+nian du chong fen	年度宠粉	100
+nian du chuang xin	年度创新	100
+nian du ci hui	年度词汇	100
+nian du da	黏度大	100
+nian du da cu	年度大促	100
+nian du da hui	年度大会	100
+nian du da jiang	年度大奖	100
+nian du da ju	年度大剧	100
+nian du da pian	年度大片	100
+nian du da sai	年度大赛	100
+nian du da xi	年度大戏	100
+nian du da xiu	年度大秀	100
+nian du da zhan	年度大展	100
+nian du da zuo	年度大作	100
+nian du dan mu	年度弹幕	100
+nian du dao yan	年度导演	100
+nian du deng ji	黏度等级	100
+nian du di er	年度第二	100
+nian du di yi	年度第一	100
+nian du dian shi ju	年度电视剧	100
+nian du dian ying	年度电影	100
+nian du fa bu	年度发布	100
+nian du fa bu hui	年度发布会	100
+nian du fei yue	年度飞跃	100
+nian du fen hong	年度分红	100
+nian du feng hui	年度峰会	100
+nian du feng yun ren wu	年度风云人物	100
+nian du fu wu	年度服务	100
+nian du gai kuan	年度改款	100
+nian du gao	黏度高	100
+nian du ge ren	年度个人	100
+nian du ge ren gong zuo zong jie	年度个人工作总结	100
+nian du ge shou	年度歌手	100
+nian du geng xin	年度更新	100
+nian du geng xin hui zong	年度更新汇总	100
+nian du gong yi	年度公益	100
+nian du gong zuo an pai	年度工作安排	100
+nian du gong zuo bao gao	年度工作报告	100
+nian du gong zuo hui	年度工作会	100
+nian du gong zuo hui yi	年度工作会议	100
+nian du gong zuo ji hua	年度工作计划	100
+nian du gong zuo kao he	年度工作考核	100
+nian du gong zuo mu biao	年度工作目标	100
+nian du gong zuo ren wu	年度工作任务	100
+nian du gong zuo yao dian	年度工作要点	100
+nian du gong zuo zong jie	年度工作总结	100
+nian du gong zuo zong jie fan wen	年度工作总结范文	100
+nian du gu dong da hui	年度股东大会	100
+nian du guan jian ci	年度关键词	100
+nian du guan jun	年度冠军	100
+nian du gui dang	年度归档	100
+nian du gui hua	年度规划	100
+nian du han zi	年度汉字	100
+nian du hao shu	年度好书	100
+nian du he yan	年度核验	100
+nian du hei ma	年度黑马	100
+nian du hui gu	年度回顾	100
+nian du hui suan qing jiao	年度汇算清缴	100
+nian du hui suan shen bao	年度汇算申报	100
+nian du hui yi	年度会议	100
+nian du hui yi	年度回忆	100
+nian du hui yuan	年度会员	100
+nian du hui zong	年度汇总	100
+nian du huo dong	年度活动	100
+nian du huo yue mai jia	年度活跃买家	100
+nian du huo yue yong hu	年度活跃用户	100
+nian du ji fen	年度积分	100
+nian du ji hua tou zi	年度计划投资	100
+nian du ji huang	年度机皇	100
+nian du ji jin	年度基金	100
+nian du ji jun	年度季军	100
+nian du ji shu	年度技术	100
+nian du ji xiao	年度绩效	100
+nian du ji xiao kao he	年度绩效考核	100
+nian du ji yi	年度记忆	100
+nian du ji yu	年度寄语	100
+nian du ji zhe	年度记者	100
+nian du jian cha	年度检查	100
+nian du jian du	年度监督	100
+nian du jian she ji hua	年度建设计划	100
+nian du jian xiu	年度检修	100
+nian du jian yan	年度检验	100
+nian du jiang	年度奖	100
+nian du jiang di	黏度降低	100
+nian du jiang jin	年度奖金	100
+nian du jiang li	年度奖励	100
+nian du jiang xiang	年度奖项	100
+nian du jiao shi	年度教师	100
+nian du jiao yu	年度教育	100
+nian du jin qu	年度金曲	100
+nian du jin qu jiang	年度金曲奖	100
+nian du jin rong	年度金融	100
+nian du jing ji ren wu	年度经济人物	100
+nian du jing li run	年度净利润	100
+nian du jing pin	年度精品	100
+nian du jing xuan	年度精选	100
+nian du jing ying	年度经营	100
+nian du jing ying ji hua	年度经营计划	100
+nian du jing ying mu biao	年度经营目标	100
+nian du jing ying ye ji	年度经营业绩	100
+nian du ju wang	年度剧王	100
+nian du ju xian	年度巨献	100
+nian du ju zhi	年度巨制	100
+nian du kao he bu he ge	年度考核不合格	100
+nian du kao he jie guo	年度考核结果	100
+nian du kao he you xiu	年度考核优秀	100
+nian du kao ping	年度考评	100
+nian du kao shi	年度考试	100
+nian du ke ji	年度科技	100
+nian du kou bei	年度口碑	100
+nian du kui sun	年度亏损	100
+nian du li run	年度利润	100
+nian du li run zong e	年度利润总额	100
+nian du li xing	年度例行	100
+nian du liu xing se	年度流行色	100
+nian du liu xing yu	年度流行语	100
+nian du lun tan	年度论坛	100
+nian du lv you	年度旅游	100
+nian du mei guo qi huan ke huan xie hui xing yun jiang	年度美国奇幻科幻协会星云奖	100
+nian du mei guo qi huan ke huan xie hui xing yun jiang chang pian xiao shuo lei	年度美国奇幻科幻协会星云奖长篇小说类	100
+nian du min zhu sheng huo hui	年度民主生活会	100
+nian du ming xing	年度明星	100
+nian du mu biao kao he	年度目标考核	100
+nian du mu biao ren wu	年度目标任务	100
+nian du mu biao ze ren kao he	年度目标责任考核	100
+nian du nan ge shou	年度男歌手	100
+nian du nan yan yuan	年度男演员	100
+nian du nei	年度内	100
+nian du nv xing	年度女性	100
+nian du nv yan yuan	年度女演员	100
+nian du ou xiang	年度偶像	100
+nian du pai hang bang	年度排行榜	100
+nian du pai ming	年度排名	100
+nian du pei xun	年度培训	100
+nian du pei xun ji hua	年度培训计划	100
+nian du piao fang	年度票房	100
+nian du piao fang guan jun	年度票房冠军	100
+nian du pin pai	年度品牌	100
+nian du ping gu	年度评估	100
+nian du ping jia	年度评价	100
+nian du ping xuan	年度评选	100
+nian du ping you	年度评优	100
+nian du pu luo mi xiu si jiang	年度普罗米修斯奖	100
+nian du pu luo mi xiu si jiang zui jia xiao shuo	年度普罗米修斯奖最佳小说	100
+nian du qi che	年度汽车	100
+nian du qi jian	年度旗舰	100
+nian du qi jian chan pin	年度旗舰产品	100
+nian du qi jian ji	年度旗舰机	100
+nian du qi jian shou ji	年度旗舰手机	100
+nian du qi ye	年度企业	100
+nian du qi ye suo de shui	年度企业所得税	100
+nian du qian li	年度潜力	100
+nian du qing dian	年度庆典	100
+nian du re ci	年度热词	100
+nian du re men	年度热门	100
+nian du ren qi	年度人气	100
+nian du ren qi zong jue xuan	年度人气总决选	100
+nian du ren wu	年度任务	100
+nian du ren wu jiang	年度人物奖	100
+nian du ren wu ping xuan	年度人物评选	100
+nian du rong yu	年度荣誉	100
+nian du sai shi	年度赛事	100
+nian du shang jie ren wu	年度商界人物	100
+nian du she ji	年度设计	100
+nian du she jiao	年度社交	100
+nian du shen bao	年度申报	100
+nian du shen cha	年度审查	100
+nian du shen he	年度审核	100
+nian du shen ji bao gao	年度审计报告	100
+nian du shen yan	年度审验	100
+nian du sheng hui	年度盛会	100
+nian du sheng shi	年度盛事	100
+nian du sheng yan	年度盛宴	100
+nian du shi da	年度十大	100
+nian du shi da dian feng zhu bo	年度十大巅峰主播	100
+nian du shi da jin qu	年度十大金曲	100
+nian du shi jia	年度十佳	100
+nian du shi jia fa dong ji	年度十佳发动机	100
+nian du shi jian	年度事件	100
+nian du shi shi ji hua	年度实施计划	100
+nian du shou guan	年度收官	100
+nian du shou guan zhi zhan	年度收官之战	100
+nian du shou ru	年度收入	100
+nian du shou shi guan jun	年度收视冠军	100
+nian du shou yi	年度收益	100
+nian du shu ju	年度数据	100
+nian du shu zhi	年度述职	100
+nian du shu zhi bao gao	年度述职报告	100
+nian du shu zi	年度数字	100
+nian du ti jian	年度体检	100
+nian du tiao xin	年度调薪	100
+nian du tiao zheng	年度调整	100
+nian du tong ji	年度统计	100
+nian du tou zi	年度投资	100
+nian du tou zi ji hua	年度投资计划	100
+nian du tu po	年度突破	100
+nian du tu shu	年度图书	100
+nian du tui jian	年度推荐	100
+nian du xi lie	年度系列	100
+nian du xian ding	年度限定	100
+nian du xian ding pi fu	年度限定皮肤	100
+nian du xian jin	年度先进	100
+nian du xiang mu	年度项目	100
+nian du xiao	黏度小	100
+nian du xiao guan	年度销冠	100
+nian du xiao hui yuan	年度小会员	100
+nian du xiao liang	年度销量	100
+nian du xiao shou e	年度销售额	100
+nian du xiao shou ji hua	年度销售计划	100
+nian du xiao shou mu biao	年度销售目标	100
+nian du xin chou	年度薪酬	100
+nian du xin pin	年度新品	100
+nian du xin ren	年度新人	100
+nian du xin ren jiang	年度新人奖	100
+nian du xin rui	年度新锐	100
+nian du xin wen	年度新闻	100
+nian du xin xi	年度信息	100
+nian du xing	年度性	100
+nian du xuan ben	年度选本	100
+nian du ya jun	年度亚军	100
+nian du ya zhou	年度压轴	100
+nian du ye ji bao gao	年度业绩报告	100
+nian du ye ji kuai bao	年度业绩快报	100
+nian du yi	黏度仪	100
+nian du yi li	年度溢利	100
+nian du yin yue	年度音乐	100
+nian du ying li	年度盈利	100
+nian du ying na shui suo de e	年度应纳税所得额	100
+nian du ying shou	年度营收	100
+nian du ying xiang li	年度影响力	100
+nian du ying xiang li ren wu	年度影响力人物	100
+nian du ying xiao	年度营销	100
+nian du you xiu	年度优秀	100
+nian du you xiu yuan gong	年度优秀员工	100
+nian du zeng da	黏度增大	100
+nian du zeng zhang	年度增长	100
+nian du zhan lve	年度战略	100
+nian du zhang fu	年度涨幅	100
+nian du zhao sheng	年度招生	100
+nian du zhao sheng ji hua	年度招生计划	100
+nian du zheng wen	年度征文	100
+nian du zhi	黏度值	100
+nian du zhi biao	年度指标	100
+nian du zhi jing	年度致敬	100
+nian du zhi liang	年度质量	100
+nian du zhi zuo	年度制作	100
+nian du zhong bang	年度重磅	100
+nian du zhong dian gong zuo	年度重点工作	100
+nian du zhong dian ren wu	年度重点任务	100
+nian du zhong guo	年度中国	100
+nian du zhu ce	年度注册	100
+nian du zhu ti	年度主题	100
+nian du zhuan ji	年度专辑	100
+nian du zhuan ti	年度专题	100
+nian du zi liao	年度资料	100
+nian du zong guan jun	年度总冠军	100
+nian du zong he kao he	年度综合考核	100
+nian du zong jie	年度总结	100
+nian du zong jie bao gao	年度总结报告	100
+nian du zong jie biao zhang da hui	年度总结表彰大会	100
+nian du zong jie da hui	年度总结大会	100
+nian du zong jie hui	年度总结会	100
+nian du zong jue sai	年度总决赛	100
+nian du zong ping bang	年度总评榜	100
+nian du zong shou ru	年度总收入	100
+nian du zong yi	年度综艺	100
+nian du zui ai	年度最爱	100
+nian du zui can	年度最惨	100
+nian du zui da	年度最大	100
+nian du zui di	年度最低	100
+nian du zui huo	年度最火	100
+nian du zui jia di liu ren	年度最佳第六人	100
+nian du zui jia fang shou qiu yuan	年度最佳防守球员	100
+nian du zui jia jiao lian	年度最佳教练	100
+nian du zui jia nan ge shou	年度最佳男歌手	100
+nian du zui jia nan yun dong yuan	年度最佳男运动员	100
+nian du zui jia nv yun dong yuan	年度最佳女运动员	100
+nian du zui jia qiu yuan	年度最佳球员	100
+nian du zui jia xin ren	年度最佳新人	100
+nian du zui jia xin ren jiang	年度最佳新人奖	100
+nian du zui jia xin xiu	年度最佳新秀	100
+nian du zui jia xuan shou	年度最佳选手	100
+nian du zui jia yan yuan	年度最佳演员	100
+nian du zui jia you xi	年度最佳游戏	100
+nian du zui jia yun dong yuan	年度最佳运动员	100
+nian du zui jia zhen rong	年度最佳阵容	100
+nian du zui jia zhuan ji	年度最佳专辑	100
+nian du zui ju ying xiang li	年度最具影响力	100
+nian du zui lan	年度最烂	100
+nian du zui mei	年度最美	100
+nian du zui qiang	年度最强	100
+nian du zui re	年度最热	100
+nian du zui shou guan zhu	年度最受关注	100
+nian du zui shou huan ying	年度最受欢迎	100
+nian du zui shou huan ying xuan shou	年度最受欢迎选手	100
+nian du zuo pin	年度作品	100
+nian e mi tuo fo	念阿弥陀佛	100
+nian er bu de	念而不得	100
+nian er huai	蔫儿坏	100
+nian er huai nian er huai	蔫儿坏蔫儿坏	100
+nian er huai nian er huai de	蔫儿坏蔫儿坏的	100
+nian fen xiang bin	年份香槟	100
+nian feng min he	年丰民和	100
+nian feng shi ping	年丰时平	100
+nian feng shi ren	年丰时稔	100
+nian feng sui ren	年丰岁稔	100
+nian feng wu fu	年丰物阜	100
+nian feng yuan	年丰园	100
+nian fo san mei	念佛三昧	100
+nian fu he zeng zhang lv	年复合增长率	100
+nian fu li	黏附力	100
+nian fu yi nian de	年复一年地	100
+nian gao de zhong	年高德重	100
+nian gao ji	念高几	100
+nian gao ji le	念高几了	100
+nian gao lao mai	年高老迈	100
+nian gao mi	年糕米	100
+nian gao wang zhong	年高望重	100
+nian gao xie	年糕鞋	100
+nian gen di xia	年根底下	100
+nian gen er le	年根儿了	100
+nian gen le	年根了	100
+nian gong jia feng	年功加俸	100
+nian gu bu deng	年谷不登	100
+nian gu zhi xia	辇毂之下	100
+nian guan yi jin	年关已近	100
+nian guang gao	念广告	100
+nian gui qu	念归去	100
+nian guo wan le	年过完了	100
+nian hai mei guo wan	年还没过完	100
+nian hao nong guan	拈毫弄管	100
+nian hao nong mo	拈毫弄墨	100
+nian he cheng	黏合成	100
+nian he du	黏合度	100
+nian he li	黏合力	100
+nian he qiang du	黏合强度	100
+nian he zai yi qi	黏合在一起	100
+nian hou fa huo	年后发货	100
+nian hou hui	年后回	100
+nian hou ji	年后寄	100
+nian hou ju	年后聚	100
+nian hou kao	年后考	100
+nian hou ru zhi	年后入职	100
+nian hou yue	年后约	100
+nian hua ba jiu	拈花把酒	100
+nian hua bo dong lv	年化波动率	100
+nian hua er	年画儿	100
+nian hua hui bao lv	年化回报率	100
+nian hua li lv	年化利率	100
+nian hua lv	年化率	100
+nian hua nong liu	拈花弄柳	100
+nian hua nong yue	拈花弄月	100
+nian hua shou yi lv	年化收益率	100
+nian hua wei xiao	捻花微笑	100
+nian hua xu du	年华虚度	100
+nian hua yi shi	年华易逝	100
+nian hua zhai ye	拈花摘叶	100
+nian hui bao lv	年回报率	100
+nian hui chang di	年会场地	100
+nian hui sheng dian	年会盛典	100
+nian huo bu tie	年货补贴	100
+nian huo bu tie jin	年货补贴金	100
+nian huo ka	年货卡	100
+nian ji bi jiao xiao	年纪比较小	100
+nian ji bu da	年纪不大	100
+nian ji cha bu duo	年纪差不多	100
+nian ji chang	年纪长	100
+nian ji da	年纪大	100
+nian ji da hui	年级大会	100
+nian ji da le	年纪大了	100
+nian ji da le dian	年纪大了点	100
+nian ji da le yi hou	年纪大了以后	100
+nian ji de	年级的	100
+nian ji gen wo cha bu duo	年纪跟我差不多	100
+nian ji hai da	年纪还大	100
+nian ji jian zhang	年纪渐长	100
+nian ji shao chang	年纪稍长	100
+nian ji yi jing da le	年纪已经大了	100
+nian ji zeng zhang	年纪增长	100
+nian ji zhang	年级长	100
+nian ji zu zhang	年级组长	100
+nian ji zui chang	年纪最长	100
+nian jian zhi du	年检制度	100
+nian jiang shui liang	年降水量	100
+nian jiao chang si	黏胶长丝	100
+nian jiao xian wei	黏胶纤维	100
+nian jiao ye	黏胶液	100
+nian jie jiang zhi	年节将至	100
+nian jie li	黏结力	100
+nian jie qiang du	黏结强度	100
+nian jie qiang du gao	黏结强度高	100
+nian jie xing	黏结性	100
+nian jin sang yu	年近桑榆	100
+nian jin sui bi	年近岁逼	100
+nian jin zhi du	年金制度	100
+nian jing liu zong liang kong zhi lv	年径流总量控制率	100
+nian jiu ri shuai	年久日衰	100
+nian jiu yue shen	年久月深	100
+nian ju xing	黏聚性	100
+nian jun fu he zeng zhang lv	年均复合增长率	100
+nian jun jiang shui liang	年均降水量	100
+nian jun jiang yu liang	年均降雨量	100
+nian jun ri zhao	年均日照	100
+nian jun wen du	年均温度	100
+nian jun zhi	年均值	100
+nian lai nian qu	念来念去	100
+nian lai nian qu	碾来碾去	100
+nian lai nian qu	黏来黏去	100
+nian lai sui qu	年来岁去	100
+nian lao da	年老大	100
+nian lao ti mai	年老体迈	100
+nian le liang ju shi	念了两句诗	100
+nian le yi duan	念了一段	100
+nian le yi sheng	念了一声	100
+nian li jie	年礼节	100
+nian li pian	年历片	100
+nian li tu ou	念力土偶	100
+nian liang ju	念两句	100
+nian liang ju shi	念两句诗	100
+nian ling cha yi	年龄差异	100
+nian ling da le	年龄大了	100
+nian ling de zeng zhang	年龄的增长	100
+nian ling hai xiao	年龄还小	100
+nian ling jian zhang	年龄渐长	100
+nian ling kua du	年龄跨度	100
+nian ling kua du da	年龄跨度大	100
+nian ling zeng zhang	年龄增长	100
+nian ling zui chang	年龄最长	100
+nian mai li shuai	年迈力衰	100
+nian mei er	黏美儿	100
+nian mei lu long	黏美露龙	100
+nian mei yi er	黏美伊儿	100
+nian mo bao lu	黏膜暴露	100
+nian mo hang qing	年末行情	100
+nian mo kuang huan	年末狂欢	100
+nian mo le	年末了	100
+nian nian bao	黏黏宝	100
+nian nian chun tian	年年春天	100
+nian nian dou	年年都	100
+nian nian dou shi	年年都是	100
+nian nian dou you	年年都有	100
+nian nian dou you xin yi	年年都有新意	100
+nian nian dou zhe yang	年年都这样	100
+nian nian du	年年度	100
+nian nian huan xin	年年焕新	100
+nian nian jie sheng yi	年年皆胜意	100
+nian nian kuai le	年年快乐	100
+nian nian le	年年乐	100
+nian nian ru yi	年年如意	100
+nian nian wu ming	念念无明	100
+nian nian wu ming kai bo	念念无明开播	100
+nian nian xiang wang	念念相忘	100
+nian nian you	年年有	100
+nian nian you fu qi	年年有福气	100
+nian nian you jin ri	年年有今日	100
+nian nian you wo	年年有我	100
+nian pai hang	年排行	100
+nian pai hang bang	年排行榜	100
+nian pi dai gu	黏皮带骨	100
+nian pi qi	蔫脾气	100
+nian piao fang	年票房	100
+nian ping jun jiang shui liang	年平均降水量	100
+nian ping jun jiang yu liang	年平均降雨量	100
+nian ping jun wen du	年平均温度	100
+nian po sang yu	年迫桑榆	100
+nian qi lai	黏起来	100
+nian qi lai shun kou	念起来顺口	100
+nian qian bu fa huo	年前不发货	100
+nian qian fa	年前发	100
+nian qian fa huo	年前发货	100
+nian qing bu zhi	年轻不知	100
+nian qing de	年轻的	100
+nian qing de duo	年轻得多	100
+nian qing de gan jue	年轻的感觉	100
+nian qing de jie jie	年轻的姐姐	100
+nian qing de mu yang	年轻的模样	100
+nian qing de shi bing	年轻的士兵	100
+nian qing de yi dai	年轻的一代	100
+nian qing de zhao qi	年轻的朝气	100
+nian qing gan bu cheng zhang	年轻干部成长	100
+nian qing jia zhang	年轻家长	100
+nian qing le	年轻了	100
+nian qing le bu shao	年轻了不少	100
+nian qing le hao ji sui	年轻了好几岁	100
+nian qing le shi ji sui	年轻了十几岁	100
+nian qing le shi sui	年轻了十岁	100
+nian qing le xu duo	年轻了许多	100
+nian qing mu yang	年轻模样	100
+nian qing qing	年轻轻	100
+nian qing ren cheng zhang	年轻人成长	100
+nian qing ren de ju ji di	年轻人的聚集地	100
+nian qing ren dou xi huan	年轻人都喜欢	100
+nian qing ren he jiu	年轻人喝酒	100
+nian qing ren he lao nian ren	年轻人和老年人	100
+nian qing ren jue de	年轻人觉得	100
+nian qing ren xi huan shen me	年轻人喜欢什么	100
+nian qing shi de mu yang	年轻时的模样	100
+nian qing tai du	年轻态度	100
+nian qing ya	年轻呀	100
+nian qing you zhao qi	年轻有朝气	100
+nian qing yu wei xian	年轻与危险	100
+nian qing yue dui	年轻乐队	100
+nian qing zhao qi	年轻朝气	100
+nian ren ju le bu	黏人俱乐部	100
+nian ren zou	撵人走	100
+nian shang lai	黏上来	100
+nian shang qu	黏上去	100
+nian shao de feng	年少的风	100
+nian shao de lian	年少的脸	100
+nian shao de zhi	年少得志	100
+nian shao er ren zu	年少二人组	100
+nian shao qing kuang de wo	年少轻狂的我	100
+nian shao xin shi	年少心事	100
+nian shao ying cai	年少英才	100
+nian shen kuai ji shi	年审会计师	100
+nian shen me	念什么	100
+nian shen me zi	念什么字	100
+nian shen nian gui	捻神捻鬼	100
+nian shi shen me	年是什么	100
+nian shi yi da	年事已大	100
+nian shou shi	念首诗	100
+nian shou wang	年兽王	100
+nian shu a	念书啊	100
+nian shu xia qu	念书下去	100
+nian shuai sui mu	年衰岁暮	100
+nian si shi	廿四史	100
+nian suan chi cu	拈酸吃醋	100
+nian sui ji he	年岁几何	100
+nian sui jian zhang	年岁渐长	100
+nian sui jiu yuan	年岁久远	100
+nian sui yi jiu	年岁已久	100
+nian tai ci	念台词	100
+nian tan ti	黏弹体	100
+nian tan ti fang fu jiao dai	黏弹体防腐胶带	100
+nian tan xing	黏弹性	100
+nian tan xing ti	黏弹性体	100
+nian tou nian nao	蔫头蔫脑	100
+nian tou tong da	念头通达	100
+nian tou tong da le	念头通达了	100
+nian tu ban yan	黏土板岩	100
+nian tu dong hua	黏土动画	100
+nian tu fei	蔫土匪	100
+nian tu yan	黏土岩	100
+nian tuan zi	年团子	100
+nian wan le	念完了	100
+nian wei ji fen	碾为齑粉	100
+nian wei ka	年味卡	100
+nian wei shi zu	年味十足	100
+nian wo wo	黏窝窝	100
+nian wo wo tou	黏窝窝头	100
+nian wo zou	撵我走	100
+nian wu wan	廿五万	100
+nian xi lie	年系列	100
+nian xi ling	年夕令	100
+nian xia qu	念下去	100
+nian xia qu	碾下去	100
+nian xia qu	黏下去	100
+nian xian chang	年限长	100
+nian xian pi	年限皮	100
+nian xian zi	黏涎子	100
+nian xin qian wan	年薪千万	100
+nian xing mu	鲇形目	100
+nian xue wei	念学位	100
+nian yan dai yuan	年湮代远	100
+nian yan shi yuan	年湮世远	100
+nian ye cai	年夜菜	100
+nian yi cuo tuo	年已蹉跎	100
+nian yi guo wan	年已过完	100
+nian yi ju	念一句	100
+nian yi ju shi	念一句诗	100
+nian yi lai	年以来	100
+nian yi shi hao	年谊世好	100
+nian yi xie	念一些	100
+nian ying na shui suo de e	年应纳税所得额	100
+nian you de di di	年幼的弟弟	100
+nian yu lian	鲶鱼脸	100
+nian yu shi chi	年与时弛	100
+nian yu wang	鲶鱼王	100
+nian yuan shi ji	年远失记	100
+nian zai sang yu	年在桑榆	100
+nian zai yi qi	黏在一起	100
+nian zai yue e	年灾月厄	100
+nian zai yue yang	年灾月殃	100
+nian zeng lv	年增率	100
+nian zhang liang sui	年长两岁	100
+nian zhang nv xing	年长女性	100
+nian zhe jiu lv	年折旧率	100
+nian zhe ma ma	黏着妈妈	100
+nian zhe nan ren	黏着男人	100
+nian zhe ni	黏着你	100
+nian zhe pao	撵着跑	100
+nian zhen zhi	拈针指	100
+nian zhi jiu	年之久	100
+nian zhong kao ji	年终考绩	100
+nian zhong sheng dian	年终盛典	100
+nian zhong wei ji	年终尾祭	100
+nian zhu wan	念珠丸	100
+nian zhu zao	念珠藻	100
+nian zhu zao ke	念珠藻科	100
+nian zhu zao shu	念珠藻属	100
+nian zhuang qi rui	年壮气锐	100
+nian zhuang qi sheng	年壮气盛	100
+nian zhuo du	黏着度	100
+nian zhuo yu	黏着语	100
+nian jiu	廿九	99
+nian bu liao	念不了	95
+nian qing tang gu la feng	念青唐古拉峰	95
+nian xing tu	黏性土	95
+nian bu qi shu	念不起书	90
+nian fa liang	年伐量	87
+nian dai ce ding fa	年代测定法	85
+nian jie lv	年节律	80
+nian yong liang	年用量	73
+nian hua jia	年画家	70
+nian ling shang	年龄上	67
+nian qing zhe	年轻着	67
+nian lao shen shuai	年老神衰	65
+nian sui jian zhang	年岁渐涨	65
+nian tao can	年套餐	64
+nian zhi qian	年之前	64
+nian jun	黏菌	61
+nian lao chang	年老厂	60
+nian nian chou chou	黏黏稠稠	60
+nian nian zhuan	捻捻转	59
+nian duo tang	黏多糖	58
+nian tuo	碾砣	55
+nian zi bai	年紫白	53
+nian hai shang bao xian fa	年海上保险法	48
+nian yu tao	鲇鱼套	47
+nian lun dan gao	年轮蛋糕	46
+nian yang er	念央儿	45
+nian ba ba	蔫巴巴	40
+nian hua wei xiao	拈花微笑	38
+nian ya shang	碾压伤	34
+nian ren	撵人	32
+nian bu chu liu	蔫不出溜	30
+nian bao zi chong bing	黏孢子虫病	28
+nian zhu jun gan ran	念珠菌感染	28
+nian hua yi xiao	拈花一笑	26
+nian shen yue jiu	年深月久	25
+nian xing lian zhou jie	黏性联轴节	25
+nian fang ruo guan	年方弱冠	24
+nian duo tang bing	黏多糖病	23
+nian zhu	年猪	23
+nian xing ou he qi	黏性偶合器	19
+nian yi ji ji	年已及笄	16
+nian zi wan	碾子湾	16
+nian duan shu jing xu	捻断数茎须	13
+nian mao du juan	黏毛杜鹃	13
+nian ye xian ai	黏液腺癌	13
+nian gao you de	年高有德	12
+nian hu rou	黏糊肉	12
+nian mo bing bing du	黏膜病病毒	12
+nian mo ceng	黏膜层	12
+nian pi zhuo gu	黏皮着骨	12
+nian du	捻度	11
+nian er	黏儿	11
+nian le ba ji	蔫了吧唧	11
+nian mo xia ceng	黏膜下层	10
+nian nian ni ni	黏黏腻腻	10
+nian wei ruo guan	年未弱冠	10
+nian zhe ne	念着呢	10
+nian zhuan er	捻转儿	10
+nian qing heng ya	年轻恒牙	9
+nian zi kou mo fa cai	年字口蘑发菜	9
+nian zi zhen	碾子镇	9
+nian ba xiang	碾坝乡	8
+nian ci si zi kui	念此私自愧	7
+nian li bao	廿里堡	7
+nian ling xiang guan xing bai nei zhang	年龄相关性白内障	7
+nian qiu	黏球	7
+nian xing zeng zhi	黏性增值	7
+nian zui	黏嘴	7
+nian che	辇车	5
+nian du da jian mai	年度大贱卖	5
+nian ji dao shi	年级导师	5
+nian shi	黏湿	5
+nian xi yao	年希尧	5
+nian zhi duan ren chang	念之断人肠	5
+nian zhuan bu xie	捻转补泻	5
+nian duan shu jing xu	拈断数茎须	4
+nian nian zai zi	念念在兹	4
+nian shou yi	年收益	4
+nian si	廿四	4
+nian ye xing shui zhong	黏液性水肿	4
+nian yu er shun	年逾耳顺	4
+nian chang	念常	3
+nian jiu ri shen	年久日深	3
+nian jue	捻诀	3
+nian long xiang	年龙乡	3
+nian mang man	黏盲鳗	3
+nian shao wan dou mou	年少万兜鍪	3
+nian shao zheng rong qu jia cai	年少峥嵘屈贾才	3
+nian tan cun	埝坛村	3
+nian ti chong ke	黏体虫科	3
+nian ti dong wu	黏体动物	3
+nian wei ji ji	年未及笄	3
+nian xi bao	黏细胞	3
+nian zi hu tong	碾子胡同	3
+nian dui xiang	年堆乡	2
+nian feng lu	年丰路	2
+nian guo liu xun shi	年过六旬时	2
+nian he ban	黏合斑	2
+nian ji lao er bu shuai	年既老而不衰	2
+nian nian hou lang tui qian lang	年年后浪推前浪	2
+nian nian xin xin	念念心心	2
+nian qiao bian hong yao	念桥边红药	2
+nian tan cun	念坛村	2
+nian wang chen	年王臣	2
+nian ya	碾轧	2
+nian ye biao pi yang ai	黏液表皮样癌	2
+nian ye nang zhong	黏液囊肿	2
+nian yu cun	鲇鱼村	2
+nian zai	年在	2
+nian zhang xiang	碾张乡	2
+nian bao zi chong gang	黏孢子虫纲	1
+nian chong bai xing ji feng	黏虫白星姬蜂	1
+nian chong ce xu ji ying	黏虫侧须寄蝇	1
+nian chong chang mang ji ying	黏虫长芒寄蝇	1
+nian chong chi yan feng	黏虫赤眼蜂	1
+nian chong guang jian xiao feng	黏虫广肩小蜂	1
+nian chong hei luan feng	黏虫黑卵蜂	1
+nian chong ji jian feng	黏虫脊茧蜂	1
+nian chong ji ling ji feng	黏虫棘领姬蜂	1
+nian chong que xu ji ying	黏虫缺须寄蝇	1
+nian deng hua jia	年登花甲	1
+nian di xiang	廿地乡	1
+nian du guo jia yu suan	年度国家预算	1
+nian duan zi xu	拈断髭须	1
+nian er hu tong	碾儿胡同	1
+nian fang ji ji	年方及笄	1
+nian fang wu shao	年方舞勺	1
+nian gai yue zhi	年该月值	1
+nian gao de xun	年高德勋	1
+nian geng	年更	1
+nian hua chuan liu	拈花穿柳	1
+nian hua chui mu	年华垂暮	1
+nian hua nong cao	拈花弄草	1
+nian hua yu cui	年华欲催	1
+nian hua zhai cao	拈花摘草	1
+nian hua zhai yan	拈华摘艳	1
+nian hua zhai yan	拈花摘艳	1
+nian jie	捻接	1
+nian jie ci jiu	年届赐鸠	1
+nian jin	年馑	1
+nian jin bo liang	拈斤播两	1
+nian jin sui chu	年尽岁除	1
+nian jin sui chu	年近岁除	1
+nian jin sui po	年近岁迫	1
+nian jing guo wei	年经国纬	1
+nian jiu lian cai	念旧怜才	1
+nian kai di qi zhi	年开第七秩	1
+nian lai zhuan jue ci sheng fu	年来转觉此生浮	1
+nian lao long zhong	年老龙钟	1
+nian lin jiao rao	黏吝缴绕	1
+nian lun juan guan luo	年轮卷管螺	1
+nian mai long zhong	年迈龙钟	1
+nian mao tou yu zao	鲇锚头鱼蚤	1
+nian ming ru zhao lu	年命如朝露	1
+nian nian bu shi	念念不释	1
+nian nian hua hua	黏黏滑滑	1
+nian nian sha tun jiang wei hu	年年杀豚将喂狐	1
+nian nian sui sui yi chuang shu	年年岁岁一床书	1
+nian nian xi jian shan chang zai	年年喜见山长在	1
+nian nian yu xi chun	年年欲惜春	1
+nian nian yue ma chang an shi	年年跃马长安市	1
+nian nian zhao zhao	年年朝朝	1
+nian ping cun	碾坪村	1
+nian si shi er jian e yan	年四十而见恶焉	1
+nian suan po cu	拈酸泼醋	1
+nian ti dong wu ya men	黏体动物亚门	1
+nian tou yue wei	年头月尾	1
+nian tu zhao chao xie	黏土招潮蟹	1
+nian wu ling ren yuan	念武陵人远	1
+nian xian	黏涎	1
+nian yan ri jiu	年淹日久	1
+nian ye ai	黏液癌	1
+nian ye shuang bian ao luo	黏液双边凹螺	1
+nian yi	年谊	1
+nian yi ji ai	年已及艾	1
+nian yu shang gan	鲇鱼上竿	1
+nian yu shang zhu	鲇鱼上竹	1
+nian yu shang zhu gan	鲇鱼上竹竿	1
+nian yu yuan zhu gan	鲇鱼缘竹竿	1
+nian zai yue hui	年灾月晦	1
+nian zhe bi zi	捻着鼻子	1
+nian zhu jun xing bao pi gui tou yan	念珠菌性包皮龟头炎	1
+nian zhuo you	黏着油	1

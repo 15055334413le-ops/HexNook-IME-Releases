@@ -1,0 +1,1458 @@
+a yi	阿姨	143215
+a li ba ba	阿里巴巴	117400
+a gen ting	阿根廷	105480
+a er	阿尔	92770
+a la bo	阿拉伯	77710
+a li	阿里	76690
+a fu han	阿富汗	54219
+a sen na	阿森纳	46160
+a er ka te	阿尔卡特	32905
+a lian qiu	阿联酋	30830
+a dai	阿呆	30445
+a fan ti	阿凡提	29005
+a ge	阿哥	28020
+a a	啊啊	27365
+a man	阿曼	26270
+a bo luo	阿波罗	25625
+a mu si te dan	阿姆斯特丹	22385
+a la bo shu zi	阿拉伯数字	21935
+a er fa	阿尔法	21090
+a niu	阿牛	20570
+a zi	阿紫	20350
+a fei	阿飞	19945
+a ka liu si	阿喀琉斯	19870
+a si pi lin	阿司匹林	19685
+a la si jia	阿拉斯加	19270
+a jiao	阿娇	19250
+a di da si	阿迪达斯	18940
+a nuo	阿诺	18470
+a er ji li ya	阿尔及利亚	17070
+a la bo yu	阿拉伯语	16615
+a ke su	阿克苏	16605
+a xiu luo	阿修罗	16335
+a mi	阿米	15980
+a er si tong	阿尔斯通	15365
+a po	阿婆	15210
+a du	阿杜	14885
+a la bo guo jia	阿拉伯国家	14450
+a long suo	阿隆索	14155
+a er bei si	阿尔卑斯	13740
+a la bo ren	阿拉伯人	13340
+a qiang	阿强	13320
+a fu	阿福	13100
+a li	阿丽	12545
+a zhu	阿朱	12150
+a ha	啊哈	11670
+a ji	阿吉	11215
+a mei	阿妹	10780
+a xin	阿信	10715
+a hua	阿华	10660
+a ya	啊呀	10630
+a la ding	阿拉丁	10345
+a la fa te	阿拉法特	10295
+a long	阿龙	10075
+a ba a ba	阿巴阿巴	9999
+a bi	阿鼻	9999
+a chu fo	阿閦佛	9999
+a di	阿迪	9999
+a er ba ni ya gong he guo	阿尔巴尼亚共和国	9999
+a er ji li ya min zhu ren min gong he guo	阿尔及利亚民主人民共和国	9999
+a fu la	啊服啦	9999
+a gen ting gong he guo	阿根廷共和国	9999
+a la bo xu li ya gong he guo	阿拉伯叙利亚共和国	9999
+a man su dan guo	阿曼苏丹国	9999
+a ni	啊你	9999
+a qi	阿七	9999
+a shi xue	阿是穴	9999
+a ta	阿塔	9999
+a ti	阿嚏	9999
+a wei	啊喂	9999
+a wu	啊呜	9999
+a ming	阿明	9920
+a ka liu si zhi zhong	阿喀琉斯之踵	9870
+a ma	阿妈	9840
+a men	阿门	9835
+a a a	啊啊啊	9820
+a a a a	啊啊啊啊	9820
+a ying	阿英	9815
+a le tai	阿勒泰	9755
+a bian	阿扁	9570
+a shen me	啊什么	9525
+a er bei si shan	阿尔卑斯山	9325
+a bo	阿伯	9310
+a ba si	阿巴斯	9190
+a san	阿三	9175
+a mu	阿木	9120
+a qi	阿奇	9075
+a tuo pin	阿托品	8765
+a er ba ni ya	阿尔巴尼亚	8750
+a ma ni	阿玛尼	8700
+a sai bai jiang	阿塞拜疆	8690
+a ma	阿玛	8360
+a hong	阿訇	8340
+a ji nuo	阿基诺	7898
+a duo	阿朵	7830
+a shi ma	阿诗玛	7815
+a zhen	阿珍	7770
+a er shan	阿尔山	7765
+a li shan	阿里山	7395
+a mo xi lin	阿莫西林	7375
+a gen ting dui	阿根廷队	6925
+a yo	啊哟	6530
+a you	啊哟	6530
+a si dun wei la	阿斯顿维拉	6330
+a la shan	阿拉善	6325
+a dou	阿斗	6295
+a de li ya nuo	阿德里亚诺	6290
+a ba	阿爸	6170
+a tong mu	阿童木	6030
+a ji mi de	阿基米德	5735
+a jiu	阿九	5715
+a jia xi	阿加西	5645
+a yu wang	阿育王	5640
+a hu	阿虎	5610
+a la	啊啦	5555
+a zu	阿祖	5555
+a nuo de	阿诺德	5495
+a mi ba	阿米巴	5380
+a dao fu	阿道夫	5245
+a la shan kou	阿拉山口	5175
+a er sa si	阿尔萨斯	5090
+a la shan meng	阿拉善盟	5035
+a te la si	阿特拉斯	5020
+a liang	阿亮	4995
+a ke su shi	阿克苏市	4930
+a sang	阿桑	4890
+a er tai	阿尔泰	4770
+a lian	阿莲	4770
+a jia ke si	阿贾克斯	4675
+a jie	阿姐	4625
+a la bo lian he qiu zhang guo	阿拉伯联合酋长国	4625
+a hua	阿花	4560
+a gen ting ren	阿根廷人	4545
+a ke su di qu	阿克苏地区	4530
+a la bo wen	阿拉伯文	4525
+a gan zheng zhuan	阿甘正传	4410
+a weng	阿翁	4385
+a gong	阿公	4360
+a li di qu	阿里地区	4115
+a kang	阿康	4040
+a wei jun su	阿维菌素	3965
+a qing	阿青	3950
+a bu	啊不	3855
+a bu zhi dao	啊不知道	3855
+a meng	阿盟	3840
+a shen	阿婶	3579
+a shu	阿叔	3579
+a er tai shan	阿尔泰山	3530
+a la gong	阿拉贡	3395
+a jia	阿甲	3340
+a er fa li zi	阿尔法粒子	3333
+a he wei nan ma	阿赫韦南马	3333
+a la ding shen deng	阿拉丁神灯	3333
+a sen song	阿森松	3333
+a sen song dao	阿森松岛	3333
+a shi	啊是	3333
+a si ke le bi e si	阿斯克勒庇俄斯	3333
+a zhe	啊这	3333
+a zhe er	啊这儿	3333
+a luo han guo	阿罗汉果	3320
+a rong	阿荣	3300
+a er fu lei de	阿尔弗雷德	3280
+a le tai di qu	阿勒泰地区	3240
+a la mu tu	阿拉木图	3220
+a rui si	阿瑞斯	3210
+a mu er	阿穆尔	3200
+a shui	阿水	3125
+a si ba tian	阿斯巴甜	3118
+a fu	阿父	3100
+a fu han zhan zheng	阿富汗战争	3055
+a bu zha bi	阿布扎比	2860
+a han jing	阿含经	2855
+a nu	阿奴	2800
+a mei su	阿霉素	2785
+a la bo ban dao	阿拉伯半岛	2780
+a li lang	阿里郎	2765
+a er pai	阿尔派	2745
+a er ji er	阿尔及尔	2690
+a si wang	阿斯旺	2665
+a juan	阿娟	2645
+a die	阿爹	2640
+a mao a gou	阿猫阿狗	2600
+a mu	阿母	2520
+a tu shi	阿图什	2515
+a zheng	阿正	2485
+a rong qi	阿荣旗	2405
+a yi da	阿依达	2405
+a di	阿弟	2355
+a la shan	阿拉山	2312
+a er shan shi	阿尔山市	2275
+a chang zu	阿昌族	2230
+a er bei si shan mai	阿尔卑斯山脉	2195
+a er	阿二	2150
+a le tai shi	阿勒泰市	2145
+a ken se zhou	阿肯色州	2140
+a la shan zuo qi	阿拉善左旗	2140
+a la er	阿拉尔	2135
+a er ba	阿尔巴	2110
+a mao	阿猫	2080
+a chang	阿昌	2070
+a la lei	阿拉蕾	2060
+a zhong	阿忠	1920
+a si dun ma ding	阿斯顿马丁	1890
+a er tai yu xi	阿尔泰语系	1790
+a jie gu	阿姐鼓	1775
+a ken se	阿肯色	1750
+a zi te ke	阿兹特克	1735
+a sa mu	阿萨姆	1705
+a si ta na	阿斯塔纳	1680
+a la bo hai	阿拉伯海	1605
+a bi rang	阿比让	1600
+a da	阿达	1569
+a la ba ma zhou	阿拉巴马州	1560
+a li si	阿里斯	1555
+a la si jia zhou	阿拉斯加州	1551
+a sao	阿嫂	1425
+a ke sai	阿克塞	1420
+a zi ka ban	阿兹卡班	1415
+a ling dun	阿灵顿	1390
+a la ba ma	阿拉巴马	1375
+a ji li si	阿基里斯	1370
+a lu ke er qin qi	阿鲁科尔沁旗	1355
+a qing	阿庆	1275
+a bu jia	阿布贾	1265
+a niang	阿娘	1245
+a bing ge	阿兵哥	1205
+a sheng	阿胜	1205
+a er fa luo mi ou	阿尔法罗密欧	1203
+a lu ba	阿鲁巴	1200
+a nan	阿南	1180
+a se	阿瑟	1119
+a de	阿德	1111
+a dui	啊对	1111
+a en	啊嗯	1111
+a fang	阿芳	1111
+a hao	啊好	1111
+a piao	啊飘	1111
+a qin	阿琴	1111
+a shuai	阿衰	1111
+a wo	啊我	1111
+a you	啊有	1111
+a za	啊咋	1111
+a la bo di guo	阿拉伯帝国	1110
+a ke sa	阿克萨	1090
+a fu han ren	阿富汗人	1065
+a ke la	阿克拉	1060
+a li si tuo fen	阿里斯托芬	1045
+a ba xian	阿坝县	1035
+a miao	阿秒	1018
+a mi ba li ji	阿米巴痢疾	1010
+a ba	阿巴	999
+a pian	阿片	999
+a jia men nong	阿伽门农	970
+a mei zu	阿美族	950
+a liu shen qun dao	阿留申群岛	930
+a mu he	阿姆河	925
+a ke tao xian	阿克陶县	920
+a ka di ya	阿卡迪亚	915
+a tu shi shi	阿图什市	894
+a nu bi si	阿努比斯	890
+a jiu	阿舅	855
+a ye	阿爷	845
+a ba zhou	阿坝州	836
+a pi ya	阿皮亚	835
+a wa ti xian	阿瓦提县	820
+a la bo jiao	阿拉伯胶	819
+a la shan you qi	阿拉善右旗	790
+a er ba te	阿尔巴特	775
+a zi	阿姊	755
+a li yun	阿里云	753
+a li yun fu wu qi	阿里云服务器	753
+a cheng qu	阿城区	735
+a bo luo ji hua	阿波罗计划	700
+a wa ti	阿瓦提	675
+a la er shi	阿拉尔市	645
+a ba ga qi	阿巴嘎旗	625
+a bo luo deng yue ji hua	阿波罗登月计划	620
+a ding	吖啶	615
+a lan re	阿兰若	580
+a xiong	阿兄	575
+a ji mi de yuan li	阿基米德原理	565
+a la bo lian meng	阿拉伯联盟	565
+a li an na	阿里安娜	562
+a fu le er	阿芙乐尔	560
+a he qi xian	阿合奇县	555
+a se si	阿瑟斯	545
+a gu	阿姑	530
+a li ya na	阿丽亚娜	525
+a la bo zi mu	阿拉伯字母	515
+a la man zhan yi	阿拉曼战役	515
+a er fa she xian	阿尔法射线	510
+a er fu lei duo	阿尔弗雷多	507
+a lu ba dao	阿鲁巴岛	495
+a la mu	阿拉姆	485
+a nan	阿囡	470
+a ke tao	阿克陶	455
+a lian qiu dui	阿联酋队	450
+a sai bai jiang gong he guo	阿塞拜疆共和国	450
+a shi ha ba de	阿什哈巴德	450
+a ke su he	阿克苏河	435
+a la	阿拉	431
+a mo ni ya	阿摩尼亚	420
+a bo luo shen	阿波罗神	415
+a er ci hai mo bing	阿尔茨海默病	409
+a za	腌臜	400
+a er jin shan	阿尔金山	381
+a er bei tuo	阿尔贝托	373
+a lu ka duo	阿鲁卡多	370
+a er tai shan mai	阿尔泰山脉	365
+a ke sai xian	阿克塞县	360
+a mu si te	阿姆斯特	345
+a mu li ze	阿姆利则	335
+a si ke le bi e si zhi zhang	阿斯克勒庇俄斯之杖	333
+a le tai lu	阿勒泰路	328
+a pa la qi	阿帕拉契	325
+a er bei te	阿尔贝特	319
+a mo si	阿摩司	310
+a bo fei si	阿波菲斯	305
+a li shan gao shan cha	阿里山高山茶	299
+a he qi	阿合奇	295
+a ma ni	阿妈妮	290
+a mo xi lin jiao nang	阿莫西林胶囊	287
+a mu er	阿木尔	275
+a si li kang	阿斯利康	266
+a si ma la	阿斯马拉	265
+a la bo ka fei	阿拉伯咖啡	260
+a lun te	阿伦特	258
+a te la si shan mai	阿特拉斯山脉	255
+a ba zang zu qiang zu zi zhi zhou	阿坝藏族羌族自治州	249
+a di ping	阿的平	235
+a er ba ni ya ren	阿尔巴尼亚人	225
+a ri	啊日	222
+a ta	啊他	222
+a ke si ta	阿科斯塔	220
+a tu zai	阿土仔	220
+a kong jia gua shan	阿空加瓜山	205
+a lao huo	阿劳霍	200
+a lu ke er qin	阿鲁科尔沁	200
+a nie li	阿涅利	200
+a fei	阿肥	199
+a lie ke xie	阿列克谢	197
+a bu du er	阿卜杜尔	196
+a li yun pan	阿里云盘	196
+a sa xie er	阿萨谢尔	196
+a ge la ma	阿格拉玛	195
+a shen me a	啊什么啊	195
+a sa er	阿萨尔	194
+a li a de nie	阿里阿德涅	192
+a wei shi ba shi	阿威十八式	192
+a zha de	阿扎德	192
+a er mei li ya	阿尔梅里亚	191
+a di sa ya	阿迪萨亚	190
+a li gun	阿里衮	189
+a si pi li kui ta	阿斯皮利奎塔	189
+a lan na	阿兰娜	188
+a di li jiang	阿地里江	187
+a er fa nuo	阿尔法诺	187
+a gui la	阿圭拉	187
+a bu suo liu te	阿布索留特	185
+a zi fu ding	阿兹夫定	184
+a xi li xi	阿西里西	182
+a ha li mu	阿哈利姆	181
+a mu la ba te	阿姆拉巴特	181
+a di na	阿迪娜	179
+a nuo si	阿诺斯	179
+a xie mu	阿谢姆	179
+a fu jing you	阿芙精油	177
+a se la mao	阿瑟拉猫	176
+a su wei	阿苏卫	176
+a wei luo	阿威罗	176
+a de li	阿德里	175
+a de li an	阿德里安	175
+a po ke lie	阿婆克烈	172
+a yi mo	阿依莫	171
+a dai fu	阿呆芙	170
+a jia ni ya	阿加尼亚	170
+a jia sha	阿加莎	170
+a ta ka ma sha mo	阿塔卡马沙漠	170
+a te rou si	阿特柔斯	170
+a zi meng	阿兹蒙	170
+a ba ba	阿巴巴	166
+a ha hu	阿哈湖	166
+a nan de	阿南德	166
+a ka duo	阿卡多	162
+a la man	阿拉曼	162
+a bo wu	阿波舞	161
+a ge li si	阿格利司	161
+a ke sai er	阿克塞尔	157
+a da wa	阿达娃	156
+a li	阿狸	155
+a ke lun	阿克伦	153
+a xiu luo dao	阿修罗道	153
+a bu de	阿布德	151
+a de la	阿德拉	151
+a ba ka wei	阿巴卡韦	150
+a lai ge li	阿莱格里	150
+a mo si zhi gong	阿莫斯之弓	150
+a de tuo kun bo	阿德托昆博	149
+a bei duo	阿贝多	147
+a er dan	阿尔丹	147
+a dai la	阿黛拉	146
+a de ye mi	阿德耶米	146
+a er tai er	阿尔泰尔	146
+a la bo he	阿拉伯河	145
+a mu lin	阿木林	145
+a mo zha xi	阿末扎希	144
+a da ke	阿达克	141
+a li sen	阿里森	141
+a le	阿乐	140
+a mei li ka	阿美莉卡	140
+a zi ka	阿兹卡	140
+a er te ta	阿尔特塔	138
+a li dai yi	阿里代伊	138
+a li han	阿里汉	138
+a ni ya	阿妮亚	136
+a shi la fu	阿什拉夫	136
+a ye sha	阿耶莎	136
+a xi mo fu	阿西莫夫	133
+a bo luo ni ya	阿波罗尼亚	132
+a te su	阿特苏	132
+a fu le er hao xun yang jian	阿芙乐尔号巡洋舰	130
+a ti nuo	阿提诺	130
+a li song	阿里松	129
+a tu er	阿图尔	127
+a mo xi lin ke la wei suan jia	阿莫西林克拉维酸钾	126
+a er shan wen quan	阿尔山温泉	125
+a li ju an quan	阿里聚安全	125
+a you en	阿尤恩	125
+a lian de	阿连德	124
+a qing sao	阿庆嫂	124
+a bo ka li si	阿波卡利斯	123
+a lie fu	阿列夫	123
+a er bin na	阿尔宾娜	122
+a ding cheng	吖啶橙	120
+a gan zhen	阿干镇	119
+a ba ba ba	阿巴巴巴	118
+a fu la	阿芙拉	118
+a la bo fu xing she hui dang	阿拉伯复兴社会党	118
+a luo yi si	阿洛伊斯	117
+a su er	阿苏尔	117
+a bi si	阿比斯	116
+a er le	阿尔勒	115
+a er bo te gong yuan sai dao	阿尔伯特公园赛道	114
+a qiu wa	阿丘瓦	113
+a kan ji	阿坎吉	112
+a si la da	阿斯拉达	112
+a ao	啊嗷	111
+a chan	阿蝉	111
+a dan	阿丹	111
+a dan	阿旦	111
+a de	啊的	111
+a hui	阿辉	111
+a ke	阿轲	111
+a kun	阿坤	111
+a li	阿笠	111
+a min	阿敏	111
+a ri	阿日	111
+a ta	啊她	111
+a tai	阿泰	111
+a tie	阿铁	111
+a wa lei zi	阿瓦雷兹	109
+a luo la	阿萝拉	108
+a te jin sen	阿特金森	108
+a gan	阿甘	107
+a si bao	阿斯报	107
+a jia qing nian	阿贾青年	106
+a ni ya	阿尼亚	105
+a er zi	阿尔兹	104
+a a a a a a	啊啊啊啊啊啊	100
+a ba fu	阿爸父	100
+a ba la qi ya	阿巴拉契亚	100
+a ba sang	阿巴桑	100
+a ba si wang chao	阿拔斯王朝	100
+a ba te	阿巴特	100
+a bai duo si	阿拜多斯	100
+a bei er	阿贝尔	100
+a bei er jiang	阿贝尔奖	100
+a bi di yu	阿鼻地狱	100
+a bi xi ni ya	阿比西尼亚	100
+a bi xi ni ya ren	阿比西尼亚人	100
+a bin zheng zhuan	阿宾正传	100
+a bing de kuai le sheng huo	阿兵的快乐生活	100
+a bo ding	阿伯丁	100
+a bo guai	阿柏怪	100
+a bo ke zi ya	阿柏克兹亚	100
+a bo lian	阿波连	100
+a bo ni ya	阿波尼亚	100
+a bo she	阿柏蛇	100
+a bo suo lu	阿勃梭鲁	100
+a bu da	阿布达	100
+a bu da bi	阿布达比	100
+a bu du	阿不都	100
+a bu du	阿布都	100
+a bu du hai mi ti	阿不都海米提	100
+a bu du la	阿不都拉	100
+a bu du la	阿卜杜拉	100
+a bu du la	阿布杜拉	100
+a bu du la man	阿布杜拉曼	100
+a bu du le	阿卜杜勒	100
+a bu du sa la mu	阿卜杜萨拉姆	100
+a bu du sha la mu	阿布都沙拉木	100
+a bu er	阿布尔	100
+a bu fu si	阿不福思	100
+a bu ha zi	阿布哈兹	100
+a bu jia	阿布加	100
+a bu la mo wei qi	阿布拉莫维奇	100
+a bu lv xing shou ji	阿布旅行手记	100
+a bu rui	阿布瑞	100
+a bu rui you	阿布瑞尤	100
+a bu sha ye fu	阿布沙耶夫	100
+a bu sha yi fu	阿布沙伊夫	100
+a bu shu chun	阿布叔醇	100
+a bu si	阿不思	100
+a bu zha bi shi	阿布扎比市	100
+a chang yu	阿昌语	100
+a chang yu shan hai jing	阿长与山海经	100
+a da bi er	阿达比尔	100
+a da er	阿达尔	100
+a dai er	阿黛尔	100
+a dai er de sheng huo	阿黛尔的生活	100
+a dai gua	阿呆瓜	100
+a de lai de	阿德莱德	100
+a de le	阿德勒	100
+a de le xin li xue	阿德勒心理学	100
+a de yi sheng	啊的一声	100
+a deng di qu	阿登地区	100
+a deng gao di	阿登高地	100
+a di le	阿迪勒	100
+a di zai	阿弟仔	100
+a ding zhi	吖啶酯	100
+a du la	阿都拉	100
+a dui dui	啊对对	100
+a dui dui dui	啊对对对	100
+a duo ni si	阿多尼斯	100
+a duo nuo	阿多诺	100
+a er bei si shan di	阿尔卑斯山地	100
+a er bei wei er	阿尔贝维尔	100
+a er ben	阿尔本	100
+a er bi ang	阿尔比昂	100
+a er bo li ao	阿尔博里奥	100
+a er bo ta	阿尔伯塔	100
+a er bo ta sheng	阿尔伯塔省	100
+a er bo te	阿尔伯特	100
+a er ci hai mo	阿尔茨海默	100
+a er ci hai mo shi bing	阿尔茨海默氏病	100
+a er ci hai mo shi zheng	阿尔茨海默氏症	100
+a er ci hai mo zheng	阿尔茨海默症	100
+a er da ma	阿尔达马	100
+a er dai er	阿尔代尔	100
+a er de	阿尔德	100
+a er de fa yin	阿尔德法印	100
+a er di sai	阿尔蒂塞	100
+a er du sai	阿尔都塞	100
+a er fa gou	阿尔法狗	100
+a er fa wei qi	阿尔法围棋	100
+a er fa xiao dui	阿尔法小队	100
+a er gai da	阿尔盖达	100
+a er ge si	阿耳戈斯	100
+a er gu si	阿尔古斯	100
+a er gun qin	阿尔衮琴	100
+a er han bu la gong de hui yi	阿尔罕布拉宫的回忆	100
+a er han ge er si ke zhou	阿尔汉格尔斯克州	100
+a er ji li ya ren	阿尔及利亚人	100
+a er kan ta la	阿尔坎塔拉	100
+a er ma da	阿尔马达	100
+a er mei le	阿尔梅勒	100
+a er mei le cheng	阿尔梅勒城	100
+a er min	阿尔敏	100
+a er sha wen	阿尔沙文	100
+a er shan lu	阿尔山路	100
+a er si te	阿尔斯特	100
+a er si tong gong si	阿尔斯通公司	100
+a er tai yu	阿尔泰语	100
+a er te mi si	阿尔忒弥斯	100
+a er te mi si	阿耳忒弥斯	100
+a er te mi si ji hua	阿尔忒弥斯计划	100
+a er teng tuo pu	阿尔滕托普	100
+a er tu luo	阿尔图罗	100
+a er wa lei	阿尔瓦雷	100
+a er wa sai te	阿尔瓦塞特	100
+a er wei si	阿尔维斯	100
+a er zhou si	阿尔宙斯	100
+a fa er	阿法尔	100
+a fa er sha mo	阿法尔沙漠	100
+a fa gou	阿法狗	100
+a fa li ya	阿法利亚	100
+a fa luo mi ou	阿法罗密欧	100
+a fan da	阿凡达	100
+a fei a a fei	阿飞啊阿飞	100
+a fei li jia zhou	阿非利加洲	100
+a fei xi ya	阿飞西雅	100
+a fei zheng zhuan	阿飞正传	100
+a fu han shou du ka bu er	阿富汗首都喀布尔	100
+a fu han yu	阿富汗语	100
+a fu hua	阿福花	100
+a fu hua ke	阿福花科	100
+a fu hua shu	阿福花属	100
+a fu jia de luo	阿伏伽德罗	100
+a fu jia de luo chang liang	阿伏伽德罗常量	100
+a fu jia de luo chang shu	阿伏伽德罗常数	100
+a fu jia de luo ding lv	阿伏伽德罗定律	100
+a fu jia de luo shu	阿伏伽德罗数	100
+a fu lai ke	阿弗莱克	100
+a fu le er hao	阿芙乐尔号	100
+a fu lin di qu	阿夫林地区	100
+a fu luo di te	阿佛洛狄忒	100
+a fu rong	阿芙蓉	100
+a fu te na	阿芙忒娜	100
+a gai da	阿盖达	100
+a ge er	阿戈尔	100
+a ge ge	阿哥哥	100
+a ge gui wen	阿格规文	100
+a ge men	啊哥们	100
+a ge na	阿格娜	100
+a ge ni	阿格尼	100
+a gen ting qu	阿根廷区	100
+a gen ting shu le	阿根廷输了	100
+a gen ting yang hang	阿根廷央行	100
+a gong a po	阿公阿婆	100
+a gong dian shui ku	阿公店水库	100
+a gong gong	阿公公	100
+a gou a mao	阿狗阿猫	100
+a gu si	阿古斯	100
+a gu si zhi ying	阿古斯之影	100
+a ha li mu fu you	阿哈利姆福佑	100
+a ha li mu mo jing	阿哈利姆魔晶	100
+a ha li mu shen zhang	阿哈利姆神杖	100
+a ha li mu zhi shu	阿哈利姆之书	100
+a he di sa li	阿赫蒂萨里	100
+a he na er	阿合娜尔	100
+a he ye	阿贺野	100
+a hei men ni de wang chao	阿黑门尼德王朝	100
+a heng gong ye da xue	阿亨工业大学	100
+a heng ke ji da xue	阿亨科技大学	100
+a hu si	阿胡斯	100
+a hua tian	阿华田	100
+a ji la	阿基拉	100
+a ji lei la	阿基蕾拉	100
+a jia di er	阿加迪尔	100
+a jia wei	阿加维	100
+a jiao jin wu	阿娇金屋	100
+a jin ku er	阿金库尔	100
+a jin si	阿金斯	100
+a ka di ya da xue	阿卡迪亚大学	100
+a ka li	阿卡丽	100
+a ka ma	阿卡玛	100
+a ka pu er ke	阿卡普尔科	100
+a ka shi	阿卡什	100
+a ka ti	阿卡提	100
+a ke da	阿克达	100
+a ke lun he	阿克伦河	100
+a ke man	阿克曼	100
+a ke man fu fu	阿克曼夫妇	100
+a ke meng de	阿克蒙德	100
+a ke sai er tiao	阿克塞尔跳	100
+a ke sai ha sa ke zu zi zhi xian	阿克塞哈萨克族自治县	100
+a ke sai qin	阿克赛钦	100
+a ke shang	阿克尚	100
+a ke su di	阿克苏地	100
+a ke su wen su	阿克苏温宿	100
+a ke xi ya	阿克希亚	100
+a ken se da xue	阿肯色大学	100
+a kong jia gua	阿空加瓜	100
+a kui na	阿奎纳	100
+a la ba si tan	阿拉巴斯坦	100
+a la ba si tan wang guo	阿拉巴斯坦王国	100
+a la bei la	阿拉贝拉	100
+a la bo di qu	阿拉伯地区	100
+a la bo gong tong shi chang	阿拉伯共同市场	100
+a la bo guo jia lian meng	阿拉伯国家联盟	100
+a la bo hui xiang	阿拉伯茴香	100
+a la bo lian he da gong guo	阿拉伯联合大公国	100
+a la bo shi jie	阿拉伯世界	100
+a la bo shu	阿拉伯数	100
+a la bo shu ma	阿拉伯数码	100
+a la bo yin jie	阿拉伯音阶	100
+a la bo yu xi	阿拉伯语系	100
+a la gan shan mai	阿拉干山脉	100
+a la ha tuo	阿拉哈托	100
+a la hu a ke ba	阿拉胡阿克巴	100
+a la ke	阿拉克	100
+a la la	啊啦啦	100
+a la la la	啊啦啦啦	100
+a la mi yu	阿拉米语	100
+a la shan di qu	阿拉善地区	100
+a la shi	阿拉什	100
+a la si	阿拉斯	100
+a la si jia da xue	阿拉斯加大学	100
+a la si jia di qu	阿拉斯加地区	100
+a la si jia xia xue yu bao	阿拉斯加狭鳕鱼堡	100
+a la si jia xue qiao quan	阿拉斯加雪橇犬	100
+a la si tuo	阿拉斯托	100
+a la si zhu	阿拉斯猪	100
+a la ta si	阿拉塔斯	100
+a la wa	阿拉瓦	100
+a la xi	阿拉希	100
+a la xi gao di	阿拉希高地	100
+a la zhen zhu	阿拉真主	100
+a la zhu	阿拉猪	100
+a lai ke si ta sa	阿莱克斯塔萨	100
+a lai lu ya	阿来路亚	100
+a lai man	阿莱曼	100
+a lai qi bing chuan	阿莱奇冰川	100
+a lai ye shi	阿赖耶识	100
+a lan da wa zhuo ma	阿兰达瓦卓玛	100
+a lan mo	阿兰摩	100
+a lan wen	阿兰文	100
+a lao gong	啊老公	100
+a lao gui	阿劳龟	100
+a lao po	啊老婆	100
+a lao tie	啊老铁	100
+a le dai si	阿勒代斯	100
+a le ma ke tu mu	阿勒马克图姆	100
+a le po	阿勒颇	100
+a le po sheng	阿勒颇省	100
+a le po shi	阿勒颇市	100
+a le si	阿勒斯	100
+a le tai di	阿勒泰地	100
+a le tan	阿勒坦	100
+a le tan han	阿勒坦汗	100
+a le yi sheng	啊了一声	100
+a lei ao la	阿雷奥拉	100
+a lei lei	啊嘞嘞	100
+a lei lu ya	阿肋路亚	100
+a lei qi nuo	阿蕾奇诺	100
+a li ai di	阿莉埃蒂	100
+a li an	阿利安	100
+a li an ren	阿利安人	100
+a li ba ba ben di sheng huo	阿里巴巴本地生活	100
+a li ba ba he si shi da dao	阿里巴巴和四十大盗	100
+a li ba ba ji tuan	阿里巴巴集团	100
+a li ba ba yu si shi da dao	阿里巴巴与四十大盗	100
+a li ban che	阿里班车	100
+a li ben di sheng huo	阿里本地生活	100
+a li ben di sheng huo fu wu	阿里本地生活服务	100
+a li beng le	阿里崩了	100
+a li bo shi	阿笠博士	100
+a li bu da	阿里布达	100
+a li chu pin	阿里出品	100
+a li de	阿里的	100
+a li duo si	阿利多斯	100
+a li he teng xun	阿里和腾讯	100
+a li kan te	阿利坎特	100
+a li lv wang	阿里绿网	100
+a li lv xing	阿里旅行	100
+a li man	阿里曼	100
+a li mo shi	阿里模式	100
+a li na si	阿里纳斯	100
+a li sang na	阿里桑那	100
+a li sen	阿莉森	100
+a li shan da	阿历山大	100
+a li shan qu	阿里山区	100
+a li shan shan mai	阿里山山脉	100
+a li shan xiang	阿里山乡	100
+a li shan zhi ge	阿里山之歌	100
+a li shang ye cao zuo xi tong	阿里商业操作系统	100
+a li si dun	阿里斯顿	100
+a li si ta	阿利斯塔	100
+a li song	阿利松	100
+a li ti xi	阿里体系	100
+a li tuo	阿利托	100
+a li wang pan	阿里网盘	100
+a li wang wang	阿里旺旺	100
+a li wen xue	阿里文学	100
+a li wu si	阿里乌斯	100
+a li xi	阿里系	100
+a li xiao hao	阿里小号	100
+a li ya si	阿里亚斯	100
+a li yin yue	阿里音乐	100
+a li you xiang	阿里邮箱	100
+a li yun qing liang ying yong	阿里云轻量应用	100
+a li yun qing liang ying yong fu wu qi	阿里云轻量应用服务器	100
+a lian qiu hang kong	阿联酋航空	100
+a lian qiu zhang guo	阿联酋长国	100
+a lian xiang	阿莲乡	100
+a lie fu ling	阿列夫零	100
+a lie fu shu	阿列夫数	100
+a lie ke xi si	阿列克西斯	100
+a ling dun guo jia gong mu	阿灵顿国家公墓	100
+a liu shen	阿留申	100
+a long di er	阿龙迪尔	100
+a long suo si	阿隆索斯	100
+a long zheng gang	阿龙正罡	100
+a lu gao	阿鲁高	100
+a lu ka	阿鲁卡	100
+a lu na	阿鲁纳	100
+a lu na qia er bang	阿鲁纳恰尔邦	100
+a lu qun dao	阿鲁群岛	100
+a lun da er	阿伦达尔	100
+a luo han	阿罗汉	100
+a luo ka	阿罗卡	100
+a luo la di qu	阿罗拉地区	100
+a luo na	阿罗娜	100
+a luo yi	阿洛伊	100
+a luo yue	阿罗约	100
+a ma duo la	阿马多拉	100
+a ma fei	阿玛菲	100
+a ma ya	阿玛雅	100
+a ma zong	阿妈粽	100
+a mai le	阿迈勒	100
+a mai wei	阿迈威	100
+a man su er	阿曼苏尔	100
+a man wan	阿曼湾	100
+a mao a gou dou	阿猫阿狗都	100
+a mao a gou dou lai	阿猫阿狗都来	100
+a mei en si	阿美恩斯	100
+a mei mei	阿妹妹	100
+a mei ni ya	阿美尼亚	100
+a men a qian	阿门阿前	100
+a meng zhi zi	阿蒙之子	100
+a mi ba bing	阿米巴病	100
+a mi ba jing ying mo shi	阿米巴经营模式	100
+a mi ba mo shi	阿米巴模式	100
+a mi ba xing li ji	阿米巴性痢疾	100
+a mi ba yuan chong	阿米巴原虫	100
+a mi na da bu	阿米纳达布	100
+a mi shi ren	阿米什人	100
+a mi tuo jing	阿弥陀经	100
+a mi tuo ru lai	阿弥陀如来	100
+a mo si shu	阿摩司书	100
+a mu er he	阿穆尔河	100
+a mu gu leng	阿木古愣	100
+a mu ha la	阿姆哈拉	100
+a mu long	阿穆隆	100
+a mu mu	阿木木	100
+a mu si te lang	阿姆斯特朗	100
+a mu si zhuang	阿姆斯壮	100
+a mu ye ye	阿木爷爷	100
+a na er han	阿娜尔罕	100
+a na han	阿那含	100
+a na ke luo si	阿纳克洛斯	100
+a nan tuo	阿难陀	100
+a nao tuo wei qi	阿瑙托维奇	100
+a ni jia	阿尼甲	100
+a ni ma	啊你妈	100
+a ni zhe shi	啊你这是	100
+a niang shi dao zhuan	阿娘使道传	100
+a nin zhe shi	啊您这是	100
+a nou duo luo	阿耨多罗	100
+a nou duo luo san miao san pu ti	阿耨多罗三藐三菩提	100
+a nu ba la ke	阿努巴拉克	100
+a nu bi si shen dian	阿努比斯神殿	100
+a pa la qi shan jing	阿帕拉契山径	100
+a pa qi	阿帕奇	100
+a pei pu	阿佩普	100
+a pei yue tuan	阿霈乐团	100
+a ping jue dao	阿平绝倒	100
+a pu er dun	阿普尔顿	100
+a pu tu long	阿普吐龙	100
+a qi li si	阿奇里斯	100
+a qi mei ni de wang chao	阿契美尼德王朝	100
+a qi mei su	阿奇霉素	100
+a qi suo hao	阿其所好	100
+a qian lai le	阿浅来了	100
+a ren ge dong zhang	阿人歌洞章	100
+a ru cun	阿如村	100
+a sa de	阿萨德	100
+a sa de ji di	阿萨德基地	100
+a sa de kong jun ji di	阿萨德空军基地	100
+a sa mi	阿萨密	100
+a sa mu nai cha	阿萨姆奶茶	100
+a sa mu nai cha xue bing	阿萨姆奶茶雪冰	100
+a sa ta	阿萨塔	100
+a sa yi guo	阿萨伊果	100
+a sa zi le	阿撒兹勒	100
+a sai bai jiang ren	阿塞拜疆人	100
+a sai bai jiang shou du ba ku	阿塞拜疆首都巴库	100
+a sang qi	阿桑奇	100
+a sen na chuan qi	阿森纳传奇	100
+a sen na dui zhang	阿森纳队长	100
+a sen na ju le bu	阿森纳俱乐部	100
+a sen na ming su	阿森纳名宿	100
+a sen na zu qiu ju le bu	阿森纳足球俱乐部	100
+a sen si	阿森斯	100
+a sha wen	阿沙文	100
+a she shi	阿阇世	100
+a she shi wang	阿阇世王	100
+a shen me	阿什么	100
+a shi ben	阿什本	100
+a shi dun	阿什顿	100
+a shi he	阿什河	100
+a shi kan di	阿什坎迪	100
+a shi ke long	阿什克隆	100
+a shi la wei	阿什拉维	100
+a shi lan	阿什兰	100
+a shi le sun	阿诗勒隼	100
+a shi li	阿什利	100
+a shi li	阿什莉	100
+a shi na sun	阿史那隼	100
+a shi wei er	阿什维尔	100
+a shuai zheng zhuan	阿衰正传	100
+a shui shen	阿水婶	100
+a si ba te	阿斯巴特	100
+a si bo ge	阿斯伯格	100
+a si bo ge zong he zheng	阿斯伯格综合征	100
+a si dun	阿斯顿	100
+a si ka lun	阿斯卡纶	100
+a si la ni	阿斯拉尼	100
+a si lan	阿斯兰	100
+a si pa si	阿斯帕斯	100
+a si ta bo	阿斯塔波	100
+a si tang jia yu jia	阿斯汤加瑜伽	100
+a si te	阿斯特	100
+a si tu li ya si	阿斯图里亚斯	100
+a si wang gao ba	阿斯旺高坝	100
+a song sen dao	阿松森岛	100
+a su huo shan	阿苏火山	100
+a su ka	阿苏卡	100
+a su le	阿苏勒	100
+a su shan	阿苏山	100
+a suo ka	阿索卡	100
+a ta lan ta	阿塔兰塔	100
+a ta lan te	阿塔兰忒	100
+a ta po	阿闼婆	100
+a ta po fei tuo	阿闼婆吠陀	100
+a tai bao zi	阿泰包子	100
+a tai si te	阿泰斯特	100
+a te jin si	阿特金斯	100
+a te lan di si	阿特兰蒂斯	100
+a te mi si	阿特米斯	100
+a te wu de	阿特伍德	100
+a te wu de ding lv	阿特伍德定律	100
+a teng bo le	阿滕伯勒	100
+a ti la	阿提拉	100
+a ti ya	阿提亚	100
+a ti ye	阿提耶	100
+a tu bo	阿土伯	100
+a tu shi xian	阿图什县	100
+a tuo si zhi gun	阿托斯之棍	100
+a wa da	阿瓦达	100
+a wa da ken da gua	阿瓦达啃大瓜	100
+a wa da suo ming	阿瓦达索命	100
+a wa di fu ka	阿瓦迪夫卡	100
+a wa li de	阿瓦里德	100
+a wa shan zhai	阿瓦山寨	100
+a wang qu pei	阿旺曲培	100
+a wang xin zhuan	阿旺新传	100
+a wei la	阿维拉	100
+a wei shu	阿魏属	100
+a wei ta	阿维塔	100
+a wei yi jing	阿伟已经	100
+a wei yi jing si le	阿伟已经死了	100
+a wu a wu	啊呜啊呜	100
+a wu er	阿物儿	100
+a wu wu	啊呜呜	100
+a wu wu wu	啊呜呜呜	100
+a wu wu wu wu	啊呜呜呜呜	100
+a wu wu wu wu wu	啊呜呜呜呜呜	100
+a wu wu wu wu wu wu	啊呜呜呜呜呜呜	100
+a wu wu wu wu wu wu wu	啊呜呜呜呜呜呜呜	100
+a wu wu wu wu wu wu wu wu	啊呜呜呜呜呜呜呜呜	100
+a wu wu wu wu wu wu wu wu wu	啊呜呜呜呜呜呜呜呜呜	100
+a wu wu wu wu wu wu wu wu wu wu	啊呜呜呜呜呜呜呜呜呜呜	100
+a wu wu wu wu wu wu wu wu wu wu wu	啊呜呜呜呜呜呜呜呜呜呜呜	100
+a xi mu	阿希姆	100
+a xi yuan su	锕系元素	100
+a xian yao	阿仙药	100
+a xiu luo ba jian	阿修罗拔剑	100
+a xiu luo fa jie	阿修罗法界	100
+a ya la suo	啊呀啦嗦	100
+a ya tu la	阿亚图拉	100
+a ye de	阿叶德	100
+a ye wu da er	阿爷无大儿	100
+a yi duo si	阿依多斯	100
+a yi hao	阿姨好	100
+a yi lai le	阿姨来了	100
+a yi sha	阿伊莎	100
+a yi sha	阿依莎	100
+a you bu wang chao	阿尤布王朝	100
+a yu fei tuo	阿育吠陀	100
+a yu gou he	阿谀苟合	100
+a yu tuo ye	阿育陀耶	100
+a yuan su	锕元素	100
+a yue hun zi	阿月浑子	100
+a yue hun zi shi	阿月浑子实	100
+a yue hun zi shu	阿月浑子树	100
+a yue ti ya	阿约提亚	100
+a za zhi wu	腌臜之物	100
+a ze la	阿泽拉	100
+a zha lun ka	阿扎伦卡	100
+a zha ni ya	阿扎尼亚	100
+a zhen ai shang le a qiang	阿珍爱上了阿强	100
+a zi er	阿兹尔	100
+a zi fu ding pian	阿兹夫定片	100
+a zi hai mo	阿兹海默	100
+a zi hai mo shi zheng	阿兹海默氏症	100
+a zi hai mo zheng	阿兹海默症	100
+a zi hai mo zheng	阿滋海默症	100
+a zi hai mo zheng bing huan	阿兹海默症病患	100
+a zi ka ban de qiu tu	阿兹卡班的囚徒	100
+a zi ka ban de tao fan	阿兹卡班的逃犯	100
+a zi wen mei lai	阿姊闻妹来	100
+a zu ren	阿族人	100
+a zuo fu	阿佐夫	100
+a zuo fu ying	阿佐夫营	100
+a qin	吖嗪	99
+a er han bu la gong	阿尔汗布拉宫	95
+a ni ma qing feng	阿尼玛卿峰	95
+a ba zhong yuan	阿坝中院	87
+a gui	阿贵	87
+a ke su zhong yuan	阿克苏中院	87
+a le tai zhong yuan	阿勒泰中院	87
+a li zhong yuan	阿里中院	87
+a meng zhong yuan	阿盟中院	87
+a ding huang	吖啶黄	85
+a wa si ting	阿瓦斯汀	83
+a ji mi de luo xian	阿基米德螺线	80
+a ke su mu wang guo	阿克苏姆王国	80
+a li bi shi	阿里笔试	77
+a zhai	阿宅	77
+a ba ga	阿巴嘎	75
+a bu du ke li mu	阿不都克里木	75
+a la si jia wan	阿拉斯加湾	75
+a xi mu	阿西木	75
+a song	阿松	74
+a si pi lin chang rong pian	阿司匹林肠溶片	72
+a er jin shan mai	阿尔金山脉	70
+a zi te ke wen hua	阿兹特克文化	70
+a mao	阿毛	68
+a pu zuo lun	阿普唑仑	67
+a zha	阿扎	66
+a ke mo la	阿克莫拉	65
+a la fu la hai	阿拉弗拉海	65
+a yi jia li	阿姨家里	65
+a mi lv	阿米驴	63
+a de fu wei zhi	阿德福韦酯	61
+a bo ding jun	阿伯丁郡	60
+a wei suan na	阿魏酸钠	60
+a mu da er ding lv	阿姆达尔定律	59
+a fa si ting	阿伐斯汀	54
+a mi ling	阿弥岭	51
+a gui	阿桂	49
+a he mai ti jiang	阿合买提江	49
+a bu gui xiu	阿部规秀	48
+a tuo fa ta ting	阿托伐他汀	46
+a mu li ze can an	阿姆利则惨案	45
+a wa lu a	阿瓦鲁阿	45
+a kui la ni	阿奎拉尼	43
+a ba suo fu	阿巴索夫	42
+a you duo	阿幼朵	41
+a er nuo fen ni fu fu xiang	阿尔诺芬尼夫妇像	40
+a ka bo tang	阿卡波糖	39
+a mo xi lin ke li	阿莫西林颗粒	39
+a ren wu fu	阿人无父	39
+a xi luo wei	阿昔洛韦	39
+a gen ting du gao quan	阿根廷杜高犬	37
+a kui na	阿奎那	36
+a gu bai	阿古柏	35
+a le ma le xiang	阿勒玛勒乡	35
+a li ke xie	阿里克谢	35
+a hong kou	阿洪口	33
+a pu zuo lun pian	阿普唑仑片	32
+a fu bei bei	阿福贝贝	31
+a ken tan chang hui	阿肯弹唱会	30
+a li ya	阿丽雅	30
+a re wu si tang xiang	阿热吾斯塘乡	30
+a ke ti kan dun xiang	阿克提坎墩乡	28
+a mi san qin luo ba xin pian	阿米三嗪萝巴新片	28
+a qin	阿沁	27
+a ka bo tang pian	阿卡波糖片	26
+a ke tu bie ke xiang	阿克吐别克乡	26
+a li ye shi	阿黎耶识	26
+a duo xiang	阿多乡	24
+a mi luo li	阿米洛利	24
+a zu la	阿祖拉	24
+a la shan cun	阿拉善村	23
+a qi mei su ke li	阿奇霉素颗粒	22
+a wan cang xiang	阿万仓乡	22
+a wei suan	阿魏酸	22
+a fan ti de gu shi	阿凡提的故事	21
+a la bo tang	阿拉伯糖	21
+a li ya	阿利雅	20
+a mi ka xing	阿米卡星	20
+a mi ti lin	阿米替林	20
+a wa ti nong chang	阿瓦提农场	20
+a ba la qi ya shan	阿巴拉契亚山	19
+a er duo ning	阿尔多宁	19
+a ke sa ke ma re le xiang	阿克萨克马热勒乡	19
+a la gou xiang	阿拉沟乡	19
+a mo xi lin fen san pian	阿莫西林分散片	19
+a fang si lu	阿房四路	18
+a huan ya mian	阿焕鸭面	18
+a qi mei su fen san pian	阿奇霉素分散片	18
+a ben da zuo pian	阿苯达唑片	17
+a fu han lie gou	阿富汗猎狗	17
+a kai di ya zhuang yuan	阿凯笛亚庄园	17
+a tuo fa ta ting gai pian	阿托伐他汀钙片	17
+a la ta	阿拉塔	16
+a si pi lin pian	阿司匹林片	16
+a de lai de lian	阿德莱德联	15
+a de mi er	阿德米尔	15
+a er bei te yun he	阿尔贝特运河	15
+a er ji er da xue	阿尔及尔大学	15
+a er ka	阿尔卡	15
+a le shan	阿勒山	15
+a luo xi lin	阿洛西林	15
+a nei jia da hai xia	阿内加达海峡	15
+a qi mei su jiao nang	阿奇霉素胶囊	15
+a tang bao gan	阿糖胞苷	15
+a lun lin suan na	阿仑膦酸钠	14
+a ti luo er	阿替洛尔	14
+a bao	阿宝	13
+a er pi na	阿尔皮纳	13
+a ke su pu xiang	阿克苏普乡	13
+a la bo zi	阿拉伯字	13
+a la ming	阿拉明	13
+a qi mei su pian	阿奇霉素片	13
+a jun jiu jia	阿俊酒家	12
+a pa lu sa ma	阿帕卢萨马	12
+a re le zhen	阿热勒镇	12
+a ti pu mei	阿替普酶	12
+a wen shou bei	阿文绶贝	12
+a xi rong xiang	阿西茸乡	12
+a ben da zuo	阿苯达唑	11
+a he	阿河	11
+a mu xiang	阿木乡	11
+a na	阿娜	11
+a pu	阿普	11
+a qing	阿晴	11
+a rou xiang	阿柔乡	11
+a wu li ya xiang	阿乌利亚乡	11
+a xi xiang	阿西乡	11
+a ke tao zhen	阿克陶镇	10
+a man ni sha han	阿曼尼莎汗	10
+a mei	阿美	10
+a na tuo er mu yang quan	阿那托尔牧羊犬	10
+a ba er hu qi	阿巴尔虎旗	9
+a cheng	阿城	9
+a dui quan	阿对泉	9
+a er ka shan shan mai	阿尔喀山山脉	9
+a er xi nuo hai tan	阿尔西诺海滩	9
+a ke la wei ke	阿克拉维克	9
+a lan de long	阿兰德龙	9
+a mei	阿梅	9
+a ri zha	阿日扎	9
+a xi	锕系	9
+a xi er da wo er min zu xiang	阿西尔达斡尔民族乡	9
+a er ben ge le zhen	阿尔本格勒镇	8
+a gu da	阿骨打	8
+a la si jia ai si ji mo quan	阿拉斯加爱斯基摩犬	8
+a luo luo er	阿罗洛尔	8
+a mu qu hu zhen	阿木去乎镇	8
+a ri zha xiang	阿日扎乡	8
+a rou bi xing	阿柔比星	8
+a shi he jie dao	阿什河街道	8
+a yue xiang	阿月乡	8
+a bu kuan	阿部宽	7
+a de fu wei zhi jiao nang	阿德福韦酯胶囊	7
+a de fu wei zhi pian	阿德福韦酯片	7
+a gou	阿狗	7
+a mo xi lin ju jue pian	阿莫西林咀嚼片	7
+a mo xi lin ke la wei suan jia pian	阿莫西林克拉维酸钾片	7
+a wu xiang	阿坞乡	7
+a ba dun tou gu	阿巴敦头箍	6
+a hong lu ku mu xiang	阿洪鲁库木乡	6
+a ke li xiang	阿科里乡	6
+a la bo ju tang	阿拉伯聚糖	6
+a lang xiang	阿朗乡	6
+a na ku le xiang	阿纳库勒乡	6
+a pu lin ding	阿普林定	6
+a qi mei su zhu she ye	阿奇霉素注射液	6
+a qin mi te	阿嗪米特	6
+a si pi lin pao teng pian	阿司匹林泡腾片	6
+a tuo	阿陀	6
+a xi luo wei pian	阿昔洛韦片	6
+a yi tu la	阿依吐拉	6
+a ba dun jing jia	阿巴敦胫甲	5
+a bei ge	阿贝格	5
+a er ka shan	阿尔喀山	5
+a gen tu	阿根图	5
+a la si hai xia	阿拉斯海峡	5
+a la si jia shen hai yu you	阿拉斯加深海鱼油	5
+a ma	阿嫲	5
+a ma li er duo	阿马里尔多	5
+a men jiao shi	阿门角石	5
+a mi shi	阿米什	5
+a mo xi lin pian	阿莫西林片	5
+a na de er	阿纳德尔	5
+a si mi zuo	阿司咪唑	5
+a si pi lin huan shi pian	阿司匹林缓释片	5
+a si te lan na	阿斯特兰纳	5
+a su ji ba	阿速吉八	5
+a xi luo wei di yan ye	阿昔洛韦滴眼液	5
+a xi luo wei ru gao	阿昔洛韦乳膏	5
+a cheng shi	阿城市	4
+a cheng xian	阿城县	4
+a gu la zhen	阿古拉镇	4
+a he qi nong chang	阿合其农场	4
+a ke la mei su	阿克拉霉素	4
+a luo ni yang	阿罗尼扬	4
+a mu ta	阿木塔	4
+a wei hua pi gao	阿魏化痞膏	4
+a ba dun xiong jia	阿巴敦胸甲	3
+a ba kan shi	阿巴坎市	3
+a bu li	阿部力	3
+a de mi	阿德米	3
+a er pai dian zi	阿尔派电子	3
+a fang yi lu xi kou	阿房一路西口	3
+a ka fen jiao nang	阿咖酚胶囊	3
+a ka fen san	阿咖酚散	3
+a la shan fu	阿拉善蝮	3
+a la teng chao ge	阿拉腾朝格	3
+a la teng chao ge su mu	阿拉腾朝格苏木	3
+a lao te la pi ti	阿劳特拉䴙䴘	3
+a li pai zuo	阿立哌唑	3
+a li pai zuo pian	阿立哌唑片	3
+a ma	阿嬷	3
+a man qi	阿曼琪	3
+a mo xi lin gan hun xuan ji	阿莫西林干混悬剂	3
+a mo xi lin na	阿莫西林钠	3
+a pu ma fei	阿扑吗啡	3
+a qi mei su gan hun xuan ji	阿奇霉素干混悬剂	3
+a qin an a na yu lin	阿钦安阿纳雨林	3
+a shi li ha sa ke zu xiang	阿什里哈萨克族乡	3
+a si pi lin chang rong jiao nang	阿司匹林肠溶胶囊	3
+a wen tang bao	阿文汤包	3
+a xi luo wei ruan gao	阿昔洛韦软膏	3
+a xiu	阿秀	3
+a xu xiang	阿须乡	3
+a zi jue xiang	阿兹觉乡	3
+a zi xiang	阿孜乡	3
+a ba dun dun	阿巴敦盾	2
+a ba dun xue	阿巴敦靴	2
+a bei	阿贝	2
+a bin	阿宾	2
+a bin	阿斌	2
+a bing	阿冰	2
+a cha	阿察	2
+a cha	阿茶	2
+a cha zhen	阿察镇	2
+a chang	阿长	2
+a da	阿大	2
+a er ji li ya shi	阿尔及利亚䴓	2
+a fa gu hua chun	阿法骨化醇	2
+a gen	阿根	2
+a he bie li dou xiang	阿合别里斗乡	2
+a he luo mei ye fu	阿赫罗梅耶夫	2
+a hei pi su yuan	阿黑皮素原	2
+a jia man de	阿加曼德	2
+a jia qu ban	阿加曲班	2
+a jie pian	阿桔片	2
+a ke tuo hai yi xiang	阿克托海依乡	2
+a la bo ban ru ju tang	阿拉伯半乳聚糖	2
+a la ge er xiang	阿拉格尔乡	2
+a le ge ni	阿勒格尼	2
+a le ge ni he	阿勒格尼河	2
+a le ge ni shan mai	阿勒格尼山脉	2
+a le tai xian	阿勒泰县	2
+a li bu ge	阿里不哥	2
+a lu ba dao xiang wei she	阿鲁巴岛响尾蛇	2
+a lun	阿伦	2
+a luo	阿罗	2
+a luo xi lin na	阿洛西林钠	2
+a mi ba gan nong zhong	阿米巴肝脓肿	2
+a mo luo fen	阿莫罗芬	2
+a na qu zuo	阿那曲唑	2
+a qu ku an	阿曲库铵	2
+a she li	阿阇梨	2
+a shi li	阿什里	2
+a teng bo le chang hui zhen yan	阿滕伯勒长喙针鼹	2
+a wa zu	阿佤族	2
+a xi	阿喜	2
+a xiu	阿修	2
+a you	阿尤	2
+a ba	阿坝	1
+a ba da tou hua tian niu	阿坝大头花天牛	1
+a ba dun chang pao	阿巴敦长袍	1
+a ba dun shou tao	阿巴敦手套	1
+a ba dun zhong jia	阿巴敦重甲	1
+a ba er hu	阿巴尔虎	1
+a ba ge pi	阿坝革蜱	1
+a ba li hua lu bao luo	阿巴里花鹿宝螺	1
+a ba zang zhu	阿坝藏猪	1
+a ben da zuo ke li	阿苯达唑颗粒	1
+a bi jiao huan	阿鼻叫唤	1
+a bi yin hang	阿比银行	1
+a bing	阿炳	1
+a bing ding	吖丙啶	1
+a bo guo	阿波国	1
+a bo la zi	阿博拉兹	1
+a bo la zi fei xu	阿博拉兹废墟	1
+a bu du sha la mu	阿不都沙拉木	1
+a bu xiang mo jian deng yu	阿部相模肩灯鱼	1
+a chu bing fo	阿閦鞞佛	1
+a chu fo guo	阿閦佛国	1
+a chu fo wang sheng zhou	阿閦佛往生咒	1
+a chu fo xin zhou	阿閦佛心咒	1
+a chu pi fo	阿閦辟佛	1
+a chu ru lai	阿閦如来	1
+a da pa lin ning jiao	阿达帕林凝胶	1
+a dang song hai tu luo	阿当嵩海兔螺	1
+a dang zhen	阿党镇	1
+a de er man hou chao ke	阿德尔曼鲎超科	1
+a de lei de mei gui ying wu	阿得雷德玫瑰鹦鹉	1
+a deng chuan xia zhen yu	阿登川下鱵鱼	1
+a deng mei zhou shi gui	阿登美洲石鱥	1
+a ding ding	吖丁啶	1
+a dou zai	阿豆仔	1
+a er ba ni ya xiao gui	阿尔巴尼亚小鱥	1
+a er bi chi zhu	阿尔比迟蛛	1
+a er bo da jian jiao long qun zang mu	阿尔伯达尖角龙群葬墓	1
+a er de hai si luo	阿尔德海蛳螺	1
+a er fa di	阿尔法迪	1
+a er fu lian de gu bian	阿尔弗连德骨鳊	1
+a er ma er	阿尔马尔	1
+a er mo la meng jia la guo ling	阿尔莫拉孟加拉国鲮	1
+a er pa wa yue yi niao	阿尔帕瓦约蚁鸟	1
+a er tai du fu yu	阿尔泰杜父鱼	1
+a fa nan fang gu yuan	阿法南方古猿	1
+a fei xing	阿肥星	1
+a fen pin geng	阿芬品㹴	1
+a fen tai ni	阿芬太尼	1
+a fu han ni bi qian	阿富汗拟璧钱	1
+a fu lao ya bao	阿福老鸭煲	1
+a fu te duan xian xi chong	阿芙特短腺吸虫	1
+a gen ting gu dai shou	阿根廷古袋兽	1
+a gen ting xiao ba weng	阿根廷小霸鹟	1
+a geng huan	吖庚环	1
+a gu a weng	阿姑阿翁	1
+a gu ge bai ling	阿古歌百灵	1
+a guai	阿怪	1
+a guai wo	啊怪我	1
+a he ya xiang	阿合亚乡	1
+a he ya zi mu chang	阿合牙孜牧场	1
+a jia ma ge	阿迦玛戈	1
+a jia man de mo fang	阿加曼德磨坊	1
+a jin	阿金	1
+a jun	阿军	1
+a ka pei la	阿卡佩拉	1
+a ka si te bai gu zhi wang	阿卡斯特白骨之王	1
+a ke hai dun pai	阿克海盾牌	1
+a ke su xian	阿克苏县	1
+a ke tu mu si ke mu chang	阿克吐木斯克牧场	1
+a ken se he mei zhou gui	阿肯色河美洲鱥	1
+a la bo ci gai yu	阿拉伯刺盖鱼	1
+a la bo gai ji yu	阿拉伯盖棘鱼	1
+a la bo yu yi sheng	阿拉伯鱼医生	1
+a la bo zhuo mu niao	阿拉伯啄木鸟	1
+a la gua ya he bing nian	阿拉瓜亚河兵鲶	1
+a la mo ni gui	阿拉莫泥龟	1
+a la shan kou kou an xing zheng guan li qu	阿拉山口口岸行政管理区	1
+a la shan qiang zhong shou	阿拉善强中兽	1
+a la si jia chang kong mian wei	阿拉斯加长孔绵鳚	1
+a la si jia ci shi zi yu	阿拉斯加刺狮子鱼	1
+a la si jia ci yu	阿拉斯加刺鱼	1
+a la si jia ma la miu te gou	阿拉斯加马拉缪特狗	1
+a la si jia si gou chong	阿拉斯加四钩虫	1
+a la si jia wang xiao lie quan	阿拉斯加王小猎犬	1
+a lai	阿来	1
+a lan	阿兰	1
+a le	阿勒	1
+a le tai gui	阿勒泰鱥	1
+a li gui bao luo	阿里圭宝螺	1
+a li hong ke chuan kou fu ye	阿里红咳喘口服液	1
+a li ke si dun	阿历克斯顿	1
+a li ke si dun nong chang	阿历克斯顿农场	1
+a li ke xie fu huan hai bao	阿里柯谢夫环海豹	1
+a li shan huang ban yin die	阿里山黄斑荫蝶	1
+a li shan si guang mao jiao hua tian niu	阿里山丝光毛角花天牛	1
+a li shan xi chi e	阿里山夕尺蛾	1
+a li shan zong lv dao	阿里山棕榈岛	1
+a li si rui en	阿里斯瑞恩	1
+a li si rui en zhi chi	阿里斯瑞恩之池	1
+a li ya de ni si shi chang feng die	阿里亚德妮斯氏裳凤蝶	1
+a lie ke si bao luo	阿列克斯宝螺	1
+a lin	阿林	1
+a lu ba xue xiao	阿鲁巴穴鸮	1
+a lu xiao weng	阿鲁啸鹟	1
+a luo	阿洛	1
+a luo tong tang	阿洛酮糖	1
+a ma jie en	阿玛杰恩	1
+a ma wei shi xia hu yu	阿马韦氏鰕虎鱼	1
+a man se er	阿曼瑟尔	1
+a man wan gong ting yu luo	阿曼湾宫廷芋螺	1
+a man wan xiao yan bao luo	阿曼湾小眼宝螺	1
+a mang yin yan die	阿芒荫眼蝶	1
+a mao	阿茂	1
+a mei er hu bai gui	阿梅尔湖白鲑	1
+a meng	阿蒙	1
+a mi ba fei nong zhong	阿米巴肺脓肿	1
+a mi ba xing gan nong zhong	阿米巴性肝脓肿	1
+a mi fu ting	阿米福汀	1
+a mo dao ying xiao	阿默岛鹰鸮	1
+a mo lei	阿莫雷	1
+a mo li bao luo	阿默里宝螺	1
+a mo shi fu shi zi yu	阿莫氏副狮子鱼	1
+a mo xi lin na fu lv xi lin na	阿莫西林钠氟氯西林钠	1
+a mo xi lin shu ba tan na	阿莫西林舒巴坦钠	1
+a mo xi lin shu ba tan pi zhi pian	阿莫西林舒巴坦匹酯片	1
+a mu dong	阿木冬	1
+a mu er du e ji ying	阿穆尔毒蛾寄蝇	1
+a mu he xiao ni chan xun	阿姆河小拟铲鲟	1
+a mu qu ba zhe luo	阿目佉跋折罗	1
+a mu rui te jia ju zhong xin	阿姆瑞特家居中心	1
+a mu wei zhu	阿姆微蛛	1
+a na luo dou niang yu	阿纳洛豆娘鱼	1
+a na mei zhou gui	阿纳美洲鱥	1
+a na mu mu bian fu	阿纳姆墓蝙蝠	1
+a nai er	阿奈尔	1
+a ni	阿妮	1
+a ni wan bao luo	阿泥湾宝螺	1
+a nuo de ya si bi luo	阿诺德雅思笔螺	1
+a pa la ye	阿帕拉耶	1
+a pa la ye ying di	阿帕拉耶营地	1
+a pi di yu	阿毗地狱	1
+a pian zhong du	阿片中毒	1
+a pu lu gua bing nian	阿普路瓜兵鲶	1
+a qi ben shan hu luo	阿奇笨珊瑚螺	1
+a qi mei su chang rong pian	阿奇霉素肠溶片	1
+a qi mei su lin suan er qing na	阿奇霉素磷酸二氢钠	1
+a qi mei su lv hua na zhu she ye	阿奇霉素氯化钠注射液	1
+a ri xi xiang	阿日希乡	1
+a sa mu jian fen die	阿萨姆尖粉蝶	1
+a sa mu san ci jiao chan	阿萨姆三刺角蝉	1
+a sa mu shao ban ming	阿萨姆梢斑螟	1
+a sen song dao ju lin xia hu	阿森松岛锯鳞鰕虎	1
+a shi jiao shi jian feng	阿氏角室茧蜂	1
+a shi lu yan yu	阿氏炉眼鱼	1
+a shi mao tui ye ying	阿氏毛腿夜鹰	1
+a shi tu	阿氏图	1
+a shi xin chun zhi li	阿氏新唇脂鲤	1
+a si mi xing	阿司米星	1
+a si pi lin chang rong huan shi pian	阿司匹林肠溶缓释片	1
+a suo xiang	阿索乡	1
+a ta mo lan	阿拓莫兰	1
+a ta qi	阿她琪	1
+a te la si ke pu ke long	阿特拉斯科普柯龙	1
+a te la tuo he chang gui nian	阿特拉托河长龟鲶	1
+a te lai fu	阿特来夫	1
+a ti ka zhi ye	阿提卡之夜	1
+a ti sang nuo man di duan tui quan	阿提桑诺曼底短腿犬	1
+a tuo fa ta ting gai	阿托伐他汀钙	1
+a tuo pin yan gao	阿托品眼膏	1
+a wei	阿伟	1
+a wei jun su ru you fang zhi xiao cai e	阿维菌素乳油防治小菜蛾	1
+a wei shi cao mei zhou gui	阿维食草美洲鱥	1
+a wei suan na pu tao tang zhu she ye	阿魏酸钠葡萄糖注射液	1
+a wo er gu wei yu	阿沃尔骨尾鱼	1
+a xi	阿西	1
+a xi li si	阿希理斯	1
+a xi luo wei yan gao	阿昔洛韦眼膏	1
+a xi mo si	阿昔莫司	1
+a xi ta ji ao	阿西塔基奥	1
+a xia	阿霞	1
+a xiang	阿湘	1
+a xiang	阿祥	1
+a xiang	阿翔	1
+a xing	阿星	1
+a xiong	阿雄	1
+a xiu xiang	阿秀乡	1
+a xu	阿絮	1
+a xu	阿须	1
+a ya	阿雅	1
+a yang	阿阳	1
+a yi ma lin	阿义马林	1
+a yi nu quan	阿依努犬	1
+a zi tan xiang	阿子滩乡	1
+a zong	阿棕	1
+a zu jiang qi li yu	阿祖桨鳍丽鱼	1

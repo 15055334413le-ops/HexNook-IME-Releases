@@ -1,0 +1,57 @@
+piao ke	嫖客	60810
+piao ju	票据	21637
+piao bai ji	漂白剂	9111
+piao chong	瓢虫	8236
+piao po da yu	瓢泼大雨	1666
+piao liu wu	漂流物	1185
+piao hu bu ding	飘忽不定	770
+piao bai fen	漂白粉	715
+piao ling	嘌呤	551
+piao piao yu xian	飘飘欲仙	218
+piao fu zhi wu	漂浮植物	151
+piao ju wei zao	票据伪造	150
+piao niao	漂鸟	80
+piao ran chang	漂染厂	73
+piao bai fen xiao du	漂白粉消毒	39
+piao ju shou kuan ren	票据收款人	36
+piao shui	漂水	35
+piao ju cheng dui ren	票据承兑人	22
+piao mian jia e	票面价额	16
+piao fu sheng wu	漂浮生物	14
+piao piao he suo shi	飘飘何所似	9
+piao xian yi hao	飘仙一号	9
+piao jia ke	瓢甲科	6
+piao ju wen ju	票据文句	4
+piao miao gu hong ying	缥缈孤鸿影	4
+piao ran si bu qun	飘然思不群	4
+piao ju zhan dan	票据粘单	3
+piao xiang lu	飘香路	3
+piao bo jiu	漂泊鸠	2
+piao bo xi nan tian di jian	漂泊西南天地间	2
+piao chong jian feng	瓢虫茧蜂	1
+piao fu sheng tian xing	飘拂升天行	1
+piao ju yi fu	票据议付	1
+piao ling jiu yi bei	飘零酒一杯	1
+piao ling jun bu zhi	飘零君不知	1
+piao ling mei su	嘌呤霉素	1
+piao liu zong zhan	漂流总站	1
+piao miao ru shi ru fei yan	缥缈入石如飞烟	1
+piao piao hu ru yi shi du li	飘飘乎如遗世独立	1
+piao piao qing suo lang	飘飘青琐郎	1
+piao ran zhuan xuan hui xue qing	飘然转旋回雪轻	1
+piao ru mo shang chen	飘如陌上尘	1
+piao shi he fan kong	飘似鹤翻空	1
+piao xiang zhu cui gu	飘香猪脆骨	1
+piao yi de yu zhou guan	飘逸的宇宙观	1
+piao chong nie xiao feng	瓢虫啮小蜂	0
+piao chong yin wei tiao xiao feng	瓢虫隐尾跳小蜂	0
+piao dai wei ba weng	飘带尾霸鹟	0
+piao fu hai ying	漂浮海萤	0
+piao fu nang kang xia	漂浮囊糠虾	0
+piao liang bao bei jiang	漂亮宝贝鳉	0
+piao ni bu xing chong	瓢拟步行虫	0
+piao qi xia hu yu	瓢鳍鰕虎鱼	0
+piao shui mu	瓢水母	0
+piao xia hu yu	瓢鰕虎鱼	0
+piao you shan hu xia hu	漂游珊瑚鰕虎	0
+piao you shan hu xia hu yu	漂游珊瑚鰕虎鱼	0

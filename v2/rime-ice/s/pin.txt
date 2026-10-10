@@ -1,0 +1,882 @@
+pin pai	品牌	501847
+pin zhong	品种	500465
+pin zhi	品质	500399
+pin dao	频道	500329
+pin lv	频率	462170
+pin fan	频繁	282900
+pin kun	贫困	243920
+pin qing	聘请	199975
+pin yong	聘用	172420
+pin chang	品尝	162260
+pin ming	拼命	159210
+pin wei	品味	158405
+pin ren	聘任	126515
+pin yin	拼音	108230
+pin pai xing xiang	品牌形象	102240
+pin de	品德	93250
+pin qiong	贫穷	91110
+pin zhong de	品种的	79180
+pin xue	贫血	78165
+pin kun di qu	贫困地区	77155
+pin bo	拼搏	76615
+pin ge	品格	73600
+pin lei	品类	61230
+pin duan	频段	59595
+pin pai zhan lve	品牌战略	50330
+pin pai jia zhi	品牌价值	38960
+pin pai chan pin	品牌产品	35900
+pin kun xue sheng	贫困学生	35850
+pin kun jia ting	贫困家庭	34990
+pin kun ren kou	贫困人口	34280
+pin pai jian she	品牌建设	33825
+pin pai qi che	品牌汽车	33587
+pin yong he tong	聘用合同	33065
+pin ming de	拼命的	31623
+pin ming de	拼命地	31344
+pin kun sheng	贫困生	31100
+pin jie	拼接	31060
+pin fa	贫乏	30970
+pin cha	品茶	30390
+pin xing	品行	30365
+pin qing le	聘请了	29660
+pin tu	拼图	29585
+pin xie	拼写	28795
+pin wei	聘为	27565
+pin zhi bao zheng	品质保证	26625
+pin pu	频谱	25245
+pin kun hu	贫困户	25095
+pin pai hua	品牌化	25045
+pin pai tui guang	品牌推广	24510
+pin xiang	品相	23480
+pin pai zhi ming du	品牌知名度	23170
+pin pai xiao ying	品牌效应	22730
+pin fu cha ju	贫富差距	22505
+pin pai you shi	品牌优势	22430
+pin pai guan li	品牌管理	22290
+pin zhuang	拼装	22105
+pin ren zhi	聘任制	21250
+pin fa	频发	20995
+pin zhong qi quan	品种齐全	20605
+pin fu	贫富	20455
+pin zhong fan duo	品种繁多	19800
+pin ku	贫苦	19390
+pin pai ji	品牌机	19245
+pin xue jian you	品学兼优	18690
+pin xing	品性	18050
+pin pai ding wei	品牌定位	17910
+pin zhi guan li	品质管理	17740
+pin lv xiang ying	频率响应	17575
+pin pai ying xiao	品牌营销	17525
+pin cou	拼凑	17345
+pin ping	品评	17295
+pin dai	频带	17125
+pin dao	贫道	16855
+pin le	拼了	16670
+pin pai yi shi	品牌意识	16060
+pin che	拼车	15630
+pin xi	品系	15525
+pin si	拼死	15465
+pin kun xian	贫困县	15055
+pin ci	频次	14875
+pin zhong duo	品种多	14820
+pin shu	聘书	14785
+pin zhi you liang	品质优良	14320
+pin min	贫民	14265
+pin han	贫寒	13785
+pin sha	拼杀	13645
+pin ji	品级	13590
+pin pai fa zhan	品牌发展	12715
+pin jiu	品酒	12585
+pin pai fu zhuang	品牌服装	12550
+pin du	频度	12360
+pin nong	贫农	12075
+pin yong zhi	聘用制	11990
+pin guan	品管	11405
+pin kun shan qu	贫困山区	11280
+pin cheng	拼成	11085
+pin xing duan zheng	品行端正	10840
+pin xiang	频响	10020
+pin bi	拼比	9999
+pin dan	拼单	9999
+pin gou	拼购	9999
+pin se	品色	9999
+pin wan	品玩	9999
+pin zui jian she	贫嘴贱舌	9999
+pin zhi hao	品质好	9930
+pin ji	贫瘠	9865
+pin pai zi chan	品牌资产	9720
+pin kun cun	贫困村	9585
+pin tie	拼贴	9370
+pin pai ce hua	品牌策划	9355
+pin pan	拼盘	9190
+pin dao lan mu	频道栏目	9040
+pin bo jing shen	拼搏精神	8850
+pin qi	聘期	8790
+pin qing lv shi	聘请律师	8510
+pin mu	品目	8470
+pin de	拼的	8435
+pin du	品读	8300
+pin pai su zao	品牌塑造	8235
+pin qiang	拼抢	8170
+pin pai dian nao	品牌电脑	8035
+pin ji de	贫瘠的	7910
+pin seng	贫僧	7855
+pin xie	贫血	7816
+pin pin	品品	7777
+pin pai nei han	品牌内涵	7715
+pin chu	拼出	7675
+pin fan chu xian	频繁出现	7655
+pin pai fu shi	品牌服饰	7220
+pin pai zhong cheng du	品牌忠诚度	7155
+pin zhong jie gou	品种结构	7140
+pin chu	品出	7055
+pin chu	频出	7010
+pin qiong luo hou	贫穷落后	7005
+pin guan	品冠	7000
+pin du	拼读	6970
+pin zhi shang	品质上	6610
+pin he	拼合	6605
+pin pai jing li	品牌经理	6585
+pin pai lie biao	品牌列表	6510
+pin min ku	贫民窟	6490
+pin pai dian	品牌店	6480
+pin yin shu ru fa	拼音输入法	6465
+pin yong zhi du	聘用制度	6270
+pin pai shou ji	品牌手机	6240
+pin xiang	拼箱	6165
+pin pin	频频	6134
+pin pai nv zhuang	品牌女装	6080
+pin le ming	拼了命	6055
+pin pai guang gao	品牌广告	5975
+pin chang zhe	品尝着	5730
+pin pu fen xi yi	频谱分析仪	5665
+pin fei	嫔妃	5545
+pin de ke	品德课	5530
+pin zhong gai liang	品种改良	5495
+pin ban	拼版	5435
+pin kun nong min	贫困农民	5390
+pin pai er shou che	品牌二手车	5368
+pin pai shi bie	品牌识别	5295
+pin li	聘礼	5270
+pin xia zhong nong	贫下中农	5235
+pin zhong jia ge	品种价格	5230
+pin zui	贫嘴	5175
+pin shan	频闪	5170
+pin hua	拼花	5145
+pin zhe	拼着	4960
+pin de jiao yu	品德教育	4935
+pin fu xuan shu	贫富悬殊	4815
+pin shu	频数	4775
+pin ren zhi du	聘任制度	4760
+pin hong	品红	4715
+pin yin shu ru	拼音输入	4715
+pin feng	拼缝	4630
+pin fu fen hua	贫富分化	4620
+pin wei sheng huo	品味生活	4610
+pin wei zhe	品味着	4555
+pin ming gong zuo	拼命工作	4540
+pin zhi jian yan	品质检验	4430
+pin dou	拼斗	4400
+pin xie cuo wu	拼写错误	4390
+pin kun er tong	贫困儿童	4370
+pin pin dian tou	频频点头	4350
+pin yin jia jia	拼音加加	4325
+pin tu you xi	拼图游戏	4225
+pin de gao shang	品德高尚	4205
+pin di	品第	4130
+pin wei ren sheng	品味人生	4000
+pin yin wen zi	拼音文字	3930
+pin ming zheng zha	拼命挣扎	3905
+pin min qu	贫民区	3895
+pin pai bao hu	品牌保护	3805
+pin yin zi mu	拼音字母	3725
+pin zhong xuan ze	品种选择	3655
+pin chuan	频传	3640
+pin jian	品鉴	3615
+pin de	拼得	3600
+pin kun xian	贫困线	3575
+pin lv ji	频率计	3570
+pin sheng	品胜	3555
+pin ruo	贫弱	3485
+pin ban	拼板	3435
+pin pai shi li	品牌实力	3400
+pin pai che	品牌车	3340
+pin kuai	拼块	3333
+pin kuai er	拼块儿	3333
+pin tu kuai	拼图块	3333
+pin xie jian cha	拼写检查	3290
+pin mao duan zheng	品貌端正	3210
+pin zhuo	拼桌	3210
+pin jin	拼劲	3130
+pin xing liang hao	品行良好	3075
+pin ming san lang	拼命三郎	3040
+pin pai su qiu	品牌诉求	3037
+pin lv te xing	频率特性	2955
+pin pai jing shen	品牌精神	2905
+pin reng	频仍	2885
+pin kun qun ti	贫困群体	2815
+pin pai zhuan mai	品牌专卖	2760
+pin tou lun zu	品头论足	2740
+pin ju	姘居	2710
+pin jie zi fu chuan	拼接字符串	2662
+pin kun zhe	贫困者	2625
+pin fa	拼法	2550
+pin pu fen xi	频谱分析	2515
+pin zi	拼字	2510
+pin si pin huo	拼死拼活	2490
+pin kun luo hou	贫困落后	2465
+pin qiong de ren	贫穷的人	2450
+pin de hao	品德好	2320
+pin jian bu neng yi	贫贱不能移	2280
+pin pu yi	频谱仪	2250
+pin yu	频域	2246
+pin da	拼搭	2222
+pin jin	拼尽	2222
+pin ming	品茗	2222
+pin yue	聘约	2170
+pin pei	拼配	2150
+pin chang zhe	品尝这	2121
+pin dao	拼到	2090
+pin pin liang xiang	频频亮相	2085
+pin shang	拼上	2065
+pin bing	贫病	1960
+pin guan bu	品管部	1920
+pin de you liang	品德优良	1885
+pin fu bu jun	贫富不均	1885
+pin qiong guo jia	贫穷国家	1865
+pin cuo	拼错	1860
+pin zai yi qi	拼在一起	1855
+pin li	拼力	1790
+pin ci	拼刺	1775
+pin shan yi	频闪仪	1775
+pin cou chu	拼凑出	1770
+pin tou	姘头	1755
+pin yi	拼一	1720
+pin yi ge	拼一个	1720
+pin yi hui	拼一回	1720
+pin yi pin	拼一拼	1720
+pin yi xia	拼一下	1720
+pin mao	品貌	1685
+pin xue	品学	1680
+pin fan jie chu	频繁接触	1670
+pin jia	贫家	1615
+pin zheng	拼争	1615
+pin xing bu liang	品行不良	1605
+pin guo	品过	1575
+pin qing qu	聘请去	1550
+pin qu	聘去	1550
+pin hua di ban	拼花地板	1535
+pin zhi chao qun	品质超群	1525
+pin bu guo	拼不过	1515
+pin zhuang che	拼装车	1505
+pin tuo	品脱	1500
+pin xiang huo	拼箱货	1445
+pin lv he cheng	频率合成	1415
+pin kun hua	贫困化	1395
+pin xing bu duan	品行不端	1370
+pin pian	频偏	1365
+pin pai dai yan	品牌代言	1355
+pin lun	品论	1350
+pin gu nong	贫雇农	1345
+pin kun xiang	贫困乡	1345
+pin bing jiao jia	贫病交加	1325
+pin pai an quan	品牌安全	1320
+pin fu	品服	1300
+pin jin	聘金	1300
+pin zhi guan zhi	品质管制	1180
+pin yong tiao jian	聘用条件	1170
+pin bu	拼布	1165
+pin lv bian hua	频率变化	1165
+pin dai kuan du	频带宽度	1140
+pin jian	贫贱	1135
+pin cou cheng	拼凑成	1115
+pin cong	品葱	1111
+pin ke	拼客	1111
+pin kong	品控	1111
+pin kong wen ti	品控问题	1111
+pin ru	贫乳	1111
+pin shui	贫水	1111
+pin shui di qu	贫水地区	1111
+pin shui guo jia	贫水国家	1111
+pin tuan	拼团	1111
+pin jian fu qi bai shi ai	贫贱夫妻百事哀	1110
+pin yue	品月	1070
+pin lei fan duo	品类繁多	1065
+pin ti	品题	1025
+pin ji si chen	牝鸡司晨	999
+pin wen	聘问	999
+pin ge gao shang	品格高尚	990
+pin fan xiang ji	频繁项集	964
+pin ming zheng qian	拼命挣钱	945
+pin zi you xi	拼字游戏	915
+pin lv fen bu	频率分布	900
+pin kuang	贫矿	895
+pin ren qi	拼人气	888
+pin ming da	拼命打	885
+pin hong se	品红色	875
+pin fu cha yi	贫富差异	865
+pin hu	贫户	855
+pin hang ye	品行业	852
+pin pai xie	品牌鞋	850
+pin hua	贫化	830
+pin ming pao	拼命跑	830
+pin shu fen bu	频数分布	820
+pin you	贫油	805
+pin le pin	品了品	789
+pin pin cou cou	拼拼凑凑	785
+pin ge jiao yu	品格教育	770
+pin pin gao ji	频频告急	770
+pin mei	颦眉	760
+pin dao shu	频道数	730
+pin ren qi	聘任期	730
+pin zhong shi yan	品种试验	730
+pin yin da zi	拼音打字	710
+pin zhi fen xi	品质分析	710
+pin nian	频年	690
+pin zhi yi shi	品质意识	690
+pin zhi yin shu	品质因数	690
+pin ming de pao	拼命地跑	687
+pin you dan	贫铀弹	685
+pin zhi cha yi	品质差异	675
+pin pai cha yi	品牌差异	665
+pin bo zhe	拼搏着	650
+pin mao duan zhuang	品貌端庄	645
+pin ku ren jia	贫苦人家	640
+pin yu	品玉	640
+pin xing you liang	品行优良	620
+pin lv fen pei	频率分配	605
+pin chu lai	拼出来	600
+pin you	贫铀	600
+pin lv tiao zhi	频率调制	575
+pin ming ren zhu	拼命忍住	575
+pin dao di	拼到底	570
+pin lan	品蓝	570
+pin guo	拼过	565
+pin ma	牝马	565
+pin fu	姘妇	555
+pin yin hua	拼音化	550
+pin fu	频服	540
+pin xie fa	拼写法	540
+pin kun qu	贫困区	515
+pin ming chi	拼命吃	515
+pin zhi e lie	品质恶劣	495
+pin ni gao	品尼高	475
+pin qiong ren jia	贫穷人家	475
+pin shang	聘上	475
+pin zhi xi tong	品质系统	475
+pin zhong jian ding	品种鉴定	465
+pin lv biao zhun	频率标准	445
+pin bu chu	品不出	425
+pin ban jiao	拼板胶	420
+pin xing hao	品行好	420
+pin kun ren jia	贫困人家	395
+pin shu fen bu biao	频数分布表	390
+pin cu	颦蹙	375
+pin hui	拼回	375
+pin jia nv	贫家女	375
+pin zhi yin su	品质因素	370
+pin guo	贫国	360
+pin yin hun shu	拼音混输	350
+pin fan mo shi	频繁模式	346
+pin xia qu	拼下去	325
+pin bing jiao po	贫病交迫	315
+pin ying cai	聘英才	315
+pin jian fu qi	贫贱夫妻	310
+pin zu	品族	310
+pin ye	贫液	305
+pin jian bu yi	贫贱不移	300
+pin zhui	拼缀	300
+pin mu xuan yan	品木宣言	295
+pin hua bao jian	品花宝鉴	280
+pin guang	拼光	275
+pin lv	品绿	260
+pin fu	姘夫	255
+pin niu	牝牛	250
+pin han ren jia	贫寒人家	245
+pin ku chu shen	贫苦出身	245
+pin xia lai	拼下来	240
+pin le pin	拼了拼	234
+pin zhong jian za jiao	品种间杂交	215
+pin jian zhi jiao	贫贱之交	210
+pin ju	贫窭	200
+pin lv zeng gao	频率增高	200
+pin bu chu	拼不出	190
+pin long	拼拢	190
+pin bo feng xian	拼搏奉献	185
+pin xuan	聘选	185
+pin zhong bao hu quan	品种保护权	176
+pin lv shang xian	频率上限	175
+pin pin kan	拼拼看	175
+pin zhu tan si	品竹弹丝	175
+pin die die	拼爹爹	174
+pin wei	品位	174
+pin zhi bao zhang	品质保障	172
+pin lv tu	频率图	170
+pin min hua	贫民化	170
+pin kun ren ding	贫困认定	169
+pin pai da shi	品牌大使	168
+pin kun liao dao	贫困潦倒	167
+pin bo jin qu	拼搏进取	161
+pin yin zhi xing	拼音之星	160
+pin kun shen qing	贫困申请	155
+pin yu lv bo	频域滤波	151
+pin dao wen jian	频道文件	150
+pin ge tuan	拼个团	148
+pin lv dou dong	频率抖动	140
+pin pai dai yan ren	品牌代言人	140
+pin qie	频切	140
+pin er	贫儿	137
+pin ming	品名	132
+pin bo fen dou	拼搏奋斗	131
+pin ge dan	拼个单	127
+pin kong yuan	品控员	127
+pin bo fen jin	拼搏奋进	126
+pin lu	牝鹿	125
+pin yi	品议	125
+pin jie	品阶	123
+pin yi pin	品一品	123
+pin zhi	品秩	123
+pin bu chu lai	品不出来	120
+pin bu chu lai	拼不出来	120
+pin zhong qu yu hua	品种区域化	120
+pin shui shi	品水师	119
+pin hai lou	品海楼	116
+pin huo	拼火	115
+pin ku er tong	贫苦儿童	115
+pin ming zheng qu	拼命争取	115
+pin da	拼打	111
+pin die	拼爹	111
+pin mu	牝牡	111
+pin yun	拼运	111
+pin zhe	品着	111
+pin xiang	贫相	110
+pin yin ma	拼音码	110
+pin you chuan jia dan	贫铀穿甲弹	110
+pin yin chuan	拼音串	105
+pin ban wan ju	拼板玩具	100
+pin ban you xi	拼板游戏	100
+pin ban zhou	拼板舟	100
+pin bing jiao gong	贫病交攻	100
+pin bing jiao qin	贫病交侵	100
+pin bu tu xing	拼布图形	100
+pin chang dang di de mei shi	品尝当地的美食	100
+pin chang dang di mei shi	品尝当地美食	100
+pin chang dang di te se mei shi	品尝当地特色美食	100
+pin chang dao	品尝到	100
+pin chang hui	品尝会	100
+pin chang zhe zui hou yi kou	品尝这最后一口	100
+pin che chu xing	拼车出行	100
+pin che ri	拼车日	100
+pin che shang xia ban	拼车上下班	100
+pin chu qu	姘出去	100
+pin chu qu	拼出去	100
+pin chuan jie bao	频传捷报	100
+pin chuan qu	品川区	100
+pin ci dao	拼刺刀	100
+pin dao dao	拼刀刀	100
+pin dao le	拼到了	100
+pin dao xiao xi	频道消息	100
+pin de che	拼的车	100
+pin de guo	拼得过	100
+pin duo duo	拼多多	100
+pin duo duo shi	拼多多是	100
+pin er di zhi	品而第之	100
+pin er wu chan	贫而无谄	100
+pin fan cheng du	频繁程度	100
+pin fan chong qi	频繁重启	100
+pin fan chu chai	频繁出差	100
+pin fan chu mo	频繁出没	100
+pin fan de lian xi	频繁的联系	100
+pin fan jiang jia	频繁降价	100
+pin fan lian xi	频繁联系	100
+pin fan tui xiao	频繁推销	100
+pin fu qiong da	贫富穷达	100
+pin ge yu si wang po	拼个鱼死网破	100
+pin ge zhuo	拼个桌	100
+pin gou mo shi	拼购模式	100
+pin gu niang	聘姑娘	100
+pin guan er zi	品冠儿子	100
+pin guan quan	品管圈	100
+pin guan xi	拼关系	100
+pin gui mo	拼规模	100
+pin guo lai	拼过来	100
+pin guo qu	拼过去	100
+pin han chu shen	贫寒出身	100
+pin han wu gao	贫寒无告	100
+pin hao tu	拼好图	100
+pin hua bo li	拼花玻璃	100
+pin hui lai	拼回来	100
+pin hui qu	拼回去	100
+pin ji chen ming	牝鸡晨鸣	100
+pin ji de tu di	贫瘠的土地	100
+pin ji di	拼基地	100
+pin ji ka	拼季卡	100
+pin ji mu ming	牝鸡牡鸣	100
+pin ji si dan	牝鸡司旦	100
+pin ji tiao zheng xiang	品级调整箱	100
+pin ji tu di	贫瘠土地	100
+pin ji zhi di	贫瘠之地	100
+pin ji zi luan	牝鸡自卵	100
+pin jian hui	品剑会	100
+pin jian jiao ren	贫贱骄人	100
+pin jian zao kang	贫贱糟糠	100
+pin jian zhi zhi	贫贱之知	100
+pin jie di ban	拼接地板	100
+pin jie di dian	拼接地垫	100
+pin jie nei rong	拼接内容	100
+pin jie niu zai ku	拼接牛仔裤	100
+pin jie niu zai wai tao	拼接牛仔外套	100
+pin jie xi tong	拼接系统	100
+pin jin er	拼劲儿	100
+pin jin le	拼尽了	100
+pin jin le quan li	拼尽了全力	100
+pin jin quan li	拼劲全力	100
+pin jin shi zu	拼劲十足	100
+pin ka fei	品咖啡	100
+pin kong ti xi	品控体系	100
+pin kun cheng du	贫困程度	100
+pin kun cheng du shen	贫困程度深	100
+pin kun cheng du zui shen	贫困程度最深	100
+pin kun dai ji chuan di	贫困代际传递	100
+pin kun de dai ji chuan di	贫困的代际传递	100
+pin kun di qu chan ye fa zhan	贫困地区产业发展	100
+pin kun di qu er tong	贫困地区儿童	100
+pin kun di qu fa zhan	贫困地区发展	100
+pin kun di qu ji chu she shi	贫困地区基础设施	100
+pin kun di qu jiao yu	贫困地区教育	100
+pin kun di qu lao dong li	贫困地区劳动力	100
+pin kun di qu nong cun	贫困地区农村	100
+pin kun di qu nong fu chan pin	贫困地区农副产品	100
+pin kun di qu tuo pin gong jian	贫困地区脱贫攻坚	100
+pin kun fa sheng lv	贫困发生率	100
+pin kun fa sheng lv gao	贫困发生率高	100
+pin kun lv	贫困率	100
+pin kun xue xiao	贫困学校	100
+pin kun zhong du can ji ren	贫困重度残疾人	100
+pin lai pin qu	拼来拼去	100
+pin le dan piao	贫乐箪瓢	100
+pin le gao	拼乐高	100
+pin le lao ming	拼了老命	100
+pin le ming de	拼了命地	100
+pin le pin le	拼了拼了	100
+pin lei qi quan	品类齐全	100
+pin lei tuo zhan	品类拓展	100
+pin lian tai	品莲台	100
+pin lv bi	频率比	100
+pin lv biao	频率表	100
+pin lv bo dong	频率波动	100
+pin lv bu tong	频率不同	100
+pin lv ce liang	频率测量	100
+pin lv di	频率低	100
+pin lv duan	频率段	100
+pin lv fan wei	频率范围	100
+pin lv fen bian lv	频率分辨率	100
+pin lv fen xi	频率分析	100
+pin lv gao	频率高	100
+pin lv geng gao	频率更高	100
+pin lv guo gao	频率过高	100
+pin lv he cheng qi	频率合成器	100
+pin lv hen gao	频率很高	100
+pin lv ji shu qi	频率计数器	100
+pin lv jia kuai	频率加快	100
+pin lv jing du	频率精度	100
+pin lv ke tiao	频率可调	100
+pin lv kong zhi	频率控制	100
+pin lv kuai	频率快	100
+pin lv she ding	频率设定	100
+pin lv shi yong	频率使用	100
+pin lv shu chu	频率输出	100
+pin lv tiao jie	频率调节	100
+pin lv tiao zheng	频率调整	100
+pin lv wen ding	频率稳定	100
+pin lv wen ding du	频率稳定度	100
+pin lv wen ding xing	频率稳定性	100
+pin lv xia jiang	频率下降	100
+pin lv xian zhi	频率限制	100
+pin lv xiang tong	频率相同	100
+pin lv xin hao	频率信号	100
+pin lv xuan ze	频率选择	100
+pin lv yi zhi	频率一致	100
+pin lv yuan jian	频率元件	100
+pin lv zhi gao	频率之高	100
+pin lv zhuan huan	频率转换	100
+pin lv zi yuan	频率资源	100
+pin lv zui gao	频率最高	100
+pin ming de gong zuo	拼命地工作	100
+pin ming de shi hou	拼命的时候	100
+pin ming de xue xi	拼命地学习	100
+pin ming gan	拼命干	100
+pin ming tao hao	拼命讨好	100
+pin mo xing	拼模型	100
+pin mu li huang	牝牡骊黄	100
+pin nv shi	贫女诗	100
+pin pai bao guang du	品牌曝光度	100
+pin pai bian shi du	品牌辨识度	100
+pin pai cheng zhang	品牌成长	100
+pin pai chong su	品牌重塑	100
+pin pai chuan bo	品牌传播	100
+pin pai chuan bo li	品牌传播力	100
+pin pai chuan bu	品牌传布	100
+pin pai chuan cheng	品牌传承	100
+pin pai chuan di	品牌传递	100
+pin pai chuan qi	品牌传奇	100
+pin pai chuan tong	品牌传统	100
+pin pai de cheng zhang	品牌的成长	100
+pin pai de chuan bo	品牌的传播	100
+pin pai de mei yu du	品牌的美誉度	100
+pin pai de ren zhi du	品牌的认知度	100
+pin pai de xuan chuan	品牌的宣传	100
+pin pai de zhi ming du	品牌的知名度	100
+pin pai de zhong yao xing	品牌的重要性	100
+pin pai di chan	品牌地产	100
+pin pai di wei	品牌地位	100
+pin pai diao xing	品牌调性	100
+pin pai du	品牌度	100
+pin pai fa yuan di	品牌发源地	100
+pin pai gao du	品牌高度	100
+pin pai ge diao	品牌格调	100
+pin pai guan xi	品牌关系	100
+pin pai guan zhu du	品牌关注度	100
+pin pai gui mo	品牌规模	100
+pin pai hang ye	品牌行业	100
+pin pai hao gan du	品牌好感度	100
+pin pai ji zhong du	品牌集中度	100
+pin pai jia zhi pai hang bang	品牌价值排行榜	100
+pin pai jia zhi zeng zhang	品牌价值增长	100
+pin pai kong tiao	品牌空调	100
+pin pai liao jie	品牌了解	100
+pin pai luo di	品牌落地	100
+pin pai mei yu du	品牌美誉度	100
+pin pai ming	品牌名	100
+pin pai mo shi	品牌模式	100
+pin pai pai hang	品牌排行	100
+pin pai pai hang bang	品牌排行榜	100
+pin pai qiang du	品牌强度	100
+pin pai re du	品牌热度	100
+pin pai ren ke du	品牌认可度	100
+pin pai ren zhi du	品牌认知度	100
+pin pai shen du	品牌深度	100
+pin pai sheng dian	品牌盛典	100
+pin pai sheng hui	品牌盛会	100
+pin pai shi bie du	品牌识别度	100
+pin pai shi jue	品牌视觉	100
+pin pai shi jue she ji	品牌视觉设计	100
+pin pai shi shen me	品牌是什么	100
+pin pai tai du	品牌态度	100
+pin pai ti xi	品牌体系	100
+pin pai tiao zheng	品牌调整	100
+pin pai tui xing	品牌推行	100
+pin pai tuo zhan	品牌拓展	100
+pin pai wen du	品牌温度	100
+pin pai xi lie	品牌系列	100
+pin pai xi tong	品牌系统	100
+pin pai xin ren du	品牌信任度	100
+pin pai xing dong	品牌行动	100
+pin pai xuan chuan	品牌宣传	100
+pin pai xuan chuan huo dong	品牌宣传活动	100
+pin pai xuan chuan pian	品牌宣传片	100
+pin pai xuan chuan tui guang	品牌宣传推广	100
+pin pai xue xiao	品牌学校	100
+pin pai yi jia	品牌溢价	100
+pin pai yu le	品牌娱乐	100
+pin pai yuan di	品牌源地	100
+pin pai zeng zhang	品牌增长	100
+pin pai zhi de xin lai	品牌值得信赖	100
+pin pai zhi ming du gao	品牌知名度高	100
+pin pin chuan chu	频频传出	100
+pin pin de shou	频频得手	100
+pin pu xiao lv	频谱效率	100
+pin qi lai	拼起来	100
+pin qiong de guo jia	贫穷的国家	100
+pin qiong he luo hou	贫穷和落后	100
+pin qiong liao dao	贫穷潦倒	100
+pin qiong xian zhi le xiang xiang	贫穷限制了想象	100
+pin qiong xian zhi le xiang xiang li	贫穷限制了想象力	100
+pin qiong yu luo hou	贫穷与落后	100
+pin qu hun	聘娶婚	100
+pin rang ji tu	贫壤瘠土	100
+pin san guo	品三国	100
+pin se xi	拼色系	100
+pin seng zi dong tu da tang er lai	贫僧自东土大唐而来	100
+pin shang lai	拼上来	100
+pin shang qu	拼上去	100
+pin shen me	拼什么	100
+pin si lai	拼死来	100
+pin si lai jie wei	拼死来解围	100
+pin si xiang jiu	拼死相救	100
+pin si ye yao	拼死也要	100
+pin si yi zhan	拼死一战	100
+pin su du	拼速度	100
+pin tie yi shu	拼贴艺术	100
+pin tou ti zu	品头题足	100
+pin tu di dian	拼图地垫	100
+pin tu wan ju	拼图玩具	100
+pin tuan mo shi	拼团模式	100
+pin tuan xi tong	拼团系统	100
+pin wei she de	品味舍得	100
+pin wei wu zhong	频危物种	100
+pin wu jie chun	品物皆春	100
+pin wu li zhui	贫无立锥	100
+pin wu li zhui zhi di	贫无立锥之地	100
+pin wu zhi zhui	贫无置锥	100
+pin xia zhong nong zai jiao yu	贫下中农再教育	100
+pin xie chi shen me	贫血吃什么	100
+pin xie gui ze	拼写规则	100
+pin xie she ding	拼写设定	100
+pin xie yan zhong	贫血严重	100
+pin xie yun suan	拼写运算	100
+pin xing bu hao	品行不好	100
+pin xing e lie	品行恶劣	100
+pin xing gao jie	品行高洁	100
+pin xing gao shang	品行高尚	100
+pin xing hao	品性好	100
+pin xing wen ti	品行问题	100
+pin xue chi shen me	贫血吃什么	100
+pin xue yan zhong	贫血严重	100
+pin yin a	拼音啊	100
+pin yin ci ku	拼音词库	100
+pin yin fang an	拼音方案	100
+pin yin jie duan	拼音阶段	100
+pin yin jiu cuo	拼音纠错	100
+pin yin jiu jian	拼音九键	100
+pin yin quan zhong	拼音权重	100
+pin yin yin jie	拼音音节	100
+pin yin yuan yin	拼音元音	100
+pin yin zheng shi ban	拼音正式版	100
+pin yong guan xi	聘用关系	100
+pin you guo	贫油国	100
+pin zhe cha	品着茶	100
+pin zhe ka fei	品着咖啡	100
+pin zhe ming	拼着命	100
+pin zhi bu	品质部	100
+pin zhi bu jia	品质不佳	100
+pin zhi bu xing	品质不行	100
+pin zhi cen ci bu qi	品质参差不齐	100
+pin zhi chu xing	品质出行	100
+pin zhi de	品质的	100
+pin zhi dong guan	品质东莞	100
+pin zhi guan li ti xi	品质管理体系	100
+pin zhi jiang di	品质降低	100
+pin zhi min su	品质民宿	100
+pin zhi sheng dian	品质盛典	100
+pin zhi ti xi	品质体系	100
+pin zhi xia jiang	品质下降	100
+pin zhi yin yue	品质音乐	100
+pin zhi zhi de xin lai	品质值得信赖	100
+pin zhu tiao si	品竹调丝	100
+pin zhu tiao xian	品竹调弦	100
+pin zhuang ban	拼装版	100
+pin zhuang di ban	拼装地板	100
+pin zhuang mo xing	拼装模型	100
+pin zhui cheng	拼缀成	100
+pin zhui chu	拼缀出	100
+pin zi fa	拼字法	100
+pin zi gong neng	拼字功能	100
+pin zi mu	拼字母	100
+pin zui e she	贫嘴恶舌	100
+pin zui hua she	贫嘴滑舌	100
+pin shang	品赏	99
+pin xing zhang ai	品行障碍	97
+pin tai	拼台	96
+pin qi	贫气	95
+pin pin du du	拼拼读读	90
+pin bu qi lai	拼不起来	85
+pin qi	聘妻	85
+pin zhi ji dong fu du	品质机动幅度	81
+pin zhong quan dai li	品种权代理	81
+pin chang jia	品尝家	80
+pin hua you	贫化铀	80
+pin xing bu zheng	品行不正	80
+pin ban tu	拼版图	67
+pin jie hou	拼接后	65
+pin pin gao jie	频频告捷	65
+pin san xiang	品三湘	65
+pin xing bu hao	品性不好	65
+pin yin ke	拼音课	65
+pin fen fu yong	频分复用	64
+pin yin mo shi	拼音模式	62
+pin mao chu zhong	品貌出众	60
+pin mao shuang quan	品貌双全	60
+pin min jia	贫民家	60
+pin pai du te xing	品牌独特性	55
+pin zhi shu xing	品质属性	55
+pin chi mu	贫齿目	51
+pin zhuang tai	拼装台	51
+pin yin fa	拼音法	48
+pin jia niao	频伽鸟	42
+pin bu liao	拼不了	40
+pin ming zhuang sha	拼命装傻	40
+pin shi	姘识	40
+pin yu xiang ying	频域响应	37
+pin lv qian yin	频率牵引	35
+pin min xue xiao	贫民学校	35
+pin lv jie yue	频率阶跃	30
+pin lv qu yang	频率取样	30
+pin yin bian ma	拼音编码	20
+pin mu fan duo	品目繁多	19
+pin hu	牝户	18
+pin nuo	品诺	17
+pin qing	品清	17
+pin wu liu xing	品物流形	16
+pin kong shi	品控室	15
+pin wu xian heng	品物咸亨	15
+pin zhong jian za zhong	品种间杂种	15
+pin er pu fu	贫儿曝富	12
+pin zhu	玭珠	12
+pin mi	频密	11
+pin se	拼色	11
+pin de bi	拼得比	10
+pin gao yun	品高云	10
+pin qing hu	品清湖	9
+pin guan zhan tian yin ke zhi	品官占田荫客制	8
+pin jie	品节	8
+pin qi bi sa	品奇比萨	8
+pin zhi lan bao shi	品质蓝宝石	8
+pin chi lei	贫齿类	7
+pin lv fen xi yi	频率分析仪	7
+pin tou ping zu	品头评足	7
+pin jian bu kan you	贫贱不堪忧	6
+pin zhi zeng jian jia tiao kuan	品质增减价条款	6
+pin er le dao	贫而乐道	5
+pin ji wu chen	牝鸡无晨	5
+pin lv duo bian xing	频率多边形	5
+pin xi mian yi	品系免疫	4
+pin ying yang xing hu po	贫营养型湖泊	4
+pin bu le xi kang	品不了细糠	3
+pin che wang	品车网	3
+pin cun cai shu jia	贫村才数家	3
+pin yu yi zi	贫于一字	3
+pin dou	拼豆	2
+pin jian zhi zhi bu ke wang	贫贱之知不可忘	2
+pin qiong gui gong zi	贫穷贵公子	2
+pin shuo	频数	2
+pin xing ma	拼形码	2
+pin zhong wu chu ke an pin	贫中无处可安贫	2
+pin bu shi zhi	贫不失志	1
+pin bu xue jian	贫不学俭	1
+pin bu zi cun	贫不自存	1
+pin chang yi jing sheng mu	牝常以静胜牡	1
+pin de wen zhang	品德文章	1
+pin fan jin chu ao men	频繁进出澳门	1
+pin fu xuan ge	贫富悬隔	1
+pin ji niu sai zun	贫肌纽鳃樽	1
+pin ji zhai e tun	贫棘窄额鲀	1
+pin jian qin qi li	贫贱亲戚离	1
+pin ju wang wang wu yan huo	贫居往往无烟火	1
+pin liu chuang pao chong	贫瘤窗袍虫	1
+pin mao shuang men rong	贫毛双门戎	1
+pin mao wu qian man	贫毛无前螨	1
+pin min yuan	贫民院	1
+pin nv fen guang	贫女分光	1
+pin ping zhuo yi	品评卓逸	1
+pin sha zhui tou chong	贫砂锥头虫	1
+pin shi chuan fang chong	贫室串房虫	1
+pin shi shi gua	贫士市瓜	1
+pin shuo duo bian xing	频数多边形	1
+pin tuo sha lun chong	品托砂轮虫	1
+pin wei tu wen yu	品味突吻鱼	1
+pin ye e	贫夜蛾	1
+pin za hui	拼杂烩	1
+pin zao	品藻	1
+pin zhi bao zheng qiang neng li	品质保证强能力	1
+pin zhong you deng ji	贫中有等级	1

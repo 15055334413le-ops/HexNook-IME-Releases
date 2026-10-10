@@ -1,0 +1,133 @@
+tiao zheng	调整	513431
+tiao kong	调控	82856
+tiao zhan zhe	挑战者	33958
+tiao shi cheng xu	调试程序	11178
+tiao shi qi	调试器	10325
+tiao jian pan duan	条件判断	10156
+tiao he you	调和油	9349
+tiao shi gong ju	调试工具	8705
+tiao jian yu ju	条件语句	8326
+tiao chu xun huan	跳出循环	7380
+tiao jian cha xun	条件查询	4929
+tiao jian bian liang	条件变量	4123
+tiao jian bian yi	条件编译	3695
+tiao wei jiang	调味酱	3250
+tiao jian gai lv	条件概率	3059
+tiao zi	条子	2890
+tiao zhuan ye mian	跳转页面	2889
+tiao tiao kuang kuang	条条框框	2803
+tiao jian yun suan fu	条件运算符	2291
+tiao jian fan she	条件反射	1827
+tiao jian duan dian	条件断点	1524
+tiao bo li jian	挑拨离间	816
+tiao wei you	调味油	765
+tiao yue biao	跳跃表	694
+tiao fen lv xi	条分缕析	626
+tiao kong	跳空	625
+tiao jian sui ji chang	条件随机场	592
+tiao san jian si	挑三拣四	570
+tiao shi wen ti	调试问题	565
+tiao fei jian shou	挑肥拣瘦	548
+tiao jian luo ji	条件逻辑	529
+tiao shi cuo wu	调试错误	431
+tiao jian fu gai	条件覆盖	427
+tiao jie ji	调节剂	412
+tiao tai jie	跳台阶	401
+tiao jian shi	条件式	339
+tiao san ta	跳伞塔	334
+tiao jing	调经	278
+tiao he ji shu	调和级数	178
+tiao liang xiao chou	跳梁小丑	177
+tiao deng he	跳蹬河	172
+tiao kou	条口	135
+tiao he ding nai	调和鼎鼐	116
+tiao su	条酥	104
+tiao jian zhi bing jun	条件致病菌	98
+tiao san ta jie dao	跳伞塔街道	83
+tiao shi mo xing	调试模型	64
+tiao zou	条走	60
+tiao he yin yang	调和阴阳	59
+tiao ma sao miao qi	条码扫描器	58
+tiao zhan cheng xu jing sai	挑战程序竞赛	54
+tiao jian tong bu	条件同步	53
+tiao deng he jie dao	跳蹬河街道	46
+tiao tiao qian niu xing	迢迢牵牛星	39
+tiao jie cai jue	调解裁决	38
+tiao ma yue du qi	条码阅读器	37
+tiao shi bao cuo	调试报错	36
+tiao he pi wei	调和脾胃	34
+tiao tong	跳痛	33
+tiao jian chong tu	条件冲突	22
+tiao chu xi song	调处息讼	20
+tiao yue zu	跳跃足	18
+tiao shi li cheng	调试例程	17
+tiao shui tian ji	跳水田鸡	14
+tiao jian kong zhi jie gou	条件控制结构	13
+tiao jing zhi bao wan	调经至宝丸	12
+tiao shan	跳山	8
+tiao zhou hu tong	笤帚胡同	8
+tiao xing tu	条形图	6
+tiao he gan pi	调和肝脾	5
+tiao jing bu xue wan	调经补血丸	5
+tiao jing cu yun wan	调经促孕丸	4
+tiao jing qu ban jiao nang	调经祛斑胶囊	3
+tiao kou xue	条口穴	3
+tiao tiao xin qiu xi	迢迢新秋夕	3
+tiao he xiang	条河乡	2
+tiao jie xing nei xie shi	调节性内斜视	2
+tiao shan ji tuan	条山集团	2
+tiao tiao jian ye shui	迢迢建业水	2
+tiao zhan zhi shi chan quan	挑战知识产权	2
+tiao bo fu he ru ben lei	跳波赴壑如奔雷	1
+tiao di san ba lu	迢递三巴路	1
+tiao dong dian	跳动点	1
+tiao jian wei wan quan de he yue	条件未完全的合约	1
+tiao jing huo xue pian	调经活血片	1
+tiao jing yi ling pian	调经益灵片	1
+tiao jing yi mu pian	调经益母片	1
+tiao jing zhi tong jiao nang	调经止痛胶囊	1
+tiao tiao bai yu sheng	迢迢白玉绳	1
+tiao tiao jian ming xing	迢迢见明星	1
+tiao tiao sui ye zhang	迢迢岁夜长	1
+tiao tou gao bo he gao	条头糕薄荷糕	1
+tiao wan xiang chen zou bu zhu	跳丸相趁走不住	1
+tiao ban xie ji ye chan	条斑斜脊叶蝉	0
+tiao fu luo hua xia hu yu	条腹裸滑鰕虎鱼	0
+tiao he juan e	条褐卷蛾	0
+tiao jiao bang jiao jia	条角棒角甲	0
+tiao jiao fen qiu jin gui	条脚粪球金龟	0
+tiao li tun shi fan ying	调理吞噬反应	0
+tiao ma lu	条马陆	0
+tiao qiao e ye e	条锹额夜蛾	0
+tiao wen bian xing dou long shi	条纹扁形豆龙虱	0
+tiao wen cu kui nian	条纹粗盔鲶	0
+tiao wen cu wei lu	条纹粗尾鲈	0
+tiao wen cu yan dong	条纹粗眼鮗	0
+tiao wen da lin zhang wen yu	条纹大鳞长吻鱼	0
+tiao wen dan jia nan ru yu	条纹单甲南乳鱼	0
+tiao wen dao qiao jia	条纹刀锹甲	0
+tiao wen dong xiong gui	条纹动胸龟	0
+tiao wen dun pi wei	条纹盾皮鮠	0
+tiao wen duo zhi you	条纹多指鲉	0
+tiao wen duo zi xia hu yu	条纹多髭鰕虎鱼	0
+tiao wen fei zhou mang ci qiu	条纹非洲盲刺鳅	0
+tiao wen he huang	条纹褐蝗	0
+tiao wen li chun	条纹鱧鯙	0
+tiao wen ma nao ni zao bei	条纹玛瑙拟枣贝	0
+tiao wen man luo	条纹鬘螺	0
+tiao wen mo qiao jia	条纹莫锹甲	0
+tiao wen qian die yu	条纹钱蝶鱼	0
+tiao wen shi bai ju	条纹似白鮈	0
+tiao wen xi zhu e	条纹喜祝蛾	0
+tiao wen yi xing xie duo yu	条纹异型蝎舵鱼	0
+tiao wen yi zhao huang	条纹异爪蝗	0
+tiao wen ying xiang bi chong	条纹硬象鼻虫	0
+tiao wen zhang you zhu	条纹长疣蛛	0
+tiao xiong zhang jiao xiang bi chong	条胸长角象鼻虫	0
+tiao yue bao bing bian fu yu	跳跃薄饼蝙蝠鱼	0
+tiao yue tong xing xi yi	跳跃同性蜥蜴	0
+tiao yue zhang lang	跳跃蟑螂	0
+tiao zhan ni sha lun chong	挑战拟砂轮虫	0
+tiao zhan sha lun chong	挑战砂轮虫	0
+tiao zhan si shi rong	挑战司氏戎	0
+tiao zhuang zhai lu dai yu	条状窄颅带鱼	0

@@ -1,0 +1,413 @@
+zhen duan	诊断	82265
+zhen xing	振兴	41928
+zhen liao	诊疗	38621
+zhen kong beng	真空泵	25805
+zhen dang	震荡	21868
+zhen zheng fu	镇政府	20792
+zhen zhi	诊治	18601
+zhen kong guan	真空管	10394
+zhen jiu	针灸	7245
+zhen feng xiang dui	针锋相对	6205
+zhen lv	帧率	5290
+zhen xin shi yi	真心实意	4814
+zhen fen ren xin	振奋人心	4406
+zhen zhi zhuo jian	真知灼见	4249
+zhen xiang da bai	真相大白	3754
+zhen ji tiao shi	真机调试	3686
+zhen shi shi jie	真实世界	3635
+zhen jiang shi	镇江市	3367
+zhen dong hua	帧动画	3145
+zhen pi	真皮	2823
+zhen han ren xin	震撼人心	2595
+zhen er yu long	震耳欲聋	2502
+zhen long fa kui	振聋发聩	2427
+zhen ji ce shi	真机测试	2399
+zhen jun	真菌	2170
+zhen dao zhen qiang	真刀真枪	2114
+zhen qing shi gan	真情实感	1923
+zhen zhen you ci	振振有词	1906
+zhen bu ju	帧布局	1757
+zhen xin cheng yi	真心诚意	1482
+zhen chan	震颤	1472
+zhen cai shi xue	真才实学	1333
+zhen hua	振华	1132
+zhen zi dan	甄子丹	1059
+zhen duan shi ji	诊断试剂	1012
+zhen su lv	帧速率	865
+zhen xing lu	振兴路	779
+zhen xiong	镇雄	756
+zhen xing zhong hua	振兴中华	742
+zhen qiang shi dan	真枪实弹	700
+zhen lu	珍露	698
+zhen ju jiang ya pian	珍菊降压片	673
+zhen yuan	镇远	633
+zhen zhu wan zi	珍珠丸子	618
+zhen zhu quan	珍珠泉	607
+zhen jun gan ran	真菌感染	553
+zhen ji	榛鸡	550
+zhen ping shi ju	真凭实据	544
+zhen qing shi yi	真情实意	532
+zhen ba	镇巴	523
+zhen an	镇安	520
+zhen pin	帧频	509
+zhen ge dai dan	枕戈待旦	498
+zhen jian dui mai mang	针尖对麦芒	496
+zhen tong bu	帧同步	489
+zhen jiang	浈江	456
+zhen hua lu	振华路	451
+zhen zhong	镇中	451
+zhen jian yu ce	帧间预测	431
+zhen dong	镇东	426
+zhen nei bian ma	帧内编码	414
+zhen dong	振东	381
+zhen ning	镇宁	378
+zhen ming tian zi	真命天子	366
+zhen xin zhen yi	真心真意	333
+zhen ye lin	针叶林	329
+zhen mai	诊脉	328
+zhen bi yi hu	振臂一呼	327
+zhen jin bu pa huo lian	真金不怕火炼	325
+zhen ping	镇坪	321
+zhen cha jian du chu	侦查监督处	320
+zhen zhi chang	针织厂	317
+zhen zhu fen	珍珠粉	287
+zhen ping	镇平	276
+zhen yuan	镇原	270
+zhen zhu yuan zi	珍珠圆子	260
+zhen jiang lu	镇江路	259
+zhen jian bian ma	帧间编码	258
+zhen zhen you ci	振振有辞	249
+zhen duan xi tong	诊断系统	231
+zhen tou xian nao	针头线脑	229
+zhen bei lu	真北路	222
+zhen qin yi shou	珍禽异兽	215
+zhen zhu tang	珍珠汤	199
+zhen feng	贞丰	197
+zhen nan lu	真南路	197
+zhen nei ya suo	帧内压缩	191
+zhen duan cheng xu	诊断程序	190
+zhen wu miao	真武庙	189
+zhen lai	镇赉	187
+zhen gu	枕骨	171
+zhen jing yao	镇静药	170
+zhen ge shi	帧格式	164
+zhen tian dong di	震天动地	163
+zhen jian ya suo	帧间压缩	161
+zhen ping lu	镇坪路	149
+zhen gu shuo jin	震古烁今	147
+zhen kang	镇康	136
+zhen shan	镇山	134
+zhen tou	镇头	133
+zhen ye shu	针叶树	128
+zhen zhu yuan zi	珍珠元子	124
+zhen feng zhuang	帧封装	121
+zhen jian yan xu lie	帧检验序列	120
+zhen jiu xue	针灸学	117
+zhen dang zhou qi	振荡周期	110
+zhen bei	镇北	107
+zhen cha fa	帧差法	107
+zhen zhu ji miao	珍珠鸡苗	103
+zhen zhu mu	珍珠母	103
+zhen ke yao	镇咳药	102
+zhen dou	真都	98
+zhen zhi biao	真值表	96
+zhen hua lu	真华路	95
+zhen mu	砧木	94
+zhen ning lu	镇宁路	89
+zhen zhu zhou	珍珠粥	88
+zhen kong dian ci fa	真空电磁阀	87
+zhen yuan xian	镇沅县	83
+zhen guo	真果	81
+zhen xi	镇西	81
+zhen duan xue	诊断学	80
+zhen guang lu	真光路	80
+zhen dang qi	振荡器	77
+zhen ye	枕叶	77
+zhen shi gan tu xing	真实感图形	74
+zhen de	贞德	73
+zhen yuan	镇沅	73
+zhen kong diao ju	真空吊具	72
+zhen dao quan	珍岛犬	69
+zhen zhu lu	珍珠路	69
+zhen an	振安	68
+zhen kong xi wu che	真空吸污车	67
+zhen ning bo bo tang	镇宁波波糖	64
+zhen cha dui ce	侦查对策	63
+zhen hai tun	真海豚	63
+zhen zhong lu	振中路	53
+zhen he xi bao	真核细胞	50
+zhen jun bing	真菌病	49
+zhen wei mo bian	真伪莫辨	49
+zhen jun xing nao mo yan	真菌性脑膜炎	48
+zhen kong gan zao	真空干燥	48
+zhen xing jie jie dao	振兴街街道	47
+zhen duan ce shi	诊断测试	41
+zhen xing bei lu	振兴北路	41
+zhen zhu he	珍珠河	39
+zhen fa	诊法	38
+zhen zhu dou fu	珍珠豆腐	38
+zhen zhu hai shen	珍珠海参	37
+zhen tan quan	侦探犬	36
+zhen jun xing jiao mo yan	真菌性角膜炎	35
+zhen jian chu	侦监处	34
+zhen jiang fa yuan	浈江法院	34
+zhen ci ma zui	针刺麻醉	33
+zhen jin lu	真金路	33
+zhen chan	振颤	32
+zhen ye ji tuan	振业集团	32
+zhen yuan tong mei gui su tang	震远同玫瑰酥糖	31
+zhen zheng bu zuo wei fan	真正不作为犯	30
+zhen ci liao fa	针刺疗法	29
+zhen da	真达	29
+zhen jun bao zi	真菌孢子	28
+zhen zhu gou	珍珠狗	28
+zhen duan mo xing	诊断模型	27
+zhen luo ying	镇罗营	27
+zhen ren bu lou xiang	真人不露相	27
+zhen nan lu	镇南路	24
+zhen an lu	镇安路	23
+zhen dong cun	镇东村	23
+zhen fei	珍妃	23
+zhen jiu jia yi jing	针灸甲乙经	23
+zhen jun xue	真菌学	23
+zhen ding wei	帧定位	22
+zhen hua lu kou	振华路口	22
+zhen kong zhi zi duan	帧控制字段	22
+zhen luan	阵挛	21
+zhen xiu mei zhuan	珍馐美馔	21
+zhen hua xi lu	振华西路	19
+zhen li dao	真理道	19
+zhen tou	圳头	19
+zhen zhu ceng fen	珍珠层粉	19
+zhen duan cha tou	诊断插头	18
+zhen hua gang ji	振华港机	18
+zhen wei zhen	真味珍	18
+zhen wu miao er tiao	真武庙二条	18
+zhen zhu xue er	珍珠雪耳	18
+zhen tian	真田	17
+zhen xiang	祯祥	17
+zhen zhu bei rou	珍珠贝肉	17
+zhen fu	振富	16
+zhen jiao cun	镇郊村	16
+zhen lie chu li	阵列处理	16
+zhen tian guang zhi	真田广之	16
+zhen zhu hu	珍珠虎	16
+zhen gu da kong	枕骨大孔	15
+zhen zhong cun	镇中村	15
+zhen bei lu	镇北路	14
+zhen huang kao yue bo yong	朕皇考曰伯庸	14
+zhen jiang ge	镇江阁	14
+zhen wu dian	真武殿	14
+zhen duan bao jing xi tong	诊断报警系统	13
+zhen xi	真希	13
+zhen xin xin cun	真新新村	13
+zhen xi cun	镇西村	12
+zhen xing hong xi bao zeng duo zheng	真性红细胞增多症	12
+zhen duan xing gua gong	诊断性刮宫	11
+zhen feng	枕峰	11
+zhen he	振河	11
+zhen lie xin hao chu li	阵列信号处理	11
+zhen tong gao	镇痛膏	11
+zhen tou jie dao	振头街道	11
+zhen bao wan	珍宝丸	10
+zhen hua nan lu	振华南路	10
+zhen mao shou huo yi	针毛收获蚁	10
+zhen bei xin cun	真北新村	9
+zhen dong nan	镇东南	9
+zhen fa xing xin dong guo su	阵发性心动过速	9
+zhen ming	镇明	9
+zhen qi jiang tang jiao nang	珍芪降糖胶囊	9
+zhen zhu le yuan	珍珠乐园	9
+zhen zhu li yu	珍珠鲤鱼	9
+zhen zhu ming mu di yan ye	珍珠明目滴眼液	9
+zhen di shi tan pan	阵地式谈判	8
+zhen hai shui ku	镇海水库	8
+zhen he	畛河	8
+zhen jiang qu zheng fu	浈江区政府	8
+zhen xing ju wei hui	振兴居委会	8
+zhen zhu gou tou	珍珠狗头	8
+zhen dong bing	振动病	7
+zhen hai ceng lou	镇海层楼	7
+zhen hai xian	镇海县	7
+zhen zhu dao diao	珍珠倒吊	7
+zhen hua lu dong kou	振华路东口	6
+zhen li dao	真理到	6
+zhen ping dao kou shao ji	镇平道口烧鸡	6
+zhen tian xing cun	真田幸村	6
+zhen wei	甄伟	6
+zhen xian jie	针线街	6
+zhen xin	振新	6
+zhen ye xiao zhao man	针叶小爪螨	6
+zhen cha fang fa lun	侦查方法论	5
+zhen jing xiang	镇靖乡	5
+zhen nei zhi ze	阵内智则	5
+zhen qin	真琴	5
+zhen qin yi	真琴翼	5
+zhen ru xi cun	真如西村	5
+zhen shi ming di yan ye	珍视明滴眼液	5
+zhen xia	圳下	5
+zhen xing niao shi jin	真性尿失禁	5
+zhen zhu bei mu	珍珠贝目	5
+zhen zhu chang fen	珍珠肠粉	5
+zhen zhu fen ba	珍珠粉耙	5
+zhen ci shi yan	针刺试验	4
+zhen da shen jing	枕大神经	4
+zhen da shen jing tong	枕大神经痛	4
+zhen dong xiao ying	振动效应	4
+zhen duan xing gua gong shu	诊断性刮宫术	4
+zhen gu da kong shan	枕骨大孔疝	4
+zhen han zhan di shou ji	震撼战地手记	4
+zhen jiu zhi liao xue	针灸治疗学	4
+zhen kan tuo si sheng	真堪托死生	4
+zhen ke tang jiang	镇咳糖浆	4
+zhen kong xi yin qi	真空吸引器	4
+zhen ru bai qie yang rou	真如白切羊肉	4
+zhen shan cun	镇山村	4
+zhen wei yao zu xiang	镇圩瑶族乡	4
+zhen wu miao si li	真武庙四里	4
+zhen wu tang	真武汤	4
+zhen xiang jiao nang	珍香胶囊	4
+zhen ya zhuang	振亚庄	4
+zhen yuan chen nian dao cai	镇远陈年道菜	4
+zhen zhu dou fu geng	珍珠豆腐羹	4
+zhen zhu fen jiao nang	珍珠粉胶囊	4
+zhen bei lu tao pu xi lu	真北路桃浦西路	3
+zhen cha jian du zhi du	侦查监督制度	3
+zhen chan fa	震颤法	3
+zhen chen lu	真陈路	3
+zhen dong guang pu	振动光谱	3
+zhen dong jue	振动觉	3
+zhen dou ka fei	真豆咖啡	3
+zhen guang xin cun	真光新村	3
+zhen han jia re	真寒假热	3
+zhen hong ke li	珍红颗粒	3
+zhen li gu xiang	镇里固乡	3
+zhen ru zhong xue	真如中学	3
+zhen shang shi shu xian chu hao	枕上诗书闲处好	3
+zhen shen jing tong	枕神经痛	3
+zhen tian chang xing	真田昌幸	3
+zhen xia cun	圳下村	3
+zhen zi liang xiang	镇子梁乡	3
+zhen chang ce er yu yu nei	振长策而御宇内	2
+zhen di cun	珍地村	2
+zhen duan xue ji chu	诊断学基础	2
+zhen fei chu chu hua qing chi	真妃初出华清池	2
+zhen hua you er yuan	振华幼儿园	2
+zhen jiang she qu	镇江社区	2
+zhen jun xing bi dou yan	真菌性鼻窦炎	2
+zhen kong guan ying	真空管硬	2
+zhen lin jie dao	振林街道	2
+zhen mu yang zi	真木阳子	2
+zhen qi fu zheng jiao nang	贞芪扶正胶囊	2
+zhen qin xiang	珍秦乡	2
+zhen rong ye	真溶液	2
+zhen ru xin cun	真如新村	2
+zhen shi dai yun gui	枕石待云归	2
+zhen shi ying xiong yi zhang fu	真是英雄一丈夫	2
+zhen tian cun	珍田村	2
+zhen xi lu	镇西路	2
+zhen xi xiang	镇西乡	2
+zhen xing dong mai liu	真性动脉瘤	2
+zhen ye	真夜	2
+zhen you qing yi lian jie xi	朕幼清以廉洁兮	2
+zhen zai shang su tian ying qi	真宰上诉天应泣	2
+zhen zhu hu lu kou	珍珠湖路口	2
+zhen zhu lu hui	珍珠芦荟	2
+zhen bao jin you zhi	珍宝尽有之	1
+zhen bei cun	真北村	1
+zhen cha jian du ye wu jiao cheng	侦查监督业务教程	1
+zhen ci bu xie fa	针刺补泻法	1
+zhen ci zhen tong	针刺镇痛	1
+zhen dong jie dao ban	镇东街道办	1
+zhen fei	贞妃	1
+zhen gang ta lu	镇岗塔路	1
+zhen gu yu ci ya gang	真骨鱼次亚纲	1
+zhen hai shi	镇海石	1
+zhen he ling pian	珍合灵片	1
+zhen he lu	真合路	1
+zhen hua jie dao	振华街道	1
+zhen hua nan jie jie dao	振华南街街道	1
+zhen ji li jiu ze ru	真积力久则入	1
+zhen jiang hu tong	镇江胡同	1
+zhen jiang si jie dao	镇江寺街道	1
+zhen jun bai xue zheng	真菌败血症	1
+zhen li dao hua tai li	真理道华泰里	1
+zhen ma yan jian tie	阵马檐间铁	1
+zhen nan lu er hao qiao	真南路二号桥	1
+zhen nao ning jiao nang	镇脑宁胶囊	1
+zhen neng bian cheng shi tou ma	真能变成石头吗	1
+zhen pin	珍嫔	1
+zhen ping xiang	镇坪乡	1
+zhen qian kan he yu	枕前看鹤浴	1
+zhen qing cun	珍卿村	1
+zhen re jia han	真热假寒	1
+zhen ren zhi xi yi zhong	真人之息以踵	1
+zhen shan	珍山	1
+zhen shan cun	珍山村	1
+zhen shang cun	圳上村	1
+zhen tou zhou	枕头洲	1
+zhen tu kai xiang long shan dong	阵图开向陇山东	1
+zhen wai long tu	枕外隆突	1
+zhen xian you cun wei ren kai	针线犹存未忍开	1
+zhen xiang li	珍巷里	1
+zhen xiao lu	镇小路	1
+zhen yang cun	贞洋村	1
+zhen yang xiang	镇阳乡	1
+zhen yun tong mei gui su tang	震运同玫瑰酥糖	1
+zhen ze xin cun	震泽新村	1
+zhen zhen xing feng zi chui san	阵阵腥风自吹散	1
+zhen zhi yi wu ming zhi pu	镇之以无名之朴	1
+zhen zhong yun qi qian feng jin	枕中云气千峰近	1
+zhen zhu dou niang	珍珠豆娘	1
+zhen zhu gou tou yu	珍珠狗头鱼	1
+zhen zhu nan gua	珍珠南瓜	1
+zhen zhuo heng e gua	斟酌姮娥寡	1
+zhen zi chang	镇子场	1
+zhen bei zhu	珍贝珠	0
+zhen bo wen e	珍波纹蛾	0
+zhen chun li yu	真唇丽鱼	0
+zhen chun shui mu shu	真唇水母属	0
+zhen cu duo zhi lun chong	针簇多枝轮虫	0
+zhen dao shi xi yin ju	真岛氏细银鮈	0
+zhen fan chui long shu	真反椎龙属	0
+zhen fang tou yu	真方头鱼	0
+zhen fu li	真副鳢	0
+zhen fu shi zi yu	真副狮子鱼	0
+zhen fu ying shu	真浮萤属	0
+zhen fu you sheng wu	真浮游生物	0
+zhen ge mo shui mu	真隔膜水母	0
+zhen hai tu luo	珍海兔螺	0
+zhen ji shi jia nian	真棘匙甲鲶	0
+zhen ji shu	榛鸡属	0
+zhen jing qi yu	真精器鱼	0
+zhen long tou yi	真隆头鮨	0
+zhen lu ya ke	真鹿亚科	0
+zhen nv ci ying	贞女刺萤	0
+zhen qian kong tun	真前孔鲀	0
+zhen qiang gu long	真腔骨龙	0
+zhen qiang zhuang shui mu	真强状水母	0
+zhen she wei mu	真蛇尾目	0
+zhen shou xiao ling mao	真兽小灵猫	0
+zhen shu	鱵属	0
+zhen tou feng huang luo	枕頭鳳凰螺	0
+zhen wei mo chi mu	针尾膜翅目	0
+zhen wei wei da niao	针尾维达鸟	0
+zhen wei xue shui mu	真胃穴水母	0
+zhen xi bai hu xi tian xin ding	珍稀白虎喜添新丁	0
+zhen xi bin wei lu sheng dong wu	珍稀濒危陆生动物	0
+zhen xi ye sheng dong wu xi niu	珍稀野生动物犀牛	0
+zhen xi ying shu	真喜萤属	0
+zhen xing xing kou shui mu	真形星口水母	0
+zhen xiong cu tui tian niu	针胸粗腿天牛	0
+zhen xiu ye zi	珍袖椰子	0
+zhen ye di zhong ying	针叶地种蝇	0
+zhen yin ying rong mao sha	真阴影绒毛鲨	0
+zhen yuan xia hu yu	真圆鰕虎鱼	0
+zhen zhang qi tian zhu diao	真长鳍天竺鲷	0
+zhen zhu ai guan wei	珍珠矮冠鳚	0
+zhen zhu bei yin yu	珍珠贝隐鱼	0
+zhen zhu hua ban xie	珍珠花瓣蟹	0
+zhen zhu jian shui yu	珍珠溅水鱼	0
+zhen zhu jian shui yu	珍珠涧水鱼	0
+zhen zhu jiao xing gu zao	珍珠角星鼓藻	0
+zhen zhu ying mao chong	珍珠映毛虫	0

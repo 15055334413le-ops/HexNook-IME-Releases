@@ -1,0 +1,150 @@
+ben tu	本土	81012
+ben di wen jian	本地文件	19328
+ben jin	本金	13362
+ben di huan cun	本地缓存	12013
+ben di fang fa	本地方法	9309
+ben xi	本息	6362
+ben di cun chu	本地存储	5437
+ben di dai ma	本地代码	5343
+ben di ku	本地库	4177
+ben xi	本溪	3777
+ben di di zhi	本地地址	3537
+ben jia suan na	苯甲酸钠	3490
+ben di tu pian	本地图片	3090
+ben mo dao zhi	本末倒置	3076
+ben di lian jie	本地连接	2819
+ben lei dui xiang	本类对象	2606
+ben di fu wu	本地服务	2432
+ben lai mian mu	本来面目	2146
+ben di ying yong	本地应用	1922
+ben jia quan	苯甲醛	1815
+ben zou xiang gao	奔走相告	1697
+ben jie ming	本杰明	1671
+ben di jie kou	本地接口	1603
+ben ya ming	本雅明	1591
+ben di kai fa	本地开发	1482
+ben xi shi	本溪市	1414
+ben di ji	本地鸡	1345
+ben jia chun	苯甲醇	1081
+ben di tong zhi	本地通知	1018
+ben jia suan	苯甲酸	883
+ben yi suan	苯乙酸	720
+ben di yuan	本地源	679
+ben ji dai ma	本机代码	679
+ben di tui song	本地推送	669
+ben fen	苯酚	631
+ben piao	本票	626
+ben di guang bo	本地广播	542
+ben bing tong niao zheng	苯丙酮尿症	528
+ben shi tong gen sheng	本是同根生	519
+ben gu bang ning	本固邦宁	484
+ben chi che dui	奔驰车队	472
+ben di chi jiu hua	本地持久化	448
+ben di zhong duan	本地终端	439
+ben liu bu xi	奔流不息	432
+ben yi chun	苯乙醇	412
+ben an	苯胺	394
+ben la deng	本拉登	313
+ben shou ben jiao	笨手笨脚	309
+ben xiang ben tu	本乡本土	273
+ben bo lao lu	奔波劳碌	232
+ben niao xian fei	笨鸟先飞	197
+ben di fa yuan	本地法院	179
+ben xi xian	本溪县	177
+ben men	贲门	175
+ben jia suan bian zhi	苯甲酸苄酯	172
+ben xing nan yi	本性难移	151
+ben bing an suan	苯丙氨酸	139
+ben zhong du	苯中毒	125
+ben ji ben fen	苯基苯酚	117
+ben hai la ming	苯海拉明	108
+ben bing an	苯丙胺	91
+ben ke bi ye she ji	本科毕业设计	87
+ben ba bi tuo	苯巴比妥	80
+ben li er dao sheng	本立而道生	65
+ben ying	本影	59
+ben neng xing wei	本能行为	55
+ben xiao li bao	本小利薄	53
+ben zha lv an	苯扎氯胺	52
+ben neng chong dong	本能冲动	46
+ben da	奔达	44
+ben liu dao hai bu fu hui	奔流到海不复回	43
+ben xi lu	本溪路	43
+ben tuo ying na	苯妥英钠	42
+ben zha lv an	苯扎氯铵	42
+ben teng peng pai	奔腾澎湃	33
+ben yi shuang gua	苯乙双胍	31
+ben zui zhuo she	笨嘴拙舌	31
+ben huang suan an lv di ping pian	苯磺酸氨氯地平片	29
+ben dun wei er jian yu	本顿维尔监狱	25
+ben teng ji tuan	奔腾集团	23
+ben xi jie	本溪街	23
+ben zou hu hao	奔走呼号	22
+ben yi quan	苯乙醛	20
+ben yi suan jia zhi	苯乙酸甲酯	20
+ben zuo ka yin	苯佐卡因	18
+ben jia suan ci er chun	苯甲酸雌二醇	17
+ben di cun fang di zhi	本地存放地址	14
+ben cao xue	本草学	13
+ben zha xiu an	苯扎溴胺	13
+ben yang yi chun	苯氧乙醇	12
+ben shen	本神	10
+ben wai bi dui chong cao zuo	本外币对冲操作	10
+ben ben zhu	笨笨猪	9
+ben fen zhong du	苯酚中毒	9
+ben zha xiu an	苯扎溴铵	9
+ben da xiang	奔达乡	8
+ben ba bi tuo pian	苯巴比妥片	7
+ben bing suan nuo long	苯丙酸诺龙	7
+ben si hu tong	本司胡同	7
+ben dou xiang	奔都乡	6
+ben huang suan an lv di ping	苯磺酸氨氯地平	6
+ben ben sen lin ri ji	笨笨森林日记	5
+ben ben sen lin ri zhi	笨笨森林日志	5
+ben bing an suan qiang hua mei	苯丙氨酸羟化酶	5
+ben jia suan zhi	苯甲酸酯	5
+ben hong zhen	贲红镇	4
+ben huan li ding	苯环利定	4
+ben zha lv an rong ye	苯扎氯铵溶液	4
+ben zuo xi lin	苯唑西林	4
+ben ji ben fen na	苯基苯酚钠	3
+ben ma lv	奔马律	3
+ben mu ya hong	本木雅弘	3
+ben tuo ying na pian	苯妥英钠片	3
+ben xiao	奔霄	3
+ben xiu ma long pian	苯溴马隆片	3
+ben zuo na zhi	苯佐那酯	3
+ben bing pai lin	苯丙哌林	2
+ben che lun huan xuan feng chi	奔车轮缓旋风迟	2
+ben hai suo	苯海索	2
+ben jia tuo pin	苯甲托品	2
+ben sai ding	苯噻啶	2
+ben shi luo yang ren	本是洛阳人	2
+ben yang ji yi chun	苯氧基乙醇	2
+ben yi suan gao tong	苯乙酸睾酮	2
+ben yue bing	笨月饼	2
+ben zi wu ren shi	本自无人识	2
+ben ba bi tuo na	苯巴比妥钠	1
+ben ba bi tuo na zhu she ye	苯巴比妥钠注射液	1
+ben bing suan nuo long zhu she ye	苯丙酸诺龙注射液	1
+ben cheng zhen	倴城镇	1
+ben ge xiang	奔戈乡	1
+ben hai la ming tang jiang	苯海拉明糖浆	1
+ben jia chun zhu she ye	苯甲醇注射液	1
+ben jia xian an	苯甲酰胺	1
+ben shen shang xian su	苯肾上腺素	1
+ben shi	本实	1
+ben tian bang jiu	本田邦久	1
+ben xiang zou duo	本乡奏多	1
+ben xing neng nai han	本性能耐寒	1
+ben yi gao nan bao	本以高难饱	1
+ben zha xiu an rong ye	苯扎溴铵溶液	1
+ben zhai qing zhen rou bing	本斋清真肉饼	1
+ben zuo ka yin hu ji	苯佐卡因糊剂	1
+ben zuo xi lin na	苯唑西林钠	1
+ben chi ci wei xi	奔驰刺尾蜥	0
+ben deng chong bing	本登虫病	0
+ben ga lun ju xi	本伽仑巨蜥	0
+ben ge la mo lie chong	本格拉模裂虫	0
+ben shi xiao kong hai long yu	本氏肖孔海龙鱼	0
+ben xi pei li ying	本溪陪丽蝇	0

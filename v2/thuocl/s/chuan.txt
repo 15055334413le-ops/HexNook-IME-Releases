@@ -1,0 +1,248 @@
+chuan yuan	船员	130499
+chuan cai	川菜	88350
+chuan di can shu	传递参数	22313
+chuan ran bing	传染病	20805
+chuan kou	串口	16023
+chuan di shu ju	传递数据	14949
+chuan ran	传染	14944
+chuan shu ceng	传输层	12551
+chuan shu xie yi	传输协议	11786
+chuan gan qi	传感器	11195
+chuan ran bing fang zhi fa	传染病防治法	6091
+chuan xing hua	串行化	5490
+chuan ran xing	传染性	4748
+chuan can shu	传参数	4709
+chuan shu kong zhi xie yi	传输控制协议	4458
+chuan chang	船厂	3992
+chuan bo tu jing	传播途径	3976
+chuan xi	喘息	3764
+chuan chuan xiang	串串香	3679
+chuan di xing	传递性	3643
+chuan di dui xiang	传递对象	3429
+chuan liu bu xi	川流不息	3143
+chuan nan	川南	2785
+chuan zha	船闸	2490
+chuan ran yuan	传染源	2404
+chuan di han shu	传递函数	2241
+chuan xing dui lie	串行队列	2221
+chuan duan	川断	2081
+chuan zhen yin xian	穿针引线	2077
+chuan wei jia hua	传为佳话	1935
+chuan kou tong xin	串口通信	1924
+chuan zhi bo ke	传智播客	1842
+chuan wu	船坞	1708
+chuan bo mei jie	传播媒介	1703
+chuan yin yong	传引用	1682
+chuan tong yi xue	传统医学	1587
+chuan pi pei	串匹配	1364
+chuan zong jie dai	传宗接代	1267
+chuan zhu	串珠	1193
+chuan xing tong xin	串行通信	1055
+chuan shan jia	穿山甲	1014
+chuan xing duan kou	串行端口	964
+chuan di bi bao	传递闭包	862
+chuan kao rou	串烤肉	861
+chuan bei liang fen	川北凉粉	856
+chuan kou tong xun	串口通讯	835
+chuan bei	川北	822
+chuan jing song bao	传经送宝	744
+chuan sha	川沙	743
+chuan shu xian	传输线	704
+chuan shu mei ti	传输媒体	702
+chuan kou tiao shi	串口调试	674
+chuan wei mei tan	传为美谈	652
+chuan shu cuo wu	传输错误	633
+chuan shan	穿山	606
+chuan bo dun wei	船舶吨位	537
+chuan qiong	川芎	528
+chuan bing	串并	513
+chuan kou bian cheng	串口编程	481
+chuan tong wang luo	传统网络	475
+chuan tong wen hua	传统文化	474
+chuan tong yi qi	串通一气	447
+chuan rao	串扰	396
+chuan chu li	串处理	384
+chuan di han shu yi lai	传递函数依赖	347
+chuan dao	川岛	330
+chuan bei	川贝	326
+chuan bo you xian quan cui gao	船舶优先权催告	323
+chuan dong hu bao xie hui	船东互保协会	319
+chuan gang	川港	319
+chuan tou xing	穿透性	311
+chuan ran bing xue	传染病学	310
+chuan shu yan chi	传输延迟	300
+chuan qiong cha	川芎茶	262
+chuan xing chuan shu	串行传输	257
+chuan bo deng ji zheng shu	船舶登记证书	244
+chuan bo xing bing zui	传播性病罪	225
+chuan duan kang cheng	川端康成	225
+chuan tong lan ya	传统蓝牙	212
+chuan sha xin zhen	川沙新镇	166
+chuan zhu si	川主寺	161
+chuan bei mu	川贝母	150
+chuan ying	船营	144
+chuan xing diao du	串行调度	133
+chuan xing pai xu	串行排序	129
+chuan wu	川乌	128
+chuan da zhi sheng	川大智胜	127
+chuan ci zhen	穿刺针	123
+chuan ran qi	传染期	123
+chuan qi che dui	川崎车队	119
+chuan kou ying pan	串口硬盘	106
+chuan xin lian	穿心莲	106
+chuan jian pao li	船坚炮利	99
+chuan bei dun li	川贝炖梨	91
+chuan sha lu	川沙路	89
+chuan cai hui guo rou	川菜回锅肉	84
+chuan tong bian cheng yu yan	传统编程语言	81
+chuan xing ren wu	串行任务	81
+chuan zao fu hui	穿凿附会	79
+chuan zhen fu wu	传真服务	78
+chuan shan lu	船山路	73
+chuan yuan lao wu he tong	船员劳务合同	73
+chuan dao qiao tou zi ran zhi	船到桥头自然直	69
+chuan ran bing bao gao ka	传染病报告卡	69
+chuan ran xing fa shi nang yan	传染性法氏囊炎	67
+chuan wei xiao tan	传为笑谈	67
+chuan shu sun hao	传输损耗	64
+chuan zhen fu wu qi	传真服务器	57
+chuan ming	喘鸣	50
+chuan xi xiang	船溪乡	48
+chuan zhi can shu	传值参数	46
+chuan niu xi	川牛膝	45
+chuan wei niu rou	川味牛肉	41
+chuan bei niang li	川贝酿梨	40
+chuan chang li	船厂里	38
+chuan qin fang you	串亲访友	37
+chuan tong ke xue	传统科学	37
+chuan song yi shi	传诵一时	36
+chuan hong zhuo lv	穿红着绿	35
+chuan bo bao xian dan	船舶保险单	34
+chuan bo wu cha	传播误差	34
+chuan bo jing ying guan li	船舶经营管理	31
+chuan qiong qin	川芎嗪	30
+chuan bei xue li zhu fei tang	川贝雪梨猪肺汤	29
+chuan dao xing er long	传导性耳聋	29
+chuan lian pi pei	串联匹配	29
+chuan lian zi	川楝子	29
+chuan tong yu fa	传统语法	29
+chuan xi wei ding	喘息未定	28
+chuan shan qun dao	川山群岛	27
+chuan zhen ruan jian	传真软件	27
+chuan dao tong lu	传导通路	25
+chuan wei liang mian	川味凉面	25
+chuan hong cha	川红茶	24
+chuan long	川龙	24
+chuan xin lian nei zhi	穿心莲内酯	24
+chuan dao mo shu dai	川岛茉树代	22
+chuan ban hu tong	船板胡同	21
+chuan bei pi pa tang jiang	川贝枇杷糖浆	20
+chuan bei xue li	川贝雪梨	19
+chuan ding	喘定	19
+chuan sha xian	川沙县	16
+chuan lu	船路	15
+chuan shi bei da men	川师北大门	13
+chuan wan dan shui hu	船湾淡水湖	12
+chuan bei dun zhe gu	川贝炖鹧鸪	11
+chuan dai pei yang	传代培养	11
+chuan ran xing ruan you	传染性软疣	11
+chuan xing jia fa qi	串行加法器	11
+chuan bei zhi ke lu	川贝止咳露	10
+chuan bing zhuan huan qi	串并转换器	10
+chuan fang yu xiang	穿芳峪乡	10
+chuan lian shi zhi dong zong beng	串联式制动总泵	10
+chuan xing ji suan ji	串行计算机	10
+chuan bo wei xiu fei	船舶维修费	9
+chuan cun	船村	9
+chuan keng	船坑	9
+chuan su yao zu xiang	传素瑶族乡	9
+chuan tang men	穿堂门	9
+chuan xin lian pian	穿心莲片	9
+chuan yuan fu wu guan li gui ding	船员服务管理规定	9
+chuan zha xian bei	串炸鲜贝	9
+chuan bo ying yun fei yong	船舶营运费用	8
+chuan li	川里	8
+chuan bing	喘病	7
+chuan qiao lu	川桥路	7
+chuan ran xing kou qiang yan	传染性口腔炎	7
+chuan xi cun	船溪村	7
+chuan xin lian jiao nang	穿心莲胶囊	7
+chuan dao zhi mei	川岛直美	6
+chuan hu ning zhu she ye	穿琥宁注射液	6
+chuan qiong cha diao san	川芎茶调散	6
+chuan ran guo cheng	传染过程	6
+chuan shan lu	穿山路	6
+chuan wen di diao	川纹笛鲷	6
+chuan yu tou huo guo	川鱼头火锅	6
+chuan bo you wu ying ji ji hua	船舶油污应急计划	5
+chuan dong zhou tu yuan	传动轴凸缘	5
+chuan xin lian nei zhi di wan	穿心莲内酯滴丸	5
+chuan lian	川楝	4
+chuan mu tong	川木通	4
+chuan qi ye ma	川汽野马	4
+chuan qiong cha diao ke li	川芎茶调颗粒	4
+chuan wang fu	川王府	4
+chuan xin dian	川心店	4
+chuan bei qing fei tang jiang	川贝清肺糖浆	3
+chuan bei zhi ke tang jiang	川贝止咳糖浆	3
+chuan dong cai chao xian can dou	川冬菜炒鲜蚕豆	3
+chuan jing xian ci	川井宪次	3
+chuan ke ning pian	喘咳宁片	3
+chuan rong yu er bu jin xi	船容与而不进兮	3
+chuan shao hai xian	串烧海鲜	3
+chuan xin cun	川心村	3
+chuan ying pi zhong tui feng	川硬皮肿腿蜂	3
+chuan bei pi pa ke li	川贝枇杷颗粒	2
+chuan dao lu	传导路	2
+chuan di xi bao	传递细胞	2
+chuan di xia cun	川底下村	2
+chuan fu lou	川福楼	2
+chuan hua gu fen you xian gong si	川化股份有限公司	2
+chuan hui wu qi di	船回雾起堤	2
+chuan luo tong jiao nang	喘络通胶囊	2
+chuan mei ze ren xian	传媒责任险	2
+chuan mu xiang	川木香	2
+chuan ran xing hong ban	传染性红斑	2
+chuan shan jie dao	穿山街道	2
+chuan wei fei teng yu	川味沸腾鱼	2
+chuan wei kou shui ji	川味口水鸡	2
+chuan wei xie	川味蟹	2
+chuan yan xiang	川岩乡	2
+chuan yao jie	串窑街	2
+chuan ye gan	川射干	2
+chuan you shen long ren bu shi	传有神龙人不识	2
+chuan zhang	川掌	2
+chuan zhi ya zhang	川汁鸭掌	2
+chuan bai zhi yang xi ji	川百止痒洗剂	1
+chuan bei xue li gao	川贝雪梨膏	1
+chuan dao dong ke gu	传道东柯谷	1
+chuan guan shen wu xu	传观慎勿许	1
+chuan hua jia die shen shen jian	穿花蛱蝶深深见	1
+chuan hua jiao	川花椒	1
+chuan jin lu	川金路	1
+chuan jing yi zhu guan	船经一柱观	1
+chuan jing yu zi	川井郁子	1
+chuan jiong dong ting kai	川迥洞庭开	1
+chuan kou kai zhi	川口开治	1
+chuan la huang gua	川辣黄瓜	1
+chuan la xie	川辣蟹	1
+chuan shan he	穿山河	1
+chuan shang san gu ba	传觞三鼓罢	1
+chuan shi xiang	穿石乡	1
+chuan wen zhi ci hui	传闻至此回	1
+chuan xi ling jiao nang	喘息灵胶囊	1
+chuan xi zhang ya cai	川西獐牙菜	1
+chuan xia guang ling qu	船下广陵去	1
+chuan xin lian nei zhi ruan jiao nang	穿心莲内酯软胶囊	1
+chuan xin lian zhu she ye	穿心莲注射液	1
+chuan xing wu tou	船形乌头	1
+chuan yu pi pa xin zi zhi	传与琵琶心自知	1
+chuan yue ying yi lang	船越英一郎	1
+chuan zhu lv jing fu	川渚屡径复	1
+chuan di he ying	川地禾蝇	0
+chuan he dai dong deng e	川褐带东灯蛾	0
+chuan hui zhang chi juan e	川灰长翅卷蛾	0
+chuan shan wu yan dan nie	川陕无眼单啮	0
+chuan xing bao ke ha	船形薄壳蛤	0
+chuan zhang yu luo	船長芋螺	0
+chuan zhu ao yuan chong qi	串珠凹缘虫戚	0

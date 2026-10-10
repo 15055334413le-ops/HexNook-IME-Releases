@@ -1,0 +1,2006 @@
+ta men	他们	504296
+ta de	他的	502067
+ta de	她的	500989
+ta de	它的	500836
+ta men de	他们的	500821
+ta shuo	他说	500480
+ta ren	他人	500421
+ta zai	他在	500341
+ta shi	他是	500307
+ta jiu	他就	500256
+ta ye	他也	422580
+ta shuo	她说	418075
+ta hai	他还	383170
+ta shi	她是	350895
+ta dui	他对	322540
+ta zai	她在	272055
+ta bu	他不	269520
+ta jiu	她就	239320
+ta hui	他会	237430
+ta you	他又	225055
+ta men shi	他们是	224880
+ta ye	她也	218875
+ta ren wei	他认为	217185
+ta yi	他一	200435
+ta bu	她不	196870
+ta bu	它不	191710
+ta he	他和	188055
+ta zai	它在	188035
+ta hai	她还	186390
+ta you	他有	180100
+ta ba	他把	177905
+ta zi ji	他自己	169010
+ta men dou	他们都	166120
+ta mei	他没	164405
+ta jiu	它就	161755
+ta zhi	他只	159190
+ta yao	他要	157780
+ta xiang	他想	152190
+ta suo	他所	151495
+ta dou	他都	145915
+ta neng	它能	144810
+ta hai	它还	136115
+ta ke	他可	133620
+ta ye	它也	132875
+ta yi jing	他已经	132700
+ta jiang	他将	128435
+ta que	他却	127745
+ta dui	她对	127515
+ta kan	他看	126470
+ta cong	他从	124955
+ta na	他那	124515
+ta jiang	它将	120920
+ta hen	他很	120775
+ta wei	他为	120130
+ta hui	她会	116305
+ta you	她又	115995
+ta hui	它会	115645
+ta cai	他才	112390
+ta you	它有	108885
+ta na	她那	104705
+ta yong	他用	103635
+ta you	她有	101645
+ta shi	它是	100307
+ta he	她和	100060
+ta zhi dao	他知道	99775
+ta yu	他与	99080
+ta neng	他能	97395
+ta dui	它对	96345
+ta zhi	她只	95890
+ta jia	他家	93790
+ta xiang	她想	91740
+ta men shuo	他们说	91610
+ta biao shi	他表示	90005
+ta mei	她没	89610
+ta ma	他妈	87700
+ta men you	他们有	86565
+ta yi	他以	85745
+ta shang	踏上	83165
+ta bei	他被	83005
+ta shi	踏实	82290
+ta yao	她要	80560
+ta hen	她很	79060
+ta men jiang	他们将	77855
+ta men zi ji	他们自己	75375
+ta ba	她把	75240
+ta qu	他去	74840
+ta yi jing	她已经	74000
+ta kan	她看	72925
+ta jue de	他觉得	72395
+ta dou	她都	71360
+ta que	她却	71055
+ta gei	他给	70955
+ta bing	他并	70290
+ta yi	他已	69455
+ta lai	他来	68685
+ta zheng	他正	66100
+ta bian	他便	65905
+ta zuo	他做	65505
+ta zhi chu	他指出	65355
+ta ju you	它具有	65225
+ta zui	他最	64980
+ta zi ji	她自己	64590
+ta zhen	他真	64495
+ta jue de	她觉得	63550
+ta ceng	他曾	63250
+ta lia	他俩	62655
+ta yi	它以	60330
+ta cai	她才	60040
+ta men ba	他们把	59555
+ta shi ge	他是个	57440
+ta ke	她可	57115
+ta xi wang	他希望	55355
+ta jia	她家	54840
+ta bu jin	它不仅	54250
+ta shen shang	他身上	54040
+ta dao	他到	53865
+ta xin	他心	53840
+ta bu shi	他不是	53495
+ta shi yi ge	他是一个	52460
+ta wei	她为	51525
+ta men	她们	50040
+ta yi yan	他一眼	49115
+ta men zhi jian	他们之间	48630
+ta jiang	她将	47855
+ta yi	她以	47175
+ta wei	它为	47090
+ta suo	她所	46390
+ta men yao	他们要	45915
+ta zong shi	他总是	45865
+ta qu	她去	45080
+ta tu ran	他突然	44905
+ta neng	她能	44350
+ta zhen	她真	43675
+ta yong	她用	43355
+ta shi yi zhong	它是一种	43300
+ta geng	他更	43080
+ta zhong yu	他终于	42940
+ta shi yi ge	它是一个	42400
+ta hui	他回	41845
+ta you	它又	41735
+ta zou	他走	41730
+ta qiang diao	他强调	41430
+ta ru	踏入	41260
+ta da	他打	40840
+ta xi huan	他喜欢	40835
+ta ban	踏板	40360
+ta de ming zi	他的名字	40295
+ta zui	她最	39630
+ta gen	他跟	39585
+ta xin li	他心里	39365
+ta bu hui	他不会	39075
+ta ceng jing	他曾经	39015
+ta wen	他问	38980
+ta de xin	他的心	38390
+ta gei	她给	38300
+ta zou	她走	38255
+ta zong	他总	37600
+ta shou	他手	37550
+ta bei	她被	37520
+ta jiao	他叫	37055
+ta tong	他同	37005
+ta shang le	踏上了	36760
+ta zheng	她正	36745
+ta yi	她已	36740
+ta rang	他让	36705
+ta zhan	他站	36355
+ta ren wei	她认为	35925
+ta lai	她来	35385
+ta de qi zi	他的妻子	35215
+ta shen zhi	他甚至	35100
+ta zuo	她做	34535
+ta ceng	她曾	34005
+ta ta shi shi	踏踏实实	33735
+ta de yan jing	他的眼睛	33280
+ta de lian	他的脸	32070
+ta dai	他带	31845
+ta zai	他再	31795
+ta ben ren	他本人	31710
+ta hui	她回	31300
+ta zhao	他找	31155
+ta shen shang	她身上	30970
+ta tu ran	她突然	30905
+ta bei	它被	30885
+ta jin	踏进	30820
+ta bu zhi dao	他不知道	30670
+ta ting	他听	30640
+ta gang	他刚	30610
+ta gen ben	他根本	30575
+ta er	塔尔	30480
+ta si hu	他似乎	29980
+ta men lia	他们俩	29870
+ta ba	它把	29760
+ta jiang	他讲	29740
+ta xi huan	她喜欢	29740
+ta bian	她便	29695
+ta que	它却	29440
+ta jiao	她叫	29360
+ta zhe	踏着	29225
+ta cong	她从	29180
+ta jing ran	他竟然	28675
+ta wen	她问	28455
+ta xiang	他乡	28260
+ta gen	她跟	27920
+ta ju ran	他居然	27665
+ta men jia	他们家	27545
+ta hao	他好	27430
+ta you	它由	27405
+ta ai	他爱	27135
+ta yong	它用	27095
+ta ye you	他也有	26505
+ta ne	他呢	26005
+ta dao	她到	26000
+ta bi	它比	25825
+ta yao	它要	25815
+ta na	它那	25810
+ta gei	它给	25535
+ta chu	他出	25530
+ta bu shi	她不是	25495
+ta dei	他得	25275
+ta zuo	他坐	25045
+ta de yan jing	她的眼睛	24815
+ta shi you	它是由	24790
+ta zong shi	她总是	24630
+ta yao qiu	它要求	24585
+ta er zi	他儿子	24505
+ta ma	他吗	24505
+ta de sheng yin	他的声音	24355
+ta xiang	他像	24265
+ta de er zi	他的儿子	24135
+ta reng	他仍	24055
+ta hu ran	他忽然	23885
+ta da	他大	23855
+ta ben shen	他本身	23660
+ta zi ji	它自己	23610
+ta bi	他比	22995
+ta gao su	他告诉	22770
+ta xiang	他向	22681
+ta xiang	她向	22680
+ta geng	她更	22400
+ta chi	他吃	22330
+ta yin	他因	22240
+ta ken ding	他肯定	22225
+ta xian	塌陷	22040
+ta jian	他见	21990
+ta ben shen	她本身	21750
+ta xiang xin	他相信	21750
+ta zong	她总	21605
+ta de ming zi	她的名字	21590
+ta ma shang	他马上	21570
+ta lian	他连	21525
+ta jing	他竟	21455
+ta ba	他吧	21430
+ta hen	它很	21415
+ta hao	她好	21385
+ta zi	他自	21305
+ta yu	他于	21195
+ta lian shang	他脸上	20745
+ta ben shen	它本身	20660
+ta yi ge ren	他一个人	20535
+ta guo	他国	20190
+ta gao su wo	他告诉我	19895
+ta chu	她出	19630
+ta shang	他上	19625
+ta shou	他受	19060
+ta gang	她刚	18930
+ta ai	她爱	18915
+ta li	塔里	18720
+ta bu hui	她不会	18700
+ta er zi	她儿子	18600
+ta dao	他倒	18465
+ta reng	她仍	18120
+ta hai zai	他还在	18080
+ta bao han	它包含	18065
+ta lou	塔楼	17970
+ta la	塔拉	17950
+ta ye you	她也有	17950
+ta chu	踏出	17910
+ta hai shuo	他还说	17905
+ta yi ding hui	他一定会	17545
+ta jing ran	她竟然	17520
+ta shen hou	他身后	17435
+ta shuo	它说	17430
+ta rang	她让	17120
+ta ju ran	她居然	17060
+ta song	他送	17060
+ta ne	她呢	16945
+ta duo	他多	16830
+ta xiao	他笑	16645
+ta xiang	她像	16440
+ta dai zhe	他带着	16400
+ta fang	塌方	16340
+ta cheng	他称	16240
+ta shang	她上	16100
+ta lian shang	她脸上	15915
+ta shi zhong	他始终	15795
+ta ri	他日	15610
+ta tai	他太	15385
+ta ba	她吧	15375
+ta de yan shen	他的眼神	15355
+ta jing	她竟	15220
+ta pa	他怕	15200
+ta zhi hao	他只好	15065
+ta chang chang	他常常	15040
+ta shi	他使	14965
+ta yi bian	他一边	14930
+ta hu ran	她忽然	14865
+ta dei	她得	14750
+ta zhao	她找	14645
+ta xia	他下	14525
+ta bu xiang	他不想	14410
+ta niang de	他娘的	14295
+ta bu dan	他不但	13995
+ta kan zhe	他看着	13935
+ta kan zhe	她看着	13855
+ta shou li	他手里	13555
+ta bu de bu	他不得不	13545
+ta tong	她同	13375
+ta xian hou	他先后	13265
+ta na li	他那里	13260
+ta ding	塔顶	13145
+ta ming bai	他明白	12870
+ta ruo	他若	12800
+ta jian	她见	12725
+ta zhen	它真	12560
+ta yuan yi	他愿意	12530
+ta shi de	踏实的	12350
+ta xiang	他项	12330
+ta sui	他虽	12285
+ta men de	她们的	12197
+ta shuo wo	他说我	12140
+ta qing	踏青	12135
+ta wen wo	他问我	12010
+ta gai	他该	11750
+ta zou dao	他走到	11710
+ta sha	他杀	11555
+ta de xin li	他的心里	11540
+ta die	他爹	11520
+ta zou le	他走了	11470
+ta zhe ge	他这个	11430
+ta lia	她俩	11275
+ta chu	他处	11195
+ta jiang	她讲	11140
+ta bu	踏步	11125
+ta pa	她怕	11100
+ta shen	塔身	11095
+ta cai yong le	它采用了	11065
+ta kan	踏勘	11030
+ta wen wo	她问我	11010
+ta qing	他请	10955
+ta zai ye	他再也	10705
+ta lai shuo	他来说	10535
+ta gao su wo	她告诉我	10475
+ta de yan shen	她的眼神	10460
+ta zhi suo yi	他之所以	10240
+ta tai	她太	10230
+ta bu xiang	她不想	10205
+ta you shuo	他又说	10195
+ta ma ma	他妈妈	10170
+ta a	他啊	9999
+ta de fu qin	他的父亲	9999
+ta de mu qin	他的母亲	9999
+ta de shen ti	他的身体	9999
+ta de tou fa	他的头发	9999
+ta dui ta shuo	他对他说	9999
+ta gan	他敢	9999
+ta ge	他个	9999
+ta ji ke si tan gong he guo	塔吉克斯坦共和国	9999
+ta jiu shi	他就是	9999
+ta la er	趿拉儿	9999
+ta luo	塌落	9999
+ta ma de	他妈的	9999
+ta min	塔敏	9999
+ta qiang	他强	9999
+ta shan gong cuo	他山攻错	9999
+ta song	塔松	9999
+ta ta	他他	9999
+ta zai na li	他在那里	9999
+ta zai na li	他在哪里	9998
+ta chuan zhe	他穿着	9985
+ta de hua	他的话	9945
+ta tu	獭兔	9935
+ta qin zi	他亲自	9900
+ta de peng you	他的朋友	9895
+ta xue	踏雪	9760
+ta nei	塔内	9750
+ta de hua	她的话	9745
+ta ceng zai	他曾在	9725
+ta le	塌了	9725
+ta han you	它含有	9625
+ta li mu he	塔里木河	9580
+ta ba	它吧	9515
+ta nai nai	他奶奶	9460
+ta jiu ba	他就把	9445
+ta li ban	塔利班	9385
+ta li mu	塔里木	9380
+ta de yi sheng	他的一生	9330
+ta tou lu	他透露	9310
+ta de yao qiu	他的要求	9235
+ta hai neng	它还能	9200
+ta ting dao	他听到	9145
+ta chuan zhe	她穿着	9020
+ta xiao zhe	她笑着	8980
+ta de jia ren	他的家人	8895
+ta de peng you	她的朋友	8895
+ta sui ran	它虽然	8895
+ta dui ta shuo	他对她说	8888
+ta ta	他她	8888
+ta de qian	他的钱	8870
+ta you zhe	他有着	8845
+ta er si	塔尔寺	8835
+ta de er zi	她的儿子	8830
+ta dai ling	他带领	8825
+ta bian	踏遍	8815
+ta zen me hui	他怎么会	8805
+ta he ta	他和她	8790
+ta yi ding hui	她一定会	8770
+ta gao xing	他高兴	8755
+ta hua xing	踏花行	8720
+ta wang	他往	8565
+ta ji ke si tan	塔吉克斯坦	8560
+ta zhi zhe	他指着	8480
+ta yi	他意	8420
+ta de xin	她的心	8390
+ta tou lu	她透露	8300
+ta cong xiao	他从小	8285
+ta de xin qing	他的心情	8230
+ta de nv ren	他的女人	8185
+ta guo	他过	8170
+ta shan zhi shi	他山之石	8165
+ta ting dao	她听到	8145
+ta cong bu	他从不	8105
+ta zhuan shen	他转身	8100
+ta you zhe	它有着	8035
+ta men ne	他们呢	8000
+ta nian	他年	7980
+ta xiao le	他笑了	7960
+ta kuai	他快	7950
+ta ke	它可	7935
+ta chuan zhuo	他穿着	7885
+ta lai le	他来了	7875
+ta de tai du	他的态度	7835
+ta zhu zhang	他主张	7820
+ta suo	它所	7788
+ta de mu qin	她的母亲	7785
+ta de fu qin	她的父亲	7777
+ta de tou fa	她的头发	7777
+ta dui ta shuo	她对他说	7777
+ta gan	她敢	7777
+ta ge	他哥	7777
+ta qiang	她强	7777
+ta ta	她她	7777
+ta zhong du	他中毒	7777
+ta zu	踏足	7725
+ta kong	踏空	7620
+ta xiao le	她笑了	7600
+ta cheng ren	他承认	7585
+ta bu xi huan	他不喜欢	7565
+ta xiang qi	他想起	7565
+ta fang fu	他仿佛	7535
+ta hao bu	他毫不	7535
+ta lin	塔林	7505
+ta de ge	他的歌	7495
+ta shen shou	他伸手	7425
+ta xiao zhe	他笑着	7415
+ta de tui	他的腿	7320
+ta de sheng ming	他的生命	7290
+ta de xin zhong	他的心中	7190
+ta yuan ben	他原本	7190
+ta guo	她过	7170
+ta zou le	她走了	7165
+ta dai zhe	她带着	7120
+ta xia	塔下	7110
+ta cong lai bu	他从来不	7105
+ta bu yuan	他不愿	7085
+ta si le	他死了	7040
+ta shang	塔上	7035
+ta guo qu	他过去	7015
+ta de shi	他的诗	7005
+ta bu yuan	她不愿	7000
+ta xiang	它想	6940
+ta gan jin	他赶紧	6930
+ta de bei ying	他的背影	6840
+ta da	他答	6800
+ta de shen ti	她的身体	6785
+ta ren cai chan	他人财产	6770
+ta cong wei	他从未	6705
+ta dui ta shuo	她对她说	6666
+ta fang	塔防	6666
+ta da jiao	他大叫	6665
+ta jian	塔尖	6660
+ta de sheng ri	他的生日	6630
+ta li mu pen di	塔里木盆地	6630
+ta shang	榻上	6595
+ta wei wei	他微微	6575
+ta jian zhi	他简直	6560
+ta niang	他娘	6550
+ta shuo zhe	他说着	6475
+ta shou shang	他手上	6455
+ta wu	他物	6455
+ta guo	踏过	6445
+ta de yan lei	他的眼泪	6435
+ta zui xi huan	他最喜欢	6375
+ta de shou bi	他的手臂	6350
+ta ming bai	她明白	6350
+ta de tui	她的腿	6320
+ta de sheng ming	她的生命	6290
+ta lai	它来	6289
+ta hui shuo	他会说	6140
+ta de mei	他的美	6135
+ta cong xiao	她从小	6105
+ta gan jue dao	他感觉到	6095
+ta na zhe	他拿着	6075
+ta de yi si	他的意思	6005
+ta de yan guang	他的眼光	5980
+ta de ru fang	她的乳房	5925
+ta gao	塔高	5920
+ta yin	拓印	5905
+ta de jia ren	她的家人	5895
+ta shuo wo	她说我	5890
+ta lang	踏浪	5865
+ta bao zhe	他抱着	5850
+ta de bei ying	她的背影	5815
+ta jie shi	他解释	5790
+ta huan huan	他缓缓	5780
+ta wen dao	他问道	5740
+ta diao	塔吊	5645
+ta ba	他爸	5555
+ta gan	他干	5555
+ta jie	他姐	5555
+ta man	他蛮	5555
+ta qiang	他抢	5555
+ta te	他特	5555
+ta zhong du	她中毒	5555
+ta de dao	他得到	5550
+ta de shi	他的事	5540
+ta men lia	她们俩	5525
+ta bu chong	他补充	5485
+ta wei wei	她微微	5480
+ta pian	拓片	5475
+ta lai shuo	她来说	5455
+ta bu jin	他不仅	5450
+ta you zhe	她有着	5310
+ta men de xin	他们的心	5300
+ta zen me hui	她怎么会	5280
+ta zhang de	他长得	5185
+ta ke yi	他可以	5180
+ta bu xiang	他不像	5150
+ta ben	拓本	5135
+ta de mei	她的美	5135
+ta gong	塔公	5135
+ta shou xia	他手下	5130
+ta huan huan	她缓缓	5100
+ta dui zhe	他对着	5090
+ta wang zhe	他望着	5080
+ta bu xiang	她不像	5050
+ta bu jin	她不仅	5045
+ta de zui chun	他的嘴唇	5033
+ta de zui chun	她的嘴唇	5030
+ta po	踏破	5025
+ta xiang wo	他向我	5025
+ta men	它们	5006
+ta wen dao	她问道	5000
+ta tang zai	他躺在	4995
+ta de ge	她的歌	4950
+ta qing	她请	4945
+ta de ge sheng	他的歌声	4930
+ta zen me neng	他怎么能	4920
+ta he ta	他和他	4915
+ta de bi zi	他的鼻子	4895
+ta jie zhe	他接着	4865
+ta zhu zai	他住在	4860
+ta ge ge	他哥哥	4845
+ta ke la ma gan	塔克拉玛干	4845
+ta ning yuan	他宁愿	4815
+ta hua le	他花了	4805
+ta ming	他命	4790
+ta hu yu	他呼吁	4720
+ta bi wo	他比我	4705
+ta de sheng ri	她的生日	4630
+ta wang zhe	她望着	4605
+ta shi qi zhong ji	塔式起重机	4590
+ta niang	她娘	4550
+ta de qing xu	他的情绪	4520
+ta de yao qiu	她的要求	4465
+ta ke la ma gan sha mo	塔克拉玛干沙漠	4455
+ta bu xiang	它不像	4445
+ta ba	她爸	4444
+ta ji	他既	4444
+ta jie	她姐	4444
+ta si	他死	4444
+ta ju qi	他举起	4435
+ta peng you	他朋友	4425
+ta shi le	踏实了	4375
+ta de sheng yin	她的声音	4355
+ta ai shang le	他爱上了	4345
+ta yu	她与	4336
+ta yong li	他用力	4315
+ta gan cui	他干脆	4285
+ta ji ke	塔吉克	4280
+ta chu qu	他出去	4265
+ta tan yan	他坦言	4260
+ta de xin si	他的心思	4255
+ta di tou	他低头	4255
+ta chu lai	他出来	4225
+ta hen xiang	他很想	4210
+ta ru she hui	踏入社会	4200
+ta tai qi	他抬起	4200
+ta shuo zhe	她说着	4190
+ta ai ta	他爱她	4175
+ta si hou	他死后	4165
+ta la zhe	他拉着	4140
+ta cong lai bu	她从来不	4135
+ta yao yao tou	他摇摇头	4125
+ta zi cheng	他自称	4110
+ta bao zhe	她抱着	4085
+ta suo shuo	他所说	4075
+ta hen xiang	她很想	4070
+ta shen chu	他伸出	4070
+ta de bei	他的背	4065
+ta ren yin si	他人隐私	4020
+ta hua le	她花了	4005
+ta te yi	他特意	4000
+ta tang zai	她躺在	3995
+ta ta mi	榻榻米	3965
+ta de ge sheng	她的歌声	3930
+ta zhi xiang	他只想	3880
+ta chu lai	她出来	3875
+ta shen chu	她伸出	3875
+ta jiao wo	他叫我	3855
+ta de su du	他的速度	3810
+ta ting jian	他听见	3805
+ta shi	她使	3790
+ta zhong	他种	3780
+ta bu zai	他不在	3755
+ta lai le	她来了	3735
+ta bu zai	她不在	3700
+ta shang	他伤	3690
+ta zhi suo yi	它之所以	3690
+ta fa shi	他发誓	3680
+ta ai ni	他爱你	3670
+ta yao yao tou	她摇摇头	3635
+ta na zhe	她拿着	3620
+ta ping	踏平	3590
+ta xin xiang	他心想	3550
+ta de xin zang	他的心脏	3535
+ta huang mang	他慌忙	3525
+ta de qing xu	她的情绪	3520
+ta di	塔底	3490
+ta de tai du	她的态度	3455
+ta xia	塌下	3450
+ta kan zhe wo	他看着我	3445
+ta gei le wo	他给了我	3425
+ta xue wu hen	踏雪无痕	3405
+ta zhi zhe	她指着	3400
+ta zheng tian	他整天	3390
+ta hui lai le	他回来了	3385
+ta zai	她再	3380
+ta shi gan	塔什干	3355
+ta de yi	他得意	3335
+ta de mu yang	他的模样	3333
+ta de shen fen	他的身份	3333
+ta fa	他发	3333
+ta gan	她干	3333
+ta ge	她哥	3333
+ta geng can	他更惨	3333
+ta hao le	他好了	3333
+ta ji	她既	3333
+ta mang	他忙	3333
+ta mang zhe	他忙着	3333
+ta qiang	她抢	3333
+ta shi yong	他使用	3333
+ta shuai	他帅	3333
+ta sui zhe	他随着	3333
+ta ya	他呀	3333
+ta cai yong	他采用	3330
+ta die	她爹	3320
+ta de yi sheng	她的一生	3310
+ta bu ai ni	他不爱你	3285
+ta tai	塔台	3275
+ta hui rang ni	它会让你	3265
+ta zai jia	他在家	3260
+ta hai xiang	他还想	3240
+ta xue xun mei	踏雪寻梅	3215
+ta de wen rou	他的温柔	3205
+ta xiang quan zheng	他项权证	3200
+ta xia	踏下	3185
+ta chuan le	他穿了	3170
+ta bi xia	他笔下	3130
+ta xie	他写	3121
+ta ku le	他哭了	3120
+ta ting	她听	3071
+ta jiu hui	他就会	3070
+ta de bei	她的背	3065
+ta de yin jing	他的阴茎	3065
+ta xing	塔形	3065
+ta yong li	她用力	3060
+ta jian bang	他肩膀	3050
+ta de tong ku	他的痛苦	3030
+ta he le	他喝了	3030
+ta te yi	她特意	3000
+ta guo lai	他过来	2980
+ta men yuan lai	他们原来	2975
+ta jia gei	她嫁给	2955
+ta xian	他先	2949
+ta de chang fa	她的长发	2940
+ta yue	踏月	2925
+ta de bi zi	她的鼻子	2895
+ta chu qu	她出去	2890
+ta pai	塔牌	2881
+ta men ben shen	它们本身	2860
+ta li	他力	2840
+ta men zhan	他们站	2835
+ta de xing xiang	他的形象	2820
+ta de su du	她的速度	2810
+ta ceng zai	她曾在	2800
+ta suo dai	它所带	2790
+ta guo qu	她过去	2775
+ta na	他拿	2767
+ta ta	塔塔	2750
+ta hen gao xing	他很高兴	2740
+ta men gao	他们搞	2710
+ta yuan	塔院	2705
+ta ting jian	她听见	2685
+ta ying	塔影	2670
+ta hui shuo	她会说	2665
+ta de xin yi	他的心意	2645
+ta ning yuan	她宁愿	2625
+ta men de	它们的	2620
+ta gei wo	他给我	2604
+ta po tie xie wu mi chu	踏破铁鞋无觅处	2600
+ta de shu	他的书	2566
+ta zhi de shi	它指的是	2545
+ta zui jiao	他嘴角	2545
+ta ning ke	他宁可	2535
+ta jian wo	他见我	2520
+ta de shu	她的书	2500
+ta bei shang	他背上	2475
+ta xia lai	塌下来	2470
+ta yao tou	他摇头	2435
+ta gong cao yuan	塔公草原	2385
+ta ai ta	她爱他	2365
+ta ai shang le	她爱上了	2345
+ta tan yan	她坦言	2340
+ta bu ai wo	他不爱我	2320
+ta ka	塔卡	2295
+ta le	踏了	2290
+ta gao su	她告诉	2277
+ta ji ke zu	塔吉克族	2225
+ta de mu yang	她的模样	2222
+ta de shen fen	她的身份	2222
+ta dian	他点	2222
+ta geng can	她更惨	2222
+ta hao le	她好了	2222
+ta he	他喝	2222
+ta he ta	她和她	2222
+ta ji	它既	2222
+ta na	她拿	2222
+ta shi yong	她使用	2222
+ta shuo shen me	他说什么	2222
+ta sui zhe	她随着	2222
+ta xi	他洗	2222
+ta ya	她呀	2222
+ta zhi	他指	2222
+ta kai wan xiao	他开玩笑	2210
+ta ban che	踏板车	2205
+ta de wen rou	她的温柔	2205
+ta qin zi	她亲自	2205
+ta shi	它使	2200
+ta xiao xiao	他笑笑	2155
+ta gong si	塔公寺	2150
+ta shi zhe	他试着	2145
+ta chuan le	她穿了	2120
+ta zhe bei zi	他这辈子	2115
+ta bei	塔北	2095
+ta fan wen	他反问	2095
+ta de chuang zuo	他的创作	2090
+ta xiao	她笑	2090
+ta nian qing shi	他年轻时	2080
+ta dai zhe	他戴着	2070
+ta de lian	她的脸	2070
+ta xing le	他醒了	2055
+ta bu	塔布	2050
+ta hen gao xing	她很高兴	2050
+ta huang mang	她慌忙	2050
+ta de tong ku	她的痛苦	2030
+ta hu yu	她呼吁	2030
+ta dai dai	他呆呆	1980
+ta xiang zhe	他想着	1970
+ta de yuan wang	他的愿望	1955
+ta de qian	她的钱	1870
+ta fa shi	她发誓	1860
+ta wai	塔外	1860
+ta ta	踏踏	1835
+ta sha	她杀	1830
+ta zhi de shi	他指的是	1830
+ta xian	她先	1824
+ta de xing xiang	她的形象	1820
+ta de su du	它的速度	1810
+ta she bu de	她舍不得	1810
+ta sui	踏碎	1765
+ta ti	塔体	1765
+ta zhen xiang	他真想	1755
+ta gei le wo	她给了我	1725
+ta shan	他山	1720
+ta jie shi dao	他解释道	1715
+ta xiang yu gu zhi	他乡遇故知	1695
+ta da jiao	她大叫	1665
+ta zen me shuo	他怎么说	1635
+ta shang qu	他上去	1620
+ta hui lai le	她回来了	1605
+ta zuo meng	他做梦	1605
+ta gei wo	她给我	1604
+ta zen me le	他怎么了	1590
+ta zuo	塔座	1590
+ta zong yao	他总要	1570
+ta zhen xiang	她真想	1565
+ta jiao	踏脚	1560
+ta de xin li	她的心里	1540
+ta zhuang	塔状	1510
+ta fang	塌房	1500
+ta dao	踏到	1485
+ta shang qu	踏上去	1485
+ta zui shang	他嘴上	1455
+ta fang	他放	1450
+ta ju qi	她举起	1435
+ta ning ke	她宁可	1435
+ta zhe ge	她这个	1430
+ta qu le	他娶了	1410
+ta si mi	它似蜜	1401
+ta ta er zu	塔塔尔族	1385
+ta xian zai	她现在	1383
+ta men	塔门	1380
+ta tou	塔头	1365
+ta yi du	他一度	1360
+ta qian	榻前	1355
+ta xi huan wo	他喜欢我	1330
+ta ju li	他举例	1325
+ta kai zhe	他开着	1325
+ta jiao shi	踏脚石	1310
+ta de pi	他的皮	1280
+ta shang ren	他上任	1235
+ta ma ma	她妈妈	1233
+ta guo lai	她过来	1220
+ta bu ting	他不听	1210
+ta yuan si	塔院寺	1210
+ta bu shuo	他不说	1200
+ta de xin shi	他的心事	1200
+ta zui hao	他最好	1195
+ta ye ke yi	他也可以	1185
+ta chang	他常	1181
+ta bu shuo	她不说	1180
+ta chang	她常	1180
+ta ge chui gu guo qing ming	踏歌椎鼓过清明	1180
+ta ke yi	她可以	1180
+ta lian	她连	1180
+ta po tie ti wu mi chu	踏破铁蹄无觅处	1180
+ta suo xing	踏莎行	1180
+ta ye ke yi	她也可以	1180
+ta yu	她于	1180
+ta zheng zai	他正在	1180
+ta zhi shi shuo	他只是说	1180
+ta pai de	他拍的	1175
+ta chun	踏春	1170
+ta ye shi	他也是	1168
+ta li ya	塔利亚	1165
+ta kan bu jian	他看不见	1160
+ta cai shuo	他才说	1150
+ta men jian	他们间	1130
+ta de lei	他的泪	1120
+ta la	趿拉	1120
+ta yi	它意	1120
+ta a	她啊	1111
+ta deng	踏凳	1111
+ta dian	她点	1111
+ta hao le	它好了	1111
+ta he	她喝	1111
+ta jiu shi	她就是	1111
+ta lv	他律	1111
+ta man	她蛮	1111
+ta mang	她忙	1111
+ta mang zhe	她忙着	1111
+ta mei	她美	1111
+ta men dou	她们都	1111
+ta na	它拿	1111
+ta sang er gui	嗒丧而归	1111
+ta xi	她洗	1111
+ta xie	她写	1111
+ta ya	它呀	1111
+ta yang	他养	1111
+ta zhi	她指	1111
+ta zhong du	它中毒	1111
+ta de chuang zuo	她的创作	1090
+ta fan wen	她反问	1085
+ta he le	她喝了	1080
+ta you shou	他右手	1080
+ta dai zhe	她戴着	1070
+ta fu chou	塔夫绸	1070
+ta ta er	塔塔尔	1070
+ta you mei you	它有没有	1070
+ta ben yi wei	他本以为	1050
+ta men chang	他们厂	1030
+ta ren ne	他人呢	1025
+ta zhe	他者	1024
+ta jing gao	他警告	1015
+ta bu dao	他不到	1010
+ta bu ting	她不听	1005
+ta si she	塔斯社	1005
+ta xi huan wo	她喜欢我	1000
+ta zhan qi	他站起	1000
+ta zhi de	他值得	1000
+ta zhu fu	他嘱咐	1000
+ta sha si	他杀死	990
+ta cuo	踏错	985
+ta shi	塔式	981
+ta bu ting	他不停	980
+ta jin tian	他今天	965
+ta zhe	趿着	965
+ta po tie xie	踏破铁鞋	955
+ta cai shuo	她才说	950
+ta bi	她比	948
+ta bu ren	他不忍	935
+ta hai cheng	他还称	935
+ta yi ding hen ai ni	他一定很爱你	920
+ta cheng	塔城	917
+ta yu	它与	910
+ta zai	踏在	886
+ta dai ling	她带领	882
+ta yi xia	他一下	881
+ta yi xia	她一下	880
+ta gao xing	她高兴	855
+ta shang lai	他上来	855
+ta nian qing shi	她年轻时	850
+ta shang qu	她上去	850
+ta men jia	她们家	844
+ta zhong	塔中	837
+ta bi	塌鼻	835
+ta ku zhe	他哭着	815
+ta xin tong	他心通	810
+ta zhuan shen	她转身	810
+ta bu yang	塔布羊	804
+ta zhai xia	他摘下	785
+ta zhu zhang	她主张	782
+ta bu ting	她不停	780
+ta kan	踏看	770
+ta xiang quan li deng ji	他项权利登记	764
+ta mu de	塔木德	755
+ta hao bu	她毫不	753
+ta tou le	他偷了	745
+ta shan shi	他山石	740
+ta yao shi	她要是	735
+ta na li si	塔纳利斯	725
+ta fang	他方	724
+ta ye shi	她也是	720
+ta de xin zhong	她的心中	719
+ta tai qi	她抬起	711
+ta de shi	她的诗	705
+ta bing mei	他并没	702
+ta bing mei you	他并没有	702
+ta men qin zi	他们亲自	685
+ta de hun li	他的婚礼	666
+ta de hun li	她的婚礼	660
+ta gan de	他干得	655
+ta he xian	塔河县	650
+ta suo zuo	他所做	650
+ta bu zou	踏步走	645
+ta de yan lei	她的眼泪	643
+ta men nan	他们难	640
+ta de shou bi	她的手臂	635
+ta diao	塌掉	635
+ta xia lai	他下来	625
+ta hai shi bu dong	他还是不懂	615
+ta jin tian	她今天	605
+ta de yi si	她的意思	600
+ta de yan guang	她的眼光	598
+ta jiao de	踏脚的	585
+ta la wa	塔拉瓦	585
+ta xia qu	他下去	565
+ta ba ma	他爸妈	554
+ta de shi	她的事	550
+ta cheng	踏成	525
+ta lan tuo	塔兰托	520
+ta zhang de	她长得	520
+ta shi ku er gan ta ji ke zi zhi xian	塔什库尔干塔吉克自治县	510
+ta dui zhe	她对着	509
+ta zhi shi	他只是	503
+ta de sheng li	他的胜利	500
+ta lei	塔类	485
+ta jiao ban	踏脚板	480
+ta ye bu yong	他也不用	470
+ta dui xiang	她对象	469
+ta ben lai	他本来	466
+ta suo han	它所含	465
+ta bu dao	她不到	460
+ta ping	他凭	455
+ta ji	塔机	453
+ta ke yi	它可以	450
+ta tui	他推	444
+ta tui le	他推了	444
+ta bi zi	塌鼻子	440
+ta xian kai	他掀开	435
+ta de xin si	她的心思	425
+ta shi zuo	它是做	425
+ta xun	踏寻	425
+ta bu shi ni	他不是你	415
+ta ge	踏歌	415
+ta ge xing	踏歌行	415
+ta ji ke ren	塔吉克人	415
+ta de sheng li	她的胜利	400
+ta ai shang ta	他爱上她	375
+ta you ren wu	他有任务	373
+ta ba shou	他把手	371
+ta hui hui shou	他挥挥手	365
+ta shang lai	她上来	360
+ta xiang ren	他乡人	360
+ta qian yi bu	踏前一步	357
+ta tui jian	他推荐	357
+ta ping	她凭	355
+ta shi wo	他是我	355
+ta de xin zang	她的心脏	353
+ta yi hou	他以后	353
+ta jia li ren	他家里人	351
+ta cong	它从	350
+ta na na li fo	塔那那利佛	350
+ta xu yao	他需要	347
+ta yuan lai	他原来	347
+ta si man hai	塔斯曼海	345
+ta dui xiang	他对象	344
+ta ben lai	她本来	341
+ta you shen me	他有什么	341
+ta fei ke	塔菲克	340
+ta men dui	他们对	340
+ta bu zai xian	他不在线	339
+ta de hao	他的号	339
+ta ye hui	他也会	336
+ta ren pin	他人品	335
+ta bing le	他病了	333
+ta de yi	她得意	333
+ta le	他了	333
+ta me	他么	333
+ta na	他呐	333
+ta shui	他睡	333
+ta shui jiao	他睡觉	333
+ta shui le	他睡了	333
+ta tui	她推	333
+ta tui le	她推了	333
+ta zi shan gong yuan	塔子山公园	333
+ta zui li	他嘴里	333
+ta si ma ni ya dao	塔斯马尼亚岛	330
+ta men qi dai	他们期待	325
+ta yao shi	他要是	320
+ta bu shi ni	她不是你	315
+ta pai de	她拍的	315
+ta dang guo	他当过	310
+ta de yi ju yi dong	他的一举一动	300
+ta de yi qie	他的一切	300
+ta hao xiang	她好像	300
+ta hen tou le	他恨透了	300
+ta shi ku er gan xian	塔什库尔干县	299
+ta cheng di qu	塔城地区	296
+ta ke la ma gan da sha mo	塔克拉玛干大沙漠	296
+ta xian qu	她先去	293
+ta yi xia	它一下	288
+ta de pi	她的皮	280
+ta men zhan	她们站	280
+ta zhong	塔钟	280
+ta ai shang ta	她爱上他	275
+ta ting shuo	他听说	274
+ta zhong wu	他中午	267
+ta jie shao	他介绍	266
+ta cai	踏踩	265
+ta hui hui shou	她挥挥手	265
+ta de xin yi	她的心意	264
+ta jie de	他接的	240
+ta wa lei si	塔瓦雷斯	240
+ta xia qu	她下去	240
+ta qian	塔前	238
+ta zao jiu	他早就	231
+ta de xin qing	她的心情	230
+ta gai si	他该死	230
+ta ye xiang	他也想	230
+ta men zhe	他们这	229
+ta you zai	他又在	229
+ta zhen shi	他真是	229
+ta bing le	她病了	222
+ta de meng xiang	他的梦想	222
+ta de zhao pian	他的照片	222
+ta hen	他恨	222
+ta jie	他借	222
+ta lao	他老	222
+ta lao le	他老了	222
+ta le	她了	222
+ta me	她么	222
+ta na	她呐	222
+ta ping jie	他凭借	222
+ta ping jie zhe	他凭借着	222
+ta ping zhe	他凭着	222
+ta pu	他扑	222
+ta pu dao	他扑到	222
+ta shou zhong	他手中	222
+ta shui	她睡	222
+ta shui jiao	她睡觉	222
+ta shui le	她睡了	222
+ta tui	他退	222
+ta tui le	他退了	222
+ta xi zao	他洗澡	222
+ta xi zao ne	他洗澡呢	222
+ta xue	他学	222
+ta yan	他演	222
+ta yan le	他演了	222
+ta yan xi	他演戏	222
+ta zhao pian	他照片	222
+ta zhi qian	他之前	222
+ta zui li	她嘴里	222
+ta men chang	他们长	220
+ta xi tuo	塔西佗	218
+ta ta shi shi de	踏踏实实地	215
+ta cheng shi	塔城市	210
+ta dang guo	她当过	210
+ta wan	塔湾	202
+ta de yi ju yi dong	她的一举一动	200
+ta de yi qie	她的一切	200
+ta men bu zhi dao	他们不知道	200
+ta men mei you	他们没有	199
+ta dai dai	她呆呆	198
+ta mi mu	塔米姆	197
+ta de yuan wang	她的愿望	195
+ta fang	踏访	195
+ta shi gong zuo	踏实工作	194
+ta li mu da xue	塔里木大学	193
+ta zhi	他治	188
+ta shang tou le	他伤透了	185
+ta zhi shi jing guo	他只是经过	185
+ta er de	塔尔德	184
+ta wei xin	他微信	184
+ta he wan	塔河湾	175
+ta li mu ma lu	塔里木马鹿	171
+ta tai	塌台	170
+ta lei mi	塔雷米	169
+ta la ha xi	塔拉哈西	167
+ta shi ku er gan	塔什库尔干	164
+ta zhi qian	她之前	163
+ta zen me le	她怎么了	159
+ta neng gou shi	它能够使	153
+ta shi zuo shi	踏实做事	151
+ta beng	塔崩	150
+ta hen tou le	她恨透了	150
+ta you mei you	他有没有	150
+ta ye zhi dao	他也知道	149
+ta mei li wo	他没理我	146
+ta jiao shen me	他叫什么	143
+ta mei shi jian	他没时间	143
+ta li si	塔里斯	142
+ta shi liu yin	踏石留印	142
+ta li ya fei ke	塔利亚菲科	141
+ta si qi	塔思琦	141
+ta jie de	她接的	140
+ta yuan zhuang	塔元庄	140
+ta de shen hua	她的神话	139
+ta rui si	塔瑞斯	137
+ta ling	塔岭	134
+ta cai ya	塔猜亚	132
+ta shan he	踏山河	130
+ta yin	他引	128
+ta shang xin zheng cheng	踏上新征程	127
+ta dai yi	塔代伊	126
+ta le ge kong	踏了个空	125
+ta ying de de	他应得的	125
+ta ying de de	她应得的	125
+ta la zhe	趿拉着	123
+ta la zhe xie	趿拉着鞋	123
+ta yi xia	踏一下	123
+ta da la fei	他达拉非	122
+ta yi wei	她以为	122
+ta men de ge	他们的歌	121
+ta shou ji hao	他手机号	121
+ta de lei	她的泪	120
+ta de xin shi	她的心事	120
+ta ke ma	塔科马	120
+ta zhai cun	塔寨村	119
+ta zui hao	她最好	119
+ta qi fu wo	他欺负我	118
+ta qing shang hua	踏青赏花	116
+ta er ta luo si	塔尔塔罗斯	114
+ta ni te	塔尼特	114
+ta bing le	它病了	111
+ta cha	他差	111
+ta cha dian	他差点	111
+ta cha dian er	他差点儿	111
+ta de zhao pian	她的照片	111
+ta hen	她恨	111
+ta jie	她借	111
+ta lao	她老	111
+ta lao le	她老了	111
+ta le	它了	111
+ta luo	塔罗	111
+ta me	它么	111
+ta na	它呐	111
+ta ne	它呢	111
+ta ping jie	她凭借	111
+ta ping jie zhe	她凭借着	111
+ta ping zhe	她凭着	111
+ta pu	她扑	111
+ta pu dao	她扑到	111
+ta shi yong	它使用	111
+ta shou zhong	她手中	111
+ta shui	它睡	111
+ta shui jiao	它睡觉	111
+ta shui le	它睡了	111
+ta sui zhe	它随着	111
+ta te	她特	111
+ta tui	她退	111
+ta tui le	她退了	111
+ta xi zao	她洗澡	111
+ta xi zao ne	她洗澡呢	111
+ta xin	他信	111
+ta xue	她学	111
+ta yan	她演	111
+ta yan le	她演了	111
+ta yan xi	她演戏	111
+ta zhao pian	她照片	111
+ta zhi shi	她只是	111
+ta ge qing	踏个青	110
+ta you shou	她右手	108
+ta shi liang	塔矢亮	106
+ta bian qing shan ren wei lao	踏遍青山人未老	105
+ta la ba	塔拉巴	105
+ta men xiang	他们想	105
+ta ying gai shi	他应该是	105
+ta wu ran	铊污染	104
+ta ke lin	塔克林	101
+ta ai de ren	他爱的人	100
+ta ai shang le ta	他爱上了她	100
+ta ai shang le wo de huang	她爱上了我的谎	100
+ta ba de	塔巴德	100
+ta ba la wo	他扒拉我	100
+ta ba ma	她爸妈	100
+ta ba ni	他把你	100
+ta ba zhen	塔巴镇	100
+ta ban de dao	他办得到	100
+ta bei pan le	她背叛了	100
+ta bei sha	踏鞴砂	100
+ta bei wu yu	踏鞴物语	100
+ta bian le	他变了	100
+ta bian tian ya fei wo yuan	踏遍天涯非我愿	100
+ta bo hui	它博会	100
+ta bo lan ni ke	塔波兰尼克	100
+ta bu ai le	他不爱了	100
+ta bu ai wo le	她不爱我了	100
+ta bu bu qian	踏步不前	100
+ta bu dui jin	他不对劲	100
+ta bu er ru	踏步而入	100
+ta bu fang jia	他不放假	100
+ta bu ji	踏步机	100
+ta bu leng	他不冷	100
+ta bu li wo	她不理我	100
+ta bu min	塔不敏	100
+ta bu min gan	塔不敏感	100
+ta bu min le	塔不敏了	100
+ta bu neng	他不能	100
+ta bu shi shen me	他不是什么	100
+ta bu shi yi ge ren	他不是一个人	100
+ta bu shou	他不收	100
+ta bu shou	她不收	100
+ta bu xi huan	她不喜欢	100
+ta bu xin	他不信	100
+ta bu xin a	他不信啊	100
+ta bu zhi dao	她不知道	100
+ta ceng shuo	他曾说	100
+ta ceng shuo	她曾说	100
+ta chang fa piao piao	她长发飘飘	100
+ta chang shi	他尝试	100
+ta chang shi zhe	他尝试着	100
+ta chao ni de jia	它抄你的家	100
+ta cheng zhang	他成长	100
+ta chong sheng le	他重生了	100
+ta chu di yi bu	踏出第一步	100
+ta chu lai	踏出来	100
+ta chu qu	踏出去	100
+ta chuan qi	他传奇	100
+ta chuan qi	她传奇	100
+ta cuo le yi bu	踏错了一步	100
+ta cuo yi bu	踏错一步	100
+ta da ni	他打你	100
+ta da wo	他打我	100
+ta da wo ma	他打我妈	100
+ta da ye	他大爷	100
+ta da ye de	他大爷的	100
+ta dai ni qu	他带你去	100
+ta dai ta qu	他带他去	100
+ta dai wo qu	他带我去	100
+ta dan shen	她单身	100
+ta dao bu dan xin	他倒不担心	100
+ta dao di shi shen me	他到底是什么	100
+ta dao hao	他倒好	100
+ta dao qian	他道歉	100
+ta dao qian	她道歉	100
+ta de bei shang	他的背上	100
+ta de ben shi	他的本事	100
+ta de bing	他的病	100
+ta de chan di	它的产地	100
+ta de chang du	它的长度	100
+ta de cheng du	他的程度	100
+ta de chu wen	他的初吻	100
+ta de chu wen	她的初吻	100
+ta de chuan qi	她的传奇	100
+ta de chuan shuo	她的传说	100
+ta de dao li	他的道理	100
+ta de dong li xi tong	它的动力系统	100
+ta de dong zuo	他的动作	100
+ta de fen	他的份	100
+ta de fen	她的份	100
+ta de fen er	他的份儿	100
+ta de fen er	她的份儿	100
+ta de gan jue	他的感觉	100
+ta de gao du	它的高度	100
+ta de gen xi	它的根系	100
+ta de gong li	他的功力	100
+ta de gui mo	它的规模	100
+ta de hou du	它的厚度	100
+ta de jian	他的剑	100
+ta de jiao du	他的角度	100
+ta de kuan du	它的宽度	100
+ta de lian jia	他的脸颊	100
+ta de meng xiang	她的梦想	100
+ta de ming	他的命	100
+ta de ming zi jiao	他的名字叫	100
+ta de ming zi jiao shen me	他的名字叫什么	100
+ta de ming zi jiao zuo xiao wei	她的名字叫作小薇	100
+ta de mo shi	它的模式	100
+ta de nan du	它的难度	100
+ta de qian cheng	他的前程	100
+ta de qiang du	它的强度	100
+ta de re du	它的热度	100
+ta de ren she	他的人设	100
+ta de ruan lei	他的软肋	100
+ta de ruan lei shi	他的软肋是	100
+ta de shen du	它的深度	100
+ta de sheng zhang	它的生长	100
+ta de sheng zhang huan jing	它的生长环境	100
+ta de sheng zhang su du	它的生长速度	100
+ta de shi	他的是	100
+ta de shi li	他的实力	100
+ta de shou	他的手	100
+ta de shou	她的手	100
+ta de shou cang jia zhi	它的收藏价值	100
+ta de shou shi lv	它的收视率	100
+ta de shu shi du	它的舒适度	100
+ta de si sheng huo	她的私生活	100
+ta de si xu	他的思绪	100
+ta de wen ti	他的问题	100
+ta de xiong kou	他的胸口	100
+ta de xu qiu	他的需求	100
+ta de yao	他的腰	100
+ta de yi ju yi dong	它的一举一动	100
+ta de yi qie	它的一切	100
+ta de yi sheng	它的一生	100
+ta de yin yue	他的音乐	100
+ta de yu pan	他的预判	100
+ta de zhi di	它的质地	100
+ta de zhi ming du	他的知名度	100
+ta de zhong chang	他的终场	100
+ta de zhong dian	他的重点	100
+ta de zhuang tai	他的状态	100
+ta di qi	塔迪奇	100
+ta di si	塔迪斯	100
+ta ding de	他定的	100
+ta dong ci	他动词	100
+ta dou gan	他都敢	100
+ta dou mei gei wo	他都没给我	100
+ta dou shan	塔斗山	100
+ta dou zhi dao	她都知道	100
+ta dui qi de si xiang	他堆砌的死巷	100
+ta dui wo	他对我	100
+ta duo shao fen	他多少分	100
+ta er ba ha tai	塔尔巴哈台	100
+ta er sa zhi wang	塔尔萨之王	100
+ta er tu	塔尔图	100
+ta fang la	塌房啦	100
+ta fang le	塌房了	100
+ta fang le	塌方了	100
+ta feng le	他疯了	100
+ta feng le ba	他疯了吧	100
+ta gao de gui	他搞的鬼	100
+ta ge er xing	踏歌而行	100
+ta gei song qu	他给送去	100
+ta gen wo shuo	她跟我说	100
+ta gou wu xiao	塔沟武校	100
+ta hai ai zhe	他还爱着	100
+ta hai ai zhe ni	他还爱着你	100
+ta hai dei xie xie zan	他还得谢谢咱	100
+ta hai dei xie xie zan ne	他还得谢谢咱呢	100
+ta hai huo zhe	他还活着	100
+ta hai huo zhe	她还活着	100
+ta hai mei	他还没	100
+ta hai mei	她还没	100
+ta hai mei hui lai	他还没回来	100
+ta hai shi	她还是	100
+ta hai shi ge hai zi	他还是个孩子	100
+ta hai shi ta	他还是他	100
+ta hai shi ta	他还是她	100
+ta hai shi ta	她还是她	100
+ta hai shuo	她还说	100
+ta hai ti dao	他还提到	100
+ta hai zai	她还在	100
+ta hai zhi shi ge hai zi	他还只是个孩子	100
+ta hao duan duan	他好端端	100
+ta hao duan duan	她好端端	100
+ta hao wo ye hao	他好我也好	100
+ta he duo le	他喝多了	100
+ta hen gu du	他很孤独	100
+ta hong chen	踏红尘	100
+ta hua zi zai tian	他化自在天	100
+ta hui bu hui	她会不会	100
+ta hui jia le	她回家了	100
+ta hui lao jia	他回老家	100
+ta ji ke gong he guo	塔吉克共和国	100
+ta ji yu	獭祭鱼	100
+ta jia lu yu	他加禄语	100
+ta jia lu zu yu	塔加路族语	100
+ta jie hun le	她结婚了	100
+ta jin guo	塔金国	100
+ta jin wang guo	塔金王国	100
+ta jing ji	她经济	100
+ta jiu bu shi	他就不是	100
+ta jiu jing shi shen me	它究竟是什么	100
+ta jiu shi ge	他就是个	100
+ta jiu shi ta	他就是他	100
+ta jiu shi wo	他就是我	100
+ta jiu shuo	她就说	100
+ta jiu you	他就有	100
+ta jue ding	他决定	100
+ta jue ding le	他决定了	100
+ta kan zhe wo	她看着我	100
+ta ke bu shi	他可不是	100
+ta ke cai	塌棵菜	100
+ta ke si	塔可斯	100
+ta ke si wang	塔可斯王	100
+ta ke xin	塔克辛	100
+ta ke zhi	他克制	100
+ta ke zhi	她克制	100
+ta kong er xing	踏空而行	100
+ta ku le	她哭了	100
+ta ku zhe shuo	她哭着说	100
+ta la de shi	他拉的屎	100
+ta la de shi	她拉的屎	100
+ta lai cai	他来猜	100
+ta lai ding	他来定	100
+ta lai la	他来啦	100
+ta lai la ta lai la	他来啦他来啦	100
+ta lai le qing bi yan	他来了请闭眼	100
+ta lai le ta lai le	他来了他来了	100
+ta lai ta qu	踏来踏去	100
+ta lan zhi	拓蓝纸	100
+ta lang er lai	踏浪而来	100
+ta lang er xing	踏浪而行	100
+ta lang qian xing	踏浪前行	100
+ta lao gong	她老公	100
+ta lao po	他老婆	100
+ta le ba	他了吧	100
+ta le bu	塔勒布	100
+ta li dong lu	塔利东路	100
+ta li kai le	他离开了	100
+ta li kai le	她离开了	100
+ta li ke	塔里克	100
+ta li mian	他里面	100
+ta li zi	铊离子	100
+ta lie lang	塔列朗	100
+ta lie xin	塔列辛	100
+ta lu er xing	踏路而行	100
+ta lun di nuo	塔伦蒂诺	100
+ta luo du	塌落度	100
+ta luo ka	塔罗卡	100
+ta luo pai	塔罗牌	100
+ta lv xing	他律性	100
+ta ma bi de	他妈逼的	100
+ta ma de a	他妈的啊	100
+ta ma de bu xiang huo le	他妈的不想活了	100
+ta ma de fu le	他妈的服了	100
+ta ma de fu le a	他妈的服了啊	100
+ta ma de jue le	他妈的绝了	100
+ta ma er	塔玛尔	100
+ta ma fu le	他妈服了	100
+ta ma gui le	他妈贵了	100
+ta ma le ge	他妈了个	100
+ta ma le ge bi	他妈了个逼	100
+ta ma le ge bi de	他妈了个逼的	100
+ta ma li hai	他妈厉害	100
+ta ma li pu	他妈离谱	100
+ta ma xi	塔玛希	100
+ta ma yao	他妈要	100
+ta ma zhen jing	他妈震惊	100
+ta ma zhen jing le	他妈震惊了	100
+ta mei hui jia	他没回家	100
+ta mei hui qu	他没回去	100
+ta mei le	他没了	100
+ta mei ma	她美吗	100
+ta mei na me xi huan ni	他没那么喜欢你	100
+ta mei nian	他每年	100
+ta mei shi	他没事	100
+ta mei si	她没死	100
+ta mei you	他没有	100
+ta mei you	她没有	100
+ta mei you ban fa	他没有办法	100
+ta mei you cuo	他没有错	100
+ta mei you cuo	她没有错	100
+ta mei you gong zuo	她没有工作	100
+ta mei you na me xi huan ni	他没有那么喜欢你	100
+ta mei yue	他每月	100
+ta men chang le	他们唱了	100
+ta men chi shen me	他们吃什么	100
+ta men de ren	他们的人	100
+ta men de yi qie	他们的一切	100
+ta men de you shi	他们的优势	100
+ta men dou lao le	他们都老了	100
+ta men dou shuo	他们都说	100
+ta men dou zai kan	他们都在看	100
+ta men dou zou le	他们都走了	100
+ta men hai huo zhe	他们还活着	100
+ta men hui lai le	他们回来了	100
+ta men jue de	他们觉得	100
+ta men la	他们啦	100
+ta men lai le	他们来了	100
+ta men lian ai le	他们恋爱了	100
+ta men mei le	他们没了	100
+ta men mei you zai yi qi	他们没有在一起	100
+ta men qu na	他们去哪	100
+ta men ren ne	他们人呢	100
+ta men sa	他们仨	100
+ta men sa	她们仨	100
+ta men shen hou	他们身后	100
+ta men shuo de	他们说的	100
+ta men si le	他们死了	100
+ta men ye bu hui	他们也不会	100
+ta men you shen me	他们有什么	100
+ta men zai cheng zhang	他们在成长	100
+ta men zai chi fan	他们在吃饭	100
+ta men zai gan shen me	他们在干什么	100
+ta men zai wai mian	他们在外面	100
+ta men zai xing dong	他们在行动	100
+ta men zai zuo shen me	他们在做什么	100
+ta men zhe ban	他们这般	100
+ta men zhe ban	她们这般	100
+ta men zou le	他们走了	100
+ta mian qian	他面前	100
+ta miao de	他喵的	100
+ta min gan	塔敏感	100
+ta min le	塔敏了	100
+ta mo ren	他默认	100
+ta mo ren	她默认	100
+ta mo ren le	他默认了	100
+ta mo ren le	她默认了	100
+ta mu de jing	塔木德经	100
+ta na su gan	塔娜苏甘	100
+ta nai nai de	他奶奶的	100
+ta nai nai ge xiong	他奶奶个熊	100
+ta nai nai jia	他奶奶家	100
+ta nan peng you	她男朋友	100
+ta nian shei zuo yu di zhi	他年谁作舆地志	100
+ta nian shui zuo yu di zhi	他年谁作舆地志	100
+ta nu li	他努力	100
+ta nu li zhe	他努力着	100
+ta nv er	他女儿	100
+ta nv peng you	他女朋友	100
+ta pian yi	它便宜	100
+ta ping shen me	他凭什么	100
+ta po fang	他破防	100
+ta po fang le	他破防了	100
+ta po le	踏破了	100
+ta po le men kan	踏破了门槛	100
+ta po le shu lin	踏破了树林	100
+ta po xu kong	踏破虚空	100
+ta qian qi	他前妻	100
+ta qing de ke ren	他请的客人	100
+ta qing shang chun	踏青赏春	100
+ta qiu hun	他求婚	100
+ta qu le na li	她去了哪里	100
+ta que shi	他确实	100
+ta ran zi sang	嗒然自丧	100
+ta rang wo	她让我	100
+ta ren de	他人的	100
+ta ren de	他认得	100
+ta ren de guan xi	他人的关系	100
+ta ren de lian	他人的脸	100
+ta ren ji di yu	他人即地狱	100
+ta ren ming yun	他人命运	100
+ta ren zuo you	他人左右	100
+ta ri qu ting	他日趋庭	100
+ta ru gong que	踏入宫阙	100
+ta ru men zhong	踏入门中	100
+ta ru yu le quan	踏入娱乐圈	100
+ta sha a	他傻啊	100
+ta shan zhi gong	他山之攻	100
+ta shang feng huo lun	踏上风火轮	100
+ta shang lai	踏上来	100
+ta shang le hui jia de lu	踏上了回家的路	100
+ta shang yue tai	踏上月台	100
+ta shen bian	他身边	100
+ta shen bian	她身边	100
+ta shen bian	它身边	100
+ta shen me dou zhi dao	她什么都知道	100
+ta sheng zhang	它生长	100
+ta shi bu shi	他是不是	100
+ta shi bu shi	她是不是	100
+ta shi chuan qi	他是传奇	100
+ta shi de	踏实地	100
+ta shi de gan jue	踏实的感觉	100
+ta shi de tai du	踏实的态度	100
+ta shi gan huo che tou	塔什干火车头	100
+ta shi gan mian nong	塔什干棉农	100
+ta shi ge huai ren	他是个坏人	100
+ta shi huai ren	他是坏人	100
+ta shi jiao	踏实觉	100
+ta shi jie dao	鿎石街道	100
+ta shi ku er gan zi zhi xian	塔什库尔干自治县	100
+ta shi na de	他是哪的	100
+ta shi pao hui	他是炮灰	100
+ta shi qian xing	踏实前行	100
+ta shi shen me	他是什么	100
+ta shi wen zhong	踏实稳重	100
+ta shi zhi	他是指	100
+ta shi zhi	她是指	100
+ta shou li	她手里	100
+ta shu le	他输了	100
+ta shui er xing	踏水而行	100
+ta shuo de	他说的	100
+ta shuo de	她说的	100
+ta shuo de ying gai	他说的应该	100
+ta shuo hua zhi	他说话直	100
+ta shuo le	他说了	100
+ta shuo le suan	她说了算	100
+ta shuo ni	他说你	100
+ta shuo ni shi	他说你是	100
+ta shuo sha le	他说啥了	100
+ta shuo shen me	她说什么	100
+ta shuo shi	他说是	100
+ta shuo shi	她说是	100
+ta shuo ta	他说他	100
+ta shuo ta shi	他说他是	100
+ta si dao	塔斯岛	100
+ta si de bu lei ni	塔斯的布蕾妮	100
+ta si ding gou	塔斯丁狗	100
+ta si le	她死了	100
+ta si ma ni ya	塔斯马尼亚	100
+ta si man ni ya	塔斯曼尼亚	100
+ta si man ni ya dao	塔斯曼尼亚岛	100
+ta ta er	塔塔儿	100
+ta ta er ren	塔塔儿人	100
+ta ta kai	塔塔开	100
+ta ta kai a	塔塔开啊	100
+ta ta kan	踏踏看	100
+ta ta ma	他他妈	100
+ta ta ma de	他他妈的	100
+ta ta me	他他么	100
+ta ta me de	他他么的	100
+ta ta mi di tai	榻榻米地台	100
+ta ta shi shi deng zhe	踏踏实实等着	100
+ta tai cai le	他太菜了	100
+ta tai tai	他太太	100
+ta tao yan	他讨厌	100
+ta te me de	他特么的	100
+ta ti ge	他提个	100
+ta ti le yi ge	他提了一个	100
+ta ti nei	他体内	100
+ta ti yi ge	他提一个	100
+ta ting dao le	他听到了	100
+ta ting jian le	他听见了	100
+ta tong shi	她同事	100
+ta tu di	他徒弟	100
+ta tui kai men	他推开门	100
+ta tui kai men wan feng huang le mei you deng yi zhen	他推开门晚风晃了煤油灯一阵	100
+ta wa si ke	塔瓦斯科	100
+ta wei er	塔卫二	100
+ta wei le ta	他为了她	100
+ta wei shen me	她为什么	100
+ta wen wo	他吻我	100
+ta xi diao wan deng	她熄掉晚灯	100
+ta xi ti	塔希提	100
+ta xi ti dao	塔希提岛	100
+ta xia lai	踏下来	100
+ta xia le xia tian	他夏了夏天	100
+ta xia qu	塌下去	100
+ta xia qu	踏下去	100
+ta xian lai	他先来	100
+ta xian lai ba	他先来吧	100
+ta xian qu	塌陷区	100
+ta xian shuo	他先说	100
+ta xian shuo	她先说	100
+ta xian tiao	他先挑	100
+ta xian xuan	他先选	100
+ta xian zai	他现在	100
+ta xiang xue	他想学	100
+ta xiang yu gu	他乡遇故	100
+ta xiao shi hou	他小时候	100
+ta xiao shi le	他消失了	100
+ta xing zou yu hei an zhong	她行走于黑暗中	100
+ta xue ni	踏雪泥	100
+ta xue xun long	踏雪寻龙	100
+ta yan ruo sang	嗒焉若丧	100
+ta yang le	他养了	100
+ta yang le	她养了	100
+ta ye bu xing	他也不行	100
+ta ye bu zhi dao	他也不知道	100
+ta ye mei	他也没	100
+ta ye mei	她也没	100
+ta ye meng li jian fang zong	他夜梦里见芳踪	100
+ta ye yao	他也要	100
+ta yi bie wu xuan ze	他已别无选择	100
+ta yi bu	踏一步	100
+ta yi ge	塌一个	100
+ta yi ge ren	她一个人	100
+ta yi jing bu ai ni le	他已经不爱你了	100
+ta yi jing si le	他已经死了	100
+ta yi jing zou le	他已经走了	100
+ta yi shi	他已是	100
+ta yi wu ji ke shi	他已无计可施	100
+ta yi zhi dou zai	他一直都在	100
+ta yi zhi dou zai	她一直都在	100
+ta yin lv	他引率	100
+ta ying le	他赢了	100
+ta you bu zhi dao	他又不知道	100
+ta you dui xiang	她有对象	100
+ta you mei you	他又没有	100
+ta you mei you	她有没有	100
+ta you shen me hao	他有什么好	100
+ta you ta de	他有他的	100
+ta yu ai tong zui	他与爱同罪	100
+ta yuan su	铊元素	100
+ta yun er zhi	踏云而至	100
+ta yun shan	塔云山	100
+ta zai che dan	他在扯淡	100
+ta zai chui niu	他在吹牛	100
+ta zai ma	他在吗	100
+ta zai na ne	他在哪呢	100
+ta zai na ne	她在哪呢	100
+ta zai xiang xiang	他再想想	100
+ta zao wan	他早晚	100
+ta zao wan hui	他早晚会	100
+ta zen me	他怎么	100
+ta zen me	她怎么	100
+ta zen me shuo	她怎么说	100
+ta zen me shuo de	他怎么说的	100
+ta zen me xiang	他怎么想	100
+ta zhang da	他长大	100
+ta zhao ruo shi	他朝若是	100
+ta zhao ruo shi tong lin xue	他朝若是同淋雪	100
+ta zhe ban	他这般	100
+ta zhe ban	她这般	100
+ta zhe er	他这儿	100
+ta zhe kuan	他这款	100
+ta zhe kuan	她这款	100
+ta zhe ni ning	踏着泥泞	100
+ta zhe qi cai xiang yun	踏着七彩祥云	100
+ta zhe ren	他这人	100
+ta zhen de	他真的	100
+ta zhen jian	他真贱	100
+ta zhen jian a	他真贱啊	100
+ta zhi dao ma	他知道吗	100
+ta zhi guan	他只管	100
+ta zhong du	铊中毒	100
+ta zhong du an	铊中毒案	100
+ta zhong du an jian	铊中毒案件	100
+ta zhong du shi jian	铊中毒事件	100
+ta zhong liang qing	它重量轻	100
+ta zhong ta	塔中塔	100
+ta zhong yu hui lai	他终于回来	100
+ta zhong yu hui lai le	他终于回来了	100
+ta zhun bei	他准备	100
+ta zi ji de	他自己的	100
+ta zong shi chui niu	他总是吹牛	100
+ta zou la	他走啦	100
+ta zou le zhi hou	她走了之后	100
+ta zu ban	踏足板	100
+ta zuo zhu	他做主	100
+ta zuo zhu	她做主	100
+ta cha	踏查	98
+ta bu tong yi	他不同意	97
+ta er de li	塔尔德利	97
+ta hua bei	踏花被	90
+ta cha	塔刹	89
+ta li mu shi you jiu dian	塔里木石油酒店	89
+ta xia lai	她下来	89
+ta er si	拓尔思	88
+ta cheng zhong yuan	塔城中院	87
+ta rong	阘茸	85
+ta shang tou le	她伤透了	85
+ta tou le	她偷了	84
+ta bu xia lai	塌不下来	79
+ta dou shi	他都是	78
+ta ta	塌塌	76
+ta bu shi	它不是	75
+ta xia jia su ta ban	踏下加速踏板	75
+ta mei tian	他每天	74
+ta jiu jiao	他就叫	73
+ta mei zai xian	他没在线	71
+ta mu yu	鳎目鱼	70
+ta wan jie	塔湾街	69
+ta jiu shi	它就是	67
+ta you shi	他有事	66
+ta gu ji	她估计	65
+ta shi dian	塔什店	65
+ta za	沓杂	65
+ta fu tuo	塔夫脱	64
+ta hui fu	他回复	64
+ta jia li	他家里	64
+ta shi xiang	他是想	64
+ta zhe shi	他这是	64
+ta zhe zhong	他这种	64
+ta men xian zai	他们现在	63
+ta men he	他们和	62
+ta men jiu	他们就	62
+ta xia wu	他下午	62
+ta zhi yao	他只要	62
+ta kan tou le	她看透了	60
+ta shui qiao	踏水桥	56
+ta bu liao	塌不了	55
+ta ban cao	踏板操	53
+ta xie	拓写	50
+ta shan cun	塔山村	48
+ta zai cong zhong xiao	她在丛中笑	47
+ta hua he wu	铊化合物	44
+ta di tou	她低头	42
+ta men qi	他们期	40
+ta ran ruo sang	嗒然若丧	40
+ta ran ruo shi	嗒然若失	40
+ta ran	嗒然	35
+ta si hai	塔斯海	35
+ta wa ku le xiang	塔瓦库勒乡	34
+ta shan zhi shi ke yi gong yu	他山之石可以攻玉	32
+ta shan zhi yu	他山之玉	31
+ta pai de	他排的	30
+ta sha xiang	他砂乡	28
+ta ke mo si	他克莫司	27
+ta si	塔寺	27
+ta jie de	他结的	25
+ta ren yi yi ge	他人亦已歌	24
+ta si ma ni ya mo gui	塔斯马尼亚魔鬼	24
+ta ma	她妈	22
+ta ti rang xiang	塔提让乡	22
+ta shan gong yuan	塔山公园	21
+ta jie de	她结的	20
+ta la ban er	趿拉板儿	20
+ta luan	沓乱	20
+ta er po	塔尔坡	19
+ta shi ku er gan xiang	塔什库尔干乡	18
+ta dou cun	塔兜村	16
+ta huang	塔黄	16
+ta bu zai a	他不在啊	15
+ta pai de	她排的	15
+ta si man ni ya hu	塔斯曼尼亚虎	14
+ta xi ti hei zhen zhu	塔希提黑珍珠	14
+ta zuo ba tan na	他唑巴坦钠	13
+ta bu gan	他不敢	12
+ta gen wo	他跟我	12
+ta mei hui	他没回	12
+ta mu	塔姆	12
+ta shou ji	他手机	12
+ta ta mian	挞挞面	12
+ta fa	他法	11
+ta ga er qi xiang	塔尕尔其乡	11
+ta ma	她吗	11
+ta yuan xiao qu nan men	塔院小区南门	11
+ta zai na li	她在那里	11
+ta zi	塔子	11
+ta zuo ba tan	他唑巴坦	11
+ta zai na li	她在哪里	10
+ta shang cun	塔上村	9
+ta ya yi xiang	塔崖驿乡	9
+ta ge la ke mu chang	塔格拉克牧场	8
+ta ka xi chun	他卡西醇	8
+ta yuan cun	塔园村	8
+ta bu le he te meng gu min zu xiang	塔布勒合特蒙古民族乡	7
+ta guan ju	塔管局	7
+ta ke neng	他可能	7
+ta ke xi la gu cheng yi zhi	塔克西拉古城遗址	7
+ta ri xin neng	拓日新能	7
+ta bu sai xiang	塔布赛乡	6
+ta chao	他朝	6
+ta mo xi fen	他莫昔芬	6
+ta ni xiang	塔泥乡	6
+ta shi ku er gan da wei yang	塔什库尔干大尾羊	5
+ta wan zhen	塔湾镇	5
+ta wen ao bao zhen	塔温敖宝镇	5
+ta xiang gu zhi	他乡故知	5
+ta ying cun	塔营村	5
+ta ying gai	他应该	5
+ta dong cun	塔东村	4
+ta er cun xiang	塔儿村乡	4
+ta ka	踏卡	4
+ta lv bo	踏绿波	4
+ta na ge	他那个	4
+ta qian cun	塔前村	4
+ta shan xi lu	塔山西路	4
+ta xiang sheng gu xiang	他乡胜故乡	4
+ta ying yuan	塔影苑	4
+ta zi ba	塔子坝	4
+ta cheng xian	塔城县	3
+ta lu mao	塔鲁帽	3
+ta na bian	他那边	3
+ta shan xiang	塌山乡	3
+ta shi cun	塔石村	3
+ta xing	塔兴	3
+ta ying xin cun	塔影新村	3
+ta bi hou	塌鼻猴	2
+ta de fei wo xian	他得非我贤	2
+ta de mu yang	它的模样	2
+ta dong	他懂	2
+ta dong	她懂	2
+ta dong	它懂	2
+ta dun	蹋顿	2
+ta er gen zhen	塔尔根镇	2
+ta geng can	它更惨	2
+ta he xiang	塔河乡	2
+ta ji gu fen huang cao han	他妓古坟荒草寒	2
+ta jiao cun	他窖村	2
+ta la gou	塔拉沟	2
+ta lai le	它来了	2
+ta lu jin shu kui jia	塔鲁金属盔甲	2
+ta qing er san yue	踏青二三月	2
+ta shan	塔山	2
+ta sheng wei bu ci sheng xiu	他生未卜此生休	2
+ta shi ku er gan zhen	塔什库尔干镇	2
+ta shi mi li ke xiang	塔什米里克乡	2
+ta suo	塌缩	2
+ta xue mei xin qing	踏雪没心情	2
+ta yan	铊盐	2
+ta a	它啊	1
+ta ba si	塔巴斯	1
+ta bian tian ya lu	踏遍天涯路	1
+ta bo jia zhu xia hu yu	塔博加侏鰕虎鱼	1
+ta bu la si juan wei	塔布拉斯卷尾	1
+ta chuang nie bi	踏床啮鼻	1
+ta de kong fang jian	她的空房间	1
+ta de shen fen	它的身份	1
+ta er ke xie e xi yi	塔尔克邪恶蜥蜴	1
+ta fa	挞伐	1
+ta gu cai shao dou fu	塌菇菜烧豆腐	1
+ta gu xi chang	踏故习常	1
+ta hu mu er ke rong yuan	塔胡穆尔科蝾螈	1
+ta hui	塔灰	1
+ta ji	獭祭	1
+ta ji xiang	塔吉乡	1
+ta jia	塌架	1
+ta jian	他荐	1
+ta jian shang gong de	塔尖上功德	1
+ta jie hai si luo	塔结海蛳螺	1
+ta ka ku	塔卡裤	1
+ta ke mo si jiao nang	他克莫司胶囊	1
+ta li	塔利	1
+ta li hui die shu	塔丽灰蝶属	1
+ta li mu ma xie er xian chong	塔里木马歇尔线虫	1
+ta li mu yan xi	塔里木岩蜥	1
+ta li ya	塔莉垭	1
+ta lie chun xiang	塔猎椿象	1
+ta lou cheng	塔楼城	1
+ta lu chang wa	塔鲁长袜	1
+ta lu fa pao	塔鲁法袍	1
+ta lu shou tao	塔鲁手套	1
+ta lu wai yi	塔鲁外衣	1
+ta lu xue	塔鲁靴	1
+ta lu zhong jia	塔鲁重甲	1
+ta ma la feng chao xia hu yu	塔马拉蜂巢鰕虎鱼	1
+ta na he bai mei hou	塔纳河白眉猴	1
+ta nian jin li jing ci miao	他年锦里经祠庙	1
+ta nian ye yu du shang shen	他年夜雨独伤神	1
+ta nuo	阘懦	1
+ta ou ye ni zhong	蹋藕野泥中	1
+ta peng xiang	塔棚乡	1
+ta ran gao le xiang	塔然高勒乡	1
+ta ri ru dang yong zhi	他日汝当用之	1
+ta ri ru he ju	他日如何举	1
+ta ri ruo neng kui meng zi	他日若能窥孟子	1
+ta ri xiang feng wei jun xia	他日相逢为君下	1
+ta ri xiang feng xia che yi	他日相逢下车揖	1
+ta sang	嗒丧	1
+ta shan cun wei	塔山村委	1
+ta shan shi chang	塔山市场	1
+ta shan zhi zhu	他山之助	1
+ta sheng dang zuo ci shan seng	他生当作此山僧	1
+ta sheng yuan hui geng nan qi	他生缘会更难期	1
+ta shi xu lv shi neng yan	他时须虑石能言	1
+ta shi yao zu shui zu xiang	塔石瑶族水族乡	1
+ta shui qiao	塌水桥	1
+ta si ma ni ya cao bi yu	塔斯马尼亚糙躄鱼	1
+ta si ma ni ya chong yi	塔斯马尼亚虫鮨	1
+ta si ma ni ya dai xiong	塔斯马尼亚袋熊	1
+ta si ma ni ya fu shi zi yu	塔斯马尼亚副狮子鱼	1
+ta si ma ni ya hou qi gui	塔斯马尼亚后鳍鲑	1
+ta si ma ni ya hui se da dai shu	塔斯马尼亚灰色大袋鼠	1
+ta si ma ya ni hu	塔斯马亚尼虎	1
+ta te	它特	1
+ta te la shan mu yang quan quan	塔特拉山牧羊犬犬	1
+ta tian mo dao ge zi yun	踏天磨刀割紫云	1
+ta xi ni	塔西尼	1
+ta xi ti qian shou luo	塔西提千手螺	1
+ta xi zhou	它西粥	1
+ta xia jie she qu	塔下街社区	1
+ta xia ku long	塌下窟窿	1
+ta xiang yi xian	他乡异县	1
+ta xie tai sou	塔协苔螋	1
+ta xin	塌心	1
+ta xing he luo	塔形核螺	1
+ta yang	塌秧	1
+ta yi mu xiao mei fu nian	塔伊姆小美腹鲶	1
+ta yuan gan xiu suo she qu	塔院干休所社区	1
+ta zhao cun	塔照村	1
+ta zi cheng zhen	塔子城镇	1
