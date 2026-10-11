@@ -1,0 +1,994 @@
+gu fen	股份	118020
+gu ke	顾客	99546
+gu xi la	古希腊	77960
+gu piao	股票	57149
+gu fen zhi qi ye	股份制企业	52677
+gu xi	股息	52100
+gu dong	股东	50247
+gu zhe	骨折	35382
+gu quan zhuan rang xie yi	股权转让协议	29940
+gu cheng	古城	28390
+gu jia	股价	24109
+gu feng ji	鼓风机	16427
+gu gong	故宫	15526
+gu dong da hui yi shi gui ze	股东大会议事规则	14933
+gu fen zhi	股份制	14260
+gu tou	骨头	14055
+gu ke	骨科	12364
+gu min	股民	11641
+gu zhi	股指	10546
+gu jing gong	古井贡	9659
+gu gai cheng nuo	股改承诺	9335
+gu jia	估价	8912
+gu ge	骨骼	8209
+gu dong	古董	7668
+gu quan zhuan rang kuan	股权转让款	7623
+gu sui	骨髓	6716
+gu yue long shan	古越龙山	6202
+gu di	谷底	6125
+gu ben	股本	5730
+gu jian	固件	5295
+gu wan	古玩	5264
+gu ming si yi	顾名思义	4904
+gu se gu xiang	古色古香	4454
+gu wu ren xin	鼓舞人心	3891
+gu sui yi zhi	骨髓移植	3805
+gu jin zhong wai	古今中外	3679
+gu piao jiao yi yin hua shui	股票交易印花税	3673
+gu piao hui gou	股票回购	3653
+gu zhi shu song	骨质疏松	3242
+gu an suan na	谷氨酸钠	3125
+gu quan da ju	顾全大局	2672
+gu si chou zhi lu	古丝绸之路	2671
+gu ge liu lan qi	谷歌浏览器	2458
+gu cun	古村	2412
+gu piao shi chang	股票市场	2293
+gu tian	古田	2236
+gu zhang hui fu	故障恢复	2194
+gu wang jin lai	古往今来	2103
+gu lang yu	鼓浪屿	2054
+gu pen	骨盆	1941
+gu ci shi bi	顾此失彼	1818
+gu bu zi feng	固步自封	1764
+gu jing	古井	1637
+gu yuan shi	固原市	1591
+gu ding kuan du	固定宽度	1579
+gu shang	骨伤	1573
+gu tai ying pan	固态硬盘	1532
+gu zhi	骨质	1501
+gu ai ji fa	古埃及法	1476
+gu ji chong yan	故伎重演	1470
+gu li wu yuan	孤立无援	1410
+gu gu tou	股骨头	1395
+gu fen you xian gong si	股份有限公司	1314
+gu zhu yi zhi	孤注一掷	1306
+gu bo	固铂	1278
+gu jun fen zhan	孤军奋战	1227
+gu qiao	古桥	1202
+gu ge di tu	谷歌地图	1171
+gu yu	谷雨	1149
+gu cun	顾村	1147
+gu lv chong chong	顾虑重重	1139
+gu ge dong hua	骨骼动画	1128
+gu zu gan jin	鼓足干劲	1124
+gu gu	股骨	1103
+gu bing	骨病	1085
+gu guan jie	骨关节	1085
+gu shou ru chai	骨瘦如柴	1081
+gu fen he zuo qi ye	股份合作企业	1064
+gu zhang pai chu	故障排除	1057
+gu ta	古塔	1042
+gu jia you feng	骨架油封	1003
+gu er jin cheng	孤儿进程	978
+gu an	固安	956
+gu ming diao yu	沽名钓誉	893
+gu zhi shu song zheng	骨质疏松症	888
+gu zhang qie huan	故障切换	876
+gu wei jin yong	古为今用	872
+gu zhang chu li	故障处理	855
+gu zhi	估值	852
+gu qian bi	古钱币	798
+gu gu nang nang	鼓鼓囊囊	777
+gu lin	古蔺	763
+gu ling	骨龄	763
+gu cheng	谷城	758
+gu nong xuan xu	故弄玄虚	757
+gu zhang zhen duan	故障诊断	745
+gu tian le	古天乐	728
+gu quan zhuan rang jiu fen	股权转让纠纷	722
+gu rou fen li	骨肉分离	716
+gu shi	固始	694
+gu jiao shi	古交市	676
+gu tong	骨痛	671
+gu si ta fu	古斯塔夫	670
+gu lu rou	咕噜肉	654
+gu huo ren xin	蛊惑人心	648
+gu quan guo hu deng ji	股权过户登记	637
+gu jia gua ren	孤家寡人	616
+gu ruo jin tang	固若金汤	616
+gu long	古龙	612
+gu yi yuan	古猗园	594
+gu ku ling ding	孤苦伶仃	580
+gu jian ku	固件库	570
+gu bei	古北	562
+gu zhang jian ce	故障检测	559
+gu wai ke	骨外科	545
+gu fang zi shang	孤芳自赏	544
+gu shan	孤山	519
+gu guan jie yan	骨关节炎	513
+gu zhi ji jian	固执己见	504
+gu shi pao mo lun	股市泡沫论	491
+gu zhai	古寨	490
+gu niu pai	骨牛排	489
+gu xing	骨性	481
+gu pen gu zhe	骨盆骨折	478
+gu li	股利	474
+gu zhang wei	顾长卫	461
+gu bu zi feng	故步自封	452
+gu gu gu zhe	股骨骨折	450
+gu lou fa yuan	鼓楼法院	437
+gu zhang	鼓胀	434
+gu dao re chang	古道热肠	432
+gu tai fu meng	故态复萌	430
+gu ju ji	古巨基	427
+gu shi ban	故事版	419
+gu tian er lu	古田二路	419
+gu shang yi yuan	骨伤医院	407
+gu sui yan	骨髓炎	400
+gu tu nan li	故土难离	394
+gu gai	股改	380
+gu gang	古港	379
+gu gu jing gu zhe	股骨颈骨折	358
+gu dong mai	股动脉	352
+gu mo	鼓膜	352
+gu rou liu	骨肉瘤	352
+gu du	古渡	350
+gu lou gua wen	孤陋寡闻	350
+gu zhang fen xi	故障分析	349
+gu ji pu cha	古籍普查	343
+gu jun zuo zhan	孤军作战	343
+gu bi	古币	339
+gu dang	古荡	338
+gu yue qi ming	鼓乐齐鸣	334
+gu zhang pai cha	故障排查	329
+gu hou	骨骺	317
+gu xi yang jian	姑息养奸	316
+gu zhang nan ming	孤掌难鸣	316
+gu guan jie bing	骨关节病	314
+gu mu can tian	古木参天	314
+gu zhen	固镇	310
+gu wen hua jie	古文化街	300
+gu ci sheng zhi	孤雌生殖	296
+gu mo chuan kong	鼓膜穿孔	296
+gu tian si lu	古田四路	292
+gu mo	骨膜	286
+gu qin tai	古琴台	285
+gu lou qu wei	鼓楼区委	284
+gu yong he yue	雇佣合约	280
+gu zao	古灶	278
+gu piao fen xi	股票分析	272
+gu rou xiang lian	骨肉相连	268
+gu ge ji	骨骼肌	267
+gu yan wu	顾炎武	262
+gu cuo	古厝	258
+gu jian shang nong	谷贱伤农	256
+gu tian lu	古田路	256
+gu zhang jie jue	故障解决	253
+gu lao rou	古老肉	240
+gu yue	古月	234
+gu zu zhi	骨组织	232
+gu yue xuan tian	鼓乐喧天	223
+gu tai cun chu	固态存储	219
+gu zhuan yi	骨转移	216
+gu ping gang	古平岗	214
+gu yue hu	古月胡	214
+gu an suan	谷氨酸	205
+gu cheng pai chu suo	古城派出所	203
+gu ge xue shu	谷歌学术	198
+gu jie gang	顾颉刚	195
+gu chong	古虫	193
+gu zhang ding wei	故障定位	193
+gu sheng xian xian	古圣先贤	186
+gu jun shen ru	孤军深入	175
+gu ying zi lian	顾影自怜	172
+gu jian	古鉴	171
+gu sui zhuang	骨髓壮	170
+gu bei	古杯	169
+gu dai lu	顾戴路	169
+gu dao niao	古盗鸟	166
+gu ding zi ben	固定资本	166
+gu xi bao	骨细胞	166
+gu wei jun	顾维钧	165
+gu lou dong da jie	鼓楼东大街	164
+gu yang	固阳	164
+gu zhang ge li	故障隔离	163
+gu li wu zhu	孤立无助	160
+gu tian san lu	古田三路	158
+gu yan zhuo yun	辜严倬云	157
+gu zhang shi jian	故障时间	155
+gu tian yi lu	古田一路	148
+gu dai zhe xue	古代哲学	147
+gu bing zhuan an mei	谷丙转氨酶	145
+gu shan	古山	142
+gu keng	古坑	136
+gu ge di qiu	谷歌地球	135
+gu jing mai	股静脉	132
+gu hua	骨化	128
+gu piao fa xing he zhun zhi	股票发行核准制	128
+gu lang lu	古浪路	125
+gu guang gan tai	谷胱甘肽	122
+gu li	古力	120
+gu ge xi tong	骨骼系统	119
+gu ji chong yan	故技重演	119
+gu zuo gao shen	故作高深	119
+gu gu tou wu jun xing huai si	股骨头无菌性坏死	116
+gu gu gan gu zhe	股骨干骨折	114
+gu kai zhi	顾恺之	114
+gu jiao yuan	骨胶原	113
+gu yu cha	谷雨茶	113
+gu nan	古南	112
+gu ya ju	古崖居	111
+gu dun	古墩	110
+gu yong fa lv guan xi	雇佣法律关系	110
+gu dian zi ran fa xue pai	古典自然法学派	109
+gu ji shu zi hua	古籍数字化	109
+gu sui yi zhi	骨髓抑制	109
+gu bei lu	古北路	108
+gu ping lu	鼓屏路	107
+gu an xian an mei	谷氨酰胺酶	106
+gu jie he	骨结核	106
+gu pian	骨片	104
+gu xuan	股癣	104
+gu ding qi	固定器	103
+gu dong zong hui bao	股东总回报	103
+gu wei su	谷维素	103
+gu shun zhang	顾顺章	102
+gu dong dai wei su song	股东代位诉讼	100
+gu gu jing	股骨颈	100
+gu jiang	古将	99
+gu wang ting zhi	姑妄听之	97
+gu zhu zi sun cha	顾渚紫笋茶	97
+gu tai pan	固态盘	95
+gu huai si	骨坏死	94
+gu sui liu	骨髓瘤	92
+gu tang	古塘	91
+gu hua	古华	90
+gu quan zhi xing	股权执行	90
+gu de wu de sai che jie	古德伍德赛车节	89
+gu zhun	顾准	89
+gu cheng hu da zha xie	固城湖大闸蟹	87
+gu mei lu	古美路	87
+gu qu lu	古曲路	87
+gu si tou ji	股四头肌	84
+gu ban	骨板	83
+gu zhe yu he	骨折愈合	82
+gu fen	股分	80
+gu shui	谷水	78
+gu liu	骨瘤	77
+gu shui ni	骨水泥	74
+gu shan cun	孤山村	73
+gu hun ye gui	孤魂野鬼	72
+gu gu cu long jian gu zhe	股骨粗隆间骨折	71
+gu gu tou que xue xing huai si	股骨头缺血性坏死	71
+gu shan lu	孤山路	70
+gu yi zhi	骨移植	70
+gu dai pa xing dong wu	古代爬行动物	69
+gu ding yi chi	固定义齿	69
+gu li te	古利特	68
+gu yuan di qu	固原地区	66
+gu zhang zhi shang	股掌之上	66
+gu jia dai ma	骨架代码	65
+gu xi zhi nian	古稀之年	65
+gu zhang mao jian cha	古丈毛尖茶	65
+gu gu tou gu zhe	股骨头骨折	62
+gu pan sheng hui	顾盼生辉	62
+gu dai ying guo mu yang quan	古代英国牧羊犬	61
+gu neng cheng qi da	故能成其大	61
+gu han lu	古汉路	60
+gu lou nan jie	鼓楼南街	60
+gu zhui	骨赘	60
+gu xiao liang	骨小梁	59
+gu cheng gong yuan	古城公园	58
+gu qiao	顾桥	58
+gu ren xi ci huang he lou	故人西辞黄鹤楼	58
+gu zhi	故纸	57
+gu dai zhang xu mu yang quan	古代长须牧羊犬	56
+gu jin tu shu ji cheng	古今图书集成	54
+gu yang	顾阳	54
+gu ding xiu fu	固定修复	51
+gu hai	顾海	51
+gu sui bu	骨碎补	51
+gu ye	古冶	51
+gu lou qiao	鼓楼桥	50
+gu xi la fa	古希腊法	50
+gu zhi po huai	骨质破坏	50
+gu jia	骨痂	49
+gu tou bu gu wei	顾头不顾尾	49
+gu zhang mo ni	故障模拟	49
+gu cao zhuan an mei	谷草转氨酶	48
+gu jin duo shao shi	古今多少事	48
+gu le ban yan	古乐伴宴	48
+gu rou zhi qin	骨肉至亲	48
+gu feng	古枫	47
+gu quan shou gou he tong	股权收购合同	47
+gu xiong	古雄	47
+gu yu dong	顾玉东	47
+gu ding hui lv zhi	固定汇率制	46
+gu dong fa gui	古董法规	46
+gu zhang mo xing	故障模型	45
+gu an xian an	谷氨酰胺	44
+gu wang yan zhi	姑妄言之	43
+gu zhang ce shi	故障测试	43
+gu rou li san	骨肉离散	42
+gu sao miao	骨扫描	42
+gu tang cun	古塘村	42
+gu lu cun	古路村	41
+gu rou xiang can	骨肉相残	41
+gu shi	鼓室	41
+gu an gong ye yuan qu	固安工业园区	40
+gu pan sheng zi	顾盼生姿	40
+gu cheng nan jie	古城南街	38
+gu tong yao jiu	骨痛药酒	38
+gu you te zheng	固有特征	38
+gu zhang zhu ru	故障注入	38
+gu ge wei xing di tu	谷歌卫星地图	37
+gu lian hua chi	古莲花池	37
+gu yang lu	古羊路	37
+gu ying	顾英	37
+gu ju xi bao liu	骨巨细胞瘤	36
+gu pan zi xiong	顾盼自雄	36
+gu cun xin si	谷村新司	35
+gu dang xin cun	古荡新村	35
+gu dian mu yang quan	古典牧羊犬	35
+gu tai cun chu qi	固态存储器	35
+gu ya	谷芽	35
+gu dao xi feng shou ma	古道西风瘦马	34
+gu geng zai hou	骨鲠在喉	34
+gu hu	古湖	34
+gu ke xue	骨科学	34
+gu mo yan	骨膜炎	34
+gu sui	顾随	34
+gu zheng hong	顾正红	34
+gu lai zheng zhan ji ren hui	古来征战几人回	33
+gu piao sheng zhi quan	股票升值权	33
+gu zhang an quan	故障安全	33
+gu zhang ji lu	故障记录	33
+gu zhou suo li weng	孤舟蓑笠翁	33
+gu jing ya mu	古鲸亚目	32
+gu sha zhi wu	固沙植物	32
+gu xiang bu ke jian	故乡不可见	32
+gu yin	鼓音	32
+gu zhong hua hu	古中华虎	32
+gu dao tian	古稻田	31
+gu er ban tong gu te	古尔班通古特	31
+gu ji zhi	骨基质	31
+gu mi du ce ding	骨密度测定	31
+gu shan lu	崮山路	31
+gu ding cun chu qi	固定存储器	30
+gu jia hua	骨架化	29
+gu mei xi lu	古美西路	29
+gu ying	顾瑛	29
+gu yuan	顾源	29
+gu de li an	古德里安	28
+gu su cheng wai han shan si	姑苏城外寒山寺	28
+gu dian	古店	27
+gu ding qiao	固定桥	27
+gu er gua fu	孤儿寡妇	27
+gu tian xia mo neng yu zhi zheng	故天下莫能与之争	27
+gu yue hu san he ni	古月胡三合泥	27
+gu zai chun	谷甾醇	27
+gu pi zhi	骨皮质	26
+gu yi yuan	古漪园	26
+gu zhe bu yu he	骨折不愈合	26
+gu zheng chao re	骨蒸潮热	26
+gu ding zi zhang	固定字长	25
+gu lou cun	古楼村	25
+gu xiao ming	顾晓明	25
+gu zhen guan	顾贞观	25
+gu zhi xue zhe wei ji	古之学者为己	25
+gu dang xiao qu	古荡小区	24
+gu han tai	古汉台	24
+gu jia zhuang	顾家庄	24
+gu shen jing	股神经	24
+gu shi dong tai fen xi	股市动态分析	24
+gu ao	古坳	23
+gu cui lu kou	古翠路口	23
+gu kuang	顾况	23
+gu la xiang	古拉乡	23
+gu lai sheng xian jie ji mo	古来圣贤皆寂寞	23
+gu lou bei jie	鼓楼北街	23
+gu qi yuan	顾起元	23
+gu qian bu gu hou	顾前不顾后	23
+gu sui xian wei hua	骨髓纤维化	23
+gu rou tuan yuan	骨肉团圆	22
+gu yang	古洋	22
+gu gu huo fu	咕咕霍夫	21
+gu lou dong jie	鼓楼东街	21
+gu sui chuan ci shu	骨髓穿刺术	21
+gu xi liao fa	姑息疗法	21
+gu zhang cha zhao	故障查找	21
+gu zhuang	顾庄	21
+gu dong lu	鼓东路	20
+gu li shen	孤立肾	20
+gu ren he ji mo	故人何寂寞	20
+gu xian rong	辜显荣	20
+gu yang zhen	堌阳镇	20
+gu yong	顾雍	20
+gu ben yan ling wan	固本延龄丸	19
+gu chuan ting shu zuo fei hua	故穿庭树作飞花	19
+gu fan yuan ying bi kong jin	孤帆远影碧空尽	19
+gu jiao ya mu	古脚亚目	19
+gu yi lu	古宜路	19
+gu zan	姑咱	19
+gu ce	顾册	18
+gu jia	鼓甲	18
+gu long cun	古龙村	18
+gu pai pu fang ge	骨牌铺方格	18
+gu zhang ping bi	故障屏蔽	18
+gu an	古庵	17
+gu mo chong xue	鼓膜充血	17
+gu quan dian dang	股权典当	17
+gu tan jie	古潭街	17
+gu xin lu	古新路	17
+gu yuan xian	固原县	17
+gu zhang te zheng	故障特征	17
+gu zhi pai gu	鼓汁排骨	17
+gu cheng bei lu	古城北路	16
+gu fan yi pian ri bian lai	孤帆一片日边来	16
+gu gu tou zhi huan shu	股骨头置换术	16
+gu guan jie jie he	骨关节结核	16
+gu lang	古朗	16
+gu shan cun	古山村	16
+gu wei su pian	谷维素片	16
+gu zhuang	古庄	16
+gu ba	古坝	15
+gu biao zhi han	固表止汗	15
+gu gong lu	故宫路	15
+gu heng	顾衡	15
+gu hua xing ji yan	骨化性肌炎	15
+gu jia gong yue	估价公约	15
+gu li mu tu jie dao	顾力木图街道	15
+gu lin	顾琳	15
+gu shan lu	谷山路	15
+gu sheng san xia hong qi kai	鼓声三下红旗开	15
+gu wen	顾闻	15
+gu zhang kong zhi	故障控制	15
+gu fu	古福	14
+gu gou	古沟	14
+gu jiang	古江	14
+gu jiao long	古角龙	14
+gu ling	古岭	14
+gu san zuo	古三座	14
+gu xian wei yi chang zeng zhi zheng	骨纤维异常增殖症	14
+gu yu xiang	古玉乡	14
+gu zhang shu fen xi	故障树分析	14
+gu an xian zhuan tai mei	谷氨酰转肽酶	13
+gu ding jia ge fa	固定价格法	13
+gu nang zhong	骨囊肿	13
+gu shan	股疝	13
+gu sui qiang	骨髓腔	13
+gu xi	谷溪	13
+gu yi	固义	13
+gu yuan	古源	13
+gu zhu cun	顾渚村	13
+gu bi	骨痹	12
+gu cheng dong jie	古城东街	12
+gu chi	古池	12
+gu chong dong wu men	古虫动物门	12
+gu ge	孤鸽	12
+gu gu zhang	股骨长	12
+gu guang qi	顾广圻	12
+gu ji ling	古迹岭	12
+gu lao bei jie dao	古老背街道	12
+gu mo	姑墨	12
+gu shan zhong xue	鼓山中学	12
+gu tang	谷塘	12
+gu xiang jin ye si qian li	故乡今夜思千里	12
+gu zhe ji xing yu he	骨折畸形愈合	12
+gu zhong hua ye niu	古中华野牛	12
+gu zu yu	顾祖禹	12
+gu ba	孤拔	11
+gu chang jing lu	古长颈鹿	11
+gu er tou ji	股二头肌	11
+gu lao yin zhen	古劳银针	11
+gu lou xi jie	鼓楼西街	11
+gu mo yan	鼓膜炎	11
+gu quan hui gou qing qiu quan	股权回购请求权	11
+gu sao ta	姑嫂塔	11
+gu shan kou	孤山口	11
+gu xiang	顾湘	11
+gu yun du qu xian	孤云独去闲	11
+gu cang mao tou ying	谷仓猫头鹰	10
+gu cheng	顾诚	10
+gu ci liu fang	古祠留芳	10
+gu dong	谷东	10
+gu guan	骨管	10
+gu ji	骨肌	10
+gu jia zhai	顾家宅	10
+gu jian cun	古鉴村	10
+gu jing sheng	谷景生	10
+gu kang jiao nang	骨康胶囊	10
+gu pen xia zhai	骨盆狭窄	10
+gu piao ji	股票机	10
+gu shen dong mai	股深动脉	10
+gu zheng lun	谷正伦	10
+gu cheng da yuan	古城大院	9
+gu feng dong	古风洞	9
+gu jin mo shi zong he zheng	骨筋膜室综合征	9
+gu ling yi	古灵益	9
+gu mei san cun	古美三村	9
+gu piao fa xing zhu ce zhi	股票发行注册制	9
+gu qing	谷清	9
+gu ruan gu liu	骨软骨瘤	9
+gu yan	顾岩	9
+gu yi jing	古遗井	9
+gu yong bao zheng	雇佣保证	9
+gu yuan dong wang lu man man	故园东望路漫漫	9
+gu yue lu	谷岳路	9
+gu bu ke sheng shi ye	谷不可胜食也	8
+gu cheng yao wang yu men guan	孤城遥望玉门关	8
+gu chong jian	骨重建	8
+gu cui lu tian mu shan lu kou	古翠路天目山路口	8
+gu diao sui zi ai	古调虽自爱	8
+gu ding zai bao xian he tong	固定再保险合同	8
+gu du gong yuan	古渡公园	8
+gu duo er	古多尔	8
+gu gai su	骨钙素	8
+gu lie ming	顾列铭	8
+gu ren ju ji shu	故人具鸡黍	8
+gu shi cheng xing shu	鼓室成形术	8
+gu sui xiang	骨髓象	8
+gu yuan san shi er nian qian	故园三十二年前	8
+gu bei dong wu	古杯动物	7
+gu bing gan an suan jiao nang	谷丙甘氨酸胶囊	7
+gu bu ji kui bu	故不积跬步	7
+gu cheng	顾承	7
+gu dang wan xin cun	古荡湾新村	7
+gu dian ying guo mu yang quan	古典英国牧羊犬	7
+gu ding jiao zhi qi	固定矫治器	7
+gu dui xiang	孤堆乡	7
+gu dun lu nan kou	古墩路南口	7
+gu feng	古丰	7
+gu hai bin	顾海滨	7
+gu han yang sheng jing kou fu ye	古汉养生精口服液	7
+gu huan	股环	7
+gu lou yuan	鼓楼苑	7
+gu mo xiu bu shu	鼓膜修补术	7
+gu shi	姑师	7
+gu wang ji xiang	古王集乡	7
+gu xing jie he	骨性结合	7
+gu yan	骨炎	7
+gu yue tang	古月堂	7
+gu zang	姑臧	7
+gu ben ke chuan jiao nang	固本咳喘胶囊	6
+gu ben qiang shen jiao nang	固本强身胶囊	6
+gu cheng lu she qu	古城路社区	6
+gu chun	古春	6
+gu dang xin cun xi	古荡新村西	6
+gu feng xiang	古丰乡	6
+gu fu	古浮	6
+gu ge	股歌	6
+gu ge feng tong pian	骨骼风痛片	6
+gu jin lai xu duo shi jia	古今来许多世家	6
+gu jin wan jiao nang	骨筋丸胶囊	6
+gu li mei	顾丽梅	6
+gu lin	顾璘	6
+gu lou wai da jie nan zhan	鼓楼外大街南站	6
+gu piao zhi shu qi huo qi quan	股票指数期货期权	6
+gu shu kang ke li	骨疏康颗粒	6
+gu sui ren bei wei ru yan zhi	故遂忍悲为汝言之	6
+gu tang cun	谷塘村	6
+gu xue xiang	古学乡	6
+gu zheng wen	谷正文	6
+gu zhi xue zhe bi you shi	古之学者必有师	6
+gu de lin	顾德林	5
+gu dui shan	古堆山	5
+gu guo bu yi shan xi zhi xian	固国不以山溪之险	5
+gu hai dao	古海道	5
+gu jin mo shi zong he zheng	骨筋膜室综合症	5
+gu jing wan	固精丸	5
+gu jiu shi pu bu shi	沽酒市脯不食	5
+gu lai bai gu wu ren shou	古来白骨无人收	5
+gu lai xiang jue jue	故来相决绝	5
+gu mo yi long	古魔翼龙	5
+gu quan	顾铨	5
+gu shan yuan	鼓山苑	5
+gu shen jing sun shang	股神经损伤	5
+gu yi shi zhi xiong ye	固一世之雄也	5
+gu yu	顾瑜	5
+gu yu long	顾玉龙	5
+gu zhi zu zhi zu	故知足之足	5
+gu an xian zhuan yi mei	谷氨酰转移酶	4
+gu bei dao	古北道	4
+gu bei xin cheng	古北新城	4
+gu ben ke chuan pian	固本咳喘片	4
+gu ben yi chang pian	固本益肠片	4
+gu cheng tai jie dao	古城台街道	4
+gu chuan chen lie guan	古船陈列馆	4
+gu ci xiao tong jiao nang	骨刺消痛胶囊	4
+gu dao ling	古道岭	4
+gu duo neng bi shi	故多能鄙事	4
+gu fang	顾昉	4
+gu fang zhou	顾方舟	4
+gu fu chu	顾复初	4
+gu gu che	古谷彻	4
+gu guan	股管	4
+gu lao ying guo dou niu quan	古老英国斗牛犬	4
+gu mei ba cun	古美八村	4
+gu pen ce liang	骨盆测量	4
+gu peng wan li zheng	孤蓬万里征	4
+gu piao jie	股票界	4
+gu qia	古恰	4
+gu qiao jie dao	古桥街道	4
+gu ren jin ren ruo liu shui	古人今人若流水	4
+gu rong jie zheng	骨溶解症	4
+gu si cun	鼓四村	4
+gu tai zhu she ye	骨肽注射液	4
+gu tian ren san lang	古畑任三郎	4
+gu xian xiang	古县乡	4
+gu yan	骨盐	4
+gu you dao zhe bu chu	故有道者不处	4
+gu yuan jin ye li	故园今夜里	4
+gu yuan zhi lu	沽源支路	4
+gu zhai mu lao zu xiang	古砦仫佬族乡	4
+gu zhe fu gui er ming mo mie	古者富贵而名摩灭	4
+gu an qi che zhan	固安汽车站	3
+gu ben	古贲	3
+gu ben wan	固本丸	3
+gu bu yu he	骨不愈合	3
+gu cheng cun	菰城村	3
+gu ci tai sheng ya	孤雌胎生蚜	3
+gu cuo cun	古厝村	3
+gu da wang shi xun yu	故大王事獯鬻	3
+gu dian she qu	古店社区	3
+gu fu xiang	古佛乡	3
+gu hua san chun	骨化三醇	3
+gu jiao gong kuang qu	古交工矿区	3
+gu kou zhi lang	谷口治郎	3
+gu la ding	古拉定	3
+gu lai cun lao ma	古来存老马	3
+gu lai wan shi dong liu shui	古来万事东流水	3
+gu li	谷利	3
+gu li jiao nang	骨力胶囊	3
+gu luo shan xiang	谷罗山乡	3
+gu mi zhi	骨密质	3
+gu nan xiang	古南乡	3
+gu qian sheng zhi suo hou	固前圣之所厚	3
+gu qiao	顾樵	3
+gu shan	顾珊	3
+gu shan yuan li li ru zhuang	孤山园里丽如妆	3
+gu shao	古邵	3
+gu sui jin xiao jin	故岁今宵尽	3
+gu sui liu xi bao	骨髓瘤细胞	3
+gu ti pei yang ji	固体培养基	3
+gu tong tie gao	骨通贴膏	3
+gu wai ce pi shen jing yan	股外侧皮神经炎	3
+gu xian xiang	故仙乡	3
+gu xiang he chu shi	故乡何处是	3
+gu xing biao zhi	骨性标志	3
+gu you ling ba bu gao	骨友灵巴布膏	3
+gu you zhi yi wei li	故有之以为利	3
+gu yu	古宇	3
+gu yu ling jiao nang	骨愈灵胶囊	3
+gu yuan qing	顾元庆	3
+gu yuan wu ci sheng	故园无此声	3
+gu yuan zhang jie	谷原章介	3
+gu zhai yao zu xiang	古寨瑶族乡	3
+gu zhe bing	骨折病	3
+gu zhe yan zhi bu chu	古者言之不出	3
+gu zhi dang ru ci	孤直当如此	3
+gu zhu shan	顾渚山	3
+gu bu deng gao shan	故不登高山	2
+gu bu ke de er qin	故不可得而亲	2
+gu cai	顾彩	2
+gu chang zhi xie wan	固肠止泻丸	2
+gu cheng di	古城堤	2
+gu cheng wang	股城网	2
+gu ci ping pian	骨刺平片	2
+gu cun zhong xue	顾村中学	2
+gu diao qiao	古吊桥	2
+gu dong gao	顾栋高	2
+gu dui cun	谷堆村	2
+gu er xiang	古二乡	2
+gu fang chui	古纺锤	2
+gu feng ji dian zu	鼓风机电阻	2
+gu feng ji ke	鼓风机壳	2
+gu gua ti qu wu zhu she ye	骨瓜提取物注射液	2
+gu guang xu	顾光旭	2
+gu guo san qian li	故国三千里	2
+gu hu cun	古湖村	2
+gu hua xing xian wei liu	骨化性纤维瘤	2
+gu hui	顾蕙	2
+gu jia ying zhen	顾家营镇	2
+gu jing xiang	古井巷	2
+gu lou hua yuan xiao qu	鼓楼花园小区	2
+gu lou ping cun	古楼坪村	2
+gu lou qu wu shan lu	鼓楼区乌山路	2
+gu lu zhen	古露镇	2
+gu mei wu cun	古美五村	2
+gu ming dao	顾明道	2
+gu mo fan ying	骨膜反应	2
+gu mu shou sheng ze zhi	故木受绳则直	2
+gu mu wu ren jing	古木无人径	2
+gu ou ti shou	古偶蹄兽	2
+gu peng da sha	古彭大厦	2
+gu qu xiang	谷曲乡	2
+gu ren xue wen wu yi li	古人学问无遗力	2
+gu rou liu li dao lu zhong	骨肉流离道路中	2
+gu shen sheng fa wan	固肾生发丸	2
+gu sheng jian ji biao jiang jin	鼓声渐急标将近	2
+gu shi dao er hou de	故失道而后德	2
+gu shi duan tou	股市断头	2
+gu shi ying hua zheng	鼓室硬化症	2
+gu shi yu cun	古石峪村	2
+gu ti ru jiao	固体乳胶	2
+gu wa yao	古瓦窑	2
+gu wei tian xia gui	故为天下贵	2
+gu wu yu shan	孤兀禺山	2
+gu xi chou	顾锡畴	2
+gu xian cun	古县村	2
+gu xian jie dao	古现街道	2
+gu xian xiang	固县乡	2
+gu yin yu	顾印愚	2
+gu you ling cha ji	骨友灵搽剂	2
+gu yu yu bie bu ke sheng shi	谷与鱼鳖不可胜食	2
+gu yuan ren bu fu	故远人不服	2
+gu zhan chong	谷粘虫	2
+gu zhi shan wei dao zhe	古之善为道者	2
+gu zhi yi si sheng wei xu dan	固知一死生为虚诞	2
+gu zhou yi xi gu yuan xin	孤舟一系故园心	2
+gu zhu	古住	2
+gu zhu yi xiang ren	孤烛异乡人	2
+gu ba yao juan	古巴咬鹃	1
+gu bai mei qiu cai	菰白媚秋菜	1
+gu ban long xie	鼓板龙蟹	1
+gu bao ji	股薄肌	1
+gu ben hui yuan kou fu ye	固本回元口服液	1
+gu bu zhi zi yi	固不知子矣	1
+gu cha shu zhong du	古刹疏钟度	1
+gu chang jiao nang	固肠胶囊	1
+gu chen cang pai	古陈仓牌	1
+gu cheng guo zhi bao	古称国之宝	1
+gu cheng hui zu xiang	古城回族乡	1
+gu cheng ju chang	古城剧场	1
+gu cheng luo ri dou bing xi	孤城落日斗兵稀	1
+gu cheng nan li she qu	古城南里社区	1
+gu cheng xi bei qi gao lou	孤城西北起高楼	1
+gu cheng xi lu bei she qu	古城西路北社区	1
+gu cheng xi lu nan she qu	古城西路南社区	1
+gu cheng yin wu shen	孤城隐雾深	1
+gu chi shou ci mu	古齿兽次目	1
+gu chui ti	鼓槌体	1
+gu chun cun	古春村	1
+gu chun piao bu can	故纯朴不残	1
+gu ci xiao tong ye	骨刺消痛液	1
+gu cun mei yue	谷村美月	1
+gu da hu hou	古大狐猴	1
+gu da shen	顾大申	1
+gu da zhang	顾大章	1
+gu deng bu ming si yu jue	孤灯不明思欲绝	1
+gu deng ci ye qing	孤灯此夜情	1
+gu deng he shi du cheng hua	孤灯何事独成花	1
+gu dian xiang	孤店乡	1
+gu die xiao pai huai	孤蝶小徘徊	1
+gu ding chen	顾鼎臣	1
+gu ding xing yao zhen	固定性药疹	1
+gu dong da hui jue yi	股东大会决议	1
+gu dong mai jia xing dong mai liu	股动脉假性动脉瘤	1
+gu e	固额	1
+gu fan niu er niu fei	故饭牛而牛肥	1
+gu fei ru zhui shuang	孤飞如坠霜	1
+gu feng ning jiao nang	骨风宁胶囊	1
+gu fu cun	古浮村	1
+gu fu cun	古福村	1
+gu fu dang nian lin xia yi	孤负当年林下意	1
+gu fu si kui	鼓腹咝蝰	1
+gu gao	顾皋	1
+gu gao song tian gong	孤高耸天宫	1
+gu gu ke shang gu zhe	股骨髁上骨折	1
+gu gu shi	古谷实	1
+gu gu zhuan zi xia gu zhe	股骨转子下骨折	1
+gu guang gan tai huan yuan mei	谷胱甘肽还原酶	1
+gu guang yi dian ying	孤光一点萤	1
+gu guo ping ju you suo si	故国平居有所思	1
+gu han	顾翰	1
+gu han ji tuan	古汉集团	1
+gu han yang sheng jing pian	古汉养生精片	1
+gu hong zhu she ye	谷红注射液	1
+gu hou yan	骨骺炎	1
+gu hua san chun jiao wan	骨化三醇胶丸	1
+gu hua zhong xin	骨化中心	1
+gu hua zuo yuan shan zhang	故画作远山长	1
+gu jia cun	谷家村	1
+gu jia xiang	古家巷	1
+gu jia yu ya gang	骨甲鱼亚纲	1
+gu jia yuan	顾家园	1
+gu jiang ba ge jie dao	古江巴格街道	1
+gu jiang chou ku er zhong qiong	故将愁苦而终穷	1
+gu jiao ling tian lai	鼓角凌天籁	1
+gu jing mai si ha pian	固精麦斯哈片	1
+gu jing xing	顾景星	1
+gu jiu yu he ren	沽酒与何人	1
+gu jun zi ju bi ze xiang	故君子居必择乡	1
+gu jun zi you bu zhan	故君子有不战	1
+gu ke zi bei liang	孤客自悲凉	1
+gu ke zui xian wen	孤客最先闻	1
+gu lai de yi bu xiang fu	古来得意不相负	1
+gu lai xian shi bing	古来仙释并	1
+gu lang yu qu	鼓浪屿区	1
+gu lei xiao xiao lu di qiu	故垒萧萧芦荻秋	1
+gu lie xu shi ren	故列叙时人	1
+gu lin jie	古林街	1
+gu lou wai da jie bei zhan	鼓楼外大街北站	1
+gu lou xi da jie she qu	鼓楼西大街社区	1
+gu lu xiang	古路乡	1
+gu luan wu jing bu zuo shuang	孤鸾舞镜不作双	1
+gu mei	顾湄	1
+gu mei xin cun	古美新村	1
+gu men cun	谷门村	1
+gu mi xin chui hua shang shi	菰米新炊滑上匙	1
+gu mi yu xian cai	谷米与贤才	1
+gu min zhi cong zhi ye qing	故民之从之也轻	1
+gu mo zeng sheng hou pi zheng	骨膜增生厚皮症	1
+gu mu lei lei chun cao lv	古墓累累春草绿	1
+gu mu tan xi xiao qiu ji	钴鉧潭西小丘记	1
+gu neng cheng qi zhang	故能成器长	1
+gu neng sheng wu er bu shang	故能胜物而不伤	1
+gu nu bu ke dang	鼓怒不可当	1
+gu pen qing xie du	骨盆倾斜度	1
+gu piao shi jia	股票市价	1
+gu pu mao qing qian	菰蒲冒清浅	1
+gu qi nai you lao song ge	骨气乃有老松格	1
+gu qian jiang shou guan zhe	故遣将守关者	1
+gu qu bi qu ci	故去彼取此	1
+gu quan fen zhi gai ge fang an	股权分置改革方案	1
+gu ren gong lu mi	故人供禄米	1
+gu ren jia zai tao hua an	故人家在桃花岸	1
+gu ren ru wo meng	故人入我梦	1
+gu ren song wo dong lai shi	故人送我东来时	1
+gu ren wu fu luo cheng dong	古人无复洛城东	1
+gu ren yi bie ji shi jian	故人一别几时见	1
+gu ren zhi wo yi	故人知我意	1
+gu ru xiu	顾汝修	1
+gu san jiao	股三角	1
+gu shan si bei jia ting xi	孤山寺北贾亭西	1
+gu shan zhan zhe fu shang xing	故善战者服上刑	1
+gu shan zhi hao zai	故山知好在	1
+gu sheng ren zhi yong bing ye	故圣人之用兵也	1
+gu shi kuai xun	股市快讯	1
+gu shi su zhi gong qiao xi	固时俗之工巧兮	1
+gu shi you hua di wei lao	故士有画地为牢	1
+gu shu kang jiao nang	骨疏康胶囊	1
+gu shu yi zhong xian	古戍依重险	1
+gu song zhi	骨松质	1
+gu su tai shang wu qi shi	姑苏台上乌栖时	1
+gu sui you ming ma	故虽有名马	1
+gu ta xiang	古塔乡	1
+gu wai mo	骨外膜	1
+gu wan wu yi ye	故万物一也	1
+gu wang jin lai di shi wu	古往今来底事无	1
+gu wang jin lai zhi ru ci	古往今来只如此	1
+gu wei cong zhe yue	顾谓从者曰	1
+gu wen bo yi zhi feng zhe	故闻伯夷之风者	1
+gu wen yuan	顾文渊	1
+gu wo wu yi sou jin qie	顾我无衣搜荩箧	1
+gu xi la jun shi fa	古希腊军事法	1
+gu xia zuo man nu	鼓下坐蛮奴	1
+gu xian cun wei hui	故县村委会	1
+gu xian jue cai	古县蕨菜	1
+gu xian tang li ye zuo hua	古县棠梨也作花	1
+gu xian xiang	固贤乡	1
+gu xiang	顾巷	1
+gu xing lian jie	骨性联结	1
+gu xing zhang fei suo duan	故性长非所断	1
+gu xue guan liu	骨血管瘤	1
+gu xue shu you zhong	故学数有终	1
+gu yan bu yin zhuo	孤雁不饮啄	1
+gu yan ling pian	骨炎灵片	1
+gu yan wang yu jie yu jun	故燕王欲结于君	1
+gu yang gu liu	骨样骨瘤	1
+gu ying hua bing	骨硬化病	1
+gu ying pan cun	古营盘村	1
+gu ying ti yong zhou	孤莺啼永昼	1
+gu ying xiang	顾应祥	1
+gu you guang wei xian	谷幽光未显	1
+gu you si ren wei ji liao	故有斯人慰寂寥	1
+gu yu mei zhong chuan	孤屿媚中川	1
+gu yu ruo jiang bu ji xi	汩余若将不及兮	1
+gu yu zhe ge yue	故渔者歌曰	1
+gu yuan cun	固院村	1
+gu yuan geng jiao qiu feng li	孤猿更叫秋风里	1
+gu yuan ke li	固元颗粒	1
+gu yuan lu	沽源路	1
+gu yuan wu yi ping	故园芜已平	1
+gu yuan xian hen jiao zhong qiu	孤猿衔恨叫中秋	1
+gu yue ci xin ming	孤月此心明	1
+gu yun	顾沄	1
+gu yun cheng	顾允成	1
+gu zhang qin bei zai	孤嶂秦碑在	1
+gu zhang xiang	古樟乡	1
+gu zhe min you san ji	古者民有三疾	1
+gu zhi cun shen zhe	古之存身者	1
+gu zhi jin ye lian	古之矜也廉	1
+gu zhi kuang ye si	古之狂也肆	1
+gu zhi suo wei yin shi zhe	古之所谓隐士者	1
+gu zhi xian ren ye	古之贤人也	1
+gu zhi yu ye zhi	古之愚也直	1
+gu zhi zu bu ru	故知足不辱	1
+gu zhong yi	顾仲彝	1
+gu zhou jin ri heng	孤舟尽日横	1
+gu zhu lao shao re bi yun	古竹老梢惹碧云	1
+gu zu yi dong ren	故足以动人	1
+gu ba an lu xi	古巴安禄蜥	0
+gu ba cai gui	古巴彩龟	0
+gu ba feng hu	古巴蜂虎	0
+gu ba gua wei na tang li	古巴瓜维那塘鳢	0
+gu ba guang chun sha	古巴光唇鲨	0
+gu ba hong se jin gang ying wu	古巴红色金刚鹦鹉	0
+gu ba jiao xiao	古巴角鸮	0
+gu ba jin gang ying wu	古巴金刚鹦鹉	0
+gu ba lan xie	古巴蓝蝎	0
+gu ba lv zhuo mu niao	古巴绿啄木鸟	0
+gu ba qing lu	古巴青鯥	0
+gu ba quan jiang	古巴泉鳉	0
+gu ba xiao lin ran	古巴小林蚺	0
+gu ba xiao ti	古巴小鳀	0
+gu ba xin hou qi yu	古巴新后鳍鱼	0
+gu ba xiu liu	古巴鸺鹠	0
+gu ba ya	古巴鸦	0
+gu ba ya ma xun ying wu	古巴亚马逊鹦鹉	0
+gu ba ye ying	古巴夜鹰	0
+gu ba ying	古巴鹰	0
+gu ba ying ge	古巴鹦哥	0
+gu ba yuan zhu shui shi	古巴圆柱水虱	0
+gu ba zhui wei ying wu	古巴锥尾鹦鹉	0
+gu ba zong lv ya	古巴棕榈鸦	0
+gu ban pi nang	谷斑皮囊	0
+gu bei hai mian ya gang	古杯海绵亚纲	0
+gu bei hei liu ji feng	古北黑瘤姬蜂	0
+gu bei huang ying	古北蝗蝇	0
+gu bei ruan du fu yu	孤背软杜父鱼	0
+gu cang shu ya ke	古仓鼠亚科	0
+gu cao shi you dai ke	古草食有袋科	0
+gu chi long	古齿龙	0
+gu chi shan wang yi	古翅山旺蚁	0
+gu chi zhou xi huang	鼓翅皱膝蝗	0
+gu chun yu	骨唇鱼	0
+gu dai juan ye zhu	蓇袋卷叶蛛	0
+gu de bao luo	古德宝螺	0
+gu de sha mo jiao xi	古德沙漠角蜥	0
+gu deng cheng chong shu	古等称虫属	0
+gu dian yu luo	古典芋螺	0
+gu dong he luo	古董核螺	0
+gu du bian chong	鼓肚辫虫	0
+gu du e zhui ji ying	古毒蛾追寄蝇	0
+gu duo chi ya gang	古多齿亚纲	0
+gu er shi tuo bei wu chi zhi	古尔氏驼背无齿脂	0
+gu fa e ke	古发蛾科	0
+gu feng ye niu	古风野牛	0
+gu gu shi zhi mao	咕咕是只猫	0
+gu he li	古河狸	0
+gu huang ya	骨黄涯	0
+gu hui jing	古灰鲸	0
+gu jia ya gang	骨甲亚纲	0
+gu jiao gu yu	骨叫姑鱼	0
+gu jie xing gang	古介形纲	0
+gu jin wu xu pi	古晋无须魮	0
+gu ju zhu	古巨猪	0
+gu juan ye zhu	古卷叶蛛	0
+gu lao xiang cun dou niu quan	古老乡村斗牛犬	0
+gu lie chi ya gang	古列齿亚纲	0
+gu lin ban ye jia	谷鳞斑叶甲	0
+gu ling deng cai ying	牯岭等彩蝇	0
+gu liu qiang chong	鼓六枪虫	0
+gu lou na hui die	古楼娜灰蝶	0
+gu pao xie jian chi shou	鼓泡斜剪齿兽	0
+gu qiu jie zi chong	古球接子虫	0
+gu ruan ke gui	古软壳龟	0
+gu shi xiao shao	顾氏肖蛸	0
+gu xi lu	古溪鹿	0
+gu yuan ji ying	古源棘蝇	0
+gu zao ji	古藻迹	0
+gu zhang xu sha	古长须鲨	0
+gu zhi chi ya gang	古栉齿亚纲	0
+gu zhuo di qi sheng wu	固着底栖生物	0

@@ -1,0 +1,1063 @@
+nan fang	南方	256007
+nan dou	南都	100491
+nan jing shi	南京市	60063
+nan chang	南昌	48014
+nan fei	南非	47245
+nan nv ping deng	男女平等	35179
+nan zhan	南站	17279
+nan hang	南航	14022
+nan men	南门	13339
+nan jiang	南疆	12673
+nan chang shi	南昌市	11652
+nan xiang	南翔	11578
+nan jing da xue	南京大学	11431
+nan mei	南美	10718
+nan cheng	南城	8645
+nan hu	南湖	8618
+nan qu	南区	8552
+nan yi wei ji	难以为继	8139
+nan yi zhi xin	难以置信	7977
+nan kai da xue	南开大学	7329
+nan neng ke gui	难能可贵	7237
+nan jiao	南郊	7101
+nan ning shi	南宁市	6809
+nan ping	南坪	6408
+nan yang	南洋	5976
+nan jing lu	南京路	5628
+nan chan	难产	4690
+nan yang shi	南阳市	4477
+nan shang jia nan	难上加难	3941
+nan mei bai dui xia	南美白对虾	3902
+nan jing shi fan da xue	南京师范大学	3680
+nan er huan	南二环	3576
+nan chong shi	南充市	3455
+nan chuan	南川	3376
+nan kai	南开	3333
+nan san huan	南三环	3136
+nan xing	南行	3066
+nan tou	南投	3051
+nan jie	南街	2979
+nan gua bing	南瓜饼	2959
+nan da men	南大门	2940
+nan che	南车	2767
+nan tong shi	南通市	2669
+nan kou	南口	2640
+nan yue	南岳	2430
+nan yi yu liao	难以预料	2329
+nan yuan bei zhe	南辕北辙	2324
+nan tou	南头	2297
+nan da jie	南大街	2191
+nan gua tang	南瓜汤	2167
+nan jing xi lu	南京西路	2021
+nan jing dong lu	南京东路	1969
+nan ping shi	南平市	1804
+nan nan zi yu	喃喃自语	1802
+nan ling	南岭	1769
+nan yan zhi yin	难言之隐	1755
+nan hui	南汇	1692
+nan an	南安	1635
+nan jing nong ye da xue	南京农业大学	1600
+nan zhuang	南庄	1593
+nan bin lu	南滨路	1523
+nan wan	南湾	1515
+nan lai bei wang	南来北往	1482
+nan jing gong ye da xue	南京工业大学	1468
+nan fei bo er shan yang	南非波尔山羊	1430
+nan yi qi ji	难以企及	1377
+nan yuan	南苑	1299
+nan jing lin ye da xue	南京林业大学	1267
+nan luo gu xiang	南锣鼓巷	1252
+nan feng	南丰	1206
+nan zhong guo	南中国	1195
+nan qiao	南桥	1152
+nan an shi	南安市	1145
+nan men kou	南门口	1135
+nan guan	南关	1114
+nan bei xing	南北杏	1059
+nan hu lu	南湖路	1054
+nan yi wan hui	难以挽回	1045
+nan po	南坡	1039
+nan gang	南岗	1025
+nan sha dao	南沙岛	986
+nan cheng qu	南城区	963
+nan jing cai jing da xue	南京财经大学	941
+nan yuan	南园	938
+nan xiao dao	南小岛	935
+nan hu gong yuan	南湖公园	889
+nan wang	南网	864
+nan yu shang qing tian	难于上青天	839
+nan pu da qiao	南浦大桥	822
+nan shi	南市	818
+nan chang lu	南昌路	803
+nan he	南河	789
+nan xiong shi	南雄市	766
+nan lou	南楼	740
+nan ping	南屏	721
+nan zheng bei zhan	南征北战	704
+nan zhang	南漳	690
+nan nv lao shao	男女老少	683
+nan huan lu	南环路	678
+nan yuan	南猿	665
+nan jing yan shui ya	南京盐水鸭	653
+nan jiang tie lu	南疆铁路	621
+nan ling cun	南岭村	618
+nan mi	南泌	610
+nan jing ban ya	南京板鸭	597
+nan xiong nan di	难兄难弟	586
+nan zhong	南中	580
+nan ding ge er	南丁格尔	556
+nan xun	南浔	528
+nan zhou	南洲	525
+nan tong da xue	南通大学	522
+nan xin	南新	519
+nan jiao gong yuan	南郊公园	511
+nan dan	南丹	496
+nan da ke ta zhou	南达科他州	492
+nan zun nv bei	男尊女卑	486
+nan she nan fen	难舍难分	480
+nan he	南和	477
+nan chao xian	南朝鲜	473
+nan jing yue jin	南京跃进	468
+nan xiang xiao long bao	南翔小笼包	466
+nan hu guang chang	南湖广场	462
+nan li	南里	444
+nan nv you bie	男女有别	442
+nan sha wan	南沙湾	439
+nan yuan ji chang	南苑机场	420
+nan hai qu zheng fu	南海区政府	415
+nan ling	南陵	413
+nan lin	南林	402
+nan shan gong an fen ju	南山公安分局	401
+nan tian men	南天门	400
+nan qiao tou	南桥头	396
+nan shan yi yuan	南山医院	396
+nan zheng	南郑	383
+nan zhao	南召	373
+nan wang	南望	366
+nan xiang man tou	南翔馒头	363
+nan hua	南化	351
+nan jie nan fen	难解难分	350
+nan qiao	南侨	343
+nan xiao jie	南小街	342
+nan han	南韩	333
+nan yue	南乐	331
+nan shao men	南稍门	321
+nan yi lu	南一路	317
+nan qiang bei diao	南腔北调	306
+nan kun shan	南昆山	301
+nan yi ming zhuang	难以名状	294
+nan hu da lu	南湖大路	293
+nan nong da	南农大	281
+nan xing	南星	279
+nan huai jin	南怀瑾	272
+nan da dao	南大道	271
+nan li shi lu	南礼士路	271
+nan ju bei zhi	南橘北枳	265
+nan she	南社	264
+nan tian	南田	264
+nan chang jie	南长街	263
+nan mo fang	南磨房	263
+nan deng da ya zhi tang	难登大雅之堂	261
+nan da lu	南大路	254
+nan gang wa	南岗洼	253
+nan tang	南塘	252
+nan ya	南丫	251
+nan bei zhu gan dao	南北主干道	248
+nan geng nv zhi	男耕女织	237
+nan xing xing gong neng zhang ai	男性性功能障碍	237
+nan shan da dao	南山大道	236
+nan er you lei bu qing tan	男儿有泪不轻弹	231
+nan jing gang	南京港	225
+nan hu hua yuan	南湖花园	224
+nan fang da sha	南方大厦	223
+nan guo xian sheng	南郭先生	223
+nan shao lin	南少林	221
+nan xiang xiao long man tou	南翔小笼馒头	212
+nan kang shi	南康市	211
+nan fen nan jie	难分难解	209
+nan yun he	南运河	208
+nan hai lu	南海路	207
+nan men qiao	南门桥	206
+nan pi	南皮	206
+nan tai	南台	206
+nan da qiao	南大桥	205
+nan ma tou	南码头	201
+nan bei da jie	南北大街	200
+nan shan fa yuan	南山法院	191
+nan fang hua yuan	南方花园	187
+nan qiao xin pian	南桥芯片	186
+nan fang gong si	南方公司	185
+nan ru deng tian	难如登天	183
+nan bao	南堡	182
+nan da dang hun	男大当婚	182
+nan huan nv ai	男欢女爱	181
+nan liu	南流	181
+nan wu ma lu	南五马路	181
+nan zhai	南寨	179
+nan hu cun	南湖村	174
+nan yuan xiao qu	南苑小区	173
+nan lu ji jing	南露脊鲸	170
+nan xin jie	南新街	170
+nan hai shi	南海市	169
+nan kong	南控	169
+nan sha jie	南沙街	167
+nan jing fei ya te xi ye na	南京菲亚特西耶那	157
+nan cai yuan	南菜园	156
+nan chi zi	南池子	156
+nan hu nan lu	南湖南路	155
+nan fen nan she	难分难舍	152
+nan er xi xia you huang jin	男儿膝下有黄金	151
+nan hou jie	南后街	151
+nan xing	南兴	151
+nan ying	南英	151
+nan qu lu	南区路	150
+nan ning lu	南宁路	147
+nan hua lu	南华路	146
+nan men li	南门里	146
+nan shan shi chang	南山市场	146
+nan yuan	南源	146
+nan yuan men	南院门	146
+nan chang mi fen	南昌米粉	145
+nan ke yi meng	南柯一梦	145
+nan xing bu yu zheng	男性不育症	144
+nan jing nan jie	南京南街	141
+nan shan zhuang yuan	南山庄园	141
+nan fa xin	南法信	140
+nan jian xian	南涧县	138
+nan xing sheng zhi xi tong	男性生殖系统	135
+nan ge	南各	134
+nan jing xian lin da xue cheng	南京仙林大学城	133
+nan san lu	南三路	133
+nan wang	南旺	133
+nan gou	南沟	132
+nan shun	南顺	132
+nan nv shou shou bu qin	男女授受不亲	130
+nan bai xiang	南白象	127
+nan jing yu hua cha	南京雨花茶	125
+nan qiao	南谯	125
+nan tun	南屯	125
+nan jing yin hang	南京银行	123
+nan jun	南郡	123
+nan hang gong si	南航公司	122
+nan chi zi da jie	南池子大街	121
+nan yao	南窑	121
+nan che zhan	南车站	119
+nan ru rou	南乳肉	117
+nan pu lu	南浦路	115
+nan hu da qiao	南湖大桥	112
+nan ying	南营	112
+nan hun nv jia	男婚女嫁	110
+nan xiao xiang	南小巷	109
+nan tou zhong xue	南头中学	107
+nan xin zhuang	南辛庄	106
+nan ping cun	南坪村	105
+nan yuan lu	南园路	105
+nan yang hu	南阳湖	102
+nan kan	南坎	101
+nan zheng jie	南正街	101
+nan jin guan	南津关	100
+nan lian cun	南联村	100
+nan chao si bai ba shi si	南朝四百八十寺	97
+nan hu xiao qu	南湖小区	97
+nan yue yun wu cha	南岳云雾茶	97
+nan hai xian	南海县	96
+nan hua yuan	南花园	96
+nan mo fang xiang	南磨房乡	96
+nan ri bao	南日鲍	96
+nan shi	南石	95
+nan xi xian	南溪县	94
+nan xin lu	南新路	94
+nan shi li	南十里	93
+nan gong shi	南宫市	92
+nan shan wen ti zhong xin	南山文体中心	92
+nan tong gang	南通港	92
+nan shao	南邵	91
+nan jian wan zi	南煎丸子	90
+nan ma tou lu	南码头路	90
+nan tang cun	南塘村	90
+nan mu cun	楠木村	89
+nan dan dong lu	南丹东路	88
+nan guo	南果	88
+nan nuo bai hao	南糯白毫	87
+nan bo ji tuan	南玻集团	85
+nan cai	南彩	85
+nan jing xiang du	南京香肚	85
+nan hu xin cun	南湖新村	84
+nan wan	南万	84
+nan an cun	南岸村	83
+nan yan	南岩	82
+nan dao nv chang	男盗女娼	81
+nan er lu	南二路	81
+nan gua bao	南瓜包	80
+nan luo	南洛	80
+nan yi li yu	难以理喻	80
+nan pu cun	南浦村	79
+nan xiao qu	南小区	79
+nan er ben se	男儿本色	77
+nan keng cun	南坑村	72
+nan qu	南渠	72
+nan shan she qu	南山社区	72
+nan yang zhong xue	南洋中学	71
+nan pu tuo	南普陀	70
+nan gong yuan	南公园	69
+nan si	南寺	69
+nan dan lu	南丹路	68
+nan fang shang cheng	南方商城	68
+nan hai shi yan zhong xue	南海实验中学	68
+nan men jie	南门街	68
+nan feng lu	南丰路	67
+nan hu dong yuan	南湖东园	67
+nan hu qi nan	难乎其难	67
+nan jing	难经	67
+nan ma lu	南马路	65
+nan jie she qu	南街社区	64
+nan xing qiao	南星桥	64
+nan fei he lu	南淝河路	62
+nan yue cun	南岳村	61
+nan tian cun	南田村	60
+nan wei lu	南纬路	60
+nan yan	南堰	60
+nan da dang hun nv da dang jia	男大当婚女大当嫁	58
+nan yue miao	南岳庙	58
+nan liao	南寮	57
+nan sha tan	南沙滩	57
+nan xiu cun	南秀村	57
+nan che zhan lu	南车站路	56
+nan xi shan	南溪山	56
+nan tong zhong xue	南通中学	55
+nan ao zhou	南澳洲	54
+nan yang jie	南阳街	54
+nan nan xi yu	喃喃细语	53
+nan tong lu	南通路	53
+nan dian	南店	52
+nan jiao	南窖	52
+nan wei	南位	52
+nan zhan xi lu	南站西路	51
+nan an gong yuan	南岸公园	50
+nan shan nong pi	南山农批	50
+nan zhou jie dao	南洲街道	50
+nan bei gao su	南北高速	49
+nan cha	南岔	49
+nan xi cun	南溪村	49
+nan xi he	南溪河	49
+nan gua tuan zi	南瓜团子	48
+nan guan ling	南关岭	48
+nan yi lou	南一楼	48
+nan bai	南白	47
+nan chuan bei ma	南船北马	47
+nan feng gong lu	南奉公路	47
+nan yuan xiao qu	南园小区	47
+nan zhang cun	南张村	47
+nan mu lin	楠木林	46
+nan qiao cun	南桥村	46
+nan fen	南芬	45
+nan geng	南庚	45
+nan sha wo qiao	南沙窝桥	44
+nan xiao bu	南肖埠	44
+nan zhu lin	楠竹林	44
+nan yang cun	南洋村	43
+nan fang	南坊	42
+nan heng jie	南横街	42
+nan liang po	南梁坡	42
+nan mu pu xiang	楠木铺乡	42
+nan chuan shi	南川市	41
+nan hai yi yuan	南海医院	41
+nan pu	南埔	41
+nan rou chun sun	南肉春笋	41
+nan xia shu	南夏墅	41
+nan yuan cun	南园村	41
+nan er lou	南二楼	40
+nan jin	南金	40
+nan sha cun	南沙村	40
+nan kou lu	南口路	39
+nan men wai da jie	南门外大街	39
+nan you da sha	南油大厦	39
+nan hu shan zhuang	南湖山庄	38
+nan shan xia	南山下	38
+nan feng cun	南丰村	37
+nan xiao jie san cun	南小街三村	37
+nan ao zhen	南澳镇	36
+nan ping da qiao	南屏大桥	36
+nan shan bai mao cha	南山白毛茶	36
+nan zhuang yi yuan	南庄医院	36
+nan chi	南池	35
+nan he tan	南河滩	35
+nan jing xin gang	南京新港	35
+nan hua cun	南华村	34
+nan kai da xue jing ji xi	南开大学经济系	34
+nan xing jia liang xing ji xing	男性假两性畸形	34
+nan er men	南二门	33
+nan fang ruan jian yuan	南方软件园	33
+nan jiang cun	南江村	33
+nan ma zhuang	南马庄	33
+nan shi li ju	南十里居	33
+nan suo	南所	33
+nan hu xin cun zhong jie	南湖新村中街	32
+nan nei huan qiao xi	南内环桥西	32
+nan sha bing	南沙饼	32
+nan dian zi	南店子	31
+nan li zhuang	南李庄	31
+nan ri bao yu	南日鲍鱼	31
+nan yuan she qu	南园社区	31
+nan jiang bin gong yuan	南江滨公园	30
+nan ping jie kou	南屏街口	30
+nan hu yu chang	南湖渔场	29
+nan hui xian	南汇县	29
+nan jia	南家	29
+nan shan yuan	南山园	29
+nan ling lu	南陵路	28
+nan mu ting	楠木厅	28
+nan yao tou	南窑头	28
+nan yi ma lu	南一马路	28
+nan yuan xin cun	南苑新村	28
+nan chang chao fen	南昌炒粉	27
+nan hu xi yuan	南湖西园	27
+nan nv lao you	男女老幼	27
+nan ping xian	南坪县	27
+nan quan lu	南泉路	27
+nan xu	南徐	27
+nan guan	南观	26
+nan hai yu chang	南海渔场	26
+nan xing niao dao	男性尿道	26
+nan xiong xian	南雄县	26
+nan zheng bei tao	南征北讨	26
+nan er she qu	南二社区	25
+nan ge zhuang	南各庄	25
+nan tian zhu	南天竺	25
+nan chang lu kou	南昌路口	24
+nan dian cun	南店村	24
+nan hua xi jie dao	南华西街道	24
+nan jiao san gong li	南郊三公里	24
+nan kang xin cun	南康新村	24
+nan shan xiao xue	南山小学	24
+nan shi jie	南市街	24
+nan yi ni liao	难以逆料	24
+nan chen lu	南陈路	23
+nan chui jing	南槌鲸	23
+nan gao	南皋	23
+nan jiao lu	南郊路	23
+nan kou nong chang	南口农场	23
+nan ping zhuang	南平庄	23
+nan yang xian	南阳县	23
+nan an xian	南安县	22
+nan bei qiao	南北桥	22
+nan dou	南斗	22
+nan hu qiao	南湖桥	22
+nan hua yuan	南华苑	22
+nan jing	南景	22
+nan pu qiao	南浦桥	22
+nan xin zhuang jie dao	南辛庄街道	22
+nan yang jun	南阳郡	22
+nan yang you tian	南阳油田	22
+nan yang zhi ye ji shu xue yuan	南洋职业技术学院	22
+nan da hong men	南大红门	21
+nan tang	南堂	21
+nan tong huo che zhan	南通火车站	21
+nan xing cun	南星村	21
+nan cun cun	南村村	20
+nan cun jie dao	南村街道	20
+nan ding cun	南顶村	20
+nan gong xian	南宫县	20
+nan guan ban shi chu	南关办事处	20
+nan san men	南三门	20
+nan sha shen	南沙参	20
+nan yuan bei li	南苑北里	20
+nan zhi	南直	20
+nan chun	南春	19
+nan jian guo ba dou fen	南涧锅巴豆粉	19
+nan kai san ma lu	南开三马路	19
+nan kou tie lu yi yuan	南口铁路医院	19
+nan wa cun	南洼村	19
+nan xun xiang da tou cai	南浔香大头菜	19
+nan yao	南瑶	19
+nan cheng zi	南城子	18
+nan hu xie fen	南湖蟹粉	18
+nan jing lu wai tan	南京路外滩	18
+nan xiao jie xi li	南小街西里	18
+nan xing geng nian qi zong he zheng	男性更年期综合征	18
+nan zhai	南宅	18
+nan gong ye qu	南工业区	17
+nan guo you jia ren	南国有佳人	17
+nan hai dao	南海道	17
+nan hai gong an ju	南海公安局	17
+nan hua ji tuan	南华集团	17
+nan men tou	南门头	17
+nan shi li pu cun	南十里铺村	17
+nan shi lu	南石路	17
+nan shu	南墅	17
+nan wu li dian	南五里店	17
+nan xiao bu xiao qu	南肖埠小区	17
+nan yuan jie dao	南源街道	17
+nan zhui ti gong tong shi chang	南锥体共同市场	17
+nan cheng jie	南城街	16
+nan jiang lu	南江路	16
+nan jing dong lu wai tan	南京东路外滩	16
+nan kou qian	南口前	16
+nan kou yi yuan	南口医院	16
+nan lin cun	南林村	16
+nan tong tiao mian	南通跳面	16
+nan yang zhuang	南杨庄	16
+nan you jiu dian	南油酒店	16
+nan ba cun	南坝村	15
+nan ban lan gen	南板蓝根	15
+nan er he bu dai wu gou	男儿何不带吴钩	15
+nan gong shi chang	南宫市场	15
+nan hu gang	南湖港	15
+nan hua shi chang	南华市场	15
+nan ping ke ji yuan	南屏科技园	15
+nan xi lu	南溪路	15
+nan xiao shun hu tong	南晓顺胡同	15
+nan xin zhuang	南新庄	15
+nan yuan lu kou	南园路口	15
+nan an jing dou	南岸晶都	14
+nan chong xian	南充县	14
+nan guan cun cun wei hui	南关村村委会	14
+nan jian gan	南煎肝	14
+nan men gang	南门岗	14
+nan pu cun	南埔村	14
+nan pu gong yuan	南浦公园	14
+nan shan bin guan	南山宾馆	14
+nan shi zhen	南市镇	14
+nan xiao he	南小河	14
+nan zhan huo chang	南站货场	14
+nan bin hua yuan	南滨花园	13
+nan hua cheng	南华城	13
+nan lian lu	南联路	13
+nan mo	南莫	13
+nan ping gong ye yuan	南屏工业园	13
+nan xin yuan	南新园	13
+nan xing nv xing hua	男性女性化	13
+nan ying tao yuan	南樱桃园	13
+nan dun	南墩	12
+nan ling yi yuan	南岭医院	12
+nan lv	南吕	12
+nan ma cun	南马村	12
+nan ping qiao	南屏桥	12
+nan ping zhong xue	南屏中学	12
+nan qi jia zhuang cun	南七家庄村	12
+nan sheng jie dao	南盛街道	12
+nan shi cun	南石村	12
+nan ya	南垭	12
+nan yang zhu ge lu	南阳诸葛庐	12
+nan bu	南埠	11
+nan chuan xian	南川县	11
+nan gua gan er gao	南瓜干儿糕	11
+nan ji cao mei bing	南荠草莓饼	11
+nan jiao xiang	南湫乡	11
+nan li cun	南李村	11
+nan mu ping xiang	楠木坪乡	11
+nan shan men kou	南山门口	11
+nan shui guan	南水关	11
+nan tong xian	南通县	11
+nan yun he nan lu	南运河南路	11
+nan zheng cun	南郑村	11
+nan zhou she qu	南洲社区	11
+nan zhu gan hu tong	南竹杆胡同	11
+nan zhu shan cun	楠竹山村	11
+nan bai	南百	10
+nan ban bi dian	南半壁店	10
+nan chan shan	南禅山	10
+nan cheng	南埕	10
+nan dou cun	南斗村	10
+nan fang ka si te di mao	南方喀斯特地貌	10
+nan gong nan zhan	南宫南站	10
+nan gong xin yuan xiao qu	南宫新苑小区	10
+nan guo lian qu bing ka fei	南国恋曲冰咖啡	10
+nan guo men	南郭门	10
+nan hu da shan	南湖大山	10
+nan hua zhen	南化镇	10
+nan jiang cun	南姜村	10
+nan jing	南井	10
+nan liang	南凉	10
+nan liu ma lu	南六马路	10
+nan men cang hu tong	南门仓胡同	10
+nan miao cun	南庙村	10
+nan qi jia	南七家	10
+nan san lou	南三楼	10
+nan shan kuang	南山矿	10
+nan xin bao cun	南辛堡村	10
+nan yan zhu zhen	南燕竹镇	10
+nan yang lu	南洋路	10
+nan yuan jie	南苑街	10
+nan yuan xi lu	南苑西路	10
+nan zheng	南证	10
+nan bao jiao nang	男宝胶囊	9
+nan chao	南巢	9
+nan gou yan	南沟沿	9
+nan gua gu lao xia	南瓜咕老虾	9
+nan gua xian xia sha la	南瓜鲜虾沙拉	9
+nan guan fang hu tong	南官房胡同	9
+nan hu xi li	南湖西里	9
+nan kai san wei lu	南开三纬路	9
+nan nian feng cun	南年丰村	9
+nan tang she qu	南塘社区	9
+nan tong fu yuan	南通附院	9
+nan wa zi	男娃子	9
+nan wu	南坞	9
+nan xi mai bing	楠溪麦饼	9
+nan xin bao	南辛堡	9
+nan yao tou dong qu	南窑头东区	9
+nan dou hua yuan	南都花园	8
+nan dun cun	南墩村	8
+nan ge zhuang cun	南各庄村	8
+nan gui qiao	南桂桥	8
+nan hai li shui dong gua	南海里水冬瓜	8
+nan hu hua yuan	南湖花苑	8
+nan ji xiang hu tong	南吉祥胡同	8
+nan liang cun	南梁村	8
+nan shi dao jie	南石道街	8
+nan tian si	南天寺	8
+nan tou lian jian zhan	南头联检站	8
+nan yao cun	南姚村	8
+nan zhong guo hu	南中国虎	8
+nan ban jie hu tong	南半截胡同	7
+nan chuang	南幢	7
+nan fang gu yuan ya ke	南方古猿亚科	7
+nan gong dong zhan	南宫东站	7
+nan gua chao xia mi	南瓜炒虾米	7
+nan han guang chang	南寒广场	7
+nan he	南合	7
+nan jie cun	南界村	7
+nan jie ju wei hui	南街居委会	7
+nan jing cun	南景村	7
+nan jing shi dang an tiao li	南京市档案条例	7
+nan kai er wei lu	南开二纬路	7
+nan ling	南凌	7
+nan mei cun	南美村	7
+nan men cang	南门仓	7
+nan pu zhu zhai qu	南浦住宅区	7
+nan shui xin cun	南水新村	7
+nan song ding sheng gao	南宋定胜糕	7
+nan su	南塑	7
+nan xi zhuang	南西庄	7
+nan yang cun	南杨村	7
+nan yang xue xiao	南洋学校	7
+nan yao	南尧	7
+nan yuan gong xiang	南元宫巷	7
+nan zhi xing pin xue	难治性贫血	7
+nan zhuang tou	南庄头	7
+nan zu	南组	7
+nan ao shan	南澳山	6
+nan diao jie dao	南调街道	6
+nan en jie dao	南恩街道	6
+nan ge xiang	南阁乡	6
+nan guan zhuang	南官庄	6
+nan he cun	南何村	6
+nan hua xin cun	南化新村	6
+nan jiao chang	南较场	6
+nan jin cun	南金村	6
+nan jin gong lu	南金公路	6
+nan kai er ma lu	南开二马路	6
+nan kou bei zhan	南口北站	6
+nan men jiang	南门江	6
+nan pu gong ye qu	南埔工业区	6
+nan shan kuang qu	南山矿区	6
+nan xia ni qiu fen gan	南霞泥鳅粉干	6
+nan xian ge	南线阁	6
+nan xiang li	南香里	6
+nan yao zi cun	南窑子村	6
+nan zhai zhuang hu cun	南宅庄户村	6
+nan bu jin gui	南部锦龟	5
+nan da hong men cun	南大红门村	5
+nan du le he	南独乐河	5
+nan gong jiang ying hu tong	南弓匠营胡同	5
+nan guan fang	南官房	5
+nan hao zhuang cun	南郝庄村	5
+nan hua ge zhuang	南化各庄	5
+nan liu lou	南六楼	5
+nan lu er she qu	南路二社区	5
+nan lu san she qu	南路三社区	5
+nan men hu	南门湖	5
+nan meng	南孟	5
+nan qing xiang	南箐乡	5
+nan shang le	南尚乐	5
+nan sheng hu an	南圣胡安	5
+nan tong bo wu yuan	南通博物院	5
+nan xiao jie er cun	南小街二村	5
+nan xin ping hu tong	南新平胡同	5
+nan xin xiao qu	南新小区	5
+nan ying zi cun	南营子村	5
+nan you hua yuan	南油花园	5
+nan you wu ye	南油物业	5
+nan yu lin xiang	南榆林乡	5
+nan yuan lu guo yuan	南苑路果园	5
+nan bai gao su	南百高速	4
+nan bei li she qu	南北里社区	4
+nan bu xian wei sheng ju	南部县卫生局	4
+nan chai	南柴	4
+nan che lu	南车路	4
+nan cheng cun	南埕村	4
+nan da jing	南大井	4
+nan de you xin lang	难得有心郎	4
+nan er dao si xin ru tie	男儿到死心如铁	4
+nan gang zi	南岗子	4
+nan gao zhuang cun	南高庄村	4
+nan gua xiao dian	南瓜小点	4
+nan hai shi jie	南海食街	4
+nan huan lu xi	南环路西	4
+nan kang xian	南康县	4
+nan men cang she qu	南门仓社区	4
+nan men yang	南门洋	4
+nan mu da xiang	南木达乡	4
+nan mu xiang	南木乡	4
+nan ni wan lu	南泥湾路	4
+nan pan cun	南潘村	4
+nan qiang wan	南墙湾	4
+nan shui guan hu tong	南水关胡同	4
+nan tang	南汤	4
+nan tian hua yuan	南天花园	4
+nan wang wang shi you yi nian	南望王师又一年	4
+nan wen chang hu tong	南文昌胡同	4
+nan wu wei zi	南五味子	4
+nan xiao jie dong li	南小街东里	4
+nan xiao jie yi cun	南小街一村	4
+nan xin zhuang hu cun	南辛庄户村	4
+nan yan cun	南岩村	4
+nan yuan chun ban ta qing shi	南园春半踏青时	4
+nan zhen an jie	南镇安街	4
+nan zhuang cun cun wei hui	南庄村村委会	4
+nan bai er ji	南百二级	3
+nan bei bang an	南北榜案	3
+nan cheng mei jing	南城美境	3
+nan dian zi zhen	南甸子镇	3
+nan dong cun	南冬村	3
+nan er dao ci shi hao xiong	男儿到此是豪雄	3
+nan fang hang kong	南方航空	3
+nan fei gong he guo xian fa	南非共和国宪法	3
+nan feng ao	南峰凹	3
+nan geng yu ren tong	难更与人同	3
+nan gua zheng rou	南瓜蒸肉	3
+nan guo feng yan zheng shi nian	南国烽烟正十年	3
+nan guo zhuang cun	南郭庄村	3
+nan han jie dao	南寒街道	3
+nan hao qian	南壕堑	3
+nan hong	南弘	3
+nan hu li yuan	南湖俪苑	3
+nan hua yuan san qu	南华园三区	3
+nan huan zhong lu	南环中路	3
+nan jiang shui jing wu hua guo	南疆水晶无花果	3
+nan jiao er gong li	南郊二公里	3
+nan jiao liu gong li	南郊六公里	3
+nan kai da xue xi nan cun	南开大学西南村	3
+nan kai si wei lu	南开四纬路	3
+nan kai wu ma lu	南开五马路	3
+nan kai wu wei lu	南开五纬路	3
+nan keng shui ku	南坑水库	3
+nan kou huan dao	南口环岛	3
+nan li	南李	3
+nan li xiang	南里乡	3
+nan ling bie er tong ru jing	南陵别儿童入京	3
+nan ma ji	南马集	3
+nan mei she qu	南美社区	3
+nan ming jie dao	南明街道	3
+nan nei huan dong kou	南内环东口	3
+nan pai fang hu tong	南牌坊胡同	3
+nan pu zhen	南浦镇	3
+nan qiang	南羌	3
+nan ru xiao pai	南乳小排	3
+nan sai xiang	南赛乡	3
+nan shan lv ye	南山铝业	3
+nan she ling	南蛇岭	3
+nan shi xi dian	南式细点	3
+nan sun zhuang xiang	南孙庄乡	3
+nan tong shi cheng guan ju	南通市城管局	3
+nan wang lu	南王路	3
+nan xiao gong yuan	南效公园	3
+nan xiao jie zhong li	南小街中里	3
+nan xin dian yi cun	南辛店一村	3
+nan xing geng nian qi zong he zheng	男性更年期综合症	3
+nan xing gong yu	南星公寓	3
+nan xing xing tu fa	男性型秃发	3
+nan yang hu tong	南阳胡同	3
+nan yi	南驿	3
+nan yong cun	南庸村	3
+nan yu xiang	南峪乡	3
+nan yun he bei lu	南运河北路	3
+nan zhi cun	南枝村	3
+nan zhu gan she qu	南竹杆社区	3
+nan zhu xi da jie	南珠西大街	3
+nan an ming zhu	南岸明珠	2
+nan ba bao hu tong	南八宝胡同	2
+nan bei gang shui chan chang	南北港水产场	2
+nan bu cun	南埠村	2
+nan cheng jiao	南城脚	2
+nan chuan yuan	南川园	2
+nan chuang cun	南幢村	2
+nan di si dong cun	南堤寺东村	2
+nan di si xi cun	南堤寺西村	2
+nan dian yuan	南甸苑	2
+nan dong ting lu wei chang	南洞庭芦苇场	2
+nan er zhong yi qi	男儿重意气	2
+nan fan zhen	南凡镇	2
+nan feng da jiu dian	南风大酒店	2
+nan gang zi she qu	南岗子社区	2
+nan gao xiang zheng fu	南皋乡政府	2
+nan geng nv sang bu xiang shi	男耕女桑不相失	2
+nan gou lin chang	南沟林场	2
+nan gou ni he	南沟泥河	2
+nan guo zhi ye	南国置业	2
+nan hai hua yuan	楠海花园	2
+nan hang lan cui yuan	南航揽翠苑	2
+nan hu qiu shui ye wu yan	南湖秋水夜无烟	2
+nan hu shi yan xiao xue	南湖实验小学	2
+nan hu yuan zhong chang	南湖原种场	2
+nan hua yuan si qu	南华园四区	2
+nan huan li she qu	南环里社区	2
+nan ji lao ren xing	南极老人星	2
+nan jing mai gao qiao chuang ye yuan	南京迈皋桥创业园	2
+nan jing xin bai	南京新百	2
+nan keng wei	南坑尾	2
+nan kou zhen cun	南口镇村	2
+nan lang ming yue ye	赧郎明月夜	2
+nan lou zong mu chu	南楼纵目初	2
+nan lu cao yuan hu tong	南芦草园胡同	2
+nan lu yi she qu	南路一社区	2
+nan luo ping cun	南洛平村	2
+nan mei la hu zu xiang	南美拉祜族乡	2
+nan ning tang ye	南宁糖业	2
+nan ping shui ku	南屏水库	2
+nan ping xiao qu	南屏小区	2
+nan qiang feng she qu	南墙缝社区	2
+nan shan an zhi qu	南山安置区	2
+nan shan he qi bei	南山何其悲	2
+nan shan tou	南山头	2
+nan she keng	南蛇坑	2
+nan shi cao	南石槽	2
+nan shi da jie	南市大街	2
+nan shui che zhan	南水车站	2
+nan shui shi chang	南水市场	2
+nan sun zhuang cun	南孙庄村	2
+nan tai chang si	南太常寺	2
+nan tian xin xi	南天信息	2
+nan tong tian bao gua	南通甜包瓜	2
+nan tun ji zhen	南屯基镇	2
+nan wa fang	南瓦坊	2
+nan wan hu jun ken nong chang	南湾湖军垦农场	2
+nan wan zi hu tong	南湾子胡同	2
+nan wang yi fei qi dao	难罔以非其道	2
+nan wu lao hu tong	南五老胡同	2
+nan xia mei cun	南霞美村	2
+nan xiang yu cun	南香峪村	2
+nan xiao zhuang	南小庄	2
+nan xin lu kou	南新路口	2
+nan xin xin cun	南新新村	2
+nan xing dao	南兴道	2
+nan xu cun xiang	南徐村乡	2
+nan ya xin cun	南雅新村	2
+nan ying zi	南营子	2
+nan yuan bei ma lu	南苑北马路	2
+nan yuan shi san shou	南园十三首	2
+nan zhang hu bei e	南漳湖北鳄	2
+nan zhi xiang nuan bei zhi han	南枝向暖北枝寒	2
+nan zhou da qiao	南洲大桥	2
+nan zhu dong da jie	南珠东大街	2
+nan an shi jin qiao zhong xue	南安市金桥中学	1
+nan bang cun	南浜村	1
+nan bei da jie bei yang xin li	南北大街北洋新里	1
+nan bei dong xi lu	南北东西路	1
+nan bei sha shen	南北沙参	1
+nan bei wu qian li	南北五千里	1
+nan bei yi shan men	南北一山门	1
+nan bin jiu shu chu	南宾旧属楚	1
+nan bo wang	南博网	1
+nan cang dao	南仓道	1
+nan cang qiao	南仓桥	1
+nan cha fang tong da nan zhan	南茶坊通达南站	1
+nan cha gou	南岔沟	1
+nan chang shi zhao yang nong chang	南昌市朝阳农场	1
+nan chao ci chen bei chao ke	南朝词臣北朝客	1
+nan cheng wu hei ji	南城五黑鸡	1
+nan cheng ye ban qian ou fa	南城夜半千沤发	1
+nan chong ming lu	南崇明路	1
+nan chuan dong lu jie dao	南川东路街道	1
+nan chuang bei you gua ming guang	南窗北牖挂明光	1
+nan da an hu tong	南大安胡同	1
+nan da hu cun	南大湖村	1
+nan da jie cun	南大街村	1
+nan da jie ju wei hui	南大街居委会	1
+nan da shan man zu xiang	南大山满族乡	1
+nan da ting	南大亭	1
+nan deng du ling shang	南登杜陵上	1
+nan ding lu she qu	南顶路社区	1
+nan dong fang zhen	南东坊镇	1
+nan dou xin jia li	南都信佳丽	1
+nan er ben zi zhong heng xing	男儿本自重横行	1
+nan er sheng shi jian	男儿生世间	1
+nan fang yao chang	南方药厂	1
+nan fang you niao yan	南方有鸟焉	1
+nan fei jue you an chao niao	南飞觉有安巢鸟	1
+nan fen jiang hu tong	南粉浆胡同	1
+nan feng bu yong pu kui shan	南风不用蒲葵扇	1
+nan feng hu tong	南丰胡同	1
+nan feng zhen	南峰镇	1
+nan fu xiang	南福巷	1
+nan gan chi cun	南甘池村	1
+nan gao ya xiang	南高崖乡	1
+nan gao zhuang cun cun wei hui	南高庄村村委会	1
+nan gong min	南宫民	1
+nan gou yan hu tong	南沟沿胡同	1
+nan gua hua zhou	南瓜花粥	1
+nan guan ling zhen	南关岭镇	1
+nan guang yang cheng	南广阳城	1
+nan gui	楠桂	1
+nan guo zheng fang chun	南国正芳春	1
+nan hai da sha	南海大厦	1
+nan hao zhuang	南郝庄	1
+nan he xi	南河西	1
+nan hu da fan dian	南湖大饭店	1
+nan hu dong yuan ju wei hui	南湖东园居委会	1
+nan hu jing yuan	南湖景苑	1
+nan hu lu bei kou	南湖路北口	1
+nan hu nan lu bei kou	南湖南路北口	1
+nan hu you heng yi	难乎有恒矣	1
+nan hua qi huo	南华期货	1
+nan huo shan hu tong	南火扇胡同	1
+nan jia gou	南家沟	1
+nan jia ye	南佳也	1
+nan jiang yuan	南江苑	1
+nan jin lu jie dao	南津路街道	1
+nan kai da xue bei cun	南开大学北村	1
+nan kai ge de	南开戈德	1
+nan kai liu ma lu	南开六马路	1
+nan kai miao zu yi zu xiang	南开苗族彝族乡	1
+nan ke yu deng qi	难可与等期	1
+nan keng xiang	南坑乡	1
+nan kou li zhuang	南口李庄	1
+nan li yuan	南梨园	1
+nan lian xin cun	南炼新村	1
+nan lin lu	南林路	1
+nan lou di xiang	南娄底乡	1
+nan lu ban shi chu	南禄办事处	1
+nan ming nai	南明奈	1
+nan ni xiang	南尼乡	1
+nan nong she qu	南农社区	1
+nan ping he	南坪河	1
+nan ping jie	南平街	1
+nan pu qi qi bie	南浦凄凄别	1
+nan pu zhou ying cun	南蒲州营村	1
+nan qi li zhan jie dao	南七里站街道	1
+nan qiao cun	南侨村	1
+nan qu bai yue zhi di	南取百越之地	1
+nan qu di er she qu	南区第二社区	1
+nan quan qu	南泉区	1
+nan quan xin cun	南泉新村	1
+nan rong jie qi duo	南荣戒其多	1
+nan ru xiao feng bing	南乳小凤饼	1
+nan san li she qu	南三里社区	1
+nan sha gang	南沙岗	1
+nan shan gui bi lu	南山归敝庐	1
+nan shan lou	南山楼	1
+nan shan tian zhong hang	南山田中行	1
+nan shan yu qiu se	南山与秋色	1
+nan shi li ju bei zhan	南十里居北站	1
+nan shi li pu	南十里堡	1
+nan shi qiao cun	南石桥村	1
+nan song nian hu tong	南颂年胡同	1
+nan sun cun	南孙村	1
+nan tan cun	南坛村	1
+nan ti lu	南体路	1
+nan tian xiang	南田乡	1
+nan tong ke ji	南通科技	1
+nan tong wen ge	南通文蛤	1
+nan tong you bing	南通油饼	1
+nan tou zong zhan	南头总站	1
+nan wa xiang	南瓦乡	1
+nan wan hu ban shi chu	南湾湖办事处	1
+nan wei lu she qu	南纬路社区	1
+nan wu xiang	南武乡	1
+nan xia wa zi hu tong	南下洼子胡同	1
+nan xiang feng hu tong	南翔凤胡同	1
+nan xiao qu she qu	南小区社区	1
+nan xing fu chu wang	南行拂楚王	1
+nan xun cun	南浔村	1
+nan ya gu nong die	南亚谷弄蝶	1
+nan ya shui ku	南雅水库	1
+nan ya yi yuan	南亚医院	1
+nan yang liu zi ji	南阳刘子骥	1
+nan yang xin cun	南扬新村	1
+nan yao tou xiao qu	南窑头小区	1
+nan ying jie dao	南营街道	1
+nan ying tao yuan lu kou bei	南樱桃园路口北	1
+nan ying tao yuan lu kou nan	南樱桃园路口南	1
+nan ying tao yuan lu kou xi	南樱桃园路口西	1
+nan yu bing wei ren yi	难与并为仁矣	1
+nan yuan xiang	南垣乡	1
+nan yuan xiang	南塬乡	1
+nan yuan yi cun	南苑一村	1
+nan yue si	南岳寺	1
+nan zhai cun wei hui	南寨村委会	1
+nan zhan dang xiao	南站党校	1
+nan zhang dai cun	南张岱村	1
+nan zhang ke cun	南章客村	1
+nan zhou ru shu zui ru jiu	南州溽暑醉如酒	1
+nan zhuang jie dao	南庄街道	1
+nan an di si shan xue xiao	南安地斯山穴鸮	0
+nan ao ao bi tun	南澳凹鼻鲀	0
+nan ao bian hong	南澳扁魟	0
+nan ao cao wei	南澳草鳚	0
+nan ao ci sha	南澳刺鲨	0
+nan ao duan ge tun	南澳短革鲀	0
+nan ao hou ha	南澳厚蛤	0
+nan ao xia zhen yu	南澳下鱵鱼	0
+nan ao xiao he xue	南澳小褐鳕	0
+nan ao yuan tun	南澳圆鲀	0
+nan ao zhou ci bi yu	南澳洲刺躄鱼	0
+nan bai lian jiao xiao	南白脸角鸮	0
+nan bu ya ma xun hong song shu	南部亚马逊红松鼠	0
+nan bu zhu bi she	南部猪鼻蛇	0
+nan cheng hua nan xi xie	南城华南溪蟹	0
+nan da xi yang mu shi an guang	南大西洋穆氏暗光	0
+nan di xiong	楠迪熊	0
+nan er yi mao yin	男儿异毛蚓	0
+nan fang bo yuan zheng chi e	南方波缘正尺蛾	0
+nan fang gu yuan jing qi zhong	南方古猿惊奇种	0
+nan fang gu yuan lei qun	南方古猿类群	0
+nan fang gu yuan ling yang he zhong	南方古猿羚羊河种	0
+nan fang gu yuan yuan quan zhong	南方古猿源泉种	0
+nan fang hui bo lao	南方灰伯劳	0
+nan fang mang hui lu	南方盲鮰鲈	0
+nan fang mang jiao chou meng	南方芒角臭虻	0
+nan fang ping bi jing	南方瓶鼻鲸	0
+nan fang tun ji diao	南方臀棘鲷	0
+nan fang zhang xu qiu tuo	南方长须鳅鮀	0
+nan fei bian shi xie	南非扁石蝎	0
+nan fei ce dai xiao gong yu	南非侧带小公鱼	0
+nan fei cheng cu hua mi niao	南非橙簇花蜜鸟	0
+nan fei cong ju	南非丛鵙	0
+nan fei duo ba he zhen yu	南非多耙颌针鱼	0
+nan fei duo zhi you	南非多指鲉	0
+nan fei ge bai ling	南非歌百灵	0
+nan fei ge bi	南非歌鵖	0
+nan fei hei weng	南非黑鹟	0
+nan fei hong chi ju	南非红翅鵙	0
+nan fei hui jiao juan	南非灰蕉鹃	0
+nan fei jian wei wu xu xue	南非尖尾无须鳕	0
+nan fei jin hua yi	南非金花鮨	0
+nan fei wu jiu	南非兀鹫	0
+nan fu mo yuan xian chong	南蝠莫圆线虫	0
+nan gua lei jing xi chong	南瓜类茎吸虫	0
+nan gua xie ban tian niu	南瓜斜斑天牛	0
+nan hui bo lao	南灰伯劳	0
+nan ji guang yan chong	南极光眼虫	0
+nan jing wei juan ye mian ya	南京伪卷叶绵蚜	0
+nan jing zhi wei xian chong	南京直尾线虫	0
+nan mei bi ge mi song shu	南美俾格米松鼠	0
+nan mei da huang die	南美大黄蝶	0
+nan mei tan shu shu	南美滩鼠属	0
+nan mo lu jia fei cui	南摩鹿加翡翠	0
+nan ou feng tou bai ling	南欧凤头百灵	0
+nan ping bi jing	南瓶鼻鲸	0
+nan sha li bei	南沙笠贝	0
+nan tai wen hu	南台吻虎	0
+nan tai wen xia hu yu	南台吻鰕虎鱼	0
+nan tai zhong hua pa yan qiu	南台中华爬岩鳅	0
+nan tai zhong hua xi qiu	南台中华吸鳅	0
+nan wei li qi shen wei	南纬离鳍深鳚	0
+nan wei ling	南苇羚	0
+nan xiong gui	南雄龟	0
+nan ya da yan zhang chun	南亚大眼长蝽	0
+nan ya duo leng yuan fei	南亚多棱圆鲱	0
+nan ya gua zong shi ying	南亚寡鬃实蝇	0
+nan ya guo shi ying	南亚果实蝇	0
+nan yin du yang mu shi an guang	南印度洋穆氏暗光	0
+nan yin ya hai fang	南印亚海鲂	0

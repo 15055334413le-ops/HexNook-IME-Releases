@@ -1,0 +1,140 @@
+kou chu	扣除	34907
+kou rou	扣肉	24839
+kou liu	扣留	17278
+kou qiang	口腔	13937
+kou fu	口服	5246
+kou kou xiang chuan	口口相传	3822
+kou ke	口渴	3674
+kou zhu bi fa	口诛笔伐	2690
+kou kou sheng sheng	口口声声	2687
+kou qiang ke	口腔科	2684
+kou qiang yi yuan	口腔医院	2178
+kou ren xin xian	扣人心弦	1751
+kou gan	口干	1708
+kou ti yi	口蹄疫	1476
+kou gan she zao	口干舌燥	1384
+kou er xiang chuan	口耳相传	1293
+kou shui ji	口水鸡	1243
+kou chuan	扣船	1138
+kou chou	口臭	1044
+kou fu ye	口服液	928
+kou qiang ji bing	口腔疾病	927
+kou qiang yi xue	口腔医学	924
+kou kuan	扣款	921
+kou chu kuang yan	口出狂言	883
+kou qiang wei sheng	口腔卫生	827
+kou ruo xuan he	口若悬河	750
+kou tu	抠图	742
+kou qian	口前	641
+kou chu wu jia yin su	扣除物价因素	525
+kou hui er shi bu zhi	口惠而实不至	491
+kou wei she	口味蛇	475
+kou shi xin fei	口是心非	460
+kou shuo wu ping	口说无凭	379
+kou bu ze yan	口不择言	353
+kou ya wu pin qing dan	扣押物品清单	352
+kou chu fa	扣除法	336
+kou chuan xin shou	口传心授	298
+kou chi ling li	口齿伶俐	287
+kou she sheng chuang	口舌生疮	249
+kou fu xin fu	口服心服	201
+kou zhun	寇准	191
+kou ding xue tang	扣丁学堂	163
+kou yan wai xie	口眼歪斜	141
+kou jue yan	口角炎	127
+kou fu bu ye yan	口服补液盐	112
+kou dai dou fu	口袋豆腐	104
+kou ji	扣鸡	87
+kou ling ka	口令卡	86
+kou an guang chang	口岸广场	78
+kou qi jun	口奇骏	78
+kou mi fu jian	口蜜腹剑	57
+kou qiang zhong zhi xue	口腔种植学	55
+kou fu pu tao tang	口服葡萄糖	52
+kou qian ye	口前叶	50
+kou shi xun	寇世勋	49
+kou fu gei yao	口服给药	46
+kou can	扣残	45
+kou yan	口炎	44
+kou an da dui	口岸大队	43
+kou cun	口村	40
+kou qiang mao di chong	口腔毛滴虫	37
+kou chu bu xun	口出不逊	35
+kou kou xiang	口口香	34
+kou fu rong ye ji	口服溶液剂	32
+kou han tian xian	口含天宪	32
+kou zhen	叩诊	32
+kou yan qing ke li	口炎清颗粒	27
+kou qiang yu fang bao jian	口腔预防保健	24
+kou e fa	扣额法	22
+kou han pian	口含片	21
+kou qiang xiu fu xue	口腔修复学	21
+kou mo zheng ji	口蘑蒸鸡	18
+kou qiang xue	口腔学	18
+kou qiang pao zhen	口腔疱疹	17
+kou gan zheng	口干症	15
+kou gong bu qiang gui ze	口供补强规则	15
+kou qiang sheng wu xue	口腔生物学	14
+kou chun pao zhen	口唇疱疹	13
+kou qiang yi xue yan jiu	口腔医学研究	13
+kou qiang zheng ji xue	口腔正畸学	12
+kou tou ba xiang	口头坝乡	11
+kou ling gong ji	口令攻击	10
+kou rou mei cai	扣肉梅菜	10
+kou zhen	口针	10
+kou dao	口道	9
+kou qiang zhan mo bing	口腔粘膜病	9
+kou lun za ji	口轮匝肌	8
+kou qiang beng jie pian	口腔崩解片	8
+kou an xiao qu	口岸小区	7
+kou fu ji	口福鸡	7
+kou jia yuan zhen	寇家塬镇	7
+kou men zi	口门子	7
+kou qiang yu fang yi xue	口腔预防医学	7
+kou zhuang cun	寇庄村	7
+kou qiang he mian bu zhong liu	口腔颌面部肿瘤	6
+kou tou wei tuo xie yi	口头委托协议	6
+kou zi shang cun	口子上村	6
+kou chuang bing	口疮病	5
+kou qiang bing li xue	口腔病理学	4
+kou qiang ke xue	口腔科学	4
+kou re	寇热	4
+kou gang	口岗	3
+kou pi	口僻	3
+kou qiang he mian wai ke xue	口腔颌面外科学	3
+kou qiang hong ban	口腔红斑	3
+kou qiang zhan mo bai ban bing	口腔粘膜白斑病	3
+kou ti bing	口蹄病	3
+kou zhou pi yan	口周皮炎	3
+kou chi san shi liu	叩齿三十六	2
+kou di feng wo zhi yan	口底蜂窝织炎	2
+kou dong zhen	口东镇	2
+kou fu bu ye yan rong ye	口服补液盐溶液	2
+kou fu shui jie dan bai	口服水解蛋白	2
+kou pai fang	口牌坊	2
+kou qiang cai liao xue	口腔材料学	2
+kou qiang kui yang mo	口腔溃疡膜	2
+kou qiang kui yang san	口腔溃疡散	2
+kou qiang nian zhu jun bing	口腔念珠菌病	2
+kou xia	寇遐	2
+kou fu hun xuan ji	口服混悬剂	1
+kou fu pu tao tang fen	口服葡萄糖粉	1
+kou gan yan jian rou	口感盐煎肉	1
+kou mo lu rou	口蘑鹿肉	1
+kou mo xiao bao	口蘑小包	1
+kou pen hong guang han gou zhu	口喷红光汗沟朱	1
+kou qian wen zhang	口前吻长	1
+kou qiang jie pou sheng li xue	口腔解剖生理学	1
+kou qiang kui yang yi ci ning	口腔溃疡一次宁	1
+kou qiang nei ke xue	口腔内科学	1
+kou qiang xue guan liu	口腔血管瘤	1
+kou qiang yan pen wu ji	口腔炎喷雾剂	1
+kou qiang zhan mo bing xue	口腔粘膜病学	1
+kou wei jin niu ti	口味金牛蹄	1
+kou wei shan pian	口味鳝片	1
+kou zhen shun xiang zhai nan chang	口镇顺香斋南肠	1
+kou zhi mian yao sui en ze	口脂面药随恩泽	1
+kou zi cun cun	口子村村	1
+kou zi liang	口子梁	1
+kou la kan zi yu	寇拉侃兹鱼	0
+kou sai qiang	口鳃腔	0

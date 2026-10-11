@@ -1,0 +1,336 @@
+she li	设立	342330
+she an	涉案	194904
+she hui zhi an	社会治安	126728
+she bao	社保	53175
+she hui gong de	社会公德	43231
+she ji mo shi	设计模式	37948
+she hui zhi an zong he zhi li	社会治安综合治理	32077
+she hui bao xian	社会保险	29946
+she an jin e	涉案金额	29534
+she hui tuan ti	社会团体	17771
+she jian	舌尖	11851
+she hui wei hai xing	社会危害性	11092
+she ji si xiang	设计思想	9590
+she hui zhu yi fa zhi guo jia	社会主义法治国家	8253
+she bei qu dong	设备驱动	8116
+she bei li yong	设备利用	7517
+she ji yuan ze	设计原则	7312
+she ji si lu	设计思路	7104
+she ji yuan	设计院	6896
+she bei qu dong cheng xu	设备驱动程序	5828
+she qu fu wu zhong xin	社区服务中心	5754
+she ji li nian	设计理念	5548
+she qu yi yuan	社区医院	5357
+she qu	摄取	5203
+she bei hao	设备号	5168
+she jiao wang luo	社交网络	4540
+she bei xin xi	设备信息	4528
+she kou	蛇口	4438
+she ji fang an	设计方案	4166
+she hui zhu yi gong you zhi	社会主义公有制	3943
+she bei ming	设备名	3787
+she shen chu di	设身处地	3419
+she hui zai zhi ren yuan	社会在职人员	3317
+she bei jie dian	设备节点	3182
+she fa she su	涉法涉诉	2933
+she bei guan li	设备管理	2722
+she ji jie duan	设计阶段	2542
+she jin qiu yuan	舍近求远	2369
+she hui hu zhu	社会互助	2233
+she qu yi liao	社区医疗	2199
+she hui zhu yi xue yuan	社会主义学院	2195
+she ji jiu ren	舍己救人	2100
+she jiao mei ti	社交媒体	1864
+she jiao wang zhan	社交网站	1801
+she qu kang fu	社区康复	1788
+she ji gui fan	设计规范	1699
+she bei miao shu	设备描述	1684
+she sheng wang si	舍生忘死	1420
+she geng	蛇羹	1404
+she fu lei ji tuan	舍弗勒集团	1335
+she ji mo xing	设计模型	1297
+she bei mo xing	设备模型	1292
+she wo qi shui	舍我其谁	1206
+she bao zheng ce	社保政策	1109
+she ji yu yan	设计语言	1107
+she zu	畲族	1033
+she xiang lin an	佘祥林案	1029
+she zhi bie ming	设置别名	996
+she qiang fan zui	涉枪犯罪	995
+she ji xu qiu	设计需求	966
+she ji jia gou	设计架构	957
+she yang	射阳	952
+she ben zhu mo	舍本逐末	896
+she zhi zhong xin	设置中心	892
+she bei shu	设备树	859
+she fan	社饭	843
+she ji you xi	射击游戏	827
+she ji chang	射击场	761
+she zhong xing jing ji fan zui	涉众型经济犯罪	747
+she bei xing hao	设备型号	738
+she jing	射精	736
+she xiang	麝香	718
+she ji wei ren	舍己为人	717
+she tai	舌苔	705
+she wai jing ji he tong fa	涉外经济合同法	697
+she bei guan li zhi du	设备管理制度	670
+she hui xin li xue	社会心理学	660
+she hui hua fen xiang	社会化分享	645
+she wai min shi guan xi	涉外民事关系	634
+she hong	射洪	611
+she bei gong neng	设备功能	607
+she bei ding yi	设备定义	595
+she jiao ying yong	社交应用	581
+she jiao ruan jian	社交软件	573
+she bei zuo biao	设备坐标	567
+she sheng qu yi	舍生取义	555
+she yao shang	蛇咬伤	542
+she hui you fu	社会优抚	532
+she bei chang	设备厂	498
+she zhi xiang dao	设置向导	490
+she xiang cao fen	麝香草酚	470
+she du	蛇毒	463
+she hui ji tuan gou mai li	社会集团购买力	451
+she gen	舌根	416
+she ru wu cha	舍入误差	407
+she li zi zhi ji guan	设立自治机关	392
+she hui gong zuo zhe xie hui	社会工作者协会	367
+she xiao	赊销	362
+she hui hua mei ti	社会化媒体	356
+she wai min shang shi an jian	涉外民商事案件	352
+she xiang ji biao ding	摄像机标定	352
+she ying ce liang	摄影测量	347
+she fa she su an jian	涉法涉诉案件	346
+she ji fen xi	设计分析	331
+she xiang tou qu dong	摄像头驱动	307
+she qi	社旗	305
+she hui gong cheng xue	社会工程学	290
+she kou gang	蛇口港	283
+she hui hua zu jian	社会化组件	279
+she ji ku	设计库	266
+she ji guan	射击馆	251
+she can guan	蛇餐馆	246
+she bei zu lin he tong	设备租赁合同	218
+she ji ping shen	设计评审	210
+she qu hu li	社区护理	209
+she wai min shi su song cheng xu	涉外民事诉讼程序	197
+she qu wei sheng fu wu guan li	社区卫生服务管理	196
+she ding xin tuo	设定信托	195
+she bei zuo biao xi	设备坐标系	193
+she shi man	佘诗曼	180
+she xing ju zhen	蛇形矩阵	180
+she ji gui hua	设计规划	179
+she kou ma tou	蛇口码头	169
+she pin xiao rong shu	射频消融术	169
+she ji yue shu	设计约束	165
+she wai shui shou you hui	涉外税收优惠	162
+she ai	舌癌	159
+she hui yi xue	社会医学	157
+she xing tian shu	蛇形填数	155
+she dian lao jiu	赊店老酒	147
+she bei chu	设备处	140
+she xing he tong	射幸合同	136
+she ben qiu mo	舍本求末	132
+she zhan qun ru	舌战群儒	132
+she pin mo kuai	射频模块	128
+she hui fu li fa	社会福利法	123
+she xiang tou biao ding	摄像头标定	123
+she hong	舌红	119
+she bao gong ji jin	社保公积金	114
+she shan	摄山	113
+she dan	蛇胆	111
+she ji mo shi yuan ze	设计模式原则	104
+she ji yan zheng	设计验证	102
+she xiang mao ka fei	麝香猫咖啡	99
+she ji zhi mei	设计之美	95
+she qu jiao yu zhong xin	社区教育中心	95
+she hui kang fu	社会康复	91
+she ji zi dong hua	设计自动化	89
+she ming jiu ren	舍命救人	89
+she shen qiu fa	舍身求法	89
+she hui xin wen	社会新闻	85
+she chuang zi	蛇床子	84
+she jian cun jie dao	社建村街道	83
+she de yi shen gua	舍得一身剐	82
+she quan zheng quan	设权证券	82
+she hui zhu yi shi chang ji zhi	社会主义市场机制	76
+she dan	舌淡	74
+she bei cun chu qi	设备存储器	70
+she hui hua yong gong	社会化用工	67
+she yan	舌炎	66
+she xiang bao xin wan	麝香保心丸	64
+she en	舍恩	59
+she gang	社港	59
+she hui ju li	社会距离	58
+she wo	蛇窝	58
+she qu bao jian	社区保健	57
+she qu guan li wei yuan hui	社区管理委员会	56
+she shi guan li	设施管理	55
+she xiang	舌象	55
+she kou xin jie	蛇口新街	53
+she jia	佘家	50
+she tai huang ni	舌苔黄腻	43
+she xie xin chang	蛇蝎心肠	43
+she kou dong jiao tou	蛇口东角头	42
+she xiang	奢香	41
+she bei shi pei qi	设备适配器	40
+she ji wei gong	舍己为公	40
+she hui bao xian ji he ban fa	社会保险稽核办法	39
+she hui gui ze	社会规则	39
+she shen wei guo	舍身为国	39
+she ji shen cha	设计审查	38
+she ke lei	社科类	38
+she gu	舌骨	37
+she hui zhu yi fa lv zhi ding	社会主义法律制定	37
+she wen shi	蛇纹石	37
+she bei chong	舌杯虫	36
+she ming pei jun zi	舍命陪君子	36
+she shen cheng ren	舍身成仁	35
+she gang	社岗	34
+she hui hu zhu zhi du	社会互助制度	34
+she hui hua dong wu	社会化动物	34
+she dan chuan bei ye	蛇胆川贝液	33
+she qu yi xue	社区医学	33
+she ji fang fa xue	设计方法学	31
+she tan	社坛	31
+she wai ren yuan shou ze	涉外人员守则	29
+she zhi tu an	设置图案	29
+she tong	舌痛	28
+she gu gu zhe	舌骨骨折	27
+she jiao zhong xin	社教中心	27
+she fa nv guai long	蛇发女怪龙	26
+she ge	社各	25
+she qu ji jiu	社区急救	25
+she ren xian she ma	射人先射马	25
+she bi ya xiang	舍必崖乡	24
+she xing bei	舌形贝	24
+she shi zhong shu	摄食中枢	23
+she xue fen shu	射血分数	23
+she le cun	摄乐村	21
+she ji dai	舌系带	20
+she tuan chan quan	社团产权	20
+she xia xian nang zhong	舌下腺囊肿	20
+she yan shen jing tong	舌咽神经痛	20
+she dian zhen	赊店镇	18
+she bei shai xuan qi	设备筛选器	17
+she ji bian ji qi	设计编辑器	17
+she ji gui yue	设计规约	17
+she jing zhang ai	射精障碍	17
+she xing he tong	射倖合同	17
+she bei kong jian	设备控件	16
+she she cao	蛇舌草	16
+she hui xing kun chong	社会性昆虫	15
+she xiang jie gu jiao nang	麝香接骨胶囊	15
+she tou	社头	14
+she hui wen jiao zhi chu	社会文教支出	13
+she xia	社下	13
+she xia xian	舌下腺	13
+she xiang zhuang gu gao	麝香壮骨膏	13
+she yu er qu xiong zhang zhe ye	舍鱼而取熊掌者也	13
+she dan chuan bei pi pa gao	蛇胆川贝枇杷膏	12
+she hui sheng wu xue	社会生物学	12
+she lian xiang	舍联乡	12
+she lie	舌裂	12
+she dian	社店	11
+she er	社二	11
+she ji dai guo duan	舌系带过短	11
+she ying he tong	摄影合同	11
+she dan chuan bei san	蛇胆川贝散	10
+she ru tou	舌乳头	9
+she shan	社山	9
+she shu xiang	舍书乡	9
+she xiang tong	麝香酮	8
+she xiang xin nao tong jiao nang	麝香心脑通胶囊	8
+she bei run hua guan li zhi du	设备润滑管理制度	7
+she jiang cai fu rong	涉江采芙蓉	7
+she pai	社排	7
+she ti zhen yu meng zou xi	摄提贞于孟陬兮	7
+she wo qi shui ye	舍我其谁也	7
+she xiang kang shuan wan	麝香抗栓丸	7
+she nan she bei jie chun shui	舍南舍北皆春水	6
+she xiang zhui feng gao	麝香追风膏	6
+she ba	社坝	5
+she dan chen pi kou fu ye	蛇胆陈皮口服液	5
+she du zhong du	蛇毒中毒	5
+she jiao kong bu	社交恐怖	5
+she jiu sha ji zuo shi	设酒杀鸡作食	5
+she kou xi zhan	蛇口西站	5
+she lian	舍联	5
+she qu hu li xue	社区护理学	5
+she tian	社田	5
+she xiang feng shi jiao nang	麝香风湿胶囊	5
+she yan shen jing	舌咽神经	5
+she bei	社背	4
+she chang xiang	蛇场乡	4
+she dan chen pi san	蛇胆陈皮散	4
+she hui gong zhi ji shu	社会公知技术	4
+she ji yi rong yi	社稷一戎衣	4
+she kou zhao shang da sha	蛇口招商大厦	4
+she pai cun	社排村	4
+she xiang cao	麝香草	4
+she xiang zhi chuang shuan	麝香痔疮栓	4
+she cheng zhen	社城镇	3
+she geng xiang	社庚乡	3
+she hua	畲话	3
+she hui xue ji chu	社会学基础	3
+she ji ying dian	设计硬点	3
+she jia tang	佘家塘	3
+she kou ti yu zhong xin	蛇口体育中心	3
+she ru tou yan	舌乳头炎	3
+she xian dou fu nao sui	歙县豆腐脑髓	3
+she dan chen pi	蛇胆陈皮	2
+she dan chuan bei kou fu ye	蛇胆川贝口服液	2
+she gong	舌弓	2
+she ji yi ming zhu	社稷依明主	2
+she ke xiang	社科乡	2
+she keng	畲坑	2
+she keng	社坑	2
+she keng cun	社坑村	2
+she shan cun	社山村	2
+she wai fa lv zhi du an li	涉外法律制度案例	2
+she xia shen jing	舌下神经	2
+she xiang hai ma zhui feng gao	麝香海马追风膏	2
+she xiang shu huo jing	麝香舒活精	2
+she xiang xin nao le pian	麝香心脑乐片	2
+she xiang zhen tong gao	麝香镇痛膏	2
+she zhan yang pi juan	舌战羊皮卷	2
+she zhe lang ji jian zhe an	奢者狼藉俭者安	2
+she bao ji jin	社保基金	1
+she bao zhuan chu cheng xu	社保转出程序	1
+she bian tao ti	舌扁桃体	1
+she chi pin zhi zhan	奢侈品之战	1
+she dan chen pi ye	蛇胆陈皮液	1
+she dan chuan bei jiao nang	蛇胆川贝胶囊	1
+she dan zhui feng wan	蛇胆追风丸	1
+she du xue ning mei	蛇毒血凝酶	1
+she gong hong	射弓红	1
+she gu shang ji qun	舌骨上肌群	1
+she hou xiang	社后乡	1
+she hui gong zuo an li jing xuan	社会工作案例精选	1
+she jiang nong qiu shui	涉江弄秋水	1
+she liu gu	蛇六谷	1
+she nan you zhu kan shu zi	舍南有竹堪书字	1
+she qu xin li xue	社区心理学	1
+she shang jie du pian	蛇伤解毒片	1
+she shu yi ri xing wan li	赦书一日行万里	1
+she tan cun	社坛村	1
+she tan jie	社坛街	1
+she tong zheng	舌痛症	1
+she wai jing mao fa lv ying yu	涉外经贸法律英语	1
+she xiang die da feng shi gao	麝香跌打风湿膏	1
+she xiang gou pi gao	麝香狗皮膏	1
+she xiang mian shi zhu	麝香眠石竹	1
+she xiang qu tong cha ji	麝香祛痛搽剂	1
+she xiang qu tong qi wu ji	麝香祛痛气雾剂	1
+she xiang xin nao le jiao nang	麝香心脑乐胶囊	1
+she xing ci	蛇形祠	1
+she gou mu	射狗母	0
+she gou mu yu	射狗母鱼	0
+she jing long	射颈龙	0
+she wei ya gang	蛇尾亚纲	0
+she xian lie ji bang	射线裂嵴蚌	0
+she xian xie wen zi yun ha	射线斜纹紫云蛤	0
+she xiao shao	射肖蛸	0
+she xing bei gang	舌形贝纲	0
+she xing shuang qi dian fen	舌形双鳍电鱝	0
+she xing xin ci yuan xi chong	舌形新刺缘吸虫	0

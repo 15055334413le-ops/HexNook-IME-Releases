@@ -1,0 +1,2378 @@
+fen ai fen ai ni	粉爱粉爱你	0
+fen ba jiao	粉芭蕉	0
+fen ba ke shan	芬巴克山	0
+fen bai	粉柏	0
+fen bai du juan	粉白杜鹃	0
+fen bai ying ha shu	粉白樱蛤属	0
+fen bai yue ju	粉白越桔	0
+fen ban	分班	0
+fen ban guo jiu	粉斑果鸠	0
+fen ban shan e shu	分办善恶树	0
+fen bao chun	粉报春	0
+fen bao ge jun ke	粉孢革菌科	0
+fen bao ge jun shu	粉孢革菌属	0
+fen bao ju	粉苞菊	0
+fen bao ju shu	粉苞苣属	0
+fen bao jun shu	粉孢菌属	0
+fen bao niu gan jun shu	粉孢牛肝菌属	0
+fen bao shu	粉孢属	0
+fen bei	分贝	0
+fen bei ba qia	粉背菝葜	0
+fen bei chou	分贝筹	0
+fen bei deng tai bao chun	粉被灯台报春	0
+fen bei duo bian du juan	粉背多变杜鹃	0
+fen bei e zhang chai	粉背鹅掌柴	0
+fen bei er	分贝耳	0
+fen bei ge dian	芬贝格点	0
+fen bei hao wa	分贝毫瓦	0
+fen bei he yuan che zhan	分倍河原车站	0
+fen bei he yuan zhan	分倍河原站	0
+fen bei he yuan zhi zhan	分倍河原之战	0
+fen bei huang lu	粉背黄栌	0
+fen bei jin he huan	粉被金合欢	0
+fen bei jue	粉背蕨	0
+fen bei jue shu	粉背蕨属	0
+fen bei kong xi	分贝恐袭	0
+fen bei liu zu jue	粉背瘤足蕨	0
+fen bei nan she teng	粉背南蛇藤	0
+fen bei qiong nan	粉背琼楠	0
+fen bei ren sheng	分贝人生	0
+fen bei shu yu	粉背薯蓣	0
+fen bei sou shu	粉背溲疏	0
+fen bei sui mi hua	粉背碎米花	0
+fen bei tai cao	粉被苔草	0
+fen bei ti hu	粉背鹈鹕	0
+fen bei wang	分贝网	0
+fen bei xiu qiu	粉背绣球	0
+fen bei ye ren zi guo	粉背叶人字果	0
+fen bei zai chu tao	分贝在出逃	0
+fen ben da zuo	芬苯达唑	0
+fen beng li xi	分崩离析	0
+fen bi	分比	0
+fen bi	粉笔	0
+fen bi dei	芬必得	0
+fen bi dei	酚必得	0
+fen bi he	粉笔河	0
+fen bi he shi yan shi	粉笔河实验室	0
+fen bi hua	粉笔画	0
+fen bi ke ji	粉笔科技	0
+fen bi nong chang zhan	粉笔农场站	0
+fen bi shao nv	粉笔少女	0
+fen bi xiang	粉壁乡	0
+fen bi you xian gong si	粉笔有限公司	0
+fen bi zhen	粉壁镇	0
+fen bian	粪便	0
+fen bian can bao bao de gong yu ci	分辨蚕宝宝的公与雌	0
+fen bian hua shi	粪便化石	0
+fen bian jian cha	粪便检查	0
+fen bian kong ju zheng	粪便恐惧症	0
+fen bian lv	分辨率	0
+fen bian qian sai	粪便嵌塞	0
+fen bian qian xue	粪便潜血	0
+fen bian se qing	粪便色情	0
+fen bian shan e shu	分辨善恶树	0
+fen bian shi hao zheng	粪便嗜好症	0
+fen bian wei sheng wu yi zhi	粪便微生物移植	0
+fen bian xi jun liao fa	粪便细菌疗法	0
+fen bian yi zhi	粪便移植	0
+fen bian yin xue	粪便隐血	0
+fen bian zu se	粪便阻塞	0
+fen bie gong you	分别共有	0
+fen bie lun	分别论	0
+fen bie lun shi	分别论师	0
+fen bie lun zhe	分别论者	0
+fen bie shan e shu	分别善恶树	0
+fen bie shi	分别识	0
+fen bie shuo bu	分别说部	0
+fen bie shuo zhe	分别说者	0
+fen bie wei sheng	分别为圣	0
+fen bin che zhan	粉滨车站	0
+fen bin zhan	粉滨站	0
+fen bing	粉饼	0
+fen bing yuan dao feng	芬冰原岛峰	0
+fen bo duo gong	分波多工	0
+fen bo fu	芬博府	0
+fen bu	分布	0
+fen bu can liang xi tong	分布参量系统	0
+fen bu can shu xi tong	分布参数系统	0
+fen bu er bing jia	芬布尔冰架	0
+fen bu er shan mai	芬布尔山脉	0
+fen bu er zhi dong	芬布尔之冬	0
+fen bu fen	芬布芬	0
+fen bu han shu	分布函数	0
+fen bu ji fen	分部积分	0
+fen bu ji suan	分布计算	0
+fen bu lei	分部类	0
+fen bu li lun	分布理论	0
+fen bu lie	分布列	0
+fen bu qiu he fa	分部求和法	0
+fen bu qiu he gong shi	分部求和公式	0
+fen bu rong ji	分布容积	0
+fen bu shi ban ben kong zhi	分布式版本控制	0
+fen bu shi bian pin er ji beng ji shu	分布式变频二级泵技术	0
+fen bu shi bing xing chu li	分布式并行处理	0
+fen bu shi can shu xi tong	分布式参数系统	0
+fen bu shi cao zuo xi tong	分布式操作系统	0
+fen bu shi fa dian	分布式发电	0
+fen bu shi gong xiang cun chu chu li ji	分布式共享存储处理机	0
+fen bu shi ha xi biao	分布式哈希表	0
+fen bu shi huan cun	分布式缓存	0
+fen bu shi ji suan	分布式计算	0
+fen bu shi ju jue fu wu	分布式拒绝服务	0
+fen bu shi kong zhi xi tong	分布式控制系统	0
+fen bu shi kuai cun chu	分布式块存储	0
+fen bu shi miao shu luo ji	分布式描述逻辑	0
+fen bu shi she jiao wang luo	分布式社交网络	0
+fen bu shi shi wu xie tiao qi	分布式事务协调器	0
+fen bu shi shu ju ku	分布式数据库	0
+fen bu shi shui wen mo xing	分布式水文模型	0
+fen bu shi suo	分布式锁	0
+fen bu shi wang luo	分布式网络	0
+fen bu shi wen jian xi tong	分布式文件系统	0
+fen bu shi xi tong	分布式系统	0
+fen bu shi xin yuan bian ma	分布式信源编码	0
+fen bu shi xiu gai kong zhi	分布式修改控制	0
+fen bu shi zi zhi gong si	分布式自治公司	0
+fen bu shi zi zhi zu zhi	分布式自治组织	0
+fen bu shou heng	分布守恒	0
+fen bu ti ji	分布体积	0
+fen bu xing xiu ke	分布性休克	0
+fen bu yuan jian dian lu	分布元件电路	0
+fen bu yuan jian mo xing	分布元件模型	0
+fen bu zhi hou	分布滞后	0
+fen ca	粉擦	0
+fen cai	粉彩	0
+fen cai bi	粉彩笔	0
+fen cai ci	粉彩瓷	0
+fen cai hua	粉彩画	0
+fen cai hui yi	粉彩回忆	0
+fen cai miao jin shuang shi wen pan	粉彩描金双狮纹盘	0
+fen cai qing ci zhuan zu wan	粉彩青瓷转足碗	0
+fen cai se	粉彩色	0
+fen ceng chou yang	分层抽样	0
+fen ceng fu wu ti gong zhe	分层服务提供者	0
+fen ceng guang yi xian xing mo xing	分层广义线性模型	0
+fen ceng ji	分层级	0
+fen ceng jiao hui	分层交汇	0
+fen ceng kong zhi xi tong	分层控制系统	0
+fen ceng li lun	分层理论	0
+fen ceng wen jian xi tong	分层文件系统	0
+fen ceng yu chu li xiao ying	分层与处理效应	0
+fen cha	分叉	0
+fen cha duo kong xi	分叉多孔螅	0
+fen cha hui he mo xing	分叉会合模型	0
+fen cha jie min zhu	分叉洁皿蛛	0
+fen cha li lun	分岔理论	0
+fen cha lu dou	分叉露兜	0
+fen cha lu shang de ta he ta	分岔路上的他和她	0
+fen cha mang qie ye yi	分叉盲切叶蚁	0
+fen cha qi	分茶器	0
+fen cha wang dun chong	分叉网盾虫	0
+fen chai shu	分拆数	0
+fen chan zhu yi	分产主义	0
+fen chang	坟场	0
+fen chang	粉肠	0
+fen chang men	粪厂门	0
+fen chao	芬超	0
+fen chen	粉尘	0
+fen chen bao zha	粉尘爆炸	0
+fen chen huan bing gu shu	粉尘环柄菇属	0
+fen chen huo zai	粉尘火灾	0
+fen chen ran shao	粉尘燃烧	0
+fen chen xiang	汾陈乡	0
+fen chen zhen	汾陈镇	0
+fen cheng	分成	0
+fen cheng	汾城	0
+fen cheng	焚城	0
+fen cheng cheng huang miao	汾城城隍庙	0
+fen cheng cheng qiang	汾城城墙	0
+fen cheng gu jian zhu qun	汾城古建筑群	0
+fen cheng gu lou	汾城鼓楼	0
+fen cheng guan di miao	汾城关帝庙	0
+fen cheng kui xing lou	汾城魁星楼	0
+fen cheng liang ban de zi jue	分成两半的子爵	0
+fen cheng ming lun tang	汾城明伦堂	0
+fen cheng she ji miao	汾城社稷庙	0
+fen cheng shi yuan	汾城试院	0
+fen cheng wen chang ci	汾城文昌祠	0
+fen cheng wen miao	汾城文庙	0
+fen cheng xian	汾城县	0
+fen cheng zhen	汾城镇	0
+fen cheng zhen jian guo chu qi shang ye jian zhu qun	汾城镇建国初期商业建筑群	0
+fen cheng zhi nong hu	分成制农户	0
+fen chi de lv cheng	芬驰的旅程	0
+fen chi e shu	粉尺蛾属	0
+fen chong tan wu an	粉虫贪污案	0
+fen chou su	粪臭素	0
+fen chuan zhan	汾川站	0
+fen ci	分词	0
+fen ci	粉刺	0
+fen ci ba he he	芬茨巴赫河	0
+fen ci dao zi	分次导子	0
+fen ci jin ji er	粉刺锦鸡儿	0
+fen ci lian xie	分词连写	0
+fen ci shu xie	分词书写	0
+fen cong	分葱	0
+fen cui liu e shu	粉翠瘤蛾属	0
+fen cui ye e shu	粉翠夜蛾属	0
+fen da	芬达	0
+fen da dan gao	芬达蛋糕	0
+fen da qi shui	芬达汽水	0
+fen da shi	芬达石	0
+fen da si te la tuo ka si te ji ta	芬达斯特拉托卡斯特吉他	0
+fen da yuan cheng	芬达远程	0
+fen da yue qi gong si	芬达乐器公司	0
+fen dai luan zi cao	粉黛乱子草	0
+fen dai qing cheng	粉黛倾城	0
+fen dai ye	粉黛叶	0
+fen dan	芬丹	0
+fen dan	粉单	0
+fen dan che zhan	芬丹车站	0
+fen dan zhu	粉单竹	0
+fen dan zu qiu ju le bu	芬丹足球俱乐部	0
+fen dang wei	分党委	0
+fen dao	芬岛	0
+fen dao hang xing zhi	分道航行制	0
+fen dao hua yin	分岛花音	0
+fen dao shi duo dan tou	分导式多弹头	0
+fen de er ba he he	芬德尔巴赫河	0
+fen de er guo ji ji chang	芬德尔国际机场	0
+fen de er qing gui zhan	芬德尔轻轨站	0
+fen de er si	芬德尔斯	0
+fen de er zhan	芬德尔站	0
+fen de ke lei	芬德克勒	0
+fen de la te fang jian bei	芬德拉特方尖碑	0
+fen de lai ling	芬德莱岭	0
+fen de lai shan mai	芬德莱山脉	0
+fen de li bing chuan	芬德利冰川	0
+fen de li jiao	芬德利角	0
+fen de ni ge ke fei er shan	芬德尼格科费尔山	0
+fen de xin	蕡德新	0
+fen deng e shu	粉灯蛾属	0
+fen di	分地	0
+fen di	芬迪	0
+fen di	坟地	0
+fen di	粉底	0
+fen di guo jia gong yuan	芬迪国家公园	0
+fen di long	芬迪龙	0
+fen di qu	分地区	0
+fen di shua	粉底刷	0
+fen di si	芬迪丝	0
+fen di wan	芬迪湾	0
+fen di wan	芬地湾	0
+fen di ye	粉底液	0
+fen dian	分点	0
+fen dian	分店	0
+fen dian qi	分电器	0
+fen dian qiu zhu	粉点球蛛	0
+fen dian sui cha	分点岁差	0
+fen die	粉蝶	0
+fen die chong	粉蝶虫	0
+fen die chong zhang mei	粉蝶虫瘴霉	0
+fen die hua	粉蝶花	0
+fen die hua shu	粉蝶花属	0
+fen die ke	粉蝶科	0
+fen die lan shu	粉蝶兰属	0
+fen die shu	粉蝶属	0
+fen die ya ke	粉蝶亚科	0
+fen die ya zu	粉蝶亚族	0
+fen die yong	粉蝶蛹	0
+fen die zu	粉蝶族	0
+fen ding	酚丁	0
+fen ding guo jiu	粉顶果鸠	0
+fen dou	粉都	0
+fen dou	奋斗	0
+fen dou ba shao nian	奋斗吧少年	0
+fen dou de qiao yi	奋斗的乔伊	0
+fen dou jie dao	奋斗街道	0
+fen dou lu jie dao	奋斗路街道	0
+fen dou qing nian lian meng	奋斗青年联盟	0
+fen dou xiang	奋斗乡	0
+fen dou yue kan	奋斗月刊	0
+fen dou zhe hao	奋斗者号	0
+fen dou zhen	奋斗镇	0
+fen dou zhong xue	奋斗中学	0
+fen dou zhuang ji keng	奋斗撞击坑	0
+fen du	芬度	0
+fen du hao	分读号	0
+fen du shu	粉蠹属	0
+fen du yuan	分度圆	0
+fen duan	分段	0
+fen duan	粉椴	0
+fen duan fu hao	分段符号	0
+fen duan han shu	分段函数	0
+fen duan hui gui	分段回归	0
+fen duan jia	分段甲	0
+fen duan ju he jin si fa	分段聚合近似法	0
+fen duan kao lv dong yi	分段考虑动议	0
+fen duan ran shao xun huan	分段燃烧循环	0
+fen duan sheng si	分段生死	0
+fen duan sheng xun	分段圣训	0
+fen duan shi	分段诗	0
+fen duan shou fei	分段收费	0
+fen dun	芬顿	0
+fen dun bing chuan	芬顿冰川	0
+fen dun fan ying	芬顿反应	0
+fen dun shan	芬顿山	0
+fen dun shi ji	芬顿试剂	0
+fen dun zhen qu	芬顿镇区	0
+fen duo fu bing chuan	芬多夫冰川	0
+fen duo jing	芬多精	0
+fen duo la si	芬朵拉斯	0
+fen duo la si	芬朵菈丝	0
+fen e bao chun	粉萼报春	0
+fen e bian jie	芬俄边界	0
+fen e chui hua bao chun	粉萼垂花报春	0
+fen e guan xi	芬俄关系	0
+fen e qin	吩恶嗪	0
+fen e shu wei cao	粉萼鼠尾草	0
+fen en	芬恩	0
+fen en hang kong	芬恩航空	0
+fen en tie lu	芬恩铁路	0
+fen er ji zhi	分而击之	0
+fen er zhi zhi	分而治之	0
+fen er zuo	酚二唑	0
+fen fa guo ji	奋发国际	0
+fen fa shi jian	分发事件	0
+fen fang an xi xiang	芬芳安息香	0
+fen fang bian nian	芬芳扁鲶	0
+fen fang ji	粉防己	0
+fen fang ji jian	粉防己碱	0
+fen fang qiu zhu	芬芳球蛛	0
+fen fang sheng dian	芬芳圣殿	0
+fen fang wan chang jiang da qiao	粉房湾长江大桥	0
+fen fei	粪肥	0
+fen fei yan	分飞燕	0
+fen fen ge feng	芬芬格峰	0
+fen fen zhong xu yao ni	分分钟需要你	0
+fen feng	分封	0
+fen feng	焚风	0
+fen feng jiao huan	分封交换	0
+fen feng ling mu	粉风铃木	0
+fen feng xiao ying	焚风效应	0
+fen feng yi long	焚风翼龙	0
+fen feng zhi	分封制	0
+fen fu cha fu	分福茶釜	0
+fen fu ji xing	芬夫基兴	0
+fen fu la ming	芬氟拉明	0
+fen fu li ying shu	粉腹丽蝇属	0
+fen fu li zi	酚负离子	0
+fen fu sen	芬夫森	0
+fen fu shi tai teng	芬夫施泰滕	0
+fen fu si te teng	芬夫斯特滕	0
+fen gan	粉干	0
+fen gang lie mu ti	分纲列目体	0
+fen gang qi	粪缸棋	0
+fen ge	分割	0
+fen ge	分格	0
+fen ge	粉鸽	0
+fen ge	粉葛	0
+fen ge bing du men	分隔病毒门	0
+fen ge bo lan	分割波兰	0
+fen ge dai	分隔带	0
+fen ge dao	分隔岛	0
+fen ge e tu man di guo	分割鄂图曼帝国	0
+fen ge er de jun shu	芬戈尔德菌属	0
+fen ge er dong	芬戈尔洞	0
+fen ge er jun	芬戈尔郡	0
+fen ge er shan dong xu qu	芬格尔山洞序曲	0
+fen ge er zu qiu hui	芬格尔足球会	0
+fen ge fei zhou	分割非洲	0
+fen ge hao	分隔号	0
+fen ge hua mian	分割画面	0
+fen ge jiao	芬格角	0
+fen ge jun	芬戈郡	0
+fen ge ling	芬格岭	0
+fen ge lu an	芬格鲁胺	0
+fen ge lun feng	芬格伦峰	0
+fen ge miu lun	分割谬论	0
+fen ge miu wu	分割谬误	0
+fen ge qing chao	分割清朝	0
+fen ge ri ben	分割日本	0
+fen ge shi dao lu	分隔式道路	0
+fen ge shi gong lu	分隔式公路	0
+fen ge shu	粉鸽属	0
+fen ge si te	芬格斯特	0
+fen ge wang ye de feng ge he nei rong	分隔网页的风格和内容	0
+fen ge ying mu	分割萤幕	0
+fen ge yu	芬戈语	0
+fen ge zhong guo	分割中国	0
+fen ge zhu yi	分隔主义	0
+fen gong	分工	0
+fen gong	分共	0
+fen gong	芬巩	0
+fen gong	芬共	0
+fen gong sheng	分公升	0
+fen gong si	分公司	0
+fen gong si zhi	分公司制	0
+fen gu	芬古	0
+fen guan gao su	汾灌高速	0
+fen guang can	粉光参	0
+fen guang guang du fa	分光光度法	0
+fen guang guang du ji	分光光度计	0
+fen guang guang du xue	分光光度学	0
+fen guang guang pu yi	分光光谱仪	0
+fen guang ji shu	分光技术	0
+fen guang jing	分光镜	0
+fen guang qi	分光器	0
+fen guang shi cha	分光视差	0
+fen guang shuang xing	分光双星	0
+fen guang xue	分光学	0
+fen guang ye cao	分光液槽	0
+fen guang yi	分光仪	0
+fen gui	粉鲑	0
+fen guo	分国	0
+fen guo	粉果	0
+fen guo	粉粿	0
+fen guo du juan	粉果杜鹃	0
+fen guo fa	分国法	0
+fen guo fen	芬国昐	0
+fen guo teng	粉果藤	0
+fen guo xiao bo	粉果小檗	0
+fen guo yi shu	粉果衣属	0
+fen guo yue ju	粉果越桔	0
+fen hang	芬航	0
+fen hang ti yu chang	芬航体育场	0
+fen hao	分号	0
+fen hao te	芬豪特	0
+fen he	分核	0
+fen he	汾河	0
+fen he	粉河	0
+fen he	粉盒	0
+fen he che zhan	粉河车站	0
+fen he e	汾河鳄	0
+fen he e shu	汾河鳄属	0
+fen he fa	分合法	0
+fen he gong yuan	汾河公园	0
+fen he gu di	汾河谷地	0
+fen he guan qu	汾河灌区	0
+fen he jie dao	汾河街道	0
+fen he jing qu	汾河景区	0
+fen he pian	汾河片	0
+fen he shi zi xing che hao pai	分合式自行车号牌	0
+fen he shui ku	汾河水库	0
+fen he si	粉河寺	0
+fen he si yuan qi hui juan	粉河寺缘起绘卷	0
+fen he sui dao	汾河隧道	0
+fen he suo cao	汾河莎草	0
+fen he wan	汾河湾	0
+fen he zhan	汾河站	0
+fen he zhan	粉河站	0
+fen he zhen	汾河镇	0
+fen he zi gan she yin li bo tian wen tai	分赫兹干涉引力波天文台	0
+fen hong	分红	0
+fen hong	酚红	0
+fen hong	粉红	0
+fen hong ba la gui nian	粉红巴拉圭鲶	0
+fen hong ba na gua nian	粉红巴那瓜鲶	0
+fen hong bang ni	粉红邦妮	0
+fen hong bao	粉红豹	0
+fen hong bao nv hai	粉红豹女孩	0
+fen hong bao zhang hua	粉红爆杖花	0
+fen hong bao zhi tan zhang de zu zhou	粉红豹之探长的诅咒	0
+fen hong bao zhu ti qu	粉红豹主题曲	0
+fen hong cha zhu lan	粉红叉柱兰	0
+fen hong chao	粉红潮	0
+fen hong chao pao	粉红超跑	0
+fen hong chao piao	粉红钞票	0
+fen hong ci li yu	粉红慈丽鱼	0
+fen hong ci pi er	粉红刺皮耳	0
+fen hong cu mao zao	粉红粗毛蚤	0
+fen hong di tu	粉红地图	0
+fen hong di tu ji hua	粉红地图计划	0
+fen hong dian	粉红点	0
+fen hong dian cang du juan	粉红滇藏杜鹃	0
+fen hong dian chang ji	粉红点唱机	0
+fen hong dian guo jiu	粉红点果鸠	0
+fen hong dong rui hua	粉红动蕊花	0
+fen hong du juan	粉红杜鹃	0
+fen hong duan zhu cha	粉红短柱茶	0
+fen hong fang gan jue	粉红方秆蕨	0
+fen hong feng huang luo	粉红凤凰螺	0
+fen hong feng ling mu	粉红风铃木	0
+fen hong feng tou ying wu	粉红凤头鹦鹉	0
+fen hong fu ling que	粉红腹岭雀	0
+fen hong fu ni li yu	粉红副尼丽鱼	0
+fen hong gao ya dian	粉红高压电	0
+fen hong ge	粉红鸽	0
+fen hong ge shu	粉红鸽属	0
+fen hong gui	粉红鲑	0
+fen hong gui bao	粉红瑰宝	0
+fen hong hai kui yu	粉红海葵鱼	0
+fen hong hu die lan	粉红蝴蝶兰	0
+fen hong huang yan	粉红谎言	0
+fen hong huo he	粉红火鹤	0
+fen hong jia ren	粉红佳人	0
+fen hong jiang	粉红酱	0
+fen hong jiao fu xiao tian tian	粉红教父小甜甜	0
+fen hong jing ji	粉红经济	0
+fen hong jiu	粉红酒	0
+fen hong jiu bing	粉红救兵	0
+fen hong ke ka	粉红可卡	0
+fen hong lan tu	粉红蓝图	0
+fen hong lang chao	粉红浪潮	0
+fen hong li lun	粉红理论	0
+fen hong liang niao	粉红椋鸟	0
+fen hong long si	粉红龙寺	0
+fen hong luo bi bi yu	粉红裸臂躄鱼	0
+fen hong ma ti ni	粉红马提尼	0
+fen hong mei bing pin dian	粉红莓冰品店	0
+fen hong mei hua	粉红梅花	0
+fen hong ni hong	粉红霓虹	0
+fen hong nv lang	粉红女郎	0
+fen hong pai dui	粉红派对	0
+fen hong pi lu	粉红琵鹭	0
+fen hong ping you	粉红平鲉	0
+fen hong qing xi	粉红清洗	0
+fen hong qing zhen si	粉红清真寺	0
+fen hong qiong si	粉红琼斯	0
+fen hong qu	分洪区	0
+fen hong rou zha	粉红肉渣	0
+fen hong san jiao	粉红三角	0
+fen hong san jiao xing	粉红三角形	0
+fen hong se	粉红色	0
+fen hong se chun gao	粉红色唇膏	0
+fen hong se de huo lie niao	粉红色的火烈鸟	0
+fen hong se de meng	粉红色的梦	0
+fen hong se de yan jiu	粉红色的研究	0
+fen hong se de yi sheng	粉红色的一生	0
+fen hong se dian ying	粉红色电影	0
+fen hong se gan zhuang jun ke	粉红色杆状菌科	0
+fen hong se gan zhuang jun shu	粉红色杆状菌属	0
+fen hong se huo lie niao	粉红色火烈鸟	0
+fen hong se kou hong	粉红色口红	0
+fen hong se qian ting	粉红色潜艇	0
+fen hong se shi guang	粉红色时光	0
+fen hong se yan jiu	粉红色研究	0
+fen hong se yu bai se ti xing qiu	粉红色与白色梯形丘	0
+fen hong sha tan	粉红沙滩	0
+fen hong shan hu ao xia	粉红珊瑚螯虾	0
+fen hong shan jiao niao	粉红山椒鸟	0
+fen hong shen hai ying ha	粉红深海樱蛤	0
+fen hong shu nv	粉红淑女	0
+fen hong shu xing du juan	粉红树形杜鹃	0
+fen hong shui	粉红税	0
+fen hong si dai	粉红丝带	0
+fen hong si long tou yu	粉红丝隆头鱼	0
+fen hong sou shu	粉红溲疏	0
+fen hong tai lang	粉红太狼	0
+fen hong tian zhu diao	粉红天竺鲷	0
+fen hong tu wen xue	粉红突吻鳕	0
+fen hong tun	粉红豚	0
+fen hong xi nan hai	粉红系男孩	0
+fen hong xian	粉红线	0
+fen hong xiang cha cai	粉红香茶菜	0
+fen hong xiang shui yue ji	粉红香水月季	0
+fen hong xiao ying ha	粉红小樱蛤	0
+fen hong xing qi wu	粉红星期五	0
+fen hong xiong ge bai ling	粉红胸歌百灵	0
+fen hong xiong liu	粉红胸鹨	0
+fen hong xue lao	粉红雪酪	0
+fen hong yan ou	粉红燕鸥	0
+fen hong ying zui	粉红鹦嘴	0
+fen hong yu hui	粉红与灰	0
+fen hong yu luo	粉红玉螺	0
+fen hong zao sheng	粉红噪声	0
+fen hong zao yin	粉红噪音	0
+fen hong zha dan	粉红炸弹	0
+fen hong zhan zhou mei	粉红粘帚霉	0
+fen hong zhen zhu cai	粉红珍珠菜	0
+fen hong zheng	粉红症	0
+fen hong zhi hu jun	粉红枝瑚菌	0
+fen hong zhu chi yu	粉红猪齿鱼	0
+fen hong zhu chuan ha	粉红蛀船蛤	0
+fen hong zhu xiao mei	粉红猪小妹	0
+fen hong zhu yi jia qin	粉红猪一家亲	0
+fen hong zhuang shi	粉红装饰	0
+fen hong zi ben zhu yi	粉红资本主义	0
+fen hong zuan jian shui yu	粉红钻溅水鱼	0
+fen hou	粉侯	0
+fen hou huang feng niao	粉喉煌蜂鸟	0
+fen hou hui feng niao	粉喉辉蜂鸟	0
+fen hu	芬湖	0
+fen hu	汾湖	0
+fen hu gao xin ji shu chan ye kai fa qu	汾湖高新技术产业开发区	0
+fen hu jun shu	粉瑚菌属	0
+fen hu lu zhan	汾湖路站	0
+fen hu xie	汾湖蟹	0
+fen hu zhan	汾湖站	0
+fen hu zhen	汾湖镇	0
+fen hua	分划	0
+fen hua	分化	0
+fen hua	焚化	0
+fen hua	粉华	0
+fen hua an xi xiang	粉花安息香	0
+fen hua chun zhu ju tai	粉花唇柱苣苔	0
+fen hua cu	分化簇	0
+fen hua di yu	粉花地榆	0
+fen hua gua lou	粉花栝楼	0
+fen hua ling xiao	粉花凌霄	0
+fen hua lu	焚化炉	0
+fen hua lu di hui	焚化炉底灰	0
+fen hua neng	分化能	0
+fen hua qian neng	分化潜能	0
+fen hua qun	分化群	0
+fen hua ruan gu bian yue ju	粉花软骨边越桔	0
+fen hua shi	粪化石	0
+fen hua wo niu	粉华蜗牛	0
+fen hua wu xin cai	粉花无心菜	0
+fen hua xiu xian ju	粉花绣线菊	0
+fen hua xiu xian mei	粉花绣线梅	0
+fen hua xue ling zhi	粉花雪灵芝	0
+fen hua ying zi cao	粉花蝇子草	0
+fen hua yue jian cao	粉花月见草	0
+fen hua zhuan yi	分化转移	0
+fen huan bing gu shu	粉环柄菇属	0
+fen huang du e	纷黄毒蛾	0
+fen huang si	芬皇寺	0
+fen huang si mo zhuan shi ta	芬皇寺模塼石塔	0
+fen huang tai	酚磺酞	0
+fen hui die shu	粉灰蝶属	0
+fen hui jia fu na gong gong tu shu guan	焚毁贾夫纳公共图书馆	0
+fen hui meng gu zhu hua da shi zhuan che shi jian	焚毁蒙古驻华大使专车事件	0
+fen huo	分火	0
+fen huo	焚火	0
+fen ji	分级	0
+fen ji	分集	0
+fen ji	分际	0
+fen ji	粪箕	0
+fen ji bao hu yu	分级保护域	0
+fen ji du	粪箕笃	0
+fen ji fang an	分集方案	0
+fen ji hu	粪箕湖	0
+fen ji hu zhuang	粪箕湖庄	0
+fen ji ji shu	分集技术	0
+fen ji pai	忿激派	0
+fen ji ran shao xun huan	分级燃烧循环	0
+fen ji shan	粪箕山	0
+fen ji wo	粪箕窝	0
+fen ji wo zhuang	粪箕窝庄	0
+fen ji zhi du	分级制度	0
+fen ji zhu se tu	分级著色图	0
+fen jia	分家	0
+fen jia er	芬加尔	0
+fen jia jun shu	粉痂菌属	0
+fen jia ren	粉佳人	0
+fen jia ti yu ju le bu	芬贾体育俱乐部	0
+fen jia wan	酚甲烷	0
+fen jian dan wei	分间单位	0
+fen jian dui	分舰队	0
+fen jian ji	分拣机	0
+fen jian lou yu dan wei	分间楼宇单位	0
+fen jiang qi	分疆棋	0
+fen jiang qu	汾江区	0
+fen jiang zhan	分江站	0
+fen jiao bian ya shu	粉角扁蚜属	0
+fen jiao ding li	分角定理	0
+fen jiao yan	粉脚雁	0
+fen jie	分节	0
+fen jie	分解	0
+fen jie	粉蚧	0
+fen jie dai xie	分解代谢	0
+fen jie di yi zhong xue	分界第一中学	0
+fen jie dian	分界点	0
+fen jie duan bing du mu	分节段病毒目	0
+fen jie er mei	粉蚧耳霉	0
+fen jie fan ying	分解反应	0
+fen jie fu hao	分节符号	0
+fen jie guang nan yi yuan	分界广南医院	0
+fen jie he xian	分解和弦	0
+fen jie ke	粉蚧科	0
+fen jie ke chong ke	粉介壳虫科	0
+fen jie lian tie lu yi zhi	分界炼铁炉遗址	0
+fen jie lian zou	分解联奏	0
+fen jie liang sui dao	分界梁隧道	0
+fen jie miu wu	分解谬误	0
+fen jie mu shi	瞓街牧师	0
+fen jie shi mei hua jie	分解似美花介	0
+fen jie xuan jun ke	分节癣菌科	0
+fen jie xuan jun shu	分节癣菌属	0
+fen jie zhe	分解者	0
+fen jie zhen	分界镇	0
+fen jie zhou	分界洲	0
+fen jie zhou dao	分界洲岛	0
+fen jie zuo yong	分解作用	0
+fen jin de xuan lv	奋进的旋律	0
+fen jin gong lu	粉锦公路	0
+fen jin gong si	奋进公司	0
+fen jin gui	粪金龟	0
+fen jin gui ke	粪金龟科	0
+fen jin hao	奋进号	0
+fen jin hao hai xia	奋进号海峡	0
+fen jin hao lie che	奋进号列车	0
+fen jin hao san wei fan chuan	奋进号三桅帆船	0
+fen jin hao tai kong suo	奋进号太空梭	0
+fen jin mo gui yu hao wu ren chuan	奋进魔鬼鱼号无人船	0
+fen jin qian jun shu	粉金钱菌属	0
+fen jin xiang	奋进乡	0
+fen jing	分镜	0
+fen jing	粉晶	0
+fen jing biao	分镜表	0
+fen jing gao	分镜稿	0
+fen jing ha	奋镜蛤	0
+fen jing jiao ben	分镜脚本	0
+fen jing tou	分镜头	0
+fen jing tu	分镜图	0
+fen jiu	汾酒	0
+fen jiu	粪酒	0
+fen jiu gan jie wu pa qi la	芬久甘杰乌帕齐拉	0
+fen jiu ji tuan	汾酒集团	0
+fen ju	分居	0
+fen ju	分句	0
+fen ju feng bao	分居风暴	0
+fen ju hua	粉菊花	0
+fen ju ji feng ya ke	分距姬蜂亚科	0
+fen ju xie yi	分居协议	0
+fen juan	粉卷	0
+fen jun	粪菌	0
+fen kai tong ju	分开同居	0
+fen kan di ni ji tuan	芬坎蒂尼集团	0
+fen kan fa ming	芬坎法明	0
+fen ke	分克	0
+fen ke	鲼科	0
+fen ke bing chuan	芬克冰川	0
+fen ke ce yan	分科测验	0
+fen ke er si ba he he	芬克尔斯巴赫河	0
+fen ke er si tan fan ying	芬克尔斯坦反应	0
+fen ke jun gang	粪壳菌纲	0
+fen ke jun ke	粪壳菌科	0
+fen ke jun mu	粪壳菌目	0
+fen ke jun shu	粪壳菌属	0
+fen ke li fu mu yuan	芬克里夫墓园	0
+fen ke luo	芬科洛	0
+fen ke luo jia na du gu	芬科洛加纳杜古	0
+fen ke xiao ying	芬克效应	0
+fen ken	芬肯	0
+fen ken ba he he	芬肯巴赫河	0
+fen ken hu	芬肯湖	0
+fen ken ta er	芬肯塔尔	0
+fen keng	粪坑	0
+fen kong jun shu	粉孔菌属	0
+fen kou chuan bo	粪口传播	0
+fen kou lan	粉口兰	0
+fen kou lan shu	粉口兰属	0
+fen kou lu jing	粪口路径	0
+fen kou tu jing	粪口途径	0
+fen kou zhen	汾口镇	0
+fen ku lou	粉骷髅	0
+fen kuai chuan shu bian ma	分块传输编码	0
+fen kuai jia mi fa	分块加密法	0
+fen kuai ju zhen	分块矩阵	0
+fen kuai mi ma	分块密码	0
+fen kuai qi	分块棋	0
+fen la bi	粉蜡笔	0
+fen lai	芬莱	0
+fen lai	芬赖	0
+fen lai sen	芬莱森	0
+fen lan	芬兰	0
+fen lan ai guo ren min yun dong	芬兰爱国人民运动	0
+fen lan ao lin pi ke wei yuan hui	芬兰奥林匹克委员会	0
+fen lan ba ba	芬兰爸爸	0
+fen lan bai jun	芬兰白军	0
+fen lan bai mei gui xun zhang	芬兰白玫瑰勋章	0
+fen lan bang qiu	芬兰棒球	0
+fen lan bao	芬兰堡	0
+fen lan bao jiao tang	芬兰堡教堂	0
+fen lan bei	芬兰杯	0
+fen lan ben bu	芬兰本部	0
+fen lan ben tu	芬兰本土	0
+fen lan biao zhun shi jian	芬兰标准时间	0
+fen lan bing qiu lian sai	芬兰冰球联赛	0
+fen lan bo er ka	芬兰波尔卡	0
+fen lan cai	芬兰菜	0
+fen lan can guan ri	芬兰餐馆日	0
+fen lan chao ji zu qiu lian sai	芬兰超级足球联赛	0
+fen lan chao shen me	芬兰潮什么	0
+fen lan che zhan	芬兰车站	0
+fen lan cheng bao	芬兰城堡	0
+fen lan chi wei dui	芬兰赤卫队	0
+fen lan ci qu	芬兰次区	0
+fen lan da da ren	芬兰鞑靼人	0
+fen lan da gong	芬兰大公	0
+fen lan da lu	芬兰大陆	0
+fen lan da qin wang	芬兰大亲王	0
+fen lan da sha	芬兰大厦	0
+fen lan dai wei si bei dai biao dui	芬兰戴维斯杯代表队	0
+fen lan dan qu bang	芬兰单曲榜	0
+fen lan de e luo si hua	芬兰的俄罗斯化	0
+fen lan de ou yuan ying bi	芬兰的欧元硬币	0
+fen lan de tang mu	芬兰的汤姆	0
+fen lan de yu yan fen zheng	芬兰的语言纷争	0
+fen lan di li	芬兰地理	0
+fen lan di ya da sha	芬兰地亚大厦	0
+fen lan di ya da xue	芬兰迪亚大学	0
+fen lan di yu tong ji dan wei ming ming fa	芬兰地域统计单位命名法	0
+fen lan dian shi tai	芬兰电视台	0
+fen lan dian ying	芬兰电影	0
+fen lan du li ri	芬兰独立日	0
+fen lan du li xuan yan	芬兰独立宣言	0
+fen lan e luo si hua	芬兰俄罗斯化	0
+fen lan fu li zhi du	芬兰福利制度	0
+fen lan fu te jia	芬兰伏特加	0
+fen lan fu yin xin yi hui	芬兰福音信义会	0
+fen lan gao su gong lu	芬兰高速公路	0
+fen lan gong chan dang	芬兰共产党	0
+fen lan gong he guo	芬兰共和国	0
+fen lan gong hui zhong yang zu zhi	芬兰工会中央组织	0
+fen lan gong lu	芬兰公路	0
+fen lan gong ren dang	芬兰工人党	0
+fen lan guan fang bang dan	芬兰官方榜单	0
+fen lan guan guang	芬兰观光	0
+fen lan guang bo dian shi tai	芬兰广播电视台	0
+fen lan guang bo gong si	芬兰广播公司	0
+fen lan guang bo jiao xiang yue tuan	芬兰广播交响乐团	0
+fen lan guang chang	芬兰广场	0
+fen lan gui yu tang	芬兰鲑鱼汤	0
+fen lan guo fang da xue	芬兰国防大学	0
+fen lan guo fang jun	芬兰国防军	0
+fen lan guo ge	芬兰国歌	0
+fen lan guo hui	芬兰国徽	0
+fen lan guo hui	芬兰国会	0
+fen lan guo ji shi wu yan jiu suo	芬兰国际事务研究所	0
+fen lan guo jia bo wu guan	芬兰国家博物馆	0
+fen lan guo jia dang an guan	芬兰国家档案馆	0
+fen lan guo jia ge ju ba lei yuan	芬兰国家歌剧芭蕾院	0
+fen lan guo jia ge ju yuan	芬兰国家歌剧院	0
+fen lan guo jia gu ji wei yuan hui	芬兰国家古迹委员会	0
+fen lan guo jia ju yuan	芬兰国家剧院	0
+fen lan guo jia lian he dang	芬兰国家联合党	0
+fen lan guo jia lian meng dang	芬兰国家联盟党	0
+fen lan guo jia mei shu guan	芬兰国家美术馆	0
+fen lan guo jia nan zi bing qiu dui	芬兰国家男子冰球队	0
+fen lan guo jia nan zi lan qiu dui	芬兰国家男子篮球队	0
+fen lan guo jia nan zi pai qiu dui	芬兰国家男子排球队	0
+fen lan guo jia nv zi bing qiu dui	芬兰国家女子冰球队	0
+fen lan guo jia nv zi zu qiu dui	芬兰国家女子足球队	0
+fen lan guo jia tu shu guan	芬兰国家图书馆	0
+fen lan guo jia zu qiu dui	芬兰国家足球队	0
+fen lan guo li hua lang	芬兰国立画廊	0
+fen lan guo li ju chang	芬兰国立剧场	0
+fen lan guo qi	芬兰国旗	0
+fen lan guo qing ri	芬兰国庆日	0
+fen lan hai jun	芬兰海军	0
+fen lan hang kong	芬兰航空	0
+fen lan he er xin ji sheng dian	芬兰赫尔辛基圣殿	0
+fen lan hong shi zi hui	芬兰红十字会	0
+fen lan hu li quan	芬兰狐狸犬	0
+fen lan hu qu	芬兰湖区	0
+fen lan hu zhao	芬兰护照	0
+fen lan hua	芬兰化	0
+fen lan hua bao	芬兰画报	0
+fen lan hua ren	芬兰华人	0
+fen lan ji du jiao lian meng	芬兰基督教联盟	0
+fen lan ji du jiao min zhu dang	芬兰基督教民主党	0
+fen lan jian zhu bo wu guan	芬兰建筑博物馆	0
+fen lan jiang guo li kou jiu	芬兰浆果利口酒	0
+fen lan jiao tang	芬兰教堂	0
+fen lan jiao tong	芬兰交通	0
+fen lan jiao yu	芬兰教育	0
+fen lan jiao yu wen hua bu	芬兰教育文化部	0
+fen lan jiao yu yu wen hua bu	芬兰教育与文化部	0
+fen lan jing ji	芬兰经济	0
+fen lan jing nei de su lian you ji dui	芬兰境内的苏联游击队	0
+fen lan ju mo	芬兰巨魔	0
+fen lan ju ren	芬兰巨人	0
+fen lan jun	芬兰军	0
+fen lan jun dui	芬兰军队	0
+fen lan jun shi	芬兰军事	0
+fen lan jun zhu	芬兰君主	0
+fen lan ka lei li a sheng	芬兰卡累利阿省	0
+fen lan kong jun	芬兰空军	0
+fen lan li shi	芬兰历史	0
+fen lan lian he dang	芬兰联合党	0
+fen lan lian sai bei	芬兰联赛杯	0
+fen lan lin ye	芬兰林业	0
+fen lan lu jun	芬兰陆军	0
+fen lan luo mu ren	芬兰罗姆人	0
+fen lan ma	芬兰马	0
+fen lan ma ke	芬兰马克	0
+fen lan mei shu xue yuan	芬兰美术学院	0
+fen lan min zhu gong he guo	芬兰民主共和国	0
+fen lan min zu jin bu dang	芬兰民族进步党	0
+fen lan min zu lian he dang	芬兰民族联合党	0
+fen lan mu zhu	芬兰木柱	0
+fen lan nan zi bing qiu dai biao dui	芬兰男子冰球代表队	0
+fen lan nei zhan	芬兰内战	0
+fen lan niu gan jun shu	粉蓝牛肝菌属	0
+fen lan nv zi bing qiu dai biao dui	芬兰女子冰球代表队	0
+fen lan peng ren	芬兰烹饪	0
+fen lan qi xiang yan jiu suo	芬兰气象研究所	0
+fen lan qing nian gong chan zhu yi lian meng	芬兰青年共产主义联盟	0
+fen lan qiu ling	芬兰丘陵	0
+fen lan qu	芬兰区	0
+fen lan qu fen	芬兰区份	0
+fen lan ren	芬兰人	0
+fen lan ren dang	芬兰人党	0
+fen lan ren kou	芬兰人口	0
+fen lan ren min dai biao tuan	芬兰人民代表团	0
+fen lan ren min min zhu lian meng	芬兰人民民主联盟	0
+fen lan ren min zhen xian	芬兰人民阵线	0
+fen lan ren ming	芬兰人名	0
+fen lan ru qin la duo jia ka lei li a	芬兰入侵拉多加卡累利阿	0
+fen lan rui dian ren	芬兰瑞典人	0
+fen lan rui dian yu	芬兰瑞典语	0
+fen lan rui dian zu	芬兰瑞典族	0
+fen lan rui dian zu ren min dang	芬兰瑞典族人民党	0
+fen lan rui dian zu yi hui	芬兰瑞典族议会	0
+fen lan sa mi yi hui	芬兰萨米议会	0
+fen lan se dou niang	粉蓝色豆娘	0
+fen lan sen lin bo wu guan	芬兰森林博物馆	0
+fen lan shang wu ban shi chu	芬兰商务办事处	0
+fen lan shao nv	芬兰少女	0
+fen lan she hui min zhu dang	芬兰社会民主党	0
+fen lan she hui zhu yi gong ren gong he guo	芬兰社会主义工人共和国	0
+fen lan shen hua	芬兰神话	0
+fen lan sheng fen	芬兰省份	0
+fen lan shi jian	芬兰时间	0
+fen lan shi jie yi chan ming lu	芬兰世界遗产名录	0
+fen lan shi zhen	芬兰市镇	0
+fen lan shi zi xi	芬兰十字戏	0
+fen lan shi zi xun zhang	芬兰狮子勋章	0
+fen lan shui guo li kou jiu	芬兰水果利口酒	0
+fen lan si fa zhang guan	芬兰司法长官	0
+fen lan song	芬兰颂	0
+fen lan song ge	芬兰颂歌	0
+fen lan tang mu	芬兰汤姆	0
+fen lan ti yu	芬兰体育	0
+fen lan tie lu	芬兰铁路	0
+fen lan tong qin hang kong	芬兰通勤航空	0
+fen lan tong xing hun yin	芬兰同性婚姻	0
+fen lan wai jiao bu	芬兰外交部	0
+fen lan wan	芬兰湾	0
+fen lan wang guo	芬兰王国	0
+fen lan wen	芬兰文	0
+fen lan wen hua yi chan ju	芬兰文化遗产局	0
+fen lan wen xue	芬兰文学	0
+fen lan xian fa	芬兰宪法	0
+fen lan xin yi hui	芬兰信义会	0
+fen lan xin yi zong jiao hui	芬兰信义宗教会	0
+fen lan xing zheng qu	芬兰行政区	0
+fen lan xing zheng qu hua	芬兰行政区划	0
+fen lan xiong shi xun zhang	芬兰雄狮勋章	0
+fen lan xuan ju	芬兰选举	0
+fen lan xue	芬兰学	0
+fen lan xue shu fen ji	芬兰学术分级	0
+fen lan yang hang	芬兰央行	0
+fen lan yi chan chu	芬兰遗产处	0
+fen lan yi chan ju	芬兰遗产局	0
+fen lan yi hui	芬兰议会	0
+fen lan yi hui da sha	芬兰议会大厦	0
+fen lan yi mei guo ren	芬兰裔美国人	0
+fen lan yi shu jiang	芬兰艺术奖	0
+fen lan yi si lan jiao	芬兰伊斯兰教	0
+fen lan yi wu ge er yu zu	芬兰一乌戈尔语族	0
+fen lan yin hang	芬兰银行	0
+fen lan yin shi	芬兰饮食	0
+fen lan yin yue	芬兰音乐	0
+fen lan you zheng	芬兰邮政	0
+fen lan yu	芬兰语	0
+fen lan yu	芬兰浴	0
+fen lan yu hua	芬兰语化	0
+fen lan yu mao qiu gong kai sai	芬兰羽毛球公开赛	0
+fen lan yu mao qiu guo ji sai	芬兰羽毛球国际赛	0
+fen lan yu wei ji bai ke	芬兰语维基百科	0
+fen lan yu wen fa	芬兰语文法	0
+fen lan yu yu fa	芬兰语语法	0
+fen lan yu zheng xie fa	芬兰语正写法	0
+fen lan yu zhi	芬兰语支	0
+fen lan yu zi mu	芬兰语字母	0
+fen lan yuan lao yuan	芬兰元老院	0
+fen lan zai ou zhou ge chang da sai zhi li nian biao xian	芬兰在欧洲歌唱大赛之历年表现	0
+fen lan zhan zheng	芬兰战争	0
+fen lan zheng fu	芬兰政府	0
+fen lan zheng jiao hui	芬兰正教会	0
+fen lan zheng zhi	芬兰政治	0
+fen lan zhong jian dang	芬兰中间党	0
+fen lan zhong jian li liang dang	芬兰中间力量党	0
+fen lan zhong yang dang	芬兰中央党	0
+fen lan zhong yang yin hang	芬兰中央银行	0
+fen lan zhu bi chang	芬兰铸币厂	0
+fen lan zhu ce ban lv guan xi	芬兰注册伴侣关系	0
+fen lan zi ran shi bo wu guan	芬兰自然史博物馆	0
+fen lan zi you gang	芬兰自由港	0
+fen lan zi you hui	芬兰自由会	0
+fen lan zong du	芬兰总督	0
+fen lan zong jiao	芬兰宗教	0
+fen lan zong li	芬兰总理	0
+fen lan zong tong	芬兰总统	0
+fen lan zu	芬兰族	0
+fen lan zu qiu bing ji lian sai	芬兰足球丙级联赛	0
+fen lan zu qiu chao ji lian sai	芬兰足球超级联赛	0
+fen lan zu qiu di yi lian sai	芬兰足球第一联赛	0
+fen lan zu qiu guan jun	芬兰足球冠军	0
+fen lan zu qiu jia ji lian sai	芬兰足球甲级联赛	0
+fen lan zu qiu lian sai xi tong	芬兰足球联赛系统	0
+fen lan zu qiu xie hui	芬兰足球协会	0
+fen lan zu qiu yi ji lian sai	芬兰足球乙级联赛	0
+fen lan zu wu sheng huo	芬兰租屋生活	0
+fen lan zu xie	芬兰足协	0
+fen lan zui gao fa yuan	芬兰最高法院	0
+fen lan zui gao xing zheng fa yuan	芬兰最高行政法院	0
+fen lan zuo yi lian meng	芬兰左翼联盟	0
+fen lei	分类	0
+fen lei	酚类	0
+fen lei bian liang	分类变量	0
+fen lei ceng ji	分类层级	0
+fen lei ci	分类词	0
+fen lei dan wei	分类单位	0
+fen lei dan yuan	分类单元	0
+fen lei deng ji	分类等级	0
+fen lei gan qun dao	芬勒甘群岛	0
+fen lei gong li	分类公理	0
+fen lei guang gao	分类广告	0
+fen lei hui shou tong	分类回收桶	0
+fen lei ji bie	分类级别	0
+fen lei jie ceng	分类阶层	0
+fen lei jie ji	分类阶级	0
+fen lei jie yuan	分类阶元	0
+fen lei la ji	分类垃圾	0
+fen lei la ji tong	分类垃圾桶	0
+fen lei mao	分类帽	0
+fen lei ming	分类名	0
+fen lei ming cheng	分类名称	0
+fen lei mu xiang	粉蕾木香	0
+fen lei peng zhang	分类膨胀	0
+fen lei qun	分类群	0
+fen lei qun xun huan	分类群循环	0
+fen lei te chang lao hui jiao tang	芬勒特长老会教堂	0
+fen lei wang luo	分类网络	0
+fen lei wen ti	分类问题	0
+fen lei wen ti zhi sun shi han shu	分类问题之损失函数	0
+fen lei xi tong	分类系统	0
+fen lei xiang liang liang hua qi	分类向量量化器	0
+fen lei xie dou	分类械斗	0
+fen lei xue	分类学	0
+fen lei xue jia	分类学家	0
+fen lei zhang	分类帐	0
+fen lei zhang	分类账	0
+fen li	分离	0
+fen li	芬利	0
+fen li	粉利	0
+fen li ban kuai bian yuan	分离板块边缘	0
+fen li bian liang	分离变量	0
+fen li bian shu fa	分离变数法	0
+fen li bing chuan	芬利冰川	0
+fen li da xue	芬利大学	0
+fen li dao	芬梨道	0
+fen li dao shi zhan tai	分离岛式站台	0
+fen li de xin	分离的心	0
+fen li dian	分离点	0
+fen li ding lv	分离定律	0
+fen li e	芬里厄	0
+fen li er	芬里尔	0
+fen li er jue	分离耳蕨	0
+fen li fu pin tiao zhi ji shu	分离复频调制技术	0
+fen li gai xing	分离概形	0
+fen li gao di	芬利高地	0
+fen li gong li	分离公理	0
+fen li guan zhu dian	分离关注点	0
+fen li gui ze	分离规则	0
+fen li guo cheng	分离过程	0
+fen li he	芬利河	0
+fen li hui xing	芬利彗星	0
+fen li ji he	分离集合	0
+fen li jiao lv zhang ai	分离焦虑障碍	0
+fen li jiao lv zheng	分离焦虑症	0
+fen li jiao pai	分离教派	0
+fen li jie jing	分离结晶	0
+fen li jing	芬梨径	0
+fen li ka	分厘卡	0
+fen li kong jian	分离空间	0
+fen li long	分离龙	0
+fen li long shu	分离龙属	0
+fen li long zu	分离龙族	0
+fen li nv quan zhu yi	分离女权主义	0
+fen li nv xing zhu yi	分离女性主义	0
+fen li pai	分离派	0
+fen li pai de xia tian	分离派的夏天	0
+fen li pai zhan lan guan	分离派展览馆	0
+fen li shi ce shi yue tai	分离式侧式月台	0
+fen li shi ce shi zhan tai	分离式侧式站台	0
+fen li shi che zhan	分离式车站	0
+fen li shi dao shi yue tai	分离式岛式月台	0
+fen li shi dao shi zhan tai	分离式岛式站台	0
+fen li shi li jiao	分离式立交	0
+fen li shi li ti jiao cha	分离式立体交叉	0
+fen li shi ti	分离实体	0
+fen li shi yue tai	分离式月台	0
+fen li shi zhan tai	分离式站台	0
+fen li si xie fu teng shan	芬里斯谢夫滕山	0
+fen li tai she	分离态射	0
+fen li ti tu	分离体图	0
+fen li tong meng zhan zheng	分离同盟战争	0
+fen li tou jing	分离透镜	0
+fen li xian wen	分离线纹	0
+fen li xing	分离性	0
+fen li xing guo jia	分离型国家	0
+fen li xing jiao lv zhang ai	分离性焦虑障碍	0
+fen li xing shen fen shi bie zhang ai	分离性身份识别障碍	0
+fen li xing shen fen zhang ai	分离性身份障碍	0
+fen li xing yi wang zheng	分离性遗忘症	0
+fen li xing zhang ai	分离性障碍	0
+fen li ya	分离压	0
+fen li yi wang zheng	分离遗忘症	0
+fen li yuan li	分离原理	0
+fen li yuan qi jian men dian lu	分立元器件门电路	0
+fen li yuan ze	分离原则	0
+fen li yun dong	分离运动	0
+fen li zhang ai	分离障碍	0
+fen li zhen qu	芬利镇区	0
+fen li zhi xing ruan shan hu	分离指形软珊瑚	0
+fen li zhu yi	分离主义	0
+fen lian	芬连	0
+fen lian da dao	芬莲达岛	0
+fen lian she	粉链蛇	0
+fen liang	分量	0
+fen liang hui gui	分量回归	0
+fen liang jie kou	分量接口	0
+fen lie	分裂	0
+fen lie bing xing ren ge wei chang	分裂病型人格违常	0
+fen lie chan wu	分裂产物	0
+fen lie chao dui chen	分裂超对称	0
+fen lie de guo jia	分裂的国家	0
+fen lie de wang lu	分裂的网路	0
+fen lie fen zhi	分裂分治	0
+fen lie fu shu	分裂复数	0
+fen lie guo jia	分裂国家	0
+fen lie jian qi	分裂间期	0
+fen lie qing gan xing zhang ai	分裂情感性障碍	0
+fen lie qing gan zhang ai	分裂情感障碍	0
+fen lie qing xu	分裂情绪	0
+fen lie qiu	分裂球	0
+fen lie ren ge	分裂人格	0
+fen lie sheng zhi	分裂生殖	0
+fen lie shi jin xing qu	分列式进行曲	0
+fen lie si yuan shu	分裂四元数	0
+fen lie ti	分裂体	0
+fen lie tong zhi yi neng su	分裂同质异能素	0
+fen lie tou piao	分裂投票	0
+fen lie wang	分裂网	0
+fen lie xi bao	分裂细胞	0
+fen lie xing qing xu shi tiao zheng	分裂性情绪失调症	0
+fen lie xing ren ge	分裂型人格	0
+fen lie xing ren ge zhang ai	分裂性人格障碍	0
+fen lie xing you xi	分裂性游戏	0
+fen lie xing zhang ai	分裂型障碍	0
+fen lie yang ren ge	分裂样人格	0
+fen lie yin li	分裂引理	0
+fen lie yu	分裂域	0
+fen lie zhu yi	分裂主义	0
+fen ling	分灵	0
+fen ling	粉岭	0
+fen ling	粉领	0
+fen ling bei	粉岭北	0
+fen ling bei fa zhan qu	粉岭北发展区	0
+fen ling bei xin fa zhan qu	粉岭北新发展区	0
+fen ling bei xin shi zhen	粉岭北新市镇	0
+fen ling cai pan fa yuan	粉岭裁判法院	0
+fen ling che zhan	粉岭车站	0
+fen ling di di	粉岭低地	0
+fen ling fa yuan	粉岭法院	0
+fen ling gao er fu qiu chang	粉岭高尔夫球场	0
+fen ling gao qiu chang	粉岭高球场	0
+fen ling gong gong tu shu guan	粉岭公共图书馆	0
+fen ling gong guo	分领公国	0
+fen ling gong li xue xiao	粉岭公立学校	0
+fen ling gong lu	粉岭公路	0
+fen ling guan li zhong xue	粉岭官立中学	0
+fen ling huan jing zi yuan zhong xin	粉岭环境资源中心	0
+fen ling huo che zhan	粉岭火车站	0
+fen ling ji chang	粉岭机场	0
+fen ling ji shang shui xin shi zhen	粉岭及上水新市镇	0
+fen ling jiu en shu yuan	粉岭救恩书院	0
+fen ling kang le gong yuan	粉岭康乐公园	0
+fen ling ke	粉蛉科	0
+fen ling li xian hui zhong xue	粉岭礼贤会中学	0
+fen ling long shan si	粉岭龙山寺	0
+fen ling long yue tou tian hou gong	粉岭龙跃头天后宫	0
+fen ling lou	粉岭楼	0
+fen ling miao	分灵庙	0
+fen ling ming dou	粉岭名都	0
+fen ling nan	粉岭南	0
+fen ling nan gong gong tu shu guan	粉岭南公共图书馆	0
+fen ling qi	分灵棋	0
+fen ling rao dao	粉岭绕道	0
+fen ling sheng ruo se tang	粉岭圣若瑟堂	0
+fen ling shi	粉岭市	0
+fen ling shi zhong xin	粉岭市中心	0
+fen ling shu	粉蛉属	0
+fen ling ti	分灵体	0
+fen ling tian hou gong	粉岭天后宫	0
+fen ling tie lu zhan	粉岭铁路站	0
+fen ling wei	粉岭围	0
+fen ling xi yuan	粉岭戏院	0
+fen ling xiao fang ju	粉岭消防局	0
+fen ling xin shi zhen	粉岭新市镇	0
+fen ling yi yuan	粉岭医院	0
+fen ling yong chi	粉岭泳池	0
+fen ling you le chang	粉岭游乐场	0
+fen ling you yong chi	粉岭游泳池	0
+fen ling zhan	粉岭站	0
+fen ling zhi xian	粉岭支线	0
+fen ling zhong xin	粉岭中心	0
+fen ling zu	粉领族	0
+fen liu	分流	0
+fen liu	分馏	0
+fen liu bao qi	分六煲棋	0
+fen liu dian zu	分流电阻	0
+fen liu fa	分馏法	0
+fen liu hai an gong yuan	分流海岸公园	0
+fen liu ji chang	分流机场	0
+fen liu pao tai	分流炮台	0
+fen liu qi	分流器	0
+fen liu shi yuan huan	分流石圆环	0
+fen liu ta	分馏塔	0
+fen liu ye zi you	分馏椰子油	0
+fen lu	分录	0
+fen lu kou zhan	分路口站	0
+fen lu kou zhen	分路口镇	0
+fen lu zhen	分路镇	0
+fen lun	芬伦	0
+fen luo	芬洛	0
+fen luo che zhan	芬洛车站	0
+fen luo de	芬罗德	0
+fen luo shi jian	芬洛事件	0
+fen luo zu qiu ju le bu	芬洛足球俱乐部	0
+fen lv	分率	0
+fen lv chui guo nan jie	粉绿垂果南芥	0
+fen lv ding gong teng	粉绿丁公藤	0
+fen lv hu wei zao	粉绿狐尾藻	0
+fen lv pu gong ying	粉绿蒲公英	0
+fen lv song cao	粉绿嵩草	0
+fen lv teng	粉绿藤	0
+fen lv teng shu	粉绿藤属	0
+fen lv tie xian lian	粉绿铁线莲	0
+fen lv ye ding xiang	粉绿野丁香	0
+fen lv ying su	粉绿罂粟	0
+fen lv zao shu he	粉绿早熟禾	0
+fen lv zhu	粉绿竹	0
+fen lv zuan di feng	粉绿钻地风	0
+fen ma duo zhong cun qu	分码多重存取	0
+fen ma duo zhong jin jie	分码多重进接	0
+fen ma ke	芬马克	0
+fen ma ke jun	芬马克郡	0
+fen ma tong	芬吗通	0
+fen ma ying shu	粪麻蝇属	0
+fen ma zhu	粉麻竹	0
+fen man ke	粉螨科	0
+fen mao	蚡冒	0
+fen mao	鼢冒	0
+fen mao er cao	粉毛耳草	0
+fen mao ju tai shu	粉毛苣苔属	0
+fen mao mi hou tao	粉毛猕猴桃	0
+fen mei bao zhuang	纷美包装	0
+fen mei ka ni ka	芬梅卡尼卡	0
+fen mei ren jiao	粉美人蕉	0
+fen mei zhu que	粉眉朱雀	0
+fen men	粪门	0
+fen mi	分泌	0
+fen mi	分米	0
+fen mi pian	分泌片	0
+fen mi su	分泌素	0
+fen mi wu	分泌物	0
+fen mi xi tong	分泌系统	0
+fen mi xiao guan	分泌小管	0
+fen mian	分娩	0
+fen mian	粉面	0
+fen mian bing fa zheng	分娩并发症	0
+fen mian gao chao	分娩高潮	0
+fen mian teng tong	分娩疼痛	0
+fen mian ying yong zhu ti ci biao	分面应用主题词表	0
+fen mian zhe	分娩者	0
+fen mian zhong xin	分娩中心	0
+fen miao bi zheng	分秒币争	0
+fen miao bi zheng	分秒必争	0
+fen miao shi jie	分秒世界	0
+fen mie song	芬灭松	0
+fen ming jiu dian	芬名酒店	0
+fen mo	粉墨	0
+fen mo	粉末	0
+fen mo jiu jing	粉末酒精	0
+fen mo lan	粉末蓝	0
+fen mo niu gan jun shu	粉末牛肝菌属	0
+fen mo qing chun ai lian	粉墨青春爱恋	0
+fen mo ye jin	粉末冶金	0
+fen mo zu he	粉墨组合	0
+fen mu	分母	0
+fen mu	坟墓	0
+fen mu	鲼目	0
+fen mu de chuang ru zhe	坟墓的闯入者	0
+fen mu er	坟墓二	0
+fen mu san	坟墓三	0
+fen mu shang xiao	坟墓上校	0
+fen mu wan	坟墓湾	0
+fen mu yi	坟墓一	0
+fen mu you li hua	分母有理化	0
+fen mu zeng er	坟墓增二	0
+fen mu zeng san	坟墓增三	0
+fen mu zeng yi	坟墓增一	0
+fen na	芬拿	0
+fen na suan	芬那酸	0
+fen nai er	芬奈尔	0
+fen nai jing	奋乃静	0
+fen nai ta lin	芬乃他林	0
+fen nan xing	粉南星	0
+fen nang pan jun ke	分囊盘菌科	0
+fen nao	粉蛲	0
+fen ne	芬讷	0
+fen ne ai ge shan	芬讷埃格山	0
+fen ne lan	芬讷兰	0
+fen nei er	芬内尔	0
+fen nei er ren	芬内尔人	0
+fen nen te luo pu	芬嫩特罗普	0
+fen ni	芬尼	0
+fen ni dao	芬尼道	0
+fen ni de yong gan lv cheng	芬妮的勇敢旅程	0
+fen ni gen de shou ling ye	芬尼根的守灵夜	0
+fen ni gen de su xing	芬尼根的苏醒	0
+fen ni gen shou ling	芬尼根守灵	0
+fen ni gen shou ling ye	芬尼根守灵夜	0
+fen ni hao	芬尼豪	0
+fen ni hao he	芬尼豪赫	0
+fen ni he ya li shan da	芬妮和亚历山大	0
+fen ni hou mian bao shu	芬尼猴面包树	0
+fen ni jing	芬尼径	0
+fen ni ke si	芬尼克斯	0
+fen ni ren	芬尼人	0
+fen ni shi jun shu	芬尼氏菌属	0
+fen ni shi zhao fu	芬尼氏爪蝠	0
+fen ni si	芬尼斯	0
+fen ni si jiao	芬尼斯角	0
+fen ni si mo li	芬尼斯摩利	0
+fen ni si shan	芬尼斯山	0
+fen ni ya dang	芬妮亚当	0
+fen ni ya tu xi	芬尼亚突袭	0
+fen ni ya xiong di hui	芬尼亚兄弟会	0
+fen ni yu ya li shan da	芬妮与亚历山大	0
+fen ni yun dong	芬尼运动	0
+fen niao	粉鸟	0
+fen niao lin yu gang	粉鸟林渔港	0
+fen nie	分蘖	0
+fen nie chong ya mu	粉啮虫亚目	0
+fen nie jin cai	分蘖堇菜	0
+fen ning	分凝	0
+fen ning	芬宁	0
+fen ning gen	芬宁根	0
+fen ning si	芬宁斯	0
+fen ning xian	分宁县	0
+fen nu	愤怒	0
+fen nu de bai ren	愤怒的白人	0
+fen nu de er shi nian dai	愤怒的二十年代	0
+fen nu de gong niu	愤怒的公牛	0
+fen nu de gong niu zuo lun shou qiang	愤怒的公牛左轮手枪	0
+fen nu de huo yan	愤怒的火焰	0
+fen nu de lun li xue	愤怒的伦理学	0
+fen nu de ma ma	愤怒的妈妈	0
+fen nu de pi te	愤怒的皮特	0
+fen nu de pu sa	愤怒的菩萨	0
+fen nu de pu tao	愤怒的葡萄	0
+fen nu de qing nian	愤怒的青年	0
+fen nu de qiu ji er	愤怒的丘吉尔	0
+fen nu de xiang jiao	愤怒的香蕉	0
+fen nu de xiao ma	愤怒的小马	0
+fen nu de xiao niao	愤怒的小鸟	0
+fen nu de xiao niao de he ping tiao yue	愤怒的小鸟的和平条约	0
+fen nu de xiao niao ji jie ban	愤怒的小鸟季节版	0
+fen nu de xiao niao ka tong	愤怒的小鸟卡通	0
+fen nu de xiao niao li yue ban	愤怒的小鸟里约版	0
+fen nu de xiao niao tai kong ban	愤怒的小鸟太空版	0
+fen nu de xiao niao xing qiu da zhan ban	愤怒的小鸟星球大战版	0
+fen nu di hui gu	愤怒地回顾	0
+fen nu dian wan zhai	愤怒电玩宅	0
+fen nu guan li	愤怒管理	0
+fen nu guan li ge ji jian jie	愤怒管理各集简介	0
+fen nu jiang liao	愤怒酱料	0
+fen nu lv	愤怒旅	0
+fen nu niao	愤怒鸟	0
+fen nu niao da dian ying	愤怒鸟大电影	0
+fen nu niao da zuo zhan	愤怒鸟大作战	0
+fen nu niao de he ping tiao yue	愤怒鸟的和平条约	0
+fen nu niao ji jie ban	愤怒鸟季节版	0
+fen nu niao ka tong	愤怒鸟卡通	0
+fen nu niao li yue ban	愤怒鸟里约版	0
+fen nu niao shi dai la	愤怒鸟史黛拉	0
+fen nu niao shi pin	愤怒鸟食品	0
+fen nu niao tai kong ban	愤怒鸟太空版	0
+fen nu niao tou zi da heng	愤怒鸟骰子大亨	0
+fen nu niao wan dian ying	愤怒鸟玩电影	0
+fen nu niao xi lie	愤怒鸟系列	0
+fen nu niao xing ji da zhan ban	愤怒鸟星际大战版	0
+fen nu niao ying xiong zhuan	愤怒鸟英雄传	0
+fen nu qing nian	愤怒青年	0
+fen nu qu shi	愤怒驱使	0
+fen nu shuang shen	忿怒双神	0
+fen nu tiao jie zhang ai	愤怒调节障碍	0
+fen nu wu	愤怒屋	0
+fen nu xiang	忿怒相	0
+fen nu xiao niao	愤怒小鸟	0
+fen nu xiao niao de he ping tiao yue	愤怒小鸟的和平条约	0
+fen nu zhi zhan	愤怒之战	0
+fen nu zun	忿怒尊	0
+fen nuo bei lun	芬诺悖论	0
+fen nuo man yun dong	芬诺曼运动	0
+fen nuo neng yuan	芬诺能源	0
+fen nuo si kan di dun	芬挪斯堪地盾	0
+fen nuo si kan di dun	芬诺斯堪地盾	0
+fen nuo si kan di ya	芬诺斯堪底亚	0
+fen nuo si kan di ya	芬诺斯坎底亚	0
+fen nuo zhan	芬诺站	0
+fen ou hui chuan	芬欧汇川	0
+fen pai biao	分派表	0
+fen pai bing wan	芬哌丙烷	0
+fen pai xi tang	分派喜糖	0
+fen pan jun ke	粪盘菌科	0
+fen pan jun shu	粉盘菌属	0
+fen pan jun shu	粪盘菌属	0
+fen pei	分配	0
+fen pei chang shu	分配常数	0
+fen pei dan yuan	分配单元	0
+fen pei ge	分配格	0
+fen pei han shu	分配函数	0
+fen pei lv	分配律	0
+fen pei qi	分配器	0
+fen pei shang ban ge	分配上半格	0
+fen pei xi shu	分配系数	0
+fen pei xing	分配性	0
+fen pei zhan tai	分配站台	0
+fen pei zheng yi	分配正义	0
+fen pian duan	分片段	0
+fen pin duo gong	分频多工	0
+fen pin qi	分频器	0
+fen ping	分屏	0
+fen ping po	粉苹婆	0
+fen pu fu er	芬普富尔	0
+fen pu hua shu	粉扑花属	0
+fen pu ni	芬普尼	0
+fen pu ni ji dan wu ran shi jian	芬普尼鸡蛋污染事件	0
+fen qi	氛气	0
+fen qi	芬奇	0
+fen qi	焚妻	0
+fen qi bao	芬奇堡	0
+fen qi dai kuan	分期贷款	0
+fen qi de lv cheng	芬奇的旅程	0
+fen qi dian pao chong	分歧碘泡虫	0
+fen qi dian shi jian	分歧点事件	0
+fen qi fen lei xue	分岐分类学	0
+fen qi fu kuan	分期付款	0
+fen qi fu xi	分期付息	0
+fen qi hao hu hang qu zhu jian	芬奇号护航驱逐舰	0
+fen qi hu	奋起湖	0
+fen qi hu bian dang	奋起湖便当	0
+fen qi hu che ku	奋起湖车库	0
+fen qi hu che zhan	奋起湖车站	0
+fen qi hu huang shan teng	奋起湖黄鳝藤	0
+fen qi hu leng shui hua	奋起湖冷水花	0
+fen qi hu leng shui ma	奋起湖冷水麻	0
+fen qi hu zhan	奋起湖站	0
+fen qi jiao chong	分歧焦虫	0
+fen qi jin hua	分歧进化	0
+fen qi lai lu zhan	芬奇莱路站	0
+fen qi li	芬奇利	0
+fen qi li lu ji fu ge na er zhan	芬奇利路及弗格纳尔站	0
+fen qi li lu ji fu luo ge nuo er zhan	芬奇利路及弗罗格诺尔站	0
+fen qi li lu ji fu luo ge nuo er zhan	芬奇利路及弗洛格诺尔站	0
+fen qi li lu zhan	芬奇利路站	0
+fen qi li lun	分歧理论	0
+fen qi li zhong yang zhan	芬奇利中央站	0
+fen qi li zhong zhan	芬奇利中站	0
+fen qi qun	分岐群	0
+fen qi ri ben	奋起日本	0
+fen qi shan	芬奇山	0
+fen qi shi gong yu	分契式公寓	0
+fen qi xue	分岐学	0
+fen qi zhe	分歧者	0
+fen qi zhe xi lie dian ying	分歧者系列电影	0
+fen qi zhen ye shan hu	分歧真叶珊瑚	0
+fen qian dui	分遣队	0
+fen qiang cuo	粉墙厝	0
+fen qiang lang shu	粪蜣螂属	0
+fen qiao	芬乔	0
+fen qiao qi jie	芬乔奇街	0
+fen qin	吩嗪	0
+fen qing	奋青	0
+fen qing	愤青	0
+fen qing	粪青	0
+fen qing sha qi	粉青沙器	0
+fen qiu	坟丘	0
+fen qiu bei lun	分球悖论	0
+fen qiu ding li	分球定理	0
+fen qiu guai lun	分球怪论	0
+fen qiu guang mian jie	粪球光面介	0
+fen qiu jun shu	粪球菌属	0
+fen qiu mu	坟丘墓	0
+fen qiu qi jie	芬丘奇街	0
+fen qiu tou nian	粉丘头鲶	0
+fen qu	分区	0
+fen qu	粉蛆	0
+fen qu bi zhong tu	分区比重图	0
+fen qu biao	分区表	0
+fen qu dao fu shou	分区刀斧手	0
+fen qu fang yi	分区防疫	0
+fen qu fen ji jing zhun fang kong fang an	分区分级精准防控方案	0
+fen qu jing shu	分区警署	0
+fen qu lei xing	分区类型	0
+fen qu long shu	焚躯龙属	0
+fen qu mi du di tu	分区密度地图	0
+fen qu quan ju di zhi kong jian	分区全局地址空间	0
+fen qu tu shu guan	分区图书馆	0
+fen qu wen ti	分区问题	0
+fen qu yu ji lu	分区域记录	0
+fen quan	分权	0
+fen quan	酚醛	0
+fen quan he	汾泉河	0
+fen quan shu zhi	酚醛树脂	0
+fen quan su liao	酚醛塑料	0
+fen quan xiang	分全乡	0
+fen quan xue shuo	分权学说	0
+fen quan ying shu	粪泉蝇属	0
+fen quan zheng fu	分权政府	0
+fen quan zhi heng	分权制衡	0
+fen quan zhi zhan	蚡泉之战	0
+fen quan zi zhi	分权自治	0
+fen ran lin feng niao	粉髯林蜂鸟	0
+fen ran lin xing feng niao	粉髯林星蜂鸟	0
+fen rao bu xi	纷扰不息	0
+fen re gan jun shu	粪热杆菌属	0
+fen ru	焚如	0
+fen ruan wo kong jun shu	粉软卧孔菌属	0
+fen rui dang	奋锐党	0
+fen rui dang de xi men	奋锐党的西门	0
+fen rui dang ren	奋锐党人	0
+fen sa li er	芬撒里尔	0
+fen sai qin	吩噻嗪	0
+fen sai qin lei kang jing shen bing yao	吩噻嗪类抗精神病药	0
+fen sai qin lei kang jing shen fen lie yao	吩噻嗪类抗精神分裂药	0
+fen san bao fen	分散孢粉	0
+fen san fa dian	分散发电	0
+fen san guang mao xie	分散光毛蟹	0
+fen san ji	分散剂	0
+fen san ji hua jing ji	分散计划经济	0
+fen san jue ce	分散决策	0
+fen san ke	粪伞科	0
+fen san kong zhi xi tong	分散控制系统	0
+fen san li	分散力	0
+fen san ran liao	分散染料	0
+fen san shi ban ben kong zhi	分散式版本控制	0
+fen san shi bu fen ke guan cha ma er ke fu jue ce guo cheng	分散式部分可观察马尔可夫决策过程	0
+fen san shi bu la ge fan she qi	分散式布拉格反射器	0
+fen san shi dang an xi tong	分散式档案系统	0
+fen san shi dian wang	分散式电网	0
+fen san shi fa dian	分散式发电	0
+fen san shi gong xiang ji yi ti	分散式共享记忆体	0
+fen san shi ha xi biao	分散式哈希表	0
+fen san shi ji suan	分散式计算	0
+fen san shi jiao yi suo	分散式交易所	0
+fen san shi ju jue fu wu gong ji	分散式拒绝服务攻击	0
+fen san shi kong zhi xi tong	分散式控制系统	0
+fen san shi ping xing chu li	分散式平行处理	0
+fen san shi she jiao wang lu	分散式社交网路	0
+fen san shi she jiao wang luo	分散式社交网络	0
+fen san shi xi tong	分散式系统	0
+fen san shi yan suan fa	分散式演算法	0
+fen san shi ying yong cheng shi	分散式应用程式	0
+fen san shi yun suan	分散式运算	0
+fen san shi za cou biao	分散式杂凑表	0
+fen san shi zhang ben	分散式帐本	0
+fen san shi zhang ben	分散式账本	0
+fen san shi zi liao chu cun	分散式资料储存	0
+fen san shi zi liao ku	分散式资料库	0
+fen san shi zu duan fu wu	分散式阻断服务	0
+fen san shu	粪伞属	0
+fen san ti xi	分散体系	0
+fen san tou zi	分散投资	0
+fen san wang lu	分散网路	0
+fen san wang luo	分散网络	0
+fen san xi	分散系	0
+fen san xing fa dian	分散型发电	0
+fen san zhu yi li de miu wu	分散注意力的谬误	0
+fen sao yi	粪扫衣	0
+fen se	粉色	0
+fen se chao piao	粉色钞票	0
+fen se dao	芬瑟岛	0
+fen se hang kong	粉色航空	0
+fen se huan jun shu	粉色环菌属	0
+fen se leng jing	分色棱镜	0
+fen se lv zhu shi	粉色绿柱石	0
+fen se mian bao mei jun	粉色面包霉菌	0
+fen se xiao gu	粉色小菇	0
+fen se yao wan	粉色药丸	0
+fen se zhu yi	分色主义	0
+fen se zhuang shi	粉色装饰	0
+fen se zi ben zhu yi	粉色资本主义	0
+fen se zui nie	粉色罪孽	0
+fen sen huan xing shan	芬森环形山	0
+fen sha	粉砂	0
+fen sha song	芬杀松	0
+fen sha xie hui yan	粉砂屑灰岩	0
+fen sha yan	粉砂岩	0
+fen shan er zhi	分陕而治	0
+fen shan kui	粉山葵	0
+fen shan lu	坟山路	0
+fen shang xiao	坟上校	0
+fen shao	焚烧	0
+fen shao gang qin	焚烧钢琴	0
+fen shao jie gan	焚烧秸秆	0
+fen shao ming qiang	焚烧冥镪	0
+fen shao mo si ke	焚烧莫斯科	0
+fen shao xin niang	焚烧新娘	0
+fen she feng ke	分舌蜂科	0
+fen she hua feng ke	分舌花蜂科	0
+fen shen	分身	0
+fen shen	焚身	0
+fen shen gang	芬什港	0
+fen shen gang xian	芬什港县	0
+fen shen qi tan	分身奇谭	0
+fen shen zhan shi	分身战士	0
+fen shen zhang hao	分身帐号	0
+fen sheng	分升	0
+fen sheng bao zi	分生孢子	0
+fen sheng bao zi	分生胞子	0
+fen sheng zai chun	粪生甾醇	0
+fen sheng zhen jun	粪生真菌	0
+fen sheng zu zhi	分生组织	0
+fen shi	分时	0
+fen shi	分式	0
+fen shi	焚尸	0
+fen shi	粉虱	0
+fen shi	粪石	0
+fen shi an quan	芬氏安全	0
+fen shi bang qiu	芬式棒球	0
+fen shi bing	分尸病	0
+fen shi cao zuo xi tong	分时操作系统	0
+fen shi chang qi yan jin	分时长期演进	0
+fen shi chu li	分时处理	0
+fen shi ci li yu	芬氏慈丽鱼	0
+fen shi du jia	分时度假	0
+fen shi du jia	分时渡假	0
+fen shi duo gong	分时多工	0
+fen shi duo zhong cun qu	分时多重存取	0
+fen shi fa	焚失法	0
+fen shi fang cheng	分式方程	0
+fen shi fen xiang	分时分享	0
+fen shi hua xian luo	芬氏花仙螺	0
+fen shi huan	分式环	0
+fen shi hui ni	粉饰灰泥	0
+fen shi ji su	愤世嫉俗	0
+fen shi ke	分室科	0
+fen shi ke	粉虱科	0
+fen shi lei qiu	芬式垒球	0
+fen shi li xiang	分式理想	0
+fen shi lian	粉石莲	0
+fen shi mu	分室目	0
+fen shi pi zhi li	芬氏魮脂鲤	0
+fen shi ren	焚尸人	0
+fen shi ti	分式体	0
+fen shi xi tong	分时系统	0
+fen shi xian xing bian huan	分式线性变换	0
+fen shi xiang	汾市乡	0
+fen shi yu	分式域	0
+fen shi yun shi keng	芬施陨石坑	0
+fen shi zhen	汾市镇	0
+fen shi zong lin ya	芬施鬃林鸭	0
+fen shou	分手	0
+fen shou chu fang	分手厨房	0
+fen shou da shi	分手大师	0
+fen shou de jue xin	分手的决心	0
+fen shou de qing shu	分手的情书	0
+fen shou fu wu	分手服务	0
+fen shou he yue	分手合约	0
+fen shou hou bu yao zuo peng you	分手后不要做朋友	0
+fen shou liang zhuang dao	分守凉庄道	0
+fen shou ling zhan	分守岭站	0
+fen shou shuo ai ni	分手说爱你	0
+fen shou su song chang dao	分守苏松常道	0
+fen shou xi ning dao	分守西宁道	0
+fen shou xia jing nan dao	分守下荆南道	0
+fen shou xin	分手信	0
+fen shou zhuang xiu	分手装修	0
+fen shou zong yao zai yu tian	分手总要在雨天	0
+fen shu	分数	0
+fen shu	焚书	0
+fen shu	鼢鼠	0
+fen shu	粪鼠	0
+fen shu	鲼属	0
+fen shu dan wei	分数单位	0
+fen shu dan wei liang	分数单位量	0
+fen shu fu li ye bian huan	分数傅里叶变换	0
+fen shu fu li ye bian huan	分数傅立叶变换	0
+fen shu fu li ye zhuan huan	分数傅利叶转换	0
+fen shu fu li ye zhuan huan	分数傅立叶转换	0
+fen shu jie kong zhi	分数阶控制	0
+fen shu ke	鼢鼠科	0
+fen shu keng ru	焚书坑儒	0
+fen shu liang zi huo er xiao ying	分数量子霍尔效应	0
+fen shu qi	分束器	0
+fen shu shu	鼢鼠属	0
+fen shu wei	分数维	0
+fen shu wei ji fen	分数微积分	0
+fen shu wei xing	分数维形	0
+fen shu xiao bo bian huan	分数小波变换	0
+fen shui	分水	0
+fen shui	汾水	0
+fen shui che zhan	分水车站	0
+fen shui cun	分水村	0
+fen shui da dui	分水大队	0
+fen shui dun yi zhi	分水墩遗址	0
+fen shui gong	分水工	0
+fen shui guan	分水关	0
+fen shui guan fang yu qiang	分水关防御墙	0
+fen shui jiang	分水江	0
+fen shui jiang shui ku	分水江水库	0
+fen shui liang shi diao lou	分水梁氏碉楼	0
+fen shui liao	分水寮	0
+fen shui liao zhuang	分水藔庄	0
+fen shui ling	分水岭	0
+fen shui ling shui ku	分水岭水库	0
+fen shui ling sui dao	分水岭隧道	0
+fen shui ling xiang	分水岭乡	0
+fen shui ling zhan	分水岭站	0
+fen shui ling zhen	分水岭镇	0
+fen shui lun da jie	分水仑大捷	0
+fen shui lun zhan yi	分水仑战役	0
+fen shui qi	分水器	0
+fen shui ting xiang	分水亭乡	0
+fen shui ting zhen	分水亭镇	0
+fen shui xian	分水县	0
+fen shui xiang	分水乡	0
+fen shui zhan	分水站	0
+fen shui zhen	分水镇	0
+fen shui zhi	分税制	0
+fen shui zhi cai zheng guan li ti zhi	分税制财政管理体制	0
+fen shui zhi gai ge	分税制改革	0
+fen si	分祀	0
+fen si	粉丝	0
+fen si bei li gong yuan zhan	芬斯贝利公园站	0
+fen si bo li	芬斯伯里	0
+fen si cui zhui wei ying wu	芬斯翠锥尾鹦鹉	0
+fen si dun bao	芬斯顿堡	0
+fen si duo er fu	芬斯多尔夫	0
+fen si duo fu	芬斯多夫	0
+fen si fu li shu	粉丝福利署	0
+fen si hui tu	粉丝绘图	0
+fen si jian mian hui	粉丝见面会	0
+fen si ju hui	粉丝聚会	0
+fen si ju le bu	粉丝俱乐部	0
+fen si ke fang cheng	芬斯克方程	0
+fen si la bu deng shi	芬斯拉不等式	0
+fen si lei ji he	芬斯勒几何	0
+fen si lei liu xing	芬斯勒流形	0
+fen si nei si	芬斯内斯	0
+fen si peng	芬斯蓬	0
+fen si peng shi	芬斯蓬市	0
+fen si qing huai fu wu	粉丝情怀服务	0
+fen si te ba he	芬斯特巴赫	0
+fen si te er tu er mu shan	芬斯特尔图尔姆山	0
+fen si te heng nen	芬斯特亨嫩	0
+fen si te la feng	芬斯特拉峰	0
+fen si te la luo te feng	芬斯特拉罗特峰	0
+fen si te long	芬斯特隆	0
+fen si te lun	芬斯特伦	0
+fen si te luo te hu	芬斯特罗特湖	0
+fen si te wa er de	芬斯特瓦尔德	0
+fen si te wa er de bing chuan	芬斯特瓦尔德冰川	0
+fen si te wa shan	芬斯特瓦山	0
+fen si te wei ci shan	芬斯特维茨山	0
+fen si ti yu hui	芬斯体育会	0
+fen si ti yu zhong xin	芬斯体育中心	0
+fen si ting xiao xue	分司厅小学	0
+fen si wang zhan	粉丝网站	0
+fen si wen hua	粉丝文化	0
+fen si xing dong zhu yi	粉丝行动主义	0
+fen si zhuan ye	粉丝专页	0
+fen si zu qiu hui	芬斯足球会	0
+fen su	分素	0
+fen suan	酚酸	0
+fen suan zhu	粉酸竹	0
+fen sui	粉碎	0
+fen sui chong bai	粉碎崇拜	0
+fen sui gu su tai	粉碎姑苏台	0
+fen sui leng jing	粉碎棱镜	0
+fen sui shang hai fan ge ming wu zhuang pan luan yin mou	粉碎上海反革命武装叛乱阴谋	0
+fen sui shang hai wu zhuang pan luan yin mou	粉碎上海武装叛乱阴谋	0
+fen sui si ren bang	粉碎四人帮	0
+fen sui xing gu zhe	粉碎性骨折	0
+fen ta er shan	芬塔尔山	0
+fen ta xi fei	芬塔西鲱	0
+fen tai	酚酞	0
+fen tai ni	芬太尼	0
+fen tai ni lei wu zhi	芬太尼类物质	0
+fen tai zhen	坟台镇	0
+fen tan ni	吩坦尼	0
+fen tan shao shi cai liao	酚碳烧蚀材料	0
+fen tang gu jian zhu	汾塘古建筑	0
+fen tao	分桃	0
+fen tao he	芬陶河	0
+fen te er	芬特尔	0
+fen te ming	芬特明	0
+fen te si duo pu	芬特斯多普	0
+fen te zhen qu	芬特镇区	0
+fen teng	粉藤	0
+fen teng shu	粉藤属	0
+fen ti	分提	0
+fen ti ben zhi lun	分体本质论	0
+fen ti bing du ke	分体病毒科	0
+fen ti ci	分体词	0
+fen ti fa	分体法	0
+fen ti ji shu	分提技术	0
+fen ti ke	分体科	0
+fen ti lun	分体论	0
+fen ti tuo pu xue	分体拓扑学	0
+fen ti xu wu zhu yi	分体虚无主义	0
+fen ti xue	分体学	0
+fen tian dao hu	分田到户	0
+fen tian niu zu	粉天牛族	0
+fen tian zhi	份田制	0
+fen tiao	粉条	0
+fen tiao er cai	粉条儿菜	0
+fen tiao si	粉条丝	0
+fen tong	分铜	0
+fen tong	粪桶	0
+fen tong suo	分铜锁	0
+fen tou	分投	0
+fen tou guo jiu	粉头果鸠	0
+fen tou qi	分投棋	0
+fen tou ya	粉头鸭	0
+fen tou yi gang	粉头衣纲	0
+fen tou yi ke	粉头衣科	0
+fen tou yi mu	粉头衣目	0
+fen tu	焚吐	0
+fen tu guan xi	芬土关系	0
+fen tu li	汾屠立	0
+fen tuan	粉团	0
+fen tuan fu gai wen ti	分团覆盖问题	0
+fen tuan hu die xi zhu hua	粉团蝴蝶戏珠花	0
+fen tuan hua	粉团花	0
+fen tuan liao	粉团蓼	0
+fen tuan qiang wei	粉团蔷薇	0
+fen tuan wen ti	分团问题	0
+fen tui zhen wei que	粉腿针尾雀	0
+fen tuo ju shi	芬陀居士	0
+fen tuo li hua	芬陀利花	0
+fen tuo li hua	芬陀利华	0
+fen tuo mu dan kang	芬妥木单抗	0
+fen tuo zhen	坟坨镇	0
+fen wei	分维	0
+fen wei	氛围	0
+fen wei	芬威	0
+fen wei ceng de ji shu	粪味噌的技术	0
+fen wei de nv er men	芬威的女儿们	0
+fen wei gong yuan	芬威公园	0
+fen wei han shu	分位函数	0
+fen wei qing gui zhan	芬微轻轨站	0
+fen wei qiu chang	芬威球场	0
+fen wei shu	分位数	0
+fen wei shu hui gui	分位数回归	0
+fen wei ti yu ji tuan	芬威体育集团	0
+fen wei tu	分位图	0
+fen wei yin yue	氛围音乐	0
+fen wei yuan qi	分位缘起	0
+fen wei zhan	芬威站	0
+fen wei zhan	芬微站	0
+fen wen che	轒辒车	0
+fen wen ke	粪蚊科	0
+fen wen tie lu	分文铁路	0
+fen wen xian	分文线	0
+fen wu bao gao shu	芬吴报告书	0
+fen wu cong	粉舞蟌	0
+fen wu de lu zhan	芬伍德路站	0
+fen wu guan xi	芬乌关系	0
+fen wu jiang jun	奋武将军	0
+fen wu ke lan	粉乌克兰	0
+fen wu yu xi	芬乌语系	0
+fen wu zhu	粉舞蛛	0
+fen xi	分析	0
+fen xi	汾西	0
+fen xi chun	分析纯	0
+fen xi dan	分喜蛋	0
+fen xi dan yu fen xi tang	分喜蛋与分喜糖	0
+fen xi fa yin	分析发音	0
+fen xi hua xue	分析化学	0
+fen xi ji	分析机	0
+fen xi ji gai lun	分析机概论	0
+fen xi jia	分析家	0
+fen xi kang ri you ji zhi dui di xia dang huo dong jiu zhi	汾西抗日游击支队地下党活动旧址	0
+fen xi kuang wu ju	汾西矿务局	0
+fen xi kuang ye	汾西矿业	0
+fen xi li xue	分析力学	0
+fen xi lu	汾西路	0
+fen xi lun li xue	分析伦理学	0
+fen xi ma ke si zhu yi	分析马克思主义	0
+fen xi ming ti	分析命题	0
+fen xi ping lun	分析评论	0
+fen xi qi	分析器	0
+fen xi she hui xue	分析社会学	0
+fen xi shi	分析师	0
+fen xi shi ma ke si zhu yi	分析式马克思主义	0
+fen xi shu	分析树	0
+fen xi tan huan	分析瘫痪	0
+fen xi tang	分喜糖	0
+fen xi tang yu fen xi dan	分喜糖与分喜蛋	0
+fen xi tian ping	分析天平	0
+fen xi wang	汾西王	0
+fen xi xian	汾西县	0
+fen xi xian wen wu bao hu dan wei	汾西县文物保护单位	0
+fen xi xin li xue	分析心理学	0
+fen xi xing ma ke si zhu yi	分析性马克思主义	0
+fen xi xing si wei	分析性思维	0
+fen xi xing tui li	分析性推理	0
+fen xi xing yu yan	分析型语言	0
+fen xi xue	分析学	0
+fen xi xue jia	分析学家	0
+fen xi yi	分析仪	0
+fen xi yu	分析语	0
+fen xi yu pi ping	分析与批评	0
+fen xi yuan	分析员	0
+fen xi zhe xue	分析哲学	0
+fen xi zhi zhan	汾隰之战	0
+fen xian	分先	0
+fen xian che zhan	分线车站	0
+fen xian fa zhan	分线发展	0
+fen xian zhan	分线站	0
+fen xiang	分香	0
+fen xiang	分享	0
+fen xiang	焚香	0
+fen xiang	粉巷	0
+fen xiang cai fu	分享财富	0
+fen xiang ci die dang an xi tong	分享磁碟档案系统	0
+fen xiang jing ji	分享经济	0
+fen xiang ka fei	分享咖啡	0
+fen xiang ke ji	纷享科技	0
+fen xiang kong jian	分享空间	0
+fen xiang qu	分相区	0
+fen xiang shu qian	分享书签	0
+fen xiang xiang	粉香香	0
+fen xiang xing jing ji	分享型经济	0
+fen xiang yong heng sheng ming zhi liang	分享永恒生命之粮	0
+fen xiang zhen	分乡镇	0
+fen xiang zheng	分享症	0
+fen xiang zhu yi	分享主义	0
+fen xiao	分销	0
+fen xiao gan xian chong	粪小杆线虫	0
+fen xiao zhan yi	汾孝战役	0
+fen xiao zhu ji	分销主机	0
+fen xie jia shu	粉蟹甲属	0
+fen xin	分心	0
+fen xin	芬辛	0
+fen xin cao	分心槽	0
+fen xin nan you	分心男友	0
+fen xin yi huo	焚心以火	0
+fen xing	分型	0
+fen xing	分形	0
+fen xing hu	汾兴湖	0
+fen xing ji he	分形几何	0
+fen xing mu	鲼形目	0
+fen xing shi jie	分形世界	0
+fen xing shuang xi chong shu	分性双吸虫属	0
+fen xing ti	分形体	0
+fen xing wei shu	分形维数	0
+fen xing xue	分形学	0
+fen xing ya suo	分形压缩	0
+fen xing yu zhou lun	分形宇宙论	0
+fen xing yu zhou xue	分形宇宙学	0
+fen xiong ge bai ling	粉胸歌百灵	0
+fen xiong jiu bing	粉雄救兵	0
+fen xiu san ke	粪锈伞科	0
+fen xu zao shu	分须藻属	0
+fen xue	粉雪	0
+fen xun chi tai dao	分巡池太道	0
+fen xun dao	分巡道	0
+fen xun gan liang bing bei dao	分巡甘凉兵备道	0
+fen xun gan liang dao	分巡甘凉道	0
+fen xun gan shan dao	分巡甘山道	0
+fen xun hui ning dao	分巡徽宁道	0
+fen xun lan zhou bing bei dao	分巡兰州兵备道	0
+fen xun lan zhou dao	分巡兰州道	0
+fen xun lu feng dao	分巡庐凤道	0
+fen xun nan chang bing bei dao	分巡南昌兵备道	0
+fen xun nan shao lian bing bei dao	分巡南韶连兵备道	0
+fen xun song tai bing bei dao jian guan shui li	分巡松太兵备道兼管水利	0
+fen xun su song bing bei dao	分巡苏松兵备道	0
+fen xun su song dao	分巡苏松道	0
+fen xun su song tai bing bei dao	分巡苏松太兵备道	0
+fen xun su song tai cang bing bei dao jian guan shui li	分巡苏松太仓兵备道兼管水利	0
+fen xun tai sha bing bei dao	分巡台厦兵备道	0
+fen xun tai wan dao	分巡台湾道	0
+fen xun wan bei dao	分巡皖北道	0
+fen xun wan nan dao	分巡皖南道	0
+fen ya	分压	0
+fen ya	粉芽	0
+fen ya bao jun ke	粪芽孢菌科	0
+fen ya bao jun shu	粪芽孢菌属	0
+fen ya dui	粉芽堆	0
+fen ya qi	分压器	0
+fen ya shu	粉蚜属	0
+fen yan	分盐	0
+fen yan	酚盐	0
+fen yan die shu	粉眼蝶属	0
+fen yan du juan	粉艳杜鹃	0
+fen yan gong	焚焰蚣	0
+fen yan xiang	汾雁香	0
+fen yan ya ying shu	粉颜蚜蝇属	0
+fen yan zhe fu hou pan yu	粉眼褶腹喉盘鱼	0
+fen yan zhen	分盐镇	0
+fen yang	汾阳	0
+fen yang bao en si	汾阳报恩寺	0
+fen yang ci sheng si	汾阳慈胜寺	0
+fen yang de bi yu	分羊的比喻	0
+fen yang fa yun si	汾阳法云寺	0
+fen yang gong	汾阳宫	0
+fen yang gong yi zhi	汾阳宫遗址	0
+fen yang gong zhu	汾阳公主	0
+fen yang guan di miao	汾阳关帝庙	0
+fen yang hao xun fang jian	汾阳号巡防舰	0
+fen yang hou tu sheng mu miao	汾阳后土圣母庙	0
+fen yang hua	汾阳话	0
+fen yang ji du jiao jiao tang	汾阳基督教教堂	0
+fen yang jian	汾阳舰	0
+fen yang jiao hui yi yuan jiu zhi	汾阳教会医院旧址	0
+fen yang jiao qu	汾阳教区	0
+fen yang jun wang	汾阳郡王	0
+fen yang lu	汾阳路	0
+fen yang ma yi	汾阳麻衣	0
+fen yang ming yi zhong xue	汾阳铭义中学	0
+fen yang nan xun lou	汾阳南薰楼	0
+fen yang sa ke	汾阳萨客	0
+fen yang shan zhao	汾阳善昭	0
+fen yang shi	汾阳市	0
+fen yang shi wen wu bao hu dan wei	汾阳市文物保护单位	0
+fen yang tian qi miao	汾阳天齐庙	0
+fen yang tian zhu jiao jiao tang	汾阳天主教教堂	0
+fen yang wang	汾阳王	0
+fen yang wang jiu	汾阳王酒	0
+fen yang wen feng ta	汾阳文峰塔	0
+fen yang wu yue miao	汾阳五岳庙	0
+fen yang xian	汾阳县	0
+fen yang zhan	汾阳站	0
+fen yang zhong wu wang	汾阳忠武王	0
+fen yang zhuan qu	汾阳专区	0
+fen yao hua	分药花	0
+fen yao hua shu	分药花属	0
+fen ye	分野	0
+fen ye	分页	0
+fen ye biao	分页表	0
+fen ye cuo wu	分页错误	0
+fen ye huang mao cao mei	粉叶黄毛草莓	0
+fen ye jue	粉叶蕨	0
+fen ye jue ming	粉叶决明	0
+fen ye jue shu	粉叶蕨属	0
+fen ye ke	粉叶柯	0
+fen ye liu lan	分页浏览	0
+fen ye lou dou	分液漏斗	0
+fen ye lun huan teng	粉叶轮环藤	0
+fen ye mi hou tao	粉叶猕猴桃	0
+fen ye nan	粉叶楠	0
+fen ye nei cun guan li dan yuan	分页内存管理单元	0
+fen ye pa shan hu	粉叶爬山虎	0
+fen ye she pu tao	粉叶蛇葡萄	0
+fen ye shi	粉叶柿	0
+fen ye shi lian hua	粉叶石莲花	0
+fen ye shi liu lan	分页式浏览	0
+fen ye shuo	分野说	0
+fen ye su mu	粉叶苏木	0
+fen ye wu ceng long	粉叶五层龙	0
+fen ye xiao bo	粉叶小檗	0
+fen ye xin mu jiang zi	粉叶新木姜子	0
+fen ye xiu xian ju	粉叶绣线菊	0
+fen ye xun zi	粉叶栒子	0
+fen ye yan jie cao	粉叶沿阶草	0
+fen ye yang ti jia	粉叶羊蹄甲	0
+fen ye ye mu gua	粉叶野木瓜	0
+fen ye ye tong	粉叶野桐	0
+fen ye yu feng hua	粉叶玉凤花	0
+fen ye yu teng	粉叶鱼藤	0
+fen ye zhong jia dou	粉叶肿荚豆	0
+fen ye zi jin	粉叶紫堇	0
+fen yi	分宜	0
+fen yi	粉伊	0
+fen yi cha jian	芬乙茶碱	0
+fen yi ke	粉衣科	0
+fen yi mei guo ren	芬裔美国人	0
+fen yi mu	粉衣目	0
+fen yi ru shu shui dao	分沂入沭水道	0
+fen yi shu	粉衣属	0
+fen yi xian	分宜县	0
+fen yi yun shi keng	芬伊陨石坑	0
+fen yi zhan	分宜站	0
+fen yi zhen	分宜镇	0
+fen yin	分音	0
+fen yin	汾阴	0
+fen yin ci	分音词	0
+fen yin fu	分音符	0
+fen yin fu hao	分音符号	0
+fen yin gu cheng zhi ji mu di	汾阴古城址及墓地	0
+fen yin jun	汾阴郡	0
+fen yin lie	分音列	0
+fen yin qi	分音器	0
+fen yin shan xi zhi	汾阴山西雉	0
+fen yin xian nan	汾阴县男	0
+fen ying ke	粪蝇科	0
+fen ying shu	粉蝇属	0
+fen ying shu	粪蝇属	0
+fen yong guang chang zhan	奋勇广场站	0
+fen yong qiu sheng	奋勇求生	0
+fen you xi	粪游戏	0
+fen yu da dao	分域大道	0
+fen yu jie	分域街	0
+fen yu ma tou	分域码头	0
+fen yuan	芬园	0
+fen yuan	粉圆	0
+fen yuan bao zang si	芬园宝藏寺	0
+fen yuan duo xiang shi	分圆多项式	0
+fen yuan gong xue xiao	芬园公学校	0
+fen yuan guo xiao	芬园国小	0
+fen yuan guo zhong	芬园国中	0
+fen yuan mao	分院帽	0
+fen yuan ti	分圆体	0
+fen yuan xiang	芬园乡	0
+fen yuan yi hun chu ji jing wu ren yuan su she	芬园已婚初级警务人员宿舍	0
+fen yuan yu	分圆域	0
+fen yuan zhuang	芬园庄	0
+fen yuan zhuang yi chang	芬园庄役场	0
+fen yue	焚月	0
+fen yun cuo yao	分韵撮要	0
+fen yun wu xin cai	粉晕无心菜	0
+fen zai	粉仔	0
+fen zai wan	粪甾烷	0
+fen zai wan chun	粪甾烷醇	0
+fen zang zheng zhi	分赃政治	0
+fen zang zhi du	分赃制度	0
+fen zao	粉噪	0
+fen zao sheng	粉噪声	0
+fen zao yin	粉噪音	0
+fen zhan ren ma	奋战韧马	0
+fen zhang	分帐	0
+fen zhe bao shu	粉褶包属	0
+fen zhe hong gai gu shu	粉褶红盖菇属	0
+fen zhe jun ke	粉褶菌科	0
+fen zhe jun shu	粉褶菌属	0
+fen zhe xun shu	粉褶蕈属	0
+fen zhen	分诊	0
+fen zheng	纷争	0
+fen zheng rou	粉蒸肉	0
+fen zhi	分支	0
+fen zhi	分治	0
+fen zhi bao zi jun shu	分枝孢子菌属	0
+fen zhi biao	分支表	0
+fen zhi bo wu guan	分治博物馆	0
+fen zhi cu cao huang jin	分枝粗糙黄堇	0
+fen zhi da dao	芬治大道	0
+fen zhi da you mang	分枝大油芒	0
+fen zhi dao yu	分治岛屿	0
+fen zhi deng xin cao	分枝灯心草	0
+fen zhi di ju tang	分枝低聚糖	0
+fen zhi di yi suan	分枝地衣酸	0
+fen zhi dian	分至点	0
+fen zhi ding jie	分支定界	0
+fen zhi fa	分治法	0
+fen zhi fen lei xue	分支分类学	0
+fen zhi gan jun	分支杆菌	0
+fen zhi gan jun	分枝杆菌	0
+fen zhi gan jun ke	分枝杆菌科	0
+fen zhi gan ying cao	分枝感应草	0
+fen zhi guo cheng	分支过程	0
+fen zhi hua guan mu tong	粉质花关木通	0
+fen zhi hua ma dou ling	粉质花马兜铃	0
+fen zhi jin hua	分支进化	0
+fen zhi ju ren bu niao zhu	粉趾巨人捕鸟蛛	0
+fen zhi li lu ji huo ge lao zhan	分治理路及霍格劳站	0
+fen zhi li lu zhan	芬治里路站	0
+fen zhi li lun	分枝理论	0
+fen zhi li zao	分支狸藻	0
+fen zhi lie dang	分枝列当	0
+fen zhi ling	粪之灵	0
+fen zhi liu	粉枝柳	0
+fen zhi long	分支龙	0
+fen zhi long shu	分支龙属	0
+fen zhi lou	焚纸楼	0
+fen zhi lu	芬治路	0
+fen zhi ma hua tou	分枝麻花头	0
+fen zhi mei	粉枝莓	0
+fen zhi mei jun shu	分枝霉菌属	0
+fen zhi qiao qun hai kui	分枝鞘群海葵	0
+fen zhi qie ge fa	分支切割法	0
+fen zhi quan	分至圈	0
+fen zhi qun	分支群	0
+fen zhi rui lie wu tou	分枝锐裂乌头	0
+fen zhi shan ye zao	分枝杉叶藻	0
+fen zhi shi xi zhi	分支世系制	0
+fen zhi shu	分枝数	0
+fen zhi shu qu cao	分枝鼠曲草	0
+fen zhi shuang yao mang	分枝双药芒	0
+fen zhi suan	分支酸	0
+fen zhi suan fa	分治算法	0
+fen zhi suan tu jing	分支酸途径	0
+fen zhi suo cao jue	分枝莎草蕨	0
+fen zhi tu	分支图	0
+fen zhi wa	分指袜	0
+fen zhi xi tong xue	分支系统学	0
+fen zhi xi zhan	芬治西站	0
+fen zhi xie wa	分指鞋袜	0
+fen zhi xie wa	分趾鞋袜	0
+fen zhi xing mang shu qu cao	分枝星芒鼠曲草	0
+fen zhi ya ju	分枝亚菊	0
+fen zhi yin zi	分支因子	0
+fen zhi yu ce	分支预测	0
+fen zhi zao ke	粉枝藻科	0
+fen zhi zao shu	粉枝藻属	0
+fen zhi zhan	芬治站	0
+fen zhi zhi ling yan chi	分支指令延迟	0
+fen zhong	分钟	0
+fen zhong	坟冢	0
+fen zhong chuan mei	分众传媒	0
+fen zhong du juan	粉钟杜鹃	0
+fen zhong fen lei fa	分众分类法	0
+fen zhong jia shuo	坟冢假说	0
+fen zhong ren	分钟人	0
+fen zhong si	分钟寺	0
+fen zhong si qiao	分钟寺桥	0
+fen zhong si zhan	分钟寺站	0
+fen zhong ying shu	粪种蝇属	0
+fen zhou	坟洲	0
+fen zhou	汾州	0
+fen zhou	焚州	0
+fen zhou e shu	纷舟蛾属	0
+fen zhou fu	汾州府	0
+fen zhou jie du shi	汾州节度使	0
+fen zhu	粉竹	0
+fen zhu fan zhi	分株繁殖	0
+fen zhu jia zi qi	分株假紫萁	0
+fen zhu lou	粉竹楼	0
+fen zhu rou	分猪肉	0
+fen zhu suo	分驻所	0
+fen zhu yan shi	焚猪验尸	0
+fen zhu zi qi	分株紫萁	0
+fen zhuan	粉专	0
+fen zhuan di	分转第	0
+fen zhuang	粉状	0
+fen zhuang cha si ke	粉状叉丝壳	0
+fen zhuang lou	粉粧楼	0
+fen zhuang shou zhi	粉状手指	0
+fen zhuo qi jie	芬卓奇街	0
+fen zi	朌子	0
+fen zi	分子	0
+fen zi ba xiang yao wu	分子靶向药物	0
+fen zi ban lv	分子伴侣	0
+fen zi biao ji	分子标记	0
+fen zi bing du xue	分子病毒学	0
+fen zi cha xun yu yan	分子查询语言	0
+fen zi chou yang hua wu	分子臭氧化物	0
+fen zi chu neng fang shi	分子储能方式	0
+fen zi dan luo he wu	分子氮络合物	0
+fen zi dan pei he wu	分子氮配合物	0
+fen zi de gou xiang	分子的构象	0
+fen zi de gou xing	分子的构型	0
+fen zi dian liu jia shuo	分子电流假说	0
+fen zi dian yue qian	分子电跃迁	0
+fen zi dian zi xue	分子电子学	0
+fen zi dian zi yue qian	分子电子跃迁	0
+fen zi dong li lun	分子动理论	0
+fen zi dong li xue	分子动力学	0
+fen zi du juan	粉紫杜鹃	0
+fen zi dui chen xing	分子对称性	0
+fen zi dui jie	分子对接	0
+fen zi fa dong ji	分子发动机	0
+fen zi fu	分字符	0
+fen zi gou xing	分子构型	0
+fen zi guang pu	分子光谱	0
+fen zi gui dao	分子轨道	0
+fen zi gui yu	分子轨域	0
+fen zi hu dong	分子互动	0
+fen zi hua he wu	分子化合物	0
+fen zi huan liu jia shuo	分子环流假说	0
+fen zi ji he	分子几何	0
+fen zi ji he jie gou	分子几何结构	0
+fen zi ji qi	分子机器	0
+fen zi jian	分子间	0
+fen zi jian li	分子间力	0
+fen zi jian mo	分子建模	0
+fen zi jian xiang hu zuo yong	分子间相互作用	0
+fen zi jian zuo yong li	分子间作用力	0
+fen zi jiao	分子胶	0
+fen zi jie	分子结	0
+fen zi jie gou	分子结构	0
+fen zi jin hua	分子进化	0
+fen zi jin hua de zhong xing xue shuo	分子进化的中性学说	0
+fen zi jin hua yi chuan xue fen xi	分子进化遗传学分析	0
+fen zi jin hua zhong xing xue shuo	分子进化中性学说	0
+fen zi jing ti	分子晶体	0
+fen zi ke long	分子克隆	0
+fen zi ke xue yu gong cheng	分子科学与工程	0
+fen zi ku	焚字库	0
+fen zi kuo san	分子扩散	0
+fen zi li chang	分子力场	0
+fen zi li ti jie gou	分子立体结构	0
+fen zi li xue	分子力学	0
+fen zi li zi	分子离子	0
+fen zi liang	分子量	0
+fen zi liang fen bu	分子量分布	0
+fen zi liao li	分子料理	0
+fen zi lu	焚字炉	0
+fen zi ma da	分子马达	0
+fen zi mei shi	分子美食	0
+fen zi mo ni	分子模拟	0
+fen zi mo xing	分子模型	0
+fen zi na mi ji shu	分子纳米技术	0
+fen zi nei qin he qu dai fan ying	分子内亲核取代反应	0
+fen zi nei zuo yong li	分子内作用力	0
+fen zi niu jie	分子扭结	0
+fen zi qi kuai	分子砌块	0
+fen zi qian	份子钱	0
+fen zi qin yuan guan xi xue	分子亲缘关系学	0
+fen zi qing	分子氢	0
+fen zi re yun dong	分子热运动	0
+fen zi ren	分子人	0
+fen zi ren diao su	分子人雕塑	0
+fen zi ren lei xue	分子人类学	0
+fen zi se	粉紫色	0
+fen zi shai	分子筛	0
+fen zi shan mai du shi zou lang	芬兹山脉都市走廊	0
+fen zi shen jing ke xue	份子神经科学	0
+fen zi sheng tai xue	分子生态学	0
+fen zi sheng wu	分子生物	0
+fen zi shi	分子式	0
+fen zi shi bie	分子识别	0
+fen zi shi wu	分子食物	0
+fen zi shu	分子束	0
+fen zi shu lei jing	分子束磊晶	0
+fen zi shu wai yan	分子束外延	0
+fen zi tan zhen	分子探针	0
+fen zi tong huo	分子通货	0
+fen zi wa jue	分子挖掘	0
+fen zi wu li xue	分子物理学	0
+fen zi xi tong fa sheng xue	分子系统发生学	0
+fen zi xi tong fa yu xue	分子系统发育学	0
+fen zi xi tong xue	分子系统学	0
+fen zi xiang si	分子相似	0
+fen zi xing zhuang	分子形状	0
+fen zi xuan zhi	分子选殖	0
+fen zi ya xing	分子亚型	0
+fen zi yan hua	分子演化	0
+fen zi yi chuan xue	分子遗传学	0
+fen zi yin ji ju he wu	分子印迹聚合物	0
+fen zi yu xi bao dan bai zhi zu xue qi kan	分子与细胞蛋白质组学期刊	0
+fen zi yu zhong	分子育种	0
+fen zi yun	分子云	0
+fen zi yun dong lun	分子运动论	0
+fen zi za jiao	分子杂交	0
+fen zi zhen dong	分子振动	0
+fen zi zhi liang	分子质量	0
+fen zi zhi wu	分子植物	0
+fen zi zhong	分子钟	0
+fen zi zhong ban mu jin	粉紫重瓣木槿	0
+fen zi zhong de yuan zi li lun	分子中的原子理论	0
+fen zi zhong liu xue	分子肿瘤学	0
+fen zi zhong xi fa sheng xue	分子种系发生学	0
+fen zu	分组	0
+fen zu guo lv	分组过滤	0
+fen zu jia mi	分组加密	0
+fen zu jiao huan	分组交换	0
+fen zu ma	分组码	0
+fen zu mi ma	分组密码	0
+fen zu shu	鼢足鼠	0
+fen zu shu ju hui ju xie yi	分组数据汇聚协议	0
+fen zu shu shu	鼢足鼠属	0
+fen zui jian niao	粉嘴鲣鸟	0
+fen zui qian ya	粉嘴潜鸭	0
+fen zui sha bai ling	粉嘴沙百灵	0
+fen zuo jun ke	粉座菌科	0
+fen zuo jun shu	粉座菌属	0

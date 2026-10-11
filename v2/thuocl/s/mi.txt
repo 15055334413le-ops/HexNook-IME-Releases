@@ -1,0 +1,384 @@
+mi fan	米饭	154542
+mi xian	米线	42854
+mi zhou	米粥	42118
+mi hou tao	猕猴桃	40357
+mi mian	米面	39952
+mi du	密度	33557
+mi xie er	米歇尔	12581
+mi guo	米果	7794
+mi gan	蜜柑	7539
+mi qie jie chu zhe	密切接触者	7178
+mi yun	密云	7143
+mi fei	米芾	6517
+mi gao	米糕	6060
+mi pi	米皮	6004
+mi cha	米茶	4343
+mi lei	米勒	4137
+mi tang	米糖	3685
+mi niao wai ke	泌尿外科	3625
+mi dou fu	米豆腐	3447
+mi yao dui	密钥对	3407
+mi su li zhou	密苏里州	2904
+mi ren	米仁	2903
+mi xie gen zhou	密歇根州	2362
+mi ma bao hu	密码保护	2216
+mi ma kuang	密码框	1983
+mi luo shi	汨罗市	1844
+mi deng	幂等	1786
+mi liu zhi ji	弥留之际	1763
+mi lan	糜烂	1734
+mi hou tao	弥猴桃	1700
+mi ma shu ru kuang	密码输入框	1653
+mi niao xi tong	泌尿系统	1577
+mi ma xiu gai	密码修改	1470
+mi yao chang du	密钥长度	1470
+mi yun shui ku	密云水库	1442
+mi qie er	米切尔	1316
+mi er bu xuan	秘而不宣	1276
+mi xi xi bi zhou	密西西比州	1263
+mi niao	泌尿	1168
+mi yao jiao huan	密钥交换	1151
+mi yao guan li	密钥管理	1136
+mi qi lin ji tuan	米其林集团	1009
+mi niao ke	泌尿科	940
+mi deng xing	幂等性	904
+mi ma guo qi	密码过期	843
+mi te lang	密特朗	842
+mi tu zhi fan	迷途知返	834
+mi ma po jie	密码破解	713
+mi na er di che dui	米纳尔迪车队	700
+mi fen rou	米粉肉	591
+mi ma hua	蜜麻花	585
+mi fen dian	米粉店	570
+mi ma qiang du	密码强度	490
+mi la	米拉	487
+mi feng lei	密封类	448
+mi tian da huang	弥天大谎	433
+mi ma ti zhi	密码体制	432
+mi zhi cha shao	蜜汁叉烧	424
+mi ma an quan	密码安全	422
+mi na	米娜	419
+mi ni du bin	迷你杜宾	405
+mi ma xi tong	密码系统	388
+mi le xian	弥勒县	372
+mi huo bu jie	迷惑不解	371
+mi kai lang ji luo	米开朗基罗	370
+mi dong	米冻	324
+mi guan chang	米灌肠	321
+mi ma zhong zhi	密码重置	297
+mi niao xi	泌尿系	294
+mi ma ji shu	密码技术	282
+mi yi	米易	281
+mi ke luo ni xi ya lian bang	密克罗尼西亚联邦	272
+mi ma fen xi	密码分析	272
+mi zhi li qiu	蜜汁梨球	267
+mi fan qie	蜜番茄	261
+mi luo jin gu	密锣紧鼓	260
+mi mi mi yao	秘密密钥	249
+mi san dao	蜜三刀	223
+mi shan shi	密山市	190
+mi zhi huo fang	蜜汁火方	182
+mi liang fen	米凉粉	179
+mi die xiang ye	迷迭香叶	173
+mi yun xian yi yuan	密云县医院	170
+mi mi zhi yin	靡靡之音	164
+mi lin	米林	160
+mi ke er sen	米克尔森	156
+mi mi ju bu	秘密拘捕	155
+mi niao xi jie shi	泌尿系结石	155
+mi yao zheng shu	密钥证书	153
+mi zou shen jing	迷走神经	150
+mi sheng	弥生	146
+mi chang zi	米肠子	143
+mi yun xian fu you bao jian yuan	密云县妇幼保健院	143
+mi zhou	密州	142
+mi die xiang ti qu wu	迷迭香提取物	141
+mi ni du bin quan	迷你杜宾犬	140
+mi fen zheng rou	米粉蒸肉	138
+mi ma shu	密码术	130
+mi ge lu lie quan	米格鲁猎犬	129
+mi yun xian zheng fu	密云县政府	123
+mi feng ke	蜜蜂科	118
+mi bu you chu	靡不有初	114
+mi du	弥渡	103
+mi ha yi luo wei qi	米哈伊洛维奇	99
+mi liang xia	米凉虾	97
+mi lan xing wei yan	糜烂性胃炎	94
+mi san xing xue guan nei ning xue	弥散性血管内凝血	94
+mi mian pi zi	米面皮子	92
+mi er dun	弥尔顿	88
+mi du juan ti	弥渡卷蹄	83
+mi shi xiang	米市巷	81
+mi zhi an zhou	密执安州	81
+mi yao liu	密钥流	76
+mi shan	米山	75
+mi tuo	弥陀	75
+mi niao wai ke xue	泌尿外科学	73
+mi ru su	泌乳素	71
+mi zhi shan yao	蜜汁山药	71
+mi he	弥河	63
+mi huo long	迷惑龙	63
+mi lian chuan bei pi pa gao	蜜炼川贝枇杷膏	63
+mi ju pi	蜜桔皮	61
+mi ge lu quan	米格鲁犬	57
+mi er si zhen	觅儿寺镇	54
+mi tian da huo	弥天大祸	53
+mi tao pian	蜜桃片	52
+mi tuo si	弥陀寺	52
+mi zhi cha shao bao	蜜汁叉烧包	52
+mi zuo	咪唑	51
+mi yao hui fu	密钥恢复	48
+mi fei si tong	米非司酮	47
+mi fei si tong pian	米非司酮片	47
+mi nuo di er	米诺地尔	47
+mi yao fu wu qi	密钥服务器	47
+mi yun gu lou	密云鼓楼	47
+mi long	米龙	46
+mi zhi hong yu	蜜汁红芋	45
+mi bu tong feng	密不通风	43
+mi liang xiang	米良乡	43
+mi tian da zui	弥天大罪	43
+mi yun lu	密云路	42
+mi mi ceng ceng	密密层层	41
+mi hua cha	米花茶	40
+mi lu di nuo wei qi	米卢蒂诺维奇	40
+mi yao jian li	密钥建立	39
+mi luo xian	汨罗县	38
+mi jian hai tang	蜜饯海棠	37
+mi wen fan kui	密文反馈	35
+mi cang dao	米仓道	34
+mi quan shi	米泉市	34
+mi yao fen pei zhong xin	密钥分配中心	34
+mi ge lu lie tu quan	米格鲁猎兔犬	33
+mi xian	密县	32
+mi guo zhi	米果汁	30
+mi wen fen zu lian jie	密文分组链接	28
+mi shan xian	密山县	27
+mi jian ying tao	蜜饯樱桃	26
+mi jiang xiang	洣江乡	26
+mi ju guan tou	蜜桔罐头	26
+mi zong da bao	迷宗大包	26
+mi yao tuo guan	密钥托管	25
+mi yun shi li pu	密云十里堡	25
+mi da zuo lun	咪达唑仑	24
+mi du qiao lu kou	密渡桥路口	23
+mi jian qing mei	蜜饯青梅	22
+mi keng	米坑	22
+mi lei de	米勒德	22
+mi la zhou zi	蜜蜡肘子	21
+mi hu xiang	汨湖乡	20
+mi shi da jie	米市大街	18
+mi die xiang fen	迷迭香粉	17
+mi feng jiao	密封胶	17
+mi guan	密灌	17
+mi heng	祢衡	17
+mi yun qi che zhan	密云汽车站	17
+mi jia bao cun	米家堡村	16
+mi suo qian lie chun	米索前列醇	16
+mi jian si pin	蜜饯四品	15
+mi shui jie dao	密水街道	15
+mi feng ma bi bing	蜜蜂麻痹病	14
+mi jian hong guo	蜜饯红果	14
+mi suo qian lie chun pian	米索前列醇片	14
+mi tang you san	米汤油馓	14
+mi jian yin xing	蜜饯银杏	13
+mi long xiang	米龙乡	13
+mi you ren	米友仁	13
+mi kang zuo	咪康唑	12
+mi ma fen xi gong ji	密码分析攻击	12
+mi meng huang	密蒙黄	12
+mi nuo huan su	米诺环素	12
+mi yao jia mi mi yao	密钥加密密钥	12
+mi zao he tao	蜜枣核桃	12
+mi jia bao	米家堡	11
+mi zhi feng gao	蜜制蜂糕	11
+mi jian bo luo	蜜饯菠萝	10
+mi jian gui yuan	蜜饯桂圆	10
+mi liang ku hu tong	米粮库胡同	10
+mi yao duan yu	密钥短语	10
+mi cang liang zi	米仓凉子	9
+mi chi ya gang	迷齿亚纲	9
+mi fen guan	米粉馆	9
+mi jian li zi	蜜饯李子	9
+mi ni ying guo ke ka quan	迷你英国可卡犬	9
+mi shui	密水	9
+mi dong gao	米冻糕	8
+mi jia cun	米家村	8
+mi li nong	米力农	8
+mi quan xian	米泉县	8
+mi xiang	米象	8
+mi zao yang rou	蜜枣羊肉	8
+mi zhi nan gua	密汁南瓜	8
+mi gan da shi ying	蜜柑大实蝇	7
+mi guo shi	米果食	7
+mi jian jin zao	蜜饯金枣	7
+mi jiu cha xiang ya	米酒茶香鸭	7
+mi lu cun	麋鹿村	7
+mi ru su liu	泌乳素瘤	7
+mi tuo seng	密陀僧	7
+mi cang qian xun	米仓千寻	6
+mi jian pu tao	蜜饯葡萄	6
+mi jian xian tao	蜜饯鲜桃	6
+mi wan zhong	米万钟	6
+mi ye yin ge niao	密叶隐歌鸟	6
+mi yun ao lin pi ke gong yuan	密云奥林匹克公园	6
+mi dong feng	米冻蜂	5
+mi jian gua tiao	蜜饯瓜条	5
+mi jian lai yang li	蜜饯莱阳梨	5
+mi jian ping guo	蜜饯苹果	5
+mi jue qing liang san	秘诀清凉散	5
+mi ka dou xi	迷卡斗蟋	5
+mi liang quan hui zu min zu xiang	米粮泉回族民族乡	5
+mi xi lu	觅西路	5
+mi zhi jin zao	蜜汁金枣	5
+mi zi dian lu kou	觅子店路口	5
+mi zuo si ting	咪唑斯汀	5
+mi ba xiang	迷坝乡	4
+mi dan bai mei	糜蛋白酶	4
+mi dang	迷当	4
+mi diao yu	秘雕鱼	4
+mi jian ju zi	蜜饯桔子	4
+mi jian ma ti	蜜饯马蹄	4
+mi meng hua	密蒙花	4
+mi yun xin nong cun	密云新农村	4
+mi zao yin xin	蜜枣银心	4
+mi zi xiang	觅子乡	4
+mi ding	嘧啶	3
+mi feng wei bao zi chong	蜜蜂微孢子虫	3
+mi fu ren	糜夫人	3
+mi fu rong	蜜芙蓉	3
+mi hou qi tu niu	猕猴骑土牛	3
+mi hua lai du kou	觅花来渡口	3
+mi jia yuan xiang	米家垣乡	3
+mi jian long yan	蜜饯龙眼	3
+mi li gen	密立根	3
+mi liang ku	米粮库	3
+mi liang ku she qu	米粮库社区	3
+mi liang tun	米粮屯	3
+mi lin qing jiao nang	泌淋清胶囊	3
+mi lu yan	迷路炎	3
+mi luo jie	米罗街	3
+mi ni zi	米尼兹	3
+mi qie er yan die	米切尔眼蝶	3
+mi rong yu si xia bao	米茸芋丝虾煲	3
+mi shi fan she	觅食反射	3
+mi shi zhen	米市镇	3
+mi tuo en kun	米托蒽醌	3
+mi tuo yan	弥陀岩	3
+mi yun jian ce chang	密云检测场	3
+mi yun jiao tong ju	密云交通局	3
+mi yun xi da qiao	密云西大桥	3
+mi yun yi zhi lu	密云一支路	3
+mi zhi fei tao	蜜汁肥桃	3
+mi zhi san wen yu	蜜汁三文鱼	3
+mi zhi yi pin rou	蜜汁一品肉	3
+mi bu zhi wu suo ru	迷不知吾所如	2
+mi cai jian du wa	迷彩箭毒蛙	2
+mi er fu de gang	米尔福德港	2
+mi fei si tong jiao nang	米非司酮胶囊	2
+mi gan cao	蜜甘草	2
+mi gua cui shan	蜜瓜脆鳝	2
+mi gua luo tou ji tang	蜜瓜螺头鸡汤	2
+mi gui hua sheng tang	蜜桂花生糖	2
+mi jia wu xiang	米家务乡	2
+mi jian bin zi	蜜饯槟子	2
+mi jian ling jiao	蜜饯菱角	2
+mi ke bao	弥可保	2
+mi la jiao	蜜辣椒	2
+mi le zhen mi le	弥勒真弥勒	2
+mi mi quan xing wei	秘密权行为	2
+mi nuo di er ding	米诺地尔酊	2
+mi qi lin jiao shi	米契林角石	2
+mi qin lu xi kou	米秦路西口	2
+mi sha xiang	弥沙乡	2
+mi shi he	米市河	2
+mi xi xi bi chan xun	密西西比铲鲟	2
+mi xue wei qi	蜜雪薇琪	2
+mi yan	密岩	2
+mi yun guo yuan xiao qu	密云果园小区	2
+mi yun huo che zhan	密云火车站	2
+mi yun nan cai yuan	密云南菜园	2
+mi zhi fan qie	蜜汁蕃茄	2
+mi zhi guo yao zhong hua bie	秘制国药中华鳖	2
+mi zhi la huang gua	蜜汁辣黄瓜	2
+mi bai qian	蜜白前	1
+mi bei miao zu xiang	米贝苗族乡	1
+mi cang you jiu lou	迷藏有旧楼	1
+mi da zuo lun zhu she ye	咪达唑仑注射液	1
+mi dan ping pian	米氮平片	1
+mi du ti du li xin	密度梯度离心	1
+mi fei liu zhen wei wang cai	宓妃留枕魏王才	1
+mi fei si tong jiao wan	米非司酮胶丸	1
+mi fo shou	蜜佛手	1
+mi gui fang mi hua tang	蜜桂芳米花糖	1
+mi hai sha	弥海砂	1
+mi he shi xi ting zhong	麋何食兮庭中	1
+mi jian xiang jiao	蜜饯香蕉	1
+mi la meng te si	米拉蒙特斯	1
+mi lao shu dan gao	米老鼠蛋糕	1
+mi li nong zhu she ye	米力农注射液	1
+mi lin zhen	米林镇	1
+mi lu jian zhi jue zhou	麋鹿见之决骤	1
+mi mi shi zhi zai xin xi	秘密事之载心兮	1
+mi niao ning jiao nang	泌尿宁胶囊	1
+mi niao xi jie he	泌尿系结核	1
+mi niao xi tong yao	泌尿系统药	1
+mi pa ming	米帕明	1
+mi qing mei	蜜青梅	1
+mi san guo	蜜三果	1
+mi shi guo	蜜食果	1
+mi xi lin chang	密溪林场	1
+mi xi xiao qu	密西小区	1
+mi xiao bin	米晓彬	1
+mi xing zhen	弥兴镇	1
+mi you xi hu	密疣蜥虎	1
+mi yun gong shang ju	密云工商局	1
+mi yun he nan zhai	密云河南寨	1
+mi ze liu mei	米泽瑠美	1
+mi zhi jiang mi ou	蜜汁江米藕	1
+mi zhi kou wei she	秘制口味蛇	1
+mi zhi shu gan wan	秘制舒肝丸	1
+mi zhi zhou zi	秘制肘子	1
+mi zuo li bin pian	咪唑立宾片	1
+mi zuo si ting huan shi pian	咪唑斯汀缓释片	1
+mi bai ri ben juan guan luo	米白日本卷管螺	0
+mi cai e	迷彩蛾	0
+mi ci e	迷刺蛾	0
+mi dian gou ding xiao ye jia	密点沟顶肖叶甲	0
+mi du diao qiu lian jie	弥渡雕球链蚧	0
+mi feng ji sheng ying	蜜蜂寄生蝇	0
+mi feng jiao luo	蜜蜂角螺	0
+mi gong lou dou zhu	迷宫漏斗蛛	0
+mi hou tao hou	猕猴桃猴	0
+mi huan bi yu	迷幻躄鱼	0
+mi huo yao gun bian se long	迷惑摇滚变色龙	0
+mi ke lie hai si luo	米克列海蛳螺	0
+mi ke shi zhui ti nuo man	米克氏锥体糯鳗	0
+mi lei hui ye hou	米勒灰叶猴	0
+mi lei shi xiong dian man	密勒氏胸电鳗	0
+mi li ge de jin gang ying wu	米利戈德金刚鹦鹉	0
+mi mao duan xi xiang	密毛短喜象	0
+mi mu ye e	眯目夜蛾	0
+mi ni bei ji	迷你贝吉	0
+mi ni da si yan bao luo	迷你大四眼宝螺	0
+mi ni ji long	迷你棘龙	0
+mi ni kai li lan geng	迷你凯利蓝梗	0
+mi ni xing a fu han lie quan	迷你型阿富汗猎犬	0
+mi ni xing jin mao	迷你型金毛	0
+mi ni xing pin che quan	迷你型品彻犬	0
+mi ni xing shi nao cha geng	迷你型史猱查梗	0
+mi ni xing ying guo sai te quan	迷你型英国塞特犬	0
+mi qi lin jiao shi shu	米契林角石属	0
+mi quan yuan zhu	米泉园蛛	0
+mi que ken xi rong yuan	米却肯溪蝾螈	0
+mi sai shi dong nan ya shi	密鳃鲥东南亚鲥	0
+mi shi can bi ping	米氏残臂鲆	0
+mi shi fu piao xia hu yu	米氏腹瓢鰕虎鱼	0
+mi shi hua mei niao bao luo	米氏画眉鸟宝螺	0
+mi shi ni yuan ke xie	米氏拟圆壳蟹	0
+mi shi xiao ye qiao	米氏小叶鞘	0
+mi su er dao hong yin han yu	米苏尔岛虹银汉鱼	0
+mi tai gui jia	迷台龟甲	0
+mi wen di wang yu luo	密纹帝王芋螺	0
+mi xi xi bi shi wen xun	密西西比匙吻鲟	0
+mi xie gen tai yuan lang	密歇根苔原狼	0

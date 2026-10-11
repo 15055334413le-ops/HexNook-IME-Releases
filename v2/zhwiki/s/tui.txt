@@ -1,0 +1,365 @@
+tui an chu shi	退安处士	0
+tui an ju shi	退庵居士	0
+tui an xian sheng	蜕庵先生	0
+tui bang zi	推棒子	0
+tui bei tu	推背图	0
+tui bi	推比	0
+tui bi san she	退避三舍	0
+tui bian	蜕变	0
+tui bian ce shi	蜕变测试	0
+tui bian ji hua	蜕变计划	0
+tui bian lian	推变链	0
+tui bian nan ren	蜕变男人	0
+tui bian xing jing shen bing	蜕变性精神病	0
+tui bo ji shu	推播技术	0
+tui bu	腿部	0
+tui bu dao	推不倒	0
+tui bu ning zheng hou qun	腿不宁症候群	0
+tui bu tui ju	腿部推举	0
+tui bu wan ju	腿部弯举	0
+tui bu zuo pai	退步左派	0
+tui bu zuo yi	退步左翼	0
+tui ce xiao shuo	推测小说	0
+tui ce xing xiao shuo	推测性小说	0
+tui ce zhi xing	推测执行	0
+tui chao	退潮	0
+tui che	推车	0
+tui chi	推迟	0
+tui chi shi	推迟势	0
+tui chi shi jian	推迟时间	0
+tui chu	推出	0
+tui chu he dian	退出核电	0
+tui chu jian	退出键	0
+tui chu ou zhou lian meng	退出欧洲联盟	0
+tui chu yi guan bing	退除役官兵	0
+tui chu yin du yan jiang	退出印度演讲	0
+tui chu yin du yan shuo	退出印度演说	0
+tui chu yin du yun dong	退出印度运动	0
+tui chu zhuang tai	退出状态	0
+tui chuan you li	推川悠里	0
+tui ci	退磁	0
+tui cun qi	推存棋	0
+tui da che	推大车	0
+tui dang	退党	0
+tui dang bao ping an	退党保平安	0
+tui dang yun dong	退党运动	0
+tui dao	推导	0
+tui dao bai gong de nan ren	推倒白宫的男人	0
+tui dao niu	推倒牛	0
+tui dao tong xiang yun dong	推倒铜像运动	0
+tui dao zhe du qiang	推倒这堵墙	0
+tui dian zi ji tuan	推电子基团	0
+tui ding	推定	0
+tui ding ji cheng ren	推定继承人	0
+tui ding jie gu	推定解雇	0
+tui ding shao nv	推定少女	0
+tui ding si wang	推定死亡	0
+tui dong chang jiang jing ji dai fa zhan ling dao xiao zu	推动长江经济带发展领导小组	0
+tui dong fa zhi jin cheng shi da an jian	推动法治进程十大案件	0
+tui dong hua yu gong wei hui	推动华语工委会	0
+tui dong zhang san jiao yi ti hua fa zhan ling dao xiao zu	推动长三角一体化发展领导小组	0
+tui dong zhe zhan	推动者站	0
+tui duan lei xing	推断类型	0
+tui duan tong ji	推断统计	0
+tui duan xing bie	推断型别	0
+tui en ling	推恩令	0
+tui en zhong jian	推恩众建	0
+tui er bu xiu	退而不休	0
+tui er tou ji	腿二头肌	0
+tui fan	颓饭	0
+tui fei	颓废	0
+tui fei er quan	推菲尔泉	0
+tui fei li fa suo	颓废理发所	0
+tui fei pai	颓废派	0
+tui fei pai yun dong	颓废派运动	0
+tui fei yi shu	颓废艺术	0
+tui fei yin yue	颓废音乐	0
+tui fei zhu yi	颓废主义	0
+tui fen chong	推粪虫	0
+tui fen mi hou tao	褪粉猕猴桃	0
+tui fu hui	退辅会	0
+tui fu hui sen lin bao yu chu	退辅会森林保育处	0
+tui fu hui zhang hua nong chang	退辅会彰化农场	0
+tui fu ji jin	退抚基金	0
+tui fu ti	推覆体	0
+tui gao ji	推高机	0
+tui ge jian	退格键	0
+tui geng hai lin	退耕还林	0
+tui gu	推古	0
+tui gu chao gai ge	推古朝改革	0
+tui gu hai di shan	推古海底山	0
+tui gu nv di	推古女帝	0
+tui gu tian huang	推古天皇	0
+tui guan	推官	0
+tui guan na zi	退官衲子	0
+tui guang	推广	0
+tui guang hua yu li shi hui	推广华语理事会	0
+tui guang hua yu yun dong	推广华语运动	0
+tui guang pu tong hua	推广普通话	0
+tui gui bian jiao	推轨变焦	0
+tui gui jing tou	推轨镜头	0
+tui hei ji su	褪黑激素	0
+tui hei ji su	退黑激素	0
+tui hei se su	褪黑色素	0
+tui hei su	褪黑素	0
+tui hei su	退黑素	0
+tui hou jian	腿后腱	0
+tui hou jian	退后键	0
+tui hua	退化	0
+tui hua bing	退化病	0
+tui hua duo bian xing	退化多边形	0
+tui hua fen bu	退化分布	0
+tui hua gui yu	退化轨域	0
+tui hua hua hua jie	退化花花介	0
+tui hua qi guan	退化器官	0
+tui hua san jiao xing	退化三角形	0
+tui hua shuang xian xing xing shi	退化双线性形式	0
+tui hua tai ban dao ti	退化态半导体	0
+tui hua xing guan jie yan	退化性关节炎	0
+tui hua xing ji zhui yan	退化性脊椎炎	0
+tui hua xing nao bu ji bing	退化性脑部疾病	0
+tui hui	推回	0
+tui hui zheng quan	退回证券	0
+tui hun	退浑	0
+tui huo	煺火	0
+tui huo	退火	0
+tui huo	退货	0
+tui huo bo li	退火玻璃	0
+tui huo er tong	退货儿童	0
+tui huo shou quan	退货授权	0
+tui huo xiao ying	退火效应	0
+tui huo yuan zheng dui	退货远征队	0
+tui huo zha qi	退货诈欺	0
+tui ji	退积	0
+tui ji gu	推基古	0
+tui ji ren kou	推计人口	0
+tui jian	退件	0
+tui jian di zhi	退件地址	0
+tui jian xi tong	推荐系统	0
+tui jian xin	推荐信	0
+tui jian yi qi gong du chu ti yan de ta	推荐一起共度初体验的她	0
+tui jian zhen xuan	推荐甄选	0
+tui jiang pin	推奖品	0
+tui jiao	腿交	0
+tui jiao	退教	0
+tui jie qiu	腿截球	0
+tui jin cang	推进舱	0
+tui jin cheng	推进城	0
+tui jin hai nan quan mian shen hua gai ge kai fang ling dao xiao zu	推进海南全面深化改革开放领导小组	0
+tui jin ji	推进剂	0
+tui jin ji shu	推进技术	0
+tui jin jia shi	推进驾驶	0
+tui jin li	推进力	0
+tui jin qi	推进器	0
+tui jin shi bu tai	推进式步态	0
+tui jin yao	推进药	0
+tui jin zhan lve	推进战略	0
+tui ke	推客	0
+tui kuan yuan zheng dui	退款远征队	0
+tui la ce lve	推拉策略	0
+tui la men	推拉门	0
+tui la shi lie che	推拉式列车	0
+tui la shi zi qiang hao	推拉式自强号	0
+tui lai	推来	0
+tui li	推理	0
+tui li	推力	0
+tui li da mo xing	推理大模型	0
+tui li de nv wang	推理的女王	0
+tui li dian ying	推理电影	0
+tui li dong hua	推理动画	0
+tui li fan xiang qi	推力反向器	0
+tui li gui ze	推理规则	0
+tui li ji	推理机	0
+tui li man hua	推理漫画	0
+tui li mo xing	推理模型	0
+tui li pian	推理片	0
+tui li shi jie	推理十诫	0
+tui li shi liang	推力矢量	0
+tui li xiang liang	推力向量	0
+tui li xiao shuo	推理小说	0
+tui li xue	推理学	0
+tui li yao zai fang xue hou	推理要在放学后	0
+tui li yao zai wan can hou	推理要在晚餐后	0
+tui li you xi	推理游戏	0
+tui li yu yan mo xing	推理语言模型	0
+tui li za zhi	推理杂志	0
+tui li zhi ban	推理之绊	0
+tui li zhong liang bi	推力重量比	0
+tui li zuo jia	推理作家	0
+tui lian	推链	0
+tui lian	退联	0
+tui liu	推流	0
+tui long	腿龙	0
+tui long ke	腿龙科	0
+tui long shu	腿龙属	0
+tui lun	推论	0
+tui lun fa	推论法	0
+tui lun shi xiao	推论失效	0
+tui lun tong ji	推论统计	0
+tui lun tong ji xue	推论统计学	0
+tui luo	推罗	0
+tui luo zi	推罗紫	0
+tui ma ma chu huo che	推妈妈出火车	0
+tui mao	腿毛	0
+tui mao lai jiang teng	退毛来江藤	0
+tui mao ma xian hao	退毛马先蒿	0
+tui mei zhou	推梅州	0
+tui meng pai	退盟派	0
+tui mi weng	退密翁	0
+tui mi zhai	退密斋	0
+tui mi zhai zhu ren	退密斋主人	0
+tui mie bao	退灭保	0
+tui mo	蜕膜	0
+tui na	推拿	0
+tui nong die shu	颓弄蝶属	0
+tui nu	推奴	0
+tui ou	退欧	0
+tui ou	退耦	0
+tui ou da chen	退欧大臣	0
+tui pai jiu	推牌九	0
+tui pi	蜕皮	0
+tui pi dong wu	蜕皮动物	0
+tui pi ji su	蜕皮激素	0
+tui pi tong	蜕皮酮	0
+tui pu	推普	0
+tui pu ji	推普机	0
+tui pu yun dong	推普运动	0
+tui pu zheng yi	推普争议	0
+tui qian ge	退钱哥	0
+tui qian ji	推钱机	0
+tui qian qiu	推铅球	0
+tui qiao ke neng xing mo xing	推敲可能性模型	0
+tui qu	推区	0
+tui qu	推趣	0
+tui rao mu nuo er	推饶木诺尔	0
+tui re ji	退热剂	0
+tui re jing	退热净	0
+tui re yao	退热药	0
+tui sang	颓丧	0
+tui se de ji yi	退色的记忆	0
+tui se xue hong du juan	退色血红杜鹃	0
+tui se yu luo	退色玉螺	0
+tui sha jie dao	退沙街道	0
+tui shai hong shan cha	褪色红山茶	0
+tui shai niu lian qian	褪色扭连钱	0
+tui shai ying xiang pian zhi	褪色影响偏置	0
+tui shao	退烧	0
+tui shao yao	退烧药	0
+tui sheng an	退省庵	0
+tui shi	推事	0
+tui shi fa ting	推事法庭	0
+tui shi ting	推事庭	0
+tui shi xue zhe	退室学者	0
+tui shou	推手	0
+tui shui	退税	0
+tui si ju shi	退思居士	0
+tui si lao ren	蜕私老人	0
+tui si weng	退思翁	0
+tui si xuan	退思轩	0
+tui si yuan	退思园	0
+tui song	推送	0
+tui song ji shu	推送技术	0
+tui tai	退台	0
+tui te	推特	0
+tui te dang an	推特档案	0
+tui te gong he guo	推特共和国	0
+tui te gong si	推特公司	0
+tui te nan nv	推特男女	0
+tui te re sou	推特热搜	0
+tui te re sou bang	推特热搜榜	0
+tui te wen jian	推特文件	0
+tui te zhong wen quan	推特中文圈	0
+tui tong zi	推筒子	0
+tui tu che	推土车	0
+tui tu ji	推土机	0
+tui tu ji ge ming	推土机革命	0
+tui tu ji ju li	推土机距离	0
+tui tu ji shang de shao nv	推土机上的少女	0
+tui tu ji wei jia gou	推土机微架构	0
+tui tui le	推推乐	0
+tui tuo ze ren	推脱责任	0
+tui wa cun	推瓦村	0
+tui wan shi bian huan qi	推挽式变换器	0
+tui wan shi dian lu	推挽式电路	0
+tui wan shi lie che	推挽式列车	0
+tui wan shu chu	推挽输出	0
+tui wan zhuan huan qi	推挽转换器	0
+tui wei	推诿	0
+tui wei	退位	0
+tui wei che pi	推诿扯皮	0
+tui wei se ze	推诿塞责	0
+tui wei te li fa	退位特例法	0
+tui wei zhao shu	退位诏书	0
+tui wen	推文	0
+tui wu	退伍	0
+tui wu jun ren	退伍军人	0
+tui wu jun ren bing zheng	退伍军人病症	0
+tui wu jun ren jie	退伍军人节	0
+tui wu jun ren shi wu bu	退伍军人事务部	0
+tui wu jun ren zheng	退伍军人症	0
+tui xi cao	退西草	0
+tui xi shu	腿蜥属	0
+tui xi yuan zhan	退溪院站	0
+tui xia long	褪虾笼	0
+tui xian	推弦	0
+tui xian ju shi	退闲居士	0
+tui xian lao ren	退闲老人	0
+tui xiang xiao shuo	推想小说	0
+tui xiang xu gou zuo pin	推想虚构作品	0
+tui xiang zi	推箱子	0
+tui xiao	推销	0
+tui xiao du cai	推销独裁	0
+tui xiao yuan	推销员	0
+tui xiao yuan zhi lian	推销员之恋	0
+tui xiao yuan zhi si	推销员之死	0
+tui xie ze ren	推卸责任	0
+tui xin	退信	0
+tui xin ren de gu shi	推新人的故事	0
+tui xing	退行	0
+tui xing pu tong hua	推行普通话	0
+tui xing su du	退行速度	0
+tui xing xing ji bing	退行性疾病	0
+tui xing xing sheng zhang	退行性生长	0
+tui xing xing yun dong xi tong ji bing	退行性运动系统疾病	0
+tui xing xing zuo pai	退行性左派	0
+tui xiong	推胸	0
+tui xiu	退休	0
+tui xiu	退修	0
+tui xiu bao zhang	退休保障	0
+tui xiu bei hao	退休背号	0
+tui xiu chu xu ji hua	退休储蓄计划	0
+tui xiu di tu	退休地图	0
+tui xiu hao ma	退休号码	0
+tui xiu hui	退修会	0
+tui xiu jin	退休金	0
+tui xiu jin zhi du	退休金制度	0
+tui xiu jun gong jiao ren yuan you hui cun kuan	退休军公教人员优惠存款	0
+tui xiu lao dong zhe jiang zhang	退休劳动者奖章	0
+tui xiu mo ni qi	退休模拟器	0
+tui xiu nv huang	退休女皇	0
+tui xiu sheng huo	退休生活	0
+tui xiu yan liao shang tan an	退休颜料商探案	0
+tui xiu zhi du	退休制度	0
+tui xuan wei yuan hui	推选委员会	0
+tui xue	退学	0
+tui xue cao	退血草	0
+tui ya tui la	推雅推喇	0
+tui yan ju shi	退嵓居士	0
+tui yi	退役	0
+tui yi jun ren	退役军人	0
+tui yi jun ren shi wu bu	退役军人事务部	0
+tui yi tai ping yang ju feng ming cheng	退役太平洋飓风名称	0
+tui yi zai	推移载	0
+tui yi zhi	推移质	0
+tui yong	退佣	0
+tui you	推油	0
+tui you	推邮	0
+tui yu	颓昱	0
+tui yuan ci ke	退园词客	0
+tui zhen	推甄	0
+tui zhong bi	推重比	0
+tui zhou	退舟	0
+tui zhu	推注	0
+tui zi	推子	0
+tui zi	腿子	0
+tui zi huo	腿子活	0

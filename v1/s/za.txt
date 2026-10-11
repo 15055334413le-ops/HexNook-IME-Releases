@@ -1,0 +1,531 @@
+za zhi	杂志	500388
+za zhi she	杂志社	104175
+za le	咋了	94800
+za zhi	杂质	76795
+za jiao	杂交	60060
+za wu	杂物	52850
+za zhi shang	杂志上	51945
+za cao	杂草	48250
+za luan	杂乱	37835
+za fei	杂费	37585
+za sui	杂碎	30171
+za ji	杂技	30100
+za wen	杂文	30050
+za tan	杂谈	29475
+za yin	杂音	23205
+za zai	砸在	22515
+za nian	杂念	18825
+za liang	杂粮	17220
+za huo	杂货	16355
+za luan wu zhang	杂乱无章	16100
+za ban	咋办	15945
+za pai	杂牌	13885
+za se	杂色	13030
+za xiang	杂项	12810
+za huo dian	杂货店	12645
+za zhong	杂种	12030
+za jiao shui dao	杂交水稻	11755
+za wu jian	杂物间	11300
+za qi za ba	杂七杂八	10450
+za ba	咂巴	9999
+za ba za ba	咂巴咂巴	9999
+za ba zhe	咂巴着	9999
+za bu	咋不	9999
+za bu shuo hua	咋不说话	9999
+za cheng	咋成	9999
+za dao	砸到	9999
+za di	咋的	9999
+za er	咂儿	9999
+za hui	咋会	9999
+za jin	咋进	9999
+za kan	咋看	9999
+za la	咋啦	9999
+za lai	咋来	9999
+za lai de	咋来的	9999
+za mao	杂毛	9999
+za qian	砸钱	9999
+za rou	杂糅	9999
+za shi	杂事	9999
+za shu	杂书	9999
+za shuo	咋说	9999
+za zhe	咋着	9999
+za sui	砸碎	9575
+za si	砸死	9460
+za yang	咋样	9065
+za ji tuan	杂技团	8635
+za ji	杂记	8465
+za ju	杂剧	8080
+za zhi fa biao	杂志发表	7980
+za ran	扎染	7745
+za de	咋的	7085
+za xia	砸下	6920
+za shua	杂耍	6845
+za lan	砸烂	6740
+za huo pu	杂货铺	6635
+za dao	匝道	6330
+za ju	杂居	6155
+za zhi guang gao	杂志广告	5915
+za mu	杂木	5805
+za cao cong sheng	杂草丛生	5625
+za chu	咋处	5555
+za xia qu	砸下去	5555
+za zhi feng mian	杂志封面	5495
+za jiao dao	杂交稻	5430
+za zhi bian ji	杂志编辑	5390
+za yi xia	砸一下	5310
+za gong	杂工	5225
+za lei	杂类	5035
+za shang	砸伤	4870
+za huai	砸坏	4850
+za jiao zhong	杂交种	4810
+za hui shi	咋回事	4800
+za hui	杂烩	4760
+za qi	扎起	4605
+za zhi zhu bian	杂志主编	4600
+za yi	杂役	4505
+za dai	咋带	4444
+za gan	咋干	4444
+za qu	砸去	4444
+za chu	砸出	4425
+za wu	杂务	4170
+za hao	扎好	4125
+za bo	杂波	4060
+za jia	咱家	4030
+za jia	杂家	4020
+za kai	砸开	3940
+za ge	咋个	3915
+za bing	杂兵	3467
+za jun	杂菌	3457
+za jin	砸进	3450
+za gan	杂感	3410
+za guo mai tie	砸锅卖铁	3395
+za dian	砸店	3333
+za hai	咋还	3333
+za hai bu	咋还不	3333
+za hai mei	咋还没	3333
+za hai mei you	咋还没有	3333
+za he	咋和	3333
+za jiu	咋就	3333
+za jiu mei	咋就没	3333
+za jiu mei you	咋就没有	3333
+za jiu shi	咋就是	3333
+za mei	咋没	3333
+za na me song	咋那么怂	3333
+za qu	咋去	3333
+za xuan	咋选	3333
+za xuan ze	咋选择	3333
+za yong	咋用	3333
+za zuo	咋做	3333
+za zhi bao dao	杂志报道	3290
+za bo gan rao	杂波干扰	3235
+za po	砸破	3210
+za huan	杂环	2905
+za diao	砸掉	2885
+za shang	咋上	2820
+za zheng	咋整	2795
+za hui	砸毁	2585
+za huo	杂活	2525
+za ji biao yan	杂技表演	2420
+za shi	杂食	2420
+za lu	杂录	2410
+za guo	杂果	2405
+za zhi han liang	杂质含量	2310
+za shi	杂诗	2290
+za pin	杂品	2280
+za dai	咋戴	2222
+za pai jun	杂牌军	2190
+za she	咂舌	2175
+za gang	砸缸	2121
+za zhong you shi	杂种优势	2045
+za zheng	杂症	2025
+za chen	杂陈	2000
+za qu	杂曲	1990
+za zhi ji zhe	杂志记者	1990
+za men	砸门	1950
+za chu	杂处	1940
+za jiao yu mi	杂交玉米	1935
+za le	砸了	1859
+za dai	扎带	1850
+za shi xing	杂食性	1850
+za duo	杂多	1840
+za huo shang	杂货商	1805
+za di	匝地	1785
+za ta	杂沓	1770
+za qi lai	扎起来	1715
+za zui	咂嘴	1635
+za ji yan yuan	杂技演员	1550
+za liang mian	杂粮面	1541
+za che	砸车	1455
+za jiao yu zhong	杂交育种	1425
+za wu xiang	杂物箱	1355
+za guo qu	砸过去	1340
+za zhi dao	咋知道	1325
+za chun you	杂醇油	1245
+za cou	杂凑	1245
+za guo	砸过	1220
+za de	砸的	1180
+za shu	匝数	1180
+za kuan	杂款	1165
+za guo	砸锅	1135
+za guo lai	砸过来	1120
+za dian	咋点	1111
+za pao	咋跑	1111
+za xiang	砸向	1111
+za yu	杂鱼	1111
+za zhong	砸中	1111
+za luan wu xu	杂乱无序	1075
+za zhi jia	杂志架	1060
+za cai	杂菜	1050
+za de	砸得	1050
+za wu dai	杂物袋	1050
+za lao	扎牢	980
+za jiao liu	杂交瘤	965
+za cai	扎彩	960
+za rou	扎肉	950
+za zhe	扎着	948
+za a han jing	杂阿含经	935
+za mo	咂摸	925
+za za zui	咂咂嘴	895
+za huan hua he wu	杂环化合物	835
+za xian	扎线	795
+za gu	杂骨	781
+za shi dong wu	杂食动物	775
+za ji	杂集	770
+za cheng	扎成	742
+za jin	扎紧	739
+za shui	杂税	690
+za mian	杂面	675
+za hua gui dao	杂化轨道	670
+za ban	杂拌	650
+za nong	咋弄	645
+za hang	砸夯	643
+za shi xing dong wu	杂食性动物	633
+za de le	咋的了	625
+za bo li	砸玻璃	610
+za zhi yuan su	杂质元素	570
+za gao	咋搞	565
+za luan bu kan	杂乱不堪	565
+za san fa she	杂散发射	510
+za zhi bao zhi	杂志报纸	500
+za bian zi	扎辫子	495
+za bing	杂病	494
+za yuan	杂院	490
+za san dian liu	杂散电流	470
+za duo xian	杂多县	465
+za xian dai	扎线带	425
+za ban er	杂拌儿	400
+za hua	杂化	368
+za he tao	砸核桃	355
+za pai ji	杂牌机	355
+za tan	咋谈	347
+za gu	杂菇	345
+za zhong gou	杂种狗	345
+za ping	杂评	330
+za bu dao	砸不到	310
+za ji ting	杂技厅	295
+za xie	咋写	250
+za huo er	杂活儿	240
+za pai zi	砸牌子	240
+za pai huo	杂牌货	235
+za ling dai	扎领带	234
+za pi dai	扎皮带	234
+za xing li	扎行李	234
+za shuo	杂说	233
+za le za	扎了扎	231
+za le ge fen sui	砸了个粉碎	230
+za wan	咋玩	225
+za ba ji	扎把机	215
+za ji chang	杂技场	215
+za yi za	扎一扎	212
+za jiao	砸脚	210
+za sui mian	杂碎面	198
+za tang	杂糖	186
+za yue	匝月	185
+za fan wan	砸饭碗	180
+za fei	杂肥	160
+za cao duo	杂草多	155
+za hai you	咋还有	154
+za chai	杂差	150
+za cao zuo	杂操作	146
+za de	杂的	146
+za tian tu	杂填土	145
+za huo tan	杂货摊	143
+za huo shang dian	杂货商店	140
+za le ge xi lan	砸了个稀烂	140
+za chuang hu	砸窗户	137
+za yong	杂用	133
+za ban le	咋办了	130
+za she tou	咂舌头	125
+za gang jin	扎钢筋	123
+za yi za	砸一砸	123
+za yong shui	杂用水	118
+za cheng	砸成	111
+za he	杂合	111
+za he cai	杂合菜	111
+za mai	咋卖	111
+za pao bu	咋跑步	111
+za pao le	咋跑了	111
+za zhi	咋知	111
+za zhuo zi	砸桌子	110
+za zi ji de jiao	砸自己的脚	110
+za ba ji xia	咂巴几下	100
+za ba le ji xia	咂巴了几下	100
+za ba le yi xia	咂巴了一下	100
+za ba yi xia	咂巴一下	100
+za ban ling	杂板令	100
+za ban na	咋办呐	100
+za ban ne	咋办呢	100
+za ban ya	咋办呀	100
+za bu chi fan	咋不吃饭	100
+za bu chu qu	咋不出去	100
+za bu hui jia	咋不回家	100
+za bu hui lai	咋不回来	100
+za bu jie dian hua	咋不接电话	100
+za bu ke neng	咋不可能	100
+za bu li wo le	咋不理我了	100
+za bu shang tian	咋不上天	100
+za bu shui jiao	咋不睡觉	100
+za bu shuo hua a	咋不说话啊	100
+za bu shuo hua la	咋不说话啦	100
+za bu shuo hua le	咋不说话了	100
+za bu shuo hua ne	咋不说话呢	100
+za bu shuo le	咋不说了	100
+za cao sheng zhang	杂草生长	100
+za cheng hao ci	咋成好词	100
+za cheng hao ci le	咋成好词了	100
+za dai zi	扎带子	100
+za dao wo	砸到我	100
+za dao xing shi	匝道行驶	100
+za dao zi ji	砸到自己	100
+za dao zi ji tou shang	砸到自己头上	100
+za de a	咋的啊	100
+za de la	咋的啦	100
+za de lian teng	砸得脸疼	100
+za di a	咋的啊	100
+za di ban	砸地板	100
+za di la	咋的啦	100
+za di za di	咋的咋的	100
+za dou zheng	咋都整	100
+za gan a	咋干啊	100
+za gao ku jiao	扎高裤脚	100
+za ge li	咋隔离	100
+za gen sheng	扎根绳	100
+za gu nao	杂谷脑	100
+za gu nao zhen	杂谷脑镇	100
+za gua	砸挂	100
+za guo bin fen qi le ku	杂果缤纷奇乐酷	100
+za guo de	咋过的	100
+za hai bu shui jiao	咋还不睡觉	100
+za hai bu xing	咋还不行	100
+za hao gen	扎好根	100
+za he mian	杂合面	100
+za he mian er	杂合面儿	100
+za hua sheng shu	杂花生树	100
+za huai le	砸坏了	100
+za hui shi a	咋回事啊	100
+za hui shi er	咋回事儿	100
+za hui zhe yang	咋会这样	100
+za hun zhi	杂婚制	100
+za huo dui	杂货堆	100
+za ji ba ban	咋鸡巴办	100
+za ji ba ban ne	咋鸡巴办呢	100
+za ji jie	杂技界	100
+za ji jie	杂技节	100
+za jia li ya	匝加利亚	100
+za jian er	杂件儿	100
+za jiang mian	杂酱面	100
+za jiao ban	杂交版	100
+za jiao mian	杂交棉	100
+za jiao pai dui	杂交派对	100
+za jiao qin ben	杂交亲本	100
+za jiao shui dao zhi fu	杂交水稻之父	100
+za jiao zhi wu	杂交植物	100
+za jin dai kou	扎紧袋口	100
+za jin li ba	扎紧篱笆	100
+za jin zhi du long zi	扎紧制度笼子	100
+za ju di qu	杂居地区	100
+za ju si da jia	杂剧四大家	100
+za kan bu dao	咋看不到	100
+za kan de	咋看的	100
+za lao bu neng fu de long zi	扎牢不能腐的笼子	100
+za le ba	砸了吧	100
+za le zhao pai	砸了招牌	100
+za le zi ji de jiao	砸了自己的脚	100
+za le zi ji de zhao pai	砸了自己的招牌	100
+za liao jie	咋了解	100
+za liao jie de	咋了解的	100
+za luan wu ci	杂乱无次	100
+za mai de	咋买的	100
+za mei fa xian	咋没发现	100
+za mei gan jue	咋没感觉	100
+za mei yi ge	咋没一个	100
+za mei you	咋没有	100
+za mei you a	咋没有啊	100
+za na me	咋那么	100
+za na me jiang	咋那么犟	100
+za nan gua yue dui	砸南瓜乐队	100
+za pai er	杂牌儿	100
+za po fan wan	砸破饭碗	100
+za qi gao ma wei	扎起高马尾	100
+za qi ma wei	扎起马尾	100
+za qi ma wei bian	扎起马尾辫	100
+za qi shuang ma wei	扎起双马尾	100
+za qi tou fa	扎起头发	100
+za qi wan zi tou	扎起丸子头	100
+za qi xiu zi	扎起袖子	100
+za qian pao hou	砸前刨后	100
+za ran bu	扎染布	100
+za ran gong yi	扎染工艺	100
+za ran yuan su	扎染元素	100
+za se ge	杂色蛤	100
+za shi chan shen	杂事缠身	100
+za shi shou	杂食兽	100
+za shu lin	杂树林	100
+za si le	砸死了	100
+za ta er zhi	杂沓而至	100
+za tou fa	扎头发	100
+za tou fa pi jin	扎头发皮筋	100
+za wen ji	杂文集	100
+za wu du se	杂物堵塞	100
+za xia lai	砸下来	100
+za xia lai le	砸下来了	100
+za xia zhong jin	砸下重金	100
+za xian ji	扎线机	100
+za xiang chu lai	咋想出来	100
+za xiang chu lai de	咋想出来的	100
+za xiang fei yong	杂项费用	100
+za xiang shou ru	杂项收入	100
+za yang ya	咋样呀	100
+za you bu shuo hua le	咋又不说话了	100
+za za di	咋咋的	100
+za zhao pai	砸招牌	100
+za zhe ban wan zi tou	扎着半丸子头	100
+za zhe di ma wei	扎着低马尾	100
+za zhe gao gao de ma wei	扎着高高的马尾	100
+za zhe gao gao de wan zi tou	扎着高高的丸子头	100
+za zhe gao ma wei	扎着高马尾	100
+za zhe liang ge ma hua bian	扎着两个麻花辫	100
+za zhe liang ge ma wei bian	扎着两个马尾辫	100
+za zhe liang ge xiao bian zi	扎着两个小辫子	100
+za zhe ma fan	咋这麻烦	100
+za zhe ma hua bian	扎着麻花辫	100
+za zhe ma wei	扎着马尾	100
+za zhe ma wei bian	扎着马尾辫	100
+za zhe me	咋这么	100
+za zhe me hao ne	咋这么好呢	100
+za zhe me ma fan	咋这么麻烦	100
+za zhe me zhou	咋这么轴	100
+za zhe me zhou ne	咋这么轴呢	100
+za zhe shuang ma wei	扎着双马尾	100
+za zhe tou fa	扎着头发	100
+za zhe wan zi tou	扎着丸子头	100
+za zhe xiao bian	扎着小辫	100
+za zhe xiao bian zi	扎着小辫子	100
+za zhe yang	咋这样	100
+za zhi da mai	杂志大卖	100
+za zhi fa xing	杂志发行	100
+za zhi jiang	杂志奖	100
+za zhi mo te	杂志模特	100
+za zhi she she zhang	杂志社社长	100
+za zhi zhi	杂志纸	100
+za zhong hou dai	杂种后代	100
+za zhong jin	砸重金	100
+za zhong ren	杂种人	100
+za zhong yu yan	杂种语言	100
+za zhu li	咋助力	100
+za zi ji	砸自己	100
+za zi ji de	砸自己的	100
+za zi ji jiao	砸自己脚	100
+za zui nong she	咂嘴弄舌	100
+za zui za she	咂嘴咂舌	100
+za ge shuo	咋个说	76
+za pai dian nao	杂牌电脑	75
+za zhe ne	杂着呢	75
+za cao zuo	咋操作	70
+za shua yan yuan	杂耍演员	70
+za xue pang shou	杂学旁收	70
+za hai you zhe ge	咋还有这个	68
+za bu ji de	咋不记得	65
+za ran xiang xu	杂然相许	65
+za san tie	砸三铁	65
+za wu chan shen	杂务缠身	65
+za huo gui	杂货柜	55
+za dan nv hai	砸蛋女孩	46
+za pan	砸盘	45
+za yuan er	杂院儿	45
+za chun	杂醇	44
+za huan lei nong yao gong ye shui wu ran wu pai fang biao zhun	杂环类农药工业水污染物排放标准	36
+za xiu zi	扎袖子	34
+za fa zi	扎筏子	30
+za shi dian	杂食店	30
+za wen yue kan	杂文月刊	30
+za zhi jia	杂志夹	25
+za gu bao	杂菇煲	24
+za sui tang	杂碎汤	23
+za hui guo zi	杂烩锅子	19
+za le a	咋了啊	15
+za he zi	杂合子	13
+za chuang ge	砸窗哥	12
+za er bu yue	杂而不越	10
+za luan yi tuan	杂乱一团	10
+za zong	砸棕	9
+za huo gong si	杂货公司	6
+za shua ju chang	杂耍剧场	6
+za zhong xing	杂种性	5
+za zui nong chun	咂嘴弄唇	5
+za ban hai shen	杂瓣海参	3
+za zui tian chun	咂嘴舔唇	3
+za bu za	扎不扎	2
+za cang	咋藏	2
+za di ma wei	扎低马尾	2
+za fa zao xing	扎发造型	2
+za fan chai yi	杂泛差役	2
+za gao ma wei	扎高马尾	2
+za ge ma wei	扎个马尾	2
+za ge wan zi tou	扎个丸子头	2
+za huo mai mai	杂货买卖	2
+za jin ku zi	扎进裤子	2
+za kou ji	扎口机	2
+za ku jiao	扎裤脚	2
+za ma hua bian	扎麻花辫	2
+za ma wei	扎马尾	2
+za ma wei bian	扎马尾辫	2
+za na me song	咋那么𪨊	2
+za qian men	砸钱门	2
+za shu wan xiang mi	杂树晚相迷	2
+za shuang ma wei	扎双马尾	2
+za wan zi tou	扎丸子头	2
+za xiao bian	扎小辫	2
+za xiao bian zi	扎小辫子	2
+za yao dai	扎腰带	2
+za zang bian	扎脏辫	2
+za zhi jiang	扎纸匠	2
+za zhi ren	扎纸人	2
+za ban bian wei tun	杂斑扁尾鲀	1
+za ban gou mu yu	杂斑狗母鱼	1
+za ban hua ping feng huang luo	杂斑花瓶凤凰螺	1
+za ban ji hua yi	杂斑棘花鮨	1
+za ban kui yu	杂斑盔鱼	1
+za ban lian hua qing luo	杂斑莲花青螺	1
+za ban ru tu tian zhu diao	杂斑乳突天竺鲷	1
+za ban xia kou nian	杂斑下口鲶	1
+za chuan shu	砸船术	1
+za ci biao jian shui zao	杂刺镖剑水蚤	1
+za de bi	杂得比	1
+za dian di wen yi	杂点低纹鮨	1
+za dian xia kou nian	杂点下口鲶	1
+za hu mang wu zhi jian	杂乎芒芴之间	1
+za jin qiao zhuo	杂进巧拙	1
+za li quan xie	杂粒拳蟹	1
+za mao ni xian nv chong	杂毛拟仙女虫	1
+za pei yi zeng zhi	杂佩以赠之	1
+za qi sui ba	杂七碎八	1
+za rou san ming zhi	杂肉三明治	1
+za se an kang	杂色𩽾𩾌	1
+za shi diao	杂食貂	1
+za shua xi yuan	杂耍戏院	1
+za wen ban zhou chun sha	杂纹半皱唇鲨	1
+za yi	杂忆	1
+za zhong chang mao mao	杂种长毛猫	1
+za zhong xun zhang ju	杂种勋章菊	1
+za zi	杂字	1

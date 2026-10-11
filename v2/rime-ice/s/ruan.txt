@@ -1,0 +1,597 @@
+ruan jian	软件	502289
+ruan jian lei bie	软件类别	500305
+ruan jian da xiao	软件大小	241630
+ruan jian yu yan	软件语言	196980
+ruan jian jian jie	软件简介	192265
+ruan jian xia zai	软件下载	185035
+ruan jian kai fa	软件开发	144840
+ruan jian ming cheng	软件名称	129360
+ruan pan	软盘	90845
+ruan jian jie shao	软件介绍	81530
+ruan ying jian	软硬件	77755
+ruan jian lei xing	软件类型	70310
+ruan ti	软体	66245
+ruan jian chan pin	软件产品	62890
+ruan qu	软驱	54815
+ruan jian gong cheng	软件工程	51985
+ruan jian gong si	软件公司	51555
+ruan jian qi ye	软件企业	51065
+ruan ruo	软弱	50715
+ruan hua	软化	50010
+ruan jian chan ye	软件产业	44760
+ruan jian bao	软件包	43980
+ruan jian xi tong	软件系统	42865
+ruan jian yuan	软件园	42115
+ruan jian xing zhi	软件性质	41805
+ruan jian ji shu	软件技术	39945
+ruan jian gong cheng shi	软件工程师	35925
+ruan jian ce shi	软件测试	35015
+ruan guan	软管	34730
+ruan jian ban ben	软件版本	32145
+ruan huan jing	软环境	31620
+ruan gu	软骨	31450
+ruan jian geng xin	软件更新	29390
+ruan zu zhi	软组织	28715
+ruan jian ye	软件业	25175
+ruan de	软的	25115
+ruan ruan	软软	24910
+ruan ying	软硬	24830
+ruan jian ping jia	软件评价	23490
+ruan jian she ji	软件设计	21910
+ruan jian shi yong	软件使用	21905
+ruan zhuo lu	软着陆	21597
+ruan jiao huan	软交换	20755
+ruan xing	软性	20325
+ruan jian xue yuan	软件学院	19910
+ruan jiao nang	软胶囊	19800
+ruan lei	软肋	19795
+ruan jian an zhuang	软件安装	19230
+ruan gao	软膏	18925
+ruan jian jie mian	软件界面	18705
+ruan wo	软卧	18640
+ruan jian zuo zhe	软件作者	18355
+ruan mu	软木	17015
+ruan jian ying yong	软件应用	15570
+ruan jian hang ye	软件行业	15505
+ruan jian gong neng	软件功能	15330
+ruan le	软了	15225
+ruan ke xue	软科学	14840
+ruan jian ping tai	软件平台	14325
+ruan wen	软文	14180
+ruan jian ren cai	软件人才	13510
+ruan jian xiang mu	软件项目	13485
+ruan jian chang shang	软件厂商	13190
+ruan yin	软银	12660
+ruan mian mian	软绵绵	12360
+ruan bao zhuang	软包装	12030
+ruan jian ping lun	软件评论	11795
+ruan jian zhu zuo quan	软件著作权	11660
+ruan zuo	软座	11330
+ruan jian shi chang	软件市场	10995
+ruan yin liao	软饮料	10975
+ruan bao li	软暴力	9999
+ruan bi	软笔	9999
+ruan bi shu fa	软笔书法	9999
+ruan jiao xie	软脚蟹	9999
+ruan wu qi	软武器	9999
+ruan shi li	软实力	9950
+ruan jian kai fa shang	软件开发商	9685
+ruan jian gong ju	软件工具	9190
+ruan zhi	软质	9040
+ruan jian fu wu	软件服务	8625
+ruan jian zhi liang	软件质量	8355
+ruan jin	软禁	8265
+ruan jian huan jing	软件环境	8120
+ruan bao	软包	7925
+ruan jian ti gong	软件提供	7920
+ruan bu	软布	7775
+ruan ti dong wu	软体动物	7579
+ruan ruo wu li	软弱无力	7570
+ruan jian shuo ming	软件说明	7530
+ruan ying jian shi	软硬兼施	7510
+ruan jian gu zhang	软件故障	7325
+ruan lian jie	软链接	6684
+ruan jian pei zhi	软件配置	6660
+ruan jian zi yuan	软件资源	6430
+ruan jian cheng xu	软件程序	6210
+ruan jian shang	软件商	6045
+ruan dian	软垫	6030
+ruan jian shi xian	软件实现	5555
+ruan jian zhan	软件站	5395
+ruan ruo huan san	软弱涣散	5365
+ruan jian guan li	软件管理	5155
+ruan yin yong	软引用	5065
+ruan yu	软玉	4970
+ruan ling yu	阮玲玉	4895
+ruan shui	软水	4755
+ruan pan qu dong qi	软盘驱动器	4745
+ruan jian jia gou	软件架构	4731
+ruan pian	软片	4725
+ruan tang	软糖	4675
+ruan ji	阮籍	4595
+ruan lian jie	软连接	4485
+ruan jian wen ti	软件问题	4465
+ruan shui ji	软水机	4360
+ruan pan shang	软盘上	4330
+ruan ci	软磁	4320
+ruan tu	软土	4270
+ruan jian pan	软键盘	4208
+ruan jian xu qiu	软件需求	4140
+ruan jian zhu zuo quan ren	软件著作权人	4110
+ruan jian kun bang	软件捆绑	3925
+ruan qi dong	软启动	3840
+ruan jian wei hu	软件维护	3780
+ruan yu	软语	3745
+ruan gao ji	软膏剂	3710
+ruan xia gan	软下疳	3615
+ruan zhong duan	软中断	3583
+ruan ti	软梯	3575
+ruan pi	软皮	3515
+ruan mo	软膜	3510
+ruan tai	软胎	3450
+ruan mo ying pao	软磨硬泡	3445
+ruan gu su	软骨素	3420
+ruan jian mo kuai	软件模块	3360
+ruan jian kai fa guo cheng	软件开发过程	3350
+ruan bing ji ling	软冰激凌	3333
+ruan bing qi lin	软冰淇淋	3333
+ruan jian ban quan	软件版权	3270
+ruan xian	软线	3155
+ruan jian sheng chan	软件生产	3140
+ruan nen	软嫩	3085
+ruan hua	软滑	3055
+ruan jian miao shu	软件描述	3040
+ruan jian zi liao	软件资料	3025
+ruan mu sai	软木塞	2920
+ruan hua shui	软化水	2855
+ruan jian kong zhi	软件控制	2595
+ruan qi dong qi	软启动器	2545
+ruan jian san jie	软坚散结	2495
+ruan jian ju tou	软件巨头	2485
+ruan fu bing	软腐病	2440
+ruan hua dian	软化点	2430
+ruan mao	软毛	2395
+ruan jian jia ge	软件价格	2390
+ruan zhuang	软装	2375
+ruan jian gou	软件狗	2365
+ruan shui qi	软水器	2355
+ruan jian jie gou	软件结构	2315
+ruan chuang	软床	2310
+ruan kao	软考	2222
+ruan jian bu	软件部	2125
+ruan jian jia mi	软件加密	2110
+ruan jian zhu zuo quan deng ji	软件著作权登记	2094
+ruan ruo wu neng	软弱无能	2035
+ruan ying du	软硬度	2030
+ruan jian jie	软件界	2000
+ruan jian zheng ban hua	软件正版化	1995
+ruan ci pan	软磁盘	1985
+ruan jian bao hu	软件保护	1980
+ruan gu bing	软骨病	1975
+ruan jian fen xi	软件分析	1965
+ruan jian ji cheng	软件集成	1945
+ruan jian zhong xin	软件中心	1920
+ruan jian yan fa	软件研发	1878
+ruan hua ji	软化剂	1855
+ruan jian sheng cheng	软件生成	1810
+ruan zu zhi sun shang	软组织损伤	1743
+ruan men lian	软门帘	1700
+ruan jian fa bu	软件发布	1663
+ruan tiao kuan	软条款	1640
+ruan fan	软饭	1620
+ruan guang gao	软广告	1605
+ruan jian xie hui	软件协会	1600
+ruan jian mo ni	软件模拟	1555
+ruan zhi biao	软指标	1555
+ruan jian kuang jia	软件框架	1491
+ruan jian xing neng	软件性能	1465
+ruan huo	软和	1460
+ruan jian bian cheng	软件编程	1451
+ruan jian xiu gai	软件修改	1430
+ruan tan	软瘫	1425
+ruan jian zhong duan	软件中断	1413
+ruan jian ku	软件库	1400
+ruan mian	软绵	1370
+ruan jian tiao shi	软件调试	1350
+ruan jian yan jiu	软件研究	1335
+ruan jian te xing	软件特性	1330
+ruan jian kai fa gong ju	软件开发工具	1322
+ruan xi	软席	1315
+ruan jian jian ce	软件检测	1295
+ruan jian cuo wu	软件错误	1290
+ruan dan	软蛋	1255
+ruan shi zi	软柿子	1235
+ruan ying bu chi	软硬不吃	1195
+ruan ruo xing	软弱性	1160
+ruan huang jin	软黄金	1150
+ruan mo	软磨	1145
+ruan jian mu lu	软件目录	1140
+ruan bo hui	软博会	1125
+ruan chi	软尺	1111
+ruan lan	软烂	1111
+ruan rou	软肉	1111
+ruan yi	软椅	1111
+ruan jian you hua	软件优化	1100
+ruan shi	软食	1080
+ruan jian neng li	软件能力	1075
+ruan gu tou	软骨头	1060
+ruan jian she ji mo shi	软件设计模式	1014
+ruan duan	软缎	995
+ruan guan tou	软罐头	995
+ruan jian zhuan huan	软件转换	980
+ruan jian bian xie	软件编写	975
+ruan jie	软解	973
+ruan lang gui	阮郎归	950
+ruan jian jiao yu	软件教育	940
+ruan zong ze	阮宗泽	928
+ruan ruo ke qi	软弱可欺	925
+ruan jian tou zi	软件投资	920
+ruan ta ta	软塌塌	920
+ruan da cheng	阮大铖	910
+ruan jie ya	软解压	905
+ruan ren wu	软任务	905
+ruan jian guo cheng	软件过程	902
+ruan jian gou jian	软件构建	901
+ruan jian xuan ze	软件选择	885
+ruan di xie	软底鞋	880
+ruan ji shu	软技术	880
+ruan jian fei yong	软件费用	875
+ruan jian fen fa	软件分发	870
+ruan jian jia gou shi	软件架构师	847
+ruan jian cheng ben	软件成本	845
+ruan ci cai liao	软磁材料	820
+ruan ji chu li	软基处理	810
+ruan jian she zhi	软件设置	778
+ruan yu wen xiang	软玉温香	775
+ruan guang	软广	768
+ruan jian she ji shi	软件设计师	755
+ruan jian zong he	软件综合	755
+ruan gong	软工	732
+ruan jian xiang mu guan li	软件项目管理	724
+ruan jian jia gou she ji	软件架构设计	722
+ruan ding zi	软钉子	710
+ruan dao zi	软刀子	705
+ruan jian ti xi jie gou	软件体系结构	677
+ruan hua	软话	670
+ruan jian chao shi	软件超市	660
+ruan jian tao jian	软件套件	660
+ruan de xiang	软得像	640
+ruan jian ceng	软件层	630
+ruan jian zu zhi	软件组织	630
+ruan jian gong chang	软件工厂	620
+ruan jian biao zhun	软件标准	610
+ruan jian cao zuo	软件操作	597
+ruan shi	阮氏	595
+ruan zi yuan	软资源	595
+ruan jian que xian	软件缺陷	591
+ruan jian wen jian	软件文件	590
+ruan jian an quan	软件安全	585
+ruan feng	软风	580
+ruan jian ji	软件集	571
+ruan bing du	朊病毒	570
+ruan jian kai fa fang fa	软件开发方法	568
+ruan zhi suan	软脂酸	565
+ruan jian ke xue	软件科学	560
+ruan jian fu yong	软件复用	539
+ruan mao	软帽	535
+ruan shi wang qiu	软式网球	520
+ruan jian kai fa liu cheng	软件开发流程	486
+ruan jian chong yong	软件重用	465
+ruan qiu	软球	450
+ruan diao	软掉	410
+ruan jian pei zhi guan li	软件配置管理	410
+ruan hu hu	软乎乎	405
+ruan ji neng	软技能	397
+ruan jian ding yi wang luo	软件定义网络	395
+ruan jian kai fa huan jing	软件开发环境	389
+ruan jian dao	软件到	386
+ruan jian ji chu	软件基础	379
+ruan xin chang	软心肠	375
+ruan jian lei	软件类	368
+ruan jian kai fa zhou qi	软件开发周期	367
+ruan jing tian	阮经天	355
+ruan jian suo	软件所	351
+ruan jian yuan	软件源	349
+ruan jian wai bao	软件外包	341
+ruan gu rou liu	软骨肉瘤	340
+ruan jian wu	软件屋	330
+ruan jian wen dang	软件文档	323
+ruan hui che	软回车	310
+ruan zao	软枣	305
+ruan jian po jie	软件破解	302
+ruan jian ding yi	软件定义	300
+ruan yu suan yue shu	软预算约束	292
+ruan jian zhi liang bao zheng	软件质量保证	283
+ruan jian kai fa mo xing	软件开发模型	280
+ruan zhong duan xin hao	软中断信号	280
+ruan chan	软缠	270
+ruan dan bai	朊蛋白	270
+ruan pa pa	软趴趴	246
+ruan pa pa de	软趴趴的	246
+ruan fa	软发	230
+ruan jian sheng cun zhou qi	软件生存周期	226
+ruan jian gou jian	软件构件	225
+ruan jian shi yan	软件实验	225
+ruan ruo zhe	软弱者	225
+ruan er li	软儿梨	220
+ruan jian gou jia	软件构架	219
+ruan zha li ji	软炸里脊	215
+ruan jian ke kao xing	软件可靠性	214
+ruan ruan jian	软软件	211
+ruan kao	软靠	210
+ruan jian tui jian	软件推荐	206
+ruan ci he jin	软磁合金	205
+ruan mu biao	软目标	200
+ruan da shi	阮大师	198
+ruan jian kai fa guan li	软件开发管理	190
+ruan jian pai hang bang	软件排行榜	190
+ruan jian da bao	软件打包	189
+ruan jian huo qu	软件获取	178
+ruan jian dan yuan	软件单元	177
+ruan xi tong	软系统	165
+ruan jian zuo pin	软件作品	155
+ruan e	软腭	151
+ruan jian gong cheng si xiang	软件工程思想	151
+ruan ruan nuo nuo	软软糯糯	135
+ruan gong wen dang	软工文档	132
+ruan jian ce shi gong ju	软件测试工具	130
+ruan zhong duan ji zhi	软中断机制	129
+ruan xing	软星	123
+ruan chun fu	阮春福	122
+ruan jian yan fa guo cheng	软件研发过程	120
+ruan tou ru	软投入	120
+ruan jin qi lai	软禁起来	118
+ruan di	软底	111
+ruan ke	软壳	111
+ruan mei	软妹	111
+ruan meng	软萌	111
+ruan yuan	软院	111
+ruan hua zai pei	软化栽培	110
+ruan kuan	软款	110
+ruan bing gan	软饼干	109
+ruan zha ji	软炸鸡	109
+ruan jian an quan xing	软件安全性	108
+ruan jian dao ban	软件盗版	108
+ruan cheng fa	阮成发	106
+ruan jian yi chang	软件异常	105
+ruan jian jiao cheng	软件教程	104
+ruan jian ping ce	软件评测	102
+ruan bao zhuang hang ye	软包装行业	100
+ruan bu ding dang	软不叮当	100
+ruan chan ying mo	软缠硬磨	100
+ruan chong wu	阮崇武	100
+ruan ci die	软磁碟	100
+ruan dan qiang	软弹枪	100
+ruan dan qing	阮丹青	100
+ruan de chu qi	软得出奇	100
+ruan di ji	软地基	100
+ruan du ti	朊毒体	100
+ruan fa gao	软发膏	100
+ruan gu yu	软骨鱼	100
+ruan gu yu gang	软骨鱼纲	100
+ruan gu yu lei	软骨鱼类	100
+ruan hua wen du	软化温度	100
+ruan hua zheng ce	软化政策	100
+ruan ji chang kuang	阮籍猖狂	100
+ruan jia qiao	阮家桥	100
+ruan jian an zhuang xie zai	软件安装卸载	100
+ruan jian ban ben sheng ji	软件版本升级	100
+ruan jian bei an	软件备案	100
+ruan jian ben di hua	软件本地化	100
+ruan jian bi jiao hao	软件比较好	100
+ruan jian chan ye ji di	软件产业基地	100
+ruan jian gong cheng xi	软件工程系	100
+ruan jian hang ye xie hui	软件行业协会	100
+ruan jian ji huo	软件激活	100
+ruan jian kai fa hang ye	软件开发行业	100
+ruan jian kai fa ren yuan	软件开发人员	100
+ruan jian ma	软件吗	100
+ruan jian pai hang	软件排行	100
+ruan jian sheng tai xi tong	软件生态系统	100
+ruan jian shi shen me	软件是什么	100
+ruan jian ti xi	软件体系	100
+ruan jian tiao zheng	软件调整	100
+ruan jian xi lie	软件系列	100
+ruan jian xi tong kai fa	软件系统开发	100
+ruan jian xie zai	软件卸载	100
+ruan jian xuan xue	软件玄学	100
+ruan jian yun xing	软件运行	100
+ruan jian yun xing huan jing	软件运行环境	100
+ruan jian zhuan ye	软件专业	100
+ruan jian zhuan ye ji shu	软件专业技术	100
+ruan jin yong	阮晋勇	100
+ruan kai du	软开度	100
+ruan kao cheng ji	软考成绩	100
+ruan kou gai	软口盖	100
+ruan le ba	软了吧	100
+ruan le xia lai	软了下来	100
+ruan liu ceng	软流层	100
+ruan liu quan	软流圈	100
+ruan lu you	软路由	100
+ruan mei bi	软妹币	100
+ruan mei zi	软妹子	100
+ruan meng tu	软萌兔	100
+ruan mian jin	软面筋	100
+ruan mian wu li	软绵无力	100
+ruan mo ying chan	软磨硬缠	100
+ruan mu di ban	软木地板	100
+ruan mu shu	软木树	100
+ruan mu zhi	软木质	100
+ruan nang xiu se	阮囊羞涩	100
+ruan pan li	软盘里	100
+ruan pi dong wu	软皮动物	100
+ruan pi xie gen	软皮鞋跟	100
+ruan ruan bing	软软冰	100
+ruan ruan de pa zai	软软地趴在	100
+ruan ruan ruo ruo	软软弱弱	100
+ruan ruan song song	软软松松	100
+ruan ruo di ji	软弱地基	100
+ruan shi ci die	软式磁碟	100
+ruan shi ci die ji	软式磁碟机	100
+ruan shi zhen zhu	阮仕珍珠	100
+ruan ti bu	软体部	100
+ruan ti gai zao	软体改造	100
+ruan ti jie	软体界	100
+ruan ti she ji	软体设计	100
+ruan ti ye	软体业	100
+ruan tu di ji	软土地基	100
+ruan wei jia	软猬甲	100
+ruan wen shao	阮文绍	100
+ruan wen xuan chuan	软文宣传	100
+ruan xiang wen yu	软香温玉	100
+ruan xiao fen	阮筱芬	100
+ruan xiao huan	阮晓寰	100
+ruan yi dian	软一点	100
+ruan yi feng	阮一峰	100
+ruan ying cheng du	软硬程度	100
+ruan ying du shi zhong	软硬度适中	100
+ruan ying jian xi tong	软硬件系统	100
+ruan ying mu	软硬木	100
+ruan ying shi du	软硬适度	100
+ruan ying tian shi	软硬天师	100
+ruan ying tiao jie	软硬调节	100
+ruan yu jiao xiang	软玉娇香	100
+ruan yu wen yan	软语温言	100
+ruan zhao xiang	阮兆祥	100
+ruan zhi xing	软质性	100
+ruan zhong hua	软中华	100
+ruan zhuang hang ye	软装行业	100
+ruan jian ce shi guan li	软件测试管理	99
+ruan zhong duan	软终端	99
+ruan zha xia	软炸虾	93
+ruan gu xi bao	软骨细胞	92
+ruan jian gong ye	软件工业	91
+ruan jian sheng chan lv	软件生产率	90
+ruan jian shi xiao	软件失效	89
+ruan lian jie qian yin	软连接牵引	87
+ruan jian chuang ye	软件创业	84
+ruan ci shan	阮次山	82
+ruan gu fa yu bu quan	软骨发育不全	80
+ruan jian shang	软件上	78
+ruan jian gong cheng xue yuan	软件工程学院	77
+ruan pi xie	软皮鞋	75
+ruan xing	阮姓	75
+ruan jian kai fa ji hua	软件开发计划	74
+ruan jian gong shi	软件公式	70
+ruan jian ke wei hu xing	软件可维护性	64
+ruan dan gao	软蛋糕	63
+ruan tong huo	软通货	60
+ruan jian ni xiang	软件逆向	59
+ruan jian ce shi li lun	软件测试理论	57
+ruan jian ji di	软件基地	55
+ruan jian zong xian	软件总线	55
+ruan jian shu ju ku	软件数据库	51
+ruan jian jie ma qi	软件解码器	50
+ruan jian yan shou	软件验收	50
+ruan jian kai fa lei	软件开发类	49
+ruan jian wai bao xiang mu guan li	软件外包项目管理	48
+ruan jian si xiang	软件思想	47
+ruan jian an zhuang pei zhi	软件安装配置	44
+ruan jian ke yi zhi xing	软件可移植性	42
+ruan er duo	软耳朵	40
+ruan jian fen xiang	软件分享	40
+ruan mian bao	软面包	40
+ruan zu zhi rou liu	软组织肉瘤	40
+ruan gu liu	软骨瘤	37
+ruan gu zhang	软故障	36
+ruan ji suan	软计算	36
+ruan chang geng	阮长耿	33
+ruan jian fang fa xue	软件方法学	32
+ruan jian feng xian	软件风险	32
+ruan jian qu	软件区	32
+ruan pan jing xiang	软盘镜像	28
+ruan jian gong cheng huan jing	软件工程环境	24
+ruan jian kai fa pei xun	软件开发培训	24
+ruan jian shi yong jiao cheng	软件使用教程	22
+ruan gong xue xi	软工学习	21
+ruan jian gong cheng lei	软件工程类	21
+ruan ci pan ji	软磁盘机	20
+ruan jian huan jing pei zhi	软件环境配置	20
+ruan jian zhu ti	软件主体	20
+ruan gu mo	软骨膜	19
+ruan jiao nang ji	软胶囊剂	19
+ruan liu liu	软溜溜	18
+ruan lu	软颅	18
+ruan zha xian bei	软炸鲜贝	17
+ruan jian xian jing	软件陷阱	16
+ruan she bei	软设备	16
+ruan jian shui ping kao shi	软件水平考试	15
+ruan jia	软甲	14
+ruan su su	软酥酥	13
+ruan hong shi zhang	软红十丈	12
+ruan jiao suo	软交所	12
+ruan jian chang shi	软件常识	11
+ruan jian kai fa shou ce	软件开发手册	11
+ruan nao mo	软脑膜	11
+ruan nuo	软糯	11
+ruan jian kai fa ku	软件开发库	10
+ruan jian xun lian ying	软件训练营	10
+ruan pan jing xiang wen jian	软盘镜像文件	10
+ruan she	阮社	10
+ruan gu yu gang quan tou ya gang	软骨鱼纲全头亚纲	9
+ruan jian yuan guang chang	软件园广场	9
+ruan jiao	软脚	9
+ruan lin	阮琳	9
+ruan li qing	软沥青	7
+ruan shao dou fu	软烧豆腐	7
+ruan gu yan	软骨炎	6
+ruan shao mian	软哨面	6
+ruan zhuang	阮庄	6
+ruan jian dian	软件电	5
+ruan ruan hua hua	软软滑滑	5
+ruan cuo	阮厝	4
+ruan hong xiang tu	软红香土	4
+ruan jian guang chang	软件广场	4
+ruan li	朊粒	4
+ruan li bing	朊粒病	4
+ruan li dan bai	朊粒蛋白	4
+ruan bu la da	软不拉耷	3
+ruan fa yu ying fa zhi jian	软法与硬法之间	3
+ruan gu ying lin yu ci ya gang	软骨硬鳞鱼次亚纲	3
+ruan jian chu kou guan li he tong ji ban fa	软件出口管理和统计办法	3
+ruan jian xia ren	软煎虾仁	3
+ruan jian xiang guan fa ming zhuan li bao hu	软件相关发明专利保护	3
+ruan mo ying kang	软磨硬抗	3
+ruan pu	软铺	3
+ruan xian wei liu	软纤维瘤	3
+ruan xing shan	阮性山	3
+ruan xun zhou	软蟳粥	3
+ruan yun sheng	阮云生	3
+ruan chan dao yi chang	软产道异常	2
+ruan jian yuan nan zhan	软件园南站	2
+ruan kui sheng	阮葵生	2
+ruan ni shang de qing xing	软泥上的青荇	2
+ruan xiao xu	阮孝绪	2
+ruan ye	阮晔	2
+ruan yu	阮煜	2
+ruan zha shi ji	软炸石鸡	2
+ruan zha zi ji	软炸子鸡	2
+ruan zhi gao	软脂糕	2
+ruan ban yin hong	软瓣银红	1
+ruan cai	软材	1
+ruan gou	软狗	1
+ruan gu su xing qian	软骨塑型钳	1
+ruan gu ying lin fu lei	软骨硬鳞附类	1
+ruan gu ying lin mu	软骨硬鳞目	1
+ruan gu ying lin xia gang	软骨硬鳞下纲	1
+ruan gu ying lin yu lei	软骨硬磷鱼类	1
+ruan ji ku lu qi	阮籍哭路岐	1
+ruan jian chu man	软坚除满	1
+ruan jian da xia	软煎大虾	1
+ruan jian wang luo an jian dai li yu ping xi	软件网络案件代理与评析	1
+ruan jian yuan dong zhan	软件园东站	1
+ruan jie bao wen tiao xiao feng	软蚧豹纹跳小蜂	1
+ruan jie bian jiao ce geng tiao xiao feng	软蚧扁角侧梗跳小蜂	1
+ruan kong gu fen	软控股份	1
+ruan lin dan ding san se	软鳞单顶三色	1
+ruan lin wu hua shou	软鳞五花兽	1
+ruan mao he jin gui	软毛褐金龟	1
+ruan qiu kuai ma	软裘快马	1
+ruan ta lian gou shuo	软踏帘钩说	1
+ruan tan li yu	软谈丽语	1
+ruan tiao huang	软条黄	1
+ruan tou dao si	软头导丝	1
+ruan xian	阮咸	1
+ruan zha cai hua	软炸菜花	1
+ruan zha sha ding yu	软炸沙丁鱼	1
+ruan zha xia gao	软炸虾糕	1

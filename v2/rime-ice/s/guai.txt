@@ -1,0 +1,314 @@
+guai wu	怪物	230980
+guai yi	怪异	78465
+guai guai	乖乖	74515
+guai shou	怪兽	55565
+guai bu de	怪不得	46910
+guai guai de	怪怪的	32315
+guai qiao	乖巧	31595
+guai zhang	拐杖	28030
+guai shi	怪事	27980
+guai wo	怪我	27735
+guai quan	怪圈	25065
+guai ren	怪人	23705
+guai shi	怪石	22545
+guai guai de	乖乖的	22315
+guai wan	拐弯	20485
+guai guai de	乖乖地	20200
+guai ni	怪你	19405
+guai dian	拐点	17305
+guai mai	拐卖	14600
+guai le	怪了	12975
+guai zui	怪罪	12185
+guai wei	怪味	11900
+guai jiao	拐角	11780
+guai ta	怪他	10950
+guai bo er	拐脖儿	9999
+guai dan bu jing	怪诞不经	9999
+guai diao	怪调	9999
+guai gun er	拐棍儿	9999
+guai sheng guai diao	怪声怪调	9999
+guai wei er	怪味儿	9999
+guai yang er	怪样儿	9999
+guai xian xiang	怪现象	9295
+guai dan	怪诞	9250
+guai guai	怪怪	9165
+guai bing	怪病	9080
+guai jiao chu	拐角处	8540
+guai tai	怪胎	8525
+guai bu	怪不	8005
+guai wan mo jiao	拐弯抹角	7445
+guai pi	怪癖	7420
+guai dao	怪盗	7250
+guai zi ji	怪自己	7060
+guai ta	怪她	6785
+guai xiao	怪笑	6550
+guai wan chu	拐弯处	6050
+guai le	拐了	5745
+guai jin	拐进	5655
+guai hai zi	乖孩子	5525
+guai pian	拐骗	5055
+guai mai fu nv	拐卖妇女	4985
+guai sheng	怪声	4860
+guai shi lin xun	怪石嶙峋	4710
+guai bao bao	乖宝宝	4580
+guai ke	怪客	4530
+guai shei	怪谁	4505
+guai shui	怪谁	4505
+guai nv	乖女	4490
+guai tan	怪谈	4455
+guai zhao	怪招	4265
+guai xian zhuang	怪现状	4115
+guai cai	怪才	4055
+guai guo	拐过	3885
+guai ti	怪题	3490
+guai bao	乖宝	3333
+guai la	怪啦	3333
+guai ya	乖呀	3333
+guai ta men	怪他们	3210
+guai jie	怪杰	3160
+guai zhang	乖张	3115
+guai zou	拐走	3075
+guai gun	拐棍	3020
+guai dao	拐到	2935
+guai li	乖戾	2930
+guai li	乖离	2915
+guai zi	拐子	2740
+guai dao	怪道	2515
+guai li	怪力	2333
+guai she	怪蛇	2265
+guai la	乖啦	2222
+guai xiang	怪想	2055
+guai mai fu nv er tong	拐卖妇女儿童	2041
+guai zai	怪哉	1995
+guai shang	拐上	1910
+guai mu guai yang	怪模怪样	1875
+guai o	乖哦	1855
+guai er zi	乖儿子	1795
+guai dian	乖点	1730
+guai pi	乖僻	1645
+guai hua	怪话	1530
+guai bu guai	怪不怪	1500
+guai ba	怪吧	1485
+guai xiang	怪相	1455
+guai ru	拐入	1430
+guai li guai qi	怪里怪气	1385
+guai zhuang	怪状	1370
+guai jiao	怪叫	1353
+guai ge wan	拐个弯	1350
+guai jiao zhe	怪叫着	1325
+guai qu	拐去	1280
+guai xiang	怪象	1280
+guai mai er tong	拐卖儿童	1245
+guai zhe	拐着	1225
+guai lun	怪论	1195
+guai dao	怪到	1150
+guai dai	拐带	1145
+guai le ge wan	拐了个弯	1115
+guai la	拐啦	1111
+guai lai	拐来	1050
+guai lian	怪脸	1015
+guai ni men	怪你们	1010
+guai yuan	怪怨	999
+guai zao	拐枣	999
+guai nian tou	怪念头	985
+guai guo	怪过	940
+guai pao	拐跑	925
+guai sheng guai qi	怪声怪气	905
+guai hao	怪好	855
+guai yang	怪样	800
+guai bu guai	乖不乖	785
+guai mai ren kou	拐卖人口	785
+guai qi	怪气	770
+guai jue	乖觉	765
+guai de	乖得	720
+guai bu liao	怪不了	710
+guai xiao zhe	怪笑着	685
+guai niao	怪鸟	649
+guai qiang guai diao	怪腔怪调	625
+guai le	乖了	605
+guai er	乖儿	595
+guai ta	怪它	575
+guai wu shi de	怪物似的	535
+guai jiu guai zai	怪就怪在	520
+guai wei	乖违	495
+guai mu yang	怪模样	490
+guai mai ying er	拐卖婴儿	473
+guai yang zi	怪样子	470
+guai miu	乖谬	465
+guai wei ji	怪味鸡	391
+guai wei dou	怪味豆	370
+guai xiao sheng	怪笑声	370
+guai chong	怪虫	367
+guai chuan	乖舛	365
+guai de hen	怪得很	330
+guai wen	怪闻	310
+guai yi	乖异	235
+guai wei hu dou	怪味胡豆	223
+guai da	掴打	210
+guai shi ling	怪石岭	188
+guai qiao dong shi	乖巧懂事	179
+guai li luan shen	怪力乱神	171
+guai guai lei	乖乖嘞	168
+guai mai zhe	拐卖者	157
+guai shi tan	怪石滩	127
+guai yu	怪鱼	124
+guai yi ba zhang	掴一巴掌	123
+guai guai jiu fan	乖乖就范	117
+guai shou ji hua	怪兽计划	112
+guai huo	怪火	111
+guai huo de	怪火的	111
+guai ya	怪讶	111
+guai wu shi lai ke	怪物史莱克	104
+guai zhang tang	拐杖糖	101
+guai bao bei er	乖宝贝儿	100
+guai bu de bie ren	怪不得别人	100
+guai bu de ni	怪不得你	100
+guai bu de wo	怪不得我	100
+guai bu hao yi si	怪不好意思	100
+guai bu hao yi si de	怪不好意思的	100
+guai chu lai	拐出来	100
+guai chu qu	拐出去	100
+guai dan chong	怪诞虫	100
+guai dan xing wei xue	怪诞行为学	100
+guai dao ji de	怪盗基德	100
+guai de hen	乖得很	100
+guai e long	怪颚龙	100
+guai guai chu lai	乖乖出来	100
+guai guai de chu lai	乖乖地出来	100
+guai guai de fang ren	乖乖地放人	100
+guai guai de gan jue	怪怪的感觉	100
+guai guai de ting hua	乖乖地听话	100
+guai guai fang ren	乖乖放人	100
+guai guai hu	乖乖虎	100
+guai guai jiu fan ba	乖乖就范吧	100
+guai guai nv	乖乖女	100
+guai guai pai	乖乖牌	100
+guai guai qi qi	怪怪奇奇	100
+guai guai shui jiao	乖乖睡觉	100
+guai guai tou xiang	乖乖投降	100
+guai guai zai	乖乖仔	100
+guai guai zhao le	乖乖招了	100
+guai guo lai	拐过来	100
+guai guo qu	拐过去	100
+guai hai zi	拐孩子	100
+guai hao de lei	怪好的嘞	100
+guai hao de lie	怪好的咧	100
+guai hui lai	拐回来	100
+guai hui qu	拐回去	100
+guai jiao er	拐角儿	100
+guai jin lai	拐进来	100
+guai jin qu	拐进去	100
+guai jin zhang	怪紧张	100
+guai jiu guai tian qi	怪就怪天气	100
+guai lai guai qu	怪来怪去	100
+guai lai guai qu	拐来拐去	100
+guai le	掴了	100
+guai le wan	拐了弯	100
+guai li guai qi de	怪里怪气的	100
+guai li jian	乖离剑	100
+guai li lv	乖离率	100
+guai mei jin	怪没劲	100
+guai mei jin de	怪没劲的	100
+guai mei jin er	怪没劲儿	100
+guai mei jin er de	怪没劲儿的	100
+guai ni duo zui	怪你多嘴	100
+guai nv er	乖女儿	100
+guai pi xie miu	乖僻邪谬	100
+guai qi lai	拐起来	100
+guai qi wu yu	怪奇物语	100
+guai qiao de	乖巧地	100
+guai qiao de	乖巧的	100
+guai qiao you li	乖巧有礼	100
+guai qiao zuo	乖巧坐	100
+guai re nao	怪热闹	100
+guai shang lai	拐上来	100
+guai shang qu	拐上去	100
+guai shi lian pian	怪事连篇	100
+guai shou ka che	怪兽卡车	100
+guai shou yu deng bu li duo de mi mi	怪兽与邓布利多的秘密	100
+guai shu shu	怪叔叔	100
+guai shu shu	怪蜀黍	100
+guai ta duo zui	怪他多嘴	100
+guai tan zhi jia	怪谈之家	100
+guai tu di	乖徒弟	100
+guai wan er	拐弯儿	100
+guai wan le	拐弯了	100
+guai wei can dou	怪味蚕豆	100
+guai wei hua sheng	怪味花生	100
+guai wen lu	怪闻录	100
+guai wo duo zui	怪我多嘴	100
+guai wo guai wo	怪我怪我	100
+guai wo lo	怪我咯	100
+guai wu bao lv	怪物爆率	100
+guai wu dan zhu	怪物弹珠	100
+guai wu diao luo	怪物掉落	100
+guai wu le yuan	怪物乐园	100
+guai wu lie ren xi lie	怪物猎人系列	100
+guai wu mi an	怪屋谜案	100
+guai wu shao nv	怪物少女	100
+guai wu shi rui ke	怪物史瑞克	100
+guai wu xi cheng	怪物袭城	100
+guai xia lai	拐下来	100
+guai xia qu	拐下去	100
+guai xiang ni de	怪想你的	100
+guai xing qian zhuan	怪形前传	100
+guai yan zhong	怪严重	100
+guai yi de	怪异的	100
+guai yi gan	怪异感	100
+guai yi xing	怪异性	100
+guai you kuang peng	怪友狂朋	100
+guai yu mang feng	怪雨盲风	100
+guai zhang bao li	乖张暴戾	100
+guai zhe wan	拐着弯	100
+guai zhe wan er	拐着弯儿	100
+guai zhuang qi xing	怪状奇形	100
+guai zou le	拐走了	100
+guai jue	怪谲	99
+guai bu de jiao	怪不得叫	89
+guai tou guai nao	怪头怪脑	85
+guai wei ji kuai	怪味鸡块	83
+guai le ge wan er	拐了个弯儿	80
+guai jian	乖蹇	75
+guai qi lai	怪起来	70
+guai de xiang	乖得像	65
+guai wei tu tou	怪味兔头	55
+guai wu	乖误	55
+guai dan xiao shuo	怪诞小说	50
+guai qi	怪棋	50
+guai zhe ne	乖着呢	50
+guai ge wan er	拐个弯儿	45
+guai cun	怪村	20
+guai cun zhong xin cun	怪村中心村	15
+guai wei mian	怪味面	13
+guai bang	拐棒	11
+guai zao shu jie	拐枣树街	10
+guai wei ji tiao	怪味鸡条	9
+guai wei yao guo	怪味腰果	8
+guai wei he tao	怪味核桃	6
+guai jiao ma	拐角马	5
+guai wei da bian	怪味大扁	5
+guai xing guai zhuang	怪形怪状	5
+guai zhe ne	怪着呢	5
+guai cun huan dao	怪村环岛	4
+guai fang ke	怪房客	4
+guai shou jia zhang	怪兽家长	4
+guai bang hu tong	拐棒胡同	3
+guai gua	夬卦	3
+guai zai	乖仔	3
+guai la	乖剌	2
+guai pi	怪僻	2
+guai chang shi jian feng	怪常室茧蜂	1
+guai chun mi she	乖唇蜜舌	1
+guai dan gui qi	怪诞诡奇	1
+guai dao nong lai ping diao ri	怪道侬来凭吊日	1
+guai di yan hua xuan liang mu	怪底眼花悬两目	1
+guai fei fu zhu	怪肥腹蛛	1
+guai kou mian ya guai kou mian ya	怪扣绵蚜怪扣绵蚜	1
+guai shi duo duo	怪事咄咄	1
+guai shou zhi li	怪兽之力	1
+guai wei guo ren	怪味果仁	1
+guai wei hua ren	怪味花仁	1
+guai yi de xiang wei	怪异的香味	1
+guai ying bo wen e	怪影波纹蛾	1
+guai yu qing	乖于情	1
+guai zui mi she	乖嘴蜜舌	1

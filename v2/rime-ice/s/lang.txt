@@ -1,0 +1,572 @@
+lang man	浪漫	454475
+lang fei	浪费	336270
+lang du	朗读	97610
+lang chao	浪潮	95720
+lang zi	浪子	71535
+lang fang	廊坊	56715
+lang fei le	浪费了	50375
+lang fei shi jian	浪费时间	45220
+lang song	朗诵	44915
+lang bei	狼狈	42075
+lang hua	浪花	41155
+lang gou	狼狗	40979
+lang lang	朗朗	33245
+lang de	浪的	29355
+lang man zhu yi	浪漫主义	24750
+lang zhong	郎中	24660
+lang fang shi	廊坊市	23385
+lang qun	狼群	22975
+lang ren	狼人	17855
+lang qiao	廊桥	16205
+lang xun	朗讯	15450
+lang xian ping	郎咸平	13770
+lang du ke wen	朗读课文	13205
+lang zu	狼族	12880
+lang tun hu yan	狼吞虎咽	12180
+lang ji tian ya	浪迹天涯	11900
+lang jun	郎君	11815
+lang quan	狼犬	11704
+lang ya	狼牙	11075
+lang sheng	朗声	10870
+lang yong	浪涌	10680
+lang chao zhong	浪潮中	10625
+lang zhong	阆中	10375
+lang fei zi yuan	浪费资源	10220
+lang wang	狼王	9999
+lang wei cao	狼尾草	9999
+lang wo	狼窝	9999
+lang wo er	狼窝儿	9999
+lang ya bang	琅琊榜	9999
+lang ya shan	琅琊山	9999
+lang zhu	狼蛛	9909
+lang dang	浪荡	8400
+lang lai le	狼来了	8400
+lang bei bu kan	狼狈不堪	8155
+lang man man wu	浪漫满屋	7860
+lang jian	浪尖	7655
+lang ya	琅琊	7605
+lang xing	狼性	7590
+lang man qing huai	浪漫情怀	7175
+lang dao	廊道	7165
+lang tu teng	狼图腾	7140
+lang tao sha	浪淘沙	6985
+lang tao	浪涛	6885
+lang tou	榔头	6680
+lang pi	狼皮	5860
+lang hao	狼嚎	5720
+lang mu jiu	朗姆酒	5651
+lang lian	狼脸	5555
+lang man qi xi	浪漫气息	5505
+lang ji	狼藉	5420
+lang fei xian xiang	浪费现象	5400
+lang yan	狼烟	5320
+lang ji	浪迹	5285
+lang fei diao	浪费掉	5140
+lang ya bang	狼牙棒	5035
+lang xia	廊下	5005
+lang man ying hua	浪漫樱花	4830
+lang zai	狼崽	4735
+lang tou	浪头	4675
+lang man qing diao	浪漫情调	4655
+lang sha	浪莎	4585
+lang man se cai	浪漫色彩	4580
+lang si	浪死	4444
+lang mu si	郎木寺	4315
+lang shan	狼山	3965
+lang de xu ming	浪得虚名	3935
+lang jiu	郎酒	3890
+lang fei qian	浪费钱	3840
+lang chuang	狼疮	3830
+lang man yan qing	浪漫言情	3685
+lang cai nv mao	郎才女貌	3600
+lang chao ji tuan	浪潮集团	3570
+lang song hui	朗诵会	3520
+lang bei wei jian	狼狈为奸	3350
+lang de	浪得	3333
+lang ge	啷个	3333
+lang sheng shuo dao	朗声说道	3310
+lang tou	狼头	3300
+lang dui	狼队	3195
+lang zhu	廊柱	3190
+lang man de shi	浪漫的事	3035
+lang man de ren	浪漫的人	2965
+lang de you huo	郎的诱惑	2960
+lang de	狼的	2935
+lang dang ru yu	锒铛入狱	2920
+lang qin	浪琴	2880
+lang xun ke ji	朗讯科技	2810
+lang zi hui tou	浪子回头	2770
+lang xin	狼心	2730
+lang fei jin qian	浪费金钱	2670
+lang xin gou fei	狼心狗肺	2525
+lang man qi fen	浪漫气氛	2500
+lang yuan	阆苑	2405
+lang lang	琅琅	2385
+lang lang shang kou	朗朗上口	2373
+lang fei jing li	浪费精力	2350
+lang zi ye xin	狼子野心	2325
+lang xi	郎溪	2315
+lang sheng	浪声	2295
+lang man feng qing	浪漫风情	2265
+lang ya shan	狼牙山	2215
+lang zhong shi	阆中市	2185
+lang guan	郎官	2140
+lang ya shan wu zhuang shi	狼牙山五壮士	2125
+lang man pai	浪漫派	2110
+lang tao jin	浪淘尽	2015
+lang qiao yi meng	廊桥遗梦	1995
+lang hao	狼毫	1955
+lang nv	浪女	1950
+lang yan si qi	狼烟四起	1880
+lang xiang	朗乡	1845
+lang de you huo	狼的诱惑	1820
+lang ren	浪人	1801
+lang run	朗润	1755
+lang lang qian kun	朗朗乾坤	1660
+lang bei xiang	狼狈相	1575
+lang chuang xing shen yan	狼疮性肾炎	1555
+lang ji jiang hu	浪迹江湖	1520
+lang yan	廊檐	1495
+lang man qi zhi	浪漫气质	1485
+lang ma	朗玛	1375
+lang you	浪游	1370
+lang dang	郎当	1365
+lang xian	朗县	1365
+lang yong bao hu qi	浪涌保护器	1290
+lang man qu	浪漫曲	1265
+lang gu	浪谷	1245
+lang ji feng gao	浪急风高	1180
+lang tao feng bo zi tian ya	浪淘风簸自天涯	1180
+lang xi xian	郎溪县	1150
+lang bao	狼堡	1111
+lang bu	浪不	1111
+lang ge	浪个	1111
+lang huo	浪货	1111
+lang man qi xi	浪漫七夕	1111
+lang bei tao cuan	狼狈逃窜	1100
+lang gan	琅玕	1060
+lang man qing ren	浪漫情人	1060
+lang dang zi	浪荡子	1050
+lang hai	狼孩	1045
+lang man xi ju	浪漫喜剧	1035
+lang man qing yuan	浪漫情缘	1010
+lang chang	狼厂	999
+lang dang sui	郎当岁	999
+lang le	浪了	999
+lang zi	廊子	999
+lang jiao	浪叫	990
+lang zi hui tou jin bu huan	浪子回头金不换	965
+lang qing qie yi	郎情妾意	960
+lang nv	狼女	940
+lang ka zi	浪卡子	915
+lang qin biao	浪琴表	905
+lang ya tai	琅琊台	885
+lang man sheng huo	浪漫生活	855
+lang shi yuan	郎士元	855
+lang li bai tiao	浪里白条	805
+lang mei	浪妹	805
+lang dang gong zi	浪荡公子	795
+lang yong dian ya	浪涌电压	795
+lang mu	朗姆	785
+lang ka zi xian	浪卡子县	775
+lang man shi	浪漫史	775
+lang jie	朗洁	770
+lang de e	朗德鹅	761
+lang zi xin sheng	浪子心声	755
+lang ya qu	琅琊区	730
+lang feng	浪峰	725
+lang song zhe	朗诵者	715
+lang du zhe	朗读者	665
+lang du bi sai	朗读比赛	660
+lang man hua	浪漫化	610
+lang song shi	朗诵诗	555
+lang duo rou shao	狼多肉少	525
+lang yu	榔榆	500
+lang huan	狼獾	480
+lang song zhe	朗诵着	475
+lang yuan xian pa	阆苑仙葩	475
+lang xiang	郎乡	410
+lang qin yuan	朗琴园	390
+lang ben shi tu	狼奔豕突	360
+lang jiu	郎舅	360
+lang ya lu xiao xue	琅琊路小学	318
+lang man de ni	浪漫的你	315
+lang qin wan	浪琴湾	310
+lang fei xing	浪费性	305
+lang fei bi mo	浪费笔墨	275
+lang zhong xian	阆中县	275
+lang yi ban de	狼一般的	255
+lang chong hu bao	狼虫虎豹	250
+lang fei zhe	浪费者	245
+lang shuang	朗爽	240
+lang man shui qun	浪漫睡裙	235
+lang xi lu	郎溪路	217
+lang la shan qing	浪拉山情	197
+lang fei ke chi	浪费可耻	190
+lang liu lian	浪流连	190
+lang bu ding	狼布丁	187
+lang tou zhen	浪头镇	180
+lang ni ke	朗尼克	175
+lang ge lai	朗格莱	170
+lang de mo lu	狼的末路	166
+lang zhuang cun	郎庄村	164
+lang man bo bi	浪漫波比	159
+lang he yan	郎鹤焱	152
+lang ya guan	狼牙关	152
+lang dong ke yun zhan	琅东客运站	151
+lang ni wo ke	朗尼沃克	149
+lang xing zhe	狼行者	142
+lang de e	郎德鹅	139
+lang man xi bao	浪漫细胞	138
+lang gu zhi xiang	狼顾之相	136
+lang yi	朗逸	135
+lang ren you xi	狼人游戏	130
+lang xian ping shuo	郎咸平说	130
+lang xin ke ji	朗新科技	127
+lang fei liu liang	浪费流量	125
+lang man chuan shuo	浪漫传说	124
+lang man dian	浪漫点	118
+lang qiao si ji	廊桥四季	115
+lang yao man hui	廊腰缦回	115
+lang zi gu fen	朗姿股份	115
+lang fei shi wu	浪费食物	113
+lang bi	浪逼	111
+lang ge	朗格	111
+lang ke	浪客	111
+lang ni	朗尼	111
+lang nuo	朗诺	111
+lang ran	朗然	111
+lang shu	狼叔	111
+lang si	朗斯	111
+lang man lv xing	浪漫旅行	110
+lang man wen xue	浪漫文学	110
+lang dai zhen	郎岱镇	108
+lang song ji qiao	朗诵技巧	105
+lang ai shang yang	狼爱上羊	100
+lang ban gui tu	狼伴归途	100
+lang bei de	狼狈的	100
+lang bei de duo kai	狼狈地躲开	100
+lang bei wan zhuang	狼狈万状	100
+lang bei zhi qi	狼狈之气	100
+lang ben shu cuan	狼奔鼠窜	100
+lang bo la bang sheng	琅勃拉邦省	100
+lang bu shi	狼卜食	100
+lang cai nv zi	郎才女姿	100
+lang can hu shi	狼餐虎噬	100
+lang chao xiong yong	浪潮汹涌	100
+lang dang deng	浪荡灯	100
+lang dang liu bian shi	啷当六便士	100
+lang dang liu bian shi he chang tuan	啷当六便士合唱团	100
+lang dang qian kun	浪荡乾坤	100
+lang de guo huo	浪得过火	100
+lang de hai zi	狼的孩子	100
+lang de hai zi yu he xue	狼的孩子雨和雪	100
+lang die kuang feng	浪蝶狂蜂	100
+lang die you feng	浪蝶游蜂	100
+lang du gong neng	朗读功能	100
+lang du hua	狼毒花	100
+lang e fei zhou	浪遏飞舟	100
+lang fan tan	浪反弹	100
+lang fang di qu	廊坊地区	100
+lang fang fen hang	廊坊分行	100
+lang fang jia you	廊坊加油	100
+lang fang yi zhong	廊坊一中	100
+lang fang yin hang	廊坊银行	100
+lang fei cheng xing	浪费成性	100
+lang fei gong fu	浪费工夫	100
+lang fei le hen duo shi jian	浪费了很多时间	100
+lang fei le qing chun	浪费了青春	100
+lang fei le shi jian	浪费了时间	100
+lang fei le tai duo shi jian	浪费了太多时间	100
+lang fei luo	郎费罗	100
+lang fei lv	浪费率	100
+lang fei sheng ming	浪费生命	100
+lang fei tu di	浪费土地	100
+lang fei yan zhong	浪费严重	100
+lang fei zai le	浪费在了	100
+lang fei zai le yi ge	浪费在了一个	100
+lang fei zi dan	浪费子弹	100
+lang feng dian	阆风巅	100
+lang feng shan	阆凤山	100
+lang ge han shi dao	郎格罕氏岛	100
+lang ge li ge lang	啷个哩个啷	100
+lang gou le	浪够了	100
+lang gou xiao ba	狼狗校霸	100
+lang guan xiang	郎官巷	100
+lang hao bi	狼毫笔	100
+lang hao chen	郎昊辰	100
+lang hao gui jiao	狼嚎鬼叫	100
+lang hao gui ku	狼号鬼哭	100
+lang he yan	郎鹤炎	100
+lang hu yao	狼虎药	100
+lang hu zhi wei	狼虎之威	100
+lang hua si jian	浪花四溅	100
+lang hua tao jin ying xiong	浪花淘尽英雄	100
+lang huan fu di	琅嬛福地	100
+lang ji fu zong	浪迹浮踪	100
+lang ji ping zong	浪迹萍踪	100
+lang ji tian xia	浪迹天下	100
+lang ji tian ya de you zi	浪迹天涯的游子	100
+lang ji yi pian	狼藉一片	100
+lang jiao zhe	浪叫着	100
+lang jing feng tian	浪静风恬	100
+lang jiu xian cha	浪酒闲茶	100
+lang kao bian	浪靠边	100
+lang ke jian xin	浪客剑心	100
+lang ken xun huan	郎肯循环	100
+lang lai la	狼来啦	100
+lang lai le de gu shi	狼来了的故事	100
+lang lan zhuang kuo	浪澜壮阔	100
+lang lan zi	朗兰兹	100
+lang lang de gang qin	朗朗的钢琴	100
+lang lang man man	浪浪漫漫	100
+lang lang shu sheng	琅琅书声	100
+lang lang yun tian	朗朗云天	100
+lang li bai tiao	浪里白跳	100
+lang li ge lang	啷哩个啷	100
+lang man ai qing	浪漫爱情	100
+lang man chuan qi	浪漫传奇	100
+lang man de	浪漫的	100
+lang man de di pan	浪漫的地盘	100
+lang man de gan jue	浪漫的感觉	100
+lang man de guo du	浪漫的国度	100
+lang man de lv xing	浪漫的旅行	100
+lang man de qing diao	浪漫的情调	100
+lang man de yi tian	浪漫的一天	100
+lang man de yin yue	浪漫的音乐	100
+lang man du shi	浪漫都市	100
+lang man guan xi	浪漫关系	100
+lang man guo du	浪漫国度	100
+lang man jing ji	浪漫经济	100
+lang man tian jiang	浪漫天降	100
+lang man yan hua	浪漫烟花	100
+lang man yin yue	浪漫音乐	100
+lang man zhi di	浪漫之地	100
+lang man zhi du	浪漫之都	100
+lang man zhi si bu yu	浪漫至死不渝	100
+lang man zhu yi zhe	浪漫主义者	100
+lang mu shu mei	朗目疏眉	100
+lang na du	朗拿度	100
+lang ni ke	朗尼科	100
+lang ni ma	浪你妈	100
+lang ni ma lang	浪你妈浪	100
+lang ni ma shen me	浪你妈什么	100
+lang ni ma shen me lang	浪你妈什么浪	100
+lang qian bai fa	郎潜白发	100
+lang ren nei hong	狼人内讧	100
+lang ren sha	狼人杀	100
+lang ren shi shei	狼人是谁	100
+lang ren shi shui	狼人是谁	100
+lang rui xian hua	浪蕊闲花	100
+lang ruo lie mei	朗若列眉	100
+lang shan ji	狼山鸡	100
+lang sheng ya ji	琅声雅集	100
+lang shi di chan	朗诗地产	100
+lang shi ning	郎世宁	100
+lang si da jiao tang	朗斯大教堂	100
+lang si xu sheng	浪死虚生	100
+lang tai lang	狼太郎	100
+lang tao hua	浪涛花	100
+lang ti zi	浪蹄子	100
+lang tun hu shi	狼吞虎噬	100
+lang tun hu yan de chi	狼吞虎咽地吃	100
+lang wai po	狼外婆	100
+lang wei li	琅威理	100
+lang wei xian	浪味仙	100
+lang xiang jie	朗香街	100
+lang xin gou fei zhi bei	狼心狗肺之辈	100
+lang xin gou fei zhi bei xiong xiong dang chao	狼心狗肺之辈汹汹当朝	100
+lang xin gou xing	狼心狗幸	100
+lang xin gou xing	狼心狗行	100
+lang xing qian li chi rou	狼行千里吃肉	100
+lang xing san guo	狼行三国	100
+lang xing tian xia	狼行天下	100
+lang xue pai	狼学派	100
+lang ya bang pai bang	琅琊帮派榜	100
+lang ya bang shang	琅琊榜上	100
+lang ya bang shou	琅琊榜首	100
+lang ya bang zhi feng qi chang lin	琅琊榜之风起长林	100
+lang ya cai zi	琅琊才子	100
+lang ya cai zi bang	琅琊才子榜	100
+lang ya feng feng quan	狼牙风风拳	100
+lang ya fu hao bang	琅琊富豪榜	100
+lang ya gao shou bang	琅琊高手榜	100
+lang ya ge	琅琊阁	100
+lang ya ge lao ge zhu	琅琊阁老阁主	100
+lang ya gong zi bang	琅琊公子榜	100
+lang ya mei nv bang	琅琊美女榜	100
+lang ya mei ren bang	琅琊美人榜	100
+lang ya qu	琅玡区	100
+lang ya tai ke shi	琅琊台刻石	100
+lang ya wang	琅邪王	100
+lang ya xue beng shu	狼牙雪崩术	100
+lang yan bian di	狼烟遍地	100
+lang yan fen zheng	狼烟纷争	100
+lang yan feng huo	狼烟烽火	100
+lang yan feng huo he shi xiu	狼烟烽火何时休	100
+lang yan hu tun	狼咽虎吞	100
+lang yao hong	郎窑红	100
+lang yi dao	廊一刀	100
+lang yi xia	浪一下	100
+lang zhen de lai le	狼真的来了	100
+lang zhi dao	郎指导	100
+lang zhi e meng	狼之噩梦	100
+lang zhi ge	狼之歌	100
+lang zhi wan	郎之万	100
+lang zi hui tou le	浪子回头了	100
+lang chuan	浪船	99
+lang pai	狼派	99
+lang wang zi	狼王子	91
+lang chuang kang ning wu	狼疮抗凝物	85
+lang jia yuan	郎家园	73
+lang fei zai	浪费在	68
+lang li ge lang	浪里个浪	68
+lang you	稂莠	65
+lang fa	狼垡	59
+lang ji nu si	朗吉努斯	45
+lang fei luo	朗费罗	36
+lang zhao	狼爪	36
+lang zhua	狼爪	36
+lang fu	浪妇	35
+lang qin guo ji	朗琴国际	35
+lang qi zhu ma lai	郎骑竹马来	31
+lang shi guo ji jie qu	朗诗国际街区	31
+lang ya mi	狼牙蜜	29
+lang miu er	朗缪尔	27
+lang qiao shui an	廊桥水岸	27
+lang gao	狼羔	25
+lang man zhu yi hua pai	浪漫主义画派	25
+lang fang er tiao	廊房二条	23
+lang hua tian xiang yu	浪花天香鱼	23
+lang duo	浪多	22
+lang xiong	浪兄	20
+lang xin zhuang	郎辛庄	19
+lang bo mo xing	朗伯模型	17
+lang shan	琅山	17
+lang xi	朗溪	17
+lang ge han si xi bao	朗格汉斯细胞	16
+lang yue qing feng	朗月清风	16
+lang man cha qu	浪漫插曲	15
+lang zhao	朗照	15
+lang chuang shen yan	狼疮肾炎	14
+lang hua you yi qian chong xue	浪花有意千重雪	12
+lang ya	琅邪	12
+lang fa er cun	狼垡二村	10
+lang fa dong qiao	狼垡东桥	9
+lang fa xi qiao	狼垡西桥	9
+lang bo de jie	朗伯德街	8
+lang fen	狼粪	7
+lang qie wan	浪茄湾	7
+lang ge zhuang xi	郎各庄西	6
+lang jia hu tong	郎家胡同	6
+lang man he shan	浪漫和山	6
+lang nan	朗南	6
+lang shan jie dao	狼山街道	6
+lang shao an	郎绍安	6
+lang wei	狼尾	6
+lang wei ba	狼尾巴	6
+lang ya su tang	琅琊酥糖	6
+lang ba cao	狼把草	5
+lang wo hu xue	狼窝虎穴	5
+lang xing	郎姓	5
+lang fang shi zhong yi yuan	廊坊市中医院	4
+lang jia qiao	郎家桥	4
+lang jing feng ping	浪静风平	4
+lang nan zhen	埌南镇	4
+lang shan cun	琅山村	4
+lang shi xi yuan	朗诗熙园	4
+lang ya shan zhen	狼牙山镇	4
+lang ge zhuang	郎各庄	3
+lang hao gou jiao	狼嚎狗叫	3
+lang hu shao cun	狼虎哨村	3
+lang jin yu du yuan he shi	郎今欲渡缘何事	3
+lang qin cui yuan	浪琴翠园	3
+lang shan lu	郎山路	3
+lang ting ji	郎廷极	3
+lang tou guai	狼头怪	3
+lang zhong bai tang zheng mo	阆中白糖蒸馍	3
+lang bao chen	郎葆辰	2
+lang chuan da fu	浪川大辅	2
+lang da tian men shi bi kai	浪打天门石壁开	2
+lang du	狼毒	2
+lang duo xiang	浪多乡	2
+lang jia yuan	朗家园	2
+lang ping xiang	浪坪乡	2
+lang qing ming ju	朗晴名居	2
+lang yuan yao chi	阆苑瑶池	2
+lang yuan yao tai	阆苑瑶台	2
+lang zi zai xiang	浪子宰相	2
+lang bei feng chen li	狼狈风尘里	1
+lang bei zhou zhang	狼狈周章	1
+lang ben shu tou	狼奔鼠偷	1
+lang ben shu zou	狼奔鼠走	1
+lang ben tu tuo	狼奔兔脱	1
+lang bo xiang	浪波乡	1
+lang bu lang xiu bu xiu	郎不郎秀不秀	1
+lang bu lang you bu you	稂不稂莠不莠	1
+lang bu ye yang	朗布耶羊	1
+lang can hu yan	狼餐虎咽	1
+lang chi fu tou	狼吃幞头	1
+lang ci	朗茨	1
+lang cun	朗村	1
+lang cun cun	郎村村	1
+lang dang	莨菪	1
+lang dang	锒铛	1
+lang dang jian	莨菪碱	1
+lang deng shi bao li yu	朗登氏宝丽鱼	1
+lang fang di jiu zhong xue	廊坊第九中学	1
+lang fang hui zhan zhong xin	廊坊会展中心	1
+lang gu chi zhang	狼顾鸱张	1
+lang gu chi zhi	狼顾鸱跱	1
+lang gu hu shi	狼顾虎视	1
+lang gu hu yi	狼顾狐疑	1
+lang gu yuan shi	狼顾鸢视	1
+lang hao gu	狼嚎谷	1
+lang hao gui ku	狼嚎鬼哭	1
+lang huan	嫏嬛	1
+lang huan	琅嬛	1
+lang huan xiang	琅环乡	1
+lang ji bei pan	狼藉杯盘	1
+lang jia na si	朗加纳斯	1
+lang jian bei jue	狼艰狈蹶	1
+lang jie xue xiang	朗杰学乡	1
+lang ka zi yan huang qi	浪卡子岩黄耆	1
+lang ke xi yi ren zhan shi	朗克蜥蜴人战士	1
+lang lang	郎朗	1
+lang li bu ren	狼戾不仁	1
+lang lu ke	狼鲈科	1
+lang meng feng du	狼猛蜂毒	1
+lang miao	廊庙	1
+lang mu	浪木	1
+lang pi dou peng	狼皮斗篷	1
+lang qian bai fa	郎前白发	1
+lang qian hu hou	狼前虎后	1
+lang rui fu hua	浪蕊浮花	1
+lang shan	崀山	1
+lang sun hu yan	狼飧虎咽	1
+lang tan hu shi	狼贪虎视	1
+lang tan shu qie	狼贪鼠窃	1
+lang tian bo jing	浪恬波静	1
+lang tou guai dui zhang	狼头怪队长	1
+lang tu chi zhang	狼突鸱张	1
+lang tu shi cuan	狼突豕窜	1
+lang tun hu can	狼吞虎餐	1
+lang wan shi	朗万仕	1
+lang xi cun	郎西村	1
+lang xi yin yu	郎溪银鱼	1
+lang xia san wu qi bai yan	浪下三吴起白烟	1
+lang xin gou yi	狼心狗意	1
+lang ya gu	狼牙谷	1
+lang ya quan tao	狼牙拳套	1
+lang ya sheng cai	狼牙生菜	1
+lang yan da hua	狼烟大话	1
+lang yan shu mei	狼眼鼠眉	1
+lang yang tong si	狼羊同饲	1
+lang yin liu gong pian	朗吟六公篇	1
+lang you bu qi	稂莠不齐	1
+lang yuan qiong lou	阆苑琼楼	1
+lang zhong sheng shi ke chang duan	阆中胜事可肠断	1
+lang zhou cheng nan tian xia xi	阆州城南天下稀	1
+lang zhu	狼主	1
+lang zhu huo ke huang feng	狼蛛霍克黄蜂	1
+lang zi shou xin	狼子兽心	1

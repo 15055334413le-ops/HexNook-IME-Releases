@@ -1,0 +1,312 @@
+dai kuan	贷款	157760
+dai li	代理	83939
+dai ma shi xian	代码实现	40429
+dai yu	带鱼	38818
+dai ma kuai	代码块	37184
+dai li ren	代理人	25320
+dai ma duan	代码段	23996
+dai mu lei	戴姆勒	23939
+dai kou dai jiao	代扣代缴	21824
+dai can shu	带参数	20188
+dai li xie yi	代理协议	19482
+dai ma shi li	代码示例	17318
+dai ma pian duan	代码片段	16916
+dai li fu wu qi	代理服务器	13898
+dai wei	戴维	11952
+dai li shang	代理商	11918
+dai li fang fa	代理方法	11359
+dai li lei	代理类	9507
+dai li mo shi	代理模式	9022
+dai ma bian xie	代码编写	8984
+dai ma ku	代码库	8828
+dai ma sheng cheng	代码生成	8430
+dai ma fen xi	代码分析	8297
+dai ma jie gou	代码结构	7628
+dai ma zhu shi	代码注释	6894
+dai pai xu	待排序	6480
+dai wei si	戴维斯	5321
+dai ma zhi liang	代码质量	5296
+dai wei quan	代位权	5023
+dai ma you hua	代码优化	4867
+dai ma ti shi	代码提示	4453
+dai dai xiang chuan	代代相传	4237
+dai ma shi li	代码实例	3888
+dai fu hao	带符号	3785
+dai ma qu	代码区	3571
+dai ma gui fan	代码规范	3426
+dai ma zhong yong	代码重用	3392
+dai ma ce shi	代码测试	3362
+dai ma fu yong	代码复用	3301
+dai gao le	戴高乐	3090
+dai li shou fu kuan xiang	代理收付款项	2900
+dai an na	戴安娜	2819
+dai ma she ji	代码设计	2723
+dai ma bian ji qi	代码编辑器	2719
+dai er	戴尔	2551
+dai xiao	代销	2543
+dai tou zuo yong	带头作用	2325
+dai ma cang ku	代码仓库	2279
+dai ma hun xiao	代码混淆	2153
+dai ma lei	代码类	2125
+dai ma sheng cheng qi	代码生成器	2114
+dai zhuang	带状	2096
+dai ma bu quan	代码补全	2087
+dai kuan ren	贷款人	2059
+dai ma guan li	代码管理	2041
+dai ma tuo guan	代码托管	2012
+dai jia han shu	代价函数	1942
+dai ma jian cha	代码检查	1936
+dai ma zhong gou	代码重构	1901
+dai ma xing shu	代码行数	1897
+dai zu	傣族	1878
+dai li fu wu	代理服务	1823
+dai ma da quan	代码大全	1692
+dai mu lei ke lai si lei	戴姆勒克莱斯勒	1672
+dai ma pian	代码片	1594
+dai wei qiu chang quan	代位求偿权	1584
+dai ma tiao shi	代码调试	1501
+dai kuan zhan qi	贷款展期	1469
+dai bu chong	待补充	1440
+dai ma shen cha	代码审查	1333
+dai wai shu ju	带外数据	1333
+dai ma yue du	代码阅读	1331
+dai kuan zha pian zui	贷款诈骗罪	1326
+dai ren jie wu	待人接物	1212
+dai wei quan su song	代位权诉讼	1134
+dai ma mu ban	代码模板	1099
+dai ma gao liang	代码高亮	1069
+dai fen lei	待分类	1064
+dai wei qing chang	代为清偿	1033
+dai ma fu gai lv	代码覆盖率	972
+dai jie jue	待解决	967
+dai ma fen xiang	代码分享	896
+dai fu	戴夫	888
+dai ma neng li	代码能力	869
+dai jia er gu	待价而沽	835
+dai ma qian ming	代码签名	823
+dai ma zheng li	代码整理	801
+dai ma feng ge	代码风格	746
+dai ma bu ju	代码布局	720
+dai ma biao	代码表	656
+dai dai hua	玳玳花	644
+dai xie wen luan	代谢紊乱	629
+dai li zhi	代理制	590
+dai jun	戴军	586
+dai li she ji mo shi	代理设计模式	574
+dai xie xing ji bing	代谢性疾病	574
+dai ma zi dong bu quan	代码自动补全	570
+dai ma guan li gong ju	代码管理工具	557
+dai zhi xing	代执行	547
+dai ma zheng jie	代码整洁	504
+dai ma ping shen	代码评审	470
+dai zhuang pao zhen	带状疱疹	470
+dai ma yi dong	代码移动	448
+dai xiu gai	待修改	435
+dai quan bing cha ji	带权并查集	375
+dai ma ji lu	代码记录	364
+dai zi gui zhong	待字闺中	360
+dai ma zou cha	代码走查	353
+dai xie zong he zheng	代谢综合征	311
+dai an lan	戴安澜	308
+dai mao	玳瑁	276
+dai ruo mu ji	呆若木鸡	267
+dai zui li gong	戴罪立功	262
+dai jun zhe	带菌者	248
+dai wei quan zhi du	代位权制度	237
+dai ma ge shi hua	代码格式化	234
+dai xie zhang ai	代谢障碍	233
+dai ma gong ju	代码工具	221
+dai li	戴笠	217
+dai ma jian zhuang xing	代码健壮性	217
+dai kuan qi zha	贷款欺诈	214
+dai ya suo	带压缩	207
+dai ren shou guo	代人受过	204
+dai wei zhi xing	代位执行	186
+dai ming zhuang tai	待命状态	180
+dai ma shen ji	代码审计	177
+dai lv mao zi	戴绿帽子	146
+dai ma ji shu	代码技术	145
+dai wang shu	戴望舒	138
+dai ji tao	戴季陶	135
+dai zi shang chao	带子上朝	123
+dai li chuan zhi	代理传值	120
+dai ma bei fen	代码备份	120
+dai ma tong ji	代码统计	115
+dai miao	岱庙	112
+dai ma ji qiao	代码技巧	103
+dai pei ni	戴佩妮	101
+dai tou dai nao	呆头呆脑	101
+dai wu qing chang	代物清偿	100
+dai rui	戴睿	98
+dai li ge	戴笠鸽	95
+dai xie xing suan zhong du	代谢性酸中毒	95
+dai ba zhou zi	带把肘子	91
+dai ma pian duan ku	代码片段库	88
+dai ma bian huan	代码变换	87
+dai hua shu	带花树	86
+dai ma yin cang wen jian	代码隐藏文件	84
+dai wei qing chang	代位清偿	81
+dai yi jiao	带一脚	81
+dai yun	戴云	73
+dai mao	瑇瑁	72
+dai ma yin cang lei	代码隐藏类	69
+dai zhen	戴震	68
+dai jiao qian	戴娇倩	66
+dai jia	代家	65
+dai li jiao ben	代理脚本	64
+dai kuan su lv	带宽速率	62
+dai dao shan hua lan man shi	待到山花烂漫时	61
+dai huan	带环	61
+dai xie wen shu	代写文书	60
+dai li kong gao	代理控告	59
+dai zhuang	戴庄	59
+dai jia xiang	戴家巷	55
+dai xie mei	代谢酶	55
+dai zong fang	岱宗坊	54
+dai gao mao zi	戴高帽子	51
+dai ma you hua ji qiao	代码优化技巧	50
+dai qun	代群	49
+dai li chu kou he tong	代理出口合同	46
+dai shu fen xi	代数分析	43
+dai ai lian	戴爱莲	42
+dai dao an	岱道庵	41
+dai ding	岱顶	39
+dai hao	戴浩	39
+dai jia cun	戴家村	39
+dai yun shan	戴云山	39
+dai tou	埭头	38
+dai yong	代勇	38
+dai pi huang niu rou	带皮黄牛肉	37
+dai bian ma shu ju	待编码数据	36
+dai li fang di chan mai mai	代理房地产买卖	35
+dai shu shu ju lei xing	代数数据类型	35
+dai fang	带方	34
+dai li xi wei	代理席位	34
+dai xing	带型	34
+dai qian	戴谦	33
+dai mai	带脉	32
+dai xia bing	带下病	30
+dai ma zhuan huan qi	代码转换器	27
+dai xie xing gu bing	代谢性骨病	26
+dai yue he chu gui	带月荷锄归	26
+dai ma sheng cheng cheng xu	代码生成程序	23
+dai xian huang jiu	代县黄酒	22
+dai mei shan	黛眉山	21
+dai wei ji fu	代为给付	20
+dai xue feng	戴学峰	20
+dai dao xue hua shi	待到雪化时	19
+dai jiang cao tang	带江草堂	18
+dai jin	戴进	18
+dai ma kuo chong	代码扩充	18
+dai tou cun	埭头村	18
+dai ge zhuang	戴戈庄	17
+dai wei xun	戴维逊	17
+dai he lu	带河路	15
+dai mi	黛咪	15
+dai shan	代善	15
+dai dao chong yang ri	待到重阳日	14
+dai xiao bing	呆小病	14
+dai zhuang di tu	带状地图	14
+dai ming shuo	戴明说	13
+dai shu lun	戴叔伦	13
+dai ma gong ju lei	代码工具类	12
+dai rong	戴荣	12
+dai xie xing jian zhong du	代谢性碱中毒	12
+dai li fang di chan zhuan rang	代理房地产转让	11
+dai li xin	黛力新	11
+dai peng fei	戴鹏飞	11
+dai shan xian zheng fu	岱山县政府	11
+dai xi	戴熙	11
+dai xin zuo lao	带薪坐牢	11
+dai zong fu ru he	岱宗夫如何	11
+dai jun	代郡	10
+dai wang jie dao	待王街道	10
+dai biao yuan	戴表元	9
+dai zhe shi	代赭石	9
+dai mao ye hou	戴帽叶猴	8
+dai ping	待评	8
+dai shu xie jiao lun tai	带束斜交轮胎	8
+dai yu guan tou	带鱼罐头	8
+dai chong zhe	带虫者	7
+dai wan	戴湾	7
+dai xian ma pian	代县麻片	7
+dai zhai	戴宅	7
+dai jia zhuang	戴家庄	6
+dai ling xiang	岱岭乡	6
+dai ming shi	戴名世	6
+dai ren	戴仁	6
+dai cong	戴聪	5
+dai mai xue	带脉穴	5
+dai tian ren	代田稔	5
+dai yi	戴艺	5
+dai zai cun	岱仔村	5
+dai jia lin	戴家林	4
+dai kuan xie yi	贷款协议	4
+dai kuan yue shu ji zhi	贷款约束机制	4
+dai li	戴礼	4
+dai li fa lv shi yong gong yue	代理法律适用公约	4
+dai shan lu	岱山路	4
+dai xi	戴溪	4
+dai zhong ren	戴忠仁	4
+dai chang xing fei da	代偿性肥大	3
+dai fang lan	戴芳澜	3
+dai fu gu	戴复古	3
+dai huang xing	代黄杏	3
+dai xian pu bu	岱仙瀑布	3
+dai xie xing bai nei zhang	代谢性白内障	3
+dai yan	戴严	3
+dai yuan	戴员	3
+dai bian cun	埭边村	2
+dai jia hu tong	戴家胡同	2
+dai jia yuan zi	代家院子	2
+dai jing	戴经	2
+dai jun heng	戴钧衡	2
+dai jun yuan	戴均元	2
+dai li ji zhen	代力吉镇	2
+dai ling ren	代领人	2
+dai nan cun	戴南村	2
+dai qi	黛琪	2
+dai shan cun	戴山村	2
+dai tou she qu	埭头社区	2
+dai wei quan su song zhi du	代位权诉讼制度	2
+dai xie dang liang	代谢当量	2
+dai yue xiang	岱岳乡	2
+dai bei chu ci mei ma chen	代北初辞没马尘	1
+dai bei cun	戴北村	1
+dai chao chun	戴潮春	1
+dai er dian nao	戴尔电脑	1
+dai guang jie	戴光洁	1
+dai ha san	黛蛤散	1
+dai hua hong shi zhu	戴花红石竹	1
+dai jia yuan zi	戴家院子	1
+dai kuan nan	贷款难	1
+dai qu heng	戴衢亨	1
+dai wu hai dan cheng	待吾还丹成	1
+dai xiao tang qian bai jiu gu	待晓堂前拜舅姑	1
+dai xiao wei	戴晓微	1
+dai ying chun hua zhao liu lang zhong	代迎春花招刘郎中	1
+dai zhang jia zhi lu li xi	带长铗之陆离兮	1
+dai zhao jin ma men	待诏金马门	1
+dai zhi qi	戴之奇	1
+dai zhuang cun wei hui	戴庄村委会	1
+dai zi ying xiang	代字营乡	1
+dai an na zhang wei hou	戴安娜长尾猴	0
+dai ban ci guang chun yu	带半刺光唇鱼	0
+dai chong dong wu men	袋虫动物门	0
+dai chun ke	带鰆科	0
+dai heng xiong bu jia	带横胸步甲	0
+dai ju ke	戴菊科	0
+dai mao ban qing ting	玳瑁斑蜻蜓	0
+dai mao chang bi yuan	戴帽长臂猿	0
+dai shi cha du fu yu	戴氏叉杜父鱼	0
+dai shi zhun she chun yu	戴氏准舌唇鱼	0
+dai shou bei	呆绶贝	0
+dai tao chong shu	带绦虫属	0
+dai wei bo chuan fang chong	代韦波串房虫	0
+dai wei ju fang fu	带尾锯鲂鮄	0
+dai wei si shen zhao chong	戴维斯神罩虫	0
+dai wen die deng e	带纹蝶灯蛾	0
+dai wen duo huan hai long	带纹多环海龙	0
+dai wen zhang xu mao sha	带纹长须猫鲨	0
+dai xing ji yuan xi chong	带形棘缘吸虫	0
+dai xiong hei xi mi niao	带胸黑吸蜜鸟	0

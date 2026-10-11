@@ -1,0 +1,634 @@
+fei fa	非法	2060497
+fei yong	费用	356236
+fei chu	废除	92303
+fei die	飞碟	80370
+fei zhi	废止	65154
+fei ji dong che	非机动车	52250
+fei fa jing ying	非法经营	38950
+fei fa ju jin	非法拘禁	18434
+fei zu se	非阻塞	17652
+fei jing tai	非静态	17409
+fei fa xing yi	非法行医	16249
+fei zhuan ye ren shi	非专业人士	15668
+fei fa xing wei	非法行为	14107
+fei tong xun chang	非同寻常	11077
+fei fei yang yang	沸沸扬扬	10931
+fei yin hang jin rong ji gou	非银行金融机构	10706
+fei ai	肺癌	9750
+fei yan	肺炎	9577
+fei chang	肥肠	8986
+fei di gui	非递归	8379
+fei fa jing ying zui	非法经营罪	8338
+fei yi suo si	匪夷所思	8046
+fei fa zhuan rang	非法转让	7217
+fei fa zheng quan huo dong	非法证券活动	7051
+fei zhuan li ji shu	非专利技术	6683
+fei li pu	菲利普	6515
+fei fa yong gong	非法用工	6039
+fei fa ju jin zui	非法拘禁罪	5559
+fei jie he	肺结核	4951
+fei gong jing ji	非公经济	4838
+fei chang ke le	非常可乐	4685
+fei quan ri zhi yong gong	非全日制用工	4323
+fei guan shui bi lei	非关税壁垒	4278
+fei bo na qi shu lie	斐波那契数列	4134
+fei fa zhan di	非法占地	4121
+fei bing	肺病	3926
+fei jin rong ji gou	非金融机构	3470
+fei dui chen jia mi	非对称加密	3249
+fei hun sheng zi nv	非婚生子女	3216
+fei bu gan ran	肺部感染	3192
+fei fa qin zhan	非法侵占	2937
+fei dui chen	非对称	2930
+fei fa zi fu	非法字符	2912
+fei ju min qi ye	非居民企业	2546
+fei ji chang	飞机场	2325
+fei teng yu	沸腾鱼	2277
+fei fa zhan yong tu di	非法占用土地	2215
+fei fa yin xiang zhi pin	非法音像制品	2131
+fei lai heng huo	飞来横祸	2109
+fei lv	费率	2074
+fei fa zhuan rang tu di	非法转让土地	1928
+fei di ke	菲迪克	1846
+fei qi zhong	肺气肿	1807
+fei xing jia	飞行家	1725
+fei fa jing ying shu e	非法经营数额	1691
+fei cheng zai shi che shen	非承载式车身	1683
+fei fa ti gong	非法提供	1653
+fei bo na qi	斐波那契	1625
+fei yong liu	费用流	1596
+fei ju ji suo yin	非聚集索引	1571
+fei chu fang yao	非处方药	1539
+fei chang fen	肥肠粉	1443
+fei zhi wu fa ming	非职务发明	1428
+fei dong	肥东	1424
+fei tuo guan	非托管	1397
+fei ma xiao ding li	费马小定理	1380
+fei huo liang	肺活量	1354
+fei fa tong ju guan xi	非法同居关系	1320
+fei fa xing yi zui	非法行医罪	1312
+fei fu zhi yan	肺腑之言	1232
+fei qin wang shi	废寝忘食	1190
+fei ci ji bi	非此即彼	1151
+fei fa chi you du pin zui	非法持有毒品罪	1082
+fei tong xiao ke	非同小可	1063
+fei bi xun chang	非比寻常	1045
+fei jin xin ji	费尽心机	1028
+fei de lei	费德勒	1024
+fei shui zhong	肺水肿	1020
+fei bo na qi shu	斐波那契数	1015
+fei pao	肺泡	985
+fei fa lie bu	非法猎捕	917
+fei di gui bian li	非递归遍历	915
+fei huang teng da	飞黄腾达	886
+fei zheng shi xie yi	非正式协议	871
+fei fa gai zhuang che	非法改装车	848
+fei qin fei gu	非亲非故	827
+fei xiao tong	费孝通	805
+fei ru xun chang bai xing jia	飞入寻常百姓家	771
+fei yan zou bi	飞檐走壁	739
+fei die qi che	飞碟汽车	711
+fei mo tai dui hua kuang	非模态对话框	705
+fei zhu shu xing	非主属性	694
+fei she er	菲舍尔	688
+fei zi	痱子	685
+fei ye	肺叶	673
+fei ling zhi	非零值	665
+fei fa jiu ye	非法就业	658
+fei fa zheng ju pai chu gui ze	非法证据排除规则	650
+fei ju min ge ren	非居民个人	649
+fei tuo guan dai ma	非托管代码	600
+fei yang ba hu	飞扬跋扈	587
+fei ji huo	非激活	576
+fei cuo shang	肺挫伤	564
+fei cheng shi	肥城市	557
+fei chang cheng shi	非常城市	541
+fei shuan se	肺栓塞	531
+fei fa qin ru zhu zhai zui	非法侵入住宅罪	494
+fei fa dai bu	非法逮捕	486
+fei qi ye fa ren	非企业法人	485
+fei dong mai gao ya	肺动脉高压	478
+fei ying li xing ji gou	非赢利性机构	477
+fei dong mai	肺动脉	471
+fei fa xing xing wei	非法性行为	462
+fei mo chuan bo	飞沫传播	458
+fei ya te xi ye na	菲亚特西耶那	441
+fei hun xing xing wei	非婚性行为	435
+fei fa chai qian	非法拆迁	425
+fei re	肺热	423
+fei zui hua	非罪化	420
+fei qin zou shou	飞禽走兽	411
+fei ya te xiong mao	菲亚特熊猫	411
+fei lun ke	飞轮壳	393
+fei ke yi yuan	肺科医院	371
+fei xiang	费翔	361
+fei xian wei hua	肺纤维化	355
+fei bo la qi shu lie	斐波拉契数列	350
+fei yi zhi	肺移植	349
+fei fa zhan yong nong yong di zui	非法占用农用地罪	340
+fei zheng qing	费正清	336
+fei gu	腓骨	333
+fei e pu huo	飞蛾扑火	331
+fei quan ri zhi zhi gong	非全日制职工	328
+fei sha zou shi	飞沙走石	327
+fei xian chang ji he	非现场稽核	321
+fei gong si zhi qi ye	非公司制企业	318
+fei lei er	费雷尔	313
+fei yan yi miao	肺炎疫苗	307
+fei ju min na shui ren	非居民纳税人	292
+fei xi lu	肥西路	290
+fei chu xie	肺出血	280
+fei quan ri zhi lao dong he tong	非全日制劳动合同	280
+fei yun	飞云	277
+fei dian xing fei yan	非典型肺炎	275
+fei ji da zhan	飞机大战	272
+fei cui cheng	翡翠城	269
+fei xiao xi bao fei ai	非小细胞肺癌	245
+fei dui chen mi ma	非对称密码	241
+fei tian	肥田	241
+fei zhou ye mao	非洲野猫	239
+fei teng ke le	沸腾可乐	233
+fei fan ying tian	沸反盈天	217
+fei zhen zou xian	飞针走线	209
+fei ge	菲戈	205
+fei song an jian	非讼案件	204
+fei chu rou xing	废除肉刑	197
+fei cui dou fu	翡翠豆腐	195
+fei lun chi quan	飞轮齿圈	194
+fei liu zhi xia san qian chi	飞流直下三千尺	188
+fei long zai tian	飞龙在天	185
+fei fa mu juan	非法募捐	178
+fei mi	费米	175
+fei xing ji ben gui ze	飞行基本规则	174
+fei lei la	费雷拉	161
+fei man	费曼	159
+fei gong neng jian cha	肺功能检查	157
+fei na xi ding	非那西丁	153
+fei xian xing bian ji	非线性编辑	151
+fei yu	飞羽	147
+fei fa wei tuo	非法委托	146
+fei xiang	肥乡	143
+fei chang mian	肥肠面	142
+fei ning jing wu yi zhi yuan	非宁静无以致远	141
+fei cai chan ze ren	非财产责任	138
+fei bo na qi cha zhao	斐波那契查找	129
+fei zai ti kang yan yao	非甾体抗炎药	129
+fei ling dao zhi wu ceng ci	非领导职务层次	128
+fei wo zu lei	非我族类	128
+fei fa zhan yong geng di zui	非法占用耕地罪	127
+fei gong shi gao	非公室告	126
+fei shi	沸石	123
+fei shu yi	肺鼠疫	120
+fei dan bo wu yi ming zhi	非淡泊无以明志	118
+fei xia nan lu	飞霞南路	115
+fei de la	菲德拉	109
+fei mo chuan ran	飞沫传染	108
+fei bi jiao pai xu	非比较排序	106
+fei ji qun dao	斐济群岛	105
+fei yan qiu jun yi miao	肺炎球菌疫苗	105
+fei fa zu zhi mai xue zui	非法组织卖血罪	104
+fei ya	飞亚	104
+fei fa bu lao shui chan pin zui	非法捕捞水产品罪	101
+fei ping bi shuang jiao xian	非屏蔽双绞线	101
+fei gui fan xing fa lv wen jian	非规范性法律文件	96
+fei chun zhong mao	非纯种猫	94
+fei da pao	肺大泡	93
+fei hong lu	飞虹路	92
+fei jing mai	肺静脉	90
+fei da	菲达	88
+fei bo na qie shu lie	菲波那切数列	83
+fei long tang	飞龙汤	83
+fei bi xu an ji suan	非必须氨基酸	82
+fei dong mai ban xia zhai	肺动脉瓣狭窄	82
+fei nong zhong	肺脓肿	82
+fei tou da er	肥头大耳	82
+fei fa fu zhi pin	非法复制品	81
+fei hua lian pian	废话连篇	81
+fei tuo guan han shu	非托管函数	81
+fei tong qi	肺通气	78
+fei bu zhang	肺不张	77
+fei chang ji	腓肠肌	76
+fei du li xuan gua xi tong	非独立悬挂系统	74
+fei lv fei ma	非驴非马	74
+fei yuan xing xin zang bing	肺源性心脏病	73
+fei xi chong	肺吸虫	72
+fei feng bi yang tai	非封闭阳台	70
+fei xian jin	非现金	69
+fei men	肺门	66
+fei fa chu shou fa piao zui	非法出售发票罪	65
+fei lei luo	费雷罗	65
+fei tan ju	肺炭疽	65
+fei jun yun you li	非均匀有理	60
+fei shang ye xing feng xian	非商业性风险	58
+fei bo na qi bo yi	斐波那契博弈	57
+fei da xi bao	肥大细胞	56
+fei ji ben dang shi ren	非基本当事人	55
+fei chu zhi wai fa quan	废除治外法权	53
+fei duan liu chang	蜚短流长	53
+fei gan ran xing fu xie	非感染性腹泻	53
+fei ya te duo bao	菲亚特多宝	53
+fei dong mai bi suo	肺动脉闭锁	52
+fei fen zhi xiang	非分之想	52
+fei lao dong jia zhi	非劳动价值	51
+fei ren ling zhang lei dong wu	非人灵长类动物	51
+fei xun huan	肺循环	50
+fei xin	飞新	49
+fei yu	肺俞	48
+fei jian zhi xian wei hua	肺间质纤维化	47
+fei ping heng shu	非平衡树	47
+fei zheng bei ti	非整倍体	47
+fei xing cao	肺形草	46
+fei ju min na shui yi wu ren	非居民纳税义务人	43
+fei sheng xi zi chan	非生息资产	43
+fei xi chong bing	肺吸虫病	43
+fei xi te	费希特	43
+fei zheng chang hu	非正常户	43
+fei wen li	肺纹理	42
+fei fa guan zhi zui	非法管制罪	41
+fei xue ying chun dao	飞雪迎春到	41
+fei zhuan rang bei shu	非转让背书	41
+fei lin jun xing niao dao yan	非淋菌性尿道炎	39
+fei fu er	费夫尔	38
+fei sha tan	飞沙滩	38
+fei tong er xi	非同儿戏	37
+fei xue wu yi guang cai	非学无以广才	37
+fei cui cheng xiao qu	翡翠城小区	35
+fei dong mai ban	肺动脉瓣	35
+fei lie shang	肺裂伤	35
+fei cui shao mai	翡翠烧麦	34
+fei li da	飞力达	34
+fei wai jie he	肺外结核	34
+fei zhai qing chang	非债清偿	34
+fei mu	费穆	33
+fei rong zi xing	非融资性	33
+fei xian zhi xing zhai quan	非限制性债权	33
+fei zhu pi mao	肺主皮毛	33
+fei ye qie chu shu	肺叶切除术	32
+fei na xiong an	非那雄胺	31
+fei xing zhe	飞行者	31
+fei gen ben xing wei yue	非根本性违约	30
+fei yan zhi yuan ti	肺炎支原体	30
+fei zhu jian yu	飞珠溅玉	30
+fei shi bian	肺实变	29
+fei zong shen jing	腓总神经	29
+fei shen yin xu	肺肾阴虚	28
+fei shou cha yi chang	非受查异常	28
+fei yi ri zhi han	非一日之寒	28
+fei zhou ye quan	非洲野犬	28
+fei xin lao shen	费心劳神	27
+fei yan shuang qiu jun	肺炎双球菌	27
+fei zhou ye lv	非洲野驴	27
+fei di gui you hua	非递归优化	26
+fei yong	肺痈	26
+fei fa zhan you zui	非法占有罪	25
+fei hou xing xin ji bing	肥厚性心肌病	25
+fei quan chi cun bei tai	非全尺寸备胎	25
+fei yu xue	肺俞穴	25
+fei shen liang xu	肺肾两虚	24
+fei shi ji qiu feng	非是藉秋风	24
+fei te yi xing mian yi	非特异性免疫	24
+fei yan qiu jun gan ran	肺炎球菌感染	24
+fei long qiao	飞龙桥	23
+fei shan jie	飞山街	23
+fei zhi wu yi cheng xue	非志无以成学	23
+fei xin lao li	费心劳力	22
+fei zhou hei xi niu	非洲黑犀牛	22
+fei fen zhi cai	非分之财	21
+fei cui fen ji biao zhun	翡翠分级标准	20
+fei xian xing liang hua	非线性量化	20
+fei yue quan	飞越权	20
+fei ba su quan	废罢诉权	19
+fei yun jiang lu kou	飞云江路口	19
+fei chong xue	肺充血	18
+fei li ke jiao nang	肺力咳胶囊	18
+fei su song shi xiao	非诉讼时效	18
+fei bi xu an ji suan	非必需氨基酸	17
+fei gu you quan	非固有权	17
+fei duan	肺段	16
+fei duan qie chu shu	肺段切除术	16
+fei hou xing you men xia zhai	肥厚性幽门狭窄	16
+fei kai qiao yu bi	肺开窍于鼻	16
+fei ye	肺野	16
+fei ji ba	飞机坝	15
+fei zhuan shu quan	非专属权	15
+fei zi	榧子	15
+fei hong	费宏	14
+fei luo di ping	非洛地平	14
+fei niao xiang yu hai	飞鸟相与还	14
+fei chang mi fen	肥肠米粉	13
+fei chang su song	非常诉讼	13
+fei cheng ran se ti	费城染色体	13
+fei cheng xian	肥城县	13
+fei nuo bei te	非诺贝特	13
+fei chu zai hua zhi wai fa quan	废除在华治外法权	12
+fei he jie jin shi lin ba liu	非何杰金氏淋巴瘤	12
+fei wu zhi xing jie guo	非物质性结果	12
+fei xing cuo jue	飞行错觉	12
+fei xue guan bing	肺血管病	12
+fei zhang	肺胀	12
+fei zhe xian fa	非折现法	12
+fei biao yi xing wei	非表意行为	11
+fei cui shui jing long zhu jiao	翡翠水晶龙珠饺	11
+fei cui yu zhu	翡翠鱼珠	11
+fei dao yu	飞刀鱼	11
+fei fang bian fa yuan	非方便法院	11
+fei jiu jin shu shi chang	废旧金属市场	11
+fei long pu	飞龙脯	11
+fei luo di ping huan shi pian	非洛地平缓释片	11
+fei ma gong si	飞马公司	11
+fei nang zhong	肺囊肿	11
+fei shuai	肺衰	11
+fei te lie da di	腓特烈大帝	11
+fei yi	费祎	11
+fei ying te er	非英特尔	11
+fei ge xi fan	非隔隙犯	10
+fei jun	费俊	10
+fei ru cai hua wu chu xun	飞入菜花无处寻	10
+fei yan qiu jun xing fei yan	肺炎球菌性肺炎	10
+fei chuan ci	肺穿刺	9
+fei cui yin er	翡翠银耳	9
+fei gu tou	腓骨头	9
+fei ke	肺咳	9
+fei long qiao hu tong	飞龙桥胡同	9
+fei pao biao mian huo xing wu zhi	肺泡表面活性物质	9
+fei qi bu xuan	肺气不宣	9
+fei zhou meng	非洲獴	9
+fei bi yao gong tong su song	非必要共同诉讼	8
+fei dan xu	费丹旭	8
+fei ning jiao nang	肺宁胶囊	8
+fei dong mai ban bi suo	肺动脉瓣闭锁	7
+fei ji hua he tong	非计划合同	7
+fei nan xiang	淝南乡	7
+fei qi hui shou guan	废气回收管	7
+fei qi yu long san bai wan	飞起玉龙三百万	7
+fei tian ma	飞天马	7
+fei yan lian qiu jun xing fei yan	肺炎链球菌性肺炎	7
+fei yan yi yuan ti	肺炎衣原体	7
+fei chang dou hua	肥肠豆花	6
+fei cui ji chi	翡翠鸡翅	6
+fei ding xiang pai mai	非定向拍卖	6
+fei dong mai gan	肺动脉干	6
+fei leng cui ti la mi su	翡冷翠提拉米苏	6
+fei qi shang ni	肺气上逆	6
+fei sha cun	飞沙村	6
+fei tian xiang	肥田乡	6
+fei wei zhu tan zhi qi	肺为贮痰之器	6
+fei xing ji pu	飞行吉普	6
+fei zai qing yun duan	飞在青云端	6
+fei zi zhi xing tiao yue	非自执行条约	6
+fei chang fa lv yu wen	非常法律语文	5
+fei cui shan zhuang	翡翠山庄	5
+fei cui yuan yang dai	翡翠鸳鸯带	5
+fei dong jing mai lou	肺动静脉瘘	5
+fei fa chu jing xing wei	非法出境行为	5
+fei ge li zheng	肺隔离症	5
+fei jie chu yan ya ji	非接触眼压计	5
+fei li ke he ji	肺力咳合剂	5
+fei ni ke si	费尼克斯	5
+fei tou zi	匪头子	5
+fei wei xian	肺萎陷	5
+fei yue jing dian	飞悦经典	5
+fei bo xiong	费伯雄	4
+fei chao bai mai	肺朝百脉	4
+fei cui yu shan	翡翠玉扇	4
+fei en man	费恩曼	4
+fei fa jian jian wu	非法僭建物	4
+fei fa ren tuan ti yan jiu	非法人团体研究	4
+fei fa zhuan rang ji shu	非法转让技术	4
+fei gu ji wei suo	腓骨肌萎缩	4
+fei he	飞翮	4
+fei hong xin cun	飞虹新村	4
+fei jiang jun zi zhong xiao ru	飞将军自重霄入	4
+fei li pu dao sai dao	菲利普岛赛道	4
+fei long miao	飞龙庙	4
+fei ma lu kou	飞马路口	4
+fei nei ya	肺内压	4
+fei pao xi bao ai	肺泡细胞癌	4
+fei qi gui er ji zhi	非其鬼而祭之	4
+fei te yi xing niao dao yan	非特异性尿道炎	4
+fei te yi xing yin dao yan	非特异性阴道炎	4
+fei xie xing qie chu shu	肺楔形切除术	4
+fei yang ba hu wei shui xiong	飞扬跋扈为谁雄	4
+fei yun jiang nong chang	飞云江农场	4
+fei zi	肥子	4
+fei chang	腓肠	3
+fei chang nan shi	非常男士	3
+fei cui yao zhu geng	翡翠瑶柱羹	3
+fei er mo er	菲尔莫尔	3
+fei fan zui hua yan jiu	非犯罪化研究	3
+fei jin rong bu men zhai quan	非金融部门债权	3
+fei jing you zhong mo	飞镜又重磨	3
+fei liang xing zhong liu	肺良性肿瘤	3
+fei long xi pian pian	飞龙兮翩翩	3
+fei luo di ping pian	非洛地平片	3
+fei na xiong an pian	非那雄胺片	3
+fei na zai an	非那甾胺	3
+fei nei yi wu	肺内异物	3
+fei nuo bei te jiao nang	非诺贝特胶囊	3
+fei pi liang xu	肺脾两虚	3
+fei qi	肥气	3
+fei qi zhong pian	肺气肿片	3
+fei qin bu shi zheng	非琴不是筝	3
+fei shui	肺水	3
+fei teng gan zao	沸腾干燥	3
+fei tou	朏头	3
+fei xia qiao	飞霞桥	3
+fei yi zhi shu	肺移植术	3
+fei zheng bei xing	非整倍性	3
+fei zhou zhu e	非洲侏鳄	3
+fei zhou zhui chong bing	非洲锥虫病	3
+fei bao chong bing	肺包虫病	2
+fei can shu jian yan	非参数检验	2
+fei ce fu ren dai	腓侧副韧带	2
+fei chang shen jing	腓肠神经	2
+fei chu shen shen yang liu zhu	飞出深深杨柳渚	2
+fei chun zhong chang mao mao	非纯种长毛猫	2
+fei cui cheng xi qu	翡翠城西区	2
+fei cui shao mai	翡翠烧买	2
+fei e qi sheng er ran ye	非恶其声而然也	2
+fei er tang jiang	肥儿糖浆	2
+fei gong zhi	费公直	2
+fei gu duan ji	腓骨短肌	2
+fei guo zhi hai ye	非国之害也	2
+fei guo zhi zai ye	非国之灾也	2
+fei huang lai shi ban tian hei	飞蝗来时半天黑	2
+fei jun zi zhi qi	非君子之器	2
+fei lai feng shang qian xun ta	飞来峰上千寻塔	2
+fei lian shi bu shi	非练实不食	2
+fei lin qiu jun xing niao dao yan	非淋球菌性尿道炎	2
+fei liu jian mo zhi duo shao	飞流溅沫知多少	2
+fei meng de er shi yi chuan	非孟德尔式遗传	2
+fei pao guan	肺泡管	2
+fei pao tong qi liang	肺泡通气量	2
+fei qiao	费桥	2
+fei re bing	肺热病	2
+fei shen qi xu	肺肾气虚	2
+fei shen shen jing	腓深神经	2
+fei shi	费誓	2
+fei shi qing su	肺失清肃	2
+fei shi su zhi suo fu	非世俗之所服	2
+fei wei qi jian bi ye	非谓其见彼也	2
+fei wei you qiao mu zhi wei ye	非谓有乔木之谓也	2
+fei ya cun	飞亚村	2
+fei yan zhao shan qi niao jing	飞焰照山栖鸟惊	2
+fei yi xi er qu zhi ye	非义袭而取之也	2
+fei yong xing ruo shi	废用性弱视	2
+fei bi qi yan er bu chu ye	非闭其言而不出也	1
+fei biao fu ling zhang	飞飙拂灵帐	1
+fei bu deng yun che	飞步登云车	1
+fei bu shuo zi zhi dao	非不说子之道	1
+fei cang qi zhi er bu fa ye	非藏其知而不发也	1
+fei che kua shan gu heng hai	飞车跨山鹘横海	1
+fei cui huang jin lv	翡翠黄金缕	1
+fei cui ti jian	翡翠剔尖	1
+fei cui yu ding	翡翠鱼丁	1
+fei da she qu	飞达社区	1
+fei dao mao yan shui ying	菲岛毛眼水蝇	1
+fei de ye er ke chang jiu zhe	非德也而可长久者	1
+fei dong cui pi li	飞动摧霹雳	1
+fei dong mai kuo zhang	肺动脉扩张	1
+fei du xian zhe you shi xin ye	非独贤者有是心也	1
+fei er san	肥儿散	1
+fei er suo ji ye	非尔所及也	1
+fei fa cha feng cai chan	非法查封财产	1
+fei feng zhen	飞凤镇	1
+fei fu qi shen er fu jian ye	非伏其身而弗见也	1
+fei gai ru qin ting	飞盖入秦庭	1
+fei gou wu cha ye	非钩无察也	1
+fei gu jing	腓骨颈	1
+fei guan	费观	1
+fei gui fei ren yi qi xian	非鬼非人意其仙	1
+fei he huo lv shi	非合伙律师	1
+fei he lu	飞鹤路	1
+fei hou xing wei yan	肥厚性胃炎	1
+fei kui yang xing xiao hua bu liang	非溃疡性消化不良	1
+fei lai fei qu luo shui jia	飞来飞去落谁家	1
+fei lai shan shang qian xun ta	飞来山上千寻塔	1
+fei li quan bu yin	非醴泉不饮	1
+fei long duo ming wan	飞龙夺命丸	1
+fei long yin er shou	飞龙引二首	1
+fei luo er	菲洛尔	1
+fei ma guo ji	飞马国际	1
+fei ming sheng nian qun	飞鸣声念群	1
+fei niao mei he chu	飞鸟没何处	1
+fei nuo bei te fen san pian	非诺贝特分散片	1
+fei pang dai tao chong	肥胖带绦虫	1
+fei pao ge	肺泡隔	1
+fei pao nang	肺泡囊	1
+fei peng ge zi yuan	飞蓬各自远	1
+fei qi xu zheng	肺气虚症	1
+fei qi xu zheng	肺气虚证	1
+fei qu jun bing	肺曲菌病	1
+fei ren mo mo mo mo ren	非人磨墨墨磨人	1
+fei ru jun jia cai ping li	飞入君家彩屏里	1
+fei shi su jiang	肺失肃降	1
+fei si zhe nan ye	非死者难也	1
+fei su wei quan	非诉维权	1
+fei te yi xing gao wan yan	非特异性睾丸炎	1
+fei teng mu jing xie	飞腾暮景斜	1
+fei ti lv yun zhong	飞梯绿云中	1
+fei tu wu sheng ye	非徒无生也	1
+fei tu wu xing ye	非徒无形也	1
+fei wei xin lu tiao shu	肥尾心颅跳鼠	1
+fei wei zhi zuo chi	非为织作迟	1
+fei wu tong bu zhi	非梧桐不止	1
+fei xi zhi yin ji zhe ye	非昔之隐机者也	1
+fei xian chang jiao tong wei zhang	非现场交通违章	1
+fei xie jia zhi bao shu	非谢家之宝树	1
+fei xin cun	飞新村	1
+fei xing jian ge gui ding	飞行间隔规定	1
+fei xuan mian zhi wei ye	非轩冕之谓也	1
+fei xue shi yang hua	飞雪似杨花	1
+fei yi qi wu si xie	非以其无私邪	1
+fei yin qiu jun bing	肺隐球菌病	1
+fei yu dong hua wu	飞雨动华屋	1
+fei yun cun	飞云村	1
+fei yun dang mian hua long she	飞云当面化龙蛇	1
+fei zai bai yun duan	飞在白云端	1
+fei zhu hou er he	非诸侯而何	1
+fei zhu zhi jie	肺主治节	1
+fei bei hou zui tang na que	绯背厚嘴唐纳雀	0
+fei bi ba weng	菲比霸鹟	0
+fei bing yuan xing yu bing	非病原性鱼病	0
+fei bo deng e	非玻灯蛾	0
+fei cheng ju yi	费城锯鮨	0
+fei cui hai kui	翡翠海葵	0
+fei dao bao yuan ji feng	菲岛抱缘姬蜂	0
+fei dao bian gu xiao feng	菲岛扁股小蜂	0
+fei dao guan gong xie	菲岛关公蟹	0
+fei dao qiang shi jian feng	菲岛腔室茧蜂	0
+fei dao xiao gui ye xi	菲岛小桧叶螅	0
+fei dui chen ni hai ying	非对称拟海萤	0
+fei e zhui wei ying wu	绯额锥尾鹦鹉	0
+fei er nan te dao xun xue	费尔南特岛浔鳕	0
+fei fan gou zhi tu ha	非凡沟智兔蛤	0
+fei fan zhi tu ha	非凡智兔蛤	0
+fei hong ao bi	绯红澳鵖	0
+fei hong fu zhui wei ying wu	绯红腹锥尾鹦鹉	0
+fei hong guan jiao weng	绯红冠娇鹟	0
+fei hong guo san niao	绯红果伞鸟	0
+fei hong hou zui tang na que	绯红厚嘴唐纳雀	0
+fei hong kui li ya que	绯红奎利亚雀	0
+fei hong qu weng	绯红鸲鹟	0
+fei hun jiao sheng zhi	非混交生殖	0
+fei ji dai wen lie xi	斐济带纹鬣蜥	0
+fei ji guan zhuang lie xi	斐济冠状鬣蜥	0
+fei ji guo shi ying	斐济果实蝇	0
+fei ji hai luo	斐济海螺	0
+fei ji hui weng	斐济灰鹟	0
+fei ji ji hua yi	斐济棘花鮨	0
+fei ji jiao ping	菲济角鮃	0
+fei lei deng jiang	菲勒灯鳉	0
+fei lei si nuo long	费雷斯诺龙	0
+fei lin de shi quan luo	沸林德氏拳螺	0
+fei ling hai tu luo	绯绫海兔螺	0
+fei lv bin bi ha	菲律宾襞蛤	0
+fei lv bin duan wen zhang wei xue	菲律宾短吻长尾鳕	0
+fei lv bin fei jiao qiao xing chong	菲律宾肥角锹形虫	0
+fei lv bin hai shi xiao dai xia	菲律宾海氏小带鰕	0
+fei lv bin juan guan luo	菲律賓捲管螺	0
+fei lv bin lin qi mei diao	菲律宾鳞鳍梅鲷	0
+fei lv bin ming ying ha	菲律宾明樱蛤	0
+fei lv bin mu fu	菲律宾墓蝠	0
+fei lv bin piao yan xia hu yu	菲律宾瓢眼鰕虎鱼	0
+fei lv bin wei da yan you	菲律宾伪大眼鮋	0
+fei lv bin zhi ya xia hu yu	菲律宾枝牙鰕虎鱼	0
+fei pang ji kou xi chong	肥胖棘口吸虫	0
+fei se mao zhan hua tian niu	绯色毛毡花天牛	0
+fei sha shi ai qing ying wu	费沙氏爱情鹦鹉	0
+fei shi cha wei dai yu	菲氏叉尾带鱼	0
+fei shi man tian xing bao luo	费氏满天星宝螺	0
+fei wan ding mao shi chong meng	费弯顶毛食虫虻	0
+fei xing bai gui	鲱形白鲑	0
+fei xing bi xing shou	飞行鼻行兽	0
+fei xing hu hou	飞行狐猴	0
+fei xiu feng huang luo	緋袖鳳凰螺	0
+fei xu jing luan	非需精卵	0
+fei ye qiu hui hua ying	肥叶球喙花蝇	0
+fei yi jie nong die	匪夷捷弄蝶	0
+fei ying xie shou luo	飞蝇蟹守螺	0
+fei you xie guan chong	非游斜管虫	0
+fei zhou bai bei wu jiu	非洲白背兀鹫	0
+fei zhou ban ji ling	非洲斑鹡鸰	0
+fei zhou ce jing gui	非洲侧颈龟	0
+fei zhou ce jing gui shu	非洲侧颈龟属	0
+fei zhou cong ju shu	非洲丛鵙属	0
+fei zhou duo ji lu xi fei	非洲多棘鲈西非	0
+fei zhou huang zhao xie	非洲黄爪蝎	0
+fei zhou hui ban xiao hui die	非洲灰斑小灰蝶	0
+fei zhou hui juan ju	非洲灰鹃鵙	0
+fei zhou ju bai fen shi	非洲菊白粉虱	0
+fei zhou ju ying ji ma	非洲橘硬蓟马	0
+fei zhou lu zhu kui yu	非洲露珠盔鱼	0
+fei zhou lv xiong ba se dong	非洲绿胸八色鸫	0
+fei zhou mi ni ci wei	非洲迷你刺蝟	0
+fei zhou shi zi mao	非洲狮子猫	0
+fei zhou xiao que ying	非洲小雀鹰	0
+fei zhou ye quan shu	非洲野犬属	0
+fei zhou ye zi mao	非洲椰子猫	0
+fei zhou zhang wei xiao hui die	非洲长尾小灰蝶	0
+fei zhou zhang wei ye ying	非洲长尾夜鹰	0
+fei zhou zhang wei ying	非洲长尾鹰	0
+fei zhou zhao ze ce jing gui	非洲沼泽侧颈龟	0
+fei zhou zhi leng fang fu	非洲直棱鲂鮄	0
+fei zhou zhu que ying	非洲侏雀鹰	0

@@ -1,0 +1,244 @@
+e hua	恶化	75850
+e du	额度	52404
+e xing	恶性	36729
+e rou	鹅肉	19948
+e xin	恶心	17356
+e gan	鹅肝	13058
+e xing xun huan	恶性循环	11335
+e er duo si	鄂尔多斯	6015
+e guo	俄国	5119
+e er duo si shi	鄂尔多斯市	3673
+e han shi	饿汉式	3626
+e hai e zhou	俄亥俄州	3256
+e gan jiang	鹅肝酱	3085
+e zhou shi	鄂州市	2915
+e li	鳄梨	2797
+e lei gang zhou	俄勒冈州	1933
+e wan tan xi	扼腕叹息	1774
+e mei	峨眉	1688
+e jiao	阿胶	1602
+e yi ruan jian	恶意软件	1540
+e luo si fang kuai	俄罗斯方块	1199
+e yi zhong shang	恶意中伤	967
+e yi zhan you	恶意占有	929
+e nuo duo zi	婀娜多姿	881
+e mei shan shi	峨眉山市	738
+e han mo shi	饿汉模式	685
+e ke la he ma zhou	俄克拉何马州	640
+e luo si zu	俄罗斯族	625
+e shan	峨山	596
+e yu feng cheng	阿谀奉承	541
+e zhang tan	鹅掌坦	382
+e lie	腭裂	346
+e mei	峨嵋	314
+e ye	额叶	306
+e yu xiang jia	恶语相加	298
+e you e bao	恶有恶报	267
+e wai nei rong	额外内容	246
+e bian	峨边	241
+e xing nve yuan chong	恶性疟原虫	227
+e luo si cai	俄罗斯菜	190
+e si	扼死	183
+e xing nve ji	恶性疟疾	181
+e cheng	鄂城	172
+e er gu na shi	额尔古纳市	168
+e gu	额骨	165
+e ding dian ya	额定电压	151
+e ni	呃逆	151
+e yu feng ying	阿谀逢迎	151
+e guan man ying	恶贯满盈	148
+e yu zhong shang	恶语中伤	115
+e yu shang ren	恶语伤人	110
+e wan chang tan	扼腕长叹	106
+e yu gong yuan	鳄鱼公园	102
+e piao bian ye	饿殍遍野	94
+e shan xian	峨山县	92
+e jie fen guo	娥姐粉果	90
+e shi ka fei	俄式咖啡	78
+e shou cheng qing	额手称庆	74
+e rui cha	峨蕊茶	73
+e zhu ying xu zhan wan gan	恶竹应须斩万竿	72
+e hu	鹅湖	71
+e zuo ju zhi wen	恶作剧之吻	71
+e jiao zao	阿胶枣	68
+e guo nong nu zhi du	俄国农奴制度	66
+e han fa re	恶寒发热	62
+e kou chuang	鹅口疮	57
+e shan lu	峨山路	56
+e bu	鹅埠	55
+e pian	萼片	55
+e bing zhi	恶病质	51
+e guan bo dai	峨冠博带	50
+e tou	鹅头	49
+e shu	莪术	46
+e xing pin xue	恶性贫血	46
+e zha xing wei	讹诈行为	42
+e hu pu shi	饿虎扑食	41
+e sheng e qi	恶声恶气	38
+e yu dao	鳄鱼岛	37
+e mao da xue	鹅毛大雪	33
+e gan jiang niu pai	鹅肝酱牛排	31
+e tan ye yue	鹅潭夜月	28
+e luo si lu gui	俄罗斯陆龟	27
+e gu xiang	恶古乡	26
+e yi qian xin zui	恶意欠薪罪	26
+e ke la he ma bao zha an	俄克拉荷马爆炸案	24
+e mei ling	峨嵋岭	23
+e xing gao xue ya	恶性高血压	23
+e gu	腭骨	21
+e luo si nan bu mu yang quan	俄罗斯南部牧羊犬	21
+e mi duo xiang shi	厄密多项式	21
+e jiao dun rou	阿胶炖肉	19
+e kou xian chong bing	颚口线虫病	19
+e ni	恶逆	19
+e dou	额窦	18
+e lei zai te wu lu xiang	额勒再特乌鲁乡	18
+e cheng xian	鄂城县	17
+e bei sha tan	厄贝沙坦	14
+e cheng dun	鄂城墩	14
+e mei gao	峨眉糕	14
+e huang rou	鹅黄肉	13
+e bao zhen	峨堡镇	12
+e dou yan	额窦炎	12
+e hu tan xiang	恶虎滩乡	12
+e mei shan yue ban lun qiu	峨眉山月半轮秋	12
+e tang	鹅塘	12
+e ya na xi zu xiang	俄亚纳西族乡	12
+e bei sha tan pian	厄贝沙坦片	10
+e jiao kou fu ye	阿胶口服液	10
+e mei xian	峨眉县	10
+e shan xiang	莪山乡	10
+e wu xiang	鹅屋乡	10
+e gong ling dong zu miao zu xiang	鹅公岭侗族苗族乡	9
+e qu yang dan suan	鹅去氧胆酸	9
+e er xue liu huang jin lv	蛾儿雪柳黄金缕	8
+e keng qiao	鹅坑桥	8
+e rong	鄂绒	8
+e rong zhen	峨溶镇	8
+e xing ji tai liu	恶性畸胎瘤	8
+e bei sha tan jiao nang	厄贝沙坦胶囊	7
+e jiao bu xue kou fu ye	阿胶补血口服液	7
+e mei shan yue ge	峨眉山月歌	7
+e xing zu zhi xi bao bing	恶性组织细胞病	7
+e bian tao ti	腭扁桃体	6
+e er deng bu la ge su mu	额尔登布拉格苏木	6
+e fang	鹅房	6
+e jiao bu xue gao	阿胶补血膏	6
+e jiao ke li	阿胶颗粒	6
+e luan bi	鹅峦鼻	6
+e min he zhuo	额敏和卓	6
+e nan	俄南	6
+e wen guan cen ci	俄闻管参差	6
+e xiu gao	峨秀糕	6
+e zhen jiao wan	蛾贞胶丸	6
+e er deng ao bao ga cha	额尔登敖包嘎查	5
+e er gu na you qi	额尔古纳右旗	5
+e jiao ji zi huang tang	阿胶鸡子黄汤	5
+e lei shun zhen	额勒顺镇	5
+e wai shen	额外肾	5
+e xing gao re	恶性高热	5
+e zhou jie	鄂州街	5
+e er gu na zuo qi	额尔古纳左旗	4
+e gu	恶古	4
+e hu zhi jun zi xiao ren zai	恶乎知君子小人哉	4
+e lie xiu fu shu	腭裂修复术	4
+e mei miao nan pi	峨眉邈难匹	4
+e xian	腭腺	4
+e xing pi fu zhong liu	恶性皮肤肿瘤	4
+e yan bi he bu quan	腭咽闭合不全	4
+e dou gu zhe	额窦骨折	3
+e er	俄尔	3
+e er duo si lu jie dao	鄂尔多斯路街道	3
+e er ke ha shen ha su mu	额尔克哈什哈苏木	3
+e guan shi	鹅管石	3
+e jiao yang yin zhou	阿胶养阴粥	3
+e xing shen jing qiao liu	恶性神经鞘瘤	3
+e xing wei suo xing qiu zhen bing	恶性萎缩性丘疹病	3
+e zai qi wei min fu mu ye	恶在其为民父母也	3
+e zi zhi duo zhu ye	恶紫之夺朱也	3
+e bu shi cao	鹅不食草	2
+e duo ma xiang	俄多马乡	2
+e feng ying	鹅凤营	2
+e gan pi	鹅肝坯	2
+e jiao jiao nang	阿胶胶囊	2
+e jiao niu rou tang	阿胶牛肉汤	2
+e jiao san bao gao	阿胶三宝膏	2
+e jiao yi shou jing	阿胶益寿晶	2
+e ling wan	蛾苓丸	2
+e ling xiang	鹅岭乡	2
+e neng zhi guo jia	恶能治国家	2
+e shu you	莪术油	2
+e si chong bing	恶丝虫病	2
+e ti zhen	俄体镇	2
+e tou cun	鹅头村	2
+e xi xiang	俄西乡	2
+e xing qing guang yan	恶性青光眼	2
+e xing shi ge xi bao liu	恶性嗜铬细胞瘤	2
+e zhe gui er mei zhe jian	恶者贵而美者贱	2
+e zhi yu qi si	恶之欲其死	2
+e zuo wan tong	恶唑烷酮	2
+e e hong fen zhuang	娥娥红粉妆	1
+e er qi	鄂尔奇	1
+e he	恶核	1
+e hu bu shi zi	饿虎不食子	1
+e hu gui bing qi zuo	鹅湖归病起作	1
+e jiao bu xue ke li	阿胶补血颗粒	1
+e jiao pao teng ke li	阿胶泡腾颗粒	1
+e jiao yang xue gao	阿胶养血膏	1
+e mei cui sao yu yu tian	峨眉翠扫雨余天	1
+e nuo qu chi dong	婀娜曲池东	1
+e qing feng ding yun mo se	俄顷风定云墨色	1
+e shan jie dao	鹅山街道	1
+e sheng xiang	鄂省巷	1
+e shi ban jiang hu cai	鹅石板江湖菜	1
+e shu chun	莪术醇	1
+e wai ya	额外牙	1
+e xie dian zi	俄歇电子	1
+e xing ying yang bu liang	恶性营养不良	1
+e yu shou yang zhi xia	饿于首阳之下	1
+e zou ban jiu zhou	饿走半九州	1
+e bai hui die	婀白灰蝶	0
+e can si hao	鄂蚕四号	0
+e cha wei he zhen	鳄叉尾鹤鱵	0
+e dong ye zhu	萼洞叶蛛	0
+e gua duo er ji zhuo mu niao	厄瓜多尔姬啄木鸟	0
+e gua duo er xiu liu	厄瓜多尔鸺鹠	0
+e gua duo er yi ju	厄瓜多尔蚁鵙	0
+e huo ci ke bing du fu yu	鄂霍次克冰杜父鱼	0
+e huo ci ke duan wen shi zi	鄂霍次克短吻狮子	0
+e huo ci ke yin ji du fu	鄂霍茨克隐棘杜父	0
+e jia gou	额颊沟	0
+e lei gang fa luo	俄勒冈法螺	0
+e lei gang ye chun yu	俄勒冈叶唇鱼	0
+e lei gang zhou mei zhou shi	俄勒冈州美洲狮	0
+e luo si ou zhou lai ka quan	俄罗斯欧洲莱卡犬	0
+e mao yuan xian chong	鹅毛圆线虫	0
+e mei ci fang pi	峨嵋刺鰟鮍	0
+e mei da nong die	峨眉大弄蝶	0
+e mei dong deng e	峨眉东灯蛾	0
+e mei fu lu huang	峨眉腹露蝗	0
+e mei hua xi xie	峨嵋华溪蟹	0
+e mei hui zhou e	峨嵋廻舟蛾	0
+e mei jiong zhou e	峨眉迥舟蛾	0
+e mei lu feng	峨眉芦蜂	0
+e mei mao yan du e	峨眉毛眼毒蛾	0
+e mei shan wei juan ye mian ya	峨眉山伪卷叶绵蚜	0
+e mei wei huang ban feng	峨眉伟黄斑蜂	0
+e mei xiao beng huang	峨眉小蹦蝗	0
+e mei xiao hua tian niu	峨眉小花天牛	0
+e mei xiao li luo	峨眉小丽螺	0
+e mei xin li mang chun	峨眉新丽盲蝽	0
+e mei yi shi gang zhong	峨眉异饰肛螽	0
+e mei yu	峨眉鱊	0
+e mei zhan ti chong	峨眉粘体虫	0
+e mei zhang bing jian feng	峨眉长柄茧蜂	0
+e meng shen yi long	噩梦神翼龙	0
+e mo bian wei ye xi	恶魔扁尾叶蜥	0
+e mo ye wei bi hu	恶魔叶尾壁虎	0
+e tuo ke niao	鄂托克鸟	0
+e wai jian jia gu	额外肩胛骨	0
+e wei dong wu men	颚胃动物门	0
+e xie shou luo	鹗蟹守螺	0
+e xing cha wei he zhen	鳄形叉尾鹤鱵	0
+e xing duan ti she man	鳄形短体蛇鳗	0
+e xing xi piao la chan	恶性席瓢蜡蝉	0

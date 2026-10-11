@@ -1,0 +1,494 @@
+mao yi	贸易	209462
+mao tai	茅台	138697
+mao ze dong	毛泽东	61678
+mao mao chong	毛毛虫	48631
+mao lv	毛驴	32969
+mao yi bi lei	贸易壁垒	30888
+mao hao	冒号	27614
+mao ding	铆钉	18008
+mao di chong	毛滴虫	16392
+mao pao pai xu	冒泡排序	13601
+mao an ying	毛岸英	11291
+mao ke dong wu	猫科动物	9462
+mao niu rou	牦牛肉	6035
+mao dian	锚点	5485
+mao du	毛肚	4606
+mao xie	毛蟹	4343
+mao er duo	猫耳朵	3978
+mao fa	毛发	3967
+mao ming shi	茂名市	3651
+mao tao	毛桃	3489
+mao xi xue guan	毛细血管	2763
+mao xue wang	毛血旺	2745
+mao yu	猫鱼	2595
+mao ming ding ti	冒名顶替	2314
+mao dun	茅盾	2103
+mao gu song ran	毛骨悚然	1783
+mao sui zi jian	毛遂自荐	1304
+mao pao fa	冒泡法	1221
+mao tian xia zhi da bu wei	冒天下之大不韪	1052
+mao pao pai xu fa	冒泡排序法	906
+mao mei	毛霉	803
+mao nang	毛囊	800
+mao du huo guo	毛肚火锅	729
+mao shan	茅山	723
+mao guan lu	毛冠鹿	701
+mao ding	锚定	664
+mao se dun kai	茅塞顿开	648
+mao chi	毛翅	628
+mao pao suan fa	冒泡算法	597
+mao bo li xiao guo	毛玻璃效果	582
+mao zhao cao	猫爪草	555
+mao shu	毛叔	531
+mao ye bai huo	茂业百货	509
+mao yan ce shi	冒烟测试	499
+mao fang chang	毛纺厂	489
+mao he shen li	貌合神离	487
+mao pu qi che	猫扑汽车	481
+mao a min	毛阿敏	478
+mao nan	茂南	462
+mao yi sheng	茅以升	428
+mao cai	冒菜	420
+mao jiang yan fu	毛将焉附	392
+mao niu mao	牦牛毛	391
+mao lin	茂林	382
+mao jia hong shao rou	毛家红烧肉	372
+mao ping	茅坪	358
+mao shi hong shao rou	毛氏红烧肉	355
+mao di chu rang	毛地出让	293
+mao niu huo guo	牦牛火锅	286
+mao xi xue guan kuo zhang	毛细血管扩张	271
+mao ning	毛宁	268
+mao ming shi mao nan qu	茂名市茂南区	261
+mao lin xiu zhu	茂林修竹	246
+mao yan cao	猫眼草	228
+mao ji	毛集	221
+mao jia bu	茅家埠	220
+mao gang	茂港	208
+mao ze min	毛泽民	206
+mao ze dong ji	毛泽东集	204
+mao nang yan	毛囊炎	202
+mao cao	毛糙	198
+mao gang	茅岗	190
+mao ping cun	毛坪村	190
+mao xian gou	毛线沟	188
+mao jia wan	毛家湾	180
+mao ling	茂陵	179
+mao shou mao jiao	毛手毛脚	175
+mao ling cun kuan	冒领存款	172
+mao xi xian chong bing	毛细线虫病	158
+mao xi guan	毛细管	154
+mao yi xue xiao	贸易学校	142
+mao jian	茅箭	141
+mao tai lu	茅台路	141
+mao qiu	毛球	132
+mao ge lao ya tang	毛哥老鸭汤	131
+mao ming nan lu	茂名南路	129
+mao mao mian	毛毛面	126
+mao kong	猫空	123
+mao liang	茅粮	120
+mao feng xun shi yu	毛峰熏鲥鱼	114
+mao ming lu	茂名路	113
+mao nan zu	毛南族	104
+mao zhuang	毛庄	104
+mao yu shi	茅于轼	97
+mao er mian	猫儿面	93
+mao ba	毛坝	87
+mao ge ping	毛戈平	87
+mao ren feng	毛人凤	80
+mao di chong shu	毛滴虫属	77
+mao jia qiao	毛家桥	75
+mao you	猫又	72
+mao zai	猫仔	71
+mao wei yu	矛尾鱼	67
+mao jia cun	毛家村	66
+mao gen	毛根	63
+mao er shi	猫儿石	60
+mao er hu tong	帽儿胡同	56
+mao fa yi zhi	毛发移植	56
+mao tou ying die	猫头鹰蝶	49
+mao tian	毛田	47
+mao yuan yi	茅元仪	45
+mao mao chong mian bao	毛毛虫面包	44
+mao xi zhi qi guan yan	毛细支气管炎	44
+mao ya ke	猫亚科	44
+mao zui lu ji	毛嘴卤鸡	44
+mao jie zi fei chang fen	冒节子肥肠粉	40
+mao jing wen	毛璟文	40
+mao tou fu	矛头蝮	40
+mao qi	毛起	37
+mao xi	茅溪	37
+mao er gai	毛儿盖	33
+mao ling bo wu guan	茂陵博物馆	32
+mao ze dong si xiang gai lun	毛泽东思想概论	32
+mao wei hai	茅尾海	30
+mao li qiu si dao	毛里求斯岛	29
+mao chi mu	毛翅目	27
+mao jiao kuang	毛脚鵟	26
+mao zhua bing	猫抓病	26
+mao an	茅庵	25
+mao mao tu	猫猫兔	25
+mao shan cun	茅山村	24
+mao pang xie	毛螃蟹	23
+mao qi	猫起	23
+mao shan	帽山	23
+mao sui	毛遂	23
+mao wei mu	猫尾木	23
+mao jia wan hu tong	毛家湾胡同	21
+mao jia xiang	茂家乡	21
+mao jing xiang	毛井乡	20
+mao mu sai dao	茂木赛道	20
+mao cao ping	茅草坪	19
+mao xi guan dian yong	毛细管电泳	19
+mao zi shui	毛子水	19
+mao pi jiang	冒辟疆	18
+mao run zhi	毛润之	18
+mao xian jie dai	冒险借贷	18
+mao dong	茅东	17
+mao jia ping	毛家坪	17
+mao tao chong	猫绦虫	17
+mao bi dai xiong	毛鼻袋熊	16
+mao tian	茅田	16
+mao xing	昴星	16
+mao zhu ye man	毛竹叶螨	16
+mao bi yu	毛躄鱼	15
+mao guo hua	毛国华	15
+mao lu	茅麓	15
+mao she	帽蛇	15
+mao chang	毛厂	14
+mao li ta ni ya	毛利塔尼亚	14
+mao pi pi	冒皮皮	14
+mao ru tou	毛乳头	14
+mao wei fu xia hu yu	矛尾复虾虎鱼	14
+mao xi xue guan liu	毛细血管瘤	14
+mao jia yu	毛家峪	13
+mao sen	毛森	13
+mao zhi cheng	毛志成	13
+mao feng gong yuan	帽峰公园	12
+mao ping zhen	毛坪镇	12
+mao ri xiang	毛日乡	12
+mao zhi	毛痣	12
+mao cang xiang	毛藏乡	11
+mao jie	猫街	11
+mao rui si mo	毛瑞斯莫	11
+mao shan dao	茅山道	11
+mao xi	毛西	11
+mao xian ya	冒险鸭	11
+mao yi kai fa qu	贸易开发区	11
+mao liang	毛良	10
+mao zhu yuan	毛竹园	10
+mao jia zhuang	毛家庄	9
+mao zhu ling	茅竹岭	9
+mao jia qiao cun	毛家桥村	8
+mao nan kai fa qu	茂南开发区	8
+mao xing shuang qiang xi chong	矛形双腔吸虫	8
+mao xing ya mu	猫型亚目	8
+mao cao shan	茅草山	7
+mao ji	毛纪	7
+mao jian qiang	猫坚强	7
+mao qiao	猫桥	7
+mao shan cun	毛山村	7
+mao shan pang xie	茅山螃蟹	7
+mao tiao lu	毛条路	7
+mao ying zi	毛茔子	7
+mao zhuang jian mo	帽状腱膜	7
+mao fa yi zhi shu	毛发移植术	6
+mao jin	毛晋	6
+mao mei jun bing	毛霉菌病	6
+mao po cun	茅坡村	6
+mao tun ci shu ke	毛臀刺鼠科	6
+mao tuo	毛脱	6
+mao xi xue guan kuo zhang zheng	毛细血管扩张症	6
+mao yuan cun	茅园村	6
+mao zu bang jiao huang	毛足棒角蝗	6
+mao er shan xiao ni	猫儿山小鲵	5
+mao gou dong	毛狗洞	5
+mao guan ying cun	毛官营村	5
+mao jia ying	毛家营	5
+mao jie	毛玠	5
+mao li yuan jiu	毛利元就	5
+mao mei bing	毛霉病	5
+mao wu	毛屋	5
+mao yan bao xiang	毛演堡乡	5
+mao yang	茅阳	5
+mao cuo	毛厝	4
+mao dong qing	毛冬青	4
+mao dou jian chou dou fu	毛豆煎臭豆腐	4
+mao gen er	毛根儿	4
+mao gong er bu xin fu	貌恭而不心服	4
+mao guang sheng	冒广生	4
+mao mao gou	猫猫沟	4
+mao sha ke	猫鲨科	4
+mao wan cun	毛湾村	4
+mao ye bian dou	毛野扁豆	4
+mao cang zhu	茅苍术	3
+mao cuo cun	毛厝村	3
+mao dong qing pian	毛冬青片	3
+mao guo yun xiang jian	毛果芸香碱	3
+mao jia xiang	冒家巷	3
+mao jian yu	茅尖鱼	3
+mao jiang sen	毛江森	3
+mao jiao huo la	毛椒火辣	3
+mao lin ju	茂林居	3
+mao lv zi	毛驴子	3
+mao peng jie	茅棚街	3
+mao pu	茅埔	3
+mao tui ye ying	毛腿夜鹰	3
+mao wu si wu jian	茅屋四五间	3
+mao xia cun	茂霞村	3
+mao xing jian dai tao chong	矛形剑带绦虫	3
+mao xu cao	猫须草	3
+mao zhou zhen	鄚州镇	3
+mao dai jun	毛岱钧	2
+mao dou jie	毛豆结	2
+mao hong bin	毛鸿宾	2
+mao huai	毛怀	2
+mao kun	茅坤	2
+mao lin ju she qu	茂林居社区	2
+mao mao nang yan	猫毛囊炎	2
+mao ming shi shi xia qu	茂名市市辖区	2
+mao ming wu dun gui	茂名无盾龟	2
+mao shu	茅鼠	2
+mao tou ying huan die	猫头鹰环蝶	2
+mao xian fa la li	毛线法拉利	2
+mao xiang	冒襄	2
+mao yu heng	毛昱衡	2
+mao ban zi tian niu	帽斑紫天牛	1
+mao cheng	毛澄	1
+mao cheng ji	毛承基	1
+mao ci shu yi shi	茅茨疏易湿	1
+mao di chong bing	毛滴虫病	1
+mao dong qing jia su	毛冬青甲素	1
+mao dong qing zhu she ye	毛冬青注射液	1
+mao fa hong kang zhen	毛发红糠疹	1
+mao fa shang pi liu	毛发上皮瘤	1
+mao fang xin cun	毛纺新村	1
+mao guan lu shu	毛冠鹿属	1
+mao guo yun xiang jian di yan ye	毛果芸香碱滴眼液	1
+mao he zi	毛诃子	1
+mao ji ke	毛际可	1
+mao jia dian cun	毛家店村	1
+mao jia zao zhen	毛家皂镇	1
+mao jing ba xiang	茅荆坝乡	1
+mao ke yi yu feng han	毛可以御风寒	1
+mao kou bu yi zu miao zu xiang	毛口布依族苗族乡	1
+mao li cun	茅栗村	1
+mao li hui yuan	毛利辉元	1
+mao li tan yuan ren	毛里坦猿人	1
+mao lin cun	茅林村	1
+mao ling liu lang qiu feng ke	茂陵刘郎秋风客	1
+mao lu qi qiang	茅麓旗枪	1
+mao mi she ying shi	猫咪摄影师	1
+mao mu zhi liu	毛母质瘤	1
+mao nang chong bing	毛囊虫病	1
+mao nang jiao hua bing	毛囊角化病	1
+mao pi bei mu	毛皮贝目	1
+mao piao chong	毛瓢虫	1
+mao ren shen	猫人参	1
+mao shan dong dao	茅山东道	1
+mao shan dong xiang	毛山东乡	1
+mao she	毛舌	1
+mao shi shi fen kong fu bei	卯时十分空腹杯	1
+mao sun quan ying	毛笋泉蝇	1
+mao tai hun yu long	茅台混鱼龙	1
+mao tang shi sun xi	茅堂石笋西	1
+mao tiao chang lu	毛条厂路	1
+mao ting	茂亭	1
+mao ting cun	茂亭村	1
+mao tou hua se lao zan qu	貌偷花色老暂去	1
+mao tou xi mi jian tou chui	矛头淅米剑头炊	1
+mao tui yu xiao	毛腿鱼鸮	1
+mao wei fan che tun	矛尾翻车魨	1
+mao wei fu xia hu yu	矛尾复鰕虎鱼	1
+mao wu cang zhou yi jiu qi	茅屋沧洲一酒旗	1
+mao xi guan dian yong fa	毛细管电泳法	1
+mao xi lin ba guan	毛细淋巴管	1
+mao xin jia	毛薪甲	1
+mao xue sa ping wu	毛血洒平芜	1
+mao yan xiang dui zuo zhong ri	茅檐相对坐终日	1
+mao yan yan li yu shuang shuang	茅檐烟里语双双	1
+mao yan zhang sao jing wu tai	茅檐长扫静无苔	1
+mao ye ding xiang ye	毛野丁香叶	1
+mao yi	毛扆	1
+mao yi han	毛依罕	1
+mao yi tong	贸易通	1
+mao zhan tai	毛毡苔	1
+mao zhu hei ye feng	毛竹黑叶蜂	1
+mao zhuang ti	毛状体	1
+mao ban huan wen die	猫斑环纹蝶	0
+mao ban ke chong	毛板壳虫	0
+mao ban luo ban ji ying	毛斑裸板寄蝇	0
+mao ban yu xiao	矛斑渔鸮	0
+mao bi yu	毛壁鱼	0
+mao can guan pan chong	毛参管盘虫	0
+mao can ke	锚参科	0
+mao cao fang yin xing xie	毛糙仿银杏蟹	0
+mao chi mu mang chun	毛翅木盲蝽	0
+mao chu jian fu jin xiao feng	毛触尖腹金小蜂	0
+mao cu tian niu	毛簇天牛	0
+mao dao zhu	锚盗蛛	0
+mao du fu yu	毛杜父鱼	0
+mao duan wei ji ying	毛短尾寄蝇	0
+mao duan xiao mao piao chong	矛端小毛瓢虫	0
+mao e jian e xie	毛额尖额蟹	0
+mao e ken yuan	毛萼肯蚖	0
+mao e qiu xiao ye jia	毛额球肖叶甲	0
+mao fa zhuo mu niao	毛发啄木鸟	0
+mao fang tu zha	茅房土蚱	0
+mao fu di zhong ying	毛跗地种蝇	0
+mao fu jiao xiong xiao ye jia	毛腹角胸肖叶甲	0
+mao fu ke bing jin xiao feng	矛腹刻柄金小蜂	0
+mao gong jiao chan	毛弓角蝉	0
+mao gou zhi huan chong	锚钩指环虫	0
+mao gu gou tun ye jia	毛股沟臀叶甲	0
+mao han ke	帽蚶科	0
+mao he an kang	毛颌鮟鱇	0
+mao huan jia die	茂环蛱蝶	0
+mao huan jia die	矛环蛱蝶	0
+mao huang ban qing bu jia	毛黄斑青步甲	0
+mao hui bian chun	毛喙扁蝽	0
+mao jian fu can	毛肩浮蚕	0
+mao jiao bao chi tian niu	毛角薄翅天牛	0
+mao jiao bi feng	毛角壁蜂	0
+mao jiao chan	锚角蝉	0
+mao jiao dou yan jing	毛角豆芫菁	0
+mao jiao gou tun xiao ye jia	毛角沟臀肖叶甲	0
+mao jiao jian geng tiao xiao feng	毛角尖梗跳小蜂	0
+mao jiao liang tou wu ge	毛脚两头乌鸽	0
+mao jiao xia mang chun	毛角狭盲蝽	0
+mao jiao ying ha	矛角樱蛤	0
+mao jiao zhang mang chun	毛角长盲蝽	0
+mao jing ban long shi	毛茎斑龙虱	0
+mao jing di zhong ying	毛胫地种蝇	0
+mao jing die deng e	毛胫蝶灯蛾	0
+mao jing xiao hu tian niu	毛胫小虎天牛	0
+mao jing ye e	毛胫夜蛾	0
+mao jing zhi huan chong	帽茎指环虫	0
+mao juan ye zhu	猫卷叶蛛	0
+mao ke dong wu jian jie	猫科动物简介	0
+mao la luo ma na la zhu	茂拉罗马纳拉猪	0
+mao li qiu si fen ge	毛里求斯粉鸽	0
+mao li qiu si jiao fang fu	毛里求斯角鲂鮄	0
+mao li qiu si juan ju	毛里求斯鹃鵙	0
+mao li qiu si le yuan gou xia	毛里求斯乐园钩虾	0
+mao li qiu si si long tou yu	毛里求斯丝隆头鱼	0
+mao li qiu si ye cang lu	毛里裘斯夜苍鹭	0
+mao li ta li ya chan chu	毛里塔里亚蟾蜍	0
+mao li ta ni ya duan jia man	毛里塔尼亚短颊鳗	0
+mao liang xiao ye jia	毛亮肖叶甲	0
+mao ling shui mu	帽铃水母	0
+mao luo	矛螺	0
+mao mai san ci jiao chan	毛脉三刺角蝉	0
+mao mang xie	毛盲蟹	0
+mao mao chong	矛毛虫	0
+mao mao chong shu	矛毛虫属	0
+mao mao gou tou	毛毛狗头	0
+mao mei deng e	毛玫灯蛾	0
+mao mian ying	猫面鹰	0
+mao mo mu ye e	毛魔目夜蛾	0
+mao mu da can e	猫目大蚕蛾	0
+mao mu ye e	毛目夜蛾	0
+mao ni long tou yu	毛拟隆头鱼	0
+mao niu fa luo	毛扭法螺	0
+mao nong die	毛弄蝶	0
+mao pan shan mei hua	毛盘山梅花	0
+mao ping fen ying	茂坪粉蝇	0
+mao ping zi he ming	茅坪紫褐螟	0
+mao pu bing tuo wu meng	茅埔柄驼舞虻	0
+mao qian gong bei yi	毛钳弓背蚁	0
+mao qian xian luo	毛嵌线螺	0
+mao qie ye feng	冒切叶蜂	0
+mao qing bu jia	毛青步甲	0
+mao quan mo fen ying	毛颧墨粉蝇	0
+mao ri zao gou xia	毛日藻钩虾	0
+mao ru han jia man	毛乳汉甲螨	0
+mao sai pei li ying	毛腮陪丽蝇	0
+mao she hai ju ha	猫舌海菊蛤	0
+mao she ying ha	猫舌樱蛤	0
+mao shi ao yuan jin xiao feng	毛室凹缘金小蜂	0
+mao shi chong meng ya ke	毛食虫虻亚科	0
+mao shi qiang shi jian feng	毛室腔室茧蜂	0
+mao shi yuan huan yin	毛氏远环蚓	0
+mao shou yuan tun	毛首圆鲀	0
+mao shou zhao chao xie	毛手招潮蟹	0
+mao shu yuan xing ying	毛束圆星萤	0
+mao ta	锚鳎	0
+mao tou li ti xing chong	毛头梨体星虫	0
+mao tou sao ke	锚头鳋科	0
+mao tu nang wei you wei	毛突囊胃鼬鳚	0
+mao tui er ye ying	毛腿耳夜鹰	0
+mao tui xiao ba weng	毛腿小霸鹟	0
+mao tui yu xiao	毛腿渔鴞	0
+mao wei di zhong ying	毛尾地种蝇	0
+mao wei feng niao	矛尾蜂鸟	0
+mao wei xia hu	矛尾鰕虎	0
+mao wei xia hu yu	矛尾鰕虎鱼	0
+mao wei ya ke	毛猬亚科	0
+mao wei zhun tuo wu meng	毛尾准驼舞虻	0
+mao wei zu chong	毛尾足虫	0
+mao wen bai yuan hu tian niu	锚纹白缘虎天牛	0
+mao wen chi e	毛纹尺蛾	0
+mao wen dai xiong shu	毛吻袋熊属	0
+mao wen du juan	茂汶杜鹃	0
+mao wen e	锚纹蛾	0
+mao wen e ke	锚纹蛾科	0
+mao wen e zong ke	锚纹蛾总科	0
+mao wen hai long	矛吻海龙	0
+mao wen hu jia chong	锚纹虎甲虫	0
+mao wen piao chong	锚纹瓢虫	0
+mao wen qiang wen xue	矛吻腔吻鳕	0
+mao wen she jing gui	矛吻蛇颈龟	0
+mao wen yun ban ye ming	矛纹云斑野螟	0
+mao xiao he hai long	毛小颌海龙	0
+mao xin jia ke	毛薪甲科	0
+mao xing ao si te xian chong	矛形奥斯特线虫	0
+mao xing bai xi	矛形柏螅	0
+mao xing bao zhu	锚形豹蛛	0
+mao xing e luo	矛形峨螺	0
+mao xing juan guan luo	矛形卷管螺	0
+mao xing qiang shui zao	帽形枪水蚤	0
+mao xing shi rou lei	猫形食肉类	0
+mao xing suo zi xie	矛形梭子蟹	0
+mao xing wen xiong zhao	矛形纹胸鮡	0
+mao xing yan ci xie	茅形岩瓷蟹	0
+mao xing ying zhao xia	锚形鹰爪虾	0
+mao xing zhen zhe shui zao	帽形真哲水蚤	0
+mao xiong duan e zhi ying	毛胸短额植蝇	0
+mao xiong ju tian niu	毛胸锯天牛	0
+mao xiong qing bu jia	毛胸青步甲	0
+mao xiong zhi sai zhang chun	毛胸直腮长蝽	0
+mao xu hu ma tian niu	毛须胡麻天牛	0
+mao yan chi e	猫眼尺蛾	0
+mao yan du e	毛眼毒蛾	0
+mao yan hui die	毛眼灰蝶	0
+mao yan liang ye hua ying	毛眼亮叶花蝇	0
+mao yan rong luo	猫眼蝾螺	0
+mao ye gu cao	毛野古草	0
+mao ye ping zhu e	毛叶平祝蛾	0
+mao yu	矛鱊	0
+mao yu luo	貌芋螺	0
+mao yuan ci ma lu	毛圆刺马陆	0
+mao yuan mang chun	毛原盲蝽	0
+mao yuan shan xia	毛缘扇虾	0
+mao yuan yan hua tian niu	毛圆眼花天牛	0
+mao yuan zhu	毛圆蛛	0
+mao zhao chao xie	毛招潮蟹	0
+mao zhao mu li	猫爪牡蛎	0
+mao zhen zi zhang chi juan e	毛榛子长翅卷蛾	0
+mao zhi juan jia man	毛直卷甲螨	0
+mao zhou e	毛舟蛾	0
+mao zhuang kuan xiong zhu	帽状宽胸蛛	0
+mao zhuang lin ke chong	矛状鳞壳虫	0
+mao zhuang mang guo zhu	矛状芒果蛛	0
+mao zhuang mao shou chong	帽状锚首虫	0
+mao zhuang mei xia hu yu	矛状美鰕虎鱼	0
+mao zhuang ni ping ya xia hu yu	矛状拟平牙鰕虎鱼	0
+mao zhuang xi zhu	帽状隙蛛	0
+mao zhui yuan chun	毛锥缘蝽	0
+mao zi guang yan chong	毛籽光眼虫	0
+mao zong shi fu ji ying	毛鬃饰腹寄蝇	0
+mao zu gui xie	毛足鬼蟹	0
+mao zu ji ying	毛足棘蝇	0
+mao zu ni hou mang chun	毛足拟厚盲蝽	0
+mao zu wu ying	毛足污蝇	0
+mao zu yuan zhou xie	毛足圆轴蟹	0

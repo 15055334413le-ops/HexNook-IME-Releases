@@ -1,0 +1,520 @@
+gen ai nong gan jun	根癌农杆菌	0
+gen an	根岸	0
+gen an ai	根岸爱	0
+gen an che zhan	根岸车站	0
+gen an chen sheng	根岸辰升	0
+gen an cheng yi	根岸诚一	0
+gen an fan ying	根岸反应	0
+gen an hong	根岸宏	0
+gen an hong	根岸弘	0
+gen an jing zi	根岸京子	0
+gen an lang	根岸朗	0
+gen an long	根岸隆	0
+gen an ou he fan ying	根岸耦合反应	0
+gen an ou lian fan ying	根岸偶联反应	0
+gen an tai shu	根岸泰树	0
+gen an tu jiao	根岸兔角	0
+gen an tuo zai	根岸拓哉	0
+gen an wan	根岸湾	0
+gen an xian	根岸线	0
+gen an ying yi	根岸英一	0
+gen an zhan	根岸站	0
+gen bao dian pao	根宝店泡	0
+gen bao zu qiu ji di	根宝足球基地	0
+gen bei hai mian	根杯海绵	0
+gen bei xian	根北线	0
+gen ben bo	根本博	0
+gen ben che zhan	根本车站	0
+gen ben chun mei	根本春美	0
+gen ben de ai	根本的爱	0
+gen ben fa	根本法	0
+gen ben fan nao	根本烦恼	0
+gen ben fen lie	根本分裂	0
+gen ben fo jiao	根本佛教	0
+gen ben gui zi	根本圭子	0
+gen ben ji ben quan	根本基本权	0
+gen ben jiang	根本匠	0
+gen ben jing dian	根本经典	0
+gen ben jing li	根本京里	0
+gen ben liu feng	根本流风	0
+gen ben lu fu	根本陆夫	0
+gen ben mei he dai	根本美鹤代	0
+gen ben ming hong	根本明宏	0
+gen ben qi bao zi	根本七保子	0
+gen ben qing mei	根本晴美	0
+gen ben shang zuo bu	根本上座部	0
+gen ben shi	根本识	0
+gen ben shuo yi qie you bu	根本说一切有部	0
+gen ben shuo yi qie you bu pi nai ye po seng shi	根本说一切有部毗奈耶破僧事	0
+gen ben xiang hui	根本香绘	0
+gen ben you feng	根本悠枫	0
+gen ben yuan yin	根本原因	0
+gen ben zhan	根本站	0
+gen ben zhi	根本凪	0
+gen biao he	根标河	0
+gen bing niu gan jun	根柄牛肝菌	0
+gen bo mu	根伯姆	0
+gen bu	根部	0
+gen bu	艮部	0
+gen bu di	根布蒂	0
+gen bu li	根布利	0
+gen cai	根菜	0
+gen cen	根岑	0
+gen ceng gu fen qun	根曾古坟群	0
+gen cheng	根城	0
+gen chi yu shu	根齿鱼属	0
+gen chong wen mei	根虫瘟霉	0
+gen chu hong jing tian	根出红景天	0
+gen chu ji sui hui zhi yan ji hua	根除脊髓灰质炎计划	0
+gen chu xiao er ma bi ji hua	根除小儿麻痺计划	0
+gen chuan tai di	根钏台地	0
+gen chuan zhu mei shu	根串珠霉属	0
+gen chuang kou	根窗口	0
+gen ci	根茨	0
+gen ci	根刺	0
+gen ci ba he he	根茨巴赫河	0
+gen ci ge jun shu	根刺革菌属	0
+gen ci ke	根茨科	0
+gen ci lu si kao	根茨鲁斯考	0
+gen ci qu	根茨区	0
+gen ci she mai jun shu	根刺射脉菌属	0
+gen ci wa shu	跟刺蛙属	0
+gen cuo fu te	根措夫特	0
+gen da zi zi yi qi zuo ba	跟大姊姊一起做吧	0
+gen da zong he zheng	根达综合症	0
+gen dao bie zai jian	跟道别再见	0
+gen de	根德	0
+gen de bo li	根德伯里	0
+gen de da xue	根德大学	0
+gen de dao	根德道	0
+gen de ge he	根德格河	0
+gen de gong jue	根德公爵	0
+gen de jing gen	根德京根	0
+gen de jun	根德郡	0
+gen de mi gao wang fei	根德米高王妃	0
+gen de pan bie shi	根的判别式	0
+gen de quan	哏德全	0
+gen de ti yu chang	根德体育场	0
+gen de ying zi xiang	根德营子乡	0
+gen deng	根登	0
+gen deng peng cuo	根登彭措	0
+gen di yao	根地咬	0
+gen di yao xian	根地咬县	0
+gen dong jian hua suan shu	跟董建华算数	0
+gen du jian	根度简	0
+gen du wa wu pa qi la	根杜瓦乌帕齐拉	0
+gen dun	根惇	0
+gen dun	根敦	0
+gen dun dan zeng nuo er bu	根敦丹增诺尔布	0
+gen dun dan zeng nuo er bu	根顿丹增诺尔布	0
+gen dun jia cuo	根敦嘉措	0
+gen dun peng cuo	根敦彭措	0
+gen dun qiong pei	根敦琼培	0
+gen dun qu ji ni ma	根敦曲吉尼玛	0
+gen dun que ji ni ma	根敦确吉尼玛	0
+gen dun qun pei	根敦群培	0
+gen dun zhu	根敦主	0
+gen dun zhu ba	根敦朱巴	0
+gen dun zhu ba	根敦珠巴	0
+gen fang	亘方	0
+gen fen cha bing bian	根分叉病变	0
+gen feng	艮峰	0
+gen fu	根付	0
+gen fu ba he he	根夫巴赫河	0
+gen fu bing	根腐病	0
+gen fu chuan che zhan	根府川车站	0
+gen fu chuan zhan	根府川站	0
+gen fu er he	根弗尔河	0
+gen fu he ti	根复合体	0
+gen fu jia	根富岬	0
+gen fu wu qi	根服务器	0
+gen fu xian chong	根腐线虫	0
+gen ga	根呷	0
+gen gai	根盖	0
+gen gai he	根盖河	0
+gen ge	根格	0
+gen ge de li	根戈德里	0
+gen gen ba he	根根巴赫	0
+gen gu mei zhi zi	根谷美智子	0
+gen gua	艮瓜	0
+gen gua	艮卦	0
+gen guan	根管	0
+gen guan	根冠	0
+gen guan chong shu	根管虫属	0
+gen guan xi chu she man	根冠细锄蛇鳗	0
+gen guan zao ke	根管藻科	0
+gen guan zao mu	根管藻目	0
+gen guan zao shu	根管藻属	0
+gen guan zhi liao	根管治疗	0
+gen gui ji	根轨迹	0
+gen gui ji fa	根轨迹法	0
+gen gui ji tu	根轨迹图	0
+gen guo	根国	0
+gen hai mu	根海姆	0
+gen han	哏罕	0
+gen hao	根号	0
+gen hao wu	根号五	0
+gen he	根河	0
+gen he lin ye ju	根河林业局	0
+gen he shi	根河市	0
+gen he xi shu de guan xi	根和系数的关系	0
+gen he zhan	根河站	0
+gen hua tai cao	根花苔草	0
+gen huang zao mu	根黄藻目	0
+gen ji	根基	0
+gen ji	根机	0
+gen ji	根际	0
+gen ji	跟机	0
+gen ji	跟集	0
+gen ji ao wa xiang	根吉奥瓦乡	0
+gen ji ceng	根际层	0
+gen ji kuang	跟迹狂	0
+gen ji sheng ke	根寄生科	0
+gen ji zhu yi	根基主义	0
+gen jia kai de	根加凯德	0
+gen jia mu	根贾姆	0
+gen jia mu xian	根贾姆县	0
+gen jia ne ge er	根加讷格尔	0
+gen jia wo di	根加沃蒂	0
+gen jian	跟腱	0
+gen jian hua nang yan	跟腱滑囊炎	0
+gen jiao	根脚	0
+gen jie dian	根节点	0
+gen jie dun de wa la	根杰敦德瓦拉	0
+gen jie lan shu	根节兰属	0
+gen jie xian chong	根结线虫	0
+gen jie yi sa wa yi hao	根杰伊萨瓦伊号	0
+gen jin	根津	0
+gen jin che zhan	根津车站	0
+gen jin mei shu guan	根津美术馆	0
+gen jin shen she	根津神社	0
+gen jin zao mu	根金藻目	0
+gen jin zhan	根津站	0
+gen jing	根茎	0
+gen jing biao zhun ju li	根井标准距离	0
+gen jing bing cao	根茎冰草	0
+gen jing lei	根茎类	0
+gen jing lei shu cai	根茎类蔬菜	0
+gen jing ma xian hao	根茎马先蒿	0
+gen jing man long dan	根茎蔓龙胆	0
+gen jing shui zhu ye	根茎水竹叶	0
+gen jing song cao	根茎嵩草	0
+gen jing xing qin	根井行亲	0
+gen jing zheng li	根井正利	0
+gen ju chu sheng di fa	根据出生地法	0
+gen ju di	根据地	0
+gen ju qi quan	根据妻权	0
+gen ju xue tong fa	根据血统法	0
+gen jue chi huo an	根绝赤祸案	0
+gen ke	根克	0
+gen ke er he	根克尔河	0
+gen ke jing ji ju le bu	根克竞技俱乐部	0
+gen ke lei bi li ji	根克勒比利吉	0
+gen ke zu qiu ju le bu	根克足球俱乐部	0
+gen kou shui mu ke	根口水母科	0
+gen kou shui mu mu	根口水母目	0
+gen la xian	根拉县	0
+gen lai si	根来寺	0
+gen lai zhong	根来众	0
+gen lai zu	根来组	0
+gen lan	根兰	0
+gen li che zhan	根笠车站	0
+gen li che zhan	亘理车站	0
+gen li jun	亘理郡	0
+gen li shu	根利殊	0
+gen li ting	亘理町	0
+gen li ting	亘里町	0
+gen li yi da shi	亘理伊达氏	0
+gen li yuan zong	亘理元宗	0
+gen li zhan	根笠站	0
+gen li zhan	亘理站	0
+gen li zhong zong	亘理重宗	0
+gen li zi	根离子	0
+gen liu gan jun shu	根瘤杆菌属	0
+gen liu jun	根瘤菌	0
+gen liu jun du su	根瘤菌毒素	0
+gen liu jun ke	根瘤菌科	0
+gen liu jun mu	根瘤菌目	0
+gen liu jun shu	根瘤菌属	0
+gen liu nong gan jun	根瘤农杆菌	0
+gen liu xian chong	根瘤线虫	0
+gen liu ya	根瘤蚜	0
+gen liu ya ke	根瘤蚜科	0
+gen liu ya zong ke	根瘤蚜总科	0
+gen long zhan	根龙站	0
+gen lun	根仑	0
+gen lun yu gen lan	根仑与根兰	0
+gen man	根螨	0
+gen man shu	根螨属	0
+gen mao	根毛	0
+gen mao shan	根茂山	0
+gen mei	根霉	0
+gen mei jun	根霉菌	0
+gen mei shu	根霉属	0
+gen men pai	根门派	0
+gen mi zao shu he	茛密早熟禾	0
+gen mou	根牟	0
+gen mou guo	根牟国	0
+gen mu lu	根目录	0
+gen na	根拿	0
+gen na he he	根纳赫河	0
+gen na ji wu si er shi	根纳季乌斯二世	0
+gen na si bei li zhan	根拿斯贝利站	0
+gen nang bian jun shu	根囊鞭菌属	0
+gen nang hu jun mu	根囊壶菌目	0
+gen nao jie	根瑙杰	0
+gen nao jie xian	根瑙杰县	0
+gen ne bei ke	根讷贝克	0
+gen ne si duo fu	根讷斯多夫	0
+gen ni lao po qu lv xing	跟你老婆去旅行	0
+gen ni wo shou	跟你握手	0
+gen niao	根鸟	0
+gen pai dao ni jia	跟拍到你家	0
+gen pan jun ke	根盘菌科	0
+gen pan jun shu	根盘菌属	0
+gen pei na he	根佩纳赫	0
+gen pei wu zi shan	根培乌孜山	0
+gen peng	根彭	0
+gen pi	根啤	0
+gen pi gan	根皮苷	0
+gen pi san shu	根皮伞属	0
+gen pi su	根皮素	0
+gen ping zheng	根凭证	0
+gen qi	根奇	0
+gen qi	根棋	0
+gen qi	根器	0
+gen qia gong mu	根恰公墓	0
+gen qian mao jun bing du shu	根前毛菌病毒属	0
+gen qian mao jun ke	根前毛菌科	0
+gen qiao	根鞘	0
+gen qiao mei hui zi	根桥美绘子	0
+gen qiao pa di	根乔帕蒂	0
+gen qin	根芹	0
+gen re si	根热寺	0
+gen rong jie shu	根绒蚧属	0
+gen sai ke la gen shan	根塞克拉根山	0
+gen san shu	根伞属	0
+gen sao	跟骚	0
+gen se en duo fu	根瑟恩多夫	0
+gen sha yu jie wen	跟鲨鱼接吻	0
+gen shan dong lu	艮山东路	0
+gen shan kou zhan	艮山口站	0
+gen shan kuai su lu	艮山快速路	0
+gen shan men	艮山门	0
+gen shan men zhan	艮山门站	0
+gen shan xi lu	艮山西路	0
+gen shang chun	根上淳	0
+gen shang xuan lv	跟上旋律	0
+gen she kong you wei	根舍孔鼬鳚	0
+gen she xue wei shu	根舍鳕鳚属	0
+gen shen di gu de shu	根深蒂固的树	0
+gen sheng hu jun gang	根生壶菌纲	0
+gen sheng hu jun ke	根生壶菌科	0
+gen sheng hu jun mu	根生壶菌目	0
+gen sheng hu jun shu	根生壶菌属	0
+gen shi	根室	0
+gen shi	根式	0
+gen shi ban dao	根室半岛	0
+gen shi ban dao di zhen	根室半岛地震	0
+gen shi ben xian	根室本线	0
+gen shi biao jin che zhan	根室标津车站	0
+gen shi biao jin zhan	根室标津站	0
+gen shi che zhan	根室车站	0
+gen shi fen tun ji di	根室分屯基地	0
+gen shi gang	根室港	0
+gen shi gang che zhan	根室港车站	0
+gen shi gang zhan	根室港站	0
+gen shi guo	根室国	0
+gen shi hai xia	根室海峡	0
+gen shi jun	根室郡	0
+gen shi lu shi yu	根室鲁氏鱼	0
+gen shi shi	根室市	0
+gen shi shi guan bi diao	根室氏管鼻鲷	0
+gen shi shi nan mei nan ji yu	根室氏南美南极鱼	0
+gen shi shi nang tou you	根室氏囊头鲉	0
+gen shi shi shi xing nian	根室氏视星鲶	0
+gen shi shi ya xue	根室氏雅鳕	0
+gen shi tuo zhi tie dao	根室拓殖铁道	0
+gen shi wan	根室湾	0
+gen shi xian	根室县	0
+gen shi zhan	根室站	0
+gen shi zhen xing ju	根室振兴局	0
+gen shi zhi ting	根室支厅	0
+gen shi zhu mu yu	根室珠目鱼	0
+gen shu	根书	0
+gen shu	根数	0
+gen shu ju	根数据	0
+gen shui mu ke	根水母科	0
+gen shui xue	跟谁学	0
+gen si	根斯	0
+gen si ba ke yun shi keng	根斯巴克陨石坑	0
+gen si bao san wei yi ti zu qiu hui	根斯堡三位一体足球会	0
+gen si bu lun nen	根斯布伦嫩	0
+gen si mi er ba he he	根斯米尔巴赫河	0
+gen si wei si ge la ben he	根斯维斯格拉本河	0
+gen si wei xian	根斯威县	0
+gen si xiang	根思乡	0
+gen song che zhan	根松车站	0
+gen song zhan	根松站	0
+gen sui	跟随	0
+gen sui ni	跟随你	0
+gen sui tie tuo yuan shuai	跟随铁托元帅	0
+gen sui zong ji	跟随踪迹	0
+gen suo ka	根索卡	0
+gen ta	艮塔	0
+gen ta er wa se he	根塔尔瓦瑟河	0
+gen tai ruan	根太软	0
+gen te	根特	0
+gen te da xue	根特大学	0
+gen te dan bo te zhan	根特丹波特站	0
+gen te dang dai yi shu bo wu guan	根特当代艺术博物馆	0
+gen te dian ying jie	根特电影节	0
+gen te gang ri feng	根特岗日峰	0
+gen te ji tan hua	根特祭坛画	0
+gen te jing ji ju le bu	根特竞技俱乐部	0
+gen te ling	根特岭	0
+gen te mei shu guan	根特美术馆	0
+gen te men	根特门	0
+gen te mu	根特木	0
+gen te mu er	根特木儿	0
+gen te mu er	根特木尔	0
+gen te qu	根特区	0
+gen te sheng	根特省	0
+gen te sheng bi de che zhan	根特圣彼得车站	0
+gen te sheng bi de si zhan	根特圣彼得斯站	0
+gen te sheng bo duo lu xiu dao yuan	根特圣伯多禄修道院	0
+gen te sheng kan bo gong mu	根特圣坎波公墓	0
+gen te shi zheng ting	根特市政厅	0
+gen te tiao yue	根特条约	0
+gen te yi he	根特议和	0
+gen te zhong lou	根特钟楼	0
+gen te zhou	根特州	0
+gen te zhu jiao gong	根特主教宫	0
+gen ti	根体	0
+gen tian cai	根菾菜	0
+gen tian shu	根田鼠	0
+gen ting	根廷	0
+gen ting gen	根廷根	0
+gen tong	根通	0
+gen tou xia gang	根头下纲	0
+gen tou zong mu	根头总目	0
+gen tu	哏图	0
+gen tu chun	根土蝽	0
+gen tu chun shu	根土蝽属	0
+gen tuan lv you	跟团旅游	0
+gen tuan you	跟团游	0
+gen wa er hu	根瓦尔湖	0
+gen wang yu ming cheng ci fu qi	根网域名称伺服器	0
+gen wei ang	根尾昂	0
+gen wei dao	根卫岛	0
+gen wei dao	根衞岛	0
+gen wei gu duan ceng	根尾谷断层	0
+gen wei lai er	根维莱尔	0
+gen wei ming li	根尾明里	0
+gen wei shan	艮为山	0
+gen wen jian xi tong	根文件系统	0
+gen wo de xiao peng you shuo sheng hao	跟我的小朋友说声好	0
+gen wo shuo ai wo	跟我说爱我	0
+gen xi	根息	0
+gen xi	根西	0
+gen xi	根系	0
+gen xi bang	根息镑	0
+gen xi bang	根西镑	0
+gen xi dao	根息岛	0
+gen xi dao	根西岛	0
+gen xi dao bang	根西岛镑	0
+gen xi dao guo ge	根西岛国歌	0
+gen xi dao guo qi	根西岛国旗	0
+gen xi dao qi zhi	根西岛旗帜	0
+gen xi gong chan dang	根西共产党	0
+gen xi guo hui	根西国徽	0
+gen xi guo qi	根西国旗	0
+gen xi hu zhao	根西护照	0
+gen xi li shi	根西历史	0
+gen xi niu	根西牛	0
+gen xi qi zhi	根西旗帜	0
+gen xi sheng wu	亘喜生物	0
+gen xi xian	根西县	0
+gen xi xing zheng qu	根息行政区	0
+gen xi xing zheng qu	根西行政区	0
+gen xi yi hui	根西议会	0
+gen xi zong jiao	根西宗教	0
+gen xi zu qiu hui	根西足球会	0
+gen xi zu qiu zong hui	根西足球总会	0
+gen xian zhan	艮岘站	0
+gen xiao wu che zhan	根小屋车站	0
+gen xiao wu zhan	根小屋站	0
+gen xin gen	根辛根	0
+gen xing	根性	0
+gen xing qing wa	根性青蛙	0
+gen ya	根压	0
+gen ya shu	根蚜属	0
+gen ye ci jue	根叶刺蕨	0
+gen ye fen ya	根叶粉蚜	0
+gen ye qi gu cao	根叶漆姑草	0
+gen ye zao ke	根叶藻科	0
+gen yin	根音	0
+gen yong bi luo	根蛹笔螺	0
+gen yong jie cai	根用芥菜	0
+gen yu	根域	0
+gen yu che zhan	根雨车站	0
+gen yu cun	根羽村	0
+gen yu ming ci fu qi	根域名伺服器	0
+gen yu ming fu wu qi	根域名服务器	0
+gen yu xi shu	根与系数	0
+gen yu ya	根与芽	0
+gen yu zhan	根雨站	0
+gen yuan zi	根源字	0
+gen yue	艮岳	0
+gen ze li fu ka	根泽里夫卡	0
+gen zha bu duo er ji	根扎布多尔济	0
+gen zhai shi ji	艮斋诗集	0
+gen zhe gan jue zou	跟着感觉走	0
+gen zhe gong chan dang zou	跟着共产党走	0
+gen zhe ni jiu shi gen zhe na tai yang	跟着你就是跟着那太阳	0
+gen zhe wo yi qi	跟着我一起	0
+gen zheng shu	根证书	0
+gen zhi cao shu	根枝草属	0
+gen zhi che zhan	根知车站	0
+gen zhi dong zuo	跟趾动作	0
+gen zhi guo	根之国	0
+gen zhi pi jiu	根汁啤酒	0
+gen zhi qi shui	根汁汽水	0
+gen zhi shen lian fa	根值审敛法	0
+gen zhi xing zi gong qie chu shu	根治性子宫切除术	0
+gen zhi zhan	根知站	0
+gen zhi zhan	艮峙站	0
+gen zhong bing	根肿病	0
+gen zhong hei fen jun gang	根肿黑粉菌纲	0
+gen zhong hei fen jun ke	根肿黑粉菌科	0
+gen zhong hei fen jun mu	根肿黑粉菌目	0
+gen zhong hei fen jun shu	根肿黑粉菌属	0
+gen zhong hei sui jun gang	根肿黑穗菌纲	0
+gen zhong jun ke	根肿菌科	0
+gen zhong jun mu	根肿菌目	0
+gen zhong jun shu	根肿菌属	0
+gen zhong qian hui zi	根中千惠子	0
+gen zhou	根轴	0
+gen zhu bei er qu mao xian	跟著贝尔去冒险	0
+gen zhu gan jue zou	跟著感觉走	0
+gen zhu mao dun qu lv xing	跟住矛盾去旅行	0
+gen zhu xiang	根竹乡	0
+gen zhu yan lei zhuan wan	跟著眼泪转弯	0
+gen zhu yi jia yi gui qu lv xing	跟著宜家衣柜去旅行	0
+gen zhu yuan	根竹园	0
+gen zhu zhen	根竹镇	0
+gen zhuang jing	根状茎	0
+gen zi liao	根资料	0
+gen zi zhen	根子镇	0
+gen zong	跟踪	0
+gen zong dui	跟踪队	0
+gen zong kong ling xue	跟踪孔令学	0
+gen zong kuang	跟踪狂	0
+gen zong sao rao	跟踪骚扰	0
+gen zong zhe	跟踪者	0
+gen zong zhi yuan dui	跟踪支援队	0
+gen zong zhi yuan zu	跟踪支援组	0
+gen zong zu	跟踪组	0
+gen zu ba yu	根祖巴语	0
+gen zu bei hai mian	根足杯海绵	0
+gen zu tai cao	根足苔草	0

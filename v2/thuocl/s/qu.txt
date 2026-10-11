@@ -1,0 +1,422 @@
+qu dao	渠道	265759
+qu shi	趋势	235572
+qu nei	区内	64735
+qu zheng fu	区政府	47521
+qu jian	区间	43612
+qu bie dui dai	区别对待	39802
+qu gong an fen ju	区公安分局	38236
+qu yu xing	区域性	33169
+qu dong cheng xu	驱动程序	25501
+qu zhi	取值	13689
+qu wei chang wei	区委常委	12795
+qu er dai zhi	取而代之	12053
+qu mo	取模	11691
+qu yang	取样	10111
+qu zheng	取整	9993
+qu jiu	曲酒	9747
+qu xin yu min	取信于民	8293
+qu zhi ke shu	屈指可数	6404
+qu zhi ruo wu	趋之若鹜	5247
+qu chang bu duan	取长补短	4747
+qu di zhi	取地址	4202
+qu zhi fan wei	取值范围	3707
+qu jing shi	曲靖市	3638
+qu yuan	屈原	3408
+qu tong	趋同	3366
+qu dong kai fa	驱动开发	3133
+qu jian he	区间和	2830
+qu jiang	渠江	2796
+qu li bi hai	趋利避害	2793
+qu dong mo kuai	驱动模块	2441
+qu yu she zhi	区域设置	2094
+qu mo yun suan	取模运算	2087
+qu zhou shi	衢州市	2074
+qu yuan	曲园	1810
+qu xian	取现	1780
+qu jian cha xun	区间查询	1542
+qu zao	去噪	1458
+qu wei ban	区委办	1360
+qu zhi bu jin	取之不尽	1358
+qu jian geng xin	区间更新	1267
+qu dong an zhuang	驱动安装	1238
+qu de hou	取得后	1199
+qu wei cun zhen	去伪存真	1122
+qu jian xiu gai	区间修改	1098
+qu ban	祛斑	1075
+qu jing tong you	曲径通幽	996
+qu yu hua fen	区域划分	986
+qu qi bing gan	曲奇饼干	982
+qu zhi ling	取指令	979
+qu fu shi	曲阜市	931
+qu jian he bing	区间合并	924
+qu feng	祛风	912
+qu jian qiu he	区间求和	897
+qu dui xiang	取对象	815
+qu yang	曲阳	788
+qu gao he gua	曲高和寡	744
+qu zhou wei zhi	曲轴位置	735
+qu zhi	取指	717
+qu jian fu gai	区间覆盖	705
+qu xian ni he	曲线拟合	701
+qu chong	驱虫	682
+qu qiu bai	瞿秋白	681
+qu kuai lian	区块链	667
+qu shi zi you xi	取石子游戏	644
+qu dou	祛痘	642
+qu dong yuan ma	驱动源码	594
+qu shi jia qiang	趋势加强	586
+qu zhu da lu	驱逐鞑虏	572
+qu zhou wei zhi chuan gan qi	曲轴位置传感器	560
+qu jian cao zuo	区间操作	535
+qu hui shu ju	取回数据	495
+qu kuai lian ji shu	区块链技术	483
+qu jiao tong ju	区交通局	473
+qu mei	曲美	469
+qu cu qu jing	去粗取精	460
+qu yi yuan	区医院	459
+qu wei ma	区位码	451
+qu sui ji shu	取随机数	440
+qu jue dui zhi	取绝对值	434
+qu zhong ren san	曲终人散	432
+qu guang bu zheng	屈光不正	401
+qu yu bian jie	区域边界	396
+qu dong bian cheng	驱动编程	374
+qu yu tian chong	区域填充	374
+qu na er wang	去哪儿网	364
+qu dong yi zhi	驱动移植	353
+qu bing	龋病	346
+qu dong dian liu	驱动电流	344
+qu yu he bing	区域合并	327
+qu she qu	区社区	318
+qu zhi bu jie	取之不竭	313
+qu wo	曲沃	307
+qu jiang chi	曲江池	304
+qu zhou mo chuang	曲轴磨床	303
+qu bo	曲波	293
+qu da cheng zhao	屈打成招	293
+qu kong ge	去空格	280
+qu yu fen ge	区域分割	276
+qu xie	祛邪	270
+qu yuan feng he	曲院风荷	270
+qu xin yu ren	取信于人	260
+qu shi ke ji	趋势科技	249
+qu ying	瞿颖	242
+qu zhi bu jin yong zhi bu jie	取之不尽用之不竭	233
+qu yan fu shi	趋炎附势	218
+qu zhong yi yuan	区中医院	214
+qu jian zui zhi	区间最值	209
+qu guang gao	去广告	201
+qu dong tiao shi	驱动调试	200
+qu xiao zhuang xiang	取消装箱	177
+qu yu sheng zhang	区域生长	175
+qu zhang	曲张	168
+qu tong pian	去痛片	166
+qu wu	去雾	165
+qu yi feng ying	曲意逢迎	156
+qu yu miao shu	区域描述	151
+qu zi duan ming	取字段名	145
+qu yang lu	曲阳路	141
+qu yu xing guo ji zu zhi	区域性国际组织	141
+qu dai ma	取代码	140
+qu ji bi xiong	趋吉避凶	135
+qu feng	驱风	129
+qu jia	曲家	129
+qu jia shen shang xian su	去甲肾上腺素	129
+qu chu biao ti lan	去除标题栏	124
+qu da jun	屈大均	123
+qu gou	渠沟	116
+qu chong ji	驱虫剂	115
+qu wu zhuang bu	区武装部	111
+qu jin cheng	取进程	110
+qu zhou qian	曲轴前	107
+qu ban shuang	祛斑霜	105
+qu qi jing hua qu qi zao po	取其精华去其糟粕	100
+qu jian chu li	区间处理	99
+qu li guai wan	曲里拐弯	89
+qu wen ben	取文本	86
+qu yu	祛瘀	86
+qu jing tong you chu	曲径通幽处	83
+qu chu bei jing	去除背景	81
+qu bing yan nian	祛病延年	74
+qu chi	曲池	72
+qu yu chan ye zhuan yi	区域产业转移	71
+qu jing bian huan	取景变换	69
+qu xi lu	瞿溪路	68
+qu jiang guan wei hui	曲江管委会	67
+qu qu xiao shi	区区小事	64
+qu mian ni he	曲面拟合	62
+qu tan yao	祛痰药	60
+qu tang	曲塘	60
+qu xi	曲溪	56
+qu jiang xian	曲江县	54
+qu qi xiang nai	曲奇香奶	51
+qu shui lou	取水楼	51
+qu dang xiao	区党校	50
+qu feng you	驱风油	49
+qu nian yuan ye shi	去年元夜时	49
+qu dong mo ni	驱动模拟	47
+qu xiang dong	曲向东	47
+qu yuan jiu jia	曲园酒家	47
+qu bu li kou	曲不离口	46
+qu yi zhong	区一中	46
+qu sa	去撒	45
+qu liang	曲梁	44
+qu jian dong gui	区间动规	42
+qu mei ta qin	曲美他嗪	42
+qu yu bao hu	区域保护	42
+qu dong da shi	驱动大师	41
+qu wei shu xue	趣味数学	41
+qu xiang xiang tian ge	曲项向天歌	40
+qu liang xiang	曲梁乡	39
+qu kuan du	取宽度	38
+qu liu gan dan liang kun lun	去留肝胆两昆仑	38
+qu mian fen ge	曲面分割	38
+qu you ning	瞿友宁	37
+qu mian mo xing	曲面模型	36
+qu wei bian cheng	趣味编程	36
+qu zhu ji ming	取主机名	36
+qu jing yong hong	取精用宏	35
+qu xian	衢县	34
+qu wen jian chang du	取文件长度	33
+qu jiang lu	曲江路	32
+qu ti xing shi zhang ai	躯体形式障碍	32
+qu tou qu wei	去头去尾	32
+qu dong	渠东	31
+qu nian jin ri ci men zhong	去年今日此门中	31
+qu yi ying he	曲意迎合	30
+qu chi xue	曲池穴	29
+qu jiang shui chang	曲江水厂	29
+qu zhuang cun	屈庄村	29
+qu dang qian mu lu	取当前目录	27
+qu deng hu tong	取灯胡同	26
+qu zhi xing cheng er wan	屈指行程二万	26
+qu mian zao xing	曲面造型	24
+qu nian fen	取年份	24
+qu shu zhi	取数值	24
+qu yang dan suan	去氧胆酸	24
+qu li	渠犁	23
+qu miao	取秒	23
+qu yi cheng ren	取义成仁	23
+qu cuo wu	取错误	22
+qu dong men	驱动门	22
+qu tu xi xin	曲突徙薪	22
+qu zhou zhi tui pian	曲轴止推片	22
+qu wen jian shu xing	取文件属性	21
+qu huan zhang	曲焕章	20
+qu jiang cun	曲江村	20
+qu jiang hai yang shi jie	曲江海洋世界	20
+qu dong mai chong	驱动脉冲	19
+qu ming ling xing	取命令行	19
+qu an nai de	曲安奈德	18
+qu jing jiu cai hua	曲靖韭菜花	18
+qu tuo zhu dan kang	曲妥珠单抗	18
+qu wen ben chang du	取文本长度	18
+qu hui ke hu	取回客户	17
+qu mian pin jie	曲面拼接	17
+qu wei cheng xu	趣味程序	17
+qu dang xiang	曲当乡	16
+qu mai	瞿麦	16
+qu wo tang ji gui	驱倭棠吉归	16
+qu bei jing se	取背景色	15
+qu jun	瞿俊	15
+qu ku hu xiang	曲库乎乡	15
+qu lu hai xiang	曲鲁海乡	15
+qu yi	屈轶	15
+qu yun xing mu lu	取运行目录	15
+qu gong er zhen zhi	曲肱而枕之	14
+qu hui tu pian	取回图片	14
+qu shu zu xia biao	取数组下标	14
+qu ti hua zhang ai	躯体化障碍	14
+qu yu ju lei	区域聚类	14
+qu ze	曲泽	14
+qu fen zhong	取分钟	13
+qu jiang sheng tai hua yuan	曲江生态花园	13
+qu lun kuo	取轮廓	13
+qu di jiao yu qi shi gong yue	取缔教育歧视公约	12
+qu gou ji	去垢剂	12
+qu jiang qiao	曲江桥	12
+qu lie shu	取列数	12
+qu xiao xing cheng fa	取消性惩罚	12
+qu deng	曲登	11
+qu dong xiao chi lun	驱动小齿轮	11
+qu gan gu	躯干骨	11
+qu hua yin zi	趋化因子	11
+qu quan	曲泉	11
+qu tie an	去铁胺	11
+qu yi	趋异	11
+qu zhou qian you feng	曲轴前油封	11
+qu dong an quan	驱动安全	10
+qu gu xue	曲骨穴	10
+qu jia yi yu chang sha	屈贾谊于长沙	10
+qu ke lu ding pian	曲克芦丁片	10
+qu wa xiang	曲瓦乡	10
+qu yang shen shang xian su	去氧肾上腺素	10
+qu zhong ren bu jian	曲终人不见	10
+qu fu xun dou fu	曲阜熏豆腐	9
+qu guang can shu	屈光参数	9
+qu nian si yue chu	去年四月初	9
+qu yang xin cun	曲阳新村	9
+qu fu dao	曲阜道	8
+qu guang shou shu xue	屈光手术学	8
+qu pi su	去皮酥	8
+qu ya gong xiang	曲雅贡乡	8
+qu fu xian	曲阜县	7
+qu jia xiong san xi chun tong	去甲雄三烯醇酮	7
+qu qi xiang nai bing qi lin	曲奇香奶冰淇淋	7
+qu tan zhen	瞿昙镇	7
+qu ti bian xing zhang ai	躯体变形障碍	7
+qu wan li	屈万里	7
+qu wo la niu rou	曲沃腊牛肉	7
+qu wo lu	曲沃路	7
+qu xi jie dao	曲溪街道	7
+qu yu xing	区域型	7
+qu chong ban jiu ju	驱虫斑鸠菊	6
+qu dai ji	取代基	6
+qu deng xiang	曲登乡	6
+qu fu xi lu	曲阜西路	6
+qu hua xing	趋化性	6
+qu jia wan gu mei su	去甲万古霉素	6
+qu jia wu yao jian	去甲乌药碱	6
+qu qu zui yin gao wo	去去醉吟高卧	6
+qu ti xiao ying	躯体效应	6
+qu xi cun	曲溪村	6
+qu a	曲阿	5
+qu ci hua cong lan hui gu	取次花丛懒回顾	5
+qu da xiang	区大相	5
+qu de liang pian shi	取得两片石	5
+qu gu	曲骨	5
+qu pu rui lin	曲普瑞林	5
+qu qing	曲清	5
+qu suan	曲酸	5
+qu you	瞿祐	5
+qu dong dan bai	驱动蛋白	4
+qu er xiao	区二小	4
+qu ji hua	去极化	4
+qu ke lu ding	曲克芦丁	4
+qu ni si te	曲尼司特	4
+qu shi chao yun wu mi chu	去似朝云无觅处	4
+qu tan	曲潭	4
+qu xing	区星	4
+qu yang yun xi	去氧孕烯	4
+qu yang zhen	渠洋镇	4
+qu yi xian mao hua gan	去乙酰毛花苷	4
+qu yi yuan	区一院	4
+qu zhu ren yi wei shan	取诸人以为善	4
+qu ao xiang	曲奥乡	3
+qu bai ba bu qi pian	驱白巴布期片	3
+qu bing xue	龋病学	3
+qu chi yin gao shu	曲池荫高树	3
+qu chong xiao shi pian	驱虫消食片	3
+qu dou	曲斗	3
+qu e zhen	曲峨镇	3
+qu feng shi yao jiu	祛风湿药酒	3
+qu gan ji	躯干肌	3
+qu guan shi zhi zheng	去关市之征	3
+qu guang bu zheng xing ruo shi	屈光不正性弱视	3
+qu jia qiao	屈家桥	3
+qu jia wei ma huang jian	去甲伪麻黄碱	3
+qu luo xiang	曲洛乡	3
+qu ma zhen	渠马镇	3
+qu mai cai bao zi	苣荬菜包子	3
+qu pi dou po	去皮豆粕	3
+qu ping ci fu xuan ri yue	屈平词赋悬日月	3
+qu shui wen hua	曲水文华	3
+qu ying shao	瞿应绍	3
+qu yu zhen	曲峪镇	3
+qu zhi yu lan er qing yu lan	取之于蓝而青于蓝	3
+qu zhong ren san kong chou mu	曲终人散空愁暮	3
+qu zhou wei zhi gan ying qi	曲轴位置感应器	3
+qu zhuo jiao nang	祛浊胶囊	3
+qu an nai de ruan gao	曲安奈德软膏	2
+qu an xi long	曲安西龙	2
+qu che deng gu yuan	驱车登古原	2
+qu che shang dong men	驱车上东门	2
+qu dou gong	屈斗宫	2
+qu feng shi yao	祛风湿药	2
+qu ge ti hua	去个体化	2
+qu hui ling tang jiang	驱蛔灵糖浆	2
+qu jia ban mao suan na	去甲斑蝥酸钠	2
+qu jia ti lin	去甲替林	2
+qu jiang chi pan xing yuan bian	曲江池畔杏园边	2
+qu jing xian	曲靖县	2
+qu ke lu ding jiao nang	曲克芦丁胶囊	2
+qu ma xiang	曲玛乡	2
+qu mi xin ru gao	曲咪新乳膏	2
+qu nian dong po shi wa li	去年东坡拾瓦砾	2
+qu nian tian qi jiu ting tai	去年天气旧亭台	2
+qu pi fan qie guan tou	去皮番茄罐头	2
+qu pi ji	取皮机	2
+qu qian you feng	曲前油封	2
+qu qiang ji gan	去羟肌苷	2
+qu shi xue man tian shan lu	去时雪满天山路	2
+qu song xiang	曲松乡	2
+qu wu jian	区五建	2
+qu ye zhong xu qu	去也终须去	2
+qu zhou ren shi ren	衢州人食人	2
+qu zhou wei zhi gan zhi qi	曲轴位置感知器	2
+qu an hui gao ze meng chi	曲岸回篙舴艋迟	1
+qu an nai de zhu she ye	曲安奈德注射液	1
+qu an shen tan yi shan sou	曲岸深潭一山叟	1
+qu ba ceng jiao shan cai fu	曲罢曾教善才服	1
+qu bu xiong xiang	曲布雄乡	1
+qu da nao qiang zhi	去大脑强直	1
+qu fu qian lie su di yan ye	曲伏前列素滴眼液	1
+qu fu sheng ji san	去腐生肌散	1
+qu jiang lu fu chun jiang lu kou	衢江路富春江路口	1
+qu ke lu ding zhu she ye	曲克芦丁注射液	1
+qu lai jiang kou shou kong chuan	去来江口守空船	1
+qu lan shen chu zhong xiang jian	曲阑深处重相见	1
+qu le min	区乐民	1
+qu ma chu guan men	驱马出关门	1
+qu ma lai niu bu fu bian	去马来牛不复辨	1
+qu mei bing	曲霉病	1
+qu mei xiang	曲美乡	1
+qu nian chong yang bu ke shuo	去年重阳不可说	1
+qu nian hua li feng jun bie	去年花里逢君别	1
+qu nian jin ri dun ya shan	去年今日遁崖山	1
+qu nian ju jun mu xu pan	去年举君苜蓿盘	1
+qu nian qiu wan ci yuan zhong	去年秋晚此园中	1
+qu nian yan zi lai	去年燕子来	1
+qu pi di er pian	曲匹地尔片	1
+qu qi jia	瞿启甲	1
+qu qing dan suan	去氢胆酸	1
+qu qu ru he dao	去去如何道	1
+qu qu si jun shen	去去思君深	1
+qu qu tang	曲曲汤	1
+qu quan xue	曲泉穴	1
+qu ruo zhao lu xi	去若朝露晞	1
+qu tan ling kou fu ye	祛痰灵口服液	1
+qu tou zhen	渠头镇	1
+qu xi che zhan	瞿溪车站	1
+qu xian jie dao	曲线街道	1
+qu xiu	屈修	1
+qu yang yun xi gui ci chun pian	去氧孕烯炔雌醇片	1
+qu yang zhen	灈阳镇	1
+qu yi jian	区一建	1
+qu yi liu yue xi zhe ye	去以六月息者也	1
+qu yi xiang	曲依乡	1
+qu yu ling hong gu	去欲凌鸿鹄	1
+qu yuan gu zhuang shi	屈原古壮士	1
+qu zhe ri yi shu	去者日以疏	1
+qu zhi ji duo ren	屈指几多人	1
+qu zhi lao sheng bai sui qi	屈指劳生百岁期	1
+qu zhi xi feng ji shi lai	屈指西风几时来	1
+qu zhong rong	瞿中溶	1
+qu zhong shou bo dang xin hua	曲终收拨当心画	1
+qu zu bi chuang xi	取足蔽床席	1
+qu bei xin ji you	曲背新棘鮋	0
+qu fu hua di chong xiu	曲腹华笛虫脩	0
+qu gou ya chuan fang chong	曲钩亚串房虫	0
+qu ji duan jiao hua ying	曲基短角花蝇	0
+qu jing yuan ban xiao juan e	曲茎圆斑小卷蛾	0
+qu long yi zhao huang	曲隆异爪蝗	0
+qu mao jiao chan	曲矛角蝉	0
+qu mei dan mai sui feng	曲玫淡脉隧蜂	0
+qu mo quan	趋魔犬	0
+qu tan chi xie	趣谈吃蟹	0
+qu wen chun yu	曲纹唇鱼	0
+qu wen dao nong die	曲纹稻弄蝶	0
+qu xian tou mu tian can e	曲线透目天蚕蛾	0
+qu xian yue du huang	曲线跃度蝗	0
+qu xing fan ying	趋性反应	0
+qu yuan si fu jin xiao feng	曲缘斯夫金小蜂	0

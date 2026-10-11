@@ -1,0 +1,4295 @@
+zheng fu	政府	1617499
+zheng quan	证券	744085
+zheng ce	政策	501119
+zheng zai	正在	501081
+zheng ge	整个	500980
+zheng chang	正常	500841
+zheng ming	证明	500700
+zheng shi	正式	500656
+zheng ti	整体	500652
+zheng zhi	政治	500598
+zheng shi	正是	500480
+zheng shu	证书	500465
+zheng que	正确	500413
+zheng he	整合	500387
+zheng que de	正确的	500354
+zheng li	整理	500347
+zheng zhuang	症状	500270
+zheng qu	争取	500251
+zheng ju	证据	487610
+zheng quan jiao yi suo	证券交易所	444378
+zheng zhou	郑州	430445
+zheng shou	征收	405635
+zheng yi	争议	376885
+zheng quan shi chang	证券市场	351461
+zheng shi	证实	347425
+zheng wen	正文	341060
+zheng jian	证件	340080
+zheng gai	整改	322845
+zheng ru	正如	310925
+zheng gui	正规	306210
+zheng zhi	整治	301895
+zheng hao	正好	293595
+zheng mian	正面	290555
+zheng zhi	争执	231789
+zheng fu cai gou	政府采购	227610
+zheng ban	正版	226215
+zheng qiu	征求	205090
+zheng yi	正义	199495
+zheng ji	征集	189020
+zheng lun	争论	180555
+zheng dun	整顿	180160
+zheng zhou shi	郑州市	179090
+zheng de	正的	178250
+zheng fu bu men	政府部门	173510
+zheng dang	正当	161905
+zheng xie	政协	160790
+zheng quan	政权	158210
+zheng tian	整天	157005
+zheng duo	争夺	152655
+zheng zheng	整整	150605
+zheng wu	政务	144555
+zheng zha	挣扎	142975
+zheng chang shi yong	正常使用	127585
+zheng zhi bu	政治部	126458
+zheng fu	征服	122555
+zheng jiu	拯救	121215
+zheng ji	整机	119945
+zheng quan gong si	证券公司	117710
+zheng jie	整洁	116475
+zheng di	征地	115260
+zheng de	征得	113160
+zheng dang	政党	113115
+zheng qi	整齐	112060
+zheng qi	蒸气	111870
+zheng wu gong kai	政务公开	108935
+zheng ming le	证明了	108555
+zheng che	整车	103855
+zheng shi ban	正式版	102605
+zheng qian	挣钱	101700
+zheng qi	蒸汽	101530
+zheng ming cai liao	证明材料	100245
+zheng tai	正太	99999
+zheng xiang	争相	99999
+zheng shui	征税	99670
+zheng ce fa gui	政策法规	99235
+zheng zong	正宗	98595
+zheng chu yu	正处于	97140
+zheng pin	正品	88940
+zheng que chu li	正确处理	88755
+zheng zhong	郑重	88635
+zheng ming wen jian	证明文件	88530
+zheng ce xing	政策性	86770
+zheng ce cuo shi	政策措施	84745
+zheng li shi jian	整理时间	84440
+zheng que da an	正确答案	84415
+zheng zai jin xing	正在进行	82515
+zheng quan fa	证券法	80999
+zheng jian hui	证监会	80730
+zheng yao	正要	79690
+zheng ren	证人	79235
+zheng xing	整形	78790
+zheng qu	政区	77895
+zheng ti su zhi	整体素质	77300
+zheng zhong sheng ming	郑重声明	76305
+zheng xie wei yuan	政协委员	75910
+zheng chao	争吵	75370
+zheng fa	蒸发	75200
+zheng zhi	正值	74730
+zheng ji	政绩	73865
+zheng fa	政法	73240
+zheng chang gong zuo	正常工作	73085
+zheng que de	正确地	72450
+zheng shi de	正式的	71565
+zheng chang yun xing	正常运行	69745
+zheng quan ying ye bu	证券营业部	69600
+zheng qiu yi jian	征求意见	68845
+zheng zhi	正直	68355
+zheng zhong	正中	68105
+zheng wen	征文	67245
+zheng ge ren	整个人	67030
+zheng shi	正视	63660
+zheng yin wei	正因为	63525
+zheng guan	征管	63140
+zheng fu ji gou	政府机构	60440
+zheng chuang	争创	60425
+zheng yong	征用	60390
+zheng ben	正本	59740
+zheng shi qi dong	正式启动	59370
+zheng hun	征婚	57240
+zheng fu tou zi	政府投资	56430
+zheng wei	政委	56430
+zheng tu	征途	56090
+zheng tao	整套	55960
+zheng qi	正气	55330
+zheng zhi li lun	政治理论	54030
+zheng zhi jia	政治家	53320
+zheng shu	整数	53245
+zheng fu ji guan	政府机关	53235
+zheng shi yin wei	正是因为	53115
+zheng que ren shi	正确认识	53110
+zheng que xing	正确性	52520
+zheng ge shi jie	整个世界	52230
+zheng ming shu	证明书	52160
+zheng zhi mian mao	政治面貌	51765
+zheng ge guo cheng	整个过程	51660
+zheng zhun bei	正准备	50695
+zheng xiang	正向	50495
+zheng xing	整型	50329
+zheng kai	睁开	50270
+zheng quan tou zi ji jin	证券投资基金	50125
+zheng tong	正统	48775
+zheng yue	正月	48535
+zheng quan jiao yi	证券交易	47815
+zheng zhi wen ming	政治文明	47470
+zheng hao	证号	47405
+zheng shi le	证实了	47275
+zheng shi kai shi	正式开始	47090
+zheng fu guan yuan	政府官员	46860
+zheng gai cuo shi	整改措施	46800
+zheng zhi jing ji xue	政治经济学	45320
+zheng chu zai	正处在	45215
+zheng ze biao da shi	正则表达式	44794
+zheng dou	争斗	44735
+zheng zhi xue	政治学	44535
+zheng kai yan jing	睁开眼睛	43430
+zheng xiang	正想	43190
+zheng yi	正以	42400
+zheng dun he gui fan	整顿和规范	42295
+zheng duan	争端	41685
+zheng shi cheng li	正式成立	41380
+zheng can	正餐	41175
+zheng zhi shang	政治上	41105
+zheng fu gong zuo	政府工作	40890
+zheng quan tou zi	证券投资	40420
+zheng ce gui ding	政策规定	40045
+zheng dao	正道	40040
+zheng zhan	征战	39285
+zheng fu wang zhan	政府网站	38525
+zheng fu xin xi	政府信息	38235
+zheng fu zhi neng	政府职能	38170
+zheng fu cai gou zhong xin	政府采购中心	38070
+zheng ding	征订	37435
+zheng ti xing	整体性	37315
+zheng ge hang ye	整个行业	37015
+zheng suo wei	正所谓	36865
+zheng tuo	挣脱	36645
+zheng jiao	征缴	36235
+zheng jing	正经	36055
+zheng shi	正事	36015
+zheng shi er	正事儿	36015
+zheng zhao	征兆	35955
+zheng zhi zhi du	政治制度	35615
+zheng gao	征稿	35365
+zheng fa wei	政法委	35265
+zheng qi de	整齐的	35250
+zheng shou guan li	征收管理	34920
+zheng chang yun zhuan	正常运转	34795
+zheng hao shi	正好是	34550
+zheng ri	整日	34300
+zheng chang ren	正常人	34285
+zheng zai jia zai	正在加载	33755
+zheng yu	正与	33185
+zheng cheng	征程	33100
+zheng liu	蒸馏	32935
+zheng xun	征询	32865
+zheng rong	整容	32750
+zheng he le	整合了	32720
+zheng zuo	争做	32480
+zheng zhi si xiang	政治思想	32475
+zheng yin wei ru ci	正因为如此	32455
+zheng dui	正对	31675
+zheng zhi	正职	31465
+zheng que dui dai	正确对待	31215
+zheng shi shi shi	正式实施	31065
+zheng zha zhe	挣扎着	31015
+zheng men	正门	30980
+zheng zhi ju chang wei	政治局常委	30915
+zheng wu xin xi	政务信息	30855
+zheng xian	争先	30570
+zheng bian	争辩	30485
+zheng shu bian hao	证书编号	30210
+zheng zhi xie shang	政治协商	30000
+zheng xin	征信	29865
+zheng zhi ju wei yuan	政治局委员	29720
+zheng dang	争当	29665
+zheng ba	争霸	29460
+zheng zhao	证照	29050
+zheng pai	正派	28800
+zheng fang	正方	28475
+zheng fang xing	正方形	28335
+zheng shi fa bu	正式发布	28130
+zheng ti shang	整体上	28035
+zheng gai ti gao	整改提高	27995
+zheng fu gong zuo bao gao	政府工作报告	27765
+zheng zhi jing ji	政治经济	27740
+zheng fu	正副	27715
+zheng zhi su zhi	政治素质	27605
+zheng de	争得	27595
+zheng xiang	正像	27430
+zheng fu le	征服了	27260
+zheng zheng ri shang	蒸蒸日上	27260
+zheng yin	正因	26935
+zheng xiu	整修	26710
+zheng he	正和	26625
+zheng wu	正午	26370
+zheng jie	症结	26310
+zheng de	整的	26200
+zheng ce huan jing	政策环境	26040
+zheng ji guan	政绩观	25855
+zheng yan	睁眼	25735
+zheng bing	征兵	25465
+zheng wei	正为	25395
+zheng ju	政局	25295
+zheng qu dao	争取到	25135
+zheng cheng wei	正成为	25095
+zheng que li jie	正确理解	25040
+zheng dang li you	正当理由	24805
+zheng kai yan	睁开眼	24710
+zheng tiao	整条	24580
+zheng ning	狰狞	24540
+zheng zai xiang	正在向	24425
+zheng ju cai liao	证据材料	24220
+zheng fa	正法	24185
+zheng shi xuan bu	正式宣布	24185
+zheng shi	政事	24140
+zheng zai jian she	正在建设	24090
+zheng xian kong hou	争先恐后	24010
+zheng quan deng ji	证券登记	23925
+zheng ti gui hua	整体规划	23815
+zheng zhi sheng huo	政治生活	23485
+zheng cong	正从	23465
+zheng ban	整版	23370
+zheng zai ji ji	正在积极	23295
+zheng ti	政体	22820
+zheng zheng	怔怔	22675
+zheng shi tui chu	正式推出	22595
+zheng chang jin xing	正常进行	22545
+zheng liu	整流	22460
+zheng bei	正被	22375
+zheng gui hua	正规化	22230
+zheng fu xing wei	政府行为	22225
+zheng fan	正反	22080
+zheng ti	正题	22010
+zheng da	睁大	21675
+zheng que yin dao	正确引导	21630
+zheng di bu chang	征地补偿	21585
+zheng zuo	整座	21540
+zheng bian	政变	21380
+zheng zhi xie shang hui yi	政治协商会议	21250
+zheng fu jian	政府间	21190
+zheng quan tou zi ji jin fa	证券投资基金法	21156
+zheng he ying xiao	整合营销	21105
+zheng qiao	正巧	20940
+zheng shou	蒸熟	20865
+zheng shu	蒸熟	20865
+zheng qiang	争抢	20820
+zheng chang xian xiang	正常现象	20415
+zheng xie gong zuo	政协工作	20345
+zheng chang sheng huo	正常生活	20300
+zheng shi	正室	20000
+zheng fu ling dao	政府领导	19965
+zheng jian hao ma	证件号码	19900
+zheng zhi ti zhi	政治体制	19795
+zheng shen	政审	19790
+zheng zhi ke	政治课	19690
+zheng ge wang luo	整个网络	19460
+zheng yan	证言	19400
+zheng zhang	整张	19375
+zheng ming shi	证明是	19340
+zheng ke	政客	19220
+zheng zhi ti zhi gai ge	政治体制改革	19145
+zheng yong tu di	征用土地	19135
+zheng cheng gong	郑成功	19075
+zheng jie de	整洁的	19070
+zheng fu pi zhun	政府批准	18955
+zheng zhi wei yuan	政治委员	18950
+zheng zhi ren wu	政治任务	18840
+zheng ce yan jiu	政策研究	18830
+zheng jue	正觉	18815
+zheng quan ye xie hui	证券业协会	18807
+zheng zuo	正坐	18795
+zheng se	正色	18680
+zheng bu	整部	18545
+zheng yi gan	正义感	18265
+zheng fu ding jia	政府定价	18250
+zheng fu cai zheng	政府财政	18190
+zheng feng hang feng	政风行风	18085
+zheng shi pi zhun	正式批准	18045
+zheng ye	整夜	18000
+zheng shi jin ru	正式进入	17975
+zheng deng	正等	17945
+zheng yin ru ci	正因如此	17885
+zheng liu shui	蒸馏水	17715
+zheng ban ruan jian	正版软件	17695
+zheng ge guo jia	整个国家	17660
+zheng zhu jian	正逐渐	17605
+zheng gong	政工	17505
+zheng da yan jing	睁大眼睛	17445
+zheng dao	挣到	17380
+zheng zhou da xue	郑州大学	17370
+zheng guo	郑国	17335
+zheng duo zhan	争夺战	17300
+zheng ti li yi	整体利益	17170
+zheng fu	正负	17145
+zheng zhi wen ti	政治问题	17110
+zheng ming shang biao	证明商标	16995
+zheng zhi gong zuo	政治工作	16925
+zheng shou biao zhun	征收标准	16800
+zheng bei	整备	16750
+zheng fu cai gou fa	政府采购法	16735
+zheng qi fen kai	政企分开	16725
+zheng li chu	整理出	16645
+zheng kuai	整块	16490
+zheng ti shi li	整体实力	16435
+zheng shuo	正说	16360
+zheng quan gu fen	证券股份	16200
+zheng ze	正则	16099
+zheng rong	峥嵘	16090
+zheng chang sheng chan	正常生产	15940
+zheng quan shi bao	证券时报	15840
+zheng guang	争光	15835
+zheng zheng qi qi	整整齐齐	15815
+zheng quan hua	证券化	15795
+zheng chu	整除	15778
+zheng gai gong zuo	整改工作	15770
+zheng chang	整场	15765
+zheng xie fu zhu xi	政协副主席	15650
+zheng hao xiang fan	正好相反	15610
+zheng gai qing kuang	整改情况	15590
+zheng tan	政坛	15475
+zheng que tian xie	正确填写	15470
+zheng dui zhe	正对着	15460
+zheng ju bu zu	证据不足	15370
+zheng zai yun xing	正在运行	15295
+zheng di	整地	15255
+zheng zhi ju	政治局	15085
+zheng mian lin	正面临	15075
+zheng ce tiao zheng	政策调整	15025
+zheng qi	争气	15010
+zheng ji	整季	15000
+zheng de	正德	14960
+zheng fa qi	蒸发器	14835
+zheng ling	政令	14740
+zheng shu zhi du	证书制度	14740
+zheng quan ye	证券业	14730
+zheng yao	政要	14525
+zheng mian lin zhe	正面临着	14495
+zheng guo	正果	14380
+zheng ti shang shi	整体上市	14370
+zheng ming	正名	14365
+zheng zhi xing	政治性	14345
+zheng fu men hu	政府门户	14145
+zheng que ling dao	正确领导	14080
+zheng fu zhi neng zhuan bian	政府职能转变	14000
+zheng zhao	正着	13980
+zheng ka	证卡	13965
+zheng zhuang	正装	13880
+zheng wen huo dong	征文活动	13850
+zheng zhou ri chan	郑州日产	13839
+zheng dian	正殿	13685
+zheng dong	正东	13670
+zheng xian	正弦	13655
+zheng xiu wen	郑秀文	13650
+zheng tai	正泰	13440
+zheng di chai qian	征地拆迁	13385
+zheng zhi fang xiang	政治方向	13370
+zheng shou ying ye shui	征收营业税	13360
+zheng chuang yi liu	争创一流	13310
+zheng dai	正待	13290
+zheng chang zhi xu	正常秩序	13255
+zheng pian	正片	13200
+zheng fu zhe	征服者	13160
+zheng zhe	睁着	13105
+zheng ban fa	政办发	13075
+zheng dang xing	正当性	13065
+zheng fu jue ce	政府决策	12960
+zheng zai bo fang	正在播放	12950
+zheng fu zu zhi	政府组织	12905
+zheng dian	正点	12885
+zheng dang quan yi	正当权益	12875
+zheng jiao	政教	12875
+zheng chang zhi	正常值	12820
+zheng quan dai ma	证券代码	12795
+zheng jiao chu	政教处	12755
+zheng bian	整编	12715
+zheng le	挣了	12630
+zheng shou ge ren suo de shui	征收个人所得税	12560
+zheng dui mian	正对面	12505
+zheng bai wen	郑百文	12500
+zheng ding	正定	12400
+zheng ji huo dong	征集活动	12400
+zheng chang kai zhan	正常开展	12360
+zheng que lv	正确率	12335
+zheng shi yong	正使用	12225
+zheng zhi wen hua	政治文化	12150
+zheng li yi xia	整理一下	12130
+zheng fu jian guan	政府监管	12110
+zheng li hou	整理后	12070
+zheng ce jian yi	政策建议	12050
+zheng zhi zhe xue	政治哲学	11955
+zheng zhi bu zhu ren	政治部主任	11925
+zheng jiao	正交	11900
+zheng gui jun	正规军	11725
+zheng ju que zao	证据确凿	11645
+zheng yong	正用	11600
+zheng chang qing kuang	正常情况	11580
+zheng zhi dou zheng	政治斗争	11495
+zheng teng	蒸腾	11480
+zheng shi de	证实的	11445
+zheng shou	正手	11420
+zheng que fang xiang	正确方向	11395
+zheng shi wei le	正是为了	11325
+zheng ren zheng yan	证人证言	11250
+zheng chang shui ping	正常水平	11245
+zheng ti jie gou	整体结构	11120
+zheng zhi quan li	政治权力	11115
+zheng xie	正邪	11050
+zheng ti chu fang	整体厨房	11015
+zheng chu	正处	10975
+zheng jiao suo	证交所	10955
+zheng xian bo	正弦波	10955
+zheng dian	整点	10910
+zheng que pan duan	正确判断	10880
+zheng gui	正轨	10860
+zheng zhi xue xi	政治学习	10860
+zheng ji	正极	10840
+zheng ce xing yin hang	政策性银行	10830
+zheng fu te shu jin tie	政府特殊津贴	10815
+zheng dang wo	正当我	10810
+zheng dang fang wei	正当防卫	10805
+zheng ci	证词	10755
+zheng gai yi jian	整改意见	10725
+zheng jian	正见	10725
+zheng qi hua yi	整齐划一	10700
+zheng zhi yi shi	政治意识	10700
+zheng tai	整台	10630
+zheng qian fang	正前方	10615
+zheng shu hao	证书号	10580
+zheng lun bu xiu	争论不休	10575
+zheng wan	整晚	10470
+zheng dong	整栋	10445
+zheng quan fa xing	证券发行	10430
+zheng nian	整年	10395
+zheng ju bao quan	证据保全	10345
+zheng ba sai	争霸赛	10315
+zheng chang xian shi	正常显示	10310
+zheng liu qi	整流器	10310
+zheng ji	正畸	10300
+zheng mian jiao yu	正面教育	10270
+zheng quan ye wu	证券业务	10215
+zheng fu bu tie	政府补贴	10190
+zheng gan shang	正赶上	10180
+zheng xing	正行	10180
+zheng ti jing ji	整体经济	10175
+zheng pian	整片	10170
+zheng zai jie shou	正在接受	10165
+zheng xing wai ke	整形外科	10090
+zheng de	挣得	10030
+zheng cai	蒸菜	9999
+zheng ci fa	正词法	9999
+zheng er	整儿	9999
+zheng fan ying	正反应	9999
+zheng feng	争锋	9999
+zheng ji gong cheng	政绩工程	9999
+zheng li	正理	9999
+zheng lian	正脸	9999
+zheng pian er	正片儿	9999
+zheng ri zi	正日子	9999
+zheng xiao ying	正效应	9999
+zheng yan li se	正颜厉色	9999
+zheng you	正有	9999
+zheng zhi sheng tai	政治生态	9999
+zheng shu	正数	9965
+zheng zhi wen ding	政治稳定	9940
+zheng zhi gong cheng	整治工程	9930
+zheng ren	整人	9860
+zheng nian	正念	9855
+zheng yin	正印	9800
+zheng ce ti xi	政策体系	9750
+zheng ling chang tong	政令畅通	9745
+zheng shou fan wei	征收范围	9680
+zheng nan	正南	9675
+zheng shi bi sai	正式比赛	9595
+zheng fu ban gong shi	政府办公室	9525
+zheng zhang zhuan ji	整张专辑	9500
+zheng qi ji	蒸汽机	9475
+zheng chang zhuang tai	正常状态	9470
+zheng shu kao shi	证书考试	9470
+zheng zai deng dai	正在等待	9430
+zheng ban qiao	郑板桥	9420
+zheng quan wang	证券网	9385
+zheng qun	政群	9385
+zheng you	正由	9370
+zheng zai jian she zhong	正在建设中	9335
+zheng shuo zhe	正说着	9320
+zheng zhi huo dong	政治活动	9315
+zheng li	正立	9300
+zheng yan	正眼	9300
+zheng chang xiao shou	正常销售	9295
+zheng quan jing ying	证券经营	9285
+zheng zhuan	正传	9260
+zheng chang hua	正常化	9230
+zheng ti	正体	9190
+zheng long	蒸笼	9165
+zheng zhi li chang	政治立场	9145
+zheng bu kai	睁不开	9090
+zheng ti jing zheng li	整体竞争力	9090
+zheng shi	正史	9070
+zheng fa da xue	政法大学	9050
+zheng fang	正房	9035
+zheng yue shi wu	正月十五	9020
+zheng jing	政经	8915
+zheng mang zhe	正忙着	8890
+zheng feng	正逢	8888
+zheng gou	挣够	8888
+zheng gou le	挣够了	8888
+zheng xiang guan	正相关	8860
+zheng zhi chu	政治处	8860
+zheng ya	正压	8855
+zheng you	征友	8855
+zheng wu zhong xin	政务中心	8770
+zheng zhong yang	正中央	8765
+zheng wen bi sai	征文比赛	8735
+zheng xing shou shu	整形手术	8725
+zheng le	争了	8715
+zheng xiang	整箱	8705
+zheng tao	征讨	8680
+zheng chao zhe	正朝着	8665
+zheng quan jian guan	证券监管	8650
+zheng shi jia ru	正式加入	8615
+zheng lai	挣来	8535
+zheng zhi li du	整治力度	8535
+zheng gui qu dao	正规渠道	8500
+zheng ce shui ping	政策水平	8495
+zheng hao you	正好有	8490
+zheng chang fan wei	正常范围	8440
+zheng fu jue ding	政府决定	8375
+zheng qi	政企	8325
+zheng fan liang fang mian	正反两方面	8310
+zheng shi ru ci	正是如此	8310
+zheng xu yao	正需要	8305
+zheng ce you hui	政策优惠	8270
+zheng zhi fa zhan	政治发展	8235
+zheng ti you shi	整体优势	8195
+zheng xie zhu xi	政协主席	8175
+zheng yuan	正元	8125
+zheng zheng	正正	8125
+zheng ge ou zhou	整个欧洲	8105
+zheng ti bu ju	整体布局	8040
+zheng ce fang mian	政策方面	8035
+zheng jie suo zai	症结所在	8030
+zheng xie ti an	政协提案	7960
+zheng qi dou yan	争奇斗艳	7875
+zheng ti er yan	整体而言	7865
+zheng zhi ju mian	政治局面	7805
+zheng lu	正路	7800
+zheng da suan	正打算	7790
+zheng de	蒸的	7777
+zheng feng	政风	7777
+zheng ren jun zi	正人君子	7745
+zheng fu zhai quan	政府债券	7730
+zheng ji	政纪	7725
+zheng fu gan yu	政府干预	7720
+zheng zhi hua	政治化	7720
+zheng xiong	争雄	7625
+zheng zhong qi shi	郑重其事	7625
+zheng mian	征免	7615
+zheng cun tui jin	整村推进	7610
+zheng fang ti	正方体	7610
+zheng zhan cheng xu	整站程序	7535
+zheng ti shi	整体式	7530
+zheng fu xin xi gong kai tiao li	政府信息公开条例	7465
+zheng que kan dai	正确看待	7420
+zheng fu jun	政府军	7415
+zheng shu fei	证书费	7410
+zheng zhi guan xi	政治关系	7390
+zheng fa	征伐	7385
+zheng wu wang	政务网	7375
+zheng shi fang wen	正式访问	7360
+zheng jian	整件	7350
+zheng li cheng	整理成	7315
+zheng zhi lu xian	政治路线	7310
+zheng zhi li liang	政治力量	7300
+zheng ke ji	正科级	7285
+zheng yi zhi yan	睁一只眼	7280
+zheng shi qian shu	正式签署	7215
+zheng fa ji guan	政法机关	7185
+zheng tuo le	挣脱了	7185
+zheng zhao	征召	7185
+zheng wu	正误	7175
+zheng le	整了	7165
+zheng zhi huan jing	政治环境	7165
+zheng tou	正投	7160
+zheng yin wei zhe yang	正因为这样	7160
+zheng ming ren	证明人	7135
+zheng zhi di wei	政治地位	7115
+zheng ti xiao yi	整体效益	7095
+zheng jiao	蒸饺	7081
+zheng zhi gai ge	政治改革	7080
+zheng he xia xi yang	郑和下西洋	7025
+zheng que jue ce	正确决策	7020
+zheng zhu	正主	7000
+zheng yue chu yi	正月初一	6985
+zheng zhuang dai fa	整装待发	6980
+zheng ti huan jing	整体环境	6970
+zheng fen duo miao	争分夺秒	6960
+zheng bei	正北	6955
+zheng zheng	铮铮	6955
+zheng ding	整定	6845
+zheng ge ye mian	整个页面	6800
+zheng zhi jiao yu	政治教育	6800
+zheng zhong jian	正中间	6785
+zheng zhi xing dong	整治行动	6780
+zheng zhuang	整幢	6775
+zheng shou lv	征收率	6765
+zheng ting	正厅	6750
+zheng pai	正牌	6745
+zheng zhi ren wu	政治人物	6730
+zheng bi	正比	6700
+zheng fa xue yuan	政法学院	6685
+zheng fu	整幅	6685
+zheng ti gan	整体感	6670
+zheng feng	整风	6666
+zheng ce yi ju	政策依据	6660
+zheng fu gui zhang	政府规章	6655
+zheng zai jing li	正在经历	6645
+zheng quan qi huo	证券期货	6640
+zheng zheng yi nian	整整一年	6640
+zheng jian zhao	证件照	6630
+zheng zhi yun dong	政治运动	6625
+zheng zhi ze ren	政治责任	6620
+zheng shou fang shi	征收方式	6595
+zheng qiu yi jian biao	征求意见表	6585
+zheng zhan	争战	6575
+zheng nong	正浓	6530
+zheng xie chang wei	政协常委	6515
+zheng fa liang	蒸发量	6510
+zheng jin wei zuo	正襟危坐	6490
+zheng de	睁得	6485
+zheng jia	正价	6485
+zheng ti lai kan	整体来看	6480
+zheng gao ji	正高级	6465
+zheng zuo	正做	6450
+zheng kai	正楷	6445
+zheng shang fang	正上方	6435
+zheng li chu lai	整理出来	6425
+zheng chang ma	正常吗	6410
+zheng qiang hao sheng	争强好胜	6370
+zheng fu shou nao	政府首脑	6365
+zheng wei	正位	6360
+zheng pian	整篇	6310
+zheng tu	正途	6305
+zheng ye	整页	6290
+zheng xiang zhe	正想着	6280
+zheng shi dai biao	正式代表	6275
+zheng lai	正来	6220
+zheng fu zi zhu	政府资助	6210
+zheng kai	挣开	6175
+zheng ming xin	证明信	6170
+zheng he	整盒	6138
+zheng fu shi jie	征服世界	6095
+zheng zhuang	整装	6090
+zheng zhi	整只	6080
+zheng xing bian liang	整型变量	6054
+zheng jie	正解	6040
+zheng gao	正高	6035
+zheng chu ji	正处级	6020
+zheng han	正酣	6015
+zheng hun wang	征婚网	6005
+zheng zhu	蒸煮	6000
+zheng fu quan li	政府权力	5995
+zheng zhuang xiao shi	症状消失	5975
+zheng de	整得	5945
+zheng ce wen jian	政策文件	5935
+zheng duan	整段	5895
+zheng zhi jue wu	政治觉悟	5895
+zheng fu guan zhi	政府管制	5890
+zheng dang zhi du	政党制度	5880
+zheng ce fa gui si	政策法规司	5875
+zheng le yi xia	怔了一下	5845
+zheng zai shi gong	正在施工	5845
+zheng hong	正红	5840
+zheng da guang ming	正大光明	5825
+zheng ji chu fen	政纪处分	5825
+zheng jiang	正将	5820
+zheng xie ji guan	政协机关	5815
+zheng hou qun	症候群	5770
+zheng tian dou	整天都	5765
+zheng xiang fan	正相反	5745
+zheng zhe yan jing	睁着眼睛	5725
+zheng na	征纳	5695
+zheng lun	政论	5685
+zheng fu ban	政府办	5679
+zheng fan mian	正反面	5675
+zheng wu yuan	政务院	5665
+zheng zhi yin su	政治因素	5665
+zheng su	整肃	5655
+zheng duo shi chang	争夺市场	5650
+zheng yan	争艳	5650
+zheng tai fen bu	正态分布	5640
+zheng jian	整间	5625
+zheng shi shou quan	正式授权	5615
+zheng hun jiao you	征婚交友	5605
+zheng zai zu zhi	正在组织	5575
+zheng fang	蒸房	5555
+zheng feng	正风	5555
+zheng ge wan shang	整个晚上	5555
+zheng shi	蒸食	5555
+zheng wang	正往	5555
+zheng ji zhong	征集中	5545
+zheng bu	正步	5525
+zheng fu ban gong ting	政府办公厅	5510
+zheng fu de zhi neng	政府的职能	5500
+zheng shao qiu	郑少秋	5435
+zheng shu	正书	5435
+zheng ti chu gui	整体橱柜	5430
+zheng lun zhong	争论中	5410
+zheng zhi ben se	政治本色	5395
+zheng shi tong zhi	正式通知	5375
+zheng hou	症候	5370
+zheng que fen xi	正确分析	5365
+zheng fa bu men	政法部门	5360
+zheng guo	蒸锅	5345
+zheng guan fa	征管法	5340
+zheng ju	正剧	5310
+zheng xin	正心	5310
+zheng zhi zu zhi	政治组织	5305
+zheng ce xin xi	政策信息	5285
+zheng mian jiao feng	正面交锋	5260
+zheng shang	正上	5245
+zheng que xian shi	正确显示	5235
+zheng yuan	正圆	5220
+zheng ren	正人	5215
+zheng mian chong tu	正面冲突	5210
+zheng qu shi jian	争取时间	5205
+zheng ce bian hua	政策变化	5185
+zheng ren	征人	5185
+zheng ben	整本	5180
+zheng fan liang mian	正反两面	5180
+zheng shu bei	整数倍	5160
+zheng ti yi gui	整体衣柜	5155
+zheng da ji tuan	正大集团	5145
+zheng shi zhi gong	正式职工	5145
+zheng fa le	蒸发了	5120
+zheng ji lun wen	征集论文	5115
+zheng deng zhe	正等着	5095
+zheng da	正打	5075
+zheng shou	整首	5075
+zheng dang shou duan	正当手段	5055
+zheng you yu	正由于	5050
+zheng quan hang ye	证券行业	5025
+zheng tu shang	征途上	5010
+zheng ge shen zi	整个身子	5000
+zheng quan yan jiu suo	证券研究所	4970
+zheng chu	整出	4945
+zheng er ba jing	正儿八经	4945
+zheng chang xi bao	正常细胞	4940
+zheng quan cheng xiao	证券承销	4932
+zheng jiu ni	拯救你	4900
+zheng shi gong zuo	正式工作	4895
+zheng zhi mu di	政治目的	4895
+zheng fu ze ren	政府责任	4890
+zheng dang li yi	正当利益	4875
+zheng hao	郑浩	4855
+zheng tong guo	正通过	4855
+zheng wu	证物	4845
+zheng fa xi tong	政法系统	4810
+zheng deng dai	正等待	4805
+zheng qi guo lu	蒸汽锅炉	4795
+zheng xia fang	正下方	4790
+zheng fa dui wu	政法队伍	4785
+zheng shou ban fa	征收办法	4765
+zheng qu he ping	争取和平	4755
+zheng dui	整队	4745
+zheng shi he tong	正式合同	4725
+zheng feng chi cu	争风吃醋	4710
+zheng jiao	正教	4705
+zheng jing shi	正经事	4705
+zheng zhi	整枝	4685
+zheng pian wen zhang	整篇文章	4675
+zheng ce you shi	政策优势	4660
+zheng fu da lou	政府大楼	4655
+zheng gou	征购	4645
+zheng gen	正跟	4620
+zheng da qian	挣大钱	4615
+zheng rong shou shu	整容手术	4600
+zheng he xing	整合性	4585
+zheng ben qing yuan	正本清源	4575
+zheng qie	正切	4570
+zheng ju xian shi	证据显示	4530
+zheng si	整死	4525
+zheng shi shi hou	正是时候	4515
+zheng dian	正电	4510
+zheng shi you	正是由	4505
+zheng duo zhong	争夺中	4500
+zheng zai yan zhi	正在研制	4485
+zheng zhi xing shi	政治形势	4470
+zheng yuan	正源	4450
+zheng gu	整蛊	4444
+zheng qian	征迁	4444
+zheng shi	正时	4444
+zheng an	正安	4440
+zheng zhou shang pin jiao yi suo	郑州商品交易所	4440
+zheng zhuan	正转	4440
+zheng gui jiao yu	正规教育	4430
+zheng tong ren he	政通人和	4430
+zheng zai zhong guo	正在中国	4430
+zheng di	政敌	4420
+zheng quan duo li	争权夺利	4415
+zheng jian ju	证监局	4405
+zheng sheng	争胜	4390
+zheng zai na li	正在那里	4390
+zheng ke	正可	4380
+zheng tang	正堂	4375
+zheng zhi min gan	政治敏感	4355
+zheng gao qi shi	征稿启事	4350
+zheng ti hua	整体化	4350
+zheng yin	正音	4335
+zheng de	正得	4325
+zheng he xing	整合型	4320
+zheng zai bei jing	正在北京	4310
+zheng yan	正盐	4282
+zheng chang zhe	正常者	4280
+zheng hun ren	证婚人	4265
+zheng quan	争权	4225
+zheng jian	政见	4220
+zheng fu zong li	政府总理	4210
+zheng chong	争宠	4180
+zheng ju	整句	4150
+zheng ce jiao yu	政策教育	4145
+zheng dian he	正电荷	4140
+zheng zhi ji guan	政治机关	4115
+zheng qi bu fen	政企不分	4110
+zheng ju gui ze	证据规则	4095
+zheng jiu pin	正九品	4075
+zheng guo	证果	4055
+zheng hao	整好	4055
+zheng zhi fan	政治犯	4035
+zheng ge er	整个儿	4030
+zheng xing shu	整形术	4010
+zheng zhi si xiang gong zuo	政治思想工作	4010
+zheng zhi ying xiang	政治影响	3995
+zheng shi	整式	3990
+zheng xiao yu	郑筱萸	3990
+zheng li ji	整理剂	3975
+zheng fu nei bu	政府内部	3960
+zheng jian	整建	3960
+zheng yi jie jue ban fa	争议解决办法	3935
+zheng zi	正字	3930
+zheng shou guan shui	征收关税	3925
+zheng zhi shi jian	政治事件	3925
+zheng li	争利	3915
+zheng zhi ling dao	政治领导	3915
+zheng quan shang	证券商	3910
+zheng xue	郑学	3905
+zheng dian zi	正电子	3885
+zheng gu	正骨	3885
+zheng shi gong	正式工	3880
+zheng shi xian shi	正视现实	3865
+zheng shen	正身	3845
+zheng zu	整组	3845
+zheng rong sui yue	峥嵘岁月	3835
+zheng zhi bu xia	争执不下	3830
+zheng jiao he yi	政教合一	3825
+zheng jian shi	整件事	3820
+zheng ze pi pei	正则匹配	3807
+zheng que wei zhi	正确位置	3800
+zheng zhi shi li	政治势力	3785
+zheng che chang	整车厂	3775
+zheng na zhe	正拿着	3760
+zheng liu jiu	蒸馏酒	3746
+zheng fu dai biao	政府代表	3745
+zheng mang	正忙	3735
+zheng fu ji	正负极	3730
+zheng fa de	蒸发的	3725
+zheng quan ji gou	证券机构	3725
+zheng lian	整脸	3695
+zheng zhi wu tai	政治舞台	3680
+zheng gong	争功	3660
+zheng zheng shu	正整数	3655
+zheng quan bu	证券部	3645
+zheng wei	证伪	3640
+zheng zhen duo	郑振铎	3640
+zheng xin	正新	3630
+zheng zai gui hua	正在规划	3630
+zheng feng yun dong	整风运动	3625
+zheng sheng	正盛	3620
+zheng xie ban	政协办	3620
+zheng yan	正言	3570
+zheng zai lian jie	正在连接	3570
+zheng yan shi	政研室	3550
+zheng zhi xi	政治系	3535
+zheng ju jiao huan	证据交换	3515
+zheng le yi zheng	怔了一怔	3515
+zheng shi xuan gao	正式宣告	3460
+zheng yong	争用	3458
+zheng ju chong fen	证据充分	3430
+zheng jiao shou	正教授	3425
+zheng quan lei	证券类	3420
+zheng quan tou zi zhe	证券投资者	3420
+zheng duo zhan zhong	争夺战中	3400
+zheng fan	蒸饭	3390
+zheng peng	正碰	3390
+zheng quan xin xi	证券信息	3390
+zheng zhi feng xian	政治风险	3385
+zheng gong gan bu	政工干部	3375
+zheng gong ke	政工科	3375
+zheng zhang	证章	3370
+zheng chu duo men	政出多门	3365
+zheng hou	征候	3360
+zheng zhi tai du	政治态度	3360
+zheng zhi	整支	3355
+zheng huo	正火	3345
+zheng ce he zhi du	政策和制度	3340
+zheng gang	正刚	3335
+zheng ti guan nian	整体观念	3335
+zheng bei	整杯	3333
+zheng chou	正愁	3333
+zheng chou mei	正愁没	3333
+zheng chou mei ren	正愁没人	3333
+zheng de wo	整得我	3333
+zheng fang li de nan ren	蒸房里的男人	3333
+zheng fang li de nv ren	蒸房里的女人	3333
+zheng fang li de ren	蒸房里的人	3333
+zheng mei	正妹	3333
+zheng pen	整盆	3333
+zheng pen er	整盆儿	3333
+zheng qi huo che	蒸汽火车	3333
+zheng san jiao	正三角	3333
+zheng sang na	蒸桑拿	3333
+zheng xuan	征选	3333
+zheng yu	蒸鱼	3333
+zheng zhong ba xin de fei biao	正中靶心的飞镖	3333
+zheng shi lu qu	正式录取	3325
+zheng bu kai yan	睁不开眼	3320
+zheng bi li	正比例	3305
+zheng ce mian	政策面	3305
+zheng pi	整批	3295
+zheng chi	整饬	3290
+zheng hao	蒸好	3290
+zheng hao ma	证号码	3285
+zheng chang qu dao	正常渠道	3270
+zheng shi lu yong	正式录用	3270
+zheng ding xian	正定县	3260
+zheng yan hui	政研会	3260
+zheng hao fu he	正好符合	3255
+zheng zhi yan lun	政治言论	3255
+zheng guang	正光	3250
+zheng qi fang	蒸汽房	3250
+zheng hun	证婚	3240
+zheng kan zhe	正看着	3225
+zheng jian zhao pian	证件照片	3200
+zheng zhou wan bao	郑州晚报	3200
+zheng ming dan	证明单	3190
+zheng ge	争个	3180
+zheng yi xing	争议性	3180
+zheng zai fang wen	正在访问	3175
+zheng ce jie xian	政策界限	3165
+zheng chang jiao yi	正常交易	3165
+zheng dang cheng xu	正当程序	3165
+zheng zhi shi	政治史	3165
+zheng shang	蒸上	3155
+zheng bu dao	挣不到	3150
+zheng ri	正日	3145
+zheng he shi	正合适	3140
+zheng shou ge	整首歌	3140
+zheng shou ge dou	整首歌都	3140
+zheng shou ge dou shi	整首歌都是	3140
+zheng ba zhan	争霸战	3135
+zheng ke yi	正可以	3135
+zheng dun shi chang	整顿市场	3115
+zheng mang yu	正忙于	3110
+zheng xie hui yi	政协会议	3100
+zheng zhi min zhu	政治民主	3090
+zheng diao	征调	3085
+zheng fa diao	蒸发掉	3065
+zheng pan	整盘	3055
+zheng fa xi	政法系	3045
+zheng fu zhi chu	政府支出	3025
+zheng hun qi shi	征婚启事	3025
+zheng dan	蒸蛋	3020
+zheng chang jia ge	正常价格	3005
+zheng xian	正线	2995
+zheng yi liu	争一流	2980
+zheng dang quan li	正当权利	2955
+zheng zhi zi you	政治自由	2940
+zheng chu	正出	2935
+zheng guo	整过	2930
+zheng qi ji che	蒸汽机车	2930
+zheng ce xiao ying	政策效应	2920
+zheng zai mang zhe	正在忙着	2920
+zheng cun	整存	2910
+zheng xi	正西	2910
+zheng ming	征名	2905
+zheng zhi bu fu zhu ren	政治部副主任	2895
+zheng tang	整烫	2880
+zheng liu dian lu	整流电路	2860
+zheng zou xiang	正走向	2860
+zheng mian zhan chang	正面战场	2855
+zheng shi tan pan	正式谈判	2852
+zheng tong	政通	2850
+zheng dang zheng zhi	政党政治	2840
+zheng que tai du	正确态度	2840
+zheng ze hua	正则化	2823
+zheng shi cheng ren	正式承认	2810
+zheng quan ji guan	政权机关	2785
+zheng ming yi qie	证明一切	2780
+zheng que qu fen	正确区分	2770
+zheng qian le	挣钱了	2755
+zheng shou zheng yong	征收征用	2755
+zheng qi you xu	整齐有序	2750
+zheng shi que ren	正式确认	2735
+zheng ming zhong guo	证明中国	2730
+zheng shu ming cheng	证书名称	2730
+zheng ju fa	证据法	2725
+zheng fu zhi ze	政府职责	2720
+zheng zhong xuan bu	郑重宣布	2715
+zheng teng zuo yong	蒸腾作用	2700
+zheng xing yi yuan	整形医院	2695
+zheng ge	挣个	2690
+zheng shi luo hu	正式落户	2690
+zheng ding chun	正丁醇	2685
+zheng quan gong si jian du guan li tiao li	证券公司监督管理条例	2681
+zheng ce gong ju	政策工具	2680
+zheng li de	整理得	2680
+zheng xia	正下	2680
+zheng le zheng	整了整	2675
+zheng quan jiao yi jia ge	证券交易价格	2670
+zheng zai kai shi	正在开始	2670
+zheng zhi fu bai	政治腐败	2670
+zheng zhi wei ji	政治危机	2665
+zheng huan	正欢	2660
+zheng le qian	挣了钱	2655
+zheng dang	整党	2645
+zheng shen	正神	2645
+zheng zai mei guo	正在美国	2635
+zheng dang shi	正当时	2630
+zheng shi	整饰	2630
+zheng zhi gang ling	政治纲领	2625
+zheng zhe yan	睁着眼	2615
+zheng xu	正需	2610
+zheng dang jing zheng	正当竞争	2605
+zheng fa wei yuan hui	政法委员会	2590
+zheng yu	正欲	2590
+zheng hun guang gao	征婚广告	2575
+zheng que lu xian	正确路线	2575
+zheng song	争讼	2575
+zheng kou qi	争口气	2570
+zheng gong	正宫	2565
+zheng mian	整面	2565
+zheng shi jie shou	正式接受	2565
+zheng fan kui	正反馈	2560
+zheng gou	争购	2545
+zheng zhi bao gao	政治报告	2530
+zheng jiu zhe	拯救者	2515
+zheng he fang an	整合方案	2510
+zheng zhong xia huai	正中下怀	2510
+zheng zhi xuan chuan	政治宣传	2505
+zheng yi wen ti	争议问题	2500
+zheng fa	征发	2495
+zheng zhou ji piao	郑州机票	2490
+zheng chang yin shi	正常饮食	2485
+zheng mian	蒸面	2479
+zheng qing	正清	2465
+zheng ti mian mao	整体面貌	2465
+zheng xue	正学	2465
+zheng chao bu xiu	争吵不休	2455
+zheng shi wen ben	正式文本	2455
+zheng zhi li nian	政治理念	2435
+zheng wen bu fen	正文部分	2430
+zheng gai tong zhi	整改通知	2400
+zheng quan zhi xing	证券之星	2395
+zheng jing ba bai	正经八百	2375
+zheng tian xia	争天下	2365
+zheng yi xing	正义性	2360
+zheng ping	整瓶	2350
+zheng ge shang wu	整个上午	2345
+zheng qi ya li	蒸汽压力	2345
+zheng zhi mian mu	政治面目	2345
+zheng chang su du	正常速度	2325
+zheng ti jiao xue	整体教学	2325
+zheng xun	整训	2325
+zheng li ci pan	整理磁盘	2320
+zheng jiu di qiu	拯救地球	2315
+zheng liu er ji guan	整流二极管	2300
+zheng shi dui yuan	正式队员	2295
+zheng qi yu	蒸汽浴	2285
+zheng yang men	正阳门	2275
+zheng fu gong bao	政府公报	2255
+zheng quan zhang hu	证券账户	2255
+zheng zhi mu biao	政治目标	2255
+zheng hao neng	正好能	2250
+zheng quan tong	证券通	2245
+zheng ji wan	正己烷	2230
+zheng ye de	整夜的	2230
+zheng fu zhai wu	政府债务	2225
+zheng chao	正朝	2222
+zheng ge	蒸个	2222
+zheng zhi xue yuan	政治学院	2220
+zheng quan bao	证券报	2215
+zheng che wei	争车位	2209
+zheng li zi	正离子	2205
+zheng qi	征期	2195
+zheng quan jia ge	证券价格	2195
+zheng quan gong si feng xian chu zhi tiao li	证券公司风险处置条例	2191
+zheng fang xiang	正方向	2175
+zheng ma	郑码	2170
+zheng fu gao guan	政府高官	2165
+zheng fu jin tie	政府津贴	2160
+zheng fu shou zhi fen lei gai ge	政府收支分类改革	2160
+zheng qi ge	正气歌	2160
+zheng qiang	争强	2140
+zheng tong	正通	2135
+zheng yi lun	正义论	2135
+zheng chang you xu	正常有序	2125
+zheng jun	整军	2120
+zheng hua	正话	2115
+zheng jin	正紧	2110
+zheng qu sheng li	争取胜利	2110
+zheng qi lin ran	正气凛然	2100
+zheng he	郑和	2097
+zheng wu	正屋	2090
+zheng zhi zhi dao yuan	政治指导员	2085
+zheng ji chu	征稽处	2080
+zheng dang hua	正当化	2075
+zheng ming xing	证明性	2075
+zheng gai	正该	2070
+zheng shang	政商	2065
+zheng zhi xue jia	政治学家	2065
+zheng li zhe	整理者	2060
+zheng yan jiu	正研究	2060
+zheng zai xue	正在学	2060
+zheng zhou tie lu ju	郑州铁路局	2060
+zheng juan	整卷	2045
+zheng shu zhi	整数值	2045
+zheng ting ji	正厅级	2045
+zheng yu	正于	2045
+zheng gen	整根	2035
+zheng hun zhe	征婚者	2025
+zheng quan jiao yi fa	证券交易法	2025
+zheng yue	整月	2020
+zheng shu fu wu	证书服务	2015
+zheng fu shou ru	政府收入	2010
+zheng liu qiao	整流桥	2005
+zheng zai xiang shou	正在享受	2005
+zheng ji	整纪	1999
+zheng fu jiang	政府奖	1995
+zheng fu dang ju	政府当局	1990
+zheng ju ji	正局级	1990
+zheng zheng tie gu	铮铮铁骨	1985
+zheng zhi ju shi	政治局势	1970
+zheng gang	政纲	1965
+zheng zhi chang shi	政治常识	1965
+zheng zai liu xing	正在流行	1960
+zheng zhi ke	政治科	1955
+zheng chi	争持	1950
+zheng fu dian zi	正负电子	1950
+zheng shu zhe	证书者	1945
+zheng gao	蒸糕	1941
+zheng ju dong dang	政局动荡	1940
+zheng ce xing kui sun	政策性亏损	1935
+zheng zhong de shuo	郑重地说	1925
+zheng zhi shou duan	政治手段	1920
+zheng che ji ling bu jian	整车及零部件	1913
+zheng dian	争点	1905
+zheng dao	正到	1895
+zheng yue chu wu	正月初五	1885
+zheng ju que shi chong fen	证据确实充分	1880
+zheng mian ren wu	正面人物	1870
+zheng zhi tuan ti	政治团体	1870
+zheng chao qi lai	争吵起来	1860
+zheng zai kai hui	正在开会	1860
+zheng xing chang liang	整型常量	1854
+zheng ce xing guan bi po chan	政策性关闭破产	1843
+zheng san jiao xing	正三角形	1840
+zheng huang qi	正黄旗	1825
+zheng jie ke	整节课	1825
+zheng zhi tou nao	政治头脑	1825
+zheng jie ren shi	政界人士	1820
+zheng yue chu er	正月初二	1820
+zheng zheng	蒸蒸	1810
+zheng shang you	争上游	1805
+zheng ben shu	整本书	1790
+zheng gao	正告	1790
+zheng yang	正阳	1786
+zheng yi shi ye	正义事业	1785
+zheng zhi yan bi zhi yan	睁只眼闭只眼	1780
+zheng shuo	正朔	1770
+zheng zhe	争着	1766
+zheng liu qi	蒸馏器	1750
+zheng duo zhe	争夺者	1730
+zheng ju wen ding	政局稳定	1730
+zheng yin	征引	1725
+zheng zheng jing jing	正正经经	1725
+zheng li	整粒	1705
+zheng mu	征募	1700
+zheng yi	整衣	1700
+zheng yi lu	正义路	1700
+zheng quan wei yuan hui	证券委员会	1697
+zheng chang fang shi	正常方式	1680
+zheng ming duo li	争名夺利	1680
+zheng shi xie yi	正式协议	1680
+zheng wu	证悟	1677
+zheng yue chu san	正月初三	1675
+zheng zhi qing kuang	政治情况	1675
+zheng fu	征夫	1670
+zheng rou	蒸肉	1665
+zheng shi hui yi	正式会议	1665
+zheng jie	整节	1660
+zheng zhang	整章	1660
+zheng zhi yi shi xing tai	政治意识形态	1650
+zheng long	正隆	1645
+zheng zhi ke xue	政治科学	1645
+zheng qu	正取	1635
+zheng xing wai ke yi yuan	整形外科医院	1635
+zheng zhi shi ti	政治试题	1635
+zheng duo bian xing	正多边形	1630
+zheng ke	整颗	1630
+zheng chu	挣出	1620
+zheng lan qi	正蓝旗	1620
+zheng zhan xi tong	整站系统	1615
+zheng chang xu yao	正常需要	1610
+zheng hang	整行	1605
+zheng dang xing wei	正当行为	1595
+zheng hou fang	正后方	1595
+zheng guan	争冠	1590
+zheng zai hui fu	正在恢复	1575
+zheng zhi jie jue	政治解决	1575
+zheng fen	正分	1565
+zheng he xi tong	整合系统	1565
+zheng ding zhi	整定值	1560
+zheng duo guan jun	争夺冠军	1560
+zheng zhi xing dong	政治行动	1550
+zheng ke	正课	1545
+zheng wu si	政务司	1545
+zheng pai	整排	1530
+zheng shi wei tuo	正式委托	1530
+zheng zhi ji tuan	政治集团	1525
+zheng bu liao	挣不了	1520
+zheng ce fang zhen	政策方针	1515
+zheng shi shu	整十数	1515
+zheng que	正缺	1500
+zheng gai	政改	1490
+zheng ke xin	整颗心	1490
+zheng lie	整列	1485
+zheng lun	正论	1485
+zheng ji	征稽	1480
+zheng fa lei	政法类	1460
+zheng yi an	争议案	1460
+zheng chen	征尘	1455
+zheng yi kou qi	争一口气	1455
+zheng yue chu qi	正月初七	1455
+zheng yan	证验	1450
+zheng chang ti	正常体	1445
+zheng fa gan bu	政法干部	1445
+zheng dang yao qiu	正当要求	1435
+zheng ju lai yuan	证据来源	1435
+zheng tuan	整团	1435
+zheng jing ji	整经机	1430
+zheng ke	正科	1428
+zheng fu biao shi	政府表示	1425
+zheng quan ming cheng	证券名称	1425
+zheng you	诤友	1425
+zheng fen	整份	1420
+zheng lun jia	政论家	1415
+zheng li ren	整理人	1410
+zheng wen zi ti	正文字体	1405
+zheng zhi pai bie	政治派别	1405
+zheng gong shi	政工师	1400
+zheng zai lian xi	正在联系	1400
+zheng fu dan bao	政府担保	1390
+zheng yi dang shi ren	争议当事人	1380
+zheng qi ya	蒸汽压	1375
+zheng que guan nian	正确观念	1375
+zheng shu zhuang	正梳妆	1370
+zheng zhi dong dang	政治动荡	1370
+zheng quan shi chang zhou kan	证券市场周刊	1365
+zheng gui bu dui	正规部队	1360
+zheng ka da yin ji	证卡打印机	1360
+zheng zai jia	正在家	1360
+zheng ce si	政策司	1345
+zheng nan fang	正南方	1345
+zheng le	蒸了	1340
+zheng ming zhe	证明者	1335
+zheng chang she bei	整厂设备	1330
+zheng qi jia re	蒸汽加热	1325
+zheng liang	征粮	1320
+zheng bi guan xi	正比关系	1315
+zheng gui shou xu	正规手续	1310
+zheng he xian	政和县	1310
+zheng zhou ri chan pa la ding	郑州日产帕拉丁	1308
+zheng ce xue	政策学	1295
+zheng shui ji guan	征税机关	1290
+zheng quan wei	证券委	1285
+zheng zai gan	正在干	1285
+zheng dao shi	正道是	1275
+zheng fan	征帆	1270
+zheng qing	政情	1270
+zheng zhi dao de	政治道德	1270
+zheng li	正例	1269
+zheng chao hou	争吵后	1265
+zheng fa min	蒸发皿	1265
+zheng sheng	正声	1265
+zheng liu bian xing	正六边形	1260
+zheng bing chun	正丙醇	1255
+zheng duan	挣断	1255
+zheng zai shen li	正在审理	1255
+zheng he wo yi	正合我意	1250
+zheng liang	铮亮	1250
+zheng ying	正营	1250
+zheng chao	蒸炒	1230
+zheng duo sai	争夺赛	1230
+zheng quan ji gou	政权机构	1230
+zheng ren	正仁	1230
+zheng ting	正听	1230
+zheng mian tu	正面图	1225
+zheng shi yao qing	正式邀请	1225
+zheng yuan jie	郑渊洁	1224
+zheng ze biao da	正则表达	1221
+zheng bi yu	正比于	1220
+zheng shu guan	整数关	1220
+zheng qi lun ji	蒸汽轮机	1215
+zheng tong pai	正统派	1210
+zheng jun	政军	1205
+zheng yi lin ran	正义凛然	1205
+zheng duan de jie jue	争端的解决	1195
+zheng ju mu lu	证据目录	1195
+zheng bu ji	正部级	1190
+zheng jie	正接	1190
+zheng ke	整棵	1190
+zheng xie quan guo wei yuan hui	政协全国委员会	1185
+zheng bei fang	正北方	1180
+zheng ce hua	正策划	1180
+zheng de si	争得似	1180
+zheng fei ji chu	政非己出	1180
+zheng gu guo wan qiu	正故国晚秋	1180
+zheng ju ji	正聚集	1180
+zheng li de	整理的	1180
+zheng lun zhe	争论着	1180
+zheng shi he tun yu shang shi	正是河豚欲上时	1180
+zheng shi jiang nan hao feng jing	正是江南好风景	1180
+zheng shi zhe	正是这	1180
+zheng tai	正态	1180
+zheng xi jiang jun	征西将军	1180
+zheng zai jie shou	正在接收	1180
+zheng zai lian xi	正在练习	1180
+zheng zai shou	正在收	1180
+zheng zhe	挣着	1180
+zheng pei min	郑培民	1179
+zheng shi tang	政事堂	1170
+zheng yan	诤言	1170
+zheng chang jie shou	正常接收	1165
+zheng ge zhan	整个站	1160
+zheng pin	征聘	1160
+zheng ti yu bu fen	整体与部分	1160
+zheng zhi ye xin	政治野心	1160
+zheng li nei wu	整理内务	1155
+zheng zhi an ding	政治安定	1155
+zheng tong si xiang	正统思想	1150
+zheng yang xian	正阳县	1150
+zheng zhi yin mou	政治阴谋	1145
+zheng she ying	正射影	1140
+zheng ban	争办	1135
+zheng shi chang	争市场	1135
+zheng zhou	整周	1135
+zheng zuo	正座	1135
+zheng fu ban	政府版	1125
+zheng zi	整字	1125
+zheng yan shuo xia hua	睁眼说瞎话	1120
+zheng lai zheng qu	争来争去	1115
+zheng dan	整单	1111
+zheng le	怔了	1111
+zheng wan	整完	1111
+zheng wan le	整完了	1111
+zheng wu qiong	正无穷	1111
+zheng zhi bu e	正直不阿	1111
+zheng zu	整租	1111
+zheng lan	正蓝	1110
+zheng ning xian	正宁县	1110
+zheng zhi qi hou	政治气候	1110
+zheng xing wai ke yi sheng	整形外科医生	1105
+zheng zhou zhan	郑州站	1105
+zheng zhi ji gou	政治机构	1100
+zheng dong jiang jun	征东将军	1090
+zheng fa yan cang	正法眼藏	1090
+zheng li huo dong	整理活动	1090
+zheng xing ke	整形科	1090
+zheng zhu	怔住	1090
+zheng zou zhe	正走着	1075
+zheng li xing zhuang	整理行装	1070
+zheng xian ding li	正弦定理	1070
+zheng ce ke xue	政策科学	1065
+zheng guo	争过	1065
+zheng zhu dai	蒸煮袋	1065
+zheng xiang	蒸箱	1060
+zheng chu	争出	1050
+zheng nan	正男	1045
+zheng qiu you guan bu men yi jian	征求有关部门意见	1045
+zheng wen yue du	正文阅读	1045
+zheng ce fa ling	政策法令	1040
+zheng gui	整柜	1035
+zheng xia zhe	正下着	1035
+zheng yi zhan zheng	正义战争	1030
+zheng fu fa gui	政府法规	1025
+zheng kua	整垮	1020
+zheng shui lv	征税率	1020
+zheng you ci yi	正有此意	1020
+zheng qing	正庆	1010
+zheng shi sheng ming	正式声明	1005
+zheng yi dou zheng	正义斗争	1005
+zheng zhi po hai	政治迫害	1005
+zheng zhi cai neng	政治才能	1000
+zheng jiao	征剿	999
+zheng qi	正妻	999
+zheng shuang	郑爽	999
+zheng qi he yi	政企合一	990
+zheng deng	正蹬	989
+zheng chai	征拆	987
+zheng ju zi liao	证据资料	985
+zheng fa	整发	980
+zheng ju	正局	980
+zheng qi yi xie	整齐一些	980
+zheng zhi bi nan	政治避难	980
+zheng tong	整桶	975
+zheng yang lou	正阳楼	967
+zheng jiao hui	证交会	965
+zheng shi yan shou	正式验收	965
+zheng shu ban fa ji gou	证书颁发机构	965
+zheng yan xia	睁眼瞎	960
+zheng zhu	争逐	960
+zheng ge ci pan	整个磁盘	955
+zheng liang	正亮	955
+zheng quan jie	证券界	955
+zheng tou ying	正投影	950
+zheng shi shou ju	正式收据	945
+zheng chang guan xi	正常关系	940
+zheng zhi hun yin	政治婚姻	940
+zheng dun hao	整顿好	930
+zheng fu	整副	930
+zheng qiang zhe	争抢着	930
+zheng bing	蒸饼	925
+zheng bo	正波	920
+zheng he	正合	915
+zheng shi shu	证实书	915
+zheng dong xin	郑东新	905
+zheng ming bai	整明白	905
+zheng nan jiang jun	征南将军	905
+zheng wo	正握	905
+zheng xiang	征象	903
+zheng dang zhong	正当中	900
+zheng que gui dao	正确轨道	900
+zheng jie	政界	897
+zheng liang	正梁	895
+zheng dang fa lv cheng xu	正当法律程序	890
+zheng qi yun dou	蒸汽熨斗	890
+zheng qian yi	正迁移	885
+zheng fu lun	政府论	880
+zheng fu zhi du	政府制度	875
+zheng geng wan	正庚烷	875
+zheng shen	整身	875
+zheng zai shan chu	正在删除	870
+zheng chuan	整串	865
+zheng yue chu shi	正月初十	865
+zheng zhi wu si	正直无私	865
+zheng lve	政略	860
+zheng li wen jian	整理文件	855
+zheng quan jiao yi qing suan	证券交易清算	855
+zheng xiang bai qi	正镶白旗	855
+zheng shi tu	正视图	850
+zheng zheng shi yan	铮铮誓言	850
+zheng zhi xie shang hui yi zhang cheng	政治协商会议章程	848
+zheng shi zhe	正视着	845
+zheng bi	整笔	840
+zheng liu shui qi	蒸馏水器	840
+zheng qi guan dao	蒸汽管道	840
+zheng ren xian zheng ji	正人先正己	840
+zheng shu lian	证书链	839
+zheng zhong	整重	834
+zheng bu zou	正步走	830
+zheng chang mao yi guan xi	正常贸易关系	830
+zheng he bao chuan	郑和宝船	830
+zheng yi yan	睁一眼	830
+zheng ji chang	整机厂	825
+zheng mian miao xie	正面描写	825
+zheng mo	蒸馍	825
+zheng xian	整线	825
+zheng shu guan li	证书管理	823
+zheng bian	正编	820
+zheng ce sheng ming	政策声明	820
+zheng ju hua	整句话	820
+zheng xin chun	正辛醇	820
+zheng liu zhao	整流罩	819
+zheng wen jing sai	征文竞赛	815
+zheng dang nian	正当年	810
+zheng re	蒸热	810
+zheng quan jian du wei yuan hui	证券监督委员会	806
+zheng xiang qiang gou	争相抢购	805
+zheng mu	睁目	795
+zheng xin cheng yi	正心诚意	795
+zheng fu jiu ji	政府救济	785
+zheng che huo wu	整车货物	780
+zheng qi wen du	蒸汽温度	775
+zheng dun jing ji zhi xu	整顿经济秩序	770
+zheng fan	正犯	770
+zheng jian wu zi	整间屋子	770
+zheng mao zhe	正冒着	770
+zheng quan wang zhan	证券网站	765
+zheng zai zeng zhang	正在增长	765
+zheng lun dian	争论点	761
+zheng dong fang	正东方	760
+zheng qi yu shi	蒸汽浴室	760
+zheng chang ban	正常班	755
+zheng zhi	政制	755
+zheng fu fa lv gu wen	政府法律顾问	750
+zheng tian zai jia	整天在家	740
+zheng zhi jian jie	政治见解	740
+zheng pai ren	正派人	735
+zheng quan	整圈	735
+zheng bu	正部	730
+zheng yi zheng	争一争	726
+zheng gui zhan	正规战	725
+zheng zhe yan jing shuo xia hua	睁着眼睛说瞎话	725
+zheng fang dou yan	争芳斗艳	720
+zheng yi	整一	718
+zheng ba	整把	715
+zheng ning mian mu	狰狞面目	715
+zheng fen	挣分	710
+zheng kai zhe	正开着	710
+zheng dian lv	正点率	705
+zheng chuan	整船	700
+zheng ka ji	证卡机	700
+zheng tang she bei	整烫设备	700
+zheng xiu	整宿	700
+zheng xiu mei shui	整宿没睡	700
+zheng fu jia ge jue ce ting zheng ban fa	政府价格决策听证办法	693
+zheng qiao you	正巧有	690
+zheng zhan zhe	正站着	685
+zheng hao	正号	680
+zheng wen qi shi	征文启事	680
+zheng meng le	整蒙了	678
+zheng chan	正产	675
+zheng qi qing jie	整齐清洁	675
+zheng fu hao	正负号	670
+zheng li biao	整理表	670
+zheng ren zhuan jia	整人专家	670
+zheng quan fan zui	证券犯罪	655
+zheng xian qu xian	正弦曲线	655
+zheng chang xiang ying	正常响应	652
+zheng dang guan xi	正当关系	650
+zheng xian sai	争先赛	650
+zheng yi zheng	整一整	650
+zheng ping	整平	648
+zheng wan	整碗	645
+zheng quan ri bao	证券日报	643
+zheng chang nian	正常年	640
+zheng gong zi	挣工资	640
+zheng heng	争衡	640
+zheng min	拯民	640
+zheng zheng dang dang	正正当当	640
+zheng li ban	整理版	637
+zheng xiang qu	蒸湘区	635
+zheng zhi bi hu	政治庇护	635
+zheng de bi	挣得比	630
+zheng fan fang	正反方	630
+zheng fu zhan	政府站	630
+zheng li gan jing	整理干净	630
+zheng fu ta	征服他	625
+zheng jiao de	正交的	625
+zheng xi	正席	625
+zheng quan fa xing shang shi bao jian zhi du zan xing ban fa	证券发行上市保荐制度暂行办法	624
+zheng shu guo qi	证书过期	623
+zheng quan hui gou	证券回购	620
+zheng chang lv	正常率	615
+zheng fu xu ke	政府许可	615
+zheng gui jun dui	正规军队	615
+zheng rong shu	整容术	615
+zheng ce	正册	610
+zheng chuan zhe	正穿着	610
+zheng jiu dui	拯救队	610
+zheng xiang dai li	正向代理	608
+zheng shi yao qiu	正式要求	605
+zheng ya li	正压力	605
+zheng ge yue	整个月	595
+zheng zhi jiao dao yuan	政治教导员	595
+zheng bi	征辟	590
+zheng dun zuo feng	整顿作风	580
+zheng fu gong zhai	政府公债	580
+zheng li	政理	580
+zheng qiao shi	正巧是	580
+zheng le zheng	怔了怔	579
+zheng jia shi	正驾驶	575
+zheng ren mai lv	郑人买履	575
+zheng zhi jie	政治界	575
+zheng bu	整补	565
+zheng ge fa	整个法	565
+zheng en lai	郑恩来	562
+zheng bing zhi	征兵制	560
+zheng dou bu xiu	争斗不休	560
+zheng fu zu	政府组	560
+zheng jue	正角	560
+zheng xiang sou suo	正向搜索	560
+zheng zhi dui wu	整支队伍	560
+zheng zai he	正在和	555
+zheng dan	正旦	550
+zheng xuan	正选	547
+zheng fa leng que	蒸发冷却	545
+zheng guan zhuang bei	正官庄杯	545
+zheng jing dian	正经点	540
+zheng zhi fa lv zhi du	政治法律制度	537
+zheng yi di qu	争议地区	535
+zheng duo mian ti	正多面体	530
+zheng ting de	正听得	530
+zheng zhi ju chang wu wei yuan hui	政治局常务委员会	530
+zheng zhi ju hou bu wei yuan	政治局候补委员	530
+zheng shui dan	蒸水蛋	525
+zheng zhi si chao	政治思潮	525
+zheng que du	正确度	520
+zheng zhi cheng ben	政治成本	518
+zheng jun	郑钧	515
+zheng xiao long	郑晓龙	504
+zheng shi zhi yuan	正式职员	500
+zheng fu dian he	正负电荷	495
+zheng zhan	争占	495
+zheng quan fa lv zhi du	证券法律制度	494
+zheng tiao	正调	490
+zheng ming	挣命	480
+zheng quan zhang	证券账	480
+zheng si mian ti	正四面体	480
+zheng xing	郑姓	475
+zheng fu shu	整复术	470
+zheng ju shu ru	整句输入	470
+zheng shu xing	整数型	470
+zheng ti zi	正体字	470
+zheng shu	征戍	465
+zheng xian gui	正弦规	465
+zheng yi xia	整一下	465
+zheng er bu xie	正而不邪	463
+zheng ti	证题	460
+zheng shu pei zhi	证书配置	457
+zheng fu xiao zhang	正副校长	455
+zheng shu jie	整数解	455
+zheng ya fu	蒸压釜	455
+zheng fu chu zhang	正副处长	450
+zheng jian bu tong	政见不同	450
+zheng xi fang	正西方	450
+zheng lian	争脸	445
+zheng shou zhong shui	征收重税	440
+zheng shui ren	征税人	440
+zheng yan dou yan	争妍斗艳	440
+zheng yu	正遇	437
+zheng dang gong zuo	整党工作	435
+zheng chi bu xia	争持不下	430
+zheng mian zi	挣面子	430
+zheng shi guan bi	正式关闭	420
+zheng dun ji lv	整顿纪律	415
+zheng jing shi er	正经事儿	415
+zheng li jun	郑丽君	415
+zheng shi xue	正是学	415
+zheng shi yan	正视眼	415
+zheng zhi bao	政治报	410
+zheng chang yan	正常眼	405
+zheng wu wei yuan	政务委员	405
+zheng xing ji	整形机	405
+zheng ce bu	政策部	400
+zheng gui	蒸柜	400
+zheng jiao xing	正交性	400
+zheng zhi yan	睁只眼	385
+zheng yi yan bi yi yan	睁一眼闭一眼	384
+zheng fu ju zhang	正副局长	375
+zheng zheng	峥峥	375
+zheng zhi shang bian zhi	政治上变质	375
+zheng bu chu	整不出	370
+zheng deng tui	正蹬腿	369
+zheng dun zhi xu	整顿秩序	365
+zheng jin duo yin	争金夺银	365
+zheng shi jia ge	正式价格	365
+zheng da	正大	362
+zheng ye	正业	362
+zheng fu fa	政府法	360
+zheng gong niang niang	正宫娘娘	360
+zheng ke shu	整棵树	360
+zheng qiang dou sheng	争强斗胜	360
+zheng shi hua	正式化	360
+zheng zheng tie han	铮铮铁汉	360
+zheng feng	整封	355
+zheng fu shu	正负数	355
+zheng zhong yao hai	正中要害	355
+zheng shu hua fen	整数划分	352
+zheng ding fu	正定府	350
+zheng guan hui	证管会	350
+zheng wu bian xing	正五边形	350
+zheng bing	整并	346
+zheng shui e	征税额	345
+zheng zi fa	正字法	345
+zheng quan jiao yi yong jin	证券交易佣金	341
+zheng zai he	正在喝	341
+zheng zhi zhi xing li	正值执行力	341
+zheng bai shu	整百数	340
+zheng zhan	政战	340
+zheng yong	郑勇	338
+zheng ge chang	整个场	335
+zheng zhe	蒸着	333
+zheng zhi zhun sheng	证治准绳	330
+zheng zhou hang yuan	郑州航院	330
+zheng chang xing	正常性	326
+zheng ce hua	政策化	325
+zheng jian	诤谏	325
+zheng ti	蒸屉	325
+zheng meng	整蒙	324
+zheng shu chai fen	整数拆分	324
+zheng da guang chang	正大广场	318
+zheng jiao bian huan	正交变换	317
+zheng rong shi	整容师	315
+zheng zai da	正在打	315
+zheng yi jian	郑伊健	313
+zheng na me yi chu	整那么一出	311
+zheng yong dou hen	争勇斗狠	311
+zheng nan gua	蒸南瓜	310
+zheng quan gong si he gui guan li shi xing gui ding	证券公司合规管理试行规定	307
+zheng yang lu	正阳路	306
+zheng ce	整册	305
+zheng dang fa	政党法	305
+zheng fu xue	政府学	305
+zheng he guang gao	整合广告	305
+zheng jian zhong lei	证件种类	305
+zheng he zi yuan	整合资源	300
+zheng chen	争臣	295
+zheng dang he li	正当合理	295
+zheng xiong	政雄	295
+zheng tui fa	正推法	293
+zheng bu zhao	挣不着	290
+zheng lai dou qu	争来斗去	290
+zheng gu	整固	289
+zheng hao yong	正好用	289
+zheng tian jie	整天价	285
+zheng xie ke jiao wen wei ti wei yuan hui	政协科教文卫体委员会	285
+zheng que xing zheng ming	正确性证明	281
+zheng ming zhu li	争名逐利	275
+zheng shu fen jie	整数分解	269
+zheng ce xia	政策下	268
+zheng yi shi	争议时	267
+zheng zhou lu	郑州路	266
+zheng jia	争价	265
+zheng kai zi ti	正楷字体	265
+zheng zheng shi shi	正正式式	265
+zheng chang jun qun	正常菌群	261
+zheng bu shu	整部书	260
+zheng chu xi	整出戏	260
+zheng ge sai	整个赛	260
+zheng he su	整合素	260
+zheng zhi jue duan	政治决断	260
+zheng gui fang cheng	正规方程	256
+zheng wu ci zhang	政务次长	255
+zheng zhi liu mang	政治流氓	250
+zheng tong lu	政通路	249
+zheng da	郑大	245
+zheng yang jie	正阳街	244
+zheng ti er fen	整体二分	237
+zheng ji	蒸鸡	236
+zheng fu ke zhang	正副科长	235
+zheng qiang dou hen	争强斗狠	235
+zheng le zheng	正了正	234
+zheng yi zheng	正一正	234
+zheng yuan chang	郑元畅	234
+zheng wen	郑文	233
+zheng li dang wu an	整理党务案	230
+zheng sheng fu	争胜负	230
+zheng zai huan	正在换	230
+zheng chang fa	正常发	229
+zheng duo jiu	蒸多久	229
+zheng zai chuan	正在传	229
+zheng you	争优	227
+zheng zhou ju	郑州局	225
+zheng yi duan	整一段	223
+zheng bu zheng qi	争不争气	222
+zheng bu zheng qi a	争不争气啊	222
+zheng bu zheng qi ya	争不争气呀	222
+zheng qi bu zheng qi	争气不争气	222
+zheng ji wang	征集网	221
+zheng dun fan	整顿饭	220
+zheng zi biao ji	正字标记	220
+zheng hao ke yi	正好可以	219
+zheng shu wu xiao	证书无效	218
+zheng dui	整堆	215
+zheng fan xiang	蒸饭箱	215
+zheng liu fu	蒸馏釜	215
+zheng wu ye shui	征物业税	215
+zheng zhao ru wu	征召入伍	215
+zheng hao qu	正好去	212
+zheng xing	正兴	208
+zheng dang zheng feng	整党整风	205
+zheng quan shi chang jin ru gui ding	证券市场禁入规定	201
+zheng bei shui	整杯水	200
+zheng lai zheng qu	整来整去	200
+zheng lei ben cao	证类本草	200
+zheng zui	争嘴	200
+zheng fu ren yuan	政府人员	199
+zheng qi shi jie	蒸汽世界	199
+zheng zhou xiao qu	郑州校区	199
+zheng jue si	正觉寺	198
+zheng zhou yi qing	郑州疫情	198
+zheng di yi	争第一	196
+zheng yue shi qi	正月十七	196
+zheng ling	正零	195
+zheng nan ze fan	正难则反	195
+zheng yu sheng	郑雨盛	195
+zheng yun feng	郑云峰	195
+zheng zhou cai jing xue yuan	郑州财经学院	195
+zheng tian xiang	郑天翔	194
+zheng chang chu xing	正常出行	193
+zheng jin lan	郑金兰	193
+zheng yi lin	郑艺琳	193
+zheng chang fan xiao	正常返校	192
+zheng zhou tian qi	郑州天气	192
+zheng que da kai fang shi	正确打开方式	191
+zheng zhi xuan yan	政治宣言	190
+zheng fu tong yi	政府同意	189
+zheng zhi xun	郑智薰	189
+zheng mian dui kang	正面对抗	188
+zheng rong yuan	整容院	188
+zheng cheng ri	郑成日	187
+zheng ni na li	郑妮娜力	187
+zheng xiong zhang	蒸熊掌	187
+zheng bing	政柄	185
+zheng bing ling	征兵令	185
+zheng bu liao	整不了	185
+zheng da	政大	185
+zheng fa yan	正法眼	185
+zheng pian fu chong	正片负冲	185
+zheng rong yi yuan	整容医院	185
+zheng zhi di li	政治地理	185
+zheng yi zhi shi	正义之师	184
+zheng xing yuan	郑星源	183
+zheng zhi bo	正直博	183
+zheng ce hao	政策好	182
+zheng zuo shi dai xian feng	争做时代先锋	182
+zheng nian gao	蒸年糕	181
+zheng yu gao tie	郑渝高铁	181
+zheng que de zhi fa	正确的指法	180
+zheng shi sheng	政史生	180
+zheng dang hong	正当红	178
+zheng zhi quan	政治圈	178
+zheng long cun	正龙村	177
+zheng mian hui ying	正面回应	176
+zheng gui fang fa	正规方法	175
+zheng lu yu	蒸鲈鱼	175
+zheng lun zhe	争论者	175
+zheng zhan si fang	征战四方	175
+zheng li wen	郑丽文	173
+zheng quan wei fa fan zui	证券违法犯罪	172
+zheng shu zhuang tai	证书状态	171
+zheng ge xia tian	整个夏天	170
+zheng kong zhi	正控制	170
+zheng dou bao	蒸豆包	168
+zheng zhi can yu quan	政治参与权	168
+zheng fu cai gou xin xi gong gao guan li ban fa	政府采购信息公告管理办法	167
+zheng shu yi	郑书意	167
+zheng dian	正典	165
+zheng qiang hao dou	争强好斗	165
+zheng shi zhao hui	正式照会	165
+zheng shu zhi shu	整数指数	165
+zheng zhi qing bao	政治情报	165
+zheng mo mo	蒸馍馍	163
+zheng fu bao gao	政府报告	162
+zheng pei pei	郑佩佩	161
+zheng yi bi sheng	正义必胜	161
+zheng fu yao qiu	政府要求	160
+zheng fa jiao yu	政法教育	158
+zheng wei tong	郑惟桐	157
+zheng guan ying	郑观应	156
+zheng shan xiao zhong hong cha	正山小种红茶	155
+zheng shi zhi yin	正始之音	155
+zheng si leng zhui	正四棱锥	155
+zheng ce zhi ding	政策制定	154
+zheng fu bu zhu	政府补助	154
+zheng hao ban	郑好办	154
+zheng nian qing	正年轻	154
+zheng dan gao	蒸蛋糕	153
+zheng fan shou	正反手	153
+zheng jie	正街	153
+zheng quan tou zi ji jin hang ye gao ji guan li ren yuan ren zhi guan li ban fa	证券投资基金行业高级管理人员任职管理办法	152
+zheng fan pai	正反派	151
+zheng li yi fu	整理衣服	151
+zheng zhou shang xue yuan	郑州商学院	151
+zheng li shu bao	整理书包	150
+zheng lu	整路	150
+zheng quan zhi du	政权制度	150
+zheng shu sen	郑树森	150
+zheng fu jia ge jue ce ting zheng zan xing ban fa	政府价格决策听证暂行办法	149
+zheng liang bei	整两杯	148
+zheng zhi guo ying	政治过硬	148
+zheng bao tun	郑保屯	147
+zheng qi ping tai	蒸汽平台	147
+zheng shu hua fen wen ti	整数划分问题	146
+zheng xiao qi	政校企	146
+zheng ce lun	政策论	145
+zheng shang gou jie	政商勾结	145
+zheng wei	郑玮	145
+zheng xing li	正兴里	145
+zheng zhi an quan	政治安全	145
+zheng ming	争鸣	144
+zheng yue chu si	正月初四	142
+zheng cheng zhen	郑城镇	141
+zheng rong sui yue chou	峥嵘岁月稠	141
+zheng chang xi	整场戏	140
+zheng de xiang	睁得像	140
+zheng shu lu jing	证书路径	140
+zheng fu zhi ding jia ge ting zheng ban fa	政府制定价格听证办法	138
+zheng shi chang he	正式场合	138
+zheng dan ji	蒸蛋机	137
+zheng feng qi	正风气	137
+zheng qin wen	郑钦文	137
+zheng shu shi xiao	证书失效	137
+zheng wan zi	蒸丸子	137
+zheng jian peng	郑建鹏	136
+zheng wu chu fen	政务处分	136
+zheng xie jiu jie	政协九届	136
+zheng yun peng	郑运鹏	136
+zheng chang fen	蒸肠粉	135
+zheng fa sheng	正发生	135
+zheng qu guan zhong	争取观众	135
+zheng tong ou xiang	正统偶像	135
+zheng tu wai gua	征途外挂	135
+zheng yong tiao jian	争用条件	134
+zheng jiang tuan	蒸江团	133
+zheng tiao lu	整条路	133
+zheng zai mi mi	正在秘密	133
+zheng feng dui jue	争锋对决	132
+zheng jiu ru xin	整旧如新	130
+zheng wu hui	政务会	130
+zheng yi zhe tong meng	正义者同盟	130
+zheng zai dai ming	正在待命	130
+zheng zheng chang chang	正正常常	130
+zheng zhi jie lun	政治结论	130
+zheng hong ji tuan	正虹集团	129
+zheng ti mou hua	整体谋划	129
+zheng dao zhi xing	正道直行	128
+zheng wu ping tai	政务平台	128
+zheng tao hua	正桃花	127
+zheng wei guo ji	正威国际	127
+zheng xi wang	郑喜旺	127
+zheng xiao ying	郑小瑛	127
+zheng zhou fa bu	郑州发布	127
+zheng chang zuo xi	正常作息	126
+zheng feng su ji	正风肃纪	126
+zheng fu zhi ding jia ge xing wei gui ze	政府制定价格行为规则	126
+zheng yue shi ba	正月十八	126
+zheng bian zhe	政变者	125
+zheng bu chu	争不出	125
+zheng bu chu lai	挣不出来	125
+zheng chang lun duan	争长论短	125
+zheng de bi	睁得比	125
+zheng ge peng you quan	整个朋友圈	125
+zheng gong cha	正公差	125
+zheng ming ze ren dao zhi	证明责任倒置	125
+zheng zhe min	郑哲敏	125
+zheng zhi	正支	125
+zheng zhi bo yi	政治博弈	125
+zheng zhi zi yuan	政治资源	125
+zheng cun	郑村	124
+zheng zhi san li	政治三力	124
+zheng kou	整口	123
+zheng lan huo	整烂活	123
+zheng lan huo er	整烂活儿	123
+zheng le zheng	蒸了蒸	123
+zheng ni	整你	123
+zheng ni men	整你们	123
+zheng san	蒸散	123
+zheng ta	整他	123
+zheng ta	整她	123
+zheng ta men	整他们	123
+zheng ta men	整她们	123
+zheng wo	整我	123
+zheng wo men	整我们	123
+zheng yi zheng	蒸一蒸	123
+zheng zhi jian bie li	政治鉴别力	122
+zheng ji ge cai	整几个菜	121
+zheng wan gao tie	郑万高铁	121
+zheng you rong	郑又荣	121
+zheng fa gong zuo	政法工作	120
+zheng guan zu	争冠组	120
+zheng tai fen bu qu xian	正态分布曲线	120
+zheng you qi shi	征友启事	120
+zheng zhi xie li yuan	政治协理员	120
+zheng ban shou quan	正版授权	118
+zheng bo yu	郑博宇	118
+zheng cheng can	郑成灿	118
+zheng wang zhen	郑旺镇	118
+zheng ke lu	郑克鲁	117
+zheng wu yuan cai jing wei yuan hui	政务院财经委员会	117
+zheng zhi zheng zhi	整治整治	116
+zheng ji gao tie	郑济高铁	115
+zheng li su she	整理宿舍	115
+zheng shi kai gong	正式开工	115
+zheng guan jun	争冠军	114
+zheng xiao wen	郑晓雯	114
+zheng xin yi	郑欣宜	114
+zheng gai bu che di	整改不彻底	113
+zheng zhi min gan du	政治敏感度	113
+zheng zhi shi juan	政治试卷	113
+zheng yu bo	郑宇伯	112
+zheng bu zheng qi	整不整齐	111
+zheng bu zheng qi a	整不整齐啊	111
+zheng bu zheng qi ya	整不整齐呀	111
+zheng cheng	整成	111
+zheng da tang huang	正大堂皇	111
+zheng lian	征敛	111
+zheng mou	郑某	111
+zheng qi bu zheng qi	整齐不整齐	111
+zheng wan	蒸碗	111
+zheng xu	正序	111
+zheng xu pai xu	正序排序	111
+zheng ya	整牙	111
+zheng dian jie	郑店街	110
+zheng yi jing	郑怡静	110
+zheng yi nv shen	正义女神	110
+zheng yu xing	郑宇星	110
+zheng zhi fu bai	整治腐败	110
+zheng zhi juan	政治卷	110
+zheng zhi zi jue	政治自觉	110
+zheng li shi	整理师	109
+zheng rong zhi	郑荣植	109
+zheng shi ying ye	正式营业	109
+zheng zhi jiao du	政治角度	109
+zheng jia zhuang	郑家庄	108
+zheng shi ce shi	正式测试	107
+zheng xiu sheng	郑秀生	107
+zheng dong xu	郑东旭	106
+zheng shao xiong	郑少雄	106
+zheng yi zhi zhan	正义之战	106
+zheng chang ti wen	正常体温	105
+zheng de rong	郑德荣	105
+zheng lu wei er	蒸鹿尾儿	105
+zheng qiu yi xia	征求一下	105
+zheng shi chang	正是长	105
+zheng shu diao xiao lie biao	证书吊销列表	105
+zheng xie jie	政协界	105
+zheng xin huang he da qiao	郑新黄河大桥	105
+zheng yi bang	争议榜	105
+zheng jie	郑洁	104
+zheng yang xiao qu	正阳小区	104
+zheng fu zhi	郑富芝	103
+zheng zhi cuo wu	政治错误	103
+zheng que zi shi	正确姿势	102
+zheng shang tou	正上头	102
+zheng yao xian	郑耀先	102
+zheng yuan xiao qu	政苑小区	102
+zheng zai shen he	正在审核	102
+zheng xiang di xing	正向地性	101
+zheng yang men xia xiao nv ren	正阳门下小女人	101
+zheng ba ai ze la si	争霸艾泽拉斯	100
+zheng ba ai ze la si qian xi	争霸艾泽拉斯前夕	100
+zheng ba chuan qi	争霸传奇	100
+zheng ba pin	正八品	100
+zheng ban cang bao tu	正版藏宝图	100
+zheng ban chuan qi	正版传奇	100
+zheng ban shi pin	正版视频	100
+zheng ban shu	正版书	100
+zheng ban shu ji	正版书籍	100
+zheng ban xi tong	正版系统	100
+zheng ban yin yue	正版音乐	100
+zheng ban you xi	正版游戏	100
+zheng ban zhou	正半轴	100
+zheng bao zi	蒸包子	100
+zheng bei cha	整杯茶	100
+zheng bei jiu	整杯酒	100
+zheng bei po jie le	正被破解了	100
+zheng bei shu	整倍数	100
+zheng ben cheng yuan	正本澄源	100
+zheng bi ai	郑必爱	100
+zheng bi jiao	郑弼教	100
+zheng bi li guan xi	正比例关系	100
+zheng bian dang	蒸便当	100
+zheng bing fa	征兵法	100
+zheng bing gong yi xuan chuan pian	征兵公益宣传片	100
+zheng bing xuan chuan	征兵宣传	100
+zheng bing xuan chuan pian	征兵宣传片	100
+zheng bing zhan	征兵站	100
+zheng bing zhi du	征兵制度	100
+zheng bo fu	郑博夫	100
+zheng bu dao qian	挣不到钱	100
+zheng bu dao shen me qian	挣不到什么钱	100
+zheng bu hao	整不好	100
+zheng bu hui	整不会	100
+zheng bu hui le	整不会了	100
+zheng bu kai yan le	睁不开眼了	100
+zheng bu liao duo shao qian	挣不了多少钱	100
+zheng bu liao ji ge qian	挣不了几个钱	100
+zheng bu liao qian	挣不了钱	100
+zheng bu ming bai	整不明白	100
+zheng bu si ni	整不死你	100
+zheng bu zhang ji	正部长级	100
+zheng bu zheng	整不整	100
+zheng bu zheng chang a	正不正常啊	100
+zheng bu zheng chang ba	正不正常吧	100
+zheng bu zheng chang la	正不正常啦	100
+zheng bu zheng chang lou	正不正常喽	100
+zheng bu zheng chang ma	正不正常吗	100
+zheng bu zheng chang o	正不正常哦	100
+zheng bu zheng chang wa	正不正常哇	100
+zheng bu zheng chang ya	正不正常呀	100
+zheng bu zheng gui a	正不正规啊	100
+zheng bu zheng gui ba	正不正规吧	100
+zheng bu zheng gui la	正不正规啦	100
+zheng bu zheng gui lou	正不正规喽	100
+zheng bu zheng gui ma	正不正规吗	100
+zheng bu zheng gui o	正不正规哦	100
+zheng bu zheng gui wa	正不正规哇	100
+zheng bu zheng gui ya	正不正规呀	100
+zheng bu zheng jing a	正不正经啊	100
+zheng bu zheng jing ba	正不正经吧	100
+zheng bu zheng jing la	正不正经啦	100
+zheng bu zheng jing lou	正不正经喽	100
+zheng bu zheng jing ma	正不正经吗	100
+zheng bu zheng jing o	正不正经哦	100
+zheng bu zheng jing wa	正不正经哇	100
+zheng bu zheng jing ya	正不正经呀	100
+zheng bu zheng qian a	挣不挣钱啊	100
+zheng bu zheng qian ba	挣不挣钱吧	100
+zheng bu zheng qian la	挣不挣钱啦	100
+zheng bu zheng qian lou	挣不挣钱喽	100
+zheng bu zheng qian ma	挣不挣钱吗	100
+zheng bu zheng qian o	挣不挣钱哦	100
+zheng bu zheng qian wa	挣不挣钱哇	100
+zheng bu zheng qian ya	挣不挣钱呀	100
+zheng bu zheng que a	正不正确啊	100
+zheng bu zheng que ba	正不正确吧	100
+zheng bu zheng que la	正不正确啦	100
+zheng bu zheng que lou	正不正确喽	100
+zheng bu zheng que ma	正不正确吗	100
+zheng bu zheng que o	正不正确哦	100
+zheng bu zheng que wa	正不正确哇	100
+zheng bu zheng que ya	正不正确呀	100
+zheng bu zheng zong a	正不正宗啊	100
+zheng bu zheng zong ba	正不正宗吧	100
+zheng bu zheng zong la	正不正宗啦	100
+zheng bu zheng zong lou	正不正宗喽	100
+zheng bu zheng zong ma	正不正宗吗	100
+zheng bu zheng zong o	正不正宗哦	100
+zheng bu zheng zong wa	正不正宗哇	100
+zheng bu zheng zong ya	正不正宗呀	100
+zheng cai jie	政财界	100
+zheng cai wang sheng	正财旺盛	100
+zheng cang yuan	正仓院	100
+zheng ce bao zhang ti xi	政策保障体系	100
+zheng ce chuan dao	政策传导	100
+zheng ce cuo shi luo di	政策措施落地	100
+zheng ce cuo shi luo shi	政策措施落实	100
+zheng ce cuo shi luo shi qing kuang	政策措施落实情况	100
+zheng ce de tiao zheng	政策的调整	100
+zheng ce de xuan chuan	政策的宣传	100
+zheng ce fa gui chu chu zhang	政策法规处处长	100
+zheng ce fa gui ti xi	政策法规体系	100
+zheng ce fa gui xuan chuan	政策法规宣传	100
+zheng ce fu chi li du	政策扶持力度	100
+zheng ce ji diao	政策基调	100
+zheng ce lai le	政策来了	100
+zheng ce li du	政策力度	100
+zheng ce li jie	政策理解	100
+zheng ce li lv	政策利率	100
+zheng ce li xing chui feng hui	政策例行吹风会	100
+zheng ce liao jie	政策了解	100
+zheng ce luo di	政策落地	100
+zheng ce luo di jian xiao	政策落地见效	100
+zheng ce luo shi	政策落实	100
+zheng ce luo shi bu dao wei	政策落实不到位	100
+zheng ce luo shi dao wei	政策落实到位	100
+zheng ce luo shi qing kuang	政策落实情况	100
+zheng ce shi	政策史	100
+zheng ce shi shen me	政策是什么	100
+zheng ce tiao kong	政策调控	100
+zheng ce tui xing	政策推行	100
+zheng ce wa di	政策洼地	100
+zheng ce wei tiao	政策微调	100
+zheng ce xian xing	政策先行	100
+zheng ce xie tiao	政策协调	100
+zheng ce xing dong	政策行动	100
+zheng ce xing tiao zheng	政策性调整	100
+zheng ce xuan chuan	政策宣传	100
+zheng ce xuan chuan jie du	政策宣传解读	100
+zheng ce xuan chuan yuan	政策宣传员	100
+zheng ce zhi cheng ti xi	政策支撑体系	100
+zheng ce zhi chi li du	政策支持力度	100
+zheng ce zhi chi ti xi	政策支持体系	100
+zheng ce zhi du	政策制度	100
+zheng ce zhi du ti xi	政策制度体系	100
+zheng ce zhi xiao du	政策知晓度	100
+zheng ce zhi xiao lv	政策知晓率	100
+zheng ce zhi xing	政策执行	100
+zheng ce zhi xing qi xian	政策执行期限	100
+zheng ce zhi xing qing kuang	政策执行情况	100
+zheng ce zhong dian	政策重点	100
+zheng cha jia	挣差价	100
+zheng chang can bao	正常参保	100
+zheng chang can kao zhi	正常参考值	100
+zheng chang cheng ben	正常成本	100
+zheng chang cheng zhang	正常成长	100
+zheng chang da ka	正常打卡	100
+zheng chang de	正常的	100
+zheng chang de di fang	正常的地方	100
+zheng chang de su du	正常的速度	100
+zheng chang de tiao zheng	正常的调整	100
+zheng chang dian	正常点	100
+zheng chang dian er	正常点儿	100
+zheng chang duan	争长短	100
+zheng chang fa hui	正常发挥	100
+zheng chang fa hui le	正常发挥了	100
+zheng chang fei xing	正常飞行	100
+zheng chang ge pi	正常个屁	100
+zheng chang gong zuo wen du	正常工作温度	100
+zheng chang guan bi	正常关闭	100
+zheng chang guan xi a	正常关系啊	100
+zheng chang hang xing	正常航行	100
+zheng chang huan kuan	正常还款	100
+zheng chang hui diao	正常回调	100
+zheng chang hui tiao	正常回调	100
+zheng chang jiang hua	正常讲话	100
+zheng chang jiao du	正常角度	100
+zheng chang jing duan	争长竞短	100
+zheng chang ju xing	正常举行	100
+zheng chang le	正常了	100
+zheng chang mo shi	正常模式	100
+zheng chang nan ren	正常男人	100
+zheng chang qing kuang zhi xia	正常情况之下	100
+zheng chang ren lei	正常人类	100
+zheng chang shang wang	正常上网	100
+zheng chang sheng zhang	正常生长	100
+zheng chang shi	正常式	100
+zheng chang shi	正长石	100
+zheng chang shi hou	正常时候	100
+zheng chang shu chu	整厂输出	100
+zheng chang ti wei	正常体为	100
+zheng chang ti zhong	正常体重	100
+zheng chang tiao jie	正常调节	100
+zheng chang tiao zheng	正常调整	100
+zheng chang tong xing	正常通行	100
+zheng chang wen du	正常温度	100
+zheng chang xia ban	正常下班	100
+zheng chang xing dong	正常行动	100
+zheng chang xing shi	正常行驶	100
+zheng chang xing shi de che liang	正常行驶的车辆	100
+zheng chang xing shi de xiao jiao che	正常行驶的小轿车	100
+zheng chang xing shi shi	正常行驶时	100
+zheng chang xing wei	正常行为	100
+zheng chang xing zou	正常行走	100
+zheng chang ya	正常呀	100
+zheng chang yun xing shi	正常运行时	100
+zheng chang yun xing shi jian	正常运行时间	100
+zheng chang zeng zhang	正常增长	100
+zheng chang zeng zhang ji zhi	正常增长机制	100
+zheng chang zuo fa	正常做法	100
+zheng chao shan	郑朝山	100
+zheng chao yu leng zhan	争吵与冷战	100
+zheng chao zhe jia	正吵着架	100
+zheng che chang du	整车长度	100
+zheng che gao du	整车高度	100
+zheng che kong zhi xi tong	整车控制系统	100
+zheng che sheng chan ji di	整车生产基地	100
+zheng che xi tong	整车系统	100
+zheng che zhong liang	整车重量	100
+zheng chen yin jian	正沉吟间	100
+zheng cheng duo di	争城夺地	100
+zheng cheng hua	郑成华	100
+zheng cheng jie	郑丞杰	100
+zheng cheng lve di	争城略地	100
+zheng cheng yue	郑成月	100
+zheng chi feng ji	整饬风纪	100
+zheng chi jiao tong	整饬交通	100
+zheng chi ne	正吃呢	100
+zheng chi seng tuan	整饬僧团	100
+zheng chi zhe	正吃着	100
+zheng chi zhe ne	正吃着呢	100
+zheng chu fan dian	政俶燔典	100
+zheng chu ju	整出剧	100
+zheng chu lai	证出来	100
+zheng chu zhang ji	正处长级	100
+zheng cu mai fen	蒸粗麦粉	100
+zheng cun ling fu	整存零付	100
+zheng cun zheng fu	整存整付	100
+zheng cuo le	整错了	100
+zheng da le	睁大了	100
+zheng da le yan jing	睁大了眼睛	100
+zheng da li	郑大礼	100
+zheng da tang huang	正大堂煌	100
+zheng da xiao	争大小	100
+zheng da zhe jia	正打着架	100
+zheng da zong yi	正大综艺	100
+zheng dai fu	郑大夫	100
+zheng dang ben se	政党本色	100
+zheng dang biao shuai	争当表率	100
+zheng dang fang wei xing wei	正当防卫行为	100
+zheng dang fang wei zhi du	正当防卫制度	100
+zheng dang guan xi	政党关系	100
+zheng dang guan xi a	正当关系啊	100
+zheng dang hang ye	正当行业	100
+zheng dang mo fan	争当模范	100
+zheng dang sheng nian	正当盛年	100
+zheng dao cai	整道菜	100
+zheng dao de guang	正道的光	100
+zheng dao kui shou	正道魁首	100
+zheng dao le	挣到了	100
+zheng dao le qian	挣到了钱	100
+zheng dao qian	挣到钱	100
+zheng dao qiang xing	争道抢行	100
+zheng dao tan tu	正道坦途	100
+zheng dao wu di	正道无敌	100
+zheng de bu duo	挣得不多	100
+zheng de duo	挣得多	100
+zheng de duo ma	挣得多吗	100
+zheng de geng duo	挣得更多	100
+zheng de hai duo	挣得还多	100
+zheng de hai shao	挣得还少	100
+zheng de hao	整得好	100
+zheng de hao	蒸得好	100
+zheng de hen can	整得很惨	100
+zheng de hen can a	整得很惨啊	100
+zheng de hen can de	整得很惨的	100
+zheng de le	征得了	100
+zheng de mian hong er chi	争得面红耳赤	100
+zheng de ni si wo huo	争得你死我活	100
+zheng de qi ling ba luo	整得七零八落	100
+zheng de qian	挣的钱	100
+zheng de shao	挣得少	100
+zheng de shao ma	挣得少吗	100
+zheng de shou jian ren tong yi	征得收件人同意	100
+zheng de ting can	整得挺惨	100
+zheng de ting can de	整得挺惨的	100
+zheng de tong yi	征得同意	100
+zheng de tou po xie liu	争得头破血流	100
+zheng de tou po xue liu	争得头破血流	100
+zheng de yi xi zhi di	争得一席之地	100
+zheng deng jue	正等觉	100
+zheng deng zheng jue	正等正觉	100
+zheng di ban qian	征地搬迁	100
+zheng di bu chang an zhi	征地补偿安置	100
+zheng di bu chang an zhi fang an	征地补偿安置方案	100
+zheng di bu chang biao zhun	征地补偿标准	100
+zheng di bu chang deng ji	征地补偿登记	100
+zheng di bu chang fei	征地补偿费	100
+zheng di bu chang kuan	征地补偿款	100
+zheng di chai qian bu chang	征地拆迁补偿	100
+zheng di chai qian gong zuo	征地拆迁工作	100
+zheng di chai qian lv shi	征地拆迁律师	100
+zheng di cheng xu	征地程序	100
+zheng di fan wei	征地范围	100
+zheng di fang	正地方	100
+zheng di gao zhi shu	征地告知书	100
+zheng di gong gao	征地公告	100
+zheng di gong zuo	征地工作	100
+zheng di jiu fen	征地纠纷	100
+zheng di kuan	征地款	100
+zheng di mian ji	征地面积	100
+zheng di pan	争地盘	100
+zheng di pi fu	征地批复	100
+zheng di pi wen	征地批文	100
+zheng di qu pian zong he di jia	征地区片综合地价	100
+zheng di shi fei	整地施肥	100
+zheng di tie kou	正地铁口	100
+zheng di xie yi	征地协议	100
+zheng di xin xi	征地信息	100
+zheng di yi min	征地移民	100
+zheng di yuan	郑帝元	100
+zheng dian bao shi	整点报时	100
+zheng dian chou jiang	整点抽奖	100
+zheng dian er shu tiao	整点儿薯条	100
+zheng dian er shu tiao chi	整点儿薯条吃	100
+zheng dian ji	正电极	100
+zheng dian liu	正电流	100
+zheng dian pai pai	正电拍拍	100
+zheng dian shu chu mo shi	整店输出模式	100
+zheng dian shu tiao	整点薯条	100
+zheng dian shu tiao chi	整点薯条吃	100
+zheng dian wai kuai	挣点外快	100
+zheng dian zi duan ceng	正电子断层	100
+zheng dian zi fa she ceng xi	正电子发射层析	100
+zheng dian zi fa she duan ceng zhao xiang shu	正电子发射断层照相术	100
+zheng dian zi fa she ji suan ji duan ceng	正电子发射计算机断层	100
+zheng dian zi fa she ti ceng	正电子发射体层	100
+zheng diao cha	正调查	100
+zheng ding mi	正丁醚	100
+zheng ding zhe	正盯着	100
+zheng dong lou	整栋楼	100
+zheng dong xin qu	郑东新区	100
+zheng dou duo nian	争斗多年	100
+zheng dou le zhe me duo nian	争斗了这么多年	100
+zheng duan ceng	正断层	100
+zheng duan hua	整段话	100
+zheng duan kua diao	整段垮掉	100
+zheng duan lu	整段路	100
+zheng duan lun chang	争短论长	100
+zheng dui zhe ni	正对着你	100
+zheng dui zhe ni men	正对着你们	100
+zheng dui zhe ta	正对着他	100
+zheng dui zhe ta men	正对着他们	100
+zheng dui zhe wo men	正对着我们	100
+zheng dun chao gang	整顿朝纲	100
+zheng dun qian kun	整顿乾坤	100
+zheng dun yi chang qi lian rong	整顿衣裳起敛容	100
+zheng duo di pan	争夺地盘	100
+zheng duo hua	整朵花	100
+zheng duo jiao xing	正多角形	100
+zheng duo ling di	争夺领地	100
+zheng duo lun shao	争多论少	100
+zheng duo shao	挣多少	100
+zheng duo shao qian	挣多少钱	100
+zheng duo shao qian le	挣多少钱了	100
+zheng duo tu di	争夺土地	100
+zheng er ba bai	正二八摆	100
+zheng fa gan jing	政法干警	100
+zheng fa ji	蒸发计	100
+zheng fa kong tiao	蒸发空调	100
+zheng fa lei yuan xiao	政法类院校	100
+zheng fa lv	蒸发率	100
+zheng fa re	蒸发热	100
+zheng fa san	蒸发散	100
+zheng fa su du	蒸发速度	100
+zheng fa su lv	蒸发速率	100
+zheng fa wen du	蒸发温度	100
+zheng fa xi tong	蒸发系统	100
+zheng fa xuan chuan	政法宣传	100
+zheng fa yong pin	整发用品	100
+zheng fa yuan xiao	政法院校	100
+zheng fan chi	挣饭吃	100
+zheng fan da	正反打	100
+zheng fan he	正反合	100
+zheng fan liang fang	正反两方	100
+zheng fan qi	正反器	100
+zheng fang jing xi	正方晶系	100
+zheng fang xing de yuan	正方形的圆	100
+zheng feng hang feng jian she	政风行风建设	100
+zheng feng hang feng re xian	政风行风热线	100
+zheng feng hou	整风后	100
+zheng feng xi	郑丰喜	100
+zheng feng xin	整封信	100
+zheng feng zhao yu	征风召雨	100
+zheng fu ban shi xiao lv	政府办事效率	100
+zheng fu bing	征服兵	100
+zheng fu bu zhang	政府部长	100
+zheng fu cai	政府菜	100
+zheng fu cai gou zhi du	政府采购制度	100
+zheng fu can shi	政府参事	100
+zheng fu da xue yuan	政府大学院	100
+zheng fu de	政府的	100
+zheng fu de fu	正负得负	100
+zheng fu de gao du zhong shi	政府的高度重视	100
+zheng fu de guan xi	政府的关系	100
+zheng fu de tai du	政府的态度	100
+zheng fu de xie tiao	政府的协调	100
+zheng fu de zhong shi	政府的重视	100
+zheng fu di qiu	征服地球	100
+zheng fu diao cha	政府调查	100
+zheng fu fa xing	政府发行	100
+zheng fu fu mi shu zhang	政府副秘书长	100
+zheng fu fu qi zhang	政府副旗长	100
+zheng fu fu qu zhang	政府副区长	100
+zheng fu fu shi zhang	政府副市长	100
+zheng fu fu xian zhang	政府副县长	100
+zheng fu gao du zhong shi	政府高度重视	100
+zheng fu guan xi	政府关系	100
+zheng fu hang ye	政府行业	100
+zheng fu he shi chang de guan xi	政府和市场的关系	100
+zheng fu he shi chang guan xi	政府和市场关系	100
+zheng fu hong guan tiao kong	政府宏观调控	100
+zheng fu hu yu	政府呼吁	100
+zheng fu jiao shou	正副教授	100
+zheng fu jing gao	政府警告	100
+zheng fu jue se	政府角色	100
+zheng fu kuai ji zhi du	政府会计制度	100
+zheng fu lai yang lao	政府来养老	100
+zheng fu le guan zhong	征服了观众	100
+zheng fu le ni	征服了你	100
+zheng fu le quan shi jie	征服了全世界	100
+zheng fu le shi jie	征服了世界	100
+zheng fu le wo	征服了我	100
+zheng fu luo shi	政府落实	100
+zheng fu mi shu zhang	政府秘书长	100
+zheng fu ni	征服你	100
+zheng fu qi zhang	政府旗长	100
+zheng fu qu zhang	政府区长	100
+zheng fu shi zhang	政府市长	100
+zheng fu su she	政府宿舍	100
+zheng fu suo zai di	政府所在地	100
+zheng fu tai du	政府态度	100
+zheng fu ti xi	政府体系	100
+zheng fu tiao kong	政府调控	100
+zheng fu tong ji ban gong shi	政府统计办公室	100
+zheng fu wang	政府网	100
+zheng fu wo	征服我	100
+zheng fu xi tong	政府系统	100
+zheng fu xian zhang	政府县长	100
+zheng fu xiao lv	政府效率	100
+zheng fu xie tiao	政府协调	100
+zheng fu xin wen chu	政府新闻处	100
+zheng fu xin xi gong kai zhi du	政府信息公开制度	100
+zheng fu xing	政府性	100
+zheng fu xing dong	政府行动	100
+zheng fu xing zheng	政府行政	100
+zheng fu xing zheng bu men	政府行政部门	100
+zheng fu xing zheng guan li	政府行政管理	100
+zheng fu xuan chuan	政府宣传	100
+zheng fu xue xiao	政府学校	100
+zheng fu yi fa xing zheng	政府依法行政	100
+zheng fu yu shi chang de guan xi	政府与市场的关系	100
+zheng fu yu shi chang guan xi	政府与市场关系	100
+zheng fu zhai quan fa xing	政府债券发行	100
+zheng fu zhai quan fa xing jiao kuan	政府债券发行缴款	100
+zheng fu zhe kang	征服者康	100
+zheng fu zhi hai	征服之海	100
+zheng fu zhi jian	正负之间	100
+zheng fu zhi li ti xi	政府治理体系	100
+zheng fu zhi xing	政府执行	100
+zheng fu zhong dian gong zuo	政府重点工作	100
+zheng fu zhong shi	政府重视	100
+zheng fu zhu di	政府驻地	100
+zheng fu zhu xi	正副主席	100
+zheng gai cuo shi luo shi	整改措施落实	100
+zheng gai jin du	整改进度	100
+zheng gai li du	整改力度	100
+zheng gai luo shi	整改落实	100
+zheng gai luo shi dao wei	整改落实到位	100
+zheng gai luo shi fang an	整改落实方案	100
+zheng gai luo shi guan chuan shi zhong	整改落实贯穿始终	100
+zheng gai luo shi qing kuang	整改落实情况	100
+zheng gai lv	整改率	100
+zheng gai ren wu luo shi	整改任务落实	100
+zheng gai xing dong	整改行动	100
+zheng gang shui	整缸水	100
+zheng gao ji kuai ji shi	正高级会计师	100
+zheng gao lan	征稿栏	100
+zheng gao xing	正高兴	100
+zheng ge cao zuo xi tong	整个操作系统	100
+zheng ge chang di	整个场地	100
+zheng ge chao ting	整个朝廷	100
+zheng ge cun luo	整个村落	100
+zheng ge da di	整个大地	100
+zheng ge dai zou	整个带走	100
+zheng ge di mian	整个地面	100
+zheng ge di qiu	整个地球	100
+zheng ge di qu	整个地区	100
+zheng ge di tu	整个地图	100
+zheng ge er dai zou	整个儿带走	100
+zheng ge fu zhi yi fen	整个复制一份	100
+zheng ge gu shi	整个故事	100
+zheng ge guo jia dou	整个国家都	100
+zheng ge guo jia dou yang yi zhe	整个国家都洋溢着	100
+zheng ge guo jia dou yang yi zhe le guan xiang shang de fen wei	整个国家都洋溢着乐观向上的氛围	100
+zheng ge han zhu	整个含住	100
+zheng ge hang ye de fa zhan	整个行业的发展	100
+zheng ge hua dong di qu	整个华东地区	100
+zheng ge hua yu yue tan	整个华语乐坛	100
+zheng ge jing cheng	整个京城	100
+zheng ge kong jian	整个空间	100
+zheng ge lai shuo	整个来说	100
+zheng ge ming chao	整个明朝	100
+zheng ge pi	挣个屁	100
+zheng ge pi a	挣个屁啊	100
+zheng ge qi che hang ye	整个汽车行业	100
+zheng ge qing chao	整个清朝	100
+zheng ge ren dou	整个人都	100
+zheng ge ren dou bu hao	整个人都不好	100
+zheng ge ren dou bu hao le	整个人都不好了	100
+zheng ge sheng tai xi tong	整个生态系统	100
+zheng ge shi jie fang fu dou	整个世界仿佛都	100
+zheng ge shou ji hang ye	整个手机行业	100
+zheng ge su she	整个宿舍	100
+zheng ge tai yang xi	整个太阳系	100
+zheng ge tang chao	整个唐朝	100
+zheng ge ti xi	整个体系	100
+zheng ge tian di	整个天地	100
+zheng ge wai kuai	挣个外快	100
+zheng ge wang chao	整个王朝	100
+zheng ge wei mian	整个位面	100
+zheng ge xi lie	整个系列	100
+zheng ge xi lie sai	整个系列赛	100
+zheng ge xi tong	整个系统	100
+zheng ge xiao qu	整个小区	100
+zheng ge xiao yuan	整个校园	100
+zheng ge xing cheng	整个行程	100
+zheng ge xue xiao	整个学校	100
+zheng ge yi ji du	整个一季度	100
+zheng ge yin du	整个印度	100
+zheng ge yin he xi	整个银河系	100
+zheng ge ying pan	整个硬盘	100
+zheng ge yu le quan	整个娱乐圈	100
+zheng ge yuan luo	整个院落	100
+zheng ge zhong dong di qu	整个中东地区	100
+zheng gen shou zhi	整根手指	100
+zheng gen yan	整根烟	100
+zheng gen zheng miao	正根正苗	100
+zheng gen zuo le jin qu	整根坐了进去	100
+zheng gen zuo le xia qu	整根坐了下去	100
+zheng gong gan xiao	政工干校	100
+zheng gong kang tai	政躬康泰	100
+zheng gong ke ke zhang	政工科科长	100
+zheng gong lao	争功劳	100
+zheng gong wei guo	争功诿过	100
+zheng gu ba fa	正骨八法	100
+zheng gu dai fu	正骨大夫	100
+zheng gu ke	正骨科	100
+zheng gu yan shi	蒸骨验尸	100
+zheng gua jiu fa	拯寡救乏	100
+zheng guan ban	证管办	100
+zheng guan hang lie	争冠行列	100
+zheng guan li xia	正冠李下	100
+zheng guan na lv	整冠纳履	100
+zheng guan na lv	正冠纳履	100
+zheng guan xi tong	征管系统	100
+zheng guan zhuang	正官庄	100
+zheng guang fan	郑光范	100
+zheng guang rong	争光荣	100
+zheng guang zu	郑光祖	100
+zheng gui cheng bie	证龟成鳖	100
+zheng gui de	正规的	100
+zheng gui fu	正规服	100
+zheng gui gao xiao	正规高校	100
+zheng gui hang ye	正规行业	100
+zheng gui jia xiao	正规驾校	100
+zheng gui lv xing she	正规旅行社	100
+zheng gui xue xiao	正规学校	100
+zheng gui yin hang	正规银行	100
+zheng guo qu	郑国渠	100
+zheng hai long	郑海龙	100
+zheng han cheng	郑汉城	100
+zheng han ye	郑晗叶	100
+zheng hang shan chu	整行删除	100
+zheng hang zi	整行字	100
+zheng hao hen	正好很	100
+zheng hao hen e	正好很饿	100
+zheng hao hui	正好会	100
+zheng hao zai	正好在	100
+zheng he cheng	整合成	100
+zheng he chong zu	整合重组	100
+zheng he chu	整合出	100
+zheng he chuan bo	整合传播	100
+zheng he dao	整合到	100
+zheng he du	整合度	100
+zheng he fa	整合法	100
+zheng he hang ye zi yuan	整合行业资源	100
+zheng he hui zi	郑合惠子	100
+zheng he jin	整合进	100
+zheng he mo shi	整合模式	100
+zheng he qi shi	整合骑士	100
+zheng he shang	整合商	100
+zheng he shi	整合式	100
+zheng he tu di	整合土地	100
+zheng he xing xiao chuan bo	整合行销传播	100
+zheng he ying xiao chuan bo	整合营销传播	100
+zheng hei	正黑	100
+zheng hong dou yan	争红斗艳	100
+zheng hong dou zi	争红斗紫	100
+zheng hou xiang	正后像	100
+zheng hua gao	蒸花糕	100
+zheng hua juan	郑华娟	100
+zheng huai hua	蒸槐花	100
+zheng huan huan zou lai	正缓缓走来	100
+zheng huan yu	郑环宇	100
+zheng huang min bi	政荒民弊	100
+zheng hui jie	郑慧杰	100
+zheng huo ren	整活人	100
+zheng ji dan	蒸鸡蛋	100
+zheng ji diao cha	征集调查	100
+zheng ji ge yi	挣几个亿	100
+zheng ji gong lv	整机功率	100
+zheng ji ling	征集令	100
+zheng ji tuan	正集团	100
+zheng ji xi tong	整机系统	100
+zheng ji xiao lv	整机效率	100
+zheng ji zhong	整机重	100
+zheng ji zhong liang	整机重量	100
+zheng ji zu	征集组	100
+zheng jia chan	争家产	100
+zheng jia ying	郑嘉颖	100
+zheng jia yu	郑家榆	100
+zheng jia zhong	郑家钟	100
+zheng jian fa biao	政见发表	100
+zheng jian fa biao hui	政见发表会	100
+zheng jian fang	正间房	100
+zheng jian gong cheng	整建工程	100
+zheng jian hao	证件号	100
+zheng jian hui	政见会	100
+zheng jian hui bing gou chong zu wei	证监会并购重组委	100
+zheng jian hui diao cha	证监会调查	100
+zheng jian hui hang ye	证监会行业	100
+zheng jian hui li an diao cha	证监会立案调查	100
+zheng jian hui xing zheng chu fa	证监会行政处罚	100
+zheng jian xing qing	政简刑清	100
+zheng jiao jing xi	正交晶系	100
+zheng jiao pou mian	正交剖面	100
+zheng jiao qun	正交群	100
+zheng jiao shui	证交税	100
+zheng jiao xi	政教系	100
+zheng jiao zhen quan	正教真诠	100
+zheng jie cheng du	整洁程度	100
+zheng jie dian	症结点	100
+zheng jie du	整洁度	100
+zheng jie wei qiang shen zhi ben	整洁为强身之本	100
+zheng jie wen	郑杰文	100
+zheng jie yi xin	整洁一新	100
+zheng jie zhi dao	整洁之道	100
+zheng jin an zuo	正襟安坐	100
+zheng jin lun liang	争斤论两	100
+zheng jin wei zuo	整襟危坐	100
+zheng jin yi	郑进一	100
+zheng jing ba ban	正经八板	100
+zheng jing ba ben	正经八本	100
+zheng jing de	正经的	100
+zheng jing de dian	正经的店	100
+zheng jing hua	正经话	100
+zheng jing jin	正精进	100
+zheng jing pai zi	正经牌子	100
+zheng jing qi lai	正经起来	100
+zheng jiu chang an	拯救长安	100
+zheng jiu da bing	拯救大兵	100
+zheng jiu da bing rui en	拯救大兵瑞恩	100
+zheng jiu guo yin he xi	拯救过银河系	100
+zheng jiu ke lian de	拯救可怜的	100
+zheng jiu le	拯救了	100
+zheng jiu le di qiu	拯救了地球	100
+zheng jiu le qiu dui	拯救了球队	100
+zheng jiu le shi jie	拯救了世界	100
+zheng jiu le yin he xi	拯救了银河系	100
+zheng jiu le yu zhou	拯救了宇宙	100
+zheng jiu pai	拯救派	100
+zheng jiu shi jie	拯救世界	100
+zheng jiu xi tong	拯救系统	100
+zheng jiu xing dong	拯救行动	100
+zheng jiu yin he xi	拯救银河系	100
+zheng jiu zhe	拯救着	100
+zheng jiu zhe xi lie	拯救者系列	100
+zheng ju bei wan mei mai zang	证据被完美埋葬	100
+zheng ju cai pan zhu yi	证据裁判主义	100
+zheng ju diao cha	证据调查	100
+zheng ju jiu shi	证据就是	100
+zheng ju li	证据力	100
+zheng ju mei le	证据没了	100
+zheng ju quan mei le	证据全没了	100
+zheng ju ti xi	证据体系	100
+zheng ju zhang	正局长	100
+zheng ju zhang	郑局长	100
+zheng juan jiao yi suo	证卷交易所	100
+zheng juan shi chang	证卷市场	100
+zheng jue er	正角儿	100
+zheng jun jie	郑俊杰	100
+zheng kai le	睁开了	100
+zheng kai le shuang yan	睁开了双眼	100
+zheng kai le yan	睁开了眼	100
+zheng kai le yan jing	睁开了眼睛	100
+zheng kai si	郑开司	100
+zheng kai xin	郑凯新	100
+zheng kai yan shi	睁开眼时	100
+zheng kai yun	郑凯云	100
+zheng kan de chu shen	正看得出神	100
+zheng ke le	郑可乐	100
+zheng kou qi	整口气	100
+zheng kuai di	整块地	100
+zheng le bu shao qian	挣了不少钱	100
+zheng le da qian	挣了大钱	100
+zheng le dian er qian	挣了点儿钱	100
+zheng le dian qian	挣了点钱	100
+zheng le duo shao	挣了多少	100
+zheng le duo shao qian	挣了多少钱	100
+zheng le guang	争了光	100
+zheng le hen duo qian	挣了很多钱	100
+zheng le kai lai	睁了开来	100
+zheng le kou qi	争了口气	100
+zheng le ming	正了名	100
+zheng le qian hou	挣了钱后	100
+zheng le qian le	挣了钱了	100
+zheng le rong	整了容	100
+zheng le ya	整了牙	100
+zheng le yi dian er qian	挣了一点儿钱	100
+zheng le yi dian qian	挣了一点钱	100
+zheng le yi kou qi	争了一口气	100
+zheng le yi xie qian	挣了一些钱	100
+zheng li cheng ce	整理成册	100
+zheng li gan jing le	整理干净了	100
+zheng li hang qing	整理行情	100
+zheng li hao	整理好	100
+zheng li he	整理盒	100
+zheng li jia dang	整理家当	100
+zheng li le	整理了	100
+zheng li le yi fen	整理了一份	100
+zheng li le yi xia	整理了一下	100
+zheng li tu di	整理土地	100
+zheng li xiang	整理箱	100
+zheng li xing li	整理行李	100
+zheng li xing nang	整理行囊	100
+zheng li yi	争利益	100
+zheng li yi fen	整理一份	100
+zheng li yi shan	整理衣衫	100
+zheng li yi xie	整理一些	100
+zheng li yu yan	整理语言	100
+zheng li zhuo zhuang	整理着装	100
+zheng lian dou shi	整脸都是	100
+zheng lian wu du	征敛无度	100
+zheng lie shan chu	整列删除	100
+zheng ling bu yi	政令不一	100
+zheng ling hua	郑灵华	100
+zheng ling jing cheng yi zhi kong wen	政令竟成一纸空文	100
+zheng liu guan	整流管	100
+zheng liu mo kuai	整流模块	100
+zheng liu xing	正流行	100
+zheng liu ye	蒸馏液	100
+zheng liu zi	整流子	100
+zheng lun bu neng jie jue	争论不能解决	100
+zheng lun jing	郑伦境	100
+zheng lun pian	政论片	100
+zheng lv ju	政律剧	100
+zheng man tou	蒸馒头	100
+zheng mei nu mu	睁眉怒目	100
+zheng mei zheng	整没整	100
+zheng mei zheng qu	争没争取	100
+zheng mei zheng qu dao	争没争取到	100
+zheng mei zheng rong	整没整容	100
+zheng mei zheng rong yi mu liao ran	整没整容一目了然	100
+zheng men kou	正门口	100
+zheng meng zhun	郑梦准	100
+zheng mian chao shang	正面朝上	100
+zheng mian de	正面的	100
+zheng mian de hai shi fu mian de	正面的还是负面的	100
+zheng mian gang	正面刚	100
+zheng mian gong ji	正面攻击	100
+zheng mian hai shi fan mian	正面还是反面	100
+zheng mian jiao du	正面角度	100
+zheng mian jue se	正面角色	100
+zheng mian xuan chuan	正面宣传	100
+zheng mian xuan chuan wei zhu	正面宣传为主	100
+zheng mian xuan chuan yin dao	正面宣传引导	100
+zheng mian yi yi	正面意义	100
+zheng mian zhao	正面照	100
+zheng mian zi	争面子	100
+zheng min shui huo	拯民水火	100
+zheng min yu shui huo zhi zhong	拯民于水火之中	100
+zheng ming bai le	整明白了	100
+zheng ming bu liao	证明不了	100
+zheng ming chu lai	证明出来	100
+zheng ming ding fen	正名定分	100
+zheng ming jing li	争名竞利	100
+zheng ming le zi ji de neng li	证明了自己的能力	100
+zheng ming le zi ji de shi li	证明了自己的实力	100
+zheng ming li	争名利	100
+zheng ming li	证明力	100
+zheng ming mou wei	争名谋位	100
+zheng ming shen me	证明什么	100
+zheng ming ti	证明题	100
+zheng ming xiu	郑明修	100
+zheng ming ze shi	征名责实	100
+zheng na xie	整那些	100
+zheng neng liang	正能量	100
+zheng neng liang chuan bo	正能量传播	100
+zheng neng liang chuan di	正能量传递	100
+zheng ni fu wei	拯溺扶危	100
+zheng ni jiu fen	拯溺救焚	100
+zheng ni jiu wei	拯溺救危	100
+zheng nian dao tou	整年到头	100
+zheng nian lei yue	整年累月	100
+zheng nian zheng xing	正念正行	100
+zheng ning ke bu	狰狞可怖	100
+zheng nv shi	郑女士	100
+zheng ou li lan	蒸沤历澜	100
+zheng pai jue se	正派角色	100
+zheng pin hang huo	正品行货	100
+zheng pin kai mu	正品开模	100
+zheng pin ren yuan	征聘人员	100
+zheng ping ru	郑苹如	100
+zheng po fang le	整破防了	100
+zheng qi ban	正期班	100
+zheng qi chong zheng	蒸气重整	100
+zheng qi dou sheng	争奇斗胜	100
+zheng qi dou yan	争奇斗妍	100
+zheng qi dou yi	争奇斗异	100
+zheng qi du	整齐度	100
+zheng qi gan jing	整齐干净	100
+zheng qi guan xi	政企关系	100
+zheng qi hang ye	政企行业	100
+zheng qi hao sheng	争奇好胜	100
+zheng qi hui	证期会	100
+zheng qi ji qi ren	蒸汽机器人	100
+zheng qi ji qi ren bu li ci	蒸汽机器人布里茨	100
+zheng qi jin	正起劲	100
+zheng qi liu liang ji	蒸汽流量计	100
+zheng qi lun ji	蒸气轮机	100
+zheng qi peng ke	蒸汽朋克	100
+zheng qi pin	正七品	100
+zheng qi qi shi	蒸汽骑士	100
+zheng qi shan zhuang	正气山庄	100
+zheng qi sheng	正期生	100
+zheng qi tan she	蒸汽弹射	100
+zheng qi tan she qi	蒸汽弹射器	100
+zheng qi xi tong	蒸汽系统	100
+zheng qi yu	蒸气浴	100
+zheng qi zhuang	蒸汽状	100
+zheng qian de hang ye	挣钱的行业	100
+zheng qian hu kou	挣钱糊口	100
+zheng qian hua	挣钱花	100
+zheng qian huan zhai	挣钱还债	100
+zheng qian le ma	挣钱了吗	100
+zheng qian ma	挣钱吗	100
+zheng qian ma	挣钱嘛	100
+zheng qian mian	正前面	100
+zheng qian qu	挣钱去	100
+zheng qian yang jia	挣钱养家	100
+zheng qiang di pan	争抢地盘	100
+zheng qiang du sheng	争强赌胜	100
+zheng qiang mian er li	正墙面而立	100
+zheng qiang xian sheng	争强显胜	100
+zheng qiao hui	正巧会	100
+zheng qiao zai	正巧在	100
+zheng qie yuan	正切圆	100
+zheng qie zi	蒸茄子	100
+zheng qing chun	正青春	100
+zheng qing ren he	政清人和	100
+zheng qing yu jian	政清狱简	100
+zheng qiong zhi	郑琼之	100
+zheng qiu dong	郑秋冬	100
+zheng qiu feng	郑秋枫	100
+zheng qiu ping xing zhi yuan	征求平行志愿	100
+zheng qiu qi shi	征求启事	100
+zheng qiu xian	争球线	100
+zheng qiu yi jian gao	征求意见稿	100
+zheng qiu zhi yuan	征求志愿	100
+zheng qu can jia	争取参加	100
+zheng qu dao le	争取到了	100
+zheng qu di fang	争取地方	100
+zheng qu le shi jian	争取了时间	100
+zheng qu sheng	正取生	100
+zheng quan dai xiao	证券代销	100
+zheng quan de fa xing	证券的发行	100
+zheng quan duo shi	争权夺势	100
+zheng quan fa xing ren	证券发行人	100
+zheng quan fa xing yu cheng xiao	证券发行与承销	100
+zheng quan geng ti	政权更替	100
+zheng quan hang	证券行	100
+zheng quan hang qing	证券行情	100
+zheng quan hua lv	证券化率	100
+zheng quan ji ti su song zhi du	证券集体诉讼制度	100
+zheng quan jiao yi shui	证券交易税	100
+zheng quan jiao yi xi tong	证券交易系统	100
+zheng quan jing ji ren	证券经纪人	100
+zheng quan li	争权力	100
+zheng quan qi huo hang ye	证券期货行业	100
+zheng quan rang li	争权攘利	100
+zheng quan zhen kong	政权真空	100
+zheng que chu li ren min nei bu mao dun	正确处理人民内部矛盾	100
+zheng que de da kai fang shi	正确的打开方式	100
+zheng que de dao lu	正确的道路	100
+zheng que de dao lu shang	正确的道路上	100
+zheng que de di dian	正确的地点	100
+zheng que de di fang	正确的地方	100
+zheng que de kan dai	正确地看待	100
+zheng que de li jie	正确地理解	100
+zheng que de li shi ji yi	正确的历史记忆	100
+zheng que de shi yong	正确地使用	100
+zheng que de si xiang	正确的思想	100
+zheng que de tai du	正确的态度	100
+zheng que de xing dong	正确的行动	100
+zheng que de xuan ze	正确的选择	100
+zheng que de yi xiang	正确的一项	100
+zheng que de yin dao	正确地引导	100
+zheng que de zi shi	正确的姿势	100
+zheng que de zuo shi	正确地做事	100
+zheng que di zhi	正确地址	100
+zheng que fang fa shi	正确方法是	100
+zheng que lv gao	正确率高	100
+zheng que lv xing	正确履行	100
+zheng que ma	正确吗	100
+zheng que xing dong	正确行动	100
+zheng que xing shi	正确行使	100
+zheng que xing shi quan li	正确行使权力	100
+zheng que yong fa	正确用法	100
+zheng que zhi xing	正确执行	100
+zheng que zi shi shi shen me	正确姿势是什么	100
+zheng ren de zheng ci	证人的证词	100
+zheng ren de zheng yan	证人的证言	100
+zheng ren duan shi	正人端士	100
+zheng ren fa	整人法	100
+zheng ren hao	郑仁浩	100
+zheng ren xi	证人席	100
+zheng ren you xi	整人游戏	100
+zheng ren yu	郑人予	100
+zheng ri chang	郑日昌	100
+zheng ri ying	郑日英	100
+zheng rong chuan wen	整容传闻	100
+zheng rong de chuan wen	整容的传闻	100
+zheng rong di chan	正荣地产	100
+zheng rong guo du	整容过度	100
+zheng rong le ba	整容了吧	100
+zheng rong le ma	整容了吗	100
+zheng rong mu ban	整容模板	100
+zheng rong shi zhang da	整容式长大	100
+zheng rong song	郑荣松	100
+zheng rong xuan jun	峥嵘轩峻	100
+zheng rou fa	蒸肉法	100
+zheng ru mi	正入迷	100
+zheng ru ni suo shuo	正如你所说	100
+zheng rui bin	郑锐彬	100
+zheng san zuo yong	蒸散作用	100
+zheng se gan yan	正色敢言	100
+zheng se li chao	正色立朝	100
+zheng se li sheng	正色厉声	100
+zheng se pian	正色片	100
+zheng se wei yan	正色危言	100
+zheng se zheng shui	整色整水	100
+zheng se zhi yan	正色直言	100
+zheng sha cheng fan	蒸沙成饭	100
+zheng shang guan xi	政商关系	100
+zheng shang yin	整上瘾	100
+zheng shang yin	正上瘾	100
+zheng shang yin le	整上瘾了	100
+zheng shang yin ne	正上瘾呢	100
+zheng shao nian	正少年	100
+zheng shen er	怔神儿	100
+zheng shen me	争什么	100
+zheng shen me	整什么	100
+zheng shen shuai xia	正身率下	100
+zheng shen zhi lu	征神之路	100
+zheng sheng yao qiang	争胜要强	100
+zheng shi ai li	蒸食哀梨	100
+zheng shi ban ben	正式版本	100
+zheng shi ban le	正式版了	100
+zheng shi ban xi tong	正式版系统	100
+zheng shi chu chang	正式出场	100
+zheng shi de chang he	正式的场合	100
+zheng shi di	政史地	100
+zheng shi diao cha	正式调查	100
+zheng shi duan ren	正士端人	100
+zheng shi fa xing	正式发行	100
+zheng shi feng kou lang jian	正是风口浪尖	100
+zheng shi feng kou lang jian shang	正是风口浪尖上	100
+zheng shi guan xi	正式关系	100
+zheng shi huan jing	正式环境	100
+zheng shi ji	整世纪	100
+zheng shi li yong le	正是利用了	100
+zheng shi liang xiang le	正式亮相了	100
+zheng shi luo di	正式落地	100
+zheng shi ming	正式名	100
+zheng shi shao nian	正时少年	100
+zheng shi sheng xing	正视绳行	100
+zheng shi shi hou le	正是时候了	100
+zheng shi tou piao	正式投票	100
+zheng shi wei zhong	正事为重	100
+zheng shi xi tong	正时系统	100
+zheng shi yuan gong	正式员工	100
+zheng shi yun	郑世云	100
+zheng shi yun xing	正式运行	100
+zheng shi zai xia	正是在下	100
+zheng shi zhe yang	正是这样	100
+zheng shi zhi du	正式制度	100
+zheng shou e	征收额	100
+zheng shou fang di chan shui	征收房地产税	100
+zheng shou nong yong di	征收农用地	100
+zheng shou tu di	征收土地	100
+zheng shou tu di fang an	征收土地方案	100
+zheng shou tu di gong gao	征收土地公告	100
+zheng shu bei shu	整数倍数	100
+zheng shu bi	整数比	100
+zheng shu chu fa	整数除法	100
+zheng shu cun chu qu	证书存储区	100
+zheng shu ji he	整数集合	100
+zheng shu lei xing	整数类型	100
+zheng shuo ming	正说明	100
+zheng si liang jian	正思量间	100
+zheng si ni	整死你	100
+zheng si wei	正思维	100
+zheng su min	郑素敏	100
+zheng su nian	郑素年	100
+zheng tai du	正态度	100
+zheng tai kong	正太控	100
+zheng tai lian	正太脸	100
+zheng tai yin	正太音	100
+zheng tao shu	整套书	100
+zheng tao ti xi	整套体系	100
+zheng tao xi tong	整套系统	100
+zheng ti de	整体的	100
+zheng ti de fen	整体得分	100
+zheng ti de gan jue	整体的感觉	100
+zheng ti de se diao	整体的色调	100
+zheng ti de shi jue xiao guo	整体的视觉效果	100
+zheng ti de xie tiao	整体的协调	100
+zheng ti de yi bu fen	整体的一部分	100
+zheng ti fan tan	整体反弹	100
+zheng ti fu wu shu wei wang lu	整体服务数位网路	100
+zheng ti gan jue	整体感觉	100
+zheng ti gan jue bu cuo	整体感觉不错	100
+zheng ti gao du	整体高度	100
+zheng ti ge diao	整体格调	100
+zheng ti gei ren de gan jue	整体给人的感觉	100
+zheng ti guan xi	整体关系	100
+zheng ti gui mo	整体规模	100
+zheng ti hang qing	整体行情	100
+zheng ti hang ye	整体行业	100
+zheng ti ji diao	整体基调	100
+zheng ti jiang wen	整体降温	100
+zheng ti jin du	整体进度	100
+zheng ti liang du	整体亮度	100
+zheng ti luo hou	整体落后	100
+zheng ti man yi du	整体满意度	100
+zheng ti mao li lv	整体毛利率	100
+zheng ti mei guan du	整体美观度	100
+zheng ti ming zhong lv	整体命中率	100
+zheng ti mo shi	整体模式	100
+zheng ti mo xing	整体模型	100
+zheng ti qiang du	整体强度	100
+zheng ti ren du	整体认读	100
+zheng ti se diao	整体色调	100
+zheng ti shi jue	整体视觉	100
+zheng ti shi jue xiao guo	整体视觉效果	100
+zheng ti ti xi	整体体系	100
+zheng ti tiao jie	整体调节	100
+zheng ti tiao kong	整体调控	100
+zheng ti tiao li	整体调理	100
+zheng ti tiao zheng	整体调整	100
+zheng ti xi tong	整体系统	100
+zheng ti xia jiang	整体下降	100
+zheng ti xiao lv	整体效率	100
+zheng ti xie tiao	整体协调	100
+zheng ti xie tiao xing	整体协调性	100
+zheng ti xuan chuan	整体宣传	100
+zheng ti yun xing	整体运行	100
+zheng ti yun xing qing kuang	整体运行情况	100
+zheng ti zeng zhang	整体增长	100
+zheng ti zeng zhang lv	整体增长率	100
+zheng ti zhong liang	整体重量	100
+zheng ti zhong wen	正体中文	100
+zheng ti zhu dong zhuan xiang xi tong	整体主动转向系统	100
+zheng tian bao zhe shou ji	整天抱着手机	100
+zheng tian chi he wan le	整天吃喝玩乐	100
+zheng tian dui zhe dian nao	整天对着电脑	100
+zheng tian jiu	整天就	100
+zheng tian nian fo	整天念佛	100
+zheng tian shui jiao	整天睡觉	100
+zheng tian xi xi ha ha	整天嘻嘻哈哈	100
+zheng tiao jie	整条街	100
+zheng tiao jie zui liang de zai	整条街最靓的仔	100
+zheng ting zhang ji	正厅长级	100
+zheng tong dao zang	正统道藏	100
+zheng tong de	正统的	100
+zheng tong di wei	正统地位	100
+zheng tong wang chao	正统王朝	100
+zheng tou niang zi	正头娘子	100
+zheng tu shi xing chen da hai	征途是星辰大海	100
+zheng tu xi lie	征途系列	100
+zheng tuo jiang	郑拓疆	100
+zheng tuo shu	挣脱术	100
+zheng wai kuai	挣外快	100
+zheng wan de	正玩得	100
+zheng wan fan	整碗饭	100
+zheng wang zhe	正望着	100
+zheng wei fu ni	拯危扶溺	100
+zheng wei hui	政委会	100
+zheng wei ji kun	拯危济困	100
+zheng wei kang	郑伟康	100
+zheng wei zhi qu	郑卫之曲	100
+zheng wei zhi sheng	郑卫之声	100
+zheng wei zhi yin	郑卫之音	100
+zheng wen she	政闻社	100
+zheng wu biao	正误表	100
+zheng wu chun	正戊醇	100
+zheng wu fu wu ti xi	政务服务体系	100
+zheng wu fu wu xi tong	政务服务系统	100
+zheng wu fu wu xin mo shi	政务服务新模式	100
+zheng wu guan	政务官	100
+zheng wu hang ye	政务行业	100
+zheng wu jiang ji	政务降级	100
+zheng wu jiao xing	正五角形	100
+zheng wu qu	政务区	100
+zheng wu shen tong	证吾神通	100
+zheng wu si si zhang	政务司司长	100
+zheng wu tai yang gao du	正午太阳高度	100
+zheng wu wei yuan hui	政务委员会	100
+zheng wu xi tong	政务系统	100
+zheng wu xin xi xi tong	政务信息系统	100
+zheng wu xing	正五行	100
+zheng xian chuang you	争先创优	100
+zheng xian hou	争先后	100
+zheng xian kong hou de	争先恐后地	100
+zheng xian min	郑贤民	100
+zheng xian qi	争闲气	100
+zheng xian xing	正弦形	100
+zheng xiang chuan bo	正向传播	100
+zheng xiang guan guan xi	正相关关系	100
+zheng xiang luo zhi	争相罗致	100
+zheng xiang mo fang	争相模仿	100
+zheng xiang qian kan	正向前看	100
+zheng xiang shou cang	争相收藏	100
+zheng xiang wan	正想玩	100
+zheng xiang wan er	正想玩儿	100
+zheng xiang ya jiang	正向压降	100
+zheng xiang zeng zhang	正向增长	100
+zheng xiao he zuo	政校合作	100
+zheng xiao le	整笑了	100
+zheng xiao ling	郑晓玲	100
+zheng xiao qi he zuo	政校企合作	100
+zheng xiao rong	郑筱蓉	100
+zheng xiao xu	郑孝胥	100
+zheng xiao zhang	郑校长	100
+zheng xie diao yan	政协调研	100
+zheng xie ge can jia dan wei	政协各参加单位	100
+zheng xie mi shu zhang	政协秘书长	100
+zheng xie xi tong	政协系统	100
+zheng xie xiang zheng	正邪相争	100
+zheng xin bao gao	征信报告	100
+zheng xin hang ye	征信行业	100
+zheng xin lu	征信录	100
+zheng xin shang bao	征信上报	100
+zheng xin she	征信社	100
+zheng xin suo	征信所	100
+zheng xin ti xi	征信体系	100
+zheng xin ti xi jian she	征信体系建设	100
+zheng xin wei	郑新玮	100
+zheng xin xi tong	征信系统	100
+zheng xin ye	征信业	100
+zheng xing hang ye	整形行业	100
+zheng xing juan	郑幸娟	100
+zheng xing zhi zhen	整型指针	100
+zheng xiu fei	整修费	100
+zheng xiu yue	郑琇月	100
+zheng xu lan	郑绪岚	100
+zheng xuan sai	正选赛	100
+zheng xue er	郑雪儿	100
+zheng xue qi	整学期	100
+zheng xun chu	政训处	100
+zheng ya dai huan	正牙带环	100
+zheng ya yun	郑雅云	100
+zheng yan bu hui	正言不讳	100
+zheng yan dou li	争妍斗丽	100
+zheng yan dou qi	争妍斗奇	100
+zheng yan dou sheng	争妍斗胜	100
+zheng yan jing xiu	争妍竞秀	100
+zheng yan jun	郑延俊	100
+zheng yan li se	正言厉色	100
+zheng yan li yan	正言厉颜	100
+zheng yan xia zi	睁眼瞎子	100
+zheng yan yi kan	睁眼一看	100
+zheng yan zhi jian	正言直谏	100
+zheng yan zi	郑燕姿	100
+zheng yang bu xing jie	正阳步行街	100
+zheng ye jue	整夜觉	100
+zheng ye shui bu zhao jiao	整夜睡不着觉	100
+zheng ye wei gui	整夜未归	100
+zheng yi bao sha	正义爆杀	100
+zheng yi bei lu	正义北路	100
+zheng yi bin	郑艺彬	100
+zheng yi bu xiu	正义不朽	100
+zheng yi da jiang jun	征夷大将军	100
+zheng yi dang	正义党	100
+zheng yi dao	正一道	100
+zheng yi de dao shen zhang	正义得到伸张	100
+zheng yi de di fang	争议的地方	100
+zheng yi de yi fang	正义的一方	100
+zheng yi di	争议地	100
+zheng yi du	争议度	100
+zheng yi fa zhan dang	正义发展党	100
+zheng yi fen	整一份	100
+zheng yi ge	整一个	100
+zheng yi ge yue	整一个月	100
+zheng yi guo xiao	正义国小	100
+zheng yi he xie e	正义和邪恶	100
+zheng yi hui cheng	政以贿成	100
+zheng yi hui lang	正义回廊	100
+zheng yi jian	征意见	100
+zheng yi jiao	正一教	100
+zheng yi ju xiang	正义巨像	100
+zheng yi ju xiang jia li ao	正义巨像加里奥	100
+zheng yi li	郑易里	100
+zheng yi lian rong	整衣敛容	100
+zheng yi nan lu	正义南路	100
+zheng yi nian	整一年	100
+zheng yi shuang	整一双	100
+zheng yi tian	整一天	100
+zheng yi tian shi	正义天使	100
+zheng yi tian shi kai er	正义天使凯尔	100
+zheng yi tiao jie	争议调解	100
+zheng yi xia	争一下	100
+zheng yi xing wei	正义行为	100
+zheng yi yu xie e	正义与邪恶	100
+zheng yi yu xie e de jiao liang	正义与邪恶的较量	100
+zheng yi yue	整一月	100
+zheng yi zhan sheng xie e	正义战胜邪恶	100
+zheng yi zhi nu	正义之怒	100
+zheng yi zhi shi an jing de shen zhang	正义只是安静地伸张	100
+zheng yi zhi yan bi yi zhi yan	睁一只眼闭一只眼	100
+zheng yin ban	正音班	100
+zheng yin fa	正音法	100
+zheng yin pu	正音谱	100
+zheng yin qi	正因其	100
+zheng yin qi tu lao	正因其徒劳	100
+zheng ying gai	正应该	100
+zheng ying le na ju	正应了那句	100
+zheng ying le na ju hua	正应了那句话	100
+zheng yong zhi	郑永芝	100
+zheng you ji chu	政由己出	100
+zheng you lan	征友栏	100
+zheng you suo wei	政有所为	100
+zheng yu chi you	蒸鱼豉油	100
+zheng yu hao	郑余豪	100
+zheng yu si zhan	正欲死战	100
+zheng yu wen	郑宇文	100
+zheng yuan di chan	正源地产	100
+zheng yuan duan ben	正源端本	100
+zheng yuan xing	正圆形	100
+zheng yuan zhang	郑院长	100
+zheng yue chu jiu	正月初九	100
+zheng yue chu san si	正月初三四	100
+zheng yue li fa	正月理发	100
+zheng yue li fa si jiu jiu	正月理发死舅舅	100
+zheng yue shi er	正月十二	100
+zheng yue shi jiu	正月十九	100
+zheng yue shi liu	正月十六	100
+zheng yue shi san	正月十三	100
+zheng yue shi si	正月十四	100
+zheng yue shi yi	正月十一	100
+zheng yue tou	正月头	100
+zheng yun can	郑云灿	100
+zheng zai bi he	正在闭合	100
+zheng zai bo da de dian hua	正在拨打的电话	100
+zheng zai cheng zhang	正在成长	100
+zheng zai chong neng	正在充能	100
+zheng zai chong qi	正在重启	100
+zheng zai chong su	正在重塑	100
+zheng zai chong xin kao lv	正在重新考虑	100
+zheng zai chong xin ping gu	正在重新评估	100
+zheng zai chong xin qi dong	正在重新启动	100
+zheng zai chu chai	正在出差	100
+zheng zai chuang tai shang hua	正在窗台赏花	100
+zheng zai chuang tai shang hua deng zhe yu tian	正在窗台赏花等着雨天	100
+zheng zai chuang zuo	正在创作	100
+zheng zai di yu	正在低语	100
+zheng zai diao cha	正在调查	100
+zheng zai diao cha ci shi	正在调查此事	100
+zheng zai diao cha dang zhong	正在调查当中	100
+zheng zai diao cha he shi	正在调查核实	100
+zheng zai diao cha zhong	正在调查中	100
+zheng zai du jia	正在度假	100
+zheng zai duo di	正在夺嫡	100
+zheng zai e hua	正在恶化	100
+zheng zai fa sheng shen me	正在发生什么	100
+zheng zai fa sheng zhuan bian	正在发生转变	100
+zheng zai fu sheng	正在复生	100
+zheng zai gai	正在改	100
+zheng zai gan shen me	正在干什么	100
+zheng zai gao xing de shi hou	正在高兴的时候	100
+zheng zai gao zhang	正在高涨	100
+zheng zai gen jin	正在跟进	100
+zheng zai gen jin zhong	正在跟进中	100
+zheng zai gong zuo	正在工作	100
+zheng zai he jiu	正在喝酒	100
+zheng zai he shi	正在核实	100
+zheng zai he wo	正在和我	100
+zheng zai heng	郑在亨	100
+zheng zai huo de	正在获得	100
+zheng zai ji ji xie tiao	正在积极协调	100
+zheng zai jie shou diao cha	正在接受调查	100
+zheng zai jin xing de gong zuo	正在进行的工作	100
+zheng zai jin xing de huo dong	正在进行的活动	100
+zheng zai jin xing de yan jiu	正在进行的研究	100
+zheng zai jin xing diao cha	正在进行调查	100
+zheng zai jin xing shi	正在进行时	100
+zheng zai jin xing shi gong	正在进行施工	100
+zheng zai jin xing zhong	正在进行中	100
+zheng zai jin yi bu diao cha	正在进一步调查	100
+zheng zai ju xing	正在举行	100
+zheng zai juan	郑在娟	100
+zheng zai kan	正在看	100
+zheng zai kan ni	正在看你	100
+zheng zai kan ta	正在看他	100
+zheng zai kan ta	正在看她	100
+zheng zai kan wo	正在看我	100
+zheng zai liao jie	正在了解	100
+zheng zai liao shang	正在疗伤	100
+zheng zai lu shang	正在路上	100
+zheng zai luo shi	正在落实	100
+zheng zai lv xing	正在履行	100
+zheng zai lv xing	正在旅行	100
+zheng zai mian dui	正在面对	100
+zheng zai na li	怔在那里	100
+zheng zai nei zhan	正在内战	100
+zheng zai qi dong	正在启动	100
+zheng zai qi tou	正在气头	100
+zheng zai qi tou shang	正在气头上	100
+zheng zai re ying	正在热映	100
+zheng zai ri	郑载日	100
+zheng zai shang chuan	正在上传	100
+zheng zai sheng zhang	正在生长	100
+zheng zai shi fa	正在施法	100
+zheng zai shi tu	正在试图	100
+zheng zai shou kan	正在收看	100
+zheng zai shou kan de shi	正在收看的是	100
+zheng zai shu ru	正在输入	100
+zheng zai shuai luo	正在衰落	100
+zheng zai shui jiao	正在睡觉	100
+zheng zai si wang	正在死亡	100
+zheng zai song ming	正在送命	100
+zheng zai tan lu	正在探路	100
+zheng zai tiao jie	正在调解	100
+zheng zai tiao shi	正在调试	100
+zheng zai tiao zheng	正在调整	100
+zheng zai tong hua zhong	正在通话中	100
+zheng zai xia jiang	正在下降	100
+zheng zai xiao san	正在消散	100
+zheng zai xie tiao	正在协调	100
+zheng zai xing dong	正在行动	100
+zheng zai xu	郑在旭	100
+zheng zai xu	郑载旭	100
+zheng zai xun su zeng zhang	正在迅速增长	100
+zheng zai yi yuan	正在医院	100
+zheng zai yuan hang	正在远航	100
+zheng zai zhang da	正在长大	100
+zheng zai zhang shen ti	正在长身体	100
+zheng zai zheng duo	正在争夺	100
+zheng zai zhi xing	正在执行	100
+zheng zai zhi xing ren wu	正在执行任务	100
+zheng zai zhu	正在煮	100
+zheng zai zhu fan	正在煮饭	100
+zheng zai zhu mian	正在煮面	100
+zheng zai zhuan bian	正在转变	100
+zheng zai zuo shen me	正在做什么	100
+zheng ze can shu	正则参数	100
+zheng ze guo lv	正则过滤	100
+zheng zeng zhang	正增长	100
+zheng zha ba	挣扎吧	100
+zheng zha biao	挣扎表	100
+zheng zha de	挣扎地	100
+zheng zha le	挣扎了	100
+zheng zha le hao ban tian	挣扎了好半天	100
+zheng zha le hen jiu	挣扎了很久	100
+zheng zha le ji xia	挣扎了几下	100
+zheng zhan bu	政战部	100
+zheng zhan guan	政战官	100
+zheng zhan mu ban	整站模板	100
+zheng zhan xue xiao	政战学校	100
+zheng zhan zai men kou	正站在门口	100
+zheng zhang juan zi	整张卷子	100
+zheng zhang tu	整张图	100
+zheng zhao gong zuo	正找工作	100
+zheng zhao gong zuo ne	正找工作呢	100
+zheng zhao mo shi	征兆模式	100
+zheng zhao mo shi	征召模式	100
+zheng zhao ni ne	正找你呢	100
+zheng zhao xi	争朝夕	100
+zheng zhao xiong	郑兆雄	100
+zheng zhao zhe ne	正找着呢	100
+zheng zhe chi	争着吃	100
+zheng zhe chi	蒸着吃	100
+zheng zhe chi de	蒸着吃的	100
+zheng zhe chong	争着宠	100
+zheng zhe da da de yan jing	睁着大大的眼睛	100
+zheng zhe da yan jing	睁着大眼睛	100
+zheng zhe gan	争着干	100
+zheng zhe ge qian	挣这个钱	100
+zheng zhe he	争着喝	100
+zheng zhe jiang	争着讲	100
+zheng zhe kan	争着看	100
+zheng zhe lai	争着来	100
+zheng zhe lai kan	争着来看	100
+zheng zhe mai	争着买	100
+zheng zhe me	正这么	100
+zheng zhe me xiang	正这么想	100
+zheng zhe me xiang zhe	正这么想着	100
+zheng zhe me yi chu	整这么一出	100
+zheng zhe qian	挣着钱	100
+zheng zhe qiang	争着抢	100
+zheng zhe qiang zhe	争着抢着	100
+zheng zhe qu	争着去	100
+zheng zhe sang na	蒸着桑拿	100
+zheng zhe shuo	争着说	100
+zheng zhe wan	争着玩	100
+zheng zhe wen	争着问	100
+zheng zhe xie	整这些	100
+zheng zhe xie mei yong de	整这些没用的	100
+zheng zhe yan jing shui jiao	睁着眼睛睡觉	100
+zheng zhe yan shuo xia hua	睁着眼说瞎话	100
+zheng zhe yao	争着要	100
+zheng zhe yao kan	争着要看	100
+zheng zhe zuo	争着做	100
+zheng zheng chu shen	怔怔出神	100
+zheng zheng de	怔怔地	100
+zheng zheng de	整整的	100
+zheng zheng de tang zai	怔怔地躺在	100
+zheng zheng de wang zhe	怔怔地望着	100
+zheng zheng fan fan	正正反反	100
+zheng zheng liang nian le	整整两年了	100
+zheng zheng que que	正正确确	100
+zheng zheng shi er nian	整整十二年	100
+zheng zheng tang tang	正正堂堂	100
+zheng zheng xiang shang	蒸蒸向上	100
+zheng zheng yi ge yue	整整一个月	100
+zheng zheng yi nian le	整整一年了	100
+zheng zheng yi tian	整整一天	100
+zheng zheng yi tian le	整整一天了	100
+zheng zheng yi ye	整整一夜	100
+zheng zheng yi yue	整整一月	100
+zheng zheng yi zhou le	整整一周了	100
+zheng zhi bu tai min gan	政治不太敏感	100
+zheng zhi bu xuan chuan chu	政治部宣传处	100
+zheng zhi bu xuan chuan ke	政治部宣传科	100
+zheng zhi can	郑智灿	100
+zheng zhi can yu	政治参与	100
+zheng zhi chuan bo	政治传播	100
+zheng zhi chuan tong	政治传统	100
+zheng zhi da ti	政治大题	100
+zheng zhi da xue	政治大学	100
+zheng zhi de gao du	政治的高度	100
+zheng zhi ding xing	政治定性	100
+zheng zhi fang mian	政治方面	100
+zheng zhi gao du	政治高度	100
+zheng zhi ge ju	政治格局	100
+zheng zhi gong zuo	整治工作	100
+zheng zhi jin du	整治进度	100
+zheng zhi jing ji xue jie	政治经济学界	100
+zheng zhi jing ji zhi du	政治经济制度	100
+zheng zhi juan zi	政治卷子	100
+zheng zhi jue li	政治角力	100
+zheng zhi jue wu gao	政治觉悟高	100
+zheng zhi kao shi	政治考试	100
+zheng zhi ke shang	政治课上	100
+zheng zhi la ji xin xi	整治垃圾信息	100
+zheng zhi li shi	政治历史	100
+zheng zhi li yi tuan ti	政治利益团体	100
+zheng zhi lian xi	政治联系	100
+zheng zhi lian xi ce	政治练习册	100
+zheng zhi long	郑志龙	100
+zheng zhi mian	政治面	100
+zheng zhi ming	郑知明	100
+zheng zhi mo shi	政治模式	100
+zheng zhi pai xi	政治派系	100
+zheng zhi pan duan li	正值判断力	100
+zheng zhi qian ke	政治掮客	100
+zheng zhi quan li	政治权利	100
+zheng zhi shang kao de zhu	政治上靠得住	100
+zheng zhi sheng nian	正值盛年	100
+zheng zhi sheng xia	正值盛夏	100
+zheng zhi shi wu ju	政制事务局	100
+zheng zhi tai min gan	政治太敏感	100
+zheng zhi ti xi	政治体系	100
+zheng zhi wu xie	正直无邪	100
+zheng zhi xi tong	政治系统	100
+zheng zhi xiao hua	政治笑话	100
+zheng zhi xie shang zhi du	政治协商制度	100
+zheng zhi xing	争执性	100
+zheng zhi xing dong wei yuan hui	政治行动委员会	100
+zheng zhi xing dong zhong	整治行动中	100
+zheng zhi xing wei	政治行为	100
+zheng zhi xiu jue	政治嗅觉	100
+zheng zhi xue xi	政治学系	100
+zheng zhi xue xiao	政治学校	100
+zheng zhi xue yu xing zheng xue	政治学与行政学	100
+zheng zhi yi yi ren shi	政治异议人士	100
+zheng zhi yin yu	政治隐喻	100
+zheng zhi ying yu	政治英语	100
+zheng zhi you	郑智友	100
+zheng zhi yuan	郑职院	100
+zheng zhi yuan ze	政治原则	100
+zheng zhi zheng que	政治正确	100
+zheng zhi zhi xin	争执之心	100
+zheng zhi zhi xing li	政治执行力	100
+zheng zhi zhong dian	整治重点	100
+zheng zhi zhu ren	政治主任	100
+zheng zhi zuo zhan	政治作战	100
+zheng zhi zuo zhan xue xiao	政治作战学校	100
+zheng zhong cheng nuo	郑重承诺	100
+zheng zhong dao	郑重道	100
+zheng zhong dao qian	郑重道歉	100
+zheng zhong de	郑重地	100
+zheng zhong de cheng nuo	郑重的承诺	100
+zheng zhong ji	郑中基	100
+zheng zhong ji huai	正中己怀	100
+zheng zhong jing gao	郑重警告	100
+zheng zhong jun	郑中钧	100
+zheng zhong qi ci	郑重其词	100
+zheng zhong shen ming	郑重申明	100
+zheng zhong shi	正中是	100
+zheng zhong shuo ming	郑重说明	100
+zheng zhong ti shi	郑重提示	100
+zheng zhong ti xing	郑重提醒	100
+zheng zhong tui jian	郑重推荐	100
+zheng zhong xuan shi	郑重宣誓	100
+zheng zhou cai jing	郑州财经	100
+zheng zhou chang cheng	郑州长城	100
+zheng zhou chang jiang yi yuan	郑州长江医院	100
+zheng zhou da du shi qu	郑州大都市区	100
+zheng zhou de xue	郑州的雪	100
+zheng zhou deng di	郑州等地	100
+zheng zhou di qu	郑州地区	100
+zheng zhou di tie	郑州地铁	100
+zheng zhou ding sheng	郑州鼎盛	100
+zheng zhou dong	郑州东	100
+zheng zhou dong zhan	郑州东站	100
+zheng zhou du shi quan	郑州都市圈	100
+zheng zhou er yuan	郑州二院	100
+zheng zhou fang di chan	郑州房地产	100
+zheng zhou fen hang	郑州分行	100
+zheng zhou fu shi kang	郑州富士康	100
+zheng zhou gong shang	郑州工商	100
+zheng zhou huang he da qiao	郑州黄河大桥	100
+zheng zhou jia xiao	郑州驾校	100
+zheng zhou li gong	郑州理工	100
+zheng zhou lv xing she	郑州旅行社	100
+zheng zhou qing gong ye	郑州轻工业	100
+zheng zhou shi fan	郑州师范	100
+zheng zhou shi ji huan le yuan	郑州世纪欢乐园	100
+zheng zhou shi zhong mu xian	郑州市中牟县	100
+zheng zhou shui zai	郑州水灾	100
+zheng zhou wai guo yu xue xiao	郑州外国语学校	100
+zheng zhou xi ya si	郑州西亚斯	100
+zheng zhou yin hang	郑州银行	100
+zheng zhou zhong mu	郑州中牟	100
+zheng zhu jiu shi	征逐酒食	100
+zheng zhu nian shang sheng	正逐年上升	100
+zheng zhuang dai ming	整装待命	100
+zheng zhuang de yan zhong cheng du	症状的严重程度	100
+zheng zhuang e hua	症状恶化	100
+zheng zhuang jia zhong	症状加重	100
+zheng zhuang jiao zhong	症状较重	100
+zheng zhuang qing zhong	症状轻重	100
+zheng zhuang xing	症状性	100
+zheng zhuang yan zhong	症状严重	100
+zheng zhuang yu ji bing	症状与疾病	100
+zheng zhuang zhong	症状重	100
+zheng zhun bei shui	正准备睡	100
+zheng zhun bei shui jiao	正准备睡觉	100
+zheng zhuo shou	正着手	100
+zheng zi fa gui ze	正字法规则	100
+zheng zi hao	郑梓浩	100
+zheng zong chong qing huo guo	正宗重庆火锅	100
+zheng zong chuan ren	正宗传人	100
+zheng zong de	正宗的	100
+zheng zong di dao	正宗地道	100
+zheng zong yuan chan di	正宗原产地	100
+zheng zu he zu	整租合租	100
+zheng zu le mian zi	挣足了面子	100
+zheng zuo biao shuai	争做表率	100
+zheng zuo fang	正左方	100
+zheng zuo meng	正做梦	100
+zheng zuo xin qing nian	争做新青年	100
+zheng cai	政采	99
+zheng du	蒸镀	99
+zheng fu	整复	99
+zheng huo	整活	99
+zheng huo er	整活儿	99
+zheng pai	政派	99
+zheng xi yi	郑希怡	99
+zheng xiong	正凶	99
+zheng xie li tang	政协礼堂	98
+zheng ming na ge	证明那个	97
+zheng tai de	正态的	95
+zheng zhuang	郑庄	94
+zheng he xin yi	正合心意	93
+zheng quan gong si gao ji guan li ren yuan guan li ban fa	证券公司高级管理人员管理办法	92
+zheng dong guo	郑洞国	91
+zheng chu lai	蒸出来	90
+zheng xian fa yan	争先发言	90
+zheng zhi bo dong	政治波动	90
+zheng ge zu	整个组	88
+zheng gu an mo	正骨按摩	88
+zheng kan	正看	88
+zheng shi ku	正式库	88
+zheng tai zong ti	正态总体	88
+zheng zhou wei jia zhuan ying dian	郑州威佳专营店	88
+zheng bei gong	整备工	87
+zheng gu yi yuan	正骨医院	87
+zheng he wang zhan	整合网站	87
+zheng ju cai xin gui ze	证据采信规则	87
+zheng quan zi ying shang	证券自营商	87
+zheng shu gong ju	证书工具	87
+zheng tie zhong yuan	郑铁中院	87
+zheng xun shi	政训室	87
+zheng yin qi she	政银企社	87
+zheng zhou xin da jie an	郑州信大捷安	87
+zheng zhou xin da jie an xin xi ji shu gu fen you xian gong si	郑州信大捷安信息技术股份有限公司	87
+zheng hao	郑昊	86
+zheng le ge	整了个	86
+zheng tong zhu yi	正统主义	85
+zheng zheng gao	蒸蒸糕	85
+zheng ji zhi liao	正畸治疗	84
+zheng gu	整骨	82
+zheng xi	争席	82
+zheng quan fa xing shen he zhi du	证券发行审核制度	80
+zheng yin	证印	80
+zheng jia yuan zi	郑家院子	79
+zheng qian kong hou	争前恐后	79
+zheng da	征答	78
+zheng fa yi	蒸发仪	78
+zheng kan	正刊	77
+zheng nian du	整年度	77
+zheng chang hou	正常后	76
+zheng fan	郑凡	76
+zheng ge ren er	整个人儿	75
+zheng li wen dang	整理文档	75
+zheng li wen ti	整理问题	75
+zheng li xu qiu	整理需求	75
+zheng li you jian	整理邮件	75
+zheng shi da bian	正式答辩	75
+zheng shu xin ren lie biao	证书信任列表	75
+zheng ti lian tiao	整体联调	75
+zheng yi ci	争议词	75
+zheng yi jin yi	正以尽义	75
+zheng zhi su zhi shi gen ben	政治素质是根本	75
+zheng cha guan nei	正茶馆内	74
+zheng li yi ge	整理一个	74
+zheng xiang shuo	正想说	74
+zheng fu dian	征服点	73
+zheng li yu shi	争利于市	73
+zheng lv cheng	郑律成	73
+zheng qun chou yang	整群抽样	73
+zheng duan	郑段	72
+zheng yi sheng yin	正义圣印	72
+zheng li ge	整理个	71
+zheng ze yu yan	正则语言	71
+zheng bu chu lai	整不出来	70
+zheng dou zhe	争斗者	70
+zheng jian bu yi	政见不一	70
+zheng sheng hao qiang	争胜好强	70
+zheng shi qi bian xing	正十七边形	70
+zheng zhi shu	正指数	70
+zheng chang qing kuang xia	正常情况下	69
+zheng gui wen fa	正规文法	69
+zheng he xia	整合下	69
+zheng jian shi bie	证件识别	69
+zheng di bu chang xiang mu	征地补偿项目	68
+zheng que ling dao xia	正确领导下	68
+zheng shi dian	正式点	68
+zheng shi jing ying	正式经营	68
+zheng shi zhong zhi	正式终止	68
+zheng yang shi chang	正阳市场	68
+zheng zai zhi dao	正在指导	68
+zheng zi liao	整资料	68
+zheng ruo ceng	郑若曾	67
+zheng shi dian	正式电	67
+zheng bu wan	整不完	66
+zheng jun	郑君	66
+zheng wan shang	整晚上	66
+zheng wen li	正文里	66
+zheng xiao dong	郑晓东	66
+zheng bu liao	争不了	65
+zheng fa guang	正发光	65
+zheng guo lai	整过来	65
+zheng jia cun	郑家村	65
+zheng qi xiao du	蒸汽消毒	65
+zheng qian rong yi zan qian nan	挣钱容易攒钱难	65
+zheng you fang	正右方	65
+zheng yu ling	郑裕玲	65
+zheng zhi qing	郑芷晴	65
+zheng chang shi	正常是	64
+zheng fan cha	正反插	64
+zheng fan se	正反色	64
+zheng feng	郑风	64
+zheng hui lai	整回来	64
+zheng que hou	正确后	64
+zheng shi zai	正是在	64
+zheng shu shang	证书上	64
+zheng wan	整蔓	64
+zheng xiao xia	郑小夏	64
+zheng fu zhi	正副职	63
+zheng li gao	整理稿	63
+zheng fu cai gou ping shen zhuan jia guan li ban fa	政府采购评审专家管理办法	62
+zheng fu jie	政府街	62
+zheng gai wan	整改完	62
+zheng bu dong	整不动	61
+zheng gai biao	整改表	61
+zheng mu	郑母	61
+zheng tai dian qi	正泰电器	61
+zheng zi xi	正字戏	61
+zheng chang ji fen	正常积分	60
+zheng fu xian zhang	正副县长	60
+zheng xiang guan	整相关	60
+zheng you yu ci	正由于此	59
+zheng ban yan zheng	正版验证	58
+zheng he mu	郑和墓	58
+zheng bai qi	正白旗	57
+zheng hang sheng	郑杭生	57
+zheng jian zhe	政见者	56
+zheng du	正读	55
+zheng dun zhe	整顿者	55
+zheng fu yi zhang	正副议长	55
+zheng gou liang	征购粮	55
+zheng lian dan bai	整联蛋白	55
+zheng mu xin bing	征募新兵	55
+zheng qi chui	蒸汽锤	55
+zheng ran you xu	整然有序	55
+zheng wei yuan	政委员	55
+zheng li lu	政立路	53
+zheng fu cai gou zhao biao tou biao guan li zan xing ban fa	政府采购招标投标管理暂行办法	52
+zheng chang yu	蒸鲳鱼	50
+zheng chu xing	整除性	50
+zheng heng xie zi lou	正恒写字楼	50
+zheng ren yuan	征人员	50
+zheng fan zhe ne	正烦着呢	48
+zheng hai lin	郑海麟	48
+zheng jun jing wu	整军经武	48
+zheng yong tu di gong gao ban fa	征用土地公告办法	48
+zheng zhong shen jing	正中神经	47
+zheng bao qing	郑宝清	45
+zheng fu tou zi ji zhi	政府投资机制	45
+zheng pi xiao shou	整批销售	45
+zheng quan shi chang wei fa fan zui	证券市场违法犯罪	45
+zheng yang he	正阳河	43
+zheng ze ji	正则集	43
+zheng jun li	郑君里	41
+zheng can fan	整餐饭	40
+zheng fa gan xiao	政法干校	40
+zheng fu yi an	政府议案	40
+zheng ju zhi jian xiang hu yin zheng	证据之间相互印证	40
+zheng mo shi	整模式	40
+zheng xian gong shi	正弦公式	40
+zheng shi liang	郑士良	38
+zheng zuo min	郑作民	38
+zheng ru wo qing qing de lai	正如我轻轻的来	37
+zheng xie	郑燮	37
+zheng xin min	郑新民	37
+zheng yu tong zhong xue	郑裕彤中学	37
+zheng ze xu	正则序	37
+zheng quan shi chang jin ru zhi du	证券市场禁入制度	36
+zheng wang fen	郑王坟	36
+zheng can	整餐	35
+zheng gui bing	正规兵	35
+zheng shu bu fen	整数部分	35
+zheng tan chou wen	政坛丑闻	35
+zheng zhuang gong	郑庄公	35
+zheng jia ji ju	症瘕积聚	34
+zheng tong shun jie	正通顺街	34
+zheng xiang chuan zhi	正向传值	34
+zheng zang zhi luan	整脏治乱	34
+zheng qi bu	政企部	33
+zheng shu xian xing gui hua	整数线性规划	33
+zheng yang gao er	蒸羊羔儿	33
+zheng yi yi dong	正益移动	33
+zheng zhou kao ya	郑州烤鸭	33
+zheng cheng gong ji nian guan	郑成功纪念馆	31
+zheng ding dan	征订单	31
+zheng xian	郑县	31
+zheng zhi pai chi	政治排斥	31
+zheng chuai	挣揣	30
+zheng de qi	争得起	30
+zheng hao gao	正好高	30
+zheng shu mu ban	证书模板	30
+zheng zai wen	正在问	30
+zheng ce xing shui shou chou hua	政策性税收筹划	29
+zheng chang wan	整肠丸	29
+zheng ju xue	证据学	29
+zheng shu zuo fei biao	证书作废表	29
+zheng xiang tui li	正向推理	29
+zheng you chuang xian	争优创先	29
+zheng bi bao	正闭包	28
+zheng biao shi	整表示	28
+zheng bo ke duan yu yan	郑伯克段于鄢	28
+zheng chang zhuang	郑常庄	28
+zheng hong hua you	正红花油	28
+zheng ji suo	征稽所	28
+zheng long pai hu	正龙拍虎	28
+zheng yu cheng	郑宇成	28
+zheng wu yuan yu	政务院于	27
+zheng ding ji	正丁基	26
+zheng hui yuan	正会员	26
+zheng ju li lun	证据理论	26
+zheng xu xie shi	正虚邪实	26
+zheng bing nan	征兵难	25
+zheng liu zhu	蒸馏柱	25
+zheng quan gong si cai wu zhi du	证券公司财务制度	25
+zheng rong kua yao	争荣夸耀	25
+zheng ting	证停	25
+zheng xing shou shu	整型手术	25
+zheng yan	政研	25
+zheng yan ruo fan	正言若反	25
+zheng yong quan	征用权	25
+zheng yue fen	整月份	25
+zheng quan jie suan feng xian ji jin guan li zan xing ban fa	证券结算风险基金管理暂行办法	24
+zheng wei shan	郑维山	24
+zheng zhou shi xian zhi yang quan tiao li	郑州市限制养犬条例	24
+zheng fu jie	正府街	23
+zheng lu wan	正露丸	23
+zheng min lu	政民路	23
+zheng ming shu	证明树	23
+zheng zheng you sheng	铮铮有声	23
+zheng jia he	郑家河	22
+zheng shu fei chu	证书废除	22
+zheng shu guan li ji gou	证书管理机构	22
+zheng bian xin qu	郑汴新区	21
+zheng feng rong	郑凤荣	21
+zheng fu hou yuan	政府后院	21
+zheng ze	郑泽	21
+zheng zheng zhi qi	正正之旗	21
+zheng bu qi	争不起	20
+zheng chu shu	整除数	20
+zheng fang xing shu	正方形数	20
+zheng gui qu xian	正规曲线	20
+zheng ma	整嘛	20
+zheng su lu	政肃路	20
+zheng zhi fan bu yin du yuan ze	政治犯不引渡原则	20
+zheng chang	正场	19
+zheng da lu	正大路	19
+zheng quan gong si jian cha ban fa	证券公司检查办法	19
+zheng xin hua yuan	政新花园	19
+zheng zhou shi song shan gu jian zhu qun bao hu guan li gui ding	郑州市嵩山古建筑群保护管理规定	19
+zheng dou	正斗	18
+zheng wen bian ji	正文编辑	18
+zheng zhou da xue fa xue zhuan ye	郑州大学法学专业	18
+zheng zhou shi shi qu zan zhu ren kou deng ji ban fa	郑州市市区暂住人口登记办法	18
+zheng ding ji an	正丁基胺	17
+zheng jin	郑晋	17
+zheng yang cun	正阳村	17
+zheng fu cai gou yun xing gui cheng zan xing gui ding	政府采购运行规程暂行规定	16
+zheng hong	郑鸿	16
+zheng jie min	郑介民	16
+zheng keng cun	郑坑村	16
+zheng pian die jia	正片叠加	16
+zheng quan shi chang xin xi pi lu fa lv jian guan	证券市场信息披露法律监管	16
+zheng yue ban	正月半	16
+zheng chai hu yin	正柴胡饮	15
+zheng duo bin	郑多彬	15
+zheng jiao xian	正焦弦	15
+zheng jiao yuan	正交圆	15
+zheng pei	郑培	15
+zheng quan ye tong ye gong hui	证券业同业公会	15
+zheng shou pai wu fei zhi du	征收排污费制度	15
+zheng si xiao	郑思肖	15
+zheng song bu yi	争讼不已	15
+zheng ti guang zhao mo xing	整体光照模型	15
+zheng xian shou	争先手	15
+zheng xun	郑勋	15
+zheng yi lu nan kou	正义路南口	15
+zheng zhou dong lu	郑州东路	15
+zheng ce yu mo shi	政策与模式	14
+zheng huan gong	郑桓公	14
+zheng jia mo cun	郑家磨村	14
+zheng jian mei	证件妹	14
+zheng jiao xiao bo bian huan	正交小波变换	14
+zheng lian ou fen	蒸莲藕粉	14
+zheng ti shi xiao	整体失效	14
+zheng xue lu	正学路	14
+zheng yi wei	正一味	14
+zheng chai hu yin ke li	正柴胡饮颗粒	13
+zheng jiu zhu fu	拯救祝福	13
+zheng quan shi chang min shi pei chang zhi du	证券市场民事赔偿制度	13
+zheng ru wo qiao qiao de lai	正如我悄悄的来	13
+zheng shi pi dai zhang jin lun	正时皮带涨紧轮	13
+zheng tian wan	正天丸	13
+zheng zhen	郑珍	13
+zheng zhuang xing dian xian	症状性癫痫	13
+zheng bu men	整部门	12
+zheng dian shi hui	整点实惠	12
+zheng dong zhen	整董镇	12
+zheng ji zheng ji	征集征集	12
+zheng li dao	整理到	12
+zheng pai	正拍	12
+zheng teng yun	郑腾云	12
+zheng wang zhe	怔望着	12
+zheng xue che	正学车	12
+zheng yi hong	郑一泓	12
+zheng yong geng di bu chang fei	征用耕地补偿费	12
+zheng zhi long xia	整肢龙虾	12
+zheng zhong shen jing sun shang	正中神经损伤	12
+zheng kai	郑恺	11
+zheng liang zhong	整两盅	11
+zheng ping	正平	11
+zheng shui	正税	11
+zheng ben lu	政本路	10
+zheng cheng gong shi ji	郑成功史迹	10
+zheng dou xiang	正斗乡	10
+zheng du	郑度	10
+zheng fu hao han shu	正负号函数	10
+zheng ge zhuang	郑各庄	10
+zheng man qing	郑曼青	10
+zheng ming yu chao	争名于朝	10
+zheng rong cui wei	峥嵘崔嵬	10
+zheng wen bian ji qi	正文编辑器	10
+zheng yue	郑岳	10
+zheng ze xing shi	正则形式	10
+zheng zheng jie jie	整整洁洁	10
+zheng zheng qiu	郑正秋	10
+zheng chong	怔忡	9
+zheng hong	郑弘	9
+zheng huang	正黄	9
+zheng ke shuang	郑克塽	9
+zheng quan tou zi ji jin hang ye gong yue	证券投资基金行业公约	9
+zheng wei jian	郑维健	9
+zheng xi xiang	正西乡	9
+zheng yong pin yong ju jian du guan li ban fa	政用品用具监督管理办法	9
+zheng zhao	征招	9
+zheng ao	正岙	8
+zheng fu cai gou zi jin cai zheng zhi jie bo fu guan li zan xing ban fa	政府采购资金财政直接拨付管理暂行办法	8
+zheng fu dao	政府道	8
+zheng quan tou zi fen xi	证券投资分析	8
+zheng cuo cun	郑厝村	7
+zheng ding ji li	正丁基锂	7
+zheng hao da sha	正豪大厦	7
+zheng ji cai liao	正畸材料	7
+zheng ning ke wei	狰狞可畏	7
+zheng ning mian mao	狰狞面貌	7
+zheng qi gui chao	正期归巢	7
+zheng qu yan ge	政区沿革	7
+zheng quan fa qian yan wen ti an li yan jiu	证券法前沿问题案例研究	7
+zheng quan ji zhong tuo guan	证券集中托管	7
+zheng quan shi chang hong zhou kan	证券市场红周刊	7
+zheng tai	郑泰	7
+zheng yi	正谊	7
+zheng zhuang zi	郑庄子	7
+zheng ban leng mian	蒸拌冷面	6
+zheng bu chu	证不出	6
+zheng chang	争长	6
+zheng dao guang	郑道光	6
+zheng dong zhong jie	正东中街	6
+zheng fu	郑簠	6
+zheng fu jian hai shi xie shang zu zhi gong yue	政府间海事协商组织公约	6
+zheng fu si	正福寺	6
+zheng ke xiang	正科乡	6
+zheng ming zhai gao dian	正明斋糕点	6
+zheng qi xiang	郑旗乡	6
+zheng wu gong	郑武公	6
+zheng xing nie	整形镊	6
+zheng zhou xi lu	郑州西路	6
+zheng zui you	整嘴油	6
+zheng ba wang zhong wang	争霸王中王	5
+zheng ben su yuan	正本溯源	5
+zheng chu	郑樗	5
+zheng dian jie dao	郑店街道	5
+zheng duan jie jue zhuan jia zu	争端解决专家组	5
+zheng fang gen	整方根	5
+zheng ge fa	正割法	5
+zheng guan chu	征管处	5
+zheng hai da jiu dian	正海大酒店	5
+zheng ji dan rou juan	蒸鸡蛋肉卷	5
+zheng liu shui ji	蒸馏水机	5
+zheng lun	郑伦	5
+zheng mao diu niu	争猫丢牛	5
+zheng qing jian cha	蒸青煎茶	5
+zheng shi jiang nan hao	正是江南好	5
+zheng shi qiao	郑石桥	5
+zheng shi yu lan shi jie dong	正是浴兰时节动	5
+zheng ti ji da zhi	整体极大值	5
+zheng ti ji xiao zhi	整体极小值	5
+zheng xing xiang	正兴乡	5
+zheng yang lu bu xing jie	正阳路步行街	5
+zheng yang qiao bei	正阳桥北	5
+zheng yi zhi xing	正义执行	5
+zheng bao	郑宝	4
+zheng biao	正表	4
+zheng ding ji peng suan	正丁基硼酸	4
+zheng dong shang jie	正东上街	4
+zheng fa qi xin zi	蒸发器芯子	4
+zheng fu yuan	政府院	4
+zheng ge zhuang	郑戈庄	4
+zheng hui	争辉	4
+zheng kao fu	正考父	4
+zheng li lu shi guang lu	政立路市光路	4
+zheng mei mei	郑梅梅	4
+zheng qin wang fu	郑亲王府	4
+zheng qu sai	争取赛	4
+zheng quan zhou kan	证券周刊	4
+zheng shan xiang	郑山乡	4
+zheng wen gong	郑文公	4
+zheng xi feng luo ye xia chang an	正西风落叶下长安	4
+zheng xia en	郑夏恩	4
+zheng yi hong shi	正义红师	4
+zheng zhong qi huai	正中其怀	4
+zheng zhou shi shi shi xing zheng xu ke jian du gui ding	郑州市实施行政许可监督规定	4
+zheng zong shuan yang rou	正宗涮羊肉	4
+zheng ben da tao	整本大套	3
+zheng da hua yuan	正大花园	3
+zheng da qi pei	正大汽配	3
+zheng dao	证道	3
+zheng di an zhi bu chang jiu fen	征地安置补偿纠纷	3
+zheng huai xian	郑怀贤	3
+zheng jia ji xiang	郑家集乡	3
+zheng jia tai	郑家台	3
+zheng ping song li	政平讼理	3
+zheng quan	正拳	3
+zheng quan fa xing zhu ce zhi	证券发行注册制	3
+zheng quan shi jian shang wu ban	证券时间上午版	3
+zheng quan yi jia	证券溢价	3
+zheng shi cheng huang ju lv shi	正是橙黄橘绿时	3
+zheng xia	郑侠	3
+zheng xiao mao	郑小毛	3
+zheng xin yuan xiao qu	政馨园小区	3
+zheng xing shu	整型术	3
+zheng yan la zi	睁眼辣子	3
+zheng yi dao	正义道	3
+zheng yu jiao	郑玉娇	3
+zheng yuan	郑沅	3
+zheng yue shi liu ye	正月十六夜	3
+zheng zhen yao	郑振瑶	3
+zheng zhou bei huan qi pei che shi guang chang	郑州北环汽配车饰广场	3
+zheng zi ji chu	政自己出	3
+zheng zong si	正宗寺	3
+zheng an xian	正安县	2
+zheng dang bai xia men	正当白下门	2
+zheng dao	政道	2
+zheng de da qiu chang wan zhang	争得大裘长万丈	2
+zheng fu shi chang ying xiao	政府市场营销	2
+zheng ge	正格	2
+zheng guang wen	郑广文	2
+zheng guo lu	郑国路	2
+zheng huan	郑环	2
+zheng ji jiao zhi qi	正畸矫治器	2
+zheng jia	郑家	2
+zheng ling gong	郑灵公	2
+zheng mu gong	郑穆公	2
+zheng nai dong	郑乃东	2
+zheng ping	政平	2
+zheng qian	正前	2
+zheng quan dao bao	证券导报	2
+zheng quan jian guan fa lv zhi du yan jiu	证券监管法律制度研究	2
+zheng quan qi huo fan zui li lun yu shi wu	证券期货犯罪理论与实务	2
+zheng quan xin yong kong zhi	证券信用控制	2
+zheng quan ying ye bu ye wu cao zuo gui cheng	证券营业部业务操作规程	2
+zheng shi hao	郑世豪	2
+zheng su xiang	正素巷	2
+zheng su zi	正俗字	2
+zheng ti lei yao	正体类要	2
+zheng xian fu	郑献甫	2
+zheng xin nian	郑新年	2
+zheng xin tai ke li	正心泰颗粒	2
+zheng yan	争妍	2
+zheng yang he jie dao	正阳河街道	2
+zheng yuan lu	正原路	2
+zheng zhen dang xing jian	正枕当星剑	2
+zheng zheng	丁丁	2
+zheng zhi si	政治司	2
+zheng zhi zhen	郑之珍	2
+zheng zhong guang	郑重光	2
+zheng zhong kui	郑仲夔	2
+zheng zhuang zi da jie	郑庄子大街	2
+zheng cai	正财	1
+zheng chang ren ti gong neng	正常人体功能	1
+zheng chang sheng jiao nang	整肠生胶囊	1
+zheng chang zhuang cun	郑常庄村	1
+zheng cheng wu yin ge shan	争逞舞裀歌扇	1
+zheng chu feng chou she zhou ci shi xing qun	正初奉酬歙州刺史邢群	1
+zheng da gao ming	正大高明	1
+zheng da hai	郑大海	1
+zheng da lu xi kou	正大路西口	1
+zheng dai	郑岱	1
+zheng dan meng zhao wang lai jiu shi	正旦蒙赵王赉酒诗	1
+zheng de qiu er wan bao cheng	正得秋而万宝成	1
+zheng di jian tiao qiu	郑氐间条鳅	1
+zheng di xiang	郑地乡	1
+zheng dian bei hua	正点背画	1
+zheng ding mei su	正定霉素	1
+zheng dun gan kun	整顿干坤	1
+zheng dun jin	郑敦谨	1
+zheng e niu wei yu	正鳄牛尾鱼	1
+zheng fa xue yuan nan xiao qu	政法学院南校区	1
+zheng fa zhi du	正法直度	1
+zheng fan qu zhao can yang li	征帆去棹残阳里	1
+zheng fan yi pian rao peng hu	征帆一片绕蓬壶	1
+zheng fang chui e luo	正纺锤峨螺	1
+zheng fen ti du	整纷剔蠹	1
+zheng fu hao	郑福浩	1
+zheng fu huai yuan lu	征夫怀远路	1
+zheng fu kuai ji	政府会计	1
+zheng fu rang yang	证父攘羊	1
+zheng fu rong dou fu	蒸芙蓉豆腐	1
+zheng fu zhuang	郑福庄	1
+zheng gao gou li	征高句丽	1
+zheng ge	正割	1
+zheng ge ge xian	正割割线	1
+zheng gong shuai wu	整躬率物	1
+zheng gu gong ju	正骨工具	1
+zheng gui zheng jian	征贵征贱	1
+zheng hao ma	郑好码	1
+zheng he chun	政和春	1
+zheng hong ru bao	正虹乳宝	1
+zheng ji bu chong	征集补充	1
+zheng ji ci hua yan hu xia	争及此花檐户下	1
+zheng ji er yi yi	正己而已矣	1
+zheng ji shi yang	争鸡失羊	1
+zheng ji shou dao	正己守道	1
+zheng ji si	正畸丝	1
+zheng ji tang	郑际唐	1
+zheng jia shan bing	整甲缮兵	1
+zheng jian gong	郑简公	1
+zheng jian sheng shi you chang wang	正见盛时犹怅望	1
+zheng jiao liang chu xiao hun	争教两处销魂	1
+zheng jing ji	郑敬基	1
+zheng jiu ma	整九码	1
+zheng ju zhi du ruo gan wen ti yan jiu	证据制度若干问题研究	1
+zheng jue hu tong	正觉胡同	1
+zheng keng wei	正坑尾	1
+zheng kui fei	郑奎飞	1
+zheng lan sun	郑兰孙	1
+zheng li gong	郑厉公	1
+zheng lian ri po lang hua chu	正怜日破浪花出	1
+zheng lian wu qi	征敛无期	1
+zheng liao	整料	1
+zheng lv li zu	整旅厉卒	1
+zheng ming gong dao	正明公道	1
+zheng ming ze shi	正名责实	1
+zheng nai jie gen shen shi di	争奈结根深石底	1
+zheng niu	争拗	1
+zheng pu	郑普	1
+zheng qi yu	正旗鱼	1
+zheng qiao	正桥	1
+zheng qing feng tong ning jiao nang	正清风痛宁胶囊	1
+zheng quan dao kan	证券导刊	1
+zheng quan fa bi jiao yan jiu	证券法比较研究	1
+zheng quan fa yuan	证券法苑	1
+zheng quan ji xiang guan fan zui ren ding chu li	证券及相关犯罪认定处理	1
+zheng quan jiao yi suo feng xian ji jin guan li zan xing ban fa	证券交易所风险基金管理暂行办法	1
+zheng quan shi jian wan jian ban	证券时间晚间版	1
+zheng quan zi xun	证券资讯	1
+zheng ren shi lv	郑人实履	1
+zheng ren zheng nian	郑人争年	1
+zheng rong kang se	正容亢色	1
+zheng se zhi sheng	正色直绳	1
+zheng sha wei fan	蒸沙为饭	1
+zheng shan fu	郑善夫	1
+zheng shang gang	正上岗	1
+zheng shen ming fa	正身明法	1
+zheng shen qing xin	正身清心	1
+zheng sheng	政声	1
+zheng sheng luan ya	郑声乱雅	1
+zheng sheng xiang	争胜乡	1
+zheng sheng ya yin	正声雅音	1
+zheng sheng yi piao lun	正声易漂沦	1
+zheng shi	郑氏	1
+zheng shi deng gao shi jie	正是登高时节	1
+zheng shi ma	整十码	1
+zheng shi ren jian jia jie	正是人间佳节	1
+zheng shi wei mo jing jie	正是维摩境界	1
+zheng tao gao gou li	征讨高句丽	1
+zheng teng xi shu	蒸腾系数	1
+zheng ti ke pu	整体科普	1
+zheng ti qie pian ji	整体切片机	1
+zheng tuo	整托	1
+zheng wei sang jian	郑卫桑间	1
+zheng wen kao xian	征文考献	1
+zheng xiang	正项	1
+zheng xiao you	正小鲉	1
+zheng xin an ren bai lu chen	争信安仁拜路尘	1
+zheng xin gai lun	征信概论	1
+zheng xin gua gong	正心瓜栱	1
+zheng xin mai chong ge chu yi	争新买宠各出意	1
+zheng xin tai jiao nang	正心泰胶囊	1
+zheng xin tai pian	正心泰片	1
+zheng xing bei mu	正形贝目	1
+zheng xing yao shui	整形药水	1
+zheng xing yong qian	整形用钳	1
+zheng xiong gua jie piao chong	整胸寡节瓢虫	1
+zheng ya hu xi zhi liao ji	正压呼吸治疗机	1
+zheng yi shen dian	正义神殿	1
+zheng ying	怔营	1
+zheng ying xue	正营穴	1
+zheng yu shi jia	正裕世家	1
+zheng yuan shang lv jiu dian	正远商旅酒店	1
+zheng yue duan men ye	正月端门夜	1
+zheng zai gen jin	正在跟紧	1
+zheng zha zi cun	郑栅子村	1
+zheng zhang huang chi	争长黄池	1
+zheng zhao song long	郑昭宋聋	1
+zheng zheng fu xie xie	整整复斜斜	1
+zheng zheng jiao jiao	铮铮佼佼	1
+zheng zheng jie jie	整整截截	1
+zheng zheng qi qi	正正气气	1
+zheng zheng quan quan	证证券券	1
+zheng zheng ri jin	蒸蒸日进	1
+zheng zhi ai jie xie	正直爱洁蟹	1
+zheng zhi fu xiang zhi	烝之复湘之	1
+zheng zhi hua	郑智化	1
+zheng zhi qu xian	正只曲线	1
+zheng zhong	怔忪	1
+zheng zhou ran qi	郑州燃气	1
+zheng zhou tie lu zhong xin yi yuan	郑州铁路中心医院	1
+zheng zhou xing yang	郑州荥阳	1
+zheng zhuang hao ke	郑庄好客	1
+zheng zong jiu pian zi	正宗揪片子	1

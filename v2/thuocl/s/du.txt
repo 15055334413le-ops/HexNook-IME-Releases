@@ -1,0 +1,421 @@
+du qu shu ju	读取数据	43784
+du bo	赌博	35876
+du kang	杜康	28676
+du qu wen jian	读取文件	22269
+du yi wu er	独一无二	15496
+du chang	赌场	14781
+du xin ban	镀锌板	13640
+du zi	独资	9143
+du li zi zhu	独立自主	8357
+du jia cun	度假村	8137
+du juan	杜鹃	8038
+du cha gong zuo	督查工作	7747
+du wen jian	读文件	7223
+du su	毒素	6673
+du xie wen jian	读写文件	6274
+du ma	杜马	5588
+du shu yi zhi	独树一帜	5419
+du bo zui	赌博罪	5235
+du xie fen li	读写分离	5110
+du qu pei zhi wen jian	读取配置文件	5052
+du kou	渡口	4676
+du po mian yang	杜泊绵羊	4587
+du ru shu ju	读入数据	4565
+du shan qi shen	独善其身	4353
+du xie suo	读写锁	4057
+du jiang yan shi	都江堰市	3099
+du suo	读锁	3071
+du fu	杜甫	2749
+du gun	赌棍	2701
+du mu qiao	独木桥	2585
+du qiu	赌球	2523
+du bin quan	杜宾犬	2297
+du ju jiang xin	独具匠心	2263
+du zhan ao tou	独占鳌头	2103
+du po yang	杜泊羊	1859
+du dang yi mian	独当一面	1772
+du duan zhuan xing	独断专行	1728
+du liang	度量	1709
+du zhan quan	独占权	1664
+du zhi qin quan fan zui an jian	渎职侵权犯罪案件	1598
+du pin yuan zhi wu	毒品原植物	1554
+du ru wen jian	读入文件	1513
+du yan	读研	1506
+du pi xi jing	独辟蹊径	1497
+du dao zhi chu	独到之处	1330
+du ru yi xing	读入一行	1329
+du qu tu xiang	读取图像	1328
+du pin	独品	1272
+du lu men	杜鲁门	1134
+du fang wen	读访问	1073
+du ju yi ge	独具一格	1052
+du zhi an	渎职案	1032
+du ri ru nian	度日如年	1006
+du lai du wang	独来独往	986
+du bang	杜邦	982
+du pian	肚片	944
+du zhan xu ke	独占许可	918
+du ye	毒液	876
+du bin	杜斌	866
+du jia kan	杜家坎	776
+du wei	杜威	746
+du li xue	毒理学	719
+du zi jing ying qi ye	独资经营企业	688
+du hai tao	杜海涛	616
+du li kai fa zhe	独立开发者	596
+du zhong	杜仲	593
+du she yao shang	毒蛇咬伤	579
+du wen ben	读文本	558
+du long zu	独龙族	557
+du qi feng	杜琪峰	551
+du ci yi jia	独此一家	549
+du yuan	杜远	546
+du shan zi	独山子	538
+du li	毒力	515
+du li	杜丽	513
+du jiao xi niu	独角犀牛	482
+du gang jian	杜钢建	464
+du mu	杜牧	427
+du ci	毒刺	397
+du leng ding	杜冷丁	364
+du li you xi	独立游戏	363
+du zhan shi shi xu ke	独占实施许可	357
+du chun	杜淳	345
+du ru wen ben	读入文本	345
+du li cheng xu	独立程序	328
+du shi cai hong	都市彩虹	324
+du wu si ren	睹物思人	324
+du fu jiang ge	杜甫江阁	310
+du jia dai li he tong	独家代理合同	310
+du shi hua yuan	都市花园	302
+du xing fan ying	毒性反应	296
+du hou xie	读后写	295
+du shi lu	都市路	294
+du bu tian xia	独步天下	292
+du mu nan zhi	独木难支	288
+du ju dong wu	独居动物	269
+du lei si	杜蕾斯	263
+du wen ze	杜汶泽	252
+du lan da quan	独揽大权	243
+du meng	毒獴	234
+du mai	督脉	232
+du zai yi xiang wei yi ke	独在异乡为异客	221
+du shu xing	读属性	218
+du liang kong jian	度量空间	207
+du xie ci tou	读写磁头	203
+du er zhan	毒饵站	197
+du yu ming	杜聿明	196
+du zhou fa shi	赌咒发誓	183
+du ma	赌马	174
+du shi jun ma	都市骏马	172
+du juan lu	杜鹃路	167
+du zhan shi shi quan	独占实施权	167
+du du shao mai	都督烧卖	157
+du shan yan suan cai	独山盐酸菜	154
+du ba yi fang	独霸一方	152
+du huo	独活	148
+du xiao yue dan zai mian	度小月担仔面	147
+du chu xin cai	独出心裁	145
+du xin hao	读信号	145
+du kang pai	杜康牌	141
+du cha yuan	都察院	138
+du la si	杜拉斯	137
+du mu bu cheng lin	独木不成林	137
+du li he suan gong ye qi ye	独立核算工业企业	129
+du yuan jie	督院街	129
+du jue hou huan	杜绝后患	118
+du zhong yao hua	杜仲腰花	117
+du de wei	杜德伟	108
+du jie	杜杰	99
+du zhen yu	杜震宇	98
+du ren wu	读任务	92
+du xie zhou qi	读写周期	91
+du ji	杜集	88
+du yue	杜越	87
+du zhi qin quan jian cha ke	渎职侵权检察科	85
+du duan du xing	独断独行	84
+du cun	杜村	83
+du diao han jiang xue	独钓寒江雪	75
+du gao quan	杜高犬	75
+du shu po wan juan	读书破万卷	74
+du shu	独树	73
+du xin	杜欣	72
+du xue zheng	毒血症	71
+du wu xue	毒物学	70
+du shi ming yuan	都市名园	69
+du shi niang	杜十娘	68
+du bo wen quan	杜伯文犬	66
+du shi shui xiang	都市水乡	64
+du jia zhuang	杜家庄	63
+du tou cun	渡头村	63
+du yi wei	独一味	55
+du shan cun	独山村	54
+du jia cun	杜家村	51
+du cheng cun	杜城村	50
+du xiu feng	独秀峰	50
+du ke da xue fa xue yuan	杜克大学法学院	46
+du xian	毒腺	46
+du qiong	杜琼	45
+du xue er wu you	独学而无友	45
+du zhan xu ke zheng	独占许可证	45
+du wu jian ding	毒物鉴定	43
+du wang du lai	独往独来	42
+du juan ti xue	杜鹃啼血	41
+du zi duan	读字段	41
+du pai zhong yi	独排众议	40
+du jia ping xiang	杜家坪乡	38
+du meng	杜猛	38
+du shi jia yuan	都市家园	38
+du li xing shi min shi quan li	独立行使民事权利	37
+du bian qian	渡边谦	36
+du peng cheng	杜鹏程	36
+du juan hua ye	杜鹃花叶	35
+du zhuo wu xiang qin	独酌无相亲	34
+du shen yan	杜审言	32
+du chuan jie	渡船街	31
+du jia gou mai xie yi	独家购买协议	31
+du shan hu	独山湖	31
+du shi tao yuan	都市桃源	31
+du chu shi jian	读出时间	30
+du jiang lu	渡江路	30
+du shi chun tian	都市春天	30
+du shi hua ting	都市华庭	30
+du chuang ran er ti xia	独怆然而涕下	28
+du rui	杜锐	27
+du zhong yuan	杜重远	27
+du er ping jie dao	杜儿坪街道	26
+du bu zan si ji	杜布赞斯基	25
+du cheng qi huo shao	杜称奇火烧	25
+du yu	杜预	25
+du pin fan zui yan jiu	毒品犯罪研究	22
+du yun jiang xin	独运匠心	22
+du zhuang	杜庄	22
+du ben	杜本	19
+du cai	赌彩	19
+du ru hui	杜如晦	19
+du wei	杜微	19
+du xun he	杜荀鹤	19
+du shi fang yuan	都市芳园	17
+du qing tang	笃庆堂	16
+du chuan kou	渡船口	14
+du chun sheng	杜春生	14
+du jia jie	杜家街	14
+du ke	杜科	14
+du shu cun	读书村	14
+du er ji quan	杜尔基犬	13
+du jia bao	杜家堡	13
+du ku lei	杜库雷	13
+du rui	杜睿	13
+du yun	杜芸	13
+du zhi hua	杜志华	13
+du zuo you huang li	独坐幽篁里	13
+du bin quan	度宾犬	12
+du mei su	杜梅酥	12
+du yi	杜义	12
+du ying lu	杜英路	12
+du zhong ye	杜仲叶	12
+du zi mei	杜子美	12
+du bian ma you	渡边麻友	11
+du ling dong lu	杜陵东路	11
+du wa zhen	杜瓦镇	11
+du xuan	杜宣	11
+du ya quan	杜亚泉	11
+du you ying xiong qu hu bao	独有英雄驱虎豹	11
+du yuan	杜园	11
+du zhan xu ke xie yi	独占许可协议	11
+du zhi wei	杜志伟	11
+du bie ke jie dao	杜别克街道	10
+du chu dian lu	读出电路	10
+du ji	笃姬	10
+du sheng huo xue pian	独圣活血片	10
+du shu ju xian	读数据线	10
+du xie kong zhi dian lu	读写控制电路	10
+du zhong pi	杜仲皮	10
+du lu	杜路	9
+du shi gang wan	都市港湾	9
+du du shao mai	都督烧麦	8
+du ge xiang	堵格乡	8
+du lian you cao jian bian sheng	独怜幽草涧边生	8
+du shi li jing	都市丽景	8
+du ye xi en	杜叶锡恩	8
+du zheng	毒症	8
+du ben nei	杜本内	7
+du chang he xu he	独唱何须和	7
+du jia kan nan	杜家坎南	7
+du liu qing zhong xiang huang hun	独留青冢向黄昏	7
+du sai er duo fu	杜赛尔多夫	7
+du shan lu	独山路	7
+du shu wan juan shi tong shen	读书万卷始通神	7
+du you	杜佑	7
+du zuo jing ting shan	独坐敬亭山	7
+du gong jie dao	笃工街道	6
+du ji qu ren min fa yuan	杜集区人民法院	6
+du kou shi	渡口市	6
+du lou	杜楼	6
+du shi cun	独石村	6
+du wan	杜绾	6
+du zuo chi tang ru hu ju	独坐池塘如虎踞	6
+du huo ji sheng tang	独活寄生汤	5
+du te wei	独特位	5
+du te xing	独特型	5
+du xin hui chong bing	犊新蛔虫病	5
+du xun qiu jing cheng dong qu	独寻秋景城东去	5
+du yi	独义	5
+du bai cun	独柏村	4
+du bu du lang	渡部笃郎	4
+du juan wang chun	杜鹃网蝽	4
+du li cang mang zi yong shi	独立苍茫自咏诗	4
+du men	杜门	4
+du qiao jie dao	杜桥街道	4
+du shu wan juan bu du lv	读书万卷不读律	4
+du shu xiao de po cha xiang	赌书消得泼茶香	4
+du xiao hua	杜晓华	4
+du xun jian	毒蕈碱	4
+du yin	独阴	4
+du yong cun	杜永村	4
+du yu teng	毒鱼藤	4
+du zhong chong ji	杜仲冲剂	4
+du zi mo ping lan	独自莫凭栏	4
+du bi xue	犊鼻穴	3
+du can tang	独参汤	3
+du gang	杜纲	3
+du hu cun	杜湖村	3
+du jia nian	杜家碾	3
+du jiao hei xi niu	独角黑犀牛	3
+du jing	杜敬	3
+du juan jun pei chong	杜鹃军配虫	3
+du ke ming	杜可名	3
+du lv pei xi	读律佩觽	3
+du quan	杜泉	3
+du shan zi da jiu dian	独山子大酒店	3
+du shu you wei shen wang lao	读书有味身忘老	3
+du yu yi sheng chun xiao	杜宇一声春晓	3
+du yue han	杜约翰	3
+du zhan xing xu ke he tong	独占性许可合同	3
+du ba lei zhan jin	读罢泪沾襟	2
+du bi	犊鼻	2
+du bian bo zi	渡边博子	2
+du bian mei nai	渡边美奈	2
+du cha yuan ze li	都察院则例	2
+du chang sheng	杜长生	2
+du dian jie dao	杜店街道	2
+du hao yi he yi	独好亦何益	2
+du hen wu ren zuo zheng jian	独恨无人作郑笺	2
+du jing men song bie	渡荆门送别	2
+du juan dao	杜鹃道	2
+du juan san jie ye feng	杜鹃三节叶蜂	2
+du kou tu jia zu xiang	渡口土家族乡	2
+du lai you yu	渡濑悠宇	2
+du li cheng bao he tong	独立承包合同	2
+du li er bu gai	独立而不改	2
+du li meng meng xi yu zhong	独立蒙蒙细雨中	2
+du sheng er tong	独生儿童	2
+du shi gou xiang	独石沟乡	2
+du shu lao fu jia	独树老夫家	2
+du song xiang	独松乡	2
+du tong jian wei zheng chang wan	肚痛健胃整肠丸	2
+du xie tian shang xiao tuan yue	独携天上小团月	2
+du yi wang jiang lou	独倚望江楼	2
+du yi wei ruan jiao nang	独一味软胶囊	2
+du you lan man zhe	独有懒慢者	2
+du you yu ji yu zheng jun	独有虞姬与郑君	2
+du zhen	杜臻	2
+du zi zen sheng de hei	独自怎生得黑	2
+du bi	毒笔	1
+du bu shi ming zai	独步诗名在	1
+du chang du chou hai du wo	独唱独酬还独卧	1
+du cheng yi de zhang she wei	都城已得长蛇尾	1
+du cuo cun	杜厝村	1
+du da cheng	杜大成	1
+du dao li hui yu zhi li bi	度道里会遇之礼毕	1
+du gong bu shu zhong li xi	杜工部蜀中离席	1
+du jia gang	杜家岗	1
+du jia kan she qu	杜家坎社区	1
+du jia qiao cun	渡驾桥村	1
+du ju	读鞫	1
+du juan hua li du juan ti	杜鹃花里杜鹃啼	1
+du juan mu chun zhi	杜鹃暮春至	1
+du juan sheng li xie yang mu	杜鹃声里斜阳暮	1
+du kang neng san men	杜康能散闷	1
+du lan zhuang	杜兰庄	1
+du le he	独乐河	1
+du le xiang	独乐乡	1
+du li tian di jian	独立天地间	1
+du li xiao qiao feng man xiu	独立小桥风满袖	1
+du li xue ji chu	毒理学基础	1
+du li yang xin ling	独立扬新令	1
+du ling can bing qian qi gui	独领残兵千骑归	1
+du ling xiang	杜陵乡	1
+du ling you bu yi	杜陵有布衣	1
+du qu lv yun chui	度曲绿云垂	1
+du shan yi he yi	独善亦何益	1
+du shao fu zhi ren shu zhou	杜少府之任蜀州	1
+du shi ji	杜士基	1
+du shi ya ju	都市雅居	1
+du si jing	杜思敬	1
+du su zai kong tang	独宿在空堂	1
+du suan shao xia	独蒜烧虾	1
+du suan shao xia ren	独蒜烧虾仁	1
+du wei	杜唯	1
+du wei lian jiang jun zai	独畏廉将军哉	1
+du wen lan	杜文澜	1
+du wo zhi jun zhong	度我至军中	1
+du xi	杜袭	1
+du xu	杜煦	1
+du ye san geng yue	独夜三更月	1
+du yi wei jiao nang	独一味胶囊	1
+du yi wei ju jue pian	独一味咀嚼片	1
+du yi wei ke li	独一味颗粒	1
+du yin xi	堵胤锡	1
+du you huan you ren	独有宦游人	1
+du you tian feng song duan jia	独有天风送短茄	1
+du yu lao weng bie	独与老翁别	1
+du yu xue	督俞穴	1
+du yuan cun	杜园村	1
+du yuan jing men wai	渡远荆门外	1
+du zhan fang fei dang xia jing	独占芳菲当夏景	1
+du zhe jiang wen zhou zhong ren	渡浙江问舟中人	1
+du zhe ye	渡哲也	1
+du zhong ping ya	杜仲平压	1
+du zhong zhuang gu jiao nang	杜仲壮骨胶囊	1
+du zhuang cun wei hui	杜庄村委会	1
+du zhuo ban qiao pu	独酌板桥浦	1
+du zi de dan jue	杜子得丹诀	1
+du zi xia han yan	独自下寒烟	1
+du zi yi lan gan	独自倚阑干	1
+du ban rong mao hua jin gui	独斑绒毛花金龟	0
+du bi hei ding kang ji man	杜比黑顶康吉鳗	0
+du bi ya zhang lang	杜比亚蟑螂	0
+du bian shi zhang wen bai la chong	渡边氏长吻白蜡虫	0
+du bian zhang wen bai la chong	渡边长吻白蜡虫	0
+du cai ju xie	独裁巨蝎	0
+du fei sou	杜肥螋	0
+du fu di wei xue	杜父底尾鳕	0
+du fu ni you	杜父拟鮋	0
+du fu shi gou gong	杜父石狗公	0
+du fu yu ya mu	杜父鱼亚目	0
+du gao ke	独睾科	0
+du gu ke	独孤科	0
+du han za jiao yang	杜寒杂交羊	0
+du hong shi xing piao chong	杜虹十星瓢虫	0
+du ji lei shi nian	杜基雷氏鲶	0
+du jiao gu ying	独角古蝇	0
+du ju feng	独居蜂	0
+du juan duan xian xi chong	杜鹃短腺吸虫	0
+du juan hong dai wang wen ji ma	杜鹃红带网纹蓟马	0
+du juan hua ji ying	杜鹃花棘蝇	0
+du juan hua ping du e	杜鹃花苹毒蛾	0
+du juan hua yu luo	杜鹃花芋螺	0
+du juan ji ma	杜鹃蓟马	0
+du juan liu dian shi ye man	杜鹃六点始叶螨	0
+du juan zhang bang yuan dun jie	杜鹃樟蚌圆盾蚧	0
+du ke bo shi feng tou ying wu	杜科波氏凤头鹦鹉	0
+du ke bo shi feng tou ying wu	杜柯波氏凤头鹦鹉	0
+du mu zhou ling jiao luo	独木舟菱角螺	0
+du rui er meng	杜瑞尔獴	0
+du shi lu kui li yu	杜氏颅盔丽鱼	0
+du shi shi zhi piao chong	杜氏食植瓢虫	0
+du wu xie tong zuo yong	毒物协同作用	0
+du xing fei zao yu	毒性肥皂鱼	0
+du yi zhi chong	独一指虫	0
+du you shi ji	蠹幼室迹	0

@@ -1,0 +1,155 @@
+te quan	特权	135674
+te qu	特区	91388
+te bie gui ding	特别规定	49171
+te shu zi fu	特殊字符	21712
+te bie fa	特别法	15222
+te bie shou quan	特别授权	14920
+te xu	特许	12200
+te la wei fu	特拉维夫	7915
+te zheng xiang liang	特征向量	7327
+te shu fu hao	特殊符号	6805
+te zheng ti qu	特征提取	5482
+te shu li yi ji tuan	特殊利益集团	4300
+te kun hu	特困户	3938
+te zhong she bei an quan jian cha	特种设备安全监察	3208
+te zheng dian	特征点	2983
+te ding wu	特定物	2801
+te jing zhi dui	特警支队	2737
+te zheng kong jian	特征空间	2464
+te zheng xuan ze	特征选择	2451
+te hei	特黑	2420
+te da xing shi an jian	特大刑事案件	2399
+te xu quan shi yong fei suo de	特许权使用费所得	2115
+te zheng zhi	特征值	1877
+te li	特里	1600
+te yi xing	特异性	1567
+te bie quan	特别权	1523
+te bie guan zhu	特别关注	1339
+te li ni da he duo ba ge	特立尼达和多巴哥	1239
+te shu shu ju	特殊数据	1217
+te quan ji	特权级	1194
+te xu jing ying guan li ban fa	特许经营管理办法	1023
+te jiao xue xiao	特教学校	976
+te zheng jian ce	特征检测	974
+te zheng pi pei	特征匹配	888
+te lu duo	特鲁多	848
+te zheng chou qu	特征抽取	781
+te la hua zhou	特拉华州	645
+te quan zhi ling	特权指令	627
+te ding yi wu	特定义务	591
+te zheng dian jian ce	特征点检测	561
+te zheng gong cheng	特征工程	558
+te zhong lao dong fang hu yong pin	特种劳动防护用品	516
+te bie quan li guan xi	特别权力关系	428
+te zheng fen xi	特征分析	418
+te shu suan fa	特殊算法	361
+te zheng han shu	特征函数	338
+te shu jian cha	特殊检查	329
+te zheng shi bie	特征识别	314
+te qu bao she	特区报社	294
+te zheng xiang	特征项	283
+te li du xing	特立独行	275
+te zheng fang cheng	特征方程	257
+te ji gan lan you	特级橄榄油	189
+te yi xing mian yi ying da	特异性免疫应答	173
+te bie su song shi xiao	特别诉讼时效	167
+te ding chang gui wu qi gong yue	特定常规武器公约	162
+te luo kai	特罗凯	162
+te shu biao zhi guan li tiao li	特殊标志管理条例	147
+te bie fa ting ting zhang	特别法庭庭长	134
+te bie lei fan	特别累犯	133
+te ji hu li	特级护理	128
+te li er	特里尔	115
+te bie fu jia xian	特别附加险	110
+te zheng mo xing	特征模型	108
+te se chao fan	特色炒饭	107
+te ding ji dui ben er fen	特丁基对苯二酚	104
+te zheng sheng cheng	特征生成	93
+te shu mu di xin tuo	特殊目的信托	75
+te ji ban shao ji tui bao	特级板烧鸡腿堡	70
+te zheng bian ma	特征编码	65
+te yi xing mian yi	特异性免疫	62
+te la mei er	特拉梅尔	60
+te an jian mian	特案减免	56
+te ji jin biao sheng chou	特级金标生抽	55
+te ji jin biao sheng chou wang	特级金标生抽王	55
+te ding zhi zhai	特定之债	54
+te ying xing pi yan	特应性皮炎	51
+te shu feng xian bao xian	特殊风险保险	44
+te quan ming ling	特权命令	43
+te shu biao zhi quan	特殊标志权	42
+te shu hui wen shu	特殊回文数	41
+te en quan	特恩权	39
+te bie fa ting fu ting zhang	特别法庭副庭长	38
+te lu xi lve	特鲁希略	34
+te wei	特伟	34
+te zhong yang zhi chang	特种养殖场	33
+te bu ta lin	特布他林	32
+te bie su song cheng xu	特别诉讼程序	31
+te fa xing zhen chan	特发性震颤	31
+te ding shi duan jiao yi cao zong	特定时段交易操纵	29
+te zhong jing quan	特种警犬	25
+te ji hong la jiao	特级红辣椒	24
+te ying xing	特应性	24
+te jing qiao	特警桥	22
+te bie jian cha ting fu ting zhang	特别检察厅副厅长	21
+te ding wu zhi zhai	特定物之债	21
+te fu lun quan	特弗伦犬	21
+te ke si zhen	特克斯镇	21
+te shu hui fu	特殊恢复	17
+te ding xing zheng xing wei	特定行政行为	16
+te lu wa tiao yue	特鲁瓦条约	16
+te yi xing kang yuan	特异性抗原	14
+te zhong dong wu mao	特种动物毛	13
+te bie shou quan li fa	特别授权立法	12
+te ling yan yao	特灵眼药	12
+te bian dian gong	特变电工	11
+te la zuo qin	特拉唑嗪	11
+te zheng jiao hu	特征交互	10
+te fei na ding	特非那定	9
+te gang she qu	特钢社区	8
+te bie liu zhi quan	特别留置权	6
+te bu luo xiang	特布洛乡	5
+te ding shui shou xie ding	特定税收协定	5
+te bi nai fen	特比萘芬	4
+te bo you zhu	特波疣猪	4
+te lei biao	特勒骠	4
+te li jia ya su	特利加压素	4
+te zi she fu	特子社复	4
+te bie cuo shi	特别措施	3
+te ding bao xian he tong	特定保险合同	2
+te fu dan	特伏丹	2
+te he tu xiang	特合土乡	2
+te ke si he kai ke si	特克斯和凯科斯	2
+te qu jing ji	特区经济	2
+te shu qian yi	特殊迁移	2
+te bu xiang	特补乡	1
+te di jing kuang yan	特地惊狂眼	1
+te fei na ding pian	特非那丁片	1
+te fei na ding pian	特非那定片	1
+te kou jia gu xiang	特口甲谷乡	1
+te xu quan shui	特许权税	1
+te yi yang tai yun	特异阳台云	1
+te yi zhi fan ying	特异质反应	1
+te zi xiang	特兹乡	1
+te bao long wei ding zhong	特暴龙未定种	0
+te bei lu long	特狈路龙	0
+te chang zhi zhu	特长指蛛	0
+te cheng ni mang chong	特城泥盲虫	0
+te dao gu ding	特岛骨顶	0
+te dao huan xiong	特岛浣熊	0
+te dao kuo zui weng	特岛阔嘴鹟	0
+te dao lan yao ying ge	特岛蓝腰鹦哥	0
+te dao mao nian	特岛毛鲶	0
+te dao qu weng	特岛鸲鹟	0
+te dao xin tian weng	特岛信天翁	0
+te er wen xiong zhao	特尔纹胸鮡	0
+te lin jia dai la	特林加岱拉	0
+te lu ke weng	特鲁克鹟	0
+te lun te mu yu luo	特伦特姆芋螺	0
+te na zi qian bi yu	特纳兹铅笔鱼	0
+te sa nu	特萨努	0
+te yi da quan xie	特异大权蟹	0
+te yi xing ji sheng chong	特异性寄生虫	0
+te zhi fang zhang bi xie	特指仿长臂蟹	0
+te zhong jing ji kun chong	特种经济昆虫	0

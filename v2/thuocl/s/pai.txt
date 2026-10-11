@@ -1,0 +1,116 @@
+pai chu suo	派出所	226373
+pai fang biao zhun	排放标准	65601
+pai sheng lei	派生类	19648
+pai xu suan fa	排序算法	12736
+pai you jie nan	排忧解难	11980
+pai xu fang fa	排序方法	6886
+pai fang	牌坊	6360
+pai xi	派喜	4914
+pai lie zu he	排列组合	4712
+pai cuo	排错	4143
+pai xie	排泄	3630
+pai xie wu	排泄物	3481
+pai xu gui ze	排序规则	3465
+pai shou cheng kuai	拍手称快	3098
+pai dang gan	排挡杆	3044
+pai bian	排便	2930
+pai chu fang ai	排除妨碍	2406
+pai lou	牌楼	2354
+pai jia	牌价	2244
+pai niao	排尿	2104
+pai an jiao jue	拍案叫绝	1646
+pai luan	排卵	1500
+pai ta suo	排它锁	1418
+pai shan dao hai	排山倒海	1317
+pai huang gua	拍黄瓜	1295
+pai zhao ban	牌照板	947
+pai zhao kuang	牌照框	918
+pai fang liang	排放量	841
+pai xu er cha shu	排序二叉树	781
+pai huai bu qian	徘徊不前	668
+pai an er qi	拍案而起	661
+pai chu wei hai	排除危害	638
+pai gu nian gao	排骨年糕	609
+pai wu shou fei zhi du	排污收费制度	530
+pai niao kun nan	排尿困难	525
+pai xu ce lve	排序策略	501
+pai qian	牌前	441
+pai an jing qi	拍案惊奇	407
+pai li ao zhou mo feng	派力奥周末风	387
+pai ban ding an	拍板定案	368
+pai an shuo fa	拍案说法	363
+pai gu su	排骨酥	330
+pai ming suan fa	排名算法	303
+pai chu yi ji	排除异己	244
+pai chi yi ji	排斥异己	193
+pai sha	排沙	187
+pai qi zhi dong	排气制动	155
+pai dui gui ze	排队规则	143
+pai chu wan nan	排除万难	132
+pai xia	排下	122
+pai wei	排尾	116
+pai xu wang luo	排序网络	108
+pai chu fang hai qing qiu quan	排除妨害请求权	90
+pai li	排里	87
+pai ya	排牙	78
+pai lou	排楼	72
+pai dong cai	排冬菜	70
+pai xu jian suo	排序检索	70
+pai huai guan wang	徘徊观望	69
+pai shan	排山	69
+pai du yang yan jiao nang	排毒养颜胶囊	62
+pai feng	排蜂	57
+pai lou lu	牌楼路	52
+pai nan jie fen	排难解纷	52
+pai gu dun ou	排骨炖藕	51
+pai dui mo xing	排队模型	48
+pai men	排门	30
+pai fang mian	牌坊面	29
+pai gu xia	排骨虾	19
+pai you cha	排油茶	18
+pai qin	哌嗪	17
+pai la xi lin	哌拉西林	16
+pai qi zhi dong fa	排气制动阀	16
+pai luan qi chu xie	排卵期出血	15
+pai kou	牌口	14
+pai zhou wan zhen	簰洲湾镇	14
+pai kui	哌喹	12
+pai niao fan she	排尿反射	12
+pai ling	排岭	11
+pai zuo qin	哌唑嗪	11
+pai shi ke li	排石颗粒	10
+pai fang wan	牌坊湾	9
+pai xi	蒎烯	7
+pai zi hu tong	排子胡同	7
+pai fang hui zu man zu xiang	牌坊回族满族乡	6
+pai ke qi xiang	拍克其乡	6
+pai keng	排坑	6
+pai la xi lin shu ba tan	哌拉西林舒巴坦	5
+pai qi men da	排气门大	5
+pai ta	派塔	5
+pai xia pu	排下铺	5
+pai bang cun	排榜村	4
+pai mai fa an li zhi nan	拍卖法案例指南	4
+pai chu ze ren tiao kuan	排除责任条款	3
+pai la xi lin na	哌拉西林钠	3
+pai qi guan ge re ban	排气管隔热板	3
+pai shou xiao sha ou	拍手笑沙鸥	3
+pai you su	排油素	3
+pai du yang yan cha	排毒养颜茶	2
+pai huai bu ren qu	徘徊不忍去	2
+pai kong yu qi ben ru dian	排空驭气奔如电	2
+pai xi ri	派息日	2
+pai zhao deng hu ban	牌照灯护板	2
+pai chu kun lun wu se liu	派出昆仑五色流	1
+pai huai yu dou niu zhi jian	徘徊于斗牛之间	1
+pai qian zhi gui yuan	派遣制柜员	1
+pai qian zhi he tong gong	派遣制合同工	1
+pai xiang	排巷	1
+pai xie xing niao lu zao ying	排泄性尿路造影	1
+pai zi ping xiang	排子坪乡	1
+pai da ge liu mao chong	派达哥六矛虫	0
+pai da ge mo xing chong	派达哥膜星虫	0
+pai dian deng e	排点灯蛾	0
+pai dian mu du e	排点木蠹蛾	0
+pai huai xiao tu xing chong	徘徊小土星虫	0
+pai shi ban chi ge dan ji tun	派氏板齿革单棘鲀	0

@@ -1,0 +1,472 @@
+cun ai tang	存爱堂	0
+cun ba	村巴	0
+cun ba	村霸	0
+cun ba	邨巴	0
+cun ba fen	村八分	0
+cun ba jie	寸八节	0
+cun bao hui	存保会	0
+cun bao ji jin	存保基金	0
+cun bao jin guan gong si	存保金管公司	0
+cun ben bo zhi	村本博之	0
+cun ben da fu	村本大辅	0
+cun ben qu xi	存本取息	0
+cun bu	寸部	0
+cun cao	寸草	0
+cun cao tai	寸草苔	0
+cun chao	村超	0
+cun che xian	存车线	0
+cun cheng	存诚	0
+cun chi	寸尺	0
+cun chu ceng ci	存储层次	0
+cun chu cheng xu	存储程序	0
+cun chu chi	存储池	0
+cun chu chuan di feng ge	存储传递风格	0
+cun chu dan yuan	存储单元	0
+cun chu guo cheng	存储过程	0
+cun chu ji qun	存储集群	0
+cun chu jie gou	存储结构	0
+cun chu ka	存储卡	0
+cun chu kong zhi dan yuan	存储控制单元	0
+cun chu kong zhi qi	存储控制器	0
+cun chu ku	存储库	0
+cun chu qi	存储器	0
+cun chu qi fen duan	存储器分段	0
+cun chu qi ji shu she bei	存储器技术设备	0
+cun chu qi qu kuai cuo wu	存储器区块错误	0
+cun chu qi shan	存储器山	0
+cun chu qi ying she shu ru shu chu	存储器映射输入输出	0
+cun chu qu yu wang luo	存储区域网络	0
+cun chu she bei	存储设备	0
+cun chu su zhu	存储宿主	0
+cun chu xi tong	存储系统	0
+cun chu xu ni hua	存储虚拟化	0
+cun chu zi yuan pan huo xi tong	存储资源盘活系统	0
+cun chuan da jie	村川大介	0
+cun chuan fei xing	村川绯杏	0
+cun chuan feng	村川丰	0
+cun chuan li	村川豊	0
+cun chuan li yi	村川梨衣	0
+cun cun zi	存存子	0
+cun dai	膥袋	0
+cun dai biao	村代表	0
+cun dang	存档	0
+cun dang wen jian	存档文件	0
+cun dang zhi bu shu ji	村党支部书记	0
+cun dao wei you	村岛未悠	0
+cun di dai	存抵贷	0
+cun duo fu cong	忖度服从	0
+cun duo hai zi	寸多海子	0
+cun fang ku	存放库	0
+cun fang nai nai jia	村方乃乃佳	0
+cun fang san yi	村方三役	0
+cun fu	村副	0
+cun gang bo ren	村冈博人	0
+cun gang fan	村冈藩	0
+cun gang hua zi	村冈花子	0
+cun gang jian zao	村冈兼造	0
+cun gang si zheng	村冈嗣政	0
+cun gang tao jia	村冈桃佳	0
+cun gang xiao	村冈効	0
+cun gang xiao	村冈效	0
+cun gao yi zhi	村高遗址	0
+cun ge xiang	村戈乡	0
+cun geng tang	存耕堂	0
+cun gu qi	寸骨七	0
+cun gu tang qin pu	存古堂琴谱	0
+cun gu ye feng kuang	村姑也疯狂	0
+cun guan chi	寸关尺	0
+cun gui min yue	村规民约	0
+cun hua	村话	0
+cun hua	存华	0
+cun hui ju shi	存晦居士	0
+cun huo	存活	0
+cun huo	存货	0
+cun huo dan wei	存货单位	0
+cun huo guan li	存货管理	0
+cun huo kong zhi	存货控制	0
+cun huo lv	存活率	0
+cun huo qi	存活期	0
+cun huo qu xian	存活曲线	0
+cun huo sheng chan	存货生产	0
+cun huo shi jian	存活时间	0
+cun huo zhe pian cha	存活者偏差	0
+cun huo zhe pian wu	存活者偏误	0
+cun huo zhou zhuan	存货周转	0
+cun ji	寸殛	0
+cun ji xing zheng qu	村级行政区	0
+cun jin	寸金	0
+cun jin	寸劲	0
+cun jin bu rang	寸金不让	0
+cun jin cao	寸金草	0
+cun jin cao cu zhuang bian zhong	寸金草粗壮变种	0
+cun jin cao jin wu mao bian xing	寸金草近无毛变型	0
+cun jin cao ju jian bian zhong	寸金草居间变种	0
+cun jin cao mei li bian zhong	寸金草美丽变种	0
+cun jin cao pi zhen ye bian zhong	寸金草披针叶变种	0
+cun jin gou xiang	存金沟乡	0
+cun jin jie dao	寸金街道	0
+cun jin qiao	寸金桥	0
+cun jin tang	寸金糖	0
+cun jin xue yuan	寸金学院	0
+cun jing cang song	村井仓松	0
+cun jing che zhan	村井车站	0
+cun jing jia hao	村井嘉浩	0
+cun jing li sha zi	村井理沙子	0
+cun jing liang da	村井良大	0
+cun jing liang tai	村井良太	0
+cun jing mei shu	村井美树	0
+cun jing mei zao	村井每早	0
+cun jing qi tai lang	村井启太郎	0
+cun jing shen er	村井慎二	0
+cun jing tun	村井屯	0
+cun jing xiong zhi	村井雄治	0
+cun jing xiu fu	村井秀夫	0
+cun jing you	村井优	0
+cun jing zhan	村井站	0
+cun jing zhang jia	村井长家	0
+cun jing zhang lai	村井长赖	0
+cun jing zhen sheng	村井贞胜	0
+cun jing zhen zhi	村井贞之	0
+cun jing zhi lian	村井之恋	0
+cun ju hou ling	存局候领	0
+cun kai tai	寸开泰	0
+cun kou	寸口	0
+cun kuan	存款	0
+cun kuan bao xian	存款保险	0
+cun kuan bao xian ji jin guan li you xian ze ren gong si	存款保险基金管理有限责任公司	0
+cun kuan bao xian zhi du	存款保险制度	0
+cun kuan bao zhang	存款保障	0
+cun kuan bu	存款簿	0
+cun kuan dan	存款单	0
+cun kuan feng xian	存款风险	0
+cun kuan ji	存款机	0
+cun kuan li xi shui	存款利息税	0
+cun kuan nian xi lv	存款年息率	0
+cun kuan ping zheng	存款凭证	0
+cun kuan xing jin rong ji gou	存款性金融机构	0
+cun kuan zhang hu	存款账户	0
+cun kuan zheng shu	存款证书	0
+cun kuan zhun bei jin	存款准备金	0
+cun kuan zhun bei jin lv	存款准备金率	0
+cun kuan zhun bei lv	存款准备率	0
+cun lai bu	村濑步	0
+cun lai bu	村瀬歩	0
+cun lai di yu	村濑迪与	0
+cun lai di yu	村瀬迪与	0
+cun lai sha xu li	村瀬沙绪里	0
+cun lai sha ying	村濑纱英	0
+cun lai xin hua	村濑心椛	0
+cun lai xing zi	村濑幸子	0
+cun lai xiu fu	村濑秀甫	0
+cun lai xiu fu	村赖秀甫	0
+cun lang zhu	村狼蛛	0
+cun li	村里	0
+cun li ji cheng zhi ji mu qun	村里集城址及墓群	0
+cun li ji mu qun	村里集墓群	0
+cun li ji zhen	村里集镇	0
+cun li lai le ge bao zou nv wai ke	村里来了个暴走女外科	0
+cun li zhang	村里长	0
+cun lin yi hui	村林一辉	0
+cun lin zhi si	寸鳞之死	0
+cun liu li dian	村琉璃殿	0
+cun lu	存禄	0
+cun luo	村落	0
+cun mao hong	寸茂鸿	0
+cun min	村民	0
+cun min	寸敏	0
+cun min wei yuan hui	村民委员会	0
+cun min xiao zu	村民小组	0
+cun min yue dui	村民乐队	0
+cun mu xing xing	村木幸星	0
+cun mu zhai zhi zhan	村木砦之战	0
+cun nei ji suan	存内计算	0
+cun nei shui ku	村内水库	0
+cun nv lin da	村女琳达	0
+cun nv xing	存女星	0
+cun pei	存霈	0
+cun qi gong zi	村崎恭子	0
+cun qi xian xiong	村崎宪雄	0
+cun qi ye che zhan	村崎野车站	0
+cun qi ye zhan	村崎野站	0
+cun qi zhen cai	村崎真彩	0
+cun qian guan	存钱罐	0
+cun qian tong	存钱筒	0
+cun qian zhen	村前镇	0
+cun qing	存庆	0
+cun qu dian ming cheng	存取点名称	0
+cun qu kong zhi	存取控制	0
+cun ren tang	存仁堂	0
+cun ru ai	存入爱	0
+cun rui zhen	存瑞镇	0
+cun sha shui mi	村纱水蜜	0
+cun shan cai xi	村山彩希	0
+cun shan che zhan	村山车站	0
+cun shan cui	村山翠	0
+cun shan deng an	村山等安	0
+cun shan di fang	村山地方	0
+cun shan fan	村山藩	0
+cun shan feng	村山峰	0
+cun shan fu shi	村山富市	0
+cun shan gai zao nei ge	村山改造内阁	0
+cun shan hao lie che	村山号列车	0
+cun shan jiang hua	村山讲话	0
+cun shan mei yu	村山美羽	0
+cun shan nei ge	村山内阁	0
+cun shan qi	村山齐	0
+cun shan qi lang	村山七郎	0
+cun shan she	村山涉	0
+cun shan she	村山渉	0
+cun shan shi	村山实	0
+cun shan shi	村山市	0
+cun shan tan hua	村山谈话	0
+cun shan you jia	村山由佳	0
+cun shan you mei	村山祐美	0
+cun shan you xiang	村山优香	0
+cun shan zao ji	村山早纪	0
+cun shan zhan	村山站	0
+cun shan zhu shui chi	村山贮水池	0
+cun shan zong he zhi ting	村山综合支厅	0
+cun shan zong he zhi ting	村山总合支厅	0
+cun shang ai	村上爱	0
+cun shang che zhan	村上车站	0
+cun shang cheng	村上城	0
+cun shang cheng yi lang	村上诚一郎	0
+cun shang chun shu	村上春树	0
+cun shang chun tai lang	村上春太郎	0
+cun shang chun ye	村上淳也	0
+cun shang fan	村上藩	0
+cun shang ge zhi	村上歌织	0
+cun shang gong xue xiao	村上公学校	0
+cun shang guo qing	村上国清	0
+cun shang guo xiao	村上国小	0
+cun shang he ji	村上和基	0
+cun shang hong	村上弘	0
+cun shang hong lang	村上虹郎	0
+cun shang hua yue	村上华岳	0
+cun shang hui	村上惠	0
+cun shang hui fu	村上辉夫	0
+cun shang ji chong	村上吉充	0
+cun shang ji xiang	村上纪香	0
+cun shang jia cai zi	村上佳菜子	0
+cun shang lai sheng	村上赖胜	0
+cun shang lan	村上蓝	0
+cun shang li nai	村上丽奈	0
+cun shang li sha	村上里沙	0
+cun shang liang zi	村上凉子	0
+cun shang lin	村上凛	0
+cun shang long	村上隆	0
+cun shang long	村上龙	0
+cun shang mao shu	村上茂树	0
+cun shang mei jin	村上美津	0
+cun shang mian	村上勉	0
+cun shang mo ai	村上茉爱	0
+cun shang mu zi	村上睦子	0
+cun shang nai jin shi	村上奈津实	0
+cun shang nai jin shi	村上奈津実	0
+cun shang qi zuo	村上启作	0
+cun shang shi	村上市	0
+cun shang shi	村上氏	0
+cun shang shui jun	村上水军	0
+cun shang song shu	村上颂树	0
+cun shang tian huang	村上天皇	0
+cun shang ting	村上町	0
+cun shang tong kang	村上通康	0
+cun shang wen xiang	村上文香	0
+cun shang wu ji	村上武吉	0
+cun shang xi ji	村上喜纪	0
+cun shang xia mei	村上夏美	0
+cun shang xin wu	村上信五	0
+cun shang xing ping	村上幸平	0
+cun shang xing shi	村上幸史	0
+cun shang ya ze	村上雅则	0
+cun shang yi guang	村上义光	0
+cun shang yi ming	村上义明	0
+cun shang yi qing	村上义清	0
+cun shang yi ri	村上义日	0
+cun shang yi xiong	村上义雄	0
+cun shang ying fu	村上英夫	0
+cun shang yuan shi	村上源氏	0
+cun shang yue ye	村上悦也	0
+cun shang yun shi keng	村上陨石坑	0
+cun shang zhan	村上站	0
+cun shang zhang yi	村上彰一	0
+cun shang zhen ji	村上真纪	0
+cun shang zhen xia	村上真夏	0
+cun shang zheng bang	村上正邦	0
+cun shang zhi ci lang	村上直次郎	0
+cun shang zhi hong	村上之宏	0
+cun shang zong long	村上宗隆	0
+cun she	村社	0
+cun she	村舍	0
+cun she hua yuan	村舍花园	0
+cun she she hui zhu yi	村社社会主义	0
+cun sheng	村声	0
+cun sheng xuan	存省轩	0
+cun sheng yang	寸升阳	0
+cun shi hong shi	村石宏实	0
+cun shi zhen	寸石镇	0
+cun shu sheng	寸树声	0
+cun shui wan	存水弯	0
+cun song da fu	村松大辅	0
+cun song dian	村松殿	0
+cun song fan	村松藩	0
+cun song kang xiong	村松康雄	0
+cun song xing dian	村松幸典	0
+cun song xiong dou	村松雄斗	0
+cun song xiu	村松修	0
+cun song you ren	村松有人	0
+cun song zhan	村松站	0
+cun song zhi zi	村松智子	0
+cun su wei ai	村苏维埃	0
+cun tan chang jiang da qiao	寸滩长江大桥	0
+cun tan jie dao	寸滩街道	0
+cun tan shui wen zhan	寸滩水文站	0
+cun tan zhan	寸滩站	0
+cun tang kou shui ku	寸塘口水库	0
+cun tian ai li xiao	村田爱里咲	0
+cun tian bu	村田步	0
+cun tian bu qiang	村田步枪	0
+cun tian cang fu	村田仓夫	0
+cun tian cang liu	村田藏六	0
+cun tian chong	村田充	0
+cun tian dan ling	邨田丹陵	0
+cun tian feng ya	村田风雅	0
+cun tian ge	存天阁	0
+cun tian he ye	村田和也	0
+cun tian huang si	村田晃嗣	0
+cun tian jiao liu dao	村田交流道	0
+cun tian jiao sheng	村田教生	0
+cun tian kuan nai	村田宽奈	0
+cun tian kuan nai	村田寛奈	0
+cun tian li	村田莉	0
+cun tian lian er	村田莲尔	0
+cun tian lian fang	村田莲舫	0
+cun tian liang tai	村田谅太	0
+cun tian ling xiang	村田绫香	0
+cun tian mei ji	村田美纪	0
+cun tian qian hong	村田千宏	0
+cun tian sha ye xiang	村田沙耶香	0
+cun tian shi bu qiang	村田式步枪	0
+cun tian tai zhi	村田太志	0
+cun tian ting	村田町	0
+cun tian tou	村田透	0
+cun tian xi tong jiao liu dao	村田系统交流道	0
+cun tian xia fan	村田夏帆	0
+cun tian xia nan zi	村田夏南子	0
+cun tian xing zi	村田幸子	0
+cun tian xiong er lang	村田雄二郎	0
+cun tian xiong jie	村田雄介	0
+cun tian xiu xiong	村田秀雄	0
+cun tian xiu yi	村田修一	0
+cun tian ya yan	村田雅彦	0
+cun tian ying xian	村田英宪	0
+cun tian you ji	村田祐基	0
+cun tian zhao zhi	村田兆治	0
+cun tian zhen	村田真	0
+cun tian zhen zai	村田真哉	0
+cun tian zhi sha	村田知沙	0
+cun tian zhi zuo suo	村田制作所	0
+cun tian zhong xi	村田忠禧	0
+cun tian zhong zhi	村田重治	0
+cun tian zhu guang	村田珠光	0
+cun tian zuo	村田琢	0
+cun ting	村亭	0
+cun tou	寸头	0
+cun tou zhen	村头镇	0
+cun tuo ping zheng	存托凭证	0
+cun wei hui	村委会	0
+cun wei san si lang	村尾三四郎	0
+cun wei yuan hui	村委员会	0
+cun wu	村屋	0
+cun xi che	村西彻	0
+cun xi tou	村西透	0
+cun xia xiao cang	村下孝藏	0
+cun xia xiao zang	村下孝蔵	0
+cun xiao	村校	0
+cun xiao ting	寸晓亭	0
+cun xin dan	寸心丹	0
+cun xin shan tang	存心善堂	0
+cun xing	存兴	0
+cun xing	寸姓	0
+cun xing jiu wei	存邢救卫	0
+cun xing qi	寸性奇	0
+cun xu qi jian	存续期间	0
+cun yan	存雁	0
+cun ye che zhan	村野车站	0
+cun ye sha ye xiang	村野沙耶香	0
+cun ye teng wu	村野藤吾	0
+cun ye zhan	村野站	0
+cun yi ren	村役人	0
+cun yi xing huo dong duan ceng	存疑性活动断层	0
+cun ying	存英	0
+cun you	存有	0
+cun you xing miu wu	存有性谬误	0
+cun yu	村语	0
+cun yu hao qu zhu jian	村雨号驱逐舰	0
+cun yu xing hu wei jian	村雨型护卫舰	0
+cun yu zhou	寸雨洲	0
+cun yuan ji sou	存圆寄叟	0
+cun yuan zai zhong	村元哉中	0
+cun yue you tai	村越优汰	0
+cun yun che zhan	村云车站	0
+cun yun zhan	村云站	0
+cun zai	存在	0
+cun zai de li liang	存在的力量	0
+cun zai dian	存在点	0
+cun zai gai kuo	存在概括	0
+cun zai guo	存在过	0
+cun zai jian dui	存在舰队	0
+cun zai ju lian	存在巨链	0
+cun zai ke xue ke neng xing de sheng wu shao nv guan cha ri ji	存在科学可能性的生物少女观察日记	0
+cun zai liang ci	存在量词	0
+cun zai liang hua	存在量化	0
+cun zai lun	存在论	0
+cun zai miu lun	存在谬论	0
+cun zai miu wu	存在谬误	0
+cun zai suo lian	存在锁链	0
+cun zai tu	存在图	0
+cun zai wei ji	存在危机	0
+cun zai wei yi	存在唯一	0
+cun zai xian yu ben zhi	存在先于本质	0
+cun zai xing	存在性	0
+cun zai xing ding li	存在性定理	0
+cun zai xing miu wu	存在性谬误	0
+cun zai xing yin ru wen ti	存在性引入问题	0
+cun zai xing yu she	存在性预设	0
+cun zai xing zheng ming	存在性证明	0
+cun zai yu shi jian	存在与时间	0
+cun zai yu xu wu	存在与虚无	0
+cun zai zhi lian	存在之链	0
+cun zai zhu yi	存在主义	0
+cun zhan	寸斩	0
+cun zhang	村长	0
+cun zhang cuo	村章错	0
+cun zhe	存折	0
+cun zhe	寸磔	0
+cun zhen	村镇	0
+cun zhen yin hang	村镇银行	0
+cun zheng	村正	0
+cun zheng xin han	存证信函	0
+cun zheng yao dao	村正妖刀	0
+cun zhi	寸止	0
+cun zhi jia zhi	村治佳织	0
+cun zhi shu	村支书	0
+cun zhi xie zhen ji	村之写真集	0
+cun zhi xue	村治学	0
+cun zhong shi	村中市	0
+cun zhong xing nai	村重杏奈	0
+cun zhong zhi	村中知	0
+cun zhu	存住	0
+cun zhu	存柱	0
+cun zhu la xi de	村竹拉希德	0
+cun zhu ren	村主任	0
+cun zhu zhang zhi	村主章枝	0
+cun zhuang	村庄	0
+cun zhuang shi nian	村庄十年	0
+cun zi	村子	0
+cun zi	寸子	0
+cun zi pao	寸字泡	0
+cun zi yu	寸子鱼	0
+cun zuo che zhan	寸座车站	0
+cun zuo da ye	村佐达也	0
+cun zuo zhan	寸座站	0

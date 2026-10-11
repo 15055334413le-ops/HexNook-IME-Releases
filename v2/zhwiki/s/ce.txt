@@ -1,0 +1,646 @@
+ce an qi cheng	侧鞍骑乘	0
+ce bai	侧柏	0
+ce bai lv ya	侧柏绿蚜	0
+ce bai shu	侧柏属	0
+ce bai su	侧柏素	0
+ce bai tong	侧柏酮	0
+ce bai ye	侧柏叶	0
+ce ban ai zhu	侧斑艾蛛	0
+ce ban ao bi tun	侧斑凹鼻鲀	0
+ce ban bing nian	侧斑兵鲶	0
+ce ban chi yi	侧斑赤鮨	0
+ce ban chun yu	侧斑唇鱼	0
+ce ban dan ji bi yu	侧斑单棘躄鱼	0
+ce ban dong	厕板洞	0
+ce ban gao yuan qiu	侧斑高原鳅	0
+ce ban guan zhu diao	侧斑管竺鲷	0
+ce ban hou qi hua qiu	侧斑后鳍花鳅	0
+ce ban hua jiang	侧斑花鳉	0
+ce ban kuan e tun	侧斑宽额鲀	0
+ce ban li qi yu	侧斑离鳍鱼	0
+ce ban lian qi xian	侧斑连鳍䲗	0
+ce ban liang hua jiang	侧斑亮花鳉	0
+ce ban nan qiu	侧斑南鳅	0
+ce ban ni chang	侧斑拟鲿	0
+ce ban pi du yin han yu	侧斑皮杜银汉鱼	0
+ce ban sa dan lu	侧斑撒但鲈	0
+ce ban shi zi yu	侧斑狮子鱼	0
+ce ban shu wa	侧斑树蛙	0
+ce ban xian zhu yu	侧斑纤柱鱼	0
+ce ban xiao lu	侧斑小鲈	0
+ce ban xie	侧板蟹	0
+ce ban zhu mu li yu	侧斑珠母丽鱼	0
+ce bang duo ban dun wei yu	侧棒多板盾尾鱼	0
+ce bang fen shi	侧棒粉虱	0
+ce bao mao jun ke	侧孢毛菌科	0
+ce bao mao jun shu	侧孢毛菌属	0
+ce bian di jiang	侧边底鳉	0
+ce bian gao shen liang li yu	侧扁高身亮丽鱼	0
+ce bian hei shen zhi li	侧扁黑身脂鲤	0
+ce bian huang qi	侧扁黄耆	0
+ce bian huang you yu	侧扁黄黝鱼	0
+ce bian ji hong xian	侧扁棘红䲗	0
+ce bian lan	侧边栏	0
+ce bian pan chang zao	侧扁盘肠蚤	0
+ce bian xiao huang you yu	侧扁小黄黝鱼	0
+ce bian yin hai lang	侧扁隐海螂	0
+ce bian zu bi yu	侧扁足躄鱼	0
+ce biao	侧标	0
+ce bing nian	侧兵鲶	0
+ce bo en	策伯恩	0
+ce bo si duo fu	策伯斯多夫	0
+ce bu deng zha bu	策布登扎布	0
+ce bu li ci	策布利茨	0
+ce bu zhun de a bo lian tong xue	测不准的阿波连同学	0
+ce bu zhun guan xi	测不准关系	0
+ce bu zhun yuan li	测不准原理	0
+ce chang xi ye xi chong	侧肠锡叶吸虫	0
+ce che da dang	侧车搭档	0
+ce cheng xuan	策诚轩	0
+ce chi	侧齿	0
+ce chi ruo hua jiang	侧齿若花鳉	0
+ce chou	厕筹	0
+ce chu xian	侧出藓	0
+ce chun wei shu	侧唇鳚属	0
+ce ci wei er	策茨维尔	0
+ce cun zhen	册村镇	0
+ce da ya	策大雅	0
+ce da ya xiang	策达雅乡	0
+ce dai ai bao lian yu	侧带矮宝莲鱼	0
+ce dai bao shi zhi li	侧带鲍氏脂鲤	0
+ce dai fei shu	侧带鲱属	0
+ce dai hai zhu yu	侧带海猪鱼	0
+ce dai hua yi	侧带花鮨	0
+ce dai ji tang li	侧带矶塘鳢	0
+ce dai jie yu	侧带结鱼	0
+ce dai li chi zhi li	侧带利齿脂鲤	0
+ce dai nan qiu	侧带南鳅	0
+ce dai ni hua lu	侧带拟花鲈	0
+ce dai ni hua yi	侧带拟花鮨	0
+ce dai nie zhi li	侧带啮脂鲤	0
+ce dai pu li yu	侧带朴丽鱼	0
+ce dai shuang ju yu	侧带双锯鱼	0
+ce dai tian zhu diao	侧带天竺鲷	0
+ce dai wen chun yu	侧带纹唇鱼	0
+ce dai xi zhi li	侧带溪脂鲤	0
+ce dai xiao gong yu shu	侧带小公鱼属	0
+ce dai xiao you nian	侧带小油鲶	0
+ce dai yin dai li yu	侧带隐带丽鱼	0
+ce dai ying zhu diao	侧带鹦竺鲷	0
+ce dai ying zui yu	侧带鹦嘴鱼	0
+ce dan jun ke	侧担菌科	0
+ce dan jun shu	侧担菌属	0
+ce de ba he he	策德巴赫河	0
+ce deng duo er ji	策登多尔济	0
+ce di bang shu	侧底蚌属	0
+ce di jiao	测地角	0
+ce di li ha	侧底理蛤	0
+ce di liu	测地流	0
+ce di qu lv	测地曲率	0
+ce di sui cha	测地岁差	0
+ce di xian	测地线	0
+ce di xian fang cheng	测地线方程	0
+ce di xian xiao ying	测地线效应	0
+ce di xue	测地学	0
+ce di xue bing chuan	测地学冰川	0
+ce di yuan	测地圆	0
+ce di zhen	策底镇	0
+ce dian jiang qi li yu	侧点桨鳍丽鱼	0
+ce dian li yu	侧点丽鱼	0
+ce die shi che zhan	侧叠式车站	0
+ce die shi yue tai	侧叠式月台	0
+ce ding suo zuo	测定索座	0
+ce ding ye	策丁耶	0
+ce dong la cuo	测东拉错	0
+ce dong li	策动力	0
+ce dong shang bao	拺东上堡	0
+ce dong xia bao	拺东下堡	0
+ce duo	测度	0
+ce duo kong jian	测度空间	0
+ce duo lun	测度论	0
+ce duo shi fu xian man	侧多食跗线螨	0
+ce duo shou lian	测度收敛	0
+ce e hou qi jin yan diao	侧额后鳍金眼鲷	0
+ce er	侧耳	0
+ce er	厕二	0
+ce er bei ge	策尔贝格	0
+ce er bi xi	策尔比希	0
+ce er hu	策尔湖	0
+ce er ke	侧耳科	0
+ce er ke	策尔科	0
+ce er mei luo	策尔梅洛	0
+ce er na cuo jue	策尔纳错觉	0
+ce er na yun shi keng	策尔纳陨石坑	0
+ce er nei ci	策尔内茨	0
+ce er ni ci	策尔尼茨	0
+ce er qing ting	侧耳倾听	0
+ce er shu	侧耳属	0
+ce er te wei ge	策尔特韦格	0
+ce er te wei ge ji chang	策尔特韦格机场	0
+ce er te wei ge sai dao	策尔特韦格赛道	0
+ce er zhan yi	策尔战役	0
+ce fa hui	策发会	0
+ce fan	侧翻	0
+ce fan qi	策反棋	0
+ce fang ting che	侧方停车	0
+ce fei ye he na la shi	侧妃叶赫那拉氏	0
+ce fei yi er gen jue luo shi	侧妃伊尔根觉罗氏	0
+ce feng	侧风	0
+ce feng	册封	0
+ce feng guo	册封国	0
+ce feng jiang luo	侧风降落	0
+ce feng shi	册封使	0
+ce feng ti xi	册封体系	0
+ce feng ti zhi	册封体制	0
+ce feng zhu lu	侧风著陆	0
+ce feng zhu luo	侧风著落	0
+ce feng zhuo lu	侧风着陆	0
+ce fu gou	侧副沟	0
+ce fu jin	侧福晋	0
+ce fu jin liu jia shi	侧福晋刘佳氏	0
+ce fu lie	侧副裂	0
+ce fu niu pai	侧腹牛排	0
+ce fu she re ji	测辐射热计	0
+ce fu shi zi yu	侧副狮子鱼	0
+ce fu wei	侧副鳚	0
+ce fu yuan gui	册府元龟	0
+ce gang yi chi wei	侧肛异齿鳚	0
+ce gao ji	测高计	0
+ce ge	侧格	0
+ce ge lin gen	策格林根	0
+ce gong qi	测功器	0
+ce gong yi	测功仪	0
+ce gou jian feng shu	侧沟茧蜂属	0
+ce gou pa yan qiu	侧沟爬岩鳅	0
+ce guan sui diao	侧管燧鲷	0
+ce guang biao	测光表	0
+ce guang biao zhun xing	测光标准星	0
+ce guang mo shi	测光模式	0
+ce guang xi tong	测光系统	0
+ce gui	厕鬼	0
+ce hao	侧蒿	0
+ce heng	册亨	0
+ce heng bu yi zu zi zhi xian	册亨布依族自治县	0
+ce heng qiu hai tang	册亨秋海棠	0
+ce heng xian	册亨县	0
+ce heng zhan	册亨站	0
+ce hou zhan	测候站	0
+ce hu	策湖	0
+ce hu yang zhi chang	策湖养殖场	0
+ce hua	策划	0
+ce hua bian ji	策划编辑	0
+ce hua dou bei lan	侧花兜被兰	0
+ce hua du juan	侧花杜鹃	0
+ce hua hai kui	侧花海葵	0
+ce hua jia mi	侧花荚蒾	0
+ce hua jin chang	侧滑进场	0
+ce hua li zao	侧花狸藻	0
+ce hua men	侧滑门	0
+ce hua mu lan	侧花木蓝	0
+ce hua ren	策划人	0
+ce hua sha peng	侧花沙蓬	0
+ce hua xiang cha cai	侧花香茶菜	0
+ce hua xing dong ke	策划行动课	0
+ce hua yao	策划药	0
+ce huang	测谎	0
+ce huang ji	测谎机	0
+ce huang qi	测谎器	0
+ce huang ren	测谎人	0
+ce huang shu	侧黄属	0
+ce huang yi	测谎仪	0
+ce hui	测绘	0
+ce hui chu	测绘处	0
+ce hui chu ban she	测绘出版社	0
+ce hui ke xue	测绘科学	0
+ce hui wu wei guo jia yi ji jiao shou	测绘五位国家一级教授	0
+ce hui xue	测绘学	0
+ce hui xue ke	测绘学科	0
+ce hui xue yuan	测绘学院	0
+ce hui yao gan xin xi gong cheng guo jia zhong dian shi yan shi	测绘遥感信息工程国家重点实验室	0
+ce huo gu shu	侧火菇属	0
+ce huo shan	侧火山	0
+ce ji ban ya shu	侧棘斑蚜属	0
+ce ji chi jiang	侧棘齿鳉	0
+ce jia zai	侧加载	0
+ce jia zhe	侧甲褶	0
+ce jian lou	厕简楼	0
+ce jian tou fa	侧肩投法	0
+ce jian zi	厕简子	0
+ce jiao	侧脚	0
+ce jiao yi	测角仪	0
+ce jin hui	策进会	0
+ce jin zhan hua	侧金盏花	0
+ce jing	侧镜	0
+ce jing	测井	0
+ce jing di zhi xue	测井地质学	0
+ce jing du kou zhan dou	册井渡口战斗	0
+ce jing gui shu	侧颈龟属	0
+ce jing gui ya mu	侧颈龟亚目	0
+ce jing tuo wu	侧茎橐吾	0
+ce jing xiang	册井乡	0
+ce jing ya mu	侧颈亚目	0
+ce jing zhen	册井镇	0
+ce ju li	册巨里	0
+ce ju she bei	测距设备	0
+ce ju yi	测距仪	0
+ce ju zu zhu	侧锯足蛛	0
+ce jue lin si	策觉林寺	0
+ce ke	策克	0
+ce ke kou an	策克口岸	0
+ce ke zhen	策克镇	0
+ce kong long	侧空龙	0
+ce kong long shu	侧空龙属	0
+ce kong zong mu	侧孔总目	0
+ce kou mu	侧口目	0
+ce lai er ta er	策莱尔塔尔	0
+ce le ding	策肋定	0
+ce le ding er shi	策肋定二世	0
+ce le ding ju yuan	策肋定剧院	0
+ce le ding san shi	策肋定三世	0
+ce le ding si shi	策肋定四世	0
+ce le ding wu shi	策肋定五世	0
+ce le ding yi shi	策肋定一世	0
+ce lei	策勒	0
+ce lei che zhan	策勒车站	0
+ce lei cheng bao	策勒城堡	0
+ce lei cun shi jian	策勒村事件	0
+ce lei ge	策勒格	0
+ce lei ge xian	策勒格县	0
+ce lei he	策勒河	0
+ce lei pu gong ying	策勒蒲公英	0
+ce lei ta er	策勒塔尔	0
+ce lei xian	策勒县	0
+ce lei xiang	策勒乡	0
+ce lei zhan	策勒站	0
+ce lei zhen	策勒镇	0
+ce leng	策棱	0
+ce leng	策楞	0
+ce li	册梨	0
+ce li ji	测力计	0
+ce li ke	策里克	0
+ce lian	侧链	0
+ce lian qi que diao	侧连鳍雀鲷	0
+ce liang	测量	0
+ce liang bian xiang chi du	测量变项尺度	0
+ce liang biao chi	测量标尺	0
+ce liang bu que ding du	测量不确定度	0
+ce liang ceng ci	测量层次	0
+ce liang chi du	测量尺度	0
+ce liang dan wei	测量单位	0
+ce liang de chi du	测量的尺度	0
+ce liang ji zhun	测量基准	0
+ce liang jing du	测量精度	0
+ce liang jing shen	测量井深	0
+ce liang kong zhi wang	测量控制网	0
+ce liang ping cha	测量平差	0
+ce liang shen du	测量深度	0
+ce liang shi	测量师	0
+ce liang shi zhu ce guan li ju	测量师注册管理局	0
+ce liang wu cha	测量误差	0
+ce liang xi tong fen xi	测量系统分析	0
+ce liang xue	测量学	0
+ce liang xue jia	测量学家	0
+ce liang xue xiao	测量学校	0
+ce liang yang ben	测量样本	0
+ce liang yi qi	测量仪器	0
+ce liang yuan gong shi	测量员公式	0
+ce liang yuan ji hua	测量员计划	0
+ce liang yuan shan mai	测量员山脉	0
+ce lie qian jing mai	侧裂浅静脉	0
+ce lie shen jing mai	侧裂深静脉	0
+ce lin	策林	0
+ce lin ge yun shi keng	策林格陨石坑	0
+ce lin gen cheng	策林根城	0
+ce lin gen da qiao	策林根大桥	0
+ce lin gen hao zhan lie jian	策林根号战列舰	0
+ce lin gen wang chao	策林根王朝	0
+ce lin na mu zha lei	策璘纳木札勒	0
+ce lin shi bie ke	侧鳞石鳖科	0
+ce lin shi bie shu	侧鳞石鳖属	0
+ce ling	策凌	0
+ce ling dun duo bu	策凌敦多布	0
+ce ling dun duo bu	策零敦多布	0
+ce ling e er de ni hong tai ji	策凌额尔德尼洪台吉	0
+ce ling xiang	侧岭乡	0
+ce liu	策六	0
+ce lun dao er ji	策伦道尔吉	0
+ce lun duo fu	策伦多夫	0
+ce lun ting	策伦廷	0
+ce lve	策略	0
+ce lve di tu	策略地图	0
+ce lve fa zhan wei yuan hui	策略发展委员会	0
+ce lve fan li	策略范例	0
+ce lve fang ge mo xing	策略方格模型	0
+ce lve gang gan	策略杠杆	0
+ce lve guan li	策略管理	0
+ce lve hun yin	策略婚姻	0
+ce lve ji hua	策略计划	0
+ce lve jing ji fa zhan qu	策略经济发展区	0
+ce lve jue se ban yan you xi	策略角色扮演游戏	0
+ce lve lei you xi	策略类游戏	0
+ce lve lian meng	策略联盟	0
+ce lve lu you	策略路由	0
+ce lve mao yi li lun	策略贸易理论	0
+ce lve mo shi	策略模式	0
+ce lve shao chu	策略烧除	0
+ce lve shi ye dan wei	策略事业单位	0
+ce lve shou	策略兽	0
+ce lve si wei	策略思维	0
+ce lve tou piao	策略投票	0
+ce lve xin xi xi tong	策略信息系统	0
+ce lve xing lian meng	策略性联盟	0
+ce lve xing pai wu ji hua	策略性排污计划	0
+ce lve xing tou piao	策略性投票	0
+ce lve xing tu di tou zi	策略性土地投资	0
+ce lve xing wu shui pai fang ji hua	策略性污水排放计划	0
+ce lve you xi	策略游戏	0
+ce lve zhong mo xing	策略钟模型	0
+ce lve zi xun xi tong	策略资讯系统	0
+ce ma ru shan lin	策马入山林	0
+ce ma te	策马特	0
+ce ma tian xia	策马天下	0
+ce mei luo	策梅洛	0
+ce mei luo ji he lun	策梅罗集合论	0
+ce mei luo ji he lun	策梅洛集合论	0
+ce men lin si	策门林寺	0
+ce mian	侧面	0
+ce mian ni wei	侧面逆位	0
+ce mo lin	策墨林	0
+ce mo lin huo fo	策墨林活佛	0
+ce mo lin si	策墨林寺	0
+ce mo qiu hai tang	侧膜秋海棠	0
+ce mu lin si ji	策姆林斯基	0
+ce na	策纳	0
+ce nao gou	侧脑沟	0
+ce nao shi	侧脑室	0
+ce nei gen	策内根	0
+ce pan jun shu	侧盘菌属	0
+ce pen	厕盆	0
+ce pi zhi li	侧魮脂鲤	0
+ce pian jiao	侧偏角	0
+ce ping jian luo	侧平肩螺	0
+ce ping ju	侧平举	0
+ce pu ke	策普科	0
+ce qi wei er	策齐维尔	0
+ce qin zhi li	侧琴脂鲤	0
+ce qiu jie	策秋节	0
+ce ru ti wei	侧入体位	0
+ce rui shu	侧蕊属	0
+ce sai hai niu ke	侧鳃海牛科	0
+ce sai ke	侧鳃科	0
+ce sai lei	侧鳃类	0
+ce sai mu	侧鳃目	0
+ce sai zong ke	侧鳃总科	0
+ce san	厕三	0
+ce sao sheng na	侧扫声纳	0
+ce se ban	测色板	0
+ce shan jie dao	册山街道	0
+ce shan qiong shu	侧山蛩属	0
+ce shang hong deng yu	侧上虹灯鱼	0
+ce shen	厕神	0
+ce shen chan du fu yu	侧身蟾杜父鱼	0
+ce shen di xie	侧身地蟹	0
+ce shen ping jian guang yu	侧身平肩光鱼	0
+ce shen qiu li yu	侧身球丽鱼	0
+ce shen tian zhu diao	侧身天竺鲷	0
+ce shen xue	测深学	0
+ce sheng dong wu	侧生动物	0
+ce sheng zao shu	侧生藻属	0
+ce shi	侧室	0
+ce shi	侧视	0
+ce shi	测试	0
+ce shi	策士	0
+ce shi an li	测试案例	0
+ce shi ban	测试版	0
+ce shi ban ben	测试版本	0
+ce shi chao	测试钞	0
+ce shi che zhan	侧式车站	0
+ce shi dian	测试点	0
+ce shi die shi yue tai	侧式叠式月台	0
+ce shi die shi zhan tai	侧式叠式站台	0
+ce shi ding ji yu	测试顶级域	0
+ce shi fang fa	测试方法	0
+ce shi fu gai lv	测试覆盖率	0
+ce shi gong cheng shi	测试工程师	0
+ce shi gong zuo	测试工作	0
+ce shi han shu kong jian	测试函数空间	0
+ce shi ji	测试集	0
+ce shi jiao ben	测试脚本	0
+ce shi jing	侧视镜	0
+ce shi ka	测试卡	0
+ce shi kong zhi gong ju	测试控制工具	0
+ce shi ping tai	测试平台	0
+ce shi qu dong de kai fa	测试驱动的开发	0
+ce shi qu dong kai fa	测试驱动开发	0
+ce shi se	测试色	0
+ce shi shu ju	测试数据	0
+ce shi tao jian	测试套件	0
+ce shi tu	测试图	0
+ce shi xi tong fen xi	测试系统分析	0
+ce shi xiao ying	测试效应	0
+ce shi xue	测湿学	0
+ce shi yong li	测试用例	0
+ce shi yu ren zheng yan jiu suo	测试与认证研究所	0
+ce shi yue tai	侧式月台	0
+ce shi zhan tai	侧式站台	0
+ce shi zhun ze	测试准则	0
+ce shi zi dong hua	测试自动化	0
+ce shi zi liao	测试资料	0
+ce shou fan xing dong	侧手翻行动	0
+ce shua	厕刷	0
+ce shui mu gang	侧水母纲	0
+ce shui mu mu	侧水母目	0
+ce si	厕四	0
+ce si shui mu shu	侧丝水母属	0
+ce si xi duo er fu	策斯希多尔夫	0
+ce su qi	测速器	0
+ce suan	策算	0
+ce sui feng xian hua	侧穗凤仙花	0
+ce suo	厕所	0
+ce suo beng	厕所泵	0
+ce suo bo shi	厕所博士	0
+ce suo de nv shen	厕所的女神	0
+ce suo de shen ling	厕所的神灵	0
+ce suo de shen ming	厕所的神明	0
+ce suo fan	厕所饭	0
+ce suo ge ming	厕所革命	0
+ce suo kong ju zheng	厕所恐惧症	0
+ce suo li de hua zi	厕所里的花子	0
+ce suo li de yun dong xie	厕所里的运动鞋	0
+ce suo li you lao hu	厕所里有老虎	0
+ce suo men	厕所门	0
+ce suo ming qi	厕所明器	0
+ce suo nv shen	厕所女神	0
+ce suo you mo	厕所幽默	0
+ce suo zhi shen	厕所之神	0
+ce tai ta jie jiao li fang ti	侧台塔截角立方体	0
+ce tai ta jie jiao si mian ti	侧台塔截角四面体	0
+ce tan zhu	侧坦蛛	0
+ce ti nie	策提涅	0
+ce tian	侧田	0
+ce tian bi bo	侧田比伯	0
+ce tian di yi miao yin yue hui	侧田第一秒音乐会	0
+ce tian shui ku	册田水库	0
+ce tian tian bai li	侧田添百力	0
+ce tian tu	测天图	0
+ce tiao ban fen die	侧条斑粉蝶	0
+ce tiao bin hai long	侧条滨海龙	0
+ce tiao fei shu wa	侧条费树蛙	0
+ce tiao guang chun yu	侧条光唇鱼	0
+ce tiao hou chun yu	侧条厚唇鱼	0
+ce tiao hou leng she	侧条后棱蛇	0
+ce tiao hu qi hua jiang	侧条湖栖花鳉	0
+ce tiao jiang	侧条鳉	0
+ce tiao jin xian ba	侧条金线鲃	0
+ce tiao jin xian pi	侧条金线魮	0
+ce tiao long gu gui	侧条龙骨鱥	0
+ce tiao mi jiang	侧条秘鳉	0
+ce tiao ou bai yu	侧条欧白鱼	0
+ce tiao ruo ji yu	侧条弱棘鱼	0
+ce tiao shu wa	侧条树蛙	0
+ce tiao tiao shu wa	侧条跳树蛙	0
+ce tiao wu xu pi	侧条无须魮	0
+ce tiao yuan hei li yu	侧条原黑丽鱼	0
+ce tiao zhen sha	侧条真鲨	0
+ce ting gen	策廷根	0
+ce ting qi	测听器	0
+ce tou	侧投	0
+ce tou ao bi tun	侧头凹鼻鲀	0
+ce tou bai jia yu	侧头白甲鱼	0
+ce tou chuan zhi li	侧头川脂鲤	0
+ce tou da yan zhi li	侧头大眼脂鲤	0
+ce tou dai long zhan li yu	侧头带龙占丽鱼	0
+ce tou fu hai nian	侧头俯海鲶	0
+ce tou gao yuan qiu	侧头高原鳅	0
+ce tou jin chang	侧头金鲿	0
+ce tou ni ban chi jia nian	侧头拟半齿甲鲶	0
+ce tou ni shang kou zhi li	侧头拟上口脂鲤	0
+ce tou pi	侧头魮	0
+ce tou xi bo nian	侧头锡伯鲶	0
+ce tou xiao you nian	侧头小油鲶	0
+ce tou yao nian	侧头耀鲶	0
+ce tou yi dou mao bi nian	侧头伊都毛鼻鲶	0
+ce tou zhen chun zhi li	侧头真唇脂鲤	0
+ce tu	测图	0
+ce tu shui zao shu	侧突水蚤属	0
+ce tuo bo ding	策陀博丁	0
+ce wang a la bu tan	策妄阿喇布坦	0
+ce wang a la bu tan	策妄阿拉布坦	0
+ce wang a la bu tan	策旺阿喇布坦	0
+ce wang a la bu tan	策旺阿拉布坦	0
+ce wang a na bu tan	策妄阿那布坦	0
+ce wang duo er ji na mu zha er	策妄多尔济那木扎尔	0
+ce wang duo er ji na mu zha lei	策妄多尔济那木扎勒	0
+ce wang zha bu	策妄扎布	0
+ce wang zha bu	策旺扎布	0
+ce wei ai	策维埃	0
+ce wei ji	测微计	0
+ce wei qi	测微器	0
+ce wei ru she man	侧尾蠕蛇鳗	0
+ce wei xian gang	侧尾腺纲	0
+ce wei yi	测微仪	0
+ce wen	测温	0
+ce wen ai zhi li	侧纹矮脂鲤	0
+ce wen cuo jia nian	侧吻锉甲鲶	0
+ce wen dun tang li	侧纹钝塘鳢	0
+ce wen hu lang	侧纹胡狼	0
+ce wen mao bi nian	侧纹毛鼻鲶	0
+ce wen nan ji yu	侧纹南极鱼	0
+ce wen nan ji yu shu	侧纹南极鱼属	0
+ce wen shu	测温术	0
+ce wen shu yuan	策文书院	0
+ce wen tiao qiu	侧纹条鳅	0
+ce wen xia kou nian	侧吻下口鲶	0
+ce wen xue	测温学	0
+ce wen yan song shu	侧纹岩松鼠	0
+ce wen yun nan qiu	侧纹云南鳅	0
+ce wo de luo nv	侧卧的裸女	0
+ce wo ti wei	侧卧体位	0
+ce wu xiang	策武乡	0
+ce wu zhen	策武镇	0
+ce xi qun	侧系群	0
+ce xia fu hu feng shu	侧狭腹胡蜂属	0
+ce xian	侧线	0
+ce xian qi guan	侧线器官	0
+ce xian qi she	侧舷齐射	0
+ce xiang lian xu lv	侧向连续律	0
+ce xin dao gong ji	侧信道攻击	0
+ce xin gen	策欣根	0
+ce xing gen	策兴根	0
+ce xing ji ying shu	侧行寄蝇属	0
+ce xiong ji diao	侧胸棘鲷	0
+ce xu	测序	0
+ce xu jian mao	侧序碱茅	0
+ce xu zhang bing shan ma huang	侧序长柄山蚂蝗	0
+ce ya	侧芽	0
+ce ya lu	侧牙鲈	0
+ce ya lu shu	侧牙鲈属	0
+ce ya mao bi nian	侧牙毛鼻鲶	0
+ce ya nie yu shu	侧牙啮鱼属	0
+ce ya shi xing nian	侧牙视星鲶	0
+ce ya zi dong qian bi	侧压自动铅笔	0
+ce yan	测验	0
+ce yan li	侧眼鳢	0
+ce yan teng shu	侧眼䲢属	0
+ce ye bian bai	侧叶扁柏	0
+ce ye zhuang	册页装	0
+ce yi	厕一	0
+ce yi fu hu feng shu	侧异腹胡蜂属	0
+ce yi ji dong	侧翼机动	0
+ce yi xing dong	侧翼行动	0
+ce yi zhi qi yu	侧翼栉鳍鱼	0
+ce yin	侧音	0
+ce ying huan xiang	侧影幻像	0
+ce ying ji feng shu	厕蝇姬蜂属	0
+ce ying ke	厕蝇科	0
+ce ying shu	厕蝇属	0
+ce yong	侧泳	0
+ce yong ren	侧用人	0
+ce yu zhen	测鱼镇	0
+ce yuan	策元	0
+ce yuan chuang tou	策源创投	0
+ce yuan hai jing	测圆海镜	0
+ce yuan xiang	策源乡	0
+ce zai	侧载	0
+ce zeng liu	厕增六	0
+ce zeng qi	厕增七	0
+ce zeng si	厕增四	0
+ce zeng wu	厕增五	0
+ce zhan	策展	0
+ce zhan ren	策展人	0
+ce zhang ta jie jiao li fang ti	侧帐塔截角立方体	0
+ce zhang ta jie jiao liu bian xing xiang qian	侧帐塔截角六边形镶嵌	0
+ce zhang ta jie jiao si mian ti	侧帐塔截角四面体	0
+ce zhang tun zhi li	侧长臀脂鲤	0
+ce zhang zhu wu xin cai	侧长柱无心菜	0
+ce zhao ji jia shu	侧爪脊甲属	0
+ce zhe wa shu	侧褶蛙属	0
+ce zhe xi shu	侧褶蜥属	0
+ce zhe xi ya ke	侧褶蜥亚科	0
+ce zhi	厕纸	0
+ce zhi chan xie	侧指蝉蟹	0
+ce zhi e shu	侧织蛾属	0
+ce zhi fa guang gan jun shu	侧支发光杆菌属	0
+ce zhi wen chang yu shu	侧殖文昌鱼属	0
+ce zhi xun huan	侧支循环	0
+ce zhi zao shu	侧枝藻属	0
+ce zhi zou deng xian	侧枝走灯藓	0
+ce zhong	箣柊	0
+ce zhong shu	箣柊属	0
+ce zhu hui die shu	侧珠灰蝶属	0
+ce zhu shu	箣竹属	0
+ce zhui li fang ti	侧锥立方体	0
+ce zhui liu jiao zhu	侧锥六角柱	0
+ce zhui qi jiao zhu	侧锥七角柱	0
+ce zhui qiu xing wu gen	侧锥球形屋根	0
+ce zhui qiu zhuang wu ding	侧锥球状屋顶	0
+ce zhui san jiao zhu	侧锥三角柱	0
+ce zhui si jiao zhu	侧锥四角柱	0
+ce zhui wu jiao zhu	侧锥五角柱	0
+ce zhui zheng si mian ti	侧锥正四面体	0
+ce zi	测字	0
+ce zi ben	册子本	0
+ce zi dao	册子岛	0
+ce zi shan	册子山	0
+ce zi xiang	册子乡	0
+ce zu hou xie	侧足厚蟹	0

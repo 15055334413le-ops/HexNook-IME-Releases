@@ -1,0 +1,160 @@
+zu lin	租赁	80068
+zu he	组合	78688
+zu jin	租金	52160
+zu bu chu hu	足不出户	11172
+zu se zhuang tai	阻塞状态	7629
+zu jie	租借	7143
+zu zhi jie gou	组织结构	5128
+zu he mo shi	组合模式	4256
+zu he shu	组合数	4008
+zu se dui lie	阻塞队列	3693
+zu bo	组播	3662
+zu he biao	组合表	2908
+zu he shu xue	组合数学	2346
+zu ti	祖逖	2277
+zu jian hua	组件化	2121
+zu wang	组网	2118
+zu miao	祖庙	2061
+zu he kuang	组合框	1723
+zu zhi jia gou	组织架构	1460
+zu he cha xun	组合查询	1324
+zu xuan	组选	1041
+zu he wen ti	组合问题	959
+zu jian kai fa	组件开发	934
+zu di zhi	组地址	892
+zu he kong jian	组合控件	752
+zu e	阻遏	729
+zu jie fa an	租借法案	664
+zu jian dui xiang mo xing	组件对象模型	635
+zu zhong	卒中	610
+zu zhi pei yang	组织培养	555
+zu zhi xi bao	组织细胞	546
+zu he luo ji	组合逻辑	514
+zu zhi xue	组织学	454
+zu cheng yuan li	组成原理	439
+zu kang pi pei	阻抗匹配	426
+zu miao lu	祖庙路	393
+zu san li	足三里	344
+zu zhi duo mou	足智多谋	343
+zu he you xi	组合游戏	326
+zu gou	租购	319
+zu an	组胺	259
+zu zhi xiu fu	组织修复	230
+zu se fei zu se	阻塞非阻塞	222
+zu che ding	阻车钉	220
+zu he ji shu	组合计数	200
+zu zhi guo cheng	组织过程	198
+zu he shu qu mo	组合数取模	194
+zu xuan	足癣	176
+zu chong zhi	祖冲之	171
+zu tai ruan jian	组态软件	159
+zu he bo yi	组合博弈	150
+zu zhi yi zhi	组织移植	146
+zu zhi ji gou dai ma zheng	组织机构代码证	144
+zu se wang luo	阻塞网络	129
+zu an yu chi	组庵鱼翅	127
+zu gen tong	足跟痛	124
+zu he luo ji dian lu	组合逻辑电路	117
+zu se yuan yu	阻塞原语	115
+zu zhi ye	组织液	111
+zu dui sai	组队赛	108
+zu cuo	祖厝	107
+zu zhi yue yu zui	组织越狱罪	89
+zu shen	祖神	87
+zu he xue	组合学	82
+zu shi miao	祖师庙	80
+zu zhi an	组织胺	68
+zu zhi ku	组织库	67
+zu se xing fei qi zhong	阻塞性肺气肿	66
+zu fang	租方	65
+zu he ce lve	组合策略	64
+zu zhi xing wei xue	组织行为学	62
+zu nei fan	足内翻	58
+zu tai yang pang guang jing	足太阳膀胱经	57
+zu bu chu men	足不出门	56
+zu yong xian lu	租用线路	56
+zu fu tiao kuan	祖父条款	50
+zu zhi jie mian	组织界面	48
+zu an suan	组氨酸	46
+zu shao yin shen jing	足少阴肾经	46
+zu xiang lian ying she	组相联映射	45
+zu bei dong mai	足背动脉	44
+zu he xing wei	组合行为	44
+zu zhi pei tai xue	组织胚胎学	44
+zu chong zhi lu	祖冲之路	43
+zu zhi xiang rong xing	组织相容性	43
+zu zhuang ji shu	组装技术	43
+zu yang ming wei jing	足阳明胃经	35
+zu jue yin gan jing	足厥阴肝经	34
+zu tai yin pi jing	足太阴脾经	32
+zu zhi gong cheng xue	组织工程学	31
+zu miao qi che zhan	祖庙汽车站	30
+zu ai si fa gong zheng	阻碍司法公正	29
+zu zhi zhuan hua	组织转化	29
+zu gu	足骨	28
+zu zhi tu	组织图	28
+zu zheng shu tu qi	足蒸暑土气	26
+zu shao yang dan jing	足少阳胆经	25
+zu zhi hua xue	组织化学	22
+zu jiang	祖江	21
+zu jian lan	组件栏	20
+zu jian lei ku	组件类库	18
+zu sheng ya	阻生牙	18
+zu zhi fen hua	组织分化	18
+zu ai jun shi xing dong zui	阻碍军事行动罪	16
+zu xia de tu di	足下的土地	14
+zu ta	祖塔	13
+zu jia	祖甲	12
+zu ding	祖丁	11
+zu wang	祖望	11
+zu yi	祖乙	11
+zu yi ji shi ting zhi yu	足以极视听之娱	10
+zu zhi xiang rong xing kang yuan	组织相容性抗原	10
+zu guang fen	足光粉	9
+zu lie hu	祖猎虎	9
+zu an yu chi	祖庵鱼翅	8
+zu guan jie	足关节	8
+zu qi	租契	8
+zu min xiang	足民乡	7
+zu zhi bu zhao dai suo	组织部招待所	7
+zu ka mu ke li	祖卡木颗粒	6
+zu sheng ya ba chu shu	阻生牙拔除术	6
+zu zhi xue yu pei tai xue	组织学与胚胎学	6
+zu xi bao	足细胞	5
+zu yu wan wu bing	族与万物并	5
+zu lian chang qu shi wan fu	组练长驱十万夫	4
+zu shi dian zhen	祖市殿镇	4
+zu zhou gu	足舟骨	4
+zu li	祖厉	3
+zu lin qi	足临泣	3
+zu zhi xi bao zeng duo zheng	组织细胞增多症	3
+zu da shou	祖大寿	2
+zu e dan bai	阻遏蛋白	2
+zu geng	祖庚	2
+zu ji jian yan ji shu	足迹检验技术	2
+zu mao	祖茂	2
+zu pao yue geng dao	族庖月更刀	2
+zu qiao yin	足窍阴	2
+zu qin zhe qin ye	族秦者秦也	2
+zu rong zhen	足荣镇	2
+zu shi ma pian	祖师麻片	2
+zu shi miao cun	祖师庙村	2
+zu zhi yin zi	组织因子	2
+zu ce	祖册	1
+zu guang san	足光散	1
+zu he tou zi	组合投资	1
+zu hu xiang	阻虎乡	1
+zu jun zhong	足菌肿	1
+zu li xue guan	阻力血管	1
+zu li yi zheng	足利义政	1
+zu men cun	祖门村	1
+zu mu jin nian jiu shi you liu	祖母今年九十有六	1
+zu shi ma	祖师麻	1
+zu wu li xue	足五里穴	1
+zu xia nie si lv	足下蹑丝履	1
+zu xin	祖辛	1
+zu yi bao si hai	足以保四海	1
+zu zhi jian kang bao gao fa	组织健康报告法	1
+zu fu ban long	祖父板龙	0
+zu ji yu	足棘鱼	0
+zu lu peng bei weng	祖鲁蓬背鹟	0

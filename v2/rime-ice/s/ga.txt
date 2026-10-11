@@ -1,0 +1,148 @@
+ga li	咖喱	44292
+ga ga	嘎嘎	42460
+ga na	戛纳	16610
+ga peng you	轧朋友	12500
+ga ma	伽马	10738
+ga ba er	嘎巴儿	9999
+ga chui	尬吹	9999
+ga gu	嘎咕	9999
+ga gu ga	嘎咕嘎	9999
+ga na dian ying jie	戛纳电影节	9999
+ga zhi	嘎吱	5650
+ga kong	轧空	5555
+ga kong tou	轧空头	5555
+ga la	旮旯	5445
+ga ju pai	噶举派	3775
+ga li fen	咖喱粉	3590
+ga le	尬了	3333
+ga er	噶尔	2960
+ga zi	嘎子	2745
+ga ba	嘎巴	1990
+ga li fan	咖喱饭	1515
+ga de	嘎的	1370
+ga li niu rou	咖喱牛肉	1339
+ga ma she xian	伽马射线	1210
+ga na guo ji dian ying jie	戛纳国际电影节	1180
+ga yu	嘎鱼	1180
+ga zhi wo	胳肢窝	1180
+ga zhi wo er	胳肢窝儿	1180
+ga cha	轧差	1111
+ga da	嘎哒	1111
+ga le	噶了	1111
+ga liao	尬聊	1111
+ga wu	尬舞	1111
+ga dang pai	噶当派	920
+ga beng	嘎嘣	900
+ga beng cui	嘎嘣脆	900
+ga lun	噶伦	890
+ga er xian	噶尔县	560
+ga cha	嘎查	495
+ga ma dao	伽马刀	485
+ga si	嘎斯	350
+ga li jiao	咖喱饺	275
+ga li ji	咖喱鸡	240
+ga ga sheng	嘎嘎声	205
+ga ma jiao zheng	伽马校正	204
+ga ma gong sang	嘎玛贡桑	186
+ga la er	旮旯儿	180
+ga ma wei lai	伽马未来	178
+ga mian pian	尕面片	177
+ga le	嘎了	111
+ga bu lun	噶布伦	100
+ga da ke	噶大克	100
+ga de bu xing	尬得不行	100
+ga ga de	嘎嘎的	100
+ga ga xiang	嘎嘎响	100
+ga ga xiao jie	嘎嘎小姐	100
+ga ha wu zu	噶哈巫族	100
+ga la ga la	嘎啦嘎啦	100
+ga la ga la	嘎拉嘎拉	100
+ga la ha	嘎拉哈	100
+ga lang lang	噶啷啷	100
+ga li bang	咖喱棒	100
+ga li ga li	咖喱咖喱	100
+ga li ji rou	咖喱鸡肉	100
+ga li ji rou fan	咖喱鸡肉饭	100
+ga li jiang	咖喱酱	100
+ga li kuai	咖喱块	100
+ga li la jiao	咖喱辣椒	100
+ga li mian	咖喱面	100
+ga li niu nan	咖喱牛腩	100
+ga li niu rou fan	咖喱牛肉饭	100
+ga li tu dou	咖喱土豆	100
+ga li wei	咖喱味	100
+ga li xia	咖喱虾	100
+ga li xie	咖喱蟹	100
+ga li ye	咖喱叶	100
+ga li yu dan	咖喱鱼蛋	100
+ga li zhi	咖喱汁	100
+ga ma bao	伽马暴	100
+ga ma fu she	伽马辐射	100
+ga ma lan	噶玛兰	100
+ga ma lan zu	噶玛兰族	100
+ga ma she xian bao	伽马射线暴	100
+ga ma she xian tan ce qi	伽马射线探测器	100
+ga ma shu ju	伽马数据	100
+ga na de hong tan	戛纳的红毯	100
+ga na dian shi jie	戛纳电视节	100
+ga na dian ying	戛纳电影	100
+ga na guo ji chuang yi jie	戛纳国际创意节	100
+ga na hong tan	戛纳红毯	100
+ga na jin zong lv	戛纳金棕榈	100
+ga na ying di	戛纳影帝	100
+ga na ying hou	戛纳影后	100
+ga na ying zhan	戛纳影展	100
+ga na zou hong tan	戛纳走红毯	100
+ga pin tou	轧姘头	100
+ga qi ma ba	嘎七马八	100
+ga tou cun	轧头寸	100
+ga yao zi	噶腰子	100
+ga yuan su	钆元素	100
+ga deng	嘎噔	80
+ga li niu rou tang	咖喱牛肉汤	79
+ga da mei lin	嘎达梅林	56
+ga zhang	轧账	47
+ga li cai hua	咖喱菜花	44
+ga li ji ding	咖喱鸡丁	34
+ga li niu pai	咖喱牛排	24
+ga er dan	噶尔丹	23
+ga ga la la	旮旮旯旯	20
+ga zha er	嘎渣儿	20
+ga li you yu	咖喱鱿鱼	19
+ga ma dao zhi liao	伽马刀治疗	19
+ga li ji chi	咖喱鸡翅	12
+ga diao	嘎调	10
+ga ma xiang	嘎玛乡	9
+ga li jiao bai	咖喱茭白	8
+ga ta xiang	嘎塔乡	8
+ga cuo xiang	嘎措乡	7
+ga hei	尬黑	7
+ga yan	尬演	7
+ga zha	嘎渣	7
+ga duo xiang	尕朵乡	6
+ga hai xiang	尕海乡	6
+ga ba song duo	尕巴松多	5
+ga dong zhen	嘎东镇	5
+ga pen suan pu an	钆喷酸葡胺	5
+ga shuang an	钆双胺	5
+ga ya he	嘎呀河	4
+ga da su zhong chu chang	嘎达苏种畜场	3
+ga duo xiang	尕多乡	3
+ga li men ji	咖喱焖鸡	3
+ga ga	尜尜	2
+ga ga hu tong	嘎嘎胡同	2
+ga li li	嘎立立	2
+ga mu xiang	嘎木乡	2
+ga shi gen xiang	嘎什根乡	2
+ga xia	噶厦	2
+ga li chao ge	咖喱炒蛤	1
+ga li hui yu liu	咖喱烩鱼柳	1
+ga li ji si geng	咖喱鸡丝羹	1
+ga li ju rou xie	咖喱焗肉蟹	1
+ga li men yang nan	咖喱焖羊腩	1
+ga li xia ren fan	咖喱虾仁饭	1
+ga li ying tao	咖喱樱桃	1
+ga lun lang ren	噶伦狼人	1
+ga ma gong sang jie dao	嘎玛贡桑街道	1
+ga mei xiang	嘎美乡	1
+ga yuan	魀猿	1

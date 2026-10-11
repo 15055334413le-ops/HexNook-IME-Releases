@@ -1,0 +1,67 @@
+shai ban	筛板	0
+shai ban	晒版	0
+shai ban deng	晒版灯	0
+shai bao	筛胞	0
+shai bei tan yao zu xiang	晒北滩瑶族乡	0
+shai bu lu zhan	晒布路站	0
+shai bu zhan	晒布站	0
+shai cao	筛草	0
+shai cao wan	晒草湾	0
+shai cao wan dui tian qu	晒草湾堆填区	0
+shai cao wan you le chang	晒草湾游乐场	0
+shai chi xian shu	筛齿藓属	0
+shai deng e shu	筛灯蛾属	0
+shai er nian	筛耳鲶	0
+shai er nian shu	筛耳鲶属	0
+shai fa	筛法	0
+shai fa de ji ou xing wen ti	筛法的奇偶性问题	0
+shai fa ji ben yin li	筛法基本引理	0
+shai fei	筛鲱	0
+shai fei shu	筛鲱属	0
+shai fen	筛分	0
+shai gu	筛骨	0
+shai gu bei	筛古杯	0
+shai guan	筛管	0
+shai hei	晒黑	0
+shai hei chuang	晒黑床	0
+shai hei deng	晒黑灯	0
+shai hou jia ri	晒后假日	0
+shai hu	晒湖	0
+shai hua xie zhu	筛花蟹蛛	0
+shai jian	筛检	0
+shai jing xiang	晒经乡	0
+shai jun mu	筛菌目	0
+shai kong	筛孔	0
+shai kong wan bei jie	筛孔弯贝介	0
+shai kou jie dao	晒口街道	0
+shai kou shuang xian wei	筛口双线鳚	0
+shai kou zhan	晒口站	0
+shai li lun	筛理论	0
+shai lian zao shu	筛链藻属	0
+shai luo tuo	晒骆驼	0
+shai mai xian	晒迈县	0
+shai mi cheng yi zhi	晒米城遗址	0
+shai mian bei de hao tian qi	晒棉被的好天气	0
+shai mu	筛目	0
+shai mu bei	筛目贝	0
+shai mu bei shu	筛目贝属	0
+shai nian jun ke	筛黏菌科	0
+shai nian jun shu	筛黏菌属	0
+shai pan zao ke	筛盘藻科	0
+shai pan zao mu	筛盘藻目	0
+shai pan zao shu	筛盘藻属	0
+shai shang	晒伤	0
+shai wa	晒娃	0
+shai wang tuo yan cang	晒网沱盐仓	0
+shai xia	筛虾	0
+shai xia ke	筛虾科	0
+shai xia shu	筛虾属	0
+shai xuan jian	筛选键	0
+shai yan	晒盐	0
+shai yan ke	筛咽科	0
+shai yi tuo nai	晒衣陀乃	0
+shai zhi kong shan bei	筛栉孔扇贝	0
+shai zhuang qi xia shu	筛状奇虾属	0
+shai zi	色子	0
+shai zi	筛子	0
+shai zi ling luo yi zhi	筛子绫罗遗址	0

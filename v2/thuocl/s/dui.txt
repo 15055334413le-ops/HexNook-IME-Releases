@@ -1,0 +1,182 @@
+dui jia	对价	281461
+dui wu jian she	队伍建设	174939
+dui chong	对冲	118653
+dui zhan	堆栈	51300
+dui xiang lei xing	对象类型	18551
+dui nei cun	堆内存	17522
+dui xiang yin yong	对象引用	17439
+dui xiang chuang jian	对象创建	16331
+dui wai mao yi	对外贸易	13419
+dui xiang mo xing	对象模型	10432
+dui zheng xia yao	对症下药	9363
+dui xiang fang fa	对象方法	8789
+dui pai xu	堆排序	8733
+dui xiang ming	对象名	8216
+dui xiang shu zu	对象数组	7382
+dui xiang cun chu	对象存储	7030
+dui qu	堆区	6625
+dui xiang zhi zhen	对象指针	6361
+dui xiang chu shi hua	对象初始化	5930
+dui bu gong tang	对簿公堂	4808
+dui xiang suo	对象锁	4463
+dui xiang zhuang tai	对象状态	4399
+dui xiang xu lie hua	对象序列化	4112
+dui he zhan	堆和栈	3962
+dui chen jia mi	对称加密	3943
+dui xiang fu zhi	对象复制	3653
+dui ji ru shan	堆积如山	3450
+dui wai mao yi fa	对外贸易法	3285
+dui xiang chi	对象池	3254
+dui xiang tu	对象图	2885
+dui wai jing ji mao yi bu	对外经济贸易部	2750
+dui zheng zhi liao	对症治疗	2714
+dui xiang bi jiao	对象比较	2587
+dui kang di san ren	对抗第三人	2288
+dui bi wen jian	对比文件	1938
+dui wai jing mao da xue	对外经贸大学	1876
+dui wai you xie	对外友协	1836
+dui huan	对换	1693
+dui tou	对头	1672
+dui chen ju zhen	对称矩阵	1525
+dui xiang lian jie	对象连接	1445
+dui xiang liu	对象流	1395
+dui ying dian	对应点	1351
+dui xiang fu zhi	对象赋值	1272
+dui pai	对拍	905
+dui da ru liu	对答如流	840
+dui da	对达	822
+dui xiang pai xu	对象排序	805
+dui ou hun	对偶婚	789
+dui xiang gui dang	对象归档	763
+dui wai cheng bao gong cheng shang hui	对外承包工程商会	762
+dui xiang fu wu	对象服务	757
+dui pai	堆排	707
+dui zhao zu	对照组	664
+dui you hua	堆优化	648
+dui chen mi ma	对称密码	617
+dui lie he zhan	队列和栈	565
+dui xiang biao shi fu	对象标识符	563
+dui wai mao yi he tong	对外贸易合同	424
+dui du	对赌	412
+dui yi xian an ji fen	对乙酰氨基酚	402
+dui xiang qing qiu dai li	对象请求代理	361
+dui hua xi tong	对话系统	244
+dui xiang jian mo	对象建模	239
+dui tou	堆头	238
+dui zhuan zi	对转子	229
+dui dan wei xing hui zui	对单位行贿罪	221
+dui hu	对湖	212
+dui niu tan qin	对牛弹琴	209
+dui ou tu	对偶图	208
+dui xiang guan li qi	对象管理器	198
+dui xiang lu jing	对象路径	194
+dui zheng yong yao	对症用药	173
+dui jiu dang ge	对酒当歌	172
+dui xiang zi dian	对象字典	154
+dui qiang ji ben jia suan zhi	对羟基苯甲酸酯	144
+dui xiang shi	对象式	107
+dui tian fa shi	对天发誓	105
+dui lie biao	队列表	103
+dui lie yan jiu	队列研究	82
+dui qiang ji ben jia suan yi zhi	对羟基苯甲酸乙酯	82
+dui ying cheng san ren	对影成三人	75
+dui qi xian	对齐线	66
+dui zhu zhen	对竹镇	66
+dui chen shu	对称树	62
+dui yin zhi liao	对因治疗	58
+dui qiang ji ben jia suan jia zhi	对羟基苯甲酸甲酯	53
+dui wai kou an	对外口岸	52
+dui zhan bu ju	堆栈布局	52
+dui he fan	对合犯	43
+dui mian jie	对面街	41
+dui zheng zhi yao	对症之药	41
+dui bi min gan du	对比敏感度	39
+dui ce lun	对策论	39
+dui long de qing	堆龙德庆	37
+dui xi pan jue	对席判决	34
+dui fu qi	兑付期	29
+dui ou yuan li	对偶原理	28
+dui ping	对坪	27
+dui xiang guan li zu	对象管理组	23
+dui er lv ben	对二氯苯	21
+dui jiu yu	碓臼峪	21
+dui xiang guan li jie gou	对象管理结构	21
+dui jia zhi du	对价制度	20
+dui ou yun suan	对偶运算	20
+dui po zhen	对坡镇	20
+dui ben er fen	对苯二酚	18
+dui bi shi	对笔石	17
+dui xiang jian mo ji shu	对象建模技术	17
+dui hu lu	对湖路	16
+dui hua mo xing	对话模型	14
+dui qiang ji ben jia suan bing zhi	对羟基苯甲酸丙酯	14
+dui wai mao yi xin dai	对外贸易信贷	13
+dui bi du kuo zhan	对比度扩展	12
+dui wai mao yi guan zhi zhi du	对外贸易管制制度	10
+dui bei	堆北	9
+dui jia chi piao ren	对价持票人	9
+dui mian pu	对面铺	9
+dui qi niu lu xiang	堆齐牛录乡	9
+dui wai mao yi guo bie zheng ce	对外贸易国别政策	9
+dui men ling	对门岭	8
+dui men shan	对门山	8
+dui di san ren zhai quan	对第三人债权	7
+dui li wei kang xing zhang ai	对立违抗性障碍	6
+dui chuan cha chang	对川茶场	5
+dui yi xian an ji fen di ji	对乙酰氨基酚滴剂	5
+dui yi xian an ji fen pian	对乙酰氨基酚片	5
+dui zhang dan	对账单	5
+dui zhao biao	对照表	5
+dui chi shou mu	对齿兽目	4
+dui he kou cun	对河口村	4
+dui hu jie dao	对湖街道	4
+dui na xiang	堆纳乡	4
+dui wai zi	对外资	4
+dui ci ru he bu lei chui	对此如何不泪垂	3
+dui jiu dang ge ge bu cheng	对酒当歌歌不成	3
+dui xi cun	对溪村	3
+dui yi xian an ji fen shuan	对乙酰氨基酚栓	3
+dui an ji ou dan ben	对氨基偶氮苯	2
+dui an ji shui yang suan na	对氨基水杨酸钠	2
+dui chong kuai ji fa	对冲会计法	2
+dui ci ke yi han gao lou	对此可以酣高楼	2
+dui ci yu dao dong nan qing	对此欲倒东南倾	2
+dui he gong fan	对合共犯	2
+dui jiao gou men cun	对角沟门村	2
+dui lai zhen shang chou he zhuang	堆来枕上愁何状	2
+dui mang nang xian chong shu	对盲囊线虫属	2
+dui qiang ji ben gan an suan	对羟基苯甘氨酸	2
+dui an ji ben jia suan	对氨基苯甲酸	1
+dui chuang ye yu ting xiao se	对床夜雨听萧瑟	1
+dui ci jie zhong chang	对此结中肠	1
+dui di ci bei dui you diao	对敌慈悲对友刁	1
+dui gong yin yin zui xiang xian	对公银印最相鲜	1
+dui hua ba jiu wei gan lao	对花把酒未甘老	1
+dui ji yan	堆积岩	1
+dui jiu bu neng chou	对酒不能酬	1
+dui jiu sui zuo liang yuan ge	对酒遂作梁园歌	1
+dui jiu yun shu pian	对酒云数片	1
+dui ju han qing jian qian li	对局含情见千里	1
+dui ju shi	对菊石	1
+dui jun bai yu hu	对君白玉壶	1
+dui jun xi hong zhuang	对君洗红妆	1
+dui liu hun he	对流混合	1
+dui men teng gai wa	对门藤盖瓦	1
+dui mian po	对面坡	1
+dui qi shan	对旗山	1
+dui qiang ji ben jia suan ding zhi	对羟基苯甲酸丁酯	1
+dui shu ding ji ben fen	对叔丁基苯酚	1
+dui xiao ji ben an	对硝基苯胺	1
+dui xiao xiao mu yu sa jiang tian	对潇潇暮雨洒江天	1
+dui yi xian an ji fen rong ye	对乙酰氨基酚溶液	1
+dui ying cheng san ke	对影成三客	1
+dui bi shi shu	对笔石属	0
+dui bi shi ya mu	对笔石亚目	0
+dui chen ni dan lan chong	对称拟单栏虫	0
+dui chen ni han	对称拟蚶	0
+dui chen wa fu ying	对称瓦浮萤	0
+dui ji yi wei lun chong	对棘异尾轮虫	0
+dui jia yang jia ji ju zhi	对甲氧甲基菊酯	0
+dui jiao jin biao shui zao	对角近镖水蚤	0
+dui jing ma ti xi chong	对茎马蹄吸虫	0
+dui ju xie zhu	对巨蟹蛛	0

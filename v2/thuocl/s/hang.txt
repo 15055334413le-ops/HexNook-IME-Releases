@@ -1,0 +1,131 @@
+hang ye	行业	535867
+hang qing	行情	151568
+hang kong gong si	航空公司	58993
+hang zhang	行长	32913
+hang zhou shi	杭州市	28011
+hang zhou wan	杭州湾	3223
+hang bang cai	杭帮菜	3164
+hang ye fa gui	行业法规	3103
+hang zhou cai	杭州菜	2973
+hang jian ju	行间距	2734
+hang kong hang tian da xue	航空航天大学	1976
+hang jia li shou	行家里手	1571
+hang tian cheng	航天城	1523
+hang xie yi qi	沆瀣一气	1409
+hang kong huo yun dai li	航空货运代理	1394
+hang yun gong si	航运公司	1393
+hang hua	行话	1139
+hang kong huo yun dan	航空货运单	1131
+hang zhou long jing	杭州龙井	1110
+hang kong lu	航空路	796
+hang hang chu zhuang yuan	行行出状元	775
+hang zhou lu	杭州路	579
+hang zhou shi shang cheng qu	杭州市上城区	530
+hang zhou da sha	杭州大厦	378
+hang kong bo wu guan	航空博物馆	321
+hang ye shu ju	行业数据	315
+hang ban chao shou	航班超售	276
+hang tian qiao	航天桥	274
+hang ye xin xi	行业信息	266
+hang lie zhuan huan	行列转换	265
+hang ye ruan jian	行业软件	263
+hang kong an quan guan li	航空安全管理	258
+hang ye qu shi	行业趋势	228
+hang tian yi yuan	航天医院	199
+hang zhou gao ji zhong xue	杭州高级中学	184
+hang hai xue yuan	航海学院	160
+hang jian	行间	151
+hang kong huo wu yun shu he tong	航空货物运输合同	151
+hang zhou le yuan	杭州乐园	141
+hang dao chu	航道处	111
+hang zhong lu	航中路	103
+hang zhan guan	航展馆	102
+hang zhou ye sheng dong wu shi jie	杭州野生动物世界	89
+hang mu shi jie	航母世界	84
+hang zhou hua pu	杭州花圃	78
+hang zhou ci xiu	杭州刺绣	66
+hang qing fen xi	行情分析	64
+hang yun ma tou	航运码头	62
+hang kong da jiu dian	航空大酒店	61
+hang zhou jie bai	杭州解百	59
+hang yang	杭氧	58
+hang tian zhang feng	航天长峰	49
+hang min	航民	47
+hang zhou tao ci pin shi chang	杭州陶瓷品市场	36
+hang tian qi guan	航天奇观	33
+hang zhou qi che cheng	杭州汽车城	33
+hang tian qiao xi	航天桥西	27
+hang san xian	杭三鲜	25
+hang tian qiao nan	航天桥南	25
+hang zhou tao hua shui mu	杭州桃花水母	25
+hang ban cha xun jie kou	航班查询接口	23
+hang bo	杭玻	23
+hang bei lu	航北路	17
+hang hua xin cun	航华新村	17
+hang tian heng xing	航天恒星	17
+hang tian nan lu	航天南路	17
+hang zhou lao ya bao	杭州老鸭煲	17
+hang zhou lu jie dao	杭州路街道	17
+hang biao lu	航标路	16
+hang yi xian	航意险	16
+hang gang sheng huo qu	杭钢生活区	15
+hang hua er cun	航华二村	15
+hang dong lu	航东路	14
+hang nan lu	航南路	14
+hang shi jun	杭世骏	13
+hang tian dong lu	航天东路	12
+hang tian xi lu	航天西路	12
+hang hua yi cun	航华一村	11
+hang da lu kou	杭大路口	10
+hang tian qiao dong	航天桥东	9
+hang tian xin li xue	航天心理学	9
+hang tian zhong lu	航天中路	8
+hang dao zhi ren fu shou	行道之人弗受	6
+hang tian qiao bei	航天桥北	6
+hang biao lu kou	航标路口	5
+hang kong guan li gong yue	航空管理公约	5
+hang kong hei ming dan	航空黑名单	5
+hang kong hu tong	航空胡同	5
+hang tian bu yi yuan	航天部医院	5
+hang zhang qiao	杭长桥	5
+hang zhou dao	杭州道	5
+hang zhou shi qian tang gong zheng chu	杭州市钱塘公证处	5
+hang hua si cun	航华四村	4
+hang hai dao	航海道	3
+hang qi lun	杭汽轮	3
+hang shi liu lian su	杭式榴莲酥	3
+hang tian cheng bei zhan	航天城北站	3
+hang tian dao	航天道	3
+hang tian ke ji	航天科技	3
+hang yang she qu	杭氧社区	3
+hang zhou ding yue zhou	杭州定越州	3
+hang zhou lv yuan	杭州绿园	3
+hang fu lu kou	杭富路口	2
+hang gai ban shi chu	杭盖办事处	2
+hang shan	珩山	2
+hang ye biao zhun	行业标准	2
+hang zhang qiao nan lu	杭长桥南路	2
+hang zhou wan gong yu	杭州湾公寓	2
+hang zhou wan wei hai dong ce di	杭州湾围海东侧堤	2
+hang zhou wan wei ken hai di	杭州湾围垦海堤	2
+hang zhou wan xi ce di	杭州湾西侧堤	2
+hang bian cun	杭边村	1
+hang cai yuan she qu	航材院社区	1
+hang da xin cun	杭大新村	1
+hang hai ri cheng biao	航海日程表	1
+hang kan she qu	航勘社区	1
+hang keng cun	杭坑村	1
+hang kong bing	航空病	1
+hang kong lv ke quan yi bao hu	航空旅客权益保护	1
+hang kong lv you cheng	航空旅游城	1
+hang sha zhen	夯沙镇	1
+hang tian cheng nan zhan	航天城南站	1
+hang tian ji dian	航天机电	1
+hang tian xi lu bei kou	航天西路北口	1
+hang xing dao	航星道	1
+hang zhou di fang xiao chi	杭州地方小吃	1
+hang zhou dian hua chang	杭州电化厂	1
+hang zhou lv dou gao	杭州绿豆糕	1
+hang lie jiao xiong xiao ye jia	行列角胸肖叶甲	0
+hang zhou shuang gao chong	杭州双睾虫	0
+hang zhou xiao ge mu shi	杭州肖个木虱	0

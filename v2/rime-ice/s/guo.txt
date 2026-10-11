@@ -1,0 +1,5041 @@
+guo jia	国家	502901
+guo ji	国际	501471
+guo nei	国内	501215
+guo cheng zhong	过程中	501121
+guo cheng	过程	501018
+guo qu	过去	500769
+guo wu yuan	国务院	500637
+guo wai	国外	500482
+guo de	过的	500374
+guo lai	过来	500362
+guo nei wai	国内外	500303
+guo le	过了	500288
+guo jia an quan	国家安全	418214
+guo chan	国产	383390
+guo jia fa lv	国家法律	372102
+guo yu	过于	359765
+guo jia ji	国家级	352285
+guo you	国有	346585
+guo ran	果然	331980
+guo lv	过滤	306705
+guo min jing ji	国民经济	297105
+guo ji hua	国际化	290280
+guo you qi ye	国有企业	284695
+guo yu	国语	274480
+guo duo	过多	258775
+guo chan ruan jian	国产软件	250190
+guo wang	国王	236745
+guo hou	过后	235915
+guo du	过度	225030
+guo you zi chan	国有资产	223200
+guo ji shi chang	国际市场	204525
+guo fen	过分	200870
+guo jia gui ding	国家规定	196395
+guo du	过渡	194940
+guo jia biao zhun	国家标准	193725
+guo cheng zhong de	过程中的	189610
+guo min	国民	183070
+guo qu le	过去了	179905
+guo ren	国人	177675
+guo gao	过高	174850
+guo fang	国防	174395
+guo ji mao yi	国际贸易	172245
+guo min dang	国民党	166460
+guo lu	锅炉	166130
+guo da	过大	156545
+guo ke	过客	148775
+guo jia ji guan	国家机关	144070
+guo tu	国土	138075
+guo zhai	国债	134095
+guo min	过敏	117655
+guo shi	果实	116775
+guo qing	国庆	116425
+guo cuo	过错	115850
+guo you gu	国有股	115613
+guo qing	国情	114985
+guo nei shi chang	国内市场	113290
+guo ji biao zhun	国际标准	110945
+guo tu zi yuan bu	国土资源部	110010
+guo ji shang	国际上	109610
+guo tu zi yuan	国土资源	107565
+guo jia zhu xi	国家主席	103505
+guo qi	过期	101455
+guo jia gong wu yuan	国家公务员	99772
+guo lv qi	过滤器	98390
+guo mei	国美	95545
+guo de	过得	95225
+guo jia fa gai wei	国家发改委	95150
+guo duo de	过多的	94605
+guo yao zhun zi	国药准字	94345
+guo nian	过年	94215
+guo zi wei	国资委	93515
+guo jia zhong dian	国家重点	91760
+guo ji	国籍	91530
+guo hu	过户	91270
+guo jia shui wu zong ju	国家税务总局	90220
+guo wai ruan jian	国外软件	89240
+guo ji ji piao	国际机票	89035
+guo liang	过量	88050
+guo sheng	过剩	87975
+guo jia li yi	国家利益	87925
+guo guan	过关	87610
+guo zhe	过着	87190
+guo shui	国税	85535
+guo zhi	果汁	85270
+guo nei qi ye	国内企业	83985
+guo duan	果断	83515
+guo jia dui	国家队	80840
+guo jia fa zhan	国家发展	78545
+guo shi	过失	78105
+guo hou	果后	76813
+guo wang	过往	75150
+guo jing	郭靖	73015
+guo ji he zuo	国际合作	70300
+guo du	国度	70070
+guo ku	国库	69135
+guo re	过热	68380
+guo chang	过长	67655
+guo shu	果树	67150
+guo jia tong ji ju	国家统计局	66575
+guo hui	国会	65865
+guo kuai	过快	65335
+guo ying	过硬	65180
+guo jia zong jiao	国家宗教	63325
+guo shi	过时	61745
+guo biao	国标	61510
+guo di	过低	61490
+guo ji jing ji	国际经济	61310
+guo ji jing zheng li	国际竞争力	61285
+guo hua	国画	60430
+guo jia gong shang	国家工商	59935
+guo mao	国贸	59755
+guo jia gu li	国家鼓励	59540
+guo ji xing	国际性	59350
+guo you tu di shi yong quan	国有土地使用权	59190
+guo ji zu zhi	国际组织	58995
+guo ji guo nei	国际国内	57795
+guo ji yu ming	国际域名	56395
+guo ji pin pai	国际品牌	56105
+guo nei sheng chan zong zhi	国内生产总值	56030
+guo yuan	果园	55460
+guo zao	过早	53590
+guo pin	果品	53425
+guo ran shi	果然是	53390
+guo jia zhi jian zong ju	国家质检总局	52505
+guo ying	国营	52120
+guo ren	过人	51115
+guo shang	过上	50580
+guo ji lv xing she	国际旅行社	50415
+guo ji shang wu	国际商务	48795
+guo bie	国别	47330
+guo tu zi yuan ju	国土资源局	47290
+guo xue	国学	47160
+guo ji zhi ming	国际知名	47065
+guo ji jiao liu	国际交流	46785
+guo jia jing ji	国家经济	45875
+guo ji she hui	国际社会	45660
+guo zhen	果真	45630
+guo shu	果蔬	45275
+guo jie	过节	45225
+guo zhong	过重	44805
+guo wu yuan ban gong ting	国务院办公厅	44160
+guo tou	过头	43505
+guo ji mi lan	国际米兰	42775
+guo yin	过瘾	42185
+guo jia zheng ce	国家政策	41125
+guo jia zheng quan	国家政权	40965
+guo men	国门	40950
+guo sheng ri	过生日	40555
+guo you tu di	国有土地	40540
+guo wu yuan fa zhan yan jiu zhong xin	国务院发展研究中心	40533
+guo ma	过吗	40300
+guo zi	果子	40250
+guo ji ji chang	国际机场	40201
+guo rou	果肉	40084
+guo ri zi	过日子	40035
+guo li	锅里	39795
+guo wu yuan pi zhun	国务院批准	39440
+guo lai le	过来了	39185
+guo jia yi ji	国家一级	38940
+guo jia cai zheng	国家财政	38610
+guo jia gong zuo ren yuan	国家工作人员	38580
+guo jia ji wei	国家计委	38575
+guo bao	国宝	38525
+guo jing	过境	38340
+guo nei zhi ming	国内知名	38085
+guo dong	果冻	37820
+guo wu yuan zong li	国务院总理	36960
+guo lv	国旅	36615
+guo ye	过夜	36590
+guo ji fa	国际法	36490
+guo nei zui da	国内最大	36470
+guo nei	锅内	36410
+guo du dao	过渡到	35920
+guo wu yuan ling	国务院令	35610
+guo ban	国办	35330
+guo ji jin rong	国际金融	35330
+guo zhong	锅中	35095
+guo jia ji guan gong zuo ren yuan	国家机关工作人员	34970
+guo jia fa lv fa gui	国家法律法规	34440
+guo chan hua	国产化	34280
+guo li	国力	34080
+guo you chan quan	国有产权	33730
+guo ji jing zheng	国际竞争	33290
+guo jia zi ran ke xue ji jin	国家自然科学基金	33240
+guo jia chan ye zheng ce	国家产业政策	33223
+guo ji guan xi	国际关系	33215
+guo you zi ben	国有资本	33100
+guo jia kai fa yin hang	国家开发银行	32983
+guo ban	过半	32940
+guo jing jing	郭晶晶	32920
+guo qing jie	国庆节	32790
+guo jia si fa kao shi	国家司法考试	32735
+guo nei lv you	国内旅游	32560
+guo you jing ji	国有经济	32540
+guo you qi ye gai ge	国有企业改革	32460
+guo jia tong yi	国家统一	32410
+guo jia zhuan li	国家专利	32400
+guo tai	国泰	32225
+guo xiao	过小	32130
+guo du de	过度的	31750
+guo ji guan li	国际惯例	31410
+guo fang bu	国防部	31185
+guo zi	国资	31170
+guo shui fa	国税发	31075
+guo jia sen lin gong yuan	国家森林公园	30855
+guo ji da sha	国际大厦	30610
+guo jia jiao yu bu	国家教育部	30530
+guo ji lv you	国际旅游	30360
+guo de gang	郭德纲	30340
+guo du qi	过渡期	29965
+guo wen	过问	29710
+guo ji tian	过几天	29590
+guo you shang ye yin hang	国有商业银行	29165
+guo hao	过好	29135
+guo jia xing zheng ji guan	国家行政机关	29030
+guo jia ke xue	国家科学	28695
+guo jia lin ye ju	国家林业局	28500
+guo ge	国歌	28255
+guo min xing	过敏性	28235
+guo ji xian jin shui ping	国际先进水平	28075
+guo mo ruo	郭沫若	27995
+guo jia ti yu zong ju	国家体育总局	27960
+guo jia jing mao wei	国家经贸委	27745
+guo he	过河	27730
+guo wu yuan fu zong li	国务院副总理	26820
+guo ji zhan lan	国际展览	26645
+guo ji tiao yue	国际条约	26335
+guo zhong	国中	26295
+guo ji huan jing	国际环境	26230
+guo fang jiao yu	国防教育	26190
+guo ji you jia	国际油价	26065
+guo du	国都	25750
+guo fang ke ji	国防科技	25660
+guo wu wei yuan	国务委员	25600
+guo jia jiao wei	国家教委	25250
+guo min jiao yu	国民教育	25175
+guo gong	国共	25145
+guo ji zhan lan zhong xin	国际展览中心	25075
+guo mei dian qi	国美电器	24905
+guo wai qi ye	国外企业	24745
+guo bu qu	过不去	24615
+guo shi	国事	24450
+guo dao	过道	24335
+guo jiao	果胶	24303
+guo chan shou ji	国产手机	24250
+guo lu	过路	24200
+guo ji zhu ming	国际著名	24170
+guo cheng kong zhi	过程控制	24120
+guo min fan ying	过敏反应	23960
+guo ji jiu dian	国际酒店	23950
+guo min zheng fu	国民政府	23860
+guo ji zheng zhi	国际政治	23715
+guo ji jian	国际间	23690
+guo ji she	国际社	23630
+guo you zi chan guan li	国有资产管理	23585
+guo jia gu	国家股	23469
+guo ji shou zhi	国际收支	23350
+guo zai	过载	23325
+guo huo	国货	23315
+guo jia zhu xue dai kuan	国家助学贷款	23260
+guo jun	国君	23250
+guo ji ren zheng	国际认证	23150
+guo ji yi liu	国际一流	23095
+guo nei wai shi chang	国内外市场	22900
+guo min sheng chan zong zhi	国民生产总值	22860
+guo bu liao	过不了	22640
+guo pi	果皮	22640
+guo fang bu zhang	国防部长	22525
+guo you yin hang	国有银行	22475
+guo jia suo you	国家所有	22400
+guo chan pin pai	国产品牌	22245
+guo qi gai ge	国企改革	22185
+guo jia bao hu	国家保护	21915
+guo ji ao wei hui	国际奥委会	21810
+guo jia zhong dian shi yan shi	国家重点实验室	21800
+guo shi	过世	21790
+guo an	国安	21740
+guo jing	国境	21665
+guo jia zhi shi chan quan ju	国家知识产权局	21620
+guo ji huo yun	国际货运	21520
+guo jia ling dao ren	国家领导人	21505
+guo jun	国军	21210
+guo jia er ji	国家二级	21205
+guo jie	国界	21010
+guo jia quan li	国家权力	20965
+guo nei guo ji	国内国际	20955
+guo ji gong yue	国际公约	20910
+guo zhe	裹着	20875
+guo tai jun an	国泰君安	20855
+guo you gu jian chi	国有股减持	20787
+guo tu ju	国土局	20745
+guo da	国大	20725
+guo fu cheng	郭富城	20685
+guo ji da jiu dian	国际大酒店	20615
+guo shi	国是	20575
+guo jia wai hui guan li ju	国家外汇管理局	20495
+guo ji tou zi	国际投资	20455
+guo fang jian she	国防建设	20295
+guo ji zai xian	国际在线	20135
+guo nong	果农	20115
+guo guang	国光	20060
+guo jia ju	国家局	19975
+guo dong	过冬	19970
+guo ma lu	过马路	19690
+guo wu yuan fa zhi ban	国务院法制办	19369
+guo ling	果岭	19340
+guo qiao	过桥	19320
+guo nei zhu ming	国内著名	19295
+guo di	锅底	19220
+guo jia ji zhong dian	国家级重点	19210
+guo ji	过激	19200
+guo wan	过完	19115
+guo jia dian wang gong si	国家电网公司	19085
+guo min shou ru	国民收入	19065
+guo ji qi ye	国际企业	19050
+guo hui	国徽	18995
+guo jia ban quan ju	国家版权局	18940
+guo wu yuan fa bu	国务院发布	18925
+guo ji xing shi	国际形势	18905
+guo nei tong yi	国内统一	18845
+guo shao	过少	18780
+guo cong	过从	18715
+guo cai	果菜	18635
+guo ji zi ben	国际资本	18595
+guo you du zi gong si	国有独资公司	18570
+guo ban shu	过半数	18190
+guo hu shou xu	过户手续	18075
+guo jia dui	国家对	18060
+guo yao	国药	18020
+guo min jing ji fa zhan	国民经济发展	17950
+guo ying qi ye	国营企业	17895
+guo nei sheng chan	国内生产	17835
+guo you zi chan liu shi	国有资产流失	17745
+guo ji zhu ce	国际注册	17660
+guo ji min sheng	国计民生	17455
+guo wai shi chang	国外市场	17405
+guo ji mao yi you xian gong si	国际贸易有限公司	17305
+guo shui han	国税函	17155
+guo cui	国粹	17110
+guo xin zheng quan	国信证券	17100
+guo ba	过吧	17050
+guo you du zi	国有独资	17050
+guo cuo ze ren	过错责任	16890
+guo wu yuan xin wen ban gong shi	国务院新闻办公室	16755
+guo ji bo lan	国际博览	16545
+guo jia zhu quan	国家主权	16220
+guo xin	国信	16195
+guo chan she bei	国产设备	16165
+guo gan	果敢	16110
+guo wai mei ti	国外媒体	16060
+guo ji zu lian	国际足联	16000
+guo ye	果业	15985
+guo ao	国奥	15850
+guo zhao	过招	15625
+guo jia di li	国家地理	15575
+guo nei qi che	国内汽车	15545
+guo zhi yin liao	果汁饮料	15530
+guo wai pin pai	国外品牌	15400
+guo suan	果酸	15355
+guo nei chan ye	国内产业	15295
+guo wu yuan ban gong ting zhuan fa	国务院办公厅转发	15260
+guo jiu	过久	15010
+guo wan	过弯	14935
+guo wai jin kou	国外进口	14860
+guo ji yan tao hui	国际研讨会	14815
+guo ji bu	国际部	14750
+guo min dai yu	国民待遇	14745
+guo jia zhong yi yao guan li ju	国家中医药管理局	14695
+guo kuai zeng zhang	过快增长	14695
+guo qi le	过期了	14690
+guo tang	果糖	14635
+guo ao dui	国奥队	14535
+guo ce	国策	14505
+guo ji shang ye	国际商业	14490
+guo ji qi huo	国际期货	14445
+guo zao de	过早地	14445
+guo ji zhao biao	国际招标	14415
+guo dao	国道	14375
+guo xian sheng	郭先生	14230
+guo tou	国投	14150
+guo ji gong yu	国际公寓	14095
+guo jia ke ji bu	国家科技部	14090
+guo shi	国师	14025
+guo nei ji piao	国内机票	14005
+guo ji shui ping	国际水平	13925
+guo jia huan bao	国家环保	13915
+guo wu yuan xue wei wei yuan hui	国务院学位委员会	13857
+guo huo	过火	13820
+guo jing ming	郭敬明	13805
+guo nei pin pai	国内品牌	13550
+guo fen qiang diao	过分强调	13495
+guo nei wai zhi ming	国内外知名	13480
+guo jia ji gou	国家机构	13455
+guo qi shi jian	过期时间	13435
+guo ji kuai di	国际快递	13390
+guo lian	国联	13365
+guo ji chang tu	国际长途	13280
+guo ji ci	过几次	13255
+guo tu mian ji	国土面积	13190
+guo jia jing ji mao yi wei yuan hui	国家经济贸易委员会	13163
+guo jia zhan lve	国家战略	13085
+guo qu de shi	过去的事	13035
+guo nei xiao shou	国内销售	12980
+guo bang	过磅	12905
+guo jia mian jian	国家免检	12880
+guo ji huo yun dai li	国际货运代理	12865
+guo qiang	过强	12855
+guo ji ji	国际级	12850
+guo yang hua	过氧化	12845
+guo liang tian	过两天	12830
+guo jia xin xi chan ye bu	国家信息产业部	12785
+guo jia gong shang hang zheng guan li ju	国家工商行政管理局	12773
+guo ji hang ban	国际航班	12665
+guo jia pei chang	国家赔偿	12615
+guo meng	过猛	12605
+guo nei yin hang	国内银行	12590
+guo jie	过街	12575
+guo shi le	过时了	12570
+guo ji di wei	国际地位	12535
+guo dong jian she	国栋建设	12500
+guo guang ci ye	国光瓷业	12500
+guo jia shi ye	国嘉实业	12500
+guo mai tong xin	国脉通信	12500
+guo neng ji tuan	国能集团	12500
+guo tai gu fen	国泰股份	12500
+guo tong guan ye	国通管业	12500
+guo xiang gu fen	国祥股份	12500
+guo yao ke ji	国药科技	12500
+guo jia jian	国家间	12450
+guo zu	国足	12425
+guo du xing	过渡性	12415
+guo jia wen wu ju	国家文物局	12375
+guo ji hang kong	国际航空	12285
+guo jia ji hua	国家计划	12275
+guo mu	过目	12245
+guo qiao mi xian	过桥米线	12239
+guo nei xu qiu	国内需求	12135
+guo wu yuan guo zi wei	国务院国资委	12115
+guo jia ke wei	国家科委	12005
+guo jia shui shou	国家税收	11945
+guo jin	过紧	11725
+guo chan che	国产车	11720
+guo nei chang tu	国内长途	11715
+guo ji ban	国际版	11710
+guo you gu quan	国有股权	11680
+guo ji huo bi ji jin zu zhi	国际货币基金组织	11675
+guo jia rong yu	国家荣誉	11660
+guo du pi lao	过度疲劳	11655
+guo zhu	裹住	11600
+guo you gong si	国有公司	11590
+guo fa	国法	11555
+guo nei mao yi	国内贸易	11510
+guo wu	国务	11500
+guo shan che	过山车	11490
+guo ba	过把	11480
+guo fang gong ye	国防工业	11440
+guo lu fang	锅炉房	11430
+guo jia yuan shou	国家元首	11425
+guo fang jun	国防军	11310
+guo xiang	果香	11310
+guo jia you zheng ju	国家邮政局	11300
+guo ren	果仁	11290
+guo min su zhi	国民素质	11200
+guo lai ren	过来人	11175
+guo le tou	过了头	11165
+guo nian lei	过年嘞	11111
+guo ji lun tan	国际论坛	11110
+guo jia fa ming	国家发明	11050
+guo jiu	果酒	11045
+guo ji hang xian	国际航线	10930
+guo li da xue	国立大学	10895
+guo yi bu qu	过意不去	10880
+guo xiang	郭襄	10840
+guo you qi ye gai zhi	国有企业改制	10810
+guo ji wen ti	国际问题	10790
+guo min zhe	过敏者	10715
+guo ji shi wu	国际事务	10700
+guo zai	裹在	10690
+guo ran you	果然有	10670
+guo duan shi jian	过段时间	10630
+guo ji jing ji fa	国际经济法	10625
+guo jia yan cao zhuan mai ju	国家烟草专卖局	10602
+guo jing nei	国境内	10545
+guo bai	过百	10530
+guo jia tu shu guan	国家图书馆	10525
+guo nei shou chuang	国内首创	10485
+guo dian ya	过电压	10420
+guo shui	过水	10410
+guo jia gong shang zong ju	国家工商总局	10409
+guo ren zhi chu	过人之处	10340
+guo ji jing mao	国际经贸	10290
+guo jia an quan bu	国家安全部	10270
+guo wu qing	国务卿	10250
+guo ji dian ying jie	国际电影节	10220
+guo yu zhuan ji	国语专辑	10220
+guo dang	过当	10200
+guo lv wang	过滤网	10195
+guo ku quan	国库券	10156
+guo ji biao zhun kan hao	国际标准刊号	10150
+guo ji shi you	国际石油	10095
+guo zhai zi jin	国债资金	10050
+guo ji guan li	国际管理	10045
+guo nian le	过年了	10000
+guo bu	过不	9999
+guo bu ran	果不然	9999
+guo dian	过点	9999
+guo dian er	过点儿	9999
+guo fang lv	国防绿	9999
+guo fu	国服	9999
+guo gai	锅盖	9999
+guo gai er	锅盖儿	9999
+guo gan er	果干儿	9999
+guo hang	国行	9999
+guo ji biao zhun jiao yi wu	国际标准交谊舞	9999
+guo ji hu lian wang	国际互联网	9999
+guo ji xiang qi	国际象棋	9999
+guo jia huo	过家伙	9999
+guo jia ming	国家名	9999
+guo jia ming cheng	国家名称	9999
+guo jia ming zi	国家名字	9999
+guo jia suo you zhi	国家所有制	9999
+guo jiang	过奖	9999
+guo jin er	过劲儿	9999
+guo lai zuo ke	过来做客	9999
+guo lv zui er	过滤嘴儿	9999
+guo men er	过门儿	9999
+guo ping	国乒	9999
+guo qi	过气	9999
+guo qi de	过期的	9999
+guo shen qi ci	过甚其词	9999
+guo su	过速	9999
+guo wo	过我	9999
+guo xie	裹挟	9999
+guo xiong	裹胸	9999
+guo zhao er	过招儿	9999
+guo zi lu	果子露	9999
+guo you hua	国有化	9941
+guo mu bu wang	过目不忘	9900
+guo yi	过亿	9900
+guo wei	果味	9860
+guo jia yao pin jian du guan li ju	国家药品监督管理局	9852
+guo jia xing zheng	国家行政	9825
+guo shen	过深	9760
+guo nei fa	国内法	9690
+guo nei kan hao	国内刊号	9690
+guo man	过慢	9625
+guo duan	过短	9615
+guo min yuan	过敏原	9605
+guo men	过门	9555
+guo ji xin wen	国际新闻	9540
+guo du shi qi	过渡时期	9510
+guo de qu	过得去	9475
+guo jia bo wu guan	国家博物馆	9430
+guo ji shang hui	国际商会	9415
+guo ji yun shu	国际运输	9365
+guo bao	过曝	9358
+guo jiao	国脚	9345
+guo jin	过近	9345
+guo jia pei chang fa	国家赔偿法	9315
+guo ji yuan zi neng ji gou	国际原子能机构	9305
+guo zhen ru ci	果真如此	9290
+guo lv ji	过滤机	9280
+guo mao da sha	国贸大厦	9275
+guo ji ji gou	国际机构	9260
+guo ji guang gao	国际广告	9235
+guo huo	过活	9185
+guo chang	过场	9180
+guo jia hai yang ju	国家海洋局	9150
+guo nei xian jin shui ping	国内先进水平	9140
+guo nei chang shang	国内厂商	9120
+guo lu fei	过路费	9060
+guo yu guo	国与国	9050
+guo feng	国风	8995
+guo jia yao pin	国家药品	8975
+guo hui yi yuan	国会议员	8960
+guo fu	国富	8888
+guo hang	国航	8888
+guo man	国漫	8888
+guo shen	过审	8888
+guo chun jie	过春节	8870
+guo wu yuan ge bu men	国务院各部门	8860
+guo hui	过会	8820
+guo shi de	果实的	8795
+guo quan	国权	8775
+guo you chan quan zhuan rang	国有产权转让	8744
+guo zhan	过站	8720
+guo zheng	国政	8705
+guo jia jing ji an quan	国家经济安全	8691
+guo jia	郭嘉	8685
+guo tie	锅贴	8673
+guo lv diao	过滤掉	8655
+guo pan	果盘	8650
+guo qi	国企	8628
+guo guo	过过	8625
+guo yi hui er	过一会儿	8625
+guo nei hang xian	国内航线	8580
+guo lin	果林	8575
+guo zi jian	国子监	8565
+guo hua	国花	8560
+guo mi	过密	8540
+guo ti	国体	8535
+guo wai ke hu	国外客户	8515
+guo shi	国势	8511
+guo jia xin xi zhong xin	国家信息中心	8480
+guo guo	蝈蝈	8395
+guo jia cai chan	国家财产	8365
+guo jia dian li gong si	国家电力公司	8351
+guo xiao	国小	8350
+guo jia shui wu	国家税务	8335
+guo jia shang wu bu	国家商务部	8330
+guo ji yuan you jia ge	国际原油价格	8325
+guo nei yong hu	国内用户	8305
+guo ji ying xiang	国际影响	8275
+guo fang dong yuan	国防动员	8265
+guo bu qi ran	果不其然	8260
+guo jia shi wu	国家事务	8240
+guo zhen shi	果真是	8195
+guo jia quan li ji guan	国家权力机关	8140
+guo ji biao zhun hua zu zhi	国际标准化组织	8135
+guo ji bi sai	国际比赛	8105
+guo chi	国耻	8075
+guo shui zong ju	国税总局	8075
+guo nei kong bai	国内空白	8060
+guo jia fa zhan ji hua wei yuan hui	国家发展计划委员会	8030
+guo you zi chan bao zhi zeng zhi	国有资产保值增值	8030
+guo ji xue xiao	国际学校	8000
+guo xi	过细	7985
+guo lin suan gai	过磷酸钙	7930
+guo wai chan pin	国外产品	7895
+guo wai gong si	国外公司	7855
+guo ji mao yi cu jin wei yuan hui	国际贸易促进委员会	7854
+guo jia da shi	国家大事	7845
+guo shou	过手	7795
+guo bin	国宾	7780
+guo chu	国储	7745
+guo ji fan dian	国际饭店	7720
+guo gong liang dang	国共两党	7715
+guo yan yun yan	过眼云烟	7630
+guo ji hua cheng du	国际化程度	7625
+guo wan	过万	7610
+guo zhai xiang mu	国债项目	7565
+guo fang da xue	国防大学	7560
+guo guan zhan jiang	过关斩将	7545
+guo ya	过压	7510
+guo ji ming pai	国际名牌	7495
+guo yun	国运	7425
+guo leng	过冷	7410
+guo nei you	国内游	7375
+guo du li	国度里	7370
+guo fen le	过分了	7370
+guo wai wang zhan	国外网站	7335
+guo shou	国手	7305
+guo qu shi	过去时	7300
+guo ji guan xi xue yuan	国际关系学院	7290
+guo jia di zhi	国家地质	7270
+guo ji hang yun	国际航运	7265
+guo jia kao shi	国家考试	7250
+guo shi fang wen	国事访问	7250
+guo ji ju shi	国际局势	7235
+guo ran zai	果然在	7190
+guo jia jian du	国家监督	7124
+guo ji ying xiao	国际营销	7105
+guo tai min an	国泰民安	7100
+guo ji yuan you	国际原油	7050
+guo cha	果茶	7040
+guo zai bao hu	过载保护	7015
+guo de hao	过得好	7010
+guo ba	锅巴	6995
+guo jia guan li	国家管理	6995
+guo nei kuai di	国内快递	6975
+guo du jin zhang	过度紧张	6970
+guo ji he ping	国际和平	6970
+guo yi tian	过一天	6955
+guo ji hai yun	国际海运	6935
+guo jia ji shu jian du ju	国家技术监督局	6935
+guo ji shang mao	国际商贸	6920
+guo zi	锅子	6915
+guo lv xi tong	过滤系统	6895
+guo huai	国槐	6890
+guo gong he zuo	国共合作	6880
+guo jia wai guo zhuan jia ju	国家外国专家局	6870
+guo yi hui	过一会	6845
+guo ji fen gong	国际分工	6820
+guo jiu	国酒	6810
+guo min ge ming jun	国民革命军	6790
+guo shi	国士	6789
+guo jia jiao yu wei yuan hui	国家教育委员会	6755
+guo jia gong shang ju	国家工商局	6745
+guo ji che zhan	国际车展	6730
+guo lai ba	过来吧	6730
+guo ji hui yi zhong xin	国际会议中心	6717
+guo yang hua qing	过氧化氢	6705
+guo ji jin rong zu zhi	国际金融组织	6675
+guo qing chang jia	国庆长假	6675
+guo liu	国六	6666
+guo jia yi lei	国家一类	6645
+guo ji gui ze	国际规则	6635
+guo nei tou zi	国内投资	6625
+guo qu ba	过去吧	6620
+guo wang che liang	过往车辆	6620
+guo du lao lei	过度劳累	6610
+guo yan	国宴	6610
+guo you du zi qi ye	国有独资企业	6595
+guo tu zi yuan guan li	国土资源管理	6590
+guo ji you ren	国际友人	6585
+guo lei	果类	6580
+guo yan	过眼	6570
+guo qi	国旗	6556
+guo hai	过海	6540
+guo jiao	国教	6540
+guo jia ce hui ju	国家测绘局	6530
+guo zhuang	锅庄	6530
+guo se tian xiang	国色天香	6515
+guo jia guang bo dian ying dian shi zong ju	国家广播电影电视总局	6514
+guo wai zhi ming	国外知名	6480
+guo yang hua wu	过氧化物	6410
+guo jia gan bu	国家干部	6400
+guo chu	过处	6360
+guo ji xing xiang	国际形象	6350
+guo min yi hui	国民议会	6345
+guo qu fen ci	过去分词	6335
+guo zu	过足	6325
+guo bao ji	国宝级	6320
+guo ji nian	过几年	6295
+guo qi gai zhi	国企改制	6290
+guo jia ji qi	国家机器	6275
+guo min zheng	过敏症	6230
+guo lai kan	过来看	6200
+guo you zi chan jing ying	国有资产经营	6170
+guo shai	过筛	6155
+guo jia yu suan	国家预算	6130
+guo jia dian wang	国家电网	6120
+guo shu zhi	果蔬汁	6104
+guo ji zhu yi	国际主义	6080
+guo qing ri	国庆日	6080
+guo dian	国电	6075
+guo shang	裹上	6060
+guo pin	过频	6045
+guo min xing pi yan	过敏性皮炎	6005
+guo shui ju	国税局	5997
+guo ji an quan	国际安全	5995
+guo jia ti wei	国家体委	5980
+guo jia wu jia ju	国家物价局	5980
+guo ji xian qu dao bao	国际先驱导报	5960
+guo ji dian gong	国际电工	5955
+guo nei mei ti	国内媒体	5955
+guo nei wang luo	国内网络	5955
+guo nei gang cai	国内钢材	5950
+guo nei shang ye	国内商业	5950
+guo wu yuan tai wan shi wu ban gong shi	国务院台湾事务办公室	5902
+guo ji zhuan li	国际专利	5895
+guo fu	国父	5885
+guo lu ren	过路人	5875
+guo ji bo lan hui	国际博览会	5830
+guo nei tong hang	国内同行	5805
+guo shu	国书	5780
+guo jiang le	过奖了	5775
+guo sui	果穗	5775
+guo fen zhui qiu	过分追求	5765
+guo dao	过到	5755
+guo ji jin rong zhong xin	国际金融中心	5710
+guo xue da shi	国学大师	5690
+guo bao	过饱	5680
+guo lao	过劳	5615
+guo jia bu wei	国家部委	5605
+guo ji jing ji he zuo	国际经济合作	5600
+guo qu he xian zai	过去和现在	5580
+guo jia an quan ju	国家安全局	5575
+guo tai ming	郭台铭	5555
+guo wu	国五	5555
+guo yin	果饮	5555
+guo xin nian	过新年	5550
+guo jia jing zheng li	国家竞争力	5520
+guo shu	国术	5520
+guo wan	过晚	5515
+guo hou	过厚	5510
+guo ji ge	国际歌	5500
+guo jia dang an ju	国家档案局	5475
+guo nei gong si	国内公司	5465
+guo hui da sha	国会大厦	5460
+guo kuan	过宽	5460
+guo ji dian xin lian meng	国际电信联盟	5455
+guo chan hua lv	国产化率	5450
+guo zhai hui gou	国债回购	5416
+guo tai ban	国台办	5410
+guo hua jia	国画家	5400
+guo ji tong xin	国际通信	5380
+guo nei fa xing	国内发行	5380
+guo jia wai hui	国家外汇	5345
+guo jia dai ma	国家代码	5325
+guo ji shi zhuang	国际时装	5300
+guo lu chang	锅炉厂	5255
+guo wan piao pen	锅碗瓢盆	5250
+guo ji kuai ji	国际会计	5195
+guo chan dian ying	国产电影	5180
+guo ji jing ji mao yi	国际经济贸易	5180
+guo nei xin wen	国内新闻	5180
+guo nei you ke	国内游客	5170
+guo neng	国能	5150
+guo zi li	果子狸	5140
+guo li	国立	5137
+guo kong	过孔	5135
+guo lan	过滥	5120
+guo ji biao zhun hua	国际标准化	5115
+guo jia yin hang	国家银行	5100
+guo jia fu zhu xi	国家副主席	5095
+guo wang	国网	5086
+guo jia zhi du	国家制度	5080
+guo jia yao pin biao zhun	国家药品标准	5070
+guo chan qi che	国产汽车	5020
+guo ji kong jian zhan	国际空间站	5010
+guo ji dan wei	国际单位	5005
+guo ji lao gong zu zhi	国际劳工组织	4985
+guo jia shen ji shu	国家审计署	4960
+guo you	过油	4960
+guo zu bu qian	裹足不前	4955
+guo ji xing	国际型	4945
+guo lv she bei	过滤设备	4940
+guo tang	过烫	4930
+guo jia shang biao ju	国家商标局	4925
+guo jia gong yuan	国家公园	4891
+guo yu cheng du	国语程度	4870
+guo min shi	过敏史	4850
+guo ni he	过拟合	4818
+guo jia ti yu	国家体育	4815
+guo kui	锅盔	4814
+guo ji shang bao	国际商报	4800
+guo jie lou	过街楼	4790
+guo yang yi suan	过氧乙酸	4790
+guo ji xing wei	过激行为	4785
+guo liu bao hu	过流保护	4785
+guo you bu ji	过犹不及	4785
+guo jia min wei	国家民委	4765
+guo zi yi	郭子仪	4750
+guo shi	国史	4729
+guo fang ke xue ji shu gong ye wei yuan hui	国防科学技术工业委员会	4728
+guo ji zi ben shi chang	国际资本市场	4725
+guo ji jin rong shi chang	国际金融市场	4715
+guo nong	过浓	4710
+guo ji shang pin	国际商品	4690
+guo li	果粒	4685
+guo da nian	过大年	4670
+guo ji man you	国际漫游	4660
+guo nei hang ban	国内航班	4650
+guo nei wai zui xin	国内外最新	4640
+guo ding	国定	4635
+guo nei jia ge	国内价格	4630
+guo ji shui shou	国际税收	4620
+guo mu	果木	4615
+guo you cai chan	国有财产	4615
+guo bian	锅边	4605
+guo dao pang	国道旁	4595
+guo nan	国难	4555
+guo ying	果蝇	4550
+guo jue	果决	4525
+guo min zheng zhuang	过敏症状	4520
+guo ji	过急	4495
+guo jia zhu yi	国家主义	4485
+guo da dang	国大党	4480
+guo lao si	过劳死	4455
+guo chao	国潮	4444
+guo ji	过季	4444
+guo dian liu	过电流	4440
+guo shi fan zui	过失犯罪	4430
+guo jia zhi liang ji shu jian du ju	国家质量技术监督局	4425
+guo zao	聒噪	4415
+guo biao wu	国标舞	4410
+guo jia chu bei	国家储备	4390
+guo du bao zhuang	过度包装	4370
+guo jing kou an	国境口岸	4360
+guo nei zheng zhi	国内政治	4335
+guo nei zui hao	国内最好	4285
+guo shao	锅烧	4270
+guo ji mao yi zhong xin	国际贸易中心	4260
+guo le yi nian	过了一年	4250
+guo wang xing ren	过往行人	4245
+guo jia jing ji jian she	国家经济建设	4230
+guo ji fu wu mao yi	国际服务贸易	4215
+guo du shi yong	过度使用	4205
+guo jie lao shu	过街老鼠	4185
+guo jia gan yu	国家干预	4155
+guo chan dong hua	国产动画	4130
+guo jia pei chang de	国家赔偿的	4130
+guo bi	国币	4125
+guo dian	过电	4125
+guo you du zi shang ye yin hang	国有独资商业银行	4090
+guo chan jiao che	国产轿车	4085
+guo ran ru ci	果然如此	4085
+guo min jing ji ming mai	国民经济命脉	4080
+guo lv ji shu	过滤技术	4060
+guo ji xin tuo	国际信托	4045
+guo yue	国乐	4045
+guo du jing zheng	过度竞争	4010
+guo ji ju xing	国际巨星	3990
+guo ke	果壳	3990
+guo qing	过轻	3980
+guo du xing fen	过度兴奋	3970
+guo ji pai mai	国际拍卖	3960
+guo jia jia	过家家	3955
+guo jing wei sheng jian yi ji guan	国境卫生检疫机关	3950
+guo ji lian meng	国际联盟	3935
+guo pi xiang	果皮箱	3935
+guo ji shang fa	国际商法	3920
+guo le pian ke	过了片刻	3920
+guo ya bao hu	过压保护	3915
+guo ji huo dai	国际货代	3905
+guo fang ke yan	国防科研	3900
+guo wang	过网	3895
+guo le	裹了	3875
+guo ji chuan bo	国际传播	3870
+guo ji jin rong gong si	国际金融公司	3865
+guo huan	过缓	3855
+guo sheng	过盛	3850
+guo ji gong cheng cheng bao	国际工程承包	3842
+guo wai jing yan	国外经验	3830
+guo zhai	过窄	3830
+guo wu	果无	3815
+guo ji zu qiu	国际足球	3810
+guo du jie duan	过渡阶段	3805
+guo cao di	过草地	3800
+guo qiu	国球	3790
+guo zi	国字	3785
+guo ben	国本	3775
+guo ji yin biao	国际音标	3760
+guo jia an quan wei yuan hui	国家安全委员会	3755
+guo zi hao	国字号	3755
+guo ji	国基	3750
+guo ji	过继	3750
+guo jia xiang mu	国家项目	3740
+guo yang	过氧	3740
+guo fu	果腹	3735
+guo ji gong fa	国际公法	3725
+guo he	果核	3720
+guo lan	果篮	3715
+guo hua zuo pin	国画作品	3710
+guo jia zi yuan	国家资源	3710
+guo jin an	郭晋安	3695
+guo mian	国棉	3690
+guo yan yan yun	过眼烟云	3675
+guo ji ren quan	国际人权	3670
+guo jia tong yi si fa kao shi	国家统一司法考试	3667
+guo du kai fa	过度开发	3655
+guo duan cuo shi	果断措施	3655
+guo yan	过严	3645
+guo ji hang kong gong si	国际航空公司	3640
+guo ji yu lun	国际舆论	3640
+guo min xing xiao chuan	过敏性哮喘	3635
+guo min ge ming	国民革命	3610
+guo ji da sai	国际大赛	3600
+guo de	裹得	3570
+guo jia xing wei	国家行为	3570
+guo ji kong yun	国际空运	3560
+guo nei xing shi	国内形势	3560
+guo jia xin wen chu ban shu	国家新闻出版署	3554
+guo jia bo kuan	国家拨款	3545
+guo jin	裹紧	3530
+guo ji lao dong jie	国际劳动节	3510
+guo yu ban	国语版	3510
+guo ji xing shi fa yuan	国际刑事法院	3504
+guo ke ying	郭可盈	3490
+guo ding jia ri	国定假日	3485
+guo ji zhi ming du	国际知名度	3485
+guo tu bu	国土部	3480
+guo ji zhi xu	国际秩序	3475
+guo ji xue	国际学	3465
+guo song	过松	3460
+guo cheng fen xi	过程分析	3450
+guo cu	果醋	3430
+guo se	国色	3430
+guo lv	过虑	3425
+guo nei chang jia	国内厂家	3425
+guo ji chu bu shen cha	国际初步审查	3420
+guo hu fei	过户费	3415
+guo hua yuan	国画院	3415
+guo fu rong	郭芙蓉	3370
+guo min da hui	国民大会	3360
+guo qi zhi shu	国企指数	3355
+guo jia shang jian bu men	国家商检部门	3345
+guo wai tong hang	国外同行	3345
+guo jia san ji	国家三级	3335
+guo hei	过黑	3333
+guo ji xiang qi bing	国际象棋兵	3333
+guo ming	过命	3333
+guo nan	国男	3333
+guo nv	国女	3333
+guo qie	果切	3333
+guo zhan	国战	3333
+guo zhi he	果汁盒	3333
+guo ji zhan lan hui	国际展览会	3320
+guo an ju	国安局	3315
+guo jia bao mi ju	国家保密局	3315
+guo ji bao hu	国际保护	3305
+guo qing dui	国青队	3300
+guo chan pian	国产片	3285
+guo ji sai	国际赛	3285
+guo ji zhan	国际站	3275
+guo qing jiao yu	国情教育	3265
+guo qiao fei	过桥费	3250
+guo ji tian lian	国际田联	3245
+guo qiang	国强	3240
+guo you qi ye chong zu	国有企业重组	3240
+guo fang xian dai hua	国防现代化	3230
+guo xi	过膝	3230
+guo zhan zhong xin	国展中心	3230
+guo chan	锅铲	3225
+guo da	郭达	3220
+guo jie tian qiao	过街天桥	3215
+guo bin guan	国宾馆	3210
+guo nei quan wei	国内权威	3210
+guo ye de	过夜的	3205
+guo ji dian lian	国际电联	3195
+guo du zheng fu	过渡政府	3180
+guo jing qian zheng	过境签证	3180
+guo jiu	国舅	3175
+guo jia da ju yuan	国家大剧院	3165
+guo hao	裹好	3151
+guo ji jia ge	国际价格	3150
+guo jia sen lin	国家森林	3145
+guo wang dui	国王队	3145
+guo wai tou zi	国外投资	3120
+guo ba yin	过把瘾	3110
+guo tang	锅汤	3098
+guo ji zhi bo	国际直拨	3095
+guo zhi	国治	3095
+guo ji er tong jie	国际儿童节	3085
+guo ji shang biao	国际商标	3065
+guo wai qi che	国外汽车	3060
+guo wan nian	过完年	3055
+guo bai	过白	3045
+guo jia xian fa	国家宪法	3040
+guo wang bei	国王杯	3040
+guo ji gui fan	国际规范	3030
+guo min xing	国民性	3020
+guo nei dian xin	国内电信	3010
+guo yang xian	涡阳县	2995
+guo dao shang	过道上	2990
+guo jia long duan	国家垄断	2990
+guo jia yan shou	国家验收	2985
+guo min cai fu	国民财富	2975
+guo zhi	果枝	2975
+guo ran bu chu suo liao	果然不出所料	2970
+guo he chai qiao	过河拆桥	2935
+guo jia yu wei	国家语委	2935
+guo ji xing jing	国际刑警	2930
+guo yu zi xin	过于自信	2930
+guo ji yi wu	国际义务	2925
+guo du ji zhong	过度集中	2915
+guo ji kong bu zhu yi	国际恐怖主义	2915
+guo ji xin tuo tou zi gong si	国际信托投资公司	2910
+guo ji jin jia	国际金价	2905
+guo qi shi xiao	过期失效	2905
+guo ji fa xue	国际法学	2900
+guo shou jing	郭守敬	2900
+guo ding lu	国定路	2890
+guo ru	果如	2890
+guo ji huo wu mai mai he tong	国际货物买卖合同	2885
+guo ji yuan zhu	国际援助	2885
+guo nian hui jia	过年回家	2885
+guo wu yuan yan jiu shi	国务院研究室	2885
+guo shen	过甚	2870
+guo cuo fang	过错方	2860
+guo tang	过堂	2850
+guo de bi	过得比	2845
+guo de ying	过得硬	2835
+guo jia zhi neng	国家职能	2835
+guo ji huo wu xiao shou he tong	国际货物销售合同	2830
+guo jia du ma	国家杜马	2820
+guo fang wei yuan hui	国防委员会	2815
+guo ji fa ting	国际法庭	2780
+guo ji fa yuan	国际法院	2760
+guo mai	国脉	2755
+guo cuo ze ren yuan ze	过错责任原则	2750
+guo ji dui	国际队	2750
+guo yuan	过远	2740
+guo guan	过惯	2730
+guo jia shang jian ju	国家商检局	2720
+guo hui er	过会儿	2710
+guo ji mei ti	国际媒体	2710
+guo jia shi chang	国家市场	2710
+guo pang	过胖	2710
+guo jia ji hua wei yuan hui	国家计划委员会	2689
+guo yuan li	果园里	2685
+guo jia jian cai ju	国家建材局	2680
+guo lv zui	过滤嘴	2670
+guo xiang	国香	2665
+guo ji mao yi shu yu	国际贸易术语	2660
+guo xie ri zi	过些日子	2655
+guo shi bu	裹尸布	2625
+guo lu zhi zao	锅炉制造	2620
+guo ji feng yun	国际风云	2615
+guo jia wai hui chu bei	国家外汇储备	2605
+guo min dai yu yuan ze	国民待遇原则	2605
+guo dian ying	过电影	2585
+guo tu gui hua	国土规划	2585
+guo jia tie lu	国家铁路	2580
+guo chi	过迟	2575
+guo duan	过段	2573
+guo nei li fa	国内立法	2555
+guo qu wei lai	过去未来	2550
+guo fu lun	国富论	2545
+guo jia bu zhu	国家补助	2545
+guo ji jin rong ji gou	国际金融机构	2535
+guo nei yun shu	国内运输	2515
+guo ying nong chang	国营农场	2510
+guo you zi ben jing ying yu suan zhi du	国有资本经营预算制度	2504
+guo nei jing zheng	国内竞争	2495
+guo sai	国赛	2495
+guo duo kao lv	过多考虑	2485
+guo qi zuo fei	过期作废	2475
+guo chan pin	国产品	2470
+guo dao shang	国道上	2440
+guo you zhi	国有制	2440
+guo ji fen zhong	过几分钟	2435
+guo jia ti zhi	国家体制	2425
+guo zi ju	国资局	2420
+guo jia zhuan li ju	国家专利局	2415
+guo hai zheng quan	国海证券	2395
+guo ju	国剧	2395
+guo qing jie qian	国庆节前	2395
+guo zi ban	国资办	2390
+guo chang	果场	2370
+guo ji zhi shi	国际知识	2370
+guo xue yuan	国学院	2370
+guo ji shang shi zhong cai	国际商事仲裁	2365
+guo jing xian	国境线	2360
+guo liang shi yong	过量使用	2340
+guo xin	果心	2340
+guo nei an quan	国内安全	2335
+guo niao	国鸟	2335
+guo wu yuan guan shui shui ze wei yuan hui	国务院关税税则委员会	2321
+guo lai a	过来啊	2320
+guo min jun	国民军	2320
+guo jia zi ben	国家资本	2310
+guo min jing ji xue	国民经济学	2310
+guo you tu di you chang shi yong	国有土地有偿使用	2310
+guo jia ji ben yao wu zhi du	国家基本药物制度	2308
+guo ji xin zhi xu	国际新秩序	2295
+guo ji xing jing zu zhi	国际刑警组织	2295
+guo gu	国故	2270
+guo jia xing wang	国家兴亡	2270
+guo zhi ji	果汁机	2270
+guo jia gong wu yuan zan xing tiao li	国家公务员暂行条例	2261
+guo jia jing wei	国家经委	2260
+guo jia yi yao guan li ju	国家医药管理局	2260
+guo gao gu ji	过高估计	2255
+guo po jia wang	国破家亡	2255
+guo wai yin hang	国外银行	2255
+guo chan ji	国产机	2250
+guo chan xin che	国产新车	2245
+guo jia ren wu	国家任务	2245
+guo yi	过意	2240
+guo min jing ji ge bu men	国民经济各部门	2230
+guo jia ti gai wei	国家体改委	2225
+guo ji gong ren	国际公认	2215
+guo jia shui	国家税	2210
+guo ji you zi	国际游资	2205
+guo jia bu tie	国家补贴	2205
+guo tu zheng zhi	国土整治	2200
+guo guo yin	过过瘾	2195
+guo jing wei sheng jian yi	国境卫生检疫	2195
+guo shang	国殇	2195
+guo hao	国号	2191
+guo jia gui fan	国家规范	2185
+guo ting	过厅	2185
+guo nei gu shi	国内股市	2180
+guo ji hang kong yun shu xie hui	国际航空运输协会	2175
+guo nei chang tu dian hua	国内长途电话	2175
+guo tong qu	国统区	2175
+guo chan wang you	国产网游	2140
+guo jin	过尽	2130
+guo zao	锅灶	2130
+guo jia huo bi	国家货币	2120
+guo min jing ji he suan ti xi	国民经济核算体系	2120
+guo ji duo shi lian yun	国际多式联运	2115
+guo nei zhan zheng	国内战争	2105
+guo ji zhun ze	国际准则	2100
+guo you fa ren	国有法人	2095
+guo du bao hu	过度保护	2090
+guo xin ban	国信办	2075
+guo xin ban	国新办	2075
+guo lu gong	锅炉工	2070
+guo ming	国名	2061
+guo ni	果泥	2060
+guo dian chu jian	郭店楚简	2055
+guo liang	过亮	2055
+guo ying jing ji	国营经济	2050
+guo shi lei lei	果实累累	2045
+guo zei	国贼	2045
+guo ji zhong cai	国际仲裁	2030
+guo shu	过熟	2030
+guo er	果儿	2020
+guo bu xia qu	过不下去	2010
+guo cu	过粗	2005
+guo fang li liang	国防力量	2000
+guo ji guang bo dian tai	国际广播电台	2000
+guo jiang	果酱	1999
+guo de hao ma	过得好吗	1995
+guo hun	国魂	1990
+guo du tou ji	过度投机	1985
+guo nei you	国内有	1977
+guo du xiao guo	过渡效果	1972
+guo re xian xiang	过热现象	1970
+guo du xiao hao	过度消耗	1955
+guo li	过礼	1945
+guo zai neng li	过载能力	1945
+guo cong shen mi	过从甚密	1940
+guo ji ji jin	国际基金	1940
+guo shi xing wei	过失行为	1940
+guo yu ke ke	过于苛刻	1930
+guo jia zu qiu dui	国家足球队	1925
+guo qing si	国清寺	1920
+guo ji fa	国籍法	1915
+guo jia feng xian	国家风险	1915
+guo jiao	过胶	1910
+guo mu	国母	1905
+guo qing zi wen	国情咨文	1905
+guo jia shang biao	国家商标	1900
+guo luo zhou	果洛州	1900
+guo tian	过甜	1899
+guo ji ling xian di wei	国际领先地位	1890
+guo ji jing ying	国际经营	1885
+guo jiang long	过江龙	1880
+guo wu yuan gang ao ban	国务院港澳办	1876
+guo nan dang tou	国难当头	1875
+guo ri zi le	过日子了	1865
+guo yao gu fen	国药股份	1865
+guo ge li da jie	果戈里大街	1850
+guo tai	锅台	1845
+guo fang	过房	1835
+guo jiang zhi ji	过江之鲫	1835
+guo ma	国骂	1830
+guo ji lian he	国际联合	1825
+guo du dong hua	过渡动画	1822
+guo fei	过肥	1820
+guo qi gu	国企股	1820
+guo jia ti yu duan lian biao zhun	国家体育锻炼标准	1815
+guo ji si	国际司	1800
+guo nei wai zhong da	国内外重大	1795
+guo gan	果干	1790
+guo fu min qiang	国富民强	1785
+guo ji you xian	国际有限	1784
+guo fang fei	国防费	1775
+guo du jin shu	过渡金属	1770
+guo shi bu hou	过时不候	1765
+guo an dui	国安队	1755
+guo lv mian ji	过滤面积	1750
+guo min ti zhi	过敏体质	1747
+guo jia zi ben zhu yi	国家资本主义	1745
+guo ji cheng ren	国际承认	1735
+guo ji he liu	国际河流	1735
+guo qian	过谦	1735
+guo qu wan cheng shi	过去完成时	1735
+guo miao	果苗	1730
+guo you guo fa	国有国法	1720
+guo jia zi chan	国家资产	1710
+guo jia si fa kao shi da gang	国家司法考试大纲	1704
+guo ji bei jing	国际背景	1700
+guo wu bu zhang	国务部长	1700
+guo du peng zhang	过度膨胀	1690
+guo nei gong ye	国内工业	1690
+guo chan huo	国产货	1685
+guo liang	过凉	1685
+guo su	过塑	1679
+guo wu zong li	国务总理	1670
+guo jia tu di du cha zhi du	国家土地督察制度	1669
+guo chan chang shang	国产厂商	1660
+guo jiao mei	果胶酶	1655
+guo lv yi xi	过氯乙烯	1655
+guo nei shou bu	国内首部	1655
+guo de yu kuai	过得愉快	1640
+guo xi	国玺	1630
+guo de kuai le	过得快乐	1625
+guo ji mao yi fa	国际贸易法	1625
+guo wo men	过我们	1616
+guo ji huo bi ti xi	国际货币体系	1615
+guo wu yuan xue wei	国务院学位	1613
+guo jia long duan zi ben zhu yi	国家垄断资本主义	1610
+guo pin shi chang	果品市场	1610
+guo du qu	过渡区	1595
+guo jia jie gou	国家结构	1590
+guo jia qi xiang ju	国家气象局	1585
+guo jiao	裹脚	1580
+guo ji tai	国际台	1575
+guo ji zheng duan	国际争端	1565
+guo jia she hui zhu yi	国家社会主义	1560
+guo qi lai	裹起来	1560
+guo tou dian li	国投电力	1555
+guo du xing	过渡型	1550
+guo ji lao dong fu nv jie	国际劳动妇女节	1550
+guo ji zheng quan	国际证券	1550
+guo ying gong si	国营公司	1544
+guo cheng	过秤	1535
+guo jia zhi liang biao zhun	国家质量标准	1535
+guo qin lun	过秦论	1535
+guo jia ding jia	国家定价	1530
+guo jing wei sheng jian yi fa	国境卫生检疫法	1530
+guo liao	果料	1530
+guo ji fu nv jie	国际妇女节	1525
+guo shi ze ren	过失责任	1525
+guo bu qu le	过不去了	1520
+guo qi shi pin	过期食品	1520
+guo jia bu chang	国家补偿	1518
+guo ji you jian	国际邮件	1515
+guo yang hua ben jia xian	过氧化苯甲酰	1515
+guo jia tu di guan li ju	国家土地管理局	1511
+guo wu	过午	1510
+guo ji guan cha	国际观察	1505
+guo jie fei	过节费	1505
+guo shu zai pei	果树栽培	1500
+guo jia jing ji zheng ce	国家经济政策	1491
+guo bao he	过饱和	1490
+guo bu chu	果不出	1490
+guo chan jing pin	国产精品	1480
+guo ji dan wei zhi	国际单位制	1475
+guo lv xin	过滤芯	1475
+guo fu	果脯	1470
+guo jia biao zhun ju	国家标准局	1470
+guo tu ting	国土厅	1470
+guo qi le	过气了	1469
+guo ji ban quan	国际版权	1460
+guo mai	过卖	1460
+guo dai	国代	1455
+guo dan	过淡	1455
+guo nian hao	过年好	1455
+guo ying ben ling	过硬本领	1455
+guo bing	果柄	1450
+guo ji tian wen xue lian he hui	国际天文学联合会	1450
+guo an	过暗	1445
+guo jia cai fu	国家财富	1445
+guo yu	过誉	1445
+guo ji hai shi zu zhi	国际海事组织	1440
+guo jia min zu shi wu wei yuan hui	国家民族事务委员会	1436
+guo fen	果粉	1435
+guo yang hua wu mei	过氧化物酶	1435
+guo fang gong cheng	国防工程	1430
+guo yu ge	国语歌	1430
+guo cheng diao yong	过程调用	1425
+guo guo fu ren	虢国夫人	1425
+guo ji jing ji zu zhi	国际经济组织	1425
+guo ji zu tan	国际足坛	1425
+guo zhan	国展	1424
+guo du fang mu	过度放牧	1420
+guo cheng hua	过程化	1415
+guo min jing ji ji hua	国民经济计划	1415
+guo da xia	郭大侠	1410
+guo ji fan zui	国际犯罪	1400
+guo ji qing suan	国际清算	1400
+guo ji si fa	国际司法	1395
+guo ji ge yue	过几个月	1390
+guo ji ren quan gong yue	国际人权公约	1390
+guo wen	国文	1379
+guo cheng mo xing	过程模型	1370
+guo du qi jian	过渡期间	1370
+guo ji hong shi zi hui	国际红十字会	1370
+guo ji da shi	国际大师	1365
+guo jia gong min	国家公民	1360
+guo shi zhi ren si wang zui	过失致人死亡罪	1360
+guo fang dong yuan wei yuan hui	国防动员委员会	1357
+guo bin jiu dian	国宾酒店	1355
+guo jia tong yong yu yan wen zi fa	国家通用语言文字法	1355
+guo shi fan	过失犯	1345
+guo xi	过稀	1345
+guo re qi	过热器	1330
+guo ji ze ren	国际责任	1325
+guo mao qiao	国贸桥	1320
+guo ji shang yong ji qi gong si	国际商用机器公司	1315
+guo ji zhi jie tou zi	国际直接投资	1315
+guo ji mao yi guan li	国际贸易惯例	1310
+guo ji chu bei	国际储备	1300
+guo ji fa zhu ti	国际法主体	1295
+guo jia ji hua sheng yu wei yuan hui	国家计划生育委员会	1295
+guo zang	国葬	1295
+guo zhang	过账	1295
+guo ji jing ji xin zhi xu	国际经济新秩序	1290
+guo jia ji tuan	国家集团	1290
+guo shu	国树	1290
+guo jia huo bi zheng ce	国家货币政策	1284
+guo ji shui wu	国际税务	1280
+guo jiao bu	裹脚布	1280
+guo li qiang sheng	国力强盛	1280
+guo ji fa zhun ze	国际法准则	1275
+guo nei zheng fu	国内政府	1275
+guo ji tou ji	国际投机	1270
+guo biao ma	国标码	1265
+guo hui shan	国会山	1265
+guo ji guan xi zhun ze	国际关系准则	1265
+guo zuo	国祚	1260
+guo min hui yi	国民会议	1255
+guo jia an quan gong zuo	国家安全工作	1251
+guo ji xi guan	国际习惯	1250
+guo ji wai hui shi chang	国际外汇市场	1245
+guo ying shang ye	国营商业	1245
+guo you tu di zu lin	国有土地租赁	1245
+guo qi shu ju	过期数据	1241
+guo jia zhi ye yi shi zi ge kao shi	国家执业医师资格考试	1235
+guo nei pei xun	国内培训	1235
+guo dan pi	果丹皮	1215
+guo ji	国技	1215
+guo xing ye	国姓爷	1200
+guo fang jiao yu fa	国防教育法	1195
+guo jia fa guan xue yuan	国家法官学院	1194
+guo chu ju	国储局	1185
+guo jiang bu guo	国将不国	1185
+guo chan yin xiang	国产音响	1180
+guo chu	过出	1180
+guo ji mao yi zheng duan	国际贸易争端	1180
+guo ru gong yan	果如公言	1180
+guo ru jun yan	果如君言	1180
+guo wan jie	过完节	1180
+guo xie tian	过些天	1180
+guo chang jiang	过长江	1175
+guo zu	裹足	1175
+guo tan suan na	过碳酸钠	1165
+guo cheng shu ju	过程数据	1160
+guo ji zhi fu	国际支付	1160
+guo bu guo	过不过	1155
+guo re zheng qi	过热蒸汽	1155
+guo ji du shi	国际都市	1150
+guo jia bao	国家报	1145
+guo tu kai fa	国土开发	1145
+guo ji shou zhi ping heng biao	国际收支平衡表	1140
+guo jia dong liang	国家栋梁	1140
+guo lu ji shui	锅炉给水	1135
+guo wu yuan qiao wu ban gong shi	国务院侨务办公室	1135
+guo jia he an quan ju	国家核安全局	1134
+guo zhang	国丈	1130
+guo ji biao zhun shu hao	国际标准书号	1125
+guo tong gang ling	国统纲领	1115
+guo bu	裹布	1111
+guo gang	过港	1111
+guo han	国函	1111
+guo hei	果黑	1111
+guo hong	过红	1111
+guo huai shu	国槐树	1111
+guo kao	国考	1111
+guo lei	过累	1111
+guo man	裹满	1111
+guo mi	国密	1111
+guo mo	国模	1111
+guo pai	过牌	1111
+guo qi de	过气的	1111
+guo qian	过浅	1111
+guo qu	国区	1111
+guo shou	过熟	1111
+guo xian	过线	1111
+guo xian le	过线了	1111
+guo zi	馃子	1111
+guo zi kuang	国字框	1111
+guo liu	过流	1107
+guo jie	过界	1105
+guo tong hui	国统会	1105
+guo le jie	过了节	1102
+guo li yi zhuan	国立艺专	1100
+guo xing	国兴	1096
+guo jia bian jing	国家边境	1090
+guo shi wu shuang	国士无双	1090
+guo du xing shi	过渡形式	1080
+guo jia chu ru jing jian yan jian yi ju	国家出入境检验检疫局	1076
+guo chun jie le	过春节了	1075
+guo ji jing ji guan xi	国际经济关系	1075
+guo lv fa	过滤法	1075
+guo dong bu ding	果冻布丁	1072
+guo zheng zong	裹蒸粽	1066
+guo wang chuan zhi	过往船只	1060
+guo jie qian	过节前	1059
+guo xie	裹胁	1050
+guo jia ji ben yao wu mu lu	国家基本药物目录	1039
+guo po shan he zai	国破山河在	1035
+guo ji guan xi xue	国际关系学	1025
+guo jia neng yuan wei yuan hui	国家能源委员会	1018
+guo ba yin jiu si	过把瘾就死	1015
+guo ji shui fa	国际税法	1015
+guo jia zun yan	国家尊严	1015
+guo wu guan	过五关	1015
+guo ji bao li	国际保理	1005
+guo le	掴了	1000
+guo luan	裹乱	999
+guo tian	过天	999
+guo xie zhe	裹挟着	999
+guo xin	过心	999
+guo ji hua yuan	国际花园	992
+guo jia gong zheng	国家公证	990
+guo jin qian fan	过尽千帆	990
+guo wai cheng shi	国外城市	990
+guo jie le	过界了	987
+guo shi	过湿	986
+guo bao rou	锅包肉	985
+guo ge	过个	980
+guo ge nian	过个年	980
+guo ji cai tuan	国际财团	980
+guo tai ren shou	国泰人寿	975
+guo yang hua na	过氧化钠	975
+guo qi bu hou	过期不候	970
+guo xue wang	国学网	970
+guo cai zhi	果菜汁	965
+guo wang	过望	965
+guo ji lian yun	国际联运	960
+guo jia xing shi	国家形式	960
+guo jia kong bu zhu yi	国家恐怖主义	958
+guo shu guan tou	果蔬罐头	950
+guo jia tu fa gong gong shi jian zong ti ying ji yu an	国家突发公共事件总体应急预案	944
+guo du ju	过渡句	930
+guo lv xing	过滤性	930
+guo san guan	过三关	930
+guo wu bu shi	过午不食	930
+guo chan ye	国产业	925
+guo min xing xiu ke	过敏性休克	921
+guo ji zhi du	国际制度	920
+guo qi za zhi	过期杂志	920
+guo wu guan zhan liu jiang	过五关斩六将	916
+guo yang hua qing mei	过氧化氢酶	915
+guo ji kai fa	国际开发	910
+guo lv bu	过滤布	910
+guo shi zhi ren	过失致人	905
+guo qi fa	国旗法	900
+guo la	过辣	899
+guo suan	过酸	899
+guo xian	过咸	899
+guo shi guan	国史馆	895
+guo gai tou	锅盖头	885
+guo ji ao lin pi ke wei yuan hui	国际奥林匹克委员会	885
+guo jia si fa ji guan	国家司法机关	885
+guo duan xing	果断性	880
+guo nei pai ming	国内排名	880
+guo qi	果期	876
+guo chou jia hen	国仇家恨	875
+guo ji chong tu	国际冲突	875
+guo cheng you hua	过程优化	870
+guo dian	国典	870
+guo wen hua	国文化	866
+guo qu he jiang lai	过去和将来	865
+guo li cha	果粒茶	848
+guo jia zi ran zai hai jiu zhu ying ji yu an	国家自然灾害救助应急预案	842
+guo ji pai lian	国际排联	840
+guo ji shang xue yuan	国际商学院	839
+guo lv zhi	过滤纸	835
+guo ji jing ji fa xue	国际经济法学	830
+guo min xue xiao	国民学校	830
+guo fen kua zhang	过分夸张	825
+guo nei chu xu	国内储蓄	825
+guo fen jiang jiu	过分讲究	820
+guo you lin	国有林	810
+guo shi sha ren	过失杀人	805
+guo ji mao yi fa wei yuan hui	国际贸易法委员会	795
+guo ji xing fa	国际刑法	795
+guo you gu dong zhuan rang suo chi shang shi gong si gu fen guan li zan xing ban fa	国有股东转让所持上市公司股份管理暂行办法	792
+guo shu xue	果树学	790
+guo zi ji jiu	国子祭酒	790
+guo jia fa ding ji liang dan wei	国家法定计量单位	785
+guo jiao men	国脚们	785
+guo nei shou jia	国内售价	785
+guo qi	国器	785
+guo ji da shi	国际大事	780
+guo zhong zhi guo	国中之国	775
+guo ba cai	锅巴菜	774
+guo ji tou zi fa	国际投资法	770
+guo ji mao yi jie suan	国际贸易结算	765
+guo ji xin yu	国际信誉	765
+guo ling ding yang	过零丁洋	765
+guo shi	裹尸	765
+guo cheng	果城	760
+guo lv neng li	过滤能力	760
+guo zha	果渣	760
+guo zhi ping	果汁瓶	760
+guo jia ke xue ji shu wei yuan hui	国家科学技术委员会	758
+guo you rou	过油肉	754
+guo bu lai	过不来	745
+guo cheng can shu	过程参数	745
+guo fei	过费	745
+guo min suo de	国民所得	740
+guo xi	国戏	735
+guo yu kao jin	过于靠近	735
+guo jia jing ji wei yuan hui	国家经济委员会	730
+guo ji ren quan fa	国际人权法	726
+guo min dang yuan	国民党员	725
+guo su ji	过塑机	725
+guo yi tang	国医堂	725
+guo chou	国仇	720
+guo ge sheng	国歌声	720
+guo jing fei	过境费	715
+guo wu yuan fa zhi ju	国务院法制局	715
+guo jia bao zang	国家宝藏	710
+guo jia ji xie gong ye ju	国家机械工业局	708
+guo min xing ji bing	过敏性疾病	708
+guo du fa zhan	过度发展	700
+guo he	果盒	700
+guo ji lian xi	国际联系	700
+guo cheng miao shu	过程描述	695
+guo zhai zhuan xiang zi jin	国债专项资金	694
+guo jin	裹进	690
+guo zi jian ji jiu	国子监祭酒	690
+guo wu yuan zheng quan wei yuan hui	国务院证券委员会	687
+guo ji yu	国际语	685
+guo lu pei jian	锅炉配件	685
+guo chong	过充	683
+guo fang	过放	683
+guo ji you	国际游	680
+guo lv shui	过滤水	680
+guo yu feng fu	过于丰富	675
+guo ji jiu fen	国际纠纷	670
+guo qi	锅气	669
+guo ji jun shi fa ting	国际军事法庭	660
+guo jiang ping	果酱瓶	660
+guo nei shui shou	国内税收	655
+guo ni	过腻	655
+guo wan nian hou	过完年后	655
+guo ji si fa xue	国际司法学	651
+guo ji si fa xue	国际私法学	650
+guo leng shui	过冷水	650
+guo nei zhong cai	国内仲裁	645
+guo tui	裹腿	645
+guo ji lao gong gong yue	国际劳工公约	640
+guo mao xi	国贸系	640
+guo xia tian	过夏天	640
+guo ji gong gong guan xi	国际公共关系	635
+guo ji kai fa xie hui	国际开发协会	635
+guo jia gai kuang	国家概况	635
+guo da dai biao	国大代表	630
+guo cheng zhong jiang	过程中将	626
+guo du cao lao	过度操劳	625
+guo qi wu xiao	过期无效	625
+guo ji lao dong	国际劳动	620
+guo zhi shou	国之首	620
+guo fang wei yuan	国防委员	605
+guo hua zhan	国画展	600
+guo jia ti yu guan	国家体育馆	599
+guo jia gong wu yuan fa	国家公务员法	596
+guo min xiao xue	国民小学	590
+guo xiao chuan	郭小川	588
+guo cheng ti	过程体	585
+guo jia jie gou xing shi	国家结构形式	584
+guo jia cai zheng zheng ce	国家财政政策	581
+guo jie hao	过节好	581
+guo fang	过访	580
+guo fang li yi	国防利益	575
+guo jia xing zheng ji guan gong wen chu li ban fa	国家行政机关公文处理办法	570
+guo ke hui	国科会	570
+guo rong	国容	570
+guo bing	锅饼	569
+guo ke xiang	果壳箱	565
+guo de xiang	过得像	560
+guo du dai	过渡带	556
+guo jia shen pan ji guan	国家审判机关	556
+guo ji ri	国际日	555
+guo wu yuan bu	国务院部	551
+guo du xue xi	过度学习	550
+guo shou	过寿	550
+guo min can zheng hui	国民参政会	545
+guo sang	国丧	545
+guo qi	国戚	535
+guo you ji guo you kong gu gong ye qi ye	国有及国有控股工业企业	535
+guo ji dai kuan	国际贷款	530
+guo li	国礼	530
+guo wai dai hao	国外代号	530
+guo er neng gai	过而能改	525
+guo wu yuan zu zhi fa	国务院组织法	523
+guo fang zhi chu	国防支出	520
+guo fang zi	过房子	520
+guo zao bo dong	过早搏动	520
+guo jia bao mi fa	国家保密法	516
+guo lai ma	过来吗	515
+guo shui mian	过水面	515
+guo bu dao	过不到	510
+guo gu ren zhuang	过故人庄	510
+guo ji fu xing kai fa yin hang	国际复兴开发银行	510
+guo ji lie che	国际列车	510
+guo jia zhi dao jia	国家指导价	510
+guo min chu xu	国民储蓄	510
+guo min zong shou ru	国民总收入	510
+guo xiang	果乡	510
+guo ruo	果若	505
+guo yi	国医	489
+guo cheng ding yi	过程定义	485
+guo gong guan xi	国共关系	485
+guo ji wei wang	国际威望	485
+guo jiao de	果胶的	485
+guo wang	过旺	484
+guo jiao de	国教的	480
+guo su	过宿	480
+guo wu	果物	480
+guo yang hua mei	过氧化酶	480
+guo za	裹扎	480
+guo jia qing gong ye ju	国家轻工业局	479
+guo cheng shuo ming	过程说明	475
+guo jia guo nei mao yi ju	国家国内贸易局	471
+guo cheng yu yan	过程语言	469
+guo hao	过号	467
+guo jia bian jie	国家边界	467
+guo yue tuan	国乐团	465
+guo bu ke yi ri wu jun	国不可一日无君	460
+guo wei de	果味的	460
+guo ji zhi	国际制	455
+guo bu guan	过不惯	450
+guo ji cai pan	国际裁判	450
+guo jia zhuan ying	国家专营	450
+guo si	国四	444
+guo ji pai	国际牌	440
+guo tu	国图	439
+guo bu de	过不得	435
+guo ji mao yi shu yu jie shi tong ze	国际贸易术语解释通则	435
+guo ji zong dui	国际纵队	435
+guo ku zhai quan	国库债券	435
+guo mu cheng song	过目成诵	435
+guo ji sai che chang	国际赛车场	431
+guo fen yong ji	过分拥挤	430
+guo shu yuan	果树园	430
+guo zai dian liu	过载电流	430
+guo cheng gai jin	过程改进	427
+guo ji yin hang	国际银行	426
+guo ji ri qi bian geng xian	国际日期变更线	425
+guo wang shen mi	过往甚密	425
+guo xiao	国校	425
+guo zhai quan	国债券	425
+guo ji shi zheng	国际时政	420
+guo qiang min fu	国强民富	415
+guo xie shi ri	过些时日	415
+guo ji jia shi zhi zhao	国际驾驶执照	413
+guo gong zhuang	郭公庄	411
+guo ji nian	国际年	410
+guo lu ji zu	锅炉机组	410
+guo fen lao lei	过分劳累	405
+guo cai pi fa shi chang	果菜批发市场	404
+guo lv zhu	过滤柱	403
+guo ji te ji da shi	国际特级大师	400
+guo ying shi ye	国营事业	400
+guo ji da du shi	国际大都市	395
+guo zhi ruan tang	果汁软糖	393
+guo jia jian zhu cai liao gong ye ju	国家建筑材料工业局	391
+guo gong he tan	国共和谈	390
+guo ji tuan	国集团	389
+guo hua chang	郭华昌	385
+guo jin mei	郭金梅	385
+guo jing kun	郭竞坤	385
+guo qing bin	郭庆斌	385
+guo xian chao	郭献朝	385
+guo jing gong lu	过境公路	384
+guo you nong chang shui fei gai ge	国有农场税费改革	383
+guo wei	过为	382
+guo du yuan su	过渡元素	380
+guo hui zong huo an	国会纵火案	380
+guo ji yan ci	过激言辞	380
+guo ji zhi cai	国际制裁	380
+guo jia gong su ren	国家公诉人	380
+guo xian ling	郭县令	377
+guo jia wei xian fei wu ming lu	国家危险废物名录	376
+guo gai mian	锅盖面	372
+guo cheng bao	过程包	370
+guo tong zheng quan	国通证券	370
+guo mao zhong xin	国贸中心	367
+guo mi ban	国密办	365
+guo bing	国柄	360
+guo jia da ji	国家大计	360
+guo nan cai	国难财	355
+guo ji hang kong gang	国际航空港	354
+guo jia mei tan gong ye ju	国家煤炭工业局	352
+guo min yin hang	国民银行	352
+guo he zu zi	过河卒子	350
+guo ren bao dong	国人暴动	350
+guo yu xiao xin	过于小心	350
+guo zhi xing	国之行	350
+guo de za yang	过的咋样	349
+guo guo er	蝈蝈儿	345
+guo ji yao wen	国际要闻	340
+guo lu dao	锅炉岛	340
+guo nei chang	国内厂	340
+guo zhen hui	果真会	340
+guo zhi si wei	国之四维	340
+guo lai qian	过来前	339
+guo jia guo you zi chan guan li ju	国家国有资产管理局	337
+guo qu qu	过去取	336
+guo tang feng	过堂风	335
+guo jia gong quan	国家公权	330
+guo li xue xiao	国立学校	330
+guo bu zhu	裹不住	325
+guo min bao	国民报	325
+guo jia	果荚	321
+guo hen jia chou	国恨家仇	320
+guo lv chi	过滤池	320
+guo zhai fa	国债法	318
+guo zhuang	郭庄	316
+guo du bao he	过度饱和	315
+guo fu bing qiang	国富兵强	315
+guo hua qing gong	过华清宫	315
+guo ji zheng shu	国籍证书	315
+guo lai guo qu	过来过去	310
+guo li	国历	307
+guo ji huo bi zhi du	国际货币制度	305
+guo ji jin rong bao	国际金融报	305
+guo ran hui	果然会	305
+guo yi yan	过一眼	301
+guo ji pai	国际派	300
+guo ji xiang qi te ji da shi	国际象棋特级大师	300
+guo fen xiao xin	过分小心	295
+guo he wen ti	过河问题	295
+guo ji wen ti yan jiu zhong xin	国际问题研究中心	295
+guo jia yu ge ming	国家与革命	295
+guo ji chuang mo xie hui	国际窗膜协会	292
+guo cheng fen xiang	过程分享	291
+guo jia zhi jie tou zi	国家直接投资	291
+guo jia zhong dian bao hu ye sheng dong wu ming lu	国家重点保护野生动物名录	290
+guo shi zhe	过失者	290
+guo you zi chan chan quan jie ding	国有资产产权界定	288
+guo er	聒耳	285
+guo fang wen xue	国防文学	285
+guo you hua zheng ce	国有化政策	283
+guo die	果碟	280
+guo rou yin liao	果肉饮料	280
+guo wu	过误	280
+guo ji fa zhan yuan zhu	国际发展援助	279
+guo xiao dong	郭晓冬	279
+guo ji chong fu zheng shui	国际重复征税	277
+guo ji qi xiang zu zhi	国际气象组织	275
+guo min su zhi jiao yu	国民素质教育	275
+guo tong	国通	272
+guo ji zhu yi zhe	国际主义者	270
+guo ge	国格	268
+guo jia jin chu kou guan li wei yuan hui	国家进出口管理委员会	265
+guo liu suan na	过硫酸钠	265
+guo men bu ru	过门不入	260
+guo neng ru ci	果能如此	260
+guo ci kou	郭茨口	259
+guo li mian	锅里面	256
+guo ao cun	国奥村	255
+guo ji da xun huan	国际大循环	255
+guo min wai jiao	国民外交	255
+guo chong	过冲	254
+guo jia wu xian dian guan li wei yuan hui	国家无线电管理委员会	252
+guo wu yuan wai shi ban	国务院外事办	250
+guo jia neng yuan tou zi gong si	国家能源投资公司	247
+guo tu zi yuan ting zheng gui ding	国土资源听证规定	246
+guo ji gui dao	国际轨道	245
+guo min zhong xue	国民中学	245
+guo wang yu wang hou	国王与王后	245
+guo jia ke xue ji shu jiang li tiao li	国家科学技术奖励条例	243
+guo ba rou pian	锅巴肉片	241
+guo gao ping jia	过高评价	240
+guo hai ping	郭海萍	240
+guo hong lv deng	过红绿灯	240
+guo ji biao zhun lian xu chu ban	国际标准连续出版	240
+guo ji biao zhun lian xu chu ban wu	国际标准连续出版物	240
+guo ji biao zhun lian xu chu ban wu hao	国际标准连续出版物号	240
+guo qu shu yue	过去数月	240
+guo ji wang qiu zhong xin	国际网球中心	238
+guo jia jian she yong di	国家建设用地	238
+guo you qi ye ling dao ren yuan lian jie cong ye ruo gan gui ding	国有企业领导人员廉洁从业若干规定	236
+guo tie jiao	锅贴饺	235
+guo du shi	过渡式	230
+guo lv shi	过滤时	230
+guo jia chu ban ju	国家出版局	229
+guo lv te shu zi fu	过滤特殊字符	228
+guo wu yuan jing ji mao yi ban gong shi	国务院经济贸易办公室	228
+guo jia guo fang dong yuan wei yuan hui	国家国防动员委员会	227
+guo yin	果因	227
+guo bian hu	锅边糊	225
+guo ji fa yuan gui yue	国际法院规约	225
+guo yang hua gai	过氧化钙	222
+guo nei shi zheng	国内时政	220
+guo jia ji liang ju	国家计量局	219
+guo ren zhang	果仁张	219
+guo xue zhe	国学者	219
+guo you qi ye jian shi hui zan xing tiao li	国有企业监事会暂行条例	217
+guo jia fang zhi gong ye ju	国家纺织工业局	216
+guo jia shi you he hua xue gong ye ju	国家石油和化学工业局	216
+guo pei	国赔	215
+guo wai hui kuan	国外汇款	215
+guo yang hua wu mei ti	过氧化物酶体	215
+guo yun chang long	国运昌隆	215
+guo da	掴打	210
+guo ji huo wu yun shu bao xian	国际货物运输保险	210
+guo ji zhi shi chan quan fa	国际知识产权法	208
+guo jia ji ben yang lao bao xian	国家基本养老保险	207
+guo jie er	过节儿	205
+guo pin chang	果品厂	205
+guo you qi ye qing chan he zi ban fa	国有企业清产核资办法	205
+guo ci	国瓷	204
+guo min da sha	国民大厦	204
+guo ji xue shu jiao liu zhong xin	国际学术交流中心	203
+guo jia ren shi ju	国家人事局	202
+guo fu	国府	201
+guo shi qiang	郭士强	201
+guo ci yi wang	过此以往	200
+guo duan jue ce	果断决策	200
+guo jia fu qiang	国家富强	200
+guo ji ping lian	国际乒联	199
+guo kao gong gao	国考公告	199
+guo fang qi zi	国防七子	198
+guo zhi da shi	国之大事	196
+guo ji lan lian	国际篮联	195
+guo min nian jin	国民年金	195
+guo qi qi kan	过期期刊	195
+guo qing qi tian	国庆七天	195
+guo tian de	过甜的	195
+guo zhai	国宅	195
+guo jia zheng wu	国家政务	194
+guo qing te hui	国庆特惠	194
+guo qing jie hou	国庆节后	193
+guo wai zhang	国外长	193
+guo bin shang yuan	国宾上院	192
+guo fen shu xian	过分数线	192
+guo jia an quan ji guan	国家安全机关	192
+guo jia ye jin gong ye ju	国家冶金工业局	192
+guo wan shi yi	过完十一	192
+guo zhong qiu jie	过中秋节	192
+guo chi ri	国耻日	191
+guo ji sai chang	国际赛场	191
+guo jia jin chu kou yin hang	国家进出口银行	191
+guo min jing wei dui	国民警卫队	191
+guo ruo tian	郭若天	191
+guo ji fa wei yuan hui	国际法委员会	190
+guo yu	过逾	190
+guo zi jiu	果子酒	190
+guo min ji shu	国民技术	189
+guo wen si	郭文思	189
+guo ji shou shi	国际手势	188
+guo da shou	过大寿	187
+guo qi qi	郭崎琪	187
+guo qing shou chao bao	国庆手抄报	187
+guo qing xian	郭庆仙	187
+guo yi qi	郭怡琪	187
+guo yu fang	郭裕芳	187
+guo bao kun	郭宝坤	186
+guo cheng lu	国城路	186
+guo jia fa ding	国家法定	186
+guo le yuan dan	过了元旦	186
+guo lian shui chan	国联水产	185
+guo ze wu dan gai	过则勿惮改	185
+guo ji she ji	国际设计	184
+guo ze yu	郭泽宇	184
+guo zhi	粿汁	183
+guo ban chang	过半场	182
+guo jia chan ye ji shu zheng ce	国家产业技术政策	182
+guo jia hui zhan zhong xin	国家会展中心	182
+guo du yin jiu	过度饮酒	181
+guo ji jing gong	国机精工	181
+guo jia xin wen	国家新闻	181
+guo ji sai shi	国际赛事	180
+guo meng suan jia	过锰酸钾	180
+guo ai hua	郭爱华	179
+guo jia an quan guan	国家安全观	179
+guo jia an quan jiao yu	国家安全教育	179
+guo chan hang mu	国产航母	178
+guo ji you yi bo wu guan	国际友谊博物馆	178
+guo min xing zi dian	过敏性紫癜	178
+guo ji si fa	国际私法	177
+guo shi jue xing	果实觉醒	177
+guo ji shi di gong yue	国际湿地公约	176
+guo jia you se jin shu gong ye ju	国家有色金属工业局	176
+guo bao he rong ye	过饱和溶液	175
+guo jia hao zhao	国家号召	173
+guo le jin nian	过了今年	173
+guo feng xiao	郭奉孝	172
+guo jing yun	郭景云	171
+guo xing jia yuan	国兴家园	171
+guo du zhen	过渡帧	170
+guo ji huo bi ji jin xie ding	国际货币基金协定	170
+guo jia li chang	国家立场	170
+guo jia yi xue	国家医学	170
+guo qing wan hui	国庆晚会	170
+guo shai zi	过筛子	170
+guo song min	郭松民	170
+guo yue she	国乐社	170
+guo zhong shui wu	国中水务	170
+guo jia fan zha zhong xin	国家反诈中心	169
+guo jia tuo	郭家沱	169
+guo lei zhuang	郭磊庄	168
+guo qing da cu	国庆大促	168
+guo cheng qiu	裹成球	167
+guo jing si fang	国境四方	167
+guo li fang	果立方	167
+guo nei yi qing	国内疫情	167
+guo qing jia qi	国庆假期	167
+guo yin tian	过阴天	167
+guo shi yi tiao	国十一条	166
+guo jia jue suan	国家决算	165
+guo mu qin jie	过母亲节	165
+guo shi shang hai	过失伤害	165
+guo wang you xi	国王游戏	165
+guo zi jiang	果子酱	165
+guo fen	裹粉	164
+guo jia li xing jie yue	国家厉行节约	164
+guo li ci	国礼瓷	164
+guo wang bing	国王饼	164
+guo fu wan jia	国服玩家	163
+guo jia ji ben jian she wei yuan hui	国家基本建设委员会	163
+guo zi bin	郭子斌	163
+guo chan dan ji	国产单机	162
+guo yu jia	国与家	162
+guo fa gu fen	国发股份	161
+guo fu han xin	国服韩信	161
+guo zhi ji liang	国之脊梁	161
+guo fu ma chao	国服马超	160
+guo ji li	过激励	160
+guo nei hang kong	国内航空	160
+guo qing fu li	国庆福利	160
+guo jia you li liang	国家有力量	159
+guo zheng liang	郭正亮	159
+guo chan zhi guang	国产之光	158
+guo jia fen shu xian	国家分数线	158
+guo jia si fa kao shi ying shi gui ze	国家司法考试应试规则	158
+guo liang guan	过两关	158
+guo mian yi chang	国棉一厂	158
+guo qu la	过去啦	158
+guo tian long	郭天龙	158
+guo du jie dao	郭杜街道	157
+guo huo lu	国货路	157
+guo ji hua lian	国际滑联	157
+guo ji zhi wu bao hu gong yue	国际植物保护公约	157
+guo shi qian wan jia	国是千万家	157
+guo tong tong	郭彤彤	157
+guo lian zhen	郭连镇	156
+guo ji da xue sheng ti yu lian he hui	国际大学生体育联合会	155
+guo ji xiang qi jie	国际象棋界	155
+guo wu yuan gang ao ban gong shi	国务院港澳办公室	155
+guo jie ri	过节日	154
+guo yan cun	果堰村	154
+guo le xian	过了线	153
+guo qing jia jie	国庆佳节	153
+guo ji xin yong dan bao	国际信用担保	152
+guo wu yuan xin fang tiao li	国务院信访条例	152
+guo zhong qiu	过中秋	152
+guo yu pin fan	过于频繁	151
+guo ke yu	郭柯宇	150
+guo min dang ge ming wei yuan hui	国民党革命委员会	150
+guo nan ri	国难日	150
+guo nei you jia	国内油价	150
+guo nian fu li	过年福利	150
+guo nei tou zi min yong hang kong ye gui ding	国内投资民用航空业规定	148
+guo shi jian	过时间	148
+guo wang shi zi che zhan	国王十字车站	148
+guo ban ma xian	过斑马线	147
+guo jia hua ju yuan	国家话剧院	147
+guo liu ji	过六级	147
+guo zi yu	郭子瑜	147
+guo feng da dian	国风大典	146
+guo ji shi jian	国际事件	146
+guo jia yi	郭家毅	146
+guo shu yin	果蔬饮	146
+guo ying lin chang	国营林场	146
+guo zhan hao	郭展豪	146
+guo jia ban tu	国家版图	145
+guo le qing ming	过了清明	145
+guo min du su	过敏毒素	145
+guo zhai yi ji zi ying shang	国债一级自营商	145
+guo zhong liang zi	国仲凉子	145
+guo jia neng yuan	国家能源	144
+guo nian huo	过年货	144
+guo ying shi tang	国营食堂	144
+guo he er cun	国和二村	143
+guo nei xue	国内学	143
+guo wai ren	国外人	143
+guo ji qing nian	国际青年	142
+guo jia wen ping	国家文凭	142
+guo xin ju shi	果心居士	142
+guo er tong jie	过儿童节	141
+guo chao hui	郭朝辉	140
+guo ji bo yi	国际博弈	140
+guo ji sheng yu	国际声誉	140
+guo ji xing shi fa yuan gui yue	国际刑事法院规约	140
+guo jia an ding	国家安定	140
+guo li zhen	郭里镇	140
+guo wu yuan wai shi ban gong shi	国务院外事办公室	140
+guo zhi lv	国之旅	140
+guo gong	国公	139
+guo qi yao pin	过期药品	139
+guo shen me	过什么	139
+guo zi xiao xin	国资小新	139
+guo nian bu da yang	过年不打烊	138
+guo ji chang	国际场	137
+guo jia jian li	国家建立	137
+guo zhi da ji	国之大计	137
+guo dong zhi	过冬至	136
+guo ji shang shi zhong cai fa	国际商事仲裁法	136
+guo jia fen pei	国家分配	136
+guo jia nong ye wei yuan hui	国家农业委员会	136
+guo shui men	过水门	136
+guo zhi gui bao	国之瑰宝	136
+guo qing ming jie	过清明节	135
+guo shi neng li	果实能力	135
+guo fen jie du	过分解读	134
+guo chan yi miao	国产疫苗	133
+guo fu bang	国服榜	133
+guo le mei	过了没	133
+guo yuan dan	过元旦	133
+guo yue da dian	国乐大典	133
+guo fang ban	国防班	132
+guo fang guan nian	国防观念	132
+guo luo	蜾蠃	132
+guo xiang jiang	过湘江	132
+guo du jie chu	过度接触	131
+guo gang tang	郭刚堂	131
+guo huo zhi guang	国货之光	131
+guo chang xi	过场戏	130
+guo dao zhong jian	过道中间	130
+guo le ge nian	过了个年	130
+guo yin	国音	130
+guo zhi li qi	国之利器	130
+guo jia an quan jiao yu ri	国家安全教育日	129
+guo jia gong ji ri	国家公祭日	129
+guo jia jian cha wei yuan hui	国家监察委员会	129
+guo min xing jie mo yan	过敏性结膜炎	129
+guo nian kuai le	过年快乐	129
+guo yuan qiang	郭元强	129
+guo ji zheng	国际郑	128
+guo lu ya li rong qi jian yan suo	锅炉压力容器检验所	128
+guo nian lei	过年累	128
+guo qing zhu ti	国庆主题	128
+guo qi xi	过七夕	127
+guo shuang shi yi	过双十一	126
+guo xiao tian	郭啸天	126
+guo yi fen	过一分	126
+guo dun liang zi	国盾量子	125
+guo er wang jia	国而忘家	125
+guo he lu	国和路	125
+guo qing bu fang jia	国庆不放假	125
+guo yang jie	过洋节	125
+guo ta dou fu	锅塌豆腐	124
+guo tian cai	郭添财	124
+guo wai xue	国外学	124
+guo wan jun	郭万钧	124
+guo wang li cha de	国王理查德	124
+guo yi min wei ben	国以民为本	124
+guo bi er	馃箅儿	123
+guo ji xiao fei zhe	国际消费者	123
+guo jia ming	郭家铭	123
+guo lao	过老	123
+guo liu suan an	过硫酸铵	123
+guo qu	过屈	123
+guo shen	过伸	123
+guo sheng dan	过圣诞	123
+guo wang yun yan	过往云烟	123
+guo xing	果形	123
+guo yang gen	过氧根	123
+guo yi ba zhang	掴一巴掌	123
+guo ping dui	国乒队	122
+guo du ban	过渡板	121
+guo jia xun zhang	国家勋章	121
+guo lu niao	过路鸟	121
+guo qing qi tian le	国庆七天乐	121
+guo zhi da zhe	国之大者	121
+guo chan you xi	国产游戏	120
+guo kao bao ming	国考报名	120
+guo jia te se	国家特色	118
+guo qing ming	过清明	118
+guo tian yu	郭田雨	118
+guo yi ben xian	过一本线	118
+guo you xi	过游戏	118
+guo ge dong	过个冬	117
+guo jia wen	郭嘉文	117
+guo lian an	国联安	117
+guo qing xiao chang jia	国庆小长假	117
+guo yan shi	裹严实	117
+guo an ban	国安办	116
+guo er ren shi jie	过二人世界	116
+guo le qi	过了期	116
+guo zhan bin guan	国展宾馆	116
+guo jie qi jian	过节期间	115
+guo ju tang	果聚糖	115
+guo ku ju	国库局	115
+guo ji zhong zhuang	国机重装	114
+guo zhe bei zi	裹着被子	114
+guo ji zhi fu shou duan	国际支付手段	113
+guo jia qiang sheng	国家强盛	113
+guo bi ting	郭碧婷	112
+guo bao	国保	111
+guo li	郭利	111
+guo pai	国拍	111
+guo tao	郭涛	111
+guo wan	锅碗	111
+guo yong	国用	111
+guo you zhi	郭攸之	111
+guo yu shui ping	国语水平	111
+guo zhao	果照	111
+guo duan chu shou	果断出手	110
+guo ji pai	过激派	110
+guo jia hai shang sou jiu ying ji yu an	国家海上搜救应急预案	110
+guo xin tong xin	国信通信	110
+guo you qi ye fa	国有企业法	110
+guo jia cun	郭家村	109
+guo jia di zhen ying ji yu an	国家地震应急预案	109
+guo le shi er dian	过了十二点	109
+guo xiao pang	郭小胖	109
+guo nei zi	国内资	108
+guo qing dang tian	国庆当天	108
+guo sheng dan jie	过圣诞节	108
+guo ji ren quan tiao yue	国际人权条约	107
+guo ma ying	过马营	107
+guo du jie du	过度解读	106
+guo ji yi xue	国际医学	106
+guo shui lu kou	国税路口	106
+guo xian lv	过线率	106
+guo cheng zhong xue hui	过程中学会	105
+guo de yan yan shi shi	裹得严严实实	105
+guo hui cheng yuan	国会成员	105
+guo chao sheng dian	国潮盛典	104
+guo jia wei jian wei	国家卫健委	104
+guo hao wen	郭昊文	103
+guo jia ren zheng	国家认证	103
+guo zi yang qi	国资央企	103
+guo dao lu kou	国道路口	102
+guo fang zhi shi	国防知识	102
+guo ji you yi ri	国际友谊日	102
+guo nian hong bao	过年红包	102
+guo xiao han	郭霄汉	102
+guo yi shou	过一手	102
+guo du mu qiao	过独木桥	101
+guo ji ge xiao shi	过几个小时	101
+guo jia yun dong yuan	国家运动员	101
+guo yi ben	过一本	101
+guo yong chang	郭永昌	101
+guo zhai yue	过斋月	101
+guo a zhan zheng	果阿战争	100
+guo an bu	国安部	100
+guo an fa	国安法	100
+guo an ju le bu	国安俱乐部	100
+guo an min le	国安民乐	100
+guo ao hui	国奥会	100
+guo ba nian	过罢年	100
+guo bai ren	过百人	100
+guo bang cheng zhong	过磅称重	100
+guo bao kun	郭保坤	100
+guo ben ke	过本科	100
+guo ben ke xian	过本科线	100
+guo ben ni	郭本尼	100
+guo bi min qiong	国敝民穷	100
+guo biao ma jiang	国标麻将	100
+guo bie shi	国别史	100
+guo bin fan dian	国宾饭店	100
+guo bin xi yuan	国宾戏院	100
+guo bo shi	郭博士	100
+guo bu dan gai	过不惮改	100
+guo bu duo jian	国步多艰	100
+guo bu duo nan	国步多难	100
+guo bu guo guan a	过不过关啊	100
+guo bu guo guan ba	过不过关吧	100
+guo bu guo guan la	过不过关啦	100
+guo bu guo guan lou	过不过关喽	100
+guo bu guo guan ma	过不过关吗	100
+guo bu guo guan o	过不过关哦	100
+guo bu guo guan wa	过不过关哇	100
+guo bu guo guan ya	过不过关呀	100
+guo bu guo lai	过不过来	100
+guo bu guo lai ya	过不过来呀	100
+guo bu guo qu	过不过去	100
+guo bu hao	过不好	100
+guo bu jian nan	国步艰难	100
+guo bu jiu	过不久	100
+guo bu liao duo chang shi jian	过不了多长时间	100
+guo bu liao duo jiu	过不了多久	100
+guo bu liao guan	过不了关	100
+guo bu liao hu	过不了户	100
+guo bu liao ji nian	过不了几年	100
+guo bu liao ji tian	过不了几天	100
+guo bu liao le	过不了了	100
+guo bu liao shen	过不了审	100
+guo bu liao xian	过不了线	100
+guo bu xia	过不下	100
+guo cai bei	国才杯	100
+guo cai jie	郭采洁	100
+guo cao di a	过草地啊	100
+guo ce gu wen	国策顾问	100
+guo chan cao zuo xi tong	国产操作系统	100
+guo chan che pai hang	国产车排行	100
+guo chan che pai hang bang	国产车排行榜	100
+guo chan che xi	国产车系	100
+guo chan che xiao liang pai hang bang	国产车销量排行榜	100
+guo chan che zhi liang pai hang bang	国产车质量排行榜	100
+guo chan dao dan	国产导弹	100
+guo chan de	国产的	100
+guo chan dian shi ju	国产电视剧	100
+guo chan dian ying pai hang bang	国产电影排行榜	100
+guo chan dong man	国产动漫	100
+guo chan fa dong ji	国产发动机	100
+guo chan fang zhi yao	国产仿制药	100
+guo chan hai shi jin kou	国产还是进口	100
+guo chan hua cheng du	国产化程度	100
+guo chan jia chang	国产加长	100
+guo chan ju	国产剧	100
+guo chan kong tiao	国产空调	100
+guo chan lv	国产率	100
+guo chan man hua	国产漫画	100
+guo chan mian	国产棉	100
+guo chan mie huo yi miao	国产灭活疫苗	100
+guo chan mo te	国产模特	100
+guo chan nen mo	国产嫩模	100
+guo chan pai zi	国产牌子	100
+guo chan shou ji pai hang bang	国产手机排行榜	100
+guo chan shou ji xi tong	国产手机系统	100
+guo chan tiao jiao	国产调教	100
+guo chan xi di ji	国产洗地机	100
+guo chan xi lie	国产系列	100
+guo chan xi tong	国产系统	100
+guo chan zi xing che	国产自行车	100
+guo chang jiang	郭长江	100
+guo chang li	国常立	100
+guo chang shi jian	过长时间	100
+guo chao yin yue jie	国潮音乐节	100
+guo cheng chang	过程长	100
+guo cheng dang zhong	过程当中	100
+guo cheng jiang wen	过程降温	100
+guo cheng jiao yan yi	过程校验仪	100
+guo cheng kong zhi xi tong	过程控制系统	100
+guo cheng li	过程里	100
+guo cheng mo ni	过程模拟	100
+guo cheng wen du	过程温度	100
+guo chong yang	过重阳	100
+guo chu xi	过除夕	100
+guo chun jie la	过春节啦	100
+guo cun xiang	郭村乡	100
+guo cuo cheng du	过错程度	100
+guo da bao	郭大宝	100
+guo da dao yan	郭大导演	100
+guo da ge	郭大哥	100
+guo da jie	郭大姐	100
+guo da zhu xi tuan	国大主席团	100
+guo dai fu	郭大夫	100
+guo dai xuan ju	国代选举	100
+guo dang fang wei	过当防卫	100
+guo dao sheng dao	国道省道	100
+guo dao yan	郭导演	100
+guo de an wen	过得安稳	100
+guo de an xin	过得安心	100
+guo de bi ni hao	过得比你好	100
+guo de bi wo hao	过得比我好	100
+guo de bing bu hao	过得并不好	100
+guo de bing bu shi hen hao	过得并不是很好	100
+guo de bu cuo	过得不错	100
+guo de bu cuo a	过得不错啊	100
+guo de bu hao	过得不好	100
+guo de bu hao a	过得不好啊	100
+guo de bu kai xin	过得不开心	100
+guo de bu kuai le	过得不快乐	100
+guo de bu rong yi	过得不容易	100
+guo de bu ru yi	过得不如意	100
+guo de bu tai hao	过得不太好	100
+guo de bu xing fu	过得不幸福	100
+guo de chong shi	过得充实	100
+guo de duo	过得多	100
+guo de fei chang xing fu	过得非常幸福	100
+guo de gang lao shi	郭德纲老师	100
+guo de geng hao	过得更好	100
+guo de geng hao ba	过得更好吧	100
+guo de gu ku	过得孤苦	100
+guo de hai	过得还	100
+guo de hai bu cuo	过得还不错	100
+guo de hai hao	过得还好	100
+guo de hai hao ma	过得还好吗	100
+guo de hai ke yi	过得还可以	100
+guo de hai xing	过得还行	100
+guo de hao a	过得好啊	100
+guo de hao bu hao	过得好不好	100
+guo de hao kuai	过得好快	100
+guo de hao yi dian	过得好一点	100
+guo de hao yi xie	过得好一些	100
+guo de hen bu hao	过得很不好	100
+guo de hen can	过得很惨	100
+guo de hen chong shi	过得很充实	100
+guo de hen hao	过得很好	100
+guo de hen hao a	过得很好啊	100
+guo de hen hao ba	过得很好吧	100
+guo de hen hao ya	过得很好呀	100
+guo de hen jian nan	过得很艰难	100
+guo de hen kai xin	过得很开心	100
+guo de hen ku	过得很苦	100
+guo de hen kuai	过得很快	100
+guo de hen tong ku	过得很痛苦	100
+guo de hen xin ku	过得很辛苦	100
+guo de hen xing fu	过得很幸福	100
+guo de hen yu kuai	过得很愉快	100
+guo de hen zi run	过得很滋润	100
+guo de jian nan	过得艰难	100
+guo de jing zhi	过得精致	100
+guo de kai xin	过得开心	100
+guo de ke hao	过得可好	100
+guo de ku	过得苦	100
+guo de lai	过得来	100
+guo de le	过得了	100
+guo de liao	过得了	100
+guo de qing song	过得轻松	100
+guo de qu de	过得去的	100
+guo de qu jiu xing	过得去就行	100
+guo de ru he	过得如何	100
+guo de sheng	郭得胜	100
+guo de shu fu	过得舒服	100
+guo de shu xin	过得舒心	100
+guo de shun xin	过得顺心	100
+guo de tai hao	过得太好	100
+guo de ting hao	过得挺好	100
+guo de xiao sa	过得潇洒	100
+guo de xing fu	过得幸福	100
+guo de yan shi	裹得严实	100
+guo de you	郭得友	100
+guo de you zi you wei	过得有滋有味	100
+guo de yue hao	过得越好	100
+guo de zen me yang	过得怎么样	100
+guo de zen yang	过得怎样	100
+guo de zhe me kuai	过得这么快	100
+guo de zhe me yan shi	裹得这么严实	100
+guo de zui hao	过得最好	100
+guo dei kuai	过得快	100
+guo di de wen du	过低的温度	100
+guo di shui	国地税	100
+guo di shui he bing	国地税合并	100
+guo dian dian li	国电电力	100
+guo ding chang chuan	过顶长传	100
+guo ding chuan qiu	过顶传球	100
+guo ding ji nian ri	国定纪念日	100
+guo ding shan	锅顶山	100
+guo dong chuan mei	果冻传媒	100
+guo dong er	过动儿	100
+guo dong ren	果冻人	100
+guo dong yuan	过动猿	100
+guo dong zheng	过动症	100
+guo dong zuo wu	过冬作物	100
+guo du ao ye	过度熬夜	100
+guo du bao guang	过度曝光	100
+guo du bao hu hai zi	过度保护孩子	100
+guo du bao lu	过度暴露	100
+guo du bao shai	过度暴晒	100
+guo du bao yang	过度保养	100
+guo du bei guan	过度悲观	100
+guo du bei shang	过度悲伤	100
+guo du biao da	过度表达	100
+guo du biao xian	过度表现	100
+guo du bo dong	过度波动	100
+guo du bu chang	过度补偿	100
+guo du bu lao	过度捕捞	100
+guo du cai ji	过度采集	100
+guo du chao shi	过度潮湿	100
+guo du chao zuo	过度炒作	100
+guo du chen mi	过度沉迷	100
+guo du chen ni	过度沉溺	100
+guo du cheng nuo	过度承诺	100
+guo du chong ai	过度宠爱	100
+guo du chong dian	过度充电	100
+guo du chong ni	过度宠溺	100
+guo du chu han	过度出汗	100
+guo du chu li	过度处理	100
+guo du chui peng	过度吹捧	100
+guo du ci ji	过度刺激	100
+guo du dai kuan	过渡贷款	100
+guo du dan xin	过度担心	100
+guo du dan you	过度担忧	100
+guo du de ai	过度的爱	100
+guo du de bao hu	过度的保护	100
+guo du de guan xin	过度的关心	100
+guo du de guan zhu	过度的关注	100
+guo du de jiao lv	过度的焦虑	100
+guo du de jin zhang	过度的紧张	100
+guo du de lao lei	过度的劳累	100
+guo du de ni ai	过度的溺爱	100
+guo du de pi lao	过度的疲劳	100
+guo du de qing jie	过度的清洁	100
+guo du de xing fen	过度的兴奋	100
+guo du de ya li	过度的压力	100
+guo du de yi lai	过度的依赖	100
+guo du de yun dong	过度的运动	100
+guo du de zi xin	过度的自信	100
+guo du di dai	过渡地带	100
+guo du duan lian	过度锻炼	100
+guo du fa yu	过度发育	100
+guo du fan ying	过度反应	100
+guo du fan zhi	过度繁殖	100
+guo du fang da	过度放大	100
+guo du fang dian	过度放电	100
+guo du fang song	过度放松	100
+guo du fang zong	过度放纵	100
+guo du fei pang	过度肥胖	100
+guo du fen san	过度分散	100
+guo du fu chu	过度付出	100
+guo du fu zhai	过度负债	100
+guo du gan she	过度干涉	100
+guo du gan yu	过度干预	100
+guo du gan zao	过度干燥	100
+guo du gao du	过渡高度	100
+guo du gao du ceng	过渡高度层	100
+guo du gong zuo	过度工作	100
+guo du guan huai	过度关怀	100
+guo du guan xin	过度关心	100
+guo du guan zhu	过度关注	100
+guo du hu fu	过度护肤	100
+guo du hua	过度化	100
+guo du huan qi	过度换气	100
+guo du huo dong	过度活动	100
+guo du huo yue	过度活跃	100
+guo du ji dong	过度激动	100
+guo du ji e	过度饥饿	100
+guo du ji huo	过度激活	100
+guo du ji ya	过度挤压	100
+guo du jia ban	过度加班	100
+guo du jia gong	过度加工	100
+guo du jian cha	过度检查	100
+guo du jian fei	过度减肥	100
+guo du jian guan	过度监管	100
+guo du jian hua	过度简化	100
+guo du jiao hua	过度角化	100
+guo du jiao lv	过度焦虑	100
+guo du jiao yi	过度交易	100
+guo du jiao yu	过度教育	100
+guo du jie dai	过度借贷	100
+guo du jie jian	过度节俭	100
+guo du jie shi	过度节食	100
+guo du jie shi jian fei	过度节食减肥	100
+guo du jin bu	过度进补	100
+guo du jin rong hua	过度金融化	100
+guo du jin shi	过度进食	100
+guo du jing xia	过度惊吓	100
+guo du kai cai	过度开采	100
+guo du kai ken	过度开垦	100
+guo du kan fa	过度砍伐	100
+guo du kang fen	过度亢奋	100
+guo du kong huang	过度恐慌	100
+guo du kong ju	过度恐惧	100
+guo du kong zhi	过度控制	100
+guo du kua da	过度夸大	100
+guo du kua zhang	过度夸张	100
+guo du kuan song	过度宽松	100
+guo du kuo zhang	过度扩张	100
+guo du la shen	过度拉伸	100
+guo du lang fei	过度浪费	100
+guo du lao dong	过度劳动	100
+guo du lao sun	过度劳损	100
+guo du le guan	过度乐观	100
+guo du liu hen	过度留痕	100
+guo du mei hua	过度美化	100
+guo du mei yan	过度美颜	100
+guo du mi lian	过度迷恋	100
+guo du mi xin	过度迷信	100
+guo du min gan	过度敏感	100
+guo du mo ca	过度摩擦	100
+guo du mo sun	过度磨损	100
+guo du ni ai	过度溺爱	100
+guo du ni he	过度拟合	100
+guo du pi bei	过度疲惫	100
+guo du qi	过度期	100
+guo du qi yan chang	过渡期延长	100
+guo du qian la	过度牵拉	100
+guo du qiang diao	过度强调	100
+guo du qin mi	过度亲密	100
+guo du qing jie	过度清洁	100
+guo du qing xi	过度清洗	100
+guo du qu jiao zhi	过度去角质	100
+guo du quan qiu hua	过度全球化	100
+guo du re qing	过度热情	100
+guo du rong zi	过度融资	100
+guo du shang ye hua	过度商业化	100
+guo du shang zhang	过度上涨	100
+guo du she ji	过度设计	100
+guo du she ru	过度摄入	100
+guo du shen zhan	过度伸展	100
+guo du sheng zhang	过度生长	100
+guo du shi qi zong lu xian	过渡时期总路线	100
+guo du shi yong dian zi chan pin	过度使用电子产品	100
+guo du shi yong shou ji	过度使用手机	100
+guo du shi yong wu li	过度使用武力	100
+guo du shou ji	过度收集	100
+guo du shou suo	过度收缩	100
+guo du shou xin	过度授信	100
+guo du shou yin	过度手淫	100
+guo du shui he	过度水合	100
+guo du si kao	过度思考	100
+guo du suo qu	过度索取	100
+guo du suo qu quan xian	过度索取权限	100
+guo du suo quan	过度索权	100
+guo du tong qi	过度通气	100
+guo du tou ru	过度投入	100
+guo du tou zhi	过度透支	100
+guo du tou zi	过度投资	100
+guo du wan qu	过度弯曲	100
+guo du wei quan	过度维权	100
+guo du wei yang	过度喂养	100
+guo du xi yan	过度吸烟	100
+guo du xian zhi	过度限制	100
+guo du xiao du	过度消毒	100
+guo du xiao fei	过度消费	100
+guo du xin ren	过度信任	100
+guo du xing	过度性	100
+guo du xing dai kuan	过渡性贷款	100
+guo du xuan chuan	过度宣传	100
+guo du xuan ran	过度渲染	100
+guo du xun lian	过度训练	100
+guo du ya li	过度压力	100
+guo du yan fa	过度研发	100
+guo du yang hua	过度氧化	100
+guo du yi lai	过度依赖	100
+guo du yi lai fang di chan	过度依赖房地产	100
+guo du yi liao	过度医疗	100
+guo du yi xia	过渡一下	100
+guo du yin shi	过度饮食	100
+guo du ying xiang	过度影响	100
+guo du ying xiao	过度营销	100
+guo du yong ji	过度拥挤	100
+guo du yong li	过度用力	100
+guo du yong nao	过度用脑	100
+guo du yong yan	过度用眼	100
+guo du yong yao	过度用药	100
+guo du you hua	过度优化	100
+guo du you lv	过度忧虑	100
+guo du you xi	过度游戏	100
+guo du yu le	过度娱乐	100
+guo du yu le hua	过度娱乐化	100
+guo du yuan	郭度沅	100
+guo du yun dong	过度运动	100
+guo du zai yi	过度在意	100
+guo du zeng zhang	过度增长	100
+guo du zhen duan	过度诊断	100
+guo du zhen liao	过度诊疗	100
+guo du zheng quan	国都证券	100
+guo du zheng rong	过度整容	100
+guo du zhi fa	过度执法	100
+guo du zhi liao	过度治疗	100
+guo du zhong shi	过度重视	100
+guo du zhu li	过度逐利	100
+guo du zhuang shi	过度装饰	100
+guo du zhuang xiu	过度装修	100
+guo du zhui peng	过度追捧	100
+guo du zhui qiu	过度追求	100
+guo du zi bei	过度自卑	100
+guo du zi xin	过度自信	100
+guo du zong yu	过度纵欲	100
+guo duan cai qu xing dong	果断采取行动	100
+guo duan de	果断地	100
+guo duan de xing dong	果断的行动	100
+guo duan fang qi	果断放弃	100
+guo duan fang qi le	果断放弃了	100
+guo duan gang yi	果断刚毅	100
+guo duan shi hou	过段时候	100
+guo duan shou cang	果断收藏	100
+guo duan xing dong	果断行动	100
+guo er bu ru	过而不入	100
+guo er chun feng	过耳春风	100
+guo er qiu feng	过耳秋风	100
+guo er shang	国二上	100
+guo er sheng	国二生	100
+guo er xia	国二下	100
+guo fa nan rong	国法难容	100
+guo fa yuan	国发院	100
+guo fa zai shang	国法在上	100
+guo fa zhong gong	国发重工	100
+guo fang bu bu zhang	国防部部长	100
+guo fang bu fu bu zhang	国防部副部长	100
+guo fang can mou zhang	国防参谋长	100
+guo fang fa	国防法	100
+guo fang guan	国防观	100
+guo fang guan li	国防管理	100
+guo fang guan li xue yuan	国防管理学院	100
+guo fang jiao yu ji di	国防教育基地	100
+guo fang jun gong hang ye	国防军工行业	100
+guo fang jun si ling	国防军司令	100
+guo fang ke da	国防科大	100
+guo fang ke ji gong ye wei yuan hui	国防科技工业委员会	100
+guo fang lun	国防论	100
+guo fang sheng	国防生	100
+guo fang ti xi	国防体系	100
+guo fang ti zhi	国防体制	100
+guo fang xi tong	国防系统	100
+guo fang yi	国防役	100
+guo fang yi xue	国防医学	100
+guo fang yi xue yuan	国防医学院	100
+guo fang yu suan	国防预算	100
+guo fang yu yan xue yuan	国防语言学院	100
+guo fang yuan	国防园	100
+guo fei ge	郭飞歌	100
+guo fen de	过分的	100
+guo fen jian dan hua	过分简单化	100
+guo fen kan zhong	过分看重	100
+guo fen la	过分啦	100
+guo fen le a	过分了啊	100
+guo fen le ba	过分了吧	100
+guo fen le guan	过分乐观	100
+guo fen le ha	过分了哈	100
+guo fen mei li	过分美丽	100
+guo fen xuan chuan	过分宣传	100
+guo fen yang	郭汾阳	100
+guo fen zhong shi	过分重视	100
+guo feng da shang	国风大赏	100
+guo feng shang guan	国风上观	100
+guo feng xi lie	国风系列	100
+guo feng yin yue	国风音乐	100
+guo feng yu pao	国风玉袍	100
+guo fu bao	国付宝	100
+guo fu chong zhou	过府冲州	100
+guo fu di yi xi lie	国服第一系列	100
+guo fu ji nian guan	国父纪念馆	100
+guo fu mi jian	果脯蜜饯	100
+guo fu min feng	国富民丰	100
+guo fu min pin	国富民贫	100
+guo fu min qiong	国富民穷	100
+guo fu qin jie	过父亲节	100
+guo fu ren	郭夫人	100
+guo fu si xiang	国父思想	100
+guo fu xi shi	国服西施	100
+guo fu xian you	国服仙友	100
+guo fu yi zhu	国父遗嘱	100
+guo gan di qu	果敢地区	100
+guo gan gang yi	果敢刚毅	100
+guo gan yin	过干瘾	100
+guo gang ze zhe	过刚则折	100
+guo gao de wen du	过高的温度	100
+guo ge ge	郭哥哥	100
+guo ge li	国歌里	100
+guo ge ren wu	过个任务	100
+guo ge sheng ri	过个生日	100
+guo gong chong	郭公虫	100
+guo gong nei zhan	国共内战	100
+guo gong xi gang	过共析钢	100
+guo gong ying	国公营	100
+guo guan le	过惯了	100
+guo guan le ku ri zi	过惯了苦日子	100
+guo guan lv	过关率	100
+guo guan ting	郭冠廷	100
+guo guang hao	国光号	100
+guo gui bin	郭桂彬	100
+guo gui fei	郭贵妃	100
+guo gui xin	郭桂鑫	100
+guo guo jia xian	过国家线	100
+guo guo jiao	聒聒叫	100
+guo guo long	蝈蝈笼	100
+guo guo nao zi	过过脑子	100
+guo hang ban	国行版	100
+guo hang ban ben	国行版本	100
+guo hang de	国行的	100
+guo hang ding piao	国航订票	100
+guo hang ju	国航局	100
+guo hang san xing	国行三星	100
+guo hang shou jia	国行售价	100
+guo hang zheng pin	国行正品	100
+guo hang zhi yin	国航知音	100
+guo hang zhi yin ka	国航知音卡	100
+guo hao dang xia	过好当下	100
+guo hao mei yi tian	过好每一天	100
+guo he chou ban	过河抽板	100
+guo he hui	国合会	100
+guo he ming	郭鹤鸣	100
+guo hong xu	郭虹旭	100
+guo hong zhi	郭泓志	100
+guo hua cun shen	过化存神	100
+guo hua ren shou	国华人寿	100
+guo hua xi	国画系	100
+guo hua yuan	国花园	100
+guo hui can yi yuan	国会参议员	100
+guo hui can yi yuan	国会参议院	100
+guo hui can zhong liang yuan	国会参众两院	100
+guo hui diao cha	国会调查	100
+guo hui lv	过会率	100
+guo hui yi zhang	国会议长	100
+guo hui zhi	国会制	100
+guo huo dang zi qiang	国货当自强	100
+guo huo guo yun	国货国运	100
+guo ji bi hui	国际笔会	100
+guo ji biao zhun wu	国际标准舞	100
+guo ji can zhan	国际参展	100
+guo ji cha ri	国际茶日	100
+guo ji chang tu dian hua	国际长途电话	100
+guo ji chao mo	国际超模	100
+guo ji cheng	国际城	100
+guo ji chi du	国际尺度	100
+guo ji chu kou	国际出口	100
+guo ji chuan bo neng li jian she	国际传播能力建设	100
+guo ji chuan mei	国际传媒	100
+guo ji chuan mei gang	国际传媒港	100
+guo ji da du hui	国际大都会	100
+guo ji da she	国际大赦	100
+guo ji dai jie	国际贷借	100
+guo ji de yan lun	过激的言论	100
+guo ji de yu yan	过激的语言	100
+guo ji di chan	国际地产	100
+guo ji di guo zhu yi	国际帝国主义	100
+guo ji di qu	国际地区	100
+guo ji di yuan zheng zhi	国际地缘政治	100
+guo ji dian hua	国际电话	100
+guo ji dian wan jie	国际电玩节	100
+guo ji diao cha	国际调查	100
+guo ji du hui	国际都会	100
+guo ji du jia	国际度假	100
+guo ji du jia qu	国际度假区	100
+guo ji fa he guo ji guan xi	国际法和国际关系	100
+guo ji fa xing	国际发行	100
+guo ji fang di chan	国际房地产	100
+guo ji fei xing	国际飞行	100
+guo ji fen gong ti zhi	国际分工体制	100
+guo ji fen zi	过激分子	100
+guo ji gong chan zhu yi yun dong	国际共产主义运动	100
+guo ji gong lu zi xing che sai	国际公路自行车赛	100
+guo ji gong zhi	国际公制	100
+guo ji guan	国际观	100
+guo ji guan xi ji ben zhun ze	国际关系基本准则	100
+guo ji guan xi li lun	国际关系理论	100
+guo ji guan xi min zhu hua	国际关系民主化	100
+guo ji guan xi shi	国际关系史	100
+guo ji guan xi yan jiu	国际关系研究	100
+guo ji guan xi zhuan ye	国际关系专业	100
+guo ji gui	国际柜	100
+guo ji hang kong lian he hui	国际航空联合会	100
+guo ji hang qing	国际行情	100
+guo ji hang xing chuan bo	国际航行船舶	100
+guo ji he di qu zu zhi	国际和地区组织	100
+guo ji he ping ji jin hui	国际和平基金会	100
+guo ji he zuo jie	国际合作节	100
+guo ji hu lian wang luo	国际互联网络	100
+guo ji hua cheng du gao	国际化程度高	100
+guo ji hua cheng du zui gao	国际化程度最高	100
+guo ji hua da du shi	国际化大都市	100
+guo ji hua du shi	国际化都市	100
+guo ji hua xue xiao	国际化学校	100
+guo ji huan ri xian	国际换日线	100
+guo ji hui lv	国际汇率	100
+guo ji hui yi	国际会议	100
+guo ji hui zhan zhong xin	国际会展中心	100
+guo ji huo bi	国际货币	100
+guo ji huo bi ji jin	国际货币基金	100
+guo ji jian wen	国际见闻	100
+guo ji jin du ri	国际禁毒日	100
+guo ji jin rong ti xi	国际金融体系	100
+guo ji ju le bu	国际俱乐部	100
+guo ji ke ji he zuo ji di	国际科技合作基地	100
+guo ji kuai ji shi	国际会计师	100
+guo ji li chang	过激立场	100
+guo ji liu xing	国际流行	100
+guo ji liu xing qu shi	国际流行趋势	100
+guo ji lv shi	国际律师	100
+guo ji lv xing	国际旅行	100
+guo ji lv xing zhe	国际旅行者	100
+guo ji lv you du jia qu	国际旅游度假区	100
+guo ji lv you mu di di	国际旅游目的地	100
+guo ji lv you sheng di	国际旅游胜地	100
+guo ji mao yi guan xi	国际贸易关系	100
+guo ji mao yi ti xi	国际贸易体系	100
+guo ji mei shi zhi du	国际美食之都	100
+guo ji mi lan dui	国际米兰队	100
+guo ji mi lan ju le bu	国际米兰俱乐部	100
+guo ji mi lan zu qiu ju le bu	国际米兰足球俱乐部	100
+guo ji min hang zu zhi	国际民航组织	100
+guo ji min jian zu zhi	国际民间组织	100
+guo ji ming mo	国际名模	100
+guo ji ming xiao	国际名校	100
+guo ji mo te	国际模特	100
+guo ji mo te da sai	国际模特大赛	100
+guo ji mu ju	国际模具	100
+guo ji ping lian ao di li	国际乒联奥地利	100
+guo ji qi lian	国际棋联	100
+guo ji qi lian	国际汽联	100
+guo ji qing suan yin hang	国际清算银行	100
+guo ji quan ji lian he hui	国际拳击联合会	100
+guo ji ren ke du	国际认可度	100
+guo ji ren quan biao zhun	国际人权标准	100
+guo ji ri	过几日	100
+guo ji shang de zhi ming du	国际上的知名度	100
+guo ji shang shi tiao jie	国际商事调解	100
+guo ji shang ye ji qi	国际商业机器	100
+guo ji shang zhuan	国际商专	100
+guo ji sheng hui	国际盛会	100
+guo ji sheng yue bi sai	国际声乐比赛	100
+guo ji shi chang kai tuo	国际市场开拓	100
+guo ji shi chang zhan you lv	国际市场占有率	100
+guo ji shi di cheng shi	国际湿地城市	100
+guo ji shu xue lian meng	国际数学联盟	100
+guo ji shuang yu xue xiao	国际双语学校	100
+guo ji shui mian ri	国际睡眠日	100
+guo ji shui zhun	国际水准	100
+guo ji tai kong zhan	国际太空站	100
+guo ji te she	国际特赦	100
+guo ji te she zu zhi	国际特赦组织	100
+guo ji ti cao lian he hui	国际体操联合会	100
+guo ji ti xi	国际体系	100
+guo ji tian huan	过几天还	100
+guo ji tian jiu hao le	过几天就好了	100
+guo ji tian lai	过几天来	100
+guo ji tian zai qu	过几天再去	100
+guo ji tiao qi	国际跳棋	100
+guo ji tong hang	国际同行	100
+guo ji tong xing	国际通行	100
+guo ji tong xing gui ze	国际通行规则	100
+guo ji tong xing zuo fa	国际通行做法	100
+guo ji tou hang	国际投行	100
+guo ji wai jiao	国际外交	100
+guo ji wang luo	国际网络	100
+guo ji wang luo gong si	国际网络公司	100
+guo ji wen chuan dian xun she	国际文传电讯社	100
+guo ji wen chuan tong xun she	国际文传通讯社	100
+guo ji wen hua chuan bo	国际文化传播	100
+guo ji wen hua chuan mei	国际文化传媒	100
+guo ji wen hua da du shi	国际文化大都市	100
+guo ji wen jiao	国际文教	100
+guo ji wen jiao zu zhi	国际文教组织	100
+guo ji wu tai	国际舞台	100
+guo ji xi tong	国际系统	100
+guo ji xian qu lun tan bao	国际先驱论坛报	100
+guo ji xiang qi ju le bu	国际象棋俱乐部	100
+guo ji xiao gou ri	国际小狗日	100
+guo ji xiao qu	国际校区	100
+guo ji xie hui	国际协会	100
+guo ji xie tiao	国际协调	100
+guo ji xing da du shi	国际性大都市	100
+guo ji xing dong	国际行动	100
+guo ji xing shi jing cha zu zhi	国际刑事警察组织	100
+guo ji xuan chuan	国际宣传	100
+guo ji xue she	国际学舍	100
+guo ji yao qing sai	国际邀请赛	100
+guo ji yi liao zhong xin	国际医疗中心	100
+guo ji yin hang ye	国际银行业	100
+guo ji yin yue	国际音乐	100
+guo ji yin yue jie	国际音乐节	100
+guo ji ying cheng	国际影城	100
+guo ji yong bao ri	国际拥抱日	100
+guo ji yu jia	国际瑜伽	100
+guo ji yu le	国际娱乐	100
+guo ji yu mao qiu lian he hui	国际羽毛球联合会	100
+guo ji yuan xiao	国际院校	100
+guo ji zhan zheng zui fa ting	国际战争罪法庭	100
+guo ji zhi liang guan li ti xi	国际质量管理体系	100
+guo ji zhi liang ti xi ren zheng	国际质量体系认证	100
+guo ji zhi shi chan quan zhi du	国际知识产权制度	100
+guo ji zhong gong	国机重工	100
+guo ji zhong yao shi di	国际重要湿地	100
+guo ji zhong yao shi di ming lu	国际重要湿地名录	100
+guo ji zhou	国际周	100
+guo ji zhu ce kuai ji shi	国际注册会计师	100
+guo ji zhun bei	国际准备	100
+guo ji zi xing che	国际自行车	100
+guo ji zi xing che lian meng	国际自行车联盟	100
+guo ji zi xing che sai	国际自行车赛	100
+guo ji zu qiu lian he hui	国际足球联合会	100
+guo jia an quan hui yi	国家安全会议	100
+guo jia an quan ti xi	国家安全体系	100
+guo jia an quan xuan chuan jiao yu	国家安全宣传教育	100
+guo jia bao	郭家宝	100
+guo jia bei	国家杯	100
+guo jia biao zhun hua guan li wei yuan hui	国家标准化管理委员会	100
+guo jia biao zhun ma	国家标准码	100
+guo jia biao zhun zhong wen jiao huan ma	国家标准中文交换码	100
+guo jia cai pan	国家裁判	100
+guo jia chang sheng	国家昌盛	100
+guo jia chang zhi jiu an	国家长治久安	100
+guo jia cheng shi shi di gong yuan	国家城市湿地公园	100
+guo jia chuan tong	国家传统	100
+guo jia chuang xin ti xi	国家创新体系	100
+guo jia da ju yuan yin yue ting	国家大剧院音乐厅	100
+guo jia dang	国家党	100
+guo jia de	国家的	100
+guo jia de bi	国家德比	100
+guo jia de fan rong chang sheng	国家的繁荣昌盛	100
+guo jia de guan xi	国家的关系	100
+guo jia de hong guan tiao kong	国家的宏观调控	100
+guo jia de qiang sheng	国家的强盛	100
+guo jia de shi bing	国家的士兵	100
+guo jia de tiao kong	国家的调控	100
+guo jia de yi ji yan yuan	国家的一级演员	100
+guo jia de zhong shi	国家的重视	100
+guo jia di biao shui	国家地表水	100
+guo jia di li biao zhi	国家地理标志	100
+guo jia di li biao zhi chan pin	国家地理标志产品	100
+guo jia di li pin dao	国家地理频道	100
+guo jia di li za zhi	国家地理杂志	100
+guo jia di qu	国家地区	100
+guo jia di tu	国家地图	100
+guo jia di wei	国家地位	100
+guo jia di zhi gong yuan	国家地质公园	100
+guo jia diao cha	国家调查	100
+guo jia dui dui zhang	国家队队长	100
+guo jia fa	国家法	100
+guo jia fa xing	国家发行	100
+guo jia fa zhan gai ge wei	国家发展改革委	100
+guo jia fa zhan he gai ge wei yuan hui	国家发展和改革委员会	100
+guo jia fan rong chang sheng	国家繁荣昌盛	100
+guo jia fan zha	国家反诈	100
+guo jia fan zha pian	国家反诈骗	100
+guo jia fu pin ri	国家扶贫日	100
+guo jia gao du	国家高度	100
+guo jia gao du zhong shi	国家高度重视	100
+guo jia ge ju yuan	国家歌剧院	100
+guo jia gong wu yuan zhi du	国家公务员制度	100
+guo jia gu gan gao zhi yuan xiao	国家骨干高职院校	100
+guo jia guan xi	国家关系	100
+guo jia guang dian zong ju	国家广电总局	100
+guo jia han ban	国家汉办	100
+guo jia hang kong gong si	国家航空公司	100
+guo jia hang kong hang tian ju	国家航空航天局	100
+guo jia hang tian ju	国家航天局	100
+guo jia hang ye biao zhun	国家行业标准	100
+guo jia he di qu	国家和地区	100
+guo jia he hang ye biao zhun	国家和行业标准	100
+guo jia he sheng	国家和省	100
+guo jia he sheng ji	国家和省级	100
+guo jia hong guan tiao kong	国家宏观调控	100
+guo jia hong guan tiao kong zheng ce	国家宏观调控政策	100
+guo jia hua	国家化	100
+guo jia huan bao mo fan cheng shi	国家环保模范城市	100
+guo jia huo di qu	国家或地区	100
+guo jia huo hang ye biao zhun	国家或行业标准	100
+guo jia huo shan gong yuan	国家火山公园	100
+guo jia ji chuan cheng ren	国家级传承人	100
+guo jia ji chuan tong cun luo	国家级传统村落	100
+guo jia ji di qu	国家及地区	100
+guo jia ji di zhi gong yuan	国家级地质公园	100
+guo jia ji fei yi chuan cheng ren	国家级非遗传承人	100
+guo jia ji hang ye biao zhun	国家及行业标准	100
+guo jia ji he sheng	国家级和省	100
+guo jia ji jin	国家基金	100
+guo jia ji lei	国家积累	100
+guo jia ji lv you du jia qu	国家级旅游度假区	100
+guo jia ji mi	国家机密	100
+guo jia ji shen du pin kun xian	国家级深度贫困县	100
+guo jia ji sheng	国家及省	100
+guo jia ji sheng ji	国家及省级	100
+guo jia ji sheng ji	国家级省级	100
+guo jia ji shi di gong yuan	国家级湿地公园	100
+guo jia ji zhong dian shi yan shi	国家级重点实验室	100
+guo jia ji zhong dian xue ke	国家级重点学科	100
+guo jia ji zhong dian zhong zhuan	国家级重点中专	100
+guo jia jia ne	过家家呢	100
+guo jia jian du ti xi	国家监督体系	100
+guo jia jian guan xi	国家间关系	100
+guo jia jian wei	国家监委	100
+guo jia jiang xue jin huo de zhe	国家奖学金获得者	100
+guo jia jiao xiang yue tuan	国家交响乐团	100
+guo jia jiao yu xing zheng xue yuan	国家教育行政学院	100
+guo jia jing cha	国家警察	100
+guo jia ju zhong dui	国家举重队	100
+guo jia jun pin mao yi ju	国家军品贸易局	100
+guo jia ke ji zhong da zhuan xiang	国家科技重大专项	100
+guo jia ke xue wei yuan hui	国家科学委员会	100
+guo jia kuai ji xue yuan	国家会计学院	100
+guo jia lin chuang zhong dian zhuan ke	国家临床重点专科	100
+guo jia lu	郭嘉璐	100
+guo jia lv you du jia qu	国家旅游度假区	100
+guo jia ming pian	国家名片	100
+guo jia ruan kao	国家软考	100
+guo jia sen lin kang yang ji di	国家森林康养基地	100
+guo jia sheng	国家省	100
+guo jia sheng shi	国家省市	100
+guo jia sheng wu chan ye ji di	国家生物产业基地	100
+guo jia shi di	国家湿地	100
+guo jia shi di gong yuan	国家湿地公园	100
+guo jia shi di gong yuan shi dian	国家湿地公园试点	100
+guo jia shi shen me	国家是什么	100
+guo jia shu zi	国家数字	100
+guo jia shuang chuang shi fan ji di	国家双创示范基地	100
+guo jia shui wu ju	国家税务局	100
+guo jia ti xi	国家体系	100
+guo jia ti yu zong ju ju zhang	国家体育总局局长	100
+guo jia tiao kong	国家调控	100
+guo jia tiao zheng	国家调整	100
+guo jia tong ji ju ju zhang	国家统计局局长	100
+guo jia tu di	国家土地	100
+guo jia tu shu guan guan cang	国家图书馆馆藏	100
+guo jia wang xin ban	国家网信办	100
+guo jia wen hua chu kou ji di	国家文化出口基地	100
+guo jia wen wu jian ding wei yuan hui	国家文物鉴定委员会	100
+guo jia wen wu wei yuan hui	国家文物委员会	100
+guo jia xi tong	国家系统	100
+guo jia xian ba	国家线吧	100
+guo jia xian fa ri xuan chuan	国家宪法日宣传	100
+guo jia xiang rui	国家祥瑞	100
+guo jia xin wen chu ban	国家新闻出版	100
+guo jia xin wen chu ban guang dian zong ju	国家新闻出版广电总局	100
+guo jia xing	国家性	100
+guo jia xing dong	国家行动	100
+guo jia xing sheng	国家兴盛	100
+guo jia xing zheng guan li	国家行政管理	100
+guo jia xing zheng xue yuan	国家行政学院	100
+guo jia xing zheng xue yuan jiao shou	国家行政学院教授	100
+guo jia xuan chuan	国家宣传	100
+guo jia yang hang	国家央行	100
+guo jia yi bao	国家医保	100
+guo jia yi ji bao hu	国家一级保护	100
+guo jia yi jing	国家已经	100
+guo jia yi liao fu wu ti xi	国家医疗服务体系	100
+guo jia yi xue kao shi	国家医学考试	100
+guo jia yin yue	国家音乐	100
+guo jia yu di fang	国家与地方	100
+guo jia yu di qu	国家与地区	100
+guo jia zhan lve de gao du	国家战略的高度	100
+guo jia zheng ce tiao zheng	国家政策调整	100
+guo jia zhi ding kao shi	国家指定考试	100
+guo jia zhi jian de guan xi	国家之间的关系	100
+guo jia zhi li ti xi	国家治理体系	100
+guo jia zhi shang	国家至上	100
+guo jia zhi xing	国家执行	100
+guo jia zhong da fa zhan zhan lve	国家重大发展战略	100
+guo jia zhong da gong cheng	国家重大工程	100
+guo jia zhong da ke ji xiang mu	国家重大科技项目	100
+guo jia zhong da ke ji zhuan xiang	国家重大科技专项	100
+guo jia zhong da xiang mu	国家重大项目	100
+guo jia zhong da xu qiu	国家重大需求	100
+guo jia zhong da zhan lve	国家重大战略	100
+guo jia zhong da zhan lve shi shi	国家重大战略实施	100
+guo jia zhong da zhan lve xu qiu	国家重大战略需求	100
+guo jia zhong da zhuan xiang	国家重大专项	100
+guo jia zhong dian bao hu	国家重点保护	100
+guo jia zhong dian bao hu dong wu	国家重点保护动物	100
+guo jia zhong dian bao hu zhi wu	国家重点保护植物	100
+guo jia zhong dian da xue	国家重点大学	100
+guo jia zhong dian fu chi	国家重点扶持	100
+guo jia zhong dian gong cheng	国家重点工程	100
+guo jia zhong dian gong cheng xiang mu	国家重点工程项目	100
+guo jia zhong dian jian she	国家重点建设	100
+guo jia zhong dian jian she xiang mu	国家重点建设项目	100
+guo jia zhong dian long tou qi ye	国家重点龙头企业	100
+guo jia zhong dian pei yu xue ke	国家重点培育学科	100
+guo jia zhong dian xiang mu	国家重点项目	100
+guo jia zhong dian xin chan pin	国家重点新产品	100
+guo jia zhong dian xin wen wang zhan	国家重点新闻网站	100
+guo jia zhong dian xue ke	国家重点学科	100
+guo jia zhong dian yan fa ji hua	国家重点研发计划	100
+guo jia zhong dian yan fa xiang mu	国家重点研发项目	100
+guo jia zhong dian zhi chi	国家重点支持	100
+guo jia zhong shi	国家重视	100
+guo jia zhong xiao xue	国家中小学	100
+guo jia zhong yao shi di	国家重要湿地	100
+guo jia zhong yao zhan lve	国家重要战略	100
+guo jia zhuan xiang ji hua	国家专项计划	100
+guo jia zhuo xiang	国家着想	100
+guo jian cha zhan	过检查站	100
+guo jian chang fa	过肩长发	100
+guo jian ji hua	国建计划	100
+guo jian shuai	过肩摔	100
+guo jiang guo jiang	过奖过奖	100
+guo jiang le guo jiang le	过奖了过奖了	100
+guo jiang lou	过奖喽	100
+guo jiao pai	国教派	100
+guo jiao shou	郭教授	100
+guo jiao si	国教司	100
+guo jie jie	郭姐姐	100
+guo jie la	过节啦	100
+guo jie lao shu ren ren han da	过街老鼠人人喊打	100
+guo jie le	过节了	100
+guo jie liu	过街柳	100
+guo jie ma	过节吗	100
+guo jie ma	过节嘛	100
+guo jie ne	过节呢	100
+guo jie qiao	过街桥	100
+guo jie xian	国界线	100
+guo jin bao	国金宝	100
+guo jin fei	郭金非	100
+guo jin min tui	国进民退	100
+guo jing lin	果静林	100
+guo jing lv ke	过境旅客	100
+guo jing ming quan ji	郭敬明全集	100
+guo jiu hu	果酒湖	100
+guo jiu mao tai	国酒茅台	100
+guo ju she	国剧社	100
+guo ju sheng dian	国剧盛典	100
+guo ju tuan	国剧团	100
+guo ju zhang	郭局长	100
+guo jun tui chu yi guan bing	国军退除役官兵	100
+guo kai xing	国开行	100
+guo kai xing zhai quan zhi shu	国开行债券指数	100
+guo kao cheng ji	国考成绩	100
+guo kao chu fen	国考出分	100
+guo kao chu le	国考出了	100
+guo kao sheng kao	国考省考	100
+guo kao ti	国考题	100
+guo ke ba le	过客罢了	100
+guo ke da	国科大	100
+guo ke zhang	郭科长	100
+guo kun min qiong	国困民穷	100
+guo lai bang mang	过来帮忙	100
+guo lai bang mang a	过来帮忙啊	100
+guo lai de shi hou	过来的时候	100
+guo lai jie ni	过来接你	100
+guo lai jie ta	过来接他	100
+guo lai jie wo	过来接我	100
+guo lai kan kan	过来看看	100
+guo lai kan kan ba	过来看看吧	100
+guo lai kan yi xia	过来看一下	100
+guo lai kan yi xia ba	过来看一下吧	100
+guo lai la	过来啦	100
+guo lai le ba	过来了吧	100
+guo lai le ma	过来了吗	100
+guo lai le ma	过来了嘛	100
+guo lai le me	过来了么	100
+guo lai le ya	过来了呀	100
+guo lai song song ni	过来送送你	100
+guo lai suan	过铼酸	100
+guo lai wan a	过来玩啊	100
+guo lai wan er	过来玩儿	100
+guo lai wan er a	过来玩儿啊	100
+guo lai wan er ya	过来玩儿呀	100
+guo lai wan ya	过来玩呀	100
+guo lai yi xia	过来一下	100
+guo lai zuo xia	过来坐下	100
+guo lan ying	郭兰英	100
+guo lao shi	郭老师	100
+guo le a	过了啊	100
+guo le an jian	过了安检	100
+guo le ba	过了吧	100
+guo le ban ge duo xiao shi	过了半个多小时	100
+guo le ban ge xiao shi	过了半个小时	100
+guo le ban ge yue	过了半个月	100
+guo le ban nian	过了半年	100
+guo le ban tian	过了半天	100
+guo le ban xiao shi	过了半小时	100
+guo le bao xiu qi	过了保修期	100
+guo le bao zhi qi	过了保质期	100
+guo le bu	过了不	100
+guo le bu jiu	过了不久	100
+guo le chun jie	过了春节	100
+guo le ci	过了此	100
+guo le ci men	过了此门	100
+guo le ci shan	过了此山	100
+guo le da ban	过了大半	100
+guo le da ban nian	过了大半年	100
+guo le dian	过了点	100
+guo le dian feng qi	过了巅峰期	100
+guo le du	过了度	100
+guo le duan shi jian	过了段时间	100
+guo le duan wu	过了端午	100
+guo le duo nian	过了多年	100
+guo le duo shao	过了多少	100
+guo le er li zhi nian	过了而立之年	100
+guo le fan dian	过了饭点	100
+guo le ge jie	过了个节	100
+guo le guan	过了关	100
+guo le hao ban shang	过了好半晌	100
+guo le hao chang shi jian	过了好长时间	100
+guo le hao duo nian	过了好多年	100
+guo le hao ji nian	过了好几年	100
+guo le hao ji tian	过了好几天	100
+guo le hao jiu	过了好久	100
+guo le hao yi hui	过了好一会	100
+guo le hao yi hui er	过了好一会儿	100
+guo le he	过了河	100
+guo le hen chang shi jian	过了很长时间	100
+guo le hen chang yi duan shi jian	过了很长一段时间	100
+guo le hen duo nian	过了很多年	100
+guo le hen jiu	过了很久	100
+guo le hen jiu hen jiu	过了很久很久	100
+guo le hui	过了会	100
+guo le huo	过了火	100
+guo le ji fen zhong	过了几分钟	100
+guo le ji ge xiao shi	过了几个小时	100
+guo le ji ge yue	过了几个月	100
+guo le ji miao	过了几秒	100
+guo le ji nian	过了几年	100
+guo le ji nian hou	过了几年后	100
+guo le ji ri	过了几日	100
+guo le ji shi nian	过了几十年	100
+guo le ji tian	过了几天	100
+guo le ji tian hou	过了几天后	100
+guo le ji zhao	过了几招	100
+guo le jin tian	过了今天	100
+guo le jin wan	过了今晚	100
+guo le jin ye	过了今夜	100
+guo le jiu	过了就	100
+guo le jiu hao	过了就好	100
+guo le jiu mei le	过了就没了	100
+guo le jiu xing	过了就行	100
+guo le la ba	过了腊八	100
+guo le la ba jiu shi nian	过了腊八就是年	100
+guo le le	郭乐乐	100
+guo le liang fen zhong	过了两分钟	100
+guo le liang ge xiao shi	过了两个小时	100
+guo le liang ge yue	过了两个月	100
+guo le liang men	过了两门	100
+guo le liang nian	过了两年	100
+guo le liang san tian	过了两三天	100
+guo le liang tian	过了两天	100
+guo le liang zhao	过了两招	100
+guo le liang zhou	过了两周	100
+guo le ma	过了吗	100
+guo le ma lu	过了马路	100
+guo le mei duo jiu	过了没多久	100
+guo le mei ji tian	过了没几天	100
+guo le men	过了门	100
+guo le ming tian	过了明天	100
+guo le mo he qi	过了磨合期	100
+guo le na me duo nian	过了那么多年	100
+guo le na me jiu	过了那么久	100
+guo le nian	过了年	100
+guo le qi	过了气	100
+guo le qiao	过了桥	100
+guo le qing chun qi	过了青春期	100
+guo le qing chun wu shao nian	过了青春无少年	100
+guo le qing ming jie	过了清明节	100
+guo le re lian qi	过了热恋期	100
+guo le san ge yue	过了三个月	100
+guo le san nian	过了三年	100
+guo le san shi	过了三十	100
+guo le san shi sui	过了三十岁	100
+guo le san tian	过了三天	100
+guo le shi duo nian	过了十多年	100
+guo le shi fen zhong	过了十分钟	100
+guo le shi ji fen zhong	过了十几分钟	100
+guo le shi ji nian	过了十几年	100
+guo le shi jian	过了时间	100
+guo le shi nian	过了十年	100
+guo le shi wu	过了十五	100
+guo le si nian	过了四年	100
+guo le si shi	过了四十	100
+guo le su song shi xiao	过了诉讼时效	100
+guo le wan	过了万	100
+guo le wu fen zhong	过了五分钟	100
+guo le wu nian	过了五年	100
+guo le wu yi	过了五一	100
+guo le xiao nian	过了小年	100
+guo le xie ri zi	过了些日子	100
+guo le xu duo	过了许多	100
+guo le xu duo nian	过了许多年	100
+guo le xu jiu	过了许久	100
+guo le ye	过了夜	100
+guo le yi ba	过了一把	100
+guo le yi ba yin	过了一把瘾	100
+guo le yi ban	过了一半	100
+guo le yi bei zi	过了一辈子	100
+guo le yi ben xian	过了一本线	100
+guo le yi bian	过了一遍	100
+guo le yi dian	过了一点	100
+guo le yi duan shi jian	过了一段时间	100
+guo le yi duan shi jian hou	过了一段时间后	100
+guo le yi duan shi jian yi hou	过了一段时间以后	100
+guo le yi fen zhong	过了一分钟	100
+guo le yi hui	过了一会	100
+guo le yi hui er	过了一会儿	100
+guo le yi hui hou	过了一会后	100
+guo le yi ke	过了一科	100
+guo le yi men	过了一门	100
+guo le yi nian duo	过了一年多	100
+guo le yi tian	过了一天	100
+guo le yi ye	过了一夜	100
+guo le yi zhen	过了一阵	100
+guo le yi zhen zi	过了一阵子	100
+guo le yi zhou	过了一周	100
+guo le yu chan qi	过了预产期	100
+guo le yuan xiao jie	过了元宵节	100
+guo le zhe cun mei zhe dian	过了这村没这店	100
+guo le zhe ge cun	过了这个村	100
+guo le zhe liang tian	过了这两天	100
+guo le zhe yi guan	过了这一关	100
+guo le zheng yue shi wu	过了正月十五	100
+guo le zhi bao qi	过了质保期	100
+guo le zhong qiu	过了中秋	100
+guo le zhong wu	过了中午	100
+guo leng du	过冷度	100
+guo li an	郭利案	100
+guo li chang sheng	国力昌盛	100
+guo li de qiang sheng	国力的强盛	100
+guo li ding sheng	国力鼎盛	100
+guo li jiao yu guang bo dian tai	国立教育广播电台	100
+guo li li shi bo wu guan	国立历史博物馆	100
+guo li min fu	国利民福	100
+guo li nian	国历年	100
+guo li shou er da xue	国立首尔大学	100
+guo li tai bei ke ji da xue	国立台北科技大学	100
+guo li tai wan bo wu guan	国立台湾博物馆	100
+guo li xian zhong yuan	国立显忠院	100
+guo li xing	郭力行	100
+guo li yin yue xue yuan	国立音乐学院	100
+guo li zhong yang da xue	国立中央大学	100
+guo liang kong qi xi shu	过量空气系数	100
+guo liao er	果料儿	100
+guo ling xia	郭凌霞	100
+guo lu an quan yun xing	锅炉安全运行	100
+guo lu bu ji shui	锅炉补给水	100
+guo lu che	过路车	100
+guo lu de xing ren	过路的行人	100
+guo lu hang ye	锅炉行业	100
+guo lu ji shui beng	锅炉给水泵	100
+guo lu re xiao lv	锅炉热效率	100
+guo lu xi tong	锅炉系统	100
+guo lu xiao lv	锅炉效率	100
+guo lu xing ren	过路行人	100
+guo lu yu	过路雨	100
+guo lu yun xing	锅炉运行	100
+guo lu yun xing zhi ban yuan	锅炉运行值班员	100
+guo luan si liang jiang	国乱思良将	100
+guo luan sui xiong	国乱岁凶	100
+guo lun guo zao	国轮国造	100
+guo luo fu zhi	蜾蠃负之	100
+guo luo zang zu	果洛藏族	100
+guo luo zang zu zi zhi zhou	果洛藏族自治州	100
+guo lv chu lai	过滤出来	100
+guo lv ci	过滤词	100
+guo lv ci hui	过滤词汇	100
+guo lv diao le	过滤掉了	100
+guo lv hang ye	过滤行业	100
+guo lv hou	过滤后	100
+guo lv hou de	过滤后的	100
+guo lv jing du	过滤精度	100
+guo lv jing du gao	过滤精度高	100
+guo lv lv	过滤率	100
+guo lv qi du se	过滤器堵塞	100
+guo lv qi tiao ya fa	过滤器调压阀	100
+guo lv qi xi lie	过滤器系列	100
+guo lv shi	过滤室	100
+guo lv su du	过滤速度	100
+guo lv su du kuai	过滤速度快	100
+guo lv wan	过滤完	100
+guo lv wan bi	过滤完毕	100
+guo lv wan bi le	过滤完毕了	100
+guo lv wang du se	过滤网堵塞	100
+guo lv xiao lv	过滤效率	100
+guo lv xiao lv gao	过滤效率高	100
+guo lv yi xia	过滤一下	100
+guo lv zui xiang yan	过滤嘴香烟	100
+guo mai min ming	国脉民命	100
+guo mao ju	国贸局	100
+guo mao ke	国贸科	100
+guo mao qian	郭茂倩	100
+guo mei duo jiu	过没多久	100
+guo mei guo	过没过	100
+guo mei guo lai	过没过来	100
+guo mei guo lai a	过没过来啊	100
+guo mei guo lai ya	过没过来呀	100
+guo mei guo qi	过没过期	100
+guo mei guo qi a	过没过期啊	100
+guo mei guo qi ya	过没过期呀	100
+guo mei guo qu	过没过去	100
+guo mei guo qu a	过没过去啊	100
+guo mei guo qu ya	过没过去呀	100
+guo mei mei	郭妹妹	100
+guo mei mei	郭美美	100
+guo mei xi	国美系	100
+guo mei yi tian	过每一天	100
+guo mi jia mi	国密加密	100
+guo mi jia mi suan fa	国密加密算法	100
+guo mi ju le bu	国米俱乐部	100
+guo mi ming su	国米名宿	100
+guo mi suan fa	国密算法	100
+guo min bing	国民兵	100
+guo min chu xu lv	国民储蓄率	100
+guo min da hui dai biao	国民大会代表	100
+guo min dang ban	国民党版	100
+guo min dang ji	国民党籍	100
+guo min dang jun dui	国民党军队	100
+guo min dang te wu	国民党特务	100
+guo min dang wen chuan hui	国民党文传会	100
+guo min du	国民度	100
+guo min du chao gao	国民度超高	100
+guo min ge ming dang	国民革命党	100
+guo min hao gan du	国民好感度	100
+guo min ji	国民级	100
+guo min jiao yu ti xi	国民教育体系	100
+guo min jiao yu xi lie	国民教育系列	100
+guo min jing ji hang ye	国民经济行业	100
+guo min jing ji hang ye fen lei	国民经济行业分类	100
+guo min jing ji ti xi	国民经济体系	100
+guo min jing ji yun xing	国民经济运行	100
+guo min jing ji yun xing qing kuang	国民经济运行情况	100
+guo min jing ji zeng zhang	国民经济增长	100
+guo min li yi fan li	国民礼仪范例	100
+guo min mei mei	国民妹妹	100
+guo min ping jun	国民平均	100
+guo min ping jun suo de	国民平均所得	100
+guo min ren zhi du	国民认知度	100
+guo min shen fen	国民身份	100
+guo min shen fen zheng	国民身份证	100
+guo min sheng chan mao e	国民生产毛额	100
+guo min sheng huo xu zhi	国民生活须知	100
+guo min wei dui	国民卫队	100
+guo min xiao cao	国民校草	100
+guo min xiao cao shi nv sheng	国民校草是女生	100
+guo min xiao hua	国民校花	100
+guo min xing bi yan	过敏性鼻炎	100
+guo min xing fan ying	过敏性反应	100
+guo min xing xun ma zhen	过敏性荨麻疹	100
+guo min yi hui yi zhang	国民议会议长	100
+guo min zhi ming du	国民知名度	100
+guo min zhi sheng dang	国民之声党	100
+guo min zhu zhai	国民住宅	100
+guo ming de	过命的	100
+guo ming de jiao qing	过命的交情	100
+guo ming de xiong di	过命的兄弟	100
+guo ming ji	郭明錤	100
+guo ming wu	郭明武	100
+guo mu lin	果木林	100
+guo mu yuan	果木园	100
+guo mu zhong	果木中	100
+guo nan fang yin	国难方殷	100
+guo nan zhi ji	国难之际	100
+guo nao zi	过脑子	100
+guo nei ban	国内版	100
+guo nei ban dao ti hang ye	国内半导体行业	100
+guo nei chang xian	国内长线	100
+guo nei chu xing	国内出行	100
+guo nei chuan bo	国内传播	100
+guo nei de	国内的	100
+guo nei de feng qi	国内的风气	100
+guo nei de xin wen	国内的新闻	100
+guo nei de yu le quan	国内的娱乐圈	100
+guo nei di chan	国内地产	100
+guo nei di fang	国内地方	100
+guo nei di qu	国内地区	100
+guo nei ding jian gao xiao	国内顶尖高校	100
+guo nei duo di	国内多地	100
+guo nei fang di chan	国内房地产	100
+guo nei fang di chan shi chang	国内房地产市场	100
+guo nei gao xiao	国内高校	100
+guo nei ge di	国内各地	100
+guo nei ge sheng	国内各省	100
+guo nei gui mo zui da	国内规模最大	100
+guo nei guo wai	国内国外	100
+guo nei hai shi guo wai	国内还是国外	100
+guo nei hang huo	国内行货	100
+guo nei hang qing	国内行情	100
+guo nei hang ye	国内行业	100
+guo nei jing ji xia xing	国内经济下行	100
+guo nei kua sheng	国内跨省	100
+guo nei liu xing	国内流行	100
+guo nei lv xing	国内旅行	100
+guo nei lv xing she	国内旅行社	100
+guo nei ming xiao	国内名校	100
+guo nei mo te	国内模特	100
+guo nei mu di di	国内目的地	100
+guo nei neng yong	国内能用	100
+guo nei neng yong de	国内能用的	100
+guo nei ren ke du	国内认可度	100
+guo nei shang ye yin hang	国内商业银行	100
+guo nei sheng chan jing e	国内生产净额	100
+guo nei sheng chan zong zhi zeng zhang	国内生产总值增长	100
+guo nei shi chang gui mo	国内市场规模	100
+guo nei shi chang zhan you lv	国内市场占有率	100
+guo nei shuai xian	国内率先	100
+guo nei te gong	国内特供	100
+guo nei wai can zhan	国内外参展	100
+guo nei wai gao xiao	国内外高校	100
+guo nei wai ming xiao	国内外名校	100
+guo nei wai tong hang	国内外同行	100
+guo nei wai zhi ming gao xiao	国内外知名高校	100
+guo nei wen du	锅内温度	100
+guo nei xian	国内线	100
+guo nei xue xiao	国内学校	100
+guo nei yi zuo	国内译作	100
+guo nei yin hang ka	国内银行卡	100
+guo nei yin hang ye	国内银行业	100
+guo nei yin yue	国内音乐	100
+guo nei yu le	国内娱乐	100
+guo nei yu le quan	国内娱乐圈	100
+guo nei yuan xiao	国内院校	100
+guo nei zhi lian	国内直连	100
+guo nei zhi ming du	国内知名度	100
+guo nei zhi ming gao xiao	国内知名高校	100
+guo nei zhong dian da xue	国内重点大学	100
+guo nei zhong gao feng xian di qu	国内中高风险地区	100
+guo nei zhu ming gao xiao	国内著名高校	100
+guo nei zui chang	国内最长	100
+guo nian bi bei	过年必备	100
+guo nian bu tie	过年补贴	100
+guo nian cai	过年菜	100
+guo nian chi fan	过年吃饭	100
+guo nian chi shen me	过年吃什么	100
+guo nian dang	过年档	100
+guo nian dang tian	过年当天	100
+guo nian de gan jue	过年的感觉	100
+guo nian de qi fen	过年的气氛	100
+guo nian de shi hou	过年的时候	100
+guo nian fa	过年发	100
+guo nian fa hong bao	过年发红包	100
+guo nian hao guo nian hao	过年好过年好	100
+guo nian hao ya	过年好呀	100
+guo nian hui bu qu	过年回不去	100
+guo nian ji tian	过年几天	100
+guo nian la	过年啦	100
+guo nian le ma	过年了嘛	100
+guo nian li	过年里	100
+guo nian lou	过年喽	100
+guo nian mei hui qu	过年没回去	100
+guo nian na tian	过年那天	100
+guo nian qi fen	过年气氛	100
+guo nian qi tian le	过年七天乐	100
+guo nian san jian tao	过年三件套	100
+guo nian shi	过年时	100
+guo nian wan	过年玩	100
+guo nian zhang jia	过年涨价	100
+guo nian zhe ji tian	过年这几天	100
+guo nv shi	郭女士	100
+guo pan xian sheng	果盘先生	100
+guo pang jian ji	腘旁腱肌	100
+guo pi tong	果皮筒	100
+guo pin xing dong	国聘行动	100
+guo ping an ye	过平安夜	100
+guo ping ao yun mo ni sai	国乒奥运模拟赛	100
+guo ping jing di	国乒劲敌	100
+guo ping mei	国乒没	100
+guo qi ban	国旗班	100
+guo qi gai ge san nian xing dong	国企改革三年行动	100
+guo qi ge	国旗歌	100
+guo qi ge shou	过气歌手	100
+guo qi guo qi	国旗国旗	100
+guo qi huang qin	国戚皇亲	100
+guo qi jing li	国旗敬礼	100
+guo qi lai	过起来	100
+guo qi lin	郭麒麟	100
+guo qi mei guo qi	过期没过期	100
+guo qi ming xing	过气明星	100
+guo qi wei fu	过期未付	100
+guo qi xi a	过七夕啊	100
+guo qi yan yuan	过气演员	100
+guo qian ren	过千人	100
+guo qian zhe	郭虔哲	100
+guo qiang hu tong	国强胡同	100
+guo qiang ti	过墙梯	100
+guo qiao ban	国侨办	100
+guo qiao chai qiao	过桥拆桥	100
+guo qiao chou ban	过桥抽板	100
+guo qing chang jia qi jian	国庆长假期间	100
+guo qing chu xing	国庆出行	100
+guo qing da dian	国庆大典	100
+guo qing dang	国庆档	100
+guo qing de shi hou	国庆的时候	100
+guo qing diao cha	国情调查	100
+guo qing jie chang jia	国庆节长假	100
+guo qing jie kuai le	国庆节快乐	100
+guo qing kuai le	国庆快乐	100
+guo qing qi tian chang jia	国庆七天长假	100
+guo qing sheng dian	国庆盛典	100
+guo qing xian li	国庆献礼	100
+guo qing xiao chang jia qi jian	国庆小长假期间	100
+guo qing zhi yu	过情之誉	100
+guo qing zhong qiu chang jia	国庆中秋长假	100
+guo qing zhong qiu kuai le	国庆中秋快乐	100
+guo qiong min kun	国穷民困	100
+guo qu chang lai	过去常来	100
+guo qu de	过去的	100
+guo qu de chuan tong	过去的传统	100
+guo qu de gan jue	过去的感觉	100
+guo qu de mo shi	过去的模式	100
+guo qu de mu yang	过去的模样	100
+guo qu de shi er	过去的事儿	100
+guo qu de yi duan shi jian	过去的一段时间	100
+guo qu de yi nian	过去的一年	100
+guo qu de yi nian li	过去的一年里	100
+guo qu de yi nian zhong	过去的一年中	100
+guo qu de yi qie	过去的一切	100
+guo qu de yi zhou	过去的一周	100
+guo qu fa sheng le shen me	过去发生了什么	100
+guo qu he wei lai	过去和未来	100
+guo qu hen chang shi jian	过去很长时间	100
+guo qu hen chang yi duan shi jian	过去很长一段时间	100
+guo qu jin xing shi	过去进行式	100
+guo qu jin xing shi	过去进行时	100
+guo qu jing yan	过去经验	100
+guo qu kan kan	过去看看	100
+guo qu le a	过去了啊	100
+guo qu le ma	过去了吗	100
+guo qu shi	过去式	100
+guo qu shi guo qu	过去是过去	100
+guo qu wan cheng shi	过去完成式	100
+guo qu xin bu ke de	过去心不可得	100
+guo qu yu wei lai	过去与未来	100
+guo qu yu xian zai	过去与现在	100
+guo qu zai shuo ba	过去再说吧	100
+guo qu zhang hao	国区账号	100
+guo qu zhang hu	国区账户	100
+guo ran a	果然啊	100
+guo ran bu xing	果然不行	100
+guo ran da qi lai le	果然打起来了	100
+guo ran hai shi	果然还是	100
+guo ran jiang hai shi lao de la	果然姜还是老的辣	100
+guo ran ke wu	果然可恶	100
+guo ran liao de	果然了得	100
+guo ran mei cuo	果然没错	100
+guo ran mei rang ren shi wang	果然没让人失望	100
+guo ran mei rang wo shi wang	果然没让我失望	100
+guo ran mei you rang wo shi wang	果然没有让我失望	100
+guo ran ming bu xu chuan	果然名不虚传	100
+guo ran shi ni	果然是你	100
+guo ran shi zai	果然是在	100
+guo ran weng	果然翁	100
+guo ran ya	果然呀	100
+guo ran you xing qu	果然有兴趣	100
+guo ran yu le	果然娱乐	100
+guo re du	过热度	100
+guo ren bin guan	国人宾馆	100
+guo ren cai lve	过人才略	100
+guo ren cheng gong lv	过人成功率	100
+guo ren de	国人的	100
+guo ren de	过人的	100
+guo ren ji qiao	过人技巧	100
+guo ru suo liao	果如所料	100
+guo rui cheng	国瑞城	100
+guo run qi	郭润起	100
+guo ruo min qiong	国弱民穷	100
+guo san ba	过三八	100
+guo san shang	国三上	100
+guo san sheng	国三生	100
+guo san xia	国三下	100
+guo se tian zi	国色天姿	100
+guo se wu shuang	国色无双	100
+guo shan che hang qing	过山车行情	100
+guo shan feng	过山风	100
+guo shan ji	过山鲫	100
+guo shan long	过山龙	100
+guo shang lai	裹上来	100
+guo shang le	过上了	100
+guo shang le hao ri zi	过上了好日子	100
+guo shang le xing fu de sheng huo	过上了幸福的生活	100
+guo shang qu	裹上去	100
+guo she dang	国社党	100
+guo shen lv	过审率	100
+guo shen me yang de sheng huo	过什么样的生活	100
+guo sheng ce lve	国盛策略	100
+guo sheng dao	国省道	100
+guo sheng dao lu	国省道路	100
+guo sheng gan dao	国省干道	100
+guo sheng gan xian	国省干线	100
+guo sheng gan xian gong lu	国省干线公路	100
+guo sheng hua	郭盛华	100
+guo sheng hua	郭胜华	100
+guo sheng ji	腘绳肌	100
+guo sheng ji tuan	国盛集团	100
+guo sheng jin kong	国盛金控	100
+guo sheng kong xian	过省控线	100
+guo sheng ren kou	过剩人口	100
+guo sheng ri song shen me li wu	过生日送什么礼物	100
+guo sheng zheng quan	国盛证券	100
+guo sheng zheng quan yan bao	国盛证券研报	100
+guo sheng zhi ke	国盛智科	100
+guo shi bu hou	过时不侯	100
+guo shi chang	果实长	100
+guo shi da gang	国史大纲	100
+guo shi de	过时的	100
+guo shi fu	郭师傅	100
+guo shi hui yi	国是会议	100
+guo shi le	过世了	100
+guo shi ma ge	裹尸马革	100
+guo shi mian	过世面	100
+guo shi neng li jue xing	果实能力觉醒	100
+guo shi ri fei	国是日非	100
+guo shi ri shuai	国势日衰	100
+guo shi sheng zhang	果实生长	100
+guo shi wei dai	国势危殆	100
+guo shi wei zhong	国事为重	100
+guo shi wu shuang shi san mian	国士无双十三面	100
+guo shi wu shuang shi san mian ting	国士无双十三面听	100
+guo shi ying du	果实硬度	100
+guo shi zhi feng	国士之风	100
+guo shi zhi ren zhong shang zui	过失致人重伤罪	100
+guo shi zhi si	过失致死	100
+guo shi zhu zi	国食注字	100
+guo shi zhuo se	果实着色	100
+guo shou di luo	果熟蒂落	100
+guo shu di luo	果熟蒂落	100
+guo shu gong pin	果蔬贡品	100
+guo shu guan	国术馆	100
+guo shu ji di	果蔬基地	100
+guo shu she	国术社	100
+guo shu sheng zhang	果树生长	100
+guo shu suan suan ru	果蔬酸酸乳	100
+guo shu ti fu	果树蹄蝠	100
+guo shu tong	郭姝彤	100
+guo shu tuan	国术团	100
+guo shu yao	郭书瑶	100
+guo shuai dao	锅甩到	100
+guo shuai gei	锅甩给	100
+guo shuang jie	过双节	100
+guo shui di shui	国税地税	100
+guo shui xi tong	国税系统	100
+guo shuo shi	郭硕士	100
+guo si ban	国四班	100
+guo song tao	郭松焘	100
+guo tai chan wu	国泰产物	100
+guo tai cheng	郭台成	100
+guo tai gong si	国泰公司	100
+guo tai hang kong	国泰航空	100
+guo tai min kang	国泰民康	100
+guo tai shi hua	国泰世华	100
+guo tai shi hua yin hang	国泰世华银行	100
+guo tai tai	郭太太	100
+guo tai yi yuan	国泰医院	100
+guo tai yu	国台语	100
+guo tai zong he yi yuan	国泰综合医院	100
+guo tan xian an	过碳酰胺	100
+guo tiao ji jin	国调基金	100
+guo tie nv hai	锅贴女孩	100
+guo tie zi	锅贴子	100
+guo ting lu	过庭录	100
+guo ting zhi xun	过庭之训	100
+guo tong kuang	国统矿	100
+guo tou hua	过头话	100
+guo tou le	过头了	100
+guo tou le ba	过头了吧	100
+guo tu an quan	国土安全	100
+guo tu an quan bu	国土安全部	100
+guo tu an quan bu bu zhang	国土安全部部长	100
+guo tu an quan bu zhang	国土安全部长	100
+guo tu an quan ju	国土安全局	100
+guo tu diao cha	国土调查	100
+guo tu fang xian	国土防线	100
+guo tu jiao tong sheng	国土交通省	100
+guo tu ju zhang	国土局长	100
+guo tu kong jian gui hua ti xi	国土空间规划体系	100
+guo tu lv hua xing dong	国土绿化行动	100
+guo tu ri cu	国土日蹙	100
+guo tu zi xun xi tong	国土资讯系统	100
+guo tu zi yuan xi tong	国土资源系统	100
+guo wai can zhan	国外参展	100
+guo wai chu chai	国外出差	100
+guo wai de	国外的	100
+guo wai di qu	国外地区	100
+guo wai diao cha	国外调查	100
+guo wai du jia	国外度假	100
+guo wai fa xing	国外发行	100
+guo wai gao xiao	国外高校	100
+guo wai hui dui	国外汇兑	100
+guo wai ju le bu	国外俱乐部	100
+guo wai lv xing	国外旅行	100
+guo wai mao yi	国外贸易	100
+guo wai ming xiao	国外名校	100
+guo wai nei	国外内	100
+guo wai wan jia	国外玩家	100
+guo wai xue xiao	国外学校	100
+guo wai yi zuo	国外译作	100
+guo wai yin yue	国外音乐	100
+guo wai yu le	国外娱乐	100
+guo wai yuan xiao	国外院校	100
+guo wan duan wu	过完端午	100
+guo wan jie le	过完节了	100
+guo wan qing ming	过完清明	100
+guo wan qing ming jie	过完清明节	100
+guo wan ren	过万人	100
+guo wan rong	郭婉容	100
+guo wan sheng ri	过完生日	100
+guo wan shi wu	过完十五	100
+guo wan su du	过弯速度	100
+guo wan wu yi	过完五一	100
+guo wan xiao nian	过完小年	100
+guo wan yuan dan	过完元旦	100
+guo wan yuan xiao	过完元宵	100
+guo wan zhe ge	过完这个	100
+guo wan zhong qiu	过完中秋	100
+guo wang che liang he xing ren	过往车辆和行人	100
+guo wang chong qing dian li	国网重庆电力	100
+guo wang da dao	国王大道	100
+guo wang de	国王的	100
+guo wang de xin yi	国王的新衣	100
+guo wang de xing ren	过往的行人	100
+guo wang de yan jiang	国王的演讲	100
+guo wang de yi qie	过往的一切	100
+guo wang ji qiu	过网击球	100
+guo wang jia po	国亡家破	100
+guo wang nian	过旺年	100
+guo wang ren	过往人	100
+guo wang ren sheng	过往人生	100
+guo wang zhi lei	国王之泪	100
+guo wang zhi shou	国王之手	100
+guo wei cha wei	果味茶味	100
+guo wei hua	国伟化	100
+guo wei liang	郭伟亮	100
+guo wei qing shi	郭隗请始	100
+guo wei yi shen	过为已甚	100
+guo wen gui	郭文贵	100
+guo wen ke	国文科	100
+guo wen ke	国文课	100
+guo wen xi	国文系	100
+guo wo nang zhong	腘窝囊肿	100
+guo wu ci qing	国务次卿	100
+guo wu fen zhong	过五分钟	100
+guo wu hui yi	国务会议	100
+guo wu mi shu	国务秘书	100
+guo wu ning sui	国无宁岁	100
+guo wu qing di le sen	国务卿蒂勒森	100
+guo wu wei yuan hui	国务委员会	100
+guo wu wei yuan hui wei yuan zhang	国务委员会委员长	100
+guo wu yuan can shi	国务院参事	100
+guo wu yuan can shi shi	国务院参事室	100
+guo wu yuan fu mi shu zhang	国务院副秘书长	100
+guo wu yuan gang ao shi wu ban gong shi	国务院港澳事务办公室	100
+guo wu yuan guan yu jia kuai jian she quan guo tong yi da shi chang de yi jian	国务院关于加快建设全国统一大市场的意见	100
+guo wu yuan he sheng	国务院和省	100
+guo wu yuan he sheng wei	国务院和省委	100
+guo wu yuan ji sheng wei	国务院及省委	100
+guo wu yuan mi shu zhang	国务院秘书长	100
+guo wu zhang guan	国务长官	100
+guo xi chang kuan	过膝长款	100
+guo xi chang qun	过膝长裙	100
+guo xi chang tong xue	过膝长筒靴	100
+guo xi chang wa	过膝长袜	100
+guo xi chang xue	过膝长靴	100
+guo xi de chang du	过膝的长度	100
+guo xian bing	果馅饼	100
+guo xian de	过线的	100
+guo xian mei	过线没	100
+guo xian ni	郭羡妮	100
+guo xiao jie	郭小姐	100
+guo xiao lin	郭小霖	100
+guo xiao mei	郭小妹	100
+guo xiao si	郭小四	100
+guo xiao zhang	郭校长	100
+guo xin qi	郭芯其	100
+guo xing xiang	国姓乡	100
+guo xing yu de	果行育德	100
+guo xue chang shi	国学常识	100
+guo xue shan cao di	过雪山草地	100
+guo xue she	国学社	100
+guo xue xiao ming shi	国学小名士	100
+guo ya lin	国亚林	100
+guo yan cheng song	过眼成诵	100
+guo yan gao dian	果焰糕点	100
+guo yan yan hua	过眼烟花	100
+guo yan zi	锅烟子	100
+guo yang hua jia	过氧化钾	100
+guo yang hua li	过氧化锂	100
+guo yang hua mei	过氧化镁	100
+guo yang hua niao	过氧化脲	100
+guo yang hua si	过氧化锶	100
+guo yang hua xin	过氧化锌	100
+guo yang wu mei ti	过氧物酶体	100
+guo ye fei	过夜费	100
+guo yi bei zi	过一辈子	100
+guo yi duan	过一段	100
+guo yi duan shi jian	过一段时间	100
+guo yi jie	国医节	100
+guo yi ke	过一科	100
+guo yi men	过一门	100
+guo yi nong wei ben	国以农为本	100
+guo yi shang	国一上	100
+guo yi shen jia	过亿身家	100
+guo yi sheng	国一生	100
+guo yi suan	过乙酸	100
+guo yi wen	郭译文	100
+guo yi xia	国一下	100
+guo yi ze	郭一泽	100
+guo yi zhen zi	过一阵子	100
+guo yi zhi	国一制	100
+guo yin ma	过瘾吗	100
+guo yong huai	郭永怀	100
+guo yong zhi	郭勇志	100
+guo you cai chan ju	国有财产局	100
+guo you da xing	国有大行	100
+guo you da xing shang ye yin hang	国有大型商业银行	100
+guo you da xing yin hang	国有大型银行	100
+guo you da yin hang	国有大银行	100
+guo you hang	国有行	100
+guo you hua bo tu di	国有划拨土地	100
+guo you jian she yong di	国有建设用地	100
+guo you lin di	国有林地	100
+guo you liu da xing	国有六大行	100
+guo you nong yong di	国有农用地	100
+guo you si da hang	国有四大行	100
+guo you si da yin hang	国有四大银行	100
+guo you suo jian	果有所见	100
+guo you tu di chu rang	国有土地出让	100
+guo you tu di shi yong quan zheng	国有土地使用权证	100
+guo you tu di shi yong zheng	国有土地使用证	100
+guo you wu da hang	国有五大行	100
+guo you zheng ce	国有政策	100
+guo you zhong dian	国有重点	100
+guo you zhong dian gu gan qi ye	国有重点骨干企业	100
+guo you zhong dian qi ye	国有重点企业	100
+guo you zhong yao gu gan qi ye	国有重要骨干企业	100
+guo yu ben zhong	过于笨重	100
+guo yu bu ji	过与不及	100
+guo yu cao shuai	过于草率	100
+guo yu cao xin	过于操心	100
+guo yu cao xin le	过于操心了	100
+guo yu chong dong	过于冲动	100
+guo yu chuan tong	过于传统	100
+guo yu ci dian	国语辞典	100
+guo yu cong ming	过于聪明	100
+guo yu dan qu	国语单曲	100
+guo yu di diao	过于低调	100
+guo yu di jian	过于低贱	100
+guo yu e lie	过于恶劣	100
+guo yu fan zhong	过于繁重	100
+guo yu gao diao	过于高调	100
+guo yu guo zhi jian de guan xi	国与国之间的关系	100
+guo yu hou zhong	过于厚重	100
+guo yu ju	国语剧	100
+guo yu kan zhong	过于看重	100
+guo yu ke	国语科	100
+guo yu ke	国语课	100
+guo yu le guan	过于乐观	100
+guo yu liu xing	国语流行	100
+guo yu long zhong	过于隆重	100
+guo yu luo ma zi	国语罗马字	100
+guo yu man chang	过于漫长	100
+guo yu mo hu	过于模糊	100
+guo yu pian yi	过于便宜	100
+guo yu qiang jing	过于强劲	100
+guo yu ri bao	国语日报	100
+guo yu wen	国语文	100
+guo yu yan zhong	过于严重	100
+guo yu yi zi duo yin shen ding biao	国语一字多音审订表	100
+guo yu zhao ji	过于着急	100
+guo yu zhao ji a	过于着急啊	100
+guo yu zhong	过于重	100
+guo yu zhong shi	过于重视	100
+guo yu zhu yin fu hao di er shi	国语注音符号第二式	100
+guo yu zhu yin fu hao di yi shi	国语注音符号第一式	100
+guo yuan ji di	果园基地	100
+guo yuan xiao	过元宵	100
+guo yuan xiao jie	过元宵节	100
+guo yuan xiao le	过元宵了	100
+guo yuan zhang	郭院长	100
+guo yue hua	郭月华	100
+guo yue jia	国乐家	100
+guo yun chang sheng	国运昌盛	100
+guo yun xing	国运兴	100
+guo yun yu	过云雨	100
+guo zai pian	锅仔片	100
+guo zai yu	锅仔鱼	100
+guo zai yun xing	过载运行	100
+guo zao de you hua	过早的优化	100
+guo zao de you hua shi wan e zhi yuan	过早的优化是万恶之源	100
+guo zao niao	聒噪鸟	100
+guo zao qi bao	过早起爆	100
+guo zao si wang	过早死亡	100
+guo zao you hua	过早优化	100
+guo zao you hua shi wan e zhi yuan	过早优化是万恶之源	100
+guo ze gou	果则沟	100
+guo zhai fa xing	国债发行	100
+guo zhai fa xing shi jian	国债发行时间	100
+guo zhai gui mo	国债规模	100
+guo zhai li lv	国债利率	100
+guo zhai shou yi lv	国债收益率	100
+guo zhai shou yi lv qu xian	国债收益率曲线	100
+guo zhan bu ting	过站不停	100
+guo zhan da ting	过站大厅	100
+guo zhao guan	过昭关	100
+guo zhe cha bu duo de yi tian	过着差不多的一天	100
+guo zhe cun mei zhe dian	过这村没这店	100
+guo zhe diao	裹着貂	100
+guo zhe mei hao de sheng huo	过着美好的生活	100
+guo zhe mian bei	裹着棉被	100
+guo zhe ping fan de sheng huo	过着平凡的生活	100
+guo zhe pu tong de sheng huo	过着普通的生活	100
+guo zhe pu tong ren de sheng huo	过着普通人的生活	100
+guo zhe shen me yang de sheng huo	过着什么样的生活	100
+guo zhe xiao jiao	裹着小脚	100
+guo zhe xin de guang	裹着心的光	100
+guo zhe xing fu de sheng huo	过着幸福的生活	100
+guo zhe xing fu sheng huo	过着幸福生活	100
+guo zhe yu jin	裹着浴巾	100
+guo zhe zen yang de sheng huo	过着怎样的生活	100
+guo zhe zi ji de sheng huo	过着自己的生活	100
+guo zhe zi ji de xiao ri zi	过着自己的小日子	100
+guo zhen ju	国侦局	100
+guo zhen tai	郭振泰	100
+guo zhen zi	过阵子	100
+guo zhi chu jun	国之储君	100
+guo zhi hang ye	果汁行业	100
+guo zhi ming	郭志明	100
+guo zhi shang	国之殇	100
+guo zhi zhen gan	国之桢干	100
+guo zhi zhong bao	国之重宝	100
+guo zhi zhong qi	国之重器	100
+guo zhi zhu shi	国之柱石	100
+guo zhong de fu dan	过重的负担	100
+guo zhong de ti li lao dong	过重的体力劳动	100
+guo zhong dian	国重点	100
+guo zhong sheng	国中生	100
+guo zhong shu	蝈螽属	100
+guo zhu ren	郭主任	100
+guo zhuan dao	锅转到	100
+guo zi biao zhun	国字标准	100
+guo zi dong	果子冻	100
+guo zi gan	果子干	100
+guo zi gan	郭子干	100
+guo zi gan er	果子干儿	100
+guo zi gei zhai le	果子给摘了	100
+guo zi lian	国字脸	100
+guo zi qian	郭子乾	100
+guo zi tian se	国姿天色	100
+guo zi wei xi tong	国资委系统	100
+guo zi xi	国资系	100
+guo zi xi tong	国资系统	100
+guo zi yao	果子药	100
+guo zi yun	国资云	100
+guo zong han	郭宗翰	100
+guo zu bi sai	国足比赛	100
+guo zu dui zhang	国足队长	100
+guo zu jia you	国足加油	100
+guo zu le xi yin	过足了戏瘾	100
+guo zu le yin	过足了瘾	100
+guo zu ming su	国足名宿	100
+guo hang huo yun	国航货运	99
+guo jia shi pin an quan shi gu ying ji yu an	国家食品安全事故应急预案	99
+guo jia shi pin yao pin jian du guan li ju zheng ce fa gui si	国家食品药品监督管理局政策法规司	99
+guo jing fei	郭京飞	99
+guo fu shou yi	国富收益	98
+guo jia jiao yu kao shi kao wu an quan bao mi gong zuo gui ding	国家教育考试考务安全保密工作规定	97
+guo shi yao jian xie	国食药监械	97
+guo ying lu	郭应禄	97
+guo fu	果蝠	96
+guo zhi huo shang	锅置火上	96
+guo zhu zi	过柱子	96
+guo de xiang	裹得像	95
+guo duo	果多	95
+guo ji shou zhi tiao kuan	国际收支条款	95
+guo mei mei men	郭美美门	95
+guo min sheng chan jing zhi	国民生产净值	95
+guo ren jie yue ke sha	国人皆曰可杀	95
+guo yu zi xin guo shi	过于自信过失	95
+guo men di yi guang chang	国门第一广场	92
+guo xin ji tuan	国新集团	92
+guo ji jia	国际家	91
+guo jia tu fa huan jing shi jian ying ji yu an	国家突发环境事件应急预案	91
+guo kui mo	锅盔馍	91
+guo shi fan	国事犯	91
+guo wu yuan ban gong ting guan yu xian zhi sheng chan xiao shou shi yong su liao gou wu	国务院办公厅关于限制生产销售使用塑料购物	91
+guo bian jing	国边境	90
+guo cheng huan cun	过程缓存	90
+guo ji mian yi	过继免疫	90
+guo li zhong yang	国立中央	90
+guo nei sai	国内赛	90
+guo wu yuan te qu ban gong shi	国务院特区办公室	90
+guo zhan shang wu zhong xin	国展商务中心	90
+guo cheng gao	过程稿	89
+guo fang gong lu	国防公路	89
+guo jia fang xun kang han ying ji yu an	国家防汛抗旱应急预案	89
+guo jia jia gong shi pin zhi liang jian du jian yan zhong xin	国家加工食品质量监督检验中心	88
+guo bao jin tai	国保金泰	87
+guo bao jin tai an quan ge li yu xin xi jiao huan xi tong	国保金泰安全隔离与信息交换系统	87
+guo bao jin tai xin xi an quan	国保金泰信息安全	87
+guo duan duan wang	果断断网	87
+guo fu an	国富安	87
+guo fu an dian zi shang wu an quan ren zheng	国富安电子商务安全认证	87
+guo guang xin xi chan ye	国光信息产业	87
+guo luo zhong yuan	果洛中院	87
+guo mai xin an	国脉信安	87
+guo nei dong tai qing yang	国内动态清样	87
+guo shu cha	果蔬茶	87
+guo tai wang xin	国泰网信	87
+guo xu yang	郭旭阳	87
+guo you fa	国邮发	87
+guo dao xian	国道线	86
+guo ren sha zhi ye	国人杀之也	86
+guo shao ya	锅烧鸭	86
+guo tou xin ji	国投新集	86
+guo lai shuo	过来说	85
+guo qu wan cheng jin xing shi	过去完成进行时	85
+guo shi bao zha zui	过失爆炸罪	85
+guo wu ning ri	国无宁日	85
+guo yang hua bei	过氧化钡	85
+guo wo	腘窝	84
+guo mian si chang	国棉四厂	83
+guo shi qiang sheng	国势强盛	83
+guo tu zi fa	国土资发	83
+guo yi yang	锅一样	83
+guo fu	郭芙	82
+guo ji you wu sun hai min shi ze ren gong yue	国际油污损害民事责任公约	82
+guo de zi	过的字	81
+guo dong san ming zhi	果冻三明治	81
+guo jia zhong yi yao guan li ju zhong yi shi zi ge ren zheng zhong xin	国家中医药管理局中医师资格认证中心	81
+guo xin bin guan	国信宾馆	81
+guo jia gong pai chu guo liu xue yan jiu sheng guan li gui ding	国家公派出国留学研究生管理规定	80
+guo jia jin shui	国家金税	80
+guo ren er	果仁儿	80
+guo shuang	果霜	80
+guo hua ji nian zhong xue	国华纪念中学	79
+guo ji hang kong fa	国际航空法	78
+guo zhi ban lv	果汁伴侣	78
+guo ku	过苦	77
+guo shao li yu	锅烧鲤鱼	77
+guo mian liu chang	国棉六厂	76
+guo wai li lun dong tai	国外理论动态	76
+guo wei lu	国威路	76
+guo ji xiang qi sai	国际象棋赛	75
+guo jia ge wu tuan	国家歌舞团	75
+guo jia tu di du cha ji nan ju	国家土地督察济南局	75
+guo jia zhuang	郭家庄	75
+guo nei xin jian	国内信件	75
+guo quan bei lu	国权北路	75
+guo you chang	国有厂	75
+guo jia gao ji shu chan ye fa zhan xiang mu guan li zan xing ban fa	国家高技术产业发展项目管理暂行办法	74
+guo jia ji zhuan xiang gui hua	国家级专项规划	74
+guo liang zhou	过两周	74
+guo you cai chan fa	国有财产法	74
+guo ji qi che zhi zao shang xie hui	国际汽车制造商协会	73
+guo jia an quan ting	国家安全厅	73
+guo ji jing ji he zuo shi wu	国际经济合作实务	72
+guo jie hou	过节后	72
+guo you qi ye zhi gong dai ye bao xian gui ding	国有企业职工待业保险规定	72
+guo ji mao yi tiao yue	国际贸易条约	71
+guo mao kao chi	国贸烤翅	71
+guo min xing pi zhen	过敏性皮疹	71
+guo shi xie lou guo jia mi mi zui	过失泄露国家秘密罪	71
+guo jia zui gao quan	国家最高权	70
+guo li fa	国立法	70
+guo qing lu	国庆路	70
+guo ji huo bi jin rong fa	国际货币金融法	68
+guo jia bang zhu	国家帮助	68
+guo mian san chang	国棉三厂	68
+guo quan lu	国权路	68
+guo wen xin xi	过问信息	68
+guo zha	锅渣	68
+guo bu duo jiu	过不多久	67
+guo cheng hui zong	过程汇总	67
+guo jia guan xia quan	国家管辖权	67
+guo jia huo mian quan	国家豁免权	67
+guo bin xie zi lou	国宾写字楼	66
+guo pin chao	郭品超	66
+guo ba tang	锅巴糖	65
+guo chan niu nai	国产牛奶	65
+guo guang zhou	过广州	65
+guo hai guang chang	国海广场	65
+guo ji xin gui	国际新规	65
+guo jia jia er	过家家儿	65
+guo kui dian	锅盔店	65
+guo ru	国辱	65
+guo wang zhe	过往者	65
+guo xie xia	裹挟下	65
+guo min xing ke sou	过敏性咳嗽	64
+guo shao ji	锅烧鸡	64
+guo hai fu lan ke lin	国海富兰克林	63
+guo ji mei shi cheng	国际美食城	63
+guo ji ruan jian da sha	国际软件大厦	63
+guo jia zhi liang jian du jian yan jian yi zong ju fa gui si	国家质量监督检验检疫总局法规司	63
+guo tu yin yue ting	国图音乐厅	63
+guo you bao xian gong si jian shi hui	国有保险公司监事会	63
+guo lai hou	过来后	62
+guo ba you fen	锅巴油粉	61
+guo ji fa yuan yuan	国际法渊源	61
+guo jia po huai xing di zhen ying ji yu an	国家破坏性地震应急预案	61
+guo qu xue	过去学	61
+guo an ju yuan	国安剧院	60
+guo fang lu	国防路	60
+guo ji jie suan yin hang	国际结算银行	60
+guo ji shu xue ao lin pi ke jing sai	国际数学奥林匹克竞赛	60
+guo shun dong lu	国顺东路	60
+guo wu yuan ke ji gan bu ju	国务院科技干部局	60
+guo xing dian zi	国兴电子	60
+guo qu shi le	过去式了	59
+guo you qi ye jing ying quan	国有企业经营权	59
+guo hua can ting	国华餐厅	58
+guo jia pei chang fei yong guan li ban fa	国家赔偿费用管理办法	58
+guo jia zong dong yuan fa	国家总动员法	57
+guo ying qi ye tiao jie shui	国营企业调节税	57
+guo shou mi xian	过手米线	56
+guo ji kong bu zhu yi fan zui	国际恐怖主义犯罪	55
+guo ji se ka	国际色卡	55
+guo jiang san ming zhi	果酱三明治	55
+guo tuo ji	锅驼机	55
+guo jia an quan fa shi shi xi ze	国家安全法实施细则	54
+guo liu tiao	国六条	54
+guo lu	国路	54
+guo yue hua	郭跃华	54
+guo ji qi ye zhong xin	国际企业中心	53
+guo ji shang bao she	国际商报社	53
+guo nei you xian fen bao	国内优先分保	52
+guo ji ji shu zhuan rang he tong	国际技术转让合同	51
+guo jia gong wu yuan zhi du shi shi fang an	国家公务员制度实施方案	51
+guo wai wen xue	国外文学	51
+guo bang yuan	过磅员	50
+guo ji hai yun wei xian huo wu gui ze	国际海运危险货物规则	50
+guo ji yuan zi neng zu zhi	国际原子能组织	50
+guo tang er lin suan na	果糖二磷酸钠	50
+guo gong shan	郭公山	49
+guo ji da du	国际大都	49
+guo teng dian zi	国腾电子	49
+guo zhi ben zai jia	国之本在家	49
+guo cheng tong bu	过程同步	48
+guo mian er chang	国棉二厂	48
+guo shun lu	国顺路	48
+guo fang da sha	国防大厦	47
+guo jia zhu xi zhi du	国家主席制度	47
+guo lu cai shen	过路财神	47
+guo mian wu chang	国棉五厂	47
+guo shao hai shen	锅烧海参	47
+guo du lin yue bing	郭杜林月饼	46
+guo jia huang jin guan li ju	国家黄金管理局	46
+guo jia zhong da shi pin an quan shi gu ying ji yu an	国家重大食品安全事故应急预案	46
+guo shao zhou zi	锅烧肘子	46
+guo wei	果位	46
+guo xi	过溪	46
+guo jia fa ren	国家法人	45
+guo jia wan	郭家湾	45
+guo nei hui dui	国内汇兑	45
+guo bu guo shi	过不过时	44
+guo shen	过身	44
+guo tai lu	国泰路	44
+guo ying nong mu chang	国营农牧场	44
+guo an er dui	国安二队	43
+guo fang zhuan li tiao li	国防专利条例	43
+guo jia bu fen da xiao	国家不分大小	43
+guo jia gong pai chu guo liu xue xuan pai ban fa	国家公派出国留学选派办法	43
+guo nei chuan bo yun shu jing ying zi zhi guan li gui ding	国内船舶运输经营资质管理规定	43
+guo xi	过西	43
+guo you zi chan shou yi shou jiao guan li ban fa	国有资产收益收缴管理办法	43
+guo jia zhong da jian she xiang mu zhao biao tou biao jian du zan xing ban fa	国家重大建设项目招标投标监督暂行办法	42
+guo jian	过简	42
+guo qi qu	过气去	41
+guo wang gu	国王谷	41
+guo dong yuan xiang	郭东园巷	40
+guo ji jun shi fa	国际军事法	40
+guo ji mao yi ping heng	国际贸易平衡	40
+guo jia zhong dian gong yuan guan li ban fa	国家重点公园管理办法	40
+guo le ge ba yue	过了个把月	40
+guo min yuan	国民院	40
+guo wu yuan kou an ling dao xiao zu	国务院口岸领导小组	40
+guo zhai cheng xiao tuan cheng yuan zi ge shen pi ban fa	国债承销团成员资格审批办法	40
+guo zhai xian e	国债限额	40
+guo biao ben	国标本	39
+guo du jie ban	郭杜街办	39
+guo fan sheng	郭凡生	39
+guo ji fa zhan fa	国际发展法	39
+guo ji kou qiang zhong zhi xue hui	国际口腔种植学会	39
+guo ji zhao biao ji gou zi ge shen ding ban fa	国际招标机构资格审定办法	39
+guo jia tun	郭家屯	39
+guo yi hui	国议会	39
+guo zhuang zi	郭庄子	39
+guo zi rou	果子肉	39
+guo cheng luo ji	过程逻辑	38
+guo gong pao	过宫炮	38
+guo ji fa yan jiu yuan	国际法研究院	38
+guo ji huo bi ji jin hui	国际货币基金会	38
+guo ji min shi guan xia quan	国际民事管辖权	38
+guo ji qiang xing fa	国际强行法	38
+guo ji shang fa xue xi zhi dao	国际商法学习指导	38
+guo jia ren ding qi ye ji shu zhong xin guan li ban fa	国家认定企业技术中心管理办法	38
+guo shao bai cai	锅烧白菜	38
+guo tong wu liu cheng	国通物流城	38
+guo qiao chao shou	过桥抄手	37
+guo yang zhou	过扬州	37
+guo zhai fa xing jia ge	国债发行价格	37
+guo wu yuan ti zhi gai ge ban gong shi	国务院体制改革办公室	36
+guo xu	果序	36
+guo ji xiang qi dui	国际象棋队	35
+guo jia da shi	国家大师	35
+guo jia dian	郭家店	35
+guo kui	锅魁	35
+guo nei qian yi	国内迁移	35
+guo wai xin jian	国外信件	35
+guo hai feng	郭海峰	34
+guo ba huo shao	郭八火烧	33
+guo fang wang	国房网	33
+guo ji dao lu yun shu guan li gui ding	国际道路运输管理规定	33
+guo jia gong wu yuan hui bi zhi du	国家公务员回避制度	33
+guo jiang mian bao	果酱面包	33
+guo mao bu	国贸部	33
+guo ru qi yan	果如其言	33
+guo lin jia chang cai	郭林家常菜	32
+guo qi ren shen	过期妊娠	32
+guo shan dong	过山东	32
+guo tiao	粿条	32
+guo fang jiao yu zhong xin	国防教育中心	31
+guo jia cheng shi jian she zong ju	国家城市建设总局	31
+guo you rou ban mian	过油肉拌面	31
+guo yuan xin cun	果园新村	31
+guo yuan zhong qu	果园中区	31
+guo zhi yu kuai	果汁鱼块	31
+guo di chao tian	锅底朝天	30
+guo hua jiu lou	国华酒楼	30
+guo ji de er zi	过继的儿子	30
+guo ji dian zi ji shu wei yuan hui	国际电子技术委员会	30
+guo ji shang ye cheng	国际商业城	30
+guo jia duo nan	国家多难	30
+guo jia pei chang wei yuan hui	国家赔偿委员会	30
+guo fu min an	国富民安	29
+guo tie yu	锅贴鱼	29
+guo wen tao	郭文涛	29
+guo du shi zi	郭杜十字	28
+guo run jia yuan	国润家园	28
+guo jia gong wu yuan lu yong shi shi ban fa	国家公务员录用实施办法	27
+guo jiao jie	国交界	27
+guo liang	过梁	27
+guo shao zhu ti er	锅烧猪蹄儿	27
+guo tang yuan	郭汤圆	27
+guo yang lu	涡阳路	27
+guo fang	果房	26
+guo ji hang ban zai yun ren yuan xin xi yu bao shi shi ban fa	国际航班载运人员信息预报实施办法	26
+guo ji shang wu zhuan ye ren yuan zhi ye zi ge zhi du zan xing gui ding	国际商务专业人员职业资格制度暂行规定	26
+guo jia zi ran ke xue ji jin xiang mu guan li gui ding	国家自然科学基金项目管理规定	26
+guo nei ji	国内机	26
+guo run shang wu jiu dian	国润商务酒店	26
+guo wu yuan fu pin kai fa ban	国务院扶贫开发办	26
+guo xin qian shan	国信浅山	26
+guo ying mu chang	国营牧场	26
+guo you bao xian ji gou zhong da an jian ling dao ze ren zhui jiu shi xing ban fa	国有保险机构重大案件领导责任追究试行办法	26
+guo zhi min	郭智敏	26
+guo ji huo wu mai mai tong yi fa gong yue	国际货物买卖统一法公约	25
+guo ji zi you lao gong lian meng	国际自由劳工联盟	25
+guo jia qi	郭家麒	25
+guo jiao	锅焦	25
+guo ta bo cai	锅塌菠菜	25
+guo tie er	锅贴儿	25
+guo yun peng	郭云鹏	25
+guo zhou qun dao	果洲群岛	25
+guo jia fu shi pin zhi liang jian du jian yan zhong xin	国家副食品质量监督检验中心	24
+guo nei jing ji gong zheng	国内经济公证	24
+guo ru lin	郭汝霖	24
+guo shao man	锅烧鳗	24
+guo zheng zong	果蒸棕	24
+guo dian nan rui	国电南瑞	23
+guo hong da sha	国宏大厦	23
+guo ji dian xin gong yue	国际电信公约	23
+guo jia he ying ji yu an	国家核应急预案	23
+guo min xing fei yan	过敏性肺炎	23
+guo shui qiao	过水桥	23
+guo tiao tong	果条筒	23
+guo ting yi	郭廷以	23
+guo ji chan pin ze ren fa	国际产品责任法	22
+guo jia di tan zhi liang jian du jian yan zhong xin	国家地毯质量监督检验中心	22
+guo zhen ni	郭珍霓	22
+guo jia bian zhi wei yuan hui	国家编制委员会	21
+guo lao de	过老的	21
+guo lao mo	过劳模	21
+guo nei shui lu yun shu jing ying zi zhi guan li gui ding	国内水路运输经营资质管理规定	21
+guo nei yun ying quan	国内运营权	21
+guo ba san xian	锅巴三鲜	20
+guo bang chu	过磅处	20
+guo gong ping xiang	郭公坪乡	20
+guo gong ting zhan xie ding	国共停战协定	20
+guo jia she hui ke xue ji jin xiang mu guan li ban fa	国家社会科学基金项目管理办法	20
+guo jia tong xin bao zhang ying ji yu an	国家通信保障应急预案	20
+guo jiang jia xin bing	果酱夹心饼	20
+guo lv shen gou	国旅申购	20
+guo mei di yi cheng xiao qu	国美第一城小区	20
+guo qing xin cun	国庆新村	20
+guo tie yu pian	锅贴鱼片	20
+guo ji shang wu zhuan ye ren yuan zhi ye zi ge kao shi shi shi ban fa	国际商务专业人员职业资格考试实施办法	19
+guo jia xian jin guan li zhi du	国家现金管理制度	19
+guo mian shi qi chang	国棉十七厂	19
+guo bao	果报	18
+guo gang long	过岗龙	18
+guo ji fang zhi pin mao yi xie ding	国际纺织品贸易协定	18
+guo ji tuo guan zhi du	国际托管制度	18
+guo ji xi guan zuo fa	国际习惯做法	18
+guo jia zhi quan zhu yi	国家职权主义	18
+guo jiang jia xin bing gan	果酱夹心饼干	18
+guo ru gui	郭汝瑰	18
+guo tai shang chang	国泰商场	18
+guo zi shi	果子市	18
+guo bei cun	郭北村	17
+guo guang lu	国光路	17
+guo ji shang shi he tong fa	国际商事合同法	17
+guo ji shuang xing xian	国际双行线	17
+guo ji zhi wu ming ming fa gui	国际植物命名法规	17
+guo jia cheng shi shi di gong yuan guan li ban fa	国家城市湿地公园管理办法	17
+guo jia zhong dian feng jing ming sheng qu biao zhi	国家重点风景名胜区标志	17
+guo shi huo	过时货	17
+guo ji huo bi fa	国际货币法	16
+guo ji xu ke zheng xie yi	国际许可证协议	16
+guo jia pin dao	国家频道	16
+guo jia yi gong dai zhen guan li ban fa	国家以工代赈管理办法	16
+guo lin chang	果林场	16
+guo mao bin guan	国贸宾馆	16
+guo qiu da dian	国球大典	16
+guo shou jing ji nian guan	郭守敬纪念馆	16
+guo wen hua bu	国文化部	16
+guo xin jia yuan	国信嘉园	16
+guo da shun	郭大顺	15
+guo dao chang tong	过道畅通	15
+guo dong mai	腘动脉	15
+guo fen yan shen	过分延伸	15
+guo ji jing ji mao yi fa lv zhi du	国际经济贸易法律制度	15
+guo ji min jian hang kong zu zhi	国际民间航空组织	15
+guo ji re dai mu cai xie ding	国际热带木材协定	15
+guo jia gong cheng yan jiu zhong xin guan li ban fa	国家工程研究中心管理办法	15
+guo jia gong zhi ren yuan fan zui	国家公职人员犯罪	15
+guo jia jiu zai fang bing xin xi bao gao guan li gui fan	国家救灾防病信息报告管理规范	15
+guo jia shi pin yao pin jian du guan li ju ting zheng gui ze	国家食品药品监督管理局听证规则	15
+guo min ke	过敏科	15
+guo min xing jie chang yan	过敏性结肠炎	15
+guo nei wai xue	国内外学	15
+guo tai jin long	国泰金龙	15
+guo tai jin ying	国泰金鹰	15
+guo tang gan	果糖苷	15
+guo you mei kuang wa si zhi li gui ding	国有煤矿瓦斯治理规定	15
+guo dian da sha	国典大厦	14
+guo du gong yu	国都公寓	14
+guo ji ji zhuang xiang an quan gong yue	国际集装箱安全公约	14
+guo jin qian fan jie bu shi	过尽千帆皆不是	14
+guo shi fan zui	国事犯罪	14
+guo tai jin niu	国泰金牛	14
+guo tai shang zheng	国泰上证	14
+guo you lin chang guan li ju	国有林场管理局	14
+guo cheng du	过程度	13
+guo cheng yu yi	过程语义	13
+guo fang zhuan li dai li ji gou	国防专利代理机构	13
+guo hong bin guan	国宏宾馆	13
+guo jia wei sheng cheng shi kao he ming ming he jian du guan li ban fa	国家卫生城市考核命名和监督管理办法	13
+guo jia zhi ye wei sheng biao zhun guan li ban fa	国家职业卫生标准管理办法	13
+guo jia zi ran ke xue ji jin xiang mu zi zhu jing fei guan li ban fa	国家自然科学基金项目资助经费管理办法	13
+guo jiang su	果酱酥	13
+guo rong guo ji	国融国际	13
+guo yang yi suan rong ye	过氧乙酸溶液	13
+guo bin da sha	国宾大厦	12
+guo ji chuan bo zai zhong xian gong yue	国际船舶载重线公约	12
+guo jia ai	国家爱	12
+guo jia ke ji ji hua xiang mu guan li zan xing ban fa	国家科技计划项目管理暂行办法	12
+guo jia ke ji zhi cheng ji hua zhuan xiang jing fei guan li ban fa	国家科技支撑计划专项经费管理办法	12
+guo jia shi pin yao pin jian du guan li ju yao pin te bie shen pi cheng xu	国家食品药品监督管理局药品特别审批程序	12
+guo jia you xiu zi fei liu xue sheng jiang xue jin shi shi xi ze	国家优秀自费留学生奖学金实施细则	12
+guo jiao zhi mei	果胶酯酶	12
+guo ju mai er	郭巨埋儿	12
+guo lai shi	过来时	12
+guo li xuan fu yin liao	果粒悬浮饮料	12
+guo ling jia ri	果岭假日	12
+guo lv lie	过滤列	12
+guo qian cun	郭前村	12
+guo tang yin liao	果糖饮料	12
+guo er	过儿	11
+guo ji hai shang bi peng gui ze gong yue	国际海上避碰规则公约	11
+guo jia dian zi zheng wu gong cheng jian she xiang mu guan li zan xing ban fa	国家电子政务工程建设项目管理暂行办法	11
+guo jia jing ji zhu quan yuan ze	国家经济主权原则	11
+guo jing lu kou	过境路口	11
+guo shu chang	果树场	11
+guo tai jin qu	国泰进取	11
+guo tou rui yin	国投瑞银	11
+guo xue xiang	国学巷	11
+guo ge li	果戈里	10
+guo gong	郭公	10
+guo gong jiu	国公酒	10
+guo ji biao zhun tu shu bian hao	国际标准图书编号	10
+guo ji can	国际餐	10
+guo ji gu yong zhe zu zhi	国际雇佣者组织	10
+guo ji hai shi xie yi zu zhi	国际海事协议组织	10
+guo ji jiao	郭寄峤	10
+guo ji jing ji fa jiao cheng	国际经济法教程	10
+guo ji nong ye sheng chan lian meng	国际农业生产联盟	10
+guo ji shui shou xie ding zhong chang she ji gou yuan ze yan jiu	国际税收协定中常设机构原则研究	10
+guo ji zhuan yi	过继转移	10
+guo jia gong cheng shi yan shi guan li ban fa	国家工程实验室管理办法	10
+guo jia ji fei wu zhi wen hua yi chan bao hu yu guan li zan xing ban fa	国家级非物质文化遗产保护与管理暂行办法	10
+guo jia jin ku zhi du	国家金库制度	10
+guo jia xian xia	国家闲暇	10
+guo jia zhuan ying qi ye	国家专营企业	10
+guo kui jia lu rou	锅魁夹卤肉	10
+guo li tai wan min zhu ji nian guan zu zhi gui cheng	国立台湾民主纪念馆组织规程	10
+guo li zhuang	锅里壮	10
+guo mian qi chang	国棉七厂	10
+guo ren xi fu	国人西服	10
+guo ta pu cai	锅塌蒲菜	10
+guo tai na zhi	国泰纳指	10
+guo tu zi yuan diao cha zhuan xiang zi jin guan li zan xing ban fa	国土资源调查专项资金管理暂行办法	10
+guo yan ji wang	过眼即忘	10
+guo ying dong he nong chang	国营东和农场	10
+guo ying shu	果蝇属	10
+guo zhe ne	过着呢	10
+guo dian jie dai zhong xin	国电接待中心	9
+guo ge zhuang	果各庄	9
+guo hao de	果好的	9
+guo hua	过话	9
+guo huo	锅伙	9
+guo ji yu wai guo yi chuan zi yuan fa xuan bian	国际与外国遗传资源法选编	9
+guo jia cai chan huo mian quan	国家财产豁免权	9
+guo jia chu zhi cheng shi di tie shi gu zai nan ying ji yu an	国家处置城市地铁事故灾难应急预案	9
+guo jia fang guan ju	国家房管局	9
+guo jia yan cao zhuan mai ju zhuan mai jian du guan li si	国家烟草专卖局专卖监督管理司	9
+guo jia yin zhi	国家银质	9
+guo lu	过录	9
+guo nei wai feng chan pin biao zhun xuan bian	国内外蜂产品标准选编	9
+guo shan po	过山坡	9
+guo tu zi yuan jian cha yuan	国土资源监察员	9
+guo xiang hu tong	国祥胡同	9
+guo ying ma chang	国营马场	9
+guo ying xi lian nong chang	国营西联农场	9
+guo you tu di shi yong quan liu zhuan	国有土地使用权流转	9
+guo yu da jiu dian	国玉大酒店	9
+guo zi xiang	果子巷	9
+guo ban zi	果瓣子	8
+guo er zhuang	郭二庄	8
+guo ji di chu	国籍抵触	8
+guo ji na	国际娜	8
+guo jia di zhen ju	国家地震局	8
+guo jia gao ji jiao yu xing zheng xue yuan	国家高级教育行政学院	8
+guo jia lv you ju	国家旅游局	8
+guo jia ping	郭家坪	8
+guo jia tan	郭家滩	8
+guo jiang	过江	8
+guo jiang qiao ke li	果酱巧克力	8
+guo jing mai	腘静脉	8
+guo li ping	郭莉萍	8
+guo ren pai gu	果仁排骨	8
+guo shang	果商	8
+guo wang hu tong	国旺胡同	8
+guo wu yuan guo zi wei gong zuo gui ze	国务院国资委工作规则	8
+guo xing lu	国兴路	8
+guo ying dong hong nong chang	国营东红农场	8
+guo ying dong xing nong chang	国营东兴农场	8
+guo ying hong guang nong chang	国营红光农场	8
+guo ying mao yi zhi du	国营贸易制度	8
+guo zhai cun	郭宅村	8
+guo chan yin xiang zhi pin chu kou zhuan xiang zi jin guan li ban fa	国产音像制品出口专项资金管理办法	7
+guo gou cun	郭沟村	7
+guo he gong si	国合公司	7
+guo ji dian xin tong meng	国际电信同盟	7
+guo ji fan tan wu hui lu li lun yu si fa shi jian	国际反贪污贿赂理论与司法实践	7
+guo ji wu qi mao yi tiao li	国际武器贸易条例	7
+guo jia ao	郭家坳	7
+guo jia chang	郭家场	7
+guo jia shang hai xin yao an quan ping jia yan jiu zhong xin	国家上海新药安全评价研究中心	7
+guo jia tu fa gong gong shi jian yu an ti xi	国家突发公共事件预案体系	7
+guo jia zhong dian bao hu zhi wu zhi pin zui	国家重点保护植物制品罪	7
+guo jin tou zi	国金投资	7
+guo le huang yang jie	过了黄洋界	7
+guo lu xia	锅炉下	7
+guo quan bao	郭全宝	7
+guo ta huang yu	锅塌黄鱼	7
+guo tai da jiu dian	国泰大酒店	7
+guo tai jin ding	国泰金鼎	7
+guo tang zhu she ye	果糖注射液	7
+guo tie	国铁	7
+guo wu yuan gong zuo bu men mian shi kao guan zi ge guan li zan xing xi ze	国务院工作部门面试考官资格管理暂行细则	7
+guo you zi chan ping gu wei fa xing wei chu fa ban fa	国有资产评估违法行为处罚办法	7
+guo zei lu gui	国贼禄鬼	7
+guo zhu	过柱	7
+guo ji fan zui yu guo ji xing shi si fa xie zhu	国际犯罪与国际刑事司法协助	6
+guo ji jing ji fa re dian wen ti yan jiu	国际经济法热点问题研究	6
+guo ji jing ji fa xi ti ji	国际经济法习题集	6
+guo ji ke xue ji shu hui yi yu zhan lan guan li zan xing ban fa	国际科学技术会议与展览管理暂行办法	6
+guo ji nai zhi pin xie yi	国际奶制品协议	6
+guo ji niu rou xie yi	国际牛肉协议	6
+guo ji zhuan li fen lei si te la si bao xie ding	国际专利分类斯特拉斯堡协定	6
+guo jia ce hui ju zheng wu gong kai gui ding	国家测绘局政务公开规定	6
+guo jia du xue pin ren guan li ban fa	国家督学聘任管理办法	6
+guo jia ji qi cai chan huo mian quan	国家及其财产豁免权	6
+guo jia jing li	国家经历	6
+guo jia tou zi tu di kai fa zheng li xiang mu jun gong yan shou zan xing ban fa	国家投资土地开发整理项目竣工验收暂行办法	6
+guo jiu de	过旧的	6
+guo lai de	过来的	6
+guo lao	国老	6
+guo nei wai feng chan pin xiang guan fa lv fa gui hui bian	国内外蜂产品相关法律法规汇编	6
+guo pu sa	郭菩萨	6
+guo qiang lu	国强路	6
+guo tai jin lu	国泰金鹿	6
+guo tong da sha	国通大厦	6
+guo wu er jun	国无二君	6
+guo yan wang	国研网	6
+guo yi dong	郭衣洞	6
+guo ying ba yi nong chang	国营八一农场	6
+guo ying wu shi nong chang	国营乌石农场	6
+guo ying xin zhong nong chang	国营新中农场	6
+guo zhai qi huo jiao yi guan li zan xing ban fa	国债期货交易管理暂行办法	6
+guo zi chang	国资厂	6
+guo bi	馃箅	5
+guo chi	果翅	5
+guo chun feng shi li	过春风十里	5
+guo du nei ge	过渡内阁	5
+guo fen shou chang	过分瘦长	5
+guo gai shan	锅盖山	5
+guo geng	果梗	5
+guo guo	虢国	5
+guo hai de jia shi	郭海的家事	5
+guo ji bei ge ge yi qu	国际悲歌歌一曲	5
+guo ji fa zhuan ti yan jiu	国际法专题研究	5
+guo ji hai shi qi zha	国际海事欺诈	5
+guo ji hai shi su song guan xia quan wen ti yan jiu	国际海事诉讼管辖权问题研究	5
+guo ji lun	过激论	5
+guo ji mao yi fa gui yu guan li	国际贸易法规与惯例	5
+guo ji rong zi	国际融资	5
+guo jia da xue ke ji yuan ren ding he guan li ban fa	国家大学科技园认定和管理办法	5
+guo jia gong zhi ren yuan shou hui zui	国家公职人员受贿罪	5
+guo jia gou	国家沟	5
+guo jia he bing	国家合并	5
+guo jia yao	郭家窑	5
+guo jia zhu shi	国家柱石	5
+guo jia zi ran ke xue ji jin wei yuan hui zhang cheng	国家自然科学基金委员会章程	5
+guo jiang pai	过奖牌	5
+guo jiao mei zhi ji	果胶酶制剂	5
+guo li lai shan zhuang	国利来山庄	5
+guo li yuan	郭里园	5
+guo lou cun	郭楼村	5
+guo ma ying zhen	过马营镇	5
+guo rui xia	郭瑞霞	5
+guo shang xian	郭尚先	5
+guo tai qiao xiang	国太桥乡	5
+guo tu zi yuan biao zhun hua guan li ban fa	国土资源标准化管理办法	5
+guo wa cun	郭洼村	5
+guo wu yuan qi ye guan li wei yuan hui	国务院企业管理委员会	5
+guo xiang jie dao	郭巷街道	5
+guo yang ben jia xian	过氧苯甲酰	5
+guo ying gui lin yang nong chang	国营桂林洋农场	5
+guo ying hong hua nong chang	国营红华农场	5
+guo ying yang jiang nong chang	国营阳江农场	5
+guo ying zhong kun nong chang	国营中坤农场	5
+guo yuan xi li she qu	果园西里社区	5
+guo zi shan	果子山	5
+guo zi wa	果子洼	5
+guo gong liang dang lu shan tan pan	国共两党庐山谈判	4
+guo huai yi	郭怀一	4
+guo ji fa shu ru yu wan qing zhong guo	国际法输入与晚清中国	4
+guo ji hua xin xing shi xin dui ce	国际化新形势新对策	4
+guo ji ren quan gong yue yu zhong guo	国际人权公约与中国	4
+guo ji te xu jing ying zhi nan	国际特许经营指南	4
+guo jia duo gu	国家多故	4
+guo jia gong pai chu guo jiao shi sheng huo dai yu guan li gui ding	国家公派出国教师生活待遇管理规定	4
+guo jia huan bao ju	国家环保局	4
+guo jia huan bao zong ju	国家环保总局	4
+guo jia ji sheng wei	国家计生委	4
+guo jia ling	郭家岭	4
+guo jia si fa kao shi quan cheng fu dao jiao cai	国家司法考试全程辅导教材	4
+guo jia zhong dian feng jing ming sheng qu gui hua bian zhi shen pi guan li ban fa	国家重点风景名胜区规划编制审批管理办法	4
+guo jia zhong dian ji chu yan jiu fa zhan ji hua zhuan xiang jing fei guan li ban fa	国家重点基础研究发展计划专项经费管理办法	4
+guo jia zhuang cun wei hui	郭家庄村委会	4
+guo jiang	国奖	4
+guo jiang jin gao	果酱金糕	4
+guo jiang qian chi lang	过江千尺浪	4
+guo jiao lie jie mei	果胶裂解酶	4
+guo lian xin tuo	国联信托	4
+guo lin bin guan	国林宾馆	4
+guo lu fang an quan guan li gui ze	锅炉房安全管理规则	4
+guo lu tang	过路塘	4
+guo san dan	锅散丹	4
+guo shan dou fu	锅煽豆腐	4
+guo shan gou	过山沟	4
+guo shao jiao bai	裹烧茭白	4
+guo shi po huai yi ran yi bao she bei zui	过失破坏易燃易爆设备罪	4
+guo ta yao he	锅榻腰盒	4
+guo tai jin ma	国泰金马	4
+guo tie ji pian	锅贴鸡片	4
+guo xi bai ju	过隙白驹	4
+guo xi cun	过溪村	4
+guo xue hu tong	国学胡同	4
+guo ying bao guo nong chang	国营保国农场	4
+guo ying luo dou nong chang	国营罗豆农场	4
+guo ying nan bin nong chang	国营南滨农场	4
+guo ying nan tian nong chang	国营南田农场	4
+guo you mei kuang wa si zhi li an quan jian cha gui ding	国有煤矿瓦斯治理安全监察规定	4
+guo you qi ye gai ge bi jiao fa lv yan jiu	国有企业改革比较法律研究	4
+guo yuan nan dao	果园南道	4
+guo yuan xiang	郭原乡	4
+guo zhong wu di wu shi bu ke yi si	国中无地无时不可以死	4
+guo zuo jin	国作金	4
+guo a	过啊	3
+guo bai cang	郭柏苍	3
+guo bang fei	过磅费	3
+guo chang shun	郭长顺	3
+guo chao	国朝	3
+guo chuan lin	郭传林	3
+guo cuo	郭厝	3
+guo er zhi yan	过耳之言	3
+guo gong cun	郭公村	3
+guo ji gong cheng cheng bao feng xian yu gui bi	国际工程承包风险与规避	3
+guo ji he zuo jiao yu xue yuan	国际合作教育学院	3
+guo ji jing mao yuan qu	国际经贸园区	3
+guo ji shang shi zhong cai ji qi shi yong fa lv yan jiu	国际商事仲裁及其适用法律研究	3
+guo ji wu li ao lin pi ke jing sai	国际物理奥林匹克竞赛	3
+guo ji xing shi si fa xie zhu yan jiu	国际刑事司法协助研究	3
+guo ji yu ming zheng duan tong yi jie jue xie yi	国际域名争端统一解决协议	3
+guo jia gou zhen	郭家沟镇	3
+guo jia huan jing bao hu ju	国家环境保护局	3
+guo jia ji zhuan xiang gui hua guan li zan xing ban fa	国家级专项规划管理暂行办法	3
+guo jia lin ye ju bin wei wu zhong jin chu kou guan li zhong xin	国家林业局濒危物种进出口管理中心	3
+guo jia you ji shi pin sheng chan ji di kao he guan li gui ding	国家有机食品生产基地考核管理规定	3
+guo jia zhong dian feng jing ming sheng qu shen cha ban fa	国家重点风景名胜区审查办法	3
+guo jia zhong dian xue ke jian she yu guan li zan xing ban fa	国家重点学科建设与管理暂行办法	3
+guo jiang dan gao juan	果酱蛋糕卷	3
+guo jin xing ren jun bu lai	过尽行人君不来	3
+guo jing lu	国京路	3
+guo lan	国兰	3
+guo lu ping	过鹿坪	3
+guo luo fei	蜾蠃蜚	3
+guo mao da jiu dian	国茂大酒店	3
+guo min xing fu xie	过敏性腹泻	3
+guo nei chuan bo guan li ye gui ding	国内船舶管理业规定	3
+guo nei lv ke lie che	国内旅客列车	3
+guo nei wai ji	国内外机	3
+guo qu chang	过去厂	3
+guo ran shi men kai	果然石门开	3
+guo shou da sha	国寿大厦	3
+guo si	郭汜	3
+guo si yan	郭思演	3
+guo sui xiang xin meng bu cheng	聒碎乡心梦不成	3
+guo tie shi ban jia	锅贴石斑夹	3
+guo tou dian chang	国投电厂	3
+guo wang zhong mie	国亡种灭	3
+guo xian ling yi shi	郭县令轶事	3
+guo xin zhuang cun	郭辛庄村	3
+guo ya da sha	国雅大厦	3
+guo yan tao tao yun gong wu	过眼滔滔云共雾	3
+guo yang hua ben xian	过氧化苯酰	3
+guo yang ma ye	崞阳麻叶	3
+guo ying	过盈	3
+guo ying bang xi nong chang	国营邦溪农场	3
+guo ying chang hao nong chang	国营畅好农场	3
+guo ying chang zheng nong chang	国营长征农场	3
+guo ying dong chang nong chang	国营东昌农场	3
+guo ying hong lin nong chang	国营红林农场	3
+guo ying lan yang nong chang	国营蓝洋农场	3
+guo ying le guang nong chang	国营乐光农场	3
+guo ying nan feng nong chang	国营南俸农场	3
+guo ying nan xin nong chang	国营南新农场	3
+guo ying san jiang nong chang	国营三江农场	3
+guo ying xi pei nong chang	国营西培农场	3
+guo ying xin ying nong chang	国营新盈农场	3
+guo ying zhong jian nong chang	国营中建农场	3
+guo you qi ye gai ge fa lv bao gao	国有企业改革法律报告	3
+guo yuan dong lu	果园东路	3
+guo yuan xiang	果园巷	3
+guo zhai dai di fang zheng fu fa xing	国债代地方政府发行	3
+guo zhe	果蔗	3
+guo zhi gan cheng	国之干城	3
+guo zi zhang	郭子章	3
+guo a	果阿	2
+guo dong guai	果冻怪	2
+guo du li kuai	过都历块	2
+guo du xiang	过渡相	2
+guo fang ke gong wei	国防科工委	2
+guo fei	过肺	2
+guo fu	过付	2
+guo he	涡河	2
+guo he yi cun	国和一村	2
+guo hua	国华	2
+guo ji cheng ren hang kong qi quan li gong yue	国际承认航空器权利公约	2
+guo ji fa lv fu wu mao yi	国际法律服务贸易	2
+guo ji fa yuan xin jin an li yan jiu	国际法院新近案例研究	2
+guo ji huo bi ji jin zu zhi fa lv zhi du gai ge yan jiu	国际货币基金组织法律制度改革研究	2
+guo ji jing ji mao yi biao zhun fa lv wen shu fan ben	国际经济贸易标准法律文书范本	2
+guo ji ke ji he zuo yu jiao liu zhuan xiang jing fei guan li ban fa	国际科技合作与交流专项经费管理办法	2
+guo ji mao yi qi zha an li ji	国际贸易欺诈案例集	2
+guo ji shang hui tuo shou tong yi gui ze ping zhu	国际商会托收统一规则评注	2
+guo ji shui shou guan xia quan	国籍税收管辖权	2
+guo ji xiang mu rong zi fa lv wen ti yan jiu	国际项目融资法律问题研究	2
+guo ji zheng duan jie jue zhong yao fa lv wen xian	国际争端解决重要法律文献	2
+guo jia ding liang shui	国家定两税	2
+guo jia gong zuo ren yuan fan zui ren ding zhong yi dian nan dian wen ti yan jiu	国家工作人员犯罪认定中疑点难点问题研究	2
+guo jia ji liang jian ding gui cheng guan li ban fa	国家计量检定规程管理办法	2
+guo jia ji shu chuang xin ji hua guan li ban fa	国家技术创新计划管理办法	2
+guo jia ke xue ji shu xue shu zhu zuo chu ban ji jin guan li ban fa	国家科学技术学术著作出版基金管理办法	2
+guo jia nong ye zong he kai fa shui tu bao chi xiang mu guan li shi shi xi ze	国家农业综合开发水土保持项目管理实施细则	2
+guo jia she	郭家厍	2
+guo jia wu	郭家坞	2
+guo jia xiang	郭家巷	2
+guo jia zhong dian ji shu gai zao xiang mu guan li ban fa	国家重点技术改造项目管理办法	2
+guo jia zhong dian ji shu gai zao xiang mu guo zhai zhuan xiang zi jin guan li ban fa	国家重点技术改造项目国债专项资金管理办法	2
+guo jiang ka fei	果酱咖啡	2
+guo ke	国科	2
+guo keng cun	郭坑村	2
+guo kui la zi	锅盔辣子	2
+guo li hong	郭励弘	2
+guo lian an shuang xi	国联安双禧	2
+guo lu ping zhen	过鹿坪镇	2
+guo min zhu zhai tiao li	国民住宅条例	2
+guo ming qiang	郭明强	2
+guo pu cun	郭埔村	2
+guo qiao niu bai ye	过桥牛百叶	2
+guo ren jia xin dan gao	果仁夹心蛋糕	2
+guo ren yuan	郭任远	2
+guo ru long	郭汝龙	2
+guo shao rou	锅烧肉	2
+guo shi cheng bu cheng	国事成不成	2
+guo tai shuang li	国泰双利	2
+guo tang	国帑	2
+guo wai jiu zai jiu zhu fa gui hui bian	国外救灾救助法规汇编	2
+guo wan nian	过万年	2
+guo xing guang dian	国星光电	2
+guo xue cao	国学操	2
+guo yang	涡阳	2
+guo yang xin neng	国阳新能	2
+guo yi bu guo	国已不国	2
+guo yi yin yu	锅熠银鱼	2
+guo ying dong tai nong chang	国营东太农场	2
+guo ying dun huang nong chang	国营敦煌农场	2
+guo ying guang ba nong chang	国营广坝农场	2
+guo ying jia chai nong chang	国营加钗农场	2
+guo ying ling men nong chang	国营岭门农场	2
+guo ying long shan nong chang	国营龙山农场	2
+guo ying nan dao nong chang	国营南岛农场	2
+guo ying nan ping nong chang	国营南平农场	2
+guo ying shan rong nong chang	国营山荣农场	2
+guo ying tai ping nong chang	国营太平农场	2
+guo ying xi qing nong chang	国营西庆农场	2
+guo ying zhong rui nong chang	国营中瑞农场	2
+guo yu	果于	2
+guo yuan bei dao	果园北道	2
+guo zhen	菓珍	2
+guo zhi bo	郭智博	2
+guo zhi jian rou pu	果汁煎肉脯	2
+guo zhi niu rou pian	果汁牛肉片	2
+guo zhi suo cun zhe	国之所存者	2
+guo bao	过保	1
+guo biao kuo chong ma	国标扩充码	1
+guo bo dong ting ju	果擘洞庭橘	1
+guo bu	国补	1
+guo bu dian wei	国步阽危	1
+guo bu ru men	过不入门	1
+guo bu xin niang	过埠新娘	1
+guo chan nian hua	国产年华	1
+guo chan rou gu fen	国产肉骨粉	1
+guo chao sheng wen zhang	国朝盛文章	1
+guo cheng kong zhi yi biao ji shu	过程控制仪表技术	1
+guo cun cun wei hui	郭村村委会	1
+guo dao pian	果导片	1
+guo dao zhi mao	锅岛直茂	1
+guo di cun	锅底村	1
+guo dian nan zi	国电南自	1
+guo er	果饵	1
+guo fan er wang shi zhi	裹饭而往食之	1
+guo fen xuan yao	过分炫耀	1
+guo fen xuan yao	过分眩耀	1
+guo fu min kang	国富民康	1
+guo fu qiang zhai	国富强债	1
+guo guo	果果	1
+guo hai man tian	过海瞒天	1
+guo he xiang	郭河乡	1
+guo he xin cun	国和新村	1
+guo huai	郭淮	1
+guo huai qian ye e	国槐潜叶蛾	1
+guo huai xiao xian jiao mu du e	国槐小线角木蠹蛾	1
+guo huai ye bing xiao e	国槐叶柄小蛾	1
+guo hui zi zhi mu	过惠子之墓	1
+guo huo er de	郭霍尔德	1
+guo huo er de cheng bao	郭霍尔德城堡	1
+guo ji biao zhun qi kan bian hao	国际标准期刊编号	1
+guo ji de nv er	过继的女儿	1
+guo ji fan dian xi men	国际饭店西门	1
+guo ji gong nong shang hui	国际工农商会	1
+guo ji hu jie	国际互借	1
+guo ji hua xue ao lin pi ke jing sai	国际化学奥林匹克竞赛	1
+guo ji huo bi ji jin zu zhi tou piao quan	国际货币基金组织投票权	1
+guo ji jie suan	国际结算	1
+guo ji kuai ji shi lian he hui	国际会计师联合会	1
+guo ji kuai ji shi lian hui	国际会计师联会	1
+guo ji kuai ji zhun ze	国际会计准则	1
+guo ji lv fan tu xie hui	国际铝矾土协会	1
+guo ji mao yi fa zhuan lun	国际贸易法专论	1
+guo ji mao yi zheng duan jie jue yu zhong guo dui ce yan jiu	国际贸易争端解决与中国对策研究	1
+guo ji min shang shi cheng xu fa tong lun	国际民商事程序法通论	1
+guo ji min shang shi ji jing mao zheng duan jie jue tu jing zhuan lun	国际民商事及经贸争端解决途径专论	1
+guo ji min shang shi su song cheng xu fa	国际民商事诉讼程序法	1
+guo ji shang hui jian suo ji fu bao han tong yi gui ze	国际商会见索即付保函统一规则	1
+guo ji shang shi he tong fa tong yi hua	国际商事合同法统一化	1
+guo ji shang shi zhong cai guan xia quan yan jiu	国际商事仲裁管辖权研究	1
+guo ji shi ye	国际视野	1
+guo ji shou zhi cha e biao	国际收支差额表	1
+guo ji xiang	郭集乡	1
+guo ji xing shi fa yuan te quan he huo mian xie ding	国际刑事法院特权和豁免协定	1
+guo ji xing shi shen pan an li yu xue li fen xi	国际刑事审判案例与学理分析	1
+guo ji yi yao mao yi	国际医药贸易	1
+guo ji zhong xue sheng ti yu lian he hui	国际中学生体育联合会	1
+guo jia cun wei hui	郭家村委会	1
+guo jia dao dan fang yu ti xi	国家导弹防御体系	1
+guo jia fa ling zai	国家法令在	1
+guo jia fa zhan he gai ge wei yuan hui xing zheng fu yi shi shi ban fa	国家发展和改革委员会行政复议实施办法	1
+guo jia guang gao shen cha ju	国家广告审查局	1
+guo jia guang gao shen cha wei yuan hui	国家广告审查委员会	1
+guo jia huan jing bao hu zong ju	国家环境保护总局	1
+guo jia ji chu di li xin xi shu ju shi yong xu ke guan li gui ding	国家基础地理信息数据使用许可管理规定	1
+guo jia ji wei sheng guo ji he zuo xiang mu guan li xi ze	国家级卫生国际合作项目管理细则	1
+guo jia ke chi xu fa zhan xian jin shi fan qu guan li ban fa	国家可持续发展先进示范区管理办法	1
+guo jia pei chang an jian su song ce lve yu shi li dian ping	国家赔偿案件诉讼策略与实例点评	1
+guo jia shi wu biao zhun zan xing guan li ban fa	国家实物标准暂行管理办法	1
+guo jia shui shou zhi fa quan	国家税收执法权	1
+guo jia shui tu bao chi zhong dian jian she gong cheng guan li ban fa	国家水土保持重点建设工程管理办法	1
+guo jia wu	郭家务	1
+guo jia wu zi chu bei cang ku an quan bao wei ban fa	国家物资储备仓库安全保卫办法	1
+guo jia xiang	郭加乡	1
+guo jia yuan zi	郭家院子	1
+guo jia zhong yi yuan guan li ju	国家中医院管理局	1
+guo jia zhu xue dai kuan cai zheng tie xi guan li ban fa	国家助学贷款财政贴息管理办法	1
+guo jian ji li ji	过涧既厉急	1
+guo jiang bai feng gao	果酱白蜂糕	1
+guo jiang chao dan	果酱炒蛋	1
+guo jiang ji dan juan	果酱鸡蛋卷	1
+guo jiang ming shi duo ru ji	过江名士多如鲫	1
+guo jiang shao bing	果酱烧饼	1
+guo jing jiang tu	国境疆土	1
+guo jiu tiao	国九条	1
+guo jun kang zhan lian zuo fa	国军抗战连坐法	1
+guo kai sen	郭开森	1
+guo ku ku yin	国库库印	1
+guo lao dou fu yao zhu	锅烙豆腐珧柱	1
+guo le bu yi xiang	郭勒布衣乡	1
+guo li jun	郭利君	1
+guo li wei	郭力维	1
+guo li yuan	郭立源	1
+guo liang zuo jia	裹粮坐甲	1
+guo lin	过淋	1
+guo lin na	郭林娜	1
+guo luo	过罗	1
+guo lv	果绿	1
+guo mian wu liu chang	国棉五六厂	1
+guo mou	郭某	1
+guo mu chun feng	国沐春风	1
+guo nei bu	国内部	1
+guo nei yuan	国内源	1
+guo peng suan na	过硼酸钠	1
+guo pi fa shi chang	果批发市场	1
+guo pu	郭璞	1
+guo qi chan er	过期产儿	1
+guo qi jian ge	过期间隔	1
+guo qiang hu tong	锅腔胡同	1
+guo qiang ze zhao gu	国强则赵固	1
+guo ruo ze zhu hou jia bing	国弱则诸侯加兵	1
+guo shang	过晌	1
+guo shao ban ming	果梢斑螟	1
+guo sheng bi shuai	过盛必衰	1
+guo sheng dao	国盛道	1
+guo shi	郭氏	1
+guo shi duo jian	国事多艰	1
+guo shi huang hua	过时黄花	1
+guo shi tiao tang	国事蜩螗	1
+guo shi yin qi zhong du zui	过失引起中毒罪	1
+guo shi zhao yao	过市招摇	1
+guo shi zhi fen	国士之分	1
+guo shi zhi gan	果实直感	1
+guo shu	过数	1
+guo shui chuan lou chu chu ming	过水穿楼触处明	1
+guo su niu rou	锅酥牛肉	1
+guo sui xiang	果遂乡	1
+guo ta ji pian	锅塌鸡片	1
+guo tai hua yuan	国泰花园	1
+guo tai jin peng	国泰金鹏	1
+guo tai man	果台螨	1
+guo tang gan mei	果糖苷酶	1
+guo tian cun	郭田村	1
+guo tie ya fang	锅贴鸭方	1
+guo tong gu fen	国统股份	1
+guo tu zi yuan bu gui zhang zhi ding cheng xu gui ding	国土资源部规章制定程序规定	1
+guo tu zi yuan zhi fa jian cha cuo an ze ren zhui jiu zhi du	国土资源执法监察错案责任追究制度	1
+guo wai fan xi qian fa lv fa gui hui bian	国外反洗钱法律法规汇编	1
+guo wai shi huang he	郭外是黄河	1
+guo wang ji shi	过往即逝	1
+guo wang she qu	国旺社区	1
+guo wei lu	国伟路	1
+guo wu juan ji	国无捐瘠	1
+guo wu ren mo wo zhi xi	国无人莫我知兮	1
+guo wu xing min	国无幸民	1
+guo xiao xi	郭小溪	1
+guo xing	国姓	1
+guo xing	郭姓	1
+guo xing hu tong	国兴胡同	1
+guo xing xin shang	果刑信赏	1
+guo yao xiao ju	国肴小居	1
+guo yi xia	过一下	1
+guo ying da ling nong chang	国营大岭农场	1
+guo ying dong fang hong nong chang	国营东方红农场	1
+guo ying dong lu nong chang	国营东路农场	1
+guo ying dong ping nong chang	国营东平农场	1
+guo ying dong sheng nong chang	国营东升农场	1
+guo ying fu rong tian nong chang	国营芙蓉田农场	1
+guo ying gong ai nong chang	国营公爱农场	1
+guo ying hao te tao hai mu chang	国营浩特陶海牧场	1
+guo ying hong gang nong chang	国营红岗农场	1
+guo ying hong ling nong chang	国营红岭农场	1
+guo ying jin an nong chang	国营金安农场	1
+guo ying nan lin nong chang	国营南林农场	1
+guo ying nan lv nong chang	国营南吕农场	1
+guo ying nan yang nong chang	国营南阳农场	1
+guo ying xi da nong chang	国营西达农场	1
+guo ying xi liu nong chang	国营西流农场	1
+guo ying xin yang nong chang	国营新洋农场	1
+guo ying zi cun	郭营子村	1
+guo you gu quan fa lv zhi du yan jiu	国有股权法律制度研究	1
+guo you nong chang shui fei gai ge jian shou bu zhu ban fa	国有农场税费改革减收补助办法	1
+guo you qi ye gai ge yu jian li xian dai qi ye zhi du	国有企业改革与建立现代企业制度	1
+guo yu kai lou kan wan hong	过雨开楼看晚虹	1
+guo yu tian di	国于天地	1
+guo yuan bei qu	果园北区	1
+guo yuan xin li bei qu she qu	果园新里北区社区	1
+guo yun shou bian	国运守边	1
+guo zai fei chang	锅仔肥肠	1
+guo ze wu dan gai	过则无惮改	1
+guo ze yun	郭则沄	1
+guo zhi li qi bu ke yi shi ren	国之利器不可以示人	1
+guo zhi suo yi fei xing cun wang zhe yi ran	国之所以废兴存亡者亦然	1
+guo zhou cen er shi qi zhang shi can san shi yun	虢州岑二十七长史参三十韵	1
+guo zhuang cun wei hui	郭庄村委会	1
+guo zi shi she qu	果子市社区	1

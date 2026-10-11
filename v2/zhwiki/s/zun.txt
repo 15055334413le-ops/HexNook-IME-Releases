@@ -1,0 +1,308 @@
+zun an che zhan	樽岸车站	0
+zun an zhan	樽岸站	0
+zun ao lu	鳟澳鲈	0
+zun ba	尊巴	0
+zun ba jian shen	尊巴健身	0
+zun bai lie shang ni	尊柏烈尚尼	0
+zun bao da sha	尊宝大厦	0
+zun bao fa qin wang	尊宝法亲王	0
+zun bao mo fa tian dian wu	尊宝魔法甜点屋	0
+zun bao ru dao qin wang	尊宝入道亲王	0
+zun bei fen mai	尊卑分脉	0
+zun bi hai tun	樽鼻海豚	0
+zun bo ying	尊博英	0
+zun cha qing wu	樽茶清悟	0
+zun chao fa qin wang	尊朝法亲王	0
+zun cheng	尊称	0
+zun cheng fa qin wang	尊澄法亲王	0
+zun cheng huang hou	尊称皇后	0
+zun cheng qin wang	尊成亲王	0
+zun chong hun yin fa	尊重婚姻法	0
+zun chuan	鳟川	0
+zun chuang shen er	樽床伸二	0
+zun chun fa qin wang	尊纯法亲王	0
+zun da	尊达	0
+zun da lu zhan	遵大路站	0
+zun da ta	尊达塔	0
+zun dan	尊亶	0
+zun dao fa qin wang	尊道法亲王	0
+zun dao ru dao qin wang	尊道入道亲王	0
+zun dao zhen	遵道镇	0
+zun de tang	尊德堂	0
+zun de tang yan zhai	尊德堂严宅	0
+zun er wang bei san ke	尊二王备三恪	0
+zun fu shi	尊富士	0
+zun fu shi mi hui ye	尊富士弥辉也	0
+zun ge li	尊戈利	0
+zun ge li	尊格里	0
+zun guang fa qin wang	尊光法亲王	0
+zun gui de	尊贵的	0
+zun gui yi zu	尊贵一族	0
+zun guo gong	遵国公	0
+zun hai qiao	樽海鞘	0
+zun hai qiao gang	樽海鞘纲	0
+zun hai qiao qun suan fa	樽海鞘群算法	0
+zun hao	尊号	0
+zun hao shi jian	尊号事件	0
+zun hao yi jian	尊号一件	0
+zun he bo tuo	尊赫博托	0
+zun hua	遵化	0
+zun hua ban li jiu	遵化板栗酒	0
+zun hua bei zhan	遵化北站	0
+zun hua dian zhen	遵化店镇	0
+zun hua shi	遵化市	0
+zun hua shi gang tie chang	遵化市钢铁厂	0
+zun hua xian	遵化县	0
+zun hua zhen	遵化镇	0
+zun hua zhi li zhou	遵化直隶州	0
+zun hua zhou	遵化州	0
+zun huang	尊皇	0
+zun huang rang yi	尊皇攘夷	0
+zun huang tao jian	尊皇讨奸	0
+zun ji li xian	尊基里县	0
+zun jian che zhan	樽见车站	0
+zun jian tie dao	樽见铁道	0
+zun jian xian	樽见线	0
+zun jian zhan	樽见站	0
+zun jiao xian	遵教县	0
+zun jiao zhou	遵教州	0
+zun jie	樽节	0
+zun jie zheng ce	樽节政策	0
+zun jing	尊经	0
+zun jing	尊敬	0
+zun jing	樽颈	0
+zun jing che zhan	樽井车站	0
+zun jing cheng fu	樽井澄夫	0
+zun jing de	尊敬的	0
+zun jing fa qin wang	尊敬法亲王	0
+zun jing shu yuan	尊经书院	0
+zun jing teng ji	樽井藤吉	0
+zun jing zhan	樽井站	0
+zun jue gong wu ji	尊爵公务机	0
+zun kong du zhong	尊孔独中	0
+zun kong fu gu	尊孔复古	0
+zun kong guo min xing hua wen zhong xue	尊孔国民型华文中学	0
+zun lai si da	尊赖斯达	0
+zun le zhi	尊乐之	0
+zun li ji tuan	遵理集团	0
+zun li xue xiao	遵理学校	0
+zun lian ting	尊莲亭	0
+zun long	尊龙	0
+zun long ke yun	尊龙客运	0
+zun lu shi	尊卢氏	0
+zun mu cai si	尊木采寺	0
+zun na	尊纳	0
+zun ni	尊尼	0
+zun ni huo jia	尊尼获加	0
+zun ni shi wu suo	尊尼事务所	0
+zun ni te pu	尊尼特普	0
+zun pa nuo	尊帕诺	0
+zun pu che zhan	鳟浦车站	0
+zun pu yuan	尊蒲源	0
+zun pu zhan	鳟浦站	0
+zun qi	樽棋	0
+zun qian fu wu qu	樽前服务区	0
+zun qian hao lie che	樽前号列车	0
+zun qian shan	樽前山	0
+zun qiao xiang	尊桥乡	0
+zun qin shu sha ren fa ding xing wei xian shi jian	尊亲属杀人法定刑违宪事件	0
+zun qing lian	尊清涟	0
+zun ren chi gao su gong lu	遵仁赤高速公路	0
+zun ren fu	尊人府	0
+zun rong	尊荣	0
+zun shang	尊上	0
+zun shang fa qin wang	尊赏法亲王	0
+zun shen xing	尊神星	0
+zun sheng	尊圣	0
+zun sheng ba jian	遵生八牋	0
+zun sheng ba jian	遵生八笺	0
+zun sheng da ming wang jing	尊胜大明王经	0
+zun sheng fu ding	尊胜佛顶	0
+zun sheng fu mu	尊胜佛母	0
+zun sheng lao ren	尊生老人	0
+zun sheng pu sa	尊胜菩萨	0
+zun sheng si	尊胜寺	0
+zun sheng tuo luo ni	尊胜陀罗尼	0
+zun sheng tuo luo ni bing nian song gong neng fa	尊胜陀罗尼并念诵功能法	0
+zun sheng zhou	尊胜咒	0
+zun shi	尊室	0
+zun shi	尊氏	0
+zun shi	遵式	0
+zun shi an	尊室安	0
+zun shi bing	尊室昞	0
+zun shi cheng	尊室称	0
+zun shi cheng	尊室呈	0
+zun shi chu	尊室褚	0
+zun shi chun	尊室春	0
+zun shi dan	尊室澹	0
+zun shi ding	尊室定	0
+zun shi ding	尊室订	0
+zun shi dong	尊室东	0
+zun shi fan	尊室旛	0
+zun shi gu	尊室谷	0
+zun shi guang	尊室广	0
+zun shi guang	尊室㫛	0
+zun shi gun	尊室衮	0
+zun shi ha	尊室铪	0
+zun shi hao	尊室暤	0
+zun shi he	尊室詥	0
+zun shi huang	尊室晃	0
+zun shi hui	尊室晖	0
+zun shi hui	尊室会	0
+zun shi hui	尊室诲	0
+zun shi ji	尊室济	0
+zun shi jin xing qu	尊师进行曲	0
+zun shi leng	尊室冷	0
+zun shi li	尊室立	0
+zun shi liang cheng	尊室良城	0
+zun shi ling	尊室泠	0
+zun shi mao	尊室昴	0
+zun shi min	尊室旻	0
+zun shi nian	尊室念	0
+zun shi sha	尊室纱	0
+zun shi shan	尊室善	0
+zun shi shan	尊室煔	0
+zun shi shi	尊室氏	0
+zun shi shuo	尊室说	0
+zun shi si	尊室燍	0
+zun shi song	尊室松	0
+zun shi sui	尊室譢	0
+zun shi tan	尊室檀	0
+zun shi tan	尊室谈	0
+zun shi tao	尊室陶	0
+zun shi tian	尊室晪	0
+zun shi tong	尊室晍	0
+zun shi wen	尊室文	0
+zun shi xi	尊室曦	0
+zun shi xi	尊室溪	0
+zun shi xie	尊室协	0
+zun shi xin	尊室䜣	0
+zun shi xin er	尊室馨儿	0
+zun shi xing	尊室姓	0
+zun shi yi	尊室曎	0
+zun shi yu	尊室裕	0
+zun shi yuan di	尊室远棣	0
+zun shi zhan	尊室湛	0
+zun shi zhang	尊室暲	0
+zun shi zhi	尊室禔	0
+zun shi zhi bai	遵式知白	0
+zun shi zhong dao	尊师重道	0
+zun shi zhu	尊室渚	0
+zun shi zhuan	尊室撰	0
+zun shou de	尊寿德	0
+zun shou rong	尊寿荣	0
+zun shou xiang	尊寿祥	0
+zun shou yuan	尊寿院	0
+zun shu	鳟属	0
+zun su wan	尊速万	0
+zun tan	遵谭	0
+zun tan zhen	遵谭镇	0
+zun te la hua da	尊特拉华达	0
+zun tong fa qin wang	尊统法亲王	0
+zun tuo lie yi hu	尊托列伊湖	0
+zun wang	尊王	0
+zun wang gong	尊王公	0
+zun wang gong tan	尊王公坛	0
+zun wang rang yi	尊王攘夷	0
+zun wen ge wang	尊闻阁王	0
+zun wen tang	尊闻堂	0
+zun wo zhai zhu ren	尊我斋主人	0
+zun xian guan	尊贤馆	0
+zun xian li	尊贤里	0
+zun xiao zhi	尊晓治	0
+zun xing ji long tou yu	鳟形棘隆头鱼	0
+zun xing qi	遵行棋	0
+zun xiu nv wang	尊秀女王	0
+zun xun shang ji jun guan huo guan yuan de ming ling huo xing dong	遵循上级军官或官员的命令或行动	0
+zun xun xian li	遵循先例	0
+zun yan	尊严	0
+zun yan cun	尊严村	0
+zun yan fu shu	尊严复数	0
+zun yan ge ming	尊严革命	0
+zun yan jian kang ti yu chang	尊严健康体育场	0
+zun yan jian kang ti yu gong yuan	尊严健康体育公园	0
+zun yan ju shi	遵岩居士	0
+zun yan lao dong	尊严劳动	0
+zun yan quan	尊严权	0
+zun yan yu rong yu	尊严与荣誉	0
+zun yan yu zi you ri	尊严与自由日	0
+zun yan zhi jia	尊严之家	0
+zun yan zhi min di	尊严殖民地	0
+zun yang	尊扬	0
+zun yang jie dao	遵阳街道	0
+zun ye hui	樽野恵	0
+zun ye hui	樽野惠	0
+zun yi	遵义	0
+zun yi bei zhan	遵义北站	0
+zun yi cheng tou xia guang shan	遵义城头霞光闪	0
+zun yi chu ji shi fan xue tang	遵义初级师范学堂	0
+zun yi di qu	遵义地区	0
+zun yi e er li	遵义鹅耳枥	0
+zun yi fu	遵义府	0
+zun yi hua	遵义话	0
+zun yi hua xi xie	遵义华溪蟹	0
+zun yi hui yi	遵义会议	0
+zun yi ji chang	遵义机场	0
+zun yi jian	遵义舰	0
+zun yi jie dao	遵义街道	0
+zun yi jing ji ji shu kai fa qu	遵义经济技术开发区	0
+zun yi jun	遵义军	0
+zun yi jun min fu	遵义军民府	0
+zun yi lou shan guan hong jun zhan dou yi zhi	遵义娄山关红军战斗遗址	0
+zun yi lu	遵义路	0
+zun yi lu jie dao	遵义路街道	0
+zun yi lu zhan	遵义路站	0
+zun yi mao tai ji chang	遵义茅台机场	0
+zun yi nan zhan	遵义南站	0
+zun yi shi	遵义市	0
+zun yi shi da gong lao	遵义十大功劳	0
+zun yi shi di si zhong xue	遵义市第四中学	0
+zun yi shi di yi ren min yi yuan	遵义市第一人民医院	0
+zun yi shi di yi zhong xue	遵义市第一中学	0
+zun yi shi fan xue yuan	遵义师范学院	0
+zun yi shi yuan	遵义师院	0
+zun yi shi zhong yi yuan	遵义市中医院	0
+zun yi si zhong	遵义四中	0
+zun yi tai cao	遵义苔草	0
+zun yi tai ye	遵义钛业	0
+zun yi xi zhan	遵义西站	0
+zun yi xia zi hu shi min zhai	遵义虾子胡氏民宅	0
+zun yi xian	遵义县	0
+zun yi xin zhou ji chang	遵义新舟机场	0
+zun yi xing tong gu	遵义型铜鼓	0
+zun yi yi ke da xue	遵义医科大学	0
+zun yi yi xue yuan	遵义医学院	0
+zun yi yi yao gao deng zhuan ke xue xiao	遵义医药高等专科学校	0
+zun yi zhan	遵义站	0
+zun yi zhong xue tang	遵义中学堂	0
+zun yi zhong xue xiao	遵义中学校	0
+zun yi zhuan qu	遵义专区	0
+zun yin fa qin wang	尊胤法亲王	0
+zun yong da jie	遵永大捷	0
+zun you fa qin wang	尊祐法亲王	0
+zun you si	尊猷寺	0
+zun yu	鳟鱼	0
+zun yu hao qian ting	鳟鱼号潜艇	0
+zun yu ju shi	遵于居士	0
+zun yu wu chong zou	鳟鱼五重奏	0
+zun yu xi shan mai	鳟鱼溪山脉	0
+zun yuan cheng jian	尊圆城间	0
+zun yuan fa qin wang	尊圆法亲王	0
+zun yuan ru dao qin wang	尊圆入道亲王	0
+zun yun fa qin wang	尊云法亲王	0
+zun ze che zhan	鳟泽车站	0
+zun ze sui dao	樽泽隧道	0
+zun ze zhan	鳟泽站	0
+zun zhe	尊者	0
+zun zhe shen fu yi yuan	尊者神父医院	0
+zun zhen fa qin wang	尊真法亲王	0
+zun zhen fa qin wang	尊镇法亲王	0
+zun zheng fa qin wang	尊证法亲王	0
+zun zhong	尊重	0
+zun zhong dang	尊重党	0
+zun zhu fa qin wang	尊助法亲王	0
+zun zhu song	尊主颂	0
+zun zhuang shui	樽装水	0
+zun zi	尊子	0
+zun zu zhuang xiang	尊祖庄乡	0
+zun zu zhuang zhen	尊祖庄镇	0

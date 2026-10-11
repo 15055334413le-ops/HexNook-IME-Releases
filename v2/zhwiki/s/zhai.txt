@@ -1,0 +1,634 @@
+zhai an xiang	寨安乡	0
+zhai ba zhen	寨坝镇	0
+zhai ban	窄瓣	0
+zhai ban hong hua he	窄瓣红花荷	0
+zhai ban lu yao	窄瓣鹿药	0
+zhai ban mao gen	窄瓣毛茛	0
+zhai ban mei hua cao	窄瓣梅花草	0
+zhai ban tang shu	窄斑螳属	0
+zhai ban ye chan shu	窄板叶蝉属	0
+zhai ban ye shan hu	窄斑叶珊瑚	0
+zhai bao feng mao ju	窄苞风毛菊	0
+zhai bao pu gong ying	窄苞蒲公英	0
+zhai bao shi dou lan	窄苞石豆兰	0
+zhai bao yi ke	窄孢衣科	0
+zhai bao yi mu	窄孢衣目	0
+zhai bei nan tai wei	窄背南胎鳚	0
+zhai bei xiang	宅北乡	0
+zhai bi long	窄鼻龙	0
+zhai bi long shu	窄鼻龙属	0
+zhai bi ni li tou yao	窄鼻拟犁头鳐	0
+zhai bian gai zhu	窄边盖蛛	0
+zhai bian pu gong ying	窄边蒲公英	0
+zhai bian yi zhi	寨卞遗址	0
+zhai bu guang cheng	斋部广成	0
+zhai bu shi	斎部氏	0
+zhai cai	斋菜	0
+zhai chang	斋肠	0
+zhai chang fen	斋肠粉	0
+zhai chang yu yue	斋场御岳	0
+zhai chi bo hui die	窄翅波灰蝶	0
+zhai chi chang she fu shu	窄齿长舌蝠属	0
+zhai chi guang ya bao lian yu	窄齿光牙宝莲鱼	0
+zhai chi lv ye e	窄翅绿夜蛾	0
+zhai chi nan jie	窄翅南芥	0
+zhai chi suo cao	窄翅莎草	0
+zhai chi xia ke	窄齿虾科	0
+zhai chi xia mu	窄齿虾目	0
+zhai chi xia shu	窄齿虾属	0
+zhai chi ye ming shu	窄翅野螟属	0
+zhai chi zhou e shu	窄翅舟蛾属	0
+zhai chuan zhe ke	斋川哲克	0
+zhai chun gang	窄唇纲	0
+zhai chun quan luo	窄唇圈螺	0
+zhai chun zhi zhu lan	窄唇蜘蛛兰	0
+zhai chun zhu long cao	窄唇猪笼草	0
+zhai ci zhe nang hai nian	窄刺褶囊海鲶	0
+zhai dai	斋殆	0
+zhai dai ba men kong chong	窄带八门孔虫	0
+zhai dai cui jia die	窄带翠蛱蝶	0
+zhai dai dian shi	窄带电视	0
+zhai dai li ti yu	窄带丽体鱼	0
+zhai dai mao wen hai long	窄带矛吻海龙	0
+zhai dai shuang die yu	窄带双蝶鱼	0
+zhai dai wu lian wang	窄带物联网	0
+zhai dai wu shi	斋殆武士	0
+zhai dai xi ban dao ti	窄带隙半导体	0
+zhai dai xiao ti	窄带小鳀	0
+zhai dan	摘蛋	0
+zhai di	宅邸	0
+zhai di	宅第	0
+zhai di fa	宅地法	0
+zhai dian	宅电	0
+zhai du jia	宅度假	0
+zhai e feng xian hua	窄萼凤仙花	0
+zhai e hua xia gu	窄额滑虾蛄	0
+zhai e pi pa xie	窄额琵琶蟹	0
+zhai e pu li yu	窄额朴丽鱼	0
+zhai e tun	窄额鲀	0
+zhai e tun shu	窄额鲀属	0
+zhai fa	债法	0
+zhai feng fei yin zhu	窄缝肺音蛛	0
+zhai fu hai ma	窄腹海马	0
+zhai fu jian shui zao shu	窄腹剑水蚤属	0
+zhai gai si yun dong	债该死运动	0
+zhai gang guo xiao	宅港国小	0
+zhai gang li	宅港里	0
+zhai gang qu ge ming lie shi ji nian bei	寨岗区革命烈士纪念碑	0
+zhai gang shan feng huo tai	寨岗山烽火台	0
+zhai gang shi er po jie zhen	宅港十二婆姐阵	0
+zhai gang zhen	寨岗镇	0
+zhai ge er bao	斋格尔堡	0
+zhai ge ta xiang	寨圪塔乡	0
+zhai gen xiang	寨根乡	0
+zhai gong	斋宫	0
+zhai gong che zhan	斋宫车站	0
+zhai gong nv yu	斋宫女御	0
+zhai gong zhan	斋宫站	0
+zhai gua tu	摘瓜图	0
+zhai guan ye chan shu	窄冠叶蝉属	0
+zhai gui	窄轨	0
+zhai gui tie lu	窄轨铁路	0
+zhai guo cui lan	窄果脆兰	0
+zhai guo yi yi	窄果薏苡	0
+zhai hai xing	窄海星	0
+zhai hai xing shu	窄海星属	0
+zhai hao	斋号	0
+zhai hao he	寨蒿河	0
+zhai hao zhen	寨蒿镇	0
+zhai he	斋河	0
+zhai he	寨河	0
+zhai he ben si	宅和本司	0
+zhai he guan yue	斋贺观月	0
+zhai he guang xi	斋贺光希	0
+zhai he hui zu xiang	寨河回族乡	0
+zhai he xiang	寨河乡	0
+zhai he zhen	寨河镇	0
+zhai hu kui ha	窄胡魁蛤	0
+zhai hua feng xian hua	窄花凤仙花	0
+zhai hua jia long dan	窄花假龙胆	0
+zhai hua liu ye ruo	窄花柳叶箬	0
+zhai hua xing dong	摘花行动	0
+zhai hui	斋会	0
+zhai huo xiang	寨豁乡	0
+zhai ji bian	宅急便	0
+zhai ji bian	宅急变	0
+zhai ji di	宅基地	0
+zhai ji ding shu	窄吉丁属	0
+zhai ji feng shu	窄姬蜂属	0
+zhai ji fu wu	摘机服务	0
+zhai ji hong he ling	窄基红褐柃	0
+zhai ji jiang tun	窄脊江豚	0
+zhai ji li	斋鸡粒	0
+zhai ji lu jie dao	宅吉路街道	0
+zhai ji song	宅急送	0
+zhai ji xiang	宅吉乡	0
+zhai ji zhi xia gu	窄脊指虾蛄	0
+zhai jia ling	宅家令	0
+zhai jia ming ling	宅家命令	0
+zhai jian jiang dian	宅见将典	0
+zhai jian shang shan jia	宅间上杉家	0
+zhai jian shi	宅间氏	0
+zhai jian shou	宅间守	0
+zhai jian you shu	窄剑鱿属	0
+zhai jian zu	宅见组	0
+zhai jiao	斋教	0
+zhai jiao	斋醮	0
+zhai jiao yu zhou wang miao	宅脚屿周王庙	0
+zhai jie	斋戒	0
+zhai jie yi shu	窄结蚁属	0
+zhai jie yue	斋戒月	0
+zhai jie yue xing dong	斋戒月行动	0
+zhai jin qi yuan	摘金奇缘	0
+zhai jing da qiao	窄颈大桥	0
+zhai jing gong bei yi	窄颈弓背蚁	0
+zhai jing ji	宅经济	0
+zhai jing jin hua chong ya ke	窄颈金花虫亚科	0
+zhai jing tang shu	窄颈螳属	0
+zhai jing tie jia chong shu	窄颈铁甲虫属	0
+zhai ju	宅菊	0
+zhai juan	债劵	0
+zhai ka bing du	寨卡病毒	0
+zhai ka mi	斋卡米	0
+zhai ka re	寨卡热	0
+zhai kan	斋堪	0
+zhai ke cun	宅科村	0
+zhai ke gang	窄壳纲	0
+zhai ke mu	窄壳目	0
+zhai ke xiang	寨科乡	0
+zhai kou cheng zhi qiao	宅口承志桥	0
+zhai kou he	寨口河	0
+zhai kou pu li yu	窄口朴丽鱼	0
+zhai kou xing tai gong	宅口兴太宫	0
+zhai kou zhan	寨口站	0
+zhai kuang duo ji niu wei yu	窄眶多棘牛尾鱼	0
+zhai la zhen	斋拉镇	0
+zhai la zhen qu	斋拉镇区	0
+zhai le rong han li	窄肋绒蚶蜊	0
+zhai le xiang	寨乐乡	0
+zhai le zhen	寨乐镇	0
+zhai li	寨里	0
+zhai li guan di miao xian dian	寨里关帝庙献殿	0
+zhai li he xiang	寨里河乡	0
+zhai li he zhen	寨里河镇	0
+zhai li quan shu	寨里犬属	0
+zhai li xiang	寨里乡	0
+zhai li zhen	寨里镇	0
+zhai liang zhou jia shu	窄亮轴甲属	0
+zhai lie wei ling cai	窄裂委陵菜	0
+zhai lie xie cao	窄裂缬草	0
+zhai lin she shu	窄鳞蛇属	0
+zhai liu ye ye	摘瘤爷爷	0
+zhai long xiang	宅垄乡	0
+zhai long zhan	寨隆站	0
+zhai long zhen	宅垄镇	0
+zhai long zhen	寨隆镇	0
+zhai lu dai yu	窄颅带鱼	0
+zhai lu tang li shu	窄颅塘鳢属	0
+zhai lu wei	斋卤味	0
+zhai lu wei chen	窄路微尘	0
+zhai lv lu ji shu hai tun	窄膂露脊鼠海豚	0
+zhai ma cai	斋嫲菜	0
+zhai ma lao zhen	斋马劳镇	0
+zhai mao	摘帽	0
+zhai mao you pai	摘帽右派	0
+zhai men	窄门	0
+zhai ming	斋名	0
+zhai ming si	斋明寺	0
+zhai ming si gu dao	斋明寺古道	0
+zhai mo ji dou	窄膜棘豆	0
+zhai mu zhao long	斋木昭隆	0
+zhai nan	宅男	0
+zhai nan da lan qiu	宅男打篮球	0
+zhai nan de lian ai yang cheng	宅男的恋爱养成	0
+zhai nan de lian ai zi dian	宅男的恋爱字典	0
+zhai nan de ren jian mao xian	宅男的人间冒险	0
+zhai nan fu nv lian ai zhen nan	宅男腐女恋爱真难	0
+zhai nan ka ka	宅男卡卡	0
+zhai nan nv shen	宅男女神	0
+zhai nan te wu	宅男特务	0
+zhai nan xing bu xing	宅男行不行	0
+zhai nan yi	宅男艺	0
+zhai ni yu	宅泥鱼	0
+zhai ni yu shu	宅泥鱼属	0
+zhai nv	斋女	0
+zhai nv	宅女	0
+zhai nv er jiao bu dao nan you	宅女儿交不到男友	0
+zhai nv xian chong	宅女现充	0
+zhai nv yi sheng	宅女医生	0
+zhai pei	宅配	0
+zhai pei tong	宅配通	0
+zhai pi pa xie	窄琵琶蟹	0
+zhai pi zhi li	窄魮脂鲤	0
+zhai pin	窄频	0
+zhai pin wu lian wang	窄频物联网	0
+zhai ping	窄屏	0
+zhai po xiang	寨坡乡	0
+zhai pu er	斋普尔	0
+zhai pu er	斋浦尔	0
+zhai pu er cheng shi huang gong	斋浦尔城市皇宫	0
+zhai pu er di tie	斋浦尔地铁	0
+zhai pu er tu bang	斋浦尔土邦	0
+zhai pu er wen xue jie	斋浦尔文学节	0
+zhai pu er xian	斋浦尔县	0
+zhai pu kang sheng su	窄谱抗生素	0
+zhai qi	斋七	0
+zhai qi gui zhi li	窄鳍桂脂鲤	0
+zhai qi ri	斋七日	0
+zhai qi she man	窄鳍蛇鳗	0
+zhai qian xiang	寨前乡	0
+zhai qian zhen	寨前镇	0
+zhai qiao dan gui	窄桥蛋龟	0
+zhai qiao dong xiong gui	窄桥动胸龟	0
+zhai qiao she xiang gui	窄桥麝香龟	0
+zhai qiao xia gui	窄桥匣龟	0
+zhai quan	债权	0
+zhai quan	债券	0
+zhai quan bao xian	债券保险	0
+zhai quan cun xu qi jian	债券存续期间	0
+zhai quan fa	债权法	0
+zhai quan gu jia	债券估价	0
+zhai quan gu zhi	债券估值	0
+zhai quan ji jin	债券基金	0
+zhai quan jiu qi	债券久期	0
+zhai quan ren	债权人	0
+zhai quan ren dai wei quan	债权人代位权	0
+zhai quan shi chang	债券市场	0
+zhai quan tong	债券通	0
+zhai quan tu du	债券凸度	0
+zhai quan tu xing	债券凸性	0
+zhai quan xin yong ping ji	债券信用评级	0
+zhai quan xing wei	债权行为	0
+zhai quan zhi shu	债券指数	0
+zhai ren	宅人	0
+zhai ren lei	宅人类	0
+zhai sai ji xiang tun	窄鳃棘箱鲀	0
+zhai sang	斋桑	0
+zhai sang	寨桑	0
+zhai sang gu	斋桑古	0
+zhai sang hu	斋桑湖	0
+zhai sang huang qi	斋桑黄耆	0
+zhai sang ji dou	斋桑棘豆	0
+zhai sang nuo fu ka	斋桑诺夫卡	0
+zhai sang po	斋桑泊	0
+zhai sang qu	斋桑区	0
+zhai sang shi	斋桑市	0
+zhai sang wu	寨桑武	0
+zhai sang xian	斋桑县	0
+zhai sang ying zi cao	斋桑蝇子草	0
+zhai sha mo er	斋沙默尔	0
+zhai sha zhen	寨沙镇	0
+zhai shan mo ya ti zi	寨山摩崖题字	0
+zhai shan yao	寨山瑶	0
+zhai shang hua	寨上话	0
+zhai shang jie dao	寨上街道	0
+zhai shang zhan	寨上站	0
+zhai shao e	斋烧鹅	0
+zhai shen	宅神	0
+zhai shen ban pan li yu	窄身半攀丽鱼	0
+zhai shen huan yu hai long	窄身环宇海龙	0
+zhai shen ju hua jiang	窄身锯花鳉	0
+zhai shen le	窄身鳓	0
+zhai shen luo bei dian man	窄身裸背电鳗	0
+zhai shen ni hu	窄身拟鳠	0
+zhai shen wu xu pi	窄身无须魮	0
+zhai shen xin guang chun yu	窄身新光唇鱼	0
+zhai shen yin an zhi li	窄身银鞍脂鲤	0
+zhai sheng zhao	斋生召	0
+zhai shi	斋食	0
+zhai shi lve zhu	斋氏掠蛛	0
+zhai shi miao zu dong zu xiang	寨市苗族侗族乡	0
+zhai shi zhen	寨市镇	0
+zhai shi zi cui gan zao shu	窄十字脆杆藻属	0
+zhai sui jian gu ying	窄穗剪股颖	0
+zhai sui suo cao	窄穗莎草	0
+zhai sui xi bing mao	窄穗细柄茅	0
+zhai tai gao zhu	债台高筑	0
+zhai tan xiang	斋坛乡	0
+zhai tang	斋堂	0
+zhai tang dao	斋堂岛	0
+zhai tang shu	窄螳属	0
+zhai tang shui ku	斋堂水库	0
+zhai tang zhen	斋堂镇	0
+zhai teng	斋藤	0
+zhai teng bang yan	斋藤邦彦	0
+zhai teng bo	斋藤博	0
+zhai teng cai san	斋藤才三	0
+zhai teng cai san	斎藤才三	0
+zhai teng cai xia	斋藤彩夏	0
+zhai teng chang long	斋藤长龙	0
+zhai teng chao xin	斋藤朝信	0
+zhai teng chen ci lang	斋藤辰次郎	0
+zhai teng cheng ye	斋藤成也	0
+zhai teng chun xiang	斋藤春香	0
+zhai teng dao san	斋藤道三	0
+zhai teng dong you hua	斋藤冬优花	0
+zhai teng fei niao	斋藤飞鸟	0
+zhai teng feng zi	斋藤枫子	0
+zhai teng fu	斋藤福	0
+zhai teng gong	斋藤工	0
+zhai teng gong	斎藤工	0
+zhai teng gong yang	斋藤恭央	0
+zhai teng gui	斋藤圭	0
+zhai teng gui die	斋藤归蝶	0
+zhai teng gui yi lang	斋藤圭一郎	0
+zhai teng gui yi lang	斎藤圭一郎	0
+zhai teng huan	斋藤环	0
+zhai teng huan	斎藤环	0
+zhai teng huang si	斋藤晃司	0
+zhai teng ji	斋藤荠	0
+zhai teng ji fu	斋藤季夫	0
+zhai teng ji nian guan xian yue tuan	斋藤纪念管弦乐团	0
+zhai teng jia	斋藤家	0
+zhai teng jia	斋藤岬	0
+zhai teng jian	斋藤健	0
+zhai teng jin wu	斋藤劲吾	0
+zhai teng jiu	斋藤久	0
+zhai teng kan	斋藤栞	0
+zhai teng kang gui	斋藤康贵	0
+zhai teng kang jia	斋藤康嘉	0
+zhai teng ke xing	斋藤克幸	0
+zhai teng ke xing	斎藤克幸	0
+zhai teng kuan ren	斋藤宽仁	0
+zhai teng lai yuan	斋藤赖元	0
+zhai teng li liang	斋藤利良	0
+zhai teng li mao	斋藤利茂	0
+zhai teng li san	斋藤利三	0
+zhai teng li san	斎藤利三	0
+zhai teng li xing	斋藤利兴	0
+zhai teng li zhi	斋藤利治	0
+zhai teng li zong	斋藤利宗	0
+zhai teng ling	斋藤绫	0
+zhai teng liu su lao	斋藤六宿老	0
+zhai teng long	斋藤隆	0
+zhai teng long fu	斋藤隆夫	0
+zhai teng long xing	斋藤龙兴	0
+zhai teng lv yu	斋藤绿雨	0
+zhai teng mao ji	斋藤茂吉	0
+zhai teng mi ping tai	斋藤弥平太	0
+zhai teng miao chun	斋藤妙椿	0
+zhai teng nei ge	斋藤内阁	0
+zhai teng qian chun	斋藤千春	0
+zhai teng qian he	斋藤千和	0
+zhai teng qian he	斎藤千和	0
+zhai teng qian sui	斋藤千穗	0
+zhai teng ren hong	斋藤仁弘	0
+zhai teng ren hong	斎藤仁弘	0
+zhai teng ren mei	斋藤仁美	0
+zhai teng run	斋藤润	0
+zhai teng shen si	斋藤慎司	0
+zhai teng sheng ye	斋藤胜也	0
+zhai teng shi	斋藤实	0
+zhai teng shi	斋藤実	0
+zhai teng shi	斋藤氏	0
+zhai teng shi	斎藤实	0
+zhai teng shi	斎藤実	0
+zhai teng shi	斎藤氏	0
+zhai teng shu	斋藤树	0
+zhai teng shu	斎藤树	0
+zhai teng shu ai luo	斋藤树爱罗	0
+zhai teng tai yi	斋藤太一	0
+zhai teng tao zi	斋藤桃子	0
+zhai teng tao zi	斎藤桃子	0
+zhai teng tie fu	斋藤铁夫	0
+zhai teng wen fu	斋藤文夫	0
+zhai teng xia	斋藤夏	0
+zhai teng xian	斋藤贤	0
+zhai teng xian sheng	斋藤先生	0
+zhai teng xiao lang	斋藤小浪	0
+zhai teng xiao liang	斋藤咲良	0
+zhai teng xing ping	斋藤幸平	0
+zhai teng xiu xiong	斋藤秀雄	0
+zhai teng xue	斋藤学	0
+zhai teng ya mei li	斋藤亚美里	0
+zhai teng ya shu	斋藤雅树	0
+zhai teng ya shu	斎藤雅树	0
+zhai teng yi	斋藤一	0
+zhai teng yi	斋藤毅	0
+zhai teng yi	斎藤毅	0
+zhai teng yi ci	斋藤义次	0
+zhai teng yi long	斋藤义龙	0
+zhai teng yong	斋藤勇	0
+zhai teng you gui	斎藤由贵	0
+zhai teng you gui zai	斋藤友贵哉	0
+zhai teng you li	斋藤优里	0
+zhai teng you shu	斋藤佑树	0
+zhai teng you shu	斎藤佑树	0
+zhai teng yu zao	斋藤育造	0
+zhai teng yuan yan	斋藤元彦	0
+zhai teng zhen shi	斋藤镇实	0
+zhai teng zheng jiu	斋藤正久	0
+zhai teng zheng qian	斋藤正谦	0
+zhai teng zheng sheng	斋藤正胜	0
+zhai teng zheng shu	斋藤正树	0
+zhai teng zheng yi	斋藤正义	0
+zhai teng zhi kui	斋藤直葵	0
+zhai teng zhu	斋藤渚	0
+zhai teng zhu li	斋藤朱莉	0
+zhai teng zhuo tang	斋藤拙堂	0
+zhai teng zi	斋藤滋	0
+zhai ti duan dai wei	窄体短带鳚	0
+zhai ti fei ji	窄体飞机	0
+zhai ti gou nian	窄体钩鲶	0
+zhai ti hong dian gui	窄体红点鲑	0
+zhai ti ji	窄体机	0
+zhai ti jian wen lu	窄体尖吻鲈	0
+zhai ti ke ji	窄体客机	0
+zhai ti li zhi li	窄体丽脂鲤	0
+zhai ti nan ji yu	窄体南极鱼	0
+zhai ti san zu ci tun	窄体三足刺鲀	0
+zhai ti she ta	窄体舌鳎	0
+zhai ti shi fei	窄体似鲱	0
+zhai ti shi ke ji	窄体式客机	0
+zhai ti shi long zi	窄体石龙子	0
+zhai ti shu	窄体属	0
+zhai ti ying zui yu	窄体鹦嘴鱼	0
+zhai tian wu si	斋田悟司	0
+zhai tiao guang chun yu	窄条光唇鱼	0
+zhai tiao ni hu	窄条拟鳠	0
+zhai tong xiao bao chun	窄筒小报春	0
+zhai tou bao xiang	寨头堡乡	0
+zhai tou bing nian	窄头兵鲶	0
+zhai tou chan yan du fu yu	窄头蟾眼杜父鱼	0
+zhai tou fu chi zhi li	窄头复齿脂鲤	0
+zhai tou ka ke yin han yu	窄头卡颏银汉鱼	0
+zhai tou luo xiong shan	窄头裸胸鳝	0
+zhai tou mao bi nian	窄头毛鼻鲶	0
+zhai tou shan ya luo yu	窄头山雅罗鱼	0
+zhai tou shuang ji sha	窄头双髻鲨	0
+zhai tou tuo wu	窄头橐吾	0
+zhai tou xiang	寨头乡	0
+zhai tou yi li yu	窄头鮨丽鱼	0
+zhai tu ye feng shu	窄突叶蜂属	0
+zhai tuo xian	斋托县	0
+zhai tuo zhen	斋托镇	0
+zhai tuo zhen qu	斋托镇区	0
+zhai wang	斋王	0
+zhai wei ai shi zi yu	窄尾矮狮子鱼	0
+zhai wei gao yuan qiu	窄尾高原鳅	0
+zhai wei luo xiong shan	窄尾裸胸鳝	0
+zhai wei si qi xue	窄尾丝鳍鳕	0
+zhai wei xi shu	窄尾蜥属	0
+zhai wei zhen	寨圩镇	0
+zhai wen guan zhu diao	窄纹管竺鲷	0
+zhai wen hua	宅文化	0
+zhai wen jiao sha	窄吻角鲨	0
+zhai wen juan e shu	窄纹卷蛾属	0
+zhai wen mao bi nian	窄吻毛鼻鲶	0
+zhai wen meng	窄纹獴	0
+zhai wen meng shu	窄纹獴属	0
+zhai wen qiang wen xue	窄吻腔吻鳕	0
+zhai wen shi zi yu	窄纹狮子鱼	0
+zhai wen ying si nian	窄吻硬丝鲶	0
+zhai wen zhang wen yao	窄吻长吻鳐	0
+zhai wen zhi long	窄吻栉龙	0
+zhai wu	债务	0
+zhai wu chong zu	债务重组	0
+zhai wu dan bao zheng quan	债务担保证券	0
+zhai wu di ya zhai quan	债务抵押债券	0
+zhai wu guan xi fa	债务关系法	0
+zhai wu nu li zhi	债务奴隶制	0
+zhai wu ren	债务人	0
+zhai wu shang xian	债务上限	0
+zhai wu ta	债务塔	0
+zhai wu tong huo jin suo	债务通货紧缩	0
+zhai wu tong suo	债务通缩	0
+zhai wu wei ji	债务危机	0
+zhai wu wei yue	债务违约	0
+zhai wu xian jing	债务陷阱	0
+zhai wu xing tong huo jin suo	债务型通货紧缩	0
+zhai wu zhen	宅梧镇	0
+zhai xi dian zhan	寨西店站	0
+zhai xia zhen	寨下镇	0
+zhai xiang zi	窄巷子	0
+zhai xiao bing e xie	窄小并额蟹	0
+zhai xiao hua xi xie	窄小华溪蟹	0
+zhai xiao ji ju xie	窄小寄居蟹	0
+zhai xing chu shen	摘星厨神	0
+zhai xing qi yuan	摘星奇缘	0
+zhai xing qing yuan	摘星情缘	0
+zhai xing shan zhuang	摘星山庄	0
+zhai xing ta	摘星塔	0
+zhai xing xing gei wo	摘星星给我	0
+zhai xing zhi lv	摘星之旅	0
+zhai xiong zhang jing gui shu	窄胸长颈龟属	0
+zhai xu que mai	窄序雀麦	0
+zhai xu wei piao chong ke	窄须伪瓢虫科	0
+zhai ya he	砦牙河	0
+zhai ya ma fu an	斋亚麻弗庵	0
+zhai ya mu shu	摘亚木属	0
+zhai ya mu ya ke	摘亚木亚科	0
+zhai ya xiang	寨牙乡	0
+zhai ya xiang	砦牙乡	0
+zhai yan	窄眼	0
+zhai yan cao ye qiu hai tang	窄檐糙叶秋海棠	0
+zhai yan gou cao	窄沿沟草	0
+zhai yan sui yong	窄眼䍁鲬	0
+zhai yan xin ye qiu hai tang	窄檐心叶秋海棠	0
+zhai yan xing	窄盐性	0
+zhai yan ye qiu hai tang	窄檐叶秋海棠	0
+zhai yang tie lu	宅羊铁路	0
+zhai yang xian	宅羊线	0
+zhai yang xiang	寨阳乡	0
+zhai yao	摘要	0
+zhai yao	宅妖	0
+zhai yao fang wen ren zheng	摘要访问认证	0
+zhai yao suan fa	摘要算法	0
+zhai ye ai jin ji er	窄叶矮锦鸡儿	0
+zhai ye bai he	窄叶百合	0
+zhai ye bai jiang	窄叶败酱	0
+zhai ye ban feng he	窄叶半枫荷	0
+zhai ye bu si niao	窄叶不死鸟	0
+zhai ye che qian	窄叶车前	0
+zhai ye da huang	窄叶大黄	0
+zhai ye dan hua yuan wei	窄叶单花鸢尾	0
+zhai ye du juan	窄叶杜鹃	0
+zhai ye duan zhu cha	窄叶短柱茶	0
+zhai ye huang wan	窄叶黄菀	0
+zhai ye huo ji	窄叶火棘	0
+zhai ye huo tan mu	窄叶火炭母	0
+zhai ye huo tong shu	窄叶火筒树	0
+zhai ye jin xiang cao	窄叶锦香草	0
+zhai ye ju hua hai tong	窄叶聚花海桐	0
+zhai ye ke	窄叶柯	0
+zhai ye lan pen hua	窄叶蓝盆花	0
+zhai ye leng di wei mao	窄叶冷地卫矛	0
+zhai ye li	窄叶李	0
+zhai ye lian rui cha	窄叶连蕊茶	0
+zhai ye ling	窄叶柃	0
+zhai ye luo di sheng gen	窄叶落地生根	0
+zhai ye luo wan	窄叶裸菀	0
+zhai ye ma ling ju tai	窄叶马铃苣苔	0
+zhai ye mu ban xia	窄叶木半夏	0
+zhai ye nan she teng	窄叶南蛇藤	0
+zhai ye niu yu	窄叶牛鱼	0
+zhai ye pi pa	窄叶枇杷	0
+zhai ye qing gang	窄叶青冈	0
+zhai ye qing jia ye	窄叶青荚叶	0
+zhai ye que mei teng	窄叶雀梅藤	0
+zhai ye rao hua	窄叶荛花	0
+zhai ye ru wan	窄叶乳菀	0
+zhai ye shao yao	窄叶芍药	0
+zhai ye shi nan	窄叶石楠	0
+zhai ye sui mi ji	窄叶碎米荠	0
+zhai ye tai cao	窄叶苔草	0
+zhai ye tang shu	窄叶螳属	0
+zhai ye wen mu shu	窄叶蚊母树	0
+zhai ye xi nan fu di cai	窄叶西南附地菜	0
+zhai ye xi nan hong shan cha	窄叶西南红山茶	0
+zhai ye xian bei hua	窄叶鲜卑花	0
+zhai ye xiao ku mai	窄叶小苦荬	0
+zhai ye xiao liu er ling	窄叶小六儿令	0
+zhai ye xiu xian ju	窄叶绣线菊	0
+zhai ye xun shu	窄叶蕈树	0
+zhai ye yan dou ke	窄叶烟斗柯	0
+zhai ye yang	窄叶杨	0
+zhai ye ye cao xiang	窄叶野草香	0
+zhai ye ye wan dou	窄叶野豌豆	0
+zhai ye yin guo jie	窄叶蚓果芥	0
+zhai ye ze xie	窄叶泽泻	0
+zhai ye zhe mao	窄叶蔗茅	0
+zhai ye zhi ban ju tai	窄叶直瓣苣苔	0
+zhai ye zhong hua wei mao	窄叶中华卫矛	0
+zhai ye zhu bai	窄叶竹柏	0
+zhai ye zhu long cao	窄叶猪笼草	0
+zhai ye zhui	窄叶锥	0
+zhai ye zi zhu	窄叶紫珠	0
+zhai yi	债役	0
+zhai yi huang qi	窄翼黄耆	0
+zhai yin	宅饮	0
+zhai ying e guan cao	窄颖鹅观草	0
+zhai ying lai cao	窄颖赖草	0
+zhai ying tao miu wu	摘樱桃谬误	0
+zhai ying zao shu he	窄颖早熟禾	0
+zhai ying zhen	寨英镇	0
+zhai yuan	斋院	0
+zhai yue	斋月	0
+zhai yue ge ming	斋月革命	0
+zhai yue shi ri cheng	斋月十日城	0
+zhai yue zhan zheng	斋月战争	0
+zhai zai	债仔	0
+zhai zai gang ci de gong	宅仔港慈德宫	0
+zhai zai gang zhuang	宅仔港庄	0
+zhai zha	斋扎	0
+zhai zhai	宅宅	0
+zhai zhang chun shu	窄长蝽属	0
+zhai zhang mei li meng shui zao	窄长美丽猛水蚤	0
+zhai zhi hu jiao meng shui zao	窄肢湖角猛水蚤	0
+zhai zhi ji feng shu	窄痣姬蜂属	0
+zhai zhi xiang dui xing	债之相对性	0
+zhai zhi zhong xi xie	窄肢中溪蟹	0
+zhai zhong xiang	宅中乡	0
+zhai zhu	债主	0
+zhai zhu ye chai hu	窄竹叶柴胡	0
+zhai zi	宅子	0
+zhai zi	寨子	0
+zhai zi cheng ji wu miao	寨子城及武庙	0
+zhai zi gang	宅子港	0
+zhai zi ge dan yi zhi	寨子圪旦遗址	0
+zhai zi gou xiang	寨子沟乡	0
+zhai zi xiang	寨子乡	0
+zhai zi yuan ye tong yi zhi	寨子园冶铜遗址	0
+zhai zi zhen	寨子镇	0
+zhai zou le jin pai	摘走了金牌	0
+zhai zui ba weng shu	窄嘴霸鹟属	0

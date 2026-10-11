@@ -1,0 +1,219 @@
+gang kou	港口	56702
+gang gan	杠杆	23033
+gang yuan	港元	17665
+gang bi	港币	15915
+gang hong	港红	15225
+gang ao tai tong bao	港澳台同胞	11312
+gang nei zhi pen	缸内直喷	3706
+gang tie chan ye fa zhan	钢铁产业发展	3532
+gang gu	港股	3140
+gang guo	刚果	3127
+gang ao ban	港澳办	2996
+gang gan shou gou	杠杆收购	2743
+gang men	肛门	2641
+gang ying zheng fu	港英政府	2093
+gang kou zuo ye	港口作业	1588
+gang wu ju	港务局	1472
+gang bei	钢背	1268
+gang zheng bu e	刚正不阿	1251
+gang sa lei si	冈萨雷斯	1193
+gang tie gong si	钢铁公司	1186
+gang cheng	钢城	1179
+gang cai shi chang	钢材市场	1153
+gang chang	肛肠	1137
+gang ding	岗顶	888
+gang rou xiang ji	刚柔相济	786
+gang ju mu zhang	纲举目张	643
+gang chang ke	肛肠科	593
+gang mei	岗梅	408
+gang shang	岗上	400
+gang tie shi chang	钢铁市场	390
+gang jin tie gu	钢筋铁骨	381
+gang ya	钢牙	365
+gang lie	肛裂	328
+gang tie gong si	港铁公司	326
+gang zi tou	杠子头	320
+gang bi zi yong	刚愎自用	306
+gang cun ning ci	冈村宁次	296
+gang chang yi yuan	肛肠医院	272
+gang qian	港前	260
+gang zhi bu e	刚直不阿	255
+gang guan che	钢管车	254
+gang sha	岗厦	245
+gang bei	港北	225
+gang kou lu	港口路	205
+gang nan	港南	175
+gang zhou nong zhong	肛周脓肿	165
+gang guan	肛管	143
+gang qiao	港桥	126
+gang zha	港闸	118
+gang dou hua yuan	钢都花园	115
+gang dong	港东	113
+gang cha	刚察	111
+gang gu gang ji	冈谷钢机	108
+gang wan da dao	港湾大道	106
+gang cun	岗村	99
+gang qian lu	港前路	98
+gang bian	港边	94
+gang gu tong	港股通	90
+gang xi	港西	89
+gang di gong xing chong	刚地弓形虫	85
+gang bei	岗贝	84
+gang tou cun	岗头村	81
+gang ba	岗巴	79
+gang men bi suo	肛门闭锁	74
+gang wan lu	港湾路	73
+gang kou cun	港口村	72
+gang shan	岗山	71
+gang tou	港头	67
+gang men sao yang	肛门瘙痒	65
+gang qi	冈崎	60
+gang men kuo yue ji	肛门括约肌	58
+gang men zhi jian	肛门指检	58
+gang men jing jian cha	肛门镜检查	56
+gang men chu xie	肛门出血	50
+gang ban tao	钢板套	47
+gang beng er	钢镚儿	40
+gang men jing	肛门镜	36
+gang ping	岗坪	36
+gang wei	港尾	35
+gang kou jing ying guan li gui ding	港口经营管理规定	33
+gang shi	岗市	32
+gang ga zhen	岗嘎镇	26
+gang mao zhi shi ge li fen quan	刚毛指示格里芬犬	26
+gang men xia zhai	肛门狭窄	26
+gang yao	缸窑	26
+gang hua ran qi	港华燃气	24
+gang yuan	港园	24
+gang ji fei chi	纲纪废弛	23
+gang men shi jin	肛门失禁	23
+gang wa shi	缸瓦市	23
+gang gong yuan	岗公园	21
+gang guan wan tou	钢管弯头	21
+gang yan gao na	钢研高纳	21
+gang dong xiang	岗东乡	17
+gang nan lu	港南路	15
+gang bei	岗背	14
+gang hong yuan	岗虹苑	14
+gang ru tou fei da	肛乳头肥大	14
+gang wei zhen zhuo qi cun	港尾镇卓岐村	14
+gang e	钢鹅	13
+gang tang	港塘	13
+gang xia	岗下	12
+gang cheng zhen	堽城镇	11
+gang kou gui hua guan li gui ding	港口规划管理规定	11
+gang lian lu	港莲路	11
+gang chuang chang	钢窗厂	10
+gang dui zhen	岗堆镇	10
+gang lie jie dao	岗列街道	9
+gang nan lu	岗南路	9
+gang ni xiang	岗尼乡	9
+gang bian cun	港边村	8
+gang dou hua yuan guan wei hui	钢都花园管委会	8
+gang guan ai	肛管癌	8
+gang bei cun	岗贝村	7
+gang wan bei lu	港湾北路	7
+gang ban jiao tao	钢板胶套	6
+gang kou he tong	港口合同	6
+gang men wai kuo yue ji	肛门外括约肌	6
+gang nan cun	港南村	6
+gang qian	港墘	6
+gang shan lu	岗山路	6
+gang shang ji	冈上肌	6
+gang tian zhun yi	冈田准一	6
+gang tuo zhen	岗托镇	6
+gang yan she qu	钢研社区	6
+gang ben zhen ye	冈本真夜	5
+gang bi ya hong	冈比亚红	5
+gang dian jie dao	岗店街道	5
+gang zhou yan	肛周炎	5
+gang dong gong lu	港东公路	4
+gang feng dian qi	港丰电器	4
+gang men shi you	肛门湿疣	4
+gang men xi rou	肛门息肉	4
+gang shou	纲手	4
+gang tang gong lu	港塘公路	4
+gang bi fa xing quan	港币发行权	3
+gang chang su she	钢厂宿舍	3
+gang chang zhong	港昌中	3
+gang guan sun shang	肛管损伤	3
+gang guan yan	肛管炎	3
+gang jian han e nuo	刚健含婀娜	3
+gang kang mu ku li pian	肛康穆库利片	3
+gang ling	冈陵	3
+gang long cheng gou wu zhong xin	港隆城购物中心	3
+gang long xiang	岗龙乡	3
+gang mu da xiang	岗木达乡	3
+gang quan qing xi ji	钢圈清洗剂	3
+gang tao chang	缸套厂	3
+gang ti ji	肛提肌	3
+gang xin jia yuan	港馨家园	3
+gang yao lu	港窑路	3
+gang ban dian kuai	钢板垫块	2
+gang ban gui	杠板归	2
+gang bei tai yang shou shi qu	刚被太阳收拾去	2
+gang ben duo xu	冈本多绪	2
+gang ben xin yan	冈本信彦	2
+gang bi ya you dai shu	冈比亚有袋鼠	2
+gang kou mei chen fang zhi gui ding	港口煤尘防治规定	2
+gang qian cun	港前村	2
+gang quan lv	钢圈铝	2
+gang ru tou yan	肛乳头炎	2
+gang ta	港塔	2
+gang tian jiang sheng	冈田将生	2
+gang xi xiao qu	岗西小区	2
+gang zi li	岗子里	2
+gang zi lu kou	岗子路口	2
+gang bei ji yue	岗北集约	1
+gang ben gui ren	冈本圭人	1
+gang ben xia sheng	冈本夏生	1
+gang cha hu tong	刚察胡同	1
+gang chang lu	钢厂路	1
+gang cun xiao zi	冈村孝子	1
+gang dao you ci xiong	刚道有雌雄	1
+gang fu she qu	港阜社区	1
+gang guan zhi chang ai	肛管直肠癌	1
+gang hu da qiao	港湖大桥	1
+gang nan xiao qu	港南小区	1
+gang qian	港乾	1
+gang qian cun	港墘村	1
+gang qiu ying	刚秋英	1
+gang shan cun nan zhan	岗山村南站	1
+gang song	岗松	1
+gang ta cun	港塔村	1
+gang wei lu	冈纬路	1
+gang wu you er yuan	港务幼儿园	1
+gang xia ji	冈下肌	1
+gang yin wo yan	肛隐窝炎	1
+gang bi ya ju xie	冈比亚巨蝎	0
+gang bi ya kuan dai bao luo	刚比亚宽带宝螺	0
+gang bi ya qi xu wei	冈比亚歧须鮠	0
+gang cun chong man	冈村虫鳗	0
+gang cun ruan shou xue	冈村软首鳕	0
+gang cun shi guang sai que diao	冈村氏光鳃雀鲷	0
+gang cun shi guang sai yu	冈村氏光鳃鱼	0
+gang dan lan jia chong	钢弹蓝甲虫	0
+gang di si shan mao	冈底斯山猫	0
+gang di si shan ying zi cao	冈底斯山蝇子草	0
+gang fu lin te wei ti hua shi	岗夫林特微体化石	0
+gang gang ba dan	钢钢巴丹	0
+gang guo fei zhou fei yu	刚果非洲肺鱼	0
+gang guo he xiao leng fei	刚果河小棱鲱	0
+gang guo hong e bei	刚果红鳄背	0
+gang guo hong e bei xie	刚果红鳄背蝎	0
+gang guo long tou li yu	刚果隆头丽鱼	0
+gang guo mo li nuo si xian chong	刚果摩利诺斯线虫	0
+gang guo mo tou yu	刚果墨头鱼	0
+gang guo tuo bei yu	刚果驼背鱼	0
+gang guo xiao zhao shui ta	刚果小爪水獭	0
+gang guo yan	刚果燕	0
+gang guo ye ling	刚果野鲮	0
+gang guo ye niu	刚果野牛	0
+gang guo yi bi	刚果蚁鵖	0
+gang guo zhang wei xiao hou	刚果长尾枭猴	0
+gang kui ce jing gui	钢盔侧颈龟	0
+gang mao jin chang zu gou xia	刚毛近长足钩虾	0
+gang mao ni an kang	刚毛拟鮟鱇	0
+gang mao shun mu chong	刚毛瞬目虫	0
+gang se shi zhong jian zhen tiao qiu	冈瑟氏中间真条鳅	0
+gang tian yuan mo chan	岗田圆沫蝉	0

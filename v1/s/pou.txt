@@ -1,0 +1,71 @@
+pou xi	剖析	108855
+pou mian	剖面	16580
+pou fu chan	剖腹产	13863
+pou gong chan	剖宫产	11283
+pou kai	剖开	10200
+pou fu	剖腹	9480
+pou mian tu	剖面图	5590
+pou bai	剖白	1650
+pou fen	剖分	1368
+pou cheng	剖成	1230
+pou shi tu	剖视图	930
+pou xin	剖心	920
+pou fu shou shu	剖腹手术	655
+pou jie	剖解	610
+pou shi	剖视	595
+pou shi	剖尸	350
+pou lu	剖露	195
+pou duan	剖断	190
+pou ji	掊击	190
+pou fu shu	剖腹术	160
+pou shi	剖释	140
+pou ming	剖明	135
+pou bei shu	剖蓓舒	127
+pou jue	剖决	115
+pou bang de zhu	剖蚌得珠	100
+pou bang qiu zhu	剖蚌求珠	100
+pou dou zhe heng	掊斗折衡	100
+pou duan ru liu	剖断如流	100
+pou duo yi gua	裒多益寡	100
+pou duo zeng gua	裒多增寡	100
+pou fu chan hai shi shun chan	剖腹产还是顺产	100
+pou fu chan lv	剖腹产率	100
+pou fu chan shou shu	剖腹产手术	100
+pou fu qiang	剖腹腔	100
+pou fu sheng chan	剖腹生产	100
+pou fu zi sha	剖腹自杀	100
+pou gan li dan	剖肝沥胆	100
+pou gan lie dan	剖肝裂胆	100
+pou gan xi dan	剖肝析胆	100
+pou gong chan lv	剖宫产率	100
+pou gong chan shou shu	剖宫产手术	100
+pou hao xi mang	剖毫析芒	100
+pou jue ru liu	剖决如流	100
+pou lian wu yan	裒敛无厌	100
+pou mian gou xing	剖面构型	100
+pou shi tu	剖示图	100
+pou tu wei gan	抔土未干	100
+pou wan xiong qiang	剖完胸腔	100
+pou xin li dan	剖心沥胆	100
+pou xin xi gan	剖心析肝	100
+pou xiong qiang	剖胸腔	100
+pou xuan xi wei	剖玄析微	100
+pou you xi wei	剖幽析微	100
+pou fu tan cha shu	剖腹探查术	63
+pou fu zi yi	剖腹自医	53
+pou ji	裒辑	45
+pou fu cang zhu	剖腹藏珠	40
+pou bian	剖辨	20
+pou xi ru wei	剖析入微	3
+pou fu chan qie kou qian	剖腹产切口钳	2
+pou ke zai wei	掊克在位	2
+pou dan qing xin	剖胆倾心	1
+pou fan xi zhi	剖烦析滞	1
+pou fu chan jian	剖腹产剪	1
+pou fu ming xin	剖腹明心	1
+pou ru chong er	裒如充耳	1
+pou tu ju he	抔土巨壑	1
+pou xi gan dan	剖析肝胆	1
+pou xin che gan	剖心坼肝	1
+pou xin xi dan	剖心析胆	1
+pou xiong ju wan	裒凶鞠顽	1

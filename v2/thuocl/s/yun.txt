@@ -1,0 +1,436 @@
+yun nan sheng	云南省	52514
+yun suan fu	运算符	49767
+yun fu	孕妇	32878
+yun ji	云集	29359
+yun xing huan jing	运行环境	25468
+yun xing shi jian	运行时间	21006
+yun ji suan	云计算	10992
+yun he	运河	10801
+yun ying shang	运营商	10714
+yun xing ce shi	运行测试	8323
+yun dou	芸豆	6800
+yun xing ji zhi	运行机制	6439
+yun xing ku	运行库	5332
+yun xing shi yi chang	运行时异常	5197
+yun fu wu	云服务	5113
+yun xing fang shi	运行方式	4374
+yun wu cha	云雾茶	4364
+yun suan fu zhong zai	运算符重载	4320
+yun ping tai	云平台	4114
+yun xing mo shi	运行模式	4025
+yun tun mian	云吞面	3989
+yun cheng shi	运城市	3604
+yun xing shi cuo wu	运行时错误	3569
+yun xing shi ku	运行时库	2986
+yun xing cuo wu	运行错误	2974
+yun jue	晕厥	2938
+yun xing ji bie	运行级别	2897
+yun suan su du	运算速度	2879
+yun suan fu you xian ji	运算符优先级	2632
+yun tui	云腿	2557
+yun fu shi	云浮市	2514
+yun cun chu	云存储	2504
+yun guan chu	运管处	2402
+yun chou wei wo	运筹帷幄	2124
+yun xing xi tong	运行系统	2081
+yun nan sheng kun ming shi	云南省昆明市	1985
+yun shu ceng	运输层	1764
+yun gui	云贵	1423
+yun da	韵达	1422
+yun he	云和	1299
+yun tou zhuan xiang	晕头转向	1292
+yun xing ri zhi	运行日志	1278
+yun zhu ji	云主机	1219
+yun xing xun huan	运行循环	1209
+yun nan bai yao	云南白药	1145
+yun feng	云峰	1134
+yun ji suan ping tai	云计算平台	1131
+yun xing bao cuo	运行报错	1072
+yun pian gao	云片糕	1056
+yun yan	云岩	1056
+yun tai shan	云台山	1042
+yun suan qi	运算器	1030
+yun yun zhong sheng	芸芸众生	995
+yun meng	云梦	978
+yun dong gu ji	运动估计	921
+yun huan jing	云环境	890
+yun dong jian ce	运动检测	778
+yun dan feng qing	云淡风轻	744
+yun ji suan fu wu	云计算服务	744
+yun tai	云台	726
+yun xing shi quan xian	运行时权限	726
+yun xi	云溪	659
+yun ji shu	云技术	637
+yun dong qiang du	运动强度	635
+yun xu zhong duan	允许中断	604
+yun cheng	郓城	595
+yun wei guan li	运维管理	584
+yun shu dui	运输队	579
+yun ji su	孕激素	563
+yun tui yue bing	云腿月饼	555
+yun dong bu chang	运动补偿	527
+yun xi	郧西	527
+yun fang	运放	525
+yun xing shi ji zhi	运行时机制	521
+yun dong qu	运动区	515
+yun nan lu	云南路	495
+yun zhen	云针	491
+yun tai hua yuan	云台花园	460
+yun gu	云谷	423
+yun dong zhang ai	运动障碍	417
+yun xing wen ti	运行问题	395
+yun shu chu	运输处	386
+yun lian	筠连	382
+yun dou juan	芸豆卷	374
+yun shu ju ku	云数据库	373
+yun dai ying	恽代英	367
+yun yin yue	云音乐	364
+yun men	云门	362
+yun dong chu fang	运动处方	359
+yun an quan	云安全	328
+yun cheng	云城	323
+yun dong kong zhi	运动控制	317
+yun dong shen jing yuan	运动神经元	309
+yun gang	云岗	307
+yun que	云雀	304
+yun dong tu xiang	运动图像	300
+yun zhu shou	云猪手	300
+yun ju si	云居寺	295
+yun ce shi	云测试	291
+yun wei gong ju	运维工具	286
+yun suan fang da qi	运算放大器	279
+yun wei jian kong	运维监控	279
+yun nan ka fei	云南咖啡	269
+yun zheng xia wei	云蒸霞蔚	259
+yun dong liao fa	运动疗法	255
+yun meng shan	云蒙山	255
+yun wei jing yan	运维经验	247
+yun dong fen xi	运动分析	246
+yun dong yu ce	运动预测	236
+yun yang	郧阳	221
+yun kai wu san	云开雾散	215
+yun cao zuo xi tong	云操作系统	214
+yun tian hua	云天化	209
+yun dong shen jing yuan bing	运动神经元病	200
+yun ji suan ying yong	云计算应用	199
+yun wei zi dong hua	运维自动化	187
+yun dong mu biao jian ce	运动目标检测	183
+yun dong xiang liang	运动向量	168
+yun jian kong	云监控	167
+yun ji suan da shu ju	云计算大数据	158
+yun dong gen zong	运动跟踪	157
+yun ke tang	云课堂	155
+yun dong xi tong	运动系统	153
+yun tai lu	云台路	152
+yun shan lu	云山路	151
+yun he wen hua guang chang	运河文化广场	140
+yun lu	云路	136
+yun ju	云居	135
+yun ni zhi bie	云泥之别	125
+yun guan li ping tai	云管理平台	115
+yun bei fen	云备份	113
+yun nang	孕囊	110
+yun qi she qu	云栖社区	110
+yun shi xi le di	陨石喜乐蒂	110
+yun wei ji shu	运维技术	101
+yun cheng di qu	运城地区	100
+yun ban luo jia xia hu yu	云斑裸颊虾虎鱼	99
+yun tou	云头	97
+yun meng yu mian	云梦鱼面	95
+yun ling lu	云岭路	91
+yun ji suan kai fa	云计算开发	90
+yun lu	云麓	90
+yun qi zhu jing	云栖竹径	89
+yun tuo guan	云托管	89
+yun jue bo gui	云谲波诡	84
+yun shen bu zhi chu	云深不知处	82
+yun dong sheng li xue	运动生理学	80
+yun shan cun	云山村	76
+yun long shan	云龙山	75
+yun xiao chu	运销处	72
+yun shi pin	云视频	71
+yun ying bu	运营部	71
+yun dong tu xiang ya suo	运动图像压缩	68
+yun song	云松	67
+yun pu gong ye qu	云埔工业区	65
+yun ping	云屏	64
+yun xiao wu san	云消雾散	64
+yun chou wei wo zhi zhong	运筹帷幄之中	63
+yun nan bai yao ding	云南白药酊	59
+yun feng cun	云峰村	56
+yun yi	云一	56
+yun dong kong zhi qi	运动控制器	55
+yun dang	筼筜	54
+yun dong bu zhuo	运动捕捉	53
+yun dang hu	筼筜湖	52
+yun gao jing	云告警	51
+yun nan bai yao jiao nang	云南白药胶囊	51
+yun dong shi tiao	运动失调	50
+yun nan bai yao gao	云南白药膏	50
+yun nan chun juan	云南春卷	50
+yun gui xiang	云贵乡	49
+yun shou ping	恽寿平	44
+yun sheng	运盛	41
+yun wei jia gou	运维架构	38
+yun zhong bai he	云中白鹤	38
+yun feng jie	云峰街	37
+yun jing dong lu	云景东路	36
+yun men shan	云门山	36
+yun shan die cui	云山叠翠	36
+yun pan cun	云盘村	34
+yun xing duo tai	运行多态	34
+yun ban hui	云斑鮰	33
+yun jing li	云景里	33
+yun tong gong si	运通公司	33
+yun xiang yi shang hua xiang rong	云想衣裳花想容	32
+yun ji lu	云集路	30
+yun yun chen chen	晕晕沉沉	30
+yun chuan lu	蕴川路	28
+yun qu yuan	云趣园	28
+yun tong ka	运通卡	28
+yun dong zhong shu	运动中枢	27
+yun wei ji chu	运维基础	27
+yun yuan	韵苑	27
+yun zhi jue zhong	允执厥中	27
+yun long cun	云龙村	25
+yun guang xin cun	运光新村	23
+yun jin mei di	云锦美地	23
+yun ling dong lu	云岭东路	23
+yun nan bai yao chuang ke tie	云南白药创可贴	23
+yun nan bi ke gui	云南闭壳龟	23
+yun tai cun	云台村	23
+yun xi cun	云溪村	23
+yun xi gong ye yuan	云溪工业园	23
+yun dong chong jian	运动重建	22
+yun xing ke kao xing	运行可靠性	22
+yun dong xing shi yu	运动性失语	20
+yun feng si	云峰寺	20
+yun pian ge dan	云片鸽蛋	18
+yun liu xie yi	运六歇一	17
+yun shan jin xiu	云山锦绣	17
+yun tui dou men fan	云腿豆焖饭	17
+yun zhong shui ji jin shu lai	云中谁寄锦书来	17
+yun qiao jian cai cheng	运乔建材城	16
+yun shui yuan	云水苑	15
+yun wu cun	云雾村	15
+yun xing shi zhen duan	运行时诊断	15
+yun yi qun	恽逸群	15
+yun dong bing	晕动病	14
+yun nuo jin fan yan	允诺禁反言	14
+yun qu yuan yi qu	云趣园一区	14
+yun shan she qu	云山社区	14
+yun xiang si	云翔寺	14
+yun hai lu	云海路	13
+yun lao	云老	13
+yun an zhen	云安镇	12
+yun er	云二	12
+yun fa lv	云法律	12
+yun fu xian	云浮县	12
+yun gang nan gong	云岗南宫	12
+yun san xi tong jiao nang	孕三烯酮胶囊	12
+yun ti she zu xiang	云梯畲族乡	12
+yun wei gong cheng	运维工程	12
+yun ba huang niu	郧巴黄牛	11
+yun cun	运村	11
+yun heng qin ling jia he zai	云横秦岭家何在	11
+yun lu lu	云鹿路	11
+yun suan ji cun qi	运算寄存器	11
+yun tui guan tou	云腿罐头	11
+yun ying lu	云影路	11
+yun gang bei qu	云岗北区	10
+yun mei	云美	10
+yun shan jie	云山街	10
+yun xi lu	云西路	10
+yun xing ke xing xing	运行可行性	10
+yun xing pou mian	运行剖面	10
+yun guang lu	运光路	9
+yun lian lu	云莲路	9
+yun liang hu guan li qu	运粮湖管理区	9
+yun nan hui bing	云南回饼	9
+yun jia ling	云驾岭	8
+yun na shui guo lao	云娜水果捞	8
+yun shu rao di sha	云树绕堤沙	8
+yun tai shan cun	云台山村	8
+yun xiang cao	芸香草	8
+yun chang	允常	7
+yun dong pian	晕动片	7
+yun mu ping feng zhu ying shen	云母屏风烛影深	7
+yun nan ma long	云南马龙	7
+yun qu yuan san qu	云趣园三区	7
+yun shui cun	云水村	7
+yun tui nai tang	云腿奶糖	7
+yun yuan xue sheng gong yu	韵苑学生公寓	7
+yun ding cun	云顶村	6
+yun dong zhi jue	运动知觉	6
+yun gu she qu	云谷社区	6
+yun hai ning	晕海宁	6
+yun he wan	云河湾	6
+yun ji sui dao	云集隧道	6
+yun nan ban xi mao yang	云南半细毛羊	6
+yun po yue lai hua nong ying	云破月来花弄影	6
+yun qu yuan she qu	云趣园社区	6
+yun wu xin yi chu xiu	云无心以出岫	6
+yun xian yi zu xiang	云仙彝族乡	6
+yun xiang dai	芸香甙	6
+yun cheng xian	运城县	5
+yun dong ji yi	运动记忆	5
+yun mu chen fei	云母尘肺	5
+yun ping xiang	云屏乡	5
+yun qiao jia yuan	运乔嘉园	5
+yun qing qing xi yu yu	云青青兮欲雨	5
+yun sheng mei zhi guo	运盛美之国	5
+yun shui zhang he dao yu qing	云水长和岛屿青	5
+yun yan cun	云岩村	5
+yun ban fen die	云斑粉蝶	4
+yun bin hua yan jin bu yao	云鬓花颜金步摇	4
+yun dong jue	运动觉	4
+yun fo shan du jia cun	云佛山度假村	4
+yun gu gong ye qu	云谷工业区	4
+yun gu xiao qu	云谷小区	4
+yun hai jin shu	云海金属	4
+yun huo cun	运伙村	4
+yun ji cun	云集村	4
+yun ju hu tong	云居胡同	4
+yun kang kou fu ye	孕康口服液	4
+yun lin cun	云林村	4
+yun men xue	云门穴	4
+yun ruo	允若	4
+yun san yue ming shui dian zhui	云散月明谁点缀	4
+yun tie qiao	恽铁樵	4
+yun wen mao sha	云纹猫鲨	4
+yun yang	运洋	4
+yun zai	云仔	4
+yun dan feng qing jin wu tian	云淡风轻近午天	3
+yun dong dan wei	运动单位	3
+yun fu dao qie tuan	孕妇盗窃团	3
+yun gan xiang	云干乡	3
+yun he fan dian	运河饭店	3
+yun hu xiang	云湖乡	3
+yun ju si gu tong	云居寺孤桐	3
+yun long shan sui dao	云龙山隧道	3
+yun lu cun	云路村	3
+yun lu jie	云露街	3
+yun lu shi chang	云路市场	3
+yun ma lin chang	云马林场	3
+yun nan yan hua	云南盐化	3
+yun shu jing ji fa gui	运输经济法规	3
+yun wai yi sheng ji	云外一声鸡	3
+yun xi lu she qu	云西路社区	3
+yun xia chu hai shu	云霞出海曙	3
+yun yong lin chang	云勇林场	3
+yun chuang wu ge chun chi	云窗雾阁春迟	2
+yun er xi qin chao rou pian	云耳西芹炒肉片	2
+yun er xi tong	孕二烯酮	2
+yun fen die	云粉蝶	2
+yun feng bin guan	云峰宾馆	2
+yun guang huan dao	云光环岛	2
+yun he duan xiao	云河段霄	2
+yun ling	云玲	2
+yun long shan dong men	云龙山东门	2
+yun nan bai yao pian	云南白药片	2
+yun nan you cha	云南油茶	2
+yun qi cun	云栖村	2
+yun ri xiang hui ying	云日相辉映	2
+yun shan si	云山寺	2
+yun tong ce ding	孕酮测定	2
+yun tuo ba xian	云托八鲜	2
+yun wu tu jia zu xiang	云雾土家族乡	2
+yun xi ban shi chu	云溪办事处	2
+yun xi hua dan dan	云溪花淡淡	2
+yun zhi bao nei tang tai jiao nang	云芝胞内糖肽胶囊	2
+yun zhuang	云庄	2
+yun zhuang cun	云庄村	2
+yun zi wu xin shui zi xian	云自无心水自闲	2
+yun an gu shui nu pu bei	云安酤水奴仆悲	1
+yun ban bai tiao tian niu	云斑白条天牛	1
+yun bei shu xiang cha	筠焙熟香茶	1
+yun bian yan duan hu tian yue	云边雁断胡天月	1
+yun bo tun cun	运卜屯村	1
+yun cai	允才	1
+yun chi jie dao	云池街道	1
+yun cu zhen	云簇镇	1
+yun dai hong yan die	云带红眼蝶	1
+yun dao sheng	恽道生	1
+yun dong zhong ban	运动终板	1
+yun er cun	云二村	1
+yun fan jin shi hai	云帆今始还	1
+yun guang shang chang	云光商场	1
+yun gui er yan xue ming	云归而岩穴暝	1
+yun heng jiu pai fu huang he	云横九派浮黄鹤	1
+yun ji ba shu hai dui jing	云髻罢梳还对镜	1
+yun jian yan huo shi ren jia	云间烟火是人家	1
+yun kai heng yue ji yin zhi	云开衡岳积阴止	1
+yun lai qi jie wu xia zhang	云来气接巫峡长	1
+yun lei wei ren chan	匀泪偎人颤	1
+yun ling cun	云灵村	1
+yun long shan xia shi chun yi	云龙山下试春衣	1
+yun lu gong yuan	云路公园	1
+yun mei cun	芸美村	1
+yun nan cheng tou	云南城投	1
+yun nan da li shi xia guan zhen	云南大理市下关镇	1
+yun nan zhe ye	云南锗业	1
+yun nang hui sheng	孕囊回声	1
+yun ni ming mie huo ke du	云霓明灭或可睹	1
+yun nong zhu xi yue	云弄竹溪月	1
+yun nuo jin fan yan yuan ze	允诺禁反言原则	1
+yun qi tai hua shan	云起太华山	1
+yun qiao lu	云桥路	1
+yun rao hua ping yi	云绕画屏移	1
+yun shan hu ming mie	云山互明灭	1
+yun sheng zhu luo an	云生朱络暗	1
+yun shu che liang guan li zhi du	运输车辆管理制度	1
+yun tan xiang	云昙乡	1
+yun tie dan bai	运铁蛋白	1
+yun wu mi nan kai	云雾密难开	1
+yun xiu hua yuan she qu	云秀花园社区	1
+yun yang dao	云阳道	1
+yun yi han zuo zhong nan fu	运移汉祚终难复	1
+yun yi sui jun du xiang shui	云亦随君渡湘水	1
+yun you yu san cong ci ci	云游雨散从此辞	1
+yun yu chao hai mu	云雨朝还暮	1
+yun yu ding	恽毓鼎	1
+yun yu wu shan wang duan chang	云雨巫山枉断肠	1
+yun yun la jiu xiang	氲氲腊酒香	1
+yun zhang yu jiang jiao	云长玉浆饺	1
+yun zhi	晕痣	1
+yun zhi bao nei tang tai	云芝胞内糖肽	1
+yun zhi jun jiao nang	云芝菌胶囊	1
+yun zhi tang tai	云芝糖肽	1
+yun zhong bian jiang shu	云中辨江树	1
+yun ban da wen dian man	云斑大吻电鳗	0
+yun ban jun mang chun	云斑俊盲蝽	0
+yun ban li mang chun	晕斑丽盲蝽	0
+yun ban xia jiang	云斑鰕鳉	0
+yun ban you du fu yu	云斑鲉杜父鱼	0
+yun ban yuan fu zhu	晕斑圆腹蛛	0
+yun ban yuan qing	云斑圆蜻	0
+yun ban zhang tun xia hu yu	云斑长臀鰕虎鱼	0
+yun cai juan guan luo	雲彩捲管螺	0
+yun guang cu ye mu	云广粗叶木	0
+yun hai lin can	云海鳞蚕	0
+yun huan dong fang tun	晕环东方鲀	0
+yun huang du e	云黄毒蛾	0
+yun long xi xie	云龙溪蟹	0
+yun nan ban jie yu	云南瓣结鱼	0
+yun nan ban ye zhi hu	云南半叶趾虎	0
+yun nan bian ying	云南扁萤	0
+yun nan bian ying hu	云南扁蝇虎	0
+yun nan bing leng tian niu	云南柄棱天牛	0
+yun nan bing zhi xi chong	云南并殖吸虫	0
+yun nan jiu jie xiao ye jia	云南九节肖叶甲	0
+yun nan mu ya ying	云南木蚜蝇	0
+yun nan ni yan	云南拟鰋	0
+yun nan song huang du e	云南松黄毒蛾	0
+yun nan wei hou yuan xiao ye jia	云南伪厚缘肖叶甲	0
+yun nan zhang fu ying ye jia	云南长跗萤叶甲	0
+yun nan zhang jiao mu shi	云南长角木虱	0
+yun shan da e jian feng	云杉大颚茧蜂	0
+yun shan da mo tian niu	云杉大墨天牛	0
+yun shan xiao du di jin xiao feng	云杉小蠹狄金小蜂	0
+yun shan xiao hei tian niu	云杉小黑天牛	0
+yun shan xiao mo tian niu	云杉小墨天牛	0
+yun wen dan ji bi yu	云纹单棘躄鱼	0
+yun wen jiao ban zhou e	匀纹角瓣舟蛾	0
+yun wen yu yin diao	云纹雨印鲷	0
+yun ying xiao juan e	云缨小卷蛾	0
+yun zhang xu tian niu	云长须天牛	0

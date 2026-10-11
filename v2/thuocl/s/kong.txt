@@ -1,0 +1,315 @@
+kong jian	控件	129597
+kong gu gong si	控股公司	74797
+kong gao	控告	71748
+kong gu	控股	51444
+kong huang	恐慌	40553
+kong zi	孔子	20933
+kong zi fu chuan	空字符串	16012
+kong jian fu za du	空间复杂度	14805
+kong zhi zhen	空指针	13994
+kong zhi gong cheng	控制工程	8316
+kong que kai ping	孔雀开屏	7194
+kong qi qing xin ji	空气清新剂	6018
+kong zhi zi fu	控制字符	5677
+kong zhi wen jian	控制文件	5332
+kong zhi zhen yi chang	空指针异常	5101
+kong zhi liu	控制流	4981
+kong zhi fan zhuan	控制反转	4849
+kong ke gong si	空壳公司	4253
+kong zhi cuo shi	控制措施	4252
+kong zhi xi tong	控制系统	4222
+kong zhi shu ju	控制数据	4006
+kong fu	空腹	3574
+kong zhi tai cheng xu	控制台程序	3523
+kong gao ren	控告人	3501
+kong zhi tai shu ru	控制台输入	3456
+kong bai fu	空白符	3296
+kong xue lai feng	空穴来风	3273
+kong fu jia	孔府家	3072
+kong zhi jie gou	控制结构	3033
+kong zhi yu ju	控制语句	3023
+kong kong ru ye	空空如也	2718
+kong zhi bian liang	控制变量	2361
+kong zhong lou ge	空中楼阁	2171
+kong tou	空头	2160
+kong tiao lv xin	空调滤芯	1992
+kong jian shu xing	控件属性	1902
+kong miao	孔庙	1749
+kong zhi kuai	控制块	1600
+kong jian shu ju	空间数据	1587
+kong lei	空类	1572
+kong jian shi yong	控件使用	1510
+kong jian lei	控件类	1423
+kong jun bu dui	空军部队	1317
+kong jian quan	空间权	1202
+kong qiang zhu la	空腔注蜡	1091
+kong fang an quan	空防安全	1012
+kong zhi mo kuai	控制模块	855
+kong chuang fei	空床费	790
+kong biao qian	空标签	768
+kong que dong nan fei	孔雀东南飞	737
+kong xin jiao nang	空心胶囊	737
+kong tiao beng	空调泵	728
+kong hai	空海	721
+kong fan sen	孔繁森	717
+kong zhi ruan jian	控制软件	694
+kong zhi zong xian	控制总线	685
+kong jian suo yin	空间索引	679
+kong tiao guan lu	空调管路	666
+kong qian jue hou	空前绝后	662
+kong long zu ji	恐龙足迹	659
+kong tou zhi piao	空头支票	657
+kong bai bei shu	空白背书	649
+kong chang wan qu jun	空肠弯曲菌	635
+kong gu you xian gong si	控股有限公司	626
+kong zhi ce lve	控制策略	620
+kong qi qing jing ji	空气清净机	578
+kong jian zhuang tai	控件状态	569
+kong fu	孔府	568
+kong jian xu yao	空间需要	567
+kong zhi suan fa	控制算法	551
+kong cang	空仓	550
+kong long jiao yin	恐龙脚印	550
+kong jun zhi hui xue yuan	空军指挥学院	542
+kong ming	孔明	530
+kong jian fen ge	空间分割	466
+kong gu quan	控股权	456
+kong zhi ji shu	控制技术	455
+kong jian fen xi	空间分析	438
+kong ge ti huan	空格替换	400
+kong zhi zhen	控制帧	399
+kong jian pei zhi qi	空间配置器	398
+kong jian shu ju ku	空间数据库	392
+kong di zhi	空地址	388
+kong jian bu ju	空间布局	383
+kong qing dong	孔庆东	383
+kong jian ju bu xing	空间局部性	366
+kong zhi ban	控制板	339
+kong dong wu wu	空洞无物	338
+kong zhi yi lai	控制依赖	338
+kong zhi tong dao	控制通道	327
+kong long zu ji hua shi	恐龙足迹化石	321
+kong zhi chuan ran yuan	控制传染源	321
+kong bu chong	恐怖虫	318
+kong jian xiao li	空间效力	313
+kong qiang	空腔	310
+kong zhi jing du	控制精度	307
+kong jun yi yuan	空军医院	305
+kong jian gong neng	控件功能	297
+kong zhi qi jie kou	控制器接口	286
+kong jie	孔杰	280
+kong tiao lv wang	空调滤网	274
+kong jian cha xun	空间查询	263
+kong jian ding wei	空间定位	262
+kong zhi mei ti	控制媒体	258
+kong kou wu ping	空口无凭	257
+kong xiang xi	孔祥熙	257
+kong su zhi neng	控诉职能	241
+kong li	孔里	232
+kong bu zu zhi zui	恐怖组织罪	227
+kong jian rong ji	空间容积	226
+kong zhi liu fen xi	控制流分析	223
+kong gang fu wu	空港服务	217
+kong rong	孔融	216
+kong zhi guan xi	控制关系	214
+kong jiang lu	控江路	210
+kong meng zhi dao	孔孟之道	203
+kong zhi li lun	控制理论	202
+kong xian wu li nei cun	空闲物理内存	193
+kong zhi qu dong	控制驱动	185
+kong xiang rui	孔祥瑞	174
+kong xin zi	空心字	165
+kong fu gao dian	孔府糕点	152
+kong wu you li	孔武有力	146
+kong jian tong ji	空间统计	140
+kong qi kong jian	空气空间	132
+kong chang	空肠	128
+kong xin guo	空心果	127
+kong zhi ji	控制机	124
+kong kai	空开	118
+kong hou	箜篌	113
+kong zhi ding dian	控制顶点	111
+kong jian fu za xing	空间复杂性	107
+kong zhi hui lu	控制回路	107
+kong zhi liu cheng tu	控制流程图	95
+kong hua lian pian	空话连篇	86
+kong kou shuo bai hua	空口说白话	81
+kong gu you lan	空谷幽兰	79
+kong cao zuo zhi ling	空操作指令	76
+kong xia	空下	72
+kong cang fei	空舱费	71
+kong shang ren	孔尚任	69
+kong qiu	孔丘	68
+kong jian kong zhi	空间控制	63
+kong zhi duo bian xing	控制多边形	63
+kong xin bing	空心饼	62
+kong zhi zhan	控制站	59
+kong zhi chong tu	控制冲突	52
+kong jia zhuang	孔家庄	51
+kong jian zi xiang guan	空间自相关	50
+kong zhuang	孔庄	48
+kong jian xiang jie	控件详解	45
+kong ying da	孔颖达	43
+kong di shui	空地税	42
+kong shan xin yu hou	空山新雨后	41
+kong zhi xiang	控制箱	39
+kong tiao ya suo ji pi dai	空调压缩机皮带	37
+kong gu zu yin	空谷足音	34
+kong tiao gao ya guan	空调高压管	33
+kong bo hua	孔伯华	32
+kong long wen yi fu xing	恐龙文艺复兴	32
+kong que gong yuan	孔雀公园	31
+kong yong tan xing dang quan	孔用弹性挡圈	31
+kong xiang ming	孔祥明	30
+kong ke shu xiang	空壳树乡	29
+kong zhi bo xing	控制波形	29
+kong pu	孔浦	28
+kong xin la mian	空心拉面	28
+kong zhi gui	控制柜	28
+kong shi zhi ji	控释制剂	27
+kong jia ya jie dao	孔家崖街道	26
+kong jian xiao li fan wei	空间效力范围	26
+kong jun liao yang yuan	空军疗养院	26
+kong jian jian suo	空间检索	25
+kong qi shuan se	空气栓塞	25
+kong tou tou cun	空头头寸	25
+kong jia cun	孔家村	24
+kong chao zong he zheng	空巢综合征	23
+kong kong dao ren	空空道人	23
+kong jian zhi jue	空间知觉	21
+kong jia dai	孔家埭	20
+kong le chui	空了吹	20
+kong gao shi su song	控告式诉讼	19
+kong shan bu jian ren	空山不见人	19
+kong cong zhou	孔从洲	18
+kong fu di guo yi jue	孔府地锅一绝	18
+kong tou zhuan zhang zhi piao	空头转帐支票	18
+kong yu	孔玉	18
+kong zhi ping	控制屏	18
+kong yu xiang	孔玉乡	17
+kong bian ping deng dui kang	控辩平等对抗	16
+kong dong xing fei jie he	空洞型肺结核	16
+kong gang lu	空港路	16
+kong zhi xian jin tou fang	控制现金投放	16
+kong gong yuan	空工院	15
+kong yuan xing shi wang mo tuo li	孔源性视网膜脱离	15
+kong bai ruan pan	空白软盘	14
+kong gao shen shu bu men	控告申述部门	13
+kong ji	孔集	13
+kong zhi wang ge	控制网格	13
+kong ping xiang	孔坪乡	12
+kong tiao qi chang	空调器厂	12
+kong jian tuo pu guan xi	空间拓扑关系	11
+kong lin lin	孔琳琳	11
+kong pan	控盘	11
+kong tiao zhang jin lun	空调涨紧轮	11
+kong xin yu wan tang	空心鱼丸汤	10
+kong you	孔侑	10
+kong zui	孔最	9
+kong jun zhu di	空军驻地	8
+kong fu yi pin guo	孔府一品锅	7
+kong jiang xin cun	控江新村	7
+kong zhang	孔璋	7
+kong long xiang	恐龙乡	6
+kong se xiang	孔色乡	6
+kong tiao da wang	空调大王	6
+kong xiu	孔秀	6
+kong yuan yuan	孔媛媛	6
+kong zi deng dong shan er xiao lu	孔子登东山而小鲁	6
+kong bu xing chang	恐怖刑场	5
+kong jia	孔甲	5
+kong jiao mu	恐角目	5
+kong jiao shou	恐角兽	5
+kong chi lu ya ke	空齿鹿亚科	4
+kong ju zhi gu	恐惧之谷	4
+kong li liu shuang bu jue fei	空里流霜不觉飞	4
+kong zhi xing jiang ya	控制性降压	4
+kong zhong wang	空中网	4
+kong zi de yi men sheng	孔子得意门生	4
+kong bi	孔比	3
+kong fu kao hua jiao gui yu	孔府烤花搅鲑鱼	3
+kong gang wu liu kai fa qu	空港物流开发区	3
+kong jia bu	孔家埠	3
+kong jie rong shi an	空姐溶尸案	3
+kong ling hui	孔令晖	3
+kong qi	孔齐	3
+kong tan	孔滩	3
+kong tiao pi dai zhang jin lun	空调皮带张紧轮	3
+kong guang lin	孔广林	2
+kong guang tao	孔广陶	2
+kong pu yi yuan	孔浦医院	2
+kong qi tou shi	空气透视	2
+kong shui gong cheng xian	空水共澄鲜	2
+kong shui gong you you	空水共悠悠	2
+kong shuo	孔硕	2
+kong tiao nuan feng kai guan	空调暖风开关	2
+kong xian pei	孔宪培	2
+kong yu qi	孔毓圻	2
+kong yuan cuo	孔元措	2
+kong yuan men zhen bu	空院门诊部	2
+kong zhong wen tian ji	空中闻天鸡	2
+kong zi gu wei di zi yue	孔子顾谓弟子曰	2
+kong zi yu xiang dang	孔子于乡党	2
+kong zi zhi wei ji da cheng	孔子之谓集大成	2
+kong chuan zhi	孔传鋕	1
+kong chuang nan du shou	空床难独守	1
+kong chuang wo ting nan chuang yu	空床卧听南窗雨	1
+kong cun cun wei hui	孔村村委会	1
+kong die an	空蝶鞍	1
+kong dong qu xi da jie	崆峒区西大街	1
+kong fan zuo shou chi xin xie	空烦左手持新蟹	1
+kong geng	孔庚	1
+kong guang sen	孔广森	1
+kong he wei xie zui	恐吓威胁罪	1
+kong hou suo bei jing bu hai	箜篌所悲竟不还	1
+kong huan	空换	1
+kong ji su	孔继涑	1
+kong ji yu ya mu	空棘鱼亚目	1
+kong jiang han yue chu gong men	空将汉月出宫门	1
+kong jie ta sheng li	恐结他生里	1
+kong jun zhi hui xue yuan nan men	空军指挥学院南门	1
+kong li fu hua meng li shen	空里浮花梦里身	1
+kong lin du yu bai yun qi	空林独与白云期	1
+kong ling xia shi jun	空灵霞石峻	1
+kong liu ke lian yu shui tong	空留可怜与谁同	1
+kong mei ren zhi chi mu	恐美人之迟暮	1
+kong nian sui zhi bu wu yu	恐年岁之不吾与	1
+kong qi lv xin zong cheng	空气滤芯总成	1
+kong qiu dao zhi ju chen ai	孔丘盗跖俱尘埃	1
+kong que dong fei he chu qi	孔雀东飞何处栖	1
+kong que hu tong	孔雀胡同	1
+kong shan cao mu zhang	空山草木长	1
+kong sheng zhen zhong dan	孔圣枕中丹	1
+kong sheng zhen zhong wan	孔圣枕中丸	1
+kong shi pan an xian	恐是潘安县	1
+kong shi xiang	孔氏乡	1
+kong shui gong yin yun	空水共氤氲	1
+kong ting yi shu hua	空庭一树花	1
+kong tou huan shou	空头换手	1
+kong wei xian zhe ying	恐为仙者迎	1
+kong xian jin yong yin shan er	控弦尽用阴山儿	1
+kong xian po zuo de	控弦破左的	1
+kong xiang huang he che di bing	空想黄河彻底冰	1
+kong xin liu li wan zi	空心琉璃丸子	1
+kong xin nan gua bing	空心南瓜饼	1
+kong xin su bing	空心酥饼	1
+kong yi xie jiang jun	空忆谢将军	1
+kong yu	孔昱	1
+kong zhao long shu	恐爪龙属	1
+kong zhou	孔宙	1
+kong zhou dui ying wu	空洲对鹦鹉	1
+kong zi cheng chun qiu	孔子成春秋	1
+kong zi ci yi ji	孔子辞以疾	1
+kong zi jian lao dan gui	孔子见老聃归	1
+kong zi jiu lun mie	恐子就沦灭	1
+kong zi wei ji shi	孔子谓季氏	1
+kong cai long	空彩龙	0
+kong die deng e	空蝶灯蛾	0
+kong dun hai dan	孔楯海胆	0
+kong ji yu ke	空棘鱼科	0
+kong ji yu mu	空棘鱼目	0
+kong long di guo li xian ji	恐龙帝国历险记	0
+kong quan lei dong wu	恐犬类动物	0
+kong que ying sai can	孔雀缨鳃蚕	0
+kong she fa nv yao shou shu	恐蛇发女妖兽属	0
+kong zhao long xia mu	恐爪龙下目	0

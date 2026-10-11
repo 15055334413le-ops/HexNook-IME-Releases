@@ -1,0 +1,497 @@
+sai shi	赛事	190485
+sai che	赛车	155895
+sai ji	赛季	132370
+sai qu	赛区	66200
+sai chang	赛场	64035
+sai hou	赛后	36945
+sai ma	赛马	36015
+sai jin	塞进	35700
+sai dao	赛道	35475
+sai qian	赛前	33885
+sai er	塞尔	31750
+sai cheng	赛程	23650
+sai pao	赛跑	22710
+sai ou	赛欧	22010
+sai ge	赛格	20540
+sai te	赛特	20385
+sai wai	塞外	18785
+sai la tu	赛拉图	18610
+sai hong	腮红	18390
+sai chang shang	赛场上	17745
+sai dao	塞到	16680
+sai duan	赛段	14295
+sai bo	赛博	13650
+sai gei	塞给	13205
+sai ru	塞入	12905
+sai men tie ke	赛门铁克	12790
+sai di chuan mei	赛迪传媒	12500
+sai di wang	赛迪网	12380
+sai ge	赛鸽	12270
+sai er wei ya	塞尔维亚	12000
+sai zhi	赛制	11840
+sai hui	赛会	11725
+sai zai	塞在	11280
+sai shang	塞上	11180
+sai pu lu si	塞浦路斯	11175
+sai hei	塞黑	11055
+sai ban	塞班	11045
+sai de	塞的	10780
+sai wei li ya	塞维利亚	10780
+sai che	塞车	10560
+sai le	塞了	10425
+sai bo peng ke	赛博朋克	9999
+sai er wei ya gong he guo	塞尔维亚共和国	9999
+sai la li ang gong he guo	塞拉利昂共和国	9999
+sai nei jia er gong he guo	塞内加尔共和国	9999
+sai pu lu si gong he guo	塞浦路斯共和国	9999
+sai she er gong he guo	塞舌尔共和国	9999
+sai xiang	赛项	9999
+sai ya	塞牙	9999
+sai di	赛迪	9750
+sai che you xi	赛车游戏	8740
+sai man	塞满	8520
+sai la	塞拉	8450
+sai man le	塞满了	8125
+sai ting	赛艇	7995
+sai bo shu ma	赛博数码	7465
+sai bei	塞北	7410
+sai ke	塞克	7205
+sai che shou	赛车手	7185
+sai na he	塞纳河	6985
+sai che chang	赛车场	6860
+sai ma hui	赛马会	6830
+sai nei jia er	塞内加尔	6705
+sai xian yan	腮腺炎	6440
+sai na	赛纳	6125
+sai zhu	塞住	5600
+sai zi	塞子	5515
+sai dao shang	赛道上	5475
+sai guo	赛过	5470
+sai bao	赛豹	5435
+sai ge dian zi	赛格电子	5040
+sai she er	塞舌尔	5015
+sai xian	腮腺	4980
+sai yang	赛扬	4793
+sai ma chang	赛马场	4770
+sai la li ang	塞拉利昂	4751
+sai nuo	赛诺	4640
+sai ban dao	塞班岛	4475
+sai ji zhong	赛季中	4435
+sai di wang xun	赛迪网讯	4210
+sai miu er	塞缪尔	4060
+sai bang zi	腮帮子	4035
+sai weng shi ma	塞翁失马	4025
+sai dian	赛点	3830
+sai shou	赛手	3820
+sai long zhou	赛龙舟	3680
+sai la tu ou feng	赛拉图欧风	3528
+sai ma qi shi	赛马骑师	3333
+sai jin qu	塞进去	3125
+sai zhe	塞着	3105
+sai han qu	赛罕区	3000
+sai yi de	赛义德	2963
+sai wan ti si	塞万提斯	2930
+sai long	塞隆	2710
+sai bao	赛宝	2510
+sai kuang	赛况	2405
+sai li mu hu	赛里木湖	2345
+sai la si	塞拉斯	2340
+sai ya ren	赛亚人	2295
+sai zhen zhu	赛珍珠	2150
+sai bang	腮帮	2080
+sai zu	塞族	1880
+sai mei er	塞梅尔	1820
+sai feng	赛风	1810
+sai nuo fei	赛诺菲	1735
+sai ni	塞尼	1695
+sai cheng biao	赛程表	1475
+sai qi	赛期	1465
+sai gui	塞规	1385
+sai na he pan	塞纳河畔	1380
+sai shang jiang nan	塞上江南	1370
+sai ning	赛宁	1360
+sai fu	塞夫	1290
+sai lu luo	赛璐珞	1220
+sai qian zhun bei	赛前准备	1195
+sai de	塞得	1180
+sai xia qiu lai feng jing yi	塞下秋来风景异	1180
+sai yi xie	塞一些	1180
+sai jin	塞紧	1155
+sai gou	赛狗	1135
+sai chu	赛出	1111
+sai er da	塞尔达	1111
+sai ji	赛绩	1111
+sai qiu	赛球	1111
+sai xie	塞些	1111
+sai hong shua	腮红刷	1105
+sai di	塞迪	1085
+sai bei de xue	塞北的雪	1080
+sai men	塞门	1075
+sai ya feng	塞牙缝	1055
+sai xian sheng	赛先生	995
+sai xia qu	塞下曲	950
+sai bai wei	赛百味	947
+sai lai si	塞莱斯	915
+sai er ji	塞尔吉	840
+sai ting dui	赛艇队	830
+sai han	赛罕	810
+sai che fu	赛车服	780
+sai le si	塞勒斯	690
+sai shi an pai	赛事安排	680
+sai xi er	塞西尔	665
+sai bei jiang nan	塞北江南	640
+sai li mu	赛里木	610
+sai che mi	赛车迷	580
+sai gui	赛规	560
+sai shang feng	塞上风	555
+sai luo cheng	赛洛城	540
+sai wai feng guang	塞外风光	485
+sai de li ke	塞德里克	460
+sai ting bi sai	赛艇比赛	455
+sai hong qiao	赛虹桥	438
+sai bian de	腮边的	415
+sai zui	塞嘴	379
+sai gai	鳃盖	369
+sai chuan	赛船	365
+sai bo si	赛柏斯	342
+sai jin lai	塞进来	335
+sai pao zhe	赛跑者	335
+sai jia	腮颊	315
+sai le te	赛乐特	300
+sai ban wang	塞班网	258
+sai che xuan shou	赛车选手	255
+sai long chuan	赛龙船	235
+sai che hui	赛车会	230
+sai guo zhu ge liang	赛过诸葛亮	225
+sai che pao dao	赛车跑道	220
+sai ting yun dong	赛艇运动	205
+sai le mu	塞勒姆	200
+sai xi li ya hua	塞西莉亚花	198
+sai dian ju	赛点局	197
+sai la si	赛拉斯	187
+sai sai ni weng	塞塞尼翁	187
+sai hong jia	腮红甲	186
+sai shang xing	塞上行	185
+sai xia zu	赛夏族	185
+sai na li ao	塞纳里奥	183
+sai lin wei	赛林威	175
+sai pang xie	赛螃蟹	175
+sai ji jie suan	赛季结算	170
+sai li ka	赛利卡	166
+sai xiang ke ji	赛象科技	166
+sai ji fu	赛季服	161
+sai yu long	鳃鱼龙	161
+sai ji geng xin	赛季更新	155
+sai wo wang	赛我网	155
+sai ma jie	赛马节	150
+sai rou	塞肉	150
+sai lun gai di	塞伦盖蒂	148
+sai bu er	赛布尔	146
+sai hou cai fang	赛后采访	145
+sai luo zuo lin	赛洛唑啉	143
+sai ji shou ce	赛季手册	140
+sai hui zhi	赛会制	138
+sai lin ge	塞林格	137
+sai hui	塞回	123
+sai na	赛娜	123
+sai hu xi	鳃呼吸	120
+sai ge guang chang	赛格广场	118
+sai wen jia	赛文加	116
+sai ke si dun	塞克斯顿	113
+sai gou liang	塞狗粮	112
+sai ji jie shu	赛季结束	112
+sai li si	赛里斯	111
+sai shang	腮上	111
+sai si	赛似	111
+sai ma niang	赛马娘	106
+sai bei gao yuan	塞北高原	105
+sai bu zhu	塞不住	105
+sai xi li ya	塞西莉亚	105
+sai qiang	鳃腔	104
+sai bu xia	塞不下	103
+sai ba si di an	塞巴斯蒂安	100
+sai ban xi tong	塞班系统	100
+sai ban zhi qian	塞班直签	100
+sai bo ge peng ke	赛博个朋克	100
+sai bo jing shen bing	赛博精神病	100
+sai bo lang ke	赛博浪客	100
+sai bo le	赛伯乐	100
+sai bo tan ke	赛博坦克	100
+sai che chang sai	赛车场赛	100
+sai che chuan qi	赛车传奇	100
+sai che ju le bu	赛车俱乐部	100
+sai che mo ni qi	赛车模拟器	100
+sai che mo xing	赛车模型	100
+sai che nv lang	赛车女郎	100
+sai che pi	赛车皮	100
+sai che xi lie	赛车系列	100
+sai chu feng ge	赛出风格	100
+sai chu le feng ge	赛出了风格	100
+sai chu le shui ping	赛出了水平	100
+sai chu shui ping	赛出水平	100
+sai dao mo shi	赛道模式	100
+sai dao zhi wang	赛道之王	100
+sai de gang	塞得港	100
+sai de ke	赛德克	100
+sai de li	赛得利	100
+sai de li ci	塞德利茨	100
+sai de man man	塞得满满	100
+sai de man man dang dang	塞得满满当当	100
+sai dian dui	赛点队	100
+sai er bi	塞尔比	100
+sai er da chuan shuo	塞尔达传说	100
+sai er da chuan shuo huang ye zhi xi	塞尔达传说荒野之息	100
+sai er da chuan shuo kuang ye zhi xi	塞尔达传说旷野之息	100
+sai er da chuan shuo wang guo zhi lei	塞尔达传说王国之泪	100
+sai er da chuan shuo xi lie	塞尔达传说系列	100
+sai er dao zhong	塞耳盗钟	100
+sai er di ke	塞尔蒂克	100
+sai er di ke dui	塞尔蒂克队	100
+sai er nan	塞尔南	100
+sai er te	塞尔特	100
+sai er te yu	塞尔特语	100
+sai er ti ke	塞尔提克	100
+sai er ti ke dui	塞尔提克队	100
+sai er wei ya ke luo di ya yu	塞尔维亚克罗地亚语	100
+sai er wei ya min zhu dang	塞尔维亚民主党	100
+sai er wei ya yu	塞尔维亚语	100
+sai fei luo	塞飞洛	100
+sai gao tu	赛高兔	100
+sai ge ju le bu	赛鸽俱乐部	100
+sai ge wei ya	塞哥维亚	100
+sai gei ni	塞给你	100
+sai gei ni men	塞给你们	100
+sai gei ta	塞给他	100
+sai gei ta men	塞给他们	100
+sai gei wo men	塞给我们	100
+sai gou chang	赛狗场	100
+sai guo yi ge zhu ge liang	赛过一个诸葛亮	100
+sai han xiao qu	赛罕小区	100
+sai hou tong ku	赛后痛哭	100
+sai ji chong qi	赛季重启	100
+sai ji de fen wang	赛季得分王	100
+sai ji dou geng xin le	赛季都更新了	100
+sai ji gang geng xin	赛季刚更新	100
+sai ji geng xin la	赛季更新啦	100
+sai ji hui gu	赛季回顾	100
+sai ji mang he	赛季盲盒	100
+sai ji pi	赛季皮	100
+sai ji qian	赛季前	100
+sai ji tong xing zheng	赛季通行证	100
+sai ji zui hou yi tian	赛季最后一天	100
+sai jin le	塞进了	100
+sai jing yi zao	塞井夷灶	100
+sai ke ren	塞克人	100
+sai ke sen	塞克森	100
+sai la fan	塞拉凡	100
+sai la ji	塞垃圾	100
+sai la mo	塞拉摩	100
+sai le ge	塞了个	100
+sai le jin qu	塞了进去	100
+sai le si	赛勒斯	100
+sai lei bu luo	赛雷布洛	100
+sai li san	赛力散	100
+sai li si	赛力斯	100
+sai lia mu	赛俩目	100
+sai lin na	赛琳娜	100
+sai lu fen	赛璐玢	100
+sai ma xi lie	赛马系列	100
+sai mi er	赛弥尔	100
+sai na liu si	塞纳留斯	100
+sai ni zui li	塞你嘴里	100
+sai nian pi fu	赛年皮肤	100
+sai pao xuan shou	赛跑选手	100
+sai pao yuan	赛跑员	100
+sai ren chang pian	塞壬唱片	100
+sai ren shen	赛人参	100
+sai shang qu	塞上曲	100
+sai she er qun dao	塞舌尔群岛	100
+sai shen me	赛什么	100
+sai shi chang di	赛事场地	100
+sai shi chong qi	赛事重启	100
+sai shi gui mo	赛事规模	100
+sai shi jing cai	赛事竞猜	100
+sai shi ti xi	赛事体系	100
+sai shi xuan chuan	赛事宣传	100
+sai shi zhi xing	赛事执行	100
+sai si le	赛斯勒	100
+sai te la	赛特拉	100
+sai ti mi wu si	塞提米乌斯	100
+sai wa bu	赛瓦布	100
+sai wa lve si	塞瓦略斯	100
+sai wa si tuo bo er	塞瓦斯托波尔	100
+sai wei li nuo	塞韦里诺	100
+sai weng shi ma an zhi fei fu	塞翁失马安知非福	100
+sai weng shi ma yan zhi fei fu	塞翁失马焉知非福	100
+sai xi ya	塞西亚	100
+sai xi ya ren	塞西亚人	100
+sai xue qi shuang	赛雪欺霜	100
+sai xun zu	赛训组	100
+sai ya feng dou bu gou	塞牙缝都不够	100
+sai yi di	赛义迪	100
+sai zai li	塞在里	100
+sai zai li bian	塞在里边	100
+sai zai li bian er	塞在里边儿	100
+sai zai li mian	塞在里面	100
+sai zai li tou	塞在里头	100
+sai zai ni	赛在你	100
+sai zai ni de	塞在你的	100
+sai zai zhe	塞在这	100
+sai zai zhe er	塞在这儿	100
+sai zai zhe li	塞在这里	100
+sai zai zhe li tou	塞在这里头	100
+sai zai zhe li tou er	塞在这里头儿	100
+sai zhe dong xi	塞着东西	100
+sai zhe er ji	塞着耳机	100
+sai zhu gong	赛猪公	100
+sai zui ba	塞嘴巴	100
+sai zui ba li	塞嘴巴里	100
+sai zui li	塞嘴里	100
+sai zui li mian	塞嘴里面	100
+sai ben mi zuo	噻苯咪唑	94
+sai ge dian nao cheng	赛格电脑城	86
+sai er wei ya he hei shan	塞尔维亚和黑山	79
+sai chang feng yun	赛场风云	66
+sai bu jin qu	塞不进去	64
+sai lv pi ding	噻氯匹定	55
+sai yin si	赛因斯	50
+sai xian yan bing du	腮腺炎病毒	47
+sai nai mu	赛乃姆	46
+sai er long xiang	赛尔龙乡	41
+sai bo li	塞伯利	40
+sai che kuang	赛车狂	40
+sai de xiang	塞得像	40
+sai xian yan jian du huo yi miao	腮腺炎减毒活疫苗	37
+sai na li ao yi hui	塞纳里奥议会	36
+sai che che ba	赛车车把	35
+sai nei jia er duo qi yu	塞内加尔多鳍鱼	34
+sai er man	塞尔曼	33
+sai jin hua	赛金花	31
+sai bu chu	赛不出	30
+sai bao yu	赛鲍鱼	27
+sai xian yan yi miao	腮腺炎疫苗	27
+sai geng ding	赛庚啶	26
+sai wai jiu bao	塞外酒堡	26
+sai bo te qi che cheng	赛博特汽车城	19
+sai fu	塞弗	17
+sai pa	鳃耙	16
+sai pian	鳃片	16
+sai si	鳃丝	16
+sai bu liao	塞不了	15
+sai che dao lu	赛车道路	15
+sai lai xi bu	塞来昔布	13
+sai wei li ya	塞维里亚	13
+sai zong guan	赛总管	13
+sai wei an	赛胃安	12
+sai lie	鳃裂	11
+sai hei dui	塞黑队	10
+sai ting chang	赛艇场	10
+sai pu lu si shu	塞浦路斯鼠	9
+sai shi xiang zhang yuan	赛世香樟园	9
+sai jin gui	鳃金龟	8
+sai miu er sen	塞缪尔森	8
+sai er sa ma	塞尔萨玛	7
+sai li mu hu shui guai	赛里木湖水怪	7
+sai men tie ke	赛门铁客	7
+sai tuo xiu an	噻托溴铵	7
+sai yin sai yong	塞因塞用	7
+sai er he	塞尔赫	6
+sai ke xiao zuo	塞克硝唑	6
+sai miu er si	塞缪尔斯	6
+sai na he fa guo can ting	塞纳河法国餐厅	6
+sai nai pu ting	噻奈普汀	6
+sai pu lu si shan die	塞浦路斯闪蝶	6
+sai weng de ma	塞翁得马	6
+sai luo zuo lin	塞洛唑啉	5
+sai shang xiang na	塞上香哪	5
+sai han tao lai su mu	赛汉陶来苏木	4
+sai xian guan	腮腺管	4
+sai er lun	塞尔伦	3
+sai gong	鳃弓	3
+sai guo	赛果	3
+sai ji	赛级	3
+sai long feng shi jiao nang	塞隆风湿胶囊	3
+sai ma xin an	噻吗心安	3
+sai qin lei li niao yao	噻嗪类利尿药	3
+sai yu jie dao	赛鱼街道	3
+sai ben da zuo	噻苯达唑	2
+sai ben long	噻苯隆	2
+sai de guang chang	赛德广场	2
+sai ge san xing	赛格三星	2
+sai lai tang zhen	赛来塘镇	2
+sai long gu	塞隆骨	2
+sai ma luo er	噻吗洛尔	2
+sai mi ding	噻嘧啶	2
+sai ni si	赛尼斯	2
+sai qu si te pian	塞曲司特片	2
+sai shang chang cheng kong zi xu	塞上长城空自许	2
+sai shi si zhen	赛什斯镇	2
+sai xian e xing zhong liu	腮腺恶性肿瘤	2
+sai xian nang zhong	腮腺囊肿	2
+sai xiang yan	塞象眼	2
+sai xue feng shi jiao nang	塞雪风湿胶囊	2
+sai yuan er yu liu chang ye	塞源而欲流长也	2
+sai ao sha	塞奥沙	1
+sai ao sha tao zhuang	塞奥沙套装	1
+sai ba ying nu quan	塞巴英努犬	1
+sai bi ou	赛比欧	1
+sai bu si ao chang er quan	赛布斯奥长耳犬	1
+sai de bi	塞得比	1
+sai en	赛恩	1
+sai er kou ke bei mei xun lu	塞尔扣克北美驯鹿	1
+sai er tou ling	塞耳偷铃	1
+sai fei ya zhi zui	赛菲亚之罪	1
+sai fen	噻吩	1
+sai ge da sheng	赛格达声	1
+sai ge gu fen	赛格股份	1
+sai ji hu po	赛吉琥珀	1
+sai jing fen she	塞井焚舍	1
+sai ke si chang mao lie quan	赛克斯长毛猎犬	1
+sai la ba jiao weng	塞拉霸娇鹟	1
+sai la fen duan wen shi zi yu	塞拉芬短吻狮子鱼	1
+sai la mo dao	塞拉摩岛	1
+sai la mo ren lei	塞拉摩人类	1
+sai la ya dao xiao ban chang feng die	塞拉亚岛小斑裳凤蝶	1
+sai li mu feng mao ju	塞里木风毛菊	1
+sai lie lou guan	鳃裂瘘管	1
+sai lin ba jiao luo	塞林芭蕉螺	1
+sai lu si ban ma	塞卢斯斑马	1
+sai lun gai di mao	塞伦盖蒂猫	1
+sai meng di quan	塞蒙地犬	1
+sai mu yuan	赛姆螈	1
+sai nei jia er bi yu	塞内加尔躄鱼	1
+sai nei jia er die	塞内加尔蝶	1
+sai nei jia er feng tou bai ling	塞内加尔凤头百灵	1
+sai nei jia er mi feng	塞内加尔蜜蜂	1
+sai nei jia er ruo cong	塞内加尔弱蟌	1
+sai nei jia er shu wa	塞内加尔树蛙	1
+sai nei jia er xia hu yu	塞内加尔鰕虎鱼	1
+sai nei jia er ye ling	塞内加尔野鲮	1
+sai nei jia er yuan ban bie	塞内加尔缘板鳖	1
+sai ni si chang xue	赛尼斯长靴	1
+sai ni si dou peng	赛尼斯斗篷	1
+sai ni si shou tao	赛尼斯手套	1
+sai ni si tou gu	赛尼斯头箍	1
+sai pu lu si bi	塞浦路斯鵖	1
+sai qi ji shi zhi teng	塞奇吉氏指䲢	1
+sai shang feng yun jie di yin	塞上风云接地阴	1
+sai shang yan zhi ning ye zi	塞上燕脂凝夜紫	1
+sai she er mao tou ying	塞舌尔猫头鹰	1
+sai shi da wei yu luo	塞氏大尉芋螺	1
+sai te yi yuan	赛特医院	1
+sai wei an jiao nang	赛胃安胶囊	1
+sai wei xun	赛维讯	1
+sai weng zhi ma	塞翁之马	1
+sai xi er lv ying wu	塞席尔绿鹦鹉	1
+sai xi er xi wei	塞席尔锡鳚	1
+sai ya	赛雅	1
+sai ya ma	赛亚麻	1
+sai yang rong	赛羊绒	1
+sai ye chong	鳃曳虫	1
+sai ye chong lei	鳃曳虫类	1
+sai ye dong wu men	鳃曳动物门	1
+sai ye shi yue li yu	塞耶氏悦丽鱼	1
+sai ye zhao chao xie	塞耶招潮蟹	1
+sai yi hai si luo	塞乙海蛳螺	1
+sai yu kui	赛玉魁	1
+sai zuo	噻唑	1

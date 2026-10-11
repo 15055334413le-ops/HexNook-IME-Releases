@@ -1,0 +1,787 @@
+nong an	农安	0
+nong an bai chuan mu ye nong min gong shang hai shi jian	农安柏川木业农民工伤害事件	0
+nong an fo ta	弄安佛塔	0
+nong an gu cheng	农安古城	0
+nong an jie shi jian	农安街事件	0
+nong an jing ji kai fa qu	农安经济开发区	0
+nong an liao ta	农安辽塔	0
+nong an shu yi xi jun zhan	农安鼠疫细菌战	0
+nong an wu tai shan yi zhi	农安五台山遗址	0
+nong an xian	农安县	0
+nong an zhan	农安站	0
+nong an zhen	农安镇	0
+nong ba shi	农八师	0
+nong ba shui ku	弄巴水库	0
+nong ba wan zu	弄巴湾族	0
+nong ba zhen	农坝镇	0
+nong bai ge xiu dao yuan	侬柏格修道院	0
+nong bao	脓包	0
+nong bao bing	脓包病	0
+nong bao qi qiu	弄爆气球	0
+nong bao zheng	脓包症	0
+nong ben duo qing	侬本多情	0
+nong ben ju	农本局	0
+nong ben si xiang	农本思想	0
+nong ben zhu yi	农本主义	0
+nong bi zai	弄鼻仔	0
+nong bo	农博	0
+nong bo en	农博恩	0
+nong bo gong yuan	农博公园	0
+nong bo sheng tai yuan qu	农博生态园区	0
+nong bo yuan zhan	农博园站	0
+nong cha dian chi	浓差电池	0
+nong chan	农产	0
+nong chan pin	农产品	0
+nong chan pin cai gou bu	农产品采购部	0
+nong chan pin di li biao zhi chan pin	农产品地理标志产品	0
+nong chan pin pi fa shi chang	农产品批发市场	0
+nong chan si	农禅寺	0
+nong chan zhan	农产站	0
+nong chang	农场	0
+nong chang can ting	农场餐厅	0
+nong chang dao can zhuo	农场到餐桌	0
+nong chang dong wu	农场动物	0
+nong chang dou	农场痘	0
+nong chang gu cheng yi zhi	农场古城遗址	0
+nong chang jie jiao tang	农场街教堂	0
+nong chang qiu dui	农场球队	0
+nong chang sheng ma ke tang	农场圣马可堂	0
+nong chang wan	农场湾	0
+nong chang wen	农场文	0
+nong chang xi tong	农场系统	0
+nong chang xian nai	农场鲜奶	0
+nong chang xin niang	农场新娘	0
+nong chang ying xiong zhuan qi	农场英雄传奇	0
+nong chao dui jie	农超对接	0
+nong che gu	弄车鼓	0
+nong che xiang	农车乡	0
+nong che zhen	农车镇	0
+nong chen	弄臣	0
+nong cheng zhan	农城站	0
+nong chou bing du shu	浓稠病毒属	0
+nong chuang	脓疮	0
+nong chuang cao	脓疮草	0
+nong chuang cao shu	脓疮草属	0
+nong chun yu	农淳钰	0
+nong cun	农村	0
+nong cun bai shi tong	农村百事通	0
+nong cun bao wei cheng shi	农村包围城市	0
+nong cun de yuan jian	农村的远见	0
+nong cun dian gong	农村电工	0
+nong cun du wu chu ban she	农村读物出版社	0
+nong cun fa zhan shu	农村发展署	0
+nong cun fu	侬存福	0
+nong cun fu xing wei yuan hui	农村复兴委员会	0
+nong cun gong she	农村公社	0
+nong cun gong yuan	农村公园	0
+nong cun gong zuo tong xun	农村工作通讯	0
+nong cun he zuo ji jin hui	农村合作基金会	0
+nong cun he zuo yi liao	农村合作医疗	0
+nong cun he zuo yin hang	农村合作银行	0
+nong cun ji ben kou liang	农村基本口粮	0
+nong cun ji nong tian shui li shu	农村及农田水利署	0
+nong cun jing ji xue	农村经济学	0
+nong cun ju luo	农村聚落	0
+nong cun ju min	农村居民	0
+nong cun ke da zhi shu	农村可达指数	0
+nong cun kong xin hua	农村空心化	0
+nong cun lao dao zi	农村老倒子	0
+nong cun liu shi tiao	农村六十条	0
+nong cun liu shou er tong	农村留守儿童	0
+nong cun pin kun	农村贫困	0
+nong cun qu	农村曲	0
+nong cun ren	农村人	0
+nong cun ren kou wai liu	农村人口外流	0
+nong cun ren min gong she	农村人民公社	0
+nong cun san bu qu	农村三部曲	0
+nong cun shang ye yin hang	农村商业银行	0
+nong cun she hui shi jian huo dong	农村社会实践活动	0
+nong cun she hui xue	农村社会学	0
+nong cun she hui zhu yi	农村社会主义	0
+nong cun she qu	农村社区	0
+nong cun shi tiao	农村十条	0
+nong cun shu wu	农村书屋	0
+nong cun shui fei	农村税费	0
+nong cun tao bao	农村淘宝	0
+nong cun wu bao	农村五保	0
+nong cun wu zhuang qing nian	农村武装青年	0
+nong cun xin ji shu	农村新技术	0
+nong cun xin yong he zuo lian she	农村信用合作联社	0
+nong cun xin yong he zuo she	农村信用合作社	0
+nong cun xin yong she	农村信用社	0
+nong cun zai sheng	农村再生	0
+nong cun zhan	农村站	0
+nong cun zi jin hu zhu she	农村资金互助社	0
+nong da	农达	0
+nong da	农大	0
+nong da jun wu yu	农大菌物语	0
+nong da lu zhan	农大路站	0
+nong da nan lu zhan	农大南路站	0
+nong da qian che zhan	农大前车站	0
+nong da qian zhan	农大前站	0
+nong dai hui	农代会	0
+nong dan chu li	浓淡处理	0
+nong dao	农道	0
+nong dao	弄岛	0
+nong dao qing gui zhan	农道轻轨站	0
+nong dao tong dao	弄岛通道	0
+nong dao zhan	农道站	0
+nong dao zhen	弄岛镇	0
+nong de meng	侬德孟	0
+nong de meng	农德孟	0
+nong de ming	侬德命	0
+nong di	农地	0
+nong di yue	农迪约	0
+nong die	弄蝶	0
+nong die ke	弄蝶科	0
+nong die ya ke	弄蝶亚科	0
+nong die zong ke	弄蝶总科	0
+nong die zu	弄蝶族	0
+nong dong	侬峒	0
+nong du	浓度	0
+nong du ti du	浓度梯度	0
+nong du xing xiu ke	脓毒性休克	0
+nong du xue zheng	脓毒血症	0
+nong du zheng	脓毒症	0
+nong er shi	农二师	0
+nong er shi san shi san tuan	农二师三十三团	0
+nong fa xing	农发行	0
+nong feng man zu xi bo zu zhen	农丰满族锡伯族镇	0
+nong feng zhen	农丰镇	0
+nong fu	农夫	0
+nong fu	农妇	0
+nong fu bao xian gong kai sai	农夫保险公开赛	0
+nong fu che	农夫车	0
+nong fu er dao	农福尔岛	0
+nong fu er ji chang	农福尔机场	0
+nong fu guo yuan	农夫果园	0
+nong fu he guo	农佛合国	0
+nong fu he she	农夫和蛇	0
+nong fu hui	农复会	0
+nong fu lei wei li ya	农夫雷维利亚	0
+nong fu ma ga	农夫马嘎	0
+nong fu pan luan wu yu	农夫叛乱物语	0
+nong fu ren zhe	农夫忍者	0
+nong fu shan quan	农夫山泉	0
+nong fu shi chang	农夫市场	0
+nong fu shi guan xue xiao	农夫士官学校	0
+nong fu suo dao kou	农服所道口	0
+nong fu ta lou	农夫塔楼	0
+nong fu xiao yi xi	农夫小仪嬉	0
+nong fu ye	农副业	0
+nong fu yu she	农夫与蛇	0
+nong gan jun	农杆菌	0
+nong gan jun shu	农杆菌属	0
+nong gang ban shuo ju tai	弄岗半蒴苣苔	0
+nong gang chun zhu ju tai	弄岗唇柱苣苔	0
+nong gang er ye ma lan	弄岗耳叶马蓝	0
+nong gang guo jia ji zi ran bao hu qu	弄岗国家级自然保护区	0
+nong gang huang pi	弄岗黄皮	0
+nong gang jin hua cha	弄岗金花茶	0
+nong gang ma dou ling	弄岗马兜铃	0
+nong gang sui mei	弄岗穗鹛	0
+nong gang xia kou wa	弄岗狭口蛙	0
+nong gang xian shu wa	弄岗纤树蛙	0
+nong gang zi ran bao hu qu	弄岗自然保护区	0
+nong ge la er	农格拉尔	0
+nong ge ma	农戈马	0
+nong ge ming song ge	农格明松格	0
+nong ge su wa la	农戈苏瓦拉	0
+nong ge te yi mai	农格特伊迈	0
+nong geng	农耕	0
+nong gong dang	农工党	0
+nong gong dang an hui sheng wei	农工党安徽省委	0
+nong gong dang bei jing shi wei	农工党北京市委	0
+nong gong dang chong qing shi wei	农工党重庆市委	0
+nong gong dang fu jian sheng wei	农工党福建省委	0
+nong gong dang gan su sheng wei	农工党甘肃省委	0
+nong gong dang guang dong sheng wei	农工党广东省委	0
+nong gong dang guang xi qu wei hui	农工党广西区委会	0
+nong gong dang gui zhou sheng wei	农工党贵州省委	0
+nong gong dang hai nan sheng wei	农工党海南省委	0
+nong gong dang he bei sheng wei	农工党河北省委	0
+nong gong dang he nan sheng wei	农工党河南省委	0
+nong gong dang hei long jiang sheng wei	农工党黑龙江省委	0
+nong gong dang hu bei sheng wei	农工党湖北省委	0
+nong gong dang hu nan sheng wei	农工党湖南省委	0
+nong gong dang ji lin sheng wei	农工党吉林省委	0
+nong gong dang jiang su sheng wei	农工党江苏省委	0
+nong gong dang jiang xi sheng wei	农工党江西省委	0
+nong gong dang liao ning sheng wei	农工党辽宁省委	0
+nong gong dang nei meng gu qu wei hui	农工党内蒙古区委会	0
+nong gong dang ning xia hui zu zi zhi qu wei	农工党宁夏回族自治区委	0
+nong gong dang ning xia qu wei	农工党宁夏区委	0
+nong gong dang qing hai sheng wei	农工党青海省委	0
+nong gong dang shan dong sheng wei	农工党山东省委	0
+nong gong dang shan xi sheng wei	农工党山西省委	0
+nong gong dang shan xi sheng wei	农工党陕西省委	0
+nong gong dang shang hai shi wei	农工党上海市委	0
+nong gong dang si chuan sheng wei	农工党四川省委	0
+nong gong dang tian jin shi wei	农工党天津市委	0
+nong gong dang xin jiang qu wei hui	农工党新疆区委会	0
+nong gong dang xin jiang wei wu er zi zhi qu wei	农工党新疆维吾尔自治区委	0
+nong gong dang yun nan sheng wei	农工党云南省委	0
+nong gong dang zhe jiang sheng wei	农工党浙江省委	0
+nong gong dang zhong yang	农工党中央	0
+nong gong fu	农贡府	0
+nong gong ji tuan	农工集团	0
+nong gong min zhu dang	农工民主党	0
+nong gong shang bu	农工商部	0
+nong gong shang chao shi	农工商超市	0
+nong gong shang xue bing dai biao da hui	农工商学兵代表大会	0
+nong gong xian	农贡县	0
+nong guan	农管	0
+nong guan pin	农冠品	0
+nong guan ya	浓冠鸦	0
+nong han hu	农汉湖	0
+nong hang	农行	0
+nong hao	侬好	0
+nong he	农河	0
+nong he bing du ya ke	浓核病毒亚科	0
+nong he xiang	弄和乡	0
+nong he zhen	浓河镇	0
+nong hong yin kuang	浓红银矿	0
+nong hu	农户	0
+nong hui	农会	0
+nong hui jie dao	浓洄街道	0
+nong hui zhen	浓洄镇	0
+nong huo xiang	弄活乡	0
+nong ji	农机	0
+nong ji	浓姬	0
+nong ji bu	农机部	0
+nong ji di jun	农稷帝君	0
+nong ji li	农吉利	0
+nong ji shen	农稷神	0
+nong ji xian	农集县	0
+nong ji yun	浓积云	0
+nong jia	农家	0
+nong jia cheng zhen	弄假成真	0
+nong jia le	农家乐	0
+nong jia mian bao	农家面包	0
+nong jia nv	农家女	0
+nong jia nv xu he qian jin xi fu	农家女婿和千金媳妇	0
+nong jia nv xu qian jin er xi	农家女婿千金儿媳	0
+nong jia nv xu qian jin xi fu	农家女婿千金媳妇	0
+nong jia pin zhong	农家品种	0
+nong jia ren	农家人	0
+nong jia yi fen	农家意粉	0
+nong jia zhen	脓痂疹	0
+nong jian xiang	农建乡	0
+nong jiang	浓江	0
+nong jiang nong chang	浓江农场	0
+nong jiang suo	农讲所	0
+nong jiang suo zhan	农讲所站	0
+nong jiang xiang	浓江乡	0
+nong jiao suan	脓胶酸	0
+nong jin ju	农金局	0
+nong jin sun	农劲荪	0
+nong jing	农经	0
+nong jing xue	农经学	0
+nong jiu shi	农九师	0
+nong ju	农具	0
+nong kang	农康	0
+nong ke	农科	0
+nong ke luo cuo	弄可罗错	0
+nong ke yuan nong da zhan	农科院农大站	0
+nong ken	农垦	0
+nong ken bu	农垦部	0
+nong ken zhong xue	农垦中学	0
+nong ku er	农库尔	0
+nong kuang bu	农矿部	0
+nong le	农乐	0
+nong li	农历	0
+nong li ba yue	农历八月	0
+nong li chu xi	农历除夕	0
+nong li dong yue	农历冬月	0
+nong li er shi si jie qi	农历二十四节气	0
+nong li er yue	农历二月	0
+nong li guo nian	农历过年	0
+nong li jiu yue	农历九月	0
+nong li la yue	农历腊月	0
+nong li liu yue	农历六月	0
+nong li nian	农历年	0
+nong li qi yue	农历七月	0
+nong li san yue	农历三月	0
+nong li shi er yue	农历十二月	0
+nong li shi yi yue	农历十一月	0
+nong li shi yue	农历十月	0
+nong li si yue	农历四月	0
+nong li wu yue	农历五月	0
+nong li xin nian	农历新年	0
+nong li yi yue	农历一月	0
+nong li zheng yue	农历正月	0
+nong liang shu	农粮署	0
+nong lin	农林	0
+nong lin bu	农林部	0
+nong lin bu zhang	农林部长	0
+nong lin da chen	农林大臣	0
+nong lin da xue zhan	农林大学站	0
+nong lin jie dao	农林街道	0
+nong lin lu	农林路	0
+nong lin lu jie dao	农林路街道	0
+nong lin sheng	农林省	0
+nong lin shu	农林署	0
+nong lin shui chan da chen	农林水产大臣	0
+nong lin shui chan fu da chen	农林水产副大臣	0
+nong lin shui chan sheng	农林水产省	0
+nong lin te chan nong ye shui	农林特产农业税	0
+nong lin wei shi	农林卫视	0
+nong lin xia lu	农林下路	0
+nong lin xia lu zhan	农林下路站	0
+nong lin xiang	农林乡	0
+nong lin xu chan shi pin bu	农林畜产食品部	0
+nong lin ye	农林业	0
+nong lin ye guan li chu	农林业管理处	0
+nong lin zhan	农林站	0
+nong liu shi	农六师	0
+nong liu suan	浓硫酸	0
+nong man	弄曼	0
+nong man qu	弄曼区	0
+nong man xiang	弄曼乡	0
+nong mao fang ci kai xia	浓毛仿刺铠虾	0
+nong mao lin gai jue	浓毛鳞盖蕨	0
+nong mao ni bi kou xie	浓毛拟闭口蟹	0
+nong mao shan long yan	浓毛山龙眼	0
+nong mao shi chang	农贸市场	0
+nong mao zi you shi chang	农贸自由市场	0
+nong mei	浓眉	0
+nong mi chang lv kuo ye guan cong	浓密常绿阔叶灌丛	0
+nong min	农民	0
+nong min dang	农民党	0
+nong min feng qi	农民蜂起	0
+nong min fu dan	农民负担	0
+nong min gao zhuang	农民告状	0
+nong min ge ming	农民革命	0
+nong min ge ming zu zhi	农民革命组织	0
+nong min gong	农民工	0
+nong min gong he guo	农民共和国	0
+nong min gong min yun dong	农民公民运动	0
+nong min gong she	农民公社	0
+nong min gong wen ti	农民工问题	0
+nong min gong zi di xue xiao	农民工子弟学校	0
+nong min guo ji	农民国际	0
+nong min hu zhu xie hui	农民互助协会	0
+nong min hun li	农民婚礼	0
+nong min jiang dao guan nong ye duan qi da xue	农民讲道馆农业短期大学	0
+nong min jie	农民节	0
+nong min jie fang	农民解放	0
+nong min jie ji	农民阶级	0
+nong min jun	农民军	0
+nong min li	农民历	0
+nong min lian	农民联	0
+nong min lian meng	农民联盟	0
+nong min nian jin	农民年金	0
+nong min qi shi	农民起事	0
+nong min qi yi	农民起义	0
+nong min ren jun chun shou ru	农民人均纯收入	0
+nong min ri bao	农民日报	0
+nong min shao gang zhan	农民哨岗站	0
+nong min she hui	农民社会	0
+nong min she hui zhu yi	农民社会主义	0
+nong min shi zi jun	农民十字军	0
+nong min tui xiu chu jin tiao li	农民退休储金条例	0
+nong min xie	农民鞋	0
+nong min xie hui jiu zhi	农民协会旧址	0
+nong min xun luo dui	农民巡逻队	0
+nong min yin hang	农民银行	0
+nong min yu gong ren	农民与工人	0
+nong min yun dong	农民运动	0
+nong min zhan zheng	农民战争	0
+nong min zhen xian	农民阵线	0
+nong min zheng quan	农民政权	0
+nong min zhi lu	农民之路	0
+nong mo hu	弄莫湖	0
+nong mo lan pu	农磨兰普	0
+nong mu shen yue tuan	农牧神乐团	0
+nong mu shen zhi jia	农牧神之家	0
+nong mu yu ye bu	农牧渔业部	0
+nong nai	农耐	0
+nong nai miao	农乃庙	0
+nong nan lu	农南路	0
+nong nen ba he he	农嫩巴赫河	0
+nong nen hu	农嫩湖	0
+nong nen huo en	农嫩霍恩	0
+nong ni di shi gao	弄你迪士高	0
+nong niao	脓尿	0
+nong ning an	农宁安	0
+nong ning gen	农宁根	0
+nong nong ping jie dao	弄弄坪街道	0
+nong nong ri he	哝哝日和	0
+nong nong ri he	浓浓日和	0
+nong nu	农奴	0
+nong nu zhi	农奴制	0
+nong nu zhi du	农奴制度	0
+nong nuo si	农诺斯	0
+nong pa te li zi	农帕特利兹	0
+nong pao	脓疱	0
+nong pao bing	脓疱病	0
+nong pao chuang	脓疱疮	0
+nong ping pao tai	弄平炮台	0
+nong pu	浓朴	0
+nong pu dao	农圃道	0
+nong pu dao guan li xiao xue	农圃道官立小学	0
+nong pu zhan	农圃站	0
+nong qi	农奇	0
+nong qi shi	农七师	0
+nong qi ya	农奇亚	0
+nong qiao zhen	浓桥镇	0
+nong qie qu	弄切区	0
+nong qing	浓情	0
+nong qing jia yuan	农情家园	0
+nong qing qiao ke li	浓情巧克力	0
+nong qing yi sheng	浓情一生	0
+nong qing zhu gu li	浓情朱古力	0
+nong qiu jun shu	农球菌属	0
+nong quan fu	侬全福	0
+nong qun hua	农群华	0
+nong ren	侬人	0
+nong ren	农人	0
+nong ren	弄人	0
+nong rong	农融	0
+nong rong bing du	脓融病毒	0
+nong san shi	农三师	0
+nong san shi si shi yi tuan	农三师四十一团	0
+nong sang cuo yao	农桑撮要	0
+nong sang ji yao	农桑辑要	0
+nong sang jing	农桑经	0
+nong sang yi shi cuo yao	农桑衣食撮要	0
+nong shan xian	农山县	0
+nong shan zhan	农山站	0
+nong shang da chen	农商大臣	0
+nong shang hang	农商行	0
+nong shang qing	农尚青	0
+nong shang sheng	农商省	0
+nong shang wu ci guan	农商务次官	0
+nong shang wu da chen	农商务大臣	0
+nong shang wu da fu	农商务大辅	0
+nong shang wu qing	农商务卿	0
+nong shang wu shao fu	农商务少辅	0
+nong shang wu sheng	农商务省	0
+nong she	农舍	0
+nong she pai	农舍派	0
+nong she ren	弄蛇人	0
+nong she shu	弄蛇术	0
+nong shen cao gou	农神槽沟	0
+nong shen jie	农神节	0
+nong shen jie qing	农神节庆	0
+nong shen long	农神龙	0
+nong shen long ke	农神龙科	0
+nong shen long shu	农神龙属	0
+nong shen long ya ke	农神龙亚科	0
+nong shen miao	农神庙	0
+nong shen tun shi qi zi	农神吞噬其子	0
+nong shen wu hao	农神五号	0
+nong shen yi hao	农神一号	0
+nong shen yi hao	农神壹号	0
+nong shen yun zai huo jian	农神运载火箭	0
+nong sheng wen	农生文	0
+nong shi chun	农氏春	0
+nong shi er shi	农十二师	0
+nong shi san shi	农十三师	0
+nong shi shi	农十师	0
+nong shi shi	农事诗	0
+nong shi shi yan chang	农事试验场	0
+nong shi si shi	农十四师	0
+nong shi suo	农试所	0
+nong shi tu si ya shu	侬氏土司衙署	0
+nong shi wu	浓湿雾	0
+nong shi xian	弄石县	0
+nong shi xin nian	农事新年	0
+nong shu	农书	0
+nong shui sheng	农水省	0
+nong shui xiang	农水相	0
+nong si bo shan mai	农斯伯山脉	0
+nong si duo yin	农斯多因	0
+nong si shi	农四师	0
+nong su li guang yu	农苏离光鱼	0
+nong suan guo zhi	浓酸果汁	0
+nong sun	农笋	0
+nong suo	浓缩	0
+nong suo ka fei	浓缩咖啡	0
+nong suo kang bao lan	浓缩康保蓝	0
+nong suo pu tao zhi	浓缩葡萄汁	0
+nong suo wu	浓缩物	0
+nong suo xing he wu qi	浓缩型核武器	0
+nong suo you	浓缩铀	0
+nong tang	浓汤	0
+nong te li	侬特利	0
+nong te long	农特龙	0
+nong te long qu	农特龙区	0
+nong tian	农田	0
+nong tian guan gai pai shui	农田灌溉排水	0
+nong tian ru gan jun shu	农田乳杆菌属	0
+nong tian shui li fa	农田水利法	0
+nong tian shui li hui	农田水利会	0
+nong tian shui li shu	农田水利署	0
+nong tuan xiang	农团乡	0
+nong tui man	农推蔓	0
+nong wang xiang	农旺乡	0
+nong wang zhen	农旺镇	0
+nong wei di zhen	浓尾地震	0
+nong wei er	农维尔	0
+nong wei hong	农卫红	0
+nong wei hui	农委会	0
+nong wei hui lin wu ju	农委会林务局	0
+nong wei hui nong jin ju	农委会农金局	0
+nong wei hui nong liang shu	农委会农粮署	0
+nong wei hui nong ye dian zi hua fa zhan ce lve fen xi yu gui hua yan jiu bao gao yi yi an	农委会农业电子化发展策略分析与规划研究报告疑义案	0
+nong wei hui shui bao ju	农委会水保局	0
+nong wei hui xu chan shi yan suo	农委会畜产试验所	0
+nong wei la	农韦拉	0
+nong wei lei	农韦勒	0
+nong wei li ye ge lang du	农维利耶格朗杜	0
+nong wei ping ye	浓尾平野	0
+nong wei ping yuan	浓尾平原	0
+nong wen yun	农文云	0
+nong wu	浓雾	0
+nong wu shi	农五师	0
+nong xi zhen	浓溪镇	0
+nong xiang	农相	0
+nong xiang she zhi ju	农祥设治局	0
+nong xiang xing bai jiu	浓香型白酒	0
+nong xiao gou huo	农校篝火	0
+nong xiao suan	浓硝酸	0
+nong xie	农谢	0
+nong xie hui	农协会	0
+nong xie yin hang	农协银行	0
+nong xin	农心	0
+nong xin bai shan shui bei shi jie wei qi yuan lao zui qiang zhan	农心白山水杯世界围棋元老最强战	0
+nong xin bei	农心杯	0
+nong xin bei wei qi chuan shuo guo jia dui kang sai	农心杯围棋传说国家对抗赛	0
+nong xin ji tuan	农心集团	0
+nong xin she	农信社	0
+nong xin xin la mian bei	农心辛拉面杯	0
+nong xin xin la mian bei san guo wei qi lei tai sai	农心辛拉面杯三国围棋擂台赛	0
+nong xin xin la mian bei shi jie wei qi tuan ti jin biao sai	农心辛拉面杯世界围棋团体锦标赛	0
+nong xin yin zi jin qing suan zhong xin	农信银资金清算中心	0
+nong xing	农姓	0
+nong xing xiang	农兴乡	0
+nong xiong	脓胸	0
+nong xu	农墟	0
+nong xuan	脓癣	0
+nong xue	农学	0
+nong xue bu qian che zhan	农学部前车站	0
+nong xue bu qian zhan	农学部前站	0
+nong xue jia	农学家	0
+nong xue xiao qian che zhan	农学校前车站	0
+nong xue xiao qian zhan	农学校前站	0
+nong xue yuan	农学院	0
+nong ya sai xian	农亚赛县	0
+nong ya shai xian	农呀晒县	0
+nong yan	农谚	0
+nong yan suan	浓盐酸	0
+nong yang	脓疡	0
+nong yao	农药	0
+nong yao fei ji	农药飞机	0
+nong ye	农业	0
+nong ye	脓液	0
+nong ye bao xian	农业保险	0
+nong ye bo wu guan	农业博物馆	0
+nong ye bu	农业部	0
+nong ye bu cha ji yin liao zuo wu gai liang chang	农业部茶及饮料作物改良场	0
+nong ye bu dong zhi wu fang yi jian yi ju	农业部动植物防疫检疫局	0
+nong ye bu dong zhi wu fang yi jian yi shu	农业部动植物防疫检疫署	0
+nong ye bu gao xiong qu nong ye gai liang chang	农业部高雄区农业改良场	0
+nong ye bu gong gao de shui chan xin pin zhong	农业部公告的水产新品种	0
+nong ye bu hua lian qu nong ye gai liang chang	农业部花莲区农业改良场	0
+nong ye bu lin ye ji bao yu shu	农业部林业及保育署	0
+nong ye bu lin ye ji zi ran bao yu shu	农业部林业及自然保育署	0
+nong ye bu lin ye shi yan suo	农业部林业试验所	0
+nong ye bu lin ye shu	农业部林业署	0
+nong ye bu miao li qu nong ye gai liang chang	农业部苗栗区农业改良场	0
+nong ye bu nan hai qu yu zheng ju	农业部南海区渔政局	0
+nong ye bu nan hai qu yu zheng yu gang jian du guan li ju	农业部南海区渔政渔港监督管理局	0
+nong ye bu nong cun fa zhan ji shui tu bao chi shu	农业部农村发展及水土保持署	0
+nong ye bu nong cun fa zhan shu	农业部农村发展署	0
+nong ye bu nong cun ji nong tian shui li shu	农业部农村及农田水利署	0
+nong ye bu nong liang shu	农业部农粮署	0
+nong ye bu nong min fu dao ji nong ye jin rong shu	农业部农民辅导及农业金融署	0
+nong ye bu nong tian shui li shu	农业部农田水利署	0
+nong ye bu nong ye jin rong ju	农业部农业金融局	0
+nong ye bu nong ye jin rong shu	农业部农业金融署	0
+nong ye bu nong ye jin rong si	农业部农业金融司	0
+nong ye bu nong ye ke ji yuan qu guan li zhong xin	农业部农业科技园区管理中心	0
+nong ye bu nong ye sheng wu ke ji yuan qu guan li ju	农业部农业生物科技园区管理局	0
+nong ye bu nong ye shi yan suo	农业部农业试验所	0
+nong ye bu nong ye yao wu du wu shi yan suo	农业部农业药物毒物试验所	0
+nong ye bu nong ye yao wu shi yan suo	农业部农业药物试验所	0
+nong ye bu sen lin ji bao yu shu	农业部森林及保育署	0
+nong ye bu sheng wu duo yang xing yan jiu suo	农业部生物多样性研究所	0
+nong ye bu shou yi shi yan suo	农业部兽医试验所	0
+nong ye bu shou yi yan jiu suo	农业部兽医研究所	0
+nong ye bu shui chan shi yan suo	农业部水产试验所	0
+nong ye bu tai dong qu nong ye gai liang chang	农业部台东区农业改良场	0
+nong ye bu tai nan qu nong ye gai liang chang	农业部台南区农业改良场	0
+nong ye bu tai zhong qu nong ye gai liang chang	农业部台中区农业改良场	0
+nong ye bu tao yuan qu nong ye gai liang chang	农业部桃园区农业改良场	0
+nong ye bu tie	农业补贴	0
+nong ye bu xu chan shi yan suo	农业部畜产试验所	0
+nong ye bu yu ye ji bao yu shu	农业部渔业及保育署	0
+nong ye bu yu ye shu	农业部渔业署	0
+nong ye bu yu ye yu zheng guan li ju	农业部渔业渔政管理局	0
+nong ye bu zhao qi ke xue yan jiu suo	农业部沼气科学研究所	0
+nong ye bu zhi wu bao hu shi yan suo	农业部植物保护试验所	0
+nong ye bu zhi wu zhong miao zhong xin	农业部植物种苗中心	0
+nong ye bu zhong miao gai liang fan zhi chang	农业部种苗改良繁殖场	0
+nong ye chan sheng de wen shi qi ti pai fang	农业产生的温室气体排放	0
+nong ye cheng jiu xun zhang	农业成就勋章	0
+nong ye chu ban she	农业出版社	0
+nong ye ci hui biao	农业词汇表	0
+nong ye da gang	农业大纲	0
+nong ye da xue	农业大学	0
+nong ye de huan jing ying xiang	农业的环境影响	0
+nong ye de nei juan hua	农业的内卷化	0
+nong ye di li xue	农业地理学	0
+nong ye di zhi xue	农业地质学	0
+nong ye dian zi hua fa zhan ce lve fen xi yu gui hua yan jiu bao gao yi yi an	农业电子化发展策略分析与规划研究报告疑义案	0
+nong ye dong lu zhan	农业东路站	0
+nong ye duan dao duan	农业端到端	0
+nong ye dui huan jing de ying xiang	农业对环境的影响	0
+nong ye fa	农业法	0
+nong ye fa zhan yin hang	农业发展银行	0
+nong ye fei dian yuan wu ran mo shi	农业非点源污染模式	0
+nong ye fei ji	农业飞机	0
+nong ye fei qi wu	农业废弃物	0
+nong ye gao jia lu	农业高架路	0
+nong ye ge ming	农业革命	0
+nong ye gong cheng	农业工程	0
+nong ye gong ji xun zhang	农业功绩勋章	0
+nong ye gong ren de ji hui jie she quan gong yue	农业工人的集会结社权公约	0
+nong ye gong xun xun zhang	农业功勋勋章	0
+nong ye gong zuo jiang zhang	农业工作奖章	0
+nong ye hang kong	农业航空	0
+nong ye he zuo	农业合作	0
+nong ye he zuo hua	农业合作化	0
+nong ye he zuo jing ji zu zhi	农业合作经济组织	0
+nong ye he zuo she	农业合作社	0
+nong ye hu kou	农业户口	0
+nong ye hua gong	农业化工	0
+nong ye hua xue	农业化学	0
+nong ye ji	农业机	0
+nong ye ji chang	农业机场	0
+nong ye ji qi ren	农业机器人	0
+nong ye ji shu	农业技术	0
+nong ye ji ti hua	农业集体化	0
+nong ye ji xie	农业机械	0
+nong ye ji yue hua	农业集约化	0
+nong ye jiang xi suo	农业讲习所	0
+nong ye jiao yu	农业教育	0
+nong ye jin	农业金	0
+nong ye jin ku	农业金库	0
+nong ye jin rong si	农业金融司	0
+nong ye jing ji	农业经济	0
+nong ye kai fa qu	农业开发区	0
+nong ye ke ji yan jiu yuan	农业科技研究院	0
+nong ye ke ji yao wen xuan ji	农业科技要闻选集	0
+nong ye ke ji yuan qu guan li zhong xin	农业科技园区管理中心	0
+nong ye ke xue	农业科学	0
+nong ye kong bu zhu yi	农业恐怖主义	0
+nong ye kuai su lu	农业快速路	0
+nong ye lao dong li lao hua	农业劳动力老化	0
+nong ye li shi	农业历史	0
+nong ye lian chan cheng bao ze ren zhi	农业联产承包责任制	0
+nong ye liu shi tiao	农业六十条	0
+nong ye lu	农业路	0
+nong ye lu da qiao	农业路大桥	0
+nong ye lu zhan	农业路站	0
+nong ye lv you	农业旅游	0
+nong ye nan lu zhan	农业南路站	0
+nong ye nei juan hua	农业内卷化	0
+nong ye nong cun bu	农业农村部	0
+nong ye qi xiang	农业气象	0
+nong ye qu wei yin su	农业区位因素	0
+nong ye ren kou	农业人口	0
+nong ye she hui	农业社会	0
+nong ye she hui zhu yi	农业社会主义	0
+nong ye sheng chan	农业生产	0
+nong ye sheng chan li	农业生产力	0
+nong ye sheng tai xue	农业生态学	0
+nong ye sheng wu duo yang xing	农业生物多样性	0
+nong ye sheng wu ke ji yuan qu guan li ju	农业生物科技园区管理局	0
+nong ye shi	农业史	0
+nong ye shi fan yuan qu	农业示范园区	0
+nong ye shi pin bu	农业食品部	0
+nong ye shi yan suo	农业试验所	0
+nong ye shui	农业税	0
+nong ye shui zi yuan	农业水资源	0
+nong ye su jiao mo	农业塑胶膜	0
+nong ye te chan nong ye shui	农业特产农业税	0
+nong ye te chan shui	农业特产税	0
+nong ye tiao zheng fa	农业调整法	0
+nong ye tiao zheng guan li ju	农业调整管理局	0
+nong ye tuan jie gong lian	农业团结工联	0
+nong ye tui guang	农业推广	0
+nong ye wei ji	农业危机	0
+nong ye wei yuan hui	农业委员会	0
+nong ye wu li xue	农业物理学	0
+nong ye wu ran	农业污染	0
+nong ye wu shui chu li	农业污水处理	0
+nong ye xie ding	农业协定	0
+nong ye xie tong zu he	农业协同组合	0
+nong ye xin yong bao zheng ji jin	农业信用保证基金	0
+nong ye xue da zhai	农业学大寨	0
+nong ye xue jia	农业学家	0
+nong ye yan jiu ju	农业研究局	0
+nong ye yao wu du wu shi yan suo	农业药物毒物试验所	0
+nong ye yin hang	农业银行	0
+nong ye yin hang da lou	农业银行大楼	0
+nong ye yong di	农业用地	0
+nong ye yong shui	农业用水	0
+nong ye zhan lan guan zhan	农业展览馆站	0
+nong ye zhan lan hui	农业展览会	0
+nong ye zheng ce	农业政策	0
+nong ye zhu yi	农业主义	0
+nong ye zhuan yi ren kou	农业转移人口	0
+nong ye zi yuan yu huan jing zhuan ye	农业资源与环境专业	0
+nong ye zong he xing zheng zhi fa	农业综合行政执法	0
+nong yi mei	农艺梅	0
+nong yi shi	农一师	0
+nong yi xing pi fu jiao hua bing	脓溢性皮肤角化病	0
+nong yi xue	农艺学	0
+nong yi zuo wu	农艺作物	0
+nong ying zhong xin	农影中心	0
+nong yong fei ji	农用飞机	0
+nong yong hua xue pin	农用化学品	0
+nong yong ji chang	农用机场	0
+nong yong ji xie	农用机械	0
+nong yong tuo la ji	农用拖拉机	0
+nong yong zhi wu duo yang xing	农用植物多样性	0
+nong you ge	农友歌	0
+nong yu	侬语	0
+nong yu	弄语	0
+nong yu	弄玉	0
+nong yu zhi	侬语支	0
+nong yun hui	农运会	0
+nong zha	农扎	0
+nong zhan guan	农展馆	0
+nong zhan qiao	农展桥	0
+nong zhang	弄璋	0
+nong zhang ren	农丈人	0
+nong zhang shu	弄璋树	0
+nong zhang zhen	弄璋镇	0
+nong zhen	农阵	0
+nong zhen cuo	农针错	0
+nong zheng quan shu	农政全书	0
+nong zhi gao	侬智高	0
+nong zhi gao gong song zhan yi	侬智高攻宋战役	0
+nong zhi yi	农智毅	0
+nong zhong	脓肿	0
+nong zhou	农州	0
+nong zhou	浓州	0
+nong zhuan fei	农转非	0
+nong zhuang jiu zhi	农庄旧址	0
+nong zhuang yu	侬壮语	0
+nong zhuo xian	农卓县	0
+nong zi cai hui die	浓紫彩灰蝶	0
+nong zi du huo	浓紫独活	0
+nong zi long yan du huo	浓紫龙眼独活	0
+nong zi mo li	浓子茉莉	0
+nong zi wei er	农兹维尔	0
+nong zong dan	侬宗亶	0
+nong zu	侬族	0
+nong zu	农族	0
+nong zu zi zhi qu	农族自治区	0
+nong zuo shu zao zhi	农作树造纸	0
+nong zuo wu	农作物	0
+nong zuo wu can liu	农作物残留	0
+nong zuo xiang	农作乡	0

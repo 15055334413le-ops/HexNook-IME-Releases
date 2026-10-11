@@ -1,0 +1,98 @@
+chuang zao	创造	327349
+chuang jian dui xiang	创建对象	41776
+chuang jian shu ju ku	创建数据库	18507
+chuang jian wen jian	创建文件	18406
+chuang shang	创伤	18031
+chuang jian biao	创建表	16769
+chuang jian xian cheng	创建线程	14799
+chuang jian mu lu	创建目录	10670
+chuang kou da xiao	窗口大小	10387
+chuang jian yong hu	创建用户	10115
+chuang jian xiang mu	创建项目	8438
+chuang xin zhong xin	创新中心	7819
+chuang ye yuan	创业园	7470
+chuang jian wen jian jia	创建文件夹	6387
+chuang ye gong si	创业公司	4899
+chuang jian jin cheng	创建进程	4758
+chuang jian gong cheng	创建工程	3989
+chuang kou ju bing	窗口句柄	3521
+chuang kou qi	窗口期	3093
+chuang jian ri qi	创建日期	3072
+chuang jian xing mo shi	创建型模式	2806
+chuang kou biao ti	窗口标题	2469
+chuang kou guan li qi	窗口管理器	2464
+chuang tou	创投	2287
+chuang ye lu	创业路	1820
+chuang jian xu ni ji	创建虚拟机	1763
+chuang ke tie	创可贴	1712
+chuang jian biao kong jian	创建表空间	1417
+chuang jian xing	创建型	1416
+chuang kou han shu	窗口函数	1169
+chuang ming ji jing	窗明几净	1137
+chuang ye da jie	创业大街	789
+chuang xin fa zhan zhi lu	创新发展之路	766
+chuang xin gong chang	创新工场	712
+chuang zhi	创智	681
+chuang shang hou ying ji zhang ai	创伤后应激障碍	629
+chuang xin gong si	创新公司	481
+chuang tou gong si	创投公司	465
+chuang shang xing xiu ke	创伤性休克	419
+chuang ye da sha	创业大厦	419
+chuang xin lu	创新路	403
+chuang ti she ji qi	窗体设计器	393
+chuang jian zhe mo shi	创建者模式	255
+chuang kou zu jian	窗口组件	212
+chuang wang	闯王	207
+chuang ye da dao	创业大道	183
+chuang dang jiang hu	闯荡江湖	181
+chuang qian ming yue guang	床前明月光	181
+chuang xin da sha	创新大厦	164
+chuang ye wei jian	创业维艰	113
+chuang yang	疮疡	105
+chuang ye wang	创业网	102
+chuang shang xing shi fei	创伤性湿肺	93
+chuang jian tu pian dui xiang	创建图片对象	90
+chuang han xi ling qian qiu xue	窗含西岭千秋雪	80
+chuang shang yu he	创伤愈合	51
+chuang kou cheng xu ji	窗口程序集	50
+chuang ye jian nan bai zhan duo	创业艰难百战多	46
+chuang xin gao	创新高	44
+chuang ti qu yu	窗体区域	39
+chuang yi man mu	疮痍满目	39
+chuang ju tong shen	创巨痛深	38
+chuang shang xue	创伤学	36
+chuang ti kai fa	窗体开发	34
+chuang ye cun	创业村	32
+chuang shang xing zhi xi	创伤性窒息	29
+chuang kou gou jian	窗口构件	23
+chuang ye ji hua shu	创业计划书	23
+chuang jian yuan yu	创建原语	22
+chuang wang li zi cheng	闯王李自成	21
+chuang shang xing kui yang	创伤性溃疡	20
+chuang wei	窗位	16
+chuang kuan	窗宽	13
+chuang wai shu mei shai yue ying	窗外疏梅筛月影	12
+chuang shang xing pi po lie	创伤性脾破裂	11
+chuang shang xing qi xiong	创伤性气胸	10
+chuang xing yin hang	创兴银行	9
+chuang shang dan dao xue	创伤弹道学	7
+chuang ye ban shang shi shi zhan	创业板上市实战	6
+chuang ye dao	创业道	6
+chuang zao zai sheng	创造再生	6
+chuang xia you qing feng	窗下有清风	4
+chuang ye jie dao	创业街道	4
+chuang qian kan yue guang	床前看月光	3
+chuang ye ban	创业板	3
+chuang ye jiao yu	创业教育	3
+chuang ye lu er huan lu kou nan	创业路二环路口南	3
+chuang shang xing er long	创伤性耳聋	2
+chuang di song sheng wan he ai	床底松声万壑哀	1
+chuang hu shi qing hong	窗户湿青红	1
+chuang jian xie yue liang mei chou	窗间斜月两眉愁	1
+chuang shang xing xue xiong	创伤性血胸	1
+chuang tou shu ce luan fen fen	床头书册乱纷纷	1
+chuang xia jian yu you	床下见鱼游	1
+chuang xia ye xiang qin	床下夜相亲	1
+chuang xin dao	创新道	1
+chuang xin di	创新低	1
+chuang chi gou e	窗翅钩蛾	0

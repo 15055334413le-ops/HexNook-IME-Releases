@@ -1,0 +1,406 @@
+yong che	用车	574181
+yong jin	佣金	410415
+yong hu ming	用户名	100988
+yong ci	用词	83844
+yong hu jie mian	用户界面	26037
+yong gong dan wei	用工单位	24167
+yong hu deng lu	用户登录	21337
+yong hu xin xi	用户信息	20237
+yong li	用例	17685
+yong hu kong jian	用户空间	15484
+yong hu jiao hu	用户交互	12583
+yong hu zu	用户组	12250
+yong hu quan xian	用户权限	10114
+yong hu tai	用户态	9920
+yong hu cheng xu	用户程序	8822
+yong zhou shi	永州市	6921
+yong gong zhi du	用工制度	6676
+yong hu xu qiu	用户需求	6623
+yong hu chuang jian	用户创建	6340
+yong hu guan li	用户管理	6075
+yong hu zhu ce	用户注册	5556
+yong chuan	永川	5176
+yong hu jie kou	用户接口	4991
+yong hu deng lu	用户登陆	4710
+yong hu shou quan	用户授权	4345
+yong an	永安	4278
+yong wang zhi qian	勇往直前	4231
+yong wu zhi jing	永无止境	3626
+yong hu ren zheng	用户认证	3569
+yong hu xian cheng	用户线程	3534
+yong hu dai li	用户代理	3417
+yong yao an quan	用药安全	3309
+yong jia	永嘉	3013
+yong le	永乐	2913
+yong hu zhang hao	用户账号	2733
+yong kang	永康	2599
+yong hu fan kui	用户反馈	2369
+yong sheng	永生	2309
+yong li tu	用例图	2251
+yong se kong zhi	拥塞控制	2206
+yong feng	永丰	2082
+yong xin liang ku	用心良苦	2027
+yong hu zhang hu	用户账户	1906
+yong zheng	雍正	1897
+yong hu biao shi	用户标识	1857
+yong shun	永顺	1734
+yong hu yin si	用户隐私	1491
+yong zheng ai min	拥政爱民	1331
+yong chui bu xiu	永垂不朽	1309
+yong deng	永登	1291
+yong he gong	雍和宫	1282
+yong hu kong jian	用户控件	1274
+yong hui chao shi	永辉超市	1179
+yong jiu ju zhu quan	永久居住权	1162
+yong kang shi	永康市	1161
+yong qing	永清	1085
+yong hu jie mian she ji	用户界面设计	1080
+yong chang	永昌	1045
+yong ding men	永定门	967
+yong chun	永春	937
+yong hu zhan	用户栈	866
+yong rong hua gui	雍容华贵	856
+yong cheng shi	永城市	832
+yong hu xiao xi	用户消息	807
+yong hu ren wu	用户任务	800
+yong hu qu	用户区	791
+yong you	用友	783
+yong hu xing wei fen xi	用户行为分析	745
+yong hu wen dang	用户文档	739
+yong hu nei cun	用户内存	728
+yong hu xing qu	用户兴趣	719
+yong zhi bu jie	用之不竭	709
+yong hu zhu xiao	用户注销	708
+yong an lu	永安路	691
+yong hu hua xiang	用户画像	637
+yong hu zhong xin	用户中心	613
+yong xiu	永修	566
+yong fu	永福	541
+yong xing cun	永兴村	536
+yong hu ti yan she ji	用户体验设计	531
+yong li she ji	用例设计	521
+yong shan	永善	498
+yong nian	永年	493
+yong wu zhi di	用武之地	473
+yong bu mo mie	永不磨灭	448
+yong qing jie	永清街	441
+yong sheng	永胜	435
+yong an shi	永安市	432
+yong chang lu	永昌路	416
+yong an li	永安里	415
+yong jing	永靖	413
+yong ji shi	永济市	386
+yong quan xue	涌泉穴	371
+yong hu ri zhi	用户日志	362
+yong wu ning ri	永无宁日	358
+yong feng lu	永丰路	349
+yong ren zi rao	庸人自扰	340
+yong long	永隆	329
+yong qing	永庆	309
+yong hong	永红	286
+yong zhong	永中	281
+yong gu	永固	278
+yong xi huo qing	涌溪火青	274
+yong hu xuan xiang	用户选项	242
+yong yuan fei die	永源飞碟	228
+yong zhi bu wang	永志不忘	223
+yong an cun	永安村	216
+yong hu zuo ye	用户作业	211
+yong hu zi ding	用户自定	210
+yong yong lu lu	庸庸碌碌	210
+yong he yuan	永和园	209
+yong an jie	永安街	206
+yong xing lu	永兴路	196
+yong cheng bao xian	永诚保险	195
+yong feng cun	永丰村	194
+yong feng li jiao	永丰立交	192
+yong jiang	邕江	183
+yong hu zuo biao	用户坐标	182
+yong ding cai gan	永定菜干	170
+yong hu mi yao	用户密钥	168
+yong fu lu	永福路	163
+yong yang	永阳	161
+yong le dian	永乐店	157
+yong feng li jiao qiao	永丰立交桥	155
+yong hu jia mi	用户加密	153
+yong le lu	永乐路	148
+yong ping jie	永平街	143
+yong lian cun	永联村	141
+yong qing lu	永清路	137
+yong da	永大	129
+yong hu ding yi xiao xi	用户定义消息	123
+yong zheng di	雍正帝	121
+yong jia lu	永嘉路	116
+yong song lu	永松路	116
+yong rong da du	雍容大度	114
+yong lian	永联	113
+yong ning	邕宁	112
+yong qi suo chang	用其所长	111
+yong ding men nei	永定门内	110
+yong ning men	永宁门	105
+yong sheng cun	永胜村	105
+yong he cun	永和村	103
+yong hu fen qu	用户分区	103
+yong ding xin he	永定新河	99
+yong hu gu shi	用户故事	99
+yong zheng	永正	96
+yong tai lu	永泰路	94
+yong shi fu xuan	永矢弗谖	93
+yong xing jie	永兴街	91
+yong jiu ju suo	永久居所	90
+yong hu xian lu	用户线路	89
+yong he lu	永和路	87
+yong ning lu	永宁路	81
+yong hu zuo biao xi	用户坐标系	80
+yong zhou	雍州	80
+yong jin men	涌金门	76
+yong xing zhan	永兴站	76
+yong sheng you cha	永胜油茶	74
+yong ding men dong jie	永定门东街	67
+yong jian	永建	66
+yong zhuang	永庄	66
+yong hong cun	永红村	65
+yong ding zhen zheng fu	永定镇政府	64
+yong jin xin ji	用尽心机	63
+yong feng chan ye ji di	永丰产业基地	61
+yong hu	永湖	61
+yong ka	用卡	60
+yong bing ru shen	用兵如神	59
+yong gui	永贵	59
+yong ning she qu	永宁社区	58
+yong chuan xian	永川县	57
+yong chui qing shi	永垂青史	56
+yong he shi	永和市	55
+yong feng zhan	永丰站	54
+yong tai	永太	53
+yong jin li jiao	涌金立交	52
+yong rong dian ya	雍容典雅	52
+yong zhe bu ju	勇者不惧	49
+yong he	永合	46
+yong jiang lu	甬江路	43
+yong ning si	永宁寺	39
+yong hu zhan zhi zhen	用户栈指针	38
+yong an xiao qu	永安小区	37
+yong ding jie dao	永定街道	37
+yong hu jian jie	用户简介	37
+yong nan	永南	36
+yong he zhuang	永合庄	35
+yong hu wen jian mu lu	用户文件目录	35
+yong ding men dong	永定门东	34
+yong hu xian cheng mo xing	用户线程模型	34
+yong jiu xu dian lu	永久虚电路	34
+yong xin jie	永新街	34
+yong chuan shi	永川市	33
+yong ji qu	永济渠	33
+yong chuan lu	永川路	31
+yong ning zhong xue	永宁中学	30
+yong an yuan	永安园	28
+yong guan san jun	勇冠三军	28
+yong jiu gu zhang	永久故障	28
+yong xing si	永兴寺	28
+yong an xian	永安县	27
+yong kang hui e	永康灰鹅	26
+yong quan cun	永泉村	26
+yong zhen	永贞	26
+yong sheng yong shi	永生永世	25
+yong hu zhu ti	用户主体	24
+yong kang xian	永康县	24
+yong le xi xiao qu	永乐西小区	24
+yong chun lu	永春路	23
+yong hu zhuang tai biao	用户状态表	22
+yong hong jie dao	永红街道	21
+yong jiu xing zhi wei	永久性职位	21
+yong quan si	涌泉寺	21
+yong tai xiao qu	永泰小区	21
+yong gu cun	永固村	20
+yong gui	永桂	20
+yong jian	永坚	20
+yong ning xian	邕宁县	20
+yong cheng xian	永城县	19
+yong die	庸鲽	19
+yong li cun	永利村	19
+yong shu jiao	永署礁	19
+yong an sun gan	永安笋干	18
+yong sheng cun	永生村	18
+yong shui	永水	18
+yong yao ru yong bing	用药如用兵	17
+yong an guang chang	永安广场	16
+yong ding men xi	永定门西	16
+yong he xiao qu	永和小区	16
+yong ji xian	永济县	16
+yong xing qiao	永兴桥	16
+yong heng yin hang	永亨银行	14
+yong hu biao shi ma	用户标识码	14
+yong li kuo zhan	用例扩展	14
+yong tie yuan she qu	永铁苑社区	14
+yong zhong	永忠	14
+yong feng ke ji yuan	永丰科技园	13
+yong nei dong jie	永内东街	13
+yong quan lu	永全路	13
+yong yi wei hao ye	永以为好也	13
+yong chang cun	永昌村	12
+yong feng tun cun	永丰屯村	12
+yong li shu mu	用例数目	12
+yong ming cun	永明村	12
+yong zhong zhen	永中镇	12
+yong fu cun	永福村	11
+yong heng hu tong	永恒胡同	11
+yong hu	永护	11
+yong le yuan	永乐苑	11
+yong ning nan guan	永宁南关	11
+yong ning zhai	永宁寨	11
+yong chang jun	永昌郡	10
+yong feng tun	永丰屯	10
+yong jia cun	雍家村	10
+yong kang cun	永康村	10
+yong shi ying	勇士营	10
+yong xi	涌溪	10
+yong yuan jie	永远街	10
+yong zhe jie qi li	勇者竭其力	10
+yong an jie dao ban shi chu	永安街道办事处	9
+yong ding men huo che zhan	永定门火车站	9
+yong fa cun	永发村	9
+yong jiu xing kang bian quan	永久性抗辩权	9
+yong kang hu tong	永康胡同	9
+yong qing jing ying suo	永青经营所	9
+yong zhi ru ni sha	用之如泥沙	9
+yong an da jie	永安大街	8
+yong ding zhong xue	永定中学	8
+yong dong xiang	永东乡	8
+yong feng lu kou	永丰路口	8
+yong gang nan lu	甬港南路	8
+yong hong lin chang	永红林场	8
+yong jiang xiang	永江乡	8
+yong ling lu dong	永陵路东	8
+yong ning cheng huang miao	永宁城隍庙	8
+yong tai si	永泰寺	8
+yong zhou zhi ye chan yi she	永州之野产异蛇	8
+yong feng shi chang	永丰市场	7
+yong fu xi da jie	永福西大街	7
+yong jin xiang	永进乡	7
+yong qiao qu	墉桥区	7
+yong he zhuang	永和庄	6
+yong ji	壅积	6
+yong li dai ye	永利带业	6
+yong qin	永琴	6
+yong qing xiang	永清巷	6
+yong xian	雍县	6
+yong yan	颙琰	6
+yong an dao	永安道	5
+yong chang zhong lu	永昌中路	5
+yong he xin cun	永和新村	5
+yong jia nian hua	永嘉年华	5
+yong jian dang yong zhang	用箭当用长	5
+yong jin dang di jiu ji yuan ze	用尽当地救济原则	5
+yong liu	永流	5
+yong ning hu tong	永宁胡同	5
+yong qiang cun	永强村	5
+yong qing xiang	永清乡	5
+yong sheng he e jiao	永盛合阿胶	5
+yong xin xian gong ye yuan qu	永新县工业园区	5
+yong bing ze gui you	用兵则贵右	4
+yong dian jian cha quan	用电检查权	4
+yong hu cun	永湖村	4
+yong jia ji tuan	永嘉集团	4
+yong ju jie dao	永巨街道	4
+yong ling lu kou	永陵路口	4
+yong ming da dao	永明大道	4
+yong nan zhong xue	永南中学	4
+yong qiu	雍丘	4
+yong xiang dong xiang	永祥东巷	4
+yong ye lu	永业路	4
+yong ye yue tong gu	永夜月同孤	4
+yong zhi suo qu yi ye	用之所趋异也	4
+yong ci jian su qi dong ji	永磁减速起动机	3
+yong gu zhen	永堌镇	3
+yong he zhuang cun	永和庄村	3
+yong jian li she qu	永建里社区	3
+yong jing hao	永井豪	3
+yong qing er cun	永清二村	3
+yong sheng xiang	永盛乡	3
+yong tai xiang	永泰乡	3
+yong wang fu	雍王府	3
+yong xiang	永响	3
+yong an hua yuan	永安花园	2
+yong da da sha	勇达大厦	2
+yong ding lu kou nan	永定路口南	2
+yong feng bao	永丰堡	2
+yong feng zhong lu	永丰中路	2
+yong fu zhuang xiang	永福庄乡	2
+yong he zhi lu	永和支路	2
+yong huai he luo jian	永怀河洛间	2
+yong jian suo zi xie	拥剑梭子蟹	2
+yong jie wu qing you	永结无情游	2
+yong lai zheng min	永濑正敏	2
+yong lang zhen	永郎镇	2
+yong le dong xiao qu bei she qu	永乐东小区北社区	2
+yong le ju wei hui	永乐居委会	2
+yong le xin cun	永乐新村	2
+yong mao quan cun	永茂泉村	2
+yong nan lu	永楠路	2
+yong ning zhen she qu	永宁镇社区	2
+yong qing lou	永庆楼	2
+yong qing xiang	永青乡	2
+yong san cun	永三村	2
+yong sheng xiang	永升乡	2
+yong sheng xiang	咏生乡	2
+yong shu jie dao	永叔街道	2
+yong shun xi jie	永顺西街	2
+yong zhong wei	雍忠玮	2
+yong an gong wai ta qing lai	永安宫外踏青来	1
+yong an tai jie dao	永安台街道	1
+yong chang cun	永常村	1
+yong cheng bei lu nan kou	永澄北路南口	1
+yong cun	庸村	1
+yong da ji tuan	永大集团	1
+yong ding dao	永定道	1
+yong ding lu kou bei	永定路口北	1
+yong ding lu kou dong	永定路口东	1
+yong ding lu nan kou	永定路南口	1
+yong ding si	永定寺	1
+yong feng tun xi kou	永丰屯西口	1
+yong feng xian gong ye yuan qu	永丰县工业园区	1
+yong fu da dao	永福大道	1
+yong fu dong da jie	永福东大街	1
+yong he san ri dang qing zhou	永和三日荡轻舟	1
+yong huai gu ji wu shou zhi wu	咏怀古迹五首之五	1
+yong jia bei lu	永嘉北路	1
+yong jia xiang	永嘉乡	1
+yong jing da	永井大	1
+yong jing jie	拥警街	1
+yong jiu xiang	永久乡	1
+yong jue cong jin shi	永诀从今始	1
+yong kang shui zu xiang	永康水族乡	1
+yong lao zeng meng de	咏老赠梦得	1
+yong lu kai jiu gang	拥炉开酒缸	1
+yong mu	永穆	1
+yong ning ping xiang	永宁坪乡	1
+yong ning wei sheng yuan	永宁卫生院	1
+yong nu	雍奴	1
+yong piao ruo bao chi	勇剽若豹螭	1
+yong qi ren jian shi	永弃人间事	1
+yong qiao qu	甬桥区	1
+yong shan	永珊	1
+yong shan geng san	永山耕三	1
+yong shan xuan dou	永山绚斗	1
+yong shi bu wang sang qi yuan	勇士不忘丧其元	1
+yong shun xi li ju wei hui	永顺西里居委会	1
+yong tai hu tong	永泰胡同	1
+yong tai xiang	永太乡	1
+yong tai yuan di er she qu	永泰园第二社区	1
+yong tai yuan di yi she qu	永泰园第一社区	1
+yong tai zhuang she qu	永泰庄社区	1
+yong xian wu yi shi	慵闲无一事	1
+yong ye ke shi nan mian	雍也可使南面	1
+yong yu shao liao zhi	用玉绍缭之	1
+yong zhou chao xue ya	永州炒血鸭	1
+yong zuo bo mei	永作博美	1
+yong zuo zhi gan fei	佣作致甘肥	1
+yong deng duan bi huang	永登短鼻蝗	0
+yong dun kou yuan	庸钝口螈	0
+yong feng long gang e	永丰龙冈鹅	0
+yong qian ce kong xi chong	鳙前侧孔吸虫	0
+yong qiang xiao shao	永强肖蛸	0
+yong shi shan hu xia hu	勇氏珊瑚鰕虎	0
+yong xing bi luo	蛹形筆螺	0
+yong xing xi ka lei chong	蛹形细卡勒虫	0
