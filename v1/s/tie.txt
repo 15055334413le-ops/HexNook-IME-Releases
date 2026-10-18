@@ -1,0 +1,983 @@
+tie zi	帖子	502879
+tie lu	铁路	463855
+tie shu	铁树	285815
+tie tu	贴图	196575
+tie de	贴的	136120
+tie jin	贴近	135280
+tie ban	铁板	105443
+tie zai	贴在	92300
+tie xin	贴心	67520
+tie dao	铁道	64590
+tie guan yin	铁观音	63823
+tie shen	贴身	62955
+tie dao bu	铁道部	61100
+tie shang	贴上	60075
+tie tong	铁通	56995
+tie kuang shi	铁矿石	52990
+tie zhe	贴着	51140
+tie xi	贴息	48755
+tie qie	贴切	39670
+tie lu yun shu	铁路运输	37005
+tie kuang	铁矿	36985
+tie chu	贴出	36550
+tie xue	铁血	36425
+tie ba	贴吧	36345
+tie de	铁的	34870
+tie ling	铁岭	31740
+tie dan	铁蛋	30400
+tie pian	贴片	29725
+tie jiang	铁匠	29095
+tie men	铁门	28685
+tie pai	贴牌	28575
+tie lu ju	铁路局	28420
+tie le	贴了	28365
+tie zhi	贴纸	27950
+tie si	铁丝	25525
+tie gan	铁杆	25520
+tie ta	铁塔	24025
+tie pi	铁皮	23555
+tie dao	贴到	22855
+tie xian	贴现	22840
+tie mo	贴膜	21935
+tie jin sheng huo	贴近生活	20930
+tie he jin	铁合金	20585
+tie mian	贴面	20480
+tie you	贴有	19640
+tie lian	铁链	19270
+tie lu jian she	铁路建设	17380
+tie qi	铁骑	17340
+tie he	贴合	17195
+tie zhi	铁质	16895
+tie lu bu men	铁路部门	16875
+tie ding	铁定	15815
+tie yi	铁艺	15560
+tie chui	铁锤	15535
+tie tu qu	贴图区	15260
+tie yu	贴于	15120
+tie zi lie biao	帖子列表	14995
+tie guo	铁锅	14980
+tie jun	铁军	14185
+tie shi	贴士	14025
+tie xi qu	铁西区	13800
+tie jia	铁甲	13515
+tie gui	铁轨	13240
+tie long gu fen	铁龙股份	12500
+tie chu lai	贴出来	12300
+tie ren	铁人	12270
+tie fan wan	铁饭碗	11755
+tie ling shi	铁岭市	11385
+tie hua	贴花	11085
+tie ding	铁钉	11065
+tie qi	铁器	11050
+tie di	贴地	11040
+tie niu	铁牛	10945
+tie si wang	铁丝网	10685
+tie hua	铁花	10285
+tie mu zhen	铁木真	10090
+tie shui	贴水	10090
+tie zhi	铁制	10005
+tie an ru shan	铁案如山	9999
+tie can dou	铁蚕豆	9999
+tie gao	铁镐	9999
+tie ge men er	铁哥们儿	9999
+tie gui	铁柜	9999
+tie hui	铁灰	9999
+tie lv	铁律	9999
+tie mao	铁锚	9999
+tie pu er	贴谱儿	9999
+tie ze	铁则	9999
+tie zhen	铁砧	9999
+tie zui	铁嘴	9999
+tie xin	铁心	9945
+tie san jiao	铁三角	9895
+tie bang	铁棒	9590
+tie man	贴满	9530
+tie tong	铁桶	9485
+tie jin	贴金	9390
+tie gun	铁棍	8975
+tie lai	贴来	8850
+tie lu xian	铁路线	8805
+tie qiao	铁锹	8705
+tie quan	铁拳	8700
+tie da	铁打	8375
+tie ma	铁马	8275
+tie lu gong cheng	铁路工程	8230
+tie xin	铁芯	8100
+tie jian	铁剑	8085
+tie xiu	铁锈	8060
+tie biao	贴标	7935
+tie yang ti	铁氧体	7835
+tie qing	铁青	7810
+tie xin ren	贴心人	7770
+tie kou	铁口	7620
+tie de	贴得	7515
+tie mu	铁木	7470
+tie li	铁力	7135
+tie hao	贴好	7040
+tie lu fen ju	铁路分局	6910
+tie shui	铁水	6905
+tie jia	铁架	6895
+tie shu	帖数	6850
+tie le xin	铁了心	6825
+tie suo	铁索	6825
+tie suo	铁锁	6820
+tie pao	铁炮	6720
+tie lu yun shu an quan	铁路运输安全	6598
+tie ti	铁蹄	6545
+tie shang lai	贴上来	6450
+tie tie	贴贴	6420
+tie qiao	铁桥	6415
+tie lu yan xian	铁路沿线	6320
+tie lu gong si	铁路公司	6315
+tie lu wang	铁路网	6270
+tie ba tou su	贴吧投诉	6250
+tie wan	铁腕	6220
+tie jin	贴紧	6120
+tie chuang	铁窗	6075
+tie qiu	铁球	6060
+tie bu	贴补	5970
+tie ning	铁凝	5960
+tie tu zhuan qu	贴图专区	5905
+tie lu dao kou	铁路道口	5830
+tie lu gong an chu	铁路公安处	5817
+tie he	铁盒	5720
+tie guan	铁管	5710
+tie xian	铁线	5650
+tie ban shao	铁板烧	5540
+tie zha lan	铁栅栏	5375
+tie xi dai kuan	贴息贷款	5335
+tie long	铁笼	5330
+tie pian	铁片	5330
+tie tou	铁头	5170
+tie lu ke yun	铁路客运	5150
+tie fen	铁粉	5140
+tie lu gan xian	铁路干线	5100
+tie han	铁汉	5080
+tie fu	贴附	5035
+tie zhu	贴住	5035
+tie biao qian	贴标签	4920
+tie kuai	铁块	4905
+tie huan	铁环	4870
+tie shi xin chang	铁石心肠	4835
+tie chang	铁厂	4805
+tie su ti	铁素体	4735
+tie shi	铁石	4725
+tie kuang shi jia ge	铁矿石价格	4695
+tie qiang	贴墙	4695
+tie shang qu	贴上去	4695
+tie hua	贴画	4655
+tie lu xi tong	铁路系统	4615
+tie ci zhuan	贴瓷砖	4600
+tie chuang	铁床	4535
+tie bi	铁臂	4530
+tie guan	铁罐	4505
+tie gou	铁钩	4465
+tie xian lv	贴现率	4455
+tie tiao	贴条	4444
+tie mian	铁面	4415
+tie zheng	铁证	4395
+tie lu jiao tong	铁路交通	4370
+tie dao you ji dui	铁道游击队	4360
+tie ge men	铁哥们	4310
+tie mian wu si	铁面无私	4270
+tie mu er	帖木儿	4255
+tie jiang pu	铁匠铺	4235
+tie dong qu	铁东区	4195
+tie zhu	铁柱	4170
+tie bing	铁饼	4130
+tie jin	贴进	4130
+tie wang	铁网	4090
+tie lu huo yun	铁路货运	4045
+tie sheng	铁生	4015
+tie zhu	铁铸	4000
+tie biao ji	贴标机	3965
+tie suo qiao	铁索桥	3920
+tie lu qiao	铁路桥	3899
+tie pian ji	贴片机	3860
+tie qing zhe	铁青着	3795
+tie ren san xiang	铁人三项	3770
+tie dan	铁胆	3720
+tie mian ban	贴面板	3580
+tie dao xue yuan	铁道学院	3550
+tie jing fen	铁精粉	3445
+tie xie	铁屑	3445
+tie shan gong zhu	铁扇公主	3425
+tie lu shu niu	铁路枢纽	3410
+tie gu	铁骨	3405
+tie tiao	铁条	3380
+tie ge	贴个	3355
+tie mu	铁幕	3345
+tie guo	贴过	3340
+tie jin gang	铁金刚	3340
+tie lu ji che	铁路机车	3340
+tie lian zi	铁链子	3333
+tie chan	铁铲	3310
+tie kuang sha	铁矿砂	3270
+tie lin	铁林	3265
+tie lun	铁轮	3175
+tie gong	铁工	3130
+tie lu yi yuan	铁路医院	3100
+tie sha	铁砂	3055
+tie xiang	铁箱	2990
+tie bi	铁壁	2945
+tie de ji lv	铁的纪律	2930
+tie lu yun shu fa yuan	铁路运输法院	2923
+tie fu long	铁氟龙	2860
+tie xian	铁锨	2845
+tie lan gan	铁栏杆	2830
+tie cheng	铁成	2825
+tie tu lun tan	贴图论坛	2755
+tie han liang	铁含量	2750
+tie tuo	铁托	2655
+tie qing de	铁青的	2565
+tie guai	铁拐	2545
+tie lan	铁栏	2540
+tie xin lan	铁心兰	2510
+tie gui shang	铁轨上	2455
+tie gong ji	铁公鸡	2450
+tie liu	铁流	2435
+tie wan	贴完	2395
+tie dong	铁东	2375
+tie lao da	铁老大	2330
+tie dan bai	铁蛋白	2315
+tie jin le	贴近了	2315
+tie ban yi kuai	铁板一块	2270
+tie lu zhi gong	铁路职工	2260
+tie pian dian rong	贴片电容	2250
+tie dao bing	铁道兵	2220
+tie shen bao biao	贴身保镖	2215
+tie lu huo wu yun shu	铁路货物运输	2200
+tie bu shan	铁布衫	2175
+tie yi	铁衣	2165
+tie bi	铁笔	2155
+tie le	铁勒	2145
+tie qian	贴钱	2130
+tie ci	铁磁	2095
+tie shang biao qian	贴上标签	2080
+tie zhang	铁杖	2070
+tie shan	铁扇	2055
+tie dian	铁电	2030
+tie bao jin	铁包金	2020
+tie zheng ru shan	铁证如山	1975
+tie zhi pin	铁制品	1975
+tie bei	铁北	1960
+tie ma jin ge	铁马金戈	1950
+tie jia	铁夹	1940
+tie de shi shi	铁的事实	1935
+tie bu jia yong	贴补家用	1905
+tie ji	铁集	1885
+tie long zi	铁笼子	1885
+tie xia	贴下	1880
+tie zha	铁闸	1855
+tie lu gong ren	铁路工人	1835
+tie xin	铁锌	1835
+tie ling xian	铁岭县	1815
+tie lu xin hao	铁路信号	1810
+tie chi tong ya	铁齿铜牙	1800
+tie lu che liang	铁路车辆	1800
+tie zui yin ya	铁嘴银牙	1796
+tie jiang jun	铁将军	1780
+tie lu yun ying	铁路运营	1775
+tie yong	贴用	1750
+tie lu yun shu ye	铁路运输业	1740
+tie he jin chang	铁合金厂	1725
+tie zhuan	贴砖	1715
+tie li zi	铁离子	1710
+tie tou gong	铁头功	1700
+tie li shi	铁力市	1680
+tie an	铁案	1675
+tie ji zhang	贴几张	1645
+tie geng hai tang	贴梗海棠	1635
+tie lu huo che	铁路货车	1595
+tie fa	铁法	1575
+tie chu	铁杵	1560
+tie lu jiao tong shi gu	铁路交通事故	1559
+tie qi shi dai	铁器时代	1550
+tie bian	铁鞭	1510
+tie hui se	铁灰色	1510
+tie lu zhan	铁路站	1510
+tie niang zi	铁娘子	1500
+tie lu fang mian	铁路方面	1480
+tie lu guan li	铁路管理	1475
+tie ci xing	铁磁性	1450
+tie shi zi	铁狮子	1445
+tie gu	铁箍	1435
+tie gu zheng zheng	铁骨铮铮	1395
+tie bian	贴边	1390
+tie pian dian zu	贴片电阻	1385
+tie qiang zhi	贴墙纸	1370
+tie shen yi wu	贴身衣物	1370
+tie lu qiao liang	铁路桥梁	1355
+tie cha	铁叉	1350
+tie ding	铁锭	1350
+tie shi zi	铁十字	1340
+tie xie	铁鞋	1315
+tie lu lv ke yun shu	铁路旅客运输	1260
+tie bing zi	贴饼子	1255
+tie he zi	铁盒子	1245
+tie guo lai	贴过来	1220
+tie chi	铁尺	1205
+tie ru	贴入	1195
+tie bu shang qu	贴不上去	1180
+tie guo zi	铁锅子	1180
+tie jin qu	贴进去	1180
+tie jin qu de	贴进去的	1180
+tie lie ke ti	铁列克提	1180
+tie xiang yan	铁象岩	1180
+tie er	贴耳	1130
+tie shi	贴实	1125
+tie piao	铁票	1115
+tie shen nei yi	贴身内衣	1115
+tie gui	铁规	1111
+tie lao	铁牢	1111
+tie lian	贴脸	1111
+tie lv	铁驴	1111
+tie zhao	铁爪	1111
+tie zhua	铁爪	1111
+tie lu fa	铁路法	1080
+tie lu yun shu zhong ji fa yuan	铁路运输中级法院	1072
+tie jiao	铁脚	1055
+tie ban you yu	铁板鱿鱼	1026
+tie ban ding ding	铁板钉钉	1010
+tie mu er	铁木尔	1010
+tie ben	贴本	999
+tie ben er	贴本儿	999
+tie shan	铁杉	999
+tie sha zhang	铁砂掌	991
+tie pai huo	贴牌货	987
+tie feng	铁锋	975
+tie lu fa yuan	铁路法院	966
+tie lu yun shu jian cha yuan	铁路运输检察院	961
+tie gao yao	贴膏药	960
+tie lu zhi xian	铁路支线	955
+tie chu mo cheng zhen	铁杵磨成针	925
+tie dai	贴袋	925
+tie liang	铁良	915
+tie xian jue	铁线蕨	900
+tie guai li	铁拐李	888
+tie bi	贴壁	875
+tie hua	铁画	875
+tie suan pan	铁算盘	855
+tie shu kai hua	铁树开花	810
+tie ye	铁叶	800
+tie pai de	贴牌的	798
+tie lu gui dao	铁路轨道	795
+tie qian	铁签	789
+tie gong chang	铁工厂	770
+tie lu yun jia	铁路运价	745
+tie zu	贴足	730
+tie jia jian	铁甲舰	720
+tie ji li	铁蒺藜	705
+tie lu yun fei	铁路运费	700
+tie zheng zheng	铁铮铮	700
+tie hu	铁壶	689
+tie tu ba	贴图吧	685
+tie dan	铁弹	680
+tie shan gang	铁山港	680
+tie si yuan	铁四院	675
+tie hai bao	贴海报	670
+tie chu qu	贴出去	655
+tie feng qu	铁锋区	640
+tie shan qu	铁山区	625
+tie si ju	铁四局	625
+tie mian ren	铁面人	620
+tie xin qiao	铁心桥	600
+tie shan gang qu	铁山港区	580
+tie he ji	贴合机	555
+tie gu niang	铁姑娘	550
+tie jiao yi	铁交椅	550
+tie shen yi fu	贴身衣服	550
+tie ban niu rou	铁板牛肉	537
+tie dao xian	铁道线	535
+tie er ju	铁二局	530
+tie jian dan dao yi	铁肩担道义	528
+tie zha	铁渣	520
+tie xin gai	铁锌钙	515
+tie zha men	铁栅门	515
+tie qing se	铁青色	510
+tie lu yun shu an quan bao hu tiao li	铁路运输安全保护条例	506
+tie xin peng you	贴心朋友	500
+tie ban	贴板	495
+tie jia che	铁甲车	475
+tie jiang jun ba men	铁将军把门	470
+tie wan ren wu	铁腕人物	470
+tie mao zi wang	铁帽子王	460
+tie fu	贴肤	440
+tie mian wu	贴面舞	440
+tie wan le	贴完了	440
+tie dao kou	铁道口	436
+tie tu zhan	贴图站	425
+tie bi tong qiang	铁壁铜墙	420
+tie shan ping	铁山坪	414
+tie mian zhuan	贴面砖	395
+tie zha	铁栅	389
+tie tong zhuang	铁桶装	385
+tie huan	贴换	375
+tie ti	贴题	370
+tie fa shi	铁法市	365
+tie xie	铁血	364
+tie gan er	铁杆儿	360
+tie xian yin hang	贴现银行	355
+tie bang mo cheng zhen	铁棒磨成针	350
+tie qing hua jia	铁氰化钾	345
+tie xi shu zhi	萜烯树脂	345
+tie jiao ban	铁脚板	300
+tie zi bu cuo	帖子不错	292
+tie suan yan	铁酸盐	290
+tie ci ti	铁磁体	285
+tie lu ye	铁路业	270
+tie zui gang ya	铁嘴钢牙	265
+tie guo qu	贴过去	255
+tie lu bin guan	铁路宾馆	250
+tie lu lv ke yi wai shang hai qiang zhi bao xian tiao li	铁路旅客意外伤害强制保险条例	241
+tie ping	贴平	240
+tie wan de	铁腕的	235
+tie zhu	铁猪	233
+tie dao da sha	铁道大厦	228
+tie gong zi	铁工资	220
+tie ren san xiang yun dong	铁人三项运动	220
+tie fan tu	铁矾土	215
+tie bu liao	贴不了	205
+tie ci he jin	铁磁合金	205
+tie mian wu qing	铁面无情	205
+tie zhong	铁中	205
+tie fu zi	贴福字	200
+tie hua yin gou	铁画银钩	200
+tie lu xiao qu	铁路小区	200
+tie tong zhen	铁桶阵	198
+tie lu jian cha yuan	铁路检察院	197
+tie ma bing he	铁马冰河	197
+tie tou ren	铁头人	197
+tie fu tu	铁浮屠	194
+tie nuan bao bao	贴暖宝宝	194
+tie bei lu	铁北路	193
+tie chuang hua	贴窗花	189
+tie feng tiao	贴封条	189
+tie ji	贴己	185
+tie kai ming hun	铁铠冥魂	182
+tie dao wang	铁道网	181
+tie lian sha	贴脸杀	180
+tie fa dan	贴罚单	178
+tie quan xia	铁拳侠	178
+tie xin hua	贴心话	178
+tie xiu wei	铁锈味	178
+tie han zi	铁汉子	175
+tie xian cai	铁苋菜	175
+tie men shen	贴门神	172
+tie dao ying xiong	铁道英雄	165
+tie di zhan	贴地斩	165
+tie san jiao jia	铁三脚架	165
+tie quan tou	铁拳头	160
+tie jia yong	铁甲蛹	157
+tie liu hai	铁刘海	156
+tie bo bo ao xiao yu	贴饽饽熬小鱼	155
+tie suo lian	铁锁链	155
+tie mo xia	贴膜瞎	154
+tie tu wang	贴图网	153
+tie lu yun ying an quan shi gu zui	铁路运营安全事故罪	152
+tie mian li	贴面礼	150
+tie bu tie	铁不铁	145
+tie yun shuang	铁云霜	145
+tie bi xi bao	贴壁细胞	140
+tie men chuang	铁门窗	140
+tie hua huang	贴花黄	134
+tie jiang ying	铁匠营	134
+tie shan	铁山	134
+tie wan	铁碗	134
+tie chui bang	铁锤帮	132
+tie xi guang chang	铁西广场	131
+tie chu mo zhen	铁杵磨针	130
+tie hua tuan	铁华团	129
+tie bi bang	铁臂膀	128
+tie jin qun zhong	贴近群众	128
+tie ji	贴剂	126
+tie guo dun da e	铁锅炖大鹅	124
+tie guo dian	铁锅店	123
+tie le tie	贴了贴	123
+tie yi tie	贴一贴	123
+tie gang hua mo	贴钢化膜	122
+tie lu lv ke yun shu sun hai pei chang gui ding	铁路旅客运输损害赔偿规定	121
+tie di fei xing	贴地飞行	119
+tie xin xiao mian ao	贴心小棉袄	119
+tie lu si ji xue xiao	铁路司机学校	113
+tie ao long xia	铁螯龙虾	100
+tie ba li	贴吧里	100
+tie ban da gu	铁板大鼓	100
+tie ban kuai shu	铁板快书	100
+tie ban lu	铁板路	100
+tie ban mian	铁板面	100
+tie ban niu liu	铁板牛柳	100
+tie ban tong pa	铁板铜琶	100
+tie ban ye	铁斑叶	100
+tie ban zhu jiao	铁板注脚	100
+tie bi ha ma	铁臂蛤蟆	100
+tie bi jiao wa	铁臂娇娃	100
+tie bi nan	铁壁男	100
+tie bi qiang xia	铁臂枪虾	100
+tie bi zi	铁箅子	100
+tie bu lv	贴补率	100
+tie chang shi xin	铁肠石心	100
+tie chi kou	贴赤口	100
+tie chi tong ya ji xiao lan	铁齿铜牙纪晓岚	100
+tie chu cheng zhen	铁杵成针	100
+tie chuang lei	铁窗泪	100
+tie chui lun si zhi	铁锤抡四肢	100
+tie da de	铁打的	100
+tie da de han zi	铁打的汉子	100
+tie da de shen ti	铁打的身体	100
+tie da de shi shi	铁打的事实	100
+tie da de ying pan	铁打的营盘	100
+tie da de zhu li	铁打的主力	100
+tie da gang zhu	铁打钢铸	100
+tie dan huo che xia	铁胆火车侠	100
+tie dan pao	铁弹炮	100
+tie dan tong gan	铁胆铜肝	100
+tie dan tong xin	铁胆铜心	100
+tie dan zi	铁蛋子	100
+tie dao bu bu zhang	铁道部部长	100
+tie dao bu zhang	铁道部长	100
+tie dao hang ye	铁道行业	100
+tie dao you ji zhan	铁道游击战	100
+tie de geng jin	贴得更紧	100
+tie de geng jin	贴得更近	100
+tie de hen jin	贴得很近	100
+tie de zheng ju	铁的证据	100
+tie di er xing	贴地而行	100
+tie di qi	贴地气	100
+tie di zhuan	贴地砖	100
+tie ding bu shi	铁定不是	100
+tie ding le xin	铁定了心	100
+tie ding zi	铁钉子	100
+tie dui zi	贴对子	100
+tie er mei zi	铁尔梅兹	100
+tie er yuan	铁二院	100
+tie fa guan	铁法官	100
+tie fan wan shi	铁饭碗式	100
+tie feng ci	铁蜂刺	100
+tie feng qu	铁峰区	100
+tie fu tou	铁斧头	100
+tie fu zi	铁斧子	100
+tie gan qing yi	铁杆情谊	100
+tie ge da	铁疙瘩	100
+tie ge zi	铁格子	100
+tie gong jue	铁公爵	100
+tie gou chuan zhang	铁钩船长	100
+tie gou er	铁钩儿	100
+tie gu nie tong xin	铁钴镍铜锌	100
+tie gu tu ren	铁骨土人	100
+tie guo qi	贴国旗	100
+tie he cheng du	贴合程度	100
+tie he du	贴合度	100
+tie he du gao	贴合度高	100
+tie he jue se	贴合角色	100
+tie hou zi	铁猴子	100
+tie huo hui ye	铁火辉夜	100
+tie jia bao long	铁甲暴龙	100
+tie jia bei	铁甲贝	100
+tie jia chong	铁甲虫	100
+tie jia chuan	铁甲船	100
+tie jia chuang	铁架床	100
+tie jia jin zhong zhao	铁甲金钟罩	100
+tie jia wu shi	铁甲武士	100
+tie jia xi niu	铁甲犀牛	100
+tie jia xiong xin	铁甲雄心	100
+tie jia zi	铁架子	100
+tie jian zhong gong	铁建重工	100
+tie jin di mian	贴近地面	100
+tie jin jue se	贴近角色	100
+tie jin lai	贴进来	100
+tie ju ren	铁巨人	100
+tie kai ming hun mo de kai sa	铁铠冥魂莫德凯撒	100
+tie ke kun	铁壳昆	100
+tie ke qi xiang	铁克其乡	100
+tie ke ren	铁克人	100
+tie ke yong	铁壳蛹	100
+tie kou zhi duan	铁口直断	100
+tie kua gong	铁胯功	100
+tie lai tie qu	贴来贴去	100
+tie le biao qian	贴了标签	100
+tie le feng tiao	贴了封条	100
+tie le ren	铁勒人	100
+tie le xin yao li hun	铁了心要离婚	100
+tie le xin yao zou	铁了心要走	100
+tie li mu	铁力木	100
+tie lian jie	贴链接	100
+tie lian nv	铁链女	100
+tie ling di qu	铁岭地区	100
+tie liu dong jin	铁流东进	100
+tie lu bao	铁炉堡	100
+tie lu chu xing	铁路出行	100
+tie lu deng hang ye	铁路等行业	100
+tie lu guan li ju	铁路管理局	100
+tie lu hang ye	铁路行业	100
+tie lu jiu cun	铁路九村	100
+tie lu ju zhang	铁路局长	100
+tie lu lv xing	铁路旅行	100
+tie lu quan	铁路权	100
+tie lu su she	铁路宿舍	100
+tie lu tiao tu	铁路调图	100
+tie lu wu liu ji di	铁路物流基地	100
+tie lu xian xing	铁路先行	100
+tie lu xing che an quan	铁路行车安全	100
+tie lu xue xiao	铁路学校	100
+tie lu yong di	铁路用地	100
+tie lu yun shu xue xiao	铁路运输学校	100
+tie lu yun xing	铁路运行	100
+tie lu zhan fang	铁路站房	100
+tie lu zhong zai yun shu	铁路重载运输	100
+tie ma liu	铁马骝	100
+tie mei zhi	铁镁质	100
+tie men dui	贴门对	100
+tie men hua	贴门画	100
+tie men lian	贴门联	100
+tie mian ge nv	铁面歌女	100
+tie mian pan guan	铁面判官	100
+tie mian ren zhe	铁面忍者	100
+tie mian wu si bian zhong jian	铁面无私辨忠奸	100
+tie mian yu shi	铁面御史	100
+tie mo a	贴膜啊	100
+tie mo le	铁摩勒	100
+tie mu er da han	帖木儿大汗	100
+tie pai ban	铁拍板	100
+tie pao yu	铁炮玉	100
+tie pao yu	铁炮鱼	100
+tie pi da gu	铁皮大鼓	100
+tie pi wu	铁皮屋	100
+tie pian gong lv dian gan	贴片功率电感	100
+tie qi bing	铁骑兵	100
+tie qi feng hua	铁汽风华	100
+tie qi lai	贴起来	100
+tie qiang wei	铁蔷薇	100
+tie qing shu ke	铁青树科	100
+tie qing zhe lian	铁青着脸	100
+tie qiong xi tong	铁穹系统	100
+tie quan dan shu	铁券丹书	100
+tie quan ka pu	铁拳卡普	100
+tie quan lai le	铁拳来了	100
+tie qun dao	铁群岛	100
+tie ren xian feng	铁人先锋	100
+tie ru yi	铁如意	100
+tie sa luo ni jia	帖撒罗尼迦	100
+tie sa luo ni jia hou shu	帖撒罗尼迦后书	100
+tie sa luo ni jia qian shu	帖撒罗尼迦前书	100
+tie shang le	贴上了	100
+tie shang le biao qian	贴上了标签	100
+tie shen chen yi	贴身衬衣	100
+tie shen chuan	贴身穿	100
+tie shen ci hou	贴身伺候	100
+tie shen gen sui	贴身跟随	100
+tie shen gong nv	贴身宫女	100
+tie shen hu wei	贴身护卫	100
+tie shen shou cang	贴身收藏	100
+tie shen wei dui	贴身卫队	100
+tie shen xiao hua	贴身校花	100
+tie shen yi ku	贴身衣裤	100
+tie shi ren	铁石人	100
+tie shi yi ban	铁石一般	100
+tie shou wu qing	铁手无情	100
+tie shu hua kai	铁树花开	100
+tie shu zhi gan	铁树枝干	100
+tie shu zhi mu	铁树之木	100
+tie shua ba	铁刷把	100
+tie su mu	铁苏木	100
+tie suo lang dang	铁锁锒铛	100
+tie suo lian huan	铁索连环	100
+tie tong jiang shan	铁桶江山	100
+tie tou wu di	铁头无敌	100
+tie tou zhang	铁头杖	100
+tie tuo ji xie	铁拓机械	100
+tie wan dui lian	贴完对联	100
+tie xi bo	贴锡箔	100
+tie xia lai	贴下来	100
+tie xia qu	贴下去	100
+tie xian hua zhi wu	铁线花之舞	100
+tie xian li lv	贴现利率	100
+tie xie chuan qi	铁血传奇	100
+tie xie dui zhang	铁血队长	100
+tie xie ta po	铁鞋踏破	100
+tie xin de	贴心地	100
+tie xin fu wu	贴心服务	100
+tie xin li	铁新里	100
+tie xin lun	铁心轮	100
+tie xin shi chang	铁心石肠	100
+tie xiu di dai	铁锈地带	100
+tie xiu hong	铁锈红	100
+tie xiu hong de	铁锈红的	100
+tie xue chuan qi	铁血传奇	100
+tie xue dui zhang	铁血队长	100
+tie ya ling	铁哑铃	100
+tie yan mo chuan	铁砚磨穿	100
+tie yi ban	铁一般	100
+tie yi ban de zheng ju	铁一般的证据	100
+tie yi ju wei	铁一局委	100
+tie yi tou kui	铁意头盔	100
+tie yi zhong	铁一中	100
+tie yu lan	铁玉兰	100
+tie yuan su	铁元素	100
+tie yun cang gui	铁云藏龟	100
+tie zai di mian shang	贴在地面上	100
+tie zhang chuan yun wu yi qiang	铁掌穿云武艺强	100
+tie zhang li shi	铁掌力士	100
+tie zhang shen gong	铁掌神功	100
+tie zhe di mian	贴着地面	100
+tie zhe lian	贴着脸	100
+tie zhe ni de wen nuan	贴着你的温暖	100
+tie zhe qiang	贴着墙	100
+tie zhe wo	贴着我	100
+tie zhe wo de	贴着我的	100
+tie zhe wo men	贴着我们	100
+tie zhi nv	铁之女	100
+tie zhong zheng zheng	铁中铮铮	100
+tie zhu tang	铁竹堂	100
+tie zhui jiang tao	铁坠江涛	100
+tie zi li	帖子里	100
+tie nan	铁男	99
+tie shou	铁手	99
+tie dao da xue	铁道大学	97
+tie jia wei long	铁甲威龙	96
+tie nv ren	铁女人	95
+tie xian gong si	贴现公司	95
+tie guo dan	铁锅蛋	91
+tie pian da gu	铁片大鼓	90
+tie pian chang	贴片厂	89
+tie ling zhong yuan	铁岭中院	87
+tie lu zhan che	铁路站车	87
+tie lu gui zhang	铁路规章	85
+tie fo si	铁佛寺	83
+tie lu cun	铁炉村	82
+tie ji li gu duo	铁蒺藜骨朵	80
+tie que fa	铁缺乏	79
+tie dong lu	铁东路	74
+tie ling shi yin zhou qu	铁岭市银州区	71
+tie bu gao	贴布告	70
+tie li xian	铁力县	70
+tie lu ba	铁路吧	70
+tie hui lai	贴回来	67
+tie lu huo wu yun shu he tong	铁路货物运输合同	66
+tie pian fei	贴片费	66
+tie bu zhu	贴不住	65
+tie gang shui ku	铁岗水库	65
+tie shen nan pu	贴身男仆	65
+tie yang ban	贴样板	65
+tie ban qie zi	铁板茄子	62
+tie xian cheng ben	贴现成本	62
+tie yi ge	贴一个	62
+tie shi ban de	铁石般的	60
+tie shi zi tou	铁狮子头	60
+tie fu liao fa	贴敷疗法	56
+tie lu liu yong tu di ban fa	铁路留用土地办法	56
+tie ta si lu	铁塔寺路	56
+tie huo	铁活	50
+tie er zhong	铁二中	48
+tie wu ju	铁五局	46
+tie lu ji	铁路机	43
+tie sao zhou	铁扫帚	40
+tie ma bing he ru meng lai	铁马冰河入梦来	39
+tie se gao yuan	铁色高原	38
+tie lu jie	铁路街	37
+tie ban tian ji	铁板田鸡	36
+tie zi	铁子	36
+tie bi pei yang	贴壁培养	35
+tie de bi	贴得比	35
+tie ren san xiang sai chang	铁人三项赛场	35
+tie ying	铁映	35
+tie bo bo ao yu	贴饽饽熬鱼	33
+tie ling lu	铁岭路	33
+tie lu miao	铁炉庙	33
+tie lu xing che shi gu chu li gui ze	铁路行车事故处理规则	30
+tie meng he jin	铁锰合金	30
+tie bao	铁保	29
+tie li lu	铁力路	29
+tie ban hei jiao niu liu	铁板黑椒牛柳	28
+tie bu ken wu san xiang	铁布肯乌散乡	27
+tie cao	铁槽	26
+tie shou tao	铁手套	26
+tie gong ju	铁工局	23
+tie shan zhong lu	铁山中路	23
+tie da jiang shan	铁打江山	20
+tie kuai zi	铁筷子	19
+tie shan cun	铁山村	19
+tie lu ba	铁路坝	18
+tie guo men	铁锅门	17
+tie ban shan yu	铁板鳝鱼	16
+tie er she qu	铁二社区	15
+tie lu huo yun dan	铁路货运单	15
+tie shan xin kuang	铁闪锌矿	15
+tie lou zang zu xiang	铁楼藏族乡	14
+tie pi feng dou ke li	铁皮枫斗颗粒	14
+tie re ke ti xiang	铁热克提乡	14
+tie san zhong	铁三中	14
+tie shi zi fen	铁狮子坟	14
+tie xiang lu	铁香炉	13
+tie xiang si	铁像寺	13
+tie bi yin shan	铁壁银山	12
+tie dian	铁店	12
+tie li	铁篱	12
+tie lu guang chang	铁路广场	12
+tie lu keng	铁炉坑	12
+tie shou zhuo	铁手镯	12
+tie ban zhu za	铁板猪杂	11
+tie lu liao yang yuan	铁路疗养院	11
+tie lu yun shu shou ru guan li gui cheng	铁路运输收入管理规程	11
+tie men kan	铁门槛	11
+tie she yuan	铁设院	11
+tie lu cai liao chang	铁路材料厂	10
+tie lu ju le bu	铁路俱乐部	10
+tie lu yun shu fa	铁路运输法	10
+tie si zhuang	铁丝状	10
+tie wu xiao	铁五小	10
+tie dao yi yuan	铁道医院	9
+tie fa xian	铁法县	9
+tie fo dong jie	铁佛东街	9
+tie sha	铁纱	9
+tie xi	铁西	9
+tie le tao bing	铁勒逃兵	8
+tie liu zhong	铁六中	8
+tie mai ke xiang	铁买克乡	8
+tie mu li ke xiang	铁木里克乡	8
+tie re mu xiang	铁热木乡	8
+tie ban you yu xu	铁板鱿鱼须	7
+tie dian ti	铁电体	7
+tie shi er ju	铁十二局	7
+tie ban fei chang	铁板肥肠	6
+tie gu shan	铁骨扇	6
+tie la ba	铁喇叭	6
+tie lu jian she gong cheng kan cha she ji guan li ban fa	铁路建设工程勘察设计管理办法	6
+tie ma qiu feng da san guan	铁马秋风大散关	6
+tie men cun	铁门村	6
+tie pai	铁牌	6
+tie pai zi	铁牌子	6
+tie quan tao	铁拳套	6
+tie ren zhong xue	铁人中学	6
+tie yao dai	铁腰带	6
+tie yi ju yi yuan	铁一局医院	6
+tie yun xiao	铁运校	6
+tie ban ji za	铁板鸡杂	5
+tie chuang feng wei	铁窗风味	5
+tie dong bei lu	铁东北路	5
+tie gai xiang	铁盖乡	5
+tie lei	萜类	5
+tie li cun	铁李村	5
+tie ling he	铁岭河	5
+tie lu tang	铁炉塘	5
+tie mian ji xian feng	铁面急先锋	5
+tie shi liu ju	铁十六局	5
+tie wei	铁味	5
+tie xian fu zhai	贴现负债	5
+tie xing	铁腥	5
+tie lu xin cun	铁炉新村	4
+tie lu xin hao gong si	铁路信号公司	4
+tie men gong hui	铁门工会	4
+tie shou jia	铁手甲	4
+tie xi	铁膝	4
+tie xi san cun	铁西三村	4
+tie yi she qu	铁一社区	4
+tie ban tong xian	铁板铜弦	3
+tie bang chui zhi tong gao	铁棒锤止痛膏	3
+tie da tong zhu	铁打铜铸	3
+tie da xin chang	铁打心肠	3
+tie jiang gong chang	铁匠工场	3
+tie jing lan	铁井栏	3
+tie le jing bing	铁勒精兵	3
+tie ling shi zhong xin yi yuan	铁岭市中心医院	3
+tie lu cun wei hui	铁炉村委会	3
+tie lu di er xiao xue	铁路第二小学	3
+tie men gong hui	铁门公会	3
+tie men shuan	铁门闩	3
+tie mu	贴目	3
+tie mu er	铁穆耳	3
+tie pa zi ji	铁扒仔鸡	3
+tie pi chang	铁皮厂	3
+tie shi zun ni	铁士尊尼	3
+tie su si se qiu	铁素四色球	3
+tie ying she qu	铁营社区	3
+tie zi	贴子	3
+tie ban ni qiu	铁板泥鳅	2
+tie ban ri ben dou fu	铁板日本豆腐	2
+tie bei qu	铁北区	2
+tie chang hu tong	铁厂胡同	2
+tie lu jian cha zhang ping xi dian xing an jian	铁路检察长评析典型案件	2
+tie lu qi ye shang wang shi gu chu li gui ze	铁路企业伤亡事故处理规则	2
+tie pi feng dou jiao nang	铁皮枫斗胶囊	2
+tie qi tu chu dao qiang ming	铁骑突出刀枪鸣	2
+tie sha gai zhen	铁沙盖镇	2
+tie shi liu ju dong zhan	铁十六局东站	2
+tie tui	铁腿	2
+tie yi zhong dong xiao qu	铁一中东校区	2
+tie zhang	铁掌	2
+tie zhou	铁肘	2
+tie ba xiang	铁坝乡	1
+tie ban bu yi	铁板不易	1
+tie ban ge hou	铁板歌喉	1
+tie ban yao hua	铁板腰花	1
+tie ban zhu gan	铁板猪肝	1
+tie bei cang lang	铁背苍狼	1
+tie bi tong shan	铁壁铜山	1
+tie bi wu si	铁笔无私	1
+tie chi shan mao	铁齿山猫	1
+tie chuo tong pa	铁绰铜琶	1
+tie da	铁搭	1
+tie dao mu fen die	铁刀木粉蝶	1
+tie dao mu san ci jiao chan	铁刀木三刺角蝉	1
+tie ding tie mao	铁钉铁铆	1
+tie ding xiang	铁顶乡	1
+tie dou	贴兜	1
+tie dun ci	铁盾刺	1
+tie er fu shou	贴耳俯首	1
+tie fa kuang wu ju zong yi yuan	铁法矿务局总医院	1
+tie geng hai tang er cha ya	贴梗海棠二叉蚜	1
+tie gou qiang	铁钩枪	1
+tie guo jin cheng	铁郭金城	1
+tie guo xian yu bing zi	铁锅咸鱼饼子	1
+tie huan wa jue chang	铁环挖掘场	1
+tie huan ying di	铁环营地	1
+tie jiang ju	贴将车	1
+tie jun jian	铁军剑	1
+tie kuang she qu	铁矿社区	1
+tie le wei shi	铁勒卫士	1
+tie lie	蛈蛚	1
+tie ling shi jian she gong cheng zhao biao tou biao shi shi ban fa	铁岭市建设工程招标投标实施办法	1
+tie lu shui dian duan	铁路水电段	1
+tie lu xing shi yi nan an li yan jiu	铁路刑事疑难案例研究	1
+tie lu zhuan yong xian yu guo tie jie gui shen pi ban fa	铁路专用线与国铁接轨审批办法	1
+tie mao xiang	铁帽乡	1
+tie mian qiang ya	铁面枪牙	1
+tie mian shan	铁面扇	1
+tie mu lai yi hui die	铁木莱异灰蝶	1
+tie mu sen lin	铁木森林	1
+tie mu shan dong	铁木山洞	1
+tie pa bi mu yu	铁扒比目鱼	1
+tie pa da xia	铁扒大虾	1
+tie pa gui yu	铁扒鳜鱼	1
+tie pa li ji	铁扒里脊	1
+tie pa niu rou pian	铁扒牛肉片	1
+tie pa sun ji	铁扒笋鸡	1
+tie pian tan dian	贴片钽电	1
+tie pu xiang	铁铺巷	1
+tie qiu bang	铁球棒	1
+tie quan	贴权	1
+tie ran se	铁染色	1
+tie ren jie dao	铁人街道	1
+tie san cun	铁三村	1
+tie se rong mao nong die	铁色绒毛弄蝶	1
+tie shan lan	铁山兰	1
+tie shan long	铁山垄	1
+tie shi gao yuan	铁石高原	1
+tie shi xiang	铁市巷	1
+tie shi xin gan	铁石心肝	1
+tie shi ying di	铁石营地	1
+tie shu kai hua	铁树开华	1
+tie wang shan hu	铁网珊瑚	1
+tie xi xiang	铁西乡	1
+tie xin mu chang	铁心木肠	1
+tie xin tie yi	铁心铁意	1
+tie xiu chang xuan luo	铁锈长旋螺	1
+tie xu zhi mu	铁须之墓	1
+tie yi	铁蚁	1
+tie ying hu tong	铁营胡同	1
+tie yu hu jia	铁羽护甲	1
+tie yu tong long	铁狱铜笼	1
+tie zha bi luo	铁栅笔螺	1
+tie zhi chang dao	铁制长刀	1
+tie zhi ju fu	铁制巨斧	1
+tie zhi wa jue chang	铁趾挖掘场	1

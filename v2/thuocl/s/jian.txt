@@ -1,0 +1,881 @@
+jian du	监督	3393811
+jian cha	检查	580138
+jian she bu	建设部	277653
+jian she gong cheng	建设工程	234906
+jian ce	检测	189815
+jian ce	监测	179771
+jian she yong di	建设用地	166785
+jian bing	兼并	161673
+jian ding	鉴定	141081
+jian li	健力	55428
+jian ding bu yi	坚定不移	54113
+jian li bao	健力宝	51986
+jian zhi	兼职	35102
+jian bing	煎饼	35051
+jian du quan	监督权	34139
+jian yi	检疫	30790
+jian ting qi	监听器	27980
+jian she yong di shi yong quan	建设用地使用权	26878
+jian yi yong wei	见义勇为	21157
+jian wei	建委	20495
+jian chi bu xie	坚持不懈	19818
+jian mo	建模	19008
+jian hu	监护	18501
+jian hu ren	监护人	18131
+jian ku fen dou	艰苦奋斗	15564
+jian cha zhan	检查站	15259
+jian shi ju zhu	监视居住	14210
+jian nan chun	剑南春	13157
+jian bie	鉴别	13051
+jian she ju	建设局	12744
+jian biao	建表	12227
+jian pan shu ru	键盘输入	12064
+jian du ti xi	监督体系	11923
+jian zhu ye	建筑业	10756
+jian hang	建行	10024
+jian zhu she ji	建筑设计	9730
+jian she yin hang	建设银行	9476
+jian ting shi jian	监听事件	9304
+jian zhuang xing	健壮性	9124
+jian zhi dui	键值对	8076
+jian zhu gong si	建筑公司	7631
+jian zhi	键值	7389
+jian dan shi yong	简单使用	7233
+jian ce zhong xin	检测中心	7192
+jian dan shi xian	简单实现	7031
+jian tie ban	剪贴板	6862
+jian ti zhong wen	简体中文	6848
+jian xiao	建校	6821
+jian rong xing wen ti	兼容性问题	6561
+jian gong li ye	建功立业	6537
+jian cha he	检查和	6130
+jian she ji tuan	建设集团	5325
+jian xin	建新	5176
+jian shi hui	监事会	5151
+jian kang dang an	健康档案	4839
+jian xie xing	间歇性	4526
+jian ku zhuo jue	艰苦卓绝	4416
+jian shi	监事	4340
+jian du dian hua	监督电话	4334
+jian guai bu guai	见怪不怪	4218
+jian she lu	建设路	4183
+jian ku chuang ye	艰苦创业	4135
+jian ce zhan	检测站	4040
+jian cha dian	检查点	4037
+jian kong xi tong	监控系统	3941
+jian bu	肩部	3911
+jian bing guo zi	煎饼果子	3896
+jian dan gong chang mo shi	简单工厂模式	3834
+jian cai shi chang	建材市场	3818
+jian she gong cheng he tong	建设工程合同	3755
+jian zhu ye xie hui	建筑业协会	3717
+jian feng cha zhen	见缝插针	3691
+jian shu	简书	3605
+jian rong wen ti	兼容问题	3539
+jian pan shi jian	键盘事件	3491
+jian pi	健脾	3229
+jian nan xian zu	艰难险阻	3220
+jian ba nu zhang	剑拔弩张	3166
+jian zao zhe mo shi	建造者模式	2947
+jian kang zheng	健康证	2936
+jian rong mo shi	兼容模式	2889
+jian du xue xi	监督学习	2772
+jian li	监利	2688
+jian ding	检定	2687
+jian ren bu ba	坚韧不拔	2663
+jian kang cu jin	健康促进	2616
+jian pan lu ru	键盘录入	2515
+jian cha fa dong ji	检查发动机	2479
+jian an	建安	2441
+jian ru jia jing	渐入佳境	2441
+jian dan gong chang	简单工厂	2385
+jian zai xian shang	箭在弦上	2375
+jian zhu xue yuan	建筑学院	2374
+jian ye	建业	2345
+jian xie xing jing shen bing	间歇性精神病	2332
+jian kong gong ju	监控工具	2323
+jian si bu jiu	见死不救	2305
+jian xian si qi	见贤思齐	2295
+jian chu lv	检出率	2259
+jian dan shi li	简单实例	2217
+jian jie xing	简洁性	2138
+jian zhan	建站	2104
+jian cha cheng xu	检查程序	2099
+jian ye	建邺	2056
+jian nan kun ku	艰难困苦	1991
+jian qie ban	剪切板	1989
+jian guo men	建国门	1815
+jian bian se	渐变色	1794
+jian sha ju	尖沙咀	1779
+jian dan xuan ze pai xu	简单选择排序	1714
+jian shi zhang	监事长	1687
+jian shou zi dao	监守自盗	1681
+jian ying	兼营	1679
+jian wang	健忘	1655
+jian zao zhe	建造者	1654
+jian hua	建华	1650
+jian cha geng xin	检查更新	1647
+jian ren jian zhi	见仁见智	1640
+jian ku pu su	艰苦朴素	1608
+jian shi bu miao	见势不妙	1594
+jian rong bing xu	兼容并蓄	1575
+jian bian dong hua	渐变动画	1560
+jian kang le	健康乐	1550
+jian nan qu zhe	艰难曲折	1544
+jian ru pan shi	坚如磐石	1544
+jian ding yi zhi	坚定意志	1532
+jian duo shi guang	见多识广	1498
+jian jie fa	间接法	1496
+jian kong cheng xu	监控程序	1469
+jian ming e yao	简明扼要	1431
+jian bu ke cui	坚不可摧	1406
+jian ti zhong wen ban	简体中文版	1357
+jian zhou yan	肩周炎	1349
+jian bu de ren	见不得人	1337
+jian dui	煎堆	1313
+jian rong xing ce shi	兼容性测试	1298
+jian dan cheng xu	简单程序	1290
+jian guo lu	建国路	1281
+jian jie xun zhi	间接寻址	1273
+jian cai cheng	建材城	1231
+jian dan pai xu	简单排序	1212
+jian mo gong ju	建模工具	1208
+jian zhi shou ru	兼职收入	1193
+jian she shi chang	建设市场	1191
+jian cang	减仓	1175
+jian wei	键位	1152
+jian shou bing xu	兼收并蓄	1148
+jian zhu she ji yuan	建筑设计院	1147
+jian cuo	检错	1117
+jian li wang yi	见利忘义	1110
+jian dan mo ni	简单模拟	1083
+jian dan ji suan	简单计算	1055
+jian gong	建公	1010
+jian yin you nv zui	奸淫幼女罪	970
+jian yang shi	简阳市	967
+jian li shi jian	建立时间	923
+jian ting mo shi	监听模式	919
+jian feng	尖峰	906
+jian rong bing bao	兼容并包	901
+jian ma	键码	898
+jian yan zhan	检验站	888
+jian ning	建宁	843
+jian dan suan fa	简单算法	842
+jian she da jie	建设大街	833
+jian tou	尖头	777
+jian ting jian pan	监听键盘	770
+jian ji tian xia	兼济天下	763
+jian kang ping gu	健康评估	757
+jian er you zhi	兼而有之	756
+jian pan yin cang	键盘隐藏	749
+jian kang lu	健康路	732
+jian jia gu	肩胛骨	721
+jian kang bao xian guan li ban fa	健康保险管理办法	696
+jian cao ping	尖草坪	685
+jian bu ru fei	健步如飞	683
+jian she nan lu	建设南路	678
+jian dan sou suo	简单搜索	667
+jian hu	建湖	658
+jian ning lu	建宁路	645
+jian cai qi yi	见财起意	636
+jian she cun	建设村	625
+jian shui	建水	617
+jian she lu kou	建设路口	614
+jian ming jiao cheng	简明教程	609
+jian jie dai li	间接代理	598
+jian jie	剪接	594
+jian ce wang luo	监测网络	568
+jian de shi	建德市	567
+jian yan cheng xu	检验程序	567
+jian yang	建阳	565
+jian zhen bu qu	坚贞不屈	558
+jian kang	建康	544
+jian suo shu	检索树	538
+jian she gong cheng cheng bao he tong	建设工程承包合同	529
+jian zhen	鉴真	522
+jian xin	建信	520
+jian e gan	煎鹅肝	517
+jian cang	建仓	509
+jian ting ze ming	兼听则明	506
+jian ou shi	建瓯市	495
+jian ge	剑阁	481
+jian cai chang	建材厂	477
+jian yao	煎药	470
+jian zhi	减脂	469
+jian kang lu	建康路	461
+jian guan jie	肩关节	451
+jian kong ren wu	监控任务	444
+jian kang xing wei	健康行为	439
+jian qian yan kai	见钱眼开	439
+jian dai	肩带	437
+jian pan jian ting	键盘监听	426
+jian dan ji suan qi	简单计算器	423
+jian she jie	建设街	398
+jian shan	尖山	393
+jian xin yuan	建新园	368
+jian feng shi duo	见风使舵	355
+jian min	健民	355
+jian yan ma	检验码	354
+jian jie jie chu	间接接触	353
+jian shen pao	健身跑	353
+jian du huo yi miao	减毒活疫苗	348
+jian xie yi	间协议	344
+jian qun	建群	341
+jian pan gao du	键盘高度	333
+jian bie zhen duan	鉴别诊断	332
+jian qiao	笕桥	327
+jian qiang bu qu	坚强不屈	324
+jian jia	肩胛	313
+jian she xin cun	建设新村	312
+jian yang shi	建阳市	309
+jian pan gou zi	键盘钩子	306
+jian suan ke bo	尖酸刻薄	304
+jian kou bu yan	缄口不言	303
+jian mei cha	健美茶	301
+jian dan duo bian xing	简单多边形	291
+jian gong lu	建工路	284
+jian qie tu pian	剪切图片	284
+jian ye dai li ren	兼业代理人	284
+jian she xiang mu zhi liang	建设项目质量	283
+jian chang	建场	276
+jian xin dong lu	建新东路	275
+jian kuan	肩宽	268
+jian she lu de	建设路的	266
+jian fei cha	减肥茶	265
+jian ji xing shi	见机行事	265
+jian yi yang de	俭以养德	264
+jian guo bei lu	建国北路	255
+jian wen	建文	255
+jian ye lu	建邺路	252
+jian pi yi qi	健脾益气	251
+jian ya	尖牙	245
+jian rui shi you	尖锐湿疣	242
+jian he	涧河	235
+jian dan ji he	简单几何	233
+jian shi shu ju	监视数据	232
+jian yan qi	检验器	231
+jian xin lu	建新路	229
+jian xing	建兴	225
+jian wang zhi lai	鉴往知来	224
+jian she dong lu	建设东路	223
+jian lian	建联	220
+jian qiao yan	腱鞘炎	220
+jian chuan	剑川	217
+jian yi ji suan qi	简易计算器	216
+jian pan zhe dang	键盘遮挡	215
+jian qiao guo ji	剑桥国际	213
+jian she yi lu	建设一路	211
+jian jie dai ma	简洁代码	208
+jian kong fang shi	监控方式	204
+jian wu bu jian ren	见物不见人	199
+jian xi	涧西	199
+jian wei xiao shi pian	健胃消食片	198
+jian yi qi	检疫期	197
+jian zhan xi tong	建站系统	189
+jian pan kong zhi qi	键盘控制器	185
+jian zhen bu yu	坚贞不渝	185
+jian niang san bao	煎酿三宝	184
+jian pan chu li	键盘处理	183
+jian xiang qiao	健翔桥	183
+jian ping zhong xue	建平中学	181
+jian tong	建通	180
+jian pan tong zhi	键盘通知	179
+jian dan ji chu	简单基础	178
+jian ma	简码	177
+jian zhi bian ma	键值编码	176
+jian cha lian jie	检查链接	172
+jian she da sha	建设大厦	172
+jian quan jie	碱泉街	168
+jian bi qing ye	坚壁清野	165
+jian pi qu shi	健脾祛湿	159
+jian lie xin xi	见猎心喜	158
+jian cha yuan fa yi	检察院法医	153
+jian zhi xing fei yan	间质性肺炎	150
+jian ye lu	建业路	149
+jian she er lu	建设二路	147
+jian dan lian biao	简单链表	146
+jian dan bian cheng	简单编程	143
+jian guan bu jing	见惯不惊	143
+jian guo xi lu	建国西路	140
+jian hua	碱化	140
+jian suo ji shu	检索技术	140
+jian nan qi che zhan	建南汽车站	139
+jian pan hui shou	键盘回收	139
+jian xiang lu	建湘路	137
+jian bu shan ru tan tang	见不善如探汤	134
+jian guo zhong lu	建国中路	134
+jian yi si qian	见异思迁	132
+jian she bei lu san duan	建设北路三段	131
+jian dan mei ju	简单枚举	130
+jian mao	箭毛	129
+jian dan shu ju jie gou	简单数据结构	128
+jian shan ru bu ji	见善如不及	127
+jian wan zi	煎丸子	127
+jian zhi you hua	剪枝优化	127
+jian gong xue yuan	建工学院	126
+jian xie xing shen jing bing	间歇性神经病	126
+jian bo zan	翦伯赞	125
+jian yang yang rou tang	简阳羊肉汤	124
+jian miao	间苗	120
+jian shan tian xia	兼善天下	117
+jian du guan li quan xian	监督管理权限	116
+jian suo wei jian	见所未见	116
+jian guan chang	煎灌肠	112
+jian kong gao jing	监控告警	112
+jian bie xin xi	鉴别信息	109
+jian zhi guan cha	键值观察	109
+jian shi	尖石	108
+jian fa qi	减法器	106
+jian jiao ji	尖椒鸡	104
+jian pi hua shi	健脾化湿	103
+jian she lu jie dao ban shi chu	建设路街道办事处	103
+jian qie bian huan	剪切变换	101
+jian cheng cun	建成村	99
+jian cuo ma	检错码	99
+jian ya bing	减压病	99
+jian shan cun	尖山村	94
+jian zi xiang	剪子巷	94
+jian kang cun	健康村	92
+jian shan	剑山	92
+jian shi ju zhu jue ding shu	监视居住决定书	91
+jian dong jie	建东街	88
+jian yan wei	检验位	88
+jian jiao rou si	尖椒肉丝	87
+jian xi qi zhi du	见习期制度	87
+jian xian si qi yan	见贤思齐焉	85
+jian bian	间变	81
+jian zai xian shang bu de bu fa	箭在弦上不得不发	81
+jian chuan lu	剑川路	80
+jian dan qin xin	剑胆琴心	80
+jian xie xing bo xing	间歇性跛行	80
+jian pi yi shen	健脾益肾	79
+jian zhu cai liao chang	建筑材料厂	79
+jian shui ba	碱水粑	77
+jian gong yi yuan	建工医院	76
+jian xi	建西	75
+jian guo lu kou	建国路口	73
+jian xie yu gua	间歇雨刮	73
+jian mo fang zhen	建模仿真	70
+jian tu	剑突	69
+jian ban xian	睑板腺	68
+jian he lu	剑河路	68
+jian jie di zhi	间接地址	68
+jian guo dong lu	建国东路	67
+jian zhu xin cun	建筑新村	67
+jian guo cun	建国村	66
+jian yi lu	简易路	66
+jian hua lu	建华路	64
+jian long xie jia	见龙卸甲	64
+jian suo ji zhi	检索机制	64
+jian cha guan shou ji	检察官手记	62
+jian qiao	腱鞘	62
+jian dan shen sou	简单深搜	61
+jian bu xian er nei zi xing ye	见不贤而内自省也	60
+jian cun	简村	60
+jian she gong cheng gui hua guan li	建设工程规划管理	59
+jian dan wang	简单网	58
+jian zhu shi chang guan li gui ding	建筑市场管理规定	58
+jian jing xue	肩井穴	56
+jian yan	建炎	56
+jian yin lu lve	奸淫掳掠	56
+jian cai	建才	54
+jian shi zhuang tai	监视状态	54
+jian feng	肩峰	53
+jian dang zui	奸党罪	52
+jian pu zhai xian fa	柬埔寨宪法	51
+jian ge zhen	间隔帧	50
+jian mao	键帽	50
+jian sheng	建胜	50
+jian kang dai jun zhe	健康带菌者	49
+jian she lu dong	建设路东	48
+jian bian die jia	渐变叠加	47
+jian ge ji shi qi	间隔计时器	47
+jian li si yi	见利思义	47
+jian shen hui se	艰深晦涩	47
+jian xin yuan	建欣苑	47
+jian she da lou	建设大楼	46
+jian yan bu zhou	检验步骤	46
+jian zhi xing shen yan	间质性肾炎	46
+jian feng shan	尖峰山	45
+jian jie mo	睑结膜	45
+jian men zi	煎焖子	45
+jian mi la	尖蜜拉	45
+jian ji lv ji	剑及履及	44
+jian shen lu	健身路	43
+jian zhan ji shu	建站技术	42
+jian zhu ji xie chang	建筑机械厂	42
+jian pi liu	间皮瘤	41
+jian shi	间使	41
+jian xing lin suan mei	碱性磷酸酶	41
+jian hua cun	建华村	40
+jian le zhi ma diu le xi gua	拣了芝麻丢了西瓜	40
+jian ri nve	间日疟	40
+jian she nan xin lu	建设南新路	40
+jian shu fen lie	减数分裂	40
+jian chun	建春	39
+jian zui hou sai	尖嘴猴腮	39
+jian an yi lu	建安一路	38
+jian wei	尖尾	38
+jian yuan yan	睑缘炎	38
+jian dan bo yi	简单博弈	37
+jian rong zi fu	兼容字符	37
+jian xi jie	建西街	37
+jian ruan ji	煎软鸡	36
+jian zhu guan	建筑馆	36
+jian dan shu lun	简单数论	35
+jian lie	睑裂	34
+jian kong tai	监控台	33
+jian zi wan	剪子湾	33
+jian ban	睑板	32
+jian feng zhuan duo	见风转舵	32
+jian tang	涧塘	32
+jian gong shan	箭弓山	31
+jian du pi ping quan	监督批评权	30
+jian gang lu	建港路	30
+jian guan jie tuo wei	肩关节脱位	30
+jian rong ji suan ji	兼容计算机	30
+jian feng cun	尖峰村	29
+jian jing	肩井	29
+jian qiao nang zhong	腱鞘囊肿	28
+jian she zhong xue	建设中学	28
+jian tai zong shi si shu	谏太宗十思疏	28
+jian shan lu	尖山路	27
+jian wan tuo	煎碗坨	27
+jian chang dao	建昌道	26
+jian feng chang yu	煎封鲳鱼	26
+jian dan si wei	简单思维	25
+jian jie zhuan yi	间接转移	25
+jian kang xin li xue	健康心理学	25
+jian zhan jing yan	建站经验	25
+jian bu rong fa	间不容发	24
+jian cai xing ban	建材行办	24
+jian pi bu xue	健脾补血	24
+jian dan quan yi fa	简单权益法	23
+jian guo dao	建国道	23
+jian ku zhuo jue	坚苦卓绝	23
+jian wu xu fa	箭无虚发	23
+jian zheng lu	建政路	23
+jian dou	剑斗	22
+jian guo nan yuan	建国南苑	22
+jian rong ji zhi	兼容机制	22
+jian yan xu lie	检验序列	22
+jian yuan	健园	22
+jian fan she	腱反射	21
+jian guo dan gao	坚果蛋糕	21
+jian ji er zuo	见机而作	21
+jian jie ti	剪接体	21
+jian wen di	简文帝	21
+jian zhong cun	建中村	21
+jian bie ran se	鉴别染色	20
+jian de hua yuan	建德花园	20
+jian ji chang	建机厂	20
+jian shao shang	碱烧伤	20
+jian chi zhi lu	减持之路	19
+jian jiao chao dan	尖椒炒蛋	19
+jian nao	间脑	19
+jian xiang qiao bei	健翔桥北	19
+jian yu bing	煎芋饼	19
+jian du kong zhi	监督控制	18
+jian mo	腱膜	18
+jian suo kong jian	检索空间	18
+jian yang xian	建阳县	18
+jian bei jie dao	建北街道	17
+jian yi	建义	17
+jian zhu jie dao	建筑街道	17
+jian fa cun	尖垡村	16
+jian gong xin cun	建工新村	16
+jian kang xin cun	建康新村	16
+jian shi ding shi qi	监视定时器	16
+jian xin zhuang	建新庄	16
+jian da shi	简大狮	15
+jian de xian	建德县	15
+jian er xiao shi kou fu ye	健儿消食口服液	15
+jian gan hu tong	箭杆胡同	15
+jian kang xian	健康险	15
+jian nei fan	睑内翻	15
+jian zhu lu	建筑路	15
+jian ben er fen	间苯二酚	14
+jian fei tie	减肥贴	14
+jian hua xin cun	建华新村	14
+jian jia po xiang	蹇家坡乡	14
+jian xian yan	睑腺炎	14
+jian zi mu lan hua	减字木兰花	14
+jian guo lu jie dao	建国路街道	13
+jian hang ka	建行卡	13
+jian pi	间皮	13
+jian wai hu chuan shou ji bei	剑外忽传收蓟北	13
+jian wo ying ru shi	见我应如是	13
+jian yan ji suan	检验计算	13
+jian yang xian	简阳县	13
+jian bie shu ju	鉴别数据	12
+jian fang	建坊	12
+jian gong bei li	建功北里	12
+jian jia pian	煎茄片	12
+jian kang hu tong	健康胡同	12
+jian li	建里	12
+jian xiang yin	捡相因	12
+jian ji lu qi	键记录器	11
+jian jiao tu	尖椒兔	11
+jian kang gong yu	健康公寓	11
+jian lin cun	建林村	11
+jian niang qie zi	煎酿茄子	11
+jian qiao gong she	剑桥公社	11
+jian she gong cheng fa lv shi wu	建设工程法律实务	11
+jian ye lu kou	建业路口	11
+jian bei qiao	建北桥	10
+jian cai guo cheng	剪裁过程	10
+jian cao miao zu xiang	枧槽苗族乡	10
+jian gong xue xiao	建工学校	10
+jian kang yuan	健康元	10
+jian long lei	剑龙类	10
+jian xiang qiao dong	健翔桥东	10
+jian xin bei qu	建新北区	10
+jian zai he wei wei	艰哉何巍巍	10
+jian ba qing yu tou wei	煎扒鲭鱼头尾	9
+jian cha	建茶	9
+jian cha gai ge cuo shi yan jiu	检察改革措施研究	9
+jian chi zhen	简池镇	9
+jian guo li she qu	建国里社区	9
+jian ling zhen	建陵镇	9
+jian pi wan	健脾丸	9
+jian qin yuan lin	建秦园林	9
+jian wai fan	睑外翻	9
+jian xi	涧溪	9
+jian xie xing wai xie shi	间歇性外斜视	9
+jian xing cun	建兴村	9
+jian yong	简勇	9
+jian yong	简雍	9
+jian yu	肩髃	9
+jian er qing jie ye	健儿清解液	8
+jian ge zheng rong er cui wei	剑阁峥嵘而崔嵬	8
+jian hai xiao xue	鉴海小学	8
+jian heng	建衡	8
+jian jun bian rou	建郡扁肉	8
+jian ming cun	建明村	8
+jian nao jiao nang	健脑胶囊	8
+jian she ju wei hui	建设居委会	8
+jian she lu zhong	建设路中	8
+jian suo	腱索	8
+jian xiang qiao xi	健翔桥西	8
+jian xiao li ze da shi bu cheng	见小利则大事不成	8
+jian zhi zhao wo hun	剪纸招我魂	8
+jian an cun	建安村	7
+jian di zhen	枧底镇	7
+jian hong	建洪	7
+jian jin han zhi bu ken qi	拣尽寒枝不肯栖	7
+jian mei xiang	健美乡	7
+jian mo dian pian	减磨垫片	7
+jian nan yu xi wang	艰难与希望	7
+jian qiang an	间羟胺	7
+jian qiu zhan lian	睑球粘连	7
+jian shen sheng fa wan	健肾生发丸	7
+jian suo guan jie	肩锁关节	7
+jian tian jie xiang	枧田街乡	7
+jian xi she qu	建西社区	7
+jian zi mi ou jia	煎紫米藕夹	7
+jian an su she	建安宿舍	6
+jian feng cun	建丰村	6
+jian ga xiang	简嘎乡	6
+jian jia ti ji	肩胛提肌	6
+jian lian ke xie	煎连壳蟹	6
+jian long bian chi	建隆编敕	6
+jian nan xiao qu	建南小区	6
+jian ou xian	建瓯县	6
+jian shou zong he zheng	肩手综合征	6
+jian shuo	蹇硕	6
+jian xia chui	睑下垂	6
+jian yu cheng	监狱城	6
+jian cha yuan pai chu ji gou	检察院派出机构	5
+jian jian shan	尖尖山	5
+jian jue dong feng liao qiao han	渐觉东风料峭寒	5
+jian liao	肩髎	5
+jian nan ku hen fan shuang bin	艰难苦恨繁霜鬓	5
+jian pi zhi yi pian	健脾止遗片	5
+jian qian shi zhi xing shuai	鉴前世之兴衰	5
+jian quan jie jie dao	碱泉街街道	5
+jian she gong cheng bao xian zhi du	建设工程保险制度	5
+jian shi hui	碱石灰	5
+jian shou dao	监守盗	5
+jian su bing	碱酥饼	5
+jian suo guan jie tuo wei	肩锁关节脱位	5
+jian tao shi chang	建陶市场	5
+jian xing she qu	建兴社区	5
+jian ye mei sui	菅野美穗	5
+jian ye yang zi	菅野洋子	5
+jian yu er tong lin	见与儿童邻	5
+jian yuan	谏院	5
+jian an shi jiu nian	建安十九年	4
+jian chang hu tong	箭厂胡同	4
+jian de men qiao dong	健德门桥东	4
+jian gen shu	箭根薯	4
+jian gong ji xiao	建工技校	4
+jian gu ying li xian chong	剪股颖粒线虫	4
+jian guang jie dao	剑光街道	4
+jian he hu tong	建和胡同	4
+jian jiang cun	建江村	4
+jian jing lun	简经纶	4
+jian kou	箭口	4
+jian lie ban	睑裂斑	4
+jian min jie dao	建民街道	4
+jian qie he liao sheng	贱妾何聊生	4
+jian shan can ting	兼善餐厅	4
+jian she jie jie dao	建设街街道	4
+jian wai yu	肩外俞	4
+jian xin nan qu	建新南区	4
+jian xin zhuang cun	建新庄村	4
+jian yan ling jiao nang	健延龄胶囊	4
+jian yang lu	简阳路	4
+jian yun lu	建云路	4
+jian zhi xing pang guang yan	间质性膀胱炎	4
+jian an zhong xue	建安中学	3
+jian ben san fen	间苯三酚	3
+jian cai cheng dong li	建材城东里	3
+jian cai cheng huan dao	建材城环岛	3
+jian cao he	涧漕河	3
+jian chi yin hui die	尖翅银灰蝶	3
+jian di	捡底	3
+jian ding lu kou	笕丁路口	3
+jian er zhi xie ke li	健儿止泻颗粒	3
+jian heng	剑鸻	3
+jian jia xia ji	肩胛下肌	3
+jian jiao hao er yu	尖椒耗儿鱼	3
+jian jun zhuang	监军庄	3
+jian mian lian qing shou	见面怜清瘦	3
+jian min xiang	建民乡	3
+jian nan ju wei hui	建南居委会	3
+jian ning jun	建宁郡	3
+jian ru huang du zou fu lai	健如黄犊走复来	3
+jian shan ding	尖山顶	3
+jian shui dong liu fu xiang xi	涧水东流复向西	3
+jian tang	监堂	3
+jian xia cun	涧下村	3
+jian xie re	间歇热	3
+jian xing yan yang jun	兼性厌氧菌	3
+jian yang jiao nang	健阳胶囊	3
+jian ye yi lu	建业一路	3
+jian zhen	肩贞	3
+jian zhong yu	肩中俞	3
+jian ban	肩板	2
+jian cai cheng lian he she qu	建材城联合社区	2
+jian cai wei ren qi jin feng	翦彩为人起晋风	2
+jian cha guan ren zhi hui bi	检察官任职回避	2
+jian cha guan xue xiao	检察官学校	2
+jian chao liang	简朝亮	2
+jian chuang	剪创	2
+jian de men qiao xi	健德门桥西	2
+jian dian xin cun	建电新村	2
+jian dong jie dong duan	建东街东段	2
+jian dou fu yu lao	煎豆腐鱼烙	2
+jian du xin cun	建都新村	2
+jian fu jiang	简福疆	2
+jian guo bei lu wen hui lu kou	建国北路文晖路口	2
+jian he xiao xue	涧河小学	2
+jian hu dao	建湖道	2
+jian hu ji wu ren	涧户寂无人	2
+jian hu li	建湖里	2
+jian hua chang	建华厂	2
+jian huan ci gai yu	肩环刺盖鱼	2
+jian huang liu	睑黄瘤	2
+jian jian bai yuan yin	涧涧白猿吟	2
+jian jie si yin	间接死因	2
+jian jie tui li	间接推理	2
+jian jie wei dian	剪接位点	2
+jian jin qian niu liu	煎金钱牛柳	2
+jian kang lu jie dao	建康路街道	2
+jian li xiang	建黎乡	2
+jian mi san tong zhou	减米散同舟	2
+jian min yan hou pian	健民咽喉片	2
+jian nan hua yuan	建南花园	2
+jian nan kui shen qing	艰难愧深情	2
+jian nan kun ku ping chang shi	艰难困苦平常事	2
+jian pi yi shen ke li	健脾益肾颗粒	2
+jian pu zhai ye niu	柬埔寨野牛	2
+jian quan cun	建全村	2
+jian shan jie	尖山街	2
+jian shan shui ku	尖山水库	2
+jian she fa gui jiao cheng	建设法规教程	2
+jian she xin jie	建设新街	2
+jian shi xue	间使穴	2
+jian shuang feng qi jin	渐霜风凄紧	2
+jian tang cun	涧塘村	2
+jian ting	建婷	2
+jian wei xiao shi kou fu ye	健胃消食口服液	2
+jian wen bei ye jing	兼闻贝叶经	2
+jian wu fa fu qian xiu xi	謇吾法夫前修兮	2
+jian xiao shan yuan shu suo jian	检校山园书所见	2
+jian yu gu rou yuan	渐与骨肉远	2
+jian zhe bu duo ren	俭者不夺人	2
+jian zhe jing you gui shen	见者惊犹鬼神	2
+jian zhen jiu zai zhe li	坚贞就在这里	2
+jian zhi xiang	件只乡	2
+jian zhou yan tie	肩周炎贴	2
+jian zi wan dong kou	剪子湾东口	2
+jian bang zhen	戬浜镇	1
+jian cha wei yuan hui jian cha yuan	检察委员会检察员	1
+jian chang	箭厂	1
+jian chang dao yu hong dong li	建昌道育红东里	1
+jian chao sui er xi ti	謇朝谇而夕替	1
+jian cheng bi yu ye ceng ceng	剪成碧玉叶层层	1
+jian dan fan ying shi	简单反应时	1
+jian dao gui ying su	间道归应速	1
+jian de fei wu tu	建德非吾土	1
+jian de men qiao bei	健德门桥北	1
+jian de shao bing	建德烧饼	1
+jian di he ru ci	见底何如此	1
+jian dian yi pian ji shou shi	检点遗篇几首诗	1
+jian dou cun	剑斗村	1
+jian er gan ji san	健儿疳积散	1
+jian er kuai ma zi you jiang	健儿快马紫游缰	1
+jian er nan lu	建二南路	1
+jian fang xiang	碱房乡	1
+jian fang xin xi wu men	建芳馨兮庑门	1
+jian fen yu yuan tuo	减粉与园箨	1
+jian feng hua yuan	尖峰花园	1
+jian feng qiao xi	尖峰桥西	1
+jian feng shui ni chang	尖峰水泥厂	1
+jian fu dao	荐福道	1
+jian gong ji chun rong	建功及春荣	1
+jian gou lou zhe cheng tiao	见佝偻者承蜩	1
+jian gu fang fei shao	涧谷芳菲少	1
+jian guan ying yu hua di hua	间关莺语花底滑	1
+jian guan zheng ce	监管政策	1
+jian he ban shi chu	涧河办事处	1
+jian hu wu yue liang	鉴湖五月凉	1
+jian hu xin cun	鉴湖新村	1
+jian hua cun	简华村	1
+jian ji luo	肩棘螺	1
+jian jia qiao	简家桥	1
+jian jia wan cun	简家湾村	1
+jian jun qian ri shu	见君前日书	1
+jian kang jiao yu xue	健康教育学	1
+jian kun	坚昆	1
+jian li er wang qi zhen	见利而忘其真	1
+jian men tian xia zhuang	剑门天下壮	1
+jian ming fu	简明富	1
+jian ming ze chen gou bu zhi	鉴明则尘垢不止	1
+jian mu ke er jie dao	坚木克尔街道	1
+jian nan bu gan liao qian qi	艰难不敢料前期	1
+jian nan shan shui jin qing hui	剑南山水尽清晖	1
+jian nao bu shen wan	健脑补肾丸	1
+jian nao yi qi pian	健脑益气片	1
+jian nei fan jiao zheng shu	睑内翻矫正术	1
+jian pi gao pian	健脾糕片	1
+jian pi wu wei wan	健脾五味丸	1
+jian pi xiao shi wan	健脾消食丸	1
+jian pi zhuang yao yao jiu	健脾壮腰药酒	1
+jian qi xiao xin yi li xiao	剑气箫心一例消	1
+jian qiao nang zhong qie chu shu	腱鞘囊肿切除术	1
+jian qie liu kong fang	贱妾留空房	1
+jian qie lv	剪切率	1
+jian qie qiong qiong shou kong fang	贱妾茕茕守空房	1
+jian ren bu yu pin e mei	见人不语颦蛾眉	1
+jian shan cun	剑山村	1
+jian shan jie dao	尖山街道	1
+jian she yu fang di chan fa gui	建设与房地产法规	1
+jian shen chang chun gao	健身长春膏	1
+jian shen yi fei ke li	健肾益肺颗粒	1
+jian shen yi fei kou fu ye	健肾益肺口服液	1
+jian shi ju zhu wei tuo shu	监视居住委托书	1
+jian shi yin he xie	见是银河泻	1
+jian shu shao zhu duan	检书烧烛短	1
+jian shui liu xi zhong zhou	蹇谁留兮中洲	1
+jian shui wu sheng rao zhu liu	涧水无声绕竹流	1
+jian shuo feng liu ji	见说风流极	1
+jian tian jun	菅田俊	1
+jian tou ji xing	尖头畸形	1
+jian wei xiao yan ke li	健胃消炎颗粒	1
+jian wu da jie	建物大街	1
+jian xi lian jie	间隙连接	1
+jian xin xiang	建新巷	1
+jian xing hong chou yi	剑形虹臭蚁	1
+jian xing jian yuan jian wu shu	渐行渐远渐无书	1
+jian xing lu kou	建星路口	1
+jian xing shi chang	建兴市场	1
+jian yan ji tuan	建研集团	1
+jian ye feng wei jue	剑叶凤尾蕨	1
+jian ye san lu	建业三路	1
+jian yi dan gao	简易蛋糕	1
+jian yun tun	煎云吞	1
+jian zhang kong wan li	见长空万里	1
+jian zheng huang yu	煎蒸黄鱼	1
+jian zhi zi qing liang	见之自清凉	1
+jian zhong xiao qu	建中小区	1
+jian zhong zhen	建中镇	1
+jian zhu fa	煎煮法	1
+jian zhuan ji yu	煎转鲫鱼	1
+jian ai zhi li	间矮脂鲤	0
+jian bei yin lin zhu	肩背银鳞蛛	0
+jian bo zha	肩波蚱	0
+jian chi nong die shu	尖翅弄蝶属	0
+jian chun tang shui ying	尖唇螳水蝇	0
+jian ci cao xia gu	尖刺糙虾蛄	0
+jian dan shui mu	煎蛋水母	0
+jian de bang hua yu	建德棒花鱼	0
+jian du xi mi niao	监督吸蜜鸟	0
+jian feng fu ni chong	尖峰负泥虫	0
+jian fu mao yuan zhu	尖腹毛圆蛛	0
+jian fu wei	间副鳚	0
+jian gai ji xia hu yu	剑盖棘鰕虎鱼	0
+jian gong bei yi	肩弓背蚁	0
+jian hu wei wei	间护尾鮠	0
+jian hua feng jia man	间滑缝甲螨	0
+jian ji chi e	间脊尺蛾	0
+jian ji wen xiong zhao	间棘纹胸鮡	0
+jian ji weng yao	尖棘甕鳐	0
+jian jian dan mai sui feng	尖肩淡脉隧蜂	0
+jian jiao huang fen die	尖角黄粉蝶	0
+jian jiao jian mang chun	尖角肩盲蝽	0
+jian jiao jian ye e	健角剑夜蛾	0
+jian pu zhai feng ye ying	柬埔寨缝叶莺	0
+jian pu zhai nian	柬埔寨鲶	0
+jian pu zhai shi ren shui zhi	柬埔寨食人水蛭	0
+jian pu zhai shu yi	柬埔寨舒鮨	0
+jian pu zhai yin xiong si guan niao	柬埔寨银胸丝冠鸟	0
+jian pu zhai zong bei bu niao zhu	柬埔寨棕背捕鸟蛛	0
+jian ru bao	健乳宝	0
+jian ru bao gong si	健乳宝公司	0
+jian shen dai chun	尖身带鰆	0
+jian si mao shui mu	简丝帽水母	0
+jian tou fu mao qi shi shou yu	尖头副矛鳍石首鱼	0
+jian tou mao fu ying	尖头毛浮萤	0
+jian tou xiao wen mang chong	尖头小吻盲虫	0
+jian wei dian pao chong	键为碘泡虫	0
+jian wei hai ying	尖尾海萤	0
+jian wei hui ba weng	剪尾灰霸鹟	0
+jian wei jiao gu yu	尖尾叫姑鱼	0
+jian wei sha wu	尖尾沙鹀	0
+jian wei si long tou yu	尖尾丝隆头鱼	0
+jian wei tie xian cai	尖尾铁苋菜	0
+jian wei tu dai shu	尖尾兔袋鼠	0
+jian wei xi que	尖尾溪雀	0
+jian wei xi xue	尖尾犀鳕	0
+jian wei xia bian chi e	尖尾瑕边尺蛾	0
+jian wei xiao qiao	尖尾肖峭	0
+jian wei xin si long tou yu	尖尾新丝隆头鱼	0
+jian wei xu que er huang	尖尾须缺耳蝗	0
+jian wei yan chong	尖尾眼虫	0
+jian wei you mao lun chong	尖尾疣毛轮虫	0
+jian wei zhen ji	尖尾榛鸡	0
+jian wen de ye e	间纹德夜蛾	0
+jian wen fei zhou pan lu	尖吻非洲攀鲈	0
+jian wen jing	尖吻鲸	0
+jian wen xian chi hai ji	尖吻显齿海鲫	0
+jian wen xie du fu yu	尖吻斜杜父鱼	0
+jian wen zhang jiao jin hua chong	肩纹长脚金花虫	0
+jian xi yi sai gua can	尖细异赛瓜参	0
+jian xiao xia hu yu	箭小鰕虎鱼	0
+jian xing bi wei lun chong	剪形臂尾轮虫	0
+jian xing jiao bei shui mu	箭形角杯水母	0
+jian xing jiu chi li diao	剑形臼齿丽鲷	0
+jian xing yan qi xing dong wu	兼性厌气性动物	0
+jian xing zhang he yu	箭形长颌鱼	0
+jian xiong da yan rong mao jin gui	尖胸大艳绒毛金龟	0
+jian ye hua xi xie	尖叶华溪蟹	0
+jian yin xia jia ji ying	尖音狭颊寄蝇	0
+jian zao zhong chong	剑蚤钟虫	0
+jian zhen su zhu e	尖针素祝蛾	0
+jian zhen zhang xu man	坚真长须螨	0
+jian zhi nan hai xi xie	尖肢南海溪蟹	0
+jian zui ou ke	剪嘴鸥科	0
+jian zui yuan wei he zhen	尖嘴圆尾鹤鱵	0
+jian zui yuan wei he zhen yu	尖嘴圆尾颌针鱼	0

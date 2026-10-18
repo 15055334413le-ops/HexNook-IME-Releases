@@ -1,0 +1,474 @@
+ban quan	版权	13204281
+ban shi chu	办事处	74031
+ban kuai	板块	66615
+ban ben hao	版本号	59417
+ban ben xin xi	版本信息	17899
+ban ben kong zhi	版本控制	11478
+ban ben ku	版本库	8811
+ban ya	板鸭	7492
+ban bi jiang shan	半壁江山	6479
+ban ben geng xin	版本更新	5347
+ban ben guan li	版本管理	5311
+ban ben kong zhi xi tong	版本控制系统	5121
+ban ben sheng ji	版本升级	4609
+ban cai	板材	4260
+ban jiao	半角	3501
+ban qiao	板桥	3221
+ban dian	斑点	2959
+ban tu er fei	半途而废	2611
+ban xin ban yi	半信半疑	2602
+ban ta	班他	2467
+ban shan	半山	2462
+ban ben jian rong	版本兼容	2371
+ban shang ding ding	板上钉钉	2193
+ban huang gua	拌黄瓜	2171
+ban ben kong zhi gong ju	版本控制工具	2102
+ban tian	坂田	2018
+ban lan gen	板蓝根	1965
+ban ben chong tu	版本冲突	1961
+ban shen bu sui	半身不遂	1277
+ban dian cha wei hui	斑点叉尾鮰	1226
+ban ben guan li gong ju	版本管理工具	1202
+ban gong ruan jian	办公软件	1164
+ban quan zhuan rang	版权转让	1135
+ban lian jie	半连接	1117
+ban ben hui tui	版本回退	1048
+ban kuai	斑块	1027
+ban lu chu jia	半路出家	996
+ban ye san geng	半夜三更	942
+ban li cun kuan ye wu	办理存款业务	910
+ban shuai qi	半衰期	893
+ban hen	瘢痕	870
+ban po	半坡	846
+ban mo	瓣膜	797
+ban tou ming xiao guo	半透明效果	795
+ban ping mian jiao	半平面交	739
+ban jian du xue xi	半监督学习	696
+ban ji	班戟	660
+ban tui ban jiu	半推半就	649
+ban gong zi dong hua	办公自动化	633
+ban dou fu	板豆腐	541
+ban shui ting	办税厅	497
+ban hai zhe	拌海蜇	482
+ban nian bao	半年报	481
+ban yue ban	半月板	453
+ban dao jiu dian	半岛酒店	447
+ban sheng dui xiang	伴生对象	432
+ban si bu huo	半死不活	426
+ban sheng bu shu	半生不熟	411
+ban nong shi fei	搬弄是非	404
+ban cang	板仓	396
+ban xia	半夏	382
+ban ben jian ce	版本检测	359
+ban quan zhuan rang he tong	版权转让合同	318
+ban ben kong zhi qi	版本控制器	300
+ban wei	瓣胃	300
+ban qian he tong	搬迁合同	299
+ban zhen ban jia	半真半假	292
+ban tu	斑秃	256
+ban gang	班岗	253
+ban meng ban xing	半梦半醒	242
+ban tang	板塘	238
+ban lan gen ke li	板蓝根颗粒	225
+ban qiu zhen	斑丘疹	218
+ban dao ti cun chu qi	半导体存储器	212
+ban si ban lv	半丝半缕	180
+ban jin ba liang	半斤八两	177
+ban zi dong bian su qi	半自动变速器	172
+ban ke si	班克斯	171
+ban wo sun	拌莴笋	161
+ban du si	拌肚丝	159
+ban zhen shang han	斑疹伤寒	154
+ban yun gong si	搬运公司	150
+ban gu	班固	148
+ban ben shi pei	版本适配	147
+ban ying	半影	147
+ban quan qin quan xing wei	版权侵权行为	143
+ban qiao he	板桥河	138
+ban men nong fu	班门弄斧	137
+ban bi dian	半壁店	136
+ban song yuan lu	半淞园路	135
+ban bo lu li	斑驳陆离	132
+ban ji si	拌鸡丝	123
+ban dao hua yuan	半岛花园	115
+ban zhen	斑疹	114
+ban ling	板岭	113
+ban ru tang	半乳糖	104
+ban yuan jian	半圆键	94
+ban bi xu an ji suan	半必需氨基酸	93
+ban po bo wu guan	半坡博物馆	93
+ban shi hui chao	班师回朝	84
+ban chao	班超	82
+ban ben ding zhi	版本定制	79
+ban shi quan	版式权	73
+ban guang an suan yan suan yan	半胱氨酸盐酸盐	71
+ban dong bu dong	半懂不懂	70
+ban po cun	半坡村	68
+ban xin bu jiu	半新不旧	68
+ban guang an suan	半胱氨酸	66
+ban shan ting	半山亭	65
+ban se diao	半色调	64
+ban shan cun	半山村	64
+ban shan men	半扇门	64
+ban bian shan	半边山	58
+ban yu tang	斑鱼汤	57
+ban ben long yi	坂本龙一	55
+ban nian qi	半年期	53
+ban fen gan	拌粉干	51
+ban hen ti zhi	瘢痕体质	51
+ban yin er	拌银耳	51
+ban ben ce lve	版本策略	47
+ban tian	半田	47
+ban wen ban bai	半文半白	46
+ban bu lun yu zhi tian xia	半部论语治天下	45
+ban mo zhi huan shu	瓣膜置换术	45
+ban hen zu zhi	瘢痕组织	44
+ban ya zhang	拌鸭掌	44
+ban li hong shao rou	板栗红烧肉	38
+ban shan yuan	半山园	38
+ban tou mo	半透膜	36
+ban bu qiao	半步桥	35
+ban shuang gong chuan shu	半双工传输	35
+ban ben long ma	坂本龙马	34
+ban jin dui ba liang	半斤对八两	34
+ban shang	坂上	34
+ban yu gou	斑鱼狗	34
+ban zhi lian	半枝莲	34
+ban gui guan	半规管	33
+ban sheng xiang	板升乡	33
+ban bi he shan	半壁河山	32
+ban dao hong	半道红	32
+ban ji kuai	拌鸡块	32
+ban mu fang tang yi jian kai	半亩方塘一鉴开	31
+ban pian	斑片	31
+ban zhang shan	板樟山	31
+ban zhuang	斑状	31
+ban hen ge da	瘢痕疙瘩	29
+ban ji ban bao	半饥半饱	29
+ban sheng ban shu	半生半熟	29
+ban zhao	班昭	29
+ban dang shi cheng chen	板荡识诚臣	28
+ban ling	半岭	28
+ban mo xing xin zang bing	瓣膜性心脏病	28
+ban shu zhi si liang	半数致死量	28
+ban ke luo fu te	班克罗夫特	27
+ban shan hua yuan	半山花园	27
+ban shi za jiao	搬石砸脚	27
+ban zhou tu yuan	半轴突缘	27
+ban ben bian cheng	版本编程	25
+ban shan dian chang	半山电厂	25
+ban bian lian	半边莲	24
+ban lan gen	板兰根	24
+ban qiao shi	板桥市	24
+ban zhang lu	板章路	23
+ban dong	斑鸫	22
+ban xin ban jiu	半新半旧	22
+ban zhang	板障	22
+ban zhu yi zhi qian di lei	斑竹一枝千滴泪	22
+ban chi mu	半翅目	21
+ban li jiu	板栗酒	21
+ban xiang jie	半湘街	20
+ban jiang se se ban jiang hong	半江瑟瑟半江红	19
+ban jie lou	半截楼	19
+ban quan	阪泉	19
+ban wei lin ge	斑尾林鸽	19
+ban tang jie dao	半汤街道	18
+ban tou	坂头	18
+ban yang	般阳	18
+ban bi jie	半壁街	17
+ban feng he	半枫荷	17
+ban jia	班家	17
+ban li ke	板栗壳	17
+ban zhong	半种	16
+ban zhu dang zhen	斑竹垱镇	16
+ban cang	半仓	15
+ban cang	半藏	15
+ban gao xue ya	伴高血压	15
+ban shui yuan	办税员	15
+ban xi	半溪	15
+ban zhi si nong du	半致死浓度	15
+ban bian qiao	半边桥	14
+ban guan mu	半灌木	14
+ban mao	螌蝥	14
+ban su shao ji	板粟烧鸡	14
+ban lang zi	拌稂子	13
+ban pai	半排	13
+ban qiao lu kou	板桥路口	13
+ban tian qi che zhan	坂田汽车站	13
+ban ceng jiao mo yi zhi shu	板层角膜移植术	12
+ban keng	半坑	12
+ban pi zha er	拌皮渣儿	12
+ban song yuan lu	半凇园路	12
+ban tian rong nan	坂田荣男	12
+ban xie rou	拌蟹肉	12
+ban ye you mei	板野友美	12
+ban zai	坂仔	12
+ban zhong	坂中	12
+ban jing	搬经	11
+ban tian cun	坂田村	11
+ban xing yi chuan	伴性遗传	11
+ban jie lou cun	半截楼村	10
+ban jing	板井	10
+ban lan gen chong ji	板兰根冲剂	10
+ban dian mao tou ying	斑点猫头鹰	9
+ban qiao hu tong	板桥胡同	9
+ban xia bai zhu tian ma tang	半夏白术天麻汤	9
+ban kang yuan	半抗原	8
+ban lan gen pian	板蓝根片	8
+ban ru jiang feng ban ru yun	半入江风半入云	8
+ban ru tang xue zheng	半乳糖血症	8
+ban tou cun	坂头村	8
+ban ye liang chu tou	半夜凉初透	8
+ban dao bi gui yuan	半岛碧桂园	7
+ban di er xiang	班迪尔乡	7
+ban wan	半湾	7
+ban xia qu	半夏曲	7
+ban bi jian hai ri	半壁见海日	6
+ban bu qiao hu tong	半步桥胡同	6
+ban bu te luo	班布特罗	6
+ban chang hu tong	板厂胡同	6
+ban dong	搬东	6
+ban hao chun shui yi cheng hua	半壕春水一城花	6
+ban hen ai	瘢痕癌	6
+ban jiang	板江	6
+ban lan gen zhu she ye	板蓝根注射液	6
+ban mo cheng xing shu	瓣膜成形术	6
+ban shu zhi si ji liang	半数致死剂量	6
+ban yao qiao	半腰桥	6
+ban biao	班彪	5
+ban deng xiang	板凳乡	5
+ban jie hu tong	半截胡同	5
+ban li men zi ji	板栗焖仔鸡	5
+ban ling xiang	板岭乡	5
+ban po dian cun	半坡店村	5
+ban qian bu zhu kuan	搬迁补助款	5
+ban shang hu tong	颁赏胡同	5
+ban tong bao	半同胞	5
+ban yang	班扬	5
+ban you xiang	班佑乡	5
+ban yue qing	半月清	5
+ban zui ban xing zhong	半醉半醒中	5
+ban chui ti ji xing	半椎体畸形	4
+ban dao chen bao she	半岛晨报社	4
+ban jian ji	半腱肌	4
+ban jie he jie dao	半截河街道	4
+ban jing	班井	4
+ban li zi ji	板栗仔鸡	4
+ban pi hong xiao yi zhang ling	半匹红绡一丈绫	4
+ban ru ju tang	半乳聚糖	4
+ban ru tang quan suan	半乳糖醛酸	4
+ban shan men xiang	半扇门乡	4
+ban shi fu ping sui shi shui	半世浮萍随逝水	4
+ban shi si chong bing	班氏丝虫病	4
+ban tang lu	半塘路	4
+ban yuan xiu dao ban yuan jun	半缘修道半缘君	4
+ban ban qiao	板板桥	3
+ban ben zhen	坂本真	3
+ban bi dian sen lin gong yuan	半壁店森林公园	3
+ban chang nan li she qu	板厂南里社区	3
+ban chong	办冲	3
+ban dao shan zhuang	半岛山庄	3
+ban dao yuan	半岛苑	3
+ban gong fa lv hao bang shou	办公法律好帮手	3
+ban gong shi zi dong hua	办公室自动化	3
+ban guang an	半胱胺	3
+ban jiang xiang	板江乡	3
+ban juan hong qi lin yi shui	半卷红旗临易水	3
+ban lan gen cha	板蓝根茶	3
+ban ling cun	半岭村	3
+ban lu	班录	3
+ban ma dao si	斑马导丝	3
+ban ru tang gan mei	半乳糖苷酶	3
+ban xi cun	板溪村	3
+ban xia xie xin tang	半夏泻心汤	3
+ban yuan tui zhu	板垣退助	3
+ban yue ban	半月瓣	3
+ban ben dong mei	坂本冬美	2
+ban ben zhen ling	坂本真绫	2
+ban chi mu chun ke	半翅目蝽科	2
+ban chi shu	板齿鼠	2
+ban gui jie	板桂街	2
+ban hen xing tuo fa	瘢痕性脱发	2
+ban kai tao li bu sheng wei	半开桃李不胜威	2
+ban lan gen di wan	板蓝根滴丸	2
+ban li wan	板栗湾	2
+ban li ya xiang	板栗垭乡	2
+ban li yue bing	板栗月饼	2
+ban lin ge	斑林鸽	2
+ban luo qing tian wai	半落青天外	2
+ban lv yi bei	斑驴贻贝	2
+ban ru tang ji mei	半乳糖激酶	2
+ban ru tang ji zhuan yi mei	半乳糖基转移酶	2
+ban sai ya gang	板鳃亚纲	2
+ban tian cun wei	坂田村委	2
+ban tian gong ye qu	坂田工业区	2
+ban tou she qu	坂头社区	2
+ban xia tang jiang	半夏糖浆	2
+ban xia tian ma wan	半夏天麻丸	2
+ban ye xi hong	半野喜弘	2
+ban yin lu bei kou	半引路北口	2
+ban yin yang	半阴阳	2
+ban zhou chi lun dian	半轴齿轮垫	2
+ban zhuang fu	板状腹	2
+ban ben chang xing	坂本昌行	1
+ban biao ban li	半表半里	1
+ban bo bing	斑驳病	1
+ban ceng zhuang yu lin bing	板层状鱼鳞病	1
+ban chun	鳻鶞	1
+ban da xiang	昄大乡	1
+ban dian cha wei hui bing du	斑点叉尾鮰病毒	1
+ban dian dong fang tun	斑点东方鲀	1
+ban dong cun	板洞村	1
+ban dou fu gan si	拌豆腐干丝	1
+ban geng xiang	板庚乡	1
+ban hen xing jian nei fan	瘢痕性睑内翻	1
+ban hou qie chu shu	半喉切除术	1
+ban ji sheng zhi wu	半寄生植物	1
+ban jia zhuang	班家庄	1
+ban jie ta zhen	半截塔镇	1
+ban lan gen kou fu ye	板蓝根口服液	1
+ban lan gen liang cha	板蓝根凉茶	1
+ban lan gen tang jiang	板蓝根糖浆	1
+ban lan qing re ke li	板蓝清热颗粒	1
+ban li	斑鱧	1
+ban li bao lao ji	板栗煲老鸡	1
+ban lu liang ting	半路凉亭	1
+ban luo xin fu	斑络新妇	1
+ban mao zhong du	斑蝥中毒	1
+ban miao xiang	板庙乡	1
+ban mo ji	半膜肌	1
+ban pi hong sha yi zhang ling	半匹红纱一丈绫	1
+ban ping shan lu	半屏山路	1
+ban qiao gong ye qu	板桥工业区	1
+ban qiao zi	板桥子	1
+ban ri hua ke	半日花科	1
+ban ru tang ji mei que fa	半乳糖激酶缺乏	1
+ban ru tang xing bai nei zhang	半乳糖性白内障	1
+ban shan chun wan ji shi	半山春晚即事	1
+ban sheng shen lao xin xian	半生身老心闲	1
+ban shi dang nian shi fang weng	半是当年识放翁	1
+ban sui mian yi	伴随免疫	1
+ban ta cun	半塔村	1
+ban tang qu	板塘区	1
+ban tian yin shi	坂田银时	1
+ban tou xing	半透性	1
+ban xi lin chang	板溪林场	1
+ban xia hou po tang	半夏厚朴汤	1
+ban xia zhi ke tang jiang	半夏止咳糖浆	1
+ban xing ban zui ri fu ri	半醒半醉日复日	1
+ban yue zhou bi	半月皱襞	1
+ban zao xiang	班枣乡	1
+ban zhan tu su you wei ju	半盏屠苏犹未举	1
+ban zhu yi zhi qian di lei	斑竹一支千滴泪	1
+ban bei yan wei	斑背燕尾	0
+ban chi fu jiao chan	斑翅负角蝉	0
+ban chi gou jing tiao jia	斑翅沟胫跳甲	0
+ban chi hu you	斑翅虎鮋	0
+ban chi hu you	斑翅虎鲉	0
+ban chi mu fu zi chun ke	半翅目负子蝽科	0
+ban chi mu zhu yuan chun ke	半翅目蛛缘蝽科	0
+ban chi xi jiao hua chun	斑翅细角花蝽	0
+ban ci bi dan ji tun	斑刺鼻单棘鲀	0
+ban ci mang kang xia	半刺盲糠虾	0
+ban dai ji shi zhi teng	半带吉氏指鰧	0
+ban deng e	班灯蛾	0
+ban dian an ao yi	斑点暗澳鮨	0
+ban dian bei wei	斑点北鳚	0
+ban dian dan ji bi yu	斑点单棘躄鱼	0
+ban dian hong you	斑点红鮋	0
+ban dian ji long chang	斑点鸡笼鲳	0
+ban dian ji shi tai wei	斑点吉氏胎鳚	0
+ban dian jia ji you	斑点颊棘鮋	0
+ban dian juan ye ye ming	斑点卷叶野螟	0
+ban dian mu ye die	斑点木叶鲽	0
+ban dian niu sai zun	斑点纽鳃樽	0
+ban dian wei ying	斑点尾鹰	0
+ban dian xiao man luo	斑点小鬘螺	0
+ban dian xie chi xi	班点楔齿蜥	0
+ban dian yuan wen mao sha	斑点圆吻猫鲨	0
+ban dian zhen hai jing rong	斑点真海精戎	0
+ban dian zhou chun sha	斑点皱唇鲨	0
+ban die di e	斑蝶敌娥	0
+ban fang xian xing hai luo	伴放线形海螺	0
+ban fu long pian ye feng	斑腹隆片叶蜂	0
+ban gan lian wei zhao	班甘连尾鮡	0
+ban gao ci yuan xi chong	瓣睾刺缘吸虫	0
+ban gong ying chi e	斑弓莹尺蛾	0
+ban heng ci yuan xi chong	斑鸻刺缘吸虫	0
+ban hou xi mei	斑喉希鹛	0
+ban jia ai ge	斑颊哀鸽	0
+ban jia ning xia hu yu	斑颊泞鰕虎鱼	0
+ban jian ji di jiu	斑肩姬地鸠	0
+ban jiao diao	斑角吊	0
+ban jiao long xiong zhang chun	斑角隆胸长蝽	0
+ban juan wei dai diao shu	斑卷尾袋貂属	0
+ban liang yong kong niu chong	斑两用孔纽虫	0
+ban ma bian shi xie	斑马扁石蝎	0
+ban ma fei luo	斑馬榧螺	0
+ban ma ke cai ha	斑马壳菜蛤	0
+ban ma wen ban	班马纹班	0
+ban ma wen die	斑马纹蝶	0
+ban ma wen duo bi suo you	斑马纹多臂簑鮋	0
+ban ma yi fa luo	斑馬翼法螺	0
+ban ma zong dong yuan	斑马总动员	0
+ban mai yuan hua ying	斑脉缘花蝇	0
+ban mang chun	斑莽蝽	0
+ban mao tui ye ying	斑毛腿夜鹰	0
+ban mian dao diao	斑面倒吊	0
+ban mian dao diao yu	斑面倒吊鱼	0
+ban mu cui lin chong	斑目脆鳞虫	0
+ban na bo ge mi nu si yu	班纳博格米努斯鱼	0
+ban ni dan jiao tun	斑拟单角鲀	0
+ban niu fa luo	半扭法螺	0
+ban niu han	半扭蚶	0
+ban qi xiao xia hu yu	斑鳍小鰕虎鱼	0
+ban qi yuan lin you	斑鳍圆鳞鲉	0
+ban qiang hai dan	斑腔海膽	0
+ban qing bu jia	斑青步甲	0
+ban shi mo xiao ye jia	班氏漠肖叶甲	0
+ban tu xie ying ha	半凸楔樱蛤	0
+ban tui mo tian niu	斑腿墨天牛	0
+ban wei ci xia hu	斑尾刺鰕虎	0
+ban wei di xian lie	斑尾低线鱲	0
+ban wei fu xia hu yu	斑尾复鰕虎鱼	0
+ban wei gang guo qin zhi li	斑尾刚果琴脂鲤	0
+ban wei gou mu yu	斑尾狗母鱼	0
+ban wei lin qi mei diao	斑尾鳞鳍梅鲷	0
+ban wei ling que wu	斑尾岭雀鹀	0
+ban wei mei zhou gui	斑尾美洲鱥	0
+ban wei mo bai ling	斑尾漠百灵	0
+ban wei ou	斑尾鸥	0
+ban wei wan zui xi niao	斑尾弯嘴犀鸟	0
+ban wei wei zhu li yu	斑尾维住丽鱼	0
+ban wei xia kou nian	半尾下口鲶	0
+ban wei xiao xia hu yu	斑尾小鰕虎鱼	0
+ban wei yang la	斑尾羊鯻	0
+ban wei yao juan	斑尾咬鹃	0
+ban wei ye e	斑委夜蛾	0
+ban wei yi ju	斑尾蚁鵙	0
+ban wei zi hou feng niao	斑尾髭喉蜂鸟	0
+ban wen bei jia ci yu	半纹背颊刺鱼	0
+ban wen chun zhi	斑纹唇指	0
+ban wen cu wen hai long	斑纹粗吻海龙	0
+ban wen feng chao xia hu yu	斑纹蜂巢鰕虎鱼	0
+ban wen guang bi yu	斑纹光躄鱼	0
+ban wen ka na zao niao	斑纹卡纳灶鸟	0
+ban wen nang wei you wei	斑纹囊胃鼬鳚	0
+ban weng yao	斑甕鳐	0
+ban xian wei nang hai long	半线尾囊海龙	0
+ban xie chi zhao mang chun	斑楔齿爪盲蝽	0
+ban xie tou chi mang chun	斑楔透翅盲蝽	0
+ban xiong gou zui mei	斑胸钩嘴鹛	0
+ban ya ba weng	斑哑霸鹟	0
+ban ye lu jiao shan hu	板叶鹿角珊瑚	0
+ban ye zhi xie hu	半叶趾蝎虎	0
+ban ying xiao	斑鹰鸮	0
+ban yuan biao ke chong	半圆表壳虫	0
+ban yuan guang chi xiao juan e	半圆广翅小卷蛾	0
+ban yuan ju guan lun chong	半圆巨冠轮虫	0
+ban yuan yan er lu zhong	半圆掩耳露螽	0
+ban zhen hui ban dian cha wei	斑真鮰斑点叉尾	0
+ban zhi hei ying	斑跖黑蝇	0
+ban zhi jiao kou tou chong	斑栉角叩头虫	0
+ban zhong wei ye e	斑重尾夜蛾	0
+ban zui ju pi ti	斑嘴巨鸊鷉	0

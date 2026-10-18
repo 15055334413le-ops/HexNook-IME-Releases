@@ -1,0 +1,335 @@
+ding dan	订单	61502
+ding jia	定价	52095
+ding dian	定点	50653
+ding yi lei	定义类	12310
+ding jin	定金	11460
+ding feng	顶峰	8079
+ding shi ren wu	定时任务	6635
+ding gua gua	顶呱呱	6200
+ding xiang mu ji	定向募集	5710
+ding suan	丁酸	5596
+ding shi zhi xing	定时执行	3750
+ding tong	丁酮	3658
+ding xi shi	定西市	2832
+ding ning	丁宁	2597
+ding zi lu kou	丁字路口	2595
+ding ben xiang jiao	丁苯橡胶	2569
+ding ji xiang jiao	丁基橡胶	2114
+ding yue hao	订阅号	1889
+ding tian li di	顶天立地	1848
+ding jie fu	定界符	1814
+ding wei fu wu	定位服务	1807
+ding wei	丁伟	1748
+ding yi yu	定义域	1636
+ding dian zhao se qi	顶点着色器	1559
+ding shen	定神	1485
+ding li	鼎立	1419
+ding yi shu ju lei xing	定义数据类型	1401
+ding shi shua xin	定时刷新	1305
+ding ji yu ming	顶级域名	1275
+ding li mo bai	顶礼膜拜	1224
+ding dian shu	定点数	1150
+ding jun hui	丁俊晖	1118
+ding li xiang zhu	鼎力相助	1073
+ding zhi	定址	936
+ding lei	丁磊	927
+ding gai	顶盖	843
+ding dan xi tong	订单系统	609
+ding ding da ming	鼎鼎大名	582
+ding shi bei fen	定时备份	573
+ding zhou shi	定州市	565
+ding shi diao du	定时调度	549
+ding hai	定海	541
+ding zhao zhong	丁肇中	540
+ding huai men	定淮门	533
+ding cheng	鼎城	529
+ding sun ren yuan	定损人员	511
+ding qiao	丁桥	506
+ding ling	丁玲	505
+ding ri	定日	494
+ding qi wei hu	定期维护	489
+ding fu zhuang	定福庄	484
+ding wang tai	定王台	471
+ding xiang fen	丁香酚	459
+ding jia zhuang	丁家庄	435
+ding gu	顶骨	434
+ding piao xi tong	订票系统	430
+ding xiao bing	丁晓兵	427
+ding tou	定投	424
+ding wei shi jian	定位时间	414
+ding zi qiao	丁字桥	394
+ding ji fen	定积分	382
+ding shi guan ji	定时关机	381
+ding yi fu	定义符	374
+ding ding you ming	鼎鼎有名	357
+ding sheng gao	定胜糕	356
+ding ling	定陵	353
+ding ri fu kuan	定日付款	352
+ding xiang yuan	丁香园	350
+ding nan	定南	336
+ding xi lu	定西路	332
+ding xiang	定襄	308
+ding dang	丁当	299
+ding tao	定陶	293
+ding yi jie duan	定义阶段	276
+ding zhi bao xian he tong	定值保险合同	275
+ding hu shang su	鼎湖上素	272
+ding zi kou	丁字口	266
+ding xiang fen	丁香粉	258
+ding jian hua	丁建华	243
+ding bian hu	鼎边糊	236
+ding yi xing	定义性	236
+ding an lu	定安路	217
+ding shui	定税	205
+ding guo an bang	定国安邦	192
+ding shan	丁山	191
+ding xian	定县	184
+ding xiang mu ji she li	定向募集设立	184
+ding liang yan jiu	定量研究	181
+ding ru chang	丁汝昌	159
+ding xing	定兴	148
+ding ting	丁汀	143
+ding suan yi zhi	丁酸乙酯	141
+ding qing	丁青	135
+ding dian yun suan	定点运算	133
+ding shi ren wu diao du	定时任务调度	128
+ding er tong	丁二酮	126
+ding chuan	定喘	123
+ding jia qiao	丁家桥	119
+ding xiang lu	丁香路	119
+ding cheng	鼎诚	117
+ding xiang sou suo	定向搜索	111
+ding jie	定结	102
+ding hui si	定慧寺	90
+ding hui qiao	定慧桥	88
+ding can xi tong	订餐系统	87
+ding dian hun he	顶点混合	85
+ding wen jiang	丁文江	83
+ding zu er li	鼎足而立	82
+ding dian fu gai	顶点覆盖	79
+ding jun	丁军	79
+ding yu yi zun	定于一尊	78
+ding xing yan jiu	定性研究	69
+ding wei	丁薇	63
+ding xue gong gao	顶雪贡糕	62
+ding ding dang dang	丁丁当当	60
+ding jia cun	丁家村	56
+ding ding lu	定鼎路	55
+ding zu zhi shi	鼎足之势	54
+ding ji qiang ji hui xiang mi	丁基羟基茴香醚	52
+ding xi di qu	定西地区	52
+ding hu shan cha bing	鼎湖山茶饼	51
+ding shi diao du ren wu	定时调度任务	51
+ding nei	顶内	50
+ding zi jie	丁字街	50
+ding xiang pai gu	丁香排骨	49
+ding ji	丁集	47
+ding qiang	丁墙	46
+ding xing miao shu	定性描述	44
+ding ji	酊剂	43
+ding ran	丁然	42
+ding jia shan	丁家山	41
+ding zhuang	丁庄	41
+ding ri chang	丁日昌	39
+ding xin ge gu	鼎新革故	39
+ding li	丁立	38
+ding ya	顶芽	38
+ding shi ding mao shi mao	丁是丁卯是卯	37
+ding xiang lan	丁香榄	35
+ding xiang zhou zi	丁香肘子	34
+ding hai lu	定海路	33
+ding ding gao	顶顶糕	32
+ding tai feng xiao long bao	鼎泰丰小笼包	32
+ding xiang li	定向力	32
+ding dian	丁店	31
+ding shi ban che	定时班车	30
+ding tian	鼎天	27
+ding xiang zhang ai	定向障碍	27
+ding yu	丁于	27
+ding bao zhen	丁宝桢	26
+ding zi jun	丁子峻	26
+ding hai qiao	定海桥	25
+ding yun	丁芸	25
+ding zi gu	丁字沽	23
+ding guo xian	丁果仙	22
+ding xiang zheng rou	定襄蒸肉	22
+ding ni sheng	丁尼生	21
+ding suan ding zhi	丁酸丁酯	21
+ding xiang jie	丁香街	21
+ding zu er san	鼎足而三	21
+ding shi e	丁是娥	20
+ding shi fen xi	定时分析	20
+ding suo	丁所	20
+ding yang	丁杨	20
+ding yuan zhu	定远猪	20
+ding ning shuan se	耵聍栓塞	19
+ding an ka na mei su	丁胺卡那霉素	18
+ding bai cun	丁白村	18
+ding bing nuo fei	丁丙诺啡	18
+ding xiang zeng fa	定向增发	17
+ding yan	丁堰	17
+ding fu huang zhuang cun	定福黄庄村	15
+ding yuan	丁原	15
+ding fu ren	丁夫人	14
+ding gui	丁鱥	14
+ding hai cun	定海村	14
+ding lou	丁楼	14
+ding cun	顶村	13
+ding fang	定坊	13
+ding bing	丁丙	12
+ding fu zhuang cun	定福庄村	12
+ding gan ren	丁甘仁	12
+ding xian	丁贤	12
+ding dong xiang	定东乡	11
+ding ge zhuang	丁各庄	11
+ding hui si dong	定慧寺东	11
+ding jia gou xiang	丁家沟乡	11
+ding jing	丁敬	11
+ding mao jie dao	丁卯街道	11
+ding wen qi	丁文琪	11
+ding xi lin	丁西林	11
+ding xiang xun lian	定向训练	11
+ding yi	丁义	11
+ding hui qiao bei	定慧桥北	10
+ding fu huang zhuang	定福黄庄	9
+ding jia shan jing qu	丁家山景区	9
+ding shen	丁申	9
+ding shen shu	定身术	9
+ding xiang hu tong	丁香胡同	9
+ding xiang ya	丁香鸭	9
+ding jia ba	丁家坝	8
+ding jia tan	丁家滩	8
+ding ling hua	丁凌华	8
+ding yu	鼎屿	8
+ding yuan shi che chang	定远试车场	8
+ding zi gu yi hao lu	丁字沽一号路	8
+ding dao heng	丁道衡	7
+ding feng bai cu	鼎丰白醋	7
+ding hai xian	定海县	7
+ding hui qiao nan	定慧桥南	7
+ding jia zhuang	丁甲庄	7
+ding si dang zhen	丁司垱镇	7
+ding suan yi wu zhi	丁酸异戊酯	7
+ding tang zhen	丁塘镇	7
+ding xiang jiang tang	丁香姜糖	7
+ding xiang ye	丁香叶	7
+ding yan yan	丁艳燕	7
+ding bai lu xi kou	丁白路西口	6
+ding bo	定波	6
+ding bu fu xiang si yi	定不负相思意	6
+ding hai xin cun	定海新村	6
+ding xin zhuang cun	定辛庄村	6
+ding an zhen	定安镇	5
+ding chuan xue	定喘穴	5
+ding hui bei qiao	定慧北桥	5
+ding jia bao	丁家堡	5
+ding qiao zhen zheng fu	丁桥镇政府	5
+ding suan bian zhi	丁酸苄酯	5
+ding tu	顶突	5
+ding wei fen	丁惟汾	5
+ding wen xiang	丁文祥	5
+ding yi	丁仪	5
+ding fei	丁斐	4
+ding feng	丁奉	4
+ding ge di er	丁咯地尔	4
+ding ju hu tong	定居胡同	4
+ding ka yin	丁卡因	4
+ding ling dao kou	定陵道口	4
+ding ning dian	叮咛店	4
+ding xiang gong yu	丁香公寓	4
+ding xiang you fen	丁香油酚	4
+ding xing jue ce fa	定性决策法	4
+ding yan	丁晏	4
+ding yi	丁轶	4
+ding zan	丁瓒	4
+ding zhai	顶寨	4
+ding zhi cheng	丁志成	4
+ding zi gu	丁字古	4
+ding zi gu san hao lu	丁字沽三号路	4
+ding fu zhuang xi cun	定福庄西村	3
+ding gao chuang zuo	定稿创作	3
+ding gong teng	丁公藤	3
+ding hui qiao dong	定慧桥东	3
+ding ji wan	丁济万	3
+ding jing yi	丁静怡	3
+ding ning zhen	定宁镇	3
+ding xi	丁溪	3
+ding xiao feng	丁晓峰	3
+ding xin xiang	顶新乡	3
+ding xuan wan	定眩丸	3
+ding ying cun	丁营村	3
+ding zi hu tong	丁字胡同	3
+ding zi lu kou	丁子路口	3
+ding zi suo	钉子所	3
+ding bo xiang	定波乡	2
+ding fu bao	丁福保	2
+ding fu yan	丁佛言	2
+ding gong li hui	钉宫理惠	2
+ding guo tang	丁果糖	2
+ding jiao	顶交	2
+ding kou li zhong wan	丁蔻理中丸	2
+ding li cheng	丁立诚	2
+ding luo huan tong	丁螺环酮	2
+ding mi han xian	顶泌汗腺	2
+ding ren shan	丁仁山	2
+ding sheng tian gong	鼎盛天工	2
+ding shi ci tang	丁氏祠堂	2
+ding tai	丁泰	2
+ding ti	顶体	2
+ding ti fan ying	顶体反应	2
+ding xi cun	丁溪村	2
+ding xian yan zhen	定仙墕镇	2
+ding xiang jun	定襄郡	2
+ding yin hu tong	顶银胡同	2
+ding yuan gong	丁元公	2
+ding zhi yu tu shi fen yuan	定知玉兔十分圆	2
+ding zhong men jie dao	定中门街道	2
+ding zi gu er hao lu	丁字沽二号路	2
+ding zi jiang	丁子江	2
+ding an qiao	定安桥	1
+ding an yuan	定安苑	1
+ding bao chen	丁宝臣	1
+ding bei xiang	丁陂乡	1
+ding bian yang gao rou	定边羊羔肉	1
+ding bing quan	丁炳权	1
+ding de long	丁德隆	1
+ding fei	定妃	1
+ding fei zhi shi ren	定非知诗人	1
+ding guan	丁管	1
+ding hu nei wai zhi fen	定乎内外之分	1
+ding jia bao cun	丁家堡村	1
+ding jia qiao cun	丁家桥村	1
+ding jie xiang	定结乡	1
+ding lan shao shi mu	丁兰少失母	1
+ding li she qu	鼎力社区	1
+ding liang zi liao	定量资料	1
+ding peng ru gao	丁硼乳膏	1
+ding qun yan jiu	定群研究	1
+ding shan xiang	丁山乡	1
+ding shi mi jia shu hua chuan	定是米家书画船	1
+ding si fei wan qian	鼎司费万钱	1
+ding suan qing hua ke di song	丁酸氢化可的松	1
+ding tai xin cai	鼎泰新材	1
+ding xi nan li she qu	定西南里社区	1
+ding xi ya tong jiao nang	丁细牙痛胶囊	1
+ding xiang	顶乡	1
+ding xiang kong jie yu zhong chou	丁香空结雨中愁	1
+ding xiang xi bao	定向细胞	1
+ding xiang you bian	定向诱变	1
+ding xing bing du xing gan yan	丁型病毒性肝炎	1
+ding yao kang	丁耀亢	1
+ding zhang hu tong	丁章胡同	1
+ding zhuang zai nan gang	丁壮在南冈	1
+ding ce ji ban ya	钉侧棘斑蚜	0
+ding cun dong wu qun	丁村动物群	0
+ding hai wan ding xiang yu	定海湾丁香鱼	0
+ding jia chi zhen	丁加齿鱵	0
+ding kong sha qian	顶孔沙钱	0
+ding ping xiao shi xin chong	顶平小食心虫	0
+ding shi mu chan dian fen	丁氏木铲电鱝	0
+ding tu yuan xi zhu	钉突圆膝蛛	0
+ding xian zhu xin pin xi	定县猪新品系	0
+ding xiang	丁香	0
+ding xiang wei xiao ying wu	丁香尾小鹦鹉	0
+ding yuan hei zhu	定远黑猪	0
+ding yuan mei yu	定远梅鱼	0

@@ -1,0 +1,339 @@
+chu tai	出台	385053
+chu shi hua	初始化	372767
+chu kou	出口	189527
+chu shi	初始	117023
+chu shou	出售	104773
+chu bei	储备	79268
+chu qi	初期	64890
+chu ban she	出版社	36484
+chu kou jia gong qu	出口加工区	23842
+chu li fang fa	处理方法	21857
+chu xie	出血	21452
+chu zhan	出栈	18366
+chu xu	储蓄	18268
+chu fa qi	触发器	16583
+chu li cheng xu	处理程序	15897
+chu mu jing xin	触目惊心	14766
+chu shi zhuang tai	初始状态	14707
+chu fang	处方	13333
+chu shi hua fang fa	初始化方法	11875
+chu ren yi liao	出人意料	10861
+chu mo shi jian	触摸事件	9452
+chu mou hua ce	出谋划策	9352
+chu ju	出局	9195
+chu li shi jian	处理事件	8951
+chu tao	出逃	8642
+chu huo	出货	8617
+chu hu yi liao	出乎意料	7834
+chu li su du	处理速度	7748
+chu dui	出队	6690
+chu zhi	初值	6145
+chu ban fa xing shi ye	出版发行事业	5547
+chu mo ping	触摸屏	5371
+chu na	出纳	4916
+chu fang yao	处方药	4004
+chu zi ren	出资人	3993
+chu shi hua lie biao	初始化列表	3786
+chu sheng lv	出生率	3612
+chu shou ke ji	触手可及	3349
+chu kou xin dai	出口信贷	3109
+chu kou shang	出口商	2985
+chu zhou shi	滁州市	2935
+chu ping	触屏	2873
+chu shi hua shun xu	初始化顺序	2752
+chu jue	触觉	2373
+chu lei ba cui	出类拔萃	2209
+chu li dan yuan	处理单元	2112
+chu cuo chu li	出错处理	2097
+chu zu gong si	出租公司	2084
+chu er fan er	出尔反尔	2066
+chu xu ka	储蓄卡	2041
+chu shi xu lie	初始序列	2039
+chu zu ren	出租人	1892
+chu xin ji lv	处心积虑	1728
+chu qi bu yi	出其不意	1707
+chu ren tou di	出人头地	1655
+chu li liu	处理流	1585
+chu yan bu xun	出言不逊	1518
+chu xiong zhou	楚雄州	1511
+chu shi hua kuai	初始化块	1499
+chu chu mao lu	初出茅庐	1486
+chu cuo	除错	1470
+chu e wu jin	除恶务尽	1418
+chu zi e	出资额	1375
+chu ping shi jian	触屏事件	1304
+chu xu suo	储蓄所	1256
+chu li qia dang	处理恰当	1242
+chu dian	触点	1224
+chu cuo lv	出错率	1171
+chu sheng ru si	出生入死	1107
+chu yu wu nai	出于无奈	1088
+chu suo	出所	1053
+chu shen ru hua	出神入化	953
+chu dian	出点	940
+chu chuang qi ye	初创企业	889
+chu xu lv	储蓄率	889
+chu ye guan	储液罐	864
+chu hu yu liao	出乎预料	761
+chu qi zhi sheng	出奇制胜	746
+chu jing sheng qing	触景生情	733
+chu sheng niu du bu pa hu	初生牛犊不怕虎	731
+chu qing	出清	721
+chu shou	触手	721
+chu mou xian ce	出谋献策	692
+chu mo ban	触摸板	672
+chu shi bu li	出师不利	604
+chu xie dian	出血点	602
+chu xie re	出血热	577
+chu zi e zhuan rang	出资额转让	537
+chu kou tui shui zhi du	出口退税制度	535
+chu xiong shi	楚雄市	533
+chu yu ni er bu ran	出淤泥而不染	509
+chu chao	初潮	499
+chu li qi diao du	处理器调度	451
+chu lei pang tong	触类旁通	429
+chu chu dong ren	楚楚动人	427
+chu chao	出超	414
+chu ban fa xing quan	出版发行权	391
+chu ban wu jing ying xu ke zheng	出版物经营许可证	391
+chu fa dui xiang	触发对象	383
+chu kong ban	触控板	381
+chu tou zhi ri	出头之日	373
+chu lu feng mang	初露锋芒	362
+chu bao an liang	除暴安良	356
+chu chan qi	除颤器	346
+chu mu jing xin	怵目惊心	324
+chu ji	除极	319
+chu he han jie	楚河汉界	316
+chu kou cheng zhang	出口成章	311
+chu fei ji mo wei	除非己莫为	308
+chu kou ye	出口业	304
+chu zhen	触诊	275
+chu yi gong xin	出以公心	274
+chu li qi guan li	处理器管理	271
+chu shi tu di deng ji	初始土地登记	271
+chu chu ke lian	楚楚可怜	270
+chu shi jian	出事件	270
+chu shi ji shu	初始计数	261
+chu ren yi wai	出人意外	255
+chu quan pan jue	除权判决	250
+chu jiu bu xin	除旧布新	249
+chu zhou qu	楚州区	237
+chu zhi tai ran	处之泰然	229
+chu qi men	储奇门	226
+chu hu yi wai	出乎意外	216
+chu he ri dang wu	锄禾日当午	213
+chu ren yi biao	出人意表	195
+chu shui fu rong	出水芙蓉	191
+chu cun ku	储存库	186
+chu li qi fen pei	处理器分配	176
+chu shi wei jie shen xian si	出师未捷身先死	174
+chu xie qing xiang	出血倾向	165
+chu deng shu lun	初等数论	158
+chu kou shang ren	出口伤人	157
+chu shi ti sheng	初试啼声	157
+chu cuo wen jian	出错文件	148
+chu xie xing xiu ke	出血性休克	145
+chu wu ni er bu ran	出污泥而不染	144
+chu tou lou mian	出头露面	132
+chu mu jie shi	触目皆是	126
+chu shi mo xing	初始模型	125
+chu lu tou jiao	初露头角	124
+chu jing shang qing	触景伤情	122
+chu xian xu lie	出现序列	122
+chu mo ji zhi	触摸机制	121
+chu mei zhuan huan qi	触媒转换器	111
+chu fang guan li ban fa	处方管理办法	110
+chu ya	出牙	110
+chu fa qi	除法器	103
+chu shi chi cun	初始尺寸	103
+chu wai gui ding	除外规定	99
+chu li bu jian	处理部件	97
+chu huai wang	楚怀王	94
+chu ying zhan chi	雏鹰展翅	94
+chu ji shi jue	初级视觉	92
+chu chu wen ti niao	处处闻啼鸟	88
+chu jing	除净	83
+chu qian	出千	83
+chu sui liang	褚遂良	80
+chu xi	除息	79
+chu zhuang wang	楚庄王	78
+chu liu xiang	楚留香	67
+chu li qi ji shu	处理器技术	66
+chu feng qing yu lao feng sheng	雏凤清于老凤声	63
+chu que wu shan bu shi yun	除却巫山不是云	62
+chu ming ying ye ren	出名营业人	60
+chu qiang fu ruo	锄强扶弱	60
+chu jiang ru xiang	出将入相	57
+chu shi feng mang	初试锋芒	56
+chu ye ping	储液瓶	55
+chu shi tou ming du	初始透明度	51
+chu lu kou	出炉口	43
+chu shou chu ru jing zheng jian zui	出售出入境证件罪	43
+chu men zai wai	出门在外	42
+chu yuan	初元	42
+chu chong jing	除虫精	40
+chu xian	滁县	38
+chu lu wen du	出炉温度	36
+chu xie shi jian	出血时间	35
+chu cuo zhong duan	出错中断	34
+chu mo feng bo li	出没风波里	34
+chu shi dai ma kuai	初始代码块	33
+chu shi you ming	出师有名	33
+chu wei wang	楚威王	33
+chu run er yu	础润而雨	32
+chu sheng zhi du	初生之犊	32
+chu shi biao shi	初始标识	32
+chu yu yi wai	出于意外	32
+chu jia	初家	31
+chu zhou shu	除皱术	31
+chu guai lou chou	出乖露丑	30
+chu tou de chuan zi xian lan	出头的椽子先烂	30
+chu bei tou cun	储备头寸	27
+chu di bu yi	出敌不意	26
+chu shi wu ming	出师无名	25
+chu zhong ren zhi suo e	处众人之所恶	25
+chu jia	褚家	24
+chu ping wang	楚平王	24
+chu zhuang zhi	杵状指	24
+chu li ji dui	处理机对	23
+chu cun su zhu	储存宿主	22
+chu mo wu chang	出没无常	22
+chu ru ren zui	出入人罪	22
+chu ling wang	楚灵王	20
+chu shan quan shui zhuo	出山泉水浊	20
+chu wang ling	楚王陵	19
+chu wen wang	楚文王	19
+chu ji yun wei	初级运维	18
+chu li ji zhuang tai zi	处理机状态字	18
+chu hua yuan	出花园	17
+chu wen ti lei man yi shang	初闻涕泪满衣裳	17
+chu ban wu yin shua guan li gui	出版物印刷管理规	16
+chu wu wang	楚武王	16
+chu ci ying da	初次应答	15
+chu ji suan fa	初级算法	15
+chu zhao wang	楚昭王	15
+chu min yi	褚民谊	14
+chu zhang ze hai fu pian	除障则海甫片	14
+chu cheng wang	楚成王	13
+chu ni xiang	杵坭乡	13
+chu xiang jie	楚湘街	13
+chu men ju shi kan hua ren	出门俱是看花人	12
+chu fu jiang zhen	出阝江镇	9
+chu nv mo bi suo	处女膜闭锁	9
+chu ren huo	褚人获	9
+chu qing xiang wang	楚顷襄王	8
+chu guang xi	储光羲	7
+chu ku ying hu tong	储库营胡同	7
+chu xiong xian	楚雄县	7
+chu hun san si ge yue	初婚三四个月	6
+chu mao	触毛	6
+chu ru ao men du bo	出入澳门赌博	6
+chu sai san xiang jie	楚塞三湘接	6
+chu yun chu	储运处	6
+chu chu shi hua kai	触处似花开	5
+chu fan fan hua lu	出犯繁花露	5
+chu ji xiao fei zhe	初级消费者	5
+chu kou gong ye qu	出口工业区	5
+chu kou ma ti	出口马蹄	5
+chu kou ren	出口人	5
+chu piao ren	出票人	5
+chu yan suo	畜研所	5
+chu yao xian xi zhang zhong qing	楚腰纤细掌中轻	5
+chu zuo yin xiang bo zhe	楚左尹项伯者	5
+chu dao wang	楚悼王	4
+chu nai	雏乃	4
+chu ni	杵坭	4
+chu ri zhao gao lin	初日照高林	4
+chu shi	褚师	4
+chu tian qian li qing qiu	楚天千里清秋	4
+chu xie xing pang guang yan	出血性膀胱炎	4
+chu hai chu nong se	出海初弄色	3
+chu ji luan mu xi bao	初级卵母细胞	3
+chu ji xiang	褚集乡	3
+chu jia zhu ce zhi du	储架注册制度	3
+chu kang wang	楚康王	3
+chu men wu suo jian	出门无所见	3
+chu mu wang	楚穆王	3
+chu ru shi men	出入是门	3
+chu ru wu wan qun	出入无完裙	3
+chu shan heng di chu	楚山横地出	3
+chu sheng shi mo	初生石墨	3
+chu shi zi	楮实子	3
+chu shou fang	出售方	3
+chu xu quan	储蓄券	3
+chu zi zhu luo shan	出自苎萝山	3
+chu bei tou cun fu zhai guan li	储备头寸负债管理	2
+chu bu zhi qi ji qian wan luo	矗不知其几千万落	2
+chu gong wang	楚共王	2
+chu hui wang	楚惠王	2
+chu ji jing mu xi bao	初级精母细胞	2
+chu jue xiao ti	触觉小体	2
+chu men ru jian da bin	出门如见大宾	2
+chu men sao bai shou	出门搔白首	2
+chu men yi xiao da jiang heng	出门一笑大江横	2
+chu quan	储巏	2
+chu ren bei qu yuan	楚人悲屈原	2
+chu wang tai xie kong shan qiu	楚王台榭空山丘	2
+chu wen man zuo jing	初闻满座惊	2
+chu xiao gu da lu	初宵鼓大炉	2
+chu xiong xi dao	楚雄西道	2
+chu xuan wang	楚宣王	2
+chu you han mo chang	出游翰墨场	2
+chu yu tian di zhi jian	处于天地之间	2
+chu ze wu di guo wai huan zhe	出则无敌国外患者	2
+chu zhang ze hai fu jiao nang	除障则海甫胶囊	2
+chu an cun	楚安村	1
+chu bao gui hua chi dou tang	楚宝桂花赤豆汤	1
+chu bu ru xi wang bu fan	出不入兮往不反	1
+chu chu cheng liu bie	初出城留别	1
+chu chu lou qian piao guan chui	处处楼前飘管吹	1
+chu chu yi dai shi	出处亦待时	1
+chu de yi	褚德彝	1
+chu gu ri shang zao	出谷日尚早	1
+chu he dian	出河店	1
+chu he zhe yi you huan	处涸辙以犹欢	1
+chu jian wang	楚简王	1
+chu jiu	杵臼	1
+chu jiu ji cheng ying	杵臼及程婴	1
+chu kao lie wang	楚考烈王	1
+chu kou tong yi guan li	出口统一管理	1
+chu ku ying	储库营	1
+chu li ji	樗里疾	1
+chu men ou niao geng xiang qin	出门鸥鸟更相亲	1
+chu qi hui meng jin	初期会盟津	1
+chu qian er min bu hai	处前而民不害	1
+chu rao zhe wang yan	刍荛者往焉	1
+chu ru gao xia qiong yan fei	出入高下穷烟霏	1
+chu shan qin shan jie bai yun	楚山秦山皆白云	1
+chu shang er min bu zhong	处上而民不重	1
+chu shi sun cheng zuo zhong	初食笋呈座中	1
+chu shi yin chun lao	初似饮醇醪	1
+chu shuang	褚爽	1
+chu su wang	楚肃王	1
+chu wang yi zhong chen	楚王疑忠臣	1
+chu wang zang jin man cheng jiao	楚王葬尽满城娇	1
+chu wen zheng yan yi wu chan	初闻征雁已无蝉	1
+chu xie xing geng si	出血性梗死	1
+chu xie xing zhi chang yan	出血性直肠炎	1
+chu xin bu ke wang	初心不可忘	1
+chu xing ming zi	雏形明子	1
+chu yan jue yuan pao	厨烟觉远庖	1
+chu ye ji wei zhi	除夜寄微之	1
+chu yi yi cun gen	初移一寸根	1
+chu you wang	楚幽王	1
+chu zai	处仔	1
+chu zhi qian chuang xia	出置前窗下	1
+chu zhi sheng fa pian	除脂生发片	1
+chu de bai gui	楚德白鲑	0
+chu jiao bian bi rong	触角扁鼻戎	0
+chu jiao gou xia hu yu	触角沟鰕虎鱼	0
+chu jiao suo you	触角簑鲉	0
+chu jiao suo you	触角簑鮋	0
+chu jiao wei cai nv chong	触角伪才女虫	0
+chu shi quan he yu	初始全颌鱼	0
+chu shou cai nv chong	触手才女虫	0
+chu shou guan hai you	触手冠海鲉	0
+chu shou guan hai you	触手冠海鮋	0
+chu shou jiao an kang	触手角鮟鱇	0
+chu zhi ji du fu yu	触指棘杜父鱼	0

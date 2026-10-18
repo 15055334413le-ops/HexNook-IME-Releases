@@ -1,0 +1,788 @@
+gao ceng	高层	127007
+gao su gong lu	高速公路	122493
+gao ya	高压	63018
+gao di	高地	31784
+gao dang jiao che	高档轿车	29726
+gao xue ya	高血压	27960
+gao ang	高昂	25250
+gao xiong	高雄	20842
+gao liang	高亮	19903
+gao shan	高山	18735
+gao bing fa	高并发	14305
+gao wei	高危	13482
+gao ling tu	高岭土	12698
+gao bing	糕饼	9506
+gao li dai	高利贷	8945
+gao xiong shi	高雄市	8829
+gao xiao lv	高效率	8812
+gao su huan cun	高速缓存	8215
+gao wei sha che	高位刹车	8211
+gao wei sha che deng	高位刹车灯	8067
+gao ke yong	高可用	8040
+gao liang xian shi	高亮显示	7861
+gao ji yu yan	高级语言	7557
+gao ke yong xing	高可用性	7182
+gao jing du	高精度	7061
+gao you xian ji	高优先级	6913
+gao gao zai shang	高高在上	6250
+gao zhan yuan zhu	高瞻远瞩	6196
+gao er fu qiu chang	高尔夫球场	6139
+gao yuan	高远	5951
+gao wei ren qun	高危人群	5942
+gao guan hou lu	高官厚禄	5850
+gao su guo wan	高速过弯	5274
+gao chun	高淳	4535
+gao sheng	高盛	4520
+gao nei ju	高内聚	4367
+gao xin qu guan wei hui	高新区管委会	3685
+gao ji te xing	高级特性	3387
+gao he	高和	3332
+gao qiao	高桥	3326
+gao wu jian ling	高屋建瓴	2915
+gao liang mi	高粱米	2883
+gao su lu kou	高速路口	2864
+gao fu zai	高负载	2738
+gao xue ya huan zhe	高血压患者	2733
+gao zhi yi wu	告知义务	2716
+gao ji bian cheng	高级编程	2712
+gao zhen wu you	高枕无忧	2508
+gao yuan fan ying	高原反应	2443
+gao wei jie tan	高位截瘫	2227
+gao fei	高飞	2209
+gao ji xuan xiang	高级选项	2056
+gao xu	高旭	1837
+gao xiao song	高晓松	1826
+gao xue tang	高血糖	1790
+gao de di tu	高德地图	1671
+gao sheng	高升	1671
+gao jie han shu	高阶函数	1644
+gao jian	高健	1614
+gao si xiao yuan	高斯消元	1594
+gao zhi bing xing qin liu gan	高致病性禽流感	1593
+gao xiang	高翔	1544
+gao xing neng ji suan	高性能计算	1485
+gao yong wen	高永文	1461
+gao zhou shi	高州市	1423
+gao ren yi deng	高人一等	1386
+gao you	高邮	1385
+gao bu ke pan	高不可攀	1345
+gao ji cha xun	高级查询	1320
+gao bo	高波	1275
+gao su cai chu li	告诉才处理	1246
+gao ping	高平	1191
+gao wei zhi dong deng	高位制动灯	1191
+gao qi ya	高气压	1190
+gao lu	高路	1159
+gao si lv bo	高斯滤波	1149
+gao feng liang jie	高风亮节	1143
+gao xiong xian	高雄县	1143
+gao min	高敏	1131
+gao pei	高培	1130
+gao ji ji shu	高级技术	1123
+gao tan kuo lun	高谈阔论	1061
+gao su gong lu tong xing fei	高速公路通行费	1048
+gao shan liu shui	高山流水	1046
+gao yang	高阳	1032
+gao dong	高东	1014
+gao xiao suan fa	高效算法	1013
+gao du jin shi	高度近视	987
+gao xin yuan qu	高新园区	967
+gao ping shi	高平市	957
+gao cheng shi	藁城市	947
+gao peng man zuo	高朋满座	873
+gao ji cheng xu she ji	高级程序设计	870
+gao mi shi	高密市	862
+gao yuan yuan	高圆圆	842
+gao song ru yun	高耸入云	833
+gao jing du ji suan	高精度计算	830
+gao du zi shi ying	高度自适应	821
+gao chun xian	高淳县	799
+gao lan	皋兰	781
+gao po	高坡	777
+gao ge meng jin	高歌猛进	769
+gao ke ji yuan qu	高科技园区	761
+gao jia	高家	754
+gao zhi xue zheng	高脂血症	752
+gao cun	高村	739
+gao fang wei xin	高仿微信	735
+gao si xiao yuan fa	高斯消元法	720
+gao dian	高点	717
+gao hua	高华	691
+gao xing neng fu wu qi	高性能服务器	687
+gao ji ji qiao	高级技巧	682
+gao yao shi	高要市	669
+gao zhi dui	高支队	667
+gao lan	高栏	665
+gao pin zhi yin xiang	高品质音响	654
+gao si hun he mo xing	高斯混合模型	650
+gao bo	高博	647
+gao tai gui shou	高抬贵手	627
+gao yun	高云	608
+gao xiao kai fa	高效开发	607
+gao jing	高精	606
+gao chu bu sheng han	高处不胜寒	599
+gao er ji	高尔基	590
+gao ping	高坪	582
+gao cheng	高城	568
+gao zu	高祖	566
+gao an shi	高安市	555
+gao qiu	高俅	542
+gao qiao da shi chang	高桥大市场	540
+gao xi lan cun	高息揽存	531
+gao ling	高岭	500
+gao gang	高岗	499
+gao you shi	高邮市	493
+gao bu cheng di bu jiu	高不成低不就	490
+gao si jin zi ta	高斯金字塔	484
+gao xiao bian cheng	高效编程	480
+gao ke yong jia gou	高可用架构	477
+gao jing du jia fa	高精度加法	472
+gao bei	高北	470
+gao zhuang	高庄	457
+gao meng suan jia	高锰酸钾	446
+gao wei	高纬	445
+gao shen mo ce	高深莫测	439
+gao shan yang zhi	高山仰止	437
+gao xin yi zhong	高新一中	426
+gao yi	高邑	426
+gao xin lu	高新路	404
+gao jing du cheng fa	高精度乘法	402
+gao lin	高林	401
+gao nan	高南	398
+gao hu	高虎	392
+gao qun shu	高群书	384
+gao long	高龙	371
+gao tou da ma	高头大马	370
+gao xin yi yuan	高新医院	369
+gao ji suan fa	高级算法	366
+gao xiao lv qing ju zhi	高效氯氰菊酯	365
+gao jin su mei	高金素梅	362
+gao xing neng ji suan ji	高性能计算机	358
+gao kuan bi	高宽比	346
+gao ya yang zhi liao	高压氧治疗	346
+gao gu	高古	343
+gao shu xun	高树勋	337
+gao chu yi chou	高出一筹	334
+gao gang	高港	330
+gao tong lv bo	高通滤波	324
+gao xiao gong zuo	高效工作	323
+gao wei ren shen	高危妊娠	310
+gao zhi liang dai ma	高质量代码	308
+gao qiao cun	高桥村	307
+gao yuan bing	高原病	306
+gao niao suan xue zheng	高尿酸血症	301
+gao wei jiang	高位奖	299
+gao sheng qiao	高升桥	292
+gao lao huan xiang	告老还乡	278
+gao shan zu	高山族	275
+gao jing du suan fa	高精度算法	274
+gao xing neng wang zhan	高性能网站	270
+gao jian fu	高剑父	269
+gao tang ling	高塘岭	266
+gao bei dian shi	高碑店市	257
+gao gao gua qi	高高挂起	257
+gao xiao cha zhao fa	高效查找法	257
+gao deng zhi ye ji shu xue yuan	高等职业技术学院	241
+gao ding	高定	240
+gao xia chu ping hu	高峡出平湖	238
+gao xiong lu	高雄路	237
+gao su zong xian	高速总线	231
+gao an tun	高安屯	230
+gao you xian ya dan	高邮咸鸭蛋	228
+gao ji kong jian	高级控件	226
+gao shou fei dian hua	高收费电话	212
+gao tan yan	高滩岩	212
+gao cang jian	高仓健	209
+gao yang	高洋	209
+gao xin er lu	高新二路	208
+gao xin ji shu cheng guo chu zi	高新技术成果出资	208
+gao jing du yun suan	高精度运算	206
+gao shan jun ling	高山峻岭	206
+gao wan ai	睾丸癌	202
+gao li shen	高丽参	201
+gao miao cun	高庙村	201
+gao su gong lu lu zheng guan li	高速公路路政管理	199
+gao sun tang	高笋塘	199
+gao ya zou lang	高压走廊	199
+gao yan yin shi	高盐饮食	195
+gao hong	高红	193
+gao shan cun	高山村	193
+gao miao	高庙	188
+gao an lu	高安路	184
+gao xing neng gao bing fa	高性能高并发	178
+gao tang	高塘	177
+gao ba	糕粑	175
+gao xue ya fang zhi	高血压防治	172
+gao xing	高行	160
+gao bei dian xiang	高碑店乡	156
+gao mi du zhi dan bai	高密度脂蛋白	155
+gao hai yan	高海燕	154
+gao wei	高玮	151
+gao liang hong	高梁红	150
+gao feng cun	高峰村	148
+gao kan	高坎	148
+gao qi guo ji ji chang	高崎国际机场	144
+gao re jing jue	高热惊厥	143
+gao xin ke ji yuan	高新科技园	142
+gao you xian ji zhong duan	高优先级中断	142
+gao wan yan	睾丸炎	139
+gao chang	高昌	136
+gao jun yu	高君宇	134
+gao li	高里	134
+gao mi dian	高米店	134
+gao bu ying	搞不赢	132
+gao zhi	高志	132
+gao fu shui	高氟水	130
+gao ya	高崖	129
+gao sha	高沙	125
+gao ying	高英	125
+gao qing xi du dian shi	高清晰度电视	120
+gao hu	高湖	119
+gao ping cun	高坪村	118
+gao mi xian	高密县	114
+gao tou	高头	114
+gao jia cun	高家村	111
+gao ren yi chou	高人一筹	111
+gao xian wei ye guo	高纤维椰果	111
+gao sheng qiao dong lu	高升桥东路	108
+gao xin	高辛	108
+gao huan	高欢	106
+gao wan su	睾丸素	104
+gao deng ling zhang lei	高等灵长类	101
+gao xin yi xiao	高新一小	100
+gao du ping heng shu	高度平衡树	99
+gao xiu min	高秀敏	98
+gao liang fan	高粱饭	96
+gao lou cun	高楼村	93
+gao zhang	高张	88
+gao guang pu	高光谱	85
+gao jia zhuang	高家庄	85
+gao li ying	高丽营	85
+gao tu di	高土地	84
+gao yang	高氧	84
+gao keng	高坑	83
+gao yi dao su xue zheng	高胰岛素血症	83
+gao feng	高枫	82
+gao lou men	高楼门	81
+gao ying	高营	81
+gao tang cun	高塘村	79
+gao yi	高义	79
+gao jie yu yan	高阶语言	76
+gao qiao men	高桥门	76
+gao tian cun	高田村	76
+gao jing du zhi pen xi tong	高精度直喷系统	75
+gao gai xue zheng	高钙血症	74
+gao jia bao	高家堡	74
+gao run lin	高润霖	74
+gao bu ke ji	高不可及	71
+gao jia xue zheng	高钾血症	70
+gao ming shi	高明市	67
+gao tang shui jiao	高汤水饺	67
+gao li zhuang	高立庄	66
+gao qiao song bing	高桥松饼	66
+gao xue ya xing xin zang bing	高血压性心脏病	66
+gao wan wei suo	睾丸萎缩	65
+gao ke zhan	高客站	64
+gao ping shao dou fu	高平烧豆腐	64
+gao ping xi	高屏溪	63
+gao shi	高适	63
+gao lan dao	高栏岛	62
+gao shan bing	高山病	62
+gao qi	高启	61
+gao yang lu	高阳路	61
+gao yuan lu	高原露	61
+gao xin fu hua yuan	高新孵化园	60
+gao chang gu cheng	高昌故城	58
+gao e	高鹗	58
+gao xin xing	高新兴	58
+gao lian	高连	57
+gao wan niu zhuan	睾丸扭转	57
+gao guang qu yu	高光区域	56
+gao he	高鹤	54
+gao ji	搞机	54
+gao jing du wen ti	高精度问题	54
+gao dian	高店	53
+gao qi	高旗	52
+gao wan teng tong	睾丸疼痛	52
+gao zhai	高寨	52
+gao li	高黎	50
+gao an	高岸	49
+gao lu	高露	49
+gao yuan	高苑	48
+gao jia yan	高家堰	47
+gao tan	高潭	47
+gao lan lu jie dao	皋兰路街道	45
+gao liang jiang	高良姜	44
+gao mi du ying	高密度影	44
+gao fang	高方	43
+gao wei suo yin	高维索引	43
+gao shun	高顺	41
+gao xian	高显	41
+gao yi jia	高溢价	41
+gao qian	高前	40
+gao yu zhi di	膏腴之地	40
+gao zan	高赞	40
+gao lao tou	高老头	39
+gao he cai	高河菜	38
+gao ping lu	高平路	38
+gao ting	高亭	38
+gao wan zhong liu	睾丸肿瘤	38
+gao chao cun	高潮村	37
+gao gan you san zhi xue zheng	高甘油三酯血症	37
+gao jia gou	高家沟	37
+gao ke hua yuan	高科花园	37
+gao fang ping guo	高仿苹果	34
+gao san jiang rou	高三酱肉	34
+gao tie xue hong dan bai xue zheng	高铁血红蛋白血症	34
+gao ye shan	高野山	34
+gao feng han	高凤翰	33
+gao na	高娜	33
+gao qiao lu	高桥路	33
+gao tai zi	高台子	33
+gao wei shen lv shi shi wu suo	高伟绅律师事务所	33
+gao yao jie	高耀洁	33
+gao yuan xing xin zang bing	高原性心脏病	33
+gao ceng diao du	高层调度	32
+gao dian	高殿	32
+gao heng	高恒	32
+gao tou jiang zhang	高头讲章	32
+gao zhou xian	高州县	32
+gao fu	高阜	31
+gao shi qi	高士其	31
+gao xi	高西	31
+gao gai	高盖	30
+gao ji mo yao zhi bei	高级魔药制备	30
+gao ping cun	高平村	30
+gao xue ya wei xiang	高血压危象	30
+gao yun lu	高云路	30
+gao feng lu	高峰路	29
+gao yun ling	高云岭	29
+gao cheng cun	高城村	28
+gao jiao hui guan	高交会馆	28
+gao liu	高柳	28
+gao xi shun	高希舜	28
+gao cheng xian	藁城县	27
+gao jia yuan	高家园	27
+gao xiao ying	高小英	27
+gao xing zhong xue	高行中学	27
+gao ming xian	高明县	26
+gao tang cun	皋塘村	26
+gao ban guang an suan	高半胱氨酸	25
+gao peng	高棚	25
+gao ping xian	高平县	25
+gao dai wu men	告贷无门	24
+gao ju li wang cheng	高句丽王城	24
+gao qiao zhong xue	高桥中学	24
+gao su huan cun kuai	高速缓存块	24
+gao yang cun	高阳村	24
+gao yao xian	高要县	24
+gao cun cun wei hui	高村村委会	23
+gao lian	高濂	23
+gao wan qiao mo ji ye	睾丸鞘膜积液	23
+gao dian zi	高店子	22
+gao jia wan	高家湾	22
+gao tan suan xue zheng	高碳酸血症	22
+gao tian gun gun han liu ji	高天滚滚寒流急	22
+gao tong	膏桐	22
+gao zhan	高湛	22
+gao zhi xue	高脂血	22
+gao ji an zhuo	高级安卓	21
+gao shan po	高山坡	21
+gao xing	高型	21
+gao di	高帝	20
+gao gang li	高岗里	20
+gao hu cun	高湖村	20
+gao ming cun	高明村	20
+gao xiao suan fa she ji	高效算法设计	20
+gao fu lu	高富路	19
+gao liang yi tang	高粱饴糖	19
+gao xin guo ji xue xiao	高新国际学校	19
+gao feng yun wu cha	高峰云雾茶	18
+gao gu zhuang	高古庄	18
+gao lin sheng	高林生	18
+gao long	高垅	18
+gao feng ling	高峰岭	17
+gao gong zu	高弓足	17
+gao jian cun	高枧村	17
+gao mi ru su xue zheng	高泌乳素血症	17
+gao ping zi	高平子	17
+gao xi cun	高西村	17
+gao xin yi zhong guo ji bu	高新一中国际部	17
+gao ya kou	高崖口	17
+gao you xian	高邮县	17
+gao bao bao	高宝宝	16
+gao chuan zhen	高川镇	16
+gao dian xing jia zhuang xian zhong	高碘性甲状腺肿	16
+gao guo dong	高国栋	16
+gao jia tun	高家屯	16
+gao jian li	高渐离	16
+gao jiao xin cun	高教新村	16
+gao lou jin	高楼金	16
+gao lou jin cun	高楼金村	16
+gao shan shan	高珊珊	16
+gao si da	高斯达	16
+gao ting ba	皋亭坝	16
+gao ji kai fa ji qiao	高级开发技巧	15
+gao qi pei	高其佩	15
+gao shan si	高山寺	15
+gao wang jie xiang	高望界乡	15
+gao xin yi zhong gao zhong bu	高新一中高中部	15
+gao zheng jie	高正街	15
+gao an xian	高安县	14
+gao gou cun	高沟村	14
+gao jia ping	高家坪	14
+gao keng cun	高坑村	14
+gao lu ru yun duan	高路入云端	14
+gao meng dan	高梦旦	14
+gao qiao nan	高桥南	14
+gao qing kui	高庆奎	14
+gao shi qi	高士奇	14
+gao xi shi zhen	高溪市镇	14
+gao you zhen	高邮镇	14
+gao zha	高闸	14
+gao zhi dan bai xue zheng	高脂蛋白血症	14
+gao cun cun	高村村	13
+gao er ji lu	高尔基路	13
+gao jia ba	高家坝	13
+gao jian	高鉴	13
+gao jin shi pin	高金食品	13
+gao li	高李	13
+gao qiu fu	高秋福	13
+gao sheng qiao nan jie	高升桥南街	13
+gao su huan cun que shi	高速缓存缺失	13
+gao wen xiu	高文秀	13
+gao ya mie jun qi	高压灭菌器	13
+gao ya yuan	高娅媛	13
+gao ya zheng qi mie jun	高压蒸汽灭菌	13
+gao yan	高演	13
+gao yu cun	高禹村	13
+gao de an	高德安	12
+gao du	高渡	12
+gao gan dui	高干队	12
+gao hu luo bo su xue zheng	高胡萝卜素血症	12
+gao pei	高佩	12
+gao wan sun shang	睾丸损伤	12
+gao xin fa zhan	高新发展	12
+gao ya yang liao fa	高压氧疗法	12
+gao yang shu	高杨树	12
+gao ben	藁本	11
+gao er cun	高二村	11
+gao ge zhuang	高各庄	11
+gao huang	高皇	11
+gao jia shan	高家山	11
+gao ming da	高明大	11
+gao nan xiang	高楠乡	11
+gao shan she qu	高山社区	11
+gao xiao sheng	高晓声	11
+gao xin liu lu bei kou	高新六路北口	11
+gao yu han	高语罕	11
+gao bie xiang ming	告别香茗	10
+gao di cun	高地村	10
+gao er ji ti	高尔基体	10
+gao jia xiao qu	高家小区	10
+gao liang qiao	高粱桥	10
+gao ling	高铃	10
+gao sha tan	高沙滩	10
+gao shan jin zuo	高杉晋作	10
+gao tun	高屯	10
+gao xian xiang	高贤乡	10
+gao yun	高运	10
+gao cuo cun	高厝村	9
+gao jin hai	高金海	9
+gao li dou sha	高丽豆沙	9
+gao ling lu	高陵路	9
+gao na xue zheng	高钠血症	9
+gao peng	高蓬	9
+gao qiao xiang zheng fu	高桥乡政府	9
+gao sha	高厦	9
+gao su ke chuan an quan guan li	高速客船安全管理	9
+gao xian zhi	高仙芝	9
+gao xin qu jie dao	高新区街道	9
+gao an xue zheng	高氨血症	8
+gao bu	皋埠	8
+gao cuo	高厝	8
+gao jia dian	高家店	8
+gao jia ying	高家营	8
+gao jie cun zhen	高杰村镇	8
+gao mi mi zao	高密蜜枣	8
+gao shi de da ma lu	高士德大马路	8
+gao shu sen	高树森	8
+gao shuo	高硕	8
+gao wan jie he	睾丸结核	8
+gao yu zhen	高臾镇	8
+gao zhi yi wu fan wei	告知义务范围	8
+gao zhuang xiao xue	高庄小学	8
+gao zu an yu lei zhong du	高组胺鱼类中毒	8
+gao li dou sha	高力豆沙	7
+gao li min	高立民	7
+gao shan zhai	高山寨	7
+gao sheng men	高升门	7
+gao wan jian zhi xi bao	睾丸间质细胞	7
+gao wan xia jiang bu quan	睾丸下降不全	7
+gao xiang	高巷	7
+gao xin hua yuan	高新花苑	7
+gao yuan cai	高原彩	7
+gao yuan jun	高元钧	7
+gao zhai xiang	高寨乡	7
+gao zhen	高圳	7
+gao zhen xiao	高振霄	7
+gao ba xi fan	糕耙稀饭	6
+gao di liang jiang qie ru ji	高第良将怯如鸡	6
+gao er yi	高而颐	6
+gao ge zhuang	高戈庄	6
+gao hai bo	高海博	6
+gao he xian	高鹤县	6
+gao jia yuan zi	高家院子	6
+gao jun	高钧	6
+gao lun	高伦	6
+gao ma tou	高码头	6
+gao ming hai	高明海	6
+gao pai cun	高排村	6
+gao shi hua	高士华	6
+gao tang ming jing bei bai fa	高堂明镜悲白发	6
+gao ting	高汀	6
+gao wan zhen	高湾镇	6
+gao yin	高殷	6
+gao yuan xing gao xue ya	高原性高血压	6
+gao zu miao	高祖庙	6
+gao bei guo zhi	高倍果汁	5
+gao ben bing an suan xue zheng	高苯丙氨酸血症	5
+gao di ao	高迪奥	5
+gao feng qiao	高峰桥	5
+gao jia ku	高家库	5
+gao jing miao	高境庙	5
+gao jue fu	高觉敷	5
+gao li cun	高丽村	5
+gao li yu tiao	高丽鱼条	5
+gao liang jian wu	高良健吾	5
+gao mei xue zheng	高镁血症	5
+gao min xing	高敏性	5
+gao pei	高沛	5
+gao qi zhuo	高其倬	5
+gao rou	高柔	5
+gao shui xiang	高水乡	5
+gao su peng bu kou	高速彭埠口	5
+gao wan nang zhong	睾丸囊肿	5
+gao wan qie chu shu	睾丸切除术	5
+gao wo hu tong	高卧胡同	5
+gao xin ke ji yuan bei qu	高新科技园北区	5
+gao xing hua yuan	高兴花园	5
+gao xing wei	高兴圩	5
+gao zan cun	高赞村	5
+gao zhuang cun	郜庄村	5
+gao zhuang cun wei hui	高庄村委会	5
+gao bu	高埠	4
+gao bu zi	高堡子	4
+gao dian san cun	高佃三村	4
+gao dun zi	高墩子	4
+gao feng ge	高凤阁	4
+gao he kan	高河坎	4
+gao he xiang	高和乡	4
+gao hong kou xiang	高洪口乡	4
+gao ji ren	高吉人	4
+gao jia bao xiang	高家堡乡	4
+gao jian	高简	4
+gao jian ping	高健平	4
+gao lou hong xiu ke fen fen	高楼红袖客纷纷	4
+gao pu	高埔	4
+gao she	高舍	4
+gao sheng xiang	高升巷	4
+gao shou	高守	4
+gao tai xi bei wang	高台西北望	4
+gao tou cun	高头村	4
+gao wan qiao mo	睾丸鞘膜	4
+gao xin zhuang	高辛庄	4
+gao yin di chan	高银地产	4
+gao yong	高咏	4
+gao zhai zi	高寨子	4
+gao zhu	高翥	4
+gao zhu wang er zhi lai zhe	告诸往而知来者	4
+gao zhuo ying xiang	高卓营乡	4
+gao bai sui	高百岁	3
+gao bu ai	高部爱	3
+gao bu qing bai	搞不清白	3
+gao chang le	高昌乐	3
+gao chang lu jie dao	高昌路街道	3
+gao di zhe er mao	高地折耳猫	3
+gao huai	高淮	3
+gao jia suo ye niu	高加索野牛	3
+gao jian li ji zhu	高渐离击筑	3
+gao jing miao	高镜庙	3
+gao lie	高烈	3
+gao luo zhen	皋落镇	3
+gao peng ding	高棚顶	3
+gao pin tong qi	高频通气	3
+gao po dian	高坡店	3
+gao qiao liu mei zi	高桥留美子	3
+gao qiao yang zi	高桥洋子	3
+gao qiao yi sheng	高桥一生	3
+gao qiu bu xing huo	搞求不醒豁	3
+gao qiu shuang qi xiang xian xin	高秋爽气相鲜新	3
+gao shi zhuang xiang	高石庄乡	3
+gao tang xin cun	高塘新村	3
+gao wu xiang	高屋乡	3
+gao xia she qu	高霞社区	3
+gao ya zi mu chang	高崖子牧场	3
+gao yuan shi ying bu quan zheng	高原适应不全症	3
+gao zhao	高兆	3
+gao zi hao mo shi	高自毫末始	3
+gao ba ou fen	糕粑藕粉	2
+gao bu zhen	高埠镇	2
+gao cheng qiu zi luo	高城秋自落	2
+gao dao li zi	高岛礼子	2
+gao dao shi	高道士	2
+gao dao su	高道素	2
+gao deng jiao yu fa zhi lun gang	高等教育法制论纲	2
+gao huai jian wu li	高怀见物理	2
+gao jing jie	高井街	2
+gao kai	高楷	2
+gao lan	高览	2
+gao li ju wei hui	高黎居委会	2
+gao li xiang jiao	高丽香蕉	2
+gao ling cun	高陵村	2
+gao long cun	高垅村	2
+gao lou dang ci ye	高楼当此夜	2
+gao miao tun cun	高庙屯村	2
+gao miao zi	高庙子	2
+gao nong du gu hua ji	高浓度固化剂	2
+gao nu	高奴	2
+gao qiao ai	高桥爱	2
+gao qiao ke dian	高桥克典	2
+gao qiao song gao	高桥松糕	2
+gao qing yi zhu xiao yun kong	高情已逐晓云空	2
+gao quan	高铨	2
+gao sha qiao	高沙桥	2
+gao shan nan	高山南	2
+gao sheng ji tuan	高盛集团	2
+gao shi da	高士达	2
+gao tang gong ye qu	高塘工业区	2
+gao tian ma yi	高田麻衣	2
+gao tian yu si	高田裕司	2
+gao wan gu ding shu	睾丸固定术	2
+gao wan huo jian shu	睾丸活检术	2
+gao wan jing mai	睾丸静脉	2
+gao wei su chang	高维苏肠	2
+gao xiao ye xiang ceng xi	高效液相层析	2
+gao xie	高燮	2
+gao xin zhang tong	高新张铜	2
+gao ya kou xiang	高崖口乡	2
+gao yi bo hu tong	高义伯胡同	2
+gao yi you wei yi	高意犹未已	2
+gao zan cun wei hui	高赞村委会	2
+gao zhuang cun cun wei hui	高庄村村委会	2
+gao zi ping	高子平	2
+gao bei hu tong	高碑胡同	1
+gao bei shui ku	高陂水库	1
+gao bing	高棅	1
+gao bu zhen zheng fu	皋埠镇政府	1
+gao cen shu huan bu	高岑殊缓步	1
+gao chang zai	高常在	1
+gao chu lian yu jing	高处连玉京	1
+gao chu ye	高出叶	1
+gao cui ru su xue zheng	高催乳素血症	1
+gao di shun guo feng	高低顺过风	1
+gao dian yi cun	高佃一村	1
+gao ding shan	高顶山	1
+gao du guan zhu	高度关注	1
+gao feng xiu zi	高峰秀子	1
+gao gao qiu yue zhao chang cheng	高高秋月照长城	1
+gao gao ru yun ni	高高入云霓	1
+gao ge chen kai sao cui wei	高阁晨开扫翠微	1
+gao gui chang ju cu	告归常局促	1
+gao hong cun	高洪村	1
+gao hong xiao qu	高红小区	1
+gao huan wen	高焕文	1
+gao huang yu	膏肓俞	1
+gao ji xing	高季兴	1
+gao ji yun huan gong yang zhuang	高髻云鬟宫样妆	1
+gao ji zhan	高基站	1
+gao jia gu	高价股	1
+gao jia hu tong	高家胡同	1
+gao jia liang xiang	高家梁乡	1
+gao jia xiang	高家巷	1
+gao jia zhuang zi	高家庄子	1
+gao jian wei	高剑巍	1
+gao jian zhen	高枧镇	1
+gao jing hu tong	高井胡同	1
+gao ju zhen liu he	高举振六翮	1
+gao kai	高垲	1
+gao lan cun	高栏村	1
+gao liang dian xiang	高粱店乡	1
+gao liang rou	高梁肉	1
+gao liu cun	高流村	1
+gao lou ge jiu huan li yan	高楼歌酒换离颜	1
+gao lou ping dong zu xiang	高楼坪侗族乡	1
+gao meng suan jia wai yong pian	高锰酸钾外用片	1
+gao mian ran xu liao zi qi	膏面染须聊自欺	1
+gao miao bei cun	高庙北村	1
+gao miao nan cun	高庙南村	1
+gao ming zhuang	高明庄	1
+gao nian chou xue zheng	高粘稠血症	1
+gao peng zhen	高鹏振	1
+gao po xiang	高坡巷	1
+gao qiao mei ji	高桥美纪	1
+gao qiao nu	高桥努	1
+gao qiao xing hong	高桥幸宏	1
+gao qiao yang yi	高桥阳一	1
+gao qiao ying jie dao	高桥营街道	1
+gao qiu huai song yu	高丘怀宋玉	1
+gao shan an ke yang	高山安可仰	1
+gao shan yang hao qi	高山仰豪气	1
+gao shan yong xian qing	高山拥县青	1
+gao shan zi jian yu	高山子监狱	1
+gao shao xiang	高哨乡	1
+gao shu duo bei feng	高树多悲风	1
+gao ta xiang	高塔乡	1
+gao tang si cun	高塘四村	1
+gao te li	高特利	1
+gao tian yan yan	高田延彦	1
+gao ting zhen zheng fu	高亭镇政府	1
+gao wan fu jian niu zhuan	睾丸附件扭转	1
+gao wan ji xing	睾丸畸形	1
+gao wei shen lu	高尾绅路	1
+gao wo sha qiu cheng	高卧沙丘城	1
+gao wu jia su	高乌甲素	1
+gao wu ling cun	高坞岭村	1
+gao xue ya su jiang wan	高血压速降丸	1
+gao xue ya xing nao bing	高血压性脑病	1
+gao yan zong	高延宗	1
+gao yang kou zai yuan he shi	羔羊口在缘何事	1
+gao yi wei shu qing	高揖卫叔卿	1
+gao yi xia wei ji	高以下为基	1
+gao yin dao mo	高音倒模	1
+gao yin jie dong kou	高银街东口	1
+gao ying cun	皋营村	1
+gao you dong tang	高邮董糖	1
+gao zhai cun wei hui	高寨村委会	1
+gao zi gang	高资港	1
+gao ben ying ping	高本缨鮃	0
+gao di bai quan geng quan	高地白犭更犬	0
+gao gan zhen zhu mao	高秆珍珠茅	0
+gao gui hai shan ha	高貴海扇蛤	0
+gao gui qian shou luo	高貴千手螺	0
+gao gui wa luo	高貴蛙螺	0
+gao heng bao luo	高亨宝螺	0
+gao ji guan	高髻冠	0
+gao jia suo nai bo xia hu yu	高加索奈波鰕虎鱼	0
+gao jia suo yuan yang	高加索羱羊	0
+gao jia suo zhong gong quan hei long	高加索种公犬黑龙	0
+gao li gong shan zhu	高黎贡山猪	0
+gao lu ye ling	高鲁野鲮	0
+gao mo chong shu	糕模虫属	0
+gao mo ci gui	高膜刺鱥	0
+gao mu shi gou xia hu yu	高木氏沟鰕虎鱼	0
+gao peng zi	高棚子	0
+gao shan mei zhou yao juan	高山美洲咬鹃	0
+gao shan tai wan zhi ma wo niu	高山台湾芝麻蜗牛	0
+gao shan ying zui gui	高山鹰嘴龟	0
+gao ta tai wan shan wo niu	高塔台湾山蜗牛	0
+gao ti bao dao yu	高体宝刀鱼	0
+gao ti fu dan jiao tun	高体副单角鲀	0
+gao ti pang pi	高体鳑鮍	0
+gao ti xiao sha ding yu	高体小沙丁鱼	0
+gao wei deng kong diao	高尾灯孔鲷	0
+gao wei kuang deng yu	高位眶灯鱼	0
+gao yang mao dan jian tan ye e	高羊茅淡剑贪夜蛾	0
+gao yang mao tan ye ye e	高羊茅贪叶夜蛾	0
+gao ye zi mao	缟椰子猫	0
+gao yuan cui li	高原翠鴗	0

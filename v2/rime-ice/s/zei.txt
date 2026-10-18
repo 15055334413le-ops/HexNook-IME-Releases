@@ -1,0 +1,89 @@
+zei ren	贼人	12245
+zei qu guan men	贼去关门	9999
+zei zang	贼赃	9999
+zei zou guan men	贼走关门	9999
+zei ying	贼营	4000
+zei zi	贼子	4000
+zei bang	贼棒	3333
+zei chang	贼长	3333
+zei di	贼低	3333
+zei duan	贼短	3333
+zei gao	贼高	3333
+zei hao	贼好	3333
+zei luan	贼乱	3333
+zei pang	贼胖	3333
+zei shou	贼瘦	3333
+zei bing	贼兵	3240
+zei chuan	贼船	3210
+zei xin	贼心	3100
+zei dan	贼胆	2345
+zei ying	贼硬	2222
+zei kou	贼寇	1905
+zei wang	贼王	1800
+zei liang	贼亮	1590
+zei yan	贼眼	1485
+zei shou	贼首	1335
+zei jun	贼军	1300
+zei tu	贼秃	1255
+zei han zhuo zei	贼喊捉贼	1245
+zei du	贼堵	1111
+zei feng	贼风	1111
+zei hou	贼厚	1111
+zei hua	贼滑	1111
+zei mei shu yan	贼眉鼠眼	1000
+zei fei	贼匪	980
+zei wo	贼窝	950
+zei xin bu si	贼心不死	865
+zei chao	贼巢	820
+zei tou zei nao	贼头贼脑	770
+zei dang	贼党	740
+zei gu tou	贼骨头	685
+zei liu liu	贼溜溜	685
+zei che	贼车	360
+zei wa zi	贼娃子	316
+zei si	贼死	310
+zei xing	贼性	310
+zei nan	贼难	123
+zei chen ni zi	贼臣逆子	100
+zei dai jin	贼带劲	100
+zei de hen	贼得很	100
+zei e xin	贼恶心	100
+zei gao ji	贼高级	100
+zei gao ji a	贼高级啊	100
+zei guo ru shu	贼过如梳	100
+zei ji dong	贼激动	100
+zei jiang xiu zou	贼将休走	100
+zei jiang zao xiang	贼将早降	100
+zei jin zhang	贼紧张	100
+zei ke qin ye	贼可擒也	100
+zei lao lian	贼老练	100
+zei li hai	贼厉害	100
+zei liang kuai	贼凉快	100
+zei mei zei yan	贼眉贼眼	100
+zei niu bi	贼牛逼	100
+zei pi zei gu	贼皮贼骨	100
+zei pian yi	贼便宜	100
+zei qing chu	贼清楚	100
+zei qing chu a	贼清楚啊	100
+zei re nao	贼热闹	100
+zei ren dan xu	贼人胆虚	100
+zei ren xin xu	贼人心虚	100
+zei tou gou nao	贼头狗脑	100
+zei tou gui nao	贼头鬼脑	100
+zei tou shu nao	贼头鼠脑	100
+zei xin bu gai	贼心不改	100
+zei yan zhong	贼严重	100
+zei zi luan chen	贼子乱臣	100
+zei kuang	贼狂	31
+zei xing	贼星	20
+zei feng	贼疯	12
+zei pei jun	贼配军	4
+zei ou	贼鸥	3
+zei fu ren zhi zi	贼夫人之子	2
+zei chen luan zi	贼臣乱子	1
+zei mei liu yan	贼眉溜眼	1
+zei mei shu mu	贼眉鼠目	1
+zei qi jun zhe ye	贼其君者也	1
+zei qi min zhe ye	贼其民者也	1
+zei ren zhe wei zhi zei	贼仁者谓之贼	1
+zei yi zhe wei zhi can	贼义者谓之残	1

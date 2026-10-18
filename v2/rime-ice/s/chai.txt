@@ -1,0 +1,317 @@
+chai qian	拆迁	608452
+chai chu	拆除	162075
+chai you	柴油	136535
+chai you ji	柴油机	50530
+chai qian ren	拆迁人	48081
+chai xie	拆卸	46150
+chai kai	拆开	39555
+chai zhuang	拆装	34245
+chai fen	拆分	29330
+chai xia	拆下	24925
+chai le	拆了	22990
+chai jie	拆解	21990
+chai qian bu chang	拆迁补偿	20180
+chai lv fei	差旅费	19100
+chai hu	柴胡	17545
+chai diao	拆掉	17345
+chai you fa dong ji	柴油发动机	15595
+chai feng	拆封	14460
+chai san	拆散	13170
+chai huo	柴火	12440
+chai ji	拆机	12190
+chai shi	差事	11955
+chai qian hu	拆迁户	11935
+chai qian an zhi	拆迁安置	11730
+chai ren	差人	10710
+chai jie	拆借	10010
+chai dan	拆弹	9999
+chai gai	拆改	9999
+chai gou	豺狗	9999
+chai jia	拆家	9999
+chai na	拆那	9999
+chai ta	拆塔	9999
+chai you che	柴油车	8730
+chai lang	豺狼	8525
+chai lv	差旅	8105
+chai mi you yan	柴米油盐	7860
+chai qian gong zuo	拆迁工作	7795
+chai qian fan wei	拆迁范围	7708
+chai hui	拆毁	7700
+chai cao	柴草	7425
+chai xian	拆线	7090
+chai qian	差遣	6725
+chai shi	差使	6630
+chai chuan	拆穿	6040
+chai yi	差役	5885
+chai xia lai	拆下来	5730
+chai cheng	拆成	5690
+chai xiang	拆箱	5590
+chai bu	拆不	5555
+chai xi	拆洗	5480
+chai ke fu si ji	柴可夫斯基	5355
+chai wei	拆违	5085
+chai men	柴门	4615
+chai tai	拆台	4545
+chai fang	拆房	4505
+chai you jia ge	柴油价格	4335
+chai da mu pen di	柴达木盆地	4190
+chai you ji chang	柴油机厂	4110
+chai da mu	柴达木	3855
+chai jian	拆建	3640
+chai xie shi	拆卸式	3590
+chai chu	拆出	3555
+chai qian ban	拆迁办	3520
+chai fang	柴房	3505
+chai ji	柴鸡	3410
+chai dui	拆对	3348
+chai dui	拆队	3333
+chai wan	拆完	3333
+chai zou	拆走	3333
+chai zou le	拆走了	3333
+chai bao	拆包	3250
+chai qian bu chang an zhi xie yi	拆迁补偿安置协议	3130
+chai zi	拆字	2970
+chai ling	拆零	2885
+chai qiang	拆墙	2800
+chai dao	柴刀	2685
+chai qu	拆去	2635
+chai you ban	柴油版	2505
+chai fang	拆放	2425
+chai guo	拆过	2385
+chai tou feng	钗头凤	2360
+chai zhao	拆招	2320
+chai mi	柴米	2240
+chai pai	拆牌	2222
+chai mi you yan jiang cu cha	柴米油盐酱醋茶	2190
+chai kai lai	拆开来	2150
+chai ling jian	拆零件	2085
+chai guan	差官	2005
+chai dong qiang	拆东墙	1879
+chai dong qiang bu xi qiang	拆东墙补西墙	1879
+chai le dong qiang	拆了东墙	1879
+chai qian bu chang xie yi	拆迁补偿协议	1855
+chai fei	柴扉	1740
+chai dian	拆点	1647
+chai tian sheng jia	柴田胜家	1430
+chai qian fei	拆迁费	1385
+chai qian fang	拆迁房	1240
+chai yue	拆阅	1200
+chai ling jian yong	拆零件用	1180
+chai men wen quan fei	柴门闻犬吠	1180
+chai xin	拆信	1125
+chai bu	差补	1111
+chai deng	拆灯	1111
+chai dui	拆兑	1111
+chai na	拆哪	1111
+chai pai	差派	1111
+chai dao	拆到	1075
+chai bo	差拨	1055
+chai xin	柴薪	1050
+chai xiu	拆修	1050
+chai gou bu	柴沟堡	930
+chai xi	拆息	920
+chai xi	拆细	910
+chai yu	柴鱼	910
+chai qi xing	柴崎幸	900
+chai lang hu bao	豺狼虎豹	865
+chai song yue	柴松岳	830
+chai huo	拆伙	685
+chai gu	拆股	678
+chai duo	柴垛	650
+chai qian an zhi fei	拆迁安置费	634
+chai qiao	拆桥	620
+chai jun zhu	柴郡主	530
+chai wu	拆屋	470
+chai quan	柴犬	440
+chai dan zhuan jia	拆弹专家	425
+chai chu lai	拆出来	415
+chai lang dang dao	豺狼当道	380
+chai bei	侪辈	370
+chai zi	钗子	364
+chai qian ju	拆迁局	343
+chai mai	拆卖	325
+chai zhang	拆账	295
+chai ji xiang	拆机箱	290
+chai chuan xi yang jing	拆穿西洋镜	280
+chai tou	差头	275
+chai hui lian yu tou	拆烩鲢鱼头	273
+chai gu	拆骨	234
+chai yi xia	拆一下	230
+chai mang he	拆盲盒	192
+chai wen sheng	柴文胜	187
+chai chu fei	拆除费	185
+chai yi huan yi	拆一还一	176
+chai qian da dui	拆迁大队	171
+chai fu	差夫	170
+chai zha dan	拆炸弹	169
+chai lang ren	豺狼人	164
+chai heng bin luan	钗横鬓乱	155
+chai da er	柴达尔	153
+chai bao guo	拆包裹	145
+chai bu liao	拆不了	145
+chai cun	柴村	143
+chai xie qi	拆卸器	143
+chai li wu	拆礼物	141
+chai lan wu	拆烂污	135
+chai huo da yuan	柴火大院	132
+chai mi you yan cu	柴米油盐醋	120
+chai yong	拆用	115
+chai wo pu	柴窝堡	108
+chai gou bu xun rou	柴沟堡熏肉	106
+chai yi chai	拆一拆	103
+chai qi yue	柴崎岳	101
+chai bai dang	拆白党	100
+chai bai dao zi	拆白道字	100
+chai bu kai	拆不开	100
+chai bu san	拆不散	100
+chai chu chong jian	拆除重建	100
+chai chu mu ban	拆除模板	100
+chai chu qu	拆出去	100
+chai chu xing dong	拆除行动	100
+chai chu zha dan	拆除炸弹	100
+chai chuan ye	拆船业	100
+chai da mu he	柴达木河	100
+chai dan bu dui	拆弹部队	100
+chai dan ying xiong	拆弹英雄	100
+chai di lei	拆地雷	100
+chai dian ji che	柴电机车	100
+chai diao chong jian	拆掉重建	100
+chai fang kuan	拆放款	100
+chai fen chong zu	拆分重组	100
+chai fen jian po	钗分鉴破	100
+chai feng hou	拆封后	100
+chai hu shu	柴胡属	100
+chai hui gu li	柴毁骨立	100
+chai hui lai	拆回来	100
+chai hui qu	拆回去	100
+chai huo duo zi	柴火垛子	100
+chai jie li lv	拆借利率	100
+chai jing qun bu	钗荆裙布	100
+chai lang cheng xing	豺狼成性	100
+chai lang dang lu	豺狼当路	100
+chai lang dang tu	豺狼当涂	100
+chai lang sai lu	豺狼塞路	100
+chai lang ye xin	豺狼野心	100
+chai lang zuo	豺狼座	100
+chai le ba	拆了吧	100
+chai le chong jian	拆了重建	100
+chai le dong qiang bu xi qiang	拆了东墙补西墙	100
+chai li bu e	柴立不阿	100
+chai lv bao xiao	差旅报销	100
+chai lv cheng ben	差旅成本	100
+chai lv fei bao xiao	差旅费报销	100
+chai lv fei yong	差旅费用	100
+chai lv fu wu	差旅服务	100
+chai lv guan li	差旅管理	100
+chai men xiao hu	柴门小户	100
+chai mi fu qi	柴米夫妻	100
+chai mo hou	拆模后	100
+chai mo shi jian	拆模时间	100
+chai ni zi	拆腻子	100
+chai pai dao zi	拆牌道字	100
+chai qian chong jian	拆迁重建	100
+chai qian di	拆迁地	100
+chai qian di kuai	拆迁地块	100
+chai qian gong di	拆迁工地	100
+chai qian jin du	拆迁进度	100
+chai qian wo	差遣我	100
+chai qian zheng di	拆迁征地	100
+chai san kai lai	拆散开来	100
+chai shi gao	拆石膏	100
+chai si hui fo	拆寺毁佛	100
+chai tian chun	柴田淳	100
+chai tian cong	柴田聪	100
+chai wei xing dong	拆违行动	100
+chai wu huan di	拆屋还地	100
+chai xi bu dong	拆西补东	100
+chai xia qu	拆下去	100
+chai xie fa	拆卸法	100
+chai you ji gong lv	柴油机功率	100
+chai you yin qing	柴油引擎	100
+chai yu pian	柴鱼片	100
+chai zhuang kong tiao	拆装空调	100
+chai zi gen	拆字根	100
+chai dong bu xi	拆东补西	79
+chai fen wei	拆分为	75
+chai zhuang fei	拆装费	67
+chai hu zao gan	柴胡皂苷	65
+chai pan	柴爿	65
+chai ji liao	拆机料	64
+chai dian fa	拆点法	48
+chai lei	拆雷	36
+chai pu	拆铺	35
+chai ba yu	柴把鱼	34
+chai chuan pian ju	拆穿骗局	30
+chai hu zhu she ye	柴胡注射液	28
+chai peng	柴棚	27
+chai hui da yu tou	拆烩大鱼头	23
+chai hu kou fu ye	柴胡口服液	19
+chai hu shu gan san	柴胡疏肝散	18
+chai qiang jiao	拆墙脚	15
+chai gou	柴沟	13
+chai qian guan li yu jiu fen chu li cao zuo zhi nan	拆迁管理与纠纷处理操作指南	12
+chai wo pu	柴窝铺	12
+chai yin kou fu ye	柴银口服液	12
+chai qian zhu ti zi ge	拆迁主体资格	11
+chai xie ji	拆卸机	10
+chai da mu jian yu	柴达木监狱	9
+chai wo pu hu	柴窝堡湖	9
+chai dong ji yu	拆冻鲫鱼	8
+chai jia zhuang	柴家庄	7
+chai wan cun	柴湾村	7
+chai chuan	钗钏	6
+chai lin hua yuan	柴林花园	6
+chai xian jian	拆线剪	6
+chai da mu ga cha	柴达木嘎查	5
+chai duo huo wang	柴多火旺	5
+chai hu di wan	柴胡滴丸	4
+chai jia men xiang	柴家门乡	4
+chai dian	钗钿	3
+chai dui xiang	柴堆乡	3
+chai lang man dao	豺狼满道	3
+chai men wen	柴门文	3
+chai qun	豺群	3
+chai ta cun	柴塔村	3
+chai tong hua lan man	拆桐花烂漫	3
+chai wo pu guan wei hui	柴窝堡管委会	3
+chai bang hu tong	柴棒胡同	2
+chai hu bu shi	豺虎不食	2
+chai hu tong	柴胡同	2
+chai huang ke li	柴黄颗粒	2
+chai jia bang	柴家浜	2
+chai lang dang zhe	豺狼当辙	2
+chai lang se dao	豺狼塞道	2
+chai chang tun zhen	柴厂屯镇	1
+chai che fu jin	柴车幅巾	1
+chai da mu luo lie kao yu	柴达木裸裂尻鱼	1
+chai fang nan	拆房男	1
+chai gang zhen	柴岗镇	1
+chai ge jie ji tang	柴葛解肌汤	1
+chai guan xiang	柴关乡	1
+chai he	柴河	1
+chai heng bin xie	钗横鬓斜	1
+chai hu zhi xin	豺狐之心	1
+chai hui mie xing	柴毁灭性	1
+chai jia lin	柴家林	1
+chai jin	柴进	1
+chai jing	柴静	1
+chai lang de shi xuan	豺狼得食喧	1
+chai lang guan ying	豺狼冠缨	1
+chai lang heng dao	豺狼横道	1
+chai lang hou bei bing	豺狼后备兵	1
+chai lang jin guan ying	豺狼尽冠缨	1
+chai lang zai dao	豺狼载道	1
+chai lang zhi hui guan	豺狼指挥官	1
+chai lang zhi wen	豺狼之吻	1
+chai men bu zheng zhu jiang kai	柴门不正逐江开	1
+chai men niao que zao	柴门鸟雀噪	1
+chai ni ju hai qiao	柴拟菊海鞘	1
+chai qiao tou	柴桥头	1
+chai rong	柴荣	1
+chai sang	柴桑	1
+chai shao bing	柴绍炳	1
+chai shi tui re ke li	柴石退热颗粒	1
+chai tian gai wu	柴天改物	1
+chai tian gai yu	柴天改玉	1
+chai xing	柴姓	1
+chai zong xun	柴宗训	1

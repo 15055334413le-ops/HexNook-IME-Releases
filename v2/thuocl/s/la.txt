@@ -1,0 +1,187 @@
+la rou	腊肉	33516
+la xia	落下	29102
+la ji hui shou	垃圾回收	21903
+la zi	辣子	21685
+la jiao jiang	辣椒酱	14882
+la ba zhou	腊八粥	14461
+la jiao fen	辣椒粉	11414
+la ji hui shou qi	垃圾回收器	10451
+la ji shou ji	垃圾收集	8935
+la ji hui shou ji zhi	垃圾回收机制	8662
+la tang	辣汤	8375
+la ji shou ji qi	垃圾收集器	7977
+la deng	拉登	7313
+la zi ji	辣子鸡	5823
+la tiao	拉条	4292
+la bai cai	辣白菜	4067
+la ji you jian	垃圾邮件	3528
+la sa shi	拉萨市	3254
+la jiao hong	辣椒红	2944
+la bang jie pai	拉帮结派	2494
+la sai er	拉塞尔	1883
+la ji hui shou suan fa	垃圾回收算法	1667
+la zhi rou	腊汁肉	1556
+la tiao zi	拉条子	1350
+la jiao gan	辣椒干	1339
+la zi ji ding	辣子鸡丁	1161
+la chang	拉肠	1113
+la ji shou ji suan fa	垃圾收集算法	1084
+la sa pi jiu	拉萨啤酒	1066
+la mo	蜡膜	872
+la ji qing li	垃圾清理	787
+la la che che	拉拉扯扯	610
+la mu si fei er de	拉姆斯菲尔德	519
+la ding yu	拉丁语	498
+la pu la si suan zi	拉普拉斯算子	489
+la bi xiao xin	蜡笔小新	475
+la wei he zheng	腊味合蒸	446
+la zi mian	辣子面	417
+la yang rou	腊羊肉	413
+la da qi zuo hu pi	拉大旗作虎皮	313
+la ba kou	喇叭口	295
+la jiao zai	辣椒仔	273
+la ma gu yuan	腊玛古猿	261
+la gou	拉钩	259
+la ba dou fu	腊八豆腐	251
+la ke lu ni ya	拉科鲁尼亚	226
+la ji gu	垃圾股	207
+la wei bao zai fan	腊味煲仔饭	196
+la jiao su	辣椒素	192
+la zhu tou	腊猪头	164
+la ju cheng hui lei shi gan	蜡炬成灰泪始干	159
+la ba gou men	喇叭沟门	120
+la jiao gu	辣椒骨	116
+la de fang si	拉德芳斯	100
+la mi fu ding	拉米夫定	95
+la jiao xie	辣椒蟹	94
+la jiao yu	辣椒鱼	87
+la ma miao	喇嘛庙	78
+la zi chao xun rou	辣子炒薰肉	78
+la tuo	拉托	54
+la hu zu zi zhi xian	拉祜族自治县	52
+la rou huo guo	腊肉火锅	48
+la la za za	拉拉杂杂	43
+la jiao you shu zhi	辣椒油树脂	38
+la yang ya bao gan jun	蜡样芽胞杆菌	37
+la zi fei chang	辣子肥肠	33
+la de bu lu he	拉德布鲁赫	32
+la ma gao	喇嘛糕	31
+la pu la si	拉普拉斯	29
+la bo	拉波	28
+la sha re	拉沙热	27
+la zi suan yang xue	辣子蒜羊血	25
+la shan lu	腊山路	23
+la tu rou	腊兔肉	22
+la ba an niu kai guan	喇叭按钮开关	20
+la dong bian huan	拉东变换	19
+la ma wan zhen	喇嘛湾镇	19
+la cai bing	辣菜饼	18
+la zi cui chang	辣子脆肠	18
+la jia zhen	拉加镇	14
+la hu	拉胡	13
+la huo	拉豁	13
+la xi zhen	拉西镇	13
+la ma dian	喇嘛甸	12
+la sa luo ka de na si	拉萨罗卡德纳斯	12
+la yu dan	辣鱼蛋	12
+la mi fu ding pian	拉米夫定片	10
+la dou ban yu	辣豆瓣鱼	9
+la wa	拉哇	9
+la wei hong jiu kao yang pai	辣味红酒烤羊排	9
+la bo xiang	拉波乡	8
+la bu da lin nong mu chang	拉布大林农牧场	8
+la da xiang	拉达乡	8
+la dao	蜡刀	8
+la mu a jue xiang	拉木阿觉乡	8
+la rou chao cai tai	腊肉炒菜苔	8
+la xi de	拉西德	8
+la zi kou xiang	腊子口乡	8
+la bai cai juan	辣白菜卷	7
+la chao you yu si	辣炒鱿鱼丝	7
+la yu	拉域	7
+la zi niu rou	辣子牛肉	7
+la ma zhao xiang	喇嘛昭乡	6
+la mi xiang	拉咪乡	6
+la ren guan xiang	拉仁关乡	6
+la si lao bing	拉丝烙饼	6
+la zao yu kuai	拉糟鱼块	6
+la zhi jia si	辣汁茄丝	6
+la zi yu kuai	辣子鱼块	6
+la bei luo er	拉贝洛尔	5
+la jiao cheng	辣椒橙	5
+la ma ya xiang	喇嘛垭乡	5
+la pian	蜡片	5
+la seng miao zhen	拉僧庙镇	5
+la wei rou pi dong	辣味肉皮冻	5
+la wei yu tou gao	腊味芋头糕	5
+la xian	蜡腺	5
+la yi su	拉依苏	5
+la bao er gang	腊包尔港	4
+la jiao xiang	拉郊乡	4
+la ku hu tong	腊库胡同	4
+la shu cun	蜡树村	4
+la ba gou men cun	喇叭沟门村	3
+la ba hu tong	喇叭胡同	3
+la mo xiang	拉莫乡	3
+la seng zhong jie dao	拉僧仲街道	3
+la shu xia	腊树下	3
+la xi de gang	拉希德港	3
+la xi di ping	拉西地平	3
+la xi wa zhen	拉西瓦镇	3
+la yu xiang	拉玉乡	3
+la zhi chang	蜡纸厂	3
+la bai xiang	拉白乡	2
+la bu la duo de li quan	拉布拉多德利犬	2
+la cang xiang	拉藏乡	2
+la luo shen fu ke	拉罗什福科	2
+la mo san qin pian	拉莫三嗪片	2
+la tuo xiang	拉妥乡	2
+la za cui shao zhi	拉杂摧烧之	2
+la fa jie dao	拉法街道	1
+la gao jun jia	拉高均价	1
+la jiao chao du pian	辣椒炒肚片	1
+la jiao ye ji dan tang	辣椒叶鸡蛋汤	1
+la lang xiang	拉浪乡	1
+la ma xiang	拉马乡	1
+la mei chi jian er nian hua	腊梅迟见二年花	1
+la pu he de quan	拉普赫德犬	1
+la pu xiang	拉普乡	1
+la rang xiang	拉让乡	1
+la sa dao	拉萨道	1
+la sui xiang	拉绥乡	1
+la tan qian lie su	拉坦前列素	1
+la wa xiang	拉哇乡	1
+la wei guo jiang ji	辣味过江鸡	1
+la wei zha ji chi	辣味炸鸡翅	1
+la wo xiang	腊窝乡	1
+la yi mu xiang	拉一木乡	1
+la yi su liang zhong chang	拉依苏良种场	1
+la yu	鯻鱼	1
+la yu da qiao	拉域大桥	1
+la yue jiu ri nuan han ke	腊月九日暖寒客	1
+la zhi jiang xiang zhou	辣汁酱香肘	1
+la zhu you xin hai xi bie	蜡烛有心还惜别	1
+la zi xiang	拉孜乡	1
+la ba chong shu	喇叭虫属	0
+la ba xing shi zi shui mu	喇叭形十字水母	0
+la chang mao	腊肠猫	0
+la dou xi shi chi wa	拉都希氏赤蛙	0
+la ge tuo luo ma ge nuo lu	拉戈托罗马阁挪露	0
+la gu	蝲姑	0
+la gu ke	蝲蛄科	0
+la huang yu luo	蠟黃芋螺	0
+la huang yun duo yu luo	蜡黄云朵芋螺	0
+la la shan san wei xiao hui die	拉拉山三尾小灰蝶	0
+la li ao ha long shu	拉里奥哈龙属	0
+la li mao zu lu xiao mi	拉利毛足鲈小密	0
+la mei liu xing hei dian du e	腊梅六星黑点蠹蛾	0
+la mei zhu sha ye man	腊梅朱砂叶螨	0
+la mian hai si luo	拉面海蛳螺	0
+la nai gu dong	拉奈孤鸫	0
+la pa nu xu chun fei yu	拉帕奴须唇飞鱼	0
+la pin po kao ya quan	拉品坡考亚犬	0
+la pu di yu ren zhong	拉普地域人种	0
+la si wei jia si bao wen wa	拉斯维加斯豹纹蛙	0
+la ti si te bin shan hu	拉提斯特滨珊瑚	0
+la ti si te lu jiao shan hu	拉提斯特鹿角珊瑚	0
+la ya mei tai	剌亚煤炱	0

@@ -1,0 +1,458 @@
+duo pu da	多普达	180147
+duo xian cheng	多线程	83642
+duo bao	多宝	83061
+duo fa	多发	43537
+duo yang hua	多样化	38285
+duo tai	多态	28648
+duo bao yu	多宝鱼	23907
+duo mei ti	多媒体	21299
+duo zhong	多重	18757
+duo jin cheng	多进程	11914
+duo he	多核	11848
+duo ren wu	多任务	10503
+duo yong hu	多用户	10092
+duo ji cheng	多继承	8445
+duo tai xing	多态性	8392
+duo xiang shi	多项式	7884
+duo ji	多级	7700
+duo zhong ji cheng	多重继承	7474
+duo dui duo	多对多	7347
+duo lie	多列	7288
+duo dian	多点	7157
+duo lu	多路	6733
+duo yu yan	多语言	6701
+duo xian cheng bian cheng	多线程编程	6641
+duo biao	多表	5972
+duo wei shu zu	多维数组	5819
+duo chu li qi	多处理器	5473
+duo er gun	多尔衮	5397
+duo zi jie	多字节	5306
+duo dui yi	多对一	5284
+duo bo	多播	5076
+duo lu fu yong	多路复用	5012
+duo xian cheng bing fa	多线程并发	4865
+duo wen jian	多文件	4719
+duo xing zhu shi	多行注释	4585
+duo shu ju	多数据	4017
+duo duo bi ren	咄咄逼人	4016
+duo ban ben	多版本	3132
+duo jiao yu tou	剁椒鱼头	3118
+duo can shu	多参数	3063
+duo tiao yu ju	多条语句	2747
+duo cai duo yi	多才多艺	2735
+duo xian cheng xia zai	多线程下载	2538
+duo xian cheng an quan	多线程安全	2472
+duo xian cheng ji shu	多线程技术	2414
+duo xian cheng tong bu	多线程同步	2399
+duo shi li	多实例	2397
+duo tong dao	多通道	2119
+duo dian chu mo	多点触摸	2113
+duo xian cheng chu li	多线程处理	2069
+duo ren xie zuo	多人协作	2062
+duo xuan kuang	多选框	1988
+duo zhong bei bao	多重背包	1956
+duo guan xian shi	多管闲事	1917
+duo kuang er chu	夺眶而出	1867
+duo biao cha xun	多表查询	1837
+duo shi lian yun jing ying ren	多式联运经营人	1767
+duo fen lei	多分类	1657
+duo ji mu lu	多级目录	1617
+duo jie dian	多节点	1611
+duo chuang kou	多窗口	1550
+duo yi shi bu ru shao yi shi	多一事不如少一事	1538
+duo ru niu mao	多如牛毛	1478
+duo ci yi ju	多此一举	1460
+duo mi ni jia	多米尼加	1457
+duo wen dang	多文档	1397
+duo fen bian lv	多分辨率	1386
+duo dian chu kong	多点触控	1385
+duo xie yi	多协议	1365
+duo xi tong	多系统	1359
+duo guo yu yan	多国语言	1330
+duo mo kuai	多模块	1321
+duo xiang mu	多项目	1284
+duo mu biao	多目标	1280
+duo wen jian shang chuan	多文件上传	1257
+duo duo yi shan	多多益善	1180
+duo qu dao da bao	多渠道打包	1169
+duo xian cheng kai fa	多线程开发	1161
+duo shu ju yuan	多数据源	1150
+duo zu hu	多租户	1130
+duo shi zhi qiu	多事之秋	1013
+duo shi tu	多视图	1002
+duo ren wu chu li	多任务处理	999
+duo cha shu	多叉树	983
+duo mei ti kai fa	多媒体开发	961
+duo duo shan shan	躲躲闪闪	943
+duo duo guai shi	咄咄怪事	911
+duo qi guan gong neng shuai jie	多器官功能衰竭	830
+duo dao cheng xu	多道程序	821
+duo tang	多糖	816
+duo xiang shi shi jian	多项式时间	804
+duo ci dian ji	多次点击	787
+duo dui xiang	多对象	786
+duo bian xing mian ji	多边形面积	774
+duo men er chu	夺门而出	764
+duo biao guan lian	多表关联	719
+duo xie dai	多楔带	708
+duo wang ka	多网卡	699
+duo zhong duan	多终端	692
+duo zai duo nan	多灾多难	684
+duo tiao jian cha xun	多条件查询	682
+duo zhi	多指	665
+duo mi ni jia gong he guo	多米尼加共和国	627
+duo yi	多义	584
+duo yu ming	多域名	581
+duo ba an	多巴胺	578
+duo pu lei	多普勒	557
+duo cheng xu	多程序	554
+duo zhan dian	多站点	540
+duo yong hu xi tong	多用户系统	532
+duo yuan xian xing hui gui	多元线性回归	512
+duo mei ti chu li	多媒体处理	499
+duo tai	多肽	499
+duo wei fen xi	多维分析	491
+duo chou shan gan	多愁善感	470
+duo nan xing bang	多难兴邦	470
+duo lu gui bing	多路归并	441
+duo mei ti bo fang qi	多媒体播放器	439
+duo dao cheng xu she ji	多道程序设计	430
+duo zhi ling	多指令	425
+duo ren you xi	多人游戏	412
+duo zhi	多址	394
+duo kuai hao sheng	多快好省	391
+duo wang zhan	多网站	382
+duo mei ti tong xin	多媒体通信	365
+duo ji	舵机	338
+duo ceng gan zhi ji	多层感知机	332
+duo luo kou	舵落口	330
+duo niao	多尿	317
+duo le shi	多乐士	309
+duo xiang shi ni he	多项式拟合	305
+duo xing bu yi bi zi bi	多行不义必自毙	302
+duo jin cheng duo xian cheng	多进程多线程	299
+duo jin cheng tong xin	多进程通信	289
+duo xian cheng wang luo	多线程网络	286
+duo jin cheng bian cheng	多进程编程	281
+duo huan jing	多环境	279
+duo mei ti xi tong	多媒体系统	279
+duo fa xing gu zhe	多发性骨折	276
+duo nang luan chao zong he zheng	多囊卵巢综合征	275
+duo lun	多伦	270
+duo bu ju	多布局	267
+duo xian cheng tong xin	多线程通信	266
+duo chu li ji	多处理机	265
+duo li mo shi	多例模式	265
+duo ji fan kui dui lie	多级反馈队列	259
+duo lun lu	多伦路	256
+duo zhong wen li	多重纹理	255
+duo ji cai dan	多级菜单	240
+duo bu bao he zhi fang suan	多不饱和脂肪酸	239
+duo chu li ji xi tong	多处理机系统	237
+duo ping mu shi pei	多屏幕适配	223
+duo zhong ji	多重集	216
+duo mei ti shu ju ku	多媒体数据库	211
+duo fa xing gu sui liu	多发性骨髓瘤	207
+duo bao lu	多宝路	202
+duo qi men fa dong ji	多气门发动机	174
+duo ji suan ji	多计算机	166
+duo fa shang	多发伤	162
+duo lv lian ben	多氯联苯	162
+duo tai ren shen	多胎妊娠	148
+duo mao	多毛	146
+duo xian cheng duo jin cheng	多线程多进程	143
+duo mei ti bian cheng	多媒体编程	134
+duo lian lu	多链路	133
+duo mei ti ye wu	多媒体业务	128
+duo bao si	多宝寺	123
+duo lun gu fen	多伦股份	120
+duo shu ju liu	多数据流	118
+duo yuan zui duan lu jing	多源最短路径	114
+duo ke fu	多客服	113
+duo mei ti hui yi	多媒体会议	113
+duo zhong chu li	多重处理	112
+duo fa xing ying hua	多发性硬化	111
+duo fen bian lv fen xi	多分辨率分析	111
+duo xian cheng ji chu	多线程基础	110
+duo dui duo lian xi	多对多联系	109
+duo dian tong xin	多点通信	106
+duo luo kou da shi chang	舵落口大市场	106
+duo tu shang chuan	多图上传	105
+duo zi	垛子	102
+duo mei ti tong xun	多媒体通讯	101
+duo fei kou she	多费口舌	97
+duo neng xing	多能性	97
+duo ren wu guan li	多任务管理	97
+duo lie xian shi	多列显示	96
+duo mou shan duan	多谋善断	94
+duo bian guo ji gong yue	多边国际公约	91
+duo tu pian shang chuan	多图片上传	90
+duo ning dun gong yuan sai dao	多宁顿公园赛道	83
+duo nang shen	多囊肾	77
+duo ji fan kui	多级反馈	72
+duo mei ti ji suan ji	多媒体计算机	70
+duo zhong xian wei xie yi	多种纤维协议	67
+duo dian lian jie	多点连接	63
+duo guo yu yan ban	多国语言版	63
+duo ji an quan	多级安全	63
+duo mei pian	多酶片	63
+duo mi nuo xiao ying	多米诺效应	63
+duo shao lou tai yan yu zhong	多少楼台烟雨中	63
+duo bu sheng shu	多不胜数	62
+duo ping shi pei	多屏适配	60
+duo bian xing cai jian	多边形裁剪	59
+duo zong xian	多总线	58
+duo mao zheng	多毛症	53
+duo zuo ye	多作业	51
+duo bian xing fen jie	多边形分解	50
+duo gong xiang	多功乡	50
+duo ren wu bian cheng	多任务编程	50
+duo zhan jun su	多粘菌素	49
+duo xi huan su	多西环素	46
+duo han zheng	多汗症	45
+duo song xiang	多松乡	45
+duo dian hui yi	多点会议	39
+duo chi du fen xi	多尺度分析	38
+duo jiao zheng yu tou	剁椒蒸芋头	37
+duo bo man quan	多伯曼犬	36
+duo bo shu	多波束	36
+duo yan duo yu	多言多语	36
+duo bei ti	多倍体	35
+duo zhu ti	多主体	34
+duo mei ti kuo zhan	多媒体扩展	33
+duo xi ta sai	多西他赛	33
+duo guang pu tu xiang	多光谱图像	32
+duo wei guo	多味果	32
+duo wei shu ju jie gou	多维数据结构	32
+duo you xian ji	多优先级	31
+duo tang yi miao	多糖疫苗	30
+duo ba an shou ti	多巴胺受体	28
+duo cai shang cheng	多彩商城	28
+duo zhi yi lai	多值依赖	28
+duo bao ta	多宝塔	27
+duo fa xing ji yan	多发性肌炎	27
+duo fa xing nao geng se	多发性脑梗塞	27
+duo zu zhi fang wen	多组织访问	27
+duo fa xing shen jing xian wei liu	多发性神经纤维瘤	26
+duo ji zhong duan	多级中断	26
+duo xiang shi kong jian	多项式空间	25
+duo xue zhi	多血质	25
+duo ceng yin zhi ban	多层印制板	24
+duo lin chan he yu	多鳞铲颌鱼	24
+duo nang gan	多囊肝	23
+duo pan li tong pian	多潘立酮片	23
+duo xiao xun lian	多校训练	23
+duo zhong guan xi	多重关系	23
+duo zui duo she	多嘴多舌	23
+duo ji gao su huan cun	多级高速缓存	22
+duo nian jun su	多黏菌素	22
+duo wa xiang	多哇乡	22
+duo ji shen jing yuan	多极神经元	21
+duo lang nong chang	多浪农场	21
+duo zhong yi chang	多重异常	21
+duo chi yan dou long	多齿盐都龙	20
+duo chu li qi diao du	多处理器调度	20
+duo dui yi lian xi	多对一联系	20
+duo bian xing mian pian	多边形面片	19
+duo duo	多铎	19
+duo chu li huan jing	多处理环境	18
+duo bao lu kou	多宝路口	17
+duo lan shui an	多蓝水岸	17
+duo wei yuan su pian	多维元素片	17
+duo xing biao qian	多行标签	17
+duo fa xing da dong mai yan	多发性大动脉炎	16
+duo sheng ya	多生牙	16
+duo xing xing hong ban	多形性红斑	16
+duo xing xing ri guang zhen	多形性日光疹	15
+duo ji qi ren xi tong	多机器人系统	14
+duo jiao da yu tou	剁椒大鱼头	14
+duo lun dao	多伦道	14
+duo zhi	多趾	14
+duo ji suan ji xi tong	多计算机系统	13
+duo mi ni ke guo	多米尼克国	13
+duo pu lei jian cha	多普勒检查	13
+duo tong dao chuan shu	多通道传输	12
+duo xing hong ban	多形红斑	11
+duo zhi fang wen	多址访问	11
+duo fa xing shen jie shi	多发性肾结石	10
+duo la te xiang	多拉特乡	10
+duo lu fen pei qi	多路分配器	10
+duo nian wan chun	多廿烷醇	10
+duo duo	夺多	9
+duo qing zi gu shang li bie	多情自古伤离别	9
+duo shu bian hu	多数辩护	9
+duo wei jian bing	多味煎饼	9
+duo xi tong wei suo	多系统萎缩	9
+duo qian neng xing	多潜能性	8
+duo cang bi hou wang	多藏必厚亡	7
+duo qing ying xiao wo	多情应笑我	7
+duo jie tao chong ya gang	多节绦虫亚纲	6
+duo ke long kang ti	多克隆抗体	6
+duo mei	多寐	6
+duo xi ta sai zhu she ye	多西他赛注射液	6
+duo yuan fen xi	多元分析	6
+duo ci ke zheng zhi	多次课征制	5
+duo er xiang	多儿乡	5
+duo gong ma xiang	多贡麻乡	5
+duo ji yan	多肌炎	5
+duo jia	多佳	5
+duo jiao xiao yu tou	剁椒小芋头	5
+duo ju jia quan	多聚甲醛	5
+duo pan li tong fen san pian	多潘立酮分散片	5
+duo ru fang	多乳房	5
+duo ba si jing	多巴丝肼	4
+duo bo man ping quan	多伯曼平犬	4
+duo duo hua kai dan mo hen	朵朵花开淡墨痕	4
+duo nai pai qi	多奈哌齐	4
+duo qing que bei wu qing nao	多情却被无情恼	4
+duo ba si jing pian	多巴丝肼片	3
+duo bing gu ren shu	多病故人疏	3
+duo bu wei hua zi	多部未华子	3
+duo cai shang chang	多彩商场	3
+duo ji yin bing	多基因病	3
+duo jiao pang yu tou	剁椒胖鱼头	3
+duo liu bing du	多瘤病毒	3
+duo sai ping	多塞平	3
+duo shao qi feng ku yu	多少凄风苦雨	3
+duo sheng chi	多生齿	3
+duo tang tie fu he wu jiao nang	多糖铁复合物胶囊	3
+duo wei yao suo wu	多为药所误	3
+duo bu zha xiang	多布扎乡	2
+duo guan zhuan tang pao xun lei chong	多管转膛炮迅雷铳	2
+duo jia lu	多稼路	2
+duo jia yi miao	多价疫苗	2
+duo jing ru luan	多精入卵	2
+duo qing que shi zong wu qing	多情却似总无情	2
+duo wei yuan su jiao nang	多维元素胶囊	2
+duo yi bi duo nan	多易必多难	2
+duo bian hua qiu	多变花楸	1
+duo bu guo liu qi	多不过六七	1
+duo bu guo san si	多不过三四	1
+duo cai bing pi yue bing	多彩冰皮月饼	1
+duo cai xiang	多彩乡	1
+duo dong ning jiao nang	多动宁胶囊	1
+duo duo jing shen ye ye rou	朵朵精神叶叶柔	1
+duo duo xiang	夺多乡	1
+duo fa xing zhi fang liu	多发性脂肪瘤	1
+duo fu duo	多氟多	1
+duo gong neng mei	多功能酶	1
+duo jian er shi zhi	多见而识之	1
+duo jiao da bai cai	剁椒大白菜	1
+duo jiao xiang	多角乡	1
+duo jiao zheng yu tou zai	剁椒蒸芋头仔	1
+duo ju mei	多聚酶	1
+duo lu chuan shu kong zhi dan yuan	多路传输控制单元	1
+duo men chi ya mu	多门齿亚目	1
+duo qing ming yue yao jun gong	多情明月邀君共	1
+duo qing zhi you chun ting yue	多情只有春庭月	1
+duo qu zhi er bu wei nve	多取之而不为虐	1
+duo que xiang	多却乡	1
+duo sha zuo qin	多沙唑嗪	1
+duo shao chang an ming li ke	多少长安名利客	1
+duo shao chun hua qiu yue	多少春花秋月	1
+duo shao qin peng jin bai tou	多少亲朋尽白头	1
+duo shi cao tai chong	多室草苔虫	1
+duo suo cha jian zhu she ye	多索茶碱注射液	1
+duo tai xian xiang	多态现象	1
+duo tang tie jiao nang	多糖铁胶囊	1
+duo wei huang gua	多味黄瓜	1
+duo wei jiang xiang guan	多为将相官	1
+duo wei tie kou fu rong ye	多维铁口服溶液	1
+duo xi lin zhi xian dan jian	多烯磷脂酰胆碱	1
+duo xi suan yi zhi	多烯酸乙酯	1
+duo xi zi shan chun	多西紫杉醇	1
+duo xi zi shan chun	多烯紫杉醇	1
+duo yu ji shang zhi gong nv	多于机上之工女	1
+duo yu jiu tu zhi cheng guo	多于九土之城郭	1
+duo yu nan mu zhi nong fu	多于南亩之农夫	1
+duo yu shi ren zhi yan yu	多于市人之言语	1
+duo yu zai yu zhi su li	多于在庾之粟粒	1
+duo yu zhou shen zhi bo lv	多于周身之帛缕	1
+duo yuan wen hua gong min quan	多元文化公民权	1
+duo ba deng kong diao	多耙灯孔鲷	0
+duo ba guang chun yu	多耙光唇鱼	0
+duo ba huang dai yu	多耙皇带鱼	0
+duo ba kuang deng yu	多耙眶灯鱼	0
+duo bian bao	多变鲍	0
+duo bian juan guan luo	多變捲管螺	0
+duo chi he xin lu long	多齿何信禄龙	0
+duo chun chong shu	多唇虫属	0
+duo ci cu mao bei mian xie	多刺粗毛贝绵蟹	0
+duo ci fu tang	多刺斧螳	0
+duo ci qiang huang	多刺蔷蝗	0
+duo ci shi wei ci li yu	多刺施韦茨丽鱼	0
+duo ci zhi mei ping	多刺直眉鲆	0
+duo dai fu ju ci gai yu	多带副锯刺盖鱼	0
+duo dai jin qian yu	多带金钱鱼	0
+duo dai mao wen hai long	多带矛吻海龙	0
+duo dian fu jiao fang fu	多点副角鲂鮄	0
+duo dian yuan lu zhong	多点远露螽	0
+duo fu wa tou du fu yu	多辐蛙头杜父鱼	0
+duo gan jiao ying mian ya	多感角瘿绵蚜	0
+duo gao gou cao tao chong	多睾钩槽绦虫	0
+duo ge xing tuan ba bu	多哥星团巴布	0
+duo huan ban jie hai long	多环斑节海龙	0
+duo huan feng huang luo	多環鳳凰螺	0
+duo ji bei ji yu	多棘背棘鱼	0
+duo ji ci yuan xi chong	多棘刺缘吸虫	0
+duo ji dan xu ye lu	多棘单须叶鲈	0
+duo ji du fu yu	多棘杜父鱼	0
+duo ji jiao ya mu	多棘鲛亚目	0
+duo ji mu ou hai mian chong	多棘木偶海绵虫	0
+duo ji ni mao	多棘拟毛	0
+duo ji niu sai zun	多肌纽鳃樽	0
+duo ji qiang wen xue	多棘腔吻鳕	0
+duo ji suo shen you wei	多棘索深鼬鳚	0
+duo ji wei	多棘鳂	0
+duo ji xin jian chi que diao	多棘新箭齿雀鲷	0
+duo ji yu luo	多棘芋螺	0
+duo jing fu luo li da jiang	多睛弗罗里达鳉	0
+duo jing pu li yu	多睛朴丽鱼	0
+duo jing yao	多睛鳐	0
+duo kong zhi wu men	多孔植物门	0
+duo lin can bi ping	多鳞残臂鲆	0
+duo lin ci fang pi	多鳞刺鰟鮍	0
+duo lin ci pang pi	多鳞刺鳑鲏	0
+duo lin dao ci ba	多鳞倒刺鲃	0
+duo lin duan e ping	多鳞短额鮃	0
+duo lin gou mu yu	多鳞狗母鱼	0
+duo lin yi chi gu hui	多鳞异齿谷鮰	0
+duo lin ying ka tang li	多鳞英卡塘鳢	0
+duo luan he rong he	多卵核融合	0
+duo mao chui yuan qiu sou	多毛垂缘蛷螋	0
+duo mao cu wei xue	多毛粗尾鱈	0
+duo mao li xiao ye jia	多毛丽肖叶甲	0
+duo mao ni fu ying	多毛拟浮萤	0
+duo mao ni wan hou ying	多毛拟弯喉萤	0
+duo mao qie shao xiao du	多毛切梢小蠹	0
+duo mao tu chun luo	多毛兔唇螺	0
+duo mao xi xiao du	多毛细小蠹	0
+duo mao xia mang chun	多毛狭盲蝽	0
+duo mao zhong guo yuan	多毛中国蚖	0
+duo mi ni jia mo li yu	多米尼加摩利鱼	0
+duo nao he shuang chi qi sai man	多瑙河双齿七鳃鳗	0
+duo sai yu chao mu	多鳃鱼超目	0
+duo se wei ba weng	多色苇霸鹟	0
+duo sha yuan shi fen ge chong	多砂原始分隔虫	0
+duo shou du shui mu	多手毒水母	0
+duo shou juan si shui mu	多手卷丝水母	0
+duo shou mao xing shui mu	多手帽形水母	0
+duo shou zhi tu shui mu	多手指突水母	0
+duo tai la ba chong	多态喇叭虫	0
+duo wei lei jiao shi	多味蕾角石	0
+duo wen niu yao dan luo	多纹扭腰蜑螺	0
+duo wen zhang wei yi	多纹长尾鮨	0
+duo xiao zhi zhi huan chong	多小枝指环虫	0
+duo xing yuan nang sao	多型圆囊溞	0
+duo xu cha zhi you	多须叉指鲉	0
+duo xu duo zhi you	多须多指鮋	0
+duo yan dian qi xu wei	多眼点歧须鮠	0
+duo ye shun mu chong	多叶瞬目虫	0
+duo you ji wa	多疣棘蛙	0
+duo zhi bian guan an kang	多指鞭冠鮟鱇	0
+duo zhi dong	多指鮗	0
+duo zhong bei	多中贝	0
+duo zhong ge yuan xue shuo	多种个员学说	0
+duo zhou dan mai sui feng	多皱淡脉隧蜂	0
+duo zhou duan shen qian gang man	多皱短身前肛鳗	0
+duo zu dong wu ya men	多足动物亚门	0

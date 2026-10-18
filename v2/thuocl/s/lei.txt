@@ -1,0 +1,240 @@
+lei nuo	雷诺	137332
+lei ming	类名	74082
+lei ku	类库	40453
+lei bie	类别	39956
+lei dui xiang	类对象	31970
+lei ji cheng	类继承	29363
+lei xing zhuan huan	类型转换	28700
+lei fang fa	类方法	23690
+lei feng	雷锋	21162
+lei ding yi	类定义	19900
+lei wen jian	类文件	18096
+lei tu	类图	13168
+lei cheng yuan	类成员	10765
+lei xing bian liang	类型变量	10031
+lei jia zai	类加载	9908
+lei jia zai qi	类加载器	9115
+lei xing can shu	类型参数	8314
+lei bian liang	类变量	8262
+lei de ji cheng	类的继承	7973
+lei lei xing	类类型	7902
+lei liu man mian	泪流满面	7629
+lei fan	累犯	7565
+lei xing an quan	类型安全	6943
+lei shu xing	类属性	5627
+lei gu	肋骨	5553
+lei de jia zai	类的加载	5101
+lei han shu	类函数	4775
+lei li feng xing	雷厉风行	4591
+lei he dui xiang	类和对象	4457
+lei sheng	雷声	3541
+lei chu shi hua	类初始化	3510
+lei mu ban	类模板	3430
+lei mu	类目	3298
+lei cheng yuan han shu	类成员函数	3245
+lei gu gu zhe	肋骨骨折	3220
+lei xing zhuan hua	类型转化	3048
+lei cha	擂茶	3019
+lei da bu dong	雷打不动	2641
+lei zhuang zai qi	类装载器	2540
+lei kuo zhan	类扩展	2329
+lei xing xi tong	类型系统	2079
+lei yu dui xiang	类与对象	1827
+lei nuo fang cheng shi	雷诺方程式	1814
+lei xing tui duan	类型推断	1778
+lei sheng da yu dian xiao	雷声大雨点小	1566
+lei yang shi	耒阳市	1544
+lei guan xi	类关系	1526
+lei da zhan	雷达站	1433
+lei kai	雷恺	1362
+lei ru yu xia	泪如雨下	1331
+lei jia zai ji zhi	类加载机制	1282
+lei zhou shi	雷州市	1187
+lei jun	雷军	1067
+lei yu	雷宇	910
+lei nuo mei gan na	雷诺梅甘娜	866
+lei dian jiao jia	雷电交加	751
+lei xing xing can	类型形参	678
+lei ting wan jun	雷霆万钧	650
+lei cu	类簇	600
+lei xing yue shu	类型约束	554
+lei feng shi guan jie yan	类风湿关节炎	553
+lei xing ca chu	类型擦除	534
+lei xing yu	类型域	521
+lei gu chun	类固醇	508
+lei ru quan yong	泪如泉涌	413
+lei feng da dao	雷锋大道	408
+lei yi	雷伊	363
+lei ji	类集	352
+lei shan	雷山	341
+lei xing shi can	类型实参	340
+lei mang nai li sai	勒芒耐力赛	312
+lei bing du	类病毒	299
+lei xian	泪腺	270
+lei fan she	类反射	241
+lei mang sai dao	勒芒赛道	222
+lei nuo a	雷诺阿	195
+lei jie qiong	雷洁琼	194
+lei zhou gou rou bao	雷州狗肉煲	184
+lei xing tui li	类型推理	160
+lei zhen	雷震	149
+lei jia ji cun qi	累加寄存器	142
+lei xing can shu lie biao	类型参数列表	134
+lei yan wang wang	泪眼汪汪	133
+lei gong shan	雷公山	132
+lei ji kuang jia	类集框架	128
+lei wu qi	类乌齐	128
+lei jia dou fu yuan zi	雷家豆腐圆子	106
+lei sha yuan	擂沙圆	99
+lei jin shui	累进税	93
+lei bu	勒布	72
+lei gong teng	雷公藤	70
+lei feng cun	雷峰村	67
+lei da shi	雷打石	62
+lei ting yi ji	雷霆一击	59
+lei nie	雷涅	57
+lei nang yan	泪囊炎	49
+lei xing xue	类型学	44
+lei pa mei su	雷帕霉素	42
+lei feng shi yin zi	类风湿因子	41
+lei gu chun ji su	类固醇激素	41
+lei san jiao bang	类三角蚌	39
+lei ni ti ding	雷尼替丁	37
+lei du su	类毒素	32
+lei de er	雷德尔	30
+lei ling	雷玲	29
+lei xing lun	类型论	26
+lei ji si	雷击死	25
+lei yang xian	耒阳县	24
+lei bi ju jia dan bao jun	类鼻疽假单胞菌	23
+lei dao zu se	泪道阻塞	21
+lei fei dun zuo qing pen yu	泪飞顿作倾盆雨	21
+lei bi tui li	类比推理	20
+lei guan	泪管	20
+lei jia qiao	雷家桥	19
+lei jia cun	雷家村	18
+lei nuo de	雷诺德	17
+lei ren yuan ya mu	类人猿亚目	17
+lei xiao guan duan lie	泪小管断裂	17
+lei gong teng pian	雷公藤片	16
+lei ling	雷岭	15
+lei she ji qi	类设计器	15
+lei che quan	勒车犬	14
+lei gong keng	雷公坑	13
+lei shi chun shan xiu	泪湿春衫袖	12
+lei dao chong xi	泪道冲洗	11
+lei zu dian	雷祖殿	10
+lei gong teng duo gan pian	雷公藤多苷片	9
+lei gong teng shuang ceng pian	雷公藤双层片	9
+lei mi te	雷米特	9
+lei shan cun	雷山村	9
+lei xiu xiang	勒秀乡	9
+lei zhu	勒竹	9
+lei zhu he bi mo qi xia	泪珠和笔墨齐下	9
+lei long wan xiang	雷龙湾乡	8
+lei qiao	雷桥	8
+lei yong qing	雷永青	8
+lei gong teng zong tie pian	雷公藤总萜片	7
+lei jia gou	雷家沟	7
+lei jian cheng	雷建成	7
+lei man chun shan xiu	泪满春衫袖	7
+lei tian pao chuang	类天疱疮	7
+lei zhai	雷寨	7
+lei zhi he lin dan bao jun	类志贺邻单胞菌	7
+lei bei la zuo	雷贝拉唑	6
+lei fa da	雷发达	6
+lei gong zui	雷公嘴	6
+lei bi ju	类鼻疽	5
+lei feng cun	雷丰村	5
+lei gong tang	雷公塘	5
+lei jia zhai	雷家寨	5
+lei nuo kao te	雷诺考特	5
+lei xiao li	雷晓丽	5
+lei dun	雷遁	4
+lei feng shi jie jie	类风湿结节	4
+lei jian chi hu	类剑齿虎	4
+lei pu	勒普	4
+lei yi	泪溢	4
+lei zu miao	嫘祖庙	4
+lei bei la zuo na chang rong pian	雷贝拉唑钠肠溶片	3
+lei dao xia zhai	泪道狭窄	3
+lei feng shi xing xin zang bing	类风湿性心脏病	3
+lei gong teng jia su	雷公藤甲素	3
+lei gu	泪骨	3
+lei jia yuan zi	雷家院子	3
+lei luo xi fen	雷洛昔芬	3
+lei luo xing yue gao	磊落星月高	3
+lei nuo bing	雷诺病	3
+lei qiao cun	雷桥村	3
+lei qie	雷切	3
+lei wang xiang	雷王乡	3
+lei yuan xiang	雷塬乡	3
+lei ai zong he zheng	类癌综合征	2
+lei ci you ke zi	类此游客子	2
+lei gong ping	雷公坪	2
+lei gong teng duo dai	雷公藤多甙	2
+lei hen hong yi jiao xiao tou	泪痕红浥鲛绡透	2
+lei jia dou fu yuan zi	雷家豆腐元子	2
+lei lao fan chou chang	羸老反惆怅	2
+lei nang ti	类囊体	2
+lei ni ti ding jiao nang	雷尼替丁胶囊	2
+lei san er bu zhui	累三而不坠	2
+lei teng bu ke chong	雷腾不可冲	2
+lei ting zou jing rui	雷霆走精锐	2
+lei wan	雷丸	2
+lei wu er bu zhui	累五而不坠	2
+lei xia te lie	勒夏特列	2
+lei yan wen hua hua bu yu	泪眼问花花不语	2
+lei yang zhen	雷阳镇	2
+lei yuan cun	雷园村	2
+lei zhan hong mo xiong	泪沾红抹胸	2
+lei zhi gang ji ye	类之纲纪也	2
+lei bai hou gan jun	类白喉杆菌	1
+lei bai ke ji	雷柏科技	1
+lei da sheng	雷大升	1
+lei dian cun	雷甸村	1
+lei du su yi miao	类毒素疫苗	1
+lei gong shan tian ma	雷公山天麻	1
+lei gong teng duo dai pian	雷公藤多甙片	1
+lei gu dong shan chuan	雷鼓动山川	1
+lei gu zhi	类骨质	1
+lei hen hong yi jiao xiao tou	泪痕红悒鲛绡透	1
+lei ji si wang lv	累积死亡率	1
+lei jia qi xiang	雷家碛乡	1
+lei jia wan	雷家湾	1
+lei ke	雷恪	1
+lei luo ai zheng qu	泪落哀筝曲	1
+lei mi pu li pian	雷米普利片	1
+lei ming ke hua	雷鸣科化	1
+lei rong can fen hua dian zhong	泪融残粉花钿重	1
+lei shang liu yun jie yue zhang	累上留云借月章	1
+lei tian tian xi yu ming ming	雷填填兮雨冥冥	1
+lei tong	雷铜	1
+lei xia ru beng quan	泪下如迸泉	1
+lei yi bu neng wei zhi duo	泪亦不能为之堕	1
+lei yi cheng	雷以诚	1
+lei zhen ti	雷贞倜	1
+lei zuo bai shan dong	雷作百山动	1
+lei an de luo ye bao luo	类安得罗叶宝螺	0
+lei bao lie mao bao luo	雷暴猎帽宝螺	0
+lei bi ju bo ke hai luo	类鼻疽伯克海螺	0
+lei da ling jiao luo	雷達菱角螺	0
+lei dong wu yuan sheng sheng wu	类动物原生生物	0
+lei fan long qi dan bao jun	类凡隆气单胞菌	0
+lei fei fu ke nai shi yu	勒非副克奈氏鱼	0
+lei fei qi xu wei	勒菲歧须鮠	0
+lei huang duan ji ying	类黄端棘蝇	0
+lei ke nao shi yan xi chong	勒克瑙嗜眼吸虫	0
+lei leng jiao ju shi	类棱角菊石	0
+lei li xing jiao zhu	类梨形狡蛛	0
+lei mi gao ao bao quan liang	雷米高澳宝犬粮	0
+lei ming dun jing	雷明顿鲸	0
+lei nuo zi shi bing nian	雷诺兹氏兵鲶	0
+lei pu dun yu luo	雷普顿芋螺	0
+lei qiang diao fa	雷强钓法	0
+lei shi cao mang chun	雷氏草盲蝽	0
+lei shi qiang ji du fu yu	勒氏强棘杜父鱼	0
+lei shi xi zhi li	雷氏溪脂鲤	0
+lei su wei si long shu	勒苏维斯龙属	0
+lei tong yun ban zhu	类筒云斑蛛	0
+lei xian dao yang ji	雷仙岛秧鸡	0

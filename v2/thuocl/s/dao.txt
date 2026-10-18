@@ -1,0 +1,247 @@
+dao lu jiao tong	道路交通	169717
+dao gu	稻谷	58325
+dao qi	到期	44970
+dao lu jiao tong an quan fa	道路交通安全法	31984
+dao hang lan	导航栏	11356
+dao mo	倒模	11026
+dao qu	盗取	10182
+dao mang quan	导盲犬	10113
+dao ru dao chu	导入导出	9002
+dao tian	稻田	8899
+dao xu	倒序	8684
+dao kou	道口	8328
+dao yong	盗用	7823
+dao xiao mian	刀削面	7105
+dao ru shu ju	导入数据	6861
+dao jiu	道酒	6778
+dao lu jiao tong guan li	道路交通管理	6547
+dao hua xiang	稻花香	5282
+dao ru xiang mu	导入项目	4008
+dao hang tiao	导航条	3725
+dao lang	刀狼	3665
+dao chu shu ju	导出数据	3646
+dao shua	盗刷	3197
+dao bao	导包	3136
+dao lu jiao tong shi gu chu li	道路交通事故处理	2909
+dao an jia ge	到岸价格	2905
+dao chu han shu	导出函数	2737
+dao chu wen jian	导出文件	2559
+dao ru gong cheng	导入工程	2497
+dao zhang	到账	2373
+dao chu biao	导出表	2236
+dao guang	道光	2096
+dao ting tu shuo	道听途说	1843
+dao pai suo yin	倒排索引	1802
+dao ge la si	道格拉斯	1677
+dao qi kai ling	道奇凯领	1655
+dao hang cai dan	导航菜单	1577
+dao chu lei	导出类	1355
+dao ba	倒巴	1301
+dao xing ni shi	倒行逆施	1155
+dao gou zhuan ti	导购专题	1147
+dao kou shao ji	道口烧鸡	1101
+dao mu bi ji	盗墓笔记	965
+dao xiang cun	稻香村	949
+dao han	盗汗	883
+dao guang jian ying	刀光剑影	855
+dao you ren yuan guan li tiao li	导游人员管理条例	770
+dao bei ru liu	倒背如流	767
+dao da yi pa	倒打一耙	712
+dao qian ti dan	倒签提单	695
+dao cheng	稻城	672
+dao qi gong yang	道奇公羊	662
+dao bing	刀柄	652
+dao da dian hua	盗打电话	552
+dao fu	道孚	550
+dao gao yi chi	道高一尺	533
+dao wai	道外	527
+dao lang	刀郎	508
+dao mao an ran	道貌岸然	508
+dao li	道里	495
+dao qie qiang zhi	盗窃枪支	456
+dao gao yi zhang	道高一丈	409
+dao fa lin mu zui	盗伐林木罪	408
+dao zhong	道中	380
+dao geng huo zhong	刀耕火种	374
+dao gao yi chi mo gao yi zhang	道高一尺魔高一丈	336
+dao an	道安	303
+dao xiang chun	稻香春	300
+dao hang ye	导航页	281
+dao lu kou	道路口	264
+dao xia liu ren	刀下留人	259
+dao hang shu xing	导航属性	208
+dao bei	道北	197
+dao yi you dao	盗亦有道	191
+dao nan	道南	187
+dao qiang ru ku	刀枪入库	169
+dao de wen zhang	道德文章	137
+dao zhong liu ji shui	到中流击水	126
+dao bei	到背	125
+dao zhen xian	道真县	125
+dao xiang yuan	稻香园	122
+dao jue gu mu zang zui	盗掘古墓葬罪	119
+dao hang zhan	导航站	117
+dao men kou	道门口	117
+dao qi ri	到期日	107
+dao dong	道东	106
+dao bu tong bu xiang wei mou	道不同不相为谋	99
+dao zi zui dou fu xin	刀子嘴豆腐心	97
+dao xiang hu	稻香湖	95
+dao guo wei yin	倒果为因	91
+dao liu	到流	91
+dao qiang jian ji	刀枪剑戟	88
+dao mang quan jiao na	导盲犬娇娜	86
+dao gou	道沟	77
+dao de gai lun	道德概论	65
+dao qie ci	刀切糍	65
+dao hua xiang li shuo feng nian	稻花香里说丰年	62
+dao shi wu qing que you qing	道是无晴却有晴	57
+dao che deng kai guan	倒车灯开关	56
+dao shan huo hai	刀山火海	56
+dao guang di	道光帝	55
+dao qi tuo yuan zhe	道奇拓远者	51
+dao wu shan	道吾山	47
+dao jiao	道角	45
+dao shan lu	道山路	41
+dao wei	刀围	41
+dao lu yi mu	道路以目	40
+dao qie qiang zhi dan yao zui	盗窃枪支弹药罪	39
+dao li	岛里	34
+dao guang xue ying	刀光血影	33
+dao mei lan	刀美兰	28
+dao sheng	导生	26
+dao zei zhong fa	盗贼重法	26
+dao shan lu kou	道山路口	25
+dao wei	倒位	25
+dao ba mian	刀拔面	24
+dao gu xian feng	道骨仙风	24
+dao tian cun	稻田村	24
+dao hai fan jiang juan ju lan	倒海翻江卷巨澜	23
+dao chu gui ze	导出规则	21
+dao mi du	道密度	21
+dao wu	道吾	21
+dao qie su	刀切酥	20
+dao wan	到湾	20
+dao kou nan cun	倒口南村	18
+dao shi	道石	18
+dao yuan wu lang	稻垣吾郎	18
+dao qi yao xiang	岛崎遥香	16
+dao di	稻地	15
+dao bei xiao xue	道北小学	14
+dao chu ying ge yan wu	到处莺歌燕舞	14
+dao kou shao ji guan tou	道口烧鸡罐头	12
+dao xiang xin cun	稻香新村	12
+dao zhi xian wei jing	倒置显微镜	12
+dao gu cang	稻谷仓	11
+dao jia yuan	道家园	11
+dao xi	倒西	11
+dao xian yue yan lin chang	道县月岩林场	11
+dao kou pu jie dao	道口铺街道	10
+dao lu zu qie zhang	道路阻且长	10
+dao qian sheng zhi guo	道千乘之国	10
+dao xiang hu jing	稻香湖景	10
+dao bei lu	道北路	9
+dao chi san	导赤散	9
+dao jue gu mu zui	盗掘古墓罪	9
+dao nong die	稻弄蝶	9
+dao te	岛螣	9
+dao gan lin chang	道干林场	8
+dao guan nei ru tou zhuang liu	导管内乳头状瘤	8
+dao jiao cun	道教村	8
+dao wu di	道武帝	8
+dao jing	倒经	7
+dao qian qi quan	倒签期权	7
+dao niao shu	导尿术	6
+dao tian cun nan kou	稻田村南口	6
+dao bei she qu	稻北社区	5
+dao chuan fan ying	氘氚反应	5
+dao guan cha ru shu	导管插入术	5
+dao nan xiao xue	道南小学	5
+dao lu jiao tong an quan fa xue	道路交通安全法学	4
+dao mi liu zhi su mi bai	稻米流脂粟米白	4
+dao ming chi yan feng	稻螟赤眼蜂	4
+dao xian qiao tou lin chang	道县桥头林场	4
+dao zei ke yi si	盗贼可以死	4
+dao fei shen wai geng he qiu	道非身外更何求	3
+dao gong	悼公	3
+dao jin yi hong	岛津义弘	3
+dao nan she qu	稻南社区	3
+dao shi fu	道士袱	3
+dao shi ying xiao feng	稻虱缨小蜂	3
+dao ting er tu shuo	道听而途说	3
+dao xia cao mu zhang	道狭草木长	3
+dao xiao qian ye ying	稻小潜叶蝇	3
+dao yi le de zhi	道亦乐得之	3
+dao yi you dao hu	盗亦有道乎	3
+dao yu geng lu zi mian	刀鱼羹卤子面	3
+dao chang wu wei er wu bu wei	道常无为而无不为	2
+dao chu qian bei xin	到处潜悲辛	2
+dao de wu qian yan	道德五千言	2
+dao gu qiao	道古桥	2
+dao kou cao	倒扣草	2
+dao lu tiao tiao yi yue cheng	道路迢迢一月程	2
+dao qing ming shi hou	到清明时候	2
+dao shu xuan ya ban	道束悬崖半	2
+dao xian da ping pu nong chang	道县大坪铺农场	2
+dao xiang chun nan wei shi pin	稻香春南味食品	2
+dao xiao you po mian	刀削油泼面	2
+dao yin feng ya cun	道因风雅存	2
+dao you yuan shou ce	导游员手册	2
+dao bang yu jia reng shi qian	道傍榆荚仍似钱	1
+dao bei zi qi qiu	倒被紫绮裘	1
+dao chao hu tong	倒钞胡同	1
+dao che shi pin ying xiang	倒车视频影像	1
+dao chuang bu fu wen zhong gu	倒床不复闻钟鼓	1
+dao ci ling ren shi si mi	到此令人诗思迷	1
+dao de san huang wu di	道德三皇五帝	1
+dao gao xiang	刀告乡	1
+dao gu bu xiao xing	道固不小行	1
+dao gu hai shi wo	道孤还似我	1
+dao gu tong	岛谷瞳	1
+dao guan cun	道观村	1
+dao heng zhi er cheng	道行之而成	1
+dao liang hui zhi yong jue xi	悼良会之永绝兮	1
+dao ling jian cun	悼陵监村	1
+dao nong pi yan	稻农皮炎	1
+dao ping cun	道坪村	1
+dao sen li nai	稻森丽奈	1
+dao sen quan	稻森泉	1
+dao shen gan qin bai ji yu	倒身甘寝百疾愈	1
+dao shi wu qing hai you qing	道是无情还有情	1
+dao te nao er zhen	道特淖尔镇	1
+dao tian cun nan	稻田村南	1
+dao wei zang zu xiang	道帏藏族乡	1
+dao xi she qu	稻西社区	1
+dao xiang fan shi lan ke ren	到乡翻似烂柯人	1
+dao yao tu chang sheng	捣药兔长生	1
+dao ye hao zhi	稻叶浩志	1
+dao yu jia jing se	岛屿佳境色	1
+dao yuan run yi	稻垣润一	1
+dao zei chu yu pin qiong	盗贼出于贫穷	1
+dao zei hai ben tu	盗贼还奔突	1
+dao zhi jiang fei ye yu	道之将废也与	1
+dao zhi jiang xing ye yu	道之将行也与	1
+dao zhi yang jian xing	道芷阳间行	1
+dao zhou you li shu	道州忧黎庶	1
+dao zhuang cun	道庄村	1
+dao bao chong ao yan ji feng	稻苞虫凹眼姬蜂	0
+dao bao chong fu bing ji xiao feng	稻苞虫腹柄姬小蜂	0
+dao bao chong hu ji ji feng	稻苞虫弧脊姬蜂	0
+dao bao chong xia kong jian feng	稻苞虫下孔茧蜂	0
+dao bao chong yu jiao ji xiao feng	稻苞虫羽角姬小蜂	0
+dao ge la si xian zhi	道格拉斯线指	0
+dao gua jin zhong bai fen shi	倒挂金钟白粉虱	0
+dao luan xing zhan ti chong	倒卵形粘体虫	0
+dao mao chong hua jian ji feng	稻毛虫花茧姬蜂	0
+dao qi chui er tu	道奇垂耳兔	0
+dao qian ying li e jian feng	稻潜蝇离颚茧蜂	0
+dao shi ying fu	道氏蝇蝠	0
+dao xiao qian ying jian feng	稻小潜蝇茧蜂	0
+dao xin ye tao ye shan hu	倒心叶桃叶珊瑚	0
+dao yan die bai fu ji xiao feng	稻眼蝶白趺姬小蜂	0
+dao ying wen huang bing hei feng	稻瘿蚊黄柄黑蜂	0
+dao yu ya ao xiao ye jia	岛屿亚澳肖叶甲	0
+dao zhang ju xuan xiao feng	稻长距旋小蜂	0
+dao zhuan zhao chao xie	倒转招潮蟹	0
+dao zong juan ye ming zhong tui feng	稻纵卷叶螟肿腿蜂	0
+dao zong juan ye ye ming e	稻纵卷叶野螟蛾	0

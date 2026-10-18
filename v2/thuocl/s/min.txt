@@ -1,0 +1,260 @@
+min sheng	民生	370864
+min gan	敏感	69913
+min zheng ju	民政局	41184
+min shi xing wei neng li	民事行为能力	36622
+min shi an jian	民事案件	28603
+min shi cai ding	民事裁定	16995
+min shi jiu fen	民事纠纷	16275
+min ban fei qi ye dan wei	民办非企业单位	12535
+min jian	民建	7625
+min xing	闵行	6556
+min shi fa lv xing wei	民事法律行为	6329
+min gan xing	敏感性	6243
+min shang shi an jian	民商事案件	4890
+min jie kai fa	敏捷开发	4342
+min yi shi wei tian	民以食为天	3901
+min zu feng qing	民族风情	3635
+min cai	闽菜	3325
+min zu qu yu zi zhi fa	民族区域自治法	3128
+min gan shu ju	敏感数据	2747
+min an	民安	1659
+min yong hang kong fa	民用航空法	1265
+min su cun	民俗村	1108
+min yong jian zhu jie neng tiao li	民用建筑节能条例	1042
+min ban gong zhu	民办公助	992
+min zhu lu	民主路	974
+min sheng lu	民生路	926
+min he	民和	832
+min bu liao sheng	民不聊生	802
+min zu wen hua gong	民族文化宫	713
+min zu xue yuan	民族学院	712
+min shang he yi	民商合一	710
+min yuan fei teng	民怨沸腾	683
+min feng	民丰	626
+min gan ci	敏感词	624
+min shi cai pan	民事裁判	606
+min fu guo qiang	民富国强	601
+min qin	民勤	582
+min zu lu	民族路	526
+min su wen hua cun	民俗文化村	485
+min xing ke	民行科	430
+min hang guan li ju	民航管理局	419
+min zhi min gao	民脂民膏	361
+min shi zhi xing cheng xu	民事执行程序	343
+min zu zi zhi xian	民族自治县	306
+min hang lu	民航路	299
+min zu yi yuan	民族医院	261
+min he xian	民和县	251
+min yong hang kong qi you xian quan	民用航空器优先权	250
+min sheng diao bi	民生凋敝	233
+min jie shi jian	敏捷实践	216
+min shi cheng xu fa	民事程序法	196
+min wei bang ben	民为邦本	188
+min yue yuan	民乐园	161
+min xing chu	民行处	156
+min shi te bie fa	民事特别法	154
+min gan ci guo lv	敏感词过滤	148
+min shi zhi xing quan	民事执行权	144
+min jiang gong yuan	闽江公园	143
+min shi qi zha xing wei	民事欺诈行为	143
+min zhu jie	民主街	122
+min hang xue yuan	民航学院	120
+min jie kai fa guo cheng	敏捷开发过程	120
+min shi ze ren cheng dan fang shi	民事责任承担方式	120
+min hou shang jie	闽侯上街	117
+min jie kai fa yuan ze	敏捷开发原则	114
+min tian lu	民田路	109
+min shi jiu fen jie jue	民事纠纷解决	106
+min shi guan xia quan	民事管辖权	105
+min wu xin bu li	民无信不立	104
+min hang yi yuan	民航医院	98
+min yue cun	民乐村	97
+min zu yuan	民族园	97
+min shi su song mu di	民事诉讼目的	96
+min shi qiang zhi zhi xing fa	民事强制执行法	94
+min ying jing ji kai fa qu	民营经济开发区	93
+min de lu	民德路	90
+min yi you qi you	民亦忧其忧	86
+min an lu	民安路	84
+min yi le qi le	民亦乐其乐	76
+min zhu gang guo	民主刚果	75
+min sheng jie	民生街	74
+min zheng you fu dui xiang	民政优抚对象	74
+min hang da sha	民航大厦	71
+min zhu she qu	民主社区	71
+min gan yuan jian	敏感元件	70
+min gan xing pi fu	敏感性皮肤	67
+min shi ze ren jing he	民事责任竞合	67
+min zheng xue yuan	民政学院	67
+min ke shi you zhi	民可使由之	66
+min quan jie	民权街	66
+min zhuang	闵庄	66
+min er hao xue	敏而好学	63
+min xin	民新	63
+min yuan lu	民院路	63
+min jiang da qiao	闽江大桥	59
+min yong ji chang guan li tiao li	民用机场管理条例	58
+min bao wu yu	民胞物与	55
+min jiang lu	岷江路	52
+min de gui hou yi	民德归厚矣	51
+min zheng da sha	民政大厦	51
+min shi du cu qi su	民事督促起诉	50
+min xing lu	民星路	49
+min hou xian wei	闽侯县委	47
+min ying qi ye fa lv gu wen	民营企业法律顾问	47
+min feng lu	民丰路	45
+min mian er wu chi	民免而无耻	42
+min shi wei tuo dai li he tong	民事委托代理合同	42
+min shi tiao jie zhi du	民事调解制度	39
+min hang ban che	民航班车	38
+min hua	民化	37
+min jie gong ju	敏捷工具	36
+min sheng zai qin	民生在勤	36
+min gui jun qing	民贵君轻	35
+min hang zhan	民航站	34
+min zhu xin cun	民主新村	32
+min zhu guang chang	民主广场	31
+min feng cun	民丰村	29
+min bu wei si	民不畏死	28
+min gao min zhi	民膏民脂	28
+min sheng zheng quan	民生证券	27
+min shi jue ding shu	民事决定书	27
+min shi qin quan gou cheng yao jian	民事侵权构成要件	27
+min yu shi er shen yu yan	敏于事而慎于言	27
+min shi su song cheng xu gong yue	民事诉讼程序公约	26
+min zu yue qi chang	民族乐器厂	25
+min hang lu kou	民航路口	24
+min zhu lu xiao xue	民主路小学	24
+min shi ze ren gou cheng yao jian	民事责任构成要件	23
+min an cun	民安村	20
+min jie kai fa gong ju	敏捷开发工具	20
+min jie yun wei	敏捷运维	20
+min sheng guo	闽生果	20
+min an jie	民安街	19
+min shang shen pan jian ming shou ce	民商审判简明手册	19
+min zhu dong jie	民主东街	19
+min shang fa zai zhi yan jiu sheng	民商法在职研究生	18
+min shi cai pan fang fa	民事裁判方法	18
+min xing zhong xin yi yuan	闵行中心医院	18
+min shi su song fa xue xin bian	民事诉讼法学新编	17
+min an yuan	民安苑	16
+min hou	闽候	16
+min jiang da xue	闽江大学	16
+min ping	民平	16
+min fu fa	闽福发	15
+min qiao	民桥	15
+min shi cuo su ze ren	民事错诉责任	15
+min qing lu	民庆路	14
+min shi cheng xu xuan ze quan	民事程序选择权	14
+min sheng dong lu	民声东路	13
+min sheng jie dao	民胜街道	13
+min shui yuan	闽水园	13
+min sheng da lou	民生大楼	12
+min shi shou quan wei tuo shu	民事授权委托书	12
+min ying qi ye jing ying huan jing	民营企业经营环境	12
+min zhu nan lu	民主南路	12
+min jia cun	闵家村	11
+min kang hu tong	民康胡同	11
+min shi	民实	11
+min yong hang kong guan li zhi du	民用航空管理制度	11
+min yue xin cun	民乐新村	11
+min yun qi che bei zhan	闽运汽车北站	11
+min di	闵帝	10
+min zhi lu	民治路	10
+min zhi wei dao ye	民之为道也	10
+min zhu shi ye	民主视野	10
+min guo fa xue lun wen jing cui	民国法学论文精萃	9
+min shi cheng xu fa yan jiu	民事程序法研究	9
+min zhi cun	民治村	9
+min zhu dao	民主道	9
+min fu lu	民府路	8
+min hang bin guan	民航宾馆	8
+min he lu	民和路	8
+min jing lu	民京路	8
+min ning	旻宁	8
+min feng li	民丰里	7
+min quan gong yue ping zhu	民权公约评注	7
+min xing lu	闵行路	7
+min zhi cun wei	民治村委	7
+min he cun	民和村	6
+min shi bu ke huan ye	民事不可缓也	6
+min shi jian yi cheng xu yan jiu	民事简易程序研究	6
+min shi su song zhong jie	民事诉讼终结	6
+min zhu zi jue quan	民主自决权	6
+min jia zhen	闵家镇	5
+min jiang jie	闽江街	5
+min jin cun	民进村	5
+min jing yi lu	民经一路	5
+min shi shen pan shou ce	民事审判手册	5
+min wang she qu	民旺社区	5
+min an yuan	民安园	4
+min feng hu tong	民丰胡同	4
+min feng ni ya	民丰尼雅	4
+min fu yuan	民富园	4
+min guo ming ren su song an	民国名人诉讼案	4
+min wu ming he yi li	民物命何以立	4
+min zheng jie	民政街	4
+min zhu bei jie she qu	民主北街社区	4
+min zu jie dao	民族街道	4
+min an ju	民安居	3
+min fa fa dian hua yan jiu	民法法典化研究	3
+min feng te zhi	民丰特纸	3
+min gai	敏盖	3
+min hang da yuan	民航大院	3
+min jiang shi ji guang chang	闽江世纪广场	3
+min sheng lu jie dao	民生路街道	3
+min shi shen pan jian yi cheng xu	民事审判简易程序	3
+min shi su song ji ben jie gou	民事诉讼基本结构	3
+min shi wu xiao xing wei	民事无效行为	3
+min si wei xia yi	民斯为下矣	3
+min yi qiu zhi zhe ye	敏以求之者也	3
+min fa dian tan suo yu zhan wang	民法典探索与展望	2
+min hou lu	闽侯路	2
+min jian jie dai	民间借贷	2
+min kang yao ye	民康药业	2
+min shang fa ci dian	民商法辞典	2
+min shi an jian you gui ding	民事案件由规定	2
+min shi bao quan cheng xu yan jiu	民事保全程序研究	2
+min shi qiang zhi zhi xing xin lun	民事强制执行新论	2
+min shi su song an li jing xi	民事诉讼案例精析	2
+min shi su song fa xi ti ji	民事诉讼法习题集	2
+min ting le min pa	民听了民怕	2
+min wei bing she ye	民未病涉也	2
+min xiang yuan	民祥园	2
+min yan lu	民晏路	2
+min yun jie	民运街	2
+min zhi xiang	民治乡	2
+min zhi yu ren ye	民之于仁也	2
+min zhu cun wei hui	民主村委会	2
+min zhu jie ju wei hui	民主街居委会	2
+min zu shang wu jiu dian	民族商务酒店	2
+min an hu tong	民安胡同	1
+min dao yu jin cheng zhi	民到于今称之	1
+min dao yu jin shou qi ci	民到于今受其赐	1
+min dian	岷电	1
+min fu er fu ku shi	民富而府库实	1
+min fu yuan xi men	民富园西门	1
+min gei bo jie shi	敏给搏捷矢	1
+min hou fu zhou shi	闽侯福州市	1
+min hua zuo yong	敏化作用	1
+min jie shi qian shou	敏捷诗千首	1
+min qing mao jiao ji	闽清毛脚鸡	1
+min quan men li jiao qiao	民权门立交桥	1
+min sheng ge you suo le xi	民生各有所乐兮	1
+min sheng xiang	闽省巷	1
+min shi cai pan biao zhun gui fan	民事裁判标准规范	1
+min shi shen pan ji neng	民事审判技能	1
+min shi zheng ju gui ze ying yong	民事证据规则应用	1
+min wu de er cheng yan	民无得而称焉	1
+min xin ji tuan	闽信集团	1
+min yi jie dao	民意街道	1
+min zhu ju wei hui	民主居委会	1
+min zhuang nan li	闵庄南里	1
+min zu da xue she qu	民族大学社区	1
+min bai mei hou	敏白眉猴	0
+min da na gu luo	岷答那骨螺	0
+min dao si shi rong	岷岛司氏戎	0
+min jiang dian pao chong	岷江碘泡虫	0
+min lu jiao	敏鲈胶	0
+min mian ji ying	黾勉棘蝇	0
+min xing zhang xiao yao zhu	皿形长逍遥蛛	0

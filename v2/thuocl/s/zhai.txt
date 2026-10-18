@@ -1,0 +1,144 @@
+zhai quan	债券	1290637
+zhai wu	债务	703307
+zhai quan	债权	427988
+zhai quan ren	债权人	172843
+zhai wu ren	债务人	118399
+zhai ji di	宅基地	57691
+zhai quan zhai wu	债权债务	36482
+zhai wu cheng dan	债务承担	13256
+zhai quan zhuan rang	债权转让	8030
+zhai ji di shi yong quan	宅基地使用权	7828
+zhai tai gao zhu	债台高筑	3370
+zhai wu zhuan yi	债务转移	3152
+zhai pai	摘牌	2536
+zhai shi	债市	1886
+zhai yao suan fa	摘要算法	1619
+zhai zi	寨子	1520
+zhai quan guo	债权国	1266
+zhai quan xing wei	债权行为	1125
+zhai zi	宅子	952
+zhai wu qing qian	债务清欠	646
+zhai quan zui	债券罪	595
+zhai ji di jiu fen	宅基地纠纷	536
+zhai quan qing qiu quan	债权请求权	506
+zhai tang	斋堂	482
+zhai pu	窄谱	417
+zhai ji di zheng	宅基地证	386
+zhai chao ben	摘抄本	363
+zhai quan ren dai wei quan	债权人代位权	306
+zhai wu wei you	债务为由	245
+zhai quan ren che xiao quan	债权人撤销权	243
+zhai quan xing shi zhu yi	债权形式主义	243
+zhai di fa	宅地法	242
+zhai quan zhi du	债权制度	225
+zhai xiang zi	窄巷子	191
+zhai quan bao quan	债权保全	187
+zhai nei	宅内	137
+zhai men	宅门	131
+zhai lu wei	斋卤味	130
+zhai shang	寨上	121
+zhai nei	寨内	117
+zhai wu he yue	债务合约	112
+zhai wu guo	债务国	98
+zhai quan qi quan	债券期权	92
+zhai quan zhi quan	债权质权	87
+zhai wu yi zhuan	债务移转	70
+zhai wu qing chang lv	债务清偿率	69
+zhai quan zheng shu	债权证书	65
+zhai wu ren chi yan	债务人迟延	64
+zhai duo bu chou	债多不愁	60
+zhai qiao	寨桥	51
+zhai quan ren chi yan	债权人迟延	50
+zhai quan yue shu	债权约束	49
+zhai kou	寨口	46
+zhai xia	寨下	41
+zhai zi cun	寨子村	41
+zhai hou	寨后	31
+zhai shang cun	寨上村	27
+zhai wai	寨外	26
+zhai quan tuo guan jie suan ye wu	债券托管结算业务	24
+zhai wu lv xing fu zhu ren	债务履行辅助人	20
+zhai wu xie ding	债务协定	20
+zhai ding	寨顶	14
+zhai ke	宅科	14
+zhai bian	宅边	10
+zhai ping	寨坪	10
+zhai tang zhen zheng fu	斋堂镇政府	9
+zhai po xiang	寨坡乡	6
+zhai bei xiang	宅北乡	5
+zhai ge ta xiang	寨圪塔乡	5
+zhai hou cun	寨后村	5
+zhai lai gu jiu jun ken fou	摘来沽酒君肯否	3
+zhai wu xiao li	债务效力	3
+zhai zai	寨仔	3
+zhai ji di fa lv wen ti	宅基地法律问题	2
+zhai qian cun	寨前村	2
+zhai teng bu	斋藤步	2
+zhai teng gong	斋藤工	2
+zhai xi	宅西	2
+zhai zi gang	寨子岗	2
+zhai zi ta	寨子塔	2
+zhai bian you wu liu shu	宅边有五柳树	1
+zhai de ju hua xie de jiu	摘得菊花携得酒	1
+zhai lai zheng dai ling chen lu	摘来正带凌晨露	1
+zhai ni yu	宅泥鱼	1
+zhai quan ren che xiao quan jiu fen	债权人撤销权纠纷	1
+zhai teng qian sui	斋藤千穗	1
+zhai teng yi long	斋藤义龙	1
+zhai wan cun	寨湾村	1
+zhai wu wei ji	债务危机	1
+zhai ban feng wei jia die	窄斑凤尾蛱蝶	0
+zhai bian guan an kang	窄鞭冠鮟鱇	0
+zhai chi bian chi zhou e	窄翅扁齿舟蛾	0
+zhai chi bo wen e	窄翅波纹蛾	0
+zhai chi jiao wen nong die	窄翅角纹弄蝶	0
+zhai chi lv ye e	窄翅绿夜蛾	0
+zhai chi tian wang bao luo	窄齿天王宝螺	0
+zhai chi zhou e	窄翅舟蛾	0
+zhai chun gang	窄唇纲	0
+zhai dai ba men kong chong	窄带八门孔虫	0
+zhai dai mao wen hai long	窄带矛吻海龙	0
+zhai dai xiao ti	窄带小鳀	0
+zhai e pi pa xie	窄额琵琶蟹	0
+zhai jia qie ye feng	窄颊切叶蜂	0
+zhai ke gang	窄壳纲	0
+zhai kuang duo ji niu wei yu	窄眶多棘牛尾鱼	0
+zhai kuang niu wei yu	窄眶牛尾鱼	0
+zhai lu dai yu	窄颅带鱼	0
+zhai mai juan fen die	窄脉绢粉蝶	0
+zhai mao dan mai sui feng	窄毛淡脉隧蜂	0
+zhai pi pa xie	窄琵琶蟹	0
+zhai qi xu wei	窄歧须鮠	0
+zhai qiao xia zi she xiang gui	窄桥匣子麝香龟	0
+zhai qie ye feng	窄切叶蜂	0
+zhai shen ju hua hui	窄身锯花鮰	0
+zhai shen luo bei dian man	窄身裸背电鳗	0
+zhai shen wei	窄身鮠	0
+zhai shen xin guang chun yu	窄身新光唇鱼	0
+zhai shou xing jian chong	窄瘦形箭虫	0
+zhai ti fu xi qiu	窄体腹吸鳅	0
+zhai ti ping qi wei	窄体平鳍鮠	0
+zhai ti ran xia hu yu	窄体髯鰕虎鱼	0
+zhai tiao guang chun yu	窄条光唇鱼	0
+zhai tiao he tai e	窄条荷苔蛾	0
+zhai tou yi li yu	窄头鮨丽鱼	0
+zhai wei ai shi zi yu	窄尾矮狮子鱼	0
+zhai wei gao yuan qiu	窄尾高原鳅	0
+zhai wei xiao kang xia	窄尾小糠虾	0
+zhai wen jiao sha	窄吻角鲨	0
+zhai wen mao bi nian	窄吻毛鼻鲶	0
+zhai wen meng	窄纹獴	0
+zhai wen qiang wen xue	窄吻腔吻鱈	0
+zhai wen qiang wen xue	窄吻腔吻鳕	0
+zhai wen xiu nong die	窄纹袖弄蝶	0
+zhai xiao dao tang lang	窄小刀螳螂	0
+zhai xiao hua xi xie	窄小华溪蟹	0
+zhai yan dan mai sui feng	窄眼淡脉隧蜂	0
+zhai yan sui yong	窄眼繸鲬	0
+zhai ye niu yu	窄叶牛鱼	0
+zhai ye tu fei sou	窄叶突肥螋	0
+zhai zhao chao xie	窄招潮蟹	0
+zhai zhi zhao chao xie	窄指招潮蟹	0
+zhai zhi zhong xi xie	窄肢中溪蟹	0
+zhai zui lie que	窄嘴鴷雀	0
+zhai zui que	窄嘴雀	0

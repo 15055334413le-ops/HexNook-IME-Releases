@@ -1,0 +1,353 @@
+kun nan	困难	500397
+kun ming	昆明	401420
+kun rao	困扰	166925
+kun huo	困惑	164965
+kun jing	困境	139025
+kun bang	捆绑	111470
+kun shan	昆山	95285
+kun ming shi	昆明市	89475
+kun chong	昆虫	79885
+kun lun	昆仑	71330
+kun nan qun zhong	困难群众	26140
+kun shan shi	昆山市	23715
+kun rao zhe	困扰着	23370
+kun nan shi	困难时	21415
+kun ku	困苦	18855
+kun qu	昆曲	17750
+kun nan chong chong	困难重重	16760
+kun zai	困在	16325
+kun lun shan	昆仑山	14885
+kun nan qun ti	困难群体	14080
+kun nan zhi gong	困难职工	13835
+kun nan xue sheng	困难学生	13565
+kun nan hu	困难户	13230
+kun le	困了	12895
+kun nan le	困难了	12825
+kun juan	困倦	12685
+kun ming zhi yao	昆明制药	12500
+kun nan jia ting	困难家庭	11675
+kun za	捆扎	11590
+kun dun	困顿	10835
+kun ju	困局	10205
+kun biao	坤表	9999
+kun dao	困到	9999
+kun ting	昆汀	9999
+kun peng	鲲鹏	9635
+kun zhu	困住	8570
+kun nan qi ye	困难企业	8245
+kun jiong	困窘	7035
+kun zai	捆在	6090
+kun ming li gong da xue	昆明理工大学	5935
+kun yu	困于	5895
+kun zhu	捆住	5840
+kun de la	昆德拉	5810
+kun bang xiao shou	捆绑销售	5690
+kun ming hu	昆明湖	5325
+kun shi lan	昆士兰	5310
+kun fa	困乏	5295
+kun nan mian qian	困难面前	4925
+kun nan shi qi	困难时期	4855
+kun nan bu zhu	困难补助	4360
+kun ju	昆剧	4325
+kun nan zhe	困难者	4010
+kun nan wen ti	困难问题	3925
+kun za ji	捆扎机	3925
+kun bang shi	捆绑式	3755
+kun shou	困兽	3425
+kun er	捆儿	3333
+kun kun	困困	3333
+kun ming yi xue yuan	昆明医学院	3195
+kun si	困死	3180
+kun teng	昆腾	3140
+kun gang	昆钢	2905
+kun huo le	困惑了	2880
+kun shi lan zhou	昆士兰州	2800
+kun de	困得	2650
+kun di	困敌	2455
+kun e	困厄	2390
+kun chong xue	昆虫学	2370
+kun kun	坤坤	2333
+kun nan du	困难度	2300
+kun qi lai	捆起来	2290
+kun ming shi wu hua qu	昆明市五华区	2285
+kun le	捆了	2220
+kun huo bu jie	困惑不解	2170
+kun lun fan dian	昆仑饭店	2155
+kun shou	困守	2080
+kun zhe	捆着	1955
+kun huo zhe	困惑着	1925
+kun hao	捆好	1885
+kun zao	坤造	1840
+kun bao ji	捆包机	1740
+kun ning gong	坤宁宫	1740
+kun tai	昆泰	1735
+kun bao	捆包	1635
+kun bang ruan jian	捆绑软件	1605
+kun bao	坤包	1545
+kun cheng	捆成	1540
+kun jiao hui	昆交会	1485
+kun lun shan mai	昆仑山脉	1485
+kun fu	捆缚	1465
+kun ming shi xi shan qu	昆明市西山区	1455
+kun qiang	昆腔	1455
+kun shang	捆上	1450
+kun ming shi guan du qu	昆明市官渡区	1410
+kun shou zhi dou	困兽之斗	1350
+kun zhong	昆仲	1285
+kun de	困的	1222
+kun nan xing	困难性	1205
+kun de	捆得	1180
+kun de	捆的	1180
+kun huang hua ye shuai	焜黄华叶衰	1180
+kun shan ao ya	昆山爊鸭	1180
+kun chong hu po	昆虫琥珀	1120
+kun dao	坤道	1111
+kun dao bu xing	困到不行	1111
+kun shu	捆束	1111
+kun yi	困意	1111
+kun bang zhe	捆绑着	1105
+kun ming shi pan long qu	昆明市盘龙区	1060
+kun chong xue jia	昆虫学家	1025
+kun ren	困人	1005
+kun shou you dou	困兽犹斗	940
+kun yu shan	昆嵛山	940
+kun chong ji	昆虫及	923
+kun jin	捆紧	910
+kun chong ding yao	昆虫叮咬	870
+kun ming chi	昆明池	795
+kun lun nu	昆仑奴	745
+kun ju yuan	昆剧院	725
+kun peng zhan chi	鲲鹏展翅	635
+kun ming cheng	昆明城	630
+kun jiao	困觉	595
+kun ti	捆蹄	587
+kun ming jie	昆明街	525
+kun nao	困恼	525
+kun ju	困居	520
+kun ming lu	昆明路	497
+kun chong guan	昆虫馆	460
+kun chao ji	捆钞机	445
+kun lao	捆牢	440
+kun zhu shou jiao	捆住手脚	440
+kun zhu xue	困助学	376
+kun bu zhu	困不住	365
+kun chong bing du	昆虫病毒	350
+kun ren	坤仁	335
+kun wu	昆吾	333
+kun shan xian	昆山县	280
+kun lun lu	昆仑路	279
+kun di	昆弟	245
+kun xi	昆西	242
+kun za xing li	捆扎行李	234
+kun yang zhi zhan	昆阳之战	230
+kun bei	困惫	205
+kun dun bu kan	困顿不堪	205
+kun la wu te	昆拉武特	196
+kun le ge jie shi	捆了个结实	190
+kun long	昆龙	185
+kun yao	坤耀	180
+kun ming shi guang	昆明时光	173
+kun he	坤和	172
+kun chong dan bai	昆虫蛋白	163
+kun shan lu	昆山路	159
+kun lun shen gong	昆仑神宫	155
+kun nan ren ding	困难认定	153
+kun bang bao	捆绑包	149
+kun zhe ne	困着呢	145
+kun shou	捆手	144
+kun jiao	捆脚	143
+kun jin kao	锟斤拷	140
+kun ming shi jiao	昆明市郊	130
+kun le kun	捆了捆	127
+kun yi kun	捆一捆	123
+kun shan xi lu	昆山西路	119
+kun zhi mian xing	困知勉行	115
+kun ban	捆粄	111
+kun bi	困毙	111
+kun ze	困则	111
+kun zi	捆子	111
+kun yun li	昆云里	110
+kun rao zhe	困绕着	105
+kun bang tiao jiao	捆绑调教	100
+kun bang yi cha xi yang	捆绑一刹夕阳	100
+kun bi le	困毙了	100
+kun bi wu hua	悃愊无华	100
+kun cheng yi dui	捆成一堆	100
+kun chong bo wu guan	昆虫博物馆	100
+kun chong gang	昆虫纲	100
+kun de bu xing	困得不行	100
+kun de yao si	困得要死	100
+kun di zhi hao	昆弟之好	100
+kun du lun	昆都仑	100
+kun du lun qu	昆都仑区	100
+kun du shi	昆都士	100
+kun er ba	困二八	100
+kun gang zhi yu	昆冈之玉	100
+kun huo bu yi	困惑不已	100
+kun huo de kan zhe	困惑地看着	100
+kun huo yu	困惑于	100
+kun jing chong chong	困境重重	100
+kun jiu shui ba	困就睡吧	100
+kun juan le	困倦了	100
+kun juan qi lai	困倦起来	100
+kun jue er	坤角儿	100
+kun ka cheng	昆卡城	100
+kun ka gu cheng	昆卡古城	100
+kun lai kun qu	捆来捆去	100
+kun le ba	困了吧	100
+kun le ge	捆了个	100
+kun le guo lai	捆了过来	100
+kun le jiu shui	困了就睡	100
+kun le jiu shui ba	困了就睡吧	100
+kun le lei le	困了累了	100
+kun le ma	困了吗	100
+kun le shui	困了睡	100
+kun le shui jiao	困了睡觉	100
+kun lun qiong hua pai	昆仑琼华派	100
+kun lun shan shang	昆仑山上	100
+kun lun yin hang	昆仑银行	100
+kun lun zhu xue	昆仑煮雪	100
+kun ming chang shui guo ji ji chang	昆明长水国际机场	100
+kun ming chang shui ji chang	昆明长水机场	100
+kun ming deng di	昆明等地	100
+kun ming di qu	昆明地区	100
+kun ming di tie	昆明地铁	100
+kun ming fang di chan	昆明房地产	100
+kun ming fen hang	昆明分行	100
+kun nan cheng du	困难程度	100
+kun nan chong chong a	困难重重啊	100
+kun nan de	困难的	100
+kun nan de duo	困难得多	100
+kun nan de jing di	困难的境地	100
+kun nan de yi nian	困难的一年	100
+kun nan di qu	困难地区	100
+kun nan dian	困难点	100
+kun nan hang ye	困难行业	100
+kun nan hang ye qi ye	困难行业企业	100
+kun nan mo shi	困难模式	100
+kun nan nan du	困难难度	100
+kun nan zai yu	困难在于	100
+kun peng de zhi	鲲鹏得志	100
+kun qi shou jiao	捆起手脚	100
+kun shan di qu	昆山地区	100
+kun shan ke ji da xue	昆山科技大学	100
+kun shan nong shang hang	昆山农商行	100
+kun shan pian yu	昆山片玉	100
+kun shan shi shuo	昆山世硕	100
+kun shan zhi yu	昆山之玉	100
+kun si la	困死啦	100
+kun si le	困死了	100
+kun si wo	困死我	100
+kun te pai	昆特牌	100
+kun teng teng	困腾腾	100
+kun tu si	昆图斯	100
+kun wei di	坤为地	100
+kun wu jian	昆吾剑	100
+kun xian sheng	捆仙绳	100
+kun xin heng lv	困心衡虑	100
+kun yan chi	昆岩池	100
+kun yi lai le	困意来了	100
+kun yi lai xi	困意来袭	100
+kun yi quan wu	困意全无	100
+kun yi xi lai	困意袭来	100
+kun yu qiu shuang	琨玉秋霜	100
+kun za dai	捆扎带	100
+kun za lao gu	捆扎牢固	100
+kun za sheng	捆扎绳	100
+kun zai xi tong li	困在系统里	100
+kun zai yuan di	困在原地	100
+kun zhi bei	鲲之背	100
+kun zhi da	鲲之大	100
+kun en	昆恩	99
+kun che	坤车	90
+kun jing zhe	困境者	87
+kun tie zhong yuan	昆铁中院	87
+kun zhou dai	昆轴带	87
+kun bu	昆布	76
+kun tui	困退	75
+kun zhi	困踬	70
+kun lun qiao	昆仑桥	69
+kun cao ji	捆草机	65
+kun guo mo	焜锅馍	59
+kun peng ji tuan	鲲鹏集团	58
+kun bang bu cheng fu qi	捆绑不成夫妻	55
+kun bu duo tang	昆布多糖	50
+kun bu zhu	捆不住	50
+kun bu liao	捆不了	45
+kun cheng	悃诚	45
+kun shan zhong lu	昆山中路	42
+kun shan dong lu	昆山东路	40
+kun ming shi dao lu jiao tong an quan tiao li	昆明市道路交通安全条例	36
+kun guo mo mo	焜锅馍馍	35
+kun de xiang	捆得像	25
+kun wu	琨珸	22
+kun chong fen	昆虫粉	19
+kun ling	坤伶	16
+kun bu tang	昆布糖	15
+kun er xue zhi	困而学之	15
+kun chong xing wei xue	昆虫行为学	14
+kun en fa yin	昆恩法印	12
+kun lun fa xue lun cong	昆仑法学论丛	12
+kun ling	昆凌	11
+kun sha xiang	昆莎乡	11
+kun chong dou bing du	昆虫痘病毒	10
+kun wei lu	昆纬路	10
+kun zhe ne	捆着呢	10
+kun ming chi lu	昆明池路	9
+kun qi	捆起	9
+kun de lun mu chang	昆得仑牧场	8
+kun er	坤儿	8
+kun lun qiao jie dao	昆仑桥街道	8
+kun ming jing ji ji shu kai fa qu tiao li	昆明经济技术开发区条例	8
+kun yuan	坤元	8
+kun jue	坤角	7
+kun ji	鹍鸡	5
+kun lun jing ji kai fa qu	昆仑经济开发区	5
+kun ming shan hai tang	昆明山海棠	5
+kun ming shi zhong yi yuan	昆明市中医院	5
+kun peng shui ji san qian li	鲲鹏水击三千里	5
+kun ji	昆季	4
+kun ming guan sheng yuan	昆明冠生园	4
+kun shan yu sui feng huang jiao	昆山玉碎凤凰叫	4
+kun chong bing du bing	昆虫病毒病	3
+kun gua	困卦	3
+kun gua	坤卦	3
+kun ji chang xiao lao ying fei	昆鸡长笑老鹰非	3
+kun ming cheng shi lv di guan li ban fa	昆明城市绿地管理办法	3
+kun shi lan guo shi ying	昆士兰果实蝇	3
+kun ti liang	昆体良	3
+kun xin heng lv	困心横虑	3
+kun bu ji tui tang	昆布鸡腿汤	2
+kun dan	坤旦	2
+kun ming lu jian cai shi chang	昆明路建材市场	2
+kun peng ji lang cong zi shi	鲲鹏击浪从兹始	2
+kun sheng	坤生	2
+kun shi lan mao bi dai xiong	昆士兰毛鼻袋熊	2
+kun wei	阃闱	2
+kun yang	昆阳	2
+kun yu shan	昆玉山	2
+kun can	髡残	1
+kun chong ji geng gai	昆虫记梗概	1
+kun gang zhi huo	昆冈之火	1
+kun he shan shui ren jia	坤和山水人家	1
+kun huo hun luan	困惑混乱	1
+kun jiang dan shi	壸浆箪食	1
+kun ka	昆卡	1
+kun mei su	醌霉素	1
+kun mian xia xue	困勉下学	1
+kun ming shi ai guo wei sheng gong zuo guan li tiao li	昆明市爱国卫生工作管理条例	1
+kun ming shi lu deng she shi guan li shi xing ban fa	昆明市路灯设施管理试行办法	1
+kun ping xiang	坤平乡	1
+kun shi lan zhou ai mao yu luo	昆士兰州爱猫芋螺	1
+kun shou si dou	困兽思斗	1
+kun tan	昆坦	1
+kun tan qu	昆坦区	1
+kun te xiang jing	昆特香精	1
+kun wu	锟铻	1
+kun xi ju wei hui	昆西居委会	1
+kun xian fu mo ling	捆仙缚魔绫	1
+kun xian jiao nang	昆仙胶囊	1
+kun zai er gui	捆载而归	1
+kun zhai	坤宅	1
+kun zhi wu hua	悃质无华	1
+kun zhou	坤洲	1

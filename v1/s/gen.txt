@@ -1,0 +1,972 @@
+gen ju	根据	502616
+gen ben	根本	500589
+gen zong	跟踪	367360
+gen zhe	跟着	340140
+gen wo	跟我	223480
+gen ben bu	根本不	189835
+gen ni	跟你	166240
+gen ta	跟他	155155
+gen sui	跟随	142850
+gen yuan	根源	117700
+gen ben li yi	根本利益	102970
+gen ta	跟她	99455
+gen tie	跟帖	86540
+gen jin	跟进	80860
+gen shang	跟上	76700
+gen ju xu yao	根据需要	75790
+gen zai	跟在	68395
+gen qian	跟前	67410
+gen mu lu	根目录	66524
+gen ji	根基	62455
+gen ju di	根据地	62240
+gen wo men	跟我们	51020
+gen ben yuan yin	根本原因	49295
+gen bu	根部	48245
+gen bu shang	跟不上	47675
+gen ju wo guo	根据我国	47415
+gen wo shuo	跟我说	43870
+gen zhi	根治	39765
+gen ta men	跟他们	39155
+gen ren	跟人	37390
+gen ta men	跟她们	37355
+gen zong fu wu	跟踪服务	36390
+gen ben xing	根本性	34345
+gen xi	根系	34210
+gen feng	跟风	33625
+gen da jia	跟大家	33325
+gen le	跟了	31255
+gen dan	跟单	30605
+gen zi ji	跟自己	28640
+gen shen di gu	根深蒂固	28000
+gen ben bu shi	根本不是	26865
+gen ben jiu shi	根本就是	26000
+gen ju ti shi	根据提示	23065
+gen zhe	跟这	22370
+gen ben ren wu	根本任务	21515
+gen bie ren	跟别人	20630
+gen zhe wo	跟着我	20410
+gen shei	跟谁	20240
+gen shui	跟谁	20240
+gen ni shuo	跟你说	20160
+gen chu	根除	20030
+gen ju ju ti qing kuang	根据具体情况	18580
+gen ben mu di	根本目的	18410
+gen ben bao zheng	根本保证	18395
+gen ban	跟班	18305
+gen ben wen ti	根本问题	17920
+gen ben zong zhi	根本宗旨	15345
+gen sui zhe	跟随着	14865
+gen ben shi	根本是	14685
+gen mu lu xia	根目录下	14495
+gen zhi	根植	14175
+gen ju gui ding	根据规定	14140
+gen nin	跟您	14135
+gen ta shuo	跟他说	13370
+gen ta shuo	跟她说	13330
+gen ni men	跟你们	13295
+gen ju he tong	根据合同	13100
+gen zai hou mian	跟在后面	12910
+gen dan yuan	跟单员	12905
+gen jing	根茎	12610
+gen zhe ni	跟着你	12315
+gen ju xie yi	根据协议	12255
+gen tou	跟头	12235
+gen ben tu jing	根本途径	12120
+gen ta	跟它	11955
+gen du	跟读	11255
+gen diao	根雕	10955
+gen zong diao cha	跟踪调查	10935
+gen zong bao dao	跟踪报道	10585
+gen wo lai	跟我来	10565
+gen wo yi qi	跟我一起	10430
+gen ban er	跟班儿	9999
+gen bu shang tang	跟不上趟	9999
+gen bu shang tang er	跟不上趟儿	9999
+gen ge	跟个	9999
+gen guan	根管	9999
+gen shang tang	跟上趟	9999
+gen shang tang er	跟上趟儿	9999
+gen tang er	跟趟儿	9999
+gen zhe ta	跟着他	9999
+gen ben chu fa dian	根本出发点	9940
+gen ju qing jie qing zhong	根据情节轻重	9835
+gen cong	跟从	9645
+gen gu	亘古	9480
+gen wo yi yang	跟我一样	8945
+gen zi	根子	8720
+gen ben zhuan bian	根本转变	8540
+gen yi qian	跟以前	8290
+gen de	跟得	7777
+gen tuan	跟团	7775
+gen sheng	根生	7515
+gen dui	跟对	7485
+gen dao	跟到	7015
+gen gen	根根	6980
+gen de	跟的	6970
+gen wo zou	跟我走	6835
+gen wei ming li	根尾明里	6666
+gen lai	跟来	6335
+gen di	根底	6325
+gen yuan zai yu	根源在于	6170
+gen zhuang	跟妆	6070
+gen qu	跟去	6065
+gen zhi shu	根治术	5745
+gen zhe gan jue zou	跟着感觉走	5350
+gen ni yi yang	跟你一样	5275
+gen gu bu bian	亘古不变	5210
+gen zong xi tong	跟踪系统	5155
+gen fu wu qi	根服务器	5120
+gen tong xue	跟同学	5025
+gen de shang	跟得上	4980
+gen er	根儿	4980
+gen ben chu lu	根本出路	4945
+gen fu mu	跟父母	4880
+gen wo xue	跟我学	4560
+gen ben hao zhuan	根本好转	4555
+gen wen jian xi tong	根文件系统	4494
+gen ben bian hua	根本变化	4470
+gen yi	根艺	4470
+gen ben da fa	根本大法	4450
+gen mei guo	跟美国	4445
+gen shen	根深	4405
+gen mao	根毛	4305
+gen you	根由	4195
+gen sui zhe	跟随者	4115
+gen xu	根须	3805
+gen zhu	跟住	3695
+gen ben cuo shi	根本措施	3685
+gen guo	跟过	3570
+gen shang lai	跟上来	3540
+gen guo qu	跟过去	3535
+gen pi chong	跟屁虫	3440
+gen dou	跟斗	3380
+gen xi dao	根西岛	3333
+gen zhe yi qi hai	跟着一起嗨	3333
+gen hen duo	跟很多	3330
+gen sheng	根绳	3320
+gen zong fen xi	跟踪分析	3295
+gen jie	根结	3220
+gen shu	根数	3190
+gen jian	跟腱	3090
+gen ri ben	跟日本	3080
+gen shang qu	跟上去	3065
+gen zan	跟咱	2870
+gen zhe zou	跟着走	2840
+gen yin	根音	2830
+gen hao	根号	2790
+gen ben niu zhuan	根本扭转	2725
+gen chu	跟出	2720
+gen jie dian	根节点	2650
+gen ding	跟定	2640
+gen zong qi	跟踪器	2545
+gen ben fa	根本法	2455
+gen he	根河	2305
+gen zhe ta	跟着她	2222
+gen ben dian	根本点	2175
+gen zhe zuo	跟着做	2120
+gen shou	跟手	2115
+gen liu jun	根瘤菌	2105
+gen ben wei yue	根本违约	2075
+gen bao	根宝	2040
+gen shen ye mao	根深叶茂	2040
+gen bu	跟部	2030
+gen miao	根苗	2005
+gen pi	根皮	1965
+gen jian	根键	1940
+gen ben chu lu zai yu	根本出路在于	1925
+gen zhe lai	跟着来	1885
+gen hong	根红	1855
+gen jin	跟紧	1820
+gen jue	根绝	1815
+gen jie	根接	1690
+gen wo wan	跟我玩	1690
+gen ben zhun ze	根本准则	1570
+gen wai zhui fei	根外追肥	1565
+gen zong xin xi	跟踪信息	1560
+gen ju ding dan	根据订单	1510
+gen liu	根瘤	1505
+gen zhuang jing	根状茎	1460
+gen zhe xue	跟着学	1440
+gen zong zhe	跟踪者	1410
+gen zong gong neng	跟踪功能	1360
+gen ju guan cha	根据观察	1350
+gen chang	跟唱	1305
+gen dan xin yong zheng tong yi guan li	跟单信用证统一惯例	1234
+gen shi	根式	1220
+gen zheng shu	根证书	1220
+gen zong wu cha	跟踪误差	1205
+gen diu	跟丢	1135
+gen che	跟车	1111
+gen che ju li	跟车距离	1111
+gen die	跟跌	1111
+gen pai	跟拍	1111
+gen ping	跟评	1111
+gen zhang	跟涨	1111
+gen zhe ta	跟着它	1111
+gen zhu	跟注	1111
+gen zheng miao hong	根正苗红	1110
+gen zong zhe	跟踪着	1025
+gen ni ji	跟你急	1020
+gen chai	跟差	999
+gen shao	跟梢	999
+gen he shi	根河市	990
+gen jian	根尖	986
+gen zong zhui ji	跟踪追击	965
+gen lei	根类	945
+gen ju xu yao he ke neng	根据需要和可能	920
+gen zong kong zhi	跟踪控制	915
+gen gu wei you	亘古未有	890
+gen zong neng li	跟踪能力	875
+gen di	根蒂	860
+gen jiao	跟脚	850
+gen zong wen jian	跟踪文件	750
+gen ben xing bu tong	根本行不通	740
+gen wen jian jia	根文件夹	734
+gen na er ne	跟哪儿呢	731
+gen zong suan fa	跟踪算法	723
+gen bao	跟包	690
+gen ju yi shang qing kuang	根据以上情况	680
+gen zong zhan	跟踪站	655
+gen ya	根芽	635
+gen ju chuan shuo	根据传说	625
+gen mei	根霉	613
+gen tong ping	根痛平	565
+gen zong fa	跟踪法	565
+gen duan	根端	525
+gen yuan yu	根源于	517
+gen jiu	根究	515
+gen jiao	根脚	510
+gen zong shu ju	跟踪数据	485
+gen cha	根插	475
+gen cai lei	根菜类	465
+gen ji shen hou	根基深厚	440
+gen wai shi fei	根外施肥	425
+gen jiao	跟焦	423
+gen ji zhe	跟记者	398
+gen zhe wo lai	跟着我来	395
+gen wo shuo xia	跟我说下	364
+gen lu jing	根路径	360
+gen guan	根冠	345
+gen zong lu you	跟踪路由	310
+gen zhi	根值	305
+gen jian duan lie	跟腱断裂	288
+gen shang gen xia	跟上跟下	256
+gen jing ye	根茎叶	240
+gen qian gen hou	跟前跟后	225
+gen mai	跟卖	222
+gen ju ke hu	根据客户	215
+gen na er wan	跟哪儿玩	214
+gen ti shi	根提示	210
+gen ju ju	根据局	201
+gen zhe ne	跟着呢	185
+gen gu	跟骨	182
+gen zhe guang	跟着光	176
+gen ban zou	跟班走	175
+gen ben qiang bu dao	根本抢不到	174
+gen ben lan bu zhu	根本拦不住	160
+gen wo tan lian ai	跟我谈恋爱	160
+gen ju bu	根据部	144
+gen wo wan er	跟我玩儿	130
+gen ben li liang	根本力量	129
+gen guan zhi liao	根管治疗	129
+gen ben bao zhang	根本保障	120
+gen ben kan bu dao	根本看不到	117
+gen zhi qie chu shu	根治切除术	115
+gen hao	跟好	111
+gen jia	跟家	111
+gen mai	跟买	111
+gen tou	跟投	111
+gen shan men	艮山门	107
+gen ben bu huang	根本不慌	102
+gen ju wo men	根据我们	102
+gen an tuo zai	根岸拓哉	100
+gen an ying yi	根岸英一	100
+gen ban de	跟班的	100
+gen bao ji di	根宝基地	100
+gen bao zu qiu ji di	根宝足球基地	100
+gen ben bu bu wan	根本补不完	100
+gen ben bu cun zai	根本不存在	100
+gen ben bu gou	根本不够	100
+gen ben bu gou ya	根本不够呀	100
+gen ben bu hui	根本不会	100
+gen ben bu hui tong yi	根本不会同意	100
+gen ben bu ji de	根本不记得	100
+gen ben bu ke neng	根本不可能	100
+gen ben bu kun	根本不困	100
+gen ben bu liao jie	根本不了解	100
+gen ben bu neng	根本不能	100
+gen ben bu neng yong	根本不能用	100
+gen ben bu shi wen ti	根本不是问题	100
+gen ben bu suan shen me	根本不算什么	100
+gen ben bu xiang dong	根本不想动	100
+gen ben bu xing	根本不行	100
+gen ben bu ying	根本不应	100
+gen ben bu ying gai	根本不应该	100
+gen ben bu zai	根本不在	100
+gen ben bu zai zhe	根本不在这	100
+gen ben bu zai zhe li	根本不在这里	100
+gen ben bu zhi dao	根本不知道	100
+gen ben bu zhi de	根本不值得	100
+gen ben bu zhong yao	根本不重要	100
+gen ben cheng bu zhu	根本撑不住	100
+gen ben de	根本的	100
+gen ben de wen ti	根本的问题	100
+gen ben fa men	根本法门	100
+gen ben gan jue bu dao	根本感觉不到	100
+gen ben jin bu qu	根本进不去	100
+gen ben jiu	根本就	100
+gen ben jiu bu	根本就不	100
+gen ben jiu bu gai	根本就不该	100
+gen ben jiu bu liao jie	根本就不了解	100
+gen ben jiu bu neng	根本就不能	100
+gen ben jiu bu neng xiang xin	根本就不能相信	100
+gen ben jiu bu shi	根本就不是	100
+gen ben jiu bu suan	根本就不算	100
+gen ben jiu bu suan shen me	根本就不算什么	100
+gen ben jiu bu xiang	根本就不想	100
+gen ben jiu bu xiang huo	根本就不想活	100
+gen ben jiu bu xiang huo le	根本就不想活了	100
+gen ben jiu bu zhi de	根本就不值得	100
+gen ben jiu mei	根本就没	100
+gen ben jiu mei you	根本就没有	100
+gen ben jiu mei you ban fa	根本就没有办法	100
+gen ben jiu mei you ji hui	根本就没有机会	100
+gen ben jiu mei you xiang dao	根本就没有想到	100
+gen ben jiu wu fa	根本就无法	100
+gen ben jiu wu fa li jie	根本就无法理解	100
+gen ben lai bu ji	根本来不及	100
+gen ben mai bu qi	根本买不起	100
+gen ben mao dun	根本矛盾	100
+gen ben mei	根本没	100
+gen ben mei ban fa	根本没办法	100
+gen ben mei bi yao	根本没必要	100
+gen ben mei da suan	根本没打算	100
+gen ben mei fa kan	根本没法看	100
+gen ben mei hui da	根本没回答	100
+gen ben mei ji hui	根本没机会	100
+gen ben mei jian guo	根本没见过	100
+gen ben mei kan jian	根本没看见	100
+gen ben mei ke neng	根本没可能	100
+gen ben mei li qi	根本没力气	100
+gen ben mei liu yi dao	根本没留意到	100
+gen ben mei qian	根本没钱	100
+gen ben mei qu	根本没去	100
+gen ben mei qu kan	根本没去看	100
+gen ben mei ren	根本没人	100
+gen ben mei ren guan	根本没人管	100
+gen ben mei ren yong	根本没人用	100
+gen ben mei shen me	根本没什么	100
+gen ben mei shi jian	根本没时间	100
+gen ben mei xi	根本没戏	100
+gen ben mei xiang	根本没想	100
+gen ben mei xiang dao	根本没想到	100
+gen ben mei xiang guo	根本没想过	100
+gen ben mei xiang li zhan	根本没想力战	100
+gen ben mei xie	根本没写	100
+gen ben mei xing qu	根本没兴趣	100
+gen ben mei yong	根本没用	100
+gen ben mei you	根本没有	100
+gen ben mei you ban fa	根本没有办法	100
+gen ben mei you dong xi	根本没有东西	100
+gen ben mei you ji hui	根本没有机会	100
+gen ben mei you kao lv	根本没有考虑	100
+gen ben mei you ke bi xing	根本没有可比性	100
+gen ben mei you ke neng	根本没有可能	100
+gen ben mei you lu	根本没有路	100
+gen ben mei you qian	根本没有钱	100
+gen ben mei you ren	根本没有人	100
+gen ben mei you ren he yi yi	根本没有任何意义	100
+gen ben mei you sheng suan	根本没有胜算	100
+gen ben mei you shi jian	根本没有时间	100
+gen ben mei you xiang dao	根本没有想到	100
+gen ben mei you xiao guo	根本没有效果	100
+gen ben mei you yi shi dao	根本没有意识到	100
+gen ben mei you yi yi	根本没有意义	100
+gen ben mei you zhu yi dao	根本没有注意到	100
+gen ben mei zai pa	根本没在怕	100
+gen ben nan bu dao wo	根本难不倒我	100
+gen ben pao bu guo	根本跑不过	100
+gen ben qi bu lai	根本起不来	100
+gen ben shang	根本上	100
+gen ben shang jiu	根本上就	100
+gen ben shang jiu zhi	根本上就只	100
+gen ben suan bu liao shen me	根本算不了什么	100
+gen ben suan bu shang shen me	根本算不上什么	100
+gen ben ting bu jian	根本听不见	100
+gen ben wang bu diao	根本忘不掉	100
+gen ben wu fa	根本无法	100
+gen ben wu fa hui da	根本无法回答	100
+gen ben wu xu	根本无需	100
+gen ben xie bu wan	根本写不完	100
+gen ben zheng zhi zhi du	根本政治制度	100
+gen ben zhi du	根本制度	100
+gen ben zuo bu dao	根本做不到	100
+gen bie ren pao le	跟别人跑了	100
+gen bie ren shuo	跟别人说	100
+gen bu gen wo	跟不跟我	100
+gen bu shang jin du	跟不上进度	100
+gen bu shang le	跟不上了	100
+gen bu shang wo	跟不上我	100
+gen cang ying yi yang	跟苍蝇一样	100
+gen che xing shi	跟车行驶	100
+gen chu lai	跟出来	100
+gen chu qu	跟出去	100
+gen cuo le ren	跟错了人	100
+gen dang zou	跟党走	100
+gen dao le	跟到了	100
+gen de ding duan	根的顶端	100
+gen de jin	跟得紧	100
+gen de shang chao liu	跟得上潮流	100
+gen de shang jie zou	跟得上节奏	100
+gen de shang shi dai	跟得上时代	100
+gen de tai	跟得太	100
+gen de tai jin	跟得太紧	100
+gen de tai jin a	跟得太紧啊	100
+gen die shuo hua	跟爹说话	100
+gen ding ni le	跟定你了	100
+gen dui le ren	跟对了人	100
+gen fen jie	根粉蚧	100
+gen feng mo fang	跟风模仿	100
+gen feng zhe	跟风者	100
+gen ge niang er men shi de	跟个娘儿们似的	100
+gen ge niang men shi de	跟个娘们似的	100
+gen ge ruo zhi	跟个弱智	100
+gen ge ruo zhi yi yang	跟个弱智一样	100
+gen ge zong zi yi yang	跟个粽子一样	100
+gen gu bu yi	亘古不移	100
+gen gu chang cun	亘古长存	100
+gen gu di yi ren	亘古第一人	100
+gen gu gen jin	亘古亘今	100
+gen gu ru si	亘古如斯	100
+gen gu tong jin	亘古通今	100
+gen gu wei jian	亘古未见	100
+gen gu wei wen	亘古未闻	100
+gen gu you you	亘古悠悠	100
+gen guo lai	跟过来	100
+gen guo nian	跟过年	100
+gen hao ba	根号八	100
+gen hao ba shi	根号八十	100
+gen hao er	根号二	100
+gen hao er shi	根号二十	100
+gen hao jiu	根号九	100
+gen hao jiu shi	根号九十	100
+gen hao liu	根号六	100
+gen hao liu shi	根号六十	100
+gen hao qi	根号七	100
+gen hao qi shi	根号七十	100
+gen hao san	根号三	100
+gen hao san shi	根号三十	100
+gen hao shi	根号十	100
+gen hao shi ba	根号十八	100
+gen hao shi er	根号十二	100
+gen hao shi jiu	根号十九	100
+gen hao shi liu	根号十六	100
+gen hao shi qi	根号十七	100
+gen hao shi san	根号十三	100
+gen hao shi si	根号十四	100
+gen hao shi wu	根号十五	100
+gen hao shi yi	根号十一	100
+gen hao si	根号四	100
+gen hao si shi	根号四十	100
+gen hao wu	根号五	100
+gen hao wu shi	根号五十	100
+gen hao yi	根号一	100
+gen hao yi bai	根号一百	100
+gen hao yi qian	根号一千	100
+gen hao yi wan	根号一万	100
+gen hao yi wan yi	根号一万亿	100
+gen hao yi wan yi zhao	根号一万亿兆	100
+gen hao yi yi	根号一亿	100
+gen hao yi zhao	根号一兆	100
+gen he shi di	根河湿地	100
+gen hou qu qian	跟后趋前	100
+gen ji shi li	根基实力	100
+gen ji suo zai	根基所在	100
+gen jia dai zhe	跟家待着	100
+gen jia li mian	跟家里面	100
+gen jia zhang gou tong	跟家长沟通	100
+gen jian fen sheng qu ding duan	根尖分生区顶端	100
+gen jian si lie	跟腱撕裂	100
+gen jian zhong shang	跟腱重伤	100
+gen jie mei	跟姐妹	100
+gen jin diao cha	跟进调查	100
+gen jin gen gu	亘今亘古	100
+gen jin lai	跟进来	100
+gen jin luo shi	跟进落实	100
+gen jin qu	跟进去	100
+gen jing cha	跟警察	100
+gen jing cha he zuo	跟警察合作	100
+gen jing cha jiang	跟警察讲	100
+gen jing cha liao	跟警察聊	100
+gen jing cha liao tian	跟警察聊天	100
+gen jing cha shuo	跟警察说	100
+gen jing cha shuo hua	跟警察说话	100
+gen jiu jiu	哏赳赳	100
+gen ju bu tong di qu	根据不同地区	100
+gen ju chang di	根据场地	100
+gen ju chuan tong	根据传统	100
+gen ju dang di shi ji	根据当地实际	100
+gen ju di jian she	根据地建设	100
+gen ju di li	根据地理	100
+gen ju di li wei zhi	根据地理位置	100
+gen ju di qu	根据地区	100
+gen ju di qu bu tong	根据地区不同	100
+gen ju di shi chang	根据地市场	100
+gen ju di xing	根据地形	100
+gen ju di yu	根据地域	100
+gen ju diao cha	根据调查	100
+gen ju diao cha jie guo	根据调查结果	100
+gen ju diao cha xian shi	根据调查显示	100
+gen ju diao yan	根据调研	100
+gen ju diao yan jie guo	根据调研结果	100
+gen ju gui mo	根据规模	100
+gen ju hang ye	根据行业	100
+gen ju liao jie	根据了解	100
+gen ju liu xing bing xue diao cha	根据流行病学调查	100
+gen ju mo xing	根据模型	100
+gen ju ni de xu qiu	根据你的需求	100
+gen ju nin de	根据您的	100
+gen ju pan hu	根据盘互	100
+gen ju shang biao	根据上表	100
+gen ju sheng	根据省	100
+gen ju shi chang hang qing	根据市场行情	100
+gen ju shi ji qing kuang	根据实际情况	100
+gen ju shi ji qing kuang tiao zheng	根据实际情况调整	100
+gen ju wen du	根据温度	100
+gen ju xi tong ti shi	根据系统提示	100
+gen ju xiao bian de liao jie	根据小编的了解	100
+gen ju xiao bian liao jie	根据小编了解	100
+gen ju xu qiu	根据需求	100
+gen ju xue xiao	根据学校	100
+gen ju xue xiao yao qiu	根据学校要求	100
+gen ju zhong guo ren min yin hang	根据中国人民银行	100
+gen ke le bi li ji	根克勒比利吉	100
+gen lai gen qu	跟来跟去	100
+gen lao shi shuo	跟老师说	100
+gen le chu qu	跟了出去	100
+gen le qu	跟了去	100
+gen le wo	跟了我	100
+gen liu xi jun	根瘤细菌	100
+gen mei jie shi yi yang	跟没解释一样	100
+gen mei shi er ren yi yang	跟没事儿人一样	100
+gen mei shi ren yi yang	跟没事人一样	100
+gen mei shuo yi yang	跟没说一样	100
+gen mo sheng ren	跟陌生人	100
+gen mo sheng ren shuo hua	跟陌生人说话	100
+gen nan peng you	跟男朋友	100
+gen ni ba	跟你爸	100
+gen ni bao qian	跟你抱歉	100
+gen ni du qi	跟你赌气	100
+gen ni dui zhe gan	跟你对着干	100
+gen ni fei hua	跟你废话	100
+gen ni hen xiang	跟你很像	100
+gen ni jiang	跟你讲	100
+gen ni jiang yi jiang	跟你讲一讲	100
+gen ni jiao zhen	跟你较真	100
+gen ni jiao zhen er	跟你较真儿	100
+gen ni kai wan xiao	跟你开玩笑	100
+gen ni lia	跟你俩	100
+gen ni lia mei guan xi	跟你俩没关系	100
+gen ni lian xi	跟你联系	100
+gen ni mei guan xi	跟你没关系	100
+gen ni mei jiao qing	跟你没交情	100
+gen ni mei wan	跟你没完	100
+gen ni mei you guan xi	跟你没有关系	100
+gen ni men hui qu	跟你们回去	100
+gen ni men yi yang	跟你们一样	100
+gen ni na sha	跟你那啥	100
+gen ni pin le	跟你拼了	100
+gen ni pin le wo	跟你拼了我	100
+gen ni pin ming	跟你拼命	100
+gen ni shang liang	跟你商量	100
+gen ni shi de	跟你似的	100
+gen ni shuo ge shi	跟你说个事	100
+gen ni shuo guo de	跟你说过的	100
+gen ni shuo guo le	跟你说过了	100
+gen ni shuo hua	跟你说话	100
+gen ni shuo jian shi	跟你说件事	100
+gen ni shuo le	跟你说了	100
+gen ni shuo sheng	跟你说声	100
+gen ni shuo shuo	跟你说说	100
+gen ni shuo yi sheng	跟你说一声	100
+gen ni wu guan	跟你无关	100
+gen ni yi ge ban	跟你一个班	100
+gen ni yi qi	跟你一起	100
+gen ni yi yang kuai	跟你一样快	100
+gen ni you chou	跟你有仇	100
+gen ni you guan	跟你有关	100
+gen ni you guan xi	跟你有关系	100
+gen ni you guan xi ma	跟你有关系吗	100
+gen ni you sha guan xi	跟你有啥关系	100
+gen ni you shen me guan xi	跟你有什么关系	100
+gen ni you shen me guan xi a	跟你有什么关系啊	100
+gen ni zai yi qi	跟你在一起	100
+gen ni zou	跟你走	100
+gen ni zou ba	跟你走吧	100
+gen pan jie cuo	根盘节错	100
+gen pi gu	跟屁股	100
+gen qi lai	跟起来	100
+gen qian de	跟前的	100
+gen qin qi	跟亲戚	100
+gen ren jia	跟人家	100
+gen ren pao le	跟人跑了	100
+gen shang jin du	跟上进度	100
+gen shang le	跟上了	100
+gen shang le shi dai	跟上了时代	100
+gen she qu bao bei	跟社区报备	100
+gen shei dou	跟谁都	100
+gen shen ben gu	根深本固	100
+gen shen me	跟什么	100
+gen shen me ren lian xi	跟什么人联系	100
+gen sheng tu zhang	根生土长	100
+gen shi yi yang	跟屎一样	100
+gen shou du	跟手度	100
+gen shui dou	跟谁都	100
+gen sui jiang xi	跟随降息	100
+gen sui mo shi	跟随模式	100
+gen sui xi tong	跟随系统	100
+gen sui zai	跟随在	100
+gen sui zhe ni	跟随着你	100
+gen ta du qi	跟他赌气	100
+gen ta fei hua	跟他废话	100
+gen ta fei shen me hua	跟他废什么话	100
+gen ta hen xiang	跟他很像	100
+gen ta huan	跟他换	100
+gen ta jiao zhen	跟他较真	100
+gen ta jiao zhen	跟她较真	100
+gen ta jiao zhen er	跟他较真儿	100
+gen ta jiao zhen er	跟她较真儿	100
+gen ta liao liao	跟他聊聊	100
+gen ta ma	跟他妈	100
+gen ta mei wan	跟他没完	100
+gen ta men pin le	跟他们拼了	100
+gen ta men shuo	跟他们说	100
+gen ta men yi yang	跟他们一样	100
+gen ta na sha	跟他那啥	100
+gen ta qu	跟他去	100
+gen ta shang liang	跟他商量	100
+gen ta wu guan	跟他无关	100
+gen ta yi dou	跟他一斗	100
+gen ta you chou	跟他有仇	100
+gen ta you guan	跟他有关	100
+gen ta zou	跟他走	100
+gen ta zou	跟她走	100
+gen ta zou ba	跟他走吧	100
+gen ta zou ba	跟她走吧	100
+gen te huang gong	根特皇宫	100
+gen tie ping lun	跟帖评论	100
+gen tou chong	跟头虫	100
+gen tou shi zen me zai de	跟头是怎么栽的	100
+gen tou zen me zai de	跟头怎么栽的	100
+gen tou zhi du	跟投制度	100
+gen tuan lv xing	跟团旅行	100
+gen wai po	跟外婆	100
+gen wei shan	艮为山	100
+gen wo ba	跟我爸	100
+gen wo ba ba	跟我爸爸	100
+gen wo bing jian	跟我并肩	100
+gen wo bing jian zou	跟我并肩走	100
+gen wo cha bu duo	跟我差不多	100
+gen wo chu fa	跟我出发	100
+gen wo da shan	跟我搭讪	100
+gen wo da yi jia	跟我打一架	100
+gen wo de	跟我的	100
+gen wo dou	跟我斗	100
+gen wo du qi	跟我赌气	100
+gen wo dui shi	跟我对视	100
+gen wo fan lian	跟我翻脸	100
+gen wo fei hua	跟我废话	100
+gen wo ge lie	跟我割裂	100
+gen wo he zuo	跟我合作	100
+gen wo hen xiang	跟我很像	100
+gen wo hui jia	跟我回家	100
+gen wo hui qu	跟我回去	100
+gen wo jia ren	跟我家人	100
+gen wo jiang	跟我讲	100
+gen wo jiang jie	跟我讲解	100
+gen wo jiang yi jiang	跟我讲一讲	100
+gen wo jiao zhen	跟我较真	100
+gen wo jiao zhen er	跟我较真儿	100
+gen wo kuang	跟我狂	100
+gen wo lai ba	跟我来吧	100
+gen wo lai yi xia	跟我来一下	100
+gen wo liao	跟我聊	100
+gen wo ma	跟我妈	100
+gen wo ma ma	跟我妈妈	100
+gen wo mei guan	跟我没关	100
+gen wo mei guan xi	跟我没关系	100
+gen wo mei sha guan xi	跟我没啥关系	100
+gen wo mei shen me guan xi	跟我没什么关系	100
+gen wo mei shen me guan xi a	跟我没什么关系啊	100
+gen wo mei wan	跟我没完	100
+gen wo mei you guan xi	跟我没有关系	100
+gen wo men yi qi	跟我们一起	100
+gen wo na sha	跟我那啥	100
+gen wo shang liang	跟我商量	100
+gen wo shua	跟我耍	100
+gen wo shua lai	跟我耍赖	100
+gen wo shuo jiu shi le	跟我说就是了	100
+gen wo shuo le	跟我说了	100
+gen wo shuo sheng	跟我说声	100
+gen wo shuo shuo	跟我说说	100
+gen wo shuo yi sheng	跟我说一声	100
+gen wo shuo yi xia	跟我说一下	100
+gen wo tong zhuo	跟我同桌	100
+gen wo wu guan	跟我无关	100
+gen wo xiang de yi yang	跟我想的一样	100
+gen wo ye mei guan xi	跟我也没关系	100
+gen wo yi ge ban	跟我一个班	100
+gen wo you chou	跟我有仇	100
+gen wo you guan	跟我有关	100
+gen wo you guan xi	跟我有关系	100
+gen wo you mei guan xi	跟我又没关系	100
+gen wo you shen me guan xi	跟我有什么关系	100
+gen wo you shen me guan xi a	跟我有什么关系啊	100
+gen wo zai yi qi	跟我在一起	100
+gen wo zhui	跟我追	100
+gen wo zou ba	跟我走吧	100
+gen xi bu fa da	根系不发达	100
+gen xi fa da	根系发达	100
+gen xi fa yu	根系发育	100
+gen xi fen bu	根系分布	100
+gen xi fu lan	根系腐烂	100
+gen xi hu xi	根系呼吸	100
+gen xi huo li	根系活力	100
+gen xi qian	根系浅	100
+gen xi sheng zhang	根系生长	100
+gen xi shou sun	根系受损	100
+gen xi xi shou	根系吸收	100
+gen xia lai	跟下来	100
+gen xia qu	跟下去	100
+gen xian yu you shen me qu bie	跟咸鱼有什么区别	100
+gen xin de yi yang	跟新的一样	100
+gen yong jie cai	根用芥菜	100
+gen yuan di	根源地	100
+gen zai shen bian	跟在身边	100
+gen zan men yi lu	跟咱们一路	100
+gen zan yi lu	跟咱一路	100
+gen zhe ai	跟着爱	100
+gen zhe ba ba	跟着爸爸	100
+gen zhe ban ben zou	跟着版本走	100
+gen zhe bei er qu mao xian	跟着贝尔去冒险	100
+gen zhe bian	跟着变	100
+gen zhe bian le	跟着变了	100
+gen zhe bie ren pao	跟着别人跑	100
+gen zhe bie ren zou	跟着别人走	100
+gen zhe chan huo	跟着掺和	100
+gen zhe chang	跟着唱	100
+gen zhe chi	跟着吃	100
+gen zhe da	跟着打	100
+gen zhe da ye	跟着打野	100
+gen zhe dang	跟着党	100
+gen zhe dang zou	跟着党走	100
+gen zhe dao hang	跟着导航	100
+gen zhe dao hang zou	跟着导航走	100
+gen zhe dian	跟着点	100
+gen zhe dong	跟着动	100
+gen zhe dou	跟着抖	100
+gen zhe fu mu	跟着父母	100
+gen zhe fu qin	跟着父亲	100
+gen zhe gai	跟着改	100
+gen zhe gan	跟着干	100
+gen zhe gan jue	跟着感觉	100
+gen zhe gong chan dang	跟着共产党	100
+gen zhe gong chan dang zou	跟着共产党走	100
+gen zhe hai zi	跟着孩子	100
+gen zhe han	跟着喊	100
+gen zhe hao	跟着好	100
+gen zhe heng	跟着哼	100
+gen zhe huang	跟着晃	100
+gen zhe hun	跟着混	100
+gen zhe jiang	跟着降	100
+gen zhe jiao	跟着叫	100
+gen zhe jie zou	跟着节奏	100
+gen zhe jing tou	跟着镜头	100
+gen zhe kan	跟着看	100
+gen zhe lao ban	跟着老板	100
+gen zhe lao shi	跟着老师	100
+gen zhe lao shi de jie zou	跟着老师的节奏	100
+gen zhe lao shi xue	跟着老师学	100
+gen zhe lao shi xue xi	跟着老师学习	100
+gen zhe lao shi zou	跟着老师走	100
+gen zhe ling dao	跟着领导	100
+gen zhe liu bei	跟着刘备	100
+gen zhe ma ma	跟着妈妈	100
+gen zhe mai	跟着买	100
+gen zhe mu qin	跟着母亲	100
+gen zhe nai nai	跟着奶奶	100
+gen zhe ni de jie zou	跟着你的节奏	100
+gen zhe ni zou	跟着你走	100
+gen zhe pai	跟着拍	100
+gen zhe pao	跟着跑	100
+gen zhe peng you	跟着朋友	100
+gen zhe qi hong	跟着起哄	100
+gen zhe qu	跟着去	100
+gen zhe ren	跟着人	100
+gen zhe ren zou	跟着人走	100
+gen zhe shei	跟着谁	100
+gen zhe shi chang zou	跟着市场走	100
+gen zhe shui	跟着谁	100
+gen zhe ta de jie zou	跟着他的节奏	100
+gen zhe ta men	跟着他们	100
+gen zhe ta zou	跟着他走	100
+gen zhe tai yang	跟着太阳	100
+gen zhe tiao	跟着跳	100
+gen zhe ting	跟着听	100
+gen zhe wan	跟着玩	100
+gen zhe wo ba	跟着我吧	100
+gen zhe wo de jie zou	跟着我的节奏	100
+gen zhe wo gan	跟着我干	100
+gen zhe wo yi qi	跟着我一起	100
+gen zhe wo zou	跟着我走	100
+gen zhe wo zuo	跟着我做	100
+gen zhe wo zuo shou you shou	跟着我左手右手	100
+gen zhe xia che	跟着下车	100
+gen zhe xiang mu zou	跟着项目走	100
+gen zhe xiao bian de bu fa	跟着小编的步伐	100
+gen zhe xiao bian de jiao bu	跟着小编的脚步	100
+gen zhe xiao bian lai kan kan	跟着小编来看看	100
+gen zhe xiao bian lai kan kan ba	跟着小编来看看吧	100
+gen zhe xiao bian wang xia kan	跟着小编往下看	100
+gen zhe xiao bian yi qi kan kan	跟着小编一起看看	100
+gen zhe xin	跟着心	100
+gen zhe xin zou	跟着心走	100
+gen zhe xue xi	跟着学习	100
+gen zhe ye ye	跟着爷爷	100
+gen zhe ye ye nai nai	跟着爷爷奶奶	100
+gen zhe yi qi	跟着一起	100
+gen zhe yi qi lai	跟着一起来	100
+gen zhe yin yue	跟着音乐	100
+gen zhe yue liang zou	跟着月亮走	100
+gen zhe zao yang	跟着遭殃	100
+gen zhe zhe ge jie zou	跟着这个节奏	100
+gen zhe zhe zhong jie zou	跟着这种节奏	100
+gen zhe zheng ce zou	跟着政策走	100
+gen zhe zhu ren	跟着主人	100
+gen zhe zhuan	跟着转	100
+gen zhe zi ji de gan jue zou	跟着自己的感觉走	100
+gen zhe zi ji de xin zou	跟着自己的心走	100
+gen zhe zi ji zou	跟着自己走	100
+gen zhe zou ba	跟着走吧	100
+gen zhen de yi yang	跟真的一样	100
+gen zhuang ye mao	根壮叶茂	100
+gen zi ji du qi	跟自己赌气	100
+gen zi ji jiao jin	跟自己较劲	100
+gen zi ji mei you guan xi	跟自己没有关系	100
+gen zi shang	根子上	100
+gen zong bao hu	跟踪保护	100
+gen zong dan	跟踪弹	100
+gen zong dao dan	跟踪导弹	100
+gen zong diao du	跟踪调度	100
+gen zong diao yan	跟踪调研	100
+gen zong jin du	跟踪进度	100
+gen zong liao jie	跟踪了解	100
+gen zong luo shi	跟踪落实	100
+gen zong shu	跟踪术	100
+gen zong ta	跟踪他	100
+gen zong xun lian	跟踪训练	100
+gen jin ren	跟进人	95
+gen hao xia	根号下	94
+gen jin biao	跟进表	90
+gen zhi xing	根治型	87
+gen cai lei shu cai	根菜类蔬菜	85
+gen gu gu zhe	跟骨骨折	81
+gen zuo tian	跟昨天	78
+gen bu liao	跟不了	75
+gen yuan lai	跟原来	74
+gen jin xia	跟进下	71
+gen de bi	跟得比	70
+gen jia fang	跟甲方	69
+gen jin wen ti	跟进问题	68
+gen qu nian	跟去年	68
+gen hai zi	跟孩子	65
+gen lao ren jia	跟老人家	65
+gen zong qiu	跟踪球	65
+gen ben xue	根本学	64
+gen dui fang	跟对方	64
+gen ni qu	跟你去	64
+gen ju ni	根据你	63
+gen qi ta	跟其他	63
+gen ju qi	根据其	62
+gen wo qu	跟我去	62
+gen gu gu ci	跟骨骨刺	38
+gen jian yan	跟腱炎	36
+gen jian zhou bing	根尖周病	36
+gen jian zhou yan	根尖周炎	36
+gen yuan	艮园	35
+gen xian wei	根纤维	32
+gen zhi shu	根指数	30
+gen shan liu shui yuan	艮山流水苑	29
+gen shi de	根似的	28
+gen gui ji	根轨迹	26
+gen de	根的	25
+gen guan zhi liao shu	根管治疗术	25
+gen ben si yin	根本死因	24
+gen ya	根压	22
+gen ban fa ji gou	根颁发机构	15
+gen jing	根颈	14
+gen ju sai	根据赛	14
+gen da	跟打	12
+gen ni du	跟你赌	12
+gen yi xia	跟一下	12
+gen zhe ge	跟这个	12
+gen chu huo huan	根除祸患	10
+gen si ti	根丝体	10
+gen gu bu mie	亘古不灭	8
+gen ji tu teng	根基图腾	8
+gen song	根松	8
+gen guan chong tian cai liao	根管充填材料	5
+gen guan zhi liao yi	根管治疗仪	5
+gen jiao yuan	跟焦员	5
+gen shan fu ju	艮山福居	5
+gen gu ji jin	亘古及今	4
+gen man	根螨	4
+gen mian jiao	根面角	4
+gen qiang	跟枪	4
+gen tuo	根托	4
+gen bu gu er qiu mu zhi chang	根不固而求木之长	3
+gen chong hu ji	根充糊剂	3
+gen dui	跟队	3
+gen gua	艮卦	3
+gen jian nong zhong	根尖脓肿	3
+gen shi jia	根石家	2
+gen tong ping jiao nang	根痛平胶囊	2
+gen tong ping ke li	根痛平颗粒	2
+gen zhu	根株	2
+gen an ji yi	根岸季衣	1
+gen ben bo	根本博	1
+gen chuan pian wa	根椽片瓦	1
+gen dao cai	根刀菜	1
+gen de pai	跟的牌	1
+gen de ying zi xiang	根德营子乡	1
+gen di wei shen	根柢未深	1
+gen gu qi wen	亘古奇闻	1
+gen gu xin wen	亘古新闻	1
+gen guan chong tian qi	根管充填器	1
+gen jian nang zhong	根尖囊肿	1
+gen jie pan gu	根结盘固	1
+gen jie pan ju	根结盘踞	1
+gen lao di gu	根牢蒂固	1
+gen lian zhu ba	根连株拔	1
+gen lian zhu dai	根连株逮	1
+gen mei cu jin su	根霉促进素	1
+gen mei die ling	根霉蝶呤	1
+gen pan di jie	根盘蒂结	1
+gen pan jin zai he lv cheng	根盘今在阖闾城	1
+gen shan jie dao	艮山街道	1
+gen shan lu hang hai lu kou	艮山路杭海路口	1
+gen shan xi lu kou	艮山西路口	1
+gen shen di jie	根深蒂结	1
+gen shen gu ben	根深固本	1
+gen shen ye fan	根深叶蕃	1
+gen shen zhi fan	根深枝繁	1
+gen shen zhi mao	根深枝茂	1
+gen xiu zhi ku	根朽枝枯	1
+gen ya pan cuo	根牙盘错	1
+gen ya pan cuo	根牙磐错	1
+gen yong qin cai	根用芹菜	1
+gen zhu fei jing ting	根株非劲挺	1
+gen zhu fu li	根株附丽	1
+gen zhu jie pan	根株结盘	1
+gen zhu qian lian	根株牵连	1
+gen zu bian mao chong mu	根足鞭毛虫目	1

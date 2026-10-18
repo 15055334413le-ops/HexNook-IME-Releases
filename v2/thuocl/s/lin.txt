@@ -1,0 +1,615 @@
+lin suan	磷酸	131081
+lin ken	林肯	100281
+lin zhi	磷脂	56076
+lin chuang	临床	52763
+lin biao	林彪	25916
+lin ye ju	林业局	21924
+lin shi wen jian	临时文件	16774
+lin di	林地	14033
+lin shi jia ge gan yu	临时价格干预	11875
+lin li jin zhi	淋漓尽致	9971
+lin lang man mu	琳琅满目	8857
+lin jie qu	临界区	6654
+lin li guo	林立果	6294
+lin shi dui xiang	临时对象	6146
+lin jie ju zhen	邻接矩阵	5481
+lin suan er qing jia	磷酸二氢钾	5419
+lin jie biao	邻接表	5259
+lin chuang biao xian	临床表现	5158
+lin chuang yi xue	临床医学	4980
+lin jie	临界	4891
+lin jie dian	临界点	4643
+lin chuang shi yan	临床试验	4610
+lin yu	淋浴	4414
+lin fen shi	临汾市	4208
+lin zhong	林中	3999
+lin yu	邻域	3824
+lin yi shi	临沂市	3576
+lin xia	临夏	3379
+lin chuang jing yan	临床经验	3291
+lin tong	临潼	3003
+lin wei shou ming	临危受命	2828
+lin suan qing gai	磷酸氢钙	2801
+lin ci zhi bi	鳞次栉比	2729
+lin ba	淋巴	2544
+lin zhi	林芝	2341
+lin yi fu	林毅夫	2327
+lin gao	临高	2303
+lin di shi yong quan	林地使用权	2130
+lin jie zi yuan	临界资源	2066
+lin zhi ling	林志玲	2027
+lin he	临河	1892
+lin wei bu ju	临危不惧	1850
+lin shi biao kong jian	临时表空间	1703
+lin xiang shi	临湘市	1699
+lin yi shi	林益世	1684
+lin chuang zhen duan	临床诊断	1641
+lin jia	林家	1547
+lin wu	临武	1464
+lin diao	林雕	1413
+lin ye zhan	林业站	1411
+lin ken ling hang yuan	林肯领航员	1284
+lin an shan he tao	临安山核桃	1269
+lin ze xu	林则徐	1241
+lin jia long	林佳龙	1210
+lin ba liu	淋巴瘤	1183
+lin shi bao fo jiao	临时抱佛脚	1172
+lin feng	林峰	1153
+lin zhou shi	林州市	1131
+lin cang shi	临沧市	1118
+lin ken jiao che	林肯轿车	1095
+lin hui yin	林徽因	1071
+lin jun jie	林俊杰	1028
+lin ba jie	淋巴结	1023
+lin shi cun chu liang	临时存储粮	1016
+lin tao	临洮	1006
+lin ye da xue	林业大学	967
+lin ping	临平	959
+lin ye	林野	942
+lin zhi ying	林志颖	927
+lin shui	邻水	898
+lin an shi	临安市	891
+lin bing	淋病	880
+lin li	临澧	829
+lin zi	临淄	825
+lin jun xian	林俊宪	818
+lin quan	临泉	807
+lin xia zhou	临夏州	807
+lin qing xia	林青霞	788
+lin suan san na	磷酸三钠	784
+lin zhi mei	磷脂酶	775
+lin quan lu	临泉路	752
+lin ken cheng shi	林肯城市	730
+lin hai shi	临海市	723
+lin yu tang	林语堂	683
+lin ba xi bao	淋巴细胞	625
+lin suan mei	磷酸镁	616
+lin chuang si wang	临床死亡	608
+lin xin ru	林心如	607
+lin chuang jian yan	临床检验	606
+lin jiang men	临江门	577
+lin jie zhi	临界值	577
+lin chuan	临川	570
+lin jie guan xi	邻接关系	567
+lin qiong	林琼	537
+lin zhen tuo tao	临阵脱逃	531
+lin qing shi	临清市	528
+lin xian	林县	527
+lin ba jie zhong da	淋巴结肿大	512
+lin wei	临渭	479
+lin chuang hu li	临床护理	474
+lin yi	临邑	471
+lin zhi xuan	林志炫	448
+lin qu	临朐	421
+lin shu	临沭	414
+lin suan qing er na	磷酸氢二钠	412
+lin dong	林东	389
+lin suan er qing na	磷酸二氢钠	377
+lin suan san gai	磷酸三钙	373
+lin yi	临猗	373
+lin bo qu	林伯渠	357
+lin wei	林蔚	355
+lin ye ke xue yan jiu yuan	林业科学研究院	355
+lin zhen mo qiang	临阵磨枪	351
+lin feng	林丰	345
+lin dian	林甸	344
+lin zhang	临漳	342
+lin li	林莉	333
+lin yi chen	林依晨	320
+lin zhao hua	林兆华	320
+lin xia shi	临夏市	311
+lin suan er qing gai	磷酸二氢钙	304
+lin ze	临泽	301
+lin he jie	临河街	298
+lin yi lian	林忆莲	290
+lin tong shi liu	临潼石榴	283
+lin gui xian	临桂县	278
+lin yong	林勇	277
+lin gui	临桂	268
+lin ying	临颍	263
+lin jue min	林觉民	262
+lin shi shi yong tu di he tong	临时使用土地合同	250
+lin shun chao	林顺潮	248
+lin ba xi tong	淋巴系统	238
+lin jiang shi	临江市	233
+lin xu	林旭	232
+lin tan	临潭	228
+lin ba xi bao bai xue bing	淋巴细胞白血病	227
+lin qing xuan	林清玄	215
+lin zhen tui suo	临阵退缩	207
+lin chuang yao xue	临床药学	206
+lin san zhi	林散之	199
+lin lin zong zong	林林总总	192
+lin you	麟游	191
+lin shan	林山	188
+lin yi lun	林依轮	188
+lin xi lei	林熙蕾	185
+lin ba zu zhi	淋巴组织	181
+lin jia xin	林嘉欣	177
+lin bian	林边	176
+lin ba guan	淋巴管	175
+lin bie zeng yan	临别赠言	170
+lin yin jie	林荫街	163
+lin ji chu zhi	临机处置	159
+lin chi mu you chong	鳞翅目幼虫	158
+lin feng jiao	林凤娇	158
+lin shang	林上	157
+lin shao hua	林少华	157
+lin fen lu	临汾路	156
+lin xie	鳞屑	151
+lin xi	林西	138
+lin xi	临西	138
+lin cui lu	林萃路	137
+lin qiu jun	淋球菌	136
+lin suan qing er jia	磷酸氢二钾	135
+lin bin	林彬	130
+lin yuan xian yu	临渊羡鱼	127
+lin zhuang xi bao ai	鳞状细胞癌	124
+lin gui	林龟	121
+lin xiao feng	林晓峰	121
+lin zhi jie	林志杰	121
+lin hai feng	林海峰	119
+lin ping zhan	临平站	117
+lin ba ye	淋巴液	116
+lin shi	林时	112
+lin yuan	林源	111
+lin ze xu ji nian guan	林则徐纪念馆	111
+lin jie biao jie gou	邻接表结构	107
+lin ba xian	淋巴腺	106
+lin xing mi mi feng	临行密密缝	97
+lin zhi xian yi chun an	磷脂酰乙醇胺	97
+lin xiang ru	蔺相如	96
+lin ke suo	林科所	95
+lin suan gai	磷酸钙	95
+lin qiao zhi	林巧稚	93
+lin ben ji ben fen	邻苯基苯酚	92
+lin xiu zhen	林秀贞	90
+lin he xi	林和西	88
+lin wei shou ming	临危授命	84
+lin fen di qu	临汾地区	82
+lin jin cha zhao	邻近查找	81
+lin yuan	磷源	78
+lin he	林河	75
+lin zhai	林宅	73
+lin shu	林纾	72
+lin ji lu	林基路	71
+lin ba xun huan	淋巴循环	69
+lin bao yi	林保怡	69
+lin suan ke dai yin	磷酸可待因	69
+lin long	林龙	68
+lin zhu	林竹	68
+lin ba shui zhong	淋巴水肿	67
+lin ba jie he	淋巴结核	66
+lin qing xian	临清县	64
+lin chao song	林朝崧	63
+lin cang di qu	临沧地区	62
+lin hua lv	磷化铝	59
+lin chuang liu xing bing xue	临床流行病学	57
+lin xian tang	林献堂	56
+lin yi lu	临沂路	56
+lin ge	林格	54
+lin lan	林蓝	54
+lin li	林李	54
+lin ba jie yan	淋巴结炎	53
+lin hua qing	磷化氢	53
+lin mei xiu	林美秀	53
+lin kong jing ji yuan qu	临空经济园区	52
+lin ba mu xi bao	淋巴母细胞	51
+lin tong huo jing shi zi	临潼火晶柿子	51
+lin yu nan	林育南	51
+lin zu mi	林祖密	51
+lin huai lu	临淮路	50
+lin xiang qian	林祥谦	48
+lin xiang xian	临湘县	48
+lin shan zhai jie dao	林山寨街道	47
+lin hai yin	林海音	46
+lin he shi	临河市	46
+lin ke jue jing	临渴掘井	45
+lin ji ying bian	临机应变	43
+lin jia cun	林家村	42
+lin ke mei su	林可霉素	42
+lin yu yun suan	邻域运算	42
+lin chuang ying yang xue	临床营养学	41
+lin yin zhong jie	林荫中街	41
+lin jin sou suo	邻近搜索	40
+lin mei	林美	40
+lin shuang	林爽	40
+lin chi mu ye e ke	鳞翅目夜蛾科	39
+lin chuang mian yi xue	临床免疫学	38
+lin jiang zhi lu	临江支路	38
+lin shan shan	林珊珊	38
+lin bu	林逋	37
+lin chi mu ming e ke	鳞翅目螟蛾科	36
+lin shi er ju	临事而惧	36
+lin ke sheng	林可胜	35
+lin yuan lu	林园路	35
+lin chao dong	林朝栋	34
+lin hao	林豪	34
+lin shen lv bo	临深履薄	34
+lin xiu	林岫	34
+lin yi	林艺	32
+lin suan ao si ta wei jiao nang	磷酸奥司他韦胶囊	31
+lin an ji ben jia suan jia zhi	邻氨基苯甲酸甲酯	30
+lin ba guan liu	淋巴管瘤	30
+lin ba guan yan	淋巴管炎	30
+lin guo zhen	林国桢	30
+lin jiang men da qiao	临江门大桥	30
+lin ping bei lu	临平北路	30
+lin qiao	林桥	30
+lin dai	林黛	29
+lin mu cai fa quan	林木采伐权	29
+lin suan san jia	磷酸三钾	29
+lin chuang ma zui	临床麻醉	28
+lin he lu	临河路	28
+lin chuang yao li xue	临床药理学	27
+lin jiang hua yuan	临江花园	27
+lin mei su	磷霉素	27
+lin shen	林申	27
+lin tong xian	临潼县	27
+lin ba lv pao	淋巴滤泡	25
+lin qing lu	临青路	25
+lin wu	林屋	25
+lin you li	林又立	25
+lin han	林瀚	24
+lin he jie dao	林和街道	24
+lin jiang ma tou	临江码头	24
+lin jun	林钧	24
+lin ping nan zhan	临平南站	24
+lin zhou	林周	24
+lin xiao lu	林校路	23
+lin cun bao	蔺存宝	22
+lin yi xian	临沂县	22
+lin yong sheng	林永升	22
+lin bai shui	林白水	21
+lin chan pin shi chang	林产品市场	21
+lin hua xin	磷化锌	21
+lin jia hui	林佳慧	21
+lin ken jun juan mao pi zhu	林肯郡卷毛皮猪	21
+lin yi	林亿	21
+lin ling	林岭	20
+lin tong lu	临潼路	20
+lin wei zhou	林为洲	20
+lin suan er zhi mei	磷酸二酯酶	19
+lin zi	林梓	19
+lin an xian	临安县	18
+lin yu hong	蔺玉红	18
+lin yu jie dao	邻玉街道	18
+lin da bei lu dong kou	林大北路东口	17
+lin jian hong	林建宏	17
+lin jie kong zhi	临界控制	17
+lin keng	林坑	17
+lin zhong du	磷中毒	17
+lin ba qi guan	淋巴器官	16
+lin ban lu kou	临半路口	16
+lin chuan xian	临川县	16
+lin hai xian	临海县	16
+lin keng cun	林坑村	16
+lin tang	林塘	16
+lin chong xiang	林冲乡	14
+lin dai xie wen luan	磷代谢紊乱	14
+lin hua xie le chun hong	林花谢了春红	14
+lin jia ping zhen	林家坪镇	14
+lin jin	临晋	14
+lin wan cun	林湾村	14
+lin wen jun	林文俊	14
+lin ying xian	临颖县	14
+lin zhi mian	林直勉	14
+lin ru	临汝	13
+lin wei jun	林韦君	13
+lin yi xin cun	临沂新村	13
+lin yu ying	林育英	13
+lin ba xi bao ji shu	淋巴细胞计数	12
+lin chuang bing li xue	临床病理学	12
+lin jia ba	林家坝	12
+lin wen ying	林文英	12
+lin zhuang cun	林庄村	12
+lin ba guan ji liu bing	淋巴管肌瘤病	11
+lin fen xian	临汾县	11
+lin he kai fa qu	林河开发区	11
+lin jing rui yuan	林景瑞园	11
+lin tou cun	林头村	11
+lin ying	临颖	11
+lin chang gong si	林场公司	10
+lin cuo	林厝	10
+lin gao cun	蔺高村	10
+lin shao mao	林少猫	10
+lin tao jie jie dao	临洮街街道	10
+lin yin min	林尹民	10
+lin jia yuan zi	林家院子	9
+lin jiang xi	临江溪	9
+lin jiang yuan	临江苑	9
+lin jin chun	林进春	9
+lin jun xing niao dao yan	淋菌性尿道炎	9
+lin mei hui	林美惠	9
+lin pu zhen	临濮镇	9
+lin qu quan yang yan	临朐全羊宴	9
+lin ru xian	临汝县	9
+lin yong	林泳	9
+lin yong yu	林永裕	9
+lin zhi xian ba yi zhen	林芝县八一镇	9
+lin an ji ben jia suan	邻氨基苯甲酸	8
+lin ba rou liu	淋巴肉瘤	8
+lin bai ling	林百灵	8
+lin chuang yi chuan xue	临床遗传学	8
+lin feng cun	林丰村	8
+lin feng xiang	林凤祥	8
+lin gui lu	临桂路	8
+lin jin yu gua	临晋玉瓜	8
+lin miao pu	林苗圃	8
+lin suan mei	磷酸酶	8
+lin cha ban	林查班	7
+lin chao hua	林朝华	7
+lin kou cun	林口村	7
+lin miao	林庙	7
+lin wan gong jiao zhan	林湾公交站	7
+lin wen cha	林文察	7
+lin yu	临渝	7
+lin zhao xin	林兆鑫	7
+lin zhi chun	林枝春	7
+lin zhi xia	林之夏	7
+lin ba yin zi	淋巴因子	6
+lin chuan shi	临川市	6
+lin chun shan	林春山	6
+lin he xian	临河县	6
+lin lv	林虑	6
+lin ping bei zhan	临平北站	6
+lin shan cun	林山村	6
+lin tan zhen	林坦镇	6
+lin wei yuan	林维源	6
+lin wen qing	林文卿	6
+lin bai sheng	林柏生	5
+lin chuang fa yi xue	临床法医学	5
+lin ding li	林顶立	5
+lin huang	林蝗	5
+lin jiang qu	临江区	5
+lin ka xiang	林卡乡	5
+lin kou lin ye ju	林口林业局	5
+lin kui	林魁	5
+lin ran ke	林蚺科	5
+lin suan gai jie shi	磷酸钙结石	5
+lin suan guo tang ji mei	磷酸果糖激酶	5
+lin suan lv kui pian	磷酸氯喹片	5
+lin suan pai kui	磷酸哌喹	5
+lin zhen	林针	5
+lin ao	林岙	4
+lin ba du su	淋巴毒素	4
+lin ba rou ya zhong	淋巴肉芽肿	4
+lin chi mu deng e ke	鳞翅目灯蛾科	4
+lin dian ji	林甸鸡	4
+lin dong cun	林东村	4
+lin hai jie	林海街	4
+lin hai xiao xue	临海小学	4
+lin jia wan	林家湾	4
+lin jun xing yin dao yan	淋菌性阴道炎	4
+lin mu cheng bao he tong	林木承包合同	4
+lin ping gui hua cheng	临平桂花城	4
+lin ping xin tian di	临平新天地	4
+lin pu shui zha	林浦水闸	4
+lin qu shi shi lai	邻曲时时来	4
+lin quan jiu fen fa lv zhi dao	林权纠纷法律指导	4
+lin quan shan zhuang	林泉山庄	4
+lin si jin	林思进	4
+lin xi he bai zu xiang	淋溪河白族乡	4
+lin yu tang zai da lu	林语堂在大陆	4
+lin an cao jing feng	林暗草惊风	3
+lin ba xi bao jian shao zheng	淋巴细胞减少症	3
+lin biao ming ji se	林表明霁色	3
+lin chuang zhen duan xue	临床诊断学	3
+lin da jie er bu ke duo ye	临大节而不可夺也	3
+lin gui	林圭	3
+lin guo zhi min bu jia shao	邻国之民不加少	3
+lin he xiang	蔺河乡	3
+lin heng	林衡	3
+lin hu jie dao	临湖街道	3
+lin kong lu yin xi	林空鹿饮溪	3
+lin lin ju da sha	鳞鳞居大厦	3
+lin mei su na	磷霉素钠	3
+lin ming jun	林明军	3
+lin nong zhen	林农镇	3
+lin pei qin	林佩琴	3
+lin qi jian yu mao	林栖见羽毛	3
+lin qing liu er fu shi	临清流而赋诗	3
+lin ru yao jiu	临汝药酒	3
+lin shan ju wei hui	林山居委会	3
+lin sheng xian	林圣贤	3
+lin suan bo an kui pian	磷酸伯氨喹片	3
+lin suan lv kui	磷酸氯喹	3
+lin suan pai qin	磷酸哌嗪	3
+lin suan xian gan	磷酸腺苷	3
+lin wei wu shu ke	鳞尾鼯鼠科	3
+lin wu lu	临五路	3
+lin xi lu	林西路	3
+lin zhang men	临漳门	3
+lin zhou zhong ji	林州重机	3
+lin ba nang zhong	淋巴囊肿	2
+lin ba shang pi ai	淋巴上皮癌	2
+lin bao xiang	林堡乡	2
+lin bi suan	磷壁酸	2
+lin bing cun	林柄村	2
+lin chuang jian yan ji chu	临床检验基础	2
+lin duan shan ming zhu yin qiang	林断山明竹隐墙	2
+lin feng hua	林凤华	2
+lin feng ting mu chan	临风听暮蝉	2
+lin gao xiang	林皋乡	2
+lin ge shi ye	林格氏液	2
+lin he cun cun wei hui	临河村村委会	2
+lin he di	林和地	2
+lin he nian	林鹤年	2
+lin jian nuan jiu shao hong ye	林间暖酒烧红叶	2
+lin jie	林节	2
+lin ju	临沮	2
+lin li xiang song zhi fang shan	邻里相送至方山	2
+lin lv shi ban an shou ji	林律师办案手记	2
+lin pu feng	林蒲封	2
+lin qiong dao shi hong dou ke	临邛道士鸿都客	2
+lin quan sheng	林泉生	2
+lin shou tu	林寿图	2
+lin suan chuan qiong qin	磷酸川芎嗪	2
+lin suan ji suan	磷酸肌酸	2
+lin suan lv ning jiao	磷酸铝凝胶	2
+lin suan zhi mei	磷酸酯酶	2
+lin ting kou zhen	林亭口镇	2
+lin xia lin chang	林下林场	2
+lin yao	蔺瑶	2
+lin ye	鳞叶	2
+lin you chun	林幼春	2
+lin yuan cun	林园村	2
+lin zhi gong	麟趾宫	2
+lin zhi xian ji chun	磷脂酰肌醇	2
+lin bie yin qin zhong ji ci	临别殷勤重寄词	1
+lin bo tong	林伯桐	1
+lin bu ce zhi yuan	临不测之渊	1
+lin cai bu gou qu	临财不苟取	1
+lin chuan xiang	林川乡	1
+lin chuang ma zui xue	临床麻醉学	1
+lin cun pi shi song	鳞皴皮似松	1
+lin dan	林旦	1
+lin di cun	林地村	1
+lin di xiang	林堤乡	1
+lin diao xiao	林雕鸮	1
+lin ding lu jian ding lu kou	临丁路笕丁路口	1
+lin dong	林侗	1
+lin fang wen li zhi ben	林放问礼之本	1
+lin fu lv zhuo mu niao	鳞腹绿啄木鸟	1
+lin fu zhuo mu niao	鳞腹啄木鸟	1
+lin ge zhuang	林格庄	1
+lin geng bai	林庚白	1
+lin guang fa	林广发	1
+lin hong min	林宏敏	1
+lin hu xue sheng gong yu	临湖学生公寓	1
+lin hua sao geng luo	林花扫更落	1
+lin hun zhang bu kai	林昏瘴不开	1
+lin ji	林纪	1
+lin ji	林佶	1
+lin jia ci	林家祠	1
+lin jia suan na	膦甲酸钠	1
+lin jiang wang jie shi ge	临江王节士歌	1
+lin jiang zhao ying zi nao gong	临江照影自恼公	1
+lin jie quan yan jiu	邻接权研究	1
+lin jie xiang	林街乡	1
+lin jun hua	林君桦	1
+lin jun xing jie mo yan	淋菌性结膜炎	1
+lin kou she qu	林口社区	1
+lin li xiang	林里乡	1
+lin ling cun	林岭村	1
+lin liu bie you sheng	临流别友生	1
+lin mao niao zhi gui	林茂鸟知归	1
+lin mo	林模	1
+lin mu zhong miao chang	林木种苗场	1
+lin nu er	林奴儿	1
+lin qi zhen	林启桢	1
+lin qing cun	临清村	1
+lin qu hong zun yu	临朐虹鳟鱼	1
+lin ren	廪人	1
+lin ren you mei jiu	邻人有美酒	1
+lin rong	临戎	1
+lin shi xing jin zhi ling	临时性禁止令	1
+lin shu shan hu zhang zui bao	林鼠山狐长醉饱	1
+lin shui dao	临水道	1
+lin shui kui you yu	临水愧游鱼	1
+lin suan bi duo quan	磷酸吡哆醛	1
+lin suan bo an kui	磷酸伯氨喹	1
+lin suan gan you	磷酸甘油	1
+lin suan ge ding	磷酸咯啶	1
+lin suan hua mei	磷酸化酶	1
+lin suan pai kui pian	磷酸哌喹片	1
+lin suan pai qin bao ta tang	磷酸哌嗪宝塔糖	1
+lin tiao du chou chu	临眺独踌躇	1
+lin tou shi chang	林头市场	1
+lin wai deng gao lou	林外登高楼	1
+lin xi yi	林希逸	1
+lin xia shui bian wu yan ri	林下水边无厌日	1
+lin xiang ping	林湘萍	1
+lin xie	林獬	1
+lin xie xing jian yuan yan	鳞屑性睑缘炎	1
+lin xiong xiang	林熊祥	1
+lin yan feng	林彦峰	1
+lin yang zhen	林垟镇	1
+lin yao ying	林尧英	1
+lin yin jia yuan she qu	林荫家园社区	1
+lin ying can	林英灿	1
+lin you lin	林有麟	1
+lin yu rong	林育容	1
+lin yuan hui mei	林原惠美	1
+lin yuan shou zhong wei wu shi	林园手种唯吾事	1
+lin yun ming	林云铭	1
+lin zai	临菑	1
+lin zhao lu	林兆路	1
+lin zhe yu xiang	林遮峪乡	1
+lin zhi yu jia yuan	林之语嘉园	1
+lin zi chong	林子冲	1
+lin zong qing	林宗庆	1
+lin ban di bao niao	鳞斑地宝鸟	0
+lin ban hui ge	鳞斑灰鸽	0
+lin ban ji zhuo mu niao	鳞斑姬啄木鸟	0
+lin ban ou mu bei	鳞板欧姆贝	0
+lin ban que	鳞斑雀	0
+lin ban shi guo san niao	鳞斑食果伞鸟	0
+lin ban xiao guan zhi	鳞斑小冠雉	0
+lin ban xiao xiao	林斑小鸮	0
+lin ban xie	鳞斑蟹	0
+lin ban yuan tai e	鳞斑圆苔蛾	0
+lin ban yuan wei hu	鳞斑圆尾鹱	0
+lin ban zhen wei que	鳞斑针尾雀	0
+lin bei xian	鳞背鹇	0
+lin bei yi niao	鳞背蚁鸟	0
+lin bing yu jin yu	鳞柄玉筋鱼	0
+lin bo que qi nian	林波缺鳍鲶	0
+lin chi chu huang	鳞翅雏蝗	0
+lin chi kou fu fei ji	鳞翅口孵非鲫	0
+lin chi mu guo zhu e ke	鳞翅目果蛀蛾科	0
+lin chi mu mao wen e ke	鳞翅目锚纹蛾科	0
+lin ci chong	鳞刺虫	0
+lin ci ying	林刺蝇	0
+lin de bo ge nan qiu	林德伯格南鳅	0
+lin di feng	鳞地蜂	0
+lin di hu wei wei	林迪护尾鮠	0
+lin di she niu	林地麝牛	0
+lin di xun lu	林地驯鹿	0
+lin diao xiao	林鵰鸮	0
+lin ding yan xi mi niao	鳞顶岩吸蜜鸟	0
+lin feng yin mu shu	鳞封印木属	0
+lin fu gou chong	鳞腹沟虫	0
+lin fu ma kou chi	鳞腹蟆口鸱	0
+lin gan xia hu yu	鳞竿鰕虎鱼	0
+lin guan zhu ba weng	鳞冠侏霸鹟	0
+lin hai lao ye shou ri	临海老爷寿日	0
+lin hai lin qin gang	鳞海林檎纲	0
+lin hai zhe jiang yi long	临海浙江翼龙	0
+lin hei wen hou mu li	林黑文厚牡蛎	0
+lin hong chun ni li mang chun	邻红唇拟丽盲蝽	0
+lin jia ni shan jiao xiao	林加尼山角鸮	0
+lin jiao xiao	林叫鸮	0
+lin ju weng shu	林鵙鶲属	0
+lin ke dun xia hu yu	林克钝鰕虎鱼	0
+lin ken chan han yu	林肯蝉汉鱼	0
+lin ken hai si luo	林肯海蛳螺	0
+lin kong long	林孔龙	0
+lin li huang hua yu	临澧黄花鱼	0
+lin mei ye e	鳞眉夜蛾	0
+lin shi dan zhao ao feng	林氏单爪螯蜂	0
+lin shi nu jian feng	林氏怒茧蜂	0
+lin wei song shu ya mu	鳞尾松鼠亚目	0
+lin wei zhai e tun	鳞尾窄额鲀	0
+lin wen chun mang chun	邻纹唇盲蝽	0
+lin yan bi hu	鳞眼壁虎	0
