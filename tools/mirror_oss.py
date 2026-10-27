@@ -208,18 +208,40 @@ def extract_branch(branch, dest, repo_dir):
         return None
     target = os.path.join(dest, branch)
     os.makedirs(target, exist_ok=True)
-    # 用 Python 自带的 tarfile 流式解包，不依赖系统的 tar（Windows 与 Linux 行为一致）
-    proc = subprocess.Popen(["git", "archive", ref], cwd=repo_dir, stdout=subprocess.PIPE)
+    # 直接读 git 里的原始字节（ls-tree + cat-file），不经过 git archive：
+    # archive 会按 core.autocrlf 把文本换成 CRLF（Windows 默认如此），清单的 ECDSA 签名就会对不上
+    tree = subprocess.run(["git", "ls-tree", "-r", "-z", "--full-tree", ref], cwd=repo_dir, check=True,
+                          capture_output=True).stdout
+    entries = []
+    for rec in tree.split(b"\0"):
+        if not rec:
+            continue
+        meta, path = rec.split(b"\t", 1)
+        mode, kind, oid = meta.decode().split()
+        if kind != "blob" or mode == "120000":  # 子模块、符号链接不属于发布内容
+            continue
+        entries.append((oid, path.decode("utf-8")))
+    proc = subprocess.Popen(["git", "cat-file", "--batch"], cwd=repo_dir, stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     try:
-        with tarfile.open(fileobj=proc.stdout, mode="r|") as tf:
-            try:
-                tf.extractall(target, filter="data")
-            except TypeError:  # Python < 3.12 没有 filter 参数
-                tf.extractall(target)
+        for oid, rel in entries:
+            proc.stdin.write(oid.encode() + b"\n")
+            proc.stdin.flush()
+            head = proc.stdout.readline().split()
+            if len(head) != 3 or head[1] != b"blob":
+                raise Fatal(f"读取 {branch}:{rel} 失败")
+            size = int(head[2])
+            data = proc.stdout.read(size)
+            proc.stdout.read(1)  # 结尾换行
+            if len(data) != size:
+                raise Fatal(f"读取 {branch}:{rel} 不完整")
+            out = os.path.join(target, *rel.split("/"))
+            os.makedirs(os.path.dirname(out), exist_ok=True)
+            with open(out, "wb") as f:
+                f.write(data)
     finally:
+        proc.stdin.close()
         proc.stdout.close()
-        if proc.wait() != 0:
-            raise Fatal(f"导出分支 {branch} 失败（git archive 退出码 {proc.returncode}）")
+        proc.wait()
     return sha
 
 

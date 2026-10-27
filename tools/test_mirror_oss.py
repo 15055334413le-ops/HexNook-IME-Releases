@@ -90,6 +90,7 @@ def sh(*a, cwd=None, env=None):
 def make_repo(tmp):
     r = os.path.join(tmp, "repo"); os.makedirs(r)
     sh("git", "init", "-q", cwd=r); sh("git", "config", "user.email", "t@t", cwd=r); sh("git", "config", "user.name", "t", cwd=r)
+    sh("git", "config", "core.autocrlf", "true", cwd=r)  # 复现 Windows 默认设置：git archive 会把文本清单换成 CRLF，签名就对不上
     def branch(name, files):
         sh("git", "checkout", "-q", "--orphan", name, cwd=r); sh("git", "rm", "-rqf", ".", cwd=r)
         for rel, data in files.items():
@@ -146,6 +147,8 @@ def main():
                     store.get("setup/v1/files/aa.0") == blob("refs/remotes/origin/setup", "v1/files/aa.0")
                     and store.get("setup/v1/notes.txt") == blob("refs/remotes/origin/setup", "v1/notes.txt")
                     and store.get("cloud-dict/v2/rime-ice/a/aa.txt") == blob("refs/remotes/origin/cloud-dict", "v2/rime-ice/a/aa.txt"))
+        ok &= check("清单字节原样（不被 core.autocrlf 改成 CRLF，否则签名失效）",
+                    store.get("setup/v1/setup.txt") == b"format 1\nversion 0.9.32\n" and b"\r" not in store.get("setup/v1/setup.txt", b"\r"))
         idx = {k: i for i, k in enumerate(puts)}
         data_last = max(idx[k] for k in puts if k.endswith(("/aa.0", "/aa.1", "x.1.0", "aa.txt")))
         ok &= check("顺序：清单在数据之后", idx["setup/v1/setup.txt"] > data_last and idx["data-pack/v3/manifest.txt"] > data_last)
