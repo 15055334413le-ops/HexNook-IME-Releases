@@ -21,12 +21,14 @@ import datetime
 import email.utils
 import hashlib
 import hmac
+import http.client
 import json
 import os
 import subprocess
 import sys
 import tarfile
 import tempfile
+import threading
 import time
 import urllib.error
 import urllib.parse
@@ -63,6 +65,7 @@ class Oss:
         scheme, host = ep.split("://", 1)
         self.base = f"{scheme}://{host}" if self.path_style else f"{scheme}://{self.bucket}.{host}"
         self.public = f"https://{self.bucket}.{host}/"
+        self._local = threading.local()
 
     def scrub(self, text):
         for s in (self.ak, self.sk):
@@ -70,29 +73,58 @@ class Oss:
                 text = text.replace(s, "***")
         return text
 
-    def url(self, key, query=""):
+    def _path(self, key, query=""):
         path = urllib.parse.quote(key, safe="/")
         prefix = f"/{self.bucket}" if self.path_style else ""
-        return f"{self.base}{prefix}/{path}{('?' + query) if query else ''}"
+        return f"{prefix}/{path}{('?' + query) if query else ''}"
+
+    def _conn(self):
+        """每个线程复用一条连接：避免为每个文件新开连接而耗尽 Windows 的端口与缓冲区（WinError 10055）。"""
+        c = getattr(self._local, "conn", None)
+        if c is None:
+            u = urllib.parse.urlsplit(self.base)
+            cls = http.client.HTTPSConnection if u.scheme == "https" else http.client.HTTPConnection
+            c = cls(u.netloc, timeout=120)
+            self._local.conn = c
+        return c
+
+    def _drop(self):
+        c = getattr(self._local, "conn", None)
+        self._local.conn = None
+        if c is not None:
+            try:
+                c.close()
+            except Exception:
+                pass
 
     def request(self, method, key, data=None, headers=None, query=""):
-        headers = dict(headers or {})
-        date = email.utils.formatdate(usegmt=True)
-        md5 = headers.get("Content-MD5", "")
-        ctype = headers.get("Content-Type", "")
-        sts = f"{method}\n{md5}\n{ctype}\n{date}\n/{self.bucket}/{key}"
-        sig = base64.b64encode(hmac.new(self.sk.encode(), sts.encode(), hashlib.sha1).digest()).decode()
-        headers["Date"] = date
-        headers["Authorization"] = f"OSS {self.ak}:{sig}"
-        req = urllib.request.Request(self.url(key, query), data=data, method=method, headers=headers)
-        try:
-            with urllib.request.urlopen(req, timeout=120) as resp:
-                return resp.status, dict(resp.headers), resp.read()
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", "replace")[:300]
-            return e.code, dict(e.headers), body.encode()
-        except Exception as e:  # 网络错误
-            raise Fatal(self.scrub(f"无法连接 OSS（{type(e).__name__}：{e}）"))
+        last = ""
+        for attempt in range(6):
+            h = dict(headers or {})
+            date = email.utils.formatdate(usegmt=True)
+            md5 = h.get("Content-MD5", "")
+            ctype = h.get("Content-Type", "")
+            sts = f"{method}\n{md5}\n{ctype}\n{date}\n/{self.bucket}/{key}"
+            sig = base64.b64encode(hmac.new(self.sk.encode(), sts.encode(), hashlib.sha1).digest()).decode()
+            h["Date"] = date
+            h["Authorization"] = f"OSS {self.ak}:{sig}"
+            try:
+                c = self._conn()
+                c.request(method, self._path(key, query), body=data, headers=h)
+                resp = c.getresponse()
+                body = resp.read()
+                if resp.getheader("Connection", "").lower() == "close":
+                    self._drop()
+                if resp.status >= 500:  # 服务端暂时性错误：重试
+                    last = f"HTTP {resp.status}"
+                    time.sleep(min(2 ** attempt, 10))
+                    continue
+                return resp.status, dict(resp.getheaders()), body[:100000] if resp.status >= 400 else body
+            except (OSError, http.client.HTTPException) as e:  # 网络错误：丢弃连接，退避后重试
+                self._drop()
+                last = f"{type(e).__name__}：{e}"
+                time.sleep(min(2 ** attempt, 10))
+        raise Fatal(self.scrub(f"无法连接 OSS（已重试 6 次，{last}）"))
 
     def list_prefix(self, prefix):
         out, token = {}, None
@@ -218,7 +250,8 @@ def plan_uploads(oss, files, dry):
     return todo
 
 
-def upload_many(oss, items, cache, workers=16):
+def upload_many(oss, items, cache, workers=None):
+    workers = workers or int(os.environ.get("MIRROR_WORKERS", "8"))
     def one(it):
         key, path, _, size = it
         oss.put(key, path, cache)
