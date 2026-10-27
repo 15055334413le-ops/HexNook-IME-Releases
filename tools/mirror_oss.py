@@ -97,14 +97,14 @@ class Oss:
             except Exception:
                 pass
 
-    def request(self, method, key, data=None, headers=None, query=""):
+    def request(self, method, key, data=None, headers=None, query="", subres=""):
         last = ""
         for attempt in range(6):
             h = dict(headers or {})
             date = email.utils.formatdate(usegmt=True)
             md5 = h.get("Content-MD5", "")
             ctype = h.get("Content-Type", "")
-            sts = f"{method}\n{md5}\n{ctype}\n{date}\n/{self.bucket}/{key}"
+            sts = f"{method}\n{md5}\n{ctype}\n{date}\n/{self.bucket}/{key}{subres}"
             sig = base64.b64encode(hmac.new(self.sk.encode(), sts.encode(), hashlib.sha1).digest()).decode()
             h["Date"] = date
             h["Authorization"] = f"OSS {self.ak}:{sig}"
@@ -115,7 +115,7 @@ class Oss:
                 body = resp.read()
                 if resp.getheader("Connection", "").lower() == "close":
                     self._drop()
-                if resp.status >= 500:  # 服务端暂时性错误：重试
+                if resp.status >= 500 or resp.status == 429:  # 服务端暂时性错误或限流：重试
                     last = f"HTTP {resp.status}"
                     time.sleep(min(2 ** attempt, 10))
                     continue
@@ -133,7 +133,9 @@ class Oss:
             if token:
                 q += "&continuation-token=" + urllib.parse.quote(token, safe="")
             sts_key = ""  # 列表请求的资源是 /bucket/
-            status, _, body = self.request("GET", sts_key, query=q)
+            # 真实 OSS 的签名资源要带上 continuation-token（取原始值，不做 URL 编码）：/bucket/?continuation-token=值
+            subres = f"?continuation-token={token}" if token else ""
+            status, _, body = self.request("GET", sts_key, query=q, subres=subres)
             if status != 200:
                 raise Fatal(self.scrub(f"列出 OSS 对象失败（HTTP {status}）：{body.decode('utf-8','replace')}"))
             root = ET.fromstring(body)

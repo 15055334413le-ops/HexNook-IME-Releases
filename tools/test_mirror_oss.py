@@ -9,6 +9,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import xml.sax.saxutils as sx
 
 AK, SK, BUCKET = "TESTAK", "TESTSECRET", "corspii"
+PAGE = 3   # 假 OSS 每页条数（真实为 1000）：小到让测试必然翻页
 HERE = os.path.dirname(os.path.abspath(__file__))
 SCRIPT = os.path.join(HERE, "mirror_oss.py")
 
@@ -27,9 +28,9 @@ class H(BaseHTTPRequestHandler):
         path = urllib.parse.unquote(u.path)
         return path, urllib.parse.parse_qs(u.query)
 
-    def _auth_ok(self, method, key, ct="", md5=""):
+    def _auth_ok(self, method, key, ct="", md5="", sub=""):
         auth = self.headers.get("Authorization", "")
-        sts = f"{method}\n{md5}\n{ct}\n{self.headers.get('Date')}\n/{BUCKET}/{key}"
+        sts = f"{method}\n{md5}\n{ct}\n{self.headers.get('Date')}\n/{BUCKET}/{key}{sub}"
         sig = base64.b64encode(hmac.new(SK.encode(), sts.encode(), hashlib.sha1).digest()).decode()
         return auth == f"OSS {AK}:{sig}"
 
@@ -65,12 +66,17 @@ class H(BaseHTTPRequestHandler):
             return self._send(200 if data is not None else 404, data or b"")
         key = path[len(f"/{BUCKET}/"):]
         if key == "" and "list-type" in q:
-            if not self._auth_ok("GET", ""): return self._send(403)
+            tok = q.get("continuation-token", [""])[0]
+            # 与真实 OSS 一致：翻页时 continuation-token 必须计入签名资源
+            if not self._auth_ok("GET", "", sub=(f"?continuation-token={tok}" if tok else "")): return self._send(403, b"SignatureDoesNotMatch")
             prefix = q.get("prefix", [""])[0]
+            keys = [k for k in sorted(store) if k.startswith(prefix) and (not tok or k > base64.urlsafe_b64decode(tok.encode()).decode())]
+            page, more = keys[:PAGE], len(keys) > PAGE      # 每页只给 PAGE 个，强制走分页
             items = "".join(
-                f"<Contents><Key>{sx.escape(k)}</Key><Size>{len(v)}</Size><ETag>&quot;{hashlib.md5(v).hexdigest().upper()}&quot;</ETag></Contents>"
-                for k, v in sorted(store.items()) if k.startswith(prefix))
-            body = f'<?xml version="1.0"?><ListBucketResult xmlns="http://doc.oss.aliyuncs.com"><IsTruncated>false</IsTruncated>{items}</ListBucketResult>'.encode()
+                f"<Contents><Key>{sx.escape(k)}</Key><Size>{len(store[k])}</Size><ETag>&quot;{hashlib.md5(store[k]).hexdigest().upper()}&quot;</ETag></Contents>"
+                for k in page)
+            nxt = f"<NextContinuationToken>{base64.urlsafe_b64encode(page[-1].encode()).decode()}</NextContinuationToken>" if more else ""
+            body = f'<?xml version="1.0"?><ListBucketResult xmlns="http://doc.oss.aliyuncs.com"><IsTruncated>{"true" if more else "false"}</IsTruncated>{nxt}{items}</ListBucketResult>'.encode()
             return self._send(200, body)
         if not self._auth_ok("GET", key): return self._send(403)
         if key not in store: return self._send(404, b"NoSuchKey")
