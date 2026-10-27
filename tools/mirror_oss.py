@@ -25,6 +25,7 @@ import json
 import os
 import subprocess
 import sys
+import tarfile
 import tempfile
 import time
 import urllib.error
@@ -173,8 +174,18 @@ def extract_branch(branch, dest, repo_dir):
         return None
     target = os.path.join(dest, branch)
     os.makedirs(target, exist_ok=True)
-    tar = subprocess.run(["git", "archive", ref], cwd=repo_dir, check=True, capture_output=True).stdout
-    subprocess.run(["tar", "-x", "-C", target], input=tar, check=True)
+    # 用 Python 自带的 tarfile 流式解包，不依赖系统的 tar（Windows 与 Linux 行为一致）
+    proc = subprocess.Popen(["git", "archive", ref], cwd=repo_dir, stdout=subprocess.PIPE)
+    try:
+        with tarfile.open(fileobj=proc.stdout, mode="r|") as tf:
+            try:
+                tf.extractall(target, filter="data")
+            except TypeError:  # Python < 3.12 没有 filter 参数
+                tf.extractall(target)
+    finally:
+        proc.stdout.close()
+        if proc.wait() != 0:
+            raise Fatal(f"导出分支 {branch} 失败（git archive 退出码 {proc.returncode}）")
     return sha
 
 
