@@ -1,0 +1,49 @@
+ga li	咖喱	44292
+ga ma	伽马	10738
+ga li fen	咖喱粉	3590
+ga li niu rou	咖喱牛肉	1339
+ga shi	伽师	348
+ga li jiao	咖喱饺	275
+ga ma jiao zheng	伽马校正	204
+ga mian pian	尕面片	177
+ga li niu rou tang	咖喱牛肉汤	79
+ga guo	伽果	68
+ga da mei lin	嘎达梅林	56
+ga er	噶尔	46
+ga li cai hua	咖喱菜花	44
+ga ba xiang	呷巴乡	35
+ga li ji ding	咖喱鸡丁	34
+ga li niu pai	咖喱牛排	24
+ga er dan	噶尔丹	23
+ga li you yu	咖喱鱿鱼	19
+ga ma dao zhi liao	伽玛刀治疗	19
+ga la xiang	呷拉乡	16
+ga ma xiang	嘎玛乡	9
+ga la	呷拉	8
+ga ta xiang	嘎塔乡	8
+ga cuo xiang	嘎措乡	7
+ga ba	呷巴	6
+ga duo xiang	尕朵乡	6
+ga hai xiang	尕海乡	6
+ga ba song duo	尕巴松多	5
+ga dong zhen	嘎东镇	5
+ga ya he	嘎呀河	4
+ga da su zhong chu chang	嘎达苏种畜场	3
+ga duo xiang	尕多乡	3
+ga li men ji	咖喱焖鸡	3
+ga ga hu tong	嘎嘎胡同	2
+ga li li	嘎立立	2
+ga mu xiang	嘎木乡	2
+ga shen gen xiang	嘎什根乡	2
+ga yi	呷衣	2
+ga yi xiang	呷衣乡	2
+ga li ji si geng	咖喱鸡丝羹	1
+ga li ju rou xie	咖喱焗肉蟹	1
+ga li men yang nan	咖喱焖羊腩	1
+ga li ying tao	咖喱樱桃	1
+ga ma gong sang jie dao	嘎玛贡桑街道	1
+ga mei xiang	嘎美乡	1
+ga hu la	伽湖鯻	0
+ga la xia man	伽拉狭螨	0
+ga nan xiang	伽喃香	0
+ga yuan	魀猿	0

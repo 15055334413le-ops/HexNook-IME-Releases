@@ -1,0 +1,475 @@
+lian you chang	炼油厂	115663
+lian biao	链表	65938
+lian ying	联营	62748
+lian ou	莲藕	28154
+lian zu zhu fang zhi du	廉租住房制度	19965
+lian jie shu ju ku	连接数据库	18725
+lian jie shu	连接数	17144
+lian jie chi	连接池	15454
+lian yi	联谊	14843
+lian dai ze ren bao zheng	连带责任保证	14361
+lian xi qu	练习曲	11858
+lian xian	连线	10857
+lian yun gang	连云港	10472
+lian lu	链路	9617
+lian jie di zhi	链接地址	8698
+lian jie dian	连接点	8408
+lian suo jing ying xie hui	连锁经营协会	8161
+lian jie guan	连接管	8003
+lian jie jian li	连接建立	7254
+lian jie shi bai	连接失败	6665
+lian jie chao shi	连接超时	6548
+lian jie zi fu chuan	连接字符串	6375
+lian suo fan ying	连锁反应	6171
+lian tong	联通	5809
+lian ban	联办	5171
+lian lu ceng	链路层	4177
+lian jie ku	链接库	4174
+lian tong xing	连通性	3864
+lian yun gang shi	连云港市	3203
+lian tong tu	连通图	3119
+lian yuan shi	涟源市	2997
+lian hua shan	莲花山	2904
+lian jie feng gong	廉洁奉公	2883
+lian jie cha xun	连接查询	2793
+lian he guo hai yang fa gong yue	联合国海洋法公约	2706
+lian he cha xun	联合查询	2544
+lian tong fen liang	连通分量	2508
+lian jie cuo wu	链接错误	2400
+lian hua	炼化	2351
+lian hua	联华	2318
+lian xiang lou	莲香楼	2184
+lian hu	莲湖	2089
+lian tong kuai	连通块	1772
+lian shi cun chu jie gou	链式存储结构	1765
+lian lian bu she	恋恋不舍	1736
+lian zu zhu fang bao zhang ban fa	廉租住房保障办法	1643
+lian zhou shi	连州市	1559
+lian wang	连网	1558
+lian shi cun chu	链式存储	1531
+lian nan	连南	1338
+lian he suo yin	联合索引	1323
+lian tang	莲塘	1293
+lian jie shi jian	连接时间	1283
+lian he zhu jian	联合主键	1229
+lian shan	连山	1197
+lian jie fu wu qi	链接服务器	1191
+lian mian bu duan	连绵不断	1023
+lian jie biao	链接表	1006
+lian biao cao zuo	链表操作	990
+lian ben mi	联苯醚	968
+lian jie shi fang	连接释放	954
+lian di zhi fa	链地址法	926
+lian jiang shi	廉江市	922
+lian pian lei du	连篇累牍	897
+lian qiao	连翘	894
+lian jie jiao ben	链接脚本	878
+lian he jian bing	联合兼并	867
+lian jie shu xing	链接属性	862
+lian shui	涟水	861
+lian hua chi	莲花池	811
+lian mian bu jue	连绵不绝	737
+lian mian qi fu	连绵起伏	737
+lian lian kan	连连看	710
+lian tong fen zhi	连通分支	708
+lian biao pai xu	链表排序	673
+lian hua lu	莲花路	666
+lian shi bian cheng	链式编程	662
+lian peng	莲蓬	634
+lian ji shi wu chu li	联机事务处理	621
+lian ying xie yi	联营协议	612
+lian wu	练舞	603
+lian fang	莲舫	542
+lian nan xian	连南县	534
+lian dui lie	链队列	520
+lian hua qiao	莲花桥	503
+lian ji fen xi chu li	联机分析处理	485
+lian qiu jun	链球菌	484
+lian pou	链剖	480
+lian tong yu	连通域	473
+lian wu	连雾	456
+lian ai dou fu	恋爱豆腐	445
+lian sheng	联盛	431
+lian he cun	联合村	426
+lian ai dou fu guo	恋爱豆腐果	416
+lian jie ji zhi	连接机制	392
+lian hua bai	莲花白	388
+lian hua chao shi	莲花超市	385
+lian biao fan zhuan	链表反转	384
+lian chi	莲池	381
+lian shi dui lie	链式队列	376
+lian biao he bing	链表合并	370
+lian feng	联丰	362
+lian he guang chang	联合广场	346
+lian meng lu	联盟路	341
+lian biao shan chu	链表删除	336
+lian he yong yao	联合用药	334
+lian hua hu	莲花湖	319
+lian zhong	联中	317
+lian shi qian xiang xing	链式前向星	308
+lian tong gong si	联通公司	306
+lian hua cun	莲花村	299
+lian jiang	莲江	288
+lian hua bei	莲花北	284
+lian hua chi gong yuan	莲花池公园	271
+lian hua guang chang	莲花广场	264
+lian he lu	联合路	263
+lian hu lu	莲湖路	253
+lian xiang xi yu	怜香惜玉	249
+lian xiang ji yi	联想记忆	248
+lian heng	连横	247
+lian po	廉颇	244
+lian mei su	链霉素	238
+lian shi zhan	链式栈	235
+lian bu shi bie	脸部识别	230
+lian biao fan zhuan	链表翻转	224
+lian tong du	连通度	224
+lian tang cun	莲塘村	222
+lian dian	联电	217
+lian biao cha xun	连表查询	215
+lian cheng	联城	207
+lian zi gao	莲子糕	192
+lian hua gong si	炼化公司	183
+lian jia ci pan	廉价磁盘	182
+lian ji tiao shi	联机调试	181
+lian hua jie	莲花街	179
+lian he yi miao	联合疫苗	178
+lian cheng di gua gan	连城地瓜干	176
+lian cun	连村	175
+lian jie cong zheng xing wei gui fan	廉洁从政行为规范	169
+lian xu fu zhi	连续赋值	166
+lian tong xing wen ti	连通性问题	159
+lian lu guan li	链路管理	150
+lian feng cun	联丰村	148
+lian feng	莲峰	132
+lian hu gong yuan	莲湖公园	132
+lian he da sha	联合大厦	128
+lian bang mao yi wei yuan hui fa	联邦贸易委员会法	125
+lian hua qing wen jiao nang	连花清瘟胶囊	124
+lian yun lu	连云路	120
+lian hua xiao qu	莲花小区	114
+lian xian	连县	113
+lian meng cun	联盟村	110
+lian zhong san yuan	连中三元	102
+lian he xiao qu	联合小区	100
+lian xi	莲溪	99
+lian guo tang	连锅汤	98
+lian zi xin	莲子心	95
+lian zhen dong	连震东	92
+lian hua er cun	莲花二村	89
+lian xu yu yin shi bie	连续语音识别	89
+lian hua dong	莲花洞	82
+lian qiu jun gan ran	链球菌感染	78
+lian he hua liao	联合化疗	74
+lian ji chu li	联机处理	73
+lian xin	莲新	70
+lian ge	连歌	69
+lian qian	莲前	68
+lian jie duan dian	连接端点	66
+lian xiang shu ru	联想输入	65
+lian bang cun kuan bao xian gong si	联邦存款保险公司	64
+lian li zhi	连理枝	64
+lian yi lu	联谊路	63
+lian ye he tian tian	莲叶何田田	61
+lian yi	联益	59
+lian fang hua yuan	联芳花园	57
+lian shan cun	连山村	54
+lian hua yi cun	莲花一村	53
+lian ming ka	联名卡	53
+lian sheng	联升	53
+lian jie ti	连接体	52
+lian tang lu	莲塘路	52
+lian hong er chi	脸红耳赤	49
+lian gui nan lu	莲桂南路	48
+lian lu jia mi	链路加密	47
+lian xing cun	联星村	47
+lian ci	联次	46
+lian feng lu	联丰路	46
+lian hua gong yu	莲花公寓	46
+lian xu wen ben	连续文本	46
+lian quan	廉泉	45
+lian xiang cun chu qi	联想存储器	45
+lian he mian yi	联合免疫	44
+lian jiang nan lu	连江南路	44
+lian tong qu yu biao ji	连通区域标记	43
+lian bang zhi ke lu	联邦止咳露	42
+lian jie bu	连接埠	42
+lian ban	莲坂	41
+lian jian cun	联建村	41
+lian peng dou fu	莲蓬豆腐	41
+lian shi bu tian	炼石补天	41
+lian xu pei yang	连续培养	41
+lian zhuang	联庄	39
+lian hua xin cun	莲花新村	38
+lian shan	莲山	38
+lian zhong you xi	联众游戏	38
+lian ti er	联体儿	37
+lian hua lu di tie zhan	莲花路地铁站	36
+lian ji xi tong	联机系统	36
+lian zhan jie jie	连战皆捷	35
+lian hua chi chang tu qi che zhan	莲花池长途汽车站	34
+lian qun	联群	32
+lian xu kong zhi	连续控制	31
+lian ben	联苯	29
+lian ji ce shi	联机测试	29
+lian hong er re	脸红耳热	28
+lian xiang ji tuan	联想集团	28
+lian sheng jie	连升街	27
+lian xiang wang luo	联想网络	27
+lian gang	连港	26
+lian qiao	联桥	26
+lian qun cun	联群村	26
+lian xin	莲芯	26
+lian zi ying	莲子营	26
+lian dun	连墩	25
+lian huan hu	连环湖	25
+lian ming lu	联明路	25
+lian qing	联庆	25
+lian sheng cun	联胜村	25
+lian bang shu ju ku	联邦数据库	24
+lian hu zhen	连湖镇	24
+lian wan	连湾	24
+lian xing cun	联兴村	24
+lian an cun	联安村	23
+lian dong	莲东	23
+lian zhong	莲中	23
+lian zi zhu xin tang	莲子猪心汤	23
+lian hua bei lu	莲花北路	21
+lian ri lian ye	连日连夜	21
+lian shui ji gao	涟水鸡糕	21
+lian gan zhou cheng gai	连杆轴承盖	20
+lian jie dan yuan jie kou	连接单元接口	20
+lian luo xin	联络新	20
+lian hua juan	莲花卷	19
+lian jie tu ceng	链接图层	19
+lian xi lu	莲溪路	19
+lian xu	莲须	19
+lian zhe bu shou jie lai zhi shi	廉者不受嗟来之食	19
+lian bang cheng yuan fa	联邦成员法	18
+lian ji cha xun	联机查询	18
+lian ri lv dao	恋日绿岛	18
+lian jiang xian	廉江县	17
+lian peng yu	莲蓬鱼	17
+lian jiang zhong lu	连江中路	16
+lian jie mei	连接酶	16
+lian hua yuan	莲花苑	15
+lian jie ji	连接机	15
+lian jie yuan yu	连接原语	15
+lian shi lian jie	链式连接	15
+lian pan	连潘	14
+lian wei hui	连尾鮰	14
+lian du	连杜	13
+lian min miao zu yao zu xiang	联民苗族瑶族乡	13
+lian ri jia yuan	恋日家园	13
+lian feng xin cun	联丰新村	12
+lian gang gong ye qu	联港工业区	12
+lian hua jing	莲花井	12
+lian hua pen	莲花盆	12
+lian ji fen xi wa jue	联机分析挖掘	12
+lian shi zuo ye	链式作业	12
+lian tang cun	连塘村	12
+lian bang shui wu ran kong zhi fa	联邦水污染控制法	11
+lian chi cun	莲池村	11
+lian guan gong suo jie	帘官公所街	11
+lian jie bian ji cheng xu	连接编辑程序	11
+lian mei	莲美	11
+lian rong zhi ma qiu	莲蓉芝麻球	11
+lian suo bu ping heng	连锁不平衡	11
+lian tang da dao	莲塘大道	11
+lian tian lang jing zhang jing xi	连天浪静长鲸息	11
+lian hua san cun	莲花三村	10
+lian jie dan bai	连接蛋白	10
+lian tang	连塘	10
+lian tang zong zhan	莲塘总站	10
+lian zi ji ding	莲子鸡丁	10
+lian zong	连宗	10
+lian dong xia yu zhou	莲动下渔舟	9
+lian feng guan hai	莲峰观海	9
+lian kuo ru	连阔如	9
+lian rong su bing	莲蓉酥饼	9
+lian suo fen xi	连锁分析	9
+lian yue lu	莲岳路	9
+lian ban	连坂	8
+lian gan jiao zheng qi	连杆校正器	8
+lian he lu kou	联合路口	8
+lian hua di	莲花地	8
+lian hua tai cun	莲花台村	8
+lian min lu	联民路	8
+lian quan xue	廉泉穴	8
+lian xi	莲西	8
+lian xiang qiao nan	联想桥南	8
+lian you	联油	8
+lian yu qiao dong	莲玉桥东	8
+lian zhuang xi bao pin xue	镰状细胞贫血	8
+lian cheng fan shu gan	连城番薯干	7
+lian shan	联山	7
+lian shan cun	联山村	7
+lian suo yi chuan	连锁遗传	7
+lian yuan lu	莲园路	7
+lian zu fang	廉租房	7
+lian ben shuang zhi	联苯双酯	6
+lian hua yi qu	莲花一区	6
+lian hua zhai	莲花寨	6
+lian jiang yi zhong	连江一中	6
+lian qiao bai du wan	连翘败毒丸	6
+lian rong gan lu su	莲蓉甘露酥	6
+lian wu zheng	恋物症	6
+lian yuan zhen	浰源镇	6
+lian ben bian zuo ru gao	联苯苄唑乳膏	5
+lian chuang	臁疮	5
+lian dai zhai wu ze ren	连带债务责任	5
+lian fa xiang	联发乡	5
+lian feng xiang	连丰乡	5
+lian ji mei	链激酶	5
+lian jun ru di xiong	怜君如弟兄	5
+lian li shuang wei yu	连理双味鱼	5
+lian tai lu	联泰路	5
+lian tang	联塘	5
+lian tang wan	莲塘湾	5
+lian wai yu chan chan	帘外雨潺潺	5
+lian xin cun	连心村	5
+lian xu bian liang	连续变量	5
+lian zi shan zhou	莲子膳粥	5
+lian zi yin er li	莲子银耳梨	5
+lian chun	联春	4
+lian dong ji zhi	联动机制	4
+lian er wan xiang	连儿湾乡	4
+lian hong	莲红	4
+lian hu	联湖	4
+lian hua dan gao	莲花蛋糕	4
+lian qian da dao	莲前大道	4
+lian rong xiao ji	莲蓉小鸡	4
+lian suo xiang	连锁相	4
+lian xiang tuo gu ji	莲香脱骨鸡	4
+lian xu qie pian	连续切片	4
+lian zi ku hu tong	帘子库胡同	4
+lian bao lu kou dong	莲宝路口东	3
+lian fa da sha	联发大厦	3
+lian feng cun	莲峰村	3
+lian fu mei sha zi	莲佛美沙子	3
+lian he cang ku	联合仓库	3
+lian hua he xian	联华合纤	3
+lian hua lu yi shan lu	莲花路宜山路	3
+lian mu wu chong shu	帘幕无重数	3
+lian peng dou fu	莲篷豆腐	3
+lian qiao ti qu wu	连翘提取物	3
+lian shan shi cun	连山石村	3
+lian suo tu	连锁图	3
+lian wu xiang	连五乡	3
+lian yi cun	联谊村	3
+lian yu	莲屿	3
+lian zhong hua yu zao	鲢中华鱼蚤	3
+lian bang po chan fa	联邦破产法	2
+lian bao lu kou nan	莲宝路口南	2
+lian ben bian zuo	联苯苄唑	2
+lian ben yi suan	联苯乙酸	2
+lian bin jie dao	涟滨街道	2
+lian chun cun	联春村	2
+lian dao jun bing	镰刀菌病	2
+lian dun cun	莲墩村	2
+lian e bu dian deng	怜蛾不点灯	2
+lian fang hu tong	莲房胡同	2
+lian fang qiao nan	莲芳桥南	2
+lian feng hu tong	连丰胡同	2
+lian feng xiao qu	连凤小区	2
+lian fu xin cun	连福新村	2
+lian hua chao shi	联华超市	2
+lian hua lu wu zhong lu	莲花路吴中路	2
+lian huan dan bai	连环蛋白	2
+lian huang jia yang bian ding	联磺甲氧苄啶	2
+lian jia xiong	连枷胸	2
+lian pan xin cun	连潘新村	2
+lian pian wan ma lai wu shu	联翩万马来无数	2
+lian rong ceng ceng su	莲茸层层酥	2
+lian shan lin chang	连山林场	2
+lian shui zhen	濂水镇	2
+lian suo qun	连锁群	2
+lian tang wan	连塘湾	2
+lian tong pai dong gua tiao	莲童牌冬瓜条	2
+lian tuo yun shi chang	联托运市场	2
+lian wai ba jiao san liang ke	帘外芭蕉三两窠	2
+lian xiang qiao bei	联想桥北	2
+lian xin jian	莲心碱	2
+lian xu shi tou fang ce lve	连续式投放策略	2
+lian yan cun	联岩村	2
+lian yang cun	联漾村	2
+lian yu she qu	莲屿社区	2
+lian zhi huan chong	鲢指环虫	2
+lian zhong cun	联中村	2
+lian zi yi cheng he ye lao	莲子已成荷叶老	2
+lian zi ying yang fen	莲子营养粉	2
+lian bao lu kou bei	莲宝路口北	1
+lian bu xiang	联补乡	1
+lian chi jiu shi wu bo shui	莲池旧是无波水	1
+lian dong cun	莲东村	1
+lian fang jing ji yuan qu	联芳经济园区	1
+lian fang qiao dong	莲芳桥东	1
+lian he xian wei	连合纤维	1
+lian hua cun	连花村	1
+lian hua gang jia yuan	莲花港家园	1
+lian hua hu tong	莲花胡同	1
+lian hua shi xin liang fei feng	莲花始信两飞峰	1
+lian hua yuan she qu	莲花苑社区	1
+lian hua zhuang	莲花庄	1
+lian huan er ding	联环尔定	1
+lian jiang cun	濂江村	1
+lian jie cun	联结村	1
+lian jin chun shan xiu bu yu	敛尽春山羞不语	1
+lian jun he shi dao tian ya	怜君何事到天涯	1
+lian jun xuan e yan	廉君宣恶言	1
+lian keng	莲坑	1
+lian keng cun	莲坑村	1
+lian li cun	连里村	1
+lian lian yao kong bi	潋潋摇空碧	1
+lian lu zhen	莲麓镇	1
+lian mei cun	莲美村	1
+lian mu dong feng han liao qiao	帘幕东风寒料峭	1
+lian mu shen shen chu	帘幕深深处	1
+lian nan lu	莲南路	1
+lian pian ji ju rang	连翩击鞠壤	1
+lian po ju liang jiu zhi	廉颇居梁久之	1
+lian po song zhi jing	廉颇送至境	1
+lian po sui ben wei zhi da liang	廉颇遂奔魏之大梁	1
+lian qiao bai du pian	连翘败毒片	1
+lian qiu jun xing fei yan	链球菌性肺炎	1
+lian shan cun	莲山村	1
+lian shan wan zhao hong	连山晚照红	1
+lian shang jin xia xi	脸上金霞细	1
+lian suo ji yin	连锁基因	1
+lian tai cun	莲台村	1
+lian wai luo hua shuang lei duo	帘外落花双泪堕	1
+lian wan cun	连湾村	1
+lian wu yong zhi rou ye	连无用之肉也	1
+lian xia gong ren chu	帘下宫人出	1
+lian xin hu	连心湖	1
+lian xin yong yi	联信永益	1
+lian xing da sha	联兴大厦	1
+lian yan ni tang shui	潋滟倪塘水	1
+lian yue tan bian zuo shi leng	恋月潭边坐石棱	1
+lian zhi xiao yan jiao nang	莲芝消炎胶囊	1
+lian zhi yi ji zhi	连之以羁絷	1
+lian zhu hou zhe ci zhi	连诸侯者次之	1
+lian zi bai he nuo mi zhou	莲子百合糯米粥	1
+lian zi xue nuo fan	莲子血糯饭	1
+lian ban xiao mao piao chong	连斑小毛瓢虫	0
+lian hua chi zhang bing jian feng	莲花池长柄茧蜂	0
+lian jie luo	鏈結螺	0
+lian mei jian fen die	联眉尖粉蝶	0
+lian nong die ya ke	链弄蝶亚科	0
+lian ou fu shou luo	莲藕福寿螺	0
+lian ou gen jin hua chong	莲藕根金花虫	0
+lian ou qian ye yao wen	莲藕潜叶摇蚊	0
+lian ou shi gen jin hua chong	莲藕食根金花虫	0
+lian ou wo luo	莲藕涡螺	0
+lian qi da ju gui	镰鳍大鮈鱥	0
+lian tan xi shuai	连滩蟋蟀	0
+lian wei lu zhong	镰尾露螽	0
+lian wei zhao ke	连尾鮡科	0
+lian wei zhao mao nian	连尾鮡毛鲶	0
+lian xing gui jia meng shui zao	镰形龟甲猛水蚤	0
+lian xing zhen jing qi yu	镰形真精器鱼	0
+lian xu shi you zha liu shui xian	连续式油炸流水线	0
+lian yong duo tai mao tou	鲢鳙多态锚头	0
+lian zhu bo wen e	连珠波纹蛾	0
+lian zhu hu jia	连珠虎甲	0
+lian zhun she chun yu	鎌准舌唇鱼	0

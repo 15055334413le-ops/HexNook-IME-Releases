@@ -1,0 +1,100 @@
+bin guan	宾馆	66069
+bin yi guan	殡仪馆	16914
+bin jiang	滨江	13039
+bin hai xin qu	滨海新区	5900
+bin hu	滨湖	4021
+bin wei ye sheng dong wu	濒危野生动物	2726
+bin jiang lu	滨江路	2576
+bin he lu	滨河路	2371
+bin xi fa ni ya zhou	宾夕法尼亚州	2364
+bin zhou shi	滨州市	2083
+bin bin you li	彬彬有礼	1770
+bin zhi ru gui	宾至如归	1247
+bin jiang da dao	滨江大道	1169
+bin li ou lu	宾利欧陆	1033
+bin jiang gong yuan	滨江公园	1008
+bin he da dao	滨河大道	883
+bin he gong yuan	滨河公园	589
+bin si	濒死	515
+bin yang	宾阳	449
+bin gu	髌骨	432
+bin cheng	滨城	290
+bin gu gu zhe	髌骨骨折	238
+bin jiang hua yuan	滨江花园	225
+bin hu lu	滨湖路	218
+bin ke ying men	宾客盈门	207
+bin hai qu	滨海区	200
+bin jiang dong	滨江东	199
+bin chuan	宾川	167
+bin he xiao qu	滨河小区	133
+bin peng man zuo	宾朋满座	132
+bin wen lu	滨文路	128
+bin hu gong yuan	滨湖公园	127
+bin jiang dao	滨江道	124
+bin han mu	宾汉姆	79
+bin he hua yuan	滨河花园	62
+bin qi bu	滨崎步	60
+bin ke ru yun	宾客如云	41
+bin nan	滨南	36
+bin wen zhong xin zhan	滨文中心站	34
+bin wei shi jie yi chan ming lu	濒危世界遗产名录	33
+bin zhou xian	滨洲线	28
+bin dong	滨东	23
+bin he ban shi chu	滨河办事处	22
+bin jiang xin cun	滨江新村	22
+bin zhou di qu	滨州地区	21
+bin he yuan	滨河园	19
+bin kang xiao qu	滨康小区	18
+bin xian	滨县	18
+bin shui xi dao	宾水西道	16
+bin kang lu xi	滨康路西	13
+bin shui dao	宾水道	12
+bin wen gao jiao gong yu	滨文高教公寓	12
+bin wen gao jiao yuan	滨文高教园	11
+bin jiang ao cheng	滨江奥城	10
+bin yang lu	宾阳路	10
+bin he xi li bei qu	滨河西里北区	9
+bin he xi li	滨河西里	8
+bin kang lu huo ju da dao kou	滨康路火炬大道口	8
+bin hai lou	滨海楼	7
+bin he yuan	滨河苑	7
+bin ren dai	髌韧带	7
+bin wen yuan	滨文苑	7
+bin yue qiao	宾悦桥	7
+bin bei jie dao	滨北街道	6
+bin hai hu tong	滨海胡同	6
+bin he cun	滨河村	6
+bin fen lu	缤纷路	5
+bin guan xi lu	宾馆西路	5
+bin hai dao	滨海道	5
+bin jiang gong ye qu	滨江工业区	5
+bin yun yu du xiang sai xue	鬓云欲度香腮雪	5
+bin da xiang	宾达乡	4
+bin jiao yuan	滨角园	4
+bin sheng lu huo ju da dao kou	滨盛路火炬大道口	4
+bin jiang ming zhu cheng	滨江明珠城	3
+bin sheng lu xi	滨盛路西	3
+bin xi lu	滨溪路	3
+bin xing lu jiang hong lu kou	滨兴路江虹路口	3
+bin xing xiao qu	滨兴小区	3
+bin fa ge yi cang	鬓发各已苍	2
+bin guan lu	宾馆路	2
+bin guan nan dao	宾馆南道	2
+bin he lu jie dao	滨河路街道	2
+bin hu nan jie	滨湖南街	2
+bin kang lu ju gong lu kou	滨康路聚工路口	2
+bin zhou guo zi bing	滨州锅子饼	2
+bin cong za ta shi yao jin	宾从杂沓实要津	1
+bin hai jia yuan	滨海家园	1
+bin he gao ceng	滨河高层	1
+bin he nan kou	滨河南口	1
+bin he nan qu	滨河南区	1
+bin he xi li bei qu she qu	滨河西里北区社区	1
+bin jiang xin yuan	滨江新苑	1
+bin ke chang man tang	宾客常满堂	1
+bin si ji lv cha yan li	鬓丝几缕茶烟里	1
+bin you dao	宾友道	1
+bin fen yu luo	繽紛芋螺	0
+bin hai shi qi ji dong	滨海似奇棘鮗	0
+bin xi fa ni ya zhou chou you	宾夕法尼亚州臭鼬	0
+bin yu bian dai xi chong	滨鹬鞭带吸虫	0

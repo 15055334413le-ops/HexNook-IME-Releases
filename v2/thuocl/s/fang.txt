@@ -1,0 +1,578 @@
+fang di chan	房地产	5638548
+fang an	方案	500356
+fang mao	仿冒	182448
+fang bian mian	方便面	147895
+fang di chan kai fa qi ye	房地产开发企业	86737
+fang zhi	防治	77390
+fang wu chai qian	房屋拆迁	59294
+fang fu ji	防腐剂	58724
+fang di chan shi chang	房地产市场	43450
+fang di chan kai fa gong si	房地产开发公司	40565
+fang fa diao yong	方法调用	39921
+fang fa ming	方法名	37057
+fang wen quan xian	访问权限	28643
+fang wu quan shu	房屋权属	20097
+fang di chan fa	房地产法	17443
+fang di chan ye	房地产业	15425
+fang yi	防疫	14971
+fang di chan di ya	房地产抵押	13479
+fang fa can shu	方法参数	12894
+fang bao mo	防爆膜	12890
+fang wen kong zhi	访问控制	12529
+fang wen liang	访问量	11597
+fang dai	房贷	10830
+fang shan	房山	10544
+fang dai	放贷	9925
+fang di chan gong si	房地产公司	9790
+fang feng	防风	9777
+fang cha	方差	9770
+fang she xing wu zhi	放射性物质	9431
+fang wen wang luo	访问网络	8795
+fang kuan	房款	8218
+fang fa qu	方法区	7630
+fang wen zhe	访问者	7315
+fang fa lei	方法类	6729
+fang huan yu wei ran	防患于未然	6626
+fang tang	方糖	6485
+fang xiang jian	方向键	6323
+fang she	放射	6149
+fang di chan zhuan rang	房地产转让	6120
+fang xuan mu	防眩目	5662
+fang xing wei ai	方兴未艾	5471
+fang di chan deng ji	房地产登记	5465
+fang bu sheng fang	防不胜防	5312
+fang liang	放量	4959
+fang wen xiu shi fu	访问修饰符	4628
+fang wen gong xiang	访问共享	4599
+fang tao mu	仿桃木	4470
+fang fa zhong zai	方法重载	4467
+fang di chan zhong jie ji gou	房地产中介机构	4334
+fang da suo xiao	放大缩小	4310
+fang di chan quan shu	房地产权属	4306
+fang chan ju	房产局	3391
+fang fa zhong xie	方法重写	3256
+fang hu lin	防护林	3167
+fang wei du jian	防微杜渐	3119
+fang cheng zu	方程组	3070
+fang cun	芳村	2891
+fang wen zhe mo shi	访问者模式	2869
+fang huo zui	放火罪	2861
+fang she xian	放射线	2673
+fang wen quan	访问权	2601
+fang shan	仿膳	2585
+fang wu chan quan deng ji	房屋产权登记	2411
+fang zhen qi	仿真器	2319
+fang wen xian zhi	访问限制	2185
+fang yan shi jie	放眼世界	2055
+fang wen ji bie	访问级别	1939
+fang ren zi liu	放任自流	1901
+fang she bian huan	仿射变换	1859
+fang zhou zi	方舟子	1846
+fang gao li dai	放高利贷	1776
+fang fang	方方	1757
+fang han shu	仿函数	1739
+fang di chan quan li ren	房地产权利人	1724
+fang she ke	放射科	1678
+fang xuan mu hou shi jing	防眩目后视镜	1678
+fang zhi chang	纺织厂	1599
+fang wen lei xing	访问类型	1580
+fang cheng gang shi	防城港市	1578
+fang di chan jiao yi zhong xin	房地产交易中心	1558
+fang wu deng ji ban fa	房屋登记办法	1546
+fang huo qiang pei zhi	防火墙配置	1535
+fang she xing he su	放射性核素	1489
+fang wen kong zhi lie biao	访问控制列表	1433
+fang yi zhan	防疫站	1401
+fang hu yong pin	防护用品	1361
+fang wen chong tu	访问冲突	1359
+fang wen biao	访问表	1349
+fang zhuang	方庄	1269
+fang di chan quan deng ji	房地产权登记	1116
+fang xing	方兴	1093
+fang huan wei ran	防患未然	998
+fang xia bao fu	放下包袱	997
+fang pin wen ku	访贫问苦	963
+fang she zhi liao	放射治疗	957
+fang xiang xiang liang	方向向量	936
+fang wei xin	仿微信	904
+fang wen xu ke	访问许可	895
+fang shan fan zhuang	仿膳饭庄	881
+fang xie	放血	851
+fang zhi si hai er jie zhun	放之四海而皆准	813
+fang wu chan quan dan wei	房屋产权单位	781
+fang wei biao zhi	防伪标志	702
+fang zhang chun	芳樟醇	690
+fang wei zhuan yong pin	防伪专用品	679
+fang bian mi fen	方便米粉	659
+fang ji	方剂	641
+fang she xing tong wei su	放射性同位素	630
+fang cheng	方城	618
+fang xiang chuan gan qi	方向传感器	605
+fang di chan quan shu dang an	房地产权属档案	591
+fang wen shou quan	访问授权	528
+fang yuan fa zhi	方圆法治	526
+fang cun ke yun zhan	芳村客运站	525
+fang bing du	防病毒	519
+fang hu kou zhao	防护口罩	518
+fang chan	房颤	517
+fang di chan zhuan rang he tong	房地产转让合同	516
+fang zhi min	方志敏	515
+fang wen ling pai	访问令牌	512
+fang gao	方糕	489
+fang di chan zhi du	房地产制度	487
+fang cao di	芳草地	478
+fang xin	方新	474
+fang she xing huo du	放射性活度	464
+fang cha fen xi	方差分析	442
+fang chang xian diao da yu	放长线钓大鱼	433
+fang zhen cheng xu	仿真程序	427
+fang di chan shui shou zhi du	房地产税收制度	412
+fang di chan dian dang	房地产典当	410
+fang zhi nve dai dong wu xie hui	防止虐待动物协会	404
+fang fa nei bu lei	方法内部类	394
+fang di chan di ya quan	房地产抵押权	391
+fang wu chai qian zi ge zheng shu	房屋拆迁资格证书	388
+fang gang	方刚	372
+fang dang bu ji	放荡不羁	369
+fang jian ge que sun	房间隔缺损	356
+fang wen shan	方文山	352
+fang yu ji zhi	防御机制	351
+fang hua di ban	防滑地板	336
+fang cheng	防城	332
+fang shan qu zheng fu	房山区政府	323
+fang mao xing wei	仿冒行为	322
+fang di chan chu shi deng ji	房地产初始登记	307
+fang chan bian geng deng ji	房产变更登记	304
+fang di chan xiao shou ce hua	房地产销售策划	293
+fang zhu ru	防注入	277
+fang hu gui shan	放虎归山	276
+fang she xing wu ran fang zhi fa	放射性污染防治法	270
+fang bian zhou	方便粥	256
+fang wu chai qian cai jue	房屋拆迁裁决	255
+fang cun zhi di	方寸之地	232
+fang dou fu	方豆腐	221
+fang bao	方苞	213
+fang yu shi bian cheng	防御式编程	203
+fang di chan jiao yi shi chang	房地产交易市场	202
+fang wen ju zhen	访问矩阵	202
+fang feng lin	防风林	200
+fang li shen	方力申	199
+fang jia ying	方家营	194
+fang hu shou tao	防护手套	192
+fang wu zheng shou yu chai qian	房屋征收与拆迁	192
+fang she yi xue	放射医学	190
+fang yu xing wei	防御行为	188
+fang zhi pin yu fu zhuang xie yi	纺织品与服装协议	186
+fang wu ta xiang quan li deng ji	房屋他项权利登记	185
+fang bao zhi dong xi tong	防抱制动系统	183
+fang fa zong he	方法综合	180
+fang cheng gang shi gang kou qu	防城港市港口区	176
+fang lei jian zai guan li ban fa	防雷减灾管理办法	174
+fang wen zhou qi	访问周期	172
+fang bian zhi men	方便之门	171
+fang yuan	方元	168
+fang hong qu	防洪渠	165
+fang cao jie	芳草街	161
+fang she bing	放射病	160
+fang song xun lian	放松训练	159
+fang cao lu	芳草路	155
+fang cheng gang shi fang cheng qu	防城港市防城区	155
+fang cao yuan	芳草园	154
+fang lang xing hai	放浪形骸	147
+fang bin	方斌	145
+fang zu ming	房祖名	143
+fang zhi lu	纺织路	141
+fang xia tu dao	放下屠刀	138
+fang zhong xin	方中信	138
+fang she zhen liao guan li gui ding	放射诊疗管理规定	136
+fang she xing yao pin	放射性药品	135
+fang hai min shi su song xing wei	妨害民事诉讼行为	134
+fang zhi xue yuan	纺织学院	134
+fang dan	方丹	125
+fang xiang zhi wu	芳香植物	122
+fang shi	方市	120
+fang jia hu tong	方家胡同	118
+fang hu	方壶	117
+fang zhi fu zhuang xue yuan	纺织服装学院	117
+fang fa ku	方法库	115
+fang wei lv yuan	防微虑远	114
+fang wen ju bu xing	访问局部性	114
+fang hu bao mo	防护薄膜	105
+fang sha chang	纺纱厂	104
+fang wen te quan	访问特权	103
+fang xin lang wei bo	仿新浪微博	103
+fang cun	方村	100
+fang da te gang	方大特钢	100
+fang fan sheng yu jiu zai	防范胜于救灾	94
+fang jia cun	方家村	94
+fang shi	房室	93
+fang chan jiao yi shi chang	房产交易市场	91
+fang da ji tuan	方大集团	90
+fang wu chai qian dang shi ren	房屋拆迁当事人	90
+fang wu chai qian an zhi xie yi	房屋拆迁安置协议	87
+fang xie liao fa	放血疗法	83
+fang zhen jian zai fa lv fa gui	防震减灾法律法规	83
+fang di chan que quan	房地产确权	80
+fang fa duo tai	方法多态	78
+fang huo shao shan	放火烧山	78
+fang kong deng	防空灯	78
+fang yuan	方源	78
+fang shi chuan dao zu zhi	房室传导阻滞	77
+fang hua yuan	芳华苑	75
+fang qian	坊前	75
+fang yuan da sha	方圆大厦	75
+fang zhi ji di	纺织基地	75
+fang song ti	仿宋体	73
+fang zhi yi wu	防止义务	72
+fang xuan ling	房玄龄	71
+fang shang	坊上	70
+fang zhi tan wu fa	防止贪污法	70
+fang cun da dao xi	芳村大道西	69
+fang xin cun	方新村	65
+fang liao	枋寮	62
+fang min zhi kou	防民之口	62
+fang hua xue yuan	防化学院	61
+fang wu pao mo	房屋泡沫	60
+fang she tong	放射痛	57
+fang di chan chan quan zheng shu	房地产产权证书	56
+fang jia	房家	56
+fang di chan qian yan	房地产前沿	52
+fang zhen zhong duan	仿真终端	52
+fang xiang xing guang yuan	方向性光源	51
+fang cheng yuan	芳城园	50
+fang xing yuan	芳星园	50
+fang long	房龙	49
+fang wu chai qian an jian	房屋拆迁案件	48
+fang xin	方鑫	48
+fang zong bu ji	放纵不羁	48
+fang bei lu	纺北路	47
+fang hui	方回	47
+fang min zhi kou shen yu fang chuan	防民之口甚于防川	47
+fang zhui wei xi tong	防追尾系统	47
+fang hu ti xi	防护体系	46
+fang qi	方奇	46
+fang bao zhan	防保站	45
+fang dao kong zhi dan yuan	防盗控制单元	45
+fang la yu	方腊鱼	45
+fang hao	方豪	44
+fang qi xu lie	放弃序列	43
+fang ji xue	方剂学	42
+fang cun da dao zhong	芳村大道中	40
+fang ma hou pao	放马后炮	40
+fang bei cun	方碑村	39
+fang cun da dao nan	芳村大道南	39
+fang hu	枋湖	39
+fang qie ting	防窃听	39
+fang wu bu fen chan quan	房屋部分产权	39
+fang xia	方夏	39
+fang xiang hua zhuo	芳香化浊	39
+fang hua lu	芳华路	38
+fang jian lu	纺建路	37
+fang mei	方梅	37
+fang cun	房村	36
+fang di chan ping gu	房地产评估	36
+fang zhi yao pin shen pi ban fa	仿制药品审批办法	36
+fang cao qi qi ying wu zhou	芳草萋萋鹦鹉洲	35
+fang xin lu	芳信路	35
+fang cao dong jie	芳草东街	34
+fang gu yuan	芳古园	34
+fang xian jun	放线菌	34
+fang bing du cheng xu	防病毒程序	33
+fang lang bu ji	放浪不羁	33
+fang quan	方泉	33
+fang zhen	方珍	33
+fang zhi cheng huo che zhan	纺织城火车站	33
+fang cao xi er jie	芳草西二街	32
+fang ji chang	纺机厂	32
+fang shan xian	房山县	32
+fang wu gong you chan quan	房屋共有产权	32
+fang qi cheng bao quan	放弃承包权	30
+fang run hua	方润华	30
+fang yuan	芳园	30
+fang he lu	放鹤路	29
+fang she xing sun shang	放射性损伤	29
+fang cheng gang shi gang kou	防城港市港口	27
+fang bo qian	方伯谦	26
+fang cheng	坊城	25
+fang jia zhuang cun	方家庄村	25
+fang nao ke	方脑壳	25
+fang song liao fa	放松疗法	25
+fang yao zhong	方药中	25
+fang fei lu	芳菲路	23
+fang zhuang dong lu	方庄东路	23
+fang an ding zhi	方案定制	22
+fang fu ruo you guang	仿佛若有光	22
+fang jia zui	方家嘴	22
+fang xia tu dao li di cheng fo	放下屠刀立地成佛	22
+fang zhi cheng jie dao	纺织城街道	22
+fang xi	房西	21
+fang yi zhi	方以智	21
+fang zhe	方哲	21
+fang zhi xue xiao	纺织学校	21
+fang huo qiang ge yin	防火墙隔音	20
+fang lin xin ye cui chen ye	芳林新叶催陈叶	20
+fang shi cun	方石村	20
+fang tuo che xi tong	防拖车系统	20
+fang wu lu	纺五路	20
+fang yu	方玉	20
+fang miao jie dao	方庙街道	19
+fang qi chong fu qin hai xing wei	放弃重复侵害行为	19
+fang yi	方易	19
+fang zhuang cun	方庄村	19
+fang cao jie jie dao	芳草街街道	18
+fang di chan quan chu shi deng ji	房地产权初始登记	18
+fang feng tong sheng wan	防风通圣丸	18
+fang jie	方捷	18
+fang ling	房陵	18
+fang xian jue	方先觉	18
+fang jing	方靖	17
+fang she xing zhong liu	放射性肿瘤	17
+fang xing xiang su	方形像素	17
+fang yang	方扬	17
+fang liang cun	房良村	16
+fang zhao xiang	方召乡	16
+fang chui ti	纺锤体	15
+fang cun sui dao kou	芳村隧道口	15
+fang tian	房田	15
+fang bian	方边	14
+fang di chan fa lv xing wei	房地产法律行为	14
+fang ke lu	纺科路	14
+fang man ting	芳满庭	14
+fang she xing fei yan	放射性肺炎	14
+fang wu chan quan ji cheng	房屋产权继承	14
+fang xian chu ying xiong ben se	方显出英雄本色	14
+fang xiao	纺校	14
+fang xing xin dong guo su	房性心动过速	14
+fang zhuang qiao dong	方庄桥东	14
+fang chao	方朝	13
+fang jia tang	方家塘	13
+fang shan zhong yi yuan	房山中医院	13
+fang shui qiang	防水墙	13
+fang xiang pan gai	方向盘盖	13
+fang zhuang qiao nan	方庄桥南	13
+fang cheng gang shi fang cheng	防城港市防城	12
+fang di chan chai qian bu chang	房地产拆迁补偿	12
+fang di chan zhu xiao deng ji	房地产注销登记	12
+fang gan	方淦	12
+fang ji	方纪	12
+fang shan qi che zhan	房山汽车站	12
+fang shan yue ge zhuang	房山岳各庄	12
+fang zhuang huan dao xi	方庄环岛西	12
+fang gai fang	房改房	11
+fang gang cheng	方刚成	11
+fang huai	方槐	11
+fang jian ge que sun xiu bu shu	房间隔缺损修补术	11
+fang jun	方峻	11
+fang niu gou cun	放牛沟村	11
+fang yuan lv yin	方圆绿茵	11
+fang ci can	仿刺参	10
+fang qiang nong chang	方强农场	10
+fang shu hong	方叔洪	10
+fang yu li er xing	放于利而行	10
+fang zhai shi yu mu	方宅十余亩	10
+fang zhi lu jie dao	纺织路街道	10
+fang che jie	房车节	9
+fang feng	方凤	9
+fang pi	鰟鮍	9
+fang yuan li	芳园里	9
+fang zhuang nan kou	方庄南口	9
+fang shan yi yuan	房山医院	8
+fang she xing bai nei zhang	放射性白内障	8
+fang she xing jia zhuang xian ji bing	放射性甲状腺疾病	8
+fang si yu	房思瑜	8
+fang yue	方悦	8
+fang zhi cheng lu yuan jie	纺织城鹿塬街	8
+fang zhuan chang hu tong	方砖厂胡同	8
+fang guo dong	方国栋	7
+fang jian ge que sun feng du shu	房间隔缺损封堵术	7
+fang shan bo bo	仿膳饽饽	7
+fang she xing chang yan	放射性肠炎	7
+fang xin cun bei	方新村北	7
+fang zhi zhan	纺织站	7
+fang zhuang bei kou	方庄北口	7
+fang di chan fa qian yan	房地产法前沿	6
+fang jiu ban wei gui	访旧半为鬼	6
+fang she xing pi fu ji bing	放射性皮肤疾病	6
+fang shi jie	房室结	6
+fang shou	方寿	6
+fang zhi cheng zao yuan liu cun	纺织城枣园刘村	6
+fang zhu zhen	放珠镇	6
+fang zhuang qiao xi	方庄桥西	6
+fang cao yuan	芳草苑	5
+fang ding ying	方鼎英	5
+fang hai feng hua fan zui	妨害风化犯罪	5
+fang jia zhuang zhen	方家庄镇	5
+fang she xing pi yan	放射性皮炎	5
+fang wei feng	方伟峰	5
+fang xiao ru	方孝儒	5
+fang zhuang huan dao nan	方庄环岛南	5
+fang zhuang jia qiang ban	防撞加强板	5
+fang an jie dao	坊安街道	4
+fang cun he xing yuan	芳村合兴苑	4
+fang guan	方观	4
+fang guan cheng	方观承	4
+fang jia yuan hu tong	芳嘉园胡同	4
+fang jin rong	方金荣	4
+fang shan lu	方山路	4
+fang she zhen duan xue	放射诊断学	4
+fang shi shu	方士庶	4
+fang xing guang chang	方形广场	4
+fang zhuan chang	方砖厂	4
+fang zhuang huan dao bei	方庄环岛北	4
+fang chan bao wei zhan	房产保卫战	3
+fang cheng lu dong kou	芳城路东口	3
+fang cun hua yuan zong zhan	芳村花园总站	3
+fang cun xiang	方村乡	3
+fang dian yuan	方殿元	3
+fang dong shu	方东树	3
+fang fan ting	方饭亭	3
+fang fei xie qu he xu hen	芳菲歇去何须恨	3
+fang guang cun	放光村	3
+fang ji huang qi tang	防己黄芪汤	3
+fang ji shi chang	纺机市场	3
+fang jia ying xiang	方家营乡	3
+fang jiao	坊脚	3
+fang jiong	方炯	3
+fang lang xing hai zhi wai	放浪形骸之外	3
+fang ma ping xiang	放马坪乡	3
+fang shan bei guan	房山北关	3
+fang shan cheng jiao zhong xin	房山成教中心	3
+fang shan dong da qiao	房山东大桥	3
+fang shan huo che zhan	房山火车站	3
+fang shan jiao tong ju	房山交通局	3
+fang she zhuang jiao mo qie kai shu	放射状角膜切开术	3
+fang sheng yuan	方盛园	3
+fang sheng yuan	放生园	3
+fang shuai yi shou wan	防衰益寿丸	3
+fang xing guan	方形管	3
+fang xiong	方熊	3
+fang xun	放勋	3
+fang you zhi	方有执	3
+fang zai xia zhong he bu ming	放在匣中何不鸣	3
+fang zhao	方肇	3
+fang zheng fu bang	方正富邦	3
+fang zheng lin ye ju	方正林业局	3
+fang zhuang qiao bei	方庄桥北	3
+fang cheng dong li she qu	芳城东里社区	2
+fang cheng pei	方成培	2
+fang cheng xian	防城县	2
+fang dang qi zhao jian	放荡齐赵间	2
+fang er yu cun	方耳峪村	2
+fang feng tong sheng san	防风通圣散	2
+fang fu yong yuan fen li	仿佛永远分离	2
+fang jing jie	方井街	2
+fang jun	方钧	2
+fang lu zhai xiang	防虏寨乡	2
+fang ping xiang	方坪乡	2
+fang shan lin chang	芳山林场	2
+fang shan nan guan	房山南关	2
+fang tian feng	方天丰	2
+fang ting	芳亭	2
+fang wei zhi jue	方位知觉	2
+fang wu	方屋	2
+fang wu jiao ge xie yi shu	房屋交割协议书	2
+fang wu wei xiu guan li zhi du	房屋维修管理制度	2
+fang xin dian	房辛店	2
+fang xin rang	方心让	2
+fang xun	方薰	2
+fang yan cun	方岩村	2
+fang yi	芳仪	2
+fang yuan cheng shi lv zhou	方圆城市绿洲	2
+fang zhou shi cui mu wang gui	芳洲拾翠暮忘归	2
+fang zhuang xiang	房庄乡	2
+fang an	坊安	1
+fang can zhi yang ke li	防参止痒颗粒	1
+fang cao he nian hen ji xiu	芳草何年恨即休	1
+fang cao xi jie	芳草西街	1
+fang chou yu e chun	防愁预恶春	1
+fang dai tian shan dao shi bu yu	访戴天山道士不遇	1
+fang deng yi	方登峄	1
+fang du ban shi chu	方渡办事处	1
+fang fa lun de hong da kuang jia	方法论的宏大框架	1
+fang fei fei qi mi zhang	芳菲菲其弥章	1
+fang fei fei xi xi yu	芳菲菲兮袭予	1
+fang feng tong sheng	防风通圣	1
+fang fu ke	鲂鮄科	1
+fang ge po chou jue	放歌颇愁绝	1
+fang ge zhuang zhen	方各庄镇	1
+fang gong hui	方功惠	1
+fang gu shi ji ping tai jian	访古始及平台间	1
+fang gu yi zhan shang	访古一沾裳	1
+fang ji liu suan zhi mei	芳基硫酸酯酶	1
+fang jia guan zhuang	房家官庄	1
+fang jia zhen	方加镇	1
+fang jiao cun	坊脚村	1
+fang jun yi	方浚颐	1
+fang kui	方夔	1
+fang lin xiang ru yin bi ni zhu	方蔺相如引璧睨柱	1
+fang nao ban chang an	坊闹半长安	1
+fang qi hang yang you	方期沆瀁游	1
+fang qian cun	坊前村	1
+fang qing yong li sao	放情咏离骚	1
+fang quan	芳泉	1
+fang shan ma ge zhuang	房山马各庄	1
+fang shan qu wei dang xiao	房山区委党校	1
+fang shan tou	方山头	1
+fang shan yao cun	方山窑村	1
+fang shan yao shang	房山窑上	1
+fang shao	方勺	1
+fang she fu he shang	放射复合伤	1
+fang she xing gu huai si	放射性骨坏死	1
+fang she xing zhi chang yan	放射性直肠炎	1
+fang sheng teng hai yu	芳声腾海隅	1
+fang sheng yuan hu tong	方盛园胡同	1
+fang shui mu mu	方水母目	1
+fang sui an quan bo li	防碎安全玻璃	1
+fang ting cun	芳亭村	1
+fang tou cun	方头村	1
+fang wan yi	方婉仪	1
+fang wei weng	方尾鶲	1
+fang wu deng ji ban fa shi yi	房屋登记办法释义	1
+fang wu quan shu zong deng ji	房屋权属总登记	1
+fang wu you xian chan quan	房屋有限产权	1
+fang wu zheng shou jue ding	房屋征收决定	1
+fang xi cun	方溪村	1
+fang xia dian	方下店	1
+fang xiao biao	方孝标	1
+fang xing di chan	方兴地产	1
+fang xing yuan san qu she qu	芳星园三区社区	1
+fang yan ping	方延平	1
+fang yan wu shou bing xu	放言五首并序	1
+fang yi lun ming yue	放一轮明月	1
+fang ying ru sheng sui chu zai	芳影如生随处在	1
+fang yu run	方玉润	1
+fang yuan zhi zhi ye	方员之至也	1
+fang zhi bi yan pian	防芷鼻炎片	1
+fang zhuang nan lu nan kou	方庄南路南口	1
+fang ban gou mu yu	方斑狗母鱼	0
+fang ban mo ya ying	方斑墨蚜蝇	0
+fang cha ci e	仿姹刺蛾	0
+fang cha ci e	仿奼刺蛾	0
+fang chui ban mei chong	纺锤半眉虫	0
+fang chui bi luo	纺锤笔螺	0
+fang chui du fu yu	纺锤杜父鱼	0
+fang chui du gao xi chong	纺锤独睾吸虫	0
+fang chui ju gui	纺锤鮈鱥	0
+fang chui pan shou can	纺锤盘首蚕	0
+fang chui shi	纺锤鰤	0
+fang chui xing bei zhi xi chong	纺锤形杯殖吸虫	0
+fang chui you dun jie	纺锤釉盾蚧	0
+fang dai an xi cong	方带暗溪蟌	0
+fang di chi e	仿涤尺蛾	0
+fang du xing cao lv chong	放毒型草履虫	0
+fang ji ju xie sai shi	仿寄居蟹鳃虱	0
+fang jing ke	仿鲸科	0
+fang ju wei hong	仿巨尾魟	0
+fang ke huan jia die	仿珂环蛱蝶	0
+fang pao li zhang ao xie	仿泡粒长螯蟹	0
+fang she che lun luo	放射车轮螺	0
+fang she hua wo niu	放射华蜗牛	0
+fang she nian bao zi chong	放射黏孢子虫	0
+fang she ri gui luo	放射日规螺	0
+fang she xing hai luo	放射形海螺	0
+fang shen bei shui mu	方深杯水母	0
+fang wei weng	方尾鹟	0
+fang wen hong fang fu	方吻红鲂鮄	0
+fang wu bai deng e	仿污白灯蛾	0
+fang xian ke bei	放线壳贝	0
+fang zhui quan lie chong	纺锥全列虫	0

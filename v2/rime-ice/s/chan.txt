@@ -1,0 +1,1065 @@
+chan pin	产品	719918
+chan ye	产业	581292
+chan sheng	产生	501275
+chan liang	产量	475455
+chan di	产地	437890
+chan sheng le	产生了	376685
+chan quan	产权	372025
+chan pin zhi liang	产品质量	359430
+chan ye hua	产业化	263235
+chan zhi	产值	213000
+chan ye fa zhan	产业发展	185040
+chan pin xin xi	产品信息	184835
+chan wu	产物	178155
+chan shu	阐述	162975
+chan pin gui ge	产品规格	155210
+chan ye lian	产业链	150370
+chan pin jia ge	产品价格	144020
+chan pin bian hao	产品编号	134740
+chan neng	产能	128645
+chan pin jie shao	产品介绍	124545
+chan ye jie gou	产业结构	105650
+chan pin xiao shou	产品销售	104535
+chan dou	颤抖	97005
+chan hou	产后	92720
+chan chu	产出	91740
+chan pin kai fa	产品开发	91285
+chan pin zhan shi	产品展示	77530
+chan xiao	产销	75110
+chan pin she ji	产品设计	70130
+chan shu le	阐述了	68780
+chan ye zheng ce	产业政策	67715
+chan pin jie gou	产品结构	67635
+chan ming	阐明	64850
+chan mian	缠绵	64025
+chan fu	产妇	60290
+chan hui	忏悔	57760
+chan pin chu kou	产品出口	57700
+chan pin te dian	产品特点	57310
+chan pin xian	产品线	57250
+chan shi	阐释	54675
+chan shi	禅师	54415
+chan qu	产区	52730
+chan quan jiao yi	产权交易	52305
+chan rao	缠绕	51585
+chan pin fen lei	产品分类	50280
+chan xue yan	产学研	49915
+chan ye jie gou tiao zheng	产业结构调整	49080
+chan pin pin pai	产品品牌	46710
+chan pin shi chang	产品市场	46275
+chan pin ren zheng	产品认证	46060
+chan ye ji qun	产业集群	45610
+chan pin shu liang	产品数量	43785
+chan sheng ying xiang	产生影响	43145
+chan zong	禅宗	41795
+chan pin yan fa	产品研发	41410
+chan pin xing neng	产品性能	41125
+chan yu	产于	39335
+chan ye ji di	产业基地	38365
+chan pin bao zhuang	产品包装	36855
+chan quan zhi du	产权制度	35361
+chan pin fu wu	产品服务	33855
+chan chu	铲除	31405
+chan dong	颤动	31250
+chan quan zheng	产权证	30440
+chan ye sheng ji	产业升级	30095
+chan sheng zheng yi	产生争议	29160
+chan sheng yu	产生于	28950
+chan pin biao zhun	产品标准	28780
+chan ye zhuan yi	产业转移	28700
+chan zhe	缠着	28030
+chan cheng	禅城	27495
+chan qian	产前	26445
+chan pin cheng ben	产品成本	24725
+chan pin zhi liang jian du	产品质量监督	24210
+chan ye dai	产业带	24080
+chan quan deng ji	产权登记	24030
+chan neng guo sheng	产能过剩	23425
+chan chan	潺潺	23395
+chan za	掺杂	22595
+chan dou zhe	颤抖着	22205
+chan ye yuan qu	产业园区	21786
+chan ding	禅定	21430
+chan pin zhong lei	产品种类	21325
+chan shen	缠身	20925
+chan luan	产卵	20880
+chan sheng chu	产生出	20345
+chan pin shuo ming shu	产品说明书	20080
+chan lian	蝉联	19225
+chan pin ding wei	产品定位	19205
+chan pin zhi liang fa	产品质量法	18380
+chan jia	产假	18310
+chan pin tui guang	产品推广	18250
+chan zi	产自	18150
+chan liang da	产量达	18130
+chan xiao liang	产销量	17850
+chan ye lian tiao	产业链条	17820
+chan ru	掺入	17450
+chan zhu	缠住	16985
+chan si	禅寺	16800
+chan ye hua jing ying	产业化经营	16640
+chan fu	搀扶	16260
+chan ke	产科	16020
+chan pin jing li	产品经理	15695
+chan ye bu ju	产业布局	15570
+chan zhi da	产值达	15525
+chan quan zhi du gai ge	产权制度改革	15195
+chan ye gui mo	产业规模	14675
+chan pin chan liang	产品产量	14520
+chan pin pin zhong	产品品种	14135
+chan sheng	颤声	13895
+chan quan zhuan rang	产权转让	13670
+chan ye ji ju	产业集聚	13090
+chan ye jie	产业界	12755
+chan dan	产蛋	12330
+chan pin jian yan	产品检验	12175
+chan ye ji tuan	产业集团	12155
+chan ye ji chu	产业基础	11920
+chan fa	阐发	11870
+chan jia	掺假	11825
+chan xia	产下	11620
+chan ye you shi	产业优势	11435
+chan sheng huai yi	产生怀疑	11330
+chan ye lian meng	产业联盟	11075
+chan sheng xing qu	产生兴趣	10485
+chan ye jing ji	产业经济	10365
+chan chu	蟾蜍	10340
+chan ye qu	产业区	10025
+chan bang	缠绑	9999
+chan chong	馋虫	9999
+chan dui	掺兑	9999
+chan jian	产检	9999
+chan mo	缠磨	9999
+chan nai	产奶	9999
+chan po	产婆	9999
+chan ru gan ran	产褥感染	9999
+chan shuo	阐说	9999
+chan xu	产需	9999
+chan yang	阐扬	9999
+chan fang	产房	9670
+chan shang	缠上	9580
+chan ye gong ren	产业工人	9580
+chan ye ti xi	产业体系	9460
+chan quan guan xi	产权关系	9260
+chan pin sheng ming zhou qi	产品生命周期	9190
+chan ye ling yu	产业领域	9150
+chan ye xie hui	产业协会	8925
+chan liang da dao	产量达到	8865
+chan fu zhe	搀扶着	8810
+chan pin jia zhi	产品价值	8720
+chan rao zhe	缠绕着	8720
+chan ye kai fa	产业开发	8705
+chan pin sheng ji	产品升级	8500
+chan pin zhi liang wen ti	产品质量问题	8485
+chan quan zheng ming	产权证明	8195
+chan sheng gong ming	产生共鸣	8190
+chan mei	谄媚	8185
+chan liang zeng zhang	产量增长	8165
+chan huo	掺和	8145
+chan ye xiang mu	产业项目	8000
+chan pin jiang	产品奖	7915
+chan sheng shen me	产生什么	7875
+chan qi	产期	7865
+chan yin	颤音	7830
+chan zai	缠在	7800
+chan yuan	禅院	7730
+chan xiao lv	产销率	7715
+chan pin ce lve	产品策略	7640
+chan ruo	孱弱	7615
+chan zi	铲子	7570
+chan rao zai	缠绕在	7510
+chan sheng cuo wu	产生错误	7255
+chan sheng mao dun	产生矛盾	7220
+chan pin biao zhi	产品标志	7207
+chan juan	婵娟	7145
+chan ye tou zi ji jin	产业投资基金	7115
+chan quan jie ding	产权界定	7015
+chan mei	产煤	6945
+chan qian zhen duan	产前诊断	6935
+chan cha	产茶	6910
+chan quan gai ge	产权改革	6865
+chan chu bi	产出比	6815
+chan qian jian cha	产前检查	6660
+chan pin gai nian	产品概念	6545
+chan pin zhi liang biao zhun	产品质量标准	6412
+chan dao	产道	6315
+chan dou le	颤抖了	6300
+chan cheng	产程	6190
+chan sheng wen ti	产生问题	6140
+chan pin hua	产品化	6130
+chan re	产热	6040
+chan sheng jiu fen	产生纠纷	5925
+chan quan guo hu	产权过户	5920
+chan chu lv	产出率	5635
+chan quan xing zhi	产权性质	5620
+chan pin jiao yi	产品交易	5490
+chan sheng wu jie	产生误解	5485
+chan nai liang	产奶量	5460
+chan yan	谗言	5440
+chan ye zi ben	产业资本	5435
+chan ming	蝉鸣	5405
+chan pin yan zhi	产品研制	5353
+chan ye shi chang	产业市场	5310
+chan liang	产粮	5300
+chan pin yan jiu	产品研究	5190
+chan wei wei	颤巍巍	5155
+chan gong xiao	产供销	5120
+chan you guo	产油国	5015
+chan liang da	产量大	4970
+chan shui	掺水	4940
+chan ye gong hui	产业工会	4880
+chan sheng zhe	产生着	4855
+chan che	铲车	4785
+chan di zheng	产地证	4705
+chan ye huan jing	产业环境	4635
+chan chan	颤颤	4625
+chan qiu	铲球	4605
+chan mian fei ce	缠绵悱恻	4585
+chan pin tui jie	产品推介	4585
+chan sheng bian hua	产生变化	4585
+chan xue	禅学	4530
+chan yi	禅意	4485
+chan shi	铲屎	4444
+chan shi guan	铲屎官	4444
+chan shi guan men	铲屎官们	4444
+chan quan shi chang	产权市场	4440
+chan jing	产经	4435
+chan quan zhuan yi	产权转移	4370
+chan xiao xian jie	产销衔接	4227
+chan sheng kang ti	产生抗体	4205
+chan you	掺有	4140
+chan fang	禅房	4125
+chan ye ge ming	产业革命	4115
+chan zhang	禅杖	4095
+chan pin geng xin huan dai	产品更新换代	4080
+chan xiao liang wang	产销两旺	4045
+chan jing xin wen	产经新闻	4035
+chan pin ze ren	产品责任	3950
+chan sheng xiao guo	产生效果	3935
+chan ye tiao zheng	产业调整	3905
+chan lin	禅林	3850
+chan zu	缠足	3850
+chan tang	产糖	3765
+chan you	产油	3740
+chan sheng gan qing	产生感情	3725
+chan xin	禅心	3715
+chan quan jiu fen	产权纠纷	3640
+chan za shi jia	掺杂使假	3615
+chan de	缠的	3570
+chan dou de	颤抖地	3555
+chan tang	禅堂	3555
+chan zui	馋嘴	3525
+chan ru qi	产褥期	3490
+chan ye jing zheng	产业竞争	3465
+chan dan lv	产蛋率	3460
+chan pin he ge lv	产品合格率	3420
+chan pin lian	产品链	3390
+chan ping	铲平	3365
+chan pin shu	产品数	3345
+chan quan wen ti	产权问题	3340
+chan bao	缠抱	3333
+chan beng dai	缠绷带	3333
+chan bing	铲冰	3333
+chan dou de lian	颤抖的脸	3333
+chan man beng dai	缠满绷带	3333
+chan za zhe	掺杂着	3330
+chan pin fen xi	产品分析	3295
+chan pin shui	产品税	3223
+chan sheng re liang	产生热量	3210
+chan pin zhi ming du	产品知名度	3180
+chan sheng fan gan	产生反感	3175
+chan quan bian geng	产权变更	3132
+chan ye bo lan hui	产业博览会	3130
+chan er	产儿	3110
+chan dong zhe	颤动着	3045
+chan chan mian mian	缠缠绵绵	3025
+chan dou	缠斗	3005
+chan mian	产棉	2955
+chan pin que xian	产品缺陷	2939
+chan chan wei wei	颤颤巍巍	2850
+chan dao	铲倒	2790
+chan hui lu	忏悔录	2790
+chan men	禅门	2760
+chan le	掺了	2735
+chan rao ji	缠绕机	2735
+chan ji	禅机	2725
+chan yi	蝉翼	2675
+chan sheng	蝉声	2570
+chan pin chen lie	产品陈列	2565
+chan jin	掺进	2465
+chan sheng fen qi	产生分歧	2455
+chan jie	缠结	2410
+chan chan liu shui	潺潺流水	2405
+chan pin dai hao	产品代号	2330
+chan ren	馋人	2330
+chan sheng ya li	产生压力	2330
+chan gong	蟾宫	2290
+chan ye lun tan	产业论坛	2285
+chan pin zu	产品组	2270
+chan fu	蝉赋	2222
+chan si	馋死	2222
+chan dan liang	产蛋量	2200
+chan pin ji ya	产品积压	2185
+chan pin ji hua	产品计划	2135
+chan sheng zhou wen	产生皱纹	2125
+chan sheng wu hui	产生误会	2095
+chan kong shi	觇孔式	2085
+chan ru	产褥	2075
+chan sheng jing zi	产生精子	2070
+chan chuang	产床	2040
+chan mao	馋猫	2015
+chan ren	缠人	1990
+chan kong	觇孔	1980
+chan rao mo	缠绕膜	1960
+chan pin zhan xiao	产品展销	1925
+chan liang fen xi	产量分析	1895
+chan quan zheng shu	产权证书	1850
+chan zai yi qi	缠在一起	1845
+chan tou	缠头	1790
+chan tu	铲土	1785
+chan luan chang	产卵场	1765
+chan pin zhi liang jian du guan li	产品质量监督管理	1747
+chan shui liang	产水量	1680
+chan quan suo you ren	产权所有人	1670
+chan ye qian jing	产业前景	1665
+chan jiao	产胶	1605
+chan pin zhuan li	产品专利	1600
+chan gong	禅功	1585
+chan fu	缠缚	1565
+chan qi	铲起	1565
+chan di zheng ming	产地证明	1500
+chan er	蝉儿	1455
+chan seng	禅僧	1455
+chan pin zhi xiao	产品滞销	1450
+chan yu	禅语	1430
+chan wu	禅悟	1415
+chan yuan	潺湲	1400
+chan lian guan jun	蝉联冠军	1375
+chan diao	铲掉	1335
+chan ke yi sheng	产科医生	1280
+chan li	禅理	1280
+chan gong xiao yi ti hua	产供销一体化	1270
+chan man	缠满	1250
+chan zhi lv	产值率	1245
+chan quan deng ji mian ji	产权登记面积	1216
+chan dan ji	产蛋鸡	1205
+chan qi	搀起	1200
+chan fang hua mu shen	禅房花木深	1180
+chan liang xiao	产量小	1180
+chan que jun shan hao	刬却君山好	1180
+chan yu ye dun tao	单于夜遁逃	1180
+chan liang qu	产粮区	1170
+chan de	馋得	1165
+chan de	馋的	1165
+chan ye da jun	产业大军	1140
+chan bao	产宝	1115
+chan ran er xiao	冁然而笑	1111
+chan xiu	禅修	1111
+chan zhe	掺着	1111
+chan jia	禅家	1110
+chan xue	铲雪	1105
+chan rao guan	缠绕管	1085
+chan quan xing shi	产权形式	1080
+chan jing	禅境	1075
+chan luan qi	产卵期	1075
+chan pin ze ren xian	产品责任险	1070
+chan pin xiao guo tu	产品效果图	1065
+chan biao	觇标	1060
+chan quan jie	产权界	1055
+chan guo	缠裹	1040
+chan pin fen pei	产品分配	1030
+chan yu yin du	产于印度	1000
+chan gui	馋鬼	999
+chan quan deng ji zheng	产权登记证	992
+chan le	馋了	987
+chan hui zhe	忏悔者	980
+chan pin ze ren bao xian	产品责任保险	973
+chan wo	缠我	970
+chan sheng wu cha	产生误差	965
+chan pin she ji tu	产品设计图	958
+chan liang bu zu	产量不足	920
+chan xiao ping heng	产销平衡	885
+chan pin ban ben	产品版本	880
+chan quan fen ge	产权分割	846
+chan zai	产仔	846
+chan yu	谄谀	835
+chan zhu	搀住	835
+chan you you	颤悠悠	830
+chan wei	禅味	820
+chan ru re	产褥热	785
+chan pin wen dang	产品文档	772
+chan mian qu	产棉区	765
+chan pin yun ying	产品运营	760
+chan cheng pin	产成品	758
+chan xiao	谄笑	755
+chan jiao	蝉叫	743
+chan pin ze ren fa	产品责任法	739
+chan pin lu xian	产品路线	715
+chan ji	产季	689
+chan guo	产果	678
+chan cheng	缠成	665
+chan yu	单于	661
+chan ke xue	产科学	655
+chan hun	掺混	643
+chan mian zhe	缠绵着	635
+chan ye you xian	产业有限	600
+chan hao	缠好	590
+chan yuan zhi meng	澶渊之盟	575
+chan jin	缠紧	565
+chan jiao	缠脚	550
+chan chan you you	颤颤悠悠	535
+chan guang	蟾光	530
+chan jiao guo	产胶国	520
+chan sheng zhong	产生中	515
+chan mao liang	产毛量	510
+chan ke bing fang	产科病房	500
+chan gong zhe gui	蟾宫折桂	490
+chan ming guan dian	阐明观点	490
+chan pin ce shi	产品测试	457
+chan mei qu	产煤区	450
+chan mi	产米	435
+chan xian	馋涎	435
+chan si le	馋死了	432
+chan ye jie gou tiao zheng zheng ce	产业结构调整政策	422
+chan yuan	澶渊	420
+chan pin xia ci	产品瑕疵	412
+chan ye yuan guan wei hui	产业园管委会	399
+chan cheng qu zheng fu	禅城区政府	388
+chan di biao ji	产地标记	385
+chan shi	产室	385
+chan ning	谗佞	370
+chan you	颤悠	365
+chan yuan	产院	355
+chan pin ying yong	产品应用	349
+chan yuan	婵媛	335
+chan jia bu qing	缠夹不清	330
+chan ru liang	产乳量	325
+chan shou	缠手	310
+chan di guo	产地国	305
+chan sha zi	掺沙子	285
+chan quan fa	产权法	277
+chan pin ren	产品人	249
+chan dou	铲斗	247
+chan ya tou	馋丫头	246
+chan pin ce hua	产品策划	238
+chan chan	谗谄	235
+chan huai	馋坏	234
+chan pin ye wu	产品业务	234
+chan fu si wang	产妇死亡	225
+chan ning	谄佞	220
+chan guan xue	产官学	200
+chan pin xiao shou quan	产品销售权	200
+chan pin ku	产品库	193
+chan ye bian ge	产业变革	185
+chan ye xing wang	产业兴旺	184
+chan luo	缠络	180
+chan za wu	掺杂物	180
+chan zui mao	馋嘴猫	180
+chan xue che	铲雪车	178
+chan mei zhe	谄媚者	175
+chan xie	谗邪	175
+chan xing	铲形	172
+chan hai	谗害	170
+chan qi chang gan jun	产气肠杆菌	170
+chan tui	蝉蜕	168
+chan ye yong	产业用	167
+chan ye gu fen	产业股份	162
+chan zi ge	铲子哥	160
+chan pin qin quan ze ren	产品侵权责任	156
+chan ke yi yuan	产科医院	155
+chan he qu	瀍河区	152
+chan mi	产蜜	150
+chan pin zhe	产品者	148
+chan sheng zhen zhen	蝉声阵阵	137
+chan hou shi tiao	产后失调	135
+chan sheng le yi	产生了以	134
+chan quan shi	产权式	133
+chan pin an quan	产品安全	127
+chan quan can que	产权残缺	126
+chan ji le	馋极了	123
+chan ku	馋哭	123
+chan nv	产女	123
+chan si la	馋死啦	123
+chan si ren	馋死人	123
+chan si ren le	馋死人了	123
+chan yin qin	颤音琴	123
+chan zi	产子	123
+chan xian yu di	馋涎欲滴	116
+chan cao chu gen	铲草除根	111
+chan sheng shi	产生式	111
+chan si	缠丝	111
+chan sheng shi gui ze	产生式规则	108
+chan ye sheng tai lian	产业生态链	106
+chan ye hu lian wang	产业互联网	102
+chan bu zhi xue	蝉不知雪	100
+chan cao chu gen	刬草除根	100
+chan cha di	产茶地	100
+chan chan xue	铲铲雪	100
+chan cheng guo chang	产程过长	100
+chan cheng qu	禅城区	100
+chan chu di	产出地	100
+chan chu dong	蟾蜍洞	100
+chan chu gan jing	铲除干净	100
+chan chu guo zei	铲除国贼	100
+chan chu hei e shi li	铲除黑恶势力	100
+chan chu wang	蟾蜍王	100
+chan chu xiao lv	产出效率	100
+chan chu xie e	铲除邪恶	100
+chan chu yi ji	铲除异己	100
+chan ci ling se	谄词令色	100
+chan dan lv xia jiang	产蛋率下降	100
+chan dan xia jiang	产蛋下降	100
+chan de bu xing	馋得不行	100
+chan de chu	产得出	100
+chan de huang	馋得慌	100
+chan de liu kou shui	馋得流口水	100
+chan de zhi liu kou shui	馋得直流口水	100
+chan di bao jia	产地报价	100
+chan di bu tong	产地不同	100
+chan di cang	产地仓	100
+chan di chu jia gong	产地初加工	100
+chan di fen bu	产地分布	100
+chan di gong ying	产地供应	100
+chan di huan jing	产地环境	100
+chan di huo yuan	产地货源	100
+chan di jia ge	产地价格	100
+chan di jia gong	产地加工	100
+chan di jian yi	产地检疫	100
+chan di lai yuan	产地来源	100
+chan di pi fa	产地批发	100
+chan di shi chang	产地市场	100
+chan di shi na li	产地是哪里	100
+chan di xin xi	产地信息	100
+chan di zheng shu	产地证书	100
+chan di zhi cai	产地直采	100
+chan di zhi fa	产地直发	100
+chan di zhi gong	产地直供	100
+chan di zhi xiao	产地直销	100
+chan di zhun chu	产地准出	100
+chan ding mo shi	禅定模式	100
+chan dou dou	颤抖抖	100
+chan dou zhe shuang shou	颤抖着双手	100
+chan dou zhuo shou	颤抖着手	100
+chan fu si wang lv	产妇死亡率	100
+chan fu xia	搀扶下	100
+chan gong du bu	蟾宫独步	100
+chan hang duo shi	搀行夺市	100
+chan he hui zu qu	瀍河回族区	100
+chan he zi	禅和子	100
+chan hou e lu	产后恶露	100
+chan hou e lu bu jin	产后恶露不尽	100
+chan hou jian cha	产后检查	100
+chan hou tiao li	产后调理	100
+chan hou tiao li yuan	产后调理院	100
+chan hou yu jia	产后瑜伽	100
+chan hua jie she	搀话接舌	100
+chan huo jin lai	掺和进来	100
+chan huo yi jiao	掺和一脚	100
+chan jia er xian sheng	缠夹二先生	100
+chan jia shi jian	产假时间	100
+chan jian chu e	铲奸除恶	100
+chan jian chu xie	铲奸除邪	100
+chan jiao rong he shi xun ji di	产教融合实训基地	100
+chan jiao shen du rong he	产教深度融合	100
+chan ke dai fu	产科大夫	100
+chan lai chan qu	缠来缠去	100
+chan le chan	颤了颤	100
+chan le shui	掺了水	100
+chan lian qu	产莲区	100
+chan liang bi	产量比	100
+chan liang da sheng	产粮大省	100
+chan liang duo	产量多	100
+chan liang gui mo	产量规模	100
+chan liang jiang di	产量降低	100
+chan liang xia jiang	产量下降	100
+chan luan hui you	产卵洄游	100
+chan luan qi	产卵器	100
+chan mao zi	馋猫子	100
+chan mei chan sheng	产没产生	100
+chan mei chan sheng a	产没产生啊	100
+chan mei chan sheng ya	产没产生呀	100
+chan mei zhi ren	谄媚之人	100
+chan men wu zong	禅门五宗	100
+chan mi di	产米地	100
+chan mian chuang ru	缠绵床褥	100
+chan mian chuang zi	缠绵床笫	100
+chan mian you xi	缠绵游戏	100
+chan ming sheng	蝉鸣声	100
+chan neng gui mo	产能规模	100
+chan neng guo sheng hang ye	产能过剩行业	100
+chan neng hui fu lv	产能恢复率	100
+chan neng li yong lv	产能利用率	100
+chan neng li yong lv bu zu	产能利用率不足	100
+chan neng luo hou	产能落后	100
+chan neng tiao zheng	产能调整	100
+chan neng xia jiang	产能下降	100
+chan neng yan zhong guo sheng	产能严重过剩	100
+chan neng zeng zhang	产能增长	100
+chan pin bu	产品部	100
+chan pin bu liang lv	产品不良率	100
+chan pin bu xing	产品不行	100
+chan pin can shu	产品参数	100
+chan pin chan di	产品产地	100
+chan pin chang di	产品厂地	100
+chan pin cheng shou du	产品成熟度	100
+chan pin cheng shu du	产品成熟度	100
+chan pin chuan bo	产品传播	100
+chan pin chuang xin	产品创新	100
+chan pin chun du	产品纯度	100
+chan pin de	产品的	100
+chan pin de can shu	产品的参数	100
+chan pin de shi chang zhan you lv	产品的市场占有率	100
+chan pin de xuan chuan	产品的宣传	100
+chan pin de yi zhi xing	产品的一致性	100
+chan pin de zhi ming du	产品的知名度	100
+chan pin de zhong liang	产品的重量	100
+chan pin di li biao zhi	产品地理标志	100
+chan pin di tu	产品地图	100
+chan pin diao cha	产品调查	100
+chan pin diao xing	产品调性	100
+chan pin diao yan	产品调研	100
+chan pin die dai su du	产品迭代速度	100
+chan pin fa xing	产品发行	100
+chan pin fei lv	产品费率	100
+chan pin fu wu ti xi	产品服务体系	100
+chan pin gang	产品岗	100
+chan pin gao du	产品高度	100
+chan pin geng xin su du	产品更新速度	100
+chan pin gong lv	产品功率	100
+chan pin gou	产品狗	100
+chan pin gui ge can shu	产品规格参数	100
+chan pin gui mo	产品规模	100
+chan pin hang qing	产品行情	100
+chan pin hang ye	产品行业	100
+chan pin he hang ye	产品和行业	100
+chan pin he xi tong	产品和系统	100
+chan pin hou du	产品厚度	100
+chan pin ji di	产品基地	100
+chan pin ji shu can shu	产品技术参数	100
+chan pin jia ge xia jiang	产品价格下降	100
+chan pin jiang jia	产品降价	100
+chan pin jiao du	产品角度	100
+chan pin jie gou de tiao zheng	产品结构的调整	100
+chan pin jie gou tiao zheng	产品结构调整	100
+chan pin jin xing	产品进行	100
+chan pin jing du	产品精度	100
+chan pin jing du gao	产品精度高	100
+chan pin jing li a	产品经理啊	100
+chan pin jing zhong	产品净重	100
+chan pin kuan du	产品宽度	100
+chan pin li du	产品粒度	100
+chan pin li du jun yun	产品粒度均匀	100
+chan pin li lv	产品利率	100
+chan pin liang lv	产品良率	100
+chan pin liao jie	产品了解	100
+chan pin luo di	产品落地	100
+chan pin mao li lv	产品毛利率	100
+chan pin mi du	产品密度	100
+chan pin mi yao	产品密钥	100
+chan pin mi yue	产品密钥	100
+chan pin ming	产品名	100
+chan pin mo kuai	产品模块	100
+chan pin mo shi	产品模式	100
+chan pin mo xing	产品模型	100
+chan pin pai hang	产品排行	100
+chan pin pai hang bang	产品排行榜	100
+chan pin pu xi	产品谱系	100
+chan pin qiang du	产品强度	100
+chan pin re du	产品热度	100
+chan pin shang chuan	产品上传	100
+chan pin shang xing	产品上行	100
+chan pin shen du	产品深度	100
+chan pin shen tou lv	产品渗透率	100
+chan pin sheng chan ji di	产品生产基地	100
+chan pin shi chang zhan you lv	产品市场占有率	100
+chan pin shi shen me	产品是什么	100
+chan pin shou jia	产品售价	100
+chan pin shou yi lv	产品收益率	100
+chan pin ti xi	产品体系	100
+chan pin tiao shi	产品调试	100
+chan pin tiao zheng	产品调整	100
+chan pin tong zhi hua yan zhong	产品同质化严重	100
+chan pin tuo zhan	产品拓展	100
+chan pin wei du	产品维度	100
+chan pin wen du	产品温度	100
+chan pin xi	产品系	100
+chan pin xi du	产品细度	100
+chan pin xi lie	产品系列	100
+chan pin xi lie hua	产品系列化	100
+chan pin xi tong	产品系统	100
+chan pin xiang xi can shu	产品详细参数	100
+chan pin xiao shou lv	产品销售率	100
+chan pin xing xiao	产品行销	100
+chan pin xuan chuan	产品宣传	100
+chan pin xuan chuan ce	产品宣传册	100
+chan pin xuan chuan pian	产品宣传片	100
+chan pin ying du	产品硬度	100
+chan pin yuan xiao quan guo ge di	产品远销全国各地	100
+chan pin yun xing	产品运行	100
+chan pin zeng zhang	产品增长	100
+chan pin zhi di	产品质地	100
+chan pin zhi liang cen ci bu qi	产品质量参差不齐	100
+chan pin zhi xing	产品执行	100
+chan pin zhi xing biao zhun	产品执行标准	100
+chan pin zhong dian	产品重点	100
+chan pin zhong liang	产品重量	100
+chan pin zhuan hua lv	产品转化率	100
+chan pin zu he	产品组合	100
+chan ping yi jian zhe	铲平异见者	100
+chan po shu	产婆术	100
+chan quan bao hu zhi du	产权保护制度	100
+chan quan bi lv	产权比率	100
+chan quan diao huan	产权调换	100
+chan quan diao huan fang wu	产权调换房屋	100
+chan quan fang	产权房	100
+chan quan ju	产权局	100
+chan quan ming xi	产权明晰	100
+chan rao qian nian	缠绕千年	100
+chan ren gao zhang	谗人高张	100
+chan shang ao xia	谄上傲下	100
+chan shang jiao xia	谄上骄下	100
+chan shang lai	缠上来	100
+chan shang qi xia	谄上欺下	100
+chan shang qu	缠上去	100
+chan sheng cuo jue	产生错觉	100
+chan sheng de	产生的	100
+chan sheng de su du	产生的速度	100
+chan sheng di	产生地	100
+chan sheng e chou	产生恶臭	100
+chan sheng e xin	产生恶心	100
+chan sheng gan jue	产生感觉	100
+chan sheng guan xi	产生关系	100
+chan sheng huan jue	产生幻觉	100
+chan sheng le dong yao	产生了动摇	100
+chan sheng le fen qi	产生了分歧	100
+chan sheng le gan qing	产生了感情	100
+chan sheng le hao gan	产生了好感	100
+chan sheng le huan jue	产生了幻觉	100
+chan sheng le ju da de ying xiang	产生了巨大的影响	100
+chan sheng le ju da ying xiang	产生了巨大影响	100
+chan sheng le kang ti	产生了抗体	100
+chan sheng le mao dun	产生了矛盾	100
+chan sheng le nong hou de xing qu	产生了浓厚的兴趣	100
+chan sheng le wu jie	产生了误解	100
+chan sheng le xing qu	产生了兴趣	100
+chan sheng le yi ding de	产生了一定的	100
+chan sheng le zhong da ying xiang	产生了重大影响	100
+chan sheng lian xi	产生联系	100
+chan sheng mei chan sheng	产生没产生	100
+chan sheng qi	产生器	100
+chan sheng qi ji	产生奇迹	100
+chan sheng sha ying xiang	产生啥影响	100
+chan sheng shen me ying xiang	产生什么影响	100
+chan sheng yan zhong hou guo	产生严重后果	100
+chan sheng yan zhong ying xiang	产生严重影响	100
+chan sheng zhong da ying xiang	产生重大影响	100
+chan shui gu piao	搀水股票	100
+chan si jin	缠丝劲	100
+chan si ma nao	缠丝玛瑙	100
+chan si wo le	馋死我了	100
+chan ta de	馋她的	100
+chan ta de shen zi	馋她的身子	100
+chan tu ji	铲土机	100
+chan tui hui zhuo	蝉蜕秽浊	100
+chan wan le	铲完了	100
+chan wan xue	铲完雪	100
+chan wei zan zhu	襜帷暂驻	100
+chan wu bao xian	产物保险	100
+chan xian yu chui	馋涎欲垂	100
+chan xiao di	产销地	100
+chan xiao gui mo	产销规模	100
+chan xiao he tong	产销合同	100
+chan xiao he yi	产销合一	100
+chan xiao mo shi	产销模式	100
+chan xiao yi yuan hua	产销一元化	100
+chan xiao zhi jie gua gou	产销直接挂钩	100
+chan xue de	铲雪的	100
+chan xue he zuo	产学合作	100
+chan xue ji	铲雪机	100
+chan xue le	铲雪了	100
+chan xue yan he zuo ji di	产学研合作基地	100
+chan xue yan ji di	产学研基地	100
+chan xue yan shen du rong he	产学研深度融合	100
+chan xue yan yong shen du rong he	产学研用深度融合	100
+chan ya ta	禅雅塔	100
+chan yan leng yu	谗言冷语	100
+chan yan ning yu	谗言佞语	100
+chan yan song li	巉岩耸立	100
+chan yan zen yu	谗言谮语	100
+chan yao long	缠腰龙	100
+chan ye bie	产业别	100
+chan ye bu	产业部	100
+chan ye bu ju tiao zheng	产业布局调整	100
+chan ye cheng zhang	产业成长	100
+chan ye chong gou	产业重构	100
+chan ye chong zu	产业重组	100
+chan ye de	产业的	100
+chan ye de shen du rong he	产业的深度融合	100
+chan ye de sheng ji huan dai	产业的升级换代	100
+chan ye di biao	产业地标	100
+chan ye di chan	产业地产	100
+chan ye di tu	产业地图	100
+chan ye di wei	产业地位	100
+chan ye diao yan	产业调研	100
+chan ye fa zhan gao di	产业发展高地	100
+chan ye fa zhan gui mo	产业发展规模	100
+chan ye fa zhan mo shi	产业发展模式	100
+chan ye fa zhan ti xi	产业发展体系	100
+chan ye fa zhan zhong dian	产业发展重点	100
+chan ye fu hua ji di	产业孵化基地	100
+chan ye fu pin ji di	产业扶贫基地	100
+chan ye fu pin mo shi	产业扶贫模式	100
+chan ye fu pin xin mo shi	产业扶贫新模式	100
+chan ye gao di	产业高地	100
+chan ye gao du	产业高度	100
+chan ye gong hui lian he hui	产业工会联合会	100
+chan ye gui mo bu duan kuo da	产业规模不断扩大	100
+chan ye gui mo hua	产业规模化	100
+chan ye hang ye	产业行业	100
+chan ye hou bei	产业后备	100
+chan ye hou bei jun	产业后备军	100
+chan ye hua cheng du	产业化程度	100
+chan ye hua gong cheng	产业化工程	100
+chan ye hua gui mo	产业化规模	100
+chan ye hua ji di	产业化基地	100
+chan ye hua luo di	产业化落地	100
+chan ye ji di jian she	产业基地建设	100
+chan ye ji ju di	产业集聚地	100
+chan ye ji ju du	产业集聚度	100
+chan ye ji shu ti xi	产业技术体系	100
+chan ye ji zhong du	产业集中度	100
+chan ye jie gou de tiao zheng	产业结构的调整	100
+chan ye jie gou pian zhong	产业结构偏重	100
+chan ye jie gou sheng ji	产业结构升级	100
+chan ye jie gou tiao zheng sheng ji	产业结构调整升级	100
+chan ye ju ji di	产业聚集地	100
+chan ye lian chang	产业链长	100
+chan ye lian chong gou	产业链重构	100
+chan ye lian mo shi	产业链模式	100
+chan ye lian ti xi	产业链体系	100
+chan ye lian tiao chang	产业链条长	100
+chan ye luo di	产业落地	100
+chan ye mo shi	产业模式	100
+chan ye qun	产业群	100
+chan ye qun ti	产业群体	100
+chan ye shen du	产业深度	100
+chan ye shen du rong he	产业深度融合	100
+chan ye sheng hui	产业盛会	100
+chan ye sheng tai ti xi	产业生态体系	100
+chan ye sheng tai xi tong	产业生态系统	100
+chan ye sheng zhang	产业生长	100
+chan ye shi fan ji di	产业示范基地	100
+chan ye ti du zhuan yi	产业梯度转移	100
+chan ye ti xi jian she	产业体系建设	100
+chan ye tuo zhan	产业拓展	100
+chan ye xi lie	产业系列	100
+chan ye xi tong	产业系统	100
+chan ye xian xing	产业先行	100
+chan ye xiang mu luo di	产业项目落地	100
+chan ye xiao lv	产业效率	100
+chan ye xie tiao	产业协调	100
+chan ye xie tiao fa zhan	产业协调发展	100
+chan ye xin gao di	产业新高地	100
+chan ye xing	产业性	100
+chan ye yong di	产业用地	100
+chan ye yuan	产业园	100
+chan ye yun xing	产业运行	100
+chan ye zeng zhang	产业增长	100
+chan ye zhong dian	产业重点	100
+chan ye zhong zhen	产业重镇	100
+chan yi xie hong chen	禅意写红尘	100
+chan you fa wei	阐幽发微	100
+chan you liang	产油量	100
+chan you ming wei	阐幽明微	100
+chan you xian wei	阐幽显微	100
+chan yu qu rong	谄谀取容	100
+chan yu zhi chen	谄谀之臣	100
+chan yun che	铲运车	100
+chan yun ji	铲运机	100
+chan za nong du	掺杂浓度	100
+chan za zai	掺杂在	100
+chan zai shu	产仔数	100
+chan zao wa ming	蝉噪蛙鸣	100
+chan zhe bu fang	缠着不放	100
+chan zhe he	掺着喝	100
+chan zhe ni	缠着你	100
+chan zhe ni men	缠着你们	100
+chan zhe ta	缠着他	100
+chan zhe ta men	缠着他们	100
+chan zhe wo men	缠着我们	100
+chan zhi gui mo	产值规模	100
+chan zong qi zu	禅宗七祖	100
+chan zui ba	馋嘴巴	100
+chan zui guai	馋嘴怪	100
+chan zui wa	馋嘴蛙	100
+chan jun	巉峻	99
+chan rao	缠扰	99
+chan luan guan	产卵管	90
+chan quan su song	产权诉讼	90
+chan luan di	产卵地	87
+chan mei shi	产煤市	87
+chan zhu sheng	产竹省	87
+chan pin ping lun	产品评论	83
+chan le	铲了	77
+chan qu	铲去	77
+chan dao bian hao	禅道编号	75
+chan shang	产伤	74
+chan qi lai	铲起来	68
+chan xu jing zhun dui jie	产需精准对接	68
+chan dao shang	禅道上	67
+chan dian	掺点	64
+chan pin shi	产品时	64
+chan liang fen cheng he tong	产量分成合同	62
+chan ye ke	产业科	62
+chan pin hang	产品行	59
+chan qian zhen duan ji shu guan li ban fa	产前诊断技术管理办法	58
+chan rao jing	缠绕茎	55
+chan ruo wu li	孱弱无力	55
+chan pin yan fa guan li	产品研发管理	52
+chan pin zhi liang jian du jian cha zhi du	产品质量监督检查制度	51
+chan su	蟾酥	50
+chan pin kai fa jian yi shu	产品开发建议书	46
+chan pin que xian ze ren	产品缺陷责任	45
+chan quan xia ci	产权瑕疵	44
+chan pin shu ju guan li	产品数据管理	41
+chan pin zhi liang guo jia jian du chou cha guan li ban fa	产品质量国家监督抽查管理办法	39
+chan jie	蝉街	37
+chan sheng shi xi tong	产生式系统	37
+chan mian qi ce	缠绵凄恻	36
+chan pin zong zhi	产品总值	36
+chan ke bing ren	产科病人	35
+chan zhe ne	缠着呢	35
+chan gou	馋狗	34
+chan huang qing mei	产黄青霉	34
+chan de xiang	缠得像	30
+chan pin ju bu qi zha	产品局部欺诈	27
+chan pin ze ren fa lv shi yong gong yue	产品责任法律适用公约	25
+chan qi jun	产气菌	25
+chan quan she ding	产权设定	24
+chan cheng yan chang	产程延长	23
+chan di biao ji quan	产地标记权	21
+chan qing jun	产氢菌	20
+chan quan jiao yi xin xi fa bu	产权交易信息发布	20
+chan ye xin xi bu	产业信息部	20
+chan zhe ne	馋着呢	20
+chan pin qin quan xing wei	产品侵权行为	19
+chan zui ya	馋嘴鸭	19
+chan rao shu	缠绕术	18
+chan chu zhong du	蟾蜍中毒	16
+chan yi wei zhong	蝉翼为重	16
+chan pin fang wei jian du guan li ban fa	产品防伪监督管理办法	15
+chan pin ji zhou qi you hua fa	产品及周期优化法	15
+chan pin xia ci ze ren	产品瑕疵责任	15
+chan ru qi gan ran	产褥期感染	15
+chan ye jie gou tiao jie fa	产业结构调节法	15
+chan zhu jiao	缠住脚	15
+chan hou fa re	产后发热	13
+chan jia wan jun	产甲烷菌	13
+chan pin chuang xin fa ze	产品创新法则	13
+chan shui xi lu	浐水西路	13
+chan ye shui	产业税	13
+chan qi	骣骑	11
+chan si	禅思	11
+chan du se an	蟾毒色胺	10
+chan pin zhi liang jian du shi xing ban fa	产品质量监督试行办法	10
+chan xia	蝉虾	10
+chan zhe ne	搀着呢	10
+chan yan	巉岩	9
+chan hun qu	忏魂曲	8
+chan su	馋酥	8
+chan zao lin yu jing	蝉噪林逾静	8
+chan chu shui she zhou	蟾蜍水蛇粥	7
+chan quan huo you bian dong shi xiang	产权或有变动事项	7
+chan xiao zhe	产销者	7
+chan ye sun hai diao cha xin xi cha yue yu xin xi pi lu gui ding	产业损害调查信息查阅与信息披露规定	7
+chan chu du	蟾蜍毒	6
+chan hou jia zhuang xian yan	产后甲状腺炎	6
+chan pin ze ren bao xian he tong	产品责任保险合同	6
+chan zhi	缠枝	6
+chan du su	蟾毒素	5
+chan mian you yuan	缠绵幽怨	5
+chan ru zhi	产乳汁	5
+chan pin ze ren bao xian tiao kuan	产品责任保险条款	4
+chan shi	觇视	4
+chan te zhi kou	谗慝之口	4
+chan wang	觇望	4
+chan zao	蝉噪	4
+chan fu si	阐福寺	3
+chan ji e	蝉寄蛾	3
+chan ren	谗人	3
+chan bing	颤病	2
+chan de xiang	产德乡	2
+chan hou jing shen bing	产后精神病	2
+chan kou xiang	巉口乡	2
+chan qian zi xian	产前子痫	2
+chan quan dao kan	产权导刊	2
+chan she jiu xin wan	蟾麝救心丸	2
+chan tui long bian	蝉蜕龙变	2
+chan yan san ji ci mu jing	谗言三及慈母惊	2
+chan ye yuan gong jiao diao du zhan	产业园公交调度站	2
+chan yong	蝉蛹	2
+chan yu	襜褕	2
+chan chuan lei gan	蝉喘雷干	1
+chan e chu jian	刬恶锄奸	1
+chan e chu jian	铲恶锄奸	1
+chan feng jiao	颤凤娇	1
+chan fu gui chang	蝉腹龟肠	1
+chan gong ban gui	蟾宫扳桂	1
+chan he	浐河	1
+chan he	瀍河	1
+chan he yu fu shuang shen chong	铲颌鱼副双身虫	1
+chan hou chuan cu	产后喘促	1
+chan hou feng jing	产后风痉	1
+chan hou san chong	产后三冲	1
+chan hou san ji	产后三急	1
+chan hou yin ya	产后音哑	1
+chan hou zi gong fu jiu bu quan	产后子宫复旧不全	1
+chan ji xiao sheng	铲迹销声	1
+chan jiu mou xin	刬旧谋新	1
+chan jiu mou xin	铲旧谋新	1
+chan juan ci zhi	婵娟此豸	1
+chan juan luo fu yue	婵娟罗浮月	1
+chan kou ao ao	谗口嗷嗷	1
+chan kou liu xian	馋口流涎	1
+chan kou shuo jin	谗口铄金	1
+chan ku chuan ba	馋酷串吧	1
+chan lian can xu	蝉联蚕绪	1
+chan lian wang fu	蝉联往复	1
+chan liao sheng xian	馋獠生涎	1
+chan men chan hu	缠门缠户	1
+chan mian chuang di	缠绵床第	1
+chan mian yun jie	缠绵蕴藉	1
+chan mian zhen xi	缠绵枕席	1
+chan pi bing	蟾皮病	1
+chan pin an cha	产品安插	1
+chan pin fang wei jian du guan li ban fa shi shi xi ze	产品防伪监督管理办法实施细则	1
+chan pin ma	产品吗	1
+chan pin qi ye biao zhun bei an	产品企业标准备案	1
+chan pin zhi liang fa ji pei tao gui ding xin shi xin jie	产品质量法及配套规定新释新解	1
+chan ping cun	潺坪村	1
+chan qian	产钳	1
+chan qian luo hou	搀前落后	1
+chan qu	禅趣	1
+chan ran yi xiao	冁然一笑	1
+chan se xi jun	产色细菌	1
+chan shan	旵山	1
+chan shan lin dai	蝉衫麟带	1
+chan shang yi xia	谄上抑下	1
+chan sheng wei fa qian	蝉声未发前	1
+chan shi diao long	禅世雕龙	1
+chan si du	缠丝肚	1
+chan tui she jie	蝉蜕蛇解	1
+chan tui xian pi jiu	蝉蜕藓皮酒	1
+chan tui zi zhuo	蝉蜕滓浊	1
+chan tuo zhuo hui	蝉脱浊秽	1
+chan xian cun	产贤村	1
+chan xiao xie jian	谄笑胁肩	1
+chan xiao yao zhu	铲逍遥蛛	1
+chan xu zhan ni	禅絮沾泥	1
+chan yang guang da	阐扬光大	1
+chan yao she dan	缠腰蛇丹	1
+chan yi	蝉衣	1
+chan you jue wei	阐幽抉微	1
+chan you tan ze	阐幽探赜	1
+chan zhan he xiang	蝉战河乡	1
+chan zhou	僝僽	1

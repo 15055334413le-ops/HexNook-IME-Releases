@@ -1,0 +1,104 @@
+que xian	缺陷	551600
+que xi	缺席	184918
+que kou	缺口	42908
+que zhen bing li	确诊病例	13563
+que yang	缺氧	10409
+que yi bu ke	缺一不可	4828
+que xian chan pin	缺陷产品	4575
+que xi pan jue	缺席判决	4210
+que xue	缺血	3119
+que ye	缺页	2227
+que you qi shi	确有其事	2213
+que xi shen pan	缺席审判	1550
+que sheng can shu	缺省参数	1154
+que ye zhong duan	缺页中断	976
+que fa hou jin	缺乏后劲	939
+que ban	雀斑	774
+que xian guan li	缺陷管理	606
+que tie xing pin xue	缺铁性贫血	528
+que sheng lu you	缺省路由	377
+que shan	确山	355
+que shi zhi	缺失值	345
+que yi shao shi	缺衣少食	331
+que bao cao zuo	确保操作	299
+que xin du	确信度	252
+que gang	缺缸	200
+que chao dan nai you	雀巢淡奶油	196
+que xi	缺硒	177
+que ding xing suan fa	确定性算法	167
+que chi shao chuan	缺吃少穿	154
+que ru	缺如	110
+que xue xing huai si	缺血性坏死	83
+que ping zhong xuan	雀屏中选	73
+que chao jiu zhan	鹊巢鸠占	60
+que xu	缺须	58
+que shi lv	缺失率	56
+que dao hua	阙道华	49
+que gu suo lai jing	却顾所来径	49
+que yang zheng	缺氧症	28
+que xue xing xin ji bing	缺血性心肌病	26
+que zhi bu gong	却之不恭	26
+que chi mu	缺翅目	23
+que dao tian liang hao ge qiu	却道天凉好个秋	23
+que hua ba shan ye yu shi	却话巴山夜雨时	17
+que chi yan	缺齿鼹	15
+que dao gu ren xin yi bian	却道故人心易变	15
+que chao bing ka fei	雀巢冰咖啡	12
+que ding xing tu ling ji	确定型图灵机	12
+que ren xiang	雀仁乡	8
+que xue xing luan suo	缺血性挛缩	8
+que xue xing shi shen jing bing bian	缺血性视神经病变	8
+que ba qing mei xiu	却把青梅嗅	7
+que dai hua bu deng e	缺带花布灯蛾	7
+que pen xue	缺盆穴	7
+que dao hai tang yi jiu	却道海棠依旧	6
+que han qian	阙汉骞	6
+que kan qi zi chou he zai	却看妻子愁何在	5
+que pen	缺盆	4
+que tang	缺塘	4
+que qiao lu	鹊桥路	3
+que shi jiu shi xiang shi	却是旧时相识	3
+que xue xing chang bing	缺血性肠病	3
+que xue xing chang yan	缺血性肠炎	3
+que tang she qu	缺塘社区	2
+que yin ge wu po chu xiu	却因歌舞破除休	2
+que you zhong shen xiang yi	却又终身相依	2
+que yue gua shu tong	缺月挂疏桐	2
+que bu xiang	确布乡	1
+que chao hei jiao niu liu	雀巢黑椒牛柳	1
+que chao niao wo	雀巢鸟窝	1
+que fang huang he jiang nan gui	却放黄鹤江南归	1
+que jia yu ya gang	缺甲鱼亚纲	1
+que jiang wan zi ping rong ce	却将万字平戎策	1
+que jiao ming yue song jiang lai	却教明月送将来	1
+que ru kong chao li	却入空巢里	1
+que sheng chuan shu xi xin qing	鹊声穿树喜新晴	1
+que shi yan zhou yu lu pian	却是炎洲雨露偏	1
+que wang cheng lou lei man shan	却望城楼泪满衫	1
+que wei wu cai de shao an	却为无才得少安	1
+que wei zhi yin bu de ting	却为知音不得听	1
+que xian jing zhong wa	却羡井中蛙	1
+que xian zhi fen wu yan se	却嫌脂粉污颜色	1
+que xue xing ji luan suo	缺血性肌挛缩	1
+que xue xing shi pan bing bian	缺血性视盘病变	1
+que yi an shi feng liu	却忆安石风流	1
+que yi chun se zai lin jia	却疑春色在邻家	1
+que yuan tian ri heng yan xi	却愿天日恒炎曦	1
+que zuo cu xian xian zhuan ji	却坐促弦弦转急	1
+que ban dai hui die	缺斑黛灰蝶	0
+que bao di ju dai chong	却保狄具带虫	0
+que bian duan xi xiang	缺边短喜象	0
+que bian juan e	缺边卷蛾	0
+que chi hong si xian	缺齿红丝线	0
+que chi qing tong jin gui	缺齿青铜金龟	0
+que chi ying jin hua chong	缺翅萤金花虫	0
+que guang he jin gui	缺光褐金龟	0
+que huan lv hu tian niu	缺环绿虎天牛	0
+que huan tu zhang jiao shi e	缺环突长角石蛾	0
+que ke ce hong kang xia	缺刻侧红糠虾	0
+que ke ji xie	缺刻矶蟹	0
+que ke wei biao shui zao	缺刻伪镖水蚤	0
+que kou he chi e	缺口褐尺蛾	0
+que mai nu jian feng	缺脉怒茧蜂	0
+que xu pen chun yu	缺须盆唇鱼	0
+que yuan ye sai luo	缺缘叶鳃螺	0

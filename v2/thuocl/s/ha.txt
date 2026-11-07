@@ -1,0 +1,113 @@
+ha mi gua	哈密瓜	16348
+ha er bin shi	哈尔滨市	10831
+ha xi suan fa	哈希算法	4105
+ha li	哈里	4058
+ha li	哈利	2475
+ha mi shi	哈密市	1387
+ha fu man bian ma	哈夫曼编码	1212
+ha li bo te	哈利波特	984
+ha li sen	哈里森	892
+ha luo de	哈罗德	867
+ha te	哈特	856
+ha xi chong tu	哈希冲突	694
+ha yi da	哈医大	654
+ha xi ying she	哈希映射	648
+ha xi cha zhao	哈希查找	546
+ha si	哈斯	451
+ha er bin lu	哈尔滨路	405
+ha ji	哈吉	377
+ha er bin hong chang	哈尔滨红肠	370
+ha si mu	哈斯木	360
+ha ye ke	哈耶克	309
+ha mi dun hui lu	哈密顿回路	271
+ha fu jie gou	哈佛结构	247
+ha fu man bian ma	哈弗曼编码	229
+ha mi dun lu jing	哈密顿路径	189
+ha lun	哈伦	178
+ha de li	哈德利	177
+ha er bin shi a cheng qu	哈尔滨市阿城区	174
+ha er bin dao	哈尔滨道	130
+ha bei ma si	哈贝马斯	114
+ha mi lu	哈密路	103
+ha xi jia mi	哈希加密	94
+ha er	哈儿	71
+ha da bing	哈达饼	70
+ha yao ji tuan	哈药集团	67
+ha er si	哈尔斯	63
+ha yao gu fen	哈药股份	58
+ha ding	哈定	54
+ha da qi gong ye zou lang	哈大齐工业走廊	52
+ha li bo dun	哈里伯顿	49
+ha de liang	哈德良	45
+ha zi	哈子	45
+ha li man	哈里曼	44
+ha la qi xiang	哈拉奇乡	39
+ha xie ke	哈谢克	34
+ha de liang chang cheng	哈德良长城	29
+ha la bu la ke xiang	哈拉布拉克乡	26
+ha tu	哈图	26
+ha da qi	哈大齐	24
+ha ji fu	哈吉甫	19
+ha la gou	哈拉沟	16
+ha qi gong	哈奇公	16
+ha er mu si ta de	哈尔姆斯塔德	15
+ha ba tun cun	奤夿屯村	13
+ha gao ke	哈高科	13
+ha yi	哈依	13
+ha la he shao xiang	哈拉合少乡	11
+ha ci	哈慈	10
+ha fei lu zun xiao ba wang	哈飞路尊小霸王	9
+ha qu xiang	哈曲乡	9
+ha te pi jiu	哈特啤酒	9
+ha bi ri ga zhen	哈毕日嘎镇	8
+ha da tu	哈达图	8
+ha la dao kou	哈拉道口	8
+ha li ha xiang	哈里哈乡	8
+ha mi dao	哈密道	8
+ha gan xiang	哈甘乡	6
+ha la he xiang	哈喇河乡	6
+ha shu	哈数	6
+ha duo he zhen	哈多河镇	5
+ha gu wei	蛤蛄围	5
+ha la gai tu nong mu chang	哈拉盖图农牧场	5
+ha mi xian	哈密县	5
+ha fei hang kong	哈飞航空	4
+ha mi wang	哈密王	4
+ha ri gao bi ga cha	哈日高毕嘎查	4
+ha sha tu	哈沙图	4
+ha tou gu fen	哈投股份	4
+ha er bin xin jian jian yu	哈尔滨新建监狱	3
+ha er bin xun ji	哈尔滨熏鸡	3
+ha fei qi che lu bao	哈飞汽车路宝	3
+ha lei man	哈勒曼	3
+ha ma wen tai	蛤蟆文太	3
+ha yi da wu yuan	哈医大五院	3
+ha bie ga xiang	哈咇嘎乡	2
+ha dong li	哈动力	2
+ha er bin feng gan kou tiao	哈尔滨风干口条	2
+ha er nao xiang	哈尔脑乡	2
+ha luo xiang	哈洛乡	2
+ha shen ma tang	蛤什蟆汤	2
+ha xian xiang	哈岘乡	2
+ha zi ai mai ti	哈孜艾买提	2
+ha ba ge xi xiang	哈巴格希乡	1
+ha da yang zhen	哈达阳镇	1
+ha er bin gan chang	哈尔滨干肠	1
+ha er dun xiang	哈尔墩乡	1
+ha ha xiang	哈哈乡	1
+ha la hei zhen	哈拉黑镇	1
+ha le jiao nang	哈乐胶囊	1
+ha ma you	哈蟆油	1
+ha te fu	哈特佛	1
+ha teng tao hai nong chang	哈腾套海农场	1
+ha tu qi meng gu zu xiang	哈吐气蒙古族乡	1
+ha xi nai de ru gao	哈西奈德乳膏	1
+ha en shi da wen dian man	哈恩氏大吻电鳗	0
+ha fei lin ke er ma	哈菲林克尔马	0
+ha fu lin ge ma	哈福林格马	0
+ha shi yi nuo man	哈氏异糯鳗	0
+ha te wei xiao you nian	哈特韦小油鲶	0
+ha wa na he mao	哈瓦那褐猫	0
+ha wa na juan mao shi zi quan	哈瓦那卷毛狮子犬	0
+ha wa na xiao quan	哈瓦那小犬	0
+ha zai ke	蛤仔壳	0

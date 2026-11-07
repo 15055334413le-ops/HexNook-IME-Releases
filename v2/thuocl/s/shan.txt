@@ -1,0 +1,600 @@
+shan yao	山药	80972
+shan dong sheng	山东省	72892
+shan xi sheng	陕西省	47447
+shan xi sheng	山西省	44875
+shan ji	山鸡	43818
+shan chu cao zuo	删除操作	21021
+shan chu wen jian	删除文件	19201
+shan bei	扇贝	16676
+shan he tao	山核桃	16434
+shan chu shu ju	删除数据	14959
+shan lin	山林	14452
+shan chu yuan su	删除元素	14420
+shan di che	山地车	14312
+shan xia	山下	10962
+shan zhu	山竹	10171
+shan jiao	山脚	9265
+shan chu biao	删除表	8908
+shan tou	山头	8569
+shan po shang	山坡上	8193
+shan tou shi	汕头市	7054
+shan cheng	山城	7036
+shan chu yong hu	删除用户	6540
+shan chu jie dian	删除节点	6217
+shan chu mu lu	删除目录	5450
+shan gou	山沟	5411
+shan li suan	山梨酸	4922
+shan qing shui xiu	山清水秀	4776
+shan hu	珊瑚	4512
+shan chu xing	删除行	4030
+shan tang	山塘	3893
+shan cun	闪存	3562
+shan shan lai chi	姗姗来迟	3496
+shan tui	闪退	3342
+shan shi shan zhong	善始善终	3136
+shan ran lei xia	潸然泪下	2811
+shan chu jie dian	删除结点	2771
+shan wai shan	山外山	2763
+shan chu xian	删除线	2679
+shan yao	山腰	2647
+shan chu wen jian jia	删除文件夹	2633
+shan men	山门	2363
+shan ling	山岭	2167
+shan dao	山道	1947
+shan xi da xue	山西大学	1917
+shan chu cheng xu	删除程序	1839
+shan dong cai	山东菜	1835
+shan li suan jia	山梨酸钾	1695
+shan chu xiang mu	删除项目	1652
+shan wei shi	汕尾市	1650
+shan zha gao	山楂糕	1584
+shan yi	山一	1554
+shan feng dian huo	煽风点火	1515
+shan shuo qi ci	闪烁其词	1364
+shan ping	闪屏	1362
+shan bian	山边	1292
+shan qian	山前	1273
+shan zhen hai wei	山珍海味	1228
+shan dong lu	山东路	1165
+shan zha guo	山楂果	1157
+shan hui	闪回	1093
+shan xi lu	山西路	1075
+shan li zhi shou	擅离职守	1012
+shan xi sheng yun cheng shi	山西省运城市	1009
+shan xing	扇形	997
+shan ba gan xiu	善罢甘休	920
+shan xi sheng zhang zhi shi	山西省长治市	916
+shan qiong shui jin	山穷水尽	915
+shan dong sheng de zhou shi	山东省德州市	884
+shan qi	疝气	874
+shan xi sheng bao ji shi	陕西省宝鸡市	873
+shan li tang chun	山梨糖醇	825
+shan tian	山田	640
+shan xi nan lu	陕西南路	600
+shan xi sheng da tong shi	山西省大同市	523
+shan hang	山航	503
+shan zha shui	山楂水	502
+shan xi sheng yang quan shi	山西省阳泉市	490
+shan xi	山溪	481
+shan beng di lie	山崩地裂	480
+shan yan	山岩	478
+shan dou	山都	459
+shan chu yi chang	删除异常	457
+shan yu yu lai feng man lou	山雨欲来风满楼	454
+shan nan xin nv	善男信女	452
+shan di	山底	451
+shan dong jian bing	山东煎饼	443
+shan mei	山美	442
+shan fan jiu jian	删繁就简	424
+shan shan	杉山	412
+shan di da xing xing	山地大猩猩	393
+shan qiang	山羌	380
+shan nei	山内	331
+shan gao shui chang	山高水长	330
+shan mu hui yuan dian	山姆会员店	322
+shan meng hai shi	山盟海誓	312
+shan xi bei lu	陕西北路	311
+shan you shan bao	善有善报	306
+shan gen	山根	297
+shan zhong shen mi	山中伸弥	294
+shan chu cheng yuan	删除成员	289
+shan chu zi shen	删除自身	278
+shan zi cai kuang	擅自采矿	265
+shan chong shui fu yi wu lu	山重水复疑无路	248
+shan da er yuan	山大二院	248
+shan xi lu	陕西路	228
+shan chong shui fu	山重水复	222
+shan zi	闪子	222
+shan zhu yu	山茱萸	219
+shan zha bing	山楂饼	204
+shan gao huang di yuan	山高皇帝远	200
+shan da huang	山大皇	196
+shan dong sheng ning jin xian	山东省宁津县	189
+shan ying	山樱	184
+shan dong sheng yang gu xian	山东省阳谷县	168
+shan dong sheng qing yun xian	山东省庆云县	165
+shan xi li gong xue yuan	陕西理工学院	164
+shan xi sheng li quan xian	陕西省礼泉县	161
+shan tou cun	山头村	157
+shan dong sheng peng lai shi	山东省蓬莱市	148
+shan ming shui xiu	山明水秀	145
+shan hu ba	珊瑚坝	124
+shan guang shui se	山光水色	118
+shan cheng xiao tang yuan	山城小汤圆	115
+shan keng	山坑	115
+shan dong sheng yu cheng shi	山东省禹城市	111
+shan ben wu shi liu	山本五十六	108
+shan ji pian	山鸡片	106
+shan er	山二	105
+shan xi jie	陕西街	101
+shan shui xiang lian	山水相连	99
+shan yin lu	山阴路	98
+shan jiao feng zhao	山椒凤爪	97
+shan ben tai lang	山本太郎	92
+shan ge zhuang	善各庄	90
+shan kou bai hui	山口百惠	89
+shan xi sheng ling shi xian	山西省灵石县	88
+shan tian	杉田	78
+shan si tao hua shi sheng kai	山寺桃花始盛开	75
+shan bei	山背	73
+shan zhi yun	山之韵	73
+shan chu tu ceng	删除图层	72
+shan chu ying jian	删除硬件	72
+shan dong jie	山东街	72
+shan yao di dong	山摇地动	72
+shan dong sheng le ling shi	山东省乐陵市	68
+shan li hong	山里红	68
+shan chang shui yuan	山长水远	67
+shan hai guan lu	山海关路	66
+shan dong tou	山东头	65
+shan gao shui yuan	山高水远	65
+shan tang cun	山塘村	63
+shan xiang ju bian	山乡巨变	61
+shan dong zhong lu	山东中路	59
+shan hou cun	山后村	57
+shan xi xiang	山西巷	53
+shan xia	山峡	52
+shan hui gui dang	闪回归档	50
+shan xi cun	山西村	50
+shan mei	山霉	48
+shan zi	山子	48
+shan jiao	山角	46
+shan bei cun	山背村	44
+shan he cun	山河村	44
+shan wai qing shan lou wai lou	山外青山楼外楼	44
+shan zha hong zhi zhu	山楂红蜘蛛	44
+shan xi	鳝溪	43
+shan hu	杉湖	42
+shan ming shui jing ye lai shuang	山明水净夜来霜	42
+shan se kong meng yu yi qi	山色空蒙雨亦奇	42
+shan su cun chu qi	闪速存储器	41
+shan wang	山王	41
+shan hu sha shui ku	珊瑚沙水库	40
+shan xi nan lu	山西南路	40
+shan nan hai bei	山南海北	39
+shan bian cun	山边村	38
+shan tou lu	汕头路	37
+shan xi sheng ning wu xian	山西省宁武县	37
+shan qian cun	山前村	34
+shan ya	山雅	34
+shan dong sheng wu lian xian	山东省五莲县	33
+shan xi bei lu	山西北路	33
+shan da yi yuan	山大一院	32
+shan dou gen	山豆根	32
+shan dui	山堆	32
+shan shui da jiu dian	山水大酒店	32
+shan tao	山涛	32
+shan fan jiu jian san qiu shu	删繁就简三秋树	31
+shan lang dang jian	山莨菪碱	31
+shan ping	山坪	31
+shan xiu bu shu	疝修补术	31
+shan nai	山柰	30
+shan shi da chang an xiao qu	陕师大长安校区	30
+shan shui ju	山水居	30
+shan qi	山奇	29
+shan nang	疝囊	28
+shan nei rong wu	疝内容物	28
+shan wei gang	汕尾港	28
+shan bei ke	扇贝科	27
+shan guan	山关	27
+shan zhen wen qin	扇枕温衾	27
+shan li xiao	疝立消	26
+shan po cun	山坡村	26
+shan wei	山尾	26
+shan zha he ye cha	山楂荷叶茶	26
+shan ming gu ying	山鸣谷应	25
+shan xia zhi jiu	山下智久	25
+shan yi cun	山一村	25
+shan lin cun	山林村	24
+shan shui yuan	山水苑	24
+shan wei zhi ye ji shu xue yuan	汕尾职业技术学院	24
+shan qiao	山桥	23
+shan yin dao	山阴道	23
+shan dong bao zi	山东包子	22
+shan dong sheng xin fang gui ding	山东省信访规定	22
+shan wei cun	山尾村	22
+shan xi xiang	善溪乡	22
+shan zha rou gan	山楂肉干	22
+shan dong zhuang	山东庄	21
+shan li chun gan dan you suan zhi	山梨醇酐单油酸酯	21
+shan si yue zhong xun gui zi	山寺月中寻桂子	21
+shan su	山苏	21
+shan xi dang shen	陕西党参	21
+shan yao bai he da zao zhou	山药百合大枣粥	21
+shan zha he	山楂核	21
+shan xi sheng hong shi zi yi yuan	陕西省红十字医院	20
+shan xi zhi ye ji shu xue yuan	陕西职业技术学院	20
+shan yang lu	山阳路	20
+shan yu liang mi xian	鳝鱼凉米线	20
+shan zao xiang	山枣乡	20
+shan bei hong xiao dou	陕北红小豆	19
+shan mei cun	山美村	19
+shan xi bao she	山西报社	19
+shan zha he tao cha	山楂核桃茶	19
+shan wang miao	山王庙	18
+shan feng cun	山峰村	17
+shan zhai xiong mao	山寨熊猫	17
+shan zhen	山针	17
+shan zi tou	山子头	17
+shan qi ri xi jia	山气日夕佳	16
+shan tang yi pin	膳汤一品	16
+shan zhi ma	山芝麻	16
+shan dong huan tai xian ma qiao zhen	山东桓台县马桥镇	15
+shan dong lv ye	山东铝业	15
+shan shi zhe shi fan	善始者实繁	15
+shan shui you qing yin	山水有清音	15
+shan zhi zi	山栀子	15
+shan hu xue hua ji	珊瑚雪花鸡	14
+shan dong yi xian	山东峄县	13
+shan long	山垄	13
+shan tan	善坛	13
+shan zai xu wu piao miao jian	山在虚无缥缈间	13
+shan zhen ci long ya	山珍刺龙芽	13
+shan ding qian men ci di kai	山顶千门次第开	12
+shan jia yu wu ye	善假于物也	12
+shan kou qian	山口茜	12
+shan se kong meng yu yi qi	山色空濛雨亦奇	12
+shan shu xia	杉树下	12
+shan shui hua men	山水华门	12
+shan cheng cun	山城村	11
+shan ci gu	山慈菇	11
+shan hu gui yu	珊瑚桂鱼	11
+shan ji ding er	山鸡丁儿	11
+shan yang cun	山阳村	11
+shan yao gui yuan dun jia yu	山药桂圆炖甲鱼	11
+shan zha fen die	山楂粉蝶	11
+shan zha jiang ya jiao nang	山楂降压胶囊	11
+shan zhou yi pin	膳粥一品	11
+shan dong zhong xue	山东中学	10
+shan gao lu yuan keng shen	山高路远坑深	10
+shan nei ya nan	杉内雅男	10
+shan wei gu guo zhou zao zai	山围故国周遭在	10
+shan xi fu ru	山西腐乳	10
+shan xi ying	山西营	10
+shan xia	山霞	10
+shan xia jing qi zai wang	山下旌旗在望	10
+shan ba xiang	山巴乡	9
+shan dong zhuang cun	山东庄村	9
+shan gu li	扇骨里	9
+shan he po sui feng piao xu	山河破碎风飘絮	9
+shan hu jin gou	珊瑚金钩	9
+shan jian zhe bu ba	善建者不拔	9
+shan lv cha	山绿茶	9
+shan shan cun	杉山村	9
+shan shui ju rong	山水句容	9
+shan xi cun	山溪村	9
+shan zha juan fen die	山楂绢粉蝶	9
+shan zha tan	山楂炭	9
+shan bao she	陕报社	8
+shan mu xiao zhen	山姆小镇	8
+shan shui ya yuan	山水雅苑	8
+shan zhen ci wu jia	山珍刺五加	8
+shan dou	山兜	7
+shan ge	山格	7
+shan ge zhuang xi zhan	善各庄西站	7
+shan guang yue niao xing	山光悦鸟性	7
+shan nei cun	山内村	7
+shan ping jie	山屏街	7
+shan qi yi	山崎一	7
+shan qi zong chang	陕汽总厂	7
+shan qu lin chang	山区林场	7
+shan shan long	鄯善龙	7
+shan tou gu jiao xiang wen	山头鼓角相闻	7
+shan yan xiang	山岩乡	7
+shan zha ye	山楂叶	7
+shan bao zhe bu tuo	善抱者不脱	6
+shan bu you wai lai xi	善不由外来兮	6
+shan cun yin pian	善存银片	6
+shan da da xue	杉达大学	6
+shan hui lu zhuan bu jian jun	山回路转不见君	6
+shan jia fen	善家坟	6
+shan ling cun	山岭村	6
+shan mei	汕美	6
+shan shui fang zhou	山水方舟	6
+shan xia jing wu	山下敬吾	6
+shan yang chong	山羊冲	6
+shan ying xie yang tian jie shui	山映斜阳天接水	6
+shan you mu xi mu you zhi	山有木兮木有枝	6
+shan yu jian	山语间	6
+shan zha liang cha	山楂凉茶	6
+shan zhai	善斋	6
+shan zhong xiang	山中乡	6
+shan chang shui kuo zhi he chu	山长水阔知何处	5
+shan da nan men	山大南门	5
+shan dong wei da	山东威达	5
+shan ge cun	山格村	5
+shan kou deng	山口登	5
+shan kou zhi zi	山口智子	5
+shan nan shan bei xue qing	山南山北雪晴	5
+shan se you wu zhong	山色有无中	5
+shan sui ping ye jin	山随平野尽	5
+shan tou xie zhao que xiang ying	山头斜照却相迎	5
+shan xi dao	山西道	5
+shan yao ji yu dou fu tang	山药鲫鱼豆腐汤	5
+shan yi	善益	5
+shan zhong yi ye yu	山中一夜雨	5
+shan ci gu	山慈姑	4
+shan dan nong chang	山丹农场	4
+shan dong kuang ji	山东矿机	4
+shan dong zao zhuang shi yi cheng qu	山东枣庄市峄城区	4
+shan hu qi shi wei wan	珊瑚七十味丸	4
+shan hua hong zi shu gao di	山花红紫树高低	4
+shan hua ru xiu cao ru yin	山花如绣草如茵	4
+shan li tang	山梨糖	4
+shan liao	山寮	4
+shan ling xiang	杉岭乡	4
+shan mai dong	山麦冬	4
+shan nai fen	山柰酚	4
+shan ping cun	山坪村	4
+shan qing hua yu ran	山青花欲燃	4
+shan shi mei feng ju	山是眉峰聚	4
+shan si hong yi	山寺宏一	4
+shan xia cun	山霞村	4
+shan xia cun	山峡村	4
+shan xian cun	善贤村	4
+shan xing yi jiu zhen han liu	山形依旧枕寒流	4
+shan yang jun	山阳郡	4
+shan yao zhen	山腰镇	4
+shan zhu	善住	4
+shan zi ya	扇子崖	4
+shan ben sa fu	山本萨夫	3
+shan cheng hong	山城宏	3
+shan chuan qi qi ceng zhong ci	山川奇气曾钟此	3
+shan dong bei lu	山东北路	3
+shan dong lu li jiao qiao	山东路立交桥	3
+shan er cun	山二村	3
+shan feng lin chang	山峰林场	3
+shan gan xiang	善感乡	3
+shan ge zhen	山阁镇	3
+shan gu jie gu mu tian niu	山谷接骨木天牛	3
+shan he biao li tong guan lu	山河表里潼关路	3
+shan huang lin chang	山黄林场	3
+shan lao hu tong	山老胡同	3
+shan lin yu cheng shi	山林与城市	3
+shan long	山陇	3
+shan min cun	山民村	3
+shan mu shi xue fu dian	山姆士学府店	3
+shan ning	善宁	3
+shan seng nian jiu shi	山僧年九十	3
+shan shan huang ye fei	山山黄叶飞	3
+shan shang ceng ceng tao li hua	山上层层桃李花	3
+shan shen wen zhe gu	山深闻鹧鸪	3
+shan shui han qing hui	山水含清晖	3
+shan tao ren	山桃仁	3
+shan tian gui san sheng	山田规三生	3
+shan tian liang jie	山田凉介	3
+shan tian you	山田优	3
+shan wan wu zhi de shi	善万物之得时	3
+shan xi xiao qu	鳝溪校区	3
+shan xia da lang	山下达郎	3
+shan xiao wang qing kong	山晓望晴空	3
+shan ye hong shi jue sheng chun	山叶红时觉胜春	3
+shan yi cun	善益村	3
+shan yu la tang	鳝鱼辣汤	3
+shan yue bu zhi xin li shi	山月不知心里事	3
+shan zha niu rou gan	山楂牛肉干	3
+shan zhen jue cai	山珍蕨菜	3
+shan zhong xiang song ba	山中相送罢	3
+shan bei	山陂	2
+shan ben gui	山本圭	2
+shan ben yu dian	山本裕典	2
+shan cheng bang bang ji	山城棒棒鸡	2
+shan chuan kong di xing	山川空地形	2
+shan chuang ying	山窗萤	2
+shan dian he xiang	闪电河乡	2
+shan dong long kou shi dong jiang zhen	山东龙口市东江镇	2
+shan dong lu yang	山东鲁阳	2
+shan dong zao zhuang yi cheng	山东枣庄峄城	2
+shan dou cun	山都村	2
+shan hai guan	山海观	2
+shan he hua yuan	山河花园	2
+shan hong jian bi fen lan man	山红涧碧纷烂漫	2
+shan hu yu ding	珊瑚鱼丁	2
+shan ji ling	山鹡鸰	2
+shan jia cun	山家村	2
+shan kou jing	山口晶	2
+shan li zhi	山荔枝	2
+shan mei guo ji	山煤国际	2
+shan mei jie dao	山美街道	2
+shan ren wei bang bai nian	善人为邦百年	2
+shan shan bai lu man	山山白鹭满	2
+shan shi luo que xing jing wei	山石荦确行径微	2
+shan shui hu bin	山水湖滨	2
+shan tan cun	善坛村	2
+shan tao hong hua man shang tou	山桃红花满上头	2
+shan tian xiao zhi	山田孝之	2
+shan tou nan guo si	山头南郭寺	2
+shan wei cui lang yong	山为翠浪涌	2
+shan wei zhong xue	汕尾中学	2
+shan xi cun	善溪村	2
+shan xi nan cun	山西南村	2
+shan xi nong chang	鳝溪农场	2
+shan xi yun xiu yi	剡溪蕴秀异	2
+shan xian lu	善贤路	2
+shan xing shi ri yu zhan yi	山行十日雨沾衣	2
+shan yao wan	山药丸	2
+shan yao zhu dou fu	山药煮豆腐	2
+shan yin cheng zhen	山阴城镇	2
+shan yuan xing li	杉原杏璃	2
+shan zai she qu	山仔社区	2
+shan zha yun juan gao	山楂云卷糕	2
+shan zhen da ye qin	山珍大叶芹	2
+shan zui tou	山嘴头	2
+shan ai xi yang shi	山爱夕阳时	1
+shan bei shan nan lu yu wu	山北山南路欲无	1
+shan ben bai he zi	山本百合子	1
+shan ben kan zhu	山本勘助	1
+shan ben run zi	山本润子	1
+shan ben you mei	杉本有美	1
+shan bi cun	山碧村	1
+shan cha cun	山茶村	1
+shan chang shui yuan zhi he chu	山长水远知何处	1
+shan cheng xie lu xing hua xiang	山城斜路杏花香	1
+shan chuan qi she zhu	山川其舍诸	1
+shan cun chun zi	杉村春子	1
+shan dai wu man kuo	山带乌蛮阔	1
+shan dong e jiao gao	山东阿胶膏	1
+shan dong jiao nan shi yin zhu zhen	山东胶南市隐珠镇	1
+shan dong mo long	山东墨龙	1
+shan dong ping du shi nan cun zhen	山东平度市南村镇	1
+shan dong rong cheng shi hu shan zhen	山东荣成市虎山镇	1
+shan dong rong cheng shi ren he zhen	山东荣成市人和镇	1
+shan dong ru yi	山东如意	1
+shan dou cun	山兜村	1
+shan feng chui kong lin	山风吹空林	1
+shan fu shan zhi jian hua tang	膳夫善治荐华堂	1
+shan gen pan yi dao	山根盘驿道	1
+shan hu jian mu nan	珊瑚间木难	1
+shan hu jiang	珊瑚姜	1
+shan hu ying lv shui	珊瑚映绿水	1
+shan hua kai yu ran	山花开欲然	1
+shan hua luo jin shan zhang zai	山花落尽山长在	1
+shan hua ru xiu jia	山花如绣颊	1
+shan hun sai ri xie	山昏塞日斜	1
+shan ji zhao ying kong zi ai	山鸡照影空自爱	1
+shan jiang xiang	山江乡	1
+shan ju zi zhen	山咀子镇	1
+shan kong ba qi mie	山空霸气灭	1
+shan kong song zi luo	山空松子落	1
+shan kou li hui	山口理惠	1
+shan kou sheng ping	山口胜平	1
+shan kui kao niu pai	山葵烤牛排	1
+shan li feng guang yi ke lian	山里风光亦可怜	1
+shan lin er shi nian	山林二十年	1
+shan lin ji ru sao	山林迹如扫	1
+shan ling tou	山岭头	1
+shan lv cha jiang ya pian	山绿茶降压片	1
+shan mao ju jian guo	山毛榉坚果	1
+shan mei jiao nang	山玫胶囊	1
+shan ming ting yuan chou	山暝听猿愁	1
+shan nei ling lan	山内铃兰	1
+shan niu mao zhan	山牛毛毡	1
+shan peng	山蓬	1
+shan ping cun	珊屏村	1
+shan qi he jia nai	山崎和佳奈	1
+shan qi zhen you mei	山崎真由美	1
+shan quan cun wei	山泉村委	1
+shan ran xiu mei xin lv	山染修眉新绿	1
+shan ru bi lang fan jiang qu	山如碧浪翻江去	1
+shan ru cui lang jin dong qing	山如翠浪尽东倾	1
+shan shan ji zhang	杉山纪彰	1
+shan shang you yi ta	山上有遗塔	1
+shan shang zhang song shan xia shui	山上长松山下水	1
+shan shui kong liu shan zi xian	山水空流山自闲	1
+shan si gui lai wen hao yu	山寺归来闻好语	1
+shan tan	山坛	1
+shan tian mei sui	山田美穗	1
+shan tian xin fu	山田信夫	1
+shan tian zhi he	杉田智和	1
+shan tou dian cun	山头店村	1
+shan tou she	山头社	1
+shan tui gu fen	山推股份	1
+shan tui qi suo wei er yi yi	善推其所为而已矣	1
+shan xi ao	山西岙	1
+shan xi chai you ji chang	陕西柴油机厂	1
+shan xi chang an	陕西长安	1
+shan xi hou leng she	山溪后棱蛇	1
+shan xi jin ye	陕西金叶	1
+shan xi yu xian nan lou zhen	山西盂县南娄镇	1
+shan xi yun gang shi ku	山西云岗石窟	1
+shan xia lin chang	山下林场	1
+shan xian chang jing	山县昌景	1
+shan xian hao yue lai	山衔好月来	1
+shan xie dong yang	山胁东洋	1
+shan xing liu qi li	山行六七里	1
+shan xing wu zhe ji	善行无辙迹	1
+shan xu feng luo shi	山虚风落石	1
+shan ya cun	山雅村	1
+shan yao cun	山腰村	1
+shan yao tian tang	山药甜汤	1
+shan yao ye feng	山药叶蜂	1
+shan yao zheng ji yu	山药蒸鲫鱼	1
+shan yi chuan ci ming	山亦传此名	1
+shan yin cheng	山阴城	1
+shan yin dao shi ru xiang jian	山阴道士如相见	1
+shan ying bao shi yin song zhi	山樱抱石荫松枝	1
+shan yu zhu mo	鳝鱼煮馍	1
+shan yuan tian gao yan shui han	山远天高烟水寒	1
+shan yuan xi lu gao	山园细路高	1
+shan yue sui ren gui	山月随人归	1
+shan yue zhao tan qin	山月照弹琴	1
+shan zai li	山仔里	1
+shan zha chong ji	山楂冲剂	1
+shan zha diao zhong wan	山楂调中丸	1
+shan zha nei jin jiao nang	山楂内金胶囊	1
+shan zhong ruo wen lian zhou shi	剡中若问连州事	1
+shan zhong wu suo you	山中无所有	1
+shan zhong xi jing guan chao jin	山中习静观朝槿	1
+shan zhong you liu shui	山中有流水	1
+shan zhou ling	山洲岭	1
+shan zhu hu	山猪湖	1
+shan zi kuan dun chun	山字宽盾蝽	1
+shan zi xia	山子下	1
+shan ban yi li mang chun	扇斑异丽盲蝽	0
+shan bao shi liu cha wei tian niu	山保氏瘤叉尾天牛	0
+shan cao feng kou jia	山槽缝叩甲	0
+shan cha hua jie ke chong	山茶花介壳虫	0
+shan cha hua xiu bi shi	山茶花锈壁虱	0
+shan cun hua xian luo	山村花仙螺	0
+shan di bai yan die	山地白眼蝶	0
+shan di gu nong die	山地谷弄蝶	0
+shan di qian yi zhang chun	山地浅缢长蝽	0
+shan dian fei dan luo	闪电飞弹螺	0
+shan dian wo luo	閃電渦螺	0
+shan fan lang nu ye e	杉繁郎奴夜蛾	0
+shan fei xia jia ji ying	善飞狭颊寄蝇	0
+shan gan xiao chi zhou e	陕甘肖齿舟蛾	0
+shan guang ju ha	闪光桔蛤	0
+shan guang mei deng e	闪光玫灯蛾	0
+shan guang tuo feng luo	闪光驼峰螺	0
+shan guang xin jian que diao	闪光新箭雀鲷	0
+shan he tao ke ya	山核桃刻蚜	0
+shan hu jiao mao mao chong	山胡椒毛毛虫	0
+shan huang die	山黄蝶	0
+shan lan hong dian chun piao chong	闪蓝红点唇瓢虫	0
+shan long yan ying ban e	山龙眼萤斑蛾	0
+shan lv gu	山驴骨	0
+shan mao hua wo niu	山帽华蜗牛	0
+shan mao ju zhang chi juan e	山毛榉长翅卷蛾	0
+shan mao yan bao bei	山帽眼宝贝	0
+shan mei cao wan dao feng huang luo	山莓草弯刀凤凰螺	0
+shan mu mang chun	山木盲蝽	0
+shan wei du juan	扇尾杜鹃	0
+shan wei jia ding shi ying wu	扇尾贾丁氏鹦鹉	0
+shan wei lu ying	扇尾芦莺	0
+shan wei zhuo guo niao	扇尾啄果鸟	0
+shan xiao weng	山啸鹟	0
+shan xie wei cao wu	山楔尾草鹀	0
+shan xing jin yu	山形金鱼	0
+shan xing tai lei deng yu	扇形泰勒灯鱼	0
+shan yin wen ci e	闪银纹刺蛾	0
+shan ying ge	山鹦哥	0
+shan ying tao hei liu ya	山樱桃黑瘤蚜	0
+shan zha ban e	山楂斑蛾	0
+shan zha hong ye man	山楂红叶螨	0
+shan zha hua xiang jia	山楂花象甲	0
+shan zha jin huan hu feng	山楂金环胡蜂	0
+shan zha ka mu shi	山楂喀木虱	0
+shan zha tian mu mao chong	山楂天幕毛虫	0
+shan zha zhang xiao du	山楂长小蠹	0
+shan zhong bo wen she mu die	山中波纹蛇目蝶	0

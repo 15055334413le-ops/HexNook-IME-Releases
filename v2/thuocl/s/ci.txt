@@ -1,0 +1,306 @@
+ci qi bi fu	此起彼伏	13494
+ci shang	刺伤	9805
+ci ba	糍粑	7207
+ci tong	刺痛	6497
+ci wu jia	刺五加	6393
+ci can	刺参	5577
+ci tang	祠堂	5513
+ci yao ze ren	次要责任	5458
+ci pan fen qu	磁盘分区	4527
+ci pan huan cun	磁盘缓存	3320
+ci yue	次月	3190
+ci jiu ying xin	辞旧迎新	3187
+ci fa	词法	2721
+ci ji su	雌激素	2673
+ci pin	词频	2555
+ci fa fen xi	词法分析	2510
+ci dai li	次代理	2501
+ci dao	磁道	2293
+ci xi tai hou	慈禧太后	2278
+ci pan guan li	磁盘管理	2082
+ci pan zhen lie	磁盘阵列	1955
+ci pan qu dong qi	磁盘驱动器	1713
+ci li	慈利	1658
+ci mei gui	刺玫瑰	1637
+ci qi kou	磁器口	1551
+ci xi shi	慈溪市	1290
+ci xing	词性	1246
+ci xi	慈禧	1074
+ci pin tong ji	词频统计	1027
+ci xing biao zhu	词性标注	994
+ci ka	磁卡	950
+ci xiang liang	词向量	905
+ci shi	磁石	856
+ci fa fen xi qi	词法分析器	770
+ci xiao sheng cheng shu	次小生成树	740
+ci ya	瓷牙	684
+ci pan jing xiang	磁盘镜像	679
+ci pan kong zhi qi	磁盘控制器	616
+ci zhi quan	辞职权	527
+ci mei shan mu	慈眉善目	492
+ci di wu yin san bai liang	此地无银三百两	474
+ci lei	词类	439
+ci qi bi luo	此起彼落	387
+ci dao jian hong	刺刀见红	351
+ci gong zhen cheng xiang	磁共振成像	332
+ci duan lu	次短路	305
+ci yao	瓷窑	302
+ci bu da yi	词不达意	278
+ci yun si	慈云寺	262
+ci pan gao su huan cun	磁盘高速缓存	240
+ci qu	次渠	212
+ci yi shi bi yi shi	此一时彼一时	204
+ci yuan	词元	199
+ci dai qu dong qi	磁带驱动器	195
+ci mu shou zhong xian	慈母手中线	193
+ci dai ku	磁带库	186
+ci pan rong yu zhen lie	磁盘冗余阵列	183
+ci tiao	磁条	178
+ci yun si qiao	慈云寺桥	178
+ci lv suan na	次氯酸钠	177
+ci chang	瓷厂	164
+ci wei ge	茨威格	158
+ci ji fan ying	刺激反应	153
+ci tong	刺桐	152
+ci yun	词云	148
+ci yao	磁窑	145
+ci fu dian ji	伺服电机	144
+ci chuang	刺创	134
+ci dai gui dang	磁带归档	131
+ci er chun	雌二醇	125
+ci shi wu sheng sheng you sheng	此时无声胜有声	116
+ci pan jie kou	磁盘接口	114
+ci fa fan wei	词法范围	105
+ci fu bi qi	此伏彼起	104
+ci pan cao zuo xi tong	磁盘操作系统	101
+ci feng bu ke zhang	此风不可长	96
+ci zao	磁灶	93
+ci shi gu nan quan	此事古难全	89
+ci su	词素	85
+ci zhen	刺针	78
+ci zhi wei da zhang fu	此之谓大丈夫	74
+ci can ke	刺参科	72
+ci ji su shou ti	雌激素受体	67
+ci qing ke dai cheng zhui yi	此情可待成追忆	60
+ci xin an chu shi wu xiang	此心安处是吾乡	57
+ci lei biao zhu	词类标注	53
+ci bei she	慈悲社	49
+ci ji ji	刺激剂	49
+ci hen mian mian wu jue qi	此恨绵绵无绝期	48
+ci qi kou	瓷器口	48
+ci di kong yu huang he lou	此地空余黄鹤楼	45
+ci qie fen	词切分	44
+ci yu qie fen	词语切分	42
+ci hui fen xi	词汇分析	40
+ci wei he	刺猬河	39
+ci gu	磁鼓	37
+ci wu zui xiang si	此物最相思	37
+ci shou si qiao	慈寿寺桥	36
+ci mao	刺毛	35
+ci qu zhi ying tian shang you	此曲只应天上有	35
+ci pan ke long	磁盘克隆	34
+ci wu jia zhu she ye	刺五加注射液	34
+ci ge zhuang	磁各庄	33
+ci long ya	刺龙牙	33
+ci tie mian	瓷贴面	33
+ci guang	慈光	31
+ci wei bao	刺猬包	31
+ci hui xue	词汇学	30
+ci ji fu yi wu	次给付义务	29
+ci pan shi pei qi	磁盘适配器	25
+ci mi yao	次密钥	24
+ci tang cun	祠堂村	24
+ci zhong you zhen yi	此中有真意	23
+ci hui tang jie	慈惠堂街	22
+ci tong	雌酮	21
+ci xi xian	慈溪县	20
+ci chang gan ying qi	磁场感应器	19
+ci tang shang	祠堂上	19
+ci pin fen bu	词频分布	18
+ci xi bao	刺细胞	17
+ci hua kai jin geng wu hua	此花开尽更无花	16
+ci jia wu	磁家务	16
+ci ge zhuang qiao	磁各庄桥	14
+ci ji su ti dai zhi liao	雌激素替代治疗	14
+ci san chun	雌三醇	14
+ci ji su	刺激素	13
+ci qing wu ji ke xiao chu	此情无计可消除	13
+ci qu quan tai zhao jiu bu	此去泉台招旧部	13
+ci sheng ci ye bu zhang hao	此生此夜不长好	13
+ci tong gong yuan	刺桐公园	13
+ci wu tou jian	次乌头碱	13
+ci di you chong shan jun ling	此地有崇山峻岭	12
+ci bei gu shan xia	次北固山下	10
+ci si nang	刺丝囊	10
+ci qu zhen	次渠镇	9
+ci gu tang jie dao	茨菇塘街道	8
+ci liao	次髎	8
+ci ling jiao	刺菱角	8
+ci tu	刺突	8
+ci di yi wei bie	此地一为别	7
+ci kou xiang	慈口乡	7
+ci xian hu	赐闲湖	7
+ci xiao yuan	慈孝园	7
+ci he fa yu	雌核发育	6
+ci lao er	刺佬儿	6
+ci po qing tian e wei can	刺破青天锷未残	6
+ci qi ku hu tong	磁器库胡同	6
+ci shan er jie	磁山二街	6
+ci wu jia pian	刺五加片	6
+ci di you qian jin	此抵有千金	5
+ci hou han suo yi qing tui ye	此后汉所以倾颓也	5
+ci huang piao ling	次黄嘌呤	5
+ci tang xia	祠堂下	5
+ci wu zhen jue lun	此物真绝伦	5
+ci xi xiao wo tou	慈禧小窝头	5
+ci yi yi shi fei	此亦一是非	5
+ci tu yan mi li	雌兔眼迷离	4
+ci wei pi	刺猬皮	4
+ci xing jiao jie qi	雌性交接器	4
+ci ye qu zhong wen zhe liu	此夜曲中闻折柳	4
+ci yun shi jiao	刺云实胶	4
+ci zhi chang ji huo	此志常觊豁	4
+ci zhu wan	磁朱丸	4
+ci di ji ping tian	此地即平天	3
+ci en yan	赐恩岩	3
+ci hui hu tong	慈慧胡同	3
+ci lin zhen	慈林镇	3
+ci lv shou er shi ren ye	此率兽而食人也	3
+ci ming	慈明	3
+ci shen he shi shi ren wei	此身合是诗人未	3
+ci shi xiang wang bu xiang wen	此时相望不相闻	3
+ci shi zhan bai tu	此时瞻白兔	3
+ci tan suan bi	次碳酸铋	3
+ci wu jia nao ling ye	刺五加脑灵液	3
+ci wu xiang	茨巫乡	3
+ci yi	螆蛦	3
+ci zhong	磁钟	3
+ci da xiang	茨达乡	2
+ci di dong gui nian	此地动归念	2
+ci gai yu ke	刺盖鱼科	2
+ci hang dao	慈航道	2
+ci hen he shi yi	此恨何时已	2
+ci ji xiao fei zhe	次级消费者	2
+ci jiang ruo bian zuo chun jiu	此江若变作春酒	2
+ci ma fei fan ma	此马非凡马	2
+ci qu lu kou	次渠路口	2
+ci shen sui zai kan jing	此身虽在堪惊	2
+ci shui ji shi xiu	此水几时休	2
+ci tong xin cun	刺桐新村	2
+ci wu yang xin kou fu ye	刺乌养心口服液	2
+ci xian han suo yi xing long ye	此先汉所以兴隆也	2
+ci xiang duo bao yu	此乡多宝玉	2
+ci xin dao chu you ran	此心到处悠然	2
+ci xin gu	次新股	2
+ci xiong jian ti	雌雄间体	2
+ci yun zhang zhi fu yang hua ci	次韵章质夫杨花词	2
+ci zhi wei shi qi ben xin	此之谓失其本心	2
+ci zhi wei wu hua	此之谓物化	2
+ci zhong you shi liang xin zhi	词中有誓两心知	2
+ci ba xiang	慈坝乡	1
+ci bi xiang	茈碧乡	1
+ci bie bu xiao hun	此别不销魂	1
+ci bie he shi yu	此别何时遇	1
+ci ci ting zhe kan chou jue	此辞听者堪愁绝	1
+ci cun shen zhi dao ye	此存身之道也	1
+ci dai wei ji	次贷危机	1
+ci dao jin ren qi ru tu	此道今人弃如土	1
+ci di ceng wen yong huo gong	此地曾闻用火攻	1
+ci di qi wu feng yu	次第岂无风雨	1
+ci di yi chang liu	此地亦尝留	1
+ci er chun tie pian	雌二醇贴片	1
+ci er shan	赐儿山	1
+ci fu wu li jie	此妇无礼节	1
+ci gu qi li ye	此固其理也	1
+ci hua bu yu qun hua bi	此花不与群花比	1
+ci ke you ling ying shi wo	词客有灵应识我	1
+ci lu shu zhen	鴜鹭树镇	1
+ci ma zhi zhen xing ye	此马之真性也	1
+ci qi da lve ye	此其大略也	1
+ci qi hao zong heng	词气浩纵横	1
+ci qi zhi bu zai xiao	此其志不在小	1
+ci qian er bai wan	赐钱二百万	1
+ci qing bu ke dao	此情不可道	1
+ci qing ke dai wan zhui yi	此情可待万追忆	1
+ci qu sheng ming bu yan di	此去声名不厌低	1
+ci ren jie yi you suo yu jie	此人皆意有所郁结	1
+ci ri ci shi ren gong de	此日此时人共得	1
+ci ri xiang feng si jiu ri	此日相逢思旧日	1
+ci ri yi jia tong chu you	此日一家同出游	1
+ci shan bu ren ting	辞山不忍听	1
+ci shan yi jie	磁山一街	1
+ci shen piao bo ku xi dong	此身飘泊苦西东	1
+ci shen xing zuo ji shan tu	此身行作稽山土	1
+ci sheng tian ming geng he yi	此生天命更何疑	1
+ci sheng yi jue dou wu shi	此生已觉都无事	1
+ci sheng zi xiao gong ming wan	此生自笑功名晚	1
+ci shi ci ye nan wei qing	此时此夜难为情	1
+ci shi er qian shi	刺史二千石	1
+ci shi li zai zui gao shan	此时立在最高山	1
+ci shi lin liu qian cui wei	刺史临流褰翠帏	1
+ci shi zhi you ye	此势之有也	1
+ci tang qiao	祠堂桥	1
+ci tian zi qi ye	此天子气也	1
+ci wang qin zhi xu er	此亡秦之续耳	1
+ci wei fang chui shui zao	刺尾纺锤水蚤	1
+ci weng bai tou zhen ke lian	此翁白头真可怜	1
+ci wu jia ke li	刺五加颗粒	1
+ci wu jia nao ling jiao nang	刺五加脑灵胶囊	1
+ci wu jia tang jiang	刺五加糖浆	1
+ci wu you lv jin hua ran	刺梧犹绿槿花然	1
+ci xing bu wei lu yu kuai	此行不为鲈鱼鲙	1
+ci xiong kong zhong ming	雌雄空中鸣	1
+ci yang shen zhi dao ye	此养神之道也	1
+ci yao te zhi	次要特质	1
+ci ye wen yi yi zhi er	赐也闻一以知二	1
+ci yi fei zhi zhi ye	此亦飞之至也	1
+ci yi tao qian jie	此意陶潜解	1
+ci yin jie dao	慈音街道	1
+ci ying zi xiang	茨营子乡	1
+ci you la mei chan lao jia	此有蜡梅禅老家	1
+ci zao gu yao zhi	磁灶古窑址	1
+ci ze gua ren zhi zui ye	此则寡人之罪也	1
+ci zhe yin ci jue zhi	伺者因此觉知	1
+ci zhi wei ben gen	此之谓本根	1
+ci zhong ren yu yun	此中人语云	1
+ci zhou du jian quan	此州独见全	1
+ci bai huang die	雌白黄蝶	0
+ci cao	蠀螬	0
+ci duan quan luo	刺短拳螺	0
+ci fan she pian suo luo	次反射骗梭螺	0
+ci fen chui er chi e	次粉垂耳尺蛾	0
+ci fu nang hai long	刺腹囊海龙	0
+ci gai hou zhu diao	刺盖后竺鲷	0
+ci gai ni hua yi	刺盖拟花鮨	0
+ci gai tang li	刺盖塘鱧	0
+ci gai xia hu yu	刺盖鰕虎鱼	0
+ci hai si luo	次海蛳螺	0
+ci hou zi gu luo	刺猴子骨螺	0
+ci huai xin he da zha xie	茨淮新河大闸蟹	0
+ci jia ban chang	刺加半鲿	0
+ci jia chui mi niao	刺颊垂蜜鸟	0
+ci jin ji ying	次金棘蝇	0
+ci le xiao fu ying	刺肋小浮萤	0
+ci mao ji xia hu yu	刺毛姬鰕虎鱼	0
+ci mao ke xie	刺毛壳蟹	0
+ci mao wei juan ye mian ya	次毛伪卷叶绵蚜	0
+ci mao zhao ha	刺猫爪蛤	0
+ci mu hu jing xie	慈母互敬蟹	0
+ci ou bian	刺欧鳊	0
+ci shou duan jiang xie	刺手短浆蟹	0
+ci tiao lu zhong	刺条露螽	0
+ci wei hua tian niu shu	刺尾花天牛属	0
+ci wei hua xian luo	刺蝟花仙螺	0
+ci wei ji bei shu	刺围脊贝属	0
+ci wei lang kang xia	刺尾狼糠虾	0
+ci wei ni fu ying	刺尾拟浮萤	0
+ci wei xie yuan lu zhong	刺尾斜缘露螽	0
+ci wen mo tou xue	刺吻膜头鳕	0
+ci xiu bi luo	刺繡筆螺	0
+ci yao nian	刺耀鲶	0
+ci you dang ji ying	次游荡棘蝇	0
+ci yuan da bao chi tian niu	刺缘大薄翅天牛	0
+ci yuan ding xie	刺圆顶蟹	0
+ci zhi wei gou xia	刺指尾钩虾	0
+ci zhi xiao xiang shou xie	刺指小相手蟹	0
+ci zu fang shi xia	刺足仿匙虾	0

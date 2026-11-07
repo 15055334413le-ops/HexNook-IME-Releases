@@ -1,0 +1,611 @@
+di chu	抵触	251142
+di yu	低于	213321
+di xia	地下	117932
+di gui	递归	91824
+di jia	低价	51915
+di fang fa	地方法	45015
+di mi	低迷	40781
+di fang xing fa gui	地方性法规	31503
+di zhi kong jian	地址空间	20472
+di zhi lan	地址栏	17657
+di chang	抵偿	17433
+di shui ju	地税局	16636
+di yi shen	第一审	15727
+di san fang ku	第三方库	14715
+di gui diao yong	递归调用	13748
+di tui	递推	13348
+di wei	低位	12383
+di ya	低压	10546
+di fang fa gui	地方法规	10522
+di kang li	抵抗力	9581
+di ya pin	抵押品	9270
+di yi chan ye	第一产业	9204
+di xiao	抵消	8724
+di er ren min yi yuan	第二人民医院	8348
+di zhen ju	地震局	7988
+di li wei zhi	地理位置	7655
+di ceng shi xian	底层实现	7583
+di yi yi yuan	第一医院	7066
+di yi cai jing ri bao	第一财经日报	5814
+di yi ci qi dong	第一次启动	5754
+di gui han shu	递归函数	5664
+di ou he	低耦合	5466
+di er yi yuan	第二医院	5275
+di gui suan fa	递归算法	5139
+di gui shi xian	递归实现	5015
+di san fang ying yong	第三方应用	4433
+di ya wu	抵押物	3941
+di dian	低点	3793
+di gong hao	低功耗	3714
+di tan	地坛	3710
+di zhi ying she	地址映射	3633
+di yi zhong xue	第一中学	3624
+di yi qi che ji tuan gong si	第一汽车集团公司	3515
+di tui gong shi	递推公式	3379
+di san fang lei ku	第三方类库	3286
+di san fang kuang jia	第三方框架	3205
+di yue guo shi	缔约过失	3006
+di san fang gong ju	第三方工具	2919
+di ya ji ou	帝亚吉欧	2860
+di gui fang fa	递归方法	2785
+di ju guo tang	低聚果糖	2536
+di san yi yuan	第三医院	2522
+di niu	低扭	2485
+di mi te fa ze	迪米特法则	2404
+di ya wu deng ji	抵押物登记	2380
+di tui guan xi	递推关系	2370
+di yue guo shi ze ren	缔约过失责任	2322
+di xue tang	低血糖	2274
+di gui bian li	递归遍历	2267
+di jiao	抵缴	2218
+di san fang bao	第三方包	2136
+di zhi chuan di	地址传递	2063
+di san fang cha jian	第三方插件	2017
+di zhi zong xian	地址总线	2005
+di yi shun xu ji cheng ren	第一顺序继承人	1820
+di guang ren xi	地广人稀	1721
+di yi dai du sheng zi nv	第一代独生子女	1675
+di zhi jie xi xie yi	地址解析协议	1662
+di li xin xi	地理信息	1636
+di si ren min yi yuan	第四人民医院	1618
+di san fang mo kuai	第三方模块	1586
+di er zhong xue	第二中学	1475
+di yi fan shi	第一范式	1455
+di ceng qu dong	底层驱动	1441
+di er fan shi	第二范式	1439
+di zhi jie xi	地址解析	1341
+di yi shen cheng xu	第一审程序	1314
+di bie	地鳖	1310
+di san xian	地三鲜	1307
+di gui ji suan	递归计算	1240
+di tong lv bo qi	低通滤波器	1236
+di san fang ping tai	第三方平台	1231
+di chan quan shu deng ji	地产权属登记	1214
+di gui cha xun	递归查询	1207
+di ji qu wei	低级趣味	1202
+di san fang fu wu	第三方服务	1161
+di shui bu lou	滴水不漏	1154
+di jin mian fen	低筋面粉	1134
+di ao	迪奥	1100
+di yi shun wei ji cheng ren	第一顺位继承人	1054
+di fang bing	地方病	1029
+di si zhong xue	第四中学	1029
+di qing zhou	迪庆州	987
+di zhi ji cun qi	地址寄存器	983
+di san fang deng lu	第三方登录	982
+di ya quan deng ji	抵押权登记	978
+di tu ying yong	地图应用	960
+di san fang zhi fu	第三方支付	948
+di zeng zi xu lie	递增子序列	942
+di er wai guo yu xue yuan	第二外国语学院	935
+di kai	低开	934
+di li bian ma	地理编码	934
+di da wu bo	地大物博	924
+di xue ya	低血压	883
+di san fang kai yuan ku	第三方开源库	870
+di ceng kai fa	底层开发	847
+di re	低热	841
+di san fang kong jian	第三方控件	838
+di an men	地安门	756
+di ren jie	狄仁杰	753
+di geng si	狄更斯	741
+di li ding wei	地理定位	741
+di shui chuan shi	滴水穿石	721
+di wu yi yuan	第五医院	702
+di li xin xi xi tong	地理信息系统	697
+di ping	地坪	682
+di li xue	地理学	661
+di shui cheng bing	滴水成冰	654
+di yan	递延	645
+di ji yu yan	低级语言	638
+di tu ding wei	地图定位	637
+di san fang lei	第三方类	603
+di san fang jie kou	第三方接口	587
+di yi chun	第一春	576
+di li fen bu	地理分布	566
+di yi xiang you	第一箱油	551
+di zhi dui	地质队	548
+di zhu zhi yi	地主之谊	516
+di bu cai dan	底部菜单	505
+di zhi bian huan	地址变换	505
+di ceng yu yan	底层语言	504
+di yi qiao	第一桥	495
+di bu dao hang lan	底部导航栏	486
+di ceng zhi shi	底层知识	483
+di gong hao lan ya	低功耗蓝牙	472
+di di da che	滴滴打车	468
+di tui qiu jie	递推求解	466
+di ting	迪厅	465
+di zhi zi duan	地址字段	461
+di fang xing zheng ji guan	地方行政机关	437
+di san fang zi yuan	第三方资源	426
+di wo bao	地窝堡	426
+di san fang fen xiang	第三方分享	406
+di san zhong xue	第三中学	379
+di zhi da dui	地质大队	368
+di tu kai fa	地图开发	361
+di yi jian yu	第一监狱	359
+di tong ji	地统计	357
+di bu dao hang	底部导航	356
+di yang	低氧	336
+di er xing zheng	第二性征	332
+di kou shui kuan fa piao zui	抵扣税款发票罪	330
+di tui suan fa	递推算法	325
+di yi guo ji	第一国际	311
+di ka er ji	笛卡儿积	307
+di liang	地量	302
+di san fang deng lu	第三方登陆	299
+di xia dao	地下道	299
+di sheng xia qi	低声下气	296
+di wang da sha	地王大厦	296
+di zhi yan ma	地址掩码	288
+di tu gong ju	地图工具	284
+di zhi ge shi	地址格式	282
+di long	地龙	277
+di sai mi song	地塞米松	274
+di si fan shi	第四范式	263
+di pan ge yin	底盘隔音	255
+di san xia si	低三下四	252
+di zhi guan li	地址管理	252
+di san ren qin hai zhai quan	第三人侵害债权	246
+di ti zhong er	低体重儿	243
+di huang	地黄	242
+di mi du zhi dan bai	低密度脂蛋白	242
+di fang zhi gong zuo tiao li	地方志工作条例	220
+di fang zheng fu quan li	地方政府权力	215
+di lao tian huang	地老天荒	209
+di tu tou ying	地图投影	187
+di chun pi jiu	低醇啤酒	184
+di wu fan shi	第五范式	179
+di zhong hai shi ying	地中海实蝇	176
+di bu cai dan lan	底部菜单栏	170
+di jiu tian chang	地久天长	167
+di yan yin shi	低盐饮食	165
+di qi da dao	第七大道	163
+di di	迪迪	161
+di san jian yu	第三监狱	161
+di zhu zhong liu	砥柱中流	160
+di ya lv	抵押率	159
+di gu	骶骨	157
+di tou si gu xiang	低头思故乡	155
+di gui fen zhi	递归分治	154
+di san fang ji cheng	第三方集成	151
+di long	狄龙	146
+di ba yin	蒂巴因	145
+di ban ya tiao	地板压条	144
+di ya fang kuan	抵押放款	140
+di jia	翟家	139
+di hua	迪化	134
+di jia xue zheng	低钾血症	133
+di qi dong wu	底栖动物	133
+di zhong wo gua	敌众我寡	131
+di zhi ju zhen	低秩矩阵	130
+di gua bing	地瓜饼	128
+di bang	地邦	126
+di yin qian chang	低吟浅唱	125
+di si jian yu	第四监狱	124
+di gao xin	地高辛	122
+di chong	滴虫	121
+di mei shun yan	低眉顺眼	119
+di yue quan	缔约权	119
+di cao long	敌草隆	117
+di cun	狄村	117
+di fang shen pan ting	地方审判厅	114
+di tan chang	地毯厂	113
+di san fang ku guan li	第三方库管理	112
+di si dai yu yan	第四代语言	109
+di fang zi zhi zhi du	地方自治制度	102
+di qi yi yuan	第七医院	101
+di fang guo jia ji gou	地方国家机构	99
+di ka er	笛卡尔	99
+di wang jiang xiang	帝王将相	94
+di li bai er	迪里拜尔	93
+di ke niu zai	迪克牛仔	92
+di de luo	狄德罗	90
+di nuo	迪诺	90
+di fang fen quan zhi	地方分权制	88
+di tu qie pian	地图切片	88
+di fang li fa yan jiu	地方立法研究	87
+di jie tiao yue cheng xu fa	缔结条约程序法	87
+di fang xing fu zhong du	地方性氟中毒	84
+di yi cai jing	第一财经	82
+di san fang ku shi yong	第三方库使用	80
+di sheng xi yu	低声细语	77
+di tui wen ti	递推问题	77
+di xue tang zheng	低血糖症	77
+di chong xing yin dao yan	滴虫性阴道炎	76
+di ling ren jie	地灵人杰	76
+di yi shen xing shi pan jue shu	第一审刑事判决书	76
+di ke si	迪克斯	75
+di yong	低涌	75
+di si gang	第四缸	74
+di gu pi	地骨皮	73
+di ya dan bao zhai quan	抵押担保债券	73
+di du	滴度	69
+di li ren he	地利人和	67
+di fang xing jia zhuang xian zhong	地方性甲状腺肿	66
+di san fang zi ti	第三方字体	66
+di tie xin zhuang zhan	地铁莘庄站	65
+di zhi yi ma qi	地址译码器	65
+di tie ba bao shan zhan	地铁八宝山站	64
+di dong shan yao	地动山摇	63
+di xi pan	地西泮	63
+di zhai	狄寨	63
+di bi ji	滴鼻剂	62
+di jia gu	低价股	62
+di na xue zheng	低钠血症	62
+di san dai yu yan	第三代语言	61
+di tou ha yao	低头哈腰	61
+di xue rong liang	低血容量	61
+di er ci da bian	第二次答辩	60
+di tu zhi tu	地图制图	60
+di fang xing kuai ji fa gui	地方性会计法规	59
+di zhang ji cheng zhi	嫡长继承制	58
+di shan	翟山	57
+di shi fu	第十甫	57
+di yi fu kuan ze ren	第一付款责任	55
+di ban pi	地板皮	54
+di fu zi	地肤子	54
+di gang	荻港	53
+di li bu ru ren he	地利不如人和	53
+di tan xi men	地坛西门	53
+di ya liu suan na	低亚硫酸钠	52
+di zhi	递质	52
+di wang	地网	50
+di ding	滴定	49
+di pu	递铺	46
+di wu	底物	46
+di gai xue zheng	低钙血症	45
+di li chu li fu wu	地理处理服务	45
+di qia guan jie	骶髂关节	45
+di yuan	帝苑	45
+di shui cheng he	滴水成河	43
+di yan ji	滴眼剂	43
+di gao xin pian	地高辛片	42
+di tiao chu	地调处	42
+di er pao bing gong cheng xue yuan	第二炮兵工程学院	40
+di ao xin xue kang jiao nang	地奥心血康胶囊	39
+di xi	低吸	39
+di ao xin xue kang	地奥心血康	38
+di gu gu zhe	骶骨骨折	38
+di hao hua yuan	帝豪花园	38
+di er dai ji suan ji	第二代计算机	37
+di fang xing ke ting bing	地方性克汀病	37
+di si ci xian fa xiu zheng an	第四次宪法修正案	37
+di tie ping guo yuan zhan	地铁苹果园站	37
+di tu dai ma	地图代码	37
+di yu	地榆	37
+di zhui	骶椎	37
+di fu tian fan	地覆天翻	36
+di qing	狄青	36
+di san ren qing chang	第三人清偿	36
+di zhi lan sou suo	地址栏搜索	36
+di ku	帝喾	33
+di zi ru ze xiao	弟子入则孝	33
+di cang	地仓	30
+di wu dai ji suan ji	第五代计算机	30
+di yi chu jiao	第一触角	30
+di an	地安	29
+di fang xing shen zhong du	地方性砷中毒	29
+di kang da dao	迪康大道	28
+di nan	堤南	28
+di xi pan pian	地西泮片	28
+di ji ge shi hua	低级格式化	27
+di er ji kun yi yuan	第二济困医院	26
+di fen zi gan su	低分子肝素	25
+di jun wei kun wan qian zhong	敌军围困万千重	25
+di zu che wang	迪族车网	25
+di er gong mu	第二公墓	24
+di li bai er	迪丽拜尔	24
+di yi dai ji suan ji	第一代计算机	24
+di yi liang ku	第一粮库	24
+di yi mu chang	第一牧场	24
+di er nong chang	第二农场	23
+di fang ren min jian cha yuan	地方人民检察院	23
+di qiu xiang	狄邱乡	23
+di fen nuo zhi	地芬诺酯	22
+di gua tang	地瓜糖	22
+di er dai yu yan	第二代语言	21
+di gua teng	地瓜藤	21
+di fang fen quan zhi du	地方分权制度	20
+di fang suo	堤防所	20
+di si nao shi	第四脑室	20
+di yi dai yu yan	第一代语言	20
+di gui ding li	递归定理	19
+di san zhang xi ti	第三章习题	19
+di ya he tong	抵押合同	19
+di yuan jiu dian	帝苑酒店	18
+di dao	滴道	17
+di gao yang zhi miao yi xi	帝高阳之苗裔兮	17
+di gua guo pu	地瓜果脯	17
+di hao jiu dian	帝豪酒店	17
+di wen bing xiang	低温冰箱	17
+di yuan shi zu zhong	地猿始祖种	17
+di san mo ya	第三磨牙	16
+di si dai ji suan ji	第四代计算机	16
+di xia jia wen	地下家蚊	16
+di zang an	地藏庵	16
+di chan gu	地产股	15
+di gui gu ji	递归估计	15
+di san dai ji suan ji	第三代计算机	15
+di san nao shi	第三脑室	15
+di tan dong men	地坛东门	15
+di tu she	地图舌	15
+di bing zhong qiu dan bai xue zheng	低丙种球蛋白血症	14
+di gui li cheng	递归例程	14
+di jie	地节	14
+di tong bi yan shui	滴通鼻炎水	14
+di wu dai yu yan	第五代语言	14
+di yi nong chang	第一农场	14
+di ya quan zhi du yan jiu	抵押权制度研究	13
+di bei	堤北	12
+di er ji	滴耳剂	12
+di wei zhan sen	迪威詹森	12
+di er shen xing shi pan jue shu	第二审刑事判决书	11
+di li yu wo he you zai	帝力于我何有哉	11
+di qu shi yan lin chang	地区实验林场	11
+di san bo	第三波	11
+di san cun	第三村	11
+di ying wu jiu quan	地应无酒泉	11
+di zhi guo	地指国	11
+di zhi she qu	地质社区	11
+di bai dan bai xue zheng	低白蛋白血症	10
+di ruo bu ai jiu	地若不爱酒	10
+di sai mi song lin suan na	地塞米松磷酸钠	10
+di ding san wei tang san	地丁三味汤散	9
+di er liu zhuo	地尔硫卓	9
+di jia zhuang	翟家庄	9
+di san jia you zhan	第三加油站	9
+di xi pan zhu she ye	地西泮注射液	9
+di zhi gong	地质宫	9
+di zhong hai sha la	地中海沙拉	9
+di er liang ku	第二粮库	8
+di li cun	翟里村	8
+di ya quan ren quan li	抵押权人权利	8
+di beng shan cui zhuang shi si	地崩山摧壮士死	7
+di chang er tong	低常儿童	7
+di dao	狄道	7
+di ding fa	滴定法	7
+di er mao fang chang	第二毛纺厂	7
+di gang cun	荻港村	7
+di hai	荻海	7
+di ji ji	骶棘肌	7
+di ji xiang	抵季乡	7
+di kai bao	迪凯堡	7
+di qia guan jie yan	骶髂关节炎	7
+di si zhi yao chang	第四制药厂	7
+di xin	帝辛	7
+di zhuan ning bi wan	地转凝碧湾	7
+di zi cheng feng xia cui wei	帝子乘风下翠微	7
+di zi fu qi lao	弟子服其劳	7
+di ao si ming pian	地奥司明片	6
+di ban xiao ying	地板效应	6
+di bu rong	地不容	6
+di dan tou dun zhu yue zhan	地胆头炖猪月展	6
+di er gan men	第二肝门	6
+di er qiao	第二桥	6
+di si cun	第四村	6
+di wei bu cuo shang	骶尾部挫伤	6
+di ya quan deng ji zhi du	抵押权登记制度	6
+di zi jiang xi bei zhu	帝子降兮北渚	6
+di ci qi	地磁气	5
+di du hua yuan	帝都花园	5
+di fen zi you xuan tang gan	低分子右旋糖酐	5
+di gua yu	地瓜鱼	5
+di ji xue	地机穴	5
+di li gao	地栗糕	5
+di lv lei ta ding	地氯雷他定	5
+di nuo qian lie su	地诺前列素	5
+di ping	低坪	5
+di sai mi song pian	地塞米松片	5
+di shen ying xiang	第什营乡	5
+di si duo hui	第斯多惠	5
+di xi niao	地犀鸟	5
+di ya zhuan di zheng quan	抵押转递证券	5
+di dan dan	翟丹丹	4
+di er xin hao xi tong	第二信号系统	4
+di er xin shi	第二信使	4
+di fang xing ban zhen shang han	地方性斑疹伤寒	4
+di jin cao	地锦草	4
+di luo xiang	地洛乡	4
+di ping	滴瓶	4
+di sai mi song zhu she ye	地塞米松注射液	4
+di tou xiang an bi	低头向暗壁	4
+di ya xiang	底雅乡	4
+di yi fa lv men hu	第一法律门户	4
+di yi jin ri shi shi guan zhi	第以今日事势观之	4
+di yu huai jiao wan	地榆槐角丸	4
+di yuan shang cheng	帝园商城	4
+di zhi zhi shi dan gao	低脂芝士蛋糕	4
+di zhu ye	地主爷	4
+di ao xin xue kang ruan jiao nang	地奥心血康软胶囊	3
+di bi chong	地必虫	3
+di chong xing niao dao yan	滴虫性尿道炎	3
+di er cai shi chang	第二菜市场	3
+di er tai	狄尔泰	3
+di fang bing xue	地方病学	3
+di fen ni duo	地芬尼多	3
+di gang	低港	3
+di ge	底阁	3
+di hao	翟灏	3
+di kou jie dao	堤口街道	3
+di mo xiang	地莫乡	3
+di se su xing pin xue	低色素性贫血	3
+di si dian qi chang	第四电器厂	3
+di tou yi bai tu yang shuo	低头一拜屠羊说	3
+di xiang bu ke qi	帝乡不可期	3
+di ya shi jian bing	抵押式兼并	3
+di yan yong li fu ping	滴眼用利福平	3
+di yi	帝乙	3
+di yi xiao e	第一小颚	3
+di zhen xing zheng zhi fa gui ding	地震行政执法规定	3
+di ao si ming	地奥司明	2
+di ba zuo	地巴唑	2
+di bing	帝昺	2
+di chu di ya quan	涤除抵押权	2
+di ding qu xian	滴定曲线	2
+di dong san he tie bi yao	地动三河铁臂摇	2
+di dong yin he xing ying lian	螮蝀饮河形影联	2
+di du ming li chang	帝都名利场	2
+di er chang hua shu niu da lou	第二长话枢纽大楼	2
+di er chu jiao	第二触角	2
+di er miao pu	第二苗圃	2
+di feng pi	地枫皮	2
+di hong mei su chang rong pian	地红霉素肠溶片	2
+di hu	地湖	2
+di jing wu xian chen	地静无纤尘	2
+di long zhu she ye	地龙注射液	2
+di mei xue zheng	低镁血症	2
+di nuo qian lie tong	地诺前列酮	2
+di pi men shen shao song ying	地僻门深少送迎	2
+di pu zhong lu	递铺中路	2
+di qian wu yang zhao wo hun	帝遣巫阳招我魂	2
+di qu yi nong chang	地区一农场	2
+di qu yun tong	地屈孕酮	2
+di qu yun tong pian	地屈孕酮片	2
+di qu zhong niu chang	地区种牛场	2
+di quan	翟泉	2
+di san ren guo cuo xing wei	第三人过错行为	2
+di shi shi zhi ran	地势使之然	2
+di tan chang lu	地毯厂路	2
+di xia jie	堤下街	2
+di xing ju	地兴居	2
+di xiong jie mei wu pian xian	弟兄姐妹舞翩跹	2
+di ye zhen	荻野真	2
+di yi xin hao xi tong	第一信号系统	2
+di ying	狄膺	2
+di yuan	翟元	2
+di zhou xiang	地州乡	2
+di zhu chong chong ya po	地主重重压迫	2
+di zou long yin shui	笛奏龙吟水	2
+di ba bao xiang	第八堡乡	1
+di bai feng se han	地白风色寒	1
+di bu de bu guang	地不得不广	1
+di chong xing qian lie xian yan	滴虫性前列腺炎	1
+di ci gen	狄慈根	1
+di de yi yi ning	地得一以宁	1
+di ding cao	地丁草	1
+di en fen	地蒽酚	1
+di fang xing fu bing	地方性氟病	1
+di fang zi zhi shi xing tiao li	地方自治试行条例	1
+di fen zi liang gan su	低分子量肝素	1
+di gao xin yi ji	地高辛酏剂	1
+di geng xun shui mu	狄更逊水母	1
+di gu han yin sheng	地古寒阴生	1
+di guan lie kong	骶管裂孔	1
+di guo cao ji	地锅草鸡	1
+di he wu	缔合物	1
+di hong mei su	地红霉素	1
+di huang yin zi	地黄饮子	1
+di hui kui ren zi	低回愧人子	1
+di jia gou cun	翟家沟村	1
+di jiao	骶角	1
+di ju fu luo yi	低举拂罗衣	1
+di kuo e mei wan	地阔峨眉晚	1
+di kuo wang xian tai	地阔望仙台	1
+di lai ze zhong qiao shi yi	地籁则众窍是已	1
+di lu ya xing tou tong	低颅压性头痛	1
+di lv lei ta ding pian	地氯雷他定片	1
+di nan dao	堤南道	1
+di pan ce gong ji	地盘测功机	1
+di qin	翟勤	1
+di rang	翟让	1
+di san gan men	第三肝门	1
+di san yang mao shan chang	第三羊毛衫厂	1
+di shan shi chang	翟山市场	1
+di shao xiao ke ke li	地芍消渴颗粒	1
+di si tuan xiang	第四疃乡	1
+di tang mi jian	低糖蜜饯	1
+di wang tian zi zhi de ye	帝王天子之德也	1
+di wei lu	地纬路	1
+di wu gong	地蜈蚣	1
+di wu hui	地五会	1
+di wu xiang	地巫乡	1
+di xi niao shu	地犀鸟属	1
+di xi pa ming	地昔帕明	1
+di xia dang gou qing chao ban	涤瑕荡垢清朝班	1
+di xia lian qiang di shang lou	堤下连樯堤上楼	1
+di xiang ming ri dao	帝乡明日到	1
+di xiang zu shu fu xian shui	递相祖述复先谁	1
+di xing yan	堤幸彦	1
+di yi ji ti	第一极体	1
+di yi liang zhong chang	第一良种场	1
+di yi shi pin	第一食品	1
+di yi wei xian bao xian	第一危险保险	1
+di yi yang mao shan chang	第一羊毛衫厂	1
+di yuan cao mu hao	地远草木豪	1
+di zhen yi	堤真一	1
+di zhong hai re	地中海热	1
+di zhong wen zhe liu	笛中闻折柳	1
+di zhuang	迪庄	1
+di zhuang cun wei hui	翟庄村委会	1
+di zhui yao hua	骶椎腰化	1
+di zi han gan zao ru shi	弟子韩干早入室	1
+di zi shu wei hao xue	弟子孰为好学	1
+di zi tang shang fen liang xiang	弟子堂上分两厢	1
+di an na hou	狄安娜猴	0
+di an na zhang wei hou	狄安娜长尾猴	0
+di ao ma san jiao lan chong	迪奥玛三脚篮虫	0
+di bu lei yi luo long	迪布勒伊洛龙	0
+di can da jia ji feng	地蚕大铗姬蜂	0
+di cong weng	地丛鹟	0
+di da yuan chun	狄达缘蝽	0
+di e	敌蛾	0
+di e ke	敌蛾科	0
+di fu yi ge mu shi	地肤异个木虱	0
+di li lin ce shi bie	低粒鳞侧石鳖	0
+di mo er hua dian ju xi	帝摩尔花点巨蜥	0
+di mu yan die	睇暮眼蝶	0
+di nuo jin xiao feng	底诺金小蜂	0
+di ping zhong guo xi xie	低平中国溪蟹	0
+di shang ye e	邸裳夜蛾	0
+di shi ci bi dan ji tun	蒂氏刺鼻单棘鲀	0
+di shi xi hua chun	狄氏夕划蝽	0
+di si ji mie jue shi jian	第四纪灭绝事件	0
+di te gu luo	翟特骨螺	0
+di tu bao luo	地圖寶螺	0
+di wang wei ting	帝王伟蜓	0
+di wen zhun xiao gou xing bei	帝汶准小钩形贝	0
+di xie juan guan luo	低斜卷管螺	0
+di xie juan guan luo	低斜捲管螺	0
+di xie ke	地蟹科	0
+di yi bin shan hu	地衣滨珊瑚	0
+di yi ke xing chong	地衣壳形虫	0
+di yi ye shou gong	地衣叶守宫	0
+di yi ye wei shou gong	地衣叶尾守宫	0
+di zhi	鸐雉	0
+di zhong hai bian long tou yu	地中海扁隆头鱼	0
+di zhong hai bian mao xue	地中海鞭毛鳕	0
+di zhong hai huang hou xia hu yu	地中海皇后鰕虎鱼	0
+di zhong hai huang xie	地中海黄蝎	0
+di zhong hai jin quan rong	地中海近泉戎	0
+di zhong hai lai su er xia hu	地中海莱苏尔鰕虎	0
+di zhong hai mi you jia qiao chong	地中海泌油甲壳虫	0
+di zhong hai ou	地中海鸥	0
+di zhong hai qian	地中海钳	0
+di zhong hai shen hai gou mu yu	地中海深海狗母鱼	0
+di zhong hai shi ban yu	地中海石斑鱼	0
+di zhong hai si qi qi yu	地中海四鳍旗鱼	0
+di zhong hai wa luo	地中海蛙螺	0
+di zhong hai xia hu yu	地中海鰕虎鱼	0
+di zhong hai zhu ce yu	地中海竹筴鱼	0

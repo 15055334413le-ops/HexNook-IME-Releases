@@ -1,0 +1,1794 @@
+ting dao	听到	500375
+ting zhi	停止	500337
+ting shuo	听说	385740
+ting liu	停留	255255
+ting li	听力	203100
+ting che	停车	200370
+ting qu	听取	197705
+ting zheng	听证	193210
+ting jian	听见	184235
+ting zhe	听着	164435
+ting che chang	停车场	161960
+ting de	听得	126830
+ting zhong	听众	126530
+ting xia	停下	106155
+ting ke	听课	101025
+ting zai	停在	97670
+ting ting	听听	95170
+ting de	听的	90575
+ting guo	听过	86330
+ting qi lai	听起来	86260
+ting kao zhan	停靠站	83245
+ting yuan	庭院	76060
+ting wan	听完	74540
+ting xia lai	停下来	74330
+ting dao le	听到了	74215
+ting chan	停产	71265
+ting qu le	听取了	71105
+ting dian	停电	69665
+ting pai	停牌	65635
+ting ta	听他	64150
+ting wo	听我	62160
+ting dun	停顿	61705
+ting zhi le	停止了	60820
+ting jue	听觉	59125
+ting hua	听话	57410
+ting shuo guo	听说过	56155
+ting zhang	厅长	54710
+ting cong	听从	54190
+ting fang	停放	53360
+ting guo le	听过了	53330
+ting guo le	挺过了	51550
+ting guo le	停过了	50000
+ting ye zheng dun	停业整顿	48570
+ting ni	听你	47630
+ting zheng hui	听证会	46640
+ting ba	挺拔	45125
+ting ting	婷婷	44710
+ting zhu	停住	44415
+ting ji	停机	44215
+ting ye	停业	43345
+ting che wei	停车位	41730
+ting hou	听后	41455
+ting dong	听懂	40695
+ting yin yue	听音乐	39920
+ting yong	停用	39895
+ting hao	挺好	37730
+ting zhi	停滞	36695
+ting hao de	挺好的	36495
+ting ta	听她	35790
+ting gong	停工	35105
+ting guo lai	挺过来	35000
+ting ge	听歌	34150
+ting huai	挺坏	33730
+ting jin	挺进	32950
+ting zhi shi yong	停止使用	32860
+ting de	停的	31525
+ting kao	停靠	31020
+ting bu dong	听不懂	30940
+ting bu dao	听不到	30620
+ting lai	听来	29535
+ting chu	听出	29520
+ting zhi	挺直	28340
+ting le	听了	28246
+ting bu	听不	27250
+ting nei	厅内	26620
+ting yao	停药	26385
+ting li	厅里	24995
+ting shen er chu	挺身而出	24895
+ting wen	听闻	24220
+ting yu	听雨	23970
+ting tang	厅堂	23935
+ting zhe	听者	23130
+ting yin	听音	21450
+ting xie	听写	21255
+ting qian	庭前	20820
+ting you	挺有	19260
+ting zhi	停职	18907
+ting bu cuo	挺不错	18860
+ting tong ku	挺痛苦	18755
+ting ren	听人	18010
+ting zhi zhi xing	停止执行	17595
+ting xie	停歇	17380
+ting bu jian	听不见	17240
+ting zhi bu qian	停滞不前	17200
+ting liu shi jian	停留时间	17115
+ting qi	挺起	16360
+ting tong	听筒	16055
+ting shang qu	听上去	16040
+ting shuo ni	听说你	15520
+ting shui	停水	15435
+ting shuo du xie	听说读写	15210
+ting zi	亭子	15090
+ting che fei	停车费	15070
+ting ke zheng	听课证	14840
+ting feng	听风	14745
+ting xin	听信	14085
+ting da	挺大	14080
+ting duo	挺多	14035
+ting li	挺立	13980
+ting zhi guo	停止过	13760
+ting dun le	停顿了	13660
+ting ban	停办	13625
+ting qing	听清	13570
+ting qu yi jian	听取意见	13395
+ting na	听那	12905
+ting zhe	挺着	12690
+ting lao	听老	12255
+ting shuo le	听说了	12025
+ting er zou xian	铤而走险	11945
+ting ba	听罢	11755
+ting zhe	停着	11720
+ting zhan	停战	11695
+ting xi huan	挺喜欢	11630
+ting shuo shi	听说是	11175
+ting shen zhong	庭审中	11130
+ting chan zheng dun	停产整顿	11075
+ting xiong	挺胸	11050
+ting qing chu	听清楚	10905
+ting wo shuo	听我说	10860
+ting cuo	听错	10780
+ting shen	挺身	10740
+ting shuo you	听说有	10620
+ting xi	停息	10575
+ting le	停了	10535
+ting hao	听好	10385
+ting ba	听吧	10295
+ting ta men	听他们	10230
+ting bian	庭辩	9999
+ting cha	挺差	9999
+ting cha de	挺差的	9999
+ting dai	停贷	9999
+ting fu	停服	9999
+ting geng	停更	9999
+ting jiang	听讲	9999
+ting qu	听曲	9999
+ting xin er	听信儿	9999
+ting de dong	听得懂	9960
+ting sai	停赛	9825
+ting ke	停课	9780
+ting yun	停运	9730
+ting you yi si	挺有意思	9490
+ting fa	停发	9460
+ting yuan	挺远	9430
+ting yao hou	停药后	9410
+ting ting yu li	亭亭玉立	9300
+ting huo	停火	8995
+ting jing	停经	8885
+ting ren	听任	8765
+ting yi ting	听一听	8680
+ting guo	挺过	8205
+ting ju ji	厅局级	8125
+ting shou	停售	8070
+ting zhi gong zuo	停止工作	8040
+ting tian you ming	听天由命	7945
+ting tai	亭台	7890
+ting ju	厅局	7785
+ting de ge	听的歌	7765
+ting zhang	听障	7454
+ting tai lou ge	亭台楼阁	7440
+ting li ce shi	听力测试	7395
+ting qu hui bao	听取汇报	7355
+ting zhi ren zhi	听之任之	7320
+ting zheng zhi du	听证制度	7250
+ting nan	挺难	7165
+ting tao	听涛	7095
+ting zhu	挺住	7055
+ting shang	厅上	7025
+ting shi	停驶	6970
+ting jian	停建	6960
+ting zheng bi lu	听证笔录	6940
+ting ming bai	听明白	6910
+ting hai	听海	6855
+ting gu shi	听故事	6810
+ting zhong	挺重	6809
+ting gao	挺高	6760
+ting xin liu zhi	停薪留职	6680
+ting kao zai	停靠在	6515
+ting shou	停手	6450
+ting peng you	听朋友	6445
+ting zhi qin quan xing wei	停止侵权行为	6360
+ting zhong	厅中	6355
+ting ting yin yue	听听音乐	6325
+ting che ku	停车库	6275
+ting piao liang de	挺漂亮的	6245
+ting le	挺了	6240
+ting guo	停过	6145
+ting quan	听劝	6131
+ting guang bo	听广播	6120
+ting shei	听谁	6035
+ting shui	听谁	6035
+ting ming yu	听命于	6000
+ting che dai	停车带	5975
+ting kan	停刊	5895
+ting zhen	听诊	5855
+ting ji ping	停机坪	5760
+ting de jian	听得见	5735
+ting lei	烃类	5715
+ting li li jie	听力理解	5680
+ting yuan li	庭院里	5630
+ting bo	停播	5575
+ting diao	停掉	5560
+ting bu	挺不	5555
+ting di	挺低	5555
+ting ma	听吗	5555
+ting ni	挺你	5555
+ting zhi bo fang	停止播放	5555
+ting hou	听候	5510
+ting zhang	庭长	5490
+ting zhuang	挺壮	5452
+ting shang	庭上	5370
+ting jue de	听觉的	5340
+ting nei	庭内	5340
+ting ming	听命	5285
+ting zhi qin quan	停止侵权	5275
+ting yi xia	听一下	5250
+ting zhong	亭中	5215
+ting ting	停停	5190
+ting zhan	停站	5170
+ting de dao	听得到	5140
+ting bu chu	听不出	5125
+ting qiao	挺巧	5123
+ting wai	厅外	5100
+ting zhen qi	听诊器	4975
+ting zhi de	停滞的	4965
+ting de ge qu	听的歌曲	4950
+ting zhi yun xing	停止运行	4940
+ting de	挺得	4880
+ting hao wan de	挺好玩的	4780
+ting ma ma de hua	听妈妈的话	4630
+ting shuo zai	听说在	4620
+ting wei	廷尉	4615
+ting ji	挺急	4601
+ting guang rong	挺光荣	4560
+ting dian le	停电了	4555
+ting dao	停到	4540
+ting hao	停好	4435
+ting zheng hui shang	听证会上	4400
+ting bu qing	听不清	4385
+ting dang	停当	4370
+ting gao xing	挺高兴	4325
+ting ke ai	挺可爱	4295
+ting nei	亭内	4275
+ting zhi huo dong	停止活动	4200
+ting kuo	挺括	4170
+ting kuai	挺快	4150
+ting xiang	挺想	4150
+ting ping	听凭	4140
+ting bu jin qu	听不进去	4130
+ting de chu	听得出	4130
+ting fang	廷芳	4110
+ting hao kan de	挺好看的	4090
+ting zhu	停驻	4075
+ting yu xuan	听雨轩	4025
+ting zhi zhuang tai	停滞状态	3965
+ting bu jin	听不进	3945
+ting xia lai le	停下来了	3945
+ting che shou fei	停车收费	3940
+ting cong zhi hui	听从指挥	3925
+ting zheng	听政	3895
+ting qiao	挺翘	3870
+ting bu xia lai	停不下来	3865
+ting fang	厅房	3825
+ting mei	挺美	3820
+ting zhi ying ye	停止营业	3750
+ting chu lai	听出来	3685
+ting shen	庭审	3685
+ting bu qing chu	听不清楚	3640
+ting zhuan	停转	3640
+ting yi xia	停一下	3585
+ting yuan deng	庭院灯	3570
+ting dai jin	挺带劲	3565
+ting shu shi	挺舒适	3550
+ting zhang	艇长	3500
+ting zhi	挺值	3456
+ting kai	停开	3455
+ting xiang	挺像	3415
+ting ju	挺举	3405
+ting dao mei de	挺倒霉的	3385
+ting wai	庭外	3385
+ting lei	挺累	3370
+ting qing chu	挺清楚	3350
+ting hang	停航	3345
+ting che an niu	停车按钮	3333
+ting jun	听君	3333
+ting mi	挺迷	3333
+ting nan ting de	挺难听的	3333
+ting sao	挺骚	3333
+ting sao de	挺骚的	3333
+ting shou	挺熟	3333
+ting shu	挺熟	3333
+ting tiao	停跳	3333
+ting xuan	挺玄	3333
+ting xuan xue	挺玄学	3333
+ting xuan xue de	挺玄学的	3333
+ting zang	挺脏	3333
+ting zang de	挺脏的	3333
+ting guang de	挺光的	3330
+ting lao shi	挺老实	3330
+ting shun shou	挺顺手	3310
+ting dao mei you	听到没有	3290
+ting shuai	挺帅	3215
+ting chan le	停产了	3205
+ting xie	亭榭	3150
+ting shang	听上	3145
+ting zai na li	停在那里	3145
+ting li zhang ai	听力障碍	3115
+ting ting kan	听听看	3115
+ting xi	听戏	3090
+ting cheng	听成	3085
+ting guan	听惯	3065
+ting men	厅门	3010
+ting piao liang	挺漂亮	2985
+ting gu zhi	挺固执	2980
+ting re	挺热	2970
+ting chao	听潮	2965
+ting yuan shi	庭院式	2965
+ting li	亭里	2950
+ting zhan xie ding	停战协定	2950
+ting bu dao le	听不到了	2940
+ting shen jing	听神经	2935
+ting le ting	停了停	2900
+ting zhi jiao yi	停止交易	2895
+ting bu liao	停不了	2870
+ting xia qu	听下去	2865
+ting kuai de	挺快的	2800
+ting kai xin	挺开心	2780
+ting you qu	挺有趣	2775
+ting dang	听党	2765
+ting zhi wei	停止位	2765
+ting li sun shi	听力损失	2760
+ting zhi shi jian	停止时间	2745
+ting ling	挺灵	2740
+ting shi	挺实	2740
+ting quan	听泉	2680
+ting yuan jing ji	庭院经济	2675
+ting zi li	亭子里	2580
+ting gui	挺贵	2560
+ting dao le ma	听到了吗	2555
+ting yi ting	停一停	2550
+ting bo	停泊	2543
+ting ban	停板	2510
+ting dun xia lai	停顿下来	2510
+ting shu fu	挺舒服	2510
+ting che nan	停车难	2490
+ting ji shi jian	停机时间	2490
+ting er bu wen	听而不闻	2480
+ting jian	挺剑	2480
+ting xiang	挺香	2468
+ting bu xia	停不下	2465
+ting shu	厅属	2465
+ting shu	听书	2450
+ting zhi qian jin	停止前进	2450
+ting neng	挺能	2390
+ting jian dan	挺简单	2385
+ting chen	廷臣	2360
+ting bi	停笔	2335
+ting fang zhe	停放着	2325
+ting gong liu xin qi	停工留薪期	2319
+ting fei	停飞	2310
+ting dong	挺动	2300
+ting shi	停尸	2300
+ting bai	停摆	2265
+ting shou yin ji	听收音机	2250
+ting ru	挺入	2222
+ting wen	挺稳	2222
+ting ju zhang	厅局长	2215
+ting de	停得	2205
+ting bu de	听不得	2190
+ting gan	挺赶	2167
+ting chang	挺长	2165
+ting xue	停学	2155
+ting pai	听牌	2125
+ting le ting	听了听	2100
+ting de chu lai	听得出来	2090
+ting ma fan	挺麻烦	2080
+ting ting	挺挺	2075
+ting li hai	挺厉害	2060
+ting mang	挺忙	2060
+ting qi yan	听其言	2055
+ting qiang	挺强	2050
+ting ting ba	听听吧	2005
+ting yuan	庭园	1999
+ting shen qi de	挺神气的	1980
+ting guo qu	挺过去	1950
+ting shi he	挺适合	1950
+ting hui	听会	1945
+ting zhi xian cheng	停止线程	1911
+ting jin	挺近	1895
+ting xiong tai tou	挺胸抬头	1890
+ting hui	挺会	1885
+ting tong ku de	挺痛苦的	1850
+ting bu chu lai	听不出来	1840
+ting gan	听感	1836
+ting shi	停食	1830
+ting ji	厅级	1829
+ting shuang	挺爽	1795
+ting kao dian	停靠点	1775
+ting zhi xia lai	停止下来	1770
+ting chuan	停船	1745
+ting zhong	庭中	1740
+ting shi fang	停尸房	1730
+ting zhen	停诊	1715
+ting yuan	艇员	1700
+ting shi jian	停尸间	1695
+ting wai he jie	庭外和解	1690
+ting hou	挺厚	1685
+ting zhi zhuan dong	停止转动	1680
+ting li zhe	挺立着	1675
+ting zhuang	听装	1670
+ting jue shang	听觉上	1665
+ting yuan shen shen	庭院深深	1635
+ting ge qu	听歌曲	1620
+ting tong	挺痛	1605
+ting zhi gong dian	停止供电	1605
+ting zhi jian cha	停职检查	1600
+ting huo xie yi	停火协议	1595
+ting gan	挺干	1579
+ting shen	听审	1550
+ting gan	挺杆	1540
+ting bu zhu le	挺不住了	1530
+ting yao	挺腰	1530
+ting zhou	汀洲	1520
+ting ting zou zou	停停走走	1495
+ting shen	挺深	1475
+ting zhun	挺准	1475
+ting zhi xin hao	停止信号	1430
+ting ku	挺酷	1425
+ting bu liao	听不了	1420
+ting chai	听差	1420
+ting dao	挺到	1405
+ting fan	挺烦	1385
+ting zhi chu shou	停止出售	1385
+ting xin xian	挺新鲜	1355
+ting zhi gong ying	停止供应	1350
+ting qian	听前	1342
+ting dou	挺逗	1330
+ting ying	挺硬	1330
+ting ying de	挺硬的	1330
+ting leng	挺冷	1320
+ting zai zhou	艇仔粥	1317
+ting xiang sheng	听相声	1305
+ting zhi zhuang tai	停止状态	1280
+ting che wei zhi	停车位置	1275
+ting bian	听便	1270
+ting bu zhu	停不住	1260
+ting zao de	挺糟的	1234
+ting zhang	廷杖	1230
+ting bu ting	听不听	1225
+ting jue shen jing	听觉神经	1225
+ting li sang shi	听力丧失	1225
+ting li xue	听力学	1220
+ting lu	停炉	1220
+ting xin	停薪	1210
+ting che chu	停车处	1205
+ting zhi qi	停滞期	1205
+ting bo zhe	停泊着	1200
+ting di de	挺低的	1185
+ting gao de	挺高的	1185
+ting bei tou zhu bu neng shi	停杯投箸不能食	1180
+ting che zuo ai feng lin wan	停车坐爱枫林晚	1180
+ting chong	停充	1180
+ting dai jin de	挺带劲的	1180
+ting feng liang	挺风凉	1180
+ting feng liang de	挺风凉的	1180
+ting gu zhi de	挺固执的	1180
+ting guang de	挺广的	1180
+ting he shan	挺和善	1180
+ting hou dao	挺厚道	1180
+ting hou fen fu	听候吩咐	1180
+ting jian	挺尖	1180
+ting lao shi	听老师	1180
+ting lao shi de	挺老实的	1180
+ting lei de	挺累的	1180
+ting liang kuai	挺凉快	1180
+ting liang kuai de	挺凉快的	1180
+ting meng	挺猛	1180
+ting meng de	挺猛的	1180
+ting nai kan de	挺耐看的	1180
+ting nuan huo	挺暖和	1180
+ting qi lai	挺起来	1180
+ting shen qi de	挺神奇的	1180
+ting shun shou de	挺顺手的	1180
+ting song	听讼	1180
+ting tai liu qi zuo	亭台六七座	1180
+ting tiao ti	挺挑剔	1180
+ting wen ding	挺稳定	1180
+ting xiu qi	挺秀气	1180
+ting zhao ji de	挺着急的	1180
+ting zhu yi	挺注意	1180
+ting zi you de	挺自由的	1180
+ting ni	听腻	1170
+ting hao wan	挺好玩	1165
+ting shi yong	挺实用	1165
+ting xun	庭训	1165
+ting zhe you xin	听者有心	1150
+ting gong dai liao	停工待料	1130
+ting bu	停步	1129
+ting tai lou xie	亭台楼榭	1125
+ting bai	挺白	1111
+ting e	挺饿	1111
+ting huang	挺黄	1111
+ting jin	挺紧	1111
+ting mi	挺密	1111
+ting pi	听啤	1111
+ting pin	挺拼	1111
+ting pin a	挺拼啊	1111
+ting qiu	停球	1111
+ting qiu shi wu	停球失误	1111
+ting ruan	挺软	1111
+ting ruan de	挺软的	1111
+ting ting	亭亭	1111
+ting wen	停稳	1111
+ting leng qing	挺冷清	1100
+ting bang	挺棒	1090
+ting huo	挺火	1085
+ting yu sheng	听雨声	1085
+ting lao shi de	听老师的	1080
+ting zi jian	亭子间	1080
+ting dang wei	厅党委	1055
+ting hao kan	挺好看	1045
+ting bian	挺扁	1040
+ting ji	烃基	1040
+ting shang	停上	1035
+ting xiao	挺小	1035
+ting zhi jian	停止键	1035
+ting dao ma	听到吗	1015
+ting qu er	听曲儿	999
+ting ying	停映	999
+ting zhi bi sai	停止比赛	995
+ting diu lian	挺丢脸	987
+ting ling	听令	987
+ting chun jing de	挺纯净的	980
+ting kuan chang	挺宽敞	980
+ting kui	挺亏	963
+ting ge	停格	955
+ting xiang ni	挺想你	935
+ting gan xing qu	挺感兴趣	910
+ting che zhan	停车站	900
+ting zhi cao zuo	停止操作	900
+ting zao	挺早	875
+ting gong sun shi	停工损失	870
+ting shuo neng	听说能	865
+ting hao a	挺好啊	860
+ting le yi xia	停了一下	812
+ting liu tian shu	停留天数	795
+ting zhao	停招	789
+ting can	挺惨	785
+ting le ting xiong	挺了挺胸	785
+ting pa	挺怕	775
+ting gan ren	挺感人	770
+ting chu	庭除	760
+ting yu	听阈	750
+ting zhi de	挺值的	745
+ting men	挺闷	743
+ting li	葶苈	725
+ting ling	停灵	725
+ting kao zhe	停靠着	720
+ting zhi bu wen	听之不闻	720
+ting zhi bu dong	停止不动	715
+ting guo ma	听过吗	710
+ting tuo	停妥	705
+ting zhuan	挺赚	696
+ting jiu	挺久	695
+ting luan	挺乱	695
+ting gu	听骨	690
+ting hou chu li	听候处理	690
+ting zheng quan	听证权	660
+ting hao de a	挺好的啊	655
+ting shi	廷试	655
+ting biao	停表	650
+ting hao shi	挺好使	650
+ting shi	听事	645
+ting bu zhu	挺不住	640
+ting ku	挺苦	630
+ting ren jiang	听人讲	625
+ting shao	挺少	620
+ting qu bao gao	听取报告	615
+ting yi ting	挺一挺	610
+ting mei ting	听没听	600
+ting yan	听厌	600
+ting bo qu	停泊区	595
+ting shen jie shu	庭审结束	595
+ting sha	挺傻	590
+ting wan	挺晚	585
+ting wan gu	挺顽固	585
+ting cong ming ling	听从命令	575
+ting xia xiu xi	停下休息	575
+ting chang shi jian	挺长时间	570
+ting guai	挺乖	570
+ting gan de	挺赶的	567
+ting hou	挺后	567
+ting shen de	挺深的	567
+ting shi	挺湿	567
+ting xian	挺闲	567
+ting xian de	挺闲的	567
+ting zao de	挺早的	567
+ting shuo fa	听说法	560
+ting tiao ti de	挺挑剔的	560
+ting wu	亭午	560
+ting diu ren de	挺丢人的	555
+ting xiu	挺秀	555
+ting bo fei	停泊费	545
+ting ji wei	停机位	540
+ting si qiao	汀泗桥	530
+ting zhi she ji	停止射击	515
+ting xiu de	挺秀的	511
+ting jin	听进	508
+ting tian	挺甜	500
+ting kuan chang de	挺宽敞的	495
+ting hao ting	挺好听	485
+ting zhi yi dong	停止移动	485
+ting feng jiu shi yu	听风就是雨	480
+ting shuo hui	听说会	480
+ting gui gu shi	听鬼故事	475
+ting lai ting qu	听来听去	475
+ting gou le	听够了	465
+ting fang	听房	460
+ting dao a	听到啊	455
+ting shi	挺尸	455
+ting wang	挺旺	455
+ting hou gan	听后感	450
+ting chuang	听窗	445
+ting zao	挺糟	432
+ting zhe ne	听着呢	430
+ting hen	挺狠	425
+ting xin yao yan	听信谣言	425
+ting hei	挺黑	420
+ting bu zhu le	停不住了	415
+ting sui	听随	410
+ting yi sheng	听一声	407
+ting hou	亭侯	392
+ting hao chi	挺好吃	385
+ting che biao zhi	停车标志	380
+ting jue pi lao	听觉疲劳	380
+ting man	挺慢	380
+ting cai	挺菜	374
+ting ni na le	停你那了	371
+ting hou fa luo	听候发落	370
+ting zhi shen ti	挺直身体	365
+ting ren jia	听人家	364
+ting chou	挺丑	350
+ting pang	挺胖	350
+ting zi xi	听仔细	350
+ting mang	挺莽	347
+ting teng	挺疼	345
+ting xian de	挺咸的	342
+ting bu chu shi	听不出是	340
+ting jun	挺俊	335
+ting li ce yan	听力测验	335
+ting diu lian de	挺丢脸的	330
+ting jue ling min	听觉灵敏	330
+ting zhong xi	听众席	330
+ting duan	听断	325
+ting ji zhuang tai	停机状态	325
+ting ren bai bu	听人摆布	325
+ting shou	挺瘦	325
+ting tang	庭堂	315
+ting shang qu shi	听上去是	310
+ting zhang	亭长	306
+ting gong qi	停工期	305
+ting zhi fan xing	停职反省	300
+ting hao yong	挺好用	295
+ting qi yan er guan qi xing	听其言而观其行	290
+ting bu guan	听不惯	280
+ting jue fan wei	听觉范围	275
+ting yi jie	听一节	273
+ting le ma	听了吗	270
+ting ting niao niao	婷婷袅袅	270
+ting ming yu ren	听命于人	265
+ting dian	挺癫	256
+ting gan de	挺干的	256
+ting fu	停付	255
+ting ting kan kan	听听看看	245
+ting wan gu de	挺顽固的	240
+ting zhu ren	厅主任	240
+ting qu pi ping	听取批评	235
+ting chun	挺蠢	234
+ting meng	挺萌	233
+ting de dao ma	听得到吗	230
+ting zheng shi	听证室	223
+ting sha bi	挺傻逼	222
+ting bo chu	停泊处	215
+ting de bi	听得比	210
+ting ke yi	挺可以	210
+ting xi guan de	挺习惯的	208
+ting bo qi jian	停泊期间	205
+ting bo shi jian	停泊时间	205
+ting shui tong zhi	停水通知	205
+ting wo miao miao	听我藐藐	204
+ting da de	挺大的	200
+ting ke ling	停课铃	198
+ting kou ling	听口令	194
+ting fu wei hu	停服维护	190
+ting li shou sun	听力受损	190
+ting re de	挺热的	189
+ting chu	挺出	187
+ting xiong tu du	挺胸凸肚	185
+ting pai long	听牌龙	183
+ting shi hui	挺实惠	183
+ting bu jian a	听不见啊	180
+ting ge a	听歌啊	180
+ting dian ting shui	停电停水	179
+ting ke yi zhou	停课一周	176
+ting ke tong zhi	停课通知	172
+ting gong ting chan	停工停产	171
+ting zhi yun ying	停止运营	171
+ting bu qi lai	挺不起来	170
+ting bu zhao	听不着	170
+ting shou de	挺瘦的	170
+ting zhi fang wen	停止访问	170
+ting jie shuo	听姐说	169
+ting chao ge	听潮阁	167
+ting dong zhang sheng	听懂掌声	167
+ting shui ting dian	停水停电	167
+ting min sheng	听民声	163
+ting bu zhu de	挺不住的	160
+ting li kao shi	听力考试	159
+ting dang zhi hui	听党指挥	155
+ting gong ting xue	停工停学	153
+ting zhi jian piao	停止检票	153
+ting bu fang bian	挺不方便	152
+ting jian ta shuo	听见她说	152
+ting le a	听了啊	150
+ting shao jian	挺少见	149
+ting zheng shi	听证时	149
+ting zi xi	挺仔细	149
+ting nuan	挺暖	148
+ting shuo hen hao chi	听说很好吃	148
+ting ba gua	听八卦	146
+ting li er ji	听力耳机	146
+ting dang hua	听党话	143
+ting bu jian ma	听不见吗	140
+ting ji ku	停机库	140
+ting lan	挺懒	140
+ting che rang xing	停车让行	139
+ting zhi biao zhi	停止标志	139
+ting zhi zhan zheng	停止战争	138
+ting xin ge	听新歌	137
+ting fan de	挺烦的	131
+ting bu dao ge	听不到歌	130
+ting bu dao ma	听不到吗	130
+ting che deng	停车灯	130
+ting xi huan ta	挺喜欢他	130
+ting li ti	听力题	129
+ting xiang jun	汀香郡	127
+ting bu chu ge	听不出个	125
+ting dian shi	停电时	125
+ting zhi zhao sheng	停止招生	124
+ting chun	挺纯	123
+ting xiang ni	挺像你	123
+ting sao de	挺臊的	122
+ting ke ma li	亭可马里	120
+ting le ge da gai	听了个大概	120
+ting li yue du	听力阅读	120
+ting jian ni de sheng yin	听见你的声音	117
+ting gong ting ye	停工停业	116
+ting bu dao wo shuo hua	听不到我说话	115
+ting sao	挺臊	112
+ting chuang	听床	111
+ting lan	挺烂	111
+ting ma	挺麻	111
+ting man	停满	111
+ting ru	停入	111
+ting xin zhu ku	停辛贮苦	111
+ting xiu	停休	111
+ting zai er li	听在耳里	110
+ting zhi ling	停止令	110
+ting feng shuo	听风说	108
+ting chong	挺冲	107
+ting pin de	挺拼的	107
+ting de zhao	听得着	105
+ting xi qing	挺喜庆	105
+ting yi ci	停一次	105
+ting chong de	挺冲的	101
+ting ji wen ti	停机问题	101
+ting juan	挺卷	101
+ting kao chuang kou	停靠窗口	101
+ting neng zhuai	挺能跩	101
+ting neng zhuai a	挺能跩啊	101
+ting neng zhuai ya	挺能跩呀	101
+ting tang shi	停堂食	101
+ting zai yi	挺在意	101
+ting ba ba de	听爸爸的	100
+ting ba ba de hua	听爸爸的话	100
+ting ba ke tu	廷巴克图	100
+ting ban zhi du	停板制度	100
+ting bang da	挺棒哒	100
+ting bang de	挺棒的	100
+ting bei dong	挺被动	100
+ting bei dong de	挺被动的	100
+ting bie ren	听别人	100
+ting bie ren jiang shu	听别人讲述	100
+ting bie ren shi huan	听别人使唤	100
+ting bie ren shuo	听别人说	100
+ting bo bo de	听伯伯的	100
+ting bo di	停泊地	100
+ting bo dian	停泊点	100
+ting bo le	停播了	100
+ting bu chang yong	挺不常用	100
+ting bu cuo de	挺不错的	100
+ting bu cuo de a	挺不错的啊	100
+ting bu cuo de le	挺不错的了	100
+ting bu cuo de o	挺不错的哦	100
+ting bu cuo de ya	挺不错的呀	100
+ting bu dao a	听不到啊	100
+ting bu dao ni shuo hua	听不到你说话	100
+ting bu de	停不得	100
+ting bu de yi mian zhi ci	听不得一面之词	100
+ting bu dong le	听不懂了	100
+ting bu dong le ne	听不动了呢	100
+ting bu dong ni zai shuo shen me	听不懂你在说什么	100
+ting bu dong ren hua	听不懂人话	100
+ting bu dong ren shuo hua	听不懂人说话	100
+ting bu hao	挺不好	100
+ting bu hao de	挺不好的	100
+ting bu hao yi si	挺不好意思	100
+ting bu jian ma	听不见嘛	100
+ting bu jian wo shuo hua	听不见我说话	100
+ting bu liao de ai	停不了的爱	100
+ting bu liao kou	停不了口	100
+ting bu ni	听不腻	100
+ting bu qing chu a	听不清楚啊	100
+ting bu rong yi	挺不容易	100
+ting bu tai dong	听不太懂	100
+ting bu ting bo	停不停播	100
+ting bu ting bo a	停不停播啊	100
+ting bu ting bo ba	停不停播吧	100
+ting bu ting bo la	停不停播啦	100
+ting bu ting bo lou	停不停播喽	100
+ting bu ting bo ma	停不停播吗	100
+ting bu ting bo o	停不停播哦	100
+ting bu ting bo wa	停不停播哇	100
+ting bu ting bo ya	停不停播呀	100
+ting bu ting de dong	听不听得懂	100
+ting bu ting hua a	听不听话啊	100
+ting bu ting hua ba	听不听话吧	100
+ting bu ting hua la	听不听话啦	100
+ting bu ting hua lou	听不听话喽	100
+ting bu ting hua ma	听不听话吗	100
+ting bu ting hua o	听不听话哦	100
+ting bu ting hua wa	听不听话哇	100
+ting bu ting hua ya	听不听话呀	100
+ting bu ting ke	停不停课	100
+ting bu ting ke a	停不停课啊	100
+ting bu ting ke ba	停不停课吧	100
+ting bu ting ke la	停不停课啦	100
+ting bu ting ke lou	停不停课喽	100
+ting bu ting ke ma	停不停课吗	100
+ting bu ting ke o	停不停课哦	100
+ting bu ting ke wa	停不停课哇	100
+ting bu ting ke ya	停不停课呀	100
+ting bu xia qu	听不下去	100
+ting bu yao lian	听不要脸	100
+ting bu zhao a	听不着啊	100
+ting bu zhao ya	听不着呀	100
+ting cai dian	亭彩店	100
+ting can de	挺惨的	100
+ting chan huo luan	听谗惑乱	100
+ting chang jian	挺常见	100
+ting chang jian de	挺常见的	100
+ting chao ting	听潮亭	100
+ting che bo wei	停车泊位	100
+ting che chang di	停车场地	100
+ting che chang di mian	停车场地面	100
+ting che chang di ping	停车场地坪	100
+ting che chang di ping qi	停车场地坪漆	100
+ting che chang guan li xi tong	停车场管理系统	100
+ting che chang shou fei xi tong	停车场收费系统	100
+ting che chang xi tong	停车场系统	100
+ting che chuan gan qi	停车传感器	100
+ting che dan	挺扯淡	100
+ting che dan de	挺扯淡的	100
+ting che de di fang	停车的地方	100
+ting che di dian	停车地点	100
+ting che fu zhu xi tong	停车辅助系统	100
+ting che guan li	停车管理	100
+ting che guan li xi tong	停车管理系统	100
+ting che hang ye	停车行业	100
+ting che ji shi qi	停车计时器	100
+ting che li rang xing ren	停车礼让行人	100
+ting che lou	停车楼	100
+ting che ru ku	停车入库	100
+ting che shi chang	停车时长	100
+ting che shou fei xi tong	停车收费系统	100
+ting che xi tong	停车系统	100
+ting che xian	停车线	100
+ting che xiu xi	停车休息	100
+ting che you dao xi tong	停车诱导系统	100
+ting chen xi nu	停嗔息怒	100
+ting chi kui	挺吃亏	100
+ting chi xiang	挺吃香	100
+ting chou xiang	挺抽象	100
+ting chou xiang de	挺抽象的	100
+ting chu hu yi liao	挺出乎意料	100
+ting chu lai	挺出来	100
+ting chu ming	挺出名	100
+ting chu qu	挺出去	100
+ting chuan kao an	停船靠岸	100
+ting chuang shi	听床师	100
+ting ci ji	挺刺激	100
+ting ci ji de	挺刺激的	100
+ting cong hao ling	听从号令	100
+ting cong ming	挺聪明	100
+ting da de	挺搭的	100
+ting da jia de	听大家的	100
+ting da yu	挺大雨	100
+ting dai xiang mu	停贷项目	100
+ting dan teng	挺蛋疼	100
+ting dan teng a	挺蛋疼啊	100
+ting dan teng de	挺蛋疼的	100
+ting dan you	挺担忧	100
+ting dan you de	挺担忧的	100
+ting dao chuan wen	听到传闻	100
+ting dao le qiang sheng	听到了枪声	100
+ting dao le shen me	听到了什么	100
+ting dao le sheng yin	听到了声音	100
+ting dao mei	听到没	100
+ting dao mei you a	听到没有啊	100
+ting dao peng de yi sheng	听到砰的一声	100
+ting dao qiang sheng	听到枪声	100
+ting dao shen me	听到什么	100
+ting dao yi xie feng sheng	听到一些风声	100
+ting dao yin yue	听到音乐	100
+ting dao zhe ge	听到这个	100
+ting dao zhe ge feng sheng	听到这个风声	100
+ting de bu tai dong	听得不太懂	100
+ting de dong ba	听得懂吧	100
+ting de dong de yu yan	听得懂的语言	100
+ting de dong ma	听得懂吗	100
+ting de dong ren hua	听得懂人话	100
+ting de duo	听得多	100
+ting de er kong jun ji di	廷德尔空军基地	100
+ting de guan	听得惯	100
+ting de guan ma	听得惯吗	100
+ting de hao	听得好	100
+ting de hen qing chu	听得很清楚	100
+ting de hen qing chu a	听得很清楚啊	100
+ting de hen qing chu ya	听得很清楚呀	100
+ting de jian ba	听得见吧	100
+ting de jian bu	听得见不	100
+ting de jin	听得进	100
+ting de jin jin you wei	听得津津有味	100
+ting de jin qu	听得进去	100
+ting de ming bai	听得明白	100
+ting de ming bai ba	听得明白吧	100
+ting de mu	听得目	100
+ting de qing	听得清	100
+ting de qing chu	听得清楚	100
+ting de qing chu ma	听得清楚吗	100
+ting de qing qing chu chu	听得清清楚楚	100
+ting de ren zhen	听得认真	100
+ting de ru	听得入	100
+ting de ru chi ru zui	听得如痴如醉	100
+ting de ru mi	听得入迷	100
+ting de ru shen	听得入神	100
+ting de xia	听得下	100
+ting de xia qu	听得下去	100
+ting de yin yue	听的音乐	100
+ting de zhen	听得真	100
+ting de zhi	听得直	100
+ting de zhu	挺得住	100
+ting dian le ma	停电了吗	100
+ting dian tong zhi	停电通知	100
+ting diao bu ting xuan	听调不听宣	100
+ting dong le	听懂了	100
+ting dong le ma	听懂了吗	100
+ting dong le mei	听懂了没	100
+ting dong mei	听懂没	100
+ting dou de	挺逗的	100
+ting dou mei ting dong	听都没听懂	100
+ting dou mei ting guo	听都没听过	100
+ting dou mei ting shuo guo	听都没听说过	100
+ting dou mei you ting guo	听都没有听过	100
+ting dou mei you ting shuo guo	听都没有听说过	100
+ting dou ting bu xia lai	停都停不下来	100
+ting dui bu qi	挺对不起	100
+ting dun yi xia	停顿一下	100
+ting duo de	挺多的	100
+ting duo ren	挺多人	100
+ting e xin	挺恶心	100
+ting fang bian	挺方便	100
+ting fang bian de	挺方便的	100
+ting fang di dian	停放地点	100
+ting fang dian dong zi xing che	停放电动自行车	100
+ting fang song	挺放松	100
+ting fang zai	停放在	100
+ting fei jin	挺费劲	100
+ting feng fu	挺丰富	100
+ting feng he ri li	挺风和日丽	100
+ting feng he ri li de	挺风和日丽的	100
+ting fu geng xin	停服更新	100
+ting fu le	停服了	100
+ting fu pai zhi du	停复牌制度	100
+ting fu ting zhang	厅副厅长	100
+ting fu you	挺富有	100
+ting fu za	挺复杂	100
+ting gan dong	挺感动	100
+ting gan dong de	挺感动的	100
+ting gan jing	挺干净	100
+ting gao duan	挺高端	100
+ting gao ji	挺高级	100
+ting gao xiao	挺搞笑	100
+ting gao xiao a	挺搞笑啊	100
+ting gao xiao de	挺搞笑的	100
+ting ge shi chang	听歌时长	100
+ting ge xiang	听个响	100
+ting geng le	停更了	100
+ting gong chu fen	停工处分	100
+ting gong ting ke	停工停课	100
+ting gu dian yin yue	听古典音乐	100
+ting gu lian	听骨链	100
+ting guan xin	挺关心	100
+ting guan yong	挺管用	100
+ting guan yong de	挺管用的	100
+ting gui de	挺贵的	100
+ting guo de yin yue	听过的音乐	100
+ting guo fen	挺过分	100
+ting guo ge	听国歌	100
+ting guo ke	停过课	100
+ting guo lai	停过来	100
+ting guo lai	听过来	100
+ting guo lai le	挺过来了	100
+ting guo qu	停过去	100
+ting guo qu	听过去	100
+ting guo qu jiu	挺过去就	100
+ting guo qu jiu hao	挺过去就好	100
+ting hang le	停航了	100
+ting hao chi de	挺好吃的	100
+ting hao da	挺好哒	100
+ting hao da	挺好打	100
+ting hao da ba	挺好打吧	100
+ting hao da de	挺好打的	100
+ting hao da de ba	挺好打的吧	100
+ting hao de ba	挺好的吧	100
+ting hao de ji hui	挺好的机会	100
+ting hao de ma	挺好的吗	100
+ting hao de ma	挺好的嘛	100
+ting hao de me	挺好的么	100
+ting hao de ya	挺好的呀	100
+ting hao la	听好啦	100
+ting hao le	听好了	100
+ting hao qi	挺好奇	100
+ting hao qi de	挺好奇的	100
+ting hao ting de	挺好听的	100
+ting hao xiao a	挺好笑啊	100
+ting hao xiao de	挺好笑的	100
+ting hao yong de	挺好用的	100
+ting hao yong de ya	挺好用的呀	100
+ting he shi	挺合适	100
+ting he shi de	挺合适的	100
+ting hou chai qian	听候差遣	100
+ting hou diao qian	听候调遣	100
+ting hou le	挺厚了	100
+ting hu qu	亭湖区	100
+ting hu ren de	挺唬人的	100
+ting hu tu	挺糊涂	100
+ting hua de	听话地	100
+ting hua de	听话的	100
+ting hua de	挺滑的	100
+ting hua le	听话了	100
+ting hua ting sheng	听话听声	100
+ting hua zuo yong	烃化作用	100
+ting hui wan a	挺会玩啊	100
+ting hui wei	挺回味	100
+ting hui zuo jie mu	听会做节目	100
+ting huo de	挺火的	100
+ting huo xian	停火线	100
+ting huo xie ding	停火协定	100
+ting ji bao hao	停机保号	100
+ting ji chang	停机场	100
+ting ji dong	挺激动	100
+ting ji dong de	挺激动的	100
+ting jia ban	艇甲板	100
+ting jian dan de	挺简单的	100
+ting jian dang mei ting jian	听见当没听见	100
+ting jian er qi	挺剑而起	100
+ting jian feng jiu shi yu	听见风就是雨	100
+ting jian kang	挺健康	100
+ting jian kang de	挺健康的	100
+ting jian kang de nv hai	挺健康的女孩	100
+ting jian kang de nv hai er	挺健康的女孩儿	100
+ting jian kang de nv ren	挺健康的女人	100
+ting jian kang de nv zi	挺健康的女子	100
+ting jian kang de ren	挺健康的人	100
+ting jian le	听见了	100
+ting jian le a	听见了啊	100
+ting jian le ma	听见了吗	100
+ting jian le ma	听见了嘛	100
+ting jian le me	听见了么	100
+ting jian ma	听见吗	100
+ting jian mei	听见没	100
+ting jian yin yue	听见音乐	100
+ting jiao xiang yue	听交响乐	100
+ting jie di qi	挺接地气	100
+ting jin di lao	挺进地牢	100
+ting jin lai	停进来	100
+ting jin lai	挺进来	100
+ting jin qu	停进去	100
+ting jin qu	听进去	100
+ting jin qu	挺进去	100
+ting jing pian	停经片	100
+ting jing qi	停经期	100
+ting jing shen	挺精神	100
+ting jing shen de	挺精神的	100
+ting jiu le	听久了	100
+ting jiu zhi yue	停酒止乐	100
+ting ju feng	厅局风	100
+ting juan de	挺卷的	100
+ting jue ci ji	听觉刺激	100
+ting jue dong wu	听觉动物	100
+ting jue gan shou	听觉感受	100
+ting jue gong neng	听觉功能	100
+ting jue he shi jue	听觉和视觉	100
+ting jue neng li	听觉能力	100
+ting jue pi ceng	听觉皮层	100
+ting jue qi guan	听觉器官	100
+ting jue sheng yan	听觉盛宴	100
+ting jue ti yan	听觉体验	100
+ting jue xi tong	听觉系统	100
+ting jue xiang shou	听觉享受	100
+ting jue xiao guo	听觉效果	100
+ting jue xing	听觉型	100
+ting jue xun lian	听觉训练	100
+ting jue you dao	听觉有道	100
+ting jue yu shi jue	听觉与视觉	100
+ting jue zhang ai	听觉障碍	100
+ting jun yi xi hua	听君一席话	100
+ting kai xin de	挺开心的	100
+ting kan chu fen	停刊处分	100
+ting kao gang	停靠港	100
+ting kao qian	挺靠前	100
+ting ke la	停课啦	100
+ting ke le ma	停课了吗	100
+ting ke lian	挺可怜	100
+ting ke lian de	挺可怜的	100
+ting ke qu	听课去	100
+ting ke xi	挺可惜	100
+ting ke xiao	挺可笑	100
+ting ke xiao de	挺可笑的	100
+ting ke xiao lv	听课效率	100
+ting kong bu	挺恐怖	100
+ting kuai di	停快递	100
+ting kuai le	挺快乐	100
+ting kun rao	挺困扰	100
+ting kun rao de	挺困扰的	100
+ting lai de	听来的	100
+ting lai ting qu	停来停去	100
+ting lai ting qu	挺来挺去	100
+ting lan de	挺懒的	100
+ting lan de	挺烂的	100
+ting lan yang yang	听懒羊羊	100
+ting lan yang yang kua	听懒羊羊夸	100
+ting lan yang yang kua kua	听懒羊羊夸夸	100
+ting lan yuan	汀兰苑	100
+ting lao gong	听老公	100
+ting lao gong de	听老公的	100
+ting lao gong de hua	听老公的话	100
+ting lao po	听老婆	100
+ting lao po de	听老婆的	100
+ting lao po de hua	听老婆的话	100
+ting lao shi hua	听老师话	100
+ting le ban tian	听了半天	100
+ting le dian	停了电	100
+ting le feng jiu shi yu	听了风就是雨	100
+ting le guan	挺乐观	100
+ting le guo lai	挺了过来	100
+ting le hen jiu	听了很久	100
+ting le hen jiu hen jiu	听了很久很久	100
+ting le hou	听了后	100
+ting le ma ma de hua	听了妈妈的话	100
+ting le mei	停了没	100
+ting le mei you	停了没有	100
+ting le qu	听了去	100
+ting le ta de hua	听了他的话	100
+ting le wo de hua	听了我的话	100
+ting le xia lai	停了下来	100
+ting le xiang da ren	听了想打人	100
+ting le yi bian	听了一遍	100
+ting le yi hou	听了以后	100
+ting le yi hui	听了一会	100
+ting le yi hui er	停了一会儿	100
+ting le yi hui er	听了一会儿	100
+ting le yi sheng de hua	听了医生的话	100
+ting leng men	挺冷门	100
+ting leng men de	挺冷门的	100
+ting li cheng ji	听力成绩	100
+ting li fen	听力分	100
+ting li hai de	挺厉害的	100
+ting li sun shi cheng du	听力损失程度	100
+ting li xi tong	听力系统	100
+ting li xia jiang	听力下降	100
+ting liang tian	挺两天	100
+ting ling er xing	听令而行	100
+ting liu chang	挺流畅	100
+ting liu de	挺溜的	100
+ting liu de di fang	停留的地方	100
+ting liu di	停留地	100
+ting liu duo chang shi jian	停留多长时间	100
+ting liu shi chang	停留时长	100
+ting liu shi jian chang	停留时间长	100
+ting liu shi jian guo chang	停留时间过长	100
+ting liu shi jian jiao chang	停留时间较长	100
+ting liu xing yin yue	听流行音乐	100
+ting liu zai	停留在	100
+ting liu zai yuan di	停留在原地	100
+ting luan de	挺乱的	100
+ting ma fan de	挺麻烦的	100
+ting ma ma de	听妈妈的	100
+ting man yi	挺满意	100
+ting man zu	挺满足	100
+ting mei de	挺美的	100
+ting mei jin	挺没劲	100
+ting mei jin de	挺没劲的	100
+ting mei jin er de	挺没劲儿的	100
+ting mei li	挺美丽	100
+ting mei ting dao	听没听到	100
+ting mei ting dao a	听没听到啊	100
+ting mei ting dao ya	听没听到呀	100
+ting mei ting dong	听没听懂	100
+ting mei ting dong a	听没听懂啊	100
+ting mei ting dong ya	听没听懂呀	100
+ting mei ting guo	听没听过	100
+ting mei ting guo a	听没听过啊	100
+ting mei ting guo ya	听没听过呀	100
+ting mei ting jian	听没听见	100
+ting mei ting jian a	听没听见啊	100
+ting mei ting jian ya	听没听见呀	100
+ting mei ting qing	听没听清	100
+ting mei ting qing a	听没听清啊	100
+ting mei ting qing chu	听没听清楚	100
+ting mei ting qing chu a	听没听清楚啊	100
+ting mei ting qing chu ya	听没听清楚呀	100
+ting mei ting qing ya	听没听清呀	100
+ting mei ting shuo	听没听说	100
+ting mei ting shuo a	听没听说啊	100
+ting mei ting shuo guo	听没听说过	100
+ting mei ting shuo ya	听没听说呀	100
+ting mei xiao wu	婷美小屋	100
+ting mei yi si	挺没意思	100
+ting mei yong	挺没用	100
+ting mei yong de	挺没用的	100
+ting mi de	挺迷的	100
+ting mi mang	挺迷茫	100
+ting mian qiang	挺勉强	100
+ting mian qiang de	挺勉强的	100
+ting ming bai le	听明白了	100
+ting ming bai le ma	听明白了吗	100
+ting ming xing shi	听命行事	100
+ting ming yu ni	听命于你	100
+ting ming yu wo	听命于我	100
+ting mo huan	挺魔幻	100
+ting mo huan de	挺魔幻的	100
+ting nan da	挺难打	100
+ting nan da ba	挺难打吧	100
+ting nan da de	挺难打的	100
+ting nan da de ba	挺难打的吧	100
+ting nan de	挺难得	100
+ting nan de	挺难的	100
+ting nan de de	挺难得的	100
+ting nan shou	挺难受	100
+ting nan shou de	挺难受的	100
+ting nei xiang	挺内向	100
+ting nei xiang de	挺内向的	100
+ting neng cang	挺能藏	100
+ting neng zhuang	挺能装	100
+ting ni de	听你的	100
+ting ni de hao ling	听你的号令	100
+ting ni le	听腻了	100
+ting ni men de	听你们的	100
+ting ni shuo	听你说	100
+ting ni zhe me	听你这么	100
+ting nin de	听您的	100
+ting niu bi	挺牛逼	100
+ting niu bi de	听牛逼的	100
+ting nu li	挺努力	100
+ting pai chong zu	停牌重组	100
+ting pei de	挺配的	100
+ting pei fu	挺佩服	100
+ting pian yi	挺便宜	100
+ting pian yi de	挺便宜的	100
+ting piao pai	挺朴派	100
+ting ping qu shi	听凭驱使	100
+ting qi guai	挺奇怪	100
+ting qi guai de	挺奇怪的	100
+ting qi guai de ya	挺奇怪的呀	100
+ting qi lai hai bu cuo	听起来还不错	100
+ting qi lai tou tou shi dao	听起来头头是道	100
+ting qi le xiong tang	挺起了胸膛	100
+ting qi xiong lai	挺起胸来	100
+ting qi xiong pu	挺起胸脯	100
+ting qi yan guan qi xing	听其言观其行	100
+ting qi yao ban er	挺起腰板儿	100
+ting qi zi bian	听其自便	100
+ting qian chui liu zhen zhong dai chun feng	亭前垂柳珍重待春风	100
+ting qian tiao jie	庭前调解	100
+ting qiang gen	听墙根	100
+ting qiang gen er	听墙根儿	100
+ting qiang lie	挺强烈	100
+ting qing chu a	听清楚啊	100
+ting qing chu le	听清楚了	100
+ting qing chu le a	听清楚了啊	100
+ting qing song	挺轻松	100
+ting qing song de	挺轻松的	100
+ting qing yin yue	听轻音乐	100
+ting qing zhe ju hua	听清这句话	100
+ting re men	挺热门	100
+ting re men de	挺热门的	100
+ting re qing	挺热情	100
+ting re qing de	挺热情的	100
+ting ren chuan bi	听人穿鼻	100
+ting ren quan	听人劝	100
+ting ren shuo	听人说	100
+ting ren tong	挺认同	100
+ting rong yi	挺容易	100
+ting rui zhi	挺睿智	100
+ting sha bi de	挺傻逼的	100
+ting sha le	听傻了	100
+ting shang lai	停上来	100
+ting shang lai	挺上来	100
+ting shang qu	停上去	100
+ting shang qu	挺上去	100
+ting shen hui	听审会	100
+ting shen me	听什么	100
+ting shen me ge	听什么歌	100
+ting shen me yin yue	听什么音乐	100
+ting shen mo shi	庭审模式	100
+ting shen xi tong	庭审系统	100
+ting shen xiang hu	挺身相互	100
+ting sheng meng	挺生猛	100
+ting sheng yin	听声音	100
+ting sheng you	挺省油	100
+ting shi he ni	挺适合你	100
+ting shou ba	停手吧	100
+ting shu ri	停数日	100
+ting shuai de	挺帅的	100
+ting shuai qi	挺帅气	100
+ting shuang de	挺爽的	100
+ting shui le	停水了	100
+ting shui le ma	停水了吗	100
+ting shuo chuan qi	听说传奇	100
+ting shuo guo an li	听说过安利	100
+ting shuo guo an li ma	听说过安利吗	100
+ting shuo guo ma	听说过吗	100
+ting shuo guo mei jian guo	听说过没见过	100
+ting shuo hai you	听说还有	100
+ting shuo le ci shi	听说了此事	100
+ting shuo le ma	听说了吗	100
+ting shuo le mei	听说了没	100
+ting shuo le mei you	听说了没有	100
+ting shuo mei	听说没	100
+ting shuo zui jin liu xing	听说最近流行	100
+ting si wen	挺斯文	100
+ting si wu yong	听似无用	100
+ting sun dan	停损单	100
+ting sun dian	停损点	100
+ting ta de	听他的	100
+ting ta de hao ling	听他的号令	100
+ting tai xin	听胎心	100
+ting te shu	挺特殊	100
+ting tian an ming	听天安命	100
+ting tian ren ming	听天任命	100
+ting ting ji di	婷婷基地	100
+ting ting jiu de le	听听就得了	100
+ting ting jiu guo qu le	挺挺就过去了	100
+ting ting jiu suan le	听听就算了	100
+ting ting kan	停停看	100
+ting ting ke	听听课	100
+ting ting li	听听力	100
+ting ting qing yin yue	听听轻音乐	100
+ting ting ru gai	亭亭如盖	100
+ting ting shan shang song	庭庭山上松	100
+ting ting shu huan de yin yue	听听舒缓的音乐	100
+ting tou teng	挺头疼	100
+ting wai xiang	挺外向	100
+ting wai xiang de	挺外向的	100
+ting wei jue yi	听微决疑	100
+ting wei nan	挺为难	100
+ting wei nan de	挺为难的	100
+ting wen yuan fang	听闻远方	100
+ting wo de	听我的	100
+ting wo de hao ling	听我的号令	100
+ting wo de hua	听我的话	100
+ting wo de kou ling	听我的口令	100
+ting wo de mei cuo	听我的没错	100
+ting wo gei ni chui	听我给你吹	100
+ting wo gen ni shuo	听我跟你说	100
+ting wo jie shi	听我解释	100
+ting wo ju quan	听我句劝	100
+ting wo kou ling	听我口令	100
+ting wo shuo a	听我说啊	100
+ting wo shuo cao ni ma	听我说肏你妈	100
+ting wo shuo ji ju	听我说几句	100
+ting wo shuo xie xie ni	听我说谢谢你	100
+ting wo shuo ya	听我说呀	100
+ting wo yi ju quan	听我一句劝	100
+ting wu yu	挺无语	100
+ting wu yu de	挺无语的	100
+ting xi huan de	挺喜欢的	100
+ting xi yang yang	听喜羊羊	100
+ting xia che	停下车	100
+ting xia che hou	停下车后	100
+ting xia jiao bu	停下脚步	100
+ting xia lai	挺下来	100
+ting xia le	停下了	100
+ting xia le jiao bu	停下了脚步	100
+ting xia qu	停下去	100
+ting xia qu	挺下去	100
+ting xia ren	挺吓人	100
+ting xiang de	挺像的	100
+ting xiang de	挺想的	100
+ting xiang de	挺香的	100
+ting xiang kan	挺想看	100
+ting xiao qu	听小曲	100
+ting xiao qu er	听小曲儿	100
+ting xie di	停歇地	100
+ting xie hua lang	亭榭画廊	100
+ting xin ku	挺辛苦	100
+ting xin ku de	挺辛苦的	100
+ting xin le	听信了	100
+ting xin ying de	挺新颖的	100
+ting xin zhu ku	停辛伫苦	100
+ting xing fu	挺幸福	100
+ting xing fu de	挺幸福的	100
+ting xiong can	挺凶残	100
+ting xiong er kua kua	听熊二夸夸	100
+ting xiong tai tou shou fu	挺胸抬头收腹	100
+ting yan guan xing	听言观行	100
+ting yan jun	挺严峻	100
+ting yan shi	挺严实	100
+ting yan zhong	挺严重	100
+ting yan zhong de	挺严重的	100
+ting yao gun yue	听摇滚乐	100
+ting ye chu fen	停业处分	100
+ting yi han	挺遗憾	100
+ting yi huo	挺疑惑	100
+ting yi ju quan	听一句劝	100
+ting yi xi hua	听一席话	100
+ting yi zhi	挺一致	100
+ting yi zhi de	挺一致的	100
+ting yin yue hui	听音乐会	100
+ting yin yue shi	听音乐时	100
+ting yong gan	挺勇敢	100
+ting yong gan de	挺勇敢的	100
+ting yong xin	挺用心	100
+ting you cai de	挺有才的	100
+ting you gan jue	挺有感觉	100
+ting you hao gan	挺有好感	100
+ting you liao	挺有料	100
+ting you ming	挺有名	100
+ting you nei han	挺有内涵	100
+ting you shi li	挺有实力	100
+ting you xian	挺悠闲	100
+ting you xian	挺有限	100
+ting you xin	挺有心	100
+ting you yi si de	挺有意思的	100
+ting you yi yi	挺有意义	100
+ting you yi yi de	挺有意义的	100
+ting you yong	挺有用	100
+ting you yong de ba	挺有用的吧	100
+ting yuan de	挺圆的	100
+ting yuan de	挺远的	100
+ting yuan deng xi lie	庭院灯系列	100
+ting yun luo yue	停云落月	100
+ting yun man bu	停云慢步	100
+ting zai dang nian	挺在当年	100
+ting zai shi ba jiu sui qing chou chang	停在十八九岁情惆怅	100
+ting zai yuan di	停在原地	100
+ting zao gao	挺糟糕	100
+ting zhan ri	停战日	100
+ting zhao ji	挺着急	100
+ting zhao ji a	挺着急啊	100
+ting zhe bu cuo	听着不错	100
+ting zhe bu kao pu	听着不靠谱	100
+ting zhe bu shu fu	听着不舒服	100
+ting zhe da du	挺着大肚	100
+ting zhe da du zi	挺着大肚子	100
+ting zhe dou bu kao pu	听着都不靠谱	100
+ting zhe du zi	挺着肚子	100
+ting zhe ge	听着歌	100
+ting zhe ge da du zi	挺着个大肚子	100
+ting zhe ge du zi	挺着个肚子	100
+ting zhe ge qu	听着歌曲	100
+ting zhe guang bo	听着广播	100
+ting zhe hai lang	听着海浪	100
+ting zhe hao ting	听着好听	100
+ting zhe hui	听着会	100
+ting zhe jiu	听着就	100
+ting zhe jiu shuai	听着就帅	100
+ting zhe shu fu	听着舒服	100
+ting zhe ta de ge zhang da	听着他的歌长大	100
+ting zhe teng	挺折腾	100
+ting zhe teng de	挺折腾的	100
+ting zhe xiang	听着像	100
+ting zhe xiong	挺着胸	100
+ting zhe yin yue	听着音乐	100
+ting zhe yu sheng	听着雨声	100
+ting zhe yun du	挺着孕肚	100
+ting zhen han	挺震撼	100
+ting zhen jing	挺震惊	100
+ting zhen le	停诊了	100
+ting zheng can jia ren	听证参加人	100
+ting zheng chang	挺正常	100
+ting zheng chang de	挺正常的	100
+ting zheng hui can jia ren	听证会参加人	100
+ting zheng mian zhe	廷争面折	100
+ting zheng zhi	挺正直	100
+ting zhi chi	挺支持	100
+ting zhi chuan shu	停止传输	100
+ting zhi de	挺值得	100
+ting zhi diao cha	停止调查	100
+ting zhi diao cha	停职调查	100
+ting zhi dong zuo	停止动作	100
+ting zhi fa xing	停止发行	100
+ting zhi fu wu	停止服务	100
+ting zhi geng xin le	停止更新了	100
+ting zhi gong gong yu le huo dong	停止公共娱乐活动	100
+ting zhi jun shi xing dong	停止军事行动	100
+ting zhi le hu xi	停止了呼吸	100
+ting zhi le ku qi	停止了哭泣	100
+ting zhi le shen ti	挺直了身体	100
+ting zhi le si kao	停止了思考	100
+ting zhi le yao ban	挺直了腰板	100
+ting zhi le yao gan	挺直了腰杆	100
+ting zhi lun	停滞论	100
+ting zhi lv xing	停止履行	100
+ting zhi sheng zhang	停止生长	100
+ting zhi sun shi	停止损失	100
+ting zhi xia jiang	停止下降	100
+ting zhi xing dong	停止行动	100
+ting zhi yao ban	挺直腰板	100
+ting zhi zeng zhang	停止增长	100
+ting zhi zhang	挺智障	100
+ting zhi zhang de	挺智障的	100
+ting zhi zhang gao	停止长高	100
+ting zhong de	挺重的	100
+ting zhong yao	挺重要	100
+ting zhong yao de	挺重要的	100
+ting zhou cai bai pin	汀洲采白𬞟	100
+ting zhou fu	汀州府	100
+ting zhu dong	挺主动	100
+ting zhu dong de	挺主动的	100
+ting zhu le	停住了	100
+ting zhu le	挺住了	100
+ting zhu le dong zuo	停住了动作	100
+ting zhu le jiao bu	停住了脚步	100
+ting zhuan jia	听专家	100
+ting zhuan jia de	听专家的	100
+ting zhuang bi	挺装逼	100
+ting zhuang guan	挺壮观	100
+ting zi ran	挺自然	100
+ting zui le	听醉了	100
+ting zuo shi	听作是	100
+ting xia	亭下	97
+ting ting xie xie	停停歇歇	95
+ting mei mian zi	挺没面子	90
+ting ting dang dang	停停当当	90
+ting ting kai kai	停停开开	90
+ting kao shi	停靠式	87
+ting che fang	停车房	85
+ting bu liao	挺不了	80
+ting ji zhi ling	停机指令	80
+ting qu wa sheng yi pian	听取蛙声一片	77
+ting duo jiu	停多久	76
+ting chen	廷琛	75
+ting ge ne	听歌呢	75
+ting guai de	挺怪的	73
+ting de dao a	听得到啊	71
+ting zhi hou	停止后	71
+ting feng shi yu	听风是雨	70
+ting jing qi	挺景气	68
+ting qing tan hua	听清谈话	68
+ting nan gao	挺难搞	67
+ting shu ji	听书机	66
+ting bu pian yi	挺不便宜	65
+ting shang jin	挺上进	65
+ting si qiao zhan yi	汀泗桥战役	65
+ting bu shao	挺不少	64
+ting cao	挺糙	64
+ting de hua	停的话	64
+ting fu ze ren	挺负责任	64
+ting yi sheng de	听医生的	63
+ting wo men	听我们	62
+ting xin liu zhi he tong	停薪留职合同	62
+ting ping xiang	汀坪乡	61
+ting che kong zhi	停车控制	60
+ting de xiang	听得像	60
+ting yuan shen shen shen ji xu	庭院深深深几许	60
+ting lan	挺蓝	55
+ting liu xing	挺流行	54
+ting ding	亭顶	53
+ting shen jing liu	听神经瘤	53
+ting you ren	挺诱人	52
+ting zhe miao miao	听者藐藐	52
+ting che wei you xian	停车位有限	50
+ting dui	停兑	50
+ting xian	停闲	50
+ting shun li de	挺顺利的	47
+ting hao le che	停好了车	46
+ting de qi	挺得起	45
+ting de xiang	挺得像	45
+ting guo yin de	挺过瘾的	45
+ting shen er qi	挺身而起	42
+ting hou tong zhi	听候通知	40
+ting jue chi dun	听觉迟钝	40
+ting jue fan she	听觉反射	40
+ting li ce ding	听力测定	40
+ting yin lian xi	听音练习	40
+ting jue bian ma	听觉编码	35
+ting li biao	听力表	35
+ting qi zi ran	听其自然	32
+ting bu	廷布	31
+ting zhang yi	挺仗义	31
+ting de jian ma	听得见吗	30
+ting jue ding wei	听觉定位	30
+ting ping chu zhi	听凭处置	30
+ting xie ce yan	听写测验	30
+ting li zi	葶苈子	29
+ting xiao gu	听小骨	29
+ting jue zhong shu	听觉中枢	28
+ting che chang lu kou	停车场路口	26
+ting nan	亭南	26
+ting che yuan yin	停车原因	25
+ting de bi	挺得比	25
+ting jue yu	听觉阈	25
+ting ni dao di	挺你到底	24
+ting qi zai qu	停妻再娶	24
+ting zhe you fen	听者有份	23
+ting de jian a	听得见啊	21
+ting yao fan ying	停药反应	21
+ting hua er	听话儿	20
+ting xi huan ta	挺喜欢她	20
+ting zhe ne	停着呢	20
+ting jue que xian	听觉缺陷	15
+ting tao ya yuan	听涛雅苑	15
+ting zhan he yue	停战和约	15
+ting qu ren	听取人	13
+ting tao yuan	听涛园	13
+ting wan de le	挺晚的了	13
+ting xiong die du	挺胸叠肚	13
+ting fei jin er	挺费劲儿	12
+ting hao zuo	挺好做	12
+ting nan gai	挺难改	12
+ting nan kan	挺难看	12
+ting re lie	挺热烈	12
+ting ta shi	挺踏实	12
+ting wan de	挺晚的	12
+ting bo shui	停泊税	10
+ting huo zhe	停火者	10
+ting xian	汀线	10
+ting zhe ne	挺着呢	10
+ting huan jue	听幻觉	9
+ting lin xian sheng	亭林先生	9
+ting qi yan er xin qi xing	听其言而信其行	8
+ting ai	挺爱	7
+ting bei	亭北	7
+ting li cao ke li	葶苈草颗粒	7
+ting lin	亭林	7
+ting shan	亭山	7
+ting xing nao gan fan ying	听性脑干反应	7
+ting zhi	听之	7
+ting bo chang	停泊场	6
+ting chuan zan jie wen	停船暂借问	6
+ting hui xue	听会穴	6
+ting jiao	汀角	6
+ting jue guo min	听觉过敏	6
+ting ye tong zhi shu	停业通知书	6
+ting you pi pa shu	庭有枇杷树	6
+ting zao	挺躁	6
+ting zao de	挺躁的	6
+ting zhong you qi shu	庭中有奇树	6
+ting ai	挺矮	5
+ting ai chi	挺爱吃	5
+ting ai de	挺矮的	5
+ting ai mai	挺爱买	5
+ting ai qu	挺爱去	5
+ting an	挺暗	5
+ting chou	挺臭	5
+ting chou de	挺臭的	5
+ting dan	挺淡	5
+ting e xin de	挺恶心的	5
+ting feng	挺疯	5
+ting feng kuang	挺疯狂	5
+ting ge xiang er	听个响儿	5
+ting ji de	挺急的	5
+ting ku de	挺苦的	5
+ting kuang	挺狂	5
+ting la de	挺辣的	5
+ting la ji	挺垃圾	5
+ting leng de	挺冷的	5
+ting liang	挺亮	5
+ting liang	挺凉	5
+ting liang de	挺凉的	5
+ting lv	挺绿	5
+ting man de	挺慢的	5
+ting nong	挺浓	5
+ting nong de	挺浓的	5
+ting qian	挺前	5
+ting qian	挺浅	5
+ting qian hui yi zhi du	庭前会议制度	5
+ting shen	挺神	5
+ting shen de	挺神的	5
+ting shen jing	挺神经	5
+ting shen jing de	挺神经的	5
+ting shi de	挺湿的	5
+ting suan de	挺酸的	5
+ting tao yan	挺讨厌	5
+ting tao yan de	挺讨厌的	5
+ting tian de	挺甜的	5
+ting wu zhu	挺无助	5
+ting wu zhu de	挺无助的	5
+ting xian	挺咸	5
+ting xian de	挺鲜的	5
+ting zao	挺燥	5
+ting zao de	挺燥的	5
+ting zhi miao miao	听之藐藐	5
+ting zhuang	挺装	5
+ting chang xin fan yang liu zhi	听唱新翻杨柳枝	4
+ting feng ting shui	听风听水	4
+ting gong xue	听宫穴	4
+ting qian shao yao yao wu ge	庭前芍药妖无格	4
+ting shu seng jun tan qin	听蜀僧浚弹琴	4
+ting xiang yuan	庭香园	4
+ting shang bai sha kan bu jian	汀上白沙看不见	3
+ting ting ru che gai	亭亭如车盖	3
+ting ting wu zhang yu	亭亭五丈余	3
+ting ting yue jiang yuan	亭亭月将圆	3
+ting xia ru ji shui kong ming	庭下如积水空明	3
+ting zi qiao cun	亭子桥村	3
+ting che jie	停车姐	2
+ting chou de	挺丑的	2
+ting de jiu	停得久	2
+ting dian she qu	亭店社区	2
+ting du	听读	2
+ting jiao	亭脚	2
+ting jue shi ying	听觉适应	2
+ting qi	町畦	2
+ting qi yan ye li	听其言也厉	2
+ting ting shan shang song	亭亭山上松	2
+ting xi	亭西	2
+ting zhi	艇只	2
+ting zhu	停潴	2
+ting zi	听子	2
+ting cao an hua hun bu jian	汀草岸花浑不见	1
+ting cao chun shen shou dai chang	庭草春深绶带长	1
+ting chen xi nu	停瞋息怒	1
+ting ci han chong hao	听此寒虫号	1
+ting cong shi ming	听聪视明	1
+ting cun	汀村	1
+ting ding cun	亭顶村	1
+ting feng ting yu guo qing ming	听风听雨过清明	1
+ting fu qian zhi ci	听妇前致词	1
+ting he	听喝	1
+ting he pu xiang	停河铺乡	1
+ting jiang	汀江	1
+ting jiang dong lu	汀江东路	1
+ting ka xiang	庭卡乡	1
+ting li guan	听鹂馆	1
+ting li qi	听力器	1
+ting liu zhang zhi	停留长智	1
+ting lu zou xian	挺鹿走险	1
+ting mei	婷美	1
+ting ming you tian	听命由天	1
+ting nang wei zhi wei xian chong	听囊伪直尾线虫	1
+ting pai gao shou	听牌高手	1
+ting qi zi liu	听其自流	1
+ting sha bi	挺傻屄	1
+ting shu chao ying wu	庭树巢鹦鹉	1
+ting tian wei ming	听天委命	1
+ting tuo	挺脱	1
+ting xi yuan	听溪园	1
+ting xia shui lian kong	亭下水连空	1
+ting xian shu	停陷术	1
+ting xuan ji mo jin qing ming	庭轩寂寞近清明	1
+ting xue dao yao mai bu si	庭雪到腰埋不死	1
+ting yuan an yu zha xie	庭院暗雨乍歇	1
+ting yuan da wo niu	庭院大蜗牛	1
+ting yun	停匀	1
+ting zhan xie yi shu	停战协议书	1
+ting zhi zhi xing si xing cheng xu	停止执行死刑程序	1
+ting zhou yi mian	汀州伊面	1
+ting zi	桯子	1
+ting zi	梃子	1
+ting zi zhuang	亭子庄	1
+ting zi zhuang	亭自庄	1

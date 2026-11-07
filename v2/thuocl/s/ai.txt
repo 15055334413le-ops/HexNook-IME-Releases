@@ -1,0 +1,233 @@
+ai zheng	癌症	35606
+ai zi bing	艾滋病	16147
+ai jia ai hu	挨家挨户	11057
+ai ha mai de	艾哈迈德	9717
+ai de hua	爱德华	8254
+ai bo la bing du	埃博拉病毒	5220
+ai lun	艾伦	5075
+ai er lan ka fei	爱尔兰咖啡	4017
+ai bu shi shou	爱不释手	3845
+ai yin si tan	爱因斯坦	2888
+ai sha ni ya	爱沙尼亚	2797
+ai ao wa zhou	艾奥瓦州	2709
+ai bian	癌变	2392
+ai zi bing fang zhi tiao li	艾滋病防治条例	1637
+ai bo la chu xie re	埃博拉出血热	1362
+ai di sheng	爱迪生	1235
+ai sheng tan qi	唉声叹气	1136
+ai wo wo	艾窝窝	1089
+ai de hua zi	爱德华兹	1084
+ai sen hao wei er	艾森豪威尔	1064
+ai mo neng zhu	爱莫能助	913
+ai ye	艾叶	897
+ai qi yi	爱奇艺	799
+ai mi er	埃米尔	794
+ai li xin	爱立信	793
+ai de jia	埃德加	747
+ai cao	艾草	664
+ai hong bian ye	哀鸿遍野	589
+ai qing	艾青	546
+ai da he zhou	爱达荷州	534
+ai zeng fen ming	爱憎分明	517
+ai dou	爱都	504
+ai jia mi	爱加密	497
+ai qian bing bian	癌前病变	480
+ai er	艾尔	404
+ai ji yi wen	埃及伊蚊	313
+ai wu ji wu	爱屋及乌	293
+ai guo lu	爱国路	284
+ai qi	嗳气	280
+ai zi bing yi miao	艾滋病疫苗	258
+ai ti ga er qing zhen si	艾提尕尔清真寺	255
+ai xi yu mao	爱惜羽毛	246
+ai zi bing kang ti	艾滋病抗体	210
+ai qun da sha	爱群大厦	205
+ai er dun	埃尔顿	201
+ai mei bu ming	暧昧不明	174
+ai mo sheng	爱默生	167
+ai mo da yu xin si	哀莫大于心死	158
+ai min lu	爱民路	157
+ai wei wei	艾未未	157
+ai min ru zi	爱民如子	148
+ai er bu shang	哀而不伤	142
+ai bi hu	艾比湖	139
+ai xin lu	爱心路	132
+ai da	爱达	123
+ai jian	爱建	121
+ai men ai hu	挨门挨户	121
+ai min sheng zhi duo jian	哀民生之多艰	115
+ai ren song gao	矮人松糕	115
+ai shou ai jiao	碍手碍脚	114
+ai si qi	艾思奇	112
+ai ji fen shu	埃及分数	109
+ai ding hu	艾丁湖	103
+ai de meng de	埃德蒙德	91
+ai deng bao	爱登堡	79
+ai bo la bing du bing	埃博拉病毒病	78
+ai jing	艾敬	76
+ai ke	艾柯	72
+ai guo cun	爱国村	71
+ai di xi	艾迪西	67
+ai ji yin	癌基因	66
+ai men zhu hu	挨门逐户	64
+ai pei kang yuan	癌胚抗原	64
+ai xin	爱新	61
+ai wu	艾芜	60
+ai ling	爱玲	57
+ai xiao yang	艾小羊	53
+ai meng meng	艾梦萌	49
+ai si zuo lun	艾司唑仑	46
+ai bing bi sheng	哀兵必胜	45
+ai cai ru ming	爱财如命	42
+ai da shou ma	挨打受骂	42
+ai cai	爱彩	39
+ai deng bao yu mu	艾登堡鱼母	38
+ai wu	矮屋	38
+ai gong jie	爱工街	37
+ai de er man	埃德尔曼	36
+ai si ke ba	埃斯科巴	35
+ai da hua yuan	爱达花园	34
+ai hui	爱辉	34
+ai li ya si	艾利亚斯	34
+ai fei er	艾菲尔	32
+ai ai yuan ren cun	暧暧远人村	28
+ai ke bing du	埃可病毒	28
+ai min jie	爱民街	28
+ai lao	哀牢	27
+ai ai fu mu	哀哀父母	26
+ai zi bing chu shai shi yan shi	艾滋病初筛实验室	26
+ai di sheng	艾迪生	24
+ai qian ru ming	爱钱如命	24
+ai hua lu	爱华路	22
+ai da shou qi	挨打受气	21
+ai fu nuan gong wan	艾附暖宫丸	20
+ai hao gao	艾蒿糕	18
+ai de hua shi jun bing	爱德华氏菌病	17
+ai xin	艾昕	17
+ai ya ka pu fan long ge xi	爱亚卡普凡龙鸽系	17
+ai si zuo lun pian	艾司唑仑片	15
+ai li	爱梨	13
+ai ling	矮岭	13
+ai mo lv	爱墨绿	13
+ai wei ta	艾薇塔	13
+ai rong yuan	爱榕园	11
+ai er mu dong xiang	艾尔木东乡	10
+ai jiu bu kui tian	爱酒不愧天	10
+ai lian cun	爱联村	10
+ai lv ya	艾吕雅	9
+ai jiao di wen geng	矮脚狄文梗	8
+ai ke bing du gan ran	埃可病毒感染	8
+ai er wei xiu	爱尔维修	7
+ai guan ying	艾官营	7
+ai ma xiang	艾玛乡	7
+ai suo mei la zuo	埃索美拉唑	7
+ai wu sheng zhi xu yu	哀吾生之须臾	7
+ai xi mu sang zha	艾西姆桑扎	7
+ai guo dao	爱国道	6
+ai jia wan	艾家湾	6
+ai ming si zhan dou	哀鸣思战斗	6
+ai bu deng	埃布登	5
+ai ke yi yuan	艾克医院	5
+ai mu deng e	埃姆登鹅	5
+ai zhi xie xing xian zuo cao	矮纸斜行闲作草	5
+ai di zhu she ye	艾迪注射液	4
+ai er lan zi zhi fa an	爱尔兰自治法案	4
+ai lan mu ba ge jie dao	艾兰木巴格街道	4
+ai lian lu	爱联路	4
+ai sen ke ren ge wen juan	艾森克人格问卷	4
+ai shi huo e ji ju xie	艾氏活额寄居蟹	4
+ai yang zhen	叆阳镇	4
+ai zi zhai	矮子斋	4
+ai di da sha	爱地大厦	3
+ai er lan ruan mao mai se geng	爱尔兰软毛麦色梗	3
+ai jia zui	艾家嘴	3
+ai lei si	埃勒斯	3
+ai li xi hu zhen	艾里西湖镇	3
+ai nai yi sheng shan shui lv	欸乃一声山水绿	3
+ai ru yu shan cao tang jing	爱汝玉山草堂静	3
+ai tao yi shui yuan	爱涛漪水园	3
+ai xing fa re	癌性发热	3
+ai ai gua fu zhu qiu jin	哀哀寡妇诛求尽	2
+ai di cha	矮地茶	2
+ai en guo ji xue yuan	爱恩国际学院	2
+ai er ke ye er	埃尔克耶尔	2
+ai gao qiu zhi wu nv	哀高丘之无女	2
+ai lang xiang	矮郎乡	2
+ai lve te bo lang li lun	艾略特波浪理论	2
+ai ru shan shang xue	皑如山上雪	2
+ai wei xin kou fu ye	爱维心口服液	2
+ai ye you	艾叶油	2
+ai zhi yu qi sheng	爱之欲其生	2
+ai zi xin wu jin	爱子心无尽	2
+ai ai jiao qi jian	哀哀叫其间	1
+ai ci he hua xian	爱此荷花鲜	1
+ai er mo an	埃尔默案	1
+ai er xiang	爱尔香	1
+ai fu ji fu	艾夫吉夫	1
+ai hui xian	爱辉县	1
+ai jiao chu shan lie	哀叫楚山裂	1
+ai le bu yi shi hu qian	哀乐不易施乎前	1
+ai mai chao shi	爱买超市	1
+ai ming qiu pi chou	哀鸣求匹俦	1
+ai nan yi zhi mo wu zhi xi	哀南夷之莫吾知兮	1
+ai pu lie te	爱普列特	1
+ai pu lie te pian	爱普列特片	1
+ai shui kan hua ri ri lai	爱水看花日日来	1
+ai si ji mo di yu ren zhong	爱斯基摩地域人种	1
+ai tian you	爱田由	1
+ai wei er gou jie dao	艾维尔沟街道	1
+ai wu sheng zhi wu le xi	哀吾生之无乐兮	1
+ai xi man hu	艾西曼湖	1
+ai xian	艾县	1
+ai yao zhen ji cong ci qi	哀谣振楫从此起	1
+ai ye mei nai zi	爱野美奈子	1
+ai yi shi er yi xiang	哀一逝而异乡	1
+ai yin he dong ren	哀音何动人	1
+ai yuan qi sao ren	哀怨起骚人	1
+ai zhi yu qi fu ye	爱之欲其富也	1
+ai zi tian zhong qu	爱兹田中趣	1
+ai zong	哀宗	1
+ai bo xiu liu	艾伯鸺鹠	0
+ai de hua hu pu li yu	爱德华湖朴丽鱼	0
+ai de hua wu hua guo ying wu	爱德华无花果鹦鹉	0
+ai de hua yu luo	爱德华芋螺	0
+ai de hua zhi	爱德华雉	0
+ai deng bao mu yu	艾登堡母鱼	0
+ai du deng jiang	埃杜灯鳉	0
+ai er jia nai jiao long shu	艾尔加奈角龙属	0
+ai er lan sa te gou	爱尔兰萨特狗	0
+ai er ou ruo zhui wei ying wu	艾尔欧若锥尾鹦鹉	0
+ai er xi lu jiao shan hu	埃尔西鹿角珊瑚	0
+ai ji nv wang mei ren bao luo	埃及女王美人宝螺	0
+ai ji si mo biao yu	爱基斯摩杓鹬	0
+ai ji zhu wei xie	埃及柱尾蝎	0
+ai jiao shu ye	艾胶树叶	0
+ai li nuo xiao ban shang feng die	艾丽诺小斑裳凤蝶	0
+ai li si mu jiao shi mu	爱丽斯木角石目	0
+ai li si wei qi xia hu yu	艾丽斯苇栖鰕虎鱼	0
+ai li xi ya guan wen nian	艾丽西亚管吻鲶	0
+ai liu mao chong	爱六矛虫	0
+ai lu dao zhe zhong ying wu	艾鲁岛折衷鹦鹉	0
+ai mei er mei zhou gui	艾梅尔美洲鱥	0
+ai mei fu jia ba	爱媚副铗叭	0
+ai mei qiu chong ya mu	艾美球虫亚目	0
+ai mo lao xia gu geng	艾莫劳峡谷梗	0
+ai nu quan	艾努犬	0
+ai sai e bi ya ai qing niao	埃塞俄比亚爱情鸟	0
+ai sai e bi ya bang ren	埃塞俄比亚傍人	0
+ai sai e bi ya bei shan yang	埃塞俄比亚北山羊	0
+ai sai e bi ya gao yuan tu	埃塞俄比亚高原兔	0
+ai shi bai jing xia hu yu	艾氏白睛鰕虎鱼	0
+ai shi bin xie	艾氏滨蟹	0
+ai shi lv song hua yi	艾氏吕宋花鮨	0
+ai shi mo tang li	埃氏磨塘鳢	0
+ai shi nai bo xia hu yu	埃氏奈波鰕虎鱼	0
+ai shi ya kuan qiao jian feng	艾氏亚宽鞘茧蜂	0
+ai shi zhen mo xi ge ju	艾氏真墨西哥鮈	0
+ai si pei shi qian bi yu	埃斯佩氏铅笔鱼	0
+ai te na dao lie quan	埃特那岛猎犬	0
+ai tou duan wen zhang wei xue	矮头短吻长尾鳕	0
+ai wo ke long	艾沃克龙	0
+ai xiao huang dao xie	矮小黄道蟹	0
+ai xie zhi can	埃谢栉蚕	0
+ai yi pu li yu	矮鮨朴丽鱼	0

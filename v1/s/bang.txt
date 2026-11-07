@@ -1,0 +1,596 @@
+bang zhu	帮助	501110
+bang di	邦迪	459370
+bang mang	帮忙	307185
+bang wo	帮我	235465
+bang ni	帮你	230745
+bang ding	绑定	137390
+bang yang	榜样	112525
+bang wan	傍晚	96205
+bang ta	帮他	90590
+bang pai	帮派	90305
+bang zhu ni	帮助你	88070
+bang nin	帮您	72685
+bang zhu qi ye	帮助企业	61345
+bang ta	帮她	60170
+bang zhu	帮主	59375
+bang zhu wen jian	帮助文件	55670
+bang jia	绑架	52285
+bang zhu xue sheng	帮助学生	52065
+bang zhu zhong xin	帮助中心	36435
+bang zhe	帮着	34780
+bang zhu xin xi	帮助信息	32855
+bang wo men	帮我们	29565
+bang shang	榜上	29070
+bang hui	帮会	29060
+bang jiao	帮教	28150
+bang shou	帮手	27895
+bang zhu bie ren	帮助别人	26615
+bang bang	帮帮	26460
+bang de	帮的	25855
+bang bang mang	帮帮忙	24095
+bang ren	帮人	23965
+bang qiu	棒球	23185
+bang le	帮了	21980
+bang ta men	帮他们	21725
+bang zai	绑在	21410
+bang ta men	帮她们	20050
+bang zhu yong hu	帮助用户	19315
+bang zhu hai zi	帮助孩子	16825
+bang bang	棒棒	16635
+bang shang you ming	榜上有名	16325
+bang bang wo	帮帮我	14455
+bang zhu nong min	帮助农民	13915
+bang zi	棒子	13645
+bang zhu wen dang	帮助文档	12882
+bang yan	榜眼	12710
+bang ding	帮顶	12570
+bang zhu da jia	帮助大家	12035
+bang bang tang	棒棒糖	11920
+bang fei	绑匪	11430
+bang xiong	帮凶	10645
+bang zhu zhong guo	帮助中国	10550
+bang bian er	傍边儿	9999
+bang cou	帮凑	9999
+bang dai	帮带	9999
+bang dan	榜单	9999
+bang e	榜额	9999
+bang er tang	棒儿糖	9999
+bang er xiang	棒儿香	9999
+bang fu	帮扶	9999
+bang ge	帮个	9999
+bang hei er	傍黑儿	9999
+bang kun	帮困	9999
+bang lang	𠳐啷	9999
+bang lang bang lang	𠳐啷𠳐啷	9999
+bang liang er	傍亮儿	9999
+bang si	绑死	9999
+bang tang	棒糖	9999
+bang tao	帮套	9999
+bang tie	帮贴	9999
+bang wu	傍午	9999
+bang ying	梆硬	9999
+bang zhen	棒针	9999
+bang yi xia	帮一下	9295
+bang wan shi fen	傍晚时分	9150
+bang zi	梆子	8915
+bang zi	膀子	8660
+bang bie ren	帮别人	8325
+bang shang	帮上	8210
+bang ge mang	帮个忙	8185
+bang gong	帮工	8100
+bang bu liao	帮不了	8095
+bang jia le	绑架了	7945
+bang ni men	帮你们	7645
+bang zhu	绑住	7550
+bang zhe	绑着	7545
+bang dao	帮到	7535
+bang cai	棒材	7510
+bang peng you	帮朋友	7270
+bang zhu ren	帮助人	6895
+bang wo kan kan	帮我看看	6695
+bang er	榜二	6666
+bang san	榜三	6666
+bang yi	榜一	6666
+bang mang de	帮忙的	6250
+bang za	绑扎	6205
+bang chui	棒槌	5910
+bang zhu xi tong	帮助系统	5705
+bang ji	棒极	5605
+bang ji le	棒极了	5605
+bang bu shang	帮不上	5350
+bang zhu hen da	帮助很大	5210
+bang ni ding	帮你顶	4795
+bang shang	绑上	4780
+bang ding shi jian	绑定事件	4584
+bang da jia	帮大家	4460
+bang zhuang	棒状	4290
+bang ban	帮办	4180
+bang zhu he zhi dao	帮助和指导	4120
+bang qiu mao	棒球帽	4115
+bang wo zuo	帮我做	4115
+bang zhu qiu dui	帮助球队	4075
+bang lian	邦联	4065
+bang da kuan	傍大款	3960
+bang guo	帮过	3850
+bang tui	绑腿	3785
+bang qiu dui	棒球队	3735
+bang shou	榜首	3722
+bang jia zui	绑架罪	3675
+bang qiang	帮腔	3620
+bang chen	帮衬	3600
+bang da	棒打	3545
+bang bu shang mang	帮不上忙	3535
+bang zhu lei	帮助类	3529
+bang zi	帮子	3505
+bang qi	绑起	3480
+bang qi lai	绑起来	3480
+bang ke	蚌壳	3355
+bang a	棒啊	3333
+bang bang da	棒棒哒	3333
+bang bang de	棒棒的	3333
+bang jue er	傍角儿	3333
+bang jiao zheng chang hua	邦交正常化	3270
+bang zhu ni men	帮助你们	3095
+bang wan shi	傍晚时	3090
+bang bang wo ba	帮帮我吧	3050
+bang zhu zhe	帮助者	3025
+bang piao	绑票	2710
+bang shui	傍水	2705
+bang jia an	绑架案	2670
+bang shu	磅数	2645
+bang jiao	邦交	2500
+bang zhu ta	帮助它	2460
+bang zhu shuo ming	帮助说明	2430
+bang hao	绑好	2420
+bang nei	帮内	2395
+bang cheng	磅秤	2301
+bang fu	绑缚	2295
+bang de	帮得	2222
+bang er	帮儿	2222
+bang bing	棒冰	2215
+bang he	棒喝	2175
+bang ding fu wu	绑定服务	2083
+bang mang a	帮忙啊	2025
+bang zai	帮在	2020
+bang jia zhe	绑架者	2010
+bang ding bian liang	绑定变量	1942
+bang dao	绑到	1855
+bang shang wu ming	榜上无名	1855
+bang bang ji	棒棒鸡	1787
+bang dao mang	帮倒忙	1775
+bang ni mang	帮你忙	1755
+bang ding	帮定	1655
+bang gui	帮规	1655
+bang jin	绑紧	1590
+bang wen	榜文	1575
+bang shei	帮谁	1520
+bang shui	帮谁	1520
+bang chu	帮厨	1445
+bang shen	傍身	1425
+bang da yuan yang	棒打鸳鸯	1380
+bang qiu chang	棒球场	1325
+bang zhu wan cheng	帮助完成	1305
+bang cheng	绑成	1300
+bang da yao yuan	膀大腰圆	1205
+bang hua sui liu guo qian chuan	傍花随柳过前川	1180
+bang tong xue	帮同学	1160
+bang liao	棒料	1150
+bang zhu ming ling	帮助命令	1125
+bang zhu shou ce	帮助手册	1120
+bang du	棒读	1111
+bang ge	帮哥	1111
+bang ka	绑卡	1111
+bang ming	傍明	1111
+bang na	帮拿	1111
+bang qi	帮其	1111
+bang zhong	帮众	1111
+bang bang ta	帮帮他	1105
+bang yi ba	帮一把	1070
+bang bang	梆梆	1060
+bang zou	绑走	1035
+bang bu	帮补	999
+bang cao	棒操	999
+bang chuang	棒疮	999
+bang dai	绑带	999
+bang shang	傍晌	999
+bang xian	帮闲	999
+bang jia le suo	绑架勒索	980
+bang dao di	帮到底	940
+bang qiu ying hao	棒球英豪	910
+bang qiu bi sai	棒球比赛	905
+bang bang zhu	帮帮主	874
+bang jia ren zhi	绑架人质	860
+bang wei	榜尾	860
+bang tou	棒头	835
+bang yong	帮佣	820
+bang gong	帮贡	810
+bang xia wo	帮下我	793
+bang qiu yun dong	棒球运动	780
+bang zi mian	棒子面	765
+bang bi	膀臂	710
+bang qiu sai	棒球赛	665
+bang ding yu ming	绑定域名	664
+bang zhu suo yin	帮助索引	660
+bang zi qiang	梆子腔	620
+bang bu zhu	绑不住	595
+bang jiao guo	邦交国	585
+bang guo	邦国	569
+bang sheng	绑绳	540
+bang bu dao ni	帮不到你	527
+bang qiu xuan shou	棒球选手	520
+bang zhu chuang kou	帮助窗口	490
+bang zhi	磅值	475
+bang zhu hou jin	帮助后进	465
+bang jiao	绑脚	460
+bang yi bang	帮一帮	456
+bang zhu cheng xu	帮助程序	454
+bang zhu ta	帮助他	432
+bang lao	绑牢	420
+bang zhu jia	帮助家	400
+bang de	绑得	333
+bang jue	傍角	333
+bang ni kan	帮你看	333
+bang wo kan	帮我看	333
+bang xian	邦宪	325
+bang wan shi hou	傍晚时候	310
+bang zhu fan zui fen zi tao bi chu fa zui	帮助犯罪分子逃避处罚罪	310
+bang yi	谤议	305
+bang zhong	磅重	282
+bang pai zu zhi	帮派组织	280
+bang wo cha cha	帮我查查	272
+bang pai ti xi	帮派体系	255
+bang lei	蚌类	250
+bang shan	谤讪	235
+bang de	绑的	222
+bang ta de mang	帮他的忙	222
+bang yi ge	帮一个	222
+bang zhu	蚌珠	215
+bang zhu liu lan qi	帮助浏览器	214
+bang qiu tou shou	棒球投手	200
+bang jie gu fen	棒杰股份	199
+bang hei	傍黑	195
+bang xin zui	帮信罪	195
+bang ni nong	帮你弄	187
+bang mang zhe	帮忙者	185
+bang yang de li liang	榜样的力量	176
+bang yang shi fan	榜样示范	164
+bang kuo yao yuan	膀阔腰圆	155
+bang shang bang	榜上榜	145
+bang le ge da mang	帮了个大忙	140
+bang bang ya	棒棒鸭	135
+bang bang ni	帮帮你	124
+bang xie dai	绑鞋带	123
+bang yi bang	绑一绑	123
+bang ding zhang hao	绑定账号	121
+bang nai nai	帮奶奶	121
+bang bang hai zi	帮帮孩子	118
+bang za dai	绑扎带	114
+bang zong zi	绑粽子	114
+bang a	帮啊	111
+bang chi	帮吃	111
+bang de	邦德	111
+bang fu	帮付	111
+bang ge	绑个	111
+bang ni kan	帮你砍	111
+bang qian	帮签	111
+bang ta	帮它	111
+bang ta de mang	帮她的忙	111
+bang wo kan	帮我砍	111
+bang ke shan	邦克山	109
+bang ge mang la	帮个忙啦	105
+bang zhen shan	棒针衫	105
+bang zhu xuan xiang	帮助选项	105
+bang zhu ta men	帮助他们	101
+bang bang chang zi	帮帮场子	100
+bang bang da a	棒棒哒啊	100
+bang bang da jia ba	帮帮大家吧	100
+bang bang de a	棒棒的啊	100
+bang bang de la	棒棒的啦	100
+bang bang liang quan	𠳐𠳐两拳	100
+bang bang mang a	帮帮忙啊	100
+bang bang mang ba	帮帮忙吧	100
+bang bang shou	帮帮手	100
+bang bang ta ba	帮帮他吧	100
+bang bang tang	棒棒堂	100
+bang bang wo le	帮帮我了	100
+bang bang xiang	𠳐𠳐响	100
+bang bao shi	帮宝适	100
+bang bu bang a	帮不帮啊	100
+bang bu bang a	棒不棒啊	100
+bang bu liao ni	帮不了你	100
+bang bu liao shen me da mang	帮不了什么大忙	100
+bang bu liao shen me mang	帮不了什么忙	100
+bang bu shang shen me mang	帮不上什么忙	100
+bang bu yi xia	帮补一下	100
+bang chang zi	帮场子	100
+bang dan pai hang	榜单排行	100
+bang de shang	帮得上	100
+bang de shang mang	帮得上忙	100
+bang dian xia	帮点下	100
+bang ding de yin hang ka	绑定的银行卡	100
+bang ding guan xi	绑定关系	100
+bang ding le	绑定了	100
+bang ding shou ji	绑定手机	100
+bang ding shou ji hao	绑定手机号	100
+bang ding yin hang ka	绑定银行卡	100
+bang ding zu zhou	绑定诅咒	100
+bang fu di qu	帮扶地区	100
+bang fu gong zuo dui dui zhang	帮扶工作队队长	100
+bang fu guan xi	帮扶关系	100
+bang fu hu	帮扶户	100
+bang fu li du	帮扶力度	100
+bang fu lian xi ren	帮扶联系人	100
+bang fu mo shi	帮扶模式	100
+bang fu po	傍富婆	100
+bang fu shi cao	绑赴市曹	100
+bang fu ti xi	帮扶体系	100
+bang fu xing dong	帮扶行动	100
+bang fu zhi du	帮扶制度	100
+bang fu zhong dian	帮扶重点	100
+bang ge chang zi	帮个场子	100
+bang ge la	榜葛剌	100
+bang ge shou ji hao	绑个手机号	100
+bang ge ying er	傍个影儿	100
+bang guo tian cui	邦国殄瘁	100
+bang hai shi bu bang	帮还是不帮	100
+bang hua sui liu	傍花随柳	100
+bang hua yu	棒花鱼	100
+bang hui huo dong	帮会活动	100
+bang hui lai	绑回来	100
+bang hui qu	绑回去	100
+bang hui xi tong	帮会系统	100
+bang ji yu shi chao	谤讥于市朝	100
+bang jia bie ren	绑架别人	100
+bang jia er	傍家儿	100
+bang jia le ba	绑架了吧	100
+bang jia li ren	帮家里人	100
+bang ka song	绑卡送	100
+bang lao gong	帮老公	100
+bang lao po	帮老婆	100
+bang le bu shao mang	帮了不少忙	100
+bang le da mang	帮了大忙	100
+bang le dao mang	帮了倒忙	100
+bang le hen da de mang	帮了很大的忙	100
+bang le mang	帮了忙	100
+bang le qi lai	绑了起来	100
+bang le wo yi ge mang	帮了我一个忙	100
+bang le yi ba	帮了一把	100
+bang le yi ge mang	帮了一个忙	100
+bang li de zhen zhu	蚌里的珍珠	100
+bang li zhen zhu	蚌里珍珠	100
+bang liu chuan hua	傍柳穿花	100
+bang liu sui hua	傍柳随花	100
+bang mang chu zhu yi	帮忙出主意	100
+bang mang dian ge zan	帮忙点个赞	100
+bang mang dian xia	帮忙点下	100
+bang mang diao cha	帮忙调查	100
+bang mang lian xi	帮忙联系	100
+bang mang tiao jie	帮忙调解	100
+bang mang xuan chuan	帮忙宣传	100
+bang mang zhu li	帮忙助力	100
+bang mang zuo	帮忙做	100
+bang mo ji	棒磨机	100
+bang nei tui	帮内推	100
+bang ni cha cha	帮你查查	100
+bang ni chu diao	帮你除掉	100
+bang ni chu tou	帮你出头	100
+bang ni de mang	帮你的忙	100
+bang ni hua	帮你花	100
+bang ni huan	帮你还	100
+bang ni kan kan	帮你看看	100
+bang ni kan yi dao	帮你砍一刀	100
+bang ni sheng	帮你省	100
+bang ni sheng qian	帮你省钱	100
+bang ni tai le	邦尼泰勒	100
+bang ni xuan ze	帮你选择	100
+bang ni yi ba	帮你一把	100
+bang ni yi ge mang	帮你一个忙	100
+bang ni zhao de	帮你找的	100
+bang ni zhi zhao	帮你支招	100
+bang pai bang	帮派榜	100
+bang pai xi tong	帮派系统	100
+bang pin ji kun	帮贫济困	100
+bang qiang piao	帮抢票	100
+bang qiao wei	邦乔维	100
+bang qiu mi	棒球迷	100
+bang qiu yun dong ji zhe	棒球运动记者	100
+bang qu mei su	棒曲霉素	100
+bang ren jia	帮人家	100
+bang ren li bi	傍人篱壁	100
+bang ren men hu	傍人门户	100
+bang ruo wu ren	傍若无人	100
+bang shang da kuan	傍上大款	100
+bang shang fu po	傍上富婆	100
+bang shang lai	绑上来	100
+bang shang mang de	帮上忙的	100
+bang shang qu	绑上去	100
+bang shen me	帮什么	100
+bang shou ji hao	绑手机号	100
+bang shu man qie	谤书满箧	100
+bang shui yi shan	傍水依山	100
+bang ta yi ba	帮他一把	100
+bang ta zhi zhao	帮他支招	100
+bang ta zhi zhao	帮她支招	100
+bang tou chu xiao zi	棒头出孝子	100
+bang wan de	傍晚的	100
+bang wan ri luo	傍晚日落	100
+bang wo ban	帮我搬	100
+bang wo bei zhu yi xia	帮我备注一下	100
+bang wo cha yi xia	帮我查一下	100
+bang wo chu diao	帮我除掉	100
+bang wo chu tou	帮我出头	100
+bang wo de mang	帮我的忙	100
+bang wo dian ge zan	帮我点个赞	100
+bang wo dian yi ha	帮我点一哈	100
+bang wo fu yin	帮我复印	100
+bang wo huan gei	帮我还给	100
+bang wo huan gei ta	帮我还给他	100
+bang wo huan gei ta men	帮我还给他们	100
+bang wo ji huo	帮我激活	100
+bang wo jiao shui	帮我浇水	100
+bang wo kai yi xia	帮我开一下	100
+bang wo kan yi dao	帮我砍一刀	100
+bang wo kan yi xia	帮我看一下	100
+bang wo mai yi xia	帮我买一下	100
+bang wo na dong xi	帮我拿东西	100
+bang wo nong xia	帮我弄下	100
+bang wo sao	帮我扫	100
+bang wo tiao tiao	帮我挑挑	100
+bang wo wen yi xia	帮我问一下	100
+bang wo xiang xiang	帮我想想	100
+bang wo xie dian	帮我写点	100
+bang wo xuan ze	帮我选择	100
+bang wo yi ba	帮我一把	100
+bang wo yi xia	帮我一下	100
+bang wo yi xia hao ba	帮我一下好吧	100
+bang wo zhao ge	帮我找个	100
+bang wo zheng yi xia	帮我整一下	100
+bang wo zhi zhao	帮我支招	100
+bang wo zhu ge li	帮我助个力	100
+bang wo zhu li	帮我助力	100
+bang wo zhu xia li	帮我助下力	100
+bang xia chu xiao zi	棒下出孝子	100
+bang xia lai	绑下来	100
+bang xia qu	绑下去	100
+bang xian da hong	帮闲打哄	100
+bang xian zuan lan	帮闲钻懒	100
+bang xuan xing xi	棒旋星系	100
+bang xun ji shu	邦讯技术	100
+bang yi dian	帮一点	100
+bang yue han	棒约翰	100
+bang za gang jin	绑扎钢筋	100
+bang za lao gu	绑扎牢固	100
+bang zai le yi qi	绑在了一起	100
+bang zhe ban	帮着办	100
+bang zhe gan	帮着干	100
+bang zhe jiao	绑着脚	100
+bang zhe zuo	帮着做	100
+bang zheng fu	邦政府	100
+bang zhi jie xi	邦之桀兮	100
+bang zhong bang	榜中榜	100
+bang zhu cheng zhang	帮助成长	100
+bang zhu chong jian	帮助重建	100
+bang zhu dao le	帮助到了	100
+bang zhu di qiu	帮助地球	100
+bang zhu hai zi cheng zhang	帮助孩子成长	100
+bang zhu hai zi jian kang cheng zhang	帮助孩子健康成长	100
+bang zhu hai zi zhang gao	帮助孩子长高	100
+bang zhu he	帮助和	100
+bang zhu jia zhang	帮助家长	100
+bang zhu le	帮助了	100
+bang zhu le bie ren	帮助了别人	100
+bang zhu le hen duo ren	帮助了很多人	100
+bang zhu li	帮助力	100
+bang zhu lv xing	帮助旅行	100
+bang zhu ni cheng zhang	帮助你成长	100
+bang zhu qi lai	帮助起来	100
+bang zhu qi ye jiang di cheng ben	帮助企业降低成本	100
+bang zhu qiu dui qu de sheng li	帮助球队取得胜利	100
+bang zhu wo cheng zhang	帮助我成长	100
+bang zhu xia	帮助下	100
+bang zhu xiao hua	帮助消化	100
+bang zhu xie tiao	帮助协调	100
+bang zhu xie tiao jie jue	帮助协调解决	100
+bang zhu xing wei	帮助行为	100
+bang zhu xuan chuan	帮助宣传	100
+bang zhu yin du	帮助印度	100
+bang zhu zhang gao	帮助长高	100
+bang zi dui	棒子队	100
+bang zi mian er	棒子面儿	100
+bang yi	傍依	99
+bang ge mang hao ma	帮个忙好吗	95
+bang li bu bang qin	帮理不帮亲	85
+bang zhe ne	棒着呢	85
+bang chui guo zi	棒槌馃子	81
+bang bang xiang	梆梆响	80
+bang qiu yuan	棒球员	80
+bang ge mang ma	帮个忙吗	78
+bang tou	榜头	78
+bang ke hu	帮客户	74
+bang dao nin	帮到您	73
+bang mang mai che	帮忙买车	68
+bang gong dui	帮工队	65
+bang qiu cai pan	棒球裁判	65
+bang que ren	帮确认	65
+bang jin lai	绑进来	64
+bang kan yi xia	帮看一下	64
+bang mang jie shao	帮忙介绍	64
+bang bian de	傍边的	61
+bang bang wang	邦邦网	47
+bang she gui	榜舍龟	42
+bang de xiang	绑得像	40
+bang wo cai kong jian	帮我踩空间	35
+bang zi jing	梆子井	31
+bang bang rou	梆梆肉	30
+bang cu yao yuan	膀粗腰圆	25
+bang bang ji si	棒棒鸡丝	24
+bang de bi	绑得比	20
+bang jiao tan hua	帮教谈话	15
+bang bang rou	棒棒肉	12
+bang lao er	棒老二	12
+bang chu nv gong	帮厨女工	10
+bang zhe ne	绑着呢	10
+bang jia zhi guang	邦家之光	9
+bang he xiang	傍河乡	8
+bang xing tu	棒形图	8
+bang shou	绑手	7
+bang ban ya	邦板牙	6
+bang bing cheng zhu	蚌病成珠	6
+bang gu	棒骨	5
+bang ke	棒客	5
+bang rou	蚌肉	5
+bang da bu hui tou	棒打不回头	4
+bang dao	邦道	4
+bang dui xiang	邦堆乡	4
+bang shang cun	榜上村	4
+bang bang	𠳐𠳐	3
+bang cha zhou	棒𥻗粥	3
+bang gu xiang	蚌谷乡	3
+bang guan zhe qing	傍观者清	3
+bang hu chi shi	帮虎吃食	3
+bang shu	谤书	3
+bang you dao ze shi	邦有道则仕	3
+bang zhuang gan jun	棒状杆菌	3
+bang mu	蚌目	2
+bang shu	榜书	2
+bang suan	棒酸	2
+bang yan	谤言	2
+bang yan	邦彦	2
+bang yi ge	绑一个	2
+bang zhen ci	傍针刺	2
+bang ai xiang	帮爱乡	1
+bang bang ji	帮帮机	1
+bang bang wo ai shen	帮帮我爱神	1
+bang bi	邦比	1
+bang bing sheng zhu	蚌病生珠	1
+bang bing xiang	邦丙乡	1
+bang da	邦达	1
+bang da xiang	帮达乡	1
+bang di si dun	邦迪斯顿	1
+bang fu xiao ye jian ting	棒腹小叶箭蜓	1
+bang ge	邦戈	1
+bang gou chi shi	帮狗吃食	1
+bang gu tu dou di er tang	棒骨土豆地饵汤	1
+bang guan bi shen	傍观必审	1
+bang guan leng yan	傍观冷眼	1
+bang he dang tou	棒喝当头	1
+bang hui cai ji	帮会采集	1
+bang mao ni yin lin chong	棒毛拟隐鳞虫	1
+bang mei wang e	棒霉网蛾	1
+bang men yi hu	傍门依户	1
+bang ning zi	邦宁紫	1
+bang ren li luo	傍人篱落	1
+bang ren yi hu	傍人依户	1
+bang rui	邦瑞	1
+bang shu yi qie	谤书一箧	1
+bang te si	邦特斯	1
+bang wen niu zhi	棒纹牛蛭	1
+bang wu dao ze ke juan er huai zhi	邦无道则可卷而怀之	1
+bang xing ce di bang	棒形侧底蚌	1
+bang xing kong bi shi	棒形孔笔石	1
+bang ya mi	邦雅米	1
+bang yi min wei ben	邦以民为本	1
+bang you dao ru shi	邦有道如矢	1
+bang yu xiang chi	蚌鹬相持	1
+bang yu zheng heng	蚌鹬争衡	1
+bang zhuang mian bao juan	棒状面包卷	1

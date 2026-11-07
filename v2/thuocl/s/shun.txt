@@ -1,0 +1,136 @@
+shun shi zhen	顺时针	12276
+shun teng mo gua	顺藤摸瓜	7679
+shun li cheng zhang	顺理成章	7282
+shun cha	顺差	7235
+shun xu cun chu	顺序存储	5811
+shun xu biao	顺序表	4361
+shun xu cha zhao	顺序查找	3145
+shun xi wan bian	瞬息万变	2857
+shun shou qian yang	顺手牵羊	2442
+shun xu cun chu jie gou	顺序存储结构	2371
+shun xu jie gou	顺序结构	2035
+shun xu hao	顺序号	1951
+shun xu chu li	顺序处理	1926
+shun xu diao yong	顺序调用	1768
+shun xu zhan	顺序栈	1185
+shun xu tu	顺序图	1166
+shun xu rong qi	顺序容器	1017
+shun xu sou suo	顺序搜索	889
+shun shui tui zhou	顺水推舟	864
+shun xu fa sheng	顺序发生	847
+shun zhi	顺治	765
+shun xu kong zhi	顺序控制	755
+shun geng	舜耕	719
+shun xu cun qu	顺序存取	677
+shun cheng	顺城	656
+shun xu dui lie	顺序队列	610
+shun xu cao zuo	顺序操作	518
+shun chang	顺昌	476
+shun an	顺安	472
+shun xu wen jian	顺序文件	439
+shun di	舜帝	380
+shun xu suo yin	顺序索引	364
+shun fa	顺发	310
+shun shui ren qing	顺水人情	266
+shun qing	顺庆	255
+shun feng	顺峰	248
+shun yi gong an fen ju	顺义公安分局	231
+shun ping	顺平	227
+shun zi	顺子	208
+shun feng shan gong yuan	顺峰山公园	202
+shun xing	顺兴	144
+shun yi qu yi yuan	顺义区医院	134
+shun xu tong ji liang	顺序统计量	130
+shun zhi yuan wei ji	吮指原味鸡	130
+shun de yi zhong	顺德一中	128
+shun de shi	顺德市	124
+shun chang lu	顺昌路	105
+shun wo zhe chang	顺我者昌	101
+shun xu diao du	顺序调度	98
+shun feng shan zhuang	顺峰山庄	75
+shun qing yang rou fen	顺庆羊肉粉	66
+shun yi xian	顺义县	64
+shun shi liao fa	顺势疗法	55
+shun de xian	顺德县	53
+shun xu jin cheng	顺序进程	53
+shun sha lu	顺沙路	52
+shun zhi di	顺治帝	51
+shun de zhi yuan	顺德职院	50
+shun de gang	顺德港	47
+shun ying xing	顺应性	46
+shun xi zhi jian	瞬息之间	41
+shun shi er dong	顺时而动	39
+shun yi jian cha yuan	顺义检察院	37
+shun bo	顺铂	35
+shun de tang chang	顺德糖厂	34
+shun di	顺帝	34
+shun xu cheng xu she ji	顺序程序设计	34
+shun wo zhe chang ni wo zhe wang	顺我者昌逆我者亡	33
+shun shi gu zhang	瞬时故障	32
+shun de yi zhong shi yan xue xiao	顺德一中实验学校	29
+shun fan	顺番	26
+shun shui shun feng	顺水顺风	23
+shun shui xing zhou	顺水行舟	21
+shun wang	舜王	20
+shun yi gong shang fen ju	顺义工商分局	20
+shun yi nan cai	顺义南彩	19
+shun yi nan cai qi che zhan	顺义南彩汽车站	19
+shun da lu	顺达路	18
+shun si tiao	顺四条	17
+shun de yi yuan	顺德医院	15
+shun yi gong yuan	顺义公园	15
+shun yi yi zhong	顺义一中	15
+shun de jia	顺德家	14
+shun shi cuo wu	瞬时错误	14
+shun yi jiao tong ju	顺义交通局	14
+shun cheng	顺诚	11
+shun tai fen xi	瞬态分析	11
+shun ning dao	顺宁道	10
+shun yi gong lu fen ju	顺义公路分局	9
+shun yi wu zhong	顺义五中	9
+shun feng dao	顺风岛	8
+shun tong dao	顺通道	8
+shun de li jiao qiao	顺德立交桥	6
+shun yi ban bi dian	顺义半壁店	6
+shun xing qiao	顺星桥	5
+shun yi dian shi tai	顺义电视台	4
+shun yi er zhong	顺义二中	4
+shun yi zhong yi yuan	顺义中医院	4
+shun bu gao er qu	舜不告而娶	3
+shun ci xing	顺磁性	3
+shun de lou	舜德楼	3
+shun he hui zu	顺河回族	3
+shun ji xin qiao	顺济新桥	3
+shun yi ying ju yuan	顺义影剧院	3
+shun fa heng ye	顺发恒业	2
+shun feng xiang	顺峰乡	2
+shun he cun	顺和村	2
+shun yi dao	顺义道	2
+shun yi dong da qiao	顺义东大桥	2
+shun yi dong da qiao huan dao	顺义东大桥环岛	2
+shun yi tie jiang ying	顺义铁匠营	2
+shun yi xi dan shang chang	顺义西单商场	2
+shun yi yi ming yu	舜亦以命禹	2
+shun bo zhu she ye	顺铂注射液	1
+shun chang lou	顺昌楼	1
+shun de ji gong xue xiao	顺德技工学校	1
+shun fa yu quan mu zhi zhong	舜发于畎亩之中	1
+shun he ji zhen	顺河集镇	1
+shun jia lu bian	顺家路边	1
+shun jiang chang	顺江场	1
+shun liu er dong xing	顺流而东行	1
+shun liu gong gong yu you zhou	舜流共工于幽州	1
+shun tian qi	舜天齐	1
+shun xi fan she	吮吸反射	1
+shun xing xing yi wang	顺行性遗忘	1
+shun xu xiao ying	顺序效应	1
+shun yi	顺仪	1
+shun yi bin he xiao qu	顺义滨河小区	1
+shun yi cai hong qiao	顺义彩虹桥	1
+shun yi he bei cun	顺义河北村	1
+shun yi huo che zhan	顺义火车站	1
+shun yi ma lian dian	顺义马连店	1
+shun yi xin hua shu dian	顺义新华书店	1
+shun yu zhi you tian xia ye	舜禹之有天下也	1
+shun zhi wei chen ye	舜之为臣也	1
+shun mu mo dai chong	瞬目膜带虫	0

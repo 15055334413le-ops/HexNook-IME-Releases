@@ -1,0 +1,107 @@
+re ban	热板	18744
+re dai feng bao	热带风暴	14891
+re huo chao tian	热火朝天	9846
+re gan mian	热干面	6238
+re lei ying kuang	热泪盈眶	5692
+re qing yang yi	热情洋溢	5318
+re qi teng teng	热气腾腾	4215
+re jian	热键	3629
+re chao	热炒	3625
+re jiu	热酒	3467
+re dian chang	热电厂	3141
+re xue fei teng	热血沸腾	3068
+re cha ba	热插拔	2873
+re li gong si	热力公司	2498
+re bu shu	热部署	2012
+re nai cha	热奶茶	1607
+re qian	热钱	1349
+re bei fen	热备份	1307
+re geng xin	热更新	1037
+re fu	热敷	1018
+re shui dai	热水袋	969
+re guo shang de ma yi	热锅上的蚂蚁	860
+re ren zhu mu	惹人注目	784
+re shi sheng fei	惹是生非	726
+re qi dong	热启动	657
+re xiu fu	热修复	584
+re jia	热价	534
+re dai yu	热带鱼	501
+re na ya	热那亚	501
+re dai nong ye	热带农业	492
+re she bing	热射病	490
+re dian hua ti	热点话题	474
+re jia zai	热加载	456
+re bu ding	热补丁	336
+re he nan lu	热河南路	279
+re he lu	热河路	278
+re zheng	热症	184
+re huo shao shen	惹火烧身	175
+re shui keng	热水坑	140
+re mian pi	热面皮	113
+re chuan dao	热传导	101
+re wa fu	热瓦甫	92
+re dong guo	热冬果	88
+re xiu ke dan bai	热休克蛋白	75
+re zheng	热证	68
+re men gu	热门股	63
+re nan	热南	62
+re he mai ti	热合买提	59
+re yuan	热原	43
+re dai bao feng yu	热带暴风雨	42
+re zu	热阻	39
+re lin	热淋	31
+re du ning zhu she ye	热毒宁注射液	27
+re guo shang ma yi	热锅上蚂蚁	27
+re jia	热加	22
+re kong zhi fa	热控制阀	21
+re shao shang	热烧伤	20
+re shi zhen	热市镇	17
+re suo xiang	热索乡	16
+re da	热打	15
+re ji sheng feng	热极生风	12
+re liao fa	热疗法	10
+re sheng shang jin	热盛伤津	10
+re da xiang	热打乡	8
+re feng han jie fa	热风焊接法	8
+re que xue shi jian	热缺血时间	8
+re bi	热痹	7
+re feng chui yu sa jiang tian	热风吹雨洒江天	7
+re shui xi	热水溪	7
+re gang	热港	6
+re shui ou	热水藕	5
+re beng ji shu yu ying yong	热泵技术与应用	4
+re chao si pin	热炒四品	4
+re dai za guo guan tou	热带杂果罐头	4
+re dian chang ju wei hui	热电厂居委会	4
+re ke yi da xiang	热柯依达乡	4
+re ru xin bao	热入心包	4
+re shui gang qiao	热水港桥	4
+re yan ning ke li	热炎宁颗粒	4
+re du ping ke li	热毒平颗粒	3
+re du zheng	热毒症	3
+re ji hong ban	热激红斑	3
+re ke jue xiang	热柯觉乡	3
+re lei yu ling hai zhu	热泪欲零还住	3
+re long xiang	热龙乡	3
+re zei	热贼	3
+re du zheng	热毒证	2
+re jia xiang	热加乡	2
+re shui di qu	热水地区	2
+re bang xiang	热帮乡	1
+re bu xi e mu yin	热不息恶木阴	1
+re dai yu yang zhi fa	热带鱼养殖法	1
+re er xiang	热尔乡	1
+re fa guang	热发光	1
+re fei cha ji	热痱搽剂	1
+re lai xun shan zi	热来寻扇子	1
+re li gong qi zhan	热力供气站	1
+re lin qing ke li	热淋清颗粒	1
+re lin qing pian	热淋清片	1
+re qi jiu chou wu xian	惹起旧愁无限	1
+re san you xin jing	热散由心静	1
+re si wan xiang	热寺湾乡	1
+re yan ning he ji	热炎宁合剂	1
+re zhe zhi	热蔗汁	1
+re dai feng bao miao bai	热带风暴苗柏	0
+re dai wei mao shui mu	热带伪帽水母	0
+re pu ha xi zhi li	热普哈溪脂鲤	0

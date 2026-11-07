@@ -1,0 +1,661 @@
+tai shi	态势	133384
+tai ping yang	太平洋	65735
+tai bei	台北	65504
+tai shang	台上	29756
+tai bei shi	台北市	19961
+tai zhong	台中	15226
+tai er	胎儿	13050
+tai wan hai xia	台湾海峡	11366
+tai nan	台南	11022
+tai gui	台规	9395
+tai qian	台前	8513
+tai shan	泰山	8332
+tai zhong shi	台中市	7252
+tai zi nai	太子奶	7208
+tai wan shi wu ban gong shi	台湾事务办公室	7199
+tai nan shi	台南市	5855
+tai dong	台东	5323
+tai lian	台联	4406
+tai zhou shi	泰州市	3529
+tai zhou shi	台州市	3472
+tai ge	台鸽	3222
+tai lei	泰勒	3059
+tai an shi	泰安市	2997
+tai wan sheng	台湾省	2936
+tai zi	台子	2565
+tai yang xue	太阳穴	2376
+tai pan	胎盘	2307
+tai er zhuang	台儿庄	1588
+tai bei xian	台北县	1440
+tai yang cheng	太阳城	1320
+tai shun	泰顺	1223
+tai shan shi	台山市	1190
+tai kang	泰康	1184
+tai cha	台茶	1169
+tai cai	苔菜	1158
+tai he jin	钛合金	1114
+tai yang bing	太阳饼	1008
+tai xing shi	泰兴市	960
+tai ji	胎记	930
+tai cang shi	太仓市	920
+tai yang dao	太阳岛	806
+tai ge er	泰戈尔	799
+tai xian	苔藓	781
+tai wan niu	台湾牛	741
+tai shan lu	泰山路	736
+tai gu	太谷	700
+tai cheng	台城	627
+tai hua lu	太华路	627
+tai ping men	太平门	620
+tai ping qiao	太平桥	605
+tai sen	泰森	588
+tai yuan	台院	582
+tai yuan jie	太原街	572
+tai wan shi	台湾石	567
+tai mo	台蘑	565
+tai ping lu	太平路	548
+tai ping jie	太平街	516
+tai bai shan	太白山	502
+tai bei lu	台北路	467
+tai ran zi ruo	泰然自若	456
+tai ran chu zhi	泰然处之	454
+tai wei	胎位	454
+tai hu	台湖	436
+tai cang rou song	太仓肉松	428
+tai bai lu	太白路	418
+tai zi shen	太子参	417
+tai he wu ji	泰和乌鸡	409
+tai shan san mei	泰山三美	395
+tai yang cun	太阳村	389
+tai hu lu	太湖路	374
+tai ge	泰格	370
+tai yang hei zi	太阳黑子	363
+tai yi lu	太乙路	351
+tai ye ji	太爷鸡	334
+tai jiao	抬轿	324
+tai shan xin cun	泰山新村	320
+tai nuo	泰诺	308
+tai shi bing	太师饼	307
+tai yuan lu	太原路	287
+tai gu bing	太谷饼	278
+tai yang sheng	太阳升	277
+tai yang neng gong si	太阳能公司	256
+tai wan qing zao	台湾青枣	250
+tai ping zhuang	太平庄	249
+tai sheng	胎生	249
+tai sheng nan lu	太升南路	249
+tai kang lu	泰康路	234
+tai lai	泰来	231
+tai ping yan	太平燕	228
+tai an lu	泰安路	221
+tai an	台安	216
+tai ji chang	台基厂	214
+tai shan ya ding	泰山压顶	208
+tai wu yao	台乌药	204
+tai pan zao bo	胎盘早剥	202
+tai jian guan	台谏官	192
+tai shan chi lin yu	泰山赤鳞鱼	179
+tai mo zao po	胎膜早破	178
+tai shan nv er cha	泰山女儿茶	169
+tai fen	胎粪	156
+tai er qi	胎儿期	153
+tai shi ji suan ji	台式计算机	152
+tai ping yuan	太平园	150
+tai gu cheng	太古城	146
+tai shi mian	太师面	145
+tai mao	胎毛	140
+tai xing lu	泰兴路	135
+tai zi yu ling yuan	太子峪陵园	132
+tai jian	抬肩	131
+tai chong	太冲	128
+tai ping wu shi	太平无事	127
+tai shan	太山	125
+tai tou	台头	122
+tai dong qu	台东区	120
+tai wan lu	台湾路	119
+tai zi he	太子河	118
+tai ping hou kui cha	太平猴魁茶	116
+tai fu	太傅	115
+tai yi	太乙	112
+tai sui tou shang dong tu	太岁头上动土	109
+tai bai ya	太白鸭	107
+tai ban	钛板	104
+tai cai xiao fang kao	苔菜小方烤	103
+tai ping si	太平寺	103
+tai ping hang	太平巷	100
+tai bai lu li jiao	太白路立交	96
+tai wan tai bei di fang fa yuan	台湾台北地方法院	96
+tai an yu	太安鱼	93
+tai mo	胎膜	93
+tai yang gong qiao	太阳宫桥	93
+tai shan bei dou	泰山北斗	90
+tai yang gao	太阳糕	89
+tai ce jiao	胎侧胶	88
+tai shan ya ding bu wan yao	泰山压顶不弯腰	87
+tai da hong li ji jin	泰达宏利基金	81
+tai ran jiu lu	泰然九路	80
+tai tian zhi	太田痣	80
+tai zi lu	太子路	80
+tai sheng bei lu	太升北路	79
+tai cang lu	太仓路	76
+tai shang gu shi	台商故事	76
+tai yuan lu	太元路	76
+tai chong xue	太冲穴	71
+tai he lu	太和路	71
+tai hu da dao	太湖大道	71
+tai yang gong gong yuan	太阳宫公园	67
+tai wan lu rou fan	台湾卤肉饭	66
+tai zhou lu	泰州路	65
+tai an jian bing	泰安煎饼	64
+tai sen duo bian xing	泰森多边形	63
+tai da hong li	泰达宏利	61
+tai ping yang qun dao	太平洋群岛	61
+tai shi	台师	61
+tai er jiong po	胎儿窘迫	59
+tai bai	台百	58
+tai he lu	泰和路	58
+tai bai xiao qu	太白小区	57
+tai shi san bei ji	台式三杯鸡	56
+tai he yi yuan	泰和医院	54
+tai ping sheng shi	太平盛世	54
+tai wu di	太武帝	54
+tai nuo lin	泰诺林	53
+tai wan fan dian	台湾饭店	52
+tai bai	钛白	51
+tai ji gan ba jun	太极干巴菌	51
+tai an dao	泰安道	50
+tai wan quan	台湾犬	50
+tai ping wan	太平湾	48
+tai er zhuang lu	台儿庄路	46
+tai lu gu yu	泰卢固语	45
+tai xin lv	胎心率	45
+tai bei niu rou mian	台北牛肉面	42
+tai cheng hua yuan	台城花园	40
+tai dong bu an	胎动不安	40
+tai zi mu	太子墓	40
+tai hou huo guo	太后火锅	39
+tai shan cun	太山村	39
+tai ping qiao lu	太平桥路	38
+tai pan ping zhang	胎盘屏障	37
+tai xi	太溪	35
+tai zhou wu	太舟坞	33
+tai shan feng jing ming sheng qu	泰山风景名胜区	32
+tai ping xian	太平县	31
+tai xian	泰县	31
+tai yang ji tuan	太阳集团	30
+tai an li	泰安里	28
+tai shan bu rang tu rang	泰山不让土壤	28
+tai tai kou fu ye	太太口服液	28
+tai wan ying hua gou wen gui	台湾樱花钩吻鲑	28
+tai xi	太熙	28
+tai xi xue	太溪穴	28
+tai hu cun	太湖村	27
+tai jiang lu	台江路	27
+tai ping hui min he ji ju fang	太平惠民和剂局方	27
+tai wan hua yuan	台湾花园	27
+tai bao	泰宝	26
+tai jiang qu wei	台江区委	26
+tai ping yang ping bi hai tun	太平洋瓶鼻海豚	25
+tai shan yi zhong	台山一中	25
+tai ping lu kou	太平路口	24
+tai shu cha	泰舒茶	23
+tai gang dong men	太钢东门	22
+tai yuan	泰苑	22
+tai zi shan zhuang	太子山庄	22
+tai er shui zhong	胎儿水肿	19
+tai hou yu shan pao pao gao	太后御膳泡泡糕	19
+tai xing xian	泰兴县	19
+tai bao jie	太堡街	18
+tai de ma di	泰德马帝	18
+tai yang xin cheng	太阳新城	18
+tai yuan yi nan zi	太原一男子	18
+tai zhou wu cun	太舟坞村	18
+tai an lu	太安路	17
+tai hu guang chang	太湖广场	17
+tai jia	太甲	17
+tai ran si lu	泰然四路	17
+tai er jing	胎儿镜	16
+tai jiang bu xing jie	台江步行街	16
+tai ping dong	太平洞	16
+tai shan xian	台山县	16
+tai shi	泰始	16
+tai zi po	太子坡	16
+tai cang xian	太仓县	15
+tai hu hua yuan	太湖花园	15
+tai dong	台洞	14
+tai hu ming zhu wang	太湖明珠网	14
+tai ji dian	台积电	14
+tai ping cun wei hui	太平村委会	14
+tai ping ling	太平岭	14
+tai ping qiao dong li	太平桥东里	14
+tai yuan xue	太渊穴	14
+tai fu guang chang	泰富广场	13
+tai jiao	台角	13
+tai ning lu	太宁路	13
+tai qing shan	太青山	13
+tai sheng lu kou	太升路口	13
+tai shi ka li pang xie	泰式咖哩螃蟹	13
+tai shi suan la feng zhao	泰式酸辣凤爪	13
+tai wan gong ye qu	台湾工业区	13
+tai wan gu zao wei	台湾古早味	13
+tai zhong tai	胎中胎	13
+tai chang	太昌	12
+tai ran liu lu	泰然六路	12
+tai wan mei hua lu	台湾梅花鹿	12
+tai yu	台屿	12
+tai zi wu	太子务	12
+tai cai qian ceng su	苔菜千层酥	11
+tai chang lu	泰昌路	11
+tai hen shang jie lv	苔痕上阶绿	11
+tai hu zhen zheng fu	台湖镇政府	11
+tai lai yuan	泰来苑	11
+tai lou	胎漏	11
+tai ran ba lu	泰然八路	11
+tai wan yan su ji	台湾盐酥鸡	11
+tai yang sheng cun	太阳升村	11
+tai bai zhuang yuan	太白庄园	10
+tai he xi lu	泰和西路	10
+tai kong hu	太空户	10
+tai ping yuan	太平苑	10
+tai shen	胎神	10
+tai zhou zhong xue	台州中学	10
+tai an san mei dou fu	泰安三美豆腐	9
+tai an shi nong ye ju	泰安市农业局	9
+tai an xiao qu	泰安小区	9
+tai jian he yi	台谏合一	9
+tai jiang guang chang	台江广场	9
+tai ning cun	太宁村	9
+tai shi ci	太史慈	9
+tai zi yu huan dao	太子峪环岛	9
+tai dong lu	泰东路	8
+tai ping jia yuan	太平家园	8
+tai ping zhuang cun wei hui	太平庄村委会	8
+tai shi liu lian su	泰式榴莲酥	8
+tai tou xi yin shu	胎头吸引术	8
+tai wan dao ming	台湾稻螟	8
+tai yuan	太渊	8
+tai zhong hua yuan	泰中花园	8
+tai hu nong chang	太湖农场	7
+tai shi ka li ji	泰式咖哩鸡	7
+tai shi liang ban hai xian	泰式凉拌海鲜	7
+tai shi lu rou su	台式卤肉酥	7
+tai shi qing mu gua sha la	泰式青木瓜沙拉	7
+tai shi suan la xia tang	泰式酸辣虾汤	7
+tai tian xiong gui	太田雄贵	7
+tai yang gong lu	太阳宫路	7
+tai yuan jiang zhou hua	太原酱肘花	7
+tai bai la gao	太白拉糕	6
+tai er gong nei sheng zhang chi huan	胎儿宫内生长迟缓	6
+tai er jiu jing zong he zheng	胎儿酒精综合征	6
+tai fen xing fu mo yan	胎粪性腹膜炎	6
+tai fu li	太傅里	6
+tai gan yang rou si	苔干羊肉丝	6
+tai gu xiang	太古乡	6
+tai he zhuang	太和庄	6
+tai jin ka	钛金卡	6
+tai jing yin hang	泰京银行	6
+tai ping cang	太平仓	6
+tai ping cang hu tong	太平仓胡同	6
+tai ping ying xiang	太平营乡	6
+tai wan sheng tai bei xian	台湾省台北县	6
+tai xian yang bian	苔藓样变	6
+tai yang dian	太阳殿	6
+tai yang miao	太阳庙	6
+tai yang shen kou fu ye	太阳神口服液	6
+tai yi gong jie dao	太乙宫街道	6
+tai bai nan lu jian cai shi chang	太白南路建材市场	5
+tai bao zhuang	太保庄	5
+tai ding di	泰定帝	5
+tai fu	泰复	5
+tai gu cheng hua yuan	太古城花园	5
+tai ji fa cai yan	太极发财燕	5
+tai jin	钛金	5
+tai jing hua yuan	泰景花园	5
+tai li mei su	泰利霉素	5
+tai ping hou kui lv cha	太平猴魁绿茶	5
+tai shan dou fu mian	泰山豆腐面	5
+tai shen bu neng sao	苔深不能扫	5
+tai shi he xiang	太石河乡	5
+tai wan jiao jin gui	台湾角金龟	5
+tai xing nan lu	泰兴南路	5
+tai zhi an jiao nang	泰脂安胶囊	5
+tai zhou gan si	泰州干丝	5
+tai zi yu huan dao bei	太子峪环岛北	5
+tai bei lu tian qiao	台北路天桥	4
+tai fu miao	太傅庙	4
+tai he yi jie xi kou	泰河一街西口	4
+tai ji you ran ke hui	太极悠然可会	4
+tai ping gao	太平糕	4
+tai quan xin	胎圈芯	4
+tai shan jun	泰山郡	4
+tai sheng zhi wu	胎生植物	4
+tai shi bing	太史饼	4
+tai shi qian ceng gao	泰式千层糕	4
+tai shi xue yuan	太师学院	4
+tai wan lao tie tou	台湾烙铁头	4
+tai wan tu quan	台湾土犬	4
+tai wan ye tu	台湾野兔	4
+tai yang gong cun	太阳宫村	4
+tai zhou shi che guan suo	台州市车管所	4
+tai cheng liu dai jing hao hua	台城六代竞豪华	3
+tai e xiang	太莪乡	3
+tai er zhuang nan lu	台儿庄南路	3
+tai guo zha yu	泰国炸鱼	3
+tai he yuan	太和苑	3
+tai hu san bao	太湖三宝	3
+tai jiang gang wu	台江港务	3
+tai li bi tuo	泰利必妥	3
+tai ling yuan	泰陵园	3
+tai ning dao	泰宁道	3
+tai ping hu tong	太平胡同	3
+tai ping niao gong si	太平鸟公司	3
+tai shang bu ru xian	太上不辱先	3
+tai shou ji qian ren sui qi wang	太守即遣人随其往	3
+tai xi jie dao	太西街道	3
+tai yang bing	太阳病	3
+tai yang hua yuan	太阳花园	3
+tai yuan fei ji chang	太原飞机场	3
+tai zhou di kuo hai ming ming	台州地阔海冥冥	3
+tai zhou dian chang	台州电厂	3
+tai zhou lu kou	台州路口	3
+tai zi shen bai he tian ji tang	太子参百合田鸡汤	3
+tai zu nu er ha chi	太祖努尔哈赤	3
+tai bao zhuang cun	太保庄村	2
+tai ding	太丁	2
+tai ding an ru gao	酞丁安乳膏	2
+tai dong lu du kou	泰东路渡口	2
+tai gong wei zao wen	太公未遭文	2
+tai guan li cun	台官李村	2
+tai guang	太光	2
+tai he xiang zheng fu	太和乡政府	2
+tai hu ming zhu yuan	太湖明珠苑	2
+tai jiang jiang bin lu	台江江滨路	2
+tai jiang ying yuan	台江影院	2
+tai ling yuan cun	泰陵园村	2
+tai nong yi yuan shu qie zhen	态浓意远淑且真	2
+tai pan duo tai	胎盘多肽	2
+tai pu si jie she qu	太仆寺街社区	2
+tai qiao cun	太桥村	2
+tai shan hua yuan	泰山花园	2
+tai shi yuan	太史院	2
+tai tian dao guan	太田道灌	2
+tai tian guang	太田光	2
+tai wan shan qiang	台湾山羌	2
+tai wan wen bai die	台湾纹白蝶	2
+tai wan xiao ni	台湾小鲵	2
+tai yi jin tian dou	太乙近天都	2
+tai yin bing	太阴病	2
+tai zhou ri bao she	台州日报社	2
+tai zi bao xin kou fu ye	太子保心口服液	2
+tai zi jing xiang	太子井乡	2
+tai bai yu wo yu	太白与我语	1
+tai chan shi	胎产式	1
+tai chang cun	太昌村	1
+tai cheng qu er shou	台城曲二首	1
+tai cun cun wei hui	台村村委会	1
+tai du liang biao	态度量表	1
+tai fu cun	太傅村	1
+tai fu zhuang cun	太福庄村	1
+tai guang dian xin	太光电信	1
+tai he xian gong ye yuan qu	泰和县工业园区	1
+tai he zhai xiang	太和寨乡	1
+tai hu hua yuan er qu	太湖花园二区	1
+tai hu le yuan	太湖乐园	1
+tai hu shan zhuang	太湖山庄	1
+tai hu xi jie	台湖西街	1
+tai hua si	泰华寺	1
+tai hui xiao qu	泰惠小区	1
+tai ji shuang ni	太极双泥	1
+tai ji yu tou	太极芋头	1
+tai ke long chao shi	台客隆超市	1
+tai lai yi zu miao zu xiang	太来彝族苗族乡	1
+tai lian jiu dian	台联酒店	1
+tai ping dian xiang	太平店乡	1
+tai ping lu dong kou	太平路东口	1
+tai ping qiao nan li she qu	太平桥南里社区	1
+tai ping wan jie dao	太平湾街道	1
+tai ping yang yuan ji jiao diao	太平洋圆髻角吊	1
+tai ping yang zhu ce yu	太平洋竹筴鱼	1
+tai ping zhuang man zu cun	太平庄满族村	1
+tai ran er lu	泰然二路	1
+tai shan cun	台山村	1
+tai shan cuo e xia yun zai	泰山嵯峨夏云在	1
+tai shi cun	台石村	1
+tai shi liang ban hua zhi	泰式凉拌花枝	1
+tai tian yu mei	太田裕美	1
+tai wan bai wen feng die	台湾白纹凤蝶	1
+tai wan fen die	台湾粉蝶	1
+tai wan gou wen gui	台湾钩吻鲑	1
+tai wan hua xi	台湾滑蜥	1
+tai wan ji long di fang fa yuan	台湾基隆地方法院	1
+tai wan ji she	台湾脊蛇	1
+tai wan jing cao she	台湾颈槽蛇	1
+tai wan nan tou di fang fa yuan	台湾南投地方法院	1
+tai wan shan chuang ying	台湾山窗萤	1
+tai wan shui lu	台湾水鹿	1
+tai wan xi hu	台湾蜥虎	1
+tai wan xiao piao chong	台湾小瓢虫	1
+tai wan ya pian ling	台湾鸦片令	1
+tai wan zhao chao xie	台湾招潮蟹	1
+tai wan zi xiao dong	台湾紫啸鸫	1
+tai wu	太戊	1
+tai yang cheng zi yu yuan	太阳城紫玉园	1
+tai yang jia yuan she qu	太扬家园社区	1
+tai yang ling xiang	太阳岭乡	1
+tai yang sui bu wei zhi hui guang	太阳虽不为之回光	1
+tai yi si	太乙寺	1
+tai yi yi zu xiang	太邑彝族乡	1
+tai yong xiang	太拥乡	1
+tai yu xiang	台鱼乡	1
+tai yuan jun	太原郡	1
+tai zi fu cun	太子府村	1
+tai zi mai jiao	太子麦蕉	1
+tai bei gui lun chong	台杯鬼轮虫	0
+tai bei ji yuan xi chong	台北棘缘吸虫	0
+tai bei zhai ti xi chong	台北窄体吸虫	0
+tai bian bo wen e	台边波纹蛾	0
+tai bo yuan shen	泰勃圆鰺	0
+tai di shi ce zhi xi chong	泰氐似侧殖吸虫	0
+tai dong	台鮗	0
+tai fu na de yu luo	泰夫纳德芋螺	0
+tai ge	鲐鮯	0
+tai ji bao luo	胎記寶螺	0
+tai lei shi duan ge dan ji tun	泰勒氏短革单棘鲀	0
+tai lei shi mo tang li	泰勒氏磨塘鳢	0
+tai lu zhou e	台鹿舟蛾	0
+tai mao yan piao chong	台毛艳瓢虫	0
+tai nan bian zhi chong	台南编织虫	0
+tai ping dao dun tang li	太平岛钝塘鱧	0
+tai ping ha shi wei mu chong	太平哈氏微目虫	0
+tai ping yang cu chun hai ji	太平洋粗唇海鲫	0
+tai ping yang duan wen hai tun	太平洋短吻海豚	0
+tai ping yang ge nang xing chong	太平洋革囊星虫	0
+tai ping yang hei wei lu	太平洋黑尾鹿	0
+tai ping yang hou ji jiao an kang	太平洋后棘角鮟鱇	0
+tai ping yang huang wei long zhan	太平洋黄尾龙占	0
+tai ping yang jian wen jing	太平洋剑吻鲸	0
+tai ping yang lu jiao du fu yu	太平洋鹿角杜父鱼	0
+tai ping yang luo chi long tou yu	太平洋裸齿隆头鱼	0
+tai ping yang ni yong die	太平洋拟庸鲽	0
+tai ping yang ping tou you	太平洋平头鮋	0
+tai ping yang qian kou fu fen	太平洋前口蝠鲼	0
+tai ping yang wu qian man	太平洋无前螨	0
+tai ping yang xiao mao rong	太平洋小矛戎	0
+tai ping yang xiao yin ji you	太平洋小隐棘鮋	0
+tai ping yang xin lu	太平洋新鯥	0
+tai ping yang ying chong	太平洋英虫	0
+tai ping yang yuan he zhen yu	太平洋圆颌针鱼	0
+tai ping yang yuan shi yu	太平洋远视鱼	0
+tai ping yang zhai wei hong	太平洋窄尾魟	0
+tai ping yang zhan mang man	太平洋粘盲鳗	0
+tai shi he jia lun chong	台氏合甲轮虫	0
+tai tan she fa nv yao shou shu	泰坦蛇发女妖兽属	0
+tai tu jian hua tian niu	台突肩花天牛	0
+tai wan a nei zhu	台湾阿内蛛	0
+tai wan ai zhu	台湾艾蛛	0
+tai wan ba shu shui mu	台湾八束水母	0
+tai wan bai mei ren hua ye cai	台湾白美人花椰菜	0
+tai wan bai xing ji feng	台湾白星姬蜂	0
+tai wan bao chi jin hua chong	台湾薄翅金花虫	0
+tai wan bao ha	台湾抱蛤	0
+tai wan bei lei	台湾贝类	0
+tai wan bi ye e	台湾篦夜蛾	0
+tai wan bian qiao xing chong	台湾扁锹形虫	0
+tai wan bo wen gou e	台湾波纹钩蛾	0
+tai wan bo wen she mu die	台湾波纹蛇目蝶	0
+tai wan bu mao can	台湾步锚参	0
+tai wan cha se ji hua tian niu	台湾茶色姬花天牛	0
+tai wan chang luo	台灣錩螺	0
+tai wan cheng gan she	台湾秤杆蛇	0
+tai wan chuang gou e	台湾窗钩蛾	0
+tai wan chuang ying	台湾窗萤	0
+tai wan chun piao chong	台湾唇瓢虫	0
+tai wan chun shen	台湾鰆鲹	0
+tai wan ci jian shui zao	台湾刺剑水蚤	0
+tai wan cu jiao ji zhu	台湾粗脚姬蛛	0
+tai wan da bai qun nong die	台湾大白裙弄蝶	0
+tai wan da he nong die	台湾大褐弄蝶	0
+tai wan dan dai jia die	台湾单带蛱蝶	0
+tai wan dan dai nong die	台湾单带弄蝶	0
+tai wan dian fen	台湾电鱝	0
+tai wan die wen ge	台湾碟文蛤	0
+tai wan dong yang wo niu	台湾东洋蜗牛	0
+tai wan dou long shi	台湾豆龙虱	0
+tai wan duan chi ju hu	台湾短翅菊虎	0
+tai wan fan zi	台湾凡鲻	0
+tai wan fei jiao qiao xing chong	台湾肥角锹形虫	0
+tai wan fu mang man	台湾副盲鳗	0
+tai wan fu sha tiao sha	台湾副沙条鲨	0
+tai wan fu xi ji	台湾副细鲫	0
+tai wan gao shan he sao jin gui	台湾高山褐骚金龟	0
+tai wan ge nang xing chong	台湾革囊星虫	0
+tai wan gou e ye feng	台湾沟额叶蜂	0
+tai wan gou mu	台湾狗母	0
+tai wan gou mu yu	台湾狗母鱼	0
+tai wan gou tun xiao ye jia	台湾沟臀肖叶甲	0
+tai wan gou xia hu yu	台湾沟鰕虎鱼	0
+tai wan gou xia hu yu	台湾沟虾虎鱼	0
+tai wan gu mi luo	台灣穀米螺	0
+tai wan guang chun yu	台湾光唇鱼	0
+tai wan hai si luo	台湾海蛳螺	0
+tai wan he jin gui	台湾褐金龟	0
+tai wan he xu ju	台湾颌须鮈	0
+tai wan hong chi hua tian niu	台湾红翅花天牛	0
+tai wan hong rong mao jin gui	台湾红绒毛金龟	0
+tai wan hou li mang chun	台湾后丽盲蝽	0
+tai wan hu jiao chan	台湾弧角蝉	0
+tai wan hua tang lang	台湾花螳螂	0
+tai wan huan lian ha	台湾环帘蛤	0
+tai wan huang ban jia die	台湾黄斑蛱蝶	0
+tai wan huang ban nong die	台湾黄斑弄蝶	0
+tai wan huang die	台湾黄蝶	0
+tai wan huang tiao hu tian niu	台湾黄条虎天牛	0
+tai wan huang xiao ye jia	台湾黄肖叶甲	0
+tai wan ji chi e	台湾脊尺蛾	0
+tai wan ji hei jin gui	台湾姬黑金龟	0
+tai wan ji jiao si	台湾棘脚斯	0
+tai wan ji tang lang	台湾姬螳螂	0
+tai wan ji yao jian feng	台湾脊腰茧蜂	0
+tai wan ji yu	台湾姬鱼	0
+tai wan ji zhang jiao jin gui	台湾姬长脚金龟	0
+tai wan jian jiao huang	台湾剑角蝗	0
+tai wan jiao hu lu qiao xing chong	台湾角葫芦锹形虫	0
+tai wan jie wei cai xiao du	台湾截尾材小蠹	0
+tai wan jin xing chi e	台湾金星尺蛾	0
+tai wan jiu ci yi	台湾九刺鮨	0
+tai wan jiu ji lu	台湾九棘鲈	0
+tai wan juan guan luo	台灣捲管螺	0
+tai wan juan ye mian ya	台湾卷叶绵蚜	0
+tai wan juan ye ye ming	台湾卷叶野螟	0
+tai wan ku ye e	台湾枯叶蛾	0
+tai wan kuan wei feng die	台湾宽尾凤蝶	0
+tai wan lie	台湾鱲	0
+tai wan lie tou xiao min zhu	台湾裂头小皿蛛	0
+tai wan lu feng	台湾芦蜂	0
+tai wan luo piao chong	台湾裸瓢虫	0
+tai wan lv mao zhu	台湾绿猫蛛	0
+tai wan ma jia chun	台湾马加鰆	0
+tai wan ma su da ma ha yu	台湾马苏大麻哈鱼	0
+tai wan mang man	台湾盲鳗	0
+tai wan mao bian chun	台湾毛扁蝽	0
+tai wan mei shi bian	台湾梅氏鳊	0
+tai wan mei shi bian	台湾梅氏鯿	0
+tai wan meng ying	台湾孟蝇	0
+tai wan ming gu wu wen xia hu	台湾名古屋吻鰕虎	0
+tai wan mu mang chun	台湾木盲蝽	0
+tai wan nan hai xi xie	台湾南海溪蟹	0
+tai wan nang kang xia	台湾囊糠虾	0
+tai wan ni ju ti xi chong	台湾拟锯体吸虫	0
+tai wan ni ping	台湾拟鮃	0
+tai wan ni shi wo bu xing chong	台湾拟食蜗步行虫	0
+tai wan ni wan hou ying	台湾拟弯喉萤	0
+tai wan nu jian feng	台湾怒茧蜂	0
+tai wan pi pa fen	台湾琵琶鱝	0
+tai wan qi lu zhong	台湾奇露螽	0
+tai wan qi shi xiao hui die	台湾棋石小灰蝶	0
+tai wan qiang wen xue	台湾腔吻鳕	0
+tai wan qiang wen xue	台湾腔吻鱈	0
+tai wan qiang yu	台湾枪鱼	0
+tai wan qiao xing jin gui	台湾锹形金龟	0
+tai wan qing shan wo niu	台湾青山蜗牛	0
+tai wan qiu tuo	台湾鳅鮀	0
+tai wan que jiao tian e	台湾缺角天蛾	0
+tai wan ran xu ye e	台湾髯须夜蛾	0
+tai wan ri yue ha	台湾日月蛤	0
+tai wan rong mao nong die	台湾绒毛弄蝶	0
+tai wan rong mao nong die	台湾绒毛挵蝶	0
+tai wan rong mao sha	台湾绒毛鲨	0
+tai wan rong mu feng	台湾绒木蜂	0
+tai wan sa hui die	台湾洒灰蝶	0
+tai wan shan jiao jin gui	台湾扇角金龟	0
+tai wan shi ju chi shi xi ji	台湾石菊池氏细鲫	0
+tai wan shi wei tian niu	台湾矢尾天牛	0
+tai wan shu yao xie	台湾束腰蟹	0
+tai wan si xia hu yu	台湾丝鰕虎鱼	0
+tai wan si xing bu xing chong	台湾四星步行虫	0
+tai wan tong tian niu	台湾筒天牛	0
+tai wan tong xiong xiao ye jia	台湾筒胸肖叶甲	0
+tai wan wei	台湾鮠	0
+tai wan wen chun mang chun	台湾纹唇盲蝽	0
+tai wan wen jian shui zao	台湾温剑水蚤	0
+tai wan wen xia hu	台湾吻鰕虎	0
+tai wan wu mao mang chun	台湾乌毛盲蝽	0
+tai wan xi bian	台湾细鯿	0
+tai wan xi xiao chi tian niu	台湾细小翅天牛	0
+tai wan xia zhen	台湾下鱵	0
+tai wan xian nong die	台湾籼弄蝶	0
+tai wan xian nv yu	台湾仙女鱼	0
+tai wan xiao bian yu	台湾小鳊鱼	0
+tai wan xiao bo wen she mu die	台湾小波纹蛇目蝶	0
+tai wan xiao chi ju tian niu	台湾小翅锯天牛	0
+tai wan xiao zi jia die	台湾小紫蛱蝶	0
+tai wan xie dai tian e	台湾斜带天蛾	0
+tai wan xu lie	台湾须鱲	0
+tai wan ya ao xiao ye jia	台湾亚澳肖叶甲	0
+tai wan yao zhu e	台湾摇祝蛾	0
+tai wan yi ji ye feng	台湾异基叶蜂	0
+tai wan yin ju	台湾银鮈	0
+tai wan ying ban e	台湾萤斑蛾	0
+tai wan ying kou qiu	台湾缨口鳅	0
+tai wan ying pi	台湾硬蜱	0
+tai wan yu xie	台湾玉蟹	0
+tai wan yuan wei he zhen	台湾圆尾鹤鱵	0
+tai wan yue jian feng	台湾悦茧蜂	0
+tai wan zao luo	台湾枣螺	0
+tai wan zhang guo gong chong	台湾长郭公虫	0
+tai wan zhang jiao jin hua chong	台湾长脚金花虫	0
+tai wan zhang jing hu jia chong	台湾长颈虎甲虫	0
+tai wan zhang wei zhu	台湾长尾蛛	0
+tai wan zhang you zhu	台湾长疣蛛	0
+tai wan zhe yuan ye ming	台湾褶缘野螟	0
+tai wan zhen chun shui mu	台湾真唇水母	0
+tai wan zhi da wen	台湾栉大蚊	0
+tai wan zhi dang	台湾螲蟷	0
+tai wan zhi huang ban feng	台湾直黄斑蜂	0
+tai wan zhi yan xia hu	台湾栉眼鰕虎	0
+tai wan zhong guo shi long zi	台湾中国石龙子	0
+tai wan zhun mang man	台湾准盲鳗	0
+tai wei xiao juan e	台尾小卷蛾	0
+tai wei yu luo	太尉芋螺	0
+tai xing zhi huan chong	台形指环虫	0
+tai yuan bo wen e	台圆波纹蛾	0

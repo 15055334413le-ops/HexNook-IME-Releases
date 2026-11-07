@@ -1,0 +1,104 @@
+gua pai	挂牌	70411
+gua kao	挂靠	55973
+gua mu xiang kan	刮目相看	4613
+gua hao fei	挂号费	4097
+gua qi zhuang tai	挂起状态	2300
+gua kao jing ying	挂靠经营	1884
+gua yang tou mai gou rou	挂羊头卖狗肉	1688
+gua shi zhi fu	挂失止付	1262
+gua sha	刮痧	1110
+gua lu kao ya	挂炉烤鸭	933
+gua jiu	瓜酒	925
+gua bu di zhong	寡不敌众	796
+gua wei	瓜萎	683
+gua shu di luo	瓜熟蒂落	601
+gua qi jin cheng	挂起进程	439
+gua tian li xia	瓜田李下	418
+gua yi lou wan	挂一漏万	391
+gua bi	刮臂	313
+gua er jiao	瓜尔胶	287
+gua da er	瓜达尔	228
+gua mian zhan pai	挂免战牌	190
+gua guo zhi xiang	瓜果之乡	171
+gua lian xian chi	寡廉鲜耻	139
+gua bu shang dang	挂不上档	91
+gua shan	瓜山	85
+gua jia	挂价	64
+gua qi shi jian	挂起时间	63
+gua fen dou pou	瓜分豆剖	61
+gua tian bu na lv	瓜田不纳履	53
+gua an suan	瓜氨酸	43
+gua guo shi chang	瓜果市场	40
+gua guan qiu qu	挂冠求去	37
+gua de luo pu dao	瓜德罗普岛	35
+gua de luo pu	瓜德罗普	34
+gua dang ji gou	挂档机构	29
+gua di	瓜堤	29
+gua qi yuan yu	挂起原语	27
+gua zhang	挂帐	27
+gua die mian mian	瓜瓞绵绵	25
+gua fen tang yuan	挂粉汤圆	20
+gua lou	栝楼	20
+gua shuang wan zi	挂霜丸子	17
+gua zi dian	瓜子店	17
+gua che fa	挂车阀	15
+gua dang gan	挂档杆	15
+gua jia tun she qu	挂甲屯社区	15
+gua gong shu	刮宫术	14
+gua shan bei yuan	瓜山北苑	8
+gua xiang qiao	瓜乡桥	8
+gua zi jin	瓜子金	7
+gua di gou	瓜地沟	6
+gua lu sha ban ji	挂炉沙板鸡	6
+gua lu shan ji	挂炉山鸡	6
+gua shi	刮匙	6
+gua xi xi	瓜兮兮	6
+gua lou ren	瓜蒌仁	5
+gua shuang tui re ling jiao nang	瓜霜退热灵胶囊	5
+gua che zhi shi deng	挂车指示灯	4
+gua fen zhi ri ke yi si	瓜分之日可以死	4
+gua jia si	挂甲寺	4
+gua yuan ze wan xiang	瓜园则湾乡	4
+gua fu zhi wen	寡妇之吻	3
+gua jia si jie dao	挂甲寺街道	3
+gua ren zhi yu guo ye	寡人之于国也	3
+gua sui xiang xin meng bu cheng	聒碎乡心梦不成	3
+gua xi xi de	瓜兮兮的	3
+gua da lu bei mei zhou da ying	瓜达鲁贝美洲大鹰	2
+gua da zi	呱嗒子	2
+gua ren zhi min bu jia duo	寡人之民不加多	2
+gua shan cun	瓜山村	2
+gua shen ze xiang	瓜什则乡	2
+gua yu han suo que	寡欲罕所阙	2
+gua che he zhen	挂车河镇	1
+gua dun hou leng she	挂墩后棱蛇	1
+gua dun jiao chan	挂墩角蟾	1
+gua juan ye ming	瓜绢野螟	1
+gua lou xie bai bai jiu tang	瓜蒌薤白白酒汤	1
+gua lou xie bai ban xia tang	瓜蒌薤白半夏汤	1
+gua mao chong	寡毛虫	1
+gua mao shi ying shu	寡毛实蝇属	1
+gua ren qie wen zhao wang hao yin	寡人窃闻赵王好音	1
+gua shan nan yuan	瓜山南苑	1
+gua shu zi li li	瓜熟子离离	1
+gua xi yu jin bo lian shan	挂席欲进波连山	1
+gua yuan xiang	瓜园乡	1
+gua bang shan xiao ni	挂榜山小鲵	0
+gua da lu pei tian zhu diao	瓜达卢佩天竺鲷	0
+gua du fu yu	刮杜父鱼	0
+gua dun duan mai wen shi e	挂墩短脉纹石蛾	0
+gua dun li hua ying	挂墩丽花萤	0
+gua er te che lun luo	瓜尔特车轮螺	0
+gua la po xie jia cao	瓜拉坡蟹甲草	0
+gua liao yi xian nv chong	瓜辽异仙女虫	0
+gua lin fei yu	寡鳞飞鱼	0
+gua lin yu	寡鳞鱊	0
+gua mao jin hua tian niu	寡毛金花天牛	0
+gua wan lu gou shi guan xiao du	瓜蔓颅沟饰冠小蠹	0
+gua wei shan die	瓜萎闪蝶	0
+gua wei shan die	瓜委闪蝶	0
+gua xiao shi ying	瓜小实蝇	0
+gua xing bu jia	寡行步甲	0
+gua ye ju li duan wei ya chong	瓜叶菊李短尾蚜虫	0
+gua ye ju qian ye e	瓜叶菊潜夜蛾	0
+gua zai lie	瓜仔鱲	0

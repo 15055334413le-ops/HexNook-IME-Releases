@@ -1,0 +1,504 @@
+nao dai	脑袋	247400
+nao can	脑残	99999
+nao zi	脑子	94535
+nao zhong	闹钟	84165
+nao zi li	脑子里	74825
+nao zhong	脑中	63650
+nao hai li	脑海里	55840
+nao hai zhong	脑海中	48755
+nao jin	脑筋	42410
+nao hai	脑海	37720
+nao bu	脑补	33300
+nao bu	脑部	33215
+nao de	闹得	32090
+nao hou	脑后	27350
+nao de	闹的	26135
+nao nu	恼怒	26090
+nao shi	闹事	24840
+nao li	脑力	23030
+nao shi	闹市	22930
+nao huo	恼火	21375
+nao ju	闹剧	21340
+nao xi bao	脑细胞	20985
+nao men	脑门	19910
+nao le	闹了	19455
+nao bai jin	脑白金	16740
+nao chu	闹出	16420
+nao xiu cheng nu	恼羞成怒	14795
+nao ling	闹铃	13980
+nao li lao dong	脑力劳动	13515
+nao mo yan	脑膜炎	13465
+nao nei	脑内	12865
+nao ren	恼人	12565
+nao shen jing	脑神经	12400
+nao tan	脑瘫	12115
+nao ji ye	脑脊液	11095
+nao zu zhi	脑组织	11085
+nao ke	脑壳	10485
+nao cu zhong	脑卒中	10405
+nao biao	闹表	9999
+nao chang	闹场	9999
+nao chang zi	闹场子	9999
+nao dai gua er	脑袋瓜儿	9999
+nao dao	闹到	9999
+nao dong	脑洞	9999
+nao dong da kai	脑洞大开	9999
+nao geng	脑梗	9999
+nao ku	脑库	9999
+nao lu gong he guo	瑙鲁共和国	9999
+nao ne	闹呢	9999
+nao pi qi	闹脾气	9999
+nao rang rang	闹嚷嚷	9999
+nao tian er	闹天儿	9999
+nao xi	闹戏	9999
+nao yi qi	闹意气	9999
+nao zhe	闹着	9965
+nao jin ji zhuan wan	脑筋急转弯	9890
+nao shi qu	闹市区	9855
+nao yan	脑炎	8750
+nao nao	闹闹	8600
+nao gui	闹鬼	7695
+nao geng se	脑梗塞	7660
+nao fan	闹翻	7535
+nao gan	脑干	7455
+nao shi	脑室	7350
+nao dian tu	脑电图	6910
+nao teng	闹腾	6805
+nao zhong qu jing	闹中取静	6690
+nao nao	挠挠	6580
+nao zhong feng	脑中风	6565
+nao shui zhong	脑水肿	6520
+nao chui ti	脑垂体	6360
+nao liu	脑瘤	6310
+nao gong neng	脑功能	5965
+nao bie niu	闹别扭	5685
+nao dong fang	闹洞房	5660
+nao ren	挠人	5660
+nao hua	脑花	5555
+nao huang	闹荒	5555
+nao ji	脑机	5555
+nao xin	闹心	5405
+nao mo	脑膜	5370
+nao zhen dang	脑震荡	5220
+nao da	闹大	5170
+nao li lao dong zhe	脑力劳动者	5135
+nao le	恼了	5065
+nao jiang	脑浆	5030
+nao qi	闹起	5015
+nao ji	脑际	4905
+nao dian bo	脑电波	4655
+nao nu de	恼怒的	4475
+nao mao dun	闹矛盾	4420
+nao zhe wan de	闹着玩的	4410
+nao hong hong	闹哄哄	4380
+nao le nao	挠了挠	4320
+nao zhong liu	脑肿瘤	4295
+nao tou	挠头	4180
+nao sun shang	脑损伤	4135
+nao wai shang	脑外伤	4040
+nao ge ming	闹革命	3975
+nao wai ke	脑外科	3885
+nao geng si	脑梗死	3700
+nao bao zha	脑爆炸	3333
+nao bu le	脑补了	3333
+nao dai bao zha	脑袋爆炸	3333
+nao tu	脑图	3333
+nao zi bao zha	脑子爆炸	3333
+nao sui	脑髓	3295
+nao zhong	孬种	3220
+nao gua	脑瓜	3140
+nao hen	恼恨	3140
+nao dai gua	脑袋瓜	2820
+nao zhi	脑汁	2810
+nao qing xu	闹情绪	2755
+nao huo de	恼火的	2645
+nao xia chui ti	脑下垂体	2590
+nao ke xue	脑科学	2560
+nao si wang	脑死亡	2555
+nao du zi	闹肚子	2515
+nao mo liu	脑膜瘤	2515
+nao bing	闹病	2470
+nao xiao hua	闹笑话	2440
+nao ke	脑科	2375
+nao cheng	闹成	2305
+nao lu	瑙鲁	2245
+nao guo	闹过	2222
+nao zhe wan	闹着玩	2175
+nao wei suo	脑萎缩	2060
+nao li ji dang	脑力激荡	1955
+nao ji sui	脑脊髓	1895
+nao yuan xiao	闹元宵	1690
+nao shuan se	脑栓塞	1670
+nao er	脑儿	1665
+nao zhang	脑胀	1545
+nao yang	挠痒	1530
+nao yang er	挠痒儿	1530
+nao xing tan huan	脑性瘫痪	1515
+nao qu	挠曲	1485
+nao dai gua zi	脑袋瓜子	1475
+nao lin zhi	脑磷脂	1468
+nao re	闹热	1435
+nao men zi	脑门子	1430
+nao yang yang	挠痒痒	1420
+nao jiang	闹僵	1380
+nao shao	脑勺	1370
+nao fang	闹房	1290
+nao ji huang	闹饥荒	1260
+nao fan tian	闹翻天	1180
+nao ke yi yuan	脑科医院	1180
+nao ni	挠你	1180
+nao ta	挠他	1180
+nao wo	挠我	1180
+nao yi nao	挠一挠	1180
+nao yi xia	挠一下	1180
+nao sheng	闹声	1120
+nao bai	闹掰	1111
+nao bai le	闹掰了	1111
+nao dao xian zai	闹到现在	1111
+nao dao zui hou	闹到最后	1111
+nao jia	闹架	1111
+nao jia le	闹架了	1111
+nao kong	脑控	1111
+nao ren	脑仁	1111
+nao ren er	脑仁儿	1111
+nao bing	脑病	1102
+nao man chang fei	脑满肠肥	1085
+nao gua zi	脑瓜子	1005
+nao shao er	脑勺儿	999
+nao mo yan qiu jun	脑膜炎球菌	995
+nao xing	闹醒	990
+nao shi zhe	闹事者	970
+nao xin fang	闹新房	970
+nao yi jian	闹意见	970
+nao meng	闹猛	950
+nao bu hao	闹不好	833
+nao bu wan	闹不完	833
+nao fei tai	脑啡肽	825
+nao jiang beng lie	脑浆迸裂	825
+nao men er	脑门儿	820
+nao ji shui	脑积水	811
+nao pi lao	脑疲劳	805
+nao kai	闹开	725
+nao nao	呶呶	720
+nao qu	闹去	700
+nao shi kou	闹市口	560
+nao si	瑙斯	560
+nao li jian	脑力键	550
+nao can ti	脑残体	547
+nao ji sui ye	脑脊髓液	541
+nao ti dao gua	脑体倒挂	540
+nao shan	脑疝	487
+nao chong bing	蛲虫病	421
+nao xiu	恼羞	420
+nao gou	挠钩	410
+nao sha	硇砂	410
+nao du li xing	闹独立性	395
+nao chong	蛲虫	384
+nao lai	闹来	325
+nao jiang le	闹僵了	321
+nao dong mai	脑动脉	300
+nao ji mo	脑脊膜	300
+nao dong mai ying hua	脑动脉硬化	291
+nao shui zai	闹水灾	290
+nao zhe wan er	闹着玩儿	290
+nao cuo shang	脑挫伤	256
+nao dian tu yi	脑电图仪	250
+nao hong hong de	闹哄哄的	248
+nao qi	闹气	230
+nao hong	闹哄	225
+nao li jian	脑力健	210
+nao zei	闹贼	205
+nao de xiang	闹得像	200
+nao bu chu	闹不出	175
+nao gan sun shang	脑干损伤	173
+nao ke zhuan jia	脑科专家	170
+nao ren de qiu feng	恼人的秋风	153
+nao zhong mei xiang	闹钟没响	153
+nao hai shen chu	脑海深处	152
+nao zai huang	闹灾荒	150
+nao le ge xiao hua	闹了个笑话	145
+nao bu qi lai	闹不起来	140
+nao gan zhi	脑苷脂	140
+nao ji su	脑激素	132
+nao guo	挠过	118
+nao bao cun	脑包村	116
+nao wu	脑雾	111
+nao zhen	脑针	111
+nao luan zi	闹乱子	110
+nao hang yuan	脑航员	108
+nao pi gu	挠屁股	108
+nao gua er	脑瓜儿	105
+nao mo nao yan	脑膜脑炎	103
+nao bai zhi	脑白质	100
+nao ban lang	闹伴郎	100
+nao ban niang	闹伴娘	100
+nao bie niu le	闹别扭了	100
+nao bu zhao	挠不着	100
+nao cheng xiang ji shu	脑成像技术	100
+nao cheng yi tuan	闹成一团	100
+nao chong gan ran	蛲虫感染	100
+nao chu lai	闹出来	100
+nao chu qu	闹出去	100
+nao chu ren ming	闹出人命	100
+nao chu xiao hua	闹出笑话	100
+nao chun jie	闹春节	100
+nao chun xiao	闹春宵	100
+nao cu zhong fang zhi	脑卒中防治	100
+nao cu zhong fang zhi gong cheng	脑卒中防治工程	100
+nao cu zhong hou	脑卒中后	100
+nao cu zhong huan zhe	脑卒中患者	100
+nao cu zhong shai cha	脑卒中筛查	100
+nao dai bei men ji le	脑袋被门挤了	100
+nao dai bian shang	脑袋边上	100
+nao dai dou da	脑袋都大	100
+nao dai dou da le	脑袋都大了	100
+nao dai er	脑袋儿	100
+nao dai kai hua	脑袋开花	100
+nao dai li quan shi shui	脑袋里全是水	100
+nao dai li quan shi shui a	脑袋里全是水啊	100
+nao dai li zhuang shen me de	脑袋里装什么的	100
+nao dai shang	脑袋上	100
+nao dai weng weng	脑袋嗡嗡	100
+nao dai weng weng da	脑袋嗡嗡哒	100
+nao dai weng weng la	脑袋嗡嗡啦	100
+nao dao yang	挠到痒	100
+nao dao yang chu	挠到痒处	100
+nao de bu ke kai jiao	闹得不可开交	100
+nao de bu yu kuai	闹得不愉快	100
+nao de fei fei yang yang	闹得沸沸扬扬	100
+nao de hen	闹得很	100
+nao de hen xiong	闹得很凶	100
+nao de huan	闹得欢	100
+nao de huan a	闹得欢啊	100
+nao de li hai	闹得厉害	100
+nao de man cheng feng yu	闹得满城风雨	100
+nao de ren jin jie zhi	闹得人尽皆知	100
+nao de shi bu ke kai jiao	闹得是不可开交	100
+nao de tian fan di fu	闹得天翻地覆	100
+nao de xiong	闹得凶	100
+nao de zhen huan	闹得真欢	100
+nao di fu	闹地府	100
+nao dian di xing tu	脑电地形图	100
+nao dian tu ban	脑电图版	100
+nao dong qing qi	脑洞清奇	100
+nao fan le tian	闹翻了天	100
+nao gai gu	脑盖骨	100
+nao gan bai zhi	脑干白质	100
+nao gan hui zhi	脑干灰质	100
+nao gan que shi	脑干缺失	100
+nao ge bu ting	闹个不停	100
+nao geng se hou yi zheng	脑梗塞后遗症	100
+nao geng se huan zhe	脑梗塞患者	100
+nao gong neng te hua	脑功能特化	100
+nao gou hui	脑沟回	100
+nao gou le mei you	闹够了没有	100
+nao gou shou	挠钩手	100
+nao gua ren	脑瓜仁	100
+nao gua ren er	脑瓜仁儿	100
+nao gui le	闹鬼了	100
+nao hong huo	闹红火	100
+nao hong zai	闹洪灾	100
+nao hui lu	脑回路	100
+nao hui zhi	脑灰质	100
+nao huo qi lai	恼火起来	100
+nao jin er	脑筋儿	100
+nao jin ji zhuan wan er	脑筋急转弯儿	100
+nao ke zi	脑壳子	100
+nao lai nao qu	闹来闹去	100
+nao le ban tian	闹了半天	100
+nao le ge da wu long	闹了个大乌龙	100
+nao le mao dun	闹了矛盾	100
+nao le na me jiu	闹了那么久	100
+nao le nao tou	挠了挠头	100
+nao le qi lai	闹了起来	100
+nao le wu long	闹了乌龙	100
+nao le xiao hua	闹了笑话	100
+nao le yi chang	闹了一场	100
+nao li feng bao	脑力风暴	100
+nao li ji dang fa	脑力激荡法	100
+nao li ji dang shu	脑力激荡术	100
+nao li kai dong	脑力开动	100
+nao ling shi zhong	闹铃时钟	100
+nao mao dun le	闹矛盾了	100
+nao men jie lie	脑门皆裂	100
+nao men shang	脑门上	100
+nao men xue	脑门穴	100
+nao ming bai	闹明白	100
+nao na er yang	闹哪儿样	100
+nao na yang	闹哪样	100
+nao nao rang rang	闹闹攘攘	100
+nao nao teng teng	闹闹腾腾	100
+nao nao tou	挠挠头	100
+nao ne a	闹呢啊	100
+nao ning le	闹拧了	100
+nao pi zhi	脑皮质	100
+nao piao er	脑瓢儿	100
+nao qi lai	闹起来	100
+nao qian e ye	脑前额叶	100
+nao re gun gun	闹热滚滚	100
+nao rong liang	脑容量	100
+nao sai zhua er	挠腮抓耳	100
+nao shang ti	脑上体	100
+nao she huo	闹社火	100
+nao shen jing xi tong	脑神经系统	100
+nao shi qu	闹事区	100
+nao shi wu ren wen	闹市无人问	100
+nao sui zhi	脑髓质	100
+nao tai tao	闹太套	100
+nao xi bao si wang	脑细胞死亡	100
+nao xie guan du se	脑血管堵塞	100
+nao xin lang	闹新郎	100
+nao xin niang	闹新娘	100
+nao xing ma bi	脑性麻痹	100
+nao xiu bian nu	恼羞变怒	100
+nao xue guan du se	脑血管堵塞	100
+nao yi qing	闹疫情	100
+nao zhe tou	挠着头	100
+nao zhe wan er ne	闹着玩儿呢	100
+nao zhe wan ne	闹着玩呢	100
+nao zhe wan shi de	闹着玩似的	100
+nao zhe wan yi yang	闹着玩一样	100
+nao zhi wei qu	挠直为曲	100
+nao zhong guan diao	闹钟关掉	100
+nao zhong guan le	闹钟关了	100
+nao zhong guan shang	闹钟关上	100
+nao zhong jiu mei guan	闹钟就没关	100
+nao zhong kai kai	闹钟开开	100
+nao zhong xiang le	闹钟响了	100
+nao zi bei lv ti le	脑子被驴踢了	100
+nao zi bu gou	脑子不够	100
+nao zi bu gou le	脑子不够了	100
+nao zi bu hao	脑子不好	100
+nao zi bu xing	脑子不行	100
+nao zi dou luan le	脑子都乱了	100
+nao zi jin shui le	脑子进水了	100
+nao zi kong bai	脑子空白	100
+nao zi li pan xuan	脑子里盘旋	100
+nao zi li quan shi shui	脑子里全是水	100
+nao zi li quan shi shui a	脑子里全是水啊	100
+nao zi sheng xiu	脑子生锈	100
+nao zi wa te le	脑子瓦特了	100
+nao zi you keng	脑子有坑	100
+nao zi you wen ti	脑子有问题	100
+nao zi you wen ti ba	脑子有问题吧	100
+nao zi zhuan dei kuai	脑子转得快	100
+nao nao bu xiu	呶呶不休	90
+nao zai	闹灾	90
+nao de bi	闹得比	80
+nao xing guan	挠性管	75
+nao nao yang yang	挠挠痒痒	70
+nao bo	脑波	66
+nao yang hua	闹羊花	66
+nao hou feng sheng	脑后风生	65
+nao yan hou yi zheng	脑炎后遗症	63
+nao kang tai jiao nang	脑康泰胶囊	61
+nao nong zhong	脑脓肿	59
+nao xun huan	脑循环	56
+nao chang tai	脑肠肽	50
+nao tou shi	挠头事	50
+nao mo yan qiu jun duo tang yi miao	脑膜炎球菌多糖疫苗	49
+nao fei tai mei	脑啡肽酶	45
+nao gan geng se	脑干梗塞	38
+nao gan nao yan	脑干脑炎	37
+nao hui	脑回	36
+nao lu gu	脑颅骨	29
+nao ji jie kou	脑机接口	27
+nao mo ci ji zheng	脑膜刺激征	27
+nao qiao	脑桥	27
+nao zhe ne	闹着呢	25
+nao ming	脑鸣	24
+nao xin tong	脑心通	24
+nao dong jing mai ji xing	脑动静脉畸形	23
+nao ma le	闹麻了	23
+nao shao zi	脑勺子	20
+nao gong neng cheng xiang	脑功能成像	18
+nao xin tong jiao nang	脑心通胶囊	18
+nao xing nve ji	脑型疟疾	18
+nao bai zhi ying yang bu liang	脑白质营养不良	16
+nao nang chong bing	脑囊虫病	16
+nao mu geng su mu	脑木更苏木	15
+nao ruan hua	脑软化	15
+nao shuai dan bai	脑衰蛋白	15
+nao wai shang hou zong he zheng	脑外伤后综合征	15
+nao xin ji yan bing du	脑心肌炎病毒	15
+nao gou	脑沟	13
+nao xin qing pian	脑心清片	12
+nao ya ban	脑压板	12
+nao nang zhong	脑囊肿	11
+nao sai tong wan	脑塞通丸	11
+nao dan bai shui jie wu kou fu ye	脑蛋白水解物口服液	10
+nao dong mai liu jia	脑动脉瘤夹	10
+nao fei tai yuan	脑啡肽原	10
+nao ji sui mo yan	脑脊髓膜炎	10
+nao li ti ding xiang yi	脑立体定向仪	10
+nao mo xing	脑模型	10
+nao xuan xu	闹玄虚	10
+nao zhe ne	恼着呢	10
+nao zong pai	闹宗派	10
+nao huo su	脑活素	9
+nao fu kang	脑复康	8
+nao lie	脑裂	8
+nao qing song	脑轻松	8
+nao si wang yu qi guan yi zhi	脑死亡与器官移植	8
+nao bai zhi bing	脑白质病	7
+nao ji mo yan	脑脊膜炎	7
+nao dong mai yan	脑动脉炎	6
+nao luo tong jiao nang	脑络通胶囊	6
+nao qi zhi xing jing shen bing	脑器质性精神病	6
+nao xin shu kou fu ye	脑心舒口服液	6
+nao can bu si	脑残不死	5
+nao dan bai shui jie wu	脑蛋白水解物	5
+nao tai jiao nang	脑肽胶囊	5
+nao gan ji tai	脑苷肌肽	4
+nao li qing wan	脑立清丸	4
+nao xin an jiao nang	脑心安胶囊	4
+nao bo	铙钹	3
+nao dan bai shui jie wu zhu she ye	脑蛋白水解物注射液	3
+nao de yao si yao huo	闹得要死要活	3
+nao li qing	脑立清	3
+nao mo nie	脑膜镊	3
+nao shuan tong jiao nang	脑栓通胶囊	3
+nao da zhen chui	脑打诊锤	2
+nao dan bai shui jie wu pian	脑蛋白水解物片	2
+nao ling su jiao nang	脑灵素胶囊	2
+nao qiao	闹桥	2
+nao xin shu	脑心舒	2
+nao an ke li	脑安颗粒	1
+nao bao gou cun	脑包沟村	1
+nao da zhen chui	脑打针锤	1
+nao dao	脑岛	1
+nao de sheng pian	脑得生片	1
+nao di xing tu	脑地形图	1
+nao dian zhen duan fen xi xi tong	脑电诊断分析系统	1
+nao dong mai jing luan	脑动脉痉挛	1
+nao du	挠度	1
+nao er	淖尔	1
+nao gua bu ling	脑瓜不灵	1
+nao hou lie sang	挠喉捩嗓	1
+nao hu	脑户	1
+nao hui zhi si	蛲蛔之死	1
+nao huo jian chou xi qi	脑活检抽吸器	1
+nao ji ye fen liu guan	脑积液分流管	1
+nao ju	脑疽	1
+nao jue	猱玃	1
+nao li bao wan	脑力宝丸	1
+nao li qing jiao nang	脑立清胶囊	1
+nao ling tong	脑灵通	1
+nao lu wei ying	瑙鲁苇莺	1
+nao mo bo li qi	脑膜剥离器	1
+nao mo gou	脑膜钩	1
+nao mo la gou	脑膜拉钩	1
+nao qu wang zhi	挠曲枉直	1
+nao sao hu yang	猱搔虎痒	1
+nao sheng nao qi	呶声呶气	1
+nao shi bu zhi chun se chu	闹市不知春色处	1
+nao shi yan	脑室炎	1
+nao sui juan zi	脑髓卷子	1
+nao xi yin qi	脑吸引器	1
+nao xin zong he zheng	脑心综合征	1
+nao yang	挠秧	1
+nao zhen dang hou zong he zheng	脑震荡后综合征	1
+nao zhou	硇洲	1
+nao zhou dao	硇洲岛	1
+nao zhua fan she	挠抓反射	1
+nao zu zhi yao chu qian	脑组织咬除钳	1

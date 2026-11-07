@@ -1,0 +1,280 @@
+nei di	内地	106407
+nei cun kong jian	内存空间	59492
+nei mu jiao yi	内幕交易	46528
+nei xu	内需	34334
+nei cun guan li	内存管理	30427
+nei cun di zhi	内存地址	28282
+nei bu lei	内部类	28241
+nei cun fen pei	内存分配	26336
+nei meng gu zi zhi qu	内蒙古自治区	22882
+nei cun xie lou	内存泄露	21342
+nei cun qu yu	内存区域	18250
+nei cun xie lou	内存泄漏	17384
+nei ke	内科	15542
+nei cun yi chu	内存溢出	14471
+nei cun bu zu	内存不足	13279
+nei wang	内网	9750
+nei bu zhi gong gu	内部职工股	8759
+nei he kong jian	内核空间	7804
+nei fen mi	内分泌	7775
+nei cun huan cun	内存缓存	7518
+nei cun sui pian	内存碎片	7143
+nei dou	内都	6536
+nei cun ying she	内存映射	6041
+nei cun hui shou	内存回收	5955
+nei hou shi jing	内后视镜	5812
+nei he tai	内核态	5728
+nei cun cao zuo	内存操作	5642
+nei he mo kuai	内核模块	5340
+nei cun mo xing	内存模型	5256
+nei bu han shu	内部函数	5209
+nei cun shi fang	内存释放	5145
+nei zhi han shu	内置函数	5052
+nei lian han shu	内联函数	4842
+nei cun wen ti	内存问题	4530
+nei bian ju	内边距	4242
+nei bu cun chu	内部存储	3931
+nei zhi lei xing	内置类型	3899
+nei zhi dui xiang	内置对象	3865
+nei cun bu ju	内存布局	3849
+nei cun kao bei	内存拷贝	3717
+nei lian jie	内连接	3259
+nei cun guan li ji zhi	内存管理机制	3235
+nei he xian cheng	内核线程	3215
+nei he qi dong	内核启动	3208
+nei cun jie gou	内存结构	3031
+nei bu cuo wu	内部错误	2952
+nei cun shu ju ku	内存数据库	2858
+nei bu dui xiang	内部对象	2782
+nei jian han shu	内建函数	2756
+nei rong ti gong zhe	内容提供者	2678
+nei he dui xiang	内核对象	2587
+nei cun jing gao	内存警告	2559
+nei cun you hua	内存优化	2536
+nei hua da zhou	内华达州	2495
+nei he pei zhi	内核配置	2445
+nei jiang shi	内江市	2350
+nei cun dui qi	内存对齐	2279
+nei cun fen xi	内存分析	2190
+nei he han shu	内核函数	2109
+nei lian yuan su	内联元素	2011
+nei cun ying she wen jian	内存映射文件	1888
+nei he kai fa	内核开发	1887
+nei you wai huan	内忧外患	1866
+nei he bian yi	内核编译	1841
+nei shang	内伤	1812
+nei shi cai liao	内饰材料	1787
+nei he qu dong	内核驱动	1683
+nei huan jing	内环境	1562
+nei cun ping zhang	内存屏障	1405
+nei cun ji suan	内存计算	1345
+nei cun gong xiang	内存共享	1336
+nei he jin cheng	内核进程	1313
+nei cun fen bu	内存分布	1296
+nei huan lu	内环路	1295
+nei ju xing	内聚性	1253
+nei pai xu	内排序	1203
+nei rong ye	内容页	1157
+nei he zhan	内核栈	1128
+nei cun fen pei ce lve	内存分配策略	1090
+nei kui jing	内窥镜	1064
+nei fen mi shi tiao	内分泌失调	1042
+nei rong xie shang	内容协商	1032
+nei wai jiao kun	内外交困	974
+nei chu xue	内出血	951
+nei he shu ju jie gou	内核数据结构	944
+nei he cheng xu	内核程序	927
+nei cun bao hu	内存保护	884
+nei fen mi xi tong	内分泌系统	881
+nei huan xian	内环线	872
+nei cun ji zhi	内存机制	864
+nei rong ti gong qi	内容提供器	839
+nei bu ji cun qi	内部寄存器	802
+nei cun ke jian xing	内存可见性	782
+nei cun tiao shi	内存调试	776
+nei gou	内购	721
+nei cun yue jie	内存越界	692
+nei cun jian ce	内存检测	679
+nei he tiao shi	内核调试	645
+nei chen	内衬	623
+nei he bian cheng	内核编程	589
+nei huan	内环	560
+nei bu duan lu	内部短路	544
+nei lian hui bian	内联汇编	519
+nei jing	内径	515
+nei cun zheng li	内存整理	497
+nei bu sui pian	内部碎片	489
+nei bu yang shi biao	内部样式表	489
+nei mo shi	内模式	481
+nei xiang su	内像素	445
+nei mu jiao yi zhe	内幕交易者	439
+nei he fu wu	内核服务	395
+nei xiang	内乡	384
+nei he yi zhi	内核移植	380
+nei rong guan cha zhe	内容观察者	379
+nei bu yang shi	内部样式	357
+nei meng gu jun qu	内蒙古军区	349
+nei bu wang guan xie yi	内部网关协议	346
+nei cun mo kuai	内存模块	319
+nei bu qian zhi zhi du	内部牵制制度	312
+nei jiang shi dong xing qu	内江市东兴区	309
+nei ke xue	内科学	291
+nei he sheng ji	内核升级	267
+nei di duan	内地段	255
+nei hai wan	内海湾	246
+nei huang	内黄	240
+nei he tong bu	内核同步	238
+nei cha wai diao	内查外调	206
+nei he lian biao	内核链表	200
+nei gu jia	内骨架	199
+nei rong kong jian	内容控件	199
+nei zhi	内痔	195
+nei zhao she	内照射	190
+nei wang chuan tou	内网穿透	185
+nei cun cha cao	内存插槽	184
+nei qiu	内丘	181
+nei rong kong zhi	内容控制	177
+nei meng gu gong ye da xue	内蒙古工业大学	172
+nei he fen xi	内核分析	171
+nei pi	内皮	169
+nei guan	内关	166
+nei zhi fu	内支付	161
+nei ting	内庭	146
+nei wang ying she	内网映射	145
+nei du su	内毒素	138
+nei meng gu dian shi tai	内蒙古电视台	138
+nei wai jia gong	内外夹攻	138
+nei han jia zhi fa	内含价值法	136
+nei lian wang	内联网	135
+nei wang shen tou	内网渗透	126
+nei he yuan li	内核原理	124
+nei pi xi bao	内皮细胞	124
+nei meng gu yi yuan	内蒙古医院	112
+nei wan	内湾	112
+nei meng gu da xue fa xue yuan	内蒙古大学法学院	103
+nei cun si qu	内存四区	100
+nei sheng wai wang	内圣外王	98
+nei meng gu qu	内蒙古区	88
+nei wen du chuan gan qi	内温度传感器	85
+nei huai	内踝	69
+nei keng	内坑	69
+nei fen mi xian	内分泌腺	68
+nei pi er	内皮尔	66
+nei han luo ji	内含逻辑	65
+nei zang xia chui	内脏下垂	60
+nei jiang lu	内江路	59
+nei zang shen jing	内脏神经	57
+nei cuo	内厝	54
+nei ban	内板	53
+nei meng gu bai rong shan yang	内蒙古白绒山羊	49
+nei he chong xin bian yi	内核重新编译	47
+nei nang	内囊	46
+nei gang	内岗	44
+nei huai jian	内踝尖	43
+nei wai zi shui lv tong yi	内外资税率统一	35
+nei jiang mi jian	内江蜜饯	34
+nei bu ji	内部级	33
+nei bu wei xie	内部威胁	30
+nei mu jiao yi shen cai chu	内幕交易审裁处	30
+nei meng jun zheng	内蒙君正	28
+nei bi wai tuo	内闭外脱	26
+nei pan	内盘	23
+nei jiang xian	内江县	22
+nei wu bu jie	内务部街	22
+nei she	内社	21
+nei xiao	内消	21
+nei dong	内洞	20
+nei yang	内洋	20
+nei huan jing wen ding	内环境稳定	19
+nei xi xiang	内溪乡	19
+nei xie shi	内斜视	19
+nei ce ren dai	内侧韧带	18
+nei zi zhui pi	内眦赘皮	17
+nei zhi wang	内质网	16
+nei er ji bing	内耳疾病	15
+nei fen mi bing	内分泌病	14
+nei ting xue	内庭穴	14
+nei cai jian	内裁剪	12
+nei jiang shi dong xing	内江市东兴	11
+nei han zi	内含子	10
+nei wu cao zuo	内务操作	10
+nei ke hu li xue	内科护理学	9
+nei yuan cun	内苑村	9
+nei pei ceng	内胚层	8
+nei shan wan zao	内山完造	8
+nei bu xing zheng wei fa	内部行政违法	7
+nei cun cun	内村村	7
+nei fan zu	内翻足	7
+nei guan zhen	内官镇	7
+nei qie mei	内切酶	7
+nei yuan ji yin	内源基因	7
+nei pei dou liu	内胚窦瘤	6
+nei ren dai	内韧带	6
+nei shan cun	内山村	6
+nei yuan xing gan ran	内源性感染	6
+nei zang tong	内脏痛	6
+nei guan zhuang cun	内官庄村	5
+nei meng gu ban xi mao yang	内蒙古半细毛羊	5
+nei fan xing ru tou zhuang liu	内翻性乳头状瘤	4
+nei jiang gong yuan	内江公园	4
+nei mao	内茂	4
+nei pi su	内皮素	4
+nei si ken si	内斯肯斯	4
+nei cun guang liang	内村光良	3
+nei er xun	内尔逊	3
+nei rong xiao du	内容效度	3
+nei xi bao qun	内细胞群	3
+nei xu	内许	3
+nei yin ji yi	内隐记忆	3
+nei bi kong ya gang	内鼻孔亚纲	2
+nei bu yang rong wan	内补养荣丸	2
+nei bu zi liao	内部资料	2
+nei chun cun	内春村	2
+nei cuo cun	内厝村	2
+nei hu wan	内湖湾	2
+nei ju bu shi qin	内举不失亲	2
+nei mo xi tong	内膜系统	2
+nei tian you ji	内田有纪	2
+nei yang cun	内洋村	2
+nei yin zi	内因子	2
+nei yuan xing zhi qi guan xiao chuan	内源性支气管哮喘	2
+nei zao cun	内灶村	2
+nei zi zhui pi jiao zheng shu	内眦赘皮矫正术	2
+nei bi cun	内碧村	1
+nei bu kong zhi	内部控制	1
+nei bu yan yu	内部言语	1
+nei ce long qi	内侧隆起	1
+nei ce xie gu	内侧楔骨	1
+nei ce zong shu	内侧纵束	1
+nei dao zhuan shu	内倒转术	1
+nei di cun	内地村	1
+nei dong he qu	内东河区	1
+nei fa xing fa zhi xian dai hua	内发型法制现代化	1
+nei gai fu de sha mo cheng zhen	内盖夫的沙漠城镇	1
+nei hu cun	内湖村	1
+nei jing xuan du	内经选读	1
+nei jun zhuang	内军庄	1
+nei ke xue ji chu	内科学基础	1
+nei keng cun	内坑村	1
+nei lu shui chan zi yuan	内陆水产资源	1
+nei meng gu dian li xue xiao	内蒙古电力学校	1
+nei meng hong feng	内蒙宏峰	1
+nei pi shu zhang yin zi	内皮舒张因子	1
+nei re sou gao shi ye	内热溲膏是也	1
+nei she cun	内社村	1
+nei shi jing	内室镜	1
+nei wu ying men wu chi zhi tong	内无应门五尺之僮	1
+nei xi yan	内膝眼	1
+nei xiao luo li pian	内消瘰疬片	1
+nei ye sheng yang	内野圣阳	1
+nei yin xie	内隐斜	1
+nei zai qi zhong yi	馁在其中矣	1
+nei ban xiao zhou e	内斑小舟蛾	0
+nei da hua zhou he xi li	内达华州呵吸鲤	0
+nei de ke er bo te long	内德科尔伯特龙	0
+nei lu meng she	内陆猛蛇	0
+nei lu shui yu dong wu qun	内陆水域动物群	0
+nei lu zong shi xi	内陆鬃狮蜥	0
+nei meng lang xiao yao zhu	内蒙狼逍遥蛛	0
+nei quan wen zhou e	内圈纹舟蛾	0
+nei shi jian bian chong	内饰简变虫	0

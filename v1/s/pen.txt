@@ -1,0 +1,278 @@
+pen zi	喷子	99999
+pen wu	喷雾	65870
+pen tu	喷涂	59950
+pen she	喷射	55105
+pen jing	盆景	53105
+pen di	盆地	50305
+pen chu	喷出	45590
+pen quan	喷泉	43670
+pen sa	喷洒	41905
+pen tou	喷头	37270
+pen shui	喷水	36985
+pen zui	喷嘴	33620
+pen qiang	盆腔	32835
+pen hui	喷绘	30145
+pen zai	盆栽	28795
+pen qi	喷漆	26520
+pen mo	喷墨	25195
+pen qiang yan	盆腔炎	22725
+pen mo da yin ji	喷墨打印机	20575
+pen huo	喷火	15840
+pen hua	盆花	15610
+pen fa	喷发	14685
+pen lin	喷淋	14465
+pen qi	喷气	14345
+pen ti	喷嚏	13785
+pen ji	喷剂	13620
+pen yong	喷涌	13385
+pen ma ji	喷码机	12880
+pen le	喷了	12490
+pen you	喷油	12300
+pen qiang	喷枪	12260
+pen su	喷塑	11680
+pen wu qi	喷雾器	11580
+pen xie	喷血	11340
+pen xue	喷血	11340
+pen li	盆里	11135
+pen yao	喷药	11030
+pen guan	喷灌	10615
+pen zhong	盆中	10500
+pen pen xiang	喷喷香	9999
+pen man bo ying	盆满钵盈	9595
+pen zai	喷在	8995
+pen sha	喷砂	8940
+pen shang	喷上	7645
+pen zi	盆子	7175
+pen dao	喷到	6170
+pen ma	喷码	5840
+pen wu ji	喷雾剂	5835
+pen fen	喷粪	5555
+pen pen	喷喷	5555
+pen shui chi	喷水池	5295
+pen you zui	喷油嘴	5260
+pen you qi	喷油器	5085
+pen hua	喷画	4950
+pen fan	喷饭	4830
+pen hui ji	喷绘机	4815
+pen man bo man	盆满钵满	4595
+pen qi shi	喷气式	4590
+pen kou	喷口	4330
+pen zhe	喷着	4275
+pen wu gan zao	喷雾干燥	4210
+pen du yan jing she	喷毒眼镜蛇	4150
+pen chu lai	喷出来	3840
+pen tu she bei	喷涂设备	3680
+pen sa zai	喷洒在	3415
+pen cuo	喷错	3333
+pen cuo le	喷错了	3333
+pen shui de jing	喷水的鲸	3333
+pen shui de jing yu	喷水的鲸鱼	3333
+pen xiang	喷向	3333
+pen zai zhi wu	盆栽植物	3333
+pen sha ji	喷砂机	3285
+pen yu	盆浴	3260
+pen guan	喷管	3220
+pen you beng	喷油泵	3165
+pen jian	喷溅	2955
+pen she chu	喷射出	2925
+pen qi shi fei ji	喷气式飞机	2805
+pen bo	喷薄	2765
+pen hu	喷壶	2585
+pen ru	喷入	2585
+pen jing yuan	盆景园	2575
+pen she qi	喷射器	2340
+pen qi fa dong ji	喷气发动机	2165
+pen qi ji	喷气机	2030
+pen deng	喷灯	2020
+pen wan	喷丸	1895
+pen liu	喷流	1870
+pen tu ji	喷涂机	1845
+pen she beng	喷射泵	1810
+pen wu ji	喷雾机	1750
+pen cai	盆菜	1655
+pen jiang	喷浆	1655
+pen tu	喷吐	1565
+pen er	盆儿	1480
+pen zhu	喷注	1320
+pen shi	喷湿	1255
+pen wu shi	喷雾式	1245
+pen bi zi	喷鼻子	1111
+pen di	盆底	1111
+pen gu	盆骨	1111
+pen nei	盆内	1111
+pen xue	喷雪	1111
+pen huo long	喷火龙	1040
+pen guan ji	喷灌机	980
+pen she hun ning tu	喷射混凝土	950
+pen qi tui jin	喷气推进	940
+pen jiao mian	喷胶棉	850
+pen tu xian	喷涂线	800
+pen xiang	喷香	684
+pen tu zhe	喷吐着	655
+pen yun tu wu	喷云吐雾	655
+pen yan	喷烟	645
+pen mo tou	喷墨头	635
+pen she zhe	喷射着	635
+pen qi ke ji	喷气客机	625
+pen shui hu	喷水壶	535
+pen shui qi	喷水器	525
+pen huo qi	喷火器	480
+pen mo shi	喷墨式	470
+pen shui kong	喷水孔	460
+pen jing hua hui	盆景花卉	455
+pen sha chu li	喷砂处理	405
+pen shui zhuang zhi	喷水装置	395
+pen jing zuo pin	盆景作品	386
+pen huo kou	喷火口	360
+pen yi	喷溢	360
+pen shang qu	喷上去	355
+pen xie	喷泻	355
+pen pen guan guan	盆盆罐罐	350
+pen qi ji	喷漆机	320
+pen qi kong	喷气孔	300
+pen jiang ji	喷浆机	295
+pen san	喷散	295
+pen sa zhe	喷洒着	280
+pen jian chu	喷溅出	270
+pen bu chu	喷不出	245
+pen si tou	喷丝头	245
+pen jing mao	盆景猫	242
+pen chu qu	喷出去	240
+pen tang	盆汤	235
+pen qiang nang zhong	盆腔囊肿	229
+pen fen qi	喷粉器	225
+pen de	喷得	222
+pen quan mo xing	喷泉模型	194
+pen qi qiang	喷漆枪	190
+pen jiu jing	喷酒精	189
+pen hong	喷红	185
+pen shui guan	喷水管	180
+pen zhe qi	喷着气	150
+pen le pen	喷了喷	123
+pen yi pen	喷一喷	123
+pen bi	喷鼻	111
+pen de	喷的	111
+pen nai	喷奶	111
+pen bi er xiang	喷鼻儿香	100
+pen bi qi	喷鼻器	100
+pen bi xi	喷鼻息	100
+pen bu chu lai	喷不出来	100
+pen cai guai	盆才怪	100
+pen cheng	喷成	100
+pen chu kou	喷出口	100
+pen chu xiang	喷出翔	100
+pen chu yan	喷出岩	100
+pen chu yi kou jiu	喷出一口酒	100
+pen chui xi tong	喷吹系统	100
+pen di da bu	盆地大部	100
+pen di di xing	盆地地形	100
+pen di li	盆地里	100
+pen di nei	盆地内	100
+pen di zhong	盆地中	100
+pen guan xi tong	喷灌系统	100
+pen huo shan	喷火山	100
+pen huo tuo	喷火驼	100
+pen jian zhe	喷溅者	100
+pen le xiang shui	喷了香水	100
+pen le yi lian	喷了一脸	100
+pen lin jiang chen	喷淋降尘	100
+pen lin xi tong	喷淋系统	100
+pen mao wang	喷锚网	100
+pen mo yin biao ji	喷墨印表机	100
+pen pen shui	喷喷水	100
+pen qi fa dong	喷气发动	100
+pen qi lai	喷起来	100
+pen qi she shou	喷气射手	100
+pen qi tui jin shi yan shi	喷气推进实验室	100
+pen sa qi	喷洒器	100
+pen sa xi tong	喷洒系统	100
+pen shang lai	喷上来	100
+pen she fa dong ji	喷射发动机	100
+pen she ji	喷射机	100
+pen she ke ji	喷射客机	100
+pen she shi	喷射式	100
+pen she su du	喷射速度	100
+pen she xi tong	喷射系统	100
+pen she zhan dou ji	喷射战斗机	100
+pen shui jiang wen	喷水降温	100
+pen shui xi tong	喷水系统	100
+pen shui yao	喷水瑶	100
+pen ti ji	喷嚏剂	100
+pen ti xiong	喷嚏熊	100
+pen tou du se	喷头堵塞	100
+pen tu hang ye	喷涂行业	100
+pen tu hou du	喷涂厚度	100
+pen tu xi tong	喷涂系统	100
+pen wu jiang chen	喷雾降尘	100
+pen wu jiang chen she bei	喷雾降尘设备	100
+pen wu jiang chen zhuang zhi	喷雾降尘装置	100
+pen wu jiang wen	喷雾降温	100
+pen wu jiang wen she bei	喷雾降温设备	100
+pen wu jiang wen xi tong	喷雾降温系统	100
+pen wu xi tong	喷雾系统	100
+pen xia lai	喷下来	100
+pen xia qu	喷下去	100
+pen you xi tong	喷油系统	100
+pen yun ai wu	喷云嗳雾	100
+pen yun xie wu	喷云泄雾	100
+pen zai ge	盆栽哥	100
+pen zhong hua zen shang	盆中花怎赏	100
+pen zhu xun yu	喷珠噀玉	100
+pen zui du se	喷嘴堵塞	100
+pen huo tan ke	喷火坦克	95
+pen liao	喷料	88
+pen zui shi	喷嘴式	85
+pen qiang gong ju	喷枪工具	82
+pen bu chu huo	喷不出火	80
+pen bu dao	喷不到	75
+pen yi xia	喷一下	73
+pen jiao chi	盆角齿	68
+pen yan jing jiao nang	盆炎净胶囊	67
+pen guan jian	喷灌件	65
+pen jing chang	盆景场	60
+pen zhe shui	喷着水	55
+pen she xing ou tu	喷射性呕吐	44
+pen mo fa	喷墨法	40
+pen sha zui	喷砂嘴	40
+pen qiang nong zhong	盆腔脓肿	37
+pen pen xia	盆盆虾	35
+pen shui pen tou	喷水喷头	35
+pen tu yan wu	喷吐烟雾	20
+pen zhu tu yu	喷珠吐玉	13
+pen sa	喷撒	11
+pen chu zhuang zhi	喷出装置	10
+pen jiang fa	喷浆法	10
+pen jing tu	盆景土	10
+pen lin yu	喷淋浴	10
+pen er hu tong	盆儿胡同	9
+pen sha jie ya ji	喷砂洁牙机	8
+pen tu	盆土	7
+pen huo lin bao jian ni	喷火林宝坚尼	6
+pen she fei ji	喷射飞机	6
+pen ge	盆膈	5
+pen jing pei jian	盆景配件	5
+pen zui er	喷嘴儿	5
+pen you beng chi lun	喷油泵齿轮	4
+pen si	喷死	3
+pen tuo wei lin	喷托维林	3
+pen wu shi xiang shui	喷雾式香水	3
+pen du	喷毒	2
+pen pu jie dao	湓浦街道	2
+pen pu sha tou shui guan qian	湓浦沙头水馆前	2
+pen she sha	喷射纱	2
+pen yi	湓溢	2
+pen yong	湓涌	2
+pen chao tian	盆朝天	1
+pen chun hua ling	盆唇华鲮	1
+pen dian zhen zhu hu yu	喷点珍珠虎鱼	1
+pen fen	喷粉	1
+pen qi kuai ting	喷气快艇	1
+pen qi shang dian	喷漆商店	1
+pen qing weng dao	盆倾瓮倒	1
+pen ti suan gai na	喷替酸钙钠	1
+pen tuo cheng zhu	喷唾成珠	1
+pen xi luo wei	喷昔洛韦	1
+pen yan jing ke li	盆炎净颗粒	1
+pen yan jing pian	盆炎净片	1
+pen you	盆友	1
+pen yu xu yun	喷雨嘘云	1

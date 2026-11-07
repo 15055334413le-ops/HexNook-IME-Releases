@@ -1,0 +1,575 @@
+xu qiu	需求	519652
+xu jia guang gao	虚假广告	46775
+xu lie hua	序列化	38839
+xu ni nei cun	虚拟内存	16038
+xu han shu	虚函数	15978
+xu lie hao	序列号	15207
+xu ni zhu ji	虚拟主机	9332
+xu ni di zhi	虚拟地址	8887
+xu ke zheng zhi du	许可证制度	8362
+xu ni hua	虚拟化	7528
+xu xu ru sheng	栩栩如生	7485
+xu qiu fen xi	需求分析	7424
+xu lie tu	序列图	7111
+xu jia hui	徐家汇	6457
+xu zhou shi	徐州市	6450
+xu xu dao dao	絮絮叨叨	6388
+xu chang	许昌	5320
+xu han wen nuan	嘘寒问暖	4004
+xu hui	徐汇	3939
+xu han shu biao	虚函数表	3860
+xu gou shi shi	虚构事实	3742
+xu mu ju	畜牧局	2986
+xu ni wang luo	虚拟网络	2981
+xu chao	徐超	2952
+xu ni mu lu	虚拟目录	2952
+xu biao	虚表	2831
+xu fang fa	虚方法	2816
+xu ni wen jian xi tong	虚拟文件系统	2654
+xu bao zhu ce zi ben zui	虚报注册资本罪	2612
+xu ri sheng	旭日升	2591
+xu bei hong	徐悲鸿	2540
+xu ni she bei	虚拟设备	2441
+xu ni hua ji shu	虚拟化技术	2383
+xu ni kong jian	虚拟空间	2369
+xu chen	许琛	2356
+xu lin	徐林	2327
+xu ri	旭日	2305
+xu ji lei	虚基类	2295
+xu shi	蓄势	2181
+xu yin yong	虚引用	2135
+xu chang shi	许昌市	2107
+xu tuo	虚脱	1928
+xu ni xian shi	虚拟现实	1896
+xu ni huan jing	虚拟环境	1852
+xu kai zeng zhi shui fa piao	虚开增值税发票	1738
+xu pu	溆浦	1729
+xu ni lu jing	虚拟路径	1667
+xu yan	徐艳	1483
+xu ji cheng	虚继承	1449
+xu ni zhong duan	虚拟终端	1447
+xu hui	徐辉	1433
+xu ni ji an zhuang	虚拟机安装	1410
+xu ni yong hu	虚拟用户	1398
+xu xi gou han shu	虚析构函数	1388
+xu jing	徐兢	1358
+xu yi	盱眙	1300
+xu zhang sheng shi	虚张声势	1263
+xu ni jian pan	虚拟键盘	1254
+xu ni ci pan	虚拟磁盘	1250
+xu ni xi tong	虚拟系统	1235
+xu nuo xiao shou	许诺销售	1199
+xu ni cun chu	虚拟存储	1138
+xu qiang	徐强	1091
+xu ni cun chu qi	虚拟存储器	1090
+xu song	徐松	1057
+xu ke	徐克	1031
+xu ni huo bi	虚拟货币	984
+xu ni guang qu	虚拟光驱	960
+xu wu piao miao	虚无缥缈	922
+xu zheng	徐峥	895
+xu xiao ping	徐小平	882
+xu qiu guan li	需求管理	881
+xu kai	徐凯	866
+xu yong	叙永	837
+xu ke zheng xie yi	许可证协议	829
+xu jing lei	徐静蕾	828
+xu fan	徐帆	816
+xu ni ji cheng	虚拟继承	796
+xu han	虚汗	791
+xu xia ke	徐霞客	762
+xu han	虚寒	761
+xu wei yi dai	虚位以待	760
+xu fang	徐芳	724
+xu huan yin qing	虚幻引擎	724
+xu zhi mo	徐志摩	691
+xu qiang	许强	679
+xu huang yi qiang	虚晃一枪	663
+xu lun	绪论	649
+xu dian lu	虚电路	639
+xu ni kong zhi tai	虚拟控制台	639
+xu wei	许巍	619
+xu xiang qian	徐向前	606
+xu qiu qu dong	需求驱动	596
+xu zhou shi wei	徐州市委	566
+xu ni an jian	虚拟按键	565
+xu jia guang gao zui	虚假广告罪	563
+xu lie zhen	序列帧	551
+xu zheng	徐征	543
+xu ying	徐颖	542
+xu huai ruo gu	虚怀若谷	523
+xu yu wei yi	虚与委蛇	521
+xu ni ju yu wang	虚拟局域网	511
+xu zhi zhen	虚指针	509
+xu qing	许晴	508
+xu yang	徐洋	471
+xu ni ji shu	虚拟技术	464
+xu ni zhuan yong wang luo	虚拟专用网络	454
+xu zhuang	徐庄	450
+xu qiu jie duan	需求阶段	441
+xu zhou shi quan shan qu	徐州市泉山区	429
+xu qing jia yi	虚情假意	426
+xu ruo xuan	徐若瑄	423
+xu yan	徐焰	422
+xu jia	许家	416
+xu hai feng	许海峰	401
+xu yun feng	许云峰	364
+xu ni chuan kou	虚拟串口	362
+xu ni chu li qi	虚拟处理器	360
+xu fu	徐福	357
+xu shan da	许善达	353
+xu ni xian shi ji shu	虚拟现实技术	347
+xu xu shi shi	虚虚实实	343
+xu jia peng	徐家棚	337
+xu bin	徐彬	317
+xu gong shi zuo	虚功实做	317
+xu rong	徐荣	312
+xu shui	徐水	302
+xu ni zhuan yong wang	虚拟专用网	301
+xu yi xiao long xia	盱眙小龙虾	298
+xu ben yu	徐本禹	297
+xu jia wan	徐家湾	294
+xu ni ji suan ji	虚拟计算机	291
+xu ni pan	虚拟盘	289
+xu zhi an	许志安	288
+xu ting	徐婷	285
+xu hong	徐红	281
+xu jiu zi shi	酗酒滋事	280
+xu fei	许飞	279
+xu chang shi wei dou qu	许昌市魏都区	271
+xu ri dong sheng	旭日东升	269
+xu guang ping	许广平	266
+xu te li	徐特立	265
+xu shu	虚树	255
+xu da	徐达	250
+xu dian chi gai	蓄电池盖	247
+xu ni cheng yuan	虚拟成员	240
+xu shi you	许世友	240
+xu pu da qiao	徐浦大桥	220
+xu dong lu	徐东路	219
+xu jia guang gao xing wei	虚假广告行为	207
+xu feng	徐枫	198
+xu shan	徐珊	196
+xu xi yuan	徐熙媛	193
+xu hai dong	徐海东	192
+xu dian chi chang	蓄电池厂	188
+xu cun	徐村	182
+xu ge hui	许戈辉	180
+xu xi di	徐熙娣	180
+xu zhong xiong	徐中雄	179
+xu jia hui tian yao qiao lu	徐家汇天钥桥路	173
+xu kai zeng zhi shui fa piao zui	虚开增值税发票罪	172
+xu qian	许前	172
+xu shu	徐庶	168
+xu shi chang	徐世昌	165
+xu xiao ping lv shi shi wu suo	许小平律师事务所	164
+xu shen	许慎	162
+xu ni guang pan	虚拟光盘	161
+xu ni cao zuo xi tong	虚拟操作系统	157
+xu jia hui lu	徐家汇路	156
+xu guang qi	徐光启	152
+xu du nian hua	虚度年华	150
+xu ru yun	许茹芸	148
+xu yu lan	徐玉兰	147
+xu ni cun chu guan li	虚拟存储管理	146
+xu rong san cun	徐戎三村	143
+xu guang	旭光	138
+xu you qi biao	虚有其表	137
+xu ou	序偶	136
+xu bo	许波	133
+xu hua	许华	133
+xu ben	徐贲	132
+xu zhen	徐震	130
+xu lie biao da shi	序列表达式	126
+xu qiu gong cheng	需求工程	125
+xu jia cun	徐家村	123
+xu kang	徐康	122
+xu pan	徐盼	122
+xu xi lin	徐锡麟	120
+xu yin chuan	许银川	120
+xu biao	徐彪	119
+xu mu gong si	畜牧公司	118
+xu guang guo	徐广国	116
+xu zhen	墟镇	115
+xu qiu yan zheng	需求验证	114
+xu xi	徐熙	114
+xu wei	徐渭	111
+xu zhi yuan	许知远	111
+xu dong	许东	109
+xu fa jie bai	须发皆白	106
+xu chi	徐迟	104
+xu jia zhuang	徐家庄	103
+xu ying gu shi	虚应故事	94
+xu lie mi ma	序列密码	93
+xu jun	徐君	91
+xu fang	许芳	90
+xu ni yao gan	虚拟摇杆	88
+xu hong	徐泓	86
+xu huai yu	徐怀钰	86
+xu ni xun zhi	虚拟寻址	86
+xu yong	许永	86
+xu hui xin	许慧欣	85
+xu lie ce ding	序列测定	83
+xu ke jing ying fan wei	许可经营范围	80
+xu xiao feng	徐小凤	80
+xu dong cun	徐东村	78
+xu pu e	溆浦鹅	78
+xu guang da	许光达	77
+xu jia cun	许家村	74
+xu ni ruan pan	虚拟软盘	74
+xu qiu gui yue	需求规约	74
+xu chang lu	许昌路	72
+xu xi	许西	70
+xu li	徐俐	65
+xu fang	徐方	64
+xu han	许瀚	63
+xu hong	许虹	62
+xu nuo ren	许诺人	62
+xu zhu	虚竹	61
+xu ri chu sheng	旭日初升	60
+xu lie xing	序列型	58
+xu ze bu zhi	虚则补之	58
+xu meng	徐猛	57
+xu yuan	徐园	56
+xu chuan	许川	55
+xu niang ban lao	徐娘半老	55
+xu yong chang	徐永昌	54
+xu liu	徐柳	53
+xu yuan yuan	徐媛媛	53
+xu bao guang	徐葆光	52
+xu cheng	徐澄	52
+xu chun	徐春	52
+xu fan ting	续范亭	52
+xu wei	徐玮	50
+xu chong zhi	许崇智	49
+xu de hang	许德珩	49
+xu gu	虚谷	49
+xu jia cun dan	虚假存单	49
+xu di shan	许地山	48
+xu dian qing	徐滇庆	47
+xu guo zhang	许国璋	47
+xu tian hong	徐天红	47
+xu zhuang	许庄	47
+xu zhuo	徐卓	47
+xu jia gou	徐家沟	46
+xu jia qiao	徐家桥	46
+xu shang jie dao	许商街道	46
+xu shou shang	许寿裳	44
+xu jia hui guang chang	徐家汇广场	43
+xu jing	许靖	42
+xu chong qing	许崇清	40
+xu fu ou	须浮鸥	40
+xu heng	许衡	40
+xu ming	旭明	40
+xu ri jing cheng	旭日景城	40
+xu jia bao	徐家堡	38
+xu ni ren	虚拟人	38
+xu shi guo	徐世国	38
+xu wei yi si biao shi	虚伪意思表示	38
+xu ni fang shi	虚拟方式	37
+xu rong lu	徐戎路	37
+xu yu hua	许昱华	35
+xu you	许由	34
+xu zhang qing	徐长卿	34
+xu bi da	徐必达	33
+xu duan	续断	33
+xu tan	许坦	33
+xu xin zhuang	徐辛庄	33
+xu en ceng	徐恩曾	32
+xu xian	许县	32
+xu zhuang cun	许庄村	31
+xu rong	徐溶	30
+xu cun xi tong	虚存系统	29
+xu hai huan	许还幻	29
+xu ji shen	许继慎	29
+xu can shu	虚参数	28
+xu ke xiang	许克祥	28
+xu han zheng	虚寒症	27
+xu hong bei lu	徐虹北路	27
+xu ni shi jing	虚拟实境	27
+xu xiao jing	许晓静	27
+xu you yu	徐友渔	27
+xu cheng zhen	徐城镇	26
+xu fang	徐昉	26
+xu han	徐涵	26
+xu jia mai dao	徐家麦岛	26
+xu yu	徐钰	25
+xu ji	徐集	24
+xu jia zhai	徐家寨	24
+xu chu	许褚	23
+xu shu zheng	徐树铮	23
+xu xie zei feng	虚邪贼风	23
+xu zhu cheng	徐铸成	23
+xu jia lin	徐家林	22
+xu zhen	许珍	22
+xu fu chen nian zao dan	叙府陈年糟蛋	21
+xu jia po	徐家坡	21
+xu lou	许楼	21
+xu nuo xiao shou quan	许诺销售权	21
+xu tong	徐桐	21
+xu hua wei	徐华伟	20
+xu pu	胥浦	20
+xu she xiao su tang	徐舍小酥糖	20
+xu shou	徐寿	20
+xu yu yi fang	需与乙方	20
+xu yun	徐筠	20
+xu zhu	徐柱	20
+xu guang li	旭光里	19
+xu qiu han shu	需求函数	19
+xu zhou dao	徐州道	19
+xu guang cun	旭光村	18
+xu jia lou	徐家楼	18
+xu ling	徐陵	18
+xu ni ku	虚拟库	18
+xu ni qi ye	虚拟企业	18
+xu wan	徐湾	18
+xu huang	徐晃	17
+xu ji dian qi	许继电气	17
+xu jia peng jie dao	徐家棚街道	17
+xu jia shan	许家山	17
+xu jun	许均	17
+xu ri hua ting	旭日华庭	17
+xu xun	徐勋	17
+xu you	许攸	17
+xu bai hui	徐百卉	16
+xu sheng	徐盛	16
+xu tong dao	虚通道	16
+xu ye hao	虚页号	16
+xu yi sheng	徐以升	16
+xu ding	徐鼎	15
+xu ni shi dian	虚拟视点	15
+xu tai	徐台	15
+xu xi	许希	15
+xu zhang	虚涨	15
+xu jian yang	许建阳	14
+xu xiang	许巷	14
+xu jia wan	许家湾	13
+xu ni tu shu guan	虚拟图书馆	13
+xu shan	旭山	13
+xu shang	许尚	13
+xu shao yang	许绍洋	13
+xu ni zhuang pei	虚拟装配	12
+xu you	许友	12
+xu zhong yue	徐中约	12
+xu cun ji zhi	虚存机制	11
+xu han zheng	虚寒证	11
+xu ji she	徐继畲	11
+xu lou	徐楼	11
+xu nai chang	徐乃昌	11
+xu qiu shen cha	需求审查	11
+xu wen hui	徐文惠	11
+xu zhou shi qing nian lu xiao xue	徐州市青年路小学	11
+xu bao huang	徐宝璜	10
+xu chun mei	许纯美	10
+xu ge zhuang	徐各庄	10
+xu han ting ke li	虚汗停颗粒	10
+xu mao yong	徐懋庸	10
+xu ni zhi zao	虚拟制造	10
+xu tang	徐塘	10
+xu xiang	徐骧	10
+xu ying	许营	10
+xu cheng yao	许承尧	9
+xu cuo cun	许厝村	9
+xu guan tun	徐官屯	9
+xu jia fang tu jia zu xiang	许家坊土家族乡	9
+xu mao gong	徐茂公	9
+xu wen xue	许文学	9
+xu xing ji qi fang ming shan	须行即骑访名山	9
+xu cuo	徐厝	8
+xu fa lv	续发率	8
+xu fan bu mian	虚烦不眠	8
+xu feng zhu	徐奉洙	8
+xu he	徐鹤	8
+xu huan sheng	徐焕升	8
+xu jia zhuang	许家庄	8
+xu jun	许浚	8
+xu mei	徐玫	8
+xu ting yao	徐庭瑶	8
+xu yuan quan	徐源泉	8
+xu bu yun	徐步云	7
+xu cuo	许厝	7
+xu fu ren	徐夫人	7
+xu gui lin	许桂林	7
+xu ling	徐令	7
+xu nan ying	许南英	7
+xu qi ming	徐启明	7
+xu qian quan	徐前权	7
+xu rong xin cun	徐戎新村	7
+xu shu	徐枢	7
+xu yun	许允	7
+xu zhi ming	徐之明	7
+xu bang	徐邦	6
+xu bing	许丙	6
+xu ci xiang	徐祠巷	6
+xu jia cao	徐家漕	6
+xu jia duo xiang	徐家垛乡	6
+xu mu liang zhong chang	畜牧良种场	6
+xu shang	徐商	6
+xu tai	徐泰	6
+xu yu	许遇	6
+xu zeng	许增	6
+xu zhou shi gu lou xiao xue	徐州市鼓楼小学	6
+xu zi hua	徐自华	6
+xu chu	徐楚	5
+xu huang	徐黄	5
+xu jia yuan zi	徐家院子	5
+xu jing da	徐景达	5
+xu ri xiang	旭日乡	5
+xu shao	许劭	5
+xu sui zi	续随子	5
+xu tao xiang	徐套乡	5
+xu xing ke	徐行可	5
+xu zhi heng	许之衡	5
+xu zhong lin	许仲琳	5
+xu an an	许安安	4
+xu cun	徐存	4
+xu da chun	徐大椿	4
+xu fang	徐舫	4
+xu guan	许观	4
+xu heng jie dao	许衡街道	4
+xu hu jia xiang	徐扈家乡	4
+xu jia fang jie dao	徐家坊街道	4
+xu jia wan	胥家湾	4
+xu jia zhuang bei kou	徐家庄北口	4
+xu ke zheng mao yi xie yi	许可证贸易协议	4
+xu keng she qu	许坑社区	4
+xu li shang gu yan	墟里上孤烟	4
+xu ming tang	续命汤	4
+xu nu yi	蓄奴蚁	4
+xu shi gang	徐世刚	4
+xu wen	徐问	4
+xu xian	徐县	4
+xu you zhen	徐有贞	4
+xu zhou jie	徐州街	4
+xu cai	徐采	3
+xu chao	许朝	3
+xu cheng xuan	许承宣	3
+xu hui	许惠	3
+xu jia he xiang	徐家河乡	3
+xu jia ju	徐家驹	3
+xu keng	许坑	3
+xu lian	徐炼	3
+xu shang	徐尚	3
+xu shi dong	徐时栋	3
+xu ying ming	徐应明	3
+xu yue	徐樾	3
+xu yun zhi	徐云志	3
+xu zhao nan	许肇南	3
+xu zhou cun	徐州村	3
+xu bai ling	徐柏龄	2
+xu chu	许初	2
+xu de jie zhong ni	叙德皆仲尼	2
+xu fu kong lai bu de xian	徐福空来不得仙	2
+xu gong	许贡	2
+xu ji xiang	蓄集乡	2
+xu jia chong cun	徐家冲村	2
+xu jia rui	徐嘉瑞	2
+xu jian	徐鉴	2
+xu lao bing	虚劳病	2
+xu lian	许梿	2
+xu long	徐隆	2
+xu long xiang	徐龙乡	2
+xu ming yi lei an	续名医类案	2
+xu mu chang	畜牧厂	2
+xu nai pu	许乃普	2
+xu nai zhao	许乃钊	2
+xu nian ci	徐念慈	2
+xu re zheng	虚热证	2
+xu ren zhu	徐仁铸	2
+xu shan cun	旭山村	2
+xu shang ying	徐上瀛	2
+xu shi lin	徐士林	2
+xu shi you yu xian	虚室有余闲	2
+xu shui zhen	湑水镇	2
+xu tan bei	许坦北	2
+xu wang cun	徐旺村	2
+xu wen jing	徐文靖	2
+xu yi	徐翊	2
+xu yu	须鱊	2
+xu yu fa cheng si	须臾发成丝	2
+xu zhan zhu ce shang biao gong gao	续展注册商标公告	2
+xu zhou dian chang	徐州电厂	2
+xu zhou shi gong yuan xiang xiao xue	徐州市公园巷小学	2
+xu zong gan	徐宗干	2
+xu bing yi	徐秉义	1
+xu bu nie tai qing	虚步蹑太清	1
+xu cang cun	胥仓村	1
+xu chang	须昌	1
+xu chang cun	许场村	1
+xu cheng dong	徐承东	1
+xu chuang	须疮	1
+xu ci	许慈	1
+xu cuo she qu	许厝社区	1
+xu da ran	许达然	1
+xu da yuan	徐达源	1
+xu de chui yang xiang fa hui	须得垂杨相发挥	1
+xu fang	徐枋	1
+xu fei jiu yi jia	徐妃久已嫁	1
+xu fu dong yang jiu dan lai	虚负东阳酒担来	1
+xu fu gui he shi	须富贵何时	1
+xu fu lin	徐傅霖	1
+xu fu yuan	许孚远	1
+xu gang	许港	1
+xu gong ke ji	徐工科技	1
+xu guo lin	徐国麟	1
+xu han wei tong ke li	虚寒胃痛颗粒	1
+xu hao fei	徐颢菲	1
+xu huan dou	徐焕斗	1
+xu huan ran	徐焕然	1
+xu ji	徐玑	1
+xu ji	醑剂	1
+xu jia bang cun	徐家浜村	1
+xu jia cun cun	徐家村村	1
+xu jia jing jie dao	徐家井街道	1
+xu jia wan qiao	徐家湾桥	1
+xu jia zhuang zhen	徐家庄镇	1
+xu jian gong chu wei xi yao	虚减宫厨为细腰	1
+xu jue	许珏	1
+xu ming shi	徐名世	1
+xu mu guo lin chang	畜牧果林场	1
+xu ni ka	虚拟卡	1
+xu pei	徐霈	1
+xu shi ceng	徐师曾	1
+xu shi jia za zheng	虚实夹杂证	1
+xu shi qiao	徐石桥	1
+xu shou ming	徐守铭	1
+xu shu wei	许叔微	1
+xu shui zhen	胥水镇	1
+xu si	许汜	1
+xu tai cun	徐台村	1
+xu tian li	徐天利	1
+xu tong xi	续桐溪	1
+xu wa cun	许洼村	1
+xu wen lie	徐文烈	1
+xu wo wei san you	许我为三友	1
+xu wu	徐无	1
+xu xin yang jia jia li zhong	须信杨家佳丽种	1
+xu xing you	徐星友	1
+xu xu ran hu die ye	栩栩然胡蝶也	1
+xu yu he fa luan ru si	须臾鹤发乱如丝	1
+xu yu que ru hai men qu	须臾却入海门去	1
+xu yu sao jin shu qian zhang	须臾扫尽数千张	1
+xu yuan pu	许元溥	1
+xu yuan wen	徐元文	1
+xu yuan zi xiang	徐园子乡	1
+xu zhao	许昭	1
+xu zhen li	徐桢立	1
+xu zhi	徐质	1
+xu zhi	许芝	1
+xu zhi xun	徐志勋	1
+xu zhong xiang	徐中乡	1
+xu zhou shi min zhu lu xiao xue	徐州市民主路小学	1
+xu zhuang cun wei hui	许庄村委会	1
+xu zi	徐鼒	1
+xu zi chang	许自昌	1
+xu zi ling	徐子苓	1
+xu zi ming	徐自明	1
+xu zong hao	徐宗浩	1
+xu zong liang	徐宗亮	1
+xu zuan ceng	许缵曾	1
+xu fang jing ke	须仿鲸科	0
+xu jiao an kang ke	须角鮟鱇科	0
+xu li ya ci wei xi	叙利亚刺尾蜥	0
+xu li ya ye lv	叙利亚野驴	0
+xu po xiao zhao gui jia	徐坡小爪龟甲	0
+xu wei	须鰃	0
