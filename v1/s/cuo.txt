@@ -1,0 +1,446 @@
+cuo shi	措施	500742
+cuo wu	错误	500635
+cuo zhe	挫折	158045
+cuo guo	错过	151070
+cuo de	错的	105000
+cuo guo le	错过了	64255
+cuo shang	磋商	59480
+cuo wu xin xi	错误信息	57880
+cuo wei	错位	51715
+cuo jue	错觉	48865
+cuo lou	错漏	34339
+cuo zong fu za	错综复杂	33335
+cuo shang	挫伤	25025
+cuo shou bu ji	措手不及	24370
+cuo wu bao gao	错误报告	23495
+cuo shi	错失	22865
+cuo luo you zhi	错落有致	22195
+cuo wu ti shi	错误提示	21479
+cuo bie zi	错别字	20250
+cuo luo	错落	20160
+cuo bai	挫败	19845
+cuo he	撮合	19550
+cuo ci	措辞	15330
+cuo zai	错在	14645
+cuo wu chu li	错误处理	13755
+cuo kai	错开	13750
+cuo an	错案	12595
+cuo wu dai ma	错误代码	12254
+cuo luan	错乱	12065
+cuo e	错愕	11785
+cuo wu shi	错误时	11065
+cuo rou	搓揉	10940
+cuo cao	莝草	9999
+cuo dai	错待	9999
+cuo die	错叠	9999
+cuo fei	错非	9999
+cuo feng	错峰	9999
+cuo fu	错付	9999
+cuo fu le	错付了	9999
+cuo hui	错会	9999
+cuo huo ji xin	厝火积薪	9999
+cuo la	错啦	9999
+cuo ma	错吗	9999
+cuo mo	磋磨	9999
+cuo shou dun jiao	搓手顿脚	9999
+cuo yin	错音	9999
+cuo bao	错报	9255
+cuo zhe gan	挫折感	9130
+cuo shi	错事	8935
+cuo le	错了	8689
+cuo zi	错字	8655
+cuo wu ma	错误码	8300
+cuo wu ren shi	错误认识	7840
+cuo tuo	蹉跎	7780
+cuo wu ri zhi	错误日志	7389
+cuo hua	错话	6700
+cuo wu guan nian	错误观念	6660
+cuo zhe	搓着	6620
+cuo ai	错爱	6495
+cuo wu xiao xi	错误消息	6400
+cuo xi	搓洗	5880
+cuo shi liang ji	错失良机	5805
+cuo wu guan dian	错误观点	5800
+cuo ji	撮箕	5555
+cuo ma	搓麻	5555
+cuo wu si xiang	错误思想	5335
+cuo wu fen xi	错误分析	5200
+cuo ba	错把	5195
+cuo guai	错怪	5130
+cuo ceng	错层	5090
+cuo cheng	搓成	4880
+cuo zong	错综	4615
+cuo sha	错杀	4420
+cuo yong	错用	4365
+cuo wu xing wei	错误行为	4230
+cuo dao	锉刀	4040
+cuo wu qing xiang	错误倾向	3975
+cuo bu liao	错不了	3920
+cuo wu zuo fa	错误做法	3920
+cuo diao	搓掉	3892
+cuo de	错得	3785
+cuo bai gan	挫败感	3770
+cuo xia lai	搓下来	3691
+cuo wu lv	错误率	3665
+cuo zao	搓澡	3615
+cuo shou	措手	3580
+cuo wu ye mian	错误页面	3545
+cuo guo ji hui	错过机会	3405
+cuo mei	错没	3333
+cuo mei cuo	错没错	3333
+cuo qin	错亲	3333
+cuo qin le	错亲了	3333
+cuo shen	错身	3333
+cuo ren	错认	3315
+cuo wu lei xing	错误类型	3262
+cuo wu bai chu	错误百出	3240
+cuo shi bu li	措施不力	3225
+cuo pan	错判	3140
+cuo ma jiang	搓麻将	3050
+cuo cuo	搓搓	2975
+cuo ban	搓板	2765
+cuo shou	搓手	2755
+cuo wu pan duan	错误判断	2555
+cuo wu cao zuo	错误操作	2535
+cuo bei	搓背	2390
+cuo za	错杂	2305
+cuo tian	错填	2255
+cuo lu	错路	2205
+cuo chu	错处	2190
+cuo fa	错发	2175
+cuo guo ni	错过你	2025
+cuo shang jia cuo	错上加错	2005
+cuo zao gong	搓澡工	1955
+cuo tuo sui yue	蹉跎岁月	1930
+cuo shou	错手	1875
+cuo pei	错配	1865
+cuo jiang	错将	1780
+cuo zhi lun	搓纸轮	1770
+cuo shang hou	磋商后	1755
+cuo wu jian ce	错误检测	1755
+cuo ban	错版	1745
+cuo gao	错告	1705
+cuo diao	锉掉	1634
+cuo wu da an	错误答案	1610
+cuo le cuo	搓了搓	1600
+cuo na	错拿	1575
+cuo na le	错拿了	1575
+cuo wu hao	错误号	1520
+cuo che	错车	1505
+cuo zhi	措置	1485
+cuo yi ban	搓衣板	1450
+cuo wu shi yong	错误使用	1420
+cuo jie	错解	1405
+cuo kan	错看	1320
+cuo dong	搓动	1305
+cuo yao	撮要	1290
+cuo ci	错词	1285
+cuo dong	错动	1250
+cuo wu jie jue	错误解决	1236
+cuo wu shu ju	错误数据	1230
+cuo xie	错写	1200
+cuo yi dun	撮一顿	1195
+cuo ba tou lu dang jiu hu	错把头颅当酒壶	1180
+cuo wu ji lu	错误记录	1152
+cuo ji xia	搓几下	1111
+cuo ti	错题	1111
+cuo wu yi chang	错误异常	1080
+cuo wu tiao jian	错误条件	1044
+cuo wu wen ti	错误问题	1025
+cuo shang zhong	磋商中	1020
+cuo shi	错时	999
+cuo miu	错谬	995
+cuo xia	搓下	987
+cuo ma	错码	985
+cuo gu	错估	980
+cuo fang	错放	950
+cuo chuang	痤疮	948
+cuo jiao	搓脚	940
+cuo wu xiang fa	错误想法	885
+cuo hao	错号	860
+cuo rou zhe	搓揉着	850
+cuo guo shi ji	错过时机	830
+cuo jin	错金	810
+cuo yi	错译	775
+cuo lie	错列	700
+cuo wu lian jie	错误连接	695
+cuo wu yin dao	错误引导	675
+cuo wu wen jian	错误文件	665
+cuo dao	错到	660
+cuo gu yang hui	挫骨扬灰	615
+cuo wu geng zheng	错误更正	590
+cuo wu zhuang tai	错误状态	590
+cuo yi cuo	搓一搓	567
+cuo zi	矬子	550
+cuo pai	错排	539
+cuo wu fang fa	错误方法	535
+cuo du	错读	515
+cuo nong	搓弄	510
+cuo na xian	错那县	505
+cuo zi lian pian	错字连篇	485
+cuo wu kong zhi	错误控制	480
+cuo zai wo	错在我	470
+cuo e	嵯峨	467
+cuo da	措大	455
+cuo ci qiang ying	措辞强硬	405
+cuo ping	锉平	405
+cuo nian	搓捻	390
+cuo yi	搓衣	385
+cuo die	蹉跌	355
+cuo yi	措意	345
+cuo gan jing	搓干净	310
+cuo wu zhi ling	错误指令	310
+cuo fen	错分	300
+cuo pai gong shi	错排公式	289
+cuo sheng	搓绳	280
+cuo mei xian	措美县	270
+cuo si ban	搓丝板	265
+cuo qin xian	措勤县	260
+cuo si ji	搓丝机	255
+cuo tu	错图	245
+cuo wu jie jue ban fa	错误解决办法	236
+cuo wu zhen duan	错误诊断	236
+cuo cha	错插	225
+cuo wu mo shi	错误模式	216
+cuo wu jie jue fang an	错误解决方案	201
+cuo e	错讹	199
+cuo wu tiao shi	错误调试	185
+cuo tang yuan	搓汤圆	176
+cuo guo qu	错过去	170
+cuo cuo xiao shou	搓搓小手	148
+cuo de shao	错的少	148
+cuo feng yong dian	错峰用电	147
+cuo yi cuo	挫一挫	123
+cuo feng chu xing	错峰出行	121
+cuo feng kai xue	错峰开学	119
+cuo ma	搓吗	111
+cuo ne	错呢	111
+cuo ni	搓泥	111
+cuo wu ji suan	错误计算	110
+cuo yi bu	错一步	108
+cuo wei xiang jian	错位相减	101
+cuo xia qu	错下去	101
+cuo ba niu lang dang qing lang	错把牛郎当情郎	100
+cuo bie fan	错别犯	100
+cuo bu liao de	错不了的	100
+cuo bu liao le	错不了了	100
+cuo cai lou jin	错彩镂金	100
+cuo cheng chang tiao	搓成长条	100
+cuo ci bu dang	措辞不当	100
+cuo de bu shi wo	错的不是我	100
+cuo de hao	错得好	100
+cuo de li pu	错得离谱	100
+cuo feng fan xiao	错峰返校	100
+cuo feng ru xiao	错峰入校	100
+cuo feng xian xing	错峰限行	100
+cuo ge er	矬个儿	100
+cuo guai le ni	错怪了你	100
+cuo guo lai	搓过来	100
+cuo guo lai	错过来	100
+cuo guo le ai qing	错过了爱情	100
+cuo guo le ji hui	错过了机会	100
+cuo guo le jiu shi cuo guo le	错过了就是错过了	100
+cuo guo le jiu shi yi bei zi	错过了就是一辈子	100
+cuo guo le jiu suan le	错过了就算了	100
+cuo guo le ni	错过了你	100
+cuo guo le shen me	错过了什么	100
+cuo guo le shi jian	错过了时间	100
+cuo guo le tai duo	错过了太多	100
+cuo guo le xu duo	错过了许多	100
+cuo guo le yi ge yi	错过了一个亿	100
+cuo guo qu	搓过去	100
+cuo guo yi ge yi	错过一个亿	100
+cuo guo zhong yao xin xi	错过重要信息	100
+cuo he cheng jiao	撮合成交	100
+cuo he fu wu	撮合服务	100
+cuo he ji xing	错𬌗畸形	100
+cuo he jiao yi	撮合交易	100
+cuo he ping tai	撮合平台	100
+cuo he yin qing	撮合引擎	100
+cuo hua he wu	错化合物	100
+cuo jiu cuo	错就错	100
+cuo jiu cuo zai	错就错在	100
+cuo jue jie he	错觉结合	100
+cuo jue jie he de ci	错觉结合的词	100
+cuo jue tu	错觉图	100
+cuo jue zuo yong	错觉作用	100
+cuo kai yi xia	错开一下	100
+cuo ke da hong	撮科打哄	100
+cuo kou hu	撮口呼	100
+cuo le ba	错了吧	100
+cuo le cuo le	错了错了	100
+cuo le cuo shou	搓了搓手	100
+cuo le hao duo	错了好多	100
+cuo le jiu cuo le	错了就错了	100
+cuo le jiu shi cuo le	错了就是错了	100
+cuo le lu	错了路	100
+cuo le ma	错了吗	100
+cuo le mei	错了没	100
+cuo le shen me	错了什么	100
+cuo le yi dun	搓了一顿	100
+cuo le you cuo	错了又错	100
+cuo le zen me ban	错了怎么办	100
+cuo liu ge	错六个	100
+cuo luo bu qi	错落不齐	100
+cuo luo cen ci	错落参差	100
+cuo luo fen bu	错落分布	100
+cuo luo you xu	错落有序	100
+cuo mei cuo guo	错没错过	100
+cuo mei cuo guo a	错没错过啊	100
+cuo mei cuo guo ya	错没错过呀	100
+cuo na le	错哪了	100
+cuo ren wei	错认为	100
+cuo shen er guo	错身而过	100
+cuo shi bu luo shi	措施不落实	100
+cuo shi chu xing	错时出行	100
+cuo shi cuo feng fan xiao	错时错峰返校	100
+cuo shi de dang	措施得当	100
+cuo shi de li	措施得力	100
+cuo shi de luo shi	措施的落实	100
+cuo shi le	错失了	100
+cuo shi le liang ji	错失了良机	100
+cuo shi le tai duo	错失了太多	100
+cuo shi le tai duo feng jing	错失了太多风景	100
+cuo shi luo di	措施落地	100
+cuo shi luo shi	措施落实	100
+cuo shi luo shi bu dao wei	措施落实不到位	100
+cuo shi luo shi dao wei	措施落实到位	100
+cuo shi luo shi qing kuang	措施落实情况	100
+cuo shi xia qu	错失下去	100
+cuo shi zhi xing	措施执行	100
+cuo shou dun zu	搓手顿足	100
+cuo shou duo jiao	搓手跺脚	100
+cuo tuo guang yin	蹉跎光阴	100
+cuo tuo le sui yue	蹉跎了岁月	100
+cuo tuo shi guang	蹉跎时光	100
+cuo wan le	搓完了	100
+cuo wan zao	搓完澡	100
+cuo wei tu	错位图	100
+cuo wu de	错误的	100
+cuo wu de da kai fang shi	错误的打开方式	100
+cuo wu de dao lu	错误的道路	100
+cuo wu de dao lu shang	错误的道路上	100
+cuo wu de di dian	错误的地点	100
+cuo wu de di fang	错误的地方	100
+cuo wu de jie he	错误的结合	100
+cuo wu de tai du	错误的态度	100
+cuo wu de xuan ze	错误的选择	100
+cuo wu he yi chang	错误和异常	100
+cuo wu ju duo	错误巨多	100
+cuo wu lv gao	错误率高	100
+cuo wu shi shen me	错误是什么	100
+cuo wu yan xing	错误言行	100
+cuo wu yu yi chang	错误与异常	100
+cuo wu zhu yin	错误注音	100
+cuo wu zhuan huan	错误转换	100
+cuo xie cheng	错写成	100
+cuo xie cheng le	错写成了	100
+cuo xin le	错信了	100
+cuo xin yu huo	厝薪于火	100
+cuo yan ru huo	撮盐入火	100
+cuo yan ru shui	撮盐入水	100
+cuo yi dun	搓一顿	100
+cuo yi ge	错一个	100
+cuo yin cuo zi	错音错字	100
+cuo you cuo zhe	错有错着	100
+cuo yu dui	错与对	100
+cuo za zai	错杂在	100
+cuo za zhe	错杂着	100
+cuo zai le	错在了	100
+cuo zai le na li	错在了哪里	100
+cuo zai shen me di fang	错在什么地方	100
+cuo zao ku	搓澡裤	100
+cuo zhe shou	搓着手	100
+cuo zhe zhong cheng zhang	挫折中成长	100
+cuo zhi de dang	措置得当	100
+cuo zhi guai fang	措置乖方	100
+cuo zhi shi dang	措置失当	100
+cuo zhi you fang	措置有方	100
+cuo zhi yu ru	措置裕如	100
+cuo zi cuo ci	错字错词	100
+cuo zi cuo yin	错字错音	100
+cuo zi lv	错字率	100
+cuo zong fu za de guan xi	错综复杂的关系	100
+cuo zong jiu chan	错综纠缠	100
+cuo yi	错义	90
+cuo wei shi kong	错位时空	85
+cuo wu ji he	错误集合	85
+cuo jin	搓紧	80
+cuo yin ti shi	错音提示	78
+cuo he shan	撮合山	75
+cuo wu yu ce	错误预测	75
+cuo wu mo xing	错误模型	71
+cuo wu que dian	错误缺点	70
+cuo xie	锉屑	70
+cuo guang	锉光	65
+cuo shi fa	措施法	64
+cuo jiao	错角	60
+cuo wu lei bie	错误类别	58
+cuo wu shou ji	错误收集	58
+cuo wu kuo san	错误扩散	52
+cuo di rui qi	挫敌锐气	50
+cuo zong bian hua	错综变化	40
+cuo de bi	错得比	35
+cuo gou liu	错构瘤	34
+cuo lie chuang	挫裂创	32
+cuo wu ji	错误集	31
+cuo tu wei xiang	撮土为香	25
+cuo wan wu yu bi duan	挫万物于笔端	23
+cuo wu ji jin	错误集锦	23
+cuo wu jing yan	错误经验	22
+cuo wu zheng li	错误整理	22
+cuo wu chan ru	错误掺入	15
+cuo wu jie jue fang shi	错误解决方式	13
+cuo sun	挫损	10
+cuo zhi nu hou	挫志怒吼	10
+cuo ban	措办	9
+cuo huo	撮火	9
+cuo la xiang	措拉乡	9
+cuo zhe luo ma zhen	措折罗玛镇	7
+cuo cheng zhen	酂城镇	6
+cuo jie pan gen	错节盘根	6
+cuo pei xiu fu	错配修复	6
+cuo zhi pao xiao	挫志咆哮	6
+cuo he	错𬌗	5
+cuo gang zhen	嵯岗镇	4
+cuo dou cun	厝斗村	3
+cuo ma xiang	措玛乡	3
+cuo mei zhen	措美镇	3
+cuo shang cun	厝上村	3
+cuo tu fen xiang	撮土焚香	3
+cuo yang xiang	酂阳乡	3
+cuo a xiang	错阿乡	2
+cuo gang mu chang	嵯岗牧场	2
+cuo lu	撮录	2
+cuo mian che xu	搓绵扯絮	2
+cuo nong	撮弄	2
+cuo tu	撮土	2
+cuo yao	撮药	2
+cuo yi tu bian	错义突变	2
+cuo zhe qiang ma xiang	措折强玛乡	2
+cuo bu xi xiang	措布西乡	1
+cuo fen lie	错分裂	1
+cuo fen tuan zhu	搓粉团朱	1
+cuo guo xiang	措果乡	1
+cuo huo liao yuan	厝火燎原	1
+cuo ji	错季	1
+cuo li zu tan	错立族谈	1
+cuo luo gao xia	错落高下	1
+cuo mai xiang	措迈乡	1
+cuo ren yan biao	错认颜标	1
+cuo shi kong zhi fa	措施控制法	1
+cuo shou bu die	措手不迭	1
+cuo tuo ri yue	蹉跎日月	1
+cuo tuo shi lu	蹉跎仕路	1
+cuo tuo shi ri	蹉跎时日	1
+cuo tuo zi wu	蹉跎自误	1
+cuo wa xiang	措瓦乡	1
+cuo wen chun luo	锉纹鹑螺	1
+cuo wu zhuang tai hao	错误状态号	1
+cuo xin ji lv	措心积虑	1
+cuo yan wu di	措颜无地	1
+cuo yao shan fan	撮要删繁	1
+cuo yin	错银	1
+cuo zai cong ming	错在聪明	1
+cuo zhi shi yi	措置失宜	1
+cuo zhou xiang	措周乡	1

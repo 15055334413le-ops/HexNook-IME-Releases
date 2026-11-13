@@ -1,0 +1,574 @@
+shui shou	税收	96632
+shui ku	水库	79400
+shui mu	水母	78147
+shui shou you hui zheng ce	税收优惠政策	33429
+shui mi tao	水蜜桃	25919
+shui mian	睡眠	25340
+shui zhu yu	水煮鱼	20850
+shui wu ran	水污染	15673
+shui zhang chuan gao	水涨船高	10972
+shui chang	水厂	10353
+shui dian zhan	水电站	9830
+shui wu ju	税务局	9785
+shui jing	水井	8915
+shui xie bu tong	水泄不通	8189
+shui zai	水灾	7115
+shui jin	税金	5989
+shui guo sha la	水果沙拉	5830
+shui gou	水沟	5745
+shui shou zheng shou guan li fa	税收征收管理法	5740
+shui dao qu cheng	水到渠成	5530
+shui kou	水口	5182
+shui luo shi chu	水落石出	5018
+shui tian	水田	4921
+shui zhong	水肿	4440
+shui tu bu fu	水土不服	4382
+shui ni chang	水泥厂	4339
+shui hou	水后	4080
+shui di	水底	4034
+shui bian	水边	3051
+shui shang le yuan	水上乐园	2724
+shui wen biao	水温表	2578
+shui gang	水缸	2357
+shui sheng zhi wu	水生植物	2214
+shui guo dan gao	水果蛋糕	2208
+shui gong	水工	1990
+shui guo hu	水果湖	1853
+shui zhu niu rou	水煮牛肉	1678
+shui zhu rou pian	水煮肉片	1676
+shui chan shi chang	水产市场	1660
+shui shou bao quan cuo shi	税收保全措施	1637
+shui ji	税基	1579
+shui jian bao	水煎包	1519
+shui sha zhi	水砂纸	1494
+shui fa hai shen	水发海参	1458
+shui tou	水头	1452
+shui jie	水解	1431
+shui ru jiao rong	水乳交融	1303
+shui jing fen	水晶粉	1280
+shui shen huo re	水深火热	1256
+shui ku zhong	水库中	1234
+shui mian zhang ai	睡眠障碍	1217
+shui men	水门	1183
+shui wen chuan gan qi	水温传感器	1148
+shui zu	水族	1140
+shui xian	水仙	1069
+shui long	水龙	1032
+shui dian lu	水电路	1027
+shui man jin shan	水漫金山	1009
+shui qin	水禽	996
+shui dou	水痘	967
+shui shang gong yuan	水上公园	875
+shui yan xing song	睡眼惺忪	872
+shui guo pai	水果派	835
+shui pao	水疱	820
+shui yang suan jia zhi	水杨酸甲酯	779
+shui shi shui fei	谁是谁非	657
+shui ping mian	水平面	618
+shui chan gong si	水产公司	610
+shui jie dan bai	水解蛋白	578
+shui jing bing	水晶饼	576
+shui dian chang	水电厂	572
+shui shang fen ju	水上分局	569
+shui mo hei	水墨黑	550
+shui shou gui fan xing wen jian	税收规范性文件	540
+shui tian yi se	水天一色	517
+shui jing zhou zi	水晶肘子	514
+shui mu	水木	488
+shui xi men	水西门	478
+shui ping chui zhi ju zhong	水平垂直居中	477
+shui di shi chuan	水滴石穿	436
+shui bei	水贝	417
+shui jing xiang shui ping	水晶香水瓶	413
+shui shou guan li quan xian	税收管理权限	400
+shui mu nian hua	水木年华	384
+shui diao ge tou	水调歌头	383
+shui xi men da jie	水西门大街	379
+shui jing xia jiao	水晶虾饺	371
+shui fu	水富	362
+shui hua	水华	359
+shui guan zhan	水管站	326
+shui dao bing chong hai fang zhi	水稻病虫害防治	311
+shui shou qiang zhi zhi xing cuo shi	税收强制执行措施	310
+shui jing yao rou	水晶肴肉	304
+shui jing bao biao	水晶报表	303
+shui wan	水湾	300
+shui chan yang zhi chang	水产养殖场	288
+shui zhi pan zhong can	谁知盘中餐	284
+shui zhai	水寨	283
+shui neng zai zhou	水能载舟	282
+shui dong	水东	276
+shui mu qing hua	水木清华	275
+shui huo bu xiang rong	水火不相容	274
+shui xi	水西	271
+shui guo ta	水果塔	269
+shui kou shan	水口山	252
+shui nian he	水碾河	249
+shui xin	水心	242
+shui yan cun cao xin	谁言寸草心	242
+shui guo ji	水果鸡	237
+shui huo wu qing	水火无情	237
+shui fen bao chi ji	水分保持剂	232
+shui lu liang qi dong wu	水陆两栖动物	232
+shui shang shi jie	水上世界	231
+shui chan guan tou	水产罐头	230
+shui nan	水南	228
+shui dou yi miao	水痘疫苗	225
+shui beng ye lun	水泵叶轮	222
+shui jun yi	水均益	220
+shui zi yuan suo you quan	水资源所有权	220
+shui hua	水化	206
+shui mo gou	水磨沟	205
+shui lai tu yan	水来土掩	203
+shui pen yang rou	水盆羊肉	202
+shui rong xing wei sheng su	水溶性维生素	201
+shui zhong deng ji	税种登记	197
+shui po	水泊	163
+shui dian	税点	158
+shui dian jie zhi	水电解质	156
+shui kou cun	水口村	156
+shui ge	水阁	155
+shui huo zhi zhong	水火之中	154
+shui dian qi ju	水电七局	152
+shui jing rou	水晶肉	146
+shui ma tou	水码头	144
+shui zhi qing ze wu yu	水至清则无鱼	142
+shui tun	水屯	141
+shui quan	水泉	140
+shui yang suan	水杨酸	139
+shui wei	水尾	138
+shui ping ji	水平集	132
+shui chan lu	水产路	129
+shui guan qiao	水关桥	126
+shui yu	水峪	125
+shui xi cun	水西村	124
+shui jing li cheng	水晶郦城	123
+shui xie hua dou	水榭花都	116
+shui wei cun	水围村	115
+shui jian bao zi	水煎包子	113
+shui ping fen pian	水平分片	113
+shui ning jiao	水凝胶	109
+shui wu ji cha bao gao	税务稽查报告	107
+shui lu liang qi qi che	水陆两栖汽车	106
+shui zhong du	水中毒	104
+shui ye	水野	103
+shui tun shi chang	水屯市场	101
+shui jiao zi	水饺子	98
+shui beng chu shui guan	水泵出水管	95
+shui bu	水步	94
+shui neng zai zhou yi neng fu zhou	水能载舟亦能覆舟	90
+shui cheng lu	水城路	89
+shui nian he lu	水碾河路	89
+shui beng chang	水泵厂	88
+shui jing dan gao	水晶蛋糕	88
+shui shan li wan wu er bu zheng	水善利万物而不争	87
+shui wei ji	水位计	87
+shui dui zi	水碓子	86
+shui zhong lao yue	水中捞月	86
+shui zhu tian ji	水煮田鸡	85
+shui fei	水肺	83
+shui niu jiao	水牛角	83
+shui xing yang hua	水性杨花	83
+shui zhu yang rou	水煮羊肉	83
+shui ji san qian li	水击三千里	82
+shui gua liu	水瓜柳	81
+shui ke zai zhou	水可载舟	80
+shui shou che xiao quan	税收撤销权	80
+shui chang lu	水厂路	74
+shui li	水沥	74
+shui tian cun	水田村	67
+shui zhong bing	水肿病	67
+shui fen ping heng	水分平衡	64
+shui feng jing	水风井	64
+shui kong	水孔	63
+shui ku xin cun	水库新村	62
+shui guo xing	水果行	61
+shui mo cun	水磨村	60
+shui zi yuan bao hu fa	水资源保护法	60
+shui zi yuan kan cha	水资源勘察	59
+shui jing su	水晶酥	57
+shui guang shan se	水光山色	56
+shui wen zhi shi deng	水温指示灯	56
+shui jing ruan tang	水晶软糖	55
+shui zi	水子	55
+shui wen gan ying sai	水温感应塞	54
+shui wen deng	水温灯	53
+shui chan xue yuan	水产学院	51
+shui guang lian yan qing fang hao	水光潋滟晴方好	51
+shui guo di pi shi	水过地皮湿	51
+shui chi cai lian dang kong wu	谁持彩练当空舞	49
+shui quan gou	水泉沟	48
+shui tu	水突	47
+shui ci ba	水糍粑	46
+shui qing lu	水清路	45
+shui mi wan	水蜜丸	44
+shui ba kuai	水八块	43
+shui li da sha	水利大厦	43
+shui shou cheng xu xing quan li	税收程序性权利	43
+shui jing dao	水晶岛	42
+shui pao bing gan	水泡饼干	41
+shui jie mei	水解酶	38
+shui dian lu qiao	水电路桥	36
+shui dian xue yuan	水电学院	36
+shui gan heng dao li ma	谁敢横刀立马	36
+shui guo nai you dan gao	水果奶油蛋糕	36
+shui kou si	水口寺	36
+shui dian jie zhi wen luan	水电解质紊乱	35
+shui tou she qu	水头社区	35
+shui bi shan qing	水碧山青	34
+shui beng jin shui guan	水泵进水管	31
+shui chong ye	水虫也	31
+shui guan mian	水管面	30
+shui pen da rou	水盆大肉	30
+shui bei	水背	29
+shui qing mu hua	水清木华	29
+shui zhu sun guan tou	水煮笋罐头	29
+shui jing nan gua	水晶南瓜	28
+shui lou	水楼	28
+shui bei yi lu	水贝一路	27
+shui quan liu zhuan	水权流转	27
+shui cheng qiao	水澄桥	26
+shui gu jing wei	水谷精微	26
+shui mu mao	水木茂	25
+shui wan lu	水湾路	25
+shui zhu shan yu	水煮鳝鱼	25
+shui ta jie dao	水塔街道	24
+shui zhi	水制	24
+shui zhu yu tou	水煮鱼头	24
+shui dou gu	水豆鼓	23
+shui he lv quan	水合氯醛	23
+shui ke zai zhou yi ke fu zhou	水可载舟亦可覆舟	23
+shui long cun	水龙村	23
+shui mu qin huai	水木秦淮	23
+shui shou jiu ji fa	税收救济法	23
+shui lao xiang	水潦乡	22
+shui mu gong	水母宫	22
+shui ti zi jing zuo yong	水体自净作用	22
+shui yuan xi zi	水原希子	22
+shui yue guan yin	水月观音	22
+shui hu lu xiang jia	水葫芦象甲	21
+shui liao fa	水疗法	21
+shui nan zhuang	水南庄	21
+shui yue jing hua	水月镜花	21
+shui zhu cun	水竹村	21
+shui chan chang	水产场	20
+shui chan da xue	水产大学	20
+shui dao hui fei shi	水稻灰飞虱	20
+shui ai xiang	水隘乡	19
+shui bei cun	水北村	19
+shui chan cun	水产村	19
+shui wu jin zhi diao cha	税务尽职调查	19
+shui dian xin cun	水电新村	18
+shui cun shan guo jiu qi feng	水村山郭酒旗风	17
+shui qu zheng fu	水区政府	17
+shui quan zi	水泉子	17
+shui shang xin cun	水上新村	16
+shui sheng you ke dong wu	水生有壳动物	16
+shui zheng jian cha gong zuo zhang cheng	水政监察工作章程	16
+shui dao kou	水道口	15
+shui guan xi	水管系	15
+shui jing xie fen juan	水晶蟹粉卷	15
+shui lao yi zu xiang	水潦彝族乡	15
+shui ni chang jia shu qu	水泥厂家属区	15
+shui chang pu	水菖蒲	14
+shui jia xin yan zhuo chun ni	谁家新燕啄春泥	14
+shui shou zhi fa jian cha gui ze	税收执法检查规则	14
+shui yun ju	水云居	14
+shui an ren jia	水岸人家	13
+shui chan shi yan chang	水产试验场	13
+shui dong jiang jie dao	水东江街道	13
+shui dun	水遁	13
+shui man qiao	水漫桥	13
+shui yang mei	水杨梅	13
+shui yue qin huai	水月秦淮	13
+shui zhi meng	水之梦	13
+shui dui zi she qu	水碓子社区	12
+shui guan ju	水管局	12
+shui pao zhen	水疱疹	12
+shui shou dan xing fa	税收单行法	12
+shui tan cun	水潭村	12
+shui tian yi jie	水田一街	12
+shui wan tou	水湾头	12
+shui zhu ti hua	水煮蹄花	12
+shui feng lu	水丰路	11
+shui guo yi pin	水果一品	11
+shui jing yin ju gao	水晶银菊糕	11
+shui li niao	水利尿	11
+shui yu kou	水峪口	11
+shui zhu xiang	水竹乡	11
+shui ge cun	水阁村	10
+shui jin jie	水津街	10
+shui jing lian dong wei feng qi	水晶帘动微风起	10
+shui mo tou	水磨头	10
+shui ni chen fei	水泥尘肺	10
+shui niu jiao nong suo fen	水牛角浓缩粉	10
+shui quan zi cun	水泉子村	10
+shui shang gong yuan xi lu	水上公园西路	10
+shui yin kang ting	水印康庭	10
+shui yue gong	水月宫	10
+shui zhi su	水蛭素	10
+shui beng bu jian	水泵部件	9
+shui ping cun	水坪村	9
+shui wei gan ying qi	水位感应器	9
+shui wu dai li ye wu gui cheng	税务代理业务规程	9
+shui xi cun	水溪村	9
+shui yin cheng	水印城	9
+shui dang dang	水凼凼	8
+shui dao nong chang	水稻农场	8
+shui guan yin	水观音	8
+shui hu huang men	水户黄门	8
+shui jing cheng	水景城	8
+shui jing ju zi	水晶橘子	8
+shui liu cun	水流村	8
+shui men cun	水门村	8
+shui yang suan na	水杨酸钠	8
+shui zhu lian yu	水煮鲢鱼	8
+shui ban xia	水半夏	7
+shui dou	水陡	7
+shui guan xin cun	水关新村	7
+shui guo jia xin dan gao	水果夹心蛋糕	7
+shui jia jian yue neng xian zuo	谁家见月能闲坐	7
+shui jing cun	水径村	7
+shui lu cao mu zhi hua	水陆草木之花	7
+shui shou dang ban	税收档板	7
+shui xiang gong yu	水湘公寓	7
+shui xie hua ting	水榭华庭	7
+shui che hu tong	水车胡同	6
+shui hu rou	水浒肉	6
+shui jia yu di an fei sheng	谁家玉笛暗飞声	6
+shui jing kou rou	水晶扣肉	6
+shui jing tou	水井头	6
+shui kuan xiang	水宽乡	6
+shui ren ceng yu ping shuo	谁人曾与评说	6
+shui shang gong yuan lu	水上公园路	6
+shui shou ji li xiao ying	税收激励效应	6
+shui sui tian qu qiu wu ji	水随天去秋无际	6
+shui yuan li lun	水猿理论	6
+shui cai li	水菜丽	5
+shui chun	水唇	5
+shui dao ren sheng wu zai shao	谁道人生无再少	5
+shui hong miao	水洪庙	5
+shui jing mei hua bao	水晶梅花包	5
+shui kou li	水口里	5
+shui lun ji chang	水轮机厂	5
+shui luo xiang	水洛乡	5
+shui men dong	水门洞	5
+shui shang gong yuan dong lu	水上公园东路	5
+shui shi wo long ke	谁识卧龙客	5
+shui shi yan bo heng	水是眼波横	5
+shui shou hui bao li lun	税收回报理论	5
+shui tian ping	水田坪	5
+shui wei biao yu xin	谁为表予心	5
+shui xian jie	水仙街	5
+shui yao xiang	水窑乡	5
+shui an ya yuan	水岸雅苑	4
+shui beng dian	水泵垫	4
+shui bo ji	水簸箕	4
+shui feng kong luo yan qian hua	水风空落眼前花	4
+shui ge da jie	水阁大街	4
+shui gu zhi hai	水谷之海	4
+shui jian you ren du wang lai	谁见幽人独往来	4
+shui jing fei cui jiao	水晶翡翠饺	4
+shui jing pi pa	水晶枇杷	4
+shui jing ti bang xiang yao rou	水晶蹄膀香肴肉	4
+shui nian xi feng du zi liang	谁念西风独自凉	4
+shui ru yi pi lian	水如一匹练	4
+shui shang gong yuan bei dao	水上公园北道	4
+shui wei zhi er han yu shui	水为之而寒于水	4
+shui xiang fu shui hu	水箱副水壶	4
+shui xiang jiao dian	水箱胶垫	4
+shui xiu xin cun	水秀新村	4
+shui xu tang	水絮塘	4
+shui ye ya mei	水野亚美	4
+shui ye zhen ji	水野真纪	4
+shui ye zi	水叶子	4
+shui yu guan zhen	水峪贯镇	4
+shui ao	水澳	3
+shui bu men dou	水部门兜	3
+shui dan dan xi sheng yan	水澹澹兮生烟	3
+shui dao hong	水岛宏	3
+shui dao liang zhong chang	水稻良种场	3
+shui dui lu kou nan	水碓路口南	3
+shui fan yue fu qi liang qu	谁翻乐府凄凉曲	3
+shui fei ji su	水飞蓟素	3
+shui fen xue	水分穴	3
+shui jian bing	水煎饼	3
+shui jin nan tian bu jian yun	水尽南天不见云	3
+shui jing ming xia qiu	水晶明虾球	3
+shui lian liu luo jiang hu shang	谁怜流落江湖上	3
+shui ling xiang	水岭乡	3
+shui lu yi shuang xue	水路疑霜雪	3
+shui mei	水媒	3
+shui men she qu	水门社区	3
+shui nian you han zuo wu e	谁念幽寒坐呜呃	3
+shui qing zhen	水箐镇	3
+shui shou ke zheng quan	税收课征权	3
+shui shu yu cun	水树峪村	3
+shui ta cun	水踏村	3
+shui tu xue	水突穴	3
+shui wu gong	水蜈蚣	3
+shui xin cai chang	水心菜场	3
+shui yang qiao	水漾桥	3
+shui yang ren jia	水漾人家	3
+shui yang suan yan	水杨酸盐	3
+shui zhi guo	水之国	3
+shui zhong yue se zhang bu gai	水中月色长不改	3
+shui zhu bai zha rou	水煮白扎肉	3
+shui bei shi lu zhi ren	谁悲失路之人	2
+shui chan qian jie	水产前街	2
+shui chong cun	水冲村	2
+shui dao zi hu tong	水道子胡同	2
+shui dian cun	水电村	2
+shui gou xue	水沟穴	2
+shui gu feng	水谷丰	2
+shui hong hua zi	水红花子	2
+shui jia jin ye pian zhou zi	谁家今夜扁舟子	2
+shui jiao dou sha jian bing	水饺豆沙煎饼	2
+shui jing ju hua su	水晶菊花酥	2
+shui jing tuan zi	水晶团子	2
+shui keng hu	水坑湖	2
+shui ling qi ma ke jing hua	谁令骑马客京华	2
+shui long xiang	水龙乡	2
+shui lu er xian dan	水陆二仙丹	2
+shui mo hu tong	水磨胡同	2
+shui ni san chang	水泥三厂	2
+shui niu lu	水牛鹿	2
+shui qi ling xin	水气凌心	2
+shui se yi zhu shui	水色异诸水	2
+shui shang qing ying bu wei yue	水上轻盈步微月	2
+shui shen bo lang kuo	水深波浪阔	2
+shui shen yu ji le	水深鱼极乐	2
+shui shou dai zheng ren yuan	税收代征人员	2
+shui shou jiao kuan shu	税收缴款书	2
+shui shu nai nai	水树奈奈	2
+shui ti zhong fu zhi zhi	水体中腐殖质	2
+shui wai jia yi wu	税外加一物	2
+shui wei shui zu xiang	水尾水族乡	2
+shui wu ju xiang	税务局巷	2
+shui xin you dian	水心邮电	2
+shui yang suan ruan gao	水杨酸软膏	2
+shui ye mei ji	水野美纪	2
+shui yong keng	水拥坑	2
+shui yu tao chun geng	谁欲讨莼羹	2
+shui zhi lin qi zhe	谁知林栖者	2
+shui zhu hui tou yu	水煮回头鱼	2
+shui zuo yu hong liu	水作玉虹流	2
+shui an cheng shi hua yuan	水岸城市花园	1
+shui cao ye fei pei fang	水草液肥配方	1
+shui chan da lou	水产大楼	1
+shui chuan cheng xia zuo lei ming	水穿城下作雷鸣	1
+shui da yuan	水大院	1
+shui dao hei wei ye chan	水稻黑尾叶蝉	1
+shui dao wu jin wu wang huan	谁道吾今无往还	1
+shui dao xiang	水道巷	1
+shui dao xue	水道穴	1
+shui dao yu	水岛裕	1
+shui dao zi	水道子	1
+shui dian feng lai an xiang man	水殿风来暗香满	1
+shui dong ning ru yu	水冻凝如瘀	1
+shui fei ji bin jiao nang	水飞蓟宾胶囊	1
+shui fei ji bin pu jia an pian	水飞蓟宾葡甲胺片	1
+shui fo si	睡佛寺	1
+shui fu liu jun zhu	谁复留君住	1
+shui fu nan zai shou	水覆难再收	1
+shui fu sheng he mai	水府生禾麦	1
+shui fu tiao deng ye bu yi	谁复挑灯夜补衣	1
+shui gang cun	水缸村	1
+shui ge xu liang yu dian kong	水阁虚凉玉簟空	1
+shui guang shan se yu ren qin	水光山色与人亲	1
+shui hao bei liu quan	水号北流泉	1
+shui hui bian ce qu si yun	谁挥鞭策驱四运	1
+shui ji chun tang wan	水积春塘晚	1
+shui jia nv er dui men ju	谁家女儿对门居	1
+shui jian ru bing	水煎乳饼	1
+shui jiang chun se lai can die	谁将春色来残堞	1
+shui jiao dong chuang ri yi hong	睡觉东窗日已红	1
+shui jiao han deng li	睡觉寒灯里	1
+shui jiao yuan	水饺元	1
+shui jie ming jiao	水解明胶	1
+shui jin feng	水金凤	1
+shui jing lian ying geng tong feng	水晶帘莹更通风	1
+shui kan wen jiang kou	水槛温江口	1
+shui li ting nong chang	水利厅农场	1
+shui lian rong zu di	谁怜容足地	1
+shui liu xin bu jing	水流心不竞	1
+shui lu luo ba zhen	水陆罗八珍	1
+shui luo shang cun qin dai shi	水落尚存秦代石	1
+shui luo yu liang qian	水落鱼梁浅	1
+shui lv tian qing bu qi chen	水绿天青不起尘	1
+shui mian chu ping yun jiao di	水面初平云脚低	1
+shui mian tao hua nong chun lian	水面桃花弄春脸	1
+shui mu yi lang	水木一郎	1
+shui neng jiu bu gu	谁能久不顾	1
+shui neng jue ren ming	谁能绝人命	1
+shui neng wei ci mou	谁能为此谋	1
+shui niao dai bo fei xi yang	水鸟带波飞夕阳	1
+shui ning lv ya liu li qian	水凝绿鸭琉璃钱	1
+shui pao yu yuan	水泡鱼元	1
+shui ping chuan di	水平传递	1
+shui qian er zhou da ye	水浅而舟大也	1
+shui qing bo lian yan	水清波潋滟	1
+shui qu yun hui hen bu sheng	水去云回恨不胜	1
+shui ren de shi zhang gong zi	谁人得似张公子	1
+shui ren ke xiang cong	谁人可相从	1
+shui ru huan pei yue ru jin	水如环佩月如襟	1
+shui sheng ji ji feng chui yi	水声激激风吹衣	1
+shui shi fu yun zhi jin tui	谁似浮云知进退	1
+shui shi qing tian zhao yan ming	水似青天照眼明	1
+shui shou jiu ji quan	税收救济权	1
+shui shou qiang zhi zhi xing zhi du	税收强制执行制度	1
+shui shou wan shui zheng	税收完税证	1
+shui su yan yu han	水宿烟雨寒	1
+shui tang bao yi zu miao zu xiang	水塘堡彝族苗族乡	1
+shui tao su	水桃酥	1
+shui ting ni nan yu	谁听呢喃语	1
+shui tun cun wei hui	水屯村委会	1
+shui tun jia yuan	水屯家园	1
+shui wa xiang	水洼乡	1
+shui wei tian di kuan	谁谓天地宽	1
+shui wen zhen dian si you you	水纹珍簟思悠悠	1
+shui weng hua	水翁花	1
+shui xi dao	水西道	1
+shui xian ming jing zhuan	水闲明镜转	1
+shui xiang gao lou heng yu di	谁向高楼横玉笛	1
+shui xiang lian zi qi	水香莲子齐	1
+shui xiang mai bai wu	水乡霾白屋	1
+shui xing qian feng cui dai zhang	水荇牵风翠带长	1
+shui yang suan ben fen tie gao	水杨酸苯酚贴膏	1
+shui ye ba jiao tie jia	水椰八角铁甲	1
+shui yin xiang	水音乡	1
+shui yu gong ping sheng	谁与共平生	1
+shui yuan shan chang chu chu tong	水远山长处处同	1
+shui yue tong chan ji	水月通禅寂	1
+shui zhi cang cui rong	谁知苍翠容	1
+shui zhi en ai zhong	谁知恩爱重	1
+shui zhi li bie qing	谁知离别情	1
+shui zhi lin lao xiang feng ri	谁知临老相逢日	1
+shui zhi shi	水芝士	1
+shui zhi xian ping lan gan chu	谁知闲凭阑干处	1
+shui zhong zao xing jiao heng	水中藻荇交横	1
+shui zhou xi tang xia	水周兮堂下	1
+shui zhu feng pian	水煮凤片	1
+shui zuo huan yi san nong	谁作桓伊三弄	1
+shui dao chi ban hei mo chan	水稻赤斑黑沫蝉	0
+shui dao dao gan qian ying	水稻稻秆潜蝇	0
+shui dao dao he fei shi	水稻稻褐飞虱	0
+shui dao dao ji yuan chun	水稻稻棘缘蝽	0
+shui dao dao qian ye ying	水稻稻潜叶蝇	0
+shui dao dao tian zhan chong	水稻稻田粘虫	0
+shui dao dao zhi zong ji ma	水稻稻直鬃蓟马	0
+shui dao zhan chong	水稻粘虫	0
+shui dao zhi wen dao nong die	水稻直纹稻弄蝶	0
+shui hu ye xi hua tian niu	水户野细花天牛	0
+shui ma xiao tou mu shi	水麻小头木虱	0
+shui mo shi yu luo	水磨石芋螺	0
+shui mu jin quan rong	水母近泉戎	0
+shui mu qian	水母钳	0
+shui mu ti sou zhi xi	水母体薮枝螅	0
+shui niu wu yin dai xian chong	水牛无引带线虫	0
+shui niu zhang miao xi chong	水牛长妙吸虫	0
+shui shan bi zhai e	水杉避债蛾	0
+shui su hei xiao juan e	水苏黑小卷蛾	0
+shui xian qian shou fu shan hu	水仙千手佛珊瑚	0
+shui ya jiao zhu	水涯狡蛛	0
+shui ying bing fu jin xiao feng	水蝇柄腹金小蜂	0

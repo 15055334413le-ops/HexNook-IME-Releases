@@ -1,0 +1,731 @@
+hui bao	汇报	692029
+hui bi	回避	442118
+hui fu	恢复	329411
+hui lu	贿赂	235133
+hui tong	会同	73427
+hui diao han shu	回调函数	44415
+hui lv	汇率	30539
+hui kuan	汇款	21545
+hui gun	回滚	21163
+hui diao fang fa	回调方法	17042
+hui zhan zhong xin	会展中心	15936
+hui nong	惠农	12439
+hui lu an	贿赂案	12159
+hui kou	回扣	11375
+hui zhou shi	惠州市	11002
+hui bian yu yan	汇编语言	10914
+hui lu fan zui	贿赂犯罪	10059
+hui che jian	回车键	10053
+hui du	灰度	9767
+hui guo rou	回锅肉	9522
+hui diao	回调	8741
+hui bao lv	回报率	7401
+hui fu ming yu	恢复名誉	7329
+hui diao jie kou	回调接口	6840
+hui che fu	回车符	6722
+hui cai	徽菜	6538
+hui feng	汇丰	6356
+hui bi zhi du	回避制度	6194
+hui zu	回族	5608
+hui quan	汇泉	5422
+hui fa xing	挥发性	5220
+hui gou	回购	5126
+hui fu shu ju	恢复数据	5012
+hui che huan hang	回车换行	4641
+hui song	回送	4207
+hui bian zhi ling	汇编指令	3934
+hui du tu xiang	灰度图像	3689
+hui zhi tu xing	绘制图形	3643
+hui pu	惠普	3609
+hui wen chuan	回文串	3599
+hui rong	毁容	3305
+hui du tu	灰度图	3278
+hui gou xie yi	回购协议	3143
+hui gun shi wu	回滚事务	3143
+hui mo ru shen	讳莫如深	3007
+hui hua ceng	会话层	2964
+hui diao ji zhi	回调机制	2840
+hui bian cheng xu	汇编程序	2781
+hui su fa	回溯法	2622
+hui se shou ru	灰色收入	2473
+hui piao	汇票	2464
+hui he	灰鹤	2354
+hui gui ce shi	回归测试	2346
+hui dong	惠东	2295
+hui cai	烩菜	2293
+hui chu	汇出	2230
+hui han ru yu	挥汗如雨	2156
+hui shi	汇市	2107
+hui gui jia zhi	回归价值	2070
+hui yu yi dan	毁于一旦	2061
+hui dui	汇兑	2001
+hui wei wu qiong	回味无穷	1978
+hui yu	鮰鱼	1976
+hui tou tu lian	灰头土脸	1934
+hui hua guan li	会话管理	1768
+hui wen shu	回文数	1707
+hui ling dun	惠灵顿	1674
+hui sheng hui se	绘声绘色	1613
+hui gui fen xi	回归分析	1560
+hui tan	回弹	1539
+hui hua zhuang tai	会话状态	1537
+hui xin zhuan yi	回心转意	1524
+hui yang	惠阳	1478
+hui jin	汇金	1346
+hui fei yan mie	灰飞烟灭	1314
+hui fu xing shi zhu quan	恢复行使主权	1305
+hui shu	灰树	1241
+hui wen zi chuan	回文子串	1197
+hui fa	回发	1192
+hui ning	会宁	1158
+hui tui zhan	回退栈	1150
+hui yuan	汇源	1102
+hui an	惠安	1069
+hui ji ji yi	讳疾忌医	1058
+hui gui shu	回归树	1020
+hui e	灰鹅	1014
+hui jin ru tu	挥金如土	981
+hui ze	会泽	977
+hui tong	汇通	961
+hui du zhi	灰度值	932
+hui tian fa shu	回天乏术	926
+hui wen zi fu chuan	回文字符串	902
+hui fu cheng xu	恢复程序	893
+hui zhou da dao	徽州大道	884
+hui bu dang chu	悔不当初	873
+hui fu chu chang she zhi	恢复出厂设置	861
+hui xiang	茴香	851
+hui su suan fa	回溯算法	842
+hui sheng ding wei	回声定位	833
+hui fu xing si fa	恢复性司法	832
+hui yin	会阴	821
+hui dou	灰豆	793
+hui xian shi	辉县市	791
+hui yu can ban	毁誉参半	781
+hui chun shi	珲春市	739
+hui fu neng li	恢复能力	706
+hui yuan fen ji jie suan zhi du	会员分级结算制度	668
+hui jing	灰鲸	644
+hui bo	回拨	632
+hui guo zi xin	悔过自新	608
+hui li	会理	603
+hui hua mi yao	会话密钥	600
+hui shou qi	回收期	579
+hui du zhi fang tu	灰度直方图	571
+hui zhi wan yi	悔之晚矣	566
+hui long guan yi yuan	回龙观医院	561
+hui huo wu du	挥霍无度	557
+hui long guan di qu	回龙观地区	534
+hui xing	回兴	496
+hui fu shan chu	恢复删除	491
+hui sa zi ru	挥洒自如	489
+hui die	灰蝶	478
+hui xin sang qi	灰心丧气	469
+hui kuan ren	汇款人	464
+hui te man	惠特曼	463
+hui diao mo shi	回调模式	460
+hui tian	回天	453
+hui bi jue ding	回避决定	447
+hui jia	汇佳	435
+hui ren bu juan	诲人不倦	397
+hui tou shi an	回头是岸	389
+hui min lu	惠民路	370
+hui you	回游	341
+hui fa wu	挥发物	326
+hui he ce shi	灰盒测试	312
+hui chong	蛔虫	310
+hui min zhong xue	回民中学	292
+hui nan	辉南	288
+hui du bian huan	灰度变换	286
+hui min xiao xue	回民小学	275
+hui piao zhuan	汇票转	272
+hui feng he chang	惠风和畅	271
+hui tian wu li	回天无力	268
+hui shui	惠水	261
+hui tang wen quan	灰汤温泉	261
+hui feng yin hang	汇丰银行	259
+hui guang fan zhao	回光返照	257
+hui yi xi tong	会议系统	240
+hui jiao	回叫	237
+hui xiao	回小	231
+hui bian bian cheng	汇编编程	221
+hui long cun	回龙村	220
+hui xin xi jie nan kou	惠新西街南口	218
+hui hen jiao jia	悔恨交加	217
+hui ji lu	惠济路	213
+hui chang	回肠	212
+hui zi	惠子	212
+hui tian	惠天	207
+hui lei	惠勒	204
+hui dang ling jue ding	会当凌绝顶	202
+hui long guan dong da jie	回龙观东大街	196
+hui kou	灰口	188
+hui hua	汇划	178
+hui mou yi xiao	回眸一笑	175
+hui du gong sheng ju zhen	灰度共生矩阵	170
+hui tu ji zhi	绘图机制	170
+hui neng	慧能	168
+hui quan guang chang	汇泉广场	167
+hui wen shu	回文树	164
+hui feng ji tuan	汇丰集团	152
+hui long	汇龙	143
+hui chang an pai wen ti	会场安排问题	140
+hui zhan zhi shi chan quan	会展知识产权	139
+hui mian	灰面	135
+hui gu	回鹘	132
+hui piao qian fa	汇票签发	130
+hui long qiao	回龙桥	129
+hui wen pan duan	回文判断	128
+hui yin xiao chu	回音消除	127
+hui feng jin xin	汇丰晋信	126
+hui zhi	灰质	124
+hui dong	汇东	118
+hui cui yi tang	荟萃一堂	117
+hui tian zhi li	回天之力	117
+hui jing cheng	惠景城	114
+hui hua ji shu	会话技术	113
+hui yu yi xue	毁于蚁穴	113
+hui min xiao qu	惠民小区	111
+hui ge zi	灰鸽子	109
+hui jia shu nan	毁家纾难	105
+hui min can ting	回民餐厅	104
+hui xin xi jie	惠新西街	103
+hui hai shen	烩海参	102
+hui she fa	会社法	98
+hui shou cheng xu	回收程序	98
+hui tu ji chu	绘图基础	95
+hui gong jie	惠工街	94
+hui li	汇丽	91
+hui long	汇隆	89
+hui wen zi dong ji	回文自动机	86
+hui dou zi	灰豆子	81
+hui suan cai	烩酸菜	81
+hui dang	回档	79
+hui yang za sui	烩羊杂碎	78
+hui shuo fa	回朔法	75
+hui chang dang qi	回肠荡气	74
+hui xian	汇贤	74
+hui sheng hui ying	会声会影	72
+hui xin xi jie bei kou	惠新西街北口	71
+hui zhi	回植	71
+hui chong bing	蛔虫病	70
+hui er bu fei	惠而不费	70
+hui long pu	回龙埔	70
+hui cheng men	会城门	69
+hui long shan	回龙山	69
+hui zhou chou dou fu	徽州臭豆腐	68
+hui min gong mu	回民公墓	67
+hui zhan fa	会展法	65
+hui fu kuai	恢复块	62
+hui yin hui dao	诲淫诲盗	62
+hui gui re	回归热	61
+hui yu	汇宇	60
+hui zhong bei li	慧忠北里	60
+hui long si	回龙寺	59
+hui shan you su	惠山油酥	58
+hui bai cai	烩白菜	57
+hui di	惠帝	54
+hui ye bu gai qi le	回也不改其乐	51
+hui cheng zhen	会城镇	50
+hui zhong li	慧忠里	50
+hui ma shi	烩麻食	49
+hui ru lou	惠如楼	49
+hui chong luan	蛔虫卵	47
+hui yang xian	惠阳县	47
+hui bo lao	灰伯劳	45
+hui cha	灰插	45
+hui ji yi lu	惠济一路	45
+hui quan fan dian	汇泉饭店	45
+hui lan ge	回澜阁	44
+hui yao	灰窑	44
+hui tong ji tuan	汇通集团	43
+hui ci	回次	42
+hui long guan xiao qu	回龙观小区	42
+hui die ke	灰蝶科	41
+hui huan jie dao	惠环街道	41
+hui mou yi xiao bai mei sheng	回眸一笑百媚生	41
+hui wan dou	烩豌豆	41
+hui yin xue	会阴穴	41
+hui xiao chi	烩小吃	40
+hui gong lu	惠工路	39
+hui long guan cheng bei shi chang	回龙观城北市场	38
+hui ya si bao	烩鸭四宝	38
+hui yuan	慧远	38
+hui jin guang chang	汇金广场	36
+hui zhou bing	徽州饼	36
+hui guan he	灰冠鹤	35
+hui piao dui fu	汇票兑付	35
+hui zhi mo ji	悔之莫及	35
+hui min cun	回民村	34
+hui san dan	烩散丹	34
+hui xian ju	汇贤居	34
+hui yin si	烩银丝	34
+hui xin dong qiao	惠新东桥	33
+hui yang shi	惠阳市	33
+hui chuan lu	汇川路	32
+hui jie	灰阶	32
+hui xin li	惠新里	31
+hui yuan	汇园	31
+hui fu shu biao	恢复鼠标	30
+hui lin lv zhou	汇林绿洲	30
+hui bai xiong	灰白熊	29
+hui fan shu	烩番薯	29
+hui bo pu	惠博普	28
+hui ji jun	会稽郡	28
+hui mang bu	回盲部	28
+hui min qu zheng fu	回民区政府	28
+hui neng ji tuan	汇能集团	28
+hui wan diao gong ru man yue	会挽雕弓如满月	28
+hui ci can	灰刺参	27
+hui qiao	灰桥	27
+hui shui guo	烩水果	27
+hui li xiang	会立乡	26
+hui lu gong xing	贿赂公行	26
+hui nan ji	烩南荠	26
+hui sao shi jian	回扫时间	25
+hui tu ji	绘图机	25
+hui xiang chun	茴香醇	25
+hui ya yao er	烩鸭腰儿	25
+hui yu bu yi	毁誉不一	25
+hui tian fu	汇添富	24
+hui ba wo niu	灰巴蜗牛	23
+hui bei ou	灰背鸥	23
+hui shou xiang lai xiao se chu	回首向来萧瑟处	23
+hui tian jiao ye	回天胶业	23
+hui zhi bu ji	悔之不及	23
+hui zhou tao zhi shao rou	徽州桃脂烧肉	23
+hui zu zhen	回族镇	23
+hui fu xiu yan niao	灰腹绣眼鸟	22
+hui long guan xi da jie	回龙观西大街	22
+hui ou	灰鸥	22
+hui you lv xin	回油滤芯	22
+hui yin er	烩银耳	21
+hui zui zi xin	悔罪自新	21
+hui di	灰地	20
+hui min lu kou	惠民路口	20
+hui yu ting zhi yu ren	毁誉听之于人	20
+hui bian shang	挥鞭伤	19
+hui huang mei su	灰黄霉素	19
+hui hui ying	回回营	19
+hui ren mi zhou	慧仁米粥	19
+hui xie rou	烩蟹肉	19
+hui hua liao fa	绘画疗法	18
+hui min qu jiao jing da dui	回民区交警大队	18
+hui shou zi zi qu	挥手自兹去	18
+hui tu hu nan bei	隳突乎南北	18
+hui yin si er	烩银丝儿	18
+hui fei chang	烩肥肠	17
+hui shou cang ku	回收仓库	17
+hui suan lei	烩酸蕾	17
+hui zhou guo zong	徽州裹粽	17
+hui da guang chang	汇达广场	16
+hui fei	惠妃	16
+hui yang jiu ni	回阳救逆	16
+hui yin bi	回音必	16
+hui you fa bao zi	会友发包子	16
+hui zhan fa gui	会展法规	16
+hui du jiao zheng	灰度校正	15
+hui juan wei	灰卷尾	15
+hui yi lian jie	会议连接	15
+hui bu	挥部	14
+hui chun ru yi jiao nang	回春如意胶囊	14
+hui da mo shi	回答模式	14
+hui huang cun	辉煌村	14
+hui xiang zhou	茴香粥	14
+hui xu yi yin san bai bei	会须一饮三百杯	14
+hui qi du	烩脐肚	13
+hui shan lu	徽山路	13
+hui yan ruan gu	会厌软骨	13
+hui zhou yuan zi	徽州圆子	13
+hui bai za sui	烩白杂碎	12
+hui han ta	灰旱獭	12
+hui jie zi	烩节子	12
+hui mie guo jia ji guan gong wen	毁灭国家机关公文	12
+hui suan yan er	烩酸燕儿	12
+hui wang ling	回王陵	12
+hui yao ding er	烩腰丁儿	12
+hui zhan yuan	汇展园	12
+hui ban heng	灰斑鸻	11
+hui min nan	惠民南	11
+hui san si yu chi	烩三丝鱼翅	11
+hui guo yu pian	回锅鱼片	10
+hui ji lv dou gao	回记绿豆糕	10
+hui jing xin yuan	汇景新苑	10
+hui ying zong he zheng	灰婴综合征	10
+hui chong chun jiang wan jing	惠崇春江晚景	9
+hui duo li	汇多利	9
+hui long guan bei zhan	回龙观北站	9
+hui min ying	回民营	9
+hui xin dong qiao nan	惠新东桥南	9
+hui xin hua yuan	汇鑫花园	9
+hui xin yuan	汇鑫苑	9
+hui zhong lu dong kou	慧忠路东口	9
+hui long	廻龙	8
+hui long cun	廻龙村	8
+hui tong tian xia	汇通天下	8
+hui hong zhi shi zhi qi	恢弘志士之气	7
+hui long guan dong zhan	回龙观东站	7
+hui min hua yuan	惠民花园	7
+hui shou cong zi qu	挥手从兹去	7
+hui su ling	回苏灵	7
+hui tan xiang	汇滩乡	7
+hui xiang you	茴香油	7
+hui xin dong qiao bei	惠新东桥北	7
+hui zhai	灰寨	7
+hui chong xing chang geng zu	蛔虫性肠梗阻	6
+hui feng xiao qu	惠丰小区	6
+hui ji wang	会稽王	6
+hui jing ke	灰鲸科	6
+hui tou	汇头	6
+hui tu	喙突	6
+hui xin dong qiao xi	惠新东桥西	6
+hui yu	惠屿	6
+hui yuan ai	灰原哀	6
+hui ze zu yi shi ren	惠则足以使人	6
+hui zhou zhuang yuan fan	徽州状元饭	6
+hui bei bo lao	灰背伯劳	5
+hui dao tian shang qu	回到天上去	5
+hui fang yuan	荟芳园	5
+hui gu bu zhi chun qiu	蟪蛄不知春秋	5
+hui jiao fu xu mi feng hou	悔教夫婿觅封侯	5
+hui jin fan	会津藩	5
+hui lin xiang	回林乡	5
+hui ru tian di chun	会入天地春	5
+hui tong neng yuan	汇通能源	5
+hui xian zhong xue	汇贤中学	5
+hui xin yuan	惠新苑	5
+hui yang	会阳	5
+hui zhou zheng ji	徽州蒸鸡	5
+hui che chi niu qian xiang bei	回车叱牛牵向北	4
+hui chi ye e	灰翅夜蛾	4
+hui cui shan zhuang	汇翠山庄	4
+hui di zhong ying	灰地种蝇	4
+hui dong xiang	汇东乡	4
+hui guo la rou	回锅腊肉	4
+hui hao luo zhi ru yun yan	挥毫落纸如云烟	4
+hui jing xiang	辉景乡	4
+hui nan cun	回南村	4
+hui sheng gan lu wan	回生甘露丸	4
+hui sheng zai zao wan	回生再造丸	4
+hui shou feng luan ru mang cang	回首峰峦入莽苍	4
+hui shou jian jing qi	回首见旌旗	4
+hui wen	惠雯	4
+hui xiang yao tai yue xia feng	会向瑶台月下逢	4
+hui xin dong qiao dong	惠新东桥东	4
+hui xue	会穴	4
+hui yan nang zhong	会厌囊肿	4
+hui yu cun	惠屿村	4
+hui zhou lu	惠州路	4
+hui zong	惠宗	4
+hui zong	会宗	4
+hui zu nian zhuan er	回族碾馔儿	4
+hui biao chui san wu feng xue	回飙吹散五峰雪	3
+hui chang cheng wai gao feng	会昌城外高峰	3
+hui dun ban shi chu	灰墩办事处	3
+hui feng jin xin long teng	汇丰晋信龙腾	3
+hui ji yu fu qing mai chen	会稽愚妇轻买臣	3
+hui jue	蛔厥	3
+hui long guan di er xiao xue	回龙观第二小学	3
+hui long qiao	会龙桥	3
+hui long wan cun	回龙湾村	3
+hui lu tou	灰炉头	3
+hui min guo yuan	回民果园	3
+hui min yuan xiao qu	汇珉园小区	3
+hui qi le	汇其乐	3
+hui shi qi	惠士奇	3
+hui tou xia wang ren huan chu	回头下望人寰处	3
+hui wu gui dan	烩乌龟蛋	3
+hui xue piao yao zhuan peng wu	回雪飘飖转蓬舞	3
+hui yu xi he wai mian chi	会于西河外渑池	3
+hui zhan da jie	会战大街	3
+hui zhou dao	徽州道	3
+hui zhuang tou pi	回状头皮	3
+hui zu mai ya tang	回族麦芽糖	3
+hui bao ji tuan	汇宝集团	2
+hui bi xing ren ge zhang ai	回避型人格障碍	2
+hui chang jie dao	会昌街道	2
+hui chun xian	珲春县	2
+hui cong yuan	慧聪园	2
+hui er bu zhi wei zheng	惠而不知为政	2
+hui feng xin cun	汇丰新村	2
+hui fu tu bian	回复突变	2
+hui fu xing si fa lun tan	恢复性司法论坛	2
+hui gong li jiao qiao	惠工立交桥	2
+hui hou zhen wei yu yan	灰喉针尾雨燕	2
+hui ji san lu	惠济三路	2
+hui ji xiang	惠济乡	2
+hui jiao liu ying	灰脚柳莺	2
+hui jin yin si	烩金银丝	2
+hui kao fu	会考府	2
+hui la xi tan ke li	茴拉西坦颗粒	2
+hui liu fa	回流法	2
+hui long chang xiang	回龙场乡	2
+hui long he ban shi chu	回龙河办事处	2
+hui long xin cun	惠龙新村	2
+hui mie xiao ying	毁灭效应	2
+hui min ha ni zu xiang	惠民哈尼族乡	2
+hui ping xiang	回坪乡	2
+hui sheng di yi dan jiao nang	回生第一丹胶囊	2
+hui shou bai yun di	回首白云低	2
+hui shou mian	回手面	2
+hui shu hua bao jian yin liao	灰树花保健饮料	2
+hui su mu	辉苏木	2
+hui tong guang chang	汇通广场	2
+hui xiang quan	茴香醛	2
+hui yin qie kai shu	会阴切开术	2
+hui yu liao	鮰鱼料	2
+hui zheng lu	惠政路	2
+hui zhong bei li di yi she qu	慧忠北里第一社区	2
+hui zhong li di yi she qu	慧忠里第一社区	2
+hui an xiang	惠安乡	1
+hui bei cun	回北村	1
+hui bei da wu shu	灰背大鼯鼠	1
+hui bu dang shi liu zhu	悔不当时留住	1
+hui cao liu fang gen	蕙草留芳根	1
+hui ce hai gu zhou	挥策还孤舟	1
+hui chang bi yuan	灰长臂猿	1
+hui cheng xin cun	汇城新村	1
+hui chi ou	灰翅鸥	1
+hui chi zao mei	灰翅噪鹛	1
+hui chun jiao nang	回春胶囊	1
+hui cun zhen	麾村镇	1
+hui dao cui che zhe ji shi	会到摧车折楫时	1
+hui dong	惠栋	1
+hui feng jin xin ji jin	汇丰晋信基金	1
+hui feng niao	辉风鸟	1
+hui fu	惠夫	1
+hui guan cun lv jian	回观村闾间	1
+hui han su chun tian	挥翰宿春天	1
+hui hu	会湖	1
+hui juan ju	灰鹃鵙	1
+hui kan tao li dou wu se	回看桃李都无色	1
+hui kan tian ji xia zhong liu	回看天际下中流	1
+hui kan xue lei xiang he liu	回看血泪相和流	1
+hui lan nan yuan	洄澜南苑	1
+hui lang yi cun xiang si di	回廊一寸相思地	1
+hui long cheng	惠龙城	1
+hui long guan xiao qu dong zhan	回龙观小区东站	1
+hui mian an ke zhi	会面安可知	1
+hui nan	慧南	1
+hui nan jia yuan	回南家园	1
+hui quan shan xia tu ru ru	惠泉山下土如濡	1
+hui she mao can	灰蛇锚参	1
+hui shi chao mian	徽式炒面	1
+hui shou shi ping wu	回首是平芜	1
+hui shui zhen	洄水镇	1
+hui su lin	回苏林	1
+hui tian zai zao wan	回天再造丸	1
+hui tong lu kou	会同路口	1
+hui tou wen qi zi	回头问妻子	1
+hui tou wen shuang shi	回头问双石	1
+hui tui bai tun ye hou	灰腿白臀叶猴	1
+hui wang li yue yi	回忘礼乐矣	1
+hui wang ren yi yi	回忘仁义矣	1
+hui xiang ju he wan	茴香桔核丸	1
+hui xiang ju he wan	茴香橘核丸	1
+hui xin fan chu yi	回心反初役	1
+hui xu yi xi huang mao zhang	会须一洗黄茅瘴	1
+hui xue piao yao zhuan peng wu	回雪飘摇转蓬舞	1
+hui ye wen yi yi zhi shi	回也闻一以知十	1
+hui yin shan	会阴疝	1
+hui you you ren ke yu gong	会有幽人客寓公	1
+hui yu du pian	鮰鱼肚片	1
+hui zhang jiao tian niu	灰长角天牛	1
+hui zhong li di er she qu	慧忠里第二社区	1
+hui zhong lu xi kou	慧忠路西口	1
+hui zhou yuan zi	徽州园子	1
+hui zhou zhuang cun	徽州庄村	1
+hui zu zheng ai ye	回族蒸艾叶	1
+hui zuo shang ren fu	悔作商人妇	1
+hui ao zhou bi yu	灰澳洲躄鱼	0
+hui ba weng	灰霸鹟	0
+hui bai deng e	灰白灯蛾	0
+hui bai ge wu	灰白歌鹀	0
+hui bai juan ju	灰白鹃鵙	0
+hui bai su zhou e	灰白夙舟蛾	0
+hui bai tiao juan ye e	灰白条卷叶蛾	0
+hui bai tiao xiao juan e	灰白条小卷蛾	0
+hui bai xiao ba weng	灰白小霸鹟	0
+hui bai zhi ying	灰白植蝇	0
+hui ban an tian niu	灰斑安天牛	0
+hui ban hu ma tian niu	灰斑胡麻天牛	0
+hui ban ni hei hua jin gui	灰斑拟黑花金龟	0
+hui ban qu zui jiao liao	灰斑曲嘴鹪鹩	0
+hui ban weng	灰斑鶲	0
+hui ban xin yuan zhu	灰斑新园蛛	0
+hui ban ye shan hu	灰瓣叶珊瑚	0
+hui ban yi li yu	灰斑鮨丽鱼	0
+hui bei ba weng	灰悲霸鹟	0
+hui bei duo ban ba weng	灰背多斑霸鹟	0
+hui bei feng ye ying	灰背缝叶莺	0
+hui bei ji ba weng	灰背唧霸鹟	0
+hui bei ju zui jiao liao	灰背锯嘴鹪鹩	0
+hui bei shan wei ying	灰背扇尾莺	0
+hui bei yan ou	灰背燕鸥	0
+hui bei yan wei	灰背燕尾	0
+hui bei ye dong	灰背夜鸫	0
+hui bei zhang wei bo lao	灰背长尾伯劳	0
+hui bei zhi xian zhi li	灰背直线脂鲤	0
+hui bian long tou yu	灰扁隆头鱼	0
+hui bian zhai ni yu	灰边宅泥鱼	0
+hui biao zhu yan die	灰标竹眼蝶	0
+hui bo wei chi e	灰波维尺蛾	0
+hui ceng yan wu	灰层岩鹀	0
+hui cha biao shi shou yu	灰叉鳔石首鱼	0
+hui cha chi e	灰茶尺蛾	0
+hui cha wei hai yan	灰叉尾海燕	0
+hui chi chuan zhu huan die	灰翅串珠环蝶	0
+hui chi e	辉尺蛾	0
+hui chi ge bi	灰翅歌鵖	0
+hui chi la ba niao	灰翅喇叭鸟	0
+hui chi la ba sheng he	灰翅喇叭声鹤	0
+hui chi xiao juan e	灰翅小卷蛾	0
+hui chi ye ban e	灰翅叶斑蛾	0
+hui chi yin jia que	灰翅印加雀	0
+hui chi ying ge	辉翅鹦哥	0
+hui chun zhi	灰唇指	0
+hui ci e	灰刺蛾	0
+hui ci gai yu	灰刺盖鱼	0
+hui dai ci hu tian niu	灰带刺虎天牛	0
+hui dai huang guan piao chong	灰带黄祼瓢虫	0
+hui dai huang luo piao chong	灰带黄裸瓢虫	0
+hui dai shi ban yu	灰带石斑鱼	0
+hui dai suo tian niu	灰带琐天牛	0
+hui dai wen niao	灰带文鸟	0
+hui dai ye e	灰歹夜蛾	0
+hui deng tui ji ying	灰等腿寄蝇	0
+hui di ba weng	灰地霸鹟	0
+hui di chi e	灰涤尺蛾	0
+hui dian chi du e	灰点翅毒蛾	0
+hui diao xiao	灰雕鸮	0
+hui die ya ke	灰蝶亚科	0
+hui die zong ke	灰蝶总科	0
+hui ding ba weng	灰顶霸鹟	0
+hui ding duan zui ba weng	灰顶短嘴霸鹟	0
+hui ding xiao ba weng	灰顶小霸鹟	0
+hui ding ying	灰顶莺	0
+hui ding ying ge	灰顶鹦哥	0
+hui ding zhai zui ba weng	灰顶窄嘴霸鹟	0
+hui ding zhuo mu niao	灰顶啄木鸟	0
+hui ding zong lv tang na que	灰顶棕榈唐纳雀	0
+hui e ci wei yu	灰额刺尾鱼	0
+hui e ji jiu	灰额鸡鸠	0
+hui e ya ba weng	灰额哑霸鹟	0
+hui e zhu hong que	灰额主红雀	0
+hui e zong chi jiu	灰额棕翅鸠	0
+hui fen wei mang shi chong meng	灰粉微芒食虫虻	0
+hui feng hu	灰风鹱	0
+hui feng shui chan gong si	慧丰水产公司	0
+hui feng tou ying wu	辉凤头鹦鹉	0
+hui feng ye ying	灰缝叶莺	0
+hui fu cui feng niao	辉腹翠蜂鸟	0
+hui fu ju ba weng	灰腹鵙霸鹟	0
+hui fu shu	灰腹鼠	0
+hui fu shui qu	灰腹水鼩	0
+hui fu zhen wei que	灰腹针尾雀	0
+hui gai ni hua yi	灰盖拟花鮨	0
+hui ge ying	灰歌鹰	0
+hui gou mu yu fang ban gou	灰狗母鱼方斑狗	0
+hui gu niang juan fen die	灰姑娘绢粉蝶	0
+hui guan ba weng	灰冠霸鹟	0
+hui guan dong ying	灰冠鸫莺	0
+hui guan hei que	灰冠黑雀	0
+hui guan huang hou di ying	灰冠黄喉地莺	0
+hui guan que wu	灰冠雀鹀	0
+hui guan shan wei ying	灰冠扇尾莺	0
+hui guan xuan mu bei	灰冠旋木鹎	0
+hui guang chi xiao juan e	灰广翅小卷蛾	0
+hui guang sai que diao	灰光鳃雀鲷	0
+hui guang wei sha	灰光尾鲨	0
+hui hai xu	灰海鱮	0
+hui he a hu xia hu yu	灰褐阿胡鰕虎鱼	0
+hui he dai e	灰褐带蛾	0
+hui he hua mi niao	灰褐花蜜鸟	0
+hui he pu tao tian e	灰褐葡萄天蛾	0
+hui he qie ye ye ming	灰褐切叶野螟	0
+hui hei ao hu	灰黑澳虎	0
+hui hei mei zhou shi gui	灰黑美洲石鱥	0
+hui hei piao qi xia hu yu	灰黑瓢鳍鰕虎鱼	0
+hui hei qing ting	灰黑蜻蜓	0
+hui hei shang feng die	辉黑裳凤蝶	0
+hui hei weng	灰黑鹟	0
+hui hei ye ling	灰黑野鲮	0
+hui hei yi niao	辉黑蚁鸟	0
+hui hei yin yan die	灰黑荫眼蝶	0
+hui hou guan cong tang na que	灰喉灌丛唐纳雀	0
+hui hou ka xi ba weng	灰喉卡西霸鹟	0
+hui hou que weng	灰喉雀鹟	0
+hui hou xiu yan niao	灰喉绣眼鸟	0
+hui hou yi ju	灰喉蚁鵙	0
+hui hou ying ba weng	灰喉蝇霸鹟	0
+hui hou ying wei que	灰喉硬尾雀	0
+hui hou zhen wei que	灰喉针尾雀	0
+hui hou zhi zui xi mi niao	灰喉直嘴吸蜜鸟	0
+hui hou zui ba weng	灰厚嘴霸鹟	0
+hui hu du fu yu	灰湖杜父鱼	0
+hui huang ao zhou man nian	灰黄澳洲鳗鲶	0
+hui huang di chi e	灰黄涤尺蛾	0
+hui huang hou mang chun	灰黄厚盲蝽	0
+hui huang jiu	灰皇鸠	0
+hui huang tang jia la que	灰黄唐加拉雀	0
+hui huang wang sen ying	灰黄王森莺	0
+hui huang wo e ying ye jia	灰黄窝额萤叶甲	0
+hui huang zhuo mu niao	灰黄啄木鸟	0
+hui ji ba weng	灰姬霸鹟	0
+hui ji chun	灰姬蝽	0
+hui ji lie chun	灰姬猎蝽	0
+hui ji wei que	灰棘尾雀	0
+hui ji zhuo mu niao	灰姬啄木鸟	0
+hui ji zhuo mu niao	辉姬啄木鸟	0
+hui jia guan bei	灰颊冠鹎	0
+hui jia mei hua que	灰颊梅花雀	0
+hui jia xian weng	灰颊仙鶲	0
+hui jia ye dong	灰颊夜鸫	0
+hui jia ying ge	灰颊鹦哥	0
+hui jian wei chi e	灰尖尾尺蛾	0
+hui jiao jian fen die	灰角尖粉蝶	0
+hui jie dong ye e	辉睫冬夜蛾	0
+hui jie nang pi can	灰揭囊皮参	0
+hui jin guan xiu yan niao	灰巾冠绣眼鸟	0
+hui jin ying ge	灰巾鹦哥	0
+hui jing lv ying que	灰颈绿莺雀	0
+hui jing wu	灰颈鹀	0
+hui jing xie	灰晶蝎	0
+hui jing yi chi zhou e	灰颈异齿舟蛾	0
+hui juan wei	辉卷尾	0
+hui jue xue que	灰掘穴雀	0
+hui ke chi que diao	灰刻齿雀鲷	0
+hui man luo	灰鬘螺	0
+hui mao dao yu xiao ye jia	灰毛岛屿肖叶甲	0
+hui mao heng ji ye chan	灰毛横脊叶蝉	0
+hui meng	灰獴	0
+hui mo zhi huan chong	喙膜指环虫	0
+hui nuo man	灰糯鳗	0
+hui rong xin dun kou jia	灰茸心盾叩甲	0
+hui se lian zhu huan die	灰色链珠环蝶	0
+hui se xiao ba weng	灰色小霸鹟	0
+hui sha huang die chi e	灰沙黄蝶尺蛾	0
+hui shan wei weng	灰扇尾鹟	0
+hui shi ning chi jiang	惠氏泞齿鳉	0
+hui suan pan ha	灰算盘蛤	0
+hui ti dan xian wei	灰体单线鳚	0
+hui tou feng tou ying	灰头凤头鹰	0
+hui tou lin ge	灰头林鸽	0
+hui wan jiao hu	灰弯脚虎	0
+hui wei jiao liao	灰苇鹪鹩	0
+hui wei mei zhou yao juan	灰尾美洲咬鹃	0
+hui wei pi pa jia	喙尾琵琶甲	0
+hui wei piao yu	灰尾漂鹬	0
+hui xiang bao chi ye ming	茴香薄翅野螟	0
+hui xiao zhang zhou e	灰小掌舟蛾	0
+hui xie dou wei di que	灰胁抖尾地雀	0
+hui xing fu shi zi yu	彗星副狮子鱼	0
+hui xing sha dan	灰星鲨胆	0
+hui xiong dao chi feng niao	灰胸刀翅蜂鸟	0
+hui xiong zhang wei ba weng	灰胸长尾霸鹟	0
+hui yan ban piao chong	灰眼斑瓢虫	0
+hui yao shi hu die	汇药石蝴蝶	0
+hui yuan zhou e	灰远舟蛾	0
+hui zhang ji qiu chong	徽章棘球虫	0
+hui zhi wen luo	灰織紋螺	0
+hui zhi wen ming	灰直纹螟	0

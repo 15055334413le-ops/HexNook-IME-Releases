@@ -1,0 +1,354 @@
+huo guo	火锅	324863
+huo bi	货币	94665
+huo che zhan	火车站	77564
+huo li	获利	41787
+huo qu shu ju	获取数据	34435
+huo tui chang	火腿肠	21994
+huo zhun	获准	18948
+huo long guo	火龙果	11229
+huo qu tu pian	获取图片	9646
+huo shan	火山	8792
+huo dong zhuang tai	活动状态	6230
+huo qu jiao dian	获取焦点	5490
+huo qu can shu	获取参数	4721
+huo mian	豁免	4680
+huo zhen jia shi	货真价实	4548
+huo che zhan guang chang	火车站广场	3817
+huo che bei zhan	火车北站	3711
+huo che nan zhan	火车南站	3644
+huo yan jin jing	火眼金睛	3616
+huo qu dang qian shi jian	获取当前时间	3414
+huo bi hua	货币化	3295
+huo pi	获批	3259
+huo qu shi jian	获取时间	3228
+huo shang jiao you	火上浇油	3036
+huo gong dian	火宫殿	3012
+huo ling huo xian	活灵活现	2770
+huo hu liu lan qi	火狐浏览器	2663
+huo ran kai lang	豁然开朗	2519
+huo che dong zhan	火车东站	2514
+huo chang	货场	2499
+huo wu yun shu bao xian	货物运输保险	2450
+huo luan	霍乱	2411
+huo guang chong tian	火光冲天	2386
+huo beng luan tiao	活蹦乱跳	2363
+huo xue	活血	2307
+huo dian chang	火电厂	2052
+huo qu lu jing	获取路径	1898
+huo qu yong hu xin xi	获取用户信息	1747
+huo qu zhi	获取值	1743
+huo gen hai mu sai dao	霍根海姆赛道	1608
+huo xing gai	活性钙	1600
+huo yun zhan	货运站	1585
+huo jin	霍金	1559
+huo bu dan xing	祸不单行	1547
+huo kou	豁口	1531
+huo dong tu	活动图	1520
+huo zai bao xian	火灾保险	1401
+huo mao san zhang	火冒三丈	1352
+huo de bao chou quan	获得报酬权	1307
+huo yi fei qian	获益匪浅	1280
+huo fu man	霍夫曼	1095
+huo jing	火井	1085
+huo xue hua yu	活血化瘀	967
+huo ying dong	霍英东	945
+huo yan shan	火焰山	875
+huo jian	活检	872
+huo qu lian xi ren	获取联系人	849
+huo qu biao qian	获取标签	847
+huo yun shi chang	货运市场	841
+huo shan	霍山	817
+huo dong jin cheng	活动进程	785
+huo qu xi tong shi jian	获取系统时间	785
+huo se sheng xiang	活色生香	768
+huo che zhan dong	火车站东	720
+huo che xi zhan	火车西站	699
+huo qiu	霍邱	675
+huo bi hua an zhi	货币化安置	667
+huo jian hua	霍建华	646
+huo shu yin hua	火树银花	617
+huo shao che	火烧车	560
+huo qu ban ben hao	获取版本号	550
+huo bi liu tong	货币流通	549
+huo dong mu lu	活动目录	542
+huo qu wang luo tu pian	获取网络图片	539
+huo ji huo liao	火急火燎	532
+huo dong fen qu	活动分区	486
+huo guo yang min	祸国殃民	479
+huo qu guo cheng	获取过程	464
+huo cheng	霍城	462
+huo fu bian huan	霍夫变换	451
+huo yuan jia	霍元甲	422
+huo kuan tuo qian	货款拖欠	400
+huo zhong qu li	火中取栗	400
+huo che zhan nan	火车站南	392
+huo dao lao xue dao lao	活到老学到老	369
+huo che zhan bei guang chang	火车站北广场	368
+huo shao mei mao	火烧眉毛	367
+huo ying	霍营	353
+huo bao yao hua	火爆腰花	344
+huo che zhan xi guang chang	火车站西广场	343
+huo cong tian jiang	祸从天降	342
+huo fu man bian ma	霍夫曼编码	342
+huo cong kou chu	祸从口出	333
+huo jia	获嘉	327
+huo tui yue bing	火腿月饼	317
+huo dong xing fei jie he	活动性肺结核	297
+huo shang jia you	火上加油	296
+huo men	或门	284
+huo jing shi zi	火晶柿子	278
+huo shi wu	或事物	278
+huo wu yun shu bao xian he tong	货物运输保险合同	271
+huo lin guo lei shi	霍林郭勒市	262
+huo si yan	霍思燕	256
+huo bi zhan zheng	货币战争	254
+huo zhou shi	霍州市	254
+huo che zhan xi	火车站西	252
+huo dong ye	活动页	247
+huo xing zuo biao	火星坐标	234
+huo ju lu	火炬路	217
+huo bian zi niu rou	火边子牛肉	214
+huo qi jin	霍奇金	208
+huo shen miao	火神庙	207
+huo luan hu jun	霍乱弧菌	203
+huo shu yin hua bu ye tian	火树银花不夜天	200
+huo fei er de	霍菲尔德	199
+huo bu si	霍布斯	184
+huo dong wen jian	活动文件	183
+huo xing jie dao	火星街道	178
+huo qu bing	霍去病	172
+huo ti jie pou	活体解剖	161
+huo guo fen	火锅粉	160
+huo shao huo liao	火烧火燎	156
+huo ying	火影	146
+huo zhou	火洲	144
+huo luo you	活络油	135
+huo xiang zheng qi wan	藿香正气丸	131
+huo li ji zhong	火力集中	129
+huo yi miao	活疫苗	122
+huo huan chang ji yu hu wei	祸患常积于忽微	119
+huo qi xiao qiang	祸起萧墙	117
+huo fei men	或非门	116
+huo ju ji	火局鸡	116
+huo shan lu	霍山路	110
+huo er jin na	霍尔金娜	105
+huo ji san ming zhi	火鸡三明治	105
+huo che nan zhan jie dao	火车南站街道	104
+huo guang	霍光	98
+huo pao qian yin che	火炮牵引车	91
+huo dong mu ban ku	活动模板库	90
+huo che yun shu	货车运输	89
+huo gong dian chou dou fu	火宫殿臭豆腐	88
+huo tui dun jia yu	火腿炖甲鱼	86
+huo ju da sha	火炬大厦	83
+huo che bei zhan gong jiao zhan	火车北站公交站	82
+huo lian jin shen	火炼金身	78
+huo qi ying	火器营	77
+huo tui dou men fan	火腿豆焖饭	74
+huo cheng yan	火成岩	73
+huo jia pi	霍加狓	72
+huo wa xiang	火瓦巷	67
+huo xi fu suo yi	祸兮福所倚	67
+huo da da du	豁达大度	66
+huo qing yu hong mao	或轻于鸿毛	66
+huo zhong yu tai shan	或重于泰山	64
+huo fu xiang yi	祸福相依	63
+huo xiang zheng qi jiao nang	藿香正气胶囊	62
+huo bi zhu yi	货币主义	61
+huo ma ren	火麻仁	59
+huo xi fu zhi suo yi	祸兮福之所倚	59
+huo xue qu yu	活血祛瘀	59
+huo wu suo you quan zhuan yi	货物所有权转移	57
+huo xiang zheng qi kou fu ye	藿香正气口服液	57
+huo lu	获鹿	56
+huo tui ba ba	火腿粑粑	56
+huo yan	火烟	56
+huo ti jian yan	活体检验	55
+huo shang tian you	火上添油	54
+huo xue tiao jing	活血调经	52
+huo du	火毒	51
+huo xue tong jing	活血通经	51
+huo tui bing	火腿饼	47
+huo shao zhu rou	火烧猪肉	46
+huo luan bing	霍乱病	43
+huo xing tan guan dian ci fa	活性炭罐电磁阀	42
+huo bao fei chang	火爆肥肠	37
+huo xiang zheng qi ruan jiao nang	藿香正气软胶囊	35
+huo lu xian	获鹿县	34
+huo bi fang wei	货币防伪	33
+huo xiang zheng qi di wan	藿香正气滴丸	33
+huo qi shang	火器伤	32
+huo nong	和弄	31
+huo long huo xian	活龙活现	30
+huo tui da tou cai su	火腿大头菜酥	29
+huo xi	霍西	29
+huo tui bai cai	火腿白菜	28
+huo shao qiao	火烧桥	27
+huo shan ming	火山鸣	26
+huo xiang zheng qi san	藿香正气散	26
+huo sai xiao	活塞肖	25
+huo shan ming quan	火山鸣泉	25
+huo yao ju	火药局	23
+huo ni le	活腻了	22
+huo shao dong sun	火烧冬笋	22
+huo zhan lu	货站路	22
+huo mo da yu bu zhi zu	祸莫大于不知足	21
+huo you yao qiu quan	或有要求权	21
+huo tui ji si juan	火腿鸡丝卷	20
+huo tui ji za er si	火腿鸡杂饵丝	20
+huo xian	霍县	20
+huo chang lu	货场路	19
+huo che xi zhan jie dao	火车西站街道	19
+huo qiu lu	霍邱路	19
+huo cai huo shen zhi du	或裁或审制度	18
+huo si lu	火寺路	18
+huo tao	霍韬	18
+huo yan bei	火焰贝	18
+huo bei dou fu	火焙豆腐	17
+huo che nan zhan gong jiao zhan	火车南站公交站	17
+huo shao ping	火烧坪	17
+huo chang	货厂	15
+huo xiang zheng qi pian	藿香正气片	15
+huo tui yu	火腿鱼	14
+huo bao du tou	火爆肚头	13
+huo guo niu rou fen	火锅牛肉粉	13
+huo zhuang cun	霍庄村	13
+huo che tou wai mao cheng	火车头外贸城	12
+huo ju she qu	火炬社区	12
+huo shao ci gu	火烧茨菰	12
+huo xue zhi tong jiao nang	活血止痛胶囊	12
+huo zhong yu chi	火踵鱼翅	12
+huo bao shuang cui	火爆双脆	11
+huo dong xing gan yan	活动性肝炎	11
+huo mian jiao	火棉胶	11
+huo shu yin hua he	火树银花合	11
+huo xue jie du	活血解毒	11
+huo zuan li yu	活钻鲤鱼	11
+huo chang tu jia zu xiang	火场土家族乡	10
+huo dong qu dong qi	活动驱动器	10
+huo li yuan kou fu ye	活力源口服液	10
+huo qu bing mu	霍去病墓	10
+huo tui da bai bing	火腿大白饼	10
+huo tui tu si	火腿土司	10
+huo la mu sha he er	霍拉姆沙赫尔	9
+huo shao dao	火烧岛	9
+huo xue zhi tong gao	活血止痛膏	9
+huo zai bao zha wei xian chang suo	火灾爆炸危险场所	9
+huo bao li zhi yao	火爆荔枝腰	8
+huo xian zhen zheng fu	漷县镇政府	8
+huo er bu cong shi	惑而不从师	7
+huo ju gong ye qu	火炬工业区	7
+huo tan mu	火炭母	7
+huo tui chao jia gua	火腿炒茄瓜	7
+huo tui luo bo si su bing	火腿萝卜丝酥饼	7
+huo ying xiang	霍营乡	7
+huo ba hua gen pian	火把花根片	6
+huo dian san gong si	火电三公司	6
+huo ji hong ban	火激红斑	6
+huo kong shi tong xiang	或恐是同乡	6
+huo luo zhi tong wan	活络止痛丸	6
+huo shao bi	火烧壁	6
+huo shen ying	火神营	6
+huo shi zhou	火石洲	6
+huo bao yao kuai	火爆腰块	5
+huo che bei zhan dong guang chang	火车北站东广场	5
+huo er mu si xue yuan	霍尔姆斯学院	5
+huo yao ju hu tong	火药局胡同	5
+huo chang da jie	货场大街	4
+huo che nan zhan dong lu kou	火车南站东路口	4
+huo cun kou	火村口	4
+huo dou	霍都	4
+huo dun	火遁	4
+huo ju jie dao	火炬街道	4
+huo li cun	活力村	4
+huo piao	豁飘	4
+huo shao liao	火烧寮	4
+huo tui su yao	火腿酥腰	4
+huo xue jiao nang	活血胶囊	4
+huo xue yao jiu	活血药酒	4
+huo yan shan shan shan long	火焰山鄯善龙	4
+huo bi yin hang xue	货币银行学	3
+huo dong jiao zhi qi	活动矫治器	3
+huo ge zhuang zhen	霍各庄镇	3
+huo pu xia ling tang	藿朴夏苓汤	3
+huo shao zhai xiang	火烧寨乡	3
+huo xiang qu shu ruan jiao nang	藿香祛暑软胶囊	3
+huo xiang zheng qi ke li	藿香正气颗粒	3
+huo xue feng shi gao	活血风湿膏	3
+huo xue zhi tong pian	活血止痛片	3
+huo zai ze ren shi gu ren ding	火灾责任事故认定	3
+huo zhi guo	火之国	3
+huo zhi zhang er yun zi	或植杖而耘耔	3
+huo bao zhu gan	火爆猪肝	2
+huo bian niu rou	火鞭牛肉	2
+huo che nan zhan ji chang lu	火车南站机场路	2
+huo che zhan ju wei hui	火车站居委会	2
+huo de xing zhuang	获得性状	2
+huo er ba xiang	霍尔巴乡	2
+huo hou jie	火后街	2
+huo ji huo bao yao	或疾或暴夭	2
+huo ju zhen	火炬镇	2
+huo kui zhang	霍揆章	2
+huo li su kou fu ye	活力苏口服液	2
+huo qu zhu huai bao	或取诸怀抱	2
+huo shui cun	活水村	2
+huo shui hai xu huo huo peng	活水还须活火烹	2
+huo tun	霍屯	2
+huo xue zhuang jin wan	活血壮筋丸	2
+huo yi er zhe zhi wei	或异二者之为	2
+huo yin ji suo tuo	或因寄所托	2
+huo zhi gao	火炙糕	2
+huo zhi jiu er zhao zhi	或置酒而招之	2
+huo bai bu er hou zhi	或百步而后止	1
+huo bao zhu du	火爆猪肚	1
+huo che bang	火车浜	1
+huo jun	霍峻	1
+huo ke chong yang geng yi lai	或可重阳更一来	1
+huo leng deng xi shuang lu xia	火冷灯稀霜露下	1
+huo lie xiang	火烈乡	1
+huo luan zhuan jin	霍乱转筋	1
+huo ping ji xue shu	或凭几学书	1
+huo qi ying di san she qu	火器营第三社区	1
+huo qiang wu zei	火枪乌贼	1
+huo shan chi cui wei	火山赤崔巍	1
+huo shan zhang	火山嶂	1
+huo shao tou wei	火烧头尾	1
+huo shen miao hu tong	火神庙胡同	1
+huo shou yi	霍守义	1
+huo sui qie duan shu	活髓切断术	1
+huo tui dou chi	火腿豆豉	1
+huo tui luo bo si tang	火腿萝卜丝汤	1
+huo wei kong zi yue	或谓孔子曰	1
+huo wu shi bu er hou zhi	或五十步而后止	1
+huo xian cun	漷县村	1
+huo xiang qing wei jiao nang	藿香清胃胶囊	1
+huo xiao wen shang weng	获笑汶上翁	1
+huo xue jie du wan	活血解毒丸	1
+huo xue tong mai pian	活血通脉片	1
+huo xue xiao yan wan	活血消炎丸	1
+huo xue ying tong wan	活血应痛丸	1
+huo xue zhi tong san	活血止痛散	1
+huo yan zi	火焰子	1
+huo yun man shan ning wei kai	火云满山凝未开	1
+huo che piao	霍撤瓢	0
+huo di dao yang ji	火地岛秧鸡	0
+huo hong qu weng	火红鸲鹟	0
+huo mu jiao jia lu gui	霍姆绞甲陆龟	0
+huo nu lu bo li gou xia	火奴鲁玻璃钩虾	0
+huo nuo ying tou yu	霍诺硬头鱼	0
+huo ou dan ni si dao wa	霍欧丹尼斯道瓦	0
+huo po huang shui zao	活泼黄水蚤	0
+huo po ni xiao xiong chong	活泼拟小胸虫	0
+huo shi bian tou xia hu yu	霍氏扁头鰕虎鱼	0
+huo shi jiao an kang	霍氏角鮟鱇	0
+huo shi shi wen jing	霍氏匙吻鲸	0
+huo shi si dian shuang bian yu	霍式四点双边鱼	0
+huo shi zhong du juan	霍氏中杜鹃	0
+huo tu deng	火兔灯	0
+huo tu deng yu	火兔灯鱼	0
+huo tui rou wan shao hai shen	火腿肉丸烧海参	0
+huo wei xi mei	火尾希鹛	0
+huo xi ma jia ni hai si luo	霍西马加尼海蛳螺	0
+huo yan bei ke	火焰贝壳	0
+huo yan niu kou	火焰钮扣	0
+huo yue xiao min zhu	活跃小皿蛛	0

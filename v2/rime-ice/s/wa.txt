@@ -1,0 +1,560 @@
+wa jue	挖掘	244950
+wa wa	娃娃	152500
+wa ha ha	娃哈哈	92268
+wa zi	袜子	84025
+wa si	瓦斯	64485
+wa jue ji	挖掘机	55770
+wa ha	哇哈	42141
+wa ha ha	哇哈哈	42141
+wa jie	瓦解	37085
+wa chu	挖出	32240
+wa er	瓦尔	28650
+wa le	挖了	16245
+wa ku	挖苦	15875
+wa te	瓦特	15505
+wa di	洼地	14160
+wa wa	哇哇	13915
+wa qian	挖潜	12685
+wa jue chu	挖掘出	12455
+wa dao	挖到	12015
+wa keng	挖坑	11990
+wa lun xi ya	瓦伦西亚	11900
+wa jue ji xie	挖掘机械	10950
+wa er	娃儿	10930
+wa yao	瓦窑	10325
+wa kong xin si	挖空心思	10030
+wa bi	挖币	9999
+wa er shao	挖耳勺	9999
+wa hui	瓦灰	9999
+wa ka	哇咔	9999
+wa ka wa ka	哇咔哇咔	9999
+wa nu a tu gong he guo	瓦努阿图共和国	9999
+wa o	哇哦	9999
+wa pen	瓦盆	9999
+wa sai	哇噻	9999
+wa pian	瓦片	9945
+wa zu	佤族	9805
+wa yong	蛙泳	9525
+wa fang	瓦房	9430
+wa fang dian	瓦房店	9255
+wa leng	瓦楞	9190
+wa lun	瓦伦	9160
+wa kuang	挖矿	9090
+wa zi	娃子	8340
+wa li	瓦砾	8030
+wa ge na	瓦格纳	7950
+wa de	挖的	7885
+wa chu lai	挖出来	7665
+wa gong	瓦工	7315
+wa si bao zha	瓦斯爆炸	7215
+wa guan	瓦罐	7070
+wa ye	袜业	6760
+wa zou	挖走	6735
+wa kai	挖开	6585
+wa wa lian	娃娃脸	6270
+wa leng zhi ban	瓦楞纸板	6230
+wa leng zhi xiang	瓦楞纸箱	6200
+wa tu	挖土	6000
+wa ren	挖人	5745
+wa fang dian shi	瓦房店市	5715
+wa cao	哇操	5555
+wa ge	挖个	5555
+wa wu	瓦屋	5490
+wa jue qian li	挖掘潜力	5215
+wa wa yu	娃娃鱼	5105
+wa de	瓦德	5045
+wa dang	瓦当	4765
+wa er te	瓦尔特	4710
+wa kong	挖空	4695
+wa er de	瓦尔德	4130
+wa lai	挖来	4120
+wa mei	挖煤	3995
+wa qu	挖去	3885
+wa leng zhi	瓦楞纸	3795
+wa xi li	瓦西里	3685
+wa diao	挖掉	3615
+wa ha ha ha	哇哈哈哈	3600
+wa dong	挖洞	3575
+wa ga	哇嘎	3485
+wa lai	瓦莱	3340
+wa ken ju shou li	瓦肯举手礼	3333
+wa shao	挖勺	3333
+wa shao er	挖勺儿	3333
+wa gou	挖沟	3230
+wa nu a tu	瓦努阿图	3205
+wa bao	挖宝	3200
+wa qi	挖起	3155
+wa wa wa	哇哇哇	2975
+wa sheng	蛙声	2900
+wa guo	挖过	2850
+wa wa da jiao	哇哇大叫	2805
+wa de	挖得	2800
+wa sha	挖沙	2785
+wa wa	挖挖	2725
+wa wa da ku	哇哇大哭	2725
+wa ren	蛙人	2650
+wa she	瓦舍	2635
+wa tu ji	挖土机	2625
+wa tiao	蛙跳	2615
+wa di	挖地	2570
+wa jing	挖井	2555
+wa qu	挖取	2505
+wa ming	蛙鸣	2420
+wa xia	挖下	2345
+wa bang	佤邦	2330
+wa lun ding	瓦伦丁	2300
+wa lei	蛙类	2235
+wa kong	挖孔	2095
+wa lan	瓦蓝	1975
+wa ni	挖泥	1910
+wa qiang jiao	挖墙脚	1910
+wa cheng	挖成	1885
+wa ji	袜机	1830
+wa yao bu	瓦窑堡	1820
+wa ni chuan	挖泥船	1750
+wa bu	挖补	1710
+wa la	哇啦	1685
+wa fang	挖方	1670
+wa jie pa yi	瓦杰帕伊	1620
+wa di dao	挖地道	1610
+wa mian	瓦面	1595
+wa er deng hu	瓦尔登湖	1585
+wa jiang	瓦匠	1445
+wa la wa la	哇啦哇啦	1385
+wa yan	挖眼	1350
+wa lei	袜类	1335
+wa liang ge	瓦良格	1235
+wa ya	哇呀	1220
+wa tao	袜套	1205
+wa guo lai	挖过来	1200
+wa chu	挖除	1190
+wa si lu	瓦斯炉	1160
+wa cao	哇肏	1111
+wa fen	挖坟	1111
+wa fen le	挖坟了	1111
+wa gai	瓦盖	1111
+wa ge keng	挖个坑	1111
+wa ge keng er	挖个坑儿	1111
+wa hao	挖好	1111
+wa jiao	挖角	1111
+wa kao	哇靠	1111
+wa liang	瓦亮	1111
+wa liang wa liang	哇凉哇凉	1111
+wa zhe	挖着	1111
+wa zhe wa zhe	挖着挖着	1111
+wa gang jun	瓦岗军	1095
+wa wa jiao	哇哇叫	1065
+wa wa qin	娃娃亲	1035
+wa gang zhai	瓦岗寨	980
+wa wa bing	娃娃兵	960
+wa shang shuang	瓦上霜	950
+wa quan	瓦全	940
+wa yao bu hui yi	瓦窑堡会议	940
+wa di san chi	挖地三尺	930
+wa ya ya	哇呀呀	920
+wa tong	挖通	915
+wa qian li	挖潜力	905
+wa qian zeng xiao	挖潜增效	815
+wa zhuang	瓦状	810
+wa shi	蛙式	805
+wa wa zhuang	娃娃装	730
+wa rou	蛙肉	689
+wa jiao	蛙叫	660
+wa er duo	挖耳朵	640
+wa bu dao	挖不到	575
+wa er na	瓦尔纳	550
+wa di	袜底	540
+wa lai ta	瓦莱塔	540
+wa jue zhe	挖掘着	525
+wa xi de	瓦希德	525
+wa di lei	挖地雷	515
+wa er ma xiang	哇尔玛乡	506
+wa kou	袜口	505
+wa xie	蛙鞋	495
+wa da	挖大	475
+wa dao	瓦刀	465
+wa jue zhe	挖掘者	465
+wa ji	瓦脊	440
+wa dai	袜带	430
+wa sui dao	挖隧道	395
+wa yu	蛙鱼	391
+wa lu	挖路	375
+wa yan	蛙眼	368
+wa le ge keng	挖了个坑	365
+wa wa xie	娃娃鞋	360
+wa pian di tu	瓦片地图	350
+wa si dan	瓦斯弹	350
+wa wen sa	瓦文萨	350
+wa bu chu	挖不出	345
+wa ge na zhan	瓦格纳站	341
+wa chuan	挖穿	340
+wa tong	袜筒	295
+wa gou	瓦沟	280
+wa fu lei ming	瓦釜雷鸣	275
+wa jue mo xing	挖掘模型	250
+wa sha chuan	挖沙船	250
+wa wa che	娃娃车	250
+wa du zi	瓦杜兹	240
+wa le ge dong	挖了个洞	225
+wa zhan	蛙战	222
+wa jia du gu	瓦加杜古	220
+wa wu shan	瓦屋山	214
+wa lei li	瓦雷里	210
+wa bu liao	挖不了	205
+wa di dong	挖地洞	205
+wa di su	袜底酥	205
+wa ge ji er yang	瓦格吉尔羊	200
+wa si ke	瓦斯科	199
+wa yao jie	瓦窑街	199
+wa yang yu	挖洋芋	196
+wa ni da	瓦妮达	195
+wa pi	瓦坯	195
+wa xian	洼陷	195
+wa er wei ke	瓦尔韦克	191
+wa hong shu	挖红薯	190
+wa jue qi	挖掘器	190
+wa nuo mei si	瓦诺梅斯	187
+wa gang xiang	瓦岗乡	183
+wa wa sheng	娃娃生	180
+wa sa qi	瓦萨琪	176
+wa ga hua	哇嘎画	175
+wa sheng yi pian	蛙声一片	174
+wa er da	瓦尔达	167
+wa jia wa jia	瓦加瓦加	163
+wa di gua	挖地瓜	162
+wa tu dou	挖土豆	157
+wa le ge da keng	挖了个大坑	155
+wa si qi	瓦丝琪	154
+wa na	腽肭	150
+wa lei li ya	瓦雷利亚	148
+wa sun	挖笋	136
+wa sun zi	挖笋子	136
+wa bu chu lai	挖不出来	135
+wa li ao	瓦里奥	135
+wa yi fan	瓦伊凡	135
+wa di ji	挖地基	126
+wa jue ji chang	挖掘机厂	120
+wa liang ge hao	瓦良格号	118
+wa yao pai	瓦窑排	117
+wa cai	挖财	111
+wa cao	挖槽	111
+wa ge	蛙哥	111
+wa li	瓦力	111
+wa er bei li	瓦尔贝里	110
+wa zhu sun	挖竹笋	110
+wa si ta ya	瓦斯塔亚	108
+wa lan lan	瓦蓝蓝	107
+wa li si	瓦里斯	106
+wa ni ta si	瓦尼塔斯	102
+wa ai le	瓦埃勒	100
+wa bao zang	挖宝藏	100
+wa bi zi	挖鼻子	100
+wa bo er	瓦波尔	100
+wa bu dao	挖补到	100
+wa cai bao	挖财宝	100
+wa cai ji zhang	挖财记账	100
+wa chu mi mi	挖出秘密	100
+wa chu qu	挖出去	100
+wa chu sha mi mi	挖出啥秘密	100
+wa chu shen me mi mi	挖出什么秘密	100
+wa chuan di qiu	挖穿地球	100
+wa da ke	瓦达克	100
+wa da yi dian	挖大一点	100
+wa dang wen	瓦当文	100
+wa de se	瓦德瑟	100
+wa de yi sheng	哇的一声	100
+wa de yi sheng ku chu lai	哇的一声哭出来	100
+wa di a	洼地啊	100
+wa di jiao	挖地窖	100
+wa di qiu	挖地球	100
+wa di xia shi	挖地下室	100
+wa di xiao ying	洼地效应	100
+wa dong qiang bu xi qiang	挖东墙补西墙	100
+wa duo shao	挖多少	100
+wa duo shao kuang	挖多少矿	100
+wa er da ke	瓦尔达克	100
+wa er da ke sheng	瓦尔达克省	100
+wa er dang zhao	挖耳当招	100
+wa er ji li	瓦尔基里	100
+wa er lai ta	瓦尔莱塔	100
+wa er sang	瓦尔桑	100
+wa er zi	蛙儿子	100
+wa fu zhi ming	瓦釜之鸣	100
+wa gan da	瓦干达	100
+wa gan da wan sui	瓦干达万岁	100
+wa ge li	挖蛤蜊	100
+wa ge na bing bian	瓦格纳兵变	100
+wa ge na che jun	瓦格纳撤军	100
+wa ge na fan le	瓦格纳反了	100
+wa ge na gu yong bing	瓦格纳雇佣兵	100
+wa ge na gu yong jun	瓦格纳雇佣军	100
+wa ge na ji tuan	瓦格纳集团	100
+wa ge na pan bian le	瓦格纳叛变了	100
+wa ge na pan luan	瓦格纳叛乱	100
+wa ge na shi jian	瓦格纳事件	100
+wa gen	袜跟	100
+wa gu chong yin	蛙鼓虫吟	100
+wa guan bu li jing shang po	瓦罐不离井上破	100
+wa guan zhuan ding	瓦棺篆鼎	100
+wa guo qu	挖过去	100
+wa ha bi jiao pai	瓦哈比教派	100
+wa han zou lang	瓦罕走廊	100
+wa he ji er he	瓦赫基尔河	100
+wa he zhi zu	瓦合之卒	100
+wa ji cai	挖荠菜	100
+wa ji fu	瓦基弗	100
+wa ji fu yin hang	瓦基弗银行	100
+wa ji fu yin hang dui	瓦基弗银行队	100
+wa ji fu yin hang ju le bu	瓦基弗银行俱乐部	100
+wa ji fu yin hang nv pai	瓦基弗银行女排	100
+wa ji mu	瓦季姆	100
+wa jie bing pan	瓦解冰泮	100
+wa jie bing xiao	瓦解冰消	100
+wa jie bing xiao	瓦解冰销	100
+wa jie tu beng	瓦解土崩	100
+wa jie xing fei	瓦解星飞	100
+wa jie xing san	瓦解星散	100
+wa jie yun san	瓦解云散	100
+wa jin ke	挖金客	100
+wa jin lai	挖进来	100
+wa jin qu	挖进去	100
+wa jin zi	挖金子	100
+wa jue bao zang	挖掘宝藏	100
+wa jue chang wei guan jian ci	挖掘长尾关键词	100
+wa jue chu lai	挖掘出来	100
+wa jue chuan tong	挖掘传统	100
+wa jue chuan tong wen hua	挖掘传统文化	100
+wa jue di dao	挖掘地道	100
+wa jue hang ye	挖掘行业	100
+wa jue ji jia chang bi	挖掘机加长臂	100
+wa jue ji pei xun xue xiao	挖掘机培训学校	100
+wa jue ji xue xiao	挖掘机学校	100
+wa jue shen du	挖掘深度	100
+wa jue xi tong	挖掘系统	100
+wa ka fei	佤咖啡	100
+wa ka fei	哇咖啡	100
+wa ka ka	哇咔咔	100
+wa ka ka ka	哇咔咔咔	100
+wa ka suo	瓦卡索	100
+wa kan da wan sui	瓦坎达万岁	100
+wa keng bu mai	挖坑不埋	100
+wa keng bu tian	挖坑不填	100
+wa keng dao	挖坑道	100
+wa kong le	挖空了	100
+wa kong le xin si	挖空了心思	100
+wa ku wa ku	哇酷哇酷	100
+wa kuang gong	挖矿工	100
+wa kuang gong ren	挖矿工人	100
+wa kuang hang ye	挖矿行业	100
+wa kuang ji	挖矿机	100
+wa kuang mo shi	挖矿模式	100
+wa kuang nan du	挖矿难度	100
+wa kuang xi tong	挖矿系统	100
+wa la jia er	瓦拉加尔	100
+wa la mi er	瓦拉米尔	100
+wa lai wa qu	挖来挖去	100
+wa lan di ya	瓦兰迪亚	100
+wa lan ti si	瓦兰提斯	100
+wa le chu lai	挖了出来	100
+wa le keng	挖了坑	100
+wa le lun jia	瓦勒伦加	100
+wa le qiang jiao	挖了墙角	100
+wa le yi ge keng	挖了一个坑	100
+wa leng he zi	瓦楞盒子	100
+wa li an	瓦里安	100
+wa li an wu rui en	瓦里安乌瑞恩	100
+wa li dui	瓦砾堆	100
+wa li la	瓦莉拉	100
+wa li la sang gu na er	瓦莉拉桑古纳尔	100
+wa li ma sa si	瓦里玛萨斯	100
+wa li si	瓦历斯	100
+wa li ye wa	瓦利耶娃	100
+wa lie li ang	瓦列利昂	100
+wa lie li ang jia zu	瓦列利昂家族	100
+wa long zi	瓦垄子	100
+wa lu dui	挖路队	100
+wa lun di na	瓦伦蒂娜	100
+wa lun xi ya ju le bu	瓦伦西亚俱乐部	100
+wa luo ke	瓦洛克	100
+wa luo ke sa lu fa er	瓦洛克萨鲁法尔	100
+wa luo lan	瓦洛兰	100
+wa luo lan da lu	瓦洛兰大陆	100
+wa luo lan zhi dun	瓦洛兰之盾	100
+wa luo lan zhi dun ta li ke	瓦洛兰之盾塔里克	100
+wa mei gong	挖煤工	100
+wa mei gong ren	挖煤工人	100
+wa ming chan zao	蛙鸣蝉噪	100
+wa ming jing di	蛙鸣井底	100
+wa na qi	腽肭脐	100
+wa na shou	腽肭兽	100
+wa ni ji	挖泥机	100
+wa pian shou li jian	瓦片手里剑	100
+wa qi bang pan	瓦器蚌盘	100
+wa qi lai	挖起来	100
+wa qiang jiao le	挖墙脚了	100
+wa ren cao	蛙人操	100
+wa ren dui	蛙人队	100
+wa ren shen	挖人参	100
+wa ren xie	蛙人鞋	100
+wa rou qiao zhi	挖肉敲脂	100
+wa rui tai ke	瓦瑞泰克	100
+wa sa li	瓦萨里	100
+wa sai de	哇噻的	100
+wa shang lai	挖上来	100
+wa shang qu	挖上去	100
+wa she jiang hu	瓦舍江湖	100
+wa shen me	挖什么	100
+wa shi bi sai	蛙式比赛	100
+wa shi ji	瓦时计	100
+wa shui gou	挖水沟	100
+wa si hang	瓦斯行	100
+wa si nong du	瓦斯浓度	100
+wa si qi nv shi	瓦斯琪女士	100
+wa si tong	瓦斯桶	100
+wa song shu	瓦松属	100
+wa su yun	蛙速云	100
+wa te biao	瓦特表	100
+wa te ji	瓦特计	100
+wa te le	瓦特了	100
+wa tie er	瓦铁尔	100
+wa tui	蛙腿	100
+wa wa cai	娃娃菜	100
+wa wa de	哇哇地	100
+wa wa he chang tuan	蛙蛙合唱团	100
+wa wa he mi le	娃娃和米勒	100
+wa wa mi le	娃娃米勒	100
+wa wa tou	娃娃头	100
+wa wa zhi jiao	哇哇直叫	100
+wa xi li ye wei qi	瓦西里耶维奇	100
+wa xi zi	瓦西子	100
+wa xia lai	挖下来	100
+wa xia qu	挖下去	100
+wa xin sou dan	挖心搜胆	100
+wa ya wa	挖呀挖	100
+wa ya wa ya	挖呀挖呀	100
+wa ya wa ya wa	挖呀挖呀挖	100
+wa ya wa ya wa ya	挖呀挖呀挖呀	100
+wa zao sheng chuang	瓦灶绳床	100
+wa zhe chi	挖着吃	100
+wa zi pi fa	袜子批发	100
+wa zi sheng	瓦兹省	100
+wa zu ren	佤族人	100
+wa she hui zhu yi qiang jiao	挖社会主义墙角	95
+wa ri xiang	瓦日乡	94
+wa ke dong wu	蛙科动物	90
+wa xia	洼下	80
+wa shen	挖深	77
+wa li shi bie	瓦力识别	73
+wa er de nei er	瓦尔德内尔	71
+wa ge na er	瓦格纳尔	70
+wa de jing	挖的井	60
+wa xin wen	挖新闻	55
+wa er mi zhan yi	瓦尔密战役	50
+wa wa sheng	哇哇声	50
+wa wa shu	娃娃书	50
+wa rou	挖肉	44
+wa jiao sheng	蛙叫声	40
+wa ku chao feng	挖苦嘲讽	40
+wa pi su	蛙皮素	40
+wa si tong	瓦斯筒	40
+wa rou bu chuang	挖肉补疮	33
+wa luan	蛙卵	32
+wa gang	瓦岗	31
+wa ta na	瓦塔纳	31
+wa bu zhao	挖不着	30
+wa er la qi	瓦尔拉齐	30
+wa yong sai	蛙泳赛	30
+wa duo	瓦多	25
+wa lei dong wu	蛙类动物	25
+wa li xiao xue	洼里小学	24
+wa ri	瓦日	24
+wa ze	瓦泽	21
+wa yao bao	挖腰包	20
+wa yao tou	瓦窑头	17
+wa dian	瓦店	16
+wa li nan kou	洼里南口	16
+wa song	瓦松	16
+wa de gou	挖的沟	15
+wa shan	瓦山	15
+wa ci la fu	瓦茨拉夫	14
+wa li ke	瓦里克	13
+wa qia xiang	瓦恰乡	13
+wa wa	瓦瓦	13
+wa jue lei	挖掘类	12
+wa wa qi	娃娃妻	12
+wa zhou	瓦轴	12
+wa ken	瓦肯	11
+wa lun te	瓦伦特	10
+wa pen yao	瓦盆窑	10
+wa sha	瓦沙	10
+wa yan xiang	瓦岩乡	10
+wa yao xiao qu	瓦窑小区	10
+wa hu tong cun	瓦胡同村	8
+wa yao wan	瓦窑湾	8
+wa di xiang	洼底乡	7
+wa ba yin	哇巴因	6
+wa dian	瓦甸	6
+wa wa wo	娃娃我	6
+wa zi cun	瓦子村	6
+wa de xi	瓦德西	5
+wa li si he fu tu na qun dao	瓦利斯和富图纳群岛	5
+wa si ping	瓦斯瓶	5
+wa xie	瓦屑	5
+wa yao	挖药	5
+wa yao he	瓦窑河	5
+wa jing	瓦井	4
+wa la	瓦剌	4
+wa leng zi	瓦楞子	4
+wa xi xiang	瓦西乡	4
+wa dong xue	挖洞穴	3
+wa jiao yi zu zang zu xiang	挖角彝族藏族乡	3
+wa li an	瓦立安	3
+wa li jue xiang	瓦里觉乡	3
+wa wa shan	娃娃山	3
+wa wu xia	瓦屋下	3
+wa zha shi niao	瓦查屎溺	3
+wa di xiang	洼堤乡	2
+wa li si he fu tu na	瓦利斯和富图纳	2
+wa long	瓦垄	2
+wa long	瓦弄	2
+wa long zhan yi	瓦弄战役	2
+wa mei ping fang mi	瓦每平方米	2
+wa tan	挖炭	2
+wa wu chang	瓦屋场	2
+wa zu shu shi	佤族鼠食	2
+wa de keng er	挖的坑儿	1
+wa dun xiao jie hong you hou	瓦顿小姐红疣猴	1
+wa er ha la pen quan	瓦尔哈拉喷泉	1
+wa fang dian zhou cheng gu fen you xian gong si	瓦房店轴承股份有限公司	1
+wa fang yi zu miao zu xiang	瓦房彝族苗族乡	1
+wa gai	挖改	1
+wa guan bu li jing kou po	瓦罐不离井口破	1
+wa guan du tiao	瓦罐肚条	1
+wa ji tao quan	瓦鸡陶犬	1
+wa jie she xian	瓦解射线	1
+wa la	瓦拉	1
+wa liang	哇凉	1
+wa liu cun	瓦流村	1
+wa luo mo ke	瓦罗莫克	1
+wa luo wen hu	瓦罗温湖	1
+wa ma sheng fu	蛙蟆胜负	1
+wa ming gu chui	蛙鸣鼓吹	1
+wa nu a tu ruo mei diao	瓦怒阿图若梅鲷	1
+wa nu a tu zhong zhi	瓦努阿图冢雉	1
+wa nu hua ruo mei diao	瓦怒滑若梅鲷	1
+wa quan	瓦圈	1
+wa sai xiang	哇赛乡	1
+wa shi bao luo	瓦氏宝螺	1
+wa shi hui lie nv shen luo	瓦氏喙猎女神螺	1
+wa shi shen hai nuo man	瓦氏深海糯鳗	1
+wa shi zhen chun zhi li	瓦氏真唇脂鲤	1
+wa wa cao	瓦挖草	1
+wa wa ning pao teng pian	娃娃宁泡腾片	1
+wa wu han dui chun hou xue	瓦屋寒堆春后雪	1
+wa xi li ye fu xiong di	瓦西里耶夫兄弟	1
+wa xi xiang	瓦溪乡	1
+wa xian duan cai	袜线短才	1
+wa ying gui yu	瓦影龟鱼	1
+wa ying zhi yu	瓦影之鱼	1
+wa yu ji rou	瓦玉集糅	1
+wa zhong yang jie	洼冢洋介	1

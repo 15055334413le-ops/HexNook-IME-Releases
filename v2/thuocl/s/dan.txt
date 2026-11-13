@@ -1,0 +1,542 @@
+dan gao	蛋糕	815478
+dan bao	担保	51072
+dan xian cheng	单线程	24048
+dan yuan ce shi	单元测试	22677
+dan li mo shi	单例模式	20733
+dan yin hao	单引号	20193
+dan bai zhi	蛋白质	14062
+dan juan	蛋卷	11852
+dan ju	单据	11455
+dan jia	担架	10205
+dan ta	蛋挞	9235
+dan chu	淡出	7909
+dan pian ji	单片机	7795
+dan ji cheng	单继承	7699
+dan chu dui hua kuang	弹出对话框	6662
+dan chu chuang kou	弹出窗口	6193
+dan chu cai dan	弹出菜单	6131
+dan xuan	单选	5353
+dan li lei	单例类	5287
+dan ni er	丹尼尔	5240
+dan jing du	单精度	5120
+dan chu kuang	弹出框	5021
+dan ji shi jian	单击事件	4986
+dan gu chun	胆固醇	4776
+dan xuan an niu	单选按钮	4561
+dan xing zhu shi	单行注释	4459
+dan huang pai	蛋黄派	4454
+dan dian gu zhang	单点故障	4138
+dan xuan kuang	单选框	4068
+dan he	单核	3848
+dan wei zhu fang	单位住房	3834
+dan dan mian	担担面	3792
+dan ru dan chu	淡入淡出	3767
+dan yi zhi ze yuan ze	单一职责原则	3549
+dan ni si	丹尼斯	3538
+dan shi li	单实例	3450
+dan xiang lian biao	单向链表	3310
+dan huang jiang	蛋黄酱	3082
+dan bao ren	担保人	3049
+dan bo	单播	2920
+dan jin cheng	单进程	2909
+dan jing shou pa	担惊受怕	2890
+dan li she ji mo shi	单例设计模式	2707
+dan zhan xin jing	胆战心惊	2666
+dan jie dian	单节点	2467
+dan zhou shi	儋州市	2376
+dan yang	丹阳	2253
+dan diao dui lie	单调队列	2164
+dan ru	淡入	2162
+dan yong hu	单用户	2156
+dan yong hu mo shi	单用户模式	2063
+dan jing jie lv	殚精竭虑	2040
+dan diao xing	单调性	2002
+dan wei xing hui zui	单位行贿罪	1928
+dan dian deng lu	单点登录	1912
+dan da wang wei	胆大妄为	1832
+dan dong shi	丹东市	1796
+dan chang	弹唱	1782
+dan chu li qi	单处理器	1767
+dan ji ban	单机版	1656
+dan nang	胆囊	1646
+dan dian	单店	1606
+dan yuan zui duan lu jing	单源最短路径	1516
+dan qiang pi ma	单枪匹马	1461
+dan nai you	淡奶油	1372
+dan wen dang	单文档	1359
+dan yi zhi ze	单一职责	1347
+dan dian geng xin	单点更新	1282
+dan ji mo shi	单机模式	1272
+dan zhi	胆汁	1264
+dan biao cha xun	单表查询	1262
+dan ren wu	单任务	1207
+dan zhi yi hui jian	弹指一挥间	1184
+dan bai hun he yin liao	蛋白混合饮料	1183
+dan diao zhan	单调栈	1118
+dan nang yan	胆囊炎	1096
+dan san	蛋散	1083
+dan chu ceng	弹出层	1058
+dan gui	丹桂	1042
+dan zi shi	弹子石	999
+dan fa	单发	988
+dan jiang	丹江	978
+dan yang shi	丹阳市	869
+dan shen	丹参	825
+dan wan zhi di	弹丸之地	782
+dan bai tang	蛋白糖	778
+dan jian mo shi	单件模式	769
+dan chu shi cai dan	弹出式菜单	763
+dan jiang kou shi	丹江口市	760
+dan wei chan quan	单位产权	751
+dan bai fen	蛋白粉	736
+dan bao fei	担保费	735
+dan yi lai yuan cai gou	单一来源采购	733
+dan yuan zui duan lu	单源最短路	718
+dan ji you xi	单机游戏	687
+dan da bao tian	胆大包天	670
+dan tiao yu ju	单条语句	654
+dan jin liang jue	弹尽粮绝	640
+dan yan	单眼	628
+dan dao zhi ru	单刀直入	603
+dan jiang	淡江	592
+dan huang su	蛋黄酥	585
+dan diao dui lie you hua	单调队列优化	578
+dan da xin xi	胆大心细	577
+dan ye mian ying yong	单页面应用	570
+dan guan	胆管	551
+dan xiao pa shi	胆小怕事	509
+dan ci ji shu	单词计数	495
+dan ba	丹巴	482
+dan cheng	郸城	481
+dan xiang tong xin	单向通信	469
+dan bao wu quan zhi du	担保物权制度	445
+dan zhi ling	单指令	442
+dan tu	丹徒	439
+dan nang jie shi	胆囊结石	437
+dan qiu wu guo	但求无过	396
+dan xiang chuan shu	单向传输	392
+dan bai niao	蛋白尿	386
+dan bao fa	担保法	382
+dan dian deng lu	单点登陆	378
+dan xing han shu	单行函数	376
+dan bao jin	担保金	374
+dan yuan ce shi gong ju	单元测试工具	369
+dan yuan ren chang jiu	但愿人长久	358
+dan ma xi	淡马锡	344
+dan pian ji kai fa	单片机开发	332
+dan ding	但丁	320
+dan ran chu zhi	淡然处之	311
+dan bai mei	蛋白酶	310
+dan hong gao	蛋烘糕	294
+dan guan ai	胆管癌	292
+dan chun xing	单纯形	271
+dan wu xu fa	弹无虚发	269
+dan zhai	丹寨	264
+dan xian yang rou tang	单县羊肉汤	250
+dan ke long kang ti	单克隆抗体	239
+dan xuan dui hua kuang	单选对话框	233
+dan xun huan lian biao	单循环链表	233
+dan du ding jia yao pin	单独定价药品	222
+dan zhu ye	淡竹叶	222
+dan chun xing fa	单纯形法	217
+dan bo ming zhi	淡泊明志	210
+dan lie mo shi	单列模式	209
+dan hong su	胆红素	208
+dan leng	丹棱	208
+dan nai su	蛋奶酥	208
+dan lian biao fan zhuan	单链表反转	207
+dan pian ji bian cheng	单片机编程	206
+dan fang zhong zhi he tong	单方终止合同	205
+dan guo	单果	204
+dan feng jie	丹凤街	203
+dan dao fu hui	单刀赴会	196
+dan bai zhi fen	蛋白质粉	188
+dan nang ai	胆囊癌	186
+dan wei chan quan fang	单位产权房	186
+dan dui xiang	单对象	182
+dan zong xian	单总线	177
+dan ning	丹宁	169
+dan shui yu ye yan jiu zhong xin	淡水渔业研究中心	163
+dan guan jie shi	胆管结石	160
+dan an suan xin	蛋氨酸锌	157
+dan xiang han shu	单向函数	156
+dan ying zhi suan gan you zhi	单硬脂酸甘油酯	151
+dan zong guan	胆总管	148
+dan bai zhi he cheng	蛋白质合成	144
+dan du	丹毒	139
+dan dang bu qi	担当不起	135
+dan er wu wei	淡而无味	134
+dan gai hua chun	胆钙化醇	134
+dan zhu	丹竹	133
+dan wei fan zui zhu ti	单位犯罪主体	132
+dan lian biao ni zhi	单链表逆置	127
+dan pian ji ying yong	单片机应用	127
+dan kou zhen	丹口镇	120
+dan tian fang	单田芳	120
+dan dian zeng jian	单点增减	115
+dan nang xi rou	胆囊息肉	115
+dan feng chao yang	丹凤朝阳	113
+dan huang juan	蛋黄卷	113
+dan fang yun nuo	单方允诺	107
+dan mu shi jue	单目视觉	107
+dan zhi suan	胆汁酸	106
+dan zhuang nong mo zong xiang yi	淡妆浓抹总相宜	104
+dan jiao	单交	102
+dan zong guan jie shi	胆总管结石	102
+dan cun	单村	100
+dan gan dao	担杆岛	98
+dan ge di zhi	单个地址	98
+dan huang lian rong yue bing	蛋黄莲蓉月饼	98
+dan xiao ru shu	胆小如鼠	96
+dan nang qie chu shu	胆囊切除术	95
+dan huang guo	蛋黄果	93
+dan shu tie quan	丹书铁券	92
+dan yi ke ti	单一客体	90
+dan shao mai	蛋烧卖	89
+dan zao xiang luo pian	淡糟香螺片	88
+dan he xi bao	单核细胞	87
+dan xing	单性	84
+dan chun pao zhen bing du	单纯疱疹病毒	81
+dan mai su	丹麦酥	81
+dan bu cao zuo	单步操作	80
+dan fang min shi fa lv xing wei	单方民事法律行为	78
+dan suan	胆酸	78
+dan ji nong suo liao	蛋鸡浓缩料	77
+dan pian ji ji shu	单片机技术	76
+dan guan yan	胆管炎	75
+dan hua mi jiu	蛋花米酒	75
+dan jin yuan jue	弹尽援绝	74
+dan yao mi ma xi tong	单钥密码系统	74
+dan zhi yu ji	胆汁淤积	73
+dan se ku wen	淡色库蚊	69
+dan shu ju liu	单数据流	68
+dan jiao tong	胆绞痛	65
+dan qing zhen	丹青镇	64
+dan xi bao sheng wu	单细胞生物	64
+dan zhu qi shui	弹珠汽水	61
+dan ba lu	丹巴路	60
+dan dian deng lu kuang jia	单点登录框架	59
+dan shen	单肾	58
+dan la gao su	丹拉高速	55
+dan dong lu	丹东路	54
+dan yang lu	丹阳路	53
+dan bo yi ming zhi	淡泊以明志	52
+dan dao xue	弹道学	52
+dan jian zhi mei	胆碱酯酶	51
+dan si bu cheng xian	单丝不成线	49
+dan chun pao zhen	单纯疱疹	48
+dan zhi xing gan ying hua	胆汁性肝硬化	48
+dan bi	单币	47
+dan ji liang	单剂量	46
+dan shen pian	丹参片	46
+dan shi	胆石	46
+dan wei wei fa wei ji	单位违法违纪	46
+dan dou chi	淡豆豉	44
+dan zhong xue	膻中穴	43
+dan li	单利	42
+dan lu	淡路	42
+dan zhong	膻中	42
+dan li chuan zhi	单例传值	41
+dan yi zhi zhai	单一之债	41
+dan yan	胆盐	40
+dan xian	儋县	38
+dan ti xing	单体型	37
+dan yi ou zhou fa	单一欧洲法	37
+dan bai ji mei	蛋白激酶	36
+dan dao gan ran	胆道感染	36
+dan shan	担山	36
+dan huang bing gan	蛋黄饼干	35
+dan ji yin bing	单基因病	35
+dan yuan bing gan	蛋圆饼干	35
+dan gan	担杆	34
+dan gui yuan	丹桂园	34
+dan xin shi	单心室	34
+dan bei xing	单倍型	33
+dan jing jie li	殚精竭力	33
+dan se xian shi	单色显示	33
+dan xi zhi jian	旦夕之间	33
+dan ban ji suan ji	单板计算机	29
+dan gui yuan	丹桂苑	29
+dan an yang hua mei	单胺氧化酶	28
+dan bai mei yi zhi ji	蛋白酶抑制剂	28
+dan yuan xing yi xian yan	胆源性胰腺炎	28
+dan se she bei	单色设备	27
+dan shen zhu she ye	丹参注射液	27
+dan dao geng zu	胆道梗阻	26
+dan ren pi ma	单人匹马	26
+dan shi long cheng fei jiang zai	但使龙城飞将在	26
+dan xiang mi ma	单向密码	26
+dan zhi fan liu xing wei yan	胆汁反流性胃炎	26
+dan ning suan	丹宁酸	25
+dan qing miao shou	丹青妙手	25
+dan zhi xue zheng	氮质血症	25
+dan xin bi xue	丹心碧血	24
+dan gu chun jie shi	胆固醇结石	23
+dan zhuang nong mo	淡妆浓抹	23
+dan di	丹迪	22
+dan ge cuo wu	单个错误	22
+dan gu zhang	单故障	22
+dan fu	单父	21
+dan shen tong	丹参酮	21
+dan nan xing	胆南星	20
+dan da wei	单大伟	19
+dan xiong xin	单雄信	19
+dan kong shi chi ren	但恐是痴人	18
+dan xi xin fa	丹溪心法	18
+dan ai lu yu mei	但爱鲈鱼美	17
+dan gong chuan shu	单工传输	17
+dan hong zhu she ye	丹红注射液	17
+dan shui shui mu mu	淡水水母目	17
+dan zhi qiang	单之蔷	17
+dan feng xin yu	丹凤新寓	16
+dan huang ma hua	蛋黄麻花	16
+dan yu	单宇	16
+dan zhu	单竹	16
+dan bai shui jie mei	蛋白水解酶	15
+dan huang mian bao	蛋黄面包	15
+dan pian ji suan ji	单片计算机	15
+dan xin fang	单心房	15
+dan bei bu jian jiu zhou tong	但悲不见九州同	14
+dan bi ka	单币卡	14
+dan dian kong zhi	单点控制	14
+dan gui hua yuan	丹桂花园	14
+dan nan	单南	13
+dan wen ren yu xiang	但闻人语响	13
+dan xiang niu bao	蛋香牛堡	13
+dan xin suan gan you zhi	单辛酸甘油酯	13
+dan dian cun	单店村	12
+dan he xi bao bai xue bing	单核细胞白血病	12
+dan nang zhong da	胆囊肿大	12
+dan song guo	蛋松果	12
+dan bai zhi ying yang bu liang	蛋白质营养不良	11
+dan bao pin	担保品	11
+dan jing xiang	丹景乡	11
+dan li	担里	11
+dan pian xi tong	单片系统	11
+dan shui yu yue you	淡水鱼约有	11
+dan xiao suan yi shan li zhi	单硝酸异山梨酯	11
+dan yang xian	丹阳县	11
+dan zao ci gu	丹灶慈菇	11
+dan bao han	担保函	10
+dan cang	淡仓	10
+dan guan xia zhai	胆管狭窄	10
+dan jie	氮芥	10
+dan nang chuan kong	胆囊穿孔	10
+dan qing nan xie shi jing shen	丹青难写是精神	10
+dan xi tong ying xiang	单系统映像	10
+dan chun xing jia zhuang xian zhong	单纯性甲状腺肿	9
+dan dao hui chong bing	胆道蛔虫病	9
+dan nang shou suo su	胆囊收缩素	9
+dan wei bei hai ren	单位被害人	9
+dan xia li	单霞丽	9
+dan xia shan feng jing ming sheng qu	丹霞山风景名胜区	9
+dan zhi xiao yao wan	丹栀逍遥丸	9
+dan chun xing cheng quan	单纯形成权	8
+dan huang qian ceng gao	蛋黄千层糕	8
+dan jian xin ren xiao	但见新人笑	8
+dan juan bing gan	蛋卷饼干	8
+dan shi zhu ren neng zui ke	但使主人能醉客	8
+dan shu ruan jiao nang	胆舒软胶囊	8
+dan jian neng shen jing	胆碱能神经	7
+dan jian xi ye e	淡剑袭夜蛾	7
+dan xing hua	单性花	7
+dan xing qiao ke li	蛋形巧克力	7
+dan zong guan kuo zhang	胆总管扩张	7
+dan dao chu xie	胆道出血	6
+dan dong qian cun bi	弹洞前村壁	6
+dan jian lei hen shi	但见泪痕湿	6
+dan mian xing	单面性	6
+dan ti xing	单体性	6
+dan xi zheng	单希征	6
+dan xian si jun zi jiu	单县四君子酒	6
+dan yuan zhang zui bu fu xing	但愿长醉不复醒	6
+dan zhi xiao yao san	丹栀逍遥散	6
+dan bo	丹波	5
+dan guan nang zhong	胆管囊肿	5
+dan he xi bao zeng duo zheng	单核细胞增多症	5
+dan jian shou ti	胆碱受体	5
+dan ni	胆泥	5
+dan pi fen	丹皮酚	5
+dan qing bu zhi lao jiang zhi	丹青不知老将至	5
+dan tai zi xiang	单台子乡	5
+dan yan shu yu jian xie yang	澹烟疏雨间斜阳	5
+dan yang jie dao	丹阳街道	5
+dan zhu tou cun	丹竹头村	5
+dan zhuang cun	单庄村	5
+dan ai	胆癌	4
+dan feng zhen	丹凤镇	4
+dan huan ci yi	单环刺螠	4
+dan jian chang jiang song liu shui	但见长江送流水	4
+dan kong lei bu ru dong wu	单孔类哺乳动物	4
+dan lin suan a tang xian gan	单磷酸阿糖腺苷	4
+dan shen di zhu ye	丹参滴注液	4
+dan shen jiao nang	丹参胶囊	4
+dan si hu jiang yi ying wang shi	箪食壶浆以迎王师	4
+dan su chao mian	蛋酥炒面	4
+dan wei	单炜	4
+dan wei jing ying zi jin	单位经营资金	4
+dan xiao suan yi shan li zhi pian	单硝酸异山梨酯片	4
+dan bai guo zhi yin liao	蛋白果汁饮料	3
+dan bing zhong yi bao	单病种医保	3
+dan cai zi cai shou rou tang	淡菜紫菜瘦肉汤	3
+dan feng xin cun	丹凤新村	3
+dan gui gong yu	丹桂公寓	3
+dan hu qi wu wei	淡乎其无味	3
+dan huang feng wei bai yu juan	蛋黄凤尾白玉卷	3
+dan jian qun ou ri ri lai	但见群鸥日日来	3
+dan lan tong luo kou fu ye	丹蓝通络口服液	3
+dan nang ji shui	胆囊积水	3
+dan ping heng	氮平衡	3
+dan shen chuan qiong qin zhu she ye	丹参川芎嗪注射液	3
+dan shi bing	单士兵	3
+dan shi yuan wu wei	但使愿无违	3
+dan tai yang	单态氧	3
+dan wei fan zui su song cheng xu	单位犯罪诉讼程序	3
+dan xin zong he zheng	胆心综合征	3
+dan yu xue	胆俞穴	3
+dan yuan zhang zui bu yuan xing	但愿长醉不愿醒	3
+dan zhi xing fu mo yan	胆汁性腹膜炎	3
+dan zhu keng	丹竹坑	3
+dan bai yuan	蛋白原	2
+dan bao qi ye kuai ji zhi du	担保企业会计制度	2
+dan ceng ci de xuan ze gou cheng	单层次的选择构成	2
+dan ceng zhu zhuang shang pi	单层柱状上皮	2
+dan chun xing shen nang zhong	单纯性肾囊肿	2
+dan da xiang	丹达乡	2
+dan dan ji	担担鸡	2
+dan dan you cha	担担油茶	2
+dan gan bie jing shi	但感别经时	2
+dan ge jing shu jiao nang	丹葛颈舒胶囊	2
+dan he tun shi xi bao	单核吞噬细胞	2
+dan huang gan lu su	蛋黄甘露酥	2
+dan ji de ban ban dian dian	但记得斑斑点点	2
+dan jian neng xing xun ma zhen	胆碱能性荨麻疹	2
+dan jing he xiang	单晶河乡	2
+dan nang nang zhong	胆囊囊肿	2
+dan nang san jiao	胆囊三角	2
+dan nang zao lou shu	胆囊造瘘术	2
+dan qi dong mai	单脐动脉	2
+dan qi ke li	丹杞颗粒	2
+dan qi pian	丹七片	2
+dan shen bao xin cha	丹参保心茶	2
+dan shen shu xin jiao nang	丹参舒心胶囊	2
+dan shi qing pian	胆石清片	2
+dan yi feng xian he tong	单一风险合同	2
+dan yin su fang cha fen xi	单因素方差分析	2
+dan yu	胆俞	2
+dan yuan jun xin shi wo xin	但愿君心似我心	2
+dan yuan lao si hua jiu jian	但愿老死花酒间	2
+dan zhai xiang	旦寨乡	2
+dan zhi xiao yao jiao nang	丹栀逍遥胶囊	2
+dan zou wu xian qin	但奏无弦琴	2
+dan bao zi	担孢子	1
+dan bo shi neng zhi wo yi	淡薄似能知我意	1
+dan can tian xia zhi sheng fa	殚残天下之圣法	1
+dan cha jian	胆茶碱	1
+dan chun xing jing shen fen lie zheng	单纯型精神分裂症	1
+dan chun xing ya zhou yan	单纯性牙周炎	1
+dan chun xing yang zhen	单纯性痒疹	1
+dan ci huang he qu	旦辞黄河去	1
+dan cun bei kou	单村北口	1
+dan dan shan er bao bao luo	澹澹衫儿薄薄罗	1
+dan dao sang ma zhang	但道桑麻长	1
+dan dao wu lu xin bian zu	但道吾庐心便足	1
+dan dao xi shu	弹道系数	1
+dan de guan qing li bu heng	但得官清吏不横	1
+dan de jiu zhong qu	但得酒中趣	1
+dan du bing	丹毒病	1
+dan feng shi huo zhao qiu shan	丹枫似火照秋山	1
+dan feng xin ren min	但逢新人民	1
+dan ga xiang	旦嘎乡	1
+dan gui jie jie dao	丹桂街街道	1
+dan gui xiang ke li	丹桂香颗粒	1
+dan he dao	丹河道	1
+dan hen wu guo wang you jun	但恨无过王右军	1
+dan hong hua yu kou fu ye	丹红化瘀口服液	1
+dan hu wu kong xie	箪壶无空携	1
+dan jian shu hua chuan	但见书画传	1
+dan jiao xin shi jin dian jian	但教心似金钿坚	1
+dan jue yi shang shi	但觉衣裳湿	1
+dan kan fei hong quan hu jiu	弹看飞鸿劝胡酒	1
+dan kan gu lai ge wu di	但看古来歌舞地	1
+dan kang jiao nang	胆康胶囊	1
+dan kong fang zhu kong	但恐放箸空	1
+dan kong shi tao hua	但恐失桃花	1
+dan lin xiang	丹林乡	1
+dan ling gui you ri	但令归有日	1
+dan lu tong du pian	丹鹿通督片	1
+dan ma xiang	旦马乡	1
+dan mu jin gao jiao nang	胆木浸膏胶囊	1
+dan mu jin gao pian	胆木浸膏片	1
+dan mu zhu she ye	胆木注射液	1
+dan nang dan gu chun chen zhuo zheng	胆囊胆固醇沉着症	1
+dan nang xing qu xin	担囊行取薪	1
+dan nuo bian hu shi lu	丹诺辩护实录	1
+dan qi ruan jiao nang	丹七软胶囊	1
+dan qing hua chu shi jun shan	丹青画出是君山	1
+dan ri xiang shi zu	旦日飨士卒	1
+dan sao e mei chao zhi zun	淡扫蛾眉朝至尊	1
+dan sao ming hu kai yu jing	淡扫明湖开玉镜	1
+dan se du juan	淡色杜鹃	1
+dan shen huang dou tang	丹参黄豆汤	1
+dan shen shu xin	丹参舒心	1
+dan shen tong jiao nang	丹参酮胶囊	1
+dan shi can nian bao chi fan	但使残年饱吃饭	1
+dan shi qiao	单石桥	1
+dan shu jiao nang	胆舒胶囊	1
+dan wo bu neng fang ge	但我不能放歌	1
+dan xi xia ri zhang	但惜夏日长	1
+dan xiang guan xin zhu she ye	丹香冠心注射液	1
+dan ya jia shi zhu	丹崖夹石柱	1
+dan yan liu shui hua ping you	淡烟流水画屏幽	1
+dan yi xu lie	单一序列	1
+dan you quan sheng xi wo xin	但有泉声洗我心	1
+dan yu ji hu jiang xiang	旦余济乎江湘	1
+dan yuan tian xia ren	但愿天下人	1
+dan za bao gan	氮杂胞苷	1
+dan zhai xiang	单寨乡	1
+dan zhe yan zhi yun zhu	淡着燕脂匀注	1
+dan zhi lin shui deng shan xiao yong	但知临水登山啸咏	1
+dan zhi ya gang	单殖亚纲	1
+dan zhu keng	单竹坑	1
+dan zi fen die	淡紫粉蝶	1
+dan he xiong zhu ba weng	淡褐胸侏霸鹟	0
+dan hei hong tian niu	淡黑红天牛	0
+dan huang bao luo	蛋黃寶螺	0
+dan huang qiao ke li mao	蛋黄巧克力猫	0
+dan huang xiao ye jia	淡黄肖叶甲	0
+dan huang xuan jing zhou e	淡黄旋茎舟蛾	0
+dan huang yi hua tian niu	淡黄异花天牛	0
+dan hui hei chi qu jing	淡灰黑齿鼩鼱	0
+dan ji bao fang fu	单棘豹鲂鮄	0
+dan ji bi yu	单棘躄鱼	0
+dan ji bi yu ke	单棘躄鱼科	0
+dan jiao bi yu	单角鼻鱼	0
+dan jiao ge tun	单角革鲀	0
+dan jiao gou tun xiao ye jia	淡角沟臀肖叶甲	0
+dan jiao heng wen jian feng	淡角横纹茧蜂	0
+dan jiao ni xi ying	单角拟喜萤	0
+dan jing nang hai qiao	单精囊海鞘	0
+dan lie di zhong ying	单列地种蝇	0
+dan lin cu ji xia hu yu	单鳞粗棘鰕虎鱼	0
+dan ling wen chun mang chun	淡领纹唇盲蝽	0
+dan lu bai ying ha	淡路白樱蛤	0
+dan lv nong die	淡绿弄蝶	0
+dan mai lao shi zhi shi lie quan	丹麦老式指示猎犬	0
+dan mai rui dian nong chang quan	丹麦瑞典农场犬	0
+dan nuo ni zhu mu yu	丹挪拟珠目鱼	0
+dan se kong deng e	淡色孔灯蛾	0
+dan se mo hua ying	单色摩花蝇	0
+dan tiao zhi ying	单条植蝇	0
+dan wei mu	单尾目	0
+dan wei wei jiao liao	淡尾苇鹪鹩	0
+dan xi bao zao lei bing	单细胞藻类病	0
+dan xian gang guo ai zhi li	单线刚果矮脂鲤	0
+dan xing yan an meng shui zao	单性沿岸猛水蚤	0
+dan yi lu feng	单一芦蜂	0
+dan yuan bo ye e	淡缘波夜蛾	0
+dan yuan hou mang chun	淡缘厚盲蝽	0
+dan zha bi shi	单栅笔石	0
+dan zhi lin he zhao long	单指临河爪龙	0
+dan zhi xi chong bing	单殖吸虫病	0
+dan zhong du juan	淡钟杜鹃	0

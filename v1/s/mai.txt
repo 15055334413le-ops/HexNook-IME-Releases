@@ -1,0 +1,2043 @@
+mai le	买了	369495
+mai mai	买卖	350875
+mai jia	买家	259505
+mai de	买的	221970
+mai jia	卖家	196790
+mai chu	卖出	158670
+mai ru	买入	144700
+mai fang	买房	141580
+mai chang	卖场	141095
+mai dao	买到	138385
+mai fang	买方	133015
+mai fang	卖方	129170
+mai dang lao	麦当劳	109060
+mai dian	卖点	107505
+mai gei	卖给	99245
+mai chong	脉冲	93765
+mai chu	迈出	86720
+mai de	卖的	83365
+mai le	卖了	72570
+mai jin	迈进	71635
+mai lai	买来	70420
+mai ke er	迈克尔	68805
+mai che	买车	66420
+mai diao	卖掉	64590
+mai ke feng	麦克风	61430
+mai yi ge	买一个	59740
+mai bo	脉搏	58600
+mai mai shuang fang	买卖双方	56980
+mai xiang	迈向	54900
+mai yi	买一	54005
+mai dong xi	买东西	51305
+mai xia	买下	50565
+mai zai	埋在	50400
+mai yin	卖淫	47605
+mai jin	买进	47400
+mai dan	买单	46985
+mai ke	迈克	44670
+mai luo	脉络	42405
+mai ge	买个	42380
+mai dao	卖到	42120
+mai tian	麦田	41385
+mai hui	买回	41245
+mai fu	埋伏	39485
+mai mai he tong	买卖合同	38300
+mai de	卖得	35250
+mai zi	麦子	35030
+mai piao	买票	34975
+mai bu dao	买不到	34600
+mai tou	埋头	34025
+mai zhu	买主	33280
+mai pan	买盘	33275
+mai cang	埋藏	32405
+mai zang	埋葬	29850
+mai dian	买点	29600
+mai duan	买断	28740
+mai bu qi	买不起	27995
+mai li	卖力	27510
+mai guo	买过	27380
+mai cai	买菜	26335
+mai shang	迈上	25185
+mai pan	卖盘	24805
+mai fang zi	买房子	24365
+mai hao	买好	24130
+mai ru	迈入	24025
+mai shu	买书	21935
+mai xia	埋下	21740
+mai tuo	迈拓	21230
+mai fang	卖房	20785
+mai xie	买些	19910
+mai a mi	迈阿密	19830
+mai tou ku gan	埋头苦干	19590
+mai ya	麦芽	19045
+mai chu qu	卖出去	18945
+mai yi fu	买衣服	18780
+mai bu	迈步	18405
+mai de	买得	17995
+mai ken xi	麦肯锡	17830
+mai shen me	买什么	17470
+mai de qi	买得起	17320
+mai yao	买药	16965
+mai fang shi chang	买方市场	16895
+mai dong	脉动	16710
+mai nong	卖弄	16455
+mai xia le	埋下了	16395
+mai xia le	买下了	16230
+mai yi fu	买一副	15780
+mai mo	埋没	15550
+mai zhe	迈着	15065
+mai jia	卖价	14800
+mai dang na	麦当娜	14670
+mai wan	卖完	14625
+mai zuo	卖座	14385
+mai dong	麦冬	14130
+mai dan	埋单	13885
+mai guo zei	卖国贼	13815
+mai she	埋设	13675
+mai kai	迈开	13300
+mai zhu	卖主	13200
+mai zai	买在	12985
+mai che	卖车	12860
+mai shen	卖身	12845
+mai xin	买新	12755
+mai de long	麦德龙	12575
+mai bu chu qu	卖不出去	12305
+mai le yi tao	买了一套	12285
+mai hui lai	买回来	12240
+mai zou	买走	12205
+mai pian	麦片	12120
+mai dong xi	卖东西	12040
+mai ken	麦肯	11965
+mai dao le	买到了	11845
+mai yi	卖艺	11430
+mai yi xie	买一些	10960
+mai le	埋了	10775
+mai bao xian	买保险	10755
+mai ming	卖命	10740
+mai sui	麦穗	10435
+mai li	麦粒	10410
+mai jia	买价	10400
+mai cai piao	买彩票	10370
+mai shang	买上	10370
+mai yi bu	买一部	10350
+mai ge	麦格	10105
+mai dou	麦兜	10020
+mai yi bu	迈一步	10020
+mai a	买啊	9999
+mai bei	买呗	9999
+mai bu liao le	买不了了	9999
+mai cha er	麦茬儿	9999
+mai cuo	买错	9999
+mai cuo le	买错了	9999
+mai gan chong	麦秆虫	9999
+mai gan er	麦秆儿	9999
+mai gong	卖功	9999
+mai guan jie	买关节	9999
+mai huo	卖货	9999
+mai huo de	卖货的	9999
+mai jin	卖劲	9999
+mai kou qi	麦口期	9999
+mai kou shang	麦口上	9999
+mai ma	买吗	9999
+mai mang	麦芒	9999
+mai mang er	麦芒儿	9999
+mai meng	卖萌	9999
+mai sha	买啥	9999
+mai si fang bu	迈四方步	9999
+mai yan	买烟	9999
+mai zuo er	卖座儿	9999
+mai jin le	迈进了	9950
+mai fang shi chang	卖方市场	9915
+mai ru jia	买入价	9795
+mai qian	卖钱	9550
+mai ke a se	麦克阿瑟	9500
+mai ru	埋入	9380
+mai guo	卖过	9180
+mai xia lai	买下来	9045
+mai ma	卖吗	8888
+mai gei	买给	8740
+mai yin piao chang	卖淫嫖娼	8600
+mai ya tang	麦芽糖	8435
+mai de shi	买的是	8340
+mai mai gu piao	买卖股票	8340
+mai xie	卖血	8110
+mai xue	卖血	8110
+mai guan	买官	8025
+mai shen me	卖什么	8010
+mai ni	买你	7970
+mai guan	卖官	7920
+mai kai lun	迈凯伦	7777
+mai hua	卖花	7670
+mai ban	买办	7655
+mai chu le	卖出了	7655
+mai jia	麦加	7590
+mai guo	卖国	7535
+mai dian nao	买电脑	7375
+mai yao	卖药	7080
+mai de shi	卖的是	7045
+mai shou ji	买手机	6710
+mai xiang	卖相	6695
+mai chong xin hao	脉冲信号	6685
+mai fu	麦麸	6680
+mai hua	买花	6675
+mai er	迈尔	6670
+mai di	卖地	6595
+mai le yi liang	买了一辆	6595
+mai di	买地	6585
+mai zhe	买者	6515
+mai kong	卖空	6445
+mai jiu	卖酒	6420
+mai shui	卖水	6415
+mai tong	买通	6410
+mai gu piao	买股票	6405
+mai di xun	麦迪逊	6290
+mai cai	卖菜	6145
+mai xiang	脉象	5980
+mai shui	买水	5955
+mai yi tai	买一台	5955
+mai yi song yi	买一送一	5910
+mai yin nv	卖淫女	5905
+mai miao	麦苗	5875
+mai rou	卖肉	5835
+mai chang	卖唱	5755
+mai chu jia	卖出价	5730
+mai lou	买楼	5725
+mai guo	迈过	5720
+mai jiu	买酒	5560
+mai ba	买吧	5555
+mai bao	买包	5555
+mai can	卖惨	5555
+mai dao	埋到	5555
+mai duo	买多	5555
+mai ke	麦克	5555
+mai sao	卖骚	5555
+mai zhi	买只	5555
+mai jie	麦秸	5550
+mai zang le	埋葬了	5545
+mai shu	卖书	5535
+mai fang zhe	买房者	5520
+mai ke tang na	麦克唐纳	5290
+mai zhe lun	麦哲伦	5265
+mai xie	买鞋	5195
+mai zhe	埋着	5125
+mai ta	买它	5085
+mai zhang	买张	5025
+mai piao	卖票	4995
+mai guang	卖光	4955
+mai bu qi fang	买不起房	4950
+mai cao	麦草	4925
+mai ge hao jia qian	卖个好价钱	4870
+mai kuan	脉宽	4780
+mai mai jiao yi	买卖交易	4715
+mai ba he	迈巴赫	4660
+mai gei ni	卖给你	4660
+mai cai de	卖菜的	4640
+mai fan shi	麦饭石	4630
+mai shou	埋首	4530
+mai duo shao	卖多少	4525
+mai qu	买去	4455
+mai zhang	买账	4450
+mai ba	卖吧	4444
+mai ke	卖课	4444
+mai na	买那	4444
+mai de dao	买得到	4385
+mai mai guan xi	买卖关系	4385
+mai hui qu	买回去	4320
+mai mai ti	买买提	4245
+mai hu han	埋弧焊	4190
+mai er si	迈尔斯	4160
+mai bu mai	买不买	4155
+mai chong kuan du	脉冲宽度	4155
+mai cang zhe	埋藏着	4150
+mai tian li	麦田里	4115
+mai jian	买件	4110
+mai pin	卖品	3895
+mai pian zhou	麦片粥	3878
+mai bu chu	卖不出	3830
+mai bao	卖报	3730
+mai fan	买饭	3730
+mai fang zi	卖房子	3720
+mai bao	麦包	3715
+mai qi	买齐	3699
+mai zui	买醉	3695
+mai le	迈了	3660
+mai gou	买够	3646
+mai jia	卖假	3645
+mai zhe	卖者	3640
+mai da lou	卖大楼	3579
+mai xian	埋线	3575
+mai tong	脉通	3570
+mai si wei er	麦斯威尔	3565
+mai ke	买壳	3560
+mai gei wo	卖给我	3545
+mai bu diao	卖不掉	3540
+mai ya	脉压	3530
+mai cheng	买成	3470
+mai de shao	卖得少	3467
+mai guan yan	脉管炎	3410
+mai rou	买肉	3355
+mai jiao	迈脚	3333
+mai le hen duo	买了很多	3333
+mai mai	脉脉	3333
+mai na	买哪	3333
+mai tu	埋土	3333
+mai tui	迈腿	3333
+mai xiong	买凶	3333
+mai zhi	买纸	3333
+mai guan zi	卖关子	3330
+mai mai xing wei	买卖行为	3290
+mai ke si wei	麦克斯韦	3275
+mai ke er	麦克尔	3255
+mai nan	卖难	3245
+mai huo chai de xiao nv hai	卖火柴的小女孩	3225
+mai ji	麦基	3215
+mai wang	麦网	3100
+mai de ren	买的人	3055
+mai cha	卖茶	3035
+mai tou yu	埋头于	3010
+mai guai	卖乖	2990
+mai luo mo	脉络膜	2975
+mai cai de	买菜的	2965
+mai mi	买米	2960
+mai bu dong	卖不动	2925
+mai ka xi	麦卡锡	2905
+mai kuan tiao zhi	脉宽调制	2810
+mai ji piao	买机票	2765
+mai diao	埋掉	2750
+mai mai	买买	2705
+mai duan gong ling	买断工龄	2700
+mai chong shi	脉冲式	2680
+mai gan	麦秆	2660
+mai hao	卖好	2635
+mai lou	卖楼	2590
+mai ming	买名	2560
+mai mai qi yue	买卖契约	2550
+mai ta	卖他	2505
+mai lang	麦浪	2450
+mai xi shu	脉细数	2450
+mai chu hui gou zheng quan	卖出回购证券	2370
+mai chong shu chu	脉冲输出	2360
+mai mai	卖卖	2355
+mai yi zeng yi	买一赠一	2355
+mai xian ka	买显卡	2349
+mai bu liao	卖不了	2325
+mai men	脉门	2320
+mai di	麦地	2304
+mai gu	埋骨	2300
+mai de shao	买得少	2289
+mai bu	买不	2222
+mai fen	买分	2222
+mai guai	卖拐	2222
+mai hao	卖号	2222
+mai na	卖那	2222
+mai tai	买台	2222
+mai wan le	卖完了	2222
+mai wo	卖我	2222
+mai yu	买鱼	2222
+mai mai xie yi	买卖协议	2205
+mai gao qiao	迈皋桥	2195
+mai jia	麦家	2190
+mai bu de	买不得	2185
+mai ru jing	麦乳精	2151
+mai jin li	麦金利	2147
+mai zang zhe	埋葬着	2095
+mai huo che piao	买火车票	2070
+mai tou gong zuo	埋头工作	2055
+mai zai xin li	埋在心里	2055
+mai zhe	卖着	2050
+mai ge	卖个	1990
+mai bu xia lai	买不下来	1980
+mai zhong	麦种	1965
+mai ji shan	麦积山	1950
+mai lao	卖老	1950
+mai bu mai	卖不卖	1925
+mai jin mai chu	买进卖出	1925
+mai nong feng qing	卖弄风情	1895
+mai shen qi	卖身契	1880
+mai chun	买春	1870
+mai gou	卖狗	1860
+mai ru di xia	埋入地下	1850
+mai de qi fang	买得起房	1825
+mai mai hun yin	买卖婚姻	1805
+mai ji shan shi ku	麦积山石窟	1795
+mai mai he tong jiu fen	买卖合同纠纷	1770
+mai nong feng sao	卖弄风骚	1765
+mai ke te	麦科特	1760
+mai lu qian	买路钱	1760
+mai tan weng	卖炭翁	1760
+mai duan shi	买断式	1725
+mai yin zui	卖淫罪	1715
+mai cheng	麦城	1710
+mai gua	买瓜	1660
+mai fang yao qiu	买方要求	1650
+mai cang wu	埋藏物	1615
+mai chun	卖春	1560
+mai chong dian liu	脉冲电流	1550
+mai wen	卖文	1535
+mai xiao	卖笑	1515
+mai jin nong	麦金农	1490
+mai zi	卖字	1450
+mai di	麦迪	1448
+mai tai	埋汰	1440
+mai de lin	麦德林	1435
+mai dong	迈动	1425
+mai qian	买前	1410
+mai di na	麦地那	1400
+mai chong pin lv	脉冲频率	1390
+mai bu liao	买不了	1375
+mai shi	脉石	1375
+mai bu zhao	买不着	1365
+mai zhe	买着	1365
+mai di	埋地	1333
+mai li qi	卖力气	1325
+mai ke ma hong xian	麦克马洪线	1320
+mai jin gu piao	买进股票	1310
+mai ku li	卖苦力	1310
+mai che le	买车了	1290
+mai de duo	买得多	1285
+mai guo qiu rong	卖国求荣	1280
+mai ke lei	麦克雷	1280
+mai chong xing	脉冲星	1275
+mai qi	买起	1265
+mai dui	买对	1248
+mai chong shu	脉冲数	1240
+mai qi lai	埋起来	1235
+mai shou	买手	1234
+mai hua	买画	1195
+mai bu de	卖不得	1180
+mai chu lai	卖出来	1180
+mai ti bang	买蹄膀	1180
+mai yi dui	买一堆	1180
+mai yi dui	买一对	1180
+mai yu bu mai	买与不买	1180
+mai chong fa	脉冲阀	1175
+mai li zhong	麦粒肿	1140
+mai mai ren	买卖人	1140
+mai zai di li	埋在地里	1140
+mai gou rou	卖狗肉	1135
+mai ben	买本	1111
+mai ben er	买本儿	1111
+mai bu	卖不	1111
+mai bu liao le	卖不了了	1111
+mai di	卖底	1111
+mai dian	埋点	1111
+mai dian er tu	埋点儿土	1111
+mai dian tu	埋点土	1111
+mai fen	卖分	1111
+mai jin	埋进	1111
+mai kou	麦口	1111
+mai li	脉理	1111
+mai liang	买辆	1111
+mai liang che	买辆车	1111
+mai na	卖哪	1111
+mai qi	卖起	1111
+mai qiu	买球	1111
+mai se	麦色	1111
+mai tao	买套	1111
+mai wo	买我	1111
+mai yan	买眼	1111
+mai yu	卖鱼	1111
+mai ya tang chun	麦芽糖醇	1104
+mai liang nan	卖粮难	1065
+mai guan yu jue	卖官鬻爵	1060
+mai ke fei	迈克菲	1040
+mai kong mai kong	买空卖空	1015
+mai guang le	卖光了	1000
+mai die	麦爹	999
+mai zui	卖嘴	999
+mai di mei su	麦迪霉素	995
+mai dui le	买对了	987
+mai jia yan	卖假烟	987
+mai xi	脉息	980
+mai guo le	买过了	976
+mai de bi	卖得比	965
+mai gui le	买贵了	955
+mai bu qi shu	买不起书	950
+mai luo fen ming	脉络分明	940
+mai du huan zhu	买椟还珠	935
+mai gai ti xian	麦盖提县	925
+mai ke lai lun	麦克莱伦	925
+mai jiu	麦酒	915
+mai ru tu zhong	埋入土中	900
+mai ding	买定	895
+mai lei	埋雷	895
+mai cha	麦茬	850
+mai mai fa	买卖法	840
+mai mai cha jia	买卖差价	830
+mai gei ni	买给你	827
+mai ban jie ji	买办阶级	800
+mai dong cao	麦冬草	800
+mai sheng de	卖剩的	789
+mai yi mai	买一买	789
+mai ke ma hong	麦克马洪	780
+mai ya fen	麦芽酚	775
+mai you	卖友	770
+mai guang	买光	740
+mai de hen huo	卖得很火	735
+mai ya zhi	麦芽汁	730
+mai he di	迈赫迪	715
+mai kang	麦糠	715
+mai yin zhe	卖淫者	715
+mai shen	卖肾	700
+mai mo ren cai	埋没人才	690
+mai hua nv	卖花女	680
+mai fan	麦饭	671
+mai kao lin	麦考林	665
+mai xue	脉穴	665
+mai gua	卖瓜	660
+mai mai fang	买卖方	660
+mai ming	埋名	660
+mai qiu	麦秋	645
+mai le ge guan zi	卖了个关子	640
+mai xiang yu	麦香鱼	634
+mai chong chuan	脉冲串	620
+mai ban zi chan jie ji	买办资产阶级	605
+mai nian huo	买年货	605
+mai jia yao	卖假药	600
+mai ben shu	买本书	595
+mai wu	卖屋	575
+mai chong bo xing	脉冲波形	550
+mai guo zao fan	埋锅造饭	550
+mai tian quan	麦田圈	550
+mai ji shu	买技术	545
+mai guang gao	买广告	540
+mai qi lai	买起来	540
+mai gai ti	麦盖提	535
+mai gei wo	买给我	531
+mai jing	麦精	530
+mai mai gong ping	买卖公平	530
+mai shou	麦收	522
+mai kang na	麦康纳	520
+mai ke lai	麦克莱	505
+mai you qiu rong	卖友求荣	505
+mai xi lai fu	麦西来甫	501
+mai zhe lun hai xia	麦哲伦海峡	495
+mai duo	麦垛	490
+mai gou pi gao yao	卖狗皮膏药	485
+mai ke lao de	麦克劳德	485
+mai shi zeng yi	买十赠一	485
+mai a mi re huo dui	迈阿密热火队	475
+mai xiang ji	麦香鸡	471
+mai er zeng yi	买二赠一	470
+mai shen jiu mu	卖身救母	465
+mai cai piao le	买彩票了	450
+mai na mai	麦纳麦	440
+mai xia qu	埋下去	440
+mai bao ge	卖报歌	435
+mai bu chu	迈不出	425
+mai gan hua	麦秆画	415
+mai luo cong	脉络丛	415
+mai ke la	麦克拉	401
+mai le ge hao	卖了个好	395
+mai jin tuo shi	麦金托什	385
+mai kong jiao yi	卖空交易	385
+mai ken luo	麦肯罗	365
+mai wan wei zhi	卖完为止	365
+mai de qi che	买得起车	350
+mai fu xia	埋伏下	350
+mai ken qi	麦肯齐	350
+mai dui	麦堆	349
+mai bu dao	卖不到	347
+mai nong fei	麦农肥	340
+mai shen tou kao	卖身投靠	335
+mai jia huo	卖假货	331
+mai dai	卖呆	330
+mai mai bu cheng ren yi zai	买卖不成仁义在	330
+mai sheng	卖剩	321
+mai kou	脉口	320
+mai ban zi ben	买办资本	310
+mai bu shang	买不上	304
+mai le ge shou ji	买了个手机	300
+mai xiao	买笑	300
+mai bu dong	买不动	292
+mai chu	买处	290
+mai nong xue wen	卖弄学问	290
+mai de shao	买的少	289
+mai jiao gu chun	麦角固醇	285
+mai wan zhi hou	买完之后	278
+mai lian	卖脸	275
+mai zhe fang xin	买着放心	265
+mai mai	迈迈	260
+mai qiao	卖俏	260
+mai kai en	麦凯恩	250
+mai qi	买气	235
+mai chong bo hao	脉冲拨号	225
+mai yi mai	卖一卖	224
+mai wo men	卖我们	222
+mai you	买油	222
+mai an	脉案	220
+mai mian zi	买面子	220
+mai fen	麦粉	219
+mai zi xue yuan	麦子学院	218
+mai de qi ma	买得起吗	210
+mai fu di dian	埋伏地点	210
+mai ya cha	麦芽茶	208
+mai ya tang hu jing	麦芽糖糊精	205
+mai le liang	买了辆	201
+mai de sen	麦德森	200
+mai mai mai mai mai	买买买买买	200
+mai zang diao	埋葬掉	200
+mai sheng ri li wu	买生日礼物	199
+mai ge jiao xun	买个教训	198
+mai ge lei ge	麦格雷戈	198
+mai ke ni er	麦克尼尔	198
+mai la zhu	买蜡烛	196
+mai jia li yin hang	麦加利银行	195
+mai lu yuan	麦庐园	188
+mai xiao deng	麦小登	188
+mai gou	买狗	186
+mai jia qi	麦家琪	186
+mai yi shu hua	买一束花	186
+mai bu qi yao	买不起药	185
+mai ke ge lei di	麦克格雷迪	185
+mai luo bo	卖萝卜	183
+mai yang rou	买羊肉	183
+mai bian pao	买鞭炮	180
+mai bu jin	买不进	180
+mai la ji chi	麦辣鸡翅	180
+mai mai cheng	买卖成	180
+mai ya tang mei	麦芽糖酶	180
+mai yang yi	脉氧仪	180
+mai guo yi fu	买过衣服	179
+mai hua sheng	卖花生	179
+mai guan tou	买罐头	176
+mai ka li si te	麦卡利斯特	176
+mai li pin	买礼品	175
+mai xiang xin zheng cheng	迈向新征程	173
+mai di lei	埋地雷	172
+mai nai cha	卖奶茶	171
+mai xin bu mai jiu	买新不买旧	171
+mai yi mai	迈一迈	168
+mai ge lei di	麦格雷迪	167
+mai shou shi	买首饰	167
+mai xiang lian	买项链	167
+mai za zhi	买杂志	167
+mai ke tuo mi nai	麦克托米奈	166
+mai jin li shan	麦金利山	165
+mai jin xin zheng cheng	迈进新征程	165
+mai tang yuan	买汤圆	165
+mai zhi jin	买纸巾	163
+mai bu dao cai	买不到菜	162
+mai yi song san	买一送三	162
+mai bu zhu	埋不住	160
+mai gan zhe yan	卖柑者言	160
+mai guo huo	买国货	159
+mai fan shi guo	麦饭石锅	158
+mai shen jie	卖身节	157
+mai shi jie	麦市街	156
+mai hong shu	卖红薯	155
+mai le ge xin de	买了个新的	155
+mai le yi da dui	买了一大堆	155
+mai bu liao chi kui	买不了吃亏	154
+mai zhong zi	买种子	154
+mai qing huai	卖情怀	153
+mai te dai	迈特戴	153
+mai jin xin shi dai	迈进新时代	151
+mai li si	麦丽丝	151
+mai zong zi	卖粽子	151
+mai xiang he xie	迈向和谐	150
+mai biao shu	买标书	149
+mai ke lang	麦克朗	148
+mai qi fang	买期房	148
+mai heng li	麦亨利	146
+mai le bu shao	买了不少	145
+mai ken ni	麦肯尼	144
+mai le ji kuai	麦乐鸡块	143
+mai si song yi	买四送一	143
+mai dui lian	卖对联	142
+mai dian qi	买电器	141
+mai mai ren kou	买卖人口	141
+mai chong zao sheng	脉冲噪声	140
+mai cuo piao	买错票	140
+mai lai shi shi	买来试试	140
+mai bu liao shang dang	买不了上当	139
+mai yue bing	卖月饼	139
+mai la ji tui han bao	麦辣鸡腿汉堡	138
+mai yu rong fu	买羽绒服	136
+mai chong ji	脉冲计	135
+mai dong dian liu	脉动电流	135
+mai ke lu han	麦克卢汉	135
+mai shi	埋尸	135
+mai shi an	埋尸案	135
+mai lu ren	麦路人	131
+mai dao lu	麦岛路	130
+mai ji	麦季	130
+mai bao zhi	买报纸	129
+mai shou tao	买手套	129
+mai tuo ying pan	迈拓硬盘	128
+mai chong xiang ying	脉冲响应	127
+mai ge jiao shou	麦格教授	127
+mai ke tai sen	迈克·泰森	126
+mai bang bang tang	买棒棒糖	125
+mai deng long	买灯笼	124
+mai hou zi	买猴子	124
+mai le ge ji mo	买了个寂寞	124
+mai le mai	迈了迈	123
+mai le mai jiao	迈了迈脚	123
+mai mo le	埋没了	123
+mai yi mai	埋一埋	123
+mai chang qing	麦长青	122
+mai zhi ji	买只鸡	121
+mai jia jiu	卖假酒	120
+mai liang xie	买凉鞋	119
+mai tou kui	买头盔	118
+mai mai kan	买买看	117
+mai bu chu jia	卖不出价	115
+mai de pian yi	买得便宜	115
+mai tang guo	买糖果	114
+mai kou zhao	卖口罩	113
+mai qiu ku	买秋裤	113
+mai a	卖啊	111
+mai ba	买把	111
+mai beng	买崩	111
+mai da	买大	111
+mai guan	买罐	111
+mai gui	买贵	111
+mai ke er fa si bin de	迈克尔·法斯宾德	111
+mai ke yi wen si	麦克·伊文斯	111
+mai kong mai kong	卖空买空	111
+mai kong tiao	卖空调	111
+mai le hen duo	卖了很多	111
+mai sha	卖啥	111
+mai wo men	买我们	111
+mai xiao	买小	111
+mai you	卖油	111
+mai a xi	唛阿喜	110
+mai chuang dian	卖床垫	110
+mai de bi	买得比	110
+mai jiao zi	卖饺子	110
+mai le ge dan gao	买了个蛋糕	110
+mai pang xie	买螃蟹	110
+mai xuan ku	麦炫酷	110
+mai bu shang	卖不上	107
+mai er song er	买二送二	107
+mai xiao fu	买校服	107
+mai yi bei	买一杯	107
+mai wu song yi	买五送一	106
+mai liao	麦寮	105
+mai dui le	卖对了	104
+mai de le	麦德乐	103
+mai jia yan	买假烟	103
+mai wei jin	买围巾	103
+mai da lou	买大楼	101
+mai dui lian	买对联	101
+mai xian ka	卖显卡	101
+mai a mi	麦阿密	100
+mai a mi de yi ye	迈阿密的一夜	100
+mai a mi hai tan	迈阿密海滩	100
+mai a mi tan	迈阿密滩	100
+mai an ta	买安踏	100
+mai ao di	买奥迪	100
+mai ba san	买把伞	100
+mai ba zeng ba	买八赠八	100
+mai ba zeng er	买八赠二	100
+mai ba zeng jiu	买八赠九	100
+mai ba zeng liu	买八赠六	100
+mai ba zeng qi	买八赠七	100
+mai ba zeng san	买八赠三	100
+mai ba zeng shi	买八赠十	100
+mai ba zeng si	买八赠四	100
+mai ba zeng wu	买八赠五	100
+mai ba zeng yi	买八赠一	100
+mai bai fen	卖白粉	100
+mai bai xiang	买白象	100
+mai ban ai	买绊爱	100
+mai ban dao tie he	卖半岛铁盒	100
+mai bao bao	买包包	100
+mai bao de	卖报的	100
+mai bao de xiao hang jia	卖报的小行家	100
+mai bao ma	买宝马	100
+mai bao yan	买包盐	100
+mai bao zhi de	卖报纸的	100
+mai ben chi	买奔驰	100
+mai ben shu a	买本书啊	100
+mai bing fen	卖冰粉	100
+mai bing gao	买冰糕	100
+mai bing gun	买冰棍	100
+mai bu ce zi	卖卜测字	100
+mai bu dao le	买不到了	100
+mai bu dao yan	买不到烟	100
+mai bu liao fang	买不了房	100
+mai bu mai a	买不买啊	100
+mai bu mai de qi	买不买得起	100
+mai bu qi a	买不起啊	100
+mai bu qi le	买不起了	100
+mai bu qi xi lie	买不起系列	100
+mai bu qian jin	迈步前进	100
+mai bu zhi rou	脉不制肉	100
+mai cai dao	买菜刀	100
+mai cang di	埋藏地	100
+mai cang shen du	埋藏深度	100
+mai cang zai nei xin shen chu	埋藏在内心深处	100
+mai cang zai xin di	埋藏在心底	100
+mai cang zai xin li	埋藏在心里	100
+mai cha nv	卖茶女	100
+mai cha nv pian ju	卖茶女骗局	100
+mai chang an	买长安	100
+mai chang cheng duan	买长乘短	100
+mai chi de	买吃的	100
+mai chi mu	脉翅目	100
+mai chong dian ci chang	脉冲电磁场	100
+mai chong duo pu le lei da	脉冲多普勒雷达	100
+mai chong gong lv	脉冲功率	100
+mai chong guang	脉冲光	100
+mai chong hang qing	脉冲行情	100
+mai chong kuan du tiao zhi	脉冲宽度调制	100
+mai chong lei da	脉冲雷达	100
+mai chong tiao zhi	脉冲调制	100
+mai chu de yi da bu	迈出的一大步	100
+mai chu de zhong yao yi bu	迈出的重要一步	100
+mai chu jiao bu	迈出脚步	100
+mai chu le	迈出了	100
+mai chu le di yi bu	迈出了第一步	100
+mai chu le xin bu fa	迈出了新步伐	100
+mai chu le yi bu	迈出了一步	100
+mai chu le yi da bu	迈出了一大步	100
+mai chu le yi xiao bu	迈出了一小步	100
+mai chu le zhong yao de yi bu	迈出了重要的一步	100
+mai chu le zhong yao yi bu	迈出了重要一步	100
+mai chu qu le	卖出去了	100
+mai chu zhe bu	迈出这步	100
+mai chu zhe yi bu	迈出这一步	100
+mai chu zhong yao yi bu	迈出重要一步	100
+mai da cai	买大彩	100
+mai da ke si	麦达克斯	100
+mai da mai xiao	买大买小	100
+mai da qiu	买大球	100
+mai da si zhi shou	迈达斯之手	100
+mai da xiang	买大象	100
+mai dang lao a sa mu nai cha	麦当劳阿萨姆奶茶	100
+mai dang lao a sa mu nai cha xue bing	麦当劳阿萨姆奶茶雪冰	100
+mai dang lao an ge si hou niu pei gen bao tao can	麦当劳安格斯厚牛培根堡套餐	100
+mai dang lao an ye hei hu jiao ji tui bao	麦当劳暗夜黑胡椒鸡腿堡	100
+mai dang lao bao jiang zhi shi ji pai bao	麦当劳爆浆芝士鸡排堡	100
+mai dang lao bin fen yuan tong bing qi lin	麦当劳缤纷圆筒冰淇淋	100
+mai dang lao bing huo yang tao qi le ku	麦当劳冰火杨桃奇乐酷	100
+mai dang lao bing lu kuang wu zhi shui	麦当劳冰露矿物质水	100
+mai dang lao bo luo pai	麦当劳菠萝派	100
+mai dang lao bu su zhi ba shuang ceng niu rou bao	麦当劳不素之霸双层牛肉堡	100
+mai dang lao cao mei kou wei qi le ku	麦当劳草莓口味奇乐酷	100
+mai dang lao cao mei pai	麦当劳草莓派	100
+mai dang lao cao mei xin di	麦当劳草莓新地	100
+mai dang lao chao ji pei gen ji pai bao	麦当劳超级培根鸡排堡	100
+mai dang lao chao ji rou jiang shu tiao	麦当劳超级肉酱薯条	100
+mai dang lao chao zhi gong zuo can	麦当劳超值工作餐	100
+mai dang lao chuan la xiang si zhu rou bao	麦当劳川辣香撕猪肉堡	100
+mai dang lao chun niu nai	麦当劳纯牛奶	100
+mai dang lao cui gu ji	麦当劳脆骨鸡	100
+mai dang lao cui pi feng tang feng wei ji chi	麦当劳脆皮枫糖风味鸡翅	100
+mai dang lao cui shu bing	麦当劳脆薯饼	100
+mai dang lao cui xiang you tiao	麦当劳脆香油条	100
+mai dang lao cui xiang you tiao zu he	麦当劳脆香油条组合	100
+mai dang lao da cui ji pa mai man fen	麦当劳大脆鸡扒麦满分	100
+mai dang lao da cui ji pa mai man fen zu he	麦当劳大脆鸡扒麦满分组合	100
+mai dang lao da shu tiao	麦当劳大薯条	100
+mai dang lao da yang zhou feng wei zha xia bang	麦当劳大洋洲风味炸虾棒	100
+mai dang lao dong fang quan ye li ti cha bao	麦当劳东方全叶立体茶包	100
+mai dang lao e shi hong chang shuang ji bao	麦当劳俄式红肠双鸡堡	100
+mai dang lao fei zhou feng wei yan xun feng wei ji chi	麦当劳非洲风味烟熏风味鸡翅	100
+mai dang lao fen xiang xiao shi he	麦当劳纷享小食盒	100
+mai dang lao gu wu ji rou mai xian zhou	麦当劳谷物鸡肉麦鲜粥	100
+mai dang lao han bao bao	麦当劳汉堡包	100
+mai dang lao hao yun hong chang zhu pai bao	麦当劳好运红肠猪排堡	100
+mai dang lao hei li bai pai	麦当劳黑里白派	100
+mai dang lao hei zhi ma zhen zhu nai cha	麦当劳黑芝麻珍珠奶茶	100
+mai dang lao hong cha	麦当劳红茶	100
+mai dang lao hong dou mo cha xin di	麦当劳红豆抹茶新地	100
+mai dang lao hong dou pai	麦当劳红豆派	100
+mai dang lao hong mei bin fen ku	麦当劳红莓缤纷酷	100
+mai dang lao hong zao gui yuan cha	麦当劳红枣桂圆茶	100
+mai dang lao hua sheng ao li ao mai xuan feng	麦当劳花生奥利奥麦旋风	100
+mai dang lao hua sheng cao mei mai xuan feng	麦当劳花生草莓麦旋风	100
+mai dang lao hua sheng cao mei xin di	麦当劳花生草莓新地	100
+mai dang lao hua sheng kou wei yuan tong bing qi lin	麦当劳花生口味圆筒冰淇淋	100
+mai dang lao hua sheng zhu gu li xin di	麦当劳花生朱古力新地	100
+mai dang lao huo tui pa mai man fen	麦当劳火腿扒麦满分	100
+mai dang lao huo tui pa mai man fen zu he	麦当劳火腿扒麦满分组合	100
+mai dang lao ji shi dan bao	麦当劳吉士蛋堡	100
+mai dang lao ji shi dan mai man fen	麦当劳吉士蛋麦满分	100
+mai dang lao ji shi dan mai man fen zu he	麦当劳吉士蛋麦满分组合	100
+mai dang lao ji shi han bao bao	麦当劳吉士汉堡包	100
+mai dang lao jia you jin tong	麦当劳家有金桶	100
+mai dang lao jia you jin tong hei jin quan jia fu	麦当劳家有金桶黑金全家福	100
+mai dang lao jin gong men tong	麦当劳金拱门桶	100
+mai dang lao jin gong men tong ke le ji chi ban	麦当劳金拱门桶可乐鸡翅版	100
+mai dang lao jin huang cui shu ge	麦当劳金黄脆薯格	100
+mai dang lao jin man tou	麦当劳金馒头	100
+mai dang lao jin tong	麦当劳金桶	100
+mai dang lao jing dian zhi shi dan gao	麦当劳经典芝士蛋糕	100
+mai dang lao ju wu ba	麦当劳巨无霸	100
+mai dang lao ju wu ba chao zhi tao can	麦当劳巨无霸超值套餐	100
+mai dang lao ka bu qi nuo ka fei	麦当劳卡布奇诺咖啡	100
+mai dang lao kai xin le yuan can	麦当劳开心乐园餐	100
+mai dang lao kao zhi niu rou mai qu fan	麦当劳烤汁牛肉麦趣饭	100
+mai dang lao kao zhi niu rou mai qu fan zu he	麦当劳烤汁牛肉麦趣饭组合	100
+mai dang lao ke kou ke le	麦当劳可口可乐	100
+mai dang lao ke le ji chi	麦当劳可乐鸡翅	100
+mai dang lao ke le mai le ku	麦当劳可乐麦乐酷	100
+mai dang lao ku la hei jiao ji tui bao tao can	麦当劳酷辣黑椒鸡腿堡套餐	100
+mai dang lao ku ye pai hei sen lin feng wei	麦当劳酷夜派黑森林风味	100
+mai dang lao la ming dun dan gao	麦当劳拉明顿蛋糕	100
+mai dang lao lan mei mai fen	麦当劳蓝莓麦芬	100
+mai dang lao li zhi huo long guo kou wei qi le ku	麦当劳荔枝火龙果口味奇乐酷	100
+mai dang lao li zhi kou wei wu long pao pao cha	麦当劳荔枝口味乌龙泡泡茶	100
+mai dang lao li zhi ye guo kou wei nuan yin	麦当劳荔枝椰果口味暖饮	100
+mai dang lao ling du ke kou ke le	麦当劳零度可口可乐	100
+mai dang lao liu liu wan	麦当劳溜溜丸	100
+mai dang lao ma ma hei tian tong	麦当劳麻麻黑甜筒	100
+mai dang lao mai la ji chi	麦当劳麦辣鸡翅	100
+mai dang lao mai la ji tui han bao	麦当劳麦辣鸡腿汉堡	100
+mai dang lao mai la ji tui han bao chao zhi tao can	麦当劳麦辣鸡腿汉堡超值套餐	100
+mai dang lao mai la ji tui han bao tao can	麦当劳麦辣鸡腿汉堡套餐	100
+mai dang lao mai le ji	麦当劳麦乐鸡	100
+mai dang lao mai le ji chao zhi tao can	麦当劳麦乐鸡超值套餐	100
+mai dang lao mai qu ji he	麦当劳麦趣鸡盒	100
+mai dang lao mai xiang ji	麦当劳麦香鸡	100
+mai dang lao mai xiang ji chao zhi tao can	麦当劳麦香鸡超值套餐	100
+mai dang lao mai xiang yu	麦当劳麦香鱼	100
+mai dang lao mai xiang yu chao zhi tao can	麦当劳麦香鱼超值套餐	100
+mai dang lao mai xuan feng ao li ao cao mei kou wei	麦当劳麦旋风奥利奥草莓口味	100
+mai dang lao mai xuan feng ao li ao kou wei	麦当劳麦旋风奥利奥口味	100
+mai dang lao mai xuan ku yang guang cheng	麦当劳麦旋酷阳光橙	100
+mai dang lao mang guo kou wei mai xuan ku	麦当劳芒果口味麦炫酷	100
+mai dang lao mang guo pai	麦当劳芒果派	100
+mai dang lao mang guo xue bing	麦当劳芒果雪冰	100
+mai dang lao mei shi jing dian ka fei	麦当劳美式经典咖啡	100
+mai dang lao mei zhi yuan	麦当劳美汁源	100
+mai dang lao mei zhi yuan yang guang cheng	麦当劳美汁源阳光橙	100
+mai dang lao mi gua bin fen ku	麦当劳蜜瓜缤纷酷	100
+mai dang lao mi zhi ji tui mai qu fan	麦当劳秘制鸡腿麦趣饭	100
+mai dang lao mi zhi ji tui mai qu fan zu he	麦当劳秘制鸡腿麦趣饭组合	100
+mai dang lao mi zhi ji tui man wan fan	麦当劳蜜汁鸡腿满碗饭	100
+mai dang lao mo ka bin fen ku	麦当劳摩卡缤纷酷	100
+mai dang lao mo ka ka fei	麦当劳摩卡咖啡	100
+mai dang lao mo ka xue bing	麦当劳摩卡雪冰	100
+mai dang lao mo xi ge shao kao feng wei ji tui bao	麦当劳墨西哥烧烤风味鸡腿堡	100
+mai dang lao na me da ji chi	麦当劳那么大鸡翅	100
+mai dang lao na me da ji pai	麦当劳那么大鸡排	100
+mai dang lao na me da ji pai man wan fan	麦当劳那么大鸡排满碗饭	100
+mai dang lao na me da tian tong	麦当劳那么大甜筒	100
+mai dang lao na tie ka fei	麦当劳拿铁咖啡	100
+mai dang lao na tie xue bing	麦当劳拿铁雪冰	100
+mai dang lao nai xi	麦当劳奶昔	100
+mai dang lao nai you jian guo jiang dan niu bao	麦当劳奶油坚果酱蛋牛堡	100
+mai dang lao niu niu shu tiao	麦当劳扭扭薯条	100
+mai dang lao niu yue zhi shi dan gao tian tong	麦当劳纽约芝士蛋糕甜筒	100
+mai dang lao nu fang fen xiang he	麦当劳怒放分享盒	100
+mai dang lao pao pao qiu zhen zhu nai cha hong dou kou wei	麦当劳泡泡球珍珠奶茶红豆口味	100
+mai dang lao pao pao qiu zhen zhu nai cha yuan wei	麦当劳泡泡球珍珠奶茶原味	100
+mai dang lao pao pao quan tian tian quan dan gao	麦当劳泡泡圈甜甜圈蛋糕	100
+mai dang lao pei gen dan xiang jian bing	麦当劳培根蛋香煎饼	100
+mai dang lao pei gen dan xiang jian bing can	麦当劳培根蛋香煎饼餐	100
+mai dang lao pei gen dan xiang jian bing zu he	麦当劳培根蛋香煎饼组合	100
+mai dang lao pei gen shu cui shuang ceng niu bao	麦当劳培根蔬萃双层牛堡	100
+mai dang lao pei gen shu cui shuang ceng niu bao chao zhi tao can	麦当劳培根蔬萃双层牛堡超值套餐	100
+mai dang lao pei gen shu cui shuang ceng niu bao tao can	麦当劳培根蔬萃双层牛堡套餐	100
+mai dang lao pi dan ji rou zhou zu he	麦当劳皮蛋鸡肉粥组合	100
+mai dang lao pi pa yang li pai	麦当劳枇杷洋梨派	100
+mai dang lao ping guo pai	麦当劳苹果派	100
+mai dang lao qiao ke li mai fen	麦当劳巧克力麦芬	100
+mai dang lao qiao ke li xin di	麦当劳巧克力新地	100
+mai dang lao que chao bing shuang cha feng mi xue li wei	麦当劳雀巢冰爽茶蜂蜜雪梨味	100
+mai dang lao re zhu gu li	麦当劳热朱古力	100
+mai dang lao sang ge li ya feng wei	麦当劳桑格利亚风味	100
+mai dang lao sang ge li ya te yin	麦当劳桑格利亚特饮	100
+mai dang lao shao kao feng wei ji chi	麦当劳烧烤风味鸡翅	100
+mai dang lao shu shu	麦当劳叔叔	100
+mai dang lao shu tiao	麦当劳薯条	100
+mai dang lao shuang ceng a la si jia xia xue yu bao	麦当劳双层阿拉斯加狭鳕鱼堡	100
+mai dang lao shuang ceng ji shi han bao bao	麦当劳双层吉士汉堡包	100
+mai dang lao shuang ceng ji shi han bao bao chao zhi tao can	麦当劳双层吉士汉堡包超值套餐	100
+mai dang lao shuang ceng ji shi han bao tao can	麦当劳双层吉士汉堡套餐	100
+mai dang lao shuang ceng mai la ji tui han bao	麦当劳双层麦辣鸡腿汉堡	100
+mai dang lao shuang ceng yuan wei ban shao ji tui mai man fen	麦当劳双层原味板烧鸡腿麦满分	100
+mai dang lao shuang ceng yuan wei ban shao ji tui mai man fen zu he	麦当劳双层原味板烧鸡腿麦满分组合	100
+mai dang lao shuang xuan yuan tong bing qi lin	麦当劳双旋圆筒冰淇淋	100
+mai dang lao suan cai cui sun ji rou zhou tao can	麦当劳酸菜脆笋鸡肉粥套餐	100
+mai dang lao suan cai cui sun ji rou zhou zu he	麦当劳酸菜脆笋鸡肉粥组合	100
+mai dang lao tai shi xiang si ji rou bao	麦当劳泰式香撕鸡肉堡	100
+mai dang lao tao hua kou wei cao mei xin di	麦当劳桃花口味草莓新地	100
+mai dang lao tao hua kou wei mai xuan feng	麦当劳桃花口味麦旋风	100
+mai dang lao tao hua kou wei xin di	麦当劳桃花口味新地	100
+mai dang lao tao hua tian tong	麦当劳桃花甜筒	100
+mai dang lao te ji nong hua nai cha	麦当劳特级浓滑奶茶	100
+mai dang lao tian xiang yu mi bei	麦当劳甜香玉米杯	100
+mai dang lao wang de hei jin mai xuan feng	麦当劳王的黑金麦旋风	100
+mai dang lao wang de hei jin pai	麦当劳王的黑金派	100
+mai dang lao wang de hei jin yan xun feng wei ji chi	麦当劳王的黑金烟熏风味鸡翅	100
+mai dang lao wang de hei jin zhen zhu nai cha	麦当劳王的黑金珍珠奶茶	100
+mai dang lao wu se nen ji mai fan juan	麦当劳五色嫩鸡麦饭卷	100
+mai dang lao wu se nen ji mai fan juan zu he	麦当劳五色嫩鸡麦饭卷组合	100
+mai dang lao wu se zhi niu mai fan juan	麦当劳五色至牛麦饭卷	100
+mai dang lao wu se zhi niu mai fan juan zu he	麦当劳五色至牛麦饭卷组合	100
+mai dang lao xian dan huang ji si zhou zu he	麦当劳咸蛋黄鸡丝粥组合	100
+mai dang lao xian nai mo cha	麦当劳鲜奶抹茶	100
+mai dang lao xian nai mo cha xue bing	麦当劳鲜奶抹茶雪冰	100
+mai dang lao xian xiang jiao yan wei na me da ji pai	麦当劳鲜香椒盐味那么大鸡排	100
+mai dang lao xian zhu ka fei	麦当劳鲜煮咖啡	100
+mai dang lao xiang gu ji tui	麦当劳香骨鸡腿	100
+mai dang lao xiang jiao he tao mai fen	麦当劳香蕉核桃麦芬	100
+mai dang lao xiang man nen ji jia chang bao	麦当劳香满嫩鸡加长堡	100
+mai dang lao xiang yu bin fen ku	麦当劳香芋缤纷酷	100
+mai dang lao xiang yu pai	麦当劳香芋派	100
+mai dang lao xiao shi fen xiang he	麦当劳小食分享盒	100
+mai dang lao xiao shi fen xiang he	麦当劳小食纷享盒	100
+mai dang lao xiao shu tiao	麦当劳小薯条	100
+mai dang lao xing chu niu bao xi lie	麦当劳星厨牛堡系列	100
+mai dang lao xuan mi cha tian tong	麦当劳玄米茶甜筒	100
+mai dang lao xue bi	麦当劳雪碧	100
+mai dang lao xue bi mai le ku	麦当劳雪碧麦乐酷	100
+mai dang lao ya li shan da wang hei jin da tong	麦当劳亚历山大王黑金大桶	100
+mai dang lao yan rou dan mai man fen	麦当劳烟肉蛋麦满分	100
+mai dang lao yan rou dan mai man fen can	麦当劳烟肉蛋麦满分餐	100
+mai dang lao yan rou dan mai man fen zu he	麦当劳烟肉蛋麦满分组合	100
+mai dang lao yan shao feng wei ji chi	麦当劳岩烧风味鸡翅	100
+mai dang lao you guo nai xi	麦当劳优果奶昔	100
+mai dang lao you pin dou jiang	麦当劳优品豆浆	100
+mai dang lao yuan tong bing qi lin	麦当劳圆筒冰淇淋	100
+mai dang lao yuan wei ban shao ji tui bao chao zhi tao can	麦当劳原味板烧鸡腿堡超值套餐	100
+mai dang lao yuan wei ban shao ji tui bao tao can	麦当劳原味板烧鸡腿堡套餐	100
+mai dang lao yuan wei ban shao ji tui mai man fen	麦当劳原味板烧鸡腿麦满分	100
+mai dang lao yuan wei ban shao ji tui mai man fen can	麦当劳原味板烧鸡腿麦满分餐	100
+mai dang lao yuan wei ban shao ji tui mai man fen zu he	麦当劳原味板烧鸡腿麦满分组合	100
+mai dang lao yuan wei te ji ban shao ji tui bao	麦当劳原味特级板烧鸡腿堡	100
+mai dang lao za guo bin fen qi le ku	麦当劳杂果缤纷奇乐酷	100
+mai dang lao zao chen quan can	麦当劳早晨全餐	100
+mai dang lao zao chen quan can tao can	麦当劳早晨全餐套餐	100
+mai dang lao zha dan hei ku yin	麦当劳炸弹黑酷饮	100
+mai dang lao zhen cui mai la ji tui han bao	麦当劳珍萃麦辣鸡腿汉堡	100
+mai dang lao zhi zu huo tui jia chang bao	麦当劳芝足火腿加长堡	100
+mai dang lao zhong shu tiao	麦当劳中薯条	100
+mai dang lao zhu liu dan bao	麦当劳猪柳蛋堡	100
+mai dang lao zhu liu dan mai man fen	麦当劳猪柳蛋麦满分	100
+mai dang lao zhu liu dan mai man fen can	麦当劳猪柳蛋麦满分餐	100
+mai dang lao zhu liu dan mai man fen zu he	麦当劳猪柳蛋麦满分组合	100
+mai dang lao zhu liu mai man fen	麦当劳猪柳麦满分	100
+mai dang lao zhu liu mai man fen can	麦当劳猪柳麦满分餐	100
+mai dang lao zhu liu mai man fen zu he	麦当劳猪柳麦满分组合	100
+mai dang le	麦当乐	100
+mai dao ban	买盗版	100
+mai dao cai	买到菜	100
+mai dao le jia huo	买到了假货	100
+mai dao le ma	买到了吗	100
+mai dao mai du	卖刀买犊	100
+mai de an	麦德安	100
+mai de an xin	买得安心	100
+mai de ba	买的吧	100
+mai de bu cuo	卖得不错	100
+mai de bu cuo a	卖得不错啊	100
+mai de bu hao	卖得不好	100
+mai de cha	卖得差	100
+mai de chu	卖得出	100
+mai de diao	卖得掉	100
+mai de dong	卖得动	100
+mai de duo	卖得多	100
+mai de fang	买的房	100
+mai de fang xin	买得放心	100
+mai de fei chang hao	卖得非常好	100
+mai de geng duo	卖得更多	100
+mai de geng gui	卖得更贵	100
+mai de geng hao	卖得更好	100
+mai de geng shao	卖得更少	100
+mai de gui	买得贵	100
+mai de gui	卖得贵	100
+mai de hao	买得好	100
+mai de hao	卖得好	100
+mai de hao bu hao	卖得好不好	100
+mai de hen gui	卖得很贵	100
+mai de hen hao	卖得很好	100
+mai de hen hao a	卖得很好啊	100
+mai de hen hao ba	卖得很好吧	100
+mai de hen hao ya	卖得很好呀	100
+mai de hua	买的花	100
+mai de huo	卖得火	100
+mai de kuai	卖得快	100
+mai de liao meng	卖得了萌	100
+mai de ling shi	买的零食	100
+mai de mei you mai de jing	买的没有卖的精	100
+mai de pian yi	卖得便宜	100
+mai de qi a	买得起啊	100
+mai de qi fang zi	买得起房子	100
+mai de qi yang bu qi	买得起养不起	100
+mai de shen me	买得什么	100
+mai de shen me yao	卖的什么药	100
+mai de shi shen me	买的是什么	100
+mai de shi shen me	卖的是什么	100
+mai de shu xin	买得舒心	100
+mai de tai duo	买得太多	100
+mai de tai gui	卖得太贵	100
+mai de ting hao	卖得挺好	100
+mai de yi liao	迈得医疗	100
+mai de zao	买得早	100
+mai de zhe me hao	卖得这么好	100
+mai de zhi	买得值	100
+mai de zui hao	卖得最好	100
+mai de zui huo	卖得最火	100
+mai di ban	买地板	100
+mai di deng	埋地灯	100
+mai di gua	卖地瓜	100
+mai di guan dao	埋地管道	100
+mai di jian fang	买地建房	100
+mai di li	麦地里	100
+mai di pi	买地皮	100
+mai di quan	买地券	100
+mai di shi	埋地式	100
+mai di shou ru	卖地收入	100
+mai di wen	麦迪文	100
+mai di xun guang chang hua yuan	麦迪逊广场花园	100
+mai dian che	买电车	100
+mai dian chi de	买点吃的	100
+mai dian dong xi	卖点东西	100
+mai dian jiao zi	买点饺子	100
+mai dian ka	买点卡	100
+mai dian ka	卖点卡	100
+mai dian li wu	买点礼物	100
+mai dian nao de	卖电脑的	100
+mai dian nao le	买电脑了	100
+mai dian nian huo	买点年货	100
+mai dian shen me	买点什么	100
+mai dian yuan xiao	买点元宵	100
+mai diao le	卖掉了	100
+mai ding pei	买顶配	100
+mai diu ti	麦丢替	100
+mai dong xi bu	买东西不	100
+mai dou mai bu dao	买都买不到	100
+mai dou mai le	买都买了	100
+mai dou xiang dang dang	麦兜响当当	100
+mai du er huan zhu	买椟而还珠	100
+mai du mai dao	卖犊买刀	100
+mai duan ban	买断版	100
+mai duan cheng chang	买短乘长	100
+mai duan huo	卖断货	100
+mai duan le	买断了	100
+mai duan le ba	买断了吧	100
+mai duan le huo	卖断了货	100
+mai duan le ma	买断了吗	100
+mai duan zhi	买断制	100
+mai duo hua	买朵花	100
+mai duo le	买多了	100
+mai duo shao qian	卖多少钱	100
+mai er cha ya	麦二叉蚜	100
+mai er deng ni	麦尔登呢	100
+mai er feng mu	埋儿奉母	100
+mai er si dai wei si	迈尔斯·戴维斯	100
+mai er song yi	买二送一	100
+mai er wei er	麦尔维尔	100
+mai er yu nv	卖儿鬻女	100
+mai er zeng ba	买二赠八	100
+mai er zeng er	买二赠二	100
+mai er zeng jiu	买二赠九	100
+mai er zeng liu	买二赠六	100
+mai er zeng qi	买二赠七	100
+mai er zeng san	买二赠三	100
+mai er zeng shi	买二赠十	100
+mai er zeng si	买二赠四	100
+mai er zeng wu	买二赠五	100
+mai fan juan	麦饭卷	100
+mai fang chuang ye	卖房创业	100
+mai fang dui	买方对	100
+mai fang hai shi zu fang	买房还是租房	100
+mai fang huan zhai	卖房还债	100
+mai fang le	买房了	100
+mai fang le ma	买房了吗	100
+mai fang luo hu	买房落户	100
+mai fang mai di	卖房卖地	100
+mai fang mei	买房没	100
+mai fang shi ji	买房时机	100
+mai fang zhi di	买房置地	100
+mai fei fo	卖飞佛	100
+mai fei le	卖飞了	100
+mai fen mai fen	买分卖分	100
+mai feng le	卖疯了	100
+mai feng liu	卖风流	100
+mai feng shan	买风扇	100
+mai fu bi	埋伏笔	100
+mai fu chai pin	卖富差贫	100
+mai fu zhuang	卖服装	100
+mai gan shu zhu	埋杆竖柱	100
+mai gao fen	麦高芬	100
+mai gao jia	卖高价	100
+mai gao wen	麦高文	100
+mai gao yao de	卖膏药的	100
+mai ge gua	买个挂	100
+mai ge gua ba	买个挂吧	100
+mai ge hui yuan	买个会员	100
+mai ge lei	埋个雷	100
+mai ge li	麦格里	100
+mai ge ni	麦格尼	100
+mai ge ni tong xu	麦格尼铜须	100
+mai ge po zhan	卖个破绽	100
+mai ge ren qing	卖个人情	100
+mai ge wan bei	买个玩呗	100
+mai ge xi gua	买个西瓜	100
+mai ge xin de	买个新的	100
+mai ge zi	麦个子	100
+mai gei le	卖给了	100
+mai gei zi ji	买给自己	100
+mai gen sha shi	麦根沙士	100
+mai gou xuan yang	卖狗悬羊	100
+mai gu chao jin	迈古超今	100
+mai gu di	埋骨地	100
+mai gu huang lu	埋骨黄垆	100
+mai gu yi	卖估衣	100
+mai gu zhi di	埋骨之地	100
+mai gua piao	卖挂票	100
+mai guan xin de	买罐新的	100
+mai guan yu yu	卖官鬻狱	100
+mai guan zu zhi	脉管组织	100
+mai guang le yi jing	卖光了已经	100
+mai gui bi pei	买贵必赔	100
+mai guo qi jun	卖国欺君	100
+mai guo qu	迈过去	100
+mai guo shen me	买过什么	100
+mai guo xin dong xi	买过新东西	100
+mai guo yi ge	买过一个	100
+mai guo zhu yi	卖国主义	100
+mai hai shi bu mai	买还是不买	100
+mai hai shi bu mai	卖还是不卖	100
+mai hai shi mai	买还是卖	100
+mai hai xian de	卖海鲜的	100
+mai he de	买喝的	100
+mai he di jun	迈赫迪军	100
+mai hong luo bo	卖红萝卜	100
+mai hong mei	买红妹	100
+mai hua de	买花的	100
+mai hua hua	买花花	100
+mai hua le	卖花了	100
+mai hua wei	买华为	100
+mai hui jia	买回家	100
+mai hui le jia	买回了家	100
+mai hui li	买回力	100
+mai hui yuan	买会员	100
+mai huo chai	卖火柴	100
+mai huo jian de xiao nv hai	卖火箭的小女孩	100
+mai ji jin	买基金	100
+mai ji jin	卖基金	100
+mai ji ka	买季卡	100
+mai ji qu	麦积区	100
+mai ji ta	买吉他	100
+mai ji zhi	买几只	100
+mai jia chao sheng	麦加朝圣	100
+mai jia de fu wu tai du	卖家的服务态度	100
+mai jia fa huo de su du	卖家发货的速度	100
+mai jia fa huo su du	卖家发货速度	100
+mai jia fu wu tai du	卖家服务态度	100
+mai jia tai du	卖家态度	100
+mai jian mai niu	卖剑买牛	100
+mai jiao suan	麦角酸	100
+mai jie wen	麦洁文	100
+mai jin bi	买金币	100
+mai jin de	麦金德	100
+mai jin dui chong	买进对冲	100
+mai jin le yi bu	迈进了一步	100
+mai jin ni	麦金尼	100
+mai jin ta	麦金塔	100
+mai jin ta dian nao	麦金塔电脑	100
+mai jin ta ji suan ji	麦金塔计算机	100
+mai jin xin bu fa	迈进新步伐	100
+mai jin xu xiang shi jin jia	卖金须向识金家	100
+mai jiu zeng ba	买九赠八	100
+mai jiu zeng er	买九赠二	100
+mai jiu zeng jiu	买九赠九	100
+mai jiu zeng liu	买九赠六	100
+mai jiu zeng qi	买九赠七	100
+mai jiu zeng san	买九赠三	100
+mai jiu zeng shi	买九赠十	100
+mai jiu zeng si	买九赠四	100
+mai jiu zeng wu	买九赠五	100
+mai jiu zeng yi	买九赠一	100
+mai jue se	买角色	100
+mai jun long	麦浚龙	100
+mai ka fei	麦咖啡	100
+mai ka le mu	麦卡勒姆	100
+mai ka tuo	麦卡托	100
+mai ka wei	迈卡威	100
+mai kai le	麦凯乐	100
+mai kai le bu zi	迈开了步子	100
+mai kai yi	迈凯伊	100
+mai kao ma ke	麦考马克	100
+mai kao ma ke shuo	麦考马克说	100
+mai kao ya	买烤鸭	100
+mai ke bai	麦克白	100
+mai ke bai fu ren	麦克白夫人	100
+mai ke bei	麦克贝	100
+mai ke bu lei	麦可布雷	100
+mai ke dao ge la si	麦克·道格拉斯	100
+mai ke er bo dun	迈克尔·勃顿	100
+mai ke er jie ke xun	迈克尔·杰克逊	100
+mai ke er ke lai dun	迈克尔·克莱顿	100
+mai ke er qiao dan	迈克尔·乔丹	100
+mai ke er sen	迈克尔森	100
+mai ke er sun mo lei shi yan	迈克耳孙-莫雷实验	100
+mai ke er xun mo lei shi yan	迈克尔逊-莫雷实验	100
+mai ke fa lan ke si	麦可法兰克斯	100
+mai ke fei deng	麦克菲登	100
+mai ke feng mei you sheng yin	麦克风没有声音	100
+mai ke ge lei ge	麦克格雷格	100
+mai ke jie ke sen	麦可杰克森	100
+mai ke jie ke xun	迈克·杰克逊	100
+mai ke la lun	麦克拉伦	100
+mai ke le	买可乐	100
+mai ke le mo	麦克勒摩	100
+mai ke le mo	麦克勒莫	100
+mai ke le mo	麦科勒莫	100
+mai ke le mu	迈克勒姆	100
+mai ke le mu	麦克勒姆	100
+mai ke le mu	麦科勒姆	100
+mai ke lei lan	麦克雷兰	100
+mai ke li	麦科里	100
+mai ke lian	麦克连	100
+mai ke lin	麦克林	100
+mai ke lin deng	麦克林登	100
+mai ke lun bao	麦克伦堡	100
+mai ke mi lan	麦克米兰	100
+mai ke mi lun	麦克米伦	100
+mai ke mo li si	麦克莫里斯	100
+mai ke sen	迈可森	100
+mai ke shang shi	买壳上市	100
+mai ke shi mi si	麦可史密斯	100
+mai ke si	麦克斯	100
+mai ke ta wei shi	麦克塔维什	100
+mai ke wei	麦克维	100
+mai ke wei er zhong yang kong tiao	麦克维尔中央空调	100
+mai kong le	买空了	100
+mai kong tiao	买空调	100
+mai kuai di	买块地	100
+mai kuai le	买快乐	100
+mai kuan tiao zhi ji shu	脉宽调制技术	100
+mai la bao	麦辣堡	100
+mai la ji tui bao	麦辣鸡腿堡	100
+mai la ji tui han bao chao zhi tao can	麦辣鸡腿汉堡超值套餐	100
+mai la ji tui han bao tao can	麦辣鸡腿汉堡套餐	100
+mai lai le	买来了	100
+mai lai mai qu	买来买去	100
+mai lai mai qu	卖来卖去	100
+mai lai shou cang	买来收藏	100
+mai le ba	买了吧	100
+mai le ba	卖了吧	100
+mai le ba	埋了吧	100
+mai le bao xian	买了保险	100
+mai le bei	买了杯	100
+mai le bei ka fei	买了杯咖啡	100
+mai le bu hou hui	买了不后悔	100
+mai le cai	买了菜	100
+mai le che	买了车	100
+mai le che piao	买了车票	100
+mai le che wei	买了车位	100
+mai le che yi hou	买了车以后	100
+mai le che zi	买了车子	100
+mai le dai	买了袋	100
+mai le dan	买了单	100
+mai le di	麦乐迪	100
+mai le di lei	埋了地雷	100
+mai le dian	买了点	100
+mai le dong xi	买了东西	100
+mai le duo shao	买了多少	100
+mai le duo shao	卖了多少	100
+mai le duo shao qian	卖了多少钱	100
+mai le er zi zhao nv xu	卖了儿子招女婿	100
+mai le fang	买了房	100
+mai le fang	卖了房	100
+mai le fang zi	买了房子	100
+mai le fang zi	卖了房子	100
+mai le fang zi hou	买了房子后	100
+mai le fo leng	买了佛冷	100
+mai le ge	买了个	100
+mai le ge biao	买了个表	100
+mai le ge hao jia qian	卖了个好价钱	100
+mai le gen	买了根	100
+mai le gou	麦乐购	100
+mai le gu piao	买了股票	100
+mai le guan	买了罐	100
+mai le hao	卖了好	100
+mai le hao che	买了豪车	100
+mai le hao duo	买了好多	100
+mai le hao duo dong xi	买了好多东西	100
+mai le hou	买了后	100
+mai le hou hui	买了后悔	100
+mai le huan qian	卖了换钱	100
+mai le huo lei	埋了火雷	100
+mai le ji	麦乐鸡	100
+mai le ji chao zhi tao can	麦乐鸡超值套餐	100
+mai le ji piao	买了机票	100
+mai le ji tao can	麦乐鸡套餐	100
+mai le ji xia	麦乐鸡侠	100
+mai le ji zei	麦乐鸡贼	100
+mai le jia huo	买了假货	100
+mai le jiu hou hui	买了就后悔	100
+mai le ku	麦乐酷	100
+mai le lei	埋了雷	100
+mai le li wu	买了礼物	100
+mai le liang ci	买了两次	100
+mai le liang ping	买了两瓶	100
+mai le liang tao	买了两套	100
+mai le ling shi	买了零食	100
+mai le ma	买了吗	100
+mai le mei	买了没	100
+mai le men piao	买了门票	100
+mai le piao	买了票	100
+mai le ping	买了瓶	100
+mai le qi che	买了汽车	100
+mai le sha	买了啥	100
+mai le shen me	买了什么	100
+mai le shen me dong xi	买了什么东西	100
+mai le shou ji	买了手机	100
+mai le shu	买了书	100
+mai le shu hua	买了束花	100
+mai le shui	买了水	100
+mai le song	麦乐送	100
+mai le ta	买了它	100
+mai le tai	买了台	100
+mai le tao fang zi	买了套房子	100
+mai le tong	买了桶	100
+mai le xiang	买了箱	100
+mai le xie	买了些	100
+mai le xin che	买了新车	100
+mai le xin fang	买了新房	100
+mai le xin yi fu	买了新衣服	100
+mai le xue qu fang	买了学区房	100
+mai le yi ba	买了一把	100
+mai le yi bao	买了一包	100
+mai le yi bei	买了一杯	100
+mai le yi ben	买了一本	100
+mai le yi bu	买了一部	100
+mai le yi da bu	迈了一大步	100
+mai le yi dai	买了一袋	100
+mai le yi dian	买了一点	100
+mai le yi dui	买了一堆	100
+mai le yi fen	买了一份	100
+mai le yi fen bao xian	买了一份保险	100
+mai le yi fu	买了衣服	100
+mai le yi gen	买了一根	100
+mai le yi he	买了一盒	100
+mai le yi hou	买了以后	100
+mai le yi jian	买了一件	100
+mai le yi jin	买了一斤	100
+mai le yi kuai	买了一块	100
+mai le yi kuai di	买了一块地	100
+mai le yi kuai di er	买了一块地儿	100
+mai le yi liang che	买了一辆车	100
+mai le yi ping	买了一瓶	100
+mai le yi shuang	买了一双	100
+mai le yi shuang xie	买了一双鞋	100
+mai le yi tai	买了一台	100
+mai le yi tao fang	买了一套房	100
+mai le yi tao fang zi	买了一套房子	100
+mai le yi tiao	买了一条	100
+mai le yi tong	买了一桶	100
+mai le yi tong shui	买了一桶水	100
+mai le yi tong you	买了一桶油	100
+mai le yi xiang	买了一箱	100
+mai le yi zhang	买了一张	100
+mai le yi zhi	买了一只	100
+mai le yi zhi	买了一支	100
+mai le zhe me duo	买了这么多	100
+mai lei le	埋雷了	100
+mai li de	卖力地	100
+mai li ning	买李宁	100
+mai li su	麦丽素	100
+mai li xin	买李信	100
+mai li xuan chuan	卖力宣传	100
+mai lian xi ce	买练习册	100
+mai liang bei	买两杯	100
+mai liang jiang	卖良姜	100
+mai liang kuai	买两块	100
+mai liao xiang	麦寮乡	100
+mai lin pao shou	麦林炮手	100
+mai lin pao shou cui si ta na	麦林炮手崔丝塔娜	100
+mai liu zeng ba	买六赠八	100
+mai liu zeng er	买六赠二	100
+mai liu zeng jiu	买六赠九	100
+mai liu zeng liu	买六赠六	100
+mai liu zeng qi	买六赠七	100
+mai liu zeng san	买六赠三	100
+mai liu zeng shi	买六赠十	100
+mai liu zeng si	买六赠四	100
+mai liu zeng wu	买六赠五	100
+mai liu zeng yi	买六赠一	100
+mai lu cai	买路财	100
+mai lun li lun	脉轮理论	100
+mai lun xue shuo	脉轮学说	100
+mai luo bo	买萝卜	100
+mai luo ke xun	脉络可循	100
+mai luo ming que	脉络明确	100
+mai ma gu	买马骨	100
+mai ma zhao jun	买马招军	100
+mai mai he tong guan xi	买卖合同关系	100
+mai mai mai	买买买	100
+mai mai mai mo shi	买买买模式	100
+mai mai shang	脉脉上	100
+mai mai tu di	买卖土地	100
+mai mai ye	买卖业	100
+mai mai yin hang ka	买卖银行卡	100
+mai man fen	麦满分	100
+mai man fen can	麦满分餐	100
+mai man fen zu he	麦满分组合	100
+mai mang he	买盲盒	100
+mai mang xi lie	麦芒系列	100
+mai mao liang	买猫粮	100
+mai mao yi	买毛衣	100
+mai men dong	麦门冬	100
+mai meng de	卖萌的	100
+mai mian zi	卖面子	100
+mai ming mie ji	埋名灭迹	100
+mai ming yin ji	埋名隐迹	100
+mai ming yin xing	埋名隐姓	100
+mai mu di	买墓地	100
+mai na me	买那么	100
+mai nai cha he	买奶茶喝	100
+mai niu mai jian	买牛卖剑	100
+mai nong cong ming	卖弄聪明	100
+mai nong kou she	卖弄口舌	100
+mai nv hai	卖女孩	100
+mai nv zhuang	买女装	100
+mai pao de	卖炮的	100
+mai pian yi	买便宜	100
+mai pian yi	卖便宜	100
+mai pian yi huo	买便宜货	100
+mai ping ban	买平板	100
+mai ping er shui	买瓶儿水	100
+mai ping guo	买苹果	100
+mai ping shui	买瓶水	100
+mai po zhan	卖破绽	100
+mai qi le guan zi	卖起了关子	100
+mai qi qiu	买气球	100
+mai qi yu zi	卖妻鬻子	100
+mai qi zeng ba	买七赠八	100
+mai qi zeng er	买七赠二	100
+mai qi zeng jiu	买七赠九	100
+mai qi zeng liu	买七赠六	100
+mai qi zeng qi	买七赠七	100
+mai qi zeng san	买七赠三	100
+mai qi zeng shi	买七赠十	100
+mai qi zeng si	买七赠四	100
+mai qi zeng wu	买七赠五	100
+mai qi zeng yi	买七赠一	100
+mai qiao men ting	卖俏门庭	100
+mai qiao xing jian	卖俏行奸	100
+mai qiao ying jian	卖俏营奸	100
+mai qiao ying jian	卖俏迎奸	100
+mai qiao zheng chong	卖俏争宠	100
+mai qiu qian	买秋千	100
+mai qu fan	麦趣饭	100
+mai qu fan zu he	麦趣饭组合	100
+mai qu ji he	麦趣鸡盒	100
+mai re sou	买热搜	100
+mai ren qi	买人气	100
+mai ren qi	卖人气	100
+mai ren qing	卖人情	100
+mai rou zhe	卖肉者	100
+mai ru da xue	迈入大学	100
+mai ru she hui	迈入社会	100
+mai ru zhong nian	迈入中年	100
+mai san jian	买三件	100
+mai san mian san	买三免三	100
+mai san mian yi	买三免一	100
+mai san xing	买三星	100
+mai san yuan si	埋三怨四	100
+mai san zeng ba	买三赠八	100
+mai san zeng er	买三赠二	100
+mai san zeng jiu	买三赠九	100
+mai san zeng liu	买三赠六	100
+mai san zeng qi	买三赠七	100
+mai san zeng san	买三赠三	100
+mai san zeng shi	买三赠十	100
+mai san zeng si	买三赠四	100
+mai san zeng wu	买三赠五	100
+mai san zeng yi	买三赠一	100
+mai san zhang	买三张	100
+mai se de	麦色的	100
+mai sha bu	买啥不	100
+mai sha li wu	买啥礼物	100
+mai sha yao	买啥药	100
+mai shang le xin tai jie	迈上了新台阶	100
+mai she di lei	埋设地雷	100
+mai she shen du	埋设深度	100
+mai shen me a	买什么啊	100
+mai shen me bao xian	买什么保险	100
+mai shen me chan pin	卖什么产品	100
+mai shen me che	买什么车	100
+mai shen me che hao	买什么车好	100
+mai shen me dong xi	买什么东西	100
+mai shen me gu piao	买什么股票	100
+mai shen me gu piao hao	买什么股票好	100
+mai shen me hao	买什么好	100
+mai shen me hao	卖什么好	100
+mai shen me ji jin	买什么基金	100
+mai shen me jia ge	卖什么价格	100
+mai shen me shou ji	买什么手机	100
+mai shen me yang de fang zi	买什么样的房子	100
+mai shen me yi fu	买什么衣服	100
+mai shen me zhuan qian	卖什么赚钱	100
+mai sheng hui ji	埋声晦迹	100
+mai shi you	卖石油	100
+mai shi zeng ba	买十赠八	100
+mai shi zeng er	买十赠二	100
+mai shi zeng jiu	买十赠九	100
+mai shi zeng liu	买十赠六	100
+mai shi zeng qi	买十赠七	100
+mai shi zeng san	买十赠三	100
+mai shi zeng shi	买十赠十	100
+mai shi zeng si	买十赠四	100
+mai shi zeng wu	买十赠五	100
+mai shou ji	卖手机	100
+mai shou ji de	卖手机的	100
+mai shou ji qu	买手机去	100
+mai shou ren	买受人	100
+mai shu a	买书啊	100
+mai shu pi	买书皮	100
+mai shui ru	买水乳	100
+mai si mian yi	买四免一	100
+mai si zeng ba	买四赠八	100
+mai si zeng er	买四赠二	100
+mai si zeng jiu	买四赠九	100
+mai si zeng liu	买四赠六	100
+mai si zeng qi	买四赠七	100
+mai si zeng san	买四赠三	100
+mai si zeng shi	买四赠十	100
+mai si zeng si	买四赠四	100
+mai si zeng wu	买四赠五	100
+mai si zeng yi	买四赠一	100
+mai sui liang qi	麦穗两歧	100
+mai te dai meng	麦特戴蒙	100
+mai te kai	迈特凯	100
+mai te ke	麦特克	100
+mai te la	迈特拉	100
+mai teng lv xing ban	迈腾旅行版	100
+mai tian bu shou	麦田捕手	100
+mai tian guai quan	麦田怪圈	100
+mai tian shou wang zhe	麦田守望者	100
+mai tian yang xian	买田阳羡	100
+mai tian yin yue jie	麦田音乐节	100
+mai tiao qun zi	买条裙子	100
+mai tou fu an	埋头伏案	100
+mai tou shi gan	埋头实干	100
+mai tou tan	埋头弹	100
+mai tu di	买土地	100
+mai tu di	卖土地	100
+mai tuo wei ju	迈拓维矩	100
+mai tuo xie	买拖鞋	100
+mai wan dong xi	买完东西	100
+mai wan shou ji	买完手机	100
+mai wu zeng ba	买五赠八	100
+mai wu zeng er	买五赠二	100
+mai wu zeng jiu	买五赠九	100
+mai wu zeng liu	买五赠六	100
+mai wu zeng qi	买五赠七	100
+mai wu zeng san	买五赠三	100
+mai wu zeng shi	买五赠十	100
+mai wu zeng si	买五赠四	100
+mai wu zeng wu	买五赠五	100
+mai wu zeng yi	买五赠一	100
+mai xi fa shui	买洗发水	100
+mai xi guan	买吸管	100
+mai xi yi ye	买洗衣液	100
+mai xia le fu bi	埋下了伏笔	100
+mai xia le huo gen	埋下了祸根	100
+mai xia le yi ke zhong zi	埋下了一颗种子	100
+mai xia le yin huan	埋下了隐患	100
+mai xia le zhong zi	埋下了种子	100
+mai xia li xiang	埋下理想	100
+mai xian de	麦贤得	100
+mai xian xia	买鲜虾	100
+mai xian yu fang sheng	买咸鱼放生	100
+mai xiang ba yue	迈向八月	100
+mai xiang bao	麦香堡	100
+mai xiang ji chao zhi tao can	麦香鸡超值套餐	100
+mai xiang nai	买箱奶	100
+mai xiang xin gao du	迈向新高度	100
+mai xiang yu chao zhi tao can	麦香鱼超值套餐	100
+mai xiao le	买小了	100
+mai xiao mi	买小米	100
+mai xiao qiu shi	卖笑求食	100
+mai xiao xun huan	买笑寻欢	100
+mai xiao ying huan	买笑迎欢	100
+mai xiao zhui huan	买笑追欢	100
+mai xiao zhui huan	卖笑追欢	100
+mai xie shen me	买些什么	100
+mai xin pi fu	买新皮肤	100
+mai xin yi	买新衣	100
+mai xin yi fu	买新衣服	100
+mai xiu liang qi	麦秀两歧	100
+mai xiu shu li	麦秀黍离	100
+mai xiu zhi bei	麦秀之悲	100
+mai xiu zhi gan	麦秀之感	100
+mai xuan feng	麦旋风	100
+mai xuan feng ao li ao cao mei kou wei	麦旋风奥利奥草莓口味	100
+mai xuan feng ao li ao kou wei	麦旋风奥利奥口味	100
+mai xuan ku	麦旋酷	100
+mai xuan ku yang guang cheng	麦旋酷阳光橙	100
+mai ya ru	麦芽乳	100
+mai ya zhen	麦芽镇	100
+mai yan hua	卖烟花	100
+mai yan jing	买眼镜	100
+mai yao ren	卖药人	100
+mai yi ban de jia qian	卖一半的价钱	100
+mai yi bo	买一波	100
+mai yi bu mai shen	卖艺不卖身	100
+mai yi dai	买一袋	100
+mai yi duo	买一朵	100
+mai yi fu de	卖衣服的	100
+mai yi ge	卖一个	100
+mai yi ge shi shi	买一个试试	100
+mai yi ge wan wan	买一个玩玩	100
+mai yi guan	买一罐	100
+mai yi shu	买一束	100
+mai yi tong	买一桶	100
+mai yi wan	买一万	100
+mai yi xiang	买一箱	100
+mai yi zeng ba	买一赠八	100
+mai yi zeng er	买一赠二	100
+mai yi zeng jiu	买一赠九	100
+mai yi zeng liu	买一赠六	100
+mai yi zeng qi	买一赠七	100
+mai yi zeng san	买一赠三	100
+mai yi zeng shi	买一赠十	100
+mai yi zeng si	买一赠四	100
+mai yi zeng wu	买一赠五	100
+mai yi zhe	卖艺者	100
+mai yin de	卖淫的	100
+mai yin hang	买银行	100
+mai yin hang li cai	买银行理财	100
+mai you niang zi shui shu tou	卖油娘子水梳头	100
+mai you xi ji	买游戏机	100
+mai you zhi	麦油脂	100
+mai yu yu guan	卖狱鬻官	100
+mai yuan su	鿏元素	100
+mai yuan xiao	买元宵	100
+mai yue qi	买乐器	100
+mai zai bei zi li	埋在被子里	100
+mai zang di	埋葬地	100
+mai zang zhen xiang	埋葬真相	100
+mai zao le	卖早了	100
+mai zhang guan ya	麦长管蚜	100
+mai zhe da bu	迈着大步	100
+mai zhe jian	买这件	100
+mai zhe jian ding de bu fa	迈着坚定的步伐	100
+mai zhe jiao jian de bu fa	迈着矫健的步伐	100
+mai zhe lun xing yun	麦哲伦星云	100
+mai zhe me duo qian	卖这么多钱	100
+mai zhe qing kuai de bu fa	迈着轻快的步伐	100
+mai zhe qing ying de bu fa	迈着轻盈的步伐	100
+mai zhe qing ying de jiao bu	迈着轻盈的脚步	100
+mai zhe tou	埋着头	100
+mai zhe wan	买着玩	100
+mai zhe wan wan	买着玩玩	100
+mai zhe xiao sui bu	迈着小碎步	100
+mai zhe zheng qi de bu fa	迈着整齐的步伐	100
+mai zhen hong	麦振鸿	100
+mai zheng ban	买正版	100
+mai zhi cheng	麦志诚	100
+mai zhi diao ming	卖直钓名	100
+mai zhi shan shang	卖直讪上	100
+mai zhi shen du	埋置深度	100
+mai zhong gu	埋忠骨	100
+mai zhong ji xian	买重疾险	100
+mai zhu qiu rong	卖主求荣	100
+mai zhu zai	卖猪仔	100
+mai zhuo zi	买镯子	100
+mai zi di	麦子地	100
+mai zi hao	卖字号	100
+mai zi tie	买字帖	100
+mai zi xing che	买自行车	100
+mai zi xing che	卖自行车	100
+mai zong ni ji	埋踪匿迹	100
+mai zui liao she	卖嘴料舌	100
+mai zui nong she	卖嘴弄舌	100
+mai zui shou	买罪受	100
+mai liang ping	买两瓶	98
+mai bu cheng	买不成	95
+mai bu chu qu	迈不出去	95
+mai de zhao	买得着	95
+mai pu fang huo qiang	迈普防火墙	87
+mai pu ru qin fang yu xi tong	迈普入侵防御系统	87
+mai pu shen ji wang guan	迈普审计网关	87
+mai pu tong xin ji shu	迈普通信技术	87
+mai pu tong xin ji shu gu fen you xian gong si	迈普通信技术股份有限公司	87
+mai de bi	迈得比	85
+mai jia wen ping	买假文凭	85
+mai miao er	麦苗儿	85
+mai ke dao er	麦克道尔	84
+mai qu er	麦趣尔	84
+mai yi xie	卖一些	84
+mai yu qiao	卖鱼桥	82
+mai jin qu	买进去	78
+mai gu dan bai	麦谷蛋白	75
+mai le ge fang zi	买了个房子	75
+mai le yi ge	买了一个	74
+mai ke fa	麦克法	73
+mai bu mai de dao	买不买得到	72
+mai ji ben	买几本	72
+mai guo qu	买过去	71
+mai jin qu	埋进去	71
+mai de chu qu	卖得出去	70
+mai le liang che	卖了两车	68
+mai mai sha zi he tong	买卖沙子合同	68
+mai mang kong	埋盲孔	67
+mai bu guo qu	卖不过去	66
+mai fang bu	迈方步	65
+mai le ge dong xi	买了个东西	65
+mai le ge jiao xun	买了个教训	65
+mai qi wan	脉气湾	65
+mai dao	麦道	64
+mai de qi shu	买得起书	55
+mai mai mai mai	买买卖卖	55
+mai shen	埋深	55
+mai shi song yi	买十送一	52
+mai ya zhou	麦芽粥	49
+mai er mai nv	卖儿卖女	48
+mai ke ma na si	麦克马纳斯	46
+mai xi re fu	麦西热甫	46
+mai luo ning zhu she ye	脉络宁注射液	45
+mai ma tiao zhi	脉码调制	45
+mai zhe fang xin	买者放心	45
+mai mai jun yong biao zhi zui	买卖军用标志罪	41
+mai bu liao	迈不了	40
+mai chong chuan gan qi	脉冲传感器	40
+mai mai cang cang	埋埋藏藏	40
+mai wa	麦洼	39
+mai ya chang	麦芽厂	39
+mai chong fu du	脉冲幅度	38
+mai dao	麦岛	37
+mai gu he xu sang zi di	埋骨何须桑梓地	36
+mai wen wei sheng	卖文为生	36
+mai bo ji	脉搏计	35
+mai de xia	买得下	35
+mai jiao gai hua	麦角钙化	35
+mai jiao qing	卖交情	35
+mai ke lao lin zhan kai shi	麦克劳林展开式	35
+mai luo ning	脉络宁	34
+mai ke long	麦克龙	33
+mai xiang	麦香	33
+mai jiao gai hua chun	麦角钙化醇	28
+mai yuan lu	麦园路	28
+mai zhuang	麦庄	26
+mai kun xiang	麦昆乡	25
+mai mai he tong jiu fen an jian	买卖合同纠纷案件	25
+mai sui liang qi	麦穗两岐	25
+mai xiao sheng ya	卖笑生涯	25
+mai zhe ne	埋着呢	25
+mai ting er	麦莛儿	23
+mai bi	买币	22
+mai da hao	卖大号	20
+mai da si	麦达斯	20
+mai guan	脉管	20
+mai guan jie	卖关节	20
+mai ke lao lin ji shu	麦克劳林级数	20
+mai ya chong	麦蚜虫	20
+mai zi yong	卖自用	20
+mai cun	麦村	18
+mai wei di huang wan	麦味地黄丸	18
+mai bi	脉痹	17
+mai ka le si	麦卡勒斯	17
+mai kong	买空	17
+mai sui bao	麦穗包	17
+mai fen dan gao	麦芬蛋糕	16
+mai gao qiao jie	迈皋桥街	16
+mai jiao	麦角	16
+mai zhi	埋置	16
+mai bo biao	脉搏表	15
+mai si na	迈斯纳	15
+mai ye er	迈耶尔	15
+mai zai cha	麦仔茶	14
+mai gan ju	麦秆菊	13
+mai feng le	买疯了	12
+mai ji ge	买几个	12
+mai jiang pin	买奖品	12
+mai kuai biao	买块表	12
+mai liang zhang	买两张	12
+mai si bo	迈思博	12
+mai yi fen	卖一份	12
+mai guan fu kang jiao nang	脉管复康胶囊	11
+mai hao	买号	11
+mai wan	买完	11
+mai wan le	买完了	11
+mai zhen	脉枕	11
+mai cai ge	卖菜哥	10
+mai dong mai xi	买东买西	10
+mai dong zhen lie	脉动阵列	10
+mai hu shao	麦糊烧	10
+mai jiao xin jian	麦角新碱	10
+mai xi xiang	麦溪乡	10
+mai fu ya	埋伏牙	9
+mai luo mo tuo li	脉络膜脱离	9
+mai si ka lin	麦司卡林	9
+mai zhi	埋植	9
+mai fang shi	买方式	8
+mai hao si jiu dian	麦豪斯酒店	8
+mai jian mai gui	买贱卖贵	8
+mai jiao an	麦角胺	8
+mai ke ma ke	麦科马克	8
+mai zhong qiao	麦钟桥	8
+mai chu qu	迈出去	7
+mai da gun	麦打滚	7
+mai di ping bai zu xiang	麦地坪白族乡	7
+mai die	买碟	7
+mai dui	卖对	7
+mai fen	买粉	7
+mai jiao an ka fei yin	麦角胺咖啡因	7
+mai liang	买量	7
+mai mai wang	买麦网	7
+mai mai xiang tong	脉脉相通	7
+mai nong xuan xu	卖弄玄虚	7
+mai zi dian xi jie	麦子店西街	7
+mai ba xiang	买巴乡	6
+mai beng xiang	麦崩乡	6
+mai die	卖碟	6
+mai guan xi tong	脉管系统	6
+mai hao le	买好了	6
+mai ren	麦仁	6
+mai chong shi dian ci fa	脉冲式电磁阀	5
+mai dou zu	麦兜族	5
+mai hua	卖画	5
+mai jing	脉经	5
+mai xie zhen	麦斜镇	5
+mai zhi ling	迈之灵	5
+mai e	麦蛾	4
+mai er ma xiang	麦尔玛乡	4
+mai kan ci	麦坎茨	4
+mai ke luo xin	麦克罗辛	4
+mai lang cun	麦朗村	4
+mai miao gang qiao	麦苗港桥	4
+mai pei bing gan	麦胚饼干	4
+mai ren	买人	4
+mai ren	卖人	4
+mai ri xiang	麦日乡	4
+mai shang gao xia	买上告下	4
+mai wang cun	麦王村	4
+mai zhe ge	买这个	4
+mai er tie fu	卖儿贴妇	3
+mai fan dou geng	麦饭豆羹	3
+mai hua	麦花	3
+mai hua xue bai cai hua xi	麦花雪白菜花稀	3
+mai jing qiu an	买静求安	3
+mai mi xia guo	买米下锅	3
+mai shi dian	麦氏点	3
+mai suo rui er	麦索瑞尔	3
+mai tan de qian he suo ying	卖炭得钱何所营	3
+mai tou mai jiao	卖头卖脚	3
+mai tou mai nao	埋头埋脑	3
+mai wang de yang	买王得羊	3
+mai xian weng	麦仙翁	3
+mai xiang yi	脉象仪	3
+mai xiu liang qi	麦秀两岐	3
+mai yin yang ju jin	脉阴阳俱紧	3
+mai bai mei su pian	麦白霉素片	2
+mai chao	卖超	2
+mai chi ying shu	脉翅萤属	2
+mai di long xiang	麦地龙乡	2
+mai di mei su pian	麦迪霉素片	2
+mai duan xing	买断型	2
+mai guang le	买光了	2
+mai huo	买货	2
+mai ke bu lang	迈克·布朗	2
+mai ke long da sha	迈科龙大厦	2
+mai luo mo hei se su liu	脉络膜黑色素瘤	2
+mai lv fen xiang	卖履分香	2
+mai ma qiao	卖麻桥	2
+mai ma teng	买麻藤	2
+mai qi	麦琪	2
+mai te na	迈特纳	2
+mai wei di huang kou fu ye	麦味地黄口服液	2
+mai xian qian	买闲钱	2
+mai yin yang ju fu	脉阴阳俱浮	2
+mai zheng he can	脉症合参	2
+mai zhi ling pian	迈之灵片	2
+mai bao chu	脉暴出	1
+mai bo yi	脉搏仪	1
+mai cai qiu yi	买菜求益	1
+mai ce bi qian dong	脉侧壁钳动	1
+mai chen fu shui	买臣覆水	1
+mai cheng kai qi	脉撑开器	1
+mai chi gou jiao yuan jin hua chong	脉翅沟脚猿金花虫	1
+mai dan	卖单	1
+mai dao mai niu	卖刀买牛	1
+mai de long lian suo liang fan dian	麦德龙连锁量贩店	1
+mai de yi zhi chun yu fang	买得一枝春欲放	1
+mai di gou xiang	麦地沟乡	1
+mai di ni	麦迪妮	1
+mai du mai dao	买犊卖刀	1
+mai e yu ren	卖恶于人	1
+mai fa shi en	卖法市恩	1
+mai gong ying si	卖公营私	1
+mai guai nong qiao	卖乖弄俏	1
+mai guan fan jue	卖官贩爵	1
+mai guan mai jue	卖官卖爵	1
+mai guo qiu li	卖国求利	1
+mai he si shi	脉合四时	1
+mai hu	麦湖	1
+mai hu tu zhen	麦胡图镇	1
+mai jia ji zhen	买家集镇	1
+mai jian mai du	卖剑买犊	1
+mai jian mai qin	卖剑买琴	1
+mai jiang tu gou	卖浆屠狗	1
+mai jiao an ka fei yin pian	麦角胺咖啡因片	1
+mai jin	脉金	1
+mai jin tuo shi hong ping guo	麦金托什红苹果	1
+mai jing su	麦精酥	1
+mai jing yi fu ying ye jia	麦茎异跗萤叶甲	1
+mai jue fan guan	买爵贩官	1
+mai jue yu guan	卖爵鬻官	1
+mai jue yu zi	卖爵鬻子	1
+mai jue zhui zi	卖爵赘子	1
+mai ka si	麦卡思	1
+mai ke chang yan bing xie	麦克长眼柄蟹	1
+mai ke hua yuan	麦克花园	1
+mai kong zhe	卖空者	1
+mai lang gong ye qu	麦朗工业区	1
+mai li mai jian	买犁卖剑	1
+mai li zuan he	卖李钻核	1
+mai lun po zhu	埋轮破柱	1
+mai lun zhi ma	埋轮絷马	1
+mai luo mo yan	脉络膜炎	1
+mai luo tong pian	脉络通片	1
+mai luo yuan	脉络猿	1
+mai ma	买马	1
+mai ma	卖马	1
+mai ma zhao bing	买马招兵	1
+mai mai wen er	麦麦蚊儿	1
+mai men dong tang	麦门冬汤	1
+mai mu	霡霂	1
+mai nan yu nv	卖男鬻女	1
+mai ni si shi	脉逆四时	1
+mai niu xi ge	买牛息戈	1
+mai nong guo en	卖弄国恩	1
+mai nong jun qiao	卖弄俊俏	1
+mai pin cao	麦薲草	1
+mai qi gou wen gui	麦奇钩吻鲑	1
+mai qiao jiao qian ying	麦鞘角潜蝇	1
+mai qiao yi men	卖俏倚门	1
+mai qiu zhi zhu	麦丘之祝	1
+mai ren xi fan	麦仁稀饭	1
+mai shan gui wo	买山归卧	1
+mai shan zhong dai lao shan jian	买山终待老山间	1
+mai shang zhu xia	买上嘱下	1
+mai shi ba weng	麦氏霸鹟	1
+mai shi da lin da yan diao	麦氏大鳞大眼鲷	1
+mai shi mu zhan zhi li	迈氏穆詹脂鲤	1
+mai shi nu sha	麦氏怒鲨	1
+mai shi wei	麦仕威	1
+mai shi weng yao	麦氏瓮鳐	1
+mai si te la	迈斯特拉	1
+mai si te la gang shao	迈斯特拉岗哨	1
+mai teng	迈腾	1
+mai tie si jin	买铁思金	1
+mai ting	麦莛	1
+mai tou cai zhu	埋头财主	1
+mai tou gu ying	埋头顾影	1
+mai wu wei qi	脉无胃气	1
+mai xian jie	麦苋街	1
+mai xiang zhu bing	脉象主病	1
+mai xie	卖解	1
+mai xuan jue	脉悬绝	1
+mai ya shan zha yin	麦芽山楂饮	1
+mai ye jian wei yu	迈耶剑尾鱼	1
+mai ye shi xi mi ying wu	麦耶氏吸蜜鹦鹉	1
+mai ye shi ying wu	麦耶氏鹦鹉	1
+mai yu sheng pa jin cheng men	卖鱼生怕近城门	1
+mai yue chang liu	迈越常流	1
+mai zhe lun heng shu	麦哲伦鸻属	1
+mai zhe lun xie lei hai si luo	麦哲伦斜肋海蛳螺	1
+mai zhou zhi zeng	麦舟之赠	1
+mai zhuang ding	卖壮丁	1
+mai zu duan qian	脉阻断钳	1

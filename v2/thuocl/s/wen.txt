@@ -1,0 +1,746 @@
+wen jian ming	文件名	125730
+wen hua bu	文化部	115478
+wen jian xi tong	文件系统	65436
+wen zhou	温州	57362
+wen jia bao	温家宝	48611
+wen bu zeng zhang	稳步增长	45319
+wen jian lu jing	文件路径	34003
+wen chuan	汶川	33503
+wen ben wen jian	文本文件	32749
+wen jian	稳健	30480
+wen ding xing	稳定性	27169
+wen jian da xiao	文件大小	25326
+wen ben kuang	文本框	22598
+wen jian lei xing	文件类型	20204
+wen jian mu lu	文件目录	18794
+wen ding ji	稳定剂	18183
+wen jian miao shu fu	文件描述符	17850
+wen jian kao bei	文件拷贝	16179
+wen ben bian ji qi	文本编辑器	15543
+wen jian shang chuan	文件上传	15307
+wen jian fu zhi	文件复制	15285
+wen jian cao zuo	文件操作	14827
+wen zhou shi	温州市	14825
+wen hua guang chang	文化广场	13034
+wen jian bao cun	文件保存	12970
+wen jian bao han	文件包含	12792
+wen jian lie biao	文件列表	11629
+wen jian xia zai	文件下载	11262
+wen jian cun chu	文件存储	10426
+wen jian du qu	文件读取	9961
+wen hua guan	文化馆	9549
+wen jin	文金	9087
+wen ti fen xi	问题分析	8380
+wen jian chuan shu	文件传输	8125
+wen jian chuang jian	文件创建	8002
+wen du chuan gan qi	温度传感器	7837
+wen luan	紊乱	7832
+wen jian liu	文件流	7555
+wen jian jie gou	文件结构	7535
+wen jian quan xian	文件权限	7300
+wen jian shu xing	文件属性	7103
+wen jian ju bing	文件句柄	6799
+wen jing	文静	6265
+wen jian xie ru	文件写入	5965
+wen ben bian ji	文本编辑	5895
+wen jian shan chu	文件删除	5748
+wen jian du xie	文件读写	5565
+wen jian zhi zhen	文件指针	5452
+wen jian guan li	文件管理	5028
+wen zi yan se	文字颜色	4720
+wen jian ding yi	文件定义	4709
+wen jian fang wen	文件访问	4601
+wen chang ji	文昌鸡	4556
+wen jian gong xiang	文件共享	4256
+wen ling	温岭	4213
+wen hua gong yuan	文化公园	4114
+wen jian di zhi	文件地址	4050
+wen jian chu li	文件处理	4012
+wen jian bian ma	文件编码	3953
+wen ge	文蛤	3950
+wen ben chu li	文本处理	3854
+wen chang shi	文昌市	3643
+wen jian ya suo	文件压缩	3613
+wen jiang	温江	3565
+wen du ji	温度计	3381
+wen hua gong	文化宫	3381
+wen hua lu	文化路	3026
+wen jian he bing	文件合并	2995
+wen jian guan li qi	文件管理器	2992
+wen jian xuan ze	文件选择	2974
+wen ming xia er	闻名遐迩	2942
+wen jian fu wu qi	文件服务器	2859
+wen jian chuan shu xie yi	文件传输协议	2832
+wen ben shu ru kuang	文本输入框	2738
+wen zha wen da	稳扎稳打	2719
+wen shan hui hai	文山会海	2675
+wen shi da peng	温室大棚	2673
+wen xue yuan	文学院	2647
+wen ti ju	文体局	2570
+wen ben yu	文本域	2550
+wen ling shi	温岭市	2525
+wen dang liu	文档流	2470
+wen dang zhu shi	文档注释	2416
+wen jian sou suo	文件搜索	2372
+wen suo wei wen	闻所未闻	2217
+wen ben fen lei	文本分类	2167
+wen jian jie xi	文件解析	2131
+wen li xue yuan	文理学院	2103
+wen miao	文庙	2050
+wen ding pai xu	稳定排序	2042
+wen si bu dong	纹丝不动	1995
+wen xin wu kui	问心无愧	1920
+wen jian cha zhao	文件查找	1914
+wen wen er ya	温文尔雅	1867
+wen ti qiu jie	问题求解	1864
+wen jian bei fen	文件备份	1851
+wen jian jia mi	文件加密	1845
+wen jian suo	文件锁	1740
+wen jian chi cun	文件尺寸	1718
+wen jian hui fu	文件恢复	1699
+wen jian liu lan qi	文件浏览器	1631
+wen dan	文旦	1614
+wen feng er dong	闻风而动	1601
+wen ben ti huan	文本替换	1554
+wen ren mo ke	文人墨客	1550
+wen ben fen xi	文本分析	1525
+wen jian qing dan	文件清单	1507
+wen jian chuan song	文件传送	1492
+wen shen	纹身	1424
+wen hua cheng	文化城	1411
+wen ben biao qian	文本标签	1367
+wen shan zhou	文山州	1355
+wen jian tong bu	文件同步	1350
+wen ben shu chu	文本输出	1324
+wen zi chu li	文字处理	1297
+wen cheng	文成	1277
+wen zhou shi lu cheng qu	温州市鹿城区	1262
+wen zhi bin bin	文质彬彬	1225
+wen jian zu zhi	文件组织	1178
+wen kong kai guan	温控开关	1165
+wen ti ding wei	问题定位	1160
+wen jian shi jian	文件时间	1157
+wen li ying she	纹理映射	1157
+wen ti jie jue fang an	问题解决方案	1142
+wen li tie tu	纹理贴图	1098
+wen quan du jia cun	温泉度假村	1097
+wen jian cun qu	文件存取	1093
+wen hua quan qiu hua	文化全球化	1071
+wen jian cao zuo han shu	文件操作函数	1037
+wen ming lu	文明路	1025
+wen feng	文峰	1023
+wen jian dui hua kuang	文件对话框	1016
+wen sen	文森	969
+wen jian jia da xiao	文件夹大小	955
+wen dang jie xi	文档解析	944
+wen jian fen ge	文件分割	919
+wen ben wa jue	文本挖掘	880
+wen jian kong zhi	文件控制	878
+wen ti jie jue fang fa	问题解决方法	878
+wen zhou da xue	温州大学	842
+wen zi ju zhong	文字居中	808
+wen zi shi bie	文字识别	806
+wen xin jia yuan	温馨家园	786
+wen ti pai cha	问题排查	785
+wen dang chu li	文档处理	774
+wen feng sang dan	闻风丧胆	758
+wen hua zhu quan	文化主权	744
+wen dang guan li	文档管理	743
+wen jian fen pei	文件分配	742
+wen ti xiu fu	问题修复	734
+wen zhou shi ou hai qu	温州市瓯海区	720
+wen yi lu	文艺路	708
+wen qing mo mo	温情脉脉	699
+wen dang shu ju ku	文档数据库	687
+wen guo shi fei	文过饰非	676
+wen jian bao hu	文件保护	644
+wen tian xiang	文天祥	624
+wen feng er tao	闻风而逃	612
+wen dang mu ban	文档模板	600
+wen hua dong lu	文化东路	597
+wen jian kong jian	文件空间	587
+wen si dun	温斯顿	585
+wen jian shu ru shu chu	文件输入输出	581
+wen zi pai ban	文字排版	576
+wen jian nan	文剑南	566
+wen ti jie da	问题解答	566
+wen jian shang chuan xia zai	文件上传下载	563
+wen yi duo	闻一多	560
+wen jian tuo zhuai	文件拖拽	546
+wen li tu xiang	纹理图像	532
+wen ben jie xi	文本解析	527
+wen dang fan yi	文档翻译	521
+wen chang lu	文昌路	520
+wen jian tou lu	文件透露	513
+wen jian zhong ding xiang	文件重定向	512
+wen chang ge	文昌阁	501
+wen dang jian suo	文档检索	495
+wen jing lu	文景路	491
+wen wu shuang quan	文武双全	489
+wen cao sheng quan	稳操胜券	479
+wen jian guan li xi tong	文件管理系统	473
+wen dang bian ji	文档编辑	462
+wen guo ze xi	闻过则喜	456
+wen jian zi xi tong	文件子系统	446
+wen de lu	文德路	445
+wen han wen nuan	问寒问暖	444
+wen li ya suo	纹理压缩	439
+wen xue guan	文学馆	429
+wen he	文和	427
+wen ti kong jian	问题空间	425
+wen cheng gong zhu	文成公主	417
+wen ben jian suo	文本检索	416
+wen quan zhi xiang	温泉之乡	411
+wen ru tai shan	稳如泰山	405
+wen hua lu	文华路	397
+wen yi zai dao	文以载道	387
+wen de	文德	384
+wen jian fen pei biao	文件分配表	382
+wen shui	文水	378
+wen ti bao gao	问题报告	365
+wen jian ming kuo zhan	文件名扩展	361
+wen deng shi	文登市	359
+wen tai	稳态	354
+wen gu zhi xin	温故知新	350
+wen ti zhuang tai	问题状态	346
+wen da xi tong	问答系统	342
+wen chang wen duan	问长问短	341
+wen jian cao zuo ming ling	文件操作命令	341
+wen jian fen xiang	文件分享	339
+wen jian xing	稳健性	327
+wen ben bi jiao	文本比较	325
+wen jian jia cao zuo	文件夹操作	325
+wen qu na de qing ru xu	问渠哪得清如许	325
+wen ming xiao qu	文明小区	320
+wen liang gong jian rang	温良恭俭让	309
+wen jian an quan	文件安全	303
+wen ben ju lei	文本聚类	298
+wen feng ta	文峰塔	281
+wen jian chuan song xie yi	文件传送协议	274
+wen gu er zhi xin	温故而知新	269
+wen ta	文塔	259
+wen jian yu lan	文件预览	255
+wen ti zhen duan	问题诊断	254
+wen jian ming luan ma	文件名乱码	251
+wen jian wei hu	文件维护	237
+wen su	温宿	226
+wen ben guo lv	文本过滤	222
+wen jian bian li	文件遍历	220
+wen hai	文海	217
+wen chang men	文昌门	211
+wen shui lu	汶水路	208
+wen ruo shu sheng	文弱书生	205
+wen zhuang	文庄	205
+wen quan gong yuan	温泉公园	203
+wen feng er zhi	闻风而至	201
+wen jia shi	文家市	200
+wen wu jian bei	文武兼备	200
+wen long	文龙	199
+wen tie jun	温铁军	198
+wen xian jian suo	文献检索	194
+wen quan shan zhuang	温泉山庄	193
+wen jian liu cao zuo	文件流操作	191
+wen jian shi jian	文件事件	190
+wen zi gun dong	文字滚动	188
+wen jian jian kong	文件监控	187
+wen quan dan	温泉蛋	182
+wen ti ji	问题集	182
+wen quan ji	温泉鸡	181
+wen wei	文伟	180
+wen di	文帝	179
+wen huai sha	文怀沙	179
+wen xi zhu bing	闻喜煮饼	179
+wen ze	文则	178
+wen mei	文眉	177
+wen ru qi ren	文如其人	172
+wen si lai te	温斯莱特	169
+wen wen ru ya	温文儒雅	168
+wen ya dian yuan	稳压电源	168
+wen ben fen ci	文本分词	160
+wen zheng ming	文征明	158
+wen ji qi wu	闻鸡起舞	157
+wen zhe zu jie	闻者足戒	157
+wen zi yu	文字狱	157
+wen hua bao li	文化暴力	155
+wen zi zhuan yu yin	文字转语音	154
+wen jian cun chu qi	文件存储器	152
+wen liang	温凉	152
+wen jian bian cheng	文件编程	148
+wen xian yue du	文献阅读	144
+wen gao jing jia	文稿竞价	142
+wen lan	温岚	142
+wen jian fen duan	文件分段	141
+wen xian guan li	文献管理	139
+wen ben bian ji cheng xu	文本编辑程序	138
+wen rou dun hou	温柔敦厚	138
+wen qu na de qing ru xu	问渠那得清如许	137
+wen tao wu lve	文韬武略	137
+wen jin	文进	136
+wen jun neng you ji duo chou	问君能有几多愁	136
+wen ben shu ju ku	文本数据库	135
+wen jing	温经	132
+wen hua shi ye fei	文化事业费	131
+wen ben cha xun	文本查询	130
+wen dang ji bie	文档级别	127
+wen hui lu	文汇路	125
+wen he	汶河	124
+wen zheng ming	文徵明	121
+wen jian xi tong zhi zuo	文件系统制作	120
+wen da	温大	118
+wen da	文达	117
+wen hua da sha	文化大厦	116
+wen hua ying	文化营	116
+wen jian kong zhi kuai	文件控制块	116
+wen dang bian zhi	文档编制	114
+wen ding hun yin wen ti	稳定婚姻问题	114
+wen jian qian yi	文件迁移	113
+wen de qiao	文德桥	111
+wen quan hua yuan	温泉花园	111
+wen jing san han	温经散寒	109
+wen ren xiang qing	文人相轻	106
+wen chang xian	文昌县	105
+wen hua chan ye cu jin fa	文化产业促进法	104
+wen xi lu	闻喜路	104
+wen zhao lun	温兆伦	103
+wen zhong san han	温中散寒	103
+wen jin bei lu	文锦北路	102
+wen cui lu	文萃路	101
+wen wu zhi dao	文武之道	101
+wen zhi wu gong	文治武功	101
+wen chang gong	文昌宫	100
+wen jian bi jiao gong ju	文件比较工具	97
+wen yi bei lu	文艺北路	97
+wen ding shi jian	稳定时间	96
+wen jian xi tong jie duan	文件系统阶段	96
+wen bi xia	温碧霞	95
+wen ti ji he	问题集合	94
+wen an lu	文安路	93
+wen hua ming yuan	文化名园	92
+wen ren xue shi	文人学士	91
+wen xian shu ju ku	文献数据库	91
+wen yuan lu	文苑路	91
+wen cang mang da di	问苍茫大地	88
+wen ming jie	文明街	87
+wen sheng	文圣	86
+wen ke	蚊科	83
+wen tai wu cha	稳态误差	83
+wen xi	文溪	83
+wen chang jie	文昌街	82
+wen hua bu xing jie	文化步行街	81
+wen hua xiang	文化巷	80
+wen jian dui bi gong ju	文件对比工具	80
+wen tao lu	闻涛路	80
+wen chang cun	文昌村	79
+wen feng lu	文峰路	78
+wen chang bei lu	文昌北路	77
+wen ming li	文明礼	77
+wen zhang li jie	文章理解	77
+wen zi da yin	文字打印	77
+wen jian lu jing wen ti	文件路径问题	74
+wen ti gui na	问题归纳	72
+wen jin zhong lu	文锦中路	70
+wen yuan xiao qu	文苑小区	69
+wen ben ku	文本库	67
+wen hui	文惠	67
+wen bo	温波	66
+wen dai chou chong	温带臭虫	65
+wen dao you xian hou	闻道有先后	65
+wen ting yun	温庭筠	65
+wen wu quan cai	文武全才	64
+wen hu	文虎	63
+wen li hua	纹理化	63
+wen di ya	文迪雅	62
+wen shan xian	文山县	62
+wen de he	温德河	60
+wen jian pi liang shang chuan	文件批量上传	60
+wen ben fang fa	文本方法	59
+wen yi zheng quan	文义证券	58
+wen ding zhong yuan	问鼎中原	57
+wen lou tang bao	文楼汤包	57
+wen hua shang cheng	文化商城	56
+wen jin nan lu	文锦南路	56
+wen jiao lu	文教路	54
+wen zhang qian gu shi	文章千古事	53
+wen jian jia bian li	文件夹遍历	52
+wen li fen ge	纹理分割	50
+wen chong jie	文冲街	49
+wen cai feng liu	文采风流	48
+wen zhou jie	温州街	48
+wen jue	温觉	47
+wen ruo	文若	45
+wen tong	文同	45
+wen xi bing	闻喜饼	45
+wen zhuang ti	纹状体	45
+wen fang si bao	文房四宝	44
+wen hua yi chan fa	文化遗产法	44
+wen hua zhong xue	文华中学	44
+wen jing gong yuan	文景公园	44
+wen shan cun	文山村	44
+wen shui dong lu	汶水东路	44
+wen quan feng jing qu	温泉风景区	43
+wen ding tai er yang hua lv	稳定态二氧化氯	42
+wen ping	文屏	42
+wen xin hua yuan	温馨花园	42
+wen zi dao	蚊子岛	41
+wen kang lv shi shi wu suo	文康律师事务所	40
+wen jun cha	文君茶	39
+wen lan lu	文澜路	39
+wen xia	文下	39
+wen bing xue	温病学	38
+wen hua lu kou	文华路口	38
+wen hua qiao	文化桥	38
+wen hui da qiao dong	文晖大桥东	38
+wen quan shui hua xi ning zhi	温泉水滑洗凝脂	38
+wen wei	文蔚	38
+wen chang hu tong	文昌胡同	37
+wen ti gui yue	问题归约	36
+wen yu cheng	温玉成	36
+wen bing tiao bian	温病条辨	35
+wen chong cun	文冲村	35
+wen deng xian	文登县	35
+wen li bu tong	文理不通	34
+wen tai	文太	34
+wen ji	文姬	33
+wen bu ding	蚊不叮	31
+wen chun yu	纹唇鱼	31
+wen cun	文村	31
+wen miao hou jie	文庙后街	31
+wen miao ping	文庙坪	31
+wen zao	文灶	31
+wen ben xiang shi du	文本相似度	30
+wen jing yuan	文景苑	29
+wen ti bei wang	问题备忘	29
+wen ding	文丁	28
+wen dou cun	文斗村	28
+wen du xi shu	温度系数	28
+wen jin yuan	文锦苑	28
+wen liang	文亮	28
+wen zhou da sha	温州大厦	28
+wen qing bing mao	文情并茂	27
+wen shi fen shi	温室粉虱	27
+wen yi lu kou	文一路口	27
+wen chou	文丑	26
+wen he	文河	26
+wen jun he neng er	问君何能尔	26
+wen quan gong yu	温泉公寓	25
+wen sheng zhi ze shi	文胜质则史	25
+wen cun	温村	24
+wen lou xie huang tang bao	文楼蟹黄汤包	24
+wen zhuang cun	文庄村	24
+wen cao sheng suan	稳操胜算	23
+wen du kong zhi qi	温度控制器	23
+wen qiong	文琼	23
+wen xi cun	文溪村	22
+wen yuan xiao xue	文苑小学	22
+wen er lu kou	文二路口	21
+wen hua xiu ke	文化休克	21
+wen san lu kou	文三路口	21
+wen xian li jie	文献理解	21
+wen xing qiao	文星桥	21
+wen zhi gan bu zhi du	文职干部制度	21
+wen de qiao	温德桥	20
+wen feng cun	文峰村	20
+wen xin	闻信	20
+wen ge bing	文蛤饼	19
+wen jia xi	温家溪	19
+wen jing jie	文景街	19
+wen shi yuan	温师院	19
+wen tai xin hao	稳态信号	19
+wen cun	汶村	18
+wen hua guang	文化广	18
+wen hua hu tong	文华胡同	18
+wen mei	文美	18
+wen pin	文聘	18
+wen tai lai	文泰来	18
+wen guan jun shou he nan he bei	闻官军收河南河北	17
+wen hui xi lu	文汇西路	17
+wen jia yan	闻家堰	17
+wen quan lu kou	温泉路口	17
+wen chang an ba	文昌按粑	16
+wen chang xiao qu	文昌小区	16
+wen peng	文彭	16
+wen qin	文钦	16
+wen yang	汶阳	16
+wen yi lu xue yuan lu kou	文一路学院路口	16
+wen yun jie	文运街	16
+wen zhang zeng ming da	文章憎命达	16
+wen zhen heng	文震亨	16
+wen zhu	瘟猪	16
+wen hua hua yuan	文华花园	15
+wen hua xiao qu	文华小区	15
+wen jia wan	文家湾	15
+wen li bian ma	纹理编码	15
+wen yi	文仪	15
+wen dong jie dao	文东街道	14
+wen jie	闻捷	14
+wen jing huo xue	温经活血	14
+wen pei ran	文沛然	14
+wen quan she	温泉蛇	14
+wen shan	温山	14
+wen tai	文台	14
+wen xin ke li	稳心颗粒	14
+wen xiu lu	文秀路	14
+wen xuan di	文宣帝	14
+wen yu zhuan huan	文语转换	14
+wen feng da shi jie	文峰大世界	13
+wen hua li	文华里	13
+wen shan li	文山里	13
+wen dang bian jie	文档边界	12
+wen hong	文洪	12
+wen ben bian xie qi	文本编写器	11
+wen chun	温春	11
+wen dian	文点	11
+wen quan cai	温泉菜	11
+wen you kong shui	稳油控水	11
+wen an yi zhen	文安驿镇	10
+wen bo xiang	温波乡	10
+wen fang	温坊	10
+wen ling zhong xue	温岭中学	10
+wen shan ji ding	文山鸡丁	10
+wen xin gao du	稳心高度	10
+wen yi	温疫	10
+wen yi bu neng xi	闻义不能徙	10
+wen you guo you jia zhe	闻有国有家者	10
+wen zhang ben tian cheng	文章本天成	10
+wen zhou fan dian	温州饭店	10
+wen cheng di	文成帝	9
+wen heng	文衡	9
+wen quan zhi lu	温泉支路	9
+wen san xin cun	文三新村	9
+wen wen	温雯	9
+wen xia hu	吻鰕虎	9
+wen yi lu nan kou	文艺路南口	9
+wen you zhang	文幼章	9
+wen de li cun	文德里村	8
+wen yu jin	温郁金	8
+wen zhang hu tong	文章胡同	8
+wen zhu yi fu zhou yi	闻诛一夫纣矣	8
+wen cheng xiang	温城乡	7
+wen ding qian yin kong zhi xi tong	稳定牵引控制系统	7
+wen quan xin zhuang	温泉辛庄	7
+wen shi lin	温世霖	7
+wen chang yuan	文昌苑	6
+wen du xiao ying	温度效应	6
+wen hui dong lu	文汇东路	6
+wen ling xian	温岭县	6
+wen ping	文坪	6
+wen shi jian qing shi he wu	问世间情是何物	6
+wen shu ding zhi	文书定制	6
+wen wang chang ling zuo qian long biao	闻王昌龄左迁龙标	6
+wen yin shi	文印室	6
+wen bu dang sang xiang	文布当桑乡	5
+wen chang zhu	文昌猪	5
+wen ge shi jue you ren lai	闻歌始觉有人来	5
+wen hua yi chan bao gao	文化遗产报告	5
+wen jian chu zhi ban fa	文件处置办法	5
+wen la fa xin	文拉法辛	5
+wen qian	文谦	5
+wen quan miao pu	温泉苗圃	5
+wen ru shi	温汝适	5
+wen shu yuan jie	文殊院街	5
+wen shuo shuang xi chun shang hao	闻说双溪春尚好	5
+wen ti jie	文体街	5
+wen wei shu jiao nang	温胃舒胶囊	5
+wen xun wu gang he suo you	问讯吴刚何所有	5
+wen yu he yi qi bi shan	问余何意栖碧山	5
+wen ben yu shi jian zhi jian	文本与实践之间	4
+wen feng bei lu	文峰北路	4
+wen hua xiang li	文化巷里	4
+wen hui da qiao xi	文晖大桥西	4
+wen hui yuan she qu	文慧园社区	4
+wen jiang su tang	温江酥糖	4
+wen jin shi he shi	问今是何世	4
+wen jun you liang yi	闻君有两意	4
+wen ran	文然	4
+wen ting	闻亭	4
+wen wo	文沃	4
+wen xing qiao xiang	文星桥巷	4
+wen zhuang cun wei hui	温庄村委会	4
+wen bo ren	文伯仁	3
+wen bu zai zi hu	文不在兹乎	3
+wen chang kong xin jian dui	文昌空心煎堆	3
+wen cheng la mian	文成拉面	3
+wen cuo	温厝	3
+wen cuo cun	温厝村	3
+wen dao long biao guo wu xi	闻道龙标过五溪	3
+wen deng hei ya	文登黑鸭	3
+wen du chuan gan qi xian shu	温度传感器线束	3
+wen fang cun	温坊村	3
+wen feng fan dian	文峰饭店	3
+wen hui qiao nan	文慧桥南	3
+wen jiang cheng chao shou	温江程抄手	3
+wen lu	文禄	3
+wen ru yi shan si	闻汝依山寺	3
+wen sheng chang	文圣常	3
+wen shu	文淑	3
+wen shui zhen	汶水镇	3
+wen shuo ji ming jian ri sheng	闻说鸡鸣见日升	3
+wen ti ren	温体仁	3
+wen tu dai shu	纹兔袋鼠	3
+wen tuo	温拖	3
+wen wang fa zheng shi ren	文王发政施仁	3
+wen wang shi kun yi	文王事昆夷	3
+wen wu lu dong	文武路东	3
+wen yi lu pi fa shi chang	文艺路批发市场	3
+wen ze yuan	文泽园	3
+wen zhong	汶中	3
+wen dao han jia tian zi shi	闻道汉家天子使	2
+wen dao pian wei wu qin xi	闻道偏为五禽戏	2
+wen dou er lei tu zhen	温都尔勒图镇	2
+wen du fa ban	温毒发斑	2
+wen feng nan lu	文峰南路	2
+wen feng zuo xiang yue	闻风坐相悦	2
+wen fu xiang	文复乡	2
+wen guan tong zhi zhi du	文官统治制度	2
+wen hui qiao bei	文慧桥北	2
+wen jia cun	温家村	2
+wen jia po	文家坡	2
+wen jun you ta xin	闻君有他心	2
+wen ping cun	文坪村	2
+wen re jing wei	温热经纬	2
+wen shang wang	温商网	2
+wen sheng xiang	文升乡	2
+wen shui lu	文水路	2
+wen shui zhi lu	汶水支路	2
+wen tun	文屯	2
+wen tuo xiang	温拖乡	2
+wen wang	温王	2
+wen weng da yu ling tou zhu	问翁大庾岭头住	2
+wen yi lun	温疫论	2
+wen ze lu xue lin jie kou	文泽路学林街口	2
+wen zhen meng	文震孟	2
+wen zhou huang tang cha	温州黄汤茶	2
+wen zhuang zi	温庄子	2
+wen bao xiang	温堡乡	1
+wen bu xiang	文布乡	1
+wen cang mang tian di	问苍茫天地	1
+wen chan bu qi qian san yu	问禅不契前三语	1
+wen chan dan yi bei	闻蝉但益悲	1
+wen chang yu mu	文昌鱼目	1
+wen cheng xiang hu tong	文丞相胡同	1
+wen chi xiao feng ke	纹翅小蜂科	1
+wen da wang you yi du guo zhi	闻大王有意督过之	1
+wen dao chun hai wei xiang shi	闻道春还未相识	1
+wen dao diao	纹倒吊	1
+wen dao mei hua che xiao feng	闻道梅花坼晓风	1
+wen dao shen xian bu ke jie	闻道神仙不可接	1
+wen dao xun yuan shi	闻道寻源使	1
+wen dao yu lai xiang wen xun	闻道欲来相问讯	1
+wen dao zhang an shi yi qi	闻道长安似弈棋	1
+wen di lu kou	温迪路口	1
+wen di ya pian	文迪雅片	1
+wen du gan shou qi	温度感受器	1
+wen duo su xin ren	闻多素心人	1
+wen geng zhen	温更镇	1
+wen guo bao	温国堡	1
+wen he cun	文河村	1
+wen hua chuang xin si kao	文化创新思考	1
+wen hua yuan bin guan	文华园宾馆	1
+wen hua zhen	文华镇	1
+wen jia yuan zi	温家院子	1
+wen jian zheng wu	文件证物	1
+wen jiang lu	文江路	1
+wen jiang si xiang	温江寺乡	1
+wen jing cha	问荆茶	1
+wen jiu zui xia	温酒醉虾	1
+wen jun hua wo wei guan zai	闻君话我为官在	1
+wen ke he wei lai	问客何为来	1
+wen lang jiang shang chang ge sheng	闻郎江上唱歌声	1
+wen liu xun hua dao ye ting	问柳寻花到野亭	1
+wen mei cun	文美村	1
+wen mi xie zuo xue	文秘写作学	1
+wen mi xie zuo zhi nan	文秘写作指南	1
+wen ming hu tong	文明胡同	1
+wen nv he suo si	问女何所思	1
+wen nv he suo yi	问女何所忆	1
+wen pi gu chang san	温脾固肠散	1
+wen qiao	温桥	1
+wen qin lei jin yu ru he	闻琴泪尽欲如何	1
+wen qiu fang gua hua cen ci	文楸方罫花参差	1
+wen quan bei zhan	温泉北站	1
+wen quan nan qu	温泉南区	1
+wen quan wei	温泉圩	1
+wen ren yu ta bang	问人于他邦	1
+wen ru neng	温汝能	1
+wen ru sui	温汝遂	1
+wen sha zhao ling	温莎诏令	1
+wen shen qian lie jiao nang	温肾前列胶囊	1
+wen shi ji tuan	温氏集团	1
+wen song zhu rong gui	稳送祝融归	1
+wen su lu nan	文溯路南	1
+wen tai cun	文太村	1
+wen te ha er te	温特哈尔特	1
+wen tian tian bu ying	问天天不应	1
+wen wang lu	文王路	1
+wen wei shu ke li	温胃舒颗粒	1
+wen wo lai he fang	问我来何方	1
+wen xian bu zu gu ye	文献不足故也	1
+wen xian ge zhi sheng	闻弦歌之声	1
+wen xing jing chu jian	问姓惊初见	1
+wen ya jiao nang	稳压胶囊	1
+wen yan yu shui can	问言与谁餐	1
+wen yi fu xing shi qi fa lv	文艺复兴时期法律	1
+wen yi jing ji ce	问以经济策	1
+wen yin xiang	文印乡	1
+wen yu da yan jie leng xiao	闻余大言皆冷笑	1
+wen yuan feng qing	文苑风情	1
+wen yuan guang chang	文源广场	1
+wen yuan luo qi liang	问院落凄凉	1
+wen zha zi cun	温栅子村	1
+wen zhang han du wu yi hen	文章韩杜无遗恨	1
+wen zhang hui wu se	文章辉五色	1
+wen zheng fu yi qian lu	问征夫以前路	1
+wen zheng he	文晸赫	1
+wen zheng lu	文正路	1
+wen zhi yi li yue	文之以礼乐	1
+wen zhong cun	文中村	1
+wen zhou dao	温州道	1
+wen zi sheng	温子升	1
+wen ban ba fei ha	纹斑巴非蛤	0
+wen ban gou mu yu	吻斑狗母鱼	0
+wen ban hong chi ju	纹斑红翅鵙	0
+wen ban shi ban yu	吻斑石斑鱼	0
+wen ban si xia hu	纹斑丝鰕虎	0
+wen bei wei jian	纹背苇鳽	0
+wen bei yi ju	纹背蚁鵙	0
+wen chi e	纹翅蛾	0
+wen chi mang chun	纹翅盲蝽	0
+wen chi wen xie ling	纹翅蚊蝎蛉	0
+wen chun zhan ti chong	纹唇粘体虫	0
+wen dai mao bi nian	纹带毛鼻鲶	0
+wen de dong wu	文德动物	0
+wen ding meng que wu	纹顶猛雀鹀	0
+wen ding que wu	纹顶雀鹀	0
+wen ding weng ying	纹顶鹟莺	0
+wen ding zhen wei que	纹顶针尾雀	0
+wen dun gan mang chun	纹盾杆盲蝽	0
+wen dun ju long	温顿巨龙	0
+wen duo ji lin tun	纹多棘鳞鲀	0
+wen feng die shu	纹凤蝶属	0
+wen ge hua dao hei xiong	温哥华岛黑熊	0
+wen ge hua dao lang	温哥华岛狼	0
+wen ge hua dao mei zhou shi	温哥华岛美洲狮	0
+wen gou shuang ji sha	吻沟双髻鲨	0
+wen guan guo long mai mu shi	文冠果隆脉木虱	0
+wen guang wei xue	吻光尾鳕	0
+wen guo du jing shan	纹果杜茎山	0
+wen hou mo shou xue	纹喉膜首鱈	0
+wen hui die shu	温灰蝶属	0
+wen ji wei du fu yu	吻棘鳚杜父鱼	0
+wen jiao weng	纹娇鹟	0
+wen jing zhi huan chong	蚊茎指环虫	0
+wen ju ji jiao an kang	吻巨棘角鮟鱇	0
+wen mei wei jiao liao	纹眉苇鹪鹩	0
+wen mian fu she	纹面腹蛇	0
+wen mian tan huang xi	纹面弹簧蜥	0
+wen nu ke wei ya shou	文努科维亚兽	0
+wen quan luo lie kao yu	温泉裸裂尻鱼	0
+wen shui ji ying	文水棘蝇	0
+wen wei pen chun yu	纹尾盆唇鱼	0
+wen wei yue die yu	纹尾月蝶鱼	0
+wen wen heng lian ha	文文橫簾蛤	0
+wen xie ling ke	蚊蝎蛉科	0
+wen xiong bing tian niu	纹胸柄天牛	0
+wen xiong ju dong	纹胸鵙鸫	0
+wen zhang jiao an kang	吻长角鮟鱇	0
+wen zi cao zhang chi juan e	蚊子草长翅卷蛾	0

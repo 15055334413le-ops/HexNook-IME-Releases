@@ -1,0 +1,687 @@
+ce shi	测试	500807
+ce lve	策略	500386
+ce hua	策划	500312
+ce liang	测量	500259
+ce ding	测定	265445
+ce hui	测绘	182545
+ce suo	厕所	173630
+ce ping	测评	171775
+ce mian	侧面	141010
+ce suan	测算	98785
+ce yan	测验	87290
+ce zhong	侧重	74785
+ce shi yi	测试仪	67445
+ce shi jie guo	测试结果	43875
+ce zhong yu	侧重于	43490
+ce guang	测光	43420
+ce shi shu ju	测试数据	41464
+ce shi ban	测试版	36585
+ce liang fan wei	测量范围	33660
+ce hua shi	策划师	31570
+ce kong	测控	29770
+ce shen	侧身	26855
+ce shi fang fa	测试方法	25365
+ce hua ren	策划人	24040
+ce de	测得	23280
+ce ding yi	测定仪	23275
+ce chu	测出	22335
+ce shi yong li	测试用例	22124
+ce shi zhong xin	测试中心	21365
+ce shu	册数	21120
+ce liang yi	测量仪	21085
+ce zhong dian	侧重点	20725
+ce ding fang fa	测定方法	20245
+ce shi lei	测试类	19446
+ce shi yi qi	测试仪器	18355
+ce shi ti	测试题	18305
+ce su	测速	18125
+ce wen	测温	17200
+ce liang fang fa	测量方法	17175
+ce shi xi tong	测试系统	16030
+ce de	测的	15360
+ce bian	侧边	15050
+ce liang yi qi	测量仪器	15045
+ce shi cheng xu	测试程序	14716
+ce shi ji shu	测试技术	14630
+ce hua le	策划了	14530
+ce bao	测报	14495
+ce hua bu	策划部	14405
+ce shi yi xia	测试一下	14305
+ce suo li	厕所里	14260
+ce shi huan jing	测试环境	13771
+ce ma	策马	13595
+ce shi bao gao	测试报告	13125
+ce shi gong ju	测试工具	13090
+ce liang jie guo	测量结果	12840
+ce mu	侧目	12745
+ce shi cheng ji	测试成绩	12595
+ce xiang	侧向	12495
+ce hua	侧滑	12385
+ce shi hou	测试后	12365
+ce ju	测距	12205
+ce shi ren yuan	测试人员	11780
+ce hua fang an	策划方案	11380
+ce wo	侧卧	11285
+ce hua zhe	策划者	11145
+ce liang biao zhi	测量标志	11020
+ce liang jing du	测量精度	10870
+ce liang zhi	测量值	10780
+ce lve shang	策略上	10365
+ce guo	侧过	10225
+ce lve xing	策略性	10105
+ce cha	测查	9999
+ce gu	测估	9999
+ce li	侧立	9999
+ce lian	侧脸	9999
+ce lou	侧漏	9999
+ce tan	测探	9999
+ce tang	侧躺	9999
+ce tang zai	侧躺在	9999
+ce xian	侧线	9999
+ce ye	册页	9999
+ce yong	侧泳	9999
+ce zhen	测震	9999
+ce liang xi tong	测量系统	9945
+ce dong	策动	9500
+ce hua gong si	策划公司	9375
+ce yi	侧翼	9165
+ce liang ji shu	测量技术	9075
+ce tou	侧头	9060
+ce feng	册封	8715
+ce shi ji	测试机	8696
+ce ding fa	测定法	8595
+ce zi	册子	8560
+ce shi yuan	测试员	8430
+ce hou yi	测厚仪	8355
+ce men	侧门	8095
+ce zhe	侧着	8015
+ce duo	测度	7985
+ce ping jie guo	测评结果	7920
+ce hua shu	策划书	7890
+ce ce	测测	7825
+ce ju yi	测距仪	7715
+ce shi zhe	测试者	7595
+ce ban	侧板	7425
+ce xu	测序	7355
+ce dian	测点	7255
+ce shi jie duan	测试阶段	7255
+ce zhi	厕纸	7237
+ce liang shu ju	测量数据	6995
+ce lve mo shi	策略模式	6950
+ce zhi	侧枝	6510
+ce qing	侧倾	6455
+ce liang xue	测量学	6440
+ce bi	侧壁	6370
+ce hua ren yuan	策划人员	6360
+ce yin zhi xin	恻隐之心	6360
+ce shi tong guo	测试通过	6250
+ce shi guo cheng	测试过程	6237
+ce er	侧耳	6175
+ce liang ji	测量机	6155
+ce liang shi	测量时	6005
+ce hui ju	测绘局	5950
+ce wei	侧围	5805
+ce shi guo	测试过	5795
+ce guang biao	测光表	5665
+ce shi gong neng	测试功能	5510
+ce shi kuang jia	测试框架	5061
+ce fang	侧方	5050
+ce liang wu cha	测量误差	5045
+ce ying	侧影	4990
+ce shi zhong	测试中	4875
+ce guang fang shi	测光方式	4665
+ce wo wei	侧卧位	4655
+ce wen yi	测温仪	4650
+ce guang	侧光	4615
+ce shi ji hua	测试计划	4470
+ce zi	测字	4445
+ce shi qi	测试器	4380
+ce lve fen xi	策略分析	4285
+ce hou	侧后	4265
+ce bai	侧柏	4225
+ce ji	侧记	4185
+ce kong ji shu	测控技术	4180
+ce zi suan ming	测字算命	4095
+ce liang fa	测量法	4060
+ce shu	册书	4010
+ce xiang	测向	3920
+ce er qing ting	侧耳倾听	3905
+ce liang shi	测量师	3840
+ce liang chu	测量出	3750
+ce liang yi biao	测量仪表	3595
+ce shi dian	测试点	3559
+ce ya	测压	3530
+ce shi tiao jian	测试条件	3450
+ce bian lan	侧边栏	3408
+ce bian lan er	侧边栏儿	3333
+ce chuang	侧窗	3333
+ce jian	侧键	3333
+ce kai	侧开	3333
+ce lan	侧栏	3333
+ce lan er	侧栏儿	3333
+ce ru	侧乳	3333
+ce shou fan	侧手翻	3333
+ce ting	侧停	3333
+ce zai	侧载	3333
+ce yuan di	策源地	3310
+ce huang	测谎	3285
+ce hui fa	测绘法	3220
+ce li	测力	3155
+ce shi jiao ben	测试脚本	3090
+ce fan	策反	3020
+ce su yi	测速仪	2950
+ce shi ka	测试卡	2865
+ce lun	策论	2790
+ce shi zhi ling	测试指令	2725
+ce shi yun xing	测试运行	2662
+ce hui yuan	测绘院	2630
+ce zhen yi	测振仪	2565
+ce shi	侧视	2540
+ce ping biao	测评表	2525
+ce li ji	测力计	2515
+ce yan jie guo	测验结果	2515
+ce yi xia	测一下	2505
+ce hua cai dan	侧滑菜单	2461
+ce shi ren wu	测试任务	2460
+ce shi zu	测试组	2425
+ce liu	测流	2395
+ce bi shi	侧壁式	2370
+ce shi qu dong kai fa	测试驱动开发	2360
+ce liang kong zhi	测量控制	2310
+ce shi qi	测试期	2300
+ce gen	侧根	2260
+ce zhuan	侧转	2170
+ce liang dan wei	测量单位	2130
+ce shi wang luo	测试网络	2125
+ce shi tai	测试台	2060
+ce yin	恻隐	2015
+ce shi zhan	测试站	1990
+ce hui yi qi	测绘仪器	1985
+ce feng	侧风	1955
+ce ping shi	测评师	1950
+ce ya	侧芽	1925
+ce shi	侧室	1850
+ce gao yi	测高仪	1815
+ce li	册立	1765
+ce shui	侧睡	1755
+ce zhuan xiang deng	侧转向灯	1685
+ce huang yi	测谎仪	1655
+ce shi shi jian	测试时间	1596
+ce su qi	测速器	1585
+ce ti wen	测体温	1585
+ce ran	恻然	1565
+ce shen du	测深度	1515
+ce gao	测高	1505
+ce gong ji	测功机	1505
+ce shi gong cheng shi	测试工程师	1485
+ce guo	测过	1480
+ce shou	侧首	1440
+ce shi ye mian	测试页面	1435
+ce shi tu	测试图	1425
+ce ji	侧击	1415
+ce mian liao jie	侧面了解	1415
+ce shi liu cheng	测试流程	1372
+ce yan ti	测验题	1340
+ce shi ming ling	测试命令	1339
+ce liang chuan	测量船	1310
+ce shi ba	测试吧	1300
+ce wei	侧卫	1280
+ce shi she bei	测试设备	1268
+ce liang yuan	测量员	1265
+ce shi mo kuai	测试模块	1240
+ce mian ban	侧面板	1210
+ce liang dian lu	测量电路	1195
+ce bi shi qi dian chuan	侧壁式气垫船	1180
+ce yi ci	测一次	1165
+ce hua zhe	策划着	1150
+ce shi tu	侧视图	1135
+ce dang	侧挡	1111
+ce fei	侧妃	1111
+ce le	测了	1111
+ce qie	侧切	1111
+ce qun	侧裙	1111
+ce tiao	侧跳	1111
+ce ting	侧厅	1111
+ce tun	侧臀	1111
+ce xia	测下	1111
+ce zuo	侧坐	1111
+ce zuo zai	侧坐在	1111
+ce liang dui	测量队	1110
+ce dian bi	测电笔	1080
+ce pang	侧旁	1080
+ce hua yuan	策划员	1035
+ce ma yang bian	策马扬鞭	1015
+ce bu chu	测不出	1000
+ce shi wen jian	测试文件	1000
+ce yan fen shu	测验分数	990
+ce yi ce	测一测	990
+ce xie	侧写	987
+ce er xi ting	侧耳细听	980
+ce shi	策士	955
+ce shi zhi	测试之	955
+ce bai ye	侧柏叶	925
+ce shi zi yuan	测试资源	912
+ce chuang bo li	侧窗玻璃	909
+ce dao	侧倒	905
+ce shi kai fa	测试开发	902
+ce liang yuan jian	测量元件	900
+ce liang chang du	测量长度	885
+ce chu lai	测出来	875
+ce bu dao	测不到	865
+ce shen yi	测深仪	865
+ce ce	策策	860
+ce mu er shi	侧目而视	850
+ce mian tu	侧面图	835
+ce heng xian	册亨县	825
+ce sheng	侧生	825
+ce hui dui	测绘队	815
+ce shi bu men	测试部门	810
+ce xie yi	测斜仪	780
+ce ce	恻恻	760
+ce mian miao xie	侧面描写	755
+ce wen	策问	755
+ce liang ji	测量计	725
+ce ying	策应	710
+ce liang dian zu	测量电阻	700
+ce shi ce lve	测试策略	692
+ce hui xue	测绘学	670
+ce shi she ji	测试设计	660
+ce fu jin	侧福晋	625
+ce mian xiang	侧面像	620
+ce deng	侧灯	610
+ce ding wei	测定为	565
+ce shi chang	测试场	550
+ce dao	侧道	530
+ce shi guan li	测试管理	517
+ce shi qu dong cheng xu	测试驱动程序	517
+ce jin	侧近	510
+ce jing ji shu	测井技术	510
+ce le xian	策勒县	510
+ce shi yu	测试于	510
+ce shi ri qi	测试日期	495
+ce shi zi dong hua	测试自动化	483
+ce yun	测孕	470
+ce shi bing	测试并	465
+ce suo yong	厕所用	455
+ce yan juan	测验卷	455
+ce shi jing yan	测试经验	412
+ce liang zhe	测量者	410
+ce shi di	测试地	410
+ce shi fu gai	测试覆盖	406
+ce lve she ji mo shi	策略设计模式	373
+ce shi sheng cheng	测试生成	356
+ce shi wen ben	测试文本	350
+ce shen	厕身	340
+ce liang ren	测量人	335
+ce gui	侧跪	333
+ce ru	侧入	321
+ce liang tai	测量台	315
+ce huang qi	测谎器	310
+ce ju qi	测距器	305
+ce shi tan zhen	测试探针	300
+ce hui zhong xin	测绘中心	290
+ce lve lu you	策略路由	262
+ce shi pian	测试篇	245
+ce ding ji	测定机	240
+ce shi ri zhi	测试日志	236
+ce gui	侧柜	222
+ce hua lan	侧滑栏	201
+ce liang zu	测量组	200
+ce wen du	测温度	200
+ce hua shan chu	侧滑删除	198
+ce suo ri	厕所日	196
+ce shi ping gu	测试评估	192
+ce shi guan li gong ju	测试管理工具	188
+ce bu zhun	测不准	185
+ce hua shuo	策划说	185
+ce hua shi	策划室	175
+ce bian zhi wen	侧边指纹	174
+ce ma wei	侧马尾	157
+ce shi li lun	测试理论	157
+ce jiao qi	测角器	155
+ce wei qi	测微器	152
+ce ding zhi	测定值	148
+ce liang zhan	测量站	145
+ce he suan	测核酸	144
+ce suo jian	厕所间	140
+ce bai	侧摆	138
+ce bai cha	侧摆衩	138
+ce bai feng	侧摆缝	138
+ce huang ren	测谎人	138
+ce shi li cheng	测试例程	138
+ce mian kan	侧面看	136
+ce shi bei jing	测试背景	132
+ce hui jie	测绘界	130
+ce gao ji	测高计	125
+ce zhi shang	测智商	124
+ce jia quan	测甲醛	122
+ce la cai dan	侧拉菜单	121
+ce wo shi	侧卧式	121
+ce hui da dui	测绘大队	118
+ce suo you ren	厕所有人	117
+ce wei ban	侧围板	116
+ce huang ji	测谎机	115
+ce shi shun xu	测试顺序	113
+ce fan	侧翻	111
+ce gui zhe	侧跪着	111
+ce yan	侧颜	111
+ce zhu	侧柱	111
+ce bai miao	侧柏苗	100
+ce bian mu lu	侧边目录	100
+ce bu ce shi	测不测试	100
+ce bu ce shi a	测不测试啊	100
+ce bu ce shi ba	测不测试吧	100
+ce bu ce shi la	测不测试啦	100
+ce bu ce shi lou	测不测试喽	100
+ce bu ce shi ma	测不测试吗	100
+ce bu ce shi o	测不测试哦	100
+ce bu ce shi wa	测不测试哇	100
+ce bu ce shi ya	测不测试呀	100
+ce chang yi	测长仪	100
+ce da zhi xin	恻怛之心	100
+ce dao pang	侧刀旁	100
+ce di qu lv	测地曲率	100
+ce di xian	测地线	100
+ce di xian qu lv	测地线曲率	100
+ce ding wen du	测定温度	100
+ce ding xi tong	测定系统	100
+ce du ji	测度计	100
+ce du lun	测度论	100
+ce du qi	测度器	100
+ce dui zhe	侧对着	100
+ce duo fa	测度法	100
+ce fu yuan gui	册府元龟	100
+ce gao fa	测高法	100
+ce ge shi	测个试	100
+ce guang mo shi	测光模式	100
+ce guang xi tong	测光系统	100
+ce guo tou	侧过头	100
+ce hua an	策划案	100
+ce hua shen me	策划什么	100
+ce hua tuan	策划团	100
+ce hua xing dong	策划行动	100
+ce hua xuan chuan	策划宣传	100
+ce hua yu zhi xing	策划与执行	100
+ce hua zhi xing	策划执行	100
+ce hui di li xin xi	测绘地理信息	100
+ce hui hang ye	测绘行业	100
+ce jin hui	策进会	100
+ce jing qi	测径器	100
+ce ju chuan gan qi	测距传感器	100
+ce ju fa	测距法	100
+ce ju jing du	测距精度	100
+ce kang yuan	测抗原	100
+ce kong fan	侧空翻	100
+ce kong xi tong	测控系统	100
+ce lan mu lu	侧栏目录	100
+ce le ge shi	测了个试	100
+ce le yi xia	测了一下	100
+ce li chuan gan qi	测力传感器	100
+ce liang bu que ding du	测量不确定度	100
+ce liang can shu	测量参数	100
+ce liang chong fu xing	测量重复性	100
+ce liang chuan gan qi	测量传感器	100
+ce liang ci	测两次	100
+ce liang fen bian lv	测量分辨率	100
+ce liang gan	测量杆	100
+ce liang gao du	测量高度	100
+ce liang gong ju	测量工具	100
+ce liang guan li ti xi	测量管理体系	100
+ce liang ji	测量剂	100
+ce liang jiao du	测量角度	100
+ce liang jie di	测量接地	100
+ce liang jing du gao	测量精度高	100
+ce liang jing que du	测量精确度	100
+ce liang mo kuai	测量模块	100
+ce liang mo shi	测量模式	100
+ce liang pin lv	测量频率	100
+ce liang qi	测量器	100
+ce liang shen du	测量深度	100
+ce liang shu	测量术	100
+ce liang su du	测量速度	100
+ce liang su du kuai	测量速度快	100
+ce liang ti zhong	测量体重	100
+ce liang wen du	测量温度	100
+ce liang xi tong fen xi	测量系统分析	100
+ce liang xin lv	测量心率	100
+ce liang zhun que du	测量准确度	100
+ce lu dao	测录到	100
+ce lve mo ni	策略模拟	100
+ce lve shi	策略师	100
+ce lve shi bai	策略失败	100
+ce lve tiao zheng	策略调整	100
+ce lve xing de	策略性地	100
+ce lve zhi xing	策略执行	100
+ce ma qian jin	策马前进	100
+ce mei ce shi	测没测试	100
+ce mian jiao du	侧面角度	100
+ce mian ti xian	侧面体现	100
+ce mian xi lai	侧面袭来	100
+ce mian xing	侧面性	100
+ce ni de ma	测你的码	100
+ce ni ma	测你码	100
+ce ping qi	测平器	100
+ce ping ren	测评人	100
+ce ping ti xi	测评体系	100
+ce ping xi tong	测评系统	100
+ce ran lei xia	恻然泪下	100
+ce ran qi xia	恻然泣下	100
+ce ran xia lei	恻然下泪	100
+ce shen er wo	侧身而卧	100
+ce shen me	测什么	100
+ce shen qi jian	厕身其间	100
+ce shi ban geng xin	测试版更新	100
+ce shi ban geng xin le	测试版更新了	100
+ce shi can shu	测试参数	100
+ce shi chang di	测试场地	100
+ce shi dan	测试单	100
+ce shi dan hao	测试单号	100
+ce shi di dian	测试地点	100
+ce shi di zhi	测试地址	100
+ce shi dou tong guo	测试都通过	100
+ce shi dou tong guo le	测试都通过了	100
+ce shi fa	测试法	100
+ce shi fei xing	测试飞行	100
+ce shi fen xi	测试分析	100
+ce shi guo le	测试过了	100
+ce shi guo le ma	测试过了吗	100
+ce shi han shu	测试函数	100
+ce shi hang ye	测试行业	100
+ce shi he cai liao xie hui	测试和材料协会	100
+ce shi he tiao shi	测试和调试	100
+ce shi ji di	测试基地	100
+ce shi jian rong xing	测试兼容性	100
+ce shi jin du	测试进度	100
+ce shi jing du	测试精度	100
+ce shi jing du gao	测试精度高	100
+ce shi le	测试了	100
+ce shi le ma	测试了吗	100
+ce shi le yi xia	测试了一下	100
+ce shi li	侧蚀力	100
+ce shi mei tong guo	测试没通过	100
+ce shi mo ni	测试模拟	100
+ce shi mo shi	测试模式	100
+ce shi mo xing	测试模型	100
+ce shi pin lv	测试频率	100
+ce shi su du	测试速度	100
+ce shi su du kuai	测试速度快	100
+ce shi ti xi	测试体系	100
+ce shi tong guo le	测试通过了	100
+ce shi wen du	测试温度	100
+ce shi xi lie	测试系列	100
+ce shi xia	测试下	100
+ce shi xian	测试线	100
+ce shi xiang	测试项	100
+ce shi xiao lv	测试效率	100
+ce shi you jian	测试邮件	100
+ce shi zhi	测试纸	100
+ce shi zhi xing	测试执行	100
+ce shou xiang	测手相	100
+ce shu xue	测树学	100
+ce su chuan gan qi	测速传感器	100
+ce su di zhi	测速地址	100
+ce suan yi xia	测算一下	100
+ce suo deng wo	厕所等我	100
+ce suo li de yi wei	厕所里的异味	100
+ce suo li yi wei	厕所里异味	100
+ce suo men	厕所门	100
+ce suo xi lie	厕所系列	100
+ce suo yi wei	厕所异味	100
+ce suo ying xiong	厕所英雄	100
+ce tang zhe	侧躺着	100
+ce ti zhong	测体重	100
+ce tou kan	侧头看	100
+ce tou kan guo	侧头看过	100
+ce tou kan guo qu	侧头看过去	100
+ce wei ji	测微计	100
+ce wei qi	测位器	100
+ce wen chuan gan qi	测温传感器	100
+ce wen jing du	测温精度	100
+ce wen qi	测温器	100
+ce wen xi tong	测温系统	100
+ce wo fa	侧卧法	100
+ce xian pao	侧舷炮	100
+ce xiang gang du	侧向刚度	100
+ce xin dao	侧信道	100
+ce xin dao gong ji	侧信道攻击	100
+ce xin lv	测心率	100
+ce xing san guo	策行三国	100
+ce xu shen du	测序深度	100
+ce xuan sheng jiang	侧旋升降	100
+ce xuan sheng jiang jie gou	侧旋升降结构	100
+ce xun shi er zhuan	策勋十二转	100
+ce ya guan	测压管	100
+ce ya li	侧压力	100
+ce yan zhi	测颜值	100
+ce yan zhi	测验纸	100
+ce yi yu	测抑郁	100
+ce yin qi	测音器	100
+ce yin yuan	测姻缘	100
+ce yun shi	测运势	100
+ce zhe lian	侧着脸	100
+ce zhe shen	侧着身	100
+ce zhe shen zi	侧着身子	100
+ce zhe shui	侧着睡	100
+ce zhe tou	侧着头	100
+ce zhe zuo	侧着坐	100
+ce zhen yi	测震仪	100
+ce zhong dian bu tong	侧重点不同	100
+ce zhuang fang hu xi tong	侧撞防护系统	100
+ce zu bing xi	侧足屏息	100
+ce zu er li	侧足而立	100
+ce zu qi jian	厕足其间	100
+ce shi si xiang	测试思想	98
+ce suan zhi	测算值	97
+ce hui bing	测绘兵	95
+ce shi ku	测试库	93
+ce ya yi	测压仪	85
+ce gao du	测高度	80
+ce shi hao	测试好	79
+ce hui shi	测绘时	75
+ce shi xiang ying	测试响应	74
+ce bu chu lai	测不出来	73
+ce shi ji qiao	测试技巧	73
+ce mian yu	侧面与	70
+ce hua gai xiang mu	策划该项目	68
+ce bu wan	测不完	66
+ce nian	测年	64
+ce shi yu yan	测试语言	64
+ce shi ma	测试码	62
+ce shi you xiao xing	测试有效性	60
+ce bu liao	测不了	55
+ce li qi	测力器	55
+ce yi zhi	侧抑制	55
+ce shi ping shen	测试评审	53
+ce shi fa	测湿法	50
+ce xian qi	测线器	50
+ce shi zhi dao	测试之道	45
+ce ding xian	测定限	40
+ce hua shi yan tai	侧滑试验台	39
+ce shi ti shi	测试提示	36
+ce xie	侧斜	36
+ce nao shi	侧脑室	35
+ce tu yi	测图仪	35
+ce shi dui lie	测试队列	25
+ce shi qu dong qi	测试驱动器	24
+ce lian	侧链	23
+ce wei chi	测微尺	22
+ce sheng qi	测声器	20
+ce yun yi	测云仪	20
+ce zu	厕足	20
+ce shi gui yue	测试规约	19
+ce shi yun wei	测试运维	17
+ce zhong xue	侧重学	15
+ce jing gui ya mu	侧颈龟亚目	14
+ce er di ting	侧耳谛听	13
+ce shi bu	测试部	12
+ce shi chu	测试出	12
+ce shi zong he	测试综合	12
+ce hou	测候	11
+ce shi za zhi	测试杂志	11
+ce lou	测漏	10
+ce li	策励	9
+ce ming wei zhi	策名委质	8
+ce shen tian di	侧身天地	8
+ce yi xu lie	侧翼序列	8
+ce ke	侧刻	7
+ce zhi bu yi qi dao	策之不以其道	7
+ce jin zhan hua	侧金盏花	6
+ce zhi suo	侧支索	6
+ce du	测度	5
+ce jing gui ke	侧颈龟科	5
+ce mian ying xiang	侧面影像	5
+ce mo tai zuo	侧膜胎座	5
+ce xi	侧席	5
+ce xian	测线	5
+ce jing xiang	册井乡	4
+ce da ya xiang	策达雅乡	3
+ce dan yan	侧单眼	3
+ce hui gong zuo zheng guan li gui ding	测绘工作证管理规定	3
+ce shen tian di geng huai gu	侧身天地更怀古	3
+ce sheng chi	侧生齿	3
+ce wei biao	测微表	3
+ce zuo mei tai cao ying shen	侧坐莓苔草映身	3
+ce bai tan	侧柏炭	2
+ce gui	测轨	2
+ce qiang mu	侧腔目	2
+ce shen xi wang chang zi jie	侧身西望长咨嗟	2
+ce xi	侧吸	2
+ce bian	侧扁	1
+ce chang xi ye xi chong	侧肠锡叶吸虫	1
+ce chu an sha feng ban si	侧出岸沙枫半死	1
+ce chu jiao xi	侧触角螅	1
+ce ci yan qu	侧词艳曲	1
+ce dian jiang qi li yu	侧点桨鳍丽鱼	1
+ce fu lao yi liu qi	策扶老以流憩	1
+ce heng	册亨	1
+ce hui xing zheng zhi fa zheng guan li gui ding	测绘行政执法证管理规定	1
+ce jiao ju xiong jin xiao feng	侧角矩胸金小蜂	1
+ce ling xiang	侧岭乡	1
+ce lve yan jiu	策略研究	1
+ce ma fei yu	策马飞舆	1
+ce mian	策勉	1
+ce ming jiu lie	策名就列	1
+ce mo jue lei zhi wu	侧膜蕨类植物	1
+ce mu chong zu	侧目重足	1
+ce mu qie chi	侧目切齿	1
+ce nu li dun	策驽砺钝	1
+ce shen shang xia sui you yu	侧身上下随游鱼	1
+ce shi qu dong	测试驱动	1
+ce tou dai long zhan li yu	侧头带龙占丽鱼	1
+ce wan mo dun	策顽磨钝	1
+ce wei guang du ji	测微光度计	1
+ce wei shu	测微术	1
+ce wen a hu xia hu yu	侧纹阿胡鰕虎鱼	1
+ce wen he xie zhu	侧纹褐蟹蛛	1
+ce wu yi suan	策无遗算	1
+ce xian bao fang fu	侧线豹鲂𫚒	1
+ce xun yin zhi	策勋饮至	1
+ce yan jiao lv	测验焦虑	1
+ce yi qu	侧翼区	1
+ce yin ji	测音计	1
+ce zhan	策展	1
+ce zhang du xing	策杖独行	1
+ce zhang gui qu lai	策杖归去来	1
+ce zhi wen chang yu	侧殖文昌鱼	1
+ce zhu	箣竹	1
+ce zu	侧足	1

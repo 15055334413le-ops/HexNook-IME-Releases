@@ -1,0 +1,683 @@
+cu jin	促进	500948
+cu xiao	促销	393520
+cu shi	促使	305195
+cu jin le	促进了	214930
+cu xiao huo dong	促销活动	89735
+cu cheng	促成	89455
+cu cao	粗糙	88805
+cu jin she hui	促进社会	78860
+cu jin jing ji	促进经济	58655
+cu jin zuo yong	促进作用	57810
+cu jin xue sheng	促进学生	45675
+cu jin hui	促进会	44235
+cu jin she hui he xie	促进社会和谐	41388
+cu suan	醋酸	39520
+cu guang	粗犷	36865
+cu xi	粗细	36060
+cu bao	粗暴	32745
+cu fa	促发	31655
+cu zhuang	粗壮	31585
+cu xiao xin xi	促销信息	31425
+cu lve	粗略	31315
+cu xiao jia	促销价	29530
+cu cao de	粗糙的	28905
+cu xiao yuan	促销员	28615
+cu fang	粗放	27930
+cu jin wo guo	促进我国	27920
+cu jin nong min	促进农民	24945
+cu lu	粗鲁	24910
+cu jin jiu ye	促进就业	24605
+cu ti	粗体	21915
+cu jin fa	促进法	21870
+cu de	粗的	20955
+cu xin	粗心	20020
+cu fang xing	粗放型	18790
+cu jin jing ji fa zhan	促进经济发展	18785
+cu si	猝死	18285
+cu yong	簇拥	17110
+cu da	粗大	16180
+cu da de	粗大的	15345
+cu liang	粗粮	15210
+cu xiao fang an	促销方案	14445
+cu qian	粗浅	13670
+cu su	粗俗	12780
+cu xian wei	粗纤维	12165
+cu xiao pin	促销品	11945
+cu kou	粗口	11905
+cu bao de	粗暴的	11225
+cu xiao shou duan	促销手段	11065
+cu zhi lan zao	粗制滥造	10780
+cu jin gong zuo	促进工作	10510
+cu xiao fang shi	促销方式	10315
+cu qi	促其	10125
+cu cai	粗菜	9999
+cu er	猝尔	9999
+cu fu	粗浮	9999
+cu gong	粗工	9999
+cu gu	粗估	9999
+cu huo er	粗活儿	9999
+cu ji	醋鸡	9999
+cu le	粗了	9999
+cu mang	粗莽	9999
+cu mian	粗面	9999
+cu xie	粗斜	9999
+cu zhuo	粗拙	9999
+cu hua	粗话	9790
+cu ye	粗野	9665
+cu jin ji	促进剂	9475
+cu xin da yi	粗心大意	9420
+cu yong zhe	簇拥着	9105
+cu bu ji fang	猝不及防	8970
+cu jia gong	粗加工	8875
+cu cu	粗粗	8740
+cu gang	粗钢	8585
+cu jin liang an	促进两岸	8155
+cu zhong	粗重	8080
+cu xiao li pin	促销礼品	7790
+cu xiao jia ge	促销价格	7690
+cu dan bai	粗蛋白	7520
+cu jin ju	促进局	7375
+cu ran	猝然	7145
+cu de	醋的	7105
+cu xing xian ji su	促性腺激素	6890
+cu dong	促动	6875
+cu fang shi	粗放式	6710
+cu ti zi	粗体字	6630
+cu suan	粗算	6575
+cu bu	粗布	6375
+cu zhong	卒中	6035
+cu jin sheng chan	促进生产	5720
+cu xiao ce lve	促销策略	5625
+cu jin zhe	促进者	5570
+cu xian tiao	粗线条	5505
+cu yi	醋意	5405
+cu ren	粗人	5390
+cu lve de	粗略地	5385
+cu tong	粗通	5265
+cu cao du	粗糙度	5155
+cu mei	蹙眉	5155
+cu xiao li du	促销力度	5155
+cu su de	粗俗的	4990
+cu jin jian kang	促进健康	4660
+cu yan	粗盐	4635
+cu bi	粗鄙	4610
+cu cha dan fan	粗茶淡饭	4465
+cu yu	粗语	4444
+cu sha	粗纱	4425
+cu jin gai ge	促进改革	4385
+cu jin qu yu xie tiao fa zhan	促进区域协调发展	4130
+cu zhi fang	粗脂肪	4100
+cu lou	粗陋	4045
+cu qi	粗气	3890
+cu zhi da ye	粗枝大叶	3775
+cu si liao	粗饲料	3710
+cu ying	粗硬	3540
+cu xiao guang gao	促销广告	3415
+cu mei yuan fu hao	粗美元符号	3333
+cu mao	粗毛	3275
+cu sheng	粗绳	3152
+cu huo	粗活	3050
+cu xian	粗线	3050
+cu xiao xiao jie	促销小姐	3025
+cu xi tan xin	促膝谈心	2940
+cu dan bai zhi	粗蛋白质	2925
+cu hei	粗黑	2920
+cu cu	簇簇	2915
+cu duan	粗短	2880
+cu lve gu ji	粗略估计	2875
+cu fang jing ying	粗放经营	2790
+cu cheng jiao yi	促成交易	2740
+cu ma	粗吗	2730
+cu xia	促狭	2620
+cu shu	粗疏	2600
+cu sha	粗砂	2570
+cu hao	粗豪	2530
+cu xiao fang fa	促销方法	2510
+cu ben	粗苯	2410
+cu jin shi yu	促进食欲	2375
+cu lie	粗劣	2360
+cu mian fen	粗面粉	2345
+cu fang	粗纺	2305
+cu chang	粗长	2250
+cu cao du yi	粗糙度仪	2240
+cu li du	粗粒度	2239
+cu ju	蹴鞠	2210
+cu xin	簇新	2195
+cu suan yi zhi	醋酸乙酯	2175
+cu zhi	粗制	2110
+cu jin xing	促进性	2100
+cu du	粗度	2035
+cu jin tou zi	促进投资	1985
+cu dao	猝倒	1970
+cu sheng cu qi	粗声粗气	1935
+cu sheng	簇生	1890
+cu zhi	促织	1880
+cu ye	醋液	1870
+cu jin ye wu	促进业务	1835
+cu xi	促膝	1810
+cu xiao te jia	促销特价	1770
+cu tan zi	醋坛子	1755
+cu fen	粗粉	1730
+cu ma	粗麻	1730
+cu sheng	粗声	1730
+cu xiao qi jian	促销期间	1680
+cu ba	醋吧	1675
+cu zhe	蹙着	1675
+cu lie de	粗劣的	1660
+cu mo	粗磨	1645
+cu suan ding zhi	醋酸丁酯	1625
+cu sha ji	粗纱机	1590
+cu xi chang tan	促膝长谈	1545
+cu suan xian wei	醋酸纤维	1505
+cu jin	醋劲	1490
+cu qing	促请	1450
+cu sheng chan	促生产	1450
+cu suan na	醋酸钠	1400
+cu yi da fa	醋意大发	1385
+cu tiao	粗调	1340
+cu jin she qu	促进社区	1321
+cu zhong you xi	粗中有细	1320
+cu ben	粗笨	1315
+cu ping	醋瓶	1310
+cu sha	粗沙	1290
+cu ni	粗呢	1205
+cu fa	猝发	1185
+cu jiang cao	酢浆草	1180
+cu jin yin su	促进因素	1180
+cu ran lin zhi er bu jing	猝然临之而不惊	1180
+cu pai	促排	1111
+cu tui	粗腿	1111
+cu shuai	粗率	1100
+cu hou	粗厚	1085
+cu du	粗读	1065
+cu kuang	粗狂	1060
+cu li	粗粝	999
+cu bao gan she	粗暴干涉	960
+cu chan	促产	890
+cu mei	粗眉	885
+cu bao dui dai	粗暴对待	865
+cu fan bu	粗帆布	865
+cu shi	粗石	865
+cu suan yan	醋酸盐	860
+cu xin de ren	粗心的人	845
+cu shi	粗实	830
+cu za	粗杂	825
+cu suan rong ye	醋酸溶液	805
+cu jing	醋精	795
+cu su bu kan	粗俗不堪	770
+cu kuang	粗矿	760
+cu hua ni	粗花呢	720
+cu e	粗恶	610
+cu xi jiao tan	促膝交谈	605
+cu li	醋栗	585
+cu se	粗涩	575
+cu pang	粗胖	560
+cu ben de	粗笨的	555
+cu bu yi fu	粗布衣服	550
+cu tong wen mo	粗通文墨	550
+cu liu bai cai	醋熘白菜	535
+cu zhuang you li	粗壮有力	525
+cu jia zhuang xian su	促甲状腺素	520
+cu tan	醋坛	495
+cu ya	粗哑	495
+cu lu wu li	粗鲁无礼	475
+cu da xiao	簇大小	470
+cu e	蹙额	465
+cu bao xing wei	粗暴行为	460
+cu han	粗汉	450
+cu lu de ren	粗鲁的人	445
+cu pu	粗朴	440
+cu ya de	粗哑的	425
+cu hou de	粗厚的	420
+cu luan pao su	促卵泡素	410
+cu mei da yan	粗眉大眼	400
+cu xuan	粗选	390
+cu luan pao ji su	促卵泡激素	360
+cu chi	粗齿	350
+cu suan gen	醋酸根	339
+cu jin pai	促进派	335
+cu zhi de	粗制的	330
+cu yu	醋鱼	325
+cu liu yu	醋熘鱼	308
+cu tang	粗糖	290
+cu ning ji	促凝剂	285
+cu ma sheng	粗麻绳	280
+cu xie ti	粗斜体	275
+cu su hua	粗俗化	255
+cu zhi pin	粗制品	240
+cu fei	粗肥	230
+cu guan zi	醋罐子	230
+cu huang ti su	促黄体素	230
+cu she	簇射	230
+cu tui	促退	200
+cu mei mao	粗眉毛	197
+cu xin de	粗心地	195
+cu xia gui	促狭鬼	190
+cu ju	簇聚	185
+cu xing xian su	促性腺素	185
+cu jin he zuo	促进合作	183
+cu ju xiao zi	蹴鞠小子	179
+cu shi xing	促使性	175
+cu jin cun	促进村	163
+cu su de ren	粗俗的人	160
+cu ye	簇叶	145
+cu jin fa zhan	促进发展	143
+cu jin gong tong fu yu	促进共同富裕	138
+cu ta	蹴踏	135
+cu xin	醋心	135
+cu zhong huo	粗重活	135
+cu jin xiao fei	促进消费	134
+cu jin jiao liu	促进交流	131
+cu xian	促弦	130
+cu lai zhen	徂徕镇	116
+cu da	醋大	115
+cu jin he xie	促进和谐	113
+cu lai	粗来	111
+cu zi	醋渍	111
+cu jin jie dao	簇锦街道	109
+cu la	粗拉	105
+cu jiao yu	醋椒鱼	104
+cu bao bo chu	蹴豹博䝙	100
+cu bi hong	粗笔红	100
+cu bi hong de	粗笔红的	100
+cu bi zhi yu	粗鄙之语	100
+cu bu cu a	粗不粗啊	100
+cu bu ji fang de	猝不及防的	100
+cu bu tiao	粗布条	100
+cu cao cheng du	粗糙程度	100
+cu cao yi dian	粗糙一点	100
+cu chang xing chou	粗长腥臭	100
+cu cheng zhang	促成长	100
+cu cheng zhe jian shi	促成这件事	100
+cu cheng zhe jian shi er	促成这件事儿	100
+cu cu xi xi	粗粗细细	100
+cu da shi liao	粗大事了	100
+cu dun dun	粗墩墩	100
+cu fang shi guan li	粗放式管理	100
+cu fang shi zeng zhang	粗放式增长	100
+cu fang zeng zhang	粗放增长	100
+cu feng bao yu	粗风暴雨	100
+cu fu luan tou	粗服乱头	100
+cu guan mian	粗管面	100
+cu hai sheng bo	醋海生波	100
+cu ji bu an	踧踖不安	100
+cu jiang cao ke	酢浆草科	100
+cu jiang cao mu	酢浆草目	100
+cu jiang cao shu	酢浆草属	100
+cu jiang hui die	酢浆灰蝶	100
+cu jin chan ye jie gou tiao zheng	促进产业结构调整	100
+cu jin chang san jiao	促进长三角	100
+cu jin chang shou	促进长寿	100
+cu jin cheng zhang	促进成长	100
+cu jin chuang xin	促进创新	100
+cu jin da fa	醋劲大发	100
+cu jin dang di jing ji fa zhan	促进当地经济发展	100
+cu jin di fang jing ji	促进地方经济	100
+cu jin di fang jing ji fa zhan	促进地方经济发展	100
+cu jin di qu	促进地区	100
+cu jin du	促进度	100
+cu jin er	醋劲儿	100
+cu jin er tong sheng zhang fa yu	促进儿童生长发育	100
+cu jin fu yu ren yuan he li liu dong	促进富余人员合理流动	100
+cu jin gao xiao bi ye sheng	促进高校毕业生	100
+cu jin gen xi fa yu	促进根系发育	100
+cu jin gen xi sheng zhang	促进根系生长	100
+cu jin gong zuo luo shi	促进工作落实	100
+cu jin gu ge sheng zhang	促进骨骼生长	100
+cu jin guan xi	促进关系	100
+cu jin hang ye fa zhan	促进行业发展	100
+cu jin hang ye jian kang fa zhan	促进行业健康发展	100
+cu jin hang ye jiao liu	促进行业交流	100
+cu jin hang ye zi lv	促进行业自律	100
+cu jin ji rou sheng zhang	促进肌肉生长	100
+cu jin jiao shi zhuan ye cheng zhang	促进教师专业成长	100
+cu jin jing ji jie gou tiao zheng	促进经济结构调整	100
+cu jin jing ji ping wen yun xing	促进经济平稳运行	100
+cu jin jing ji zeng zhang	促进经济增长	100
+cu jin le jing ji fa zhan	促进了经济发展	100
+cu jin le nong min zeng shou	促进了农民增收	100
+cu jin le she hui he xie	促进了社会和谐	100
+cu jin le xiao fei	促进了消费	100
+cu jin liang an guan xi	促进两岸关系	100
+cu jin luo shi	促进落实	100
+cu jin mao fa sheng zhang	促进毛发生长	100
+cu jin mian yi xi tong	促进免疫系统	100
+cu jin qi xie yun xing	促进气血运行	100
+cu jin qi xue yun xing	促进气血运行	100
+cu jin qin zi guan xi	促进亲子关系	100
+cu jin quan qiu jing ji yi ti hua	促进全球经济一体化	100
+cu jin sheng zhang	促进生长	100
+cu jin sheng zhang fa yu	促进生长发育	100
+cu jin sheng zhang ji su	促进生长激素	100
+cu jin tou fa sheng zhang	促进头发生长	100
+cu jin tu di	促进土地	100
+cu jin wai mao wen zeng zhang	促进外贸稳增长	100
+cu jin xi bao sheng zhang	促进细胞生长	100
+cu jin xiang mu luo di	促进项目落地	100
+cu jin xiao fei zeng zhang	促进消费增长	100
+cu jin xiao hua xi tong	促进消化系统	100
+cu jin xiao yuan	促进校园	100
+cu jin xing dong	促进行动	100
+cu jin xue sheng jian kang cheng zhang	促进学生健康成长	100
+cu jin xue xiao	促进学校	100
+cu jin yi fa xing zheng	促进依法行政	100
+cu jin zeng zhang	促进增长	100
+cu jin zhang gao	促进长高	100
+cu jin zhi wu sheng zhang	促进植物生长	100
+cu jin zhong bu di qu jue qi	促进中部地区崛起	100
+cu jin zhu fang shang pin hua	促进住房商品化	100
+cu jin zuo wu sheng zhang	促进作物生长	100
+cu jing shi zhu	簇茎石竹	100
+cu ju geng gai	粗具梗概	100
+cu le cu mei	蹙了蹙眉	100
+cu li cu qi	粗里粗气	100
+cu lie pin	粗劣品	100
+cu lie zuo pin	粗劣作品	100
+cu liu rou duan	醋熘肉段	100
+cu liu tu dou si	醋熘土豆丝	100
+cu luo shi	促落实	100
+cu mao bu	粗毛布	100
+cu mao pi	粗毛皮	100
+cu mao yang	粗毛羊	100
+cu mian nei zhi wang	粗面内质网	100
+cu mian yan	粗面岩	100
+cu niang zi yao shi yang mei	醋娘子要食杨梅	100
+cu qiang heng diao	粗腔横调	100
+cu rong di tan	簇绒地毯	100
+cu sheng bao qi	粗声暴气	100
+cu sheng cu yang	粗生粗养	100
+cu sheng da qi	粗声大气	100
+cu sheng zhang	促生长	100
+cu shi zhi wu	粗识之无	100
+cu shou cu jiao	粗手粗脚	100
+cu si lv	猝死率	100
+cu su wu li	粗俗无礼	100
+cu tiao wei	醋调味	100
+cu tong wen zi	粗通文字	100
+cu tuan	簇团	100
+cu tui bing	粗腿病	100
+cu xi chang duan	粗细长短	100
+cu xi cheng du	粗细程度	100
+cu xi du	粗细度	100
+cu xi er tan	促膝而谈	100
+cu xiao jiang jia	促销降价	100
+cu xiao mo shi	促销模式	100
+cu xiao xi tong	促销系统	100
+cu xiao xuan chuan	促销宣传	100
+cu xin fu qi	粗心浮气	100
+cu ye zhi ren	粗野之人	100
+cu yi dan fan	粗衣淡饭	100
+cu yi dan shi	粗衣淡食	100
+cu yi e shi	粗衣恶食	100
+cu yi li shi	粗衣粝食	100
+cu yong er shang	簇拥而上	100
+cu you chang	粗又长	100
+cu zeng zhang	促增长	100
+cu zhe mei mao	蹙着眉毛	100
+cu zhe mei tou	蹙着眉头	100
+cu zhi xing	促执行	100
+cu zhong dai xi	粗中带细	100
+cu zhong de chuan xi	粗重的喘息	100
+cu zhong fang zhi	卒中防治	100
+cu zhong feng xian	卒中风险	100
+cu zhong hou	卒中后	100
+cu zhong huan zhe	卒中患者	100
+cu zhong ji jiu di tu	卒中急救地图	100
+cu zhong xue hui	卒中学会	100
+cu zhong yu fang	卒中预防	100
+cu zhong zhong xin	卒中中心	100
+cu zhong zhong xin jian she	卒中中心建设	100
+cu zhuang de jiu cai	粗壮的韭菜	100
+cu cao ji	粗糙集	87
+cu jin xiao qu	促进小区	87
+cu jin xing	促进型	87
+cu bian kuang	粗边框	65
+cu jin jia	促进家	65
+cu suo	蹙缩	65
+cu jin chang	促进长	63
+cu de xiang	粗得像	60
+cu shou ben jiao	粗手笨脚	60
+cu sheng de	簇生的	55
+cu yan xi bao yin zi	促炎细胞因子	50
+cu hong xi bao sheng cheng su	促红细胞生成素	49
+cu jia zhuang xian ji su	促甲状腺激素	48
+cu suan zheng bing zhi	醋酸正丙酯	48
+cu qiao jie dao	簇桥街道	44
+cu xiang fu	醋香附	44
+cu xiao shu	促销术	40
+cu ding wei	粗定位	37
+cu suan po ni song	醋酸泼尼松	37
+cu suan yi bing zhi	醋酸异丙酯	34
+cu xing xian ji su shi fang ji su	促性腺激素释放激素	33
+cu si wang lv	粗死亡率	31
+cu liu yu pian	醋熘鱼片	30
+cu zhi ban	粗纸板	30
+cu jiao fen man	粗脚粉螨	29
+cu liu huang gua	醋熘黄瓜	28
+cu lve xu shu	粗略叙述	25
+cu yan lan yu	粗言烂语	25
+cu yang	粗样	25
+cu mu liao	粗木料	24
+cu liu gui yu	醋熘鳜鱼	23
+cu suan yi wu zhi	醋酸异戊酯	23
+cu shen shang xian pi zhi ji su	促肾上腺皮质激素	21
+cu xiao xin jian	促销信件	21
+cu jin wu	促进物	20
+cu suan xian wei su	醋酸纤维素	20
+cu jin yu bao hu tou zi xie ding	促进与保护投资协定	19
+cu hei hu jiao fen	粗黑胡椒粉	17
+cu suan di sai mi song	醋酸地塞米松	17
+cu liu rou pian er	醋熘肉片儿	15
+cu zhi yi er	粗知一二	15
+cu dao zheng	猝倒症	14
+cu suan yi ding zhi	醋酸异丁酯	13
+cu er er yu zhi	蹴尔而与之	12
+cu suan jia qiang yun tong	醋酸甲羟孕酮	12
+cu lai	徂徕	11
+cu suan po ni song pian	醋酸泼尼松片	10
+cu suan zheng wu zhi	醋酸正戊酯	10
+cu hua	促花	9
+cu huang ti sheng cheng ji su	促黄体生成激素	9
+cu suan qian	醋酸铅	9
+cu jiao gui yu	醋椒鳜鱼	8
+cu sheng	粗生	8
+cu suan zheng ding zhi	醋酸正丁酯	8
+cu ya	促芽	8
+cu yang	粗养	8
+cu zhi pi	粗制皮	8
+cu huang ti sheng cheng su	促黄体生成素	7
+cu liu ou pian	醋熘藕片	7
+cu suan ba	醋酸钯	7
+cu ya	粗牙	7
+cu chun wei	粗唇𬶏	6
+cu keng	粗坑	6
+cu pi zhi ji su	促皮质激素	6
+cu pi zhi su	促皮质素	6
+cu shi keng	粗石坑	6
+cu zeng da bu guo sheng ya	粗缯大布裹生涯	6
+cu cheng hao	粗乘号	5
+cu chu hao	粗除号	5
+cu deng hao	粗等号	5
+cu guo bai li	蹙国百里	5
+cu hai fan bo	醋海翻波	5
+cu jia hao	粗加号	5
+cu jian hao	粗减号	5
+cu shen shang xian pi zhi su	促肾上腺皮质素	5
+cu shi xian wei	粗视纤维	5
+cu suan po ni song long	醋酸泼尼松龙	5
+cu suan qing hua ke di song	醋酸氢化可的松	5
+cu ti cheng hao	粗体乘号	5
+cu ti chu hao	粗体除号	5
+cu ti deng hao	粗体等号	5
+cu ti jia hao	粗体加号	5
+cu ti jian hao	粗体减号	5
+cu jiao meng yi ya ke	粗角猛蚁亚科	4
+cu luan pao sheng cheng su	促卵泡生成素	4
+cu wu wei zi	醋五味子	4
+cu cu la la	粗粗邋邋	3
+cu gen	促根	3
+cu jiao huo yu	醋椒活鱼	3
+cu la bai cai geng	醋辣白菜梗	3
+cu mao ke li mu yang quan	粗毛柯利牧羊犬	3
+cu su zhi bei	粗俗之辈	3
+cu suan liang bing rui lin	醋酸亮丙瑞林	3
+cu wei	醋味	3
+cu wei er	醋味儿	3
+cu xian qi	粗线期	3
+cu ye rong	粗叶榕	3
+cu ban lian ou	醋拌莲藕	2
+cu ci ma xie er xian chong	粗刺马歇尔线虫	2
+cu cu cong cong	簇簇丛丛	2
+cu dai	粗带	2
+cu dai zheng ji chu	簇带争济楚	2
+cu dian ben suan na	醋碘苯酸钠	2
+cu jia zuo an	醋甲唑胺	2
+cu sha da shi xiang mo zhi	粗砂大石相磨治	2
+cu suan qu an nai de	醋酸曲安奈德	2
+cu ban bi luo	粗斑笔螺	1
+cu ban hai zhe zhan la jiang	醋拌海蜇蘸辣酱	1
+cu bei du fu yu	粗背杜父鱼	1
+cu bi dun e bai yi	粗鼻钝颚白蚁	1
+cu bu hu wan	粗布护腕	1
+cu bu wan	粗布腕	1
+cu bu yao dai	粗布腰带	1
+cu cao ao hu	粗糙澳虎	1
+cu cao bin luo	粗糙滨螺	1
+cu cao du fu yu	粗糙杜父鱼	1
+cu cao er duan hai qiao	粗糙二段海鞘	1
+cu cao he guo luo	粗糙核果螺	1
+cu cao ji meng shui zao	粗糙棘猛水蚤	1
+cu cao ji ye shan hu	粗糙棘叶珊瑚	1
+cu cao ju hua shan hu	粗糙菊花珊瑚	1
+cu cao lu jiao shan hu	粗糙鹿角珊瑚	1
+cu cao mao ke xie	粗糙毛壳蟹	1
+cu cao qiu fu xie	粗糙酋妇蟹	1
+cu cao sha bang chong	粗糙砂棒虫	1
+cu cao shuang zhi lin chong	粗糙双指鳞虫	1
+cu cao zhi di	粗糙之地	1
+cu cao zhun she chun yu	粗糙准舌唇鱼	1
+cu chang fu jian shui zao	粗长腹剑水蚤	1
+cu chi chun luo	粗齿鹑螺	1
+cu chong ya gang	簇虫亚纲	1
+cu chun fu piao xia hu yu	粗唇腹瓢鰕虎鱼	1
+cu ci ci ying	粗刺刺萤	1
+cu ci da wei zao	粗刺大尾蚤	1
+cu ci jin ji er	粗刺锦鸡儿	1
+cu cu ci ci	促促刺刺	1
+cu cu ge tai wu xie	簇簇歌台舞榭	1
+cu cu huai yin shi	簇簇淮阴市	1
+cu cu mi cheng	蹙蹙靡骋	1
+cu cu xian xia	卒卒鲜暇	1
+cu da hou fu ying	粗大后浮萤	1
+cu dan xian an	醋氮酰胺	1
+cu deng si	粗灯丝	1
+cu dian ju tian niu	粗点锯天牛	1
+cu dian tu jian hua tian niu	粗点突肩花天牛	1
+cu dian yin dun ye jia	粗点隐盾叶甲	1
+cu diao lie luo	粗雕裂螺	1
+cu e cuan mei	蹙额攒眉	1
+cu e xi ye feng	粗额细叶蜂	1
+cu fan zhuo lao	粗饭浊醪	1
+cu fei jian	粗榧碱	1
+cu fen lie yuan	促分裂原	1
+cu gan xi bao sheng zhang su	促肝细胞生长素	1
+cu gou lin wai nie	粗钩邻外啮	1
+cu gou wei mao pan chong	粗钩伪锚盘虫	1
+cu gou wei si pan gou chong	粗钩伪似盘钩虫	1
+cu gu jiao xiong xiao ye jia	粗股角胸肖叶甲	1
+cu gua xu wei	粗寡须鳚	1
+cu guan qian shi shui mu	粗管浅室水母	1
+cu guo sang shi	蹙国丧师	1
+cu hei su xi bao ji su	促黑素细胞激素	1
+cu hou da sang	粗喉大嗓	1
+cu hua gao	粗花糕	1
+cu huang ti su shi fang su	促黄体素释放素	1
+cu hui qing	粗灰蜻	1
+cu ji bi yu	粗棘鼻鱼	1
+cu ji chun yin han yu	粗棘唇银汉鱼	1
+cu ji fu du fu yu	粗棘𫚒杜父鱼	1
+cu ji hei jin gui	粗姬黑金龟	1
+cu ji tian niu	粗脊天牛	1
+cu ji zhi shi	卒极之事	1
+cu jia lie e xie	粗甲裂额蟹	1
+cu jia zhuang xian su shi fang su	促甲状腺素释放素	1
+cu jia zhuang xian su tiao jie su	促甲状腺素调节素	1
+cu jia zuo an pian	醋甲唑胺片	1
+cu jian zhi huan chong	粗健指环虫	1
+cu jiao bu xing chong	粗角步行虫	1
+cu jiao fen jin gui	粗角粪金龟	1
+cu jiao ju pian ye feng	粗角巨片叶蜂	1
+cu jiao meng yi shu	粗角猛蚁属	1
+cu jiao xin zhe shui zao	粗角新哲水蚤	1
+cu jiao yi cao mang chun	粗角异草盲蝽	1
+cu jiao ying xiang tian niu	簇角缨象天牛	1
+cu jiao you jian feng	粗角优茧蜂	1
+cu jiao yuan ding mang chun	粗角缘顶盲蝽	1
+cu jin jie xiu	蹙金结绣	1
+cu jin lou zi	蹙金楼子	1
+cu jin tuan hua	簇锦团花	1
+cu jin zhu	蹙金珠	1
+cu jing ben nei su tie	粗茎本内苏铁	1
+cu jing gui	粗颈龟	1
+cu ke cha xiao ye jia	粗刻茶肖叶甲	1
+cu ke ping jian xiao ye jia	粗刻平肩肖叶甲	1
+cu ke ri ying ye jia	粗刻日萤叶甲	1
+cu kuan wei he zhen yu	粗宽尾颌针鱼	1
+cu lin ci wei lie xi	粗鳞刺尾鬣蜥	1
+cu lin duan yu	促鳞短羽	1
+cu lin xing du fu yu	粗鳞星杜父鱼	1
+cu luan shou jing su	促卵受精素	1
+cu luo mai mian bao	粗裸麦面包	1
+cu lv cai li jin gui	粗绿彩丽金龟	1
+cu lv fen suan	醋氯芬酸	1
+cu lv fen suan chang rong pian	醋氯芬酸肠溶片	1
+cu mang cu ji	促忙促急	1
+cu mao mao lin ju	粗毛毛鳞菊	1
+cu mao wei hou yuan xiao ye jia	簇毛伪厚缘肖叶甲	1
+cu mo gu fen	粗磨谷粉	1
+cu mu ju tian niu	粗目锯天牛	1
+cu pao li shi	粗袍粝食	1
+cu pi hu bi	粗皮护臂	1
+cu pi jia	粗皮甲	1
+cu pi ku	粗皮裤	1
+cu pi kui	粗皮盔	1
+cu qiao	簇桥	1
+cu ru zhuang ye	粗乳状液	1
+cu sheng shan liu ju	簇生山柳菊	1
+cu shi ju chi shan bei	粗饰锯齿扇贝	1
+cu shi zhan	促使站	1
+cu si cu mie	促死促灭	1
+cu suan bai shi yan	醋酸白试验	1
+cu suan bei ta mi song cha ji	醋酸倍他米松搽剂	1
+cu suan di sai mi song ruan gao	醋酸地塞米松软膏	1
+cu suan fu qing song	醋酸氟轻松	1
+cu suan fu qing song ru gao	醋酸氟轻松乳膏	1
+cu suan gai ke li	醋酸钙颗粒	1
+cu suan jia qiang yun tong pian	醋酸甲羟孕酮片	1
+cu suan ke di song	醋酸可的松	1
+cu suan ke di song di yan ye	醋酸可的松滴眼液	1
+cu suan lv di yun tong	醋酸氯地孕酮	1
+cu suan qu an nai de zhu she ye	醋酸曲安奈德注射液	1
+cu suan qu pu rui lin	醋酸曲普瑞林	1
+cu suan zheng yi zhi	醋酸正乙酯	1
+cu ti ao zhou bi yu	粗体澳洲躄鱼	1
+cu wei dong su	促胃动素	1
+cu wei ying hou	粗尾婴猴	1
+cu wen an se pang pi	粗纹暗色鳑鲏	1
+cu wen jiu kong	粗文九孔	1
+cu wen ma bi	粗纹马鲾	1
+cu xiang tian se	簇香天色	1
+cu xiao xiang dou su	醋硝香豆素	1
+cu xie	殂谢	1
+cu xin da qi	粗心大气	1
+cu xing xian su shi fang su	促性腺素释放素	1
+cu ye lu jiao shan hu	粗野鹿角珊瑚	1
+cu ye shou an	粗叶寿安	1
+cu yi ye su	促胰液素	1
+cu ying tou hai nian	粗硬头海鲶	1
+cu you mei mu	粗有眉目	1
+cu zhang da quan xie	粗掌大权蟹	1
+cu zhang hu tong	醋章胡同	1
+cu zhi ming dong bi	促织鸣东壁	1
+cu zhi xiao xiu shui zao	粗指小袖水蚤	1
+cu zhu da ye	粗株大叶	1

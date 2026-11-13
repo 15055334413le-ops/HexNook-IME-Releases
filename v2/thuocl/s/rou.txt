@@ -1,0 +1,113 @@
+rou yan	肉眼	107745
+rou gan	肉干	36094
+rou mo	肉末	18380
+rou zhou	肉粥	11386
+rou jia mo	肉夹馍	7532
+rou gu tou	肉骨头	7403
+rou guan tou	肉罐头	3972
+rou huo shao	肉火烧	1816
+rou du gan jun	肉毒杆菌	1360
+rou yan	肉燕	1024
+rou lian chang	肉联厂	912
+rou lei guan tou	肉类罐头	753
+rou lv	肉驴	745
+rou zong	肉棕	723
+rou gui	肉桂	599
+rou liu	肉瘤	568
+rou gui quan	肉桂醛	497
+rou song mian bao	肉松面包	496
+rou pian tang	肉片汤	452
+rou suan	鞣酸	435
+rou cong rong	肉苁蓉	325
+rou gui you	肉桂油	287
+rou xing shu zu	柔性数组	280
+rou tang yuan	肉汤圆	277
+rou nang	肉馕	276
+rou mo shao bing	肉末烧饼	251
+rou jia bing	肉夹饼	248
+rou du du su	肉毒毒素	227
+rou song juan	肉松卷	219
+rou yan pi	肉燕皮	192
+rou qing mi yi	柔情蜜意	170
+rou ya zhong	肉芽肿	126
+rou dou kou	肉豆蔻	99
+rou ya zu zhi	肉芽组织	93
+rou si chao nian gao	肉丝炒年糕	78
+rou shi	柔石	70
+rou chang cun duan	柔肠寸断	64
+rou guo kui	肉锅盔	62
+rou zhi guo	肉质果	61
+rou wan hu la tang	肉丸胡辣汤	52
+rou si chun juan	肉丝春卷	49
+rou si tang mian	肉丝汤面	42
+rou xian bing	肉馅饼	38
+rou du zhong du	肉毒中毒	32
+rou yan fan tai	肉眼凡胎	31
+rou mi yu chun	肉米鱼唇	29
+rou pian shao qie zi	肉片烧茄子	29
+rou shi zhe bi	肉食者鄙	29
+rou chang bai zhuan	柔肠百转	27
+rou chui he	肉垂鹤	22
+rou ding la jiang	肉丁辣酱	20
+rou guan rou	肉罐肉	20
+rou shi zhe mou zhi	肉食者谋之	19
+rou suan dan bai	鞣酸蛋白	19
+rou gu tou zhou	肉骨头粥	18
+rou kou	肉蔻	18
+rou ruo sheng gang qiang	柔弱胜刚强	16
+rou yong huang niu	肉用黄牛	15
+rou zhua fan	肉抓饭	15
+rou gu cha bao ji	肉骨茶煲鸡	14
+rou pian men bian dou	肉片焖扁豆	14
+rou zhu	肉柱	13
+rou si chao bing	肉丝炒饼	12
+rou hong mei su	柔红霉素	11
+rou gui ye	肉桂叶	10
+rou jiang qie zi	肉酱茄子	10
+rou mo shao jia	肉末烧茄	10
+rou mo shao qie zi	肉末烧茄子	10
+rou suan ruan gao	鞣酸软膏	9
+rou niang sheng fu yuan	肉酿生麸圆	8
+rou si fen pi	肉丝粉皮	8
+rou si liang mian huang	肉丝两面黄	8
+rou du kang du su	肉毒抗毒素	7
+rou suan ku shen jian jiao nang	鞣酸苦参碱胶囊	7
+rou hua juan	肉花卷	6
+rou fu ba lu	柔佛巴鲁	5
+rou gui suan	肉桂酸	5
+rou liu bian	肉瘤变	5
+rou mo hu luo bo	肉末胡萝卜	5
+rou pian chao wo sun	肉片炒莴笋	5
+rou rong yu mi geng	肉蓉玉米羹	5
+rou suan dan bai jiao mu san	鞣酸蛋白酵母散	4
+rou cong rong dun yang rou	肉苁蓉炖羊肉	3
+rou cong rong dun yang shen	肉苁蓉炖羊肾	3
+rou rong bo cai	肉茸菠菜	3
+rou shi zhi ran ye	輮使之然也	3
+rou wan dou fu	肉丸豆腐	3
+rou wei shao bing	肉未烧饼	3
+rou mo yang cong	肉末洋葱	2
+rou nie fa	揉捏法	2
+rou suan jia ya su	鞣酸加压素	2
+rou ding huang gua jiang	肉丁黄瓜酱	1
+rou fang shen yang liu	柔芳甚杨柳	1
+rou gui se xiong feng hu	肉桂色胸蜂虎	1
+rou kou si shen wan	肉蔻四神丸	1
+rou mo bai cai	肉末白菜	1
+rou mo tu dou si	肉末土豆丝	1
+rou po huang jin wan dian qing	揉破黄金万点轻	1
+rou song san wen zhi	肉松三文治	1
+rou suan dan bai san	鞣酸蛋白散	1
+rou suan xiao bo jian	鞣酸小檗碱	1
+rou sui shi jiao chao jiang dou	肉碎豉椒炒豇豆	1
+rou sui zai fu zao jian	揉碎在浮藻间	1
+rou zhi shi er bu zu shu	肉芝石耳不足数	1
+rou bao zi chong shu	肉孢子虫属	0
+rou chui shui zhi	肉垂水雉	0
+rou chui zhong san niao	肉垂钟伞鸟	0
+rou fu qiu	柔副鳅	0
+rou mao mao ke xie	柔毛毛壳蟹	0
+rou mao tu wei shui shi	柔毛突尾水虱	0
+rou mao xin hua ban xie	柔毛新花瓣蟹	0
+rou mao yan ji ying	柔毛颜寄蝇	0
+rou ping bian xing chong	柔平变形虫	0

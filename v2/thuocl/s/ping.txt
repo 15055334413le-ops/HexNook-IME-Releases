@@ -1,0 +1,458 @@
+ping guo	苹果	1143881
+ping lun	评论	928410
+ping gu	评估	196520
+ping jing	瓶颈	50829
+ping zheng	凭证	32214
+ping ji	评级	17423
+ping heng fa zhan	平衡发展	11291
+ping jia	平价	11161
+ping guo suan	苹果酸	10103
+ping guo cu	苹果醋	7625
+ping jing zhi yue	瓶颈制约	7151
+ping mu chi cun	屏幕尺寸	6963
+ping gu	平菇	6132
+ping mu kuan du	屏幕宽度	6060
+ping shan	坪山	5947
+ping mu fen bian lv	屏幕分辨率	5734
+ping mu xian shi	屏幕显示	5634
+ping guo pai	苹果派	5128
+ping ban dian nao	平板电脑	5116
+ping cang jia	平仓价	4889
+ping deng zi yuan	平等自愿	4478
+ping gu	平谷	4426
+ping tan	平潭	4405
+ping heng er cha shu	平衡二叉树	4100
+ping dong	屏东	3961
+ping ding shan shi	平顶山市	3887
+ping yi jin ren	平易近人	3687
+ping mu fang xiang	屏幕方向	3529
+ping yu	评语	3321
+ping mu shi pei	屏幕适配	3159
+ping guo kai fa	苹果开发	2946
+ping xin er lun	平心而论	2894
+ping heng shu	平衡树	2889
+ping mu xuan zhuan	屏幕旋转	2883
+ping tou	平头	2853
+ping mu mi du	屏幕密度	2775
+ping jiang	平江	2763
+ping an wu shi	平安无事	2654
+ping mu gao du	屏幕高度	2566
+ping mu jie tu	屏幕截图	2544
+ping du shi	平度市	2482
+ping yao	平遥	2465
+ping mu zuo biao	屏幕坐标	2378
+ping shun	平顺	2286
+ping tai jia	平台架	2202
+ping xiang shi	萍乡市	2200
+ping liang shi	平凉市	1763
+ping yao gu cheng	平遥古城	1704
+ping qi ping zuo	平起平坐	1623
+ping yao niu rou	平遥牛肉	1582
+ping guo yuan	苹果园	1527
+ping cang	平仓	1439
+ping guo guan fang wen dang	苹果官方文档	1299
+ping dan wu qi	平淡无奇	1169
+ping fen qiu se	平分秋色	1141
+ping an da jie	平安大街	1124
+ping xin jing qi	平心静气	1085
+ping ba	平坝	1064
+ping mu kuan gao	屏幕宽高	1018
+ping jia zhi biao	评价指标	960
+ping deng jiu ye quan	平等就业权	955
+ping yi	平邑	924
+ping bai wu gu	平白无故	901
+ping chang zai	平常在	899
+ping tai yi zhi	平台移植	885
+ping gu shi	评估师	831
+ping bu qing yun	平步青云	812
+ping wu	平武	809
+ping yi bian huan	平移变换	806
+ping shi	坪石	804
+ping tou lun zu	评头论足	789
+ping mu liang du	屏幕亮度	787
+ping mu qie huan	屏幕切换	780
+ping chuan	平川	762
+ping tang	坪塘	760
+ping tai jia gou	平台架构	707
+ping an yi yuan	平安医院	665
+ping bao	屏保	618
+ping yuan	平远	609
+ping hu shi	平湖市	598
+ping yang lu	平阳路	586
+ping heng shan shi	平衡膳食	582
+ping gu fei	评估费	577
+ping mu bao hu	屏幕保护	569
+ping jun deng dai shi jian	平均等待时间	562
+ping sha	平沙	562
+ping guo shen he	苹果审核	551
+ping jia han shu	评价函数	513
+ping tai da jian	平台搭建	469
+ping liang lu	平凉路	463
+ping an lu	平安路	445
+ping lu	平陆	445
+ping guo shang dian	苹果商店	442
+ping mu zi shi ying	屏幕自适应	438
+ping an cun	平安村	435
+ping shang	坪上	426
+ping mu lu zhi	屏幕录制	424
+ping xiang shi	凭祥市	413
+ping tang	平塘	409
+ping qiao	平桥	400
+ping nan	屏南	380
+ping shui xiang feng	萍水相逢	373
+ping hua ji	平滑肌	349
+ping mian wen jian	平面文件	330
+ping tai diao yong	平台调用	330
+ping mian ji he	平面几何	328
+ping zhi fang che	平治房车	324
+ping an li	平安里	313
+ping guo pu	苹果脯	300
+ping jun li run	平均利润	281
+ping li	平利	276
+ping mu chang liang	屏幕常亮	274
+ping quan	平泉	272
+ping xi	平西	268
+ping tian	平田	261
+ping shui zhu cha	平水珠茶	260
+ping luo	平罗	254
+ping hua cheng du	平滑程度	249
+ping shui	平水	238
+ping liu	平流	234
+ping lu	平鲁	233
+ping yu	平舆	231
+ping li	坪里	230
+ping guo ying yong shang dian	苹果应用商店	225
+ping yao	瓶窑	214
+ping xing tou ying	平行投影	213
+ping heng qi	平衡器	207
+ping pu zhi xu	平铺直叙	203
+ping tou pin zu	评头品足	203
+ping hai lu	平海路	195
+ping jun xun dao shi jian	平均寻道时间	195
+ping guo zhi fu	苹果支付	194
+ping gu qu zheng fu	平谷区政府	191
+ping bu	平步	189
+ping guo	平果	169
+ping bi ji cun qi	屏蔽寄存器	167
+ping xiang	平乡	164
+ping bi shuang jiao xian	屏蔽双绞线	152
+ping bian	屏边	148
+ping mu gong xiang	屏幕共享	148
+ping tai qi ye ban	平台企业版	142
+ping xi fu	平西府	137
+ping dong	平东	136
+ping zhou	坪洲	133
+ping guo juan	苹果卷	132
+ping gang	平岗	130
+ping you	平邮	125
+ping shi jie	评事街	115
+ping shan cun	平山村	113
+ping sao	平扫	111
+ping mu te xiao	屏幕特效	109
+ping hu zao dan	平湖糟蛋	108
+ping bian xian	屏边县	102
+ping guo su	苹果酥	98
+ping guo dan gao	苹果蛋糕	93
+ping hu men	平湖门	92
+ping xing yu liao ku	平行语料库	86
+ping jun fang wen shi jian	平均访问时间	83
+ping tai dui jie	平台对接	82
+ping lin	坪林	80
+ping ling	平陵	80
+ping deng bao hu tiao kuan	平等保护条款	76
+ping gu qu yi yuan	平谷区医院	73
+ping mian dian ji	平面点集	69
+ping guo yuan di tie	苹果园地铁	66
+ping an jie	平安街	65
+ping zheng	平政	65
+ping le cun	平乐村	63
+ping fen ka	评分卡	62
+ping xing guan lu	平型关路	62
+ping chuan yao	平喘药	60
+ping feng	屏峰	60
+ping guo zhi fu	苹果之父	58
+ping le yuan	平乐园	58
+ping deng he xie fa zhan	平等和谐发展	57
+ping di yi sheng lei	平地一声雷	56
+ping mian zui jin dian dui	平面最近点对	55
+ping shun lu	平顺路	55
+ping guo pi jiu	苹果啤酒	54
+ping hua ji liu	平滑肌瘤	52
+ping jun xiu fu shi jian	平均修复时间	52
+ping an qiao	平安桥	51
+ping guo ruan tang	苹果软糖	51
+ping guo yuan zhong xue	苹果园中学	50
+ping xia	屏下	50
+ping mian ying she	平面映射	49
+ping ke	鲆科	48
+ping jun qian fu qi	平均潜伏期	45
+ping kong nie zao	凭空捏造	45
+ping ming	平明	44
+ping bi jing	瓶鼻鲸	43
+ping guo yuan nan lu dong kou	苹果园南路东口	43
+ping cun	坪村	42
+ping shi bu shao xiang	平时不烧香	41
+ping tian	坪田	41
+ping gu xian	平谷县	40
+ping jun cun qu shi jian	平均存取时间	40
+ping mian wen jian xi tong	平面文件系统	37
+ping wei	平圩	36
+ping xi	屏西	36
+ping an ji tuan	平安集团	35
+ping zheng lu jie dao	平政路街道	33
+ping fu lu	平福路	32
+ping shan she qu	坪山社区	32
+ping kong yi zao	凭空臆造	31
+ping mian xing	平面性	31
+ping yang cun	平阳村	30
+ping ban xian shi qi	平板显示器	29
+ping lu xian	平鲁县	28
+ping an cha	平安茶	27
+ping yang	平洋	27
+ping hu qi che zhan	平湖汽车站	25
+ping guo dong	苹果冻	24
+ping guo yuan dong kou	苹果园东口	24
+ping heng yi wei	平衡易位	24
+ping yuan lin chang	平原林场	24
+ping ding	坪顶	23
+ping gan xi feng	平肝熄风	23
+ping hu cun	平湖村	23
+ping yao wan tuo ze	平遥碗脱则	23
+ping ban sao miao yi	平板扫描仪	22
+ping fan han shu yi lai	平凡函数依赖	22
+ping gu ban fa	评估办法	22
+ping deng hu hui	平等互惠	21
+ping guo yuan xiao qu	苹果园小区	21
+ping ding liang biao	评定量表	20
+ping ge zhuang	平各庄	20
+ping heng he long	平衡合拢	20
+ping heng yun dong	平衡运动	20
+ping mian di zhi kong jian	平面地址空间	20
+ping yang jie dao	平阳街道	20
+ping zhuang jin zhen gu	瓶装金针菇	20
+ping du xian	平度县	19
+ping gu bao gao fa	评估报告法	19
+ping li lu	平利路	19
+ping xin tao	平鑫涛	19
+ping fu tou xiang	平福头乡	18
+ping guo yuan xi	苹果园西	18
+ping nan lu	平南路	18
+ping xing kai fa zhi	平行开发制	18
+ping gu shi ji guang chang	平谷世纪广场	17
+ping she gong lu	平涉公路	17
+ping xi wang fu	平西王府	17
+ping xiang hua guo	萍乡花果	17
+ping shan gong yuan	屏山公园	16
+ping yuan jun	平原郡	16
+ping feng cun	平丰村	14
+ping feng shan	屏峰山	14
+ping guo ma ti ni	苹果马提尼	14
+ping keng	坪坑	14
+ping tan jie jie dao	平潭街街道	14
+ping heng gui bing pai xu	平衡归并排序	13
+ping hua ji rou liu	平滑肌肉瘤	13
+ping jun chuan yu bao ping an	凭君传语报平安	13
+ping xia	坪下	13
+ping yin li wan zi	平阴梨丸子	13
+ping pang mo shi	乒乓模式	12
+ping tang lu	平塘路	12
+ping yu	平峪	12
+ping gu qi che zhan	平谷汽车站	11
+ping guo dun yu	苹果炖鱼	11
+ping hu lu	平湖路	11
+ping xiang	平襄	11
+ping deng wei ci tiao kuan	平等位次条款	10
+ping heng yu liao ku	平衡语料库	10
+ping sha mang mang huang ru tian	平沙莽莽黄入天	10
+ping yi	平夷	10
+ping fang	平坊	9
+ping gu zhong yi yuan	平谷中医院	9
+ping guo yuan nan	苹果园南	9
+ping le yuan xiao qu	平乐园小区	9
+ping ming song ke chu shan gu	平明送客楚山孤	9
+ping shan dao	平山道	9
+ping deng hu li xie shang yi zhi	平等互利协商一致	8
+ping dou niu rou song	平都牛肉松	8
+ping fang lu	平房路	8
+ping hai gong yu	平海公寓	8
+ping le yao zu xiang	平乐瑶族乡	8
+ping shui zhen zheng fu	平水镇政府	8
+ping yang xian guo jia shui wu ju	平阳县国家税务局	8
+ping zhou	萍州	8
+ping ban zhen	平班镇	7
+ping ding bao	平定堡	7
+ping pang guo	乒乓馃	7
+ping ping niao niao shi san yu	娉娉袅袅十三余	7
+ping ping ze ze ping ping ze	平平仄仄平平仄	7
+ping shi	平氏	7
+ping xi wang fu lu kou nan	平西王府路口南	7
+ping xi xiang	屏西乡	7
+ping di quan cun	平地泉村	6
+ping ding shan xiao qu	平顶山小区	6
+ping jiang lu kou	平江路口	6
+ping jun li lv	平均利率	6
+ping shan xiao xue	平山小学	6
+ping shou wai ke yi yuan	平手外科医院	6
+ping chang xin shi dao	平常心是道	5
+ping fang bei zhan	平房北站	5
+ping gu biao zhun	评估标准	5
+ping guo yang rou	平锅羊肉	5
+ping hu xian	平湖县	5
+ping jia ti xi	评价体系	5
+ping jiang cun	平江村	5
+ping jing jian	平井坚	5
+ping jun hua xiao ying	平均化效应	5
+ping keng	平坑	5
+ping sha fa ting	平沙法庭	5
+ping xiao jiao nang	平消胶囊	5
+ping yang san cun	平阳三村	5
+ping bei mu	平贝母	4
+ping ding ying zhen	平定营镇	4
+ping jiang dao	平江道	4
+ping le lu	平乐路	4
+ping ling	坪岭	4
+ping ming xun bai yu	平明寻白羽	4
+ping qi tie lu	平齐铁路	4
+ping sheng bu yin jiu	平生不饮酒	4
+ping shui	坪水	4
+ping song xiang	平松乡	4
+ping tou xiang	坪头乡	4
+ping wo xiang	平窝乡	4
+ping xiang men jie dao	屏襄门街道	4
+ping yang mei su	平阳霉素	4
+ping zong die ying	萍踪叠影	4
+ping an chang	平安场	3
+ping an hu tong	平安胡同	3
+ping ge duan chou si hen lv	凭割断愁丝恨缕	3
+ping gou xiang	坪沟乡	3
+ping gu fang an	评估方案	3
+ping guo bo luo sheng jiang zhi	苹果菠萝生姜汁	3
+ping heng jue	平衡觉	3
+ping heng shi	平衡石	3
+ping le yuan bei	平乐园北	3
+ping li dian	平里店	3
+ping liang xian	平凉县	3
+ping quan	平券	3
+ping sheng feng yi jian shi you	平生风义兼师友	3
+ping xi cun	坪溪村	3
+ping xi wang fu xi	平西王府西	3
+ping xi xin cun	屏西新村	3
+ping yang	平羊	3
+ping zhuang xiang	坪庄乡	3
+ping an dong shui ku	平安洞水库	2
+ping an ju	平安居	2
+ping bu qing	平步青	2
+ping chun	平春	2
+ping dong lu	平东路	2
+ping fang dong kou	平房东口	2
+ping guo yuan xiao qu	苹果苑小区	2
+ping jia zhong xin	评价中心	2
+ping jing li yang	平井理央	2
+ping lin xiang	坪林乡	2
+ping ma xiang	平马乡	2
+ping mao xun hui lie quan	平毛巡回猎犬	2
+ping min bai xing tao gong dao	平民百姓讨公道	2
+ping ming fa xian yang	平明发咸阳	2
+ping ping ze ze ping	平平仄仄平	2
+ping ping ze ze ze ping ping	平平仄仄仄平平	2
+ping quan dao	平泉道	2
+ping shan hu meng gu zu xiang	平山湖蒙古族乡	2
+ping shen	凭神	2
+ping sheng du wang yuan	平生独往愿	2
+ping tian guang ming	平田广明	2
+ping xi fu dong kou	平西府东口	2
+ping xiang	坪巷	2
+ping xuan ti si liu	凭轩涕泗流	2
+ping yan xiang	平岩乡	2
+ping yang si	平阳寺	2
+ping ye cai hua chun	平野菜花春	2
+ping ze ping ping ze	平仄平平仄	2
+ping zhi jiao nang	平痔胶囊	2
+ping an cun si zu	平安村四组	1
+ping bu yan hu qiu suo	凭不厌乎求索	1
+ping cun yi zu dai zu xiang	平村彝族傣族乡	1
+ping ding xiang	坪定乡	1
+ping dong xiang	平洞乡	1
+ping feng sheng mai jiao nang	屏风生脉胶囊	1
+ping gang xiang	平岗乡	1
+ping gu jian ce chang	平谷检测场	1
+ping gu yue ge zhuang	平谷岳各庄	1
+ping guo bai lan di ka fei	苹果白兰地咖啡	1
+ping guo sha si guan tou	苹果沙司罐头	1
+ping guo su mi ji rou geng	苹果粟米鸡肉羹	1
+ping guo yuan dong	苹果园东	1
+ping he xiang	冯河乡	1
+ping hua mao mi shi quan	平滑毛觅拾犬	1
+ping ji li hen chong chong	凭寄离恨重重	1
+ping jiang xiao qu	平江小区	1
+ping jin dao	平津道	1
+ping le xiang	坪乐乡	1
+ping liang lu da lian lu	平凉路大连路	1
+ping lin xin yue ren gui hou	平林新月人归后	1
+ping lu shan di niu	平陆山地牛	1
+ping min xiang	平民乡	1
+ping ming fa lun tai	平明发轮台	1
+ping ming lv xiang sao hua kai	平明闾巷扫花开	1
+ping nan qiang zu xiang	平南羌族乡	1
+ping ping ze ze ping ping	平平仄仄平平	1
+ping pu xiang shui liu	平铺湘水流	1
+ping sha ji xie chang	平沙机械厂	1
+ping sha wan li jue ren yan	平沙万里绝人烟	1
+ping shan mu chang	屏山牧场	1
+ping sheng duo gan kai	平生多感慨	1
+ping sheng sai bei jiang nan	平生塞北江南	1
+ping sheng wen zi wei wu lei	平生文字为吾累	1
+ping shi qiao	平石桥	1
+ping ta	坪塔	1
+ping tai wei ke you si duo	平台为客忧思多	1
+ping ting shi wu sheng tian xian	娉婷十五胜天仙	1
+ping ting xiao yuan zhong	娉婷小苑中	1
+ping wu jin chu shi chun shan	平芜尽处是春山	1
+ping xi lu kou	屏西路口	1
+ping xiao pian	平消片	1
+ping yang qiao	平阳桥	1
+ping yao shu niu rou	平遥熟牛肉	1
+ping ye ling	平野绫	1
+ping ye ru qing xu	平野入青徐	1
+ping ying	坪营	1
+ping ying wei xiang yang hua dao	凭莺为向杨花道	1
+ping yuan ling xiang	平原绫香	1
+ping yuan tai shou yan zhen qing	平原太守颜真卿	1
+ping yuan tian luo	瓶圆田螺	1
+ping zhi	平值	1
+ping bi jing shu	瓶鼻鲸属	0
+ping de da kou fei ji	平德大口非鲫	0
+ping dong xu lie	屏东须鱲	0
+ping fen da e xie	平分大额蟹	0
+ping guo da juan ye e	苹果大卷叶蛾	0
+ping guo du e	苹果蠧蛾	0
+ping guo ying ye e	苹果鹰夜蛾	0
+ping heng nang jian zhui chong	平衡囊尖锥虫	0
+ping hua mao lie hu geng quan	平滑毛猎狐梗犬	0
+ping hua mao lie hu quan geng quan	平滑毛猎狐犭更犬	0
+ping hua si nang mei	平滑丝囊霉	0
+ping jia ju ya tian zhu diao	平颊巨牙天竺鲷	0
+ping jian ji yuan zhu	平肩吉园蛛	0
+ping lai bao luo	平瀨寶螺	0
+ping lai zhi wen luo	平瀨織紋螺	0
+ping li duan gang chong xiu	平利短肛虫修	0
+ping mei pi ye	苹美皮夜	0
+ping qu lin kua jian feng	瓶区鳞跨茧蜂	0
+ping sha ke chong	瓶砂壳虫	0
+ping tou da qiao xing chong	平头大锹形虫	0
+ping tou ye zhuang xia hu yu	平头叶状鰕虎鱼	0
+ping tu chuan luan sao	平突船卵溞	0
+ping wen kuang deng yu	平吻眶灯鱼	0
+ping xing dun ban zhu	平行盾板蛛	0
+ping xing juan ye jia	平行卷叶甲	0
+ping xing xi zhu	瓶形隙蛛	0
+ping xing zhang xiao yao zhu	平行长逍遥蛛	0
+ping xing zhang xie zhu	平行长蟹蛛	0
+ping xiong chao mu	平胸超目	0
+ping xiong dun fu fei	平胸钝腹鲱	0
+ping yao wen	萍摇蚊	0
+ping yong bao luo	平庸宝螺	0
+ping yong zhui ji ying	平庸赘寄蝇	0
+ping yuan nan hai xi xie	平远南海溪蟹	0
+ping zhan mo li nuo si xian chong	平展摩利诺斯线虫	0
+ping zhou yuan ying kou qiu	平舟原缨口鳅	0

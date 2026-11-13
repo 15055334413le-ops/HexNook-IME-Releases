@@ -1,0 +1,76 @@
+ruo yin yong	弱引用	10018
+ruo lei xing	弱类型	3441
+ruo yin ruo xian	若隐若现	3288
+ruo wu qi shi	若无其事	2801
+ruo you suo si	若有所思	1335
+ruo rou qiang shi	弱肉强食	1037
+ruo bu jin feng	弱不禁风	874
+ruo qiang	若羌	782
+ruo ji ruo li	若即若离	706
+ruo er gai	若尔盖	531
+ruo you ruo wu	若有若无	412
+ruo ye	若叶	392
+ruo peng xiao xian	若烹小鲜	149
+ruo you suo wu	若有所悟	105
+ruo suan	弱酸	103
+ruo yao ren bu zhi	若要人不知	103
+ruo jian	弱碱	92
+ruo you suo shi	若有所失	92
+ruo yi zhi xing mo xing	弱一致性模型	84
+ruo ming ruo an	若明若暗	44
+ruo lian tong tu	弱连通图	37
+ruo shi xun lian	弱视训练	35
+ruo mi yao	弱密钥	34
+ruo qiang zhen	若羌镇	25
+ruo wu xian shi gua xin tou	若无闲事挂心头	22
+ruo shi qun ti fa lv yuan zhu	弱势群体法律援助	20
+ruo ke ya xiang	若克雅乡	19
+ruo dian jie zhi	弱电解质	10
+ruo ge shu sheng wan hu hou	若个书生万户侯	7
+ruo wei hua de shen qian yi	若为化得身千亿	7
+ruo dai shang lin hua shi jin	若待上林花似锦	6
+ruo bai ju zhi guo xi	若白驹之过隙	5
+ruo shi zhen jin bu du jin	若是真金不镀金	5
+ruo zhe dao zhi yong	弱者道之用	5
+ruo fei qun yu shan tou jian	若非群玉山头见	4
+ruo ge shi zhen mei	若个是真梅	4
+ruo yan qin shang you qin sheng	若言琴上有琴声	3
+ruo yan sheng zai zhi tou shang	若言声在指头上	3
+ruo you ren xi shan zhi a	若有人兮山之阿	3
+ruo dao jiang nan gan shang chun	若到江南赶上春	2
+ruo fu ping sheng zhi	若负平生志	2
+ruo ye zhi ma tang xi juan	箬叶芝麻糖细卷	2
+ruo dan bai yin	弱蛋白银	1
+ruo dao yue xi feng yue nv	若到越溪逢越女	1
+ruo fei yue xia ji hua qian	若非月下即花前	1
+ruo fu ri chu er lin fei kai	若夫日出而林霏开	1
+ruo fu yin yu fei fei	若夫霪雨霏霏	1
+ruo gong wu wang dou bai cao	若共吴王斗百草	1
+ruo gui qian xia	若槻千夏	1
+ruo huo zhi shi ran	若火之始然	1
+ruo jiang tian di zhi shi	若降天地之施	1
+ruo jiu niu wang yi mao	若九牛亡一毛	1
+ruo kui huo zhi qing ye	若葵藿之倾叶	1
+ruo nai fu mei ren	若乃夫没人	1
+ruo qing yun zhi bi yue	若轻云之蔽月	1
+ruo ru qian wei shou	若入前为寿	1
+ruo shi shan zhong rong yi dao	若似剡中容易到	1
+ruo shi yue lun zhong jiao jie	若似月轮终皎洁	1
+ruo shu jie qie wei suo lu	若属皆且为所虏	1
+ruo si sheng wei tu	若死生为徒	1
+ruo wu qing feng chui	若无清风吹	1
+ruo wu zhi zu xin	若无知足心	1
+ruo wu zui er jiu si di	若无罪而就死地	1
+ruo xin zhuang zhou shang fei wo	若信庄周尚非我	1
+ruo ye xi gui xing	若耶溪归兴	1
+ruo ye xi shang ta mei tai	若耶溪上踏莓苔	1
+ruo you ren zhi chun qu chu	若有人知春去处	1
+ruo you zuo jian fan ke	若有作奸犯科	1
+ruo zang wu zhong zhi zhi	若臧武仲之知	1
+ruo zi xi wo ce	弱子戏我侧	1
+ruo ci ji hua yi yu	弱刺棘花鮨鱼	0
+ruo jiang zhi kong xia hu yu	若江栉孔鰕虎鱼	0
+ruo lu zi wo niu	若路滋蜗牛	0
+ruo shui xiao shi xie	若水小石蟹	0
+ruo xiao hou fu ying	弱小后浮萤	0
+ruo xiao ling ying	弱小铃萤	0

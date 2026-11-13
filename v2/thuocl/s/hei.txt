@@ -1,0 +1,453 @@
+hei dou	黑豆	34082
+hei long jiang sheng	黑龙江省	26118
+hei ming dan	黑名单	25159
+hei sen lin	黑森林	21636
+hei mi	黑米	14634
+hei song	黑松	10527
+hei hu jiao	黑胡椒	8907
+hei shou	黑手	8695
+hei cha	黑茶	8201
+hei ma	黑马	7738
+hei jiao	黑椒	4343
+hei pi jiu	黑啤酒	3499
+hei qian	黑钱	2989
+hei he	黑盒	2563
+hei he ce shi	黑盒测试	2068
+hei jin	黑金	1854
+hei zhi ma	黑芝麻	1552
+hei ma cheng xu yuan	黑马程序员	1305
+hei sen lin dan gao	黑森林蛋糕	1273
+hei ke gong ji	黑客攻击	1144
+hei tou	黑头	1139
+hei ke ji	黑科技	1086
+hei mi zhou	黑米粥	1054
+hei gua zi	黑瓜子	952
+hei long jiang lu	黑龙江路	877
+hei bao	黑豹	876
+hei deng xia huo	黑灯瞎火	805
+hei he shi	黑河市	789
+hei piao	黑漂	765
+hei ge er	黑格尔	688
+hei shi jia ge	黑市价格	681
+hei se su	黑色素	667
+hei xi niu	黑犀牛	623
+hei long tan	黑龙潭	537
+hei bai fen ming	黑白分明	521
+hei long jiang sheng jia mu si shi	黑龙江省佳木斯市	512
+hei ke ji shu	黑客技术	497
+hei ying tao	黑樱桃	494
+hei ka	黑卡	485
+hei jiao niu liu	黑椒牛柳	484
+hei ping guo	黑苹果	440
+hei mao	黑帽	424
+hei song sha shi	黑松沙士	416
+hei se su liu	黑色素瘤	334
+hei bai mo	黑白魔	279
+hei bai qi	黑白棋	251
+hei ma lun tan	黑马论坛	250
+hei hu jiao sui	黑胡椒碎	244
+hei ke gong ju	黑客工具	230
+hei shi pu	黑石铺	230
+hei mai	黑麦	225
+hei jiao niu ba	黑椒牛扒	205
+hei xiong da lian	黑胸大蠊	202
+hei si bing	黑死病	177
+hei chang	黑肠	174
+hei ze ming	黑泽明	163
+hei jiao niu zai gu	黑椒牛仔骨	160
+hei se su xi bao	黑色素细胞	158
+hei long tan	黑龙滩	144
+hei long jiang jie	黑龙江街	142
+hei zhuang hu	黑庄户	139
+hei ke ma la song	黑客马拉松	130
+hei mi xi fan	黑米稀饭	127
+hei zhuang hu xiang	黑庄户乡	124
+hei ke gong fang	黑客攻防	117
+hei shi pu da qiao	黑石铺大桥	108
+hei shi tou	黑石头	106
+hei ke fang xian	黑客防线	99
+hei long jiang sheng qi qi ha er	黑龙江省齐齐哈尔	96
+hei ma yi	黑蚂蚁	94
+hei yun ya cheng cheng yu cui	黑云压城城欲摧	94
+hei hu jiao niu liu	黑胡椒牛柳	90
+hei re bing	黑热病	86
+hei shan tou	黑山头	81
+hei long jiang shuang ya shan	黑龙江双鸭山	74
+hei shui lu	黑水路	72
+hei ke bian cheng	黑客编程	69
+hei xiang ce shi	黑箱测试	65
+hei shan lu	黑山路	64
+hei shi du	黑石渡	61
+hei long jiang sheng qing gang xian	黑龙江省青冈县	58
+hei qiao	黑桥	58
+hei chuan	黑川	57
+hei ma xun lian ying	黑马训练营	54
+hei mu	黑木	51
+hei zhi ma hu tong	黑芝麻胡同	50
+hei wei ye chan	黑尾叶蝉	49
+hei su xi bao	黑素细胞	47
+hei mao xuan hou	黑帽悬猴	45
+hei meng	黑蒙	45
+hei niu cheng dao	黑牛城道	45
+hei he lie huan xiong quan	黑褐猎浣熊犬	42
+hei shi jing ji	黑市经济	42
+hei ke ji di	黑客基地	40
+hei dou hong	黑豆红	38
+hei ke shou ce	黑客手册	37
+hei se su chen zhuo	黑色素沉着	36
+hei ke wang zhan	黑客网站	35
+hei lao hu	黑老虎	35
+hei mu er hong zao yin	黑木耳红枣饮	33
+hei nan	黑楠	33
+hei bai hun xiao	黑白混淆	32
+hei se su zhi	黑色素痣	32
+hei shi jiao	黑石礁	28
+hei shi tou cun	黑石头村	27
+hei tou fen ci	黑头粉刺	27
+hei shan hu	黑山扈	26
+hei dou yu	黑豆峪	25
+hei fa bu zhi qin xue zao	黑发不知勤学早	25
+hei mu tong	黑木瞳	25
+hei long jiang sheng fu yu xian	黑龙江省富裕县	23
+hei ji pi bing	黑棘皮病	21
+hei sha wan	黑沙湾	21
+hei hu jiao jiang zhi	黑胡椒酱汁	20
+hei dai gou	黑岱沟	18
+hei hou shi	黑喉石	18
+hei ban xi tong	黑板系统	17
+hei ma cheng xu	黑马程序	15
+hei mei gui ka fei	黑玫瑰咖啡	15
+hei mei wei ying	黑眉苇莺	15
+hei sui bing	黑穗病	15
+hei tan xiang	黑潭乡	14
+hei tao huang hou	黑桃皇后	14
+hei xian ji shu	黑线姬鼠	14
+hei xiang bin	黑香槟	13
+hei ban xie tiao	黑板协调	12
+hei shi tou gou	黑石头沟	12
+hei wan	黑湾	12
+hei dou li yu tang	黑豆鲤鱼汤	11
+hei hou qian niao	黑喉潜鸟	11
+hei nuo mi ba bao fan	黑糯米八宝饭	11
+hei zan xiang	黑簪巷	11
+hei zui zi	黑嘴子	11
+hei tu he xiang	黑土河乡	10
+hei wei niu ling	黑尾牛羚	10
+hei xiang zi	黑巷子	10
+hei hou shi bi	黑喉石鵖	9
+hei jun mo gu tang	黑菌蘑菇汤	9
+hei ru hai shen	黑乳海参	9
+hei shou gua	黑守瓜	8
+hei cheng zhen	黑城镇	7
+hei li ji	黑黎鸡	7
+hei ma su	黑麻酥	7
+hei yu hu	黑鱼湖	7
+hei bai bing ka fei	黑白冰咖啡	6
+hei jun yu	黑鮶鱼	6
+hei qi	黑崎	6
+hei su ti	黑素体	6
+hei zhen zhu tang yuan	黑珍珠汤圆	6
+hei dou men zhu ti	黑豆焖猪蹄	5
+hei jing guo	黑京果	5
+hei long gu fen	黑龙股份	5
+hei long guan	黑龙关	5
+hei se xing qi wu	黑色星期五	5
+hei shou gao xuan ba zhu bian	黑手高悬霸主鞭	5
+hei tian pu xiang	黑田铺乡	5
+hei yun fan mo wei zhe shan	黑云翻墨未遮山	5
+hei zhi er bai zhang	黑质而白章	5
+hei dou ye cai	黑豆叶菜	4
+hei jia	黑甲	4
+hei ma xiang	黑马乡	4
+hei shan zui xiang	黑山嘴乡	4
+hei yu pao	黑鱼泡	4
+hei zhai	黑寨	4
+hei bai cai	黑白菜	3
+hei cheng zi zhen	黑城子镇	3
+hei he yuan dun jie	黑褐圆盾蚧	3
+hei mei ni zhuo mu niao	黑眉拟啄木鸟	3
+hei pi bing	黑皮病	3
+hei qiao nan zhan	黑桥南站	3
+hei qiao shi chang	黑桥市场	3
+hei ri guang deng	黑日光灯	3
+hei se mo gui yu	黑色魔鬼鱼	3
+hei shi tou lu nan kou	黑石头路南口	3
+hei shui yan	黑水堰	3
+hei yao chang she qu	黑窑厂社区	3
+hei bai fen ming zi shu ting	黑白分明子数停	2
+hei bao xiang	黑堡乡	2
+hei cheng zi shi fan qu	黑城子示范区	2
+hei dou liu you ruan gao	黑豆馏油软膏	2
+hei fen jun	黑粉菌	2
+hei jia ai qing niao	黑颊爱情鸟	2
+hei jia lun hong	黑加仑红	2
+hei jing pen du yan jing she	黑颈喷毒眼镜蛇	2
+hei mu ming sha	黑木明纱	2
+hei niu ying zi xiang	黑牛营子乡	2
+hei qi yi hu	黑崎一护	2
+hei tan shui shen hei ru mo	黑潭水深黑如墨	2
+hei ying tao shao ya pu	黑樱桃烧鸭脯	2
+hei dan	黑疸	1
+hei ding wa zui ye ying	黑顶蛙嘴夜鹰	1
+hei ga xiang	黑嘎乡	1
+hei ge ta cun	黑圪塔村	1
+hei guang jian bu xing chong	黑广肩步行虫	1
+hei he zi	黑盒子	1
+hei hou mao jiao yan	黑喉毛脚燕	1
+hei hou ya que	黑喉鸦雀	1
+hei hu hu tong	黑虎胡同	1
+hei hu jiao liu rou	黑胡椒溜肉	1
+hei ma nao bao luo	黑玛瑙宝螺	1
+hei mai jin sun mian	黑麦金笋面	1
+hei mu dan	黑牡丹	1
+hei niao re	黑尿热	1
+hei qiao gou	黑桥沟	1
+hei se nuo wei lie mi quan	黑色挪威猎麋犬	1
+hei sha bai lang xiang tun tu	黑沙白浪相吞屠	1
+hei shan ke xiang	黑山科乡	1
+hei shi ba	黑石坝	1
+hei shi du jie dao	黑石渡街道	1
+hei shi tou zhen	黑石头镇	1
+hei tian guan bing wei	黑田官兵卫	1
+hei tian ru shui	黑田如水	1
+hei tian zhang zheng	黑田长政	1
+hei tiao mu xiao du	黑条木小蠹	1
+hei xing di diao	黑星笛鲷	1
+hei yu mi yin liao	黑玉米饮料	1
+hei zhong cao zi	黑种草子	1
+hei ban ni lu tian niu	黑斑拟鹿天牛	0
+hei ban wa shuang gao chong	黑斑蛙双睾虫	0
+hei ban xiang bi fa luo	黑斑象鼻法螺	0
+hei ban yue die yu	黑斑月蝶鱼	0
+hei bei cha wei he zhen	黑背叉尾鹤鱵	0
+hei bei pan que diao	黑背盤雀鲷	0
+hei bei xian dun piao chong	黑背显盾瓢虫	0
+hei bi cha biao shi shou yu	黑臂叉鳔石首鱼	0
+hei bian ni zhou chun sha	黑边拟皱唇鲨	0
+hei cao xi zhong luo	黑草席钟螺	0
+hei chi fu ai li yu	黑翅副爱丽鱼	0
+hei chi jia ding shi ying wu	黑翅贾丁氏鹦鹉	0
+hei chi mu dan ying wu	黑翅牡丹鹦鹉	0
+hei chi ni zhou xi huang	黑翅拟皱膝蝗	0
+hei chi weng ju	黑翅鹟鵙	0
+hei chi zhou xi huang	黑翅皱膝蝗	0
+hei cu wei xie	黑粗尾蝎	0
+hei dai er wei zhou e	黑带二尾舟蛾	0
+hei dai xiao lu hei dai shi	黑带小鲈黑带似	0
+hei dian ci wei hua tian niu	黑点刺尾花天牛	0
+hei dian dan chun jiang	黑点单唇鳉	0
+hei dian dan huang die	黑点淡黄蝶	0
+hei dian dao diao	黑点倒吊	0
+hei dian dou niang	黑点豆娘	0
+hei dian fu fei li	黑点副绯鲤	0
+hei dian fu gui	黑点副鱥	0
+hei dian fu ju yi	黑点副锯鮨	0
+hei dian gou mu yu	黑点狗母鱼	0
+hei dian ji lin yu	黑点棘鳞鱼	0
+hei ding zhu ba weng	黑顶侏霸鹟	0
+hei du hei mo jing	黑肚黑魔鲸	0
+hei duan bai xiao hui die	黑端白小灰蝶	0
+hei duan rong e	黑端榕蛾	0
+hei dun cu gu xiao ye jia	黑盾粗股肖叶甲	0
+hei e di ba weng	黑额地霸鹟	0
+hei e kui ying jin hua chong	黑额盔萤金花虫	0
+hei fang tu mao piao chong	黑方突毛瓢虫	0
+hei feng pen bu jia	黑缝盆步甲	0
+hei fu jing bu jia	黑腹胫步甲	0
+hei fu wei ying	黑腹胃蝇	0
+hei fu zhi mai shu mo chan	黑腹直脉曙沫蝉	0
+hei guan hong chi ju	黑冠红翅鵙	0
+hei guan huang que wu shu	黑冠黄雀鹀属	0
+hei guo gou qi zhun mu shi	黑果枸杞准木虱	0
+hei hai huang ou huang	黑海鳇欧鳇	0
+hei hai qiang lu	黑海腔鲈	0
+hei he dai na jiao an kang	黑褐戴娜角鮟鱇	0
+hei he fang tou chang	黑褐方头鲳	0
+hei he fang tou jiao an kang	黑褐方头角鮟鱇	0
+hei he fu que diao	黑褐副雀鲷	0
+hei he ju fu yi	黑褐举腹蚁	0
+hei he ran xu ye e	黑褐髯须夜蛾	0
+hei he se huan xiong lie quan	黑褐色浣熊猎犬	0
+hei he shi ye ye ming	黑褐蚀叶野螟	0
+hei he shu li mang chun	黑褐树丽盲蝽	0
+hei he xin jian que diao	黑褐新箭雀鲷	0
+hei he xin kang xia	黑褐新糠虾	0
+hei he xin ke chi que diao	黑褐新刻齿雀鲷	0
+hei he ying lian	黑褐硬蠊	0
+hei hong xiao chou	黑红小丑	0
+hei hong xiao chou yu	黑红小丑鱼	0
+hei hong zu hou yuan xiao ye jia	黑红足厚缘肖叶甲	0
+hei hou feng ye ying	黑喉缝叶莺	0
+hei hou hui feng niao	黑喉辉蜂鸟	0
+hei hou li mang chun	黑后丽盲蝽	0
+hei hou lu lin ying	黑喉绿林莺	0
+hei hou mang guo feng niao	黑喉芒果蜂鸟	0
+hei hou mei zhou yao juan	黑喉美洲咬鹃	0
+hei hou mo wu	黑喉漠鹀	0
+hei hou pi ti	黑喉鸊鷉	0
+hei hou que wu	黑喉雀鹀	0
+hei hou que wu shu	黑喉雀鹀属	0
+hei hou rou chui mai ji	黑喉肉垂麦鸡	0
+hei hou wei jiao liao	黑喉苇鹪鹩	0
+hei hou xiao	黑喉小	0
+hei hou xiao guan dong	黑喉啸冠鸫	0
+hei hou xiao pi ti	黑喉小鸊鷉	0
+hei hou ya ba weng	黑喉哑霸鹟	0
+hei hou ye e	黑后夜蛾	0
+hei hou yi ju	黑喉蚁鵙	0
+hei hou zhen wei que	黑喉针尾雀	0
+hei hou zui ba weng	黑厚嘴霸鹟	0
+hei hu jiao gu mi luo	黑胡椒谷米螺	0
+hei hui ji le niao	黑辉极乐鸟	0
+hei jia fei ji yin jin	黑颊非鲫引进	0
+hei jia huang fu mei hua que	黑颊黄腹梅花雀	0
+hei jia suo you	黑颊簑鮋	0
+hei jian du xi mi niao	黑监督吸蜜鸟	0
+hei jian fu shu shu	黑肩负鼠属	0
+hei jian qian gou ye feng	黑肩浅沟叶蜂	0
+hei jiao fang fen die	黑角方粉蝶	0
+hei jiao hei shou gua	黑脚黑守瓜	0
+hei jiao jin hua tian niu	黑角金花天牛	0
+hei jiao juan fen die	黑角绢粉蝶	0
+hei jiao mi ying tian niu	黑角密缨天牛	0
+hei jiao ye xia hu	黑角叶鰕虎	0
+hei jiao zhang xu ji ying	黑角长须寄蝇	0
+hei jiao zhi yuan tiao jia	黑角直缘跳甲	0
+hei jing cao xi shuai	黑胫草蟋蟀	0
+hei jing fu ni chong	黑胫负泥虫	0
+hei jing kuan hua tian niu	黑胫宽花天牛	0
+hei jing mi yuan chun	黑胫侎缘蝽	0
+hei kou yan zi feng huang luo	黑口燕子凤凰螺	0
+hei long ji duan xi xiang	黑隆脊短喜象	0
+hei long jiang zhong du fu yu	黑龙江中杜父鱼	0
+hei lu ji jing shu	黑露脊鲸属	0
+hei lu po xi zhong	黑颅婆蟋螽	0
+hei ma he ao ding meng	黑马河凹顶蜢	0
+hei ma nao bao luo	黑瑪瑙寶螺	0
+hei mai hua xiao juan e	黑脉花小卷蛾	0
+hei mai ye yan die	黑脉椰眼蝶	0
+hei mao bai mei hou	黑毛白眉猴	0
+hei mao ying ge	黑帽鹦哥	0
+hei mao zhui wei ying wu	黑帽锥尾鹦鹉	0
+hei mao zhui wei ying wu	黑帽錐尾鹦鹉	0
+hei mei gui qian shou luo	黑玫瑰千手螺	0
+hei mei hui feng niao	黑眉辉蜂鸟	0
+hei mei tian niu	黑眉天牛	0
+hei mei zhang wei shan que	黑眉长尾山雀	0
+hei men jiao yi chun	黑门娇异蝽	0
+hei nu yu luo	黑奴芋螺	0
+hei pu tao yan tie niu ge	黑葡萄眼铁牛鸽	0
+hei qi niu mu diao	黑鳍牛目鲷	0
+hei qi xin dong yang jin lin yu	黑鳍新东洋金鳞鱼	0
+hei qi yuan mei xia hu yu	黑鳍缘美鰕虎鱼	0
+hei qi yuan ying pi xia hu	黑鳍缘硬皮鰕虎	0
+hei qian yan ye ling	黑前眼野鲮	0
+hei qiang duan wen shi zi yu	黑腔短吻狮子鱼	0
+hei qiao chi xiong xiao ye jia	黑鞘齿胸肖叶甲	0
+hei qiao hou yuan ye jia	黑鞘厚缘叶甲	0
+hei se ying xin xing chong	黑色缨心星虫	0
+hei shou leng chun tiao qiu	黑首棱唇条鳅	0
+hei ti hai wan wu qi yao	黑体海湾无鳍鳐	0
+hei tian lu	黑黇鹿	0
+hei tiao yan chi e	黑条眼尺蛾	0
+hei tou lin ju weng	黑头林鵙鹟	0
+hei tou qian jiao dan ji tun	黑头前角单棘鲀	0
+hei tou qian jiao tun yu	黑头前角鲀鱼	0
+hei tou si chi jian feng	黑头四齿茧蜂	0
+hei tou yi nv xi mi ying wu	黑头乙女吸蜜鹦鹉	0
+hei tu jian hua tian niu	黑突肩花天牛	0
+hei tui bai ban chi que	黑腿白斑翅雀	0
+hei wei jian	黑苇鳽	0
+hei wei jin fen ying	黑尾金粉蝇	0
+hei wei jin hong ju	黑尾近红鮈	0
+hei wei kuo jiao dai qu	黑尾阔脚袋鼩	0
+hei wei mei hua que	黑尾梅花雀	0
+hei wei piao ni bu xing chong	黑伪瓢拟步行虫	0
+hei wei tu wen nuo man	黑尾突吻糯鳗	0
+hei wei xiao sha ding yu	黑尾小沙丁鱼	0
+hei wei xiao weng	黑尾啸鹟	0
+hei wei ye chan ao feng	黑尾叶蝉螯蜂	0
+hei wei ye chan bing chi xiao feng	黑尾叶蝉柄翅小蜂	0
+hei wei ye chan tou ying	黑尾叶蝉头蝇	0
+hei wei ye chan ying xiao feng	黑尾叶蝉缨小蜂	0
+hei wei ye wei zhu	黑尾曳尾蛛	0
+hei wei ying hua tian niu	黑尾萤花天牛	0
+hei wei ying wei que	黑尾硬尾雀	0
+hei wei yuan hua ying	黑尾缘花蝇	0
+hei wei yuan que diao	黑尾圆雀鲷	0
+hei wei zhai ni yu	黑尾宅泥鱼	0
+hei wei zhang bian bu xing chong	黑尾长扁步行虫	0
+hei wei zhen	黑尾鱵	0
+hei wen ci ji tian niu	黑纹刺脊天牛	0
+hei wen jia ci yu	黑纹颊刺鱼	0
+hei wen kuan chi que diao	黑吻宽齿雀鲷	0
+hei wen mei zhou e	黑纹玫舟蛾	0
+hei wen shi zhi xia	黑纹匙指虾	0
+hei wen tou chi hua chun	黑纹透翅花蝽	0
+hei wen zhang jiao xiang bi chong	黑纹长角象鼻虫	0
+hei wen zhui chi hou pan yu	黑纹锥齿喉盤鱼	0
+hei xi ji ying	黑膝棘蝇	0
+hei xi jian zhong	黑膝剑螽	0
+hei xi quan zhong ying	黑膝泉种蝇	0
+hei xi shou fen ying	黑膝瘦粉蝇	0
+hei xi yi shi gang zhong	黑膝异饰肛螽	0
+hei xi yi zhao huang	黑膝异爪蝗	0
+hei xi yu pian yin chi chong	黑膝愈片隐翅虫	0
+hei xiao ju hua tian niu	黑肖锯花天牛	0
+hei xie jiao chan	黑楔角蝉	0
+hei xie xian ce zhe wa	黑斜线侧褶蛙	0
+hei xie zhuo hua niao	黑胁啄花鸟	0
+hei xin chi mei jin ban e	黑心赤眉锦斑蛾	0
+hei xin feng huang luo	黑心凤凰螺	0
+hei xin ke chi que diao	黑新刻齿雀鲷	0
+hei xing nong die	黑星挵蝶	0
+hei xiong ba weng	黑胸霸鹟	0
+hei xiong ban ye chan	黑胸斑叶蝉	0
+hei xiong chong sen ying	黑胸虫森莺	0
+hei xiong guan hai long	黑胸冠海龙	0
+hei xiong piao ying ye jia	黑胸瓢萤叶甲	0
+hei xiong zhang bing jian feng	黑胸长柄茧蜂	0
+hei xu mu fu	黑须墓蝠	0
+hei yan lu ban bao luo	黑眼鹿斑宝螺	0
+hei yan yuan wen gui	黑眼圆吻鱥	0
+hei ye guang sai que diao	黑腋光鳃雀鲷	0
+hei ye guang sai yu	黑腋光鳃鱼	0
+hei yin ye jian yan	黑印叶箭蜒	0
+hei ying ge yu	黑鹦哥鱼	0
+hei yuan bai zao hui die	黑缘白枣灰蝶	0
+hei yuan cheng fen die	黑缘橙粉蝶	0
+hei yuan ci sha	黑缘刺鲨	0
+hei yuan cu jiao xiao ye jia	黑缘粗角肖叶甲	0
+hei yuan guang piao chong	黑缘光瓢虫	0
+hei yuan hong shan ye e	黑缘红衫夜蛾	0
+hei yuan huang chun yu	黑缘黄唇鱼	0
+hei yuan huang xiao hui die	黑缘黄小灰蝶	0
+hei yuan jiao chan	黑圆角蝉	0
+hei yuan jiao xiong xiao ye jia	黑缘角胸肖叶甲	0
+hei yuan jiu ci yi	黑缘九刺鮨	0
+hei yuan jiu ji lu	黑缘九棘鲈	0
+hei yuan man xia hu yu	黑缘鳗鰕虎鱼	0
+hei yuan mei wei	黑缘美尾	0
+hei yuan mu li	黑缘牡蛎	0
+hei yuan piao chong	黑缘瓢虫	0
+hei yuan piao yan xia hu yu	黑缘瓢眼鰕虎鱼	0
+hei yuan suo xue	黑缘梭鱈	0
+hei yuan tou chi lu ban e	黑缘透翅鹿斑蛾	0
+hei yuan tu wen xue	黑缘突吻鱈	0
+hei yuan xiao juan die	黑缘小绢蝶	0
+hei yuan zhi xian zhi li	黑缘直线脂鲤	0
+hei yuan zhou e	黑缘舟蛾	0
+hei zhang jing juan ye xiang bi chong	黑长颈卷叶象鼻虫	0
+hei zhao mo xue	黑沼膜鳕	0
+hei zhen bo wen e	黑珍波纹蛾	0
+hei zhi huang du e	黑栉黄毒蛾	0
+hei zhu ru zhu	黑侏儒蛛	0
+hei zhuan quan ying	黑转泉蝇	0
+hei zi hei hong qian	黑紫黑红钳	0
+hei zong ban zhuo mu niao	黑棕斑啄木鸟	0
+hei zu dan mai sui feng	黑足淡脉隧蜂	0
+hei zu fen dun xi feng	黑足分盾细蜂	0
+hei zu gou jing tiao jia	黑足沟胫跳甲	0
+hei zu hou yuan xiao ye jia	黑足厚缘肖叶甲	0
+hei zu wei huang ban feng	黑足伟黄斑蜂	0
+hei zui ju ba weng	黑嘴鵙霸鹟	0

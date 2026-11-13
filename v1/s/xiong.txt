@@ -1,0 +1,761 @@
+xiong mao	熊猫	547034
+xiong di	兄弟	500328
+xiong hou	雄厚	191875
+xiong bu	胸部	167690
+xiong qian	胸前	105530
+xiong kou	胸口	103700
+xiong shou	凶手	72030
+xiong huai	胸怀	69755
+xiong nu	匈奴	61695
+xiong wei	雄伟	56055
+xiong di men	兄弟们	53895
+xiong di jie mei	兄弟姐妹	49810
+xiong tang	胸膛	49260
+xiong ya li	匈牙利	48695
+xiong mei	兄妹	47470
+xiong yong	汹涌	43305
+xiong meng	凶猛	40955
+xiong wei	胸围	39570
+xiong sha	凶杀	38720
+xiong zhao	胸罩	34160
+xiong men	胸闷	33215
+xiong pu	胸脯	32625
+xiong zhang	兄长	32480
+xiong zhong	胸中	32075
+xiong xiong	熊熊	30460
+xiong xing	雄性	29510
+xiong jin	胸襟	28485
+xiong hen	凶狠	28330
+xiong qiang	胸腔	25145
+xiong ying	雄鹰	24275
+xiong xin	雄心	23440
+xiong can	凶残	22365
+xiong feng	雄风	22270
+xiong xian	凶险	21645
+xiong zhuang	雄壮	21630
+xiong e	凶恶	19060
+xiong di lia	兄弟俩	17760
+xiong you cheng zhu	胸有成竹	17685
+xiong shi	熊市	17540
+xiong xin bo bo	雄心勃勃	17200
+xiong zhen	胸针	17135
+xiong shi	雄狮	16590
+xiong zhang	熊掌	15635
+xiong qi	凶器	14910
+xiong han	凶悍	13890
+xiong gu	胸骨	13685
+xiong ji su	雄激素	12365
+xiong fu	胸腹	12350
+xiong xin zhuang zhi	雄心壮志	12340
+xiong tai	兄台	12040
+xiong tong	胸痛	12010
+xiong de	雄的	11410
+xiong ji	胸肌	11215
+xiong de	熊的	11055
+xiong ju	雄踞	10905
+xiong chang	熊厂	9999
+xiong hun	凶魂	9999
+xiong ke	胸科	9999
+xiong man	凶蛮	9999
+xiong qi	雄奇	9999
+xiong si	凶死	9999
+xiong xun	凶讯	9999
+xiong zhong wu shu	胸中无数	9999
+xiong zi	雄姿	9595
+xiong lu	雄鹿	9540
+xiong bian	雄辩	9325
+xiong jing	胸径	9285
+xiong xian	胸腺	9075
+xiong wei zhuang guan	雄伟壮观	9030
+xiong guan	雄关	8870
+xiong yong peng pai	汹涌澎湃	8390
+xiong ji	雄鸡	8060
+xiong yi	胸衣	7785
+xiong bao	熊抱	7777
+xiong ka	胸卡	7655
+xiong di lian	兄弟连	7610
+xiong hua	胸花	7570
+xiong xing ji su	雄性激素	7570
+xiong ba	雄霸	7465
+xiong duo ji shao	凶多吉少	7235
+xiong shen e sha	凶神恶煞	7145
+xiong xiong ran shao	熊熊燃烧	6915
+xiong sha an	凶杀案	6805
+xiong kuo	胸廓	6730
+xiong mo	胸模	6666
+xiong rui	雄蕊	6660
+xiong pian	胸片	6525
+xiong di yuan xiao	兄弟院校	6430
+xiong jian	雄健	6345
+xiong hou shi li	雄厚实力	6240
+xiong zhang	胸章	6205
+xiong huang	雄黄	6060
+xiong wai ke	胸外科	6045
+xiong qi	雄起	5835
+xiong guang	凶光	5675
+xiong jia	胸甲	5590
+xiong hun	雄浑	5555
+xiong lian	熊脸	5555
+xiong di er ren	兄弟二人	5535
+xiong zhui	胸椎	5515
+xiong pai	胸牌	5435
+xiong xian sheng	熊先生	5420
+xiong ju	雄居	5125
+xiong bi	胸壁	5015
+xiong de	凶的	4830
+xiong di hui	兄弟会	4830
+xiong de	胸的	4785
+xiong cai da lve	雄才大略	4725
+xiong bing qi	熊丙奇	4723
+xiong tang shang	胸膛上	4485
+xiong xing	胸型	4444
+xiong shi	雄师	4420
+xiong dan	熊胆	4315
+xiong nu ren	匈奴人	4245
+xiong mo yan	胸膜炎	4185
+xiong bao	凶暴	4145
+xiong ba ba	凶巴巴	4120
+xiong mei lia	兄妹俩	4110
+xiong an	凶案	4025
+xiong xiong lie huo	熊熊烈火	3960
+xiong da ji	胸大肌	3945
+xiong yi	胸臆	3810
+xiong yu	雄鱼	3790
+xiong huai da zhi	胸怀大志	3780
+xiong zhao	凶兆	3760
+xiong da	胸大	3715
+xiong mao yan	熊猫眼	3620
+xiong fan	凶犯	3520
+xiong xing	凶星	3470
+xiong shen	凶神	3455
+xiong zhai	凶宅	3430
+xiong xian	雄县	3425
+xiong ba tian xia	雄霸天下	3395
+xiong er	熊二	3333
+xiong hai zi	熊孩子	3333
+xiong mao lian	熊猫脸	3333
+xiong mao tou	熊猫头	3333
+xiong tou	胸透	3250
+xiong bing	雄兵	3235
+xiong sha	凶煞	3225
+xiong ben	熊本	3200
+xiong yong er lai	汹涌而来	3025
+xiong di a	兄弟啊	2995
+xiong qi	胸鳍	2895
+xiong wu da zhi	胸无大志	2865
+xiong mao	胸毛	2860
+xiong hua	雄花	2840
+xiong tu	凶徒	2835
+xiong xiong da huo	熊熊大火	2775
+xiong di min zu	兄弟民族	2730
+xiong di ban	兄弟般	2660
+xiong cai	雄才	2605
+xiong wen	雄文	2570
+xiong jiu jiu	雄赳赳	2540
+xiong yang	熊样	2435
+xiong niao	雄鸟	2420
+xiong qiang	雄强	2420
+xiong xiang	凶相	2370
+xiong qiang jing	胸腔镜	2345
+xiong sao	兄嫂	2345
+xiong feng	雄蜂	2307
+xiong xiong	汹汹	2270
+xiong di qing	兄弟情	2260
+xiong da	熊大	2222
+xiong zhou	雄州	2120
+xiong mou	熊某	2075
+xiong ya li suan fa	匈牙利算法	2072
+xiong di liang ren	兄弟两人	2045
+xiong huang jiu	雄黄酒	1980
+xiong huai kuan guang	胸怀宽广	1915
+xiong ya li yu	匈牙利语	1895
+xiong di zhi qing	兄弟之情	1830
+xiong ci	雄雌	1820
+xiong pi	熊皮	1805
+xiong nei	胸内	1800
+xiong ya li ren	匈牙利人	1795
+xiong zi ying fa	雄姿英发	1795
+xiong huai zu guo	胸怀祖国	1745
+xiong kuan	胸宽	1735
+xiong shi	凶事	1725
+xiong zhu	雄主	1635
+xiong shi	胸饰	1575
+xiong mao guan	熊猫馆	1560
+xiong huai tan dang	胸怀坦荡	1475
+xiong di guan xi	兄弟关系	1470
+xiong wei	雄威	1470
+xiong di qing shen	兄弟情深	1440
+xiong jun	雄峻	1395
+xiong shi	雄视	1395
+xiong sheng	胸声	1379
+xiong jie	雄杰	1340
+xiong xing bu yu	雄性不育	1305
+xiong meng de	凶猛的	1190
+xiong ren	凶人	1190
+xiong xiang	胸像	1190
+xiong nian	凶年	1170
+xiong ba yi fang	雄霸一方	1165
+xiong jing	雄劲	1135
+xiong wu	胸无	1135
+xiong mo	胸膜	1120
+xiong an	雄安	1111
+xiong an xin qu	雄安新区	1111
+xiong an zhan	雄安站	1111
+xiong mao ren	熊猫人	1111
+xiong shang	胸上	1111
+xiong xiao	胸小	1111
+xiong zi kuang	凶字框	1111
+xiong tu	雄图	1075
+xiong wu dian mo	胸无点墨	1075
+xiong ya li dui	匈牙利队	1065
+xiong mao ji di	熊猫基地	1052
+xiong tao wei lve	雄韬伟略	1025
+xiong xiang bi lu	凶相毕露	1005
+xiong ke yi yuan	胸科医院	1001
+xiong qi	凶气	1000
+xiong dao	熊岛	999
+xiong hao	凶耗	999
+xiong shou	凶兽	999
+xiong rou	胸肉	995
+xiong gu	熊谷	985
+xiong feng	熊蜂	980
+xiong wan	凶顽	970
+xiong wu	雄武	970
+xiong zhong you shu	胸中有数	970
+xiong nu wang	匈奴王	950
+xiong de	凶得	920
+xiong de ming	熊德明	920
+xiong hao	雄豪	900
+xiong ting bi	熊廷弼	880
+xiong ya li ming ming fa	匈牙利命名法	872
+xiong heng	凶横	860
+xiong xing	凶性	855
+xiong guan man dao zhen ru tie	雄关漫道真如铁	831
+xiong shi hu xi	胸式呼吸	805
+xiong huai da ju	胸怀大局	735
+xiong tui	胸推	680
+xiong cai wei lve	雄才伟略	650
+xiong xia zi	熊瞎子	640
+xiong wu cheng fu	胸无城府	615
+xiong qiang	胸墙	605
+xiong ming hua	熊明华	590
+xiong mao pai	熊猫牌	570
+xiong bian jia	雄辩家	555
+xiong di xi qiang	兄弟阋墙	550
+xiong die	雄蝶	532
+xiong hen can bao	凶狠残暴	530
+xiong yan	凶焰	530
+xiong yi	雄蚁	525
+xiong chong	雄虫	521
+xiong xin bao zi dan	熊心豹子胆	505
+xiong can e	雄蚕蛾	504
+xiong li	凶戾	500
+xiong guan	雄冠	495
+xiong you di gong	兄友弟恭	495
+xiong qiang ji ye	胸腔积液	479
+xiong xi	胸袭	465
+xiong ya li shi jian	匈牙利事件	445
+xiong zhi	雄志	425
+xiong jiu jiu de	雄赳赳地	360
+xiong xian	凶嫌	355
+xiong kuang	凶狂	345
+xiong zhao	熊爪	345
+xiong zhua	熊爪	345
+xiong hou	熊猴	340
+xiong da huo hao	胸大活好	333
+xiong di bei	兄弟杯	315
+xiong xin	凶信	315
+xiong ju yi fang	雄踞一方	310
+xiong wai xin zang ji ya	胸外心脏挤压	305
+xiong shen	凶身	290
+xiong bao	熊包	280
+xiong jun	雄俊	275
+xiong ji	胸际	270
+xiong bei	熊背	255
+xiong di dang	兄弟党	255
+xiong qi lai	凶起来	255
+xiong yang er	熊样儿	245
+xiong xing hua	雄性化	240
+xiong zhen ji tuan	雄震集团	240
+xiong feng you zai	雄风犹在	235
+xiong hai zi	凶孩子	222
+xiong xi ling	熊希龄	220
+xiong feng bu jian	雄风不减	215
+xiong po po	熊婆婆	199
+xiong zheng yu	熊征宇	198
+xiong jing guan	熊警官	197
+xiong di qing yi	兄弟情义	195
+xiong ying ling	雄鹰岭	190
+xiong dun han	熊敦瀚	187
+xiong feng shan	熊凤山	187
+xiong pei yun	熊培云	186
+xiong di chang	兄弟厂	185
+xiong dai	胸带	180
+xiong ben xian	熊本县	178
+xiong huai tian xia	胸怀天下	176
+xiong qing quan	熊清泉	176
+xiong tu di	熊徒弟	173
+xiong mao	雄猫	166
+xiong zhou wu lie	雄州雾列	165
+xiong xiong huo yan	熊熊火焰	161
+xiong di ke ji	雄帝科技	158
+xiong di xi yu qiang	兄弟阋于墙	158
+xiong pu zi	胸脯子	155
+xiong zhui gu zhe	胸椎骨折	155
+xiong dian	凶点	150
+xiong chao	熊超	146
+xiong an zhi liang	雄安质量	145
+xiong lu dui	雄鹿队	141
+xiong zhi qiang	熊志强	125
+xiong zhu	雄株	123
+xiong wen	雄蚊	121
+xiong bu qi lai	凶不起来	120
+xiong di dui	兄弟队	120
+xiong meng de	凶猛地	119
+xiong dian cun	熊店村	117
+xiong shi shao nian	雄狮少年	116
+xiong gu gu zhe	胸骨骨折	114
+xiong zhong lei kuai	胸中垒块	112
+xiong jing niao shen	熊经鸟申	111
+xiong shui	胸水	111
+xiong tou	熊头	111
+xiong di meng	兄弟盟	107
+xiong zhang dou fu	熊掌豆腐	103
+xiong mao gu	熊猫谷	101
+xiong si dong	熊思东	101
+xiong an shen chu	凶案深处	100
+xiong an xiao qu	雄安校区	100
+xiong ba ba de	凶巴巴的	100
+xiong bao bao	熊宝宝	100
+xiong bao bei yue tuan	熊宝贝乐团	100
+xiong bao xue ren	熊抱雪人	100
+xiong ben di san	熊本第三	100
+xiong ben di zhen	熊本地震	100
+xiong bian gao tan	雄辩高谈	100
+xiong bing bai wan	雄兵百万	100
+xiong bing lian zhi zhu tian jiang lin	雄兵连之诸天降临	100
+xiong bu hen da	胸部很大	100
+xiong bu shou shu	胸部手术	100
+xiong bu yi xia dou shi tui	胸部以下都是腿	100
+xiong cai gai shi	雄才盖世	100
+xiong cai yuan lve	雄才远略	100
+xiong can cheng du	凶残程度	100
+xiong cang jin xiu	胸藏锦绣	100
+xiong chang niu duan	熊长牛短	100
+xiong chu mo	熊出没	100
+xiong chu mo quan ji	熊出没全集	100
+xiong chu mo xi lie	熊出没系列	100
+xiong chu mo zhi duo bao xiong bing	熊出没之夺宝熊兵	100
+xiong chu mo zhi guai shou ji hua	熊出没之怪兽计划	100
+xiong chu mo zhi kuang ye da lu	熊出没之狂野大陆	100
+xiong chu mo zhi tan xian ri ji	熊出没之探险日记	100
+xiong chu mo zhi xiong xin gui lai	熊出没之熊心归来	100
+xiong chu mo zhi xue ling xiong feng	熊出没之雪岭熊风	100
+xiong chu mo zhi yuan shi shi dai	熊出没之原始时代	100
+xiong chu mo zhong	熊出没中	100
+xiong ci hong bian	雄辞闳辩	100
+xiong da tui chang	胸大腿长	100
+xiong da wu nao	胸大无脑	100
+xiong da xiong er	熊大熊二	100
+xiong da yao xi	胸大腰细	100
+xiong da you nao	胸大有脑	100
+xiong dao lai an na	熊岛莱安娜	100
+xiong de hen	凶得很	100
+xiong di ban de	兄弟般的	100
+xiong di bu zhi	兄弟不知	100
+xiong di che hang	兄弟车行	100
+xiong di chong feng	兄弟重逢	100
+xiong di chong ju	兄弟重聚	100
+xiong di de guan xi	兄弟的关系	100
+xiong di gan bei	兄弟干杯	100
+xiong di gao xiao	兄弟高校	100
+xiong di ji nan	兄弟急难	100
+xiong di jie mei guan xi	兄弟姐妹关系	100
+xiong di jie mei men	兄弟姐妹们	100
+xiong di jie mei qu lv xing	兄弟姐妹去旅行	100
+xiong di jie mei quan kao wo	兄弟姐妹全靠我	100
+xiong di jing	熊地精	100
+xiong di kong huai	兄弟孔怀	100
+xiong di men shang	兄弟们上	100
+xiong di men shang a	兄弟们上啊	100
+xiong di men shang ba	兄弟们上吧	100
+xiong di shen shang	兄弟参商	100
+xiong di sheng	兄弟省	100
+xiong di sheng fen	兄弟省份	100
+xiong di sheng shi	兄弟省市	100
+xiong di tong xin	兄弟同心	100
+xiong di wo	兄弟我	100
+xiong di xiang	兄弟象	100
+xiong di xiang chen	兄弟相称	100
+xiong di xiang ni le	兄弟想你了	100
+xiong di xin ku	兄弟辛苦	100
+xiong di xiong di	兄弟兄弟	100
+xiong di xue xiao	兄弟学校	100
+xiong di yi yi	兄弟怡怡	100
+xiong dun dun	熊墩墩	100
+xiong er shan	熊耳山	100
+xiong fei ci fu	雄飞雌伏	100
+xiong fei di shou	兄肥弟瘦	100
+xiong gui e ling	凶鬼恶灵	100
+xiong hai ma	雄海马	100
+xiong hen da	胸很大	100
+xiong hen de	凶狠地	100
+xiong hou zi jin	雄厚资金	100
+xiong huai gu guo	胸怀故国	100
+xiong huai jia guo	胸怀家国	100
+xiong huai jin xiu	胸怀锦绣	100
+xiong huai lei luo	胸怀磊落	100
+xiong hun you li	雄浑有力	100
+xiong ji duan wei	雄鸡断尾	100
+xiong jia zhang	熊家长	100
+xiong jian bu fa	雄健步伐	100
+xiong jiang xi xun	凶降喜讯	100
+xiong jin qi du	胸襟气度	100
+xiong jing niao shen	熊经鸟伸	100
+xiong ju hu zhi	熊据虎跱	100
+xiong ju yi fang	雄据一方	100
+xiong jun ting ba	雄峻挺拔	100
+xiong ke wu	熊克武	100
+xiong kou sui da shi	胸口碎大石	100
+xiong kuo qie kai shu	胸廓切开术	100
+xiong lai le	熊来了	100
+xiong lei mo	胸肋膜	100
+xiong lin xiang	芎林乡	100
+xiong luo wan xiang	胸罗万象	100
+xiong mao bei	熊猫杯	100
+xiong mao chi	熊猫吃	100
+xiong mao chi duan xin	熊猫吃短信	100
+xiong mao le yuan	熊猫乐园	100
+xiong mao ren zhi mi	熊猫人之谜	100
+xiong mao tie zhi	熊猫贴纸	100
+xiong mei guan xi	兄妹关系	100
+xiong mei lian	兄妹恋	100
+xiong mei xiang chen	兄妹相称	100
+xiong meng cheng du	凶猛程度	100
+xiong mo da sai	胸模大赛	100
+xiong mu xing li	熊木杏里	100
+xiong na me da	胸那么大	100
+xiong nian ji sui	凶年饥岁	100
+xiong nu bu luo	匈奴部落	100
+xiong nu chan yu	匈奴单于	100
+xiong pei zi	雄配子	100
+xiong pi bai wan	熊罴百万	100
+xiong pi dou peng	熊皮斗篷	100
+xiong pi mao	熊皮帽	100
+xiong pi ru meng	熊罴入梦	100
+xiong pu rou	胸脯肉	100
+xiong pu si liang	胸脯四两	100
+xiong pu xian chu	胸脯显出	100
+xiong pu yi pai	胸脯一拍	100
+xiong qian fen rou	胸前粉肉	100
+xiong qian gua zhe	胸前挂着	100
+xiong qian ji xue	胸前积雪	100
+xiong qian shang ji xue	胸前尚积雪	100
+xiong qian zhang	胸前长	100
+xiong qing chun	熊青春	100
+xiong rui shou fen	雄蕊授粉	100
+xiong shen fu ti	凶神附体	100
+xiong shen me xiong	凶什么凶	100
+xiong shi bai wan	雄师百万	100
+xiong shi fan tan	熊市反弹	100
+xiong shi hang qing	熊市行情	100
+xiong shi yi shi	雄视一世	100
+xiong shi zhi yun xi tong	雄狮智云系统	100
+xiong shou de ming cheng	凶手的名称	100
+xiong shou de ming zi	凶手的名字	100
+xiong shou hai wei shui	凶手还未睡	100
+xiong shou jiu shi	凶手就是	100
+xiong tian ping	熊天平	100
+xiong tu da lve	雄图大略	100
+xiong tun yun meng	胸吞云梦	100
+xiong wei de chang cheng	雄伟的长城	100
+xiong wen da shou	雄文大手	100
+xiong wu cheng zhu	胸无成竹	100
+xiong wu di mo	胸无滴墨	100
+xiong wu su wu	胸无宿物	100
+xiong xian cheng du	凶险程度	100
+xiong xian zhi di	凶险之地	100
+xiong xian zhi shi	凶险之事	100
+xiong xiao wu nao	胸小无脑	100
+xiong xiao you nao	胸小有脑	100
+xiong xin bao dan	熊心豹胆	100
+xiong xin wan zhang	雄心万丈	100
+xiong xing ji su fen mi wang sheng	雄性激素分泌旺盛	100
+xiong xing ji su wang sheng	雄性激素旺盛	100
+xiong xiong dang chao	汹汹当朝	100
+xiong xiong de	凶凶的	100
+xiong xiong e e	凶凶恶恶	100
+xiong xiong hen hen	凶凶狠狠	100
+xiong xiong le yuan	熊熊乐园	100
+xiong xue pai	熊学派	100
+xiong ya li da ping yuan	匈牙利大平原	100
+xiong yao hu bei	熊腰虎背	100
+xiong yi ge	凶一个	100
+xiong yi xia dou shi tui	胸以下都是腿	100
+xiong you cheng fu	胸有城府	100
+xiong you cheng lve	胸有成略	100
+xiong you cheng suan	胸有成算	100
+xiong you jia bing	胸有甲兵	100
+xiong yu di qiu	雄于地球	100
+xiong zhai jing hun	凶宅惊魂	100
+xiong zhan shi	熊战士	100
+xiong zhang da ren	兄长大人	100
+xiong zhang men	兄长们	100
+xiong zhao li	胸罩里	100
+xiong zhao li mian	胸罩里面	100
+xiong zhe me da	胸这么大	100
+xiong zhi tong	雄酯酮	100
+xiong zhong di ji	兄终弟及	100
+xiong zhong jia bing	胸中甲兵	100
+xiong zhong qiu he	胸中丘壑	100
+xiong zhong xi mo	凶终隙末	100
+xiong zhuang wei wu	雄壮威武	100
+xiong bu sun shang	胸部损伤	99
+xiong pi	熊罴	99
+xiong zhi	雄峙	99
+xiong mao quan	熊猫犬	94
+xiong bian tao tao	雄辩滔滔	88
+xiong yan	熊艳	86
+xiong qu yang dan suan	熊去氧胆酸	83
+xiong zhu dong mai	胸主动脉	82
+xiong bing kun	熊秉坤	81
+xiong xing da fa	凶性大发	81
+xiong mao shao xiang	熊猫烧香	77
+xiong hui	熊晖	75
+xiong xing tai	熊形态	73
+xiong bian xing	雄辩型	65
+xiong mao sun	熊猫笋	65
+xiong dan jiao nang	熊胆胶囊	61
+xiong zhe ne	凶着呢	60
+xiong zhong bai wan bing	胸中百万兵	60
+xiong zhong kuai lei	胸中块垒	60
+xiong qiang bi shi yin liu	胸腔闭式引流	56
+xiong zhong shi wan bing	胸中十万兵	55
+xiong suo ru tu ji	胸锁乳突肌	52
+xiong ru lin	熊汝霖	50
+xiong xian liu	胸腺瘤	48
+xiong xiang hui	熊向晖	47
+xiong rou	熊肉	44
+xiong mo qiang	胸膜腔	43
+xiong bi	胸痹	41
+xiong ji yi chang tian xia bai	雄鸡一唱天下白	38
+xiong qing lai	熊庆来	38
+xiong jiu jiu de	雄赳赳的	36
+xiong de xiang	凶得像	35
+xiong zhen lou	雄镇楼	33
+xiong e	雄蛾	31
+xiong mo jian pi liu	胸膜间皮瘤	31
+xiong wu	熊屋	31
+xiong mao ya ke	熊猫亚科	29
+xiong qiang bi shi yin liu shu	胸腔闭式引流术	27
+xiong xian tai	胸腺肽	27
+xiong tu da ye	雄图大业	25
+xiong xian wu tai	胸腺五肽	25
+xiong yin	胸音	25
+xiong xiong li xian ji	熊熊历险记	22
+xiong xian mi ding	胸腺嘧啶	21
+xiong heng	熊横	20
+xiong jing	雄竞	17
+xiong qiang yin liu guan	胸腔引流管	17
+xiong fo xi	熊佛西	16
+xiong xian xi bao	胸腺细胞	16
+xiong dan yan yao shui	熊胆眼药水	15
+xiong guo suan	熊果酸	15
+xiong hu zhi shi	熊虎之士	15
+xiong huai tan bai	胸怀坦白	15
+xiong mo zhan lian	胸膜粘连	14
+xiong tong	熊通	14
+xiong gu bing	胸骨柄	13
+xiong xiao ji	胸小肌	13
+xiong zhong wan juan	胸中万卷	13
+xiong zhui jie he	胸椎结核	13
+xiong da huo er hao	胸大活儿好	12
+xiong kuo nei dong mai	胸廓内动脉	12
+xiong mao pin zhu	熊猫品竹	12
+xiong xin	熊心	12
+xiong ying shou hu	雄鹰守护	12
+xiong chuan	熊川	11
+xiong ji yi sheng tian xia bai	雄鸡一声天下白	11
+xiong mao niu	熊猫牛	11
+xiong qu yang dan suan jiao nang	熊去氧胆酸胶囊	11
+xiong cheng ji	熊成基	10
+xiong mo zeng hou	胸膜增厚	10
+xiong ci lv	熊赐履	9
+xiong mo fei yan	胸膜肺炎	9
+xiong nu cao huang ma zheng fei	匈奴草黄马正肥	9
+xiong pai	熊派	9
+xiong zhen	雄震	9
+xiong dan zhi ling gao	熊胆痔灵膏	8
+xiong dan huang qin di yan ye	熊胆黄芩滴眼液	7
+xiong xian su	胸腺素	7
+xiong xian tai lv hua na zhu she ye	胸腺肽氯化钠注射液	7
+xiong xian tai zhu she ye	胸腺肽注射液	7
+xiong zu	胸足	7
+xiong hou	胸厚	6
+xiong ya li ming ming	匈牙利命名	6
+xiong an chun	雄鹌鹑	5
+xiong bang	雄蚌	5
+xiong bao	雄豹	5
+xiong bei	雄贝	5
+xiong bie	雄鳖	5
+xiong dian	胸垫	5
+xiong e	雄鹅	5
+xiong gan ji mei	胸苷激酶	5
+xiong ge	雄鸽	5
+xiong gui	雄龟	5
+xiong hou	雄猴	5
+xiong hu	雄虎	5
+xiong huang	雄蝗	5
+xiong huang chong	雄蝗虫	5
+xiong ji su bu min gan zong he zheng	雄激素不敏感综合征	5
+xiong jing xing	熊景星	5
+xiong kuo chu kou zong he zheng	胸廓出口综合征	5
+xiong luo	雄螺	5
+xiong lv	雄驴	5
+xiong mao yi xing	熊猫异形	5
+xiong meng xiang	熊梦祥	5
+xiong pi zhi shi	熊罴之师	5
+xiong quan	雄犬	5
+xiong que	雄雀	5
+xiong rui qun	雄蕊群	5
+xiong she	雄蛇	5
+xiong shou	雄兽	5
+xiong shu	雄鼠	5
+xiong suo guan jie	胸锁关节	5
+xiong tie	胸贴	5
+xiong tu	雄兔	5
+xiong wa	雄蛙	5
+xiong xia	雄虾	5
+xiong xiang	雄象	5
+xiong xie	雄蟹	5
+xiong xing fu zhi	雄性附肢	5
+xiong ya	雄鸭	5
+xiong ying	雄蝇	5
+xiong you qiu he	胸有丘壑	5
+xiong yuan	雄猿	5
+xiong chuang	胸窗	4
+xiong dan chuan bei kou fu ye	熊胆川贝口服液	4
+xiong dan jiu xin wan	熊胆救心丸	4
+xiong dao guan	胸导管	4
+xiong pi zhi shi	熊罴之士	4
+xiong qiang nie	胸腔镊	4
+xiong tu jiao pu shuo	雄兔脚扑朔	4
+xiong xia jie ying	胸下结硬	4
+xiong xian zeng sheng	胸腺增生	4
+xiong bo qi	熊伯齐	3
+xiong da mu	熊大木	3
+xiong dan jiu xin dan	熊胆救心丹	3
+xiong fu shi hu xi	胸腹式呼吸	3
+xiong gu lie	胸骨裂	3
+xiong guo	熊过	3
+xiong qi	熊琪	3
+xiong ren rong	熊仁荣	3
+xiong shuang	熊霜	3
+xiong xian qie chu shu	胸腺切除术	3
+xiong ya	雄鸦	3
+xiong zhu	雄猪	3
+xiong zhu	雄蛛	3
+xiong bo long	熊伯龙	2
+xiong can	雄蚕	2
+xiong chan	雄蟾	2
+xiong chan chu	雄蟾蜍	2
+xiong dan di yan ye	熊胆滴眼液	2
+xiong dan yin chen kou fu ye	熊胆茵陈口服液	2
+xiong dan zhi ling shuan	熊胆痔灵栓	2
+xiong er zhai	熊耳寨	2
+xiong gan	胸苷	2
+xiong guang	凶犷	2
+xiong lei guan jie	胸肋关节	2
+xiong ma	雄马	2
+xiong ma xiang	雄玛乡	2
+xiong mai xiang	雄麦乡	2
+xiong mao xie rou	熊猫蟹肉	2
+xiong mo ding	胸膜顶	2
+xiong niu	雄牛	2
+xiong qiang zu zhi qian	胸腔组织钳	2
+xiong qiong	芎䓖	2
+xiong ru xiang	雄如乡	2
+xiong si di ji	兄死弟及	2
+xiong xian fa yu bu quan	胸腺发育不全	2
+xiong xian tai chang rong pian	胸腺肽肠溶片	2
+xiong xie ku man	胸胁苦满	2
+xiong ya li ying mao	匈牙利硬毛	2
+xiong yan	熊严	2
+xiong zhong ri yue chang xin mei	胸中日月常新美	2
+xiong ban qiang wen xue	胸斑腔吻鳕	1
+xiong ban zhu mu yu	胸斑珠目鱼	1
+xiong bei bu jiao zheng zhuang zhi	胸背部矫正装置	1
+xiong bi ying qian gu	雄笔映千古	1
+xiong bu ji sheng chong	胸部寄生虫	1
+xiong chang ci he	雄唱雌和	1
+xiong chuan fu han	凶喘肤汗	1
+xiong ci	胸次	1
+xiong ci hong bian	雄辞闳辨	1
+xiong dai ci gai yu	胸带刺盖鱼	1
+xiong dan die da gao	熊胆跌打膏	1
+xiong dan wan jiao nang	熊胆丸胶囊	1
+xiong dan zhi chuang gao	熊胆痔疮膏	1
+xiong di dao xie chi xi	兄弟岛楔齿蜥	1
+xiong dian mei lu	胸点梅鲈	1
+xiong er xing wu yang	熊儿幸无恙	1
+xiong er ying	熊耳营	1
+xiong fan bao tai	熊蹯豹胎	1
+xiong fei ci cong rao lin jian	雄飞雌从绕林间	1
+xiong fei tu jin	雄飞突进	1
+xiong gang yu hou gang yu	胸肛鱼喉肛鱼	1
+xiong gu ce qian tu	胸骨侧前突	1
+xiong gu ce tu	胸骨侧突	1
+xiong gu jian	胸骨剪	1
+xiong gu jiao	胸骨角	1
+xiong gu she gu ji	胸骨舌骨肌	1
+xiong gu shou zuan	胸骨手钻	1
+xiong guan long	雄关龙	1
+xiong huang yuan xiao di jia	胸黄缘小地甲	1
+xiong ji xue lian zhong	雄鸡雪莲盅	1
+xiong ji ye ming	雄鸡夜鸣	1
+xiong jia ying mao shu	胸甲硬毛鼠	1
+xiong jian feng tian	雄健丰田	1
+xiong jing chi gu	熊经鸱顾	1
+xiong jing niao ye	熊经鸟曳	1
+xiong jing niao yin	熊经鸟引	1
+xiong ju shang qing pian	芎菊上清片	1
+xiong jun	熊均	1
+xiong le	凶了	1
+xiong li	熊狸	1
+xiong lu zhao ze	雄鹿沼泽	1
+xiong lu zhao ze dong xue	雄鹿沼泽洞穴	1
+xiong ma ju	雄马驹	1
+xiong meng wen hou mo shou xue	凶猛纹喉膜首鳕	1
+xiong mo mu li gu	胸膜牡蛎菇	1
+xiong mo qiang nei ya	胸膜腔内压	1
+xiong nve	凶虐	1
+xiong pi zhi xiang	熊罴之祥	1
+xiong pian she ying zhuang zhi	胸片摄影装置	1
+xiong qiang zu zhi nie fei	胸腔组织镊肺	1
+xiong qu yang dan suan pian	熊去氧胆酸片	1
+xiong sao dang zhi zhi	兄嫂当知之	1
+xiong shi xiang	雄狮乡	1
+xiong tian yao zi	熊田曜子	1
+xiong xi jiao tian niu	雄犀角天牛	1
+xiong xian dan bai kou fu rong ye	胸腺蛋白口服溶液	1
+xiong xian mi ding er ju ti	胸腺嘧啶二聚体	1
+xiong xiao san	熊笑三	1
+xiong xing	熊姓	1
+xiong xing ku lan da shu wa	雄性库兰达树蛙	1
+xiong xiong	讻讻	1
+xiong xiong ban kong chu	雄雄半空出	1
+xiong ya li duan mao zhi shi quan	匈牙利短毛指示犬	1
+xiong ya li ku wei si quan	匈牙利库维斯犬	1
+xiong ya li ming ming gui fan	匈牙利命名规范	1
+xiong ya li ming ming si xiang	匈牙利命名思想	1
+xiong ya li wei si la quan	匈牙利维斯拉犬	1
+xiong ya li ying mao zhi shi quan	匈牙利硬毛指示犬	1
+xiong yan guan shi	熊眼观市	1
+xiong yao jin mo	胸腰筋膜	1
+xiong ye gou mu yu	熊野狗母鱼	1
+xiong you lin jia	胸有鳞甲	1
+xiong you xuan jing	胸有悬镜	1
+xiong yue	熊岳	1
+xiong zhong lin jia	胸中鳞甲	1
+xiong zhong yuan zi you qiu he	胸中元自有丘壑	1
+xiong zhong zhi fu	胸中之府	1

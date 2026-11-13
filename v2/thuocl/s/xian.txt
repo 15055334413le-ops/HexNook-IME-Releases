@@ -1,0 +1,775 @@
+xian jin	现金	166097
+xian zheng fu	县政府	61959
+xian nai	鲜奶	61845
+xian dai qi ye zhi du	现代企业制度	55793
+xian shi	显式	43466
+xian cheng an quan	线程安全	36705
+xian zhi	闲置	33392
+xian cheng chi	线程池	27127
+xian zhan	先占	18763
+xian duan shu	线段树	17881
+xian er yi jian	显而易见	17273
+xian cheng tong bu	线程同步	13730
+xian xie	献血	13413
+xian jin xian chu	先进先出	12745
+xian ji shi	县级市	12442
+xian shi tu pian	显示图片	12151
+xian fa zhi ren	先发制人	10913
+xian jin jia zhi	现金价值	10305
+xian shi wen jian	显示文件	9374
+xian gong an ju	县公安局	8898
+xian wei ren zhi	鲜为人知	8450
+xian ru jiang ju	陷入僵局	8108
+xian xing biao	线性表	7891
+xian zhi min shi xing wei neng li	限制民事行为能力	7559
+xian huo	现货	7434
+xian cheng chuang jian	线程创建	7303
+xian tian xing	先天性	6926
+xian tian xing xin zang bing	先天性心脏病	6606
+xian yi yuan	县医院	6311
+xian shen shuo fa	现身说法	6305
+xian yang shi	咸阳市	6266
+xian shi fang shi	显示方式	6190
+xian xing dai shu	线性代数	6021
+xian jin hou chu	先进后出	5891
+xian cheng zu se	线程阻塞	5729
+xian heng	咸亨	5380
+xian ding fu	限定符	5113
+xian shi hang hao	显示行号	4926
+xian cheng diao du	线程调度	4854
+xian xing hui gui	线性回归	4843
+xian xing bu ju	线性布局	4833
+xian jing	仙境	4519
+xian ji yi yuan	县级医院	4431
+xian xu bian li	先序遍历	4212
+xian cheng bing fa	线程并发	4164
+xian shi tu xiang	显示图像	4135
+xian jiao yu ju	县教育局	4053
+xian shi yin cang	显示隐藏	3992
+xian shi zhong wen	显示中文	3860
+xian cheng zhuang tai	线程状态	3768
+xian chang kan yan	现场勘验	3730
+xian cheng you xian ji	线程优先级	3520
+xian wei ban	县委办	3499
+xian cheng duo	鲜橙多	3437
+xian ning shi	咸宁市	3409
+xian cheng mo xing	线程模型	3403
+xian shi she bei	显示设备	3385
+xian xiang huan sheng	险象环生	3218
+xian shi mo shi	显示模式	3207
+xian wei jing	显微镜	3198
+xian tian bu zu	先天不足	3056
+xian dai chan quan zhi du	现代产权制度	3032
+xian xing	显性	2971
+xian cheng jian tong xin	线程间通信	2936
+xian cheng zu	线程组	2872
+xian lin	仙林	2685
+xian xu	先序	2631
+xian cheng guan li	线程管理	2559
+xian tian xing que xian	先天性缺陷	2550
+xian wei jian yan	纤维检验	2502
+xian ru wei zhu	先入为主	2470
+xian jin xian chu fa	先进先出法	2430
+xian dai cao zuo xi tong	现代操作系统	2397
+xian ling pi	仙灵脾	2381
+xian qian	闲钱	2346
+xian tai	仙台	2330
+xian li zhi	鲜荔枝	2166
+xian xing mo xing	线性模型	2129
+xian xing jie gou	线性结构	2113
+xian fu	县府	2088
+xian cheng zhong duan	线程中断	2075
+xian ka qu dong	显卡驱动	2071
+xian tao shi	仙桃市	2054
+xian xing bian huan	线性变换	2022
+xian yan gai lv	先验概率	1979
+xian cheng jian de tong xin	线程间的通信	1976
+xian wei su	纤维素	1976
+xian xing jian bian	线性渐变	1850
+xian cheng tong xin	线程通信	1839
+xian kuang	线框	1839
+xian cheng suo	线程锁	1822
+xian feng	咸丰	1629
+xian du wei kuai	先睹为快	1606
+xian xing fang cheng zu	线性方程组	1555
+xian shi bu quan	显示不全	1534
+xian xing fen lei qi	线性分类器	1534
+xian nai dan gao	鲜奶蛋糕	1415
+xian duan xiang jiao	线段相交	1285
+xian zhi shu ru	限制输入	1240
+xian cheng si suo	线程死锁	1222
+xian xing gui hua	线性规划	1221
+xian shi zhuan huan	显式转换	1191
+xian xing sao miao	线性扫描	1186
+xian liu	限流	1168
+xian tian xing ji bing	先天性疾病	1161
+xian zhong yi yuan	县中医院	1117
+xian chang bi lu	现场笔录	1107
+xian shou xian fu zhi	现收现付制	1089
+xian huo jiao ge	现货交割	1040
+xian ju	仙居	1035
+xian nv shan	仙女山	1004
+xian xing cha zhao	线性查找	996
+xian shi zhuan huan	显示转换	995
+xian lai xian fu wu	先来先服务	963
+xian chang yan jiu	现场研究	942
+xian sheng duo ren	先声夺人	941
+xian zhan hou zou	先斩后奏	940
+xian cai hong	苋菜红	930
+xian jiao jing da dui	县交警大队	917
+xian wei	显微	912
+xian tian xia zhi you er you	先天下之忧而忧	900
+xian huo	线或	878
+xian pin ai fu	嫌贫爱富	877
+xian zhi shi jian	闲置时间	868
+xian xing fen lei	线性分类	850
+xian shan lu shui	显山露水	846
+xian shi zhuo mian	显示桌面	827
+xian yu rou	鲜鱼肉	802
+xian gang	岘港	768
+xian wei hua	纤维化	763
+xian zhi xian jue	先知先觉	740
+xian xia shou wei qiang	先下手为强	729
+xian jian zhi ming	先见之明	713
+xian qi liang mu	贤妻良母	698
+xian fa xing fa lv	宪法性法律	683
+xian shi zhong duan	显示终端	670
+xian dai cheng	现代城	665
+xian zhi tu di chu zhi ban fa	闲置土地处置办法	663
+xian shi ge shi	显示格式	629
+xian yan sui yu	闲言碎语	625
+xian duan shu	线段数	609
+xian xing xi tong	线性系统	609
+xian cheng bian cheng	线程编程	600
+xian cun	冼村	587
+xian fa xing wen jian	宪法性文件	587
+xian yan duo mu	鲜艳夺目	553
+xian wai zhi yin	弦外之音	544
+xian dai	线代	532
+xian suo er cha shu	线索二叉树	521
+xian lv xing kang bian quan	先履行抗辩权	519
+xian huo he yue	现货合约	510
+xian rou bao	鲜肉包	509
+xian xing sou suo	线性搜索	508
+xian xing pan bie fen xi	线性判别分析	502
+xian xing hai	冼星海	487
+xian duan fu gai	线段覆盖	485
+xian xing lian biao	线性链表	485
+xian xing lv bo	线性滤波	472
+xian xing shai	线性筛	471
+xian jiao	闲角	468
+xian wei wai ke	显微外科	463
+xian dai wang	现代王	458
+xian dai yue dong	现代悦动	441
+xian suo hua	线索化	441
+xian chong	线虫	439
+xian rou yue bing	鲜肉月饼	430
+xian dan zheng rou bing	咸蛋蒸肉饼	428
+xian jin guan li zan xing tiao li	现金管理暂行条例	413
+xian qing yi zhi	闲情逸致	412
+xian za ren deng	闲杂人等	402
+xian li ti	线粒体	397
+xian zhao liu chan	先兆流产	392
+xian hu zhi wu yuan	仙湖植物园	388
+xian dai wei la ke si	现代维拉克斯	385
+xian xing pai xu	线性排序	385
+xian xing tan cha	线性探查	383
+xian feng cun	先锋村	382
+xian dai xin sheng da	现代新胜达	378
+xian tian xing bai nei zhang	先天性白内障	356
+xian cheng xie zuo	线程协作	338
+xian ren zhang guo	仙人掌果	334
+xian huo yue fen	现货月份	330
+xian gong ye yuan qu	县工业园区	321
+xian xing cha zhi	线性插值	321
+xian nong tan	先农坛	320
+xian li hou bing	先礼后兵	319
+xian ning lu	咸宁路	317
+xian xing tong yu fang cheng	线性同余方程	294
+xian xing cai jue	先行裁决	285
+xian rou xiao long	鲜肉小笼	284
+xian zhi tu di chu li ban fa	闲置土地处理办法	279
+xian bing	鲜饼	267
+xian xing shai fa	线性筛法	266
+xian feng lu	先锋路	258
+xian gong hou si	先公后私	258
+xian qiao	仙桥	253
+xian bing du	腺病毒	250
+xian jian bing	咸煎饼	246
+xian xia lu	仙霞路	239
+xian tu	弦图	238
+xian feng dao gu	仙风道骨	231
+xian ji tang	鲜鸡汤	228
+xian jia xin cun	咸嘉新村	228
+xian di fa ren	现地法人	227
+xian cheng jie gou	线程结构	222
+xian xing ji	线性基	222
+xian rou bao zi	鲜肉包子	220
+xian tian xing er long	先天性耳聋	215
+xian xing zheng zhong xin	县行政中心	207
+xian yu bing zi	咸鱼饼子	202
+xian die	仙蝶	200
+xian chang zong xian	现场总线	195
+xian ren zhang cha	仙人掌茶	193
+xian cheng kong zhi kuai	线程控制块	190
+xian zhu xing ying xiang	显著性影响	190
+xian liu	腺瘤	184
+xian ren hou ji	先人后己	184
+xian shou gu	限售股	184
+xian chang jian du gong zheng	现场监督公证	183
+xian xing shi jian pai xu	线性时间排序	181
+xian ren dong	仙人洞	178
+xian wei zu zhi	纤维组织	171
+xian ya shao huang dou	咸鸭烧黄豆	171
+xian yun ye he	闲云野鹤	171
+xian jia hu	咸嘉湖	169
+xian shi xiao tu biao	显示小图标	169
+xian tian xing ju jie chang	先天性巨结肠	169
+xian chen bu ran	纤尘不染	168
+xian wei dan bai yuan	纤维蛋白原	162
+xian yan	仙岩	162
+xian dong	仙洞	153
+xian xing guo lv	线性过滤	152
+xian gu	仙姑	146
+xian yang ti fei da	腺样体肥大	145
+xian zhi	现值	145
+xian wei huan	纤维环	144
+xian shi	先施	142
+xian ai	腺癌	132
+xian duan shu he bing	线段树合并	132
+xian zhi zi shu	限制字数	130
+xian jia hu lu	咸嘉湖路	128
+xian dou	仙都	125
+xian wei xing	纤维性	123
+xian jin mai mai	现金买卖	120
+xian he men	仙鹤门	119
+xian ke you zhong	鲜克有终	118
+xian hua bing	鲜花饼	117
+xian dang xiao	县党校	115
+xian you hou le	先忧后乐	115
+xian wei ji shu	显微技术	113
+xian hua mei gui bing	鲜花玫瑰饼	110
+xian bei shi wei men	掀背式尾门	107
+xian chang she bei	现场设备	101
+xian wen	弦纹	101
+xian tian xing nao ji shui	先天性脑积水	99
+xian shao bai	咸烧白	98
+xian yan xian yu	闲言闲语	94
+xian dai gong ye gang	现代工业港	88
+xian yang cha	纤扬茶	87
+xian cai chang	线材厂	85
+xian dian zu	线电阻	84
+xian rou zong zi	鲜肉粽子	84
+xian ru xian chu dui lie	先入先出队列	81
+xian tang	仙塘	79
+xian xing cun kuan bao xian zhi du	显性存款保险制度	78
+xian chang jian cha zhi du	现场检查制度	77
+xian dai nu li zhi	现代奴隶制	77
+xian dai ya ke shi	现代雅科仕	77
+xian yu qie zi bao	咸鱼茄子煲	77
+xian yi nu ma	鲜衣怒马	75
+xian tian mei du	先天梅毒	74
+xian dai guang chang	现代广场	72
+xian tian xing qing guang yan	先天性青光眼	72
+xian ru zhi jian	先入之见	71
+xian shai	线筛	71
+xian xing jian ce	线性检测	71
+xian heng jiu dian	咸亨酒店	69
+xian yue lu	仙岳路	68
+xian kai fa qu	县开发区	65
+xian qin	显亲	64
+xian shan	岘山	64
+xian he cao	仙鹤草	61
+xian xing yu ce bian ma	线性预测编码	61
+xian fa xiu gai an	宪法修改案	60
+xian fu jie	县府街	60
+xian yu kou jie	鲜鱼口街	60
+xian xia xi lu	仙霞西路	58
+xian zhao zi xian	先兆子痫	58
+xian hua dou fu	鲜花豆腐	57
+xian tian xing kuan guan jie tuo wei	先天性髋关节脱位	57
+xian zhao zao chan	先兆早产	57
+xian kuang diao cha	现况调查	56
+xian luo wan	暹罗湾	56
+xian rou tang tuan	鲜肉汤团	56
+xian wei wai ke ji shu	显微外科技术	56
+xian yang lu	咸阳路	56
+xian chang kan cha xue	现场勘查学	55
+xian jin xing bie wen hua	先进性别文化	55
+xian shi jie kou shi xian	显式接口实现	55
+xian zhi xing shang ye xing wei	限制性商业行为	55
+xian he	仙河	54
+xian jing	仙景	52
+xian xiao ren hou jun zi	先小人后君子	52
+xian chong bing	线虫病	49
+xian bing du gan ran	腺病毒感染	48
+xian gan	腺苷	48
+xian tian xing ruo shi	先天性弱视	48
+xian zhi tu xiang	限制图像	48
+xian lu ming	线路名	47
+xian san zhong	县三中	47
+xian ta jie	仙塔街	47
+xian tian xing ma ti nei fan zu	先天性马蹄内翻足	46
+xian tan	仙坛	45
+xian xing fan ge ming fan	现行反革命犯	45
+xian tian xing nao xue guan ji xing	先天性脑血管畸形	44
+xian dai chuan bo	现代传播	43
+xian jin liu liang tie xian fa	现金流量贴现法	43
+xian lu tou jiao	显露头角	43
+xian shi suan fa	显示算法	43
+xian ji	仙迹	42
+xian lu zao sheng	线路噪声	42
+xian xing yi chuan	显性遗传	41
+xian pao	腺泡	40
+xian yu zhi xing shen qing shu	先予执行申请书	40
+xian shu yi	腺鼠疫	39
+xian wei xi bao	纤维细胞	39
+xian fa zhi ding quan	宪法制定权	38
+xian qian jie	县前街	38
+xian cun liang	现存量	37
+xian dai yi xue mo shi	现代医学模式	37
+xian di	献帝	37
+xian mi du	线密度	37
+xian shi	仙石	37
+xian yi	咸宜	37
+xian wei zhu she	显微注射	36
+xian chun	咸淳	35
+xian wei xian liu	纤维腺瘤	35
+xian zao bu ce	险遭不测	35
+xian chang sheng ji	现场升级	34
+xian dai nong ye kai fa qu	现代农业开发区	34
+xian shui gu	咸水沽	34
+xian shui ni chang	县水泥厂	33
+xian tian xing mei du	先天性梅毒	33
+xian yue shan	仙岳山	33
+xian zhi chu kou shang pin	限制出口商品	33
+xian mo cai xin	鲜蘑菜心	32
+xian mo dou fu	鲜蘑豆腐	31
+xian rou zheng hun tun	鲜肉蒸馄饨	30
+xian tong bei lu	咸通北路	30
+xian li ti yi chuan	线粒体遗传	29
+xian xing jie dao	先行街道	29
+xian xiang zhen qi ye ju	县乡镇企业局	28
+xian lin xin cun	仙林新村	27
+xian shi biao qian lie biao	显示标签列表	27
+xian xing ci xu	线性次序	27
+xian yu xiang	鲜鱼巷	27
+xian hu lu	仙湖路	26
+xian jin liu liang biao	现金流量表	26
+xian xing dong wu men	线形动物门	26
+xian jin chu bei zhang hu	现金储备账户	25
+xian shu zu zun niu bao	鲜蔬足尊牛堡	25
+xian tian xing yu xing	先天性愚型	25
+xian zheng jie	县正街	25
+xian gong jiao gong si	县公交公司	24
+xian ka cha cao	显卡插槽	24
+xian qiao cun	仙桥村	24
+xian ren wan yao zu xiang	仙人湾瑶族乡	24
+xian san zi	咸馓子	24
+xian yuan	仙苑	24
+xian long	现龙	23
+xian shi shu ju tong dao	显示数据通道	23
+xian shi xian bao	现世现报	23
+xian xing dong tai gui hua	线性动态规划	23
+xian yan chi	线延迟	23
+xian yang	仙阳	23
+xian huo ku cun ren zheng	现货库存认证	22
+xian jin kong zhi	先进控制	22
+xian li zhong	霰粒肿	22
+xian ling	仙岭	22
+xian lu xin cun	线路新村	22
+xian ning hou cun	咸宁侯村	22
+xian shan qiong ge	仙山琼阁	22
+xian wai zhi yi	弦外之意	22
+xian wei rou liu	纤维肉瘤	22
+xian xing zu zhi	线性组织	22
+xian yu wei xin	咸与维新	22
+xian guo bu ding	鲜果布丁	21
+xian nv dong	仙女洞	21
+xian mao	仙茅	20
+xian tao cun	仙桃村	20
+xian yang qiao	咸阳桥	20
+xian chong lei dong wu	藓虫类动物	19
+xian jin cao zuo xi tong	先进操作系统	19
+xian shan cun	仙山村	19
+xian sheng yao ye	先声药业	19
+xian tian xing fei dong mai xia zhai	先天性肺动脉狭窄	19
+xian you	仙友	19
+xian feng ting	先锋厅	18
+xian men	仙门	18
+xian xia he ye fan	鲜虾荷叶饭	18
+xian cha	咸茶	17
+xian ling gu bao jiao nang	仙灵骨葆胶囊	17
+xian rou si er	咸肉丝儿	17
+xian shi yan shi	显示延时	17
+xian tian xing ge shan	先天性膈疝	17
+xian tian xing shi guan bi suo	先天性食管闭锁	17
+xian xi	仙西	17
+xian yang zhong xue	咸阳中学	17
+xian feng di	咸丰帝	16
+xian gong	县功	16
+xian long	仙龙	16
+xian shi xuan qu	显示选区	16
+xian tian xing zhong liu	先天性肿瘤	16
+xian wei zhi wu	纤维植物	16
+xian yong	仙涌	16
+xian nong ke suo	县农科所	15
+xian qiao qi zi luo deng hua	闲敲棋子落灯花	15
+xian que ren	线确认	15
+xian shui	鲜水	15
+xian tong lu	咸通路	15
+xian wei cao zuo	显微操作	15
+xian xian	涎腺	15
+xian dai you hua suan fa	现代优化算法	14
+xian duan you shui ting	弦断有谁听	14
+xian qian tang tuan	县前汤团	14
+xian qian xiang	先遣乡	14
+xian tian cun	咸田村	14
+xian xing gan ran	显性感染	14
+xian zhu li	鲜竹沥	14
+xian di	仙地	13
+xian fa bian qian lun	宪法变迁论	13
+xian jin zao	咸金枣	13
+xian keng	线坑	13
+xian lin bu	闲林埠	13
+xian ning xian	咸宁县	13
+xian wang zhi dao si wei mei	先王之道斯为美	13
+xian xia fu pi juan	鲜虾腐皮卷	13
+xian xiang zhen qi ye	县乡镇企业	13
+xian you dian ju	县邮电局	13
+xian yu pian pian	咸鱼片片	13
+xian guang yuan	线光源	12
+xian he bao yu	仙鹤鲍鱼	12
+xian ping lu	咸平路	12
+xian ren shan	仙人山	12
+xian xia ji dan juan	鲜虾鸡蛋卷	12
+xian xing pang guang yan	腺性膀胱炎	12
+xian xue jie	县学街	12
+xian yu tang cun	鲜鱼塘村	12
+xian yuan shi pin	仙源食品	12
+xian yuan zhong chang	县原种场	12
+xian zheng gu jin	宪政古今	12
+xian bai ba zha zhen	先拜巴扎镇	11
+xian gu xia wan tang	鲜菇虾丸汤	11
+xian lu bian ma	线路编码	11
+xian rong mei	纤溶酶	11
+xian tian xing xie jing	先天性斜颈	11
+xian yang bei lu	咸阳北路	11
+xian zhao lin chan	先兆临产	11
+xian cai ya	咸菜鸭	10
+xian dan jie gua yu wei tang	咸蛋节瓜鱼尾汤	10
+xian liang ci	贤良祠	10
+xian ning cui xia qiu	鲜柠脆虾球	10
+xian wen di	献文帝	10
+xian yang nang xing ai	腺样囊性癌	10
+xian bu chang hou chai qian	先补偿后拆迁	9
+xian dai nong zhuang	现代农装	9
+xian he lu	仙鹤路	9
+xian jia	咸家	9
+xian jin ju wei hui	先进居委会	9
+xian lin chang	县林场	9
+xian tang	咸塘	9
+xian tian xing feng zhen zong he zheng	先天性风疹综合征	9
+xian xiao hu tong	先晓胡同	9
+xian dao	显道	8
+xian dong lu	县东路	8
+xian dou miao	鲜豆苗	8
+xian fei	贤妃	8
+xian gang	蚬冈	8
+xian piao ling he gan	腺嘌呤核苷	8
+xian rou mao er duo	鲜肉猫耳朵	8
+xian shou qi	限售期	8
+xian zuo shuo xuan zong	闲坐说玄宗	8
+xian chang jiang zhi wu qiong	羡长江之无穷	7
+xian guo yin er	鲜果银耳	7
+xian he shui ku	县河水库	7
+xian jian hang	县建行	7
+xian mi xiang	仙米乡	7
+xian nai mo gu	鲜奶蘑菇	7
+xian shi da sha	先施大厦	7
+xian tian xing dong mai liu	先天性动脉瘤	7
+xian tian xing duo mao zheng	先天性多毛症	7
+xian wei nai you tang	咸味奶油糖	7
+xian you zi zhi	鲜柚子汁	7
+xian zhuang	仙庄	7
+xian chu bu xu kan	险处不须看	6
+xian feng	先丰	6
+xian hua luo di ting wu sheng	闲花落地听无声	6
+xian jing ji ji shu kai fa qu	县经济技术开发区	6
+xian ju su	鲜菊酥	6
+xian lin shan shui	闲林山水	6
+xian mei	仙美	6
+xian nai yu	鲜奶鱼	6
+xian tian xing lou dou xiong	先天性漏斗胸	6
+xian tian xing wu hong mo	先天性无虹膜	6
+xian wei hou jing jian cha	纤维喉镜检查	6
+xian wei ruan gu	纤维软骨	6
+xian bai he jian niang lv dou	鲜百合煎酿绿豆	5
+xian dong	仙东	5
+xian feng lu jie dao	咸丰路街道	5
+xian jing cun	仙境村	5
+xian lai chui diao bi xi shang	闲来垂钓碧溪上	5
+xian le xiong jiao nang	仙乐雄胶囊	5
+xian liu yang xi rou	腺瘤样息肉	5
+xian ma	仙妈	5
+xian qiao jie	仙桥街	5
+xian ren ban ban	先人板板	5
+xian rou zha cai yue bing	鲜肉榨菜月饼	5
+xian tian xing fei nang zhong	先天性肺囊肿	5
+xian tian xing tuo fa	先天性脱发	5
+xian tian xing yan qiu zhen chan	先天性眼球震颤	5
+xian tong nan lu	咸通南路	5
+xian xian zhuo su shou	纤纤擢素手	5
+xian yu yue ting ji	鲜鱼曰脡祭	5
+xian yun tan ying ri you you	闲云潭影日悠悠	5
+xian zhang kao shi tiao li	县长考试条例	5
+xian zheng zhe	先证者	5
+xian bi yi zhi shui yu shi	纤笔一枝谁与似	4
+xian chao yu pian	鲜炒鱼片	4
+xian dai jiao yu	现代教育	4
+xian dai yu ye xin xi	现代渔业信息	4
+xian di chuang ye wei ban	先帝创业未半	4
+xian gong shan	仙公山	4
+xian gu yi sheng shuang xiu ju	弦鼓一声双袖举	4
+xian jia	仙夹	4
+xian jia cun	贤家村	4
+xian jiang	仙江	4
+xian le feng piao chu chu wen	仙乐风飘处处闻	4
+xian li kou fu ye	仙藜口服液	4
+xian ning hou	咸宁侯	4
+xian qian xiao gu chang	先遣小姑尝	4
+xian ren you dai cheng huang he	仙人有待乘黄鹤	4
+xian shi cun	仙石村	4
+xian tai ge li	宪台格例	4
+xian tian xing shi guan xia zhai	先天性食管狭窄	4
+xian tian xing yin dao bi suo	先天性阴道闭锁	4
+xian xi	咸熙	4
+xian zhi xing xin ji bing	限制性心肌病	4
+xian zhu niu rou	鲜竹牛肉	4
+xian dai kou qiang zhong zhi xue	现代口腔种植学	3
+xian di bu yi chen bei bi	先帝不以臣卑鄙	3
+xian dou cun	仙都村	3
+xian fa ji qi xiang guan fa	宪法及其相关法	3
+xian feng	仙凤	3
+xian feng cun	仙凤村	3
+xian gan dan an suan	腺苷蛋氨酸	3
+xian gong miao	仙公庙	3
+xian guo geng	鲜果羹	3
+xian guo xian tang yuan	鲜果馅汤元	3
+xian hui yao zu xiang	仙回瑶族乡	3
+xian jia cun	仙家村	3
+xian jiao nen zi ji	鲜椒嫩仔鸡	3
+xian long xiang	显龙乡	3
+xian nai pao fu	鲜奶泡夫	3
+xian niu nai zhu yu	鲜牛奶煮鱼	3
+xian rou chao shou	鲜肉抄手	3
+xian shou	现手	3
+xian tang xiang	羡塘乡	3
+xian ti fei da	腺体肥大	3
+xian tian xing hou bi kong bi suo	先天性后鼻孔闭锁	3
+xian tian xing hou chuan ming	先天性喉喘鸣	3
+xian tian xing kuan tuo wei	先天性髋脱位	3
+xian tian xing shen nang zhong	先天性肾囊肿	3
+xian tian xing zu ji xing	先天性足畸形	3
+xian wei liu bing	纤维瘤病	3
+xian yang shi fan	咸阳师范	3
+xian yang you xia duo shao nian	咸阳游侠多少年	3
+xian yu qian zai zhi shui shi	贤愚千载知谁是	3
+xian yu shu	鲜于枢	3
+xian zhe liang zhi chi zai shou	闲折两枝持在手	3
+xian an jian	酰胺键	2
+xian dai jia ju guang chang	现代家具广场	2
+xian dai mu	显带目	2
+xian dai shang ye yin hang	现代商业银行	2
+xian dai zhuang huang shi chang	现代装潢市场	2
+xian de jin biao di yi gui	衔得锦标第一归	2
+xian dian chang	县电厂	2
+xian du shi ka fei	仙度氏咖啡	2
+xian feng dao gu jin shui you	仙风道骨今谁有	2
+xian feng xiang	先峰乡	2
+xian gan gu an pian	腺苷钴胺片	2
+xian hou	县侯	2
+xian jia quan fei bai yun jian	仙家犬吠白云间	2
+xian ju fei wu zhi	闲居非吾志	2
+xian lai wu shi bu cong rong	闲来无事不从容	2
+xian lian chao zi ji	鲜莲炒子鸡	2
+xian ling cun	仙岭村	2
+xian nv tan	仙女滩	2
+xian qi xian e jie bao zhi du	限期险额结报制度	2
+xian qing	咸清	2
+xian ren wang zi qiao	仙人王子乔	2
+xian ren zhuang jie dao	仙人庄街道	2
+xian shan jie dao	弦山街道	2
+xian shi	涎石	2
+xian tian xing zhu dong mai suo zhai	先天性主动脉缩窄	2
+xian wang you bu ren ren zhi xin	先王有不忍人之心	2
+xian wei ban kuai	纤维斑块	2
+xian wei jie pou	显微解剖	2
+xian wei lian jie dan bai	纤维连接蛋白	2
+xian wu ju	线务局	2
+xian xia xin cun	仙霞新村	2
+xian yang cun	仙阳村	2
+xian yang gu dao yin chen jue	咸阳古道音尘绝	2
+xian yang shi zhong tan huang quan	咸阳市中叹黄犬	2
+xian ying qu mao zei	先应去蟊贼	2
+xian yu jia gua bao	咸鱼茄瓜煲	2
+xian yuan xiang	先源乡	2
+xian zha li er hou ren yi	先诈力而后仁义	2
+xian zhe shi qi da zhe	贤者识其大者	2
+xian zhi ri yue zhang	闲知日月长	2
+xian zuo bei jun yi zi bei	闲坐悲君亦自悲	2
+xian bao chun lai zao	先报春来早	1
+xian bao pi pa xun	闲抱琵琶寻	1
+xian bei dong gua qiu	鲜贝冬瓜球	1
+xian bi yi zhi gong lin	羡比翼之共林	1
+xian cai hong lv se dian	苋菜红铝色淀	1
+xian cai huang lian su jiao nang	苋菜黄连素胶囊	1
+xian cheng shu sha	仙城束沙	1
+xian chou ru fei xue	闲愁如飞雪	1
+xian chun yuan da jie	先春园大街	1
+xian cong shu dang tu zai yang bing	献从叔当涂宰阳冰	1
+xian dai fen lei xue jia gei	现代分类学家给	1
+xian dao bei ce	县道北侧	1
+xian dao duo jia yan	仙道多驾烟	1
+xian dao nan ce	县道南侧	1
+xian di cheng zhi yue neng	先帝称之曰能	1
+xian fang huo ming yin	仙方活命饮	1
+xian feng dao jie dao	先锋道街道	1
+xian ge ning er bai yun e	纤歌凝而白云遏	1
+xian ha mi gua zhi	鲜哈蜜瓜汁	1
+xian he wang jin qiao	仙鹤望金桥	1
+xian hua dan dan chun	闲花淡淡春	1
+xian hua teng luo bing	鲜花藤萝饼	1
+xian ji bei sheng fa	弦急悲声发	1
+xian jia zhuang	咸家庄	1
+xian jiao ya mu	显角亚目	1
+xian jie yi ri nei	仙界一日内	1
+xian jin yu li yue	先进于礼乐	1
+xian jing cun	显径村	1
+xian jing cun	仙景村	1
+xian ju san shi zai	闲居三十载	1
+xian ju yao lu jin	先据要路津	1
+xian kan er tong zhuo liu hua	闲看儿童捉柳花	1
+xian lin ba liu	腺淋巴瘤	1
+xian lv tong zhou wan geng yi	仙侣同舟晚更移	1
+xian mei cun	仙美村	1
+xian men bai ri wu chen tu	县门白日无尘土	1
+xian mo chao rou pian	鲜蘑炒肉片	1
+xian mo zheng ji	鲜蘑蒸鸡	1
+xian nai yu rong geng	鲜奶鱼茸羹	1
+xian ni chao jun wu	衔泥巢君屋	1
+xian ni dian wu qin shu nei	衔泥点污琴书内	1
+xian ning zhi yan sheng ting chu	弦凝指咽声停处	1
+xian nv nian	仙女鲶	1
+xian ping yin zi zu	弦平音自足	1
+xian qiang yan ling	先强严灵	1
+xian ren chui liang zu	仙人垂两足	1
+xian ren qi bai lu	仙人骑白鹿	1
+xian ren qi shu bai wu se	仙人琪树白无色	1
+xian ren yi fei zi	闲人亦非訾	1
+xian rou xiang gu shao mai	鲜肉香菇烧麦	1
+xian se xi bao ai	嫌色细胞癌	1
+xian sheng bu zhi he xu ren ye	先生不知何许人也	1
+xian sheng ji yi yin	贤圣既已饮	1
+xian sheng mu xu pan	先生苜蓿盘	1
+xian shi bing	涎石病	1
+xian shi hu guan wei hui	贤士湖管委会	1
+xian shi xiu jiu	仙石秀久	1
+xian shi you yi xun	先师有遗训	1
+xian shou li shang xu duan mi fang	仙授理伤续断秘方	1
+xian shui gu zhen jian guo da jie	咸水沽镇建国大街	1
+xian shui gu zhen ti yu chang lu	咸水沽镇体育场路	1
+xian sui fa chun xi	献岁发春兮	1
+xian suo xi bao	线索细胞	1
+xian tai ba xiang	仙台坝乡	1
+xian tang nong chang	仙塘农场	1
+xian tang she qu	仙塘社区	1
+xian tian bao can	咸甜薄餐	1
+xian tian xing bin gu tuo wei	先天性髌骨脱位	1
+xian tian xing chui zhi ju gu	先天性垂直距骨	1
+xian tian xing dai xie que xian	先天性代谢缺陷	1
+xian tian xing er qian lou guan	先天性耳前瘘管	1
+xian tian xing fei dong jing mai lou	先天性肺动静脉瘘	1
+xian tian xing fei fa yu bu quan	先天性肺发育不全	1
+xian tian xing feng zhen zong he zheng	先天性风疹综合症	1
+xian tian xing gan nang zhong	先天性肝囊肿	1
+xian tian xing hou pu	先天性喉蹼	1
+xian tian xing ji bing	先天性肌病	1
+xian tian xing ji qiang zhi	先天性肌强直	1
+xian tian xing jian nei fan	先天性睑内翻	1
+xian tian xing jing zhuang ti tuo wei	先天性晶状体脱位	1
+xian tian xing kuan nei fan	先天性髋内翻	1
+xian tian xing que ya	先天性缺牙	1
+xian tian xing se zhi	先天性色痣	1
+xian tian xing tu fa	先天性秃发	1
+xian wang zhi qu lu ye	先王之蘧庐也	1
+xian wang zhuang cun	贤王庄村	1
+xian wei da xia	鲜味大虾	1
+xian wei she ying shu	显微摄影术	1
+xian wei su yan sheng wu	纤维素衍生物	1
+xian wei wai ke shu	显微外科术	1
+xian wei xing gu yan	纤维性骨炎	1
+xian wu yi ye bai tou weng	掀舞一叶白头翁	1
+xian xia ba dou miao	鲜虾扒豆苗	1
+xian xian chu su shou	纤纤出素手	1
+xian xian sheng shuo tao hua yuan	先贤盛说桃花源	1
+xian xian su shou ru shuang xue	纤纤素手如霜雪	1
+xian xian yan yi sheng sheng si	弦弦掩抑声声思	1
+xian xiao geng wu ding	县小更无丁	1
+xian yan	腺炎	1
+xian yang chang	县羊场	1
+xian yang fang zhi ji xie chang	咸阳纺织机械厂	1
+xian yao zhu niu rou	鲜瑶柱牛肉	1
+xian yi jin dai feng	仙衣尽带风	1
+xian yin yuan yang xiang jing li	闲引鸳鸯香径里	1
+xian yu xian ren sao luo hua	闲与仙人扫落花	1
+xian yuan cun	仙苑村	1
+xian yun si juan tian wu he	纤云四卷天无河	1
+xian zhe bu gou he	贤哲不苟合	1
+xian zhen su	咸真酥	1
+xian zheng zhe xue wen ti yao lun	宪政哲学问题要论	1
+xian zhuang xiang	仙庄乡	1
+xian zuo ye ming yue	闲坐夜明月	1
+xian bo ye e	显卜夜蛾	0
+xian chi e	娴尺蛾	0
+xian chong bei xing shan hu	线虫杯形珊瑚	0
+xian di chi e	闲涤尺蛾	0
+xian dian lan hui die	显点蓝灰蝶	0
+xian ding mao jiao chan	显顶矛角蝉	0
+xian dong shan bei zhu	鲜冻扇贝柱	0
+xian gou ping bei lu zhong	显沟平背露螽	0
+xian he di diao	显赫笛鲷	0
+xian he fu shuang bian yu	显赫副双边鱼	0
+xian he mo tou yu	显赫墨头鱼	0
+xian he ni shan xie	显赫拟扇蟹	0
+xian he tun dian zhi li	显赫臀点脂鲤	0
+xian hong mao jiao hua tian niu	鲜红毛角花天牛	0
+xian hun zhou e	显昏舟蛾	0
+xian jian jiao huang	线剑角蝗	0
+xian jiao ye chi e	显角叶尺蛾	0
+xian ju deng yu	腺炬灯鱼	0
+xian lan ji zhang jiao jin gui	鲜蓝姬长脚金龟	0
+xian lu chi e	鲜鹿尺蛾	0
+xian mai shi wei	显脉石韦	0
+xian mao da wei sao	纤毛大尾溞	0
+xian mu qu mai mu shi	蚬木曲脉木虱	0
+xian ning guang dong	咸宁广东	0
+xian nuo shi yu luo	仙诺氏芋螺	0
+xian nv ci gai yu	仙女刺盖鱼	0
+xian nv shui mu shu	仙女水母属	0
+xian nv xie ling	仙女蝎蛉	0
+xian qiu tuo	线鳅鮀	0
+xian quan yu luo	线圈芋螺	0
+xian ren zhang di que	仙人掌地雀	0
+xian ren zhang dian shi chong	仙人掌滇氏虫	0
+xian ren zhang ka na zao niao	仙人掌卡纳灶鸟	0
+xian ren zhang ying ge	仙人掌鹦哥	0
+xian shui xiao gua chong	咸水小瓜虫	0
+xian wei zhu ru niao	线尾侏儒鸟	0
+xian wei zhui chi qian yu	纤尾锥齿潜鱼	0
+xian wen da wen dian man	线纹大吻电鳗	0
+xian wen duan wei xiao hai long	线纹短尾小海龙	0
+xian yue ku ye e	弦月枯叶蛾	0
+xian zhang bing jian feng	显长柄茧蜂	0
+xian zhang jiao pi liu e	显长角皮瘤蛾	0
+xian zhi zui hong gao da zha xie	鲜之醉红膏大闸蟹	0

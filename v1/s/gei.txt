@@ -1,0 +1,656 @@
+gei wo	给我	500468
+gei ni	给你	500352
+gei ta	给他	500267
+gei ren	给人	327020
+gei nin	给您	307260
+gei wo men	给我们	291720
+gei ta	给她	275100
+gei le	给了	272970
+gei chu	给出	250925
+gei zi ji	给自己	233970
+gei da jia	给大家	188580
+gei ta men	给他们	141605
+gei le wo	给了我	88280
+gei hai zi	给孩子	86445
+gei ni men	给你们	79185
+gei de	给的	73805
+gei xue sheng	给学生	72890
+gei ta	给它	72650
+gei ren yi	给人以	68595
+gei bie ren	给别人	55495
+gei yong hu	给用户	51260
+gei le ta	给了他	51145
+gei ding	给定	51130
+gei ke hu	给客户	45940
+gei yao	给药	40760
+gei dui fang	给对方	40575
+gei ni dai lai	给你带来	36525
+gei wo liu yan	给我留言	33270
+gei yi	给以	32325
+gei wo men dai lai	给我们带来	30160
+gei qian	给钱	27110
+gei shei	给谁	24975
+gei shui	给谁	24975
+gei dian	给点	20310
+gei wo da dian hua	给我打电话	20095
+gei peng you	给朋友	19925
+gei le ni	给了你	19045
+gei ren liu xia	给人留下	17115
+gei ren dai lai	给人带来	16585
+gei fen	给分	14580
+gei ni kan	给你看	13475
+gei guo	给过	13110
+gei hai zi men	给孩子们	10665
+gei mai	给买	10220
+gei ge	给个	9999
+gei wo liu xia	给我留下	9215
+gei ni ting	给你听	8410
+gei ni ge	给你个	8275
+gei ya	给呀	7777
+gei wo ba	给我吧	7420
+gei wo jiang	给我讲	7020
+gei mu qin	给母亲	6985
+gei nv ren	给女人	5980
+gei bu	给不	5555
+gei bu liao ni	给不了你	5555
+gei bu liao ni xing fu	给不了你幸福	5555
+gei wo kan kan	给我看看	5365
+gei zu	给足	5210
+gei wo gun	给我滚	5200
+gei dian yi jian	给点意见	5120
+gei nin zao cheng	给您造成	5115
+gei jia zhang	给家长	5080
+gei ren yin xiang	给人印象	5040
+gei kan	给看	4940
+gei wo dian hua	给我电话	4870
+gei mian zi	给面子	4470
+gei mei ge ren	给每个人	4355
+gei chi	给吃	4330
+gei xie	给些	4285
+gei bu liao	给不了	4075
+gei mai jia	给卖家	3990
+gei liao	给料	3795
+gei dian	给电	3675
+gei dao	给到	3560
+gei gei	给给	3333
+gei gei gei	给给给	3333
+gei pian	给骗	3333
+gei sha	给啥	3333
+gei sha le	给啥了	3333
+gei ye	给爷	3333
+gei ni xing fu	给你幸福	3265
+gei ni shen me	给你什么	3145
+gei liao ji	给料机	3030
+gei duo shao	给多少	2960
+gei wo a	给我啊	2410
+gei jia	给假	2330
+gei ni kan kan	给你看看	2300
+gei da huo	给大伙	2190
+gei ni de ai	给你的爱	2050
+gei qi	给起	1820
+gei xiao fei	给小费	1685
+gei ding zhi	给定值	1680
+gei ni de xin	给你的信	1600
+gei gai gong si	给该公司	1480
+gei wo xiao xi	给我消息	1460
+gei ta men	给她们	1416
+gei de shi	给的是	1375
+gei hui kou	给回扣	1300
+gei dian qian	给点钱	1255
+gei de	给得	1180
+gei huan	给换	1111
+gei mao wei shi	给猫喂食	1111
+gei pian	给片	1111
+gei sha le	给杀了	1111
+gei xia	给下	1111
+gei zheng	给整	1111
+gei lian	给脸	1080
+gei zheng ce	给政策	1005
+gei hai zi he	给孩子喝	995
+gei li	给力	940
+gei wo de hua	给我的话	812
+gei bu qi	给不起	800
+gei jiang	给奖	765
+gei lian bu yao lian	给脸不要脸	760
+gei wo qi de	给我气的	750
+gei ni ma	给你妈	719
+gei zi ji jia	给自己加	668
+gei jia	给价	665
+gei wo ma	给我吗	592
+gei bu chu	给不出	520
+gei dian li	给点力	480
+gei li a	给力啊	480
+gei li de	给力的	480
+gei li le	给力了	480
+gei li ya	给力呀	480
+gei nv shi	给女士	480
+gei bao chou	给报酬	440
+gei ni men le	给你们了	415
+gei ni da dian hua	给你打电话	393
+gei qian mian	给前面	380
+gei ni zhuan	给你转	341
+gei yi zhi chi	给以支持	325
+gei gou qian	给够钱	324
+gei wo ba	给我爸	293
+gei you	给油	256
+gei ding shi jian	给定时间	245
+gei ni zhang	给你张	230
+gei fang an	给方案	228
+gei ni mai ge	给你买个	218
+gei xu dian chi chong dian	给蓄电池充电	210
+gei yi jian	给意见	200
+gei wo yi shou ge de shi jian	给我一首歌的时间	196
+gei de qi	给得起	195
+gei ding ri qi	给定日期	195
+gei ni li wu	给你礼物	193
+gei hao you	给好友	192
+gei wo bi zui	给我闭嘴	184
+gei ba ba ma ma	给爸爸妈妈	177
+gei li qing chun	给力青春	177
+gei li fen	给力芬	176
+gei chuan shang	给穿上	175
+gei wo de ai	给我的爱	175
+gei xin hao	给信号	175
+gei ge hao ping	给个好评	164
+gei ni yi ge jia	给你一个家	160
+gei lao ye	给姥爷	156
+gei gu du yuan	给孤独园	153
+gei zi ji de ge	给自己的歌	152
+gei ni zi you	给你自由	151
+gei wo ba qiang	给我把枪	148
+gei ge jia ge	给个价格	146
+gei wo yi dao	给我一刀	144
+gei ge lian jie	给个链接	143
+gei gai shang	给盖上	140
+gei ba ba	给爸爸	129
+gei quan li	给权力	125
+gei wo yi shou ge	给我一首歌	123
+gei shou ju	给收据	120
+gei ya	给丫	111
+gei nv hai	给女孩	108
+gei wo mai li wu	给我买礼物	102
+gei ai li si de qi ji	给爱丽丝的奇迹	100
+gei ba ba de yi feng xin	给爸爸的一封信	100
+gei ba le	给拔了	100
+gei bao bao	给宝宝	100
+gei bu chu a	给不出啊	100
+gei bu gei	给不给	100
+gei bu gei a	给不给啊	100
+gei bu gei mian zi	给不给面子	100
+gei bu gei ni	给不给你	100
+gei bu gei ta	给不给他	100
+gei bu gei wo	给不给我	100
+gei bu gei zheng	给不给整	100
+gei cai li	给彩礼	100
+gei cha ping	给差评	100
+gei chai le	给拆了	100
+gei chu le	给出了	100
+gei dai wai le	给带歪了	100
+gei dang ting	给党听	100
+gei de bu duo	给得不多	100
+gei de bu shao	给得不少	100
+gei de dan zi	给的胆子	100
+gei de duo	给得多	100
+gei de geng duo	给得更多	100
+gei de geng shao	给得更少	100
+gei de qian	给的钱	100
+gei de shao	给得少	100
+gei de zui duo	给得最多	100
+gei de zui shao	给得最少	100
+gei di er ci	给第二次	100
+gei dian can kao	给点参考	100
+gei dian can kao ba	给点参考吧	100
+gei dian er	给点儿	100
+gei dian er can kao	给点儿参考	100
+gei dian er can kao ba	给点儿参考吧	100
+gei dian er jian yi	给点儿建议	100
+gei dian er jian yi ba	给点儿建议吧	100
+gei dian er li	给点儿力	100
+gei dian er qian	给点儿钱	100
+gei dian er qian ba	给点儿钱吧	100
+gei dian jian yi	给点建议	100
+gei dian jian yi a	给点建议啊	100
+gei dian jian yi ba	给点建议吧	100
+gei dian mian zi	给点面子	100
+gei dian mian zi ma	给点面子嘛	100
+gei dian qian ba	给点钱吧	100
+gei dian xiao fei	给点小费	100
+gei dian yi xia	给点一下	100
+gei duo shao hong bao	给多少红包	100
+gei duo shao qian	给多少钱	100
+gei er zi	给儿子	100
+gei fan kai	给翻开	100
+gei fen si	给粉丝	100
+gei fen zi	给份子	100
+gei fen zi qian	给份子钱	100
+gei fu huo le	给俘获了	100
+gei ge cha ping	给个差评	100
+gei ge ji hui	给个机会	100
+gei ge jian yi ba	给个建议吧	100
+gei ge mian zi	给个面子	100
+gei ge pi fu	给个皮肤	100
+gei ge shuo fa	给个说法	100
+gei ge wu xing hao ping	给个五星好评	100
+gei guan le	给关了	100
+gei guan shang	给关上	100
+gei gui le	给跪了	100
+gei guo ni ji hui	给过你机会	100
+gei hai shi bu gei	给还是不给	100
+gei hao ping	给好评	100
+gei hu you le	给忽悠了	100
+gei huan le	给换了	100
+gei ji ge	给几个	100
+gei jia zhang de yi feng xin	给家长的一封信	100
+gei jin er	给劲儿	100
+gei jin le	给禁了	100
+gei ju bao	给举报	100
+gei ju bao le	给举报了	100
+gei ju tong kuai hua	给句痛快话	100
+gei kai le	给开了	100
+gei kan jian le	给看见了	100
+gei kuai le jia you	给快乐加油	100
+gei lao lao	给姥姥	100
+gei lao shi de yi feng xin	给老师的一封信	100
+gei lao shi men	给老师们	100
+gei le hong bao	给了红包	100
+gei le qian	给了钱	100
+gei le qian hou	给了钱后	100
+gei le qian le	给了钱了	100
+gei le ta men	给了他们	100
+gei le ta men yi fen	给了他们一份	100
+gei le wo ji hui	给了我机会	100
+gei le wo men	给了我们	100
+gei le wo yi zhang	给了我一张	100
+gei li dian	给力点	100
+gei li dian er	给力点儿	100
+gei li wu	给礼物	100
+gei li xiao zi	给力小子	100
+gei lian jie	给链接	100
+gei ma ma de yi feng xin	给妈妈的一封信	100
+gei mai le	给卖了	100
+gei nan peng you	给男朋友	100
+gei ni ba ma	给你爸妈	100
+gei ni bai ge zao nian	给你拜个早年	100
+gei ni bai nian	给你拜年	100
+gei ni bao	给你包	100
+gei ni bao xiao	给你报销	100
+gei ni biao yan ge	给你表演个	100
+gei ni biao yan yi ge	给你表演一个	100
+gei ni cai cai	给你踩踩	100
+gei ni cha cha	给你查查	100
+gei ni chang shou ge	给你唱首歌	100
+gei ni chao	给你抄	100
+gei ni chi	给你吃	100
+gei ni chi tang	给你吃糖	100
+gei ni chi zhe ge	给你吃这个	100
+gei ni da an	给你答案	100
+gei ni da de	给你打的	100
+gei ni da dian hua ba	给你打电话吧	100
+gei ni da dian hua le	给你打电话了	100
+gei ni da ge	给你打个	100
+gei ni da ge dian hua	给你打个电话	100
+gei ni da guo qu	给你打过去	100
+gei ni da yi dun	给你打一顿	100
+gei ni dai yi ge	给你带一个	100
+gei ni de	给你的	100
+gei ni de qi shi	给你的启示	100
+gei ni dian nai cha	给你点奶茶	100
+gei ni dian yi ge	给你点一个	100
+gei ni dou di	给你兜底	100
+gei ni duo shao	给你多少	100
+gei ni fa dian hua	给你发电话	100
+gei ni fa duan xin	给你发短信	100
+gei ni fa ge	给你发个	100
+gei ni fa guo qu	给你发过去	100
+gei ni fa guo qu le	给你发过去了	100
+gei ni fa xiao xi	给你发消息	100
+gei ni fa xin xi	给你发信息	100
+gei ni fa yi ge	给你发一个	100
+gei ni fang ge	给你放个	100
+gei ni feng le	给你封了	100
+gei ni gao	给你搞	100
+gei ni ge da bi dou	给你个大逼兜	100
+gei ni ge ji hui	给你个机会	100
+gei ni ge jia	给你个家	100
+gei ni ge jian yi	给你个建议	100
+gei ni ge jian yi ba	给你个建议吧	100
+gei ni ge jiao xun	给你个教训	100
+gei ni ge jing xi	给你个惊喜	100
+gei ni ge mian zi	给你个面子	100
+gei ni gui le	给你跪了	100
+gei ni hui ying	给你回应	100
+gei ni ji hui	给你机会	100
+gei ni ji hui jie shi	给你机会解释	100
+gei ni jia fen	给你加分	100
+gei ni jia you	给你加油	100
+gei ni jiang ge gu shi	给你讲个故事	100
+gei ni jiang jiang wen	给你降降温	100
+gei ni jie shao	给你介绍	100
+gei ni jie shao guo	给你介绍过	100
+gei ni jie shao yi xia	给你介绍一下	100
+gei ni jie wan a	给你姐玩吖	100
+gei ni kan ba	给你看吧	100
+gei ni kan ge	给你看个	100
+gei ni kan xue	给你看雪	100
+gei ni kou fen	给你扣分	100
+gei ni kuai le	给你快乐	100
+gei ni lai yi ge	给你来一个	100
+gei ni le	给你了	100
+gei ni le ma	给你了嘛	100
+gei ni lian	给你脸	100
+gei ni lian dan	给你炼丹	100
+gei ni lian la	给你脸啦	100
+gei ni lian le	给你脸了	100
+gei ni lian le shi ba	给你脸了是吧	100
+gei ni lian le shi bu shi	给你脸了是不是	100
+gei ni liang quan	给你两拳	100
+gei ni liu yan	给你留言	100
+gei ni ma	给你吗	100
+gei ni mai li wu	给你买礼物	100
+gei ni mai nai cha	给你买奶茶	100
+gei ni mai pi fu	给你买皮肤	100
+gei ni men fa	给你们发	100
+gei ni men jie shao	给你们介绍	100
+gei ni men jie shao yi xia	给你们介绍一下	100
+gei ni men yi ge	给你们一个	100
+gei ni mian zi	给你面子	100
+gei ni na dian	给你拿点	100
+gei ni nai nai	给你奶奶	100
+gei ni nuan nuan	给你暖暖	100
+gei ni nv peng you	给你女朋友	100
+gei ni pai zhao	给你拍照	100
+gei ni qin	给你亲	100
+gei ni qin yi xia	给你亲一下	100
+gei ni san tian	给你三天	100
+gei ni san tian shi jian	给你三天时间	100
+gei ni sao	给你扫	100
+gei ni shuo de	给你说得	100
+gei ni shuo fa	给你说法	100
+gei ni shuo ge shi	给你说个事	100
+gei ni shuo ma	给你说嘛	100
+gei ni song guo qu	给你送过去	100
+gei ni song hua	给你送花	100
+gei ni song li wu	给你送礼物	100
+gei ni tian luan	给你添乱	100
+gei ni tian ma fan	给你添麻烦	100
+gei ni ya	给你呀	100
+gei ni yang le	给你扬了	100
+gei ni yao shi	给你钥匙	100
+gei ni yi	给你一	100
+gei ni yi ci ji hui	给你一次机会	100
+gei ni yi dian	给你一点	100
+gei ni yi duo	给你一朵	100
+gei ni yi ge	给你一个	100
+gei ni yi ge ji hui	给你一个机会	100
+gei ni yi ge ren	给你一个人	100
+gei ni yi ge zhong gao	给你一个忠告	100
+gei ni yi kuai qian	给你一块钱	100
+gei ni yi zhang	给你一张	100
+gei ni yi zhong	给你一种	100
+gei ni zhang lian	给你长脸	100
+gei ni zhu li	给你助力	100
+gei ni zhun bei	给你准备	100
+gei ni zhun bei le	给你准备了	100
+gei ni zui hou	给你最后	100
+gei ni zui hou yi fen zhong	给你最后一分钟	100
+gei ni zuo de	给你做的	100
+gei ni zuo fan	给你做饭	100
+gei nin shuo fa	给您说法	100
+gei nin tian ma fan	给您添麻烦	100
+gei nv peng you	给女朋友	100
+gei pian le	给骗了	100
+gei po fang	给破防	100
+gei qi pian le	给起骗了	100
+gei qian dou bu	给钱都不	100
+gei ren dang gou	给人当狗	100
+gei ren jia	给人家	100
+gei ren yi zhong	给人一种	100
+gei ren zhang lian	给人长脸	100
+gei shan le	给删了	100
+gei shan le ma	给删了吗	100
+gei she qu	给社区	100
+gei sheng ming yi shi guang	给生命以时光	100
+gei shi guang yi sheng ming	给时光以生命	100
+gei sui yue yi wen ming	给岁月以文明	100
+gei suo you ren	给所有人	100
+gei ta ai	给他爱	100
+gei ta da dian hua	给他打电话	100
+gei ta de	给她的	100
+gei ta ge	给他个	100
+gei ta ge ji hui	给他个机会	100
+gei ta ge mian zi	给他个面子	100
+gei ta hui ying	给他回应	100
+gei ta hui ying	给她回应	100
+gei ta kan	给她看	100
+gei ta liang ba zhang	给他两巴掌	100
+gei ta shi jian	给他时间	100
+gei ta song	给他送	100
+gei ta song zou	给他送走	100
+gei ta ti le	给他踢了	100
+gei ta tian luan	给他添乱	100
+gei ta tian luan	给她添乱	100
+gei ta xi wang	给他希望	100
+gei ta yi dian	给他一点	100
+gei ta yi dian	给她一点	100
+gei ta yi dian	给它一点	100
+gei ta yi ge	给他一个	100
+gei ta yi ge ji hui	给他一个机会	100
+gei tang chi	给糖吃	100
+gei tiao huo lu	给条活路	100
+gei tui jian	给推荐	100
+gei tui jian yi xia	给推荐一下	100
+gei wai gong	给外公	100
+gei wang le	给忘了	100
+gei wen ming yi sui yue	给文明以岁月	100
+gei wo ba ma	给我爸妈	100
+gei wo bi shang	给我闭上	100
+gei wo bian	给我变	100
+gei wo chi	给我吃	100
+gei wo chi dao	给我迟到	100
+gei wo chu qu	给我出去	100
+gei wo da an	给我答案	100
+gei wo da dian hua ba	给我打电话吧	100
+gei wo da dian hua le	给我打电话了	100
+gei wo da ge dian hua	给我打个电话	100
+gei wo da guo lai	给我打过来	100
+gei wo da qian	给我打钱	100
+gei wo dai	给我带	100
+gei wo de	给我的	100
+gei wo de qi shi	给我的启示	100
+gei wo deng zhe	给我等着	100
+gei wo dian ge	给我点个	100
+gei wo dian shi jian	给我点时间	100
+gei wo dian xia	给我点下	100
+gei wo dong de	给我冻得	100
+gei wo dou di	给我兜底	100
+gei wo dui xiang	给我对象	100
+gei wo fa	给我发	100
+gei wo fa duan xin	给我发短信	100
+gei wo fa ge duan xin	给我发个短信	100
+gei wo fa ge hong bao	给我发个红包	100
+gei wo fa ge xin xi	给我发个信息	100
+gei wo fa guo lai	给我发过来	100
+gei wo fa le	给我发了	100
+gei wo fa xia	给我发下	100
+gei wo fa xin xi	给我发信息	100
+gei wo fa yi ge	给我发一个	100
+gei wo fan guo lai	给我翻过来	100
+gei wo fang kai	给我放开	100
+gei wo feng le	给我封了	100
+gei wo gan cui	给我干脆	100
+gei wo gan jue	给我感觉	100
+gei wo ge ji hui	给我个机会	100
+gei wo ge li you	给我个理由	100
+gei wo ge mian zi	给我个面子	100
+gei wo gu li	给我鼓励	100
+gei wo guan shang	给我关上	100
+gei wo gui mi	给我闺蜜	100
+gei wo he yi kou	给我喝一口	100
+gei wo hui dian hua	给我回电话	100
+gei wo hui ge dian hua	给我回个电话	100
+gei wo hui lai	给我回来	100
+gei wo hui ying	给我回应	100
+gei wo jiang ge	给我讲个	100
+gei wo jiang yi ge	给我讲一个	100
+gei wo jiao	给我叫	100
+gei wo jie shao ge	给我介绍个	100
+gei wo jie shao guo	给我介绍过	100
+gei wo jing xi	给我惊喜	100
+gei wo jiu hao	给我就好	100
+gei wo kai le	给我开了	100
+gei wo kai yan le	给我开眼了	100
+gei wo kan	给我看	100
+gei wo kan ba	给我看吧	100
+gei wo kan hao le	给我看好了	100
+gei wo kan le le	给我看乐了	100
+gei wo kan xiao le	给我看笑了	100
+gei wo kan yi xia a	给我看一下啊	100
+gei wo kou	给我口	100
+gei wo lai yi bei	给我来一杯	100
+gei wo li wu	给我礼物	100
+gei wo liang zhang	给我两张	100
+gei wo liu	给我留	100
+gei wo liu dian	给我留点	100
+gei wo liu dian er	给我留点儿	100
+gei wo liu ge	给我留个	100
+gei wo ma	给我嘛	100
+gei wo mai nai cha	给我买奶茶	100
+gei wo men jing xi	给我们惊喜	100
+gei wo men zhang lian	给我们长脸	100
+gei wo mian zi	给我面子	100
+gei wo pa	给我爬	100
+gei wo pai pai	给我拍拍	100
+gei wo pai yi ge	给我拍一个	100
+gei wo peng you	给我朋友	100
+gei wo qin yi xia	给我亲一下	100
+gei wo rang kai	给我让开	100
+gei wo sao yi xia	给我扫一下	100
+gei wo sha	给我杀	100
+gei wo shang lai	给我上来	100
+gei wo shang qu	给我上去	100
+gei wo shen me tiao jian	给我什么条件	100
+gei wo shuo	给我说	100
+gei wo shuo fa	给我说法	100
+gei wo shuo yi sheng	给我说一声	100
+gei wo shuo yi xia	给我说一下	100
+gei wo song yi ge	给我送一个	100
+gei wo ti le	给我踢了	100
+gei wo tian luan	给我添乱	100
+gei wo tiao	给我跳	100
+gei wo ting hao	给我听好	100
+gei wo ting hao la	给我听好啦	100
+gei wo ting hao le	给我听好了	100
+gei wo ting hao lo	给我听好咯	100
+gei wo ting zhe	给我听着	100
+gei wo wang shang	给我往上	100
+gei wo wang shang shang	给我往上上	100
+gei wo xi jiao	给我洗脚	100
+gei wo xia de	给我吓得	100
+gei wo xia de	给我吓的	100
+gei wo xia lai	给我下来	100
+gei wo xia qu	给我下去	100
+gei wo xiao xin yi dian	给我小心一点	100
+gei wo xiao xin yi dian er	给我小心一点儿	100
+gei wo yao shi	给我钥匙	100
+gei wo ye zheng yi ge	给我也整一个	100
+gei wo yi	给我一	100
+gei wo yi bei	给我一杯	100
+gei wo yi ci ji hui	给我一次机会	100
+gei wo yi dian	给我一点	100
+gei wo yi dian shi jian	给我一点时间	100
+gei wo yi ge	给我一个	100
+gei wo yi ge ji hui	给我一个机会	100
+gei wo yi ge jie shi	给我一个解释	100
+gei wo yi ge shuo fa	给我一个说法	100
+gei wo yi ge wan mei de jie shi	给我一个完美的解释	100
+gei wo yi ping	给我一瓶	100
+gei wo yi zhong	给我一种	100
+gei wo zhan zhu	给我站住	100
+gei wo zhang lian	给我长脸	100
+gei wo zheng bu hui	给我整不会	100
+gei wo zheng bu hui le	给我整不会了	100
+gei wo zhu ge li	给我助个力	100
+gei wo zhui	给我追	100
+gei wo zuo fan	给我做饭	100
+gei wo zuo na	给我坐那	100
+gei wo zuo na er	给我坐那儿	100
+gei wu xing hao ping	给五星好评	100
+gei xian kai	给掀开	100
+gei xian le	给掀了	100
+gei xiao fei ma	给小费吗	100
+gei xiao hai	给小孩	100
+gei xiao hai chi	给小孩吃	100
+gei xiao hai kan	给小孩看	100
+gei xiao hai wan	给小孩玩	100
+gei xiao hai yong	给小孩用	100
+gei xie shi jian	给些时间	100
+gei ye chong	给爷冲	100
+gei ye gun	给爷滚	100
+gei ye kan le le	给爷看乐了	100
+gei ye le yi ge	给爷乐一个	100
+gei ye pa	给爷爬	100
+gei ye xiao	给爷笑	100
+gei ye xiao yi ge	给爷笑一个	100
+gei ye zheng xiao le	给爷整笑了	100
+gei yi dian	给一点	100
+gei yi dian jian yi	给一点建议	100
+gei yi ge	给一个	100
+gei yi ge ji hui	给一个机会	100
+gei yi tiao huo lu	给一条活路	100
+gei yi xie	给一些	100
+gei ying le	给赢了	100
+gei za le	给砸了	100
+gei zan ba ma	给咱爸妈	100
+gei zan niang	给咱娘	100
+gei zhang bei	给长辈	100
+gei zhe ge zuo pin	给这个作品	100
+gei zhen shuo	给朕说	100
+gei zheng bu hui	给整不会	100
+gei zheng bu hui le	给整不会了	100
+gei zheng po fang	给整破防	100
+gei zheng po fang le	给整破防了	100
+gei zhong ping	给中评	100
+gei zhu li	给助力	100
+gei zi ji mai	给自己买	100
+gei zi ji yi ge	给自己一个	100
+gei zu guo	给祖国	100
+gei yin hang	给银行	99
+gei ni dai	给你带	98
+gei wo dian	给我点	95
+gei shi pin	给食品	93
+gei shen me	给什么	77
+gei ge bao	给个包	75
+gei liang ge	给两个	72
+gei ren men	给人们	71
+gei jia li	给家里	69
+gei ta liu yan	给他留言	68
+gei ge wei	给各位	66
+gei ni lia	给你俩	65
+gei wo fa yi xia	给我发一下	65
+gei cai wu	给财务	64
+gei ji hui	给机会	64
+gei wo jiu xing	给我就行	64
+gei bu shang	给不上	63
+gei gu du	给孤独	61
+gei xiao xie chuan	给小鞋穿	55
+gei bu qi qian	给不起钱	45
+gei de qi qian	给得起钱	40
+gei zhu she	给注射	40
+gei zu mian zi	给足面子	31
+gei an mo	给按摩	26
+gei ge zhun xin	给个准信	26
+gei yao xi tong	给药系统	20
+gei ni jie xi	给你解析	15
+gei mei gei	给没给	12
+gei yi fen	给一份	12
+gei ni kan	给你砍	9
+gei wo yi xia	给我一下	9
+gei zao qi	给皂器	9
+gei wo ge	给我个	6
+gei a ma de qing shu	给阿嬷的情书	5
+gei chu lai	给出来	3
+gei yi xia	给一下	3
+gei nong min peng you jiang xing fa	给农民朋友讲刑法	2
+gei ta men	给它们	1
+gei wo da	给我打	1
+gei zan men	给咱们	1

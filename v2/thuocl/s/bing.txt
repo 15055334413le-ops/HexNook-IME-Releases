@@ -1,0 +1,311 @@
+bing ren	病人	109328
+bing dian	冰点	69573
+bing ji ling	冰激凌	39999
+bing du	病毒	38831
+bing fa zheng	并发症	14916
+bing feng	冰峰	13124
+bing er chun	丙二醇	12341
+bing cha ji	并查集	12269
+bing yin	病因	11914
+bing tang hu lu	冰糖葫芦	11766
+bing bian	病变	11209
+bing gong zhi fa	秉公执法	7676
+bing ji	并集	7676
+bing an suan	丙氨酸	7407
+bing li	病理	6595
+bing xing zhi xing	并行执行	6494
+bing xing ji suan	并行计算	6043
+bing xing chu li	并行处理	5831
+bing sha	冰沙	5177
+bing fa bian cheng	并发编程	4902
+bing du gan ran	病毒感染	4674
+bing fa chu li	并发处理	4237
+bing cu suan	冰醋酸	4012
+bing jian zuo zhan	并肩作战	3939
+bing fa kong zhi	并发控制	3743
+bing ying	兵营	3386
+bing tu	饼图	3361
+bing xing hua	并行化	3263
+bing ma yong	兵马俑	3259
+bing lang	槟榔	3147
+bing shan	冰山	3029
+bing yi fa	兵役法	2993
+bing fen	冰粉	2624
+bing jia qi qu	并驾齐驱	2590
+bing cheng	病程	2578
+bing zhi	并指	2578
+bing tian xue di	冰天雪地	2559
+bing si lv	病死率	2497
+bing xing cao zuo	并行操作	2257
+bing xing du	并行度	1942
+bing xing xing	并行性	1844
+bing xing bian cheng	并行编程	1811
+bing xing bu bei	并行不悖	1698
+bing zhuang tu	饼状图	1613
+bing yuan xue	病原学	1510
+bing xing kai fa	并行开发	1495
+bing tang yan wo	冰糖燕窝	1393
+bing qi lin dan gao	冰淇淋蛋糕	1305
+bing zheng	病征	1275
+bing xing yun suan	并行运算	1271
+bing xin	冰心	1266
+bing du xing gan yan	病毒性肝炎	1260
+bing ji luan tou yi	病急乱投医	1211
+bing ru gao huang	病入膏肓	1182
+bing pi yue bing	冰皮月饼	1174
+bing xing suan fa	并行算法	1088
+bing fa jin cheng	并发进程	1002
+bing cong kou ru	病从口入	961
+bing fa mo xing	并发模型	900
+bing qi gong ye zong gong si	兵器工业总公司	863
+bing lei chuan ran bing	丙类传染病	859
+bing rong xiang jian	兵戎相见	844
+bing du bing	病毒病	823
+bing zhou	并州	813
+bing dong san chi	冰冻三尺	775
+bing xing ren wu	并行任务	773
+bing zhuang	病状	749
+bing fa ji he	并发集合	663
+bing li xue	病理学	654
+bing mei sheng wu	病媒生物	576
+bing fa rong qi	并发容器	570
+bing fa ce shi	并发测试	545
+bing zhan	兵站	544
+bing tang lian zi	冰糖莲子	514
+bing du xue	病毒学	502
+bing lin cheng xia	兵临城下	492
+bing huang ma luan	兵荒马乱	483
+bing ji ling dan gao	冰激凌蛋糕	479
+bing du xie dai zhe	病毒携带者	457
+bing pian	冰片	438
+bing du xing gan mao	病毒性感冒	421
+bing bu xue ren	兵不血刃	366
+bing qi	屏气	361
+bing qi ning shen	屏气凝神	349
+bing xing lian jie	并行连接	322
+bing ma wei dong	兵马未动	316
+bing qing yu jie	冰清玉洁	312
+bing pian tang	冰片糖	306
+bing xing shu ju ku	并行数据库	299
+bing fa cheng xu she ji	并发程序设计	297
+bing du mu ma	病毒木马	293
+bing na tie	冰拿铁	293
+bing ji	病机	273
+bing xing chuan shu	并行传输	273
+bing mo chan shen	病魔缠身	272
+bing suan gai	丙酸钙	268
+bing lai jiang dang	兵来将挡	265
+bing qiang ma zhuang	兵强马壮	258
+bing bai ru shan dao	兵败如山倒	236
+bing du xing fei yan	病毒性肺炎	227
+bing xing ji suan ji	并行计算机	220
+bing du xing xin ji yan	病毒性心肌炎	219
+bing xing cheng xu she ji	并行程序设计	212
+bing zhi lian	冰之恋	212
+bing yuan xie dai zhe	病原携带者	211
+bing du xing ji bing	病毒性疾病	209
+bing gan kang ti	丙肝抗体	208
+bing quan dou jiang	冰泉豆浆	201
+bing gui shen su	兵贵神速	197
+bing lai ru shan dao	病来如山倒	196
+bing tang xiang lian	冰糖湘莲	192
+bing jiang ji xu jia qiang	并将继续加强	189
+bing fa kong zhi ji zhi	并发控制机制	184
+bing suan na	丙酸钠	181
+bing xi xian an	丙烯酰胺	178
+bing du kang ti	病毒抗体	176
+bing fa she ji	并发设计	171
+bing cha ji wen ti	并查集问题	160
+bing xing gan yan bing du	丙型肝炎病毒	154
+bing tang lian zi tang	冰糖莲子汤	144
+bing du zai liang	病毒载量	142
+bing shu qian tou wan mu chun	病树前头万木春	136
+bing yin xue	病因学	136
+bing du fen xi	病毒分析	133
+bing du ji yin zu	病毒基因组	130
+bing fa shu ju jie gou	并发数据结构	125
+bing xing duan kou	并行端口	125
+bing suan yi zhi	丙酸乙酯	120
+bing tuan yi yuan	兵团医院	111
+bing bi zhi shu	秉笔直书	108
+bing zhong qiu dan bai	丙种球蛋白	101
+bing gong ban li	秉公办理	94
+bing pai	冰排	94
+bing tang yin er geng	冰糖银耳羹	92
+bing fa duo xian cheng	并发多线程	89
+bing li sheng li xue	病理生理学	89
+bing xing chu li ji shu	并行处理技术	89
+bing du xing nao mo yan	病毒性脑膜炎	86
+bing xing sou suo	并行搜索	86
+bing an suan an ji zhuan yi mei	丙氨酸氨基转移酶	82
+bing bu yan zha	兵不厌诈	76
+bing hu lu	冰葫芦	76
+bing du xing jiao mo yan	病毒性角膜炎	73
+bing xue cong ming	冰雪聪明	69
+bing fa guan xi	并发关系	68
+bing du xing chu xie re	病毒性出血热	67
+bing lang zi	槟榔子	67
+bing xue yan han	冰雪严寒	67
+bing qi ling	冰淇凌	64
+bing lai jiang dang shui lai tu yan	兵来将挡水来土掩	63
+bing li xing gu zhe	病理性骨折	62
+bing zhou fan dian	并州饭店	61
+bing du zuo	病毒唑	58
+bing li guo cheng	病理过程	58
+bing cha ji	并差集	55
+bing ren	冰刃	55
+bing ma wei dong liang cao xian xing	兵马未动粮草先行	50
+bing tai ren ge	病态人格	49
+bing xiong	冰熊	47
+bing fang	兵房	45
+bing duo jiang guang	兵多将广	42
+bing po fen	丙泊酚	42
+bing wu chang shi	兵无常势	42
+bing yuan sheng wu xue	病原生物学	42
+bing xing bing du xing gan yan	丙型病毒性肝炎	40
+bing du zai ti	病毒载体	39
+bing sheng jing qi	屏声静气	38
+bing du xue zheng	病毒血症	37
+bing xing bian cheng yu yan	并行编程语言	37
+bing na tie ka fei	冰拿铁咖啡	36
+bing bu wa hu tong	兵部洼胡同	35
+bing yi ran zi le	并怡然自乐	31
+bing tuan si ling bu	兵团司令部	30
+bing liang gao	冰凉糕	28
+bing liao hua	冰蓼花	28
+bing yang pi lin pian	丙氧匹林片	28
+bing zhi	秉志	28
+bing tang he tao	冰糖核桃	27
+bing yang an fen pian	丙氧氨酚片	27
+bing cai	冰菜	26
+bing du xing chang yan	病毒性肠炎	26
+bing xiang bing	冰箱病	25
+bing du xing jie mo yan	病毒性结膜炎	23
+bing lian huo jie	兵连祸结	23
+bing ma si hu tong	兵马司胡同	23
+bing xing gong cheng	并行工程	22
+bing du shou ti	病毒受体	21
+bing fa xing bai nei zhang	并发性白内障	21
+bing lang hua	槟榔花	21
+bing li dui zhao yan jiu	病例对照研究	21
+bing liu yang mi ding	丙硫氧嘧啶	21
+bing mi qin	丙咪嗪	21
+bing peng san	冰硼散	21
+bing lian pi pei	并联匹配	20
+bing ma si	兵马司	19
+bing tuan si jian	兵团四建	19
+bing wu suan na	丙戊酸钠	19
+bing xing shi shi chu li	并行实时处理	19
+bing ka bu qi nuo	冰卡布奇诺	18
+bing du xing wei chang yan	病毒性胃肠炎	17
+bing fa cao zuo xi tong	并发操作系统	16
+bing li jie pou xue	病理解剖学	16
+bing du fang zhi	病毒防治	15
+bing er chun zhi fang suan zhi	丙二醇脂肪酸酯	15
+bing fa mo ni	并发模拟	14
+bing po fen zhu she ye	丙泊酚注射液	13
+bing suan xian wei su	丙酸纤维素	13
+bing tuan yi mu chang	兵团一牧场	12
+bing li xing tai xue	病理形态学	11
+bing li xing tou qie	病理性偷窃	11
+bing xing jia fa qi	并行加法器	11
+bing zha ji	并査集	11
+bing zhi ji xing	并指畸形	11
+bing dun	冰盾	10
+bing gang	兵港	10
+bing li fan she	病理反射	10
+bing li xing du bo	病理性赌博	10
+bing tang	冰塘	10
+bing xing pai xu suan fa	并行排序算法	10
+bing du li zi	病毒粒子	9
+bing hua xue lian	冰花雪莲	9
+bing huang shu	丙磺舒	9
+bing ji ling shui guo sha la	冰激凌水果沙拉	9
+bing bu wa	兵部洼	8
+bing jiao tang ma qi duo	冰焦糖玛奇朵	8
+bing quan di zhu dou jiang	冰泉滴珠豆浆	8
+bing an suan zhuan an mei	丙氨酸转氨酶	7
+bing suo	丙所	7
+bing tang zheng ji dan	冰糖蒸鸡胆	7
+bing wu suan	丙戊酸	7
+bing dao mu yang quan	冰岛牧羊犬	6
+bing gou yu fan long duan	并购与反垄断	6
+bing jiao kou hu tong xi kou	冰窖口胡同西口	6
+bing lang si xiao wan	槟榔四消丸	6
+bing tuan ba shi san tuan	兵团八十三团	6
+bing yun si	兵运司	6
+bing liu yang mi ding pian	丙硫氧嘧啶片	5
+bing tang ha shi ma	冰糖哈士蟆	5
+bing tang jin er ge dan	冰糖金耳鸽蛋	5
+bing wan dou fen	冰豌豆粉	5
+bing zhen fan qie zhi	冰镇番茄汁	5
+bing zhi	丙酯	5
+bing cu suan rong ye	冰醋酸溶液	4
+bing suan lv bei ta suo ru gao	丙酸氯倍他索乳膏	4
+bing suan xin	丙酸锌	4
+bing tong suan ji mei que fa zheng	丙酮酸激酶缺乏症	4
+bing tuan nong yi shi shi san tuan	兵团农一师十三团	4
+bing tuan san jian	兵团三建	4
+bing tuan yi tuan	兵团一团	4
+bing wu suan na huan shi pian	丙戊酸钠缓释片	4
+bing an ka yin	丙胺卡因	3
+bing cuo	丙厝	3
+bing wu suan na pian	丙戊酸钠片	3
+bing zhe bu xiang zhi qi	兵者不祥之器	3
+bing zhi xi chong shu	并殖吸虫属	3
+bing di xiang	丙底乡	2
+bing du xing pi zhen	病毒性皮疹	2
+bing du xing yan yan	病毒性咽炎	2
+bing feng	秉风	2
+bing gu an	丙谷胺	2
+bing guo huang he yi wei fan	兵过黄河疑未反	2
+bing hun chang shi qiu qian suo	病魂常似秋千索	2
+bing ji yu gu qing wu han	冰肌玉骨清无汗	2
+bing li jian yan ji shu	病理检验技术	2
+bing ma ying	兵马营	2
+bing shuang zheng can qi	冰霜正惨凄	2
+bing suan fu ti ka song	丙酸氟替卡松	2
+bing suan lv bei ta suo	丙酸氯倍他索	2
+bing tuan nong yi shi jiu tuan	兵团农一师九团	2
+bing tuan qi shi jiu tuan	兵团七十九团	2
+bing wu suan mei	丙戊酸镁	2
+bing wu xian an pian	丙戊酰胺片	2
+bing yuan	邴原	2
+bing ben ming	柄本明	1
+bing chuan qing zhi	冰川清志	1
+bing cun zhai wu cheng dan	并存债务承担	1
+bing dian jiang di fa	冰点降低法	1
+bing dian yin chuang meng bu cheng	冰簟银床梦不成	1
+bing du yi chuan xue	病毒遗传学	1
+bing du zhong he fan ying	病毒中和反应	1
+bing ge ji wei xi	兵革既未息	1
+bing hou neng yin fou	病后能吟否	1
+bing huang fu le ruan gao	冰黄肤乐软膏	1
+bing jie gou dan bai	冰结构蛋白	1
+bing lang si xiao pian	槟榔四消片	1
+bing li xue ji chu	病理学基础	1
+bing liu yi yan an	丙硫异烟胺	1
+bing peng han pian	冰硼含片	1
+bing qian huan mao yin	秉前环毛蚓	1
+bing ru xin nian gan wu hua	病入新年感物华	1
+bing suan bei lv mi song	丙酸倍氯米松	1
+bing suan bian zhi	丙酸苄酯	1
+bing suan gao wan su	丙酸睾丸素	1
+bing suan xue zheng	丙酸血症	1
+bing tuan huang tian nong chang	兵团黄田农场	1
+bing tuan huo jian nong chang	兵团火箭农场	1
+bing tuan qi tai nong chang	兵团奇台农场	1
+bing tun ba huang zhi xin	并吞八荒之心	1
+bing wu suan mei huan shi pian	丙戊酸镁缓释片	1
+bing wu suan na kou fu ye	丙戊酸钠口服液	1
+bing xi shang chang	并西商场	1
+bing xue ying nan zhi	冰雪莺难至	1
+bing yang an fen fu fang pian	丙氧氨酚复方片	1
+bing zhi shang tong qi wu ji	冰栀伤痛气雾剂	1
+bing zhi xing nao	冰汁杏淖	1
+bing zhou	丙州	1
+bing hai yu hu jun	病海鱼弧菌	0
+bing jian ji ying	并肩棘蝇	0
+bing wei zhi huan chong	秉伪指环虫	0
+bing zhi xi wei xian chong	秉志吸尾线虫	0
+bing zhi xian chong shu	秉志线虫属	0
