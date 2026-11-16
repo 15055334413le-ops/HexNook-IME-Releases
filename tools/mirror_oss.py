@@ -4,7 +4,8 @@
 
 发布仓库是唯一源头，OSS 只是镜像：把 setup、setup-beta、data-pack、data-pack-beta、cloud-dict
 五个分支的内容按「分支名/相对路径」原样放到 OSS（路径、字节、签名与分支完全一致，ECDSA 验签不受影响），
-并把最新的安装包放到固定路径（正式版 latest/，测试版 latest-beta/），最后生成发布清单 manifest/latest*.json。
+并把最新的安装包放到固定路径（正式版 latest/，测试版 latest-beta/；新名 CorspiiIME-Setup-x64.exe 与旧名副本
+HexNookIME-Setup.exe 都放），最后生成发布清单 manifest/latest*.json（带系统与架构字段 os / arch / min_os）。
 
 顺序（任何一步失败都立即退出，且不会更新清单与固定路径，用户不会读到半成品）：
   ① 数据与分段文件（长缓存）→ ② 清单类文件 setup.txt / setup.sig / notes.txt / manifest.*（短缓存）
@@ -39,7 +40,21 @@ BRANCHES = ["setup", "setup-beta", "data-pack", "data-pack-beta", "cloud-dict"]
 MANIFEST_NAMES = {"setup.txt", "setup.sig", "notes.txt", "manifest.txt", "manifest.sig", "manifest.signed"}
 LONG_CACHE = "max-age=31536000"
 SHORT_CACHE = "max-age=60"
-INSTALLER = "HexNookIME-Setup.exe"
+# 安装包：0.9.69 起名为 CorspiiIME-Setup-x64.exe；每个 Release 同时附一份内容相同的旧名副本 HexNookIME-Setup.exe，
+# 供 0.9.68 及更早的客户端升级（它们按「版本号/HexNookIME-Setup.exe」从 OSS 下载完整安装包）与官网无脚本兜底直链，长期保留。
+# 安装包约 80 MB，超过 jsDelivr 单文件 20 MB 上限，清单里的下载源只有 OSS 与 GitHub Release。
+# 改名前的 Release 只有旧名。OSS 上两个名字都放（版本目录与 latest 固定路径），内容是同一个文件。
+INSTALLER = "CorspiiIME-Setup-x64.exe"
+LEGACY_INSTALLER = "HexNookIME-Setup.exe"
+INSTALLER_NAMES = (INSTALLER, LEGACY_INSTALLER)
+# 发布清单里的系统与架构（读取方忽略不认识的字段；旧客户端不读本清单）
+TARGET = {"os": "windows", "arch": "x64", "min_os": "10.0"}
+# Windows 7 安装包（0.9.69 起，与 Windows 10 / 11 版同一个 Release 的单独附件；只有构建了 Windows 7 版的 Release 才有）：
+# 外壳与引擎按 Windows 7 目标编译、载荷不压缩。软件内更新在 Windows 7 / 8 / 8.1（主版本 6）上只取这个附件，
+# 并用同一 Release 里签过名的 setup-win7.txt / setup-win7.sig 校验（分段镜像只有 Windows 10 / 11 版）。
+WIN7_INSTALLER = "CorspiiIME-Setup-win7-x64.exe"
+WIN7_MANIFESTS = ("setup-win7.txt", "setup-win7.sig")
+WIN7_TARGET = {"os": "windows", "arch": "x64", "min_os": "6.1.7601", "max_os": "6.3"}
 REPO = os.environ.get("GITHUB_REPOSITORY", "15055334413le-ops/HexNook-IME-Releases")
 REQUIRED_ENV = ["OSS_ACCESS_KEY_ID", "OSS_ACCESS_KEY_SECRET", "OSS_BUCKET", "OSS_ENDPOINT"]
 
@@ -295,8 +310,28 @@ def gh_json(url, token):
         return json.load(r)
 
 
+def installer_asset(rel):
+    """这个 Release 的安装包附件：优先新名，改名前的 Release 只有旧名。"""
+    for name in INSTALLER_NAMES:
+        for a in rel.get("assets", []):
+            if a["name"] == name:
+                return a
+    return None
+
+
+def win7_assets(rel):
+    """这个 Release 的 Windows 7 安装包与签名清单：三者齐全时返回 {名字: 附件}，否则 None（不镜像不完整的一套）。"""
+    found = {a["name"]: a for a in rel.get("assets", []) if a["name"] in (WIN7_INSTALLER, *WIN7_MANIFESTS)}
+    return found if len(found) == 1 + len(WIN7_MANIFESTS) else None
+
+
+def win7_state(assets):
+    """用于判断 OSS 是否已是最新：各附件的大小与更新时间。"""
+    return {n: [a.get("size"), a.get("updated_at")] for n, a in sorted(assets.items())} if assets else None
+
+
 def pick_release(releases, channel):
-    rel = [r for r in releases if not r.get("draft") and any(a["name"] == INSTALLER for a in r.get("assets", []))]
+    rel = [r for r in releases if not r.get("draft") and installer_asset(r)]
     rel.sort(key=lambda r: r["published_at"], reverse=True)
     if channel == "stable":
         rel = [r for r in rel if not r["prerelease"]]
@@ -383,8 +418,10 @@ def main():
                         log(f"  {channel}：没有可用的 Release，已跳过")
                         continue
                     version = rel["tag_name"].lstrip("vV")
-                    asset = next(a for a in rel["assets"] if a["name"] == INSTALLER)
-                    vkey, lkey = f"{version}/{INSTALLER}", f"{prefix}/{INSTALLER}"
+                    asset = installer_asset(rel)
+                    # 主文件名 + 旧名副本（改名前的 Release 只有旧名，两者相同）
+                    names = list(dict.fromkeys([asset["name"], LEGACY_INSTALLER]))
+                    keys = [f"{v}/{n}" for n in names for v in (version, prefix)]
                     # 已有清单与 OSS 对象都与这个附件一致时，不再重复下载（定时兜底每 10 分钟跑一次，避免白下几十 MB）
                     old = None
                     status, _, body = oss.request("GET", mkey)
@@ -393,44 +430,90 @@ def main():
                             old = json.loads(body)
                         except ValueError:
                             old = None
+                    w7 = win7_assets(rel)
+                    w7keys = [(f"{v}/{n}", a.get("size")) for n, a in (w7 or {}).items() for v in (version, prefix)]
                     same = bool(old and old.get("version") == version and old.get("size") == asset.get("size")
-                                and old.get("asset_updated_at") == asset.get("updated_at")
-                                and oss.head_size(vkey) == asset.get("size") and oss.head_size(lkey) == asset.get("size"))
+                                and old.get("asset_updated_at") == asset.get("updated_at") and old.get("installer") == asset["name"]
+                                and all(oss.head_size(k) == asset.get("size") for k in keys)
+                                and old.get("win7_assets") == win7_state(w7)
+                                and all(oss.head_size(k) == n for k, n in w7keys))
                     if same:
                         log(f"③ {channel}：安装包 {version} 已是最新，跳过下载")
-                        installers[channel] = (prefix, mkey, version, None, asset["size"], old["sha256"], rel, asset)
+                        installers[channel] = (prefix, mkey, version, None, asset["size"], old["sha256"], rel, asset, names,
+                                               old.get("variants", []))
                         continue
-                    local = os.path.join(tmp, f"{channel}-{INSTALLER}")
+                    local = os.path.join(tmp, f"{channel}-{asset['name']}")
                     download(asset["browser_download_url"], token, local)
                     size = os.path.getsize(local)
                     if asset.get("size") and asset["size"] != size:
                         raise Fatal(f"安装包下载不完整：{asset['size']} ≠ {size}")
-                    log(f"③ {channel}：安装包 {version}（{size} 字节）→ {vkey}")
-                    cur = oss.list_prefix(vkey).get(vkey)
-                    if not (cur and cur[0] == size and cur[1] == md5_hex(local)):
-                        oss.put(vkey, local, LONG_CACHE)
-                    oss.verify(vkey, size)
-                    cur = oss.list_prefix(lkey).get(lkey)
-                    if not (cur and cur[0] == size and cur[1] == md5_hex(local)):
-                        log(f"④ 覆盖固定路径 {lkey}")
-                        oss.put(lkey, local, SHORT_CACHE)
-                    oss.verify(lkey, size)
-                    installers[channel] = (prefix, mkey, version, local, size, sha256_hex(local), rel, asset)
+                    md5 = md5_hex(local)
+                    # 先把各个名字都放进版本目录并回读校验，再覆盖固定路径
+                    for n in names:
+                        vkey = f"{version}/{n}"
+                        log(f"③ {channel}：安装包 {version}（{size} 字节）→ {vkey}")
+                        cur = oss.list_prefix(vkey).get(vkey)
+                        if not (cur and cur[0] == size and cur[1] == md5):
+                            oss.put(vkey, local, LONG_CACHE)
+                        oss.verify(vkey, size)
+                    for n in names:
+                        lkey = f"{prefix}/{n}"
+                        cur = oss.list_prefix(lkey).get(lkey)
+                        if not (cur and cur[0] == size and cur[1] == md5):
+                            log(f"④ 覆盖固定路径 {lkey}")
+                            oss.put(lkey, local, SHORT_CACHE)
+                        oss.verify(lkey, size)
+                    # Windows 7 安装包与它的签名清单：同样先进版本目录，再覆盖固定路径
+                    variants = []
+                    if w7:
+                        w7local = {}
+                        for n, a in w7.items():
+                            path = os.path.join(tmp, f"{channel}-{n}")
+                            download(a["browser_download_url"], token, path)
+                            if a.get("size") and a["size"] != os.path.getsize(path):
+                                raise Fatal(f"{n} 下载不完整：{a['size']} ≠ {os.path.getsize(path)}")
+                            w7local[n] = path
+                        for keyprefix, cache in ((version, LONG_CACHE), (prefix, SHORT_CACHE)):
+                            for n, path in w7local.items():
+                                key = f"{keyprefix}/{n}"
+                                n_size, n_md5 = os.path.getsize(path), md5_hex(path)
+                                cur = oss.list_prefix(key).get(key)
+                                if not (cur and cur[0] == n_size and cur[1] == n_md5):
+                                    log(f"③ {channel}：Windows 7 版 {version} → {key}")
+                                    oss.put(key, path, SHORT_CACHE if n in WIN7_MANIFESTS else cache)
+                                oss.verify(key, n_size)
+                        w7path = w7local[WIN7_INSTALLER]
+                        w7size, w7sha = os.path.getsize(w7path), sha256_hex(w7path)
+                        variants = [{
+                            "id": "win7-x64", "system": "Windows 7 SP1 / 8 / 8.1", **WIN7_TARGET,
+                            "installer": WIN7_INSTALLER, "latest": f"{oss.public}{prefix}/{WIN7_INSTALLER}",
+                            "size": w7size, "sha256": w7sha,
+                            "signed_manifest": [f"{oss.public}{version}/{n}" for n in WIN7_MANIFESTS],
+                            "sources": [f"{oss.public}{version}/{WIN7_INSTALLER}", w7[WIN7_INSTALLER]["browser_download_url"]],
+                        }]
+                    installers[channel] = (prefix, mkey, version, local, size, sha256_hex(local), rel, asset, names, variants)
 
-            for channel, (prefix, mkey, version, local, size, sha, rel, asset) in installers.items():
+            for channel, (prefix, mkey, version, local, size, sha, rel, asset, names, variants) in installers.items():
                 base = oss.public
+                gh_dl = asset["browser_download_url"].rsplit("/", 1)[0] + "/"
+                main_name = asset["name"]
                 manifest = {
                     "format": 1, "version": version, "channel": channel,
                     "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                    "size": size, "sha256": sha, "installer": INSTALLER,
-                    "latest": f"{base}{prefix}/{INSTALLER}",
+                    "size": size, "sha256": sha, "installer": main_name,
+                    "latest": f"{base}{prefix}/{main_name}",
+                    "legacy_installer": LEGACY_INSTALLER, **TARGET,
                     "release_url": rel.get("html_url", f"https://github.com/{REPO}/releases/tag/v{version}"),
                     "asset_updated_at": asset.get("updated_at"),
+                    # 每个名字一条（内容相同）；GitHub 地址只列 Release 里确实有的附件
                     "files": [{
-                        "name": INSTALLER, "path": f"{version}/{INSTALLER}", "size": size, "sha256": sha,
-                        "sources": [f"{base}{version}/{INSTALLER}", asset["browser_download_url"]],
-                    }],
+                        "name": n, "path": f"{version}/{n}", "size": size, "sha256": sha, **TARGET,
+                        "sources": [f"{base}{version}/{n}"] + ([gh_dl + n] if any(a["name"] == n for a in rel.get("assets", [])) else []),
+                    } for n in names],
                     "branches": dict(shas),
+                    # 其他系统的安装包（适用系统写在各条目的 os / min_os / max_os 里）；没有时为空列表
+                    "variants": variants,
+                    "win7_assets": win7_state(win7_assets(rel)),
                 }
                 # 内容没变化就不重写清单（generated 时间除外），减少无意义写入
                 status, _, body = oss.request("GET", mkey)
@@ -482,9 +565,10 @@ def check_needed(oss, repo_dir, token, args):
                 log(f"{key} 不存在或读取失败（HTTP {status}），需要镜像")
                 return 10
             m = json.loads(body)
-            asset = next(a for a in rel["assets"] if a["name"] == INSTALLER)
+            asset = installer_asset(rel)
             if (m.get("version") != rel["tag_name"].lstrip("vV") or m.get("branches") != remote
-                    or m.get("asset_updated_at") != asset.get("updated_at")):
+                    or m.get("asset_updated_at") != asset.get("updated_at") or m.get("installer") != asset["name"]
+                    or m.get("arch") != TARGET["arch"] or m.get("win7_assets") != win7_state(win7_assets(rel))):
                 log(f"{key} 与发布仓库不一致，需要镜像")
                 return 10
         log("OSS 与发布仓库一致，无需镜像。")

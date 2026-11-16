@@ -124,11 +124,18 @@ def main():
     with tempfile.TemporaryDirectory() as tmp:
         repo = make_repo(tmp)
         stable, beta = os.urandom(4000), os.urandom(4500)
-        dl_files.update({"stable.exe": stable, "beta.exe": beta})
+        w7exe, w7txt, w7sig = os.urandom(6000), b"format 1\nversion 0.9.51\n", b"w7sig"
+        dl_files.update({"stable.exe": stable, "beta.exe": beta, "w7.exe": w7exe, "w7.txt": w7txt, "w7.sig": w7sig})
         base = f"http://127.0.0.1:{port}/dl/"
         rels = [
             {"tag_name": "v0.9.51", "prerelease": True, "draft": False, "published_at": "2026-10-27T10:00:00Z", "html_url": "u",
-             "assets": [{"name": "HexNookIME-Setup.exe", "size": len(beta), "updated_at": "t2", "browser_download_url": base + "beta.exe"}]},
+             # 改名后的 Release：新名与旧名副本（同一个文件）
+             "assets": [{"name": "HexNookIME-Setup.exe", "size": len(beta), "updated_at": "t2", "browser_download_url": base + "beta.exe"},
+                        {"name": "CorspiiIME-Setup-x64.exe", "size": len(beta), "updated_at": "t2", "browser_download_url": base + "beta.exe"},
+                        # Windows 7 安装包与它签过名的清单（0.9.69 起）
+                        {"name": "CorspiiIME-Setup-win7-x64.exe", "size": len(w7exe), "updated_at": "t3", "browser_download_url": base + "w7.exe"},
+                        {"name": "setup-win7.txt", "size": len(w7txt), "updated_at": "t3", "browser_download_url": base + "w7.txt"},
+                        {"name": "setup-win7.sig", "size": len(w7sig), "updated_at": "t3", "browser_download_url": base + "w7.sig"}]},
             {"tag_name": "v0.9.32", "prerelease": False, "draft": False, "published_at": "2026-10-11T09:17:47Z", "html_url": "u",
              "assets": [{"name": "HexNookIME-Setup.exe", "size": len(stable), "updated_at": "t1", "browser_download_url": base + "stable.exe"}]},
         ]
@@ -157,6 +164,27 @@ def main():
                     store.get("0.9.32/HexNookIME-Setup.exe") == stable and store.get("latest/HexNookIME-Setup.exe") == stable
                     and store.get("latest-beta/HexNookIME-Setup.exe") == beta)
         m = json.loads(store["manifest/latest.json"])
+        mb = json.loads(store["manifest/latest-beta.json"])
+        ok &= check("改名后的 Release：新名与旧名副本都进版本目录与 latest-beta",
+                    store.get("0.9.51/CorspiiIME-Setup-x64.exe") == beta and store.get("0.9.51/HexNookIME-Setup.exe") == beta
+                    and store.get("latest-beta/CorspiiIME-Setup-x64.exe") == beta)
+        ok &= check("改名后的清单：主文件名为新名、两个条目、带系统与架构",
+                    mb["installer"] == "CorspiiIME-Setup-x64.exe" and mb["latest"].endswith("/latest-beta/CorspiiIME-Setup-x64.exe")
+                    and [f["name"] for f in mb["files"]] == ["CorspiiIME-Setup-x64.exe", "HexNookIME-Setup.exe"]
+                    and mb["os"] == "windows" and mb["arch"] == "x64" and mb["min_os"] == "10.0"
+                    and all(f["arch"] == "x64" and f["sha256"] == hashlib.sha256(beta).hexdigest() for f in mb["files"]), json.dumps(mb))
+        ok &= check("改名前的 Release：只有旧名，不凭空生成新名",
+                    m["installer"] == "HexNookIME-Setup.exe" and [f["name"] for f in m["files"]] == ["HexNookIME-Setup.exe"]
+                    and "0.9.32/CorspiiIME-Setup-x64.exe" not in store and m["arch"] == "x64")
+        ok &= check("Windows 7 安装包与签名清单进版本目录与 latest-beta",
+                    store.get("0.9.51/CorspiiIME-Setup-win7-x64.exe") == w7exe and store.get("latest-beta/CorspiiIME-Setup-win7-x64.exe") == w7exe
+                    and store.get("0.9.51/setup-win7.txt") == w7txt and store.get("0.9.51/setup-win7.sig") == w7sig)
+        v = mb.get("variants") or [{}]
+        ok &= check("发布清单写入 Windows 7 版的适用系统",
+                    len(mb["variants"]) == 1 and v[0]["installer"] == "CorspiiIME-Setup-win7-x64.exe" and v[0]["min_os"] == "6.1.7601"
+                    and v[0]["max_os"] == "6.3" and v[0]["sha256"] == hashlib.sha256(w7exe).hexdigest()
+                    and [f["name"] for f in mb["files"]] == ["CorspiiIME-Setup-x64.exe", "HexNookIME-Setup.exe"], json.dumps(mb))
+        ok &= check("没有 Windows 7 版的 Release：variants 为空", m["variants"] == [] and "0.9.32/CorspiiIME-Setup-win7-x64.exe" not in store)
         ok &= check("清单字段齐全", m["version"] == "0.9.32" and m["sha256"] == hashlib.sha256(stable).hexdigest() and set(m["branches"]) == {"setup", "data-pack", "cloud-dict"})
 
         # 2 二次运行零上传
@@ -171,6 +199,10 @@ def main():
         rj2 = os.path.join(tmp, "releases2.json"); json.dump(rels2, open(rj2, "w"))
         rc_asset = run(repo, port, rj2, ("--check-only",))
         ok &= check("轻量检查：附件更新后退出 10", rc_asset.returncode == 10, rc_asset.stdout)
+        rels3 = json.loads(json.dumps(rels)); rels3[0]["assets"][2]["updated_at"] = "t8"
+        rj3 = os.path.join(tmp, "releases3.json"); json.dump(rels3, open(rj3, "w"))
+        rc_w7 = run(repo, port, rj3, ("--check-only",))
+        ok &= check("轻量检查：Windows 7 安装包更新后退出 10", rc_w7.returncode == 10, rc_w7.stdout)
         sh("git", "checkout", "-q", "data-pack", cwd=repo); open(os.path.join(repo, "v3", "files", "x.1.0"), "ab").write(b"!")
         sh("git", "commit", "-qam", "adv", cwd=repo)
         rc_branch = run(repo, port, rj, ("--check-only",))
