@@ -167,7 +167,8 @@ class Oss:
         with open(path, "rb") as f:
             data = f.read()
         md5 = base64.b64encode(hashlib.md5(data).digest()).decode()
-        ctype = "application/octet-stream"
+        # 清单按类型标注：官网与客户端以 JSON 读取发布清单；其余（安装包、签名、数据）一律二进制
+        ctype = "application/json" if key.endswith(".json") else "text/plain; charset=utf-8" if key.endswith(".txt") else "application/octet-stream"
         h = {"Content-MD5": md5, "Content-Type": ctype, "Cache-Control": cache}
         last = ""
         for attempt in range(3):
@@ -560,9 +561,18 @@ def check_needed(oss, repo_dir, token, args):
             rel = pick_release(releases, channel)
             if not rel:
                 continue
-            status, _, body = oss.request("GET", key)
+            status, hdrs, body = oss.request("GET", key)
             if status != 200:
                 log(f"{key} 不存在或读取失败（HTTP {status}），需要镜像")
+                return 10
+            # 旧版本上传的清单类型是 application/octet-stream：重新镜像一次，改为 application/json
+            ctype = ""
+            try:
+                ctype = (dict((k.lower(), v) for k, v in (hdrs.items() if hasattr(hdrs, "items") else hdrs)).get("content-type") or "")
+            except Exception:
+                ctype = "application/json"
+            if not ctype.startswith("application/json"):
+                log(f"{key} 的类型是 {ctype or '空'}，需要镜像")
                 return 10
             m = json.loads(body)
             asset = installer_asset(rel)

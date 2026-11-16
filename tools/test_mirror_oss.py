@@ -14,6 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SCRIPT = os.path.join(HERE, "mirror_oss.py")
 
 store = {}          # key -> bytes
+ctypes = {}         # key -> Content-Type（与真实 OSS 一样，上传时记下、读取时返回）
 puts = []           # PUT 顺序
 truncate_key = [None]
 dl_files = {}
@@ -51,6 +52,7 @@ class H(BaseHTTPRequestHandler):
             return self._send(400, b"md5 mismatch")
         puts.append(key)
         store[key] = data[:-1] if truncate_key[0] and truncate_key[0] in key else data   # 模拟存储端大小不符
+        ctypes[key] = self.headers.get("Content-Type", "")
         self._send(200)
 
     def do_HEAD(self):
@@ -80,7 +82,7 @@ class H(BaseHTTPRequestHandler):
             return self._send(200, body)
         if not self._auth_ok("GET", key): return self._send(403)
         if key not in store: return self._send(404, b"NoSuchKey")
-        self._send(200, store[key])
+        self._send(200, store[key], {"Content-Type": ctypes.get(key) or "application/octet-stream"})
 
 
 def sh(*a, cwd=None, env=None):
@@ -195,6 +197,11 @@ def main():
         sh("git", "remote", "add", "origin", repo, cwd=repo)
         rc_same = run(repo, port, rj, ("--check-only",))
         ok &= check("轻量检查：一致时退出 0（无需镜像）", rc_same.returncode == 0, rc_same.stdout)
+        ok &= check("清单以 application/json 上传", ctypes.get("manifest/latest.json", "").startswith("application/json"), ctypes.get("manifest/latest.json"))
+        saved = ctypes["manifest/latest.json"]; ctypes["manifest/latest.json"] = "application/octet-stream"
+        rc_ct = run(repo, port, rj, ("--check-only",))
+        ok &= check("轻量检查：旧版上传的清单类型不对时需要镜像", rc_ct.returncode == 10, rc_ct.stdout)
+        ctypes["manifest/latest.json"] = saved
         rels2 = json.loads(json.dumps(rels)); rels2[1]["assets"][0]["updated_at"] = "t9"
         rj2 = os.path.join(tmp, "releases2.json"); json.dump(rels2, open(rj2, "w"))
         rc_asset = run(repo, port, rj2, ("--check-only",))
