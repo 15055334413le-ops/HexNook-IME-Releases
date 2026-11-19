@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "data_version": "round3-candidate-int8",
+  "models": [
+    {
+      "tier": "small",
+      "name": "小档",
+      "file": "corspii-S.hxlm",
+      "size": 7402564,
+      "sha256": "4d5a2cd7d0e207bdaaab8033016e7ea529508615a7ca5a02c34aa2f4b371a5f5",
+      "parameters": 7245944,
+      "macs_per_step": 1179648,
+      "state_bytes": 2048,
+      "rss_bytes": 0,
+      "eval": "整句首选准确率 63.97%→67.75%，打错拼音时 45.98%→49.81%，上文相关 88.89%→96.30%；简拼与联想不变"
+    },
+    {
+      "tier": "standard",
+      "name": "标准档",
+      "file": "corspii-M.hxlm",
+      "size": 23362308,
+      "sha256": "7bb5fe56b5750dda6eb8422cc91dc380bbe5fd62fab70da7831346da83f0a79e",
+      "parameters": 23140728,
+      "macs_per_step": 11010048,
+      "state_bytes": 8192,
+      "rss_bytes": 0,
+      "eval": "整句首选准确率 63.97%→69.09%，打错拼音时 45.98%→49.20%，上文相关 88.89%→96.30%；简拼与联想不变"
+    }
+  ]
+}
