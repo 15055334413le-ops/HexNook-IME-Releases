@@ -1,0 +1,54 @@
+# 本地模型 → Release models-v1
+#   客户端读取模型清单与文件：阿里云 OSS 的 models/ 优先（mirror-oss 从 models 分支同步），
+#   GitHub 兜底（本 Release 的附件）。models 分支更新后手动运行一次，附件与分支内容保持一致。
+#   不设为最新版：Releases 页面与 releases/latest 仍指向最新的安装包版本。
+name: models-release
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TAG: models-v1
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: models
+          fetch-depth: 1
+
+      - name: 校验模型文件与清单一致
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, os, sys
+          m = json.load(open("manifest.json", encoding="utf-8"))
+          bad = []
+          for e in m["models"]:
+              f = e["file"]
+              data = open(f, "rb").read()
+              sha = hashlib.sha256(data).hexdigest()
+              side = open(f + ".sha256", encoding="utf-8").read().split()[0]
+              if len(data) != e["size"] or sha != e["sha256"] or side != sha:
+                  bad.append(f)
+              print(f, len(data), sha)
+          if bad:
+              print("::error::大小或 SHA-256 与清单不一致：" + "、".join(bad)); sys.exit(1)
+          PY
+
+      - name: 创建或更新 Release
+        run: |
+          files="manifest.json $(python3 -c "import json;print(' '.join(x for e in json.load(open('manifest.json',encoding='utf-8'))['models'] for x in (e['file'], e['file']+'.sha256')))")"
+          if gh release view "$TAG" > /dev/null 2>&1; then
+            gh release upload "$TAG" $files --clobber
+          else
+            gh release create "$TAG" --target models --latest=false \
+              --title "本地模型 $TAG" \
+              --notes "心宿输入法的可选本地模型，在设置「智能模型 → 本地模型」中按需下载；manifest.json 为下载清单。" \
+              $files
+          fi
+          gh release view "$TAG" --json assets --jq '.assets[] | "\(.name) \(.size)"'
