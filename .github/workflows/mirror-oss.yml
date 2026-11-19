@@ -56,7 +56,7 @@ jobs:
       - name: 取各数据分支
         if: steps.check.outputs.needed == 'true'
         run: |
-          for b in setup setup-beta data-pack data-pack-beta cloud-dict; do
+          for b in setup setup-beta data-pack data-pack-beta cloud-dict models; do
             if git ls-remote --exit-code --heads origin "$b" > /dev/null 2>&1; then
               git fetch --no-tags --depth 1 origin "+refs/heads/$b:refs/remotes/origin/$b"
             else

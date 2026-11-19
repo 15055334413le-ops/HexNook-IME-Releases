@@ -104,6 +104,7 @@ def make_repo(tmp):
                      "v1/files/aa.0": os.urandom(5000), "v1/files/aa.1": os.urandom(100)})
     branch("data-pack", {"v3/manifest.txt": b"format 3\n", "v3/manifest.sig": b"s3", "v3/files/x.1.0": os.urandom(3000)})
     branch("cloud-dict", {"LICENSE": b"MIT", "v2/rime-ice/a/aa.txt": "啊 a\n".encode(), "v2/rime-ice/LICENSE": b"L"})
+    branch("models", {"manifest.json": b'{"format":1,"models":[]}', "corspii-S.hxlm": os.urandom(7000), "corspii-S.hxlm.sha256": b"x"})
     return r
 
 
@@ -161,6 +162,10 @@ def main():
         idx = {k: i for i, k in enumerate(puts)}
         data_last = max(idx[k] for k in puts if k.endswith(("/aa.0", "/aa.1", "x.1.0", "aa.txt")))
         ok &= check("顺序：清单在数据之后", idx["setup/v1/setup.txt"] > data_last and idx["data-pack/v3/manifest.txt"] > data_last)
+        ok &= check("本地模型：models 分支进 OSS 的 models/，清单在模型文件之后、短缓存",
+                    store.get("models/corspii-S.hxlm") == blob("refs/remotes/origin/models", "corspii-S.hxlm")
+                    and idx["models/manifest.json"] > idx["models/corspii-S.hxlm"]
+                    and ctypes.get("models/manifest.json", "").startswith("application/json"))
         ok &= check("顺序：latest.json 最后", puts[-1] in ("manifest/latest.json", "manifest/latest-beta.json") and "latest/HexNookIME-Setup.exe" in puts and idx["latest/HexNookIME-Setup.exe"] < idx["manifest/latest.json"])
         ok &= check("安装包进版本目录与 latest（正式/测试分开）",
                     store.get("0.9.32/HexNookIME-Setup.exe") == stable and store.get("latest/HexNookIME-Setup.exe") == stable
@@ -187,7 +192,7 @@ def main():
                     and v[0]["max_os"] == "6.3" and v[0]["sha256"] == hashlib.sha256(w7exe).hexdigest()
                     and [f["name"] for f in mb["files"]] == ["CorspiiIME-Setup-x64.exe", "HexNookIME-Setup.exe"], json.dumps(mb))
         ok &= check("没有 Windows 7 版的 Release：variants 为空", m["variants"] == [] and "0.9.32/CorspiiIME-Setup-win7-x64.exe" not in store)
-        ok &= check("清单字段齐全", m["version"] == "0.9.32" and m["sha256"] == hashlib.sha256(stable).hexdigest() and set(m["branches"]) == {"setup", "data-pack", "cloud-dict"})
+        ok &= check("清单字段齐全", m["version"] == "0.9.32" and m["sha256"] == hashlib.sha256(stable).hexdigest() and set(m["branches"]) == {"setup", "data-pack", "cloud-dict", "models"})
 
         # 2 二次运行零上传
         puts.clear(); r2 = run(repo, port, rj)

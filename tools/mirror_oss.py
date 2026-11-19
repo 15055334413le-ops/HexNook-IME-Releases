@@ -3,7 +3,7 @@
 """Hex Nook IME · 发布仓库 → 阿里云 OSS 镜像（大陆首选下载源）。
 
 发布仓库是唯一源头，OSS 只是镜像：把 setup、setup-beta、data-pack、data-pack-beta、cloud-dict
-五个分支的内容按「分支名/相对路径」原样放到 OSS（路径、字节、签名与分支完全一致，ECDSA 验签不受影响），
+五个分支以及本地模型分支 models 的内容按「分支名/相对路径」原样放到 OSS（路径、字节、签名与分支完全一致，ECDSA 验签不受影响），
 并把最新的安装包放到固定路径（正式版 latest/，测试版 latest-beta/；新名 CorspiiIME-Setup-x64.exe 与旧名副本
 HexNookIME-Setup.exe 都放），最后生成发布清单 manifest/latest*.json（带系统与架构字段 os / arch / min_os）。
 
@@ -36,7 +36,8 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-BRANCHES = ["setup", "setup-beta", "data-pack", "data-pack-beta", "cloud-dict"]
+# models：本地模型（manifest.json、*.hxlm 与 *.sha256），OSS 上对应 models/ 目录；与 Release models-v1 的附件内容相同
+BRANCHES = ["setup", "setup-beta", "data-pack", "data-pack-beta", "cloud-dict", "models"]
 MANIFEST_NAMES = {"setup.txt", "setup.sig", "notes.txt", "manifest.txt", "manifest.sig", "manifest.signed"}
 LONG_CACHE = "max-age=31536000"
 SHORT_CACHE = "max-age=60"
@@ -269,7 +270,8 @@ def collect(dest, branches_present):
             for n in names:
                 p = os.path.join(dp, n)
                 rel = os.path.relpath(p, root).replace(os.sep, "/")
-                is_manifest = b != "cloud-dict" and n in MANIFEST_NAMES
+                # 模型清单最后上传、短缓存：客户端先读清单再下载模型，不会读到指向尚未上传文件的清单
+                is_manifest = (b not in ("cloud-dict", "models") and n in MANIFEST_NAMES) or (b == "models" and n == "manifest.json")
                 files.append((f"{b}/{rel}", p, is_manifest))
     return sorted(files)
 
