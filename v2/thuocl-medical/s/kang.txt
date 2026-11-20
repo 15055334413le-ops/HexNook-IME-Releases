@@ -1,0 +1,81 @@
+kang bing du yao wu	抗病毒药物	788
+kang fu hu li	康复护理	671
+kang fu gong cheng	康复工程	453
+kang zhong liu yao wu	抗肿瘤药物	422
+kang she du xue qing	抗蛇毒血清	373
+kang zhong liu yao	抗肿瘤药	337
+kang bing du kou fu ye	抗病毒口服液	325
+kang bing du jiao nang	抗病毒胶囊	251
+kang fu zhi liao ji shu	康复治疗技术	244
+kang jing shen bing yao	抗精神病药	217
+kang fu she du xue qing	抗蝮蛇毒血清	208
+kang fu ping ding	康复评定	204
+kang suan yao	抗酸药	196
+kang kuang quan bing xue qing	抗狂犬病血清	194
+kang gu zhi zeng sheng wan	抗骨质增生丸	183
+kang jing zi kang ti	抗精子抗体	178
+kang li niao ji su	抗利尿激素	176
+kang yan jing she du xue qing	抗眼镜蛇毒血清	169
+kang yi dan bai mei	抗胰蛋白酶	163
+kang zu an ji	抗组胺剂	160
+kang gu zeng sheng pian	抗骨增生片	155
+kang bing du ke li	抗病毒颗粒	153
+kang shuan jiao nang	抗栓胶囊	153
+kang lai te zhu she ye	康莱特注射液	147
+kang suan gan jun	抗酸杆菌	139
+kang yin huan she du xue qing	抗银环蛇毒血清	139
+kang wu bu she du xue qing	抗五步蛇毒血清	132
+kang xue xiao ban yao	抗血小板药	132
+kang fu hu li ji shu	康复护理技术	125
+kang li long	康力龙	113
+kang yuan kang ti fan ying	抗原抗体反应	113
+kang fu yan jiao nang	抗妇炎胶囊	108
+kang xiong xian xi bao qiu dan bai	抗胸腺细胞球蛋白	108
+kang ning xue mei	抗凝血酶	103
+kang xin lin zhi kang ti	抗心磷脂抗体	103
+kang zhong liu kang sheng su	抗肿瘤抗生素	103
+kang lin zhi kang ti	抗磷脂抗体	98
+kang sheng wu su dan bai	抗生物素蛋白	98
+kang wang xi ji	康王洗剂	98
+kang jun xiao yan jiao nang	抗菌消炎胶囊	91
+kang xue you bing qiu dan bai	抗血友病球蛋白	91
+kang ai zhu she ye	康艾注射液	84
+kang bing du pian	抗病毒片	84
+kang fu gong neng ping ding	康复功能评定	84
+kang fu hu li xue	康复护理学	84
+kang gan jie du ke li	抗感解毒颗粒	84
+kang tui chou jin gao gai pian	抗腿抽筋高钙片	84
+kang bi ma la se jun	糠秕马拉色菌	76
+kang fu ling jiao nang	康妇灵胶囊	76
+kang gan ke li	抗感颗粒	76
+kang gan ling pian	抗感灵片	76
+kang gong yan pian	抗宫炎片	76
+kang ji wei suo dan bai	抗肌萎缩蛋白	76
+kang jun xiao yan pian	抗菌消炎片	76
+kang lin zhi zong he zheng	抗磷脂综合症	76
+kang shuan zai zao wan	抗栓再造丸	76
+kang bing du ju jue pian	抗病毒咀嚼片	66
+kang feng shi yao jiu	抗风湿药酒	66
+kang ning xue mei que fa	抗凝血酶缺乏	66
+kang suan mo mi song	糠酸莫米松	66
+kang suan mo mi song ru gao	糠酸莫米松乳膏	66
+kang ban gui	扛板归	51
+kang fu xiao yan shuan	康妇消炎栓	51
+kang fu xin li xue	康复心理学	51
+kang fu yan jiao nang	康妇炎胶囊	51
+kang fu yi xue gai lun	康复医学概论	51
+kang gan jiao nang	抗感胶囊	51
+kang gan pao teng pian	抗感泡腾片	51
+kang gong yan jiao nang	抗宫炎胶囊	51
+kang gu zeng sheng jiao nang	抗骨增生胶囊	51
+kang gu zeng sheng wan	抗骨增生丸	51
+kang huai xue suan yang hua mei	抗坏血酸氧化酶	51
+kang huai xue suan zong lv suan zhi	抗坏血酸棕榈酸酯	51
+kang li xin jiao nang	康力欣胶囊	51
+kang nao shuai jiao nang	抗脑衰胶囊	51
+kang shuai lao kou fu ye	抗衰老口服液	51
+kang tan ju xue qing	抗炭疽血清	51
+kang ti duo yang xing	抗体多样性	51
+kang ti yi zhi xing	抗体异质性	51
+kang xin jiao nang	康欣胶囊	51
+kang yuan jue ding cu	抗原决定簇	51

@@ -1,0 +1,30 @@
+ge li ji bie	隔离级别	456
+ge zhong cuo wu	各种错误	374
+ge ren ji suan ji	个人计算机	336
+ge dian	割点	335
+ge zhong pai xu	各种排序	332
+ge shi shu chu	格式输出	328
+ge shi hua shu chu	格式化输出	324
+ge bian	割边	309
+ge xing hua tui jian	个性化推荐	304
+ge shi hua zi fu chuan	格式化字符串	300
+ge xing hua she zhi	个性化设置	287
+ge li ji zhi	隔离机制	276
+ge xing sao miao	隔行扫描	269
+ge shi hua ri qi	格式化日期	267
+ge chao yuan li	鸽巢原理	262
+ge zhong sou suo	各种搜索	251
+ge shi hua shi jian	格式化时间	242
+ge shi kong zhi	格式控制	239
+ge shi hua shu ju	格式化数据	214
+ge ren dai ma	个人代码	209
+ge xing bian se	隔行变色	198
+ge ding	割顶	185
+ge ren shu zi zhu li	个人数字助理	176
+ge ti bian ma	个体编码	162
+ge xiang yi xing guo lv	各向异性过滤	159
+ge ren jian zhan	个人建站	139
+ge ren ji fang zhong gou	个人机房重构	128
+ge lei pai xu suan fa	各类排序算法	123
+ge long yuan li	鸽笼原理	115
+ge shi jie gou	格式结构	98

@@ -1,0 +1,193 @@
+mai chu	卖出	30936
+mai dan	买单	21807
+mai ke er	迈克尔	14508
+mai luo	脉络	11597
+mai dian	卖点	11021
+mai dang lao	麦当劳	9918
+mai fang	买方	7663
+mai fan	麦饭	6718
+mai tou ku gan	埋头苦干	5372
+mai tian	麦田	5236
+mai pian zhou	麦片粥	3878
+mai jin	买进	3837
+mai duan	买断	3462
+mai jia	卖价	2647
+mai chu hui gou zheng quan	卖出回购证券	2370
+mai bu	迈步	2179
+mai ru jing	麦乳精	2151
+mai jin li	麦金利	2147
+mai tong	买通	1840
+mai gao qiao	迈皋桥	1504
+mai di	麦地	1414
+mai de long	麦德龙	1412
+mai zhu	卖主	1155
+mai ya tang chun	麦芽糖醇	1104
+mai ya	麦芽	941
+mai dong	麦冬	862
+mai di xun	麦迪逊	799
+mai ya fen	麦芽酚	775
+mai ke a se	麦克阿瑟	661
+mai xiang yu	麦香鱼	634
+mai xi lai fu	麦西来甫	501
+mai ya tang	麦芽糖	483
+mai chong kuan du	脉冲宽度	473
+mai xiang ji	麦香鸡	471
+mai guan yu jue	卖官鬻爵	467
+mai gai ti	麦盖提	394
+mai dao	麦岛	379
+mai zi xue yuan	麦子学院	218
+mai ya cha	麦芽茶	208
+mai la ji chi	麦辣鸡翅	180
+mai kao lin	麦考林	168
+mai kong	卖空	165
+mai jia	买价	155
+mai du huan zhu	买椟还珠	151
+mai xiang he xie	迈向和谐	150
+mai chong zao sheng	脉冲噪声	140
+mai la ji tui han bao	麦辣鸡腿汉堡	138
+mai fen	麦粉	135
+mai ke lu han	麦克卢汉	135
+mai dao lu	麦岛路	130
+mai chong xiang ying	脉冲响应	127
+mai liao	麦寮	105
+mai de le	麦德乐	103
+mai chong pin lv	脉冲频率	90
+mai mai gong ping	买卖公平	86
+mai ke dao er	麦克道尔	84
+mai qu er	麦趣尔	84
+mai li zhong	麦粒肿	83
+mai yu qiao	卖鱼桥	82
+mai kong mai kong	买空卖空	72
+mai guo qiu rong	卖国求荣	61
+mai luo mo	脉络膜	59
+mai cheng	麦城	53
+mai luo fen ming	脉络分明	50
+mai tong	脉通	49
+mai ya zhou	麦芽粥	49
+mai er mai nv	卖儿卖女	48
+mai ke ma na si	麦克马纳斯	46
+mai xi re fu	麦西热甫	46
+mai luo ning zhu she ye	脉络宁注射液	45
+mai ma tiao zhi	脉码调制	45
+mai ke si wei	麦克斯韦	44
+mai fang shi chang	买方市场	42
+mai mai jun yong biao zhi zui	买卖军用标志罪	41
+mai chong chuan gan qi	脉冲传感器	40
+mai nong feng sao	卖弄风骚	39
+mai wa	麦洼	39
+mai ya chang	麦芽厂	39
+mai chong fu du	脉冲幅度	38
+mai mai he tong	买卖合同	37
+mai gu he xu sang zi di	埋骨何须桑梓地	36
+mai wen wei sheng	卖文为生	36
+mai luo ning	脉络宁	34
+mai jiao gai hua chun	麦角钙化醇	28
+mai yuan lu	麦园路	28
+mai ya zhi	麦芽汁	26
+mai zhuang	麦庄	26
+mai kun xiang	麦昆乡	25
+mai shen tou kao	卖身投靠	24
+mai da si	麦达斯	20
+mai cun	麦村	18
+mai wei di huang wan	麦味地黄丸	18
+mai bi	脉痹	17
+mai ka lei si	麦卡勒斯	17
+mai kong	买空	17
+mai sui bao	麦穗包	17
+mai fen dan gao	麦芬蛋糕	16
+mai gao qiao jie	迈皋桥街	16
+mai jiao	麦角	16
+mai si na	迈斯纳	15
+mai ye er	迈耶尔	15
+mai di mei su	麦迪霉素	14
+mai fang shi chang	卖方市场	14
+mai zai cha	麦仔茶	14
+mai ke te	麦科特	13
+mai guan fu kang jiao nang	脉管复康胶囊	11
+mai lang	麦朗	11
+mai dong zhen lie	脉动阵列	10
+mai hu shao	麦糊烧	10
+mai jiao xin jian	麦角新碱	10
+mai xi xiang	麦溪乡	10
+mai fu ya	埋伏牙	9
+mai luo mo tuo li	脉络膜脱离	9
+mai ren	麦人	9
+mai si ka lin	麦司卡林	9
+mai jiao an	麦角胺	8
+mai zhong qiao	麦钟桥	8
+mai da gun	麦打滚	7
+mai di ping bai zu xiang	麦地坪白族乡	7
+mai jiao an ka fei yin	麦角胺咖啡因	7
+mai zi dian xi jie	麦子店西街	7
+mai ba xiang	买巴乡	6
+mai beng xiang	麦崩乡	6
+mai guan xi tong	脉管系统	6
+mai chong shi dian ci fa	脉冲式电磁阀	5
+mai jiao gu chun	麦角固醇	5
+mai jing	脉经	5
+mai xie zhen	麦斜镇	5
+mai zhi ling	迈之灵	5
+mai beng	麦崩	4
+mai er ma xiang	麦尔玛乡	4
+mai ke luo xin	麦克罗辛	4
+mai lang cun	麦朗村	4
+mai miao gang qiao	麦苗港桥	4
+mai pei bing gan	麦胚饼干	4
+mai ri xiang	麦日乡	4
+mai wang cun	麦王村	4
+mai hua xue bai cai hua xi	麦花雪白菜花稀	3
+mai shi dian	麦氏点	3
+mai tan de qian he suo ying	卖炭得钱何所营	3
+mai bai mei su pian	麦白霉素片	2
+mai chao	卖超	2
+mai chi ying shu	脉翅萤属	2
+mai di long xiang	麦地龙乡	2
+mai di mei su pian	麦迪霉素片	2
+mai duan xing	买断型	2
+mai ke long da sha	迈科龙大厦	2
+mai luo mo hei se su liu	脉络膜黑色素瘤	2
+mai ma qiao	卖麻桥	2
+mai ma teng	买麻藤	2
+mai te na	迈特纳	2
+mai wei di huang kou fu ye	麦味地黄口服液	2
+mai zhi ling pian	迈之灵片	2
+mai de yi zhi chun yu fang	买得一枝春欲放	1
+mai di gou xiang	麦地沟乡	1
+mai hu	麦湖	1
+mai hu tu zhen	麦胡图镇	1
+mai jia ji zhen	买家集镇	1
+mai jiao an ka fei yin pian	麦角胺咖啡因片	1
+mai jing su	麦精酥	1
+mai ke hua yuan	麦克花园	1
+mai kong zhe	卖空者	1
+mai lang gong ye qu	麦朗工业区	1
+mai luo mo xue guan liu	脉络膜血管瘤	1
+mai luo mo yan	脉络膜炎	1
+mai luo tong pian	脉络通片	1
+mai men dong tang	麦门冬汤	1
+mai shan zhong dai lao shan jian	买山终待老山间	1
+mai shu cun cun dao mai xiang	麦熟村村捣麦香	1
+mai xian jie	麦苋街	1
+mai xue kang jiao nang	脉血康胶囊	1
+mai xue kong sheng bi cao chou	埋血空生碧草愁	1
+mai ya shan zha yin	麦芽山楂饮	1
+mai yu sheng pa jin cheng men	卖鱼生怕近城门	1
+mai chi gou jiao yuan jin hua chong	脉翅沟脚猿金花虫	0
+mai jing yi fu ying ye jia	麦茎异跗萤叶甲	0
+mai ke en tie zhao que wu	麦科恩铁爪雀鹀	0
+mai ke zhang yan bing xie	麦克长眼柄蟹	0
+mai luo yuan	脉络猿	0
+mai mai wen er	麦麦蚊儿	0
+mai pin cao	麦薲草	0
+mai qi gou wen gui	麦奇钩吻鲑	0
+mai qiao jiao qian ying	麦鞘角潜蝇	0
+mai shi ba weng	麦氏霸鹟	0
+mai shi da lin da yan diao	麦氏大鳞大眼鲷	0
+mai shi mu zhan zhi li	迈氏穆詹脂鲤	0
+mai shi nu sha	麦氏怒鲨	0
+mai shi weng yao	麦氏甕鳐	0
+mai ye jian wei yu	迈耶剑尾鱼	0
+mai ye shi xi mi ying wu	麦耶氏吸蜜鹦鹉	0
+mai ye shi ying wu	麦耶氏鹦鹉	0
+mai zhe lun heng shu	麦哲伦鸻属	0
+mai zhe lun xie le hai si luo	麦哲伦斜肋海蛳螺	0

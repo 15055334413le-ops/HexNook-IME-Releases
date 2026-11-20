@@ -1,0 +1,175 @@
+guo you gu	国有股	1232
+guo tu zi yuan bu	国土资源部	1202
+guo jia zhu xi	国家主席	1166
+guo jia gong wu yuan	国家公务员	1145
+guo jia gong zuo ren yuan	国家工作人员	712
+guo jia chan ye zheng ce	国家产业政策	661
+guo jia kai fa yin xing	国家开发银行	658
+guo jia gu	国家股	555
+guo jia ji guan gong zuo ren yuan	国家机关工作人员	549
+guo you gu jian chi	国有股减持	523
+guo wu yuan fa zhi ban	国务院法制办	505
+guo jia zhong yi yao guan li ju	国家中医药管理局	439
+guo you du zi gong si	国有独资公司	406
+guo jia yan cao zhuan mai ju	国家烟草专卖局	373
+guo ji jing ji fa	国际经济法	363
+guo you chan quan zhuan rang	国有产权转让	339
+guo jia jing ji an quan	国家经济安全	338
+guo jia dian li gong si	国家电力公司	331
+guo jia jian du	国家监督	306
+guo you du zi qi ye	国有独资企业	295
+guo jia huan jing bao hu zong ju	国家环境保护总局	288
+guo jia ce hui ju	国家测绘局	278
+guo jia jiao yu wei yuan hui	国家教育委员会	237
+guo you du zi shang ye yin xing	国有独资商业银行	232
+guo jia gan yu	国家干预	230
+guo ji gong cheng cheng bao	国际工程承包	225
+guo jia tong yi si fa kao shi	国家统一司法考试	220
+guo jia xin wen chu ban shu	国家新闻出版署	216
+guo ji xing shi fa yuan	国际刑事法院	215
+guo ji fu wu mao yi	国际服务贸易	193
+guo jia wai guo zhuan jia ju	国家外国专家局	189
+guo jia ji ben yao wu zhi du	国家基本药物制度	174
+guo wu yuan gang ao ban	国务院港澳办	157
+guo jia si fa kao shi da gang	国家司法考试大纲	150
+guo jia tu di du cha zhi du	国家土地督察制度	148
+guo ying gong si	国营公司	143
+guo jia bu chang	国家补偿	141
+guo jia tu di guan li ju	国家土地管理局	141
+guo jia jing ji zheng ce	国家经济政策	140
+guo fang dong yuan wei yuan hui	国防动员委员会	134
+guo jia huo bi zheng ce	国家货币政策	130
+guo jia an quan gong zuo	国家安全工作	128
+guo jia jie gou	国家结构	128
+guo jia fa guan xue yuan	国家法官学院	125
+guo jia he an quan ju	国家核安全局	122
+guo jia ji ben yao wu mu lu	国家基本药物目录	117
+guo jia neng yuan wei yuan hui	国家能源委员会	116
+guo jia kong bu zhu yi	国家恐怖主义	112
+guo ji ren quan fa	国际人权法	98
+guo jia jing ji wei yuan hui	国家经济委员会	98
+guo jia ji xie gong ye ju	国家机械工业局	97
+guo zhai zhuan xiang zi jin	国债专项资金	96
+guo jia wei sheng cheng shi biao zhun	国家卫生城市标准	95
+guo wu yuan zheng quan wei yuan hui	国务院证券委员会	95
+guo ji xi guan	国际习惯	94
+guo jia gong wu yuan fa	国家公务员法	89
+guo jia cai zheng zheng ce	国家财政政策	88
+guo jia jie gou xing shi	国家结构形式	88
+guo jia shen pan ji guan	国家审判机关	86
+guo wu yuan zu zhi fa	国务院组织法	83
+guo jia bao mi fa	国家保密法	82
+guo jia guo nei mao yi ju	国家国内贸易局	79
+guo jia qing gong ye ju	国家轻工业局	79
+guo jia bian jie	国家边界	78
+guo jia gong su ren	国家公诉人	71
+guo you nong chang shui fei gai ge	国有农场税费改革	71
+guo jia wei xian fei wu ming lu	国家危险废物名录	70
+guo jia mei tan gong ye ju	国家煤炭工业局	68
+guo zhai fa	国债法	65
+guo jia zhi jie tou zi	国家直接投资	62
+guo you zi chan chan quan jie ding	国有资产产权界定	62
+guo ji fa zhan yuan zhu	国际发展援助	61
+guo you hua zheng ce	国有化政策	61
+guo ji zhong fu zheng shui	国际重复征税	60
+guo jia neng yuan tou zi gong si	国家能源投资公司	57
+guo tu zi yuan ting zheng gui ding	国土资源听证规定	57
+guo wu yuan wai shi ban	国务院外事办	57
+guo jia jian she yong di	国家建设用地	56
+guo jia chu ban ju	国家出版局	55
+guo ji fa yuan gui yue	国际法院规约	54
+guo jia ji liang ju	国家计量局	54
+guo ji huo wu yun shu bao xian	国际货物运输保险	53
+guo jia fang zhi gong ye ju	国家纺织工业局	53
+guo ji zhi shi chan quan fa	国际知识产权法	52
+guo jia ji ben yang lao bao xian	国家基本养老保险	52
+guo jia ren shi ju	国家人事局	52
+guo jia jin chu kou yin xing	国家进出口银行	50
+guo jia ye jin gong ye ju	国家冶金工业局	50
+guo jia chan ye ji shu zheng ce	国家产业技术政策	49
+guo ji shi di gong yue	国际湿地公约	48
+guo jia li xing jie yue	国家厉行节约	47
+guo ji zhi wu bao hu gong yue	国际植物保护公约	46
+guo ji xin yong dan bao	国际信用担保	45
+guo wu yuan xin fang tiao li	国务院信访条例	45
+guo zhai yi ji zi ying shang	国债一级自营商	44
+guo ji xing shi fa yuan gui yue	国际刑事法院规约	43
+guo ji shang shi zhong cai fa	国际商事仲裁法	42
+guo jia nong ye wei yuan hui	国家农业委员会	42
+guo ji zhi fu shou duan	国际支付手段	39
+guo ji ren quan tiao yue	国际人权条约	38
+guo ji zhi shi chan quan zhi du	国际知识产权制度	38
+guo jia di zhen ying ji yu an	国家地震应急预案	38
+guo yu zi xin guo shi	过于自信过失	35
+guo shi bao zha zui	过失爆炸罪	33
+guo ji hang kong fa	国际航空法	32
+guo ji jing ji he zuo shi wu	国际经济合作实务	31
+guo ji mao yi tiao yue	国际贸易条约	31
+guo jia ji zhuan xiang gui hua	国家级专项规划	31
+guo you cai chan fa	国有财产法	31
+guo ji huo bi jin rong fa	国际货币金融法	30
+guo jia guan xia quan	国家管辖权	30
+guo jia huo mian quan	国家豁免权	30
+guo ji fa yuan yuan	国际法渊源	28
+guo wu yuan ke ji gan bu ju	国务院科技干部局	28
+guo you qi ye jing ying quan	国有企业经营权	28
+guo ji kong bu zhu yi fan zui	国际恐怖主义犯罪	27
+guo jia zong dong yuan fa	国家总动员法	27
+guo ying qi ye diao jie shui	国营企业调节税	27
+guo ji ji shu zhuan rang he tong	国际技术转让合同	26
+guo nei you xian fen bao	国内优先分保	26
+guo jia huang jin guan li ju	国家黄金管理局	25
+guo jia zhu xi zhi du	国家主席制度	25
+guo fang zhuan li tiao li	国防专利条例	24
+guo ji fa zhan fa	国际发展法	23
+guo ji fa yan jiu yuan	国际法研究院	22
+guo ji min shi guan xia quan	国际民事管辖权	22
+guo ji qiang xing fa	国际强行法	22
+guo ji shang fa xue xi zhi dao	国际商法学习指导	22
+guo zhai fa xing jia ge	国债发行价格	22
+guo jia cheng shi jian she zong ju	国家城市建设总局	20
+guo wu yuan fu pin kai fa ban	国务院扶贫开发办	19
+guo nei jing ji gong zheng	国内经济公证	18
+guo ji chan pin ze ren fa	国际产品责任法	17
+guo ji dian xin gong yue	国际电信公约	17
+guo jia bian zhi wei yuan hui	国家编制委员会	17
+guo jia he ying ji yu an	国家核应急预案	17
+guo nei yun ying quan	国内运营权	17
+guo gong ting zhan xie ding	国共停战协定	16
+guo jia xian jin guan li zhi du	国家现金管理制度	16
+guo ji huo bi fa	国际货币法	15
+guo ji shang shi he tong fa	国际商事合同法	15
+guo ji tuo guan zhi du	国际托管制度	15
+guo ji xi guan zuo fa	国际习惯做法	15
+guo ji xu ke zheng xie yi	国际许可证协议	15
+guo ji zhi wu ming ming fa gui	国际植物命名法规	15
+guo jia zhi quan zhu yi	国家职权主义	15
+guo ji re dai mu cai xie ding	国际热带木材协定	14
+guo jia gong zhi ren yuan fan zui	国家公职人员犯罪	14
+guo shi fan zui	国事犯罪	14
+guo fang zhuan li dai li ji gou	国防专利代理机构	13
+guo jia jing ji zhu quan yuan ze	国家经济主权原则	12
+guo ji jing ji fa jiao cheng	国际经济法教程	11
+guo jia cai chan huo mian quan	国家财产豁免权	11
+guo jia fang guan ju	国家房管局	11
+guo jia jin ku zhi du	国家金库制度	11
+guo jia zhuan ying qi ye	国家专营企业	11
+guo tu zi yuan jian cha yuan	国土资源监察员	11
+guo ji wu qi mao yi tiao li	国际武器贸易条例	10
+guo ying mao yi zhi du	国营贸易制度	10
+guo ji jing ji fa xi ti ji	国际经济法习题集	9
+guo ji nai zhi pin xie yi	国际奶制品协议	9
+guo ji niu rou xie yi	国际牛肉协议	9
+guo ji fa zhuan ti yan jiu	国际法专题研究	8
+guo ji hai shi qi zha	国际海事欺诈	8
+guo gong liang dang lu shan tan pan	国共两党庐山谈判	7
+guo ji te xu jing ying zhi nan	国际特许经营指南	7
+guo wu yuan shen ji zhang	国务院审计长	7
+guo cheng kong zhi yi biao ji shu	过程控制仪表技术	5
+guo ji fa lv fu wu mao yi	国际法律服务贸易	5
+guo ji mao yi fa zhuan lun	国际贸易法专论	5
+guo ji shui shou guan xia quan	国籍税收管辖权	5
+guo jia shui shou zhi fa quan	国家税收执法权	5
+guo jun kang zhan lian zuo fa	国军抗战连坐法	5
+guo min zhu zhai tiao li	国民住宅条例	5
+guo shi yin qi zhong du zui	过失引起中毒罪	5

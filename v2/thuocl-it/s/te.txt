@@ -1,0 +1,16 @@
+te zheng kong jian	特征空间	382
+te shu shu ju	特殊数据	316
+te zheng jian ce	特征检测	297
+te zheng pi pei	特征匹配	290
+te zheng chou qu	特征抽取	280
+te quan zhi ling	特权指令	264
+te zheng dian jian ce	特征点检测	256
+te shu suan fa	特殊算法	227
+te zheng shi bie	特征识别	219
+te zheng xiang	特征项	213
+te zheng mo xing	特征模型	164
+te zheng sheng cheng	特征生成	158
+te zheng bian ma	特征编码	143
+te quan ming ling	特权命令	128
+te shu hui wen shu	特殊回文数	126
+te zheng jiao hu	特征交互	86

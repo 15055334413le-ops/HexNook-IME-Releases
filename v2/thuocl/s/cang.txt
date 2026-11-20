@@ -1,0 +1,163 @@
+cang bao	藏宝	65341
+cang dan	仓单	47032
+cang ku	仓库	46589
+cang bai	苍白	8683
+cang nan	苍南	3045
+cang lang ting	沧浪亭	2954
+cang wei	仓位	2953
+cang zhou shi	沧州市	1773
+cang chuan	藏传	1596
+cang hai sang tian	沧海桑田	1528
+cang bai wu li	苍白无力	1505
+cang wu na gou	藏污纳垢	1385
+cang dan chi you ren	仓单持有人	956
+cang shan	仓山	938
+cang chu he tong	仓储合同	906
+cang xi	苍溪	684
+cang yi	藏医	634
+cang hai yi su	沧海一粟	577
+cang ku qu	仓库区	493
+cang long wo hu	藏龙卧虎	491
+cang song cui bai	苍松翠柏	459
+cang shu	仓鼠	409
+cang yuan	沧源	402
+cang ku guan li zhi du	仓库管理制度	390
+cang zhu	苍术	381
+cang huang chu tao	仓皇出逃	380
+cang kou	沧口	368
+cang hai heng liu	沧海横流	367
+cang jing kong	苍井空	327
+cang qian	仓前	314
+cang lin shi er zhi li jie	仓廪实而知礼节	303
+cang lang	沧浪	283
+cang yuan xian	沧源县	276
+cang fang gou	仓房沟	246
+cang chu bao guan he tong	仓储保管合同	243
+cang jie	仓颉	220
+cang bian lu	仓边路	201
+cang ku guan li xi tong	仓库管理系统	191
+cang fang gou lu	仓房沟路	184
+cang cui yu di	苍翠欲滴	159
+cang hu	藏狐	140
+cang xia	苍霞	130
+cang zhou dong cai	沧州冬菜	106
+cang men	仓门	84
+cang bo men	沧波门	82
+cang xiang	仓巷	79
+cang ying nong chang	苍蝇农场	79
+cang er zi	苍耳子	78
+cang hua su	藏花素	70
+cang yue	沧月	70
+cang er zi bi yan jiao nang	苍耳子鼻炎胶囊	68
+cang chu bao guan ren	仓储保管人	62
+cang shang	仓上	54
+cang tou lu wei	藏头露尾	54
+cang ku zu lin he tong	仓库租赁合同	49
+cang ji xin cun	仓基新村	48
+cang lang zhi shui zhuo xi	沧浪之水浊兮	45
+cang lang zhi shui qing xi	沧浪之水清兮	44
+cang zhou shi xin hua qu	沧州市新华区	43
+cang chu pei song	仓储配送	41
+cang tou	仓头	41
+cang hai yi zhu	沧海遗珠	39
+cang huang shi cuo	仓皇失措	34
+cang cang heng cui wei	苍苍横翠微	33
+cang mu ma yi	仓木麻衣	31
+cang qian jie dao	仓前街道	30
+cang mang yun hai jian	苍茫云海间	28
+cang fang gou cun	仓房沟村	27
+cang zhi ming shan	藏之名山	27
+cang kou wei ban	舱口围板	22
+cang xia xin cheng	苍霞新城	21
+cang ba wa xiang	藏巴哇乡	20
+cang wu lu	苍梧路	19
+cang zhou da hua	沧州大化	18
+cang tian cun	仓田村	17
+cang xia	仓下	16
+cang cheng	苍城	14
+cang jing you	苍井优	14
+cang tian xiang	仓田乡	14
+cang tou	苍头	14
+cang nan	沧南	13
+cang jie	仓街	12
+cang lang lu	沧浪路	12
+cang bo	沧波	11
+cang huang	藏獚	11
+cang xin yu yuan	藏心鱼圆	11
+cang hai yue ming zhu you lei	沧海月明珠有泪	9
+cang nan hu tong	仓南胡同	9
+cang kou qu	沧口区	7
+cang jing guan she qu	藏经馆社区	6
+cang long bai pu	藏龙百瀑	6
+cang long ri mu hai xing yu	苍龙日暮还行雨	6
+cang men cun	仓门村	6
+cang qiong dao	苍穹道	6
+cang zhou shi nan da gang	沧州市南大港	6
+cang gui xiang	藏桂乡	5
+cang wu jun	苍梧郡	5
+cang chang cun	苍场村	4
+cang mao dou	藏毛窦	4
+cang shan ying yuan	仓山影院	4
+cang er chong	苍耳虫	3
+cang fang xiao qu	仓房小区	3
+cang hai cheng sang tian	沧海成桑田	3
+cang mang yun wu fu	苍茫云雾浮	3
+cang shan ke ji yuan	仓山科技园	3
+cang shang cun	苍上村	3
+cang shang xiao qu	仓上小区	3
+cang xi cun	苍溪村	3
+cang zhu hui cun	苍术会村	3
+cang ba xiang	藏坝乡	2
+cang chu bao guan he tong shi wu	仓储保管合同实务	2
+cang hai heng liu an zu lv	沧海横流安足虑	2
+cang jia dao	仓夹道	2
+cang jiang dao	沧江道	2
+cang jiang ji ye liu	沧江急夜流	2
+cang men jie jie dao	仓门街街道	2
+cang shan bu xing jie	仓山步行街	2
+cang shan zhen zheng fu	仓山镇政府	2
+cang shi mian tiao	藏式面条	2
+cang wan	仓湾	2
+cang cang zhu lin si	苍苍竹林寺	1
+cang chang pu	藏菖蒲	1
+cang chi ming ri xiang	仓持明日香	1
+cang guan wei li xiong chan	藏管尾犁胸蝉	1
+cang hai de zhuang shi	沧海得壮士	1
+cang hai xian ying ri	沧海先迎日	1
+cang huang bu fu jun wang yi	仓黄不负君王意	1
+cang jin ji er	藏锦鸡儿	1
+cang ku qi yue	仓库契约	1
+cang lang shui shen qing ming kuo	沧浪水深青溟阔	1
+cang mang bu xiao shen ling yi	苍茫不晓神灵意	1
+cang mang gong guan ping	苍茫宫观平	1
+cang mang zhi wan chun	苍茫值晚春	1
+cang ran liang pian shi	苍然两片石	1
+cang ran man guan zhong	苍然满关中	1
+cang ran yu yi dui	苍然玉一堆	1
+cang shu wan juan ke jiao zi	藏书万卷可教子	1
+cang xia cun	苍霞村	1
+cang xiao da you yi	藏小大有宜	1
+cang zhou ye su wu geng feng	沧洲夜泝五更风	1
+cang ao zhang chi juan e	藏凹长翅卷蛾	0
+cang bai you cao zhong	苍白优草螽	0
+cang ban chi mu shi	藏半翅木虱	0
+cang cha bi tun	苍叉鼻鲀	0
+cang dai xiao ci yan qiu	苍带小刺眼鳅	0
+cang duan yin	苍短鮣	0
+cang e xi mi niao	苍额吸蜜鸟	0
+cang er nang chong	苍耳囊虫	0
+cang geng	鸧鶊	0
+cang hong mao hui zhu e	藏红毛喙祝蛾	0
+cang hong ye chi huang ban feng	藏红腋齿黄斑蜂	0
+cang huang yu luo	苍黄芋螺	0
+cang ji hua yi	苍棘花鮨	0
+cang jie mao chong	苍节帽虫	0
+cang nan wen ge	苍南文蛤	0
+cang se ku long zhang wei xue	苍色库隆长尾鳕	0
+cang yan	藏鰋	0
+cang ying he hang tian shi ye	苍蝇和航天事业	0
+cang ying tuan jie ha	苍鹰团结蛤	0
+cang ying yuan he luo	苍鹰原盒螺	0
+cang yuan jin xi xie	沧源近溪蟹	0
+cang zhao rou	藏鮡肉	0
+cang zhu e	苍祝蛾	0

@@ -1,0 +1,14 @@
+dwj	读文件	511
+dwsz	多维数组	482
+dwj	多文件	456
+dwd	多文档	328
+dwd	单文档	325
+dwjsc	多文件上传	319
+dwjsc	大文件上传	306
+dwb	读文本	256
+dwfx	多维分析	247
+dwsj	定位时间	236
+dwfs	第五范式	188
+dwsjjg	多维数据结构	118
+dwdjsj	第五代计算机	116
+dwdyy	第五代语言	94

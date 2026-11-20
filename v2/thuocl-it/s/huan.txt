@@ -1,0 +1,27 @@
+huan cun ji zhi	缓存机制	550
+huan jing da jian	环境搭建	542
+huan jing pei zhi	环境配置	537
+huan cun wen jian	缓存文件	506
+huan cun ce lve	缓存策略	457
+huan chong chi	缓冲池	439
+huan jing bian liang pei zhi	环境变量配置	437
+huan cun xi tong	缓存系统	424
+huan jing bian liang she zhi	环境变量设置	416
+huan cun fu wu qi	缓存服务器	414
+huan chong qu yi chu	缓冲区溢出	407
+huan jing she zhi	环境设置	379
+huan ying jie mian	欢迎界面	377
+huan xing deng dai	唤醒等待	361
+huan chong liu	缓冲流	347
+huan cun kuang jia	缓存框架	340
+huan jing an zhuang	环境安装	335
+huan chong ji shu	缓冲技术	282
+huan xing dui lie	环形队列	277
+huan chong qu fen pei	缓冲区分配	263
+huan chong qu guan li	缓冲区管理	240
+huan xing jin du tiao	环形进度条	236
+huan chong ji cun qi	缓冲寄存器	214
+huan jin	换进	198
+huan chong cun chu qi	缓冲存储器	195
+huan jing ying she	环境映射	165
+huan chong zhuang zhi	缓冲装置	100

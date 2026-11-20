@@ -1,0 +1,8 @@
+se cai fan wei	色彩范围	167
+se diao fen li	色调分离	151
+se du tu	色度图	137
+se kong jian	色空间	133
+se mo xing	色模型	115
+se du zuo biao	色度坐标	107
+se jian	色键	104
+se ping heng	色平衡	101

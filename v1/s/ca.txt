@@ -1,0 +1,174 @@
+ca shi	擦拭	75090
+ca jian er guo	擦肩而过	37240
+ca xi	擦洗	34950
+ca gan	擦干	31230
+ca qu	擦去	21155
+ca zhe	擦着	16230
+ca le	擦了	15195
+ca diao	擦掉	15145
+ca chu	擦除	14825
+ca xie	擦鞋	13500
+ca shang	擦伤	13490
+ca ca	擦擦	13140
+ca gan jing	擦干净	13050
+ca shen er guo	擦身而过	12285
+ca le ca	擦了擦	11935
+ca liang	擦亮	11530
+ca bian qiu	擦边球	10345
+ca zi	擦子	9999
+ca han	擦汗	9045
+ca guo	擦过	8805
+ca chu	擦出	8765
+ca jing	擦净	8245
+ca si	擦丝	6789
+ca lian	擦脸	6395
+ca de	擦得	6280
+ca shang	擦上	6155
+ca di	擦地	5555
+ca zui	擦嘴	5555
+ca liang yan jing	擦亮眼睛	5530
+ca pi xie	擦皮鞋	5415
+ca xie	擦写	5355
+ca shen	擦身	5350
+ca de	擦的	5215
+ca jian	擦肩	4650
+ca zai	擦在	4190
+ca yan lei	擦眼泪	3935
+ca bo li	擦玻璃	3860
+ca gan yan lei	擦干眼泪	3710
+ca shi zhe	擦拭着	3650
+ca pi gu	擦屁股	3340
+ca ba	擦吧	3333
+ca che	擦车	3333
+ca jiao	擦脚	3333
+ca jiao jin	擦脚巾	3333
+ca men	擦门	3333
+ca ne	擦呢	3333
+ca wang	擦网	3333
+ca wang le	擦网了	3333
+ca zhuo zi	擦桌子	3000
+ca po	擦破	2850
+ca xie ji	擦鞋机	2800
+ca mo	擦抹	2555
+ca bei	擦背	2530
+ca yi xia	擦一下	2465
+ca dao	擦到	2415
+ca hei	擦黑	2285
+ca chuang	擦床	2222
+ca bu diao	擦不掉	2100
+ca xi gan jing	擦洗干净	1970
+ca yi ca	擦一擦	1875
+ca hen	擦痕	1795
+ca bian	擦边	1705
+ca shi bu	擦拭布	1505
+ca shi zhi	擦拭纸	1425
+ca lei	擦泪	1375
+ca yao	擦药	1280
+ca chuang	擦窗	1111
+ca peng	擦碰	1111
+ca wan	擦完	1111
+ca bu	擦布	960
+ca shou zhi	擦手纸	930
+ca you	擦油	825
+ca qiang zou huo	擦枪走火	820
+ca yin	擦音	720
+ca zao	擦澡	705
+ca cheng si	擦成丝	678
+ca cheng si er	擦成丝儿	678
+ca si er	擦丝儿	678
+ca qiang	擦枪	665
+ca chuang hu	擦窗户	650
+ca fen	擦粉	615
+ca xie jiang	擦鞋匠	580
+ca bi	擦笔	565
+ca chu qi	擦除器	355
+ca liang de	擦亮的	305
+ca kou hong	擦口红	230
+ca liang yan	擦亮眼	200
+ca bian guo	擦边过	180
+ca po pi	擦破皮	175
+ca xian guo	擦线过	171
+ca yi bian	擦一遍	156
+ca chuang zi	擦窗子	139
+ca ca xi xi	擦擦洗洗	130
+ca ping bu	擦屏布	127
+ca fang shai	擦防晒	124
+ca ca sheng	嚓嚓声	123
+ca chuang	礤床	109
+ca chuang er	礤床儿	109
+ca bang qiu	擦棒球	100
+ca bei ai jian	擦背挨肩	100
+ca bian er	擦边儿	100
+ca bian er zhu bo	擦边儿主播	100
+ca bian guo le	擦边过了	100
+ca bian nv zhu bo	擦边女主播	100
+ca bian zhu bo	擦边主播	100
+ca ca ca ca	擦擦擦擦	100
+ca ca kan	擦擦看	100
+ca ca ke lin	擦擦克林	100
+ca chu ai	擦出爱	100
+ca chu le ai de huo hua	擦出了爱的火花	100
+ca chu le ai qing de huo hua	擦出了爱情的火花	100
+ca chu le huo hua	擦出了火花	100
+ca chu shen me yang de huo hua	擦出什么样的火花	100
+ca de geng liang	擦得更亮	100
+ca di ban	擦地板	100
+ca di ji	擦地机	100
+ca di ji qi ren	擦地机器人	100
+ca diao le wu gou	擦掉了污垢	100
+ca dou ca bu diao	擦都擦不掉	100
+ca ge zhuo zi	擦个桌子	100
+ca guo lai	擦过来	100
+ca guo qu	擦过去	100
+ca hei ban	擦黑板	100
+ca jing tou	擦镜头	100
+ca kou shui	擦口水	100
+ca lai ca qu	擦来擦去	100
+ca lang hei	擦狼黑	100
+ca le ba	擦了把	100
+ca le ba kou shui	擦了把口水	100
+ca le ca yan lei	擦了擦眼泪	100
+ca le ca zui jiao	擦了擦嘴角	100
+ca le you ca	擦了又擦	100
+ca liang le	擦亮了	100
+ca liang le yan jing	擦亮了眼睛	100
+ca ling jiang tai	擦领奖台	100
+ca po le pi	擦破了皮	100
+ca qi lai	擦起来	100
+ca qiang er guo	擦墙而过	100
+ca qu ni yan jiao de lei	擦去你眼角的泪	100
+ca quan mo zhang	擦拳摩掌	100
+ca shang lai	擦上来	100
+ca shang qu	擦上去	100
+ca shi fa	擦拭法	100
+ca shi le yi ye	擦拭了一夜	100
+ca wan bu	擦碗布	100
+ca wang qiu	擦网球	100
+ca xia lai	擦下来	100
+ca xia qu	擦下去	100
+ca xiang xiang	擦香香	100
+ca xie dian	擦鞋垫	100
+ca xie tong	擦鞋童	100
+ca xie you	擦鞋油	100
+ca zhang mo quan	擦掌磨拳	100
+ca zhe han	擦着汗	100
+ca zhe han shui	擦着汗水	100
+ca zhe han zi	擦着汗渍	100
+ca zhe leng han	擦着冷汗	100
+ca zhe lian	擦着脸	100
+ca hei er	擦黑儿	70
+ca de xiang	擦得像	50
+ca pian	擦片	36
+ca ji	擦剂	31
+ca de bi	擦得比	25
+ca yan mo lei	擦眼抹泪	25
+ca zhi mo fen	擦脂抹粉	24
+ca lan	擦烂	15
+ca quan mo zhang	擦拳磨掌	8
+ca ca	嚓嚓	5
+ca bian zhuang ji	擦边撞击	1
+ca han men	擦汗门	1
+ca luo yi zu xiang	擦罗彝族乡	1
+ca you mo fen	擦油抹粉	1
+ca zhang mo quan	擦掌摩拳	1
+ca zhe ne	擦着呢	1

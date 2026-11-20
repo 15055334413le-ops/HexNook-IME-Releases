@@ -1,0 +1,10 @@
+lpz	零配置	344
+lph	令牌环	267
+lplssz	拉普拉斯算子	247
+lp	链剖	246
+lpxr	离屏渲染	245
+lphw	令牌环网	240
+lpcd	令牌传递	177
+lpzx	令牌总线	152
+lpzxw	令牌总线网	94
+lpcdxy	令牌传递协议	91

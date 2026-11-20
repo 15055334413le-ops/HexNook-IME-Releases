@@ -1,0 +1,14 @@
+sz	上证	2024
+szzz	上证综指	873
+szzdy	深圳智多盈	197
+szzz	深证综指	165
+szbk	深圳比克	126
+szh	双账户	126
+szfd	深圳方大	97
+szhj	苏州恒久	97
+sz	深值	83
+szgd	苏州固锝	83
+szgj	深圳国际	83
+szhwxc	深圳海王星辰	83
+szmr	深圳迈瑞	63
+szny	深圳能源	63

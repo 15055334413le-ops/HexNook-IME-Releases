@@ -1,0 +1,22 @@
+shun xu cun chu	顺序存储	482
+shun xu cha zhao	顺序查找	408
+shun xu cun chu jie gou	顺序存储结构	378
+shun xu hao	顺序号	359
+shun xu chu li	顺序处理	358
+shun xu diao yong	顺序调用	349
+shun xu zhan	顺序栈	314
+shun xu tu	顺序图	312
+shun xu rong qi	顺序容器	301
+shun xu sou suo	顺序搜索	290
+shun xu fa sheng	顺序发生	286
+shun xu kong zhi	顺序控制	278
+shun xu cun qu	顺序存取	270
+shun xu dui lie	顺序队列	262
+shun xu cao zuo	顺序操作	251
+shun xu wen jian	顺序文件	240
+shun xu suo yin	顺序索引	228
+shun xu tong ji liang	顺序统计量	173
+shun xu diao du	顺序调度	160
+shun xu jin cheng	顺序进程	135
+shun xu cheng xu she ji	顺序程序设计	120
+shun tai fen xi	瞬态分析	88

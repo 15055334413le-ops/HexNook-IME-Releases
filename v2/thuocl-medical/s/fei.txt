@@ -1,0 +1,100 @@
+fei cuo shang	肺挫伤	496
+fei dong mai gao ya	肺动脉高压	468
+fei re	肺热	448
+fei yi zhi	肺移植	418
+fei yan yi miao	肺炎疫苗	399
+fei xiao xi bao fei ai	非小细胞肺癌	368
+fei gong neng jian cha	肺功能检查	314
+fei na xi ding	非那西丁	311
+fei zai ti kang yan yao	非甾体抗炎药	293
+fei mo chuan ran	飞沫传染	275
+fei yan qiu jun yi miao	肺炎球菌疫苗	272
+fei da pao	肺大泡	260
+fei dong mai ban xia zhai	肺动脉瓣狭窄	249
+fei nong zhong	肺脓肿	249
+fei tong qi	肺通气	244
+fei bu zhang	肺不张	243
+fei yuan xing xin zang bing	肺源性心脏病	239
+fei tan ju	肺炭疽	229
+fei gan ran xing fu xie	非感染性腹泻	213
+fei dong mai bi suo	肺动脉闭锁	211
+fei yu	肺俞	205
+fei jian zhi xian wei hua	肺间质纤维化	204
+fei xi chong bing	肺吸虫病	197
+fei lin jun xing niao dao yan	非淋菌性尿道炎	191
+fei dong mai ban	肺动脉瓣	183
+fei wai jie he	肺外结核	182
+fei zhu pi mao	肺主皮毛	180
+fei ye qie chu shu	肺叶切除术	178
+fei yan zhi yuan ti	肺炎支原体	174
+fei shi bian	肺实变	171
+fei zong shen jing	腓总神经	171
+fei shen yin xu	肺肾阴虚	169
+fei yan shuang qiu jun	肺炎双球菌	167
+fei hou xing xin ji bing	肥厚性心肌病	163
+fei yu xue	肺俞穴	163
+fei shen liang xu	肺肾两虚	160
+fei te yi xing mian yi	非特异性免疫	160
+fei yan qiu jun gan ran	肺炎球菌感染	160
+fei li ke jiao nang	肺力咳胶囊	145
+fei bi xu an ji suan	非必需氨基酸	142
+fei duan qie chu shu	肺段切除术	139
+fei hou xing you men xia zhai	肥厚性幽门狭窄	139
+fei kai qiao yu bi	肺开窍于鼻	139
+fei ye	肺野	139
+fei luo di ping	非洛地平	132
+fei cheng ran se ti	费城染色体	129
+fei nuo bei te	非诺贝特	129
+fei he jie jin shi lin ba liu	非何杰金氏淋巴瘤	125
+fei zhang	肺胀	125
+fei luo di ping huan shi pian	非洛地平缓释片	121
+fei shuai	肺衰	121
+fei yan qiu jun xing fei yan	肺炎球菌性肺炎	117
+fei chuan ci	肺穿刺	113
+fei gu tou	腓骨头	113
+fei ke	肺咳	113
+fei pao biao mian huo xing wu zhi	肺泡表面活性物质	113
+fei qi bu xuan	肺气不宣	113
+fei dong mai ban bi suo	肺动脉瓣闭锁	103
+fei yan lian qiu jun xing fei yan	肺炎链球菌性肺炎	103
+fei yan yi yuan ti	肺炎衣原体	103
+fei dong mai gan	肺动脉干	98
+fei qi shang ni	肺气上逆	98
+fei wei zhu tan zhi qi	肺为贮痰之器	98
+fei dong jing mai lou	肺动静脉瘘	91
+fei jie chu yan ya ji	非接触眼压计	91
+fei li ke he ji	肺力咳合剂	91
+fei wei xian	肺萎陷	91
+fei chao bai mai	肺朝百脉	84
+fei gu ji wei suo	腓骨肌萎缩	84
+fei nei ya	肺内压	84
+fei pao xi bao ai	肺泡细胞癌	84
+fei te yi xing niao dao yan	非特异性尿道炎	84
+fei te yi xing yin dao yan	非特异性阴道炎	84
+fei xie xing qie chu shu	肺楔形切除术	84
+fei liang xing zhong liu	肺良性肿瘤	76
+fei luo di ping pian	非洛地平片	76
+fei na xiong an pian	非那雄胺片	76
+fei na zai an	非那甾胺	76
+fei nei yi wu	肺内异物	76
+fei nuo bei te jiao nang	非诺贝特胶囊	76
+fei qi	肥气	76
+fei qi zhong pian	肺气肿片	76
+fei yi zhi shu	肺移植术	76
+fei zhou zhui chong bing	非洲锥虫病	76
+fei bao chong bing	肺包虫病	66
+fei can shu jian yan	非参数检验	66
+fei ce fu ren dai	腓侧副韧带	66
+fei er tang jiang	肥儿糖浆	66
+fei lin qiu jun xing niao dao yan	非淋球菌性尿道炎	66
+fei pao tong qi liang	肺泡通气量	66
+fei yong xing ruo shi	废用性弱视	66
+fei dong mai kuo zhang	肺动脉扩张	51
+fei er san	肥儿散	51
+fei hou xing wei yan	肥厚性胃炎	51
+fei kui yang xing xiao hua bu liang	非溃疡性消化不良	51
+fei long duo ming wan	飞龙夺命丸	51
+fei nuo bei te fen san pian	非诺贝特分散片	51
+fei pao ge	肺泡隔	51
+fei te yi xing gao wan yan	非特异性睾丸炎	51
+fei yin qiu jun bing	肺隐球菌病	51

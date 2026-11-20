@@ -1,0 +1,4 @@
+ruo yin yong	弱引用	558
+ruo yi zhi xing mo xing	弱一致性模型	153
+ruo lian tong tu	弱连通图	123
+ruo mi yao	弱密钥	120

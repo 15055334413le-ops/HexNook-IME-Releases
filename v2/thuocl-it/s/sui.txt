@@ -1,0 +1,22 @@
+sui ji cun qu	随机存取	395
+sui ji zi fu chuan	随机字符串	376
+sui ji sen lin	随机森林	370
+sui ji han shu	随机函数	367
+sui ji shu sheng cheng qi	随机数生成器	361
+sui ji shu sheng cheng	随机数生成	337
+sui ji ti du xia jiang	随机梯度下降	332
+sui ji suan fa	随机算法	319
+sui ji yan se	随机颜色	273
+sui ji shu xu lie	随机数序列	267
+sui ji wen jian	随机文件	262
+sui ji zao sheng	随机噪声	252
+sui ji cun chu qi	随机存储器	244
+sui ji hua suan fa	随机化算法	241
+sui ji cha zhao	随机查找	227
+sui ji ce shi	随机测试	221
+sui ji bian hua	随机变化	195
+sui ji chu li	随机处理	180
+sui ji cun qu nei cun	随机存取内存	148
+sui ji zeng liang fa	随机增量法	148
+sui ji sao miao	随机扫描	136
+sui ji diao du	随机调度	133

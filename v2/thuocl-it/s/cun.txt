@@ -1,0 +1,47 @@
+cun chu fang shi	存储方式	611
+cun chu jie gou	存储结构	578
+cun chu wei zhi	存储位置	552
+cun chu wen jian	存储文件	460
+cun qu su du	存取速度	411
+cun chu lei xing	存储类型	408
+cun chu guan li	存储管理	404
+cun qu fang fa	存取方法	355
+cun qu shi jian	存取时间	308
+cun dang wen jian	存档文件	289
+cun dao wen jian	存到文件	289
+cun chu pei zhi	存储配置	283
+cun chu zhuan fa	存储转发	278
+cun chu kong jian bu zu	存储空间不足	265
+cun qu kong zhi	存取控制	254
+cun chu zhen lie	存储阵列	239
+cun chu mo kuai	存储模块	238
+cun chu mei ti	存储媒体	237
+cun chu mi du	存储密度	236
+cun chu bao hu	存储保护	232
+cun chu ti	存储体	222
+cun chu ju zhen	存储矩阵	218
+cun chu zhan	存储栈	204
+cun qu xu ke	存取许可	195
+cun chu xu ni hua	存储虚拟化	193
+cun chu sui pian	存储碎片	184
+cun qu biao	存取表	180
+cun chu qi ceng ci	存储器层次	178
+cun chu qi fen pei	存储器分配	171
+cun qu quan	存取权	160
+cun chu guan li fu wu	存储管理服务	157
+cun chu zhou qi	存储周期	153
+cun chu qi dai kuan	存储器带宽	151
+cun chu yuan jian	存储元件	148
+cun chu dai kuan	存储带宽	146
+cun qu lei xing	存取类型	143
+cun chu qi zong xian	存储器总线	136
+cun qu ju zhen	存取矩阵	124
+cun qu bi	存取臂	116
+cun qu ji bie	存取级别	107
+cun chu xuan qu	存储选区	104
+cun qu kong zhi ji zhi	存取控制机制	103
+cun qu dui lie	存取队列	101
+cun qu fan chou	存取范畴	100
+cun chu guan li bu jian	存储管理部件	88
+cun chu guan li ce lve	存储管理策略	88
+cun qu chong tu	存取冲突	86

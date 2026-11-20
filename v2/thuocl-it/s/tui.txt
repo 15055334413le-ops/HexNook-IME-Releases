@@ -1,0 +1,10 @@
+tui chu cheng xu	退出程序	539
+tui song xiao xi	推送消息	432
+tui chu ying yong	退出应用	409
+tui song zheng shu	推送证书	289
+tui li gui ze	推理规则	197
+tui li fang fa	推理方法	183
+tui li xi tong	推理系统	136
+tui dao shu	推导树	114
+tui li ce lve	推理策略	88
+tui li wang luo	推理网络	88

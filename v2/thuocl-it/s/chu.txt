@@ -1,0 +1,28 @@
+chu zhan	出栈	658
+chu shi hua fang fa	初始化方法	585
+chu mo shi jian	触摸事件	550
+chu shi hua lie biao	初始化列表	429
+chu shi hua shun xu	初始化顺序	394
+chu cuo chu li	出错处理	366
+chu shi xu lie	初始序列	363
+chu li liu	处理流	339
+chu shi hua kuai	初始化块	334
+chu li qi diao du	处理器调度	241
+chu li qi guan li	处理器管理	210
+chu shi ji shu	初始计数	208
+chu li qi fen pei	处理器分配	187
+chu cuo wen jian	出错文件	179
+chu shi mo xing	初始模型	171
+chu xian xu lie	出现序列	170
+chu mo ji zhi	触摸机制	169
+chu shi chi cun	初始尺寸	162
+chu li bu jian	处理部件	159
+chu ji shi jue	初级视觉	157
+chu li qi ji shu	处理器技术	144
+chu shi tou ming du	初始透明度	134
+chu cuo zhong duan	出错中断	120
+chu shi dai ma kuai	初始代码块	119
+chu li ji dui	处理机对	108
+chu ji yun wei	初级运维	101
+chu li ji zhuang tai zi	处理机状态字	101
+chu ji suan fa	初级算法	96

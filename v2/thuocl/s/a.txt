@@ -1,0 +1,381 @@
+a fu han	阿富汗	54219
+a li ba ba	阿里巴巴	19329
+a lian qiu	阿联酋	13105
+a ji nuo	阿基诺	7898
+a ba	阿坝	4276
+a ba zhou	阿坝州	3839
+a duo	阿朵	3309
+a si ba tian	阿斯巴甜	3118
+a bo luo	阿波罗	2718
+a si dun ma ding	阿斯顿马丁	1890
+a ke su shi	阿克苏市	1737
+a la fa te	阿拉法特	1592
+a la shan kou	阿拉山口	1586
+a la si jia zhou	阿拉斯加州	1551
+a ken se zhou	阿肯色州	1526
+a er bei si shan	阿尔卑斯山	1386
+a lan	阿兰	1310
+a si pi lin	阿司匹林	1301
+a bian	阿扁	1279
+a er fa luo mi ou	阿尔法罗密欧	1203
+a er bo te gong yuan sai dao	阿尔伯特公园赛道	1143
+a lei tai shi	阿勒泰市	1128
+a er bei si	阿尔卑斯	1035
+a er ji er	阿尔及尔	898
+a tu shen shi	阿图什市	894
+a bao	阿宝	885
+a la bo jiao	阿拉伯胶	819
+a li lang	阿里郎	793
+a se	阿瑟	774
+a li yun fu wu qi	阿里云服务器	753
+a nuo de	阿诺德	709
+a er shan	阿尔山	686
+a mo xi lin	阿莫西林	653
+a la er shi	阿拉尔市	645
+a dao fu	阿道夫	616
+a lai	阿来	607
+a er fu lei de	阿尔弗雷德	594
+a xin	阿信	571
+a long suo	阿隆索	569
+a ke la	阿克拉	542
+a er fu lei duo	阿尔弗雷多	507
+a ya	阿雅	478
+a ying	阿英	422
+a er tai shan	阿尔泰山	412
+a er shan shi	阿尔山市	410
+a er ci hai mo bing	阿尔茨海默病	409
+a er jin shan	阿尔金山	381
+a er bei tuo	阿尔贝托	373
+a ji mi de	阿基米德	361
+a lei tai lu	阿勒泰路	328
+a jia ke si	阿贾克斯	321
+a er bei te	阿尔贝特	319
+a du	阿杜	309
+a li shan gao shan cha	阿里山高山茶	299
+a mo xi lin jiao nang	阿莫西林胶囊	287
+a ka liu si	阿喀琉斯	277
+a mu	阿木	276
+a si li kang	阿斯利康	266
+a meng	阿蒙	265
+a la bo ka fei	阿拉伯咖啡	260
+a niu	阿牛	255
+a ke sai	阿克塞	239
+a yu wang	阿育王	238
+a sang	阿桑	209
+a tuo pin	阿托品	206
+a bo du er	阿卜杜尔	196
+a er ba	阿尔巴	196
+a bo	阿波	193
+a su wei	阿苏卫	176
+a jia sha	阿加莎	170
+a ke tao	阿克陶	166
+a nan de	阿南德	166
+a li ke si	阿历克斯	162
+a lun te	阿伦特	161
+a mao a gou	阿猫阿狗	157
+a mi ba	阿米巴	142
+a le	阿乐	140
+a li han	阿里汉	138
+a jia xi	阿加西	136
+a xi mo fu	阿西莫夫	133
+a chang zu	阿昌族	131
+a he qi	阿合奇	130
+a li ju an quan	阿里聚安全	125
+a lian de	阿连德	124
+a qing sao	阿庆嫂	124
+a wa ti	阿瓦提	124
+a er bin na	阿尔宾娜	122
+a yi	阿忆	102
+a gui	阿桂	89
+a lu ba	阿鲁巴	86
+a cheng shi	阿城市	83
+a li bi shi	阿里笔试	77
+a bu dou ke li mu	阿不都克里木	75
+a men	阿门	74
+a song	阿松	74
+a si pi lin chang rong pian	阿司匹林肠溶片	72
+a pu zuo lun	阿普唑仑	67
+a zha	阿扎	66
+a de fu wei zhi	阿德福韦酯	61
+a bo ding jun	阿伯丁郡	60
+a luo	阿洛	60
+a yang	阿阳	60
+a mu da er ding lv	阿姆达尔定律	59
+a fa si ting	阿伐斯汀	54
+a si ta na	阿斯塔那	54
+a mi ling	阿弥岭	51
+a he mai ti jiang	阿合买提江	49
+a bu gui xiu	阿部规秀	48
+a tuo fa ta ting	阿托伐他汀	46
+a li si tuo fen	阿里斯托芬	43
+a ba suo fu	阿巴索夫	42
+a you duo	阿幼朵	41
+a ka bo tang	阿卡波糖	39
+a mo xi lin ke li	阿莫西林颗粒	39
+a xi luo wei	阿昔洛韦	39
+a gen ting du gao quan	阿根廷杜高犬	37
+a kui na	阿奎那	36
+a gu bai	阿古柏	35
+a lei ma lei xiang	阿勒玛勒乡	35
+a li ke xie	阿里克谢	35
+a hong kou	阿洪口	33
+a pu zuo lun pian	阿普唑仑片	32
+a ken dan chang hui	阿肯弹唱会	30
+a re wu si tang xiang	阿热吾斯塘乡	30
+a ke ti kan dun xiang	阿克提坎墩乡	28
+a mi san qin luo ba xin pian	阿米三嗪萝巴新片	28
+a qin	阿沁	27
+a ka bo tang pian	阿卡波糖片	26
+a ke tu bie ke xiang	阿克吐别克乡	26
+a duo xiang	阿多乡	24
+a la shan cun	阿拉善村	23
+a cheng xian	阿城县	22
+a qi mei su ke li	阿奇霉素颗粒	22
+a wan cang xiang	阿万仓乡	22
+a wei suan	阿魏酸	22
+a fan ti de gu shi	阿凡提的故事	21
+a la bo tang	阿拉伯糖	21
+a mi ka xing	阿米卡星	20
+a mi ti lin	阿米替林	20
+a wa ti nong chang	阿瓦提农场	20
+a ba la qi ya shan	阿巴拉契亚山	19
+a jia ni ya	阿加尼亚	19
+a ke sa ke ma re lei xiang	阿克萨克马热勒乡	19
+a la gou xiang	阿拉沟乡	19
+a mo xi lin fen san pian	阿莫西林分散片	19
+a fang si lu	阿房四路	18
+a huan ya mian	阿焕鸭面	18
+a qi mei su fen san pian	阿奇霉素分散片	18
+a ben da zuo pian	阿苯达唑片	17
+a fu han lie gou	阿富汗猎狗	17
+a mei su	阿霉素	17
+a tuo fa ta ting gai pian	阿托伐他汀钙片	17
+a chu	阿初	16
+a la ta	阿拉塔	16
+a si pi lin pian	阿司匹林片	16
+a de mi er	阿德米尔	15
+a er ka	阿尔卡	15
+a luo xi lin	阿洛西林	15
+a qi mei su jiao nang	阿奇霉素胶囊	15
+a tang bao gan	阿糖胞苷	15
+a lun lin suan na	阿仑膦酸钠	14
+a ti luo er	阿替洛尔	14
+a ke su pu xiang	阿克苏普乡	13
+a la ming	阿拉明	13
+a qi mei su pian	阿奇霉素片	13
+a xu	阿须	13
+a zhuang zhen	阿庄镇	13
+a pa lu sa ma	阿帕卢萨马	12
+a re lei zhen	阿热勒镇	12
+a ti pu mei	阿替普酶	12
+a wen shou bei	阿文绶贝	12
+a xi rong xiang	阿西茸乡	12
+a ben da zuo	阿苯达唑	11
+a he	阿河	11
+a mu xiang	阿木乡	11
+a pei a wang jin mei	阿沛阿旺晋美	11
+a rou xiang	阿柔乡	11
+a wu li ya xiang	阿乌利亚乡	11
+a xi xiang	阿西乡	11
+a guai	阿怪	10
+a ke tao zhen	阿克陶镇	10
+a la er shi qu	阿拉尔市区	10
+a man ni sha han	阿曼尼莎汗	10
+a na tuo er mu yang quan	阿那托尔牧羊犬	10
+a ri zha	阿日扎	9
+a er ben ge lei zhen	阿尔本格勒镇	8
+a gu da	阿骨打	8
+a mu qu hu zhen	阿木去乎镇	8
+a ri zha xiang	阿日扎乡	8
+a rou bi xing	阿柔比星	8
+a shen he jie dao	阿什河街道	8
+a yue xiang	阿月乡	8
+a bu kuan	阿部宽	7
+a de fu wei zhi jiao nang	阿德福韦酯胶囊	7
+a de fu wei zhi pian	阿德福韦酯片	7
+a mo xi lin ju jue pian	阿莫西林咀嚼片	7
+a wu xiang	阿坞乡	7
+a chen	阿辰	6
+a hong lu ku mu xiang	阿洪鲁库木乡	6
+a ke li xiang	阿科里乡	6
+a lang xiang	阿朗乡	6
+a na ku lei xiang	阿纳库勒乡	6
+a qi mei su zhu she ye	阿奇霉素注射液	6
+a si pi lin pao teng pian	阿司匹林泡腾片	6
+a tuo	阿陀	6
+a xi luo wei pian	阿昔洛韦片	6
+a yi tu la	阿依吐拉	6
+a bei ge	阿贝格	5
+a la si jia shen hai yu you	阿拉斯加深海鱼油	5
+a lan de long	阿兰德隆	5
+a ma li er duo	阿马里尔多	5
+a men jiao shi	阿门角石	5
+a mo xi lin pian	阿莫西林片	5
+a si mi zuo	阿司咪唑	5
+a si pi lin huan shi pian	阿司匹林缓释片	5
+a xi luo wei di yan ye	阿昔洛韦滴眼液	5
+a xi luo wei ru gao	阿昔洛韦乳膏	5
+a gu la zhen	阿古拉镇	4
+a he qi nong chang	阿合其农场	4
+a luo ni yang	阿罗尼扬	4
+a mu ta	阿木塔	4
+a wei hua pi gao	阿魏化痞膏	4
+a ba kan shi	阿巴坎市	3
+a bu li	阿部力	3
+a er pai dian zi	阿尔派电子	3
+a fang yi lu xi kou	阿房一路西口	3
+a ka fen jiao nang	阿咖酚胶囊	3
+a ka fen san	阿咖酚散	3
+a la teng chao ke su mu	阿拉腾朝克苏木	3
+a lao te la pi ti	阿劳特拉鸊鹈	3
+a li pai zuo	阿立哌唑	3
+a li pai zuo pian	阿立哌唑片	3
+a mo xi lin gan hun xuan ji	阿莫西林干混悬剂	3
+a mo xi lin na	阿莫西林钠	3
+a pu ma fei	阿扑吗啡	3
+a qi mei su gan hun xuan ji	阿奇霉素干混悬剂	3
+a qin an a na yu lin	阿钦安阿纳雨林	3
+a shen li ha sa ke zu xiang	阿什里哈萨克族乡	3
+a si pi lin chang rong jiao nang	阿司匹林肠溶胶囊	3
+a xi luo wei ruan gao	阿昔洛韦软膏	3
+a xu xiang	阿须乡	3
+a zi jue xiang	阿兹觉乡	3
+a zi xiang	阿孜乡	3
+a cha	阿察	2
+a cha xiang	阿察乡	2
+a de lei de gang	阿德雷德港	2
+a di	阿笛	2
+a er ji li ya shi	阿尔及利亚鳾	2
+a fa gu hua chun	阿法骨化醇	2
+a he bie li dou xiang	阿合别里斗乡	2
+a he luo mei ye fu	阿赫罗梅耶夫	2
+a hei pi su yuan	阿黑皮素原	2
+a jia qu ban	阿加曲班	2
+a ke tuo hai yi xiang	阿克托海依乡	2
+a la ge er xiang	阿拉格尔乡	2
+a lei tai xian	阿勒泰县	2
+a li bu ge	阿里不哥	2
+a li di	阿里地	2
+a lu ba dao xiang wei she	阿鲁巴岛响尾蛇	2
+a luo xi lin na	阿洛西林钠	2
+a mi ba gan nong zhong	阿米巴肝脓肿	2
+a mo luo fen	阿莫罗芬	2
+a na qu zuo	阿那曲唑	2
+a qu ku an	阿曲库铵	2
+a ben da zuo ke li	阿苯达唑颗粒	1
+a bi yin hang	阿比银行	1
+a da pa lin ning jiao	阿达帕林凝胶	1
+a dang zhen	阿党镇	1
+a er ma er	阿尔马尔	1
+a fen tai ni	阿芬太尼	1
+a gui yang xue tang jiang	阿归养血糖浆	1
+a he ya xiang	阿合亚乡	1
+a he ya zi mu chang	阿合牙孜牧场	1
+a ke su xian	阿克苏县	1
+a ke tu mu si ke mu chang	阿克吐木斯克牧场	1
+a li hong ke chuan kou fu ye	阿里红咳喘口服液	1
+a mi ba fei nong zhong	阿米巴肺脓肿	1
+a mi ba xing gan nong zhong	阿米巴性肝脓肿	1
+a mi fu ting	阿米福汀	1
+a mu rui te jia ju zhong xin	阿姆瑞特家居中心	1
+a pian zhong du	阿片中毒	1
+a qi mei su chang rong pian	阿奇霉素肠溶片	1
+a ri xi xiang	阿日希乡	1
+a si mi xing	阿司米星	1
+a su ji ba	阿速吉八	1
+a suo xiang	阿索乡	1
+a te la si ke pu ke long	阿特拉斯科普柯龙	1
+a ti ka zhi ye	阿提卡之夜	1
+a tuo fa ta ting gai	阿托伐他汀钙	1
+a tuo mo lan	阿拓莫兰	1
+a tuo pin yan gao	阿托品眼膏	1
+a xi luo wei yan gao	阿昔洛韦眼膏	1
+a xi mo si	阿昔莫司	1
+a xiu xiang	阿秀乡	1
+a yi ma lin	阿义马林	1
+a zi tan xiang	阿子滩乡	1
+a ba cang zhu	阿坝藏猪	0
+a ba da tou hua tian niu	阿坝大头花天牛	0
+a ba ge pi	阿坝革蜱	0
+a ba li hua lu bao luo	阿巴里花鹿宝螺	0
+a bu xiang mo jian deng yu	阿部相模肩灯鱼	0
+a dang song hai tu luo	阿当嵩海兔螺	0
+a de er man hou chao ke	阿德尔曼鲎超科	0
+a de lei de mei gui ying wu	阿得雷德玫瑰鹦鹉	0
+a deng chuan xia zhen yu	阿登川下鱵鱼	0
+a deng mei zhou shi gui	阿登美洲石鱥	0
+a er ba ni ya xiao gui	阿尔巴尼亚小鱥	0
+a er bi chi zhu	阿尔比迟蛛	0
+a er de hai si luo	阿尔德海蛳螺	0
+a er fu lian de gu bian	阿尔弗连德骨鳊	0
+a er pa wa yue yi niao	阿尔帕瓦约蚁鸟	0
+a er tai du fu yu	阿尔泰杜父鱼	0
+a fa nan fang gu yuan	阿法南方古猿	0
+a fen pin geng	阿芬品梗	0
+a fu han ni bi qian	阿富汗拟璧钱	0
+a fu han si zhao lu gui	阿富汗四爪陆龟	0
+a fu han wen xiong zhao	阿富汗纹胸鮡	0
+a fu te duan xian xi chong	阿芙特短腺吸虫	0
+a gen ting gu dai shou	阿根廷古袋兽	0
+a gen ting xiao ba weng	阿根廷小霸鹟	0
+a gu ge bai ling	阿古歌百灵	0
+a he dan zhao ao feng	阿赫单爪螯蜂	0
+a ken se he mei zhou gui	阿肯色河美洲鱥	0
+a la bo ci gai yu	阿拉伯刺盖鱼	0
+a la bo gai ji yu	阿拉伯盖棘鱼	0
+a la bo yu yi sheng	阿拉伯鱼医生	0
+a la bo zhuo mu niao	阿拉伯啄木鸟	0
+a la gua ya he bing nian	阿拉瓜亚河兵鲶	0
+a la mo ni gui	阿拉莫泥龟	0
+a la shan qiang zhong shou	阿拉善强中兽	0
+a la si jia ci shi zi yu	阿拉斯加刺狮子鱼	0
+a la si jia ci yu	阿拉斯加刺鱼	0
+a la si jia duan wen shi zi	阿拉斯加短吻狮子	0
+a la si jia si gou chong	阿拉斯加四钩虫	0
+a la si jia wang xiao lie quan	阿拉斯加王小猎犬	0
+a la si jia zhang kong mian wei	阿拉斯加长孔绵鳚	0
+a lei ge ni shan mai chou you	阿勒格尼山脉臭鼬	0
+a lei tai gui	阿勒泰鱥	0
+a li gui bao luo	阿里圭宝螺	0
+a li ke xie fu huan hai bao	阿里柯谢夫环海豹	0
+a li shan huang ban yin die	阿里山黄斑荫蝶	0
+a li shan xi chi e	阿里山夕尺蛾	0
+a lie ke si bao luo	阿列克斯宝螺	0
+a lu ba xue xiao	阿鲁巴穴鸮	0
+a lu xiao weng	阿鲁啸鹟	0
+a ma wei shi xia hu yu	阿马韦氏鰕虎鱼	0
+a man wan gong ting yu luo	阿曼湾宫廷芋螺	0
+a man wan xiao yan bao luo	阿曼湾小眼宝螺	0
+a mang yin yan die	阿芒荫眼蝶	0
+a mei er hu bai gui	阿梅尔湖白鲑	0
+a mo dao ying xiao	阿默岛鹰鸮	0
+a mo li bao luo	阿默里宝螺	0
+a mo shi fu shi zi yu	阿莫氏副狮子鱼	0
+a mu er du e ji ying	阿穆尔毒蛾寄蝇	0
+a mu he xiao ni chan xun	阿姆河小拟铲鲟	0
+a mu wei zhu	阿姆微蛛	0
+a na luo dou niang yu	阿纳洛豆娘鱼	0
+a na ma la he wen xiong zhao	阿那马拉河纹胸鮡	0
+a na mei zhou gui	阿纳美洲鱥	0
+a na mu mu bian fu	阿纳姆墓蝙蝠	0
+a ni wan bao luo	阿泥湾宝螺	0
+a nuo de ya si bi luo	阿诺德雅思笔螺	0
+a nuo shi qi xu wei	阿诺氏歧须鮠	0
+a pu lu gua bing nian	阿普路瓜兵鲶	0
+a qi ben shan hu luo	阿奇笨珊瑚螺	0
+a sa mu jian fen die	阿萨姆尖粉蝶	0
+a sa mu san ci jiao chan	阿萨姆三刺角蝉	0
+a sa mu shao ban ming	阿萨姆梢斑螟	0
+a sen song dao ju lin xia hu	阿森松岛锯鳞鰕虎	0
+a shi bian guan an kang	阿氏鞭冠鮟鱇	0
+a shi jiao shi jian feng	阿氏角室茧蜂	0
+a shi lu yan yu	阿氏炉眼鱼	0
+a shi mao tui ye ying	阿氏毛腿夜鹰	0
+a shi qi xu wei	阿氏歧须鮠	0
+a shi xin chun zhi li	阿氏新唇脂鲤	0
+a te la tuo he zhang gui nian	阿特拉托河长龟鲶	0
+a te xiu ping qi wei	阿特休平鳍鮠	0
+a wei shi cao mei zhou gui	阿维食草美洲鱥	0
+a wo er gu wei yu	阿沃尔骨尾鱼	0
+a yi nu quan	阿依努犬	0
+a zu jiang qi li yu	阿祖桨鳍丽鱼	0

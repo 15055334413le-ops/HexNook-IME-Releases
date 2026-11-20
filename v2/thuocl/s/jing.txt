@@ -1,0 +1,935 @@
+jing ji	经济	1396619
+jing shen	精神	606946
+jing ying	经营	477651
+jing ying fan wei	经营范围	206346
+jing ying quan	经营权	146852
+jing li	经理	138005
+jing jia	竞价	122529
+jing zheng li	竞争力	121982
+jing ji fa	经济法	103489
+jing ying xu ke zheng	经营许可证	90421
+jing ying zhe	经营者	60137
+jing feng	劲风	49128
+jing tai fang fa	静态方法	44329
+jing guo wu yuan pi zhun	经国务院批准	41695
+jing yan jiu	经研究	40150
+jing cheng	京城	36168
+jing xiao shang	经销商	36080
+jing ji jia zhi	经济价值	35288
+jing ji fan zui	经济犯罪	31456
+jing tai bian liang	静态变量	29717
+jing ji dai	经济带	29093
+jing ji mao yi wei yuan hui	经济贸易委员会	20031
+jing ji wei ji	经济危机	18947
+jing bu	颈部	18908
+jing shen bing	精神病	15503
+jing ji ren	经纪人	15500
+jing nei wai	境内外	15333
+jing lao yuan	敬老院	14538
+jing kai qu	经开区	13380
+jing pen	井喷	13378
+jing li run	净利润	13024
+jing mi	精密	12946
+jing tai ku	静态库	12879
+jing tai cheng yuan	静态成员	12347
+jing ji quan	经济圈	11698
+jing zheng xing	竞争性	11369
+jing shen ji bing	精神疾病	10187
+jing biao	竞标	9225
+jing yi qiu jing	精益求精	9158
+jing li ren	经理人	8628
+jing ji cheng shou neng li	经济承受能力	8563
+jing xin she ji	精心设计	8470
+jing xin dong po	惊心动魄	8380
+jing ji fa zhuan ye	经济法专业	8205
+jing ji dan bao	经济担保	7850
+jing tai wen jian	静态文件	7735
+jing ji xue yuan	经济学院	7165
+jing shen fu wei jin	精神抚慰金	7073
+jing jing ye ye	兢兢业业	7041
+jing tai zi yuan	静态资源	6958
+jing tai han shu	静态函数	6790
+jing ye jin zhi	竞业禁止	6544
+jing tai ye mian	静态页面	6487
+jing zhi	净值	6319
+jing tai lei	静态类	6280
+jing huang shi cuo	惊慌失措	5868
+jing chui	颈椎	5858
+jing ran you xu	井然有序	5815
+jing tai cheng yuan bian liang	静态成员变量	5791
+jing zhi	静止	5653
+jing tai shu xing	静态属性	5343
+jing tai cun chu	静态存储	5330
+jing hun wei ding	惊魂未定	5301
+jing ying xin xi	经营信息	5291
+jing shen zhang ai	精神障碍	5243
+jing ji can kao bao	经济参考报	5070
+jing xie	警械	4979
+jing ying zi zhu quan	经营自主权	4910
+jing tai dai ma kuai	静态代码块	4814
+jing mai	静脉	4649
+jing zi chan	净资产	4518
+jing ji ji shu kai fa qu	经济技术开发区	4469
+jing tai chu shi hua	静态初始化	4405
+jing ji fan zui an jian	经济犯罪案件	4390
+jing wei	经纬	4293
+jing zi	精子	4275
+jing da xi suan	精打细算	4250
+jing shen ke	精神科	4193
+jing tai cheng yuan han shu	静态成员函数	4129
+jing shen fen lie zheng	精神分裂症	4029
+jing ji ri bao	经济日报	3797
+jing tai lian jie	静态链接	3721
+jing tai gong chang fang fa	静态工厂方法	3703
+jing chui bing	颈椎病	3451
+jing zhou shi	荆州市	3450
+jing shen dou sou	精神抖擞	3444
+jing ji guan li xue yuan	经济管理学院	3372
+jing luan	痉挛	3324
+jing ji he tong fa	经济合同法	3267
+jing luo	经络	3254
+jing tian dong di	惊天动地	3231
+jing ying chu	经营处	3206
+jing tai lian jie ku	静态链接库	3078
+jing men shi	荆门市	2975
+jing dian suan fa	经典算法	2903
+jing yin	静音	2873
+jing xi	京西	2844
+jing li chong pei	精力充沛	2781
+jing bing qiang jiang	精兵强将	2753
+jing jing you tiao	井井有条	2731
+jing tai hua	静态化	2715
+jing tai bian yi	静态编译	2645
+jing tai shu ju cheng yuan	静态数据成员	2617
+jing dian wen ti	经典问题	2566
+jing tai fen xi	静态分析	2564
+jing ying quan zhuan rang	经营权转让	2519
+jing zhuan	净赚	2435
+jing tai quan ju bian liang	静态全局变量	2348
+jing ji guan li quan	经济管理权	2337
+jing ji bang zhu	经济帮助	2271
+jing zhen	晶振	2245
+jing shen huang hu	精神恍惚	2243
+jing shan	景山	2204
+jing ye	精液	2197
+jing yan fen xiang	经验分享	2184
+jing tai zhu ce	静态注册	2146
+jing geng xi zuo	精耕细作	2139
+jing guang tie lu	京广铁路	2126
+jing tai wang ye	静态网页	2112
+jing shen shi chang	精神失常	2041
+jing jiu bu xi	经久不息	2025
+jing tai ju bu bian liang	静态局部变量	2020
+jing du wen ti	精度问题	2011
+jing er yuan zhi	敬而远之	1966
+jing shen jue shuo	精神矍铄	1932
+jing gao kuang	警告框	1930
+jing guan xue yuan	经管学院	1926
+jing tan bu yi	惊叹不已	1876
+jing wei fen ming	泾渭分明	1754
+jing ji jian du	经济监督	1733
+jing shan cha	径山茶	1699
+jing tai bang ding	静态绑定	1689
+jing tai dai li	静态代理	1679
+jing tai dao ru	静态导入	1656
+jing tai gong chang	静态工厂	1626
+jing tai kuai	静态块	1607
+jing song	劲松	1575
+jing ji kai fa	经济开发	1567
+jing tai yu	静态域	1556
+jing yan fa ze	经验法则	1528
+jing pi li jie	精疲力竭	1440
+jing tao hai lang	惊涛骇浪	1427
+jing wei	经委	1413
+jing shang	井上	1412
+jing ji ji ben mian	经济基本面	1343
+jing mei jue lun	精美绝伦	1320
+jing gong zhi niao	惊弓之鸟	1308
+jing de zhen shi	景德镇市	1273
+jing dong mai	颈动脉	1257
+jing mai zhu she	静脉注射	1230
+jing kai qu guan wei hui	经开区管委会	1226
+jing guan xue yuan	警官学院	1225
+jing shan	京山	1219
+jing tai jia zai	静态加载	1209
+jing an si	静安寺	1201
+jing mai	经脉	1195
+jing que ji suan	精确计算	1192
+jing tai lu you	静态路由	1182
+jing ji xue jie	经济学界	1181
+jing tai shu ju qu	静态数据区	1174
+jing hong shi	景洪市	1156
+jing dian an li	经典案例	1117
+jing dong fang	京东方	1062
+jing mai qu zhang	静脉曲张	1037
+jing jiang rou si	京酱肉丝	1030
+jing qi lu	经七路	999
+jing shi hai su	惊世骇俗	998
+jing cheng tuan jie	精诚团结	966
+jing shen wei mi	精神萎靡	946
+jing ji ji shu he zuo xie ding	经济技术合作协定	934
+jing shen bing xue	精神病学	922
+jing mo an zhuang	静默安装	884
+jing nian lei yue	经年累月	879
+jing bian	靖边	877
+jing xing	井陉	871
+jing bian	井边	863
+jing pi li jin	精疲力尽	853
+jing gu	胫骨	843
+jing jiang shi	靖江市	843
+jing e	净额	805
+jing yuan	靖远	793
+jing mai shu ye	静脉输液	778
+jing hua shui yue	镜花水月	756
+jing mai xue	静脉血	710
+jing yang	泾阳	672
+jing shen huan fa	精神焕发	662
+jing jiu tie lu	京九铁路	661
+jing shen cuo luan	精神错乱	661
+jing jue	惊厥	653
+jing ning	静宁	633
+jing yi lu	经一路	605
+jing er lu	经二路	603
+jing yuan	景园	596
+jing diao xi ke	精雕细刻	593
+jing xiang yuan	镜像源	588
+jing gang	靖港	558
+jing tai jian cha	静态检查	558
+jing tai lian biao	静态链表	549
+jing yi dan	敬一丹	539
+jing ji jie shi	经济解释	517
+jing gang shan shi	井冈山市	506
+jing ye	茎叶	506
+jing shen zhang ai zhe	精神障碍者	501
+jing dian mo shi	经典模式	497
+jing zhong bao guo	精忠报国	492
+jing gu xian	景谷县	490
+jing chui gu zhe	颈椎骨折	470
+jing jian zhi ling	精简指令	470
+jing bing jian zheng	精兵简政	468
+jing ying can dan	经营惨淡	461
+jing suan shi	精算师	454
+jing ning	景宁	445
+jing ming neng gan	精明能干	444
+jing pin fen xi	竞品分析	436
+jing shui chang	净水厂	433
+jing hua shui	净化水	418
+jing tai ce shi	静态测试	418
+jing tai kong jian	静态控件	418
+jing ti di bai chong	晶体敌百虫	415
+jing kou	京口	408
+jing shen zheng zhuang	精神症状	407
+jing mao xue yuan	经贸学院	393
+jing he	精河	381
+jing cha xue xiao	警察学校	377
+jing shui bu fan he shui	井水不犯河水	373
+jing cheng suo zhi	精诚所至	362
+jing yang	景阳	346
+jing dian mo xing	经典模型	339
+jing que fu gai	精确覆盖	328
+jing gao	镜糕	326
+jing shan	荆山	321
+jing ba jian	京八件	319
+jing miao jue lun	精妙绝伦	317
+jing he	净荷	307
+jing tai cha zhao	静态查找	306
+jing di zhi wa	井底之蛙	302
+jing fu gao su	京福高速	299
+jing po hu	镜泊湖	294
+jing an	靖安	260
+jing xi	靖西	260
+jing dian dai ma	经典代码	258
+jing guan xue xiao	警官学校	258
+jing ji mao yi ban gong shi	经济贸易办公室	258
+jing dian cuo wu	经典错误	253
+jing shi yue bing	京式月饼	250
+jing chuan	泾川	249
+jing jie	胫节	249
+jing shun chang cheng	景顺长城	247
+jing zhi	景芝	247
+jing cheng gao su gong lu	京承高速公路	245
+jing tai cun chu fen pei	静态存储分配	243
+jing zhi tu xiang	静止图像	241
+jing tai bo ke	静态博客	239
+jing mei ji tuan	京煤集团	237
+jing mian fan she guang	镜面反射光	236
+jing ti zhen dang qi	晶体振荡器	235
+jing de	旌德	231
+jing kou	经口	227
+jing jiu lu	经九路	221
+jing tai dai ma jian cha	静态代码检查	220
+jing mai di zhu	静脉滴注	218
+jing tai dai li mo shi	静态代理模式	218
+jing ming qiang gan	精明强干	215
+jing dian pai xu suan fa	经典排序算法	213
+jing kong wan zhuang	惊恐万状	207
+jing yang lou	景扬楼	207
+jing chui jian pan	颈椎间盘	201
+jing shou ru	净收入	199
+jing shen bai bei	精神百倍	194
+jing tian di qi gui shen	惊天地泣鬼神	191
+jing ji jian she zhi chu	经济建设支出	190
+jing ning xian	景宁县	182
+jing mai yan	静脉炎	178
+jing bao tie lu	京包铁路	177
+jing ji fa lun cong	经济法论丛	177
+jing jie	荆芥	177
+jing mai chuan ci	静脉穿刺	175
+jing dong	景东	171
+jing ji zhi biao ti xi	经济指标体系	170
+jing tai huan chong qu	静态缓冲区	170
+jing an suan	精氨酸	169
+jing shen yao wu gong yue	精神药物公约	168
+jing shan dong jie	景山东街	166
+jing wei tian hai	精卫填海	165
+jing shou fei	经手费	162
+jing rui zhi shi	精锐之师	161
+jing suo jing mai qu zhang	精索静脉曲张	159
+jing nei dong mai	颈内动脉	158
+jing tai cun chu qi	静态存储器	158
+jing dong cai	京冬菜	155
+jing tou guang yun	镜头光晕	153
+jing shan hou jie	景山后街	149
+jing yang	旌阳	144
+jing mo xie zai	静默卸载	142
+jing nang	精囊	142
+jing zong dong mai	颈总动脉	142
+jing wu men	精武门	140
+jing quan	颈圈	139
+jing yan	井研	138
+jing mai hui liu	静脉回流	137
+jing shen yi yu zheng	精神抑郁症	137
+jing hai si	静海寺	136
+jing ji ke xing xing	经济可行性	136
+jing jing mai	颈静脉	136
+jing men	京门	136
+jing que miao zhun	精确瞄准	134
+jing tou	井头	133
+jing shang	镜上	129
+jing mai tui zhu	静脉推注	128
+jing ye jin zhi he tong	竞业禁止合同	128
+jing yan jiao liu	经验交流	127
+jing xing	景兴	126
+jing ji jian cha	经济检察	123
+jing nei jing mai	颈内静脉	123
+jing tian wei di	经天纬地	123
+jing yan tie	经验贴	123
+jing ji fa xue jia	经济法学家	121
+jing dong xian	景东县	120
+jing ji da sha	经济大厦	120
+jing qi yan chang	经期延长	120
+jing wei	精卫	120
+jing bu sun shang	颈部损伤	119
+jing zhang gao su	京张高速	113
+jing ye le qun	敬业乐群	107
+jing cha mo ming	惊诧莫名	104
+jing yuan xiao qu	景园小区	103
+jing dong mai xia zhai	颈动脉狭窄	102
+jing zi qi	井字棋	101
+jing cha quan tao	警察圈套	100
+jing lun	精伦	100
+jing nan	荆南	100
+jing fei gu gu zhe	胫腓骨骨折	98
+jing gang shan	景岗山	95
+jing hun bu ding	惊魂不定	95
+jing tai zhong ding wei	静态重定位	95
+jing mao da xue	经贸大学	93
+jing nang yan	精囊炎	93
+jing xi hua gong chang	精细化工厂	93
+jing xi jiao jia	惊喜交加	93
+jing shi	净室	92
+jing jian	镜检	90
+jing que	颈缺	90
+jing si	净寺	90
+jing an	井岸	88
+jing fu	景福	88
+jing ke ci qin wang	荆轲刺秦王	88
+jing mao xue xiao	经贸学校	88
+jing ruo chu zi	静若处子	88
+jing tai wang luo	静态网络	87
+jing zi	井子	87
+jing suo	精索	86
+jing tai diao du	静态调度	86
+jing ji kai fa shi yan qu	经济开发试验区	84
+jing jin gong lu	京津公路	82
+jing xie bu min	敬谢不敏	81
+jing qi	经气	80
+jing keng	井坑	79
+jing lao zun xian	敬老尊贤	78
+jing men gao xin qu	荆门高新区	77
+jing ji fa lv xing wei	经济法律行为	76
+jing wan zi jie dao	井湾子街道	74
+jing ying quan zu lin	经营权租赁	73
+jing chu sui shi ji	荆楚岁时记	71
+jing ji he zuo he tong	经济合作合同	69
+jing li guo ren	精力过人	68
+jing song lu	劲松路	68
+jing yue da jie	净月大街	68
+jing gong	静功	67
+jing ming xue	睛明穴	67
+jing shen yao pin zui	精神药品罪	65
+jing ting lv xue cha	敬亭绿雪茶	65
+jing xi jie dao	京溪街道	65
+jing dian quan shun	经典全顺	62
+jing wan lu	井湾路	62
+jing xing jie	景星街	62
+jing ji gong yi su song	经济公益诉讼	61
+jing sai tu	竞赛图	60
+jing shen liao fa	精神疗法	60
+jing zhou lu	竞舟路	59
+jing shen yi lai xing	精神依赖性	57
+jing mai xue shuan xing cheng	静脉血栓形成	56
+jing shu yuan	静淑苑	56
+jing fang wu qu	景芳五区	55
+jing ji	颈肌	55
+jing dian si xiang	经典思想	54
+jing fang xiao qu	景芳小区	54
+jing jiang wang ling	靖江王陵	54
+jing pin ruan jian	精品软件	53
+jing gang shan lu	井冈山路	52
+jing ji mo xing	经济模型	52
+jing ning shao ji	静宁烧鸡	52
+jing xin hua yuan	景新花园	51
+jing zi xi bao	精子细胞	51
+jing ban yuan	经办员	50
+jing ju si lu	静居寺路	50
+jing yan	景炎	50
+jing cheng tie lu	京承铁路	49
+jing lu duo pu lei	经颅多普勒	49
+jing mai cong	静脉丛	49
+jing song zhong jie	劲松中街	49
+jing gou	井沟	48
+jing mai ma zui	静脉麻醉	47
+jing huang shi se	惊慌失色	46
+jing duo tai	静多态	44
+jing shen shuai tui	精神衰退	44
+jing an zhuang	静安庄	43
+jing da lu	井大路	43
+jing gang shan	井岗山	43
+jing shan cun	景山村	43
+jing cheng hai shi	京城海狮	42
+jing ji gang	经济港	42
+jing mai dou	静脉窦	42
+jing an xin cheng	静安新城	41
+jing chui tuo wei	颈椎脱位	40
+jing tou	迳头	40
+jing wai dong mai	颈外动脉	40
+jing zi xing cheng	精子形成	40
+jing dian suan fa wen ti	经典算法问题	39
+jing mai liu zhi zhen	静脉留置针	39
+jing shan tie lu	京山铁路	39
+jing xiu zhong xue	景秀中学	39
+jing nei fei ju min	境内非居民	38
+jing shen wai ke	精神外科	38
+jing tai huan chong	静态缓冲	38
+jing qi yi tan ou lu	惊起一滩鸥鹭	37
+jing ruo shen ming	敬若神明	37
+jing tun can shi	鲸吞蚕食	37
+jing zheng wang luo	竞争网络	36
+jing zhi qi	静止期	36
+jing yi bu ding	惊疑不定	35
+jing hao	荆浩	34
+jing gang shan yan sun shao rou	井冈山烟笋烧肉	33
+jing shang xiong yan	井上雄彦	33
+jing yu dong lu	靖宇东路	33
+jing yu gou	鲸鱼沟	33
+jing zi	京子	33
+jing gu zhen	景古镇	32
+jing ji fa gui yan jiu zhong xin	经济法规研究中心	32
+jing tai yu ming	静态域名	32
+jing wei wan duan	经纬万端	31
+jing wu mu	井勿幕	31
+jing wu yu ning ye	竟无语凝噎	31
+jing xian zhi	净现值	31
+jing ha gong lu	京哈公路	30
+jing hu hua yuan	景湖花园	30
+jing sha yu gao	荆沙鱼糕	30
+jing dan bai	精蛋白	29
+jing fang liu qu	景芳六区	29
+jing wai jing mai	颈外静脉	29
+jing hua nan lu	经华南路	28
+jing kong zhang ai	惊恐障碍	28
+jing cheng suo zhi jin shi wei kai	精诚所至金石为开	27
+jing chui ban tuo wei	颈椎半脱位	27
+jing gang	境港	27
+jing gou cun	井沟村	27
+jing gui shen er yuan zhi	敬鬼神而远之	27
+jing men xian	荆门县	27
+jing song nan lu	劲松南路	27
+jing yun tong	京运通	26
+jing zhang gao su gong lu	京张高速公路	26
+jing dong mai dou	颈动脉窦	25
+jing jie sui	荆芥穗	25
+jing qian zong he zheng	经前综合征	25
+jing shen cuo luan bian hu	精神错乱辩护	25
+jing xian	颈线	25
+jing xiang he mu ge	竞翔贺姆鸽	25
+jing dong xian bing	京东馅饼	24
+jing huan	景焕	24
+jing mai ban	静脉瓣	24
+jing pi shen jing qu shi shu	经皮肾镜取石术	24
+jing yuan lu kou	京原路口	24
+jing bin jie	敬宾街	23
+jing fu yuan	景福苑	23
+jing gang cui lv	井岗翠绿	23
+jing jiang lu	靖江路	23
+jing jing you xu	井井有序	23
+jing ming	睛明	23
+jing tai fen xi cheng xu	静态分析程序	23
+jing xi ruo kuang	惊喜若狂	23
+jing fang er qu	景芳二区	22
+jing li fei	经理费	22
+jing long qiao xiang	景龙桥乡	22
+jing wan hong	京万红	22
+jing ying pan duan gui ze	经营判断规则	22
+jing cai jue yan	惊才绝艳	21
+jing luan xing tan huan	痉挛性瘫痪	21
+jing shun che guan suo	京顺车管所	21
+jing tai yu ming jie xi	静态域名解析	21
+jing xi jiao ji	惊喜交集	21
+jing yuan	景元	21
+jing chao	精巢	20
+jing dong mai ying hua	颈动脉硬化	20
+jing dong yun qiao jian cai cheng	京东运乔建材城	20
+jing shen zhang ai yu fan zui	精神障碍与犯罪	20
+jing wan	井完	20
+jing ye chang gui jian cha	精液常规检查	20
+jing zi fa sheng	精子发生	20
+jing cheng tong ye	精诚铜业	19
+jing du yuan	京都苑	19
+jing jia ma hua	景家麻花	19
+jing jian xiang	经建乡	19
+jing nan	景南	19
+jing dong mai nei mo bao tuo shu	颈动脉内膜剥脱术	18
+jing yu hu	鲸鱼湖	18
+jing yuan xi bao	精原细胞	18
+jing jia cun	景家村	17
+jing xi bao	精细胞	17
+jing yan xi tong	经验系统	17
+jing zhi niu huang jie du pian	京制牛黄解毒片	17
+jing zhi tu xiang ya suo	静止图像压缩	17
+jing bao	精包	16
+jing du nian ci an	京都念慈庵	16
+jing jian	茎尖	16
+jing mi fu zhuo ti	精密附着体	16
+jing qi shi wan zhan yan luo	旌旗十万斩阎罗	16
+jing xi lv you	京西旅游	16
+jing bei	径背	15
+jing feng lu	景凤路	15
+jing guan cheng	景观城	15
+jing kou bei gu ting huai gu	京口北固亭怀古	15
+jing men	景门	15
+jing qian dong mai	胫前动脉	15
+jing song qiao dong	劲松桥东	15
+jing xu	鲸须	15
+jing zhi guan xin pian	精制冠心片	15
+jing zhuang ti nang	晶状体囊	15
+jing an li	静安里	14
+jing he	晶核	14
+jing he xiang	静河乡	14
+jing jian dian ming	精简点名	14
+jing jiang shi di fang shui wu ju	靖江市地方税务局	14
+jing kou gua zhou yi shui jian	京口瓜洲一水间	14
+jing xi qi xiang si	竟夕起相思	14
+jing zhang lu kou	京张路口	14
+jing zhuang	井庄	14
+jing bu shao shang	颈部烧伤	13
+jing dong mai liu	颈动脉瘤	13
+jing fang san qu	景芳三区	13
+jing fang si qu	景芳四区	13
+jing ge	荆歌	13
+jing guan gong yu	警官公寓	13
+jing long jie dao	井龙街道	13
+jing luan xing jie tan	痉挛性截瘫	13
+jing shen bing hu li	精神病护理	13
+jing wang	景王	13
+jing ye lu	敬业路	13
+jing chu	景初	12
+jing jie se	警戒色	12
+jing kong zheng	惊恐症	12
+jing mai ma zui yao	静脉麻醉药	12
+jing ping	景平	12
+jing shang he yan	井上和彦	12
+jing wai qi xue	经外奇穴	12
+jing wan	井湾	12
+jing xin kou fu ye	静心口服液	12
+jing ding wei	精定位	11
+jing fang bai du san	荆防败毒散	11
+jing fang dong qu	景芳东区	11
+jing fu kang ke li	颈复康颗粒	11
+jing qu	颈曲	11
+jing cheng yuan	竟成园	10
+jing dong mai nei mo qie chu shu	颈动脉内膜切除术	10
+jing dong mai ti liu	颈动脉体瘤	10
+jing fu gong lu	京福公路	10
+jing hou dong mai	胫后动脉	10
+jing jiang feng rou	京酱风肉	10
+jing nan lu	京南路	10
+jing po ni chang yu yi qu	惊破霓裳羽衣曲	10
+jing rui da sha	京瑞大厦	10
+jing shan cun	京山村	10
+jing shan quan	兢山泉	10
+jing shi ruan jian gong cheng	净室软件工程	10
+jing song qiao bei	劲松桥北	10
+jing tian xiao xue	景田小学	10
+jing yan fan dian	京燕饭店	10
+jing yue quan shu	景岳全书	10
+jing song qiao nan	劲松桥南	9
+jing ting qiao	井亭桥	9
+jing wu men	经武门	9
+jing xin da sha	京信大厦	9
+jing zhou lu	荆州路	9
+jing zi ji shu	精子计数	9
+jing chui jie he	颈椎结核	8
+jing dong jia xiao	京东驾校	8
+jing jiang xian	靖江县	8
+jing song xi she qu	劲松西社区	8
+jing wan hong ruan gao	京万红软膏	8
+jing yao	景耀	8
+jing yu lu	景御路	8
+jing yu zhong lu	靖宇中路	8
+jing yuan huang he da qiao	靖远黄河大桥	8
+jing zong	景宗	8
+jing dong jie dao	旌东街道	7
+jing gong ji tuan	精工集团	7
+jing hai lu kou	靖海路口	7
+jing he	精核	7
+jing hua yuan	景华苑	7
+jing ji guan cha wang	经济观察网	7
+jing jiu lu nan duan	经九路南段	7
+jing min lu	警民路	7
+jing nang zhong liu	精囊肿瘤	7
+jing shan dong men	景山东门	7
+jing shan she qu	荆山社区	7
+jing song bei lu	劲松北路	7
+jing tai seng gui	景泰僧归	7
+jing zhu cun	荆竹村	7
+jing cheng hua yuan	景城花园	6
+jing dong mai qiao	颈动脉鞘	6
+jing fang dong wu qu	景芳东五区	6
+jing fang ting	景芳亭	6
+jing fang yi qu	景芳一区	6
+jing gu qian ji	胫骨前肌	6
+jing ji an jian ji bie guan xia	经济案件级别管辖	6
+jing ji dao kan	经济导刊	6
+jing ji fa zhi shou duan	经济法制手段	6
+jing ji kai fa xin qu	经济开发新区	6
+jing jin lu	京津路	6
+jing lian	净莲	6
+jing ling jie dao	竟陵街道	6
+jing lu duo pu lei chao sheng	经颅多普勒超声	6
+jing mu xi bao	精母细胞	6
+jing nan cun	荆南村	6
+jing shang xiang	景尚乡	6
+jing shu yuan she qu	静淑苑社区	6
+jing suo jing mai jie za shu	精索静脉结扎术	6
+jing ti dan bai	晶体蛋白	6
+jing xi xiao qu	京溪小区	6
+jing xian mao	静纤毛	6
+jing zhi guan xin ruan jiao nang	精制冠心软胶囊	6
+jing zhu ben cao	晶珠本草	6
+jing an pai chu suo	井岸派出所	5
+jing bei cun	径贝村	5
+jing cheng gong lu	京承公路	5
+jing du da jiu dian	京都大酒店	5
+jing feng	净峰	5
+jing gao rou pian	晶糕肉片	5
+jing hu ma lu	镜湖马路	5
+jing hui hua yuan	京惠花园	5
+jing ji kai fa qu ban shi chu	经济开发区办事处	5
+jing jiang qiao	靖江桥	5
+jing jing mai kong	颈静脉孔	5
+jing lin ba jie yan	颈淋巴结炎	5
+jing mai shi	静脉石	5
+jing men jiu pai tong	荆门九派通	5
+jing shang zhen yang	井上真央	5
+jing xi	景西	5
+jing xing nong mu chang	京星农牧场	5
+jing yang hu tong	景阳胡同	5
+jing zhai	静斋	5
+jing zhao ying mao zhu	敬钊缨毛蛛	5
+jing zheng pai chu yuan li	竞争排除原理	5
+jing an gong mu	静安公墓	4
+jing an hua yuan	静安花苑	4
+jing an mu yuan	静安墓园	4
+jing an suan mei	精氨酸酶	4
+jing chang zhang hu ke dui huan	经常账户可兑换	4
+jing chuan lu	荆川路	4
+jing fu yan	精阜炎	4
+jing gan shi mei yu	精感石没羽	4
+jing gong gang gou	精工钢构	4
+jing he zhen	井河镇	4
+jing ji	胫脊	4
+jing ji fa zhan	经济发展	4
+jing ji fa zhu ti yan jiu	经济法主体研究	4
+jing lan shu	井栏树	4
+jing ma	京马	4
+jing pu	颈蹼	4
+jing qi ji tuan	井企集团	4
+jing shan jie dao	京山街道	4
+jing shi jiao yu	警示教育	4
+jing shu ke li	颈舒颗粒	4
+jing suo yan	精索炎	4
+jing tai zhi li	晶态智力	4
+jing tian san qi	景天三七	4
+jing tou yin tai	京投银泰	4
+jing tu hu tong	净土胡同	4
+jing xia	径下	4
+jing xin	径新	4
+jing xiu hua yuan	景秀花园	4
+jing yi hua yuan	静怡花苑	4
+jing ying da sha	精英大厦	4
+jing you mian	精莜面	4
+jing yuan xi bao liu	精原细胞瘤	4
+jing yue	景月	4
+jing zhan	警战	4
+jing zhuang cun cun wei hui	景庄村村委会	4
+jing zi huo neng	精子获能	4
+jing bian cun	井边村	3
+jing bu lin ba jie jie he	颈部淋巴结结核	3
+jing cha zhi wu fan zui yan jiu	警察职务犯罪研究	3
+jing chang xing dai kuan	经常性贷款	3
+jing chuan yao	井川遥	3
+jing de zhen	敬德镇	3
+jing di	敬帝	3
+jing dong fu li chun	经冬复历春	3
+jing du	径肚	3
+jing feng huo che	惊风火扯	3
+jing feng piao bai ri	惊风飘白日	3
+jing he guan wei hui	泾河管委会	3
+jing hua wei kang jiao wan	荆花胃康胶丸	3
+jing ji xue shu	经济学术	3
+jing ji zeng zhang	经济增长	3
+jing jiang xiang	井江乡	3
+jing jiang yuan	景江苑	3
+jing jing mai nu zhang	颈静脉怒张	3
+jing kai qu cheng nan jie dao	经开区城南街道	3
+jing ke yuan	京科苑	3
+jing kou jie dao	井口街道	3
+jing li dong yuan	景丽东苑	3
+jing luo shu xue xue	经络腧穴学	3
+jing mai shen yu zao ying	静脉肾盂造影	3
+jing mi gong lu	京密公路	3
+jing nei dong mai hai mian dou lou	颈内动脉海绵窦瘘	3
+jing ping xiang	荆坪乡	3
+jing qu	经渠	3
+jing sai xin li	竞赛心理	3
+jing shun lu li du fan dian	京顺路丽都饭店	3
+jing song dong she qu	劲松东社区	3
+jing song xi kou	劲松西口	3
+jing tan hua yuan	景潭花园	3
+jing tang shui ku	京塘水库	3
+jing tang yao zu xiang	井塘瑶族乡	3
+jing ting cun	井亭村	3
+jing tu si hu tong	净土寺胡同	3
+jing tui wan ren zheng zhan qi	惊退万人争战气	3
+jing xing kuang	井陉矿	3
+jing xue yi	景学义	3
+jing yuan dong zhan	京原东站	3
+jing yuan xi he	井原西鹤	3
+jing zhi san gai bing	景芝三盖饼	3
+jing zi	径子	3
+jing zi shan	荆紫山	3
+jing an hua yuan	静安花园	2
+jing bai lao	颈百劳	2
+jing bi ri xi di ruo yun	旌蔽日兮敌若云	2
+jing bu xue guan liu	颈部血管瘤	2
+jing can hao meng wu xun chu	惊残好梦无寻处	2
+jing chui bing tie	颈椎病贴	2
+jing dai ning jiao nang	经带宁胶囊	2
+jing dong mai guan	颈动脉管	2
+jing dong you lu lin	经冬犹绿林	2
+jing du xiang chuan wei mi luo	竞渡相传为汨罗	2
+jing er hu tong	警尔胡同	2
+jing feng huan jiang	敬奉环浆	2
+jing feng si	净峰寺	2
+jing guang she tian di	精光射天地	2
+jing hai xian cai gong zhuang	静海县蔡公庄	2
+jing hai xian jing hai zhen	静海县静海镇	2
+jing he jie dao	径河街道	2
+jing he yuan zhen	泾河源镇	2
+jing hu san bai li	镜湖三百里	2
+jing hua lu	经华路	2
+jing ji fa li lun de zhong gou	经济法理论的重构	2
+jing ji za zhi	经济杂志	2
+jing ji zheng ce	经济政策	2
+jing jian tong	经间痛	2
+jing jiang cun	靖江村	2
+jing li run lv	净利润率	2
+jing ling cun	经岭村	2
+jing liu jie	经六街	2
+jing luan xing jian nei fan	痉挛性睑内翻	2
+jing luan xing pian tan	痉挛性偏瘫	2
+jing lun shi wu zhe	经纶世务者	2
+jing ming hua yuan	景明花园	2
+jing nan cun	净南村	2
+jing pei jin fei yang	旌旆尽飞扬	2
+jing pin	静嫔	2
+jing qi que hui tou	惊起却回头	2
+jing qu qin	肼屈嗪	2
+jing shan cui gu	荆山翠谷	2
+jing shan jie	景山街	2
+jing shan wa	荆山洼	2
+jing sheng lu	景盛路	2
+jing shu jiao nang	经舒胶囊	2
+jing shui lu	泾水路	2
+jing ti rong jie xing qing guang yan	晶体溶解性青光眼	2
+jing ti shen tou ya	晶体渗透压	2
+jing ting song feng han	静听松风寒	2
+jing wan cun	荆湾村	2
+jing wei ge	颈围鸽	2
+jing wu cun	景坞村	2
+jing xi cun	景溪村	2
+jing xi jia bing zhang bu yong	净洗甲兵长不用	2
+jing yuan xiao qu	敬园小区	2
+jing ze da sha	经泽大厦	2
+jing zhe xin duo miao	静者心多妙	2
+jing zhi po shang feng kang du su	精制破伤风抗毒素	2
+jing zhi yin qiao jie du pian	精制银翘解毒片	2
+jing zhong shuai bin yi xian ban	镜中衰鬓已先斑	2
+jing an suan jia ya su	精氨酸加压素	1
+jing bao lu	京保路	1
+jing bei cun	净北村	1
+jing ben zheng shu	京本政树	1
+jing bi shu xin	京必舒新	1
+jing bian ting	井边亭	1
+jing bo yi qi san shan dong	惊波一起三山动	1
+jing can yi qi ke li	景参益气颗粒	1
+jing cao ta hai sheng	径草踏还生	1
+jing ce fu ren dai	胫侧副韧带	1
+jing chai ren yi liao xin bin	荆钗任意撩新鬓	1
+jing chang lu hui long guan	京昌路回龙观	1
+jing chuan san bai li	泾川三百里	1
+jing dao fen fen zai jiu chuan	粳稻纷纷载酒船	1
+jing dao pi jiu	菁岛啤酒	1
+jing dou cun	经兜村	1
+jing er gou xiang	井儿沟乡	1
+jing fang bai du wan	荆防败毒丸	1
+jing fang ke li	荆防颗粒	1
+jing fei yuan ying bi shan qu	惊飞远映碧山去	1
+jing feng cun	竞丰村	1
+jing feng xiang	景风乡	1
+jing fu jie	景福街	1
+jing fu qin chuang xi	静拂琴床席	1
+jing gang ji she	井冈脊蛇	1
+jing gang shan lu rui guang li	井冈山路瑞光里	1
+jing gang shan lu rui jin li	井冈山路瑞金里	1
+jing ha ha ni zu xiang	景哈哈尼族乡	1
+jing hai xian zi ya zhen	静海县子牙镇	1
+jing he jie dao	靖和街道	1
+jing hong xian	景洪县	1
+jing hu yuan	景湖苑	1
+jing hua yong shu san qian li	京华庸蜀三千里	1
+jing hui qian li meng	惊回千里梦	1
+jing hun piao he chu	精魂飘何处	1
+jing ji an zhang yuan	荆棘暗长原	1
+jing ji deng jian cha ting	经济等检察厅	1
+jing ji he tong fa lv guan xi	经济合同法律关系	1
+jing ji jing cha zhi du	经济警察制度	1
+jing ji shang can tian	荆棘上参天	1
+jing ji tong ji	经济统计	1
+jing jiang bei lu	靖江北路	1
+jing jiang dao	靖江道	1
+jing jiang niu rou pu	靖江牛肉脯	1
+jing jin gong lu li jiao qiao	京津公路立交桥	1
+jing jin hua yuan	京津花园	1
+jing jing zhi yan duan	晶晶掷岩端	1
+jing jiu jie dao	京九街道	1
+jing ju si nan lu	静居寺南路	1
+jing kai kang zhuang lu kou	京开康庄路口	1
+jing lan jie dao	静兰街道	1
+jing le	颈肋	1
+jing lin cun	井林村	1
+jing ling ben chi	精灵奔驰	1
+jing lou hu tong	井楼胡同	1
+jing men xue	京门穴	1
+jing nan xiao qu	荆南小区	1
+jing nang e xing zhong liu	精囊恶性肿瘤	1
+jing nang jie shi	精囊结石	1
+jing nang nang zhong	精囊囊肿	1
+jing pin	敬嫔	1
+jing pin zu jian	精品组件	1
+jing ping shan da qiao	净瓶山大桥	1
+jing qi qi nu yi xiao hua	惊起妻孥一笑哗	1
+jing qian dai biao lin zu han	敬遣代表林祖涵	1
+jing qian nian ye xing shui zhong	胫前粘液性水肿	1
+jing qian ping ke li	经前平颗粒	1
+jing qu ju wei hui	景区居委会	1
+jing qu xue	经渠穴	1
+jing ri jiao long xi	竟日蛟龙喜	1
+jing shan xiao qu	景山小区	1
+jing shang yang shui	井上阳水	1
+jing shang zhi ji	井上织姬	1
+jing shen jing sun shang	胫神经损伤	1
+jing shen ke hu li xue	精神科护理学	1
+jing shen yun dong xing dian xian	精神运动性癫痫	1
+jing sheng hu tong	敬胜胡同	1
+jing shi hai an shi	经事还谙事	1
+jing shi yuan bei men	京师园北门	1
+jing shu ke li	经舒颗粒	1
+jing shuang luo su si	惊霜落素丝	1
+jing shui dao	泾水道	1
+jing shui you chang qi	井税有常期	1
+jing song nan lu xi kou	劲松南路西口	1
+jing song qiao xi	劲松桥西	1
+jing tao bai gu lei san zao	精逃白骨累三遭	1
+jing tu	茎突	1
+jing tu cun	净土村	1
+jing wan lu zhong	井湾路中	1
+jing wei chang	经纬厂	1
+jing wei fang ji	经纬纺机	1
+jing wu fan cao wei sheng zhu	径无凡草唯生竹	1
+jing wu zi cheng shi	景物自成诗	1
+jing xi neng liang xiao hao	静息能量消耗	1
+jing xin tong xin	京信通信	1
+jing xin zhen	景新镇	1
+jing xing bi lv cha	景星碧绿茶	1
+jing xing ji chu jiang shan gai	经行几处江山改	1
+jing xu gu qu dui jun zhuo	径须沽取对君酌	1
+jing yao kang jiao nang	颈腰康胶囊	1
+jing ye te xi xiang	井叶特西乡	1
+jing yi er bu bian	静一而不变	1
+jing ying li nian	经营理念	1
+jing yong er bu yi ze lao	精用而不已则劳	1
+jing yu hai tang	晶玉海棠	1
+jing yuan	荆园	1
+jing yuan lu	京源路	1
+jing yuan shan	经元善	1
+jing yuan xia jie	靖源下街	1
+jing zhi fan shu zhou	精制番薯粥	1
+jing zhi guan xin ke li	精制冠心颗粒	1
+jing zhi pei yang	静置培养	1
+jing zhi qu	静止龋	1
+jing zhi yuan kuai yan	井之原快彦	1
+jing zhu pu zhen	荆竹铺镇	1
+jing zhuang xiang	井庄乡	1
+jing zi gou	井子沟	1
+jing ban fu wei sai jiang	睛斑副伪鳃鳉	0
+jing ci niao	荆莿鸟	0
+jing dian dong wu qu tu	经典动物趣图	0
+jing feng hai yan	景风海燕	0
+jing fu gu fei gu ji	胫跗骨腓骨脊	0
+jing gang dian pao chong	井冈碘泡虫	0
+jing gou ji he sao	颈沟基合溞	0
+jing gu dao jiao piao chong	茎骨刀角瓢虫	0
+jing hong bo yu	景洪波鱼	0
+jing jiu jiao shui mu	晶九角水母	0
+jing li dun jie	京蛎盾蚧	0
+jing mei lin he dao long	精美临河盗龙	0
+jing mian hu jia	镜面虎甲	0
+jing ou ti mu	鲸偶蹄目	0
+jing wei ke dou xia hu yu	睛尾蝌蚪鰕虎鱼	0
+jing wei wen ji qiu	睛尾吻棘鳅	0
+jing wei xin ji nei ya tang li	睛尾新几内亚塘鳢	0
+jing ya hui die	净雅灰蝶	0
+jing yan chong ya mu	镜眼虫亚目	0
+jing ye zi ze	敬业自责	0
+jing ying mao fu chong	晶莹毛腹虫	0
+jing ying qiu	晶莹蝤	0
+jing ying xian da zao	晶莹仙达蚤	0
+jing ying xun	晶莹蟳	0
+jing zhang tu chan	蟼掌突蟾	0
+jing zhi bao luo	精致宝螺	0
+jing zhi da yan jian shui zao	精致大眼剑水蚤	0
+jing zhi jie mao feng huang luo	精致睫毛凤凰螺	0
+jing zhou dong fang xi wang	荆州东方希望	0

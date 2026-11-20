@@ -1,0 +1,8 @@
+ba jin zhi	八进制	589
+ba jin zhi shu zi	八进制数字	329
+ba huang hou wen ti	八皇后问题	291
+ba shu ma wen ti	八数码问题	231
+ba shen bo yi	巴什博弈	222
+ba da pai xu suan fa	八大排序算法	202
+ba shi bo yi	巴士博弈	129
+ba ke si fan shi	巴克斯范式	98

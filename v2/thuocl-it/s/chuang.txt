@@ -1,0 +1,28 @@
+chuang jian dui xiang	创建对象	821
+chuang jian shu ju ku	创建数据库	659
+chuang jian wen jian	创建文件	658
+chuang jian biao	创建表	642
+chuang jian xian cheng	创建线程	620
+chuang jian mu lu	创建目录	568
+chuang kou da xiao	窗口大小	564
+chuang jian yong hu	创建用户	560
+chuang jian xiang mu	创建项目	533
+chuang jian wen jian jia	创建文件夹	494
+chuang jian jin cheng	创建进程	457
+chuang jian gong cheng	创建工程	435
+chuang kou ju bing	窗口句柄	421
+chuang jian ri qi	创建日期	406
+chuang jian xing mo shi	创建型模式	396
+chuang kou biao ti	窗口标题	382
+chuang kou guan li qi	窗口管理器	382
+chuang jian xu ni ji	创建虚拟机	349
+chuang jian biao kong jian	创建表空间	329
+chuang jian xing	创建型	329
+chuang kou han shu	窗口函数	312
+chuang ti she ji qi	窗体设计器	233
+chuang jian zhe mo shi	创建者模式	207
+chuang jian tu pian dui xiang	创建图片对象	156
+chuang kou cheng xu ji	窗口程序集	133
+chuang ti qu yu	窗体区域	125
+chuang ti kai fa	窗体开发	120
+chuang jian yuan yu	创建原语	107

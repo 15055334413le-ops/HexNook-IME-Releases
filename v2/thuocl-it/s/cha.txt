@@ -1,0 +1,46 @@
+cha ru shu ju	插入数据	702
+cha xun yu ju	查询语句	653
+cha zhao wen jian	查找文件	506
+cha kan yuan ma	查看源码	460
+cha jian an zhuang	插件安装	438
+cha kan yuan dai ma	查看源代码	425
+cha xun huan cun	查询缓存	420
+cha xun yu yan	查询语言	413
+cha ru jie dian	插入节点	410
+cha zhao suan fa	查找算法	381
+cha jian kai fa	插件开发	380
+cha xun you hua	查询优化	376
+cha zhao shu	查找树	363
+cha zhao shi jian	查找时间	353
+cha jian shi yong	插件使用	348
+cha ru wen ben	插入文本	343
+cha zhao ti huan	查找替换	341
+cha xun jie kou	查询接口	334
+cha xun fen xi qi	查询分析器	328
+cha cuo kong zhi	差错控制	302
+cha shu	叉树	296
+cha fen yue shu xi tong	差分约束系统	294
+cha biao fa	查表法	292
+cha xun biao da shi	查询表达式	292
+cha fen yue shu	差分约束	285
+cha xun guan jian zi	查询关键字	274
+cha zhao ji lu	查找记录	266
+cha ru lie	插入列	261
+cha xun mo shi	查询模式	250
+cha zhi qi	插值器	245
+cha cuo jian ce	差错检测	240
+cha ru yi chang	插入异常	236
+cha xun bian liang	查询变量	218
+cha xun zi ju	查询子句	205
+cha jian hua kai fa	插件化开发	204
+cha zhao er cha shu	查找二叉树	196
+cha bie lian he	差别联合	190
+cha cuo hui fu	差错恢复	186
+cha cuo xiao yan	差错校验	186
+cha fen xu lie	差分序列	179
+cha bu qi	插补器	178
+cha fen yue shu	查分约束	151
+cha zhi cha zhao	插值查找	137
+cha ru cheng yuan	插入成员	122
+cha cuo kong zhi bian ma	差错控制编码	105
+cha jian lan	插件栏	96

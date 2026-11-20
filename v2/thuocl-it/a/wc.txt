@@ -1,0 +1,12 @@
+wcgzhs	无参构造函数	401
+wcf	尾插法	332
+wcc	无差错	330
+wchs	无参函数	258
+wccq	外存储器	240
+wcx	微程序	194
+wcgj	误差估计	179
+wclj	谓词逻辑	164
+wcys	谓词演算	155
+wcj	外裁剪	147
+wcxkz	微程序控制	125
+wcxsj	微程序设计	100

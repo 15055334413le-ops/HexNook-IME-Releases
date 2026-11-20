@@ -1,0 +1,9 @@
+yue du cheng xu	阅读程序	332
+yue shu ge shu	约数个数	260
+yue shu gui ze	约束规则	218
+yue shu han shu	约束函数	197
+yue shu fang cheng	约束方程	178
+yue shu man zu	约束满足	149
+yue qian	粤嵌	114
+yue shu ju zhen	约束矩阵	112
+yue shu chuan bo	约束传播	100

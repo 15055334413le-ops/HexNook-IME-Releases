@@ -1,0 +1,1598 @@
+long tou	龙头	230040
+long duan	垄断	188410
+long tou qi ye	龙头企业	147615
+long zhong	隆重	116895
+long de	龙的	77425
+long men	龙门	61535
+long zhao	笼罩	54870
+long wang	龙王	52200
+long gang	龙岗	51925
+long tan	龙潭	44535
+long hua	龙华	43680
+long cheng	龙城	39620
+long teng	龙腾	37955
+long gu	龙骨	37705
+long qi	隆起	37385
+long duan hang ye	垄断行业	37126
+long feng	龙凤	36710
+long gang qu	龙岗区	36645
+long shan	龙山	36275
+long xia	龙虾	35485
+long zhu	龙珠	35075
+long ma	龙马	34270
+long zhong tui chu	隆重推出	32005
+long tong	笼统	30360
+long zu	龙族	29925
+long hu	龙虎	29815
+long jiang	龙江	29740
+long juan feng	龙卷风	28430
+long jing	龙井	27165
+long kou	龙口	25130
+long zhao zai	笼罩在	25100
+long zi	笼子	24605
+long xin	龙芯	21985
+long zhao zhe	笼罩着	21905
+long zhong zhao kai	隆重召开	21225
+long shen	龙神	21030
+long jing cha	龙井茶	20837
+long zhou	龙舟	20815
+long ren	聋人	20465
+long long	隆隆	19095
+long gong	龙宫	18600
+long xiong	隆胸	17795
+long yan shi	龙岩市	17210
+long fei	龙飞	17100
+long zhong kai mu	隆重开幕	16460
+long yin	龙吟	15065
+long duan di wei	垄断地位	15060
+long mao	龙猫	14420
+long duan xing	垄断性	14200
+long mei er	隆美尔	14025
+long nv	龙女	13395
+long mai	龙脉	13360
+long ya	聋哑	13325
+long ren	龙人	12710
+long dong	隆冬	12660
+long dian gu fen	龙电股份	12500
+long you	龙游	12375
+long xiang	龙翔	11770
+long zi li	笼子里	11560
+long bai	龙柏	11245
+long de chuan ren	龙的传人	11145
+long duan xing wei	垄断行为	10768
+long wen	龙纹	10115
+long long	龙龙	10110
+long biao	龙标	9999
+long dan	龙蛋	9999
+long en	隆恩	9999
+long gui	龙龟	9999
+long jiang ju	龙江剧	9999
+long kou duo liang	龙口夺粮	9999
+long sheng jiu zhong	龙生九种	9999
+long xin	龙心	9999
+long yi	龙椅	9999
+long zhi	龙之	9999
+long zhi gu	龙之谷	9999
+long zong	拢总	9999
+long xin	隆鑫	9957
+long ge	龙哥	9630
+long hu shan	龙虎山	9310
+long zi	龙子	9055
+long men shi ku	龙门石窟	9050
+long bi	隆鼻	8595
+long tang	弄堂	8590
+long lin	龙鳞	8400
+long tou lao da	龙头老大	8355
+long qiao	龙桥	8215
+long luo	笼络	8090
+long feng cheng xiang	龙凤呈祥	8050
+long zi	聋子	7950
+long xing	龙行	7880
+long yun	龙云	7875
+long duan qi ye	垄断企业	7585
+long yan rou	龙眼肉	7390
+long hun	龙魂	7130
+long chuan	龙船	7045
+long xing tian xia	龙行天下	6850
+long wei	龙尾	6825
+long deng	龙灯	6670
+long chuan hua yin	泷川花音	6666
+long wu	龙舞	6550
+long zhao	龙爪	6480
+long zhua	龙爪	6480
+long shen	龙身	6420
+long zhong	笼中	6415
+long zhong	隆中	6410
+long yan	龙眼	6363
+long ya ren	聋哑人	6255
+long ya	龙牙	6150
+long zhong deng chang	隆重登场	6140
+long can	龙灿	6065
+long pao	龙袍	6010
+long zhong zhao shang	隆重招商	5995
+long tou gu	龙头股	5815
+long zhong kai ye	隆重开业	5750
+long tao	龙套	5710
+long shan wen hua	龙山文化	5685
+long xu	龙须	5635
+long fei feng wu	龙飞凤舞	5605
+long xing	龙形	5555
+long xin	龙新	5465
+long wang miao	龙王庙	5175
+long hu qu	龙湖区	5125
+long hu dou	龙虎斗	5052
+long hui	隆回	5050
+long mu	龙母	4995
+long wei	龙威	4890
+long sheng	隆盛	4880
+long qi bing	龙骑兵	4860
+long kui	龙葵	4855
+long ru	隆乳	4725
+long ji	龙脊	4660
+long you xian	龙游县	4655
+long ya xue xiao	聋哑学校	4630
+long hu bang	龙虎榜	4590
+long hua lu	龙华路	4510
+long xiang	龙祥	4465
+long shu	龙树	4295
+long da	龙达	4285
+long quan shi	龙泉市	4245
+long quan yi qu	龙泉驿区	4240
+long juan	龙卷	4205
+long men ke zhan	龙门客栈	4200
+long men xian	龙门县	4155
+long dong	陇东	4120
+long zheng hu dou	龙争虎斗	4045
+long hui xian	隆回县	4005
+long duan li run	垄断利润	3975
+long ting	龙亭	3915
+long duan shi chang	垄断市场	3710
+long ji ti tian	龙脊梯田	3655
+long hai tie lu	陇海铁路	3605
+long nian	龙年	3560
+long pai	龙牌	3550
+long duan zi ben	垄断资本	3535
+long xin	龙信	3535
+long shan xian	龙山县	3510
+long ge	龙阁	3475
+long tu	龙图	3375
+long pi	龙皮	3333
+long she lan	龙舌兰	3320
+long yan	龙颜	3240
+long duan zhe	垄断者	3225
+long quan	龙拳	3185
+long she	笼舍	3135
+long xue	龙穴	3130
+long teng hu yue	龙腾虎跃	3080
+long men zhen	龙门阵	3030
+long qing xia	龙庆峡	2940
+long yang	笼养	2915
+long gang zhen	龙岗镇	2905
+long hua qu	龙华区	2880
+long duan zi ben zhu yi	垄断资本主义	2875
+long quan si	龙泉寺	2875
+long zhong dui	隆中对	2860
+long ling	龙陵	2830
+long chao shou	龙抄手	2779
+long zhong	龙种	2755
+long nei	笼内	2745
+long cang	龙藏	2715
+long xian	陇县	2680
+long xiong	龙兄	2675
+long li	笼里	2605
+long men shan	龙门山	2590
+long bao	龙宝	2565
+long hua	隆化	2565
+long fu si	隆福寺	2535
+long sha	龙沙	2525
+long le	聋了	2520
+long ti	笼屉	2520
+long yang jun	龙阳君	2485
+long ting	龙庭	2455
+long gong	拢共	2450
+long quan yao	龙泉窑	2425
+long ju	龙驹	2380
+long zhong qing zhu	隆重庆祝	2325
+long hai xian	陇海线	2320
+long zhou jing du	龙舟竞渡	2315
+long tai tou	龙抬头	2305
+long zhou sai	龙舟赛	2305
+long qi	龙骑	2222
+long lai	拢来	2220
+long de	聋的	2165
+long ti	龙体	2125
+long jun	龙君	2115
+long lei	龙类	2100
+long feng tai	龙凤胎	2060
+long nan shi	陇南市	2029
+long duan zu zhi	垄断组织	2025
+long xing da da	龙行龘龘	2024
+long yang qu	隆阳区	2010
+long xian xiang	龙涎香	2005
+long quan jian	龙泉剑	1980
+long shang	陇上	1980
+long nan xian	龙南县	1905
+long duan quan	垄断权	1900
+long ma tan qu	龙马潭区	1895
+long hua si	龙华寺	1865
+long quan yi	龙泉驿	1855
+long duan jia ge	垄断价格	1845
+long xu mian	龙须面	1823
+long jing xia ren	龙井虾仁	1800
+long quan zhen	龙泉镇	1790
+long bai qiu	龙柏球	1785
+long jing shi	龙井市	1755
+long ying tai	龙应台	1745
+long piao	龙票	1725
+long nao	龙脑	1715
+long tan qu	龙潭区	1675
+long feng qu	龙凤区	1650
+long she	龙蛇	1596
+long she hun za	龙蛇混杂	1580
+long tan san jie	龙潭三杰	1576
+long tan hu xue	龙潭虎穴	1575
+long zhou dui	龙舟队	1570
+long tu teng	龙图腾	1565
+long men diao	龙门吊	1555
+long xu cai	龙须菜	1532
+long le long	拢了拢	1530
+long xian	龙涎	1530
+long shu pu sa	龙树菩萨	1515
+long zhong	龙钟	1515
+long ling xian	龙陵县	1505
+long long sheng	隆隆声	1505
+long wen qu	龙文区	1505
+long luo ren xin	笼络人心	1500
+long xing hu bu	龙行虎步	1490
+long qian	龙潜	1480
+long chuang	龙床	1470
+long tou si	龙头寺	1459
+long yang xia	龙羊峡	1440
+long jing wen cha	龙井问茶	1435
+long che	龙车	1415
+long cheng sui yue	龙城岁月	1410
+long ge	龙格	1390
+long ji	龙基	1375
+long li xian	龙里县	1375
+long wang ye	龙王爷	1365
+long de xian	隆德县	1340
+long dan zi	龙胆紫	1320
+long sha qu	龙沙区	1320
+long xing si	龙兴寺	1315
+long zhou xian	龙州县	1315
+long hua xian	隆化县	1300
+long men bao	龙门刨	1300
+long xu gou	龙须沟	1290
+long ma jing shen	龙马精神	1195
+long yan da yue	龙颜大悦	1195
+long gai si ye	笼盖四野	1180
+long quan shan	龙泉山	1175
+long tai zi	龙太子	1160
+long xing si	隆兴寺	1160
+long duan cheng du	垄断程度	1150
+long yao xian	隆尧县	1150
+long de tian kong	龙的天空	1140
+long sheng jiu zi	龙生九子	1140
+long tu ge	龙图阁	1120
+long gen	龙根	1111
+long you	龙幽	1111
+long ying	龙樱	1110
+long xi xian	陇西县	1085
+long sheng xian	龙胜县	1080
+long dong da dao	龙东大道	1075
+long men jia	龙门架	1070
+long pan	龙盘	1070
+long she lan jiu	龙舌兰酒	1070
+long kang	砻糠	1060
+long jiang lu	龙江路	1055
+long yu	龙鱼	1036
+long zhong niao	笼中鸟	1025
+long feng pei	龙凤配	1007
+long ma	龙妈	1000
+long ming	龙溟	999
+long ya de	聋哑的	980
+long gang qu	龙港区	975
+long yin hu xiao	龙吟虎啸	955
+long shan si	龙山寺	930
+long zhi meng	龙之梦	930
+long gou	垄沟	920
+long gai	笼盖	915
+long nan	陇南	899
+long shan qu	龙山区	870
+long wan qu	龙湾区	844
+long xu cao	龙须草	840
+long chang	隆昌	831
+long gang qu zheng fu	龙岗区政府	823
+long feng dou	龙凤斗	820
+long chuan diao	龙船调	815
+long tu zhu	龙吐珠	795
+long tang kou	弄堂口	770
+long tan shui dian zhan	龙滩水电站	765
+long nan	龙南	753
+long hu feng yun	龙虎风云	740
+long zhi wen	龙之吻	740
+long er tong zhi	笼而统之	735
+long hu bao	龙虎豹	730
+long tan gong yuan	龙潭公园	728
+long yan shu	龙眼树	705
+long zi long sun	龙子龙孙	700
+long zuo	垄作	695
+long xiao	龙啸	685
+long xiao jiu tian	龙啸九天	685
+long tou shan	龙头山	676
+long dan hua	龙胆花	600
+long tang	龙塘	591
+long tou yu	龙头鱼	565
+long niao	笼鸟	550
+long ping gao ke	隆平高科	543
+long xiong hu di	龙兄虎弟	540
+long xu tang	龙须糖	539
+long xiang jiang jun	龙骧将军	535
+long juan feng bao	龙卷风暴	525
+long shou	龙首	484
+long pan hu ju	龙盘虎踞	480
+long quan	龙泉	479
+long ka	龙卡	476
+long quan cun	龙泉村	471
+long quan xian	龙泉县	470
+long tou guai zhang	龙头拐杖	450
+long tan hu	龙潭湖	448
+long xiang da dao	龙翔大道	439
+long yang lu	龙阳路	430
+long hua yi yuan	龙华医院	427
+long cheng qu	龙城区	420
+long zhong zhi niao	笼中之鸟	420
+long zhun	隆准	415
+long sheng	龙生	377
+long tou si huo che zhan	龙头寺火车站	376
+long xing	龙姓	375
+long tan si	龙潭寺	359
+long tou	笼头	359
+long jing cun	龙井村	353
+long ting qu	龙亭区	350
+long xia rou	龙虾肉	350
+long tou cun	龙头村	340
+long zu lun tan	龙族论坛	335
+long tian	龙田	326
+long du	龙都	318
+long tu ge xue shi	龙图阁学士	315
+long men lu	龙门路	310
+long jing lu	龙井路	309
+long xu su	龙须酥	309
+long xia tang	龙虾汤	308
+long qing	隆情	305
+long sheng long	龙生龙	305
+long yang xia shui dian zhan	龙羊峡水电站	305
+long ma tan	龙马潭	300
+long shui	龙水	292
+long hua san hui	龙华三会	280
+long he	龙河	264
+long men cun	龙门村	261
+long lin xian	隆林县	260
+long ran	隆然	260
+long ya er	聋哑儿	245
+long an xian	隆安县	238
+long ti	隆替	235
+long yu sheng	龙榆生	235
+long an	拢岸	225
+long xi	龙息	222
+long zhong bi mu	隆重闭幕	220
+long shou cun	龙首村	217
+long you qian shui zao xia xi	龙游浅水遭虾戏	210
+long shan lu	龙山路	204
+long hua ren min yi yuan	龙华人民医院	202
+long guan gu mu	龙棺古墓	200
+long gang zhen	龙港镇	199
+long zhi huang guan	龙之皇冠	199
+long zhou yu	龙舟雨	197
+long xiao yun	龙小云	196
+long tan lu	龙潭路	195
+long tou xin wen	龙头新闻	195
+long gang jie dao	龙港街道	194
+long gang lu	龙岗路	194
+long qing xiang	隆庆祥	194
+long xun zhen	龙浔镇	194
+long yu tian cheng	龙域天城	193
+long zhi dui	龙之队	192
+long jin lu	龙津路	187
+long kou shi	龙口市	185
+long mo dao	龙魔导	185
+long gu hua	龙骨花	182
+long qiao xue yuan	陇桥学院	182
+long yan bao zi	龙眼包子	182
+long chi shan	龙池山	180
+long jian gu fen	龙建股份	180
+long shen hao	龙神号	180
+long xi lu	陇西路	180
+long zhi mi bao	龙之秘宝	180
+long zhou gu fen	龙洲股份	179
+long yun cheng	龙韵城	178
+long yue chang an	泷悦长安	176
+long dong jie	龙洞街	175
+long zui	笼嘴	175
+long jia zhai	龙家寨	174
+long fa	龙发	173
+long qiu cun	龙秋村	173
+long feng qiao	龙凤桥	170
+long men gu	龙门崮	170
+long zhu jue xing	龙珠觉醒	169
+long an jia yuan	龙安佳苑	168
+long xu men	龙须门	168
+long hu luan wu	龙虎乱舞	164
+long ji shan	龙脊山	162
+long shui he	龙水河	160
+long cheng di jing	龙城帝景	158
+long shen wan	龙神丸	158
+long yi xing	龙易行	158
+long feng tuan cha	龙凤团茶	155
+long jiang jian kang ma	龙江健康码	155
+long hua qi che zhan	龙华汽车站	154
+long dong	龙东	153
+long zhi dao	龙之道	153
+long zhou bi sai	龙舟比赛	153
+long pan jin quan	龙畔金泉	151
+long you hu	龙游湖	151
+long qi tuan	龙骑团	150
+long tan hu gong yuan	龙潭湖公园	150
+long hai qu	龙海区	149
+long zhou jie	龙舟节	149
+long shi qiao	龙狮桥	148
+long shun yuan	龙顺园	147
+long chang xian	隆昌县	146
+long zhi tiao zhan	龙之挑战	146
+long zhi zi	龙之子	146
+long tuan feng bing	龙团凤饼	145
+long xiang xiao qu	龙乡小区	142
+long men diao che	龙门吊车	140
+long zi ke	龙字科	138
+long hua dong lu	龙华东路	137
+long yao	龙腰	137
+long gu shui che	龙骨水车	135
+long qi yi	龙崎一	134
+long she yan yi	龙蛇演义	134
+long teng lu	龙腾路	133
+long zhi dao	龙之岛	133
+long shu xing	龙属性	131
+long deng dui	龙灯队	130
+long wan bie shu	龙湾别墅	128
+long bu zhu	拢不住	125
+long hui qiao	龙辉巧	124
+long quan gu zhen	龙泉古镇	121
+long tou xing	龙头性	120
+long zhi xia gu	龙之峡谷	120
+long hai jia yuan	龙海家园	118
+long wang shan	龙王山	118
+long chang lu	隆昌路	117
+long gan	龙肝	116
+long he shui an	隆和水岸	116
+long xi dan	龙息弹	116
+long cong	珑璁	115
+long cong	茏葱	115
+long lu	龙路	115
+long pan li	龙蟠里	115
+long shan bin guan	龙山宾馆	115
+long xi yi	龙蜥蜴	115
+long wu mu	龙无目	114
+long zhou chi	龙舟池	114
+long feng bing	龙凤饼	113
+long shan guo ji	龙山国际	113
+long cang gou	龙苍沟	112
+long ao	龙傲	111
+long di	龙帝	111
+long jia	龙家	111
+long qiang	龙枪	111
+long qiu	龙丘	111
+long ta	龙榻	111
+long xi	龙系	111
+long xie	龙血	111
+long xue	龙血	111
+long yang	龙阳	111
+long yin	拢音	111
+long yu shang bin	龙驭上宾	111
+long ze	龙泽	111
+long guan dong lu	龙观东路	110
+long hu wu shi	龙虎武师	109
+long yan su	龙眼酥	109
+long jiang xian	龙江县	108
+long li yu pian	龙脷鱼片	108
+long zai fan	笼仔饭	107
+long zhou dao	龙洲岛	106
+long gang	龙港	104
+long hai	陇海	104
+long he sheng dou	龙河盛都	104
+long shou bei lu	龙首北路	104
+long mang bai li	龙蟒佰利	103
+long tan he	龙潭河	103
+long feng jie	龙凤街	102
+long hua xi lu	龙华西路	101
+long an qu	龙安区	100
+long an si	龙安寺	100
+long ao tian	龙傲天	100
+long ao yi	龙傲一	100
+long bu long duan	垄不垄断	100
+long bu long duan a	垄不垄断啊	100
+long bu long duan ba	垄不垄断吧	100
+long bu long duan la	垄不垄断啦	100
+long bu long duan lou	垄不垄断喽	100
+long bu long duan ma	垄不垄断吗	100
+long bu long duan o	垄不垄断哦	100
+long bu long duan wa	垄不垄断哇	100
+long bu long duan ya	垄不垄断呀	100
+long bu tai tou	龙不抬头	100
+long che feng nian	龙车凤辇	100
+long cheng chuan qi	龙城传奇	100
+long cheng yi tuan	拢成一团	100
+long cheng yuan	龙城苑	100
+long chuan jing sai	龙船竞赛	100
+long chuan sai	龙船赛	100
+long chuan zhou	龙船洲	100
+long chuang feng ta	龙床凤榻	100
+long dan ke	龙胆科	100
+long dan mu	龙胆目	100
+long dan shu	龙胆属	100
+long de chuan shuo	龙的传说	100
+long de jiu zi	龙的九子	100
+long de jue qi	龙的崛起	100
+long di dong	龙地洞	100
+long dong di qu	陇东地区	100
+long dou hu shang	龙斗虎伤	100
+long du guo ji	龙都国际	100
+long du jie dao	龙都街道	100
+long duan fan mai	垄断贩卖	100
+long duan ji tuan	垄断集团	100
+long duan zi chan	垄断资产	100
+long duan zi chan jie ji	垄断资产阶级	100
+long dui zhang	龙队长	100
+long en sheng de	隆恩盛德	100
+long fa tang	龙发堂	100
+long fei chuan	龙飞船	100
+long fei she wu	龙飞蛇舞	100
+long fei ye	龙非夜	100
+long fen shen shu	胧分身术	100
+long fen shen zhi shu	胧分身之术	100
+long feng yun zhou	龙凤云洲	100
+long feng zhi biao	龙凤之表	100
+long gan feng dan	龙肝凤胆	100
+long gan feng sui	龙肝凤髓	100
+long gang chang tu qi che zhan	龙岗长途汽车站	100
+long gang cheng	龙港城	100
+long gang ping di	龙岗坪地	100
+long ge ge	龙哥哥	100
+long gong bei	龙宫贝	100
+long gong cheng	龙宫城	100
+long gong guo	龙宫国	100
+long gong wang guo	龙宫王国	100
+long gong xiao xing xing	龙宫小行星	100
+long gong zhi zhu	龙宫之主	100
+long gong zi	龙公子	100
+long gu gao	龙骨膏	100
+long gu ji	砻谷机	100
+long gu tu	龙骨突	100
+long guang di chan	龙光地产	100
+long guang she niu dou zhi xu	龙光射牛斗之墟	100
+long hai lu	陇海路	100
+long he di xia cheng	龙和地下城	100
+long he gu di	隆河谷地	100
+long hu bing fu	龙虎并伏	100
+long hu di chan	龙湖地产	100
+long hu jie dao	龙湖街道	100
+long hu men	龙虎门	100
+long hu xiao qu	龙湖校区	100
+long hu zhi shu	泷壶之术	100
+long hua gong zhuan	龙华工专	100
+long huang chuan shuo	龙皇传说	100
+long hun xia ying	龙魂侠影	100
+long huo zhi shu	龙火之术	100
+long ji gong zhu	龙吉公主	100
+long ji guang	龙济光	100
+long jia dian	龙家店	100
+long jia shou	龙甲兽	100
+long jia zu	龙家族	100
+long jian zhuan	龙剑传	100
+long jiang bo	龙江波	100
+long jiang yin hang	龙江银行	100
+long jin hu	龙津湖	100
+long jing guan	龙井关	100
+long jing xiang	龙井乡	100
+long jiu zi	龙九子	100
+long ju feng chu	龙驹凤雏	100
+long juan yun	龙卷云	100
+long kan shou jian	龙龛手鉴	100
+long kou duo shi	龙口夺食	100
+long kun qian tan	龙困浅滩	100
+long li de	龙利得	100
+long li qi	隆力奇	100
+long li ye	龙脷叶	100
+long li yu liu	龙脷鱼柳	100
+long lin ge zu zi zhi xian	隆林各族自治县	100
+long long shi	隆隆石	100
+long long xiang	隆隆响	100
+long long yan	隆隆岩	100
+long lou feng ge	龙楼凤阁	100
+long lou feng que	龙楼凤阙	100
+long luo dao	笼络到	100
+long ma shan	龙马山	100
+long ma xing xi	龙马星系	100
+long ma zhuan	龙马传	100
+long ma zi	龙麻子	100
+long mai zhi di	龙脉之地	100
+long mang da di	龙蟒大地	100
+long mei feng mu	龙眉凤目	100
+long mei feng yan	龙眉凤眼	100
+long mei zi	龙梅子	100
+long men bang	龙门帮	100
+long men bao chuang	龙门刨床	100
+long men biao ju	龙门镖局	100
+long men duan ceng	龙门断层	100
+long men fei jian	龙门飞剑	100
+long men jue jing	龙门绝境	100
+long men qi zhong ji	龙门起重机	100
+long men shan duan ceng	龙门山断层	100
+long men shui ku	龙门水库	100
+long men tang ren	龙门汤人	100
+long mian de xia tian	龙眠的夏天	100
+long mu dao	龙目岛	100
+long nan di qu	陇南地区	100
+long nan shi wu du qu	陇南市武都区	100
+long nan wu du	陇南武都	100
+long nao xiang	龙脑香	100
+long nao xiang ke	龙脑香科	100
+long nao xiang shu	龙脑香树	100
+long nian kuai le	龙年快乐	100
+long niao chi yu	笼鸟池鱼	100
+long niao jian yuan	笼鸟槛猿	100
+long pao jia shen	龙袍加身	100
+long piao piao	龙飘飘	100
+long qi shi	龙骑士	100
+long qi xiang	龙崎乡	100
+long qian du shi	龙潜都市	100
+long qian feng wu	龙骞凤舞	100
+long qian yu	龙千玉	100
+long qing gao su	龙青高速	100
+long qing gao yi	隆情高谊	100
+long qing hou yi	隆情厚谊	100
+long qing quan	龙清泉	100
+long qing sheng yi	隆情盛意	100
+long quan bao zang	龙泉宝藏	100
+long quan xiao qu	龙泉校区	100
+long que jian	龙雀剑	100
+long ru shou shu	隆乳手术	100
+long shan xiao qu	龙山校区	100
+long shang xing	垄上行	100
+long she fei dong	龙蛇飞动	100
+long she fei wu	龙蛇飞舞	100
+long she qi lu	龙蛇起陆	100
+long she za chu	龙蛇杂处	100
+long shen chuan shuo	龙神传说	100
+long shen lian meng	龙神联盟	100
+long sheng ge zu zi zhi xian	龙胜各族自治县	100
+long sheng ke ji	隆盛科技	100
+long sheng wu liu	隆盛物流	100
+long sheng zhen	隆盛镇	100
+long shi cheng	龙狮城	100
+long shi da hui	龙狮大会	100
+long shi dao	龙石岛	100
+long shi shen me	龙是什么	100
+long shou feng	龙首峰	100
+long shui xia di feng	龙水峡地缝	100
+long song ye	龙嵩叶	100
+long tan hu ku	龙潭虎窟	100
+long tan jian	龙潭涧	100
+long tan xiang	龙潭乡	100
+long tan zhi zhan	龙潭之战	100
+long tang li	弄堂里	100
+long tao bao lve	龙韬豹略	100
+long tao hu lve	龙韬虎略	100
+long tao jue se	龙套角色	100
+long tao yan yuan	龙套演员	100
+long tao yu le	龙韬娱乐	100
+long teng chuan shi	龙腾传世	100
+long teng sheng shi	龙腾盛世	100
+long teng shi ji	龙腾世纪	100
+long teng wan li	龙腾万里	100
+long ti xi	龙体系	100
+long tong xing	笼统性	100
+long tou di chan	龙头地产	100
+long tou di shu	龙头地鼠	100
+long tou di wei	龙头地位	100
+long tou feng wei	龙头凤尾	100
+long tou she wei	龙头蛇尾	100
+long tou xi lie	龙头系列	100
+long tou xue xiao	龙头学校	100
+long tou yu	隆头鱼	100
+long tou yu ke	隆头鱼科	100
+long tou yu mu	隆头鱼目	100
+long tuan zhang	龙团长	100
+long tuo shi	隆托什	100
+long wang bo shi	龙王波什	100
+long wang chuan shuo	龙王传说	100
+long wang chuan shuo zhong	龙王传说中	100
+long wang xie	龙王蝎	100
+long wang zhui xu	龙王赘婿	100
+long wei chuan mei	龙薇传媒	100
+long wen hua	龙文化	100
+long wu lu	龙吴路	100
+long wu she fei	龙舞蛇飞	100
+long wu yun er bu xing	龙无云而不行	100
+long xi gao yuan	陇西高原	100
+long xi lie	龙系列	100
+long xi shui	龙吸水	100
+long xi shui an	龙溪水岸	100
+long xia mian	龙虾面	100
+long xia tie lu	龙厦铁路	100
+long xia xiao bing	龙虾小兵	100
+long xia xing jing	龙虾刑警	100
+long xia yang zhi ji di	龙虾养殖基地	100
+long xiang bo re gong	龙象般若功	100
+long xiang feng wu	龙翔凤舞	100
+long xiang feng zhu	龙翔凤翥	100
+long xiang hu ben	龙骧虎贲	100
+long xiang hu bu	龙骧虎步	100
+long xiang hu shi	龙骧虎视	100
+long xiang hu xiao	龙骧虎啸	100
+long xiao zhang	龙校长	100
+long xin bu yue	龙心不悦	100
+long xin da yue	龙心大悦	100
+long xin she qu	龙新社区	100
+long xing jun fa	隆刑峻法	100
+long xing quan	龙形拳	100
+long xing zhi di	龙兴之地	100
+long xu cha	龙须茶	100
+long xu qu	龙圩区	100
+long xu you	龙须友	100
+long xu zhen	龙圩镇	100
+long ya cao	龙牙草	100
+long ya song mu	龙牙楤木	100
+long yan bu yue	龙颜不悦	100
+long yan cao	龙蜒草	100
+long yan chang ting	龙岩长汀	100
+long yan cun	龙岩村	100
+long yan di qu	龙岩地区	100
+long yan fen hang	龙岩分行	100
+long yan gan	龙眼干	100
+long yan tie kuang	龙烟铁矿	100
+long yi long	拢一拢	100
+long yi rui	龙亦瑞	100
+long yi shang	龙椅上	100
+long yin feng hui	龙吟凤哕	100
+long yong tu	龙永图	100
+long you di qu	陇右地区	100
+long you jie du shi	陇右节度使	100
+long you tian xia	龙游天下	100
+long yu bei jie	龙域北街	100
+long yu di xia cheng	龙与地下城	100
+long yu feng	龙与凤	100
+long yu ling zhu	龙域领主	100
+long yu mo nv	龙与魔女	100
+long yu ran you	龙宇燃油	100
+long yu shang bin	龙御上宾	100
+long yu tai hou	隆裕太后	100
+long yuan an	窿缘桉	100
+long yue ye	胧月夜	100
+long yun gu	龙云谷	100
+long yun zhen	龙云镇	100
+long yun zhen guai tan	龙云镇怪谈	100
+long zai bian yuan	龙在边缘	100
+long zhan dui	龙战队	100
+long zhan qi shi	龙战骑士	100
+long zhan shi	龙战士	100
+long zhan yu ye	龙战于野	100
+long zhang feng zi	龙章凤姿	100
+long zhang lao	龙长老	100
+long zhe yi	龙喆一	100
+long zhen tian	龙震天	100
+long zhi chuan qi	龙之传奇	100
+long zhi jia zu	龙之家族	100
+long zhi min	龙治民	100
+long zhi sheng yu	龙之圣域	100
+long zhi wei yi	龙之威仪	100
+long zhi xi	龙之息	100
+long zhong biao zhang	隆重表彰	100
+long zhong chang he	隆重场合	100
+long zhong chu chang	隆重出场	100
+long zhong de	隆重地	100
+long zhong de	隆重的	100
+long zhong de hun li	隆重的婚礼	100
+long zhong de jie ri	隆重的节日	100
+long zhong de yi shi	隆重的仪式	100
+long zhong feng tai	龙种凤胎	100
+long zhong gan	隆重感	100
+long zhong huan ying	隆重欢迎	100
+long zhong ji hui	隆重集会	100
+long zhong ji nian	隆重纪念	100
+long zhong jie dai	隆重接待	100
+long zhong jie shao	隆重介绍	100
+long zhong ju ban	隆重举办	100
+long zhong ju xing	隆重举行	100
+long zhong lao tai	龙钟老态	100
+long zhong re lie	隆重热烈	100
+long zhong shang shi	隆重上市	100
+long zhong shang xian	隆重上线	100
+long zhong tui jian	隆重推荐	100
+long zhong yi shi	隆重仪式	100
+long zhong yue	笼中月	100
+long zhong zhong gong	隆中重工	100
+long zhou jing sai	龙舟竞赛	100
+long zhou shan	龙肘山	100
+long zhu chuan qi	龙珠传奇	100
+long zhu xi lie	龙珠系列	100
+long zhuang wu	笼状物	100
+long zhun feng yi	隆准丰颐	100
+long zi da kai	笼子打开	100
+long zi hu	龙子湖	100
+long zi hu qu	龙子湖区	100
+long zi hu xiao qu	龙子湖校区	100
+long zi jia	龙梓嘉	100
+long zi lan	龙紫岚	100
+long zi long nv	龙子龙女	100
+long zu mu di	龙族墓地	100
+long zu qian zhuan	龙族前传	100
+long chuan lu	龙川路	99
+long feng cun	龙凤村	96
+long jing	龙颈	92
+long quan guan zhen	龙泉关镇	91
+long kou cun	龙口村	89
+long hua ji chang	龙华机场	88
+long nan zhong yuan	陇南中院	87
+long xin shi	龙信使	87
+long xin shi an quan zeng qiang dian zi you jian xi tong	龙信使安全增强电子邮件系统	87
+long yan zhong yuan	龙岩中院	87
+long gou	笼钩	85
+long mu miao	龙母庙	85
+long xi cun	龙溪村	85
+long yang lu di tie zhan	龙阳路地铁站	84
+long cheng da dao	龙城大道	83
+long chi	龙池	83
+long wen xue xiao	龙文学校	81
+long gang cun	龙岗村	80
+long wan tun	龙湾屯	76
+long bei	龙背	75
+long he lu	龙河路	75
+long jian	龙建	73
+long shan zhuang	龙山庄	73
+long tan gou	龙潭沟	73
+long zhu da dao	龙珠大道	73
+long ju si	龙居寺	72
+long jiang xiao qu	龙江小区	71
+long huo	笼火	70
+long shun rong	隆顺榕	70
+long zi	拢子	70
+long bi shu	隆鼻术	69
+long chi	龙翅	69
+long an cun	龙安村	68
+long dan cao	龙胆草	68
+long qing	隆庆	68
+long quan hua yuan	龙泉花园	68
+long dong bao ji chang	龙洞堡机场	67
+long xu gao	龙须糕	67
+long luo hao	笼络好	66
+long ze yuan	龙泽苑	66
+long ge er	隆格尔	65
+long gu che	龙骨车	65
+long yuan jiu dian	龙苑酒店	65
+long hua she qu	龙华社区	64
+long wang miao cun	龙王庙村	64
+long yi hei bang	龙裔黑帮	64
+long jia ying	龙家营	63
+long shan zhong xue	龙山中学	63
+long shui nan lu	龙水南路	63
+long han	龙翰	62
+long ling	龙岭	62
+long ba	龙坝	61
+long fu	龙福	60
+long cha	笼茶	57
+long dan xie gan wan	龙胆泻肝丸	57
+long teng jue yin	龙腾绝音	57
+long mai wen quan	龙脉温泉	56
+long xi shun jing	龙熙顺景	55
+long xing hua xia	龙行华夏	55
+long yu wan	龙峪湾	55
+long cao lu	龙漕路	53
+long ke	龙科	53
+long hu she qu	龙湖社区	52
+long ming lu	龙茗路	52
+long jing zhu sun	龙井竹荪	51
+long men jian	龙门涧	51
+long chuan xian	陇川县	50
+long li lu	隆礼路	50
+long long tong tong	笼笼统统	50
+long shen feng wei xia	龙身凤尾虾	50
+long zhong zhi long	龙中之龙	50
+long fu	龙伏	49
+long tan shui ku	龙潭水库	49
+long hua shi chang	龙华市场	48
+long ma cun	龙马村	48
+long cheng hua yuan	龙城花园	47
+long quan shan zhuang	龙泉山庄	47
+long dan jiu	龙胆酒	46
+long feng hua yuan	龙凤花园	45
+long ji cha	龙脊茶	45
+long jiang zhen zheng fu	龙江镇政府	45
+long mu hai xia	龙目海峡	45
+long tou chang	龙头厂	45
+long feng tui	龙凤腿	44
+long fu bin guan	隆福宾馆	44
+long shi	龙狮	44
+long wo	龙窝	44
+long yan shu xia	龙眼树下	44
+long du guo ji gong yu	龙都国际公寓	43
+long hu cun	龙湖村	43
+long jin yuan	龙锦苑	43
+long yuan lu	龙园路	42
+long feng jie dao	龙丰街道	41
+long zhu hua yuan	龙珠花园	41
+long she	龙舌	40
+long tian	垄田	40
+long xing	隆兴	40
+long zi fan	龙子幡	40
+long chuan xian	龙川县	39
+long hu lu	龙湖路	39
+long chuan bei lu	龙川北路	38
+long tou an xiang	龙头庵乡	38
+long gu tan	龙鼓滩	37
+long jin he	龙津河	36
+long feng mian	龙凤面	35
+long tan zhong xue	龙潭中学	35
+long shan she qu	龙山社区	34
+long deng xiang	龙灯乡	33
+long ping dong lu	龙平东路	33
+long shi	龙氏	33
+long tan shan	龙潭山	33
+long zha yao zu xiang	龙渣瑶族乡	33
+long sheng long feng sheng feng	龙生龙凤生凤	32
+long fei lu	龙飞路	31
+long lang zhuan	龙狼传	30
+long tan qiao	龙潭桥	30
+long yan cun	龙眼村	30
+long zhe shou	笼着手	30
+long jing hu meng	龙精虎猛	29
+long tang lu	龙塘路	29
+long xing yuan	龙兴园	29
+long bai xin cun	龙柏新村	28
+long pan hu	龙盘湖	28
+long fu lu	龙福路	27
+long shan da dao	龙山大道	27
+long di zhi mu	龙帝之墓	26
+long hua zhong xin xiao xue	龙华中心小学	26
+long huang	龙黄	26
+long ji	龙集	26
+long nan lu	龙南路	26
+long tou lu	龙头路	26
+long xing cun	龙兴村	26
+long you lu	龙游路	26
+long zi hu jie dao	龙子湖街道	26
+long dan er tang	龙胆二糖	25
+long ge er xian	隆格尔县	25
+long hua yuan	龙华园	25
+long jiang shu yuan	龙江书院	25
+long juan	龙涓	25
+long nian da ji	龙年大吉	25
+long wang gang lu	龙王港路	25
+long xiang jia yuan	龙祥嘉园	25
+long yan mi	龙眼蜜	25
+long hou shi zu	龙喉氏族	24
+long tian di yu xing nei	笼天地于形内	24
+long xing lu	隆兴路	24
+long zhi ta	龙之塔	24
+long ping cun	龙坪村	23
+long quan xiao xue	龙泉小学	23
+long tai shan ling yuan	龙台山陵园	23
+long wang zhuang	龙旺庄	23
+long zhi zhao huan	龙之召唤	23
+long he cun	龙河村	22
+long keng	龙坑	22
+long quan bin guan	龙泉宾馆	22
+long quan gong mu	龙泉公墓	22
+long ren zhi ta	龙人之塔	22
+long di	笼底	21
+long hu feng hui	龙虎凤烩	21
+long li yu	龙脷鱼	21
+long xing yuan xiao qu	龙兴园小区	21
+long bu zhu	笼不住	20
+long chou gu	龙筹股	20
+long hu pao	龙虎泡	20
+long jing shan yuan	龙井山园	20
+long jing xian	龙井县	20
+long men kou	龙门口	20
+long wang ye yan	龙王夜宴	20
+long chuan	陇川	19
+long dan xie gan tang	龙胆泻肝汤	18
+long dong wan	龙洞湾	18
+long sheng cun	龙胜村	18
+long teng yu nei	龙腾宇内	18
+long tou zhen	隆头镇	18
+long ba tian xia	龙霸天下	17
+long jin cun	龙津村	17
+long teng jie	龙腾街	17
+long wang tou	龙王头	17
+long xia cun	龙下村	17
+long yu xiang ba lao	龙与乡巴佬	17
+long bai lu	龙柏路	16
+long feng rou qing	龙凤柔情	16
+long ju lu	龙居路	16
+long ju shan zhuang	龙聚山庄	16
+long shui cun	龙水村	16
+long fa gong si	龙发公司	15
+long feng mei gui yuan	龙凤玫瑰园	15
+long kan	垄坎	15
+long mei cun	龙美村	15
+long shan qiao	龙山桥	15
+long shi tian xia	龙噬天下	15
+long tan jiao	龙潭角	15
+long yan xia ren	龙眼虾仁	15
+long chao shou can ting	龙抄手餐厅	14
+long di cun	龙地村	14
+long gui da hai	龙归大海	14
+long ju cun	龙居村	14
+long tan da	龙潭大	14
+long tan gong ye qu	龙潭工业区	14
+long wu	龙屋	14
+long ya zheng	聋哑症	14
+long zhi shou zhuo	龙之手镯	14
+long cang si	龙藏寺	13
+long chuan	龙川	13
+long jing lu	龙景路	13
+long xu tang jie dao	龙须塘街道	13
+long yang cun	龙阳村	13
+long bi	癃闭	12
+long hua tian qiao	龙华天桥	12
+long jiang lu kou	龙江路口	12
+long ma fu tu si	龙马负图寺	12
+long shan dao	龙山道	12
+long shan xue xiao	龙山学校	12
+long ta	龙塔	12
+long zhou lu	龙州路	12
+long e	隆鳄	11
+long en si	隆恩寺	11
+long tai shan	龙台山	11
+long xi cun	龙西村	11
+long xian ma ti su	陇县马蹄酥	11
+long chi	龙齿	10
+long jin yuan gong jiao chang zhan	龙锦苑公交场站	10
+long jing si	龙井寺	10
+long kang lu	隆康路	10
+long shan luo mao	龙山落帽	10
+long tan yi yuan	龙潭医院	10
+long xiang	龙巷	10
+long xin min	龙新民	10
+long yong	龙涌	10
+long zhong cha	隆中茶	10
+long bao yu	龙宝峪	9
+long bo zi	龙脖子	9
+long feng xian tang	龙凤鲜汤	9
+long ji	龙纪	9
+long jiao	龙角	9
+long jin yuan er qu	龙锦苑二区	9
+long jing cha shi	龙井茶室	9
+long men lin chang	龙门林场	9
+long ri xiang	龙日乡	9
+long tian yang er lang	泷田洋二郎	9
+long wang zhuang xiao qu	龙旺庄小区	9
+long xi xiang	垄溪乡	9
+long xia ren	龙虾人	9
+long yan jiao jia mu shi	龙眼角颊木虱	9
+long yan lu kou	龙眼路口	9
+long yue yuan er qu	龙跃苑二区	9
+long zhi jie zhi	龙之戒指	9
+long zi	垄子	9
+long chi kai fa qu	龙池开发区	8
+long chuan kuang quan shui	龙川矿泉水	8
+long de meng xiang	龙的梦想	8
+long ding hua jiu dian	龙鼎华酒店	8
+long ding jia yuan	龙鼎家园	8
+long dong hei shan yang	陇东黑山羊	8
+long dong qi lin	龙洞琪林	8
+long jing jin yu	龙井金鱼	8
+long long ji	隆隆机	8
+long quan wu	龙泉务	8
+long shan shu yuan	龙山书院	8
+long xi cun	陇西村	8
+long xi jun	陇西郡	8
+long xu yan wan	龙须燕丸	8
+long xun	龙浔	8
+long zhi fen shen	龙之分身	8
+long zi zhen	隆子镇	8
+long ban	龙板	7
+long dan	龙胆	7
+long feng xiao qu	龙凤小区	7
+long hai lu	龙海路	7
+long hua yuan dong qu	龙华园东区	7
+long men tan	龙门滩	7
+long shan gong mu	龙山公墓	7
+long shan lu kou	龙山路口	7
+long tan si long xing lu	龙潭寺隆兴路	7
+long tu xing pi fu xian wei rou liu	隆突性皮肤纤维肉瘤	7
+long wan qu fu	龙湾区府	7
+long wu cha	龙舞茶	7
+long yan yang can yin	龙眼洋参饮	7
+long yang lu li jiao	龙阳路立交	7
+long yin lu	龙隐路	7
+long yin lu kou	龙吟路口	7
+long yuan xiang	龙源乡	7
+long zao jiao nang	龙枣胶囊	7
+long zhou gong lu	龙洲公路	7
+long bao feng dan	龙抱凤蛋	6
+long en si lu	隆恩寺路	6
+long fu hua yuan	龙府花园	6
+long hu tai cun	龙虎台村	6
+long hu xin cun she qu	龙湖新村社区	6
+long jin yuan yi qu	龙锦苑一区	6
+long jing jie dao	龙景街道	6
+long li lu	龙里路	6
+long lin lu	龙临路	6
+long ling she qu	龙岭社区	6
+long quan xiang	龙泉巷	6
+long shan gong ye yuan	龙山工业园	6
+long shan xin cun	龙山新村	6
+long ting lu	龙庭路	6
+long tou zhai	龙头寨	6
+long wang ge	龙王阁	6
+long wei lu	龙尾路	6
+long wo xiang	龙窝乡	6
+long xi da qiao	龙溪大桥	6
+long xiao le	龙小乐	6
+long xing hua gong	龙星化工	6
+long xue cun	龙穴村	6
+long ya bing	聋哑病	6
+long yan tian shao bai	龙眼甜烧白	6
+long yuan xin yu	龙苑新寓	6
+long yue feng ming	龙跃凤鸣	6
+long zhou lu kou	龙洲路口	6
+long bai tie lu	隆百铁路	5
+long dan san tang	龙胆三糖	5
+long dan zi rong ye	龙胆紫溶液	5
+long en xiang	龙恩乡	5
+long feng san	龙峰三	5
+long feng yuan yi chang	龙凤园艺场	5
+long gang shan si zhai	龙冈山四寨	5
+long gu jia	龙骨甲	5
+long hai xian	龙海县	5
+long hu tai	龙虎台	5
+long jin yuan si qu	龙锦苑四区	5
+long jing er lu	龙井二路	5
+long jing li	龙井里	5
+long ku	龙窟	5
+long lin huang niu	隆林黄牛	5
+long pan feng yi	龙盘凤逸	5
+long quan hu tong	龙泉胡同	5
+long sheng da sha	隆盛大厦	5
+long sheng zhuang zhen	隆盛庄镇	5
+long shi	龙石	5
+long shuang	龙双	5
+long tan ba	龙潭坝	5
+long tan shi chang	龙潭市场	5
+long tan zi jie dao	龙滩子街道	5
+long tiao hu wo	龙跳虎卧	5
+long xing	龙兴	5
+long xing yuan bei qu	龙兴园北区	5
+long yan shi chang	龙眼市场	5
+long yan xie bei cha	龙岩斜背茶	5
+long you he	龙游河	5
+long you qu zhao	龙游曲沼	5
+long zhan xuan huang	龙战玄黄	5
+long zhou xiang	龙洲乡	5
+long zi xian	隆子县	5
+long an si	隆安寺	4
+long cang gou xiang	龙苍沟乡	4
+long feng chao fan	龙凤炒饭	4
+long feng cun	龙风村	4
+long feng lu	龙峰路	4
+long feng wa su	龙凤瓦酥	4
+long gu	龙堌	4
+long gu zhou	龙鼓洲	4
+long hai	龙海	4
+long hai shi	龙海市	4
+long jin yuan liu qu	龙锦苑六区	4
+long ju shan zhuang cun	龙聚山庄村	4
+long ju wu	龙驹坞	4
+long mei cun	龙眉村	4
+long quan tai e	龙泉太阿	4
+long sheng zhuang cun	隆盛庄村	4
+long tou shan cun	龙头山村	4
+long xian hai tang	龙衔海棠	4
+long xiang she qu	龙翔社区	4
+long xing nan xun	龙性难驯	4
+long yan lian zi geng	龙眼莲子羹	4
+long yang zhi xing	龙阳之兴	4
+long ze xiu ming	泷泽秀明	4
+long zhu ruan gao	龙珠软膏	4
+long zhun long yan	隆准龙颜	4
+long bai er cun	龙柏二村	3
+long bai qi cun	龙柏七村	3
+long cheng gou rou	龙城狗肉	3
+long gu shui dao	龙鼓水道	3
+long gu zhen	龙堌镇	3
+long hua dian xiang	龙华店乡	3
+long hua ju wei hui	龙华居委会	3
+long hua shang chang	隆华商场	3
+long jia ping	龙家坪	3
+long jia pu xiang	隆家堡乡	3
+long jiang bi shu yuan	龙江碧树园	3
+long ling wu chao fen	龙岭五炒粉	3
+long men dao	龙门道	3
+long men dian e	龙门点额	3
+long men tai	龙门台	3
+long mu zhuang gu ke li	龙牡壮骨颗粒	3
+long qing jie	隆庆街	3
+long qu cun	龙渠村	3
+long shi cun	龙石村	3
+long shu	龙舒	3
+long ta cun	龙塔村	3
+long tang cun	陇塘村	3
+long teng hu xiao	龙腾虎啸	3
+long teng yuan si qu dong men	龙腾苑四区东门	3
+long tou ze meng wu er jing	龙头舴艋吴儿竞	3
+long wan cun wei hui	龙湾村委会	3
+long wan xiang	龙万乡	3
+long wang shan lu	龙王山路	3
+long wu wei	龙无畏	3
+long xi bei lu	龙溪北路	3
+long xi da dao dong	龙溪大道东	3
+long xi yuan	龙禧园	3
+long xian gong	龙仙宫	3
+long xiang ming cui yuan	龙翔鸣翠苑	3
+long xing yuan bei men	龙兴园北门	3
+long yan	龙炎	3
+long yan feng gan	龙眼凤肝	3
+long yin guang chang	龙吟广场	3
+long yuan cun	龙园村	3
+long yuan ren	龙元任	3
+long zheng zhen	隆政镇	3
+long zhou dao	龙洲道	3
+long zhou gui yu	龙舟鳜鱼	3
+long zhuan you xiong xi	陇馔有熊腊	3
+long an qiao zhen	龙安桥镇	2
+long bao qu	龙宝区	2
+long bi shu jiao nang	癃闭舒胶囊	2
+long chang ying zhen	龙场营镇	2
+long cong cun	龙从村	2
+long dan ku gan	龙胆苦苷	2
+long dan xie gan jiao nang	龙胆泻肝胶囊	2
+long dan xie gan kou fu ye	龙胆泻肝口服液	2
+long dan xie gan ruan jiao nang	龙胆泻肝软胶囊	2
+long de shi tai te	龙德施泰特	2
+long deng shan	龙灯山	2
+long dong dao lai shi	隆冬到来时	2
+long fang cun	龙房村	2
+long gan feng nao	龙肝凤脑	2
+long gong zhao bao ya	龙宫照宝鸭	2
+long gu bian	龙骨鞭	2
+long gu jing zhui jiao nang	龙骨颈椎胶囊	2
+long hu	龙湖	2
+long hua yuan nan qu	龙华园南区	2
+long hui yuan	龙回苑	2
+long jia ci	龙家祠	2
+long jia zhuang	陇驾庄	2
+long jian cun	龙涧村	2
+long jiang jiao tong zhong xin	龙江交通中心	2
+long jin tong lin jiao nang	龙金通淋胶囊	2
+long kou	弄口	2
+long li lu hu tong	隆礼路胡同	2
+long lian tai lang	泷廉太郎	2
+long mei	龙媒	2
+long men ju	龙门居	2
+long mian hua	龙面花	2
+long nan tan chang	陇南宕昌	2
+long pan feng zhu	龙盘凤翥	2
+long ping lu kou	隆平路口	2
+long qi rui	龙启瑞	2
+long shan hua gong chang	龙山化工厂	2
+long shan nan lu	龙山南路	2
+long sheng gong ye yuan	隆盛工业园	2
+long shi	龙虱	2
+long shou dong lu	龙首东路	2
+long tai lu	龙台路	2
+long tan bei li she qu	龙潭北里社区	2
+long tang bei lu	龙塘北路	2
+long tou zhu	隆头蛛	2
+long tu	隆凸	2
+long tuan xiao nian dou qing chuang	龙团小碾斗晴窗	2
+long wan	龙湾	2
+long wan kai fa qu	龙湾开发区	2
+long wan ya	龙湾崖	2
+long wang chan	龙王辿	2
+long wang jiang xiang	龙王江乡	2
+long wei lin	龙为霖	2
+long wu	隆武	2
+long xi	陇西	2
+long xi	龙溪	2
+long xi nan lu	龙溪南路	2
+long xi yuan er qu	龙禧苑二区	2
+long xia xiang	龙下乡	2
+long xian chong bing	龙线虫病	2
+long xiang she qu	龙乡社区	2
+long xin	笼新	2
+long xin lu	龙欣路	2
+long xing	隆姓	2
+long ya ci	龙牙刺	2
+long yan	龙岩	2
+long yan jie	龙眼戒	2
+long yu	隆裕	2
+long yu cun	龙玉村	2
+long yu jia you zhan	龙禹加油站	2
+long yu lu	龙宇路	2
+long yuan dian li	龙源电力	2
+long yue shan zhuang	龙悦山庄	2
+long zhou hua yuan	龙洲花园	2
+long zhuang wan xiang	龙庄湾乡	2
+long bei ai jiao chan	隆背埃角蝉	1
+long bei ao han zha	隆背澳汉蚱	1
+long bei bi yu	隆背躄鱼	1
+long bei chun zhi	隆背唇指	1
+long bei da yan xie	隆背大眼蟹	1
+long bei gu wei yu	隆背骨尾鱼	1
+long bei huang dao xie	隆背黄道蟹	1
+long bei lu rong	隆背路戎	1
+long bei piao xie	隆背瓢蟹	1
+long bei san ci jiao chan	隆背三刺角蝉	1
+long bei xiang bi chong	隆背象鼻虫	1
+long bei xiao sha ding yu	隆背小沙丁鱼	1
+long bei yuan du fu yu	隆背渊杜父鱼	1
+long bei zhang kou xie	隆背张口蟹	1
+long bi shu pian	癃闭舒片	1
+long bi yu	隆躄鱼	1
+long biao duo gui	龙标夺归	1
+long bin nu	隆宾奴	1
+long bo diao ao	龙伯钓鳌	1
+long can zhen	龙蚕镇	1
+long cha xiao che huang	隆叉小车蝗	1
+long chang nan lu	隆昌南路	1
+long chang si he chi	龙昌寺荷池	1
+long cheng hua yuan she qu	龙城花园社区	1
+long chi hu zhou	龙驰虎骤	1
+long chu feng zhong	龙雏凤种	1
+long chuan xiao shu wa	陇川小树蛙	1
+long da	陇达	1
+long dan tan suan qing na	龙胆碳酸氢钠	1
+long dan xie gan pian	龙胆泻肝片	1
+long de er dun	隆德尔顿	1
+long de hang quan	隆德杭犬	1
+long de zai tian	龙德在田	1
+long deng lu kou	龙灯路口	1
+long di gu fen	龙涤股份	1
+long diao feng ju	龙雕凤咀	1
+long dong	龙洞	1
+long dong di jian	龙洞地监	1
+long dong lu kou	龙东路口	1
+long dou hu zheng	龙斗虎争	1
+long duan ke deng	龙断可登	1
+long duan zhi deng	龙断之登	1
+long dun hu ju	龙蹲虎踞	1
+long duo nai han	龙多乃旱	1
+long en kuang dian	隆恩旷典	1
+long en si she qu	隆恩寺社区	1
+long fan hu dao	龙幡虎纛	1
+long fang	砻坊	1
+long fei feng qi	龙飞凤起	1
+long fei feng xiang	龙飞凤翔	1
+long fei feng zhu	龙飞凤翥	1
+long fei hu tiao	龙飞虎跳	1
+long feng pu tao zhu	龙风葡萄珠	1
+long feng shuang chui	龙凤双锤	1
+long feng shuang gou	龙凤双钩	1
+long fu hua	龙富华	1
+long fu rong mao jin gui	隆腹绒毛金龟	1
+long gan bao tai	龙肝豹胎	1
+long gang shang chang	龙岗商场	1
+long ge er xiang	隆格尔乡	1
+long gong	龙公	1
+long gong bian lv li	龙宫变闾里	1
+long gu jian jin	隆古贱今	1
+long gu le fei luo	龙骨乐飞螺	1
+long gu xin jia	龙骨薪甲	1
+long gu zhi di	龙骨之地	1
+long gui she shen	龙鬼蛇神	1
+long gui xiang	龙桂乡	1
+long guo shu nian	龙过鼠年	1
+long hai lu jie dao	陇海路街道	1
+long han dao	龙涵道	1
+long han feng chu	龙翰凤雏	1
+long han feng yi	龙翰凤翼	1
+long he ci zhong ying	拢合次种蝇	1
+long hou da men	龙喉大门	1
+long hu dan shi	龙虎丹士	1
+long hu wang	龙虎网	1
+long hu wang xun	龙虎网讯	1
+long hu xiang ti man bu	龙湖香醍漫步	1
+long hu zhi tong	龙胡之痛	1
+long hua hu bian	龙化虎变	1
+long huang man dian	龙荒蛮甸	1
+long huang shuo mo	龙荒朔漠	1
+long hui yuan she qu	龙回苑社区	1
+long huo nei fan	龙火内燔	1
+long ji duan xi xiang	隆脊短喜象	1
+long ji hai xing	隆脊海星	1
+long ji ji xie	隆基机械	1
+long ji jiao xiong ye jia	隆基角胸叶甲	1
+long ji xiang	龙集乡	1
+long ji yi zu meng shui zao	隆脊异足猛水蚤	1
+long jia ba	龙家坝	1
+long jia wu cun	龙家务村	1
+long jia xi di fu	龙驾兮帝服	1
+long jiang guo ji she qu	龙江国际社区	1
+long jiang hu lang	龙江虎浪	1
+long jiao xiang	龙交乡	1
+long jie he dao	笼街喝道	1
+long jin yuan	龙津园	1
+long jing tang yuan	龙井汤圆	1
+long jing xin cun	龙井新村	1
+long jing yi lu	龙井一路	1
+long ju	陇剧	1
+long ju yun shu	龙举云属	1
+long ju yun xing	龙举云兴	1
+long keng she qu	龙坑社区	1
+long kong fei ni xi xie	隆孔非拟溪蟹	1
+long kuai ni yin xing xie	隆块拟银杏蟹	1
+long lin hua xi xie	隆林华溪蟹	1
+long lin kui	龙鳞盔	1
+long lin niu	隆林牛	1
+long lin yao chu xu	龙鳞曜初旭	1
+long lin zhang	龙鳞杖	1
+long lin zhen	龙临镇	1
+long lin zhong guo xi xie	隆林中国溪蟹	1
+long ling	珑玲	1
+long lou feng cheng	龙楼凤城	1
+long lou feng chi	龙楼凤池	1
+long mei bao jing	龙眉豹颈	1
+long men bi fa	龙门笔法	1
+long men cui dai mei xiang dui	龙门翠黛眉相对	1
+long men dong dao	龙门东道	1
+long men he tan she qu	龙门河滩社区	1
+long men zhi bi	龙门之笔	1
+long mian xiong zhong you qian si	龙眠胸中有千驷	1
+long ming shi hou	龙鸣狮吼	1
+long mou zhi ta	龙眸之塔	1
+long mu zhi chen	垄亩之臣	1
+long na hu tiao	龙拿虎跳	1
+long na hu zhi	龙拿虎掷	1
+long nan hua e	陇南桦蛾	1
+long nan xin cun	龙南新村	1
+long pan feng fu	龙攀凤附	1
+long pan feng wu	龙盘凤舞	1
+long pan hu fu	龙盘虎伏	1
+long pan hu rao	龙盘虎绕	1
+long pan qiu jie	龙盘虬结	1
+long pu cun	龙埔村	1
+long qi lu jiao shan hu	隆起鹿角珊瑚	1
+long qi zhu nang chong	隆起住囊虫	1
+long qian feng cai	龙潜凤采	1
+long qin jian shou	笼禽槛兽	1
+long qu ding hu	龙去鼎湖	1
+long qu she shen	龙屈蛇伸	1
+long quan zhi huan chong	龙泉指环虫	1
+long que cun	龙阙村	1
+long ren fu	龙仁夫	1
+long sang zhen	隆桑镇	1
+long shan luo ye	笼山络野	1
+long shan xian ceng jia jie lin chang	龙山县曾家界林场	1
+long shang yang gui sai cao yan	陇上羊归塞草烟	1
+long she bu bian	龙蛇不辨	1
+long she luo bi	龙蛇落笔	1
+long shen huo qu	龙伸蠖屈	1
+long shen ma zhuang	龙神马壮	1
+long sheng bi zhi da wen	龙胜比栉大蚊	1
+long sheng zhen	隆胜镇	1
+long shi ju fei yu	隆氏巨飞鱼	1
+long shou san jiao xia kou nian	龙首三角下口鲶	1
+long shou shi zu	龙首豕足	1
+long si jiao lan chong	笼四脚篮虫	1
+long tai	龙泰	1
+long tan hu you yong chi	龙潭湖游泳池	1
+long tan kang cheng fan dian	龙潭康城饭店	1
+long tan si lu	龙潭寺路	1
+long teng bao bian	龙腾豹变	1
+long teng feng ji	龙腾凤集	1
+long teng hu ju	龙腾虎踞	1
+long teng hu zhi	龙腾虎掷	1
+long teng hu zhi	龙腾虎踯	1
+long teng yuan san qu xi men	龙腾苑三区西门	1
+long teng yuan si qu bei men	龙腾苑四区北门	1
+long tiao hu fu	龙跳虎伏	1
+long tong cun	龙通村	1
+long tou ju jiao	龙头锯角	1
+long tou yin xin	陇头音信	1
+long tou ying ge yu	隆头鹦哥鱼	1
+long tou yu ya mu	隆头鱼亚目	1
+long tu hua xi xie	隆凸华溪蟹	1
+long tu jiao xiong xiao ye jia	隆凸角胸肖叶甲	1
+long wang tang jie dao	龙王塘街道	1
+long wang xiang	龙旺乡	1
+long wang ya cha chang	龙王垭茶场	1
+long wei hu zhen	龙威虎振	1
+long wei hu zhen	龙威虎震	1
+long wei yan han	龙威燕颔	1
+long wen ci wei yu	隆吻刺尾鱼	1
+long wen hai zhu yu	隆吻海蠋鱼	1
+long wen hu bei	龙文虎背	1
+long wen you tian niu	隆纹幽天牛	1
+long wo cun wei hui	龙卧村委会	1
+long xi	龙蜥	1
+long xi xiao qu	龙溪小区	1
+long xi yuan	龙溪苑	1
+long xia su tang	龙虾酥糖	1
+long xia tiao liao	龙虾调料	1
+long xian bei lin chong	隆线背鳞虫	1
+long xian qiang xie	隆线强蟹	1
+long xian quan xie	隆线拳蟹	1
+long xian yi shi gang zhong	隆线异饰肛螽	1
+long xiang bao bian	龙骧豹变	1
+long xiang du fu yu	隆项杜父鱼	1
+long xiang feng jiao	龙骧凤矫	1
+long xiang feng yue	龙翔凤跃	1
+long xiang gong	龙骧弓	1
+long xiang hu yue	龙翔虎跃	1
+long xiang hu zhi	龙骧虎峙	1
+long xiang hu zhi	龙骧虎跱	1
+long xiang huo qu	龙骧蠖屈	1
+long xiang lin zhen	龙骧麟振	1
+long xiang zhu mu li yu	隆项珠母丽鱼	1
+long xin feng gan	龙心凤肝	1
+long xing feng ju	龙兴凤举	1
+long xing hu bian	龙行虎变	1
+long xing jie dao	龙兴街道	1
+long xing yuan she qu	龙兴园社区	1
+long xing yun shu	龙兴云属	1
+long xiong bian hua tian niu	隆胸扁花天牛	1
+long xiong da mei nian	隆胸大美鲶	1
+long xiong lu wei jia	隆胸露尾甲	1
+long xu cai tang	龙须菜汤	1
+long xu fu chen	龙须拂尘	1
+long xu tang	龙须塘	1
+long ya ci ke	龙牙刺客	1
+long ya ding feng	龙崖顶峰	1
+long ya gan tai jiao nang	龙牙肝泰胶囊	1
+long ya jun	龙牙军	1
+long ya pei	龙牙佩	1
+long ya quan tao	龙牙拳套	1
+long ya she shou	龙牙射手	1
+long ya shen she	龙牙神射	1
+long ya tan ma	龙牙探马	1
+long ya xiao xiao	龙牙小校	1
+long ya yu lin	龙牙羽林	1
+long yan	拢烟	1
+long yan an lv fen chi e	龙眼暗绿粉尺蛾	1
+long yan chang fu ying ye jia	龙眼长跗萤叶甲	1
+long yan dao	龙岩道	1
+long yan ding ya ying man	龙眼顶芽瘿螨	1
+long yan feng yu	龙言凤语	1
+long yan feng zi	龙颜凤姿	1
+long yan guan zhai shan ji chang	龙岩冠豸山机场	1
+long yan ri jiao	龙颜日角	1
+long yan xian shao bai	龙眼咸烧白	1
+long yang qi yu	龙阳泣鱼	1
+long yi xiao jing	龙翼小径	1
+long yin gong zhui	龙隐弓坠	1
+long yin qiao	龙隐桥	1
+long ying bao wu	龙蝇宝屋	1
+long ying shu	龙蝇树	1
+long yong yong bi luo	泷庸蛹笔螺	1
+long yu bin tian	龙驭宾天	1
+long yu zhi	龙鱼志	1
+long yuan xiao ye an	窿缘小叶桉	1
+long yue hong jiao	龙跃鸿矫	1
+long yue hu ju	龙跃虎踞	1
+long yue hu wo	龙跃虎卧	1
+long yue yuan san qu dong men	龙跃苑三区东门	1
+long yue yuan san qu xi men	龙跃苑三区西门	1
+long yue yun jin	龙跃云津	1
+long zang xiang	龙藏乡	1
+long zhan hu zheng	龙战虎争	1
+long zhan ke	龙占科	1
+long zhan yu hai	龙战鱼骇	1
+long zhan yu ke	龙占鱼科	1
+long zhang feng cai	龙章凤彩	1
+long zhang feng han	龙章凤函	1
+long zhang lin jiao	龙章麟角	1
+long zhang xiu gu	龙章秀骨	1
+long zhe huo qu	龙蛰蠖屈	1
+long zhe zhi ge	聋者之歌	1
+long zheng hu yan	龙睁虎眼	1
+long zheng hu zhan	龙争虎战	1
+long zhi bing	龙之饼	1
+long zhi mu xue	龙之墓穴	1
+long zhong ji	笼中鸡	1
+long zhu ao lin xia	隆柱螯磷虾	1
+long zhu he yan di lu shao	笼竹和烟滴露梢	1
+long zhu man	陇珠螨	1
+long zi feng cai	龙姿凤采	1
+long zui cui li	隆嘴翠𫁡	1

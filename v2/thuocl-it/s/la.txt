@@ -1,0 +1,6 @@
+la ji hui shou qi	垃圾回收器	565
+la ji hui shou ji zhi	垃圾回收机制	537
+la ji shou ji qi	垃圾收集器	525
+la ji hui shou suan fa	垃圾回收算法	344
+la ji shou ji suan fa	垃圾收集算法	306
+la pu la si suan zi	拉普拉斯算子	247

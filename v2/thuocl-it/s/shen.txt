@@ -1,0 +1,31 @@
+shen sou	深搜	473
+shen kao bei	深拷贝	457
+shen du you xian sou suo	深度优先搜索	441
+shen du you xian	深度优先	396
+shen du you xian bian li	深度优先遍历	384
+shen du shen jing wang luo	深度神经网络	336
+shen du bian li	深度遍历	333
+shen jing wang luo mo xing	神经网络模型	319
+shen du ce shi	深度测试	314
+shen du wang luo	深度网络	309
+shen du sou suo	深度搜索	304
+shen du huan cun	深度缓存	288
+shen zhan shu	伸展树	265
+shen du fu zhi	深度复制	263
+shen ke long	深克隆	239
+shen qian kao bei	深浅拷贝	217
+shen he zhi nan	审核指南	211
+shen ji gen zong	审计跟踪	203
+shen fen zheng yan zheng	身份证验证	200
+shen jing yuan mo xing	神经元模型	196
+shen jing yuan wang luo	神经元网络	179
+shen qing zhan	申请栈	173
+shen fen zheng xiao yan	身份证校验	168
+shen jing ji suan	神经计算	168
+shen fen zheng shi bie	身份证识别	165
+shen he bei ju	审核被拒	158
+shen du ji suan	深度计算	152
+shen sou guang sou	深搜广搜	126
+shen du you xian sou xun	深度优先搜寻	109
+shen jing ji suan ji	神经计算机	98
+shen tou xue xi	渗透学习	94

@@ -1,0 +1,17 @@
+cqsd	存取速度	411
+cqff	存取方法	355
+cqsj	存取时间	308
+cqkz	存取控制	254
+cqxk	存取许可	195
+cqb	存取表	180
+cqq	存取权	160
+cq	尺取	156
+cqlx	存取类型	143
+cqf	词切分	129
+cqjz	存取矩阵	124
+cqb	存取臂	116
+cqjb	存取级别	107
+cqkzjz	存取控制机制	103
+cqdl	存取队列	101
+cqfc	存取范畴	100
+cqct	存取冲突	86

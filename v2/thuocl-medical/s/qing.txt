@@ -1,0 +1,116 @@
+qing re hua tan	清热化痰	344
+qing re xie huo	清热泻火	341
+qing re sheng jin	清热生津	322
+qing hua wu zhong du	氰化物中毒	306
+qing re qu shi	清热祛湿	301
+qing kai ling	清开灵	297
+qing re tong lin jiao nang	清热通淋胶囊	273
+qing du jing shen fa yu chi zhi	轻度精神发育迟滞	246
+qing fei hua tan	清肺化痰	236
+qing hua ke de song	氢化可的松	217
+qing kai ling zhu she ye	清开灵注射液	217
+qing re hua shi	清热化湿	217
+qing re jie du kou fu ye	清热解毒口服液	216
+qing gan dan mo	情感淡漠	208
+qing gan lan	青橄榄	208
+qing kai ling kou fu ye	清开灵口服液	192
+qing re yao	清热药	192
+qing gan xing jing shen bing	情感性精神病	191
+qing chuang shu	清创术	187
+qing xiu suan you mei sha fen	氢溴酸右美沙芬	160
+qing yang hua lv ning jiao	氢氧化铝凝胶	150
+qing gan gao zhang	情感高涨	147
+qing zhuang nian cu si zong he zheng	青壮年猝死综合征	142
+qing fei shi ba wei wan	清肺十八味丸	139
+qing mei su na	青霉素钠	135
+qing kai ling ke li	清开灵颗粒	132
+qing wen jie du	清瘟解毒	132
+qing fei san jie wan	清肺散结丸	121
+qing kai ling ruan jiao nang	清开灵软胶囊	121
+qing ma fei tong	氢吗啡酮	121
+qing wen bai du yin	清瘟败毒饮	121
+qing xin ming mu shang qing wan	清心明目上清丸	117
+qing ying tang	清营汤	117
+qing wei huang lian wan	清胃黄连丸	108
+qing gong shou tao wan	清宫寿桃丸	103
+qing mei an	青霉胺	103
+qing mei su mei	青霉素酶	103
+qing re jie du ke li	清热解毒颗粒	103
+qing xiu suan you mei sha fen pian	氢溴酸右美沙芬片	103
+qing huo pian	清火片	98
+qing kai ling jiao nang	清开灵胶囊	98
+qing re xiao yan ning jiao nang	清热消炎宁胶囊	98
+qing xin chen xiang ba wei wan	清心沉香八味丸	98
+qing zhuo yi shen jiao nang	清浊益肾胶囊	98
+qing ai tiao	清艾条	91
+qing chun xing jing shen fen lie zheng	青春型精神分裂症	91
+qing re jie du pian	清热解毒片	91
+qing re jie du ruan jiao nang	清热解毒软胶囊	91
+qing shu yi qi tang	清暑益气汤	91
+qing zhou da ma lu	青洲大马路	91
+qing da mei su zhu she ye	庆大霉素注射液	84
+qing fei yi huo wan	清肺抑火丸	84
+qing hao hu zhi pian	青蒿琥酯片	84
+qing huo zhi mai jiao nang	清火栀麦胶囊	84
+qing ling	青灵	84
+qing re liang cha	清热凉茶	84
+qing shu yi qi wan	清暑益气丸	84
+qing xue ba wei jiao nang	清血八味胶囊	84
+qing yan liu wei san	清咽六味散	84
+qing zao jiu fei tang	清燥救肺汤	84
+qing zhi gu zhe	青枝骨折	84
+qing da mei su di yan ye	庆大霉素滴眼液	76
+qing dao zong he zheng	倾倒综合征	76
+qing gan jiang ya jiao nang	清肝降压胶囊	76
+qing hao bie jia tang	青蒿鳖甲汤	76
+qing hou li yan ke li	清喉利咽颗粒	76
+qing lv sai qin pian	氢氯噻嗪片	76
+qing re ling ke li	清热灵颗粒	76
+qing wen jie du pian	清瘟解毒片	76
+qing cao you	青草油	66
+qing da mei su pian	庆大霉素片	66
+qing fei xiao yan wan	清肺消炎丸	66
+qing fei yi huo pian	清肺抑火片	66
+qing huo jiao nang	清火胶囊	66
+qing huo zhi mai pian	清火栀麦片	66
+qing liang fang shu ke li	清凉防暑颗粒	66
+qing liang hou pian	清凉喉片	66
+qing luo yin	清络饮	66
+qing mei bing	青霉病	66
+qing mei su pi shi ji	青霉素皮试剂	66
+qing re ba wei jiao nang	清热八味胶囊	66
+qing re jie du jiao nang	清热解毒胶囊	66
+qing re jie du zhu she ye	清热解毒注射液	66
+qing re ming mu cha	清热明目茶	66
+qing re qu shi ke li	清热祛湿颗粒	66
+qing shu jie du ke li	清暑解毒颗粒	66
+qing xin lian zi yin	清心莲子饮	66
+qing xiu suan jia lan ta min pian	氢溴酸加兰他敏片	66
+qing cang long dan	青藏龙胆	51
+qing fei hua tan wan	清肺化痰丸	51
+qing fei kou fu ye	清肺口服液	51
+qing gan li dan kou fu ye	清肝利胆口服液	51
+qing gong zhang chun jiao nang	清宫长春胶囊	51
+qing guo wan	青果丸	51
+qing jin jiang huo tang	清金降火汤	51
+qing jing san	清经散	51
+qing liang bi shu xi ru ji	清凉鼻舒吸入剂	51
+qing lin ke li	清淋颗粒	51
+qing lv bi ge lei pian	氢氯吡格雷片	51
+qing nao fu shen ye	清脑复神液	51
+qing nao jiang ya ke li	清脑降压颗粒	51
+qing nao jiang ya pian	清脑降压片	51
+qing qi hua tan wan	清气化痰丸	51
+qing re an chuang wan	清热暗疮丸	51
+qing re hua shi kou fu ye	清热化湿口服液	51
+qing re tong lin pian	清热通淋片	51
+qing shao nian ya zhou yan	青少年牙周炎	51
+qing teng jian	青藤碱	51
+qing wei tang	清胃汤	51
+qing wen jie du wan	清瘟解毒丸	51
+qing xiu suan bin lang jian	氢溴酸槟榔碱	51
+qing xiu suan dong lang dang jian	氢溴酸东莨菪碱	51
+qing xiu suan gao wu jia su	氢溴酸高乌甲素	51
+qing xiu suan shan lang dang jian	氢溴酸山莨菪碱	51
+qing xiu suan xi tai pu lan pian	氢溴酸西酞普兰片	51
+qing yi tang	清胰汤	51

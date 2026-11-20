@@ -1,0 +1,97 @@
+dun rou	炖肉	7901
+dun yang rou	炖羊肉	1764
+dun huang mo gao ku	敦煌莫高窟	946
+dun huang shi	敦煌市	899
+dun gou	炖狗	526
+dun he	墩和	479
+dun hua shi	敦化市	379
+dun hua lu	敦化路	303
+dun kou kai fa qu	沌口开发区	291
+dun huang lu	敦煌路	249
+dun qi shang	钝器伤	196
+dun ji mian	炖鸡面	154
+dun tong	钝痛	149
+dun ru kong men	遁入空门	126
+dun mei	炖梅	123
+dun hua fang	敦化坊	84
+dun cai he	炖菜核	77
+dun lian zi	炖莲子	62
+dun tou	墩头	61
+dun diao zi	炖吊子	58
+dun fu	顿服	46
+dun zu chui xiong	顿足捶胸	42
+dun he chong	炖禾虫	40
+dun cao xiang	敦操乡	32
+dun zhong	墩中	24
+dun ji zhi	炖鸡汁	22
+dun xia	墩下	22
+dun pian	盾片	18
+dun mei hao	吨煤耗	13
+dun ren jie dao	敦仁街道	12
+dun nan	墩南	11
+dun yang da jie	沌阳大街	11
+dun bei	墩北	9
+dun hua fang jie dao	敦化坊街道	9
+dun bei	墩背	8
+dun ren shen tang	炖人参汤	8
+dun huang xian	敦煌县	6
+dun chi long lei	楯齿龙类	5
+dun cun	墩村	5
+dun huang jun	敦煌郡	5
+dun kou jie dao	沌口街道	5
+dun kuo tan zhen	墩阔坦镇	4
+dun wei xi ya ke	盾尾蜥亚科	4
+dun yang jie dao	沌阳街道	4
+dun kou mo long feng zhu	炖口蘑龙凤珠	3
+dun shang zhen	墩上镇	3
+dun ba ge xiang	墩巴格乡	2
+dun dou fu zhu ti xiang gu	炖豆腐猪蹄香菇	2
+dun hua xian	敦化县	2
+dun mai li jie dao	墩买里街道	2
+dun suo zhen	顿梭镇	2
+dun xi	顿喜	2
+dun xi qi ruo pu	敦兮其若朴	2
+dun zi tang jie dao	墩子塘街道	2
+dun ci zhi qi suo qiong	遁辞知其所穷	1
+dun dun shi huang yu	顿顿食黄鱼	1
+dun huang yu qian	敦煌榆钱	1
+dun jie chang ying ya xiao feng	盾蚧长缨蚜小蜂	1
+dun jue ye han wu	顿觉夜寒无	1
+dun ning meng ya	炖柠檬鸭	1
+dun ren xiang	敦仁巷	1
+dun xing mu	楯形目	1
+dun ba men kong chong	盾八门孔虫	0
+dun bi ban shen	钝鼻半鲹	0
+dun chi duan jiang xie	钝齿短桨蟹	0
+dun chi fang wu jiao xie	钝齿仿五角蟹	0
+dun chi kong shou li ti yu	楯齿孔首丽体鱼	0
+dun chi long mu	楯齿龙目	0
+dun chi mei ti man	钝齿美体鳗	0
+dun chi shu	楯齿属	0
+dun chi si shi ying	钝齿斯氏萤	0
+dun chi wei ying	钝翅苇莺	0
+dun ci xue pi	钝刺血蜱	0
+dun da gu lu yi long	敦达古鲁翼龙	0
+dun e chi fu ying	钝额齿浮萤	0
+dun e qu mao xie	钝额曲毛蟹	0
+dun e ruo ji la	钝额弱棘鯻	0
+dun e yu xie	钝额玉蟹	0
+dun fu fei	钝腹鲱	0
+dun guang hui mu chong	钝光回木虫	0
+dun jie duan yuan mao ya xiao feng	盾蚧短缘毛蚜小蜂	0
+dun jie que yuan tiao xiao feng	盾蚧缺缘跳小蜂	0
+dun mu mei zhou gui	钝目美洲鱥	0
+dun pi	楯魮	0
+dun tou qiang wen xue	钝头腔吻鳕	0
+dun tou wei ke	钝头鮠科	0
+dun wei shi pan gou chong	盾伪似盘钩虫	0
+dun wen deng long yu	钝吻灯笼鱼	0
+dun wen jiao sai zhi li	钝吻角鳃脂鲤	0
+dun wen ju chi que diao	钝吻锯齿雀鲷	0
+dun wen xin ji you	钝吻新棘鲉	0
+dun xing gao shou shui mu	盾形高手水母	0
+dun xing zhang bi xie	遁形长臂蟹	0
+dun yuan ni fu ying	钝缘拟浮萤	0
+dun yuan wei pan chong	钝缘尾盘虫	0
+dun yue die yu	楯月蝶鱼	0
+dun zhuang xiao lu	楯状小鲈	0

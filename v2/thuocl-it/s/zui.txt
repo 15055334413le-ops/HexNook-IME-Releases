@@ -1,0 +1,89 @@
+zui duan lu	最短路	575
+zui xiao sheng cheng shu	最小生成树	540
+zui da lian jie shu	最大连接数	523
+zui da gong yue shu	最大公约数	497
+zui da liu	最大流	486
+zui jin shi yong	最近使用	460
+zui gao you xian ji	最高优先级	431
+zui xiao gong bei shu	最小公倍数	429
+zui xiao dui	最小堆	425
+zui xiao kuan du	最小宽度	425
+zui da pi pei	最大匹配	420
+zui xiao ge	最小割	384
+zui zhang gong gong zi chuan	最长公共子串	344
+zui jin gong gong zu xian	最近公共祖先	337
+zui da pi pei shu	最大匹配数	330
+zui jia lu jing	最佳路径	329
+zui xiao lu jing fu gai	最小路径覆盖	327
+zui zhang lu	最长路	325
+zui da du li ji	最大独立集	319
+zui duan lu jing suan fa	最短路径算法	319
+zui zhang gong gong qian zhui	最长公共前缀	311
+zui zhang hui wen zi chuan	最长回文子串	311
+zui zhang zi xu lie	最长子序列	311
+zui you lu jing	最优路径	301
+zui zhang zi chuan	最长子串	289
+zui xiao dian fu gai	最小点覆盖	281
+zui xiao lu jing	最小路径	280
+zui da zi xu lie	最大子序列	278
+zui xiao shu xing tu	最小树形图	274
+zui xiao fei yong liu	最小费用流	273
+zui da tuan	最大团	270
+zui zhang hui wen chuan	最长回文串	266
+zui xiao huan	最小环	263
+zui da sheng cheng shu	最大生成树	262
+zui da zi duan he	最大子段和	262
+zui da zui xiao zhi	最大最小值	262
+zui duan lu suan fa	最短路算法	260
+zui you pi pei	最优匹配	257
+zui xiao ge mo xing	最小割模型	256
+zui xiao biao shi fa	最小表示法	254
+zui da zi xu lie he	最大子序列和	252
+zui da zi shu zu	最大子数组	251
+zui you er cha shu	最优二叉树	251
+zui you xing	最优性	250
+zui zhang lian	最长链	248
+zui da cheng ji	最大乘积	245
+zui da shang mo xing	最大熵模型	243
+zui zhang hui wen	最长回文	243
+zui da zi ju zhen	最大子矩阵	241
+zui you hua suan fa	最优化算法	237
+zui jin dian dui	最近点对	234
+zui you hua fang fa	最优化方法	234
+zui you suan fa	最优算法	234
+zui da gong yin shu	最大公因数	231
+zui da shi ran gu ji	最大似然估计	230
+zui xiao yuan fu gai	最小圆覆盖	229
+zui su xia jiang fa	最速下降法	220
+zui you gui bing shu	最优归并树	219
+zui xiao ding dian fu gai	最小顶点覆盖	217
+zui xiao fan wei	最小范围	216
+zui zhang zhong fu zi chuan	最长重复子串	216
+zui da zi shu zu he	最大子数组和	212
+zui da liu zui xiao ge	最大流最小割	211
+zui da quan bi he tu	最大权闭合图	209
+zui shao lan jie xi tong	最少拦截系统	201
+zui da zi duan he	最大字段和	200
+zui xiao quan pi pei	最小权匹配	197
+zui xiao bian ji ju li	最小编辑距离	193
+zui da zi ju zhen he	最大子矩阵和	185
+zui da er fen pi pei	最大二分匹配	183
+zui da zi lie he	最大子列和	181
+zui zhang hui wen zi chuan	最长回文字串	176
+zui you gu ji	最优估计	173
+zui jia you xian sou suo	最佳优先搜索	169
+zui xiao zhi pei ji	最小支配集	160
+zui da zi ju xing	最大子矩形	153
+zui xiao te quan yuan ze	最小特权原则	150
+zui you bian ma	最优编码	146
+zui zhang fan lian	最长反链	143
+zui jia shi pei	最佳适配	137
+zui xiao te quan	最小特权	135
+zui you ju zhen lian cheng	最优矩阵链乘	131
+zui huai qing kuang fen xi	最坏情况分析	130
+zui jia shi pei fa	最佳适配法	123
+zui xiao ge shu	最小割树	122
+zui da zhi zui xiao hua	最大值最小化	120
+zui zhi wen ti	最值问题	114
+zui da hua ping jun zhi	最大化平均值	91
+zui gao you xian shu	最高优先数	91

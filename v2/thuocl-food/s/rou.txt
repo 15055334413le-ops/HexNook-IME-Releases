@@ -1,0 +1,41 @@
+rou zhou	肉粥	393
+rou gu tou	肉骨头	356
+rou huo shao	肉火烧	256
+rou lei guan tou	肉类罐头	208
+rou gui quan	肉桂醛	189
+rou song mian bao	肉松面包	189
+rou pian tang	肉片汤	185
+rou nang	肉馕	164
+rou tang yuan	肉汤圆	164
+rou jia bing	肉夹饼	160
+rou yan pi	肉燕皮	151
+rou si chao nian gao	肉丝炒年糕	122
+rou guo kui	肉锅盔	116
+rou wan hu la tang	肉丸胡辣汤	111
+rou si chun juan	肉丝春卷	110
+rou si tang mian	肉丝汤面	106
+rou pian shao qie zi	肉片烧茄子	97
+rou ding la jiang	肉丁辣酱	89
+rou guan rou	肉罐肉	89
+rou gu cha bao ji	肉骨茶煲鸡	82
+rou pian men bian dou	肉片焖扁豆	82
+rou si chao bing	肉丝炒饼	79
+rou jiang qie zi	肉酱茄子	75
+rou mo shao qie zi	肉末烧茄子	75
+rou niang sheng fu yuan	肉酿生麸圆	72
+rou si liang mian huang	肉丝两面黄	72
+rou hua juan	肉花卷	67
+rou mo hu luo bo	肉末胡萝卜	64
+rou pian chao wo sun	肉片炒莴笋	64
+rou rong yu mi geng	肉蓉玉米羹	64
+rou cong rong dun yang rou	肉苁蓉炖羊肉	57
+rou cong rong dun yang shen	肉苁蓉炖羊肾	57
+rou rong bo cai	肉茸菠菜	57
+rou wan dou fu	肉丸豆腐	57
+rou wei shao bing	肉未烧饼	57
+rou mo yang cong	肉末洋葱	52
+rou ding huang gua jiang	肉丁黄瓜酱	44
+rou mo bai cai	肉末白菜	44
+rou mo tu dou si	肉末土豆丝	44
+rou song san wen zhi	肉松三文治	44
+rou sui chi jiao chao jiang dou	肉碎豉椒炒豇豆	44

@@ -1,0 +1,16 @@
+gui dang wen jian	归档文件	401
+gui dang ri zhi	归档日志	364
+gui ze yin qing	规则引擎	295
+gui ze ji	规则集	292
+gui ze ku	规则库	268
+gui dang jie dang	归档解档	198
+gui ge shuo ming	规格说明	197
+gui na xue xi	归纳学习	170
+gui fan ming	规范名	163
+gui hua xi tong	规划系统	156
+gui ji qu xian	轨迹曲线	114
+gui ze tui li	规则推理	108
+gui mo gu ji	规模估计	98
+gui ge hua chu li	规格化处理	94
+gui ji mo xing	轨迹模型	88
+gui ji yan se	轨迹颜色	88

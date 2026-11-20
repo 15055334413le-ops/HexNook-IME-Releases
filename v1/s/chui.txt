@@ -1,0 +1,692 @@
+chui zhi	垂直	218820
+chui xun	垂询	53640
+chui diao	垂钓	53605
+chui niu	吹牛	31680
+chui lai	吹来	28695
+chui guo	吹过	27720
+chui xu	吹嘘	25300
+chui xia	垂下	24190
+chui de	吹得	23995
+chui lian	锤炼	22495
+chui zi	锤子	22210
+chui zhe	吹着	20395
+chui ti	垂体	19365
+chui xiang	吹响	18855
+chui qi	吹起	17935
+chui le	吹了	17920
+chui feng	吹风	17415
+chui liu	垂柳	17225
+chui yan	炊烟	16165
+chui tou sang qi	垂头丧气	16060
+chui de	吹的	15750
+chui ju	炊具	15320
+chui peng	吹捧	15255
+chui qing	垂青	14935
+chui fu	吹拂	14450
+chui su	吹塑	12985
+chui xian	垂涎	12265
+chui chu	吹出	11805
+chui qi	吹气	11760
+chui gan	吹干	11225
+chui feng ji	吹风机	10660
+chui ba	吹吧	9999
+chui bao	吹爆	9999
+chui deng ba la	吹灯拔蜡	9999
+chui huo tong	吹火筒	9999
+chui jiang	垂降	9999
+chui qiang	吹腔	9999
+chui qiu	吹求	9999
+chui shi	锤石	9999
+chui tian	吹填	9999
+chui zhi fang xiang	垂直方向	9685
+chui shi	炊事	9445
+chui san	吹散	9165
+chui yan	垂眼	8888
+chui zhi yu	垂直于	8485
+chui si	垂死	8275
+chui chui	吹吹	8000
+chui lei	垂泪	7270
+chui dong	吹动	7245
+chui luo	吹落	6925
+chui xiao	吹箫	6790
+chui mao qiu ci	吹毛求疵	6715
+chui xia tou	垂下头	6705
+chui shi ling nai	吹石玲奈	6666
+chui zou	吹走	6645
+chui jin	吹进	6155
+chui da	捶打	6100
+chui kou shao	吹口哨	6030
+chui di	吹笛	6005
+chui shou	垂首	5970
+chui xian san chi	垂涎三尺	5960
+chui zhe	垂着	5755
+chui xue	吹雪	5725
+chui bao	锤爆	5555
+chui mei	锤妹	5555
+chui ne	吹呢	5555
+chui ni	捶你	5555
+chui ni	锤你	5555
+chui si	捶死	5555
+chui shi yuan	炊事员	5485
+chui mie	吹灭	5350
+chui wei	垂危	5095
+chui xian yu di	垂涎欲滴	4980
+chui luo	垂落	4860
+chui da	吹打	4780
+chui tou	垂头	4645
+chui zhi du	垂直度	4645
+chui xian	垂线	4605
+chui zhi ju zhong	垂直居中	4540
+chui shou	垂手	4315
+chui mo	吹膜	4250
+chui xiang	吹向	4190
+chui yi xia	吹一下	3987
+chui zhi xian	垂直线	3970
+chui luan	吹乱	3965
+chui si zheng zha	垂死挣扎	3735
+chui xiong dun zu	捶胸顿足	3670
+chui zhe tou	垂着头	3590
+chui gua	垂挂	3565
+chui ru	吹入	3525
+chui kai	吹开	3490
+chui chui feng	吹吹风	3445
+chui pao pao	吹泡泡	3445
+chui zhi ju li	垂直距离	3350
+chui bu	吹不	3333
+chui niu bi	吹牛逼	3333
+chui zi ban shou	锤子扳手	3333
+chui zi he ban shou	锤子和扳手	3333
+chui zi he gao	锤子和镐	3333
+chui zi yu ban shou	锤子与扳手	3333
+chui zi yu gao	锤子与镐	3333
+chui zai	垂在	3225
+chui xi	吹熄	3170
+chui tou	锤头	3115
+chui xia lai	垂下来	3110
+chui bei	捶背	3025
+chui qu	吹去	3025
+chui di zi	吹笛子	2975
+chui yan niao niao	炊烟袅袅	2825
+chui shi ban	炊事班	2715
+chui dao	吹倒	2680
+chui dao le	吹倒了	2680
+chui zhi sao miao	垂直扫描	2660
+chui ji	锤击	2630
+chui ti liu	垂体瘤	2630
+chui tan	吹弹	2570
+chui zhi fen bu	垂直分布	2560
+chui song	吹送	2415
+chui bian	吹遍	2380
+chui diao zhe	垂钓者	2350
+chui cheng	吹成	2300
+chui guan	吹管	2260
+chui sao	吹扫	2230
+chui zai	吹在	2225
+chui le xia lai	垂了下来	2220
+chui ping ji	吹瓶机	2215
+chui shang	吹上	2190
+chui qi qiu	吹气球	2170
+chui ji	捶击	2130
+chui xi	吹袭	2020
+chui bing	炊饼	2015
+chui gong	垂拱	2005
+chui lian	垂怜	1980
+chui zhi xing	垂直型	1975
+chui diao	吹掉	1960
+chui lian ting zheng	垂帘听政	1930
+chui gu shou	吹鼓手	1925
+chui la ba	吹喇叭	1910
+chui da	锤打	1885
+chui la tan chang	吹拉弹唱	1870
+chui sheng	吹笙	1860
+chui guo lai	吹过来	1855
+chui niu pi	吹牛皮	1850
+chui mo ji	吹膜机	1825
+chui fan	垂范	1790
+chui diao	垂吊	1780
+chui wei	垂尾	1755
+chui xia	吹下	1725
+chui shou ke de	垂手可得	1715
+chui er	垂耳	1700
+chui po	吹破	1700
+chui qi lai	吹起来	1635
+chui chui	锤锤	1600
+chui jin lai	吹进来	1600
+chui ping	吹瓶	1595
+chui gua	吹刮	1565
+chui shao	吹哨	1565
+chui si hai tang	垂丝海棠	1505
+chui zhi lv hua	垂直绿化	1500
+chui zhi mian	垂直面	1500
+chui hao	吹号	1460
+chui fei	吹飞	1440
+chui chui da da	吹吹打打	1395
+chui duan	吹断	1390
+chui le chui	吹了吹	1378
+chui mu	垂暮	1365
+chui yi chui	吹一吹	1348
+chui xiong	捶胸	1310
+chui hu zi deng yan	吹胡子瞪眼	1275
+chui lao	垂老	1255
+chui zhi pai lie	垂直排列	1250
+chui zhi shi	垂直式	1225
+chui zhi wei zhi	垂直位置	1205
+chui zou	吹奏	1201
+chui bu bian	捶不扁	1180
+chui gu ming zhong tian xia wen	椎鼓鸣钟天下闻	1180
+chui jian	吹箭	1135
+chui zou yue qi	吹奏乐器	1135
+chui kou qi	吹口气	1111
+chui kou qi er	吹口气儿	1111
+chui le	锤了	1111
+chui ming	垂名	1111
+chui mou	垂眸	1111
+chui pian shao	吹偏哨	1111
+chui xia qu	吹下去	1111
+chui huo	吹火	1065
+chui zhi zhou	垂直轴	1055
+chui zu	垂足	1050
+chui tou fa	吹头发	1040
+chui dao	吹到	1032
+chui deng	吹灯	1030
+chui liang	吹凉	1030
+chui sha	吹沙	1005
+chui lei	吹擂	999
+chui mu zhi nian	垂暮之年	990
+chui zhi fan zhuan	垂直翻转	990
+chui chui	捶捶	987
+chui ai	垂爱	975
+chui le xia qu	垂了下去	945
+chui tiao	垂髫	940
+chui zhi qi jiang	垂直起降	935
+chui yi chui	捶一捶	934
+chui shao zi	吹哨子	930
+chui zhi xing	垂直性	905
+chui zhi zhuang tai	垂直状态	885
+chui yi xia	捶一下	876
+chui feng hui	吹风会	805
+chui lian	吹炼	789
+chui wan	吹完	755
+chui zhi yun dong	垂直运动	745
+chui zhang	吹胀	725
+chui hui zhi li	吹灰之力	720
+chui leng feng	吹冷风	720
+chui xuan	垂悬	710
+chui feng tong	吹风筒	685
+chui chu lai	吹出来	670
+chui jiao	吹角	670
+chui zhi ping fen xian	垂直平分线	670
+chui zhou yi chi chun shui	吹皱一池春水	670
+chui xia qu	垂下去	665
+chui tan de po	吹弹得破	660
+chui gu	吹鼓	650
+chui jing	吹净	635
+chui shui	吹水	632
+chui jiao lian ying	吹角连营	625
+chui ti hou ye su	垂体后叶素	620
+chui fa	垂发	610
+chui shi ren yuan	炊事人员	605
+chui zou chu	吹奏出	605
+chui niu pai ma	吹牛拍马	565
+chui niu da wang	吹牛大王	555
+chui qi	垂泣	550
+chui tui	捶腿	550
+chui si de ren	垂死的人	545
+chui heng di	吹横笛	535
+chui zou zhe	吹奏者	480
+chui tai	吹台	475
+chui le chui	捶了捶	468
+chui cheng	垂成	465
+chui gu	垂顾	435
+chui fa	吹罚	404
+chui hui qi	吹灰器	395
+chui ti	垂涕	395
+chui qi ru lan	吹气如兰	390
+chui fan	炊饭	380
+chui dao	垂到	370
+chui dian	吹点	365
+chui lian	垂帘	357
+chui zhi	吹制	346
+chui chui pai pai	吹吹拍拍	335
+chui shou shi li	垂手侍立	335
+chui hui	吹灰	333
+chui yang liu	垂杨柳	322
+chui bu dao	吹不到	320
+chui chang di	吹长笛	320
+chui wen	垂问	295
+chui gan	吹肝	277
+chui le chui	锤了锤	273
+chui gu	锤骨	270
+chui yan jing	吹眼睛	265
+chui nian	垂念	260
+chui si zhe	垂死者	255
+chui lai chui qu	吹来吹去	230
+chui zou yue	吹奏乐	225
+chui le ge kou shao	吹了个口哨	220
+chui zhi jiao	垂直角	220
+chui da niu	吹大牛	210
+chui chui kong tiao	吹吹空调	200
+chui jian	捶肩	199
+chui yao	捶腰	199
+chui bu chu	吹不出	190
+chui hu zi	吹胡子	185
+chui huo	炊火	185
+chui hei shao	吹黑哨	182
+chui bu mie	吹不灭	178
+chui guo de feng	吹过的风	177
+chui zhuo zi	捶桌子	176
+chui dang	吹荡	175
+chui man di	吹满地	174
+chui wan feng	吹晚风	173
+chui pai	吹拍	170
+chui da feng	吹大风	168
+chui tai feng	吹台风	161
+chui zhe shou	垂着手	160
+chui zhi fen liang	垂直分量	155
+chui zhi jiang luo	垂直降落	152
+chui bu dong	吹不动	151
+chui zhi	垂枝	151
+chui tang ren	吹糖人	144
+chui na li sha	锤娜丽莎	143
+chui xiong da ku	捶胸大哭	140
+chui de xiang	吹得像	135
+chui di zhe	吹笛者	130
+chui hao jiao	吹号角	130
+chui xin	垂心	125
+chui yi xia	锤一下	123
+chui zhou	炊帚	120
+chui yang zhen	垂杨镇	112
+chui cha	吹茶	111
+chui xia lai	吹下来	111
+chui yi chui	锤一锤	111
+chui bu chu lai	吹不出来	110
+chui tian zhi yun	垂天之云	110
+chui kang jian mi	吹糠见米	107
+chui de bi	吹得比	105
+chui zi wu	锤子舞	101
+chui ba ni	吹吧你	100
+chui ba ni jiu	吹吧你就	100
+chui bao ni	锤爆你	100
+chui bu chui	吹不吹	100
+chui bu chui a	吹不吹啊	100
+chui bu dao	锤不到	100
+chui bu kai	吹不开	100
+chui bu pao	吹不跑	100
+chui bu qi lai	吹不起来	100
+chui bu san de wu	吹不散的雾	100
+chui cen ci xi shei si	吹参差兮谁思	100
+chui cen ci xi shui si	吹参差兮谁思	100
+chui chu qu	吹出去	100
+chui chu zu zhi lian gang	垂楚组之连纲	100
+chui chui bei	捶捶背	100
+chui chui jian	捶捶肩	100
+chui chui jian bang	捶捶肩膀	100
+chui chui lao yi	垂垂老矣	100
+chui chui tui	捶捶腿	100
+chui chui xiong	捶捶胸	100
+chui chui yao	捶捶腰	100
+chui da fa luo	吹大法螺	100
+chui da feng le	吹大风了	100
+chui da zhe	锤打着	100
+chui de hao	吹得好	100
+chui de tian hua luan zhui	吹得天花乱坠	100
+chui di da ku	捶地大哭	100
+chui fa luo	吹法螺	100
+chui fa xi tong	垂发系统	100
+chui fan bai shi	垂范百世	100
+chui feng hu shao	吹风胡哨	100
+chui feng zhang	吹风杖	100
+chui fu bo sui	椎肤剥髓	100
+chui fu bo ti	椎肤剥体	100
+chui gong er zhi	垂拱而治	100
+chui gou xia er	垂钩下饵	100
+chui gu bing	锤骨柄	100
+chui guan yue	吹管乐	100
+chui guan yue qi	吹管乐器	100
+chui gui shi yu	炊桂食玉	100
+chui guo qu	吹过去	100
+chui hao zhe	吹号者	100
+chui hu shao	吹呼哨	100
+chui hu zi deng yan jing	吹胡子瞪眼睛	100
+chui hua men	垂花门	100
+chui ji dian	锤击点	100
+chui ji hui chang	椎髻卉裳	100
+chui ji ji zuo	椎髻箕坐	100
+chui ji zhua shou	椎髻髽首	100
+chui jie ji ju	椎结箕踞	100
+chui jie zuo ren	椎结左衽	100
+chui jin qu	吹进去	100
+chui jin zhuan yu	炊金馔玉	100
+chui jiu zhi qi	炊臼之戚	100
+chui kong tiao	吹空调	100
+chui kou qi a	吹口气啊	100
+chui le chui bei	捶了捶背	100
+chui le chui hou bei	捶了捶后背	100
+chui le chui jian	捶了捶肩	100
+chui le chui jian bang	捶了捶肩膀	100
+chui le chui jiao	捶了捶脚	100
+chui le chui xiong	捶了捶胸	100
+chui le chui xiong kou	捶了捶胸口	100
+chui le chui yao	捶了捶腰	100
+chui le feng	吹了风	100
+chui le ge hu shao	吹了个呼哨	100
+chui le kou qi	吹了口气	100
+chui le yi bo	吹了一波	100
+chui le yi kou qi	吹了一口气	100
+chui lu dun pu	椎鲁敦朴	100
+chui lu wu neng	椎鲁无能	100
+chui lun da lu	椎轮大辂	100
+chui luo de shu ye	吹落的树叶	100
+chui mai tu gou	椎埋屠狗	100
+chui mao qiu xia	吹毛求瑕	100
+chui mao suo ban	吹毛索瘢	100
+chui mian jie	吹绵蚧	100
+chui mian jie ke chong	吹绵介壳虫	100
+chui ming hou shi	垂名后世	100
+chui ming zhu bo	垂名竹帛	100
+chui mo ji mo tou	吹膜机模头	100
+chui ne ba	吹呢吧	100
+chui ni ma	吹你妈	100
+chui ni ma de	吹你妈的	100
+chui ni ma de bi	吹你妈的逼	100
+chui ni ma de niu bi	吹你妈的牛逼	100
+chui ni ma ge bi	吹你妈个逼	100
+chui niu ba	吹牛吧	100
+chui niu ba ni jiu	吹牛吧你就	100
+chui niu bi ba	吹牛逼吧	100
+chui niu bi la	吹牛逼啦	100
+chui niu bi ne	吹牛逼呢	100
+chui niu fa zhong	椎牛发冢	100
+chui niu lao die	吹牛老爹	100
+chui niu ne ba	吹牛呢吧	100
+chui niu sha xie	椎牛歃血	100
+chui niu sha xue	椎牛歃血	100
+chui niu xiang shi	椎牛飨士	100
+chui pao le	吹跑了	100
+chui pao pao tang	吹泡泡糖	100
+chui ping mu ju	吹瓶模具	100
+chui qi sheng lan	吹气胜兰	100
+chui qin bao han	椎秦报韩	100
+chui qin bo lang sha	椎秦博浪沙	100
+chui san le	吹散了	100
+chui san yin mai	吹散阴霾	100
+chui sha le	锤傻了	100
+chui sha lou bing	炊沙镂冰	100
+chui sha zuo fan	炊沙作饭	100
+chui shang lai	吹上来	100
+chui shang le tian	吹上了天	100
+chui shang qu	吹上去	100
+chui shao ren	吹哨人	100
+chui shao sheng	吹哨声	100
+chui shen me	吹什么	100
+chui shen zheng hu	垂绅正笏	100
+chui sheng xu ku	吹生嘘枯	100
+chui shi ban de gu shi	炊事班的故事	100
+chui shi ban zhang	炊事班长	100
+chui shou er de	垂手而得	100
+chui shou sang qi	垂首丧气	100
+chui shou tie er	垂首帖耳	100
+chui si bing zhong	垂死病中	100
+chui si le	吹死了	100
+chui si mo li	垂丝茉莉	100
+chui si ni	捶死你	100
+chui si ni a	捶死你啊	100
+chui su mu ju	吹塑模具	100
+chui ta ma	吹他妈	100
+chui ta ma de	吹他妈的	100
+chui ta ma de bi	吹他妈的逼	100
+chui ta ma de niu bi	吹他妈的牛逼	100
+chui ta ma ge bi	吹他妈个逼	100
+chui tai pai deng	捶台拍凳	100
+chui tan ge wu	吹弹歌舞	100
+chui tan ji po	吹弹即破	100
+chui tan ke po	吹弹可破	100
+chui tan ke po de ji fu	吹弹可破的肌肤	100
+chui tan ke po de pi fu	吹弹可破的皮肤	100
+chui tiao huang fa	垂髫黄发	100
+chui tiao zong jiao	垂髫总角	100
+chui tou sha	锤头鲨	100
+chui wei zhi ji	垂危之际	100
+chui xia le	垂下了	100
+chui xia le tou	垂下了头	100
+chui xia yan	垂下眼	100
+chui xia yan lian	垂下眼帘	100
+chui xiao qi shi	吹箫乞食	100
+chui xiao wu shi	吹箫吴市	100
+chui xin ou xie	椎心呕血	100
+chui xin ou xue	椎心呕血	100
+chui xin qi xie	椎心泣血	100
+chui xin qi xue	椎心泣血	100
+chui xin qian si	垂馨千祀	100
+chui xiong die jiao	捶胸跌脚	100
+chui xiong die zu	捶胸跌足	100
+chui xu hu xi	吹呴呼吸	100
+chui xuan fen ci	垂悬分词	100
+chui ye ji	吹叶机	100
+chui yi chang	垂衣裳	100
+chui yi chang er tian xia zhi	垂衣裳而天下治	100
+chui yi chui bei	捶一捶背	100
+chui yi chui jian	捶一捶肩	100
+chui yi chui jian bang	捶一捶肩膀	100
+chui yi chui tui	捶一捶腿	100
+chui yi chui yao	捶一捶腰	100
+chui yi xia bei	捶一下背	100
+chui yi xia jian	捶一下肩	100
+chui yi xia jian bang	捶一下肩膀	100
+chui yi xia tui	捶一下腿	100
+chui yi xia yao	捶一下腰	100
+chui yu hou kun	垂裕后昆	100
+chui yu jiang lai	垂于将来	100
+chui yu shou	吹竽手	100
+chui zhe feng	吹着风	100
+chui zhe feng shan	吹着风扇	100
+chui zhe hai feng	吹着海风	100
+chui zhe jiang feng	吹着江风	100
+chui zhe kong tiao	吹着空调	100
+chui zhe kou shao	吹着口哨	100
+chui zhe leng feng	吹着冷风	100
+chui zhe liang feng	吹着凉风	100
+chui zhe nao dai	垂着脑袋	100
+chui zhe niu	吹着牛	100
+chui zhe wan feng	吹着晚风	100
+chui zhe wei feng	吹着微风	100
+chui zhe xiao feng	吹着小风	100
+chui zhen bian feng er	吹枕边风儿	100
+chui zhi biao qian	垂直标签	100
+chui zhi biao qian lan	垂直标签栏	100
+chui zhi diao luo	垂直掉落	100
+chui zhi du pian cha	垂直度偏差	100
+chui zhi duo	垂直舵	100
+chui zhi fa she xi tong	垂直发射系统	100
+chui zhi fen bian lv	垂直分辨率	100
+chui zhi gao du	垂直高度	100
+chui zhi hang ye	垂直行业	100
+chui zhi he duan ju qi luo fei ji	垂直和短距起落飞机	100
+chui zhi huo li	垂直火力	100
+chui zhi jiao du	垂直角度	100
+chui zhi luo di	垂直落地	100
+chui zhi luo xia	垂直落下	100
+chui zhi neng jian du	垂直能见度	100
+chui zhi ping fen	垂直平分	100
+chui zhi qi jiang fei ji	垂直起降飞机	100
+chui zhi qi jiang zhan dou ji	垂直起降战斗机	100
+chui zhi qi jiang zhan ji	垂直起降战机	100
+chui zhi qi luo fei ji	垂直起落飞机	100
+chui zhi shen du	垂直深度	100
+chui zhi sheng jiang	垂直升降	100
+chui zhi sou suo	垂直搜索	100
+chui zhi su du	垂直速度	100
+chui zhi tan tiao	垂直弹跳	100
+chui zhi xia jiang	垂直下降	100
+chui zhi xian shi	垂直显示	100
+chui zhi yu di mian	垂直于地面	100
+chui zhi zhui luo	垂直坠落	100
+chui zhi zu sheng zhi chi	垂直阻生智齿	100
+chui zi qiao ji	锤子敲击	100
+chui zi qiao ji hou	锤子敲击后	100
+chui zou le	吹走了	100
+chui zou yue bu	吹奏乐部	100
+chui jian bang	捶肩膀	99
+chui wang	垂亡	85
+chui le	捶了	78
+chui si	锤死	77
+chui zhuo	捶桌	77
+chui dang	垂荡	75
+chui xiu	垂袖	70
+chui di	捶地	64
+chui ge feng	吹个风	64
+chui jin kuang sha shi dao jin	吹尽狂沙始到金	64
+chui men	捶门	64
+chui qiang	捶墙	64
+chui mian bu han yang liu feng	吹面不寒杨柳风	56
+chui ti hou ye	垂体后叶	50
+chui zhi chuan bo	垂直传播	46
+chui zhi qi luo	垂直起落	45
+chui di ban	捶地板	44
+chui fa qi	吹发器	41
+chui pan	垂盼	40
+chui zhi fen pian	垂直分片	38
+chui tou zhuang he mei	锤头状核酶	35
+chui zhi jian jin xian	垂直渐近线	35
+chui si bing zhong jing zuo qi	垂死病中惊坐起	34
+chui da qi	吹大气	33
+chui de zhao	吹得着	30
+chui rou	捶肉	28
+chui zhi sao miao pin lv	垂直扫描频率	26
+chui si de shi zi	垂死的狮子	25
+chui zhi jian bing	垂直兼并	25
+chui zhi ke du	垂直刻度	23
+chui bu zhao	吹不着	20
+chui ji shi yan	锤击试验	20
+chui zhi fen qu	垂直分区	20
+chui chui	垂垂	16
+chui shou gong li	垂手恭立	16
+chui er bian feng	吹耳边风	15
+chui ge pao er	吹个泡儿	15
+chui ke zi	吹壳子	15
+chui pen cao	垂盆草	15
+chui gong wu wei	垂拱无为	14
+chui hao ge	吹号鸽	12
+chui hong gong yuan	垂虹公园	12
+chui ji	捶鸡	12
+chui mai chuan jue	椎埋穿掘	12
+chui mai gou qie	椎埋狗窃	12
+chui shi yi hui	吹石一惠	12
+chui zhuang zhi	锤状趾	12
+chui du yu men guan	吹度玉门关	11
+chui shi liu ji	炊石榴鸡	11
+chui ti xing zhu ru	垂体性侏儒	11
+chui jin	锤金	10
+chui rou wan	捶肉丸	10
+chui er	锤儿	9
+chui xiong duo jiao	捶胸跺脚	9
+chui zhi gan ran	垂直感染	8
+chui zhuan jing	锤专精	8
+chui hong lu	垂虹路	7
+chui ti wei xian liu	垂体微腺瘤	7
+chui jian	垂鉴	6
+chui mao li ren	吹毛利刃	6
+chui qi lin yu	炊麒麟鱼	6
+chui cheng zhi gong	垂成之功	5
+chui de hen di	垂得很低	5
+chui er	槌儿	5
+chui liu lu	垂柳路	5
+chui xiong dun jiao	捶胸顿脚	5
+chui zhi chuan di	垂直传递	5
+chui zhou fen lie	垂周分裂	5
+chui zhou yi chi chun shui	吹绉一池春水	5
+chui huo guan	吹火管	4
+chui lei dui gong e	垂泪对宫娥	4
+chui lian hua ji	炊莲花鸡	3
+chui lu	垂露	3
+chui lv ri ri shen	吹绿日日深	3
+chui ming qing shi	垂名青史	3
+chui xiao jian sheng huang	吹箫间笙簧	3
+chui yang liu xi li she qu	垂杨柳西里社区	3
+chui bian zhi fu wu yun che	垂鞭直拂五云车	2
+chui bu san mei wan	吹不散眉弯	2
+chui chuang dao zhen	捶床捣枕	2
+chui rui yin qing lu	垂緌饮清露	2
+chui shang le na jia	吹伤了那家	2
+chui ti wo	垂体窝	2
+chui tiao	垂条	2
+chui tou sai er	垂头塞耳	2
+chui xiao ren qu yu lou kong	吹箫人去玉楼空	2
+chui xun	吹埙	2
+chui zhi qian yi	垂直迁移	2
+chui chang er zhi	垂裳而治	1
+chui chi qi shi	吹篪乞食	1
+chui chuang pai zhen	捶床拍枕	1
+chui chun chang hou	吹唇唱吼	1
+chui chun fei di	吹唇沸地	1
+chui di dao tian ming	吹笛到天明	1
+chui diao lv wan chun	垂钓绿湾春	1
+chui er hu kou	垂饵虎口	1
+chui er xia shou	垂耳下首	1
+chui fa dai bai	垂发戴白	1
+chui gan yi xian pan xi lao	垂竿已羡磻溪老	1
+chui gong nan mian	垂拱南面	1
+chui gong yang cheng	垂拱仰成	1
+chui gong zhi hua	垂拱之化	1
+chui gou suo ban	吹垢索瘢	1
+chui gu li sui	捶骨沥髓	1
+chui gu li sui	槌骨沥髓	1
+chui gu zhuang zhong	槌鼓撞钟	1
+chui guo teng fen die	槌果藤粉蝶	1
+chui hua song yuan xiang	吹花送远香	1
+chui hua xuan	吹花癣	1
+chui hui ji pian	捶烩鸡片	1
+chui hui zhao feng	吹灰找缝	1
+chui jin xi ling ge wu chen	吹尽西陵歌舞尘	1
+chui jiu zhi tong	炊臼之痛	1
+chui lao bu de an	垂老不得安	1
+chui lian ting jue	垂帘听决	1
+chui lian zhu	垂帘珠	1
+chui liang kua wei	炊粱跨卫	1
+chui lou	吹楼	1
+chui mao qiu ban	吹毛求瘢	1
+chui mao qu xia	吹毛取瑕	1
+chui mao shu jie	吹毛数睫	1
+chui mao suo ci	吹毛索疵	1
+chui mao suo gou	吹毛索垢	1
+chui mao xi gou	吹毛洗垢	1
+chui mian qu	吹眠曲	1
+chui mo zhi ming	垂没之命	1
+chui qiong ruo gui	炊琼爇桂	1
+chui ren ti yi	槌仁提义	1
+chui ru qi	吹入器	1
+chui san guang zhi ming zhe	垂三光之明者	1
+chui sha cheng fan	炊沙成饭	1
+chui sha zou lang ji qian li	吹沙走浪几千里	1
+chui sha zuo fan	炊砂作饭	1
+chui sha zuo mi	炊沙作糜	1
+chui shi ban gu shi	炊事班故事	1
+chui shi bu xiu	垂世不朽	1
+chui shou tie er	垂首贴耳	1
+chui tang zhi jie	垂堂之戒	1
+chui ti er dao	垂涕而道	1
+chui ti liu nie	垂体瘤镊	1
+chui ti xi bao	垂体细胞	1
+chui tian ci ni yun duan xia	垂天雌霓云端下	1
+chui tian qiang di	椎天抢地	1
+chui tou sha yu	垂头铩羽	1
+chui tou ta chi	垂头塌翅	1
+chui tou ta yi	垂头塌翼	1
+chui wan zi ji	吹万自己	1
+chui wang yu man	吹网欲满	1
+chui xi de mu zhong gong	锤系德牧种公	1
+chui xian lu qing	炊鲜漉清	1
+chui xin dun zu	椎心顿足	1
+chui xin yin qi	椎心饮泣	1
+chui xiong ta di	槌胸蹋地	1
+chui xue bian	吹雪鞭	1
+chui xun chui chi	吹埙吹篪	1
+chui yang niao niao	垂扬袅袅	1
+chui yi bao lin	垂翼暴鳞	1
+chui ying die fu	垂缨蝶蝠	1
+chui ying dun zu	椎膺顿足	1
+chui ying lou chen	吹影镂尘	1
+chui zhi zhu nang chong	垂直住囊虫	1
+chui zhu tan si	吹竹弹丝	1
+chui zhu tiao si	吹竹调丝	1
+chui zhu tuo zi	垂朱拖紫	1

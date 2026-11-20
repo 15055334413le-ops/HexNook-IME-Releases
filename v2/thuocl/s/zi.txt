@@ -1,0 +1,1099 @@
+zi yuan	资源	801625
+zi fu chuan	字符串	395499
+zi ding yi	自定义	221736
+zi duan	字段	179325
+zi ben	资本	164069
+zi chan	资产	152477
+zi lei	子类	129011
+zi zhi qu	自治区	85927
+zi chan fu zhai biao	资产负债表	78937
+zi sha	自杀	65113
+zi dong sheng cheng	自动生成	53723
+zi dong dang	自动挡	47398
+zi dong bian su xiang	自动变速箱	46909
+zi cai	紫菜	43488
+zi gao	自告	41810
+zi jie shu	字节数	37962
+zi yuan shui	资源税	37787
+zi mu lu	子目录	32311
+zi yuan wen jian	资源文件	30771
+zi jie dian	子节点	25277
+zi jie ma	字节码	25199
+zi shu	子树	22163
+zi chuan	子串	21665
+zi gong si	子公司	21631
+zi fu shu zu	字符数组	19352
+zi xian cheng	子线程	19146
+zi jin cheng	子进程	18235
+zi fu chuan zhuan huan	字符串转换	17886
+zi jie liu	字节流	17776
+zi fu chuan chang du	字符串长度	17561
+zi fu ying kui	自负盈亏	17242
+zi shi ying	自适应	15969
+zi dong wan cheng	自动完成	15473
+zi zeng	自增	15432
+zi fu bian ma	字符编码	15332
+zi duan ming	字段名	14788
+zi jie shu zu	字节数组	13796
+zi dong geng xin	自动更新	13379
+zi fu chuan shu zu	字符串数组	12832
+zi chan bao zhi zeng zhi	资产保值增值	12597
+zi ben shi chang	资本市场	11655
+zi xu lie	子序列	11329
+zi ran	孜然	11305
+zi dong qi dong	自动启动	11294
+zi fu chuan chang liang	字符串常量	10956
+zi dong jia zai	自动加载	10383
+zi dong zhuan huan	自动转换	10375
+zi qiang bu xi	自强不息	9753
+zi dian xu	字典序	9752
+zi yuan guan li qi	资源管理器	9580
+zi fu liu	字符流	9521
+zi zhi zhou	自治州	9495
+zi cha xun	子查询	9299
+zi ding yi kong jian	自定义控件	8989
+zi shi tu	子视图	8890
+zi ti yan se	字体颜色	8813
+zi cheng xu	子程序	7844
+zi lai shui gong si	自来水公司	7833
+zi ding yi han shu	自定义函数	7737
+zi ben jin	资本金	7651
+zi ding yi lei	自定义类	7626
+zi yuan guan li	资源管理	7601
+zi dong an zhuang	自动安装	7497
+zi dong hao hua	自动豪华	7383
+zi shi zhi zhong	自始至终	7337
+zi ben zhu yi	资本主义	7324
+zi zhi ji guan	自治机关	7292
+zi ding yi shu xing	自定义属性	7271
+zi fu chuan chu li	字符串处理	7238
+zi fu chuan cao zuo	字符串操作	7190
+zi wai xian	紫外线	7000
+zi wang yan ma	子网掩码	6992
+zi zhu lin	紫竹林	6859
+zi zi fu chuan	子字符串	6675
+zi li geng sheng	自力更生	6590
+zi dong bu quan	自动补全	6589
+zi fu chuan lian jie	字符串连接	6524
+zi wo jian tao	自我检讨	6510
+zi yuan fen pei	资源分配	6468
+zi duan lei xing	字段类型	6413
+zi dong huan hang	自动换行	6275
+zi ding yi lei xing	自定义类型	6266
+zi mian liang	字面量	6236
+zi zhi xian	自治县	6198
+zi dong hua ce shi	自动化测试	5942
+zi fu she bei	字符设备	5899
+zi dong xia zai	自动下载	5839
+zi fu chuan ti huan	字符串替换	5664
+zi fu chuan bi jiao	字符串比较	5592
+zi jie dui qi	字节对齐	5559
+zi wang	子网	5436
+zi fu zhuan huan	字符转换	5354
+zi bo shi	淄博市	5310
+zi gong	子宫	5184
+zi dong bao cun	自动保存	5086
+zi chuang kou	子窗口	5044
+zi xu wu you	子虚乌有	4990
+zi jin shan	紫金山	4927
+zi dong shua xin	自动刷新	4846
+zi fu chuan pi pei	字符串匹配	4810
+zi ding xiang xia	自顶向下	4804
+zi ran yu yan	自然语言	4757
+zi yuan gong xiang	资源共享	4615
+zi di xiang shang	自底向上	4561
+zi ding yi dui xiang	自定义对象	4470
+zi yuan ku	资源库	4429
+zi cai dan	子菜单	4420
+zi dong bian yi	自动编译	4399
+zi fu chuan pin jie	字符串拼接	4350
+zi dian shu	字典树	4289
+zi lai shui chang	自来水厂	4263
+zi ran yu yan chu li	自然语言处理	4258
+zi jie xu	字节序	4225
+zi qi dong	自启动	3997
+zi han shu	子函数	3995
+zi fu ti huan	字符替换	3930
+zi ji zi zu	自给自足	3908
+zi tu	子图	3888
+zi dong ti shi	自动提示	3833
+zi fu chuan han shu	字符串函数	3811
+zi xiang mao dun	自相矛盾	3765
+zi shi qi li	自食其力	3724
+zi ding yi yi chang	自定义异常	3656
+zi xuan suo	自旋锁	3562
+zi zhang	字长	3531
+zi dong zhuang xiang	自动装箱	3484
+zi shu zu	子数组	3436
+zi dong chong qi	自动重启	3392
+zi su ye	紫苏叶	3374
+zi fu pi pei	字符匹配	3346
+zi yan zi yu	自言自语	3340
+zi ding yi biao qian	自定义标签	3331
+zi dong bu ju	自动布局	3312
+zi fu shu ru	字符输入	3291
+zi mi	紫米	3285
+zi zeng zhang	自增长	3237
+zi fu zhi zhen	字符指针	3206
+zi yuan you chang shi yong zhi du	资源有偿使用制度	3190
+zi you ruan jian	自由软件	3167
+zi zhi qu zheng fu	自治区政府	3157
+zi dong gua zai	自动挂载	3039
+zi qi qi ren	自欺欺人	3020
+zi dong shi fang chi	自动释放池	3008
+zi jing	紫荆	2982
+zi fu chuan zhi zhen	字符串指针	2965
+zi zi bu juan	孜孜不倦	2943
+zi yuan xia zai	资源下载	2938
+zi yuan shi fang	资源释放	2871
+zi ding yi bu ju	自定义布局	2870
+zi yuan jia zai	资源加载	2837
+zi dong gun dong	自动滚动	2800
+zi dong deng lu	自动登录	2793
+zi fu chuan fen ge	字符串分割	2731
+zi yi wei shi	自以为是	2725
+zi fu chang liang	字符常量	2694
+zi dong zhuang pei	自动装配	2658
+zi gao fen yong	自告奋勇	2585
+zi dong tian chong	自动填充	2524
+zi ding yi yang shi	自定义样式	2453
+zi fu ji bian ma	字符集编码	2441
+zi ding yi fang fa	自定义方法	2420
+zi yuan qi shuo	自圆其说	2416
+zi ding yi shi jian	自定义事件	2397
+zi ding yi shi tu	自定义视图	2359
+zi xing shi	资兴市	2333
+zi you zi zai	自由自在	2324
+zi yuan xing wei	自愿行为	2312
+zi zi yi qiu	孜孜以求	2270
+zi ren wu	子任务	2257
+zi fu chuan lei	字符串类	2251
+zi gong shi	自贡市	2242
+zi mo shi	子模式	2142
+zi fu bian liang	字符变量	2133
+zi ti she zhi	字体设置	2095
+zi yang shi	资阳市	2082
+zi bei	紫贝	2005
+zi dong bu shu	自动部署	1984
+zi dong tou an	自动投案	1944
+zi dong gou jian	自动构建	1896
+zi ding yi xiao xi	自定义消息	1895
+zi ding yi zhu jie	自定义注解	1817
+zi ding yi dong hua	自定义动画	1815
+zi bao zi qi	自暴自弃	1798
+zi dong bei fen	自动备份	1777
+zi dong chai xiang	自动拆箱	1775
+zi ding yi zu jian	自定义组件	1772
+zi fu chu li	字符处理	1752
+zi dong tiao zhuan	自动跳转	1741
+zi dong ce shi	自动测试	1730
+zi fu chuan zi yuan	字符串资源	1724
+zi ji dai li	自己代理	1699
+zi fu chuan jie qu	字符串截取	1683
+zi fu chuan cha zhao	字符串查找	1603
+zi fu cao zuo	字符操作	1589
+zi fu chuan kao bei	字符串拷贝	1571
+zi jin hui hua	资金汇划	1568
+zi gong ji liu	子宫肌瘤	1551
+zi dong yin yong ji shu	自动引用计数	1486
+zi ding yi cai dan	自定义菜单	1480
+zi wai xian zhao she	紫外线照射	1455
+zi ding yi zi ti	自定义字体	1450
+zi dong sheng ji	自动升级	1448
+zi sheng zi mie	自生自灭	1414
+zi yuan diao du	资源调度	1410
+zi fei chu ban	自费出版	1408
+zi gan lan	紫甘蓝	1402
+zi fu chuan fan zhuan	字符串反转	1398
+zi fu she bei qu dong	字符设备驱动	1396
+zi mian chang liang	字面常量	1395
+zi fu chuan pai xu	字符串排序	1387
+zi xue cheng cai	自学成才	1386
+zi dong hua gong ju	自动化工具	1377
+zi jue zi yuan	自觉自愿	1371
+zi yu ming	子域名	1355
+zi zuo zhu zhang	自作主张	1350
+zi dong da bao	自动打包	1348
+zi ding yi an niu	自定义按钮	1321
+zi fu chuan shu ru	字符串输入	1316
+zi you jing zheng	自由竞争	1312
+zi chan fu zhai lv	资产负债率	1301
+zi fu shi bie	字符识别	1279
+zi gui	秭归	1253
+zi mei ti	自媒体	1224
+zi you ji	自由基	1219
+zi ding yi lan jie qi	自定义拦截器	1217
+zi dong sheng cheng dai ma	自动生成代码	1189
+zi li men hu	自立门户	1183
+zi duan	子段	1172
+zi zuo cong ming	自作聪明	1172
+zi jiu xing wei	自救行为	1169
+zi tou luo wang	自投罗网	1145
+zi xing qi shi	自行其是	1139
+zi ding yi pai xu	自定义排序	1135
+zi lian jie	自连接	1109
+zi dong bian hao	自动编号	1098
+zi yuan ci zhi	自愿辞职	1096
+zi lv xing	自律性	1084
+zi mu pai xu	字母排序	1081
+zi ding yi shi pei qi	自定义适配器	1065
+zi si zi li	自私自利	1042
+zi dian pai xu	字典排序	1030
+zi ding yi dui hua kuang	自定义对话框	1018
+zi jing hua	紫荆花	1014
+zi dong hua bu shu	自动化部署	1008
+zi zheng qiang yuan	字正腔圆	1001
+zi liao zheng li	资料整理	973
+zi you zu he	自由组合	970
+zi zeng lie	自增列	970
+zi mian zhi	字面值	967
+zi chan ping gu	资产评估	954
+zi de qi le	自得其乐	944
+zi wo bao jian	自我保健	942
+zi yuan cao zuo	资源操作	935
+zi yang	紫阳	933
+zi jie gou	子结构	923
+zi gua	籽瓜	909
+zi bu dai yan	自不待言	905
+zi bei gan	自卑感	890
+zi xie huo che	自卸货车	887
+zi fu han shu	字符函数	878
+zi dong hui fu	自动回复	868
+zi shi ying gao du	自适应高度	854
+zi shi ying ping mu	自适应屏幕	854
+zi miao shu	自描述	845
+zi yuan da bao	资源打包	834
+zi ding yi jian pan	自定义键盘	832
+zi yin	紫印	826
+zi dian zhuan mo xing	字典转模型	825
+zi gong luo ding	自攻螺钉	825
+zi jie ya	自解压	820
+zi dong zhong lian	自动重连	818
+zi dong hua gou jian	自动化构建	813
+zi chu li	字处理	798
+zi hui	自绘	794
+zi zhi zhi ming	自知之明	774
+zi zhen ju zhuo	字斟句酌	773
+zi ti jia cu	字体加粗	771
+zi fa xing wei	自发行为	753
+zi shi ying bu ju	自适应布局	738
+zi jiao	紫胶	737
+zi zhu bi jiao	锱铢必较	726
+zi xing hui bi	自行回避	710
+zi liao lai yuan	资料来源	708
+zi fu qu dong	字符驱动	694
+zi ran yu yan li jie	自然语言理解	689
+zi dong deng lu	自动登陆	681
+zi shen mian yi	自身免疫	677
+zi dong hua yun wei	自动化运维	672
+zi yi wang wei	恣意妄为	670
+zi ran xuan ze	自然选择	669
+zi zhu jin	资助金	667
+zi zi sun sun	子子孙孙	665
+zi ding yi quan xian	自定义权限	664
+zi fu chuan chang liang chi	字符串常量池	664
+zi liao xia zai	资料下载	656
+zi zeng zi jian	自增自减	656
+zi bei tian kui	紫背天葵	650
+zi shi qi guo	自食其果	649
+zi dong shang chuan	自动上传	635
+zi dong bian su xiang you	自动变速箱油	632
+zi yuan xie yi	自愿协议	618
+zi cai dan hua tang	紫菜蛋花汤	617
+zi ding yi cha jian	自定义插件	589
+zi ben mi ji xing	资本密集型	588
+zi ding yi zhi ling	自定义指令	585
+zi gu bu xia	自顾不暇	584
+zi gong nei mo	子宫内膜	583
+zi shi ti da	兹事体大	583
+zi li cheng	子例程	579
+zi dong pai dang	自动排挡	573
+zi shu	紫书	553
+zi dong fen lei	自动分类	542
+zi shi ying da xiao	自适应大小	540
+zi wo xi sheng	自我牺牲	540
+zi xing chai qian	自行拆迁	539
+zi shu xian zhi	字数限制	538
+zi fu chuan jia mi	字符串加密	525
+zi fu chuan ni xu	字符串逆序	515
+zi zhu yuan	紫竹院	512
+zi fang fa	子方法	501
+zi dong lun bo	自动轮播	493
+zi fu chuan fan zhuan	字符串翻转	487
+zi yuan chong tu	资源冲突	487
+zi xiang can sha	自相残杀	481
+zi wang hua fen	子网划分	480
+zi fu chuan chai fen	字符串拆分	479
+zi yuan hui zong	资源汇总	479
+zi ding yi bei jing	自定义背景	478
+zi fu chuan sou suo	字符串搜索	472
+zi tao ku chi	自讨苦吃	468
+zi gong ai	子宫癌	461
+zi dong jian biao	自动建表	460
+zi ding yi jie mian	自定义界面	459
+zi zuo zi shou	自作自受	458
+zi shen nan bao	自身难保	454
+zi gong kong long bo wu guan	自贡恐龙博物馆	449
+zi zhu yuan gong yuan	紫竹院公园	449
+zi kui bu ru	自愧不如	448
+zi su	紫苏	439
+zi fu pai xu	字符排序	438
+zi zhi xi tong	自治系统	435
+zi chui zi lei	自吹自擂	424
+zi gong nei mo yi wei zheng	子宫内膜异位症	422
+zi ya lie zui	龇牙咧嘴	422
+zi chuan pi pei	子串匹配	414
+zi wai xian xiao du	紫外线消毒	414
+zi yin yong	自引用	400
+zi dong fen ye	自动分页	397
+zi gong nei mo ai	子宫内膜癌	389
+zi fu chuan ge shi hua	字符串格式化	386
+zi gong shou suo	子宫收缩	385
+zi qu mie wang	自取灭亡	385
+zi ti tu biao	字体图标	382
+zi yuan zi yi	自怨自艾	381
+zi you gong lun	自有公论	379
+zi gan duo luo	自甘堕落	377
+zi can xing hui	自惭形秽	376
+zi yuan da quan	资源大全	372
+zi xie fan dou che	自卸翻斗车	371
+zi yuan bao xian	自愿保险	366
+zi wo jie chao	自我解嘲	364
+zi zhou	子洲	364
+zi xing bian hu	自行辩护	363
+zi yuan zheng li	资源整理	363
+zi you da lu	自由大路	357
+zi zhang	子长	357
+zi ming de yi	自鸣得意	356
+zi gong jing	子宫颈	355
+zi ding yi biao dan	自定义表单	349
+zi zi zhu ji	字字珠玑	349
+zi cai yang	子采样	348
+zi shen mian yi xing ji bing	自身免疫性疾病	345
+zi dong fan yi	自动翻译	344
+zi xun duan jian	自寻短见	344
+zi ran liu chan	自然流产	343
+zi fu chuan qie ge	字符串切割	336
+zi yuan fen xiang	资源分享	328
+zi wo biao xian	自我表现	326
+zi shi ying xing	自适应性	325
+zi fu chuan mo ni	字符串模拟	313
+zi ming bu fan	自命不凡	310
+zi qiang xi lu	自强西路	303
+zi guang ye	紫光液	301
+zi yuan shui zan xing tiao li	资源税暂行条例	301
+zi qi dong lai	紫气东来	298
+zi jue fen mu	自掘坟墓	292
+zi ding yi xiang ji	自定义相机	285
+zi ran ren	自然人	280
+zi tong	梓潼	277
+zi fu chuan zhuan shu zi	字符串转数字	276
+zi xi	资溪	276
+zi bu gan shen	滋补肝肾	274
+zi zu zhi ying she	自组织映射	273
+zi kong li	自控力	272
+zi dong xun lu	自动寻路	270
+zi tao mei qu	自讨没趣	269
+zi wei	字位	267
+zi fu chuan ha xi	字符串哈希	265
+zi hui kong jian	自绘控件	263
+zi ding yi dao hang lan	自定义导航栏	258
+zi qiu duo fu	自求多福	255
+zi xuan	自旋	255
+zi cheng yi jia	自成一家	252
+zi liao lian jie	资料链接	252
+zi cheng yi ge	自成一格	250
+zi liao shou ji	资料收集	250
+zi ding yi jin du tiao	自定义进度条	246
+zi dong qie fen	自动切分	246
+zi mai zi kua	自卖自夸	242
+zi shi e guo	自食恶果	240
+zi yuan shui zhi du gai ge	资源税制度改革	239
+zi xun fan nao	自寻烦恼	236
+zi bu liang li	自不量力	235
+zi dai	子代	232
+zi fu tong ji	字符统计	228
+zi fu chuan ji suan	字符串计算	227
+zi shi shen gao	自视甚高	222
+zi ji yuan su	子级元素	216
+zi fu bian jie	字符边界	214
+zi nuo mi	紫糯米	212
+zi gong chu xie	子宫出血	206
+zi fu chuan suan fa	字符串算法	203
+zi liao fen xiang	资料分享	202
+zi yuan chong fu	资源重复	200
+zi shen tiao jie	自身调节	196
+zi yuan	紫苑	196
+zi ding xiang xia fang fa	自顶向下方法	191
+zi zhu qiao	紫竹桥	191
+zi shen	滋肾	190
+zi zhi qu dang xiao	自治区党校	186
+zi dong gao liang	自动高亮	185
+zi fu jie qu	字符截取	185
+zi ding xiang xia she ji	自顶向下设计	183
+zi han	自汗	178
+zi dian	紫癜	176
+zi xian xing	自限性	175
+zi jing lu	紫荆路	174
+zi dong ji yi	自动记忆	173
+zi ran niu rou	孜然牛肉	166
+zi mei tuan zi	姊妹团子	164
+zi xian	子痫	164
+zi luo lan tong	紫罗兰酮	161
+zi mu biao	子目标	161
+zi you lu	自由路	160
+zi wei tian yuan du shi	紫薇田园都市	159
+zi zhu fang wen kong zhi	自主访问控制	159
+zi dong gan ying da deng	自动感应大灯	158
+zi xian xing ji bing	自限性疾病	157
+zi you fang ren	自由放任	156
+zi gong nei mo yan	子宫内膜炎	155
+zi tai wan qian	姿态万千	153
+zi ce shi	自测试	152
+zi miao shu xing	自描述性	152
+zi shan chun	紫杉醇	152
+zi nv jian hu quan	子女监护权	151
+zi xia hu	紫霞湖	151
+zi ran xu	自然序	150
+zi shi qi yan	自食其言	149
+zi gong tuo chui	子宫脱垂	148
+zi chan shou gou he tong	资产收购合同	142
+zi wo zhi liao	自我治疗	142
+zi ban	紫斑	141
+zi liao wen dang	资料文档	139
+zi wei yuan	紫薇园	139
+zi ran yi yuan xing ji bing	自然疫源性疾病	138
+zi wu lu	子午路	136
+zi zhu ke kong	自主可控	136
+zi dui lie	子队列	133
+zi cao	紫草	131
+zi chai zi jian	自拆自建	131
+zi mu zhu shi	子目注释	130
+zi yuan zi wang	资源子网	130
+zi ding yi gun dong tiao	自定义滚动条	128
+zi dong bu xian	自动布线	125
+zi xing zu zhi zhao biao	自行组织招标	125
+zi liu jing	自流井	123
+zi yuan shou ji	资源收集	123
+zi tiao zheng	自调整	122
+zi yin qing re	滋阴清热	121
+zi fu chuan quan pai lie	字符串全排列	120
+zi fa xing qi xiong	自发性气胸	119
+zi liao zheng he	资料整合	119
+zi dong yun wei	自动运维	115
+zi dong kong tiao kong zhi xi tong	自动空调控制系统	113
+zi wai deng	紫外灯	110
+zi yuan lu	梓园路	110
+zi you mo shi	自由模式	106
+zi sha qi tu	自杀企图	104
+zi ya he	子牙河	104
+zi ben li de shui	资本利得税	103
+zi gong chuan kong	子宫穿孔	103
+zi ti yi zhi	自体移植	102
+zi gao zi da	自高自大	100
+zi yang jie	紫阳街	100
+zi ye	子叶	100
+zi xu	字序	99
+zi bu ye	自补液	98
+zi tai shi bie	姿态识别	98
+zi yuan jia mi	资源加密	95
+zi jing bei lu	紫荆北路	94
+zi li cun	自力村	92
+zi tai kong zhi	姿态控制	92
+zi chou yin mao	子丑寅卯	91
+zi dong tui li	自动推理	91
+zi yuan gong xiang kong zhi	资源共享控制	91
+zi wo xun lian	自我训练	90
+zi zhu yun dong	自主运动	90
+zi he che	紫河车	89
+zi mei qiao	姊妹桥	89
+zi wei hua yuan	紫薇花园	89
+zi xin ren sheng er bai nian	自信人生二百年	89
+zi wan	紫菀	88
+zi yun shan	紫云山	86
+zi ji sheng cheng	子集生成	85
+zi ming qing gao	自命清高	85
+zi xiang jiao	自相交	84
+zi jin lu	紫金路	83
+zi gong ti	子宫体	82
+zi yuan	梓园	82
+zi ben pin	资本品	81
+zi gong qie chu shu	子宫切除术	80
+zi qing zi jian	自轻自贱	80
+zi tong bu	自同步	80
+zi jing xi lu	紫荆西路	79
+zi he	淄河	78
+zi xu lie wen ti	子序列问题	78
+zi jie ji	字节集	77
+zi yi wei de ji	自以为得计	77
+zi ran jing wu	自然景物	76
+zi di xiang shang fang fa	自底向上方法	74
+zi dong kong zhi yuan li	自动控制原理	74
+zi wen	子文	74
+zi zhi suan nai	自制酸奶	73
+zi xun jian suo	资讯检索	72
+zi jing shu	紫荆树	71
+zi shi ying kong zhi	自适应控制	71
+zi dong bing xing hua	自动并行化	70
+zi jin shan lu	紫金山路	70
+zi yu yan	子语言	70
+zi dong fen ci	自动分词	69
+zi cheng xu can shu	子程序参数	68
+zi jie	字街	67
+zi ju yu fa	子句语法	67
+zi hua di ding	紫花地丁	66
+zi xing	紫星	66
+zi tong su bing	梓潼酥饼	65
+zi wei fu yin	子为父隐	65
+zi fu chuan xuan zhuan	字符串旋转	64
+zi cao hong	紫草红	61
+zi ran fen	孜然粉	61
+zi shen kang ti	自身抗体	61
+zi you wen dang xu ke zheng	自由文档许可证	60
+zi dong bu chang	自动补偿	59
+zi gong ji xing	子宫畸形	59
+zi liao ji	资料集	59
+zi ran yi yuan di	自然疫源地	59
+zi tong pian fen	梓潼片粉	59
+zi zhu yuan	紫竹苑	59
+zi dong jia shi yi	自动驾驶仪	58
+zi lin an	紫林庵	58
+zi ran shu mi he	自然数幂和	58
+zi zhu yuan	紫竹园	58
+zi kui fu ru	自愧弗如	56
+zi lian jie	自联结	56
+zi mi ba bao fan	紫米八宝饭	54
+zi ji shu	字计数	53
+zi wan hua	紫菀花	53
+zi jing yuan	紫荆园	51
+zi yun	子云	51
+zi chan jia zhi fa	资产价值法	50
+zi dong chu kou xian zhi	自动出口限制	50
+zi dong hua gong cheng xue yuan	自动化工程学院	50
+zi fu chuan hui wen	字符串回文	50
+zi dong wen zhai	自动文摘	49
+zi mu tu xing	字母图形	49
+zi shan	紫山	49
+zi wei yuan	紫薇苑	49
+zi fu fa sheng qi	字符发生器	48
+zi fu	资福	47
+zi gong fa yu bu liang	子宫发育不良	47
+zi zhi qu xing zheng qu	自治区行政区	47
+zi jiao hong	紫胶红	46
+zi you biao	自由表	46
+zi zhu shen jing xi tong	自主神经系统	46
+zi ju bu qian	趑趄不前	45
+zi dan	子丹	44
+zi dong kai piao	自动开票	44
+zi yuan guan li cheng xu	资源管理程序	44
+zi ben chong zu xing guan zhi	资本充足性管制	43
+zi dong jian yan	自动检验	43
+zi lai hong yue bing	自来红月饼	43
+zi dai bian ma	子带编码	42
+zi fa xing fu zhai	自发性负债	42
+zi yin qian yang	滋阴潜阳	42
+zi zuo	子座	42
+zi chu ji zhu	自出机杼	41
+zi wo chui xu	自我吹嘘	41
+zi wo tao zui	自我陶醉	41
+zi gong ji ceng	子宫肌层	40
+zi ran fan wei	自然范围	40
+zi xi tong jie kou	子系统接口	40
+zi dong bu tai ye	自动补胎液	39
+zi ran lian jie	自然联结	39
+zi wai xian deng guan	紫外线灯管	38
+zi wei cheng shi hua yuan	紫薇城市花园	38
+zi xing xian	资兴县	38
+zi xuan gu	自选股	38
+zi yun cun	紫云村	38
+zi zhu xi tong	自主系统	38
+zi zuo ye	子作业	38
+zi ding yi dan yuan ge	自定义单元格	37
+zi jian	子建	37
+zi ran pai gu	孜然排骨	37
+zi chi liang niao	紫翅椋鸟	36
+zi gong dong mai	子宫动脉	36
+zi ben shi chang you xiao yuan ze	资本市场有效原则	35
+zi rong	自溶	34
+zi gong nei mo xi rou	子宫内膜息肉	33
+zi jing yuan	紫荆苑	33
+zi lai bai yue bing	自来白月饼	33
+zi you fan lan	自由泛滥	33
+zi dan mo	子弹魔	32
+zi gu feng qiu bei ji liao	自古逢秋悲寂寥	31
+zi yuan su cai	资源素材	31
+zi bao quan	自保权	30
+zi ben hua	资本化	30
+zi ran yu yan sheng cheng	自然语言生成	30
+zi you qu xian	自由曲线	30
+zi yuan fen pei biao	资源分配表	30
+zi yuan xiao qu	紫苑小区	30
+zi zai chuan shang yue	子在川上曰	30
+zi fu chuan xiang si du	字符串相似度	29
+zi xiao dong	紫啸鸫	29
+zi zhu kong bu huo dong zui	资助恐怖活动罪	29
+zi chan ping gu bao gao	资产评估报告	28
+zi gong zhan lian	子宫粘连	28
+zi tong qiao xi jie	梓潼桥西街	28
+zi xun xi tong	咨询系统	27
+zi zhang	子张	27
+zi ran sha shang xi bao	自然杀伤细胞	26
+zi zhi guo dong	自制果冻	26
+zi dong hui tu	自动绘图	25
+zi gu jie you si	自古皆有死	25
+zi jin nan yuan	紫金南苑	25
+zi nan jia yuan	紫南家园	25
+zi yun hua yuan	紫云花园	25
+zi dong cheng xu she ji	自动程序设计	24
+zi dong zhi dong cha su qi	自动制动差速器	24
+zi fa bian zheng fa	自发辩证法	24
+zi gong nei mo zeng sheng	子宫内膜增生	24
+zi guang hua yu	紫光华宇	24
+zi ran fen feng	自然分蜂	24
+zi shen shu xue	自身输血	24
+zi yue shi yun	子曰诗云	24
+zi zi ku ku	孜孜矻矻	24
+zi gong xian ji bing	子宫腺肌病	23
+zi ran ling	自然岭	23
+zi wei xing	紫微星	23
+zi xun xin li xue	咨询心理学	23
+zi yu	子鱼	23
+zi zhi cao zuo xi tong	自制操作系统	23
+zi gua dong nan zhi	自挂东南枝	22
+zi xin zhong hua guang chang	紫鑫中华广场	22
+zi yuan shen zai zui gao ceng	自缘身在最高层	22
+zi chuan chuan	字串串	21
+zi dong cao zong shi bian su qi	自动操纵式变速器	21
+zi ti gu sui yi zhi	自体骨髓移植	21
+zi zhu bei jie	紫竹北街	21
+zi yi	子义	20
+zi yun she qu	紫云社区	20
+zi cheng chen shi jiu zhong xian	自称臣是酒中仙	19
+zi cheng yi jia shi bi zhen	自成一家始逼真	19
+zi lang	紫琅	19
+zi mu zi fu ji	字母字符集	19
+zi sha lu	紫沙路	19
+zi su you	紫苏油	19
+zi wei ge	紫薇阁	19
+zi wu dao	子午道	19
+zi xue dan	紫雪丹	19
+zi yang di qu	资阳地区	19
+zi yi	自仪	19
+zi dong che wei suo	自动车位锁	18
+zi gao	子高	18
+zi ran ren gu	自然人股	18
+zi ran tong	自然铜	18
+zi ti mian yi xing ji bing	自体免疫性疾病	18
+zi you qu mian	自由曲面	18
+zi yuan bei fen	资源备份	18
+zi fang chong	子方虫	17
+zi jin shan da jiu dian	紫金山大酒店	17
+zi xing bian ma	字形编码	17
+zi yuan bao hu he hui shou fa	资源保护和回收法	17
+zi zhi qi shui	自制汽水	17
+zi zuo yong	自作用	17
+zi fu chuan zhuan ti	字符串专题	16
+zi jing jie	紫荆街	16
+zi qiang jie	自强街	16
+zi ren wu chu li	子任务处理	16
+zi yang xian	资阳县	16
+zi cheng xu zhi zhen	子程序指针	15
+zi gong wei suo	子宫萎缩	15
+zi ran tu bian	自然突变	15
+zi tu pi pei	子图匹配	15
+zi wei dong lu	紫薇东路	15
+zi zu zhi xi tong	自组织系统	15
+zi ding xiang xia ce shi	自顶向下测试	14
+zi fu chuan xiang jie	字符串详解	14
+zi hua lu	紫花路	14
+zi lian xing ren ge zhang ai	自恋型人格障碍	14
+zi mu dian zhen	字模点阵	14
+zi geng xiang	子庚乡	13
+zi shi bu	紫式部	13
+zi xin lu	自新路	13
+zi you jie dian	自由节点	13
+zi yuan sou ji	资源搜集	13
+zi chan zhu xing ding	子产铸刑鼎	12
+zi hu	紫湖	12
+zi ji fu gai	子集覆盖	12
+zi mao	紫帽	12
+zi qiang xiao qu	自强小区	12
+zi ran tui li	自然推理	12
+zi sun wei fan jiao ling	子孙违犯教令	12
+zi tui zheng bing	子推蒸饼	12
+zi wo fang yu ji zhi	自我防御机制	12
+zi zhang lu	子长路	12
+zi zhi xing tiao yue	自执行条约	12
+zi zhu an quan	自主安全	12
+zi zhu chuang xin	自主创新	12
+zi dong hui fa	自动回发	11
+zi fan chuan di bi bao	自反传递闭包	11
+zi ji dai li xing wei	自己代理行为	11
+zi lai ye	自来也	11
+zi mo xing	自模型	11
+zi qiao	子桥	11
+zi ran wen li	自然纹理	11
+zi you qi jue guan ping sheng	兹游奇绝冠平生	11
+zi yuan he suan zhi du	资源核算制度	11
+zi yuan pei zhi jing ji xiao yi	资源配置经济效益	11
+zi zhou	訾洲	11
+zi zhu yuan nan men	紫竹院南门	11
+zi gong rou liu	子宫肉瘤	10
+zi jiang ya	子姜鸭	10
+zi ran yu yan yu fa	自然语言语法	10
+zi shen yu tai wan	滋肾育胎丸	10
+zi su zi	紫苏子	10
+zi teng hua yuan	紫藤花园	10
+zi wai xian xiao du che	紫外线消毒车	10
+zi xin cheng	紫鑫城	10
+zi ying	子英	10
+zi zhu qiao nan	紫竹桥南	10
+zi an cun	自安村	9
+zi cang shu	紫仓鼠	9
+zi fang yuan she qu	紫芳园社区	9
+zi gong long	自贡龙	9
+zi gong shi si fa ju	自贡市司法局	9
+zi gong zhan mo xia ji liu	子宫粘膜下肌瘤	9
+zi guang yuan	紫光园	9
+zi hua du juan	紫花杜鹃	9
+zi jing nan lu	紫荆南路	9
+zi mi si xi tang yuan	紫米四喜汤圆	9
+zi song	紫松	9
+zi teng gua yun mu	紫藤挂云木	9
+zi chan ping gu shou fei biao zhun	资产评估收费标准	8
+zi ge zhuang cun	紫各庄村	8
+zi gong nei mo yi wei nang zhong	子宫内膜异位囊肿	8
+zi gong zong ge	子宫纵隔	8
+zi gu	籽骨	8
+zi gui sheng li yu ru yan	子规声里雨如烟	8
+zi mao tuan	粢毛团	8
+zi shan chun zhu she ye	紫杉醇注射液	8
+zi shi hua zhong di yi liu	自是花中第一流	8
+zi yang li jiao qiao	紫阳立交桥	8
+zi yun xiao qu	紫云小区	8
+zi zhu suo jun xing chang yan	仔猪梭菌性肠炎	8
+zi chun	梓醇	7
+zi fang lu	紫芳路	7
+zi gong nei mo jie he	子宫内膜结核	7
+zi guang guo ji jiao liu zhong xin	紫光国际交流中心	7
+zi jing hua lu nan kou	紫荆花路南口	7
+zi run xiang	滋润乡	7
+zi shan	梓山	7
+zi you jie cun	自由街村	7
+zi ben hua lv	资本化率	6
+zi dian	紫癫	6
+zi fang cun	梓坊村	6
+zi gong ji yan	子宫肌炎	6
+zi gong nei mo jian zhi rou liu	子宫内膜间质肉瘤	6
+zi gu di wang zhou	自古帝王州	6
+zi gu qu min zai xin cheng	自古驱民在信诚	6
+zi jiang mo xi ren qian chao	自将磨洗认前朝	6
+zi ke tan zhen	子科滩镇	6
+zi quan	紫泉	6
+zi ran zi yuan fa xue	自然资源法学	6
+zi you dao	自由道	6
+zi yu yue ling jun	字余曰灵均	6
+zi zai fei hua qing shi meng	自在飞花轻似梦	6
+zi zai jiao ying qia qia ti	自在娇莺恰恰啼	6
+zi zheng yuan yuan zhang	资政院院章	6
+zi bei wei	紫背苇	5
+zi dong qi quan xing wei	自动弃权行为	5
+zi gong di	子宫底	5
+zi gong fei da	子宫肥大	5
+zi gong xue	子宫穴	5
+zi gong yan	子宫炎	5
+zi he che jiao nang	紫河车胶囊	5
+zi hui jin she	紫灰锦蛇	5
+zi luo bo tang	子萝卜汤	5
+zi mei qi la	姊妹七辣	5
+zi nang	子囊	5
+zi qi	子奇	5
+zi qiang jie dao	自强街道	5
+zi ran ling lu	自然岭路	5
+zi shen kang yuan	自身抗原	5
+zi shi fan she	姿势反射	5
+zi su mei ji	紫苏梅鸡	5
+zi wei	子位	5
+zi you lu	自有路	5
+zi yuan	子元	5
+zi zhi qu shou fu la sa shi	自治区首府拉萨市	5
+zi ban ge	紫斑鸽	4
+zi fan er bu suo	自反而不缩	4
+zi fang pan xiang	紫坊畔乡	4
+zi fang shan	子房山	4
+zi fei san lv da fu yu	子非三闾大夫与	4
+zi ga xiang	字嘎乡	4
+zi gan xiang	子干乡	4
+zi hu cun	紫湖村	4
+zi hu ma kui jiang qu hou	自胡马窥江去后	4
+zi hua chuan fen	自花传粉	4
+zi huan	子桓	4
+zi jin long	紫金龙	4
+zi jing xi lu chuang ye lu kou	紫荆西路创业路口	4
+zi juan xin cun	紫鹃新村	4
+zi li cun	梓里村	4
+zi nan shi chang	紫南市场	4
+zi qing ting	自清亭	4
+zi qu zi lai tang shang yan	自去自来堂上燕	4
+zi shen nai shou	自身耐受	4
+zi tan xiang	紫檀香	4
+zi wei xing wei	自为行为	4
+zi xiao ping sheng wei kou mang	自笑平生为口忙	4
+zi xing shu xiu yi shang	自行束修以上	4
+zi xun bao gao	咨询报告	4
+zi yang hua yuan	紫阳花苑	4
+zi yang ti	滋养体	4
+zi yu shi zhi yu	自喻适志与	4
+zi yuan bao xian he tong	自愿保险合同	4
+zi zhang xue gan lu	子张学干禄	4
+zi zhu qiao bei	紫竹桥北	4
+zi zi ji ji	孜孜汲汲	4
+zi chang xing	自偿性	3
+zi fang lu	子芳路	3
+zi gai rou	紫盖肉	3
+zi gong	紫宫	3
+zi gong jing yuan wei ai	子宫颈原位癌	3
+zi jin lian	紫金莲	3
+zi jing sang luan shao shui mian	自经丧乱少睡眠	3
+zi ku jie	字库街	3
+zi kui	紫葵	3
+zi long jin pian	紫龙金片	3
+zi lu wen jun zi	子路问君子	3
+zi lu yun jian yue	子路愠见曰	3
+zi luo	紫罗	3
+zi luo niu rou	紫萝牛肉	3
+zi mei cun	紫美村	3
+zi mu yu xi shan yao tiao	子慕予兮善窈窕	3
+zi nan jia yuan she qu	紫南家园社区	3
+zi ning bu si yin	子宁不嗣音	3
+zi qi bu bian zhe er guan zhi	自其不变者而观之	3
+zi san xia qi bai li zhong	自三峡七百里中	3
+zi si qiao cun	子思桥村	3
+zi sun yi ji si bu chuo	子孙以祭祀不辍	3
+zi wai fen guang guang du fa	紫外分光光度法	3
+zi xi cun	梓溪村	3
+zi xue ke li	紫雪颗粒	3
+zi yu ke	籽鹬科	3
+zi yu lin	紫雨林	3
+zi yun shou zhong shi	自云手种时	3
+zi zai qi wen shao	子在齐闻韶	3
+zi zhong xiang	子中乡	3
+zi zhu xin xi	仔猪信息	3
+zi bao zi	子孢子	2
+zi bi er tong zhi	子比而同之	2
+zi bi kuang ying	紫鼻狂蝇	2
+zi cai xi da jie	子材西大街	2
+zi chen yi dang shi zhi shi	咨臣以当世之事	2
+zi ci cao shu zhang jin	自此草书长进	2
+zi ci yong you qi	资此永幽栖	2
+zi fa zhe wu gong	自伐者无功	2
+zi gong qian wei	子宫前位	2
+zi gong shui zhu niu rou	自贡水煮牛肉	2
+zi gong yi wei	子宫移位	2
+zi gong yuan ren dai	子宫圆韧带	2
+zi guang lu	紫光路	2
+zi gui er xiang jian	自贵而相贱	2
+zi gui men da pai	紫桂焖大排	2
+zi jian er yi yi	自见而已矣	2
+zi jian zhe bu ming	自见者不明	2
+zi jin zhe bu zhang	自矜者不长	2
+zi jing fang zhu lai qiao cui	自经放逐来憔悴	2
+zi jing pi	紫荆皮	2
+zi ke tan	子科滩	2
+zi ling ru jin cai yuan xiang	紫菱如锦彩鸳翔	2
+zi lu wu su nuo	子路无宿诺	2
+zi mo hong chen fu mian lai	紫陌红尘拂面来	2
+zi shan cun	紫山村	2
+zi shen yi miao	自身疫苗	2
+zi sheng wan	资生丸	2
+zi shi bai yi qing xiang	自是白衣卿相	2
+zi shi ying jia quan shi	自适应加权式	2
+zi shi zhe bu zhang	自是者不彰	2
+zi shi zhen	资市镇	2
+zi song feng lin shang cheng	紫菘枫林上城	2
+zi su bing	自酥饼	2
+zi su geng	紫苏梗	2
+zi tong miao xiang	梓橦庙乡	2
+zi tuo zhen	孜托镇	2
+zi wei lu	紫微路	2
+zi xiang qian	紫香乾	2
+zi xin zheng ming	资信证明	2
+zi yang lu	资阳路	2
+zi yi er zhu guan	紫衣而朱冠	2
+zi yin bu shen wan	滋阴补肾丸	2
+zi ying cun	子英村	2
+zi you	子尤	2
+zi you tong zhi zhe zai	自有同志者在	2
+zi you yun xiao wan li gao	自有云霄万里高	2
+zi yuan chu kou pei e	自愿出口配额	2
+zi yuan kai fa shen pi zhi du	资源开发审批制度	2
+zi zhong huang sang san bai chi	自种黄桑三百尺	2
+zi zhu yuan gong yuan	紫竹园公园	2
+zi zhu yuan she qu	紫竹院社区	2
+zi zuo qing ge chuan hao chi	自作清歌传皓齿	2
+zi ai keng ran ye zhang sheng	自爱铿然曳杖声	1
+zi ai ming shan ru shan zhong	自爱名山入剡中	1
+zi bei liang niao	紫背椋鸟	1
+zi bei wei jian	紫背苇鳽	1
+zi ben yu suan	资本预算	1
+zi ben yun zuo	资本运作	1
+zi bi yi shen qing ruo li	自庇一身青箬笠	1
+zi bie qian tang shan shui hou	自别钱塘山水后	1
+zi bo	子伯	1
+zi bu gan shen wan	滋补肝肾丸	1
+zi bu sheng fa pian	滋补生发片	1
+zi cai dan pi juan	紫菜蛋皮卷	1
+zi chan gong si	资产公司	1
+zi chan ting zheng guo zhi zheng	子产听郑国之政	1
+zi cong sheng jiu zhang er sun	自从盛酒长儿孙	1
+zi da shi xi zhe bu ming	自大视细者不明	1
+zi dao qing ming li	自到青冥里	1
+zi deng jiao nang	紫灯胶囊	1
+zi dong pai dang bian su xiang	自动排档变速箱	1
+zi er wei jia jie	自尔为佳节	1
+zi fang wei hu xiao	子房未虎啸	1
+zi fei ting wu ye fen	自非亭午夜分	1
+zi fu zhi	自复制	1
+zi fu zi zhi si ye	自夫子之死也	1
+zi gong kuo ren dai	子宫阔韧带	1
+zi gong nei fan	子宫内翻	1
+zi gong wen jun zi	子贡问君子	1
+zi gu duo jian xin	自古多艰辛	1
+zi gu fei yu ye	子固非鱼也	1
+zi gu gong ming yi ku xin	自古功名亦苦辛	1
+zi gu you ji lv	自古有羁旅	1
+zi gui zhi lie gao	紫归治裂膏	1
+zi hua du juan pian	紫花杜鹃片	1
+zi ji guan er wang zhe	自既灌而往者	1
+zi jia zhi zui tai yang niao	紫颊直嘴太阳鸟	1
+zi jiang lu	紫江路	1
+zi jiao bu qin he xing	自交不亲和性	1
+zi jie pin jia nv	自嗟贫家女	1
+zi jing qi xin yan shou ming	自静其心延寿命	1
+zi jiu xing wei lun	自救行为论	1
+zi ke yue yong neng zhong gua	自课越佣能种瓜	1
+zi li jia xiang	子里甲乡	1
+zi liu e	自留额	1
+zi lu di shi san	子路第十三	1
+zi lu gong er li	子路拱而立	1
+zi lu shu jin yao zui ke	自漉疏巾邀醉客	1
+zi lu wen cheng ren	子路问成人	1
+zi mai	自买	1
+zi ming wei yuan yang	自名为鸳鸯	1
+zi ming wu yue ye	自明无月夜	1
+zi nan jia yuan bei zhan	紫南家园北站	1
+zi neng cheng yu yi	自能成羽翼	1
+zi nv bao zhang xin tuo	子女保障信托	1
+zi qi jing zao wang	子期竟早亡	1
+zi qi tong zhe shi zhi	自其同者视之	1
+zi qi yi zhe shi zhi	自其异者视之	1
+zi qian shi er gu ran	自前世而固然	1
+zi qing liang wu han	自清凉无汗	1
+zi qu wen deng e	紫曲纹灯蛾	1
+zi ru qiu lai feng jing hao	自入秋来风景好	1
+zi sang dai bing yi	子桑殆病矣	1
+zi se sha la	紫色沙拉	1
+zi se ying guang qing wa	紫色荧光青蛙	1
+zi shan he jun xiu	兹山何峻秀	1
+zi shang zao gu qiong	自伤早孤茕	1
+zi sheng min yi lai	自生民以来	1
+zi shi bu gui gui bian de	自是不归归便得	1
+zi shi ceng	子实层	1
+zi shi qi diao kai shi	子使漆雕开仕	1
+zi shi yu you sang zhe zhi ce	子食于有丧者之侧	1
+zi shou huang jin zhang	紫绶黄金章	1
+zi shui dao	资水道	1
+zi sun qi chang ge dou xin	紫笋齐尝各斗新	1
+zi sun zhen wang jin	子孙阵亡尽	1
+zi ti shou jing	自体受精	1
+zi tian ti chu shi	自天题处湿	1
+zi wai guang xian wei jing	紫外光显微镜	1
+zi wei er cun	紫薇二村	1
+zi wei jiang shang ke	自为江上客	1
+zi wo xin cun dao	自我心存道	1
+zi wo xin li xue	自我心理学	1
+zi wu shi san shi ju shi xiang	自吾氏三世居是乡	1
+zi wu xiang	子午乡	1
+zi xi bu wei zheng	子奚不为政	1
+zi xi jie dao	资溪街道	1
+zi xiang ting zhong zhong li zhi	自向庭中种荔枝	1
+zi xiao bu xiang shi	自小不相识	1
+zi xuan biao ji	自旋标记	1
+zi xun gong si	咨询公司	1
+zi xun ye jing ying jue qiao	咨询业经营诀窍	1
+zi ya he bei	子牙河北	1
+zi ya he bei lu	子牙河北路	1
+zi ya he nan lu	子牙河南路	1
+zi yang ceng	滋养层	1
+zi yi wei bu tong hu ming	自以为不通乎命	1
+zi yi yi ta xi chuang xia	自移一榻西窗下	1
+zi yin hu shang zi zui	自引壶觞自醉	1
+zi yin yi wei	滋阴益胃	1
+zi you neng wen shi ma qian	子幼能文似马迁	1
+zi you sheng min yi lai	自有生民以来	1
+zi you sui han xin	自有岁寒心	1
+zi you ye zhu lai	自有夜珠来	1
+zi yu ju jiu yi	子欲居九夷	1
+zi yu xiang	资峪乡	1
+zi yu yu zi sang you	子舆与子桑友	1
+zi zhang wen ren yu kong zi	子张问仁于孔子	1
+zi zhi bu zhi yu zhi le	子之不知鱼之乐	1
+zi zhou lu	子洲路	1
+zi zhu yin hang	自助银行	1
+zi zi kan lai dou shi xue	字字看来都是血	1
+zi an fu gang can	子安辐肛参	0
+zi ban feng huang luo	紫斑凤凰螺	0
+zi ban guang bei xie	紫斑光背蟹	0
+zi ban hai ju ha	紫斑海菊蛤	0
+zi ban hai nv chong	紫斑海女虫	0
+zi ban xiao hui die	紫斑小灰蝶	0
+zi ban zhu yan die	紫斑竹眼蝶	0
+zi bao hua xian luo	紫堡花仙螺	0
+zi bei shan yu feng niao	紫背闪羽蜂鸟	0
+zi bei wei bao	紫背苇鸨	0
+zi bei wei gan	紫背苇鳱	0
+zi bian bai ying ha	紫边白樱蛤	0
+zi ce dai xiao gong yu	紫侧带小公鱼	0
+zi chi li ju hu	紫翅丽菊虎	0
+zi chi zhang biao nong die	紫翅长标弄蝶	0
+zi dan mo yu	子弹魔鱼	0
+zi dian niao wei ha	紫点鸟尾蛤	0
+zi dou yuan gui chun	子都圆龟蝽	0
+zi gong e mei long	自贡峨眉龙	0
+zi gong hei shan yang	自贡黑山羊	0
+zi gong shi bian shi shou	自贡似卞氏兽	0
+zi hong chi chi e	紫红魑尺蛾	0
+zi hui bu xing chong	紫辉步行虫	0
+zi jia chang bi yuan	自颊长臂猿	0
+zi ke cai ha	紫壳菜蛤	0
+zi ke long xi yi	自克隆蜥蜴	0
+zi kou hai tu luo	紫口海兔螺	0
+zi lan gai yuan shui mu	紫蓝盖缘水母	0
+zi ling zhi hu yu	子陵栉虎鱼	0
+zi lu ji ju xie	紫陆寄居蟹	0
+zi lun can	紫轮参	0
+zi luo lan xiong feng niao	紫罗兰胸蜂鸟	0
+zi luo lan yu luo	紫羅蘭芋螺	0
+zi ma yu luo	字碼芋螺	0
+zi mao ya ma xun ying wu	紫帽亚马逊鹦鹉	0
+zi mu xiao du	子木小蠹	0
+zi se ying guang wa	紫色荧光蛙	0
+zi shan xi cong	紫闪溪蟌	0
+zi shan zhuang hai men dong	紫杉状海门冬	0
+zi she mu die	紫蛇目蝶	0
+zi shi feng cang gui	自实丰仓归	0
+zi shou dai niao	紫绶带鸟	0
+zi teng luo qian ye xi e	紫藤萝潜叶细蛾	0
+zi teng qian ye xi e	紫藤潜叶细蛾	0
+zi xiao hui die	紫小灰蝶	0
+zi xiao xi xie	紫小溪蟹	0
+zi xiong fo fa seng	紫胸佛法僧	0
+zi yan qian bi deng yu	紫艳铅笔灯鱼	0
+zi yi cang shu	紫衣仓鼠	0
+zi yi e luo	自抑峨螺	0
+zi yi juan guan luo	紫衣卷管螺	0
+zi yin du bao luo	紫印度宝螺	0
+zi yuan ya jian feng	紫苑蚜茧蜂	0
+zi yun ying qian ye ying	紫云英潜叶蝇	0
+zi zhan mang man	紫粘盲鳗	0
+zi zhang wei feng niao	紫长尾蜂鸟	0

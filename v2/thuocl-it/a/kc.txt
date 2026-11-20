@@ -1,0 +1,11 @@
+kcsx	可测试性	366
+kcdsb	可穿戴设备	320
+kcjh	可持久化	308
+kc	可擦	259
+kck	开窗口	224
+kcxx	可串行性	182
+kczzl	空操作指令	149
+kcdyy	可穿戴应用	130
+kcsxsj	可测试性设计	127
+kcdjsj	可穿戴计算机	91
+kcxlx	可查询类型	91

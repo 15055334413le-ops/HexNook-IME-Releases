@@ -1,0 +1,49 @@
+kou ti yi	口蹄疫	700
+kou qiang ji bing	口腔疾病	593
+kou she sheng chuang	口舌生疮	370
+kou yan wai xie	口眼歪斜	302
+kou fu bu ye yan	口服补液盐	278
+kou qiang zhong zhi xue	口腔种植学	216
+kou fu pu tao tang	口服葡萄糖	211
+kou fu gei yao	口服给药	202
+kou fu rong ye ji	口服溶液剂	178
+kou zhen	叩诊	178
+kou yan qing ke li	口炎清颗粒	167
+kou qiang yu fang bao jian	口腔预防保健	160
+kou han pian	口含片	153
+kou qiang xiu fu xue	口腔修复学	153
+kou qiang xue	口腔学	145
+kou qiang pao zhen	口腔疱疹	142
+kou gan zheng	口干症	135
+kou qiang sheng wu xue	口腔生物学	132
+kou chun pao zhen	口唇疱疹	129
+kou qiang yi xue yan jiu	口腔医学研究	129
+kou qiang zheng ji xue	口腔正畸学	125
+kou dao	口道	113
+kou qiang nian mo bing	口腔粘膜病	113
+kou qiang beng jie pian	口腔崩解片	108
+kou qiang yu fang yi xue	口腔预防医学	103
+kou qiang he mian bu zhong liu	口腔颌面部肿瘤	98
+kou qiang bing li xue	口腔病理学	84
+kou qiang ke xue	口腔科学	84
+kou re	寇热	84
+kou pi	口僻	76
+kou qiang he mian wai ke xue	口腔颌面外科学	76
+kou qiang hong ban	口腔红斑	76
+kou qiang nian mo bai ban bing	口腔粘膜白斑病	76
+kou zhou pi yan	口周皮炎	76
+kou di feng wo zhi yan	口底蜂窝织炎	66
+kou fu bu ye yan rong ye	口服补液盐溶液	66
+kou fu shui jie dan bai	口服水解蛋白	66
+kou qiang cai liao xue	口腔材料学	66
+kou qiang kui yang mo	口腔溃疡膜	66
+kou qiang kui yang san	口腔溃疡散	66
+kou qiang nian zhu jun bing	口腔念珠菌病	66
+kou fu hun xuan ji	口服混悬剂	51
+kou fu pu tao tang fen	口服葡萄糖粉	51
+kou qiang jie pou sheng li xue	口腔解剖生理学	51
+kou qiang kui yang yi ci ning	口腔溃疡一次宁	51
+kou qiang nei ke xue	口腔内科学	51
+kou qiang nian mo bing xue	口腔粘膜病学	51
+kou qiang xue guan liu	口腔血管瘤	51
+kou qiang yan pen wu ji	口腔炎喷雾剂	51

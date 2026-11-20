@@ -1,0 +1,434 @@
+sha la	沙拉	121544
+sha mo	沙漠	16175
+sha tan	沙滩	14977
+sha zhi	砂纸	14927
+sha la jiang	沙拉酱	10136
+sha bu	纱布	9649
+sha ping ba	沙坪坝	7434
+sha shi	沙士	5368
+sha zao	沙枣	3854
+sha tian you	沙田柚	3510
+sha tian	沙田	3294
+sha wan	沙湾	3149
+sha fei ku xin	煞费苦心	3026
+sha du ruan jian	杀毒软件	2957
+sha shi bi ya	莎士比亚	2664
+sha si jin cheng	杀死进程	2622
+sha jing	沙井	2512
+sha you jie shi	煞有介事	1871
+sha guo yu	砂锅鱼	1792
+sha zhou	沙洲	1535
+sha hu	沙湖	1368
+sha men shi jun	沙门氏菌	1352
+sha tou jiao	沙头角	1335
+sha die	杀跌	1320
+sha he fen	沙河粉	1201
+sha xi	沙溪	1197
+sha keng	沙坑	1103
+sha guo yu tou	砂锅鱼头	1080
+sha ren mie kou	杀人灭口	1072
+sha jin cheng	杀进程	1059
+sha ying	杀婴	1053
+sha yu er gui	铩羽而归	1027
+sha shi	沙市	1003
+sha dui	沙堆	998
+sha cha mian	沙茶面	956
+sha ping	沙坪	889
+sha ji qu luan	杀鸡取卵	881
+sha ding yu	沙丁鱼	820
+sha la bo wa	莎拉波娃	811
+sha yi jing bai	杀一儆百	794
+sha yuan zi	沙苑子	726
+sha he lu jing	沙盒路径	722
+sha he ji zhi	沙盒机制	686
+sha yang	沙洋	654
+sha weng	沙翁	653
+sha jia bang	沙家浜	651
+sha tou	沙头	622
+sha e	沙俄	614
+sha ren fang huo	杀人放火	611
+sha ji jing hou	杀鸡儆猴	579
+sha zi tang	砂子塘	567
+sha zi kou	沙子口	526
+sha ba	沙坝	510
+sha hai	沙海	446
+sha yan	沙眼	440
+sha li wen	沙利文	434
+sha mo yue ye che	沙漠越野车	426
+sha mo zhi hu	沙漠之虎	384
+sha wan lu	沙湾路	376
+sha he shi	沙河市	375
+sha ding an chun	沙丁胺醇	363
+sha bao liang	沙宝亮	357
+sha qi teng teng	杀气腾腾	323
+sha yuan	沙园	321
+sha cheng	沙城	310
+sha shen	沙参	305
+sha mo che	沙漠车	300
+sha qu fa yuan	沙区法院	300
+sha lang niu pai	沙朗牛排	296
+sha hua	厦华	288
+sha yong	沙涌	272
+sha ma	沙马	269
+sha ren	砂仁	266
+sha mo gong lu	沙漠公路	265
+sha hu gong yuan	沙湖公园	264
+sha guo fan	砂锅饭	253
+sha che qian	刹车钳	248
+sha ji huang	沙棘黄	232
+sha bin lu	沙滨路	228
+sha mi fen	沙米粉	215
+sha ya	沙雅	214
+sha shen zhi huo	杀身之祸	211
+sha gou	沙沟	210
+sha po	沙坡	206
+sha cha niu rou	沙茶牛肉	204
+sha ji zhi	沙棘汁	204
+sha mao jie	纱帽街	202
+sha ren bu zha yan	杀人不眨眼	192
+sha tou jiao hai guan	沙头角海关	192
+sha ren yue huo	杀人越货	182
+sha nan	沙南	168
+sha tang	沙塘	154
+sha qian	沙钱	151
+sha men	沙门	146
+sha gang	沙岗	140
+sha pu	沙浦	139
+sha dong	沙东	138
+sha wei	沙尾	137
+sha ren ru ma	杀人如麻	130
+sha xue wei meng	歃血为盟	122
+sha mo yu	沙漠鱼	116
+sha men shi jun gan ran	沙门氏菌感染	115
+sha ling	沙岭	113
+sha he kou	沙河口	112
+sha he xi	沙河西	111
+sha xi liang cha	沙溪凉茶	107
+sha tou cun	沙头村	104
+sha xi cun	沙溪村	102
+sha ping cun	沙坪村	101
+sha shen cheng ren	杀身成仁	101
+sha pu	沙埔	100
+sha shi chang	沙石场	99
+sha tian qu	沙田区	97
+sha zi o	啥子哦	95
+sha ren bu jian xue	杀人不见血	94
+sha du yin qing	杀毒引擎	93
+sha he jie	沙河街	90
+sha duan	沙段	87
+sha wan cun	沙湾村	87
+sha yan yi yuan ti	沙眼衣原体	86
+sha gang	沙港	85
+sha hu yan dan	沙湖盐蛋	78
+sha qi	砂器	77
+sha tian cun	沙田村	75
+sha zhu fan	杀猪饭	75
+sha bei	沙北	72
+sha he lu	厦禾路	69
+sha tou jiao bao shui qu	沙头角保税区	69
+sha yan	沙岩	68
+sha he zi	沙河子	66
+sha mei	沙美	64
+sha da	沙大	59
+sha rang tu	沙壤土	56
+sha fei xin ji	煞费心机	55
+sha bian	沙边	53
+sha he di qu	沙河地区	52
+sha ting	沙汀	51
+sha ji hai hou	杀鸡骇猴	50
+sha dun	沙墩	49
+sha long da	沙隆达	49
+sha wan jiang zhuang nai	沙湾姜撞奶	49
+sha he ji chang	沙河机场	48
+sha ren yang rou tang	砂仁羊肉汤	48
+sha fu zhi chou	杀父之仇	46
+sha pu ai si	莎普爱思	46
+sha long lu	沙龙路	45
+sha gang cun	沙岗村	43
+sha fa jue duan	杀伐决断	42
+sha mu he	杉木河	42
+sha gang	厦港	41
+sha zhou ba zhen	沙洲坝镇	41
+sha zhi	纱织	38
+sha le mei	莎乐美	37
+sha xian hun tun	沙县馄饨	37
+sha wan da pan ji	沙湾大盘鸡	36
+sha ge du	沙圪堵	35
+sha guo ya yu	砂锅雅鱼	35
+sha shan jie	砂山街	35
+sha de	沙德	34
+sha he shi chang	沙河市场	34
+sha chong	沙冲	33
+sha wei	沙围	32
+sha zi bing	砂子饼	30
+sha guo yang rou	砂锅羊肉	29
+sha cha kao rou chuan	沙茶烤肉串	28
+sha po cun	沙坡村	28
+sha shu	沙鼠	28
+sha ji yan yong niu dao	杀鸡焉用牛刀	27
+sha zi ying	沙子营	27
+sha di cun	沙堤村	26
+sha ge	沙格	26
+sha zhou wei	沙洲尾	26
+sha chang lu	纱厂路	25
+sha guo fei chang	砂锅肥肠	25
+sha li yuan	沙梨园	25
+sha tou sha nao	傻头傻脑	25
+sha shang xi bao	杀伤细胞	24
+sha cun	厦村	23
+sha ji xia hou	杀鸡吓猴	23
+sha keng cun	沙坑村	23
+sha tou jiao zhen	沙头角镇	23
+sha guo gou rou	砂锅狗肉	21
+sha zhuang	沙庄	21
+sha guo yu tou dou fu	沙锅鱼头豆腐	20
+sha xue	沙雪	20
+sha chong mi	杀虫脒	19
+sha pu cun	沙浦村	19
+sha yang jian yu guan li ju	沙洋监狱管理局	19
+sha ding xiang	沙丁乡	18
+sha ling zi	沙岭子	18
+sha lv hai xian juan	沙律海鲜卷	18
+sha ming	沙明	18
+sha shen yu zhu lao ya tang	沙参玉竹老鸭汤	18
+sha ji you	沙棘油	17
+sha po wei	沙坡尾	17
+sha xia cun	沙吓村	17
+sha yuan shi chang	沙园市场	16
+sha bo gou rou	砂钵狗肉	15
+sha he	厦禾	15
+sha la dan	沙拉蛋	15
+sha li ya fa gui	沙里亚法规	15
+sha wan bai bing	沙湾白饼	15
+sha chang jing yun ming	沙场竟殒命	14
+sha ya jian yu	沙雅监狱	14
+sha ding an chun qi wu ji	沙丁胺醇气雾剂	13
+sha he bei da qiao	沙河北大桥	13
+sha ruan chang shang	杀软厂商	13
+sha shi shi	沙市市	13
+sha te er mao	沙特尔猫	13
+sha zhou ta cui	沙舟踏翠	13
+sha bu	沙埠	12
+sha qian	砂潜	12
+sha shi bing gan	沙式饼干	12
+sha tou jiao jie dao dang gong wei	沙头角街道党工委	12
+sha wan hai guan	沙湾海关	12
+sha xi jie dao	沙溪街道	12
+sha bu cun	沙埠村	11
+sha che nong chang	莎车农场	11
+sha pu	沙铺	11
+sha tang	砂塘	11
+sha tang wan jie dao	沙塘湾街道	11
+sha guo wei lu jin	砂锅煨鹿筋	10
+sha jiao cun	沙滘村	10
+sha qiang xiang	沙腔乡	10
+sha xin	厦新	10
+sha ba tai	沙巴台	9
+sha jing hu tong	沙井胡同	9
+sha li du an	沙利度胺	9
+sha qiao cun	沙桥村	9
+sha qiu yi zhi	沙丘遗址	9
+sha qu cun	沙渠村	9
+sha shen mai dong tang	沙参麦冬汤	9
+sha yan jie	沙堰街	9
+sha chang	纱场	8
+sha li xiang	沙梨乡	8
+sha li ya fa yuan	沙里亚法院	8
+sha mao cun	纱帽村	8
+sha mei te luo	沙美特罗	8
+sha yi ba ke	沙依巴克	8
+sha fu	沙富	7
+sha gang lu	沙岗路	7
+sha ge	杀割	7
+sha jing da dao	沙井大道	7
+sha long xiang	沙龙乡	7
+sha mei cun	沙美村	7
+sha tang she qu	沙塘社区	7
+sha yu gou	沙峪沟	7
+sha zhou xian	沙洲县	7
+sha er xiang	沙耳乡	6
+sha gu dui	沙古堆	6
+sha huang dan jiao su	沙黄蛋角酥	6
+sha la chuan	沙拉船	6
+sha lian	沙联	6
+sha lu	厦路	6
+sha mao bei jie	纱帽北街	6
+sha shi lu kou dong	沙石路口东	6
+sha shi tian du suan tou	沙市甜独蒜头	6
+sha wei gong ye qu	沙尾工业区	6
+sha ye	沙耶	6
+sha gan chun	鲨肝醇	5
+sha guo dun lv rou	砂锅炖驴肉	5
+sha hao jiao	沙蒿胶	5
+sha he dan gao	沙河蛋糕	5
+sha he gong ye yuan	沙河工业园	5
+sha he tan	沙河滩	5
+sha he xian	沙河县	5
+sha jing da wang shan	沙井大王山	5
+sha kui na wei	沙奎那韦	5
+sha wa	沙洼	5
+sha zhu yu xiang	沙珠玉乡	5
+sha cha guo	沙茶粿	4
+sha cun cun	砂村村	4
+sha dian zhen	沙甸镇	4
+sha dong zhen	沙垌镇	4
+sha gong xiang	沙贡乡	4
+sha he kou huo che zhan	沙河口火车站	4
+sha hu shan guan li chu	沙湖山管理处	4
+sha jia cun	沙家村	4
+sha ju cun	沙咀村	4
+sha liu lu	沙柳路	4
+sha luo xiang	沙洛乡	4
+sha pei lin	沙培林	4
+sha shen zhi ke tang san	沙参止咳汤散	4
+sha si niu wei	沙司牛尾	4
+sha wan tou	沙湾头	4
+sha wei kang	沙维康	4
+sha wo	沙我	4
+sha xian dou fu wan	沙县豆腐丸	4
+sha bo huang pi san he	砂钵黄陂三合	3
+sha chong lu jie dao	沙冲路街道	3
+sha dong xiang	沙东乡	3
+sha dui xiang	沙堆乡	3
+sha er zong xiang	沙尔宗乡	3
+sha fu	沙浮	3
+sha gang	沙冈	3
+sha gang zi	沙岗子	3
+sha ge cun	沙格村	3
+sha ge tuo zhen	沙圪坨镇	3
+sha he xi zhan	沙河西站	3
+sha hu bin guan	沙湖宾馆	3
+sha jing zhen	沙迳镇	3
+sha li yao zu xiang	沙里瑶族乡	3
+sha lian bao xiang	沙连堡乡	3
+sha mei te luo ti ka song	沙美特罗替卡松	3
+sha nuan shui yuan yang	沙暖睡鸳鸯	3
+sha qu yi yuan	沙区医院	3
+sha ri hao lai zhen	沙日浩来镇	3
+sha shi ji	砂时计	3
+sha tou du kou	沙头渡口	3
+sha tou ju wei hui	沙头居委会	3
+sha wan lian jian zhan	沙湾联检站	3
+sha xian	沙羡	3
+sha yang lu kou	沙阳路口	3
+sha yang lu she qu	沙阳路社区	3
+sha yu kou	沙峪口	3
+sha zi yan	沙子堰	3
+sha bao yu tou	砂煲鱼头	2
+sha chang dian qiu bing	沙场点秋兵	2
+sha chuang zui meng zhong	纱窗醉梦中	2
+sha de xiang	沙德乡	2
+sha guo san dan	沙锅散丹	2
+sha guo san wei	砂锅三味	2
+sha guo shan hai	砂锅山海	2
+sha he cun wei hui	沙河村委会	2
+sha he gou	沙河沟	2
+sha hu lu kou	沙湖路口	2
+sha jia si	沙家寺	2
+sha jia xiang	沙家巷	2
+sha leng he xiang	沙塄河乡	2
+sha ling	沙陵	2
+sha liu bei lu	沙柳北路	2
+sha long jie	沙龙街	2
+sha ma la da xiang	沙马拉达乡	2
+sha ma xiang	沙马乡	2
+sha ming xiang	沙明乡	2
+sha mo lin ye shi yan zhong xin	沙漠林业实验中心	2
+sha qiu cheng xia ji du fu	沙丘城下寄杜甫	2
+sha ren gao	砂仁糕	2
+sha shen xin fei tang	沙参心肺汤	2
+sha shi nong chang	沙市农场	2
+sha tan shi	沙坦市	2
+sha te er lan mao	沙特尔蓝猫	2
+sha tou jiao qu	沙头角区	2
+sha wo cun	沙沃村	2
+sha xin xiang	沙心乡	2
+sha yu gou cun	沙峪沟村	2
+sha zao yuan	沙枣园	2
+sha ba he xiang	沙坝河乡	1
+sha bao zhou ban shi chu	沙堡洲办事处	1
+sha bei jie dao	沙北街道	1
+sha bian dai zhi jin	沙边待至今	1
+sha chang feng huo qin hu yue	沙场烽火侵胡月	1
+sha chuang ji du chun guang mu	纱窗几度春光暮	1
+sha dai xiang	沙岱乡	1
+sha die yang rou chuan	沙嗲羊肉串	1
+sha er hu re zhen	沙尔呼热镇	1
+sha fa cheng shang jie	沙发城上街	1
+sha gan chun pian	鲨肝醇片	1
+sha gang xiang	沙岗乡	1
+sha ge ta xiang	沙圪塔乡	1
+sha gong gu fen	厦工股份	1
+sha guo pang xie	砂锅螃蟹	1
+sha guo you yu	砂锅鱿鱼	1
+sha he pu lu kou	沙河铺路口	1
+sha hu xiang	沙湖乡	1
+sha ji hai kuang qu	砂吉海矿区	1
+sha ji zi you ruan jiao nang	沙棘籽油软胶囊	1
+sha jia bang cun	沙家浜村	1
+sha jia dian zhen	沙家店镇	1
+sha jiao lu kou	沙滘路口	1
+sha jiao yi yuan	沙滘医院	1
+sha jin cao lv zhu shu yi	纱巾草履竹疏衣	1
+sha jin xi cun ji	杀尽西村鸡	1
+sha la hai xian juan	沙拉海鲜卷	1
+sha la li	莎拉李	1
+sha liu nan lu	沙柳南路	1
+sha mo zhang er lu	沙漠长耳鹿	1
+sha nai	纱奈	1
+sha neng jie	沙能街	1
+sha ping cao lv jian li xi	沙平草绿见吏稀	1
+sha ping shui xi sheng ying jue	沙平水息声影绝	1
+sha qi san shi zuo zhen yun	杀气三时作阵云	1
+sha ren ru bu neng ju	杀人如不能举	1
+sha ren ru jian cao	杀人如剪草	1
+sha ren yi ting yu ren	杀人以梃与刃	1
+sha san miao yu san wei	杀三苗于三危	1
+sha shang hang ren que hui shou	沙上行人却回首	1
+sha shi dao	沙市道	1
+sha shi dao ying chun li	沙市道迎春里	1
+sha shi luan piao yang	沙石乱飘扬	1
+sha tou jiao zhen zheng fu	沙头角镇政府	1
+sha tuan yan hong shui	杀湍湮洪水	1
+sha wo cun wei hui	沙窝村委会	1
+sha wo jiao zhi da yu tou	沙窝椒汁大鱼头	1
+sha wo qiao bei	沙窝桥北	1
+sha wo qiao dong	沙窝桥东	1
+sha wo qiao xi	沙窝桥西	1
+sha wo she qu	沙窝社区	1
+sha wu lai	沙勿来	1
+sha yue jie	沙跃街	1
+sha zhan yu	沙展鱼	1
+sha ba ban ye zhi hu	沙坝半叶趾虎	0
+sha bi	沙赑	0
+sha da zhi xi	砂大指鱚	0
+sha di da yan zhang chun	沙地大眼长蝽	0
+sha jia xiao mo xiang jing	沙加小抹香鲸	0
+sha lao yue hai tun	沙劳越海豚	0
+sha lei shi bo yu	沙勒氏搏鱼	0
+sha li mao shou chong	沙鳢锚首虫	0
+sha li zhai hei pi zhu	沙里寨黑皮猪	0
+sha li zhai hei zhu	沙里寨黑猪	0
+sha lin di xian lie	沙林低线鱲	0
+sha long xie wei jiao	沙龙蝎尾蕉	0
+sha lou yu luo	沙漏芋螺	0
+sha lou zhuang zhi zhu	沙漏状蜘蛛	0
+sha meng yu	沙鯭鱼	0
+sha mi shou chi e	沙弥绶尺蛾	0
+sha mo dong wu qiu sheng ji	沙漠动物求生记	0
+sha mo lan zhen zhu jiang	沙漠蓝珍珠鳉	0
+sha mo mian wei tu	沙漠棉尾兔	0
+sha mo zhang er fu	沙漠长耳蝠	0
+sha mo zhu feng	沙漠蛛蜂	0
+sha mo zhu ru cang shu	沙漠侏儒仓鼠	0
+sha mu shi ye man	杉木始叶螨	0
+sha mu xin dong yang jin lin yu	莎姆新东洋金鳞鱼	0
+sha nang ban kou xian chong	砂囊瓣口线虫	0
+sha qi sai man yuan dong qi	沙七鳃鳗远东七	0
+sha shi xia zhen	沙氏下鱵	0
+sha shi xiao mao rong	沙氏小矛戎	0
+sha shi zhi mang chun	沙氏植盲蝽	0
+sha tang ju da shi ying	沙糖桔大实蝇	0
+sha yu wan mei gui bao luo	鲨鱼湾玫瑰宝螺	0
+sha zhu	沙蠋	0
+sha zhu ke	沙蠋科	0

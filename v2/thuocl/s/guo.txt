@@ -1,0 +1,864 @@
+guo jia an quan	国家安全	418214
+guo wu yuan	国务院	401496
+guo jia fa lv	国家法律	372102
+guo you gu	国有股	115613
+guo tu zi yuan bu	国土资源部	110010
+guo jia zhu xi	国家主席	103505
+guo jia gong wu yuan	国家公务员	99772
+guo jia lv you ju	国家旅游局	80245
+guo hou	果后	76813
+guo ji hua	国际化	74559
+guo qi	国企	54248
+guo dao	国道	44011
+guo ji shang	国际上	42843
+guo min jing ji	国民经济	42025
+guo ji ji chang	国际机场	40201
+guo rou	果肉	40084
+guo jia gong zuo ren yuan	国家工作人员	38580
+guo jia chan ye zheng ce	国家产业政策	33223
+guo jia kai fa yin hang	国家开发银行	32983
+guo jing jing	郭晶晶	32920
+guo zi wei	国资委	24451
+guo jiao	果胶	24303
+guo jia gu	国家股	23469
+guo jia ji guan gong zuo ren yuan	国家机关工作人员	22916
+guo you gu jian chi	国有股减持	20787
+guo wu yuan fa zhi ban	国务院法制办	19369
+guo jia ban quan ju	国家版权局	18940
+guo wu yuan xin wen ban gong shi	国务院新闻办公室	16755
+guo zhai	国债	16480
+guo zhen	国珍	16360
+guo ji mao yi	国际贸易	15110
+guo jia zhong yi yao guan li ju	国家中医药管理局	14686
+guo shui ju	国税局	14219
+guo ji tiao yue	国际条约	14109
+guo wu yuan xue wei wei yuan hui	国务院学位委员会	13857
+guo tu zi yuan ju	国土资源局	13376
+guo jia ji gou	国家机构	12848
+guo you du zi gong si	国有独资公司	12525
+guo qiao mi xian	过桥米线	12239
+guo min	过敏	11217
+guo yuan	果园	11117
+guo jia yan cao zhuan mai ju	国家烟草专卖局	10602
+guo jia gong shang zong ju	国家工商总局	10409
+guo jia an quan bu	国家安全部	10270
+guo ku quan	国库券	10156
+guo ji jing ji fa	国际经济法	10032
+guo you hua	国有化	9941
+guo jia hai yang ju	国家海洋局	9150
+guo you chan quan zhuan rang	国有产权转让	8744
+guo jia jing ji an quan	国家经济安全	8691
+guo tie	锅贴	8673
+guo jia dian li gong si	国家电力公司	8351
+guo jia	果佳	7968
+guo jia jian du	国家监督	7124
+guo ji hui yi zhong xin	国际会议中心	6717
+guo you du zi qi ye	国有独资企业	6595
+guo ji min sheng	国计民生	6514
+guo mei	国美	6478
+guo re	过热	6399
+guo jia huan jing bao hu zong ju	国家环境保护总局	6307
+guo de gang	郭德纲	6125
+guo shu zhi	果蔬汁	6104
+guo an	国安	6008
+guo fang da xue	国防大学	5995
+guo jia ce hui ju	国家测绘局	5858
+guo zhai hui gou	国债回购	5416
+guo min shou ru	国民收入	5272
+guo wang	国网	5086
+guo jia gong yuan	国家公园	4891
+guo ni he	过拟合	4818
+guo kui	锅盔	4814
+guo bian	锅边	4605
+guo jia jiao yu wei yuan hui	国家教育委员会	4280
+guo you du zi shang ye yin hang	国有独资商业银行	4090
+guo jia gan yu	国家干预	4031
+guo tai	国泰	3940
+guo ji gong cheng cheng bao	国际工程承包	3842
+guo jia tong yi si fa kao shi	国家统一司法考试	3667
+guo jia xin wen chu ban shu	国家新闻出版署	3554
+guo ji xing shi fa yuan	国际刑事法院	3504
+guo jia wai hui guan li ju	国家外汇管理局	3167
+guo jia dang an ju	国家档案局	3121
+guo tai jun an	国泰君安	3024
+guo jia tu shu guan	国家图书馆	2996
+guo dian	国电	2941
+guo bu qi ran	果不其然	2882
+guo fa	国发	2828
+guo ji fu wu mao yi	国际服务贸易	2816
+guo min fan ying	过敏反应	2761
+guo jia wai guo zhuan jia ju	国家外国专家局	2715
+guo jia ji hua wei yuan hui	国家计划委员会	2689
+guo yao	国药	2666
+guo duan	过段	2573
+guo huo	国货	2376
+guo jia ji ben yao wu zhi du	国家基本药物制度	2308
+guo yi bu qu	过意不去	2255
+guo ji zhan lan zhong xin	国际展览中心	2247
+guo jing ming	郭敬明	2172
+guo xin	国信	2164
+guo guan zhan jiang	过关斩将	2073
+guo tai min an	国泰民安	1997
+guo di	锅底	1994
+guo du xiao guo	过渡效果	1972
+guo mo ruo	郭沫若	1948
+guo cheng fen xi	过程分析	1932
+guo ji da jiu dian	国际大酒店	1890
+guo du pi lao	过度疲劳	1882
+guo wu yuan gang ao ban	国务院港澳办	1876
+guo du dong hua	过渡动画	1822
+guo tao	郭涛	1771
+guo min ti zhi	过敏体质	1747
+guo jia si fa kao shi da gang	国家司法考试大纲	1704
+guo lv qi	过滤器	1700
+guo jia tu di du cha zhi du	国家土地督察制度	1669
+guo ying gong si	国营公司	1544
+guo jia bu chang	国家补偿	1518
+guo jia tu di guan li ju	国家土地管理局	1511
+guo ji da sha	国际大厦	1499
+guo jia jing ji zheng ce	国家经济政策	1491
+guo yang hua ben jia xian	过氧化苯甲酰	1453
+guo tou	国投	1392
+guo fang dong yuan wei yuan hui	国防动员委员会	1357
+guo jie lao shu	过街老鼠	1347
+guo you bu ji	过犹不及	1294
+guo jia huo bi zheng ce	国家货币政策	1284
+guo jia an quan gong zuo	国家安全工作	1251
+guo qi shu ju	过期数据	1241
+guo jia jie gou	国家结构	1240
+guo zu bu qian	裹足不前	1240
+guo dan pi	果丹皮	1215
+guo jia fa guan xue yuan	国家法官学院	1194
+guo fu cheng	郭富城	1181
+guo jia he an quan ju	国家核安全局	1134
+guo qiang	郭强	1133
+guo hua	国华	1119
+guo dong bu ding	果冻布丁	1072
+guo zheng zong	裹蒸粽	1066
+guo jia ji ben yao wu mu lu	国家基本药物目录	1039
+guo cheng kong zhi	过程控制	1036
+guo jia neng yuan wei yuan hui	国家能源委员会	1018
+guo ji hua yuan	国际花园	992
+guo jia gong zheng	国家公证	990
+guo bao rou	锅包肉	985
+guo mu bu wang	过目不忘	962
+guo jia kong bu zhu yi	国家恐怖主义	958
+guo min xing xiu ke	过敏性休克	921
+guo wu guan zhan liu jiang	过五关斩六将	916
+guo zi jian	国子监	864
+guo li cha	果粒茶	848
+guo tang	果糖	842
+guo ji shang xue yuan	国际商学院	839
+guo leng	过冷	822
+guo wei	郭威	788
+guo ba cai	锅巴菜	774
+guo you rou	过油肉	754
+guo jia jing ji wei yuan hui	国家经济委员会	730
+guo ji ren quan fa	国际人权法	726
+guo cong shen mi	过从甚密	720
+guo jia ji xie gong ye ju	国家机械工业局	708
+guo min xing ji bing	过敏性疾病	708
+guo zhai zhuan xiang zi jin	国债专项资金	694
+guo wu yuan zheng quan wei yuan hui	国务院证券委员会	687
+guo jia wei sheng cheng shi biao zhun	国家卫生城市标准	684
+guo ji xi guan	国际习惯	675
+guo se tian xiang	国色天香	664
+guo min shi	过敏史	601
+guo jia ti yu guan	国家体育馆	599
+guo jia gong wu yuan fa	国家公务员法	596
+guo xiao chuan	郭小川	588
+guo jia jie gou xing shi	国家结构形式	584
+guo jia cai zheng zheng ce	国家财政政策	581
+guo bing	锅饼	569
+guo mao da sha	国贸大厦	562
+guo yan yun yan	过眼云烟	558
+guo du dai	过渡带	556
+guo jia shen pan ji guan	国家审判机关	556
+guo jing	郭靖	541
+guo wu yuan zu zhi fa	国务院组织法	523
+guo jia bao mi fa	国家保密法	516
+guo ji lie che	国际列车	510
+guo yang hua qing	过氧化氢	492
+guo jia qing gong ye ju	国家轻工业局	479
+guo jia guo nei mao yi ju	国家国内贸易局	471
+guo fu min qiang	国富民强	470
+guo cheng yu yan	过程语言	469
+guo jia bian jie	国家边界	467
+guo jia	郭佳	454
+guo hua	郭华	432
+guo ji sai che chang	国际赛车场	431
+guo cheng gai jin	过程改进	427
+guo ji yin hang	国际银行	426
+guo zhan zhong xin	国展中心	425
+guo ji jia shi zhi zhao	国际驾驶执照	413
+guo nan dang tou	国难当头	413
+guo gong zhuang	郭公庄	411
+guo cheng mo xing	过程模型	406
+guo cai pi fa shi chang	果菜批发市场	404
+guo pin shi chang	果品市场	400
+guo ran ru ci	果然如此	394
+guo zhi ruan tang	果汁软糖	393
+guo jing gong lu	过境公路	384
+guo you nong chang shui fei gai ge	国有农场税费改革	383
+guo lu chang	锅炉厂	381
+guo jia gong su ren	国家公诉人	380
+guo ying	果蝇	379
+guo jia wei xian fei wu ming lu	国家危险废物名录	376
+guo gai mian	锅盖面	372
+guo mao zhong xin	国贸中心	367
+guo ji hang kong gang	国际航空港	354
+guo jia mei tan gong ye ju	国家煤炭工业局	352
+guo min yin hang	国民银行	352
+guo he chai qiao	过河拆桥	337
+guo chang	果场	325
+guo min xing xiao chuan	过敏性哮喘	320
+guo zhai fa	国债法	318
+guo zhuang	郭庄	316
+guo shou jing	郭守敬	307
+guo ji jin rong bao	国际金融报	305
+guo lei	郭磊	305
+guo he wen ti	过河问题	295
+guo ji chuang mo xie hui	国际窗膜协会	292
+guo luo zhou	果洛州	292
+guo cheng fen xiang	过程分享	291
+guo jia zhi jie tou zi	国家直接投资	291
+guo you zi chan chan quan jie ding	国有资产产权界定	288
+guo zi ju	国资局	286
+guo you hua zheng ce	国有化政策	283
+guo yang hua wu	过氧化物	282
+guo ji fa zhan yuan zhu	国际发展援助	279
+guo xiao dong	郭晓冬	279
+guo ji chong fu zheng shui	国际重复征税	277
+guo yan yan yun	过眼烟云	274
+guo tong	国通	272
+guo jia dong liang	国家栋梁	261
+guo ci kou	郭茨口	259
+guo jiang zhi ji	过江之鲫	258
+guo chong	过冲	254
+guo wu yuan wai shi ban	国务院外事办	250
+guo fu lun	国富论	249
+guo jia neng yuan tou zi gong si	国家能源投资公司	247
+guo tu zi yuan ting zheng gui ding	国土资源听证规定	246
+guo ba rou pian	锅巴肉片	241
+guo ji wang qiu zhong xin	国际网球中心	238
+guo jia jian she yong di	国家建设用地	238
+guo tie jiao	锅贴饺	235
+guo jia chu ban ju	国家出版局	229
+guo lv te shu zi fu	过滤特殊字符	228
+guo bian hu	锅边糊	225
+guo ji fa yuan gui yue	国际法院规约	225
+guo yang hua gai	过氧化钙	222
+guo cheng shu ju	过程数据	219
+guo jia ji liang ju	国家计量局	219
+guo ren zhang	果仁张	219
+guo jia fang zhi gong ye ju	国家纺织工业局	216
+guo cu	果醋	213
+guo ji huo wu yun shu bao xian	国际货物运输保险	210
+guo ji zhi shi chan quan fa	国际知识产权法	208
+guo po jia wang	国破家亡	208
+guo jia ji ben yang lao bao xian	国家基本养老保险	207
+guo ci	国瓷	204
+guo ji xue shu jiao liu zhong xin	国际学术交流中心	203
+guo jia ren shi ju	国家人事局	202
+guo shi qiang	郭士强	201
+guo mei dian qi	国美电器	199
+guo jia ye jin gong ye ju	国家冶金工业局	192
+guo jia jin chu kou yin hang	国家进出口银行	191
+guo hui	郭徽	183
+guo zhi	粿汁	183
+guo jia chan ye ji shu zheng ce	国家产业技术政策	182
+guo min xing zi dian	过敏性紫癜	178
+guo ji shi di gong yue	国际湿地公约	176
+guo xi	郭溪	171
+guo song min	郭松民	170
+guo jia tuo	郭家沱	169
+guo jie lou	过街楼	167
+guo jia li xing jie yue	国家厉行节约	164
+guo zi bin	郭子斌	163
+guo bao he	过饱和	162
+guo sheng	郭胜	162
+guo jiang bu guo	国将不国	161
+guo mian yi chang	国棉一厂	158
+guo huo lu	国货路	157
+guo ji zhi wu bao hu gong yue	国际植物保护公约	157
+guo ji xin yong dan bao	国际信用担保	152
+guo wu yuan xin fang tiao li	国务院信访条例	152
+guo chou jia hen	国仇家恨	148
+guo ying lin chang	国营林场	146
+guo zhai yi ji zi ying shang	国债一级自营商	145
+guo ji xing shi fa yuan gui yue	国际刑事法院规约	140
+guo ji shang shi zhong cai fa	国际商事仲裁法	136
+guo jia nong ye wei yuan hui	国家农业委员会	136
+guo ding lu	国定路	129
+guo min xing jie mo yan	过敏性结膜炎	129
+guo ge li	果戈理	125
+guo ta dou fu	锅塌豆腐	124
+guo tian cai	郭添财	124
+guo yi min wei ben	国以民为本	124
+guo zhong	国中	123
+guo cheng	郭成	119
+guo lian an	国联安	117
+guo ji zhi fu shou duan	国际支付手段	113
+guo bi ting	郭碧婷	112
+guo zi yi	郭子仪	112
+guo ji zhi shi chan quan zhi du	国际知识产权制度	111
+guo jia cun	郭家村	109
+guo jia di zhen ying ji yu an	国家地震应急预案	109
+guo jia	郭嘉	108
+guo dong	郭东	107
+guo ji ren quan tiao yue	国际人权条约	107
+guo ying	郭颖	105
+guo he lu	国和路	103
+guo dao lu kou	国道路口	102
+guo shao	锅烧	101
+guo yang yi suan	过氧乙酸	100
+guo ying lu	郭应禄	97
+guo jia tong ji ju	国家统计局	96
+guo duo	果多	95
+guo ren jie yue ke sha	国人皆曰可杀	95
+guo yu zi xin guo shi	过于自信过失	95
+guo ji jia	国际家	91
+guo kui mo	锅盔馍	91
+guo shi fan	国事犯	91
+guo xuan	郭绚	90
+guo zhong	郭忠	90
+guo fang gong lu	国防公路	89
+guo sheng	国胜	89
+guo fu rong	郭芙蓉	88
+guo ren sha zhi ye	国人杀之也	86
+guo shao ya	锅烧鸭	86
+guo shi bao zha zui	过失爆炸罪	85
+guo wu ning ri	国无宁日	85
+guo wo	腘窝	84
+guo mian si chang	国棉四厂	83
+guo dong san ming zhi	果冻三明治	81
+guo hua ji nian zhong xue	国华纪念中学	79
+guo er neng gai	过而能改	78
+guo ji hang kong fa	国际航空法	78
+guo jin	郭金	78
+guo zhi ban lv	果汁伴侣	78
+guo shao li yu	锅烧鲤鱼	77
+guo mian liu chang	国棉六厂	76
+guo wei lu	国威路	76
+guo jia zhuang	郭家庄	75
+guo quan bei lu	国权北路	75
+guo jia ji zhuan xiang gui hua	国家级专项规划	74
+guo you cai chan fa	国有财产法	74
+guo ji jing ji he zuo shi wu	国际经济合作实务	72
+guo ji mao yi tiao yue	国际贸易条约	71
+guo min xing pi zhen	过敏性皮疹	71
+guo xiang	国祥	71
+guo qing lu	国庆路	70
+guo ji huo bi jin rong fa	国际货币金融法	68
+guo mian san chang	国棉三厂	68
+guo quan lu	国权路	68
+guo zha	锅渣	68
+guo jia guan xia quan	国家管辖权	67
+guo jia huo mian quan	国家豁免权	67
+guo pin chao	郭品超	66
+guo qing	国清	65
+guo min xing ke sou	过敏性咳嗽	64
+guo po shan he zai	国破山河在	64
+guo shao ji	锅烧鸡	64
+guo hai fu lan ke lin	国海富兰克林	63
+guo neng	国能	63
+guo ba you fen	锅巴油粉	61
+guo ji fa yuan yuan	国际法渊源	61
+guo pu	郭璞	61
+guo fang lu	国防路	60
+guo nan	郭楠	60
+guo shun dong lu	国顺东路	60
+guo wu yuan ke ji gan bu ju	国务院科技干部局	60
+guo you qi ye jing ying quan	国有企业经营权	59
+guo jia zong dong yuan fa	国家总动员法	57
+guo ying qi ye tiao jie shui	国营企业调节税	57
+guo shou mi xian	过手米线	56
+guo ji kong bu zhu yi fan zui	国际恐怖主义犯罪	55
+guo jiang san ming zhi	果酱三明治	55
+guo lu	国路	54
+guo yue hua	郭跃华	54
+guo ji qi ye zhong xin	国际企业中心	53
+guo nei you xian fen bao	国内优先分保	52
+guo ji ji shu zhuan rang he tong	国际技术转让合同	51
+guo jin an	郭晋安	51
+guo gong shan	郭公山	49
+guo zhi ben zai jia	国之本在家	49
+guo cheng tong bu	过程同步	48
+guo mian er chang	国棉二厂	48
+guo shun lu	国顺路	48
+guo xiang	郭襄	48
+guo fang da sha	国防大厦	47
+guo jia zhu xi zhi du	国家主席制度	47
+guo lu cai shen	过路财神	47
+guo mian wu chang	国棉五厂	47
+guo shao hai shen	锅烧海参	47
+guo du lin yue bing	郭杜林月饼	46
+guo ji shang bao	国际商报	46
+guo jia huang jin guan li ju	国家黄金管理局	46
+guo shao zhou zi	锅烧肘子	46
+guo xi	过溪	46
+guo jia wan	郭家湾	45
+guo tai lu	国泰路	44
+guo ying nong mu chang	国营农牧场	44
+guo fang zhuan li tiao li	国防专利条例	43
+guo xi	过西	43
+guo jian	过简	42
+guo zhen	郭振	42
+guo dong yuan xiang	郭东园巷	40
+guo du jie ban	郭杜街办	39
+guo fan sheng	郭凡生	39
+guo ji fa zhan fa	国际发展法	39
+guo ji kou qiang zhong zhi xue hui	国际口腔种植学会	39
+guo jia tun	郭家屯	39
+guo zhuang zi	郭庄子	39
+guo zi rou	果子肉	39
+guo cheng luo ji	过程逻辑	38
+guo ji fa yan jiu yuan	国际法研究院	38
+guo ji min shi guan xia quan	国际民事管辖权	38
+guo ji qiang xing fa	国际强行法	38
+guo ji shang fa xue xi zhi dao	国际商法学习指导	38
+guo jia xing wang pi fu you ze	国家兴亡匹夫有责	38
+guo men bu ru	过门不入	38
+guo shao bai cai	锅烧白菜	38
+guo tong wu liu cheng	国通物流城	38
+guo he zu zi	过河卒子	37
+guo qiao chao shou	过桥抄手	37
+guo zhai fa xing jia ge	国债发行价格	37
+guo jia dian	郭家店	35
+guo kui	锅魁	35
+guo hai feng	郭海峰	34
+guo ba huo shao	郭八火烧	33
+guo ke ying	郭可盈	33
+guo qi ren shen	过期妊娠	32
+guo fang jiao yu zhong xin	国防教育中心	31
+guo jia cheng shi jian she zong ju	国家城市建设总局	31
+guo you rou ban mian	过油肉拌面	31
+guo yuan xin cun	果园新村	31
+guo zhi yu kuai	果汁鱼块	31
+guo ji shang ye cheng	国际商业城	30
+guo fu min an	国富民安	29
+guo tie yu	锅贴鱼	29
+guo wen tao	郭文涛	29
+guo du shi zi	郭杜十字	28
+guo zhao	郭照	28
+guo shao zhu ti er	锅烧猪蹄儿	27
+guo tang yuan	郭汤圆	27
+guo fang	果房	26
+guo mu cheng song	过目成诵	26
+guo nan	郭南	26
+guo wu yuan fu pin kai fa ban	国务院扶贫开发办	26
+guo ying mu chang	国营牧场	26
+guo zhi min	郭智敏	26
+guo er wang jia	国而忘家	25
+guo jia qi	郭家麒	25
+guo ta bo cai	锅塌菠菜	25
+guo yun peng	郭云鹏	25
+guo zhou qun dao	果洲群岛	25
+guo nei jing ji gong zheng	国内经济公证	24
+guo ru lin	郭汝霖	24
+guo shao man	锅烧鳗	24
+guo zheng zong	果蒸棕	24
+guo dian nan rui	国电南瑞	23
+guo ji dian xin gong yue	国际电信公约	23
+guo jia he ying ji yu an	国家核应急预案	23
+guo min xing fei yan	过敏性肺炎	23
+guo shui qiao	过水桥	23
+guo tiao tong	果条筒	23
+guo ting yi	郭廷以	23
+guo cheng	郭晟	22
+guo ji chan pin ze ren fa	国际产品责任法	22
+guo yu	郭于	22
+guo zhen ni	郭珍霓	22
+guo jia bian zhi wei yuan hui	国家编制委员会	21
+guo nei yun ying quan	国内运营权	21
+guo ba san xian	锅巴三鲜	20
+guo gong ping xiang	郭公坪乡	20
+guo gong ting zhan xie ding	国共停战协定	20
+guo jiang jia xin bing	果酱夹心饼	20
+guo mei di yi cheng xiao qu	国美第一城小区	20
+guo qing xin cun	国庆新村	20
+guo tie yu pian	锅贴鱼片	20
+guo yuan	郭园	20
+guo jia xian jin guan li zhi du	国家现金管理制度	19
+guo mian shi qi chang	国棉十七厂	19
+guo gang long	过岗龙	18
+guo ji tuo guan zhi du	国际托管制度	18
+guo ji xi guan zuo fa	国际习惯做法	18
+guo jia zhi quan zhu yi	国家职权主义	18
+guo jiang jia xin bing gan	果酱夹心饼干	18
+guo ru gui	郭汝瑰	18
+guo tai shang chang	国泰商场	18
+guo zi shi	果子市	18
+guo bei cun	郭北村	17
+guo gang	郭岗	17
+guo guang lu	国光路	17
+guo ji shang shi he tong fa	国际商事合同法	17
+guo ji zhi wu ming ming fa gui	国际植物命名法规	17
+guo yang hua wu mei	过氧化物酶	17
+guo ji huo bi fa	国际货币法	16
+guo ji xu ke zheng xie yi	国际许可证协议	16
+guo lin chang	果林场	16
+guo mao bin guan	国贸宾馆	16
+guo xin jia yuan	国信嘉园	16
+guo yong	郭永	16
+guo da shun	郭大顺	15
+guo dong mai	腘动脉	15
+guo ji re dai mu cai xie ding	国际热带木材协定	15
+guo jia gong zhi ren yuan fan zui	国家公职人员犯罪	15
+guo min ke	过敏科	15
+guo min xing jie chang yan	过敏性结肠炎	15
+guo tai jin long	国泰金龙	15
+guo tai jin ying	国泰金鹰	15
+guo zhai	郭宅	15
+guo ce	郭策	14
+guo du gong yu	国都公寓	14
+guo ji jin rong	国际金融	14
+guo jin qian fan jie bu shi	过尽千帆皆不是	14
+guo shi fan zui	国事犯罪	14
+guo tai jin niu	国泰金牛	14
+guo tai shang zheng	国泰上证	14
+guo you lin chang guan li ju	国有林场管理局	14
+guo zi gou mu chang	果子沟牧场	14
+guo cheng yu yi	过程语义	13
+guo fang zhuan li dai li ji gou	国防专利代理机构	13
+guo feng	郭风	13
+guo jiang su	果酱酥	13
+guo yang yi suan rong ye	过氧乙酸溶液	13
+guo you yi nan ke wen shui	国有疑难可问谁	13
+guo jiao zhi mei	果胶酯酶	12
+guo li	郭李	12
+guo li xuan fu yin liao	果粒悬浮饮料	12
+guo qian cun	郭前村	12
+guo tang yin liao	果糖饮料	12
+guo xiang	郭象	12
+guo chun	郭纯	11
+guo jia jing ji zhu quan yuan ze	国家经济主权原则	11
+guo jing lu kou	过境路口	11
+guo shu chang	果树场	11
+guo tai jin qu	国泰进取	11
+guo tou rui yin	国投瑞银	11
+guo xue xiang	国学巷	11
+guo gong	郭公	10
+guo gong jiu	国公酒	10
+guo ji jiao	郭寄峤	10
+guo ji jing ji fa jiao cheng	国际经济法教程	10
+guo jia jin ku zhi du	国家金库制度	10
+guo jia xiang	郭家巷	10
+guo jia zhuan ying qi ye	国家专营企业	10
+guo kui jia lu rou	锅魁夹卤肉	10
+guo mian qi chang	国棉七厂	10
+guo ta pu cai	锅塌蒲菜	10
+guo tai na zhi	国泰纳指	10
+guo ying dong he nong chang	国营东和农场	10
+guo ge zhuang	果各庄	9
+guo jia cai chan huo mian quan	国家财产豁免权	9
+guo jia fang guan ju	国家房管局	9
+guo shan po	过山坡	9
+guo tu zi yuan jian cha yuan	国土资源监察员	9
+guo xiang hu tong	国祥胡同	9
+guo yang	果样	9
+guo ying ma chang	国营马场	9
+guo ying xi lian nong chang	国营西联农场	9
+guo zi xiang	果子巷	9
+guo ban zi	果瓣子	8
+guo er zhuang	郭二庄	8
+guo ji di chu	国籍抵触	8
+guo jia ping	郭家坪	8
+guo jia tan	郭家滩	8
+guo jiang qiao ke li	果酱巧克力	8
+guo jing mai	腘静脉	8
+guo li ping	郭莉萍	8
+guo pin chang	果品厂	8
+guo ren pai gu	果仁排骨	8
+guo wang hu tong	国旺胡同	8
+guo xing lu	国兴路	8
+guo ying dong hong nong chang	国营东红农场	8
+guo ying dong xing nong chang	国营东兴农场	8
+guo ying hong guang nong chang	国营红光农场	8
+guo ying mao yi zhi du	国营贸易制度	8
+guo ze wu dan gai	过则勿惮改	8
+guo zhai cun	郭宅村	8
+guo gou cun	郭沟村	7
+guo he gong si	国合公司	7
+guo ji tou zi	国际投资	7
+guo ji wu qi mao yi tiao li	国际武器贸易条例	7
+guo jia ao	郭家坳	7
+guo jia chang	郭家场	7
+guo jia wu cun	郭家坞村	7
+guo le huang yang jie	过了黄洋界	7
+guo lu xia	锅炉下	7
+guo mian	郭沔	7
+guo min xing xue guan yan	过敏性血管炎	7
+guo quan bao	郭全宝	7
+guo ta huang yu	锅塌黄鱼	7
+guo tai da jiu dian	国泰大酒店	7
+guo tai jin ding	国泰金鼎	7
+guo tang zhu she ye	果糖注射液	7
+guo tu	郭图	7
+guo dong	郭洞	6
+guo ji jing ji fa xi ti ji	国际经济法习题集	6
+guo ji nai zhi pin xie yi	国际奶制品协议	6
+guo ji niu rou xie yi	国际牛肉协议	6
+guo pu sa	郭菩萨	6
+guo qiang lu	国强路	6
+guo tai jin lu	国泰金鹿	6
+guo tian	郭田	6
+guo tong da sha	国通大厦	6
+guo yan wang	国研网	6
+guo yi dong	郭衣洞	6
+guo yin	郭印	6
+guo ying ba yi nong chang	国营八一农场	6
+guo ying wu shi nong chang	国营乌石农场	6
+guo ying xin zhong nong chang	国营新中农场	6
+guo zi chang	果子厂	6
+guo ang	郭昂	5
+guo chun feng shi li	过春风十里	5
+guo gai shan	锅盖山	5
+guo han	郭汉	5
+guo huai	郭淮	5
+guo ji bei ge ge yi qu	国际悲歌歌一曲	5
+guo ji fa zhuan ti yan jiu	国际法专题研究	5
+guo ji hai shi qi zha	国际海事欺诈	5
+guo ji jin rong shi chang	国际金融市场	5
+guo ji rong zi	国际融资	5
+guo jia gou	国家沟	5
+guo jia yao	郭家窑	5
+guo jiao mei zhi ji	果胶酶制剂	5
+guo li yuan	郭里园	5
+guo lou cun	郭楼村	5
+guo ma ying zhen	过马营镇	5
+guo rui xia	郭瑞霞	5
+guo shang xian	郭尚先	5
+guo shi	郭石	5
+guo tai qiao xiang	国太桥乡	5
+guo wa cun	郭洼村	5
+guo wu	郭屋	5
+guo xiang jie dao	郭巷街道	5
+guo yang ben jia xian	过氧苯甲酰	5
+guo ying gui lin yang nong chang	国营桂林洋农场	5
+guo ying hong hua nong chang	国营红华农场	5
+guo ying yang jiang nong chang	国营阳江农场	5
+guo ying zhong kun nong chang	国营中坤农场	5
+guo yuan xi li she qu	果园西里社区	5
+guo zi shan	果子山	5
+guo zi wa	果子洼	5
+guo cheng	郭澄	4
+guo fu	国付	4
+guo gong liang dang lu shan tan pan	国共两党庐山谈判	4
+guo huai yi	郭怀一	4
+guo ji te xu jing ying zhi nan	国际特许经营指南	4
+guo jia ling	郭家岭	4
+guo jia wu	郭家务	4
+guo jia zhuang cun wei hui	郭家庄村委会	4
+guo jiang jin gao	果酱金糕	4
+guo jiang qian chi lang	过江千尺浪	4
+guo jiao lie jie mei	果胶裂解酶	4
+guo keng	郭坑	4
+guo lian xin tuo	国联信托	4
+guo lin bin guan	国林宾馆	4
+guo lu tang	过路塘	4
+guo san dan	锅散丹	4
+guo shan dou fu	锅煽豆腐	4
+guo shan gou	过山沟	4
+guo shao jiao bai	裹烧茭白	4
+guo ta yao he	锅榻腰盒	4
+guo tai jin ma	国泰金马	4
+guo tie ji pian	锅贴鸡片	4
+guo wu yuan shen ji zhang	国务院审计长	4
+guo xi cun	过溪村	4
+guo xue hu tong	国学胡同	4
+guo ying bao guo nong chang	国营保国农场	4
+guo ying luo dou nong chang	国营罗豆农场	4
+guo ying nan bin nong chang	国营南滨农场	4
+guo ying nan tian nong chang	国营南田农场	4
+guo yuan nan dao	果园南道	4
+guo yuan xiang	郭原乡	4
+guo bai cang	郭柏苍	3
+guo chang	郭常	3
+guo chuan lin	郭传林	3
+guo cuo	郭厝	3
+guo gong cun	郭公村	3
+guo ji jing mao yuan qu	国际经贸园区	3
+guo jia gou zhen	郭家沟镇	3
+guo jiang dan gao juan	果酱蛋糕卷	3
+guo jin xing ren jun bu lai	过尽行人君不来	3
+guo jing lu	国京路	3
+guo lin	郭麟	3
+guo lou	郭楼	3
+guo lu ping	过鹿坪	3
+guo mao da jiu dian	国茂大酒店	3
+guo min du su	过敏毒素	3
+guo min xing fu xie	过敏性腹泻	3
+guo nei lv ke lie che	国内旅客列车	3
+guo qian	郭前	3
+guo ran shi men kai	果然石门开	3
+guo shou da sha	国寿大厦	3
+guo si	郭汜	3
+guo si yan	郭思演	3
+guo tie shi ban jia	锅贴石斑夹	3
+guo tou dian chang	国投电厂	3
+guo xin zheng quan	国信证券	3
+guo xin zhuang cun	郭辛庄村	3
+guo xiu	郭琇	3
+guo yan tao tao yun gong wu	过眼滔滔云共雾	3
+guo yang hua ben xian	过氧化苯酰	3
+guo yang ma ye	崞阳麻叶	3
+guo yi	郭奕	3
+guo ying bang xi nong chang	国营邦溪农场	3
+guo ying chang hao nong chang	国营畅好农场	3
+guo ying chang zheng nong chang	国营长征农场	3
+guo ying dong chang nong chang	国营东昌农场	3
+guo ying hong lin nong chang	国营红林农场	3
+guo ying lan yang nong chang	国营蓝洋农场	3
+guo ying le guang nong chang	国营乐光农场	3
+guo ying nan feng nong chang	国营南俸农场	3
+guo ying nan xin nong chang	国营南新农场	3
+guo ying san jiang nong chang	国营三江农场	3
+guo ying xi pei nong chang	国营西培农场	3
+guo ying xin ying nong chang	国营新盈农场	3
+guo ying zhong jian nong chang	国营中建农场	3
+guo yuan dong lu	果园东路	3
+guo yuan xiang	果园巷	3
+guo zhang shun	郭长顺	3
+guo zi zhang	郭子章	3
+guo du xiang	过渡相	2
+guo en	郭恩	2
+guo fu	郭郛	2
+guo he yi cun	国和一村	2
+guo ji fa lv fu wu mao yi	国际法律服务贸易	2
+guo ji mian yi	过继免疫	2
+guo ji shui shou guan xia quan	国籍税收管辖权	2
+guo jia ding liang shui	国家定两税	2
+guo jia she cun	郭家厍村	2
+guo jia ti yu zong ju she qu	国家体育总局社区	2
+guo jiang ka fei	果酱咖啡	2
+guo keng cun	郭坑村	2
+guo kui la zi	锅盔辣子	2
+guo li hong	郭励弘	2
+guo lian an shuang xi	国联安双禧	2
+guo lu ping zhen	过鹿坪镇	2
+guo min zhu zhai tiao li	国民住宅条例	2
+guo ming qiang	郭明强	2
+guo pu cun	郭埔村	2
+guo qiao niu bai ye	过桥牛百叶	2
+guo ren jia xin dan gao	果仁夹心蛋糕	2
+guo ren yuan	郭任远	2
+guo ru long	郭汝龙	2
+guo shi cheng bu cheng	国事成不成	2
+guo tai shuang li	国泰双利	2
+guo wei xiang	郭圩乡	2
+guo xing guang dian	国星光电	2
+guo yang xin neng	国阳新能	2
+guo yi	郭翼	2
+guo yi yin yu	锅熠银鱼	2
+guo ying dong tai nong chang	国营东太农场	2
+guo ying dun huang nong chang	国营敦煌农场	2
+guo ying guang ba nong chang	国营广坝农场	2
+guo ying jia chai nong chang	国营加钗农场	2
+guo ying ling men nong chang	国营岭门农场	2
+guo ying long shan nong chang	国营龙山农场	2
+guo ying nan dao nong chang	国营南岛农场	2
+guo ying nan ping nong chang	国营南平农场	2
+guo ying shan rong nong chang	国营山荣农场	2
+guo ying tai ping nong chang	国营太平农场	2
+guo ying xi qing nong chang	国营西庆农场	2
+guo ying zhong rui nong chang	国营中瑞农场	2
+guo yuan bei dao	果园北道	2
+guo zhi bo	郭智博	2
+guo zhi jian rou pu	果汁煎肉脯	2
+guo zhi niu rou pian	果汁牛肉片	2
+guo zhi suo cun zhe	国之所存者	2
+guo bai dong ting ju	果擘洞庭橘	1
+guo bi	郭畀	1
+guo chao sheng wen zhang	国朝盛文章	1
+guo cheng kong zhi yi biao ji shu	过程控制仪表技术	1
+guo cun cun wei hui	郭村村委会	1
+guo dao zhi mao	锅岛直茂	1
+guo di cun	锅底村	1
+guo dian nan zi	国电南自	1
+guo fan er wang shi zhi	裹饭而往食之	1
+guo fu qiang zhai	国富强债	1
+guo he xiang	郭河乡	1
+guo he xin cun	国和新村	1
+guo hui zi zhi mu	过惠子之墓	1
+guo ji fan dian xi men	国际饭店西门	1
+guo ji jie suan	国际结算	1
+guo ji mao yi fa zhuan lun	国际贸易法专论	1
+guo ji shang wu	国际商务	1
+guo ji shi ye	国际视野	1
+guo ji shou zhi	国际收支	1
+guo ji xiang	郭集乡	1
+guo ji yi yao mao yi	国际医药贸易	1
+guo ji zhuan yi	过继转移	1
+guo jia cun wei hui	郭家村委会	1
+guo jia fa ling zai	国家法令在	1
+guo jia shui shou zhi fa quan	国家税收执法权	1
+guo jia xiang	郭加乡	1
+guo jia yuan zi	郭家院子	1
+guo jian ji li ji	过涧既厉急	1
+guo jiang bai feng gao	果酱白蜂糕	1
+guo jiang shao bing	果酱烧饼	1
+guo jiu tiao	国九条	1
+guo jun kang zhan lian zuo fa	国军抗战连坐法	1
+guo kai sen	郭开森	1
+guo lei bu yi xiang	郭勒布衣乡	1
+guo li jun	郭利君	1
+guo li yuan	郭立源	1
+guo mian wu liu chang	国棉五六厂	1
+guo peng suan na	过硼酸钠	1
+guo pi fa shi chang	果批发市场	1
+guo qi chan er	过期产儿	1
+guo qiang hu tong	锅腔胡同	1
+guo qiang ze zhao gu	国强则赵固	1
+guo ruo ze zhu hou jia bing	国弱则诸侯加兵	1
+guo sheng dao	国盛道	1
+guo shi yin qi zhong du zui	过失引起中毒罪	1
+guo shui chuan lou chu chu ming	过水穿楼触处明	1
+guo su niu rou	锅酥牛肉	1
+guo sui xiang	果遂乡	1
+guo ta ji pian	锅塌鸡片	1
+guo tai hua yuan	国泰花园	1
+guo tai jin peng	国泰金鹏	1
+guo tian cun	郭田村	1
+guo tie ya fang	锅贴鸭方	1
+guo tong gu fen	国统股份	1
+guo wai shi huang he	郭外是黄河	1
+guo wang she qu	国旺社区	1
+guo wu ren mo wo zhi xi	国无人莫我知兮	1
+guo xiao xi	郭小溪	1
+guo xing hu tong	国兴胡同	1
+guo ying da ling nong chang	国营大岭农场	1
+guo ying dong fang hong nong chang	国营东方红农场	1
+guo ying dong lu nong chang	国营东路农场	1
+guo ying dong ping nong chang	国营东平农场	1
+guo ying dong sheng nong chang	国营东升农场	1
+guo ying fu rong tian nong chang	国营芙蓉田农场	1
+guo ying gong ai nong chang	国营公爱农场	1
+guo ying hao te tao hai mu chang	国营浩特陶海牧场	1
+guo ying hong gang nong chang	国营红岗农场	1
+guo ying hong ling nong chang	国营红岭农场	1
+guo ying jin an nong chang	国营金安农场	1
+guo ying nan lin nong chang	国营南林农场	1
+guo ying nan lv nong chang	国营南吕农场	1
+guo ying nan yang nong chang	国营南阳农场	1
+guo ying xi da nong chang	国营西达农场	1
+guo ying xi liu nong chang	国营西流农场	1
+guo ying xin yang nong chang	国营新洋农场	1
+guo ying zi cun	郭营子村	1
+guo yong	郭雍	1
+guo yu kai lou kan wan hong	过雨开楼看晚虹	1
+guo yuan bei qu	果园北区	1
+guo yuan xin li bei qu she qu	果园新里北区社区	1
+guo ze yun	郭则沄	1
+guo zhuang cun wei hui	郭庄村委会	1
+guo zi shi she qu	果子市社区	1
+guo chan rou gu fen	国产肉骨粉	0
+guo huai qian ye e	国槐潜叶蛾	0
+guo huai xiao xian jiao mu du e	国槐小线角木蠹蛾	0
+guo huai ye bing xiao e	国槐叶柄小蛾	0
+guo luo	蜾臝	0
+guo shao ban ming	果梢斑螟	0
+guo tai man	果台螨	0
+guo yi kun	国裔鹍	0
+guo ying fei shu	蜾赢蜚属	0
+guo ying ke	蜾赢科	0

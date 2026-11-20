@@ -1,0 +1,49 @@
+lv nong gan jun	绿脓杆菌	315
+lv qi zhong du	氯气中毒	262
+lv hua na zhu she ye	氯化钠注射液	249
+lv hua hu po dan jian	氯化琥珀胆碱	228
+lv mei su di yan ye	氯霉素滴眼液	207
+lv se guo yuan	绿色果园	155
+lv jiao bu xue ke li	驴胶补血颗粒	147
+lv dan zhuo	氯氮卓	142
+lv hua na rong ye	氯化钠溶液	142
+lv ding er xi	氯丁二烯	121
+lv fen huang min pian	氯芬黄敏片	121
+lv lei ta ding pian	氯雷他定片	121
+lv mei zha tong	氯美扎酮	121
+lv hua jia zhu she ye	氯化钾注射液	117
+lv tan suan mei pian	铝碳酸镁片	117
+lv mei su zhu she ye	氯霉素注射液	108
+lv bing kui	吕炳奎	103
+lv hua ya gong	氯化亚汞	103
+lv bing mi qin	氯丙咪嗪	91
+lv bing xi	氯丙烯	91
+lv cuo chuang	氯痤疮	91
+lv huang bing niao	氯磺丙脲	91
+lv pao xing lin ba liu	滤泡性淋巴瘤	91
+lv bing na lin	氯丙那林	84
+lv jie lin ding	氯解磷定	84
+lv lei ta ding jiao nang	氯雷他定胶囊	84
+lv mei zha tong pian	氯美扎酮片	84
+lv lei ta ding tang jiang	氯雷他定糖浆	76
+lv pai si ting	氯哌斯汀	76
+lv sha tan jia pian	氯沙坦钾片	76
+lv tan suan mei ju jue pian	铝碳酸镁咀嚼片	76
+lv xiao xi pan pian	氯硝西泮片	76
+lv hua na di yan ye	氯化钠滴眼液	66
+lv huang bing niao pian	氯磺丙脲片	66
+lv jiao bu xue chong ji	驴胶补血冲剂	66
+lv lin suan er na jiao nang	氯膦酸二钠胶囊	66
+lv mei jia hun xuan ye	铝镁加混悬液	66
+lv tan suan mei ke li	铝碳酸镁颗粒	66
+lv xing zhe fu xie	旅行者腹泻	66
+lv yi xi zhong du	氯乙烯中毒	66
+lv di yun tong	氯地孕酮	51
+lv hua jia huan shi pian	氯化钾缓释片	51
+lv jie lin ding zhu she ye	氯解磷定注射液	51
+lv lei ta ding ju jue pian	氯雷他定咀嚼片	51
+lv ma si ting	氯马斯汀	51
+lv nong gan jun xing fei yan	绿脓杆菌性肺炎	51
+lv pao shang pi xi bao	滤泡上皮细胞	51
+lv xi ci mi	氯烯雌醚	51
+lv zuo xi lin na	氯唑西林钠	51

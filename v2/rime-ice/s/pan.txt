@@ -1,0 +1,810 @@
+pan jue	判决	693724
+pan duan	判断	500409
+pan ding	判定	130720
+pan sheng	攀升	88175
+pan deng	攀登	85200
+pan zhong	盘中	80230
+pan chu	判处	78770
+pan jue shu	判决书	76150
+pan wang	盼望	62705
+pan dian	盘点	59355
+pan yan	攀岩	51155
+pan pian	盘片	48710
+pan zi	盘子	47620
+pan ni	叛逆	40645
+pan shang	盘上	34810
+pan huo	盘活	34225
+pan zhi hua	攀枝花	31460
+pan mian	盘面	31085
+pan bie	判别	29915
+pan bi	攀比	29800
+pan fu	盘符	28940
+pan luan	叛乱	27145
+pan zheng	盘整	25295
+pan duan li	判断力	25255
+pan jun	叛军	22960
+pan li	判例	22675
+pan pa	攀爬	22560
+pan tu	叛徒	22400
+pan gu	盘古	21905
+pan yu qu	番禺区	21650
+pan ling	判令	21635
+pan ji wen	潘基文	21464
+pan jin lian	潘金莲	20350
+pan suan	盘算	20210
+pan duan shi fou	判断是否	19655
+pan duan neng li	判断能力	18665
+pan zhe	盼着	18600
+pan wen	盘问	17390
+pan jue sheng xiao	判决生效	17213
+pan duan ti	判断题	16940
+pan guan	判官	15965
+pan xing	判刑	15705
+pan wang zhe	盼望着	15535
+pan shang	攀上	15500
+pan long	盘龙	14500
+pan bian	叛变	13915
+pan chu si xing	判处死刑	13880
+pan zhi hua shi	攀枝花市	13495
+pan wei bo	潘玮柏	13350
+pan pan	盼盼	13180
+pan shi	磐石	12570
+pan gang gang fan	攀钢钢钒	12500
+pan suan zhe	盘算着	12330
+pan shan	蹒跚	12310
+pan fa	判罚	11985
+pan tan	攀谈	11815
+pan li	盘里	11570
+pan ju	盘踞	11490
+pan gang	攀钢	11475
+pan gen	盘根	10620
+pan nei	盘内	10430
+pan duan biao zhun	判断标准	10270
+pan tui	盘腿	10115
+pan cuo	盘错	9999
+pan huan	盘桓	9999
+pan jie	盘结	9999
+pan jiu	盘究	9999
+pan kong	盘空	9999
+pan kou	盘口	9999
+pan luo	盘落	9999
+pan ruo hong gou	判若鸿沟	9999
+pan ruo tian yuan	判若天渊	9999
+pan ta	盘他	9999
+pan xuan	盘旋	9999
+pan zui	判罪	9999
+pan zuo	盘坐	9999
+pan jia yuan	潘家园	9850
+pan jin shi	盘锦市	9765
+pan tao	蟠桃	9605
+pan xian sheng	潘先生	9370
+pan duo la	潘多拉	9160
+pan gao	攀高	9135
+pan zi li	盘子里	9010
+pan ta	盼他	8888
+pan ni de	叛逆的	8620
+pan cha	盘查	8385
+pan ying	盘盈	7965
+pan ruo liang ren	判若两人	7900
+pan xia	盘下	7465
+pan an	判案	7430
+pan zai	盘在	7410
+pan jue jie guo	判决结果	7405
+pan tao	叛逃	7395
+pan jue hou	判决后	7245
+pan bo	盘剥	7215
+pan wei	判为	7095
+pan gu zhi bai	盘古之白	6666
+pan le	判了	6666
+pan yuan	攀缘	6620
+pan xi	盘膝	6390
+pan lai	盼来	6175
+pan dao	盼到	6020
+pan dai	盘带	5935
+pan chan	盘缠	5760
+pan qi	盘起	5750
+pan dao le	盼到了	5735
+pan chang jiang	潘长江	5660
+pan ming	判明	5525
+pan shan gong lu	盘山公路	5230
+pan rao	盘绕	5190
+pan tian shou	潘天寿	4970
+pan du	判读	4930
+pan ting	潘婷	4925
+pan guo	叛国	4890
+pan fu	攀附	4855
+pan gei	判给	4790
+pan dian ji	盘点机	4780
+pan wang yi jiu	盼望已久	4680
+pan gen cuo jie	盘根错节	4670
+pan deng zhe	攀登者	4415
+pan duan shi wu	判断失误	4240
+pan an xian	磐安县	4085
+pan xiao	潘晓	3730
+pan tong	潘通	3700
+pan ni	盼你	3630
+pan jue zhi xing	判决执行	3547
+pan si xing	判死刑	3445
+pan yu shi	番禺市	3395
+pan ge	判个	3333
+pan pa de nan ren	攀爬的男人	3333
+pan pa de nv ren	攀爬的女人	3333
+pan pa de ren	攀爬的人	3333
+pan rao shi zha yu bing	盘绕式炸鱼饼	3333
+pan tui de nan ren	盘腿的男人	3333
+pan tui de nv ren	盘腿的女人	3333
+pan yan zhe	攀岩者	3333
+pan ze	判责	3333
+pan dang	叛党	3330
+pan zhe	盘着	3248
+pan chu wu qi tu xing	判处无期徒刑	3205
+pan xian	盘县	3200
+pan shan xue bu	蹒跚学步	3160
+pan yue	攀越	3085
+pan duan cuo wu	判断错误	3075
+pan tou	盘头	3025
+pan cheng	盘成	2945
+pan long qu	盘龙区	2830
+pan ni zhe	叛逆者	2805
+pan si dong	盘丝洞	2700
+pan sheng	盘升	2690
+pan ci	判词	2650
+pan zhe	攀着	2630
+pan guan bi	判官笔	2525
+pan fen	判分	2480
+pan duan shi fei	判断是非	2450
+pan die	盘跌	2355
+pan tou	盼头	2305
+pan shan lu	盘山路	2285
+pan duan zheng que	判断正确	2280
+pan men	盘门	2240
+pan chu	盘初	2225
+pan shan	攀山	2222
+pan yan yun dong	攀岩运动	2135
+pan zhu	攀住	2130
+pan geng	盘庚	2105
+pan zhi	攀枝	2090
+pan en	潘恩	2065
+pan shan zhe	蹒跚着	2030
+pan jia wan	潘家湾	2005
+pan shi	盘式	2003
+pan zhe	攀折	1905
+pan ding gui ze	判定规则	1870
+pan jiang	叛将	1870
+pan di	盘底	1825
+pan zi shang	盘子上	1690
+pan zhong can	盘中餐	1670
+pan dao	攀到	1645
+pan che	盘车	1635
+pan tong se ka	潘通色卡	1625
+pan fu	盼复	1600
+pan shan xian	盘山县	1585
+pan ku	盘库	1575
+pan zei	叛贼	1575
+pan dao	盘道	1545
+pan yang	盘羊	1545
+pan shi shi	磐石市	1540
+pan li	叛离	1535
+pan xi er zuo	盘膝而坐	1535
+pan qin	攀亲	1510
+pan shan	盘山	1500
+pan xing	盘形	1500
+pan jue li hun	判决离婚	1450
+pan dong zi	潘冬子	1440
+pan tuo	盘陀	1365
+pan han nian	潘汉年	1335
+pan luan fen zi	叛乱分子	1335
+pan jue li you	判决理由	1330
+pan ni xing	叛逆性	1305
+pan ju	判据	1234
+pan chi	泮池	1215
+pan long cheng	盘龙城	1200
+pan tai ke si	潘太克斯	1195
+pan duan ju	判断句	1180
+pan jia wan lu	潘家湾路	1180
+pan gu kai tian di	盘古开天地	1165
+pan guo zui	叛国罪	1120
+pan fa	盘发	1111
+pan ma wan gong	盘马弯弓	1111
+pan wu	攀诬	1111
+pan long fu feng	攀龙附凤	1105
+pan gu kai tian pi di	盘古开天辟地	1060
+pan ji qu	潘集区	1060
+pan guo	攀过	1040
+pan ji	潘集	1035
+pan shan de zou	蹒跚地走	1035
+pan jia kou	潘家口	1020
+pan zhi	攀至	1015
+pan xi jiu jia	泮溪酒家	1010
+pan dian	盘店	999
+pan er cai	盘儿菜	999
+pan ti	盘梯	999
+pan jiao	叛教	970
+pan luan zhe	叛乱者	970
+pan tao hui	蟠桃会	970
+pan ju zhe	盘踞着	960
+pan duo la de he zi	潘多拉的盒子	950
+pan chu tu xing	判处徒刑	915
+pan tao sheng hui	蟠桃盛会	910
+pan qu	盘曲	890
+pan fei	叛匪	870
+pan er	盘儿	855
+pan ruo	判若	815
+pan duan su shu	判断素数	800
+pan ran	判然	785
+pan deng gao feng	攀登高峰	770
+pan shan er xing	蹒跚而行	750
+pan fu lu	盘福路	715
+pan xiang	盘香	695
+pan yuan liang	潘源良	695
+pan yun	盼云	685
+pan deng shang	攀登上	675
+pan shu	攀树	675
+pan jie	盘诘	655
+pan hou da yi	判后答疑	636
+pan pa si cao yuan	潘帕斯草原	635
+pan hou jiao yi	盘后交易	615
+pan yun	盘运	610
+pan ni xi lin	盘尼西林	595
+pan bie shi	判别式	590
+pan bie fen xi	判别分析	578
+pan jue bu fu	判决不服	570
+pan gao zhi	攀高枝	555
+pan gao zhi er	攀高枝儿	555
+pan bu dao	盼不到	550
+pan huo	盘货	550
+pan an	潘安	545
+pan li	判离	545
+pan yu xian	番禺县	545
+pan zhu	盘住	540
+pan jiang	盘江	525
+pan rao shi	盘绕式	519
+pan bing	叛兵	515
+pan gui	盼归	515
+pan yuan zhi wu	攀缘植物	505
+pan bie mo xing	判别模型	502
+pan mai	叛卖	500
+pan cheng	盘秤	470
+pan gui	攀桂	450
+pan ruo yun ni	判若云泥	450
+pan yan	攀沿	450
+pan zhe tui	盘着腿	450
+pan hong	潘虹	425
+pan xing	潘姓	420
+pan xuan zhe	盘旋着	410
+pan jia yuan qiao	潘家园桥	390
+pan rao zhe	盘绕着	390
+pan zhai	攀摘	390
+pan geng qian yin	盘庚迁殷	385
+pan yong feng	潘勇锋	385
+pan yun hui	潘允辉	385
+pan jue wu zui	判决无罪	375
+pan gen	盘亘	370
+pan zhuang wu	盘状物	369
+pan tou ma	盘头马	360
+pan shen	盘身	355
+pan qing le	判轻了	321
+pan zhong le	判重了	321
+pan ka luo	潘卡罗	315
+pan sun huai	盘损坏	315
+pan yu guang chang	番禺广场	313
+pan cheng	判成	310
+pan chuan	盘川	300
+pan yue ming	潘粤明	300
+pan ni xing wei	叛逆行为	285
+pan bie shi fei	判别是非	275
+pan zhang	盘账	260
+pan gong	泮宫	250
+pan jin	盘锦	243
+pan jue quan	判决权	233
+pan bie han shu	判别函数	230
+pan you	盘游	215
+pan duan xian duan xiang jiao	判断线段相交	211
+pan li hui bian	判例汇编	210
+pan sun shi	盘飧市	208
+pan che	攀扯	200
+pan long cheng yi zhi	盘龙城遗址	200
+pan long cai	盘龙菜	194
+pan fei luo fu	潘菲洛夫	189
+pan min rui	潘敏锐	187
+pan zhen qi	潘臻琦	187
+pan he	潘和	184
+pan xi ming	潘喜明	183
+pan wang lu	潘王路	182
+pan xiao ting	潘晓婷	182
+pan de hao	判的好	181
+pan bu liao	判不了	175
+pan jie lie ye fu	潘捷列耶夫	175
+pan jun wen	潘俊文	175
+pan si zui	判死罪	175
+pan bo wen	潘博文	170
+pan nong	盘弄	170
+pan yu shi qiao	番禺市桥	168
+pan wang jie	盘王节	167
+pan dong sheng	潘东升	164
+pan ying zi	潘迎紫	159
+pan qu jiu	潘趣酒	158
+pan gu zhen	盘古镇	153
+pan yu wu jian	叛狱无间	149
+pan he tao	盘核桃	148
+pan si bing	盘丝饼	148
+pan wang	叛亡	140
+pan zhe ne	盼着呢	140
+pan jia hua	潘家华	139
+pan jue ding zui zhun que	判决定罪准确	139
+pan yu run	潘雨润	138
+pan da shuai	潘大帅	136
+pan an zai shi	潘安再世	135
+pan di	叛敌	135
+pan tian xi yue	磐田喜悦	135
+pan tuo lu	盘陀路	135
+pan yu lu	番禺路	132
+pan tian tian	潘甜甜	131
+pan hou	盘后	126
+pan mao yuan	潘懋元	125
+pan shan xing zou	蹒跚行走	125
+pan zhuang	潘庄	123
+pan jia	潘家	122
+pan qiao	潘桥	121
+pan dang pan guo	叛党叛国	120
+pan xing	潘兴	120
+pan ge	潘哥	111
+pan jin lan gu	攀今览古	111
+pan le	盼了	111
+pan mou	潘某	111
+pan sen	潘森	111
+pan wo	盼我	111
+pan duan mo shi	判断模式	110
+pan shen de mi gong	潘神的迷宫	108
+pan jie xi er	潘杰希尔	105
+pan jia cun	潘家村	103
+pan an bang	潘安邦	100
+pan bao jiang	盘包浆	100
+pan bao jiang le	盘包浆了	100
+pan bian ge ming le	叛变革命了	100
+pan bian le	叛变了	100
+pan bin cheng shuang	潘鬓成霜	100
+pan bin shen yao	潘鬓沈腰	100
+pan bu shang	攀不上	100
+pan chan zhe gui	攀蟾折桂	100
+pan chang wen duan	盘长问短	100
+pan che wo zhe	攀车卧辙	100
+pan chen zei zi	叛臣贼子	100
+pan chu le	判处了	100
+pan chu le si xing	判处了死刑	100
+pan chu si xing li ji zhi xing	判处死刑立即执行	100
+pan da li ya	潘达利亚	100
+pan da li ya de mi wu	潘达利亚的迷雾	100
+pan da nai si ji	潘达奈斯基	100
+pan de fu	潘德夫	100
+pan deng jia	攀登架	100
+pan di hua	潘迪华	100
+pan di ji tian	蟠地极天	100
+pan ding wei	判定为	100
+pan dong wen	潘东文	100
+pan duan chu	判断出	100
+pan duan cuo le	判断错了	100
+pan duan hang qing	判断行情	100
+pan duan li xia jiang	判断力下降	100
+pan duan mei cuo	判断没错	100
+pan duan neng li xia jiang	判断能力下降	100
+pan duan yi zhi	判断一致	100
+pan duo jiu	判多久	100
+pan duo la de mo he	潘多拉的魔盒	100
+pan duo la he zi	潘多拉盒子	100
+pan duo la mo he	潘多拉魔盒	100
+pan duo shao	判多少	100
+pan en bei	潘恩蓓	100
+pan fa chi du	判罚尺度	100
+pan fan gui	判犯规	100
+pan fei jin lian	潘妃金莲	100
+pan fu li	攀附力	100
+pan fu quan gui	攀附权贵	100
+pan gang zi	盘杠子	100
+pan gao jie gui	攀高接贵	100
+pan gao jie gui	攀高结贵	100
+pan gao ye gui	攀高谒贵	100
+pan ge he tao	盘个核桃	100
+pan ge si xing	判个死刑	100
+pan gen jiu di	盘根究底	100
+pan gen suo di	盘根索底	100
+pan gong sheng	潘功胜	100
+pan gu he	盘古河	100
+pan gu kai tian	盘古开天	100
+pan gu shi	盘古氏	100
+pan guan xi	攀关系	100
+pan guang yi	潘广益	100
+pan guo lai	攀过来	100
+pan guo qu	攀过去	100
+pan hai da qiao	番海大桥	100
+pan hang wei	潘杭苇	100
+pan hong yue	潘虹樾	100
+pan hua wen liu	攀花问柳	100
+pan hua zhe liu	攀花折柳	100
+pan huan zhe	盘桓着	100
+pan huo cun liang tu di	盘活存量土地	100
+pan huo tu di	盘活土地	100
+pan huo tu di zi yuan	盘活土地资源	100
+pan huo xian zhi tu di	盘活闲置土地	100
+pan ji nian	判几年	100
+pan jia li	潘嘉丽	100
+pan jia xiao zhen	潘家小镇	100
+pan jiang lu hai	潘江陆海	100
+pan jin di qu	盘锦地区	100
+pan jin diao gu	攀今吊古	100
+pan jin diao gu	攀今掉古	100
+pan jin lan gu	攀今揽古	100
+pan jin lian gei wu song jing jiu	潘金莲给武松敬酒	100
+pan jin xiao qu	盘锦校区	100
+pan ju zhang	潘局长	100
+pan kao zai	攀靠在	100
+pan ke fu	潘柯夫	100
+pan kong	判空	100
+pan kou zhi	潘寇之	100
+pan le qi lai	盘了起来	100
+pan le si xing	判了死刑	100
+pan le xing	判了刑	100
+pan le yi bei zi	盼了一辈子	100
+pan le yi nian	盼了一年	100
+pan li jie xi	判例解析	100
+pan lian zhou	潘连周	100
+pan lin fu yi	攀鳞附翼	100
+pan long fu ji	攀龙附骥	100
+pan long ge	盘龙阁	100
+pan long gun	盘龙棍	100
+pan long ju hu	盘龙踞虎	100
+pan long song	蟠龙松	100
+pan long tuo feng	攀龙托凤	100
+pan long wo hu	盘龙卧虎	100
+pan lu jiang hai	潘陆江海	100
+pan lu ke	攀鲈科	100
+pan lu mu	攀鲈目	100
+pan lu shu	攀鲈属	100
+pan luan zui	叛乱罪	100
+pan luo fu mu	攀萝附木	100
+pan lv deng xiao xian	潘驴邓小闲	100
+pan mei chen	潘美辰	100
+pan mian ju shi	盘面局势	100
+pan mian ju shi jiao zhuo	盘面局势胶着	100
+pan ming shi fei	判明是非	100
+pan mu xiu zhu	盘木朽株	100
+pan neng yu jun chang xiang yi	盼能与君长相依	100
+pan ni de	叛逆地	100
+pan ni hai zi xue xiao	叛逆孩子学校	100
+pan ni qi	叛逆期	100
+pan pa xi tong	攀爬系统	100
+pan pa zhe	攀爬者	100
+pan pan da cai	盘盘大才	100
+pan qi lai	判起来	100
+pan qin dao gu	攀亲道故	100
+pan qin yin qi	攀亲引戚	100
+pan qu mu	攀鼩目	100
+pan ran bu he	判然不合	100
+pan rao zai	盘绕在	100
+pan ruo hei bai	判若黑白	100
+pan ruo shui huo	判若水火	100
+pan ruo tian rang	判若天壤	100
+pan ruo yun yuan	判若云渊	100
+pan sen chong zuo	潘森重做	100
+pan shan qian xing	蹒跚前行	100
+pan shan yue ling	攀山越岭	100
+pan shang guan xi	攀上关系	100
+pan shang lai	攀上来	100
+pan shang qu	攀上去	100
+pan shen me	盼什么	100
+pan shi qi	潘时七	100
+pan shi xiao pian ji	盘式削片机	100
+pan shi xing xing jian su ji	盘式行星减速机	100
+pan shi yi	潘石屹	100
+pan shi zhi an	磐石之安	100
+pan shi zhi gu	磐石之固	100
+pan shui jia jian	盘水加剑	100
+pan si da xian	盘丝大仙	100
+pan sun zhi hui	盘飧之惠	100
+pan ta na er	潘塔纳尔	100
+pan tao da hui	蟠桃大会	100
+pan tao sheng hui	蟠桃胜会	100
+pan tao sheng yan	蟠桃盛宴	100
+pan tao shu	蟠桃树	100
+pan tao yan	蟠桃宴	100
+pan tao yu	蟠桃峪	100
+pan teng fu ge	攀藤附葛	100
+pan teng lan ge	攀藤揽葛	100
+pan tian ji di	蟠天际地	100
+pan tuo si	潘托斯	100
+pan wang zhan zheng	盼望战争	100
+pan wei li	潘伟力	100
+pan wei lian	潘威廉	100
+pan wei si chong	蟠尾丝虫	100
+pan wei si chong zheng	蟠尾丝虫症	100
+pan wei yi	潘玮仪	100
+pan wei zhi	潘威志	100
+pan wen yue zhi	潘文乐旨	100
+pan wu xian hai	攀诬陷害	100
+pan xi di qu	攀西地区	100
+pan xia lai	判下来	100
+pan xia qu	判下去	100
+pan xiao feng	潘晓峰	100
+pan xie qing	潘协庆	100
+pan xing xing pan yue liang	盼星星盼月亮	100
+pan xuan er qi	盘旋而起	100
+pan xuan qu zhe	盘旋曲折	100
+pan xue ping	潘雪萍	100
+pan yan fu re	攀炎附热	100
+pan yang zhi mu	潘杨之睦	100
+pan yi ran	潘依然	100
+pan you sheng	潘有声	100
+pan you wu du	盘游无度	100
+pan yu wen	潘裕文	100
+pan yu xue gong	番禺学宫	100
+pan yuan jing	攀缘茎	100
+pan yuan wo zhe	攀辕卧辙	100
+pan yue yun	潘越云	100
+pan yun feng	潘云峰	100
+pan yun ti	攀云梯	100
+pan zai shou zhong	盘在手中	100
+pan zhang gui	潘掌柜	100
+pan zhao hui	潘朝晖	100
+pan zhe ke yi	盼着可以	100
+pan zhe ni	盼着你	100
+pan zhe ni ke yi	盼着你可以	100
+pan zhe ta ke yi	盼着他可以	100
+pan zhe ta ke yi	盼着她可以	100
+pan zhe tui zuo	盘着腿坐	100
+pan zhe wo ke yi	盼着我可以	100
+pan zhe zhang da	盼着长大	100
+pan zheng yun xing	盘整运行	100
+pan zhi hua di qu	攀枝花地区	100
+pan zhong dan	潘中单	100
+pan zhong fan tan	盘中反弹	100
+pan zhong tiao zheng	盘中调整	100
+pan zhong yi du	盘中一度	100
+pan zhou dan	潘周聃	100
+pan zu fu	盘足蝠	100
+pan zuo zai	盘坐在	100
+pan zuo zhe	盘坐着	100
+pan cun	盘存	99
+pan fei	盘费	99
+pan yue	判阅	99
+pan gu si	盘古寺	95
+pan li zhe	叛离者	95
+pan yi xia	盘一下	93
+pan guang dan	潘光旦	91
+pan long wo hu gao shan ding	盘龙卧虎高山顶	90
+pan shan dao	盘山道	90
+pan duan li pi pan	判断力批判	88
+pan jin zhong yuan	盘锦中院	87
+pan sheng ding cheng	攀升鼎承	87
+pan zhi hua zhong yuan	攀枝花中院	87
+pan yu liang	潘玉良	78
+pan can shi	盘餐市	70
+pan pan shan shan	蹒蹒跚跚	70
+pan dian ren	盘点人	68
+pan jia ping	潘家坪	65
+pan gu bin guan	盘古宾馆	64
+pan jin shi shuang tai zi qu	盘锦市双台子区	62
+pan yan fu shi	攀炎附势	62
+pan ding luo ji	判定逻辑	61
+pan tang ma ti gao	泮塘马蹄糕	61
+pan gong	攀供	60
+pan long cun	盘龙村	52
+pan ding shi yong	判定使用	43
+pan gan	盘感	43
+pan jia zhuang	潘家庄	41
+pan tian shan ye	磐田山叶	41
+pan ding kuang	判定框	40
+pan er liang	盘儿亮	40
+pan gen wen di	盘根问底	37
+pan jue hun yin wu xiao	判决婚姻无效	37
+pan mi la	潘密拉	37
+pan bao	盘鲍	36
+pan yang	盘阳	36
+pan du biao zhi	判读标志	35
+pan jia ping lu	潘家坪路	35
+pan lin	潘琳	35
+pan pian zu	盘片组	34
+pan tang	盘塘	33
+pan gu lu	盘古路	30
+pan xing qi	判刑期	30
+pan feng	潘凤	29
+pan sheng ding	潘生丁	28
+pan jue zhe	判决者	26
+pan pei qiu	潘佩璆	26
+pan long shan zhuang	盘龙山庄	25
+pan mi la	潘蜜拉	25
+pan jia yuan dong lu	潘家园东路	24
+pan ruo xiao rang	判若霄壤	23
+pan zu yin	潘祖荫	22
+pan de bi	判得比	20
+pan er liang	盘儿靓	20
+pan duan xun huan shou	判断循环首	18
+pan jing cun	潘径村	18
+pan jiao zuo	盘脚坐	16
+pan duan xun huan wei	判断循环尾	15
+pan ding fu hao	判定符号	14
+pan xiang	潘相	14
+pan zhuang hong ban lang chuang	盘状红斑狼疮	14
+pan kun	潘坤	13
+pan li jie du zhong han fa lv	判例解读中韩法律	13
+pan zi wu	盘子舞	13
+pan shan cun	潘山村	12
+pan she gu	盘蛇谷	12
+pan cun	泮村	11
+pan qin	攀禽	11
+pan shuai	潘帅	11
+pan sui	潘遂	11
+pan bo ying	潘伯鹰	10
+pan de qi	攀得起	10
+pan feng	蟠凤	10
+pan jin xian	盘锦县	9
+pan shi en	潘世恩	9
+pan tu	潘涂	9
+pan wan	判完	9
+pan wei si chong bing	盘尾丝虫病	9
+pan bu qi	攀不起	8
+pan fei sheng	潘飞声	8
+pan hong xing	潘红星	8
+pan jiao qu si	盘角曲四	8
+pan jue li ju	判决理据	8
+pan zhang	潘璋	8
+pan dian	判点	7
+pan gu shen lu	盘古神鹿	7
+pan jia yuan lu xi kou	潘家园路西口	7
+pan qian lu	潘骞路	7
+pan ran bu tong	判然不同	7
+pan shi xian	磐石县	7
+pan tang zong zhan	泮塘总站	7
+pan wan	盘玩	7
+pan zha	盘扎	7
+pan zhai	潘宅	7
+pan ao	潘岙	6
+pan bing heng	潘秉衡	6
+pan dao miao	潘道庙	6
+pan dian cun	潘店村	6
+pan ding	潘鼎	6
+pan keng	潘坑	6
+pan ling gao	潘龄皋	6
+pan tuo la zuo	泮托拉唑	6
+pan xi cun	磻溪村	6
+pan an yun feng	盘安云峰	5
+pan ban	潘板	5
+pan duan cai jue	判断裁决	5
+pan jin hua yuan	盘锦花园	5
+pan jun xun shou shi	叛军驯兽师	5
+pan quan	潘泉	5
+pan tang	畔塘	5
+pan yuan gen	攀缘根	5
+pan zhi hua shi zhong xin yi yuan	攀枝花市中心医院	5
+pan chun sheng	潘春生	4
+pan dun zhong xin xiao xue	潘墩中心小学	4
+pan gui yang tian gao	攀桂仰天高	4
+pan ji zhai xue xiao	潘集寨学校	4
+pan jia yuan dong	潘家园东	4
+pan jia yuan qiao xi	潘家园桥西	4
+pan ku xiu an	泮库溴铵	4
+pan sun shi yuan wu jian wei	盘飧市远无兼味	4
+pan tian cun	潘田村	4
+pan tuo la zuo na	泮托拉唑钠	4
+pan yun duan	潘允端	4
+pan zhou jie dao	潘州街道	4
+pan dai	潘岱	3
+pan dong jie dao	磐东街道	3
+pan gong xing wei	判工行为	3
+pan shen	潘神	3
+pan shu	潘菽	3
+pan shui nan yuan	潘水南苑	3
+pan tuo la zuo na chang rong pian	泮托拉唑钠肠溶片	3
+pan xi feng	潘西凤	3
+pan yi jun	潘仪君	3
+pan yu tai ye	攀渝钛业	3
+pan yuan jue yu	判冤决狱	3
+pan chang xiang	潘昶乡	2
+pan duo	潘铎	2
+pan jia qiao	潘家桥	2
+pan jia yuan qiao bei	潘家园桥北	2
+pan jia yuan qiao dong	潘家园桥东	2
+pan jun	潘濬	2
+pan nei cun	潘内村	2
+pan pan	盘盘	2
+pan shu bing er zhu shi xin	盘蔬饼饵逐时新	2
+pan tao cun	蟠桃村	2
+pan tao wang	蟠桃王	2
+pan tiao zhe qi rong	攀条折其荣	2
+pan tuo la zuo na chang rong jiao nang	泮托拉唑钠肠溶胶囊	2
+pan xi cun	潘溪村	2
+pan xian te qu	盘县特区	2
+pan yan hui	潘燕辉	2
+pan yong gui	潘永贵	2
+pan yu	番禺	2
+pan zhuang cun wei hui	潘庄村委会	2
+pan an cun	潘安村	1
+pan bi de	潘彼得	1
+pan bian de di fei ya dao zei	叛变的迪菲亚盗贼	1
+pan bing ku lou	叛兵骷髅	1
+pan bu	爿部	1
+pan can shi yuan wu jian wei	盘餐市远无兼味	1
+pan chan mao fu chong	盘缠毛腹虫	1
+pan chang you	潘昌猷	1
+pan chu gao men xing bai yu	盘出高门行白玉	1
+pan ci	潘祠	1
+pan ci kang	潘慈康	1
+pan cun cun	潘村村	1
+pan cuo cun	潘厝村	1
+pan dao gou cun	盘道沟村	1
+pan dao li jing	畔道离经	1
+pan de yu	潘德舆	1
+pan du xiang	潘度乡	1
+pan ge fu teng	攀葛附藤	1
+pan gong shou	潘恭寿	1
+pan hu cun	潘湖村	1
+pan hu jiao cuo	盘互交错	1
+pan hua gun	盘花棍	1
+pan huo zi chan	盘活资产	1
+pan jia ma fang cun	潘家马房村	1
+pan jia yuan cun	潘家园村	1
+pan jia yuan dong li she qu	潘家园东里社区	1
+pan jiang hua yuan	畔江花园	1
+pan jie	潘婕	1
+pan jin bi xi	攀今比昔	1
+pan ju yao jin	盘踞要津	1
+pan jue e	判决额	1
+pan jue xing shi yan	判决性实验	1
+pan jun shao tan	叛军哨探	1
+pan keng	磻坑	1
+pan kong hou pan yu	盘孔喉盘鱼	1
+pan kong ying yu	盘空硬语	1
+pan lang che man	潘郎车满	1
+pan li nan cun	潘礼南村	1
+pan lin ge yin	泮林革音	1
+pan long qi pian	盘龙七片	1
+pan long you si dao	盘龙游丝刀	1
+pan long zhi pi	盘龙之癖	1
+pan mei	潘眉	1
+pan mo zi	潘漠子	1
+pan mu zhi	潘木枝	1
+pan pa si zhi wu	潘帕斯之舞	1
+pan ping	潘坪	1
+pan qi	潘琪	1
+pan qian gao ping xing xi chong	盘前睾平形吸虫	1
+pan ran liang tu	判然两途	1
+pan ruo jiang hu	判若江湖	1
+pan ruo liang tu	判若两途	1
+pan shan she jian	盘山涉涧	1
+pan shan sui yue	蹒跚岁月	1
+pan shi quan ya	盘石犬牙	1
+pan shi sang bao	盘石桑苞	1
+pan si bei guan bu kan shuo	判司卑官不堪说	1
+pan wo gu zhuan qin di lei	盘涡毂转秦地雷	1
+pan wo yu an hui	盘涡与岸回	1
+pan xi	磻溪	1
+pan xi en	潘锡恩	1
+pan xiang gou	盘香沟	1
+pan xing gu bei dong wu	盘形古杯动物	1
+pan xing xin na shen	盘形辛那参	1
+pan ye quan zhong ying	盘叶泉种蝇	1
+pan yi juan	潘奕隽	1
+pan yin	潘隐	1
+pan yu chang long	番禺长隆	1
+pan yu da dao	番禺大道	1
+pan yu da dao bei	番禺大道北	1
+pan yu da shi	番禺大石	1
+pan yu guang chang zhan	番禺广场站	1
+pan yu ji	盼与寄	1
+pan yu ke yun zhan	番禺客运站	1
+pan yu qi che ke yun zhan	番禺汽车客运站	1
+pan yu qu nan cun zhen	番禺区南村镇	1
+pan yu qu wei	番禺区委	1
+pan yu qu zheng fu	番禺区政府	1
+pan yu ren	番禺人	1
+pan yu shi qiao qi che zhan	番禺市桥汽车站	1
+pan yu tian qi	番禺天气	1
+pan yu xiao qu	番禺校区	1
+pan yu zhi ye ji shu xue yuan	番禺职业技术学院	1
+pan yuan gui zhi	攀援桂枝	1
+pan yuan kou ma	攀辕扣马	1
+pan yue	潘岳	1
+pan yue dao wang you fei ci	潘岳悼亡犹费词	1
+pan yun zhui yue	攀云追月	1
+pan zhen bo	潘振波	1
+pan zhuang cun cun wei hui	潘庄村村委会	1
+pan zun qi	潘遵祁	1

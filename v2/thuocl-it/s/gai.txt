@@ -1,0 +1,19 @@
+gai lv mo xing	概率模型	357
+gai yao she ji	概要设计	354
+gai nian mo xing	概念模型	344
+gai lv mi du han shu	概率密度函数	341
+gai lv tu mo xing	概率图模型	259
+gai shan dai ma	改善代码	245
+gai nian shu ju mo xing	概念数据模型	237
+gai lv suan fa	概率算法	227
+gai lv tui li	概率推理	211
+gai nian mo shi	概念模式	198
+gai lv qi wang	概率期望	153
+gai nian shu yu	概念术语	141
+gai bian qu dong qi	改变驱动器	139
+gai nian fen xi	概念分析	137
+gai xie	盖写	98
+gai nian fen lei	概念分类	96
+gai lv chuan bo	概率传播	93
+gai lv xi tong	概率系统	88
+gai lv ce shi	概率测试	86

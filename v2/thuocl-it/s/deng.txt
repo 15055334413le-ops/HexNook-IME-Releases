@@ -1,0 +1,13 @@
+deng dai zhuang tai	等待状态	559
+deng dai dui lie	等待队列	529
+deng lu jie mian	登陆界面	410
+deng lu yan zheng	登录验证	361
+deng lu yan zheng	登陆验证	297
+deng dai huan xing ji zhi	等待唤醒机制	266
+deng lu zhu ce	登陆注册	225
+deng jia zhuan huan	等价转换	198
+deng bai shi bian ma	邓白氏编码	193
+deng dai biao	等待表	152
+deng lu lan jie	登录拦截	152
+deng zhang bian ma	等长编码	143
+deng jia yun suan	等价运算	107

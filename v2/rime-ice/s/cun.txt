@@ -1,0 +1,678 @@
+cun zai	存在	501272
+cun kuan	存款	500488
+cun chu	存储	459730
+cun min	村民	417255
+cun zai zhe	存在着	341735
+cun fang	存放	261400
+cun zhuang	村庄	173595
+cun li	村里	158820
+cun dang	存档	140750
+cun huo	存货	134170
+cun guo	存过	115010
+cun wei hui	村委会	105780
+cun zai yu	存在于	99485
+cun ji	村级	98010
+cun chu qi	存储器	94235
+cun zhen	村镇	92450
+cun chu ka	存储卡	78215
+cun gan bu	村干部	76475
+cun zai wen ti	存在问题	74780
+cun ru	存入	74360
+cun qu	存取	66310
+cun liang	存量	65255
+cun min wei yuan hui	村民委员会	62260
+cun huo	存活	58980
+cun zi	村子	57820
+cun luo	村落	56195
+cun zhang	村长	53750
+cun you	存有	52570
+cun cun	村村	49435
+cun zhe	存折	46930
+cun chu rong liang	存储容量	45500
+cun xu	存续	41720
+cun chu kong jian	存储空间	40904
+cun min men	村民们	40055
+cun dan	存单	37641
+cun chu jie zhi	存储介质	37185
+cun min zi zhi	村民自治	32325
+cun wei	村委	31295
+cun zhong	村中	30995
+cun chu guo cheng	存储过程	30890
+cun cun tong	村村通	30420
+cun wu gong kai	村务公开	30130
+cun zhai	村寨	30030
+cun chu shu ju	存储数据	28999
+cun zi li	村子里	27515
+cun chu she bei	存储设备	25100
+cun pan	存盘	24305
+cun lan	存栏	24010
+cun zu	村组	23940
+cun nei	村内	23740
+cun dang zhi bu	村党支部	22245
+cun xin	存心	22100
+cun zhu	存贮	21675
+cun kou	村口	21580
+cun min dai biao	村民代表	21115
+cun kuan zhun bei jin lv	存款准备金率	17610
+cun dang zhi bu shu ji	村党支部书记	17160
+cun qian	存钱	17020
+cun shang	村上	16670
+cun zhi shu	村支书	16275
+cun liu	存留	15655
+cun zai an quan	存在安全	15170
+cun rong	村容	14800
+cun kuan li lv	存款利率	14360
+cun guan	村官	14190
+cun zai que xian	存在缺陷	14135
+cun chu fang shi	存储方式	13988
+cun le	存了	13790
+cun yu	存于	13385
+cun chu xi tong	存储系统	13345
+cun wu	村务	13305
+cun wang	存亡	13225
+cun dai kuan	存贷款	12915
+cun gen	存根	12745
+cun li ren	村里人	12485
+cun nong min	村农民	12280
+cun kuan yu e	存款余额	12005
+cun zai cha yi	存在差异	11515
+cun chu jie gou	存储结构	11391
+cun dong	村东	11160
+cun she	村社	10665
+cun zhe	存着	10530
+cun ban	村办	10375
+cun wei	存为	10265
+cun dao	存到	10205
+cun rong cun mao	村容村貌	10140
+cun zhi bu	村支部	10130
+cun an	存案	9999
+cun lie	皴裂	9999
+cun mao	村貌	9999
+cun mo	忖摸	9999
+cun nian	存念	9999
+cun shi	存世	9999
+cun xi	存息	9999
+cun xue	村学	9999
+cun jin	存进	9895
+cun zhu ren	村主任	9640
+cun kuan e	存款额	9630
+cun chu wei zhi	存储位置	9611
+cun chu dan yuan	存储单元	9362
+cun fang yu	存放于	9280
+cun ju	村居	9275
+cun wai	村外	9170
+cun tou	村头	8990
+cun tun	村屯	8970
+cun ru yin hang	存入银行	8945
+cun chu yin qing	存储引擎	8629
+cun bu nan xing	寸步难行	8390
+cun kuan li xi	存款利息	8360
+cun huo lv	存活率	8230
+cun yin hang	存银行	7680
+cun gu	村姑	7610
+cun dai	存贷	7540
+cun chu xing neng	存储性能	7330
+cun kuan ren	存款人	7330
+cun zai shen me	存在什么	6765
+cun shang li sha	村上里沙	6666
+cun chu ji shu	存储技术	6505
+cun fu	村妇	6435
+cun zai zheng yi	存在争议	6335
+cun zai feng xian	存在风险	6290
+cun tu cun jin	寸土寸金	6235
+cun liang fang	存量房	6170
+cun gui min yue	村规民约	6085
+cun xia	存下	6035
+cun zai lou dong	存在漏洞	6005
+cun zai jia zhi	存在价值	5805
+cun zai zhu yi	存在主义	5590
+cun yi	存疑	5540
+cun bian	村边	5515
+cun wei sheng shi	村卫生室	5495
+cun liang	存粮	5435
+cun chu gong neng	存储功能	5405
+cun zai bu zu	存在不足	5390
+cun kuan bao xian zhi du	存款保险制度	5275
+cun bu bu li	寸步不离	5180
+cun chu liang	存储量	4960
+cun chu wen jian	存储文件	4910
+cun cao bu sheng	寸草不生	4820
+cun zai cha ju	存在差距	4815
+cun qi	存期	4775
+cun chang	寸长	4725
+cun tian	村田	4660
+cun gen lian	存根联	4625
+cun shang chun shu	村上春树	4545
+cun she	村舍	4545
+cun fang wei zhi	存放位置	4480
+cun zhi	存执	4444
+cun chu qu	存储区	4410
+cun kuan zhun bei jin	存款准备金	4365
+cun ming	村名	4365
+cun qu kuan	存取款	4245
+cun kuan dan	存款单	3975
+cun fang zhe	存放着	3945
+cun fu	村夫	3940
+cun kuan zhang hu	存款账户	3925
+cun tuo	存托	3865
+cun chu neng li	存储能力	3845
+cun zai xing	存在性	3800
+cun huo cheng ben	存货成本	3785
+cun zhu qi	存贮器	3675
+cun ling dao	村领导	3600
+cun chu zhuan fa	存储转发	3545
+cun xin	寸心	3540
+cun xia lai	存下来	3525
+cun ge	存个	3333
+cun zhi	寸止	3333
+cun min wei yuan hui zu zhi fa	村民委员会组织法	3317
+cun qu su du	存取速度	3227
+cun chu lei xing	存储类型	3146
+cun guo qian	存过钱	3120
+cun fang di dian	存放地点	3085
+cun chu guan li	存储管理	3034
+cun you er yuan	村幼儿园	2970
+cun chu xin xi	存储信息	2950
+cun zai kun nan	存在困难	2890
+cun shi liang	存世量	2875
+cun chu wang luo	存储网络	2800
+cun cha	存查	2695
+cun qu kong zhi	存取控制	2650
+cun dui	村队	2585
+cun che	存车	2530
+cun tong gong cheng	村通工程	2510
+cun cao xin	寸草心	2425
+cun hua	村花	2411
+cun zhe shang	存折上	2380
+cun gan	村干	2365
+cun tou	寸头	2285
+cun tu	寸土	2275
+cun ti liu	村提留	2260
+cun fei	存废	2240
+cun er	村儿	2222
+cun shen	存身	2200
+cun huo qi	存活期	2160
+cun bao	存包	2135
+cun chu qu yu	存储区域	2130
+cun chu xin pian	存储芯片	2130
+cun luo li	村落里	2040
+cun fang chu	存放处	2000
+cun you suo chang	寸有所长	1990
+cun lan shu	存栏数	1970
+cun bu cun	存不存	1925
+cun huo zhou zhuan	存货周转	1900
+cun qu fang fa	存取方法	1874
+cun chu shi chang	存储市场	1870
+cun qu quan xian	存取权限	1830
+cun ye	村野	1830
+cun zhang jia	村长家	1725
+cun fa	皴法	1615
+cun juan	存卷	1615
+cun kuan jin e	存款金额	1575
+cun hu yi xin	存乎一心	1570
+cun nv	村女	1570
+cun gao yuan	存高远	1535
+cun bu	寸步	1495
+cun dian	村店	1495
+cun mu	存目	1495
+cun cao	寸草	1490
+cun chu zhe	存储着	1490
+cun dang wen jian	存档文件	1420
+cun zhen qu wei	存真去伪	1405
+cun duo	忖度	1350
+cun chu mo shi	存储模式	1340
+cun jin	寸进	1280
+cun ji	存积	1230
+cun chu lu jing	存储路径	1210
+cun qu shi jian	存取时间	1195
+cun cun zhai zhai	村村寨寨	1180
+cun le	皴了	1180
+cun zhuang er nv ge dang jia	村庄儿女各当家	1180
+cun tu bi zheng	寸土必争	1160
+cun ye jing ping	寸液晶屏	1155
+cun bu bu rang	寸步不让	1130
+cun chao	村超	1111
+cun chao lian sai	村超联赛	1111
+cun ge	村歌	1111
+cun hu	存乎	1111
+cun hu yu	存乎于	1111
+cun yi	村医	1111
+cun zheng	存正	1111
+cun xiao yi	存小异	1110
+cun duan	寸断	1100
+cun gong suo	村公所	1070
+cun qian	村前	1038
+cun da ping mu	寸大屏幕	1000
+cun huo zhe	存活着	975
+cun tong	村童	975
+cun huo kong zhi	存货控制	965
+cun shu	存书	915
+cun shi	村史	905
+cun dao wen jian	存到文件	871
+cun chu pei zhi	存储配置	813
+cun kuan ping tiao	存款凭条	770
+cun zhao	存照	750
+cun shui wan	存水弯	735
+cun bu zhu	存不住	730
+cun ba	村霸	725
+cun che chu	存车处	695
+cun hu	存户	685
+cun xin bu liang	存心不良	650
+cun chu kong jian bu zu	存储空间不足	640
+cun jin nan mai cun guang yin	寸金难买寸光阴	640
+cun tu bu rang	寸土不让	640
+cun yin	寸阴	635
+cun gong	寸功	605
+cun si	忖思	590
+cun bao gui	存包柜	585
+cun er bu lun	存而不论	580
+cun kuan bu zu	存款不足	580
+cun yu	村雨	580
+cun di	存底	530
+cun kuan zhe	存款者	525
+cun bu nan yi	寸步难移	515
+cun fang	村坊	505
+cun liang	忖量	465
+cun ru shu ju	存入数据	465
+cun kuan shu e	存款数额	450
+cun chu zhen lie	存储阵列	432
+cun chu mo kuai	存储模块	427
+cun xu	存恤	425
+cun bu liao	存不了	420
+cun chu mei ti	存储媒体	420
+cun chu mi du	存储密度	415
+cun chu bao hu	存储保护	391
+cun tie	寸铁	360
+cun wai ji jing	村外即景	339
+cun chu ti	存储体	333
+cun jin	寸金	326
+cun cao bu liu	寸草不留	320
+cun chu ju zhen	存储矩阵	309
+cun xin yang xing	存心养性	300
+cun mai	寸脉	280
+cun qu lu jing	存取路径	280
+cun yi xia	存一下	275
+cun guan	寸管	250
+cun wei	村尾	245
+cun chu zhan	存储栈	240
+cun min zi zhi fa	村民自治法	226
+cun ding qi	存定期	221
+cun qu xu ke	存取许可	203
+cun chu xu ni hua	存储虚拟化	196
+cun su	村俗	195
+cun jin xue yuan	寸金学院	176
+cun chu sui pian	存储碎片	165
+cun pian jian	存偏见	165
+cun xiang	存项	160
+cun shi	存食	155
+cun tuo gu	存托股	155
+cun qu biao	存取表	152
+cun chu qi ceng ci	存储器层次	146
+cun lai bu	村濑步	146
+cun shan fu shi	村山富市	145
+cun zai liang ci	存在量词	145
+cun chu hang	存储行	142
+cun zai yi chang	存在异常	139
+cun chu qi fen pei	存储器分配	126
+cun xian sheng	村先生	126
+cun dan gua shi	存单挂失	124
+cun jin	寸劲	124
+cun zhe ne	存着呢	115
+cun bi	存币	111
+cun dao	村道	111
+cun er	皴儿	111
+cun ban chang	村办厂	110
+cun ge dang	存个档	109
+cun cun hu hu	村村户户	105
+cun li mian	村里面	101
+cun bai chong	寸白虫	100
+cun bing chi tie	寸兵尺铁	100
+cun bing dou liang	寸兵斗粮	100
+cun bu cun zai a	存不存在啊	100
+cun bu cun zai ba	存不存在吧	100
+cun bu cun zai la	存不存在啦	100
+cun bu cun zai lou	存不存在喽	100
+cun bu cun zai ma	存不存在吗	100
+cun bu cun zai o	存不存在哦	100
+cun bu cun zai wa	存不存在哇	100
+cun bu cun zai ya	存不存在呀	100
+cun bu liao qian	存不了钱	100
+cun bu qian li	寸步千里	100
+cun cao cun jin	寸草寸金	100
+cun chang chi duan	寸长尺短	100
+cun chang chi ji	寸长尺技	100
+cun chang qian duan	寸肠千断	100
+cun chang qian jie	寸肠千结	100
+cun che chang	存车场	100
+cun chi zhi di	寸尺之地	100
+cun chi zhi gong	寸尺之功	100
+cun chu di zhi	存储地址	100
+cun chu dian	存储点	100
+cun chu hang ye	存储行业	100
+cun chu he chu cun	存储和储存	100
+cun chu he chuan shu	存储和传输	100
+cun chu shen du	存储深度	100
+cun chu shi du	存储湿度	100
+cun chu su du	存储速度	100
+cun chu tong	存储桶	100
+cun chu wen ben	存储文本	100
+cun chu wen du	存储温度	100
+cun chu xiao lv	存储效率	100
+cun chu zai	存储在	100
+cun chu zai qu kuai lian	存储在区块链	100
+cun cun luo luo	村村落落	100
+cun dai kuan ji zhun li lv	存贷款基准利率	100
+cun dai kuan li lv	存贷款利率	100
+cun dang wei	村党委	100
+cun dao yin hang	存到银行	100
+cun di chu	村地处	100
+cun di cun jin	寸地寸金	100
+cun duan bai jie	寸断百结	100
+cun duan gan chang	寸断肝肠	100
+cun er wu lun	存而勿论	100
+cun fang di	存放地	100
+cun fang di zhi	存放地址	100
+cun fang shi jian chang	存放时间长	100
+cun fang wen du	存放温度	100
+cun fang zai	存放在	100
+cun fu su zi	村夫俗子	100
+cun fu ye lao	村夫野老	100
+cun gan shi	村干事	100
+cun guan xi tong	存管系统	100
+cun guan yin hang	存管银行	100
+cun gui feng yan	寸晷风檐	100
+cun hua fei	存话费	100
+cun huo gui mo	存货规模	100
+cun huo liang	存货量	100
+cun huo lv di	存活率低	100
+cun huo lv gao	存活率高	100
+cun huo shi jian chang	存活时间长	100
+cun huo xia lai	存活下来	100
+cun huo zhou zhuan lv	存货周转率	100
+cun ji he zhang	村级河长	100
+cun ji jian zhi tiao zheng gai ge	村级建制调整改革	100
+cun ji ti tu di	村集体土地	100
+cun ji zhu lei	寸积铢累	100
+cun jian zhi gong	寸箭之功	100
+cun jin chi tui	寸进尺退	100
+cun jin nan mai	寸金难买	100
+cun jin su hui	村金速回	100
+cun jin yin hang	存进银行	100
+cun jin zhi di	寸金之地	100
+cun ju ye tuan	村居野疃	100
+cun kou mai	寸口脉	100
+cun kuai ji	村会计	100
+cun kuan bu	存款簿	100
+cun kuan e du	存款额度	100
+cun kuan gui mo	存款规模	100
+cun kuan ji	存款机	100
+cun kuan ji zhun li lv	存款基准利率	100
+cun kuan li lv biao	存款利率表	100
+cun kuan li lv shi chang hua	存款利率市场化	100
+cun kuan nian li lv	存款年利率	100
+cun kuan yin hang	存款银行	100
+cun kuan zeng zhang	存款增长	100
+cun kuan zheng	存款证	100
+cun kuan zhun bei lv	存款准备率	100
+cun le duo shao qian	存了多少钱	100
+cun le qi lai	存了起来	100
+cun li de	村里的	100
+cun li fa jin tiao	村里发金条	100
+cun li fa jin tiao le	村里发金条了	100
+cun li fa mei mo	村里发魅魔	100
+cun li fa mei mo le	村里发魅魔了	100
+cun li ren dou	村里人都	100
+cun li ren dou zhi dao	村里人都知道	100
+cun li tong wang	村里通网	100
+cun li tong wang le	村里通网了	100
+cun li zhang	村里长	100
+cun liang fang dai li lv	存量房贷利率	100
+cun liang fu dong li lv dai kuan	存量浮动利率贷款	100
+cun liang gui mo	存量规模	100
+cun liang jian she yong di	存量建设用地	100
+cun liang tu di	存量土地	100
+cun liang yong di	存量用地	100
+cun liang zhu cheng	寸量铢称	100
+cun luo bao hu	村落保护	100
+cun luo fu xing	村落复兴	100
+cun luo jian zhu	村落建筑	100
+cun luo jing qu	村落景区	100
+cun luo wen hua	村落文化	100
+cun luo zhong	村落中	100
+cun min chu xing	村民出行	100
+cun min le	村民乐	100
+cun min xiao zu zhang	村民小组长	100
+cun min xiao zu zu zhang	村民小组组长	100
+cun min zu zhang	村民组长	100
+cun mu cen lou	寸木岑楼	100
+cun nan chi nv	寸男尺女	100
+cun qi jing hua	存其精华	100
+cun qi lai	存起来	100
+cun qian guan	存钱罐	100
+cun qu fu wu	存取服务	100
+cun shang long	村上隆	100
+cun shen guo hua	存神过化	100
+cun shen me	存什么	100
+cun shi hong shi	村石宏实	100
+cun shi yi yu qian bai	存十一于千百	100
+cun si ban su	寸丝半粟	100
+cun si bu gua	寸丝不挂	100
+cun si li su	寸丝粒粟	100
+cun ti li	存体力	100
+cun tian xiong jie	村田雄介	100
+cun tie sha ren	寸铁杀人	100
+cun tong wang	村通网	100
+cun tou zhen nao	村头镇脑	100
+cun tu chi jin	寸土尺金	100
+cun tu di	村土地	100
+cun tuo ping zheng	存托凭证	100
+cun wang an wei	存亡安危	100
+cun wang ji jue	存亡继绝	100
+cun wang tong	村网通	100
+cun wang wei bu	存亡未卜	100
+cun wang you guan	存亡攸关	100
+cun wang zhi ji	存亡之际	100
+cun wang zhi qiu	存亡之秋	100
+cun xia xiao cang	村下孝藏	100
+cun xiang zhen	村乡镇	100
+cun xiao she gu	村箫社鼓	100
+cun xiao zu zhang	村小组长	100
+cun xin bu mei	寸心不昧	100
+cun xin lai	存心来	100
+cun xin lai huai shi	存心来坏事	100
+cun xue jiu yu	村学究语	100
+cun yan e yu	村言恶语	100
+cun yin chi bi	寸阴尺璧	100
+cun yin ruo sui	寸阴若岁	100
+cun yin shi xi	寸阴是惜	100
+cun you liang	存有量	100
+cun yuan zhi	存远志	100
+cun zai de	存在的	100
+cun zai de gan jue	存在的感觉	100
+cun zai de mu di	存在的目的	100
+cun zai de yi qie	存在的一切	100
+cun zai de yi yi shi shen me	存在的意义是什么	100
+cun zai de zheng ju	存在的证据	100
+cun zai de zheng ming	存在的证明	100
+cun zai du	存在度	100
+cun zai e yi	存在恶意	100
+cun zai gan	存在感	100
+cun zai guan xi	存在关系	100
+cun zai jing zheng guan xi	存在竞争关系	100
+cun zai lao dong guan xi	存在劳动关系	100
+cun zai li hai guan xi	存在利害关系	100
+cun zai lian xi	存在联系	100
+cun zai lun	存在论	100
+cun zai mou zhong lian xi	存在某种联系	100
+cun zai nan du	存在难度	100
+cun zai ren chuan ren	存在人传人	100
+cun zai shen me wen ti	存在什么问题	100
+cun zai xia xing ya li	存在下行压力	100
+cun zai yan zhong an quan yin huan	存在严重安全隐患	100
+cun zai yan zhong fen qi	存在严重分歧	100
+cun zai yan zhong que xian	存在严重缺陷	100
+cun zai yan zhong wen ti	存在严重问题	100
+cun zai yi xia wen ti	存在以下问题	100
+cun zai yin guo guan xi	存在因果关系	100
+cun zai yin hang	存在银行	100
+cun zai zhe an quan yin huan	存在着安全隐患	100
+cun zai zhe bu tong	存在着不同	100
+cun zai zhong da an quan yin huan	存在重大安全隐患	100
+cun zai zhong da bu que ding xing	存在重大不确定性	100
+cun zai zhong da feng xian	存在重大风险	100
+cun zai zhong da que xian	存在重大缺陷	100
+cun zai zhong da wen ti	存在重大问题	100
+cun zai zhong da yin huan	存在重大隐患	100
+cun zhang da ren	村长大人	100
+cun zhang de hou yuan	村长的后院	100
+cun zhang de nv er	村长的女儿	100
+cun zhang fu ren	村长夫人	100
+cun zhang jia de	村长家的	100
+cun zhang li rui	村长李锐	100
+cun zhang shuo	村长说	100
+cun zhang ye ye	村长爷爷	100
+cun zhe er	存折儿	100
+cun zhen yin hang	村镇银行	100
+cun zhen yin hang bi an	村镇银行弊案	100
+cun zheng fang	村证房	100
+cun zheng xin han	存证信函	100
+cun zhi ji	存知己	100
+cun zhong wen you ci ren	村中闻有此人	100
+cun zhuang jian she yong di	村庄建设用地	100
+cun zhuang qing jie xing dong	村庄清洁行动	100
+cun zhun lv	存准率	100
+cun zi fa jin tiao	村子发金条	100
+cun zi fa jin tiao le	村子发金条了	100
+cun zi li mian	村子里面	100
+cun shu	村塾	99
+cun qu quan	存取权	98
+cun chu guan li fu wu	存储管理服务	92
+cun you suo duan	寸有所短	92
+cun cun zhen zhen	村村镇镇	90
+cun chu zhou qi	存储周期	84
+cun chu qi dai kuan	存储器带宽	80
+cun gui	村规	77
+cun chu gao du	存储高度	75
+cun shou ji	存手机	75
+cun chu yuan jian	存储元件	73
+cun chu dai kuan	存储带宽	70
+cun fu	存抚	70
+cun zai jia	存在家	70
+cun zheng tong he	存证通和	68
+cun cao chun hui	寸草春晖	65
+cun qu lei xing	存取类型	65
+cun jin er	寸劲儿	60
+cun chu kuai	存储块	56
+cun ban xue xiao	村办学校	55
+cun chu qi zong xian	存储器总线	54
+cun qu bi	存取臂	45
+cun wang yu gong	存亡与共	40
+cun qu ju zhen	存取矩阵	38
+cun zheng yao dao	村正妖刀	36
+cun hu qi ren	存乎其人	35
+cun ju	存据	35
+cun wang xu jue	存亡续绝	32
+cun cun rou chang	寸寸柔肠	31
+cun shang long	村上龙	29
+cun chu tu	存储图	28
+cun li ren jia	村里人家	28
+cun qu ji bie	存取级别	22
+cun zhen yin hang zu jian shen pi gong zuo zhi yin	村镇银行组建审批工作指引	22
+cun wang jue xu	存亡绝续	21
+cun chu xuan qu	存储选区	20
+cun kai	寸楷	20
+cun min xue	村民学	20
+cun qu kong zhi ji zhi	存取控制机制	19
+cun gong ye qu	村工业区	18
+cun qu dui lie	存取队列	18
+cun qu fan chou	存取范畴	17
+cun bu bu yi	寸步不移	16
+cun ren	存仁	16
+cun zha	寸札	15
+cun kuan bao xian fa lv zhi du	存款保险法律制度	14
+cun chu guan li bu jian	存储管理部件	11
+cun chu guan li ce lve	存储管理策略	11
+cun qu chong tu	存取冲突	10
+cun wang huo fu	存亡祸福	10
+cun hua	村话	9
+cun ren tang	存仁堂	8
+cun xing qi	寸性奇	8
+cun zhuang cun	村庄村	8
+cun ge xiang	村戈乡	7
+cun shui	存水	7
+cun wang sheng si	存亡生死	7
+cun ban xue	村办学	6
+cun ji	村集	6
+cun ye pi fu	村野匹夫	6
+cun chu cheng xu yuan li	存储程序原理	5
+cun le tui	蹲了腿	5
+cun li bi de	寸利必得	5
+cun zai gong li	存在公理	5
+cun ji	村妓	4
+cun qian lu	村前路	4
+cun chang cun	村场村	3
+cun di chi tian	寸地尺天	3
+cun fang ji	存放机	3
+cun ji	村际	3
+cun tian chi zhai	寸田尺宅	3
+cun xin qian gu	寸心千古	3
+cun bian xing hua bai	村边杏花白	2
+cun dou cun	村兜村	2
+cun gu	寸骨	2
+cun guan chi	寸关尺	2
+cun ji	存记	2
+cun jie	村界	2
+cun min shi yong fa lv shou ce	村民实用法律手册	2
+cun min wei yuan hui fa lv zhi shi	村民委员会法律知识	2
+cun nan cun bei xiang sao che	村南村北响缫车	2
+cun qiao yuan shu si wu xiang	村桥原树似吾乡	2
+cun wang wei ji zhi qiu	存亡危急之秋	2
+cun wei zong zhan	村尾总站	2
+cun xin ru ge	寸心如割	2
+cun zhe qie tou sheng	存者且偷生	2
+cun zhi yu bi you xia ti	寸之玉必有瑕瓋	2
+cun bi yao cen	寸碧遥岑	1
+cun cao xian jie	寸草衔结	1
+cun chang pian shan	寸长片善	1
+cun chu lei zi yuan	存储类资源	1
+cun cun shi shi	村村势势	1
+cun dao	忖道	1
+cun er bu yi	存而不议	1
+cun ge li fu	村哥里妇	1
+cun ge she gu	村歌社鼓	1
+cun ge she wu	村歌社舞	1
+cun hou zhong lu	存候踵路	1
+cun jian chi chu	寸缣尺楮	1
+cun jin jie dao	寸金街道	1
+cun jin su gu	村筋俗骨	1
+cun jiu ye shu	村酒野蔬	1
+cun liang zhu jiao	寸量铢较	1
+cun lu dou chu	寸禄斗储	1
+cun ma dou ren	寸马豆人	1
+cun mu nan zhi	寸木难支	1
+cun nan wu xian tao hua fa	村南无限桃花发	1
+cun nong ye sou	村农野叟	1
+cun rong mei ai	存荣没哀	1
+cun shan pian chang	寸善片长	1
+cun shang ai	村上爱	1
+cun shang long dian ying xiao shuo	村上龙电影小说	1
+cun shen suo zhi	存神索至	1
+cun sheng po zhang	村生泊长	1
+cun si wei ding	寸丝为定	1
+cun ti chi jian	寸蹄尺缣	1
+cun tie zai shou	寸铁在手	1
+cun ting ji zhong	寸莛击钟	1
+cun tou fang	村头坊	1
+cun tu chi di	寸土尺地	1
+cun wang bu ke zhi	存亡不可知	1
+cun wang you fen	存亡有分	1
+cun wu	踆乌	1
+cun xia cun	村下村	1
+cun xia zhi lun	寸辖制轮	1
+cun xin ji lv	存心积虑	1
+cun xu	存蓄	1
+cun xu qi lao	存恤耆老	1
+cun yin ke xi	寸阴可惜	1
+cun yuan men xiang duo xiang si	村园门巷多相似	1
+cun zhe wu xiao xi	存者无消息	1
+cun zhi ce yuan	寸指测渊	1

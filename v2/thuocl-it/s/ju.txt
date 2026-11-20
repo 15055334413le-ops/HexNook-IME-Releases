@@ -1,0 +1,59 @@
+ju bu bian liang	局部变量	892
+ju zhong xian shi	居中显示	457
+ju he han shu	聚合函数	429
+ju lei suan fa	聚类算法	418
+ju zhen xiang cheng	矩阵相乘	416
+ju jue fang wen	拒绝访问	403
+ju zhen yun suan	矩阵运算	389
+ju ji suo yin	聚集索引	388
+ju zhen kuai su mi	矩阵快速幂	382
+ju he guan xi	聚合关系	369
+ju jue fu wu	拒绝服务	359
+ju bu nei bu lei	局部内部类	356
+ju zhen bian huan	矩阵变换	355
+ju li ji suan	距离计算	352
+ju zhen fen jie	矩阵分解	344
+ju jue fu wu gong ji	拒绝服务攻击	334
+ju bu shua xin	局部刷新	331
+ju bu te zheng	局部特征	320
+ju li du liang	距离度量	316
+ju zhen cao zuo	矩阵操作	308
+ju zhen zhuan zhi	矩阵转置	278
+ju he shu ju	聚合数据	269
+ju bu cun chu	局部存储	263
+ju fa gui ze	句法规则	242
+ju xing fu gai	矩形覆盖	240
+ju li xiang liang	距离向量	232
+ju bu zuo biao xi	局部坐标系	230
+ju xing mian ji bing	矩形面积并	226
+ju zhen xuan zhuan	矩阵旋转	209
+ju bing lei	句柄类	204
+ju zhen gou zao	矩阵构造	204
+ju zhen lian cheng	矩阵链乘	203
+ju zhen jian pan	矩阵键盘	199
+ju yu wang ji shu	局域网技术	190
+ju fa jie gou	句法结构	188
+ju zhen ying yong	矩阵应用	187
+ju zhen jia su	矩阵加速	186
+ju zhen qiu dao	矩阵求导	178
+ju bu min gan ha xi	局部敏感哈希	175
+ju zhen you hua	矩阵优化	174
+ju bu mo shi	局部模式	165
+ju hua lian	菊花链	163
+ju bu zong xian	局部总线	162
+ju yu wang fu wu qi	局域网服务器	157
+ju zhen lian cheng fa	矩阵链乘法	157
+ju bu ying yong	局部应用	154
+ju yu wang jiao huan ji	局域网交换机	147
+ju bu guang zhao mo xing	局部光照模型	143
+ju zhen shi yan shi	矩阵实验室	136
+ju xing ji suan ji	巨型计算机	135
+ju yu wang guang bo	局域网广播	135
+ju fa shu	句法树	133
+ju zhen shu ding li	矩阵树定理	128
+ju yu wang wang guan	局域网网关	127
+ju zi pian duan	句子片段	113
+ju fa guan xi	句法关系	105
+ju zhen qie huan qi	矩阵切换器	103
+ju yu wang duo bo	局域网多播	94
+ju fa mo shi shi bie	句法模式识别	86

@@ -1,0 +1,13 @@
+wfhzs	无符号整数	467
+wfjx	无法解析	426
+wfhs	无符号数	410
+wfjz	无法加载	405
+wfbs	伪分布式	348
+wfgx	无法更新	344
+wf	位非	291
+wfsw	无法上网	266
+wfbms	伪分布模式	249
+wfl	误分类	248
+wfl	无分类	207
+wfgd	无缝滚动	193
+wfxc	往返行程	167

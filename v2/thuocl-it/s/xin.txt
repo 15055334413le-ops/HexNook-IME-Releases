@@ -1,0 +1,56 @@
+xin xi bao cun	信息保存	537
+xin jian xiang mu	新建项目	534
+xin chuang kou	新窗口	498
+xin jian gong cheng	新建工程	465
+xin jian yong hu	新建用户	372
+xin xi yin cang	信息隐藏	357
+xin xi zeng yi	信息增益	353
+xin tiao bao	心跳包	337
+xin xi jie gou	信息结构	325
+xin xi jia mi	信息加密	309
+xin shi tu	新视图	297
+xin hao he cao	信号和槽	295
+xin wen ke hu duan	新闻客户端	294
+xin xi guan li xi tong	信息管理系统	294
+xin xi xie yi	信息协议	286
+xin xi xue jing sai	信息学竞赛	273
+xin jian chuang kou	新建窗口	272
+xin xi bian ma	信息编码	269
+xin xi du qu	信息读取	256
+xin jian biao qian	新建标签	253
+xin jian an niu	新建按钮	249
+xin xi zi duan	信息字段	248
+xin jian wen dang	新建文档	228
+xin wen fa bu xi tong	新闻发布系统	228
+xin xi fen lei	信息分类	225
+xin xi yin bi	信息隐蔽	224
+xin ren lie biao	信任列表	222
+xin xi zhai yao suan fa	信息摘要算法	221
+xin jian wen ben	新建文本	217
+xin xi mo xing	信息模型	217
+xin xi rong yu	信息冗余	212
+xin jian suo yin	新建索引	206
+xin xi ge shi	信息格式	206
+xin hao wan zheng xing	信号完整性	203
+xin hao cao zuo	信号操作	202
+xin ren lian	信任链	202
+xin xi chu li xi tong	信息处理系统	200
+xin xi fu wu qi	信息服务器	192
+xin xi liu lan	信息浏览	186
+xin xi zi yuan guan li	信息资源管理	173
+xin xi kong jian	信息空间	170
+xin xi zhu ti	信息主体	165
+xin hao jiao huan	信号交换	158
+xin xi liu lan fu wu	信息浏览服务	155
+xin xi liu mo xing	信息流模型	145
+xin xi gu ji	信息估计	142
+xin xi jing sai	信息竞赛	137
+xin xi wu zhang ai	信息无障碍	134
+xin jian kuai jie fang shi	新建快捷方式	127
+xin xi ji shu ji chu	信息技术基础	121
+xin jian gong zuo biao	新建工作表	117
+xin xi zhu guan	信息主管	107
+xin hao zhong gou	信号重构	103
+xin hao yuan zu kang	信号源阻抗	94
+xin yuan tou	信元头	94
+xin xi chu li yu yan	信息处理语言	88

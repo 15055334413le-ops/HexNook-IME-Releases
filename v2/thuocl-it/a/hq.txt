@@ -1,0 +1,15 @@
+hqtp	获取图片	553
+hqjd	获取焦点	475
+hqcs	获取参数	456
+hqdqsj	获取当前时间	417
+hqsj	获取时间	411
+hqlj	获取路径	356
+hqyhxx	获取用户信息	348
+hqz	获取值	348
+hqlxr	获取联系人	287
+hqbq	获取标签	286
+hqxtsj	获取系统时间	281
+hqbbh	获取版本号	255
+hqwltp	获取网络图片	253
+hqyj	华清远见	244
+hqgc	获取过程	243

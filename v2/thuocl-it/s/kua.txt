@@ -1,0 +1,11 @@
+kua jin cheng	跨进程	459
+kua liu lan qi	跨浏览器	405
+kua yu fang wen	跨域访问	356
+kua yu qing qiu	跨域请求	338
+kua xian cheng	跨线程	328
+kua ping tai kai fa	跨平台开发	326
+kua yu wen ti	跨域问题	326
+kua jin cheng tong xin	跨进程通信	301
+kua yu yan diao yong	跨语言调用	173
+kua xing he bing	跨行合并	123
+kua lie he bing	跨列合并	112

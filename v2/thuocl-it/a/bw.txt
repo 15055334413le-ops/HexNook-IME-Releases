@@ -1,0 +1,8 @@
+bwlms	备忘录模式	395
+bwjh	报文交换	244
+bwc	变位词	202
+bwbh	报文捕获	163
+bwjbm	报文鉴别码	153
+bwqsj	不完全数据	151
+bwjb	报文鉴别	109
+bwhcs	包围盒测试	86

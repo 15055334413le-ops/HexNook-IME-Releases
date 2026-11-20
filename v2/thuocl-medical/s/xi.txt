@@ -1,0 +1,120 @@
+xi jing yi yuan	西京医院	690
+xi bu qu ming	西布曲明	517
+xi tong xing hong ban lang chuang	系统性红斑狼疮	484
+xi shou ji liang lv	吸收剂量率	483
+xi ru xing sun shang	吸入性损伤	461
+xi zang gao yuan	西藏高原	458
+xi jun xing shi wu zhong du	细菌性食物中毒	445
+xi bao sheng wu xue	细胞生物学	444
+xi ru xing fei yan	吸入性肺炎	435
+xi jun xing li ji	细菌性痢疾	402
+xi guan xing liu chan	习惯性流产	389
+xi bao gong cheng	细胞工程	372
+xi guan jie bing	膝关节病	343
+xi jun xing gan ran	细菌性感染	317
+xi bao yi zhi	细胞移植	304
+xi zhi qi guan	细支气管	283
+xi shi ye	稀释液	274
+xi jun xing fei yan	细菌性肺炎	269
+xi di lan	西地兰	262
+xi tong sheng wu xue	系统生物学	258
+xi jun xing qian lie xian yan	细菌性前列腺炎	246
+xi guan jie sun shang	膝关节损伤	242
+xi jun xing yin dao yan	细菌性阴道炎	233
+xi shou zuo yong	吸收作用	230
+xi bao ku	细胞库	228
+xi jun du su	细菌毒素	224
+xi bao sheng li xue	细胞生理学	221
+xi bao ai	细胞癌	218
+xi jun nei du su	细菌内毒素	214
+xi si min	息斯敏	208
+xi yan ping zhu she ye	喜炎平注射液	202
+xi mi ti ding	西咪替丁	201
+xi huang cao	溪黄草	197
+xi bao yi chuan xue	细胞遗传学	196
+xi jun xing nao mo yan	细菌性脑膜炎	196
+xi luo da	希罗达	189
+xi gen	吸根	185
+xi bao fen lie su	细胞分裂素	183
+xi guan jie zhi huan shu	膝关节置换术	180
+xi fang wen ming shi	西方文明史	174
+xi bi tai	洗必泰	169
+xi yang can jiao nang	西洋参胶囊	169
+xi bao du	细胞毒	167
+xi jun xing chang yan	细菌性肠炎	165
+xi jun xing jie mo yan	细菌性结膜炎	163
+xi xin nao zhu she ye	细辛脑注射液	163
+xi yan	膝眼	160
+xi yin zhi wu	喜阴植物	160
+xi tong jie pou	系统解剖	158
+xi guan jie tuo wei	膝关节脱位	155
+xi xin nao	细辛脑	153
+xi zhi qi guan yan	细支气管炎	150
+xi jun xing xin nei mo yan	细菌性心内膜炎	147
+xi yang can han pian	西洋参含片	147
+xi bi ling	西比灵	135
+xi jun xing yin dao bing	细菌性阴道病	135
+xi ru ma zui	吸入麻醉	135
+xi tong xing xue guan yan	系统性血管炎	135
+xi bao sheng zhang yin zi	细胞生长因子	132
+xi wai fan	膝外翻	132
+xi chen	矽尘	129
+xi gua shuang run hou pian	西瓜霜润喉片	129
+xi bao du su	细胞毒素	125
+xi sha bi li	西沙必利	125
+xi ru xing tan ju	吸入性炭疽	121
+xi tuo xi dan kang	西妥昔单抗	121
+xi bao bing li xue	细胞病理学	117
+xi bao zhong zhang	细胞肿胀	117
+xi jun xue jian yan	细菌学检验	117
+xi le bao	西乐葆	117
+xi ni luo he re	西尼罗河热	117
+xi shun xian chong bing	吸吮线虫病	117
+xi jun xing fu mo yan	细菌性腹膜炎	108
+xi shu mei	希舒美	108
+xi bao jiao dan bai	细胞角蛋白	103
+xi bao xing tai xue	细胞形态学	103
+xi jiao di huang tang	犀角地黄汤	103
+xi luo mo si	西罗莫司	103
+xi bao mian yi xue	细胞免疫学	98
+xi di dian han pian	西地碘含片	98
+xi er qiu	洗耳球	98
+xi tong jie pou xue	系统解剖学	98
+xi bao za jiao	细胞杂交	91
+xi bao zhou qi dan bai	细胞周期蛋白	91
+xi guan xing tuo wei	习惯性脱位	91
+xi jun xing jiao mo yan	细菌性角膜炎	91
+xi si ta ding na	西司他丁钠	91
+xi huang wan	西黄丸	84
+xi lian cao	豨莶草	84
+xi luo ta zuo pian	西洛他唑片	84
+xi pa yi gu ken ye	西帕依固龈液	84
+xi yi nei ke xue	西医内科学	84
+xi bao sheng zhang tai	细胞生长肽	76
+xi di dian	西地碘	76
+xi jun xing bang guang yan	细菌性膀胱炎	76
+xi ni xian	悉尼线	76
+xi bao nian fu fen zi	细胞粘附分子	66
+xi bao pu xi	细胞谱系	66
+xi bi lv an han pian	西吡氯铵含片	66
+xi jun xing jiao mo kui yang	细菌性角膜溃疡	66
+xi luo ta zuo	西洛他唑	66
+xi ru ma zui yao	吸入麻醉药	66
+xi shan lie xi	喜山鬣蜥	66
+xi bao biao mian kang yuan	细胞表面抗原	51
+xi bao dong li xue	细胞动力学	51
+xi bao nian zhe	细胞粘着	51
+xi guan jie jie he	膝关节结核	51
+xi hong hua gan	西红花苷	51
+xi huang qing xing wan	西黄清醒丸	51
+xi jiao cha ren dai	膝交叉韧带	51
+xi jiao di huang wan	犀角地黄丸	51
+xi jiao hua du wan	犀角化毒丸	51
+xi li duan jia zhi	膝离断假肢	51
+xi ling jie du wan	犀羚解毒丸	51
+xi mi ti ding pian	西咪替丁片	51
+xi suo mi xing	西索米星	51
+xi tong xing jie chu xing pi yan	系统性接触性皮炎	51
+xi wu er quan rong ye	稀戊二醛溶液	51
+xi yi wai ke xue	西医外科学	51
+xi zhi qi guan fei pao ai	细支气管肺泡癌	51

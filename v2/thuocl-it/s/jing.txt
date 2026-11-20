@@ -1,0 +1,75 @@
+jing tai fang fa	静态方法	835
+jing tai bian liang	静态变量	749
+jing tai cheng yuan	静态成员	591
+jing tai wen jian	静态文件	521
+jing tai zi yuan	静态资源	506
+jing tai han shu	静态函数	503
+jing tai lei	静态类	492
+jing tai cheng yuan bian liang	静态成员变量	481
+jing tai cun chu	静态存储	471
+jing tai shu xing	静态属性	471
+jing tai dai ma kuai	静态代码块	458
+jing tai chu shi hua	静态初始化	447
+jing tai cheng yuan han shu	静态成员函数	439
+jing tai gong chang fang fa	静态工厂方法	427
+jing tai lian jie ku	静态链接库	406
+jing dian suan fa	经典算法	399
+jing tai hua	静态化	392
+jing tai bian yi	静态编译	390
+jing tai shu ju cheng yuan	静态数据成员	388
+jing tai quan ju bian liang	静态全局变量	377
+jing zhen	晶振	373
+jing tai zhu ce	静态注册	368
+jing tai wang ye	静态网页	367
+jing du wen ti	精度问题	362
+jing tai ju bu bian liang	静态局部变量	362
+jing gao kuang	警告框	358
+jing tai bang ding	静态绑定	345
+jing tai dai li	静态代理	345
+jing tai gong chang	静态工厂	342
+jing tai yu	静态域	338
+jing tai jia zai	静态加载	315
+jing tai lu you	静态路由	313
+jing tai shu ju qu	静态数据区	313
+jing mo an zhuang	静默安装	290
+jing xiang yuan	镜像源	259
+jing tai jian cha	静态检查	256
+jing tai lian biao	静态链表	255
+jing dian mo shi	经典模式	248
+jing jian zhi ling	精简指令	244
+jing tai ce shi	静态测试	237
+jing dian mo xing	经典模型	224
+jing que fu gai	精确覆盖	222
+jing he	净荷	218
+jing tai cha zhao	静态查找	217
+jing dian dai ma	经典代码	208
+jing dian cuo wu	经典错误	207
+jing tai cun chu fen pei	静态存储分配	204
+jing zhi tu xiang	静止图像	204
+jing mian fan she guang	镜面反射光	203
+jing tai bo ke	静态博客	203
+jing ti zhen dang qi	晶体振荡器	202
+jing tai dai ma jian cha	静态代码检查	199
+jing tai dai li mo shi	静态代理模式	198
+jing dian pai xu suan fa	经典排序算法	197
+jing tai huan chong qu	静态缓冲区	186
+jing tai cun chu qi	静态存储器	182
+jing tou guang yun	镜头光晕	180
+jing ji ke xing xing	经济可行性	175
+jing tai zhong ding wei	静态重定位	159
+jing tai wang luo	静态网络	155
+jing tai diao du	静态调度	154
+jing sai tu	竞赛图	140
+jing dian si xiang	经典思想	136
+jing pin ruan jian	精品软件	135
+jing duo tai	静多态	129
+jing dian suan fa wen ti	经典算法问题	125
+jing tai huan chong	静态缓冲	124
+jing zheng wang luo	竞争网络	122
+jing tai yu ming	静态域名	118
+jing tai fen xi cheng xu	静态分析程序	108
+jing tai yu ming jie xi	静态域名解析	105
+jing yan xi tong	经验系统	100
+jing zhi tu xiang ya suo	静止图像压缩	100
+jing ding wei	精定位	88
+jing shi ruan jian gong cheng	净室软件工程	86

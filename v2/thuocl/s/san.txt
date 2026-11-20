@@ -1,0 +1,982 @@
+san qi	三七	101601
+san jiao	三角	49129
+san ming zhi	三明治	39511
+san wen yu	三文鱼	21433
+san xia	三峡	20176
+san jia	三甲	13082
+san zhong	三中	13050
+san wei yi ti	三位一体	12414
+san ya shi	三亚市	11266
+san lai yi bu	三来一补	9649
+san qu	三区	9393
+san ci wo shou	三次握手	9343
+san shi	三市	8904
+san chuang	三创	6914
+san huan lu	三环路	6540
+san hu	散户	5810
+san dao cha	三道茶	5767
+san lie biao	散列表	5044
+san san liang liang	三三两两	4591
+san de li	三得利	4581
+san ling wu shen	三令五申	4545
+san lian	三联	4334
+san jiao xing	三角形	4092
+san wu cheng qun	三五成群	3873
+san qiao	三桥	3843
+san da dui	三大队	3539
+san jiao dai	三角带	3273
+san lie han shu	散列函数	3116
+san ban	三班	3109
+san yuan zu	三元组	2975
+san zi	馓子	2858
+san jian qi kou	三缄其口	2749
+san jiao han shu	三角函数	2672
+san ding	三鼎	2649
+san li tun	三里屯	2587
+san ceng jia gou	三层架构	2573
+san bu zhan	三不沾	2418
+san tian liang tou	三天两头	2302
+san kou	三口	2245
+san fan wu ci	三番五次	2195
+san zu ding li	三足鼎立	2179
+san yuan	三院	2146
+san gong li	三公里	2065
+san yuan yun suan fu	三元运算符	2007
+san ming shi	三明市	1984
+san wei shu zu	三维数组	1819
+san ju lin suan na	三聚磷酸钠	1766
+san liu jiu deng	三六九等	1753
+san cheng	三城	1631
+san dui	三队	1609
+san zhao	三招	1603
+san si er hou xing	三思而后行	1578
+san men xia shi	三门峡市	1563
+san hua jiu	三花酒	1437
+san yuan li	三元里	1436
+san ceng jie gou	三层结构	1397
+san xin	三新	1371
+san mao	三毛	1360
+san bei ji	三杯鸡	1355
+san li	三里	1238
+san yan liang yu	三言两语	1237
+san min	三民	1195
+san jiao xing mian ji	三角形面积	1160
+san ji guan	三极管	1142
+san xia guang chang	三峡广场	1132
+san yuan qiao	三元桥	1111
+san guang	散光	1110
+san shi er li	三十而立	1098
+san guo	三国	1079
+san nong	三农	1057
+san he	三和	1035
+san qing shan	三清山	1033
+san gong si	三公司	1018
+san zhi dui	三支队	1007
+san lin	三林	1003
+san he shi	三河市	962
+san kong	三孔	957
+san da kuang jia	三大框架	947
+san fang ku	三方库	912
+san xiang	三乡	909
+san ji huan cun	三级缓存	898
+san bai liu shi hang	三百六十行	873
+san wei chong jian	三维重建	870
+san cha lu kou	三岔路口	842
+san xian tang	三鲜汤	754
+san lv zhe tang	三氯蔗糖	738
+san jiang kou	三江口	724
+san xia da xue	三峡大学	722
+san xian mian	三鲜面	721
+san yi yuan	三医院	697
+san dun	三墩	678
+san bing you yong	散兵游勇	671
+san yang	三阳	659
+san jiao pou fen	三角剖分	654
+san ding bao	三丁包	648
+san ceng jiao huan ji	三层交换机	643
+san jie	三解	642
+san li	三立	631
+san si er xing	三思而行	623
+san fan shi	三范式	622
+san gu mao lu	三顾茅庐	615
+san wei tu xiang	三维图像	600
+san geng ban ye	三更半夜	572
+san cha kou	三岔口	565
+san yuan	三元	565
+san chang liang duan	三长两短	561
+san jiao cheng	三角城	547
+san li he	三里河	545
+san xian dou pi	三鲜豆皮	543
+san yang lu	三阳路	540
+san xia wu chu er	三下五除二	539
+san dong lou	三栋楼	529
+san xia ba qu	三峡坝区	518
+san ye chong hua shi	三叶虫化石	516
+san bu zhan	三不粘	503
+san xin er yi	三心二意	502
+san yuan cui hua zhuan huan qi	三元催化转换器	498
+san gao nong ye	三高农业	494
+san tou liu bi	三头六臂	490
+san mu yun suan	三目运算	477
+san bao	三堡	476
+san jiao	三教	476
+san da pao	三大炮	449
+san zhou	三洲	442
+san jiao jiu liu	三教九流	422
+san he	三合	417
+san shi liu ji	三十六计	405
+san wei jian mo	三维建模	383
+san tang	三堂	379
+san ji lian dong	三级联动	365
+san shan jie	三山街	356
+san ma lu	三马路	351
+san zao	三灶	345
+san gang	三港	343
+san yan qiao	三眼桥	342
+san pai lou	三牌楼	341
+san xi cun	三溪村	337
+san li	三力	336
+san dao guan	三道关	334
+san cha	三叉	322
+san fu wan	三府湾	317
+san lai yi bu qi ye	三来一补企业	317
+san cun bu lan zhi she	三寸不烂之舌	313
+san fan liang ci	三番两次	297
+san leng	三棱	294
+san lv jia wan	三氯甲烷	294
+san ding bao zi	三丁包子	293
+san cha shen jing tong	三叉神经痛	290
+san hao jie	三好街	287
+san tao ya	三套鸭	287
+san ji yu fang	三级预防	284
+san jiao fan bang	三角帆蚌	280
+san shi nian he dong	三十年河东	275
+san feng	三峰	274
+san xian hun tun	三鲜馄饨	274
+san cha ji da qiao	三汊矶大桥	259
+san sheng	三圣	255
+san tai zi	三台子	255
+san nan liang nv	三男两女	254
+san he ni	三合泥	252
+san guan tang	三官堂	251
+san ren cheng hu	三人成虎	249
+san sui	三穗	244
+san da fan shi	三大范式	241
+san cun jin lian	三寸金莲	237
+san jiang bing liu	三江并流	237
+san ji mo shi	三级模式	235
+san jiang xian	三江县	235
+san ceng jiao huan	三层交换	234
+san guan miao	三官庙	227
+san re pian	散热片	226
+san jiao bo li	三角玻璃	215
+san qi gong si	三汽公司	211
+san dao yan	三道堰	210
+san zi ma hua	馓子麻花	210
+san li ting	三里亭	204
+san xian shui jiao	三鲜水饺	203
+san yi	三义	203
+san jia cun	三家村	199
+san he tang	三合汤	198
+san yang kai tai	三阳开泰	197
+san xing wu shen	三省吾身	195
+san shui chang	三水厂	192
+san feng	三丰	191
+san zuo qiao	三座桥	187
+san cha he	三岔河	180
+san lian cun	三联村	180
+san jiao mian pian	三角面片	173
+san huang wu di	三皇五帝	172
+san tun bei	三屯碑	171
+san lie suo yin	散列索引	169
+san gui jiu kou	三跪九叩	166
+san ji	散剂	166
+san pu	三普	165
+san shan dao	三山岛	161
+san yin jiao	三阴交	161
+san lu kou	三路口	158
+san chao yuan lao	三朝元老	154
+san chong biao zhun	三重标准	154
+san se dan	三色蛋	154
+san xia xue yuan	三峡学院	154
+san jian ban	三尖瓣	152
+san gang wu chang	三纲五常	149
+san tiao xiang	三条巷	147
+san zhu xiang	三炷香	147
+san fan shi	三藩市	141
+san sheng you xing	三生有幸	141
+san jiao shan	三角山	140
+san lv yi xi	三氯乙烯	137
+san jiao	三焦	136
+san gu liu po	三姑六婆	135
+san yuan cun	三元村	134
+san cong si de	三从四德	131
+san lian shang she	三联商社	131
+san qi fen	三七粉	130
+san jiao hu	三角湖	129
+san shi si zhong	三十四中	128
+san xing jiu dian	三星酒店	128
+san tai men	三态门	126
+san quan	三泉	123
+san men lu	三门路	122
+san shi jiu zhong	三十九中	122
+san jiao hua yuan	三角花园	121
+san si dang	三四档	121
+san xing	三兴	121
+san xiao ji jia ben	三硝基甲苯	120
+san cha shen jing	三叉神经	119
+san hao qiao	三号桥	119
+san cha jie	三叉街	118
+san le	三乐	116
+san yan	三沿	115
+san yang hua er shen	三氧化二砷	114
+san guan	三官	113
+san tian da yu	三天打鱼	113
+san nian wu zai	三年五载	112
+san wen zhi huo tui	三文治火腿	111
+san ge chou pi jiang	三个臭皮匠	110
+san ren xing bi you wo shi	三人行必有我师	110
+san duo lu	三多路	109
+san qi qi guo ji	三七汽锅鸡	109
+san si hou xing	三思后行	109
+san si qiao yu	三丝敲鱼	109
+san die quan	三叠泉	108
+san yang	三垟	107
+san jiang hui liu	三江汇流	104
+san ping	三坪	104
+san cha	三岔	103
+san shi li pu	三十里铺	103
+san xing cun	三星村	103
+san pu	三浦	102
+san fan	散饭	100
+san jiao kong long	三角恐龙	100
+san jing jie	三经街	100
+san keng	三坑	100
+san dao gou	三道沟	97
+san ban shi chang	三板市场	96
+san jiao tang	三角塘	96
+san si yu chi	三丝鱼翅	96
+san shui shi	三水市	94
+san fang kuang jia	三方框架	93
+san yin	三阴	93
+san fu	三福	92
+san shan wu yue	三山五岳	92
+san jiao ji	三角肌	91
+san qiao cun	三桥村	91
+san hao lu	三号路	90
+san jiao cun	三角村	90
+san wei pian xu	三维偏序	90
+san xia dou fu	三虾豆腐	89
+san xian guo ba	三鲜锅巴	89
+san an	三岸	88
+san ji wang luo	三级网络	88
+san nan	三南	88
+san xian mi xian	三鲜米线	87
+san he kou	三河口	86
+san miao	三庙	85
+san huang pian	三黄片	84
+san kong qiao	三孔桥	84
+san qi si qie	三妻四妾	83
+san yuan lu	三元路	81
+san wan cun	三湾村	80
+san shi zhong	三十中	79
+san tai xian gong an ju	三台县公安局	79
+san tiao ying	三条营	79
+san tie	三萜	78
+san guan tang jie	三官堂街	76
+san dou	三斗	74
+san fen sou suo	三分搜索	74
+san shi liu zhong	三十六中	73
+san fen cha zhao	三分查找	71
+san jiang cun	三江村	71
+san wei zhong gou	三维重构	71
+san ba	三坝	69
+san ju hua bu li ben hang	三句话不离本行	69
+san xian zhou da qiao	三县洲大桥	68
+san guan miao cun	三官庙村	66
+san jin pian	三金片	66
+san dao guai	三道拐	65
+san quan lu	三泉路	63
+san se long xia	三色龙虾	63
+san fen tian xia you qi er	三分天下有其二	60
+san mei dou fu	三美豆腐	60
+san ping nong chang	三坪农场	60
+san ta lu	伞塔路	60
+san guan cun	三官村	59
+san dai hui ku wen	三带喙库蚊	58
+san bei ti	三倍体	57
+san xian lian hua su	三鲜莲花酥	57
+san yin jiao xue	三阴交穴	57
+san dao ling	三道岭	56
+san fen chang	三分场	56
+san sheng jie	三圣街	54
+san ji zhan	三级站	53
+san min cun	三民村	52
+san pi si	三皮丝	52
+san shan cun	三山村	52
+san wang jie	三王街	52
+san bu liang qiao	三步两桥	51
+san jiao chi	三角池	51
+san li zhuang	三里庄	50
+san wei sao miao yi	三维扫描仪	49
+san gong liu yuan	三宫六院	48
+san lin suan xian gan	三磷酸腺苷	48
+san lu ju	三路居	48
+san si liang mian	三丝凉面	48
+san yi miao	三义庙	48
+san quan liang jiao	三拳两脚	47
+san si mei mao su	三丝眉毛酥	47
+san xian yu chi	三鲜鱼翅	47
+san du	三渡	46
+san niang wan	三娘湾	46
+san xian shao mai	三鲜烧麦	46
+san dai yi nei zhi xi xue qin	三代以内直系血亲	45
+san dao wan	三道湾	45
+san fang lei ku	三方类库	45
+san qi pian	三七片	45
+san xin lu	三新路	45
+san chong shi	三重市	44
+san guan dian	三官殿	44
+san jiu wei tai	三九胃泰	44
+san jiang lu	三江路	43
+san lao si yan	三老四严	43
+san si tang	三丝汤	43
+san wu	三吴	43
+san dian jin	三点金	42
+san fang cha jian	三方插件	42
+san ji du	三季度	42
+san pu you he	三浦友和	42
+san yuan liao hua	三原蓼花	42
+san yuan liao hua tang	三原蓼花糖	42
+san jun ke duo shuai ye	三军可夺帅也	41
+san le lu	三乐路	41
+san xiu lu	三秀路	41
+san jie fang	三街坊	40
+san shi liu hang	三十六行	40
+san xing jie	三兴街	40
+san bei ou si tang	三北藕丝糖	39
+san si niu rou juan	三丝牛肉卷	39
+san ban qiao	三板桥	38
+san jia guan xiang	三家馆乡	38
+san jiao he zhi zao	三角褐指藻	38
+san long cun	三龙村	38
+san shi gong ming chen yu tu	三十功名尘与土	38
+san xian wan zi	三鲜丸子	38
+san lin cheng	三林城	37
+san shan ling yuan	三山陵园	37
+san xian guo tie	三鲜锅贴	37
+san zhao cun	三兆村	37
+san yi cun	三义村	36
+san ying men	三营门	36
+san bu	三埠	35
+san jiao su	三角酥	35
+san se gao	三色糕	35
+san dao you ji fu	三岛由纪夫	34
+san hua	三画	34
+san xia bin guan	三峡宾馆	34
+san jiao tang	三教堂	33
+san peng si you	三朋四友	33
+san you dong	三游洞	33
+san dao qiao	三道桥	32
+san jing lu	三经路	32
+san ma tou	三码头	32
+san qian li jiang shan	三千里江山	32
+san shen wu ling	三申五令	32
+san tai jie	三泰街	32
+san zhou cun	三洲村	32
+san hao jing	三号井	31
+san he mi jiao	三河米饺	31
+san hua jian fei cha	三花减肥茶	31
+san ming shi yan cao zhuan mai ju	三明市烟草专卖局	31
+san ba cun	三八村	30
+san cun zhi she	三寸之舌	30
+san tang xiao qu	三塘小区	30
+san tang zhu yuan	三塘竹苑	30
+san xin liang yi	三心两意	30
+san yue bu zhi rou wei	三月不知肉味	30
+san hong qi	三洪奇	29
+san shui xian	三水县	29
+san fang xiang	三房巷	28
+san he xian	三河县	28
+san huan gong si	三环公司	28
+san jiao xiang	三交乡	28
+san kuai tian	三块田	28
+san dao gou cun	三道沟村	27
+san gao lu	三高路	27
+san gei cun	三给村	27
+san he zhuang	三合庄	27
+san ji jie gou	三级结构	27
+san jiang jun	三将军	27
+san xian sha guo	三鲜砂锅	27
+san yuan ji di	三元及第	27
+san li shi	三力士	26
+san xian mu xi tang	三鲜木樨汤	26
+san ji long	三觭龙	25
+san jiao cheng	三角埕	25
+san zhou yi jie dao	三洲驿街道	25
+san li cun	三里村	24
+san san wu wu	三三五五	24
+san shi dou	三十都	24
+san jia zhuang	三家庄	23
+san keng cun	三坑村	23
+san lang miao	三廊庙	23
+san lin tang	三林塘	23
+san ling	三岭	23
+san quan shi pin	三全食品	23
+san sen guo ji jia ju	三森国际家居	23
+san xia mian	三虾面	23
+san zhong jin shan xiao qu	三中金山校区	23
+san huan lu kou	三环路口	22
+san jun guo hou jin kai yan	三军过后尽开颜	22
+san ling cun	三岭村	22
+san xin cun	三新村	22
+san ba guang chang	三八广场	21
+san jiao ce ju	三角测距	21
+san nan si nv	三男四女	21
+san cha qi dui	三查七对	20
+san ding da bao	三丁大包	20
+san qi shang yao pian	三七伤药片	20
+san shan men	三山门	20
+san ta si	三塔寺	20
+san wang cun	三王村	20
+san xia yi yuan	三峡医院	20
+san xiao lei you xi	三消类游戏	20
+san bei liang zhan dan jiu	三杯两盏淡酒	19
+san cha gang	三岔港	19
+san fang ze ren shi gu	三方责任事故	19
+san feng zhi neng	三丰智能	19
+san gui	三桂	19
+san li ting xiao qu	三里亭小区	19
+san shan ban luo qing tian wai	三山半落青天外	19
+san wei bian ma	三位编码	19
+san wei cun	三围村	19
+san yuan da	三元达	19
+san zhang zhen	三张镇	19
+san dian tou shi	三点透视	18
+san jian ban fan liu	三尖瓣返流	18
+san yue san ri tian qi xin	三月三日天气新	18
+san zhi er	三只耳	18
+san du shui	三渡水	17
+san gong jie dao	三工街道	17
+san huai gu zhe	三踝骨折	17
+san huai tang	三槐堂	17
+san qian chong ai zai yi shen	三千宠爱在一身	17
+san zao yi yuan	三灶医院	17
+san bao jiao nang	三宝胶囊	16
+san dian chang	三电厂	16
+san jiang qiao	三江桥	16
+san lin zhong xue	三林中学	16
+san qiu tian	三丘田	16
+san shi tou xiang	三十头乡	16
+san si gua juan	三丝瓜卷	16
+san wei qiao	三维桥	16
+san xian wan zi	三仙丸子	16
+san yuan jie	三元街	16
+san cha lu	三叉路	15
+san yang cun	三阳村	15
+san dao mei cao wu	三道眉草鹀	14
+san jiao ba	三角坝	14
+san jiao gu	三角骨	14
+san jiu yi yuan	三九医院	14
+san li long	三里垅	14
+san mei	三梅	14
+san men zhong xue	三门中学	14
+san mu ji tuan	三木集团	14
+san tian zhu	三天竺	14
+san xian xiao hun tun	三鲜小馄饨	14
+san dian cun	三殿村	13
+san guo xiang	三锅乡	13
+san lian ti	三联体	13
+san sheng miao	三圣庙	13
+san tang gong yu	三塘公寓	13
+san xing hua xu	伞形花序	13
+san cha gou	三岔沟	12
+san duan jing bei fa	三段警备法	12
+san duo qiao	三多桥	12
+san gu xing xi	三谷幸喜	12
+san guan tang	三官塘	12
+san gui cun	三桂村	12
+san lv yi xi zhong du	三氯乙烯中毒	12
+san qiao dong	三桥东	12
+san ri nve	三日疟	12
+san shi liu cun	三十六村	12
+san te suo dao	三特索道	12
+san wei si	三维丝	12
+san bei tu ran nuo	三杯吐然诺	11
+san cha jie xin cun	三叉街新村	11
+san dun cun	三墩村	11
+san gui jie	三贵街	11
+san li he dong lu nan kou	三里河东路南口	11
+san nian bu wei le	三年不为乐	11
+san nong chang	三农场	11
+san qing bi lan	三清碧兰	11
+san sheng si	三圣寺	11
+san tian men	三天门	11
+san wei xu ni xian shi	三维虚拟现实	11
+san yan qiao jie dao	三眼桥街道	11
+san bao she qu	三堡社区	10
+san chi chong shi	三池崇史	10
+san cun cun	三村村	10
+san guo zhou lang chi bi	三国周郎赤壁	10
+san he jie	三合街	10
+san he kou	三合口	10
+san huan lu lan tian li jiao qiao	三环路蓝天立交桥	10
+san ju ti	三聚体	10
+san li dian	三里店	10
+san lv shu ding chun	三氯叔丁醇	10
+san qi jiao nang	三七胶囊	10
+san qi mei du	三期梅毒	10
+san qu	散区	10
+san tang nan cun	三塘南村	10
+san wang zhuang cun	三王庄村	10
+san wei cun	三卫村	10
+san wei zhu ce	三维注册	10
+san cha cun	三叉村	9
+san cha zi	三岔子	9
+san guo qi men er bu ru	三过其门而不入	9
+san jiao dao	三角道	9
+san jin yao ye	三金药业	9
+san jiu wei tai ke li	三九胃泰颗粒	9
+san men cun	三门村	9
+san qi zong zao gan	三七总皂苷	9
+san se dan gao	三色蛋糕	9
+san si you yu	三丝鱿鱼	9
+san cai da xia	三彩大虾	8
+san gong dian	三宫殿	8
+san jiang da dao	三江大道	8
+san jiao jing	三角井	8
+san jiao keng	三角坑	8
+san jiao wo	三角窝	8
+san jie xiao xue	三街小学	8
+san pu jie	伞铺街	8
+san qing guan	三清观	8
+san suo suan xun huan	三羧酸循环	8
+san xian qie zi	三鲜茄子	8
+san yan jing hu tong	三眼井胡同	8
+san yue bu gan wei tian xia xian	三曰不敢为天下先	8
+san bu lao hu tong	三不老胡同	7
+san jia	三浃	7
+san jia dian huo che zhan	三家店火车站	7
+san jiao di di er she qu	三角地第二社区	7
+san jie ling jiao nang	散结灵胶囊	7
+san pu yan yi	三浦研一	7
+san qiao nan an	三桥南岸	7
+san qu she qu	三区社区	7
+san se nuo mi fan	三色糯米饭	7
+san shang feng tou wang gu xiang	散上峰头望故乡	7
+san xia nong hang	三峡农行	7
+san xia zhen	三峡镇	7
+san xiang cun	三乡村	7
+san xiang hai shang hua yuan	三湘海尚花园	7
+san xing zhuang	三星庄	7
+san yao	三窑	7
+san yuan tao ci ji tuan	三元陶瓷集团	7
+san zhou shi chang	三洲市场	7
+san zuo lun pian	三唑仑片	7
+san bei	三陂	6
+san bei jiao yu	三杯脚鱼	6
+san bei tong da dao	三杯通大道	6
+san dao ling kuang qu	三道岭矿区	6
+san er san yi yuan	三二三医院	6
+san gu xiang	三古乡	6
+san guang cun	三广村	6
+san he cun cun wei hui	三合村村委会	6
+san he cun wei hui	三合村委会	6
+san he xue yuan	三和学院	6
+san jiao feng	三角风	6
+san liang ban yao jiu	三两半药酒	6
+san ling	三凌	6
+san men li	三门里	6
+san ou	三欧	6
+san pu yao ye	三普药业	6
+san qian mao se jing bing	三千毛瑟精兵	6
+san ri ru chu xia	三日入厨下	6
+san shui wan cai chang	三水湾菜场	6
+san tan lu	三潭路	6
+san wang miao	三王庙	6
+san xian bing dou fu	三鲜冰豆腐	6
+san xian mo gu	三鲜蘑菇	6
+san xian yu wan	三鲜鱼丸	6
+san yi yuan niu rou jiao bing	三义园牛肉焦饼	6
+san ying men she qu	三营门社区	6
+san yuan qiao dong zhan	三元桥东站	6
+san zuo fen	三座坟	6
+san dao guai jie	三倒拐街	5
+san dao qiao zhen	三道桥镇	5
+san dao zha lan hu tong	三道栅栏胡同	5
+san dong qiao jie dao	三洞桥街道	5
+san dong wu	三栋屋	5
+san dun zhen zheng fu	三墩镇政府	5
+san fu zhuang	三福庄	5
+san he kou xiang	三河口乡	5
+san jian hu	三间虎	5
+san jiao chang	三角场	5
+san jing hu tong	三井胡同	5
+san lin cun	三林村	5
+san min jie	三民街	5
+san nian wei ci shi	三年为刺史	5
+san pu chun ma	三浦春马	5
+san qiao nong mao shi chang	三桥农贸市场	5
+san ru chun feng man luo cheng	散入春风满洛城	5
+san shi qing di	三十顷地	5
+san tang wen yuan	三塘汶苑	5
+san tiao dun	三条墩	5
+san tuo	三坨	5
+san xian zi mi dan gao	三鲜紫米蛋糕	5
+san xing huang ban nong die	三星黄斑弄蝶	5
+san yi miao she qu	三义庙社区	5
+san ying pan	三营盘	5
+san dao zha lan	三道栅栏	4
+san dian jia zhuang xian yuan an suan	三碘甲状腺原氨酸	4
+san fang xin	三房心	4
+san gao gong si	三高公司	4
+san gu chen yu cao lu zhi zhong	三顾臣于草庐之中	4
+san he ba xiang	三河坝乡	4
+san hua tian yun	三华天运	4
+san hui zhen	三会镇	4
+san jia dian jie dao	三家店街道	4
+san jiang hua yuan	三江花园	4
+san jiao di di yi she qu	三角地第一社区	4
+san jiao yu	三焦俞	4
+san li dun	三里墩	4
+san li he dong kou	三里河东口	4
+san li wan jie dao	三里湾街道	4
+san lu li zhen	三路里镇	4
+san mian jing	三面镜	4
+san nian chen hua diao jiu	三年陈花雕酒	4
+san nian wu gai yu fu zhi dao	三年无改于父之道	4
+san qi tong shu jiao nang	三七通舒胶囊	4
+san se ji yu wan	三色鸡鱼丸	4
+san shan xin xin jia yuan	三山新新家园	4
+san shi liu wei xiao ke jiao nang	三十六味消渴胶囊	4
+san shi yi nian hai jiu guo	三十一年还旧国	4
+san shui dao	三水道	4
+san tan	散滩	4
+san tang ying yuan	三塘樱园	4
+san wan liu qian chang	三万六千场	4
+san wang po	三望坡	4
+san xi shui	三溪水	4
+san xi shui ku	三溪水库	4
+san xian yao zhu	三鲜瑶柱	4
+san xiang bi yun pian	三相避孕片	4
+san xiao cui hua qi	三效催化器	4
+san xing da sha	三星大厦	4
+san yan	三雁	4
+san yang cun	三洋村	4
+san ye pin meng jun	三夜频梦君	4
+san yuan qiao bei	三元桥北	4
+san zhang cun	三长村	4
+san zuo qiao hu tong	三座桥胡同	4
+san ba zhen	三八镇	3
+san bai cao	三白草	3
+san bei fang hu lin dai	三北防护林带	3
+san cheng ju cun	三成局村	3
+san gu pin fan tian xia ji	三顾频烦天下计	3
+san gui suan mei	三硅酸镁	3
+san he dian	三合店	3
+san he kai fa qu	三和开发区	3
+san he nan li	三合南里	3
+san jia xiang	三嘉乡	3
+san jiao men	三角门	3
+san jiao pu	三角埔	3
+san jiao zhao chao	三角招潮	3
+san jing yin hang	三井银行	3
+san lang qiao	三郎桥	3
+san li dong jie dao	三里洞街道	3
+san li ting cun	三里亭村	3
+san lian dian	三连点	3
+san lin suan xian gan er na	三磷酸腺苷二钠	3
+san lin suan xian gan er na pian	三磷酸腺苷二钠片	3
+san nong yao zu xiang	三弄瑶族乡	3
+san qi zheng ji	三七蒸鸡	3
+san qian lu	三千路	3
+san qing cun	三青村	3
+san se ji ding	三色鸡丁	3
+san shan qiao	三善桥	3
+san shi bu da qiao	三十埠大桥	3
+san shi li jiao qiao	三市立交桥	3
+san tang gui yuan	三塘桂园	3
+san tian men cun	三天门村	3
+san wei ji li san	三味蒺藜散	3
+san wen yu pin xue zheng	三文鱼贫血症	3
+san wu yi yi chang	三五一一厂	3
+san xia juan yan chang	三峡卷烟厂	3
+san xing jie	三姓街	3
+san xing qiao	三星桥	3
+san xing zhuang cun	三星庄村	3
+san ye chong lei	三叶虫类	3
+san yi gong si	三益公司	3
+san yi yu nian qian	三亿余年前	3
+san ying su she	三营宿舍	3
+san yuan ju wei hui	三元居委会	3
+san zao jie	三灶街	3
+san zhu	三朱	3
+san an guang dian	三安光电	2
+san ban cun	三班村	2
+san ban xiao xue	三板小学	2
+san bao shi chang	三保市场	2
+san bu jie dao ban shi chu	三埠街道办事处	2
+san bu yong liang tian	散步咏凉天	2
+san cha he nan zhan	三岔河南站	2
+san chuan min lang	三船敏郎	2
+san chun bai xue gui qing zhong	三春白雪归青冢	2
+san dao chuan xiang	三道川乡	2
+san de da jiu dian	三德大酒店	2
+san er cun	三二村	2
+san fa nong pian zhou	散发弄扁舟	2
+san fu la qin	三氟拉嗪	2
+san gong hui zu xiang	三宫回族乡	2
+san gu quan cun	三股泉村	2
+san he jian xiang	三河尖乡	2
+san he ma chang	三河马场	2
+san he xiao qu	三和小区	2
+san he xiao qu	三合小区	2
+san he zhuang yuan	三合庄园	2
+san hu cun	三湖村	2
+san jian ban xia zhai	三尖瓣狭窄	2
+san jian liao jiu	三涧料酒	2
+san jian zhong xue	三建中学	2
+san jiang qiao tou	三江桥头	2
+san jiao bian zheng	三焦辨证	2
+san jiao huo shao	三角火烧	2
+san jiao qiao	三角桥	2
+san jiao xiang kou	三角巷口	2
+san jie wen ku wen	三节吻库蚊	2
+san jiu wei tai jiao nang	三九胃泰胶囊	2
+san keng	散坑	2
+san li dian da yuan pan	三里店大圆盘	2
+san li he yi qu she qu	三里河一区社区	2
+san li qiao lu	三里桥路	2
+san lie xiang	三烈乡	2
+san ling yin hang	三菱银行	2
+san lu ju she qu	三路居社区	2
+san men tan	三门滩	2
+san mu xiao qu	三木小区	2
+san nong xiang	三弄乡	2
+san nong zheng ce xue xi wen da	三农政策学习问答	2
+san qi yao jiu	三七药酒	2
+san qian li di shan he	三千里地山河	2
+san qu er she qu	三区二社区	2
+san qu san she qu	三区三社区	2
+san ri duan wu pi	三日断五匹	2
+san ru zhu lian shi luo mu	散入珠帘湿罗幕	2
+san se dan juan	三色蛋卷	2
+san sen jian cai cheng	三森建材城	2
+san shan ji	三山矶	2
+san shang bo shi	三上博史	2
+san shen wan	三肾丸	2
+san sheng ci jie	三圣祠街	2
+san shi liu wan ren	三十六万人	2
+san shi wan chun	三十烷醇	2
+san si tuo feng	三丝驼峰	2
+san tang	三糖	2
+san tang lan yuan	三塘兰园	2
+san ti xing	三体性	2
+san tiao shi da jie	三条石大街	2
+san wan li he dong ru hai	三万里河东入海	2
+san wen yu shou si juan	三文鱼寿司卷	2
+san wu hu lian	三五互联	2
+san xia ren cai shi chang	三峡人才市场	2
+san xian dan	三仙丹	2
+san xian long feng qiu	三鲜龙凤球	2
+san xun liang ru sheng	三旬两入省	2
+san yi tian xia rang	三以天下让	2
+san ying men nan	三营门南	2
+san zao che zhan	三灶车站	2
+san zhi xin lu tiao shu	三趾心颅跳鼠	2
+san zhong jin shan zhong xue	三中金山中学	2
+san zhu cun	三朱村	2
+san zi yang qin tang	三子养亲汤	2
+san ba lu kou	三八路口	1
+san ba na xi zu xiang	三坝纳西族乡	1
+san bai liu shi ri	三百六十日	1
+san bai shan cun	三白山村	1
+san bao gong yu	三堡公寓	1
+san bei nong bao dao	三杯弄宝刀	1
+san ben shuang mi chang rong pian	三苯双脒肠溶片	1
+san bian shu se dong wei jing	三边曙色动危旌	1
+san cha ku	三叉苦	1
+san chun che ma ke	三春车马客	1
+san chun san yue yi san ba	三春三月忆三巴	1
+san chun shi huang jing	三春湿黄精	1
+san chun xing le zai shui bian	三春行乐在谁边	1
+san chun yi mu hua cong feng	三春已暮花从风	1
+san dan ren jian le	散诞人间乐	1
+san di kou jie dao	三堤口街道	1
+san dian jia xian yuan an suan	三碘甲腺原氨酸	1
+san die zhong guo long	三叠中国龙	1
+san fa cheng xi liang	散发乘夕凉	1
+san fa xing nao yan	散发性脑炎	1
+san fen ge ju yu chou ce	三分割据纡筹策	1
+san feng huo luo wan	散风活络丸	1
+san feng yi chu qun	三峰意出群	1
+san feng zhen	三凤镇	1
+san fu shi qing qiu	三伏似清秋	1
+san fu wan xi kou	三府湾西口	1
+san gao nong ye shi fan qu	三高农业示范区	1
+san guan dong lin qu	三官洞林区	1
+san guan miao cun wei hui	三官庙村委会	1
+san guan san chi xue	散关三尺雪	1
+san hao di cun	三号地村	1
+san hao qiao shi chang	三号桥市场	1
+san he shan	三合山	1
+san hua shi xiang	三花石乡	1
+san huan xin cheng ying he yi yuan	三环新城英和医院	1
+san huang zhuang cun	三黄庄村	1
+san huo yang mei lin	散火杨梅林	1
+san jia dian hou jie	三家店后街	1
+san jia fu mai tang	三甲复脉汤	1
+san jian ban bi suo bu quan	三尖瓣闭锁不全	1
+san jian fang dong cun	三间房东村	1
+san jian fang xi cun	三间房西村	1
+san jian shan zhi jian	三尖杉酯碱	1
+san jian xue xiao	三建学校	1
+san jiang lou	三江楼	1
+san jiao yu xue	三焦俞穴	1
+san jie huan xiang xi gua jin yi	三节还乡兮挂锦衣	1
+san jing xiang	三井巷	1
+san ke zhen	三颗针	1
+san le lu kou	三乐路口	1
+san li he xiang	三里河乡	1
+san lian lv	三联律	1
+san lian ti mi ma	三联体密码	1
+san liang xiang	三两乡	1
+san liao she qu	三疗社区	1
+san lin suan ji chun	三磷酸肌醇	1
+san lin suan niao gan	三磷酸鸟苷	1
+san ling cun	三凌村	1
+san mei cun	三梅村	1
+san meng xiang	三猛乡	1
+san miao wan	三妙丸	1
+san miao xiang	三庙乡	1
+san nan ye cheng shu	三男邺城戍	1
+san nian ben zou kong pi gu	三年奔走空皮骨	1
+san nian liu luo ba shan dao	三年流落巴山道	1
+san nian zhe huan ci qi chi	三年谪宦此栖迟	1
+san nian zhi sang bi	三年之丧毕	1
+san ou cun	三欧村	1
+san ping zhen jie dao	三平镇街道	1
+san qi xue shang ning jiao nang	三七血伤宁胶囊	1
+san qi yang xue jiao nang	三七养血胶囊	1
+san qiang er nang guan	三腔二囊管	1
+san qiao jiao yi shi chang	三桥交易市场	1
+san qu tian liang fen	三驱田凉粉	1
+san ri kai weng xiang man cheng	三日开瓮香满城	1
+san ri yin bu san	三日饮不散	1
+san san zhi fa	三三制法	1
+san se ding	三色丁	1
+san shan yuan she qu	三山园社区	1
+san sheng yu duan yi chang duan	三声欲断疑肠断	1
+san shi er lian feng	三十二莲峰	1
+san shi hao xiang	三十号乡	1
+san shi liu ce zhong	三十六策中	1
+san shi liu gong tu hua bi	三十六宫土花碧	1
+san shi nian lai meng yi chang	三十年来梦一场	1
+san shi qin nai	三石琴乃	1
+san shi qiu yun wu mi chu	散似秋云无觅处	1
+san shi ri bu hai	三十日不还	1
+san shi si tuan chang	三十四团场	1
+san shui wan xiao qu	三水湾小区	1
+san si ban zao ji	三丝拌糟鸡	1
+san si mian ge da	三丝面疙瘩	1
+san si xiang	三思乡	1
+san su mu xiang	三苏木乡	1
+san tai dian zi	三泰电子	1
+san tai xin cun	三台新村	1
+san tong shu pian	散痛舒片	1
+san wei tan pan fa	三维谈判法	1
+san wen yi pin tang bao	三文一品汤包	1
+san wu bei ji wan	三物备急丸	1
+san wu cun	三吴村	1
+san wu ye zhong xin yue se	三五夜中新月色	1
+san xian guo ba	三鲜锅粑	1
+san xian lao chou huan e mei	三嫌老丑换蛾眉	1
+san xiang shuai bin feng qiu se	三湘衰鬓逢秋色	1
+san xing dian qi	三星电气	1
+san xing zhuang nan kou	三星庄南口	1
+san yang he bing	三阳合病	1
+san yang luo	三阳络	1
+san ye cao ye e	三叶草夜蛾	1
+san ye nong chang	三叶农场	1
+san yi li she qu	三义里社区	1
+san yi qiao	三义桥	1
+san yi quan zhen	三义泉镇	1
+san yi zhong gong	三一重工	1
+san yin ji yi bing zheng fang lun	三因极一病证方论	1
+san yong hu	三永湖	1
+san you hua gong chang	三友化工厂	1
+san you lu bei	三友路北	1
+san you lu nan	三友路南	1
+san you suo zi xie ke	三疣梭子蟹壳	1
+san yuan an hu tong	三元庵胡同	1
+san yuan cun	三源村	1
+san yuan dong qiao xi	三元东桥西	1
+san yuan hu tong	三源胡同	1
+san yuan qiao xi zhan	三元桥西站	1
+san yuan ru tong liang shang yan	三愿如同梁上燕	1
+san yuan zu bi shen	散员足庇身	1
+san yue cao qi qi	三月草萋萋	1
+san yue jin shi tou bai ri	三月尽是头白日	1
+san yue xia qu tang	三月下瞿塘	1
+san zai liu he jian	散在六合间	1
+san zhi xiang	三芝乡	1
+san zhou shan cun	三洲山村	1
+san ban cong guang yu	三斑丛光鱼	0
+san ban zhai ni yu	三斑宅泥鱼	0
+san cha gou zhao mang zhu	三叉钩爪盲蛛	0
+san chi fang duan jiang xie	三齿仿短浆蟹	0
+san chi feng huang luo	三齒鳳凰螺	0
+san chi zhuan ci zhu	三齿转刺蛛	0
+san dai qian chi hu die yu	三带前齿蝴蝶鱼	0
+san dai tuo gui jia	三带椭龟甲	0
+san dao mei ni que	三道眉拟雀	0
+san dian jing cao ming	三点茎草螟	0
+san fen jie chong	三分节虫	0
+san gou chong wei ding zhong	三钩虫未定种	0
+san gou ju huang	三沟驹蝗	0
+san gu kong	三骨孔	0
+san guang mao xie	散光毛蟹	0
+san ji xian ji ju xie	三脊线寄居蟹	0
+san jian fang xiong zhu ying ye jia	三尖方胸柱萤叶甲	0
+san jian mi feng xia	三间蜜蜂虾	0
+san jian mo yu	三间魔鱼	0
+san jiao ban he can e	三角斑褐蚕蛾	0
+san jiao ban zhang xu ye e	三角斑长须夜蛾	0
+san jiao bing guo ying fei	三角柄蜾赢蜚	0
+san jiao chi ban jiao chan	三角齿瓣角蝉	0
+san jiao chi shou shu	三角齿兽属	0
+san jiao da ji meng shui zao	三角大吉猛水蚤	0
+san jiao duo mian shui mu	三角多面水母	0
+san jiao gui zhu	三角鬼蛛	0
+san jiao hou li mang chun	三角后丽盲蝽	0
+san jiao hu die yu	三角蝴蝶鱼	0
+san jiao jie xia hu yu	三角捷鰕虎鱼	0
+san jiao ju la	三角聚鯻	0
+san jiao ku ye wa	三角枯叶蛙	0
+san jiao lv bu xing chong	三角绿步行虫	0
+san jiao sao	三角溞	0
+san jiao tou xi ling shui shi	三角头喜铃水虱	0
+san ku lu guan jiao juan	散库鲁冠蕉鹃	0
+san lian zhong luo	三連鐘螺	0
+san lie bai ye xi	三列柏叶螅	0
+san lie ji ying	三列棘蝇	0
+san lie niu zhu luo	三列扭柱螺	0
+san lun shi xiao piao ye zao	三轮氏小瓢叶蚤	0
+san qi ao fu xue	三崎凹腹鳕	0
+san wei luo bei ji ying	三尾裸背寄蝇	0
+san wei xiao hui die	三尾小灰蝶	0
+san wen wen ba weng	三纹蚊霸鹟	0
+san xian bi ke gui rou	三线闭壳龟肉	0
+san xian hong qian bi	三线红铅笔	0
+san xian hong qian bi deng yu	三线红铅笔灯鱼	0
+san xian ju xing ying zui ni gui	三弦巨型鹰嘴泥龟	0
+san xian yuan wei dou yu	三线圆尾斗鱼	0
+san xing he nong die	三星褐弄蝶	0
+san xing huang ying ye jia	三星黄萤叶甲	0
+san yan guai zhao chao xie	三眼怪招潮蟹	0
+san ye jie jiao chan	三叶结角蝉	0
+san ye sha lun chong	三叶砂轮虫	0
+san yi an jia lun chong	三翼鞍甲轮虫	0
+san zhai guang sai yu	三宅光鳃鱼	0
+san zhi zhi huan chong	三指指环虫	0
+san zhou yuan xing chong	三帚圆星虫	0

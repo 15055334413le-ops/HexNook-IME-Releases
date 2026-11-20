@@ -1,0 +1,32 @@
+wai bu lei	外部类	547
+wai bu diao yong	外部调用	463
+wai lian jie	外连接	444
+wai bu cun chu	外部存储	438
+wai jian yue shu	外键约束	432
+wai bu cheng xu	外部程序	430
+wai guan mo shi	外观模式	410
+wai wei she bei	外围设备	391
+wai bu zhong duan	外部中断	373
+wai jian guan lian	外键关联	364
+wai bu biao	外部表	328
+wai pai xu	外排序	310
+wai wang fang wen	外网访问	305
+wai bu pai xu	外部排序	304
+wai bu yang shi biao	外部样式表	303
+wai cun chu qi	外存储器	240
+wai mo shi	外模式	235
+wai bu zong xian	外部总线	230
+wai bu wang guan xie yi	外部网关协议	207
+wai jie cheng xu	外接程序	170
+wai wen fan yi	外文翻译	169
+wai lian jie	外联结	167
+wai cai jian	外裁剪	147
+wai lian wang	外联网	145
+wai ke jin cheng	外壳进程	134
+wai ke jiao ben	外壳脚本	127
+wai bu wei xie	外部威胁	115
+wai bu xie yi	外部协议	113
+wai ke yu yan	外壳语言	96
+wai wei chu li ji	外围处理机	94
+wai bu ye biao	外部页表	91
+wai guan wen jian	外观文件	86

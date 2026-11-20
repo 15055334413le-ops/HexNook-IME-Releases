@@ -1,0 +1,555 @@
+lou zhu	楼主	500773
+lou pan	楼盘	342120
+lou ceng	楼层	273725
+lou shang	楼上	258300
+lou chu	露出	249410
+lou dong	漏洞	237980
+lou xia	楼下	174595
+lou ti	楼梯	133235
+lou shi	楼市	116180
+lou fang	楼房	93440
+lou yu	楼宇	70290
+lou chu le	露出了	67500
+lou ding	楼顶	42745
+lou zhe	搂着	41080
+lou li	楼里	38700
+lou dian	漏电	38695
+lou mian	露面	38370
+lou shui	漏水	37245
+lou zhu	搂住	31770
+lou nei	楼内	28145
+lou dao	楼道	27445
+lou dian	露点	26165
+lou shui	漏税	25856
+lou ling	楼龄	24230
+lou ban	楼板	22165
+lou qian	楼前	21770
+lou ge	楼阁	21425
+lou dou	漏斗	21335
+lou kong	镂空	21195
+lou lan	楼兰	21080
+lou jia	楼价	19375
+lou xi	陋习	17775
+lou diao	漏掉	17105
+lou qi	漏气	16635
+lou le	露了	15500
+lou you	漏油	15145
+lou tai	楼台	14665
+lou zai	搂在	14635
+lou bao	漏报	13325
+lou lian	露脸	13280
+lou ti kou	楼梯口	12925
+lou zai	露在	12755
+lou le	漏了	12515
+lou shang zhe wei	楼上这位	12500
+lou ti jian	楼梯间	11905
+lou ti shang	楼梯上	10930
+lou zhong	楼中	10500
+lou de	楼的	9999
+lou hou	楼后	9999
+lou suan	漏算	9999
+lou suan le	漏算了	9999
+lou ta	楼塌	9999
+lou ta le	楼塌了	9999
+lou tou gai ding	搂头盖顶	9999
+lou tou gai lian	搂头盖脸	9999
+lou dao li	楼道里	9425
+lou yu dui jiang	楼宇对讲	9315
+lou zhe	露着	9115
+lou qun	楼群	9060
+lou chu	漏出	8745
+lou chu lai	露出来	8575
+lou chu lai le	露出来了	8575
+lou luo	喽啰	8515
+lou dong bai chu	漏洞百出	7870
+lou wai lou	楼外楼	7795
+lou wai	楼外	7755
+lou chu lai	漏出来	7750
+lou chu lai le	漏出来了	7750
+lou men	楼门	7660
+lou bao	搂抱	7395
+lou shang lou xia	楼上楼下	6900
+lou tou	露头	6445
+lou zhe ta	搂着他	6250
+lou pan xiao shou	楼盘销售	5965
+lou bei	露背	5785
+lou dong sao miao	漏洞扫描	5775
+lou chu shui mian	露出水面	5610
+lou wang	漏网	5570
+lou de	露得	5555
+lou chu xiao rong	露出笑容	5365
+lou yu	漏雨	5245
+lou shi	陋室	5185
+lou xian	露馅	5185
+lou hao	楼号	4880
+lou pan jian jie	楼盘简介	4695
+lou feng	漏风	4675
+lou yi	蝼蚁	4480
+lou de	露的	4444
+lou di	露底	4335
+lou zhe ta	搂着她	4250
+lou ti fu shou	楼梯扶手	4235
+lou jin	搂紧	4175
+lou yu zi kong	楼宇自控	4170
+lou zhen	漏诊	4055
+lou jian	露肩	3980
+lou guan	瘘管	3860
+lou chuan	楼船	3770
+lou chi	露齿	3765
+lou zi	篓子	3720
+lou wang zhi yu	漏网之鱼	3705
+lou dian	漏点	3690
+lou shao	漏勺	3655
+lou xing	楼型	3350
+lou chu ma jiao	露出马脚	3335
+lou de	漏得	3333
+lou jiao	漏交	3333
+lou jiao le	漏交了	3333
+lou lou	搂搂	3333
+lou yao	搂腰	3333
+lou di	楼底	3310
+lou shan guan	娄山关	3265
+lou gai	楼盖	3230
+lou yu zi dong hua	楼宇自动化	3140
+lou pan jia ge	楼盘价格	3135
+lou bai	露白	3125
+lou dong bu ding	漏洞补丁	3100
+lou ding shang	楼顶上	3095
+lou mian di jia	楼面地价	3085
+lou ru	露乳	3075
+lou ye	漏液	3060
+lou guang	漏光	2975
+lou jin	漏尽	2935
+lou guan	漏管	2920
+lou xia	漏下	2885
+lou yi shou	露一手	2885
+lou shi	漏失	2850
+lou ke	镂刻	2755
+lou xiang	陋巷	2595
+lou hua	楼花	2545
+lou tou	楼头	2510
+lou zhong lou	楼中楼	2485
+lou xiong	露胸	2360
+lou chu po zhan	露出破绽	2350
+lou di zai pei	露地栽培	2310
+lou zuo	楼座	2255
+lou de	漏的	2222
+lou guo	漏过	2222
+lou jiao	漏缴	2222
+lou jiao le	漏缴了	2222
+lou jian	漏检	2185
+lou lou bao bao	搂搂抱抱	2120
+lou hua	镂花	2060
+lou shan guan lu	娄山关路	2045
+lou ru	搂入	2025
+lou jie	漏接	1995
+lou sun	漏损	1865
+lou xie	漏泄	1830
+lou fu	露富	1715
+lou qu	楼区	1715
+lou shi ming	陋室铭	1700
+lou zi	漏字	1685
+lou bei zhuang	露背装	1650
+lou guan	楼管	1555
+lou zi	娄子	1545
+lou mian	楼面	1542
+lou qi zhuang	露脐装	1510
+lou qie	露怯	1485
+lou qi	露脐	1440
+lou guan tai	楼观台	1430
+lou tang guan suo	楼堂馆所	1385
+lou bian	楼边	1370
+lou su	陋俗	1305
+lou ji	漏记	1295
+lou xing qu	娄星区	1250
+lou tai ting ge	楼台亭阁	1230
+lou jin qu	漏进去	1180
+lou lou mian	露露面	1180
+lou tou can meng wu geng zhong	楼头残梦五更钟	1180
+lou di xia	楼底下	1160
+lou tian	漏填	1160
+lou cheng le	漏成了	1111
+lou chuang	漏窗	1111
+lou gao	楼高	1111
+lou guai	漏怪	1111
+lou guai le	漏怪了	1111
+lou guo	搂过	1111
+lou shang	搂上	1111
+lou tui	露腿	1111
+lou yao	露腰	1111
+lou zhuo	露拙	1111
+lou chu dian bao hu qi	漏触电保护器	1100
+lou yin	露阴	1085
+lou lou lian	露露脸	1020
+lou ti	漏题	1005
+lou zi	漏子	999
+lou di shi	娄底市	955
+lou guo mian	露过面	945
+lou san dian	露三点	935
+lou ma jiao	露马脚	885
+lou jie dian hua	漏接电话	875
+lou tun	露臀	865
+lou xiang	露相	855
+lou tou jiao	露头角	820
+lou fan xian	娄烦县	815
+lou kong	漏孔	815
+lou lu	漏芦	811
+lou fan	娄烦	795
+lou ting	楼亭	760
+lou ti	露体	725
+lou ti pi	露体癖	725
+lou yi xia	露一下	720
+lou dong li yong	漏洞利用	719
+lou feng	漏缝	690
+lou hu	漏壶	680
+lou gui	陋规	675
+lou ting	楼厅	665
+lou pan	漏判	625
+lou zi zhuang	楼梓庄	595
+lou lou	楼楼	562
+lou kan	漏看	530
+lou feng	露风	525
+lou zui	漏嘴	520
+lou chou	露丑	505
+lou qian	搂钱	450
+lou dong fen xi	漏洞分析	413
+lou xing	娄星	405
+lou shan guan zhen	娄山关镇	396
+lou wu	陋屋	390
+lou dou zi	漏斗子	380
+lou nai	露奶	355
+lou li mian	楼里面	349
+lou fang dong ye	漏防冻液	345
+lou chu yuan xing	露出原形	330
+lou ci chang	漏磁场	325
+lou xian er	露馅儿	325
+lou tou	搂头	320
+lou fang hua	楼房化	290
+lou lu	楼橹	290
+lou chi er xiao	露齿而笑	280
+lou qi le	漏气了	265
+lou xi ji	镂铣机	255
+lou chuan jiang jun	楼船将军	245
+lou cai ning	楼采凝	240
+lou guo ren he	漏过任何	222
+lou ta	搂他	222
+lou dong wa jue	漏洞挖掘	210
+lou cun	楼村	207
+lou chu qu	漏出去	195
+lou yi shang qie tou sheng	蝼蚁尚且偷生	195
+lou ding	露顶	190
+lou che	耧车	185
+lou zhi	漏卮	185
+lou xi ao bu	搂膝拗步	182
+lou yi lou	搂一搂	181
+lou ceng di	楼层低	179
+lou chu qu	露出去	170
+lou niao	漏尿	168
+lou zai huang	楼在晃	167
+lou zhong xin	楼中心	165
+lou shu guang	露曙光	160
+lou hui feng	娄会峰	156
+lou cai shen	楼财神	150
+lou qiao	娄桥	147
+lou bu chu	露不出	145
+lou bu zhu	搂不住	145
+lou lan mei nv	楼兰美女	141
+lou dong ceng chu	漏洞层出	137
+lou zhe yao	露着腰	126
+lou ceng gao	楼层高	125
+lou xi	漏隙	125
+lou chi xiao	露齿笑	115
+lou lan gu cheng	楼兰古城	115
+lou le ge tou	露了个头	115
+lou miao	露苗	111
+lou ta	搂她	111
+lou dian bao hu	漏电保护	109
+lou xia cun	楼下村	102
+lou jin zhong ming	漏尽钟鸣	101
+lou ban cheng zhong	楼板承重	100
+lou ban hou du	楼板厚度	100
+lou bei chang qun	露背长裙	100
+lou bing diao xiu	镂冰雕朽	100
+lou bing hua zhi	镂冰画脂	100
+lou bu tui bu xing	楼不推不行	100
+lou ceng chao xiang	楼层朝向	100
+lou ceng de gao du	楼层的高度	100
+lou ceng gao du	楼层高度	100
+lou ceng hao	楼层号	100
+lou chu di mian	露出地面	100
+lou chu le hu li wei ba	露出了狐狸尾巴	100
+lou chu le yi ge que kou	露出了一个缺口	100
+lou chu liao ya	露出獠牙	100
+lou chu xing zong	露出行踪	100
+lou chu yi ge	露出一个	100
+lou chu yi ge que kou	露出一个缺口	100
+lou chu zai	露出在	100
+lou cuo ren	搂错人	100
+lou da tui	露大腿	100
+lou dao kou	楼道口	100
+lou dao zhang	楼道长	100
+lou de duo	漏得多	100
+lou de duo	露得多	100
+lou de gao du	楼的高度	100
+lou di di qu	娄底地区	100
+lou di mian	楼地面	100
+lou diao le	漏掉了	100
+lou diao le a	漏掉了啊	100
+lou diao le shen me	漏掉了什么	100
+lou dong yao bu	漏洞要补	100
+lou dong zhang	楼栋长	100
+lou dou guan	漏斗管	100
+lou dou mo xing	漏斗模型	100
+lou dou qi	漏斗器	100
+lou dou zai huang	楼都在晃	100
+lou dou zhuang hua guan	漏斗状花冠	100
+lou fen di ban	漏粪地板	100
+lou feng di ban	漏缝地板	100
+lou feng le	漏风了	100
+lou feng lv	漏风率	100
+lou feng lv xiao	漏风率小	100
+lou feng sheng	漏风声	100
+lou ge lian	露个脸	100
+lou ge mian	露个面	100
+lou ge ta	楼阁塔	100
+lou ge ting tai	楼阁亭台	100
+lou gu ke	蝼蛄科	100
+lou gu ming ji	镂骨铭肌	100
+lou gu ming xin	镂骨铭心	100
+lou jia hui	娄佳惠	100
+lou jian geng chou	漏箭更筹	100
+lou jin cuo cai	镂金错彩	100
+lou jin cuo cai	镂金错采	100
+lou jin geng can	漏尽更残	100
+lou jin geng lan	漏尽更阑	100
+lou jin gou	娄金狗	100
+lou jin lai	漏进来	100
+lou jin tong	漏尽通	100
+lou jiu yuan cheng gong	楼救援成功	100
+lou lan chuan shuo	楼兰传说	100
+lou lan ren	楼兰人	100
+lou lan wang	楼兰王	100
+lou le ge lian	露了个脸	100
+lou le lian	露了脸	100
+lou le ma jiao	露了马脚	100
+lou le po zhan	露了破绽	100
+lou le xian	露了馅	100
+lou le yan	漏了眼	100
+lou le yi shou	露了一手	100
+lou lou lou	喽喽喽	100
+lou luo men	喽啰们	100
+lou men zhang	楼门长	100
+lou mian zei	漏面贼	100
+lou pan can shu	楼盘参数	100
+lou pan di tu	楼盘地图	100
+lou pan di zhi	楼盘地址	100
+lou pan jiang jia	楼盘降价	100
+lou shan hou	楼山后	100
+lou shang de	楼上的	100
+lou shang lian zhao	楼上帘招	100
+lou shang qu	搂上去	100
+lou shang zhu hu	楼上住户	100
+lou shi de tiao kong	楼市的调控	100
+lou shi diao	漏失掉	100
+lou shi hang qing	楼市行情	100
+lou shi jiang jia	楼市降价	100
+lou shi jiang wen	楼市降温	100
+lou shi re du	楼市热度	100
+lou shi tiao kong	楼市调控	100
+lou shi tiao kong xin zheng	楼市调控新政	100
+lou shi tiao kong zheng ce	楼市调控政策	100
+lou shi tiao zheng	楼市调整	100
+lou shi xia xing	楼市下行	100
+lou shi ye	漏视野	100
+lou shu wan	楼舒婉	100
+lou shui yan zhong	漏水严重	100
+lou shui zhuan hun tian yi	漏水转浑天仪	100
+lou sun lv	漏损率	100
+lou tai hui	楼台会	100
+lou tang lu	娄塘路	100
+lou ti ping tai	楼梯平台	100
+lou ti tai	楼梯台	100
+lou tong suan fa	漏桶算法	100
+lou wai le	楼歪了	100
+lou wang de	漏网的	100
+lou wang wa	漏网袜	100
+lou wang xiao yu	漏网小鱼	100
+lou wang xiao yu er	漏网小鱼儿	100
+lou wang you yu	漏网游鱼	100
+lou wang zhi yu er	漏网之鱼儿	100
+lou xia de	楼下的	100
+lou xia lai de	漏下来的	100
+lou xia zhu hu	楼下住户	100
+lou xian le	露馅了	100
+lou xiang dan piao	陋巷箪瓢	100
+lou xiang peng men	陋巷蓬门	100
+lou xie chun guang	漏泄春光	100
+lou xie tian ji	漏泄天机	100
+lou xin ke gu	镂心刻骨	100
+lou xing guang chang	娄星广场	100
+lou yang sheng	楼阳生	100
+lou yi chen	娄一晨	100
+lou yi de zhi	蝼蚁得志	100
+lou yi er	蝼蚁儿	100
+lou yi xiao	娄艺潇	100
+lou yong geng chang	漏永更长	100
+lou you le	漏油了	100
+lou yu dui jiang xi tong	楼宇对讲系统	100
+lou yu zi kong xi tong	楼宇自控系统	100
+lou yuan zhang	楼院长	100
+lou yue cai yun	镂月裁云	100
+lou zai huai li	搂在怀里	100
+lou zai yi qi	搂在一起	100
+lou zhang zhi	楼长制	100
+lou zhe bo zi	搂着脖子	100
+lou zhe jian bang	搂着肩膀	100
+lou zhe ni	搂着你	100
+lou zhe ni de	搂着你的	100
+lou zhe ni de bo zi	搂着你的脖子	100
+lou zhe ni men	搂着你们	100
+lou zhe ta de bo zi	搂着他的脖子	100
+lou zhe wo	搂着我	100
+lou zhe wo de	搂着我的	100
+lou zhe wo de bo zi	搂着我的脖子	100
+lou zhe wo men	搂着我们	100
+lou zhen lv	漏诊率	100
+lou zheng jie	楼正解	100
+lou zhong ken	楼中肯	100
+lou zhong lou mo shi	楼中楼模式	100
+lou zhu sha bi	楼主傻逼	100
+lou zhuan ye	楼专业	100
+lou zu zhang	楼组长	100
+lou yi shang qie tan sheng	蝼蚁尚且贪生	95
+lou zui	漏罪	90
+lou ren	漏人	88
+lou di zhong yuan	娄底中院	87
+lou di	娄底	85
+lou jian	搂肩	77
+lou lian er	露脸儿	75
+lou shui zhe	漏税者	75
+lou da ka	漏打卡	73
+lou bei	楼背	68
+lou su	漏诉	65
+lou xia qu	漏下去	65
+lou wei ba	露尾巴	60
+lou dou xiong	漏斗胸	55
+lou bu liao	漏不了	50
+lou wai wai	楼歪歪	50
+lou cui cui	楼脆脆	49
+lou feng zhen	娄葑镇	45
+lou zi	楼子	44
+lou ge lian er	露个脸儿	40
+lou tai dian ge	楼台殿阁	38
+lou dou xing zhi zhu	漏斗形蜘蛛	36
+lou hao man di lu ya duan	蒌蒿满地芦芽短	34
+lou lei	娄雷	29
+lou he zhen	剅河镇	28
+lou xiu	娄宿	28
+lou qiao zhen	娄桥镇	27
+lou bu chu lai	露不出来	25
+lou shi	陋识	25
+lou shi kong tang	陋室空堂	25
+lou xing	娄姓	25
+lou yi hua	娄义华	25
+lou tian	楼田	24
+lou dou zhi zhu	漏斗蜘蛛	21
+lou bu chu lai	漏不出来	20
+lou mao ji	楼茂记	20
+lou gao bu jian zhang tai lu	楼高不见章台路	18
+lou ru zhuang	露乳装	18
+lou de bi	露得比	15
+lou zhe ne	露着呢	15
+lou bu chu	漏不出	14
+lou dong shou ji	漏洞收集	14
+lou she	楼社	14
+lou fan	楼烦	13
+lou dong yan lian	漏洞演练	12
+lou kua kua	楼垮垮	12
+lou zai	楼仔	11
+lou dou zhu	漏斗蛛	10
+lou gu	蝼蛄	9
+lou long	陋龙	9
+lou shi fang	楼世芳	9
+lou zi zhuang	楼自庄	9
+lou zi zhuang cun	楼梓庄村	9
+lou ping	楼坪	8
+lou shan dao	娄山道	8
+lou jin zuo sheng chuan jing su	镂金作胜传荆俗	7
+lou xia chen	楼下陈	7
+lou xiang	楼巷	7
+lou ge tai	楼阁台	6
+lou chu ye	漏出液	5
+lou de bi	漏得比	5
+lou qiao zhong xue	娄桥中学	5
+lou ru	陋儒	5
+lou chuan ye xue gua zhou du	楼船夜雪瓜洲渡	4
+lou guan cang hai ri	楼观沧海日	4
+lou jia jia	楼加加	4
+lou jia zhuang	娄家庄	4
+lou zi zhuang xiang zheng fu	楼梓庄乡政府	4
+lou ge ling long wu yun qi	楼阁玲珑五云起	3
+lou ge tai xie	楼阁台榭	3
+lou guan yue yang jin	楼观岳阳尽	3
+lou qu	陋曲	3
+lou yu cun	娄峪村	3
+lou chi tian qi liang	漏迟天气凉	2
+lou duan ren chu jing	漏断人初静	2
+lou qu	漏区	2
+lou shan lu	娄山路	2
+lou xuan	楼玄	2
+lou yi wang huan kong long mu	蝼蚁往还空垄亩	2
+lou ying	楼英	2
+lou zhang cun	楼张村	2
+lou zi zhuang cun	楼自庄村	2
+lou bing cai yu	镂冰裁玉	1
+lou bing chui li	镂冰炊砾	1
+lou bing diao qiong	镂冰雕琼	1
+lou bing diao zhi	镂冰雕脂	1
+lou bo	漏播	1
+lou bo	耧播	1
+lou chen chui ying	镂尘吹影	1
+lou cheng	漏乘	1
+lou chuan xiao gu	楼船箫鼓	1
+lou cun man zu xiang	娄村满族乡	1
+lou di hua xi xie	娄底华溪蟹	1
+lou dong	楼栋	1
+lou dou bian mao chong	漏斗鞭毛虫	1
+lou dou du juan	漏斗杜鹃	1
+lou dou lu jiao shan hu	漏斗鹿角珊瑚	1
+lou dou tuo luo shan hu	漏斗陀螺珊瑚	1
+lou feng	楼凤	1
+lou gao mo jin wei lan yi	楼高莫近危栏倚	1
+lou gu jie	蝼蛄疖	1
+lou gu xue	漏谷穴	1
+lou gu zu	露股族	1
+lou guan chu huang	楼观雏蝗	1
+lou gui zhu fu	镂簋朱绂	1
+lou hao	蒌蒿	1
+lou ji da cai	漏齑搭菜	1
+lou jiao cun	楼脚村	1
+lou jiao yu gou sheng	楼角玉钩生	1
+lou jin pu cui	镂金铺翠	1
+lou jing yue qin men	楼静月侵门	1
+lou ke	漏刻	1
+lou lian jiao nang	楼莲胶囊	1
+lou liang cun	楼梁村	1
+lou qian yu liu chang	楼前御柳长	1
+lou shang huang hun yu wang xiu	楼上黄昏欲望休	1
+lou shi feng huang ming	楼识凤凰名	1
+lou tai jin shui	楼台近水	1
+lou tang	楼塘	1
+lou tou zhang li hua	楼头张丽华	1
+lou weng wo jiao fu	漏瓮沃焦釜	1
+lou xiang cai geng	陋巷菜羹	1
+lou ye	娄烨	1
+lou ye	漏夜	1
+lou ye	蒌叶	1
+lou yi tan sheng	蝼蚁贪生	1
+lou yin bei ri di mian mian	楼阴背日堤绵绵	1
+lou yu cai bing	镂玉裁冰	1
+lou yuan	娄园	1
+lou zhe ne	搂着呢	1
+lou zhi	蝼螲	1
+lou zhi jian chu	镂脂翦楮	1
+lou zhi nan man	漏卮难满	1
+lou zi hong	楼子红	1

@@ -1,0 +1,28 @@
+zuo biao zhuan huan	坐标转换	400
+zuo wai lian jie	左外连接	378
+zuo yong yu lian	作用域链	363
+zuo ye diao du	作业调度	357
+zuo ce cai dan	左侧菜单	312
+zuo ye kong zhi	作业控制	276
+zuo biao xi zhuan huan	坐标系转换	265
+zuo pian shu	左偏树	265
+zuo ye dui lie	作业队列	242
+zuo ye guan li	作业管理	234
+zuo yong yu jie xi	作用域解析	224
+zuo xuan zhuan zi fu chuan	左旋转字符串	204
+zuo ye chu li	作业处理	204
+zuo ye zhuang tai	作业状态	201
+zuo hua shan chu	左滑删除	184
+zuo ye you xian ji	作业优先级	168
+zuo ye liu	作业流	161
+zuo ye wen jian	作业文件	153
+zuo ye bu	作业步	136
+zuo ye kong zhi kuai	作业控制块	133
+zuo ye miao shu	作业描述	133
+zuo ye kong zhi yu yan	作业控制语言	132
+zuo ye fen ge	作业分割	107
+zuo ye mu lu	作业目录	105
+zuo xian xing wen fa	左线性文法	96
+zuo ye fen lei	作业分类	88
+zuo ye shuo ming	作业说明	88
+zuo ye tun tu liang	作业吞吐量	86

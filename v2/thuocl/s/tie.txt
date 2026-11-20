@@ -1,0 +1,191 @@
+tie ban	铁板	105443
+tie guan yin	铁观音	63823
+tie dan	铁蛋	30400
+tie lu ju	铁路局	25678
+tie xi	贴息	12926
+tie dao	铁道	9124
+tie tu	贴图	8921
+tie lu yun shu an quan	铁路运输安全	6598
+tie lu gong an chu	铁路公安处	5817
+tie lu qiao	铁路桥	3899
+tie ling	铁岭	3616
+tie lu yun shu fa yuan	铁路运输法院	2923
+tie ba	贴吧	1966
+tie qiao	铁桥	1959
+tie zheng ru shan	铁证如山	1694
+tie xian	贴现	1672
+tie lu jiao tong shi gu	铁路交通事故	1559
+tie xi	铁西	1409
+tie mian wu si	铁面无私	1229
+tie lu yun shu zhong ji fa yuan	铁路运输中级法院	1072
+tie ling shi	铁岭市	1038
+tie ban you yu	铁板鱿鱼	1026
+tie lu fa yuan	铁路法院	966
+tie lu yun shu jian cha yuan	铁路运输检察院	961
+tie mian	贴面	689
+tie xin qiao	铁心桥	600
+tie ban niu rou	铁板牛肉	537
+tie jian dan dao yi	铁肩担道义	528
+tie ban ding ding	铁板钉钉	461
+tie lu fen ju	铁路分局	447
+tie dao kou	铁道口	436
+tie shan ping	铁山坪	414
+tie lu yi yuan	铁路医院	380
+tie shi xin chang	铁石心肠	306
+tie dong	铁东	252
+tie si ju	铁四局	249
+tie dao xue yuan	铁道学院	246
+tie dao da sha	铁道大厦	228
+tie zhong	铁中	205
+tie lu xiao qu	铁路小区	200
+tie lu jian cha yuan	铁路检察院	197
+tie dan bai	铁蛋白	189
+tie li shi	铁力市	169
+tie tuo	铁托	169
+tie bo bo ao xiao yu	贴饽饽熬小鱼	155
+tie jiang ying	铁匠营	134
+tie xi guang chang	铁西广场	131
+tie xian cai	铁苋菜	131
+tie ji	贴剂	126
+tie lu si ji xue xiao	铁路司机学校	113
+tie shu kai hua	铁树开花	106
+tie dao da xue	铁道大学	97
+tie he jin chang	铁合金厂	97
+tie guo dan	铁锅蛋	91
+tie feng	铁锋	88
+tie fo si	铁佛寺	83
+tie lu cun	铁炉村	82
+tie chu mo cheng zhen	铁杵磨成针	80
+tie que fa	铁缺乏	79
+tie fa	铁法	76
+tie dong lu	铁东路	74
+tie xian lv	贴现率	74
+tie guai li	铁拐李	73
+tie ling shi yin zhou qu	铁岭市银州区	71
+tie mu zhen	铁木真	68
+tie lu huo wu yun shu he tong	铁路货物运输合同	66
+tie ban qie zi	铁板茄子	62
+tie xian cheng ben	贴现成本	62
+tie mian wu qing	铁面无情	61
+tie shi zi tou	铁狮子头	60
+tie fu liao fa	贴敷疗法	56
+tie lu liu yong tu di ban fa	铁路留用土地办法	56
+tie ta si lu	铁塔寺路	56
+tie bi tong qiang	铁壁铜墙	55
+tie er zhong	铁二中	48
+tie zui gang ya	铁嘴钢牙	48
+tie wu ju	铁五局	46
+tie sao zhou	铁扫帚	40
+tie ma bing he ru meng lai	铁马冰河入梦来	39
+tie fa shi	铁法市	38
+tie lu jie	铁路街	37
+tie ban tian ji	铁板田鸡	36
+tie bo bo ao yu	贴饽饽熬鱼	33
+tie ling lu	铁岭路	33
+tie lu miao	铁炉庙	33
+tie ma jin ge	铁马金戈	30
+tie bao	铁保	29
+tie hua yin gou	铁画银钩	29
+tie li lu	铁力路	29
+tie ban hei jiao niu liu	铁板黑椒牛柳	28
+tie bu ken wu san xiang	铁布肯乌散乡	27
+tie cao	铁槽	26
+tie gong ju	铁工局	23
+tie shan zhong lu	铁山中路	23
+tie kuai zi	铁筷子	19
+tie shan cun	铁山村	19
+tie lu ba	铁路坝	18
+tie xin gai	铁锌钙	17
+tie ban shan yu	铁板鳝鱼	16
+tie er she qu	铁二社区	15
+tie lu huo yun dan	铁路货运单	15
+tie lou zang zu xiang	铁楼藏族乡	14
+tie pi feng dou ke li	铁皮枫斗颗粒	14
+tie re ke ti xiang	铁热克提乡	14
+tie san zhong	铁三中	14
+tie shi zi fen	铁狮子坟	14
+tie xiang lu	铁香炉	13
+tie xiang si	铁像寺	13
+tie dian	铁店	12
+tie li	铁篱	12
+tie lu guang chang	铁路广场	12
+tie lu keng	铁炉坑	12
+tie ban zhu za	铁板猪杂	11
+tie lu liao yang yuan	铁路疗养院	11
+tie men kan	铁门坎	11
+tie she yuan	铁设院	11
+tie lu cai liao chang	铁路材料厂	10
+tie lu ju le bu	铁路俱乐部	10
+tie wu xiao	铁五小	10
+tie dao yi yuan	铁道医院	9
+tie fu dong jie	铁佛东街	9
+tie liu zhong	铁六中	8
+tie mai ke xiang	铁买克乡	8
+tie mu li ke xiang	铁木里克乡	8
+tie re mu xiang	铁热木乡	8
+tie ban you yu xu	铁板鱿鱼须	7
+tie shi er ju	铁十二局	7
+tie ban fei chang	铁板肥肠	6
+tie ma qiu feng da san guan	铁马秋风大散关	6
+tie men cun	铁门村	6
+tie ren zhong xue	铁人中学	6
+tie yi ju yi yuan	铁一局医院	6
+tie yun xiao	铁运校	6
+tie ban ji za	铁板鸡杂	5
+tie dong bei lu	铁东北路	5
+tie gai xiang	铁盖乡	5
+tie li cun	铁李村	5
+tie ling he	铁岭河	5
+tie lu tang	铁炉塘	5
+tie mian ji xian feng	铁面急先锋	5
+tie shi liu ju	铁十六局	5
+tie xian fu zhai	贴现负债	5
+tie lu xin cun	铁炉新村	4
+tie lu xin hao gong si	铁路信号公司	4
+tie xi san cun	铁西三村	4
+tie yi she qu	铁一社区	4
+tie ba zi ji	铁扒仔鸡	3
+tie bang chui zhi tong gao	铁棒锤止痛膏	3
+tie jing lan	铁井栏	3
+tie lu cun wei hui	铁炉村委会	3
+tie lu di er xiao xue	铁路第二小学	3
+tie mu er	铁穆耳	3
+tie pi chang	铁皮厂	3
+tie su si se qiu	铁素四色球	3
+tie ying she qu	铁营社区	3
+tie ban ni qiu	铁板泥鳅	2
+tie ban ri ben dou fu	铁板日本豆腐	2
+tie bei qu	铁北区	2
+tie chang hu tong	铁厂胡同	2
+tie mu er	铁木耳	2
+tie pi feng dou jiao nang	铁皮枫斗胶囊	2
+tie qi tu chu dao qiang ming	铁骑突出刀枪鸣	2
+tie sha gai zhen	铁沙盖镇	2
+tie shi liu ju dong zhan	铁十六局东站	2
+tie yi zhong dong xiao qu	铁一中东校区	2
+tie zhao wu	铁爪鹀	2
+tie ba xiang	铁坝乡	1
+tie ban yao hua	铁板腰花	1
+tie ding xiang	铁顶乡	1
+tie kuang she qu	铁矿社区	1
+tie li xian	铁力县	1
+tie lu shui dian duan	铁路水电段	1
+tie mao xiang	铁帽乡	1
+tie pu xiang	铁铺巷	1
+tie ran se	铁染色	1
+tie ren jie dao	铁人街道	1
+tie san cun	铁三村	1
+tie shan long	铁山垄	1
+tie shi xiang	铁市巷	1
+tie xi xiang	铁西乡	1
+tie ying hu tong	铁营胡同	1
+tie dao mu fen die	铁刀木粉蝶	0
+tie dao mu san ci jiao chan	铁刀木三刺角蝉	0
+tie geng hai tang er cha ya	贴梗海棠二叉蚜	0
+tie lie	蛈蛚	0
+tie mu lai yi hui die	铁木莱异灰蝶	0
+tie se rong mao nong die	铁色绒毛弄蝶	0
+tie shan bi luo	鐵柵筆螺	0
+tie xiu zhang xuan luo	铁銹长旋螺	0
+tie zhao que wu shu	铁爪雀鹀属	0
+tie zhao wu shu	铁爪鹀属	0

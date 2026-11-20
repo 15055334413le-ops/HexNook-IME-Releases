@@ -1,0 +1,11 @@
+ou he du	耦合度	544
+ou shi ju li	欧氏距离	366
+ou la hui lu	欧拉回路	347
+ou ji li de suan fa	欧几里得算法	273
+ou ji li de suan fa	欧几里德算法	248
+ou la lu jing	欧拉路径	239
+ou la tong lu	欧拉通路	227
+ou la dao lu	欧拉道路	166
+ou shu chang	偶数场	120
+ou fa gu zhang	偶发故障	96
+ou shu sao miao	偶数扫描	86

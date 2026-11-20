@@ -1,0 +1,78 @@
+wei huo	位或	538
+wei xin gong zhong hao	微信公众号	529
+wei yun suan fu	位运算符	435
+wei qu fan	位取反	420
+wei yu	位与	419
+wei xin gong zhong ping tai	微信公众平台	395
+wei yu	位域	357
+wei zhi ling	伪指令	354
+wei xin kai fa	微信开发	350
+wei fen bu shi	伪分布式	348
+wei xin gong zhong zhang hao	微信公众账号	334
+wei jing tai	伪静态	333
+wei cha fa	尾插法	332
+wei mu biao	伪目标	326
+wei tuo ji zhi	委托机制	316
+wei xin gong gong ping tai	微信公共平台	312
+wei di gui	尾递归	306
+wei lei xuan ze qi	伪类选择器	302
+wei lie	伪列	301
+wei xin kai fang ping tai	微信开放平台	301
+wei yi huo	位异或	298
+wei fei	位非	291
+wei tuo mo shi	委托模式	290
+wei xin jie kou	微信接口	284
+wei xiang ying	未响应	282
+wei hu guo cheng	维护过程	281
+wei biao shi	位标识	272
+wei yi dong hua	位移动画	272
+wei bo ke hu duan	微博客户端	259
+wei xing ji suan ji	微型计算机	254
+wei hu jie duan	维护阶段	253
+wei fen bu mo shi	伪分布模式	249
+wei tuo shi jian	委托事件	236
+wei te bi suan fa	维特比算法	225
+wei hu shi jian	维护时间	222
+wei hu cheng xu	维护程序	216
+wei zuo fu bo yi	威佐夫博弈	216
+wei xin qi ye hao	微信企业号	212
+wei hu ji hua	维护计划	210
+wei yi fen jie ding li	唯一分解定理	210
+wei xin fu wu hao	微信服务号	204
+wei deng lu ci	未登录词	201
+wei lai wang luo	未来网络	199
+wei wang zhan	微网站	196
+wei yi xu lie hao	唯一序列号	195
+wei cheng xu	微程序	194
+wei xin qian ming	微信签名	185
+wei she qu	微社区	182
+wei zheng li	未整理	179
+wei xin deng lu	微信登陆	176
+wei zhi tou ming xing	位置透明性	173
+wei xin gong gong hao	微信公共号	170
+wei xing cai dan	卫星菜单	170
+wei xin gong gong zhang hao	微信公共账号	169
+wei xin jie ru	微信接入	167
+wei ci luo ji	谓词逻辑	164
+wei dai xian	微带线	160
+wei ci yan suan	谓词演算	155
+wei zhi chuan gan qi	位置传感器	152
+wei ruan qi ye ku	微软企业库	150
+wei xie qing bao	威胁情报	148
+wei xin you xi	微信游戏	146
+wei ruan bi shi ti	微软笔试题	144
+wei ruan kai fang ji shu	微软开放技术	141
+wei xin ying jian ping tai	微信硬件平台	139
+wei xie fen xi	威胁分析	133
+wei xin ping tai kai fa	微信平台开发	133
+wei cheng xu kong zhi	微程序控制	125
+wei ming ling	微命令	121
+wei xing zhi bo	卫星直播	117
+wei gui lei	未归类	116
+wei hu ping mu	维护屏幕	107
+wei xiang	伪像	107
+wei ruan niu jin	微软牛津	105
+wei cheng xu she ji	微程序设计	100
+wei qu dong	位驱动	94
+wei yi chuan gan qi	位移传感器	94
+wei ti jiao	位提交	91

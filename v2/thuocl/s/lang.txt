@@ -1,0 +1,108 @@
+lang gou	狼狗	40979
+lang quan	狼犬	11704
+lang mu jiu	朗姆酒	5651
+lang dang ru yu	锒铛入狱	2584
+lang lang shang kou	朗朗上口	2373
+lang fang shi	廊坊市	1995
+lang lang	郎朗	1786
+lang tun hu yan	狼吞虎咽	1214
+lang ping	郎平	1160
+lang xian ping	郎咸平	938
+lang bei bu kan	狼狈不堪	804
+lang de e	朗德鹅	761
+lang zhong shi	阆中市	557
+lang zi hui tou	浪子回头	541
+lang bei wei jian	狼狈为奸	489
+lang ji tian ya	浪迹天涯	327
+lang xi	郎溪	322
+lang ya lu xiao xue	琅琊路小学	318
+lang yan si qi	狼烟四起	226
+lang zi hui tou jin bu huan	浪子回头金不换	219
+lang xi lu	郎溪路	217
+lang cai nv mao	郎才女貌	196
+lang shan	狼山	193
+lang zi ye xin	狼子野心	154
+lang de e	郎德鹅	139
+lang sha	浪莎	111
+lang bei tao cuan	狼狈逃窜	94
+lang ben shi tu	狼奔豕突	75
+lang jia yuan	郎家园	73
+lang chuang xing shen yan	狼疮性肾炎	65
+lang yuan	阆苑	61
+lang fa	狼垡	59
+lang xin gou fei	狼心狗肺	47
+lang ji jiang hu	浪迹江湖	42
+lang fei luo	朗费罗	36
+lang lang qian kun	朗朗乾坤	31
+lang qi zhu ma lai	郎骑竹马来	31
+lang qia zi	浪卡子	31
+lang shi guo ji jie qu	朗诗国际街区	31
+lang ya mi	狼牙蜜	29
+lang mou er	朗缪尔	27
+lang qiao shui an	廊桥水岸	27
+lang fang er tiao	廊房二条	23
+lang hua tian xiang yu	浪花天香鱼	23
+lang duo	浪多	22
+lang xiong	浪兄	20
+lang xin zhuang	郎辛庄	19
+lang bo mo xing	朗伯模型	17
+lang shan	琅山	17
+lang xi	朗溪	17
+lang ge han si xi bao	朗格汉斯细胞	16
+lang chuang shen yan	狼疮肾炎	14
+lang xie	琅邪	12
+lang fa er cun	狼垡二村	10
+lang bo de jie	朗伯德街	8
+lang jia	浪茄	7
+lang jia hu tong	郎家胡同	6
+lang man he shan	浪漫和山	6
+lang nan	朗南	6
+lang shan jie dao	狼山街道	6
+lang shao an	郎绍安	6
+lang ya su tang	琅琊酥糖	6
+lang zhuang	郎庄	6
+lang cun	朗村	5
+lang zhong xian	阆中县	5
+lang jia qiao	郎家桥	4
+lang nan zhen	埌南镇	4
+lang shan cun	琅山村	4
+lang shi xi yuan	朗诗熙园	4
+lang ya shan zhen	狼牙山镇	4
+lang zi	朗子	4
+lang cun cun	郎村村	3
+lang hu shao cun	狼虎哨村	3
+lang jin yu du yuan he shi	郎今欲渡缘何事	3
+lang qin cui yuan	浪琴翠园	3
+lang shan lu	郎山路	3
+lang sui	郎遂	3
+lang tao sha bei dai he	浪淘沙北戴河	3
+lang ting ji	郎廷极	3
+lang zhong bai tang zheng mo	阆中白糖蒸馍	3
+lang bao chen	郎葆辰	2
+lang chuan da fu	浪川大辅	2
+lang da tian men shi bi kai	浪打天门石壁开	2
+lang duo xiang	浪多乡	2
+lang hua you yi qian zhong xue	浪花有意千重雪	2
+lang jia yuan	朗家园	2
+lang ping xiang	浪坪乡	2
+lang qing ming ju	朗晴名居	2
+lang tao feng bo zi tian ya	浪淘风簸自天涯	2
+lang bei feng chen li	狼狈风尘里	1
+lang bo xiang	浪波乡	1
+lang fang di jiu zhong xue	廊坊第九中学	1
+lang fang hui zhan zhong xin	廊坊会展中心	1
+lang huan xiang	琅环乡	1
+lang jian	郎简	1
+lang jie xue xiang	朗杰学乡	1
+lang xi cun	郎西村	1
+lang xia san wu qi bai yan	浪下三吴起白烟	1
+lang ya sheng cai	狼牙生菜	1
+lang yin liu gong pian	朗吟六公篇	1
+lang zhong sheng shi ke chang duan	阆中胜事可肠断	1
+lang zhou cheng nan tian xia xi	阆州城南天下稀	1
+lang bu ye yang	朗布耶羊	0
+lang deng shi bao li yu	朗登氏宝丽鱼	0
+lang lu ke	狼鲈科	0
+lang qia zi yan huang qi	浪卡子岩黄耆	0
+lang xi yin yu	郎溪银鱼	0
+lang zhu huo ke huang feng	狼蛛霍克黄蜂	0

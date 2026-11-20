@@ -1,0 +1,14 @@
+tou jie dian	头结点	546
+tou ying ju zhen	投影矩阵	367
+tou cha fa	头插法	350
+tou ying bian huan	投影变换	316
+tou shi bian huan	透视变换	267
+tou ying ping mian	投影平面	231
+tou ming zhuang tai lan	透明状态栏	220
+tou xiang shang chuan	头像上传	210
+tou ming chuang kou	透明窗口	194
+tou ying zhuan huan	投影转换	190
+tou ming chuan song	透明传送	159
+tou ming wang guan	透明网关	155
+tou dai shi xian shi qi	头戴式显示器	132
+tou ming qiao jie	透明桥接	91

@@ -1,0 +1,20 @@
+ti jiao shu ju	提交数据	550
+ti jiao biao dan	提交表单	538
+ti shi kuang	提示框	536
+ti jiao shi wu	提交事务	521
+ti jiao dai ma	提交代码	484
+ti huan zi fu chuan	替换字符串	421
+ti du xia jiang fa	梯度下降法	397
+ti gong cheng xu	提供程序	389
+ti shi chuang kou	提示窗口	339
+ti du xia jiang suan fa	梯度下降算法	303
+ti mu jie xi	题目解析	281
+ti jiao zhuang tai	提交状态	264
+ti huan suan fa	替换算法	257
+ti mu fen lei	题目分类	215
+ti huan ce lve	替换策略	213
+ti dai xuan ze	替代选择	184
+ti huan kong ge	替换空格	176
+ti sheng jin cheng quan xian	提升进程权限	133
+ti dai mi ma	替代密码	130
+ti mu xiang jie	题目详解	122

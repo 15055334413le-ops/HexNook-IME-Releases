@@ -1,0 +1,74 @@
+ke zhi xing wen jian	可执行文件	796
+ke zhi xing cheng xu	可执行程序	603
+ke hu duan cheng xu	客户端程序	577
+ke xuan can shu	可选参数	539
+ke bian can shu	可变参数	505
+ke bian shu zu	可变数组	412
+ke zhong ru	可重入	408
+ke xue ji shu fa	科学计数法	390
+ke hu duan kai fa	客户端开发	383
+ke fu yong xing	可复用性	376
+ke hu duan ce shi	客户端测试	375
+ke ce shi xing	可测试性	366
+ke bian zi fu chuan	可变字符串	350
+ke shi hua gong ju	可视化工具	350
+ke hu duan fu wu qi	客户端服务器	346
+ke chuan dai she bei	可穿戴设备	320
+ke xuan lei xing	可选类型	320
+ke guan li xing	可管理性	312
+ke xuan zhi	可选值	311
+ke chi jiu hua	可持久化	308
+ke bian can shu lie biao	可变参数列表	283
+ke hu hua	客户化	279
+ke kuo chong xing	可扩充性	276
+ke ca	可擦	259
+ke shi hua bian cheng	可视化编程	258
+ke zhong ru han shu	可重入函数	258
+ke jian xing wen ti	可见性问题	246
+ke xiu gai xing	可修改性	240
+ke bian zhang can shu	可变长参数	238
+ke zhong fu xing	可重复性	235
+ke bian can shu han shu	可变参数函数	234
+ke ping bi zhong duan	可屏蔽中断	230
+ke bing dui	可并堆	198
+ke kong zhi xing	可控制性	197
+ke bian can shu mo ban	可变参数模板	186
+ke chuan xing xing	可串行性	182
+ke ti huan can shu	可替换参数	182
+ke xuan lian	可选链	180
+ke bian bi te lv	可变比特率	176
+ke bian fen qu	可变分区	176
+ke bian cheng kong zhi qi	可编程控制器	174
+ke fen pei kong jian	可分配空间	164
+ke kao xing she ji	可靠性设计	162
+ke kao xing fen xi	可靠性分析	153
+ke xin ji suan	可信计算	153
+ke jian dian	可见点	151
+ke bian zi zhang	可变字长	148
+ke fen ji xing	可分级性	143
+ke jian ce xing	可检测性	142
+ke ji suan xing li lun	可计算性理论	138
+ke man zu xing wen ti	可满足性问题	133
+ke kao xing shu ju	可靠性数据	131
+ke chuan dai ying yong	可穿戴应用	130
+ke shi fen xi	可视分析	130
+ke ce shi xing she ji	可测试性设计	127
+ke fu yong gou jian	可复用构件	120
+ke ji lun wen xie zuo	科技论文写作	119
+ke kao xing ping jia	可靠性评价	110
+ke kuo suo xing	可扩缩性	110
+ke kuo zhan yu yan	可扩展语言	110
+ke lu you xie yi	可路由协议	109
+ke ji suan han shu	可计算函数	108
+ke guan cha xing	可观察性	104
+ke ji chao liu	科技潮流	104
+ke kao xing mo xing	可靠性模型	104
+ke xin ji suan ji	可信计算基	104
+ke xue shu ju ku	科学数据库	104
+ke shi yu yan	可视语言	100
+ke xuan gong zuo liu	可选工作流	98
+ke cha xun lei xing	可查询类型	91
+ke chuan dai ji suan ji	可穿戴计算机	91
+ke shi hua guan li qi	可视化管理器	91
+ke kao xing zeng zhang	可靠性增长	88
+ke lin bi bao	克林闭包	88

@@ -1,0 +1,65 @@
+yao xiang	药箱	872
+yao he	药盒	603
+yao tui tong	腰腿痛	600
+yao chui gu zhe	腰椎骨折	597
+yao wu guo min	药物过敏	529
+yao wu bu liang fan ying	药物不良反应	476
+yao pin biao zhun	药品标准	468
+yao wu zhong du	药物中毒	455
+yao bei tong	腰背痛	362
+yao shi guan li	药事管理	349
+yao wu xi shou	药物吸收	328
+yao xue fu wu	药学服务	310
+yao pin zhi liang biao zhun	药品质量标准	294
+yao wu yi lai xing	药物依赖性	279
+yao wu xiang hu zuo yong	药物相互作用	276
+yao zhi jia	咬指甲	263
+yao zhui chuan ci	腰椎穿刺	250
+yao wu xing gan yan	药物性肝炎	248
+yao xiao xue	药效学	247
+yao pin tong yong ming	药品通用名	246
+yao wu fen xi	药物分析	242
+yao min shi yan	药敏试验	240
+yao wu jing ji xue	药物经济学	230
+yao wu xing bi yan	药物性鼻炎	226
+yao pin you xiao qi	药品有效期	224
+yao yong dong wu	药用动物	222
+yao wu he cheng	药物合成	208
+yao wu ji xing	药物剂型	208
+yao wu guo min fan ying	药物过敏反应	205
+yao yuan xing ji bing	药源性疾病	191
+yao tong bing	腰痛病	187
+yao wu xu ji	药物蓄积	182
+yao chui jie he	腰椎结核	174
+yao wu xi tuo zhi jia	药物洗脱支架	171
+yao yang guan	腰阳关	145
+yao wu min gan shi yan	药物敏感试验	142
+yao wu pai xie	药物排泄	139
+yao chui bi tong wan	腰椎痹痛丸	135
+yao wu dai xie dong li xue	药物代谢动力学	135
+yao bi tong jiao nang	腰痹通胶囊	129
+yao chui chuan ci shu	腰椎穿刺术	125
+yao wu dong li xue	药物动力学	125
+yao yong zhi wu xue	药用植物学	125
+yao li xiao ying	药理效应	113
+yao ai tiao	药艾条	108
+yao tui tong wan	腰腿痛丸	108
+yao xi tong jiao nang	腰息痛胶囊	108
+yao yong tan	药用炭	108
+yao tong ning jiao nang	腰痛宁胶囊	103
+yao wu xing wei yan	药物性胃炎	98
+yao shan	腰疝	91
+yao shi guan li yu fa gui	药事管理与法规	91
+yao wu yi chuan xue	药物遗传学	84
+yao xiao dong li xue	药效动力学	84
+yao tui tong tie	腰腿痛贴	76
+yao wu du li xue	药物毒理学	76
+yao yong gao fen zi cai liao	药用高分子材料	76
+yao ji jian xi gan ran	咬肌间隙感染	66
+yao shi guan li xue	药事管理学	66
+yao wu he cheng fan ying	药物合成反应	66
+yao ce xin dian tu	遥测心电图	51
+yao chui di hua	腰椎骶化	51
+yao dong mai	腰动脉	51
+yao qi	腰奇	51
+yao yu xue	腰俞穴	51

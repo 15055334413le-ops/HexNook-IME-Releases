@@ -1,0 +1,295 @@
+yi liao bao zhang	医疗保障	1665
+yi xue guan cha	医学观察	1152
+yi de	医德	1144
+yi qing jian ce	疫情监测	862
+yi liao she shi	医疗设施	856
+yi feng	医风	821
+yi yuan gan ran	医院感染	807
+yi xue mei rong	医学美容	705
+yi lei chuan ran bing	乙类传染病	660
+yi yong hao cai	医用耗材	650
+yi xue jian yan	医学检验	620
+yi liao la ji	医疗垃圾	613
+yi an	医案	598
+yi chuan xing ji bing	遗传性疾病	583
+yi wen	伊蚊	545
+yi gan biao mian kang yuan	乙肝表面抗原	539
+yi dian	疫点	490
+yi xue ge li	医学隔离	479
+yi xing gan yan yi miao	乙型肝炎疫苗	477
+yi yi ren	薏苡仁	445
+yi yan	义眼	444
+yi chun zhong du	乙醇中毒	441
+yi ji yu fang	一级预防	414
+yi ci xing kou zhao	一次性口罩	399
+yi xing bing du xing gan yan	乙型病毒性肝炎	376
+yi nao yi miao	乙脑疫苗	366
+yi he	医和	363
+yi xing gan yan bing du	乙型肝炎病毒	353
+yi xue ying xiang xue	医学影像学	337
+yi chuan zi xun	遗传咨询	332
+yi chuan bei jing	遗传背景	313
+yi yuan xing gan ran	医源性感染	309
+yi zhuang jie chang	乙状结肠	304
+yi xian zhong liu	胰腺肿瘤	298
+yi yuan di	疫源地	296
+yi gan liang dui ban	乙肝两对半	294
+yi qi jian pi	益气健脾	293
+yi xue yi chuan xue	医学遗传学	290
+yi yuan nei gan ran	医院内感染	288
+yi gan mian yi qiu dan bai	乙肝免疫球蛋白	287
+yi dao su beng	胰岛素泵	284
+yi bing fen	异丙酚	281
+yi wei ren shen	异位妊娠	280
+yi qi cong ming wan	益气聪明丸	279
+yi gan zhe	易感者	272
+yi zhi huang hua	一枝黄花	266
+yi qi sheng jin	益气生津	256
+yi nao jian du huo yi miao	乙脑减毒活疫苗	249
+yi chuan biao ji	遗传标记	248
+yi ci xing shu ye qi	一次性输液器	247
+yi xue lun li xue	医学伦理学	243
+yi xue xin li xue	医学心理学	240
+yi ji yin	异基因	235
+yi zhi xi bao	抑制细胞	235
+yi xue mei xue	医学美学	233
+yi xue sheng wu xue	医学生物学	233
+yi shui	疫水	231
+yi zhi ren	益智仁	230
+yi nao bing du	乙脑病毒	229
+yi zhi wu	移植物	220
+yi zhi xiao ying	抑制效应	218
+yi xue kang fu	医学康复	217
+yi xiang zheng	臆想症	216
+yi mi ren	薏米仁	214
+yi yong mian qian	医用棉签	213
+yi mei	胰酶	207
+yi liao ti yu	医疗体育	204
+yi xue mei rong ji shu	医学美容技术	204
+yi dao yi zhi	胰岛移植	197
+yi zhi wu kang su zhu bing	移植物抗宿主病	197
+yi xian an ji fen	乙酰氨基酚	196
+yi bing qin	异丙嗪	194
+yi shi er zhi chang qie chu shu	胰十二指肠切除术	191
+yi dao su yang sheng zhang yin zi	胰岛素样生长因子	185
+yi bing tong zhi	异病同治	183
+yi gu wen	医古文	183
+yi gan biao mian kang ti	乙肝表面抗体	171
+yi dao xi bao liu	胰岛细胞瘤	169
+yi qi an shen	益气安神	169
+yi luan shuang sheng	异卵双生	167
+yi ci xing shi yong dao niao guan	一次性使用导尿管	165
+yi na pu li	依那普利	165
+yi zhi pai chi	移植排斥	165
+yi da la feng	依达拉奉	163
+yi xian yi zhi	胰腺移植	163
+yi xing nao yan mie huo yi miao	乙型脑炎灭活疫苗	163
+yi yuan yao shi guan li	医院药事管理	163
+yi zhi su	抑制素	163
+yi yuan xing chuan bo	医源性传播	160
+yi dao su zhu she ye	胰岛素注射液	158
+yi chuan xing gong ji shi diao	遗传性共济失调	155
+yi nian sheng zhi wu	一年生植物	155
+yi chi xing kou yan	义齿性口炎	153
+yi gao xue tang su	胰高血糖素	153
+yi guo xing nao que xue	一过性脑缺血	153
+yi xian luo xuan mei su	乙酰螺旋霉素	147
+yi xue mian yi xue	医学免疫学	147
+yi zhi wu kang su zhu fan ying	移植物抗宿主反应	147
+yi mu cao ke li	益母草颗粒	145
+yi nuo sha xing	依诺沙星	145
+yi xian po lie	胰腺破裂	145
+yi xue zhong zhong can xi lu	医学衷中参西录	145
+yi yuan di xiao du	疫源地消毒	145
+yi xue shen jing sheng wu xue	医学神经生物学	142
+yi zheng xing jing shen bing	癔症性精神病	142
+yi xian ban guang an suan	乙酰半胱氨酸	139
+yi ji yin gu sui yi zhi	异基因骨髓移植	135
+yi bing shen shang xian su	异丙肾上腺素	132
+yi liao ti cao	医疗体操	132
+yi wu rou ya zhong	异物肉芽肿	132
+yi chuan yao li xue	遗传药理学	129
+yi dao su liu	胰岛素瘤	129
+yi qi cong ming tang	益气聪明汤	129
+yi xue tong ji xue	医学统计学	129
+yi chuan liu xing bing xue	遗传流行病学	125
+yi xian dan jian zhi mei	乙酰胆碱酯酶	125
+yi xian nang zhong	胰腺囊肿	125
+yi xin chu shi zhi tong jiao nang	薏辛除湿止痛胶囊	125
+yi meng ting	易蒙停	121
+yi teng zhi	伊藤痣	121
+yi xue wu li xue	医学物理学	121
+yi chuan xing shen yan	遗传性肾炎	117
+yi lou	胰瘘	117
+yi xian luo xuan mei su pian	乙酰螺旋霉素片	117
+yi yuan guan li xue	医院管理学	117
+yi zou gan	蚁走感	117
+yi chuan xing jing luan xing jie tan	遗传性痉挛性截瘫	113
+yi chuan yu you sheng	遗传与优生	113
+yi qi yang xue kou fu ye	益气养血口服液	113
+yi wang zong he zheng	遗忘综合征	113
+yi gan he xin kang ti	乙肝核心抗体	108
+yi shu li su	异鼠李素	108
+yi chuan yi zhi xing	遗传异质性	103
+yi gan ming mu kou fu ye	益肝明目口服液	103
+yi jia an	一甲胺	103
+yi ming	医明	103
+yi qi feng he	一期缝合	103
+yi qing ke li	一清颗粒	103
+yi qu kang zuo jiao nang	伊曲康唑胶囊	103
+yi shen zhuang yang gao	益肾壮阳膏	103
+yi su	依苏	103
+yi xue fen zi sheng wu xue	医学分子生物学	103
+yi xue wen xian jian suo	医学文献检索	103
+yi zhuang jie chang jing jian cha	乙状结肠镜检查	103
+yi feng	翳风	98
+yi gan jie du cha	益肝解毒茶	98
+yi gan ling jiao nang	乙肝灵胶囊	98
+yi guan jian	一贯煎	98
+yi qi xiao ke ke li	益气消渴颗粒	98
+yi wei shen	异位肾	98
+yi xian bing qin	乙酰丙嗪	98
+yi zhi kang nao wan	益智康脑丸	98
+yi zhi wen shen shi wei wan	益智温肾十味丸	98
+yi ba si ting	依巴斯汀	91
+yi chang nao dian tu	异常脑电图	91
+yi gao tang su	胰高糖素	91
+yi jian xian chong bing	异尖线虫病	91
+yi qi mei du	一期梅毒	91
+yi shen ling wan	益身灵丸	91
+yi shuang ma lin	乙双吗啉	91
+yi xian an zhu she ye	乙酰胺注射液	91
+yi xian ke dai yin	乙酰可待因	91
+yi xiang xing zhen chan	意向性震颤	91
+yi xing nao yan chun hua yi miao	乙型脑炎纯化疫苗	91
+yi ai	胰癌	84
+yi dao su kang ti	胰岛素抗体	84
+yi huan lin xian an	异环磷酰胺	84
+yi ji tai yuan mei	胰激肽原酶	84
+yi ji xian wei su	乙基纤维素	84
+yi jie shi	胰结石	84
+yi jin jiang tang jiao nang	益津降糖胶囊	84
+yi ma tu bian	移码突变	84
+yi pa si ta	依帕司他	84
+yi qi yu he	一期愈合	84
+yi shen jian gu pian	益肾健骨片	84
+yi xian ban guang an suan ke li	乙酰半胱氨酸颗粒	84
+yi xue wei sheng wu xue	医学微生物学	84
+yi xue xi bao sheng wu xue	医学细胞生物学	84
+yi xue zhuan ye ying yu	医学专业英语	84
+yi yu xing shen jing zheng	抑郁性神经症	84
+yi yuan san	益元散	84
+yi zhi wu pai chi	移植物排斥	84
+yi chang xue hong dan bai	异常血红蛋白	76
+yi da bi xing	伊达比星	76
+yi dan bai mei yuan	胰蛋白酶原	76
+yi fang ji jie	医方集解	76
+yi fu wan	异氟烷	76
+yi gan cao suan mei	异甘草酸镁	76
+yi huang zhang su	异黄樟素	76
+yi ke tie	意可贴	76
+yi ling lin	异龄林	76
+yi mu cao jian	益母草碱	76
+yi qing jiao nang	一清胶囊	76
+yi qing ruan jiao nang	一清软胶囊	76
+yi ran se zhi	异染色质	76
+yi shen juan bi wan	益肾蠲痹丸	76
+yi tuo hong mei su ke li	依托红霉素颗粒	76
+yi wu ba bi tuo	异戊巴比妥	76
+yi xue ying xiang jian cha ji shu	医学影像检查技术	76
+yi xue ying yang xue	医学营养学	76
+yi zhuang jie chang xi mo	乙状结肠系膜	76
+yi bo ding	异博定	66
+yi chuan tu	遗传图	66
+yi dao su hun mi	胰岛素昏迷	66
+yi dao su shi fang shi yan	胰岛素释放试验	66
+yi di suan gai na	依地酸钙钠	66
+yi di suan gai na zhu she ye	依地酸钙钠注射液	66
+yi fu mi	异氟醚	66
+yi gan ling wan	乙肝灵丸	66
+yi gan shu kang jiao nang	乙肝舒康胶囊	66
+yi gong san	异功散	66
+yi hu an	乙琥胺	66
+yi kang huai xue suan	异抗坏血酸	66
+yi lai xing ren ge zhang ai	依赖型人格障碍	66
+yi mai kang jiao nang	益脉康胶囊	66
+yi mu cao chong ji	益母草冲剂	66
+yi mu cao jiao nang	益母草胶囊	66
+yi mu cao liu jin gao	益母草流浸膏	66
+yi mu cao ruan jiao nang	益母草软胶囊	66
+yi nao fu jian jiao nang	益脑复健胶囊	66
+yi nao jiao nang	益脑胶囊	66
+yi nian jin jiao nang	一捻金胶囊	66
+yi shan fu	易善复	66
+yi shen an shen kou fu ye	益肾安神口服液	66
+yi shen qiang shen wan	益肾强身丸	66
+yi shen shi qi wei wan	益肾十七味丸	66
+yi xian mai di mei su	乙酰麦迪霉素	66
+yi xin shu jiao nang	益心舒胶囊	66
+yi xue dao lun	医学导论	66
+yi xue hua xue	医学化学	66
+yi xue shi yan dong wu xue	医学实验动物学	66
+yi xue ying xiang zhen duan xue	医学影像诊断学	66
+yi ya an	乙亚胺	66
+yi yi ren tang	薏苡仁汤	66
+yi yong yang chang xian	医用羊肠线	66
+yi zhong kang yuan	异种抗原	66
+yi zhong yi zhi wu	异种移植物	66
+yi zhuang nu rou qie chu shu	翼状胬肉切除术	66
+yi an mi ding pian	乙胺嘧啶片	51
+yi ba si ting pian	依巴斯汀片	51
+yi ban lin suan na zhu she ye	伊班膦酸钠注射液	51
+yi bing an ti bi lin	异丙安替比林	51
+yi bing qin dan zhi pian	异丙嗪胆汁片	51
+yi bing tuo xiu an	异丙托溴铵	51
+yi bing tuo xiu an qi wu ji	异丙托溴铵气雾剂	51
+yi chen gu se kou fu ye	蚁陈固涩口服液	51
+yi chuan xing xue guan xing shui zhong	遗传性血管性水肿	51
+yi chuan yin ji	遗传印记	51
+yi dong yi zhi yin zi	移动抑制因子	51
+yi gan qing re jie du jiao nang	乙肝清热解毒胶囊	51
+yi huan	医缓	51
+yi ji tai yuan mei chang rong pian	胰激肽原酶肠溶片	51
+yi ka bo jing	异卡波肼	51
+yi kun ning ke li	益坤宁颗粒	51
+yi lai xi an pian	伊来西胺片	51
+yi lv er fu yi wan	一氯二氟乙烷	51
+yi ma da zheng hong hua you	依马打正红花油	51
+yi mei chang rong jiao nang	胰酶肠溶胶囊	51
+yi mei chang rong pian	胰酶肠溶片	51
+yi meng ting jiao nang	易蒙停胶囊	51
+yi ming	翳明	51
+yi na pu li la	依那普利拉	51
+yi niao ting jiao nang	遗尿停胶囊	51
+yi nuo sha xing di yan ye	依诺沙星滴眼液	51
+yi nuo sha xing ru gao	依诺沙星乳膏	51
+yi qi run chang gao	益气润肠膏	51
+yi shan li chun	异山梨醇	51
+yi shen tang jiang	益肾糖浆	51
+yi shou da bu jiu	益寿大补酒	51
+yi shui yang an pian	乙水杨胺片	51
+yi tuo du suan pian	依托度酸片	51
+yi tuo po gan zhu she ye	依托泊苷注射液	51
+yi wu ba bi tuo na	异戊巴比妥钠	51
+yi xian gu xian an	乙酰谷酰胺	51
+yi xian zuo an pian	乙酰唑胺片	51
+yi xin shu pian	益心舒片	51
+yi xin tong fen san pian	益心酮分散片	51
+yi xin tong pian	益心酮片	51
+yi xing xi bao ai	移行细胞癌	51
+yi xue gang mu	医学纲目	51
+yi xue sheng jiao nang	益血生胶囊	51
+yi xue ying xiang she bei guan li	医学影像设备管理	51
+yi xue ying xiang wu li xue	医学影像物理学	51
+yi xue zhen jun xue	医学真菌学	51
+yi yan jing zhu she ye	异烟肼注射液	51
+yi yang ben liu an	乙氧苯柳胺	51
+yi yi fu zi bai jiang san	薏苡附子败酱散	51
+yi yi shi ji	意义识记	51
+yi yong feng he zhen	医用缝合针	51
+yi yong gao deng shu xue	医用高等数学	51
+yi yuan duo bei ti	异源多倍体	51
+yi zhang	胰胀	51
+yi zhi mian yi xue	移植免疫学	51
+yi zhuang jie chang niu zhuan	乙状结肠扭转	51
+yi zhuang jie chang zao lou shu	乙状结肠造瘘术	51

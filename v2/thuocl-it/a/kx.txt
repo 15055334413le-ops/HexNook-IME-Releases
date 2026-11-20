@@ -1,0 +1,14 @@
+kxcs	可选参数	539
+kxjsf	科学计数法	390
+kxc	跨线程	328
+kxlx	可选类型	320
+kxz	可选值	311
+kxgx	可修改性	240
+kxwlnc	空闲物理内存	192
+kxz	空心字	184
+kxl	可选链	180
+kxjs	可信计算	153
+kxhb	跨行合并	123
+kxjsj	可信计算基	104
+kxsjk	科学数据库	104
+kxgzl	可选工作流	98

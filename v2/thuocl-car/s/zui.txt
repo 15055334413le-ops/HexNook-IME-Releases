@@ -1,0 +1,4 @@
+zui xiao li di jian xi	最小离地间隙	338
+zui da pa po du	最大爬坡度	164
+zui xiao zhuan wan zhi jing	最小转弯直径	120
+zui da pa po jiao	最大爬坡角	68

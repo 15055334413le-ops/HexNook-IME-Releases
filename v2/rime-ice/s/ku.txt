@@ -1,0 +1,980 @@
+ku cun	库存	429015
+ku qi	哭泣	125430
+ku zi	裤子	124960
+ku xiao	苦笑	103180
+ku nao	苦恼	95470
+ku nan	苦难	85145
+ku qu	库区	67765
+ku lou	骷髅	63045
+ku ku	苦苦	61890
+ku fang	库房	56470
+ku zhong	库中	56385
+ku se	苦涩	53510
+ku zhe	哭着	46580
+ku sheng	哭声	45145
+ku rui	酷睿	44385
+ku cun chan pin	库存产品	43120
+ku zao	枯燥	41705
+ku de	苦的	40845
+ku gua	苦瓜	39200
+ku de	哭的	36225
+ku jie	枯竭	35730
+ku ai	酷爱	35545
+ku si	酷似	35495
+ku de	哭得	34260
+ku ku	酷酷	34160
+ku men	苦闷	32900
+ku xiao bu de	哭笑不得	32760
+ku wei	枯萎	32245
+ku yu	苦于	29840
+ku shu	酷暑	29125
+ku xin	苦心	27525
+ku lian	苦练	26425
+ku zao de	枯燥的	26100
+ku wen jian	库文件	25110
+ku cun guan li	库存管理	25000
+ku cun liang	库存量	23630
+ku tou	苦头	23125
+ku nao	哭闹	22530
+ku yu	酷鱼	21380
+ku long	窟窿	20400
+ku tong	苦痛	20400
+ku lu ze	酷路泽	19653
+ku zhong	苦衷	19035
+ku rong	库容	17620
+ku guo	哭过	17585
+ku du	苦读	17475
+ku han shu	库函数	17424
+ku xiao zhe	苦笑着	17195
+ku er le	库尔勒	16920
+ku bu kan yan	苦不堪言	16675
+ku cun shu liang	库存数量	16585
+ku huang	枯黄	16295
+ku wei	苦味	16175
+ku su	哭诉	16055
+ku li	苦力	15665
+ku xing	酷刑	15230
+ku le	哭了	14627
+ku zhan	苦战	14620
+ku pai	酷派	14175
+ku re	酷热	14015
+ku cun ji ya	库存积压	13045
+ku guo	苦果	12710
+ku gan	苦干	12505
+ku cun shang pin	库存商品	12225
+ku zhi	枯枝	11750
+ku qi lai	哭起来	11595
+ku hai	苦海	11585
+ku chu	苦楚	11295
+ku ye	枯叶	11275
+ku han	哭喊	10990
+ku chu	哭出	10890
+ku ke	库克	10885
+ku zhong zuo le	苦中作乐	10676
+ku xing	苦行	10400
+ku zhe shuo	哭着说	10305
+ku cheng	苦撑	9999
+ku jiao guan	裤脚管	9999
+ku kou	苦口	9999
+ku nve	酷虐	9999
+ku xi	哭戏	9999
+ku xuan	酷炫	9999
+ku ming	苦命	9740
+ku cha	裤衩	9605
+ku ding cha	苦丁茶	9353
+ku che	库车	9075
+ku tui	裤腿	9045
+ku shui	苦水	8785
+ku jiao	裤脚	8615
+ku a	苦啊	8545
+ku deng	苦等	8205
+ku cun zhuang tai	库存状态	8070
+ku mu	枯木	8070
+ku shu	枯树	8070
+ku zhe	苦着	8050
+ku xin jing ying	苦心经营	7920
+ku han	苦寒	7890
+ku dao	哭到	7777
+ku shen	苦参	7745
+ku ku ti ti	哭哭啼啼	7710
+ku ge	酷哥	7690
+ku dang	裤裆	7635
+ku qiang	哭腔	7570
+ku ba	哭吧	7525
+ku a	哭啊	7455
+ku xiu	苦修	7370
+ku cun qing kuang	库存情况	7345
+ku wu	苦无	7315
+ku cao	枯草	7070
+ku guan	库管	7070
+ku tu	酷图	7050
+ku jiao	哭叫	6800
+ku xing seng	苦行僧	6800
+ku chu lai	哭出来	6695
+ku bei wan	堀北湾	6666
+ku lian	裤链	6666
+ku nei qiu mei	堀内秋美	6666
+ku nei wei guo zi	堀内未果子	6666
+ku xiao li ya	堀咲莉娅	6666
+ku ze mo you	堀泽茉由	6666
+ku ku ai qiu	苦苦哀求	6650
+ku ku zheng zha	苦苦挣扎	6590
+ku guan	裤管	6425
+ku dou	裤兜	6335
+ku wo	酷我	6242
+ku er le shi	库尔勒市	6225
+ku de	苦得	6215
+ku sang zhe lian	哭丧着脸	6100
+ku dai	裤带	5950
+ku xue	苦学	5875
+ku shui qi	枯水期	5680
+ku jin gan lai	苦尽甘来	5660
+ku rui shuang he	酷睿双核	5595
+ku dao	哭倒	5555
+ku zhuang	裤装	5440
+ku lou tou	骷髅头	5220
+ku dai	裤袋	5125
+ku jing	枯井	5115
+ku zao fa wei	枯燥乏味	5090
+ku lian nei gong	苦练内功	5080
+ku si ming xiang	苦思冥想	4990
+ku tou	裤头	4935
+ku cun zeng jia	库存增加	4910
+ku ri zi	苦日子	4895
+ku gong	苦功	4860
+ku han zhe	哭喊着	4845
+ku qi zhe	哭泣着	4750
+ku zhong	苦中	4700
+ku gou	酷狗	4640
+ku yao	裤腰	4615
+ku gong	苦工	4515
+ku ba	酷吧	4500
+ku cheng	哭成	4485
+ku teng	枯藤	4445
+ku si	哭死	4444
+ku zao wu wei	枯燥无味	4410
+ku cun xian jin	库存现金	4370
+ku cun shui ping	库存水平	4285
+ku shui	枯水	4250
+ku wei le	枯萎了	4215
+ku shou	枯瘦	4160
+ku lian	哭脸	4119
+ku gao	枯槁	4090
+ku re de	酷热的	4085
+ku wei bing	枯萎病	4075
+ku gu	枯骨	4065
+ku qi sheng	哭泣声	3985
+ku ku deng dai	苦苦等待	3925
+ku yu le	苦与乐	3905
+ku chai shi	苦差事	3900
+ku ku si suo	苦苦思索	3875
+ku yao dai	裤腰带	3835
+ku yi	苦役	3810
+ku jiu	苦酒	3735
+ku rou ji	苦肉计	3675
+ku kou po xin	苦口婆心	3611
+ku gan	枯干	3545
+ku ge	哭个	3540
+ku lian	苦恋	3523
+ku qing	苦情	3455
+ku cun ya li	库存压力	3375
+ku lao	苦劳	3365
+ku cun shu ju	库存数据	3345
+ku luo mi	酷洛米	3333
+ku qi de mao	哭泣的猫	3333
+ku qi mao	哭泣猫	3333
+ku qi mao lian	哭泣猫脸	3333
+ku wei de hua	枯萎的花	3333
+ku wei de mei gui	枯萎的玫瑰	3333
+ku yun	哭晕	3333
+ku zhu	苦主	3333
+ku qiong	哭穷	3310
+ku ku	哭哭	3280
+ku er de	库尔德	3260
+ku chu	苦处	3250
+ku lun	库仑	3205
+ku xing ren	苦杏仁	3170
+ku bu chu lai	哭不出来	3110
+ku nan	酷男	3020
+ku cang	库藏	2980
+ku shen jian	苦参碱	2965
+ku rong	枯荣	2945
+ku ka fei	苦咖啡	2935
+ku ao	苦熬	2930
+ku li	酷吏	2900
+ku wa	裤袜	2885
+ku bi zi	哭鼻子	2745
+ku hai zi	苦孩子	2740
+ku xiang	苦想	2715
+ku zuo	枯坐	2675
+ku ye dao	库页岛	2575
+ku bi le	酷毙了	2565
+ku dan	库单	2565
+ku se	枯涩	2560
+ku shou	苦守	2555
+ku ku zhi cheng	苦苦支撑	2550
+ku la	苦辣	2550
+ku cai	苦菜	2535
+ku mu	库姆	2525
+ku han	酷寒	2460
+ku xiang	苦相	2350
+ku che xian	库车县	2340
+ku xin ren	苦心人	2325
+ku men	库门	2320
+ku qiu	苦求	2310
+ku sang	哭丧	2305
+ku zhu	苦竹	2285
+ku quan	苦劝	2245
+ku bi de	苦逼的	2222
+ku dou	苦斗	2215
+ku gan shi gan	苦干实干	2190
+ku duan	苦短	2140
+ku er de ren	库尔德人	2140
+ku kuan	库款	2125
+ku da chou shen	苦大仇深	2090
+ku le	苦了	2075
+ku gua lian	苦瓜脸	2060
+ku hai wu bian	苦海无边	2040
+ku er si ke	库尔斯克	2020
+ku die	哭爹	2015
+ku lei	苦累	1990
+ku se wei	苦涩味	1965
+ku er te	库尔特	1955
+ku dan	苦胆	1940
+ku xin gu yi	苦心孤诣	1880
+ku gen	苦根	1860
+ku er le xiang li	库尔勒香梨	1850
+ku jia	哭嫁	1840
+ku la suo	库拉索	1835
+ku leng zhi zun	酷冷至尊	1835
+ku ai jiu	苦艾酒	1719
+ku ye	裤业	1690
+ku gong fu	苦工夫	1680
+ku shui ji jie	枯水季节	1625
+ku zuo zhou	苦作舟	1605
+ku qiang	哭墙	1555
+ku bi	酷毙	1520
+ku xia	酷夏	1515
+ku mu feng chun	枯木逢春	1495
+ku zhong	哭肿	1495
+ku ji mie dao	苦集灭道	1475
+ku jiao	枯焦	1475
+ku chai	苦差	1470
+ku lie	酷烈	1465
+ku le zi ji	苦了自己	1455
+ku shi	苦事	1450
+ku yin	苦因	1440
+ku yu	苦雨	1425
+ku yin	库银	1355
+ku dian	苦点	1330
+ku si	枯死	1330
+ku bu ku	苦不苦	1325
+ku zhi bai ye	枯枝败叶	1320
+ku bu chu	哭不出	1315
+ku jing	苦境	1255
+ku ti	哭啼	1255
+ku le	枯了	1244
+ku qiu	哭求	1235
+ku xing zhe	苦行者	1215
+ku huo	苦活	1210
+ku cai hua	苦菜花	1200
+ku hao	哭号	1200
+ku ke qun dao	库克群岛	1195
+ku lv	苦旅	1111
+ku ruo	苦弱	1111
+ku shuai	酷帅	1111
+ku wan	哭完	1111
+ku wan le	哭完了	1111
+ku xia	哭瞎	1111
+ku xing	裤型	1111
+ku le	苦乐	1084
+ku xing	哭醒	1080
+ku qi ma	库奇马	1055
+ku lian	苦脸	1045
+ku lun qi	库伦旗	1005
+ku xiao	酷肖	995
+ku zhong ku	苦中苦	985
+ku shang	哭上	970
+ku ji	枯寂	950
+ku le bu jun	苦乐不均	940
+ku bian yi	库编译	927
+ku ren	苦人	925
+ku de ren	苦的人	880
+ku bei zhen xi	堀北真希	875
+ku zhong you le	苦中有乐	850
+ku si	苦思	831
+ku nan shen zhong	苦难深重	820
+ku ku xiang bi	苦苦相逼	805
+ku jing	苦经	795
+ku lian jie	库连接	795
+ku lun ding lv	库仑定律	785
+ku xiu	枯朽	780
+ku cheng yi tuan	哭成一团	775
+ku chan	苦禅	755
+ku tian han di	哭天喊地	755
+ku tian mo lei	哭天抹泪	750
+ku te ha de	库特哈德	735
+ku yao	苦药	735
+ku re nan dang	酷热难当	720
+ku tong	裤筒	715
+ku fu er	库福尔	695
+ku wei suan	苦味酸	695
+ku xian	裤线	680
+ku ling	哭灵	670
+ku dao	哭道	651
+ku chang	枯肠	645
+ku sha	哭砂	635
+ku sou suo	库搜索	620
+ku sa ke	库萨克	615
+ku sang bang	哭丧棒	600
+ku jiang you yi	堀江由衣	565
+ku du	苦度	560
+ku si de	酷似的	555
+ku ku ba	酷酷吧	535
+ku song	枯松	530
+ku bai	枯败	525
+ku sang zhe	哭丧着	525
+ku gua fen	苦瓜粉	510
+ku mu ta ge	库木塔格	500
+ku ming de ren	苦命的人	495
+ku de xiang	哭得像	490
+ku cun tiao zheng	库存调整	470
+ku wen	库蚊	470
+ku lan yi	库兰伊	465
+ku he	枯涸	425
+ku ge gou	哭个够	405
+ku ge tong kuai	哭个痛快	395
+ku qun	裤裙	395
+ku xin ji lv	苦心积虑	385
+ku lou qi	骷髅旗	380
+ku ma er	库马尔	355
+ku xun wang	酷讯网	353
+ku rou	苦肉	345
+ku wei su	苦味素	340
+ku de shi	苦的事	330
+ku hai wu ya	苦海无涯	305
+ku cao re	枯草热	300
+ku jin tian lai	苦尽甜来	300
+ku zhi	苦汁	295
+ku hei	枯黑	290
+ku nan de li cheng	苦难的历程	290
+ku xiang	酷像	290
+ku bu chu sheng	哭不出声	280
+ku shou ru chai	枯瘦如柴	270
+ku hai	苦害	265
+ku mo kuai	库模块	265
+ku ju tai	苦苣苔	256
+ku sen	库森	235
+ku cha zi	裤衩子	222
+ku chai	枯柴	222
+ku er	库尔	222
+ku bi	苦逼	221
+ku bu ku	酷不酷	215
+ku li na	库利纳	215
+ku fen	哭坟	205
+ku zhu ye	苦竹叶	205
+ku si tu	库斯途	199
+ku qi zhe	哭泣者	195
+ku ming jia	库明加	186
+ku gan	苦感	185
+ku bi ka	库比卡	181
+ku li si	库里斯	181
+ku er si ke zhan yi	库尔斯克战役	180
+ku shou han yao	苦守寒窑	177
+ku cun bu zu	库存不足	171
+ku ku xiang qiu	苦苦相求	170
+ku long yan	窟窿眼	170
+ku er ni ke wa	库尔尼科娃	164
+ku bo guang xue	库博光学	163
+ku yi la	库伊拉	159
+ku xiu lun tan	酷绣论坛	153
+ku xiang si	苦相思	152
+ku zi nie zuo fu	库兹涅佐夫	148
+ku ku lei li ya	库库雷利亚	144
+ku kou liang yao	苦口良药	143
+ku you yin li	库有引力	140
+ku yu gong cun	堀与宫村	139
+ku hai	枯骸	135
+ku zhu	枯株	135
+ku ke qi	库科奇	134
+ku ku er kan	库库尔坎	132
+ku nei	库内	131
+ku na er	库纳尔	130
+ku la xian	苦辣咸	129
+ku cai zi	苦菜子	126
+ku jiong	枯窘	125
+ku ni ya	库尼亚	124
+ku hu	库湖	121
+ku cheng lei ren	哭成泪人	120
+ku ba	库巴	111
+ku bi de	苦逼地	111
+ku er	酷儿	111
+ku ju	苦苣	111
+ku li	库里	111
+ku luo mi	库洛米	111
+ku shi	窟室	111
+ku lou qi shi	骷髅骑士	103
+ku xuan kuang zhuai	酷炫狂跩	101
+ku ai yin yue	酷爱音乐	100
+ku ba ji	库巴姬	100
+ku ba wang	酷霸王	100
+ku bei ju	哭悲剧	100
+ku bei ke	库贝克	100
+ku bi de ren	苦逼的人	100
+ku bi la	酷毙啦	100
+ku bu ji	苦不唧	100
+ku bu ji er	苦不唧儿	100
+ku bu ke yan	苦不可言	100
+ku bu li ke	库布里克	100
+ku cang liang	库藏量	100
+ku cao gan jun	枯草杆菌	100
+ku chang cheng	哭长城	100
+ku cheng le lei ren	哭成了泪人	100
+ku chu le sheng	哭出了声	100
+ku cun chi xu xia jiang	库存持续下降	100
+ku cun gu piao	库存股票	100
+ku cun guan li xi tong	库存管理系统	100
+ku cun gui mo	库存规模	100
+ku cun ji ya yan zhong	库存积压严重	100
+ku cun jiang di	库存降低	100
+ku cun shen du	库存深度	100
+ku cun xi shu	库存系数	100
+ku cun xi tong	库存系统	100
+ku cun xia jiang	库存下降	100
+ku cun yan zhong	库存严重	100
+ku cun zeng zhang	库存增长	100
+ku cun zhi	库存值	100
+ku cun zhou zhuan lv	库存周转率	100
+ku dang cang lei	裤裆藏雷	100
+ku dang kai cha	裤裆开衩	100
+ku dao bu xing	哭到不行	100
+ku dao bu xing	酷到不行	100
+ku dao mei peng you	酷到没朋友	100
+ku dao wei	哭到尾	100
+ku de bu xing	哭得不行	100
+ku de hao	哭得好	100
+ku de hen	苦得很	100
+ku de hen shang xin	哭得很伤心	100
+ku de ku	哭的哭	100
+ku de lan	库德兰	100
+ku de lan man chui	库德兰蛮锤	100
+ku de li hua dai yu	哭得梨花带雨	100
+ku de qi bu cheng sheng	哭得泣不成声	100
+ku de shang qi bu jie xia qi	哭得上气不接下气	100
+ku de si qu huo lai	哭得死去活来	100
+ku de si xin lie fei	哭得撕心裂肺	100
+ku de tai da sheng	哭得太大声	100
+ku de xi li hua la	哭得稀里哗啦	100
+ku de xiang ge hai zi	哭得像个孩子	100
+ku de xiang ge lei ren	哭得像个泪人	100
+ku de yao ming	苦得要命	100
+ku de yao si	苦得要死	100
+ku de yi ta hu tu	哭得一塌糊涂	100
+ku di hao tian	哭地号天	100
+ku die da	苦迭打	100
+ku dou ku bu chu lai	哭都哭不出来	100
+ku dou lai bu ji	哭都来不及	100
+ku dou mei di fang ku	哭都没地方哭	100
+ku du chu shen	苦读出身	100
+ku er de di qu	库尔德地区	100
+ku er de gong ren dang	库尔德工人党	100
+ku er de si tan	库尔德斯坦	100
+ku er de wang	库尔德王	100
+ku er gou	酷二狗	100
+ku er jia	库尔迦	100
+ku er jin na	库尔金娜	100
+ku er le ji chang	库尔勒机场	100
+ku er le shi gong an ju	库尔勒市公安局	100
+ku er man	库尔曼	100
+ku er ti la si	库尔提拉斯	100
+ku er ti la si di yi xiao nv	库尔提拉斯第一孝女	100
+ku er zha wa	库尔扎瓦	100
+ku fang zhong di	库房重地	100
+ku ge bu ting	哭个不停	100
+ku gei ni kan	哭给你看	100
+ku gong dang	库工党	100
+ku gong zuo	酷工作	100
+ku gou yin yue	酷狗音乐	100
+ku gou yin yue bo fang qi	酷狗音乐播放器	100
+ku gou yin yue he	酷狗音乐盒	100
+ku gou yin yue ren	酷狗音乐人	100
+ku gua gan	苦瓜干	100
+ku guan li xi tong	库管理系统	100
+ku guo lai	苦过来	100
+ku ha ha	苦哈哈	100
+ku hai mang mang	苦海茫茫	100
+ku hai wu bian hui tou shi an	苦海无边回头是岸	100
+ku han ba	哭喊吧	100
+ku han zhi di	苦寒之地	100
+ku he le	苦和乐	100
+ku hong de yan jing	哭红的眼睛	100
+ku hong le shuang yan	哭红了双眼	100
+ku hong le yan	哭红了眼	100
+ku hong le yan jing	哭红了眼睛	100
+ku hua le	哭花了	100
+ku huang de luo ye	枯黄的落叶	100
+ku huang que zhi zuo hai xi	苦黄雀之作害兮	100
+ku huang se	枯黄色	100
+ku huang se de	枯黄色的	100
+ku hui yue tuan	酷绘乐团	100
+ku jia shi zheng	库贾氏症	100
+ku jie qu	库街区	100
+ku jin er	酷劲儿	100
+ku jin shi zu	酷劲十足	100
+ku jiu man bei	苦酒满杯	100
+ku ju cai	苦苣菜	100
+ku ju tai ke	苦苣苔科	100
+ku kai xi tong	酷开系统	100
+ku ke chuan zhang	库克船长	100
+ku ke shan	库克山	100
+ku ke yin yue	库客音乐	100
+ku kou ni er	苦口逆耳	100
+ku kou po xin de	苦口婆心地	100
+ku ku ba	库库巴	100
+ku ku bai xing	苦苦百姓	100
+ku ku de	苦苦地	100
+ku ku de	苦苦的	100
+ku ku de	酷酷的	100
+ku ku de gan jue	酷酷的感觉	100
+ku ku de teng	酷酷的滕	100
+ku ku de teng er	酷酷的滕儿	100
+ku ku de tian fang	酷酷的天放	100
+ku ku mian ju	哭哭面具	100
+ku ku pao	酷酷跑	100
+ku ku xiao xiao	哭哭笑笑	100
+ku la hei jiao ji tui bao	酷辣黑椒鸡腿堡	100
+ku la hei jiao ji tui bao tao can	酷辣黑椒鸡腿堡套餐	100
+ku la shou	酷拉兽	100
+ku lai ku qu	哭来哭去	100
+ku le ba	哭了吧	100
+ku le ban tian	哭了半天	100
+ku le can ban	苦乐参半	100
+ku le chu lai	哭了出来	100
+ku le cun guan	苦乐村官	100
+ku le duo jiu	哭了多久	100
+ku le hai zi	苦了孩子	100
+ku le hao ji ci	哭了好几次	100
+ku le hao ji tian	哭了好几天	100
+ku le hao jiu	哭了好久	100
+ku le hen jiu	哭了很久	100
+ku le liang tian	哭了两天	100
+ku le ma	哭了吗	100
+ku le mei you	哭了没有	100
+ku le ni	苦了你	100
+ku le ni le	苦了你了	100
+ku le nian hua	苦乐年华	100
+ku le qi lai	哭了起来	100
+ku le yi bei zi	苦了一辈子	100
+ku le yi hui	哭了一会	100
+ku le yi lu	哭了一路	100
+ku le yi ye	哭了一夜	100
+ku li er tai	库里尔台	100
+ku li ti ba	库里提巴	100
+ku lian hen lian	苦练狠练	100
+ku lian hen xun	苦练狠训	100
+ku lou jiang jun	骷髅将军	100
+ku lou jing ling	骷髅精灵	100
+ku lou wang	骷髅王	100
+ku lu na	库露娜	100
+ku lun chi li	库仑斥力	100
+ku lun xiao lv	库仑效率	100
+ku lun zhen	库伦镇	100
+ku luo de	库罗德	100
+ku luo li duo	库洛里多	100
+ku ma zi	苦麻子	100
+ku ming yuan yang	苦命鸳鸯	100
+ku mu hua kai	枯木花开	100
+ku mu sheng hua	枯木生花	100
+ku mu si hui	枯木死灰	100
+ku mu ta ge sha mo	库姆塔格沙漠	100
+ku mu ta ge sha mo	库木塔格沙漠	100
+ku mu tu la qian fo dong	库木吐拉千佛洞	100
+ku mu xiu zhu	枯木朽株	100
+ku mu zai sheng	枯木再生	100
+ku na nan	库纳南	100
+ku nan chen shu zhe	苦难陈述者	100
+ku nan chong chong	苦难重重	100
+ku nao zhe	苦恼着	100
+ku pao tun	苦炮鲀	100
+ku po dai	库珀带	100
+ku qi xiao chou	哭泣小丑	100
+ku qin jiu yi	苦秦久矣	100
+ku qiu chang sheng	苦求长生	100
+ku qu gan lai	苦去甘来	100
+ku ren suo nan	苦人所难	100
+ku rong jing	枯荣经	100
+ku rou ji a	苦肉计啊	100
+ku rui ke	库瑞克	100
+ku rui xi lie	酷睿系列	100
+ku sang ge lian	哭丧个脸	100
+ku sang lian	哭丧脸	100
+ku se gan	苦涩感	100
+ku se pa li	库瑟帕里	100
+ku shang jia ku	苦上加苦	100
+ku shang lai	哭上来	100
+ku shang qu	哭上去	100
+ku shen me	哭什么	100
+ku shen me a	哭什么啊	100
+ku shen me ku	哭什么哭	100
+ku shen me ya	哭什么呀	100
+ku sheng zhen tian	哭声震天	100
+ku shi mu sa	库史木撒	100
+ku shi na	库什纳	100
+ku shi shen me	哭是什么	100
+ku shu feng chun	枯树逢春	100
+ku shu hua kai	枯树花开	100
+ku shui wei	枯水位	100
+ku si dui ce	苦思对策	100
+ku si e xiang	苦思恶想	100
+ku si ku xiang	苦思苦想	100
+ku si la	酷斯拉	100
+ku si wo le	哭死我了	100
+ku si wo le	苦死我了	100
+ku su gu er hu	库苏古尔湖	100
+ku tian ku di	哭天哭地	100
+ku tian qiang di	哭天抢地	100
+ku wan yue dui	酷玩乐队	100
+ku wei de shu	枯萎的树	100
+ku wei zhi shi	枯萎之石	100
+ku wu dui ce	苦无对策	100
+ku xia le	哭瞎了	100
+ku xiao bu de	苦笑不得	100
+ku xin ji li	苦心极力	100
+ku xin jiao si	苦心焦思	100
+ku xin jie li	苦心竭力	100
+ku xin lao xing	苦心劳形	100
+ku xin shang ren	枯心上人	100
+ku xing hui xin	枯形灰心	100
+ku xing ren gan	苦杏仁苷	100
+ku xing shu zui	苦行赎罪	100
+ku xing tou tuo	苦行头陀	100
+ku xing zhe mo	酷刑折磨	100
+ku xue cheng ming	苦学成名	100
+ku xue duo nian	苦学多年	100
+ku xue you cheng	苦学有成	100
+ku yang sheng hua	枯杨生华	100
+ku yang sheng ti	枯杨生稊	100
+ku ye die	枯叶蝶	100
+ku ye he	窟野河	100
+ku ye pai	酷夜派	100
+ku ye pai hei sen lin	酷夜派黑森林	100
+ku ye pai hei sen lin feng wei	酷夜派黑森林风味	100
+ku yi chang	哭一场	100
+ku yi fan	苦役犯	100
+ku yi ku	苦一苦	100
+ku yi ku bai xing	苦一苦百姓	100
+ku you shen me yong	哭有什么用	100
+ku yu bing he	枯鱼病鹤	100
+ku yu han feng	苦雨寒风	100
+ku yu he zhe	枯鱼涸辙	100
+ku yu qi feng	苦雨凄风	100
+ku yu wang	酷鱼网	100
+ku yu xian suo	枯鱼衔索	100
+ku yu zhi si	枯鱼之肆	100
+ku yue dui	库乐队	100
+ku yun le	哭晕了	100
+ku yun zai	哭晕在	100
+ku yun zai ce suo	哭晕在厕所	100
+ku zao dan diao	枯燥单调	100
+ku zhe chu lai	哭着出来	100
+ku zhe han	哭着喊	100
+ku zhe han zhe	哭着喊着	100
+ku zhe hui jia	哭着回家	100
+ku zhe jiao	哭着叫	100
+ku zhe kan wan	哭着看完	100
+ku zhe li kai	哭着离开	100
+ku zhe lian	苦着脸	100
+ku zhe wen	哭着问	100
+ku zhe xiao	哭着笑	100
+ku zhe ye yao	哭着也要	100
+ku zhe zhao ma ma	哭着找妈妈	100
+ku zhi	苦蘵	100
+ku zhi luo ye	枯枝落叶	100
+ku zhong le yan jing	哭肿了眼睛	100
+ku zhu xiu mu	枯株朽木	100
+ku zi de chang du	裤子的长度	100
+ku zi dou	裤子兜	100
+ku zi dou tuo le	裤子都脱了	100
+ku zi li	裤子里	100
+ku zi li mian	裤子里面	100
+ku zi nie zuo wa	库兹涅佐娃	100
+ku zi tai chang	裤子太长	100
+ku zi tuo le	裤子脱了	100
+ku zi yue dui	裤子乐队	100
+ku cun xing hao	库存型号	95
+ku di ding	苦地丁	95
+ku huo er	苦活儿	95
+ku ke hai xia	库克海峡	90
+ku long yan er	窟窿眼儿	90
+ku cun fang	库存房	87
+ku lian su	苦楝素	87
+ku ye e	枯叶蛾	80
+ku gua zhou	苦瓜粥	78
+ku cha er	裤衩儿	70
+ku lun ji	库仑计	70
+ku tao	枯桃	70
+ku liu shu huan dao	枯柳树环岛	68
+ku wo yin yue	酷我音乐	64
+ku wo yin yue he	酷我音乐盒	64
+ku teng lao shu hun ya	枯藤老树昏鸦	58
+ku li ke fu	库利科夫	55
+ku zhe ne	苦着呢	55
+ku zi bei dai	裤子背带	55
+ku dou cao	苦豆草	50
+ku ni ya er	库尼亚尔	50
+ku qiu feng	哭秋风	50
+ku wei dao	苦味道	50
+ku bu liao sheng	苦不聊生	48
+ku de xiang	苦得像	45
+ku li shen ke	库里申科	41
+ku lan sa ri ke xiang	库兰萨日克乡	38
+ku han	酷旱	35
+ku ye se	枯叶色	35
+ku zhu ping xiang	苦竹坪乡	30
+ku lou gong shou	骷髅弓手	28
+ku ke luo fu	库克洛夫	26
+ku lou tou kui	骷髅头盔	25
+ku mu su	苦木素	25
+ku zhe ne	哭着呢	25
+ku shi	库什	24
+ku lou xiang lian	骷髅项链	23
+ku zhu lin	苦竹林	23
+ku zhu ba	苦竹坝	22
+ku fan	枯矾	21
+ku la mu le ke xiang	库拉木勒克乡	21
+ku gua niang rou	苦瓜酿肉	20
+ku lou jie zhi	骷髅戒指	19
+ku dai zi	裤带子	17
+ku leng	酷冷	16
+ku yin shi	苦吟诗	16
+ku kou liang yan	苦口良言	14
+ku lou tou ying e	骷髅头鹰蛾	14
+ku xin zong he zheng	库欣综合征	14
+ku ku se se	苦苦涩涩	13
+ku la la	酷拉拉	13
+ku li ke	库利克	13
+ku cang gu	库藏股	12
+ku er chu yuan yi chang	库尔楚园艺场	12
+ku lou si	骷髅死	12
+ku zhu ping	苦竹坪	12
+ku po	库珀	11
+ku qi	库奇	11
+ku si la fu xiang	库斯拉甫乡	11
+ku xi	苦戏	11
+ku xue	窟穴	11
+ku zan	库赞	11
+ku cha zi	苦茶籽	10
+ku de bi	苦得比	10
+ku er te xiang	库尔特乡	10
+ku jiu yi ge zi	酷就一个字	10
+ku mu tu la qian fo dong	库木吐喇千佛洞	10
+ku she shi	库设施	10
+ku ba la	库巴拉	9
+ku dou zi	裤兜子	9
+ku gan chong ji	苦甘冲剂	9
+ku ma dou	苦马豆	9
+ku xia	苦夏	9
+ku xing	苦刑	9
+ku ai	苦艾	8
+ku hai hui tou	苦海回头	8
+ku shen su	苦参素	8
+ku zhong dai le	苦中带乐	8
+ku gua pai gu tang	苦瓜排骨汤	7
+ku hai gu chu	苦海孤雏	7
+ku che tang mian	库车汤面	6
+ku lou men	骷髅门	6
+ku sun	苦笋	6
+ku er sen	库尔森	5
+ku fu xiang	库甫乡	5
+ku jiao zhe bian	裤脚折边	5
+ku lou kuang	骷髅矿	5
+ku mu guai shi tu	枯木怪石图	5
+ku xing qu pi	刳形去皮	5
+ku zhe ne	酷着呢	5
+ku zhi mu dan	枯枝牡丹	5
+ku de xiang	酷得像	4
+ku die zi zhu she ye	苦碟子注射液	4
+ku gua hei yu tang	苦瓜黑鱼汤	4
+ku jian	枯尖	4
+ku jie	酷姐	4
+ku lu bing	库鲁病	4
+ku shen jiao si	苦身焦思	4
+ku shen su zhu she ye	苦参素注射液	4
+ku shen zong jian	苦参总碱	4
+ku shui jing	苦水井	4
+ku tian hao di	哭天嚎地	4
+ku wei de jin lian	枯萎的金莲	4
+ku cao	苦草	3
+ku che zhong yang chang	库车种羊场	3
+ku da cheng zhao	苦打成招	3
+ku er le xian	库尔勒县	3
+ku gua rou pian	苦瓜肉片	3
+ku kou zu	酷抠族	3
+ku li gong	苦力工	3
+ku lian pi	苦楝皮	3
+ku mai cai huan yu pian gun dou fu	苦麦菜鲩鱼片滚豆腐	3
+ku mu xiu zhu qi nu li	枯木朽株齐努力	3
+ku tai sha yao	刳胎杀夭	3
+ku tou zi	裤头子	3
+ku wen ping zao	苦温平燥	3
+ku zhi fa	枯痔法	3
+ku zi nie ci guai dian	库兹涅茨拐点	3
+ku dan bai suan na	酷蛋白酸钠	2
+ku ding jiang ya jiao nang	苦丁降压胶囊	2
+ku er ti si	库尔提斯	2
+ku gan ke li	苦甘颗粒	2
+ku gao zhi shi	枯槁之士	2
+ku hen nian nian ya jin xian	苦恨年年压金线	2
+ku jin	酷劲	2
+ku jiu yi ge zi	苦就一个字	2
+ku lian	苦楝	2
+ku lian cun	库联村	2
+ku liu shu	枯柳树	2
+ku lou shi	骷髅石	2
+ku luo	库洛	2
+ku mi si	酷密斯	2
+ku mu	苦木	2
+ku ru qi xiang	库如奇乡	2
+ku shen shuan	苦参栓	2
+ku ta	库塔	2
+ku te	库特	2
+ku xuan shen	苦玄参	2
+ku ye dao xun	库页岛鲟	2
+ku yi xiang	库依乡	2
+ku zhi luo ye ceng	枯枝落叶层	2
+ku zhu shan	苦竹山	2
+ku ai chi e	苦埃尺蛾	1
+ku ai ya jian feng	苦艾蚜茧蜂	1
+ku an	酷安	1
+ku an niu ye e	枯安钮夜蛾	1
+ku bao	酷豹	1
+ku ben jie yuan	枯本竭源	1
+ku beng ku zhuai	苦绷苦拽	1
+ku bi shu	酷比鼠	1
+ku bing xiang	枯饼巷	1
+ku bu gui liang	堀部圭亮	1
+ku cai zi	苦菜籽	1
+ku chang ke fei	枯肠渴肺	1
+ku chuan liang	堀川亮	1
+ku da quan	库达犬	1
+ku dao lai bu yi	苦道来不易	1
+ku di dan zhu shou rou tang	苦地胆猪瘦肉汤	1
+ku duan	库缎	1
+ku e niao	苦恶鸟	1
+ku er sen de ying di	库尔森的营地	1
+ku er sen ying di	库尔森营地	1
+ku fa da yao zi	苦乏大药资	1
+ku feng qi yu	苦风凄雨	1
+ku gan cao	苦甘草	1
+ku gan li dan	刳肝沥胆	1
+ku gu sheng rou	枯骨生肉	1
+ku gu zhi yu	枯骨之余	1
+ku gua dun pai gu	苦瓜炖排骨	1
+ku gua duo duo zhi	苦瓜多多汁	1
+ku gua huang dou mu er tang	苦瓜黄豆木耳汤	1
+ku gua ji pian	苦瓜鸡片	1
+ku gua ji tui	苦瓜鸡腿	1
+ku gua niang xia ren	苦瓜酿虾仁	1
+ku gua ping guo zhi	苦瓜苹果汁	1
+ku gua shao yu	苦瓜烧鱼	1
+ku gua wei ya dan	苦瓜威鸭蛋	1
+ku han qing qi	苦寒清气	1
+ku huang qin	枯黄芩	1
+ku jiang shun	堀江瞬	1
+ku jiang yi zhen	堀江一真	1
+ku jin	库锦	1
+ku jing tui chao	枯井颓巢	1
+ku jing xin tai	堀井新太	1
+ku jing xiu gu	枯茎朽骨	1
+ku ju xiang	库局乡	1
+ku ke xi lu ge xiang	库科西鲁格乡	1
+ku kou nai jin mei	堀口奈津美	1
+ku kou zhen xi	堀口真希	1
+ku kou zhi yao	苦口之药	1
+ku ku	矻矻	1
+ku le zhi jing	苦乐之境	1
+ku li rui duan wei mao	库里瑞短尾猫	1
+ku li zhe	苦力者	1
+ku lian ban ye chan	苦楝斑叶蝉	1
+ku lin	枯林	1
+ku lou bu bing	骷髅步兵	1
+ku lou dou shi	骷髅斗士	1
+ku lou dun pai	骷髅盾牌	1
+ku lou fu shou	骷髅斧手	1
+ku lou jing wei	骷髅警卫	1
+ku lou kui jia	骷髅盔甲	1
+ku lou qiang bing	骷髅枪兵	1
+ku lou shen she shou	骷髅神射手	1
+ku lou sou cha bing	骷髅搜查兵	1
+ku lou zhuan huan chang	骷髅转换场	1
+ku lou zhuan huan qi	骷髅转换器	1
+ku lun tu xiang	库伦图乡	1
+ku lve	圐圙	1
+ku miao wang yu	枯苗望雨	1
+ku mu cun	枯木村	1
+ku mu dai er wa zha jie dao	库木代尔瓦扎街道	1
+ku mu fa rong	枯木发荣	1
+ku mu mao	枯木猫	1
+ku nao jiao xin	枯脑焦心	1
+ku nei jing zi	堀内敬子	1
+ku nei xian xiong	堀内贤雄	1
+ku peng duan cao	枯蓬断草	1
+ku qi jing	库奇鲸	1
+ku qi qi lian	哭岐泣练	1
+ku qi zhi dong	哭泣之洞	1
+ku qiao he le	苦荞饸饹	1
+ku sen de gu yong bing	库森的雇佣兵	1
+ku shen jian shuan	苦参碱栓	1
+ku shen pian	苦参片	1
+ku shen su pu tao tang zhu she ye	苦参素葡萄糖注射液	1
+ku shen xian pi jiu	苦参藓皮酒	1
+ku sheng zhi shang gan yun xiao	哭声直上干云霄	1
+ku shi chi zhen	库氏齿鱵	1
+ku shi jiu huan hai long	库氏九环海龙	1
+ku shi man ping sha chong	库什曼瓶砂虫	1
+ku shi meng	库氏獴	1
+ku shi meng shu	库氏獴属	1
+ku shi xi bao	枯氏细胞	1
+ku shu sheng hua	枯树生华	1
+ku shu sheng hua	枯树生花	1
+ku song dao gua yi jue bi	枯松倒挂倚绝壁	1
+ku tai fen yao	刳胎焚夭	1
+ku ti hui xin	枯体灰心	1
+ku tian qian	堀田茜	1
+ku tian zhen you	堀田真由	1
+ku tong bao lei	苦痛堡垒	1
+ku wa	库娃	1
+ku wei pang pi	苦味鳑鲏	1
+ku wei yang nai	堀未央奈	1
+ku xin diao shen	刳心雕肾	1
+ku xiu xing	堀秀行	1
+ku xiu zhi yu	枯朽之余	1
+ku xuan cheng shan niang ji sou	哭宣城善酿纪叟	1
+ku xue li wen	苦学力文	1
+ku yan ca lei	哭眼擦泪	1
+ku yan mo lei	哭眼抹泪	1
+ku yao li bing	苦药利病	1
+ku ye e rong jian feng	枯叶蛾绒茧蜂	1
+ku ye ping wei bi hu	枯叶平尾壁虎	1
+ku ye qiu she luo	库页球舌螺	1
+ku ye shou gong	枯叶守宫	1
+ku ye xun	库页鲟	1
+ku ye ying ge	枯叶樱蛤	1
+ku ye zhu ru bian se long	枯叶侏儒变色龙	1
+ku yi ke hao de jie quan	库依克豪德杰犬	1
+ku you bai yun chang	哭友白云长	1
+ku yu de shui	枯鱼得水	1
+ku yu guo he qi	枯鱼过河泣	1
+ku yu ruan yan	苦语软言	1
+ku yue dao ying guang chang feng die	库约岛荧光裳凤蝶	1
+ku yue er lang	堀越二郎	1
+ku yue geng ping	堀越耕平	1
+ku yun shang sui	枯耘伤岁	1
+ku zhai	窟宅	1
+ku zheng e zhan	苦争恶战	1
+ku zheng e zhan	苦征恶战	1
+ku zhi ti gao	刳脂剔膏	1
+ku zhi zai chun	枯枝再春	1
+ku zhong xian san yu jin qian	库中先散与金钱	1
+ku zhu	苦槠	1
+ku zhu kong yan	枯竹空言	1

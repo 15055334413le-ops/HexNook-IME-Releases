@@ -1,0 +1,3455 @@
+dian hua	电话	502776
+dian ji	点击	501162
+dian nao	电脑	500951
+dian ying	电影	500748
+dian zi	电子	500722
+dian shi	电视	500435
+dian zi you jian	电子邮件	500345
+dian zi shang wu	电子商务	500326
+dian chi	电池	500313
+dian yuan	电源	500307
+dian xin	电信	500301
+dian ji shu	点击数	500287
+dian li	电力	500251
+dian quan	点券	494080
+dian shi tai	电视台	487100
+dian de	点的	465010
+dian ping	点评	421910
+dian zhan	电站	353975
+dian xin	点心	345920
+dian ya	电压	343660
+dian qi	电器	336615
+dian lu	电路	325395
+dian xing	典型	301375
+dian pu	店铺	282055
+dian liu	电流	274870
+dian ti	电梯	269000
+dian lan	电缆	257390
+dian shi ju	电视剧	251695
+dian ji	电机	237940
+dian xing de	典型的	231285
+dian ji ci shu	点击次数	228205
+dian shu	点数	226885
+dian hua hao ma	电话号码	217720
+dian dong	电动	213830
+dian qi	电气	212840
+dian fen	淀粉	207643
+dian tai	电台	200715
+dian zi you xiang	电子邮箱	200475
+dian ying	点映	200000
+dian tou	点头	185735
+dian wang	电网	176770
+dian ding le	奠定了	168770
+dian shang	电商	155555
+dian zi zheng wu	电子政务	152395
+dian li	店里	144030
+dian shi ji	电视机	139615
+dian mian	店面	139020
+dian zi gong gao	电子公告	136300
+dian zi xin xi	电子信息	133510
+dian ji cha kan	点击查看	128280
+dian ya	典雅	125075
+dian gong	电工	124655
+dian zi xin xiang	电子信箱	124560
+dian bo	点播	123880
+dian zu	电阻	122470
+dian dian tou	点点头	121580
+dian chang	电厂	118885
+dian le dian tou	点了点头	118085
+dian rong	电容	117265
+dian xian	电线	117070
+dian dian	点点	115780
+dian zi shu	电子书	112890
+dian zhu	店主	109425
+dian shang	点上	107820
+dian zi you xian gong si	电子有限公司	104875
+dian zi chan pin	电子产品	102035
+dian fan	典范	101150
+dian dang	典当	100639
+dian ran	点燃	100245
+dian xin ye wu	电信业务	99280
+dian zhui	点缀	97100
+dian fu	颠覆	96915
+dian you	电邮	96495
+dian shi jie mu	电视节目	94695
+dian ji lv	点击率	90780
+dian da	电大	90100
+dian hua lian xi	电话联系	87790
+dian er	点儿	86405
+dian ji jin ru	点击进入	85515
+dian ping	电瓶	85500
+dian ci	电磁	85210
+dian ban	点半	78375
+dian dong che	电动车	77065
+dian ying yuan	电影院	76565
+dian nei	店内	75680
+dian xuan	点选	75000
+dian xun	电讯	71310
+dian du	电镀	70820
+dian nao wang luo	电脑网络	70020
+dian jia	电价	69265
+dian duo	点多	67140
+dian zi ban	电子版	66945
+dian zi ji shu	电子技术	66735
+dian lu ban	电路板	66650
+dian ji	电极	66610
+dian ding	奠定	66410
+dian fu	垫付	66176
+dian bao	电报	65240
+dian tang	殿堂	64825
+dian xia	殿下	64070
+dian ji zhe li	点击这里	63685
+dian hua ji	电话机	63455
+dian huo	点火	62835
+dian liang	电量	62540
+dian di	点滴	61605
+dian ji xia zai	点击下载	61345
+dian dong ji	电动机	60700
+dian fei	电费	59805
+dian ying jie	电影节	59250
+dian nao cheng	电脑城	58735
+dian hua li	电话里	58335
+dian neng	电能	56845
+dian ji tu pian	点击图片	55240
+dian qi	点起	53910
+dian nao pei jian	电脑配件	52805
+dian suan hua	电算化	52630
+dian zi	点子	52460
+dian ka	点卡	51590
+dian dian di di	点点滴滴	49365
+dian ge	点歌	49160
+dian yuan	店员	48755
+dian qian	点钱	48685
+dian zi za zhi	电子杂志	48655
+dian dao	颠倒	48115
+dian zai	点在	47895
+dian zhang	店长	46690
+dian xin yun ying shang	电信运营商	46550
+dian zi she bei	电子设备	46020
+dian zhong	点钟	45750
+dian zi hua	电子化	44970
+dian shi guang gao	电视广告	44170
+dian li gong si	电力公司	44075
+dian li xi tong	电力系统	43610
+dian re	电热	43575
+dian feng	巅峰	43185
+dian ji ci chu	点击此处	42850
+dian rong qi	电容器	42240
+dian ba	点吧	41350
+dian ci bo	电磁波	41150
+dian zi jing ji	电子竞技	41040
+dian dong zi xing che	电动自行车	40180
+dian li	典礼	40055
+dian zi you jian di zhi	电子邮件地址	39850
+dian qi you xian gong si	电器有限公司	39760
+dian bo	颠簸	39140
+dian jie	电解	38535
+dian yuan xian	电源线	38355
+dian nao qian	电脑前	38340
+dian zi ke ji you xian gong si	电子科技有限公司	38105
+dian qiu	点球	37720
+dian xin guan li	电信管理	37085
+dian liang	点亮	36755
+dian qi she bei	电气设备	36665
+dian nao wei xiu	电脑维修	36565
+dian zi di tu	电子地图	36565
+dian hua xian	电话线	36195
+dian gan	电感	36020
+dian hua ding gou	电话订购	36015
+dian ying xia zai	电影下载	35735
+dian ji	典籍	35685
+dian de	电的	35670
+dian ming	点名	35520
+dian zi yuan qi jian	电子元器件	35280
+dian kong	电控	34690
+dian gu	典故	33870
+dian chu	点出	33420
+dian xing an li	典型案例	33215
+dian ming	店名	32765
+dian ding ji chu	奠定基础	32420
+dian xian	癫痫	32350
+dian biao	电表	31690
+dian ying li	电影里	31545
+dian cai	点菜	31410
+dian che	电车	31115
+dian jia	店家	30945
+dian ying dian shi	电影电视	30795
+dian li hang ye	电力行业	30635
+dian xin ye	电信业	30475
+dian bing xiang	电冰箱	30365
+dian ci fa	电磁阀	30180
+dian nao li	电脑里	29845
+dian xin de	电信的	29540
+dian hua fei	电话费	29415
+dian ji shi jian	点击事件	28942
+dian hua bu	电话簿	28830
+dian dui dian	点对点	28710
+dian jie lv	电解铝	28470
+dian deng	电灯	28050
+dian bo	点拨	27565
+dian ci fu she	电磁辐射	27470
+dian xin gong si	电信公司	27350
+dian zi shang wu ping tai	电子商务平台	26615
+dian ying gong si	电影公司	26575
+dian li qi ye	电力企业	26425
+dian nao gong si	电脑公司	26420
+dian shi lian xu ju	电视连续剧	26275
+dian chang	电场	25905
+dian zi qian ming	电子签名	25445
+dian xin yong hu	电信用户	25385
+dian he	电荷	25345
+dian zi ji suan ji	电子计算机	25330
+dian ji	电击	25300
+dian hua ka	电话卡	25225
+dian bo	电波	24925
+dian lu	电炉	24765
+dian xun	电询	24610
+dian shi li	电视里	24595
+dian qi gong cheng	电气工程	24555
+dian zi cheng	电子城	24470
+dian nao xi tong	电脑系统	24410
+dian zhong	店中	24365
+dian zi ke piao	电子客票	24320
+dian jie zhi	电解质	24305
+dian ci lu	电磁炉	24175
+dian dang hang	典当行	24115
+dian zi wen jian	电子文件	24090
+dian wan	电玩	24075
+dian zhen	点阵	24045
+dian wen	电文	24030
+dian yuan guan li	电源管理	23895
+dian nao cao zuo	电脑操作	23785
+dian li gong ying	电力供应	23670
+dian yuan cha zuo	电源插座	23595
+dian dong gong ju	电动工具	23575
+dian zi gong ye	电子工业	23520
+dian re shui qi	电热水器	23400
+dian zi yuan jian	电子元件	23240
+dian ji xia mian	点击下面	23095
+dian nao ji shu	电脑技术	22900
+dian ran le	点燃了	22810
+dian zi tu shu	电子图书	22680
+dian zhao	点着	22655
+dian zhao le	点着了	22655
+dian jiao	踮脚	22550
+dian xin ju	电信局	22535
+dian zi ke ji	电子科技	22420
+dian wei	点位	22290
+dian nao you xi	电脑游戏	22285
+dian ji shu biao	点击鼠标	21680
+dian chi	滇池	21580
+dian zi chu ban wu	电子出版物	21530
+dian mei	电煤	21485
+dian shui	点水	21335
+dian zi dian qi	电子电器	21265
+dian hua jiao yu	电化教育	21195
+dian yuan kai guan	电源开关	21090
+dian nei	殿内	21000
+dian qi hua	电气化	20760
+dian ji pai hang	点击排行	20570
+dian zi zhi fu	电子支付	20440
+dian zi qin	电子琴	20265
+dian xin qi ye	电信企业	20070
+dian hua ben	电话本	19980
+dian chuan	电传	19745
+dian xin fu wu	电信服务	19610
+dian zi shi chang	电子市场	19565
+dian zi gong si	电子公司	19510
+dian feng shan	电风扇	19410
+dian pian	垫片	19395
+dian men	店门	19355
+dian shi dian hua hui yi	电视电话会议	19235
+dian hui	电汇	19200
+dian tong	电筒	19165
+dian li she bei	电力设备	19105
+dian yuan dian ya	电源电压	18910
+dian zi yin hang	电子银行	18845
+dian zi gong cheng	电子工程	18795
+dian ying zhi pian chang	电影制片厂	18775
+dian nao ying jian	电脑硬件	18765
+dian wei qi	电位器	18670
+dian zi you xi	电子游戏	18620
+dian li shi chang	电力市场	18600
+dian dong che chuang	电动车窗	18525
+dian cang	典藏	18420
+dian hua xue	电化学	18315
+dian zhong	点中	18280
+dian ci chang	电磁场	18230
+dian kai	点开	18215
+dian nao pei xun	电脑培训	18170
+dian shi mei ti	电视媒体	18060
+dian hao	点好	17990
+dian shi wang	电视网	17940
+dian zi xin xi chan pin	电子信息产品	17845
+dian tang	店堂	17785
+dian nao ruan jian	电脑软件	17740
+dian zi xiang ce	电子相册	17445
+dian zi ke ji da xue	电子科技大学	17420
+dian zi hang ye	电子行业	17365
+dian shi gou wu	电视购物	17200
+dian wu	玷污	17200
+dian zi dang an	电子档案	17155
+dian zi biao qian	电子标签	17100
+dian guang	电光	16995
+dian li dian zi	电力电子	16865
+dian ci gan rao	电磁干扰	16785
+dian zi biao ge	电子表格	16685
+dian qi she bei	电器设备	16615
+dian pen	电喷	16510
+dian zi gong ye chu ban she	电子工业出版社	16500
+dian li she shi	电力设施	16495
+dian lu she ji	电路设计	16420
+dian shi pin dao	电视频道	16395
+dian yuan shi pei qi	电源适配器	16200
+dian li gong cheng	电力工程	16030
+dian qi chang	电器厂	15965
+dian ji zhe	惦记着	15720
+dian ying pin dao	电影频道	15555
+dian shi	电石	15500
+dian jiang	点将	15470
+dian nao ai hao zhe	电脑爱好者	15380
+dian ge xi tong	点歌系统	15335
+dian zi chang	电子厂	15170
+dian xin hang ye	电信行业	15140
+dian dao	点到	15120
+dian ying wang	电影网	15110
+dian hua ying xiao	电话营销	15035
+dian xin shi chang	电信市场	14955
+dian nao zhuo	电脑桌	14845
+dian zi jiao yi	电子交易	14840
+dian qian	殿前	14800
+dian xing dai biao	典型代表	14700
+dian fan bao	电饭煲	14655
+dian lu tu	电路图	14625
+dian zi xue	电子学	14450
+dian nao bao	电脑报	14415
+dian zi	垫子	14345
+dian sheng	电声	14225
+dian li jian she	电力建设	14170
+dian ye ju	电业局	14140
+dian li dian lan	电力电缆	14035
+dian xue	点穴	13970
+dian zu qi	电阻器	13935
+dian ji	惦记	13755
+dian ci jian rong	电磁兼容	13745
+dian xiao er	店小二	13725
+dian huo hua	电火花	13705
+dian zi qi kan	电子期刊	13640
+dian dong qi che	电动汽车	13600
+dian xian gan	电线杆	13550
+dian xin she bei	电信设备	13430
+dian yong	电泳	13410
+dian shi xin wen	电视新闻	13405
+dian shi dian hua	电视电话	13400
+dian xin wang luo	电信网络	13345
+dian neng biao	电能表	13320
+dian qi you xian gong si	电气有限公司	13295
+dian li gong ye	电力工业	13280
+dian ying pian	电影片	13270
+dian han	电焊	13185
+dian jie ye	电解液	13180
+dian quan	垫圈	13120
+dian nao ping mu	电脑屏幕	13090
+dian zi xian shi ping	电子显示屏	12960
+dian bo xi tong	点播系统	12750
+dian hu	电弧	12725
+dian ji	奠基	12560
+dian zi lei	电子类	12515
+dian nao yong hu	电脑用户	12460
+dian deng	点灯	12455
+dian ying dao yan	电影导演	12425
+dian xin wang	电信网	12410
+dian chui feng	电吹风	12385
+dian zhi	店址	12375
+dian ying zhong de	电影中的	12360
+dian hua wang	电话网	12320
+dian hua hui yi	电话会议	12300
+dian zi guan	电子管	12235
+dian liu biao	电流表	12225
+dian zi shang cheng	电子商城	12190
+dian zi shi	电子式	12070
+dian ying jie	电影界	12035
+dian shi ka	电视卡	12015
+dian guo	点过	11995
+dian hua qu hao	电话区号	11945
+dian ji	点积	11945
+dian liang	掂量	11945
+dian zi ci dian	电子词典	11925
+dian zi bao	电子报	11880
+dian re tan	电热毯	11805
+dian le	点了	11784
+dian hua fu wu	电话服务	11770
+dian hua yin hang	电话银行	11715
+dian xin bu men	电信部门	11605
+dian li	电离	11545
+dian zi shu ji	电子书籍	11530
+dian chi rong liang	电池容量	11260
+dian zi zhan	电子展	11235
+dian nao chan pin	电脑产品	11155
+dian jiao guan	电教馆	11125
+dian yu	殿宇	11125
+dian hua ting	电话亭	11100
+dian chi he	电池盒	11055
+dian ya biao	电压表	11045
+dian chi zu	电池组	11035
+dian nao bing du	电脑病毒	11030
+dian shi ji qian	电视机前	10980
+dian jia re	电加热	10975
+dian zi yi qi	电子仪器	10930
+dian shi ta	电视塔	10925
+dian chi shou ming	电池寿命	10880
+dian ying zuo pin	电影作品	10880
+dian ji gong lv	电机功率	10715
+dian zhuang	点状	10715
+dian zhui zhe	点缀着	10695
+dian ji ren	奠基人	10550
+dian shan	电扇	10550
+dian shang	垫上	10460
+dian fan guo	电饭锅	10450
+dian yun dou	电熨斗	10420
+dian ti li	电梯里	10410
+dian zhong	殿中	10395
+dian nao ke ji	电脑科技	10370
+dian qi chan pin	电器产品	10340
+dian ming	点明	10330
+dian yuan jie kou	电源接口	10230
+dian ji ta	电吉他	10120
+dian ying piao	电影票	10070
+dian an	点按	10050
+dian shi dian ying	电视电影	10050
+dian zi ji piao	电子机票	10005
+dian can	点餐	9999
+dian ce	典册	9999
+dian chang tou	电唱头	9999
+dian ci wu ran	电磁污染	9999
+dian cuan	点窜	9999
+dian dan	点单	9999
+dian er	垫儿	9999
+dian jin	点进	9999
+dian jin bo liang	掂斤簸两	9999
+dian jing	电竞	9999
+dian ke	佃客	9999
+dian ke er	靛颏儿	9999
+dian ma	点吗	9999
+dian pao	点炮	9999
+dian qing	点清	9999
+dian sheng yue dui	电声乐队	9999
+dian shi dian bo	电视点播	9999
+dian shi pian er	电视片儿	9999
+dian wo	点我	9999
+dian yin	电音	9999
+dian zan	点赞	9999
+dian zao	电灶	9999
+dian zhi	点痣	9999
+dian zhi zi	点痣子	9999
+dian zi	垫资	9999
+dian zi gong gao ban	电子公告板	9999
+dian zi la ji	电子垃圾	9999
+dian zi ren zheng	电子认证	9999
+dian zi wan ju	电子玩具	9999
+dian zi wu ran	电子污染	9999
+dian zi yan	电子烟	9999
+dian jing	点睛	9915
+dian nao zhi shi	电脑知识	9900
+dian shi xin hao	电视信号	9890
+dian nao wang	电脑网	9855
+dian zi yan	电子眼	9790
+dian xue	电学	9785
+dian ying fang ying	电影放映	9755
+dian li xu qiu	电力需求	9690
+dian dong tian chuang	电动天窗	9680
+dian zi zhu ce	电子注册	9680
+dian shi guan zhong	电视观众	9660
+dian di	垫底	9580
+dian yi xia	点一下	9440
+dian dong hu lu	电动葫芦	9430
+dian zi dian gong	电子电工	9365
+dian zu zhi	电阻值	9340
+dian fen mei	淀粉酶	9336
+dian xing xing	典型性	9290
+dian zi dian lu	电子电路	9280
+dian xin hao	电信号	9230
+dian zi qi jian	电子器件	9215
+dian li ju	电力局	9135
+dian lv	电驴	9100
+dian dong chuang	电动窗	9045
+dian hao	电耗	9025
+dian shang	殿上	9015
+dian ping che	电瓶车	8970
+dian ju	电锯	8960
+dian ti	点题	8935
+dian zi ke xue	电子科学	8935
+dian xin wang tong	电信网通	8915
+dian ma	点嘛	8888
+dian ci cha kan	点此查看	8880
+dian zi bai ban	电子白板	8870
+dian qing	店庆	8820
+dian zi tong xun	电子通讯	8810
+dian zhe tou	点着头	8775
+dian shi gui	电视柜	8725
+dian hua ling sheng	电话铃声	8670
+dian ying ren	电影人	8670
+dian ying hai bao	电影海报	8665
+dian ying zi yuan	电影资源	8630
+dian qi kong zhi	电气控制	8595
+dian ying bo fang	电影播放	8565
+dian zi yin yue	电子音乐	8540
+dian li ji tuan	电力集团	8505
+dian ji chang	电机厂	8500
+dian ji yi shi	奠基仪式	8480
+dian yan qi	点烟器	8475
+dian hua ling	电话铃	8460
+dian ying yan yuan	电影演员	8445
+dian zi shang wu ying yong	电子商务应用	8435
+dian hua yong hu	电话用户	8430
+dian yuan gong ying	电源供应	8405
+dian zi ji shu you xian gong si	电子技术有限公司	8380
+dian wai	店外	8375
+dian shi qiang	电视墙	8350
+dian hua xi tong	电话系统	8340
+dian shi guang bo	电视广播	8315
+dian dao de	颠倒的	8290
+dian xing an jian	典型案件	8245
+dian zi shu	电子束	8235
+dian xin ji fang	电信机房	8215
+dian xing shi fan	典型示范	8190
+dian xin	电芯	8185
+dian nao gu zhang	电脑故障	8180
+dian yuan cha tou	电源插头	8150
+dian le dian	点了点	8125
+dian ti men	电梯门	8075
+dian shi	电势	8055
+dian ci gan ying	电磁感应	8025
+dian kang qi	电抗器	7985
+dian shi pian	电视片	7985
+dian xing shi li	典型事例	7975
+dian yuan xi tong	电源系统	7970
+dian hua xian lu	电话线路	7965
+dian jie dian rong	电解电容	7935
+dian nao shi chang	电脑市场	7885
+dian ying cheng	电影城	7885
+dian hou	殿后	7870
+dian zi you xi ji	电子游戏机	7865
+dian kuang	癫狂	7855
+dian nao zhu ji	电脑主机	7830
+dian nuan qi	电暖器	7795
+dian hua	点化	7765
+dian dao lv	电导率	7740
+dian li xian	电力线	7625
+dian shi hua mian	电视画面	7625
+dian zi shu xia zai	电子书下载	7595
+dian zi qi ye	电子企业	7580
+dian ying shi chang	电影市场	7575
+dian li diao du	电力调度	7570
+dian gan	电杆	7475
+dian zi xian lu	电子线路	7435
+dian dian tong	点点通	7395
+dian po	点破	7390
+dian shi cheng jin	点石成金	7390
+dian zi bang	电子磅	7390
+dian ji bo fang	点击播放	7385
+dian nao hua	电脑化	7360
+dian hua lu yin	电话录音	7335
+dian ci jin ru	点此进入	7325
+dian ying zhi zuo	电影制作	7285
+dian zi zhan	电子战	7250
+dian zi gou	电子狗	7245
+dian ceng	垫层	7240
+dian nao wai she	电脑外设	7180
+dian zu lv	电阻率	7170
+dian chi chong dian	电池充电	7130
+dian ya deng ji	电压等级	7120
+dian han ji	电焊机	7105
+dian zi zi dian	电子字典	7080
+dian fu chuan tong	颠覆传统	7045
+dian hua jiao xue	电化教学	7030
+dian lan xian	电缆线	7030
+dian nao pei zhi	电脑配置	7020
+dian xin tiao li	电信条例	7005
+dian shi jian kong	电视监控	6940
+dian lan	靛蓝	6925
+dian zi zhen liu qi	电子镇流器	6920
+dian gao	垫高	6890
+dian jiao shi	电教室	6855
+dian shi zhuan bo	电视转播	6830
+dian jing zhi bi	点睛之笔	6820
+dian zi cheng	电子秤	6810
+dian ying zhan	电影站	6785
+dian shan lei ming	电闪雷鸣	6760
+dian shi zhi bo	电视直播	6690
+dian li	殿里	6655
+dian shi zuo pin	电视作品	6630
+dian jiu	碘酒	6580
+dian nao xian shi qi	电脑显示器	6580
+dian ying ming xing	电影明星	6550
+dian xin xian lu	电信线路	6545
+dian zi biao	电子表	6540
+dian xin zi fei	电信资费	6530
+dian shi ping mu	电视屏幕	6515
+dian ying yi shu	电影艺术	6470
+dian guang yuan	电光源	6445
+dian liu hu gan qi	电流互感器	6410
+dian li xian lu	电力线路	6400
+dian wei	典韦	6395
+dian ying pian duan	电影片段	6395
+dian nao dong hua	电脑动画	6340
+dian zi huo bi	电子货币	6315
+dian dao	电导	6295
+dian shi lan mu	电视栏目	6280
+dian ying tai	电影台	6270
+dian yan	点烟	6265
+dian li bu men	电力部门	6245
+dian dao wei zhi	点到为止	6235
+dian xian	点线	6230
+dian jian hui	电监会	6215
+dian zi chan ye	电子产业	6170
+dian zi ming pian	电子名片	6160
+dian jiao pian	电教片	6140
+dian zi tong xin	电子通信	6135
+dian qi ji tuan	电气集团	6130
+dian yuan gong dian	电源供电	6100
+dian nao shi	电脑室	6085
+dian deng pao	电灯泡	6070
+dian zi qian ming fa	电子签名法	6070
+dian hua gong si	电话公司	6065
+dian chi shi yong shi jian	电池使用时间	6060
+dian hua ba	电话吧	6035
+dian li ti zhi gai ge	电力体制改革	6020
+dian rong shi	电容式	6015
+dian nao fu she	电脑辐射	6010
+dian xin zeng zhi ye wu	电信增值业务	6010
+dian zi jing cha	电子警察	5995
+dian chi dian liang	电池电量	5935
+dian luo	电骡	5935
+dian ji cai dan	点击菜单	5930
+dian han gong	电焊工	5925
+dian ying ye	电影业	5925
+dian zi jiao an	电子教案	5925
+dian lan chang	电缆厂	5875
+dian ying ju ben	电影剧本	5870
+dian shi da xue	电视大学	5865
+dian zai	垫在	5865
+dian ying mian fei	电影免费	5850
+dian ci tie	电磁铁	5835
+dian zi hui kuan	电子汇款	5830
+dian nao zhou bian	电脑周边	5825
+dian zuan	电钻	5825
+dian qi	踮起	5810
+dian zi tian ping	电子天平	5810
+dian qi gong si	电气公司	5790
+dian lu jiao huan	电路交换	5780
+dian hua cai fang	电话采访	5710
+dian du biao	电度表	5675
+dian hua zong ji	电话总机	5650
+dian xing li zi	典型例子	5650
+dian tou cheng shi	点头称是	5630
+dian qi xi tong	电气系统	5610
+dian shan	电闪	5590
+dian xing te zheng	典型特征	5560
+dian fa	点发	5530
+dian pei liu li	颠沛流离	5530
+dian ce guang	点测光	5500
+dian qi cheng	电器城	5495
+dian ying yin yue	电影音乐	5475
+dian qi zhuan ye	电气专业	5460
+dian huo xi tong	点火系统	5455
+dian hua ji shu	电话技术	5430
+dian zi qian bao	电子钱包	5425
+dian zi you hui quan	电子优惠券	5410
+dian qiao	电桥	5405
+dian ying yuan li	电影院里	5405
+dian han	点焊	5400
+dian zi shi jie	电子世界	5395
+dian shi ye	电视业	5390
+dian ying zhi pian	电影制片	5370
+dian wan	点完	5360
+dian cang ban	典藏版	5335
+dian ban	垫板	5330
+dian chao ji	点钞机	5320
+dian zi he ka	电子贺卡	5320
+dian nuan	电暖	5295
+dian beng	电泵	5260
+dian shua	电刷	5250
+dian wai	殿外	5245
+dian ying shi	电影史	5245
+dian nian	惦念	5235
+dian yuan mo kuai	电源模块	5230
+dian dong shi	电动势	5200
+dian hua jiao huan ji	电话交换机	5180
+dian ka	电卡	5159
+dian hu	佃户	5145
+dian she	点射	5135
+dian chi dian ya	电池电压	5125
+dian huo kai guan	点火开关	5095
+dian xing ren wu	典型人物	5090
+dian shi ju ji	电视剧集	5070
+dian nao gao shou	电脑高手	5055
+dian pen fa dong ji	电喷发动机	5044
+dian xing neng	电性能	5035
+dian tai jie mu	电台节目	5030
+dian shi you xi	电视游戏	5010
+dian li ji che	电力机车	5005
+dian nao zheng ji	电脑整机	5005
+dian wang qi ye	电网企业	5005
+dian gong ji shu	电工技术	4995
+dian shi zhuan ti pian	电视专题片	4990
+dian xian bing	癫痫病	4985
+dian qi gu fen	电器股份	4980
+dian qi xing neng	电气性能	4950
+dian ti kou	电梯口	4940
+dian xing li ti	典型例题	4930
+dian shi da sai	电视大赛	4915
+dian dong wan ju	电动玩具	4870
+dian shui hu	电水壶	4850
+dian zi xi	电子系	4830
+dian lao tie	电烙铁	4820
+dian han tiao	电焊条	4800
+dian ji shu liang	点击数量	4790
+dian huo qi	点火器	4785
+dian xing zhi	典型值	4780
+dian ji gong cheng	电机工程	4775
+dian jie tong	电解铜	4770
+dian nao zhuo mian	电脑桌面	4770
+dian ji	点集	4763
+dian zi zhi dong li fen pei xi tong	电子制动力分配系统	4756
+dian zi wen ben	电子文本	4755
+dian xin kuan dai	电信宽带	4750
+dian shi he	电视盒	4735
+dian hua chuan zhen	电话传真	4725
+dian ji ta	点击它	4725
+dian dang ye	典当业	4710
+dian shi	殿试	4705
+dian zi kuai men	电子快门	4700
+dian ying wang zhan	电影网站	4690
+dian xing zheng zhuang	典型症状	4685
+dian jian	点检	4665
+dian men	殿门	4655
+dian nao zu zhuang	电脑组装	4655
+dian qi zhuang zhi	电气装置	4655
+dian yi xia	垫一下	4650
+dian zi ke da	电子科大	4650
+dian zi xian wei jing	电子显微镜	4605
+dian ren	点人	4570
+dian liao	垫料	4545
+dian ying jian ji	电影剪辑	4540
+dian nao chang shang	电脑厂商	4530
+dian ying ju	电影局	4505
+dian huo xian quan	点火线圈	4476
+dian kao xiang	电烤箱	4475
+dian zi ye	电子业	4475
+dian ti jian	电梯间	4470
+dian tou ha yao	点头哈腰	4465
+dian gan qi	电感器	4450
+dian lian	电联	4430
+dian ying lun tan	电影论坛	4425
+dian shi hui yi	电视会议	4415
+dian nao jian pan	电脑键盘	4410
+dian qi shi	电气石	4405
+dian suan	电算	4395
+dian quan	典权	4385
+dian xing	点醒	4335
+dian jie cao	电解槽	4325
+dian gao	电告	4320
+dian nong	佃农	4315
+dian mian jie he	点面结合	4295
+dian dao hei bai	颠倒黑白	4275
+dian qi wei xiu	电器维修	4260
+dian lu fen xi	电路分析	4255
+dian tou da ying	点头答应	4255
+dian kuan	垫款	4225
+dian jiao	电教	4205
+dian jian	电检	4195
+dian ying zai xian	电影在线	4185
+dian ying shi ye	电影事业	4170
+dian shi zhuan bo quan	电视转播权	4166
+dian nao lian jie	电脑连接	4165
+dian zi ci dian	电子辞典	4150
+dian guang shi huo	电光石火	4145
+dian li bu	电力部	4135
+dian nao zhu ban	电脑主板	4130
+dian shi shi chang	电视市场	4120
+dian nao hao cai	电脑耗材	4105
+dian dong ya shua	电动牙刷	4100
+dian li ceng	电离层	4100
+dian qi hua tie lu	电气化铁路	4095
+dian jiang	垫江	4070
+dian re shui hu	电热水壶	4070
+dian ying jian jie	电影简介	4040
+dian liao	电料	4020
+dian ci ping bi	电磁屏蔽	4010
+dian rong liang	电容量	4000
+dian cai	垫材	3986
+dian xing fa yan	典型发言	3980
+dian dao dian	点到点	3940
+dian nao xiu hua	电脑绣花	3940
+dian gong lv	电功率	3910
+dian xin ka	电信卡	3880
+dian xin ji shu	电信技术	3875
+dian zi zheng shu	电子证书	3875
+dian ci xue	电磁学	3835
+dian jiang tai	点将台	3835
+dian mian zhuang xiu	店面装修	3825
+dian ge tai	点歌台	3820
+dian yuan she bei	电源设备	3820
+dian tou biao shi	点头表示	3815
+dian neng ji liang	电能计量	3810
+dian li zi yuan	电力资源	3805
+dian qi xian lu	电气线路	3800
+dian shi ji shu	电视技术	3790
+dian liao	电疗	3765
+dian xin fa	电信法	3715
+dian ling	电铃	3700
+dian yan se	点颜色	3695
+dian shi chan ye	电视产业	3680
+dian ying yuan sheng	电影原声	3660
+dian zi kan wu	电子刊物	3645
+dian li fu she	电离辐射	3640
+dian hong	滇红	3635
+dian zi ping	电子屏	3630
+dian dong ti xu dao	电动剃须刀	3620
+dian qi yuan jian	电器元件	3610
+dian li zi dong hua	电力自动化	3600
+dian bing	点兵	3590
+dian xian fa zuo	癫痫发作	3590
+dian ban	电板	3580
+dian xing bing li	典型病例	3575
+dian shi zhi xiao	电视直销	3570
+dian sha	点啥	3560
+dian ma	电码	3555
+dian tie	垫铁	3550
+dian zi dui kang	电子对抗	3500
+dian yuan gong lv	电源功率	3485
+dian xian gan shang	电线杆上	3475
+dian ci shi	电磁式	3465
+dian jie zhi	电介质	3465
+dian jia gong	电加工	3460
+dian ying jiang	电影奖	3450
+dian shi jie shou	电视接收	3445
+dian fu xing	颠覆性	3440
+dian zi he tong	电子合同	3440
+dian fa	点法	3435
+dian lan qiao jia	电缆桥架	3410
+dian jia re qi	电加热器	3405
+dian shi wang luo	电视网络	3385
+dian huang	电荒	3370
+dian zhang	典章	3355
+dian lu yuan li	电路原理	3345
+dian chu	点触	3342
+dian zi mei ti	电子媒体	3335
+dian chi bu zu	电池不足	3333
+dian dao	电刀	3333
+dian dao de lian	颠倒的脸	3333
+dian liang bu zu	电量不足	3333
+dian liang di	电量低	3333
+dian nao guang pan	电脑光盘	3333
+dian nao shu biao	电脑鼠标	3333
+dian ping hua kuai	电平滑块	3333
+dian xiao	电销	3333
+dian zi you xi shou bing	电子游戏手柄	3333
+dian ya hu gan qi	电压互感器	3325
+dian zi yue	电子乐	3315
+dian zi	点字	3310
+dian zi bing li	电子病历	3310
+dian hua shi	电话是	3301
+dian de	点得	3300
+dian re guan	电热管	3270
+dian fu	碘伏	3252
+dian yun	电晕	3250
+dian bei	垫背	3245
+dian zi yin zhang	电子印章	3245
+dian qi chuan dong	电气传动	3230
+dian yuan dian lu	电源电路	3225
+dian xing biao xian	典型表现	3220
+dian zi ling jian	电子零件	3215
+dian hua wei tuo	电话委托	3200
+dian zi gan rao	电子干扰	3185
+dian de	碘的	3170
+dian dong pao bu ji	电动跑步机	3160
+dian zi shang hang	电子商行	3150
+dian xing wen ti	典型问题	3145
+dian zhe	垫着	3145
+dian ge	点个	3135
+dian zhu	电铸	3135
+dian han ji	点焊机	3125
+dian xin guan li ju	电信管理局	3115
+dian jiang xian	垫江县	3105
+dian san dao si	颠三倒四	3085
+dian hua ju	电话局	3080
+dian shi jiang hua	电视讲话	3080
+dian tou shi yi	点头示意	3080
+dian ying jia	电影家	3080
+dian qi zhi zao	电器制造	3070
+dian mai chong	电脉冲	3065
+dian zi gong ye bu	电子工业部	3035
+dian hua jia	碘化钾	3030
+dian nao ping mu shang	电脑屏幕上	3025
+dian nao jie	电脑节	3020
+dian li gu fen	电力股份	3015
+dian liu mi du	电流密度	2960
+dian hua zhi chi	电话支持	2955
+dian ji zhe	奠基者	2950
+dian jiao ji	点胶机	2940
+dian zi wen dang	电子文档	2940
+dian re mo	电热膜	2930
+dian qi kai guan	电器开关	2915
+dian dao guo lai	颠倒过来	2910
+dian zi xun geng	电子巡更	2910
+dian chang qiang du	电场强度	2905
+dian zi bian ya qi	电子变压器	2895
+dian jiao	点胶	2890
+dian nao te ji	电脑特技	2890
+dian shan hu	淀山湖	2890
+dian pu bu po	颠扑不破	2885
+dian yan	碘盐	2885
+dian zha	电闸	2870
+dian jin	点金	2866
+dian gan xian quan	电感线圈	2865
+dian nao dian ge	电脑点歌	2860
+dian chao	点钞	2840
+dian gong xue	电工学	2835
+dian han wang	电焊网	2825
+dian zi ce liang yi qi	电子测量仪器	2815
+dian hua a	电话啊	2810
+dian le	垫了	2810
+dian nao da zi	电脑打字	2810
+dian wang diao du	电网调度	2810
+dian zhen	电针	2805
+dian qiu da zhan	点球大战	2800
+dian ying quan	电影圈	2795
+dian gong qi cai	电工器材	2785
+dian zi zhong	电子钟	2785
+dian zi jiao shi	电子教室	2775
+dian ying jiao pian	电影胶片	2765
+dian kuai	垫块	2760
+dian zhi yan	点支烟	2755
+dian jiao shi	垫脚石	2735
+dian du chang	电镀厂	2730
+dian nao zhuan jia	电脑专家	2725
+dian zhi fa guang	电致发光	2725
+dian xing shi li	典型实例	2720
+dian yuan kong zhi	电源控制	2715
+dian jie dian rong qi	电解电容器	2700
+dian dian	颠颠	2685
+dian ying piao fang	电影票房	2680
+dian zi hui yi	电子会议	2675
+dian shen xi	电渗析	2665
+dian li gai ge	电力改革	2660
+dian nao deng	电脑灯	2660
+dian zi zi liao	电子资料	2655
+dian li wang	电力网	2645
+dian qi an zhuang	电气安装	2640
+dian shi bao	电视报	2640
+dian nao bu	电脑部	2635
+dian jue yuan	电绝缘	2625
+dian xin ji tuan	电信集团	2625
+dian shu	电枢	2620
+dian ci ji	电刺激	2605
+dian fen tang	淀粉糖	2600
+dian ti nei	电梯内	2600
+dian si	电死	2595
+dian li xiang mu	电力项目	2585
+dian tou	店头	2580
+dian qi gu fen	电气股份	2565
+dian nao fang	电脑房	2545
+dian hua hou	电话后	2536
+dian ji si	电极丝	2525
+dian yong	电涌	2525
+dian feng zhuang tai	巅峰状态	2505
+dian li fa	电力法	2505
+dian yong bao hu qi	电涌保护器	2505
+dian zi shang	垫子上	2495
+dian nao tai	电脑台	2475
+dian ling	电令	2460
+dian shi ju chang	电视剧场	2455
+dian zi qiang	电子枪	2455
+dian bing cheng	电饼铛	2450
+dian ya tiao jie	电压调节	2450
+dian xing diao cha	典型调查	2440
+dian zhang zhi du	典章制度	2420
+dian zi xiang guan	电子相关	2415
+dian jiao	垫脚	2410
+dian na	点那	2390
+dian na er	点那儿	2390
+dian na li	点那里	2390
+dian shou	点收	2385
+dian lu jie gou	电路结构	2365
+dian zi du wu	电子读物	2360
+dian wei	电位	2356
+dian chi chang	电池厂	2355
+dian shi ye wu	电视业务	2355
+dian dong shi	电动式	2350
+dian ying chan ye	电影产业	2345
+dian ying zhan	电影展	2345
+dian hu han	电弧焊	2340
+dian li tuo dong	电力拖动	2340
+dian nao zu	电脑族	2340
+dian kang	电抗	2325
+dian dao zhong sheng	颠倒众生	2315
+dian zi suo	电子锁	2315
+dian jun	殿军	2300
+dian gong dian qi	电工电气	2295
+dian re qi	电热器	2290
+dian lan lian jie	电缆连接	2285
+dian zi bu	电子部	2280
+dian nian zhe	惦念着	2265
+dian ya da fang	典雅大方	2265
+dian shi gong si	电视公司	2260
+dian shi yong hu	电视用户	2260
+dian hu lu	电弧炉	2250
+dian chang	点唱	2245
+dian gong	电功	2245
+dian jian	点见	2235
+dian shou	点首	2230
+dian bu	点不	2222
+dian ren	电刃	2222
+dian pei	颠沛	2220
+dian ji tu biao	点击图标	2215
+dian sha	点杀	2215
+dian ya jiang	电压降	2215
+dian ying yuan xian	电影院线	2210
+dian yuan	点源	2205
+dian qi wang	电器网	2195
+dian ying da pian	电影大片	2195
+dian dong li xue	电动力学	2190
+dian zi tao ci	电子陶瓷	2185
+dian mian gong lu	滇缅公路	2180
+dian wei cha	电位差	2180
+dian bang	电棒	2140
+dian cai nuan	电采暖	2135
+dian dao	点倒	2130
+dian ji dian li	奠基典礼	2110
+dian ji shi	奠基石	2110
+dian jie shui	电解水	2100
+dian zu si	电阻丝	2100
+dian dong mo tuo che	电动摩托车	2085
+dian du xin	电镀锌	2080
+dian da jiao yu	电大教育	2075
+dian nao zhong du	电脑中毒	2075
+dian huo guo	电火锅	2070
+dian dong bo li	电动玻璃	2059
+dian cuo	点错	2055
+dian li ban kuai	电力板块	2050
+dian nao jiao shi	电脑教室	2050
+dian dong men	电动门	2045
+dian guo lu	电锅炉	2045
+dian hua lv	电化铝	2045
+dian niu	电钮	2040
+dian shi chan pin	电视产品	2020
+dian lan xian lu	电缆线路	2015
+dian mu	电木	2015
+dian ya kong zhi	电压控制	2010
+dian qi fu jian	电器附件	2005
+dian yu fa	点语法	2001
+dian liu qiang du	电流强度	2000
+dian hua ling xiang	电话铃响	1980
+dian ying gong zuo zhe	电影工作者	1980
+dian dong tiao jie fa	电动调节阀	1975
+dian ying xin shang	电影欣赏	1970
+dian lv xia zai	电驴下载	1960
+dian zu	店租	1955
+dian hua jiao huan	电话交换	1945
+dian zhen tu	点阵图	1945
+dian ying zhou	电影周	1925
+dian men	电门	1920
+dian zi kai guan	电子开关	1920
+dian zi bao zhi	电子报纸	1915
+dian yong qi	电泳漆	1910
+dian ju	点距	1909
+dian ji xi	电机系	1905
+dian shi ying ji	电视影集	1905
+dian ji xia	点几下	1900
+dian li ke xue	电力科学	1885
+dian lu gong zuo	电路工作	1885
+dian ci xian	电磁线	1870
+dian li chuan dong	电力传动	1870
+dian re si	电热丝	1855
+dian yuan feng shan	电源风扇	1855
+dian dao shi fei	颠倒是非	1850
+dian zi yue qi	电子乐器	1850
+dian feng dui jue	巅峰对决	1845
+dian ying qing jie	电影情节	1830
+dian dong fa	电动阀	1825
+dian mian	滇缅	1825
+dian qi	垫起	1805
+dian shi xi lie pian	电视系列片	1805
+dian shi zhi shi	电视制式	1805
+dian zi zhi zuo	电子制作	1805
+dian zi mei jie	电子媒介	1800
+dian wan you xi	电玩游戏	1795
+dian zi shi ye	电子实业	1785
+dian jiang	电浆	1780
+dian jie fa	电解法	1780
+dian cheng	点乘	1766
+dian zi qi che heng	电子汽车衡	1765
+dian huo zhuang zhi	点火装置	1740
+dian nao zhuo yi	电脑桌椅	1740
+dian shi tian xian	电视天线	1740
+dian yuan hui lu	电源回路	1740
+dian hua le	电话了	1736
+dian yu zhang	典狱长	1735
+dian bao ju	电报局	1725
+dian fei dan	电费单	1725
+dian huo	点货	1720
+dian zi sao miao	电子扫描	1715
+dian suan	碘酸	1705
+dian dao lv yi	电导率仪	1700
+dian jian	垫肩	1700
+dian gui	电柜	1695
+dian qi gui	电气柜	1695
+dian ying chang	电影厂	1695
+dian cao	垫草	1685
+dian chui	电锤	1685
+dian nao ke	电脑课	1680
+dian qi lai	点起来	1680
+dian zhen shi	点阵式	1680
+dian hua tong	电话筒	1660
+dian zhe	惦着	1660
+dian li ping heng	电离平衡	1650
+dian bao gua hao	电报挂号	1645
+dian lu xi tong	电路系统	1645
+dian xing huan jing	典型环境	1640
+dian xin jing ying	电信经营	1635
+dian xian gan zi	电线杆子	1630
+dian gua	电挂	1625
+dian hua tong xin	电话通信	1625
+dian liu chuan gan qi	电流传感器	1620
+dian fen zhi	淀粉质	1600
+dian jie zhi rong ye	电解质溶液	1580
+dian qi hang ye	电气行业	1580
+dian yuan zhuan huan qi	电源转换器	1580
+dian shi ji zhe	电视记者	1575
+dian hua tou su	电话投诉	1570
+dian xiu gai	点修改	1562
+dian ying duan pian	电影短片	1555
+dian zhe jiao jian	踮着脚尖	1550
+dian chen ji	电沉积	1545
+dian shi ji chang	电视机厂	1540
+dian feng qi	巅峰期	1530
+dian hua ting tong	电话听筒	1530
+dian zhong	点种	1525
+dian dong zhi xing qi	电动执行器	1520
+dian ji xiao guo	点击效果	1520
+dian zi shang qing	电子商情	1520
+dian bi	电笔	1510
+dian guan ju	电管局	1510
+dian li zi	电离子	1510
+dian zi shang wu fa	电子商务法	1510
+dian deng kai guan	电灯开关	1505
+dian dian he	点电荷	1500
+dian yuan zhuang zhi	电源装置	1500
+dian qi yi biao	电器仪表	1485
+dian ji	淀积	1475
+dian kou	店口	1475
+dian piao	点票	1470
+dian hua fen ji	电话分机	1465
+dian pen che	电喷车	1465
+dian dong fa men	电动阀门	1450
+dian ying mei xue	电影美学	1450
+dian zu xiang	电阻箱	1450
+dian nao cheng xu	电脑程序	1440
+dian zhe jiao	踮着脚	1440
+dian zi you xi ting	电子游戏厅	1440
+dian chi ban	电池板	1435
+dian ji zhi zao	电机制造	1435
+dian fen bu	点分布	1430
+dian shi cha	电势差	1425
+dian dang wu	典当物	1417
+dian bei si	电贝斯	1410
+dian chu lai	点出来	1410
+dian qia	电洽	1410
+dian qiu	颠球	1410
+dian ji xue	电机学	1405
+dian re bei	电热杯	1405
+dian yu	电鱼	1405
+dian ci zao	电磁灶	1390
+dian qi han	电气焊	1385
+dian tai guang gao	电台广告	1385
+dian zu han	电阻焊	1385
+dian qi ye	电器业	1380
+dian nao zhen suo	电脑诊所	1375
+dian hua ji fei	电话计费	1374
+dian he beng	电荷泵	1370
+dian shi lu	电石炉	1365
+dian ying ting	电影厅	1365
+dian huo yao shi	点火钥匙	1356
+dian gun	电棍	1345
+dian qing	电请	1340
+dian ji lian jie	点击连接	1330
+dian lao hu	电老虎	1325
+dian lu fang zhen	电路仿真	1325
+dian shang fang	点上方	1325
+dian shu ka	点数卡	1325
+dian ying ji shu	电影技术	1320
+dian chang xian	电场线	1315
+dian lai dao qu	颠来倒去	1315
+dian shang ping tai	电商平台	1311
+dian ma fang wei	电码防伪	1310
+dian lu duan lu	电路短路	1304
+dian dong mu	电动幕	1300
+dian lu chang	电炉厂	1295
+dian xun ye	电讯业	1295
+dian nao zhuo qian	电脑桌前	1290
+dian rong qi zu	电容器组	1290
+dian zi yun	电子云	1285
+dian fu	电复	1275
+dian lan fu jian	电缆附件	1270
+dian yue tie lu	滇越铁路	1270
+dian che	电掣	1265
+dian cai	点踩	1264
+dian dian	掂掂	1260
+dian huo ji	店伙计	1260
+dian mo	电摩	1255
+dian chu chen	电除尘	1250
+dian jian	电键	1240
+dian han	电函	1230
+dian lu li lun	电路理论	1230
+dian ge ji	点歌机	1225
+dian kong zhi	点控制	1225
+dian zi ji suan qi	电子计算器	1225
+dian nao yin xiang	电脑音箱	1220
+dian liang zhe	掂量着	1215
+dian fen yang bian	淀粉样变	1210
+dian shi mi	电视迷	1210
+dian qi gong ye	电气工业	1205
+dian xing hua	典型化	1205
+dian zi zhen cha	电子侦察	1205
+dian ying yuan sheng chang pian	电影原声唱片	1195
+dian hui dan	电汇单	1190
+dian nao wu	电脑屋	1190
+dian qi bu fen	电气部分	1190
+dian ying ji	电影机	1190
+dian liu kong zhi	电流控制	1185
+dian yan	电眼	1185
+dian chi de fu ji	电池的负极	1180
+dian chi de zheng ji	电池的正极	1180
+dian hao	垫好	1180
+dian hua xian	点划线	1180
+dian jing ti	电晶体	1180
+dian nao shang	电脑上	1180
+dian pu he	淀浦河	1180
+dian tao lu	电陶炉	1180
+dian xin ban	电信版	1180
+dian yi dian	垫一垫	1180
+dian zi han jian	电子函件	1175
+dian shi ju ben	电视剧本	1165
+dian suan jia	碘酸钾	1145
+dian zi guang gao	电子广告	1145
+dian qing	靛青	1140
+dian shi jiao xue	电视教学	1140
+dian yi	电椅	1130
+dian ying fen ji	电影分级	1125
+dian zi hui dui	电子汇兑	1125
+dian shi quan	电视圈	1120
+dian jing gun	电警棍	1115
+dian liu xiao hao	电流消耗	1115
+dian bu dian	点不点	1111
+dian ci	点此	1111
+dian lei	电雷	1111
+dian man	点满	1111
+dian na	点哪	1111
+dian na er	点哪儿	1111
+dian na li	点哪里	1111
+dian nao ban	电脑版	1111
+dian se	靛色	1111
+dian shou	垫手	1111
+dian xiang	电箱	1111
+dian he shu	电荷数	1110
+dian kong gui	电控柜	1110
+dian shi jie shou ji	电视接收机	1090
+dian ti ji fang	电梯机房	1090
+dian ying xie hui	电影协会	1085
+dian qian	垫钱	1080
+dian fu zhe	颠覆者	1075
+dian guang yuan	点光源	1075
+dian ji zhou	电机轴	1075
+dian jian	电建	1071
+dian guo	电锅	1070
+dian shi ping	电视屏	1070
+dian dian	垫垫	1065
+dian jin shu	点金术	1050
+dian wei ji	电位计	1050
+dian liu ji	电流计	1045
+dian hua wu	碘化物	1040
+dian bu	垫步	1035
+dian liu bi	电流比	1035
+dian hua zhou	电话粥	1030
+dian xing li zheng	典型例证	1025
+dian ge zhu fu	点歌祝福	1020
+dian yong yi	电泳仪	1020
+dian li	奠立	1015
+dian hua xue chuan gan qi	电化学传感器	1010
+dian ru	玷辱	1010
+dian xing	典刑	1010
+dian yan	点验	1010
+dian yun	点云	1007
+dian a	点啊	1005
+dian bo hui	电博会	1000
+dian nao bao jia	电脑报价	1000
+dian zi chi	电子尺	1000
+dian bao	点爆	999
+dian chuan	电船	999
+dian hua	垫话	999
+dian xian chang	电线厂	995
+dian dong zhu li zhuan xiang xi tong	电动助力转向系统	987
+dian bo biao	电波表	980
+dian ying zi liao guan	电影资料馆	980
+dian yun fang dian	电晕放电	980
+dian guan zhan	电灌站	970
+dian qi yi biao	电气仪表	970
+dian hua bu zhong	电话簿中	965
+dian jie chu	点接触	965
+dian zi ceng	电子层	965
+dian zi shou duan	电子手段	965
+dian chao guo	电炒锅	960
+dian ye	电冶	960
+dian biao chang	电表厂	955
+dian bu	垫布	955
+dian qi hang	电器行	950
+dian gan ou he	电感耦合	945
+dian lian jie qi	电连接器	945
+dian zi yi tiao jie	电子一条街	945
+dian qun	点群	940
+dian zi shou biao	电子手表	940
+dian chang ji	电唱机	935
+dian bu zhao	点不着	925
+dian chang ji	点唱机	925
+dian ying wen xue ju ben	电影文学剧本	925
+dian zi zhuan yi	电子转移	925
+dian ying guang gao	电影广告	920
+dian shi gong zuo zhe	电视工作者	915
+dian zi liu	电子流	915
+dian hao	店号	910
+dian hua ci ka	电话磁卡	910
+dian kong suo	电控锁	910
+dian ying fang ying ji	电影放映机	910
+dian ying hua	电影化	910
+dian lan se	靛蓝色	900
+dian ye	电业	899
+dian yan cong	点眼丛	898
+dian mai	典卖	895
+dian hua	点画	892
+dian feng shi qi	巅峰时期	885
+dian hua jian	电话间	885
+dian yuan xiao lv	电源效率	885
+dian xin zhan	电信展	884
+dian xing cuo wu	典型错误	880
+dian he ou he qi jian	电荷耦合器件	875
+dian wei cha ji	电位差计	875
+dian zhu	电珠	875
+dian zi xin han	电子信函	875
+dian bao ji	电报机	865
+dian yun suan	点运算	861
+dian xia fang	点下方	860
+dian fu jin	点附近	858
+dian ying cha qu	电影插曲	850
+dian ying pai hang bang	电影排行榜	845
+dian ji shang	电击伤	835
+dian kao lu	电烤炉	835
+dian tou ying yun	点头应允	835
+dian xing	电刑	835
+dian dui dian xie yi	点对点协议	825
+dian geng xin	点更新	825
+dian dong nan	滇东南	810
+dian yong cao	电泳槽	810
+dian cuo le	点错了	800
+dian li chuan shu	电力传输	800
+dian ya fang da	电压放大	800
+dian ci huan xiang fa	电磁换向阀	796
+dian ze	典则	795
+dian ci chang	电瓷厂	790
+dian li wen ya qi	电力稳压器	790
+dian tou	点透	787
+dian ya bu zu	电压不足	785
+dian nao shi yong	电脑使用	783
+dian shi xi lie ju	电视系列剧	780
+dian xia qu	点下去	780
+dian ya li	电压力	775
+dian ti chang	电梯厂	765
+dian bu	点补	760
+dian shi bian lun	电视辩论	760
+dian tai ji zhe	电台记者	760
+dian liu tiao jie	电流调节	755
+dian ping kong zhi	电平控制	755
+dian yuan shu liang	电源数量	755
+dian dang guan li ban fa	典当管理办法	751
+dian bei	垫被	750
+dian ji xing	奠基性	745
+dian tou zhi jiao	点头之交	745
+dian ying dui	电影队	740
+dian zi dian kong	电子电控	739
+dian ru zi	电褥子	735
+dian shang qu	点上去	730
+dian xi	点戏	730
+dian xin qi cai	电信器材	730
+dian mo	电磨	720
+dian ying yu gao	电影预告	720
+dian dong beng	电动泵	715
+dian dong jiao pan	电动绞盘	715
+dian qi hua xue	电气化学	715
+dian yi zhi	点一支	715
+dian xu dao	电须刀	710
+dian jie chi	电解池	705
+dian bao fei	电报费	695
+dian hua ye	电话业	695
+dian huo hua ji	电火花机	695
+dian man	电鳗	695
+dian shi wei xing	电视卫星	695
+dian bing gui	电冰柜	690
+dian zi yi dong	电子移动	690
+dian shi jiao yu	电视教育	685
+dian la ba	电喇叭	680
+dian hua	钿花	678
+dian dong bo li sheng jiang qi	电动玻璃升降器	677
+dian hua dan	电话单	675
+dian wei yi	电位仪	675
+dian bao	电刨	670
+dian zi gong cheng xue	电子工程学	670
+dian dui dian tong xin	点对点通信	666
+dian gan ying	电感应	665
+dian gao	电稿	665
+dian sheng li xue	电生理学	665
+dian ci pao	电磁炮	660
+dian hua zhe	电话者	660
+dian nao lao shi	电脑老师	660
+dian tong gong si	电通公司	660
+dian ou	电偶	655
+dian shi duan pian	电视短片	655
+dian chi xin	电池芯	645
+dian dong luo si dao	电动螺丝刀	645
+dian zi	癫子	645
+dian guan zhan	电管站	640
+dian hua	碘化	640
+dian zi mi du	电子密度	635
+dian zi you ju	电子邮局	635
+dian li you xian	电力有限	634
+dian wu deng	碘钨灯	630
+dian yi shou ge	点一首歌	630
+dian qiang	电枪	625
+dian rong bu chang	电容补偿	625
+dian hua yin	碘化银	620
+dian luan dao feng	颠鸾倒凤	620
+dian ying she ying ji	电影摄影机	620
+dian che zhan	电车站	615
+dian zi chuan di	电子传递	615
+dian zi shang wu tao jian	电子商务套件	615
+dian ju	滇剧	600
+dian su du	点速度	600
+dian xin an quan	电信安全	596
+dian fu huo dong	颠覆活动	590
+dian yuan suo	电源锁	587
+dian hua qie ting	电话窃听	585
+dian li cheng ben	电力成本	585
+dian yu	典狱	580
+dian dui dian lian jie	点对点连接	577
+dian shang lai	点上来	575
+dian jiu	奠酒	570
+dian tian deng	点天灯	570
+dian liu guo zai	电流过载	565
+dian zi guan chang	电子管厂	565
+dian re guo	电热锅	560
+dian cang ban	垫仓板	555
+dian chen	垫衬	555
+dian chuan	点穿	555
+dian ci sha che	电磁刹车	555
+dian ying ku	电影库	550
+dian ci zhen dang	电磁振荡	545
+dian fan xing	典范性	545
+dian re gu feng gan zao xiang	电热鼓风干燥箱	545
+dian shi zhuan bo che	电视转播车	545
+dian ge	垫个	540
+dian jin shi	点金石	540
+dian liao yi	电疗仪	540
+dian yu guan	典狱官	540
+dian shi cha zhuan tai	电视差转台	535
+dian yuan che	电源车	535
+dian liu tan tou	电流探头	530
+dian rong	店容	530
+dian que fa bing	碘缺乏病	529
+dian yuan zong kai guan	电源总开关	529
+dian zi zhi fu zhi yin	电子支付指引	527
+dian ji	奠祭	525
+dian xing xing ge	典型性格	525
+dian jiao	点校	523
+dian chuan da zi ji	电传打字机	515
+dian tong guang	电筒光	515
+dian zhui pin	点缀品	515
+dian han qian	电焊钳	510
+dian bing xiang chang	电冰箱厂	505
+dian hua duo	电话多	500
+dian shang yun dong	垫上运动	500
+dian zi huang ye	电子黄页	500
+dian zi qian ming ren	电子签名人	499
+dian ci kai guan	电磁开关	498
+dian jie zhi wen luan	电解质紊乱	496
+dian dong zhuan xiang	电动转向	494
+dian dian dao dao	颠颠倒倒	490
+dian ping	垫平	490
+dian shi qi	电石气	490
+dian wu duan	电务段	490
+dian li gui ge	电力规格	486
+dian que fa	碘缺乏	480
+dian yuan tiao jie	电源调节	480
+dian li ye	电力业	470
+dian ming ce	点名册	470
+dian qi dong	电启动	470
+dian sheng yue	电声乐	470
+dian mao	店貌	465
+dian shang xi tong	电商系统	465
+dian zi yan she	电子衍射	465
+dian zi she ji	电子设计	464
+dian yun ku	点云库	461
+dian gong chang	电工厂	460
+dian yuan	点圆	460
+dian yi dian	掂一掂	456
+dian shi fa she ta	电视发射塔	455
+dian ti gu zhang	电梯故障	455
+dian zi zi xuan	电子自旋	455
+dian yun chu li	点云处理	451
+dian dong fu ti	电动扶梯	450
+dian dong lun yi	电动轮椅	450
+dian guan	电灌	450
+dian qi xiang	电器箱	450
+dian zi zhen cha wei xing	电子侦察卫星	450
+dian li zuo yong	电离作用	445
+dian lu kai guan	电路开关	445
+dian wen pai	电蚊拍	445
+dian zi feng shan	电子风扇	443
+dian ran	点染	442
+dian chun	殿春	440
+dian liang shi	点亮时	440
+dian jing	电镜	438
+dian mao	点卯	435
+dian rong ce liang	电容测量	435
+dian he	电贺	425
+dian he zhuan yi	电荷转移	425
+dian li fang cheng shi	电离方程式	425
+dian shi bu	电视部	425
+dian gong ye	电工业	420
+dian zi pai ban	电子排版	420
+dian hua	电化	417
+dian hua chao shi	电话超市	416
+dian cui hua	电催化	415
+dian bu	垫补	410
+dian du ji	点读机	410
+dian lan fen zhi xiang	电缆分支箱	410
+dian shi yan bo shi	电视演播室	410
+dian xie shi	点斜式	410
+dian yong ji shu	电泳技术	410
+dian dao qian kun	颠倒乾坤	405
+dian hua na	碘化钠	400
+dian yuan chang	电源厂	400
+dian zi jia su qi	电子加速器	400
+dian hua guo qu	电话过去	399
+dian dao ti	电导体	395
+dian li shi	电离室	395
+dian lian	颠连	395
+dian nao she zhi	电脑设置	392
+dian chang zuo yong	电场作用	385
+dian ci zuo yong	电磁作用	385
+dian tang lou ge	殿堂楼阁	385
+dian he fen bu	电荷分布	380
+dian liu rong liang	电流容量	380
+dian lu can shu	电路参数	380
+dian mo shi	点模式	380
+dian gong jiao dai	电工胶带	379
+dian xin fu wu gui fan	电信服务规范	379
+dian yi jian	点意见	375
+dian li ji	电力计	370
+dian ming cheng	店名称	370
+dian ying she ying shi	电影摄影师	370
+dian biao ti	点标题	365
+dian xun gao	电讯稿	365
+dian yi	奠仪	365
+dian hua gong	碘化汞	360
+dian qian	店钱	360
+dian xiao tu	点小图	356
+dian hua zhan	电话站	355
+dian nao hang qing	电脑行情	355
+dian hong cha	滇红茶	354
+dian ying fa	电影法	348
+dian jun	滇军	346
+dian chu qu	点出去	345
+dian huo mo kuai	点火模块	345
+dian dian bo bo	颠颠簸簸	340
+dian dong an mo	电动按摩	340
+dian ji li	奠基礼	340
+dian nao er ji	电脑耳机	340
+dian xing kong jian	点型空间	340
+dian cang ce	典藏册	339
+dian nao bu xing	电脑不行	339
+dian bai	电白	336
+dian re lu	电热炉	335
+dian rong qi chang	电容器厂	335
+dian ta	点他	333
+dian lai dian qu	点来点去	330
+dian nao ci dian	电脑辞典	330
+dian zi qu wen qi	电子驱蚊器	330
+dian nao shu ju ku	电脑数据库	325
+dian wang qi ye quan e shou gou ke zai sheng neng yuan dian liang jian guan ban fa	电网企业全额收购可再生能源电量监管办法	325
+dian yao	电邀	325
+dian hua yuan	电话员	315
+dian jie ti	电介体	315
+dian li biao	电力表	315
+dian le dian	垫了垫	313
+dian zi zhu che zhi dong xi tong	电子驻车制动系统	311
+dian dong ji gou	电动机构	310
+dian yuan dian wang	电源电网	310
+dian zi lun	电子论	310
+dian ji dian shi	电极电势	305
+dian li kai guan	电力开关	305
+dian xiao tu biao	点小图标	305
+dian zi ye jie	电子业界	300
+dian xin da lou	电信大楼	296
+dian dao ji	电导计	295
+dian nao cheng xu she ji	电脑程序设计	290
+dian xin hao	点信号	290
+dian cheng	电城	289
+dian lan cao	电缆槽	285
+dian zi zheng jie	电子正街	284
+dian kui	殿魁	280
+dian tou zhao hu	点头招呼	280
+dian chuan ji	电传机	275
+dian ding	碘酊	275
+dian hu han jie	电弧焊接	275
+dian bo gan rao	电波干扰	270
+dian li ping heng	电力平衡	270
+dian bu liao	点不了	265
+dian ge dan	点歌单	265
+dian hua fu shi	电化腐蚀	265
+dian yong fen li	电泳分离	265
+dian zu he jin	电阻合金	265
+dian shi zhong xin	电视中心	263
+dian feng	店风	260
+dian qu li zi	电去离子	260
+dian zi pai	电子牌	255
+dian lv	滇绿	253
+dian ji she bei	点击设备	251
+dian dang he tong	典当合同	250
+dian dong an mo qi	电动按摩器	250
+dian zi zhen dong	电子振动	250
+dian jie zhi yin liao	电解质饮料	248
+dian ren	电人	246
+dian ren shu	点人数	245
+dian yong fen xi	电泳分析	245
+dian li gong ying yu shi yong tiao li	电力供应与使用条例	244
+dian gua	惦挂	240
+dian ming dan	点名单	240
+dian nao ban	电脑板	240
+dian dao cuo luan	颠倒错乱	235
+dian ying ju le bu	电影俱乐部	235
+dian fen chang	淀粉肠	234
+dian le dian	踮了踮	234
+dian yi dian	踮一踮	234
+dian bu qi	点不起	225
+dian shen	电渗	225
+dian zi xin xi chan pin wu ran fang zhi guan li ban fa	电子信息产品污染防治管理办法	225
+dian ni	点你	222
+dian ta	点她	222
+dian liu xian quan	电流线圈	220
+dian zu ding lv	电阻定律	220
+dian ying zhi ge	电影之歌	219
+dian zi fa	电子阀	219
+dian cha tou	电插头	215
+dian che xian	电车线	215
+dian li	奠礼	215
+dian nuan dai	电暖袋	210
+dian ji kong zhi	电机控制	204
+dian jing zhuang jia	电竞装甲	199
+dian li yi yuan	电力医院	199
+dian jing ju	电竞剧	198
+dian zi er lu	电子二路	198
+dian xin wu qu	电信五区	197
+dian zi yi bao ka	电子医保卡	197
+dian zi yin hang ye wu guan li ban fa	电子银行业务管理办法	197
+dian zi jie	电子界	196
+dian ci tan she	电磁弹射	192
+dian le yi bei	点了一杯	191
+dian le yi fen	点了一份	191
+dian suan zhong xin	电算中心	190
+dian xia lai	点下来	190
+dian yuan xian kou	电源线扣	190
+dian dian jiao	踮踮脚	189
+dian jia deng	碘镓灯	189
+dian zi jia shi zheng	电子驾驶证	189
+dian bao yuan	电报员	187
+dian liu yuan	电流源	186
+dian zi qu jing	电子取景	185
+dian li da	电力大	183
+dian hua bo hao qi	电话拨号器	182
+dian ce	电测	180
+dian xue shi yan	电学实验	179
+dian fu san guan	颠覆三观	178
+dian kai shi pin	点开视频	177
+dian shuang lian tong fen liang	点双连通分量	175
+dian zhen liao fa	电针疗法	175
+dian zhong	电钟	175
+dian zi dai li ren	电子代理人	175
+dian zi tong xing zheng	电子通行证	174
+dian guang hua	电光花	173
+dian qi gong cheng shi	电气工程师	173
+dian shi he zi	电视盒子	173
+dian ying li	点映礼	171
+dian huo yi shi	点火仪式	170
+dian ya fang da qi	电压放大器	170
+dian jun qu	点军区	168
+dian lu zi	点炉子	167
+dian ka fei hu	电咖啡壶	165
+dian jing xuan shou	电竞选手	164
+dian feng ji hua	巅峰计划	163
+dian zi xin xi lei	电子信息类	161
+dian ci fu she fang hu gui ding	电磁辐射防护规定	160
+dian qi shu	电气鼠	160
+dian zhuan hua	电转化	160
+dian huo xiang	电火箱	159
+dian fen chang	淀粉厂	158
+dian ji tou xiang	点击头像	158
+dian shi ting	电视厅	158
+dian jing shao nv	电竞少女	157
+dian jin si hou	滇金丝猴	156
+dian zi bian pao	电子鞭炮	156
+dian ba	电霸	155
+dian ming bu	点名簿	155
+dian qi lai	垫起来	155
+dian ti fa sheng gu zhang	电梯发生故障	155
+dian xin he wang luo	电信和网络	155
+dian bu chu	点不出	150
+dian he zhong he	电荷中和	150
+dian jiu tu	点九图	150
+dian lin yu qi	电淋浴器	150
+dian na ge	点哪个	150
+dian zi zi xuan gong zhen	电子自旋共振	150
+dian ying yuan sheng da die	电影原声大碟	149
+dian cang pi fu	典藏皮肤	148
+dian ren	癫人	147
+dian shang ren	电商人	147
+dian liang ren sheng	点亮人生	146
+dian guan kou	点关口	145
+dian liang ji	电量计	145
+dian pu	典铺	145
+dian tou	钿头	145
+dian ya ji	电压计	145
+dian yong tu pu	电泳图谱	145
+dian zi jiang tai	电子讲台	145
+dian zi jiao kao	电子脚铐	143
+dian shui ping	电水瓶	141
+dian huo pen	电火盆	138
+dian li da xue	电力大学	137
+dian ya bu wen	电压不稳	137
+dian ji xiang	店集乡	136
+dian xin fu wu ming ma biao jia gui ding	电信服务明码标价规定	136
+dian zi you jian ying xiao	电子邮件营销	136
+dian deng zhu	电灯柱	135
+dian di er	垫底儿	135
+dian fen fen jie	淀粉分解	135
+dian shi ju bu	电视剧部	135
+dian tie cheng jin	点铁成金	135
+dian shi bo yin yu zhu chi	电视播音与主持	134
+dian chang lu	电厂路	133
+dian qi jiao jian ai	踮起脚尖爱	133
+dian zi jiao liao	电子脚镣	133
+dian zi gan ying zhi dong xi tong	电子感应制动系统	131
+dian jing jing shen	电竞精神	130
+dian wan jie	电玩节	129
+dian wen jian	点文件	129
+dian hua an	碘化铵	128
+dian jing ren	电竞人	128
+dian nao an quan	电脑安全	128
+dian bao lu	电报路	126
+dian deng ren	点灯人	126
+dian ji guan zhu	点击关注	126
+dian chuan kong	电穿孔	125
+dian feng bei	巅峰杯	125
+dian jing sai	电竞赛	125
+dian jing jing li	电竞经理	123
+dian le dian	掂了掂	123
+dian shao	颠勺	123
+dian yi dian	点一点	123
+dian lan che	电缆车	120
+dian lian che	电联车	120
+dian pu you hui	店铺优惠	120
+dian rong he	电融合	120
+dian yao	电鳐	120
+dian jiao	点交	119
+dian jing bi sai	电竞比赛	119
+dian zi fei wu wu ran huan jing fang zhi guan li ban fa	电子废物污染环境防治管理办法	119
+dian jing jie	电竞节	117
+dian li zhong chang	典礼中场	116
+dian er	甸儿	115
+dian shi she ying ji	电视摄影机	115
+dian zi shu ju jiao huan	电子数据交换	114
+dian dian de	癫癫的	113
+dian dong sheng jiang qi	电动升降器	113
+dian ba	点八	111
+dian ce gao wen	典策高文	111
+dian chen	电陈	111
+dian hao	点号	111
+dian long	电龙	111
+dian ni	电你	111
+dian ta	点它	111
+dian tou bo nao	颠头播脑	111
+dian zhe	点这	111
+dian zhe er	点这儿	111
+dian zhi hua zi	点纸画字	111
+dian nao shu	电脑书	110
+dian zhen zi ku	点阵字库	109
+dian guang ren	电光人	108
+dian xin ye wu jing ying xu ke zheng guan li ban fa	电信业务经营许可证管理办法	108
+dian zi ya pian	电子鸦片	108
+dian ran ji qing	点燃激情	107
+dian xin lu	电信路	107
+dian zi yin hang an quan ping gu zhi yin	电子银行安全评估指引	107
+dian de zhao	点得着	105
+dian guan zhu	点关注	105
+dian he shou heng ding lv	电荷守恒定律	105
+dian zhuan yi	电转移	105
+dian zi shun ci gong zhen	电子顺磁共振	105
+dian li shi zu	电力十足	104
+dian zi yang	电子羊	104
+dian zi bao gao	电子报告	103
+dian zhuang zhen	佃庄镇	102
+dian an hua	点按滑	100
+dian ban re xi tong	电伴热系统	100
+dian ban zhong	点半钟	100
+dian bao ji	电刨机	100
+dian bao ji qi ren	电报机器人	100
+dian bao le	点爆了	100
+dian bao qun	电报群	100
+dian bao tong zhi	电报通知	100
+dian bei nai cha	点杯奶茶	100
+dian bei pian	淀北片	100
+dian bi zhi jian	殿陛之间	100
+dian biao xiang mu ju	电表箱模具	100
+dian bo bu ping	颠簸不平	100
+dian bo er xing	颠簸而行	100
+dian bo ge	点播歌	100
+dian bo ji	点播机	100
+dian bo lv	点播率	100
+dian bo qu	点播曲	100
+dian bo xin hao	电波信号	100
+dian bo zuo lang	颠波作浪	100
+dian bu cheng	点不成	100
+dian bu qi le	点不起了	100
+dian bu shang	点不上	100
+dian bu zhao huo	点不着火	100
+dian cai xi tong	点菜系统	100
+dian can liang	电参量	100
+dian can shu	电参数	100
+dian can xi tong	点餐系统	100
+dian cang ben	典藏本	100
+dian cang ji	典藏级	100
+dian cang pi	典藏皮	100
+dian cang shi	典藏室	100
+dian cang xi lie	典藏系列	100
+dian ce gao wen	典册高文	100
+dian cha zuo	电插座	100
+dian chan qin	电颤琴	100
+dian chang pan	电唱盘	100
+dian chang yun xing	电厂运行	100
+dian chang zhen	电唱针	100
+dian che feng chi	电掣风驰	100
+dian che lei ming	电掣雷鸣	100
+dian che shang	电车上	100
+dian chi can shu	电池参数	100
+dian chi chu neng xi tong	电池储能系统	100
+dian chi de neng liang mi du	电池的能量密度	100
+dian chi de wen du	电池的温度	100
+dian chi du jia qu	滇池度假区	100
+dian chi guan li xi tong	电池管理系统	100
+dian chi gui	电池柜	100
+dian chi hang ye	电池行业	100
+dian chi ji shu	电池技术	100
+dian chi jian kang	电池健康	100
+dian chi jian kang du	电池健康度	100
+dian chi jian shi	电池监视	100
+dian chi jiao lv	电池焦虑	100
+dian chi jiao lv zheng	电池焦虑症	100
+dian chi lu	滇池路	100
+dian chi mei dian	电池没电	100
+dian chi mi du	电池密度	100
+dian chi mo kuai	电池模块	100
+dian chi mo shi	电池模式	100
+dian chi mo zu	电池模组	100
+dian chi neng liang mi du	电池能量密度	100
+dian chi re guan li xi tong	电池热管理系统	100
+dian chi shou ming chang	电池寿命长	100
+dian chi tan huang	电池弹簧	100
+dian chi wen du	电池温度	100
+dian chi xi tong	电池系统	100
+dian chi xiao lv	电池效率	100
+dian chi you hua	电池优化	100
+dian chi zhong liang	电池重量	100
+dian chong lou	滇重楼	100
+dian chu chen qi	电除尘器	100
+dian chu lai	垫出来	100
+dian chu qu	垫出去	100
+dian chuan cao zong xi tong	电传操纵系统	100
+dian chuan dong	电传动	100
+dian chuan shi xun	电传视讯	100
+dian ci ji ke	点此即可	100
+dian ci jian rong xing	电磁兼容性	100
+dian ci li	电磁力	100
+dian ci li lun	电磁理论	100
+dian ci liu liang chuan gan qi	电磁流量传感器	100
+dian ci mai chong	电磁脉冲	100
+dian ci neng	电磁能	100
+dian ci suo	电磁锁	100
+dian ci tan she ji shu	电磁弹射技术	100
+dian ci tan she qi	电磁弹射器	100
+dian ci tan she xi tong	电磁弹射系统	100
+dian ci tiao su	电磁调速	100
+dian ci tiao su dian ji	电磁调速电机	100
+dian ci xi tong	电磁系统	100
+dian ci xiang hu zuo yong	电磁相互作用	100
+dian ci zao sheng	电磁噪声	100
+dian da mi	颠大米	100
+dian dan che	电单车	100
+dian dan lv	点单率	100
+dian dang hang ye	典当行业	100
+dian dao cuo miu	颠倒错缪	100
+dian dao fei dan	电导飞弹	100
+dian dao guan lv	颠倒冠履	100
+dian dao ji zhi	点到即止	100
+dian dao lv ce ding yi	电导率测定仪	100
+dian dao lv ce liang	电导率测量	100
+dian dao lv chuan gan qi	电导率传感器	100
+dian dao lv dian ji	电导率电极	100
+dian dao lv jian ce yi	电导率检测仪	100
+dian dao mian	点到面	100
+dian dao shan	颠倒山	100
+dian dao shi jie	颠倒世界	100
+dian dao shi xu ta	颠倒时序塔	100
+dian dao wu xing	颠倒五行	100
+dian dao yi chang	颠倒衣裳	100
+dian deng dan	电灯胆	100
+dian deng guai	电灯怪	100
+dian deng jia	电灯架	100
+dian deng jie	点灯节	100
+dian di cheng zhang	点滴成长	100
+dian di gui gong	点滴归公	100
+dian di jing mai zhu she	点滴静脉注射	100
+dian di la hai	垫底辣孩	100
+dian di nuan	电地暖	100
+dian di nuan an zhuang	电地暖安装	100
+dian di nuan fa re dian lan	电地暖发热电缆	100
+dian di nuan gong cheng	电地暖工程	100
+dian di nuan xi tong	电地暖系统	100
+dian di qi	点滴器	100
+dian di re	电地热	100
+dian di shi yan	点滴试验	100
+dian di tu	点地图	100
+dian di xing dong	点滴行动	100
+dian di zhi	点地址	100
+dian dian cai ge	点点猜歌	100
+dian dian chi san wan gong	掂掂吃三碗公	100
+dian dian chong	电电虫	100
+dian dian gan jue	点点感觉	100
+dian dian huang huang	颠颠晃晃	100
+dian dian pu pu	颠颠仆仆	100
+dian ding hao de	奠定好的	100
+dian ding ji diao	奠定基调	100
+dian ding le ji chu	奠定了基础	100
+dian ding le jian shi de ji chu	奠定了坚实的基础	100
+dian ding le jian shi ji chu	奠定了坚实基础	100
+dian ding le liang hao de ji chu	奠定了良好的基础	100
+dian ding yue	点订阅	100
+dian dong che chu xing	电动车出行	100
+dian dong che hang	电动车行	100
+dian dong che hang ye	电动车行业	100
+dian dong che mei dian	电动车没电	100
+dian dong che ni xing	电动车逆行	100
+dian dong che zhao huo	电动车着火	100
+dian dong che zi xing che	电动车自行车	100
+dian dong chu xing	电动出行	100
+dian dong chui zhi qi jiang	电动垂直起降	100
+dian dong da zi	电动打字	100
+dian dong da zi ji	电动打字机	100
+dian dong dan liang qi zhong ji	电动单梁起重机	100
+dian dong dan zuo tiao jie fa	电动单座调节阀	100
+dian dong di shua	电动地刷	100
+dian dong dong li xi tong	电动动力系统	100
+dian dong dui gao che	电动堆高车	100
+dian dong gong ju hang ye	电动工具行业	100
+dian dong ji de gong lv	电动机的功率	100
+dian dong ji gong lv	电动机功率	100
+dian dong ji yun xing	电动机运行	100
+dian dong ji zui da gong lv	电动机最大功率	100
+dian dong kong tiao	电动空调	100
+dian dong mo shi	电动模式	100
+dian dong mo xing	电动模型	100
+dian dong qi che hang ye	电动汽车行业	100
+dian dong san tong tiao jie fa	电动三通调节阀	100
+dian dong sao di che	电动扫地车	100
+dian dong sao di ji	电动扫地机	100
+dian dong sheng jiang	电动升降	100
+dian dong sheng jiang ji	电动升降机	100
+dian dong sheng jiang ping tai	电动升降平台	100
+dian dong sheng jiang ping tai che	电动升降平台车	100
+dian dong sheng jiang tai	电动升降台	100
+dian dong sheng jiang zhu	电动升降柱	100
+dian dong sheng jiang zhuo	电动升降桌	100
+dian dong shi xing qi	电动实行器	100
+dian dong si qu xi tong	电动四驱系统	100
+dian dong tao tong tiao jie fa	电动套筒调节阀	100
+dian dong tiao jie	电动调节	100
+dian dong tiao jie die fa	电动调节蝶阀	100
+dian dong tiao jie gong neng	电动调节功能	100
+dian dong tiao jie qiu fa	电动调节球阀	100
+dian dong tiao jie wai hou shi jing	电动调节外后视镜	100
+dian dong tiao jie zuo yi	电动调节座椅	100
+dian dong tiao li fa	电动调理阀	100
+dian dong xi chen qi	电动吸尘器	100
+dian dong xi di ji	电动洗地机	100
+dian dong xi tong	电动系统	100
+dian dong xue	电动学	100
+dian dong ye ya sheng jiang ping tai	电动液压升降平台	100
+dian dong zhi xing ji gou	电动执行机构	100
+dian dong zhong ka	电动重卡	100
+dian dong zhuan pan	电动转盘	100
+dian dong zi xing che an quan	电动自行车安全	100
+dian dong zi xing che bei dao	电动自行车被盗	100
+dian dong zi xing che chong dian	电动自行车充电	100
+dian dong zi xing che chong dian zhuang	电动自行车充电桩	100
+dian dong zi xing che chuang hong deng	电动自行车闯红灯	100
+dian dong zi xing che deng ji	电动自行车登记	100
+dian dong zi xing che dian chi	电动自行车电池	100
+dian dong zi xing che gua pai	电动自行车挂牌	100
+dian dong zi xing che guan li	电动自行车管理	100
+dian dong zi xing che hao pai	电动自行车号牌	100
+dian dong zi xing che huo zai	电动自行车火灾	100
+dian dong zi xing che jia shi ren	电动自行车驾驶人	100
+dian dong zi xing che shang pai	电动自行车上牌	100
+dian dong zi xing che sheng chan	电动自行车生产	100
+dian dong zi xing che ting fang	电动自行车停放	100
+dian dong zi xing che tou kui	电动自行车头盔	100
+dian dong zi xing che wei fa	电动自行车违法	100
+dian dong zi xing che xiao shou	电动自行车销售	100
+dian dong zi xing che xin guo biao	电动自行车新国标	100
+dian dong zuo yi tiao jie	电动座椅调节	100
+dian du biao xiang	电度表箱	100
+dian du fa	电镀法	100
+dian du hang ye	电镀行业	100
+dian du tong bao gang jie di bang	电镀铜包钢接地棒	100
+dian dui dian chuan shu	点对点传输	100
+dian dui dian jia mi	点对点加密	100
+dian duo	掂掇	100
+dian duo xian chang	点多线长	100
+dian duo zhong	点多钟	100
+dian fan chang cun	典范长存	100
+dian fei shu	电飞鼠	100
+dian fen he mian fen	淀粉和面粉	100
+dian fen lei	淀粉类	100
+dian fen lei zuo wu	淀粉类作物	100
+dian fen yang	淀粉样	100
+dian feng kuang yu	颠风狂雨	100
+dian feng pai dui	巅峰派对	100
+dian feng shi li	巅峰实力	100
+dian feng yu le	巅峰娱乐	100
+dian fu dai	点福袋	100
+dian fu fen zi	颠覆分子	100
+dian fu guo jia zui	颠覆国家罪	100
+dian fu hang ye	颠覆行业	100
+dian fu le	颠覆了	100
+dian fu le chuan tong	颠覆了传统	100
+dian fu ni de san guan	颠覆你的三观	100
+dian fu shi	电腐蚀	100
+dian fu ti	电扶梯	100
+dian fu wei	点复位	100
+dian fu xing	电负性	100
+dian fu zheng fu zui	颠覆政府罪	100
+dian fu zui	颠覆罪	100
+dian gan shi chuan gan qi	电感式传感器	100
+dian gan shi jie jin chuan gan qi	电感式接近传感器	100
+dian gan shou qi	电感受器	100
+dian ge huo	点个火	100
+dian ge lou tai	殿阁楼台	100
+dian ge mao	点个卯	100
+dian ge zan	点个赞	100
+dian gei ni za le	店给你砸了	100
+dian gong ban	电工班	100
+dian gong dian po	癫公癫婆	100
+dian gong hang ye	电工行业	100
+dian gong suo	电工所	100
+dian gong zheng	电工证	100
+dian gu deng	点孤灯	100
+dian gua zhe	惦挂着	100
+dian guan yuan	电管员	100
+dian guang chao ren	电光超人	100
+dian guang chong feng	电光冲锋	100
+dian guang chuan mei	电广传媒	100
+dian guang shi huo jian	电光石火间	100
+dian guang tiao zhi qi	电光调制器	100
+dian guang wu	电光舞	100
+dian guang zhao lu	电光朝露	100
+dian gui huo	点鬼火	100
+dian guo lai	垫过来	100
+dian guo lai	点过来	100
+dian guo lai dao guo qu	颠过来倒过去	100
+dian guo qu	垫过去	100
+dian guo qu	点过去	100
+dian hao zi	电耗子	100
+dian he jin chai	钿合金钗	100
+dian he liang	电荷量	100
+dian he mi du	电荷密度	100
+dian he ou he	电荷耦合	100
+dian hu dao	电胡刀	100
+dian hu deng	电弧灯	100
+dian hua bu	电话不	100
+dian hua da bu tong	电话打不通	100
+dian hua da lu ji	电话答录机	100
+dian hua de	电话的	100
+dian hua di zhi	电话地址	100
+dian hua diao cha	电话调查	100
+dian hua gong jia	碘化汞钾	100
+dian hua hao	电话号	100
+dian hua hao ma sheng wei	电话号码升位	100
+dian hua lai le	电话来了	100
+dian hua li chuan lai	电话里传来	100
+dian hua lian xi ba	电话联系吧	100
+dian hua lian xi fang shi	电话联系方式	100
+dian hua lian xi zi xun	电话联系咨询	100
+dian hua liao	电话聊	100
+dian hua liao jie	电话了解	100
+dian hua mei dian le	电话没电了	100
+dian hua mei ren jie	电话没人接	100
+dian hua men	电话门	100
+dian hua qu ma	电话区码	100
+dian hua sao rao	电话骚扰	100
+dian hua shi duo shao	电话是多少	100
+dian hua tiao jie	电话调解	100
+dian hua wang lu	电话网路	100
+dian hua xian shang wang	电话线上网	100
+dian hua xiang le	电话响了	100
+dian hua xin hao	电话信号	100
+dian hua ye bu jie	电话也不接	100
+dian hua zhong	电话中	100
+dian hui lai	垫回来	100
+dian hui lai	点回来	100
+dian hui qu	垫回去	100
+dian hui qu	点回去	100
+dian huo fa she	点火发射	100
+dian huo jiu zhe	点火就着	100
+dian huo tong	电火桶	100
+dian huo zhi wang	癫火之王	100
+dian ji can shu	电机参数	100
+dian ji chong shi	点击重试	100
+dian ji chuan dong	电机传动	100
+dian ji de gong lv	电机的功率	100
+dian ji ding yue	点击订阅	100
+dian ji e ding gong lv	电机额定功率	100
+dian ji fu fei guang gao	点击付费广告	100
+dian ji gong	奠济宫	100
+dian ji gong cheng xi	电机工程系	100
+dian ji guai	电击怪	100
+dian ji guan kan	点击观看	100
+dian ji hang ye	电机行业	100
+dian ji he	点集合	100
+dian ji jiu song	点击就送	100
+dian ji ju bao	点击举报	100
+dian ji ke	电机科	100
+dian ji kong zhi xi tong	电机控制系统	100
+dian ji lian xi	点击联系	100
+dian ji liang	点击量	100
+dian ji liao fa	电击疗法	100
+dian ji liao jie	点击了解	100
+dian ji liao jie geng duo	点击了解更多	100
+dian ji liao jie xiang qing	点击了解详情	100
+dian ji lv di	点击率低	100
+dian ji lv gao	点击率高	100
+dian ji lv zui gao	点击率最高	100
+dian ji mo kuai	电机模块	100
+dian ji mo shou	电击魔兽	100
+dian ji pai hang bang	点击排行榜	100
+dian ji pin lv	电机频率	100
+dian ji qiang	电击枪	100
+dian ji qu dong xi tong	电机驱动系统	100
+dian ji que ren	点击确认	100
+dian ji shang chuan	点击上传	100
+dian ji shou	电击兽	100
+dian ji shou cang	点击收藏	100
+dian ji shu chu gong lv	电机输出功率	100
+dian ji su du	电机速度	100
+dian ji tan chu	点击弹出	100
+dian ji tiao su	电机调速	100
+dian ji tiao su qi	电机调速器	100
+dian ji tiao zhan	点击挑战	100
+dian ji tong bu ji ke	点击同步即可	100
+dian ji wen du	电机温度	100
+dian ji xi lie	电机系列	100
+dian ji xi tong	电机系统	100
+dian ji xiao lv	电机效率	100
+dian ji yi ge lian jie	点击一个链接	100
+dian ji yun xing	点击运行	100
+dian ji yun xing	电机运行	100
+dian ji zong gong lv	电机总功率	100
+dian jia re xi tong	电加热系统	100
+dian jia tiao zheng	电价调整	100
+dian jia xia tiao	电价下调	100
+dian jian di chan	电建地产	100
+dian jiang chun	点绛唇	100
+dian jiang lu	点将录	100
+dian jiao ben	点校本	100
+dian jiao jian er	踮脚尖儿	100
+dian jiao zheng	点校正	100
+dian jie a	点解啊	100
+dian jie lv hang ye	电解铝行业	100
+dian jie zhi shui	电解质水	100
+dian jin bang	点金棒	100
+dian jin bo liang	掂斤播两	100
+dian jin cheng tie	点金成铁	100
+dian jin fa shu	点金乏术	100
+dian jin gu liang	掂斤估两	100
+dian jin lai	点进来	100
+dian jin mai jue	典尽卖绝	100
+dian jin mo liang	掂斤抹两	100
+dian jin qu	点进去	100
+dian jin shou	点金手	100
+dian jing ban ben	电竞版本	100
+dian jing cheng	电竞城	100
+dian jing chuan qi	电竞传奇	100
+dian jing chun wan	电竞春晚	100
+dian jing da sai	电竞大赛	100
+dian jing hang ye	电竞行业	100
+dian jing huang pu	电竞黄埔	100
+dian jing huang pu jun xiao	电竞黄埔军校	100
+dian jing ju le bu	电竞俱乐部	100
+dian jing lei xue xiao	电竞类学校	100
+dian jing mo shi	电竞模式	100
+dian jing ping tai	电竞平台	100
+dian jing sheng yan	电竞盛宴	100
+dian jing ti xi	电竞体系	100
+dian jing xue xiao	电竞学校	100
+dian jing yu le	电竞娱乐	100
+dian jing zhi du	电竞之都	100
+dian jing zhu bo	电竞主播	100
+dian ju jing hun	电锯惊魂	100
+dian ju jing hun xi lie	电锯惊魂系列	100
+dian juan feng chi	电卷风驰	100
+dian ka zhi	点卡制	100
+dian kai qiang	点开抢	100
+dian ke wang an	电科网安	100
+dian ke yuan	电科院	100
+dian kong xi tong	电控系统	100
+dian la zhu	点蜡烛	100
+dian lan chang du	电缆长度	100
+dian lan chuan shu	电缆传输	100
+dian lan hang ye	电缆行业	100
+dian lan se de	靛蓝色的	100
+dian lan ta	电缆塔	100
+dian lan tiao zhi jie tiao qi	电缆调制解调器	100
+dian lan xi tong	电缆系统	100
+dian lan za dai	电缆扎带	100
+dian lao ban	店老板	100
+dian le ba	点了吧	100
+dian le cai	点了菜	100
+dian le duo shao	垫了多少	100
+dian le ge zan	点了个赞	100
+dian le gen yan	点了根烟	100
+dian le huo	点了火	100
+dian le ji ge cai	点了几个菜	100
+dian le mei you	点了没有	100
+dian le ming	点了名	100
+dian le tou	点了头	100
+dian le wai mai	点了外卖	100
+dian le xue	点了穴	100
+dian le yi ba huo	点了一把火	100
+dian le yi ge	点了一个	100
+dian le yi ge wai mai	点了一个外卖	100
+dian le yi gen yan	点了一根烟	100
+dian le yi wan	点了一碗	100
+dian le yi xia tou	点了一下头	100
+dian le yi zhi yan	点了一支烟	100
+dian le yi zhi yan dai	点了一支烟袋	100
+dian le zan	点了赞	100
+dian li can shu	电力参数	100
+dian li chang	电力厂	100
+dian li cheng du	电离程度	100
+dian li deng hang ye	电力等行业	100
+dian li diao du kong zhi zhong xin	电力调度控制中心	100
+dian li du	电离度	100
+dian li gong cheng xi	电力工程系	100
+dian li hang ye biao zhun	电力行业标准	100
+dian li jian kong xi tong	电力监控系统	100
+dian li neng	电离能	100
+dian li qi	电离气	100
+dian li qu dong xi tong	电力驱动系统	100
+dian li she bei hang ye	电力设备行业	100
+dian li shu	电栗鼠	100
+dian li ti xi	电力体系	100
+dian li tiao zheng qi	电力调整器	100
+dian li tui jin xi tong	电力推进系统	100
+dian li xi	电力系	100
+dian li xi tong an quan	电力系统安全	100
+dian li xi tong fen xi	电力系统分析	100
+dian li xi tong ji dian bao hu	电力系统继电保护	100
+dian li xi tong yun xing	电力系统运行	100
+dian li xi tong zi dong hua	电力系统自动化	100
+dian li xian xing	电力先行	100
+dian li xue	电力学	100
+dian li yun xing	电力运行	100
+dian li zhan	电力站	100
+dian li zhi zhan	电力之战	100
+dian lian dun pu	颠连顿仆	100
+dian lian kun ku	颠连困苦	100
+dian liang bei	点两杯	100
+dian liang biao	电量表	100
+dian liang chuan gan qi	电量传感器	100
+dian liang ci	点两次	100
+dian liang zhe dian	掂量着点	100
+dian liang zhe dian er	掂量着点儿	100
+dian liao hang	电料行	100
+dian liu ji dian qi	电流继电器	100
+dian liu mo shi	电流模式	100
+dian liu pin lv	电流频率	100
+dian liu sheng	电流声	100
+dian liu xiao lv	电流效率	100
+dian long hun	电龙魂	100
+dian long zhong kai ye	店隆重开业	100
+dian lu mo kuai	电路模块	100
+dian lu yu xi tong	电路与系统	100
+dian ma ben	电码本	100
+dian ma biao	电码表	100
+dian man mu	电鳗目	100
+dian mao ying ming	点卯应名	100
+dian mao zhong zhong	颠毛种种	100
+dian men kou	店门口	100
+dian mian di zhi	店面地址	100
+dian mian guang gao	店面广告	100
+dian mian gui mo	店面规模	100
+dian mian jian	店面间	100
+dian ming biao	点名表	100
+dian ming dao xing	点名道姓	100
+dian ming le	点名了	100
+dian ming le ma	点名了嘛	100
+dian ming le me	点名了么	100
+dian mo xun gao	典谟训诰	100
+dian mo zhai	点墨斋	100
+dian nao cai pen	电脑彩喷	100
+dian nao cao zuo xi tong	电脑操作系统	100
+dian nao cheng shi	电脑程式	100
+dian nao chong qi	电脑重启	100
+dian nao chong zhuang xi tong	电脑重装系统	100
+dian nao dai bu dong	电脑带不动	100
+dian nao de	电脑的	100
+dian nao dian	电脑店	100
+dian nao fu zhu gong cheng	电脑辅助工程	100
+dian nao fu zhu jiao cai	电脑辅助教材	100
+dian nao fu zhu she ji	电脑辅助设计	100
+dian nao fu zhu she ji yu hui tu	电脑辅助设计与绘图	100
+dian nao gong cheng	电脑工程	100
+dian nao gong cheng he tong ji shu ju	电脑工程和统计数据	100
+dian nao gong cheng he tong ji shu ju zhuan ye	电脑工程和统计数据专业	100
+dian nao guan jia	电脑管家	100
+dian nao guan li xi tong	电脑管理系统	100
+dian nao hang ye	电脑行业	100
+dian nao huai le	电脑坏了	100
+dian nao hui tu ji shu	电脑绘图技术	100
+dian nao kai bu liao ji	电脑开不了机	100
+dian nao kai ji su du	电脑开机速度	100
+dian nao kai kai	电脑开开	100
+dian nao kan ban	电脑看板	100
+dian nao kong zhi xi tong	电脑控制系统	100
+dian nao kuai chuan	电脑快传	100
+dian nao mei sheng yin	电脑没声音	100
+dian nao mei you sheng yin	电脑没有声音	100
+dian nao mi	电脑迷	100
+dian nao mo ni	电脑模拟	100
+dian nao mo ni qi	电脑模拟器	100
+dian nao mo shi	电脑模式	100
+dian nao pang	电脑旁	100
+dian nao pei xun xue xiao	电脑培训学校	100
+dian nao qi ye	电脑企业	100
+dian nao shang chuan	电脑上传	100
+dian nao shang le	电脑上了	100
+dian nao shang mian	电脑上面	100
+dian nao shou ji	电脑手机	100
+dian nao shou ji tong bu	电脑手机同步	100
+dian nao su du	电脑速度	100
+dian nao tan huang ji	电脑弹簧机	100
+dian nao wang lu	电脑网路	100
+dian nao xi tong an zhuang	电脑系统安装	100
+dian nao xi tong chong zhuang	电脑系统重装	100
+dian nao xi tong ye	电脑系统业	100
+dian nao xue xiao	电脑学校	100
+dian nao ye	电脑业	100
+dian nao ye zhe	电脑业者	100
+dian nao yi	电脑椅	100
+dian nao yi shu	电脑艺术	100
+dian nao yin yue	电脑音乐	100
+dian nao you xi mi	电脑游戏迷	100
+dian nao yu yan	电脑语言	100
+dian nao yun xing	电脑运行	100
+dian nao yun xing man	电脑运行慢	100
+dian nao zhi jian	电脑之间	100
+dian nao zhong xin	电脑中心	100
+dian nao zhou bian she bei	电脑周边设备	100
+dian nao zi dong chong qi	电脑自动重启	100
+dian nao zuo xi tong	电脑做系统	100
+dian nei yong can	店内用餐	100
+dian neng guan li xi tong	电能管理系统	100
+dian neng xiao qi	电能小憩	100
+dian ni ne	点你呢	100
+dian nuan qi	电暖气	100
+dian pao shou	点炮手	100
+dian pen xi tong	电喷系统	100
+dian ping mei	电瓶没	100
+dian ping mei dian	电瓶没电	100
+dian ping shi xi di ji	电瓶式洗地机	100
+dian ping wang	点评网	100
+dian po dian gong	癫婆癫公	100
+dian pu bu po de zhen li	颠扑不破的真理	100
+dian pu di zhi	店铺地址	100
+dian pu gui mo	店铺规模	100
+dian pu mu ban	店铺模板	100
+dian pu quan zhong	店铺权重	100
+dian pu shou cang	店铺收藏	100
+dian pu xuan chuan	店铺宣传	100
+dian pu zhuan hua lv	店铺转化率	100
+dian qi can shu	电气参数	100
+dian qi chui	电气锤	100
+dian qi deng shi	电器灯饰	100
+dian qi gong cheng xi	电气工程系	100
+dian qi hang ye	电器行业	100
+dian qi huo zai jian kong xi tong	电气火灾监控系统	100
+dian qi jiao	踮起脚	100
+dian qi jiao jian	踮起脚尖	100
+dian qi jiao lai	踮起脚来	100
+dian qi kong zhi xi tong	电器控制系统	100
+dian qi kong zhi xi tong	电气控制系统	100
+dian qi qiang du	电气强度	100
+dian qi qiu	电气球	100
+dian qi shang hang	电器商行	100
+dian qi she bei hang ye	电气设备行业	100
+dian qi tiao shi	电气调试	100
+dian qi xi	电气系	100
+dian qi xi tong	电器系统	100
+dian qi yong pin	电气用品	100
+dian qi yu zi	典妻鬻子	100
+dian qi yun xing	电气运行	100
+dian qi zhao huo	电器着火	100
+dian qi zi dong hua	电气自动化	100
+dian qian dao kun	颠乾倒坤	100
+dian qian du dian jian	殿前都点检	100
+dian qian du zhi hui shi	殿前都指挥使	100
+dian qu dong xi tong	电驱动系统	100
+dian qu xi tong	电驱系统	100
+dian que ren	点确认	100
+dian qun mo shi	店群模式	100
+dian ran le quan chang	点燃了全场	100
+dian ran yun yan	点染云烟	100
+dian ran zhu huo	点燃烛火	100
+dian re ban	电热板	100
+dian re mo di nuan	电热膜地暖	100
+dian re mo gong nuan xi tong	电热膜供暖系统	100
+dian re shui	电热水	100
+dian ren qi	点人气	100
+dian rong chuan gan qi	电容传感器	100
+dian rong shi chuan gan qi	电容式传感器	100
+dian san cha te	电伞查特	100
+dian se de	靛色的	100
+dian shang da zhan	电商大战	100
+dian shang deng hang ye	电商等行业	100
+dian shang hang ye	电商行业	100
+dian shang ji di	电商基地	100
+dian shang lai	垫上来	100
+dian shang mei	点上没	100
+dian shang mo shi	电商模式	100
+dian shang mu ban	电商模板	100
+dian shang qu	垫上去	100
+dian shang shen tou lv	电商渗透率	100
+dian shang ti xi	电商体系	100
+dian shang xin mo shi	电商新模式	100
+dian shang zhi bo ji di	电商直播基地	100
+dian shang zhi du	电商之都	100
+dian shao she ben	掂梢折本	100
+dian she xiang	点射向	100
+dian shen me	点什么	100
+dian shen me cai	点什么菜	100
+dian sheng hang ye	电声行业	100
+dian sheng yue qi	电声乐器	100
+dian shi cai fang	电视采访	100
+dian shi chuan bo	电视传播	100
+dian shi chuan mei	电视传媒	100
+dian shi fei	电视费	100
+dian shi hang ye	电视行业	100
+dian shi jian kong xi tong	电视监控系统	100
+dian shi jie	电视界	100
+dian shi jie mu li	电视节目里	100
+dian shi jie mu li mian	电视节目里面	100
+dian shi ju bai du yun	电视剧百度云	100
+dian shi ju ban	电视剧版	100
+dian shi ju de shou shi lv	电视剧的收视率	100
+dian shi ju dou ting hao	电视剧都挺好	100
+dian shi ju hang ye	电视剧行业	100
+dian shi ju jue se	电视剧角色	100
+dian shi ju pai hang	电视剧排行	100
+dian shi ju pai hang bang	电视剧排行榜	100
+dian shi ju pin zhi sheng dian	电视剧品质盛典	100
+dian shi ju sheng dian	电视剧盛典	100
+dian shi ju shou shi lv	电视剧收视率	100
+dian shi ju xi lie	电视剧系列	100
+dian shi ju zhu jue	电视剧主角	100
+dian shi kong tiao	电视空调	100
+dian shi mao	电视猫	100
+dian shi shang	电视上	100
+dian shi shou shi lv	电视收视率	100
+dian shi tai tai zhang	电视台台长	100
+dian shi wei yuan	典试委员	100
+dian shi wei yuan hui	典试委员会	100
+dian shi xi lie	电视系列	100
+dian shi xi tong	电视系统	100
+dian shi xing fen zheng	电视兴奋症	100
+dian shi xiu	电视秀	100
+dian shi xuan chuan	电视宣传	100
+dian shi yin yue	电视音乐	100
+dian shi you le qi	电视游乐器	100
+dian shi yu le	电视娱乐	100
+dian shi yu le jie mu	电视娱乐节目	100
+dian shi yuan sheng dai	电视原声带	100
+dian shi zhen ren xiu jie mu	电视真人秀节目	100
+dian shi zhi bo biao	电视直播表	100
+dian shi zhi bo wei xing	电视直播卫星	100
+dian shi zong ju	电视总局	100
+dian shou cang	点收藏	100
+dian shu mu	电束木	100
+dian shu xing	电属性	100
+dian shui bu lou	点水不漏	100
+dian shui nan xiao	点水难消	100
+dian suan hua kuai ji	电算化会计	100
+dian suan kuai ji	电算会计	100
+dian tai yin yue	电台音乐	100
+dian ti dao le	电梯到了	100
+dian ti fang	电梯房	100
+dian ti guang gao	电梯广告	100
+dian ti hang ye	电梯行业	100
+dian ti kong zhi xi tong	电梯控制系统	100
+dian ti lai le	电梯来了	100
+dian ti li de e mo	电梯里的恶魔	100
+dian ti qiu	电梯球	100
+dian ti xi tong	电梯系统	100
+dian ti yun xing	电梯运行	100
+dian ti zhui luo	电梯坠落	100
+dian tou bo nao	掂头簸脑	100
+dian tou hui yi	点头会意	100
+dian tou jiu xing	点头就行	100
+dian tou shi chang	店头市场	100
+dian tou xiang	点头像	100
+dian tou xiang	点投降	100
+dian tou yun bi	钿头云篦	100
+dian tou za zui	点头咂嘴	100
+dian wai le	点歪了	100
+dian wai le ba	点歪了吧	100
+dian wai mai	点外卖	100
+dian wai mai le	点外卖了	100
+dian wan ba shi	电玩巴士	100
+dian wan dian	电玩店	100
+dian wan ka	电玩咖	100
+dian wan le	点完了	100
+dian wan xi lie	电玩系列	100
+dian wan yu le	电玩娱乐	100
+dian wang an quan wen ding yun xing	电网安全稳定运行	100
+dian wang an quan yun xing	电网安全运行	100
+dian wang gui mo	电网规模	100
+dian wang pin lv	电网频率	100
+dian wang tiao feng	电网调峰	100
+dian wang xi tong	电网系统	100
+dian wang yun xing	电网运行	100
+dian wang yun xing fang shi	电网运行方式	100
+dian wei chang	点位长	100
+dian wei neng	电位能	100
+dian wei zhi zi	淀谓之滓	100
+dian wen xiang	点蚊香	100
+dian wen xiang	电蚊香	100
+dian wo lia	点我俩	100
+dian wo lia ne	点我俩呢	100
+dian wo liu chuan gan qi	电涡流传感器	100
+dian wo ne	点我呢	100
+dian wu le	玷污了	100
+dian xi di qu	滇西地区	100
+dian xi zong gu	滇西纵谷	100
+dian xia ben ren	殿下本人	100
+dian xia ci lai	殿下此来	100
+dian xia jia dao	殿下驾到	100
+dian xia lai	垫下来	100
+dian xia qu	垫下去	100
+dian xian	典宪	100
+dian xian bing yi chuan	癫痫病遗传	100
+dian xian chang du	电线长度	100
+dian xian dian lan hang ye	电线电缆行业	100
+dian xian mian	点线面	100
+dian xian yi chuan	癫痫遗传	100
+dian xian zheng	癫痫症	100
+dian xian zou huo	电线走火	100
+dian xiao er er	店小二儿	100
+dian xiao ji	典孝急	100
+dian xiao ji le	典孝急乐	100
+dian xiao ji le beng	典孝急乐蚌	100
+dian xiao ji le beng ying	典孝急乐蚌赢	100
+dian xiao xi tong	电销系统	100
+dian xin bao xiu	电信报修	100
+dian xin chuan qi	电信传奇	100
+dian xin deng hang ye	电信等行业	100
+dian xin er qu	电信二区	100
+dian xin fei	点心费	100
+dian xin fu wu gong ying shang	电信服务供应商	100
+dian xin guang mao	电信光猫	100
+dian xin ri	电信日	100
+dian xin san qu	电信三区	100
+dian xin si qu	电信四区	100
+dian xin wang lu	电信网路	100
+dian xin xi tong	电信系统	100
+dian xin ye wu fa	电信业务法	100
+dian xin yi qu	电信一区	100
+dian xin zha pian	电信诈骗	100
+dian xing deng ge re	典型登革热	100
+dian xing hang ye	典型行业	100
+dian xing mo dao	典型魔道	100
+dian xing mo fan	典型模范	100
+dian xing mo shi	典型模式	100
+dian xing xuan chuan	典型宣传	100
+dian xing yong tu	典型用途	100
+dian xing zheng dao	典型正道	100
+dian xun gong si	电讯公司	100
+dian xun ju	电讯局	100
+dian xun she	电讯社	100
+dian xun shu ru fa	点讯输入法	100
+dian xun ying ke	电讯盈科	100
+dian ya chuan gan qi	电压传感器	100
+dian ya die luo	电压跌落	100
+dian ya gu pu	典雅古朴	100
+dian ya jiang di	电压降低	100
+dian ya jun gu	巅崖峻谷	100
+dian ya li guo	电压力锅	100
+dian ya pin lv	电压频率	100
+dian ya tiao jie qi	电压调节器	100
+dian ya tiao zheng	电压调整	100
+dian ya wen ding du	电压稳定度	100
+dian ya wu hua	典雅无华	100
+dian ya xi lie	典雅系列	100
+dian ya xia jiang	电压下降	100
+dian ya zan jiang	电压暂降	100
+dian ya zhuang zhong	典雅庄重	100
+dian yan jue shou	电炎绝手	100
+dian yao chao feng	电摇嘲讽	100
+dian yao ke	电鳐科	100
+dian yao mu	电鳐目	100
+dian yao shu	电鳐属	100
+dian ye si fu	电液伺服	100
+dian ye si fu fa	电液伺服阀	100
+dian yi dian er	点一点二	100
+dian yi ha	点一哈	100
+dian yi shou	点一首	100
+dian yi xia guan zhu	点一下关注	100
+dian yi xia zan	点一下赞	100
+dian yi zhan deng	点一盏灯	100
+dian yin duo la	电音朵拉	100
+dian ying bai du yun	电影百度云	100
+dian ying ban	电影版	100
+dian ying chang cheng	电影长城	100
+dian ying chang pian	电影长片	100
+dian ying chong	电萤虫	100
+dian ying chuan qi	电影传奇	100
+dian ying de	电影的	100
+dian ying de gan jue	电影的感觉	100
+dian ying de nan zhu jue	电影的男主角	100
+dian ying de nv zhu jue	电影的女主角	100
+dian ying de xuan chuan	电影的宣传	100
+dian ying de zhu jue	电影的主角	100
+dian ying di yu	电影地狱	100
+dian ying er	电影儿	100
+dian ying fa xing	电影发行	100
+dian ying fa xing gong si	电影发行公司	100
+dian ying fen ji zhi	电影分级制	100
+dian ying fen ji zhi du	电影分级制度	100
+dian ying hang ye	电影行业	100
+dian ying he yin yue	电影和音乐	100
+dian ying hui gu zhan	电影回顾展	100
+dian ying ji tuan	电影集团	100
+dian ying jue se	电影角色	100
+dian ying ka	电影卡	100
+dian ying ma	电影吗	100
+dian ying mei shu	电影美术	100
+dian ying mi	电影迷	100
+dian ying mo shi	电影模式	100
+dian ying nan zhu jue	电影男主角	100
+dian ying nv zhu jue	电影女主角	100
+dian ying pai hang	电影排行	100
+dian ying pei yue	电影配乐	100
+dian ying piao fang pai hang bang	电影票房排行榜	100
+dian ying piao jia	电影票价	100
+dian ying pin dao chuan mei da jiang	电影频道传媒大奖	100
+dian ying ping fen	电影评分	100
+dian ying qi ji	电影奇迹	100
+dian ying qu jing di	电影取景地	100
+dian ying sheng dian	电影盛典	100
+dian ying sheng hui	电影盛会	100
+dian ying shi	电影室	100
+dian ying shi jing	电影试镜	100
+dian ying tian tang	电影天堂	100
+dian ying xi	电影系	100
+dian ying xi lie	电影系列	100
+dian ying xuan chuan	电影宣传	100
+dian ying xue xiao	电影学校	100
+dian ying xue yuan	电影学院	100
+dian ying yu le	电影娱乐	100
+dian ying yu zhou	电影宇宙	100
+dian ying yuan dao bi	电影院倒闭	100
+dian ying yuan sheng dai	电影原声带	100
+dian ying yuan sheng yin yue	电影原声音乐	100
+dian ying zhi du	电影之都	100
+dian ying zhong	电影中	100
+dian ying zhong de jue se	电影中的角色	100
+dian ying zhong de nv zhu jue	电影中的女主角	100
+dian ying zhong de zhu jue	电影中的主角	100
+dian ying zhu jue	电影主角	100
+dian ying zi mu	电影字幕	100
+dian you deng	点油灯	100
+dian you di zhi	电邮地址	100
+dian yuan ban	电源板	100
+dian yuan de gong lv	电源的功率	100
+dian yuan e ding gong lv	电源额定功率	100
+dian yuan gong ying ji	电源供应机	100
+dian yuan guan li mo kuai	电源管理模块	100
+dian yuan guan li xi tong	电源管理系统	100
+dian yuan hang ye	电源行业	100
+dian yuan mo shi	电源模式	100
+dian yuan mo zu	电源模组	100
+dian yuan pin lv	电源频率	100
+dian yuan su	碘元素	100
+dian yuan yan chang xian	电源延长线	100
+dian yue lv	点阅率	100
+dian yue zhao ji	点阅召集	100
+dian zai chang	电宰厂	100
+dian zan a	点赞啊	100
+dian zan bang	点赞榜	100
+dian zan ci shu	点赞次数	100
+dian zan guan zhu bu mi lu	点赞关注不迷路	100
+dian zan le	点赞了	100
+dian zan lia	点咱俩	100
+dian zan lia ne	点咱俩呢	100
+dian zan lv	点赞率	100
+dian zan pai hang bang	点赞排行榜	100
+dian zan shou cang	点赞收藏	100
+dian zan shu	点赞数	100
+dian zang gong lu	滇藏公路	100
+dian zang xian	滇藏线	100
+dian zha chong rong	电渣重熔	100
+dian zha lu	电渣炉	100
+dian zhan yun xing	电站运行	100
+dian zhang biao shi	店长表示	100
+dian zhang guan li	店长管理	100
+dian zhang jie shao	店长介绍	100
+dian zhang men	店长们	100
+dian zhang pei xun	店长培训	100
+dian zhang tui jian	店长推荐	100
+dian zhang wen wu	典章文物	100
+dian zhang zhao pin	店长招聘	100
+dian zhang zhu li	店长助理	100
+dian zhang zui su	颠张醉素	100
+dian zhao huo	点着火	100
+dian zhao la zhu	点着蜡烛	100
+dian zhao ming	电照明	100
+dian zhao yan	点着烟	100
+dian zhe li	点这里	100
+dian zhen da yin ji	点阵打印机	100
+dian zhen ma zui	电针麻醉	100
+dian zhen shi da yin ji	点阵式打印机	100
+dian zhen zi ti	点阵字体	100
+dian zhi hua zi	点指画字	100
+dian zhi shu	电纸书	100
+dian zhi zhu	电蜘蛛	100
+dian zhi zi ben	垫支资本	100
+dian zhong di qu	滇中地区	100
+dian zhong dian	典中典	100
+dian zhong liang	掂重量	100
+dian zhong wen ya	典重温雅	100
+dian zhong xing	电中性	100
+dian zhu li zi xing che	电助力自行车	100
+dian zhuan pan	电转盘	100
+dian zhuang gong di	点状供地	100
+dian zi ban de	电子版的	100
+dian zi ban jiu xing	电子版就行	100
+dian zi bi ji	电子笔记	100
+dian zi biao dan	电子表单	100
+dian zi biao qing	电子表情	100
+dian zi biao shi	电子表示	100
+dian zi bing li xi tong	电子病历系统	100
+dian zi bu gao lan	电子布告栏	100
+dian zi ceng shu	电子层数	100
+dian zi chan pin hang ye	电子产品行业	100
+dian zi che shen wen ding xi tong	电子车身稳定系统	100
+dian zi cheng zhong	电子称重	100
+dian zi chuan gan qi	电子传感器	100
+dian zi chuan shu	电子传输	100
+dian zi chuan zhen	电子传真	100
+dian zi ci ju	电子磁矩	100
+dian zi deng hang ye	电子等行业	100
+dian zi di bang	电子地磅	100
+dian zi di bang cheng	电子地磅秤	100
+dian zi di cheng	电子地秤	100
+dian zi di shang heng	电子地上衡	100
+dian zi di tu ce	电子地图册	100
+dian zi dian he	电子电荷	100
+dian zi dian mian	电子店面	100
+dian zi dian qi hang ye	电子电器行业	100
+dian zi dian qi hang ye	电子电气行业	100
+dian zi du pin	电子毒品	100
+dian zi dui	电子对	100
+dian zi dui kang xi tong	电子对抗系统	100
+dian zi fan zhi	电子反制	100
+dian zi fu	电子伏	100
+dian zi fu te	电子伏特	100
+dian zi fu zhu xi tong	电子辅助系统	100
+dian zi gong cheng xi	电子工程系	100
+dian zi gong ye yan jiu suo	电子工业研究所	100
+dian zi hai luo yin	电子海洛因	100
+dian zi hu die	电子蝴蝶	100
+dian zi hua ying ye	电子化营业	100
+dian zi huan bao ting	电子环保亭	100
+dian zi ji	点字机	100
+dian zi ji	电子鸡	100
+dian zi ji zhong cheng	电子计重秤	100
+dian zi ji zhong tai cheng	电子计重台秤	100
+dian zi jian kang tong xing ma	电子健康通行码	100
+dian zi jian kong xi tong	电子监控系统	100
+dian zi jiao yi xi tong	电子交易系统	100
+dian zi jing cha xi tong	电子警察系统	100
+dian zi jing cha zhua pai xi tong	电子警察抓拍系统	100
+dian zi jing ji hang ye	电子竞技行业	100
+dian zi jing ji ju le bu	电子竞技俱乐部	100
+dian zi kan ban	电子看板	100
+dian zi ke	电子科	100
+dian zi ke da cheng du xue yuan	电子科大成都学院	100
+dian zi kong jian	电子空间	100
+dian zi kong zhi xi tong	电子控制系统	100
+dian zi kuai ji dang an	电子会计档案	100
+dian zi kuai ji ping zheng	电子会计凭证	100
+dian zi lun tan	电子论坛	100
+dian zi mo chu shi ke fu xie zhi du cun chu qi	电子抹除式可复写只读存储器	100
+dian zi mu ban	电子模板	100
+dian zi mu yu	电子木鱼	100
+dian zi nv you	电子女友	100
+dian zi pan	电子盘	100
+dian zi piao	电子票	100
+dian zi ping zheng	电子凭证	100
+dian zi qian yi lv	电子迁移率	100
+dian zi ren zheng huo ping zheng	电子认证或凭证	100
+dian zi se	靛紫色	100
+dian zi shang	点子上	100
+dian zi shang wu hang ye	电子商务行业	100
+dian zi shang wu mo shi	电子商务模式	100
+dian zi shang wu ren zheng	电子商务认证	100
+dian zi shang wu xi tong	电子商务系统	100
+dian zi shang ye hui piao xi tong	电子商业汇票系统	100
+dian zi she bao	电子社保	100
+dian zi she bao ka	电子社保卡	100
+dian zi sheng ji mo shi	电子升级模式	100
+dian zi shi lian	电子失恋	100
+dian zi shou fei xi tong	电子收费系统	100
+dian zi shou kao	电子手铐	100
+dian zi shu mo shi	电子书模式	100
+dian zi shu yue du	电子书阅读	100
+dian zi shu zi ji suan ji	电子数字计算机	100
+dian zi suo	电子所	100
+dian zi tai li	电子台历	100
+dian zi ti zhong cheng	电子体重秤	100
+dian zi tian shi	电子天使	100
+dian zi tiao jie qi	电子调节器	100
+dian zi tiao su	电子调速	100
+dian zi tiao su qi	电子调速器	100
+dian zi wang luo	电子网络	100
+dian zi wen ding kong zhi xi tong	电子稳定控制系统	100
+dian zi wen ding xi tong	电子稳定系统	100
+dian zi wen du	电子温度	100
+dian zi wen du ji	电子温度计	100
+dian zi wen shi du ji	电子温湿度计	100
+dian zi xi tong	电子系统	100
+dian zi xiao di bang	电子小地磅	100
+dian zi xin xi chan ye ji di	电子信息产业基地	100
+dian zi xin xi gong cheng	电子信息工程	100
+dian zi xin xi gong cheng xi	电子信息工程系	100
+dian zi xin xi hang ye	电子信息行业	100
+dian zi xin xi xi	电子信息系	100
+dian zi xin xi xi tong	电子信息系统	100
+dian zi xing che	电自行车	100
+dian zi xing cheng dan	电子行程单	100
+dian zi xing shi zheng	电子行驶证	100
+dian zi xue xi	电子学系	100
+dian zi xun geng xi tong	电子巡更系统	100
+dian zi ya li chuan gan qi	电子压力传感器	100
+dian zi yan dian	电子烟店	100
+dian zi yan hang ye	电子烟行业	100
+dian zi yan yan dan	电子烟烟弹	100
+dian zi yang wei	电子阳痿	100
+dian zi yin hang bu	电子银行部	100
+dian zi yin hang cheng dui hui piao	电子银行承兑汇票	100
+dian zi yin hang kou ling ka	电子银行口令卡	100
+dian zi yin yue jie	电子音乐节	100
+dian zi yin yue ren	电子音乐人	100
+dian zi yin yue zhi zuo ren	电子音乐制作人	100
+dian zi yin yue zi xun	电子音乐资讯	100
+dian zi ying	点子硬	100
+dian zi you jian lian xi	电子邮件联系	100
+dian zi you jian xi tong	电子邮件系统	100
+dian zi you xi shi	电子游戏室	100
+dian zi you xiang di zhi	电子邮箱地址	100
+dian zi yu le	电子娱乐	100
+dian zi yuan jian hang ye	电子元件行业	100
+dian zi yuan qi jian hang ye	电子元器件行业	100
+dian zi yue lan shi	电子阅览室	100
+dian zi zha cai	电子榨菜	100
+dian zi zha shou	点子扎手	100
+dian zi zhan xi tong	电子战系统	100
+dian zi zhang lang	电子蟑螂	100
+dian zi zhao tou biao xi tong	电子招投标系统	100
+dian zi zheng wu xi tong	电子政务系统	100
+dian zi zhi fu xi tong	电子支付系统	100
+dian zi zhi zao hang ye	电子制造行业	100
+dian zi zhong biao	电子钟表	100
+dian zi zhu li zhuan xiang xi tong	电子助力转向系统	100
+dian zi zhua pai xi tong	电子抓拍系统	100
+dian zu kang	电阻抗	100
+dian zu lv ce shi yi	电阻率测试仪	100
+dian zu lv yi	电阻率仪	100
+dian zu wen du ji	电阻温度计	100
+dian zu wen du xi shu	电阻温度系数	100
+dian zu zhi du	佃租制度	100
+dian zuan yan zhu zi	电钻眼珠子	100
+dian zuo shang jiao	点左上角	100
+dian zhi	垫支	99
+dian liu fang da qi	电流放大器	95
+dian ying bi zhi	电影壁纸	95
+dian di zai xin tou	点滴在心头	91
+dian ru	电褥	90
+dian xi tuo	电洗脱	90
+dian zi chuan di lian	电子传递链	90
+dian ba jian	滇八件	89
+dian bu jin qu	点不进去	88
+dian hua	点花	88
+dian zhi	典制	88
+dian he qi	电和气	87
+dian ju ban shi	点聚版式	87
+dian ju ban shi ruan jian	点聚版式软件	87
+dian ju dian zi qian zhang xi tong	点聚电子签章系统	87
+dian li bin guan	电力宾馆	86
+dian rong shi chu mo ping	电容式触摸屏	86
+dian wang	店王	86
+dian le ge zhen tou	垫了个枕头	85
+dian lu xue	电路学	85
+dian san lun	电三轮	85
+dian shi yuan sheng	电视原声	85
+dian wei biao	点位表	85
+dian zi dian ya biao	电子电压表	85
+dian dao dian xie yi	点到点协议	83
+dian xin fei	电信费	83
+dian shi xue	电视学	82
+dian le ge	点了个	81
+dian hua jiao ju	电化教具	80
+dian shen liu	电渗流	80
+dian yong zhuang zhi	电泳装置	80
+dian zi san she	电子散射	80
+dian zi xue yuan li	电子学原理	80
+dian bu diao	点不掉	79
+dian nao ying yong	电脑应用	78
+dian zi yi jie	电子艺界	78
+dian na ge	点那个	77
+dian zhi	典质	77
+dian zi si lu	电子四路	77
+dian fen xi	电分析	76
+dian li yuan	电力院	76
+dian du	奠都	75
+dian fen ruan tang	淀粉软糖	75
+dian he ping heng	电荷平衡	75
+dian ji shi jian chong tu	点击事件冲突	75
+dian xia	店下	75
+dian ying pian ku	电影片库	75
+dian ying tie pian guang gao	电影贴片广告	75
+dian yong huan chong ye	电泳缓冲液	75
+dian zi tu shu guan	电子图书馆	74
+dian bu dong	点不动	73
+dian fu gai	点覆盖	73
+dian zi chu ban wu guan li gui ding	电子出版物管理规定	73
+dian shi chang	电石厂	71
+dian ya bian huan qi	电压变换器	71
+dian guang xue	电光学	70
+dian ying chang	电影场	70
+dian yong qian yi lv	电泳迁移率	70
+dian chi shi	电池式	69
+dian bao da lou	电报大楼	68
+dian nao kuan	电脑款	68
+dian pu zai ci	店铺在此	68
+dian xian dian shang	电线电伤	68
+dian biao jian	电表间	67
+dian zi cun	店子村	67
+dian zi gong ye yuan	电子工业园	67
+dian yuan zuo	电源座	66
+dian zi chu ban	电子出版	66
+dian chi shang	电池商	65
+dian dian shi	点点是	65
+dian hua shang	电话上	65
+dian li ceng bao	电离层暴	65
+dian nao hui qu	电脑回去	65
+dian ruo tong yi li lun	电弱统一理论	65
+dian shi bo song	电视播送	65
+dian yong tu	电泳图	65
+dian cai shi	点菜师	64
+dian hua ju	电化局	64
+dian ji zhu	电极柱	64
+dian li da sha	电力大厦	64
+dian yi gen yan	点一根烟	64
+dian jian er gong si	电建二公司	63
+dian lan biao	电缆表	63
+dian nao mian shou	电脑免受	61
+dian hua qing	碘化氢	60
+dian hua xue ti du	电化学梯度	60
+dian ye yi yuan	电业医院	58
+dian li suo	电力所	57
+dian lu jiao huan wang	电路交换网	57
+dian bao ma	电报码	56
+dian nao yan	电脑眼	56
+dian li xue xiao	电力学校	55
+dian xi	殿玺	55
+dian xing biao zhun	典型标准	55
+dian zi pai bu shi	电子排布式	55
+dian cai	电材	54
+dian hua cun	电话村	54
+dian chang dong lu	电厂东路	52
+dian zi yu dian nao	电子与电脑	52
+dian hu men	佃户们	51
+dian nao ji chu	电脑基础	51
+dian ping gai	电瓶盖	50
+dian shang jia gou	电商架构	50
+dian shi	点石	50
+dian tu chu	电突触	50
+dian tuo shui	电脱水	50
+dian li shi chang yun ying ji ben gui ze	电力市场运营基本规则	49
+dian zi gong gao pai	电子公告牌	49
+dian nao wei hu	电脑维护	47
+dian zu fu zai	电阻负载	46
+dian bo	颠踣	45
+dian bu chu	掂不出	45
+dian bu chu lai	点不出来	45
+dian shen qian	典身钱	45
+dian yan	电唁	45
+dian yong tiao dai	电泳条带	45
+dian zi bei zeng qi	电子倍增器	45
+dian zi guang pu	电子光谱	45
+dian zi zhuan yi fan ying	电子转移反应	45
+dian hua ta	碘化铊	44
+dian jian suo	点检索	44
+dian qie pian	颠茄片	44
+dian shi dian sheng yan jiu suo	电视电声研究所	44
+dian zi she ji ying yong	电子设计应用	44
+dian hua chang	电化厂	43
+dian hua jia pian	碘化钾片	43
+dian qie	颠茄	43
+dian zi fu wu	电子服务	42
+dian ying qi ye jing ying zi ge zhun ru zan xing gui ding	电影企业经营资格准入暂行规定	41
+dian zi ying jian	电子硬件	41
+dian dui	掂对	40
+dian jie	典借	40
+dian shao shang	电烧伤	40
+dian shi ting	点视厅	40
+dian xian chi xu zhuang tai	癫痫持续状态	40
+dian xiu ke	电休克	39
+dian dang hang guan li zan xing ban fa	典当行管理暂行办法	38
+dian dui duo dian tong xin	点对多点通信	38
+dian li gu	电力股	38
+dian nao shi kong	电脑时空	38
+dian chi he shou bing	电池盒手柄	37
+dian shi ju shen cha guan li gui ding	电视剧审查管理规定	37
+dian xiu ke zhi liao	电休克治疗	37
+dian ying shen cha gui ding	电影审查规定	37
+dian hua gai	碘化钙	35
+dian qi ping jie	电器评介	35
+dian shi bie	点识别	35
+dian zi ban he tong	电子版合同	35
+dian dui dian sui dao xie yi	点对点隧道协议	34
+dian shang ying xiao	电商营销	34
+dian xiao	电校	34
+dian zi yin hang ye wu	电子银行业务	34
+dian chang xin cun	靛厂新村	33
+dian di mei	点地梅	33
+dian li shi chang jian guan ban fa	电力市场监管办法	33
+dian shi guan li zan xing ban fa	电视管理暂行办法	33
+dian shi shi ge san wen	电视诗歌散文	33
+dian ying she	点映射	33
+dian ban	点板	32
+dian dong yao ji	电动摇机	32
+dian che nan	电车男	31
+dian hua wo	电话我	31
+dian ji xie	电机械	31
+dian zi wang	电子网	31
+dian hua lao an suan	碘化酪氨酸	30
+dian nao an quan zhuan jia	电脑安全专家	30
+dian yong xing	电泳型	30
+dian zi dian li	电子电离	30
+dian xin zhong xin	电信中心	29
+dian chi cun	点尺寸	28
+dian pai	店排	28
+dian ying ping jie	电影评介	28
+dian zi ri li	电子日历	28
+dian wo shi shi	点我试试	27
+dian xin jian she guan li ban fa	电信建设管理办法	27
+dian bo bu po	颠簸不破	26
+dian han ji chang	电焊机厂	26
+dian pen she	电喷射	25
+dian shi wang	电视王	25
+dian xin yong hu shen su chu li zan xing ban fa	电信用户申诉处理暂行办法	25
+dian yong zhuan yi	电泳转移	25
+dian fen li	淀粉粒	24
+dian li qi ye xin xi bao song gui ding	电力企业信息报送规定	24
+dian liang qi	点亮器	24
+dian xian da fa zuo	癫痫大发作	24
+dian xin guan li wang	电信管理网	24
+dian ya ju	典雅居	24
+dian zi cha su zhi dong	电子差速制动	24
+dian ci jian zhen qi	电磁减震器	23
+dian li qi ye xin xi pi lu gui ding	电力企业信息披露规定	23
+dian tu ji	电图机	22
+dian li ye wu xu ke zheng zhi du	电力业务许可证制度	21
+dian qi cun	佃起村	21
+dian wang yun xing gui ze	电网运行规则	21
+dian xun huan	点循环	21
+dian ci liu liang ji	电磁流量计	20
+dian gong ru wang zheng	电工入网证	20
+dian ma zui	电麻醉	20
+dian nei shen	电内渗	20
+dian tai lu	电台路	20
+dian tu bian	点突变	20
+dian xia	玷瑕	20
+dian zi guang pu xue	电子光谱学	20
+dian zi ke ji xue yuan	电子科技学院	20
+dian zi mi du tu	电子密度图	20
+dian zi mo kuai	电子模块	20
+dian ji shi chang	电机市场	19
+dian li ji xie chang	电力机械厂	19
+dian shi yi liao	电视医疗	19
+dian zi fu kuan	电子付款	19
+dian chang	靛厂	18
+dian lan chang	电缆长	18
+dian li an quan sheng chan jian guan ban fa	电力安全生产监管办法	18
+dian nao ji shu ren yuan zhi ye ze ren bao xian	电脑技术人员职业责任保险	18
+dian pin lv	点频率	18
+dian zi yi qi chang	电子仪器厂	18
+dian liu jie dao	甸柳街道	17
+dian dong xi wei ji	电动洗胃机	16
+dian gong qi cai chang	电工器材厂	16
+dian yuan zong xian	电源总线	16
+dian dao di ding	电导滴定	15
+dian dao fen xi	电导分析	15
+dian dao lv jian ce qi	电导率检测器	15
+dian fen he	淀粉核	15
+dian ji wu	淀积物	15
+dian li jian guan xin xi gong kai ban fa	电力监管信息公开办法	15
+dian li xi tong fang zhen	电力系统仿真	15
+dian ping lian jie xian	电瓶连接线	15
+dian san san	点三三	15
+dian tou xi	电透析	15
+dian yong jie zhi	电泳介质	15
+dian zi gan ying jia su qi	电子感应加速器	15
+dian zi han jian di zhi	电子函件地址	15
+dian zi jin rong	电子金融	15
+dian di fa	点滴法	14
+dian fen jiang	淀粉浆	14
+dian han gong chen fei	电焊工尘肺	14
+dian huo xian quan zong cheng	点火线圈总成	14
+dian li sheng chan shi gu diao cha zan xing gui ding	电力生产事故调查暂行规定	14
+dian shu ju fen xi	点数据分析	14
+dian wei chao mian	滇味炒面	14
+dian fu bu po	颠覆不破	13
+dian hai chun	碘海醇	13
+dian xiu ke liao fa	电休克疗法	13
+dian you zao ying	碘油造影	13
+dian zi er lu xi kou	电子二路西口	13
+dian bu kai	点不开	12
+dian guang shan	电光闪	12
+dian jun qu zheng fu	点军区政府	12
+dian lao	癫佬	12
+dian li zhong xue	电力中学	11
+dian nao chuan piao	电脑传票	11
+dian wo	电我	11
+dian wu	点五	11
+dian yi dao chang	颠衣到裳	11
+dian zu	佃租	11
+dian ben jia suan na	碘苯甲酸钠	10
+dian chi chen bao	滇池晨报	10
+dian chuan kong yi	电穿孔仪	10
+dian ge	电格	10
+dian nao mei jie	电脑媒介	10
+dian ping qia zi	电瓶卡子	10
+dian suan	掂算	10
+dian ti ting zhi shi yong	电梯停止使用	10
+dian ti ying ji zhi nan	电梯应急指南	10
+dian tou cheng shan	点头称善	10
+dian yong qian yi	电泳迁移	10
+dian zi jing ti xue	电子晶体学	10
+dian zi qing bao	电子情报	10
+dian zi ran se	电子染色	10
+dian zi xian zhen	电子线阵	10
+dian chang lu kou	电厂路口	9
+dian dong che zhuan yong pei jian	电动车专用配件	9
+dian lao shu	电老鼠	9
+dian liao fa	电疗法	9
+dian shi	电示	9
+dian tang	电烫	9
+dian ya	典押	9
+dian you	电游	9
+dian zhen duan	电诊断	9
+dian zi shu zi hua	电子数字化	9
+dian dui dian	点对电	8
+dian gan you	碘甘油	8
+dian pa chun	碘帕醇	8
+dian shi zhen	电市镇	8
+dian xian xiao fa zuo	癫痫小发作	8
+dian xin bin guan	电信宾馆	8
+dian zi cheng xiao qu	电子城小区	8
+dian zi zhen kong beng	电子真空泵	8
+dian bing	癫病	7
+dian ci ji qi	电刺激器	7
+dian di cai liao	垫底材料	7
+dian ji ji xie	电机机械	7
+dian long dao feng	颠龙倒凤	7
+dian ning qian	电凝钳	7
+dian shei	点谁	7
+dian shui	点谁	7
+dian xian xing jing shen zhang ai	癫痫性精神障碍	7
+dian zi shui mian yi	电子睡眠仪	7
+dian ba jian gao dian	滇八件糕点	6
+dian dong shi gao ju	电动石膏锯	6
+dian dong ya ke yi	电动牙科椅	6
+dian jiang tai jie	点将台街	6
+dian ning nie	电凝镊	6
+dian re zhu fei xiao du qi	电热煮沸消毒器	6
+dian sai luo ning	碘塞罗宁	6
+dian shen xi fa	电渗析法	6
+dian ying hua kan	电影画刊	6
+dian zhuo shu	电灼术	6
+dian zi mo ni ji suan ji	电子模拟计算机	6
+dian da lu kou	电大路口	5
+dian dao fan zhuan	颠倒反转	5
+dian de bi	点得比	5
+dian dong gu zuan	电动骨钻	5
+dian fan suan	碘番酸	5
+dian fen mei zhi ji	淀粉酶制剂	5
+dian fo chun	碘佛醇	5
+dian kan	点勘	5
+dian lai bo qu	颠来簸去	5
+dian li chang	电力场	5
+dian niao mi ding	碘尿嘧啶	5
+dian pei bi yu shi	颠沛必于是	5
+dian pu luo an zhu she ye	碘普罗胺注射液	5
+dian qie he ji	颠茄合剂	5
+dian shi shu kan	电视书刊	5
+dian shi wei jin	点石为金	5
+dian xin wang ma	电信网码	5
+dian yong guang san she	电泳光散射	5
+dian zhuang	垫状	5
+dian zi neng pu xue	电子能谱学	5
+dian zi tan zhen wei qu fen xi	电子探针微区分析	5
+dian bao bao	电报报	4
+dian bei	点背	4
+dian bi chun	碘比醇	4
+dian ci xin cun	电瓷新村	4
+dian fen yang bian xing	淀粉样变性	4
+dian hua you	碘化油	4
+dian ma yi	电麻仪	4
+dian pao	电泡	4
+dian tai dao	电台道	4
+dian tou dao shi	点头道是	4
+dian ya qian	电压钳	4
+dian zha	电诈	4
+dian zhang jie dao	店张街道	4
+dian zi zhen xing ban gong shi	电子振兴办公室	4
+dian chai	钿钗	3
+dian chuan di	电传递	3
+dian dian hua hua	点点划划	3
+dian dian shi li ren lei	点点是离人泪	3
+dian gong	癫公	3
+dian gong yu dian zi ji shu	电工与电子技术	3
+dian he	钿盒	3
+dian jiang wang	点将王	3
+dian lian zhi jie dong ming	颠连直接东溟	3
+dian mu chang	电木厂	3
+dian nao ting	电脑亭	3
+dian po	癫婆	3
+dian pu bu mie	颠仆不灭	3
+dian qi zhong xin cun	佃起中心村	3
+dian qie jin gao	颠茄浸膏	3
+dian shang cun wei hui	店上村委会	3
+dian shang dian zhang	电商店长	3
+dian shi hu	电视户	3
+dian shi xian feng bang	电视先锋榜	3
+dian shui qing ting kuan kuan fei	点水蜻蜓款款飞	3
+dian tou bo nao	颠头簸脑	3
+dian wen ru shui	簟纹如水	3
+dian xin shu niu zhong xin	电信枢纽中心	3
+dian xun zhan	电讯站	3
+dian ying lei lei pei shan shan	钿璎累累佩珊珊	3
+dian yong fa	电泳法	3
+dian yun qi	电熨器	3
+dian zai	癫仔	3
+dian zi shang wu qian ming fa	电子商务签名法	3
+dian an xiang	奠安乡	2
+dian bai xian	电白县	2
+dian bai yan chang	电白盐场	2
+dian di	点地	2
+dian dong	佃东	2
+dian ga xiang	电尕乡	2
+dian ji ceng	淀积层	2
+dian ji fen chang	电机分厂	2
+dian jiao cha ru chi sha hu	殿脚插入赤沙湖	2
+dian ke sha chun	碘克沙醇	2
+dian ku cai	滇苦菜	2
+dian ku mai cai	滇苦荬菜	2
+dian nao ban	电脑班	2
+dian nao hua kuai ji	电脑化会计	2
+dian ping	电平	2
+dian ping xiang	佃坪乡	2
+dian qie cao	颠茄草	2
+dian tou	电头	2
+dian tou yin bi ji jie sui	钿头银篦击节碎	2
+dian xiao zai mi shu	典校在秘书	2
+dian ye zhong xue	电业中学	2
+dian yu hong	靛玉红	2
+dian yuan jing zhi	槙原敬之	2
+dian yuan lu	滇源路	2
+dian zi	店子	2
+dian zi er lu xiao qu	电子二路小区	2
+dian zi xiao qu	电子小区	2
+dian zi xin xi chan ye fa zhan ji jin guan li ban fa	电子信息产业发展基金管理办法	2
+dian bang	点棒	1
+dian bei xu chun fei yu	点背须唇飞鱼	1
+dian bu xiang	典补乡	1
+dian che xing chi	电掣星驰	1
+dian chun bo zui	颠唇簸嘴	1
+dian chun fang	殿春芳	1
+dian chun kui	殿春魁	1
+dian chun mao li yu	点唇矛丽鱼	1
+dian ci	电瓷	1
+dian cu liu dong	电促流动	1
+dian dao bu zi zhi	颠倒不自知	1
+dian dao gan kun	颠倒干坤	1
+dian dao yu	电刀鱼	1
+dian deng hua	电灯花	1
+dian di bian xing chong	点滴变形虫	1
+dian dian die die	颠颠跌跌	1
+dian dian wu sheng luo wa gou	点点无声落瓦沟	1
+dian dong	店东	1
+dian dong chou xi xi tong	电动抽吸系统	1
+dian dong dao guan chuang	电动导管床	1
+dian dong duan ceng chuang	电动断层床	1
+dian dong duo gong neng bing chuang	电动多功能病床	1
+dian dong fang ru chuang chuang dian	电动防褥疮床垫	1
+dian dong jian xi qian yin chuang	电动间隙牵引床	1
+dian dong qian yin zhuang zhi	电动牵引装置	1
+dian dong she ying ping chuang	电动摄影平床	1
+dian dong shi gao jian	电动石膏剪	1
+dian dong shou ji	电动手机	1
+dian dong xiong gu ju	电动胸骨锯	1
+dian dong xuan diao zhuang zhi	电动悬吊装置	1
+dian dong ya zuan ji	电动牙钻机	1
+dian dong zong he shou shu tai	电动综合手术台	1
+dian du	点厾	1
+dian du wang	电镀网	1
+dian e deng	电额灯	1
+dian fan cheng sheng	点凡成圣	1
+dian fan fu ye xia hu yu	典范副叶鰕虎鱼	1
+dian fen li ji shu	电分离技术	1
+dian fen mei kou fu ye	淀粉酶口服液	1
+dian fen yang dan bai qian ti	淀粉样蛋白前体	1
+dian fen zhi huan	淀粉质环	1
+dian feng yuan chun xiang	点蜂缘椿象	1
+dian gong xin cun	电工新村	1
+dian gou qing bu jia	点沟青步甲	1
+dian guang shi ye	电广实业	1
+dian han zuo re	颠寒作热	1
+dian he zhong ji wang	电荷中继网	1
+dian hou	点后	1
+dian hua ling	滇华鲮	1
+dian hua qian zhui	电话前缀	1
+dian hua shuo	电话说	1
+dian hua xue ai zheng zhi liao ji	电化学癌症治疗机	1
+dian hua xue ce yang yi	电化学测氧仪	1
+dian huo	垫活	1
+dian huo	癫火	1
+dian huo xing kong	电火行空	1
+dian ji	点饥	1
+dian ji hua ceng xi	电极化层析	1
+dian jia ji ba weng	点颊姬霸鹟	1
+dian jia pei wei jian	电价配位键	1
+dian jiao tiao wang	踮脚眺望	1
+dian jie lin ding	碘解磷定	1
+dian jin bo liang	颠斤播两	1
+dian jin wu shu	点金无术	1
+dian jin zuo tie	点金作铁	1
+dian jiu xia yan chi	点酒下盐豉	1
+dian juan xing fei	电卷星飞	1
+dian keng pu gu xiang zhen jie	颠坑仆谷相枕藉	1
+dian lan lv se dian	靛蓝铝色淀	1
+dian lao shu	电烙术	1
+dian lian qiong kun	颠连穷困	1
+dian lian wu gao	颠连无告	1
+dian liu xing san	电流星散	1
+dian lu gai zhuang bao	电路改装包	1
+dian mian fu sha qiu	点面副沙鳅	1
+dian mian yi ce ding	电免疫测定	1
+dian mian yi kuo san	电免疫扩散	1
+dian mo	颠末	1
+dian nan mao bing du juan	滇南毛柄杜鹃	1
+dian nao jie	电脑堺	1
+dian nao shang	电脑商	1
+dian nei yang pin shi yong	店内样品试用	1
+dian ping cheng ying	点屏成蝇	1
+dian ping gai ban	电瓶盖板	1
+dian pu	颠仆	1
+dian pu bu mo	颠扑不磨	1
+dian pu bu sui	颠扑不碎	1
+dian pu liu li	颠仆流离	1
+dian pu luo an	碘普罗胺	1
+dian pu pa shou	店铺扒手	1
+dian qian pu she liang bian lou	殿前铺设两边楼	1
+dian qian shi hu die	滇黔石蝴蝶	1
+dian qian zhi du	典签制度	1
+dian qie liu jin gao	颠茄流浸膏	1
+dian shan lei ming bian	电闪雷鸣鞭	1
+dian shen mai ming	典身卖命	1
+dian shi	滇䴓	1
+dian shi gong hai	电视公害	1
+dian shi ju shi	电视剧室	1
+dian shi tai dui	电视台队	1
+dian shi yue bing	滇式月饼	1
+dian shou hua jiao	点手划脚	1
+dian shuang zhe she	电双折射	1
+dian tou dian nao	癫头癫脑	1
+dian tou song nao	颠头耸脑	1
+dian tou zhu yi	点头朱衣	1
+dian tuo li zi	电脱离子	1
+dian wan xin shi li	电玩新势力	1
+dian wei zhi yu	阽危之域	1
+dian wen duo ban dun wei yu	点纹多板盾尾鱼	1
+dian xi tao ye du juan	滇西桃叶杜鹃	1
+dian xi tuo wu	电洗脱物	1
+dian xian da jie chu	电线搭接处	1
+dian xin lu bei	电信路北	1
+dian xing fei jie he	典型肺结核	1
+dian xing min shi an li ping xi	典型民事案例评析	1
+dian xiong xi yan	点胸洗眼	1
+dian xun dian ying	电讯电影	1
+dian ying dao yan fang fa	电影导演方法	1
+dian yong chun de	电泳纯的	1
+dian yong ji shi ji	电泳级试剂	1
+dian yong xing zhi	电泳性质	1
+dian yuan ni wei mang chun	点缘拟猬盲蝽	1
+dian yue bu gong	颠越不恭	1
+dian ze jun ya	典则俊雅	1
+dian zhao feng xing	电照风行	1
+dian zhi hua jiao	点指划脚	1
+dian zhong huang hui die	滇中黄灰蝶	1
+dian zhu tao hua shu xiao hong	点注桃花舒小红	1
+dian zi ceng tui chi	电子层推斥	1
+dian zi er wo zhi ru shu	电子耳蜗植入术	1
+dian zi fu huo	电子俘获	1
+dian zi gong si	点子公司	1
+dian zi na ti	电子纳体	1
+dian zi tiao su wei xing yi bu dian dong ji tong yong ji shu tiao jian	电子调速微型异步电动机通用技术条件	1
+dian zu	典租	1

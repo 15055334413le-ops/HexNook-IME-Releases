@@ -1,0 +1,50 @@
+xing gao	行高	478
+xing neng fen xi	性能分析	473
+xing neng diao you	性能调优	440
+xing neng bi jiao	性能比较	437
+xing neng dui bi	性能对比	389
+xing nei yuan su	行内元素	388
+xing wei xing mo shi	行为型模式	378
+xing neng jian kong	性能监控	377
+xing neng ce shi gong ju	性能测试工具	358
+xing neng fen xi gong ju	性能分析工具	343
+xing ren jian ce	行人检测	318
+xing huan chong	行缓冲	292
+xing neng ji shu qi	性能计数器	270
+xing neng ping gu	性能评估	270
+xing bian ji	行编辑	266
+xing shi miao shu	形式描述	260
+xing zhuan lie	行转列	254
+xing wei shi bie	行为识别	251
+xing neng ping ce	性能评测	245
+xing neng guan li	性能管理	243
+xing sao miao	行扫描	242
+xing neng ya li	性能压力	232
+xing wei mo xing	行为模型	230
+xing neng ping jia	性能评价	229
+xing neng jian shi	性能监视	226
+xing zhuang te zheng	形状特征	225
+xing neng ce liang	性能测量	220
+xing ye shu ju	行业数据	219
+xing zhuang miao shu	形状描述	211
+xing lie zhuan huan	行列转换	209
+xing ye ruan jian	行业软件	209
+xing ye xin xi	行业信息	209
+xing ye qu shi	行业趋势	201
+xing cheng bian ma	行程编码	194
+xing neng zhen duan	性能诊断	193
+xing ji yi wang	星际译王	187
+xing bie shi bie	性别识别	171
+xing neng bao zheng	性能保证	170
+xing shi fang fa	形式方法	157
+xing neng ce shi fang mian	性能测试方面	156
+xing cheng zhang du bian ma	行程长度编码	148
+xing neng ce shi fen xi	性能测试分析	139
+xing shi yu yan li lun	形式语言理论	125
+xing di zhi xuan tong	行地址选通	120
+xing wei dong hua	行为动画	119
+xing cheng zhang du	行程长度	112
+xing ren shi bie	行人识别	112
+xing shi gui ze	形式规则	112
+xing zhuang qu xian	形状曲线	86
+xing zhuang yin zi	形状因子	86

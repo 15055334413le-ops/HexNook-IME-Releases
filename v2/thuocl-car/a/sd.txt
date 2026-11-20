@@ -1,0 +1,9 @@
+sdbsx	手动变速箱	645
+sdhh	手动豪华	435
+sdzx	随动转向	364
+sdkd	手动空调	340
+sdzxdd	随动转向大灯	155
+sdbsxy	手动变速箱油	71
+sdz	随动闸	59
+sdc	四档齿	45
+sdtbq	四档同步器	18

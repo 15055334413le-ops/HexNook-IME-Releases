@@ -1,0 +1,91 @@
+fen bu shi xi tong	分布式系统	570
+fen bu shi ji suan	分布式计算	501
+fen bu shi ying yong	分布式应用	472
+fen zhi fa	分治法	454
+fen bu shi cun chu	分布式存储	449
+fen bu shi huan cun	分布式缓存	446
+fen ye cha xun	分页查询	431
+fen bu shi shu ju ku	分布式数据库	423
+fen zhi he bing	分支合并	422
+fen bu shi shi wu	分布式事务	416
+fen lei suan fa	分类算法	415
+fen ye xian shi	分页显示	391
+fen ge zi fu chuan	分割字符串	386
+fen bu shi chu li	分布式处理	373
+fen bu shi ji qun	分布式集群	366
+fen ci qi	分词器	349
+fen zhi guan li	分支管理	348
+fen zhi jie gou	分支结构	337
+fen bu shi jia gou	分布式架构	336
+fen pei quan xian	分配权限	334
+fen bu shi fu wu	分布式服务	329
+fen xi han shu	分析函数	329
+fen zhi suan fa	分治算法	323
+fen zu cha xun	分组查询	322
+fen jie zhi yin shu	分解质因数	319
+fen ye ji zhi	分页机制	319
+fen bu shi xiao xi	分布式消息	307
+fen bie bian yi	分别编译	304
+fen zu jiao huan	分组交换	301
+fen bu ji suan	分布计算	295
+fen fa ji zhi	分发机制	287
+fen zhi si xiang	分治思想	285
+fen xi jie duan	分析阶段	282
+fen bu shi suan fa	分布式算法	277
+fen duan kong jian	分段控件	267
+fen zhi yu ce	分支预测	263
+fen bu shi kai fa	分布式开发	256
+fen zhi zhi ling	分支指令	255
+fen bu shi kuang jia	分布式框架	254
+fen shu gui hua	分数规划	254
+fen bu shi suo fu wu	分布式锁服务	246
+fen zu bei bao	分组背包	246
+fen bu shi ji shu	分布式技术	244
+fen bian lv shi pei	分辨率适配	241
+fen zu zhang du	分组长度	236
+fen zu mi ma	分组密码	235
+fen bu mo shi	分布模式	233
+fen bu shi pei zhi	分布式配置	233
+fen shi cao zuo xi tong	分时操作系统	232
+fen ye ji shu	分页技术	229
+fen ye lei	分页类	229
+fen zhi xian jie fa	分支限界法	224
+fen lei shi bie	分类识别	223
+fen ceng tu	分层图	221
+fen fa ying yong	分发应用	220
+fen shi diao du	分时调度	218
+fen shui ling suan fa	分水岭算法	215
+fen ceng bian li	分层遍历	214
+fen zhi fu gai	分支覆盖	214
+fen kuai cha zhao	分块查找	211
+fen fa ban	分发版	210
+fen bu shi wang zhan	分布式网站	206
+fen pei mo shi	分配模式	203
+fen pei dan wei	分配单位	202
+fen bu shi pa chong	分布式爬虫	188
+fen ye cheng xu	分页程序	183
+fen zu jiao huan wang	分组交换网	183
+fen jie zhi yin zi	分解质因子	182
+fen bu shi ji suan ji	分布式计算机	181
+fen bu dian rong	分布电容	179
+fen bu shi kong zhi	分布式控制	179
+fen zhi xian jie sou suo	分支限界搜索	179
+fen jie tou	分接头	168
+fen li yuan jian	分立元件	165
+fen xi shu xing	分析属性	164
+fen zu chuan song	分组传送	157
+fen pian mo shi	分片模式	144
+fen bu shi rong cuo	分布式容错	142
+fen pai cheng xu	分派程序	138
+fen kuai suan fa	分块算法	137
+fen bu shi pai xu	分布式排序	130
+fen shi chu li	分时处理	125
+fen duan biao zhi	分段标志	123
+fen bu shi duo mei ti	分布式多媒体	121
+fen xi gong ji	分析攻击	121
+fen san kong zhi	分散控制	120
+fen ji kong zhi	分级控制	119
+fen bu shi cun chu qi	分布式存储器	112
+fen bu tou ming xing	分布透明性	104
+fen jie xie diao	分解协调	96
+fen zhi tiao jian fu gai	分支条件覆盖	88

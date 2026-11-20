@@ -1,0 +1,34 @@
+xie ru wen jian	写入文件	655
+xie shu ju	写数据	647
+xie fang cha ju zhen	协方差矩阵	395
+xie fang wen	写访问	340
+xie tong kai fa	协同开发	323
+xie shi fu zhi	写时复制	322
+xie nei cun	写内存	320
+xie yi fen xi	协议分析	316
+xie yi gui fan	协议规范	315
+xie tong guo lv suan fa	协同过滤算法	289
+xie lv you hua	斜率优化	286
+xie yi jie xi	协议解析	286
+xie yi shu ju dan yuan	协议数据单元	283
+xie shi kao bei	写时拷贝	282
+xie yi zhuan huan	协议转换	271
+xie dao nei cun	写到内存	266
+xie tong cheng xu	协同程序	253
+xie zuo dui xiang	协作对象	248
+xie hou du	写后读	223
+xie yi xiang jie	协议详解	219
+xie zi duan	写字段	219
+xie tong chu li	协同处理	200
+xie diao cheng xu	协调程序	199
+xie diao kong zhi	协调控制	173
+xie zuo chu li	协作处理	164
+xie zuo huan jing	协作环境	151
+xie tong ji suan	协同计算	144
+xie yi shi ti	协议实体	133
+xie yi ying she	协议映射	129
+xie zhi da	写直达	118
+xie diao shi jie shi jian	协调世界时间	117
+xie huan jing bian liang	写环境变量	105
+xie bo xin hao	谐波信号	101
+xie yi shi bai	协议失败	96

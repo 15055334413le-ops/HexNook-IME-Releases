@@ -1,0 +1,40 @@
+dui xiang lei xing	对象类型	660
+dui nei cun	堆内存	649
+dui xiang yin yong	对象引用	649
+dui xiang chuang jian	对象创建	637
+dui xiang mo xing	对象模型	564
+dui xiang fang fa	对象方法	539
+dui xiang ming	对象名	529
+dui xiang shu zu	对象数组	514
+dui qu	堆区	499
+dui xiang zhi zhen	对象指针	494
+dui xiang chu shi hua	对象初始化	485
+dui xiang suo	对象锁	449
+dui xiang zhuang tai	对象状态	447
+dui xiang xu lie hua	对象序列化	439
+dui he zhan	堆和栈	435
+dui cheng jia mi	对称加密	434
+dui xiang chi	对象池	412
+dui cheng ju zhen	对称矩阵	336
+dui ying dian	对应点	325
+dui xiang gui dang	对象归档	278
+dui pai	堆排	273
+dui you hua	堆优化	266
+dui cheng mi ma	对称密码	263
+dui lie he zhan	队列和栈	257
+dui xiang biao shi fu	对象标识符	256
+dui xiang qing qiu dai li	对象请求代理	227
+dui hua xi tong	对话系统	205
+dui xiang jian mo	对象建模	203
+dui xiang guan li qi	对象管理器	193
+dui xiang lu jing	对象路径	192
+dui xiang zi dian	对象字典	181
+dui xiang shi	对象式	164
+dui cheng shu	对称树	141
+dui zhan bu ju	堆栈布局	135
+dui ou yuan li	对偶原理	114
+dui xiang guan li zu	对象管理组	108
+dui xiang guan li jie gou	对象管理结构	105
+dui xiang jian mo ji shu	对象建模技术	100
+dui hua mo xing	对话模型	94
+dui bi du kuo zhan	对比度扩展	91

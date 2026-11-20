@@ -1,0 +1,127 @@
+fu jin cheng	父进程	603
+fu dian xing	浮点型	601
+fu xie	覆写	553
+fu zhi wen jian	复制文件	545
+fu wu cheng xu	服务程序	543
+fu hao lian jie	符号链接	521
+fu wu qi pei zhi	服务器配置	512
+fu wu jin cheng	服务进程	480
+fu hao biao	符号表	476
+fu zhu han shu	辅助函数	423
+fu wu qi jiao hu	服务器交互	421
+fu zi jin cheng	父子进程	421
+fu wu qi ji qun	服务器集群	420
+fu wu qi xing neng	服务器性能	420
+fu wu qi ying yong	服务器应用	415
+fu zhi gou zao han shu	复制构造函数	415
+fu wu ti gong zhe	服务提供者	408
+fu wu qi ruan jian	服务器软件	404
+fu wu qi she zhi	服务器设置	391
+fu wu qi huan jing	服务器环境	367
+fu wu diao yong	服务调用	364
+fu wu kuang jia	服务框架	364
+fu he lei xing	复合类型	363
+fu zhi yun suan fu	赋值运算符	362
+fu li ye bian huan	傅里叶变换	353
+fu wu hua	服务化	349
+fu wu lie biao	服务列表	347
+fu wu qi cun chu	服务器存储	346
+fu he yu ju	复合语句	338
+fu ji yuan su	父级元素	330
+fu wu qi guan li	服务器管理	330
+fu li ye bian huan	傅立叶变换	329
+fu za shu ju lei xing	复杂数据类型	324
+fu zai jun heng ji shu	负载均衡技术	324
+fu wu qi da jian	服务器搭建	319
+fu zhi shu zu	复制数组	319
+fu wu qi mo xing	服务器模型	318
+fu zhi yu ju	赋值语句	317
+fu wu qi jia gou	服务器架构	315
+fu ye mian	父页面	315
+fu wen ben bian ji qi	富文本编辑器	311
+fu wu qi bu shu	服务器部署	311
+fu wu qi kong jian	服务器控件	303
+fu za du fen xi	复杂度分析	302
+fu wu qi wei hu	服务器维护	294
+fu yong qi	复用器	293
+fu dian shu yun suan	浮点数运算	290
+fu wu bu shu	服务部署	290
+fu wu qi kai fa	服务器开发	287
+fu jia shu ju ku	附加数据库	286
+fu wu qi duan bian cheng	服务器端编程	286
+fu wu duan kai fa	服务端开发	284
+fu wu li cheng	服务例程	282
+fu ben ji	副本集	279
+fu shu lei	复数类	278
+fu hao wen jian	符号文件	274
+fu wu qi she ji	服务器设计	273
+fu zhi cao zuo fu	赋值操作符	272
+fu wu ji qun	服务集群	270
+fu wu zhi li	服务治理	264
+fu wu qi bian cheng	服务器编程	263
+fu wu qi an quan	服务器安全	262
+fu wu qi ce shi	服务器测试	261
+fu zhu suo yin	辅助索引	259
+fu wu qi jian kong	服务器监控	250
+fu hao bian ma	符号编码	243
+fu wu duan bian cheng	服务端编程	242
+fu dian bian liang	浮点变量	238
+fu gai ce shi	覆盖测试	238
+fu wu duan jia gou	服务端架构	237
+fu wu qi bei fen	服务器备份	236
+fu wu qi wen ti	服务器问题	232
+fu li ye ji shu	傅里叶级数	228
+fu luo yi de suan fa	弗洛伊德算法	228
+fu hao ji suan	符号计算	219
+fu wu qi jia she	服务器架设	215
+fu za zhi ling ji	复杂指令集	213
+fu li ye fen xi	傅里叶分析	211
+fu wu qi you hua	服务器优化	207
+fu dian chang liang	浮点常量	205
+fu shu yun suan	复数运算	205
+fu wu miao shu yu yan	服务描述语言	203
+fu wu dui lie	服务队列	201
+fu zai dian zu	负载电阻	200
+fu dian yun suan dan yuan	浮点运算单元	193
+fu he kong jian	复合控件	193
+fu wu fang wen dian	服务访问点	193
+fu luo ji	负逻辑	189
+fu zhu cun chu qi	辅助存储器	188
+fu wu qi wang zhan	服务器网站	187
+fu zhi gou zao han shu	赋值构造函数	183
+fu zhu ping mian	辅助平面	179
+fu wu jie ru dian	服务接入点	173
+fu dong kuai	浮动块	171
+fu wu qi yun wei	服务器运维	165
+fu wu yuan yu	服务原语	165
+fu za du ji suan	复杂度计算	165
+fu zhu kai fa gong ju	辅助开发工具	165
+fu jia ren wu	附加任务	156
+fu se jian ce	肤色检测	156
+fu dian biao zhun	浮点标准	155
+fu wu chuang	服务窗	155
+fu hao zhi xing	符号执行	152
+fu wei mai chong	复位脉冲	149
+fu wu shu ju dan yuan	服务数据单元	148
+fu zai duan	负载端	146
+fu jia wen dang	附加文档	129
+fu hao luo ji	符号逻辑	128
+fu dian chu	浮点除	126
+fu zhu fu ben	辅助副本	123
+fu cheng yuan	父成员	122
+fu zhi bao hu	复制保护	115
+fu fei dian shi	付费电视	114
+fu zhi chuan bo	复制传播	114
+fu hao fen xi	符号分析	113
+fu wei xu lie	复位序列	113
+fu hao jian gan rao	符号间干扰	110
+fu za fu hao	复杂符号	110
+fu zhu ji	辅助集	110
+fu li ye miao shu zi	傅里叶描述子	109
+fu dian cheng	浮点乘	105
+fu dian chu li dan yuan	浮点处理单元	103
+fu shu cheng xu ji	附属程序集	103
+fu dian jia	浮点加	101
+fu wu xing cheng xu	服务性程序	98
+fu zhu duan	辅助段	96
+fu she du fang fa	辐射度方法	93

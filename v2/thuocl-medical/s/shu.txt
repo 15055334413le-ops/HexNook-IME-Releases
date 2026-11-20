@@ -1,0 +1,76 @@
+shu yao	鼠药	600
+shu di huang	熟地黄	322
+shu ye beng	输液泵	287
+shu luan guan yan	输卵管炎	264
+shu yi gan jun	鼠疫杆菌	256
+shu luan guan nian lian	输卵管粘连	253
+shu ye fan ying	输液反应	250
+shu tu zhuang xi bao	树突状细胞	228
+shu xue fan ying	输血反应	214
+shu luan guan ren shen	输卵管妊娠	196
+shu jin tong luo	舒筋通络	189
+shu le an ding	舒乐安定	189
+shu luan guan ji shui	输卵管积水	182
+shu luan guan jie zha shu	输卵管结扎术	176
+shu hou zhen tong	术后镇痛	169
+shu jing guan jie zha shu	输精管结扎术	167
+shu niao guan xia zhai	输尿管狭窄	160
+shu liang	薯莨	158
+shu ba tan	舒巴坦	142
+shu niao guan kuo zhang	输尿管扩张	142
+shu jiang zhi	舒降之	139
+shu xue ning zhu she ye	舒血宁注射液	132
+shu luan guan san	输卵管伞	125
+shu niao guan sun shang	输尿管损伤	125
+shu xue tong	疏血通	125
+shu xue tong zhu she ye	疏血通注射液	125
+shu luan guan wen he shu	输卵管吻合术	121
+shu song jie di zu zhi	疏松结缔组织	121
+shu luan guan jie he	输卵管结核	117
+shu luan guan tong ye shu	输卵管通液术	113
+shu niao guan ji xing	输尿管畸形	113
+shu dao zu zhi	输导组织	108
+shu gan jian wei wan	舒肝健胃丸	108
+shu liang xing zhuang	数量性状	108
+shu feng ding tong wan	疏风定痛丸	103
+shu jin huo xue pian	舒筋活血片	103
+shu jing guan yan	输精管炎	103
+shu luan guan tong shui	输卵管通水	103
+shu zhi zhuang xi bao	树枝状细胞	103
+shu bi li	舒必利	98
+shu jin huo luo jiu	舒筋活络酒	98
+shu jing guan fu tong shu	输精管复通术	91
+shu jing guan wen he shu	输精管吻合术	91
+shu jin ding tong pian	舒筋定痛片	84
+shu niao guan jing sui shi shu	输尿管镜碎石术	84
+shu gan zhi tong wan	舒肝止痛丸	76
+shu jing guan zao ying	输精管造影	76
+shu lin suan	舒林酸	76
+shu luan guan luan chao nong zhong	输卵管卵巢脓肿	76
+shu luan guan nang zhong	输卵管囊肿	76
+shu xin ning pian	舒心宁片	76
+shu fu zhi yang ding	舒肤止痒酊	66
+shu jin huo xue wan	舒筋活血丸	66
+shu jin jiao nang	舒筋胶囊	66
+shu liang yi chuan xue	数量遗传学	66
+shu luan guan ji nong	输卵管积脓	66
+shu mian jiao nang	舒眠胶囊	66
+shu niao guan qie kai qu shi shu	输尿管切开取石术	66
+shu qing zhang ai	述情障碍	66
+shu re gan mao ke li	暑热感冒颗粒	66
+shu shen jing sheng zhang yin zi	鼠神经生长因子	66
+shu tan luo	舒坦罗	66
+shu tong an tu mo ji	疏痛安涂膜剂	66
+shu xiong jiao nang	舒胸胶囊	66
+shu yu zao gan	薯蓣皂苷	66
+shu zhi chuan dao zu zhi	束支传导阻滞	66
+shu feng zai zao wan	疏风再造丸	51
+shu gan he wei wan	舒肝和胃丸	51
+shu gan wan	舒肝丸	51
+shu jin tong luo ke li	舒筋通络颗粒	51
+shu jing guan que ru	输精管缺如	51
+shu luan guan e xing zhong liu	输卵管恶性肿瘤	51
+shu luan guan fa yu yi chang	输卵管发育异常	51
+shu niao guan zhong liu	输尿管肿瘤	51
+shu shi gan mao ke li	暑湿感冒颗粒	51
+shu zheng	暑证	51

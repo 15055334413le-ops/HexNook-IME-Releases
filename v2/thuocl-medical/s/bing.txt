@@ -1,0 +1,76 @@
+bing yuan xue	病原学	706
+bing du xing gan yan	病毒性肝炎	662
+bing cong kou ru	病从口入	600
+bing lei chuan ran bing	丙类传染病	577
+bing du bing	病毒病	568
+bing mei sheng wu	病媒生物	500
+bing du xie dai zhe	病毒携带者	460
+bing du xing gan mao	病毒性感冒	447
+bing du xing fei yan	病毒性肺炎	358
+bing du xing xin ji yan	病毒性心肌炎	354
+bing yuan xie dai zhe	病原携带者	349
+bing du xing ji bing	病毒性疾病	348
+bing gan kang ti	丙肝抗体	347
+bing du kang ti	病毒抗体	327
+bing xing gan yan bing du	丙型肝炎病毒	312
+bing yin xue	病因学	298
+bing du ji yin zu	病毒基因组	293
+bing zhong qiu dan bai	丙种球蛋白	268
+bing li sheng li xue	病理生理学	256
+bing du xing nao mo yan	病毒性脑膜炎	253
+bing an suan an ji zhuan yi mei	丙氨酸氨基转移酶	249
+bing du xing jiao mo yan	病毒性角膜炎	239
+bing du xing chu xue re	病毒性出血热	231
+bing li xing gu zhe	病理性骨折	225
+bing du zuo	病毒唑	220
+bing tai ren ge	病态人格	207
+bing yuan sheng wu xue	病原生物学	196
+bing xing bing du xing gan yan	丙型病毒性肝炎	192
+bing tang yan wo	冰糖燕窝	191
+bing yang pi lin pian	丙氧匹林片	169
+bing yang an fen pian	丙氧氨酚片	167
+bing du xing chang yan	病毒性肠炎	165
+bing du xing jie mo yan	病毒性结膜炎	158
+bing du shou ti	病毒受体	153
+bing fa xing bai nei zhang	并发性白内障	153
+bing li dui zhao yan jiu	病例对照研究	153
+bing liu yang mi ding	丙硫氧嘧啶	153
+bing mi qin	丙咪嗪	153
+bing peng san	冰硼散	153
+bing du xing wei chang yan	病毒性胃肠炎	142
+bing li jie pou xue	病理解剖学	139
+bing po fen zhu she ye	丙泊酚注射液	129
+bing li xing tai xue	病理形态学	121
+bing li xing tou qie	病理性偷窃	121
+bing li fan she	病理反射	117
+bing li xing du bo	病理性赌博	117
+bing du li zi	病毒粒子	113
+bing huang shu	丙磺舒	113
+bing an suan zhuan an mei	丙氨酸转氨酶	103
+bing liu yang mi ding pian	丙硫氧嘧啶片	91
+bing cu suan rong ye	冰醋酸溶液	84
+bing suan lv bei ta suo ru gao	丙酸氯倍他索乳膏	84
+bing tong suan ji mei que fa zheng	丙酮酸激酶缺乏症	84
+bing wu suan na huan shi pian	丙戊酸钠缓释片	84
+bing an ka yin	丙胺卡因	76
+bing wu suan na pian	丙戊酸钠片	76
+bing du xing pi zhen	病毒性皮疹	66
+bing du xing yan yan	病毒性咽炎	66
+bing gu an	丙谷胺	66
+bing li jian yan ji shu	病理检验技术	66
+bing suan fu ti ka song	丙酸氟替卡松	66
+bing suan lv bei ta suo	丙酸氯倍他索	66
+bing wu suan mei	丙戊酸镁	66
+bing wu xian an pian	丙戊酰胺片	66
+bing dian jiang di fa	冰点降低法	51
+bing du yi chuan xue	病毒遗传学	51
+bing huang fu le ruan gao	冰黄肤乐软膏	51
+bing li xue ji chu	病理学基础	51
+bing liu yi yan an	丙硫异烟胺	51
+bing peng han pian	冰硼含片	51
+bing suan bei lv mi song	丙酸倍氯米松	51
+bing suan gao wan su	丙酸睾丸素	51
+bing wu suan mei huan shi pian	丙戊酸镁缓释片	51
+bing wu suan na kou fu ye	丙戊酸钠口服液	51
+bing yang an fen fu fang pian	丙氧氨酚复方片	51
+bing zhi shang tong qi wu ji	冰栀伤痛气雾剂	51

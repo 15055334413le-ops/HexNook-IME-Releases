@@ -1,0 +1,52 @@
+biao zhun shu chu	标准输出	648
+biao zhun shu ru	标准输入	621
+biao dan ti jiao	表单提交	546
+biao shi ceng	表示层	481
+biao qian ku	标签库	447
+biao qian ming	标签名	444
+biao dan yan zheng	表单验证	433
+biao lian jie	表连接	407
+biao zhun ku han shu	标准库函数	395
+biao guan lian	表关联	375
+biao da shi yu yan	表达式语言	369
+biao qian shu xing	标签属性	368
+biao zhun mo ban ku	标准模板库	365
+biao da shi ji suan	表达式计算	359
+biao zhun wen jian	标准文件	342
+biao zhun shu ru liu	标准输入流	334
+biao shi tu	表视图	332
+biao zhun shu chu liu	标准输出流	332
+biao fen qu	表分区	320
+biao shi tu	表示图	311
+biao zhun cheng xu ku	标准程序库	309
+biao ji bian liang	标记变量	276
+biao zhun yu yan	标准语言	264
+biao zhun cuo wu liu	标准错误流	261
+biao qian yang shi	标签样式	251
+biao ge bu ju	表格布局	249
+biao zhun dui xiang	标准对象	248
+biao qing shi bie	表情识别	241
+biao zhun shu chu wen jian	标准输出文件	227
+biao zhi fu hao	标志符号	222
+biao zhun shu ru wen jian	标准输入文件	221
+biao dan xiao yan	表单校验	215
+biao qian yun	标签云	212
+biao yue shu	表约束	209
+biao ji lei xing	标记类型	205
+biao qian ji	标签集	193
+biao zhun gong ju lan	标准工具栏	179
+biao ge kong jian	表格控件	175
+biao qian kuan du	标签宽度	175
+biao ti an niu	标题按钮	167
+biao zhun dan yuan	标准单元	162
+biao shi jian bie	标识鉴别	156
+biao bu ju	表布局	137
+biao zhun zhong duan	标准中断	129
+biao dan mei hua	表单美化	122
+biao qian fen zu	标签分组	116
+biao zhi xu lie	标志序列	108
+biao chu li yu yan	表处理语言	105
+biao liang chu li qi	标量处理器	103
+biao ge cao zuo	表格操作	100
+biao zhun chu li fang shi	标准处理方式	94
+biao mian an zhuang ji shu	表面安装技术	86

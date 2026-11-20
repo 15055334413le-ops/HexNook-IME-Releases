@@ -1,0 +1,6 @@
+mai chong kuan du	脉冲宽度	245
+mai zi xue yuan	麦子学院	198
+mai chong zao sheng	脉冲噪声	176
+mai chong pin lv	脉冲频率	156
+mai chong fu du	脉冲幅度	124
+mai dong zhen lie	脉动阵列	86

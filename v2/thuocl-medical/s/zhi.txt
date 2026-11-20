@@ -1,0 +1,154 @@
+zhi liao shi	治疗室	647
+zhi qi guan xiao chuan	支气管哮喘	624
+zhi bing wei sheng wu	致病微生物	518
+zhi ye zhu li yi shi	执业助理医师	492
+zhi dian	止点	474
+zhi ai zuo yong	致癌作用	458
+zhi ye bao lu	职业暴露	448
+zhi ye kang fu	职业康复	440
+zhi ti ma mu	肢体麻木	434
+zhi qi guan kuo zhang	支气管扩张	411
+zhi qi guan fei yan	支气管肺炎	397
+zhi jie si yin	直接死因	392
+zhi neng zhang ai	智能障碍	348
+zhi rong xing wei sheng su	脂溶性维生素	332
+zhi wu zhuang tai	植物状态	310
+zhi qi guan jing luan	支气管痉挛	296
+zhi yuan ti gan ran	支原体感染	284
+zhi xin ai ren	知心爱人	281
+zhi xue qian	止血钳	262
+zhi shi	枳实	259
+zhi kang	支抗	253
+zhi yi xing tuo fa	脂溢性脱发	253
+zhi qi guan jing jian cha	支气管镜检查	235
+zhi duan fei da zheng	肢端肥大症	222
+zhi tong gao	止痛膏	221
+zhi chang tuo chui	直肠脱垂	220
+zhi yuan ti fei yan	支原体肺炎	220
+zhi ai yin zi	致癌因子	216
+zhi bai di huang wan	知柏地黄丸	216
+zhi pu fa	质谱法	216
+zhi gu gu zhe	趾骨骨折	214
+zhi ye xing zhong liu	职业性肿瘤	213
+zhi chang yan	直肠炎	211
+zhi gu gu zhe	跖骨骨折	211
+zhi gu gu zhe	指骨骨折	210
+zhi pi shu	植皮术	207
+zhi tu bian zuo yong	致突变作用	207
+zhi zhu yao shang	蜘蛛咬伤	204
+zhi ye xing pi fu bing	职业性皮肤病	202
+zhi shou wu	制首乌	194
+zhi wu dai	植物带	192
+zhi zi beng	质子泵	192
+zhi fang shuan se	脂肪栓塞	185
+zhi he shou wu	制何首乌	185
+zhi juan ku wen	致倦库蚊	185
+zhi duo tang	脂多糖	182
+zhi fang ru	脂肪乳	182
+zhi bei dai	植被带	176
+zhi ji wu	致畸物	176
+zhi bing qiu ben	治病求本	171
+zhi qi guan fei fa yu bu liang	支气管肺发育不良	169
+zhi he su	脂褐素	167
+zhi chi guan zhou yan	智齿冠周炎	165
+zhi ke chuan bei pi pa lu	治咳川贝枇杷露	163
+zhi zheng	支正	163
+zhi gu shu	植骨术	160
+zhi huang qi	炙黄芪	160
+zhi chi dai	支持带	158
+zhi qu	跖屈	150
+zhi chang yin dao lou	直肠阴道瘘	147
+zhi fang jin run	脂肪浸润	147
+zhi mei jun su	制霉菌素	147
+zhi shi	志室	147
+zhi tuo	支托	147
+zhi jue zhang ai	知觉障碍	145
+zhi ai yuan	致癌原	139
+zhi min zuo yong	致敏作用	139
+zhi mo yan	脂膜炎	139
+zhi shan	直疝	139
+zhi wu la	植物蜡	139
+zhi xue ji	止血剂	135
+zhi chang gei yao	直肠给药	132
+zhi ye xing xiao chuan	职业性哮喘	132
+zhi you	跖疣	132
+zhi zi jin hua wan	栀子金花丸	132
+zhi qi guan ji fa shi yan	支气管激发试验	129
+zhi liu	脂瘤	125
+zhi wu xue ning su	植物血凝素	125
+zhi xuan an shen ke li	止眩安神颗粒	125
+zhi cao wu	制草乌	121
+zhi chan	滞产	117
+zhi chang xian	直肠腺	117
+zhi huan jia	置换价	117
+zhi chi xing xin li zhi liao	支持性心理治疗	113
+zhi chuang zhi xue ke li	痔疮止血颗粒	113
+zhi fang chou xi shu	脂肪抽吸术	113
+zhi wu jian	植物碱	113
+zhi ya zhi xue fa	指压止血法	113
+zhi yi xing jiao hua bing	脂溢性角化病	113
+zhi chang nian mo tuo chui	直肠粘膜脱垂	108
+zhi jie dan hong su	直接胆红素	108
+zhi ke pian	止咳片	108
+zhi shang ruan gao	治伤软膏	108
+zhi xue san	止血散	108
+zhi gan cao tang	炙甘草汤	103
+zhi mi jie di zu zhi	致密结缔组织	103
+zhi qi guan shu zhang shi yan	支气管舒张试验	103
+zhi bao san bian wan	至宝三鞭丸	98
+zhi gu tong	跖骨痛	98
+zhi shu wan	枳术丸	91
+zhi wu ning ji su	植物凝集素	91
+zhi yao gong cheng she ji	制药工程设计	91
+zhi fang ying yang bu liang	脂肪营养不良	84
+zhi ke chuan bei pi pa di wan	治咳川贝枇杷滴丸	84
+zhi ke ding chuan wan	止咳定喘丸	84
+zhi mei jun su pian	制霉菌素片	84
+zhi mei su	制霉素	84
+zhi qi guan jie shi	支气管结石	84
+zhi qi guan xiong mo lou	支气管胸膜瘘	84
+zhi yang xue	至阳穴	84
+zhi bao san bian jiu	至宝三鞭酒	76
+zhi bi tuo pian	脂必妥片	76
+zhi fang xi shou bu liang	脂肪吸收不良	76
+zhi ke bao pian	止咳宝片	76
+zhi qi ke li	智杞颗粒	76
+zhi shi dao zhi wan	枳实导滞丸	76
+zhi xue jiao nang	痔血胶囊	76
+zhi ye xing bai nei zhang	职业性白内障	76
+zhi ye xing cuo chuang	职业性痤疮	76
+zhi yin xue	至阴穴	76
+zhi zhi	跖趾	76
+zhi bei tu	植被图	66
+zhi fang liu qie chu shu	脂肪瘤切除术	66
+zhi fang ru zhu she ye	脂肪乳注射液	66
+zhi gan jia pian	治感佳片	66
+zhi he jun shu	志贺菌属	66
+zhi jiang ning pian	脂降宁片	66
+zhi tong tou gu gao	止痛透骨膏	66
+zhi wen	脂纹	66
+zhi wen fa	指纹法	66
+zhi zhi guan jie tuo wei	跖趾关节脱位	66
+zhi bai di huang ke li	知柏地黄颗粒	51
+zhi chang yin dao lou xiu bu shu	直肠阴道瘘修补术	51
+zhi chuan ling qi wu ji	止喘灵气雾剂	51
+zhi dan bai xue zheng	脂蛋白血症	51
+zhi ji xi ye	痔疾洗液	51
+zhi jue heng chang xing	知觉恒常性	51
+zhi kang jiao nang	致康胶囊	51
+zhi ke hua tan wan	止咳化痰丸	51
+zhi ke ju hong jiao nang	止咳橘红胶囊	51
+zhi ke ju hong ke li	止咳橘红颗粒	51
+zhi ke ju hong kou fu ye	止咳橘红口服液	51
+zhi mai kang jiao nang	脂脉康胶囊	51
+zhi mi ling shuan	治糜灵栓	51
+zhi pian tong ke li	治偏痛颗粒	51
+zhi shang xiao yu wan	治伤消瘀丸	51
+zhi sou hua tan ke li	止嗽化痰颗粒	51
+zhi sou qing guo wan	止嗽青果丸	51
+zhi sou san	止嗽散	51
+zhi sou sao tan wan	止嗽扫痰丸	51
+zhi xie ke li	止泻颗粒	51
+zhi yang xiao yan shui	止痒消炎水	51
+zhi you	趾疣	51
+zhi zi gan	栀子苷	51

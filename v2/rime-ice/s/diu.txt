@@ -1,0 +1,161 @@
+diu shi	丢失	264255
+diu le	丢了	100095
+diu le ba	丢了吧	100095
+diu le ma	丢了吗	100095
+diu diao	丢掉	58460
+diu qi	丢弃	45780
+diu xia	丢下	38555
+diu shi le	丢失了	36955
+diu ren	丢人	30710
+diu lian	丢脸	29335
+diu zai	丢在	27325
+diu dao	丢到	14755
+diu fan wan	丢饭碗	9999
+diu jin	丢进	9999
+diu ju bao shuai	丢车保帅	9999
+diu ru	丢入	9999
+diu shou	丢手	9999
+diu si ren	丢死人	9999
+diu si ren le	丢死人了	9999
+diu yan se	丢眼色	9999
+diu diu	丢丢	9355
+diu de	丢的	9230
+diu gei	丢给	9115
+diu qiang	丢枪	6666
+diu bao	丢包	6015
+diu kai	丢开	5555
+diu ren xian yan	丢人现眼	5195
+diu jin	丢尽	4945
+diu fen	丢分	4720
+diu mian zi	丢面子	4715
+diu qian	丢钱	4250
+diu qi le	丢弃了	3960
+diu san la si	丢三落四	3950
+diu qiu	丢球	3670
+diu xia wo	丢下我	3555
+diu la	丢啦	3333
+diu la ji	丢垃圾	3333
+diu dong xi	丢东西	2365
+diu bu qi	丢不起	1940
+diu kui xie jia	丢盔卸甲	1875
+diu le xi gua	丢了西瓜	1800
+diu guang	丢光	1755
+diu de	丢得	1725
+diu zhen	丢帧	1565
+diu shi zai	丢失在	1560
+diu guan	丢官	1405
+diu chu	丢出	1111
+diu dao	丢刀	1111
+diu ni	丢你	1111
+diu ya	丢呀	1111
+diu fan tu	丢番图	989
+diu xia qu	丢下去	940
+diu chou	丢丑	865
+diu bu liao	丢不了	790
+diu zu bao ju	丢卒保车	480
+diu zhi	丢掷	430
+diu shi hu kou ben	丢失户口本	420
+diu ji neng	丢技能	382
+diu shen me	丢什么	372
+diu zha dan	丢炸弹	330
+diu huang	丢荒	305
+diu xia bu guan	丢下不管	265
+diu de qi	丢得起	215
+diu jin lian mian	丢尽脸面	200
+diu ren a	丢人啊	188
+diu le xi gua jian zhi ma	丢了西瓜捡芝麻	185
+diu diao huan xiang	丢掉幻想	182
+diu la ji tong	丢垃圾桶	170
+diu kui qi jia	丢盔弃甲	155
+diu wu sha mao	丢乌纱帽	150
+diu que	丢却	120
+diu fen er	丢份儿	115
+diu fen	丢份	111
+diu zhi	丢置	105
+diu bao lv	丢包率	100
+diu bao shu	丢包术	100
+diu bu de	丢不得	100
+diu bu diu ren	丢不丢人	100
+diu chu qu	丢出去	100
+diu diao le gong zuo	丢掉了工作	100
+diu fan tu fang cheng	丢番图方程	100
+diu ge dan	丢个蛋	100
+diu he dan	丢核弹	100
+diu hui lai	丢回来	100
+diu hun luo po	丢魂落魄	100
+diu jin la ji tong	丢进垃圾桶	100
+diu jin le	丢进了	100
+diu jin le la ji tong	丢进了垃圾桶	100
+diu jin le lian	丢尽了脸	100
+diu jin le lian mian	丢尽了脸面	100
+diu jin qu	丢进去	100
+diu le ai qing	丢了爱情	100
+diu le ban tiao ming	丢了半条命	100
+diu le dong xi	丢了东西	100
+diu le fan wan	丢了饭碗	100
+diu le gong zuo	丢了工作	100
+diu le hai zi	丢了孩子	100
+diu le hun	丢了魂	100
+diu le hun er	丢了魂儿	100
+diu le ke xi	丢了可惜	100
+diu le lian	丢了脸	100
+diu le lian mian	丢了脸面	100
+diu le mian zi	丢了面子	100
+diu le ming	丢了命	100
+diu le ni	丢了你	100
+diu le qian	丢了钱	100
+diu le ren	丢了人	100
+diu le shen fen zheng	丢了身份证	100
+diu le shen me	丢了什么	100
+diu le shou ji	丢了手机	100
+diu le ta	丢了他	100
+diu le wo	丢了我	100
+diu le xin	丢了心	100
+diu le xing fu de zhu	丢了幸福的猪	100
+diu le xing ming	丢了性命	100
+diu le yan mian	丢了颜面	100
+diu le yi ke	丢了一颗	100
+diu le yi zhi	丢了一只	100
+diu le zi ji	丢了自己	100
+diu mei nong yan	丢眉弄眼	100
+diu ni lao mu	丢你老母	100
+diu qi lai	丢起来	100
+diu qiao zhen	丢巧针	100
+diu ren le	丢人了	100
+diu ru shui zhong	丢入水中	100
+diu san wang si	丢三忘四	100
+diu sha bao	丢沙包	100
+diu shang lai	丢上来	100
+diu shang qu	丢上去	100
+diu shi di dian	丢失地点	100
+diu shi ge shi	丢失格式	100
+diu shi le zi ji	丢失了自己	100
+diu shi lv	丢失率	100
+diu shi mo shi	丢失模式	100
+diu shou bu guan	丢手不管	100
+diu shou juan	丢手绢	100
+diu ti mian	丢体面	100
+diu xia bi	丢下笔	100
+diu xia lai	丢下来	100
+diu yuan su	铥元素	100
+diu zai nao hou	丢在脑后	100
+diu zhi bu guan	丢置不管	100
+diu le ge yan se	丢了个眼色	95
+diu shi qiang zhi bu bao zui	丢失枪支不报罪	20
+diu xiao xi	丢消息	12
+diu zi jie	丢字节	12
+diu hun shi po	丢魂失魄	8
+diu qi dao ju	丢弃道具	3
+diu diu xiu xiu	丢丢秀秀	1
+diu feng sa jiao	丢风撒脚	1
+diu hun diu po	丢魂丢魄	1
+diu hun sang dan	丢魂丧胆	1
+diu kui pao jia	丢盔抛甲	1
+diu le bang	丢了棒	1
+diu mao la xie	丢帽拉鞋	1
+diu mao luo xie	丢帽落鞋	1
+diu mei diu yan	丢眉丢眼	1
+diu mei nong se	丢眉弄色	1
+diu xin la yi	丢心拉意	1
+diu xin luo chang	丢心落肠	1
+diu xin luo yi	丢心落意	1

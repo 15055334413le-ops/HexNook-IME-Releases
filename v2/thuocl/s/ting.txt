@@ -1,0 +1,106 @@
+ting che chang	停车场	75703
+ting zhi	停职	18907
+ting zhi	停滞	17542
+ting er zou xian	铤而走险	11292
+ting xin liu zhi	停薪留职	6680
+ting pai	停牌	5807
+ting jue	听觉	4748
+ting qian	庭前	3948
+ting shen er chu	挺身而出	3512
+ting zhi ren zhi	听之任之	2433
+ting gong liu xin qi	停工留薪期	2319
+ting ting	婷婷	2030
+ting zhi xian cheng	停止线程	1911
+ting ban	停板	1873
+ting tai lou ge	亭台楼阁	1407
+ting zai zhou	艇仔粥	1317
+ting ting yu li	亭亭玉立	1123
+ting zhen qi	听诊器	1053
+ting tian you ming	听天由命	934
+ting zhen	听诊	586
+ting zhi xin hao	停止信号	492
+ting er bu wen	听而不闻	278
+ting lin	亭林	172
+ting ji wen ti	停机问题	101
+ting kao chuang kou	停靠窗口	101
+ting xia	亭下	97
+ting qu wa sheng yi pian	听取蛙声一片	77
+ting che zuo ai feng lin wan	停车坐爱枫林晚	67
+ting xin liu zhi he tong	停薪留职合同	62
+ting ping xiang	汀坪乡	61
+ting yuan shen shen shen ji xu	庭院深深深几许	60
+ting shang	厅上	59
+ting ding	亭顶	53
+ting shen jing liu	听神经瘤	53
+ting xiang	汀湘	42
+ting qi zi ran	听其自然	32
+ting li zi	葶苈子	29
+ting qi yan er guan qi xing	听其言而观其行	29
+ting xiao gu	听小骨	29
+ting jue zhong shu	听觉中枢	28
+ting che chang lu kou	停车场路口	26
+ting nan	亭南	26
+ting zhou	汀洲	25
+ting yao fan ying	停药反应	21
+ting yu	廷玉	16
+ting tao ya yuan	听涛雅苑	15
+ting tao yuan	听涛园	13
+ting huan jue	听幻觉	9
+ting bei tou zhu bu neng shi	停杯投箸不能食	8
+ting qi yan er xin qi xing	听其言而信其行	8
+ting bei	亭北	7
+ting li cao ke li	葶苈草颗粒	7
+ting qian	町前	7
+ting shan	亭山	7
+ting xing nao gan fan ying	听性脑干反应	7
+ting chuan zan jie wen	停船暂借问	6
+ting hui xue	听会穴	6
+ting jiao	汀角	6
+ting jue guo min	听觉过敏	6
+ting ye tong zhi shu	停业通知书	6
+ting you pi pa shu	庭有枇杷树	6
+ting zhong you qi shu	庭中有奇树	6
+ting dong	亭东	5
+ting qian hui yi zhi du	庭前会议制度	5
+ting chang xin fan yang liu zhi	听唱新翻杨柳枝	4
+ting gong	听宫	4
+ting qian shao yao yao wu ge	庭前芍药妖无格	4
+ting shu seng jun tan qin	听蜀僧浚弹琴	4
+ting qian ba yue li zao shu	庭前八月梨枣熟	3
+ting shang bai sha kan bu jian	汀上白沙看不见	3
+ting ting ru che gai	亭亭如车盖	3
+ting ting wu zhang yu	亭亭五丈余	3
+ting ting yue jiang yuan	亭亭月将圆	3
+ting xia ru ji shui kong ming	庭下如积水空明	3
+ting zi qiao cun	亭子桥村	3
+ting chuan	亭川	2
+ting dian	亭店	2
+ting dian she qu	亭店社区	2
+ting jiao	亭脚	2
+ting jue shi ying	听觉适应	2
+ting qi yan ye li	听其言也厉	2
+ting ting shan shang song	亭亭山上松	2
+ting xi	亭西	2
+ting cao an hua hun bu jian	汀草岸花浑不见	1
+ting cao chun shen shou dai zhang	庭草春深绶带长	1
+ting ci han chong hao	听此寒虫号	1
+ting cun	汀村	1
+ting ding cun	亭顶村	1
+ting du	亭读	1
+ting feng ting yu guo qing ming	听风听雨过清明	1
+ting fu qian zhi ci	听妇前致词	1
+ting he pu xiang	停河铺乡	1
+ting jiang dong lu	汀江东路	1
+ting ka xiang	庭卡乡	1
+ting shu chao ying wu	庭树巢鹦鹉	1
+ting shu seng jun tan qin	听蜀僧濬弹琴	1
+ting xi yuan	听溪园	1
+ting xia shui lian kong	亭下水连空	1
+ting xuan ji mo jin qing ming	庭轩寂寞近清明	1
+ting xue dao yao mai bu si	庭雪到腰埋不死	1
+ting yuan an yu zha xie	庭院暗雨乍歇	1
+ting zhi zhi xing si xing cheng xu	停止执行死刑程序	1
+ting zhou yi mian	汀州伊面	1
+ting zi zhuang	亭自庄	1
+ting nang wei zhi wei xian chong	听囊伪直尾线虫	0
+ting yuan da wo niu	庭院大蜗牛	0

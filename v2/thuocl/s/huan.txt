@@ -1,0 +1,274 @@
+huan bao	环保	243716
+huan zhe	患者	195788
+huan qiu	环球	186290
+huan jie	缓解	174909
+huan ying	幻影	130315
+huan jing bian liang	环境变量	78482
+huan qiu shi bao	环球时报	23795
+huan hang fu	换行符	23183
+huan ran yi xin	焕然一新	10740
+huan cun ji zhi	缓存机制	9449
+huan jing da jian	环境搭建	8981
+huan jing pei zhi	环境配置	8671
+huan ju yi tang	欢聚一堂	7632
+huan cun wen jian	缓存文件	6970
+huan jue	幻觉	6024
+huan ye	换页	4920
+huan cun ce lve	缓存策略	4772
+huan chong chi	缓冲池	4107
+huan jing bian liang pei zhi	环境变量配置	4030
+huan shan	环山	3962
+huan le gu	欢乐谷	3896
+huan cun xi tong	缓存系统	3633
+huan qi	换气	3527
+huan jing bian liang she zhi	环境变量设置	3372
+huan cun fu wu qi	缓存服务器	3316
+huan xin gu wu	欢欣鼓舞	3239
+huan chong qu yi chu	缓冲区溢出	3101
+huan ben fu xi	还本付息	2890
+huan chu	换出	2850
+huan chong qu	缓冲区	2556
+huan chong qi	缓冲器	2537
+huan jing she zhi	环境设置	2392
+huan ying jie mian	欢迎界面	2340
+huan wei chu	环卫处	2329
+huan jing ying xiang ping jia fa	环境影响评价法	2304
+huan jing xue yuan	环境学院	2193
+huan wei ju	环卫局	2121
+huan xing deng dai	唤醒等待	2001
+huan nan yu gong	患难与共	1931
+huan tian xi di	欢天喜地	1776
+huan cheng lu	环城路	1732
+huan chong liu	缓冲流	1728
+huan tang bu huan yao	换汤不换药	1643
+huan cun kuang jia	缓存框架	1601
+huan jing an zhuang	环境安装	1520
+huan jing guang	环境光	1403
+huan cheng xi lu	环城西路	1186
+huan de huan shi	患得患失	1175
+huan cheng bei lu	环城北路	1053
+huan ben	还本	1015
+huan fang dong ye	换防冻液	1007
+huan cheng nan lu	环城南路	967
+huan cheng dong lu	环城东路	826
+huan jing yu zi yuan bao hu fa	环境与资源保护法	802
+huan chong ji shu	缓冲技术	796
+huan xing dui lie	环形队列	751
+huan dao lu	环岛路	729
+huan jing wen ti	环境问题	719
+huan fa qing chun	焕发青春	717
+huan hui	换汇	672
+huan bing zhi ji	缓兵之计	662
+huan chong qu fen pei	缓冲区分配	617
+huan dong	缓动	572
+huan jing wen du	环境温度	556
+huan shi dong lu	环市东路	445
+huan chong qu guan li	缓冲区管理	441
+huan sheng lei dong	欢声雷动	420
+huan xing jin du tiao	环形进度条	414
+huan shi xi lu	环市西路	408
+huan tai	桓台	406
+huan xi	环西	363
+huan bei	环北	353
+huan xi yuan jia	欢喜冤家	330
+huan chong ji cun qi	缓冲寄存器	286
+huan chong jiao	缓冲胶	282
+huan xin	焕新	272
+huan yang shu zhi	环氧树脂	269
+huan jie qi	缓解期	265
+huan nan fu qi	患难夫妻	263
+huan nan zhi jiao	患难之交	259
+huan xing huan chong	环形缓冲	248
+huan ren	桓仁	234
+huan cui	环翠	227
+huan dong	环东	227
+huan jin	换进	218
+huan yang yi wan	环氧乙烷	206
+huan chong cun chu qi	缓冲存储器	203
+huan zhong	环中	188
+huan bing sha xing	环丙沙星	173
+huan qiao	环桥	172
+huan shi	幻视	172
+huan hu dong lu	环湖东路	169
+huan xi tuo	欢喜坨	166
+huan yuan ji	还原剂	166
+huan hu que yue	欢呼雀跃	153
+huan shu	幻术	146
+huan zhi	环指	146
+huan bu ji ji	缓不济急	138
+huan shi jiao nang	缓释胶囊	138
+huan gu	换股	132
+huan beng luan tiao	欢蹦乱跳	128
+huan jiang xian	环江县	122
+huan zhuang hu jing	环状糊精	120
+huan qi gong nong qian bai wan	唤起工农千百万	118
+huan qiu tong ci liang re	环球同此凉热	114
+huan jing ying she	环境映射	109
+huan bei shi chang	环北市场	102
+huan wo he shan	还我河山	102
+huan yao shi	换药室	99
+huan jing xin xi gong kai zhi du	环境信息公开制度	98
+huan jing bian cheng	环境编程	96
+huan zhen	环镇	96
+huan ji ji an ji huang suan na	环己基氨基磺酸钠	93
+huan jing wei sheng xue	环境卫生学	92
+huan wen	桓温	81
+huan yu pai	环宇牌	77
+huan shou lv	换手率	76
+huan wei che dui	环卫车队	74
+huan dao dong lu	环岛东路	71
+huan qiu qi ye jia	环球企业家	70
+huan fei yan shou	环肥燕瘦	67
+huan ji tong	环己酮	67
+huan zhuan	环转	67
+huan dao	寰岛	64
+huan hu xi lu	环湖西路	55
+huan yuan mei	还原酶	54
+huan ke yuan	环科园	52
+huan qiu cai jing	环球财经	52
+huan chong ye	缓冲液	48
+huan lin xian an	环磷酰胺	48
+huan hua lu	浣花路	47
+huan bao su	环孢素	46
+huan shu guan jie	寰枢关节	44
+huan qiu ji tuan	环球集团	43
+huan dang dian ci fa	换挡电磁阀	38
+huan xuan	桓玄	38
+huan yu gong si	环宇公司	37
+huan tong cha	还童茶	34
+huan dao xi lu	环岛西路	33
+huan zhen bei lu	环镇北路	31
+huan jing xin fang ban fa	环境信访办法	29
+huan cui lu	环翠路	28
+huan hai fu chen	宦海浮沉	28
+huan ji an	环己胺	28
+huan sha lu kou	浣纱路口	28
+huan zhi tong	幻肢痛	28
+huan hu zhong lu	环湖中路	26
+huan bu zhi ren ye	患不知人也	25
+huan cheng xi lu bei duan	环城西路北段	25
+huan feng	环峰	25
+huan tiao	环跳	25
+huan lin	环林	24
+huan hu lei dong	欢呼雷动	23
+huan qi men dao guan	换气门导管	23
+huan shi zhi ji	缓释制剂	23
+huan shi nan lu	环市南路	22
+huan nan xiang xu	患难相恤	21
+huan le dong man	欢乐动漫	20
+huan qiu le yuan	环球乐园	19
+huan cheng xiao xue	环城小学	18
+huan ke	鹮科	18
+huan chong zhuang zhi	缓冲装置	17
+huan jing zi yuan fa lun cong	环境资源法论丛	17
+huan shan cun	环山村	17
+huan xiang he xian shi	幻想和现实	17
+huan tan	桓谭	16
+huan qiu da jiu dian	环球大酒店	14
+huan bao su ruan jiao nang	环孢素软胶囊	13
+huan lin xian gan zhu she ye	环磷腺苷注射液	13
+huan chi	环池	12
+huan jing min shi jiu fen	环境民事纠纷	12
+huan jing xing zheng zhi fa xing wei	环境行政执法行为	12
+huan shu	环枢	12
+huan yang hua mei	环氧化酶	12
+huan chu jie shan ye	环滁皆山也	11
+huan xi xin cun	环西新村	11
+huan zheng qian fa shou xu	换证签发手续	11
+huan yi	桓彝	10
+huan zhuang ruan gu	环状软骨	9
+huan bao su jiao nang	环孢素胶囊	8
+huan sha lu	浣沙路	8
+huan chui gu zhe	寰椎骨折	7
+huan si an suan	环丝氨酸	7
+huan dang suo zhi dian ci fa	换挡锁止电磁阀	6
+huan di	环堤	6
+huan jing yu zi ran zi yuan fa	环境与自然资源法	6
+huan shan she qu	环山社区	6
+huan shui dao	环水道	6
+huan tai xian yan cao zhuan mai ju	桓台县烟草专卖局	6
+huan bing yun tong	环丙孕酮	5
+huan jue fan	幻觉犯	5
+huan le qian zhen di chang	换了浅斟低唱	5
+huan lin xian an zhu she ye	环磷酰胺注射液	5
+huan shi tong zhuang jiao yi zhong xin	环市童装交易中心	5
+huan bao jun su	环孢菌素	4
+huan cheng xi er lu	环城西二路	4
+huan cheng xi yi lu	环城西一路	4
+huan lin xi lu	环林西路	4
+huan qing	环清	4
+huan tan zhen	澴潭镇	4
+huan xing tie dao	环行铁道	4
+huan yu ti yu	环宇体育	4
+huan yuan gu jing wan	还原固精丸	4
+huan yuan xing gu guang gan tai	还原型谷胱甘肽	4
+huan hu li	环湖里	3
+huan kang ji tuan	环康集团	3
+huan lin suan niao gan	环磷酸鸟苷	3
+huan nan yi da dao	环南一大道	3
+huan sheng xiang	欢胜乡	3
+huan zhi hong mei su	环酯红霉素	3
+huan bei jie dao	洹北街道	2
+huan bing sha xing zhu she ye	环丙沙星注射液	2
+huan chu wen jun yu xue tao	幻出文君与薛涛	2
+huan jie	桓阶	2
+huan jing nan lu	环景南路	2
+huan le ji xi ai qing duo	欢乐极兮哀情多	2
+huan ling xiang	环岭乡	2
+huan lou cun	幻溇村	2
+huan qi men zuo quan	换气门座圈	2
+huan sha ming yue xia	浣纱明月下	2
+huan xiao qing ru jiu	欢笑情如旧	2
+huan xin hu tong	焕新胡同	2
+huan xin mei	欢心美	2
+huan xing hong ban	环形红斑	2
+huan zhou xiang	环州乡	2
+huan zui yu	鹮嘴鹬	2
+huan ai bu xiang wang	欢爱不相忘	1
+huan bei jie dao	环北街道	1
+huan ben nong chang	环本农场	1
+huan bing fu pai suan	环丙氟哌酸	1
+huan bing sha xing di yan ye	环丙沙星滴眼液	1
+huan bing sha xing pian	环丙沙星片	1
+huan bing wan	环丙烷	1
+huan de dong jia zhong shu shu	换得东家种树书	1
+huan fan	桓范	1
+huan ge man wu ning si zhu	缓歌慢舞凝丝竹	1
+huan hua kong shen ji fa shen	幻化空身即法身	1
+huan ji ji bing suan xi bing zhi	环己基丙酸烯丙酯	1
+huan jing bei lu	环景北路	1
+huan jue cuo wu	幻觉错误	1
+huan le nan ju chen	欢乐难具陈	1
+huan pei kong gui yue ye hun	环佩空归月夜魂	1
+huan qi bu neng ye	患其不能也	1
+huan qi liang mou qing jiong jiong	唤起两眸清炯炯	1
+huan qi yi tian ming yue	唤起一天明月	1
+huan qing she qu	环清社区	1
+huan qu gui lai tong zhu	唤取归来同住	1
+huan shi dong lu tian qiao	环市东路天桥	1
+huan tie she qu	环铁社区	1
+huan tong xiang jiang nan cun	环通乡江南村	1
+huan tu	圜土	1
+huan xi yuan	环西苑	1
+huan xian gan suan	环腺苷酸	1
+huan you zhi song jiang ru hai	宦游直送江入海	1
+huan yu hen bai tou	欢娱恨白头	1
+huan zhen guan jie	寰枕关节	1
+huan zhi hong mei su pian	环酯红霉素片	1
+huan zhu xiang	环诸乡	1
+huan zhuang yi xian	环状胰腺	1
+huan zuo chen shui xiang	欢作沉水香	1
+huan zuo ju shuang zhi wei cheng	唤作拒霜知未称	1
+huan cai lan bao shi lei long yu	幻彩蓝宝石雷龙鱼	0
+huan cai zhong luo	幻彩钟螺	0
+huan hua shuang shen chong	鲩华双身虫	0
+huan jia huang qi	环荚黄耆	0
+huan jing shu li mang chun	环胫树丽盲蝽	0
+huan le nv shen shan die	欢乐女神闪蝶	0
+huan li xi ye feng	环丽希叶蜂	0
+huan long yue ba zhu	环隆月巴蛛	0
+huan wei meng	环尾獴	0
+huan wen yuan tian zhu diao yu	环纹圆天竺鲷鱼	0
+huan wen zhu xing hai si luo	环纹柱形海蛳螺	0
+huan xi yu luo	欢喜芋螺	0
+huan zu chi zhao mang chun	环足齿爪盲蝽	0

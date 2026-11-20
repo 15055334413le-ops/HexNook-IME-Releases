@@ -1,0 +1,172 @@
+cu xiao	促销	54072
+cu jin she hui he xie	促进社会和谐	41388
+cu si	猝死	11039
+cu bu ji fang	猝不及防	3787
+cu li du	粗粒度	2239
+cu zhi lan zao	粗制滥造	1981
+cu xin da yi	粗心大意	1667
+cu jin she qu	促进社区	1321
+cu xi tan xin	促膝谈心	797
+cu cha dan fan	粗茶淡饭	697
+cu liu bai cai	醋溜白菜	535
+cu zhi da ye	粗枝大叶	446
+cu liu yu	醋溜鱼	308
+cu qiao	簇桥	296
+cu su	醋粟	168
+cu jin cun	促进村	163
+cu zhong you xi	粗中有细	125
+cu jiao yu	醋椒鱼	104
+cu cao ji	粗糙集	87
+cu jin xiao qu	促进小区	87
+cu xing xian ji su	促性腺激素	87
+cu hong xi bao sheng cheng su	促红细胞生成素	49
+cu jia zhuang xian ji su	促甲状腺激素	48
+cu qiao jie dao	簇桥街道	44
+cu xiang fu	醋香附	44
+cu ding wei	粗定位	37
+cu suan po ni song	醋酸泼尼松	37
+cu si wang lv	粗死亡率	31
+cu jiao fen man	粗脚粉螨	29
+cu liu huang gua	醋溜黄瓜	28
+cu huang ti su	促黄体素	23
+cu liu gui yu	醋熘鳜鱼	23
+cu shen shang xian pi zhi ji su	促肾上腺皮质激素	21
+cu tong wen mo	粗通文墨	21
+cu suan xian wei su	醋酸纤维素	20
+cu hei hu jiao fen	粗黑胡椒粉	17
+cu suan di sai mi song	醋酸地塞米松	17
+cu lai	徂徕	16
+cu yan rou pian er	醋烟肉片儿	15
+cu dao zheng	猝倒症	14
+cu er er yu zhi	蹴尔而与之	12
+cu suan jia qiang yun tong	醋酸甲羟孕酮	12
+cu suan po ni song pian	醋酸泼尼松片	10
+cu huang ti sheng cheng ji su	促黄体生成激素	9
+cu suan qian	醋酸铅	9
+cu jiao gui yu	醋椒桂鱼	8
+cu huang ti sheng cheng su	促黄体生成素	7
+cu liu ou pian	醋溜藕片	7
+cu chun wei	粗唇鮠	6
+cu keng	粗坑	6
+cu pi zhi ji su	促皮质激素	6
+cu pi zhi su	促皮质素	6
+cu shi keng	粗石坑	6
+cu zeng da bu guo sheng ya	粗缯大布裹生涯	6
+cu suan po ni song long	醋酸泼尼松龙	5
+cu suan qing hua ke di song	醋酸氢化可的松	5
+cu jiao meng yi ya ke	粗角猛蚁亚科	4
+cu luan pao sheng cheng su	促卵泡生成素	4
+cu wu wei zi	醋五味子	4
+cu jiao huo yu	醋椒活鱼	3
+cu la bai cai geng	醋辣白菜梗	3
+cu mao ke li mu yang quan	粗毛柯利牧羊犬	3
+cu suan liang bing rui lin	醋酸亮丙瑞林	3
+cu ban lian ou	醋拌莲藕	2
+cu ci ma xie er xian chong	粗刺马歇尔线虫	2
+cu dai zheng ji chu	簇带争济楚	2
+cu dian ben suan na	醋碘苯酸钠	2
+cu jia zuo an	醋甲唑胺	2
+cu luan pao su	促卵泡素	2
+cu sha da shi xiang mo zhi	粗砂大石相磨治	2
+cu suan qu an nai de	醋酸曲安奈德	2
+cu cu ge tai wu xie	簇簇歌台舞榭	1
+cu cu huai yin shi	簇簇淮阴市	1
+cu dan xian an	醋氮酰胺	1
+cu gan xi bao sheng zhang su	促肝细胞生长素	1
+cu hei su xi bao ji su	促黑素细胞激素	1
+cu hua gao	粗花糕	1
+cu jia zuo an pian	醋甲唑胺片	1
+cu jing gui	粗颈龟	1
+cu lv fen suan	醋氯芬酸	1
+cu lv fen suan chang rong pian	醋氯芬酸肠溶片	1
+cu ning xue yao	促凝血药	1
+cu suan bai shi yan	醋酸白试验	1
+cu suan bei ta mi song cha ji	醋酸倍他米松搽剂	1
+cu suan di sai mi song ruan gao	醋酸地塞米松软膏	1
+cu suan fu qing song	醋酸氟轻松	1
+cu suan fu qing song ru gao	醋酸氟轻松乳膏	1
+cu suan gai ke li	醋酸钙颗粒	1
+cu suan jia qiang yun tong pian	醋酸甲羟孕酮片	1
+cu suan ke di song	醋酸可的松	1
+cu suan ke di song di yan ye	醋酸可的松滴眼液	1
+cu suan lv di yun tong	醋酸氯地孕酮	1
+cu suan qu pu rui lin	醋酸曲普瑞林	1
+cu wei ying hou	粗尾婴猴	1
+cu xiao xiang dou su	醋硝香豆素	1
+cu yi ye su	促胰液素	1
+cu zhang hu tong	醋章胡同	1
+cu zhi ming dong bi	促织鸣东壁	1
+cu ban bi luo	粗斑筆螺	0
+cu bei du fu yu	粗背杜父鱼	0
+cu bi dun e bai yi	粗鼻钝颚白蚁	0
+cu cao ao hu	粗糙澳虎	0
+cu cao bin luo	粗糙滨螺	0
+cu cao du fu yu	粗糙杜父鱼	0
+cu cao er duan hai qiao	粗糙二段海鞘	0
+cu cao he guo luo	粗糙核果螺	0
+cu cao ji meng shui zao	粗糙棘猛水蚤	0
+cu cao ji ye shan hu	粗糙棘叶珊瑚	0
+cu cao ju hua shan hu	粗糙菊花珊瑚	0
+cu cao lu jiao shan hu	粗糙鹿角珊瑚	0
+cu cao mao ke xie	粗糙毛壳蟹	0
+cu cao qiu fu xie	粗糙酋妇蟹	0
+cu cao sha bang chong	粗糙砂棒虫	0
+cu cao shuang zhi lin chong	粗糙双指鳞虫	0
+cu cao zhun she chun yu	粗糙准舌唇鱼	0
+cu chi chun luo	粗齒鶉螺	0
+cu chong ya gang	簇虫亚纲	0
+cu chun fu piao xia hu yu	粗唇腹瓢鰕虎鱼	0
+cu ci ci ying	粗刺刺萤	0
+cu ci da wei zao	粗刺大尾蚤	0
+cu ci jin ji er	粗刺锦鸡儿	0
+cu da hou fu ying	粗大后浮萤	0
+cu dian ju tian niu	粗点锯天牛	0
+cu dian tu jian hua tian niu	粗点突肩花天牛	0
+cu dian yin dun ye jia	粗点隐盾叶甲	0
+cu diao lie luo	粗雕裂螺	0
+cu e xi ye feng	粗额细叶蜂	0
+cu gou lin wai nie	粗钩邻外啮	0
+cu gou wei mao pan chong	粗钩伪锚盘虫	0
+cu gou wei shi pan gou chong	粗钩伪似盘钩虫	0
+cu gu jiao xiong xiao ye jia	粗股角胸肖叶甲	0
+cu gua xu wei	粗寡须鳚	0
+cu guan qian shi shui mu	粗管浅室水母	0
+cu hui qing	粗灰蜻	0
+cu ji bi yu	粗棘鼻鱼	0
+cu ji chun yin han yu	粗棘唇银汉鱼	0
+cu ji fu du fu yu	粗棘鮄杜父鱼	0
+cu ji hei jin gui	粗姬黑金龟	0
+cu ji tian niu	粗脊天牛	0
+cu ji zhao hai xing	粗鸡爪海星	0
+cu jia lie e xie	粗甲裂额蟹	0
+cu jian zhi huan chong	粗健指环虫	0
+cu jiao bu xing chong	粗角步行虫	0
+cu jiao fen jin gui	粗角粪金龟	0
+cu jiao ju pian ye feng	粗角巨片叶蜂	0
+cu jiao meng yi shu	粗角猛蚁属	0
+cu jiao xin zhe shui zao	粗角新哲水蚤	0
+cu jiao yi cao mang chun	粗角异草盲蝽	0
+cu jiao ying xiang tian niu	簇角缨象天牛	0
+cu jiao you jian feng	粗角优茧蜂	0
+cu jiao yuan ding mang chun	粗角缘顶盲蝽	0
+cu jing ben nei su tie	粗茎本内苏铁	0
+cu ke cha xiao ye jia	粗刻茶肖叶甲	0
+cu ke ping jian xiao ye jia	粗刻平肩肖叶甲	0
+cu ke ri ying ye jia	粗刻日萤叶甲	0
+cu kuan wei he zhen yu	粗宽尾颌针鱼	0
+cu lin ci wei lie xi	粗鳞刺尾鬣蜥	0
+cu lin xing du fu yu	粗鳞星杜父鱼	0
+cu lv cai li jin gui	粗绿彩丽金龟	0
+cu mao mao lin ju	粗毛毛鳞菊	0
+cu mao wei hou yuan xiao ye jia	簇毛伪厚缘肖叶甲	0
+cu mu ju tian niu	粗目锯天牛	0
+cu shi ju chi shan bei	粗饰锯齿扇贝	0
+cu ti ao zhou bi yu	粗体澳洲躄鱼	0
+cu wen an se fang pi	粗纹暗色鰟鲏	0
+cu wen jiu kong	粗文九孔	0
+cu wen ma bi	粗纹马鰏	0
+cu ye lu jiao shan hu	粗野鹿角珊瑚	0
+cu ying tou hai nian	粗硬头海鲶	0
+cu zhang da quan xie	粗掌大权蟹	0
+cu zhang fu jian shui zao	粗长腹剑水蚤	0
+cu zhi xiao xiu shui zao	粗指小袖水蚤	0

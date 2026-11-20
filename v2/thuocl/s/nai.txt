@@ -1,0 +1,131 @@
+nai you	奶油	115847
+nai lao	奶酪	110257
+nai cha	奶茶	109759
+nai ren xun wei	耐人寻味	8255
+nai you dan gao	奶油蛋糕	7515
+nai tang	奶汤	5648
+nai pi	奶皮	4431
+nai yao xing	耐药性	2352
+nai yao	耐药	2200
+nai zha	奶渣	2158
+nai xing	耐性	1529
+nai gan	奶干	1413
+nai you zhi shi	奶油芝士	1014
+nai lao dan gao	奶酪蛋糕	961
+nai pi zi	奶皮子	844
+nai ke	耐克	760
+nai shou xing	耐受性	692
+nai you pao fu	奶油泡芙	544
+nai lao wei	奶酪魏	377
+nai jie er	奈杰尔	376
+nai you zha gao	奶油炸糕	355
+nai re xing	耐热性	334
+nai you bing gan	奶油饼干	270
+nai tang mian	奶汤面	170
+nai han xing	耐寒性	156
+nai tang pu cai	奶汤蒲菜	115
+nai you sha si	奶油沙司	110
+nai bao er	奈保尔	103
+nai you wu xiang dou	奶油五香豆	102
+nai you sheng cai	奶油生菜	83
+nai niu mao	奶牛猫	77
+nai ge da	奶疙瘩	72
+nai dong	乃东	56
+nai gan yu jun jue	乃敢与君绝	47
+nai you xiao dan gao	奶油小蛋糕	43
+nai huo chang	耐火厂	40
+nai pu sheng	萘普生	37
+nai you bai jiang	奶油白酱	35
+nai zhi yu pian	奶汁鱼片	32
+nai zi fang	奶子房	31
+nai ren ke er xiang	乃仁克尔乡	30
+nai he yi si ju zhi	奈何以死惧之	26
+nai you cao mei dan gao	奶油草莓蛋糕	26
+nai liang shi yan	耐量试验	24
+nai pao ka fei	奶泡咖啡	24
+nai wa wa	奶娃娃	24
+nai you xie rou	奶油蟹肉	23
+nai ren ju jue	耐人咀嚼	22
+nai an	萘胺	21
+nai cha cang shu	奶茶仓鼠	19
+nai kui si te zhun ze	奈奎斯特准则	19
+nai bai pu tao	奶白葡萄	16
+nai tang bai cai	奶汤白菜	15
+nai wei la ping	奈韦拉平	15
+nai yan xing	耐盐性	14
+nai tang ji pu	奶汤鸡脯	13
+nai xiang yu mi bing	奶香玉米饼	13
+nai xu	奈绪	12
+nai you hua sheng mi	奶油花生米	11
+nai bai xing ren	奶白杏仁	9
+nai bu zhi you han	乃不知有汉	9
+nai tang huo tui da yu tou	奶汤火腿大鱼头	9
+nai bai ji yu tang	奶白鲫鱼汤	8
+nai xiang hai tai tu si	奶香海苔吐司	8
+nai you qu qi bing	奶油曲奇饼	8
+nai bai zao bao	奶白枣宝	7
+nai ceng gao	奶层糕	7
+nai chong xiu yue yang lou	乃重修岳阳楼	6
+nai long xiang	乃龙乡	6
+nai tuo zhen	乃托镇	6
+nai you gui yu	奶油桂鱼	6
+nai you xiao bing gan	奶油小饼干	6
+nai zhi jiao	奶汁角	6
+nai you xi lan hua	奶油西兰花	5
+nai pu sheng pian	萘普生片	4
+nai se shi jun	奈瑟氏菌	4
+nai wa er	奈瓦尔	4
+nai you hua dan gao	奶油花蛋糕	4
+nai you hui bing	奶油回饼	4
+nai he qu zhi jin zi zhu	奈何取之尽锱铢	3
+nai huang xue ha su	奶黄雪蛤酥	3
+nai ke cheng liu zhi shang tian	耐可乘流直上天	3
+nai ke cheng ming yue	耐可乘明月	3
+nai min wei di yan ye	萘敏维滴眼液	3
+nai tang yuan yu	奶汤元鱼	3
+nai xi shi chang	奶西市场	3
+nai you huo tui xian bing	奶油火腿馅饼	3
+nai you mo gu ji	奶油蘑菇鸡	3
+nai zai da hai nan	乃在大海南	3
+nai ding mei tong jiao nang	萘丁美酮胶囊	2
+nai gan tun	乃干屯	2
+nai huo lu	耐火路	2
+nai lao ruan tang	奶酪软糖	2
+nai pai di er pian	萘哌地尔片	2
+nai pu sheng	奈普生	2
+nai ruo suo you ze you zhi	乃若所忧则有之	2
+nai you bo luo dong	奶油菠萝冻	2
+nai you he tao gao	奶油核桃糕	2
+nai zhi gai xiang	乃只盖乡	2
+nai zhong jing shou zhi hui	乃中经首之会	2
+nai bei chang mao mao	奈贝长毛猫	1
+nai fei na wei	奈非那韦	1
+nai fu xi lin	萘夫西林	1
+nai he jun du bao qi cai	奈何君独抱奇材	1
+nai he zu zhong shen	奈何阻重深	1
+nai huang bing pi yue bing	奶黄冰皮月饼	1
+nai jia zuo lin	萘甲唑林	1
+nai ling zhang liang liu xie	乃令张良留谢	1
+nai ni zi jia xin xia	奈你自家心下	1
+nai niu er chang	奶牛二场	1
+nai pai di er	萘哌地尔	1
+nai qu xiang	乃渠乡	1
+nai shan yang chang	奶山羊场	1
+nai ti fen tong kang zuo ru gao	萘替芬酮康唑乳膏	1
+nai ti mi xing	奈替米星	1
+nai wei la ping pian	奈韦拉平片	1
+nai weng yi jiu guan xie er	乃翁依旧管些儿	1
+nai xi xiang	乃西乡	1
+nai xiang bo cai	奶香菠菜	1
+nai xin zai xian yang	乃心在咸阳	1
+nai you hua sheng tang	奶油花生糖	1
+nai you ru lao dan gao	奶油乳酪蛋糕	1
+nai you tiao su	奶油条酥	1
+nai you yang gu nong tang	奶油洋菇浓汤	1
+nai zai da hui yu	乃在大诲隅	1
+nai zhi zhen zhi suo zai	乃知震之所在	1
+nai ai si xiao ban shang feng die	奈爱丝小斑裳凤蝶	0
+nai de lao fu quan	奈德劳佛犬	0
+nai fu shi xing nian	奈福视星鲶	0
+nai hui die	奈灰蝶	0
+nai mei gai te mu long	耐梅盖特母龙	0

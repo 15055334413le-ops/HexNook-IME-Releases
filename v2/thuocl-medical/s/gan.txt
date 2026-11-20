@@ -1,0 +1,167 @@
+gan ran xing ji bing	感染性疾病	703
+gan ran xing fu xie	感染性腹泻	640
+gan ran yuan	感染源	592
+gan mao ke sou	感冒咳嗽	531
+gan ran xing xiu ke	感染性休克	468
+gan gong neng yi chang	肝功能异常	458
+gan gong neng shuai jie	肝功能衰竭	448
+gan fu shui	肝腹水	421
+gan ran qi	感染期	406
+gan bing ke	肝病科	371
+gan zhong da	肝肿大	344
+gan pi zhong da	肝脾肿大	341
+gan bu bing fang	干部病房	320
+gan hun xuan ji	干混悬剂	311
+gan shen yin xu	肝肾阴虚	297
+gan cao pian	甘草片	289
+gan zao zong he zheng	干燥综合征	280
+gan dou zhuang he bian xing	肝豆状核变性	271
+gan dong mai	肝动脉	262
+gan su na	肝素钠	256
+gan men	肝门	251
+gan kang	感康	250
+gan gong neng bu quan	肝功能不全	239
+gan mao qing re ke li	感冒清热颗粒	233
+gan jue jian tui	感觉减退	226
+gan dan bing	肝胆病	225
+gan jiao mu	干酵母	222
+gan mao qing jiao nang	感冒清胶囊	222
+gan you san zhi	甘油三脂	221
+gan nei dan guan jie shi	肝内胆管结石	217
+gan kai qiao yu mu	肝开窍于目	216
+gan ran xing xin nei mo yan	感染性心内膜炎	214
+gan jing mai	肝静脉	211
+gan mu xi bao liu	肝母细胞瘤	207
+gan mao ling ke li	感冒灵颗粒	192
+gan wei bu he	肝胃不和	191
+gan ying bian	肝硬变	191
+gan yu pi xu	肝郁脾虚	187
+gan mao qing re chong ji	感冒清热冲剂	185
+gan bao chong bing	肝包虫病	183
+gan qi yu zhi	肝气郁滞	180
+gan yu diao jing gao	肝郁调经膏	180
+gan dan shi re	肝胆湿热	171
+gan mai da zao tang	甘麦大枣汤	171
+gan mao ke li	感冒颗粒	171
+gan jing yi dao su	甘精胰岛素	167
+gan ran xing fa re	感染性发热	165
+gan huo shang yan	肝火上炎	158
+gan shen zong he zheng	肝肾综合征	158
+gan xi bao yi zhi	肝细胞移植	158
+gan jiao mu pian	干酵母片	155
+gan mao ling jiao nang	感冒灵胶囊	155
+gan zhu shu xie	肝主疏泄	155
+gan mao ruan jiao nang	感冒软胶囊	150
+gan jue zhong shu	感觉中枢	147
+gan men jing mai	肝门静脉	142
+gan feng nei dong	肝风内动	139
+gan jue guo min	感觉过敏	139
+gan jue mao	感觉毛	139
+gan yu	肝俞	139
+gan jue shen jing xing er long	感觉神经性耳聋	135
+gan cao ci suan	甘草次酸	129
+gan jue dan wei	感觉单位	125
+gan jue qi	感觉器	121
+gan pi bu he	肝脾不和	121
+gan ran xing jie mo yan	感染性结膜炎	121
+gan xiao jing mai bi sai	肝小静脉闭塞	121
+gan chang xun huan	肝肠循环	117
+gan xiao ye	肝小叶	117
+gan cao tian su	甘草甜素	113
+gan jue xi bao	感觉细胞	113
+gan chu xue	肝出血	108
+gan jing shi re	肝经湿热	108
+gan lu tang chun	甘露糖醇	108
+gan lu xiao ke jiao nang	甘露消渴胶囊	108
+gan mao tui re ke li	感冒退热颗粒	108
+gan mao zhi ke ke li	感冒止咳颗粒	108
+gan yu xue	肝俞穴	108
+gan hai mian zhuang xue guan liu	肝海绵状血管瘤	103
+gan jue shen jing yuan	感觉神经元	103
+gan jun tai	杆菌肽	103
+gan mao qing re jiao nang	感冒清热胶囊	103
+gan wei qi tong	肝胃气痛	103
+gan yu jiao nang	感愈胶囊	103
+gan cao liu jin gao	甘草流浸膏	98
+gan gu you dong mai	肝固有动脉	98
+gan jue bo duo	感觉剥夺	98
+gan jue xing shi yu	感觉性失语	98
+gan lu chun zhu she ye	甘露醇注射液	98
+gan shen yin xu zheng	肝肾阴虚证	98
+gan wei suo	肝萎缩	98
+gan lu xiao du dan	甘露消毒丹	91
+gan mao qing re ruan jiao nang	感冒清热软胶囊	91
+gan mao zhi ke tang jiang	感冒止咳糖浆	91
+gan ran xing xin ji yan	感染性心肌炎	91
+gan wai dan dao	肝外胆道	91
+gan dong mai zao ying	肝动脉造影	84
+gan jing yi dao su zhu she ye	甘精胰岛素注射液	84
+gan lu xiao du wan	甘露消毒丸	84
+gan mao chuang	感冒疮	84
+gan mao ling chong ji	感冒灵冲剂	84
+gan qi heng ni	肝气横逆	84
+gan shi er zhi chang ren dai	肝十二指肠韧带	84
+gan su na zhu she ye	肝素钠注射液	84
+gan su ruan jiao nang	肝苏软胶囊	84
+gan yuan	苷元	84
+gan cao suan dan an	甘草酸单铵	76
+gan cao suan er jia	甘草酸二钾	76
+gan cao suan gan	甘草酸苷	76
+gan jie he	肝结核	76
+gan lao yang huai si	干酪样坏死	76
+gan luo yin	干啰音	76
+gan mao jie du ke li	感冒解毒颗粒	76
+gan pian xi chong bing	肝片吸虫病	76
+gan ran xing xun ma zhen	感染性荨麻疹	76
+gan shuang ke li	肝爽颗粒	76
+gan wei bu he zheng	肝胃不和证	76
+gan xi bao xian liu	肝细胞腺瘤	76
+gan bi fu ruan jiao nang	肝必复软胶囊	66
+gan cao suan dan an yan	甘草酸单铵盐	66
+gan cao suan er an jiao nang	甘草酸二铵胶囊	66
+gan cao xie xin tang	甘草泻心汤	66
+gan cao xin ke li	甘草锌颗粒	66
+gan cao zheng	干槽症	66
+gan dan xiang biao li	肝胆相表里	66
+gan huo fan fei	肝火犯肺	66
+gan ji	肝积	66
+gan jing shi re zheng	肝经湿热证	66
+gan ju bing mei pian	甘桔冰梅片	66
+gan lu ju tang tai	甘露聚糖肽	66
+gan lu ju tang tai kou fu ye	甘露聚糖肽口服液	66
+gan lu tang gan mei	甘露糖苷酶	66
+gan mao xiao yan pian	感冒消炎片	66
+gan ning pian	肝宁片	66
+gan ran xing guan jie yan	感染性关节炎	66
+gan su kang jiao nang	肝速康胶囊	66
+gan zhu	肝著	66
+gan bing	疳病	51
+gan cao suan an	甘草酸铵	51
+gan cao suan er an	甘草酸二铵	51
+gan cao suan er an zhu she ye	甘草酸二铵注射液	51
+gan cao suan er na	甘草酸二钠	51
+gan dan shi re zheng	肝胆湿热证	51
+gan du jing ke li	肝毒净颗粒	51
+gan fei zong he zheng	肝肺综合征	51
+gan jue	肝厥	51
+gan lan qiao nao xiao nao wei suo	橄榄桥脑小脑萎缩	51
+gan long jiao nang	肝龙胶囊	51
+gan lu ju tang tai pian	甘露聚糖肽片	51
+gan mao kang jiao nang	感冒康胶囊	51
+gan mao qing re kou fu ye	感冒清热口服液	51
+gan mao shu feng ke li	感冒疏风颗粒	51
+gan mao shu feng pian	感冒疏风片	51
+gan mao shu feng wan	感冒疏风丸	51
+gan mao xin pen wu ji	感冒欣喷雾剂	51
+gan mao zhi ke chong ji	感冒止咳冲剂	51
+gan rao dian liao fa	干扰电疗法	51
+gan su na ru gao	肝素钠乳膏	51
+gan su na ruan gao	肝素钠软膏	51
+gan wei yu re zheng	肝胃郁热证	51
+gan yan kang fu wan	肝炎康复丸	51
+gan yan ling zhu she ye	肝炎灵注射液	51
+gan you chun rong ye	甘油醇溶液	51
+gan you guan chang ji	甘油灌肠剂	51
+gan yu pi xu zheng	肝郁脾虚证	51
+gan yu xue xu zheng	肝郁血虚证	51
+gan zao xing jiao mo yan	干燥性角膜炎	51

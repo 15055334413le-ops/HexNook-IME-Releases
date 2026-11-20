@@ -1,0 +1,15 @@
+ling pei zhi	零配置	344
+ling yu qu dong she ji	领域驱动设计	272
+ling pai huan	令牌环	267
+ling kao bei	零拷贝	246
+ling pai huan wang	令牌环网	240
+ling yu jian mo	领域建模	215
+ling yu wu guan	领域无关	180
+ling pai chuan di	令牌传递	177
+ling pai zong xian	令牌总线	152
+ling jian ku	零件库	122
+ling jian tu	零件图	117
+ling xi yun	灵犀云	117
+ling zhi shi zheng ming	零知识证明	109
+ling pai zong xian wang	令牌总线网	94
+ling pai chuan di xie yi	令牌传递协议	91

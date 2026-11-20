@@ -1,0 +1,114 @@
+hun yue	婚约	61890
+hun tun	馄饨	47850
+hun he	混合	44652
+hun mi	昏迷	31442
+hun qian cai chan	婚前财产	10768
+hun qian xie yi	婚前协议	6816
+hun mi bu xing	昏迷不醒	5980
+hun sheng zi nv	婚生子女	5281
+hun shen xie shu	浑身解数	4403
+hun jue	昏厥	3405
+hun he mo shi	混合模式	3142
+hun xiao shi ting	混淆视听	3071
+hun shui mo yu	浑水摸鱼	2957
+hun yin zhuang kuang	婚姻状况	2849
+hun wei yi tan	混为一谈	2739
+hun yin ji cheng jiu fen	婚姻继承纠纷	2330
+hun he bian cheng	混合编程	2219
+hun yin deng ji dang an	婚姻登记档案	2033
+hun ran yi ti	浑然一体	1779
+hun li dan gao	婚礼蛋糕	1732
+hun hun yu shui	昏昏欲睡	1662
+hun zhuo	混浊	1540
+hun ran tian cheng	浑然天成	1485
+hun ran bu jue	浑然不觉	1352
+hun hun chen chen	昏昏沉沉	1180
+hun xiao dai ma	混淆代码	1088
+hun hun e e	浑浑噩噩	895
+hun xiao shi fei	混淆是非	857
+hun he dong li dian dong qi che	混合动力电动汽车	803
+hun qian meng ying	魂牵梦萦	776
+hun he gao si mo xing	混合高斯模型	710
+hun he yun	混合云	676
+hun tun hou	馄饨侯	672
+hun he ying yong	混合应用	604
+hun xiao ju zhen	混淆矩阵	580
+hun ye	混业	572
+hun he shi	混合式	551
+hun yin deng ji suo	婚姻登记所	507
+hun fei po san	魂飞魄散	497
+hun he kai fa	混合开发	494
+hun tian hei di	昏天黑地	469
+hun yuan	浑源	389
+hun he bian ma	混合编码	383
+hun he zhan	浑河站	314
+hun xiao da bao	混淆打包	311
+hun bu shou she	魂不守舍	300
+hun yin deng ji zhi du	婚姻登记制度	220
+hun qing dan gao	婚庆蛋糕	177
+hun he zhi	混合痔	172
+hun xuan ye	混悬液	161
+hun qian bao jian gong zuo gui fan	婚前保健工作规范	150
+hun he xi tong	混合系统	130
+hun xiao bian yi	混淆编译	124
+hun tian an di	昏天暗地	123
+hun shi mo wang	混世魔王	117
+hun jiang	浑江	115
+hun qian hun hou cai chan	婚前婚后财产	114
+hun dou hua	荤豆花	112
+hun xiang	混响	110
+hun he bei bao	混合背包	86
+hun bu fu ti	魂不附体	83
+hun he gan ran	混合感染	82
+hun xiao hei bai	混淆黑白	76
+hun se	混色	75
+hun he jie gou	混合结构	70
+hun tou hun nao	昏头昏脑	66
+hun shen shi dan	浑身是胆	65
+hun hun dun dun	混混沌沌	62
+hun yin deng ji di	婚姻登记地	43
+hun tou zhuan xiang	昏头转向	39
+hun xuan ji	混悬剂	30
+hun po yi xi wei gui xiong	魂魄毅兮为鬼雄	27
+hun yin zhi liao	婚姻治疗	26
+hun yin jia ting ji cheng fa xue	婚姻家庭继承法学	23
+hun luan xing	混乱性	18
+hun he liu	混合瘤	17
+hun xing qian e	混形黔鳄	13
+hun yin jiu fen wei quan bi bei	婚姻纠纷维权必备	11
+hun he xing pi fu	混合性皮肤	9
+hun he zhi	混合痣	9
+hun shui bing	昏睡病	9
+hun he xing jie di zu zhi bing	混合性结缔组织病	8
+hun jiang shi	浑江市	8
+hun yu bu sheng zan	浑欲不胜簪	7
+hun tang guo kui	混糖锅魁	6
+hun tun qian ceng bing	馄饨千层饼	6
+hun xie wang	浑邪王	5
+hun yin wan quan po lie	婚姻完全破裂	5
+hun he xue shuan	混合血栓	4
+hun tang guo kui	混堂锅魁	4
+hun tun ya zi	馄饨鸭子	4
+hun luo han	荤罗汉	3
+hun mo zei sha	昏墨贼杀	3
+hun tun xiang jiao juan	馄饨香蕉卷	3
+hun yin fa xue can kao zi liao	婚姻法学参考资料	3
+hun hun deng huo hua ping sheng	昏昏灯火话平生	2
+hun he hu jiao fen	混合胡椒粉	1
+hun he kang qiu dan bai fan ying	混合抗球蛋白反应	1
+hun he lin ba xi bao pei yang	混合淋巴细胞培养	1
+hun hun wu yu an heng mao	昏昏雾雨暗衡茅	1
+hun hun xue yi yun chui ye	昏昏雪意云垂野	1
+hun po bu ceng lai ru meng	魂魄不曾来入梦	1
+hun qu shi zhang liu	魂去尸长留	1
+hun yi xi er jiu shi	魂一夕而九逝	1
+hun yin jia ting fa qian yan	婚姻家庭法前沿	1
+hun yin yu shou yang deng ji	婚姻与收养登记	1
+hun you mi gao	荤油米糕	1
+hun an fu biao bao luo	昏暗浮标宝螺	0
+hun an fu ji ying	昏暗蜉寄蝇	0
+hun an qiu zhu	昏暗球蛛	0
+hun an xian xi zhu	昏暗线隙蛛	0
+hun dao yang	昏倒羊	0
+hun huang deng e	浑黄灯蛾	0
+hun qiang shi jian feng	混腔室茧蜂	0

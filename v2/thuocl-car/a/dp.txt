@@ -1,0 +1,9 @@
+dpd	多普达	1252
+dpfdj	电喷发动机	360
+dphj	陡坡缓降	203
+dpgy	底盘隔音	127
+dphjkz	陡坡缓降控制	125
+dpljx	电瓶连接线	47
+dpkz	电瓶卡子	41
+dpcgj	地盘测功机	18
+dpgb	电瓶盖板	18

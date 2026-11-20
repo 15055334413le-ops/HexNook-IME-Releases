@@ -1,0 +1,382 @@
+sao miao	扫描	352805
+sao rao	骚扰	102525
+sao sao	嫂嫂	87190
+sao miao yi	扫描仪	80165
+sao zi	嫂子	50755
+sao miao qi	扫描器	35560
+sao yang	瘙痒	33510
+sao chu	扫除	29840
+sao dong	骚动	28385
+sao di	扫地	26900
+sao miao qiang	扫描枪	21940
+sao dang	扫荡	21690
+sao luan	骚乱	18910
+sao guo	扫过	17450
+sao zhou	扫帚	16970
+sao mang	扫盲	15145
+sao she	扫射	14665
+sao shi	扫视	13915
+sao xing	扫兴	13060
+sao qing	扫清	11020
+sao huang da fei	扫黄打非	10275
+sao ma	扫码	9999
+sao zhou cai	扫帚菜	9999
+sao ba	扫把	9930
+sao mu	扫墓	9885
+sao lei	扫雷	9765
+sao huang	扫黄	8860
+sao yang	搔痒	8205
+sao wei	骚味	6666
+sao wei er	骚味儿	6666
+sao miao su du	扫描速度	6550
+sao miao gong neng	扫描功能	6425
+sao chu wen mang	扫除文盲	6200
+sao dao	扫到	5830
+sao si	缫丝	5300
+sao wei	扫尾	5290
+sao miao xi tong	扫描系统	4985
+sao miao fang shi	扫描方式	4810
+sao ke	骚客	4745
+sao rao dian hua	骚扰电话	4620
+sao miao gong ju	扫描工具	4580
+sao miao cheng xu	扫描程序	4535
+sao di chu men	扫地出门	4445
+sao xue	扫雪	4320
+sao qu	扫去	4050
+sao miao she bei	扫描设备	3815
+sao shi zhe	扫视着	3510
+sao shou nong zi	搔首弄姿	3290
+sao ping	扫平	2990
+sao miao xian	扫描线	2980
+sao tu	扫图	2935
+sao du	扫毒	2840
+sao huo	骚货	2725
+sao zi mian	臊子面	2487
+sao luo	扫罗	2460
+sao sao	搔搔	2445
+sao miao er wei ma	扫描二维码	2401
+sao ren	骚人	2270
+sao miao yuan jian	扫描元件	2255
+sao de	骚的	2222
+sao le sao	扫了扫	2212
+sao wan	扫完	2160
+sao miao pin lv	扫描频率	2145
+sao yi sao	扫一扫	2009
+sao miao shi jian	扫描时间	1950
+sao zi	臊子	1860
+sao nv	骚女	1770
+sao miao dian lu	扫描电路	1620
+sao le sao	搔了搔	1615
+sao miao ji	扫描机	1615
+sao bao	骚包	1595
+sao rao zhe	骚扰者	1580
+sao miao ma	扫描码	1565
+sao miao dian jing	扫描电镜	1535
+sao ren mo ke	骚人墨客	1415
+sao tou	搔头	1365
+sao fu	骚妇	1335
+sao miao tu	扫描图	1320
+sao fu ren	嫂夫人	1240
+sao sao yang	搔搔痒	1220
+sao zhou xing	扫帚星	1200
+sao guang	扫光	1195
+sao ge di	扫个地	1180
+sao di ji	扫地机	1130
+sao lai sao qu	扫来扫去	1125
+sao si chang	缫丝厂	1115
+sao a	骚啊	1111
+sao de	骚得	1111
+sao huo	扫货	1111
+sao jie	扫街	1111
+sao ne	骚呢	1111
+sao rui	骚瑞	1111
+sao tuo	扫拖	1111
+sao xiang	扫向	1111
+sao sao	扫扫	1090
+sao miao ren yuan	扫描人员	1040
+sao tui	扫腿	999
+sao miao guo cheng	扫描过程	995
+sao miao shi	扫描式	995
+sao miao kuan du	扫描宽度	955
+sao hei	扫黑	905
+sao dao	扫倒	870
+sao lei jian	扫雷舰	860
+sao qing dao lu	扫清道路	780
+sao ma lu	扫马路	715
+sao miao su lv	扫描速率	700
+sao wei	臊味	700
+sao miao jing du	扫描精度	695
+sao lei ting	扫雷艇	655
+sao rao xing wei	骚扰行为	635
+sao fang	扫房	620
+sao ti	骚体	615
+sao xing de shi	扫兴的事	595
+sao tang tui	扫堂腿	570
+sao miao fa	扫描法	536
+sao miao jie zhi	扫描介质	520
+sao si ji	缫丝机	485
+sao chou wei	臊臭味	467
+sao mie	扫灭	455
+sao ran	骚然	445
+sao miao shu ru	扫描输入	437
+sao miao shi bie	扫描识别	410
+sao miao xian suan fa	扫描线算法	377
+sao miao mo shi	扫描模式	329
+sao zhou mei	扫帚眉	300
+sao mang jiang	扫盲奖	280
+sao miao mi du	扫描密度	270
+sao mei	扫眉	245
+sao dao yang chu	搔到痒处	240
+sao qi	骚气	240
+sao ma zhi fu	扫码支付	236
+sao miao gei wo	扫描给我	228
+sao ma tong	扫码通	213
+sao miao ji lu	扫描记录	200
+sao chou	臊臭	195
+sao hei feng bao	扫黑风暴	191
+sao zhi fu bao	扫支付宝	179
+sao mu ji zu	扫墓祭祖	155
+sao fen	扫坟	150
+sao lei jian ting	扫雷舰艇	150
+sao fang zi	扫房子	148
+sao miao dian zi	扫描电子	146
+sao hei xing dong	扫黑行动	144
+sao qi	臊气	135
+sao tou pi	搔头皮	130
+sao yi sao	搔一搔	129
+sao hong bao	扫红包	128
+sao ma ce wen	扫码测温	123
+sao ma fu kuan	扫码付款	123
+sao ma ling hong bao	扫码领红包	123
+sao xue che	扫雪车	116
+sao sao mang	扫扫盲	113
+sao lang	骚浪	111
+sao nian	骚年	111
+sao xue	骚穴	111
+sao dang juan	扫荡卷	110
+sao miao zhuan huan	扫描转换	109
+sao le sao tou	搔了搔头	106
+sao gan jing	扫干净	105
+sao ba xing	扫把星	100
+sao bu dao	扫不到	100
+sao bu liao	扫不了	100
+sao bu shang ma	扫不上码	100
+sao cao zuo	骚操作	100
+sao chen tu	扫尘土	100
+sao chu hei e shi li	扫除黑恶势力	100
+sao chu lai	扫出来	100
+sao chu qu	扫出去	100
+sao chu tian xia	扫除天下	100
+sao da jie	扫大街	100
+sao dang can di	扫荡残敌	100
+sao dang qian kun	扫荡乾坤	100
+sao dang qu	扫荡区	100
+sao de bu xing	骚得不行	100
+sao de hen	骚得很	100
+sao de huang	臊得慌	100
+sao di a yi	扫地阿姨	100
+sao di che	扫地车	100
+sao di che chang jia	扫地车厂家	100
+sao di da ma	扫地大妈	100
+sao di gan	扫地杆	100
+sao di gong	扫地工	100
+sao di ji chang jia	扫地机厂家	100
+sao di ji qi	扫地机器	100
+sao di ji qi ren	扫地机器人	100
+sao di ju jin	扫地俱尽	100
+sao di seng	扫地僧	100
+sao di shen seng	扫地神僧	100
+sao di tuo di	扫地拖地	100
+sao di tuo di ji qi ren	扫地拖地机器人	100
+sao di tuo di yi ti	扫地拖地一体	100
+sao di wu cun	扫地无存	100
+sao di wu yi	扫地无遗	100
+sao di wu yu	扫地无余	100
+sao di yi jin	扫地以尽	100
+sao du bi	扫读笔	100
+sao du xing dong	扫毒行动	100
+sao er wei ma	扫二维码	100
+sao fang ri	扫房日	100
+sao fu ka	扫福卡	100
+sao fu zi	扫福字	100
+sao ge mu	扫个墓	100
+sao guo lai	扫过来	100
+sao guo mu	扫过墓	100
+sao guo qu	扫过去	100
+sao hei chu e	扫黑除恶	100
+sao hei chu e ban	扫黑除恶办	100
+sao hei chu e ban gong shi	扫黑除恶办公室	100
+sao hei chu e chang tai hua	扫黑除恶常态化	100
+sao hei chu e cheng xiao	扫黑除恶成效	100
+sao hei chu e dou zheng	扫黑除恶斗争	100
+sao hei chu e du dao	扫黑除恶督导	100
+sao hei chu e du dao zu	扫黑除恶督导组	100
+sao hei chu e gong jian zhan	扫黑除恶攻坚战	100
+sao hei chu e gong zuo	扫黑除恶工作	100
+sao hei chu e jin xing shi	扫黑除恶进行时	100
+sao hei chu e ju bao	扫黑除恶举报	100
+sao hei chu e ling dao xiao zu	扫黑除恶领导小组	100
+sao hei chu e xian suo	扫黑除恶线索	100
+sao hei chu e xiang guan zhi shi	扫黑除恶相关知识	100
+sao hei chu e xing dong	扫黑除恶行动	100
+sao hei chu e xuan chuan	扫黑除恶宣传	100
+sao hei chu e zhi luan	扫黑除恶治乱	100
+sao hei chu e zhi shi	扫黑除恶知识	100
+sao hei chu e zhuan ti	扫黑除恶专题	100
+sao hei chu e zhuan xiang	扫黑除恶专项	100
+sao hei chu e zhuan xiang dou zheng	扫黑除恶专项斗争	100
+sao hei chu e zhuan xiang gong zuo	扫黑除恶专项工作	100
+sao hei chu e zhuan xiang xing dong	扫黑除恶专项行动	100
+sao hei chu e zhuan ye dui	扫黑除恶专业队	100
+sao hei e	扫黑恶	100
+sao hei ju	扫黑剧	100
+sao hu li	骚狐狸	100
+sao hu li jing	骚狐狸精	100
+sao huang ban	扫黄办	100
+sao huang xing dong	扫黄行动	100
+sao huang yuan	扫黄员	100
+sao huang yun dong	扫黄运动	100
+sao jin lai	扫进来	100
+sao jin qu	扫进去	100
+sao le ge	扫了个	100
+sao le mei	扫了没	100
+sao le xia	扫了下	100
+sao le yi yan	扫了一眼	100
+sao lei xing dong	扫雷行动	100
+sao lei ying xiong	扫雷英雄	100
+sao luan zhe	骚乱者	100
+sao luo ye	扫落叶	100
+sao ma er	扫码儿	100
+sao ma lian xi	扫码联系	100
+sao ma tong xing	扫码通行	100
+sao ma xi tong	扫码系统	100
+sao ma zhi fu ba	扫码支付吧	100
+sao mei cai zi	扫眉才子	100
+sao miao jian	扫描件	100
+sao miao mo kuai	扫描模块	100
+sao miao mo zu	扫描模组	100
+sao miao shang chuan	扫描上传	100
+sao miao shu	扫描术	100
+sao miao su du kuai	扫描速度快	100
+sao miao yang pin	扫描样品	100
+sao mu jie	扫墓节	100
+sao mu qu	扫墓去	100
+sao qi chong tian	臊气冲天	100
+sao qing le	扫清了	100
+sao qing le zhang ai	扫清了障碍	100
+sao qing liu he	扫清六合	100
+sao qing niang	扫晴娘	100
+sao rao ni	骚扰你	100
+sao rao xiao xi	骚扰消息	100
+sao ren cai shi	骚人才士	100
+sao ren mo shi	骚人墨士	100
+sao ren ya shi	骚人雅士	100
+sao rui sao rui	骚瑞骚瑞	100
+sao sao di	扫扫地	100
+sao sao mu	扫扫墓	100
+sao sao xue	扫扫雪	100
+sao sao xue ba	扫扫雪吧	100
+sao shou chi chu	搔首踟蹰	100
+sao shou ji	扫手机	100
+sao si le	骚死了	100
+sao ti zi	骚蹄子	100
+sao ting	扫听	100
+sao tou mo er	搔头摸耳	100
+sao tou nong zi	搔头弄姿	100
+sao tou zhua er	搔头抓耳	100
+sao tuo ji qi ren	扫拖机器人	100
+sao tuo xi	扫拖洗	100
+sao tuo xi yi ti	扫拖洗一体	100
+sao tuo yi ti	扫拖一体	100
+sao tuo yi ti ji qi ren	扫拖一体机器人	100
+sao wan xue le	扫完雪了	100
+sao wei zhong	臊味重	100
+sao wo de ma	扫我的码	100
+sao wu fu	扫五福	100
+sao xue ba	扫雪吧	100
+sao xue li ting	扫穴犁庭	100
+sao xue qu	扫雪去	100
+sao yang zheng	瘙痒症	100
+sao yi ci	扫一次	100
+sao yi dian	骚一点	100
+sao yi ge	扫一个	100
+sao yi ha	扫一哈	100
+sao zhe ge er wei ma	扫这个二维码	100
+sao zhou bing	扫帚柄	100
+sao zhou sheng	扫帚声	100
+sao zi ne	嫂子呢	100
+sao ma deng lu	扫码登录	93
+sao di lao tai tai	扫地老太太	92
+sao bu shang	扫不上	86
+sao nao	骚闹	80
+sao miao wan	扫描完	73
+sao du	扫赌	70
+sao miao mian	扫描面	70
+sao ta	扫榻	70
+sao chu wen mang gong zuo tiao li	扫除文盲工作条例	62
+sao miao shu chu	扫描输出	61
+sao chu ji	扫除机	55
+sao miao dian zi xian wei jing	扫描电子显微镜	50
+sao zhou xiang	扫帚巷	44
+sao ping yi	扫平仪	42
+sao miao jiao	扫描角	35
+sao ma dun	扫码墩	31
+sao ba tang	扫把塘	30
+sao hua	骚话	30
+sao bi	骚逼	22
+sao luan xing	骚乱性	20
+sao miao shi bie xi tong	扫描识别系统	17
+sao zi song	嫂子颂	17
+sao ji	扫祭	16
+sao de xiang	臊得像	15
+sao miao she ji	扫描设计	15
+sao di fen xiang	扫地焚香	13
+sao ma dian can	扫码点餐	12
+sao ma dian dan	扫码点单	12
+sao ma shi bie	扫码识别	12
+sao ma xia zai	扫码下载	12
+sao pan	扫盘	12
+sao zi ying	骚子营	12
+sao bi	骚屄	11
+sao miao qi	扫瞄器	11
+sao yi xia	扫一下	9
+sao chen	扫尘	7
+sao hui	扫灰	7
+sao pi	臊皮	7
+sao yang bing	瘙痒病	7
+sao di jin yi	扫地尽矣	6
+sao che	缫车	5
+sao de	臊的	5
+sao hong hong	臊烘烘	5
+sao ta yi dai	扫榻以待	5
+sao wei er	臊味儿	5
+sao hui	臊秽	4
+sao ri lao qing fei zhi ke jiao nang	扫日劳清肺止咳胶囊	4
+sao shan	臊膻	4
+sao zhe yang chu	搔着痒处	4
+sao lou	扫楼	3
+sao miao chao sheng	扫描超声	3
+sao ren ci ke	骚人词客	3
+sao xing er hui	扫兴而回	3
+sao an	埽岸	2
+sao guan jun ying	扫管军营	2
+sao ren ke sha wu qing si	骚人可煞无情思	2
+sao di er jin	扫地而尽	1
+sao di jing jin	扫地净尽	1
+sao er chui xiong	搔耳捶胸	1
+sao guo gua zao	扫锅刮灶	1
+sao jing yi dai	扫径以待	1
+sao mang gong zuo bu ji xie tiao xiao zu	扫盲工作部际协调小组	1
+sao mu wang sang	扫墓望丧	1
+sao nan	骚男	1
+sao ni shu yuan	嫂溺叔援	1
+sao qing fu gu	骚情赋骨	1
+sao ren yi ke	骚人逸客	1
+sao shou bu zhi yang chu	搔首不知痒处	1
+sao shu	扫数	1
+sao ta xiang ying	扫榻相迎	1
+sao ta yi ying	扫榻以迎	1
+sao tian gua di	扫田刮地	1
+sao weng mo ke	骚翁墨客	1
+sao xue qin qu	扫穴擒渠	1
+sao zhou wu	扫帚舞	1

@@ -1,0 +1,10 @@
+bhyc	捕获异常	501
+bh	保活	310
+bhhwt	八皇后问题	291
+bhfs	保护方式	255
+bhjdsf	白话经典算法	237
+bhbm	变换编码	212
+bhcl	变换处理	198
+bhgz	变换规则	191
+bhkz	闭环控制	184
+bhhl	闭合环路	93

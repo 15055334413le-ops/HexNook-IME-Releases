@@ -1,0 +1,57 @@
+yu yun suan	与运算	441
+yu ming fu wu qi	域名服务器	391
+yu fen pei	预分配	383
+yu chu li zhi ling	预处理指令	377
+yu ming xi tong	域名系统	362
+yu fa jie xi	语法解析	322
+yu chu li cheng xu	预处理程序	315
+yu bian yi zhi ling	预编译指令	309
+yu bian yi tou wen jian	预编译头文件	308
+yu chu li ming ling	预处理命令	299
+yu ming fu wu	域名服务	298
+yu ding yi bian liang	预定义变量	281
+yu yan biao zhun	语言标准	273
+yu yan cheng xu	语言程序	269
+yu yin xin hao	语音信号	268
+yu yin chu li	语音处理	255
+yu yi jian cha	语义检查	253
+yu fa xi jie	语法细节	250
+yu yan xin xi	语言信息	243
+yu ce bian ma	预测编码	242
+yu yan shi bie	语言识别	239
+yu bian yi wen jian	预编译文件	228
+yu yin tong xin	语音通信	215
+yu yan cheng xu she ji	语言程序设计	211
+yu fa fen xi cheng xu	语法分析程序	208
+yu bian yi cheng xu	预编译程序	199
+yu yan sheng cheng	语言生成	194
+yu xian xiang shi du	余弦相似度	187
+yu yan ji cheng cha xun	语言集成查询	186
+yu yin xin hao chu li	语音信号处理	180
+yu chong dian	预充电	176
+yu zhi fen ge	阈值分割	164
+yu fang xing wei hu	预防性维护	162
+yu qing fen xi	舆情分析	162
+yu bian ma	预编码	160
+yu yi wang luo	语义网络	159
+yu zhi chu li	阈值处理	152
+yu yan chu li cheng xu	语言处理程序	150
+yu fa guan xi	语法关系	149
+yu yin zeng qiang	语音增强	141
+yu yi ju li	语义距离	137
+yu yi shu xing	语义属性	135
+yu yin bian shi	语音辨识	126
+yu yan huo qu	语言获取	125
+yu yi xiang guan xing	语义相关性	124
+yu fa shu xing	语法属性	117
+yu fa fan chou	语法范畴	116
+yu ming kong zhi qi	域名控制器	116
+yu yin shu ru fa	语音输入法	110
+yu fen jie	域分解	109
+yu ce kong zhi	预测控制	105
+yu ju ding yi fu	语句定义符	103
+yu fa miao shu yu yan	语法描述语言	98
+yu yi ci dian	语义词典	98
+yu yi shu	语义树	94
+yu yan xue li lun	语言学理论	93
+yu she guan li qi	预设管理器	88

@@ -1,0 +1,26 @@
+ci pan fen qu	磁盘分区	450
+ci pan huan cun	磁盘缓存	414
+ci pan guan li	磁盘管理	365
+ci pan qu dong qi	磁盘驱动器	346
+ci pin tong ji	词频统计	302
+ci xing biao zhu	词性标注	299
+ci fa fen xi qi	词法分析器	279
+ci xiao sheng cheng shu	次小生成树	276
+ci pan jing xiang	磁盘镜像	270
+ci pan kong zhi qi	磁盘控制器	263
+ci duan lu	次短路	217
+ci pan gao su huan cun	磁盘高速缓存	204
+ci dai qu dong qi	磁带驱动器	193
+ci dai ku	磁带库	190
+ci pan rong yu zhen lie	磁盘冗余阵列	189
+ci dai gui dang	磁带归档	173
+ci pan jie kou	磁盘接口	167
+ci pan cao zuo xi tong	磁盘操作系统	161
+ci qie fen	词切分	129
+ci yu qie fen	词语切分	127
+ci hui fen xi	词汇分析	125
+ci pan ke long	磁盘克隆	120
+ci pan shi pei qi	磁盘适配器	110
+ci mi yao	次密钥	109
+ci chang gan ying qi	磁场感应器	103
+ci pin fen bu	词频分布	101

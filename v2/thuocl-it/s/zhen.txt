@@ -1,0 +1,18 @@
+zhen ji diao shi	真机调试	426
+zhen dong hua	帧动画	408
+zhen ji ce shi	真机测试	379
+zhen bu ju	帧布局	349
+zhen jian yu ce	帧间预测	239
+zhen jian bian ma	帧间编码	208
+zhen duan cheng xu	诊断程序	191
+zhen nei ya suo	帧内压缩	191
+zhen ge shi	帧格式	184
+zhen jian ya suo	帧间压缩	183
+zhen jian yan xu lie	帧检验序列	169
+zhen shi gan tu xing	真实感图形	148
+zhen duan ce shi	诊断测试	126
+zhen duan mo xing	诊断模型	113
+zhen ding wei	帧定位	107
+zhen kong zhi zi duan	帧控制字段	107
+zhen lie chu li	阵列处理	98
+zhen lie xin hao chu li	阵列信号处理	88

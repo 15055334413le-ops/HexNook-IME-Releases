@@ -1,0 +1,16 @@
+gbck	关闭窗口	467
+gbdz	广播地址	441
+gbjsq	广播接收器	432
+gbjsz	广播接收者	373
+gbcx	关闭程序	367
+gbjz	广播机制	331
+gb	割边	309
+gbbq	关闭标签	303
+gbjb	关闭句柄	244
+gbjlj	关闭记录集	227
+gbqb	关闭全部	220
+gbbbc	关闭并保存	145
+gbqdq	改变驱动器	139
+gb	光笔	138
+gbjcjb	关闭进程句柄	109
+gbsybq	关闭所有标签	107

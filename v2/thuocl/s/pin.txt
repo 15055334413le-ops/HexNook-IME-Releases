@@ -1,0 +1,69 @@
+pin zhong	品种	108775
+pin pai qi che	品牌汽车	33587
+pin xue jian you	品学兼优	6815
+pin xue	贫血	5774
+pin pai er shou che	品牌二手车	5368
+pin pai su qiu	品牌诉求	3037
+pin ju	姘居	2710
+pin jie zi fu chuan	拼接字符串	2662
+pin yu	频域	2246
+pin xie jian cha	拼写检查	2040
+pin pai an quan	品牌安全	1320
+pin fan xiang ji	频繁项集	964
+pin pu	频谱	944
+pin tou lun zu	品头论足	528
+pin pu fen xi	频谱分析	369
+pin fan mo shi	频繁模式	346
+pin bing jiao jia	贫病交加	316
+pin jian bu neng yi	贫贱不能移	276
+pin si pin huo	拼死拼活	234
+pin zhong bao hu quan	品种保护权	176
+pin kun liao dao	贫困潦倒	167
+pin guan	品冠	158
+pin yu lv bo	频域滤波	151
+pin jian fu qi bai shi ai	贫贱夫妻百事哀	140
+pin kong yuan	品控员	127
+pin xing zhang ai	品行障碍	97
+pin zhi ji dong fu du	品质机动幅度	81
+pin zhong quan dai li	品种权代理	81
+pin pai du te xing	品牌独特性	55
+pin chi mu	贫齿目	51
+pin zhuang tai	拼装台	51
+pin ga niao	频伽鸟	42
+pin yu xiang ying	频域响应	37
+pin jian bu yi	贫贱不移	32
+pin yin bian ma	拼音编码	20
+pin nuo	品诺	17
+pin qing	品清	17
+pin kong shi	品控室	15
+pin xue xing xin zang bing	贫血性心脏病	12
+pin gao yun	品高云	10
+pin qing hu	品清湖	9
+pin guan zhan tian yin ke zhi	品官占田荫客制	8
+pin chi lei	贫齿类	7
+pin zhi zeng jian jia tiao kuan	品质增减价条款	6
+pin xi mian yi	品系免疫	4
+pin ying yang xing hu po	贫营养型湖泊	4
+pin che wang	品车网	3
+pin cun cai shu jia	贫村才数家	3
+pin jian	品建	3
+pin jian zhi zhi bu ke wang	贫贱之知不可忘	2
+pin qiong gui gong zi	贫穷贵公子	2
+pin zhong wu chu ke an pin	贫中无处可安贫	2
+pin chang yi jing sheng mu	牝常以静胜牡	1
+pin fan jin chu ao men	频繁进出澳门	1
+pin ju wang wang wu yan huo	贫居往往无烟火	1
+pin xue zhi	贫血痣	1
+pin za hui	拼杂烩	1
+pin zhong you deng ji	贫中有等级	1
+pin ji niu sai zun	贫肌纽鳃樽	0
+pin ji zhai e tun	贫棘窄额鲀	0
+pin liu chuang pao chong	贫瘤窗袍虫	0
+pin mao shuang men rong	贫毛双门戎	0
+pin mao wu qian man	贫毛无前螨	0
+pin sha zhui tou chong	贫砂锥头虫	0
+pin shi chuan fang chong	贫室串房虫	0
+pin tuo sha lun chong	品托砂轮虫	0
+pin wei tu wen yu	品味突吻鱼	0
+pin ye e	贫夜蛾	0
+pin zhi bao zheng qiang neng li	品质保证强能力	0

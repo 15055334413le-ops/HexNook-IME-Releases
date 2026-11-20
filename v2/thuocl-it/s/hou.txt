@@ -1,0 +1,29 @@
+hou tai xian cheng	后台线程	562
+hou tai jin cheng	后台进程	520
+hou tai zhi xing	后台执行	508
+hou xu bian li	后序遍历	499
+hou jin xian chu	后进先出	482
+hou tai ren wu	后台任务	466
+hou tai cheng xu	后台程序	435
+hou zhui shu zu	后缀数组	397
+hou tai fu wu qi	后台服务器	378
+hou zhui biao da shi	后缀表达式	347
+hou tai xia zai	后台下载	342
+hou tai bo fang	后台播放	331
+hou duan fu wu	后端服务	326
+hou zhui shu	后缀树	320
+hou xu bian li	后续遍历	291
+hou zhui zi dong ji	后缀自动机	274
+hou tai zuo ye	后台作业	254
+hou tai yu yan	后台语言	248
+hou tai jian kong	后台监控	247
+hou xiang chuan bo	后向传播	226
+hou tai ding wei	后台定位	221
+hou tai kuang jia	后台框架	202
+hou tai mo ban	后台模板	196
+hou duan kuang jia	后端框架	183
+hou tai fen ye	后台分页	151
+hou yuan cun chu qi	后援存储器	129
+hou zhui shu zu	后缀树组	112
+hou bei xi tong	后备系统	94
+hou tai guan li kuang jia	后台管理框架	91

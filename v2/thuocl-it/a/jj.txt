@@ -1,0 +1,16 @@
+jjfw	拒绝访问	403
+jjsy	聚集索引	388
+jjsjwl	卷积神经网络	384
+jjfw	拒绝服务	359
+jjfwgj	拒绝服务攻击	334
+jjxz	间接寻址	320
+jjwl	卷积网络	313
+jjcfb	九九乘法表	286
+jjzl	精简指令	244
+jjpx	极角排序	241
+jjgz	机架感知	214
+jjkxx	经济可行性	175
+jjbc	解决报错	162
+jjdz	间接地址	145
+jjl	将金令	125
+jjyx	降级运行	94

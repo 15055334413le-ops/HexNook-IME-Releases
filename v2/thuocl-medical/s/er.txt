@@ -1,0 +1,104 @@
+er ji yi yuan	二级医院	977
+er bi yan hou	耳鼻咽喉	569
+er dai bing li	二代病例	509
+er bi yan hou tou jing wai ke	耳鼻咽喉头颈外科	436
+er ming er long	耳鸣耳聋	353
+er tong hu li	儿童护理	353
+er ci jie gou	二次结构	277
+er zhong gan ran	二重感染	224
+er ping	耳屏	211
+er yang hua tan zhong du	二氧化碳中毒	201
+er lv ben yang yi suan	二氯苯氧乙酸	196
+er jian ban xia zhai	二尖瓣狭窄	192
+er bei ti xi bao	二倍体细胞	189
+er yang hua tan ji guang qi	二氧化碳激光器	165
+er chu xue	耳出血	160
+er xiao ji jia ben	二硝基甲苯	155
+er jian ban guan bi bu quan	二尖瓣关闭不全	153
+er ben yi xi	二苯乙烯	147
+er qi mei du	二期梅毒	147
+er jian ban zhi huan shu	二尖瓣置换术	142
+er yang hua tan fen ya	二氧化碳分压	142
+er liu nong	耳流脓	135
+er zhi wan	二至丸	135
+er dan qin	二氮嗪	132
+er jian ban tuo chui	二尖瓣脱垂	129
+er lv yi qing niao suan na	二氯异氰尿酸钠	129
+er tong bao jian xue	儿童保健学	125
+er tong bi dou yan	儿童鼻窦炎	125
+er tong kou qiang yi xue	儿童口腔医学	125
+er ying hua zheng	耳硬化症	125
+er jia shuang gua huan shi pian	二甲双胍缓释片	121
+er long tong qiao wan	耳聋通窍丸	121
+er shi wu wei zhen zhu wan	二十五味珍珠丸	121
+er shi tan si xi suan	二十碳四烯酸	113
+er qiang ji bing tong	二羟基丙酮	108
+er jian ban cheng xing shu	二尖瓣成形术	103
+er kuo ruan gu mo yan	耳廓软骨膜炎	103
+er xiu yi wan	二溴乙烷	103
+er jian ban fan liu	二尖瓣返流	98
+er tong qing fei kou fu ye	儿童清肺口服液	98
+er yang hua liu zhong du	二氧化硫中毒	98
+er yang hua tan ma zui	二氧化碳麻醉	98
+er dan qin zhu she ye	二氮嗪注射液	91
+er jia ji ben an	二甲基苯胺	91
+er kuo jia xing nang zhong	耳廓假性囊肿	91
+er lin suan guo tang	二磷酸果糖	91
+er lou	二漏	91
+er shi wei rou dou kou wan	二十味肉豆蔻丸	91
+er shi wu wei song shi wan	二十五味松石丸	91
+er shi wu wei yu gan zi wan	二十五味余甘子丸	91
+er tong nao xing tan huan	儿童脑性瘫痪	91
+er tong qing fei wan	儿童清肺丸	91
+er xie kang tie mo	儿泻康贴膜	91
+er xiu lv bing wan	二溴氯丙烷	91
+er cha suan	儿茶酸	84
+er gan qing kou fu ye	儿感清口服液	84
+er jia gui you	二甲硅油	84
+er long zuo ci wan	耳聋左慈丸	84
+er mu ning sou wan	二母宁嗽丸	84
+er shi wu wei er cha wan	二十五味儿茶丸	84
+er yang hua tan ji guang zhi liao	二氧化碳激光治疗	84
+er jia ji yi xian an	二甲基乙酰胺	76
+er kang ning tang jiang	儿康宁糖浆	76
+er kuo zai zao shu	耳廓再造术	76
+er mu ning sou pian	二母宁嗽片	76
+er qiang ben jia suan	二羟苯甲酸	76
+er qiu ji bing huang suan na	二巯基丙磺酸钠	76
+er tong shao nian wei sheng xue	儿童少年卫生学	76
+er xian tang	二仙汤	76
+er jia gui you pian	二甲硅油片	66
+er jia gui you ru ji	二甲硅油乳剂	66
+er jian ban qiu nang kuo zhang shu	二尖瓣球囊扩张术	66
+er long hou gong yuan	二龙喉公园	66
+er lv er fu jia wan	二氯二氟甲烷	66
+er qiu ding er suan	二巯丁二酸	66
+er shi wu wei gui jiu wan	二十五味鬼臼丸	66
+er shi wu wei lv xue wan	二十五味驴血丸	66
+er tong gan re qing wan	儿童感热清丸	66
+er tong gao gai pian	儿童高钙片	66
+er tong ke ye	儿童咳液	66
+er yang bing qin	二氧丙嗪	66
+er yi qing suan jia ben zhi	二异氰酸甲苯酯	66
+er bu dai zhuang pao zhen	耳部带状疱疹	51
+er dai zhuang pao zhen	耳带状疱疹	51
+er jia ben zhong du	二甲苯中毒	51
+er jia gui you qi wu ji	二甲硅油气雾剂	51
+er jia huang suan a mi san qin	二甲磺酸阿米三嗪	51
+er jie he	耳结核	51
+er ka fei xian kui ni suan	二咖啡酰奎尼酸	51
+er ke hu li xue	儿科护理学	51
+er ke qi li san	儿科七厘散	51
+er liu su tang chun	二硫苏糖醇	51
+er mu qing fei wan	二母清肺丸	51
+er nie shen jing	耳颞神经	51
+er qing ai tuo fei	二氢埃托啡	51
+er qiu bing huang na zhu she ye	二巯丙磺钠注射液	51
+er shi ba wan chun	二十八烷醇	51
+er shi wu wei a wei jiao nang	二十五味阿魏胶囊	51
+er shi wu wei da tang wan	二十五味大汤丸	51
+er shi wu wei fei bing wan	二十五味肺病丸	51
+er shi wu wei shan hu wan	二十五味珊瑚丸	51
+er yi an ji yi chun	二乙氨基乙醇	51
+er yi bing an	二异丙胺	51
+er yuan xing nao nong zhong	耳源性脑脓肿	51

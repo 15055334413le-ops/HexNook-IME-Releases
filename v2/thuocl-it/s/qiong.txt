@@ -1,0 +1,4 @@
+qiong ju sou suo	穷举搜索	240
+qiong ju gong ji	穷举攻击	160
+qiong ju ce shi	穷举测试	146
+qiong jie sou suo	穷竭搜索	131

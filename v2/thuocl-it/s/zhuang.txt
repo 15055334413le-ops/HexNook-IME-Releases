@@ -1,0 +1,22 @@
+zhuang shi mo shi	装饰模式	442
+zhuang tai mo shi	状态模式	421
+zhuang tai bao cun	状态保存	397
+zhuang tai tu	状态图	389
+zhuang tai ya suo	状态压缩	381
+zhuang shi qi mo shi	装饰器模式	360
+zhuang shi zhe mo shi	装饰者模式	330
+zhuang ya	状压	318
+zhuang tai lan gao du	状态栏高度	293
+zhuang shi she ji mo shi	装饰设计模式	287
+zhuang tai lan yan se	状态栏颜色	271
+zhuang ru cheng xu	装入程序	233
+zhuang tai zhuan yi tu	状态转移图	232
+zhuang xiang chai xiang	装箱拆箱	221
+zhuang xiang wen ti	装箱问题	216
+zhuang tai zhan	状态栈	177
+zhuang ru mo kuai	装入模块	174
+zhuang tai dui lie	状态队列	165
+zhuang pei jian	装配件	163
+zhuang tai kong jian sou suo	状态空间搜索	147
+zhuang tai bao zha	状态爆炸	101
+zhuang tai kong jian biao shi	状态空间表示	98

@@ -1,0 +1,117 @@
+zhi xing shun xu	执行顺序	656
+zhi xing cheng xu	执行程序	631
+zhi ding mu lu	指定目录	630
+zhi zhen bian liang	指针变量	616
+zhi xing liu cheng	执行流程	539
+zhi zhen shu zu	指针数组	507
+zhi xing huan jing	执行环境	497
+zhi neng zhi zhen	智能指针	462
+zhi wei	置位	459
+zhi jie cha ru pai xu	直接插入排序	454
+zhi chi xiang liang ji	支持向量机	449
+zhi du shu xing	只读属性	440
+zhi xing zhuang tai	执行状态	437
+zhi shi fu	指示符	407
+zhi jie ying she	直接映射	400
+zhi xing xi tong	执行系统	400
+zhi xing yin qing	执行引擎	389
+zhi zhen chuan di	指针传递	383
+zhi zhen de zhi zhen	指针的指针	374
+zhi chuan di	值传递	369
+zhi yin zi	质因子	367
+zhi jie cun qu	直接存取	365
+zhi lei xing	值类型	360
+zhi ling di zhi	指令地址	357
+zhi zhen can shu	指针参数	357
+zhi xing shang xia wen	执行上下文	355
+zhi zhen yi dong	指针移动	355
+zhi xing liu	执行流	339
+zhi jie xun zhi	直接寻址	323
+zhi ze lian mo shi	职责链模式	323
+zhi ling xi tong	指令系统	318
+zhi fu jie kou	支付接口	313
+zhi neng ji qi ren	智能机器人	298
+zhi fu bao zhi fu	支付宝支付	295
+zhi fang tu jun heng hua	直方图均衡化	285
+zhi du cun chu qi	只读存储器	282
+zhi chi ruan jian	支持软件	280
+zhi ze lian	职责链	276
+zhi dui xiang	值对象	271
+zhi ling ji cun qi	指令寄存器	271
+zhi yin shu fen jie	质因数分解	269
+zhi ling zhou qi	指令周期	268
+zhi bo liu	直播流	266
+zhi ling liu	指令流	265
+zhi neng shou ji shi chang	智能手机市场	258
+zhi chi cheng xu	支持程序	257
+zhi xing kai xiao	执行开销	257
+zhi ling huan cun	指令缓存	243
+zhi wu da zhan jiang shi	植物大战僵尸	242
+zhi ling liu shui xian	指令流水线	235
+zhi xing zhan	执行栈	235
+zhi ling you hua	指令优化	231
+zhi ling chu li	指令处理	229
+zhi zhan	值栈	229
+zhi ling yu qu	指令预取	225
+zhi fu bao jie kou	支付宝接口	222
+zhi xian ni he	直线拟合	221
+zhi ling ji bing xing	指令级并行	220
+zhi fang tu jun heng	直方图均衡	216
+zhi ling dui lie	指令队列	215
+zhi ling lei xing	指令类型	212
+zhi shu shi jian	指数时间	211
+zhi ling ji jia gou	指令集架构	205
+zhi ling sheng cheng	指令生成	203
+zhi xian jian ce	直线检测	203
+zhi chi guo cheng	支持过程	202
+zhi shi kuo zhan	知识扩展	200
+zhi diao yong	值调用	195
+zhi neng lu you qi	智能路由器	187
+zhi yin zi fen jie	质因子分解	187
+zhi jie mo shi	直接模式	182
+zhi chuan	值传	180
+zhi fang tu pi pei	直方图匹配	180
+zhi ling ge shi	指令格式	180
+zhi fu bao ji cheng	支付宝集成	179
+zhi ling diao du	指令调度	178
+zhi ling yi ma qi	指令译码器	176
+zhi ling ji shu qi	指令计数器	172
+zhi bo ji shu	直播技术	171
+zhi meng mo ban	织梦模板	168
+zhi neng yi biao	智能仪表	164
+zhi shi gong cheng	知识工程	162
+zhi neng xiao che	智能小车	159
+zhi biao yu yan	置标语言	158
+zhi neng dai li	智能代理	157
+zhi ling gao su huan cun	指令高速缓存	156
+zhi neng ji suan ji	智能计算机	152
+zhi xing huan chong qu	执行缓冲区	148
+zhi fang tu gui ding hua	直方图规定化	147
+zhi shi mo xing	知识模型	144
+zhi shi xiang jie	知识详解	140
+zhi ye lu xian	职业路线	140
+zhi zao zhi xing xi tong	制造执行系统	140
+zhi meng fang zhan	织梦仿站	137
+zhi ling jie ma	指令解码	136
+zhi ling fen lei	指令分类	135
+zhi shi kuai	知识块	134
+zhi fu zhong xin	支付中心	133
+zhi shi yuan	知识源	130
+zhi huan mi ma	置换密码	129
+zhi ling gen zong	指令跟踪	129
+zhi shi ku xi tong	知识库系统	125
+zhi shi ti qu	知识提取	125
+zhi neng ke xue	智能科学	122
+zhi shi tui li	知识推理	120
+zhi wei ding ceng	置为顶层	115
+zhi chang gui hua	职场规划	114
+zhi fang tu xiu zheng	直方图修正	113
+zhi liang gong cheng	质量工程	108
+zhi shi dan yuan	知识单元	108
+zhi ling kong zhi qi	指令控制器	105
+zhi wen jian shu xing	置文件属性	101
+zhi xing zhu guan	执行主管	100
+zhi ling kong zhi dan yuan	指令控制单元	94
+zhi neng jia su	智能加速	94
+zhi can	值参	93
+zhi shi fu za xing	知识复杂性	93

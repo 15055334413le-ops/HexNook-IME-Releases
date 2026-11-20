@@ -1,0 +1,420 @@
+yue ye che	越野车	126663
+yue jin	跃进	107550
+yue cai	粤菜	56098
+yue xin	月薪	52357
+yue se fu	约瑟夫	32368
+yue han	约翰	30339
+yue yang	岳阳	22210
+yue yang shi	岳阳市	11162
+yue xiu	越秀	10112
+yue shu tiao jian	约束条件	9167
+yue qian long	越前龙	8739
+yue jing	月经	7448
+yue fei	岳飞	6546
+yue han xun	约翰逊	6169
+yue yue yu shi	跃跃欲试	6108
+yue du qi	阅读器	4650
+yue ding su cheng	约定俗成	2888
+yue lu	岳麓	2704
+yue tang	岳塘	2702
+yue ding wei yue jin	约定违约金	2434
+yue bao	月报	2432
+yue fa san zhang	约法三章	2422
+yue lu shan	岳麓山	2331
+yue hai	粤海	2127
+yue ran zhi shang	跃然纸上	2035
+yue qing shi	乐清市	1843
+yue zu dai pao	越俎代庖	1551
+yue yang lou	岳阳楼	1528
+yue liang wan	月亮湾	1478
+yue du cheng xu	阅读程序	1471
+yue zhong	越中	1451
+yue ju	越桔	1431
+yue ding jie chu	约定解除	1351
+yue quan xing wei	越权行为	1311
+yue xiu gong yuan	越秀公园	1144
+yue lu shu yuan	岳麓书院	1053
+yue hu	月湖	918
+yue gui ye	月桂叶	895
+yue tan	月坛	880
+yue lu da dao	岳麓大道	730
+yue gui suan	月桂酸	669
+yue wang	越王	659
+yue jing zhou qi	月经周期	651
+yue xi	岳西	637
+yue shu ge shu	约数个数	596
+yue chi	岳池	579
+yue jin lu	跃进路	574
+yue xiu shan	越秀山	538
+yue jiang lou	阅江楼	512
+yue jia zui	岳家嘴	508
+yue miao	岳庙	493
+yue ding cai chan zhi	约定财产制	484
+yue ya hu	月牙湖	478
+yue yi	乐毅	435
+yue xing	月星	383
+yue jing shi tiao	月经失调	337
+yue ma chang	阅马场	337
+yue hei feng gao	月黑风高	331
+yue hu gong yuan	月湖公园	330
+yue liang wan da dao	月亮湾大道	319
+yue shu gui ze	约束规则	310
+yue feng	岳峰	307
+yue ge zhuang	岳各庄	274
+yue cheng	越城	273
+yue shi gu xiang ming	月是故乡明	245
+yue xiu bei lu	越秀北路	244
+yue guang guang chang	月光广场	229
+yue ke xia geng	约克夏梗	218
+yue jing guo duo	月经过多	214
+yue shu han shu	约束函数	214
+yue he	月河	205
+yue shan	月山	184
+yue shang liu shao tou	月上柳梢头	180
+yue quan wu xiao	越权无效	169
+yue xiu nan lu	越秀南路	166
+yue pu hu	岳普湖	165
+yue ding hui gou	约定回购	153
+yue tang	月塘	153
+yue yang yi yuan	岳阳医院	149
+yue shu fang cheng	约束方程	146
+yue du	月读	145
+yue tan bei jie	月坛北街	128
+yue you yin qing yuan que	月有阴晴圆缺	126
+yue hua	粤华	124
+yue jin jie	跃进街	124
+yue juan bi lu	阅卷笔录	124
+yue han song	约翰松	110
+yue ye ke che	越野客车	106
+yue yun	岳云	103
+yue yuan	月苑	101
+yue fu jie	岳府街	98
+yue gu niang	月姑娘	94
+yue ming xing xi	月明星稀	94
+yue tan gong yuan	月坛公园	92
+yue liang jie jie	月亮姐姐	91
+yue hua lu	岳华路	90
+yue ma yang bian	跃马扬鞭	90
+yue yang lu	岳阳路	89
+yue li ao	约里奥	82
+yue xia lao ren	月下老人	81
+yue bei yi yuan	粤北医院	79
+yue shu man zu	约束满足	76
+yue an	月安	74
+yue quan jing ying	越权经营	74
+yue ke jun quan	约克郡犬	73
+yue lang xing xi	月朗星稀	73
+yue lang feng qing	月朗风清	70
+yue jin he	跃进河	66
+yue bu qun	岳不群	64
+yue dao zhong qiu fen wai ming	月到中秋分外明	61
+yue ming lou	月明楼	58
+yue lu qu yue lu da dao	岳麓区岳麓大道	57
+yue ju hong	越橘红	55
+yue mei	月眉	55
+yue xiu lu	越秀路	54
+yue bei fu lu huang	越北腹露蝗	53
+yue chi	月池	53
+yue zhi	月氏	50
+yue lei	岳雷	49
+yue xiu qiao	越秀桥	49
+yue tan ti yu chang	月坛体育场	47
+yue ya he	月牙河	47
+yue jing xi shao	月经稀少	46
+yue qi shu zi jie kou	乐器数字接口	45
+yue e	越鹅	42
+yue jing shi	月经史	40
+yue an hua yuan	月安花园	39
+yue xiu wai guo yu xue yuan	越秀外国语学院	39
+yue dong hui you	越冬洄游	38
+yue deng ge cun	月登阁村	36
+yue xiang cun	粤香村	36
+yue gong bing	月宫饼	33
+yue he jie	月河街	30
+yue yuan hua hao	月圆花好	30
+yue bai feng qing	月白风清	29
+yue cheng guo ji hua yuan	阅城国际花园	29
+yue dong hui guan	粤东会馆	29
+yue yun er feng	月晕而风	29
+yue liang wan hua yuan	月亮湾花园	28
+yue man ze kui	月满则亏	28
+yue qian	粤嵌	28
+yue dan	月旦	27
+yue quan wu xiao yuan ze	越权无效原则	27
+yue qing xian	乐清县	26
+yue shu ju zhen	约束矩阵	26
+yue jin ren jian chun se	阅尽人间春色	25
+yue jian cao you	月见草油	23
+yue jin she qu	跃进社区	23
+yue jing xian qi	月经先期	21
+yue shan lu	越山路	20
+yue jia zhai	岳家寨	18
+yue shui dian	粤水电	18
+yue tang jie dao	月塘街道	18
+yue yong da jiang liu	月涌大江流	18
+yue luo wu ti shuang man tian	月落乌啼霜满天	17
+yue se quan	约瑟犬	17
+yue shu chuan bo	约束传播	17
+yue wu mu	岳武穆	17
+yue xiu yuan tiao	越秀远眺	17
+yue yu deng yi jiu	月与灯依旧	17
+yue ji yuan xiao qu	月季园小区	16
+yue jing hou qi	月经后期	16
+yue bei gong ye kai fa qu	粤北工业开发区	15
+yue bu	岳步	15
+yue niao chao nan zhi	越鸟巢南枝	15
+yue xing	悦兴	15
+yue ying	越影	15
+yue er wan wan zhao jiu zhou	月儿弯弯照九州	14
+yue wang gou jian	越王勾践	14
+yue xing cun	月形村	14
+yue xing wan cun	月形湾村	14
+yue ji su song	越级诉讼	13
+yue le jie	月乐街	12
+yue nan mao	越南猫	12
+yue dian	岳店	11
+yue gui chun liu suan na	月桂醇硫酸钠	11
+yue jia zhuang	岳家庄	11
+yue jing long hua	阅景龙华	11
+yue nan hai yang fa	越南海洋法	11
+yue tang	月堂	11
+yue zhuang	岳庄	11
+yue jia yu	月甲鱼	10
+yue ke xia geng quan	约克夏梗犬	10
+yue ya hu hua yuan	月牙湖花园	10
+yue ya shan	月牙山	10
+yue yang dao	岳阳道	10
+yue yuan wu cun	月苑五村	10
+yue ji yuan she qu	月季园社区	9
+yue liang wan lu kou	月亮湾路口	9
+yue ming cun	月明村	9
+yue qian shui mu	越前水母	9
+yue ya he nan lu	月牙河南路	9
+yue yue	岳跃	9
+yue guang luo	月光螺	8
+yue qiao	越桥	8
+yue zhai cun	岳寨村	8
+yue ba xiang	岳坝乡	7
+yue ge zhuang qiao dong	岳各庄桥东	7
+yue jing zhen	月经疹	7
+yue miao jie dao	岳庙街道	7
+yue nan bu niao zhu	越南捕鸟蛛	7
+yue shang cong long si bai xuan	跃上葱茏四百旋	7
+yue shuai qiao	岳帅桥	7
+yue xi cun	岳溪村	7
+yue xiu ceng lou	越秀层楼	7
+yue cheng cun	岳城村	6
+yue gu	月骨	6
+yue ji ye feng	月季叶蜂	6
+yue nan luo di qian	越南落地签	6
+yue xiu xin hui	越秀新晖	6
+yue ya hu tong	月牙胡同	6
+yue ye yi she di	月夜忆舍弟	6
+yue zhao hua lin jie shi xian	月照花林皆似霰	6
+yue ding tiao kuan nei rong	约定条款内容	5
+yue gai zhen	约改镇	5
+yue ge zhuang qiao bei	岳各庄桥北	5
+yue guang zhang zhao jin zun li	月光长照金樽里	5
+yue luo shan mei ying chun feng	越罗衫袂迎春风	5
+yue qi zhai	岳旗寨	5
+yue shu xing bao hu	约束性保护	5
+yue tao ya yuan	悦涛雅苑	5
+yue xing que yu ren xiang sui	月行却与人相随	5
+yue chu jing shan niao	月出惊山鸟	4
+yue dan min shang fa yan jiu	月旦民商法研究	4
+yue han jie dao	粤汉街道	4
+yue he jie dao	越河街道	4
+yue hong yuan	粤宏远	4
+yue ji bu jie yin	月既不解饮	4
+yue jiang hua yuan	阅江花苑	4
+yue long lu	跃龙路	4
+yue luo jin ping xu	月落锦屏虚	4
+yue mei cun	月眉村	4
+yue nan pao tang	岳南泡糖	4
+yue ya he dao	月牙河道	4
+yue ya xiang	月牙巷	4
+yue yang lou shang dui jun shan	岳阳楼上对君山	4
+yue zha xiang	岳扎乡	4
+yue zhong shuang li dou chan juan	月中霜里斗婵娟	4
+yue ba xiang	约巴乡	3
+yue bang jiu xiao duo	月傍九霄多	3
+yue gei yi you yu	月给亦有余	3
+yue guang hu tong	月光胡同	3
+yue he she qu	月河社区	3
+yue hua xi	粤华西	3
+yue hua xiao qu	月华小区	3
+yue ju wan	越鞠丸	3
+yue mei zhong	岳美中	3
+yue ming chuan di cen ci qi	月明船笛参差起	3
+yue qian xie	越前蟹	3
+yue ren yu tian lao	越人语天姥	3
+yue si di	约斯帝	3
+yue wei zhen	岳圩镇	3
+yue xing cun	月星村	3
+yue xiu lian feng	粤秀连峰	3
+yue xiu song tao	粤秀松涛	3
+yue yuan lu	悦园路	3
+yue yuan xiang	岳源乡	3
+yue zhang ji	岳张集	3
+yue zheng	岳正	3
+yue dao liu shao tou	月到柳梢头	2
+yue gang ban shi chu	跃钢办事处	2
+yue gang jia shu yuan	跃钢家属院	2
+yue ge zhuang hong xing mei kai long	岳各庄红星美凯龙	2
+yue he qiao	月河桥	2
+yue he xiao xue	月河小学	2
+yue hei yan fei gao	月黑雁飞高	2
+yue hua lu	悦华路	2
+yue jian cao you jiao wan	月见草油胶丸	2
+yue jing chao qian	月经超前	2
+yue jing pin fan	月经频繁	2
+yue lai da jiu dian	悦来大酒店	2
+yue long nan lu	跃龙南路	2
+yue ming ren yi lou	月明人倚楼	2
+yue qi zhai cun	岳旗寨村	2
+yue shang cong long si bai xuan	跃上葱笼四百旋	2
+yue shang cun	岳上村	2
+yue tai hu tong	月台胡同	2
+yue ya qiao	月雅桥	2
+yue ye che lun tan	越野车论坛	2
+yue zhang yuan fen ding zi shui	越嶂远分丁字水	2
+yue zhao yi gu zhou	月照一孤舟	2
+yue zhou wei	月洲围	2
+yue zhuang cun wei hui	岳庄村委会	2
+yue zi wan wan zhao jiu zhou	月子弯弯照九州	2
+yue ba xiang	岳巴乡	1
+yue bai yan qing shui an liu	月白烟青水暗流	1
+yue chu gu zhou han	月出孤舟寒	1
+yue chu yu dong shan zhi shang	月出于东山之上	1
+yue dai	岳岱	1
+yue dan chang ju di yi ping	月旦尝居第一评	1
+yue feng bai qian guan er pin	月俸百千官二品	1
+yue gai tan	约改滩	1
+yue gao	岳高	1
+yue gao yun cha shui jing shu	月高云插水晶梳	1
+yue ge zhuang she qu	岳各庄社区	1
+yue hai hua yuan	粤海花园	1
+yue han lan de hu die yu	约翰兰德蝴蝶鱼	1
+yue han wo ke	约翰沃克	1
+yue hei jian yu deng	月黑见渔灯	1
+yue hua yuan	粤华园	1
+yue ji bai lun dun jie	月季白轮盾蚧	1
+yue ji bai lun jie	月季白轮蚧	1
+yue ji yuan dong li she qu	月季园东里社区	1
+yue jia zhen	岳家镇	1
+yue ju bao he wan	越鞠保和丸	1
+yue ke na si zao	约克那斯藻	1
+yue ke ting	悦可婷	1
+yue li zhu	粤丽珠	1
+yue liang cuo jue	月亮错觉	1
+yue long shu	跃龙属	1
+yue lu shui jiao gui ye xiang	月露谁教桂叶香	1
+yue lu wei zhi yin	月露为知音	1
+yue man ju	越蔓橘	1
+yue ming duo bei yun fang	月明多被云妨	1
+yue ming geng xiang huan yi zai	月明更想桓伊在	1
+yue ming jian gu si	月明见古寺	1
+yue ming song xia fang long jing	月明松下房栊静	1
+yue ming yi zhou qu	月明移舟去	1
+yue ming zheng lu ting	月明征虏亭	1
+yue nan xian	越南鹇	1
+yue nv tian xia bai	越女天下白	1
+yue pu huang gan nen	越浦黄柑嫩	1
+yue qian qiu ting yu cen ci	月前秋听玉参差	1
+yue qin qi zhi qing hua	悦亲戚之情话	1
+yue ren dao shang yu gou	越人道上遇狗	1
+yue ren ru yue chuan	阅人如阅川	1
+yue se fu si da lin	约瑟夫斯大林	1
+yue se zui yuan ke	月色醉远客	1
+yue shan chang qing shui zhang bai	越山长青水长白	1
+yue shan hun zai lang hua zhong	越山浑在浪花中	1
+yue shi yue di zi yun zhe	曰师曰弟子云者	1
+yue tan bei jie bei zhan	月坛北街北站	1
+yue tu kong dao yao	月兔空捣药	1
+yue wa wei	粤瓦韦	1
+yue wei chong	跃尾虫	1
+yue wei lu	月纬路	1
+yue xi yuan	月溪苑	1
+yue xia du zhuo si shou	月下独酌四首	1
+yue xiu tou zi	越秀投资	1
+yue ya he dong lu	月牙河东路	1
+yue yang cheng xia shui man man	岳阳城下水漫漫	1
+yue yang zhuang guan tian xia chuan	岳阳壮观天下传	1
+yue yi hua ying shang lan gan	月移花影上栏杆	1
+yue you yin jing yuan que	月有阴睛圆缺	1
+yue zhao gao lou yi qu ge	月照高楼一曲歌	1
+yue zhong shan se jing zhong kan	越中山色镜中看	1
+yue an ju ma lu	约安巨马陆	0
+yue ban bi cong	月斑鼻蟌	0
+yue ban da wen dian man	约斑大吻电鳗	0
+yue ban gu e shi ya ying	月斑鼓额食蚜蝇	0
+yue ban xie ji	月斑斜棘	0
+yue bei jiang ying	越北绛蝇	0
+yue bei yuan mao tou fu	越北原矛头蝮	0
+yue chun yi li jin gui	月唇异丽金龟	0
+yue dai bu jia	悦怠步甲	0
+yue dan mo tou yu	约旦墨头鱼	0
+yue dian wei ye e	月殿尾夜蛾	0
+yue feng yi hao	粤枫一号	0
+yue fu wei mao pan chong	月斧伪锚盘虫	0
+yue fu wei shi pan gou chong	月斧伪似盘钩虫	0
+yue guang die yu	月光蝶鱼	0
+yue han mao li yu	约翰矛丽鱼	0
+yue han na bo yu	约翰娜波鱼	0
+yue han na mao li yu	约翰娜矛丽鱼	0
+yue han nong chang	约翰农场	0
+yue han si dun qian jiao tun	约翰斯顿前角鲀	0
+yue han xia kou nian	约翰下口鲶	0
+yue han xun mao bi nian	约翰逊毛鼻鲶	0
+yue hu	越鱯	0
+yue huang fu huang	越黄佛蝗	0
+yue huo yi chong	约霍伊虫	0
+yue ji lv mang chun	月季绿盲蝽	0
+yue ji qie ye feng	月季切叶蜂	0
+yue jian qi yuan chun	月肩奇缘蝽	0
+yue jian zhang zhou e	月间掌舟蛾	0
+yue jiao fen jin gui	月角粪金龟	0
+yue jin san zhi lun chong	跃进三肢轮虫	0
+yue ju hei zhi xiao juan e	越橘黑痣小卷蛾	0
+yue ka ke yin han yu	跃卡颏银汉鱼	0
+yue ke xia quan geng quan	约克夏犭更犬	0
+yue liang xi rou shan hu	月亮息肉珊瑚	0
+yue lu nan shi ruo ban zhu	岳麓南氏弱斑蛛	0
+yue lu qi fang zhu	岳麓七纺蛛	0
+yue lu qiao zhu	岳麓翘蛛	0
+yue lu zha zhu	岳麓栅蛛	0
+yue ma feng	约马蜂	0
+yue mang chun	跃盲蝽	0
+yue nan ao jing tiao jia	越南凹胫跳甲	0
+yue nan ban chang	越南半鲿	0
+yue nan ce ci tiao jia	越南侧刺跳甲	0
+yue nan ci fang pi	越南刺鰟鮍	0
+yue nan ci mao chong	越南刺毛虫	0
+yue nan ci pang pi	越南刺鳑鲏	0
+yue nan dan zhao ao feng	越南单爪螯蜂	0
+yue nan dong ya zhu ye qing she	越南东亚竹叶青蛇	0
+yue nan gu jie xia	越南古洁虾	0
+yue nan mo tou yu	越南墨头鱼	0
+yue nan ping xiong gui	越南平胸龟	0
+yue nan qu jiao chan	越南屈角蝉	0
+yue nan sheng wen e luo	越南绳纹峨螺	0
+yue nan shi pan shui mu	越南十盘水母	0
+yue nan tou kong wu xu pi	越南头孔无须魮	0
+yue nan xiao si tang	越南小丝螳	0
+yue nan ye hou	越南叶猴	0
+yue nan ye niu	越南野牛	0
+yue nan yi lie	越南异鱲	0
+yue nan yu	越南鱊	0
+yue nan zhai ti xi chong	越南窄体吸虫	0
+yue nan zhang wei kuo zui niao	越南长尾阔嘴鸟	0
+yue nan zhao	越南鮡	0
+yue nan zhui wei kou jia	越南锥尾叩甲	0
+yue se shi xi mi ying wu	约瑟氏吸蜜鹦鹉	0
+yue shi ao fu xue	约氏凹腹鳕	0
+yue shi hei jiao an kang	约氏黑角鮟鱇	0
+yue shi hei xi yu	约氏黑犀鱼	0
+yue shi pu	约氏獛	0
+yue shi si bi ka chong	约氏斯必卡虫	0
+yue shi si long tou yu	约氏丝隆头鱼	0
+yue wen kou bi ying	月纹口鼻蝇	0
+yue wen zhan ye e	月纹毡夜蛾	0

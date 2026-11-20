@@ -1,0 +1,24 @@
+gui kou guan li	归口管理	713
+gui tou yan	龟头炎	211
+gui jia jiao	龟甲胶	158
+gui pi tang	归脾汤	155
+gui fu di huang wan	桂附地黄丸	132
+gui lin xi gua shuang	桂林西瓜霜	129
+gui shao di huang wan	归芍地黄丸	98
+gui zhi fu ling wan	桂枝茯苓丸	98
+gui bie wan	龟鳖丸	91
+gui li qin	桂利嗪	84
+gui long ke chuan ning	桂龙咳喘宁	84
+gui yu jiang gai su	鲑鱼降钙素	84
+gui yuan qiong yu chong ji	桂圆琼玉冲剂	76
+gui long ke chuan ning pian	桂龙咳喘宁片	66
+gui pu shen qing jiao nang	桂蒲肾清胶囊	66
+gui zhi fu ling jiao nang	桂枝茯苓胶囊	66
+gui fu li zhong wan	桂附理中丸	51
+gui lu er jiao wan	龟鹿二胶丸	51
+gui lu er xian gao	龟鹿二仙膏	51
+gui pi ke li	归脾颗粒	51
+gui pi quan	桂皮醛	51
+gui yu jiang gai su zhu she ye	鲑鱼降钙素注射液	51
+gui yuan jian nao pian	归元健脑片	51
+gui zhi ren can tang	桂枝人参汤	51

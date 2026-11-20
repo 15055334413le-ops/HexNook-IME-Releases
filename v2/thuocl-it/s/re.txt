@@ -1,0 +1,6 @@
+re bu shu	热部署	362
+re bei fen	热备份	322
+re qi dong	热启动	267
+re xiu fu	热修复	259
+re jia zai	热加载	242
+re bu ding	热补丁	223
