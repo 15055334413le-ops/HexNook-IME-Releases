@@ -1,4 +1,4 @@
-# 语音包 Release（voice-*）→ 阿里云 OSS voice/
+# 语音包 Release（voice-*）→ OSS voice/；安卓安装包 Release（android-v*）→ OSS android/ + latest.json
 #   语音运行库与模型单文件超过 git 100 MB 上限，不经数据分支，直接把 Release 附件镜像到 OSS。
 #   客户端下载顺序：OSS voice/<文件名> 优先，失败回退到本仓库 Release voice-v1 的附件。
 name: voice-mirror
@@ -6,9 +6,13 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: 语音包 Release 标签（voice- 开头）
+        description: Release 标签（voice- 或 android-v 开头）
         required: true
         default: voice-v1
+      code:
+        description: 安卓 versionCode（android-v* 必填）
+        required: false
+        default: ''
   release:
     types: [published]
 
@@ -21,7 +25,7 @@ permissions:
 
 jobs:
   mirror:
-    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.release.tag_name, 'voice-')
+    if: github.event_name == 'workflow_dispatch' || (startsWith(github.event.release.tag_name, 'voice-') || startsWith(github.event.release.tag_name, 'android-v'))
     runs-on: ubuntu-latest
     timeout-minutes: 60
     env:
@@ -31,9 +35,10 @@ jobs:
       OSS_ENDPOINT: ${{ secrets.OSS_ENDPOINT }}
       GITHUB_TOKEN: ${{ github.token }}
       TAG: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.event.release.tag_name }}
+      CODE: ${{ inputs.code }}
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - name: 镜像语音包到 OSS voice/
-        run: python3 -I tools/mirror_voice.py --tag "$TAG"
+      - name: 镜像 Release 附件到 OSS
+        run: python3 -I tools/mirror_voice.py --tag "$TAG" --code "$CODE"

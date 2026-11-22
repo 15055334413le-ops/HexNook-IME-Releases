@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""语音包 Release（voice-*）→ 阿里云 OSS voice/ 目录。
+"""语音包 / 安卓安装包 Release → 阿里云 OSS。
+
+voice-* → voice/<文件名>；android-v* → android/<文件名>，并写 android/latest.json（version、code、url、sha256，不缓存）。
 
 语音运行库与模型单个文件超过 git 100 MB 上限，不能像 models 分支那样走 mirror_oss.py，
 因此直接把指定 Release 的全部附件原样上传到 OSS 的 voice/<文件名>（application/zip，长缓存），
@@ -19,13 +21,19 @@ import xml.etree.ElementTree as ET
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import mirror_oss as m  # noqa: E402
 
-PREFIX = "voice/"
+PREFIXES = {"voice-": "voice/", "android-": "android/"}
 PART = 8 << 20          # 分片 8 MB：大文件跨境单次 PUT 会超时，分片各自重试
 SINGLE_MAX = 16 << 20   # 不超过 16 MB 的文件直接整体上传
 
 
 def ctype_of(key):
-    return "application/zip" if key.endswith(".zip") else "application/octet-stream"
+    if key.endswith(".zip"):
+        return "application/zip"
+    if key.endswith(".apk"):
+        return "application/vnd.android.package-archive"
+    if key.endswith(".sha256") or key.endswith(".txt"):
+        return "text/plain; charset=utf-8"
+    return "application/octet-stream"
 
 
 def put_multipart(oss, key, path):
@@ -85,9 +93,11 @@ def put_zip(oss, key, path):
 def main():
     ap = argparse.ArgumentParser(description="把语音包 Release 的附件镜像到 OSS voice/")
     ap.add_argument("--tag", required=True)
+    ap.add_argument("--code", default="", help="安卓 versionCode（android-v* 时写入 latest.json）")
     args = ap.parse_args()
-    if not args.tag.startswith("voice-"):
-        raise m.Fatal(f"只镜像 voice- 开头的 Release：{args.tag}")
+    PREFIX = next((v for k, v in PREFIXES.items() if args.tag.startswith(k)), None)
+    if PREFIX is None:
+        raise m.Fatal(f"只镜像 voice- 或 android- 开头的 Release：{args.tag}")
     for n in m.REQUIRED_ENV:
         if not os.environ.get(n):
             raise m.Fatal(f"未配置 {n}")
@@ -98,6 +108,7 @@ def main():
         raise m.Fatal(f"Release {args.tag} 没有附件")
     oss = m.Oss()
     existing = oss.list_prefix(PREFIX)
+    apk = None
     with tempfile.TemporaryDirectory() as tmp:
         for a in assets:
             key = PREFIX + a["name"]
@@ -115,6 +126,22 @@ def main():
                 m.log(f"已上传：{key}（{size} 字节，sha256 {m.sha256_hex(path)}）")
             oss.verify(key, size)
             os.remove(path)
+            if PREFIX == "android/" and a["name"].endswith(".apk"):
+                apk = (a["name"], size, m.sha256_hex(path))
+    if PREFIX == "android/":
+        if not args.code:
+            raise m.Fatal("android Release 需要 --code（versionCode）")
+        name, size, sha = apk
+        import json
+        doc = {"version": args.tag[len("android-v"):], "code": int(args.code), "url": oss.public + PREFIX + name,
+               "fallback": f"https://github.com/{m.REPO}/releases/download/{args.tag}/{name}", "size": size, "sha256": sha}
+        body = json.dumps(doc, ensure_ascii=False, indent=2).encode("utf-8")
+        md5 = base64.b64encode(hashlib.md5(body).digest()).decode()
+        status, _, rb = oss.request("PUT", PREFIX + "latest.json", data=body,
+                                    headers={"Content-MD5": md5, "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-cache"})
+        if status != 200:
+            raise m.Fatal(oss.scrub(f"latest.json 上传失败（HTTP {status} {rb[:200]!r}）"))
+        m.log(f"已写入 {PREFIX}latest.json：{doc}")
     m.log(f"完成：{len(assets)} 个文件，公网地址前缀 {oss.public}{PREFIX}")
 
 
