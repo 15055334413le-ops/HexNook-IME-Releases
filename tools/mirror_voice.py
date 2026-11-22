@@ -14,19 +14,64 @@ import os
 import sys
 import tempfile
 import time
+import xml.etree.ElementTree as ET
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import mirror_oss as m  # noqa: E402
 
 PREFIX = "voice/"
+PART = 8 << 20          # 分片 8 MB：大文件跨境单次 PUT 会超时，分片各自重试
+SINGLE_MAX = 16 << 20   # 不超过 16 MB 的文件直接整体上传
+
+
+def ctype_of(key):
+    return "application/zip" if key.endswith(".zip") else "application/octet-stream"
+
+
+def put_multipart(oss, key, path):
+    """OSS 分片上传：InitiateMultipartUpload → UploadPart × N → CompleteMultipartUpload。"""
+    h = {"Content-Type": ctype_of(key), "Cache-Control": m.LONG_CACHE}
+    status, _, body = oss.request("POST", key, data=b"", headers=h, query="uploads", subres="?uploads")
+    if status != 200:
+        raise m.Fatal(oss.scrub(f"分片初始化失败：{key}（HTTP {status} {body[:300]!r}）"))
+    upload_id = ET.fromstring(body).findtext("{*}UploadId") or ET.fromstring(body).findtext("UploadId")
+    if not upload_id:
+        raise m.Fatal(f"分片初始化未返回 UploadId：{key}")
+    etags = []
+    with open(path, "rb") as f:
+        n = 0
+        while True:
+            chunk = f.read(PART)
+            if not chunk:
+                break
+            n += 1
+            md5 = base64.b64encode(hashlib.md5(chunk).digest()).decode()
+            q = f"partNumber={n}&uploadId={upload_id}"
+            for attempt in range(5):
+                status, hdr, body = oss.request("PUT", key, data=chunk, headers={"Content-MD5": md5}, query=q, subres="?" + q)
+                if status == 200:
+                    etags.append((n, {k.lower(): v for k, v in hdr.items()}.get("etag", "")))
+                    break
+                time.sleep(2 + attempt * 2)
+            else:
+                raise m.Fatal(oss.scrub(f"分片 {n} 上传失败：{key}（HTTP {status}）"))
+            m.log(f"  {key} 分片 {n}（{len(chunk)} 字节）")
+    xml = "<CompleteMultipartUpload>" + "".join(
+        f"<Part><PartNumber>{n}</PartNumber><ETag>{e}</ETag></Part>" for n, e in etags) + "</CompleteMultipartUpload>"
+    q = f"uploadId={upload_id}"
+    status, _, body = oss.request("POST", key, data=xml.encode(), headers={"Content-Type": "application/xml"}, query=q, subres="?" + q)
+    if status != 200:
+        raise m.Fatal(oss.scrub(f"分片合并失败：{key}（HTTP {status} {body[:300]!r}）"))
+    return os.path.getsize(path)
 
 
 def put_zip(oss, key, path):
+    if os.path.getsize(path) > SINGLE_MAX:
+        return put_multipart(oss, key, path)
     with open(path, "rb") as f:
         data = f.read()
     md5 = base64.b64encode(hashlib.md5(data).digest()).decode()
-    ctype = "application/zip" if key.endswith(".zip") else "application/octet-stream"
-    h = {"Content-MD5": md5, "Content-Type": ctype, "Cache-Control": m.LONG_CACHE}
+    h = {"Content-MD5": md5, "Content-Type": ctype_of(key), "Cache-Control": m.LONG_CACHE}
     last = ""
     for attempt in range(3):
         status, _, body = oss.request("PUT", key, data=data, headers=h)
@@ -62,7 +107,8 @@ def main():
             if size != a["size"]:
                 raise m.Fatal(f"下载大小不符：{a['name']} {size} != {a['size']}")
             md5 = m.md5_hex(path)
-            if existing.get(key) == (size, md5):
+            have = existing.get(key)
+            if have and have[0] == size and (have[1] == md5 or size > SINGLE_MAX):
                 m.log(f"已一致，跳过：{key}（{size} 字节）")
             else:
                 put_zip(oss, key, path)
