@@ -1,0 +1,39 @@
+# 语音包 Release（voice-*）→ 阿里云 OSS voice/
+#   语音运行库与模型单文件超过 git 100 MB 上限，不经数据分支，直接把 Release 附件镜像到 OSS。
+#   客户端下载顺序：OSS voice/<文件名> 优先，失败回退到本仓库 Release voice-v1 的附件。
+name: voice-mirror
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 语音包 Release 标签（voice- 开头）
+        required: true
+        default: voice-v1
+  release:
+    types: [published]
+
+concurrency:
+  group: voice-mirror
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  mirror:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.release.tag_name, 'voice-')
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
+      OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
+      OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
+      OSS_ENDPOINT: ${{ secrets.OSS_ENDPOINT }}
+      GITHUB_TOKEN: ${{ github.token }}
+      TAG: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.event.release.tag_name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: 镜像语音包到 OSS voice/
+        run: python3 -I tools/mirror_voice.py --tag "$TAG"
