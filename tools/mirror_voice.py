@@ -124,10 +124,10 @@ def main():
             else:
                 put_zip(oss, key, path)
                 m.log(f"已上传：{key}（{size} 字节，sha256 {m.sha256_hex(path)}）")
-            oss.verify(key, size)
-            os.remove(path)
             if PREFIX == "android/" and a["name"].endswith(".apk"):
                 apk = (a["name"], size, m.sha256_hex(path))
+            oss.verify(key, size)
+            os.remove(path)
     if PREFIX == "android/":
         if not args.code:
             raise m.Fatal("android Release 需要 --code（versionCode）")
