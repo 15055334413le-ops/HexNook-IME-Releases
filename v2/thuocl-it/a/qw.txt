@@ -1,0 +1,8 @@
+qwsy	全文索引	393
+qwss	全文搜索	380
+qwb	取文本	154
+qwttj	青蛙跳台阶	153
+qwjzd	取文件长度	119
+qwjsx	取文件属性	105
+qwbzd	取文本长度	101
+qwcx	趣味程序	100

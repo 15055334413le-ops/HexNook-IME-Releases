@@ -1,0 +1,92 @@
+jian ting qi	监听器	737
+jian biao	建表	589
+jian ting shi jian	监听事件	547
+jian zhuang xing	健壮性	544
+jian dan shi yong	简单使用	511
+jian dan shi xian	简单实现	507
+jian rong xing wen ti	兼容性问题	498
+jian dan gong chang mo shi	简单工厂模式	431
+jian pan shi jian	键盘事件	420
+jian zao zhe mo shi	建造者模式	401
+jian rong mo shi	兼容模式	399
+jian pan lu ru	键盘录入	384
+jian dan gong chang	简单工厂	379
+jian kong gong ju	监控工具	376
+jian cha cheng xu	检查程序	366
+jian qie ban	剪切板	361
+jian dan xuan ze pai xu	简单选择排序	346
+jian cha geng xin	检查更新	343
+jian bian dong hua	渐变动画	338
+jian kong cheng xu	监控程序	332
+jian ti zhong wen ban	简体中文版	325
+jian dan cheng xu	简单程序	321
+jian rong xing ce shi	兼容性测试	321
+jian jie xun zhi	间接寻址	320
+jian dan pai xu	简单排序	315
+jian mo gong ju	建模工具	315
+jian cuo	检错	309
+jian dan mo ni	简单模拟	306
+jian li shi jian	建立时间	293
+jian ting mo shi	监听模式	293
+jian ma	键码	291
+jian dan suan fa	简单算法	286
+jian ting jian pan	监听键盘	279
+jian dan sou suo	简单搜索	268
+jian ce wang luo	监测网络	257
+jian yan cheng xu	检验程序	257
+jian suo shu	检索树	253
+jian kong ren wu	监控任务	240
+jian dan ji suan qi	简单计算器	237
+jian yan ma	检验码	226
+jian xie yi	间协议	224
+jian pan gao du	键盘高度	222
+jian pan gou zi	键盘钩子	217
+jian dan duo bian xing	简单多边形	215
+jian qie tu pian	剪切图片	213
+jian dan ji he	简单几何	202
+jian shi shu ju	监视数据	202
+jian yan qi	检验器	202
+jian pan zhe dang	键盘遮挡	198
+jian yi ji suan qi	简易计算器	198
+jian kong fang shi	监控方式	195
+jian zhan xi tong	建站系统	191
+jian pan kong zhi qi	键盘控制器	190
+jian pan chu li	键盘处理	189
+jian dan ji chu	简单基础	188
+jian pan tong zhi	键盘通知	188
+jian cha lian jie	检查链接	186
+jian dan lian biao	简单链表	178
+jian dan bian cheng	简单编程	177
+jian pan hui shou	键盘回收	176
+jian suo ji shu	检索技术	176
+jian dan shu ju jie gou	简单数据结构	172
+jian zhi you hua	剪枝优化	171
+jian kong gao jing	监控告警	166
+jian bie xin xi	鉴别信息	165
+jian zhi guan cha	键值观察	165
+jian fa qi	减法器	163
+jian qie bian huan	剪切变换	161
+jian cuo ma	检错码	160
+jian jie di zhi	间接地址	145
+jian suo ji zhi	检索机制	142
+jian dan shen sou	简单深搜	141
+jian shi zhuang tai	监视状态	136
+jian ge zhen	间隔帧	133
+jian bian die jia	渐变叠加	131
+jian ge ji shi qi	间隔计时器	131
+jian yan bu zhou	检验步骤	130
+jian zhan ji shu	建站技术	127
+jian dan bo yi	简单博弈	123
+jian rong zi fu	兼容字符	123
+jian dan shu lun	简单数论	121
+jian rong ji suan ji	兼容计算机	116
+jian dan si wei	简单思维	110
+jian zhan jing yan	建站经验	110
+jian rong ji zhi	兼容机制	107
+jian yan xu lie	检验序列	107
+jian du kong zhi	监督控制	101
+jian suo kong jian	检索空间	101
+jian shi ding shi qi	监视定时器	98
+jian yan ji suan	检验计算	93
+jian bie shu ju	鉴别数据	91
+jian cai guo cheng	剪裁过程	86

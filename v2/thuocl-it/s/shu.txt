@@ -1,0 +1,318 @@
+shu ju ku lian jie	数据库连接	737
+shu xing she zhi	属性设置	729
+shu ru liu	输入流	728
+shu chu liu	输出流	717
+shu zu yuan su	数组元素	715
+shu ju ku cao zuo	数据库操作	665
+shu ju bao cun	数据保存	632
+shu ju fang wen	数据访问	626
+shu ju cao zuo	数据操作	615
+shu zu zhang du	数组长度	612
+shu ju ku fu wu qi	数据库服务器	598
+shu ju ku cha xun	数据库查询	565
+shu ju chuan di	数据传递	561
+shu ju ku xi tong	数据库系统	560
+shu ju qu	数据区	553
+shu zu ming	数组名	546
+shu ju fu zhi	数据复制	526
+shu zhuang shu zu	树状数组	526
+shu zu lei xing	数组类型	526
+shu ju ku lian jie chi	数据库连接池	521
+shu ju bang ding	数据绑定	519
+shu xing wen jian	属性文件	516
+shu ju du qu	数据读取	515
+shu ju ku fang wen	数据库访问	511
+shu ju jia zai	数据加载	509
+shu ju huan cun	数据缓存	508
+shu ju ku she ji	数据库设计	500
+shu ju zi dian	数据字典	497
+shu zi zi fu	数字字符	494
+shu ju lian lu ceng	数据链路层	491
+shu chu ge shi	输出格式	488
+shu ju ya suo	数据压缩	477
+shu xing lie biao	属性列表	474
+shu ju lian jie	数据连接	470
+shu ju yi zhi xing	数据一致性	470
+shu ju chi jiu hua	数据持久化	468
+shu ju fen bu	数据分布	464
+shu ju qing qiu	数据请求	460
+shu zu pai xu	数组排序	452
+shu ju mu lu	数据目录	450
+shu ju kong jian	数据空间	449
+shu ju feng zhuang	数据封装	444
+shu ju ku pei zhi	数据库配置	443
+shu ju wan zheng xing	数据完整性	441
+shu xue han shu	数学函数	441
+shu ju ku jie gou	数据库结构	439
+shu ju lei xing zhuan huan	数据类型转换	435
+shu ju jie xi	数据解析	434
+shu zu yue jie	数组越界	433
+shu zu zhi zhen	数组指针	433
+shu xing dong hua	属性动画	432
+shu ju ku yin qing	数据库引擎	429
+shu ru shu chu liu	输入输出流	428
+shu ju fang wen ceng	数据访问层	427
+shu biao shi jian	鼠标事件	426
+shu ju ku shi wu	数据库事务	425
+shu ju ku guan li	数据库管理	419
+shu zi zhuan huan	数字转换	419
+shu ju ku ying yong	数据库应用	416
+shu ju ke shi hua	数据可视化	413
+shu ju ku bei fen	数据库备份	409
+shu ju bian ma	数据编码	408
+shu ju ku lian jie	数据库链接	404
+shu chu zhong ding xiang	输出重定向	401
+shu ju yan zheng	数据验证	399
+shu zu chu shi hua	数组初始化	397
+shu ju pai xu	数据排序	390
+shu ru huan chong qu	输入缓冲区	390
+shu ju cun qu	数据存取	389
+shu xing ye	属性页	384
+shu ju ku guan li yuan	数据库管理员	383
+shu ru yan zheng	输入验证	379
+shu ju zong xian	数据总线	378
+shu ru mo shi	输入模式	375
+shu biao xuan ting	鼠标悬停	374
+shu ju xiao yan	数据校验	370
+shu ju zu zhi	数据组织	370
+shu ju ku kai fa	数据库开发	369
+shu xing biao	属性表	369
+shu zu cao zuo	数组操作	368
+shu ju hua fen	数据划分	367
+shu xing xuan ze qi	属性选择器	365
+shu lian pou fen	树链剖分	364
+shu xue ku	数学库	364
+shu zi xin hao chu li	数字信号处理	356
+shu ju yu chu li	数据预处理	355
+shu ju yuan pei zhi	数据源配置	355
+shu ju ku ji qun	数据库集群	354
+shu ju ku suo yin	数据库索引	353
+shu ju chi jiu	数据持久	347
+shu chu mo shi	输出模式	340
+shu ju chou xiang	数据抽象	339
+shu zu can shu	数组参数	339
+shu ju tong dao	数据通道	338
+shu ju ku geng xin	数据库更新	336
+shu ju chu cun	数据储存	335
+shu ju ji cun qi	数据寄存器	333
+shu ju ku hui fu	数据库恢复	333
+shu ju ku bian cheng	数据库编程	331
+shu ju shu xing	数据属性	330
+shu ju ku an zhuang	数据库安装	329
+shu ju ku fang mian	数据库方面	323
+shu ju ce shi	数据测试	320
+shu zi shu ru	数字输入	319
+shu ju guo lv	数据过滤	317
+shu ju ji cheng	数据集成	315
+shu zu bian li	数组遍历	314
+shu ju ku you hua	数据库优化	313
+shu zu fu zhi	数组复制	313
+shu ju ke xue jia	数据科学家	312
+shu ju xin hao	数据信号	309
+shu zi shi bie	数字识别	307
+shu ju ku qian yi	数据库迁移	303
+shu ju yi lai	数据依赖	302
+shu ju ku sheng ji	数据库升级	299
+shu xue li lun	数学理论	299
+shu ju wa jue suan fa	数据挖掘算法	298
+shu ju yin qing	数据引擎	298
+shu ru shu chu she bei	输入输出设备	297
+shu chu you xian ji	输出优先级	296
+shu ju ku mo xing	数据库模型	295
+shu ju ku huan cun	数据库缓存	292
+shu ju ku lei	数据库类	290
+shu zi duan	数字段	289
+shu ju kong zhi yu yan	数据控制语言	286
+shu zu fang fa	数组方法	286
+shu ma guan	数码管	284
+shu ju qing xie	数据倾斜	282
+shu ru shu chu han shu	输入输出函数	281
+shu ju ku fu zhi	数据库复制	280
+shu ju ku huan jing	数据库环境	279
+shu ju jie gou shi yan	数据结构实验	276
+shu ju ku yuan li	数据库原理	275
+shu ju dao ru dao chu	数据导入导出	274
+shu ju fen xi shi	数据分析师	272
+shu xing zi fu chuan	属性字符串	272
+shu ju cao zong yu yan	数据操纵语言	271
+shu ju you xiao xing	数据有效性	271
+shu ju ku jie kou	数据库接口	270
+shu zi shu chu	数字输出	270
+shu ju lu jing	数据路径	269
+shu ju ku fen ye	数据库分页	268
+shu ju zhua qu	数据抓取	268
+shu ju cao zong	数据操纵	267
+shu ju ku wei hu	数据库维护	267
+shu ju jia mi biao zhun	数据加密标准	266
+shu ju wa jue ji shu	数据挖掘技术	266
+shu ju pan	数据盘	264
+shu ju chong tu	数据冲突	262
+shu ju jia gou	数据架构	260
+shu tao shu	树套树	258
+shu zu han shu	数组函数	258
+shu ju jie gou suan fa	数据结构算法	257
+shu ju ku kuang jia	数据库框架	257
+shu ju ku an quan	数据库安全	256
+shu ju ku han shu	数据库函数	256
+shu zi san jiao xing	数字三角形	256
+shu biao zuo biao	鼠标坐标	254
+shu ju jiang wei	数据降维	254
+shu zi you xi	数字游戏	254
+shu ru zi xi tong	输入子系统	253
+shu ru xiao yan	输入校验	251
+shu ju liu fen xi	数据流分析	250
+shu ju jing du	数据精度	247
+shu ru gui mo	输入规模	247
+shu ju ku jian mo	数据库建模	246
+shu bian li	树遍历	245
+shu pou	树剖	244
+shu zi chu li	数字处理	244
+shu xing ji cheng	属性继承	242
+shu xing cai dan	树形菜单	241
+shu xue suan fa	数学算法	241
+shu xue tui li	数学推理	241
+shu ju jia mi suan fa	数据加密算法	239
+shu ju tong lu	数据通路	239
+shu ta wen ti	数塔问题	239
+shu xing kong jian	树形控件	238
+shu chu jin cheng	输出进程	237
+shu ru zu kang	输入阻抗	236
+shu zi shi zhong	数字时钟	236
+shu ju chu li xi tong	数据处理系统	233
+shu ju ti gong cheng xu	数据提供程序	230
+shu ru fu hao	输入符号	230
+shu ju ku wan zheng xing	数据库完整性	228
+shu ju ku wen ti	数据库问题	228
+shu zi dui xiang	数字对象	228
+shu mo zhuan huan	数模转换	225
+shu xing dong tai gui hua	树型动态规划	225
+shu ju ben di hua	数据本地化	223
+shu ju ji gou	数据机构	223
+shu ju zhong jian	数据重建	221
+shu ju ku biao she ji	数据库表设计	220
+shu ju ku zhong jian jian	数据库中间件	220
+shu ju zhong zu	数据重组	220
+shu zu qu zhong	数组去重	220
+shu xing yu fa	属性语法	219
+shu zu qing ling	数组清零	219
+shu ju huan jing	数据环境	217
+shu ju ku diao you	数据库调优	217
+shu ju wen jian cun chu	数据文件存储	216
+shu fen zhi	树分治	215
+shu xing qu dong	属性驱动	214
+shu ju ku ji cheng	数据库集成	213
+shu ju que ren	数据确认	211
+shu ju yuan kong jian	数据源控件	210
+shu ju zhong duan she bei	数据终端设备	210
+shu ju yue shu	数据约束	208
+shu zu cha zhao	数组查找	208
+shu ju cai ji xi tong	数据采集系统	206
+shu ru shu chu jie kou	输入输出接口	206
+shu ju du li xing	数据独立性	205
+shu zi ji suan ji	数字计算机	204
+shu ju ku fan shi	数据库范式	202
+shu zhi shu ju	数值数据	202
+shu ru jin cheng	输入进程	201
+shu ju qu zhong	数据去重	199
+shu chu zu kang	输出阻抗	198
+shu ju jie gou ti	数据结构题	198
+shu xie fang xiang	书写方向	197
+shu xue gui lv	数学规律	196
+shu ju fen xi xi tong	数据分析系统	195
+shu ju hui xian	数据回显	194
+shu ju yin si	数据隐私	194
+shu xue xing tai xue	数学形态学	194
+shu ju jie gou shu	数据结构书	192
+shu ju hui	数据汇	191
+shu ju gui fan hua	数据规范化	188
+shu xue yun suan han shu	数学运算函数	188
+shu zi tu shu guan	数字图书馆	188
+shu zi xin feng	数字信封	186
+shu ju tong xin zhong	数据通信中	185
+shu xue gui na	数学归纳	185
+shu lie you xu	数列有序	183
+shu zi qian ming biao zhun	数字签名标准	182
+shu xing chuan zhi	属性传值	180
+shu zi jia mi	数字加密	179
+shu zi ge shi hua	数字格式化	177
+shu xue ruan jian	数学软件	176
+shu ju liu yu yan	数据流语言	175
+shu ju miao shu yu yan	数据描述语言	175
+shu mo zhuan huan qi	数模转换器	174
+shu shang bei zeng	树上倍增	173
+shu ju gao su huan cun	数据高速缓存	171
+shu ju ju bu xing	数据局部性	171
+shu ju suan fa	数据算法	170
+shu ju ku xiu fu	数据库修复	167
+shu zu zui da zhi	数组最大值	166
+shu chu mai chong	输出脉冲	164
+shu zi shui yin	数字水印	163
+shu ju cha cuo	数据差错	162
+shu xing bei bao	树形背包	160
+shu zhuang shu zu	数状数组	160
+shu zi fan zhuan	数字反转	160
+shu xing dong tai gui hua	树形动态规划	159
+shu zi ji cheng dian lu	数字集成电路	157
+shu ju wa jue fen xi	数据挖掘分析	156
+shu ru mai chong	输入脉冲	156
+shu shang mo dui	树上莫队	156
+shu fen kuai	树分块	154
+shu ju fen xi wa jue	数据分析挖掘	153
+shu ju ge shi zhuan huan	数据格式转换	151
+shu ju jie gou shi jian	数据结构实践	151
+shu zi di qiu	数字地球	148
+shu yu fan yi	术语翻译	145
+shu ju chu li zhong xin	数据处理中心	144
+shu ju chuan shu zhi ling	数据传输指令	144
+shu ju lian lu kong zhi	数据链路控制	144
+shu ju wa ju	数据挖据	143
+shu ru su lv	输入速率	142
+shu ju ku zuo ye	数据库作业	140
+shu ju pian xie	数据偏斜	140
+shu lie te zheng	数列特征	139
+shu zi she ji	数字设计	138
+shu ru shu chu guan li	输入输出管理	136
+shu pai xu	梳排序	135
+shu zi dian zi ji shu	数字电子技术	135
+shu zi tu xiang chu li	数字图象处理	135
+shu ru shu chu dui lie	输入输出队列	134
+shu ju jia mi mi yao	数据加密密钥	133
+shu wang	树网	132
+shu zi mei ti ji shu	数字媒体技术	132
+shu biao yi shang shi	鼠标移上时	131
+shu zhi you hua	数值优化	131
+shu zu lin jie biao	数组邻接表	131
+shu wei tong ji	数位统计	130
+shu xue ji chu zhi shi	数学基础知识	130
+shu ju ku zhong gou	数据库重构	127
+shu shang zui zhang lian	树上最长链	126
+shu chu ti jiao	输出提交	125
+shu ru yi lai	输入依赖	125
+shu ju chuang	数据窗	122
+shu ju shou tao	数据手套	122
+shu zi shu ju wang	数字数据网	122
+shu ju fang wen lu jing	数据访问路径	121
+shu zi zhao xiang ji	数字照相机	120
+shu ju duo yang xing	数据多样性	119
+shu ru wen ben lei xing	输入文本类型	117
+shu zhi jing du	数值精度	115
+shu zi shi pin jie kou	数字视频接口	114
+shu ju mei ti	数据媒体	113
+shu ju wa jue yuan li	数据挖掘原理	113
+shu ju jiao huan ji	数据交换机	112
+shu lun suan fa	数论算法	112
+shu zi zi fu ji	数字字符集	112
+shu ju guan li cheng xu	数据管理程序	109
+shu xing bi bao	属性闭包	107
+shu biao zhong jian dan ji	鼠标中键单击	105
+shu ru you xian ji	输入优先级	104
+shu dian xi tong	书店系统	101
+shu ju liu ji suan ji	数据流计算机	100
+shu ru shu chu xun lian	输入输出训练	98
+shu ju su	数据宿	96
+shu lun zhuan ti	数论专题	96
+shu ju ku zhong zu	数据库重组	94
+shu chu duan yan	输出断言	93
+shu biao suo ding	鼠标锁定	88
+shu ju fang xie lou	数据防泄漏	88
+shu ju ni xiang	数据逆向	88

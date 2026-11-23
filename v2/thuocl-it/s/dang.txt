@@ -1,0 +1,12 @@
+dang qian mu lu	当前目录	828
+dang qian yong hu	当前用户	687
+dang qian dui xiang	当前对象	602
+dang qian lu jing	当前路径	543
+dang qian ri qi	当前日期	526
+dang qian ye	当前页	499
+dang an wen jian	档案文件	319
+dang qian you xian ji	当前优先级	201
+dang qian zhang hu	当前帐户	188
+dang qian mo ren mu lu	当前默认目录	120
+dang qian jin cheng ju bing	当前进程句柄	96
+dang qian xing zhi zhen	当前行指针	86

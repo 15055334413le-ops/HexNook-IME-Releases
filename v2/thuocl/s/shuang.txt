@@ -1,0 +1,559 @@
+shuang yin hao	双引号	26510
+shuang xi lin men	双喜临门	19717
+shuang he	双鹤	14899
+shuang xiang lian biao	双向链表	9309
+shuang jing du	双精度	8358
+shuang mian da yin	双面打印	7747
+shuang kai	双开	4666
+shuang guan qi xia	双管齐下	4511
+shuang he	双核	4030
+shuang cheng	双城	3903
+shuang mian jiao dai	双面胶带	2828
+shuang duan dui lie	双端队列	2673
+shuang hui	双汇	2619
+shuang xi tong	双系统	2576
+shuang lian biao	双链表	2201
+shuang xiang guan lian	双向关联	2147
+shuang long	双龙	2128
+shuang liu ji chang	双流机场	2082
+shuang huan chong	双缓冲	1961
+shuang li ren	双立人	1922
+shuang xiang tong xin	双向通信	1732
+shuang ta	双塔	1681
+shuang qiao	双桥	1676
+shuang wei	双威	1672
+shuang xiang dui lie	双向队列	1636
+shuang zhi zhen	双指针	1579
+shuang ji shi jian	双击事件	1508
+shuang jiao xian	双绞线	1471
+shuang pai	双牌	1413
+shuang xiang bang ding	双向绑定	1324
+shuang li he bian su qi	双离合变速器	1274
+shuang xiang xun huan lian biao	双向循环链表	1185
+shuang mu yun suan fu	双目运算符	1084
+shuang fang zi yuan li hun	双方自愿离婚	1025
+shuang yu xue xiao	双语学校	988
+shuang yu	双屿	978
+shuang ji re bei	双机热备	948
+shuang xin	双新	935
+shuang lian tong fen liang	双连通分量	870
+shuang jing	双井	864
+shuang wang ka	双网卡	803
+shuang xiang ren zheng	双向认证	799
+shuang nan	双楠	768
+shuang xiang chuan shu	双向传输	741
+shuang men	双门	654
+shuang cheng shi	双城市	631
+shuang xi	双溪	598
+shuang bei	双碑	594
+shuang huan cun	双缓存	590
+shuang shan	双山	552
+shuang feng	双凤	520
+shuang long zhu xi	双龙主席	519
+shuang xing lian	双性恋	519
+shuang xiang sou suo	双向搜索	513
+shuang he	双河	510
+shuang lian tong	双连通	497
+shuang qin wei pai mo xing	双亲委派模型	489
+shuang ya shan shi	双鸭山市	481
+shuang yu shu	双榆树	455
+shuang shi	双师	428
+shuang xiang guang sou	双向广搜	423
+shuang qiao zi	双桥子	420
+shuang bian lv bo	双边滤波	408
+shuang tang	双塘	405
+shuang yi suan na	双乙酸钠	371
+shuang hu	双湖	361
+shuang gou	双沟	346
+shuang fen zhi	双分支	342
+shuang dong	双洞	321
+shuang qiao men	双桥门	318
+shuang dun	双墩	302
+shuang jing qiao	双井桥	287
+shuang ping	双屏	287
+shuang qiao lu	双桥路	287
+shuang chong suo ding	双重锁定	281
+shuang mu shi jue	双目视觉	274
+shuang huan chong qu	双缓冲区	269
+shuang sheng	双生	267
+shuang gang	双港	263
+shuang tai	双胎	262
+shuang qiao cun	双桥村	261
+shuang he	双合	254
+shuang he cun	双河村	249
+shuang gong fang shi	双工方式	244
+shuang pi dao yu	双皮刀鱼	236
+shuang yong lu	双拥路	233
+shuang lin	双林	229
+shuang duan lian biao	双端链表	219
+shuang bian huo bi hu huan xie yi	双边货币互换协议	218
+shuang lian tong fen liang	双联通分量	212
+shuang long cun	双龙村	211
+shuang qi gan jun	双歧杆菌	208
+shuang he	双和	201
+shuang he cun	双合村	201
+shuang ma	双马	188
+shuang feng qiao	双凤桥	179
+shuang lian tong	双联通	176
+shuang liao shi	双辽市	173
+shuang dong	双东	170
+shuang huang lian	双黄连	169
+shuang chong jian cha suo	双重检查锁	165
+shuang ta si	双塔寺	165
+shuang bi	双币	164
+shuang lian tong fen zhi	双连通分支	160
+shuang tai	双台	159
+shuang xi tong an zhuang	双系统安装	158
+shuang yi	双一	156
+shuang ji tui chu	双击退出	155
+shuang xian xing nei cha	双线性内插	150
+shuang jin	双金	146
+shuang pin	双拼	146
+shuang xian xing cha zhi	双线性插值	146
+shuang qing lu	双清路	138
+shuang xi cun	双溪村	134
+shuang bu	双埠	133
+shuang huang lian kou fu ye	双黄连口服液	130
+shuang miao	双庙	123
+shuang xun huan lian biao	双循环链表	120
+shuang jiang kou	双江口	119
+shuang ye hong yu er yue hua	霜叶红于二月花	117
+shuang zha	双闸	116
+shuang jiang xian	双江县	112
+shuang mei	双美	112
+shuang lin bei zhi lu	双林北支路	109
+shuang long qiao	双龙桥	109
+shuang luan	双滦	105
+shuang qing qing hao su	双氢青蒿素	102
+shuang pan	双盘	100
+shuang nan	双南	94
+shuang jiao ji	双椒鸡	93
+shuang nan lu	双楠路	92
+shuang lin zhong heng lu	双林中横路	91
+shuang ji biao qian	双击标签	87
+shuang bai	双柏	86
+shuang bi ka	双币卡	85
+shuang hua yuan	双花园	84
+shuang shang	双上	84
+shuang fei yi bu ju	双飞翼布局	83
+shuang ma su bing	双麻酥饼	81
+shuang huang lian zhu she ye	双黄连注射液	77
+shuang xian xing guo lv	双线性过滤	77
+shuang ceng ji shi han bao	双层吉士汉堡	76
+shuang jiang cun	双江村	75
+shuang su shuang fei	双宿双飞	75
+shuang xiang zhang ai	双相障碍	75
+shuang niang tuan	双酿团	74
+shuang xia	双下	74
+shuang qing nan lu	双清南路	73
+shuang quan cun	双泉村	71
+shuang sheng zi	双生子	69
+shuang di	双底	68
+shuang qiao dong lu	双桥东路	68
+shuang tang cun	双塘村	68
+shuang lian cun	双联村	67
+shuang dou	双都	66
+shuang bian chong tu gui fan	双边冲突规范	65
+shuang zha zi jie	双栅子街	64
+shuang jing du xiao shu	双精度小数	62
+shuang nan jie dao	双楠街道	59
+shuang gui fang	双桂坊	58
+shuang lin cun	双林村	58
+shuang qiao he	双桥河	58
+shuang quan bao	双泉堡	58
+shuang tang jie dao	双塘街道	58
+shuang jing cun	双井村	57
+shuang long xiang	双龙巷	57
+shuang yang lu	双阳路	55
+shuang qiu jun	双球菌	54
+shuang xiu gong yuan	双秀公园	54
+shuang tai ren shen	双胎妊娠	53
+shuang jin cheng shou hu	双进程守护	52
+shuang ge	双鸽	51
+shuang jing qiao bei	双井桥北	51
+shuang ge	双格	50
+shuang jian lu	双建路	50
+shuang nan xiao qu	双楠小区	50
+shuang se dou gao	双色豆糕	49
+shuang yu huan dao	双峪环岛	49
+shuang lie zhi cha shi	双列直插式	48
+shuang ceng chuan ke	双层船壳	47
+shuang shan lu	双山路	47
+shuang ying	双营	47
+shuang zi gong	双子宫	47
+shuang cheng lu	双城路	45
+shuang jiao zhen	双滘镇	45
+shuang tai shu xue zong he zheng	双胎输血综合征	45
+shuang xiang jiao ti tong xin	双向交替通信	45
+shuang liu lao ma tu tou	双流老妈兔头	44
+shuang shui nian jie dao	双水碾街道	44
+shuang gong chuan shu	双工传输	41
+shuang guan lie qiang	双管猎枪	41
+shuang ao cun	双坳村	40
+shuang feng cun	双丰村	40
+shuang chong fan zui yuan ze	双重犯罪原则	39
+shuang he lu	双河路	39
+shuang qiao zi jie dao	双桥子街道	39
+shuang lou	双楼	37
+shuang zi xing da sha	双子星大厦	37
+shuang chen she qu	双晨社区	36
+shuang hua yin	双花饮	36
+shuang xin yue mu	爽心悦目	35
+shuang mang shi yan	双盲实验	34
+shuang yang	双羊	33
+shuang huai shu	双槐树	32
+shuang shui cun	双水村	31
+shuang ta nan lu	双塔南路	31
+shuang bei cun	双碑村	30
+shuang lian tong xing	双连通性	30
+shuang tai zi	双台子	30
+shuang ling	双岭	29
+shuang xiang tong shi tong xin	双向同时通信	29
+shuang lv fen suan na	双氯芬酸钠	28
+shuang bai cun	双柏村	27
+shuang xiang zong xian	双向总线	27
+shuang zhai	双寨	27
+shuang liu suo xiang	双溜索乡	25
+shuang long nan li	双龙南里	25
+shuang qiao yi yuan	双桥医院	25
+shuang qing zhong lu	双清中路	25
+shuang qiu bing qi lin	双球冰淇淋	25
+shuang lou cun	双楼村	24
+shuang qiao nong chang	双桥农场	24
+shuang feng lu	双峰路	23
+shuang ma huo shao	双麻火烧	23
+shuang sheng cun	双胜村	23
+shuang ren wei ceng shi	霜刃未曾试	22
+shuang lv fen suan	双氯芬酸	21
+shuang wei bian ma	双位编码	21
+shuang jiao zhen	双窖镇	20
+shuang jing qiao nan	双井桥南	20
+shuang ling cun	双岭村	20
+shuang long shui ku	双龙水库	20
+shuang qiao mao jian	双桥毛尖	20
+shuang qiao yan yu	双桥烟雨	20
+shuang qiao zhong lu	双桥中路	20
+shuang qiao zhong xue	双桥中学	20
+shuang long xiao qu	双龙小区	19
+shuang shu cun	双树村	19
+shuang ji biao qian lan	双击标签栏	18
+shuang jia	双家	18
+shuang ling lu kou	双菱路口	18
+shuang mi da mo pian	双嘧达莫片	18
+shuang qiao xin cun	双桥新村	17
+shuang shui mo	双水磨	17
+shuang tang jian ling shan jing qu	双塘涧灵山景区	17
+shuang yu	双峪	17
+shuang jiao dian lan	双绞电缆	16
+shuang jing qiao dong	双井桥东	16
+shuang long da qiao	双龙大桥	16
+shuang qing lu kou	双庆路口	16
+shuang tian	双田	16
+shuang dui	双堆	15
+shuang shui xiang	双水乡	15
+shuang gui shan	双桂山	14
+shuang huang lian fen zhen ji	双黄连粉针剂	14
+shuang jian ya	双尖牙	14
+shuang jiang kou cun	双江口村	14
+shuang jing qiao xi	双井桥西	14
+shuang lie zhi cha feng zhuang	双列直插封装	14
+shuang nian xiang	双碾乡	14
+shuang pao qiao	双抛桥	14
+shuang bao mo gu guan tou	双孢蘑菇罐头	13
+shuang ben wei zhi	双本位制	13
+shuang di hua qiao nong chang	双第华侨农场	13
+shuang jiao zi gong	双角子宫	13
+shuang long dong lu	双龙东路	13
+shuang wei zhen zhu yuan zi	双味珍珠元子	13
+shuang yang	双洋	13
+shuang yin dao	双阴道	13
+shuang ding jing	双顶径	12
+shuang dong jie dao	双东街道	12
+shuang se mei gui yu	双色玫瑰鱼	12
+shuang tu cun	双土村	12
+shuang yi	双义	12
+shuang dai xiao chou	双带小丑	11
+shuang hong huo xue jiao nang	双红活血胶囊	11
+shuang liao hou feng san	双料喉风散	11
+shuang liu jie dao	双柳街道	11
+shuang qi jiao nang	双奇胶囊	11
+shuang qun	双群	11
+shuang se gao	双色糕	11
+shuang si	双寺	11
+shuang xi kou cun	双溪口村	11
+shuang yan tang	双堰塘	11
+shuang yang cun	双洋村	11
+shuang cheng xian	双城县	10
+shuang dong lu	双东路	10
+shuang gong zhen	双拱镇	10
+shuang gua tang an jiao nang	双瓜糖安胶囊	10
+shuang huan lu	双环路	10
+shuang huang lian jiao nang	双黄连胶囊	10
+shuang lin gu sao bing	双林姑嫂饼	10
+shuang ling xiao qu	双菱小区	10
+shuang nuo mei gui gao	双糯玫瑰糕	10
+shuang shi qiao	双石桥	10
+shuang zao	双灶	10
+shuang bao xiang	双堡乡	9
+shuang chi mu ying ke	双翅目蝇科	9
+shuang dong fang	双东坊	9
+shuang ji jie dao	双吉街道	9
+shuang lei luo jun qian	双泪落君前	9
+shuang ling xin cun	双菱新村	9
+shuang ping	双平	9
+shuang tou xiao mao	双头小猫	9
+shuang xiang dou su	双香豆素	9
+shuang bai shu	双柏树	8
+shuang du	双渡	8
+shuang feng dao	双峰道	8
+shuang huang lian ke li	双黄连颗粒	8
+shuang lu xiang	双路乡	8
+shuang lv fen suan na chang rong pian	双氯芬酸钠肠溶片	8
+shuang pen	双盆	8
+shuang quan bao dong	双泉堡东	8
+shuang xian shi nian ye kuo yu	双线嗜粘液蛞蝓	8
+shuang che tou	双车头	7
+shuang chong fou jue quan	双重否决权	7
+shuang he qian tu	双颌前突	7
+shuang huang lian ruan jiao nang	双黄连软胶囊	7
+shuang jing xiang	双井巷	7
+shuang liu shu	双柳树	7
+shuang se ma ti gao	双色马蹄糕	7
+shuang su yue bing	双酥月饼	7
+shuang yan shi cha	双眼视差	7
+shuang yu lu kou	双峪路口	7
+shuang hong qiao	双虹桥	6
+shuang huang yu pian	双黄鱼片	6
+shuang lin nan lu	双林南路	6
+shuang liu xiang	双流乡	6
+shuang quan si	双泉寺	6
+shuang se jian yu	双色煎鱼	6
+shuang tu xiang	双土乡	6
+shuang xiu long zhong lei bu gan	双袖龙钟泪不干	6
+shuang xu zhong chun yu	双须重唇鱼	6
+shuang yao bi xuan jia	双摇臂悬架	6
+shuang ye ling mu long	双叶铃木龙	6
+shuang yu gong ye qu	双屿工业区	6
+shuang zhang hu	双账户	6
+shuang cha xiang	双岔乡	5
+shuang chong fen li	双重分离	5
+shuang gou she qu	双沟社区	5
+shuang hua cun	双花村	5
+shuang jing tou	双井头	5
+shuang le xiang	双乐乡	5
+shuang ling lu bei kou	双菱路北口	5
+shuang long chi	双龙池	5
+shuang lv fen suan na huan shi pian	双氯芬酸钠缓释片	5
+shuang men qian	双门前	5
+shuang mo cun	双磨村	5
+shuang pei	双赔	5
+shuang se ruan tang	双色软糖	5
+shuang sheng zi yan jiu	双生子研究	5
+shuang xiao he cao lv chong	双小核草履虫	5
+shuang xie juan ye e	双斜卷叶蛾	5
+shuang xing jie	双兴街	5
+shuang yu huan dao xi	双峪环岛西	5
+shuang yu shu xiao qu	双榆树小区	5
+shuang ban	双坂	4
+shuang chong biao zhun li lun	双重标准理论	4
+shuang fei xi yuan cao	双飞西园草	4
+shuang gang kou	双港口	4
+shuang ji tun da bai zhu	双肌臀大白猪	4
+shuang jian lu zhong	双建路中	4
+shuang long jie xiang	双龙街乡	4
+shuang pu wei ma pian	双扑伪麻片	4
+shuang qiao luo cai hong	双桥落彩虹	4
+shuang se lv cha bing gan	双色绿茶饼干	4
+shuang shu sha la	双薯沙拉	4
+shuang si hu tong	双寺胡同	4
+shuang tang xiang	双堂乡	4
+shuang tu di	双土地	4
+shuang xi qiao	双溪桥	4
+shuang xian	双仙	4
+shuang xie cun	双协村	4
+shuang xing xiao qu	双兴小区	4
+shuang xing xiao xue	双兴小学	4
+shuang xing yuan	双兴苑	4
+shuang yan fu shi	双眼复视	4
+shuang yang xian	双阳县	4
+shuang zhong gu han sheng bu qi	霜重鼓寒声不起	4
+shuang bu tou cun	双埠头村	3
+shuang cu rui yin	双醋瑞因	3
+shuang fen wei ma pian	双分伪麻片	3
+shuang kao rou	双烤肉	3
+shuang liao hou feng han pian	双料喉风含片	3
+shuang liao xian	双辽县	3
+shuang luo xiong sheng shu	霜落熊升树	3
+shuang mi da mo	双嘧达莫	3
+shuang pu kou fu ye	双扑口服液	3
+shuang pu wei ma fen san pian	双扑伪麻分散片	3
+shuang qiao lu zhong	双桥路中	3
+shuang qin	双芹	3
+shuang qing qing hao su pian	双氢青蒿素片	3
+shuang qiu lu she qu	爽秋路社区	3
+shuang shan liang	双山梁	3
+shuang shuang jin zhe gu	双双金鹧鸪	3
+shuang ta she qu	双塔社区	3
+shuang xiang ning jiao dian yong	双向凝胶电泳	3
+shuang xiao lin	双效磷	3
+shuang yan cun	双燕村	3
+shuang yi cun	双一村	3
+shuang bai lu	双百路	2
+shuang chi mu hua ying ke	双翅目花蝇科	2
+shuang chi mu yao wen ke	双翅目摇蚊科	2
+shuang fu qiao cun	双福桥村	2
+shuang huai li she qu	双槐里社区	2
+shuang huan bu zheng yun qiao cui	双鬟不整云憔悴	2
+shuang hui shan	双灰山	2
+shuang ji si	双吉寺	2
+shuang jiang shan shui qing	霜降山水清	2
+shuang jiao hong dan	双椒烘蛋	2
+shuang jin wei chang jiao nang	双金胃肠胶囊	2
+shuang jin wei yang jiao nang	双金胃疡胶囊	2
+shuang ling zhi xie kou fu ye	双苓止泻口服液	2
+shuang liu xiang she qu	双柳巷社区	2
+shuang lv fen suan jia	双氯芬酸钾	2
+shuang lv fen suan jia pian	双氯芬酸钾片	2
+shuang mei cun	双美村	2
+shuang nan lu nan	双楠路南	2
+shuang qing qing hao su pai kui pian	双氢青蒿素哌喹片	2
+shuang quan bai huan she	双全白环蛇	2
+shuang ren fu pi	双仁浮皮	2
+shuang se qiu	双色球	2
+shuang xian xiang	双岘乡	2
+shuang xing xiao qu	双星小区	2
+shuang yan jing zheng	双眼竞争	2
+shuang yuan cun	双园村	2
+shuang yuan qiao dong	双源桥东	2
+shuang zha lan hu tong	双栅栏胡同	2
+shuang zhu lin chang	双竹林场	2
+shuang zuo tai shuan	双唑泰栓	2
+shuang bin ge xiang hong	双鬓隔香红	1
+shuang can long jiao nang	双参龙胶囊	1
+shuang fei ling ren xian	双飞令人羡	1
+shuang feng shan lv you du jia qu	双峰山旅游渡假区	1
+shuang fu zhen	双佛镇	1
+shuang gang kai fa qu	双港开发区	1
+shuang ge cun	双格村	1
+shuang gui qiao	双桂桥	1
+shuang gui si	双桂寺	1
+shuang han lu	双涵路	1
+shuang hong ju wei hui	双红居委会	1
+shuang hua chang	双华场	1
+shuang huan chun pian	双环醇片	1
+shuang huang lian pian	双黄连片	1
+shuang huang ping chuan ke li	双黄平喘颗粒	1
+shuang huang xiao yan pian	双黄消炎片	1
+shuang ji dou	双箕斗	1
+shuang ji hu tong	双吉胡同	1
+shuang jian gu fen	双箭股份	1
+shuang jian lu nan	双建路南	1
+shuang jiang ye qing cheng	霜江夜清澄	1
+shuang jing qu qin	双肼屈嗪	1
+shuang lai fa er qing feng sheng	爽籁发而清风生	1
+shuang liang ting	双凉亭	1
+shuang lin lu yi huan lu kou dong	双林路一环路口东	1
+shuang lin lu yi huan lu kou xi	双林路一环路口西	1
+shuang lin xiang	双林乡	1
+shuang ling gu ben san	双灵固本散	1
+shuang long da qiao bei	双龙大桥北	1
+shuang lou zhen	双楼镇	1
+shuang luo xiang	双洛乡	1
+shuang lv fen suan na tie pian	双氯芬酸钠贴片	1
+shuang lv xi lin na	双氯西林钠	1
+shuang mou jian qiu shui	双眸剪秋水	1
+shuang nan fu ding	双喃氟啶	1
+shuang qi san lian huo jun jiao nang	双歧三联活菌胶囊	1
+shuang qi wei bian ju	双棋未遍局	1
+shuang qiao bei er jie kou	双桥北二街口	1
+shuang qin cun	双芹村	1
+shuang se he tao bing gan	双色核桃饼干	1
+shuang si she qu	双寺社区	1
+shuang xing qiao	双兴桥	1
+shuang xing tao shu xia	双行桃树下	1
+shuang yan fei lai chui liu yuan	双燕飞来垂柳院	1
+shuang yan fu shuang yan	双燕复双燕	1
+shuang yan xiang	双芫乡	1
+shuang yan yi dai duan	霜严衣带断	1
+shuang yan yi qi ling zi xia	双烟一气凌紫霞	1
+shuang yi huan mao yin	双颐环毛蚓	1
+shuang yu nan jie she qu	双玉南街社区	1
+shuang zhao lei hen gan	双照泪痕干	1
+shuang zi yuan she qu	双紫园社区	1
+shuang ban jie fu ji ying	双斑截腹寄蝇	0
+shuang ban si qi ying diao	双斑丝鳍鹰鲷	0
+shuang ban xi mang ji ying	双斑膝芒寄蝇	0
+shuang ban yuan tun da ting	双斑圆臀大蜓	0
+shuang ban zhang jiao feng	双斑长脚蜂	0
+shuang ban zhi chi ci wei diao	双斑栉齿刺尾鲷	0
+shuang biao zi ban die	双标紫斑蝶	0
+shuang bo jia chi e	双波夹尺蛾	0
+shuang ce bei chong shu	双侧杯虫属	0
+shuang cha chang xi ye xi chong	双叉肠锡叶吸虫	0
+shuang cha hua jian feng	双叉滑茧蜂	0
+shuang ci fu di zhong	双刺副涤螽	0
+shuang ci yan er lu zhong	双刺掩耳露螽	0
+shuang dai du juan zhi li	双带杜鹃脂鲤	0
+shuang dai gao xia hu	双带缟鰕虎	0
+shuang dai lin qi mei diao	双带鳞鳍梅鲷	0
+shuang dai qiao yan chong	双带巧言虫	0
+shuang di chong mu	双滴虫目	0
+shuang dian bao li yu	双点宝丽鱼	0
+shuang dian bo yu	双点波鱼	0
+shuang dian he ji chi e	双点褐姬尺蛾	0
+shuang fen gao fu shuang shen chong	双分睾副双身虫	0
+shuang fen gao wan ni shuang shen chong	双分睾丸拟双身虫	0
+shuang feng ye wei zhu	双峰曳尾蛛	0
+shuang huang tou ya ma xun ying wu	双黃头亚马逊鹦鹉	0
+shuang ji ni ci gai xia hu yu	双棘拟刺盖鰕虎鱼	0
+shuang jian gou zhuang xia jia lun chong	双尖钩状狭甲轮虫	0
+shuang jiao bing du fu yu	双角冰杜父鱼	0
+shuang jiao gui mian zhu	双角鬼面蛛	0
+shuang jiao hu jing xie	双角互敬蟹	0
+shuang jiao huan xing chong	双角环形虫	0
+shuang jiao xiao hei ku ye e	双角小黑枯叶蛾	0
+shuang jiao zhuan lun xie	双角转轮蟹	0
+shuang lie chi shou shu	双列齿兽属	0
+shuang lie jiao tou pa	双列角头帕	0
+shuang lie jiao tou pa	雙列角頭帕	0
+shuang ling heng	双领鸻	0
+shuang long gu juan guan luo	双龙骨卷管螺	0
+shuang long gu pu dao yi	双隆骨铺道蚁	0
+shuang luan luo fu zao	双卵裸腹蚤	0
+shuang mao quan shan ying	双毛全闪萤	0
+shuang mao yuan xing ying	双毛圆星萤	0
+shuang qiang long	双腔龙	0
+shuang se bo ye e	双色卜夜蛾	0
+shuang se qi chun yu	双色奇唇鱼	0
+shuang se xin jiao jian feng	双色心角茧蜂	0
+shuang se ye yuan wei	双色野鸢尾	0
+shuang shou bian wei shui mu	双手扁胃水母	0
+shuang tai ni luo fu zao	双态拟裸腹蚤	0
+shuang tuo bao bi yu	双驼薄躄鱼	0
+shuang wei liu li xiao hui die	双尾琉璃小灰蝶	0
+shuang wei niu sai zun	双尾纽鳃樽	0
+shuang wen ban ye chan	双纹斑叶蝉	0
+shuang wen bu xing chong	双纹步行虫	0
+shuang wen cu xu xiao tian niu	双纹粗须小天牛	0
+shuang wen lin di dun kou yuan	双纹林地钝口螈	0
+shuang wen qian kou fu fen	双吻前口蝠鱝	0
+shuang xian xue zhou e	双线雪舟蛾	0
+shuang xiao shui mu	双小水母	0
+shuang xu duo ji xia hu yu	双须多棘鰕虎鱼	0
+shuang yan ban duo bi suo you	双眼斑多臂簑鮋	0
+shuang yan ban duo bi suo you	双眼斑多臂簑鲉	0
+shuang yao zhu e	双摇祝蛾	0
+shuang ye fu piao xia hu yu	双叶腹瓢鰕虎鱼	0
+shuang ye mi ji du fu yu	双叶密棘杜父鱼	0
+shuang ye ni yuan zhong	双叶拟缘螽	0
+shuang ye qi du fu yu	双叶旗杜父鱼	0
+shuang ye qie ye feng	双叶切叶蜂	0
+shuang ye xi mao meng shui zao	双叶稀毛猛水蚤	0
+shuang ye xia kou qing nian	双叶下口蜻鲶	0
+shuang ye yi shi gang zhong	双叶异饰肛螽	0
+shuang ye yong xia hu yu	双叶鲬鰕虎鱼	0
+shuang yin long	双印龙	0
+shuang yue di chi e	双月涤尺蛾	0
+shuang zhi gui you	双指鬼鮋	0
+shuang zhu dan lan zong hui die	双珠淡蓝棕灰蝶	0
+shuang zu zhi wei long	双足直尾龙	0

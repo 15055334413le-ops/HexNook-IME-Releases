@@ -1,0 +1,65 @@
+lian jie shu ju ku	连接数据库	661
+lian jie shu	连接数	646
+lian jie chi	连接池	628
+lian jie jian li	连接建立	512
+lian jie shi bai	连接失败	500
+lian jie chao shi	连接超时	498
+lian jie zi fu chuan	连接字符串	494
+lian jie ku	链接库	441
+lian tong tu	连通图	407
+lian jie cha xun	连接查询	395
+lian he cha xun	联合查询	385
+lian tong fen liang	连通分量	384
+lian jie cuo wu	链接错误	379
+lian tong kuai	连通块	350
+lian shi cun chu jie gou	链式存储结构	349
+lian wang	连网	338
+lian shi cun chu	链式存储	336
+lian he suo yin	联合索引	323
+lian jie fu wu qi	链接服务器	314
+lian jie biao	链接表	300
+lian biao cao zuo	链表操作	299
+lian jie shi fang	连接释放	296
+lian jie jiao ben	链接脚本	289
+lian tong fen zhi	连通分支	273
+lian biao pai xu	链表排序	269
+lian shi bian cheng	链式编程	268
+lian ji shi wu chu li	联机事务处理	263
+lian ji fen xi chu li	联机分析处理	246
+lian pou	链剖	246
+lian tong yu	连通域	245
+lian jie ji zhi	连接机制	233
+lian biao fan zhuan	链表反转	231
+lian shi dui lie	链式队列	230
+lian biao he bing	链表合并	229
+lian biao shan chu	链表删除	223
+lian shi qian xiang xing	链式前向星	218
+lian shi zhan	链式栈	202
+lian bu shi bie	脸部识别	201
+lian biao fan zhuan	链表翻转	200
+lian biao cha xun	连表查询	198
+lian ji diao shi	联机调试	189
+lian jia ci pan	廉价磁盘	189
+lian xu fu zhi	连续赋值	184
+lian tong xing wen ti	连通性问题	182
+lian lu guan li	链路管理	179
+lian xu yu yin shi bie	连续语音识别	156
+lian jie duan dian	连接端点	144
+lian xiang shu ru	联想输入	143
+lian lu jia mi	链路加密	131
+lian xiang cun chu qi	联想存储器	130
+lian xu wen ben	连续文本	130
+lian tong qu yu biao ji	连通区域标记	128
+lian zhong you xi	联众游戏	124
+lian ji xi tong	联机系统	122
+lian xu kong zhi	连续控制	117
+lian ji ce shi	联机测试	115
+lian xiang wang luo	联想网络	113
+lian bang shu ju ku	联邦数据库	109
+lian jie dan yuan jie kou	连接单元接口	104
+lian jie tu ceng	链接图层	103
+lian ji cha xun	联机查询	101
+lian shi lian jie	链式连接	96
+lian ji fen xi wa jue	联机分析挖掘	91
+lian shi zuo ye	链式作业	91
+lian jie bian ji cheng xu	连接编辑程序	88

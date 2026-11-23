@@ -1,0 +1,519 @@
+zheng quan	证券	5744085
+zheng fu	政府	1617499
+zheng quan jiao yi suo	证券交易所	444378
+zheng quan shi chang	证券市场	351461
+zheng zhi	争执	231789
+zheng zhi bu	政治部	126458
+zheng zhuang	症状	89318
+zheng quan fa	证券法	80999
+zheng gui	正规	75018
+zheng xing	整型	50329
+zheng ze biao da shi	正则表达式	44794
+zheng zhou shi	郑州市	35023
+zheng chang yun xing	正常运行	29072
+zheng jian hui	证监会	22393
+zheng quan tou zi ji jin fa	证券投资基金法	21156
+zheng quan ye xie hui	证券业协会	18807
+zheng ze	正则	16099
+zheng chu	整除	15778
+zheng zhou ri chan	郑州日产	13839
+zheng quan gong si	证券公司	7644
+zheng fu xin xi gong kai tiao li	政府信息公开条例	7465
+zheng jiao	蒸饺	7081
+zheng fen duo miao	争分夺秒	6615
+zheng xing bian liang	整型变量	6054
+zheng xian kong hou	争先恐后	5903
+zheng fu ban	政府办	5679
+zheng quan cheng xiao	证券承销	4932
+zheng ju que zao	证据确凿	4473
+zheng zheng ri shang	蒸蒸日上	4423
+zheng tai fen bu	正态分布	4227
+zheng fu cai gou	政府采购	3961
+zheng quan hua	证券化	3877
+zheng ze pi pei	正则匹配	3807
+zheng liu jiu	蒸馏酒	3746
+zheng zhuang dai fa	整装待发	3654
+zheng he	郑和	3554
+zheng yong	争用	3458
+zheng ben qing yuan	正本清源	2865
+zheng shi tan pan	正式谈判	2852
+zheng ding	正定	2823
+zheng ze hua	正则化	2823
+zheng fa xue yuan	政法学院	2700
+zheng chang zhi	正常值	2576
+zheng mian	蒸面	2479
+zheng xing shou shu	整形手术	2378
+zheng xing wai ke	整形外科	2373
+zheng qi dou yan	争奇斗艳	2244
+zheng gao	蒸糕	1941
+zheng che ji ling bu jian	整车及零部件	1913
+zheng xing chang liang	整型常量	1854
+zheng ce xing guan bi po chan	政策性关闭破产	1843
+zheng quan wei yuan hui	证券委员会	1697
+zheng zhou ri chan pa la ding	郑州日产帕拉丁	1308
+zheng li	正例	1269
+zheng yuan jie	郑渊洁	1224
+zheng ze biao da	正则表达	1221
+zheng chu duo men	政出多门	1173
+zheng jin wei zuo	正襟危坐	1165
+zheng xian bo	正弦波	1100
+zheng xing ke	整形科	1090
+zheng xiang	蒸箱	1060
+zheng tong ren he	政通人和	1051
+zheng rong sui yue	峥嵘岁月	1049
+zheng jie	郑洁	1048
+zheng zhong qi shi	郑重其事	972
+zheng yang lou	正阳楼	967
+zheng yang	正阳	932
+zheng quan jiao yi qing suan	证券交易清算	855
+zheng da guang ming	正大光明	850
+zheng zhi xie shang hui yi zhang cheng	政治协商会议章程	848
+zheng jiao he yi	政教合一	844
+zheng shu lian	证书链	839
+zheng shu guan li	证书管理	823
+zheng quan jian du wei yuan hui	证券监督委员会	806
+zheng cheng gong	郑成功	789
+zheng nan	正南	783
+zheng lun dian	争论点	761
+zheng ban qiao	郑板桥	673
+zheng feng chi cu	争风吃醋	655
+zheng chang xiang ying	正常响应	652
+zheng quan ri bao	证券日报	643
+zheng liu shui	蒸馏水	628
+zheng shu guo qi	证书过期	623
+zheng quan hui gou	证券回购	620
+zheng xiang dai li	正向代理	608
+zheng qiang hao sheng	争强好胜	587
+zheng jia	郑家	583
+zheng ning	正宁	569
+zheng ji	正畸	550
+zheng zhi fa lv zhi du	政治法律制度	537
+zheng shui dan	蒸水蛋	525
+zheng quan duo li	争权夺利	520
+zheng zhi cheng ben	政治成本	518
+zheng jun	郑钧	515
+zheng xiao long	郑晓龙	504
+zheng quan fa lv zhi du	证券法律制度	494
+zheng xiu wen	郑秀文	494
+zheng dong	正东	489
+zheng zheng tie gu	铮铮铁骨	481
+zheng quan shi bao	证券时报	479
+zheng da	郑大	466
+zheng yang men	正阳门	459
+zheng shu pei zhi	证书配置	457
+zheng yi lu	正义路	448
+zheng li jun	郑丽君	415
+zheng yi yan bi yi yan	睁一眼闭一眼	384
+zheng fa qi	蒸发器	370
+zheng shu hua fen	整数划分	352
+zheng quan jiao yi yong jin	证券交易佣金	341
+zheng yong	郑勇	338
+zheng chang xing	正常性	326
+zheng shu chai fen	整数拆分	324
+zheng da guang chang	正大广场	318
+zheng jiao bian huan	正交变换	317
+zheng yi jian	郑伊健	313
+zheng nan gua	蒸南瓜	310
+zheng yang lu	正阳路	306
+zheng he zi yuan	整合资源	300
+zheng qi lin ran	正气凛然	283
+zheng que xing zheng ming	正确性证明	281
+zheng ren jun zi	正人君子	272
+zheng shu fen jie	整数分解	269
+zheng zhou lu	郑州路	266
+zheng tou ying	正投影	262
+zheng chang jun qun	正常菌群	261
+zheng zhen duo	郑振铎	260
+zheng gui fang cheng	正规方程	256
+zheng tong lu	政通路	249
+zheng yang jie	正阳街	244
+zheng ti er fen	整体二分	237
+zheng yuan chang	郑元畅	234
+zheng wen	郑文	233
+zheng huang	郑璜	232
+zheng ying	正营	225
+zheng ning mian mu	狰狞面目	224
+zheng shu wu xiao	证书无效	218
+zheng xing	正兴	208
+zheng quan shi chang jin ru gui ding	证券市场禁入规定	201
+zheng jue si	正觉寺	198
+zheng nan ze fan	正难则反	195
+zheng tian xiang	郑天翔	194
+zheng xiong zhang	蒸熊掌	187
+zheng jing ba bai	正经八百	184
+zheng hao	郑浩	173
+zheng quan wei fa fan zui	证券违法犯罪	172
+zheng shu zhuang tai	证书状态	171
+zheng zhi can yu quan	政治参与权	168
+zheng ti guan nian	整体观念	165
+zheng zhong xia huai	正中下怀	164
+zheng pei pei	郑佩佩	161
+zheng quan shi chang zhou kan	证券市场周刊	159
+zheng zheng	郑铮	157
+zheng guan ying	郑观应	156
+zheng shan xiao zhong hong cha	正山小种红茶	155
+zheng dan gao	蒸蛋糕	153
+zheng shu sen	郑树森	150
+zheng ming duo li	争名夺利	147
+zheng shu hua fen wen ti	整数划分问题	146
+zheng wei	郑玮	145
+zheng shu shi xiao	证书失效	137
+zheng xie ban	政协办	137
+zheng yun peng	郑运鹏	136
+zheng chang fen	蒸肠粉	135
+zheng yong tiao jian	争用条件	134
+zheng jiang tuan	蒸江团	133
+zheng hong ji tuan	正虹集团	129
+zheng xiao ying	郑小瑛	127
+zheng ming ze ren dao zhi	证明责任倒置	125
+zheng cun	郑村	124
+zheng wu yuan cai jing wei yuan hui	政务院财经委员会	117
+zheng xin yi	郑欣宜	114
+zheng dian jie	郑店街	110
+zheng jia zhuang	郑家庄	108
+zheng shi ce shi	正式测试	107
+zheng liu qi	整流器	105
+zheng lu wei er	蒸鹿尾儿	105
+zheng zheng jing jing	正正经经	105
+zheng xi yi	郑希怡	99
+zheng zhuang	郑庄	94
+zheng dong guo	郑洞国	91
+zheng yang	郑阳	88
+zheng zhou wei jia zhuan ying dian	郑州威佳专营店	88
+zheng gu yi yuan	正骨医院	87
+zheng quan zi ying shang	证券自营商	87
+zheng hao	郑昊	86
+zheng zheng gao	蒸蒸糕	85
+zheng ji zhi liao	正畸治疗	84
+zheng ning	郑宁	83
+zheng ji	郑集	81
+zheng jia yuan zi	郑家院子	79
+zheng qian kong hou	争前恐后	79
+zheng fan	郑凡	76
+zheng yi	正谊	75
+zheng lv cheng	郑律成	73
+zheng qun chou yang	整群抽样	73
+zheng xuan	郑玄	73
+zheng duan	郑段	72
+zheng qiang dou hen	争强斗狠	71
+zheng ze yu yan	正则语言	71
+zheng zheng tie han	铮铮铁汉	71
+zheng xin cheng yi	正心诚意	70
+zheng gui wen fa	正规文法	69
+zheng jian shi bie	证件识别	69
+zheng ruo ceng	郑若曾	67
+zheng jun	郑君	66
+zheng xiao dong	郑晓东	66
+zheng jia cun	郑家村	65
+zheng qi xiao du	蒸汽消毒	65
+zheng yu ling	郑裕玲	65
+zheng fu jie	政府街	62
+zheng mu	郑母	61
+zheng tai dian qi	正泰电器	61
+zheng zi xi	正字戏	61
+zheng ban yan zheng	正版验证	58
+zheng he mu	郑和墓	58
+zheng zhi wu si	正直无私	58
+zheng bai qi	正白旗	57
+zheng hang sheng	郑杭生	57
+zheng li lu	政立路	53
+zheng chang yu	蒸鲳鱼	50
+zheng hai lin	郑海麟	48
+zheng jun jing wu	整军经武	48
+zheng yong tu di gong gao ban fa	征用土地公告办法	48
+zheng zhong shen jing	正中神经	47
+zheng li huo dong	整理活动	46
+zheng bao qing	郑宝清	45
+zheng quan shi chang wei fa fan zui	证券市场违法犯罪	45
+zheng quan wang	证券网	43
+zheng yan dou yan	争妍斗艳	43
+zheng ze ji	正则集	43
+zheng jun li	郑君里	41
+zheng fa gan xiao	政法干校	40
+zheng ju zhi jian xiang hu yin zheng	证据之间相互印证	40
+zheng shi liang	郑士良	38
+zheng zuo min	郑作民	38
+zheng ru wo qing qing de lai	正如我轻轻的来	37
+zheng shi he tun yu shang shi	正是河豚欲上时	37
+zheng xie	郑燮	37
+zheng xin min	郑新民	37
+zheng yu tong zhong xue	郑裕彤中学	37
+zheng ze xu	正则序	37
+zheng ping	正平	36
+zheng quan shi chang jin ru zhi du	证券市场禁入制度	36
+zheng wang fen	郑王坟	36
+zheng zhuang gong	郑庄公	35
+zheng tong shun jie	正通顺街	34
+zheng xiang chuan zhi	正向传值	34
+zheng shu xian xing gui hua	整数线性规划	33
+zheng yang gao er	蒸羊羔儿	33
+zheng yi yi dong	正益移动	33
+zheng zhou kao ya	郑州烤鸭	33
+zheng cheng gong ji nian guan	郑成功纪念馆	31
+zheng xian	郑县	31
+zheng xiang	正巷	31
+zheng zhi pai chi	政治排斥	31
+zheng ce xing shui shou chou hua	政策性税收筹划	29
+zheng jiu ru xin	整旧如新	29
+zheng shu zuo fei biao	证书作废表	29
+zheng xiang tui li	正向推理	29
+zheng bi bao	正闭包	28
+zheng bo ke duan yu yan	郑伯克段于鄢	28
+zheng chang zhuang	郑常庄	28
+zheng hong hua you	正红花油	28
+zheng yu cheng	郑宇成	28
+zheng ju li lun	证据理论	26
+zheng quan gong si cai wu zhi du	证券公司财务制度	25
+zheng ting	证停	25
+zheng yong quan	征用权	25
+zheng wei shan	郑维山	24
+zheng fu jie	正府街	23
+zheng min lu	政民路	23
+zheng ming shu	证明树	23
+zheng shu	郑树	23
+zheng zheng you sheng	铮铮有声	23
+zheng he su	整合素	22
+zheng jia he	郑家河	22
+zheng shu fei chu	证书废除	22
+zheng shu guan li ji gou	证书管理机构	22
+zheng feng rong	郑凤荣	21
+zheng fu hou yuan	政府后院	21
+zheng yi	正易	21
+zheng ze	郑泽	21
+zheng ma	整嘛	20
+zheng qi yu	蒸汽浴	20
+zheng su lu	政肃路	20
+zheng zhi fan bu yin du yuan ze	政治犯不引渡原则	20
+zheng chang	正场	19
+zheng da lu	正大路	19
+zheng qian	郑虔	19
+zheng quan gong si jian cha ban fa	证券公司检查办法	19
+zheng xin hua yuan	政新花园	19
+zheng ce mian	政策面	18
+zheng dou	正斗	18
+zheng wen bian ji	正文编辑	18
+zheng zhou da xue fa xue zhuan ye	郑州大学法学专业	18
+zheng ding chun	正丁醇	17
+zheng jin	郑晋	17
+zheng qiao	郑桥	17
+zheng yang cun	正阳村	17
+zheng hong	郑鸿	16
+zheng jie min	郑介民	16
+zheng keng cun	郑坑村	16
+zheng pian die jia	正片叠加	16
+zheng yue ban	正月半	16
+zheng chai hu yin	正柴胡饮	15
+zheng duo bin	郑多彬	15
+zheng pei	郑培	15
+zheng quan ye tong ye gong hui	证券业同业公会	15
+zheng shou pai wu fei zhi du	征收排污费制度	15
+zheng si xiao	郑思肖	15
+zheng ti guang zhao mo xing	整体光照模型	15
+zheng xun	郑勋	15
+zheng yi lu nan kou	正义路南口	15
+zheng zhou dong lu	郑州东路	15
+zheng ce yu mo shi	政策与模式	14
+zheng huan gong	郑桓公	14
+zheng jia mo cun	郑家磨村	14
+zheng jiao xiao bo bian huan	正交小波变换	14
+zheng lian ou fen	蒸莲藕粉	14
+zheng ti shi xiao	整体失效	14
+zheng xue lu	正学路	14
+zheng chai hu yin ke li	正柴胡饮颗粒	13
+zheng qiao	郑樵	13
+zheng ru wo qiao qiao de lai	正如我悄悄的来	13
+zheng shi pi dai zhang jin lun	正时皮带涨紧轮	13
+zheng tian wan	正天丸	13
+zheng zhen	郑珍	13
+zheng zhuang xing dian xian	症状性癫痫	13
+zheng dong zhen	整董镇	12
+zheng ping	政平	12
+zheng yi hong	郑一泓	12
+zheng yong geng di bu chang fei	征用耕地补偿费	12
+zheng zhi long xia	整肢龙虾	12
+zheng zhong shen jing sun shang	正中神经损伤	12
+zheng ben lu	政本路	10
+zheng cheng gong shi ji	郑成功史迹	10
+zheng dou xiang	正斗乡	10
+zheng du	郑度	10
+zheng ji	郑吉	10
+zheng lu	郑陆	10
+zheng man qing	郑曼青	10
+zheng wen bian ji qi	正文编辑器	10
+zheng yue	郑岳	10
+zheng ze xing shi	正则形式	10
+zheng zheng qiu	郑正秋	10
+zheng hong	郑弘	9
+zheng ke shuang	郑克塽	9
+zheng liang	郑梁	9
+zheng quan tou zi ji jin	证券投资基金	9
+zheng shi jiang nan hao feng jing	正是江南好风景	9
+zheng wei jian	郑维健	9
+zheng xi xiang	正西乡	9
+zheng ao	正岙	8
+zheng fu dao	政府道	8
+zheng keng	郑坑	8
+zheng quan tou zi fen xi	证券投资分析	8
+zheng xiang	郑湘	8
+zheng yu	正余	8
+zheng cuo cun	郑厝村	7
+zheng lian	郑濂	7
+zheng qi gui chao	正期归巢	7
+zheng qu yan ge	政区沿革	7
+zheng quan ji zhong tuo guan	证券集中托管	7
+zheng quan shi chang hong zhou kan	证券市场红周刊	7
+zheng shui	正水	7
+zheng tai	郑泰	7
+zheng zhuang zi	郑庄子	7
+zheng ban leng mian	蒸拌冷面	6
+zheng chang	郑昶	6
+zheng dao guang	郑道光	6
+zheng dong zhong jie	正东中街	6
+zheng fu	郑簠	6
+zheng fu si	正福寺	6
+zheng ke xiang	正科乡	6
+zheng ming zhai gao dian	正明斋糕点	6
+zheng qi xiang	郑旗乡	6
+zheng wu gong	郑武公	6
+zheng zhi zhun sheng	证治准绳	6
+zheng zhou xi lu	郑州西路	6
+zheng chu	郑樗	5
+zheng dian jie dao	郑店街道	5
+zheng guan chu	征管处	5
+zheng ji dan rou juan	蒸鸡蛋肉卷	5
+zheng liu shui ji	蒸馏水机	5
+zheng lun	郑伦	5
+zheng shi jiang nan hao	正是江南好	5
+zheng shi qiao	郑石桥	5
+zheng shi yu lan shi jie dong	正是浴兰时节动	5
+zheng xing xiang	正兴乡	5
+zheng yang lu bu xing jie	正阳路步行街	5
+zheng yang qiao bei	正阳桥北	5
+zheng bao	郑宝	4
+zheng biao	正表	4
+zheng dong shang jie	正东上街	4
+zheng fa qi xin zi	蒸发器芯子	4
+zheng fu yuan	政府院	4
+zheng ge zhuang	郑戈庄	4
+zheng li lu shi guang lu	政立路市光路	4
+zheng mei mei	郑梅梅	4
+zheng quan zhou kan	证券周刊	4
+zheng shan xiang	郑山乡	4
+zheng wen gong	郑文公	4
+zheng xi feng luo ye xia chang an	正西风落叶下长安	4
+zheng xia en	郑夏恩	4
+zheng zong shuan yang rou	正宗涮羊肉	4
+zheng da hua yuan	正大花园	3
+zheng da qi pei	正大汽配	3
+zheng di an zhi bu chang jiu fen	征地安置补偿纠纷	3
+zheng huai xian	郑怀贤	3
+zheng jia ji xiang	郑家集乡	3
+zheng lian	郑廉	3
+zheng quan fa xing zhu ce zhi	证券发行注册制	3
+zheng quan yi jia	证券溢价	3
+zheng shi cheng huang ju lv shi	正是橙黄橘绿时	3
+zheng xia	郑侠	3
+zheng xiao mao	郑小毛	3
+zheng yan la zi	睁眼辣子	3
+zheng yi dao	正义道	3
+zheng yu jiao	郑玉娇	3
+zheng yuan	郑沅	3
+zheng yue shi liu ye	正月十六夜	3
+zheng zhen yao	郑振瑶	3
+zheng zong si	正宗寺	3
+zheng dang bai xia men	正当白下门	2
+zheng de da qiu zhang wan zhang	争得大裘长万丈	2
+zheng fu shi chang ying xiao	政府市场营销	2
+zheng gu guo wan qiu	正故国晚秋	2
+zheng guang wen	郑广文	2
+zheng guo lu	郑国路	2
+zheng huan	郑环	2
+zheng ji	郑纪	2
+zheng ji jiao zhi qi	正畸矫治器	2
+zheng ling gong	郑灵公	2
+zheng mu gong	郑穆公	2
+zheng nai dong	郑乃东	2
+zheng qiao	郑侨	2
+zheng quan dao bao	证券导报	2
+zheng quan xin yong kong zhi	证券信用控制	2
+zheng shi hao	郑世豪	2
+zheng su xiang	正素巷	2
+zheng tai fen bu qu xian	正态分布曲线	2
+zheng ti lei yao	正体类要	2
+zheng xian fu	郑献甫	2
+zheng xin nian	郑新年	2
+zheng xin tai ke li	正心泰颗粒	2
+zheng yang he jie dao	正阳河街道	2
+zheng yuan lu	正原路	2
+zheng zhen dang xing jian	正枕当星剑	2
+zheng zhi zhen	郑之珍	2
+zheng zhong guang	郑重光	2
+zheng zhong kui	郑仲夔	2
+zheng zhuang zi da jie	郑庄子大街	2
+zheng ce gong ju	政策工具	1
+zheng chang ren ti gong neng	正常人体功能	1
+zheng chang sheng jiao nang	整肠生胶囊	1
+zheng chang zhuang cun	郑常庄村	1
+zheng cheng wu yin ge shan	争逞舞裀歌扇	1
+zheng da hai	郑大海	1
+zheng da lu xi kou	正大路西口	1
+zheng dai	郑岱	1
+zheng dan meng zhao wang lai jiu shi	正旦蒙赵王赉酒诗	1
+zheng de qiu er wan bao cheng	正得秋而万宝成	1
+zheng di xiang	郑地乡	1
+zheng ding mei su	正定霉素	1
+zheng dun jin	郑敦谨	1
+zheng fa xue yuan nan xiao qu	政法学院南校区	1
+zheng fan qu zhao can yang li	征帆去棹残阳里	1
+zheng fan yi pian rao peng hu	征帆一片绕蓬壶	1
+zheng fu huai yuan lu	征夫怀远路	1
+zheng fu zhuang	郑福庄	1
+zheng ji ci hua yan hu xia	争及此花檐户下	1
+zheng ji er yi yi	正己而已矣	1
+zheng ji tang	郑际唐	1
+zheng jian gong	郑简公	1
+zheng jian sheng shi you chang wang	正见盛时犹怅望	1
+zheng jiao liang chu xiao hun	争教两处销魂	1
+zheng jue hu tong	正觉胡同	1
+zheng keng wei	正坑尾	1
+zheng kui fei	郑奎飞	1
+zheng lan sun	郑兰孙	1
+zheng li gong	郑厉公	1
+zheng lian ri po lang hua chu	正怜日破浪花出	1
+zheng man	郑鄤	1
+zheng nai jie gen shen shi di	争奈结根深石底	1
+zheng nai zha yuan hai que	争奈乍圆还缺	1
+zheng pu	郑普	1
+zheng qing feng tong ning jiao nang	正清风痛宁胶囊	1
+zheng quan dao kan	证券导刊	1
+zheng quan fa bi jiao yan jiu	证券法比较研究	1
+zheng quan fa yuan	证券法苑	1
+zheng quan zi xun	证券资讯	1
+zheng shan fu	郑善夫	1
+zheng shang gang	正上岗	1
+zheng sheng xiang	争胜乡	1
+zheng sheng yi piao lun	正声易漂沦	1
+zheng shi deng gao shi jie	正是登高时节	1
+zheng shi qu nian shi jie	正是去年时节	1
+zheng shi ren jian jia jie	正是人间佳节	1
+zheng shi wei mo jing jie	正是维摩境界	1
+zheng teng xi shu	蒸腾系数	1
+zheng xin an ren bai lu chen	争信安仁拜路尘	1
+zheng xin gai lun	征信概论	1
+zheng xin mai chong ge chu yi	争新买宠各出意	1
+zheng xin tai jiao nang	正心泰胶囊	1
+zheng xin tai pian	正心泰片	1
+zheng xing bei mu	正形贝目	1
+zheng xiong gua jie piao chong	整胸寡节瓢虫	1
+zheng ying xue	正营穴	1
+zheng yue duan men ye	正月端门夜	1
+zheng zha zi cun	郑栅子村	1
+zheng zheng fu xie xie	整整复斜斜	1
+zheng zhi fu xiang zhi	烝之复湘之	1
+zheng zhou ran qi	郑州燃气	1
+zheng di jian tiao qiu	郑氐间条鳅	0
+zheng e niu wei yu	正鳄牛尾鱼	0
+zheng fang chui e luo	正纺锤峨螺	0
+zheng hong ru bao	正虹乳宝	0
+zheng xiao you	正小鮋	0
+zheng zhi ai jie xie	正直爱洁蟹	0

@@ -1,0 +1,4 @@
+gua qi zhuang tai	挂起状态	375
+gua qi jin cheng	挂起进程	240
+gua qi shi jian	挂起时间	142
+gua qi yuan yu	挂起原语	113

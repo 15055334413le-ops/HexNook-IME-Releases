@@ -1,0 +1,12 @@
+flsf	分类算法	415
+flybh	傅里叶变换	353
+flybh	傅立叶变换	329
+flz	非零值	268
+flydsf	弗洛伊德算法	228
+flyjs	傅里叶级数	228
+flsb	分类识别	223
+flyfx	傅里叶分析	211
+flj	负逻辑	189
+flyj	分立元件	165
+flymsz	傅里叶描述子	109
+flbs	范例表示	107

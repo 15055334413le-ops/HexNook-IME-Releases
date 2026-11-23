@@ -1,0 +1,6 @@
+cdl	从动轮	195
+cdpzc	从动盘总成	127
+cdyzc	从动圆柱齿	34
+cdyzcl	从动圆柱齿轮	34
+cdzty	传动轴凸缘	32
+cdkz	充电卡子	23

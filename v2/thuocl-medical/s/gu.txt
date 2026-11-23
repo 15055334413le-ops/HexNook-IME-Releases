@@ -1,0 +1,134 @@
+gu gu tou	股骨头	686
+gu bing	骨病	627
+gu ling	骨龄	553
+gu tong	骨痛	528
+gu wai ke	骨外科	490
+gu pen gu zhe	骨盆骨折	468
+gu gu gu zhe	股骨骨折	458
+gu zhang	鼓胀	452
+gu shang yi yuan	骨伤医院	442
+gu gu jing gu zhe	股骨颈骨折	422
+gu guan jie bing	骨关节病	402
+gu mo chuan kong	鼓膜穿孔	394
+gu bing zhuan an mei	谷丙转氨酶	305
+gu jing mai	股静脉	295
+gu gu tou wu jun xing huai si	股骨头无菌性坏死	282
+gu gu gan gu zhe	股骨干骨折	280
+gu jiao yuan	骨胶原	279
+gu jie he	骨结核	273
+gu xuan	股癣	271
+gu wei su	谷维素	270
+gu gu jing	股骨颈	267
+gu huai si	骨坏死	261
+gu shui ni	骨水泥	240
+gu gu cu long jian gu zhe	股骨粗隆间骨折	236
+gu gu tou que xue xing huai si	股骨头缺血性坏死	236
+gu ding yi chi	固定义齿	234
+gu yuan di qu	固原地区	230
+gu gu tou gu zhe	股骨头骨折	225
+gu zhui	骨赘	222
+gu xiao liang	骨小梁	221
+gu zhi	故纸	218
+gu jin tu shu ji cheng	古今图书集成	214
+gu ding xiu fu	固定修复	210
+gu sui bu	骨碎补	210
+gu cao zhuan an mei	谷草转氨酶	205
+gu ju xi bao liu	骨巨细胞瘤	185
+gu sha zhi wu	固沙植物	178
+gu mi du ce ding	骨密度测定	176
+gu ding qiao	固定桥	167
+gu zai chun	谷甾醇	167
+gu pi zhi	骨皮质	165
+gu zhe bu yu he	骨折不愈合	165
+gu shen jing	股神经	160
+gu sui xian wei hua	骨髓纤维化	158
+gu sui chuan ci shu	骨髓穿刺术	153
+gu xi liao fa	姑息疗法	153
+gu ben yan ling wan	固本延龄丸	147
+gu mo chong xue	鼓膜充血	142
+gu gu tou zhi huan shu	股骨头置换术	139
+gu guan jie jie he	骨关节结核	139
+gu wei su pian	谷维素片	139
+gu biao zhi han	固表止汗	135
+gu hua xing ji yan	骨化性肌炎	135
+gu xian wei yi chang zeng zhi zheng	骨纤维异常增殖症	132
+gu an xian zhuan tai mei	谷氨酰转肽酶	129
+gu nang zhong	骨囊肿	129
+gu shan	股疝	129
+gu gu zhang	股骨长	125
+gu zhe ji xing yu he	骨折畸形愈合	125
+gu guan	骨管	117
+gu kang jiao nang	骨康胶囊	117
+gu pen xia zhai	骨盆狭窄	117
+gu jin mo shi zong he zheng	骨筋膜室综合征	113
+gu ruan gu liu	骨软骨瘤	113
+gu gai su	骨钙素	108
+gu shi cheng xing shu	鼓室成形术	108
+gu sui xiang	骨髓象	108
+gu zhong jian	骨重建	108
+gu bing gan an suan jiao nang	谷丙甘氨酸胶囊	103
+gu ding jiao zhi qi	固定矫治器	103
+gu han yang sheng jing kou fu ye	古汉养生精口服液	103
+gu huan	股环	103
+gu mo xiu bu shu	鼓膜修补术	103
+gu xing jie he	骨性结合	103
+gu ben ke chuan jiao nang	固本咳喘胶囊	98
+gu ben qiang shen jiao nang	固本强身胶囊	98
+gu ge feng tong pian	骨骼风痛片	98
+gu jin wan jiao nang	骨筋丸胶囊	98
+gu shu kang ke li	骨疏康颗粒	98
+gu jin mo shi zong he zheng	骨筋膜室综合症	91
+gu jing wan	固精丸	91
+gu shen jing sun shang	股神经损伤	91
+gu an xian zhuan yi mei	谷氨酰转移酶	84
+gu ben ke chuan pian	固本咳喘片	84
+gu ben yi chang pian	固本益肠片	84
+gu ci xiao tong jiao nang	骨刺消痛胶囊	84
+gu fang zhou	顾方舟	84
+gu guan	股管	84
+gu tai zhu she ye	骨肽注射液	84
+gu yan	骨盐	84
+gu ben wan	固本丸	76
+gu bu yu he	骨不愈合	76
+gu hua san chun	骨化三醇	76
+gu la ding	古拉定	76
+gu li jiao nang	骨力胶囊	76
+gu mi zhi	骨密质	76
+gu sui liu xi bao	骨髓瘤细胞	76
+gu ti pei yang ji	固体培养基	76
+gu wai ce pi shen jing yan	股外侧皮神经炎	76
+gu xing biao zhi	骨性标志	76
+gu you ling ba bu gao	骨友灵巴布膏	76
+gu yu ling jiao nang	骨愈灵胶囊	76
+gu chang zhi xie wan	固肠止泻丸	66
+gu ci ping pian	骨刺平片	66
+gu gua ti qu wu zhu she ye	骨瓜提取物注射液	66
+gu hua xing xian wei liu	骨化性纤维瘤	66
+gu shen sheng fa wan	固肾生发丸	66
+gu shi ying hua zheng	鼓室硬化症	66
+gu you ling cha ji	骨友灵搽剂	66
+gu ben hui yuan kou fu ye	固本回元口服液	51
+gu chang jiao nang	固肠胶囊	51
+gu chui ti	鼓槌体	51
+gu ci xiao tong ye	骨刺消痛液	51
+gu ding xing yao zhen	固定性药疹	51
+gu dong mai jia xing dong mai liu	股动脉假性动脉瘤	51
+gu feng ning jiao nang	骨风宁胶囊	51
+gu gu ke shang gu zhe	股骨髁上骨折	51
+gu gu zhuan zi xia gu zhe	股骨转子下骨折	51
+gu guang gan tai hai yuan mei	谷胱甘肽还原酶	51
+gu han yang sheng jing pian	古汉养生精片	51
+gu hong zhu she ye	谷红注射液	51
+gu hua san chun jiao wan	骨化三醇胶丸	51
+gu hua zhong xin	骨化中心	51
+gu jing mai si ha pian	固精麦斯哈片	51
+gu mo zeng sheng hou pi zheng	骨膜增生厚皮症	51
+gu pen qing xie du	骨盆倾斜度	51
+gu san jiao	股三角	51
+gu shu kang jiao nang	骨疏康胶囊	51
+gu song zhi	骨松质	51
+gu wai mo	骨外膜	51
+gu yan ling pian	骨炎灵片	51
+gu yang gu liu	骨样骨瘤	51
+gu ying hua bing	骨硬化病	51
+gu yuan ke li	固元颗粒	51

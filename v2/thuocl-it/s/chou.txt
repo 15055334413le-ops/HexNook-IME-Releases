@@ -1,0 +1,11 @@
+chou xiang lei	抽象类	836
+chou xiang fang fa	抽象方法	678
+chou xiang gong chang	抽象工厂	465
+chou xiang gong chang mo shi	抽象工厂模式	448
+chou xiang ji lei	抽象基类	441
+chou xiang shu ju lei xing	抽象数据类型	359
+chou xiang ceng ci	抽象层次	337
+chou xiang han shu	抽象函数	318
+chou shu	丑数	284
+chou ti yuan li	抽屉原理	272
+chou mi xing	稠密性	133

@@ -1,0 +1,62 @@
+qi dong fu wu	启动服务	614
+qi dong guo cheng	启动过程	555
+qi dong jiao ben	启动脚本	497
+qi dong ying yong	启动应用	470
+qi dong fang shi	启动方式	464
+qi dong mo shi	启动模式	460
+qi dong wen jian	启动文件	433
+qi dong xiang	启动项	432
+qi ye ji ying yong	企业级应用	423
+qi dong shi bai	启动失败	415
+qi dong liu cheng	启动流程	403
+qi dong dai ma	启动代码	391
+qi dong shun xu	启动顺序	386
+qi dong pan	启动盘	356
+qi dong hua mian	启动画面	340
+qi ye kai fa	企业开发	339
+qi dong dong hua	启动动画	327
+qi ceng mo xing	七层模型	315
+qi dong tu pian	启动图片	304
+qi dong bao cuo	启动报错	289
+qi shi ye	起始页	286
+qi ci zuo biao	齐次坐标	280
+qi fa shi sou suo	启发式搜索	279
+qi ye xin xi hua	企业信息化	277
+qi dong ye mian	启动页面	275
+qi ye jia gou	企业架构	271
+qi ceng xie yi	七层协议	266
+qi fa shi suan fa	启发式算法	263
+qi dong tu	启动图	262
+qi fa shi fang fa	启发式方法	250
+qi ye zhang hao	企业账号	242
+qi fa shi he bing	启发式合并	239
+qi niu yun cun chu	七牛云存储	238
+qi pan wen ti	棋盘问题	224
+qi pao pai xu	起泡排序	224
+qi ou jian zhi	奇偶剪枝	219
+qi ye an quan	企业安全	218
+qi yi zhi fen jie	奇异值分解	216
+qi ou pai xu	奇偶排序	202
+qi pan you xi	棋盘游戏	199
+qi fa shi han shu	启发式函数	191
+qi fa shi gui ze	启发式规则	186
+qi kan hui yi	期刊会议	185
+qi pai you xi	棋牌游戏	184
+qi ye zi yuan gui hua	企业资源规划	179
+qi fa shi ji shu	启发式技术	170
+qi dong shi da kai	启动时打开	168
+qi ou jian yan	奇偶检验	160
+qi ye dui qi ye	企业对企业	155
+qi ci zuo biao xi	齐次坐标系	150
+qi ye xin xi an quan	企业信息安全	148
+qi dong zi cheng xu	启动子程序	142
+qi ye mo xing	企业模型	122
+qi shu chang	奇数场	121
+qi ye ji kuang jia	企业级框架	120
+qi ye liu cheng guan li	企业流程管理	117
+qi ou jian yan wei	奇偶检验位	114
+qi fa shi xin xi	启发式信息	110
+qi jian yan	奇检验	105
+qi ye di tu kai fa	企业地图开发	101
+qi fa shi zhi shi	启发式知识	96
+qi shu sao miao	奇数扫描	91

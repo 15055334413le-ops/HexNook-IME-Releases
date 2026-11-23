@@ -1,0 +1,73 @@
+dong tai fen pei	动态分配	606
+dong tai jia zai	动态加载	601
+dong tai lian jie ku	动态链接库	592
+dong tai sheng cheng	动态生成	585
+dong tai chuang jian	动态创建	552
+dong tai tian jia	动态添加	539
+dong tai dai li	动态代理	530
+dong tai lian jie	动态链接	501
+dong tai shu zu	动态数组	494
+dong tai bang ding	动态绑定	487
+dong tai nei cun	动态内存	459
+dong tai ye mian	动态页面	439
+dong tai wang ye	动态网页	436
+dong tai diao yong	动态调用	432
+dong tai fen pei nei cun	动态分配内存	429
+dong tai nei cun fen pei	动态内存分配	424
+dong tai zhu ce	动态注册	406
+dong tai xian shi	动态显示	388
+dong tai gui hua suan fa	动态规划算法	371
+dong tai bian yi	动态编译	361
+dong tai gui hua fa	动态规划法	328
+dong tai wang zhan	动态网站	326
+dong tai lian bian	动态联编	300
+dong tai kong zhi	动态控制	298
+dong jing fen li	动静分离	297
+dong tai diao shi	动态调试	278
+dong gui	动归	269
+dong tai cun chu fen pei	动态存储分配	264
+dong tai chu li	动态处理	256
+dong tai dai li mo shi	动态代理模式	255
+dong tai bu shu	动态部署	252
+dong tai shua xin	动态刷新	250
+dong tai ce shi	动态测试	245
+dong tai you xian ji	动态优先级	239
+dong tai you biao	动态游标	237
+dong tai bu ju	动态布局	236
+dong tai shu	动态树	235
+dong tai diao du	动态调度	233
+dong tai lian biao	动态链表	232
+dong tai yu ming	动态域名	232
+dong tai yu ming jie xi	动态域名解析	226
+dong zuo shi bie	动作识别	220
+dong tai mian ban	动态面板	219
+dong tai shu ju jiao huan	动态数据交换	218
+dong ci duan yu	动词短语	213
+dong tai shu ju yuan	动态数据源	211
+dong tai zhong ding wei	动态重定位	200
+dong tai gao du	动态高度	195
+dong tai cun chu guan li	动态存储管理	193
+dong tai wang luo	动态网络	190
+dong tai kong jian	动态控件	177
+dong tai cun chu qi	动态存储器	173
+dong tai bao biao	动态报表	170
+dong tai lie	动态列	161
+dong tai zi yuan fen pei	动态资源分配	150
+dong tai huan chong qu	动态缓冲区	145
+dong tai huan chong	动态缓冲	137
+dong tai di zhi zhuan huan	动态地址转换	130
+dong duo tai	动多态	129
+dong tai dian fen zhi	动态点分治	123
+dong tai shun xu biao	动态顺序表	122
+dong tai cuo wu	动态错误	121
+dong tai shu fen zhi	动态树分治	120
+dong tai gui hua zhuan ti	动态规划专题	119
+dong tai fang zhen	动态仿真	117
+dong tai zhong gou	动态重构	117
+dong tai bu chang	动态补偿	115
+dong zuo gui ze	动作规则	112
+dong tai biao ge	动态表格	98
+dong tai ji yi	动态记忆	98
+dong tai sheng cheng cheng xu	动态生成程序	94
+dong tai gui hua chu bu	动态规划初步	88
+dong tai ju jiao	动态聚焦	86

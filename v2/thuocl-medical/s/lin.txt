@@ -1,0 +1,71 @@
+lin chuang si wang	临床死亡	510
+lin chuang jian yan	临床检验	509
+lin ba jie zhong da	淋巴结肿大	479
+lin chuang hu li	临床护理	466
+lin shun chao	林顺潮	370
+lin ba xi bao bai xue bing	淋巴细胞白血病	358
+lin chuang yao xue	临床药学	346
+lin suan er qing jia	磷酸二氢钾	289
+lin zhuang xi bao ai	鳞状细胞癌	289
+lin suan ke dai yin	磷酸可待因	234
+lin ba shui zhong	淋巴水肿	231
+lin ba jie he	淋巴结核	230
+lin hua lv	磷化铝	221
+lin chuang liu xing bing xue	临床流行病学	218
+lin ba jie yan	淋巴结炎	213
+lin ba mu xi bao	淋巴母细胞	210
+lin ke mei su	林可霉素	196
+lin chuang ying yang xue	临床营养学	194
+lin chuang mian yi xue	临床免疫学	189
+lin ke sheng	林可胜	183
+lin suan ao si ta wei jiao nang	磷酸奥司他韦胶囊	176
+lin ba guan liu	淋巴管瘤	174
+lin ba guan yan	淋巴管炎	174
+lin chuang ma zui	临床麻醉	169
+lin chuang yao li xue	临床药理学	167
+lin mei su	磷霉素	167
+lin suan qing gai	磷酸氢钙	163
+lin yi	林亿	153
+lin suan er zhi mei	磷酸二酯酶	147
+lin zhong du	磷中毒	142
+lin ba qi guan	淋巴器官	139
+lin dai xie wen luan	磷代谢紊乱	132
+lin ba xi bao ji shu	淋巴细胞计数	125
+lin chuang bing li xue	临床病理学	125
+lin ba guan ji liu bing	淋巴管肌瘤病	121
+lin suan qing er jia	磷酸氢二钾	117
+lin jun xing niao dao yan	淋菌性尿道炎	113
+lin an ji ben jia suan	邻氨基苯甲酸	108
+lin chuang yi chuan xue	临床遗传学	108
+lin suan san gai	磷酸三钙	108
+lin zhao xin	林兆鑫	103
+lin ba yin zi	淋巴因子	98
+lin suan er qing na	磷酸二氢钠	98
+lin suan qing er na	磷酸氢二钠	98
+lin chuang fa yi xue	临床法医学	91
+lin suan gai jie shi	磷酸钙结石	91
+lin suan guo tang ji mei	磷酸果糖激酶	91
+lin suan lv kui pian	磷酸氯喹片	91
+lin suan pai kui	磷酸哌喹	91
+lin ba rou ya zhong	淋巴肉芽肿	84
+lin jun xing yin dao yan	淋菌性阴道炎	84
+lin ba xi bao jian shao zheng	淋巴细胞减少症	76
+lin chuang zhen duan xue	临床诊断学	76
+lin suan bo an kui pian	磷酸伯氨喹片	76
+lin suan pai qin	磷酸哌嗪	76
+lin ba shang pi ai	淋巴上皮癌	66
+lin bi suan	磷壁酸	66
+lin chuang jian yan ji chu	临床检验基础	66
+lin suan chuan xiong qin	磷酸川芎嗪	66
+lin suan lv ning jiao	磷酸铝凝胶	66
+lin suan zhi mei	磷酸酯酶	66
+lin zhi xian ji chun	磷脂酰肌醇	66
+lin chuang ma zui xue	临床麻醉学	51
+lin dan	林旦	51
+lin jun xing jie mo yan	淋菌性结膜炎	51
+lin suan bi duo quan	磷酸吡哆醛	51
+lin suan bo an kui	磷酸伯氨喹	51
+lin suan ge ding	磷酸咯啶	51
+lin suan pai kui pian	磷酸哌喹片	51
+lin suan pai qin bao ta tang	磷酸哌嗪宝塔糖	51
+lin xie xing jian yuan yan	鳞屑性睑缘炎	51

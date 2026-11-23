@@ -1,0 +1,8 @@
+clyl	残留应力	92
+clk	出炉口	68
+clsg	车轮饰盖	65
+clwd	出炉温度	64
+clqd	残留强度	59
+cldphj	车轮动平衡机	56
+clwq	车辆外迁	40
+clwbz	车辆外摆值	18

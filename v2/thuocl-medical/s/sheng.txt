@@ -1,0 +1,66 @@
+sheng wu an quan	生物安全	812
+sheng ming zhi liang	生命质量	600
+sheng zhang dian	生长点	430
+sheng zhang chi huan	生长迟缓	396
+sheng wu fan ying qi	生物反应器	348
+sheng huo shi jian	生活事件	339
+sheng di huang	生地黄	314
+sheng wu fan kui	生物反馈	310
+sheng zhi qi pao zhen	生殖器疱疹	295
+sheng shi gao	生石膏	283
+sheng dai xi rou	声带息肉	275
+sheng si	声嘶	272
+sheng wu zhuan hua	生物转化	269
+sheng mai zhu she ye	生脉注射液	246
+sheng da huang	生大黄	226
+sheng zhang ji su que fa zheng	生长激素缺乏症	224
+sheng shai can	生晒参	222
+sheng zhi xi bao liu	生殖细胞瘤	208
+sheng jing xi bao	生精细胞	194
+sheng tai qun	生态群	191
+sheng li fan she	生理反射	189
+sheng wu yi xue mo shi	生物医学模式	189
+sheng mai yin	生脉饮	183
+sheng wu an quan gui	生物安全柜	183
+sheng wu deng xiao xing	生物等效性	178
+sheng mu li	生牡蛎	174
+sheng li xin li xue	生理心理学	158
+sheng zhi xing wei	生殖行为	158
+sheng wu tao ci	生物陶瓷	153
+sheng hua tang	生化汤	150
+sheng qian shang	生前伤	150
+sheng wu ji shu zhi yao	生物技术制药	142
+sheng wu xin li xue	生物心理学	142
+sheng wu cai liao xue	生物材料学	135
+sheng dai yan	声带炎	121
+sheng hua yao wu	生化药物	117
+sheng yin	盛寅	117
+sheng wu su que fa	生物素缺乏	113
+sheng li jiao nang	生力胶囊	108
+sheng wu fan kui liao fa	生物反馈疗法	108
+sheng hong qing re jiao nang	胜红清热胶囊	98
+sheng jing jiao nang	生精胶囊	98
+sheng mai yin kou fu ye	生脉饮口服液	98
+sheng yang shi yi wei wan	升阳十一味丸	98
+sheng lang du	生狼毒	91
+sheng zhang qi tuo fa	生长期脱发	91
+sheng ji yu hong gao	生肌玉红膏	84
+sheng li xing fei wen zheng	生理性飞蚊症	84
+sheng wu xing chuan bo	生物性传播	84
+sheng men shui zhong	声门水肿	76
+sheng nang	声囊	76
+sheng dai bai ban	声带白斑	66
+sheng li lv hua na rong ye	生理氯化钠溶液	66
+sheng wu hua xue jian yan	生物化学检验	66
+sheng cun zhi	生存值	51
+sheng huo shi jian liang biao	生活事件量表	51
+sheng jiang xie xin tang	生姜泻心汤	51
+sheng ma ge gen tang	升麻葛根汤	51
+sheng mai jiao nang	生脉胶囊	51
+sheng san qi san	生三七散	51
+sheng tai yi chuan xue	生态遗传学	51
+sheng wu fan kui fa	生物反馈法	51
+sheng wu yao ji xue	生物药剂学	51
+sheng wu zhi yao gong yi xue	生物制药工艺学	51
+sheng xue xiao ban jiao nang	升血小板胶囊	51
+sheng zhi mian yi xue	生殖免疫学	51

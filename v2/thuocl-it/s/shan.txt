@@ -1,0 +1,18 @@
+shan chu cao zuo	删除操作	682
+shan chu wen jian	删除文件	666
+shan chu yuan su	删除元素	616
+shan chu biao	删除表	541
+shan chu yong hu	删除用户	498
+shan chu jie dian	删除节点	491
+shan chu mu lu	删除目录	474
+shan chu jie dian	删除结点	394
+shan chu wen jian jia	删除文件夹	389
+shan chu cheng xu	删除程序	353
+shan chu yi chang	删除异常	242
+shan chu cheng yuan	删除成员	214
+shan chu zi shen	删除自身	212
+shan ge shu ju	栅格数据	164
+shan chu tu ceng	删除图层	147
+shan chu ying jian	删除硬件	147
+shan hui gui dang	闪回归档	133
+shan su cun chu qi	闪速存储器	126

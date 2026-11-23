@@ -1,0 +1,75 @@
+tong bu fang fa	同步方法	524
+tong bu ji zhi	同步机制	515
+tong bu dai ma kuai	同步代码块	462
+tong bu suo	同步锁	458
+tong bu cao zuo	同步操作	452
+tong xin ji zhi	通信机制	437
+tong bu qing qiu	同步请求	420
+tong yong fang fa	通用方法	392
+tong zhi ji zhi	通知机制	389
+tong yong ji cun qi	通用寄存器	386
+tong pai xu	桶排序	370
+tong bu kong zhi	同步控制	357
+tong yuan ce lve	同源策略	332
+tong bu fu zhi	同步复制	329
+tong xin kuang jia	通信框架	323
+tong xin jie kou	通信接口	319
+tong yong dai ma	通用代码	308
+tong yong gong ju	通用工具	307
+tong xin mo xing	通信模型	306
+tong ji gong ju	统计工具	304
+tong bu tong xin	同步通信	294
+tong bu yi bu	同步异步	292
+tong xin lian jie	通信连接	289
+tong yi jian mo yu yan	统一建模语言	287
+tong yu fang cheng	同余方程	282
+tong bu yuan yu	同步原语	274
+tong bu chuan shu	同步传输	271
+tong yong mo ban	通用模板	269
+tong ji ji qi xue xi	统计机器学习	268
+tong bu hu chi	同步互斥	262
+tong xin ruan jian	通信软件	254
+tong bu xu lie	同步序列	243
+tong yu ding li	同余定理	240
+tong xin zi wang	通信子网	239
+tong guo yan chi	通过延迟	236
+tong xin an quan	通信安全	233
+tong yong chuan xing zong xian	通用串行总线	226
+tong yong ying yong	通用应用	221
+tong ji shu ju ku	统计数据库	219
+tong bu shua xin	同步刷新	216
+tong ji nan ti	统计难题	209
+tong yong ji suan ji	通用计算机	207
+tong xin bian cheng	通信编程	202
+tong yong cao zuo xi tong	通用操作系统	201
+tong xin ji chu	通信基础	192
+tong yong bian cheng yu yan	通用编程语言	191
+tong bu suan fa	同步算法	187
+tong yong lei xing xi tong	通用类型系统	182
+tong yong lei ku	通用类库	179
+tong yong shi tu	通用视图	174
+tong dao mo shi	通道模式	173
+tong ji tui li	统计推理	168
+tong xin gu zhang	通信故障	162
+tong yu mo ding li	同余模定理	161
+tong ji mo shi shi bie	统计模式识别	151
+tong xin ce shi	通信测试	147
+tong dao jie kou	通道接口	144
+tong ji mo ni	统计模拟	144
+tong ji jia she	统计假设	142
+tong dao ming ling	通道命令	139
+tong xin kong zhi qi	通信控制器	130
+tong yong jian pan	通用键盘	118
+tong yong tu ling ji	通用图灵机	118
+tong ji shi fen fu yong	统计时分复用	117
+tong se san jiao xing	同色三角形	113
+tong ji bian ma	统计编码	112
+tong xin fang zhen	通信仿真	105
+tong xin ji chu zhi shi	通信基础知识	105
+tong dao shi pei qi	通道适配器	104
+tong xin shi pei qi	通信适配器	104
+tong yong xin xi mo xing	通用信息模型	98
+tong ji jue ce li lun	统计决策理论	96
+tong xin chu li ji	通信处理机	94
+tong bu shi fen fu yong	同步时分复用	88
+tong dao kong zhi qi	通道控制器	88

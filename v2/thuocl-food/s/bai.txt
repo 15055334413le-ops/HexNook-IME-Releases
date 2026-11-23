@@ -1,0 +1,110 @@
+bai you	白油	469
+bai dou	白豆	361
+bai qie	白切	352
+bai du	白肚	315
+bai lan di jiu	白兰地酒	278
+bai mo	白蘑	249
+bai lan gua	白兰瓜	226
+bai long	柏龙	206
+bai ji mo	白吉馍	198
+bai chang	白肠	189
+bai tang gao	白糖糕	187
+bai shui yang tou	白水羊头	179
+bai yun zhu shou	白云猪手	168
+bai cai dou fu tang	白菜豆腐汤	165
+bai shi yi ban ya	白市驿板鸭	147
+bai guo shao ji	白果烧鸡	141
+bai yu fei cui	白玉翡翠	141
+bai yun feng zhao	白云凤爪	139
+bai zhu rou	白煮肉	138
+bai jia fei chang fen	白家肥肠粉	137
+bai jin zhen	白金针	131
+bai yun zhang bao zi	白运章包子	124
+bai cheng tang	白橙糖	123
+bai zhan he tian ji	白斩河田鸡	120
+bai feng gao	白蜂糕	117
+bai qiao ke li dan gao	白巧克力蛋糕	117
+bai yue bing	白月饼	115
+bai he guan tou	百合罐头	113
+bai hua ji	百花鸡	112
+bai rou zhao huo shao	白肉罩火烧	112
+bai mi shi	白蜜食	110
+bai guo gao	百果糕	109
+bai li xiang ye	百里香叶	108
+bai tang lun jiao gao	白糖伦教糕	108
+bai he gao	百合糕	107
+bai ling gu guan tou	白灵菇罐头	106
+bai shou tao	百寿桃	106
+bai tang yang mei	白糖杨梅	104
+bai pi su	白皮酥	102
+bai you dou fu	白油豆腐	101
+bai hua chuan jiang cai	百花串酱菜	100
+bai mian guo kui	白面锅盔	97
+bai shui yang rou	白水羊肉	97
+bai zhou zi	白肘子	91
+bai ba bao yu	白扒鲍鱼	90
+bai cai guo zi	白菜锅子	90
+bai cu ji dan	白醋鸡蛋	90
+bai lu sun guan tou	白芦笋罐头	89
+bai yin ru yi	白银如意	89
+bai mian guo kui	白面锅魁	87
+bai he lian zi jiang	百合莲子浆	85
+bai rou si er	白肉丝儿	85
+bai chao san qi hua tian ji	白炒三七花田鸡	83
+bai fei tang	白肺汤	80
+bai guo jia	百果佳	79
+bai xia gan	白虾干	77
+bai tang lian xin zhou	白糖莲心粥	75
+bai zhuo xiang luo pian	白灼响螺片	75
+bai he nuo mi zhou	百合糯米粥	74
+bai hou bao bing	百侯薄饼	74
+bai zhi chang yu	白汁鲳鱼	74
+bai zhi quan yu	白汁全鱼	74
+bai e luo si ji wei jiu	白俄罗斯鸡尾酒	72
+bai he liu ji pian	百合熘鸡片	72
+bai zhi gui yu	白汁鳜鱼	72
+bai feng rou	白封肉	69
+bai gong cheng	白宫城	69
+bai qie xia	白切虾	69
+bai he niu rou	百合牛肉	67
+bai mi su	白米酥	67
+bai cao li gao tang	百草梨膏糖	64
+bai qiao ke li bing qi lin	白巧克力冰淇淋	64
+bai yang shen geng	白羊肾羹	64
+bai yu cang zhu	白玉藏珠	64
+bai zhi tang	白芷汤	64
+bai chao xia qiu	白炒虾球	61
+bai he ling zhi	百合灵芝	61
+bai xian diao gua zi	白岘吊瓜子	61
+bai guo nan xing sheng yu tang	白果南杏生鱼汤	57
+bai guo ti jiang bing	百果提浆饼	57
+bai guo xian jiu niang yuan zi	百果馅酒酿圆子	57
+bai jiao yong yu tou	白浇鳙鱼头	57
+bai li feng pu	白梨凤脯	57
+bai mi huang luo	白蜜黄螺	57
+bai sha jing shui zhu bai zha rou	白沙井水煮白扎肉	57
+bai chao mo yu juan	白炒墨鱼卷	52
+bai e wei dan cai	白鹅煨淡菜	52
+bai guo gui hua geng	白果桂花羹	52
+bai he bing ka fei	百合冰咖啡	52
+bai ren quan ya	百仁全鸭	52
+bai shao yu chi	白烧鱼翅	52
+bai ye su	百叶酥	52
+bai zhi cai xin	白汁菜心	52
+bai zhi gan sun	白汁甘笋	52
+bai zi dong gua	百子冬瓜	52
+bai ba guo	白八粿	44
+bai cai mu xu	白菜木须	44
+bai chao dao yu si	白炒刀鱼丝	44
+bai chao xiang luo	白焯响螺	44
+bai feng gao	白丰糕	44
+bai gan zhu san si	白干煮三丝	44
+bai guo hai xian geng	白果海鲜羹	44
+bai hao yin zhen cha	白豪银针茶	44
+bai he chao xi lan hua	百合炒西兰花	44
+bai he zao ren tang	百合枣仁汤	44
+bai ji bing tang yan wo	白芨冰糖燕窝	44
+bai shu zhu du tang	白术猪肚汤	44
+bai you rou pian	白油肉片	44
+bai yuan dan gao	白圆蛋糕	44
+bai zhi wu liu yu	白汁五柳鱼	44

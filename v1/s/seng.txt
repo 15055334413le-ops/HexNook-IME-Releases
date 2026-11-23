@@ -1,0 +1,46 @@
+seng ren	僧人	49245
+seng lv	僧侣	27080
+seng zhong	僧众	11050
+seng duo zhou shao	僧多粥少	7765
+seng ni	僧尼	7750
+seng dao	僧道	6095
+seng qie	僧伽	5080
+seng su	僧俗	3740
+seng tu	僧徒	1815
+seng yuan	僧院	1330
+seng mao	僧帽	1111
+seng jia luo	僧伽罗	867
+seng si	僧寺	700
+seng xie	僧鞋	123
+seng gu xiang	僧固乡	109
+seng jia luo ren	僧伽罗人	100
+seng jia luo yu	僧伽罗语	100
+seng lv zhu yi	僧侣主义	100
+seng mao hou	僧帽猴	100
+seng qi nu	僧祇奴	100
+seng qie lan	僧伽蓝	100
+seng qie lan mo	僧伽蓝摩	100
+seng qie si na	僧伽斯那	100
+seng qie zha	僧伽吒	100
+seng qie zha jing	僧伽吒经	100
+seng qie zheng	僧伽证	100
+seng mao shui mu	僧帽水母	97
+seng fu	僧服	64
+seng pao	僧袍	64
+seng ge lin qin	僧格林沁	32
+seng mao mu li	僧帽牡蛎	29
+seng ji	僧籍	5
+seng qiao yue xia men	僧敲月下门	5
+seng tuan	僧团	5
+seng fang su you qi	僧房宿有期	3
+seng gu	僧固	3
+seng shi yu meng you ke xun	僧是愚氓犹可训	3
+seng zhao	僧肇	3
+seng lai kan fo mian	僧来看佛面	1
+seng mao nei lu xi xie	僧帽内陆溪蟹	1
+seng mao shen xing chong	僧帽肾形虫	1
+seng mao shui mu yu	僧帽水母鱼	1
+seng mao xie guan chong	僧帽斜管虫	1
+seng qie luo	僧伽罗	1
+seng qu lun	僧佉论	1
+seng yan gu bi fo hua hao	僧言古壁佛画好	1

@@ -1,0 +1,6 @@
+swb	水温表	284
+swcgq	水温传感器	215
+swzsd	水温指示灯	75
+swgys	水温感应塞	74
+swgyq	水位感应器	40
+swtz	缩微图纸	18

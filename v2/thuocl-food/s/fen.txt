@@ -1,0 +1,15 @@
+fen tang	粉汤	275
+fen yu	粉鱼	198
+fen li	粉利	185
+fen jiao	粉饺	175
+fen tang jiao zi	粉汤饺子	167
+fen pi zi	粉皮子	117
+fen jiu niu rou	汾酒牛肉	99
+fen zheng niu yang rou	粉蒸牛羊肉	92
+fen pi la yu	粉皮辣鱼	79
+fen ning bai tang mian hua gao	汾宁白糖棉花糕	67
+fen si hai mi qin cai tang	粉丝海米芹菜汤	57
+fen si xiang gu dan tang	粉丝香菇蛋汤	57
+fen tang cai jiao	粉汤彩饺	52
+fen bai mei ren cha	粉白美人茶	44
+fen si ju gao xie	粉丝焗膏蟹	44

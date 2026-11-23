@@ -1,0 +1,233 @@
+ji lei	基类	864
+ji ben shu ju lei xing	基本数据类型	756
+ji he lei	集合类	576
+ji suan ji shi jue	计算机视觉	504
+ji lu ri zhi	记录日志	500
+ji cheng kai fa huan jing	集成开发环境	495
+ji qi xue xi suan fa	机器学习算法	472
+ji he lei xing	集合类型	463
+ji yi hua sou suo	记忆化搜索	439
+ji shu pai xu	基数排序	438
+ji qi zhi ling	机器指令	437
+ji ben ming ling	基本命令	436
+ji suan ji zhuan ye	计算机专业	436
+ji suan ji yu yan	计算机语言	432
+ji he kuang jia	集合框架	429
+ji suan ji cheng xu	计算机程序	424
+ji he cao zuo	集合操作	422
+ji hua ren wu	计划任务	416
+ji suan biao da shi	计算表达式	413
+ji ben zu jian	基本组件	409
+ji qun huan jing	集群环境	403
+ji cheng fang shi	继承方式	397
+ji qun guan li	集群管理	397
+ji suan ji ming	计算机名	397
+ji suan ji ying jian	计算机硬件	396
+ji ben yun suan	基本运算	387
+ji suan ji tu xing xue	计算机图形学	387
+ji suan fu za du	计算复杂度	384
+ji suan ji ruan jian	计算机软件	383
+ji qun pei zhi	集群配置	380
+ji fang shou fei xi tong	机房收费系统	377
+ji huo han shu	激活函数	369
+ji suan ji guan li	计算机管理	357
+ji ben shu ju jie gou	基本数据结构	356
+ji yi hua	记忆化	355
+ji chu shu ju lei xing	基础数据类型	353
+ji lian shan chu	级联删除	342
+ji lu lu jing	记录路径	341
+ji zhu mi ma	记住密码	338
+ji shu kuang jia	技术框架	334
+ji suan ji bian cheng	计算机编程	334
+ji he yun suan	集合运算	332
+ji shu nei mu	技术内幕	329
+ji guang tui song	极光推送	328
+ji qun bu shu	集群部署	326
+ji shi bian yi qi	即时编译器	325
+ji suan xing neng	计算性能	320
+ji shi liao tian	即时聊天	317
+ji suan ji ji chu	计算机基础	315
+ji chu lei ku	基础类库	312
+ji suan ji ying yong	计算机应用	311
+ji lian cao zuo	级联操作	308
+ji shu tao lun	技术讨论	305
+ji qi yun xing	机器运行	303
+ji suan cheng xu	计算程序	303
+ji qun da jian	集群搭建	299
+ji he bian huan	几何变换	298
+ji chu dai ma	基础代码	297
+ji suan ji tu xing	计算机图形	296
+ji suan ji zi yuan	计算机资源	296
+ji chu suan fa	基础算法	294
+ji suan luo ji	计算逻辑	292
+ji suan ji xing neng	计算机性能	291
+ji suan ji pei zhi	计算机配置	289
+ji xian bian cheng	极限编程	281
+ji shu wang zhan	技术网站	280
+ji chu gong ju	基础工具	279
+ji fang zhong gou	机房重构	279
+ji suan ji an quan	计算机安全	278
+ji chu shu ju jie gou	基础数据结构	276
+ji zhi ji cun qi	基址寄存器	276
+ji suan ji shi jie	计算机世界	274
+ji suan ji suan fa	计算机算法	274
+ji suan ji zu cheng	计算机组成	274
+ji qun ji shu	集群技术	273
+ji suan shi yong	计算使用	272
+ji suan fu za xing	计算复杂性	269
+ji suan ji shu ju	计算机数据	269
+ji zhong kong zhi	集中控制	265
+ji shu jie shao	技术介绍	264
+ji chu ying yong	基础应用	260
+ji suan yin qing	计算引擎	259
+ji chu ming ling	基础命令	258
+ji suan ji yuan li	计算机原理	257
+ji yu te zheng	基于特征	257
+ji lu fang shi	记录方式	256
+ji xing han shu	积性函数	256
+ji lian fen lei qi	级联分类器	255
+ji suan ji tu xiang	计算机图像	254
+ji chu she zhi	基础设置	253
+ji shi tong xun ruan jian	即时通讯软件	251
+ji suan ji cao zuo	计算机操作	250
+ji chu yuan li	基础原理	249
+ji chu han shu	基础函数	246
+ji yu gui ze	基于规则	242
+ji jiao pai xu	极角排序	241
+ji suan ji gong cheng	计算机工程	241
+ji cheng mo shi	集成模式	240
+ji suan ji shu ji	计算机书籍	239
+ji qi zhou qi	机器周期	237
+ji cheng xue xi	集成学习	235
+ji qi ren shi jue	机器人视觉	234
+ji shu wu guan	技术无关	234
+ji suan ji shi xian	计算机实现	234
+ji shu shen du	技术深度	232
+ji suan ji ti xi	计算机体系	232
+ji cheng ying she	继承映射	230
+ji qun jian kong	集群监控	228
+ji suan ji jie gou	计算机结构	228
+ji da shi ran gu ji	极大似然估计	227
+ji shu jie xi	技术解析	227
+ji suan ji li lun	计算机理论	227
+ji fang shou fei	机房收费	225
+ji ben shu ru shu chu	基本输入输出	222
+ji yu zhi shi	基于知识	219
+ji lian cha xun	级联查询	218
+ji shu ke xing xing	技术可行性	216
+ji ben kuai	基本块	215
+ji jia gan zhi	机架感知	214
+ji suan guang gao xue	计算广告学	212
+ji shu jiao cheng	技术教程	211
+ji su liu lan qi	极速浏览器	211
+ji ben yun suan fu	基本运算符	209
+ji qi xue xi li lun	机器学习理论	209
+ji huo ji zhi	激活机制	204
+ji suan ji xian shi	计算机显示	203
+ji shu can kao	技术参考	202
+ji wei jiu pai xu	鸡尾酒排序	201
+ji chu yu yan	基础语言	200
+ji suan ji li jie	计算机理解	197
+ji suan yu yan xue	计算语言学	197
+ji xu chang tong gong cheng	继续畅通工程	197
+ji qi xue xi ji shi	机器学习基石	195
+ji suan ji kong zhi	计算机控制	194
+ji suan ji tu shu	计算机图书	191
+ji yu shi li	基于实例	190
+ji shu gai nian	技术概念	188
+ji lian cai dan	级联菜单	186
+ji shu zhuan ti	技术专题	186
+ji sheng dian rong	寄生电容	185
+ji shi cha xun	即时查询	185
+ji suan ce lve	计算策略	184
+ji fang guan li	机房管理	183
+ji shu qian yan	技术前沿	183
+ji shi ya suo	即时压缩	182
+ji da shi ran	极大似然	181
+ji he hua ban	几何画板	179
+ji shi tong xun ping tai	即时通讯平台	179
+ji shu tan tao	技术探讨	178
+ji he suan fa	几何算法	176
+ji he bian xing	几何变形	173
+ji suan ji dong hua	计算机动画	173
+ji suan ji lei xing	计算机类型	173
+ji suan bao biao	集算报表	172
+ji suan ji wen hua	计算机文化	172
+ji shu diao yan	技术调研	171
+ji shu zhou bao	技术周报	171
+ji lu suo ding	记录锁定	170
+ji suan shi jue	计算视觉	169
+ji shi sou suo	即时搜索	167
+ji dai chuan shu	基带传输	165
+ji he xiao zheng	几何校正	161
+ji kong	级控	161
+ji suan ji hui tu	计算机绘图	160
+ji cun qi zhang du	寄存器长度	159
+ji qi xue xi ji fa	机器学习技法	159
+ji shi ben kai fa	记事本开发	159
+ji ben pai xu suan fa	基本排序算法	158
+ji suan ji wen ti	计算机问题	157
+ji ben ping tai	基本平台	156
+ji qi ren kai fa	机器人开发	156
+ji suan pai xu	计算排序	156
+ji suan ji chan ye	计算机产业	155
+ji neng leng que	技能冷却	154
+ji dian yi ti hua	机电一体化	151
+ji he dai ma	集合代码	149
+ji ben you xian ji	基本优先级	147
+ji shu tuo zhan	技术拓展	147
+ji er huo fu ju zhen	基尔霍夫矩阵	145
+ji suan ji gai lun	计算机概论	145
+ji suan ji he ji chu	计算几何基础	145
+ji qi ci dian	机器词典	144
+ji suan ji ying yu	计算机英语	142
+ji bi te yi tai wang	吉比特以太网	141
+ji shi tong xun kai fa	即时通讯开发	141
+ji shu zong he	技术综合	141
+ji qi shi jue suan fa	机器视觉算法	139
+ji suan ji shu xue	计算机数学	138
+ji chu bei fen	基础备份	137
+ji suan ji ji neng	计算机技能	137
+ji chu bu jian	基础部件	135
+ji suan ji fan zui	计算机犯罪	132
+ji shu dai ma	技术代码	131
+ji he hua ban jiao cheng	几何画板教程	130
+ji xian	迹线	128
+ji cun qi zhong ming ming	寄存器重命名	127
+ji ci xun huan shou	计次循环首	125
+ji qi ren fang zhen	机器人仿真	125
+ji ben ci	基本词	124
+ji shi lei	计时类	123
+ji ci xun huan wei	计次循环尾	121
+ji he shu xue	几何数学	121
+ji shu bian ma	技术编码	120
+ji chu hang shi	基础夯实	119
+ji shu qu	技术区	119
+ji shu ji jin	技术集锦	118
+ji suan ji wei hu	计算机维护	116
+ji suan ji yi shu	计算机艺术	116
+ji shi jie ya suo	即时解压缩	114
+ji shu zheng li	技术整理	114
+ji chu wang	基础网	113
+ji shu wen zhai	技术文摘	112
+ji suan ji chang shi	计算机常识	109
+ji shu yuan chuang	技术原创	107
+ji shu wen dang fan yi	技术文档翻译	103
+ji suan gou jia	计算构架	103
+ji suan ji xia qi	计算机下棋	103
+ji shi tong xun liao tian	即时通讯聊天	101
+ji suan ji he zhi shi	计算几何知识	101
+ji fang wei hu	机房维护	100
+ji suan ji ke pu	计算机科普	100
+ji cheng fu lei cheng yuan	继承父类成员	96
+ji yu jie shi	基于解释	96
+ji lu ce liang	记录测量	94
+ji yin shu ju chu li	基因数据处理	94
+ji he yu yan	集合语言	93
+ji suan ji ji chu ke	计算机基础课	93
+ji suan ji wei xiu	计算机维修	93
+ji he hua ban xia zai	几何画板下载	91
+ji zhang ma	记账码	91
+ji suan dan dao	计算弹道	88
+ji yu jiao se shou quan	基于角色授权	88
+ji fu xiao ying	集肤效应	86

@@ -1,0 +1,56 @@
+er jin zhi wen jian	二进制文件	687
+er fen tu	二分图	465
+er cha sou suo shu	二叉搜索树	430
+er yi xing	二义性	418
+er jin zhi liu	二进制流	413
+er cha pai xu shu	二叉排序树	393
+er fen da an	二分答案	387
+er fen sou suo	二分搜索	383
+er jin zhi ri zhi	二进制日志	381
+er ji yu ming	二级域名	374
+er ji zhi zhen	二级指针	368
+er jin zhi shu zi	二进制数字	365
+er jin zhi zi fu	二进制字符	345
+er cha dui	二叉堆	343
+er wei ma sao miao	二维码扫描	343
+er fen cha zhao fa	二分查找法	334
+er cha shu de bian li	二叉树的遍历	333
+er fen tu pi pei	二分图匹配	331
+er fen fa cha zhao	二分法查找	323
+er lu gui bing	二路归并	292
+er fen cha zhao suan fa	二分查找算法	291
+er cha shu bian li	二叉树遍历	290
+er fen pi pei	二分匹配	286
+er wei shu zhuang shu zu	二维树状数组	272
+er wei ma sheng cheng	二维码生成	270
+er zhi hua	二值化	266
+er fen cha ru pai xu	二分插入排序	260
+er jin zhi da dui xiang	二进制大对象	257
+er cha ping heng shu	二叉平衡树	238
+er wei xian duan shu	二维线段树	237
+er zhi tu xiang	二值图像	236
+er ci pai xu	二次排序	228
+er cha shu shen du	二叉树深度	227
+er jin zhi yun suan	二进制运算	227
+er ci cai yang	二次采样	225
+er jin zhi you hua	二进制优化	222
+er fen si xiang	二分思想	218
+er yuan guan xi	二元关系	212
+er zhong zhi zhen	二重指针	211
+er jin zhi mei ju	二进制枚举	205
+er fen pan duan	二分判断	187
+er wei bei bao	二维背包	185
+er fen tu ran se	二分图染色	183
+er ceng jiao huan	二层交换	182
+er ci sheng yu	二次剩余	159
+er fen cha ru	二分插入	158
+er fen qiu mi	二分求幂	151
+er fen tu pan ding	二分图判定	147
+er cha suo yin shu	二叉索引树	138
+er cha shu ge zhong	二叉树各种	132
+er ji gao su huan cun	二级高速缓存	132
+er fen cai da an	二分猜答案	125
+er yuan yu fa	二元语法	119
+er fen san fen	二分三分	101
+er wei ma qian dao	二维码签到	98
+er jin zhi dan yuan	二进制单元	91

@@ -1,0 +1,5 @@
+nfg	暖风管	119
+nfdj	暖风电机	98
+nfkg	暖风开关	98
+nfjzc	暖风机总成	55
+nfjcfk	暖风机出风口	18

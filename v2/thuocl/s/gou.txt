@@ -1,0 +1,162 @@
+gou mai	购买	444238
+gou zao han shu	构造函数	113104
+gou rou	狗肉	71864
+gou zao fang fa	构造方法	58504
+gou zhu	构筑	35520
+gou fang zhe	购房者	30393
+gou zao qi	构造器	28651
+gou wu zhong xin	购物中心	19834
+gou jin	购进	15372
+gou bu li	狗不理	15159
+gou mai li	购买力	11841
+gou bu li bao zi	狗不理包子	3981
+gou jian gong ju	构建工具	3873
+gou rou huo guo	狗肉火锅	1816
+gou zao dai ma kuai	构造代码块	1761
+gou zi han shu	钩子函数	1599
+gou qi cha	枸杞茶	1556
+gou rou tang	狗肉汤	1508
+gou jian he xie lao dong guan xi	构建和谐劳动关系	1395
+gou shu zhong xin	购书中心	1225
+gou hui	购回	1157
+gou zao lei xing	构造类型	1059
+gou wu wang zhan	购物网站	936
+gou qi zi	枸杞子	867
+gou xin dou jiao	勾心斗角	767
+gou fang luo hu	购房落户	724
+gou hui	购汇	653
+gou qi zhou	枸杞粥	635
+gou jian tu	构件图	580
+gou yan can chuan	苟延残喘	554
+gou ji tiao qiang	狗急跳墙	486
+gou jian kuai	构件块	417
+gou zao xing	构造型	410
+gou jian dui xiang	构件对象	404
+gou zao suan fa	构造算法	371
+gou jian	勾践	344
+gou zhuang	勾庄	306
+gou wu xi tong	购物系统	225
+gou xue lin tou	狗血淋头	218
+gou qie tou sheng	苟且偷生	211
+gou yao wei ba	狗摇尾巴	210
+gou zao cheng xu	构造程序	207
+gou pi gao yao	狗皮膏药	171
+gou jia she ji	构架设计	158
+gou xue pen tou	狗血喷头	142
+gou bang zi xun ji	沟帮子熏鸡	122
+gou duan luo xuan ti bing	钩端螺旋体病	122
+gou yan	沟沿	116
+gou teng	钩藤	112
+gou wei xu diao	狗尾续貂	112
+gou jian ku	构件库	111
+gou gu shu	勾股数	100
+gou xin dou jiao	钩心斗角	91
+gou jiao niao	狗浇尿	88
+gou tou	沟头	87
+gou chong	钩虫	70
+gou an	苟安	68
+gou na hao zi	狗拿耗子	67
+gou zhang ren shi	狗仗人势	65
+gou cheng yao jian fu he xing	构成要件符合性	58
+gou tou jun shi	狗头军师	55
+gou qi yin er	枸杞银耳	53
+gou zai jing	狗仔鲸	51
+gou qi hai shen ge dan	枸杞海参鸽蛋	49
+gou pi bu tong	狗屁不通	46
+gou zi	沟子	43
+gou men	沟门	34
+gou hun mian	勾魂面	33
+gou xi	沟西	32
+gou duan luo xuan ti	钩端螺旋体	31
+gou qie tou an	苟且偷安	29
+gou fei wu zhi suo you	苟非吾之所有	27
+gou yao lv dong bin	狗咬吕洞宾	27
+gou zao ji he	构造几何	27
+gou qi duo tang	枸杞多糖	26
+gou fei shen xiang zhong	狗吠深巷中	25
+gou zao xing zheng ming	构造性证明	25
+gou xi	沟溪	24
+gou zhi	构制	24
+gou jian bian cheng	构件编程	23
+gou quan xing ming yu luan shi	苟全性命于乱世	23
+gou pi gao	狗皮膏	22
+gou hun she po	勾魂摄魄	21
+gou zao fan xing lei xing	构造泛型类型	20
+gou gou xiang qian chong	狗狗向前冲	19
+gou xiao guan xi	构效关系	19
+gou qi yin er tang	枸杞银耳汤	17
+gou chong bing	钩虫病	15
+gou qi shi pin	枸杞食品	15
+gou jia tan	苟家滩	13
+gou wen zhong du	钩吻中毒	13
+gou piao yuan	购票员	9
+gou qi xiao mi zhou	枸杞小米粥	9
+gou chui guan jie	钩椎关节	8
+gou qi fu ni chong	枸杞负泥虫	8
+gou qi gen	枸杞根	8
+gou bu li fan zhuang	狗不理饭庄	7
+gou mai qu	购买区	7
+gou tou she qu	沟头社区	7
+gou duan luo xuan ti yi miao	钩端螺旋体疫苗	6
+gou li xiang	沟里乡	6
+gou nan xiang	沟南乡	6
+gou tou shan	狗头山	6
+gou fang zhu fang wu you bao dian	购房住房无忧宝典	5
+gou gu	钩骨	5
+gou ji	狗脊	5
+gou ju nong	枸桔弄	5
+gou qi niu bian tang	枸杞牛鞭汤	5
+gou tou cun	沟头村	5
+gou zheng qi shen yi	苟正其身矣	5
+gou tao chong	狗绦虫	4
+gou zhi yu ren yi	苟志于仁矣	4
+gou kou jian er	沟口健二	3
+gou qi hong ying wen	枸杞红瘿蚊	3
+gou qi shan yao zhou	枸杞山药粥	3
+gou qi xiang dan	枸杞香蛋	3
+gou tou xiang	沟头巷	3
+gou wei ba hu tong	狗尾巴胡同	3
+gou yu xin zhi duan zhi xi	苟余心之端直兮	3
+gou jia po	苟家坡	2
+gou mai mei guo	购买美国	2
+gou men zi zhen	沟门子镇	2
+gou qi niu gan tang	枸杞牛肝汤	2
+gou zai fen	狗仔粉	2
+gou ba zhen	构朳镇	1
+gou de yong ci xia tu	苟得用此下土	1
+gou duan chun ping	沟端淳平	1
+gou jie xiang	耇街乡	1
+gou lian gui ru yan	钩帘归乳燕	1
+gou mao	钩毛	1
+gou neng zhi qin ling	苟能制侵陵	1
+gou pi shan	狗皮山	1
+gou qi bai he zhou	枸杞百合粥	1
+gou qi dun yang nao	枸杞炖羊脑	1
+gou qi ju hua bao pai gu	枸杞菊花煲排骨	1
+gou qi juan shao e	枸杞卷梢蛾	1
+gou qi tian luo tang	枸杞田螺汤	1
+gou sha qi yun que	构厦岂云缺	1
+gou shui dong xi liu	沟水东西流	1
+gou suo zhi er bu de ye	诟索之而不得也	1
+gou teng tang	钩藤汤	1
+gou wu ji dai xin	苟无济代心	1
+gou you yong wo zhe	苟有用我者	1
+gou yu qing qi xin fang	苟余情其信芳	1
+gou chuan xie shou luo	枸椽蟹守螺	0
+gou gan cai shu	狗肝菜属	0
+gou ji mao wen	沟襀毛蚊	0
+gou lu jiao shan hu	钩鹿角珊瑚	0
+gou lun mao chong	沟轮毛虫	0
+gou mu si shi qian yu	沟目斯氏潜鱼	0
+gou mu yu shu	狗母鱼属	0
+gou qi hei mang chun	枸杞黑盲蝽	0
+gou qi hong ying wen	枸杞红缨蚊	0
+gou wei yang lu zhong	沟尾仰露螽	0
+gou wen ba fei ha	沟纹巴非蛤	0
+gou wen dun qiao jia	沟纹盾锹甲	0
+gou xing huang ban nong die	钩形黄斑弄蝶	0
+gou xiong ao jing tiao jia	沟胸凹胫跳甲	0
+gou xiong jin gu hua tian niu	沟胸金古花天牛	0
+gou ye cha quan ying	钩叶叉泉蝇	0
+gou ye xia hu yu	沟叶鰕虎鱼	0
+gou zhi tu ha	沟智兔蛤	0

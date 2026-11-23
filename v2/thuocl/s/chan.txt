@@ -1,0 +1,133 @@
+chan pin	产品	719918
+chan ye	产业	581292
+chan quan	产权	103763
+chan liang	产量	62095
+chan zhi	产值	42791
+chan quan zhi du	产权制度	35361
+chan pin zhi liang jian du	产品质量监督	24210
+chan quan deng ji	产权登记	22350
+chan ye yuan qu	产业园区	21786
+chan chu	产出	19942
+chan quan zhi du gai ge	产权制度改革	13403
+chan hou	产后	7606
+chan ke	产科	7553
+chan pin biao shi	产品标识	7207
+chan pin jing li	产品经理	6948
+chan pin zhi liang biao zhun	产品质量标准	6412
+chan quan jie ding	产权界定	4949
+chan xiao xian jie	产销衔接	4227
+chan pin kai fa	产品开发	3773
+chan qian	产前	3719
+chan pin she ji	产品设计	3700
+chan pin shui	产品税	3223
+chan quan bian geng	产权变更	3132
+chan pin que xian	产品缺陷	2939
+chan pin zhi liang	产品质量	2286
+chan luan	产卵	2086
+chan pin zhi liang jian du guan li	产品质量监督管理	1747
+chan qian jian cha	产前检查	1607
+chan gong xiao yi ti hua	产供销一体化	1270
+chan quan deng ji mian ji	产权登记面积	1216
+chan quan deng ji zheng	产权登记证	992
+chan pin ze ren bao xian	产品责任保险	973
+chan pin she ji tu	产品设计图	958
+chan qian zhen duan	产前诊断	892
+chan quan fen ge	产权分割	846
+chan pin wen dang	产品文档	772
+chan pin yun ying	产品运营	760
+chan cheng pin	产成品	758
+chan pin ze ren fa	产品责任法	739
+chan pin fen xi	产品分析	692
+chan chu	蟾蜍	616
+chan pin shi chang	产品市场	459
+chan pin ce shi	产品测试	457
+chan ye jie gou tiao zheng zheng ce	产业结构调整政策	422
+chan pin xia ci	产品瑕疵	412
+chan he	浐河	403
+chan ye yuan guan wei hui	产业园管委会	399
+chan cheng qu zheng fu	禅城区政府	388
+chan luan chang	产卵场	378
+chan pin ying yong	产品应用	349
+chan mian fei ce	缠绵悱恻	331
+chan re	产热	272
+chan pin ren	产品人	249
+chan pin ce hua	产品策划	238
+chan pin ye wu	产品业务	234
+chan pin xiao shou quan	产品销售权	200
+chan ru qi	产褥期	194
+chan pin ku	产品库	193
+chan ye zi ben	产业资本	172
+chan tui	蝉蜕	168
+chan pin qin quan ze ren	产品侵权责任	156
+chan he qu	瀍河区	152
+chan pin an quan	产品安全	127
+chan quan can que	产权残缺	126
+chan xian yu di	馋涎欲滴	116
+chan sheng shi gui ze	产生式规则	108
+chan pin ren zheng	产品认证	106
+chan ye sheng tai lian	产业生态链	106
+chan ye hu lian wang	产业互联网	102
+chan fang	禅房	90
+chan pin ping lun	产品评论	83
+chan shang	产伤	74
+chan gong zhe gui	蟾宫折桂	67
+chan liang fen cheng he tong	产量分成合同	62
+chan pin yan fa guan li	产品研发管理	52
+chan su	蟾酥	50
+chan tou	缠头	48
+chan pin kai fa jian yi shu	产品开发建议书	46
+chan pin que xian ze ren	产品缺陷责任	45
+chan quan xia ci	产权瑕疵	44
+chan pin shu ju guan li	产品数据管理	41
+chan jie	蝉街	37
+chan sheng shi xi tong	产生式系统	37
+chan zhang	禅杖	36
+chan huang qing mei	产黄青霉	34
+chan pin ju bu qi zha	产品局部欺诈	27
+chan quan she ding	产权设定	24
+chan cheng yan chang	产程延长	23
+chan di biao ji quan	产地标记权	21
+chan qian chu xie	产前出血	21
+chan fang hua mu shen	禅房花木深	20
+chan quan jiao yi xin xi fa bu	产权交易信息发布	20
+chan pin qin quan xing wei	产品侵权行为	19
+chan chu zhong du	蟾蜍中毒	16
+chan pin ji zhou qi you hua fa	产品及周期优化法	15
+chan pin xia ci ze ren	产品瑕疵责任	15
+chan ru qi gan ran	产褥期感染	15
+chan ye jie gou tiao jie fa	产业结构调节法	15
+chan pin chuang xin fa ze	产品创新法则	13
+chan shui xi lu	浐水西路	13
+chan ye fa zhan	产业发展	13
+chan su	馋酥	8
+chan zao lin yu jing	蝉噪林逾静	8
+chan chu shui she zhou	蟾蜍水蛇粥	7
+chan quan huo you bian dong shi xiang	产权或有变动事项	7
+chan chu du	蟾蜍毒	6
+chan hou jia zhuang xian yan	产后甲状腺炎	6
+chan pin ze ren bao xian he tong	产品责任保险合同	6
+chan bao	产宝	5
+chan he xiang	镡河乡	4
+chan pin ze ren bao xian tiao kuan	产品责任保险条款	4
+chan bing	颤病	2
+chan de xiang	产德乡	2
+chan hou jing shen bing	产后精神病	2
+chan kou xiang	巉口乡	2
+chan pin jie shao	产品介绍	2
+chan qian zi xian	产前子痫	2
+chan quan dao kan	产权导刊	2
+chan she jiu xin wan	蟾麝救心丸	2
+chan yan san ji ci mu jing	谗言三及慈母惊	2
+chan ye yuan gong jiao diao du zhan	产业园公交调度站	2
+chan yu ye dun tao	单于夜遁逃	2
+chan hou zi gong fu jiu bu quan	产后子宫复旧不全	1
+chan juan luo fu yue	婵娟罗浮月	1
+chan pi bing	蟾皮病	1
+chan pin qi ye biao zhun bei an	产品企业标准备案	1
+chan ping cun	潺坪村	1
+chan sheng wei fa qian	蝉声未发前	1
+chan xian cun	产贤村	1
+chan zhan he xiang	蝉战河乡	1
+chan he yu fu shuang shen chong	铲颌鱼副双身虫	0
+chan wen hu wei wei	铲吻护尾鮠	0
+chan xiao yao zhu	铲逍遥蛛	0

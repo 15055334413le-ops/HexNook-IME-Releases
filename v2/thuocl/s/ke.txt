@@ -1,0 +1,646 @@
+ke hu duan	客户端	234160
+ke kou ke le	可口可乐	147493
+ke fu	客服	136711
+ke zhi xing	可执行	38118
+ke zhi xing wen jian	可执行文件	37260
+ke lin dun	克林顿	22089
+ke zhuan huan zhai quan	可转换债券	21453
+ke sou	咳嗽	21412
+ke xue yuan	科学院	20186
+ke yun zhan	客运站	20038
+ke jin zhi shou	恪尽职守	20029
+ke kuo zhan xing	可扩展性	19331
+ke xiang er zhi	可想而知	16264
+ke zhi xing cheng xu	可执行程序	13312
+ke xing xing bao gao	可行性报告	13098
+ke yi zhi xing	可移植性	12346
+ke jian xing	可见性	11484
+ke wei hu xing	可维护性	11476
+ke hu duan cheng xu	客户端程序	11300
+ke ji yuan	科技园	11200
+ke kuo zhan	可扩展	11034
+ke bu rong huan	刻不容缓	10797
+ke jian yi ban	可见一斑	10214
+ke cheng zhi ji	可乘之机	8891
+ke xuan can shu	可选参数	8808
+ke ji guan	科技馆	8751
+ke xin du	可信度	7163
+ke bian can shu	可变参数	6915
+ke ji ju	科技局	6220
+ke ju tang	壳聚糖	5590
+ke bian ji	可编辑	5422
+ke zai sheng neng yuan fa	可再生能源法	5309
+ke ji cheng	科技城	4907
+ke wei	科委	4669
+ke gu ming xin	刻骨铭心	4440
+ke xue ji suan	科学计算	4151
+ke guan biao zhun	客观标准	3936
+ke yi zhi	可移植	3412
+ke bian shu zu	可变数组	3240
+ke zhong ru	可重入	3128
+ke yun zhong xin	客运中心	2730
+ke ge ke qi	可歌可泣	2699
+ke ka yin	可卡因	2669
+ke xue ji shu fa	科学计数法	2659
+ke long niu	克隆牛	2647
+ke hu duan kai fa	客户端开发	2477
+ke you ke wu	可有可无	2452
+ke hu fu wu	客户服务	2417
+ke fu yong xing	可复用性	2313
+ke yun duan	客运段	2302
+ke hu duan ce shi	客户端测试	2288
+ke luo la duo zhou	科罗拉多州	2288
+ke la ma yi shi	克拉玛依市	2231
+ke ce shi xing	可测试性	2099
+ke xue cheng	科学城	2047
+ke xue ji shu	科学技术	2009
+ke ban chu shen	科班出身	1907
+ke la	克拉	1860
+ke li wu shou	颗粒无收	1813
+ke bian zi fu chuan	可变字符串	1782
+ke shi hua gong ju	可视化工具	1779
+ke li si di	克里斯蒂	1753
+ke fei	科飞	1734
+ke yun zong zhan	客运总站	1730
+ke hu duan fu wu qi	客户端服务器	1712
+ke xue yan jiu	科学研究	1695
+ke ji xue yuan	科技学院	1664
+ke yun ma tou	客运码头	1575
+ke zhou	克州	1545
+ke lai si lei da jie long	克莱斯勒大捷龙	1541
+ke lao si	克劳斯	1493
+ke da xing	可达性	1488
+ke lai si te che qi	克赖斯特彻奇	1310
+ke ji zhong xin	科技中心	1296
+ke xuan lei xing	可选类型	1285
+ke chuan dai she bei	可穿戴设备	1281
+ke nong	可浓	1249
+ke tan	咳痰	1236
+ke cun	客村	1178
+ke guan li xing	可管理性	1164
+ke ji feng gong	克己奉公	1157
+ke xuan zhi	可选值	1147
+ke chi jiu hua	可持久化	1113
+ke xue guan	科学馆	1107
+ke fei	科菲	1101
+ke li jie xing	可理解性	980
+ke le ji chi	可乐鸡翅	970
+ke lian tian xia fu mu xin	可怜天下父母心	969
+ke yun zhong xin zhan	客运中心站	965
+ke ji quan	柯基犬	952
+ke hu ti yan	客户体验	907
+ke lao	科劳	874
+ke ji lu	科技路	858
+ke yan bu duan xing wei	科研不端行为	810
+ke bian can shu lie biao	可变参数列表	806
+ke li si ting	克里斯汀	791
+ke wa si	克瓦斯	789
+ke hu hua	客户化	769
+ke xue shang wang	科学上网	763
+ke kuo chong xing	可扩充性	742
+ke tuo zhan xing	可拓展性	717
+ke lun te luo	克伦特罗	710
+ke zi you dui huan huo bi	可自由兑换货币	683
+ke chuan dai	可穿戴	682
+ke nan	柯南	651
+ke hui fu xing	可恢复性	634
+ke di zhi sheng	克敌制胜	633
+ke ji gong ye yuan	科技工业园	623
+ke er ke zi zu	柯尔克孜族	605
+ke ca	可擦	587
+ke shi hua bian cheng	可视化编程	575
+ke zhong ru han shu	可重入函数	573
+ke chuan	咳喘	516
+ke de li yi sun shi	可得利益损失	497
+ke jian xing wen ti	可见性问题	486
+ke zhou qiu jian	刻舟求剑	458
+ke wang er bu ke ji	可望而不可即	456
+ke dai yin	可待因	443
+ke xiu gai xing	可修改性	438
+ke bian zhang can shu	可变长参数	428
+ke ji da sha	科技大厦	427
+ke chong fu xing	可重复性	409
+ke da	科达	408
+ke ying	柯英	401
+ke bian can shu han shu	可变参数函数	400
+ke ping bi zhong duan	可屏蔽中断	379
+ke xue ji shu pu ji fa	科学技术普及法	367
+ke ran chang shi	溘然长逝	359
+ke di hua	柯棣华	326
+ke lai si te	克莱斯特	320
+ke li ji	颗粒剂	316
+ke si ta xiang	客死他乡	308
+ke yun xi zhan	客运西站	307
+ke luo si	克罗斯	306
+ke ji xin wen	科技新闻	304
+ke yan xiang mu	科研项目	303
+ke jia niang dou fu	客家酿豆腐	296
+ke qin ke jian	克勤克俭	268
+ke ming	克明	266
+ke tang tao lun	课堂讨论	263
+ke yun dong zhan	客运东站	261
+ke lu ge	克鲁格	254
+ke lan	岢岚	252
+ke er	克尔	248
+ke guan gui zui	客观归罪	244
+ke ni xi sai er	柯尼希塞尔	232
+ke bing dui	可并堆	215
+ke kong zhi xing	可控制性	211
+ke ji er lu	科技二路	208
+ke zhi xing cai chan	可执行财产	203
+ke ku nai lao	刻苦耐劳	202
+ke hua bei lu	科华北路	201
+ke lin si man	克林斯曼	195
+ke ke guo	可可果	193
+ke li	科力	189
+ke juan za shui	苛捐杂税	180
+ke er qin niu	科尔沁牛	179
+ke cheng	柯城	175
+ke shi xian xing	可实现性	173
+ke bian can shu mu ban	可变参数模板	171
+ke la song	科拉松	168
+ke lan	柯蓝	168
+ke wang bu ke ji	可望不可即	168
+ke lu yi fu	克鲁伊夫	165
+ke chuan xing xing	可串行性	160
+ke ti huan can shu	可替换参数	159
+ke du chi	刻度尺	154
+ke tuo nu xie ding	科托努协定	153
+ke xuan lian	可选链	151
+ke yi zheng yi guan	可以正衣冠	147
+ke la ma yi lu	克拉玛依路	144
+ke luo en bing	克罗恩病	143
+ke li ke	克里克	142
+ke sou tan duo	咳嗽痰多	142
+ke bian fen qu	可变分区	141
+ke bian bi te lv	可变比特率	139
+ke bian cheng kong zhi qi	可编程控制器	135
+ke ping	柯坪	133
+ke sa qi bing du	柯萨奇病毒	130
+ke shang jiu tian lan yue	可上九天揽月	124
+ke he	柯赫	120
+ke li zhi	柯立芝	120
+ke ji liu lu	科技六路	118
+ke zhuan zhai hui shou	可转债回售	118
+ke yi min	柯以敏	116
+ke shan bing	克山病	115
+ke luo ma nong ren	克罗马农人	113
+ke xia wu yang zhuo bie	可下五洋捉鳖	113
+ke ji lu xi kou	科技路西口	109
+ke fen pei kong jian	可分配空间	108
+ke ji fu li	克己复礼	106
+ke lu zi	科鲁兹	106
+ke yuan lu	科苑路	104
+ke ji qian yan	科技前沿	103
+ke kao xing she ji	可靠性设计	103
+ke yan	柯岩	99
+ke li ke	可立克	98
+ke ji si lu	科技四路	94
+ke lai si lei jiao cha huo li	克莱斯勒交叉火力	93
+ke ji gu	科技谷	91
+ke sui zhu bian	客随主便	91
+ke dong fu ru	克东腐乳	89
+ke ke ka fei	可可咖啡	85
+ke la ma yi xi lu	克拉玛依西路	84
+ke kao xing fen xi	可靠性分析	83
+ke long bu ru dong wu	克隆哺乳动物	83
+ke xin ji suan	可信计算	83
+ke ji yuan zhong	科技园中	82
+ke long kong tiao	科龙空调	81
+ke lun wei er	克伦威尔	81
+ke jian dian	可见点	80
+ke tuo nu	科托努	80
+ke shen ke teng	克什克腾	77
+ke cun qu xing	可存取性	75
+ke lin mei su	克林霉素	75
+ke ming	科名	75
+ke bian zi zhang	可变字长	73
+ke shan	克山	72
+ke bi fei shou kong jia ge fa	可比非受控价格法	70
+ke ke dan gao	可可蛋糕	70
+ke ji yi lu	科技一路	68
+ke fen ji xing	可分级性	65
+ke ling	柯灵	65
+ke you lun	柯有伦	65
+ke tou	客头	64
+ke jian ce xing	可检测性	63
+ke ji jing ying guan li xue yuan	科技经营管理学院	62
+ke la ma yi dong lu	克拉玛依东路	62
+ke zi ling	柯子岭	62
+ke tiao jia ge he tong	可调价格合同	61
+ke xi lu	克西路	60
+ke yun lu	柯云路	60
+ke dong	克东	59
+ke er qin fu	科尔沁夫	59
+ke jia	柯家	59
+ke ji suan xing li lun	可计算性理论	57
+ke gu chou hen	刻骨仇恨	56
+ke ting bing	克汀病	55
+ke hua heng sheng	科华恒盛	53
+ke ni si juan mao mao	柯尼斯卷毛猫	52
+ke shou liang	柯受良	51
+ke tou ji	磕头机	51
+ke di song	可的松	49
+ke man zu xing wen ti	可满足性问题	49
+ke ni ka	柯尼卡	49
+ke yi zhi de shi	可以知得失	49
+ke jian guang pu	可见光谱	47
+ke kao xing shu ju	可靠性数据	47
+ke chuan dai ying yong	可穿戴应用	46
+ke le ding	可乐定	45
+ke shi fen xi	可视分析	45
+ke en bo ge	科恩伯格	44
+ke ji yuan	科技苑	44
+ke la mei su	克拉霉素	44
+ke zhuan rang piao ju	可转让票据	44
+ke zuo duo zhong jie shi	可作多种解释	43
+ke ce shi xing she ji	可测试性设计	42
+ke shan lu	克山路	41
+ke sheng xiang	柯生乡	41
+ke cong he chu lai	客从何处来	40
+ke ji shen xing	克己慎行	37
+ke fu wu xing	可服务性	36
+ke lin mei su lin suan zhi	克林霉素磷酸酯	36
+ke te ling jiao nang	咳特灵胶囊	35
+ke diao du xing	可调度性	34
+ke fa lu	科发路	34
+ke fu yong gou jian	可复用构件	34
+ke hu di zhi	客户地址	33
+ke ji lun wen xie zuo	科技论文写作	33
+ke ji san lu	科技三路	33
+ke ji wu lu	科技五路	33
+ke cheng zhi xi	可乘之隙	31
+ke jun xiong	柯俊雄	31
+ke hua ru wei	刻画入微	30
+ke wen	克文	29
+ke xiao bu zi liang	可笑不自量	29
+ke dai yin zhong du	可待因中毒	28
+ke hu zhen	克虎镇	28
+ke ling xiang	克令乡	28
+ke fen zhi zhai	可分之债	27
+ke yi zhuo wu ying	可以濯吾缨	27
+ke xin	克新	26
+ke dong lu	克东路	25
+ke fen yu	科芬鱼	25
+ke kao xing ping jia	可靠性评价	25
+ke ke ji	可可基	25
+ke kuo suo xing	可扩缩性	25
+ke kuo zhan yu yan	可扩展语言	25
+ke lian ye ban xu qian xi	可怜夜半虚前席	25
+ke mao da sha	科贸大厦	25
+ke ci hai	柯赐海	24
+ke lin	柯麟	24
+ke lu you xie yi	可路由协议	24
+ke tang	可塘	24
+ke zi lei su zhou	克孜勒苏州	24
+ke ji fu li wei ren	克己复礼为仁	23
+ke ji suan han shu	可计算函数	23
+ke she qing qing liu se xin	客舍青青柳色新	23
+ke bi qing	咳必清	22
+ke er bei	科尔贝	22
+ke er gu ti xiang	克尔古提乡	22
+ke long ji du quan	克隆缉毒犬	22
+ke lu ma nu ren	克鲁马努人	22
+ke si wu de	科斯伍德	21
+ke yi zhuo wo zu	可以濯我足	21
+ke yi zhuo wu zu	可以濯吾足	21
+ke cheng qu zheng fu	柯城区政府	20
+ke guan cha xing	可观察性	20
+ke ji chao liu	科技潮流	20
+ke kao xing mo xing	可靠性模型	20
+ke xin ji suan ji	可信计算基	20
+ke xue shu ju ku	科学数据库	20
+ke chuan ning	咳喘宁	19
+ke lun te luo	克仑特罗	19
+ke shi zhui chong	克氏锥虫	19
+ke shi zhen	克氏针	18
+ke an zhuang xing	可安装性	17
+ke di ya ke xiong	科迪亚克熊	17
+ke ke tie re ke xiang	科克铁热克乡	17
+ke la wei suan jia	克拉维酸钾	17
+ke shi yu yan	可视语言	17
+ke yi zhuo wo ying	可以濯我缨	17
+ke di ya ke zong xiong	科迪亚克棕熊	16
+ke er ke zi yang	柯尔克孜羊	16
+ke hu	可湖	16
+ke ji xin cun	科技新村	16
+ke sou bing	咳嗽病	16
+ke xuan gong zuo liu	可选工作流	16
+ke yan feng jing qu	柯岩风景区	16
+ke yi	柯怡	16
+ke zhong zhe gai gua	克终者盖寡	16
+ke zi lei tao xiang	克孜勒陶乡	16
+ke nei lu	科内鲁	15
+ke da tu	可达图	14
+ke su ya	科素亚	14
+ke xi shou xian	可吸收线	14
+ke ke quan	科克犬	13
+ke ke ya xiang	科克亚乡	13
+ke la mu ni ke	克拉姆尼克	13
+ke li ceng	颗粒层	13
+ke li ya	科里亚	13
+ke zhuan rang dan zheng	可转让单证	13
+ke cha xun lei xing	可查询类型	12
+ke chuan dai ji suan ji	可穿戴计算机	12
+ke le ding kong shi tie	可乐定控释贴	12
+ke lin tong jiao nang	克淋通胶囊	12
+ke shi hua guan li qi	可视化管理器	12
+ke yi wei shi yi	可以为师矣	12
+ke yuan hua yuan	科苑花园	12
+ke er qin xi mao yang	科尔沁细毛羊	11
+ke kao xing zeng zhang	可靠性增长	11
+ke li si tuo ba er	克里斯托巴尔	11
+ke lin bi bao	克林闭包	11
+ke mei zuo	克霉唑	11
+ke nie fu	科涅夫	11
+ke pa	科帕	11
+ke yu tang jiang	可愈糖浆	11
+ke cong yuan fang lai	客从远方来	10
+ke feng qiao nan	科丰桥南	10
+ke ji shang mao xue yuan	科技商贸学院	10
+ke le lu	可乐路	10
+ke lian wu ding he bian gu	可怜无定河边骨	10
+ke luo dong	柯洛洞	10
+ke qiao zhen	柯桥镇	10
+ke te ling	咳特灵	10
+ke bo ke yu zi xiang	克伯克于孜乡	9
+ke la mei su jiao nang	克拉霉素胶囊	9
+ke li yang xiang	克里阳乡	9
+ke lun yao ye	科伦药业	9
+ke mu cun	可慕村	9
+ke ping	柯平	9
+ke si jian niu ke	科斯坚纽克	9
+ke xi shou feng xian	可吸收缝线	9
+ke ai shen hong ai qian hong	可爱深红爱浅红	8
+ke bo zhong xin	科博中心	8
+ke cai xiang	科才乡	8
+ke da ji dian	科达机电	8
+ke gu zhi ai	刻骨挚爱	8
+ke ji lu xiao qu	科技路小区	8
+ke mei zuo ruan gao	克霉唑软膏	8
+ke xin qu jian	可信区间	8
+ke bian jian jie	可变剪接	7
+ke chuan ning jiao nang	咳喘宁胶囊	7
+ke de ran jiao	可得然胶	7
+ke ding	壳顶	7
+ke ji jing ji guan li xue yuan	科技经济管理学院	7
+ke ji yuan nan	科技园南	7
+ke jie hua qiao nong chang	柯街华侨农场	7
+ke ke ke se	可可壳色	7
+ke la ming	可拉明	7
+ke li xi bao liu	颗粒细胞瘤	7
+ke lian bai fa sheng	可怜白发生	7
+ke ni xi si ai ge	柯尼希斯埃格	7
+ke rong xing zhi xue sha bu	可溶性止血纱布	7
+ke xin ji dian	科新机电	7
+ke yi rou	柯以柔	7
+ke ke min	克咳敏	6
+ke la	柯拉	6
+ke lian shen shang yi zheng dan	可怜身上衣正单	6
+ke long fan zhi	克隆繁殖	6
+ke shan	科山	6
+ke shao min	柯劭忞	6
+ke yi diao su qin	可以调素琴	6
+ke yi ji bai li zhi ming	可以寄百里之命	6
+ke er kai ge er	克尔凯戈尔	5
+ke ke mai ru jing	可可麦乳精	5
+ke ke tao ren	可可桃仁	5
+ke la ling dun zhao ling	克拉灵顿诏令	5
+ke lian wu shu shan	可怜无数山	5
+ke mu	可慕	5
+ke qiao zhong xue	柯桥中学	5
+ke te ling pian	咳特灵片	5
+ke xin kang pian	咳欣康片	5
+ke yi tuo liu chi zhi gu	可以托六尺之孤	5
+ke zhuan rang xu ke zheng	可转让许可证	5
+ke chuan shu pian	咳喘舒片	4
+ke er ke zi zu kao quan yang	柯尔克孜族烤全羊	4
+ke ji liu lu zhong duan	科技六路中段	4
+ke la ke xian xiang	克拉克现象	4
+ke lai si lei zhi hui guan	克莱斯勒指挥官	4
+ke lan xian	苛岚县	4
+ke lao si shi wa bu	克劳斯施瓦布	4
+ke le bi tuo	可乐必妥	4
+ke lian jiu yue chu san ye	可怜九月初三夜	4
+ke lin xiang	克林乡	4
+ke lou	客楼	4
+ke mei zuo ru gao	克霉唑乳膏	4
+ke sa qi bing du gan ran	柯萨奇病毒感染	4
+ke tie	柯铁	4
+ke wei ren zhi fang ye yi	可谓仁之方也已	4
+ke yin wan	克银丸	4
+ke yun	可韵	4
+ke zhai ju bu yi chi	可摘局部义齿	4
+ke zi lei su xiang	克孜勒苏乡	4
+ke ai feng yu shang zheng	溘埃风余上征	3
+ke bu yin dao quan	渴不饮盗泉	3
+ke guo xiang	克果乡	3
+ke he xiang	柯河乡	3
+ke ji er lu zhong duan	科技二路中段	3
+ke ji si lu dong duan	科技四路东段	3
+ke jia cha guo	客家茶果	3
+ke jia zhai	柯家寨	3
+ke la mei su gan hun xuan ji	克拉霉素干混悬剂	3
+ke la wei suan	克拉维酸	3
+ke lian jin xi yue	可怜今夕月	3
+ke lu ke zhen	柯鲁柯镇	3
+ke luo lian ke	柯罗连科	3
+ke ning jiao nang	咳宁胶囊	3
+ke qi shi	柯奇士	3
+ke tu	髁突	3
+ke wang cun	科旺村	3
+ke xin xi liu shui	客心洗流水	3
+ke yang shu xi ye	克痒舒洗液	3
+ke yi dan su qin	可以弹素琴	3
+ke yi fu xin shi	可以赋新诗	3
+ke yong zi chan	可用资产	3
+ke zhang xiang	克长乡	3
+ke ai zhe shen fan	可爱者甚蕃	2
+ke bian qu	可变区	2
+ke cheng xing shu	颏成形术	2
+ke chuan ning kou fu ye	咳喘宁口服液	2
+ke chuan ting gao	咳喘停膏	2
+ke chuang er jie	科创二街	2
+ke chun she qu	科春社区	2
+ke cuo cun	柯厝村	2
+ke guan biao zhi yuan ze	客观标志原则	2
+ke hua lu er huan lu kou	科华路二环路口	2
+ke la xiang	柯拉乡	2
+ke li sha jiao nang	克痢痧胶囊	2
+ke li xiao lie quan	克里小猎犬	2
+ke lian hou zhu hai ci miao	可怜后主还祠庙	2
+ke lian wu bu fei jing shen	可怜无补费精神	2
+ke luo dong xiang	柯洛洞乡	2
+ke luo si he da xing xing	克罗斯河大猩猩	2
+ke qi li ke nong chang	克其力克农场	2
+ke ren cun	科任村	2
+ke shan cun	科山村	2
+ke shi shi wu rou	可使食无肉	2
+ke shu tang jiang	咳舒糖浆	2
+ke wei hao xue ye yi	可谓好学也已	2
+ke xi shou feng he xian	可吸收缝合线	2
+ke xi yi xi feng yue	可惜一溪风月	2
+ke xue lu jie dao	科学路街道	2
+ke yi he zhen	克一河镇	2
+ke yi jian xing ti	可以见兴替	2
+ke yi wei tian di mu	可以为天地母	2
+ke zai sheng neng yuan	可再生能源	2
+ke zi guang yin shi juan li	客子光阴诗卷里	2
+ke bi gu tai jiao nang	克痹骨泰胶囊	1
+ke bing liu yin yao	客病留因药	1
+ke bu yin dao quan shui	渴不饮盗泉水	1
+ke chi jiao mu	壳齿鲛目	1
+ke cong chang an lai	客从长安来	1
+ke de er wen ye	可得而闻也	1
+ke e da bian luo fan lai	轲峨大艑落帆来	1
+ke fu xing shan	可复性疝	1
+ke gan li yan ke li	克感利咽颗粒	1
+ke hua nan lu bei	科华南路北	1
+ke hua qiao	柯华桥	1
+ke hua zhong lu nan	科华中路南	1
+ke huai yi jiu bu neng ping	客怀依旧不能平	1
+ke hui qiao dong	科荟桥东	1
+ke ji da xue guan zhuang xiao qu	科技大学管庄校区	1
+ke ji liu lu xi duan	科技六路西段	1
+ke ke jiao nang	克咳胶囊	1
+ke ke li xiang	柯柯里乡	1
+ke ke zhen zhu yu	颗颗真珠雨	1
+ke la lun deng fa dian	克拉伦登法典	1
+ke la mei su ke li	克拉霉素颗粒	1
+ke la mei su pian	克拉霉素片	1
+ke la pu luo te	克拉普罗特	1
+ke lai cha ba kong wu you	客来茶罢空无有	1
+ke lai wei zeng bei chuang feng	客来唯赠北窗风	1
+ke le ning jiao nang	渴乐宁胶囊	1
+ke le tu dou bing	可乐土豆饼	1
+ke li di gao xin pian	可力地高辛片	1
+ke li mai xian	可利迈仙	1
+ke li si tuo fu ge lun bu	克里斯托弗哥伦布	1
+ke lian fei yan yi xin zhuang	可怜飞燕倚新妆	1
+ke lian qing zhong yi wu mei	可怜青冢已芜没	1
+ke lian yi jin yao huang hua	可怜亦进姚黄花	1
+ke liu zhuan piao ju	可流转票据	1
+ke long bian yi	克隆变异	1
+ke long qun dao ying	科隆群岛鹰	1
+ke lu kou fu ye	咳露口服液	1
+ke lu qing shan wai	客路青山外	1
+ke luo mu fei lan de quan	克罗姆费兰德犬	1
+ke ma xiang	克玛乡	1
+ke mei zuo pian	克霉唑片	1
+ke mei zuo shuan	克霉唑栓	1
+ke mei zuo xuan yao shui	克霉唑癣药水	1
+ke mei zuo yin dao pian	克霉唑阴道片	1
+ke mu dang yan qin	刻木当严亲	1
+ke mu wei tou si zuo wei	刻木为头丝作尾	1
+ke ning tang jiang	咳宁糖浆	1
+ke nuo wei de	科诺威德	1
+ke qin	柯琴	1
+ke qu zhen	柯曲镇	1
+ke shan gong yuan	科山公园	1
+ke shang tong cha ji	克伤痛搽剂	1
+ke she ji	颏舌肌	1
+ke shi zhi qi fu ye	可使治其赋也	1
+ke tan qing tang jiang	咳痰清糖浆	1
+ke wei jian zhi yi	可谓兼之矣	1
+ke xi feng liu zong xian que	可惜风流总闲却	1
+ke xin he shi zhuan qi ran	客心何事转凄然	1
+ke xing bei gu xiang	客行悲故乡	1
+ke xu she qu	科煦社区	1
+ke xue yuan xiao qu	科学院小区	1
+ke yan bei lu	科研北路	1
+ke ye duo meng long	柯叶多蒙笼	1
+ke yi guan yu tian yi	可以观于天矣	1
+ke yi heng jue e mei dian	可以横绝峨眉巅	1
+ke yi jian jia ke	可以荐嘉客	1
+ke yi wu da guo yi	可以无大过矣	1
+ke yi wu hui yi	可以无悔矣	1
+ke yi wu ji yi	可以无饥矣	1
+ke yi yan lun zhe	可以言论者	1
+ke yi yi da feng	可以已大风	1
+ke yi yi zhi zhe	可以意致者	1
+ke yi yu shang ye	可以语上也	1
+ke yi zu qian nian	可以卒千年	1
+ke yin yue ku bing	渴饮月窟冰	1
+ke you gui yang zhi	客有桂阳至	1
+ke yu shi jun ye yu zai	可与事君也与哉	1
+ke zhe yi wei yin	渴者易为饮	1
+ke a wei la jiao long	科阿韦拉角龙	0
+ke bian hua shou xian chong	可变华首线虫	0
+ke ci hai nian	科茨海鲶	0
+ke ci ma li an yin	科茨玛利安蚓	0
+ke da bu quan	科达布犬	0
+ke da hai nian	科达海鲶	0
+ke da yi mu	科达伊目	0
+ke dao ba weng	科岛霸鹟	0
+ke dao hu fu	科岛狐蝠	0
+ke dao lie que	可岛鴷雀	0
+ke dao que	可岛雀	0
+ke dao zhen wei que	科岛针尾雀	0
+ke dao zhou chun feng huang luo	克岛皱唇凤凰螺	0
+ke di wen ba weng	科迪纹霸鹟	0
+ke di ya ke dao zong xiong	科迪亚克岛棕熊	0
+ke duo fu xia kou nian	科多夫下口鲶	0
+ke en fan lu yi	柯恩凡路易	0
+ke en shi wen xiong zhao	科恩氏纹胸鮡	0
+ke en xiao he xue	科恩小褐鳕	0
+ke er ka na zao niao	科尔卡纳灶鸟	0
+ke er suo quan	科尔索犬	0
+ke er zhi ke gui	科尔芝克鱥	0
+ke fan lu yi	柯凡路易	0
+ke fei fei ji	科菲非鲫	0
+ke fu xiao feng ke	刻腹小蜂科	0
+ke huan jia die	珂环蛱蝶	0
+ke ke sen niu ling	科克森牛羚	0
+ke ke she xia hu yu	科克舌鰕虎鱼	0
+ke ke si dao piao xia hu yu	科科斯岛瓢鰕虎鱼	0
+ke ke si qun dao bin shan hu	科科斯群岛滨珊瑚	0
+ke ke si qun dao que shu	科科斯群岛雀属	0
+ke la ke meng jiao an kang	克拉克梦角鮟鱇	0
+ke lai ci de er ma	克莱茨德尔马	0
+ke lai men hai si luo	克莱门海蛳螺	0
+ke lai te e luo	克莱特峨螺	0
+ke lao di ou xi	克劳迪欧蜥	0
+ke lei mo yu luo	克雷默芋螺	0
+ke lei shi qiu tuo	科勒氏鳅鮀	0
+ke leng bo huang	克冷勃獚	0
+ke li ao er yu luo	克里奥尔芋螺	0
+ke li fang quan wei xie	颗粒仿权位蟹	0
+ke li ni guan gong xie	颗粒拟关公蟹	0
+ke li qiang ye xi	克里强叶螅	0
+ke li si qiang ye xi	克莉丝强叶螅	0
+ke li ying tou pa	顆粒硬頭帕	0
+ke lu gu qian shou luo	柯露骨千手螺	0
+ke lu shi shi	克鲁氏鳾	0
+ke luo la duo zhao chao xie	科罗拉多招潮蟹	0
+ke ma qi jin yuan zhu	科马奇金圆蛛	0
+ke men de er quan	科门德耳犬	0
+ke mo de xiong	柯莫德熊	0
+ke mo he yan tou zhang he yu	科莫河岩头长颌鱼	0
+ke mo luo dong	科摩罗鸫	0
+ke mo luo jiao xiao	科摩罗角鸮	0
+ke mo luo juan wei	科摩罗卷尾	0
+ke mo luo lin ge	科摩罗林鸽	0
+ke mo luo mao sha	科摩罗猫鲨	0
+ke mo qi xu wei	科莫歧须鮠	0
+ke mo xiao gui zhi li	科莫小鲑脂鲤	0
+ke pa duo mao cang ying	可怕多毛苍蝇	0
+ke qia ge wu	科恰歌鹀	0
+ke shi bing bei lu	柯氏柄杯鹿	0
+ke shi ce si shui mu	柯氏侧丝水母	0
+ke shi chang bi yuan	克氏长臂猿	0
+ke shi fang chui shui zao shu	克氏纺锤水蚤属	0
+ke shi fen bei jue	克氏粉背蕨	0
+ke shi mi er shi	克什米尔鳾	0
+ke shi mi er ying pi	克什米尔硬蜱	0
+ke shi quan ling	柯氏犬羚	0
+ke shi xiao dai xia hu yu	克氏小带鰕虎鱼	0
+ke shi yuan e mang chun	克氏圆额盲蝽	0
+ke shi yuan wen xing zhen	克氏圆吻星鱵	0
+ke si lei bao luo	科斯勒宝螺	0
+ke si mo duo jiao long	科斯莫多角龙	0
+ke su mei er huan xiong	科苏梅尔浣熊	0
+ke wen chuan luan sao	壳纹船卵溞	0
+ke xi jia dao ye tu	科西嘉岛野兔	0
+ke xi jia feng die	科西嘉凤蝶	0
+ke xi lu shen	科希鲁鲹	0
+ke zhou hua jian feng	刻皱滑茧蜂	0

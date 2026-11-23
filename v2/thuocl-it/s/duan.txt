@@ -1,0 +1,23 @@
+duan dian xu chuan	断点续传	457
+duan cuo wu	段错误	418
+duan kou ying she	端口映射	405
+duan dian diao shi	断点调试	398
+duan di zhi	段地址	387
+duan kou zhuan fa	端口转发	341
+duan kou chong tu	端口冲突	316
+duan dian xia zai	断点下载	295
+duan xi tong	端系统	292
+duan kou sao miao	端口扫描	291
+duan xin yan zheng ma	短信验证码	278
+duan xin jie kou	短信接口	214
+duan xin lan jie	短信拦截	213
+duan suo	段锁	196
+duan fu gai	段覆盖	190
+duan kai ke hu	断开客户	160
+duan xin ke hu duan	短信客户端	131
+duan jie dian zu	端接电阻	120
+duan ti jiao xie yi	段提交协议	116
+duan qi diao du	短期调度	113
+duan lu gu zhang	短路故障	107
+duan yu jie gou yu fa	短语结构语法	94
+duan dui duan chuan song	端对端传送	93

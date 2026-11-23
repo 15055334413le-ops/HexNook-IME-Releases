@@ -1,0 +1,184 @@
+zui gao ren min fa yuan	最高人民法院	118061
+zui zhong jie shi quan	最终解释权	78924
+zui xiao hua	最小化	20357
+zui xiao zhi	最小值	17022
+zui you jie	最优解	12784
+zui jia shi jian	最佳实践	12026
+zui duan lu jing	最短路径	11767
+zui duan lu	最短路	11189
+zui xiao sheng cheng shu	最小生成树	8842
+zui you hua	最优化	8379
+zui da lian jie shu	最大连接数	7859
+zui gao dian	最高点	6937
+zui zhong yong hu	最终用户	6670
+zui da gong yue shu	最大公约数	6526
+zui duan ju li	最短距离	6229
+zui da liu	最大流	5979
+zui jin shi yong	最近使用	4908
+zui xiao li di jian xi	最小离地间隙	4239
+zui gao you xian ji	最高优先级	3843
+zui xiao gong bei shu	最小公倍数	3772
+zui xiao kuan du	最小宽度	3655
+zui xiao dui	最小堆	3654
+zui da pi pei	最大匹配	3504
+zui xiao er cheng fa	最小二乘法	2712
+zui xiao ge	最小割	2509
+zui xiao er cheng	最小二乘	2120
+zui da shen du	最大深度	1950
+zui xie	醉蟹	1817
+zui gao jia	最高价	1673
+zui zhang gong gong zi chuan	最长公共子串	1672
+zui ji	醉鸡	1559
+zui jin gong gong zu xian	最近公共祖先	1555
+zui da pi pei shu	最大匹配数	1439
+zui jia lu jing	最佳路径	1411
+zui xiao lu jing fu gai	最小路径覆盖	1392
+zui zhang lu	最长路	1349
+zui da du li ji	最大独立集	1267
+zui duan lu jing suan fa	最短路径算法	1262
+zui zhang gong gong qian zhui	最长公共前缀	1152
+zui zhang hui wen zi chuan	最长回文子串	1148
+zui zhang zi xu lie	最长子序列	1143
+zui you ying de	罪有应得	1099
+zui you lu jing	最优路径	1021
+zui weng zhi yi bu zai jiu	醉翁之意不在酒	907
+zui da shang	最大熵	892
+zui zhang zi chuan	最长子串	881
+zui gao ren min fa yuan gong bao	最高人民法院公报	817
+zui da e ji	罪大恶极	815
+zui xin xiao xi	最新消息	809
+zui xiao dian fu gai	最小点覆盖	788
+zui xiao lu jing	最小路径	779
+zui da zi xu lie	最大子序列	757
+zui xiao shu xing tu	最小树形图	719
+zui xiao fei yong liu	最小费用流	714
+zui da tuan	最大团	681
+zui zhang hui wen chuan	最长回文串	642
+zui xiao huan	最小环	615
+zui da zui xiao zhi	最大最小值	609
+zui da sheng cheng shu	最大生成树	607
+zui da zi duan he	最大子段和	607
+zui duan lu suan fa	最短路算法	595
+zui you pi pei	最优匹配	568
+zui xiao ge mo xing	最小割模型	562
+zui xiao biao shi fa	最小表示法	543
+zui da pa po du	最大爬坡度	533
+zui da zi xu lie he	最大子序列和	528
+zui you er cha shu	最优二叉树	523
+zui da zi shu zu	最大子数组	517
+zui you xing	最优性	514
+zui zhang lian	最长链	498
+zui da cheng ji	最大乘积	473
+zui xing xiang shi ying yuan ze	罪刑相适应原则	470
+zui da shang mo xing	最大熵模型	465
+zui zhang hui wen	最长回文	460
+zui da zi ju zhen	最大子矩阵	449
+zui jia yi deng	罪加一等	420
+zui you hua suan fa	最优化算法	419
+zui you suan fa	最优算法	403
+zui you hua fang fa	最优化方法	402
+zui jin dian dui	最近点对	399
+zui nie shen zhong	罪孽深重	382
+zui da gong yin shu	最大公因数	380
+zui da shi ran gu ji	最大似然估计	377
+zui xiao yuan fu gai	最小圆覆盖	371
+zui da shi ran	最大似然	361
+zui sheng meng si	醉生梦死	355
+zui su xia jiang fa	最速下降法	317
+zui you gui bing shu	最优归并树	315
+zui xiao ding dian fu gai	最小顶点覆盖	303
+zui xiao fan wei	最小范围	301
+zui zhang chong fu zi chuan	最长重复子串	299
+zui da xiao neng	最大效能	292
+zui da zi shu zu he	最大子数组和	280
+zui xin zi xun	最新资讯	278
+zui da liu zui xiao ge	最大流最小割	273
+zui da quan bi he tu	最大权闭合图	265
+zui zhong kong gu gong si	最终控股公司	262
+zui shao lan jie xi tong	最少拦截系统	229
+zui da zi duan he	最大字段和	226
+zui xiao zhuan wan zhi jing	最小转弯直径	218
+zui xiao quan pi pei	最小权匹配	213
+zui xiao bian ji ju li	最小编辑距离	198
+zui di zhi	最低值	191
+zui ze nan tao	罪责难逃	182
+zui zhang su song shi xiao	最长诉讼时效	173
+zui da zi ju zhen he	最大子矩阵和	169
+zui da er fen pi pei	最大二分匹配	163
+zui da zi lie he	最大子列和	155
+zui yi shi hang zhou	最忆是杭州	144
+zui zhang hui wen zi chuan	最长回文字串	141
+zui you gu ji	最优估计	132
+zui hou zhen duan	最后诊断	130
+zui jia you xian sou suo	最佳优先搜索	120
+zui pai gu	醉排骨	108
+zui xiao zhi pei ji	最小支配集	98
+zui da zi ju xing	最大子矩形	83
+zui e tao tian	罪恶滔天	83
+zui xiao te quan yuan ze	最小特权原则	77
+zui you kong zhi	最优控制	71
+zui you bian ma	最优编码	70
+zui zhang fan lian	最长反链	65
+zui gai wan si	罪该万死	64
+zui e shen zhong	罪恶深重	58
+zui jia shi pei	最佳适配	56
+zui ai	醉爱	53
+zui xiao te quan	最小特权	53
+zui zi	嘴子	51
+zui ze zi fu yuan ze	罪责自负原则	49
+zui you ju zhen lian cheng	最优矩阵链乘	47
+zui huai qing kuang fen xi	最坏情况分析	46
+zui da pa po jiao	最大爬坡角	42
+zui shi yi nian chun hao chu	最是一年春好处	41
+zui bang rou	醉蚌肉	38
+zui jia shi pei fa	最佳适配法	37
+zui kui huo shou	罪魁祸首	37
+zui xiao ge shu	最小割树	36
+zui da zhi zui xiao hua	最大值最小化	34
+zui shi cheng huang ju lv shi	最是橙黄橘绿时	29
+zui zhi wen ti	最值问题	28
+zui wo sha chang jun mo xiao	醉卧沙场君莫笑	26
+zui jian pi hou fu zhong kong	嘴尖皮厚腹中空	25
+zui huo xia	醉活虾	20
+zui li tiao deng kan jian	醉里挑灯看剑	20
+zui ji chi	醉鸡翅	16
+zui xiao zhi si liang	最小致死量	15
+zui zhong chan pin fa	最终产品法	14
+zui chu tan pan quan	最初谈判权	13
+zui da hua ping jun zhi	最大化平均值	12
+zui gao you xian shu	最高优先数	12
+zui xi xiao er wu lai	最喜小儿无赖	11
+zui ai hu dong xing bu zu	最爱湖东行不足	7
+zui li wu yin xiang mei hao	醉里吴音相媚好	6
+zui shi cang huang ci miao ri	最是仓皇辞庙日	6
+zui mian qiu gong bei	醉眠秋共被	5
+zui xiao yao wei	最小腰围	5
+zui ke xi yi pian jiang shan	最可惜一片江山	4
+zui xiao pei gong san wan chang	醉笑陪公三万场	4
+zui xie qing dun ji	醉蟹清炖鸡	4
+zui da nai shou ji liang	最大耐受剂量	3
+zui fan ying xiong hua	罪犯英雄化	3
+zui xia fu xing ji yi	最下腐刑极矣	3
+zui bu cheng huan can jiang bie	醉不成欢惨将别	2
+zui fan gai zao xin li xue	罪犯改造心理学	2
+zui hao ni wang diao	最好你忘掉	2
+zui hou ge fen san	醉后各分散	2
+zui sha dong ting qiu	醉杀洞庭秋	2
+zui xi du juan hua lan man	最惜杜鹃花烂漫	2
+zui ai lin feng di	最爱临风笛	1
+zui chuan xiu ju huan qu man	最传秀句寰区满	1
+zui cong da pi jie chu si	罪从大辟皆除死	1
+zui da wu zuo yong ji liang	最大无作用剂量	1
+zui de hai tang wu li	醉得海棠无力	1
+zui di zhuang liang jian cha fa	最低装量检查法	1
+zui e zhang	醉鹅掌	1
+zui hao jin gui huan jiu	最好金龟换酒	1
+zui he jin jia wu	醉和金甲舞	1
+zui li de zhen ru	醉里得真如	1
+zui li qie tan huan xiao	醉里且贪欢笑	1
+zui shi tu chu xiong zhong mo	醉时吐出胸中墨	1
+zui shi yi nian qiu hao chu	最是一年秋好处	1
+zui tou zhen	嘴头镇	1
+zui xiao zhi si ji liang	最小致死剂量	1
+zui yi jin jiang tou	最忆锦江头	1
+zui zhong wang wang ai tao chan	醉中往往爱逃禅	1

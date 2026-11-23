@@ -1,0 +1,71 @@
+da xiao xie min gan	大小写敏感	513
+da yin ri zhi	打印日志	425
+da xiao xie bu min gan	大小写不敏感	421
+da shu ju fen xi	大数据分析	401
+da jian huan jing	搭建环境	390
+da shu ju shi dai	大数据时代	389
+da shu ju chu li	大数据处理	387
+da bao gong ju	打包工具	386
+da xiao xie zhuan huan	大小写转换	385
+da kai cai dan	打开菜单	383
+da zheng shu	大整数	377
+da kai cheng xu	打开程序	376
+da shu ju ji shu	大数据技术	349
+da bao fa bu	打包发布	337
+da xiao duan	大小端	331
+da gen dui	大根堆	326
+da jian kai fa huan jing	搭建开发环境	321
+da kai dui hua kuang	打开对话框	317
+da duan mo shi	大端模式	312
+da wen jian shang chuan	大文件上传	306
+da shu ju ping tai	大数据平台	304
+da kai bian ji qi	打开编辑器	290
+da duan zi jie xu	大端字节序	286
+da jian fu wu qi	搭建服务器	280
+da yin lu jing	打印路径	277
+da xing wang zhan jia gou	大型网站架构	274
+da shu ju cun chu	大数据存储	263
+da shu xiang jia	大数相加	253
+da yin fu wu qi	打印服务器	253
+da xing ji suan ji	大型计算机	248
+da xiao duan mo shi	大小端模式	243
+da jian wang zhan	搭建网站	241
+da shu jia fa	大数加法	241
+da shu cheng fa	大数乘法	239
+da shu yun suan	大数运算	220
+da yin xuan xiang	打印选项	218
+da zheng shu cheng fa	大整数乘法	216
+da shu ju jia gou	大数据架构	210
+da shu ju kai fa	大数据开发	208
+da jian bo ke	搭建博客	204
+da yin tu xing	打印图形	202
+da bao jie bao	打包解包	199
+da biao fa	打表法	199
+da shu ju gong ju	大数据工具	199
+da shu mo ban	大数模板	197
+da kai zhu ye	打开主页	194
+da shu ju guan li	大数据管理	191
+da mo ni	大模拟	186
+da shu lei	大数类	183
+da shu ju kuang jia	大数据框架	178
+da shu chu li	大数处理	173
+da shu ju ke shi hua	大数据可视化	169
+da shu ju an quan	大数据安全	161
+da fei bo shu	大菲波数	159
+da zheng shu jia fa	大整数加法	159
+da rong liang cun chu qi	大容量存储器	156
+da shu xiang jian	大数相减	156
+da shu ju suan fa	大数据算法	155
+da shu qu mo	大数取模	149
+da shu ju yun ji suan	大数据云计算	147
+da yin zhi liang	打印质量	144
+da shu qiu yu	大数求余	143
+da shu ti	大数题	143
+da shu ju fang an	大数据方案	142
+da kai you jian cai dan	打开右键菜单	139
+da shu mo ni	大数模拟	123
+da ping mu xian shi qi	大屏幕显示器	122
+da shu gao jing du	大数高精度	110
+da yu sou suo	大于搜索	104
+da xing wen li	大型纹理	100
+da shu ju pei xun	大数据培训	93

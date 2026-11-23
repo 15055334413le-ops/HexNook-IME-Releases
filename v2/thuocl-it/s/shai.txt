@@ -1,0 +1,4 @@
+shai xuan fa	筛选法	279
+shai su shu	筛素数	228
+shai fa qiu su shu	筛法求素数	210
+shai xuan fa qiu su shu	筛选法求素数	165

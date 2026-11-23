@@ -1,0 +1,103 @@
+dan nang yan	胆囊炎	630
+dan nang jie shi	胆囊结石	453
+dan guan ai	胆管癌	392
+dan ke long kang ti	单克隆抗体	365
+dan zhu ye	淡竹叶	355
+dan bai zhi fen	蛋白质粉	335
+dan nang ai	胆囊癌	334
+dan guan jie shi	胆管结石	316
+dan bai zhi he cheng	蛋白质合成	304
+dan nang xi rou	胆囊息肉	281
+dan zong guan jie shi	胆总管结石	269
+dan xing xian wei	弹性纤维	265
+dan nang qie chu shu	胆囊切除术	262
+dan chun pao zhen bing du	单纯疱疹病毒	248
+dan guan yan	胆管炎	241
+dan zhi yu ji	胆汁淤积	239
+dan se ku wen	淡色库蚊	234
+dan xi bao sheng wu	单细胞生物	228
+dan chun pao zhen	单纯疱疹	205
+dan zhi xing gan ying hua	胆汁性肝硬化	205
+dan can pian	丹参片	202
+dan dao gan ran	胆道感染	185
+dan ji yin bing	单基因病	183
+dan ying zhi suan gan you zhi	单硬脂酸甘油酯	178
+dan an yang hua mei	单胺氧化酶	169
+dan bai mei yi zhi ji	蛋白酶抑制剂	169
+dan yuan xing yi xian yan	胆源性胰腺炎	169
+dan can zhu she ye	丹参注射液	167
+dan dao geng zu	胆道梗阻	165
+dan zhi fan liu xing wei yan	胆汁反流性胃炎	165
+dan ning suan	丹宁酸	163
+dan gu chun jie shi	胆固醇结石	158
+dan can tong	丹参酮	153
+dan xi xin fa	丹溪心法	145
+dan hong zhu she ye	丹红注射液	142
+dan bai shui jie mei	蛋白水解酶	135
+dan xin fang	单心房	135
+dan he xi bao bai xue bing	单核细胞白血病	125
+dan nang zhong da	胆囊肿大	125
+dan bai zhi ying yang bu liang	蛋白质营养不良	121
+dan xiao suan yi shan li zhi	单硝酸异山梨酯	121
+dan guan xia zhai	胆管狭窄	117
+dan chun xing jia zhuang xian zhong	单纯性甲状腺肿	113
+dan dao hui chong bing	胆道蛔虫病	113
+dan nang shou suo su	胆囊收缩素	113
+dan xing zu zhi	弹性组织	113
+dan zhi xiao yao wan	丹栀逍遥丸	113
+dan shu ruan jiao nang	胆舒软胶囊	108
+dan jian neng shen jing	胆碱能神经	103
+dan zong guan kuo zhang	胆总管扩张	103
+dan dao chu xue	胆道出血	98
+dan mian xing	单面性	98
+dan ti xing	单体性	98
+dan zhi xiao yao san	丹栀逍遥散	98
+dan guan nang zhong	胆管囊肿	91
+dan he xi bao zeng duo zheng	单核细胞增多症	91
+dan ni	胆泥	91
+dan pi fen	丹皮酚	91
+dan ai	胆癌	84
+dan can di zhu ye	丹参滴注液	84
+dan can jiao nang	丹参胶囊	84
+dan lin suan a tang xian gan	单磷酸阿糖腺苷	84
+dan xiao suan yi shan li zhi pian	单硝酸异山梨酯片	84
+dan can chuan xiong qin zhu she ye	丹参川芎嗪注射液	76
+dan lan tong luo kou fu ye	丹蓝通络口服液	76
+dan tai yang	单态氧	76
+dan xin zong he zheng	胆心综合征	76
+dan yu xue	胆俞穴	76
+dan zhi xing fu mo yan	胆汁性腹膜炎	76
+dan can bao xin cha	丹参保心茶	66
+dan can shu xin jiao nang	丹参舒心胶囊	66
+dan ceng zhu zhuang shang pi	单层柱状上皮	66
+dan chun xing shen nang zhong	单纯性肾囊肿	66
+dan ge jing shu jiao nang	丹葛颈舒胶囊	66
+dan he tun shi xi bao	单核吞噬细胞	66
+dan jian neng xing xun ma zhen	胆碱能性荨麻疹	66
+dan nang zao lou shu	胆囊造瘘术	66
+dan qi ke li	丹杞颗粒	66
+dan qi pian	丹七片	66
+dan shi qing pian	胆石清片	66
+dan xing ruan gu	弹性软骨	66
+dan yin su fang cha fen xi	单因素方差分析	66
+dan zhi xiao yao jiao nang	丹栀逍遥胶囊	66
+dan can shu xin	丹参舒心	51
+dan can tong jiao nang	丹参酮胶囊	51
+dan cha jian	胆茶碱	51
+dan chun xing jing shen fen lie zheng	单纯型精神分裂症	51
+dan chun xing ya zhou yan	单纯性牙周炎	51
+dan chun xing yang zhen	单纯性痒疹	51
+dan dao xi shu	弹道系数	51
+dan gui xiang ke li	丹桂香颗粒	51
+dan hong hua yu kou fu ye	丹红化瘀口服液	51
+dan kang jiao nang	胆康胶囊	51
+dan lu tong du pian	丹鹿通督片	51
+dan mu jin gao jiao nang	胆木浸膏胶囊	51
+dan mu jin gao pian	胆木浸膏片	51
+dan mu zhu she ye	胆木注射液	51
+dan nang dan gu chun chen zhe zheng	胆囊胆固醇沉着症	51
+dan qi ruan jiao nang	丹七软胶囊	51
+dan shu jiao nang	胆舒胶囊	51
+dan xiang guan xin zhu she ye	丹香冠心注射液	51
+dan xing dan bai mei	弹性蛋白酶	51
+dan za bao gan	氮杂胞苷	51

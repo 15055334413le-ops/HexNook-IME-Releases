@@ -1,0 +1,49 @@
+gao liang xian shi	高亮显示	523
+gao ke yong xing	高可用性	510
+gao you xian ji	高优先级	505
+gao ji te xing	高级特性	416
+gao ji xuan xiang	高级选项	364
+gao jie han shu	高阶函数	343
+gao si xiao yuan	高斯消元	340
+gao xing neng ji suan	高性能计算	333
+gao ji cha xun	高级查询	323
+gao xiao suan fa	高效算法	301
+gao ji cheng xu she ji	高级程序设计	288
+gao jing du ji suan	高精度计算	285
+gao du zi shi ying	高度自适应	284
+gao fang wei xin	高仿微信	276
+gao si xiao yuan fa	高斯消元法	274
+gao xing neng fu wu qi	高性能服务器	271
+gao ji ji qiao	高级技巧	270
+gao si hun he mo xing	高斯混合模型	267
+gao xiao kai fa	高效开发	262
+gao si jin zi ta	高斯金字塔	246
+gao xiao bian cheng	高效编程	246
+gao ke yong jia gou	高可用架构	245
+gao jing du jia fa	高精度加法	244
+gao jing du cheng fa	高精度乘法	234
+gao ji suan fa	高级算法	228
+gao xing neng ji suan ji	高性能计算机	227
+gao kuan bi	高宽比	225
+gao zhi liang dai ma	高质量代码	218
+gao jing du suan fa	高精度算法	211
+gao xing neng wang zhan	高性能网站	210
+gao xiao cha zhao fa	高效查找法	207
+gao su zong xian	高速总线	202
+gao ji kong jian	高级控件	200
+gao shou fei dian hua	高收费电话	197
+gao jing du yun suan	高精度运算	195
+gao xing neng gao bing fa	高性能高并发	188
+gao you xian ji zhong duan	高优先级中断	177
+gao qing xi du dian shi	高清晰度电视	169
+gao du ping heng shu	高度平衡树	160
+gao guang qu yu	高光区域	137
+gao jing du wen ti	高精度问题	136
+gao wei suo yin	高维索引	128
+gao fang ping guo	高仿苹果	120
+gao ceng diao du	高层调度	118
+gao su huan cun kuai	高速缓存块	109
+gao ji an zhuo	高级安卓	105
+gao xiao suan fa she ji	高效算法设计	104
+gao ji kai fa ji qiao	高级开发技巧	96
+gao su huan cun que shi	高速缓存缺失	93

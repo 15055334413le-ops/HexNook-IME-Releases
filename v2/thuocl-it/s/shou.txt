@@ -1,0 +1,49 @@
+shou hu jin cheng	守护进程	605
+shou xuan xiang	首选项	452
+shou hu xian cheng	守护线程	421
+shou ji liu lan qi	手机浏览器	365
+shou ji kai fa	手机开发	345
+shou hu cheng xu	守护程序	340
+shou xie dai ma	手写代码	314
+shou ji cao zuo xi tong	手机操作系统	313
+shou shi hua dong	手势滑动	290
+shou xie shu zi	手写数字	285
+shou quan biao	授权表	282
+shou xi jia gou shi	首席架构师	281
+shou xing suo jin	首行缩进	273
+shou shi shi bie qi	手势识别器	272
+shou ji ce shi	手机测试	267
+shou ji tong xun lu	手机通讯录	265
+shou bao hu zi yuan	受保护资源	249
+shou ji wang zhan	手机网站	246
+shou xie shu zi shi bie	手写数字识别	240
+shou xie shi bie	手写识别	239
+shou ji guan jia	手机管家	238
+shou ji an quan	手机安全	232
+shou shi jian ting	手势监听	231
+shou ji ye mian	手机页面	226
+shou ji wang ye	手机网页	222
+shou ji you xi kai fa	手机游戏开发	221
+shou ji yan zheng ma	手机验证码	210
+shou ji ying yong kai fa	手机应用开发	205
+shou shi chong tu	手势冲突	202
+shou kong fang wen	受控访问	197
+shou shi jie suo	手势解锁	196
+shou shi fan hui	手势返回	192
+shou ji biao dan	收集表单	186
+shou cang lan	收藏栏	178
+shou ji an quan wei shi	手机安全卫士	178
+shou ji wang you	手机网游	170
+shou cha yi chang	受查异常	166
+shou ji bing du	手机病毒	159
+shou shi suo	手势锁	154
+shou kong dui xiang	受控对象	148
+shou ji zhi bo	手机直播	142
+shou yin ruan jian	收银软件	137
+shou gong jian ku	手工建库	125
+shou you ce shi	手游测试	125
+shou heng xing	守恒性	118
+shou dong cha sha	手动查杀	112
+shou ji gong ju	手机工具	108
+shou ji shi pin kai fa	手机视频开发	91
+shou ji ruan jian ce shi	手机软件测试	86

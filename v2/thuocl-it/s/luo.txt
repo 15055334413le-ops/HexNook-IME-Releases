@@ -1,0 +1,40 @@
+luo ji yun suan fu	逻辑运算符	514
+luo ji di zhi	逻辑地址	427
+luo ji biao da shi	逻辑表达式	382
+luo ti	裸题	370
+luo ji kong zhi	逻辑控制	349
+luo ji juan	逻辑卷	329
+luo ji she bei	逻辑设备	273
+luo ji lian lu kong zhi	逻辑链路控制	254
+luo ji hua fen	逻辑划分	248
+luo ji ce shi	逻辑测试	247
+luo ji zuo biao	逻辑坐标	246
+luo ji gong zuo dan yuan	逻辑工作单元	244
+luo ji cheng xu	裸机程序	241
+luo ji qu dong qi	逻辑驱动器	228
+luo xuan mo xing	螺旋模型	223
+luo ji zhi	逻辑值	216
+luo ji wen jian	逻辑文件	215
+luo xuan ju zhen	螺旋矩阵	214
+luo ji ji lu	逻辑记录	213
+luo ji shu ju mo xing	逻辑数据模型	200
+luo ji xi tong	逻辑系统	199
+luo ji cheng xu	逻辑程序	188
+luo ji si di hui gui	逻辑斯蒂回归	182
+luo ji que xian	逻辑缺陷	174
+luo ji kai fa	裸机开发	169
+luo ji bu jian	逻辑部件	164
+luo ban cheng xu	裸板程序	163
+luo ji bian cheng yu yan	逻辑编程语言	144
+luo ji she bei ming	逻辑设备名	142
+luo ji zong he	逻辑综合	140
+luo ji bu ju	逻辑布局	137
+luo ji yu fa	逻辑语法	135
+luo ji zha dan	逻辑炸弹	134
+luo ji fen ye	逻辑分页	126
+luo ji cheng xu she ji	逻辑程序设计	119
+luo ji she bei biao	逻辑设备表	107
+luo ji yan suan	逻辑演算	105
+luo ji huan	逻辑环	100
+luo ji mo ni	逻辑模拟	100
+luo ji ge shi hua	逻辑格式化	88

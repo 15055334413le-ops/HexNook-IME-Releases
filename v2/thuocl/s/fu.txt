@@ -1,0 +1,1786 @@
+fu wu	服务	1386428
+fu pin	扶贫	239281
+fu dong	浮动	126231
+fu li	福利	116074
+fu du	幅度	106332
+fu wu zhong xin	服务中心	92481
+fu lei	父类	88194
+fu wu qi duan	服务器端	76716
+fu she	辐射	75581
+fu wu duan	服务端	66774
+fu za du	复杂度	54261
+fu zhi	赋值	54155
+fu su	复苏	53233
+fu jian sheng	福建省	45996
+fu yong	复用	41074
+fu kuan	付款	34574
+fu zhu xi	副主席	33608
+fu chun	富春	31867
+fu dian shu	浮点数	31770
+fu dan da xue	复旦大学	27663
+fu jia	附加	23639
+fu zai jun heng	负载均衡	23382
+fu te jia	伏特加	22922
+fu jie dian	父节点	21841
+fu he	负荷	19325
+fu he	复核	18216
+fu zhai	负债	17374
+fu tian	福田	17227
+fu dian	浮点	17176
+fu xie	腹泻	15751
+fu nv quan yi	妇女权益	14955
+fu xuan kuang	复选框	14824
+fu li yuan	福利院	13812
+fu cai	福彩	13694
+fu jin cheng	父进程	13346
+fu dian xing	浮点型	13137
+fu fa	复发	12343
+fu zhou shi	福州市	12045
+fu hua qi	孵化器	11622
+fu zhu ren yi shi	副主任医师	11282
+fu luo li da zhou	佛罗里达州	10913
+fu chan ke	妇产科	9903
+fu bu si	福布斯	9794
+fu xie	覆写	9678
+fu te	福特	9586
+fu zhi wen jian	复制文件	9182
+fu ke	妇科	9126
+fu wu cheng xu	服务程序	9041
+fu qi fen ju	夫妻分居	9039
+fu pin ban	扶贫办	8860
+fu tong	腹痛	8288
+fu zhong	附中	8237
+fu nv quan yi bao zhang	妇女权益保障	8232
+fu zhi zhan tie	复制粘贴	8009
+fu la ji mi er	弗拉基米尔	7888
+fu yuan jun ren	复员军人	7780
+fu hao lian jie	符号链接	7733
+fu huo	复活	7545
+fu nv lian he hui	妇女联合会	7415
+fu shi kang	富士康	7272
+fu se	肤色	7255
+fu wu qi pei zhi	服务器配置	7252
+fu nv quan yi bao zhang fa	妇女权益保障法	7128
+fu you bao jian yuan	妇幼保健院	6677
+fu jia fei	附加费	6064
+fu chuang kou	父窗口	5778
+fu pen zi	覆盆子	5741
+fu wu jin cheng	服务进程	5741
+fu shun	抚顺	5716
+fu ling	涪陵	5613
+fu hao biao	符号表	5569
+fu tiao qiang	佛跳墙	5400
+fu jian	复建	4948
+fu ji ni ya zhou	弗吉尼亚州	4801
+fu zi miao	夫子庙	4485
+fu zhuang chang	服装厂	4281
+fu yang shi	阜阳市	4267
+fu zhen	复诊	4054
+fu lang suo wa	弗朗索瓦	3979
+fu di	福地	3951
+fu guo	富国	3944
+fu zhu ren ke yuan	副主任科员	3935
+fu zhu han shu	辅助函数	3589
+fu zhu gong ju	辅助工具	3557
+fu wu qi jiao hu	服务器交互	3533
+fu zi jin cheng	父子进程	3532
+fu wu zhi liang	服务质量	3507
+fu wu qi xing neng	服务器性能	3504
+fu wu qi ji qun	服务器集群	3499
+fu qiang	腹腔	3467
+fu you	妇幼	3410
+fu yuan ru	复原乳	3403
+fu qi fei pian	夫妻肺片	3366
+fu wu qi ying yong	服务器应用	3347
+fu zhi gou zao han shu	复制构造函数	3329
+fu chou nv shen	复仇女神	3190
+fu dian yun suan	浮点运算	3178
+fu zhai lei lei	负债累累	3178
+fu wu ti gong zhe	服务提供者	3141
+fu zhi jie	负直接	3107
+fu lan ke	弗兰克	3091
+fu wu qi ruan jian	服务器软件	3032
+fu zhang	腹胀	2904
+fu nv jiu ye	妇女就业	2821
+fu wen ben	富文本	2814
+fu di chou xin	釜底抽薪	2688
+fu gang	福冈	2685
+fu wu qi she zhi	服务器设置	2670
+fu xin	阜新	2592
+fu ge sen	弗格森	2518
+fu yan liao shi	敷衍了事	2510
+fu zhou shi	抚州市	2308
+fu zhu gong neng	辅助功能	2265
+fu wu qi huan jing	服务器环境	2117
+fu wu kuang jia	服务框架	2063
+fu wu diao yong	服务调用	2062
+fu wei	复位	2051
+fu zhai lv	负债率	2030
+fu he lei xing	复合类型	2027
+fu zhi yun suan fu	赋值运算符	2015
+fu zhi fa xing	复制发行	1999
+fu wei ji kun	扶危济困	1996
+fu zhi yi ju	付之一炬	1990
+fu xiang lian pian	浮想联翩	1929
+fu yan se ze	敷衍塞责	1904
+fu chan yi yuan	妇产医院	1851
+fu hao chang liang	符号常量	1840
+fu li ye bian huan	傅里叶变换	1828
+fu li tang huang	富丽堂皇	1824
+fu rong lu	芙蓉路	1810
+fu qiang jing	腹腔镜	1779
+fu shun shi	抚顺市	1779
+fu wu hua	服务化	1758
+fu wu lie biao	服务列表	1721
+fu xi	付息	1710
+fu wu qi cun chu	服务器存储	1699
+fu you dong wu	浮游动物	1699
+fu zhuang shi chang	服装市场	1677
+fu mu zi nv guan xi	父母子女关系	1665
+fu qiao	浮桥	1660
+fu ma suan	富马酸	1647
+fu xing lu	复兴路	1630
+fu lang xi si	弗朗西斯	1628
+fu qi gong tong zhai wu	夫妻共同债务	1615
+fu he an ji suan	复合氨基酸	1593
+fu he yu ju	复合语句	1567
+fu yu wan kang	负隅顽抗	1556
+fu ping	富平	1549
+fu wu qi guan li	服务器管理	1428
+fu ji yuan su	父级元素	1425
+fu li ye bian huan	傅立叶变换	1422
+fu wu fa xian	服务发现	1420
+fu gang	佛冈	1399
+fu lao xie you	扶老携幼	1398
+fu wu hao	服务号	1360
+fu zai jun heng ji shu	负载均衡技术	1335
+fu za shu ju lei xing	复杂数据类型	1334
+fu er mo si	福尔摩斯	1328
+fu lan ke lin	富兰克林	1318
+fu te fu ke si liang xiang	福特福克斯两厢	1305
+fu ling zha cai	涪陵榨菜	1291
+fu zhi shu zu	复制数组	1262
+fu wu qi da jian	服务器搭建	1261
+fu te	伏特	1252
+fu wu qi mo xing	服务器模型	1246
+fu zhi yu ju	赋值语句	1228
+fu wu mao yi zong xie ding	服务贸易总协定	1224
+fu ning	阜宁	1204
+fu ye mian	父页面	1204
+fu wu qi jia gou	服务器架构	1203
+fu ling	茯苓	1179
+fu ke jian cha	妇科检查	1178
+fu qing shi	福清市	1175
+fu ji	腹肌	1171
+fu wen ben bian ji qi	富文本编辑器	1146
+fu wu qi bu shu	服务器部署	1146
+fu yao zhi shang	扶摇直上	1143
+fu xing	福星	1128
+fu fang	复方	1120
+fu zhu sheng zhi ji shu	辅助生殖技术	1110
+fu kang	富康	1078
+fu ding shi	福鼎市	1076
+fu yuan	富源	1059
+fu zhu dong liu	付诸东流	1042
+fu wu qi kong jian	服务器控件	1039
+fu za du fen xi	复杂度分析	1032
+fu zhou lu	福州路	1026
+fu gu gou	腹股沟	1001
+fu yuan fei	复员费	997
+fu kang shi	阜康市	960
+fu rong gao	芙蓉糕	953
+fu li de man	弗里德曼	952
+fu jin zhui xi	抚今追昔	950
+fu wu qi wei hu	服务器维护	936
+fu gu	府谷	928
+fu yong qi	复用器	917
+fu ping	阜平	912
+fu zheng qu xie	扶正祛邪	897
+fu ke lan qun dao	福克兰群岛	892
+fu wu bu shu	服务部署	889
+fu dian shu yun suan	浮点数运算	888
+fu zhi dong liu	付之东流	875
+fu li fen fang zhi du	福利分房制度	860
+fu gai wu	覆盖物	851
+fu wu qi kai fa	服务器开发	849
+fu wu qi duan bian cheng	服务器端编程	844
+fu jia shu ju ku	附加数据库	843
+fu ru jie zhi	妇孺皆知	838
+fu wu duan kai fa	服务端开发	825
+fu wu li cheng	服务例程	804
+fu meng te zhou	佛蒙特州	799
+fu shui	腹水	794
+fu li	复利	781
+fu ben ji	副本集	771
+fu bao shi	傅抱石	768
+fu yuan	附院	766
+fu shu lei	复数类	763
+fu xing men	复兴门	755
+fu rong nan lu	芙蓉南路	754
+fu shou	福寿	754
+fu an shi	福安市	744
+fu yang shi	富阳市	732
+fu pin kai fa ban	扶贫开发办	730
+fu lei de	弗雷德	729
+fu jian sheng pu tian shi	福建省莆田市	727
+fu yu cun	富裕村	727
+fu dai min shi su song an jian	附带民事诉讼案件	719
+fu hao wen jian	符号文件	719
+fu wu qi she ji	服务器设计	711
+fu luo yi de	弗洛伊德	705
+fu zhi cao zuo fu	赋值操作符	704
+fu shi	浮世	693
+fu za wang luo	复杂网络	692
+fu jian sheng ning de shi	福建省宁德市	691
+fu jia po	傅家坡	689
+fu jian wu long	福建乌龙	688
+fu wu ji qun	服务集群	683
+fu bi	腹壁	682
+fu shun lu	抚顺路	652
+fu cheng	阜城	647
+fu er yi yuan	妇儿医院	645
+fu yuan	抚远	641
+fu rong bei lu	芙蓉北路	639
+fu wu zhi li	服务治理	630
+fu tian	富田	626
+fu wu qi bian cheng	服务器编程	616
+fu wu qi an quan	服务器安全	614
+fu rong jie jie	芙蓉姐姐	607
+fu tang dao huo	赴汤蹈火	606
+fu wu qi ce shi	服务器测试	602
+fu li di chan	富力地产	601
+fu shi jie shi	俯拾皆是	598
+fu guang lve ying	浮光掠影	597
+fu zhu suo yin	辅助索引	588
+fu xin shi	阜新市	585
+fu mu quan	父母权	567
+fu bei shou di	腹背受敌	564
+fu lang ge	佛朗哥	551
+fu ke di guo	富可敌国	544
+fu hua wu	氟化物	527
+fu wu qi lei	服务器类	526
+fu dong jie	府东街	511
+fu shun	富顺	510
+fu wu qi jian kong	服务器监控	510
+fu chan wu	副产物	502
+fu chang fu sui	夫唱妇随	501
+fu ping	佛坪	500
+fu ma suan ya tie	富马酸亚铁	498
+fu er tai	伏尔泰	493
+fu xi jie	府西街	482
+fu he ti	复合体	474
+fu wai yi yuan	阜外医院	471
+fu zhi han shu	赋值函数	470
+fu tian bao shui qu	福田保税区	468
+fu hao bian ma	符号编码	463
+fu nan	阜南	463
+fu zhuang	复壮	460
+fu wu duan bian cheng	服务端编程	456
+fu dai min shi su song bei gao	附带民事诉讼被告	451
+fu xiu er qu	拂袖而去	450
+fu zhong	福中	445
+fu rong dan	芙蓉蛋	441
+fu gai ce shi	覆盖测试	427
+fu dian bian liang	浮点变量	426
+fu quan shi	福泉市	424
+fu yi biao	副仪表	423
+fu yi fan wei	复议范围	423
+fu wu duan jia gou	服务端架构	421
+fu wu qi bei fen	服务器备份	413
+fu yong feng ya	附庸风雅	413
+fu ling bing	茯苓饼	393
+fu lin	福临	390
+fu jian cai	福建菜	386
+fu wu qi wen ti	服务器问题	386
+fu yi qian zhi	复议前置	384
+fu jia yi fang	富甲一方	382
+fu ying yi yuan	妇婴医院	381
+fu ke na	福克纳	379
+fu xi gong si	福喜公司	379
+fu te meng di ou zhi sheng	福特蒙迪欧致胜	377
+fu jian dai mu lei	福建戴姆勒	372
+fu mo	腹膜	372
+fu mo tou xi	腹膜透析	372
+fu cheng men	阜成门	367
+fu qian lu	府前路	365
+fu li ye ji shu	傅里叶级数	363
+fu luo yi de suan fa	弗洛伊德算法	363
+fu yuan ai	福原爱	355
+fu zhong	复种	351
+fu yi yi yuan	附一医院	346
+fu fan ying	副反应	343
+fu si nian	傅斯年	337
+fu zhi ji	复制集	336
+fu de	福德	333
+fu ning	抚宁	319
+fu yang lu	阜阳路	317
+fu hao ji suan	符号计算	316
+fu mo yan	腹膜炎	316
+fu you shi shu qi zi hua	腹有诗书气自华	313
+fu you yi yuan	妇幼医院	311
+fu yu lu	富裕路	302
+fu quan	复权	300
+fu cun	富村	297
+fu xing	福兴	297
+fu guo qiang bing	富国强兵	294
+fu guo yin hang	富国银行	293
+fu wu qi jia she	服务器架设	292
+fu er yi	附二医	287
+fu he shang	复合伤	287
+fu cheng	涪城	285
+fu she	蝮蛇	285
+fu zhu xi ruo gan ren	副主席若干人	285
+fu za zhi ling ji	复杂指令集	283
+fu she dui chen	辐射对称	282
+fu shi pin shi chang	副食品市场	282
+fu zuo yi	傅作义	282
+fu gui bu neng yin	富贵不能淫	281
+fu shui nan shou	覆水难收	281
+fu shi ji shi	俯拾即是	279
+fu you jie	府右街	279
+fu min lu	富民路	278
+fu fang huang an jia e zuo	复方磺胺甲噁唑	277
+fu li ye fen xi	傅里叶分析	276
+fu chun shan ju	富春山居	275
+fu lei	傅雷	270
+fu gong	福贡	265
+fu he wei sheng su	复合维生素	261
+fu qi gong tong cai chan fen ge	夫妻共同财产分割	259
+fu qian jie	府前街	254
+fu wu qi you hua	服务器优化	253
+fu lin	福林	252
+fu song	抚松	252
+fu shu yun suan	复数运算	248
+fu dian chang liang	浮点常量	245
+fu kuan wei tuo	付款委托	245
+fu shou gan wei ru zi niu	俯首甘为孺子牛	243
+fu ming xia	伏明霞	242
+fu chuan	富川	240
+fu ling gao	茯苓糕	237
+fu wu miao shu yu yan	服务描述语言	236
+fu shan	傅山	235
+fu wu dui lie	服务队列	227
+fu zai dian zu	负载电阻	225
+fu zi	附子	225
+fu gui ji xiang	富贵吉祥	223
+fu liang	浮梁	219
+fu xing dong lu	复兴东路	217
+fu ren gu quan zheng gong si zhai	附认股权证公司债	216
+fu jing	福井	212
+fu she sun shang	辐射损伤	212
+fu jin lu	富锦路	211
+fu xing zhong lu	复兴中路	211
+fu gui shan	富贵山	210
+fu cong	傅聪	208
+fu ping lu	佛平路	207
+fu jian gong cheng xue yuan	福建工程学院	204
+fu yong lei	复用类	204
+fu cheng	附城	202
+fu fang dan shen pian	复方丹参片	202
+fu lei	富勒	201
+fu lu shou xi	福禄寿喜	199
+fu jian sheng an xi xian	福建省安溪县	198
+fu he kong jian	复合控件	197
+fu shi	浮石	197
+fu jia jun	傅家俊	196
+fu wu fang wen dian	服务访问点	196
+fu dian yun suan dan yuan	浮点运算单元	195
+fu wei	腹围	195
+fu bao yuan	妇保院	193
+fu yuan	福源	187
+fu wu xia ci	服务瑕疵	186
+fu yuan	福园	185
+fu rong tang	芙蓉汤	184
+fu zhu ren yao shi	副主任药师	184
+fu luo ji	负逻辑	183
+fu he	福和	180
+fu zhu cun chu qi	辅助存储器	180
+fu bu he lu	阜埠河路	178
+fu mei	辅酶	178
+fu jian lu	福建路	175
+fu wu qi wang zhan	服务器网站	175
+fu shi	复视	174
+fu zheng gu ben	扶正固本	171
+fu zhi lun gu	负值轮毂	171
+fu ban	蝜蝂	168
+fu cheng lu	阜成路	167
+fu hua lu	福华路	166
+fu nan lu	阜南路	166
+fu zhong du	氟中毒	166
+fu zhu dong mai	腹主动脉	166
+fu rong dong	芙蓉洞	165
+fu jing qing zui	负荆请罪	164
+fu ci zi xiao	父慈子孝	163
+fu rong xue xing hu jun	副溶血性弧菌	161
+fu zhi gou zao han shu	赋值构造函数	161
+fu shun dou hua	富顺豆花	160
+fu ru dong hai	福如东海	158
+fu tai da xiong mao	赴台大熊猫	157
+fu lou bai	福楼拜	156
+fu shang ju gu	富商巨贾	156
+fu shang han	副伤寒	155
+fu tian gong mu	福田公墓	155
+fu qi fan mu	夫妻反目	154
+fu zhi yi xiao	付之一笑	152
+fu fang dan shen di wan	复方丹参滴丸	150
+fu zhu ping mian	辅助平面	150
+fu xi jiao mu	富硒酵母	149
+fu pai suan	氟哌酸	148
+fu qiang gan ran	腹腔感染	148
+fu yu xian	扶余县	147
+fu fang gan cao pian	复方甘草片	144
+fu xin	福新	143
+fu qiang lu	富强路	141
+fu sen mei jia ju	富森美家居	141
+fu nan zuo tong	呋喃唑酮	140
+fu kang lu	富康路	139
+fu lang ci	弗朗茨	138
+fu qi yue ding cai chan zhi	夫妻约定财产制	136
+fu sui	扶绥	136
+fu tou	浮头	136
+fu dong lu	福东路	134
+fu gu gou shan	腹股沟疝	132
+fu guo qiang min	富国强民	132
+fu ma lu	福马路	132
+fu rong gan bei	芙蓉干贝	132
+fu wu jie ru dian	服务接入点	130
+fu dan	附单	129
+fu shan la mian	福山拉面	129
+fu rong xian shu tang	芙蓉鲜蔬汤	128
+fu dong kuai	浮动块	127
+fu jiao gan shen jing	副交感神经	127
+fu chan ke xue	妇产科学	126
+fu shi da	富士达	125
+fu za shi wu	复杂事务	125
+fu tian qi che zhan	福田汽车站	124
+fu fei lu	福飞路	122
+fu lan ke	弗兰科	122
+fu qiang lu	福强路	122
+fu shan lu	福山路	122
+fu li qu	福利区	121
+fu zhai zi huan	父债子还	121
+fu gao yan	附睾炎	120
+fu hua san lu	福华三路	120
+fu meng xian	阜蒙县	119
+fu rong xie	芙蓉蟹	118
+fu ri	福日	117
+fu shan suo	浮山所	117
+fu shou tie er	俯首帖耳	117
+fu dong hui lv zhi	浮动汇率制	116
+fu xue hu tong	府学胡同	115
+fu yan tang se	敷衍搪塞	115
+fu pi liao cao	浮皮潦草	114
+fu rong ji yu	芙蓉鲫鱼	111
+fu wu qi yun wei	服务器运维	111
+fu wu yuan yu	服务原语	111
+fu za du ji suan	复杂度计算	111
+fu zhu yi ju	付诸一炬	111
+fu zhu kai fa gong ju	辅助开发工具	110
+fu di	富地	109
+fu se	复色	109
+fu tian cun	福田村	106
+fu xing gao zhao	福星高照	104
+fu yi can jia ren	复议参加人	102
+fu bu sun shang	腹部损伤	100
+fu qiang cun	富强村	100
+fu pi bao huang yu	腐皮包黄鱼	97
+fu tu guan	佛图关	97
+fu gui rong hua	富贵荣华	96
+fu jin shi	富锦市	96
+fu xia lu	福峡路	96
+fu yang di qu	阜阳地区	96
+fu ye zhi wu	浮叶植物	96
+fu zhou zong yuan	福州总院	96
+fu bao yi yuan	妇保医院	94
+fu qiang ji ye	腹腔积液	93
+fu rong yuan	芙蓉苑	93
+fu ru bing	腐乳饼	93
+fu yu shi	扶余市	93
+fu hou gang	傅厚岗	90
+fu jia ren wu	附加任务	90
+fu ban	腹板	89
+fu se jian ce	肤色检测	89
+fu xing	富兴	89
+fu ji jie di	负极接地	88
+fu wei jiu kun	扶危救困	88
+fu wu chuang	服务窗	88
+fu dian biao zhun	浮点标准	87
+fu chen da qiao	佛陈大桥	85
+fu tian zhong yi yuan	福田中医院	85
+fu yao zhi shang jiu wan li	扶摇直上九万里	85
+fu you lu	福佑路	85
+fu hao yu yan	符号语言	84
+fu qiu shan xiang	浮邱山乡	84
+fu xing dao	复兴岛	83
+fu hao zhi xing	符号执行	82
+fu li	富里	82
+fu yi bei shen qing ren	复议被申请人	82
+fu qiang jing dan nang qie chu shu	腹腔镜胆囊切除术	81
+fu min lu	福民路	80
+fu gang	富港	79
+fu gu zheng	氟骨症	79
+fu gui niao	富贵鸟	79
+fu zhou mo li hua cha	福州茉莉花茶	79
+fu chuan xian	富川县	77
+fu hao	妇好	77
+fu rong cun	芙蓉村	77
+fu li you yi cheng	富力又一城	76
+fu luo li an	弗洛里安	76
+fu ning lu	福宁路	76
+fu er hao li	富而好礼	75
+fu shou ting ming	俯首听命	75
+fu wai da jie	阜外大街	75
+fu wei mai chong	复位脉冲	75
+fu de cun	福德村	74
+fu rong can ting	芙蓉餐厅	74
+fu shou shuang quan	福寿双全	74
+fu ze yu ji	福泽谕吉	74
+fu wu shu ju dan yuan	服务数据单元	73
+fu gu gou lin ba jie	腹股沟淋巴结	72
+fu rong guo li jin zhao hui	芙蓉国里尽朝晖	72
+fu bao xian he tong	复保险合同	71
+fu chang	福昌	71
+fu tong dong da jie	阜通东大街	71
+fu zhou ruan jian yuan	福州软件园	71
+fu li lv	负利率	70
+fu zai duan	负载端	70
+fu dai	腹带	69
+fu fang lin suan ke dai yin	复方磷酸可待因	69
+fu jian	苻坚	69
+fu xing ji tuan	福星集团	69
+fu yang zhi jian	俯仰之间	69
+fu gui yuan	富贵园	68
+fu shan ya zhi	福山雅治	68
+fu nan xin qu	府南新区	67
+fu sheng	富盛	67
+fu tian nan	福田南	67
+fu wen miao	府文庙	67
+fu zhu dong mai liu	腹主动脉瘤	67
+fu qing lu san duan	府青路三段	66
+fu rong xin cheng	芙蓉新城	66
+fu shou kang ning	福寿康宁	66
+fu jian zhong lu	福建中路	65
+fu pei rong	傅佩荣	64
+fu yi jian	傅以渐	64
+fu ying bao jian	妇婴保健	64
+fu er jia che	伏尔加车	63
+fu hai jie dao	福海街道	63
+fu jia zhou	傅家洲	63
+fu jin xian	富锦县	63
+fu sheng ruo meng	浮生若梦	62
+fu shun shi xin fu qu	抚顺市新抚区	62
+fu wei zi yin	父为子隐	62
+fu bi	辅币	61
+fu ce	腹侧	61
+fu tian gong si	福田公司	61
+fu xin xian	阜新县	61
+fu ke si xiao gai kuan	福克斯小改款	60
+fu la er ji	富拉尔基	60
+fu nan xi lin	呋喃西林	60
+fu yao er shang	扶摇而上	60
+fu cao wei ying	腐草为萤	59
+fu fang e jiao jiang	复方阿胶浆	59
+fu shan cun	福山村	58
+fu an	阜安	57
+fu jia po	付家坡	57
+fu xi huo suo fu	福兮祸所伏	57
+fu zeng shi you jiang xiao shou	附赠式有奖销售	57
+fu biao	傅彪	56
+fu yang	福阳	56
+fu chao zhi xia wu wan luan	覆巢之下无完卵	55
+fu ning da gao	阜宁大糕	55
+fu zeng xiang	傅增湘	55
+fu zi zi dao	夫子自道	55
+fu ding yu	福鼎芋	54
+fu hua yi lu	福华一路	54
+fu chen lu	佛陈路	53
+fu jian shi da fu zhong	福建师大附中	53
+fu jian yi da	福建医大	53
+fu yuan xiao qu	福苑小区	53
+fu ma di bi ye	呋麻滴鼻液	52
+fu xi huo zhi suo fu	福兮祸之所伏	52
+fu xi	福溪	51
+fu xin lu	福新路	51
+fu zhi ji	腹直肌	51
+fu de fan zi ran	复得返自然	50
+fu jian chao fan	福建炒饭	50
+fu ren zhi ren	妇人之仁	50
+fu xing cun	福星村	50
+fu jing	付静	49
+fu li hua da jiu dian	富丽华大酒店	49
+fu mei	福美	49
+fu wu shuang zhi	福无双至	49
+fu zhou gao ji zhong xue	福州高级中学	49
+fu hou jie	府后街	48
+fu jia	符家	48
+fu li shan zhuang	富丽山庄	48
+fu wu dui deng	服务对等	48
+fu le zhi hui	福乐智慧	47
+fu mu zhi bang	父母之邦	47
+fu xiao mai	浮小麦	47
+fu di	扶地	46
+fu er huo dong zhong xin	妇儿活动中心	46
+fu jia zhuang	付家庄	46
+fu yi xian an	氟乙酰胺	46
+fu bo shan	伏波山	45
+fu gui zai tian	富贵在天	45
+fu jia bei zhu	附加备注	45
+fu cun	傅村	44
+fu dou	福都	44
+fu jia wen dang	附加文档	44
+fu ling	福岭	44
+fu xing jie	复兴街	44
+fu xing xi lu	复兴西路	44
+fu zhou di qu	抚州地区	44
+fu hao luo ji	符号逻辑	43
+fu lie	腹裂	43
+fu shen	茯神	43
+fu wang	福王	43
+fu jin si xi	抚今思昔	42
+fu li te	福丽特	42
+fu min xin cun	福民新村	42
+fu quan lu	福泉路	42
+fu xin qiao	佛心桥	42
+fu yang wu kui	俯仰无愧	42
+fu zhuang jie	服装街	42
+fu dian chu	浮点除	41
+fu fa	富发	41
+fu ge te	福格特	41
+fu ke yong yao	妇科用药	41
+fu fang teng	扶芳藤	40
+fu fang xin nuo ming	复方新诺明	40
+fu hua pao mo	氟化泡沫	40
+fu ning xiang	抚宁巷	40
+fu rong gu	芙蓉谷	40
+fu rong hai shen	芙蓉海参	40
+fu shang da gu	富商大贾	40
+fu chun jiang lu	富春江路	39
+fu gu	跗骨	39
+fu xin lu	阜新路	39
+fu zi zhuang	佛子庄	39
+fu qin xiao qu	抚琴小区	38
+fu rong yan cai	芙蓉燕菜	38
+fu yang	傅阳	38
+fu guang	福光	37
+fu he biao shi	复合标识	37
+fu rong chu shui	芙蓉出水	37
+fu xing she qu	复兴社区	37
+fu zhu fu ben	辅助副本	37
+fu bo	付波	36
+fu cheng yuan	父成员	36
+fu feng lu gao	扶风鹿糕	36
+fu lian	福联	36
+fu zhu ren wu	辅助任务	36
+fu cai zhong xin	福彩中心	35
+fu kang lu	复康路	35
+fu gao	福高	34
+fu ning jie jie dao	富宁街街道	34
+fu zi jie	福字街	34
+fu cheng jie dao	附城街道	33
+fu di zhi yu	釜底之鱼	33
+fu ji	福基	33
+fu shun jie	抚顺街	33
+fu ta lin	扶他林	33
+fu gui bi ren	富贵逼人	32
+fu gui qi rong	夫贵妻荣	32
+fu li ban dao hua yuan	富力半岛花园	32
+fu qi ke	伏契克	32
+fu ru ning zhi	肤如凝脂	32
+fu wu zhi bu qi	夫物之不齐	32
+fu dong	福东	31
+fu gu bing	氟骨病	31
+fu jian guang bo ying shi ji tuan	福建广播影视集团	31
+fu ke qian jin pian	妇科千金片	31
+fu long zhi	伏龙芝	31
+fu nan jie dao	府南街道	31
+fu quan	福全	31
+fu wu xie yi	服务协议	31
+fu zhou wai guo yu xue xiao	福州外国语学校	31
+fu fang an fen wan an jiao nang	复方氨酚烷胺胶囊	30
+fu rong jiang lu	芙蓉江路	30
+fu su	扶苏	30
+fu xin dong lu	福新东路	30
+fu yuan tang	复元汤	30
+fu fang ban lan gen ke li	复方板蓝根颗粒	29
+fu guo jie	富国街	29
+fu hua da sha	富华大厦	29
+fu ling shi	涪陵市	29
+fu zhi bao hu	复制保护	29
+fu zhong zhi yuan	负重致远	29
+fu zhu yi xiao	付诸一笑	29
+fu zhuang cun	付庄村	29
+fu fei dian shi	付费电视	28
+fu gui bu yin	富贵不淫	28
+fu kuang ji tuan	阜矿集团	28
+fu lei er	弗勒尔	28
+fu shun xiang	富顺乡	28
+fu sui jing	福绥境	28
+fu xi ri	付息日	28
+fu xing	复性	28
+fu yan bao	佛焰苞	28
+fu yan jie	妇炎洁	28
+fu zhi chuan bo	复制传播	28
+fu chun jiang shi yu	富春江鲥鱼	27
+fu di dong tian	福地洞天	27
+fu fang a mi san qin pian	复方阿米三嗪片	27
+fu fang gan cao he ji	复方甘草合剂	27
+fu hao fen xi	符号分析	27
+fu he ji	复合剂	27
+fu lan	佛兰	27
+fu nan tuo yin	呋喃妥因	27
+fu shan cun	浮山村	27
+fu wei xu lie	复位序列	27
+fu you wu	浮游物	27
+fu zhu zhi shi	辅助知识	27
+fu lang de ju tu	弗朗德巨兔	26
+fu ling mei gui su	伏岭玫瑰酥	26
+fu ye dui	副业队	26
+fu hao jian gan rao	符号间干扰	25
+fu heng ji	腹横肌	25
+fu jian bei lu	福建北路	25
+fu mo tou xi ye	腹膜透析液	25
+fu pai ding chun	氟哌啶醇	25
+fu ping lu	富平路	25
+fu za fu hao	复杂符号	25
+fu zhang da xiao	抚掌大笑	25
+fu zhu ji	辅助集	25
+fu fang cha jian ma huang jian pian	复方茶碱麻黄碱片	24
+fu li hua yuan	富丽花园	24
+fu li ye miao shu zi	傅里叶描述子	24
+fu min xiao qu	富民小区	24
+fu qiang chuan ci	腹腔穿刺	24
+fu qing song ruan gao	肤轻松软膏	24
+fu ruo yi qiang	扶弱抑强	24
+fu tie	福铁	24
+fu xin zhi ji	腹心之疾	24
+fu ya ping	富雅坪	24
+fu zu lei	腹足类	24
+fu fang li xue ping pian	复方利血平片	23
+fu feng qiao xi	富丰桥西	23
+fu kang hua yuan	富康花园	23
+fu shan xiao qu	浮山校区	23
+fu xing shu shi bu	复行数十步	23
+fu ying yang xing hu po	富营养型湖泊	23
+fu zhi xin ling	福至心灵	23
+fu an da jie	福安大街	22
+fu fang dang gui zhu she ye	复方当归注射液	22
+fu jian nan lu	福建南路	22
+fu qiang ren shen	腹腔妊娠	22
+fu sai mi	呋塞米	22
+fu tian feng jing chong lang	福田风景冲浪	22
+fu xi ting	氟西汀	22
+fu zhi liu shui	付之流水	22
+fu zhi xing	复制型	22
+fu chen nian zao dan	府陈年糟蛋	21
+fu dian cheng	浮点乘	21
+fu fang hao jia mi	复方蒿甲醚	21
+fu fang jiang ya pian	复方降压片	21
+fu jian hang zheng xue yuan	福建行政学院	21
+fu ling	佛岭	21
+fu rong ru mian liu ru mei	芙蓉如面柳如眉	21
+fu xin hua yuan	府新花园	21
+fu chun	福春	20
+fu qing jie	福庆街	20
+fu shan xian	福山县	20
+fu wei ji	富危机	20
+fu zi li zhong wan	附子理中丸	20
+fu chang jie	福长街	19
+fu di yang liu zui chun yan	拂堤杨柳醉春烟	19
+fu dian chu li dan yuan	浮点处理单元	19
+fu fang an ji suan	复方氨基酸	19
+fu fang di fen nuo zhi pian	复方地芬诺酯片	19
+fu fang gan mao ling pian	复方感冒灵片	19
+fu he shu zhi	复合树脂	19
+fu jia shi wei qi nang	副驾驶位气囊	19
+fu kang an	福康安	19
+fu keng	富坑	19
+fu luo sha xing	氟罗沙星	19
+fu nei shan	腹内疝	19
+fu pen zi tong	复盆子酮	19
+fu shou gao	福寿糕	19
+fu shu cheng xu ji	附属程序集	19
+fu shui ping	付水平	19
+fu shui wan xiang	洑水湾乡	19
+fu tian ke ji guang chang	福田科技广场	19
+fu xing yi cun	复兴一村	19
+fu yang xian	富阳县	19
+fu yong zhen	福永镇	19
+fu zhou	浮洲	19
+fu cun lu	府村路	18
+fu dian jia	浮点加	18
+fu gui you yu	富贵有鱼	18
+fu hua xin cun	福华新村	18
+fu kui nuo tong	氟喹诺酮	18
+fu li jia yuan	富丽家园	18
+fu niao mi ding	氟尿嘧啶	18
+fu qi fei pian dian	夫妻肺片店	18
+fu qi gong tong suo you cai chan	夫妻共同所有财产	18
+fu rong lou song xin jian	芙蓉楼送辛渐	18
+fu wan li	富万利	18
+fu yang xian	阜阳县	18
+fu ying	傅鹰	18
+fu yu shan	符禺山	18
+fu gu gou guan	腹股沟管	17
+fu gu gou shan xiu bu shu	腹股沟疝修补术	17
+fu guang lu	福光路	17
+fu gui yu wo ru fu yun	富贵于我如浮云	17
+fu hou jie jie dao	府后街街道	17
+fu hui han fa	附会汉法	17
+fu ke qian jin jiao nang	妇科千金胶囊	17
+fu lan qi	弗兰奇	17
+fu li kang zuo	伏立康唑	17
+fu lian you er yuan	妇联幼儿园	17
+fu qing xian	福清县	17
+fu tai long	福泰隆	17
+fu xi jie dao	福溪街道	17
+fu xiang hu tong	福祥胡同	17
+fu zhi xiang	抚志乡	17
+fu fang a si pi lin	复方阿司匹林	16
+fu feng ji tuan	阜丰集团	16
+fu gong bing	佛公饼	16
+fu jia yuan zi	付家院子	16
+fu jin yi shi ru shan lin	斧斤以时入山林	16
+fu kang zuo	氟康唑	16
+fu mo hou xue zhong	腹膜后血肿	16
+fu rong xiang	芙蓉巷	16
+fu shi yin hang	富士银行	16
+fu tian si	福田寺	16
+fu wu xing cheng xu	服务性程序	16
+fu cheng jie dao	福城街道	15
+fu da dong men	福大东门	15
+fu fang cao shan hu han pian	复方草珊瑚含片	15
+fu hai jian yu	福海监狱	15
+fu jiao gan shen jing xi tong	副交感神经系统	15
+fu kou	富口	15
+fu ling duo tang	茯苓多糖	15
+fu na fu ti	富纳富提	15
+fu qiang hu tong	富强胡同	15
+fu shan	阜山	15
+fu shi	福石	15
+fu xing da dao	福兴大道	15
+fu xing nan yuan	复兴南苑	15
+fu you huo dong zhong xin	妇幼活动中心	15
+fu yuan xin cun	府苑新村	15
+fu zhu duan	辅助段	15
+fu chun ji	富春鸡	14
+fu ding xian	福鼎县	14
+fu fang an fen wan an	复方氨酚烷胺	14
+fu fang an fen wan an pian	复方氨酚烷胺片	14
+fu fang dan shen	复方丹参	14
+fu fang huang lian su pian	复方黄连素片	14
+fu he lu	府河路	14
+fu ji	福机	14
+fu jian jin jiang shi an hai zhen	福建晋江市安海镇	14
+fu ming xian	傅明宪	14
+fu nv dai xia	妇女带下	14
+fu pai suan jiao nang	氟哌酸胶囊	14
+fu qi zhu suo	夫妻住所	14
+fu rong li xiao qu	芙蓉里小区	14
+fu xing li	复兴里	14
+fu ya zheng	氟牙症	14
+fu you	府又	14
+fu yuan xian ren min fa yuan	富源县人民法院	14
+fu yun you zi yi	浮云游子意	14
+fu zheng jie	府正街	14
+fu cun	浮村	13
+fu de gu yuan cao song bie	赋得古原草送别	13
+fu fang gan cao kou fu rong ye	复方甘草口服溶液	13
+fu fang ju wei tong dian cha ji	复方聚维酮碘搽剂	13
+fu gui lu	富贵路	13
+fu kang zuo jiao nang	氟康唑胶囊	13
+fu ma zhuang	驸马庄	13
+fu mo te luo	福莫特罗	13
+fu pi rou juan	腐皮肉卷	13
+fu qiang nong zhong	腹腔脓肿	13
+fu sai mi zhu she ye	呋塞米注射液	13
+fu san zhong	福三中	13
+fu she du fang fa	辐射度方法	13
+fu wan	氟烷	13
+fu xu yu ri	扶胥浴日	13
+fu ya san bai yu li	覆压三百余里	13
+fu yu	傅瑜	13
+fu za gong fan	复杂共犯	13
+fu zi gua shao li ji	福字瓜烧里脊	13
+fu cha pin lei zhi sheng	俯察品类之盛	12
+fu chong bi	傅崇碧	12
+fu he chen tao	复合衬套	12
+fu jian gong ye xue xiao	福建工业学校	12
+fu qiao cun	浮桥村	12
+fu quan xian	福泉县	12
+fu rong xiang lian liang bian kai	芙蓉向脸两边开	12
+fu ting gui	符廷贵	12
+fu xi cun	富溪村	12
+fu fang gan cao kou fu ye	复方甘草口服液	11
+fu ge	弗格	11
+fu ge zhuang	富各庄	11
+fu guang cun	福光村	11
+fu he yuan xiao qu	富河园小区	11
+fu hu cun	伏虎村	11
+fu ji chang	辅机厂	11
+fu long yuan	福隆园	11
+fu luo lun si	弗罗伦斯	11
+fu shi xing	腐食性	11
+fu tian mi di	福田迷迪	11
+fu wai shan	腹外疝	11
+fu xi	阜西	11
+fu yang	浮阳	11
+fu you jia qiao dong wu	浮游甲壳动物	11
+fu yuan men she qu	福缘门社区	11
+fu di lang xiang bie shu	复地朗香别墅	10
+fu dun	浮墩	10
+fu fang di fen nuo zhi	复方地芬诺酯	10
+fu fang gan cao	复方甘草	10
+fu gao guan	附睾管	10
+fu hao jiu dian	富豪酒店	10
+fu he kong zhi	复合控制	10
+fu hua jie jie dao	福华街街道	10
+fu jing bo	傅泾波	10
+fu kang pian	妇康片	10
+fu kang zuo zhu she ye	氟康唑注射液	10
+fu le bei li she qu	富乐北里社区	10
+fu li nong chang	福利农场	10
+fu lin cun	福林村	10
+fu nan zuo tong pian	呋喃唑酮片	10
+fu rong da xia	芙蓉大虾	10
+fu rong dao	芙蓉岛	10
+fu sheng	伏胜	10
+fu wen xue	肤纹学	10
+fu wu he tong	服务合同	10
+fu wu xie yi tan pan	服务协议谈判	10
+fu xian	复县	10
+fu xing tou zi qu	福兴投资区	10
+fu zhan	府站	10
+fu zhong shen guan	副中肾管	10
+fu cha shi	富察氏	9
+fu er hao li zhe ye	富而好礼者也	9
+fu fang bi yan gao	复方鼻炎膏	9
+fu fang bie jia ruan gan pian	复方鳖甲软肝片	9
+fu fang huang an jia e zuo	复方磺胺甲恶唑	9
+fu fang ma yi huo luo jiao nang	复方蚂蚁活络胶囊	9
+fu gang ban	付钢板	9
+fu guang ming	付光明	9
+fu guo li she qu	富国里社区	9
+fu jia zhuang xian	副甲状腺	9
+fu jian nian gao	福建年糕	9
+fu lan jing xian chong	腐烂茎线虫	9
+fu ling xian	涪陵县	9
+fu qi gong tong zhai wu ren ding	夫妻共同债务认定	9
+fu rong bai hua bao	芙蓉百花鲍	9
+fu rong qiao bai zu xiang	芙蓉桥白族乡	9
+fu sha lu	福厦路	9
+fu tian ji tuan	福田集团	9
+fu xing dao gong yuan	复兴岛公园	9
+fu xing lu	富兴路	9
+fu yang ke li	肤痒颗粒	9
+fu yong lu kou xi	阜永路口西	9
+fu zheng jie biao	扶正解表	9
+fu zhuang gong ye qu	服装工业区	9
+fu an xian	福安县	8
+fu bi xia dong mai	腹壁下动脉	8
+fu ceng	符曾	8
+fu er	副耳	8
+fu er ke ding	福尔可定	8
+fu fang an ji suan zhu she ye	复方氨基酸注射液	8
+fu fang jia yang na ming jiao nang	复方甲氧那明胶囊	8
+fu fang qing yang hua lv pian	复方氢氧化铝片	8
+fu hua si lu	福华四路	8
+fu jian	苻健	8
+fu jiang	符江	8
+fu li you yi cheng nan qu	富力又一城南区	8
+fu lin jie	福临街	8
+fu min cun	福民村	8
+fu min guang chang	富民广场	8
+fu ping tai hou bing	富平太后饼	8
+fu qi cai chan yue ding gong zheng	夫妻财产约定公证	8
+fu tie fa	敷贴法	8
+fu xing lu bei kou	复兴路北口	8
+fu you ji pian	浮油鸡片	8
+fu zhong cao chang	附中操场	8
+fu zi tong huan	父子同欢	8
+fu zi zhuang xiang zheng fu	佛子庄乡政府	8
+fu bei she qu	复北社区	7
+fu bi fan she	腹壁反射	7
+fu bu ban cang	服部半藏	7
+fu fa ta ting	氟伐他汀	7
+fu fang gu tai zhu she ye	复方骨肽注射液	7
+fu fang lu gan shi xi ji	复方炉甘石洗剂	7
+fu fang xian zhu li ye	复方鲜竹沥液	7
+fu fang xiao hua mei jiao nang	复方消化酶胶囊	7
+fu feng lu gao mo	扶风鹿糕馍	7
+fu gui huang jin juan	富贵黄金卷	7
+fu hua guang chang	富华广场	7
+fu huang hou	伏皇后	7
+fu jia ji	附加剂	7
+fu jia xiang	傅家巷	7
+fu kai sen	福开森	7
+fu li cun	福利村	7
+fu mo qiang	腹膜腔	7
+fu pian gui qi dun yang rou	附片归杞炖羊肉	7
+fu ping	富坪	7
+fu shen jing	副神经	7
+fu sheng jie	福胜街	7
+fu shou cun	福寿村	7
+fu shou lin men	福寿临门	7
+fu shun tian tian	福顺天天	7
+fu tu jiang xiang	浮图讲乡	7
+fu wai xie ji	腹外斜肌	7
+fu wen	付雯	7
+fu xi cun	洑溪村	7
+fu xian zhen	服先镇	7
+fu yang	福洋	7
+fu you bao	富油包	7
+fu yuan li	富源里	7
+fu ze xie	福泽泻	7
+fu zhai	阜寨	7
+fu zheng hua yu	扶正化瘀	7
+fu zhi	跗跖	7
+fu zhi mei	复制酶	7
+fu zhou guang chang	福州广场	7
+fu an gong ye qu	富安工业区	6
+fu bai	浮白	6
+fu bi cheng xing shu	腹壁成形术	6
+fu bian xiang	抚边乡	6
+fu er ke qiu ye	富而可求也	6
+fu fang gan jin gao pian	复方肝浸膏片	6
+fu fang ku shen zhu she ye	复方苦参注射液	6
+fu fang qing dai wan	复方青黛丸	6
+fu fang xiang	傅坊乡	6
+fu fang xiao hua mei	复方消化酶	6
+fu fang xue shuan tong jiao nang	复方血栓通胶囊	6
+fu gai yi chi xiu fu	覆盖义齿修复	6
+fu hong xi bao ti bing	附红细胞体病	6
+fu jian long hai shi shi ma zhen	福建龙海市石码镇	6
+fu ke	浮克	6
+fu ke an pian	腹可安片	6
+fu le yi shen hai man	拂了一身还满	6
+fu li xin cun	福利新村	6
+fu lin lu	富林路	6
+fu lin lu	福林路	6
+fu ling cun	佛岭村	6
+fu liu	复溜	6
+fu long gan	伏龙肝	6
+fu lv xi lin	氟氯西林	6
+fu ma suan kui liu ping pian	富马酸喹硫平片	6
+fu mo ling hun	抚摩灵魂	6
+fu qiang chuan ci shu	腹腔穿刺术	6
+fu qin xi lu dong	抚琴西路东	6
+fu qin xi lu xi	抚琴西路西	6
+fu rong tao xie	芙蓉套蟹	6
+fu shan	付山	6
+fu sheng	苻生	6
+fu shou lu	福寿路	6
+fu tang xiang	富塘乡	6
+fu xi lu	福熙路	6
+fu ying jiu dian	福盈酒店	6
+fu yun yi bie hou	浮云一别后	6
+fu zheng hua yu jiao nang	扶正化瘀胶囊	6
+fu zheng hua yu pian	扶正化瘀片	6
+fu an ban shi chu	阜安办事处	5
+fu bi zheng xing shu	腹壁整形术	5
+fu da bei men	福大北门	5
+fu dan fu hua	复旦复华	5
+fu dou ning meng pi	佛豆柠檬枇	5
+fu fang du zhong jian gu ke li	复方杜仲健骨颗粒	5
+fu fang gui nuo tong pian	复方炔诺酮片	5
+fu fang lu hui jiao nang	复方芦荟胶囊	5
+fu ge lie bo tang	伏格列波糖	5
+fu gui ben wu gen	富贵本无根	5
+fu he yin zi	复合因子	5
+fu hou	腹厚	5
+fu jia yan xiang	傅家堰乡	5
+fu jian jin jiang shi ci zao zhen	福建晋江市磁灶镇	5
+fu jian nan an shi shui tou zhen	福建南安市水头镇	5
+fu kang zuo pian	氟康唑片	5
+fu ke shi wei pian	妇科十味片	5
+fu lang xi si ke li	弗朗西斯科利	5
+fu lao hua	福佬话	5
+fu lao ren	福佬人	5
+fu le xiao qu	富乐小区	5
+fu luo bo mao chong	弗洛伯毛虫	5
+fu lv	扶闾	5
+fu ming	府明	5
+fu ming jiao nang	复明胶囊	5
+fu ming pian	复明片	5
+fu mo hou chu xie	腹膜后出血	5
+fu nei xie ji	腹内斜肌	5
+fu nv fa yan jiu	妇女法研究	5
+fu nv yang xue wan	妇女养血丸	5
+fu qiang gan	腹腔干	5
+fu rong huo xiang jiao	芙蓉藿香饺	5
+fu rong yu gu	芙蓉鱼骨	5
+fu shan	符山	5
+fu shen jing jie liu	副神经节瘤	5
+fu sheng hua yuan	福盛花园	5
+fu shi cun	福石村	5
+fu shou ling	福寿岭	5
+fu shun	府顺	5
+fu te quan shun kuai yun	福特全顺快运	5
+fu ti yi he ku	妇啼一何苦	5
+fu xian hu kang lang yu	抚仙湖抗浪鱼	5
+fu xin lu kou	福新路口	5
+fu xing gong si	福星公司	5
+fu xing long	福兴隆	5
+fu xing zhong lu ma dang lu	复兴中路马当路	5
+fu yan jing pian	妇炎净片	5
+fu yu lu kou dong	阜玉路口东	5
+fu zhi de zhi shi	夫至德之世	5
+fu bin xin cun	福滨新村	4
+fu chun jiang hua yuan	富春江花园	4
+fu fang an wei jiao nang	复方氨维胶囊	4
+fu fang dang shen pian	复方党参片	4
+fu fang du zhong jiao nang	复方杜仲胶囊	4
+fu fang gan cao suan gan pian	复方甘草酸苷片	4
+fu fang gan mao ling ke li	复方感冒灵颗粒	4
+fu fang hong dou shan jiao nang	复方红豆杉胶囊	4
+fu fang lv suan bi pian	复方铝酸铋片	4
+fu fang tai zi shen ke li	复方太子参颗粒	4
+fu fang xuan ju jiao nang	复方玄驹胶囊	4
+fu fang yi zhi hao ke li	复方一枝蒿颗粒	4
+fu fang zhang nao ding	复方樟脑酊	4
+fu gui fei wu yuan	富贵非吾愿	4
+fu he you he ju	夫何忧何惧	4
+fu jian jin jiang shi chen dai zhen	福建晋江市陈埭镇	4
+fu jian li gong xue xiao	福建理工学校	4
+fu jian lian you chang	福建炼油厂	4
+fu jian shi shi shi hong shan zhen	福建石狮市鸿山镇	4
+fu kang xian	阜康县	4
+fu le she qu	富乐社区	4
+fu le xiang	富乐乡	4
+fu li yuan	富丽苑	4
+fu lin xiang	福临乡	4
+fu lou zhen	佛楼镇	4
+fu lu miao zu xiang	富禄苗族乡	4
+fu ma suan bi suo luo er pian	富马酸比索洛尔片	4
+fu mai tang	复脉汤	4
+fu pi	副脾	4
+fu pu	福埔	4
+fu qi yue ding cai chan zhi du	夫妻约定财产制度	4
+fu qiao she qu	浮桥社区	4
+fu quan cun	福全村	4
+fu rong qi lu xiang lan xiao	芙蓉泣露香兰笑	4
+fu rong shao yao jie mo mu	芙蓉芍药皆嫫母	4
+fu rong yu jiao	芙蓉鱼角	4
+fu shan shao xiao ji	福山烧小鸡	4
+fu she	府舍	4
+fu sheng zhang hen huan yu shao	浮生长恨欢娱少	4
+fu shi guang chang	富仕广场	4
+fu ting	福庭	4
+fu tu dian xiang	浮图店乡	4
+fu wai xi kou	阜外西口	4
+fu wai xi she qu	阜外西社区	4
+fu xi gong ye yuan qu	富溪工业园区	4
+fu xiao cao chang	附小操场	4
+fu xiao xi pan	氟硝西泮	4
+fu xing bei yuan	复兴北苑	4
+fu you dao	富有道	4
+fu you shi chang	府又市场	4
+fu yuan xiang	福源巷	4
+fu ze ke xiong	福泽克雄	4
+fu zhi gu	跗跖骨	4
+fu zhi zi	复制子	4
+fu zhou	福周	4
+fu zi e jiao	福字阿胶	4
+fu zi shi	夫子石	4
+fu biao zheng hong hua you	斧标正红花油	3
+fu bing chang	傅秉常	3
+fu chan ke hu li xue	妇产科护理学	3
+fu cheng ao zong zhan	辅城坳总站	3
+fu da zhen	扶大镇	3
+fu dao qi	辅导期	3
+fu di qi mao	福迪汽贸	3
+fu fa xing duo ruan gu yan	复发性多软骨炎	3
+fu fang dan shen zhu she ye	复方丹参注射液	3
+fu fang gan cao han pian	复方甘草含片	3
+fu fang gan cao ma huang jian pian	复方甘草麻黄碱片	3
+fu fang gan jin gao jiao nang	复方肝浸膏胶囊	3
+fu fang gong ying jiao nang	复方公英胶囊	3
+fu fang huang an jia e zuo pian	复方磺胺甲恶唑片	3
+fu fang liang mian zhen han pian	复方两面针含片	3
+fu fang lv hua na	复方氯化钠	3
+fu fang mi fei si tong pian	复方米非司酮片	3
+fu fang peng sha rong ye	复方硼砂溶液	3
+fu fang shuang hua pian	复方双花片	3
+fu fang tu jin pi ding	复方土槿皮酊	3
+fu fang wu er quan	复方戊二醛	3
+fu fang yi mu kou fu ye	复方益母口服液	3
+fu fang yu xing cao he ji	复方鱼腥草合剂	3
+fu fang zhen zhu kou chuang ke li	复方珍珠口疮颗粒	3
+fu fang zuo gui nuo yun tong	复方左炔诺孕酮	3
+fu fen nai jing	氟奋乃静	3
+fu feng lu gao mo	扶风鹿羔馍	3
+fu gao nang zhong	附睾囊肿	3
+fu guang zhai	傅光宅	3
+fu gui bu yin pin jian le	富贵不淫贫贱乐	3
+fu gui ren	福贵人	3
+fu gui yu ying er	复归于婴儿	3
+fu heng	傅亨	3
+fu hong	苻洪	3
+fu jia chuan zhen	符家川镇	3
+fu jian chuang hu ming	复见窗户明	3
+fu jian hui an xian chong wu zhen	福建惠安县崇武镇	3
+fu jian jin jiang shi jin jing zhen	福建晋江市金井镇	3
+fu jian jin jiang shi yong he zhen	福建晋江市永和镇	3
+fu jian nan an shi guan qiao zhen	福建南安市官桥镇	3
+fu jian shi shi shi han jiang zhen	福建石狮市蚶江镇	3
+fu jie	跗节	3
+fu jing cun	福井村	3
+fu kan xiang	福坎乡	3
+fu ke zhi dai pian	妇科止带片	3
+fu ke zhi yang jiao nang	妇科止痒胶囊	3
+fu le bei li	富乐北里	3
+fu lei de guang chang	福雷德广场	3
+fu li de bao yun shi keng	弗里德堡陨石坑	3
+fu ling cun	福岭村	3
+fu ling jun	涪陵郡	3
+fu liu xue	复溜穴	3
+fu lu pei er	福禄培尔	3
+fu ma suan fu mo te luo	富马酸福莫特罗	3
+fu mei cun	福美村	3
+fu miao	府庙	3
+fu min jing ji kai fa qu	富民经济开发区	3
+fu min qu	富民区	3
+fu nan	复南	3
+fu nan guo tang gan mei	呋喃果糖苷酶	3
+fu ning jiao nang	妇宁胶囊	3
+fu ning men	佛宁门	3
+fu ping jiao nang	妇平胶囊	3
+fu pu she qu	福埔社区	3
+fu qiang dao	富强道	3
+fu qin nan lu	抚琴南路	3
+fu qing bai yi si zhi xi	伏清白以死直兮	3
+fu qing song	氟轻松	3
+fu qiu shan xiang	浮丘山乡	3
+fu rong hai di	芙蓉海底	3
+fu rong shao mai	芙蓉烧麦	3
+fu rong zhang nuan du chun xiao	芙蓉帐暖度春宵	3
+fu shan zhuang xiang	福善庄乡	3
+fu shen ning jiao nang	复肾宁胶囊	3
+fu sheng she qu	福盛社区	3
+fu shi wan quan zuo ji	佛氏完全佐剂	3
+fu shou li	福寿里	3
+fu shou qiao	福寿桥	3
+fu shuo ju yu ban zhu zhi jian	傅说举于版筑之间	3
+fu si zhong	福四中	3
+fu tai pan	副胎盘	3
+fu tang cun	浮塘村	3
+fu tong xi da jie xi kou	阜通西大街西口	3
+fu xi cun	福溪村	3
+fu xi di suan na	夫西地酸钠	3
+fu xi hua	傅惜华	3
+fu xiang lu	福祥路	3
+fu xin pu li	福辛普利	3
+fu xin pu li na pian	福辛普利钠片	3
+fu xin yin	符馨尹	3
+fu xing da	福星大	3
+fu xing hua yuan she qu	福星花园社区	3
+fu xing lu	辅星路	3
+fu xing men	福星门	3
+fu xing zhen	佛星镇	3
+fu xing zhen	匐行疹	3
+fu xiong xiang	傅熊湘	3
+fu yang nong min cheng	富阳农民城	3
+fu yu shi chang	富裕市场	3
+fu yu xian fu lian	富裕县妇联	3
+fu yu yuan she qu	馥郁苑社区	3
+fu yun long	傅云龙	3
+fu zhan bing du	副粘病毒	3
+fu zhao qing tai shang	复照青苔上	3
+fu zhou dian shi zhong xin	福州电视中心	3
+fu zhuang zhen	富庄镇	3
+fu zi kui ran tan yue	夫子喟然叹曰	3
+fu zi ling cun	父子岭村	3
+fu zi xun xun ran shan you ren	夫子循循然善诱人	3
+fu biao qu feng you	斧标驱风油	2
+fu cang xiang	富藏乡	2
+fu chang chuan er wang fan	浮长川而忘反	2
+fu chang jian xi yu er	抚长剑兮玉珥	2
+fu chi you suo duan	夫尺有所短	2
+fu chun cun	福春村	2
+fu da guang chang	富达广场	2
+fu da la bin	氟达拉滨	2
+fu da xin qu dong men	福大新区东门	2
+fu di cun	福地村	2
+fu dong cun	福东村	2
+fu dong jie	富东街	2
+fu dong xiang	府东巷	2
+fu duo si tan	福多司坦	2
+fu fang bei mu lv hua an pian	复方贝母氯化铵片	2
+fu fang ben jia suan ding	复方苯甲酸酊	2
+fu fang bo he nao ruan gao	复方薄荷脑软膏	2
+fu fang chuan bei jing pian	复方川贝精片	2
+fu fang dan shen ke li	复方丹参颗粒	2
+fu fang dan shen wan	复方丹参丸	2
+fu fang di sai mi song ru gao	复方地塞米松乳膏	2
+fu fang gan cao suan gan	复方甘草酸苷	2
+fu fang gang ren pian	复方岗稔片	2
+fu fang ha qing jiao nang	复方蛤青胶囊	2
+fu fang ka tuo pu li pian	复方卡托普利片	2
+fu fang ke chuan jiao nang	复方咳喘胶囊	2
+fu fang liu ju pian	复方柳菊片	2
+fu fang liu suan xin mei su	复方硫酸新霉素	2
+fu fang mu ni zi qi ke li	复方木尼孜其颗粒	2
+fu fang pu gong ying zhu she ye	复方蒲公英注射液	2
+fu fang qu an nai de ru gao	复方曲安奈德乳膏	2
+fu fang qu chong ban jiu ju wan	复方驱虫斑鸠菊丸	2
+fu fang san qi jiao nang	复方三七胶囊	2
+fu fang tan suan gai ke li	复方碳酸钙颗粒	2
+fu fang tong kang zuo ru gao	复方酮康唑乳膏	2
+fu fang tong kang zuo ruan gao	复方酮康唑软膏	2
+fu fang wei dan bai mei ke li	复方胃蛋白酶颗粒	2
+fu fang wei dan bai mei san	复方胃蛋白酶散	2
+fu fang wei ning jiao nang	复方胃宁胶囊	2
+fu fang xi ling jie du pian	复方西羚解毒片	2
+fu fang xin mei su ruan gao	复方新霉素软膏	2
+fu fang xing xiang tu er feng	复方杏香兔耳风	2
+fu fang yi mu cao gao	复方益母草膏	2
+fu fang zang hong hua you	复方藏红花油	2
+fu fang zao ren jiao nang	复方枣仁胶囊	2
+fu feng	阜峰	2
+fu gai yi chi	覆盖义齿	2
+fu gu gou ren dai	腹股沟韧带	2
+fu gu xiang huan yu can qu	妇姑相唤浴蚕去	2
+fu gui bu xiang wang	富贵不相忘	2
+fu gui li qin	氟桂利嗪	2
+fu guo dong	傅国栋	2
+fu he zhi	复合痣	2
+fu hua jie	富华街	2
+fu hua lu kou	富华路口	2
+fu hui lu	福辉路	2
+fu huo luan	副霍乱	2
+fu ji dong dan bai	辅肌动蛋白	2
+fu jia can ji bao xian	附加残疾保险	2
+fu jian an xi xian feng cheng zhen	福建安溪县凤城镇	2
+fu jian fu ding shi bai lin zhen	福建福鼎市白琳镇	2
+fu jian jin jiang shi shen hu zhen	福建晋江市深沪镇	2
+fu jian shi shi shi ling xiu zhen	福建石狮市灵秀镇	2
+fu jian shi shi shi xiang zhi zhen	福建石狮市祥芝镇	2
+fu jiang lu	福姜路	2
+fu jin jia yuan she qu	富锦嘉园社区	2
+fu jun zi zhi ju sang	夫君子之居丧	2
+fu ke fen qing wan	妇科分清丸	2
+fu ke qian jin xi ye	妇科千金洗液	2
+fu ke zai zao wan	妇科再造丸	2
+fu lang xi si pei gen	弗朗西斯培根	2
+fu le cun	复乐村	2
+fu li da pi fa shi chang	福利达批发市场	2
+fu li ji zhen	符离集镇	2
+fu lian cun	福联村	2
+fu ling pi	茯苓皮	2
+fu long yao zu xiang	福龙瑶族乡	2
+fu lv xi lin na	氟氯西林钠	2
+fu min dong lu	富民东路	2
+fu mo hou nong zhong	腹膜后脓肿	2
+fu nan liu an pian	呋喃硫胺片	2
+fu nan tuo yin chang rong pian	呋喃妥因肠溶片	2
+fu nan xi lin rong ye	呋喃西林溶液	2
+fu pi	苻丕	2
+fu qian nong chang	福前农场	2
+fu qiang jing pi qie chu shu	腹腔镜脾切除术	2
+fu qiu shan lin chang	浮邱山林场	2
+fu ren bi zi wu	夫人必自侮	2
+fu rong nan lu xi kou	芙蓉南路西口	2
+fu rong nan lu zhong duan	芙蓉南路中段	2
+fu rong tang wai you qing lei	芙蓉塘外有轻雷	2
+fu ru fang	副乳房	2
+fu ru qie chu shu	副乳切除术	2
+fu run she qu	富润社区	2
+fu san nian zhi sang	夫三年之丧	2
+fu shen san ma ti	俯身散马蹄	2
+fu shi qiu shen xian	服食求神仙	2
+fu shi zhi wei de cao	夫是之谓德操	2
+fu shou jiao nang	福寿胶囊	2
+fu ta an pian	氟他胺片	2
+fu tian cang hai yuan	浮天沧海远	2
+fu tian sha ji	福田沙纪	2
+fu tie cun	福铁村	2
+fu tu	伏兔	2
+fu xi di suan	夫西地酸	2
+fu xi gong ye qu	福溪工业区	2
+fu xi pan	氟西泮	2
+fu xiao fang	付晓芳	2
+fu xie	富歇	2
+fu xing dong lu wai tan	复兴东路外滩	2
+fu xing li jie	复兴里街	2
+fu xing xiao cheng	福星晓程	2
+fu xing zhuang	复兴庄	2
+fu xuan bi mu zuo	负暄闭目坐	2
+fu yan	符验	2
+fu yan hua xu	佛焰花序	2
+fu yan kang fu pian	妇炎康复片	2
+fu yan xiao kou fu ye	妇炎消口服液	2
+fu yang cun	福洋村	2
+fu yang cun	福阳村	2
+fu yang tian di jian	俯仰天地间	2
+fu yin xie bing	副银屑病	2
+fu yuan dong qu	福苑东区	2
+fu yun zhong ri xing	浮云终日行	2
+fu zheng san jie he ji	扶正散结合剂	2
+fu zhou guo lu chang	福州锅炉厂	2
+fu zhou zhan lan cheng	福州展览城	2
+fu zhuang	富庄	2
+fu zhuo yuan she qu	富卓苑社区	2
+fu zi bu xiang jian	父子不相见	2
+fu ai mo da yu xin si	夫哀莫大于心死	1
+fu an ding	氟安定	1
+fu ao lin he wan	富奥临河湾	1
+fu bao mi ding pian	氟胞嘧啶片	1
+fu bei fu shui lian	抚背复谁怜	1
+fu bi cuo shang	腹壁挫伤	1
+fu bing chi zuo mi	斧冰持作糜	1
+fu bo kang mi mu	夫播糠眯目	1
+fu bu tian bu yu	夫不恬不愉	1
+fu bu zi jian er jian bi	夫不自见而见彼	1
+fu can pu yi wei qi	夫残朴以为器	1
+fu cang zhou yu he	夫藏舟于壑	1
+fu chang	福场	1
+fu chang lu	福场路	1
+fu chang si	福昌寺	1
+fu chen hua yuan	府琛花园	1
+fu chou lve duo	复仇掠夺	1
+fu chuang xin liu se	拂窗新柳色	1
+fu chui wan bu tong	夫吹万不同	1
+fu ci hao yuan you	复此好远游	1
+fu dao bu yu za	夫道不欲杂	1
+fu dao zheng ze	福岛正则	1
+fu dao zhuo ru xian	复道浊如贤	1
+fu ding suan	氟啶酸	1
+fu dong li she qu	府东里社区	1
+fu dou cun	福斗村	1
+fu dou cun	福都村	1
+fu er mai yi	弗尔迈伊	1
+fu fa xing a fu ta kui yang	复发性阿弗他溃疡	1
+fu fang a si pi lin pian	复方阿司匹林片	1
+fu fang an fen wan an ke li	复方氨酚烷胺颗粒	1
+fu fang an min hu zhang jiao nang	复方氨敏虎杖胶囊	1
+fu fang bai bu zhi ke tang jiang	复方百部止咳糖浆	1
+fu fang ban mao jiao nang	复方斑蝥胶囊	1
+fu fang bei wu wei zi pian	复方北五味子片	1
+fu fang ben hai la ming cha ji	复方苯海拉明搽剂	1
+fu fang ben jia suan ruan gao	复方苯甲酸软膏	1
+fu fang ben zuo ka yin ning jiao	复方苯佐卡因凝胶	1
+fu fang ben zuo ka yin ruan gao	复方苯佐卡因软膏	1
+fu fang bo he nao	复方薄荷脑	1
+fu fang bu gu zhi ke li	复方补骨脂颗粒	1
+fu fang cha jian ma huang jian	复方茶碱麻黄碱	1
+fu fang chai hu an shen ke li	复方柴胡安神颗粒	1
+fu fang chen xiang wei pian	复方陈香胃片	1
+fu fang chong cao kou fu ye	复方虫草口服液	1
+fu fang chuan xin lian pian	复方穿心莲片	1
+fu fang cu suan fu qing song ding	复方醋酸氟轻松酊	1
+fu fang di fu kou fu ye	复方地茯口服液	1
+fu fang e shu you ruan jiao nang	复方莪术油软胶囊	1
+fu fang feng shi ning pian	复方风湿宁片	1
+fu fang fu mi song ruan gao	复方氟米松软膏	1
+fu fang gan jin gao tang jiang	复方肝浸膏糖浆	1
+fu fang gan mao jiao nang	复方感冒胶囊	1
+fu fang gan mao ling jiao nang	复方感冒灵胶囊	1
+fu fang gan mao pian	复方感冒片	1
+fu fang gu an xian an	复方谷氨酰胺	1
+fu fang gu an xian an ke li	复方谷氨酰胺颗粒	1
+fu fang he xue wan	复方和血丸	1
+fu fang huang bai ye	复方黄柏液	1
+fu fang huang lian su pian	复方黄莲素片	1
+fu fang huang song xi ye	复方黄松洗液	1
+fu fang huang teng xi ye	复方黄藤洗液	1
+fu fang ji xiang cao han pian	复方吉祥草含片	1
+fu fang jia di yun tong pian	复方甲地孕酮片	1
+fu fang jia xiao zuo yin dao shuan	复方甲硝唑阴道栓	1
+fu fang jiao cai suan zhi shuan	复方角菜酸酯栓	1
+fu fang jie geng zhi ke pian	复方桔梗止咳片	1
+fu fang jin yin hua ke li	复方金银花颗粒	1
+fu fang jing jie xun xi ji	复方荆芥熏洗剂	1
+fu fang kang na le shuang	复方康纳乐霜	1
+fu fang ku mu xiao yan pian	复方苦木消炎片	1
+fu fang ku shen xi ji	复方苦参洗剂	1
+fu fang kui ning zhu she ye	复方奎宁注射液	1
+fu fang lin suan ke dai yin pian	复方磷酸可待因片	1
+fu fang ling jiao jiang ya pian	复方羚角降压片	1
+fu fang liu huang ru gao	复方硫黄乳膏	1
+fu fang lu ding pian	复方芦丁片	1
+fu fang lu gan shi wai yong san	复方炉甘石外用散	1
+fu fang lu xian cao ke li	复方鹿仙草颗粒	1
+fu fang luo bu ma pian	复方罗布麻片	1
+fu fang lv hua na zhu she ye	复方氯化钠注射液	1
+fu fang lv yi ding han shu ye	复方氯已定含漱液	1
+fu fang lv zuo sha zong pian	复方氯唑沙宗片	1
+fu fang mu xiang xiao bo jian pian	复方木香小檗碱片	1
+fu fang nan ban lan gen ke li	复方南板蓝根颗粒	1
+fu fang pei gan tie an pian	复方胚肝铁铵片	1
+fu fang pu qin pian	复方蒲芩片	1
+fu fang qian zheng gao	复方牵正膏	1
+fu fang qing guo ke li	复方青果颗粒	1
+fu fang re fu san	复方热敷散	1
+fu fang san qi pian	复方三七片	1
+fu fang shan lang dang jian ruan gao	复方山莨菪碱软膏	1
+fu fang she dan chuan bei mo	复方蛇胆川贝末	1
+fu fang she dan chuan bei san	复方蛇胆川贝散	1
+fu fang shi suan ru gan jun pian	复方嗜酸乳杆菌片	1
+fu fang shi wei jiao nang	复方石韦胶囊	1
+fu fang shou can yi zhi jiao nang	复方手参益智胶囊	1
+fu fang shui yang suan rong ye	复方水杨酸溶液	1
+fu fang tong ye shao shang you	复方桐叶烧伤油	1
+fu fang wan nian qing jiao nang	复方万年青胶囊	1
+fu fang wei mo su jiao nang	复方胃膜素胶囊	1
+fu fang wu wei zi ding	复方五味子酊	1
+fu fang xiong dan yi gan jiao nang	复方熊胆乙肝胶囊	1
+fu fang xue shuan tong ruan jiao nang	复方血栓通软胶囊	1
+fu fang yi gan wan	复方益肝丸	1
+fu fang yi xian shui yang suan	复方乙酰水杨酸	1
+fu fang yin qiao an min jiao nang	复方银翘氨敏胶囊	1
+fu fang yu xing cao jiao nang	复方鱼腥草胶囊	1
+fu fang yu xing cao ruan jiao nang	复方鱼腥草软胶囊	1
+fu fang zeng xiao di bai chong	复方增效敌百虫	1
+fu fang zhang nao ru gao	复方樟脑乳膏	1
+fu fen	附分	1
+fu feng qiao nan	富丰桥南	1
+fu fu jian ji shi yue	夫抚剑疾视曰	1
+fu fu sha ming	氟伏沙明	1
+fu gan lin kou fu ye	馥感啉口服液	1
+fu gao jie he	附睾结核	1
+fu ge lie bo tang jiao nang	伏格列波糖胶囊	1
+fu ge zhuang	付各庄	1
+fu gong hu tian er	夫工乎天而	1
+fu gong jie	富工街	1
+fu gu bu ri yu er bai	夫鹄不日浴而白	1
+fu gu he dan shi	妇姑荷箪食	1
+fu gu jiang zi hua	夫固将自化	1
+fu gu song er pan huan	抚孤松而盘桓	1
+fu guan	腹管	1
+fu guan zhuang xiang	富官庄乡	1
+fu gui bi cong qin ku de	富贵必从勤苦得	1
+fu gui dong dan fang	浮桂动丹芳	1
+fu gui fei wu zhi	富贵非吾志	1
+fu gui qin	氟桂嗪	1
+fu gui shi wei ji	富贵是危机	1
+fu gui wu zi qu	富贵吾自取	1
+fu guo tian cheng	富国天成	1
+fu hai zhen	富海镇	1
+fu han	傅瀚	1
+fu hao xing shi	富豪刑事	1
+fu he chao sheng xin dong tu	负荷超声心动图	1
+fu he ru suan jun jiao nang	复合乳酸菌胶囊	1
+fu he xing kui yang	复合性溃疡	1
+fu he xing xing chi lun	复合行星齿轮	1
+fu he yuan bei men	富河园北门	1
+fu he yuan zhi you	夫何远之有	1
+fu heng jin mo	腹横筋膜	1
+fu hua ji tuan	富华集团	1
+fu huan er gong zhi	夫环而攻之	1
+fu hui hua yuan	福慧花园	1
+fu jia tan lin chang	傅家坛林场	1
+fu jian an xi xian cheng xiang zhen	福建安溪县城厢镇	1
+fu jian de hua xian long xun zhen	福建德化县龙浔镇	1
+fu jian gong shang shi bao	福建工商时报	1
+fu jian hu tong	富建胡同	1
+fu jian jin jiang shi chi dian zhen	福建晋江市池店镇	1
+fu jian jin jiang shi long hu zhen	福建晋江市龙湖镇	1
+fu jian long hai shi jiao mei zhen	福建龙海市角美镇	1
+fu jian shen xue yuan	福建神学院	1
+fu jiang cun	洑江村	1
+fu jiang dao	涪江道	1
+fu jin wu song shan	拂尽五松山	1
+fu ju shao cheng bei	复居少城北	1
+fu jun wan zhi fa wan shi	付君万指伐顽石	1
+fu kang ning jiao nang	妇康宁胶囊	1
+fu ke bai dai gao	妇科白带膏	1
+fu ke bai feng jiao nang	妇科白凤胶囊	1
+fu ke zhi dai jiao nang	妇科止带胶囊	1
+fu kong	腹空	1
+fu lan ming	弗兰明	1
+fu lao cai wu yi	父老财无遗	1
+fu lao kong geng ye	父老空哽咽	1
+fu lao si wu ren	父老四五人	1
+fu lao xi yun ji	父老喜云集	1
+fu lao xiang feng bi yu xin	父老相逢鼻欲辛	1
+fu lao xiang xie ying ci weng	父老相携迎此翁	1
+fu le chong ji	妇乐冲剂	1
+fu li jian ding ning	府吏见丁宁	1
+fu li kang zuo pian	伏立康唑片	1
+fu li wen ci bian	府吏闻此变	1
+fu li xian yuan cui liang mei	伏枥衔冤摧两眉	1
+fu lian ju wei hui	妇联居委会	1
+fu liang	伏梁	1
+fu ling bing gan	茯苓饼干	1
+fu long xiang	福隆乡	1
+fu lu xiang	福录乡	1
+fu lu zhen	富路镇	1
+fu lun er	佛轮尔	1
+fu luo sha xing zhu she ye	氟罗沙星注射液	1
+fu ma suan kui liu ping	富马酸喹硫平	1
+fu ma suan tong ti fen	富马酸酮替芬	1
+fu ma suan yi bing bi lun pian	富马酸异丙吡仑片	1
+fu ma xi ni	氟马西尼	1
+fu mai ding jiao nang	复脉定胶囊	1
+fu mei	傅眉	1
+fu meng nong chang	阜蒙农场	1
+fu min jie dao	富民街道	1
+fu ming zhe shang gou	负命者上钩	1
+fu mo hou chong qi zao ying	腹膜后充气造影	1
+fu mo hou e xing zhong liu	腹膜后恶性肿瘤	1
+fu mo wai pou gong chan shu	腹膜外剖宫产术	1
+fu mo zhi ming er chang zi ran	夫莫之命而常自然	1
+fu nan jia quan	呋喃甲醛	1
+fu nan liu an	呋喃硫胺	1
+fu nan tan ding	呋喃坦啶	1
+fu nv tong jing wan	妇女痛经丸	1
+fu nv wu suo xing	妇女无所幸	1
+fu pai ding chun pian	氟哌啶醇片	1
+fu pei bin	傅培彬	1
+fu pi xia bao	腐皮虾包	1
+fu pin lou	扶贫楼	1
+fu ping	浮坪	1
+fu qian	傅佥	1
+fu qiang nan li she qu	富强南里社区	1
+fu qiao jie	浮桥街	1
+fu qin	茯芩	1
+fu qin wang you hu lang zhi xin	夫秦王有虎狼之心	1
+fu rao xiang	富饶乡	1
+fu ren zhi xiang yu	夫人之相与	1
+fu rong cai xin	芙蓉菜心	1
+fu rong lao qiu shuang	芙蓉老秋霜	1
+fu rong lu wei	芙蓉鹿尾	1
+fu rong ye	芙蓉叶	1
+fu sai mi pian	呋塞米片	1
+fu sang yi cheng xin	扶桑已成薪	1
+fu shan run	福山润	1
+fu she kang shuan mei	蝮蛇抗栓酶	1
+fu she xing bai nei zhang	辐射性白内障	1
+fu sheng jun	腐生菌	1
+fu shi bi ci shi	赋诗必此诗	1
+fu shi luo yang chuan	俯视洛阳川	1
+fu shi zhi wei dao de zhi ji	夫是之谓道德之极	1
+fu shui zai shou qi man bei	覆水再收岂满杯	1
+fu shui zhen	敷水镇	1
+fu shun te gang	抚顺特钢	1
+fu sui zhong guo shang long	扶绥中国上龙	1
+fu tai long guang chang	福泰隆广场	1
+fu te ai hu	福特爱虎	1
+fu te sai	福特赛	1
+fu ti ka song	氟替卡松	1
+fu tian wu bu fu	夫天无不覆	1
+fu tian xiong yi	福田雄一	1
+fu tong ju an	腹痛拒按	1
+fu wan	伏完	1
+fu wei sheng zhe yi mao xing xi	夫维圣哲以茂行兮	1
+fu wei tian xia zhe	夫为天下者	1
+fu wu ying xiao	服务营销	1
+fu xin cun	福新村	1
+fu xin pu li na	福辛普利钠	1
+fu xin pu li pian	福辛普利片	1
+fu xin zhi lu	福新支路	1
+fu xing bao jie dao	富兴堡街道	1
+fu xing dian xian	腹型癫痫	1
+fu xing gai zao	斧形盖蚤	1
+fu xing lu shui xi yuan	复兴路水西园	1
+fu xing xin cun	福星新村	1
+fu xue kang ke li	妇血康颗粒	1
+fu xue kou fu ye	富血口服液	1
+fu yan kang fu jiao nang	妇炎康复胶囊	1
+fu yan kang pian	妇炎康片	1
+fu yan kang wan	妇炎康丸	1
+fu yan man hui tang	凫雁满回塘	1
+fu yan qu jiu zi	夫焉取九子	1
+fu yan tai ke li	妇炎泰颗粒	1
+fu yang liang qing kong	俯仰两青空	1
+fu yang ren jian jin gu	俯仰人间今古	1
+fu yang sui ren yi ke lian	俯仰随人亦可怜	1
+fu yi qin wang zhi wei	夫以秦王之威	1
+fu yi xiang yang meng hao ran	复忆襄阳孟浩然	1
+fu yong lu kou nan	阜永路口南	1
+fu you gan yue zhi jian zhe	夫有干越之剑者	1
+fu yu shi ren leng yan kan	付与时人冷眼看	1
+fu yu xin cun	福屿新村	1
+fu yuan bei qu	福苑北区	1
+fu yue kang jiao nang	妇月康胶囊	1
+fu yun bi bai ri	浮云蔽白日	1
+fu yun lian hai dai	浮云连海岱	1
+fu yun shi shi gai	浮云世事改	1
+fu zhao wo zhe qi tu zai	夫召我者岂徒哉	1
+fu zheng nv zhen su	扶正女贞素	1
+fu zhi cun	福址村	1
+fu zhi qi dian	复制起点	1
+fu zhong cun	福中村	1
+fu zhong lei ming	腹中雷鸣	1
+fu zhou shi chu si hai tiao li	福州市除四害条例	1
+fu zhou ying cai zhong xue	福州英才中学	1
+fu zi bu wei ye	夫子不为也	1
+fu zi he shen you ye	夫子何哂由也	1
+fu zi hua yin ju	夫子华阴居	1
+fu zi jian lao dan	夫子见老聃	1
+fu zi wei wei jun hu	夫子为卫君乎	1
+fu zi xi shi da zhe bu jin	夫自细视大者不尽	1
+fu zi yan bu xue	夫子焉不学	1
+fu zi zhi bu ke ji ye	夫子之不可及也	1
+fu zi zhi qiang shu ren	夫子之墙数仞	1
+fu zi zhi qing ye	父子之情也	1
+fu zi zhi shuo jun zi ye	夫子之说君子也	1
+fu zi zhi wen zhang	夫子之文章	1
+fu zu yi chu qi zi	俯足以畜妻子	1
+fu bao zi chong bing	肤孢子虫病	0
+fu biao sun luo	浮標筍螺	0
+fu cheng hai nan xi xie	府城海南溪蟹	0
+fu dao jia le bi hai bao luo	佛岛加勒比海宝螺	0
+fu de jiao fu wei	佛得角副鳚	0
+fu de jiao yuan wei hu	佛得角圆尾鹱	0
+fu de jiao zhen ju kou yu	佛得角真巨口鱼	0
+fu di mo mao	伏地魔猫	0
+fu ding hei jiao ma ji	福鼎黑脚麻鸡	0
+fu er mo sha jiang	福尔摩莎鳉	0
+fu er mo sha mang man	福尔摩沙盲鳗	0
+fu fu san mo xian chong	蝠附伞膜线虫	0
+fu guang mao mao chong	腹光矛毛虫	0
+fu hai fang ke	副海鲂科	0
+fu huang wu deng e	腹黄污灯蛾	0
+fu ji guan lun chong	腹棘管轮虫	0
+fu jian cu jiao xiao ye jia	福建粗角肖叶甲	0
+fu jian li gou jian feng	福建犁沟茧蜂	0
+fu jian xiao ye lun chong	浮尖削叶轮虫	0
+fu jian xie dai pu tao tian e	福建斜带葡萄天蛾	0
+fu jing wei shi pan gou chong	斧茎伪似盘钩虫	0
+fu lai ao he zhu	茯莱奥赫蛛	0
+fu lan de si	佛兰德斯	0
+fu lei si te shi ji hua yi	福雷斯特氏棘花鮨	0
+fu lian chang xi ye xi chong	副链肠锡叶吸虫	0
+fu lin da yan xia hu yu	腹鳞大眼鰕虎鱼	0
+fu lu mu shu	副芦木属	0
+fu luo bo nian chong	弗洛伯黏虫	0
+fu luo li da duo guan shui mu	佛罗里达多管水母	0
+fu luo li da hai long	佛罗里达海龙	0
+fu luo li da hong du gui	佛罗里达红肚龟	0
+fu luo li da xie shou luo	佛罗里达蟹守螺	0
+fu luo li si shu shu	弗罗裏斯鼠属	0
+fu mao yang jiao xie	覆毛羊角蟹	0
+fu mo chi shou	副磨齿兽	0
+fu mo yuan xian chong	蝠莫圆线虫	0
+fu mu fu	富墓蝠	0
+fu mu wen chi e	斧木纹尺蛾	0
+fu ni chong gou ji feng	负泥虫沟姬蜂	0
+fu ni chong ji feng	负泥虫姬蜂	0
+fu ni chong ying xiao feng	负泥虫缨小蜂	0
+fu ni chong you jian feng	负泥虫优茧蜂	0
+fu qian ding shi zhong fen shu	副前丁氏中鼢鼠	0
+fu rui zi zhang hui tian e	佛瑞兹长喙天蛾	0
+fu sai cong ke	腹鳃蟌科	0
+fu sha qiu mao shou chong	副沙鳅锚首虫	0
+fu shi bu wan quan zuo ji	佛氏不完全佐剂	0
+fu shi niu zhu	弗氏纽蛛	0
+fu shi qi kang ji man	弗氏奇康吉鳗	0
+fu shi si gou chong shu	副似四钩虫属	0
+fu tai juan guan luo	福態捲管螺	0
+fu wa mu li	覆瓦牡蛎	0
+fu wei ye jia	腹伪叶甲	0
+fu wen chang yu	副文昌鱼	0
+fu wen suo you	辐纹簑鮋	0
+fu xi chan	孵溪蟾	0
+fu xie chi ruo mei diao	副蟹齿若梅鲷	0
+fu xin shi chong wu yi yuan	阜新市宠物医院	0
+fu xing chong ke	斧形虫科	0
+fu xing ye ling	鮄形野鲮	0
+fu you mu si jie fu ke	蜉蚴目四节蜉科	0
+fu ze rui wei yu jiang yu	佛泽瑞尾鱼将鱼	0
+fu zhan hou pan yu	腹盏喉盘鱼	0
+fu zhi gu yuan duan xue guan kong	跗跖骨远端血管孔	0
+fu zhou shi xiao mo xiang jing	佛洲似小抹香鲸	0
+fu zhou tian tian quan gui	佛州甜甜圈龟	0
+fu zhui xiao yi chong xiu	腹锥小异虫脩	0
+fu zu fu wei lun chong	腹足腹尾轮虫	0

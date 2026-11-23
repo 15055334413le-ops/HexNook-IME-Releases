@@ -1,0 +1,49 @@
+gui zhou mao tai	贵州茅台	500
+gui suan lv	硅酸铝	282
+gui suan gai	硅酸钙	267
+gui fei ji	贵妃鸡	249
+gui fa xiang	桂发祥	216
+gui hua nuo mi ou	桂花糯米藕	171
+gui hua tang ou	桂花糖藕	169
+gui fa xiang ma hua	桂发祥麻花	168
+gui ping xi shan cha	桂平西山茶	129
+gui hua gan bei	桂花干贝	124
+gui fei ji chi	贵妃鸡翅	119
+gui hua li zi geng	桂花栗子羹	117
+gui hua lian ou	桂花莲藕	113
+gui hua chou jiu	桂花稠酒	112
+gui hua chi zi	桂花翅子	111
+gui fei bing	贵妃饼	107
+gui hua tang nian gao	桂花糖年糕	107
+gui hua xian li geng	桂花鲜栗羹	104
+gui lin tian luo	桂林田螺	99
+gui hua jiu niang yuan xiao	桂花酒酿元宵	98
+gui lin su tang	桂林酥糖	94
+gui fei ji huo guo	贵妃鸡火锅	93
+gui lv suan na	硅铝酸钠	90
+gui hua chi dou tang	桂花赤豆汤	87
+gui hua he tao dong	桂花核桃冻	85
+gui hua tang da li	桂花糖大栗	85
+gui hua tang yu nai	桂花糖芋艿	85
+gui hua tian jiu niang	桂花甜酒酿	83
+gui lin song gao	桂林松糕	83
+gui ma niu rou	鬼马牛肉	77
+gui hua da tou cai	桂花大头菜	75
+gui shan cha	龟山茶	72
+gui lv suan gai	硅铝酸钙	69
+gui yu nai you dong	鲑鱼奶油冻	69
+gui hua zha gao	桂花楂糕	67
+gui suan yi zhi	癸酸乙酯	67
+gui hua li bing	桂花栗饼	64
+gui yuan yang rou bao	桂圆羊肉煲	64
+gui he yan nian tang	龟鹤延年汤	61
+gui hua chao mi gao	桂花炒米糕	61
+gui hua la jiang jie	桂花辣酱芥	61
+gui hua li zi su	桂花栗子酥	61
+gui lin zong zi	桂林粽子	61
+gui hua hong shao rou	桂花红烧肉	57
+gui can shan yao zhu yao	归参山药猪腰	52
+gui fei song hua bing	贵妃松花饼	52
+gui hua bai tang bing	桂花白糖饼	52
+gui hua gan lan	桂花橄榄	52
+gui hua bai tang tian cai tiao	桂花白糖甜菜条	44

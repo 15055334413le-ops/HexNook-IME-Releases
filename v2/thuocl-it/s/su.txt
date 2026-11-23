@@ -1,0 +1,15 @@
+su shu da biao	素数打表	246
+su yin zi fen jie	素因子分解	242
+su shu pan ding	素数判定	240
+su shu pan duan	素数判断	223
+su shu shai	素数筛	223
+su shu huan	素数环	208
+su shu shai fa	素数筛法	208
+su lv kong zhi	速率控制	205
+su shu shai xuan	素数筛选	204
+su zhu xi tong	宿主系统	194
+su shu shai xuan fa	素数筛选法	182
+su shu fen jie	素数分解	180
+su zhu ying yong cheng xu	宿主应用程序	163
+su xing ce shi	素性测试	152
+su du chuan gan qi	速度传感器	149

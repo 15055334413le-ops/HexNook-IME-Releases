@@ -1,0 +1,11 @@
+drsj	读入数据	451
+drxm	导入项目	436
+drdc	淡入淡出	429
+dryx	读入一行	323
+drw	单任务	315
+drwcl	多任务处理	299
+drwgl	多任务管理	159
+drw	读任务	157
+drlccq	大容量存储器	156
+drscmp	电容式触摸屏	154
+drwbc	多任务编程	133

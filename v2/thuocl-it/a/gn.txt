@@ -1,0 +1,17 @@
+gnl	功能类	492
+gnmx	概念模型	344
+gnkf	功能开发	334
+gnk	功能块	295
+gnfj	功能分解	254
+gnbj	功能部件	240
+gnsjmx	概念数据模型	237
+gnjg	功能结构	223
+gnmx	功能模型	218
+gnms	概念模式	198
+gnxx	归纳学习	170
+gnxm	功能项目	150
+gnsy	概念术语	141
+gnfx	概念分析	137
+gnyf	功能语法	125
+gngy	功能规约	118
+gnfl	概念分类	96

@@ -1,0 +1,41 @@
+zheng xing bian liang	整型变量	487
+zheng ze pi pei	正则匹配	430
+zheng ze biao da	正则表达	316
+zheng shu lian	证书链	286
+zheng shu guan li	证书管理	284
+zheng chang xiang ying	正常响应	267
+zheng shu guo qi	证书过期	264
+zheng xiang dai li	正向代理	262
+zheng shu hua fen	整数划分	226
+zheng shu chai fen	整数拆分	221
+zheng jiao bian huan	正交变换	220
+zheng que xing zheng ming	正确性证明	212
+zheng shu fen jie	整数分解	210
+zheng ti er fen	整体二分	203
+zheng shu wu xiao	证书无效	198
+zheng nan ze fan	正难则反	193
+zheng shu zhuang tai	证书状态	186
+zheng shu hua fen wen ti	整数划分问题	178
+zheng shu shi xiao	证书失效	175
+zheng yong tiao jian	争用条件	174
+zheng shi ce shi	正式测试	164
+zheng ze yu yan	正则语言	147
+zheng gui wen fa	正规文法	145
+zheng jian shi bie	证件识别	145
+zheng ban yan zheng	正版验证	139
+zheng ze xu	正则序	123
+zheng shu xian xing gui hua	整数线性规划	119
+zheng shu zuo fei biao	证书作废表	115
+zheng xiang tui li	正向推理	115
+zheng bi bao	正闭包	114
+zheng ju li lun	证据理论	112
+zheng ming shu	证明树	108
+zheng shu fei chu	证书废除	107
+zheng shu guan li ji gou	证书管理机构	107
+zheng yi	正易	105
+zheng wen bian ji	正文编辑	101
+zheng pian die jia	正片叠加	98
+zheng ti guang zhao mo xing	整体光照模型	96
+zheng jiao xiao bo bian huan	正交小波变换	94
+zheng wen bian ji qi	正文编辑器	86
+zheng ze xing shi	正则形式	86

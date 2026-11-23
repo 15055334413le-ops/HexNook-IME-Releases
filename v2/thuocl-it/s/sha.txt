@@ -1,0 +1,6 @@
+sha si jin cheng	杀死进程	389
+sha jin cheng	杀进程	304
+sha he lu jing	沙盒路径	274
+sha he ji zhi	沙盒机制	270
+sha du yin qing	杀毒引擎	158
+sha ruan chang shang	杀软厂商	93

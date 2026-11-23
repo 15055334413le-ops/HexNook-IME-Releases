@@ -1,0 +1,121 @@
+hong shao yu	红烧鱼	313
+hong cheng	红橙	297
+hong shao shi zi tou	红烧狮子头	258
+hong sui cha	红碎茶	250
+hong bin lou	鸿宾楼	246
+hong shao niu rou mian	红烧牛肉面	237
+hong shao zhu ti	红烧猪蹄	229
+hong shao li yu	红烧鲤鱼	218
+hong dou zhou	红豆粥	217
+hong gao	烘糕	202
+hong shu fen si	红薯粉丝	196
+hong shu zhou	红薯粥	189
+hong cu li	红醋栗	186
+hong hua huang	红花黄	184
+hong shan yu	烘山芋	177
+hong shu fen tiao	红薯粉条	176
+hong you chao shou	红油抄手	176
+hong men rou	红焖肉	168
+hong qu hong	红曲红	163
+hong shao niu nan	红烧牛腩	156
+hong shu fan	红薯饭	156
+hong shao yu kuai	红烧鱼块	154
+hong shao hai can	红烧海参	153
+hong shao zhu shou	红烧猪手	145
+hong shao xiong zhang	红烧熊掌	142
+hong shao da xia	红烧大虾	140
+hong wan zi	红丸子	138
+hong shao hua shui	红烧划水	136
+hong ya wai wei tao	红芽歪尾桃	135
+hong shao ti jin	红烧蹄筋	131
+hong zao nian gao	红枣年糕	131
+hong shao wu hua rou	红烧五花肉	126
+hong you ji kuai	红油鸡块	125
+hong shao suo zi xie	红烧梭子蟹	124
+hong shao tu tou	红烧兔头	123
+hong zao fu ling zhou	红枣茯苓粥	120
+hong shao ye ya	红烧野鸭	118
+hong you du si	红油肚丝	116
+hong shao hui yu	红烧鮰鱼	114
+hong mi hong	红米红	113
+hong zao ju hua zhou	红枣菊花粥	113
+hong jiao niang rou	红椒酿肉	111
+hong song bao	红松宝	111
+hong xia su xin tang	红虾酥心糖	111
+hong shao niu rou guan tou	红烧牛肉罐头	104
+hong xing tu ding	红星兔丁	103
+hong ba yu chi	红扒鱼翅	102
+hong shao dong gua	红烧冬瓜	101
+hong jiang ya	洪江鸭	94
+hong shao cao yu	红烧草鱼	94
+hong xing tai	鸿兴泰	94
+hong zhou zi	红肘子	94
+hong you tu ding	红油兔丁	93
+hong miao su bing	红庙酥饼	90
+hong dou ji	洪都鸡	89
+hong guo cha	红果茶	89
+hong shao li zi ji	红烧栗子鸡	88
+hong dou zhi shi	红豆芝士	87
+hong men hai can	红焖海参	84
+hong jiu zhu pai	红酒猪排	83
+hong shao zhu ti zi	红烧猪蹄子	83
+hong shao ni	红苕泥	82
+hong luo bo pai gu tang	红萝卜排骨汤	79
+hong shao xia ba	红烧下巴	79
+hong dou li yu tang	红豆鲤鱼汤	77
+hong shao gu lu rou	红烧咕噜肉	77
+hong shao quan gou	红烧全狗	77
+hong mei pai cui song tang	红梅牌脆松糖	74
+hong pao lian zi	红袍莲子	74
+hong shao chi bei	红烧赤贝	74
+hong song gui yu	红松鳜鱼	74
+hong you ya zi	红油鸭子	74
+hong zi ji si huang gua	洪字鸡丝黄瓜	74
+hong shan qiao guang bing	洪山桥光饼	72
+hong shao zhu du	红烧猪肚	72
+hong si cai	红丝菜	72
+hong shao juan ji	红烧卷鸡	69
+hong yan tang	红颜汤	69
+hong dong lao zao	洪洞醪糟	67
+hong la jiao bao chao shan pian	红辣椒爆炒鳝片	67
+hong wan shou	红万寿	67
+hong men yang tou	红焖羊头	64
+hong shao bing	红苕饼	64
+hong shao hua shui	红烧滑水	64
+hong shao zhu yao	红烧猪腰	64
+hong shu kuan fen	红薯宽粉	64
+hong zao yi ren zhou	红枣薏仁粥	64
+hong dou bai he tang shui	红豆百合糖水	61
+hong qi huo yu	红杞活鱼	61
+hong shu suan nai	红薯酸奶	61
+hong ka li jin gua jia ji ya	红咖喱金瓜加积鸭	57
+hong qing ting yu tou huo guo	红蜻蜓鱼头火锅	57
+hong shao qi lin mian	红烧麒麟面	57
+hong shao zhu nao	红烧猪脑	57
+hong xi bao	红喜包	57
+hong zao yu si	红糟鱼丝	57
+hong ba pai chi	红扒排翅	52
+hong cha bing gan	红茶饼干	52
+hong cha fa shi bao bing	红茶法式薄饼	52
+hong cha hai mian dan gao	红茶海绵蛋糕	52
+hong jiao bao xian xia	红椒爆鲜虾	52
+hong jiu niu nan	红酒牛腩	52
+hong qi shun fan guan	鸿起顺饭馆	52
+hong qiao lv dou gao	虹桥绿豆糕	52
+hong shao fu pi	红烧浮皮	52
+hong tang guo kui	红糖锅盔	52
+hong you chao shou jiang	红油抄手酱	52
+hong zao dun li	红枣炖梨	52
+hong zao gou qi nai	红枣枸杞奶	52
+hong zao hong tang zhu nan gua	红枣红糖煮南瓜	52
+hong zao su rou	红枣酥肉	52
+hong bai guo ren tang	红白果仁汤	44
+hong cong shao la rou	红葱烧腊肉	44
+hong dou lian zao zong	红豆莲枣粽	44
+hong dou yuan zai tang	红豆圆仔汤	44
+hong hua tan xiang cha	红花檀香茶	44
+hong lian shao bing	红脸烧饼	44
+hong lou gao dian	红楼糕点	44
+hong shao hou tou mo	红烧猴头蘑	44
+hong tang mi hua tang	红糖米花糖	44
+hong zao dun ji yu tang	红枣炖鲫鱼汤	44

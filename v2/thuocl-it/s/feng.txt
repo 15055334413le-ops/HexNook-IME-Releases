@@ -1,0 +1,8 @@
+feng zhuang xing	封装性	491
+feng zhuang lei	封装类	474
+feng zhuang ku	封装库	304
+feng zhuang qi	封装器	271
+feng zhuang ge shi	封装格式	197
+feng zhuang gong ju lei	封装工具类	192
+feng zhuang ji cheng duo tai	封装继承多态	156
+feng suo li du	封锁粒度	148

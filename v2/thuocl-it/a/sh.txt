@@ -1,0 +1,16 @@
+shjc	守护进程	605
+shxc	守护线程	421
+shc	双缓冲	359
+shcx	守护程序	340
+shlj	沙盒路径	274
+shjz	沙盒机制	270
+shhfx	社会化分享	266
+shc	双缓存	260
+shhmt	社会化媒体	227
+shgcx	社会工程学	214
+shhzj	社会化组件	212
+shzn	审核指南	211
+shbj	审核被拒	158
+shgd	闪回归档	133
+shrsb	说话人识别	133
+shx	守恒性	118

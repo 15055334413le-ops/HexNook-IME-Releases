@@ -1,0 +1,94 @@
+chou bei	筹备	70317
+chou ji	筹集	48582
+chou xiang lei	抽象类	44620
+chou dou fu	臭豆腐	33437
+chou xiang fang fa	抽象方法	20568
+chou zi	筹资	20509
+chou jiang	抽奖	19408
+chou yang	抽样	15700
+chou ma	筹码	11840
+chou yang diao cha	抽样调查	8954
+chou chu	抽搐	7121
+chou xiang gong chang	抽象工厂	5083
+chou xiang gong chang mo shi	抽象工厂模式	4426
+chou xiang ji lei	抽象基类	4202
+chou xiang xing zheng xing wei	抽象行政行为	2990
+chou tao chu zi	抽逃出资	2801
+chou xiang shu ju lei xing	抽象数据类型	1950
+chou chu man zhi	踌躇满志	1914
+chou si bo jian	抽丝剥茧	1701
+chou xiang ceng ci	抽象层次	1541
+chou mei bu zhan	愁眉不展	1453
+chou xiang han shu	抽象函数	1242
+chou mei ku lian	愁眉苦脸	1181
+chou shu	丑数	826
+chou ti yuan li	抽屉原理	704
+chou ti xiao guo	抽屉效果	628
+chou tao chu zi zui	抽逃出资罪	581
+chou xiang dai shu	抽象代数	522
+chou gui yu	臭鳜鱼	476
+chou yang wu cha	抽样误差	463
+chou bu ke wen	臭不可闻	426
+chou chong	臭虫	356
+chou tai bai chu	丑态百出	334
+chou gui yu	臭桂鱼	285
+chou ming yuan yang	臭名远扬	266
+chou chu bu qian	踌躇不前	245
+chou yun can wu	愁云惨雾	228
+chou mei jin suo	愁眉紧锁	144
+chou chang bai jie	愁肠百结	128
+chou yun can dan	愁云惨淡	92
+chou tai bi lu	丑态毕露	51
+chou mi xing	稠密性	49
+chou dao duan shui shui geng liu	抽刀断水水更流	43
+chou dao duan shui	抽刀断水	38
+chou xian	臭腺	37
+chou ren xiang jian	仇人相见	35
+chou xiao	仇晓	34
+chou chu bu jue	踌躇不决	32
+chou ren xiang jian fen wai yan hong	仇人相见分外眼红	30
+chou ming zhao zhang	臭名昭彰	25
+chou shen shi hai	仇深似海	23
+chou bi	仇毕	14
+chou ti hu tong	抽屉胡同	10
+chou qian shen	抽签审	9
+chou dong hui yu zong he zheng	抽动秽语综合症	7
+chou kai	仇垲	7
+chou lian	仇连	6
+chou shu tang zhen	稠树塘镇	6
+chou si kan chun bu dang chun	愁思看春不当春	6
+chou zao xi yang zhi	愁噪夕阳枝	6
+chou han zheng	臭汗症	4
+chou yi ya ke	臭蚁亚科	4
+chou yun can dan wan li ning	愁云惨淡万里凝	4
+chou qian lun ci chang huan fa	抽签轮次偿还法	3
+chou chang nian ban bai	惆怅年半百	2
+chou dian	仇店	2
+chou xian hui bi yuan ze	仇嫌回避原则	2
+chou yan yu shuai bin	愁颜与衰鬓	2
+chou yin bo mu qi	愁因薄暮起	2
+chou zhang si ma zeng mo	酬张司马赠墨	2
+chou zhao ao	仇兆鳌	2
+chou bin ming chao you yi nian	愁鬓明朝又一年	1
+chou chang dai jiu shu	愁肠待酒舒	1
+chou chang kong zhi si hou hui	惆怅空知思后会	1
+chou chang nan zai shu	惆怅难再述	1
+chou chang nian hua an huan	惆怅年华暗换	1
+chou chang zhong he ji	惆怅中何寄	1
+chou chu er yan hang	踌躇而雁行	1
+chou di qu tang guan shang cao	愁抵瞿唐关上草	1
+chou hai sui wo shang gao lou	愁还随我上高楼	1
+chou le tian yong lao jian shi	酬乐天咏老见示	1
+chou lou zhen	仇楼镇	1
+chou qing xiang yu xuan	愁情相与悬	1
+chou ren zheng zai shu chuang xia	愁人正在书窗下	1
+chou ren zhi ye zhang	愁人知夜长	1
+chou sha fang nian you	愁杀芳年友	1
+chou ti shi yan	抽屉试验	1
+chou weng xiao kou da nan kai	愁翁笑口大难开	1
+chou yun can dan wan li ning	愁云黪淡万里凝	1
+chou dou fu shao ang ci yu	臭豆腐烧昂刺鱼	0
+chou piao qi xia hu yu	丑瓢鳍鰕虎鱼	0
+chou shuang ji mao wen hai long	丑双棘矛吻海龙	0
+chou shui ban	臭水螌	0
+chou zhu xia hu yu	丑侏鰕虎鱼	0

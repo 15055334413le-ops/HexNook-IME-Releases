@@ -1,0 +1,572 @@
+hai xian	海鲜	309902
+hai yang	海洋	93290
+hai dai	海带	86704
+hai guan	海关	50242
+hai nan sheng	海南省	45812
+hai yan	海盐	34140
+hai dian	海淀	20666
+hai di	海底	16986
+hai hong	海红	15798
+hai kou shi	海口市	14466
+hai zhe	海蜇	14343
+hai bin	海滨	12889
+hai liang shu ju	海量数据	8796
+hai er	海尔	8513
+hai shi fa yuan	海事法院	7142
+hai gang	海港	6484
+hai hang	海航	5797
+hai bao	海豹	4221
+hai fang	海防	3613
+hai qun zhi ma	害群之马	3557
+hai ning	海宁	3372
+hai ma	海马	3314
+hai he	海河	3223
+hai na bai chuan	海纳百川	3085
+hai ren ting wen	骇人听闻	2796
+hai dai si	海带丝	2582
+hai di shi jie	海底世界	2096
+hai zao suan na	海藻酸钠	2066
+hai xian tang	海鲜汤	2039
+hai xin sha	海心沙	1944
+hai lun	海伦	1833
+hai kuo tian kong	海阔天空	1775
+hai an	海安	1676
+hai liang shu ju chu li	海量数据处理	1649
+hai long	海龙	1565
+hai shui yu chang	海水浴场	1559
+hai la er	海拉尔	1393
+hai cang	海沧	1328
+hai yang	海阳	1136
+hai ming wei	海明威	1074
+hai qing	海清	1070
+hai shi shen lou	海市蜃楼	1068
+hai dong	海东	1001
+hai jun si ling bu	海军司令部	990
+hai xing	海星	969
+hai feng	海丰	952
+hai ning shi	海宁市	950
+hai mian dan gao	海绵蛋糕	864
+hai men shi	海门市	821
+hai bin gong yuan	海滨公园	786
+hai dian qu zheng fu	海淀区政府	783
+hai shu	海曙	757
+hai yu shi yong guan li fa	海域使用管理法	724
+hai rui	海瑞	720
+hai tang gao	海棠糕	651
+hai bei	海北	639
+hai zhu guang chang	海珠广场	632
+hai tang guo	海棠果	626
+hai shi qiang zhi ling	海事强制令	562
+hai de	海德	553
+hai ci can	海刺参	503
+hai na	海纳	487
+hai li jian	海蛎煎	472
+hai zhu ke yun zhan	海珠客运站	456
+hai dai jie	海带结	451
+hai shang bao xian he tong	海上保险合同	450
+hai shi shan meng	海誓山盟	426
+hai nan sheng qiong hai shi	海南省琼海市	425
+hai shi qing qiu bao quan	海事请求保全	410
+hai ling	海陵	396
+hai yang shi	海阳市	394
+hai cheng shi	海城市	387
+hai si	海斯	384
+hai lun shi	海伦市	377
+hai shang shi jie	海上世界	372
+hai dong di qu	海东地区	367
+hai nan zhou	海南州	358
+hai shang sheng ming yue	海上生明月	344
+hai ren bu qian	害人不浅	343
+hai yue	海月	341
+hai shang jiao tong an quan fa	海上交通安全法	337
+hai yan	海岩	335
+hai mian ti	海绵体	331
+hai xi zhou	海西州	318
+hai guan da lou	海关大楼	313
+hai xian pin pan	海鲜拼盘	298
+hai jiao	海椒	288
+hai yuan	海原	285
+hai bin lu	海滨路	282
+hai kuo ping yu yue	海阔凭鱼跃	270
+hai nei cun zhi ji	海内存知己	267
+hai xing	海兴	261
+hai lu feng	海陆丰	260
+hai shan	海山	258
+hai yun cang	海运仓	257
+hai quan wan	海泉湾	255
+hai dai pai gu tang	海带排骨汤	251
+hai bei zhou	海北州	246
+hai dian huang zhuang	海淀黄庄	239
+hai mian dong wu	海绵动物	231
+hai tai	海泰	229
+hai dian jiao tong zhi dui	海淀交通支队	220
+hai de ge er	海德格尔	212
+hai yang ruan ti dong wu	海洋软体动物	205
+hai cheng xian bing	海城馅饼	204
+hai fu tong	海富通	204
+hai dian gong yuan	海淀公园	201
+hai pu rui	海普瑞	200
+hai shi da xue	海事大学	196
+hai yin ci	海因茨	192
+hai hua	海华	190
+hai di huo shan	海底火山	184
+hai kang	海康	182
+hai ning lu	海宁路	180
+hai lin shi	海林市	168
+hai dan	海膽	163
+hai yan	海晏	162
+hai mi dong gua	海米冬瓜	159
+hai nie	海涅	155
+hai xin	海欣	143
+hai dian nan lu	海淀南路	140
+hai shi bao gao	海事报告	140
+hai shang lv ke yun shu he tong	海上旅客运输合同	132
+hai wei	海尾	130
+hai xian jie	海鲜街	130
+hai guan	海管	129
+hai ku shi lan	海枯石烂	128
+hai ji yu	海鲫鱼	126
+hai jun qian ting xue yuan	海军潜艇学院	120
+hai xie zi	海蝎子	118
+hai yan	海宴	118
+hai nan lu	海南路	116
+hai er xiang	孩儿巷	114
+hai yang yao wu	海洋药物	114
+hai bin yong chang	海滨泳场	106
+hai tou	海头	106
+hai xian xiao dou fu	海鲜小豆腐	106
+hai shi zhai quan deng ji	海事债权登记	103
+hai shui yu	海水浴	103
+hai yi jiu dian	海逸酒店	101
+hai zhang lang	海蟑螂	101
+hai tian jin biao sheng chou	海天金标生抽	100
+hai jing hua yuan	海景花园	99
+hai yan he qing	海晏河清	99
+hai tan	海坛	98
+hai yu you chang shi yong zhi du	海域有偿使用制度	96
+hai tun guan	海豚馆	94
+hai ma gong cha	海马宫茶	90
+hai sheng	海升	88
+hai jiao tian ya	海角天涯	87
+hai di lao zhen	海底捞针	86
+hai liang shu ju wa jue	海量数据挖掘	86
+hai kuo tian gao	海阔天高	83
+hai mian zhuang xue guan liu	海绵状血管瘤	81
+hai jiao shi	海椒市	79
+hai men gang	海门港	77
+hai shang sheng ming yue	海上升明月	77
+hai liang fen	海凉粉	76
+hai niu mu	海牛目	74
+hai wai jiao tong shi bo wu guan	海外交通史博物馆	72
+hai you lu	海游路	72
+hai di lao yue	海底捞月	69
+hai guang	海光	69
+hai luo jiao	海萝胶	68
+hai dian zhen	海淀镇	65
+hai li	海立	63
+hai fang lu	海防路	60
+hai yu	海渔	60
+hai zao suan jia	海藻酸钾	60
+hai bu yang bo	海不扬波	59
+hai guan gu jia xie yi	海关估价协议	59
+hai tian hai xian jiang	海天海鲜酱	59
+hai bin qu	海滨区	58
+hai dai	海岱	58
+hai lan xin	海兰信	58
+hai shi dan bao	海事担保	57
+hai tu jiang	海兔酱	57
+hai shen geng	海参羹	55
+hai chao lu	海潮路	53
+hai tian hai xian jiang you	海天海鲜酱油	53
+hai yue qiao	海月桥	53
+hai shen su	海参酥	52
+hai ying	海萤	52
+hai la er shi	海拉尔市	51
+hai men lu	海门路	51
+hai shi zhong cai cai jue	海事仲裁裁决	50
+hai lun zhe	海伦哲	49
+hai neng da	海能达	49
+hai tan yang zhi	海滩养殖	48
+hai wei mian	海味面	48
+hai shen dun shou rou	海参炖瘦肉	46
+hai fu xiang	海福巷	45
+hai zhi di guo yu long zu	海之帝国鱼龙族	45
+hai zi yan xiang	海子沿乡	45
+hai mian dou	海绵窦	43
+hai shu jiao jing da dui	海曙交警大队	43
+hai xian gu	海鲜菇	43
+hai yang wen hua jie	海洋文化节	43
+hai yin qiao nan	海印桥南	42
+hai an hua yuan	海岸花园	41
+hai la su	海拉苏	41
+hai liang lian jie	海量连接	41
+hai te hua yuan	海特花园	39
+hai yang xian	海阳县	39
+hai yun yuan	海韵园	39
+hai tong dao	海通道	38
+hai nan ye zi chuan	海南椰子船	37
+hai wang ji tuan	海王集团	37
+hai da ji tuan	海大集团	36
+hai shan lu	海山路	36
+hai shang cai chan	海上财产	36
+hai shang ming yue gong chao sheng	海上明月共潮生	36
+hai yun cang she qu	海运仓社区	36
+hai jiang lu	海江路	35
+hai kang xian	海康县	35
+hai lian xun	海联讯	35
+hai zi jiao	海子角	35
+hai he dong lu	海河东路	34
+hai yue hua yuan	海月花园	33
+hai gang zhong xin	海港中心	32
+hai cheng xian	海城县	31
+hai dai cha	海带茶	30
+hai jiao mi feng	海角蜜蜂	30
+hai ming wei	海鸣威	30
+hai bin she qu	海滨社区	29
+hai dian zhan	海淀站	29
+hai lang jing tao	骇浪惊涛	29
+hai li mei da	海立美达	29
+hai xian fang	海鲜舫	29
+hai yang fu you dong wu	海洋浮游动物	29
+hai zao suan bing er chun zhi	海藻酸丙二醇酯	29
+hai bin xin cun	海滨新村	28
+hai chan shi chang	海产市场	28
+hai shi guo ji si fa	海事国际私法	28
+hai yao	海药	28
+hai guan guan wu gong kai ban fa	海关关务公开办法	27
+hai hu tun	海户屯	27
+hai tang gong yuan	海棠公园	27
+hai yang er suo	海洋二所	27
+hai er li zhi chu xiang guan	孩儿立志出乡关	26
+hai ke ying zhou	海客瀛洲	26
+hai nan jia ji ya	海南嘉积鸭	26
+hai tong ji tuan	海通集团	26
+hai bin cun	海滨村	25
+hai jing ling	海精灵	25
+hai lun kai lei	海伦凯勒	25
+hai nan ba ge	海南八哥	25
+hai nan ye zi zhong	海南椰子盅	25
+hai ning xian	海宁县	25
+hai shi su song shi xiao zhi du	海事诉讼时效制度	25
+hai zao tang	海藻糖	25
+hai jin sha	海金沙	24
+hai men cun	海门村	24
+hai shui zhu hai yu	海水煮海鱼	24
+hai ba	海坝	23
+hai gang yi yuan	海港医院	23
+hai tang da dao	海棠大道	23
+hai dian huang zhuang bei	海淀黄庄北	22
+hai dian zhong jie	海淀中街	22
+hai ling	海凌	22
+hai lun xian	海伦县	22
+hai wan da jiu dian	海湾大酒店	22
+hai bao you	海豹油	21
+hai liang cun chu qi	海量存储器	21
+hai cang da dao	海沧大道	20
+hai chao si	海潮寺	20
+hai dong she qu	海东社区	20
+hai jing luo cun	海鶄落村	20
+hai lin xian	海林县	20
+hai men shi qu	海门市区	20
+hai ou ha	海鸥蛤	20
+hai qing lu	海青路	20
+hai xing lu	海兴路	20
+hai jin da qiao	海津大桥	19
+hai luo guan tou	海螺罐头	19
+hai men xian	海门县	19
+hai nuo long	海诺龙	19
+hai xian da hui	海鲜大烩	19
+hai de gu fen	海德股份	18
+hai mian dong wu men	海绵动物门	18
+hai nan luo bo gao	海南萝卜糕	18
+hai shen san da jian	海参三大件	18
+hai tong lu	海桐路	18
+hai dian qu can lian	海淀区残联	17
+hai ning pi cheng	海宁皮城	17
+hai tang xue yuan	海棠学院	17
+hai chao lu kou	海潮路口	16
+hai chuang gong yuan	海幢公园	16
+hai dou gong si	海都公司	16
+hai ju ha	海菊蛤	16
+hai nan da xue hai yang xue yuan	海南大学海洋学院	16
+hai si kai fa	海思开发	16
+hai tang li	海棠里	16
+hai xian shui guo sha la	海鲜水果沙拉	16
+hai yuan zhong lu	海源中路	16
+hai jing luo	海鶄落	15
+hai ling zhen	海陵镇	15
+hai nan gang tie gong si	海南钢铁公司	15
+hai run gong si	海润公司	15
+hai tian cao gu lao chou	海天草菇老抽	15
+hai zhou lu	海洲路	15
+hai de li xi	海德里希	14
+hai lai jiu ju hua	还来就菊花	14
+hai ling wang	海陵王	14
+hai nan ye si bao	海南椰丝包	14
+hai shen wu chang yu	海参武昌鱼	14
+hai shui dan hua mo	海水淡化膜	14
+hai wang ying te long	海王英特龙	14
+hai wei cun	海尾村	14
+hai hong	海洪	13
+hai jiao guan	海交馆	13
+hai ke tan ying zhou	海客谈瀛洲	13
+hai lian da sha	海联大厦	13
+hai bai mi	海白米	12
+hai dong lu jie dao	海东路街道	12
+hai dong xue li	海东雪梨	12
+hai hui si	海慧寺	12
+hai lan zhu	海兰珠	12
+hai mian zu zhi	海绵组织	12
+hai xian pi sa	海鲜匹萨	12
+hai yun cang hu tong	海运仓胡同	12
+hai guan shang pin gu jia gong yue	海关商品估价公约	11
+hai pai luo song tang	海派罗宋汤	11
+hai shang cai chan wu zhu	海上财产无主	11
+hai tan jiu zhu	海滩救助	11
+hai tian te ji cao gu lao chou	海天特级草菇老抽	11
+hai yuan lu	海员路	11
+hai kuan qi	还款期	10
+hai mi ban huang gua	海米拌黄瓜	10
+hai shang chuan bo bao xian he tong	海上船舶保险合同	10
+hai ze tan xiang	海则滩乡	10
+hai bin jie	海滨街	9
+hai chao she qu	海潮社区	9
+hai dai dun ya	海带炖鸭	9
+hai gou shen	海狗肾	9
+hai guan bao shui he cha ban fa	海关保税核查办法	9
+hai shan dao	海山道	9
+hai shan xian zi guo	海山仙子国	9
+hai tian lu	海天路	9
+hai wang jin zun	海王金樽	9
+hai xia xin cun	海霞新村	9
+hai zi tan zhen	海子滩镇	9
+hai la su zhen	海拉苏镇	8
+hai ning shi ci shan zong hui	海宁市慈善总会	8
+hai piao shao	海螵蛸	8
+hai dian qiao dong	海淀桥东	7
+hai ge tong xin	海格通信	7
+hai kuan ji hua	还款计划	7
+hai la xiang	海拉乡	7
+hai mi bai cai tang	海米白菜汤	7
+hai shang you xian shan	海上有仙山	7
+hai cong wu wai qi tian yuan	还从物外起田园	6
+hai gang da jiu dian	海港大酒店	6
+hai hu xi li bei she qu	海户西里北社区	6
+hai hua hua yuan	海华花园	6
+hai ma jie gou	海马结构	6
+hai ma pang hui	海马旁回	6
+hai mao cun	海茂村	6
+hai men shi hai men gang	海门市海门港	6
+hai qin meng jia qi	还寝梦佳期	6
+hai ri sheng can ye	海日生残夜	6
+hai tian huang dou jiang	海天黄豆酱	6
+hai tian lao chou wang	海天老抽王	6
+hai xia zhi sheng dian tai	海峡之声电台	6
+hai dai luo bo tang	海带萝卜汤	5
+hai dai men fan	海带焖饭	5
+hai hong xiao qu	海红小区	5
+hai hua xiao xue	海华小学	5
+hai kun shen xi jiao nang	海昆肾喜胶囊	5
+hai lin lin ye ju	海林林业局	5
+hai long xian	海龙县	5
+hai mi zhen zhu sun	海米珍珠笋	5
+hai sai ke si he ke dan ji	海赛克斯褐壳蛋鸡	5
+hai tai da dao	海泰大道	5
+hai wai tou zi fa	海外投资法	5
+hai xin dian qi	海信电器	5
+hai yang da qiao	海阳大桥	5
+hai yue shang ke qing	海岳尚可倾	5
+hai zheng yao ye	海正药业	5
+hai zi gou xiang	海子沟乡	5
+hai bei jie dao	海北街道	4
+hai bei tou xiang	海北头乡	4
+hai bin dong lu	海滨东路	4
+hai bin wan	海滨湾	4
+hai chao an	海潮庵	4
+hai dan ci shang	海胆刺伤	4
+hai de bao hua yuan	海德堡花园	4
+hai feng teng	海风藤	4
+hai jiang xin cun	海江新村	4
+hai ke wu xin sui bai ou	海客无心随白鸥	4
+hai lu tu zhen	海鲁吐镇	4
+hai luo xing cai	海螺型材	4
+hai rong xin cun	海荣新村	4
+hai shen wan yu	海参碗鱼	4
+hai shen zhou zi	海参肘子	4
+hai tian shang deng hao you	海天上等蚝油	4
+hai tou jie dao	海头街道	4
+hai xian ye pai dang	海鲜夜排档	4
+hai yang hang zheng zhi fa bi du	海洋行政执法必读	4
+hai yu fen zhi gan jun	海鱼分枝杆菌	4
+hai yuan ji xie	海源机械	4
+hai zi jiao dong kou	海子角东口	4
+hai zi jiao xi li	海子角西里	4
+hai bang xi lu	海傍西路	3
+hai bin nan	海滨南	3
+hai dian qiao bei	海淀桥北	3
+hai dian qiao xi	海淀桥西	3
+hai dong a	还懂啊	3
+hai fu shi	海浮石	3
+hai hong cun	海虹村	3
+hai huai	海怀	3
+hai mian shen	海绵肾	3
+hai nan wan li zhen wu xiang	海南万里真吾乡	3
+hai sen bo	海森伯	3
+hai shan xiao ji	海山晓霁	3
+hai shi jiu shi you shang yuan	还似旧时游上苑	3
+hai tian lao chou shi you huang	海天老抽豉油皇	3
+hai wan xiang	海湾乡	3
+hai xian dou fu geng	海鲜豆腐羹	3
+hai xing lei	海星类	3
+hai yang guo ce yan jiu wen ji	海洋国策研究文集	3
+hai yi wan pan	海怡湾畔	3
+hai zao suan gai	海藻酸钙	3
+hai zhi yi shao ke yan ling	还知一勺可延龄	3
+hai zi jiao bei kou	海子角北口	3
+hai da guang chang	海达广场	2
+hai dai ya zi tang	海带鸭子汤	2
+hai lang ji chang	海浪机场	2
+hai li huang	海蛎黄	2
+hai ma duo bian wan	海马多鞭丸	2
+hai mian gu zhen	海绵骨针	2
+hai ming jie dao	海明街道	2
+hai na er	海那尔	2
+hai nai ji guang qi	氦氖激光器	2
+hai pan yun shan yong ji cheng	海畔云山拥蓟城	2
+hai rong tian tian	海容天天	2
+hai shan gong lu	海汕公路	2
+hai shan xian ren jiang luo ru	海山仙人绛罗襦	2
+hai shang xin cun	海上新村	2
+hai shi qin quan sun hai pei chang	海事侵权损害赔偿	2
+hai shi zhai quan que quan	海事债权确权	2
+hai shi zhong cai cheng xu gui ze	海事仲裁程序规则	2
+hai tang bu xi yan zhi se	海棠不惜胭脂色	2
+hai tian wei ji xian	海天味极鲜	2
+hai wan bao chan yu	海湾豹蟾鱼	2
+hai wang sheng wu	海王生物	2
+hai xian fen gan	海鲜粉干	2
+hai xun bei guo sheng	还寻北郭生	2
+hai yan xian xi hai zhen	海晏县西海镇	2
+hai yang xin cun	海阳新村	2
+hai ying shuo zhe yuan xing ren	还应说着远行人	2
+hai zhi yun guang chang	海之韵广场	2
+hai bai he lei	海百合类	1
+hai bao zhong dian se mao	海豹重点色猫	1
+hai bo dao	海波道	1
+hai cang nong chang	海沧农场	1
+hai dai qing re tang	海带清热汤	1
+hai dai zhu gu tang	海带猪骨汤	1
+hai dao cang lang zhuo wu zu	还道沧浪濯吾足	1
+hai dao qing ming wu ji yi	海岛青冥无极已	1
+hai di dian lan fu she chuan	海底电缆敷设船	1
+hai di lu	海地路	1
+hai dian huang zhuang dong	海淀黄庄东	1
+hai dian huang zhuang xi	海淀黄庄西	1
+hai dian nan lu xi kou	海淀南路西口	1
+hai fu zhe xian shi	还赋谪仙诗	1
+hai gao lu	海高路	1
+hai gu wang jiu xiang	还顾望旧乡	1
+hai guan xi yuan she qu	海关西园社区	1
+hai gui dao	海归道	1
+hai hang lu	海航路	1
+hai hong qiao	海洪桥	1
+hai hu xi li nan she qu	海户西里南社区	1
+hai jiang liang xing lei	还将两行泪	1
+hai jiang meng hun qu	还将梦魂去	1
+hai jiang tao li geng xiang yi	还将桃李更相宜	1
+hai jin feng duo jian he ling	海近风多健鹤翎	1
+hai jun she qu	海军社区	1
+hai jun yi ju lei	还君一掬泪	1
+hai ling cun	海陵村	1
+hai liu shi suo xi	海榴世所稀	1
+hai ma ba ji jiao nang	海马巴戟胶囊	1
+hai mi ban cai hua	海米拌菜花	1
+hai mi luo bo tang	海米萝卜汤	1
+hai mi shao cai hua	海米烧菜花	1
+hai mi shao luo bo	海米烧萝卜	1
+hai mian gao	海绵糕	1
+hai mian zhuang lin ba guan liu	海绵状淋巴管瘤	1
+hai na lu	海纳路	1
+hai nan hai yao	海南海药	1
+hai nan hang kong	海南航空	1
+hai nei ren cai shu wo long	海内人才孰卧龙	1
+hai ning yan cang kai fa qu	海宁盐仓开发区	1
+hai ou jie	海鸥街	1
+hai qi na ke xun	还期那可寻	1
+hai qi shi zhe xun xing sao	海气湿蛰熏腥臊	1
+hai ru he xun zai yang zhou	还如何逊在扬州	1
+hai ru yi meng zhong	还如一梦中	1
+hai se ming cu lai	海色明徂徕	1
+hai shen bing	海参饼	1
+hai shen mu er tang	海参木耳汤	1
+hai tai fa zhan er lu	海泰发展二路	1
+hai tai fa zhan liu dao	海泰发展六道	1
+hai tai hua ke jiu lu	海泰华科九路	1
+hai tai hua ke qi lu	海泰华科七路	1
+hai tai nan dao	海泰南道	1
+hai tai xi lu	海泰西路	1
+hai te hua yuan di yi she qu	海特花园第一社区	1
+hai tian xian wei sheng chou	海天鲜味生抽	1
+hai tuo xiang	海坨乡	1
+hai wai zhu xi chang ru shi	海外珠犀常入市	1
+hai wang qing shan guo	还望青山郭	1
+hai wang yin de fei	海王银得菲	1
+hai xi gong	海西公	1
+hai xi hua kai yi jiu shu	还喜花开依旧数	1
+hai xian tie guo shao	海鲜铁锅烧	1
+hai xin lu	海欣路	1
+hai xing zhen	海兴镇	1
+hai ya di yi gong yue	海牙第一公约	1
+hai yang zhong jian shou	海洋中间兽	1
+hai ying niang lao chun	还应酿老春	1
+hai ying shuo zhu yuan xing ren	还应说著远行人	1
+hai you jiang nan feng wu fou	还有江南风物否	1
+hai you jie	海游街	1
+hai yu shi yong quan yan jiu	海域使用权研究	1
+hai yuan dao	海源道	1
+hai yun xiang	海云乡	1
+hai yun ze jiang xi yu nan ming	海运则将徙于南冥	1
+hai zao duo tang kong xin jiao nang	海藻多糖空心胶囊	1
+hai zao qiang	海藻墙	1
+hai zhe tou zi	海蜇头子	1
+hai zhou guan li qu	海州管理区	1
+hai zhu chuan xi ding pian	海珠喘息定片	1
+hai zi jiao cun	海子角村	1
+hai zi jiao she qu	海子角社区	1
+hai di dao shu	海地岛鼠	0
+hai ji cu ji xi	海嵴粗棘蜥	0
+hai jian jing xu wei	海间颈须鳚	0
+hai jiao diao xiao	海角雕鸮	0
+hai jiao ji ling	海角鹡鸰	0
+hai ju ha ke	海菊蛤科	0
+hai jun zhong jiang yu luo	海军中将芋螺	0
+hai kong jiao feng chao shan hu	海孔角蜂巢珊瑚	0
+hai lan rao hui die	海蓝娆灰蝶	0
+hai lian chao mu	海鲢超目	0
+hai lu ke	海鹿科	0
+hai mian jing gan xie	海绵精干蟹	0
+hai nan hui kong que zhi	海南灰孔雀雉	0
+hai nan jie yan chi e	海南接眼尺蛾	0
+hai nan ma lu zhong	海南麻露螽	0
+hai nan mu lian zhi jiao ye feng	海南木莲枝角叶蜂	0
+hai nan shi jiao	海南似鱎	0
+hai nan wu zhi shan da tou yi	海南五指山大头蚁	0
+hai nan xiao mu tian can e	海南鸮目天蚕蛾	0
+hai nan ying hua tian niu	海南萤花天牛	0
+hai nan zhang tun wei	海南长臀鮠	0
+hai niu ke dong wu	海牛科动物	0
+hai niu meng jia die	海牛蒙蛱蝶	0
+hai pan nang gang	海盘囊纲	0
+hai pu tuan gang	海蒲团纲	0
+hai qiao ge yuan	海鞘个员	0
+hai shen pa ji tiao	海参扒鸡条	0
+hai sheng qu nao gan jun	海生屈挠杆菌	0
+hai shi luo	海獅螺	0
+hai tu bao luo	海兔宝螺	0
+hai tun chao ke	海豚超科	0
+hai xia gu luo	海峽骨螺	0
+hai xu	海鱮	0
+hai yang you du dong wu	海洋有毒动物	0
+hai yang yu ye feng xian	海洋渔业风险	0
+hai yao yu dan	海鹞鱼胆	0
+hai zhong dong wu te zhong bing	海中动物特种兵	0

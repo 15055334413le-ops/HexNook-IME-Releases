@@ -1,0 +1,27 @@
+huo qu tu pian	获取图片	553
+huo dong zhuang tai	活动状态	491
+huo qu jiao dian	获取焦点	475
+huo qu can shu	获取参数	456
+huo qu dang qian shi jian	获取当前时间	417
+huo qu shi jian	获取时间	411
+huo hu liu lan qi	火狐浏览器	390
+huo qu lu jing	获取路径	356
+huo qu yong hu xin xi	获取用户信息	348
+huo qu zhi	获取值	348
+huo dong tu	活动图	335
+huo qu lian xi ren	获取联系人	287
+huo qu biao qian	获取标签	286
+huo dong jin cheng	活动进程	281
+huo qu xi tong shi jian	获取系统时间	281
+huo qu ban ben hao	获取版本号	255
+huo dong mu lu	活动目录	254
+huo qu wang luo tu pian	获取网络图片	253
+huo dong fen qu	活动分区	246
+huo qu guo cheng	获取过程	243
+huo fu man bian ma	霍夫曼编码	224
+huo xing zuo biao	火星坐标	202
+huo dong wen jian	活动文件	189
+huo fei men	或非门	167
+huo che yun shu	货车运输	156
+huo dong mo ban ku	活动模板库	156
+huo dong qu dong qi	活动驱动器	86

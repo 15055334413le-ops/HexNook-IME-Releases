@@ -1,0 +1,19 @@
+zhan yi chu	栈溢出	458
+zhan zhi zhen	栈指针	385
+zhan yong liang	占用量	360
+zhan he dui lie	栈和队列	344
+zhan tie ban	粘贴板	278
+zhan di zhi	栈地址	273
+zhan nei rong	栈内容	265
+zhan dian di tu	站点地图	230
+zhan rong liang	栈容量	225
+zhan yu dui lie	栈与队列	222
+zhan dian ming	站点名	212
+zhan zhan kai	栈展开	201
+zhan ji zhi	栈机制	148
+zhan dian dao hang	站点导航	143
+zhan dan yuan	栈单元	140
+zhan kong zhi	栈控制	101
+zhan lve shu ju gui hua	战略数据规划	86
+zhan suan fa	栈算法	86
+zhan zhang zhu shou	站长助手	86

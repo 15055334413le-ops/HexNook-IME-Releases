@@ -1,0 +1,83 @@
+pao cai	泡菜	65243
+pao chu yi chang	抛出异常	40479
+pao mo	泡沫	31382
+pao chu	抛出	20035
+pao mo jing ji	泡沫经济	14624
+pao mo	泡馍	9585
+pao shou	抛售	6718
+pao fu	泡芙	5780
+pao tou lu mian	抛头露面	1254
+pao zhuan yin yu	抛砖引玉	1094
+pao zhen	疱疹	1033
+pao gen wen di	刨根问底	945
+pao ma deng xiao guo	跑马灯效果	882
+pao ma chang	跑马场	620
+pao pan	抛盘	480
+pao feng zhao	泡凤爪	388
+pao shi	抛石	330
+pao ku	跑酷	301
+pao mo qing xi ji	泡沫清洗剂	240
+pao ding jie niu	庖丁解牛	226
+pao huo lian tian	炮火连天	205
+pao jiao mo yu zai	泡椒墨鱼仔	196
+pao jiao niu wa	泡椒牛蛙	187
+pao jiao tian ji	泡椒田鸡	178
+pao jiao niu rou	泡椒牛肉	174
+pao cai yu	泡菜鱼	160
+pao ku you xi	跑酷游戏	147
+pao teng pian	泡腾片	140
+pao you gao	泡油糕	121
+pao mo xiao ying	泡沫效应	117
+pao wang	泡网	103
+pao gen jiu di	刨根究底	94
+pao zhen xing yan xia yan	疱疹性咽峡炎	92
+pao cai niu du si	泡菜牛肚丝	85
+pao pao you gao	泡泡油糕	74
+pao er you gao	泡儿油糕	40
+pao xi	跑犀	34
+pao tong shu jie	泡桐树街	32
+pao zi	炮子	31
+pao le he shang pao bu le miao	跑了和尚跑不了庙	28
+pao jiang	炮姜	24
+pao chang xiao qu	炮厂小区	16
+pao jiao fei chang	泡椒肥肠	16
+pao tai cun	炮台村	16
+pao ju	炮局	15
+pao ju hu tong	炮局胡同	15
+pao chang xi xiao qu	炮厂西小区	13
+pao jiao zhu gan	泡椒猪肝	7
+pao jiao huang la ding	泡椒黄辣丁	6
+pao mo shan hu	泡沫珊瑚	6
+pao she ji	抛射剂	6
+pao xiao wan li chu long men	咆哮万里触龙门	6
+pao jiao he man	泡椒河鳗	5
+pao li xiang	袍里乡	5
+pao diao yi guan ru fen rang	抛掉一官如粪壤	4
+pao guang gao	抛光膏	4
+pao tuan dong zu miao zu xiang	炮团侗族苗族乡	4
+pao cai chao rou mo	泡菜炒肉末	3
+pao cai rou mo	泡菜肉末	3
+pao guang lun	抛光轮	3
+pao jiao ji pian	泡椒鸡片	3
+pao jiao ru ge	泡椒乳鸽	3
+pao liang xiang	炮梁乡	3
+pao lv cai hua	泡绿菜花	3
+pao teng beng jie ji	泡腾崩解剂	3
+pao cai e chang	泡菜鹅肠	2
+pao dan xiu ke	炮弹休克	2
+pao ma gang	跑马岗	2
+pao mo chan	泡沫蝉	2
+pao mo shan hu ya mu	泡沫珊瑚亚目	2
+pao nang	泡囊	2
+pao tai shan gong yuan	炮台山公园	2
+pao zi ji	狍子脊	2
+pao jiao xiang luo pian	泡椒响螺片	1
+pao jiao zheng shui yu	泡椒蒸水鱼	1
+pao lai ji yu	泡莱鲫鱼	1
+pao zhen xing jie mo yan	疱疹性结膜炎	1
+pao zhen xing nao mo yan	疱疹性脑膜炎	1
+pao zhen yang pi yan	疱疹样皮炎	1
+pao mo nei gou shan hu shu	泡沫内沟珊瑚属	0
+pao mo shan hu shu	泡沫珊瑚属	0
+pao mo zhu shan hu shu	泡沫柱珊瑚属	0
+pao xing zhi ma bao luo	泡形芝麻宝螺	0

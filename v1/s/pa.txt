@@ -1,0 +1,539 @@
+pa shang	爬上	78785
+pa zai	趴在	77135
+pa sa te	帕萨特	64720
+pa dao	爬到	49180
+pa shan	爬山	45020
+pa qi lai	爬起来	39945
+pa xing	爬行	36575
+pa ni	怕你	35035
+pa wo	怕我	32000
+pa ta	怕他	31255
+pa shi	怕是	29390
+pa le	怕了	27745
+pa ke	帕克	23610
+pa leng	怕冷	18875
+pa qi	爬起	18605
+pa shen me	怕什么	17920
+pa si	怕死	16255
+pa po	爬坡	16080
+pa le	爬了	15785
+pa si	帕斯	15720
+pa er	帕尔	15475
+pa guo	爬过	15025
+pa zi ji	怕自己	14730
+pa chu	爬出	14240
+pa shou	扒手	14230
+pa te	帕特	14000
+pa ren	怕人	11780
+pa chong	爬虫	11460
+pa er ma	帕尔马	10775
+pa pa	啪啪	10650
+pa shang qu	爬上去	10185
+pa xia	趴下	10100
+pa bu	怕不	9999
+pa cha	啪嚓	9999
+pa hui	爬回	9999
+pa huo er	趴活儿	9999
+pa lao gong he guo	帕劳共和国	9999
+pa pa	怕怕	9999
+pa shu ti jue	爬梳剔抉	9999
+pa teng rong	爬藤榕	9999
+pa ti	爬梯	9999
+pa zhe	趴着	9200
+pa sheng	爬升	9155
+pa le qi lai	爬了起来	8860
+pa dong	怕冻	8761
+pa bie ren	怕别人	8320
+pa shu	爬树	8250
+pa you	怕有	8215
+pa jin	爬进	7945
+pa te li ke	帕特里克	7890
+pa chu lai	爬出来	7810
+pa lou	爬楼	7765
+pa lou ti	爬楼梯	7765
+pa ma fan	怕麻烦	7530
+pa jin sen	帕金森	6820
+pa xing dong wu	爬行动物	6430
+pa er ma	帕尔玛	6415
+pa lao po	怕老婆	6255
+pa de	怕的	5605
+pa zhe	爬着	5555
+pa shui	怕水	5425
+pa ta men	怕他们	5350
+pa re	怕热	5340
+pa bu qi lai	爬不起来	5225
+pa mi er gao yuan	帕米尔高原	5030
+pa xia	爬下	4980
+pa de shi	怕的是	4970
+pa ying xiang	怕影响	4970
+pa zai chuang shang	趴在床上	4825
+pa man	爬满	4810
+pa shang lai	爬上来	4765
+pa shan hu	爬山虎	4700
+pa zhou	琶洲	4628
+pa de	怕得	4605
+pa qiang	爬墙	4545
+pa qie	扒窃	4545
+pa la	怕啦	4444
+pa gui	怕鬼	4370
+pa da	啪嗒	4355
+pa hei	怕黑	4315
+pa shi	怕事	4270
+pa man le	爬满了	4125
+pa ku	怕苦	4025
+pa de yi sheng	啪的一声	3945
+pa gao	爬高	3810
+pa xiu	怕羞	3575
+pa po du	爬坡度	3430
+pa bu pa	怕不怕	3400
+pa le chu lai	爬了出来	3400
+pa ji	啪唧	3365
+pa xia le	趴下了	3360
+pa bei	怕被	3333
+pa dao	趴到	3333
+pa ge	怕个	3333
+pa ge dan	怕个蛋	3333
+pa ge mao	怕个毛	3333
+pa ge sha	怕个啥	3333
+pa la	怕辣	3333
+pa lao	怕老	3333
+pa lo	怕咯	3333
+pa ti zi	爬梯子	3333
+pa jin sen bing	帕金森病	3235
+pa li si	帕丽斯	3235
+pa gei	怕给	3160
+pa de	爬得	3130
+pa shei	怕谁	3085
+pa shui	怕谁	3085
+pa ge ni ni	帕格尼尼	3075
+pa si ka	帕斯卡	2825
+pa zi	帕子	2770
+pa sheng	怕生	2765
+pa lai pa qu	爬来爬去	2695
+pa mi er	帕米尔	2680
+pa xi nuo	帕西诺	2635
+pa xi	帕西	2630
+pa pa pa	啪啪啪	2590
+pa ren jia	怕人家	2515
+pa de	啪的	2465
+pa te sen	帕特森	2415
+pa ji	扒鸡	2295
+pa shang pa xia	爬上爬下	2210
+pa teng	怕疼	2080
+pa sha	怕啥	1990
+pa xiang	爬向	1990
+pa rou	扒肉	1930
+pa dong	爬动	1890
+pa de zui ren	怕得罪人	1870
+pa huo	怕火	1855
+pa yao	怕要	1775
+pa lei	怕累	1695
+pa teng	爬藤	1673
+pa chi ku	怕吃苦	1605
+pa lao	帕劳	1605
+pa yang	怕痒	1605
+pa zhi pa	怕只怕	1585
+pa chong lei	爬虫类	1580
+pa mu	帕姆	1575
+pa xia lai	爬下来	1570
+pa chu qu	爬出去	1565
+pa shang shu	爬上树	1500
+pa zi	耙子	1500
+pa le ba	怕了吧	1460
+pa cuo	怕错	1450
+pa shan she shui	爬山涉水	1445
+pa zhe shui	趴着睡	1440
+pa ge zi	爬格子	1375
+pa mei la	帕梅拉	1365
+pa ke si	帕克斯	1315
+pa guo qu	爬过去	1180
+pa ta	怕她	1180
+pa ru	爬入	1140
+pa dao	趴倒	1130
+pa hui	趴会	1111
+pa hui er	趴会儿	1111
+pa la pa la	啪啦啪啦	1111
+pa la yi sheng	啪啦一声	1111
+pa lu	帕鲁	1111
+pa qu	爬取	1111
+pa she	怕蛇	1111
+pa ta	爬塔	1111
+pa zou	爬走	1111
+pa bu dong	爬不动	1050
+pa de	趴的	1045
+pa ji te	帕吉特	1045
+pa a	爬啊	1005
+pa yong	爬泳	999
+pa nu qi	帕努奇	990
+pa zi	趴姿	987
+pa xia qu	爬下去	985
+pa ba la	帕巴拉	980
+pa pa shan	爬爬山	970
+pa fu	趴伏	930
+pa te luo	帕特洛	890
+pa suo li ni	帕索里尼	880
+pa le	趴了	850
+pa lai	爬来	840
+pa er man	帕尔曼	755
+pa jin sen zheng	帕金森症	750
+pa de yao ming	怕得要命	715
+pa wo	趴窝	700
+pa xia qu	趴下去	665
+pa ku pa lei	怕苦怕累	655
+pa chi kui	怕吃亏	615
+pa zhe pa na	怕这怕那	600
+pa xing zhe	爬行着	570
+pa bu chu	爬不出	560
+pa qiang hu	爬墙虎	545
+pa er te	帕尔特	530
+pa chong kuang jia	爬虫框架	521
+pa gao	扒糕	510
+pa gan	爬竿	490
+pa xia lai	趴下来	485
+pa yue	爬越	480
+pa bu dao	爬不到	475
+pa diu mian zi	怕丢面子	475
+pa kai	爬开	450
+pa wo	趴卧	430
+pa pa sheng	啪啪声	425
+pa la	啪啦	399
+pa xing gang	爬行纲	380
+pa guo lai	爬过来	355
+pa xing bang	爬行榜	353
+pa si gui	怕死鬼	320
+pa pi ti	帕皮提	260
+pa nan wei qing	怕难为情	250
+pa le pa le	怕了怕了	230
+pa ni a	怕你啊	225
+pa bu chu lai	爬不出来	220
+pa jin sen zong he zheng	帕金森综合征	206
+pa shan fa	爬山法	201
+pa lan gan	爬栏杆	198
+pa qi te nong	帕奇特侬	193
+pa de bo en	帕德博恩	192
+pa shu	耙梳	190
+pa hai shen	扒海参	188
+pa er mei la si	帕尔梅拉斯	187
+pa pa sai	爬爬赛	187
+pa ding sen	帕丁森	186
+pa shai hei	怕晒黑	183
+pa chong xiang mu	爬虫项目	180
+pa yang de	怕痒的	180
+pa pa ni	帕帕尼	178
+pa shan suan fa	爬山算法	172
+pa sa li qi	帕萨利奇	169
+pa la si	帕拉斯	162
+pa chong zi	怕虫子	159
+pa wa te	帕瓦特	159
+pa kun nan	怕困难	156
+pa si ka er	帕斯卡尔	156
+pa si ka qi yue	帕斯卡契约	156
+pa de qi lai	爬得起来	150
+pa qia gou	帕恰狗	150
+pa xi wa er	帕西瓦尔	150
+pa yuan ke bao yu	扒原壳鲍鱼	147
+pa er ma huo tui	帕尔玛火腿	143
+pa la gong	帕拉贡	142
+pa xing su du	爬行速度	140
+pa wa er	帕瓦尔	139
+pa zi	筢子	135
+pa xia gu li	帕夏古丽	132
+pa bu qi shen	爬不起身	130
+pa la de	帕拉德	129
+pa da lei	怕打雷	126
+pa pan de li ou	帕潘德里欧	125
+pa qiu ka	帕丘卡	124
+pa zhou jie	琶洲街	124
+pa er duo	耙耳朵	123
+pa jia	爬架	123
+pa le pa	趴了趴	123
+pa pa gan	耙耙柑	123
+pa yi pa	爬一爬	123
+pa yi pa	趴一趴	123
+pa yin	琶音	123
+pa bu liao	爬不了	115
+pa si ka san jiao xing	帕斯卡三角形	115
+pa li	爬犁	111
+pa de bi	爬得比	110
+pa si ka ding lv	帕斯卡定律	110
+pa er sa si	帕尔萨斯	105
+pa tuo zhang	扒驼掌	103
+pa er duo	𤆵耳朵	101
+pa la mo	帕拉莫	101
+pa pa gan	𤆵𤆵柑	101
+pa bei chuan ran	怕被传染	100
+pa bei ren	怕被人	100
+pa bei ren zhi dao	怕被人知道	100
+pa bo li zhu dan kang	帕博利珠单抗	100
+pa bu pa la	怕不怕辣	100
+pa chang cheng	爬长城	100
+pa chang pa duan	怕长怕短	100
+pa cheng si	怕撑死	100
+pa chong dong wu	爬虫动物	100
+pa chong lei dong wu	爬虫类动物	100
+pa chuan ran	怕传染	100
+pa da sheng	啪哒声	100
+pa de bing	怕得病	100
+pa de bing le	怕得病了	100
+pa de geng gao	爬得更高	100
+pa de hen	怕得很	100
+pa de jiu shi	怕的就是	100
+pa de yao si	怕得要死	100
+pa de yi xia	啪的一下	100
+pa de zui	怕得罪	100
+pa di er	帕蒂尔	100
+pa di shang	趴地上	100
+pa er ma ju le bu	帕尔马俱乐部	100
+pa er mei sang	帕尔梅桑	100
+pa er pa ting	帕尔帕廷	100
+pa er wa di	帕尔瓦蒂	100
+pa er wei na	帕尔维娜	100
+pa fu si	帕福斯	100
+pa gao gao	爬高高	100
+pa ge ji mao	怕个鸡毛	100
+pa ge ji mao a	怕个鸡毛啊	100
+pa ge na	帕格纳	100
+pa ge shan	爬个山	100
+pa ge shan ba	爬个山吧	100
+pa gui you gui	怕鬼有鬼	100
+pa ji le	怕极了	100
+pa ji mao	怕鸡毛	100
+pa ji mao a	怕鸡毛啊	100
+pa ji mo	怕寂寞	100
+pa jia ni	帕加尼	100
+pa jie luo	帕杰罗	100
+pa jie luo jin chang	帕杰罗劲畅	100
+pa jin sen shi zheng	帕金森氏症	100
+pa jiu shi pa	怕就是怕	100
+pa ka lin na	帕卡琳娜	100
+pa ku la	帕库拉	100
+pa kui ta	帕奎塔	100
+pa la di	帕拉迪	100
+pa la di dao	帕拉迪岛	100
+pa la di dao fen lie pian	帕拉迪岛分裂篇	100
+pa la ding	帕拉丁	100
+pa la liang kou	扒拉两口	100
+pa la ma li bo	帕拉马里博	100
+pa la mei la	帕拉梅拉	100
+pa lan ka	帕兰卡	100
+pa le ma	怕了吗	100
+pa le me	怕了么	100
+pa le mo	帕勒莫	100
+pa le ni	怕了你	100
+pa lei tuo fa ze	帕累托法则	100
+pa lei tuo zui you	帕累托最优	100
+pa li shi	帕里什	100
+pa li si xi er dun	帕丽斯希尔顿	100
+pa liu lou	爬六楼	100
+pa long zang bu jiang	帕隆藏布江	100
+pa lu lu	帕露露	100
+pa lu qi ya	帕路奇亚	100
+pa luo bei ke	帕罗贝克	100
+pa luo ti jue	爬罗剔抉	100
+pa man le shi zi	爬满了虱子	100
+pa mei qian	怕没钱	100
+pa mi er shan mai	帕米尔山脉	100
+pa mu ke	帕穆克	100
+pa nei er	帕内尔	100
+pa ni ba te	帕尼巴特	100
+pa ni bu cheng	怕你不成	100
+pa ni dan xin	怕你担心	100
+pa ni re	怕你热	100
+pa ni zhao bu zhao	怕你找不着	100
+pa pa de	啪啪地	100
+pa pa pa pa	啪啪啪啪	100
+pa pa xiong	趴趴熊	100
+pa qi lai le	爬起来了	100
+pa qi li zi	帕奇利兹	100
+pa qiang er guo	爬墙而过	100
+pa qie an jian	扒窃案件	100
+pa qie fan zui	扒窃犯罪	100
+pa qie tuan huo	扒窃团伙	100
+pa qie zi	扒茄子	100
+pa qu shu ju	爬取数据	100
+pa sai che	怕塞车	100
+pa san pa si	怕三怕四	100
+pa sha yan jing	帕莎眼镜	100
+pa shan guo ling	爬山过岭	100
+pa shan qu	爬山去	100
+pa shan xue	爬山靴	100
+pa shan yue ling	爬山越岭	100
+pa shang le	爬上了	100
+pa shen me a	怕什么啊	100
+pa shen me jiu lai shen me	怕什么就来什么	100
+pa shen me lai shen me	怕什么来什么	100
+pa shen me ne	怕什么呢	100
+pa sheng gao du	爬升高度	100
+pa sheng lv	爬升率	100
+pa shi bu neng	怕是不能	100
+pa shi bu neng le	怕是不能了	100
+pa shi bu tai	怕是不太	100
+pa shi bu tai gong ping	怕是不太公平	100
+pa shi hui rang	怕是会让	100
+pa shi si dou	怕是死都	100
+pa shi yao	怕是要	100
+pa shou mao	扒手猫	100
+pa shu ju	爬数据	100
+pa shu xi ti	爬梳洗剔	100
+pa si ka liu bian xing	帕斯卡六边形	100
+pa si tan sheng	怕死贪生	100
+pa ta dan xin	怕他担心	100
+pa ta dan xin	怕她担心	100
+pa ta ge	怕他个	100
+pa ta ge chui zi	怕他个锤子	100
+pa ta ge sha	怕他个啥	100
+pa ta ya	帕塔亚	100
+pa ta you xi	爬塔游戏	100
+pa tai nong	帕台农	100
+pa tai nong shen miao	帕台农神庙	100
+pa te li qi ya	帕特里齐亚	100
+pa te li xi ao	帕特里西奥	100
+pa te li xia	帕特丽夏	100
+pa te li xia	帕特里夏	100
+pa ti xia	帕缇夏	100
+pa ti ya ren	帕提亚人	100
+pa tou shang	爬头上	100
+pa wa di	帕瓦蒂	100
+pa wa luo di	帕瓦罗第	100
+pa wa luo di	帕瓦罗蒂	100
+pa wo dan xin	怕我担心	100
+pa wo sha ni	怕我杀你	100
+pa wu gui qi	怕无归期	100
+pa wu lou	爬五楼	100
+pa xia xue	怕下雪	100
+pa xie ke	帕谢克	100
+pa xing dian	爬行垫	100
+pa xing lei	爬行类	100
+pa xing lei dong wu	爬行类动物	100
+pa xing qi	爬行器	100
+pa xing shi	爬行时	100
+pa xing xian xiang	爬行现象	100
+pa xiu si	帕修斯	100
+pa xue shan guo cao di	爬雪山过草地	100
+pa ya pa ya pa	爬呀爬呀爬	100
+pa yi qing	怕疫情	100
+pa ying qi ruan	怕硬欺软	100
+pa yun che	怕晕车	100
+pa zai di shang	趴在地上	100
+pa zai zhuo shang shui jiao	趴在桌上睡觉	100
+pa zai zhuo zi shang shui jiao	趴在桌子上睡觉	100
+pa zhang pang	怕长胖	100
+pa zhao liang	怕着凉	100
+pa zhe bu dong	趴着不动	100
+pa zhe kan	趴着看	100
+pa zhe shui jiao	趴着睡觉	100
+pa zhe wan	趴着玩	100
+pa zhe zou	爬着走	100
+pa zu zu	帕祖祖	100
+pa xie cuo zi	怕写错字	75
+pa a pa	爬啊爬	68
+pa bu shang qu	爬不上去	68
+pa de yue gao	爬得越高	64
+pa er mu ding	帕尔木丁	57
+pa zhe ne	趴着呢	50
+pa mian jin	扒面筋	49
+pa er ma si	帕尔玛斯	48
+pa chong	怕虫	46
+pa bu zhu	趴不住	40
+pa luo xi ting	帕罗西汀	40
+pa ti	趴蹄	40
+pa de xiang	怕得像	35
+pa zhou jie dao	琶洲街道	35
+pa xing yun dong	爬行运动	33
+pa niu rou tiao	扒牛肉条	30
+pa ti nong shen miao	帕提侬神庙	30
+pa xing zhe	爬行者	29
+pa la tu	帕拉图	25
+pa luo ti jue	杷罗剔抉	25
+pa mi lin suan er na	帕米膦酸二钠	23
+pa san yang	扒三样	23
+pa luo te	帕罗特	19
+pa pan	帕潘	19
+pa hai yang	扒海羊	17
+pa ha xiang	帕哈乡	16
+pa zhou tiao	扒肘条	16
+pa nuo zi	帕诺兹	15
+pa zi dang tou	怕字当头	15
+pa ji kuai er	扒鸡块儿	13
+pa ji tui er	扒鸡腿儿	13
+pa san yang er	扒三样儿	13
+pa yan wo	扒燕窝	13
+pa sa lei la	帕萨雷拉	12
+pa dao	帕岛	11
+pa ji	帕吉	11
+pa ke wo de	帕克沃德	10
+pa zhou di zhu	琶洲砥柱	10
+pa qi long	帕奇龙	8
+pa zhou zi	扒肘子	8
+pa zhu ti	扒猪蹄	8
+pa si ke	帕斯克	7
+pa zhu sha xing	帕珠沙星	7
+pa bao yu lu sun	扒鲍鱼芦笋	6
+pa hui	爬灰	6
+pa zhe ne	爬着呢	6
+pa di	趴地	5
+pa di xia	趴地下	5
+pa sen la xi er geng	帕森拉希尔㹴	5
+pa te na	帕特纳	5
+pa zai di xia	趴在地下	5
+pa zhe ne	怕着呢	5
+pa di an qi	帕蒂安琪	4
+pa la sai er su si	帕拉塞尔苏斯	4
+pa niang hai shen	扒酿海参	4
+pa ting ti juan	怕听啼鹃	4
+pa xi nuo	帕希诺	4
+pa yang zhen	帕羊镇	4
+pa de qi	爬得起	3
+pa di bo cai	趴地菠菜	3
+pa jian ye jian chu qu	怕见夜间出去	3
+pa ma sen zhi shi	帕玛森芝士	3
+pa mi lin suan er na	帕米磷酸二钠	3
+pa bu shi	怕不是	2
+pa cao	扒草	2
+pa chai huo	扒柴火	2
+pa de yu jing bu ying ren	怕得鱼惊不应人	2
+pa di	耙地	2
+pa jiang	潖江	2
+pa kai	耙开	2
+pa la	扒拉	2
+pa li en mo zhang	帕黎恩魔杖	2
+pa pa	爬爬	2
+pa tu	耙土	2
+pa yun	耙匀	2
+pa dang xiang	帕当乡	1
+pa di long	趴地龙	1
+pa en qie te quan chi shou shu	帕恩切特犬齿兽属	1
+pa er mo shi mao kou nian	帕尔默氏毛口鲶	1
+pa er mo xia hu yu	帕尔默鰕虎鱼	1
+pa er sao sai	爬耳搔腮	1
+pa feng qie yu	怕风怯雨	1
+pa ge li ao zhi shi	帕格里奥之石	1
+pa ge li ou ju jian	帕格立欧巨剑	1
+pa ge li ou li liang	帕格立欧力量	1
+pa ge li ou zhu fu	帕格立欧祝福	1
+pa jiang xiang	帕江乡	1
+pa jie	琶杰	1
+pa jin nie	帕巾镊	1
+pa jin qian	帕巾钳	1
+pa jin sen die jia zong he zheng	帕金森叠加综合征	1
+pa la ye ying	帕拉夜鹰	1
+pa li te fan shi chang feng die	帕里特范氏裳凤蝶	1
+pa lin dun ni ya sa long	帕林顿尼亚萨龙	1
+pa long xu bao yu	扒龙须鲍鱼	1
+pa na gua hu wu xu nian	帕那瓜湖无须鲶	1
+pa ni pei nan	帕尼培南	1
+pa pa	趴趴	1
+pa shi dao ji niu wei yu	帕氏倒棘牛尾鱼	1
+pa shu	爬梳	1
+pa shu jue zhai	爬梳抉摘	1
+pa si	派司	1
+pa su zi shuang gu	扒素子双菇	1
+pa te da le geng quan	帕特大勒㹴犬	1
+pa te li sha	帕特丽莎	1
+pa tong pa yang	怕痛怕痒	1
+pa wen	爬文	1
+pa wen ke ni ya chong	帕文克尼亚虫	1
+pa wu lu si shuang men yu	帕乌鲁斯双门鱼	1
+pa xing duan wen shi zi yu	爬行短吻狮子鱼	1
+pa xing zao gou xia	爬行藻钩虾	1
+pa zha ma guo	帕扎玛果	1

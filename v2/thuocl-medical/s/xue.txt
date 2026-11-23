@@ -1,0 +1,85 @@
+xue ku	血库	861
+xue xiao ban jian shao	血小板减少	548
+xue xiao wei sheng	学校卫生	516
+xue qi xiong	血气胸	509
+xue wei an mo	穴位按摩	431
+xue yu	血瘀	417
+xue ye xun huan xi tong	血液循环系统	384
+xue wei zhu she	穴位注射	331
+xue liu su du	血流速度	323
+xue xiao ban jian shao xing zi dian	血小板减少性紫癜	287
+xue guan xing tou tong	血管性头痛	273
+xue guan jin zhang su	血管紧张素	270
+xue shuan shuan se	血栓栓塞	257
+xue xiao ban jian shao zheng	血小板减少症	247
+xue guan xing chi dai	血管性痴呆	241
+xue xi bao fen xi	血细胞分析	231
+xue shuan bi sai xing mai guan yan	血栓闭塞性脉管炎	222
+xue xiao ban ji shu	血小板计数	204
+xue qing bai dan bai	血清白蛋白	192
+xue xue	薛雪	192
+xue sai tong	血塞通	183
+xue zhi ling jiao nang	血脂灵胶囊	176
+xue guan jin zhang su zhuan hua mei	血管紧张素转化酶	174
+xue guan xing shui zhong	血管性水肿	169
+xue hong dan bai bing	血红蛋白病	155
+xue bi jing zhu she ye	血必净注射液	153
+xue guan nei zhi jia	血管内支架	153
+xue fu zhu yu jiao nang	血府逐瘀胶囊	150
+xue hong dan bai dian yong	血红蛋白电泳	150
+xue ye tou xi lv guo	血液透析滤过	150
+xue shuan tong zhu she ye	血栓通注射液	142
+xue shang yi zhi hao	雪上一枝蒿	132
+xue guan cheng xing shu	血管成形术	129
+xue qing dan hong su	血清胆红素	129
+xue fu zhu yu tang	血府逐瘀汤	121
+xue shuan xing mai guan yan	血栓性脉管炎	117
+xue xi chong xing gan ying hua	血吸虫性肝硬化	103
+xue xiao ban wu li zheng	血小板无力症	103
+xue guan wang zhuang xi bao liu	血管网状细胞瘤	98
+xue guan xing xue you bing	血管性血友病	98
+xue guan zhi fang liu	血管脂肪瘤	98
+xue sai tong fen san pian	血塞通分散片	98
+xue sai tong zhu she ye	血塞通注射液	98
+xue dan wei chang wan	雪胆胃肠丸	91
+xue guan yun dong xing bi yan	血管运动性鼻炎	91
+xue jiang zhi huan shu	血浆置换术	91
+xue ning yi zhi shi yan	血凝抑制试验	91
+xue qing bing	血清病	91
+xue qing xue zhen duan	血清学诊断	91
+xue tuo	血脱	91
+xue zhi tong jiao nang	血滞通胶囊	91
+xue jiang tong xing ban guang an suan	血浆同型半胱氨酸	84
+xue re wang xing	血热妄行	84
+xue she pu	薛社普	84
+xue zhi kang jiao nang	血脂康胶囊	84
+xue fu zhu yu wan	血府逐瘀丸	76
+xue guan huo xing chang tai	血管活性肠肽	76
+xue guan yi zhi shu	血管移植术	76
+xue qing qiu dan bai	血清球蛋白	76
+xue sai tong jiao nang	血塞通胶囊	76
+xue sai tong ruan jiao nang	血塞通软胶囊	76
+xue ye guan liu qi	血液灌流器	76
+xue you bing xing guan jie yan	血友病性关节炎	76
+xue guan ping hua ji liu	血管平滑肌瘤	66
+xue guan qiu	血管球	66
+xue han zheng	血汗症	66
+xue niao an jiao nang	血尿安胶囊	66
+xue ning mei	血凝酶	66
+xue sai tong di wan	血塞通滴丸	66
+xue shuan xing wei xue guan bing	血栓性微血管病	66
+xue xing bo san xing fei jie he	血行播散型肺结核	66
+xue xu han ning zheng	血虚寒凝证	66
+xue ye bao cun ye	血液保存液	66
+xue ye xue jian yan	血液学检验	66
+xue fu zhu yu kou fu ye	血府逐瘀口服液	51
+xue guan lin ba guan liu	血管淋巴管瘤	51
+xue guan xing zi dian	血管性紫癜	51
+xue jiang dan bai jie he lv	血浆蛋白结合率	51
+xue kang kou fu ye	血康口服液	51
+xue lian zhu she ye	雪莲注射液	51
+xue luo tong jiao nang	血络通胶囊	51
+xue qing bing xing xun ma zhen	血清病性荨麻疹	51
+xue shan wei bao wan	雪山胃宝丸	51
+xue shuan tong jiao nang	血栓通胶囊	51
+xue yuan xing fei nong zhong	血源性肺脓肿	51

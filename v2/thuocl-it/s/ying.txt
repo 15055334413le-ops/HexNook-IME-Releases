@@ -1,0 +1,64 @@
+ying yong fu wu qi	应用服务器	621
+ying she wen jian	映射文件	572
+ying yong cheng xu kai fa	应用程序开发	510
+ying yong jin cheng	应用进程	467
+ying yong huan jing	应用环境	439
+ying pan fen qu	硬盘分区	417
+ying lian jie	硬链接	415
+ying yong ming cheng	应用名称	414
+ying yong kuang jia	应用框架	408
+ying yong cheng xu jie kou	应用程序接口	390
+ying yong luo ji	应用逻辑	383
+ying yong xing neng	应用性能	382
+ying jian di zhi	硬件地址	376
+ying yong bu shu	应用部署	369
+ying yong bian cheng	应用编程	366
+ying jian xin xi	硬件信息	361
+ying she han shu	映射函数	359
+ying jian gu zhang	硬件故障	352
+ying she fang shi	映射方式	341
+ying yong cheng xu she ji	应用程序设计	330
+ying jian dian lu	硬件电路	307
+ying pan qu dong qi	硬盘驱动器	304
+ying she di zhi	映射地址	291
+ying yong qian ming	应用签名	290
+ying yong cheng xu yu	应用程序域	287
+ying yong an quan	应用安全	276
+ying yong cheng xu zhuang tai	应用程序状态	268
+ying yong gong ju	应用工具	251
+ying jian ce shi	硬件测试	250
+ying yong kai fa kuang jia	应用开发框架	242
+ying pan jie kou	硬盘接口	235
+ying yong quan xian	应用权限	235
+ying yong cheng xu fu wu	应用程序服务	234
+ying yong jie gou	应用结构	231
+ying yong nei zhi fu	应用内支付	227
+ying yong cheng xu bian cheng	应用程序编程	222
+ying yong xing neng guan li	应用性能管理	215
+ying jian miao shu yu yan	硬件描述语言	197
+ying yong cheng xu qing dan	应用程序清单	197
+ying yong kai fa gong ju	应用开发工具	195
+ying jian bian cheng	硬件编程	193
+ying yong nei fu fei	应用内付费	188
+ying jian fang zhen	硬件仿真	185
+ying yong jian tong xin	应用间通信	181
+ying jian wei hu	硬件维护	175
+ying jian bian jie ma	硬件编解码	168
+ying jian dian lu she ji	硬件电路设计	164
+ying yong tiao zhuan	应用跳转	155
+ying she cheng xu	映射程序	147
+ying jian an quan	硬件安全	144
+ying jian rong yu	硬件冗余	141
+ying yong zhuang kuang	应用状况	140
+ying te er jia gou	英特尔架构	139
+ying ji ji hua	应急计划	132
+ying yong ceng bian cheng	应用层编程	130
+ying yong jian tiao zhuan	应用间跳转	121
+ying jian duo xian cheng	硬件多线程	120
+ying she gui fan yu yan	映射规范语言	119
+ying pan dui kao	硬盘对拷	117
+ying jian yan zheng	硬件验证	108
+ying yong sheng cheng qi	应用生成器	105
+ying wen zi liao fan yi	英文资料翻译	104
+ying jian jie gou she ji	硬件结构设计	103
+ying pan xu hao	硬盘序号	91

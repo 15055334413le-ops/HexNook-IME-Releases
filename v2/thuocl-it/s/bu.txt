@@ -1,0 +1,36 @@
+bu ju wen jian	布局文件	821
+bu qu fen da xiao xie	不区分大小写	578
+bu huo yi chang	捕获异常	501
+bu qi yong	不启用	409
+bu ju guan li qi	布局管理器	398
+bu ke bian dui xiang	不可变对象	395
+bu ke zhong fu du	不可重复读	394
+bu shu xiang mu	部署项目	363
+bu er biao da shi	布尔表达式	361
+bu jian dong hua	补间动画	357
+bu ju shu xing	布局属性	336
+bu shu huan jing	部署环境	330
+bu ke bian lei	不可变类	317
+bu shu tu	部署图	301
+bu ju you hua	布局优化	292
+bu ju rong qi	布局容器	291
+bu long guo lv qi	布隆过滤器	252
+bu bian mo shi	不变模式	219
+bu ju gui ze	布局规则	219
+bu yu da ren	捕鱼达人	210
+bu fen han shu yi lai	部分函数依赖	207
+bu ke ni jia mi	不可逆加密	181
+bu jian duan dian yuan	不间断电源	174
+bu zhong fu sui ji shu	不重复随机数	162
+bu wan quan shu ju	不完全数据	151
+bu ke di lai	不可抵赖	142
+bu deng zhang bian ma	不等长编码	141
+bu jian lian jie	部件连接	129
+bu que ding zhi shi	不确定知识	112
+bu yu you xi	捕鱼游戏	110
+bu gui ling zhi	不归零制	108
+bu er sou suo	布尔搜索	107
+bu que ding xing tui li	不确定性推理	105
+bu shu qing dan	部署清单	98
+bu liang zi chan chu zhi	不良资产处置	94
+bu que ding tui li	不确定推理	94

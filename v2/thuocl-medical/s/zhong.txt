@@ -1,0 +1,135 @@
+zhong zheng jian hu	重症监护	1112
+zhong xi yi jie he	中西医结合	945
+zhong yi ke	中医科	883
+zhong xi yi jie he yi yuan	中西医结合医院	838
+zhong shu shen jing xi tong	中枢神经系统	805
+zhong xin wei sheng yuan	中心卫生院	773
+zhong wu	肿物	480
+zhong da chuan ran bing yi qing	重大传染病疫情	471
+zhong zheng ji wu li	重症肌无力	463
+zhong yi yao xue	中医药学	457
+zhong chong	中冲	428
+zhong yao tang ji	中药汤剂	381
+zhong chu	种畜	357
+zhong liu fa sheng	肿瘤发生	354
+zhong mo xiao du	终末消毒	325
+zhong du xing xiu ke	中毒性休克	313
+zhong xing li xi bao	中性粒细胞	281
+zhong yi ji chu li lun	中医基础理论	273
+zhong du xing nao bing	中毒性脑病	267
+zhong wan	中脘	246
+zhong du xing gan yan	中毒性肝炎	244
+zhong zhi ji	种植机	244
+zhong fu gan ran	重复感染	240
+zhong jie	重接	236
+zhong e	中恶	235
+zhong zhi yi chi	种植义齿	235
+zhong wan xue	中脘穴	234
+zhong shu shen jing xi tong gan ran	中枢神经系统感染	229
+zhong jian shu	重睑术	224
+zhong yi nei ke xue	中医内科学	207
+zhong zi chu li	种子处理	207
+zhong zu ren sheng zhang ji su	重组人生长激素	205
+zhong du xing xin ji yan	中毒性心肌炎	197
+zhong hua an wen	中华按蚊	196
+zhong fu	中府	194
+zhong fu xu lie	重复序列	191
+zhong chang	中肠	187
+zhong fu shen	重复肾	187
+zhong du jing shen fa yu chi zhi	重度精神发育迟滞	180
+zhong liu huai si yin zi	肿瘤坏死因子	180
+zhong xin jing mai dao guan	中心静脉导管	180
+zhong xing pi fu	中性皮肤	178
+zhong yao yao li xue	中药药理学	178
+zhong yi zhen jiu liao fa	中医针灸疗法	176
+zhong yi zhen duan xue	中医诊断学	171
+zhong du xing li ji	中毒性痢疾	169
+zhong zu ren yi dao su	重组人胰岛素	169
+zhong niu dou	种牛痘	167
+zhong jian que shi	中间缺失	163
+zhong liu kang yuan	肿瘤抗原	160
+zhong shu xing fen yao	中枢兴奋药	160
+zhong liu mian yi xue	肿瘤免疫学	155
+zhong yi fu ke xue	中医妇科学	155
+zhong xin jing mai ya	中心静脉压	153
+zhong du xing gan bing	中毒性肝病	150
+zhong bi jia	中鼻甲	147
+zhong chong xue	中冲穴	147
+zhong ge	中膈	147
+zhong yi hu li ji shu	中医护理技术	145
+zhong yi er ke xue	中医儿科学	142
+zhong he shi yan	中和试验	129
+zhong yi wai ke xue	中医外科学	129
+zhong du xing ruo shi	中毒性弱视	117
+zhong xing li xi bao jian shao	中性粒细胞减少	117
+zhong yi hu li xue	中医护理学	113
+zhong jian cheng xing shu	重睑成形术	108
+zhong shu shuai jie	中暑衰竭	108
+zhong du xing fei shui zhong	中毒性肺水肿	103
+zhong du xing xiu ke zong he zheng	中毒性休克综合征	103
+zhong hua die da wan	中华跌打丸	103
+zhong jing mai	中静脉	103
+zhong ru dong	钟乳洞	103
+zhong yi gu shang ke xue	中医骨伤科学	103
+zhong yi xin li xue	中医心理学	103
+zhong er dan zhi liu	中耳胆脂瘤	98
+zhong liu yi chuan xue	肿瘤遗传学	98
+zhong zheng lian he mian yi que xian	重症联合免疫缺陷	98
+zhong zu ti	重组体	98
+zhong du xing fei yan	中毒性肺炎	91
+zhong hui lan	钟惠澜	91
+zhong yao jian ding xue	中药鉴定学	91
+zhong yi nan ke xue	中医男科学	91
+zhong yi xue ji chu	中医学基础	91
+zhong zi xiu mian	种子休眠	91
+zhong zu zhi li	重组质粒	91
+zhong feng an kou fu ye	中风安口服液	84
+zhong ge suan yan	重铬酸盐	84
+zhong lao nian gao gai pian	中老年高钙片	84
+zhong tong qi wu ji	肿痛气雾剂	84
+zhong yi yan ke xue	中医眼科学	84
+zhong feng hui chun pian	中风回春片	76
+zhong jian qing xing qi	中间清醒期	76
+zhong jian shen jing yuan	中间神经元	76
+zhong liu fang she zhi liao xue	肿瘤放射治疗学	76
+zhong shu xing xuan yun	中枢性眩晕	76
+zhong tong cha ji	肿痛搽剂	76
+zhong tong ning jiao	肿痛凝胶	76
+zhong yao pao zhi xue	中药炮制学	76
+zhong yao yao ji xue	中药药剂学	76
+zhong yi ge jia xue shuo	中医各家学说	76
+zhong yi yao shan xue	中医药膳学	76
+zhong zu zi	重组子	76
+zhong feng hui chun wan	中风回春丸	66
+zhong gan ling pian	重感灵片	66
+zhong hua kou qiang yi xue za zhi	中华口腔医学杂志	66
+zhong jing wei ling wan	仲景胃灵丸	66
+zhong liu xiang guan kang yuan	肿瘤相关抗原	66
+zhong mo xi zhi qi guan	终末细支气管	66
+zhong sheng jiao nang	众生胶囊	66
+zhong yi er bi yan hou ke xue	中医耳鼻咽喉科学	66
+zhong yi wu guan ke xue	中医五官科学	66
+zhong zhi mi ma zi	终止密码子	66
+zhong zu lv	重组率	66
+zhong zu xiu fu	重组修复	66
+zhong du xing bai nei zhang	中毒性白内障	51
+zhong du xing gan ying hua	中毒性肝硬化	51
+zhong du xing hong ban	中毒性红斑	51
+zhong du xing ju jie chang	中毒性巨结肠	51
+zhong fu niao dao	重复尿道	51
+zhong hua die da jiu	中华跌打酒	51
+zhong jie feng fen san pian	肿节风分散片	51
+zhong jie feng zhu she ye	肿节风注射液	51
+zhong liu te yi xing kang yuan	肿瘤特异性抗原	51
+zhong mao	终毛	51
+zhong qi xia xian zheng	中气下陷证	51
+zhong shang zhi	钟尚志	51
+zhong tong an jiao nang	肿痛安胶囊	51
+zhong yao xue zhuan ye zhi shi	中药学专业知识	51
+zhong yi mei rong xue	中医美容学	51
+zhong yi shang ke xue	中医伤科学	51
+zhong yi yao xue gai lun	中医药学概论	51
+zhong yi yu fang yi xue	中医预防医学	51
+zhong yi zheng gu xue	中医正骨学	51
+zhong zi sheng huo li	种子生活力	51
+zhong zu zhi	重组值	51

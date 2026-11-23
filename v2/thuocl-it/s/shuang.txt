@@ -1,0 +1,43 @@
+shuang xiang lian biao	双向链表	547
+shuang jing du	双精度	532
+shuang duan dui lie	双端队列	391
+shuang lian biao	双链表	371
+shuang huan chong	双缓冲	359
+shuang xiang tong xin	双向通信	347
+shuang xiang bang ding	双向绑定	323
+shuang xiang xun huan lian biao	双向循环链表	314
+shuang mu yun suan fu	双目运算符	306
+shuang ji re bei	双机热备	295
+shuang lian tong fen liang	双连通分量	288
+shuang wang ka	双网卡	282
+shuang xiang ren zheng	双向认证	282
+shuang xiang chuan shu	双向传输	276
+shuang huan cun	双缓存	260
+shuang xiang sou suo	双向搜索	250
+shuang lian tong	双连通	248
+shuang qin wei pai mo xing	双亲委派模型	247
+shuang xiang guang sou	双向广搜	237
+shuang bian lv bo	双边滤波	235
+shuang zhong suo ding	双重锁定	212
+shuang gong fang shi	双工方式	205
+shuang duan lian biao	双端链表	199
+shuang lian tong fen liang	双联通分量	197
+shuang lian tong	双联通	187
+shuang zhong jian cha suo	双重检查锁	184
+shuang lian tong fen zhi	双连通分支	182
+shuang xi tong an zhuang	双系统安装	182
+shuang ji tui chu	双击退出	181
+shuang xian xing nei cha	双线性内插	179
+shuang xian xing cha zhi	双线性插值	178
+shuang xun huan lian biao	双循环链表	169
+shuang ji biao qian	双击标签	155
+shuang fei yi bu ju	双飞翼布局	153
+shuang xian xing guo lv	双线性过滤	150
+shuang jing du xiao shu	双精度小数	141
+shuang jin cheng shou hu	双进程守护	135
+shuang lie zhi cha shi	双列直插式	132
+shuang xiang jiao ti tong xin	双向交替通信	130
+shuang gong chuan shu	双工传输	126
+shuang xiang tong shi tong xin	双向同时通信	115
+shuang ji biao qian lan	双击标签栏	101
+shuang lie zhi cha feng zhuang	双列直插封装	94

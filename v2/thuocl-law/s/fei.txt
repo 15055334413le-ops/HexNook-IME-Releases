@@ -1,0 +1,94 @@
+fei zhuan ye ren shi	非专业人士	454
+fei yin xing jin rong ji gou	非银行金融机构	375
+fei fa jing ying zui	非法经营罪	331
+fei fa zhuan rang	非法转让	308
+fei fa zheng quan huo dong	非法证券活动	305
+fei zhuan li ji shu	非专利技术	297
+fei fa yong gong	非法用工	282
+fei fa ju jin zui	非法拘禁罪	270
+fei quan ri zhi yong gong	非全日制用工	239
+fei guan shui bi lei	非关税壁垒	237
+fei fa zhan di	非法占地	233
+fei jin rong ji gou	非金融机构	214
+fei fa qin zhan	非法侵占	197
+fei ju min qi ye	非居民企业	183
+fei fa zhan yong tu di	非法占用土地	171
+fei fa yin xiang zhi pin	非法音像制品	168
+fei fa zhuan rang tu di	非法转让土地	159
+fei di ke	菲迪克	156
+fei fa jing ying shu e	非法经营数额	149
+fei zhi wu fa ming	非职务发明	137
+fei fa tong ju guan xi	非法同居关系	132
+fei fa xing yi zui	非法行医罪	131
+fei fa chi you du pin zui	非法持有毒品罪	119
+fei fa lie bu	非法猎捕	110
+fei fa jiu ye	非法就业	93
+fei fa zheng ju pai chu gui ze	非法证据排除规则	93
+fei ju min ge ren	非居民个人	92
+fei fa qin ru zhu zhai zui	非法侵入住宅罪	81
+fei fa dai bu	非法逮捕	80
+fei qi ye fa ren	非企业法人	80
+fei ying li xing ji gou	非赢利性机构	79
+fei fa xing xing wei	非法性行为	78
+fei hun xing xing wei	非婚性行为	76
+fei fa chai qian	非法拆迁	75
+fei zui hua	非罪化	74
+fei fa zhan yong nong yong di zui	非法占用农用地罪	67
+fei quan ri zhi zhi gong	非全日制职工	66
+fei gong si zhi qi ye	非公司制企业	65
+fei xian chang ji he	非现场稽核	65
+fei ju min na shui ren	非居民纳税人	62
+fei quan ri zhi lao dong he tong	非全日制劳动合同	61
+fei song an jian	非讼案件	52
+fei fa mu juan	非法募捐	48
+fei xing ji ben gui ze	飞行基本规则	48
+fei fa wei tuo	非法委托	44
+fei cai chan ze ren	非财产责任	43
+fei fa zhan yong geng di zui	非法占用耕地罪	41
+fei gong shi gao	非公室告	41
+fei ling dao zhi wu ceng ci	非领导职务层次	41
+fei fa bu lao shui chan pin zui	非法捕捞水产品罪	37
+fei fa zu zhi mai xue zui	非法组织卖血罪	37
+fei gui fan xing fa lv wen jian	非规范性法律文件	36
+fei fa fu zhi pin	非法复制品	33
+fei feng bi yang tai	非封闭阳台	30
+fei fa chu shou fa piao zui	非法出售发票罪	29
+fei shang ye xing feng xian	非商业性风险	28
+fei ji ben dang shi ren	非基本当事人	27
+fei chu zhi wai fa quan	废除治外法权	26
+fei lao dong jia zhi	非劳动价值	26
+fei ju min na shui yi wu ren	非居民纳税义务人	24
+fei sheng xi zi chan	非生息资产	24
+fei fa guan zhi zui	非法管制罪	23
+fei zhuan rang bei shu	非转让背书	23
+fei xian zhi xing zhai quan	非限制性债权	21
+fei zhai qing chang	非债清偿	21
+fei gen ben xing wei yue	非根本性违约	20
+fei fa zhan you zui	非法占有罪	18
+fei ba su quan	废罢诉权	16
+fei cui fen ji biao zhun	翡翠分级标准	16
+fei yue quan	飞越权	16
+fei gu you quan	非固有权	15
+fei su song shi xiao	非诉讼时效	15
+fei zhuan shu quan	非专属权	14
+fei chang su song	非常诉讼	13
+fei chu zai hua zhi wai fa quan	废除在华治外法权	13
+fei wu zhi xing jie guo	非物质性结果	13
+fei biao yi xing wei	非表意行为	12
+fei fang bian fa yuan	非方便法院	12
+fei bi yao gong tong su song	非必要共同诉讼	10
+fei ji hua he tong	非计划合同	10
+fei ding xiang pai mai	非定向拍卖	9
+fei zi zhi xing tiao yue	非自执行条约	9
+fei chang fa lv yu wen	非常法律语文	8
+fei fa chu jing xing wei	非法出境行为	8
+fei fa jian jian wu	非法僭建物	7
+fei fa ren tuan ti yan jiu	非法人团体研究	7
+fei fa zhuan rang ji shu	非法转让技术	7
+fei fan zui hua yan jiu	非犯罪化研究	6
+fei jin rong bu men zhai quan	非金融部门债权	6
+fei fa cha feng cai chan	非法查封财产	5
+fei he huo lv shi	非合伙律师	5
+fei su wei quan	非诉维权	5
+fei xian chang jiao tong wei zhang	非现场交通违章	5
+fei xing jian ge gui ding	飞行间隔规定	5

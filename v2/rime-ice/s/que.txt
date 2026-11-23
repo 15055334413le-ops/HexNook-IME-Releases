@@ -1,0 +1,882 @@
+que xian	缺陷	551600
+que ding	确定	501162
+que ren	确认	500659
+que bao	确保	500621
+que fa	缺乏	500470
+que shi	确实	500370
+que dian	缺点	323490
+que shao	缺少	303640
+que bu	却不	284790
+que li	确立	266120
+que you	却又	243330
+que mei you	却没有	198880
+que xi	缺席	184918
+que zai	却在	179210
+que you	却有	146360
+que ding le	确定了	138485
+que bei	却被	138100
+que ye	却也	129570
+que kou	缺口	125390
+que shi shi	确实是	121655
+que you	确有	106295
+que hen	却很	103295
+que li le	确立了	95255
+que qie	确切	93720
+que shao de	缺少的	92365
+que zhi	却只	85305
+que wu	却无	84085
+que mei	却没	82070
+que shuo	却说	77705
+que rang	却让	74845
+que huo	缺货	72880
+que ding wei	确定为	71825
+que sheng	缺省	70090
+que zhen	确诊	68905
+que dian shi	缺点是	67475
+que yin	却因	67295
+que shui	缺水	66120
+que yao	却要	63425
+que bu neng	却不能	59550
+que neng	却能	59150
+que shi you	确实有	53880
+que yang	缺氧	51705
+que ke	却可	51410
+que ke yi	却可以	51410
+que xin	确信	51000
+que reng	却仍	50800
+que bu shi	却不是	43385
+que yi	却已	41955
+que dui	却对	41695
+que ba	却把	41230
+que sun	缺损	38330
+que bu zhi	却不知	37750
+que kan	却看	37350
+que dou	却都	35895
+que shi zhong	却始终	35710
+que jian	却见	35020
+que yi ran	却依然	35000
+que bu zhi dao	却不知道	33330
+que hui	却会	29435
+que cong	却从	29155
+que yi	却以	27490
+que han	缺憾	27115
+que yi bu ke	缺一不可	27005
+que wei	缺位	26665
+que wei	却为	26420
+que yi jing	却已经	26090
+que ban	雀斑	25765
+que gei	却给	24800
+que chao	雀巢	24580
+que you zhe	却有着	24400
+que geng	却更	23730
+que xiang	却像	23515
+que hen shao	却很少	23330
+que jiang	却将	23285
+que shao le	缺少了	22520
+que yu	却与	22160
+que you kun nan	确有困难	21715
+que xie	缺血	20495
+que xue	缺血	20495
+que ru	却如	19710
+que ren shu	确认书	19370
+que qian	缺钱	19365
+que bao an quan	确保安全	18495
+que wei	却未	18315
+que lian	却连	18125
+que xiang	却想	17945
+que de	缺的	17875
+que yong	却用	17060
+que gai	缺钙	16615
+que le	缺了	15815
+que zai	却再	15170
+que ding shi	确定是	14925
+que pian pian	却偏偏	14880
+que cong lai	却从来	14260
+que le	瘸了	14121
+que bu hui	却不会	14015
+que zhen bing li	确诊病例	13563
+que shu	确属	13330
+que he	却和	12980
+que zhi shi	却只是	12710
+que yin	确因	12600
+que you shi	却又是	12260
+que zhao bu dao	却找不到	12155
+que zhen	缺阵	12075
+que que shi shi	确确实实	11915
+que yue	雀跃	11875
+que yi	确已	11670
+que ding xing	确定性	11380
+que shi ru ci	确实如此	11270
+que quan	确权	11055
+que zao dao	却遭到	10735
+que you	却由	10670
+que de	缺德	10415
+que yi	缺一	10370
+que shi	却是	10365
+que kao	缺考	10130
+que zheng	确证	10030
+que sheng zhi	缺省值	10025
+que bing	却病	9999
+que ge	缺个	9999
+que hai	却还	9999
+que hun	雀魂	9999
+que jing	却经	9999
+que ling	却令	9999
+que lve xian	却略显	9999
+que zhen huan zhe	确诊患者	9999
+que zhen le	确诊了	9999
+que zhen ren shu	确诊人数	9999
+que zhen zhe	确诊者	9999
+que chi chi	却迟迟	9925
+que qie de	确切地	9825
+que bu jian	却不见	9815
+que zao	确凿	9710
+que cong wei	却从未	8900
+que zhen yi ge	确诊一个	8712
+que fa jing yan	缺乏经验	8660
+que de dao	却得到	8645
+que qie de shuo	确切地说	8570
+que qiao	鹊桥	8390
+que dao	却道	8310
+que dian	缺电	8115
+que hu lve	却忽略	8105
+que shi neng	确实能	8010
+que si	却似	7980
+que e	缺额	7790
+que ren ding dan	确认订单	7720
+que fa zi xin	缺乏自信	7675
+que ren han	确认函	7395
+que fa liao jie	缺乏了解	7365
+que you cuo wu	确有错误	7335
+que ren shi	确认是	7260
+que shen me	缺什么	7260
+que fa xin xin	缺乏信心	7215
+que er	雀儿	7115
+que xiang	却向	7110
+que ren xin xi	确认信息	6945
+que xin	缺锌	6805
+que ren	缺人	6745
+que bu tong	却不同	6710
+que bu liao	却不料	6705
+que tie	缺铁	6505
+que wei neng	却未能	6390
+que de bu dao	却得不到	6325
+que fa ying you	缺乏应有	6240
+que bu ken	却不肯	6195
+que ke	缺课	6195
+que qin	缺勤	6185
+que zi	瘸子	6030
+que ren xin	确认信	6015
+que bu	却步	5935
+que shi hui	确实会	5825
+que cong bu	却从不	5730
+que yang de	缺氧的	5725
+que xu	确需	5555
+que xi	确系	5510
+que zao zheng ju	确凿证据	5305
+que wei bi	却未必	5275
+que mei neng	却没能	5145
+que wu	确无	4890
+que fa zi jin	缺乏资金	4845
+que dai zhe	却带着	4785
+que xian chan pin	缺陷产品	4575
+que xi de	缺席的	4555
+que jiao	缺觉	4444
+que sheng she zhi	缺省设置	4275
+que xie	却写	4255
+que xi pan jue	缺席判决	4210
+que liang	缺粮	4190
+que bu ceng	却不曾	4090
+que fa yun dong	缺乏运动	3865
+que you qi shi	确有其事	3835
+que lou	缺漏	3730
+que de shi	缺的是	3560
+que xiang	缺项	3540
+que chao ka fei	雀巢咖啡	3520
+que hu	确乎	3480
+que bao zhong dian	确保重点	3460
+que ran	确然	3415
+que shang xin tou	却上心头	3365
+que chao gong si	雀巢公司	3350
+que bian	却变	3333
+que ci	缺词	3333
+que ci shao zi	缺词少字	3333
+que zhan	却站	3333
+que zhan zai	却站在	3333
+que zong	却总	3333
+que zong ai	却总爱	3333
+que zong dei	却总得	3333
+que zong neng	却总能	3333
+que zong shi	却总是	3333
+que zong shuo	却总说	3333
+que zong yao	却总要	3333
+que qie zheng ju	确切证据	3330
+que xi le	缺席了	3330
+que shan	确山	3280
+que zao de zheng ju	确凿的证据	3265
+que you	缺油	3250
+que fa li xing	缺乏理性	3245
+que yi shao yao	缺医少药	3220
+que tui	瘸腿	3195
+que ding jia ge	确定价格	3190
+que niao	雀鸟	3140
+que you hui gai biao xian	确有悔改表现	3140
+que fa huo li	缺乏活力	3135
+que fa ji shu	缺乏技术	3050
+que jiao	缺角	2915
+que qian	缺欠	2875
+que bu ru	却不如	2545
+que shi you	却是由	2535
+que qiao xian	鹊桥仙	2480
+que huan lai	却换来	2470
+que shi	却使	2408
+que ye	缺页	2365
+que ru	阙如	2250
+que qi	鹊起	2230
+que qie xiao xi	确切消息	2160
+que yi jiao	缺一角	2085
+que ren ma	确认码	2055
+que zhe yang	却这样	1975
+que sheng wang guan	缺省网关	1895
+que fa ying yang	缺乏营养	1885
+que jia	缺钾	1880
+que qiao xiang hui	鹊桥相会	1705
+que xin yan	缺心眼	1700
+que ya	缺牙	1660
+que jin shao liang	缺斤少两	1585
+que ren tong zhi shu	确认通知书	1585
+que xi shen pan	缺席审判	1550
+que you qi ren	确有其人	1525
+que dian cuo wu	缺点错误	1495
+que shi	确是	1474
+que wei jian	却未见	1470
+que ren xi tong	确认系统	1465
+que ding shi jian	确定时间	1440
+que de de	缺德的	1415
+que miao	缺苗	1410
+que jin duan liang	缺斤短两	1385
+que zhi	缺纸	1369
+que fa shuo fu li	缺乏说服力	1325
+que kou chu	缺口处	1305
+que sheng lu you	缺省路由	1300
+que you ci shi	确有此事	1300
+que ren zhi su	确认之诉	1295
+que shen me	却什么	1294
+que shan xian	确山县	1290
+que bu liao	缺不了	1285
+que xi zhe	缺席者	1275
+que xia	阙下	1275
+que sheng	雀圣	1234
+que fa tou ming du	缺乏透明度	1225
+que yue bu yi	雀跃不已	1225
+que yuan	缺员	1212
+que cheng	却成	1180
+que ding shi chu yu	确定是处于	1180
+que fei	确非	1180
+que hua ba shan ye yu shi	却话巴山夜雨时	1180
+que kan qi zi chou he zai	却看妻子愁何在	1180
+que sheng de da du kuan chang	却剩得大肚宽肠	1180
+que xin wu yi	确信无疑	1180
+que yi ge jiao	缺一个角	1180
+que zao wu yi	确凿无疑	1155
+que sheng can shu	缺省参数	1154
+que ding wei zhi	确定位置	1140
+que de shi	缺德事	1130
+que liao	缺料	1120
+que ai	缺爱	1111
+que bu xiang	却不想	1111
+que zui	缺嘴	1111
+que ren suo you quan	确认所有权	1080
+que ren you xiao	确认有效	1075
+que ta zhi	鹊踏枝	1075
+que shi	缺失	1073
+que fa zheng ju	缺乏证据	1065
+que ren zhe	确认者	1055
+que shui liang	缺水量	1040
+que fa li jie	缺乏理解	1015
+que zi	缺字	1010
+que zhen xin guan	确诊新冠	999
+que qiao hui	鹊桥会	990
+que zhen yi li	确诊一例	981
+que fa gan qing	缺乏感情	980
+que ye zhong duan	缺页中断	976
+que fa zu zhi	缺乏组织	975
+que shi xi huan	确实喜欢	965
+que shi xing	确实性	965
+que dang bu zhu	却挡不住	950
+que ying	确应	945
+que fa hou jin	缺乏后劲	939
+que fa hou jin er	缺乏后劲儿	939
+que ren ri qi	确认日期	920
+que she huang yang	雀舌黄杨	920
+que fa ke xue	缺乏科学	915
+que chao	鹊巢	910
+que shi fu he	确实符合	880
+que yi shao shi	缺衣少食	880
+que shao xing	缺少性	855
+que men	阙门	853
+que dang	确当	850
+que fa li zhi	缺乏理智	840
+que xian er	缺陷儿	825
+que qin lv	缺勤率	775
+que fa jiao yang	缺乏教养	770
+que zhi	确知	748
+que ren quan	确认权	710
+que zhi bu gong	却之不恭	690
+que que	确确	685
+que fa luo ji	缺乏逻辑	660
+que ren an niu	确认按钮	660
+que men	缺门	630
+que ren wei fa	确认违法	630
+que shi zheng ju	确实证据	615
+que xian guan li	缺陷管理	606
+que chi shao chuan	缺吃少穿	600
+que ren ren	确认人	600
+que ping zhong xuan	雀屏中选	575
+que ren xiao xi	确认消息	570
+que xin yan er	缺心眼儿	565
+que xing mu	雀形目	530
+que fei yi shi	确非易事	485
+que sheng zi ti	缺省字体	465
+que de	瘸的	460
+que shou bu dao	却收不到	460
+que shao zi xin	缺少自信	435
+que you zhe	确有着	435
+que mai	雀麦	415
+que xian mei	缺陷美	400
+que xin du	确信度	375
+que ren jie shou	确认接受	370
+que lun	确论	345
+que shi zhi	缺失值	345
+que qie xing	确切性	340
+que cheng gu fen	确成股份	339
+que you bi yao	确有必要	339
+que de gui	缺德鬼	335
+que dan	缺氮	321
+que guang	缺光	321
+que lin	缺磷	321
+que mo	缺墨	321
+que ge bo duan tui	缺胳膊断腿	320
+que yu	缺雨	315
+que bao cao zuo	确保操作	299
+que zhu yu	缺主语	289
+que shi ke kao	确实可靠	285
+que yang zheng	缺氧症	275
+que zao	雀噪	270
+que fa shi wu	缺乏食物	265
+que yi	阙疑	260
+que jiao ren	却教人	255
+que bei gao	却被告	250
+que bian	缺编	245
+que lou	阙漏	240
+que ren shi fou	确认是否	230
+que fa you mo	缺乏幽默	220
+que ru	缺如	214
+que gang	缺缸	200
+que chao dan nai you	雀巢淡奶油	196
+que yi	缺医	185
+que qie de jiang	确切的讲	183
+que xi	缺硒	177
+que sheng shi	缺省时	171
+que ding xing suan fa	确定性算法	167
+que mu	雀目	155
+que wu zi	缺物资	154
+que ren xin jian	确认信件	150
+que man te	炔螨特	141
+que shi qiang	确实强	141
+que gen xian	缺根弦	130
+que ding fang xiang	确定方向	126
+que hun ma jiang	雀魂麻将	123
+que ji	雀姬	123
+que qie de jiang	确切地讲	116
+que chao yi yang	雀巢怡养	115
+que chi shao he	缺吃少喝	115
+que xi lv	缺席率	115
+que chao jiu ju	鹊巢鸠据	111
+que cheng	却称	111
+que lve	缺略	111
+que yu	却遇	111
+que yu dao	却遇到	111
+que zhan	缺战	111
+que fa ke guan	缺乏客观	108
+que ban zhuang	雀斑妆	100
+que bao an quan du xun	确保安全度汛	100
+que bao an quan yun xing	确保安全运行	100
+que bao che liang	确保车辆	100
+que bao che liang an quan	确保车辆安全	100
+que bao chu xing an quan	确保出行安全	100
+que bao fei xing an quan	确保飞行安全	100
+que bao gong cheng jin du	确保工程进度	100
+que bao gong zuo luo shi	确保工作落实	100
+que bao jin du	确保进度	100
+que bao luo di	确保落地	100
+que bao luo shi	确保落实	100
+que bao lv ke chu xing an quan	确保旅客出行安全	100
+que bao mei you wen ti	确保没有问题	100
+que bao qu de shi xiao	确保取得实效	100
+que bao qun zhong chu xing an quan	确保群众出行安全	100
+que bao ren min an ju le ye	确保人民安居乐业	100
+que bao xiao yuan an quan	确保校园安全	100
+que bao xiao yuan an quan wen ding	确保校园安全稳定	100
+que bao xing che an quan	确保行车安全	100
+que bao xing ren	确保行人	100
+que bao yi qing bu fan tan	确保疫情不反弹	100
+que bao ze ren luo shi dao wei	确保责任落实到位	100
+que bao zhi xing	确保执行	100
+que bei wo	却被我	100
+que bian cheng	却变成	100
+que bian le	却变了	100
+que bing yan nian	却病延年	100
+que bu bu qian	却步不前	100
+que bu de	却不得	100
+que bu de	缺不得	100
+que bu duo le	却不多了	100
+que bu que qian a	缺不缺钱啊	100
+que bu que qian ba	缺不缺钱吧	100
+que bu que qian la	缺不缺钱啦	100
+que bu que qian lou	缺不缺钱喽	100
+que bu que qian ma	缺不缺钱吗	100
+que bu que qian o	缺不缺钱哦	100
+que bu que qian wa	缺不缺钱哇	100
+que bu que qian ya	缺不缺钱呀	100
+que bu que shao	缺不缺少	100
+que bu que shao a	缺不缺少啊	100
+que bu shuo	却不说	100
+que bu xing	却不行	100
+que bu xu yao	却不需要	100
+que bu zai	却不在	100
+que bu zai dang xia	却不在当下	100
+que chang shao duan	缺长少短	100
+que chao bing shuang cha feng mi xue li wei	雀巢冰爽茶蜂蜜雪梨味	100
+que chao jiu ju	鹊巢鸠居	100
+que ci shao ci	缺词少词	100
+que cong bu ceng	却从不曾	100
+que dao men	鹊刀门	100
+que dao men chuan qi	鹊刀门传奇	100
+que di long	雀地龙	100
+que dian shen me	缺点什么	100
+que dian shi shen me	缺点是什么	100
+que ding bu liao	确定不了	100
+que ding bu shi	确定不是	100
+que ding can jia	确定参加	100
+que ding de	确定的	100
+que ding de lu jing	确定的路径	100
+que ding du	确定度	100
+que ding gu yi	确定故意	100
+que ding guan xi	确定关系	100
+que ding guan xi hou	确定关系后	100
+que ding hui	确定会	100
+que ding ke yi	确定可以	100
+que ding ke yi ma	确定可以吗	100
+que ding le guan xi	确定了关系	100
+que ding le lian ai guan xi	确定了恋爱关系	100
+que ding le mu biao	确定了目标	100
+que ding lian ai guan xi	确定恋爱关系	100
+que ding lian ai guan xi hou	确定恋爱关系后	100
+que ding ma	确定吗	100
+que ding mei le	确定没了	100
+que ding neng	确定能	100
+que ding pan jue	确定判决	100
+que ding xiao ying	确定效应	100
+que ding xing cheng	确定行程	100
+que ding xing zeng zhang	确定性增长	100
+que ding xue xiao	确定学校	100
+que ding you	确定有	100
+que ding zhong dian	确定重点	100
+que er shan	雀儿山	100
+que fa gui mo	缺乏规模	100
+que fa li du	缺乏力度	100
+que fa lian xi	缺乏联系	100
+que fa shen du	缺乏深度	100
+que fa shi	却发誓	100
+que fa su du	缺乏速度	100
+que fa tan xing	缺乏弹性	100
+que fa xi tong	缺乏系统	100
+que fa xi tong xing	缺乏系统性	100
+que fa xian	却发现	100
+que fa xian zi ji	却发现自己	100
+que fa xiao lv	缺乏效率	100
+que fa xie tiao	缺乏协调	100
+que fa xing dong	缺乏行动	100
+que fa xing dong li	缺乏行动力	100
+que fa yi ge	缺乏一个	100
+que fa zheng	缺乏症	100
+que fa zhi xing li	缺乏执行力	100
+que fa zun zhong	缺乏尊重	100
+que fang fu	却仿佛	100
+que gai yan zhong	缺钙严重	100
+que gan du ming yun de qiang	却敢堵命运的枪	100
+que ge ren	缺个人	100
+que gong neng	缺功能	100
+que gui liu	雀鬼流	100
+que hen duo	缺很多	100
+que hen ta shi	却很踏实	100
+que hu bu ba	确乎不拔	100
+que hu ran	却忽然	100
+que hui lai	却回来	100
+que hui qu	却回去	100
+que hun ran bu jue	却浑然不觉	100
+que huo yan zhong	缺货严重	100
+que ji hu	却几乎	100
+que jiao shu ya	雀角鼠牙	100
+que jin you duan liang	缺斤又短两	100
+que jue de	却觉得	100
+que ke ji lu	缺课记录	100
+que kou dou yi yang	缺口都一样	100
+que lai le	却来了	100
+que le ci bu pi	却乐此不疲	100
+que le dian	缺了点	100
+que le dian shen me	缺了点什么	100
+que le shen me	缺了什么	100
+que le tui	瘸了腿	100
+que le xie shen me	缺了些什么	100
+que le yi jiao	缺了一角	100
+que le yi kuai	缺了一块	100
+que le yi tiao tui	瘸了一条腿	100
+que li guan xi	确立关系	100
+que li le guan xi	确立了关系	100
+que li lian ai guan xi	确立恋爱关系	100
+que mei shuo chu lai	却没说出来	100
+que mei you ni	却没有你	100
+que mei you zheng ju	却没有证据	100
+que meng ran bu zhi	却懵然不知	100
+que nan ta ni de mei	却难拓你的美	100
+que ping zhi xuan	雀屏之选	100
+que qie bu bian	确切不变	100
+que qie de	确切的	100
+que qie de shi ji	确切的时机	100
+que qie de zheng ju	确切的证据	100
+que qie di zhi	确切地址	100
+que que shi shi bu	确确实实不	100
+que que shi shi bu neng	确确实实不能	100
+que que shi shi shi	确确实实是	100
+que que shi shi zuo bu dao	确确实实做不到	100
+que ren can jia	确认参加	100
+que ren de	确认的	100
+que ren di dian	确认地点	100
+que ren di zhi	确认地址	100
+que ren guan xi	确认关系	100
+que ren guo yan shen	确认过眼神	100
+que ren kuang	确认框	100
+que ren lao dong guan xi	确认劳动关系	100
+que ren le yan shen	确认了眼神	100
+que ren lian ai guan xi	确认恋爱关系	100
+que ren ni	确认你	100
+que ren shen me	确认什么	100
+que ren shen me ma	确认什么吗	100
+que ren shou huo	确认收货	100
+que ren shou huo hou	确认收货后	100
+que ren ta	确认他	100
+que ren wei	确认为	100
+que ren wo	确认我	100
+que ren wo bu shi	确认我不是	100
+que ren zhe yi dian	确认这一点	100
+que shan ke	雀鳝科	100
+que shan mu	雀鳝目	100
+que shan shu	雀鳝属	100
+que shao bu que shao	缺少不缺少	100
+que shao dian shen me	缺少点什么	100
+que shao le hen duo	缺少了很多	100
+que shao le ling hun	缺少了灵魂	100
+que shao le shen me	缺少了什么	100
+que shao shen me	缺少什么	100
+que shao tan xing	缺少弹性	100
+que shen me bu shen me	缺什么补什么	100
+que shen me jiu bu shen me	缺什么就补什么	100
+que sheng de	缺省的	100
+que shi bie you	确实别有	100
+que shi bing	确实并	100
+que shi bu cuo	确实不错	100
+que shi bu hao	确实不好	100
+que shi bu hao shi	确实不好使	100
+que shi bu shi	确实不是	100
+que shi bu xing	确实不行	100
+que shi bu xing le	确实不行了	100
+que shi cha bu duo	确实差不多	100
+que shi de	缺失的	100
+que shi de yi huan	缺失的一环	100
+que shi de zheng ju	确实的证据	100
+que shi diao	确实屌	100
+que shi fei tong fan xiang	确实非同凡响	100
+que shi guan yong	确实管用	100
+que shi hao	确实好	100
+que shi hao yong	确实好用	100
+que shi hen	确实很	100
+que shi hen bang	确实很棒	100
+que shi hen cha	确实很差	100
+que shi hen di	确实很低	100
+que shi hen ga	确实很尬	100
+que shi hen gao	确实很高	100
+que shi hen hei	确实很黑	100
+que shi hen kuai	确实很快	100
+que shi hen man	确实很慢	100
+que shi hen qiang	确实很强	100
+que shi huo jian shao	缺失或减少	100
+que shi ju bei	确实具备	100
+que shi ke yi	确实可以	100
+que shi ke yi gen ni zou	确实可以跟你走	100
+que shi le	缺失了	100
+que shi le da liang	缺失了大量	100
+que shi li hai	确实厉害	100
+que shi liao bu qi	确实了不起	100
+que shi mei	确实没	100
+que shi mei ban fa	确实没办法	100
+que shi mei ban fa le	确实没办法了	100
+que shi mei fa	确实没法	100
+que shi mei fa er	确实没法儿	100
+que shi mei fa er zai	确实没法儿在	100
+que shi mei fa xian	确实没发现	100
+que shi mei fa zai	确实没法在	100
+que shi mei mao bing	确实没毛病	100
+que shi mei qian	确实没钱	100
+que shi mei shi	确实没事	100
+que shi mei shi er	确实没事儿	100
+que shi mei wen ti	确实没问题	100
+que shi mei xiang dao	确实没想到	100
+que shi mei you	确实没有	100
+que shi mei you ban fa	确实没有办法	100
+que shi mei you wen ti	确实没有问题	100
+que shi mei you xiang dao	确实没有想到	100
+que shi neng kan	确实能看	100
+que shi neng kan chu	确实能看出	100
+que shi qi miao	确实奇妙	100
+que shi shi hao	确实是好	100
+que shi shi hao dong xi	确实是好东西	100
+que shi shi ni	确实是你	100
+que shi shi rang	确实是让	100
+que shi shi rang ren	确实是让人	100
+que shi shi xiang	确实是想	100
+que shi shi you xie	确实是有些	100
+que shi shi zhe yang	确实是这样	100
+que shi tai bang	确实太棒	100
+que shi tai bang la	确实太棒啦	100
+que shi ting guo	确实听过	100
+que shi ting guo zhe ge shuo fa	确实听过这个说法	100
+que shi wan le	确实完了	100
+que shi wan le	确实晚了	100
+que shi wei bi	确实未必	100
+que shi xu yao	确实需要	100
+que shi yan zhong	确实严重	100
+que shi you dian	确实有点	100
+que shi you dian ma fan	确实有点麻烦	100
+que shi you hen duo shi	确实有很多事	100
+que shi you hen duo shi er	确实有很多事儿	100
+que shi you hen duo shi qing	确实有很多事情	100
+que shi you xie	确实有些	100
+que shi zai	确实在	100
+que shi zhi dao	确实知道	100
+que shi zhi de	确实值得	100
+que shi zhong mei neng shang qu	却始终没能上去	100
+que shi zhong yao	确实重要	100
+que shu chang gui	确属常规	100
+que shui di qu	缺水地区	100
+que shui yan zhong	缺水严重	100
+que si hu yi	却似乎已	100
+que si hu yi jing	却似乎已经	100
+que si le	却死了	100
+que si zai	却死在	100
+que si zai le	却死在了	100
+que te bie da	却特别大	100
+que tu ran	却突然	100
+que tu xian	却凸显	100
+que tu xian le	却凸显了	100
+que wan quan ke yi	却完全可以	100
+que wu bi	却无比	100
+que wu bi zhen shi	却无比真实	100
+que xi shi shi	确系事实	100
+que xian diao cha	缺陷调查	100
+que xian lv	缺陷率	100
+que xiang shi	却像是	100
+que xiang yun xing	缺相运行	100
+que xiao de hen kai xin	却笑得很开心	100
+que xie xing cu zhong	缺血性卒中	100
+que xie xing nao cu zhong	缺血性脑卒中	100
+que xin le	确信了	100
+que xin shao fei	缺心少肺	100
+que xin yan er shi de	缺心眼儿似的	100
+que xin yan shi de	缺心眼似的	100
+que xing qiu qian	却行求前	100
+que xue xing cu zhong	缺血性卒中	100
+que xue xing nao cu zhong	缺血性脑卒中	100
+que yang le	缺氧了	100
+que yao mian dui	却要面对	100
+que ye bu shi	却也不是	100
+que ye gen ben	却也根本	100
+que yi dian dou bu	却一点都不	100
+que yi ge	缺一个	100
+que yi jing hen	却已经很	100
+que yi jing hen jie jin le	却已经很接近了	100
+que yi ran shi	却依然是	100
+que yi ran zhao bu dao	却依然找不到	100
+que yi xiao er guo	却一笑而过	100
+que yi zu	却已足	100
+que yi zu gou	却已足够	100
+que you bu zhi dao	却又不知道	100
+que you ci yi	确有此意	100
+que you ci yuan	确有此愿	100
+que you dian bu zhi dao	却有点不知道	100
+que you hai shi	却又还是	100
+que you ji zai	确有记载	100
+que you zhuan chang	确有专长	100
+que yuan lai	却原来	100
+que yuan lai hai	却原来还	100
+que yuan lai hai you	却原来还有	100
+que yue chong yuan	缺月重圆	100
+que yue fu qu	雀跃凫趋	100
+que yue san fen	雀跃三分	100
+que yue zai yuan	缺月再圆	100
+que zao bu yi	确凿不移	100
+que zhe tui	瘸着腿	100
+que zhen ai zheng	确诊癌症	100
+que zhen bing li xing cheng gui ji	确诊病例行程轨迹	100
+que zhen bing li xing dong gui ji	确诊病例行动轨迹	100
+que zhen lv	确诊率	100
+que zhi neng	却只能	100
+que zhi sheng xia	却只剩下	100
+que zhong jiu	却终究	100
+que zhong jiu mei	却终究没	100
+que zhong jiu mei bei	却终究没被	100
+que zong bi	却总比	100
+que zong bu	却总不	100
+que zong dui	却总对	100
+que zong hui	却总会	100
+que zong pa	却总怕	100
+que zong rang	却总让	100
+que zong ye	却总也	100
+que zong you	却总有	100
+que zu bu zhu	却阻不住	100
+que ren wan	确认完	83
+que shou	确守	80
+que xian fan kui	缺陷反馈	75
+que li wei	确立为	68
+que ren gao	确认稿	68
+que ding na ge	确定哪个	65
+que shao dian	缺少点	65
+que shi bu jia	确实不佳	65
+que liao dan	缺料单	64
+que shi bu dong	确实不懂	64
+que chao jiu zhan	鹊巢鸠占	60
+que xing	却姓	60
+que shi lv	缺失率	56
+que dao hua	阙道华	49
+que gu suo lai jing	却顾所来径	49
+que huo liang	缺货量	35
+que xing	阙姓	35
+que yang you dao yin zi	缺氧诱导因子	35
+que ren jian	确认件	34
+que mei	缺镁	32
+que peng	缺硼	32
+que huo dan	缺货单	25
+que chi mu	缺翅目	23
+que dao tian liang hao ge qiu	却道天凉好个秋	23
+que nuo tong	炔诺酮	17
+que chi yan	缺齿鼹	15
+que dao gu ren xin yi bian	却道故人心易变	15
+que qie bu yi	确切不移	15
+que chao bing ka fei	雀巢冰咖啡	12
+que ding xia	确定下	12
+que ding xing tu ling ji	确定型图灵机	12
+que yi shao chuan	缺衣少穿	12
+que de tai duo le	缺得太多了	10
+que su	缺素	9
+que ren xiang	雀仁乡	8
+que ba qing mei xiu	却把青梅嗅	7
+que dai hua bu deng e	缺带花布灯蛾	7
+que pen xue	缺盆穴	7
+que dao hai tang yi jiu	却道海棠依旧	6
+que han qian	阙汉骞	6
+que qu	鹊鸲	6
+que ren yi xia	确认一下	6
+que ting	炔烃	5
+que ye shu	缺页数	5
+que ci chun	炔雌醇	4
+que ci chun pian	炔雌醇片	4
+que pen	缺盆	4
+que ren bu qin fan zhuan li quan su song	确认不侵犯专利权诉讼	4
+que tang	缺塘	4
+que zhuo mai	雀啄脉	4
+que qiao lu	鹊桥路	3
+que she xing	雀舌形	3
+que shi jiu shi xiang shi	却是旧时相识	3
+que bu ke yi	确不可易	2
+que de shao cai	缺德少才	2
+que ren xia	确认下	2
+que tang she qu	缺塘社区	2
+que tou shao wei	缺头少尾	2
+que yin ge wu po chu xiu	却因歌舞破除休	2
+que you zhong shen xiang yi	却又终身相依	2
+que yue gua shu tong	缺月挂疏桐	2
+que ban dai hui die	缺斑黛灰蝶	1
+que bao di ju dai chong	却保狄具带虫	1
+que bian duan xi xiang	缺边短喜象	1
+que bian juan e	缺边卷蛾	1
+que bian long	缺边龙	1
+que bu tu qian	却步图前	1
+que bu xiang	确布乡	1
+que chao hei jiao niu liu	雀巢黑椒牛柳	1
+que chao jiu zhu	鹊巢鸠主	1
+que chao niao wo	雀巢鸟窝	1
+que chao zhi feng	鹊巢知风	1
+que chi chong	缺翅虫	1
+que chi duan chuan	缺吃短穿	1
+que chi hong si xian	缺齿红丝线	1
+que chi qing tong jin gui	缺齿青铜金龟	1
+que chi ying jin hua chong	缺翅萤金花虫	1
+que ci mi	炔雌醚	1
+que er chang du	雀儿肠肚	1
+que fan luan hui	鹊返鸾回	1
+que fan luan jing	鹊反鸾惊	1
+que fang huang he jiang nan gui	却放黄鹤江南归	1
+que gu bu ba	确固不拔	1
+que guang he jin gui	缺光褐金龟	1
+que huan lv hu tian niu	缺环绿虎天牛	1
+que huan tu chang jiao shi e	缺环突长角石蛾	1
+que jia yu ya gang	缺甲鱼亚纲	1
+que jiang wan zi ping rong ce	却将万字平戎策	1
+que jiao ming yue song jiang lai	却教明月送将来	1
+que jiao zhi fen	雀角之忿	1
+que jin mu ye	却金暮夜	1
+que jiu zheng cha	榷酒征茶	1
+que kan long	缺砍龙	1
+que ke	缺刻	1
+que ke ce hong kang xia	缺刻侧红糠虾	1
+que ke ji xie	缺刻矶蟹	1
+que ke shu shi	却客疏士	1
+que ke wei biao shui zao	缺刻伪镖水蚤	1
+que kou he chi e	缺口褐尺蛾	1
+que kou nie zi	缺口镊子	1
+que lao huan tong	却老还童	1
+que lei chao jiu	鹊垒巢鸠	1
+que ma yu long	雀马鱼龙	1
+que mai nu jian feng	缺脉怒茧蜂	1
+que mei	雀鹛	1
+que mu shu bu	雀目鼠步	1
+que qi qi ci	缺期期次	1
+que qiao hui	鹊桥汇	1
+que ran bu qun	确然不群	1
+que ren hou	确认后	1
+que ren le	确认了	1
+que ren yi xia	确认以下	1
+que ru kong chao li	却入空巢里	1
+que san duan si	缺三短四	1
+que sheng chuan shu xi xin qing	鹊声穿树喜新晴	1
+que shi wu yi	缺食无衣	1
+que shi yan zhou yu lu pian	却是炎洲雨露偏	1
+que shu zhi zheng	雀鼠之争	1
+que wang cheng lou lei man shan	却望城楼泪满衫	1
+que wei wu cai de shao an	却为无才得少安	1
+que wei zhi yin bu de ting	却为知音不得听	1
+que xian jin huan	雀献金环	1
+que xian jing zhong wa	却羡井中蛙	1
+que xian zhi fen wu yan se	却嫌脂粉污颜色	1
+que xiao jiu wu	鹊笑鸠舞	1
+que xiao zang quan	雀小脏全	1
+que xu pen chun yu	缺须盆唇鱼	1
+que xuan jiu ju	雀喧鸠聚	1
+que yi an shi feng liu	却忆安石风流	1
+que yi chun se zai lin jia	却疑春色在邻家	1
+que yi wu shi	缺衣无食	1
+que ying	雀鹰	1
+que yuan tian ri heng yan xi	却愿天日恒炎曦	1
+que yuan ye sai luo	缺缘叶鳃螺	1
+que zuo cu xian xian zhuan ji	却坐促弦弦转急	1

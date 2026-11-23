@@ -1,0 +1,37 @@
+bing cha ji	并查集	590
+bing xing zhi xing	并行执行	497
+bing fa chu li	并发处理	442
+bing xing cao zuo	并行操作	373
+bing xing du	并行度	358
+bing xing xing	并行性	353
+bing xing bian cheng	并行编程	352
+bing xing kai fa	并行开发	334
+bing xing suan fa	并行算法	306
+bing fa jin cheng	并发进程	300
+bing fa mo xing	并发模型	291
+bing xing ren wu	并行任务	279
+bing fa ji he	并发集合	268
+bing fa ce shi	并发测试	254
+bing xing lian jie	并行连接	220
+bing fa cheng xu she ji	并发程序设计	216
+bing xing shu ju ku	并行数据库	216
+bing xing chuan shu	并行传输	211
+bing xing ji suan ji	并行计算机	199
+bing xing cheng xu she ji	并行程序设计	197
+bing fa kong zhi ji zhi	并发控制机制	190
+bing fa she ji	并发设计	186
+bing cha ji wen ti	并查集问题	182
+bing du fen xi	病毒分析	174
+bing fa shu ju jie gou	并发数据结构	171
+bing fa duo xian cheng	并发多线程	156
+bing xing chu li ji shu	并行处理技术	156
+bing fa guan xi	并发关系	145
+bing cha ji	并差集	137
+bing xing bian cheng yu yan	并行编程语言	123
+bing xing gong cheng	并行工程	107
+bing xing shi shi chu li	并行实时处理	103
+bing fa cao zuo xi tong	并发操作系统	98
+bing fa mo ni	并发模拟	94
+bing xing jia fa qi	并行加法器	88
+bing zha ji	并査集	88
+bing xing pai xu suan fa	并行排序算法	86

@@ -1,0 +1,375 @@
+cai zheng	财政	310711
+cai jue	裁决	201110
+cai ding	裁定	199397
+cai chan	财产	188180
+cai jing	财经	181639
+cai fu	财富	99593
+cai wu	财务	98448
+cai zheng bu	财政部	74243
+cai li	财力	36705
+cai piao	彩票	30037
+cai zheng ju	财政局	29140
+cai ding shu	裁定书	28891
+cai shi chang	菜市场	21452
+cai chan bao quan	财产保全	18191
+cai zi you	菜籽油	18002
+cai dan lan	菜单栏	15137
+cai chan fen ge	财产分割	12632
+cai zhang	财长	11763
+cai yang	采样	10336
+cai dan xiang	菜单项	9962
+cai di	菜地	8623
+cai tuan	财团	6201
+cai zheng chi zi	财政赤字	5934
+cai dou fu	菜豆腐	5668
+cai ding bo hui	裁定驳回	5181
+cai xie	采血	4845
+cai yuan	财源	4643
+cai yuan	菜园	4438
+cai yang lv	采样率	4153
+cai xian	财险	3183
+cai se tu xiang	彩色图像	3072
+cai tuan fa ren	财团法人	2860
+cai wu bu	财务部	2751
+cai da qi cu	财大气粗	2402
+cai gen xiang	菜根香	2348
+cai he	菜合	2275
+cai yang pin lv	采样频率	2167
+cai dian	蔡甸	2069
+cai chan bao quan fei	财产保全费	1812
+cai hua heng yi	才华横溢	1626
+cai yuan pei	蔡元培	1603
+cai yuan ba	菜园坝	1459
+cai yuan zi	菜园子	1456
+cai jian tu pian	裁剪图片	1439
+cai yi lin	蔡依林	1417
+cai hong qiao	彩虹桥	1219
+cai chan bao xian he tong	财产保险合同	1098
+cai chan bao xian gong si	财产保险公司	1054
+cai wu zhu guan	财务主管	843
+cai fang	蔡昉	837
+cai kang yong	蔡康永	834
+cai ming	蔡明	820
+cai wu guan li	财务管理	803
+cai yuan gun gun	财源滚滚	753
+cai liao chang	材料厂	732
+cai e	蔡锷	672
+cai zhi	财智	669
+cai he sen	蔡和森	633
+cai fu guang chang	财富广场	570
+cai fu tong	财付通	570
+cai jian bing	菜煎饼	552
+cai yang qi	采样器	552
+cai gua bu	菜瓜布	551
+cai se xian shi	彩色显示	523
+cai yang zhou qi	采样周期	472
+cai zi jia ren	才子佳人	457
+cai yuan guang jin	财源广进	456
+cai tian lu	彩田路	452
+cai ding quan	裁定权	448
+cai shi kou	菜市口	419
+cai mi xin qiao	财迷心窍	411
+cai e lu	蔡锷路	403
+cai yang fang shi	采样方式	401
+cai zhuo yan	蔡卓妍	393
+cai jing wang	财经网	380
+cai qin	蔡琴	372
+cai ju dong li xia	采菊东篱下	367
+cai shao fen	蔡少芬	344
+cai shu zi you xi	猜数字游戏	327
+cai liao she ji	材料设计	317
+cai lun	蔡伦	311
+cai jian ya	蔡健雅	305
+cai jia po	蔡家坡	302
+cai yuan ba huo che zhan	菜园坝火车站	296
+cai mao shuang quan	才貌双全	289
+cai zhi zhong	蔡志忠	286
+cai hong jing ling	彩虹精灵	272
+cai yu	采育	266
+cai lan	蔡澜	261
+cai shen miao	财神庙	244
+cai hua chu zhong	才华出众	243
+cai yang su lv	采样速率	240
+cai ji ka	采集卡	232
+cai lin	蔡林	223
+cai tuan di ya	财团抵押	223
+cai ting	财厅	214
+cai wen ji	蔡文姬	202
+cai mao xue xiao	财贸学校	201
+cai chang	蔡畅	198
+cai hong cheng	彩虹城	198
+cai jing xue xiao	财经学校	198
+cai hu ying qiao	菜户营桥	187
+cai shui xue yuan	财税学院	170
+cai yin chang	彩印厂	170
+cai dou hua	菜豆花	155
+cai hu ying	菜户营	144
+cai hong lu	彩虹路	140
+cai yuan ba chang jiang da qiao	菜园坝长江大桥	140
+cai ting kai	蔡廷锴	135
+cai chan bao quan shen qing shu	财产保全申请书	133
+cai gao ba dou	才高八斗	131
+cai se xian shi qi	彩色显示器	126
+cai he	蔡和	122
+cai zheng xue xiao	财政学校	122
+cai se duo pu lei chao sheng	彩色多普勒超声	121
+cai yun heng tong	财运亨通	117
+cai chan bao quan zhi du	财产保全制度	115
+cai ji zheng jiao	蔡记蒸饺	114
+cai yan	蔡妍	112
+cai wei min	蔡为民	105
+cai bao	财保	97
+cai wen sheng	蔡文胜	94
+cai jia he	蔡家河	92
+cai shi lu	采石路	88
+cai xiang	蔡襄	88
+cai tang	蔡塘	82
+cai hu ying nan lu	菜户营南路	80
+cai hong yi yuan	彩虹医院	75
+cai mang	菜蟒	74
+cai jia cun	蔡家村	71
+cai yun lu	彩云路	71
+cai yong	蔡邕	66
+cai jia xiang	蔡家巷	64
+cai yuan	财院	63
+cai shu xue qian	才疏学浅	62
+cai zhong	蔡中	62
+cai hua jie	才华街	59
+cai jia gang	蔡家岗	58
+cai bu lu bai	财不露白	57
+cai quan xing ling	猜拳行令	49
+cai shi jie	菜市街	49
+cai chan qing chang shun xu	财产清偿顺序	48
+cai he lu	采荷路	48
+cai qiao	蔡桥	48
+cai xie zhen	采血针	48
+cai gong shi	蔡公时	47
+cai piao dian	彩票点	46
+cai gan kou rou	菜干扣肉	44
+cai hong zhong xue	彩虹中学	42
+cai jia wa	蔡家洼	42
+cai yang	蔡阳	42
+cai yin chang sha shui	才饮长沙水	41
+cai zhuang	蔡庄	40
+cai jia zui	蔡家嘴	39
+cai jia hu	蔡家湖	38
+cai yang fen bu	采样分布	37
+cai yu	蔡羽	37
+cai xin	蔡新	36
+cai de jian bei	才德兼备	31
+cai ju dong li	采菊东篱	28
+cai yang xi tong	采样系统	28
+cai jing shi bao	财经时报	27
+cai he xin cun	采荷新村	26
+cai liang	财粮	26
+cai zheng jian cha gong zuo ban fa	财政检查工作办法	26
+cai jia	蔡嘉	25
+cai jian zhong	蔡建中	25
+cai qing heng yi	才情横溢	25
+cai yun jian	彩云间	25
+cai liao pi fa shi chang	材料批发市场	24
+cai he xiao qu	采荷小区	23
+cai jia gou	蔡家沟	23
+cai bo	蔡博	21
+cai fen die	菜粉蝶	21
+cai hu ying qiao nan	菜户营桥南	21
+cai jia zhan	蔡家站	21
+cai piao wang	彩票网	21
+cai xia ling she qu	彩霞岭社区	21
+cai yang kong zhi	采样控制	21
+cai hong nan lu	彩虹南路	20
+cai mao jie	才茂街	20
+cai shi qiao	菜市桥	20
+cai ya lin	蔡亚林	20
+cai yun yi san liu li cui	彩云易散琉璃脆	20
+cai hong yan	蔡鸿岩	19
+cai yu xiang	蔡宇翔	19
+cai hong yi lu	彩虹一路	18
+cai jing zhou kan	财经周刊	18
+cai hu ying qiao dong	菜户营桥东	17
+cai jia ba	蔡家坝	17
+cai jia zhuang	蔡家庄	17
+cai jing	蔡婧	17
+cai kuang quan zhu xiao	采矿权注销	17
+cai mao	蔡瑁	17
+cai tai	菜台	17
+cai jia hu zhen	蔡家湖镇	16
+cai shi gu min ju	蔡氏古民居	15
+cai zhao ming	蔡照明	15
+cai jian zhong	蔡建忠	14
+cai mu bu ke sheng yong ye	材木不可胜用也	14
+cai qiong	蔡琼	14
+cai shi yuan	蔡世远	14
+cai xiang yuan chuan cai guan	菜香源川菜馆	14
+cai yang wu cha	采样误差	14
+cai guan chang	彩管厂	13
+cai he	踩河	13
+cai hong bei lu	彩虹北路	13
+cai jia ya xiang	蔡家崖乡	13
+cai tou bing	菜头饼	13
+cai tuan zhai quan	财团债权	13
+cai yi	才溢	13
+cai zheng guan li ti zhi fa	财政管理体制法	13
+cai hong bing ka fei	彩虹冰咖啡	12
+cai he lu kou	采荷路口	11
+cai hong bin guan	彩虹宾馆	11
+cai zhai	蔡宅	11
+cai chang	菜厂	10
+cai cuo	蔡厝	10
+cai de bai hua cheng mi hou	采得百花成蜜后	10
+cai he ren jia	采荷人家	10
+cai yuan	蔡远	10
+cai zhi zhai tang guo	采芝斋糖果	10
+cai ban qian ying	菜斑潜蝇	9
+cai hai	蔡海	9
+cai hu ying qiao bei	菜户营桥北	9
+cai hu ying qiao xi	菜户营桥西	9
+cai jiao chao xiang chang	彩椒炒香肠	9
+cai mao gan xiao	财贸干校	9
+cai yan	蔡琰	9
+cai can de	蔡灿得	8
+cai jian wei shan	蔡尖尾山	8
+cai qian ying	菜潜蝇	8
+cai sheng jie	才盛街	8
+cai mei bu wai jian	才美不外见	7
+cai ting	菜亭	7
+cai yu kai fa qu	采育开发区	7
+cai dai yu tou	彩带鱼头	6
+cai dou fu xi fan	菜豆腐稀饭	6
+cai feng xiang	才丰乡	6
+cai he dong qu	采荷东区	6
+cai he xiang	蔡和乡	6
+cai huan	彩鹮	6
+cai ling lu	采菱路	6
+cai zhi kan	蔡智堪	6
+cai zhong cheng	蔡忠诚	6
+cai zi hua	蔡子华	6
+cai ban	彩斑	5
+cai fu ru	蔡福如	5
+cai huan	蔡欢	5
+cai hui wen	蔡会文	5
+cai jia qiao cun	蔡家桥村	5
+cai le can sang you cha tian	才了蚕桑又插田	5
+cai mu bu ke sheng yong	材木不可胜用	5
+cai shen miao jie dao	财神庙街道	5
+cai xi cun	蔡西村	5
+cai yuan niu rou	菜远牛肉	5
+cai cuo cun	蔡厝村	4
+cai dou fu jie jie	菜豆腐节节	4
+cai fa	蔡发	4
+cai fu shi bao	财富时报	4
+cai jing cun	蔡径村	4
+cai jue ye	采掘业	4
+cai nv	采女	4
+cai shi kou hu tong	菜市口胡同	4
+cai tao	蔡绦	4
+cai yin chang jiang shui	才饮长江水	4
+cai yun zhang zai you xin tian	彩云长在有新天	4
+cai ze	蔡泽	4
+cai zheng pu fa du ben	财政普法读本	4
+cai zhi da sha	财智大厦	4
+cai zhong	蔡仲	4
+cai chang hu tong	菜厂胡同	3
+cai da she qu	财大社区	3
+cai guo	菜粿	3
+cai guo quan	蔡国权	3
+cai hui mian	菜烩面	3
+cai jia da men	蔡家大门	3
+cai jing lun tan	财经论坛	3
+cai jing pin dao	财经频道	3
+cai keng	菜坑	3
+cai keng	蔡坑	3
+cai shu du	蔡叔度	3
+cai wu bao biao	财务报表	3
+cai xiu yin qin peng yu zhong	彩袖殷勤捧玉钟	3
+cai yin	彩音	3
+cai yu bu cai zhi jian	材与不材之间	3
+cai yuan	蔡渊	3
+cai zhe fu	蔡哲夫	3
+cai zhi yu yi shui	采之欲遗谁	3
+cai ai hou	蔡哀侯	2
+cai chang ping	菜场坪	2
+cai cun cun wei hui	蔡村村委会	2
+cai dao xian	蔡道宪	2
+cai duo fu zhong chu	采掇付中厨	2
+cai gen	蔡根	2
+cai ha xiang	采哈乡	2
+cai hua er	菜花耳	2
+cai hua yuan mao tou fu	菜花原矛头蝮	2
+cai jia hu tong	蔡家胡同	2
+cai jia yuan zi	蔡家院子	2
+cai jia zha zhen	蔡家榨镇	2
+cai kuai xin bao	财会信报	2
+cai qi jia an zhao jiao shi	彩旗夹岸照蛟室	2
+cai sang jing li feng ying	采桑径里逢迎	2
+cai tang cun	菜堂村	2
+cai ting lan	蔡廷兰	2
+cai wu bao gao	财务报告	2
+cai wu kuai ji	财务会计	2
+cai yuan keng	菜园坑	2
+cai yuan qiao	菜园桥	2
+cai bi li xi shui zhong	采薜荔兮水中	1
+cai bu zhuang	蔡埠庄	1
+cai chan an quan	财产安全	1
+cai chan bao xian	财产保险	1
+cai chao	蔡潮	1
+cai chuan qian shou song qing si	菜传纤手送青丝	1
+cai cui se ru bai	彩翠色如柏	1
+cai cuo she qu	蔡厝社区	1
+cai dian she qu	彩电社区	1
+cai dong cun	蔡东村	1
+cai fang zhou xi du ruo	采芳洲兮杜若	1
+cai feng yi	裁缝蚁	1
+cai fu ming cheng	财富名城	1
+cai gan ya shen mi zao tang	菜干鸭肾蜜枣汤	1
+cai ge	蔡格	1
+cai guan xiang gong yu	蔡官巷公寓	1
+cai guo zhen	蔡国珍	1
+cai hai shan	蔡海山	1
+cai han	蔡含	1
+cai hong feng hu	彩虹蜂虎	1
+cai hong shui jing qiu	彩虹水晶球	1
+cai hua cun	菜花村	1
+cai hua wang	财华网	1
+cai hui ru	蔡惠如	1
+cai jiang xiang	蔡江乡	1
+cai lin zheng	蔡林蒸	1
+cai ling han ci shang	采菱寒刺上	1
+cai meng jun	蔡孟君	1
+cai ri ma xiang	采日玛乡	1
+cai sang qi lu jian	采桑歧路间	1
+cai sang zi chong yang	采桑子重阳	1
+cai se rou si	彩色肉丝	1
+cai shi jie jia yuan	彩世界家园	1
+cai shi song chun gui	才始送春归	1
+cai wu wu suo qu	财物无所取	1
+cai wu zhuang kuang biao	财务状况表	1
+cai xian jie rong bei fu die	彩线结茸背复叠	1
+cai xiang xing chu cu lian qian	采香行处蹙连钱	1
+cai xiao jin ye e	彩肖金夜蛾	1
+cai xie he cong cong	采撷何匆匆	1
+cai xin chao zhu gan	菜心炒猪肝	1
+cai xin tong	财信通	1
+cai yuan lu niu rou	菜远卤牛肉	1
+cai yuan xiao qu	财苑小区	1
+cai zhang yun	蔡长沄	1
+cai zheng yu suan	财政预算	1
+cai zhi gong lve	财智攻略	1
+cai zhou xin cao lv	蔡洲新草绿	1
+cai zhuang cun wei hui	蔡庄村委会	1
+cai chi hai ye e	菜翅亥夜蛾	0
+cai guan gui	材棺龟	0
+cai hong chang luo	彩虹錩螺	0
+cai hong dong wa	彩虹洞蛙	0
+cai hong hai zhu yu	彩虹海猪鱼	0
+cai hong jian shui yu	彩虹溅水鱼	0
+cai hong zhang bi tian niu	彩虹长臂天牛	0
+cai huan ta luo	彩環塔螺	0
+cai hui dong wu qi zuo ping	彩绘动物漆座屏	0
+cai hui zhui wei ying wu	彩绘錐尾鹦鹉	0
+cai jiao chi yan xun wen	彩角迟眼蕈蚊	0
+cai qie dan mai sui feng	裁切淡脉隧蜂	0
+cai se lu ye e	彩色鲁夜蛾	0
+cai shi zhong dong diao	蔡氏中洞鲷	0
+cai tiao mei gui	彩条玫瑰	0
+cai ye fu fang teng ye e	彩叶扶芳藤夜蛾	0

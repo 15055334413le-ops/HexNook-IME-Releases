@@ -1,0 +1,192 @@
+xiu shi fu	修饰符	27433
+xiu zheng	修正	26799
+xiu xian che	休闲车	22990
+xiu gai wen jian	修改文件	15038
+xiu gai shi jian	修改时间	12485
+xiu ke	休克	7734
+xiu gai mi ma	修改密码	7311
+xiu jue	嗅觉	5684
+xiu li chang	修理厂	4041
+xiu shou pang guan	袖手旁观	3614
+xiu mian zhuang tai	休眠状态	3354
+xiu shan	秀山	2611
+xiu suan jia	溴酸钾	2579
+xiu tan	嗅探	2211
+xiu qi yu gong	休戚与共	2089
+xiu yang sheng xi	休养生息	2022
+xiu shui	秀水	1715
+xiu gai zi duan	修改字段	1658
+xiu qi xiang guan	休戚相关	1106
+xiu ding ban	修订版	1095
+xiu gai zi ti	修改字体	1011
+xiu shui	修水	780
+xiu shan xian	秀山县	663
+xiu tan qi	嗅探器	630
+xiu si	休斯	621
+xiu zhen gu	秀珍菇	519
+xiu feng	秀峰	489
+xiu ning	休宁	481
+xiu xi di de	修昔底德	456
+xiu xian you xi	休闲游戏	357
+xiu xian jie	休闲街	351
+xiu wei xiang tou	臭味相投	334
+xiu yan	岫岩	333
+xiu xian chang lang	休闲长廊	325
+xiu se ke can	秀色可餐	319
+xiu gai bao ming	修改包名	313
+xiu xian yu le	休闲娱乐	304
+xiu cheng	秀城	301
+xiu zao chang	修造厂	284
+xiu wu	修武	251
+xiu wai hui zhong	秀外慧中	236
+xiu fu ti	修复体	225
+xiu fu shu	修复术	195
+xiu qi zhi ping	修齐治平	184
+xiu yi te	休伊特	172
+xiu yu	秀屿	156
+xiu gai xiang mu ming cheng	修改项目名称	154
+xiu jiu li fei	修旧利废	143
+xiu liu	鸺鹠	122
+xiu shan	绣山	112
+xiu zhen gou	袖珍狗	110
+xiu qiao bu lu	修桥补路	101
+xiu men	休门	96
+xiu xin yang xing	修心养性	96
+xiu xi qi	休息期	92
+xiu bing	锈病	84
+xiu hua zhen tou	绣花枕头	81
+xiu mao ping	秀茂坪	80
+xiu qiu gan bei	绣球干贝	80
+xiu yan lu	秀沿路	68
+xiu gou	袖狗	64
+xiu gai jian ce	修改检测	62
+xiu hua lu	秀华路	59
+xiu chuan lu	秀川路	55
+xiu jue sang shi	嗅觉丧失	54
+xiu jue zhang ai	嗅觉障碍	53
+xiu yuan	秀园	51
+xiu rong	修容	50
+xiu fu jiao ben	修复脚本	47
+xiu mian fang shi	休眠方式	47
+xiu shui yuan	秀水苑	46
+xiu zheng lu	修正路	45
+xiu cai bu chu men	秀才不出门	44
+xiu mu bu ke diao	朽木不可雕	41
+xiu lv da chen shen jia ben	修律大臣沈家本	37
+xiu chuan jie dao	秀川街道	29
+xiu ji yi an bai xing	修己以安百姓	29
+xiu lan deng bo er	秀兰邓波尔	27
+xiu qiu yu chi	绣球鱼翅	27
+xiu tu	秀涂	27
+xiu ji yi an ren	修己以安人	26
+xiu shen tang	修身堂	25
+xiu jia wan	溴甲烷	24
+xiu li shi jian	修理时间	24
+xiu mian dui lie	休眠队列	24
+xiu xi	秀溪	23
+xiu cai zao fan	秀才造反	22
+xiu yue jie	秀月街	22
+xiu yan	秀岩	21
+xiu shan cun	秀山村	19
+xiu ming	羞明	18
+xiu gai quan ju she zhi	修改全局设置	16
+xiu qiu qian bei	绣球乾贝	16
+xiu fu mei	修复酶	14
+xiu shan zhong xue	秀山中学	14
+xiu hua	修华	12
+xiu men jie dao	休门街道	12
+xiu zhi qi tuo fa	休止期脱发	10
+xiu li lu	秀丽路	9
+xiu lin jie dao	绣林街道	9
+xiu shui lu	秀水路	9
+xiu xi bao	嗅细胞	9
+xiu zhou zhong xue	秀州中学	8
+xiu jue gan shou qi	嗅觉感受器	7
+xiu qing	修庆	7
+xiu wen jie	修文街	7
+xiu yin ting	溴隐亭	7
+xiu shi ji yin	修饰基因	6
+xiu xi cun	秀溪村	6
+xiu gou nao mo liu	嗅沟脑膜瘤	5
+xiu mian ya	休眠芽	5
+xiu shuo lu yu kan kuai	休说鲈鱼堪脍	5
+xiu wen guan	修文馆	5
+xiu xin lu	秀新路	5
+xiu yuan lu	秀园路	5
+xiu chu jiu fu rong	秀出九芙蓉	4
+xiu jiang bai fa chang huang ji	休将白发唱黄鸡	4
+xiu jiang jie dao	秀江街道	4
+xiu tu wang	休屠王	4
+xiu yan wei chang kai	羞颜未尝开	4
+xiu yi	修仪	4
+xiu bing an tai lin	溴丙胺太林	3
+xiu dui gu ren si gu guo	休对故人思故国	3
+xiu gu luan shan	秀姑峦山	3
+xiu jia wan zhong du	溴甲烷中毒	3
+xiu qiu quan yu	绣球全鱼	3
+xiu shan xue zao	秀山雪枣	3
+xiu shou wu yan wei zui zhang	袖手无言味最长	3
+xiu tu cun	秀涂村	3
+xiu zhou gong yuan	秀洲公园	3
+xiu hua ji shu ruo xie	绣花脊熟若蟹	2
+xiu jue dao cuo	嗅觉倒错	2
+xiu qing lu	秀清路	2
+xiu se gu yi zhuang	秀色固异状	2
+xiu sha rui zhu gong nv	羞杀蕊珠宫女	2
+xiu shi xing wei	修饰行为	2
+xiu shui shuang jing cha	修水双井茶	2
+xiu ye ta qing lai bu ding	秀野踏青来不定	2
+xiu yi shi jian xiang	嗅异世间香	2
+xiu yuan	修媛	2
+xiu zheng	休徵	2
+xiu ben na min	溴苯那敏	1
+xiu cheng ge wu yi	绣成歌舞衣	1
+xiu er bu shi zhe you yi fu	秀而不实者有矣夫	1
+xiu er bu wei ye	羞而不为也	1
+xiu feng li	秀峰里	1
+xiu jia gou	修家沟	1
+xiu ju man jiang guo	秀句满江国	1
+xiu kan bai fa sheng	休看白发生	1
+xiu ke fei	休克肺	1
+xiu ke xing fei yan	休克型肺炎	1
+xiu ma xiang	秀麻乡	1
+xiu mi na pu lu ka yin	溴米那普鲁卡因	1
+xiu mian luan	休眠卵	1
+xiu se kong jue shi	秀色空绝世	1
+xiu se yan jin gu	秀色掩今古	1
+xiu shou zhan zhi ju	修守战之具	1
+xiu shui dao	秀水道	1
+xiu yi bu xi fu chen kan	绣衣不惜拂尘看	1
+xiu zhen ying han fa lv ci dian	袖珍英汉法律词典	1
+xiu zhi yu tian xia	修之于天下	1
+xiu zhong hu jian san xing zi	袖中忽见三行字	1
+xiu zhong xiang	秀钟乡	1
+xiu zhou bei lu	秀州北路	1
+xiu zhu xiang ren sai zi gu	羞逐乡人赛紫姑	1
+xiu ban yan luo	銹斑岩螺	0
+xiu chun xuan chong	秀唇旋虫	0
+xiu ding zhen wei que	绣顶针尾雀	0
+xiu e ya ba weng	锈额哑霸鹟	0
+xiu fen die ya ke	袖粉蝶亚科	0
+xiu gong mai jian feng	秀弓脉茧蜂	0
+xiu hua yi	绣花鮨	0
+xiu hua you nian	绣滑油鲶	0
+xiu huang ying tu ye ming	锈黄缨突野螟	0
+xiu kang zhi huan chong	秀康指环虫	0
+xiu li hong xie gui	秀丽红胁鱥	0
+xiu li ke chong	秀栗壳虫	0
+xiu li rong zhi kong shan bei	秀丽荣栉孔扇贝	0
+xiu liu shu	鸺鹠属	0
+xiu mei zhou e	锈玫舟蛾	0
+xiu mu shi bi	休姆氏鵖	0
+xiu mu ye e	朽木夜蛾	0
+xiu ren yang	修仁鰑	0
+xiu se mao dun mang chun	秀色毛盾盲蝽	0
+xiu se xi chi di diao	銹色细齿笛鲷	0
+xiu se xiao piao chong	锈色小瓢虫	0
+xiu si dan nang ke	锈丝单囊壳	0
+xiu xiao shui mu chong	秀小水母虫	0
+xiu xiong bian zui ba weng	锈胸扁嘴霸鹟	0
+xiu ying yin lin zhu	秀英银鳞蛛	0
+xiu zhang juan guan luo	修長捲管螺	0
+xiu zhu bao luo	繡珠寶螺	0

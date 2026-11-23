@@ -1,0 +1,9 @@
+pai sheng lei	派生类	670
+pai xu fang fa	排序方法	505
+pai cuo	排错	440
+pai xu gui ze	排序规则	419
+pai xu er cha shu	排序二叉树	280
+pai xu ce lve	排序策略	248
+pai ming suan fa	排名算法	217
+pai xu wang luo	排序网络	164
+pai xu jian suo	排序检索	146

@@ -1,0 +1,11 @@
+wqecs	完全二叉树	473
+wqf	位取反	420
+wqbb	完全背包	397
+wqfbs	完全分布式	303
+wqpfs	完全平方数	297
+wqwt	完全问题	244
+wqs	完全数	211
+wqhsyl	完全函数依赖	208
+wqbm	完全保密	147
+wqj	无穷集	101
+wqd	位驱动	94

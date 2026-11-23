@@ -1,0 +1,44 @@
+ping mu kuan du	屏幕宽度	487
+ping heng er cha shu	平衡二叉树	439
+ping mu fang xiang	屏幕方向	421
+ping mu shi pei	屏幕适配	409
+ping guo kai fa	苹果开发	401
+ping mu xuan zhuan	屏幕旋转	399
+ping mu mi du	屏幕密度	395
+ping mu gao du	屏幕高度	386
+ping mu zuo biao	屏幕坐标	379
+ping guo guan fang wen dang	苹果官方文档	321
+ping mu kuan gao	屏幕宽高	301
+ping tai yi zhi	平台移植	290
+ping yi bian huan	平移变换	283
+ping mu qie huan	屏幕切换	280
+ping mu bao hu	屏幕保护	257
+ping jun deng dai shi jian	平均等待时间	256
+ping guo shen he	苹果审核	255
+ping jia han shu	评价函数	250
+ping mu zi shi ying	屏幕自适应	240
+ping mian wen jian	平面文件	222
+ping tai diao yong	平台调用	222
+ping hua cheng du	平滑程度	206
+ping guo ying yong shang dian	苹果应用商店	200
+ping xing tou ying	平行投影	197
+ping jun xun dao shi jian	平均寻道时间	193
+ping guo zhi fu	苹果支付	192
+ping bi ji cun qi	屏蔽寄存器	185
+ping bi shuang jiao xian	屏蔽双绞线	180
+ping mu gong xiang	屏幕共享	179
+ping tai qi ye ban	平台企业版	177
+ping mu te xiao	屏幕特效	165
+ping xing yu liao ku	平行语料库	154
+ping jun fang wen shi jian	平均访问时间	153
+ping mian zui jin dian dui	平面最近点对	137
+ping jun xiu fu shi jian	平均修复时间	135
+ping mian ying she	平面映射	133
+ping jun cun qu shi jian	平均存取时间	125
+ping mian wen jian xi tong	平面文件系统	123
+ping ban sao miao yi	平板扫描仪	107
+ping fan han shu yi lai	平凡函数依赖	107
+ping mian di zhi kong jian	平面地址空间	104
+ping heng gui bing pai xu	平衡归并排序	93
+ping pang mo shi	乒乓模式	91
+ping heng yu liao ku	平衡语料库	86

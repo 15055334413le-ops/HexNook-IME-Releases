@@ -1,0 +1,121 @@
+tu pian zi yuan	图片资源	582
+tu pian jia zai	图片加载	545
+tu pian huan cun	图片缓存	491
+tu pian xia zai	图片下载	453
+tu xing hua jie mian	图形化界面	420
+tu pian zhuan huan	图片转换	370
+tu pian suo fang	图片缩放	366
+tu xing hui zhi	图形绘制	366
+tu xiang te zheng	图像特征	353
+tu duo bian xing	凸多边形	344
+tu xiang ya suo	图像压缩	340
+tu xing shang xia wen	图形上下文	340
+tu pian fu wu qi	图片服务器	334
+tu pian fang da	图片放大	331
+tu suan fa	图算法	325
+tu xing yin qing	图形引擎	324
+tu pian cai jian	图片裁剪	322
+tu pian jia zai kuang jia	图片加载框架	314
+tu pian liu lan qi	图片浏览器	312
+tu xiang jian suo	图像检索	311
+tu pian liu lan	图片浏览	307
+tu pian yi bu jia zai	图片异步加载	303
+tu xing bian cheng	图形编程	301
+tu pian qie huan	图片切换	300
+tu pian lun bo	图片轮播	299
+tu xing she bei	图形设备	296
+tu pian xuan zhuan	图片旋转	295
+tu xiang zeng qiang	图像增强	294
+tu de bian li	图的遍历	293
+tu xiang bian huan	图像变换	293
+tu pian la shen	图片拉伸	290
+tu xing xi tong	图形系统	289
+tu xiang kong jian	图像空间	286
+tu pian shui yin	图片水印	284
+tu xiang jin zi ta	图像金字塔	279
+tu xiang suo fang	图像缩放	279
+tu xiang xu lie	图像序列	279
+tu xing chu li qi	图形处理器	275
+tu pian yu lan	图片预览	273
+tu xiang xuan zhuan	图像旋转	273
+tu xing yong hu jie kou	图形用户接口	269
+tu de cun chu	图的存储	261
+tu xiang lv bo	图像滤波	261
+tu xiang pi pei	图像匹配	260
+tu xiang bian ma	图像编码	258
+tu xiang chu li suan fa	图像处理算法	258
+tu xiang ti du	图像梯度	256
+tu pian he cheng	图片合成	254
+tu biao zi ti	图标字体	250
+tu xiang te zheng ti qu	图像特征提取	250
+tu pian gun dong	图片滚动	247
+tu xing jie gou	图形结构	246
+tu pian guan li	图片管理	245
+tu shu guan li xi tong	图书管理系统	243
+tu xiang pei zhun	图像配准	243
+tu xiang pin jie	图像拼接	241
+tu xiang chu li	图象处理	240
+tu xiang ping mian	图像平面	240
+tu pian xuan ze qi	图片选择器	237
+tu xing shu ju ku	图形数据库	237
+tu pian yan zheng ma	图片验证码	236
+tu pian cha kan qi	图片查看器	235
+tu xiang zhi fang tu	图像直方图	235
+tu xiang qu zao	图像去噪	232
+tu pian yuan jiao	图片圆角	231
+tu pian you hua	图片优化	230
+tu pian lun bo qi	图片轮播器	228
+tu xiang suan fa	图像算法	228
+tu xiang ping hua	图像平滑	227
+tu xing ji shu	图形技术	227
+tu xiang sou suo	图像搜索	224
+tu xiang rong he	图像融合	222
+tu xing zi fu	图形字符	222
+tu bian li	图遍历	219
+tu xing kai fa	图形开发	218
+tu xing tu xiang chu li	图形图像处理	217
+tu ling ji qi ren	图灵机器人	215
+tu xiang lv jing	图像滤镜	215
+tu lun suan fa	图论算法	213
+tu pian jian qie	图片剪切	213
+tu pian shi pei	图片适配	213
+tu xiang cai jian	图像裁剪	213
+tu sou suo	图搜索	212
+tu xiang han shu	图像函数	209
+tu pian zi shi ying	图片自适应	202
+tu xiang zhong jian	图像重建	202
+tu xing xin pian	图形芯片	202
+tu xing suan fa	图形算法	196
+tu pian jian cai	图片剪裁	194
+tu pian te xiao	图片特效	193
+tu xiang shu ju ku	图像数据库	193
+tu xiang te xiao	图像特效	193
+tu pian kuang jia	图片框架	181
+tu xiang fu yuan	图像复原	179
+tu xiang zhi liang ping jia	图像质量评价	176
+tu xing gong zuo zhan	图形工作站	176
+tu fa chuan shu	突发传输	174
+tu xiang ju bu te zheng	图像局部特征	168
+tu xiang yuan	图像元	168
+tu xing yu yan	图形语言	165
+tu xiang tu xiang	图像图像	160
+tu xiang qu wu	图像去雾	155
+tu xing shi bie	图形识别	154
+tu xing shi pei qi	图形适配器	153
+tu xiang shi bie suan fa	图像识别算法	151
+tu lun zhi shi	图论知识	150
+tu xiang dai ma	图像代码	139
+tu xing da yin	图形打印	139
+tu xing tu biao	图形图表	133
+tu ceng lu jing	图层路径	123
+tu xing she bei jie mian	图形设备界面	118
+tu xing xue ji chu	图形学基础	118
+tu tong gou	图同构	116
+tu xing jie gou	图型结构	113
+tu xing shu ru ban	图形输入板	112
+tu xiang ji he xue	图像几何学	104
+tu an die jia	图案叠加	98
+tu shu guan ke hu duan	图书馆客户端	88
+tu di wang	土地网	86
+tu xiang bian jie ma qi	图像编解码器	86
+tu xing xue yuan li	图形学原理	86

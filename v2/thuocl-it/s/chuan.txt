@@ -1,0 +1,40 @@
+chuan di can shu	传递参数	693
+chuan di shu ju	传递数据	622
+chuan xing hua	串行化	475
+chuan can shu	传参数	455
+chuan shu kong zhi xie yi	传输控制协议	449
+chuan di dui xiang	传递对象	418
+chuan xing dui lie	串行队列	372
+chuan kou tong xin	串口通信	357
+chuan yin yong	传引用	345
+chuan pi pei	串匹配	326
+chuan xing tong xin	串行通信	304
+chuan xing duan kou	串行端口	297
+chuan di bi bao	传递闭包	288
+chuan kou tong xun	串口通讯	285
+chuan shu mei ti	传输媒体	272
+chuan kou diao shi	串口调试	269
+chuan shu cuo wu	传输错误	265
+chuan bing	串并	250
+chuan kou bian cheng	串口编程	246
+chuan tong wang luo	传统网络	245
+chuan chu li	串处理	231
+chuan di han shu yi lai	传递函数依赖	225
+chuan shu yan chi	传输延迟	216
+chuan xing chuan shu	串行传输	207
+chuan tong lan ya	传统蓝牙	197
+chuan xing diao du	串行调度	174
+chuan xing pai xu	串行排序	172
+chuan kou ying pan	串口硬盘	163
+chuan tong bian cheng yu yan	传统编程语言	152
+chuan xing ren wu	串行任务	152
+chuan zhen fu wu	传真服务	150
+chuan shu sun hao	传输损耗	142
+chuan zhen fu wu qi	传真服务器	138
+chuan bo wu cha	传播误差	120
+chuan lian pi pei	串联匹配	115
+chuan tong yu fa	传统语法	115
+chuan zhen ruan jian	传真软件	113
+chuan xing jia fa qi	串行加法器	88
+chuan bing zhuan huan qi	串并转换器	86
+chuan xing ji suan ji	串行计算机	86

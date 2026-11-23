@@ -1,0 +1,122 @@
+yi wei shu zu	一维数组	612
+yi lai bao	依赖包	576
+yi chang xin xi	异常信息	574
+yi dong hu lian wang	移动互联网	546
+yi bu jia zai	异步加载	527
+yi bu qing qiu	异步请求	521
+yi bu cao zuo	异步操作	515
+yi bu ren wu	异步任务	504
+yi bu chu li	异步处理	480
+yi bu diao yong	异步调用	460
+yi chang lei xing	异常类型	452
+yi lai guan li	依赖管理	418
+yi huo yun suan	异或运算	415
+yi bu xian cheng	异步线程	408
+yi chang chu li ji zhi	异常处理机制	406
+yi bu xiao xi	异步消息	400
+yi chang zhong zhi	异常终止	391
+yi bu tong xin	异步通信	387
+yi bu bian cheng	异步编程	382
+yi bu fang fa	异步方法	366
+yi bu jia zai tu pian	异步加载图片	363
+yi lai dao zhi yuan ze	依赖倒置原则	360
+yi wei cao zuo	移位操作	360
+yi chang bu huo	异常捕获	359
+yi chang chu li cheng xu	异常处理程序	357
+yi bu tong zhi	异步通知	346
+yi lai dao zhuan yuan ze	依赖倒转原则	346
+yi chang ji zhi	异常机制	341
+yi dong cao zuo xi tong	移动操作系统	328
+yi zhi xing ha xi	一致性哈希	325
+yi dong ke hu duan	移动客户端	319
+yi dong ying yong kai fa	移动应用开发	317
+yi dong kai fa zhe	移动开发者	308
+yi dong chuang kou	移动窗口	305
+yi bu chuan shu	异步传输	302
+yi dong liu lan qi	移动浏览器	299
+yi dong you xi	移动游戏	293
+yi lai dao zhi	依赖倒置	292
+yi chang wen ti	异常问题	289
+yi wei yun suan fu	移位运算符	289
+yi dong duan kai fa	移动端开发	282
+yi chang an quan	异常安全	281
+yi wei ji cun qi	移位寄存器	281
+yi dong ji qi ren	移动机器人	271
+yi ban chu li cheng xu	一般处理程序	270
+yi dong ji suan	移动计算	268
+yi bu shang chuan	异步上传	265
+yi xue tu xiang	医学图像	262
+yi tai wang jiao huan ji	以太网交换机	254
+yi bu guo cheng diao yong	异步过程调用	253
+yi wei hu xing	易维护性	239
+yi chang ji lu	异常记录	236
+yi bu shua xin	异步刷新	233
+yi yuan duo xiang shi	一元多项式	233
+yi dao wen jian wei	移到文件尾	231
+yi chang zhong zhi	异常中止	229
+yi nan jie da	疑难解答	228
+yi chu jian cha	溢出检查	226
+yi xue tu xiang chu li	医学图像处理	225
+yi lai tu	依赖图	221
+yi lai han shu	依赖函数	217
+yi bu gong zuo liu	异步工作流	211
+yi dong wang ye	移动网页	209
+yi dong qian duan	移动前端	207
+yi dong you xian	移动优先	207
+yi dong kai fa kuang jia	移动开发框架	205
+yi dong zhi neng zhong duan	移动智能终端	205
+yi chang fen xi	异常分析	204
+yi dong yu yi	移动语义	202
+yi gou ji suan	异构计算	202
+yi bu chuan shu mo shi	异步传输模式	200
+yi dong guang gao ping tai	移动广告平台	198
+yi dong ce shi	移动测试	196
+yi zhi xing ce shi	一致性测试	188
+yi bu tong bu	异步同步	186
+yi guan li xing	易管理性	186
+yi jie ju	一阶矩	184
+yi dong kai fa ji shu	移动开发技术	183
+yi dong you xi kai fa	移动游戏开发	182
+yi chuan cao zuo	遗传操作	179
+yi zhi xing yue shu	一致性约束	179
+yi dong dian zi shang wu	移动电子商务	178
+yi dong lei	移动类	177
+yi dong chuang ti	移动窗体	176
+yi dong shi pin	移动视频	176
+yi bu fu wei	异步复位	175
+yi dong xin xi hua	移动信息化	174
+yi dong ping tai kai fa	移动平台开发	171
+yi jian suo ping	一键锁屏	171
+yi bu kong zhi	异步控制	167
+yi lai fang	依赖方	166
+yi fen xiang	已分享	164
+yi dong ying yong ce shi	移动应用测试	159
+yi dui yi lian xi	一对一联系	157
+yi zhi xing jian yan	一致性检验	157
+yi jie luo ji	一阶逻辑	156
+yi dong kai fa gong ju	移动开发工具	155
+yi huo fang cheng zu	异或方程组	154
+yi liu lei	遗留类	148
+yi shi xing cun chu qi	易失性存储器	148
+yi wai ting ji	意外停机	144
+yi chang shou ji	异常收集	142
+yi chang diao shi	异常调试	141
+yi jian bei fen	一键备份	137
+yi ban tu pi pei	一般图匹配	131
+yi dong jing tou	移动镜头	126
+yi xing wei wei zhong xin	以行为为中心	126
+yi dong jia gou	移动架构	125
+yi dong dai li	移动代理	122
+yi xue ying xiang chu li	医学影像处理	116
+yi jing di qiu	易景地球	108
+yi dong qian duan kuang jia	移动前端框架	105
+yi bu shi fen fu yong	异步时分复用	104
+yi zhi ming wen gong ji	已知明文攻击	104
+yi xiu gai xing	易修改性	103
+yi bu suan fa	异步算法	101
+yi dong ji suan ji	移动计算机	100
+yi wei cheng fa	移位乘法	100
+yi cun jie gou	依存结构	93
+yi dong zhi neng dian shi	移动智能电视	93
+yi wang yin zi	遗忘因子	93
+yi cun guan xi shu	依存关系树	91

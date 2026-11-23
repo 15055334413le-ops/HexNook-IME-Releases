@@ -1,0 +1,147 @@
+wen jian lu jing	文件路径	777
+wen jian mu lu	文件目录	662
+wen jian miao shu fu	文件描述符	653
+wen jian kao bei	文件拷贝	636
+wen ben bian ji qi	文本编辑器	629
+wen jian fu zhi	文件复制	626
+wen jian cao zuo	文件操作	621
+wen jian bao cun	文件保存	599
+wen jian bao han	文件包含	596
+wen jian du qu	文件读取	557
+wen jian chuang jian	文件创建	525
+wen jian jie gou	文件结构	517
+wen jian liu	文件流	517
+wen jian quan xian	文件权限	513
+wen jian shu xing	文件属性	509
+wen jian ju bing	文件句柄	503
+wen jian xie ru	文件写入	485
+wen jian shan chu	文件删除	480
+wen jian du xie	文件读写	476
+wen jian ding yi	文件定义	455
+wen jian fang wen	文件访问	452
+wen jian di zhi	文件地址	437
+wen jian chu li	文件处理	436
+wen jian bian ma	文件编码	434
+wen jian ya suo	文件压缩	424
+wen jian he bing	文件合并	403
+wen jian fu wu qi	文件服务器	398
+wen jian chuan shu xie yi	文件传输协议	397
+wen ben shu ru kuang	文本输入框	393
+wen ben yu	文本域	386
+wen dang zhu shi	文档注释	380
+wen jian sou suo	文件搜索	378
+wen ben fen lei	文本分类	369
+wen jian jie xi	文件解析	367
+wen ding pai xu	稳定排序	363
+wen jian cha zhao	文件查找	357
+wen jian bei fen	文件备份	354
+wen jian jia mi	文件加密	353
+wen jian chi cun	文件尺寸	347
+wen jian hui fu	文件恢复	346
+wen jian liu lan qi	文件浏览器	342
+wen ben ti huan	文本替换	337
+wen jian chuan song	文件传送	334
+wen ben biao qian	文本标签	326
+wen jian tong bu	文件同步	325
+wen ben shu chu	文本输出	323
+wen jian zu zhi	文件组织	313
+wen li ying she	纹理映射	312
+wen ti ding wei	问题定位	312
+wen ti jie jue fang an	问题解决方案	310
+wen jian cun qu	文件存取	307
+wen li tie tu	纹理贴图	307
+wen jian cao zuo han shu	文件操作函数	302
+wen jian dui hua kuang	文件对话框	301
+wen jian jia da xiao	文件夹大小	296
+wen dang jie xi	文档解析	295
+wen jian fen ge	文件分割	293
+wen du chuan gan qi	温度传感器	292
+wen jian kong zhi	文件控制	289
+wen ti jie jue fang fa	问题解决方法	289
+wen zi ju zhong	文字居中	283
+wen ti pai cha	问题排查	281
+wen dang chu li	文档处理	279
+wen dang guan li	文档管理	276
+wen jian fen pei	文件分配	276
+wen ti xiu fu	问题修复	275
+wen dang shu ju ku	文档数据库	271
+wen jian bao hu	文件保护	266
+wen dang mo ban	文档模板	261
+wen jian kong jian	文件空间	259
+wen jian shu ru shu chu	文件输入输出	259
+wen jian shang chuan xia zai	文件上传下载	256
+wen jian tuo zhuai	文件拖拽	254
+wen li tu xiang	纹理图像	253
+wen ben jie xi	文本解析	252
+wen dang fan yi	文档翻译	251
+wen jian zhong ding xiang	文件重定向	250
+wen dang jian suo	文档检索	248
+wen jian guan li xi tong	文件管理系统	245
+wen dang bian ji	文档编辑	243
+wen jian zi xi tong	文件子系统	241
+wen li ya suo	纹理压缩	240
+wen ben jian suo	文本检索	236
+wen jian fen pei biao	文件分配表	231
+wen ti bao gao	问题报告	228
+wen jian ming kuo zhan	文件名扩展	227
+wen ti zhuang tai	问题状态	225
+wen da xi tong	问答系统	224
+wen jian cao zuo ming ling	文件操作命令	224
+wen jian fen xiang	文件分享	224
+wen ben bi jiao	文本比较	221
+wen jian jia cao zuo	文件夹操作	221
+wen jian an quan	文件安全	217
+wen ben ju lei	文本聚类	216
+wen jian chuan song xie yi	文件传送协议	211
+wen jian yu lan	文件预览	207
+wen ti zhen duan	问题诊断	207
+wen jian ming luan ma	文件名乱码	206
+wen jian wei hu	文件维护	203
+wen ben guo lv	文本过滤	199
+wen jian bian li	文件遍历	199
+wen jian liu cao zuo	文件流操作	191
+wen zi gun dong	文字滚动	191
+wen jian jian kong	文件监控	190
+wen ti ji	问题集	189
+wen ya dian yuan	稳压电源	185
+wen ben fen ci	文本分词	182
+wen zi zhuan yu yin	文字转语音	181
+wen jian cun chu qi	文件存储器	180
+wen jian bian cheng	文件编程	179
+wen jian fen duan	文件分段	176
+wen xian guan li	文献管理	176
+wen ben bian ji cheng xu	文本编辑程序	175
+wen ben shu ju ku	文本数据库	174
+wen ben cha xun	文本查询	173
+wen dang ji bie	文档级别	171
+wen jian xi tong zhi zuo	文件系统制作	169
+wen dang bian zhi	文档编制	167
+wen ding hun yin wen ti	稳定婚姻问题	167
+wen jian kong zhi kuai	文件控制块	167
+wen jian qian yi	文件迁移	166
+wen ding shi jian	稳定时间	159
+wen jian bi jiao gong ju	文件比较工具	159
+wen jian xi tong jie duan	文件系统阶段	159
+wen ti ji he	问题集合	158
+wen xian shu ju ku	文献数据库	157
+wen tai wu cha	稳态误差	153
+wen jian dui bi gong ju	文件对比工具	151
+wen zhang li jie	文章理解	150
+wen zi da yin	文字打印	150
+wen jian lu jing wen ti	文件路径问题	148
+wen ti gui na	问题归纳	147
+wen ben ku	文本库	144
+wen li hua	纹理化	142
+wen jian pi liang shang chuan	文件批量上传	140
+wen ben fang fa	文本方法	139
+wen jian jia bian li	文件夹遍历	135
+wen li fen ge	纹理分割	133
+wen ti gui yue	问题归约	122
+wen ben xiang shi du	文本相似度	116
+wen ti bei wang	问题备忘	115
+wen du kong zhi qi	温度控制器	108
+wen xian li jie	文献理解	105
+wen tai xin hao	稳态信号	103
+wen li bian ma	纹理编码	96
+wen dang bian jie	文档边界	91
+wen ben bian xie qi	文本编写器	88

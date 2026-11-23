@@ -1,0 +1,13 @@
+plcz	批量操作	396
+plsc	批量删除	393
+plcr	批量插入	375
+plgx	批量更新	372
+plxg	批量修改	325
+plsc	批量上传	309
+plxz	批量下载	279
+plth	批量替换	253
+plcrsj	批量插入数据	252
+plmsf	普里姆算法	217
+pldr	旁路电容	182
+plkp	批量开票	101
+plkz	批量控制	101

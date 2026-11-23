@@ -1,0 +1,56 @@
+xu ni di zhi	虚拟地址	541
+xu lie tu	序列图	509
+xu han shu biao	虚函数表	431
+xu ni mu lu	虚拟目录	401
+xu fang fa	虚方法	396
+xu ni wen jian xi tong	虚拟文件系统	390
+xu ni she bei	虚拟设备	381
+xu ni hua ji shu	虚拟化技术	379
+xu ji cheng	虚继承	331
+xu ni zhong duan	虚拟终端	331
+xu ni ji an zhuang	虚拟机安装	329
+xu xi gou han shu	虚析构函数	327
+xu ni ci pan	虚拟磁盘	318
+xu ni xi tong	虚拟系统	317
+xu ni cun chu	虚拟存储	310
+xu ni cun chu qi	虚拟存储器	307
+xu ni guang qu	虚拟光驱	296
+xu huan yin qing	虚幻引擎	274
+xu ni kong zhi tai	虚拟控制台	265
+xu ni ju yu wang	虚拟局域网	250
+xu zhi zhen	虚指针	250
+xu ni zhuan yong wang luo	虚拟专用网络	242
+xu qiu jie duan	需求阶段	240
+xu ni chuan kou	虚拟串口	228
+xu ni chu li qi	虚拟处理器	227
+xu ni xian shi ji shu	虚拟现实技术	225
+xu ni zhuan yong wang	虚拟专用网	216
+xu ni ji suan ji	虚拟计算机	215
+xu ni pan	虚拟盘	214
+xu shu	虚树	207
+xu ni cheng yuan	虚拟成员	204
+xu ni guang pan	虚拟光盘	183
+xu ni cao zuo xi tong	虚拟操作系统	182
+xu ni cun chu guan li	虚拟存储管理	178
+xu ou	序偶	175
+xu lie biao da shi	序列表达式	171
+xu qiu gong cheng	需求工程	171
+xu qiu yan zheng	需求验证	167
+xu lie mi ma	序列密码	158
+xu ni yao gan	虚拟摇杆	155
+xu ni ruan pan	虚拟软盘	148
+xu qiu gui yue	需求规约	148
+xu lie xing	序列型	139
+xu ni fang shi	虚拟方式	123
+xu can shu	虚参数	114
+xu ni shi jing	虚拟实境	113
+xu qiu han shu	需求函数	103
+xu ni ku	虚拟库	101
+xu ni qi ye	虚拟企业	101
+xu tong dao	虚通道	98
+xu ye hao	虚页号	98
+xu ni shi dian	虚拟视点	96
+xu ni tu shu guan	虚拟图书馆	93
+xu ni zhuang pei	虚拟装配	91
+xu qiu shen cha	需求审查	88
+xu ni zhi zao	虚拟制造	86

@@ -1,0 +1,21 @@
+du qu wen jian	读取文件	693
+du wen jian	读文件	511
+du xie wen jian	读写文件	492
+du xie fen li	读写分离	465
+du qu pei zhi wen jian	读取配置文件	464
+du ru shu ju	读入数据	451
+du xie suo	读写锁	437
+du qu tu xiang	读取图像	323
+du ru yi xing	读入一行	323
+du li kai fa zhe	独立开发者	260
+du wen ben	读文本	256
+du li cheng xu	独立程序	222
+du hou xie	读后写	215
+du shu xing	读属性	198
+du liang kong jian	度量空间	196
+du xie ci tou	读写磁头	195
+du ren wu	读任务	157
+du xie zhou qi	读写周期	157
+du chu dian lu	读出电路	86
+du shu ju xian	读数据线	86
+du xie kong zhi dian lu	读写控制电路	86

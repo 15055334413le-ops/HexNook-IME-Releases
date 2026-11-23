@@ -1,0 +1,166 @@
+suan nai	酸奶	153794
+suan fa shi xian	算法实现	10732
+suan miao	蒜苗	10109
+suan mei tang	酸梅汤	9405
+suan rong	蒜蓉	8133
+suan cai yu	酸菜鱼	8023
+suan shu yun suan	算术运算	5873
+suan fa she ji	算法设计	5463
+suan la fen	酸辣粉	5104
+suan fa si xiang	算法思想	4946
+suan shu yun suan fu	算术运算符	4304
+suan tang yu	酸汤鱼	4062
+suan tong	酸痛	4007
+suan fa fu za du	算法复杂度	3981
+suan fa fen xi	算法分析	3775
+suan tian ku la	酸甜苦辣	3773
+suan la tang	酸辣汤	3399
+suan fa dao lun	算法导论	3394
+suan fa yuan li	算法原理	2816
+suan dou	酸豆	2370
+suan cheng	酸橙	2237
+suan shu biao da shi	算术表达式	2236
+suan fa dai ma	算法代码	1598
+suan zi	蒜子	1584
+suan fa lei	算法类	1557
+suan mei	酸莓	1450
+suan yu	酸鱼	1350
+suan fa you hua	算法优化	1197
+suan fa yan jiu	算法研究	1152
+suan jian du	酸碱度	1015
+suan nai zi	酸奶子	924
+suan la tu dou si	酸辣土豆丝	896
+suan bai cai	酸白菜	792
+suan fa xun lian	算法训练	782
+suan ni bai rou	蒜泥白肉	773
+suan niu ru	酸牛乳	677
+suan la yu	酸辣鱼	608
+suan fa jie gou	算法结构	570
+suan shu cao zuo fu	算术操作符	568
+suan shu ping jun	算术平均	567
+suan fa zhi dao	算法之道	561
+suan fa li lun	算法理论	501
+suan bai	酸败	470
+suan fa fen lei	算法分类	429
+suan xing hong	酸性红	385
+suan fa jing sai	算法竞赛	383
+suan fa ti gao	算法提高	363
+suan fa zhi shi	算法知识	354
+suan la mian	酸辣面	339
+suan du tiao jie ji	酸度调节剂	328
+suan zhong du	酸中毒	321
+suan shu yi wei	算术移位	300
+suan fa li jie	算法理解	295
+suan fa shu ju jie gou	算法数据结构	273
+suan la bai cai	酸辣白菜	263
+suan la dou hua	酸辣豆花	252
+suan fa zheng que xing	算法正确性	251
+suan fa mu ban	算法模板	239
+suan shu luo ji dan yuan	算术逻辑单元	228
+suan tang shui jiao	酸汤水饺	209
+suan fa jiang jie	算法讲解	207
+suan cai niu	酸菜牛	198
+suan cai niu rou	酸菜牛肉	194
+suan cai chao mi	酸菜炒米	178
+suan fa jie xi	算法解析	173
+suan fa bian cheng	算法编程	170
+suan mu gua	酸木瓜	152
+suan fa shi yan	算法实验	133
+suan fa yu yan	算法语言	114
+suan ni huang gua	蒜泥黄瓜	113
+suan sun zhu ji	酸笋煮鸡	112
+suan fa zhi mei	算法之美	99
+suan fa shi li	算法示例	96
+suan fa zheng li	算法整理	92
+suan luo bo lao ya tang	酸萝卜老鸭汤	92
+suan cai fen si tang	酸菜粉丝汤	88
+suan ni qie zi	蒜泥茄子	83
+suan fa dao lun xi ti	算法导论习题	75
+suan la feng zhao	酸辣凤爪	69
+suan nai bing	酸奶饼	68
+suan fa jing dian	算法经典	66
+suan cai zhu rou dun fen tiao	酸菜猪肉炖粉条	65
+suan fa xiao jie	算法小结	64
+suan fa he ji	算法合集	62
+suan zao ling	酸枣岭	59
+suan cai huo guo	酸菜火锅	54
+suan la niu rou	酸辣牛肉	52
+suan dou jiao chao rou mo	酸豆角炒肉末	51
+suan la du si tang	酸辣肚丝汤	49
+suan la ti jin	酸辣蹄筋	44
+suan shu ping jun shu	算术平均数	40
+suan fa shi jian	算法实践	38
+suan la jue gen fen	酸辣蕨根粉	37
+suan la ji za	酸辣鸡杂	36
+suan nai huang gua	酸奶黄瓜	36
+suan fa jing sui	算法精髓	32
+suan fa hui zong	算法汇总	29
+suan la da bai cai	酸辣大白菜	29
+suan la gou rou	酸辣狗肉	28
+suan rong fen si zheng shan bei	蒜蓉粉丝蒸扇贝	28
+suan fa fen xiang	算法分享	26
+suan fa jie ti	算法解题	25
+suan la ou ding	酸辣藕丁	24
+suan zao ren tang	酸枣仁汤	24
+suan huang cai	酸黄菜	23
+suan shu luo ji bu jian	算术逻辑部件	23
+suan fa cheng xu she ji	算法程序设计	22
+suan fa mo ban	算法模版	22
+suan zi yao zhu pu	蒜子瑶柱脯	22
+suan fa chu bu	算法初步	21
+suan tang mi xian	酸汤米线	21
+suan fa jin hua li cheng	算法进化历程	20
+suan fa shi zhan	算法实战	20
+suan ma yi dan	酸蚂蚁蛋	20
+suan la fei chang	酸辣肥肠	17
+suan cai hei ge tiao	酸菜黑圪条	16
+suan cai you yu	酸菜鱿鱼	16
+suan dou jiao rou mo	酸豆角肉沫	16
+suan bao rou	蒜爆肉	15
+suan fa bao mi	算法保密	13
+suan la geng	酸辣羹	13
+suan la ji ding	酸辣鸡丁	12
+suan zao lu	酸枣露	11
+suan nai guo dong	酸奶果冻	10
+suan cai zhu yu	酸菜煮鱼	9
+suan rong bai cai	蒜蓉白菜	8
+suan cai xiao dou tang	酸菜小豆汤	7
+suan xiang nian yu	蒜香鲶鱼	7
+suan la jiao mian	酸辣饺面	6
+suan la zhou zi	酸辣肘子	6
+suan shan	算山	6
+suan ci gou	酸刺沟	5
+suan la you yu si	酸辣鱿鱼丝	5
+suan bao cai chao fen pi	酸包菜炒粉皮	4
+suan cai mei yu	酸菜梅鱼	4
+suan la luo bo gan	酸辣萝卜干	4
+suan la yan shui dou hua	酸辣岩水豆花	4
+suan qiu	算球	4
+suan sun men yu	酸笋焖鱼	4
+suan tang er si	酸汤饵丝	4
+suan zao se	酸枣色	4
+suan la leng yu	酸辣冷鱼	3
+suan miao chao xia	蒜苗炒虾	3
+suan ren jian zhi ji wu he ru	算人间知己吾和汝	3
+suan tang long gu mian	酸汤龙骨面	3
+suan yan cai chao ou	酸腌菜炒藕	3
+suan la san si	酸辣三丝	2
+suan nai qi feng	酸奶戚风	2
+suan nai zhi shi dan gao	酸奶芝士蛋糕	2
+suan xing lin suan mei	酸性磷酸酶	2
+suan ban kong xin cai	蒜拌空心菜	1
+suan cai er kuai ba	酸菜饵块粑	1
+suan ji fan zhao wo	算几番照我	1
+suan la hai shen guo ba	酸辣海参锅巴	1
+suan la sao zi ti jin	酸辣臊子蹄筋	1
+suan la zhu du	酸辣猪肚	1
+suan xiang jian hai xia	蒜香煎海虾	1
+suan xiang yan rou zheng shan bei	蒜香烟肉蒸扇贝	1
+suan xing dan bai mei	酸性蛋白酶	1
+suan zao ren gou qi cha	酸枣仁枸杞茶	1
+suan zhi jun yu chang jiang	算只君与长江	1
+suan fu niu tou chong	酸腐扭头虫	0
+suan pan ha	算盘蛤	0
+suan pan zhu mo long jing	算盘珠墨龙睛	0
+suan pi mao yu luo	蒜皮猫芋螺	0
+suan tou hua xian luo	蒜頭花仙螺	0

@@ -1,0 +1,225 @@
+zhe jiang sheng	浙江省	67301
+zhe kou	折扣	29929
+zhe li	啫喱	10482
+zhe jiang qi che wang	浙江汽车网	9258
+zhe da	浙大	4092
+zhe jiu	折旧	3866
+zhe jia	折价	3759
+zhe ban cha zhao	折半查找	3034
+zhe xian tu	折线图	2957
+zhe xian	折线	2904
+zhe cai	浙菜	2740
+zhe ban	折半	1701
+zhe jiang sheng tai zhou shi	浙江省台州市	1672
+zhe er mao	折耳猫	1597
+zhe tian bi ri	遮天蔽日	1156
+zhe jiang ji li kong gu ji tuan	浙江吉利控股集团	1135
+zhe zhao ceng	遮罩层	955
+zhe jiang gong ye da xue	浙江工业大学	937
+zhe jiang gong shang da xue	浙江工商大学	878
+zhe ban cha ru pai xu	折半插入排序	778
+zhe jia bu chang	折价补偿	752
+zhe jiang sheng zhuan li	浙江省专利	386
+zhe tang zhi	蔗糖酯	362
+zhe cheng	柘城	311
+zhe rong	柘荣	286
+zhe xian fen ge ping mian	折线分割平面	244
+zhe jiu lv	折旧率	222
+zhe er yi yuan	浙二医院	219
+zhe jiang ke ji xue yuan	浙江科技学院	203
+zhe jiang sheng ping yang xian	浙江省平阳县	197
+zhe si	哲司	196
+zhe shi da	浙师大	184
+zhe tang su	蔗糖素	182
+zhe xi	柘溪	181
+zhe she lv	折射率	171
+zhe ren er mu	遮人耳目	166
+zhe xue ji chu	哲学基础	152
+zhe jiang lu	浙江路	150
+zhe chong	蜇虫	144
+zhe jiang fa zhi bao	浙江法制报	138
+zhe da zi jin gang xiao qu	浙大紫金港校区	137
+zhe tang zhi fang suan zhi	蔗糖脂肪酸酯	136
+zhe lin	柘林	132
+zhe yi yi yuan	浙一医院	126
+zhe bei mu	浙贝母	125
+zhe er gen chao la rou	折耳根炒腊肉	113
+zhe shan wang zhe na shan gao	这山望着那山高	112
+zhe chong	蟅虫	108
+zhe jiang qi che gong cheng xue yuan	浙江汽车工程学院	100
+zhe jiang zhong lu	浙江中路	87
+zhe da fu zhong	浙大附中	86
+zhe li mu meng	哲里木盟	67
+zhe jiang bei lu	浙江北路	64
+zhe jiang sheng jian cha ting	浙江省监察厅	63
+zhe gao zhen	柘皋镇	59
+zhe ban mei ju	折半枚举	58
+zhe jiu shi gong min	这就是公民	55
+zhe bei	浙贝	41
+zhe da ke ji yuan	浙大科技园	37
+zhe jiang sheng xin fang tiao li	浙江省信访条例	37
+zhe xiao xiang	着晓乡	37
+zhe da xi xi xiao qu	浙大西溪校区	29
+zhe jiang wen ling shi ze guo zhen	浙江温岭市泽国镇	29
+zhe da hua jia chi xiao qu	浙大华家池校区	28
+zhe da hu bin xiao qu	浙大湖滨校区	27
+zhe jiang hai liang	浙江海亮	23
+zhe mu	柘木	22
+zhe jiang zha cai	浙江榨菜	19
+zhe jiang wen ling shi da xi zhen	浙江温岭市大溪镇	17
+zhe jiang bai e	浙江白鹅	15
+zhe jiang zhu ji shi da tang zhen	浙江诸暨市大唐镇	15
+zhe jiang wen ling shi xin he zhen	浙江温岭市新河镇	14
+zhe bie	哲别	13
+zhe jiang wen ling shi shi tang zhen	浙江温岭市石塘镇	13
+zhe jiang rui an shi tang xia zhen	浙江瑞安市塘下镇	12
+zhe jiang guang sha	浙江广厦	11
+zhe xian lv	折现率	11
+zhe ji chen sha tie wei xiao	折戟沉沙铁未销	10
+zhe jiang cang nan xian long gang zhen	浙江苍南县龙港镇	10
+zhe jiang yi wu shi fo tang zhen	浙江义乌市佛堂镇	10
+zhe da zhi jiang xiao qu	浙大之江校区	9
+zhe jiang fu yang	浙江富阳	9
+zhe da	这搭	8
+zhe er gen chao rou si	折耳根炒肉丝	8
+zhe jiang hai ning shi xie qiao zhen	浙江海宁市斜桥镇	8
+zhe bei da sha	浙北大厦	7
+zhe jiang lin hai shi du qiao zhen	浙江临海市杜桥镇	7
+zhe jiang zhong guo hua mu cheng	浙江中国花木城	7
+zhe jia chong mu	褶颊虫目	6
+zhe jiang hai ning shi yan guan zhen	浙江海宁市盐官镇	6
+zhe jiang nan lu	浙江南路	6
+zhe jiang xin chang xian cheng guan zhen	浙江新昌县城关镇	6
+zhe jiang zhu ji shi feng qiao zhen	浙江诸暨市枫桥镇	6
+zhe lang jiao	遮浪角	6
+zhe xi cun	柘溪村	6
+zhe dan he ren fa	柘弹何人发	5
+zhe hua men qian ju	折花门前剧	5
+zhe jiang ping yang xian kun yang zhen	浙江平阳县昆阳镇	5
+zhe jiang wen ling shi ruo heng zhen	浙江温岭市箬横镇	5
+zhe jiang yue qing shi hong qiao zhen	浙江乐清市虹桥镇	5
+zhe shan	柘山	5
+zhe xi lin chang	柘溪林场	5
+zhe zhuang	柘庄	5
+zhe jiang cang nan xian qian ku zhen	浙江苍南县钱库镇	4
+zhe jiang hai ning shi yuan hua zhen	浙江海宁市袁花镇	4
+zhe jiang hua xi xie	浙江华溪蟹	4
+zhe jiang lin hai shi dong cheng zhen	浙江临海市东塍镇	4
+zhe jiang tian tai pen di	浙江天台盆地	4
+zhe jiang yu hang qu qiao si zhen	浙江余杭区乔司镇	4
+zhe mi la hu zu xiang	者米拉祜族乡	4
+zhe tang mei	蔗糖酶	4
+zhe gang xiang	柘港乡	3
+zhe jiang chang xing mei shan pou mian	浙江长兴煤山剖面	3
+zhe jiang chang xing xian mei shan zhen	浙江长兴县煤山镇	3
+zhe jiang de qing xian luo she zhen	浙江德清县洛舍镇	3
+zhe jiang de qing xian xin shi zhen	浙江德清县新市镇	3
+zhe jiang dong yang shi heng dian zhen	浙江东阳市横店镇	3
+zhe jiang hai na	浙江海纳	3
+zhe jiang tong xiang shi pu yuan zhen	浙江桐乡市濮院镇	3
+zhe jiang wen ling shi song men zhen	浙江温岭市松门镇	3
+zhe jiang yi wu shi chi an zhen	浙江义乌市赤岸镇	3
+zhe jiang yong jia xian ou bei zhen	浙江永嘉县瓯北镇	3
+zhe jiang yong qiang	浙江永强	3
+zhe jiang yu yao shi lin shan zhen	浙江余姚市临山镇	3
+zhe jiang zhong bai zhu	浙江中白猪	3
+zhe lang xiang	者浪乡	3
+zhe mu cun	柘木村	3
+zhe bai	赭白	2
+zhe cai shi wei da de ai qing	这才是伟大的爱情	2
+zhe da hai na	浙大海纳	2
+zhe jiang chang xing xian hong qiao zhen	浙江长兴县洪桥镇	2
+zhe jiang de qing xian lei dian zhen	浙江德清县雷甸镇	2
+zhe jiang de qing xian wu kang zhen	浙江德清县武康镇	2
+zhe jiang dong yang shi nan ma zhen	浙江东阳市南马镇	2
+zhe jiang fu yang shi ling qiao zhen	浙江富阳市灵桥镇	2
+zhe jiang hai ning shi xu cun zhen	浙江海宁市许村镇	2
+zhe jiang hai ning shi zhang an zhen	浙江海宁市长安镇	2
+zhe jiang jia shan xian yao zhuang zhen	浙江嘉善县姚庄镇	2
+zhe jiang mao yi xue xiao	浙江贸易学校	2
+zhe jiang ping hu shi lin dai zhen	浙江平湖市林埭镇	2
+zhe jiang rui an shi fei yun zhen	浙江瑞安市飞云镇	2
+zhe jiang rui li ji tuan gong si	浙江瑞立集团公司	2
+zhe jiang shang yu shi song sha zhen	浙江上虞市崧厦镇	2
+zhe jiang shao xing xian fu quan zhen	浙江绍兴县福全镇	2
+zhe jiang wu yi xian tong qin zhen	浙江武义县桐琴镇	2
+zhe jiang yong jia xian qiao tou zhen	浙江永嘉县桥头镇	2
+zhe jiang yu huan xian zhu gang zhen	浙江玉环县珠港镇	2
+zhe jiang yu yao shi da yin zhen	浙江余姚市大隐镇	2
+zhe jiang zhu ji shi dian kou zhen	浙江诸暨市店口镇	2
+zhe ju wo bing xun yang cheng	谪居卧病浔阳城	2
+zhe long xiang	者竜乡	2
+zhe xiang xiang	蔗香乡	2
+zhe ba xiang	折巴乡	1
+zhe duan men qian liu	折断门前柳	1
+zhe fang xin xi yi suo si	折芳馨兮遗所思	1
+zhe gu jing ming rao li luo	鹧鸪惊鸣绕篱落	1
+zhe jia lv	折价率	1
+zhe jiang ba yue he ru ci	浙江八月何如此	1
+zhe jiang cang nan xian jin xiang zhen	浙江苍南县金乡镇	1
+zhe jiang che wang	浙江车网	1
+zhe jiang ci xi shi an dong zhen	浙江慈溪市庵东镇	1
+zhe jiang ci xi shi fu hai zhen	浙江慈溪市附海镇	1
+zhe jiang ci xi shi xiao lin zhen	浙江慈溪市逍林镇	1
+zhe jiang ci xi shi xin pu zhen	浙江慈溪市新浦镇	1
+zhe jiang ci xi shi zhang qi zhen	浙江慈溪市掌起镇	1
+zhe jiang fu yang shi gao qiao zhen	浙江富阳市高桥镇	1
+zhe jiang hai yan xian gan pu zhen	浙江海盐县澉浦镇	1
+zhe jiang jia shan xian tao zhuang zhen	浙江嘉善县陶庄镇	1
+zhe jiang jia shan xian wei tang zhen	浙江嘉善县魏塘镇	1
+zhe jiang ning hai xian huang tan zhen	浙江宁海县黄坛镇	1
+zhe jiang ning hai xian xi dian zhen	浙江宁海县西店镇	1
+zhe jiang ping hu shi quan tang zhen	浙江平湖市全塘镇	1
+zhe jiang ping hu shi xin dai zhen	浙江平湖市新埭镇	1
+zhe jiang ping yang xian xiao jiang zhen	浙江平阳县萧江镇	1
+zhe jiang rui an shi shen cheng zhen	浙江瑞安市莘塍镇	1
+zhe jiang rui an shi tao shan zhen	浙江瑞安市陶山镇	1
+zhe jiang shao xing xian fu sheng zhen	浙江绍兴县富盛镇	1
+zhe jiang shao xing xian qi xian zhen	浙江绍兴县齐贤镇	1
+zhe jiang shao xing xian sun duan zhen	浙江绍兴县孙端镇	1
+zhe jiang tong lu xian heng cun zhen	浙江桐庐县横村镇	1
+zhe jiang tong xiang shi chong fu zhen	浙江桐乡市崇福镇	1
+zhe jiang wen ling shi wen jiao zhen	浙江温岭市温峤镇	1
+zhe jiang xiang shan xian shi pu zhen	浙江象山县石浦镇	1
+zhe jiang xiang shan xian xi zhou zhen	浙江象山县西周镇	1
+zhe jiang xiao shan qu gua li zhen	浙江萧山区瓜沥镇	1
+zhe jiang xiao shan qu wen yan zhen	浙江萧山区闻堰镇	1
+zhe jiang yi wu shi su xi zhen	浙江义乌市苏溪镇	1
+zhe jiang yu huan xian chu men zhen	浙江玉环县楚门镇	1
+zhe jiang yu yao shi si men zhen	浙江余姚市泗门镇	1
+zhe jiang yue qing shi da jing zhen	浙江乐清市大荆镇	1
+zhe jiang yue qing shi le cheng zhen	浙江乐清市乐成镇	1
+zhe jiang yue qing shi liu shi zhen	浙江乐清市柳市镇	1
+zhe jiang zhu ji shi cao ta zhen	浙江诸暨市草塔镇	1
+zhe li fu mei zi	折笠富美子	1
+zhe ma xin mo zhan	折麻心莫展	1
+zhe mo yin qin lian di cheng	遮莫姻亲连帝城	1
+zhe nan yu mian	浙南鱼面	1
+zhe ping	柘坪	1
+zhe shang yin hang	浙商银行	1
+zhe si li	着丝粒	1
+zhe tang tie	蔗糖铁	1
+zhe yan chun shan zhi shang cai	遮掩春山滞上才	1
+zhe zi qian	折子钱	1
+zhe chi cha huan ye ming	赭翅叉环野螟	0
+zhe chi tun hua jin gui	赭翅臀花金龟	0
+zhe dai huang du e	折带黄毒蛾	0
+zhe gu mei	鹧鸪媒	0
+zhe hui die	赭灰蝶	0
+zhe jia chong ya mu	褶颊虫亚目	0
+zhe jiang hei song ye feng	浙江黑松叶蜂	0
+zhe jiang ji chi e	浙江矶尺蛾	0
+zhe jiang kuan tou gan ying	浙江宽头杆蝇	0
+zhe jiang mang guo zhu	浙江芒果蛛	0
+zhe jiang mao shou chong	浙江锚首虫	0
+zhe jiang san huang rou ji	浙江三黄肉鸡	0
+zhe jiang yuan gui chun	浙江圆龟蝽	0
+zhe jiang yuan ying kou qiu	浙江原缨口鳅	0
+zhe mao can	褶锚参	0
+zhe mei gui shui mu	褶玫瑰水母	0
+zhe shu zhao kou jia	蔗梳爪叩甲	0
+zhe wei wen hu tian niu	赭尾纹虎天牛	0
+zhe wen dian wei ye e	折纹殿尾夜蛾	0
+zhe wu deng e	浙污灯蛾	0
+zhe yan e	遮颜蛾	0
+zhe yuan juan ye ming	赭缘绢野螟	0

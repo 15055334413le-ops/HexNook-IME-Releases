@@ -1,0 +1,587 @@
+jie chu	接触	186659
+jie guan	接管	168540
+jie jue fang an	解决方案	145173
+jie jue fang fa	解决方法	101916
+jie dian	结点	57686
+jie suan	结算	55679
+jie gou xing	结构性	45943
+jie gou you hua	结构优化	37316
+jie mo	芥末	27080
+jie guo ji	结果集	25992
+jie ya suo	解压缩	23019
+jie fang si xiang	解放思想	21847
+jie san	解散	19241
+jie gou hua	结构化	16917
+jie ou	解耦	16350
+jie xi qi	解析器	16116
+jie kou shi xian	接口实现	12450
+jie ran bu tong	截然不同	12326
+jie bai na	解百纳	12159
+jie shou duan	接收端	10219
+jie yu	介于	10051
+jie zhong	接种	10029
+jie pou	解剖	9669
+jie jin quan li	竭尽全力	9085
+jie er lian san	接二连三	8181
+jie zhong er zhi	接踵而至	7620
+jie qia	接洽	7584
+jie zhi	截肢	7405
+jie di xian	接地线	6788
+jie shou zhe	接受者	6607
+jie fang lu	解放路	6382
+jie mian xian shi	界面显示	5988
+jie yue neng yuan fa	节约能源法	5827
+jie bao	解包	5744
+jie jue chong tu	解决冲突	5547
+jie qing	结清	5315
+jie fang bei	解放碑	5119
+jie kuan ren	借款人	5065
+jie mian she ji	界面设计	4939
+jie zhong yi miao	接种疫苗	4737
+jie kou diao yong	接口调用	4682
+jie tou xiang wei	街头巷尾	4673
+jie mian bu ju	界面布局	4665
+jie ya wen jian	解压文件	4560
+jie yang shi	揭阳市	4467
+jie du suo	戒毒所	4133
+jie ke xun	杰克逊	4133
+jie xi shu ju	解析数据	4076
+jie du	解毒	3977
+jie zhong er lai	接踵而来	3862
+jie gou ti zhi zhen	结构体指针	3750
+jie fu sheng zi	借腹生子	3731
+jie da huan xi	皆大欢喜	3544
+jie he bing	结核病	3395
+jie lian bu duan	接连不断	3376
+jie ti bao gao	解题报告	3284
+jie dai zhong xin	接待中心	3257
+jie gou ti shu zu	结构体数组	3115
+jie yi shi huo	解疑释惑	3048
+jie fang guang chang	解放广场	3038
+jie gou xing mao dun tu chu	结构性矛盾突出	3037
+jie shi	结石	2630
+jie shi qi mo shi	解释器模式	2576
+jie kou she ji	接口设计	2547
+jie kou ge li yuan ze	接口隔离原则	2482
+jie gou xing mo shi	结构型模式	2435
+jie shu jin cheng	结束进程	2405
+jie xin hai jiu	借新还旧	2388
+jie bei sen yan	戒备森严	2293
+jie mian xiao guo	界面效果	2285
+jie yu	节育	2285
+jie gou she ji	结构设计	2175
+jie he	结核	2097
+jie kou hui diao	接口回调	2011
+jie chang ai	结肠癌	1961
+jie shen zi hao	洁身自好	1948
+jie za	结扎	1746
+jie mian	截面	1692
+jie bao pin chuan	捷报频传	1670
+jie pan	接盘	1629
+jie kou wen dang	接口文档	1616
+jie yi suo shi	节衣缩食	1585
+jie hui	结汇	1583
+jie chu zhe	接触者	1581
+jie kou ce shi	接口测试	1549
+jie dian shan chu	节点删除	1525
+jie he xing	结合性	1493
+jie mian qie huan	界面切换	1390
+jie shi xing yu yan	解释型语言	1384
+jie dao kou	街道口	1376
+jie fang cheng	解方程	1374
+jie ru zhi liao	介入治疗	1369
+jie tan xiang yi	街谈巷议	1351
+jie he	界河	1334
+jie mian kai fa	界面开发	1332
+jie kou ding yi yu yan	接口定义语言	1301
+jie zhi ri	截止日	1287
+jie gou tiao zheng zheng ce	结构调整政策	1281
+jie ti fa hui	借题发挥	1275
+jie jia	结痂	1272
+jie shi cheng xu	解释程序	1270
+jie fang xi lu	解放西路	1243
+jie fang bei lu	解放北路	1135
+jie jie bai tui	节节败退	1124
+jie tan	截瘫	1102
+jie mo yan	结膜炎	1096
+jie gou xing	结构型	1094
+jie zu xian deng	捷足先登	1089
+jie chang	结肠	1055
+jie ze er yu	竭泽而渔	1037
+jie hou yu sheng	劫后余生	1012
+jie chu mian	接触面	961
+jie kou kai fa	接口开发	951
+jie jiao jie zao	戒骄戒躁	933
+jie lv	节律	927
+jie fang nan lu	解放南路	919
+jie dian cao zuo	节点操作	906
+jie kou fu wu	接口服务	882
+jie wai sheng zhi	节外生枝	847
+jie xi ji he	解析几何	845
+jie gou shi tiao	结构失调	843
+jie xiu shi	介休市	839
+jie mian tiao zhuan	界面跳转	837
+jie fang lin li	街坊邻里	802
+jie xin gong yuan	街心公园	802
+jie gou mo shi	结构模式	791
+jie fu ji pin	劫富济贫	778
+jie ke si luo fa ke	捷克斯洛伐克	776
+jie xi ka	杰西卡	755
+jie shao hui lu zui	介绍贿赂罪	737
+jie guan	截关	732
+jie ao bu xun	桀骜不驯	730
+jie xin hua yuan	街心花园	729
+jie mian ku	界面库	717
+jie fang dong lu	解放东路	708
+jie fang qiao	解放桥	707
+jie gou ti pai xu	结构体排序	699
+jie dui bian cheng	结对编程	698
+jie pou xue	解剖学	694
+jie re	解热	685
+jie geng	桔梗	674
+jie jie	结节	655
+jie gou hua chan pin	结构化产品	654
+jie guo jia zhong fan	结果加重犯	651
+jie zhong lv	接种率	644
+jie xi	揭西	643
+jie gou hua bian cheng	结构化编程	642
+jie ji sheng	檞寄生	621
+jie jie ba ba	结结巴巴	612
+jie kui lin	杰奎琳	604
+jie fang gong yuan	解放公园	593
+jie ling hai xu xi ling ren	解铃还须系铃人	575
+jie kou miao shu yu yan	接口描述语言	568
+jie dang ying si	结党营私	566
+jie mo	结膜	559
+jie nang xiang zhu	解囊相助	558
+jie la er de	杰拉尔德	546
+jie gou niu qu	结构扭曲	544
+jie chu chuan bo	接触传播	537
+jie gou zhi fa	结构之法	521
+jie mo fen	芥末粉	520
+jie ran yi shen	孑然一身	511
+jie gou wan zheng xing	结构完整性	507
+jie gou hua fang fa	结构化方法	504
+jie fang si lin	街坊四邻	492
+jie ya ban	解压版	489
+jie jiu jiao chou	借酒浇愁	486
+jie kai gong si mian sha	揭开公司面纱	483
+jie shi	界石	470
+jie lu kou	街路口	443
+jie chu xing pi yan	接触性皮炎	442
+jie shou shi	界首市	441
+jie mian bian cheng	界面编程	438
+jie zhi zha	节制闸	436
+jie fang men	解放门	425
+jie fang da lu	解放大路	418
+jie gan er qi	揭竿而起	408
+jie gou ti dui qi	结构体对齐	406
+jie gou hua she ji	结构化设计	384
+jie mian hui zhi	界面绘制	380
+jie chu dian	接触点	378
+jie shu zuo biao	结束坐标	374
+jie gou hua fen xi	结构化分析	372
+jie shi huan hun	借尸还魂	369
+jie yu	解郁	363
+jie re zhen tong yao	解热镇痛药	357
+jie dong xian	揭东县	347
+jie gou jia ge	结构价格	344
+jie fei xun	杰斐逊	341
+jie kou ka	接口卡	341
+jie shen zi ai	洁身自爱	340
+jie di zu zhi	结缔组织	336
+jie gu	接骨	330
+jie chang yan	结肠炎	315
+jie fang gong yuan lu	解放公园路	310
+jie jiu fang	解酒方	300
+jie tan cha	碣滩茶	286
+jie tian lian ye wu qiong bi	接天莲叶无穷碧	285
+jie yu qi	节育器	284
+jie jia gui tian	解甲归田	282
+jie fang jie	解放街	272
+jie pai	界牌	270
+jie zhou	解州	267
+jie yue han shu	阶跃函数	265
+jie zi	芥子	257
+jie shi	碣石	256
+jie mian mei hua	界面美化	250
+jie bai wu xia	洁白无瑕	248
+jie chu shuo	接触说	245
+jie feng xi chen	接风洗尘	236
+jie chi chuan zhi	劫持船只	234
+jie mo chong xue	结膜充血	232
+jie duan zheng zhuang	戒断症状	227
+jie dong	揭东	217
+jie yong he tong	借用合同	213
+jie ba fen ci	结巴分词	209
+jie biao	界标	203
+jie kou fen xi	接口分析	197
+jie mo dun er	芥末墩儿	192
+jie neng gong si	节能公司	190
+jie chuang	疥疮	189
+jie mian you hua	界面优化	189
+jie fang da qiao	解放大桥	183
+jie ji yong ren	戒急用忍	178
+jie tai si	戒台寺	174
+jie fu huai tai	借腹怀胎	173
+jie shou zhuang tai	接受状态	173
+jie ai shun bian	节哀顺变	172
+jie fang ge	解放阁	171
+jie dian chang shu	介电常数	170
+jie gou hua cheng xu	结构化程序	167
+jie chu ke xue jia	杰出科学家	166
+jie ti bao gao	结题报告	164
+jie he xing nao mo yan	结核性脑膜炎	156
+jie kang ji	拮抗剂	155
+jie mei chuan	姐妹船	155
+jie jing	解痉	153
+jie shu kuai	结束块	150
+jie lai zhi shi	嗟来之食	149
+jie qing zhai quan zhai wu	结清债权债务	140
+jie shao hui lu xing wei	介绍贿赂行为	138
+jie dao sha ren	借刀杀人	136
+jie zhi gu zhang	介质故障	135
+jie zhong	疖肿	125
+jie du zuo yong	解毒作用	124
+jie kou xu qiu	接口需求	123
+jie duan xing ji shu cheng guo	阶段性技术成果	119
+jie he xing	结核性	119
+jie mian te xiao	界面特效	119
+jie gou suan fa	结构算法	117
+jie fang lu yi duan	解放路一段	115
+jie chu fen pei	解除分配	113
+jie mu xi xiang	借母溪乡	113
+jie gu yu jin	借古喻今	111
+jie hua xian fo	借花献佛	111
+jie dai si	接待寺	110
+jie jin xin li	竭尽心力	105
+jie jue bao cuo	解决报错	103
+jie neng mo shi	节能模式	103
+jie he bing yi yuan	结核病医院	101
+jie kang	拮抗	101
+jie kou zong xian	接口总线	101
+jie ji	借记	99
+jie shi bang	杰士邦	99
+jie wen jiu jia he chu you	借问酒家何处有	99
+jie chang jing jian cha	结肠镜检查	97
+jie yue xiang ying	阶跃响应	94
+jie chu	借出	93
+jie shan	界山	92
+jie fang xi jie	解放西街	84
+jie cai yuan zi	芥菜圆子	83
+jie kou su lv	接口速率	83
+jie fa fu qi	结发夫妻	81
+jie chang jing	结肠镜	80
+jie shu da yin	结束打印	78
+jie chang xi rou	结肠息肉	76
+jie gu feng jin	借古讽今	76
+jie mo nang	结膜囊	75
+jie tou xiang yi	街头巷议	75
+jie gou se	结构色	74
+jie chen	洁尘	73
+jie suan hui yuan zhi du	结算会员制度	71
+jie duan wu cha	截断误差	70
+jie za shu	结扎术	70
+jie he fen zhi gan jun	结核分枝杆菌	68
+jie di zu zhi bing	结缔组织病	67
+jie sui	接穗	66
+jie chu xing chu xie	接触性出血	65
+jie yue ri	解约日	65
+jie duan wu shan yun yu	截断巫山云雨	63
+jie kou gui yue	接口规约	63
+jie chu qu	接触区	61
+jie pan	解盘	61
+jie fang lu xiao xue	解放路小学	57
+jie po xia lv	借坡下驴	54
+jie ting	街亭	54
+jie duan zong he zheng	戒断综合征	53
+jie mian chuan zhi	界面传值	52
+jie jie xing jia zhuang xian zhong	结节性甲状腺肿	51
+jie zhi shu	截肢术	51
+jie chang xiao dai xian mao chong	结肠小袋纤毛虫	49
+jie gou chong tu	结构冲突	49
+jie lu zai ren jing	结庐在人境	49
+jie che dan	接车单	48
+jie dai wu men	借贷无门	48
+jie du jiao nang	解毒胶囊	48
+jie ge	街鸽	47
+jie ru yi xue	介入医学	47
+jie zhi chang zhong liu	结直肠肿瘤	47
+jie chang bu duan	截长补短	45
+jie yang xian	揭阳县	45
+jie fang jun zheng zhi xue yuan	解放军政治学院	44
+jie jie xing ying hua zheng	结节性硬化症	44
+jie he jun su	结核菌素	42
+jie he jun su shi yan	结核菌素试验	42
+jie qi men kong zhi dan yuan	节气门控制单元	42
+jie zhou zhen	解州镇	41
+jie da	皆大	39
+jie hun deng ji ban zheng zhi du	结婚登记颁证制度	39
+jie kang zuo yong	拮抗作用	39
+jie long qiao	接龙桥	39
+jie dai cun	接待村	38
+jie zhuang ti	睫状体	38
+jie guo tian kong	结果填空	37
+jie fang si cun	解放四村	35
+jie gou dan bai	结构蛋白	34
+jie jie dao	街街道	33
+jie she	结舌	33
+jie shi wan	碣石湾	33
+jie fang da jie	解放大街	32
+jie ke chong	介壳虫	32
+jie yuan xi dao	芥园西道	31
+jie min dao xuan	解民倒悬	30
+jie ru fang she xue	介入放射学	30
+jie bei shi jiao che	阶背式轿车	29
+jie chang hei bian bing	结肠黑变病	29
+jie di xi tong	接地系统	29
+jie sheng	捷胜	28
+jie jie xing	结节性	27
+jie qiao	界桥	27
+jie gou dan yuan	结构单元	26
+jie shan	介山	25
+jie zhong jin zhi	竭忠尽智	25
+jie ya ren	堺雅人	24
+jie fa wei fu qi	结发为夫妻	23
+jie song bu he ge bing yuan zui	接送不合格兵员罪	23
+jie chu dian zu	接触电阻	22
+jie di ping mian	接地平面	22
+jie gou cha xun yu yan	结构查询语言	22
+jie xiu guan xian tang	介休贯馅糖	22
+jie yuan dao	芥园道	21
+jie mo ya zhang	芥茉鸭掌	20
+jie shi tong cha	结石通茶	20
+jie yue yong shui zhi du	节约用水制度	20
+jie he xing fu mo yan	结核性腹膜炎	19
+jie suo shu ju ku	解锁数据库	19
+jie yu an shen	解郁安神	19
+jie chang po lie	结肠破裂	18
+jie gu ban	接骨板	18
+jie xiao dong	解小东	18
+jie geng tang	桔梗汤	17
+jie gou hua bao hu	结构化保护	17
+jie jie bing	结节病	17
+jie bei	界北	16
+jie lan niu rou	芥兰牛肉	16
+jie er yin	洁尔阴	15
+jie fu	介福	15
+jie jie xing hong ban	结节性红斑	15
+jie fang xin cun	解放新村	14
+jie gou piao	结构票	14
+jie bei a li	杰贝阿里	13
+jie du si mu gu quan ji jin	解读私募股权基金	13
+jie fang lu qiu tao lu kou	解放路秋涛路口	13
+jie ying	解营	13
+jie gou mo shi shi bie	结构模式识别	12
+jie gu nuo	接骨糯	12
+jie xi tou	街西头	12
+jie zhi zhuan huan	介质转换	12
+jie cheng cong	结城聪	11
+jie jia bao xiang	解家堡乡	11
+jie kou kai xiao	接口开销	11
+jie xi bao	节细胞	11
+jie fang xi lu xiao xue	解放西路小学	10
+jie han yi xing luo	接汉疑星落	10
+jie he ci ji su	结合雌激素	10
+jie jia ri fa che	节假日发车	10
+jie men gang mu ke shu zhong	界门纲目科属种	10
+jie re zhen tong kang yan yao	解热镇痛抗炎药	10
+jie xiu xian	介休县	10
+jie bei jie zhuang	界碑界桩	9
+jie fan qiu zhu ji	皆反求诸己	9
+jie fang xi jie jie dao	解放西街街道	9
+jie he dan bai zhi	结合蛋白质	9
+jie jie xing yang zhen	结节性痒疹	9
+jie mo gan zao zheng	结膜干燥症	9
+jie wen	节文	9
+jie xi	解溪	9
+jie xing zhen	杰兴镇	9
+jie yan suo	结研所	9
+jie yong	界涌	9
+jie chang xi mo	结肠系膜	8
+jie fang nan lu kou	解放南路口	8
+jie yong er ai ren	节用而爱人	8
+jie fang bei lu yi duan	解放北路一段	7
+jie jie ying	结节影	7
+jie kang yao	拮抗药	7
+jie luo san qiu ye	解落三秋叶	7
+jie ting xiang	介廷乡	7
+jie wen	介文	7
+jie zhi shan zhi wei shan	皆知善之为善	7
+jie chang qi shi	结肠憩室	6
+jie chang qie chu shu	结肠切除术	6
+jie duo xiang	结多乡	6
+jie pou sheng li xue	解剖生理学	6
+jie an shao zhu chu cheng	解鞍少驻初程	5
+jie bao	借报	5
+jie chang kui yang	结肠溃疡	5
+jie chang tou xi	结肠透析	5
+jie chang zao kou shu	结肠造口术	5
+jie dong	捷东	5
+jie er yan	姐儿堰	5
+jie er yin xi ye	洁尔阴洗液	5
+jie gu xiang	节固乡	5
+jie he yi yuan	结核医院	5
+jie mo jie shi	结膜结石	5
+jie ou lian	解偶联	5
+jie yin	结印	5
+jie bai shang dian	解百商店	4
+jie chang pang gou	结肠旁沟	4
+jie chang pu	节菖蒲	4
+jie dou xiang	界都乡	4
+jie gou hua xin tuo ye wu	结构化信托业务	4
+jie gu ji	解固基	4
+jie gui jie	接贵街	4
+jie jie xing duo dong mai yan	结节性多动脉炎	4
+jie mo ya bang	芥末鸭膀	4
+jie shi xi	碣石溪	4
+jie wen wen jun yu he wang	借问瘟君欲何往	4
+jie yuan xiang	解元乡	4
+jie bing yi miao	疖病疫苗	3
+jie chang lou	结肠瘘	3
+jie chu xing xun ma zhen	接触性荨麻疹	3
+jie fang ba	解放坝	3
+jie fang jun zong zhi shu dui	解放军总直属队	3
+jie he qiu	结核球	3
+jie jie xing nao ying hua	结节性脑硬化	3
+jie jing niao	结晶尿	3
+jie kou yi yuan	街口医院	3
+jie li yan	堺利彦	3
+jie pou xian wei jing	解剖显微镜	3
+jie qi lin chun shi zui she	结绮临春事最奢	3
+jie qi men dian	节气门垫	3
+jie shan cun	界山村	3
+jie shi xiao xiang wu xian lu	碣石潇湘无限路	3
+jie si xiang	结斯乡	3
+jie suan ping zheng	结算凭证	3
+jie wei quan	截尾犬	3
+jie zai yan qian zhang bu jian	睫在眼前长不见	3
+jie zhi qi	洁治器	3
+jie ai wu zai shen	结爱务在深	2
+jie an yi zhen lv yang qiao	解鞍欹枕绿杨桥	2
+jie ba fei hua meng ri yue	解把飞花蒙日月	2
+jie bing	疖病	2
+jie cang jiao yi	借仓交易	2
+jie chang qi shi yan	结肠憩室炎	2
+jie chu xing chun yan	接触性唇炎	2
+jie fang lu wu shan lu kou	解放路吴山路口	2
+jie fang nan lu li jiao qiao	解放南路立交桥	2
+jie fu lu jie dao	介福路街道	2
+jie gen shu	截根术	2
+jie gou dan bai zhi	结构蛋白质	2
+jie gou ji yin	结构基因	2
+jie gou xing fang tan	结构性访谈	2
+jie guo hai shi cuo	结果还是错	2
+jie he kou zhen	界河口镇	2
+jie he xing guan jie yan	结核性关节炎	2
+jie jie xing xue guan yan	结节性血管炎	2
+jie jin bai nian yue	结尽百年月	2
+jie jing zhen tong ding	解痉镇痛酊	2
+jie jun zao gui yi	结君早归意	2
+jie lan chao xiang chang	芥兰炒香肠	2
+jie lan ji liu chao	解缆及流潮	2
+jie li jie dao	街里街道	2
+jie meng shi zhi fang lin	接孟氏之芳邻	2
+jie neng jian pai	节能减排	2
+jie qie du shou zhi	结妾独守志	2
+jie shou xian	界首县	2
+jie shu	界树	2
+jie suo yi ming ren lun ye	皆所以明人伦也	2
+jie wen si er zhe shi ye	节文斯二者是也	2
+jie xi xue	解溪穴	2
+jie yi wang fa lun	皆以枉法论	2
+jie yu he gan wan	解郁和肝丸	2
+jie bi ben he shi	嗟彼本何事	1
+jie cai xian dan yu tou tang	芥菜咸蛋鱼头汤	1
+jie chang dai	结肠袋	1
+jie chi jiao tong gong ju zui	劫持交通工具罪	1
+jie cong pei hun shi	结从胚浑始	1
+jie di zu zhi zhi	结缔组织痣	1
+jie diao lu yu neng ji ren	解钓鲈鱼能几人	1
+jie du sheng ji gao	解毒生肌膏	1
+jie du zhi xie jiao nang	解毒止泻胶囊	1
+jie er yin pao teng pian	洁尔阴泡腾片	1
+jie er yuan dao zhi ren	嗟尔远道之人	1
+jie fang xi jie kou	解放西街口	1
+jie gan ming jue fen xiong ci	揭竿命爵分雄雌	1
+jie gen wei de suo	结根未得所	1
+jie gen yi qing tian	结根依青天	1
+jie gou xiao du	结构效度	1
+jie gu qi li pian	接骨七厘片	1
+jie gu xu jin pian	接骨续筋片	1
+jie guang ru ke ba	洁光如可把	1
+jie he jie jie	结核结节	1
+jie he xing gang lou	结核性肛瘘	1
+jie hu zhen	界湖镇	1
+jie jie xing huang se liu	结节性黄色瘤	1
+jie jie xing mei du zhen	结节性梅毒疹	1
+jie jiu bei shi wu jin	戒酒杯使勿近	1
+jie ke lun dun	杰克伦敦	1
+jie ke shao nian chang xing	结客少年场行	1
+jie kou xiao xue	街口小学	1
+jie lai sang hu hu	嗟来桑户乎	1
+jie lu jin shui bian	结庐锦水边	1
+jie mao yi zhi	睫毛移植	1
+jie niao zhi yuan ti	解脲支原体	1
+jie ou lian ji	解偶联剂	1
+jie qing	介卿	1
+jie re qing zhi tang	解热清滞汤	1
+jie re zhi tong san	解热止痛散	1
+jie shan dang yi xiu	介山当驿秀	1
+jie shang bo qian jie xia zou	阶上簸钱阶下走	1
+jie she duo gao ke	结社多高客	1
+jie shi chun feng wu xian hen	解释春风无限恨	1
+jie shi kang jiao nang	结石康胶囊	1
+jie shi qing jiao nang	结石清胶囊	1
+jie shu duo hong fen	结束多红粉	1
+jie shui kai hua zi yi qi	借水开花自一奇	1
+jie tong yin shui hou bu gan	接筒引水喉不干	1
+jie wen chui xiao xiang zi yan	借问吹箫向紫烟	1
+jie wen han gong shui de shi	借问汉宫谁得似	1
+jie wen xin an jiang	借问新安江	1
+jie wen xin an li	借问新安吏	1
+jie wo shi shu zhong ri du	嗟我嗜书终日读	1
+jie wo yi an liao xi xin	借我一庵聊洗心	1
+jie wu feng guang bu xiang dai	节物风光不相待	1
+jie xi he	界溪河	1
+jie yan si hai tong	皆言四海同	1
+jie ye zhi mao ting	接叶制茅亭	1
+jie yin ling xi ji	洁阴灵洗剂	1
+jie yong gong ye qu	界涌工业区	1
+jie you lan er yan zhu	结幽兰而延伫	1
+jie you sheng ren zhi yi ti	皆有圣人之一体	1
+jie zai shen shen chang	结在深深肠	1
+jie zai wu dang er san zi	嗟哉吾党二三子	1
+jie zhuang	解庄	1
+jie bai xiang ying ha	洁白箱樱蛤	0
+jie bei di chong	截杯滴虫	0
+jie cai xie wen ye e	芥菜斜纹夜蛾	0
+jie chi ci wei hua tian niu	截翅刺尾花天牛	0
+jie chun ye feng	截唇叶蜂	0
+jie ding hong wen luo	截顶红纹螺	0
+jie ding nong die	截顶弄蝶	0
+jie ding qiang wei shan hu	截顶蔷薇珊瑚	0
+jie dong	檞鸫	0
+jie duan fu you sheng wu	阶段浮游生物	0
+jie duan xing fu you sheng wu	阶段性浮游生物	0
+jie e jing xie	截额镜蟹	0
+jie geng hua ni di jia	桔梗花拟地甲	0
+jie gu mu jian xu ye ming	接骨木尖须野螟	0
+jie gu mu shan gou e	接骨木山钩蛾	0
+jie he ruo jia man	截合若甲螨	0
+jie jiao hu ye e	疖角壶夜蛾	0
+jie jing xi zhu	洁净希蛛	0
+jie lie qiu hai tang	截裂秋海棠	0
+jie mo bin shan hu	芥末滨珊瑚	0
+jie mo shun xi xian chong	结膜吮吸线虫	0
+jie mu xi lin wa	借母溪林蛙	0
+jie ri ba wo niu	节日巴蜗牛	0
+jie shi bei lin chong	杰氏背鳞虫	0
+jie shi cu zhuang yi li yu	杰氏粗壮鮨丽鱼	0
+jie shi ni ri yue bei	杰氏拟日月贝	0
+jie shi tong chun	截匙同蝽	0
+jie shu wa	楬树蛙	0
+jie wei bao ke ha	截尾薄壳蛤	0
+jie wei xia ji tun	截尾下棘鲀	0
+jie xia hen	节下痕	0
+jie ya deng e	洁雅灯蛾	0

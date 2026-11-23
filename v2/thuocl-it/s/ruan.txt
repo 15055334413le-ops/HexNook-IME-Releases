@@ -1,0 +1,94 @@
+ruan lian jie	软链接	500
+ruan jian gong cheng shi	软件工程师	489
+ruan yin yong	软引用	464
+ruan lian jie	软连接	449
+ruan jian pan	软键盘	442
+ruan zhong duan	软中断	423
+ruan jian kai fa guo cheng	软件开发过程	415
+ruan jian fa bu	软件发布	344
+ruan jian kuang jia	软件框架	334
+ruan jian pei zhi	软件配置	329
+ruan jian zhong duan	软件中断	329
+ruan jian kai fa gong ju	软件开发工具	323
+ruan jian zi yuan	软件资源	322
+ruan jian jie gou	软件结构	321
+ruan jian guan li	软件管理	317
+ruan jian she ji mo shi	软件设计模式	301
+ruan jian gou jian	软件构建	291
+ruan jian guo cheng	软件过程	291
+ruan jian jia gou shi	软件架构师	286
+ruan jian xing neng	软件性能	283
+ruan jian wei hu	软件维护	281
+ruan jian she ji shi	软件设计师	278
+ruan jian jia gou she ji	软件架构设计	274
+ruan jian xiang mu guan li	软件项目管理	274
+ruan jian ti xi jie gou	软件体系结构	270
+ruan jian que xian	软件缺陷	260
+ruan jian an quan	软件安全	259
+ruan jian kai fa fang fa	软件开发方法	257
+ruan jian fu yong	软件复用	253
+ruan jian kai fa liu cheng	软件开发流程	246
+ruan jian cuo wu	软件错误	238
+ruan jian pei zhi guan li	软件配置管理	235
+ruan jian ding yi wang luo	软件定义网络	233
+ruan jian kai fa huan jing	软件开发环境	232
+ruan jian ji chu	软件基础	230
+ruan jian kai fa zhou qi	软件开发周期	228
+ruan jian gu zhang	软件故障	221
+ruan jian wen dang	软件文档	221
+ruan pan qu dong qi	软盘驱动器	221
+ruan jian po jie	软件破解	217
+ruan jian zhi liang bao zheng	软件质量保证	213
+ruan jian kai fa mo xing	软件开发模型	212
+ruan zhong duan xin hao	软中断信号	212
+ruan jian gou jian	软件构件	200
+ruan jian sheng cun zhou qi	软件生存周期	200
+ruan jian gou jia	软件构架	199
+ruan jian bao hu	软件保护	197
+ruan jian ke kao xing	软件可靠性	197
+ruan jian da bao	软件打包	191
+ruan jian jia mi	软件加密	191
+ruan jian kai fa guan li	软件开发管理	191
+ruan jian dan yuan	软件单元	188
+ruan jian huo qu	软件获取	188
+ruan jian zuo pin	软件作品	181
+ruan jian gong cheng si xiang	软件工程思想	180
+ruan gong wen dang	软工文档	173
+ruan jian ce shi gong ju	软件测试工具	173
+ruan zhong duan ji zhi	软中断机制	172
+ruan jian ban quan	软件版权	171
+ruan jian yan fa guo cheng	软件研发过程	169
+ruan jian an quan xing	软件安全性	164
+ruan jian jiao cheng	软件教程	162
+ruan jian ping ce	软件评测	162
+ruan jian ce shi guan li	软件测试管理	160
+ruan jian sheng chan lv	软件生产率	156
+ruan jian shi xiao	软件失效	156
+ruan jian chuang ye	软件创业	153
+ruan jian kai fa ji hua	软件开发计划	148
+ruan jian ke wei hu xing	软件可维护性	142
+ruan jian ce shi li lun	软件测试理论	138
+ruan jian zong xian	软件总线	137
+ruan jian shu ju ku	软件数据库	134
+ruan jian kai fa lei	软件开发类	133
+ruan jian yan shou	软件验收	133
+ruan jian si xiang	软件思想	131
+ruan jian an zhuang pei zhi	软件安装配置	129
+ruan jian ke yi zhi xing	软件可移植性	127
+ruan jian fen xiang	软件分享	125
+ruan gu zhang	软故障	122
+ruan ji suan	软计算	122
+ruan jian fang fa xue	软件方法学	118
+ruan jian feng xian	软件风险	118
+ruan jian qu	软件区	118
+ruan jian gong cheng huan jing	软件工程环境	109
+ruan jian kai fa pei xun	软件开发培训	109
+ruan jian shi yong jiao cheng	软件使用教程	107
+ruan gong xue xi	软工学习	105
+ruan jian gong cheng lei	软件工程类	105
+ruan jian huan jing pei zhi	软件环境配置	104
+ruan jian xian jing	软件陷阱	98
+ruan jian shui ping kao shi	软件水平考试	96
+ruan jian kai fa shou ce	软件开发手册	88
+ruan jian kai fa ku	软件开发库	86
+ruan jian xun lian ying	软件训练营	86

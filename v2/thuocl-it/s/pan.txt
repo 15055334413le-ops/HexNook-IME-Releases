@@ -1,0 +1,9 @@
+pan bie fen xi	判别分析	258
+pan bie mo xing	判别模型	249
+pan duan xian duan xiang jiao	判断线段相交	197
+pan ding luo ji	判定逻辑	141
+pan ding shi yong	判定使用	128
+pan pian zu	盘片组	120
+pan duan xun huan shou	判断循环首	101
+pan duan xun huan wei	判断循环尾	96
+pan ding fu hao	判定符号	94

@@ -1,0 +1,32 @@
+sheng cheng shu	生成树	442
+sheng cun zhou qi	生存周期	403
+sheng ming zhou qi	声明周期	399
+sheng ming shi shi wu	声明式事务	397
+sheng ming zhou qi guan li	生命周期管理	385
+sheng cheng tu pian	生成图片	381
+sheng cheng er wei ma	生成二维码	349
+sheng cheng ce lve	生成策略	341
+sheng chan zhe xiao fei zhe	生产者消费者	306
+sheng cheng ri zhi	生成日志	302
+sheng wu xin xi xue	生物信息学	255
+sheng ming shi bian cheng	声明式编程	233
+sheng cheng qi mo shi	生成器模式	228
+sheng xue mo xing	声学模型	216
+sheng cheng shu wen ti	生成树问题	178
+sheng cheng sui ji yan se	生成随机颜色	171
+sheng yin shi bie	声音识别	170
+sheng chan li gong ju	生产力工具	164
+sheng wen shi bie	声纹识别	154
+sheng wu yi xue gong cheng	生物医学工程	151
+sheng bo tong xin	声波通信	148
+sheng yin he cheng	声音合成	145
+sheng xun xi fei dian hua	声讯吸费电话	138
+sheng ri gong ji	生日攻击	129
+sheng bo tong xun	声波通讯	128
+sheng yin shu chu she bei	声音输出设备	128
+sheng bo chuan shu	声波传输	125
+sheng wu ce ding	生物测定	123
+sheng wu ji suan ji	生物计算机	115
+sheng xun dian hua ping tai	声讯电话平台	113
+sheng yin shu ru she bei	声音输入设备	113
+sheng cun zhou qi mo xing	生存周期模型	103

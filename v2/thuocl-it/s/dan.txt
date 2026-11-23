@@ -1,0 +1,69 @@
+dan chu dui hua kuang	弹出对话框	500
+dan chu chuang kou	弹出窗口	490
+dan chu cai dan	弹出菜单	489
+dan li lei	单例类	470
+dan chu kuang	弹出框	463
+dan ji shi jian	单击事件	462
+dan xuan an niu	单选按钮	451
+dan xing zhu shi	单行注释	449
+dan dian gu zhang	单点故障	440
+dan xuan kuang	单选框	438
+dan ru dan chu	淡入淡出	429
+dan yi zhi ze yuan ze	单一职责原则	422
+dan xiang lian biao	单向链表	414
+dan jin cheng	单进程	400
+dan li she ji mo shi	单例设计模式	392
+dan diao dui lie	单调队列	369
+dan yong hu mo shi	单用户模式	364
+dan dian deng lu	单点登录	357
+dan chu li qi	单处理器	349
+dan yuan zui duan lu jing	单源最短路径	335
+dan wen dang	单文档	325
+dan yi zhi ze	单一职责	325
+dan dian geng xin	单点更新	320
+dan biao cha xun	单表查询	319
+dan ren wu	单任务	315
+dan diao zhan	单调栈	309
+dan chu ceng	弹出层	304
+dan jian mo shi	单件模式	279
+dan chu shi cai dan	弹出式菜单	278
+dan yuan zui duan lu	单源最短路	274
+dan tiao yu ju	单条语句	267
+dan diao dui lie you hua	单调队列优化	258
+dan ye mian ying yong	单页面应用	257
+dan ci ji shu	单词计数	248
+dan xiang tong xin	单向通信	244
+dan zhi ling	单指令	240
+dan xiang chuan shu	单向传输	233
+dan dian deng lu	单点登陆	230
+dan xing han shu	单行函数	230
+dan yuan ce shi gong ju	单元测试工具	229
+dan pian ji kai fa	单片机开发	222
+dan xing hua dong	弹性滑动	220
+dan xing ji suan	弹性计算	209
+dan xuan dui hua kuang	单选对话框	202
+dan xun huan lian biao	单循环链表	202
+dan chun xing fa	单纯形法	198
+dan lian biao fan zhuan	单链表反转	196
+dan lie mo shi	单列模式	196
+dan pian ji bian cheng	单片机编程	195
+dan xing peng zhuang	弹性碰撞	189
+dan xiang han shu	单向函数	181
+dan lian biao ni zhi	单链表逆置	171
+dan pian ji ying yong	单片机应用	171
+dan dian zeng jian	单点增减	167
+dan mu shi jue	单目视觉	164
+dan ge di zhi	单个地址	160
+dan pian ji ji shu	单片机技术	149
+dan yao mi ma xi tong	单钥密码系统	148
+dan shu ju liu	单数据流	145
+dan dian deng lu kuang jia	单点登录框架	139
+dan se xian shi	单色显示	119
+dan ban ji suan ji	单板计算机	115
+dan se she bei	单色设备	113
+dan xiang mi ma	单向密码	112
+dan ge cuo wu	单个错误	107
+dan gu zhang	单故障	107
+dan pian ji suan ji	单片计算机	96
+dan dian kong zhi	单点控制	94
+dan xi tong ying xiang	单系统映像	86

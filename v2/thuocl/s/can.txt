@@ -1,0 +1,171 @@
+can ting	餐厅	62518
+can ji ren	残疾人	58094
+can ji	残疾	50379
+can yu zhe	参与者	43237
+can kao zi liao	参考资料	36987
+can shu chuan di	参数传递	33692
+can shu lei xing	参数类型	31089
+can bao	参保	27630
+can kao wen xian	参考文献	27032
+can shu she zhi	参数设置	22119
+can shu shuo ming	参数说明	16812
+can lian	残联	15039
+can kao wen dang	参考文档	8605
+can zhang	残障	8456
+can shu hua	参数化	7903
+can shu pei zhi	参数配置	7072
+can shu xin xi	参数信息	6954
+can bao	餐包	6156
+can bu ren du	惨不忍睹	4708
+can ji pei chang jin	残疾赔偿金	4307
+can shu wen jian	参数文件	3889
+can bao lv	参保率	3118
+can zhao gong wu yuan fa	参照公务员法	3118
+can ji ren fu li ji jin hui	残疾人福利基金会	2163
+can shu gu ji	参数估计	2036
+can shu bang ding	参数绑定	1772
+can shu jie xi	参数解析	1666
+can shu hua lei xing	参数化类型	1573
+can jue ren huan	惨绝人寰	1517
+can shu xiang jie	参数详解	1429
+can que bu quan	残缺不全	1339
+can zhao wan zheng xing	参照完整性	1236
+can kao zi yuan	参考资源	1067
+can shu you hua	参数优化	1025
+can kao zhen	参考帧	797
+can dan jing ying	惨淡经营	737
+can po bu kan	残破不堪	686
+can lan hui huang	灿烂辉煌	676
+can shu kong jian	参数空间	676
+can wu ren dao	惨无人道	598
+can liu shu ju	残留数据	488
+can ji ren jiu ye tiao li	残疾人就业条例	450
+can jia min bing zu zhi	参加民兵组织	308
+can shu ce shi	参数测试	234
+can dou fen	蚕豆粉	215
+can geng sheng fan	残羹剩饭	200
+can geng leng zhi	残羹冷炙	173
+can jia cheng dui	参加承兑	168
+can shu xun you	参数寻优	154
+can dou bing	蚕豆病	134
+can ji ren jiao yu tiao li	残疾人教育条例	117
+can hua cha	参花茶	103
+can liu ying li	残留应力	100
+can shu yue shu	参数约束	96
+can kao dian	参考点	95
+can yu jia zhi	残余价值	93
+can jia cheng dui ren	参加承兑人	92
+can zhao dan wei	参照单位	90
+can ruo fan xing	灿若繁星	79
+can shi jing tun	蚕食鲸吞	70
+can mai zhu she ye	参麦注射液	67
+can huan mao yin	参环毛蚓	55
+can bing bai jiang	残兵败将	53
+can feng lu su	餐风露宿	53
+can shu hua she ji	参数化设计	46
+can zhong guan li ban fa	蚕种管理办法	45
+can jia fu kuan ren	参加付款人	39
+can lv	惨绿	39
+can ling bai zhu san	参苓白术散	34
+can zha yu nie	残渣余孽	34
+can ju chang	餐具厂	33
+can dou guan tou	蚕豆罐头	32
+can jia you xian gu	参加优先股	28
+can liu qiang du	残留强度	28
+can song yang xin jiao nang	参松养心胶囊	28
+can tang sheng fan	残汤剩饭	28
+can feng yin lu	餐风饮露	26
+can sha	蚕砂	26
+can fu zhu she ye	参附注射液	25
+can hua bai liu	残花败柳	25
+can zhi	残值	25
+can ji	残基	24
+can shan	参山	24
+can bao bu ren	残暴不仁	22
+can mai tuan yu	参麦团鱼	21
+can han zhuo jin	参汉酌金	17
+can ling bai zhu wan	参苓白术丸	17
+can qi mu ji tang	参芪母鸡汤	16
+can shi fu ji ying	蚕饰腹寄蝇	13
+can kao ma	参考码	12
+can lu fu zheng jiao nang	参鹿扶正胶囊	11
+can ha ping chuan jiao nang	参蛤平喘胶囊	10
+can qi xin shu jiao nang	参七心疏胶囊	10
+can zheng shan duan	参蒸鳝段	10
+can qi jiao nang	参芪胶囊	9
+can yi zhong	残遗种	9
+can zhi lv	残值率	9
+can guan fang wen fa	参观访问法	8
+can jia gong si zhai	参加公司债	8
+can yong guan tou	蚕蛹罐头	8
+can cong ji yu fu	蚕丛及鱼凫	7
+can fu tang	参附汤	7
+can di yi shen kou fu ye	参地益肾口服液	6
+can gui lu rong wan	参桂鹿茸丸	6
+can nei	参内	6
+can dou chao xia ren	蚕豆炒虾仁	5
+can jiao zi gong	残角子宫	5
+can qi hong zao ru ge tang	参芪红枣乳鸽汤	5
+can zheng hu tong	参政胡同	5
+can nan xing kou fu ye	参南星口服液	4
+can qi dun bai feng	参芪炖白凤	4
+can qi jiang tang jiao nang	参芪降糖胶囊	4
+can su wan	参苏丸	4
+can chan xiao jie jiao nang	参蟾消解胶囊	3
+can e wen shen kou fu ye	参蛾温肾口服液	3
+can qi fu zheng zhu she ye	参芪扶正注射液	3
+can yue xia han sha	残月下寒沙	3
+can bei yu leng zhi	残杯与冷炙	2
+can gui run zao cha ji	参归润燥搽剂	2
+can jian zui zhuang	参见罪状	2
+can ling bai zhu ke li	参苓白术颗粒	2
+can mian sang ye xi	蚕眠桑叶稀	2
+can qi nao kang jiao nang	参七脑康胶囊	2
+can que lei que xian	残缺类缺陷	2
+can shu chan cui jin	残暑蝉催尽	2
+can shu jiao nang	参术胶囊	2
+can xue an sui bing sun di	残雪暗随冰笋滴	2
+can yang jiao nang	参阳胶囊	2
+can dan kan ming jing	惨淡看铭旌	1
+can gui li zhong wan	参桂理中丸	1
+can guo dun shou rou	参果炖瘦肉	1
+can hong ban po lian	残红半破莲	1
+can hua luo jin jian liu ying	残花落尽见流莺	1
+can lian jiao nang	参莲胶囊	1
+can ling bai zhu jiao nang	参苓白术胶囊	1
+can ling gan kang jiao nang	参灵肝康胶囊	1
+can ling lan jiao nang	参灵蓝胶囊	1
+can long ning xin jiao nang	参龙宁心胶囊	1
+can mai xue li shou rou tang	参麦雪梨瘦肉汤	1
+can mei yang wei ke li	参梅养胃颗粒	1
+can nian bang shui guo	残年傍水国	1
+can po qian zi	参婆千子	1
+can qi jian wei ke li	参芪健胃颗粒	1
+can qi jiang tang ke li	参芪降糖颗粒	1
+can qi ke li	参杞颗粒	1
+can qi ke li	参芪颗粒	1
+can qi pian	参芪片	1
+can qi shi yi wei ke li	参芪十一味颗粒	1
+can qiong pu tao tang zhu she ye	参芎葡萄糖注射液	1
+can shan cun	参山村	1
+can shao pian	参芍片	1
+can su gan mao pian	参苏感冒片	1
+can sui yan	残髓炎	1
+can suo ba ji kou fu ye	参锁巴戟口服液	1
+can wei yan	残胃炎	1
+can wu qing cheng se	惭无倾城色	1
+can xia hu bian se	残霞忽变色	1
+can xian sheng mai kou fu ye	参仙升脉口服液	1
+can xiao you de meng yi xi	残宵犹得梦依稀	1
+can yue luo hua yan zhong	残月落花烟重	1
+can yun gui tai hua	残云归太华	1
+can yun shou xia shu	残云收夏暑	1
+can zhi jiao nang	参志胶囊	1
+can zhu jing ke li	参竹精颗粒	1
+can chi jing jia	残齿胫甲	0
+can dou ying ye e	蚕豆影夜蛾	0
+can lan hua mian xie	灿烂滑面蟹	0
+can lan kuang deng yu	灿烂眶灯鱼	0
+can lan shuang wei hui die	灿烂双尾灰蝶	0
+can lan wen ji ying	灿烂温寄蝇	0
+can yi yuan hai shan ha	参议员海扇蛤	0

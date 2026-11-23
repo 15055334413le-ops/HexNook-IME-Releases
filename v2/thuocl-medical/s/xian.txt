@@ -1,0 +1,101 @@
+xian tian xing xin zang bing	先天性心脏病	1198
+xian ji yi yuan	县级医院	1038
+xian tian xing ji bing	先天性疾病	643
+xian chang yan jiu	现场研究	596
+xian wei wai ke	显微外科	462
+xian zhao liu chan	先兆流产	436
+xian tian xing bai nei zhang	先天性白内障	421
+xian tian xing er long	先天性耳聋	351
+xian tian xing ju jie chang	先天性巨结肠	322
+xian wei dan bai yuan	纤维蛋白原	318
+xian yang ti fei da	腺样体肥大	305
+xian wei xing	纤维性	288
+xian wei ji shu	显微技术	279
+xian tian xing nao ji shui	先天性脑积水	266
+xian tian xing qing guang yan	先天性青光眼	237
+xian he cao	仙鹤草	224
+xian zhao zi xian	先兆子痫	220
+xian tian xing kuan guan jie tuo wei	先天性髋关节脱位	218
+xian kuang diao cha	现况调查	217
+xian wei wai ke ji shu	显微外科技术	217
+xian chong bing	线虫病	207
+xian bing du gan ran	腺病毒感染	205
+xian tian xing ruo shi	先天性弱视	205
+xian tian xing ma ti nei fan zu	先天性马蹄内翻足	202
+xian tian xing nao xue guan ji xing	先天性脑血管畸形	199
+xian xing yi chuan	显性遗传	194
+xian wei xi bao	纤维细胞	191
+xian cun liang	现存量	187
+xian dai yi xue mo shi	现代医学模式	187
+xian wei zhu she	显微注射	185
+xian ling pi	仙灵脾	183
+xian tian xing mei du	先天性梅毒	180
+xian li ti yi chuan	线粒体遗传	171
+xian tian xing yu xing	先天性愚型	163
+xian wei rou liu	纤维肉瘤	155
+xian tian xing fei dong mai xia zhai	先天性肺动脉狭窄	147
+xian ling gu bao jiao nang	仙灵骨葆胶囊	142
+xian tian xing ge shan	先天性膈疝	142
+xian tian xing shi guan bi suo	先天性食管闭锁	142
+xian tian xing zhong liu	先天性肿瘤	139
+xian wei cao zuo	显微操作	135
+xian xing gan ran	显性感染	132
+xian zhu li	鲜竹沥	132
+xian xing bang guang yan	腺性膀胱炎	125
+xian tian xing xie jing	先天性斜颈	121
+xian yang nang xing ai	腺样囊性癌	117
+xian tian xing feng zhen zong he zheng	先天性风疹综合征	113
+xian piao ling he gan	腺嘌呤核苷	108
+xian tian xing dong mai liu	先天性动脉瘤	103
+xian tian xing duo mao zheng	先天性多毛症	103
+xian tian xing lou dou xiong	先天性漏斗胸	98
+xian tian xing wu hong mo	先天性无虹膜	98
+xian wei hou jing jian cha	纤维喉镜检查	98
+xian le xiong jiao nang	仙乐雄胶囊	91
+xian liu yang xi rou	腺瘤样息肉	91
+xian tian xing fei nang zhong	先天性肺囊肿	91
+xian tian xing tuo fa	先天性脱发	91
+xian tian xing yan qiu zhen chan	先天性眼球震颤	91
+xian zheng zhe	先证者	91
+xian li kou fu ye	仙藜口服液	84
+xian tian xing shi guan xia zhai	先天性食管狭窄	84
+xian tian xing yin dao bi suo	先天性阴道闭锁	84
+xian zhi xing xin ji bing	限制性心肌病	84
+xian dai kou qiang zhong zhi xue	现代口腔种植学	76
+xian gan dan an suan	腺苷蛋氨酸	76
+xian ti fei da	腺体肥大	76
+xian tian xing hou bi kong bi suo	先天性后鼻孔闭锁	76
+xian tian xing hou chuan ming	先天性喉喘鸣	76
+xian tian xing kuan tuo wei	先天性髋脱位	76
+xian tian xing shen nang zhong	先天性肾囊肿	76
+xian tian xing zu ji xing	先天性足畸形	76
+xian gan gu an pian	腺苷钴胺片	66
+xian shi	涎石	66
+xian tian xing zhu dong mai suo zhai	先天性主动脉缩窄	66
+xian wei lian jie dan bai	纤维连接蛋白	66
+xian cai huang lian su jiao nang	苋菜黄连素胶囊	51
+xian fang huo ming yin	仙方活命饮	51
+xian qiang yan ling	先强严灵	51
+xian se xi bao ai	嫌色细胞癌	51
+xian shou li shang xu duan mi fang	仙授理伤续断秘方	51
+xian tian xing bin gu tuo wei	先天性髌骨脱位	51
+xian tian xing chui zhi ju gu	先天性垂直距骨	51
+xian tian xing dai xie que xian	先天性代谢缺陷	51
+xian tian xing er qian lou guan	先天性耳前瘘管	51
+xian tian xing fei dong jing mai lou	先天性肺动静脉瘘	51
+xian tian xing fei fa yu bu quan	先天性肺发育不全	51
+xian tian xing feng zhen zong he zheng	先天性风疹综合症	51
+xian tian xing gan nang zhong	先天性肝囊肿	51
+xian tian xing hou pu	先天性喉蹼	51
+xian tian xing ji bing	先天性肌病	51
+xian tian xing ji qiang zhi	先天性肌强直	51
+xian tian xing jian nei fan	先天性睑内翻	51
+xian tian xing jing zhuang ti tuo wei	先天性晶状体脱位	51
+xian tian xing kuan nei fan	先天性髋内翻	51
+xian tian xing que ya	先天性缺牙	51
+xian tian xing se zhi	先天性色痣	51
+xian tian xing tu fa	先天性秃发	51
+xian wei she ying shu	显微摄影术	51
+xian wei su yan sheng wu	纤维素衍生物	51
+xian wei wai ke shu	显微外科术	51
+xian wei xing gu yan	纤维性骨炎	51

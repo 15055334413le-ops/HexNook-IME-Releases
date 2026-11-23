@@ -1,0 +1,10 @@
+pjzfc	拼接字符串	390
+pjddsj	平均等待时间	256
+pjhs	评价函数	250
+pjl	谱聚类	238
+pjbd	破解补丁	236
+pjxdsj	平均寻道时间	193
+pjfwsj	平均访问时间	153
+pjxfsj	平均修复时间	135
+pjcqsj	平均存取时间	125
+pjfx	破解分析	123

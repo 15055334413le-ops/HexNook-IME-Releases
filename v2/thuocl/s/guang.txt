@@ -1,0 +1,572 @@
+guang chang	广场	200272
+guang dong sheng	广东省	182201
+guang bo ying shi	广播影视	20453
+guang xi zhuang zu zi zhi qu	广西壮族自治区	18812
+guang xu	光绪	10210
+guang bo dian ying dian shi zong ju	广播电影电视总局	7308
+guang mao	广袤	6584
+guang hua	光滑	5991
+guang fa	广发	5053
+guang gao jing ying zhe	广告经营者	4947
+guang dian ju	广电局	4928
+guang gao fa bu zhe	广告发布者	4528
+guang zhou huo che zhan	广州火车站	4237
+guang bo di zhi	广播地址	4172
+guang zhou jiu jia	广州酒家	4048
+guang bo jie shou qi	广播接收器	3893
+guang hua	光华	3784
+guang yuan shi	广元市	3606
+guang dong cai	广东菜	3514
+guang du you xian sou suo	广度优先搜索	3196
+guang an shi	广安市	3156
+guang sou	广搜	2832
+guang ming zheng da	光明正大	2682
+guang bo jie shou zhe	广播接收者	2262
+guang sha	广厦	2081
+guang zhou dong zhan	广州东站	2001
+guang pu	光谱	1995
+guang shi yue bing	广式月饼	1935
+guang xi zi zhi qu	广西自治区	1810
+guang du you xian	广度优先	1802
+guang du you xian bian li	广度优先遍历	1720
+guang bo dian shi she shi	广播电视设施	1646
+guang shan hua	光栅化	1580
+guang tian hua ri	光天化日	1531
+guang ming lei luo	光明磊落	1518
+guang bo ji zhi	广播机制	1443
+guang cai duo mu	光彩夺目	1183
+guang liu	光流	1166
+guang bing	光饼	1142
+guang dong tai shan	广东台山	1141
+guang kai yan lu	广开言路	1116
+guang qu men	广渠门	1115
+guang hua lu	光华路	1056
+guang zhao mo xing	光照模型	1035
+guang an men	广安门	1021
+guang han shi	广汉市	971
+guang guai lu li	光怪陆离	968
+guang shen tie lu	广深铁路	902
+guang ning	广宁	899
+guang xi shi fan da xue	广西师范大学	836
+guang gao ping tai	广告平台	811
+guang ming lu	光明路	802
+guang he	广河	799
+guang ming cun	光明村	799
+guang he	光和	766
+guang dian	光点	758
+guang shen gao su gong lu	广深高速公路	752
+guang shui shi	广水市	739
+guang zhou lu	广州路	724
+guang zhou da dao bei	广州大道北	663
+guang gao yong jin	广告佣金	660
+guang feng	广丰	658
+guang du sou suo	广度搜索	633
+guang hui can lan	光辉灿烂	633
+guang bu tun	广埠屯	632
+guang zhou huo che dong zhan	广州火车东站	629
+guang pu	广谱	628
+guang rao	广饶	599
+guang zong yao zu	光宗耀祖	593
+guang bo quan	广播权	574
+guang yi biao	广义表	568
+guang zhou da dao zhong	广州大道中	550
+guang zhou jun qu zong yi yuan	广州军区总医院	541
+guang qiang	光强	524
+guang yi xian xing mo xing	广义线性模型	520
+guang ling	广陵	517
+guang bo dian shi guan li tiao li	广播电视管理条例	504
+guang bo tai	广播台	501
+guang shan	光山	486
+guang ze du	光泽度	435
+guang shan gong lu	广汕公路	431
+guang qi ri ye	广汽日野	420
+guang shi dian xin	广式点心	419
+guang xian zhui zong	光线追踪	397
+guang liu fa	光流法	394
+guang tong	广通	391
+guang dian zhong xin	广电中心	385
+guang chang	广昌	379
+guang qu men qiao	广渠门桥	379
+guang yin ren ran	光阴荏苒	369
+guang hua men	光华门	360
+guang bo dian shi fa	广播电视法	338
+guang xi qu	广西区	338
+guang dai	光带	331
+guang xian gen zong	光线跟踪	330
+guang chang lu	广场路	324
+guang yi er yuan	广医二院	318
+guang zhou huo che	广州火车	303
+guang fu lu	光复路	296
+guang dian da sha	广电大厦	291
+guang xian tou she	光线投射	280
+guang ling	广灵	279
+guang zhong bo shou	广种薄收	279
+guang mang wan zhang	光芒万丈	267
+guang zhou bi gui yuan	广州碧桂园	266
+guang ban	光斑	264
+guang dian tong	广点通	261
+guang ping	广平	255
+guang yuan	广源	250
+guang an da jie	广安大街	232
+guang gao fa bu he tong	广告发布合同	228
+guang xian fang xiang	光线方向	226
+guang mao wu yin	广袤无垠	223
+guang yin si jian	光阴似箭	222
+guang nei	广内	216
+guang xi lu	广西路	216
+guang dong zong zi	广东粽子	215
+guang ji qiao	广济桥	214
+guang gao lun bo	广告轮播	213
+guang zhong lu	广中路	208
+guang liang du	光亮度	206
+guang dong lu	广东路	199
+guang zhou xing qun	广州星群	193
+guang an men nei	广安门内	183
+guang liu chang	光流场	182
+guang wei lu	广卫路	174
+guang pu kang sheng su	广谱抗生素	166
+guang liang	光良	165
+guang ming ru ye	光明乳业	162
+guang dao	光导	156
+guang huo xiang you	广藿香油	156
+guang hai	广海	151
+guang pu fen xi	光谱分析	146
+guang ya	光亚	144
+guang jiao hou shi jing	广角后视镜	134
+guang hua	广化	133
+guang shun	广顺	132
+guang ming qiao	光明桥	131
+guang qi	光气	130
+guang shen gong lu	广深公路	130
+guang dong liang cha	广东凉茶	121
+guang dong yue bing	广东月饼	121
+guang xu di	光绪帝	121
+guang dong da sha	广东大厦	117
+guang sheng	广生	117
+guang shan sao miao	光栅扫描	116
+guang ji jie	广济街	115
+guang ba lu	广八路	113
+guang ming shi chang	光明市场	113
+guang hua qiao	广化桥	111
+guang yue lu	广粤路	103
+guang hua cun jie	光华村街	97
+guang wen	广文	97
+guang gao fa gui yu guan li	广告法规与管理	96
+guang hua jie	光华街	94
+guang lian da	广联达	94
+guang rong sui yue	光荣岁月	94
+guang yang	光阳	94
+guang yu yan	广语言	94
+guang zong	广宗	94
+guang xue xian wei jing	光学显微镜	93
+guang kou	光口	92
+guang long	广隆	92
+guang zhou jie	广州街	91
+guang zhou sai ma chang	广州赛马场	90
+guang ming lou	光明楼	86
+guang fu jiu wu	光复旧物	84
+guang gu hua	光固化	83
+guang ming nong chang	光明农场	83
+guang ming xiao qu	光明小区	82
+guang yuan lu	广元路	82
+guang de lu	广德路	80
+guang xin lu	光新路	79
+guang ta lu	光塔路	78
+guang ke jian ren	光可鉴人	76
+guang hua si	广化寺	75
+guang yuan xin cun	广园新村	75
+guang fa yin hang	广发银行	74
+guang dong sheng guo jia an quan ting	广东省国家安全厅	73
+guang tong xin	光通信	73
+guang hui cun	光辉村	72
+guang rong lu	光荣路	72
+guang da lu	广达路	70
+guang ming jie	光明街	67
+guang ren si	广仁寺	64
+guang xue tu xiang	光学图像	64
+guang rong cun	光荣村	63
+guang fu qiao	广福桥	61
+guang ming xiang	光明巷	59
+guang ming xin cun	光明新村	59
+guang zhou gang tie chang	广州钢铁厂	59
+guang fu gong lu	广佛公路	58
+guang yuan xi lu	广元西路	58
+guang bi	光笔	57
+guang lao hua	光老化	57
+guang zhou lang qi	广州浪奇	56
+guang sheng	光生	55
+guang she	光社	54
+guang dong gong da	广东工大	53
+guang huo xiang	广藿香	53
+guang han chan si tu	广汉缠丝兔	51
+guang chang xi men	广场西门	50
+guang dian xiao ying	光电效应	50
+guang chang dong men	广场东门	49
+guang xia	广夏	48
+guang dian lu	广电路	47
+guang zheng bo yin	广征博引	46
+guang zhou wen chang ji	广州文昌鸡	46
+guang ling si lu	广灵四路	45
+guang qu men nei	广渠门内	45
+guang bo zu zhi quan	广播组织权	44
+guang hua qiao	光华桥	44
+guang fu qiao bei jie	广福桥北街	43
+guang sha cheng	广厦城	43
+guang an suan	胱氨酸	42
+guang lu fang	光禄坊	42
+guang wu men jie dao	广武门街道	41
+guang dong sheng long chuan xian	广东省龙川县	39
+guang fu lu kou	广佛路口	39
+guang tian hong yi	广田弘毅	39
+guang dong fa xue	广东法学	38
+guang ta jie dao	光塔街道	37
+guang yuan lu	广源路	36
+guang an xian	广安县	34
+guang rong dao	光荣道	34
+guang yu ji tuan	广宇集团	33
+guang zi ji suan ji	光子计算机	33
+guang ling yi lu	广灵一路	32
+guang xiao	光孝	32
+guang zhou jie dao	广州街道	32
+guang zhou liang fen	广州凉粉	32
+guang run	广润	31
+guang yuan xiao qu	广源小区	31
+guang da huan qiu	广大环球	30
+guang fu qiao jie	广福桥街	30
+guang hui duo mu	光辉夺目	29
+guang min xing pi yan	光敏性皮炎	29
+guang feng ji yue	光风霁月	27
+guang ji tun cun	广积屯村	27
+guang an hu tong	广安胡同	26
+guang fa lv shi shi wu suo	广发律师事务所	26
+guang jin qian cao	广金钱草	26
+guang dong dong guan shi feng gang zhen	广东东莞市凤岗镇	25
+guang fa ai gou xin yong ka	广发爱狗信用卡	25
+guang shan xian shi	光栅显示	25
+guang wei lu zong zhan	广卫路总站	25
+guang xin lu	广新路	25
+guang yan wan zhang	光焰万丈	25
+guang hua yuan	光华园	24
+guang wei liu chuan	广为流传	24
+guang yin xu du	光阴虚度	24
+guang da gong si	广大公司	22
+guang dong li liao fa	光动力疗法	22
+guang ming gang gong yuan	光明港公园	22
+guang qian cun	光前村	22
+guang xi men	光熙门	22
+guang yue lou	光岳楼	22
+guang dong dong guan shi zhang an zhen	广东东莞市长安镇	21
+guang hui xiang	光辉巷	21
+guang hua lu dong kou	光华路东口	20
+guang jian	广见	20
+guang jing chong wu yi yuan	光景宠物医院	20
+guang ling er lu	广灵二路	19
+guang ming hu tong	光明胡同	19
+guang shun lu	广顺路	19
+guang yi jie	广义街	19
+guang zhou fen hang	广州分行	19
+guang dian yun tong	广电运通	18
+guang dong dong guan shi hu men zhen	广东东莞市虎门镇	18
+guang fang ji	广防己	18
+guang mo liang zi	广末凉子	18
+guang xi men bei li	光熙门北里	18
+guang zong	光宗	18
+guang chun yu	光唇鱼	17
+guang cun chu qi	光存储器	17
+guang gao fa lv zhi du	广告法律制度	17
+guang ming lu kou	光明路口	17
+guang rui lu	广瑞路	17
+guang shi wu ren yue bing	广式五仁月饼	17
+guang tong dao	广通道	17
+guang yang	广洋	17
+guang dong dong guan shi zhong tang zhen	广东东莞市中堂镇	16
+guang dong sheng shui chan xue xiao	广东省水产学校	16
+guang dong zhong shan shi xiao lan zhen	广东中山市小榄镇	16
+guang han xian	广汉县	16
+guang hua yi lu	广花一路	16
+guang min wu zhi	光敏物质	16
+guang ning lu	广宁路	16
+guang sha tian du cheng	广厦天都城	16
+guang wei jie dao	广卫街道	16
+guang du xing fan ying	光毒性反应	15
+guang ling jun	广陵郡	15
+guang zhou huo che zhan zong zhan	广州火车站总站	15
+guang zhou tian pin	广州甜品	15
+guang an hong gao	广安烘糕	14
+guang cun sha chong	光村沙虫	14
+guang de	光德	14
+guang dong zhong shan shi heng lan zhen	广东中山市横栏镇	14
+guang kai si ma lu	广开四马路	14
+guang qiao	广桥	14
+guang zhou nan lu	广州南路	14
+guang pu tu	光谱图	13
+guang dong dong guan shi da lang zhen	广东东莞市大朗镇	12
+guang dong dong guan shi shi pai zhen	广东东莞市石排镇	12
+guang dong wen chang ji	广东文昌鸡	12
+guang han jun	广汉郡	12
+guang shi yun tun mian	广式云吞面	12
+guang an men che zhan xi jie	广安门车站西街	11
+guang bing	广饼	11
+guang dong dong guan shi ma yong zhen	广东东莞市麻涌镇	11
+guang dong liang cha ke li	广东凉茶颗粒	11
+guang fu qiao lu kou	广福桥路口	11
+guang liao fa	光疗法	11
+guang ning cun	广宁村	11
+guang ze lu	广泽路	11
+guang zhou bei lu	广州北路	11
+guang an men bei	广安门北	10
+guang an men bei zhan	广安门北站	10
+guang an men nan	广安门南	10
+guang li da sha	广利大厦	10
+guang sha jia yuan	广厦家园	10
+guang shi mi jian	广式蜜饯	10
+guang xiao pu ti	光孝菩提	10
+guang dong chao zhou quan	广东潮州犬	9
+guang dong dong guan shi hou jie zhen	广东东莞市厚街镇	9
+guang dong dong guan shi qing xi zhen	广东东莞市清溪镇	9
+guang dong zhong shan shi gu zhen zhen	广东中山市古镇镇	9
+guang hua qiao xi	光华桥西	9
+guang ming nan jie	光明南街	9
+guang xi hai jing di yi zhi dui	广西海警第一支队	9
+guang yan lu	广延路	9
+guang yao cun	光耀村	9
+guang ding	光定	8
+guang fa zheng quan	广发证券	8
+guang hua chang	光华厂	8
+guang hua qiao nan	光华桥南	8
+guang ming li she qu	光明里社区	8
+guang ming qiao dong	光明桥东	8
+guang qu men da jie	广渠门大街	8
+guang zhong ma tou	广中码头	8
+guang dong guan tou chang	广东罐头厂	7
+guang dong sheng dang an tiao li	广东省档案条例	7
+guang dong zhong shan shi san xiang zhen	广东中山市三乡镇	7
+guang fu tang	广斧螳	7
+guang pai	广排	7
+guang xiong duan yan tian niu	光胸断眼天牛	7
+guang cai hu tong	光彩胡同	6
+guang chang qiao	广场桥	6
+guang dong zhong shan shi da yong zhen	广东中山市大涌镇	6
+guang dong zhong shan shi san jiao zhen	广东中山市三角镇	6
+guang fan xing jiao lv zhang ai	广泛性焦虑障碍	6
+guang fo si	广佛寺	6
+guang gan shou qi	光感受器	6
+guang lie	光烈	6
+guang qi zhong du	光气中毒	6
+guang shi ying	光适应	6
+guang wai gan shi qiao	广外甘石桥	6
+guang zhou guo guang	广州国光	6
+guang chang kong bu	广场恐怖	5
+guang da bao de xin	光大保德信	5
+guang de cun	光德村	5
+guang dong dong guan shi chang ping zhen	广东东莞市常平镇	5
+guang dong dong guan shi liao bu zhen	广东东莞市寮步镇	5
+guang dong dong guan shi shi jie zhen	广东东莞市石碣镇	5
+guang dong sheng hai nan sheng	广东省海南省	5
+guang dong sheng zhuan li tiao li	广东省专利条例	5
+guang dong xing hu	广东星湖	5
+guang dong zhong shan shi nan lang zhen	广东中山市南朗镇	5
+guang gao xiao yi fa	广告效益法	5
+guang gu hua ji	光固化机	5
+guang guo gan cao	光果甘草	5
+guang lu zhuang	广录庄	5
+guang ming ju wei hui	光明居委会	5
+guang wu miao	光武庙	5
+guang xiang	广祥	5
+guang yu li	光裕里	5
+guang yuan xian	广元县	5
+guang zhou leng ji	广州冷机	5
+guang bai gu fen	广百股份	4
+guang bo dian da	广播电大	4
+guang cai lu zhan shi	光彩露沾湿	4
+guang dong dong guan shi hong mei zhen	广东东莞市洪梅镇	4
+guang dong dong guan shi shi long zhen	广东东莞市石龙镇	4
+guang dong dong guan shi tang sha zhen	广东东莞市塘厦镇	4
+guang dong dong guan shi xie gang zhen	广东东莞市谢岗镇	4
+guang du xing pi yan	光毒性皮炎	4
+guang fu tang lang	广斧螳螂	4
+guang gu hua shu zhi	光固化树脂	4
+guang hua san lu	广花三路	4
+guang hua xing jiao hua bing	光化性角化病	4
+guang ji xian	广济县	4
+guang ming xue	光明穴	4
+guang qu men wai nan li she qu	广渠门外南里社区	4
+guang ren jie	广仁街	4
+guang xiu lu	广秀路	4
+guang yang da jie	广阳大街	4
+guang zhou dao	广州道	4
+guang an suan zhu ji zheng	胱氨酸贮积症	3
+guang cheng qiao	广成桥	3
+guang dan hui piao	光单汇票	3
+guang de xiao qu	广德小区	3
+guang dong bai ling xin	广东百灵信	3
+guang dong dong guan shi heng li zhen	广东东莞市横沥镇	3
+guang dong hua dou qu shi ling zhen	广东花都区狮岭镇	3
+guang dong li xue liao fa	光动力学疗法	3
+guang dong lu wai tan	广东路外滩	3
+guang dong shan zhuang lu	广东山庄路	3
+guang dong zhong shan shi dong sheng zhen	广东中山市东升镇	3
+guang dong zhong shan shi gang kou zhen	广东中山市港口镇	3
+guang dong zhong shan shi min zhong zhen	广东中山市民众镇	3
+guang dong zhong shan shi shi qi qu	广东中山市石岐区	3
+guang fu li	广福里	3
+guang jing yuan	广景苑	3
+guang lu	广禄	3
+guang luo xiang	广罗乡	3
+guang mao da jie	广茂大街	3
+guang ming dong jie	光明东街	3
+guang qiao cun	广桥村	3
+guang shan cun	光山村	3
+guang shi bin guan	广视宾馆	3
+guang shi la wei bao zai fan	广式腊味煲仔饭	3
+guang shun nan da jie bei kou	广顺南大街北口	3
+guang xi men nan li she qu	光熙门南里社区	3
+guang yi cun	广益村	3
+guang yi lu	广艺路	3
+guang ze hu tong	光泽胡同	3
+guang zhou zhu jiang	广州珠江	3
+guang an shi chang	广安市场	2
+guang bo dian shi fa gui xuan bian	广播电视法规选编	2
+guang cai pi fa shi chang	光彩批发市场	2
+guang chu	光初	2
+guang dong dong guan shi cha shan zhen	广东东莞市茶山镇	2
+guang dong dong guan shi qiao tou zhen	广东东莞市桥头镇	2
+guang dong zeng cheng shi xin tang zhen	广东增城市新塘镇	2
+guang dong zhong shan shi dong feng zhen	广东中山市东凤镇	2
+guang dong zhong shan shi huang pu zhen	广东中山市黄圃镇	2
+guang dong zhong shan shi sha xi zhen	广东中山市沙溪镇	2
+guang dong zhong shan shi tan zhou zhen	广东中山市坦洲镇	2
+guang fo si cun	广佛寺村	2
+guang hua cun jie xi	光华村街西	2
+guang hua qiao bei	光华桥北	2
+guang hua zhong lu	光华中路	2
+guang jing bu dai ren	光景不待人	2
+guang ming bei she qu	光明北社区	2
+guang ming yan bing yi yuan	光明眼病医院	2
+guang qi zhang feng	广汽长丰	2
+guang shi shao tian ya	广式烧填鸭	2
+guang shun nan da jie nan kou	广顺南大街南口	2
+guang shun qiao nan	广顺桥南	2
+guang xian xing chun yan	光线性唇炎	2
+guang xian xing jiao hua bing	光线性角化病	2
+guang xiao cun	光孝村	2
+guang yu bao xiang	光裕堡乡	2
+guang zhong lu shui dian lu	广中路水电路	2
+guang zhou bai qie ji	广州白切鸡	2
+guang zhou bi gui yuan zong zhan	广州碧桂园总站	2
+guang zhou wan long	广州万隆	2
+guang an men huo zhan	广安门货站	1
+guang an men nan zhan	广安门南站	1
+guang an suan niao zheng	胱氨酸尿症	1
+guang an suan pian	胱氨酸片	1
+guang cai shan xiu zhang zhi qun	广裁衫袖长制裙	1
+guang cai zhao yao jing tong er	光彩照耀惊童儿	1
+guang de ruo bu zu	广德若不足	1
+guang dian xin xi	广电信息	1
+guang dong bao an qu long hua zhen	广东宝安区龙华镇	1
+guang dong bo luo xian shi wan zhen	广东博罗县石湾镇	1
+guang dong chao an xian an bu zhen	广东潮安县庵埠镇	1
+guang dong chao an xian cai tang zhen	广东潮安县彩塘镇	1
+guang dong dong guan shi dong keng zhen	广东东莞市东坑镇	1
+guang dong dong guan shi huang jiang zhen	广东东莞市黄江镇	1
+guang dong guang xin	广东广信	1
+guang dong ke de	广东科德	1
+guang dong long gang qu bu ji zhen	广东龙岗区布吉镇	1
+guang dong lu zhong yu yuan	广东路中裕园	1
+guang dong nan hai qu xi qiao zhen	广东南海区西樵镇	1
+guang dong pan yu qu hua long zhen	广东番禺区化龙镇	1
+guang dong sheng xin fang tiao li	广东省信访条例	1
+guang dong shun de qu long jiang zhen	广东顺德区龙江镇	1
+guang dong tai shan shi tai cheng zhen	广东台山市台城镇	1
+guang dong zhong shan shi nan tou zhen	广东中山市南头镇	1
+guang fa hua fu	广发华福	1
+guang fa yong xiang	广发永乡	1
+guang gu tai yang cheng	光谷太阳城	1
+guang guang hu qi wu bu rong ye	广广乎其无不容也	1
+guang he li she qu	广和里社区	1
+guang hua xian	光华县	1
+guang hua xing chun yan	光化性唇炎	1
+guang hui mei su	光辉霉素	1
+guang jie chu xing pi yan	光接触性皮炎	1
+guang jing chi xi liu	光景驰西流	1
+guang kai er ma lu	广开二马路	1
+guang kai lu	广开路	1
+guang kai san ma lu	广开三马路	1
+guang kai zhong jie	广开中街	1
+guang li jia yuan	广利佳苑	1
+guang ling hua mei lv	广灵画眉驴	1
+guang ling wu xiang gua zi	广灵五香瓜子	1
+guang lu chi tai kai jin xiu	光禄池台开锦绣	1
+guang lu zhuang cun	广禄庄村	1
+guang ming dao	光明道	1
+guang ming suo zhao yao	光明所照耀	1
+guang ning lu shi yan	广宁路实验	1
+guang qu men nan shui guan hu tong	广渠门南水关胡同	1
+guang shou hua mian xie	光手滑面蟹	1
+guang shou qiao	广寿桥	1
+guang tian liang ping	广田亮平	1
+guang wei yuan sheng chou wang	广味源生抽王	1
+guang xi dong xing shi dong xing zhen	广西东兴市东兴镇	1
+guang xi men bei li bei she qu	光熙门北里北社区	1
+guang yi long xiang	广益隆乡	1
+guang yun wu bu zhi	广运无不至	1
+guang zhong lu	光中路	1
+guang zhou ji zai bing	广州鸡仔饼	1
+guang bu qiang wen xue	广布腔吻鳕	0
+guang bu zhong jian shui zao	广布中剑水蚤	0
+guang bu zhu lian jie	广布竹链蚧	0
+guang chuan shan zhi	广川山蛭	0
+guang chun dian pao chong	光唇碘泡虫	0
+guang chun gong yu	光唇弓鱼	0
+guang chun she ju	光唇蛇鮈	0
+guang chun zhan ti chong	光唇粘体虫	0
+guang dong chi xiong xiao ye jia	广东齿胸肖叶甲	0
+guang dong gu jie xia	广东古洁虾	0
+guang dong huang yao tai yang niao	广东黄腰太阳鸟	0
+guang dong ji ying	广东棘蝇	0
+guang dong lan mu tian e	广东蓝目天蛾	0
+guang dong lao ban pu	广东老板鯆	0
+guang dong nan hai xi xie	广东南海溪蟹	0
+guang dong qing xi xie	广东清溪蟹	0
+guang dong qiu bao chong	广东球孢虫	0
+guang dong shi yan xi chong	广东嗜眼吸虫	0
+guang dong wai le shui mu	广东外肋水母	0
+guang dong wei liu shui mu	广东胃瘤水母	0
+guang dong xiao zhou suo luo	广东小舟梭螺	0
+guang dong yao	广东鳐	0
+guang dong yin shi piao chong	广东隐势瓢虫	0
+guang dong ying kou qiu	广东缨口鳅	0
+guang dong yu can	广东芋参	0
+guang dong zhan ti chong	广东粘体虫	0
+guang dong zhang wei hua tian niu	广东长尾花天牛	0
+guang dong zhi pan xi chong	广东殖盘吸虫	0
+guang dong zhu xue xian chong	广东住血线虫	0
+guang duan que chi hu jia	光端缺翅虎甲	0
+guang fu qing ting	广腹蜻蜓	0
+guang fu tong yuan chun	广腹同缘蝽	0
+guang hua jian zhi xie	光滑尖指蟹	0
+guang hua ju dun kuo yu	光滑巨楯蛞蝓	0
+guang hua man luo	光華鬘螺	0
+guang hua shuang ren gu luo	光滑双刃骨螺	0
+guang hui gu hao zao	光辉古貉藻	0
+guang hui ke lao xie	光辉克劳蟹	0
+guang jie yuan ding xie	光洁圆顶蟹	0
+guang lu zhong	广露螽	0
+guang luo mei zhi gou xia	光裸美栉钩虾	0
+guang luo xing ri chong	光裸星日虫	0
+guang lv ling wen ji ye chan	光绿菱纹姬叶蝉	0
+guang mang dou cheng	光芒豆蛏	0
+guang nu jian feng	光怒茧蜂	0
+guang quan xia fu hu feng	光全狭腹胡蜂	0
+guang rong zhi wen luo	光榮織紋螺	0
+guang tun ba chi xiao du	光臀八齿小蠹	0
+guang wen huang fang fu	光吻黄鲂鮄	0
+guang xi bi wei hui quan	广西笔尾灰犬	0
+guang xi fu yu	广西副鱊	0
+guang xi wu zhu	广西蟱蛛	0
+guang yao nan shi yu	光耀南氏鱼	0
+guang yao shuang qi xia jiang	光耀双鳍鰕鳉	0
+guang yao zuo ping	光耀左鲆	0
+guang yuan chun	光缘蝽	0
+guang yuan ma men xi long	广元马门溪龙	0
+guang zhao deng ju ji feng	光爪等距姬蜂	0

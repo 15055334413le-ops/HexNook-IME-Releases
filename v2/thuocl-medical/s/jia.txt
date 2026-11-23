@@ -1,0 +1,129 @@
+jia lei chuan ran bing	甲类传染病	553
+jia an lin	甲胺磷	415
+jia zhuang xian jie jie	甲状腺结节	400
+jia zhuang xian ji su	甲状腺激素	388
+jia gan yi miao	甲肝疫苗	369
+jia zhuang xian gong neng jian tui	甲状腺功能减退	362
+jia quan rong ye	甲醛溶液	307
+jia ka xi tong	甲卡西酮	301
+jia xing xing zao shu	假性性早熟	291
+jia chuang	甲床	287
+jia qiu mi zuo	甲巯咪唑	278
+jia ji mi zuo	甲基咪唑	263
+jia quan zhong du	甲醛中毒	262
+jia xing bing du xing gan yan	甲型病毒性肝炎	256
+jia zhuang xian bing	甲状腺病	254
+jia gan jian du huo yi miao	甲肝减毒活疫苗	229
+jia qiu mi zuo pian	甲巯咪唑片	224
+jia ti sha xing	加替沙星	205
+jia ting shi	家庭史	204
+jia dan bao jun	假单胞菌	197
+jia xing dong mai liu	假性动脉瘤	180
+jia liang xing ji xing	假两性畸形	174
+jia xing gan yan mie huo yi miao	甲型肝炎灭活疫苗	174
+jia zhuang xian e xing zhong liu	甲状腺恶性肿瘤	169
+jia xiao zuo pian	甲硝唑片	167
+jia zhuang xian xian liu	甲状腺腺瘤	163
+jia zhuang pang xian ji su	甲状旁腺激素	160
+jia zhuang xian nang zhong	甲状腺囊肿	160
+jia ji duo ba	甲基多巴	158
+jia zhuang pang xian gong neng kang jin	甲状旁腺功能亢进	158
+jia ji xian wei su	甲基纤维素	155
+jia xing fu shang han	甲型副伤寒	155
+jia zhuang ruan gu	甲状软骨	155
+jia xing gan yan bing du	甲型肝炎病毒	150
+jia huang suan yi ma ti ni	甲磺酸伊马替尼	147
+jia feng mei su jiao nang	甲砜霉素胶囊	145
+jia zhuang xian du zheng	甲状腺毒症	142
+jia zhuang xian qie chu shu	甲状腺切除术	135
+jia ji ma huang jian	甲基麻黄碱	117
+jia zhuang xian pian	甲状腺片	117
+jia bo le ti du jie	贾伯乐提督街	113
+jia di yun tong	甲地孕酮	113
+jia ji gao wan su	甲基睾丸素	113
+jia ji gao wan tong	甲基睾丸酮	113
+jia wei xiao yao wan	加味逍遥丸	113
+jia zhuang xian wei xiang	甲状腺危象	113
+jia an die ling pian	甲氨蝶呤片	108
+jia wei ba zhen yi mu gao	加味八珍益母膏	108
+jia zhuang xian qiu dan bai	甲状腺球蛋白	108
+jia zu xing jie chang xi rou	家族性结肠息肉	108
+jia wei huo xiang zheng qi wan	加味藿香正气丸	103
+jia zhuang xian ci quan qie chu shu	甲状腺次全切除术	103
+jia an die ling	甲氨喋呤	98
+jia huang suan pa zhu sha xing	甲磺酸帕珠沙星	98
+jia ji	颊肌	98
+jia ji zhuan yi mei	甲基转移酶	98
+jia xiao zuo zhu she ye	甲硝唑注射液	98
+jia fen na suan	甲芬那酸	91
+jia fu kui	甲氟喹	91
+jia fu ming	甲福明	91
+jia ji huang piao ling	甲基黄嘌呤	91
+jia lan ta min	加兰他敏	91
+jia ben huang ding niao	甲苯磺丁脲	84
+jia ben zhong du	甲苯中毒	84
+jia feng mei su chang rong pian	甲砜霉素肠溶片	84
+jia he bai fu ning	加合百服宁	84
+jia ji liu yang mi ding	甲基硫氧嘧啶	84
+jia ji yin duo	甲基吲哚	84
+jia jian xi	颊间隙	84
+jia wei xiang lian wan	加味香连丸	84
+jia xiao zuo yin dao pao teng pian	甲硝唑阴道泡腾片	84
+jia zhuang xian qiu dan bai kang ti	甲状腺球蛋白抗体	84
+jia ba pen ding	加巴喷丁	76
+jia feng mei su	甲砜霉素	76
+jia gao tong	甲睾酮	76
+jia gu an jiao nang	甲钴胺胶囊	76
+jia gu an pian	甲钴胺片	76
+jia ji bing er suan niao zheng	甲基丙二酸尿症	76
+jia ji bing xi suan zhi	甲基丙烯酸酯	76
+jia ji ji an	甲基己胺	76
+jia mo duo tang	荚膜多糖	76
+jia xiao zuo bang	甲硝唑棒	76
+jia xing qiu ma bi	假性球麻痹	76
+jia yang bian ding	甲氧苄啶	76
+jia zhu tao zhong du	夹竹桃中毒	76
+jia zhuang xian gai hua	甲状腺钙化	76
+jia zu xing di zhong hai re	家族性地中海热	76
+jia ben huang ding niao pian	甲苯磺丁脲片	66
+jia ben mi zuo ju jue pian	甲苯咪唑咀嚼片	66
+jia fen zao rong ye	甲酚皂溶液	66
+jia huang suan fen tuo la ming	甲磺酸酚妥拉明	66
+jia huang suan pei fu sha xing	甲磺酸培氟沙星	66
+jia ji bian jing	甲基苄肼	66
+jia ji duo ba pian	甲基多巴片	66
+jia ji xue	夹脊穴	66
+jia qiang yun tong pian	甲羟孕酮片	66
+jia ti sha xing jiao nang	加替沙星胶囊	66
+jia ti sha xing zhu she ye	加替沙星注射液	66
+jia wei bao he wan	加味保和丸	66
+jia wei huo xiang zheng qi wan	加味霍香正气丸	66
+jia wei xiao yao san	加味逍遥散	66
+jia xiao zuo fen bu fen jiao nang	甲硝唑芬布芬胶囊	66
+jia xiao zuo huan shi pian	甲硝唑缓释片	66
+jia xiao zuo jiao nang	甲硝唑胶囊	66
+jia xiao zuo rong ye	甲硝唑溶液	66
+jia xing yan sui ma bi	假性延髓麻痹	66
+jia ying yang bu liang	甲营养不良	66
+jia zhuang pang xian ji neng jian tui	甲状旁腺机能减退	66
+jia zhuang she guan nang zhong	甲状舌管囊肿	66
+jia zhuang xian fen	甲状腺粉	66
+jia zhuang xian shang dong mai	甲状腺上动脉	66
+jia ben mi zuo	甲苯咪唑	51
+jia gao tong pian	甲睾酮片	51
+jia ji ben bing an suan	甲基苯丙氨酸	51
+jia ji bi ding	甲基吡啶	51
+jia ji bi ge wan tong	甲基吡咯烷酮	51
+jia ji zu an suan	甲基组氨酸	51
+jia jian fu mai tang	加减复脉汤	51
+jia ke lan dan bai	甲壳蓝蛋白	51
+jia liang xing tong ti	假两性同体	51
+jia nu	假怒	51
+jia po ni long pian	甲泼尼龙片	51
+jia ti sha xing pian	加替沙星片	51
+jia wei zuo jin wan	加味左金丸	51
+jia xiao zuo han shu ye	甲硝唑含漱液	51
+jia xiao zuo kou jia pian	甲硝唑口颊片	51
+jia xiao zuo shuang	甲硝唑霜	51
+jia yang lv pu an pian	甲氧氯普胺片	51
+jia zhou yan	甲周炎	51

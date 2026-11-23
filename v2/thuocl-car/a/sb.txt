@@ -1,0 +1,6 @@
+sbb	上摆臂	126
+sblah	斯巴鲁傲虎	110
+sbcsg	水泵出水管	90
+sbjsg	水泵进水管	61
+sbbj	水泵部件	40
+sbd	水泵垫	30

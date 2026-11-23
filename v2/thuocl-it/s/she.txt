@@ -1,0 +1,47 @@
+she bei qu dong	设备驱动	527
+she bei qu dong cheng xu	设备驱动程序	482
+she bei hao	设备号	467
+she bei xin xi	设备信息	450
+she bei ming	设备名	429
+she bei jie dian	设备节点	410
+she bei miao shu	设备描述	345
+she bei mo xing	设备模型	321
+she ji mo xing	设计模型	321
+she zhi bie ming	设置别名	299
+she ji xu qiu	设计需求	297
+she ji jia gou	设计架构	296
+she zhi zhong xin	设置中心	290
+she bei xing hao	设备型号	276
+she hui hua fen xiang	社会化分享	266
+she bei gong neng	设备功能	262
+she bei ding yi	设备定义	260
+she bei zuo biao	设备坐标	257
+she zhi xiang dao	设置向导	247
+she ru wu cha	舍入误差	235
+she hui hua mei ti	社会化媒体	227
+she xiang ji biao ding	摄像机标定	226
+she ji fen xi	设计分析	222
+she xiang tou qu dong	摄像头驱动	218
+she hui gong cheng xue	社会工程学	214
+she hui hua zu jian	社会化组件	212
+she ji ku	设计库	209
+she ji ping shen	设计评审	196
+she bei zuo biao xi	设备坐标系	192
+she xing ju zhen	蛇形矩阵	188
+she ji yue shu	设计约束	184
+she xing tian shu	蛇形填数	181
+she pin mo kuai	射频模块	172
+she xiang tou biao ding	摄像头标定	170
+she ji mo shi yuan ze	设计模式原则	162
+she ji yan zheng	设计验证	162
+she ji zhi mei	设计之美	159
+she ji zi dong hua	设计自动化	156
+she bei cun chu qi	设备存储器	146
+she shi guan li	设施管理	137
+she bei shi pei qi	设备适配器	125
+she ji shen cha	设计审查	124
+she ji fang fa xue	设计方法学	117
+she zhi tu an	设置图案	115
+she bei shai xuan qi	设备筛选器	100
+she ji bian ji qi	设计编辑器	100
+she ji gui yue	设计规约	100
